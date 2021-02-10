@@ -177,37 +177,21 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden burned in bid to follow Trump playbook"
-    excerpt: "Biden's secretary of Defense pick Lloyd Austin would need the same kind of waiver from Congress James Mattis got."
-    publishedDateTime: 2020-12-08T20:13:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_82qxXiQ2MU/biden-burned-in-bid-to-follow-trump-playbook"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-burned-in-bid-to-follow-trump-playbook.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-burned-in-bid-to-follow-trump-playbook.amp"
+  - title: "Trump says he 'will not be going' to Biden's inauguration"
+    excerpt: "President Trump said Friday he \"will not be going to the Inauguration\" of President-elect Joe Biden — an extraordinary move that will make him the first to skip the inaugural ceremony of his successor since 1869. "
+    publishedDateTime: 2021-01-08T15:51:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fe1wukiqKnI/trump-wont-attend-biden-inauguration"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-wont-attend-biden-inauguration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-wont-attend-biden-inauguration.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 190
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Trump slams lack of media coverage of Hunter Biden"
-    excerpt: "President Trump questioned why the media did not cover Hunter Biden before the election, before again claiming that he won. "
-    publishedDateTime: 2020-12-11T18:32:26Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4VavpxlwzfM/trump-slams-media-coverage-hunter-biden"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-slams-media-coverage-hunter-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-media-coverage-hunter-biden.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/HunterBiden-JoeBiden.jpg"
-        width: 4896
-        height: 2754
         isCached: true
   - title: "Biden questions whether Trump impeachment trial could hinder his agenda"
     excerpt: "President-elect Joe Biden is rushing to ensure the impeachment does not derail his legislative agenda or the confirmation of his Cabinet picks in the early days of his administration."
@@ -513,22 +497,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump plans to outshine Biden on Inauguration Day with opposing rally: report"
-    excerpt: "A new report from Axios claims that President Trump is considering a dramatic White House departure that includes a final Air Force One flight to Florida where he will host a political rally during Joe Biden's inauguration."
-    publishedDateTime: 2020-12-06T23:23:43Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9Mifn6ZHwF8/trump-inauguration-day-rally"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-inauguration-day-rally.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-inauguration-day-rally.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 187
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1c9af622-e777-4a09-8aba-ddcfb4db83c8/edb67c5a-04bb-4b93-aacf-5ef8cad63a8a/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Sen. Graham urges Biden to 'stand down' on 'Scarlet Letter' Trump impeachment"
     excerpt: "Sen. Lindsey Graham, R-S.C., argued on Sunday that pursuing the impeachment of President Trump after he leaves office will ruin the start of Joe Biden's presidency and urged the president-elect to “stand down.”"
     publishedDateTime: 2021-01-17T19:41:27Z
@@ -576,6 +544,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21020499015332.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Live Updates: Trump approves DC emergency declaration prior to Biden inauguration"
+    excerpt: "President Donald Trump on Monday approved an emergency declaration for Washington D.C., ahead of President-elect Joe Biden's inauguration amid fears of potential violence following last week's deadly riot inside the U.S. Capitol. "
+    publishedDateTime: 2021-01-12T04:58:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zdFzsDGBRu4/live-updates-biden-transition-1-12-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-1-12-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-1-12-2021.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3372f6b8-3de7-4132-a3b2-46d83b5ad47e/5721a468-d195-44c9-bc26-ed341316ffc3/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Biden election legal team takes victory lap, praises help from unions, nonprofits"
     excerpt: "President-elect Joe Biden’s legal team on Monday praised help from unions and nonprofits in their efforts to ensure a secure 2020 presidential election, which led to a Biden-Harris victory."
@@ -2097,22 +2081,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Trump Supporters Protest Biden Election Win; Violence Erupts at Night"
-    excerpt: "Evening violence broke out in Washington, D.C., during clashes between some of the president’s allies and counterprotesters."
-    publishedDateTime: 2020-12-13T06:14:00Z
-    webUrl: "https://www.wsj.com/articles/pro-trump-demonstrators-call-to-overturn-bidens-presidential-election-win-11607806033"
-    ampWebUrl: "https://www.wsj.com/amp/articles/pro-trump-demonstrators-call-to-overturn-bidens-presidential-election-win-11607806033"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pro-trump-demonstrators-call-to-overturn-bidens-presidential-election-win-11607806033"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 165
-    images:
-      - url: "https://images.wsj.net/im-272735/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Former DHS Secretary Wolf: 'Every trust and confidence' Biden inauguration will be secured"
     excerpt: "Former Acting Homeland Secretary Chad Wolf praised the security measures around President-elect Joe Biden's inauguration next week in the wake of last week's deadly Capitol riots."
     publishedDateTime: 2021-01-14T16:41:33Z
@@ -2463,70 +2431,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Following Trump, Biden Seeks Waiver for Defense-Chief Pick"
-    excerpt: "The nomination of the retired Army general renews a debate about civil-military relations and could put some congressional Democrats in the position of defending a move they had criticized four years ago."
-    publishedDateTime: 2020-12-10T02:10:00Z
-    webUrl: "https://www.wsj.com/articles/biden-to-introduce-lloyd-austin-as-defense-chief-rekindling-civilian-military-debate-11607531725"
-    ampWebUrl: "https://www.wsj.com/amp/articles/biden-to-introduce-lloyd-austin-as-defense-chief-rekindling-civilian-military-debate-11607531725"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-to-introduce-lloyd-austin-as-defense-chief-rekindling-civilian-military-debate-11607531725"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 150
-    images:
-      - url: "https://images.wsj.net/im-270768/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Trump slams lack of media coverage of Hunter Biden"
-    excerpt: "President Trump questioned why the media did not cover Hunter Biden before the election, before again claiming that he won."
-    publishedDateTime: 2020-12-11T18:44:00Z
-    webUrl: "https://www.foxnews.com/politics/trump-slams-media-coverage-hunter-biden"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-slams-media-coverage-hunter-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-media-coverage-hunter-biden.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 150
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/HunterBiden-JoeBiden.jpg"
-        width: 4896
-        height: 2754
-        isCached: true
-  - title: "How Trump and Biden are spending Christmas Day"
-    excerpt: "Oh Christmas tee, oh Christmas tee. President Trump spent Christmas Day doing what he does best, hitting the links at his Trump International Golf Course in Palm Beach, Florida where he will"
-    publishedDateTime: 2020-12-25T19:22:00Z
-    webUrl: "https://nypost.com/2020/12/25/how-trump-and-biden-are-spending-christmas-day/"
-    ampWebUrl: "https://nypost.com/2020/12/25/how-trump-and-biden-are-spending-christmas-day/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/25/how-trump-and-biden-are-spending-christmas-day/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 150
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/201225-trump-biden-christmas-day.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Biden Says Trump Defense, Budget Officials Are Impeding Transition"
-    excerpt: "President-elect says his team has “encountered roadblocks” from political leaders at the Office of Management and Budget and the Pentagon."
-    publishedDateTime: 2020-12-28T22:10:00Z
-    webUrl: "https://www.wsj.com/articles/biden-says-trump-defense-budget-officials-are-impeding-transition-11609193054"
-    ampWebUrl: "https://www.wsj.com/amp/articles/biden-says-trump-defense-budget-officials-are-impeding-transition-11609193054"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-says-trump-defense-budget-officials-are-impeding-transition-11609193054"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 150
-    images:
-      - url: "https://images.wsj.net/im-278568/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "House set to impeach Trump for 2nd time as Pence refuses removal"
     excerpt: "House expected vote to impeach Trump after Pence refuses removal The U.S. House of Representatives is expected to vote to impeach President Trump on Wednesday. The House voted late Tuesday to pass a resolution urging Vice President Mike Pence to invoke the 25th Amendment to remove the president from office,"
     publishedDateTime: 2021-01-13T09:09:00Z
@@ -2735,22 +2639,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Trump plans to outshine Biden on Inauguration Day with opposing rally: report"
-    excerpt: "A new report from Axios claims that President Trump is considering a dramatic White House departure that includes a final Air Force One flight to Florida where he will host a political rally during Joe Biden's inauguration."
-    publishedDateTime: 2020-12-07T00:03:00Z
-    webUrl: "https://www.foxnews.com/politics/trump-inauguration-day-rally"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-inauguration-day-rally.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-inauguration-day-rally.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 147
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1c9af622-e777-4a09-8aba-ddcfb4db83c8/edb67c5a-04bb-4b93-aacf-5ef8cad63a8a/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Sen. Graham urges Biden to 'stand down' on 'Scarlet Letter' Trump impeachment"
     excerpt: "S.C., argued on Sunday that pursuing the impeachment of President Trump after he leaves office will ruin the start of Joe Biden's presidency and urged the president-elect to “stand down.”"
     publishedDateTime: 2021-01-17T19:56:00Z
@@ -2782,20 +2670,6 @@ related:
       - url: "https://images.wsj.net/im-296732/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Trump keeps denouncing election as Biden transition grinds on"
-    excerpt: "If Trump is even mulling an inaugural counter-event, it means he recognizes that all of his efforts are likely to fail."
-    publishedDateTime: 2020-12-08T12:56:00Z
-    webUrl: "https://www.foxnews.com/media/trump-keeps-denouncing-election-as-biden-transition-grinds-on"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 145
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/AP20338663126539-e1607365004301.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Biden's call for unity flies in the face of media vitriol toward Trump supporters"
     excerpt: "Unity was a dominant theme of President Joe Biden's inaugural address on Wednesday, but it is unknown if that message will resonate with members of the mainstream media."
@@ -3444,20 +3318,6 @@ related:
       - url: "https://assets.realclear.com/images/53/533110_5_.jpg"
         width: 750
         height: 500
-        isCached: true
-  - title: "President Trump: Joe Biden Lied About Hunter Biden Investigation On The Debate Stage"
-    excerpt: "President Trump discussed new reporting that confirms the FBI has indeed been investigating Joe Biden's son Hunter for financial crimes related to his business in Ukraine. President Trump was impeached for asking for help from an allied country about an ongoing criminal investigation."
-    publishedDateTime: 2020-12-13T15:51:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/12/13/president_trump_joe_biden_lied_about_hunter_biden_investigtion_on_the_debate_stage.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 73
-    images:
-      - url: "https://assets.realclear.com/images/52/529627.jpg"
-        width: 750
-        height: 562
         isCached: true
   - title: "Watch Live: Senate Considers Five Biden Nominees"
     excerpt: "The Senate is kicking off a series of high-stakes confirmation hearings Tuesday for President-elect Joe Biden's top cabinet nominees. Lawmakers will question his picks to lead the Departments of State,"

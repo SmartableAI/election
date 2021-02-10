@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/4348778001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4348778001"
 type: article
 quality: 108
-heat: 128
+heat: 108
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "MyPillow Taking Lumps: How Mike Lindell's Trump Support Spells Downfall"
-    excerpt: "CEO Lindell last week was seen at the White House holding notes that seem to support many of the conspiracy theories surrounding election fraud."
-    publishedDateTime: 2021-01-19T12:48:00Z
-    webUrl: "https://www.ibtimes.com/mypillow-taking-lumps-how-mike-lindells-trump-support-spells-downfall-3125478"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/04/gettyimages-1218940907.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "mgp6+eyO8qsjf5MrbRfPhklJKKuHX70hgVmHsScr7xPWs49KthqgdyKh8c32BXb2+GzrDDh9aN9j2HVqcV3hgE3sjbBUQLDWf+EejzC2JlUTW1H+cYRHQiwJ8lOwDYzyjPnibCsmuWeD3GY6d/E8hKYHg4Ves2+S0sIIj6qTQ2Ks0HErVIYQ0UyLwvtjcDZ/oLoy/gFAAOnOc2H/IeVWIkS86w6EvXaVAvjEAVqMsPsZJ18npuQESHu7wZuA4KBwW7kUrKMHEGa9XDLCOT3HhIAna7fYXpzlHFoyjtsFB5XuQsDW9o8Th3SwS6/2ViFnbNllFM1iO6NCNd52ttws8LhrqzCLZRGku6nMYwuicLJWDI5IPolvVVFVFF+d7QnSKLcPPh2TuoC6tnlpV8y8n8BDFJxH5NLrCdAvXqhFJpWPvjwHRnh/3EKGbUo1fS3zWCE6tdUjASSYHWF/Wc06JSuh253RaUexLuB19Hm0tX7cqY9oGtGQwhXhdKu+XCXXOcZyzPmMOk86ccP5SjU6MQ==;V6y3SM6v43c+514jb6Ysow=="
 ---

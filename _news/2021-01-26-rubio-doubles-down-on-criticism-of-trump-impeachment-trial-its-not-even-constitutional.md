@@ -31,213 +31,197 @@ images:
     isCached: true
 
 related:
-  - title: "LIVE UPDATES: Trump impeachment trial delayed until February"
-    excerpt: "Follow for the latest updates on Trump's impeachment."
-    publishedDateTime: 2021-01-23T05:46:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hfMt1sSqDhM/live-updates-trump-impeachment-trial-1-23-21"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-impeachment-trial-1-23-21.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-impeachment-trial-1-23-21.amp"
+  - title: "Kwame Kilpatrick's road to Trump commutation of corruption sentence"
+    excerpt: "Former Detroit Mayor Kwame Kilpatrick was among 70 people who had their prison sentences commuted by President Trump early Wednesday, just hours before the end of the president's term in office."
+    publishedDateTime: 2021-01-20T09:35:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Cziw3l_Yl3I/kwame-kilpatricks-road-to-commutation"
+    ampWebUrl: "https://www.foxnews.com/politics/kwame-kilpatricks-road-to-commutation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kwame-kilpatricks-road-to-commutation.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a1b0bf1a-86a1-4ca8-9894-9739ebb7d128/f2f33f2c-0474-4cef-bbc9-7303999d82d2/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP20143790930191.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Senators mull censuring Trump as an alternative to impeachment trial"
-    excerpt: "Senators mull censuring Trump as an alternative to impeachment trial"
-    publishedDateTime: 2021-01-27T18:01:00Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IyW1h4ErIxc/senators-mull-censuring-trump-impeachment-trial-alternative"
-    ampWebUrl: "https://www.foxnews.com/politics/senators-mull-censuring-trump-impeachment-trial-alternative.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senators-mull-censuring-trump-impeachment-trial-alternative.amp"
+  - title: "Trump and Bannon's rocky road to a pardon"
+    excerpt: "President Trump early Wednesday issued former White House senior adviser Steve Bannon a pardon. "
+    publishedDateTime: 2021-01-20T10:48:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6q6UYFCBX6c/trump-and-bannons-rocky-road-to-a-pardon"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-and-bannons-rocky-road-to-a-pardon.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-and-bannons-rocky-road-to-a-pardon.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21020179680305.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "LIVE UPDATES: Trump, McCarthy set up meeting ahead of impeachment"
-    excerpt: "Follow for the latest updates on Trump's impeachment"
-    publishedDateTime: 2021-01-28T08:47:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DeQPMQfA-dA/live-updates-trump-impeachment-1-28-21"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-impeachment-1-28-21.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-impeachment-1-28-21.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/32cb91af-d1ac-4bad-991f-9bd146d20dce/ebd3a650-da0d-4fe8-8a9c-923fec42f48b/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Sen. Cory Booker expects Trump impeachment trial 'as quickly as possible'"
-    excerpt: "Sen. Cory Booker, D-N.J., said that after the House voted to impeach President Trump last week, he expects the Senate to hold a trial relatively soon."
-    publishedDateTime: 2021-01-17T19:14:26Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZXTLAGXiBHs/sen-booker-trump-impeachment-trial-quickly-as-possible"
-    ampWebUrl: "https://www.foxnews.com/politics/sen-booker-trump-impeachment-trial-quickly-as-possible.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-booker-trump-impeachment-trial-quickly-as-possible.amp"
+  - title: "Clyburn suggests 14th Amendment could bar Trump from holding office again"
+    excerpt: "House Majority Whip James Clyburn, D-S.C., told Fox News Wednesday that President Trump should be legally prevented from holding elected office again as the House impeached him for an unprecedented second time. "
+    publishedDateTime: 2021-01-13T23:10:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yv6aGsntoTE/clyburn-bar-trump-holding-office-under-14th-amendment"
+    ampWebUrl: "https://www.foxnews.com/politics/clyburn-bar-trump-holding-office-under-14th-amendment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/clyburn-bar-trump-holding-office-under-14th-amendment.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 174
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/31a1fe1e-5515-468e-9607-4738d2533c9f/c9629705-1284-496f-9cfa-44d30c4119aa/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f3569b7d-9926-4c81-ba4f-09cb727ebd76/7c0377cb-daae-4590-a25e-0a3976224e26/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "'QAnon Shaman' willing to testify in Trump's impeachment trial, lawyer says"
-    excerpt: "A man who calls himself the \"QAnon Shaman\" and stormed the U.S. Capitol on Jan. 6 while wearing a horned bearskin headdress, face paint and no shirt, is willing to testify in former President Trump’s upcoming impeachment trial, his lawyer said this week."
-    publishedDateTime: 2021-01-29T04:35:35Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iS88E0-_gno/qanon-shaman-willing-to-testify-in-trumps-impeachment-trial-lawyer-says"
-    ampWebUrl: "https://www.foxnews.com/politics/qanon-shaman-willing-to-testify-in-trumps-impeachment-trial-lawyer-says.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/qanon-shaman-willing-to-testify-in-trumps-impeachment-trial-lawyer-says.amp"
+  - title: "Trump impeachment article being sent to Senate Monday, ahead of trial next month"
+    excerpt: "Just before 7 p.m. on Monday, the House of Representatives' impeachment managers will march an article accusing former President Trump of inciting an insurrection across to the Senate side of the Capitol, officially triggering a trial of the former president that could result in him being barred from"
+    publishedDateTime: 2021-01-25T14:46:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fW9OfGOn-VE/trump-impeachment-article-being-sent-to-senate-today-to-kick-off-trial"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-article-being-sent-to-senate-today-to-kick-off-trial.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-article-being-sent-to-senate-today-to-kick-off-trial.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 173
+    quality: 170
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21028544684163.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "LIVE UPDATES: Trump parts with lead impeachment lawyers a week before trial"
-    excerpt: "Follow for the latest updates on Trump's impeachment trial."
-    publishedDateTime: 2021-01-31T06:42:36Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/z5LhvczW83M/live-updates-trump-impeachment-trial-1-31-21"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-impeachment-trial-1-31-21.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-impeachment-trial-1-31-21.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1280db39-0cc4-4fce-8c70-ebbdd510a556/5b88d5ef-ffb2-4dd2-a4ca-441f12e0a412/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump and McCarthy set up face-to-face meeting as Dems weigh impeachment trial options."
-    excerpt: "Former President Donald trump is expected to meet with House Minority Leader Kevin McCarthy in Florida Thursday, Fox News has learned."
-    publishedDateTime: 2021-01-27T21:18:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vWPpr7YrKEI/trump-and-mccarthy-set-up-face-to-face-meeting-as-dems-weigh-impeachment-trial-options"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-and-mccarthy-set-up-face-to-face-meeting-as-dems-weigh-impeachment-trial-options.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-and-mccarthy-set-up-face-to-face-meeting-as-dems-weigh-impeachment-trial-options.amp"
+  - title: "Leahy expected to preside over Trump impeachment trial instead of Chief Justice Roberts"
+    excerpt: "Sen. Patrick Leahy will preside over the impeachment trial of former President Trump, signaling that Chief Justice John Roberts will not be forced to oversee the politically-charged arguments now that Trump is out of office. "
+    publishedDateTime: 2021-01-25T19:40:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bps-XTLG064/leahy-to-preside-over-senate-impeachment-trial"
+    ampWebUrl: "https://www.foxnews.com/politics/leahy-to-preside-over-senate-impeachment-trial.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/leahy-to-preside-over-senate-impeachment-trial.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 167
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/315610d9-582f-4881-a5ac-41962b062276/a07fe9a0-d66c-4947-9b89-c7a2419e8962/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "LIVE UPDATES: Trump impeachment manager Eric Swalwell says Democrats will 'be ready' with witnesses if allowed"
-    excerpt: "Follow for the latest updates on Trump's impeachment trial."
-    publishedDateTime: 2021-01-24T06:19:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/q9djUbQpluo/live-updates-trump-impeachment-1-24-21"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-impeachment-1-24-21.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-impeachment-1-24-21.amp"
+  - title: "House Democrats present Trump impeachment charge to the Senate, allowing trial to begin"
+    excerpt: "House Democrats presented an article of impeachment against former President Donald Trump to the Senate on Monday night, kicking off proceedings on an unprecedented second trial that could have major consequences for the Republican’s future political prospects."
+    publishedDateTime: 2021-01-26T00:30:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ILMkptU1rlo/trump-impeachment-proceeds-senate-trial-house-democrats-present-charge"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-proceeds-senate-trial-house-democrats-present-charge.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-proceeds-senate-trial-house-democrats-present-charge.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 155
+    quality: 167
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4cd48adb-674f-4d81-b34f-2a62f1752737/7b0254aa-3121-4ce2-82b2-67ef0837684f/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/63fa6f03-9bcc-4985-afd2-add69413791d/f5bbb03c-c7af-4560-b0a5-ddc95ea59265/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "GOP senators blast Dems for moving forward with Trump impeachment trial"
-    excerpt: "Republican senators are blasting Democrats for moving ahead with an impeachment trial against former President Donald Trump after 45 GOP senators voted that it was unconstitutional, with"
-    publishedDateTime: 2021-01-27T14:25:00Z
-    webUrl: "https://nypost.com/2021/01/27/gop-senators-blast-dems-for-pursuing-trump-impeachment-trial/"
-    ampWebUrl: "https://nypost.com/2021/01/27/gop-senators-blast-dems-for-pursuing-trump-impeachment-trial/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/27/gop-senators-blast-dems-for-pursuing-trump-impeachment-trial/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/senate-impeachment-22.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "57 percent of voters say Trump impeachment will further divide Americans"
-    excerpt: "More than half of likely voters say in a new poll that former President Trump being tried in the Senate over his House impeachment would further divide an already politically-torn nation. The"
-    publishedDateTime: 2021-01-28T21:55:00Z
-    webUrl: "https://nypost.com/2021/01/28/most-voters-feel-trump-impeachment-will-divide-nation-more/"
-    ampWebUrl: "https://nypost.com/2021/01/28/most-voters-feel-trump-impeachment-will-divide-nation-more/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/28/most-voters-feel-trump-impeachment-will-divide-nation-more/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 134
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/Trump-impeachment-divide-Americans-2-1.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Ingraham: Second Senate impeachment trial of Trump will be 'ugly, feudal farce'"
-    excerpt: "Senate Majority Leader Chuck Schumer's commitment to holding a post-presidential impeachment trial of Donald Trump sets the stage for an \"ugly, feudal farce,\" Laura Ingraham said Friday."
-    publishedDateTime: 2021-01-23T04:39:00Z
-    webUrl: "https://www.foxnews.com/media/laura-ingraham-trump-impeachment-trial-ugly-feudal-farce"
-    ampWebUrl: "https://www.foxnews.com/media/laura-ingraham-trump-impeachment-trial-ugly-feudal-farce.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/laura-ingraham-trump-impeachment-trial-ugly-feudal-farce.amp"
+  - title: "Trump may issue 50 to 100 commutations, pardons before term ends; rapper Lil Wayne expected to be on list"
+    excerpt: "President Trump is expected to issue between 50 and 100 commutations and pardons before he leaves office this week, two sources familiar with the list told Fox News."
+    publishedDateTime: 2021-01-18T14:26:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Qs02KxEkdDY/trump-expected-pardons-commutations-lil-wayne-before-leaving-office"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-expected-pardons-commutations-lil-wayne-before-leaving-office.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-expected-pardons-commutations-lil-wayne-before-leaving-office.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 131
+    quality: 158
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7f803e6d-1655-44a5-bb1a-14973471d214/5337238f-a929-46b9-8827-dbae154b3388/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Trump and McCarthy set up face-to-face meeting as Dems weigh impeachment trial options."
-    excerpt: "Former President Donald trump is expected to meet with House Minority Leader Kevin McCarthy in Florida Thursday, Fox News has learned."
-    publishedDateTime: 2021-01-27T21:21:00Z
-    webUrl: "https://www.foxnews.com/politics/trump-and-mccarthy-set-up-face-to-face-meeting-as-dems-weigh-impeachment-trial-options"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-and-mccarthy-set-up-face-to-face-meeting-as-dems-weigh-impeachment-trial-options.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-and-mccarthy-set-up-face-to-face-meeting-as-dems-weigh-impeachment-trial-options.amp"
+  - title: "Snoop Dogg praises Trump for commuting sentence of Death Row Record co-founder Michael 'Harry O' Harris"
+    excerpt: "Snoop Dogg praised President Trump in his final hours in office for commuting the sentence of his friend, Death Row Records co-founder Michael \"Harry O\" Harris."
+    publishedDateTime: 2021-01-20T12:52:00Z
+    webUrl: "https://www.foxnews.com/entertainment/snoop-dogg-praises-trump-commuting-sentence-michael-harry-o-harris-death-row-records"
+    ampWebUrl: "https://www.foxnews.com/entertainment/snoop-dogg-praises-trump-commuting-sentence-michael-harry-o-harris-death-row-records.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/snoop-dogg-praises-trump-commuting-sentence-michael-harry-o-harris-death-row-records.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 127
+    quality: 144
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/315610d9-582f-4881-a5ac-41962b062276/a07fe9a0-d66c-4947-9b89-c7a2419e8962/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Snoop-Dogg.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "'Vindictive' and 'harsh' Trump impeachment trial won't bode well for Democrats: Historian Jay Winik"
-    excerpt: "The push by congressional Democrats to convict former President Donald Trump of impeachable offenses feels \"vindictive,\" and \"harsh,\" historian Jay Winik told \"Special Report\" Wednesday."
-    publishedDateTime: 2021-01-28T00:21:00Z
-    webUrl: "https://www.foxnews.com/media/historian-jay-winik-trump-impeachment-trial-senate-filibuster"
-    ampWebUrl: "https://www.foxnews.com/media/historian-jay-winik-trump-impeachment-trial-senate-filibuster.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/historian-jay-winik-trump-impeachment-trial-senate-filibuster.amp"
+  - title: "Trump Pressed Justice Department to Go Directly to Supreme Court to Overturn Election Results"
+    excerpt: "The former president dropped the efforts to replace the acting attorney general after top DOJ officials agreed to resign en masse in protest if he succeeded, people familiar with the matter said."
+    publishedDateTime: 2021-01-23T23:33:00Z
+    webUrl: "https://www.wsj.com/articles/trump-pressed-to-change-justice-department-leadership-to-boost-his-voter-fraud-claims-11611434369"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-pressed-to-change-justice-department-leadership-to-boost-his-voter-fraud-claims-11611434369"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-pressed-to-change-justice-department-leadership-to-boost-his-voter-fraud-claims-11611434369"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 139
+    images:
+      - url: "https://images.wsj.net/im-289628/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Donald Trump pardons, commutes Lil Wayne, Kodak Black sentences prompting reactions from fans and critics"
+    excerpt: "Donald Trump has issued a pardon and sentence commutation to rappers Lil Wayne and Kodak Black ahead of Joe Biden's inauguration. President Trump issued 73 pardons and 70 sentence commutations early Wednesday as he prepared to leave office."
+    publishedDateTime: 2021-01-20T13:17:00Z
+    webUrl: "https://www.foxnews.com/entertainment/donald-trump-pardons-commutes-lil-wayne-kodak-black-reactions-fans-cricits"
+    ampWebUrl: "https://www.foxnews.com/entertainment/donald-trump-pardons-commutes-lil-wayne-kodak-black-reactions-fans-cricits.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/donald-trump-pardons-commutes-lil-wayne-kodak-black-reactions-fans-cricits.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 121
+    quality: 118
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/32cb91af-d1ac-4bad-991f-9bd146d20dce/ebd3a650-da0d-4fe8-8a9c-923fec42f48b/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20346763036479.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Chief Justice John Roberts not expected to preside over Trump impeachment trial, Patrick Leahy likely will"
+    excerpt: "Sen. Patrick Leahy will preside over the impeachment trial of former President Trump, signaling that Chief Justice John Roberts will not be forced to oversee the politically-charged arguments now that Trump is out of office."
+    publishedDateTime: 2021-01-25T19:47:00Z
+    webUrl: "https://www.foxnews.com/politics/leahy-to-preside-over-senate-impeachment-trial"
+    ampWebUrl: "https://www.foxnews.com/politics/leahy-to-preside-over-senate-impeachment-trial.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/leahy-to-preside-over-senate-impeachment-trial.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 117
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Sen.-Patrick-Leahy-.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump Leaves the National Stage -- or Has He?"
+    excerpt: "After descending the marble steps of the White Houses South Portico for his final time as president, Donald Trump couldnt help himself. He stopped"
+    publishedDateTime: 2021-01-21T12:24:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/01/21/trump_leaves_the_national_stage_--_or_has_he__145085.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/01/21/trump_leaves_the_national_stage_--_or_has_he__145085.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/01/21/trump_leaves_the_national_stage_--_or_has_he__145085.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/532981_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "DTE4bngyjWo6GDimekWIlPjOZ6vdCmuS59YQnhswyjnOOIGQJSACfhj6HC5IjIJZZUAUMeUz4mr0Ept8ykmrG8B6CFlGhNggUC/9dZEBPXPwlblZHvZbIVrx4RjDcDXFA2PCP3H2WouWXD1cvhdfQKv0EpBWXUh07cRQ5THtDlQjRwnRPZ6EmyDkmLScwbFAZ5eZ5osEgv3FT/zms3LOQVuQkpjF0QmORv2UfaHslJEGVUhlJJRtDBwYMG9zIxwdNNXn65xMqXOA6ztYi79RoEhrpG41Ms8oRO0SFwrCIIvo8qmVtzQt9KDrWk+GlcI9pRrpjEcNqgjj62OqpdV6VHLu1ndyTGeL+6gGRdC66E8=;MkOdggPn9GD8zSc1phbBkQ=="

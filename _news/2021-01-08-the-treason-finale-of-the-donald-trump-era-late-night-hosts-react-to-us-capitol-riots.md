@@ -9,8 +9,8 @@ ampWebUrl: "https://www.al.com/life/2021/01/the-treason-finale-of-the-donald-tru
 cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/life/2021/01/the-treason-finale-of-the-donald-trump-era-late-night-hosts-react-to-us-capitol-riots.html?outputType=amp"
 type: article
 quality: 65
-heat: -1
-published: false
+heat: 85
+published: true
 
 provider:
   name: al.com
@@ -27,145 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Capitol riots: Boris Johnson condemns Donald Trump for sparking events"
-    excerpt: "Donald Trump was \"completely wrong\" to cast doubt on the US election and encourage supporters to storm the Capitol, Boris Johnson has said. The UK prime minister said he \"unreservedly condemns\" the US president's actions."
-    publishedDateTime: 2021-01-07T18:12:00Z
-    webUrl: "https://www.bbc.com/news/amp/uk-politics-55580806"
-    ampWebUrl: "https://www.bbc.com/news/amp/uk-politics-55580806"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-politics-55580806"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 125
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/E4E6/production/_116389585_johnsontrump.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "U.S. lawmaker says she is drawing up impeachment papers on Trump after mobs storm Capitol"
-    excerpt: "A Democratic congresswoman on Wednesday said she was drawing up articles of impeachment against President Donald Trump after mobs broke into the U.S. Capitol"
-    publishedDateTime: 2021-01-07T04:02:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-trump-impeachment-idUSKBN29B310"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29B310"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29B310"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 116
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1546907676&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH060AS"
-        width: 766
-        height: 545
-        isCached: true
-  - title: "For some Christians, the Capitol riot doesn’t change the prophecy: Trump will be president"
-    excerpt: "As lawmakers prepared to impeach President Trump and Washington readied for President-elect Joe Biden’s inauguration, Cliff Dyrud wasn’t focused on man-made acts. He was listening for the words of prophets."
-    publishedDateTime: 2021-01-15T02:34:00Z
-    webUrl: "https://www.washingtonpost.com/religion/2021/01/14/prophets-apostles-christian-prophesy-trump-won-biden-capitol/"
-    ampWebUrl: "https://www.washingtonpost.com/religion/2021/01/14/prophets-apostles-christian-prophesy-trump-won-biden-capitol/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/religion/2021/01/14/prophets-apostles-christian-prophesy-trump-won-biden-capitol/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 115
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZQVOFLSQFMI6XIPV7WXSRT6KSA.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Companies backed Trump for years. Now they’re facing a reckoning after the attack on the Capitol."
-    excerpt: "The once-comfortable alliance between Trump and Corporate America has shown unprecedented strain since Wednesday’s attack, forcing a re-examination of everything that businesses had won over the last four years from a White House now thrown into chaos."
-    publishedDateTime: 2021-01-09T18:58:00Z
-    webUrl: "https://www.washingtonpost.com/business/2021/01/08/trump-policies-corporate-america/"
-    ampWebUrl: "https://www.washingtonpost.com/business/2021/01/08/trump-policies-corporate-america/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/01/08/trump-policies-corporate-america/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 112
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GEGWWTBJTQI6RIRH7UVQBFDGXQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Wis. congressman unsure Trump to blame for riot"
-    excerpt: "Wisconsin’s newest member of Congress says he doesn't know if President Donald Trump was to blame for inciting the riot at the U.S. Capitol and wants a full investigation to find out what motivated the mob."
-    publishedDateTime: 2021-01-14T20:40:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/01/14/wis-congressman-unsure-trump-blame-riot/4164374001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/fbec4f30-a9cc-4b07-901d-0e8aa0333043_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "READ: House Democrats release a scathing 50-page report in favor of impeaching Trump for inciting deadly Capitol riots"
-    excerpt: "Trump is set to leave office on January 20, but Democrats contend that he poses an \"imminent threat\" to the nation's safety."
-    publishedDateTime: 2021-01-13T02:33:00Z
-    webUrl: "https://www.businessinsider.com/read-house-democrats-impeachment-report-for-trump-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/read-house-democrats-impeachment-report-for-trump-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/read-house-democrats-impeachment-report-for-trump-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 101
-    images:
-      - url: "https://i.insider.com/5ff5f5f5d184b30018aad517?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Seth Meyers Rips Donald Trump After Capitol Riots: 'The President Wanted This'"
-    excerpt: "Talk show host Seth Meyers slammed President Donald Trump and the rioters for an attempt to destroy the American democracy by breaching Capitol Hill Wednesday."
-    publishedDateTime: 2021-01-08T06:22:00Z
-    webUrl: "https://www.ibtimes.com/seth-meyers-rips-donald-trump-after-capitol-riots-president-wanted-3117225"
-    ampWebUrl: "https://www.ibtimes.com/seth-meyers-rips-donald-trump-after-capitol-riots-president-wanted-3117225?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/seth-meyers-rips-donald-trump-after-capitol-riots-president-wanted-3117225?amp=1"
+  - title: "Twitter On Shopify Terminating Donald Trump-Affiliated Stores After Capitol Riot: ‘Too Little, Too Late’"
+    excerpt: "Twitter users have mixed opinions on Shopify’s move to terminate all the stores affiliated with Donald Trump on its website."
+    publishedDateTime: 2021-01-08T06:04:00Z
+    webUrl: "https://www.ibtimes.com/twitter-shopify-terminating-donald-trump-affiliated-stores-after-capitol-riot-too-3117137"
+    ampWebUrl: "https://www.ibtimes.com/twitter-shopify-terminating-donald-trump-affiliated-stores-after-capitol-riot-too-3117137?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-shopify-terminating-donald-trump-affiliated-stores-after-capitol-riot-too-3117137?amp=1"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
-    quality: 71
+    quality: 58
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/08/seth-meyers.jpg"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/04/president-donald-trump-pictured-december-who-still-refuses.jpg"
         width: 1024
-        height: 681
-        isCached: true
-  - title: "Donald Trump Slammed On Twitter For Saying Capitol Rioters Didn't Represent The Country"
-    excerpt: "Donald Trump said the rioters at the Capitol did not represent the American public, and Twitter users agreed saying the violent protesters represented him."
-    publishedDateTime: 2021-01-08T06:29:00Z
-    webUrl: "https://www.ibtimes.com/donald-trump-slammed-twitter-saying-capitol-rioters-didnt-represent-country-3117207"
-    ampWebUrl: "https://www.ibtimes.com/donald-trump-slammed-twitter-saying-capitol-rioters-didnt-represent-country-3117207?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-slammed-twitter-saying-capitol-rioters-didnt-represent-country-3117207?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 67
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/28/us-president-donald-trump-is-facing-a-potential.jpg"
-        width: 1024
-        height: 661
-        isCached: true
-  - title: "Who Is Jake Angeli? QAnon Follower, Trump Supporter Who Wore Horns And Fur Charged In Capitol Riots"
-    excerpt: "Jake Angeli, who was among the more visible rioters on Wednesday, has been arrested in connection to the Capitol riot."
-    publishedDateTime: 2021-01-10T18:28:00Z
-    webUrl: "https://www.ibtimes.com/who-jake-angeli-qanon-follower-trump-supporter-who-wore-horns-fur-charged-capitol-3118394"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 41
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/09/supporters-of-us-president-donald-trump-including-member.jpg"
-        width: 1024
-        height: 695
+        height: 688
         isCached: true
 
 secured: "TZR2keCzgpO36kuwX0nhNI0fhBBCqomA7SD0xhTES5wAdocqtHMZc4gYlOy1NLIte9AtuAoiL7vMrdYaxrvcF710zUisow+RL4T93NxTQ0cQ5mXwE9M8YoaqAw/00pwuqzxMwAofkkTv/sAc4+oYeAwpzD2HGm5K67/1iKwaQA/xg5vrtNblLDnO8vnfZCsdWqr4tNO6IfHJ0IxYuzaJzBX1bDPo6b6NHlN8XbKGUDzznpLhc3ZS5PEyE0Hn8DUtsskB4zlKhsq8cJQr0jswR43M0FTKAVHkdeN+ltdkBPDknLX8bTWF4VOlNS8PwF/edKYAosH87gdvGXQFfGIZ3SBlkxlZKxhSye1+astHeWajoivCUxZW/DNDW9sKcD51VBMkwWZUMImNGY1InNk38OIofCJlV413/EAxL8XeQlhRN9XnQ+VelD8mtw/x8PSRo9rUB3MFCXIKjvnwUQJW5kqQDgAC0EWVkMUOzVOxsXW/J4yshLrkCmH5KrvxDbaJn3dvIVYU7ONIfL7rVBkvag==;eQvjtTTZN1WLBJwegkbSnQ=="

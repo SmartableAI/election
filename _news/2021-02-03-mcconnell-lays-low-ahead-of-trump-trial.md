@@ -30,177 +30,131 @@ images:
     isCached: true
 
 related:
-  - title: "Here's how Mitch McConnell is planning to kill Trump's $2,000 checks"
-    excerpt: "Less than 48 hours after President Donald Trump claimed that \"the Senate will start the process for a vote that increases checks to $2,000, repeals Section 230, and starts an investigation into voter fraud,\" the actual boss of the Senate had his say.\n    \n"
-    publishedDateTime: 2020-12-30T00:48:08Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4U1Pttbp4fo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/29/politics/mcconnell-trump-senate-covid-stimulus-checks/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/29/politics/mcconnell-trump-senate-covid-stimulus-checks/index.html"
+  - title: "Trump to meet with McCarthy in Florida on Thursday"
+    excerpt: "Former President Donald Trump is expected to meet with House Minority Leader Kevin McCarthy in Florida on Thursday, a source connected to the former President confirms to CNN.\n    \n"
+    publishedDateTime: 2021-01-27T22:49:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1NGt5bsJuhw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/27/politics/kevin-mccarthy-trump-meeting/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/27/politics/kevin-mccarthy-trump-meeting/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201208224009-mitch-mcconnell-ctn-open-1208-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191217154709-01-kevin-mccarthy-lead-image-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump's demands run into McConnell's maneuvers"
-    excerpt: "In the weirdest of twists at the end of his presidency, President Donald Trump is now in league with Nancy Pelosi, Chuck Schumer and Bernie Sanders over $2,000 Covid-19 relief checks, doing battle with Republican leaders over Pentagon policy and warning the political party he overtook and remade in his"
-    publishedDateTime: 2020-12-30T05:00:15Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_OY6qMSlvqo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/30/politics/trump-republicans-choice/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/30/politics/trump-republicans-choice/index.html"
+  - title: "Florida town conducting legal review of Trump's residency at Mar-a-Lago"
+    excerpt: "The use of Mar-a-Lago as former President Donald Trump's permanent home is under legal review by the town of Palm Beach and the arrangement may be discussed at the upcoming town council meeting, the town manager told CNN.\n    \n"
+    publishedDateTime: 2021-01-29T23:09:00Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Iwzs1VtE3QE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/29/politics/legal-review-trump-mar-a-lago/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/29/politics/legal-review-trump-mar-a-lago/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201216122059-03-mcconnell-trump-split-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209101030-mar-a-lago-resort-2018-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Mitch McConnell: Capitol Hill mob was 'provoked' by Trump"
-    excerpt: "Senate Majority Leader Mitch McConnell said on Tuesday that the mob that attacked the Capitol was \"provoked\" by President Donald Trump.\n    \n"
-    publishedDateTime: 2021-01-19T18:12:02Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/c91qrJnbX7E/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/19/politics/mitch-mcconnell-rioters-provoked/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/mitch-mcconnell-rioters-provoked/index.html"
+  - title: "Trump targets Cheney as he unites with McCarthy"
+    excerpt: "Former President Donald Trump is focusing his political energy on targeting Rep. Liz Cheney, the third-ranking House Republican, who voted for Trump's impeachment earlier this month.\n    \n"
+    publishedDateTime: 2021-01-29T00:53:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Bn2rpTSzVkc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/28/politics/donald-trump-cheney-mccarthy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/28/politics/donald-trump-cheney-mccarthy/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201216122059-03-mcconnell-trump-split-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210128192549-mccarthy-trump-cheney-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Wall Street hits record levels after Trump signs fiscal aid bill"
-    excerpt: "\"The passage of the stimulus bill is erasing some fears, and investors are relieved that there is help out there,\" said one economist."
-    publishedDateTime: 2020-12-28T19:26:00Z
-    webUrl: "https://www.nbcnews.com/business/markets/wall-street-hits-record-levels-after-trump-signs-fiscal-aid-n1252438"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252438"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252438"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_53/3438387/201228-new-york-stock-exchange-jm-1356_9ab6522bdf53895963efa350fdd587e2.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "McConnell Privately Backs Impeachment as House Moves to Charge Trump"
-    excerpt: "The House was poised to formally call on Vice President Mike Pence to move to wrest power from the president, as Republican support built for impeaching him of inciting violence against the nation."
-    publishedDateTime: 2021-01-13T02:40:00Z
-    webUrl: "https://www.nytimes.com/2021/01/12/us/politics/mcconnell-backs-trump-impeachment.html"
-    ampWebUrl: "https://www.nytimes.com/2021/01/12/us/politics/mcconnell-backs-trump-impeachment.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/12/us/politics/mcconnell-backs-trump-impeachment.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/01/12/us/politics/12dc-impeach1/12dc-impeach1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Mitch McConnell has one more card to play against Donald Trump"
-    excerpt: "On Wednesday afternoon, the House will impeach President Donald Trump for a second time. It is known. The only real drama will be to see how many House Republicans cross the aisle to vote with Democrats to impeach the President."
-    publishedDateTime: 2021-01-13T15:11:00Z
-    webUrl: "https://www.cnn.com/2021/01/13/politics/mitch-mcconnell-donald-trump-impeachment/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/13/politics/mitch-mcconnell-donald-trump-impeachment/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/13/politics/mitch-mcconnell-donald-trump-impeachment/index.html"
+  - title: "Florida town completes legal review of Trump's residency at Mar-a-Lago"
+    excerpt: "The legal review by the town of Palm Beach into the use of Mar-a-Lago as former President Donald Trump's permanent home concluded that the original agreement among the town, the resort and Trump does not expressly prohibit him from residing there.\n    \n"
+    publishedDateTime: 2021-02-03T21:28:18Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MutU1MpXkpQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/03/politics/mar-a-lago-trump-legal-review/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/03/politics/mar-a-lago-trump-legal-review/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 135
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201215150551-mitch-mcconnell-1215-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209101030-mar-a-lago-resort-2018-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "McConnell remains undecided on convicting Trump in Senate trial"
-    excerpt: "McConnell said last week that the earliest the Senate could take up the articles would be Jan. 19, unless all 100 senators agree to come back early."
-    publishedDateTime: 2021-01-14T11:18:00Z
-    webUrl: "https://www.nbcnews.com/politics/congress/mcconnell-remains-undecided-convicting-trump-senate-trial-n1254168"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1254168"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254168"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_53/3438574/201229-mitch-mcconnell-jm-1456_9251998545a2096bbf31d2253f4de884.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "The case for Mitch McConnell to vote to convict Donald Trump"
-    excerpt: "On Wednesday afternoon, the House will impeach President Donald Trump for a second time. It is known. The only real drama will be to see how many House Republicans cross the aisle to vote with Democrats to impeach the President."
-    publishedDateTime: 2021-01-13T16:29:00Z
-    webUrl: "https://www.cnn.com/2021/01/13/politics/mitch-mcconnell-donald-trump-impeachment/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/13/politics/mitch-mcconnell-donald-trump-impeachment/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/13/politics/mitch-mcconnell-donald-trump-impeachment/index.html"
+  - title: "McCarthy and Trump discuss Republicans' plans to win House majority at Florida meeting Thursday"
+    excerpt: "Former President Donald Trump and House Minority Leader Kevin McCarthy met Thursday at Trump's Mar-a-Lago estate in Palm Beach, Florida, where the two Republicans discussed strategy for winning the House majority in next year's mid-terms, according to a readout of the meeting provided by Trump's Political"
+    publishedDateTime: 2021-01-28T20:48:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0l5L9FvhuGg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/28/politics/donald-trump-kevin-mccarthy-meeting/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/28/politics/donald-trump-kevin-mccarthy-meeting/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 135
+    quality: 163
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201215150551-mitch-mcconnell-1215-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210128153503-trump-mccarthy-save-america-pac-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "McConnell Was Done With Trump. His Party Said Not So Fast."
-    excerpt: "After four years, the minority leader had finally had enough. But with most Republicans rallying around Donald J. Trump, he sided with his colleagues trying to throw out the impeachment case."
-    publishedDateTime: 2021-01-28T01:29:00Z
-    webUrl: "https://www.nytimes.com/2021/01/27/us/politics/mcconnell-trump-impeachment.html"
-    ampWebUrl: "https://www.nytimes.com/2021/01/27/us/politics/mcconnell-trump-impeachment.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/27/us/politics/mcconnell-trump-impeachment.amp.html"
+  - title: "McCarthy to visit the former president in Florida, showing where he stands in a post-Trump Republican Party"
+    excerpt: "Former President Donald Trump is expected to meet with House Minority Leader Kevin McCarthy in Florida on Thursday, a source connected to the former President confirms to CNN.\n    \n"
+    publishedDateTime: 2021-01-28T00:12:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1NGt5bsJuhw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/27/politics/kevin-mccarthy-trump-meeting/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/27/politics/kevin-mccarthy-trump-meeting/index.html"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
+      name: CNN
+      domain: cnn.com
+    quality: 157
     images:
-      - url: "https://static01.nyt.com/images/2021/01/27/us/politics/27dc-mcconnell/27dc-mcconnell-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191217154709-01-kevin-mccarthy-lead-image-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "Trump put Senate Republicans in a real jam. But McConnell might have a way out."
-    excerpt: "Trump put Senate Republicans in a real jam. But McConnell hints at a way out. WASHINGTON — Donald Trump is leaving office the same way he spent much of his presidency: by putting his party leaders in a vice between their ideological instincts and personal loyalty to him."
-    publishedDateTime: 2020-12-30T04:29:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/trump-put-senate-republicans-real-jam-mcconnell-hints-way-out-n1252485"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252485"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252485"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 131
-    images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_53/3438567/201229-donald-trump-1401_f626b008bb93154f6fd1f57f6610b06c.jpg"
-        width: 2500
-        height: 1666
-        isCached: true
-  - title: "How McConnell and the GOP let Trump down gently"
-    excerpt: "Before recognizing Joe Biden as America’s next president, Mitch McConnell was careful to make sure President Donald Trump was in the loop. The Senate majority leader transmitted a message to the White House ahead of time that he would be giving remarks congratulating Biden on his win over Trump,"
-    publishedDateTime: 2020-12-15T23:36:00Z
-    webUrl: "https://www.politico.com/news/2020/12/15/mcconnell-gop-let-trump-down-gently-election-445690"
+  - title: "McCarthy claws his way back to Trump's good side"
+    excerpt: "Kevin McCarthy is trying to get back in Donald Trump’s good graces — but he could wind up making more people unhappy in the process. In the aftermath of the deadly Capitol riots, McCarthy angered Trump by saying he bears some responsibility for the attack."
+    publishedDateTime: 2021-01-26T09:30:00Z
+    webUrl: "https://www.politico.com/news/2021/01/26/kevin-mccarthy-donald-trump-462445"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/26/kevin-mccarthy-donald-trump-462445"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/26/kevin-mccarthy-donald-trump-462445"
     type: article
     provider:
       name: Politico
       domain: politico.com
-    quality: 115
+    quality: 135
     images:
-      - url: "https://static.politico.com/c4/38/729278f34d458534f28f6f35e8a9/ap20350731665251-c.jpg"
+      - url: "https://static.politico.com/e3/4e/a348753d4fd98010dbfd633ce75f/ap20317661233739.jpg"
+        width: 4544
+        height: 3029
+        isCached: true
+  - title: "McCarthy, Trump hold ‘very good and cordial’ meeting focused on 2022 midterms"
+    excerpt: "Former President Donald Trump met House Minority Leader Kevin McCarthy on Thursday for what was later described as a “very good and cordial” meeting in which the top agenda item was taking back the House of Representatives in 2022."
+    publishedDateTime: 2021-01-29T07:26:00Z
+    webUrl: "https://www.politico.com/news/2021/01/28/kevin-mccarthy-donald-trump-midterms-meeting-463594"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/28/kevin-mccarthy-donald-trump-midterms-meeting-463594"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/28/kevin-mccarthy-donald-trump-midterms-meeting-463594"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 132
+    images:
+      - url: "https://static.politico.com/ba/54/a2db9c9e48f48ef5db6a7cf7bbc2/ap21012842712411-c.jpg"
         width: 1160
         height: 773
         isCached: true

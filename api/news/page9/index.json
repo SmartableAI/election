@@ -2,6 +2,326 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-01-29-nancy-sinatra-ill-never-forgive-trump-voters-i-hope-the-anger-doesnt-kill-me.md",
+      "title": "Nancy Sinatra: 'I'll never forgive Trump voters. I hope the anger doesn't kill me'",
+      "excerpt": "She may be 80 and cut off by Covid, but she’s still ready to walk all over Donald Trump. As her greatest songs are reissued, she reflects on the sexual politics of the 60s, her friendship with Elvis a",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/music/2021/jan/29/nancy-sinatra-ill-never-forgive-trump-voters-i-hope-the-anger-doesnt-kill-me",
+      "originalUrl": "https://www.theguardian.com/music/2021/jan/29/nancy-sinatra-ill-never-forgive-trump-voters-i-hope-the-anger-doesnt-kill-me",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/82417b28bc16912f6f47d9e309378f3e086e658f/0_663_2275_1567/master/2275.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=631bc24f8cf8b8ecc2c3619dfe27efa4",
+          "width": 600,
+          "height": 414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/music/2021/jan/29/nancy-sinatra-ill-never-forgive-trump-voters-i-hope-the-anger-doesnt-kill-me",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/music/2021/jan/29/nancy-sinatra-ill-never-forgive-trump-voters-i-hope-the-anger-doesnt-kill-me",
+      "publishedDateTime": "2021-01-29T00:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-fauci-said-macho-guy-trump-saw-masks-as-a-sign-of-weakness-and-many-americans-followed-his-lead.md",
+      "title": "Fauci said 'macho guy' Trump saw masks as a 'sign of weakness' and many Americans followed his lead",
+      "excerpt": "\"To him, a mask was a sign of weakness. The unfortunate aspect of this is that a lot of people in the country took that on as a mantra,\" Fauci said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/fauci-macho-guy-trump-saw-masks-a-sign-of-weakness-2021-1",
+      "originalUrl": "https://www.businessinsider.com/fauci-macho-guy-trump-saw-masks-a-sign-of-weakness-2021-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f777ea0282c500018c785f2?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/fauci-macho-guy-trump-saw-masks-a-sign-of-weakness-2021-1?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fauci-macho-guy-trump-saw-masks-a-sign-of-weakness-2021-1?amp",
+      "publishedDateTime": "2021-01-28T22:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-trump-officials-moved-most-bureau-of-land-management-positions-out-of-dc-more-than-87-percent-quit-instead.md",
+      "title": "Trump officials moved most Bureau of Land Management positions out of D.C. More than 87 percent quit instead.",
+      "excerpt": "The decision to relocate BLM headquarters to Colorado and redistribute jobs in the West prompted 287 employees to retire or find other jobs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/climate-environment/2021/01/28/trump-blm-reorganization/",
+      "originalUrl": "https://www.washingtonpost.com/climate-environment/2021/01/28/trump-blm-reorganization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VC6BWOA4CUI6PBMYTKM5UVM7TY&w=1440",
+          "width": 1440,
+          "height": 684,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/climate-environment/2021/01/28/trump-blm-reorganization/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/climate-environment/2021/01/28/trump-blm-reorganization/?outputType=amp",
+      "publishedDateTime": "2021-01-28T20:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-fauci-says-bidens-push-to-reopen-schools-in-100-days-may-not-happen.md",
+      "title": "Fauci says Biden's push to reopen schools in 100 days 'may not happen'",
+      "excerpt": "Dr. Anthony Fauci, the nation's leading infectious disease expert, cautioned Thursday that President Joe Biden's push to reopen most schools within 100 days \"may not happen\" as the US continues to grapple with high Covid-19 transmission.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dXJvEDuyIMg/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dXJvEDuyIMg/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210121183810-03-white-house-covid-presser-0121-fauci-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/28/politics/fauci-biden-schools-coronavirus/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/28/politics/fauci-biden-schools-coronavirus/index.html",
+      "publishedDateTime": "2021-01-28T19:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-palm-beach-considers-options-as-trump-remains-at-mar-a-lago.md",
+      "title": "Palm Beach considers options as Trump remains at Mar-a-Lago",
+      "excerpt": "The Town of Palm Beach, Florida, is considering its legal options as former President Donald Trump is still living at his Mar-a-Lago club, a possible violation of a 1993 agreement",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/palm-beach-considers-options-as-trump-remains-at-mar-a-lago/2021/01/28/5e586d94-61ad-11eb-a177-7765f29a9524_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/palm-beach-considers-options-as-trump-remains-at-mar-a-lago/2021/01/28/5e586d94-61ad-11eb-a177-7765f29a9524_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 265,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/palm-beach-considers-options-as-trump-remains-at-mar-a-lago/2021/01/28/5e586d94-61ad-11eb-a177-7765f29a9524_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/palm-beach-considers-options-as-trump-remains-at-mar-a-lago/2021/01/28/5e586d94-61ad-11eb-a177-7765f29a9524_story.html?outputType=amp",
+      "publishedDateTime": "2021-01-28T18:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-barrasso-says-biden-climate-orders-are-a-de-facto-fracking-ban.md",
+      "title": "Barrasso says Biden climate orders are a 'de facto fracking ban'",
+      "excerpt": "Some fracking advocates believe Biden’s new executive orders aimed at curbing oil and gas drilling effectively break his promise not to ban fracking.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Nuy5D-4UKg0/biden-executive-order-fracking-ban",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Nuy5D-4UKg0/biden-executive-order-fracking-ban",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/25a63129-Biden-thumb.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-executive-order-fracking-ban.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-executive-order-fracking-ban.amp",
+      "publishedDateTime": "2021-01-28T18:08:17-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-29-former-trump-aides-deere-hahn-hired-by-us-senator-from-tennessee.md",
       "title": "Former Trump aides Deere, Hahn hired by U.S. senator from Tennessee",
       "excerpt": "Two of former President Donald Trump's communications aides, Judd Deere and Julia Hahn, have been hired by U.S. Senator Bill Hagerty, a newly elected Tennessee Republican, Hagerty's office said on Thursday.",
@@ -66,7 +386,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 223,
+      "heat": 183,
       "tags": null,
       "images": [
         {
@@ -122,7 +442,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 335,
+      "heat": 355,
       "tags": null,
       "images": [
         {
@@ -383,62 +703,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-28-matt-gaetz-to-rally-trump-faithful-to-boost-maga-backlash-in-liz-cheneys-backyard.md",
-      "title": "Matt Gaetz to rally Trump faithful to boost MAGA backlash in Liz Cheney's backyard",
-      "excerpt": "Republican Rep. Matt Gaetz of Florida will rally the Trump faithful in Wyoming on Thursday, hoping to bring a MAGA backlash to GOP Rep. Liz Cheney's backyard after she voted to impeach the former President for his role in inciting the riot at the Capitol.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/47nGUI3BJ_4/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/47nGUI3BJ_4/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210127181848-matt-gaetz-liz-cheney-split-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/28/politics/matt-gaetz-wyoming-visit-liz-cheney/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/28/politics/matt-gaetz-wyoming-visit-liz-cheney/index.html",
-      "publishedDateTime": "2021-01-28T03:01:57-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-01-28-biden-pauses-trump-policies-as-blinken-takes-diplomatic-helm.md",
       "title": "Biden pauses Trump policies as Blinken takes diplomatic helm",
       "excerpt": "The Biden administration has paused or put under review a wide swath of Trump-era foreign policies as America's new top diplomat takes the helm of the State Department",
@@ -447,7 +711,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-pauses-trump-policies-blinken-takes-diplomatic-helm-75531721",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2170,
+      "heat": 2350,
       "tags": null,
       "images": [
         {
@@ -500,7 +764,7 @@
       "originalUrl": "https://www.washingtonpost.com/national-security/douglass-mackey-ricky-vaughn-donald-trump-hillary-clinton/2021/01/27/78a37940-60c8-11eb-afbe-9a11a127d146_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 163,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -524,6 +788,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-28-analysis-mcconnell-was-done-with-trump-his-party-said-not-so-fast.md",
+      "title": "Analysis: McConnell was done with Trump. His party said not so fast.",
+      "excerpt": "Mitch McConnell had finally had enough. But with most Republicans rallying around Trump, he sided with his colleagues trying to throw out the impeachment case.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/nation-world/ct-nw-nyt-mcconnell-trump-gop-analysis-20210128-vxxphlpmkbfyjegkowvustfb6i-story.html",
+      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-nw-nyt-mcconnell-trump-gop-analysis-20210128-vxxphlpmkbfyjegkowvustfb6i-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/ep6Q1vD4mePB-iDVbF8MWftnQD8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/MOWKPUEBW73M7CU3NULPPZFH7A.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-nw-nyt-mcconnell-trump-gop-analysis-20210128-vxxphlpmkbfyjegkowvustfb6i-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-nyt-mcconnell-trump-gop-analysis-20210128-vxxphlpmkbfyjegkowvustfb6i-story.html?outputType=amp",
+      "publishedDateTime": "2021-01-27T18:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -704,6 +1020,63 @@
       ]
     },
     {
+      "path": "_news/2021-01-28-vindictive-and-harsh-trump-impeachment-trial-wont-bode-well-for-democrats-historian-jay-winik.md",
+      "title": "'Vindictive' and 'harsh' Trump impeachment trial won't bode well for Democrats: Historian Jay Winik",
+      "excerpt": "The push by congressional Democrats to convict former President Donald Trump of impeachable offenses feels \"vindictive,\" and \"harsh,\" historian Jay Winik told \"Special Report\" Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/historian-jay-winik-trump-impeachment-trial-senate-filibuster",
+      "originalUrl": "https://www.foxnews.com/media/historian-jay-winik-trump-impeachment-trial-senate-filibuster",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/32cb91af-d1ac-4bad-991f-9bd146d20dce/ebd3a650-da0d-4fe8-8a9c-923fec42f48b/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/historian-jay-winik-trump-impeachment-trial-senate-filibuster.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/historian-jay-winik-trump-impeachment-trial-senate-filibuster.amp",
+      "publishedDateTime": "2021-01-27T16:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-27-trump-to-meet-with-mccarthy-in-florida-on-thursday.md",
       "title": "Trump to meet with McCarthy in Florida on Thursday",
       "excerpt": "Former President Donald Trump is expected to meet with House Minority Leader Kevin McCarthy in Florida on Thursday, a source connected to the former President confirms to CNN.\n    \n",
@@ -716,7 +1089,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 315,
+      "heat": 335,
       "tags": null,
       "images": [
         {
@@ -978,372 +1351,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-biden-un-pick-promises-to-counter-chinas-authoritarian-agenda-and-regrets-2019-speech.md",
-      "title": "BIden UN pick promises to counter China's 'authoritarian agenda' and regrets 2019 speech",
-      "excerpt": "Linda Thomas-Greenfield, President Biden’s pick to be ambassador to the United Nations, pledged Wednesday to stand up to China’s \"authoritarian agenda\" at the U.N., -- as she was grilled by lawmakers about a 2019 speech she made praising Beijing’s approach in Africa.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SQ6gcNRqD4g/biden-un-pick-chinas-agenda-2019-speech",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SQ6gcNRqD4g/biden-un-pick-chinas-agenda-2019-speech",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21027610672208.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-un-pick-chinas-agenda-2019-speech.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-un-pick-chinas-agenda-2019-speech.amp",
-      "publishedDateTime": "2021-01-27T12:52:13-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-biden-commerce-nominees-huawei-answer-shows-admin-rushing-to-embrace-chinese-communist-party-cruz-says.md",
-      "title": "Biden commerce nominee's Huawei answer shows admin 'rushing to embrace' Chinese Communist Party, Cruz says",
-      "excerpt": "Sen. Ted Cruz, R-Texas, said he is \"dismayed\" by a Biden nominee's refusal to commit to blacklisting Chinese telecommunications company Huawei as former President Donald Trump had done out of concern that the company was a security threat.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/u-YowgIyeVg/biden-commerce-nominee-huawei-answer-chinese-communist-party-cruz",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/u-YowgIyeVg/biden-commerce-nominee-huawei-answer-chinese-communist-party-cruz",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Ted-Cruz-Gina-Raimondo-Commerce-Secretary-AP.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-commerce-nominee-huawei-answer-chinese-communist-party-cruz.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-commerce-nominee-huawei-answer-chinese-communist-party-cruz.amp",
-      "publishedDateTime": "2021-01-27T11:42:49-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-biden-uses-swat-team-to-take-out-jobs-cassidy-says.md",
-      "title": "Biden uses 'SWAT team' to take out jobs, Cassidy says",
-      "excerpt": "Sen. Bill Cassidy, R-La., accused the Biden administration of being unsympathetic toward the thousands of Americans whose jobs were lost due to new policies put into effect in the first days of the new presidency.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/a3Q4CiLUqf4/biden-energy-climate-swat-team-take-out-jobs-cassidy",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/a3Q4CiLUqf4/biden-energy-climate-swat-team-take-out-jobs-cassidy",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 275,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Jennifer-Granholm-Energy-Secretary-Nominee-AP.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-energy-climate-swat-team-take-out-jobs-cassidy.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-energy-climate-swat-team-take-out-jobs-cassidy.amp",
-      "publishedDateTime": "2021-01-27T11:28:18-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-trump-impeachment-lawyer-speaks-out-im-not-worried-what-other-people-think.md",
-      "title": "Trump impeachment lawyer speaks out: 'I'm not worried what other people think'",
-      "excerpt": "The Senate impeachment trial of former President Donald Trump is set to take place in February, and his defense will not be handled by a major law firm or oft-cited professor, but by a South Carolina solo practitioner.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/shynNZ2LIwA/trump-impeachment-lawyer-karl-butch-bowers",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/shynNZ2LIwA/trump-impeachment-lawyer-karl-butch-bowers",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 231,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/014cb16e-10ee-418f-8311-4a5decc760d5/9eca4331-2af2-4826-bc27-a9ad075dec4b/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-impeachment-lawyer-karl-butch-bowers.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-lawyer-karl-butch-bowers.amp",
-      "publishedDateTime": "2021-01-27T10:48:34-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-joe-scarborough-mike-pence-is-in-fear-for-his-life-because-of-donald-j-trump.md",
-      "title": "Joe Scarborough: 'Mike Pence is in fear for his life because of Donald J. Trump'",
-      "excerpt": "MSNBC co-host Joe Scarborough said Wednesday morning that former Vice President Mike Pence is “in fear for his life” because of former President Donald Trump’s actions leading up to the U.S. Capitol riot.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtontimes.com/news/2021/jan/27/joe-scarborough-mike-pence-is-in-fear-for-his-life/",
-      "originalUrl": "https://www.washingtontimes.com/news/2021/jan/27/joe-scarborough-mike-pence-is-in-fear-for-his-life/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://twt-thumbs.washtimes.com/media/image/2021/01/27/scarborough_c35-0-900-505_s1200x700.jpg?3b9cfe2c93ef070d968f1facefb8412d0ec504ee",
-          "width": 1200,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://amp.washingtontimes.com/news/2021/jan/27/joe-scarborough-mike-pence-is-in-fear-for-his-life/",
-      "cdnAmpWebUrl": "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/jan/27/joe-scarborough-mike-pence-is-in-fear-for-his-life/",
-      "publishedDateTime": "2021-01-27T09:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Times",
-        "domain": "washingtontimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-trumps-youtube-channel-to-remain-suspended-after-capitol-riot-due-to-ongoing-potential-for-violence.md",
-      "title": "Trump's YouTube channel to 'remain suspended' after Capitol riot due to 'ongoing potential for violence'",
-      "excerpt": "Former President Donald Trump's YouTube channel will \"remain suspended,\" the company said Wednesday, pointing to an \"ongoing potential for violence\" in the wake of the Capitol riot on Jan. 6.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LqJGzoF9Mys/trump-youtube-channel-remain-suspended-potential-for-violence-capitol-riot",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LqJGzoF9Mys/trump-youtube-channel-remain-suspended-potential-for-violence-capitol-riot",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 198,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-youtube-channel-remain-suspended-potential-for-violence-capitol-riot.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-youtube-channel-remain-suspended-potential-for-violence-capitol-riot.amp",
-      "publishedDateTime": "2021-01-27T07:30:52-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-mike-pence-wife-karen-reportedly-homeless-couch-surfing-in-indiana.md",
-      "title": "Mike Pence, wife Karen reportedly homeless, couch-surfing in Indiana",
-      "excerpt": "Reports are that the former Second Family is staying at the Indiana governor's cabin or crashing with kinfolk back in their home state.",
-      "sourceUrl": null,
-      "webUrl": "https://thegrio.com/2021/01/27/mike-pence-homeless-indiana/",
-      "originalUrl": "https://thegrio.com/2021/01/27/mike-pence-homeless-indiana/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thegrio.com/wp-content/uploads/2021/01/ThePences-scaled.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thegrio.com/2021/01/27/mike-pence-homeless-indiana/amp/",
-      "cdnAmpWebUrl": "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2021/01/27/mike-pence-homeless-indiana/amp/",
-      "publishedDateTime": "2021-01-27T06:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Grio",
-        "domain": "thegrio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

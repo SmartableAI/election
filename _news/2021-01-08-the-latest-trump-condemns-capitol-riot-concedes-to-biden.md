@@ -27,375 +27,140 @@ images:
     isCached: true
 
 related:
-  - title: "The Latest: Fauci says vaccinate Biden, Harris, Trump, Pence"
-    excerpt: "Top U.S. infectious disease expert Dr. Anthony Fauci says President-elect Joe Biden and Vice President-elect Kamala Harris should be vaccinated for COVID-19 as soon as possible"
-    publishedDateTime: 2020-12-15T12:50:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/latest-fauci-vaccinate-biden-harris-trump-pence-74734137"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/latest-fauci-vaccinate-biden-harris-trump-pence-74734137"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/latest-fauci-vaccinate-biden-harris-trump-pence-74734137"
+  - title: "Inside the remarkable rift between Donald Trump and Mike Pence"
+    excerpt: "The rupture between the president and his No. 2 is a startling capstone to a relationship long defined by Pence’s loyalty and subservience."
+    publishedDateTime: 2021-01-12T10:09:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-pence-breakuo-capitol-riot/2021/01/11/6a6aa052-5357-11eb-89bc-7f51ceb6bd57_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-pence-breakuo-capitol-riot/2021/01/11/6a6aa052-5357-11eb-89bc-7f51ceb6bd57_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-pence-breakuo-capitol-riot/2021/01/11/6a6aa052-5357-11eb-89bc-7f51ceb6bd57_story.html?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 180
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 150
     images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_22bdf9791c6749db8600b787bc5bdc58_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XNR7QFCRFQI6XA7DGITEJWBDKY.jpg&w=1440"
+        width: 1440
+        height: 1004
         isCached: true
-  - title: "Kellyanne Conway breaks from Trump and says 'Joe Biden and Kamala Harris will prevail'"
-    excerpt: "Former White House advisor Kellyanne Conway's comments in an interview with The 19th go directly against Trump's claims undermining the 2020 election."
-    publishedDateTime: 2020-12-05T14:50:00Z
-    webUrl: "https://www.businessinsider.com/kellyanne-conway-biden-and-harris-won-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/kellyanne-conway-biden-and-harris-won-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kellyanne-conway-biden-and-harris-won-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 167
-    images:
-      - url: "https://i.insider.com/5fcb8c9db6a3a800199b6db2?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "The Latest: Trump pressures Pence to overturn Biden's win"
-    excerpt: "President Donald Trump is turning up the pressure on his vice president in a futile effort to overturn the results of the Nov. 3 presidential election in Congress"
-    publishedDateTime: 2021-01-06T14:31:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/latest-trump-pressures-pence-overturn-bidens-win-75079137"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/latest-trump-pressures-pence-overturn-bidens-win-75079137"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/latest-trump-pressures-pence-overturn-bidens-win-75079137"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 165
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_d30a691086d645aebe3b4c8ca3df701a_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "The Latest: Fauci says vaccinate Biden, Harris, Trump, Pence"
-    excerpt: "WASHINGTON (AP) — The Latest on (all times local):"
-    publishedDateTime: 2020-12-15T16:19:00Z
-    webUrl: "https://www.businessinsider.com/the-latest-fauci-says-vaccinate-biden-harris-trump-pence-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/the-latest-fauci-says-vaccinate-biden-harris-trump-pence-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/the-latest-fauci-says-vaccinate-biden-harris-trump-pence-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 160
-  - title: "Politics updates: Biden, Harris volunteer for MLK Day as Trump signs 3 executive orders"
-    excerpt: "It's Martin Luther King Jr. Day, we're two days from President-elect Joe Biden's Inauguration Day and here are the updates from Washington: Biden overrides Trump, says international travel restrictions will stay in place President Donald Trump began the process Monday of lifting travel bans on non-U."
-    publishedDateTime: 2021-01-20T02:34:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/18/politics-updates-2-days-inauguration-bidens-picks-sec/4202741001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4202741001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4202741001"
+  - title: "US Capitol riot, Pence confirms Biden, Trump commits to 'orderly transition': 5 things to know Thursday"
+    excerpt: "U.S. Capitol riot, Trump commits to \"orderly transition\" after Biden officially declared election winner and more news you need to know Thursday."
+    publishedDateTime: 2021-01-07T10:54:00Z
+    webUrl: "https://www.usatoday.com/story/news/2021/01/07/us-capitol-riot-donald-trump-mike-pence-coronavirus/6561248002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6561248002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6561248002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 157
+    quality: 149
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/18/USAT/bfd3dfe7-c36c-406e-85b6-5849459d45a1-kamala.JPG?auto=webp&crop=4332,2437,x0,y0&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2021/01/06/USAT/6bc23808-ce19-46b2-bc61-8e701ac8d31e-GTY_1294949460.jpg?auto=webp&crop=4220,2374,x0,y245&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Election 2020 Today: Biden’s defense pick, Trump challenges"
-    excerpt: "The Associated Press has learned that President-elect Joe Biden will nominate retired four-star Army general Lloyd J"
-    publishedDateTime: 2020-12-08T10:34:00Z
-    webUrl: "https://www.washingtonpost.com/politics/election-2020-today-bidens-defense-pick-trump-challenges/2020/12/08/01278dce-3941-11eb-aad9-8959227280c4_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/election-2020-today-bidens-defense-pick-trump-challenges/2020/12/08/01278dce-3941-11eb-aad9-8959227280c4_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/election-2020-today-bidens-defense-pick-trump-challenges/2020/12/08/01278dce-3941-11eb-aad9-8959227280c4_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 155
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Barr undercuts Trump on election and Hunter Biden inquiries"
-    excerpt: "Undercutting President Donald Trump on multiple fronts, Attorney General William Barr said Monday he saw no reason to appoint a special counsel to look into the president’s claims about the 2020 election or to name one for the tax investigation of President-elect Joe Biden’s son."
-    publishedDateTime: 2020-12-21T21:23:00Z
-    webUrl: "https://www.washingtonpost.com/politics/ag-no-reason-for-special-counsel-on-election-bidens-son/2020/12/21/d0ff876a-43a8-11eb-ac2a-3ac0f2b8ceeb_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/ag-no-reason-for-special-counsel-on-election-bidens-son/2020/12/21/d0ff876a-43a8-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ag-no-reason-for-special-counsel-on-election-bidens-son/2020/12/21/d0ff876a-43a8-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 155
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "A lawyer who pushed a 'birther' conspiracy about Kamala Harris has joined Trump's election fight"
-    excerpt: "President Donald Trump praised John Eastman as a \"very highly qualified, very talented lawyer\" after he published an op-ed about Biden's VP pick."
-    publishedDateTime: 2020-12-10T21:09:00Z
-    webUrl: "https://www.businessinsider.com/lawyer-who-pushed-birther-theory-on-kamala-harris-represents-trump-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/lawyer-who-pushed-birther-theory-on-kamala-harris-represents-trump-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/lawyer-who-pushed-birther-theory-on-kamala-harris-represents-trump-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 152
-    images:
-      - url: "https://i.insider.com/5fd277b27b7e050019107409?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "The Latest: Graham: Trump should attend Biden’s inauguration"
-    excerpt: "Lindsey Graham says he thinks President Donald Trump should attend President-elect Joe Biden’s inauguration because it would be “good for the country.”"
-    publishedDateTime: 2020-12-01T00:42:00Z
-    webUrl: "https://www.washingtonpost.com/politics/the-latest-graham-trump-should-attend-bidens-inauguration/2020/11/30/0f64b9ee-336e-11eb-9699-00d311f13d2d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-graham-trump-should-attend-bidens-inauguration/2020/11/30/0f64b9ee-336e-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-graham-trump-should-attend-bidens-inauguration/2020/11/30/0f64b9ee-336e-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 150
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Joe Biden and Kamala Harris jointly named Time's 'Person of the Year'"
-    excerpt: "U.S. President-elect Joe Biden and Vice President-elect Kamala Harris were jointly named Time magazine's 2020 \"Person of the Year\" on Thursday, chosen from a list of finalists that included the man Biden vanquished at the polls - President Donald Trump."
-    publishedDateTime: 2020-12-11T06:12:00Z
-    webUrl: "https://www.reuters.com/article/us-time-person/joe-biden-and-kamala-harris-jointly-named-times-person-of-the-year-idUSKBN28K33R?edition-redirect=ca"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28K33R"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28K33R"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 150
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201211&t=2&i=1544198413&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBA090"
-        width: 798
-        height: 545
-        isCached: true
-  - title: "Joe Biden and Kamala Harris named Time's Person of the Year"
-    excerpt: "Joe Biden and Kamala Harris are TIME's 2020 Person of the Year #TIMEPOY  pic.twitter.com/KuoBoebBN4 This is the first time a vice president has been named as a Person of the Year, Time said. \"The Biden-Harris ticket represents something historic,"
-    publishedDateTime: 2020-12-11T12:38:00Z
-    webUrl: "https://www.cbsnews.com/news/joe-biden-kamala-harris-time-person-of-the-year/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/joe-biden-kamala-harris-time-person-of-the-year/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-biden-kamala-harris-time-person-of-the-year/"
+  - title: "Trump will not resign. Nor will he turn power over to Pence ask for a pardon"
+    excerpt: "President Trump will not resign. Nor will he turn power over to Vice President Pence and ask him for a pardon, according to top White House advisers who have spoken with the highest ranking members of Mr."
+    publishedDateTime: 2021-01-09T00:50:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-will-not-resign-nor-will-relinquish-power-and-ask-pence-to-pardon-him/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-will-not-resign-nor-will-relinquish-power-and-ask-pence-to-pardon-him/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-will-not-resign-nor-will-relinquish-power-and-ask-pence-to-pardon-him/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 150
+    quality: 147
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/07/7736671b-071a-4222-96ad-bafe263891af/thumbnail/1200x630/26da47d6456273ab6082cad35d70385c/2020-11-07t163609z-1597063157-rc2gyj96wvm1-rtrmadp-3-usa-election-biden.jpg"
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/07/07/047bddca-c922-442f-8e93-0b632a9168b6/thumbnail/1200x630g3/50300a742d69114a5f41f8ebd6ae096c/donald-trump-mike-pence-2020-07-07t194337z.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Pence and Biden will get COVID-19 vaccine shots to build public support"
-    excerpt: "Vice President Mike Pence and President-elect Joe Biden will receive the vaccine for the novel coronavirus publicly as part of an effort by officials to build public confidence in"
-    publishedDateTime: 2020-12-17T18:12:00Z
-    webUrl: "https://thehill.com/changing-america/well-being/prevention-cures/530686-pence-and-biden-will-get-covid-19-vaccine-shots"
-    ampWebUrl: "https://thehill.com/changing-america/well-being/prevention-cures/530686-pence-and-biden-will-get-covid-19-vaccine-shots?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/well-being/prevention-cures/530686-pence-and-biden-will-get-covid-19-vaccine-shots?amp"
+  - title: "Trump will not resign. Nor will he turn power over to Pence and ask for a pardon"
+    excerpt: "The president continues to ask senior advisers about his ability to pardon himself before he leaves office. It's a power that is untested and by no means settled. A Justice Department Office of Legal Counsel memo from 1976 says that the president cannot pardon himself or herself,"
+    publishedDateTime: 2021-01-09T12:17:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-not-resign-relinquish-power-pence-pardon/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-not-resign-relinquish-power-pence-pardon/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-not-resign-relinquish-power-pence-pardon/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 145
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/07/07/047bddca-c922-442f-8e93-0b632a9168b6/thumbnail/1200x630g3/50300a742d69114a5f41f8ebd6ae096c/donald-trump-mike-pence-2020-07-07t194337z.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump-Biden transition live updates: Pro-Trump mob storms Capitol"
+    excerpt: "Kicking off up to two hours of debate on the Senate floor after some GOP lawmakers objected to the electoral vote count in Arizona, Senate Majority Leader Mitch McConnell made an extraordinary speech rebuking his fellow Republicans for their actions."
+    publishedDateTime: 2021-01-07T04:11:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-results-transition/?id=75022086"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=75022086"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=75022086"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/dc16-rt-ml-210106_1609959619616_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Hurt feelings, anger linger after Pence, Trump clash"
+    excerpt: "It's part of the fallout from an extraordinary 24-hour stretch in which Pence openly defied Trump, Trump unleashed his fury on the vice president, and a mob of violent supporters incensed by Trump’s rhetoric stormed the Capitol building and tried to halt the peaceful transfer of power."
+    publishedDateTime: 2021-01-08T06:49:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/hurt-feelings-anger-linger-pence-trump-clash-75121737"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/hurt-feelings-anger-linger-pence-trump-clash-75121737"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/hurt-feelings-anger-linger-pence-trump-clash-75121737"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_94b0268b7e894013bd1b1d4158010211_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Pelosi vows to impeach Trump again — if Pence doesn't remove him first"
+    excerpt: "Speaker Nancy Pelosi (D-Calif.) said Thursday that Washington policymakers should act immediately to remove President Trump from office just two weeks before his term ends, citing \"seditious\" acts related to the president's role in encouraging the assault on the U."
+    publishedDateTime: 2021-01-07T22:06:00Z
+    webUrl: "https://thehill.com/homenews/house/533180-pelosi-trump-should-be-removed-immediately"
+    ampWebUrl: "https://thehill.com/homenews/house/533180-pelosi-trump-should-be-removed-immediately?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/533180-pelosi-trump-should-be-removed-immediately?amp"
     type: article
     provider:
       name: The Hill
       domain: thehill.com
-    quality: 150
+    quality: 140
     images:
-      - url: "https://thehill.com/sites/default/files/ca_pencebidenvaccine_121720getty.jpg"
-        width: 1440
-        height: 880
+      - url: "https://thehill.com/sites/default/files/pelosinancy_010620gn_lead.jpg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "Pence, Biden to get COVID-19 vaccine in bid to build public support"
-    excerpt: "Vice President Mike Pence will receive the coronavirus vaccine in public on Friday as the outgoing U.S. administration and President-elect Joe Biden's team try to build support for a mass inoculation to stanch the deadly pandemic."
-    publishedDateTime: 2020-12-17T16:27:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-idUKKBN28R1FT"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28R1FT"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28R1FT"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 150
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201217&t=2&i=1544878072&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBG0UE"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Biden to receive COVID-19 vaccine as Trump remains on sidelines"
-    excerpt: "President-elect Joe Biden is to receive his first dose of the coronavirus vaccine on live television to help persuade more Americans to follow suit."
-    publishedDateTime: 2020-12-21T09:57:00Z
-    webUrl: "https://www.latimes.com/world-nation/story/2020-12-21/biden-receive-covid-19-vaccine"
-    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-21/biden-receive-covid-19-vaccine?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-21/biden-receive-covid-19-vaccine?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 150
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/9f2edca/2147483647/strip/true/crop/4184x2733+0+28/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb2%2F60%2F4112dad241fcbf0c1d6f76b56549%2Fvirus-outbreak-trump-93566.jpg"
-        width: 320
-        height: 209
-        isCached: true
-  - title: "Harris, Ivanka Trump stump in Georgia ahead of Senate runoff"
-    excerpt: "Vice President-elect Kamala Harris and Ivanka Trump have both come to Georgia to stump for opposite candidates in a runoff election that will determine control of the U.S. Senate"
-    publishedDateTime: 2020-12-22T03:58:00Z
-    webUrl: "https://www.washingtonpost.com/health/harris-ivanka-trump-stump-in-georgia-ahead-of-senate-runoff/2020/12/21/0f0ac5ec-43e0-11eb-ac2a-3ac0f2b8ceeb_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/health/harris-ivanka-trump-stump-in-georgia-ahead-of-senate-runoff/2020/12/21/0f0ac5ec-43e0-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/harris-ivanka-trump-stump-in-georgia-ahead-of-senate-runoff/2020/12/21/0f0ac5ec-43e0-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 150
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Biden and Harris to be sworn in at Capitol, but public urged to stay home"
-    excerpt: "The inaugural committee said in a statement that it urged the public not to travel to attend the inauguration in January."
-    publishedDateTime: 2020-12-15T21:40:00Z
-    webUrl: "https://www.cbsnews.com/news/biden-harris-inauguration-capitol-steps-stay-at-home/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-harris-inauguration-capitol-steps-stay-at-home/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-harris-inauguration-capitol-steps-stay-at-home/"
+  - title: "Trump acknowledges election defeat in video on Capitol violence"
+    excerpt: "The video comes after lawmakers called for invoking the 25th amendment​ and removing him from office, following the assault Wednesday​."
+    publishedDateTime: 2021-01-08T12:22:00Z
+    webUrl: "https://www.cbsnews.com/live-updates/trump-acknowledges-election-defeat-capitol-violence/"
+    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/trump-acknowledges-election-defeat-capitol-violence/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/trump-acknowledges-election-defeat-capitol-violence/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 149
+    quality: 140
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/15/00f7414c-5fcb-4931-917b-9ca555b39a1b/thumbnail/1200x630g4/2d503a0eabb51b61366ec967a1445487/gettyimages-1230071696.jpg"
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/08/4a55273d-8260-4e58-80d4-18c011386c23/thumbnail/1200x630/09e6db90e966b9c7fc9e40a1b095f36c/gettyimages-1294908903.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "McConnell breaks with Trump in finally recognizing Biden as the new president"
-    excerpt: "Senate Majority Leader Mitch McConnell (R-Ky.) made his sharpest and most significant break from President Trump on Tuesday, finally acknowledging Joe Biden as the rightful president-elect even as Trump refused to publicly admit his decisive loss in both the electoral college and the popular vote."
-    publishedDateTime: 2020-12-16T01:09:00Z
-    webUrl: "https://www.washingtonpost.com/politics/mcconnell-trump-biden-election/2020/12/15/af8a7a2a-3f13-11eb-8db8-395dedaaa036_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/mcconnell-trump-biden-election/2020/12/15/af8a7a2a-3f13-11eb-8db8-395dedaaa036_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/mcconnell-trump-biden-election/2020/12/15/af8a7a2a-3f13-11eb-8db8-395dedaaa036_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 147
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/A3JS4HB7GII6XDNYHFO63KVAGY.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Kamala Harris Defends Joe Biden's Climate Policies, Says They're Creating More Jobs"
-    excerpt: "Biden has faced strong criticism from Republicans for an executive order pausing oil and gas extraction on federal land."
-    publishedDateTime: 2021-01-29T14:36:00Z
-    webUrl: "https://www.newsweek.com/kamala-harris-defends-joe-biden-climate-policies-creating-more-jobs-1565370"
-    ampWebUrl: "https://www.newsweek.com/kamala-harris-defends-joe-biden-climate-policies-creating-more-jobs-1565370?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-defends-joe-biden-climate-policies-creating-more-jobs-1565370?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 144
-    images:
-      - url: "https://d.newsweek.com/en/full/1720204/vice-president-kamala-harris.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Sen. Lamar Alexander says that Trump should put 'the country first' and accept Biden's election win"
-    excerpt: "\"States have certified their votes,\" the GOP senator said. \"The courts have resolved the disputes. It looks very much like the electors will vote for Joe Biden.\""
-    publishedDateTime: 2020-12-13T21:23:00Z
-    webUrl: "https://www.businessinsider.com/lamar-alexander-trump-accepting-biden-election-win-transfer-power-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/lamar-alexander-trump-accepting-biden-election-win-transfer-power-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/lamar-alexander-trump-accepting-biden-election-win-transfer-power-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 141
-    images:
-      - url: "https://i.insider.com/5f1f57c2f0f4193a2a0bfda3?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Biden picks defense secretary as Trump hosts vaccine summit – live"
-    excerpt: "The US is on course to record its 15 millionth coronavirus case today"
-    publishedDateTime: 2020-12-08T14:02:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/08/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fcf5f238f0861e6ffe1ecdb"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/08/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/08/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 140
-    images:
-      - url: "https://i.guim.co.uk/img/media/a354366001ea3c24f1c9af734ebafff1fc0e17e4/257_168_3421_2053/master/3421.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6eb59eca6489fba5753b63947d2eb074"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Biden presents new defense chief as Trump clings to failed effort to overturn election result – live"
-    excerpt: "Trump calls to ‘overturn’ results as legal attempts to reverse Biden’s victory dwindle, while president-elect introduces Lloyd Austin to lead US defense"
-    publishedDateTime: 2020-12-09T20:41:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/09/joe-biden-doanld-trump-coronavirus-covid-19-vaccine-us-election-live-updates?page=with:block-5fd11fb48f08afb1724b725b"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/09/joe-biden-doanld-trump-coronavirus-covid-19-vaccine-us-election-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/09/joe-biden-doanld-trump-coronavirus-covid-19-vaccine-us-election-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 140
-    images:
-      - url: "https://i.guim.co.uk/img/media/f7ba39c24018431da90dcd390298d9b2db1cf98f/0_133_5362_3217/master/5362.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=349d4f0eafbb9cc43bb024d43556602a"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Kamala Harris can offer what Joe Biden is missing: Fresh perspective"
-    excerpt: "Harris is now a familiar presence at the rollout events for President-elect Joe Biden’s appointees. She is in a supporting role, as one would expect, but one can already discern that she is bringing a needed element to the Biden-Harris team: fresh blood and forward-looking thinking."
-    publishedDateTime: 2020-12-10T12:51:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/2020/12/10/how-harris-can-help/"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/12/10/how-harris-can-help/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/12/10/how-harris-can-help/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 140
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/L667CFR2MMI6XKWZRFMSE4UAYQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Joe Biden and Kamala Harris are Time's 2020 'Person of the Year'"
-    excerpt: "NBC News reports other contenders were Dr. Anthony Fauci, front-line workers and racial justice movements that led protests over the death of George Floyd."
-    publishedDateTime: 2020-12-11T05:44:00Z
-    webUrl: "https://www.cnbc.com/2020/12/11/joe-biden-and-kamala-harris-are-times-2020-person-of-the-year.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/12/11/joe-biden-and-kamala-harris-are-times-2020-person-of-the-year.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/11/joe-biden-and-kamala-harris-are-times-2020-person-of-the-year.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 140
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106786006-16048020972020-11-08t021914z_1245788963_rc2qyj94vi4f_rtrmadp_0_usa-election-biden.jpeg?v=1604802126"
-        width: 3500
-        height: 2333
-        isCached: true
-  - title: "The Latest: Biden says election workers showed courage"
-    excerpt: "President-elect Joe Biden says local election officials and workers endured threats of violence and verbal abuse while ensuring that democracy prevailed in the November election"
-    publishedDateTime: 2020-12-15T05:13:00Z
-    webUrl: "https://www.washingtonpost.com/politics/the-latest-electoral-college-voting-ends-with-biden-at-306/2020/12/14/6140db06-3e6a-11eb-b58b-1623f6267960_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-electoral-college-voting-ends-with-biden-at-306/2020/12/14/6140db06-3e6a-11eb-b58b-1623f6267960_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-electoral-college-voting-ends-with-biden-at-306/2020/12/14/6140db06-3e6a-11eb-b58b-1623f6267960_story.html?outputType=amp"
+  - title: "Biden calls Trump ‘unfit’ but doesn’t endorse impeachment"
+    excerpt: "President-elect Joe Biden says President Donald Trump isn’t “fit for the job,” but he repeatedly refused to endorse growing Democratic calls that he be impeached for a second time"
+    publishedDateTime: 2021-01-09T12:11:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-calls-trump-unfit-but-doesnt-endorse-impeachment/2021/01/09/de3a39e8-5249-11eb-a1f5-fdaf28cfca90_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-calls-trump-unfit-but-doesnt-endorse-impeachment/2021/01/09/de3a39e8-5249-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-calls-trump-unfit-but-doesnt-endorse-impeachment/2021/01/09/de3a39e8-5249-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
@@ -406,188 +171,124 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Wisconsin Supreme Court upholds Biden's win, rejects Trump lawsuit"
-    excerpt: "The state Supreme Court ruled 4-3 to uphold Democrat Joe Biden's Wisconsin win Monday, handing President Donald Trump a defeat."
-    publishedDateTime: 2020-12-14T17:57:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/14/wisconsin-supreme-court-upholds-joe-bidens-win/6529642002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6529642002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6529642002"
+  - title: "Supreme Court won't fast-track review of Trump election lawsuits"
+    excerpt: "The Supreme Court on Monday denied President Trump's request to fast-track consideration of several lawsuits challenging the election results in Pennsylvania and Wisconsin, and rebuffed similar suits brought by pro-Trump attorneys."
+    publishedDateTime: 2021-01-11T14:51:00Z
+    webUrl: "https://thehill.com/regulation/court-battles/533607-supreme-court-wont-fast-track-review-of-trump-election-lawsuits"
+    ampWebUrl: "https://thehill.com/regulation/court-battles/533607-supreme-court-wont-fast-track-review-of-trump-election-lawsuits?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/regulation/court-battles/533607-supreme-court-wont-fast-track-review-of-trump-election-lawsuits?amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: The Hill
+      domain: thehill.com
     quality: 140
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/23/PMJS/28642344-a2e6-45bb-af1c-6c9dfd7d982a-RECOUNT_Monday_00812.JPG?auto=webp&crop=2599,1462,x0,y171&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://thehill.com/sites/default/files/supremecourt101320.jpg"
+        width: 827
+        height: 551
         isCached: true
-  - title: "Mitch McConnell: Top Trump ally breaks silence to congratulate Biden"
-    excerpt: "A top member of US President Donald Trump's Republican Party, Senate Majority Leader Mitch McConnell, has congratulated Joe Biden on winning the presidential election last month. Senator McConnell spoke after the electoral college formally confirmed Mr Biden's victory over Mr Trump."
-    publishedDateTime: 2020-12-16T02:52:00Z
-    webUrl: "https://www.bbc.com/news/election-us-2020-55323407?fbclid=IwAR0pp8_Grt2HrLJyG1R1mgsSLvZCqSILVjNT5B0uXG2z_3s4Bnjr1MFD-SY"
-    ampWebUrl: "https://www.bbc.com/news/amp/election-us-2020-55323407"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/election-us-2020-55323407"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 140
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/A059/production/_116094014_mediaitem116094013.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Trump asking about special prosecutor for Hunter Biden"
-    excerpt: "President Donald Trump is considering pushing to have a special counsel appointed to advance the federal tax investigation into the son of President-elect Joe Biden"
-    publishedDateTime: 2020-12-16T06:44:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-asking-about-special-prosecutor-for-hunter-biden/2020/12/15/33d3f186-3f40-11eb-b58b-1623f6267960_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-asking-about-special-prosecutor-for-hunter-biden/2020/12/15/33d3f186-3f40-11eb-b58b-1623f6267960_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-asking-about-special-prosecutor-for-hunter-biden/2020/12/15/33d3f186-3f40-11eb-b58b-1623f6267960_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 140
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Trump voters accept Biden victory 'with reservations'"
-    excerpt: "For weeks, President Donald Trump has been on a mission to convince his loyal base that his victory was stolen and the contest rigged"
-    publishedDateTime: 2020-12-16T05:40:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-voters-accept-biden-victory-reservations-74753007"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-voters-accept-biden-victory-reservations-74753007"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-voters-accept-biden-victory-reservations-74753007"
+  - title: "After frosty few days, Pence, Trump appear to reach détente"
+    excerpt: "President Donald Trump and Vice President Mike Pence appear to have come to a détente after nearly a week of silence, anger and finger-pointing"
+    publishedDateTime: 2021-01-12T05:23:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/frosty-days-pence-trump-reach-dtente-75191815"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/frosty-days-pence-trump-reach-dtente-75191815"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/frosty-days-pence-trump-reach-dtente-75191815"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 140
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_e1541ebcbf7f4243b9af5652b28619f1_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_94cb2d5998034950b10fe7270b31ef08_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Joe Biden and Mike Pence will receive COVID-19 vaccine soon"
-    excerpt: "President-elect Joe Biden and Vice President Mike Pence are set to receive the COVID-19 vaccine soon. According to two transition officials familiar with the matter, Biden will receive the vaccine publicly as soon as next week."
-    publishedDateTime: 2020-12-17T01:00:00Z
-    webUrl: "https://www.latimes.com/politics/story/2020-12-16/joe-biden-and-mike-pence-will-receive-covid-19-vaccine-soon"
-    ampWebUrl: "https://www.latimes.com/politics/story/2020-12-16/joe-biden-and-mike-pence-will-receive-covid-19-vaccine-soon?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-12-16/joe-biden-and-mike-pence-will-receive-covid-19-vaccine-soon?_amp=true"
+  - title: "Trump and Pence meet for first time since Capitol assault"
+    excerpt: "A former White House official with close ties to Pence earlier told CBS News that the vice president is \"discouraged, disheartened, hurt and stunned.\""
+    publishedDateTime: 2021-01-12T04:56:00Z
+    webUrl: "https://www.cbsnews.com/live-updates/trump-impeachment-2021-01-11/"
+    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/trump-impeachment-2021-01-11/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/trump-impeachment-2021-01-11/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 140
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/07/07/047bddca-c922-442f-8e93-0b632a9168b6/thumbnail/1200x630g3/50300a742d69114a5f41f8ebd6ae096c/donald-trump-mike-pence-2020-07-07t194337z.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump and Pence signal president won’t resign or be removed"
+    excerpt: "Vice President Mike Pence signaled he’ll spurn demands to immediately oust President Trump over a deadly riot by the president’s supporters as the two met and agreed to work together for the remainder of the term,"
+    publishedDateTime: 2021-01-12T04:06:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-01-11/trump-and-pence-signal-president-wont-resign-or-be-removed"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-01-11/trump-and-pence-signal-president-wont-resign-or-be-removed?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-01-11/trump-and-pence-signal-president-wont-resign-or-be-removed?_amp=true"
     type: article
     provider:
       name: Los Angeles Times
       domain: latimes.com
     quality: 140
     images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/ebb8421/2147483647/strip/true/crop/5731x3743+0+39/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Faa%2Fe7%2F1be1dc5f4145beb620119e8129a3%2Fvirus-outbreak-vaccine-california-60828.jpg"
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/a2c0562/2147483647/strip/true/crop/3331x2176+0+23/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fed%2F12%2F74db86b04f7b9d4717a4058b0bc4%2Fbiden-94967.jpg"
         width: 320
         height: 209
         isCached: true
-  - title: "With Trump silent, reprisals for hacks may fall to Biden"
-    excerpt: "How much out of the gate do you want to do?” To be sure, it's not uncommon for administrations to refrain from leveling public accusations of blame for hacks until they've accumulated enough evidence."
-    publishedDateTime: 2020-12-18T08:59:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-silent-reprisals-hacks-fall-biden-74795379"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-silent-reprisals-hacks-fall-biden-74795379"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-silent-reprisals-hacks-fall-biden-74795379"
+  - title: "Trump impeachment risks bogging down early days of Biden presidency"
+    excerpt: "Trial could tie up Senate, slowing president-elect’s agenda amid pandemic and economic crisis"
+    publishedDateTime: 2021-01-14T14:17:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/14/trump-impeachment-biden-administration-senate-trial"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/14/trump-impeachment-biden-administration-senate-trial"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/14/trump-impeachment-biden-administration-senate-trial"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: The Guardian
+      domain: theguardian.com
     quality: 140
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_879b882c6f2f4ccda43e44c561a03945_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://i.guim.co.uk/img/media/839df3d21e6274cce2021d3fdf7cb39a393fb6e7/0_323_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=dccc95fc4955e3136877727f1ed87114"
+        width: 600
+        height: 360
         isCached: true
-  - title: "Bidens to Get Vaccine Monday, Harris and Husband Following Week"
-    excerpt: "President-elect Joe Biden and his wife, Jill Biden, will get their first dose of coronavirus vaccine on Monday, a transition official said."
-    publishedDateTime: 2020-12-18T18:47:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-12-18/president-elect-biden-to-get-coronavirus-vaccine-on-monday"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-12-18/president-elect-biden-to-get-coronavirus-vaccine-on-monday"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-18/president-elect-biden-to-get-coronavirus-vaccine-on-monday"
+  - title: "Donald Trump isolated and enraged ahead of Biden inauguration"
+    excerpt: "A slew of aides have deserted the president and the Pentagon has decided not to hold an armed forces farewell tribute"
+    publishedDateTime: 2021-01-16T07:01:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/16/donald-trump-biden-inauguration-isolated-enraged"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/16/donald-trump-biden-inauguration-isolated-enraged"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/16/donald-trump-biden-inauguration-isolated-enraged"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
+      name: The Guardian
+      domain: theguardian.com
     quality: 140
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iR4.6TOWKG9I/v1/360x-1.jpg"
-        width: 360
-        height: 239
+      - url: "https://i.guim.co.uk/img/media/4562affcc87f763439da1fd7d3fc91f356b536f5/0_38_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e75078fad8e464cbc9499016b6c3ec8b"
+        width: 600
+        height: 360
         isCached: true
-  - title: "Pence, top congressional leaders get vaccines; Trump absent"
-    excerpt: "Vice President Mike Pence and the leaders of the House and Senate received their first COVID-19 vaccinations as they tried to reassure Americans the shot is safe"
-    publishedDateTime: 2020-12-19T06:07:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/trump-stays-sidelines-virus-vaccine-injections-begin-74796834"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/trump-stays-sidelines-virus-vaccine-injections-begin-74796834"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/trump-stays-sidelines-virus-vaccine-injections-begin-74796834"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
-    images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_408f4c19bf8a49fc870a904f7fb260c2_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Biden to receive COVID vaccine as Trump remains on sidelines"
-    excerpt: "President-elect Joe Biden will receive his first dose of the coronavirus vaccine on live television as part of a growing effort to convince the American public the inoculations are safe"
-    publishedDateTime: 2020-12-20T19:34:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/biden-receive-covid-vaccine-trump-remains-sidelines-74837728"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-receive-covid-vaccine-trump-remains-sidelines-74837728"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-receive-covid-vaccine-trump-remains-sidelines-74837728"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
-    images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_a796a6854dcb470c9948dd894c37082a_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Twitter's Dorsey stops following Trump, Biden"
-    excerpt: "Twitter Inc Chief Executive Jack Dorsey appeared to stop following President Donald Trump on the social media platform this weekend, according to a Twitter account that follows the activity of tech leaders."
-    publishedDateTime: 2020-12-21T22:32:00Z
-    webUrl: "https://www.reuters.com/article/us-twitter-dorsey-trump-idUSKBN28V2C6"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28V2C6"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28V2C6"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 140
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201221&t=2&i=1545332468&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBK1BG"
-        width: 896
-        height: 545
-        isCached: true
-  - title: "Biden castigates Trump over recent cyberattack on U.S. government"
-    excerpt: "Biden accused Trump of “failure” in his handling of a recent cyberattack on the U.S. government, suggesting the president neglected his duty. The president-elect praised other Republicans, signaling he is looking ahead to the post-Trump era."
-    publishedDateTime: 2020-12-23T06:19:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-trump-cyberattack/2020/12/22/8db71566-446d-11eb-a277-49a6d1f9dff1_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-trump-cyberattack/2020/12/22/8db71566-446d-11eb-a277-49a6d1f9dff1_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-trump-cyberattack/2020/12/22/8db71566-446d-11eb-a277-49a6d1f9dff1_story.html?outputType=amp"
+  - title: "Power Up: Trump-Pence relationship may set lowest bar yet"
+    excerpt: "The relationship between President Trump and Vice President Pence would have hit the history books as one of the tightest bonds between the highest-ranking members of American government. Until the events of Jan."
+    publishedDateTime: 2021-01-15T17:00:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/01/15/power-up-trump-pence-relationship-may-set-lowest-bar-yet/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/15/power-up-trump-pence-relationship-may-set-lowest-bar-yet/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/15/power-up-trump-pence-relationship-may-set-lowest-bar-yet/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
     quality: 140
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AL7YFFSEVEI6XLBKHLAPFOGO5M.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RWCCSACWYII6XLGFSLJIDGQ4ZM.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
-  - title: "Biden: Reversing Trump border policies will take months"
-    excerpt: "President-elect Joe Biden says it will take months to roll back some of President Donald Trump’s actions on immigration"
-    publishedDateTime: 2020-12-23T00:11:00Z
-    webUrl: "https://www.washingtonpost.com/world/national-security/biden-reversing-trump-border-policies-will-take-months/2020/12/22/d87772b8-44b2-11eb-ac2a-3ac0f2b8ceeb_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/world/national-security/biden-reversing-trump-border-policies-will-take-months/2020/12/22/d87772b8-44b2-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/biden-reversing-trump-border-policies-will-take-months/2020/12/22/d87772b8-44b2-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+  - title: "After Trump, Biden aims to reshape the presidency itself"
+    excerpt: "Support our journalism. Subscribe today. Biden had campaigned as a rebuke to President Donald Trump, a singular figure whose political power was fueled by discord and grievance. The Democrat framed his election as one to “heal the soul” of the nation ..."
+    publishedDateTime: 2021-01-16T18:34:00Z
+    webUrl: "https://www.washingtonpost.com/world/national-security/after-trump-biden-aims-to-reshape-the-presidency-itself/2021/01/16/91556d30-57ff-11eb-acc5-92d2819a1ccb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/national-security/after-trump-biden-aims-to-reshape-the-presidency-itself/2021/01/16/91556d30-57ff-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/after-trump-biden-aims-to-reshape-the-presidency-itself/2021/01/16/91556d30-57ff-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
@@ -598,650 +299,492 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "The Latest: Biden says months to fix Trump border policies"
-    excerpt: "President-elect Joe Biden says he won’t immediately roll back President Donald Trump’s immigration policies at the border despite some advocates pushing for action as soon as he takes office"
-    publishedDateTime: 2020-12-23T01:19:00Z
-    webUrl: "https://www.washingtonpost.com/politics/the-latest-biden-promises-more-coronavirus-relief-efforts/2020/12/22/f4007630-4492-11eb-ac2a-3ac0f2b8ceeb_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-biden-promises-more-coronavirus-relief-efforts/2020/12/22/f4007630-4492-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-biden-promises-more-coronavirus-relief-efforts/2020/12/22/f4007630-4492-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 140
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Trump must blame Russia for cyber attack on U.S., Biden says"
-    excerpt: "President-elect Joe Biden said on Tuesday he had seen no evidence that a massive cyber attack against the United States is under control and warned that the breach will not go unanswered once he takes office on Jan."
-    publishedDateTime: 2020-12-23T04:15:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-idUKKBN28W1ZF"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28W1ZF"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28W1ZF"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 140
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201223&t=2&i=1545505476&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBL1IE"
-        width: 829
-        height: 545
-        isCached: true
-  - title: "The Latest: Biden says months to fix Trump border policies"
-    excerpt: "President-elect Joe Biden says he won’t immediately roll back President Donald Trump’s immigration policies at the border despite some advocates pushing for action as soon as he takes office"
-    publishedDateTime: 2020-12-28T04:56:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/latest-biden-promises-coronavirus-relief-efforts-74866309"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/latest-biden-promises-coronavirus-relief-efforts-74866309"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/latest-biden-promises-coronavirus-relief-efforts-74866309"
+  - title: "Trump's trial, Biden's Cabinet picks await Senate post-siege"
+    excerpt: "President Donald Trump’s last full day in office Tuesday is also senators’ first day back since the deadly Capitol siege"
+    publishedDateTime: 2021-01-19T16:54:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trumps-trial-bidens-cabinet-picks-await-senate-post-75344526"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trumps-trial-bidens-cabinet-picks-await-senate-post-75344526"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-trial-bidens-cabinet-picks-await-senate-post-75344526"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 140
     images:
-      - url: "https://s.abcnews.com/images/US/WireAP_215abd9e1ec64f3d89a1a9f1d30e057d_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_78be78f51e874ec1b6e3ff585ca01188_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Fauci lays out Biden’s support for WHO after Trump criticism"
-    excerpt: "Dr. Anthony Fauci says U.S. President Joe Biden will order the United States to support projects to deploy COVID-19 vaccines, diagnostics and therapeutics to people in need around the world"
-    publishedDateTime: 2021-01-21T10:23:00Z
-    webUrl: "https://www.latimes.com/world-nation/story/2021-01-21/fauci-lays-out-bidens-support-for-who-after-trump-criticism"
-    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-01-21/fauci-lays-out-bidens-support-for-who-after-trump-criticism?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-01-21/fauci-lays-out-bidens-support-for-who-after-trump-criticism?_amp=true"
+  - title: "Biden unveils $1.9 trillion economic relief as Trump's Senate trial looms"
+    excerpt: "Majority Leader Mitch McConnell said the Senate would not reconvene before January 19, the day before Mr. Trump leaves office."
+    publishedDateTime: 2021-01-15T14:26:00Z
+    webUrl: "https://www.cbsnews.com/live-updates/trump-second-impeachment-senate-trial/"
+    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/trump-second-impeachment-senate-trial/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/trump-second-impeachment-senate-trial/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 139
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/15/271825a6-0f84-4789-b1b5-26e6a1f513f0/thumbnail/1200x630/e2df6a2401b1edfdd1bf44bba92ff8c9/gettyimages-1296409766.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Surrounded by a shrinking circle of aides, a brooding Trump lays into Pence"
+    excerpt: "U.S. President Donald Trump has increasingly isolated himself in the White House, relying on a small group of diehard loyalists and lashing out at those who dare to cross him, including Vice President Mike Pence,"
+    publishedDateTime: 2021-01-08T01:37:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump/surrounded-by-shrinking-circle-of-aides-a-brooding-trump-lashes-out-idUSKBN29C2R6"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29C2R6"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29C2R6"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 138
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1547001987&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH061DF"
+        width: 781
+        height: 545
+        isCached: true
+  - title: "Trump retreats from his job, and Pence fills the void as ‘acting’ president"
+    excerpt: "With President Trump isolated in the White House since the Jan. 6 Capitol riot, Vice President Mike Pence increasingly fills the void in their waning days in office."
+    publishedDateTime: 2021-01-15T22:41:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-01-15/as-trump-retreats-from-his-job-pence-fills-the-void-as-acting-president"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-01-15/as-trump-retreats-from-his-job-pence-fills-the-void-as-acting-president?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-01-15/as-trump-retreats-from-his-job-pence-fills-the-void-as-acting-president?_amp=true"
     type: article
     provider:
       name: Los Angeles Times
       domain: latimes.com
-    quality: 140
+    quality: 138
     images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/d25e48b/2147483647/strip/true/crop/5376x3511+0+33/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc6%2F17%2F0dcff6a549859ce569d2fff4131a%2Fap21016604188688.jpg"
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/9a216de/2147483647/strip/true/crop/5855x3824+0+39/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ffe%2F39%2Fddfcc6f1479ea42bc4296bb7a705%2Fbiden-74027.jpg"
         width: 320
         height: 209
         isCached: true
-  - title: "Biden to present new defense chief as Trump clings to failed effort to overturn election result – live"
-    excerpt: "Trump calls to ‘overturn’ results as legal attempts to reverse Biden’s victory dwindle, while president-elect will nominate Lloyd Austin to lead US defense"
-    publishedDateTime: 2020-12-09T18:13:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/09/joe-biden-doanld-trump-coronavirus-covid-19-vaccine-us-election-live-updates?page=with:block-5fd1064f8f08afb1724b7052"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/09/joe-biden-doanld-trump-coronavirus-covid-19-vaccine-us-election-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/09/joe-biden-doanld-trump-coronavirus-covid-19-vaccine-us-election-live-updates"
+  - title: "Live Updates: Trump acknowledges election defeat in video on Capitol violence"
+    excerpt: "The video comes after lawmakers called for invoking the 25th amendment​ and removing him from office, following the assault Wednesday​."
+    publishedDateTime: 2021-01-08T02:33:00Z
+    webUrl: "https://www.cbsnews.com/live-updates/biden-presidential-victory-congress-electoral-college-2021-01-07/"
+    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/biden-presidential-victory-congress-electoral-college-2021-01-07/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/biden-presidential-victory-congress-electoral-college-2021-01-07/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 139
+      name: CBS News
+      domain: cbsnews.com
+    quality: 137
     images:
-      - url: "https://i.guim.co.uk/img/media/83d3a6973b1b0461d21d94b04ea963179d3815b0/0_182_5472_3283/master/5472.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7b2c24a3156eb87c5324163757cbf17b"
-        width: 600
-        height: 360
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/08/4a55273d-8260-4e58-80d4-18c011386c23/thumbnail/1200x630/09e6db90e966b9c7fc9e40a1b095f36c/gettyimages-1294908903.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Joe Biden and Kamala Harris named Time magazine's 2020 person of the year"
-    excerpt: "Incoming president and his vice-president earn recognition, and follow in footsteps of Barack Obama and Donald Trump"
-    publishedDateTime: 2020-12-11T05:38:00Z
-    webUrl: "https://www.theguardian.com/us-news/2020/dec/11/joe-biden-and-kamala-harris-named-time-magazines-2020-person-of-the-year"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/11/joe-biden-and-kamala-harris-named-time-magazines-2020-person-of-the-year"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/11/joe-biden-and-kamala-harris-named-time-magazines-2020-person-of-the-year"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 139
-    images:
-      - url: "https://i.guim.co.uk/img/media/3f5e1cc363cf72360d9f776ee1664b19f7e5facc/0_71_3049_1830/master/3049.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7ea6fb3c4e554c3032bffc98a1651b20"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Biden picks defense secretary as Trump hosts vaccine summit – live updates"
-    excerpt: "In September, California Attorney General Xavier Becerra – recently tapped up to be president-elect Joe Biden’s new health secretary – filed a lawsuit asking a federal judge to order ATF to change its policy,"
-    publishedDateTime: 2020-12-08T10:41:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/08/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fcf42908f084f47a8a415b0"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/08/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/08/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 138
-    images:
-      - url: "https://i.guim.co.uk/img/media/a354366001ea3c24f1c9af734ebafff1fc0e17e4/257_168_3421_2053/master/3421.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6eb59eca6489fba5753b63947d2eb074"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Trump-Biden transition updates: Biden in touch with Fauci on taking vaccine"
-    excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in 37 days. According to early excerpts of his speech Monday evening, Biden is expected to emphasize that the 2020 election proved that even a pandemic or \"an abuse of power\" can’t stop democracy from playing out."
-    publishedDateTime: 2020-12-14T22:27:00Z
-    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-results-transition/?id=74713338"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74713338"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74713338"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 138
-    images:
-      - url: "https://s.abcnews.com/images/International/biden-ap-jt-201208_1607454736741_hpMain_16x9_1600.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Joe Biden, Kamala Harris take oaths of office as president, vice president"
-    excerpt: "Vice President Kamala Harris bumps fists with Joe Biden at the U.S. Capitol on Wednesday just before his inauguration as the 46th president of the United States. Biden called for unity in his inaugural speech."
-    publishedDateTime: 2021-01-20T22:35:00Z
-    webUrl: "https://www.washingtonpost.com/lifestyle/kidspost/joe-biden-kamala-harris-take-oaths-of-office-as-president-vice-president/2021/01/20/c5dd91ec-516d-11eb-bda4-615aaefd0555_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/lifestyle/kidspost/joe-biden-kamala-harris-take-oaths-of-office-as-president-vice-president/2021/01/20/c5dd91ec-516d-11eb-bda4-615aaefd0555_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/kidspost/joe-biden-kamala-harris-take-oaths-of-office-as-president-vice-president/2021/01/20/c5dd91ec-516d-11eb-bda4-615aaefd0555_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 138
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BVMI7GS3NYI6XC6PHB3YOHEBTU.jpg&w=1440"
-        width: 1440
-        height: 1043
-        isCached: true
-  - title: "U.S. Senate leader McConnell acknowledges Biden victory; laments Trump defeat"
-    excerpt: "U.S. Senate Majority Leader Mitch McConnell, a Republican, on Tuesday congratulated Democratic President-elect Joe Biden and Vice President-elect Kamala Harris on their Nov. 3 election victories, ending his long silence on the outcome of the presidential race."
-    publishedDateTime: 2020-12-16T00:16:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-mcconnell-idUSKBN28P27W"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28P27W"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P27W"
+  - title: "Republican Maryland governor calls for Trump's removal and Pence to take over"
+    excerpt: "Maryland Governor Larry Hogan on Thursday called for President Donald Trump to resign the White House or be removed from office, saying Vice President Mike Pence should take over to ensure a peaceful transfer of power to Democratic President-elect Joe Biden."
+    publishedDateTime: 2021-01-07T23:53:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump-maryland-idUSKBN29C2QC"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29C2QC"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29C2QC"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 137
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201215&t=2&i=1544659461&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBE1AS"
-        width: 754
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1547001359&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH061D4"
+        width: 817
         height: 545
         isCached: true
-  - title: "Here's what it could take for Biden to undo Trump's big changes at the Pentagon"
-    excerpt: "The Trump administration has brought massive changes to the Pentagon in the weeks since Trump lost the election."
-    publishedDateTime: 2020-12-11T20:30:00Z
-    webUrl: "https://www.businessinsider.com/what-it-takes-for-biden-to-undo-trumps-pentagon-moves-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/what-it-takes-for-biden-to-undo-trumps-pentagon-moves-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/what-it-takes-for-biden-to-undo-trumps-pentagon-moves-2020-12?amp"
+  - title: "Democrats to pressure Pence to remove Trump using 25th amendment – live updates"
+    excerpt: "Pelosi faces Republican opposition to action over president’s incitement of assault on Capitol"
+    publishedDateTime: 2021-01-11T13:23:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/11/joe-biden-donald-trump-impeachment-capitol-mike-pence-nancy-pelosi-coronavirus-covid-live-updates?page=with:block-5ffc6c9a8f087f696cb37894"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/11/joe-biden-donald-trump-impeachment-capitol-mike-pence-nancy-pelosi-coronavirus-covid-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/11/joe-biden-donald-trump-impeachment-capitol-mike-pence-nancy-pelosi-coronavirus-covid-live-updates"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: The Guardian
+      domain: theguardian.com
     quality: 136
     images:
-      - url: "https://i.insider.com/5e81b05e2ff839113e6aac63?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://i.guim.co.uk/img/media/970fc3375a54f756de10675dd769056dbd02b8b6/0_225_5568_3341/master/5568.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=664c509acfbf805c4d14acaf02b49ad1"
+        width: 600
+        height: 360
         isCached: true
-  - title: "Mr. Biden should reverse the Trump administration’s harmful immigration changes"
-    excerpt: "President Trump is hastily lengthening the already difficult citizenship test, which has implications for the United States and its world standing. What can only be perceived as a thinly veiled attempt to further “tighten” border security is,"
-    publishedDateTime: 2020-12-12T02:41:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/mr-biden-should-reverse-the-trump-administrations-harmful-immigration-changes/2020/12/11/26805528-3a3c-11eb-aad9-8959227280c4_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/mr-biden-should-reverse-the-trump-administrations-harmful-immigration-changes/2020/12/11/26805528-3a3c-11eb-aad9-8959227280c4_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/letters-to-the-editor/mr-biden-should-reverse-the-trump-administrations-harmful-immigration-changes/2020/12/11/26805528-3a3c-11eb-aad9-8959227280c4_story.html?outputType=amp"
+  - title: "Trump-Biden transition live updates: Trump defense team uncertain ahead of trial"
+    excerpt: "Live updates during the transition from the Trump to Biden administrations -- and from the second Trump impeachment."
+    publishedDateTime: 2021-01-15T04:28:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-transition-trump-biden-impeachment/?id=75166132"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-transition-trump-biden-impeachment/?id=75166132"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-transition-trump-biden-impeachment/?id=75166132"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 136
+      name: ABC
+      domain: abcnews.go.com
+    quality: 135
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZD2DN3BZSQI6XKWZRFMSE4UAYQ.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://s.abcnews.com/images/General/joe-biden-01-gty-llr-210114_1610670422129_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "Thousands of Trump supporters rally in DC to protest election before Electoral College formalizes Biden's win"
-    excerpt: "As many as 15,000 Trump supporters are expected to gather Saturday to protest \"voter fraud\" and demand \"election integrity\" in the 2020 presidential election."
-    publishedDateTime: 2020-12-12T20:28:00Z
-    webUrl: "https://www.usatoday.com/story/news/nation/2020/12/12/trump-march-brings-thousands-dc-ahead-electoral-college-vote/3882935001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3882935001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3882935001"
+  - title: "Pence affirms Biden as winner, formalizing electoral count after day of riots at Capitol; Trump prepares for exit"
+    excerpt: "Trump early Thursday for the first time acknowledged he will depart the White House Jan. 20 and said there would be an “orderly transition” of power."
+    publishedDateTime: 2021-01-07T20:14:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/01/06/congress-count-electoral-college-votes-biden-win/6556555002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6556555002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6556555002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 136
+    quality: 134
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/12/USAT/98fde875-f323-48b1-956e-5deb594da45d-XXX_USATODAY_444201_jmg_22534_1.JPG?auto=webp&crop=5567,3132,x0,y283&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2021/01/07/USAT/d460df1b-74bd-4b89-b2ea-29455649a38d-AP_Biden.jpg?auto=webp&crop=3418,1922,x800,y418&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "As electoral college formalizes Biden’s win, Trump backers hold their own vote"
-    excerpt: "ATLANTA — Republicans in six states won by President-elect Joe Biden held their own electoral college-style votes Monday for President Trump — hoping that future court decisions would throw out Biden's votes and count the GOP ones instead."
-    publishedDateTime: 2020-12-15T02:09:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-backers-electoral-college/2020/12/14/f0fcc59c-3e52-11eb-9453-fc36ba051781_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-backers-electoral-college/2020/12/14/f0fcc59c-3e52-11eb-9453-fc36ba051781_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-backers-electoral-college/2020/12/14/f0fcc59c-3e52-11eb-9453-fc36ba051781_story.html?outputType=amp"
+  - title: "Biden aims for new course on trade, breaking with Trump and Democratic predecessors"
+    excerpt: "Biden will confront the same question that has bedeviled U.S. policymakers for three decades: How can the U.S. shape for maximum benefit its overseas commercial engagements?"
+    publishedDateTime: 2021-01-14T18:53:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/01/14/biden-trade-katherine-tai-tariff/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/14/biden-trade-katherine-tai-tariff/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/14/biden-trade-katherine-tai-tariff/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 136
+    quality: 134
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/D7PUOQR6HUI6XNMLCYR7MJTZMA.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/326P67B4AAI6XKWZRFMSE4UAYQ.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
-  - title: "Donald Trump will keep protesting, despite Electoral College vote for Joe Biden"
-    excerpt: "Far from conceding, Trump served notice he will keep protesting, no matter that he has no chance of reversing his loss to Biden."
-    publishedDateTime: 2020-12-14T23:56:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/14/donald-trump-keep-protesting-despite-electoral-college-vote/6536849002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6536849002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6536849002"
+  - title: "Trump-Biden transition live updates: Trump unlikely to issue pardons for self, family"
+    excerpt: "Updates during the transition from the Trump to Biden administrations -- and about a second Senate impeachment trial."
+    publishedDateTime: 2021-01-19T02:07:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/biden-trump-2020-election-transition-inauguration/?id=75311140"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/biden-trump-2020-election-transition-inauguration/?id=75311140"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/biden-trump-2020-election-transition-inauguration/?id=75311140"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 133
+    images:
+      - url: "https://s.abcnews.com/images/General/washington-inauguration-security-razorwire-fence-02-rt-llr-210114_1610669404899_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "James Comey Says Joe Biden Should Consider Pardoning Donald Trump to Allow U.S. to Heal"
+    excerpt: "James Comey, the former FBI director fired by President Donald Trump in 2017, said the U.S. needs to \"focus on things that are going to matter.\""
+    publishedDateTime: 2021-01-14T09:06:00Z
+    webUrl: "https://www.newsweek.com/james-comey-donald-trump-pardon-impeachment-healing-1561457"
+    ampWebUrl: "https://www.newsweek.com/james-comey-donald-trump-pardon-impeachment-healing-1561457?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/james-comey-donald-trump-pardon-impeachment-healing-1561457?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 132
+    images:
+      - url: "https://d.newsweek.com/en/full/1707401/fbi-director-james-comey.jpg"
+        width: 3600
+        height: 2400
+        isCached: true
+  - title: "Live updates: Pence says he will not invoke 25th Amendment to remove Trump from office"
+    excerpt: "Pence’s letter comes as House Democrats are calling on him to invoke the 25th Amendment or they will begin impeachment proceedings."
+    publishedDateTime: 2021-01-14T02:17:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/01/12/live-politics-updates-house-resume-efforts-oust-president-trump/6626864002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6626864002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6626864002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 136
+    quality: 132
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/03/USAT/171a421a-3d61-4825-b357-5bc3d776607a-AP20338663126539_1.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2021/01/07/USAT/8da3ecef-a6bb-4db4-97a3-49e327800c5a-VPC_PENCE_SOT_DESK.00_00_21_20.Still005.jpg?auto=webp&crop=1747,983,x16,y92&format=pjpg&width=1200"
         width: 1200
-        height: 676
+        height: 675
         isCached: true
-  - title: "Most Trump voters are ready to give Biden a chance. Are Republican politicians?"
-    excerpt: "Roy Blunt (R-Mo.), who was one of three Republican leaders to reject a resolution last week that would have recognized Biden’s win. Or like President Vladimir Putin of Russia. That’s a joke, but only partially."
-    publishedDateTime: 2020-12-15T14:57:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/12/15/most-trump-voters-are-ready-give-biden-chance-are-republican-politicians/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/15/most-trump-voters-are-ready-give-biden-chance-are-republican-politicians/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/15/most-trump-voters-are-ready-give-biden-chance-are-republican-politicians/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 136
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ALIEXTB6PMI6XNMLCYR7MJTZMA.jpg&w=1440"
-        width: 1440
-        height: 891
-        isCached: true
-  - title: "Trump-Biden transition live updates: Biden introduces key climate, energy picks"
-    excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in 32 days. Wrapping up Saturday's event announcing members of the incoming administration's climate and energy team,"
-    publishedDateTime: 2020-12-20T03:34:00Z
-    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-results-transition/?id=74713338"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74713338"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74713338"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 136
-    images:
-      - url: "https://s.abcnews.com/images/General/transition-election-blog-joe-biden-nominates-01-rt-llr-201219_1608407168509_hpMain_16x9_1600.jpg"
-        width: 1600
-        height: 901
-        isCached: true
-  - title: "Trump wants a special counsel to investigate purported election fraud and Hunter Biden allegations, report says"
-    excerpt: "Justice Department guidelines say the attorney general can appoint a special counsel, but it's unclear if Attorney General Barr will do so."
-    publishedDateTime: 2020-12-12T06:45:00Z
-    webUrl: "https://www.businessinsider.com/trump-special-counsel-probe-2020-election-hunter-biden-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/trump-special-counsel-probe-2020-election-hunter-biden-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-special-counsel-probe-2020-election-hunter-biden-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 135
-    images:
-      - url: "https://i.insider.com/5fd0b691cee0cf00114fa553?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Wisconsin state court judge rules against Trump campaign lawsuit seeking to overturn Joe Biden’s win"
-    excerpt: "Wisconsin state court judge rules against Trump campaign lawsuit seeking to overturn Joe Biden’s win."
-    publishedDateTime: 2020-12-12T00:59:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/wisconsin-state-court-judge-rules-trump-campaign-lawsuit-74673107"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/wisconsin-state-court-judge-rules-trump-campaign-lawsuit-74673107"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/wisconsin-state-court-judge-rules-trump-campaign-lawsuit-74673107"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 135
-    images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
-        isCached: true
-  - title: "Meet Some of the Supporters Who Helped Deliver the Election to Joe Biden and Kamala Harris"
-    excerpt: "Elect Kamala Harris were named TIME’s 2020 person of the year on December 10, after winning the White House with a record-breaking 81 million votes. A diverse coalition of supporters in key states, like Wisconsin,"
-    publishedDateTime: 2020-12-13T17:06:00Z
-    webUrl: "https://time.com/5920880/voters-joe-biden-kamala-harris/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 135
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2020/12/time-person-of-the-year-voters-2020-2.jpg?quality&#x3D;85"
-        width: 2400
-        height: 1600
-        isCached: true
-  - title: "Trump-Biden transition updates: States ramp up security as electors cast ballots"
-    excerpt: "With the president and his allies continuing their pressure campaign to overturn the election, some of the battleground states where Biden won are taking additional security precautions to safeguard their electors meeting Monday."
-    publishedDateTime: 2020-12-14T19:26:00Z
-    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-results-transition/?id=74713338"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74713338"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74713338"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 135
-    images:
-      - url: "https://s.abcnews.com/images/International/biden-fauci-rt-jt-201208_1607457879671_hpMain_16x9_1600.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "The Latest: Biden touts Cabinet diversity, names Buttigieg"
-    excerpt: "President-elect Joe Biden says his Cabinet will be more representative of the American people than any other in U.S. history"
-    publishedDateTime: 2020-12-16T05:17:00Z
-    webUrl: "https://www.washingtonpost.com/politics/the-latest-biden-set-to-pick-mccarthy-as-us-climate-czar/2020/12/15/11ac0a3c-3f34-11eb-b58b-1623f6267960_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-biden-set-to-pick-mccarthy-as-us-climate-czar/2020/12/15/11ac0a3c-3f34-11eb-b58b-1623f6267960_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-biden-set-to-pick-mccarthy-as-us-climate-czar/2020/12/15/11ac0a3c-3f34-11eb-b58b-1623f6267960_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 135
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Fact check: Biden did not post picture of his dogs playing with a Trump chew toy"
-    excerpt: "December 2020, social media accounts began highlighting the alleged hypocrisy of Biden’s calls for national unity and healing by claiming he shared pictures of his dogs fighting over a chew toy in the likeness of President Donald Trump."
-    publishedDateTime: 2020-12-16T23:38:00Z
-    webUrl: "https://www.reuters.com/article/uk-factcheck-biden-dogs-trump-toy-idUSKBN28Q2PQ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28Q2PQ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28Q2PQ"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 135
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201216&t=2&i=1544792637&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBF1GV"
-        width: 818
-        height: 545
-        isCached: true
-  - title: "Biden, Harris to meet with civil rights leaders amid pressure to diversify Cabinet"
-    excerpt: "Elect Joe Biden and Vice President Elect Kamala Harris are set to meet with civil rights leaders today amid a push to diversity their cabinet."
-    publishedDateTime: 2020-12-08T23:51:00Z
-    webUrl: "https://abcnews.go.com/Politics/biden-harris-meet-civil-rights-leaders-amid-pressure/story?id=74605076"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-harris-meet-civil-rights-leaders-amid-pressure/story?id=74605076"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-harris-meet-civil-rights-leaders-amid-pressure/story?id=74605076"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 134
-    images:
-      - url: "https://s.abcnews.com/images/Politics/biden-ap-jt-201208_1607451998079_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump-Biden transition live updates: SCOTUS denies GOP effort to block Pa. results"
-    excerpt: "Trump filed the lawsuit in Georgia Friday afternoon officially contesting the results of the election and requesting a do-over -- another in a series of long-shot legal bids that have so far met with stiff resistance from the state's Republican election officials."
-    publishedDateTime: 2020-12-09T06:26:00Z
-    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-results-transition/?id=74573672"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74573672"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74573672"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 134
-    images:
-      - url: "https://s.abcnews.com/images/US/supreme-court-building-rtr-jc-200625_hpMain_16x9_1600.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "President-elect Joe Biden, Vice President-elect Kamala Harris named Time magazine’s persons of the year"
-    excerpt: "Time’s editor-in-chief Edward Felsenthal says Biden and Harris won for “changing the American story, for showing that the forces of empathy are greater than the furies of division, for sharing a vision of healing in a grieving world."
-    publishedDateTime: 2020-12-11T15:14:00Z
-    webUrl: "https://www.chicagotribune.com/entertainment/ct-ent-time-magazine-biden-harris-20201211-iy7l2cw6nra3fbrzhz4a4gckuq-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/entertainment/ct-ent-time-magazine-biden-harris-20201211-iy7l2cw6nra3fbrzhz4a4gckuq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/entertainment/ct-ent-time-magazine-biden-harris-20201211-iy7l2cw6nra3fbrzhz4a4gckuq-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 134
-    images:
-      - url: "https://www.chicagotribune.com/resizer/BSq3Ak_medhh77iDHliMazeaj9g=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PQPYHWKY3V6EVJEUIRLJGAFQKA.aspx"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Trump-Biden transition live updates: Biden vows 'no political influence' on vaccine"
-    excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in 40 days. The U.S. Supreme Court late Friday officially put to rest a brazen eleventh-hour attempt by the state of Texas and Republican allies of President Donald Trump to throw out millions of votes in four states and overturn Democrat Joe Biden’s victory in the 2020 presidential election."
-    publishedDateTime: 2020-12-12T07:46:00Z
-    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-results-transition/?id=74573672"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74573672"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74573672"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 134
-    images:
-      - url: "https://s.abcnews.com/images/Politics/biden-nominees-01-rtr-jc-201211_1607717218375_hpMain_16x9_1600.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Trump-Biden transition live updates: Biden meets with governors on COVID-19 response"
-    excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in 37 days."
-    publishedDateTime: 2020-12-17T03:45:00Z
-    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-results-transition/?id=74713338"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74713338"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74713338"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 133
-    images:
-      - url: "https://s.abcnews.com/images/Politics/biden-kamala_hpMain_20201216-174130_16x9_1600.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Vice President Mike Pence may skip town after overseeing final confirmation of Biden's 2020 victory to escape blowback from Trump, GOP"
-    excerpt: "Pence is in a delicate position to preside over the session that will affirm Biden's win as Trump continues to tout baseless claims of election fraud."
-    publishedDateTime: 2020-12-18T08:12:00Z
-    webUrl: "https://www.businessinsider.com/pence-tentative-trip-overseeing-election-confirmation-escape-trump-wrath-report-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/pence-tentative-trip-overseeing-election-confirmation-escape-trump-wrath-report-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pence-tentative-trip-overseeing-election-confirmation-escape-trump-wrath-report-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 133
-    images:
-      - url: "https://i.insider.com/5fdc39f1c910a400192e83d0?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Kamala Harris' Husband Slams WSJ Op-Ed Urging Jill Biden to Stop Calling Herself a Doctor"
-    excerpt: "Doug Emhoff, Vice President-elect Kamala Harris' husband, on Saturday criticized the Wall Street Journal for publishing an op-ed urging Jill Biden to \"drop the doc\" in her name. In the op-ed, essayist Joseph Epstein calls President-elect Joe Biden's wife as \"Madame First Lady—Mrs."
-    publishedDateTime: 2020-12-12T22:40:00Z
-    webUrl: "https://www.newsweek.com/kamala-harris-husband-slams-wsj-op-ed-urging-jill-biden-stop-calling-herself-doctor-1554368"
-    ampWebUrl: "https://www.newsweek.com/kamala-harris-husband-slams-wsj-op-ed-urging-jill-biden-stop-calling-herself-doctor-1554368?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-husband-slams-wsj-op-ed-urging-jill-biden-stop-calling-herself-doctor-1554368?amp=1"
+  - title: "Over 230,000 Sign Petition to Remove Trump as Lawmakers Urge Pence to Use 25th Amendment"
+    excerpt: "The president is \"the leader of the violence and chaos at the Capitol.... Enough is enough,\" the petition says."
+    publishedDateTime: 2021-01-07T20:56:00Z
+    webUrl: "https://www.newsweek.com/over-230000-sign-petition-remove-trump-lawmakers-urge-pence-use-25th-amendment-1559827"
+    ampWebUrl: "https://www.newsweek.com/over-230000-sign-petition-remove-trump-lawmakers-urge-pence-use-25th-amendment-1559827?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/over-230000-sign-petition-remove-trump-lawmakers-urge-pence-use-25th-amendment-1559827?amp=1"
     type: article
     provider:
       name: Newsweek
       domain: newsweek.com
     quality: 131
     images:
-      - url: "https://d.newsweek.com/en/full/1685455/kamala-harris-husband-doug-emhoff.jpg"
-        width: 3617
-        height: 2411
+      - url: "https://d.newsweek.com/en/full/1700771/pro-trump-riot.jpg"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "Republican Sen. Lamar Alexander says Trump must 'put country first' and concede to Biden"
-    excerpt: "\"People can make their own judgment about whether the president's acting appropriately or not,\" Alexander told NBC News."
-    publishedDateTime: 2020-12-13T15:50:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/13/republican-senator-llamar-alexander-trump-must-concede-biden/6529478002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6529478002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6529478002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 131
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/01/31/USAT/8abbd0cf-e2d8-45af-b78c-522f467f1a64-Alexander_interview_photo_1.JPG?auto=webp&crop=3451,1941,x1,y249&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "After electoral college backs Biden, Trump continues falsely insisting he won: ‘This Fake Election can no longer stand’"
-    excerpt: "Trump's cascade of late-night tweets made it clear that he intends to continue undermining the election results with baseless claims of fraud."
-    publishedDateTime: 2020-12-15T14:20:00Z
-    webUrl: "https://www.washingtonpost.com/nation/2020/12/15/trump-electoral-college-biden/"
-    ampWebUrl: "https://www.washingtonpost.com/nation/2020/12/15/trump-electoral-college-biden/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/12/15/trump-electoral-college-biden/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 131
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/12-15-2020/t_62f80a279d874911acfdfa3cff181351_name_Biden1_1080.jpg&w=1440"
-        width: 1440
-        height: 810
-        isCached: true
-  - title: "Biden officially earns over 270 Electoral College votes, cementing his victory over Trump"
-    excerpt: "Slates of presidential electors in all 50 states and the District of Columbia voted on Monday to make Biden's win official."
-    publishedDateTime: 2020-12-15T16:13:00Z
-    webUrl: "https://www.businessinsider.com/biden-earns-over-270-electoral-college-votes-confirming-victory-2020-12?scrolla=5eb6d68b7fedc32c19ef33b4"
-    ampWebUrl: "https://www.businessinsider.com/biden-earns-over-270-electoral-college-votes-confirming-victory-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-earns-over-270-electoral-college-votes-confirming-victory-2020-12?amp"
+  - title: "Trump attacks Pence for not having the 'courage' to overturn the election as the president's supporters storm the Capitol"
+    excerpt: "\"Mike Pence didn't have the courage to do what should have been done to protect our Country and our Constitution,\" Trump said."
+    publishedDateTime: 2021-01-06T20:27:00Z
+    webUrl: "https://www.businessinsider.com/trump-attacks-pence-for-not-having-courage-to-overturn-election-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/trump-attacks-pence-for-not-having-courage-to-overturn-election-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-attacks-pence-for-not-having-courage-to-overturn-election-2021-1?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 131
+    quality: 130
     images:
-      - url: "https://i.insider.com/5fd782949cf1420018d2f22a?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5ff614c16d61c10019ccdffc?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump administration and Biden team at odds about presidential transition in the Pentagon"
-    excerpt: "The Trump administration and the Biden team were at odds on Friday after the acting Pentagon chief abruptly postponed transition meetings and Biden’s representatives expressed concern about the decision and described pockets of resistance to cooperation within the Pentagon."
-    publishedDateTime: 2020-12-19T02:40:00Z
-    webUrl: "https://www.washingtonpost.com/national-security/biden-trump-transition-pentagon-dispute/2020/12/18/d8142d94-415f-11eb-a402-fba110db3b42_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national-security/biden-trump-transition-pentagon-dispute/2020/12/18/d8142d94-415f-11eb-a402-fba110db3b42_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/biden-trump-transition-pentagon-dispute/2020/12/18/d8142d94-415f-11eb-a402-fba110db3b42_story.html?outputType=amp"
+  - title: "Pence rules out invoking 25th Amendment to remove Trump as House rushes ahead toward impeachment"
+    excerpt: "The U.S. House pressed swiftly forward Tuesday toward impeachment or other steps to forcibly remove President Trump from office."
+    publishedDateTime: 2021-01-13T01:52:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-trump-capitol-riot-20210112-ltxwk656xreaxftpvqolxgvska-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-trump-capitol-riot-20210112-ltxwk656xreaxftpvqolxgvska-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-trump-capitol-riot-20210112-ltxwk656xreaxftpvqolxgvska-story.html?outputType=amp"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 131
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KSNZPACBN4I6XC6AVYKVX3SK74.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Fauci says to give COVID-19 vaccine to Biden, Harris, Trump, Pence"
-    excerpt: "Dr. Anthony Fauci says 'for security reasons' President-elect Biden and Vice President-elect Harris should be vaccinated for COVID-19 as soon as possible."
-    publishedDateTime: 2020-12-15T18:14:00Z
-    webUrl: "https://www.khou.com/article/news/health/coronavirus/fauci-says-covid-19-vaccine-should-go-to-biden-harris-trump-pence-asap/507-ef6f6643-99ab-49cf-b360-f582c8b0920a"
-    ampWebUrl: "https://www.khou.com/amp/article/news/health/coronavirus/fauci-says-covid-19-vaccine-should-go-to-biden-harris-trump-pence-asap/507-ef6f6643-99ab-49cf-b360-f582c8b0920a"
-    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/health/coronavirus/fauci-says-covid-19-vaccine-should-go-to-biden-harris-trump-pence-asap/507-ef6f6643-99ab-49cf-b360-f582c8b0920a"
-    type: article
-    provider:
-      name: KHOU 11
-      domain: khou.com
-    quality: 130
-    images:
-      - url: "https://media.khou.com/assets/CCT/images/31529b7b-26be-43cf-ac59-8125e2da975e/31529b7b-26be-43cf-ac59-8125e2da975e_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "‘A real mess’: Trump is leaving behind crises and undermining Biden before he takes office"
-    excerpt: "In a situation without precedent in American history, one president is ending his term amid a global emergency while seeking to delegitimize a successor — and floating the prospect of mounting a four-year campaign to return to power."
-    publishedDateTime: 2020-12-21T11:04:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-undermine-biden/2020/12/20/999e2ab8-4152-11eb-9453-fc36ba051781_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-undermine-biden/2020/12/20/999e2ab8-4152-11eb-9453-fc36ba051781_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-undermine-biden/2020/12/20/999e2ab8-4152-11eb-9453-fc36ba051781_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 130
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6WKMQJR7YMI6XNMLCYR7MJTZMA.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Trump appointee who oversees Voice of America refuses to cooperate with Biden transition team"
-    excerpt: "A Trump appointee with a short but controversial record of overseeing Voice of America and other federally funded news agencies has declined to cooperate with president-elect Joe Biden’s representatives as they seek access to records and personnel."
-    publishedDateTime: 2020-12-08T16:21:00Z
-    webUrl: "https://www.washingtonpost.com/lifestyle/media/michael-pack-voice-america-biden-transition/2020/12/08/8212f630-38e7-11eb-9276-ae0ca72729be_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/lifestyle/media/michael-pack-voice-america-biden-transition/2020/12/08/8212f630-38e7-11eb-9276-ae0ca72729be_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/media/michael-pack-voice-america-biden-transition/2020/12/08/8212f630-38e7-11eb-9276-ae0ca72729be_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 129
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LJHRDARZNII6XETWVYGKOJZJXY.jpg&w=1440"
-        width: 1440
-        height: 1018
-        isCached: true
-  - title: "Putin has finally congratulated Joe Biden after the Electoral College confirmed Trump's defeat"
-    excerpt: "President Putin was one of the last major world leaders to congratulate Biden on winning the election."
-    publishedDateTime: 2020-12-16T09:41:00Z
-    webUrl: "https://www.businessinsider.com/putin-congratulates-joe-biden-after-trump-loses-electoral-college-2020-12?scrolla=5eb6d68b7fedc32c19ef33b4"
-    ampWebUrl: "https://www.businessinsider.com/putin-congratulates-joe-biden-after-trump-loses-electoral-college-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/putin-congratulates-joe-biden-after-trump-loses-electoral-college-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 128
-    images:
-      - url: "https://i.insider.com/5fd8a3d578a5740019a15720?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Politics live updates: Fudge and Vilsack to be tapped for Biden White House posts, Trump election challenges rejected by courts"
-    excerpt: "Rep. Marcia Fudge would be the second Black woman to lead HUD. Former Agriculture Secretary Tom Vilsack would return to his Obama administration role."
-    publishedDateTime: 2020-12-09T13:49:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/09/presidential-transition-news-joe-biden-donald-trump/6500841002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6500841002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6500841002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
+      name: Chicago Tribune
+      domain: chicagotribune.com
     quality: 127
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/09/USAT/8231a1a9-2a55-48d2-8df5-aff4fef1d9b7-AP20344695708231.jpg?auto=webp&crop=5999,3374,x1,y597&format=pjpg&width=1200"
+      - url: "https://www.chicagotribune.com/resizer/7Zt8dwttp4HCklY2hgM8BdRnKR0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/MVWUCRKSEDZKABUQSBXB4XICXA.aspx"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
-  - title: "Fact check: Joe Biden, Kamala Harris – not China's Xi Jinping – are Time's 2020 Person of the Year"
-    excerpt: "Last week, after Time magazine announced its annual \"Person of the Year,\" an altered cover image including Chinese President Xi Jinping went viral."
-    publishedDateTime: 2020-12-16T23:09:00Z
-    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/12/16/fact-check-biden-harris-not-chinas-xi-grace-times-actual-cover/3904043001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3904043001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3904043001"
+  - title: "Trump doesn't ask backers to disperse after storming Capitol"
+    excerpt: "President Donald Trump is encouraging supporters who've stormed the Capitol in protest of his reelection defeat to “remain peaceful.”"
+    publishedDateTime: 2021-01-06T22:39:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-backers-disperse-storming-capitol-75093278"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-backers-disperse-storming-capitol-75093278"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-backers-disperse-storming-capitol-75093278"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 126
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/11/USAT/fd9bbdc5-ff98-464f-8bd0-c8dc14851bf4-VPC_2020_TIME_PEOPLE_OF_THE_YEAR_DESK_THUMB.jpg?auto=webp&crop=1911,1075,x8,y0&format=pjpg&width=1200"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_04b256687cf34eab819e79c9fb875c9b_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Twitter reacts after violent pro-Trump mob breaches US Capitol"
+    excerpt: "Angry Trump supporters stormed the U.S. Capitol, marching through the building, shouting and waving Trump and American flags and forcing a halt to congressional deliberations over challenges to Biden’s Electoral College victory."
+    publishedDateTime: 2021-01-07T06:24:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-soc-us-capitol-protesters-20210106-yjabfyv43vh3jcynql6sxlcx3m-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-soc-us-capitol-protesters-20210106-yjabfyv43vh3jcynql6sxlcx3m-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-soc-us-capitol-protesters-20210106-yjabfyv43vh3jcynql6sxlcx3m-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 125
+    images:
+      - url: "https://www.chicagotribune.com/resizer/ZMi6yjkHhF5Yy1a0WmMNmz8kuxk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NZFOY44MZBHDVGTVCJMOCWCXXA.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Donald Trump fans cry betrayal as he rebukes Capitol violence"
+    excerpt: "On Parler and 4chan Trumpists write of feeling ‘like puking’ as president says those who ‘broke law will pay’"
+    publishedDateTime: 2021-01-08T11:02:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/08/trump-incites-anger-among-acolytes-let-down-by-lack-of-support?ICID=ref_fark"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/08/trump-incites-anger-among-acolytes-let-down-by-lack-of-support"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/08/trump-incites-anger-among-acolytes-let-down-by-lack-of-support"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/90d54c23d0e29b77c4957032c2727c8e0c47e140/0_19_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8a54660af1548fed3d269172a76c08c9"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Facebook bans President Trump through Inauguration Day, maybe longer"
+    excerpt: "Facebook will bar President Donald Trump from posting on its system at least until the inauguration of President-elect Joe Biden."
+    publishedDateTime: 2021-01-07T16:42:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-facebook-bans-trump-20210107-wgmlphmigvbx3ekt7da7r4zrmq-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-facebook-bans-trump-20210107-wgmlphmigvbx3ekt7da7r4zrmq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-facebook-bans-trump-20210107-wgmlphmigvbx3ekt7da7r4zrmq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 125
+    images:
+      - url: "https://www.chicagotribune.com/resizer/I0V4uaxzPRvEzELkF92xb_2OYL4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/JAJBMB4OW6ASF2Q7LDQ7EPS6HQ.aspx"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Facebook bans Trump for the rest of his presidency"
+    excerpt: "Mark Zuckerberg said Mr. Trump's account will be locked \"for at least the next two weeks\" but could remain locked indefinitely."
+    publishedDateTime: 2021-01-08T01:37:00Z
+    webUrl: "https://www.cbsnews.com/news/facebook-bans-trump-joe-biden-president-inauguration/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/facebook-bans-trump-joe-biden-president-inauguration/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/facebook-bans-trump-joe-biden-president-inauguration/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/07/49ecaf2c-77dd-457e-a6ba-ded691195aee/thumbnail/1200x630/ea4a3fd9ad0ec088f11ca121441c311d/gettyimages-1046002128.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "House Democrats discussing swift action to impeach Trump"
+    excerpt: "Democrats are discussing whether to move forward with impeaching President Donald Trump if his Cabinet doesn’t try to remove him for the mob assault on the U.S. Capitol"
+    publishedDateTime: 2021-01-08T14:35:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/house-democrats-discussing-swift-action-impeach-trump-75132258"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/house-democrats-discussing-swift-action-impeach-trump-75132258"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/house-democrats-discussing-swift-action-impeach-trump-75132258"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_154a4ca78c8d45fcb4642fb90afcb6ae_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Pelosi demands Trump's removal from office in wake of Capitol attack"
+    excerpt: "Pelosi said she is \"calling on the vice president to remove this president by immediately invoking the 25th Amendment.\""
+    publishedDateTime: 2021-01-08T12:15:00Z
+    webUrl: "https://www.cbsnews.com/news/nancy-pelosi-calls-trump-removal-office-capitol-attack/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/nancy-pelosi-calls-trump-removal-office-capitol-attack/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/nancy-pelosi-calls-trump-removal-office-capitol-attack/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/07/04b36ed5-21a1-4313-b88d-4ec16ed9922a/thumbnail/1200x630/be4b63fc79ebd88f3c2c4e7df078adb6/gettyimages-1230470165.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "This is what Trump told supporters before many stormed Capitol Hill"
+    excerpt: "Many who participated in the chaos as the U.S. Capitol building went under attack on Wednesday came straight from a rally held by President Donald Trump."
+    publishedDateTime: 2021-01-07T18:22:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-told-supporters-stormed-capitol-hill/story?id=75110558"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-told-supporters-stormed-capitol-hill/story?id=75110558"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-told-supporters-stormed-capitol-hill/story?id=75110558"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-rallyb-01-ap-iwb-210107_1610040219665_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump barred Pence's chief of staff from the White House after the president attacked Pence for not trying to overturn the election"
+    excerpt: "Marc Short said President Donald Trump had barred him from the White House grounds because the president was \"blaming\" him for advice he gave Pence."
+    publishedDateTime: 2021-01-07T16:18:00Z
+    webUrl: "https://www.businessinsider.com/marc-short-trump-bans-pence-chief-of-staff-white-house-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/marc-short-trump-bans-pence-chief-of-staff-white-house-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/marc-short-trump-bans-pence-chief-of-staff-white-house-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5ff6a21cd184b30018aad732?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump is said to have discussed pardoning himself"
+    excerpt: "President Trump has suggested to aides he wants to pardon himself in the final days of his presidency, according to two people with knowledge of the discussions."
+    publishedDateTime: 2021-01-08T00:46:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-trump-self-pardon-20210108-hhe7qrvjgvc3dkkwwsrxatknqu-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-trump-self-pardon-20210108-hhe7qrvjgvc3dkkwwsrxatknqu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-nyt-trump-self-pardon-20210108-hhe7qrvjgvc3dkkwwsrxatknqu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 125
+    images:
+      - url: "https://www.chicagotribune.com/resizer/zLgfpuo49z4tAI8RLRh3rajqSd4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/AKAJALEQ6JFRBCVTRMERJKGW3M.jpg"
         width: 1200
         height: 675
         isCached: true
-  - title: "The Latest: Pence talks vaccines in SC as virus cases rise"
-    excerpt: "Vice President Mike Pence has traveled to South Carolina to talk about coronavirus vaccines, as cases are rising in the state"
-    publishedDateTime: 2020-12-10T05:25:00Z
-    webUrl: "https://www.washingtonpost.com/health/the-latest-doctor-has-concern-about-vaccine-availability/2020/12/09/291437fe-3a7e-11eb-aad9-8959227280c4_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/health/the-latest-doctor-has-concern-about-vaccine-availability/2020/12/09/291437fe-3a7e-11eb-aad9-8959227280c4_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/the-latest-doctor-has-concern-about-vaccine-availability/2020/12/09/291437fe-3a7e-11eb-aad9-8959227280c4_story.html?outputType=amp"
+  - title: "Trump official merchandise stores removed by Shopify"
+    excerpt: "The e-commerce platform Shopify said Thursday that it has terminated stores affiliated with President Donald Trump."
+    publishedDateTime: 2021-01-08T03:30:00Z
+    webUrl: "https://abcnews.go.com/Business/trump-official-merchandise-stores-removed-shopify/story?id=75116903"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/trump-official-merchandise-stores-removed-shopify/story?id=75116903"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/trump-official-merchandise-stores-removed-shopify/story?id=75116903"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/capitol-statue-protest-gty-ps-210106_1609967664138_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Woman shot at Capitol was Air Force veteran who backed Trump"
+    excerpt: "The woman who was fatally shot when a mob supporting President Donald Trump stormed the U.S. Capitol was identified by authorities Thursday as Ashli Babbitt, whose family described her as an Air Force veteran and avid supporter of Trump and his efforts to stay in office."
+    publishedDateTime: 2021-01-07T18:40:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/woman-shot-capitol-air-force-veteran-backed-trump-75112631"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/woman-shot-capitol-air-force-veteran-backed-trump-75112631"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/woman-shot-capitol-air-force-veteran-backed-trump-75112631"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_6cee6916cfc746928f125b3c54be1714_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Cohen seeks to dismantle Trump legacy, one podcast at a time"
+    excerpt: "Michael Cohen says his podcast “Mea Culpa” is changing the minds of listeners who supported President Donald Trump"
+    publishedDateTime: 2021-01-09T12:56:00Z
+    webUrl: "https://abcnews.go.com/Entertainment/wireStory/cohen-seeks-dismantle-trump-legacy-podcast-time-75149099"
+    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/cohen-seeks-dismantle-trump-legacy-podcast-time-75149099"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/cohen-seeks-dismantle-trump-legacy-podcast-time-75149099"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Entertainment/WireAP_6dba9e838c85420fb37e5c1181784624_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Donald Trump fans cry betrayal as he rebukes Capitol violence"
+    excerpt: "On Parler and 4chan Trumpists write of feeling ‘like puking’ as president says those who ‘broke law will pay’"
+    publishedDateTime: 2021-01-08T21:18:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/08/trump-incites-anger-among-acolytes-let-down-by-lack-of-support?fbclid=IwAR3Wq5UmLvpW6ZPNL5Sdv9XcHzqw050nSpZvWgdr1TKq6xfdGI1clhvLGJw"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/08/trump-incites-anger-among-acolytes-let-down-by-lack-of-support"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/08/trump-incites-anger-among-acolytes-let-down-by-lack-of-support"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/90d54c23d0e29b77c4957032c2727c8e0c47e140/0_19_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8a54660af1548fed3d269172a76c08c9"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Pelosi’s talk of limits on Trump nuke power raises old worry"
+    excerpt: "House Speaker Nancy Pelosi’s concern about constraining President Donald Trump’s ability to launch a nuclear attack in his final days in office highlights a longstanding question: should any president"
+    publishedDateTime: 2021-01-09T12:33:00Z
+    webUrl: "https://www.washingtonpost.com/politics/pelosis-talk-of-limits-on-trump-nuke-power-raises-old-worry/2021/01/09/058a1182-524d-11eb-a1f5-fdaf28cfca90_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/pelosis-talk-of-limits-on-trump-nuke-power-raises-old-worry/2021/01/09/058a1182-524d-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pelosis-talk-of-limits-on-trump-nuke-power-raises-old-worry/2021/01/09/058a1182-524d-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
@@ -1252,1555 +795,3660 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Kamala Harris assumes critical role – now and later: The Note"
-    excerpt: "Harris will be a Black vice president in an administration facing criticism for a relative lack of diversity. She will be a key figure in convincing communities of color to trust the COVID-19 vaccine."
-    publishedDateTime: 2020-12-16T11:10:00Z
-    webUrl: "https://abcnews.go.com/Politics/kamala-harris-assumes-critical-role-now-note/story?id=74591169"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/kamala-harris-assumes-critical-role-now-note/story?id=74591169"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/kamala-harris-assumes-critical-role-now-note/story?id=74591169"
+  - title: "Twitter bans Trump, citing risk of violent incitement"
+    excerpt: "Twitter banned President Donald Trump's account Friday, citing “the risk of further incitement of violence\" following the deadly insurrection at the U.S. Capitol on Wednesday. Twitter has long given Trump and other world leaders broad exemptions from its rules against personal attacks,"
+    publishedDateTime: 2021-01-09T08:11:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/pressure-mounts-social-platforms-ban-trump-good-75143482"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/pressure-mounts-social-platforms-ban-trump-good-75143482"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/pressure-mounts-social-platforms-ban-trump-good-75143482"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/kamala-harris-robin-roberts-interview-06-abc-jc-201215_1608076757078_hpMain_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_cc1537d419074084883392df7ae6f066_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "In picking a team, Biden has been guided by memories of his late son"
-    excerpt: "Joe Biden's memories of late son Beau have influenced his plans for his new administration. Republicans want to turn his surviving son, Hunter, into a liability."
-    publishedDateTime: 2020-12-17T01:45:00Z
-    webUrl: "https://www.latimes.com/politics/story/2020-12-16/for-biden-memories-of-one-son-and-the-woes-of-another-loom-large"
-    ampWebUrl: "https://www.latimes.com/politics/story/2020-12-16/for-biden-memories-of-one-son-and-the-woes-of-another-loom-large?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-12-16/for-biden-memories-of-one-son-and-the-woes-of-another-loom-large?_amp=true"
+  - title: "For Trump, the end is coming swiftly and with stinging rebukes"
+    excerpt: "The end is coming in ways Trump could not have imagined before Wednesday’s riot at the Capitol by his supporters. He is hearing calls for his resignation from conservative voices, among them Rupert Murdoch’s Wall Street Journal editorial page."
+    publishedDateTime: 2021-01-09T22:30:00Z
+    webUrl: "https://www.washingtonpost.com/politics/rebukes-trump-presidency-ending-/2021/01/09/35f2de3c-5287-11eb-83e3-322644d82356_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/rebukes-trump-presidency-ending-/2021/01/09/35f2de3c-5287-11eb-83e3-322644d82356_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/rebukes-trump-presidency-ending-/2021/01/09/35f2de3c-5287-11eb-83e3-322644d82356_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JWYHYFCSUAI6XA7DGITEJWBDKY.jpg&w=1440"
+        width: 1440
+        height: 977
+        isCached: true
+  - title: "Squelched by Twitter, Trump seeks new online megaphone"
+    excerpt: "Though stripped of his Twitter account for inciting rebellion, President Donald Trump does have alternative options of much smaller reach"
+    publishedDateTime: 2021-01-10T06:30:00Z
+    webUrl: "https://www.washingtonpost.com/business/technology/squelched-by-twitter-trump-seeks-new-online-megaphone/2021/01/09/655aba1c-52e3-11eb-a1f5-fdaf28cfca90_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/business/technology/squelched-by-twitter-trump-seeks-new-online-megaphone/2021/01/09/655aba1c-52e3-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/technology/squelched-by-twitter-trump-seeks-new-online-megaphone/2021/01/09/655aba1c-52e3-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Theresa May too eager to pay homage to Donald Trump, says John Bercow"
+    excerpt: "PM’s ‘almost breathless’ quest to develop ties with US president"
+    publishedDateTime: 2021-01-09T19:48:00Z
+    webUrl: "https://www.theguardian.com/uk-news/2021/jan/09/theresa-may-too-eager-to-pay-homage-to-donald-trump-says-john-bercow"
+    ampWebUrl: "https://amp.theguardian.com/uk-news/2021/jan/09/theresa-may-too-eager-to-pay-homage-to-donald-trump-says-john-bercow"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/uk-news/2021/jan/09/theresa-may-too-eager-to-pay-homage-to-donald-trump-says-john-bercow"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/9ae50eeed19c88f00e8cfa0570b951d2529a8729/0_0_1562_937/master/1562.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=736cf1d696beff721b60f1b1dddfd7d7"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Analysis: A GOP reckoning after turning blind eye to Trump"
+    excerpt: "Republicans are coming to grips with the fallout of President Donald Trump's false attacks on the election, which fueled the anger of supporters who stormed the U.S. Capitol last week"
+    publishedDateTime: 2021-01-11T06:52:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/analysis-gop-reckoning-turning-blind-eye-trump-75170731"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/analysis-gop-reckoning-turning-blind-eye-trump-75170731"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/analysis-gop-reckoning-turning-blind-eye-trump-75170731"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_50a6e4c8be3a42f388c2f4c036665b97_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "PGA votes to move 2022 championship from Trump golf course"
+    excerpt: "This is the second time in just over five years the PGA of America removed one of its events from a Trump course."
+    publishedDateTime: 2021-01-11T12:19:00Z
+    webUrl: "https://www.cbsnews.com/news/pga-2022-championship-trump-golf-course-bedminster/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/pga-2022-championship-trump-golf-course-bedminster/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/pga-2022-championship-trump-golf-course-bedminster/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/11/a000e10d-134a-4e04-8718-ffe39ec3a978/thumbnail/1200x630/d086498950ed53deac83135e6aaaeca8/gettyimages-624189760.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "PGA votes to move championship from Trump golf course"
+    excerpt: "This is the second time in just over five years the PGA of America removed one of its events from a Trump course."
+    publishedDateTime: 2021-01-11T03:43:00Z
+    webUrl: "https://www.cbsnews.com/news/pga-votes-to-move-championship-from-trump-golf-course/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/pga-votes-to-move-championship-from-trump-golf-course/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/pga-votes-to-move-championship-from-trump-golf-course/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/11/a000e10d-134a-4e04-8718-ffe39ec3a978/thumbnail/1200x630/d086498950ed53deac83135e6aaaeca8/gettyimages-624189760.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "R&A says no plans to award the Open to Trump's Turnberry"
+    excerpt: "The chief executive of the R&A says Donald Trump’s ownership of Turnberry will prevent the Scottish course from staging the British Open for \"the foreseeable future.\""
+    publishedDateTime: 2021-01-11T14:40:00Z
+    webUrl: "https://abcnews.go.com/Sports/wireStory/ra-plans-award-open-trumps-turnberry-75176746"
+    ampWebUrl: "https://abcnews.go.com/amp/Sports/wireStory/ra-plans-award-open-trumps-turnberry-75176746"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Sports/wireStory/ra-plans-award-open-trumps-turnberry-75176746"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_1deda14e260e40a5b24a2a905e43a5f2_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Records show fervent Trump fans fueled US Capitol takeover"
+    excerpt: "The violent mob that stormed the U.S. capitol last week was overwhelmingly made up of longtime Trump supporters, including Republican Party officials, GOP political donors, far-right militants, white"
+    publishedDateTime: 2021-01-11T06:08:00Z
+    webUrl: "https://www.washingtonpost.com/politics/records-show-fervent-trump-fans-fueled-us-capitol-takeover/2021/01/10/8c59fad0-53a9-11eb-acc5-92d2819a1ccb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/records-show-fervent-trump-fans-fueled-us-capitol-takeover/2021/01/10/8c59fad0-53a9-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/records-show-fervent-trump-fans-fueled-us-capitol-takeover/2021/01/10/8c59fad0-53a9-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Trump legacy on race shadowed by divisive rhetoric, actions"
+    excerpt: "President Donald Trump repeatedly claimed in the final months of his presidency to have done more for Black Americans than anyone with the “possible exception” of Abraham Lincoln"
+    publishedDateTime: 2021-01-10T18:05:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-legacy-on-race-shadowed-by-divisive-rhetoric-actions/2021/01/10/8bfc0548-5344-11eb-acc5-92d2819a1ccb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-legacy-on-race-shadowed-by-divisive-rhetoric-actions/2021/01/10/8bfc0548-5344-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-legacy-on-race-shadowed-by-divisive-rhetoric-actions/2021/01/10/8bfc0548-5344-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Trump remains defiant amid calls to resign"
+    excerpt: "President Donald Trump enters the last days of his presidency facing a second impeachment and growing calls for his resignation after his supporters launched an assault on the nation’s Capitol in an e"
+    publishedDateTime: 2021-01-11T07:22:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-remains-defiant-amid-calls-to-resign/2021/01/10/d83118a8-53b3-11eb-acc5-92d2819a1ccb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-remains-defiant-amid-calls-to-resign/2021/01/10/d83118a8-53b3-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-remains-defiant-amid-calls-to-resign/2021/01/10/d83118a8-53b3-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "US diplomats make extraordinary protest against Trump after riot"
+    excerpt: "American diplomats have drafted cables condemning Trump’s incitement of the Capitol riot and calling for administration officials to support invoking the 25th Amendment."
+    publishedDateTime: 2021-01-10T20:07:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2021-01-10/us-diplomats-in-extraordinary-protest-against-trump-for-riot"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-01-10/us-diplomats-in-extraordinary-protest-against-trump-for-riot?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-01-10/us-diplomats-in-extraordinary-protest-against-trump-for-riot?_amp=true"
     type: article
     provider:
       name: Los Angeles Times
       domain: latimes.com
     quality: 125
     images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/0cae9f4/2147483647/strip/true/crop/6000x3919+0+41/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F13%2Feb%2F7553734d4a519332513aa0718392%2Fbiden-52612.jpg"
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/cae3c97/2147483647/strip/true/crop/6364x4156+0+43/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F4f%2F1c%2F17c25ffb4ae1a7146acf99960566%2Fla-photos-1staff-683969-me-shasta-county-covid-gxc-0015.JPG"
         width: 320
         height: 209
         isCached: true
-  - title: "The Latest: Biden tells governors that he'll work with them"
-    excerpt: "President-elect Joe Biden has told governors from more than 30 states that the federal government needs to “get its act together” amid a surge in coronavirus infections and deaths"
-    publishedDateTime: 2020-12-16T23:32:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/latest-biden-touts-cabinet-diversity-names-buttigieg-74761821"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/latest-biden-touts-cabinet-diversity-names-buttigieg-74761821"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/latest-biden-touts-cabinet-diversity-names-buttigieg-74761821"
+  - title: "Business grows skittish about Trump and GOP after riots"
+    excerpt: "Corporate America is quickly distancing itself from President Donald Trump and his Republican allies, with many of the biggest names in business — Goldman Sachs, Coca Cola, Ford, and Blue Cross Blue Shield — suspending political donations after a Trump-inspired mob ransacked the U."
+    publishedDateTime: 2021-01-11T22:09:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/wall-street-distances-trump-gop-riots-75178316"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/wall-street-distances-trump-gop-riots-75178316"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/wall-street-distances-trump-gop-riots-75178316"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_3443ef10cc74413ab191ad5da5e03899_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_eea37b12d40e40e589e76134df53aa03_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Biden to be vaccinated on Monday"
-    excerpt: "President-elect Joe Biden and future first lady Jill Biden will be vaccinated on Monday, incoming White House press secretary Jen Psaki announced Friday. Mr. Biden has pledged to get his vaccine in front of the media to build public confidence."
-    publishedDateTime: 2020-12-18T18:37:00Z
-    webUrl: "https://www.cbsnews.com/news/joe-biden-to-be-vaccinated-monday/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/joe-biden-to-be-vaccinated-monday/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-biden-to-be-vaccinated-monday/"
+  - title: "Is Donald Trump an aberration or a symptom of a deeper US malady?"
+    excerpt: "The underlying causes of Trump’s rise to power must be addressed, from taming social media to tackling inequality"
+    publishedDateTime: 2021-01-12T10:43:00Z
+    webUrl: "https://www.theguardian.com/business/2021/jan/12/donald-trump-us-joe-biden"
+    ampWebUrl: "https://amp.theguardian.com/business/2021/jan/12/donald-trump-us-joe-biden"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2021/jan/12/donald-trump-us-joe-biden"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/aad2fde33329699780b71b94975470c2abe19154/0_214_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f40500cdb421c69acab0b09185d0b90f"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "READ: Article of impeachment against Trump"
+    excerpt: "House Democrats on Monday released a revised article of impeachment against President Trump Donald Trump Outgoing Capitol Police chief accuses House, Senate security officials of hindering efforts to call in National Guard: WaPo PGA announces plans to move 2022 championship from Trump property Former Democratic senator: Biden Justice Department may investigate Jan."
+    publishedDateTime: 2021-01-11T16:44:00Z
+    webUrl: "https://thehill.com/homenews/house/533627-read-article-of-impeachment-against-trump"
+    ampWebUrl: "https://thehill.com/homenews/house/533627-read-article-of-impeachment-against-trump?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/533627-read-article-of-impeachment-against-trump?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_120720getty_override.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Republicans block measure calling for quick removal of Trump"
+    excerpt: "A House resolution calling on Vice President Mike Pence to invoke constitutional authority to remove President Donald Trump from office has been blocked by Republicans"
+    publishedDateTime: 2021-01-11T16:47:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/pelosi-house-impeach-trump-pushes-vp-oust-75171067"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pelosi-house-impeach-trump-pushes-vp-oust-75171067"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pelosi-house-impeach-trump-pushes-vp-oust-75171067"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_a3f21b028bd3418a922e3fb6b9b24287_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "These are the platforms that have banned Trump and his allies"
+    excerpt: "The platforms have been met with cries of censorship from Trump’s allies and reluctant applause from others who see their efforts as long overdue. Here’s how the platforms cracked down Trump and his allies: Twitter started slapping a label on Trump’s claims he won the 2020 election in November: “This claim about election fraud is disputed."
+    publishedDateTime: 2021-01-12T00:53:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2021/01/11/trump-banned-social-media/"
+    ampWebUrl: "https://www.washingtonpost.com/technology/2021/01/11/trump-banned-social-media/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/01/11/trump-banned-social-media/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OOB36XCREII6XIPV7WXSRT6KSA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Wall Street distances itself from Trump, GOP after riots"
+    excerpt: "A growing number of Wall Street banks and businesses have cut off ties with President Donald Trump’s campaign and financial arms, as well as the broader Republican Party, following last week’s riots a"
+    publishedDateTime: 2021-01-11T16:33:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/wall-street-distances-trump-gop-riots-75178316"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/wall-street-distances-trump-gop-riots-75178316"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/wall-street-distances-trump-gop-riots-75178316"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_eea37b12d40e40e589e76134df53aa03_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Deutsche Bank joins companies cutting ties with Donald Trump"
+    excerpt: "Bank had propped up Trump Organization for years despite being sued by president but acted after Capitol attack"
+    publishedDateTime: 2021-01-12T18:45:00Z
+    webUrl: "https://www.theguardian.com/business/2021/jan/12/deutsche-bank-severs-ties-with-donald-trump"
+    ampWebUrl: "https://amp.theguardian.com/business/2021/jan/12/deutsche-bank-severs-ties-with-donald-trump"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2021/jan/12/deutsche-bank-severs-ties-with-donald-trump"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/0bf4f6d45f2ed0a4dc5103e8bd8495d791467087/0_230_5363_3218/master/5363.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=049b8851e781c94eff163f7a245b1b73"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Donald Trump impeached a second time over mob attack on US Capitol"
+    excerpt: "Ten Republicans support unprecedented second impeachment as Nancy Pelosi says Trump represents ‘clear and present danger’"
+    publishedDateTime: 2021-01-13T15:57:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/13/trump-impeached-again-president-history-capitol-attack"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/13/trump-impeached-again-president-history-capitol-attack"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/13/trump-impeached-again-president-history-capitol-attack"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/a928c2acfc622cb8125691822fa9537f11ce4385/0_0_5473_3649/master/5473.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=dc6d7bbb0a8760580bfd5d59c8959505"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "Liz Cheney, No 3 House Republican, will vote to impeach Trump"
+    excerpt: "Powerful conservative joins growing number of Republicans seeking accountability for president after Capitol attack"
+    publishedDateTime: 2021-01-13T00:53:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/12/trump-impeachment-liz-cheney-republicans-capitol"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/12/trump-impeachment-liz-cheney-republicans-capitol"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/12/trump-impeachment-liz-cheney-republicans-capitol"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/7c5aa6f484f5dbb942ce0028830ac36d9d16ab4c/0_139_4176_2506/master/4176.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=397b857e998a94b49c379ed9463ac441"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "More House Republicans Reveal 'Yes' Votes for Donald Trump Impeachment"
+    excerpt: "Five Republican members of the House have so far said they will vote to impeach President Donald Trump following the riot at the Capitol on January 6. A vote is expected on Wednesday. Congresswoman Jaime Herrera Beutler of Washington's 3rd district and Congressman Fred Upton of Michigan's 4th district both announced that they would vote to impeach late on Tuesday."
+    publishedDateTime: 2021-01-13T09:13:00Z
+    webUrl: "https://www.newsweek.com/more-house-republicans-reveal-yes-votes-donald-trump-impeachment-1561072"
+    ampWebUrl: "https://www.newsweek.com/more-house-republicans-reveal-yes-votes-donald-trump-impeachment-1561072?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/more-house-republicans-reveal-yes-votes-donald-trump-impeachment-1561072?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1705243/president-donald-trump-speaks-reporters.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Trump impeachment: Here's how the process works"
+    excerpt: "Impeachment proceedings for Donald Trump are nearing an end today, with the president facing vote in the Senate on two articles of impeachment that were approved by the House -- abuse of power and obstruction of Congress."
+    publishedDateTime: 2021-01-13T10:05:00Z
+    webUrl: "https://abcnews.go.com/Politics/impeachment-process-works/story?id=51202880"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/impeachment-process-works/story?id=51202880"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/impeachment-process-works/story?id=51202880"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-rt-ps-190917_hpMain_2_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Where Republican senators stand on impeaching Donald Trump"
+    excerpt: "Most Democratic senators are calling for Mr. Trump's immediate removal, including the Senate's two independent members, Angus King of Maine and Bernie Sanders of Vermont. But the bar for the Senate to remove the president is higher than impeachment,"
+    publishedDateTime: 2021-01-13T12:03:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-impeachment-republicans-senators/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-impeachment-republicans-senators/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-impeachment-republicans-senators/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 125
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/16/ea1b9def-eb19-449e-8f70-69d7c84d4e94/thumbnail/1200x630/908c085095406940af467ecbb9046eb5/gettyimages-1291300530.jpg"
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/13/0d0a1258-107d-4d33-a1e0-51a2c24cbc11/thumbnail/1200x630/dad36a3b3990eba7f8fcd831191e5c32/gettyimages-955095568.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Trump explicitly rejected leading the US vaccine drive and is letting Mike Pence and congressional leaders do it instead"
-    excerpt: "Mike and Karen Pence are set to be vaccinated on live TV on Friday. President Donald Trump is conspicuously absent and isn't yet due to get a shot."
-    publishedDateTime: 2020-12-18T19:20:00Z
-    webUrl: "https://www.businessinsider.com/trump-declined-face-us-vaccine-drive-pence-instead-ap-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/trump-declined-face-us-vaccine-drive-pence-instead-ap-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-declined-face-us-vaccine-drive-pence-instead-ap-2020-12?amp"
+  - title: "YouTube suspends Donald Trump's channel"
+    excerpt: "YouTube has become the latest social network to suspend President Trump. The Google-owned service has prevented his account from uploading new videos or live-streaming material for a minimum of seven days,"
+    publishedDateTime: 2021-01-13T08:27:00Z
+    webUrl: "https://www.bbc.com/news/amp/technology-55643774"
+    ampWebUrl: "https://www.bbc.com/news/amp/technology-55643774"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-55643774"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/15EEF/production/_116493898_trumpp2.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Are Republicans really ready to unhitch their wagon from Donald Trump?"
+    excerpt: "Analysis: The attack on the Capitol – and perhaps the Senate losses in Georgia – have prompted some GOP leaders to signal a split even as others back his election lie"
+    publishedDateTime: 2021-01-13T17:20:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/13/republicans-donald-trump-distancing"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/13/republicans-donald-trump-distancing"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/13/republicans-donald-trump-distancing"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/d28f8b02a1054d115e0ac05d26edab5a385ca5de/0_137_5145_3087/master/5145.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cf6e6c648ae5a290ee7660700b84263d"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Here are all of the House Republicans who voted to impeach Donald Trump"
+    excerpt: "The House of Representatives has voted to impeach President Donald Trump-- making him the only president in American history to be impeached twice. Unlike his first impeachment in 2019, 10 Republicans joined Democrats to charge Trump for the \"incitement of insurrection\" for his role in the Jan."
+    publishedDateTime: 2021-01-13T22:45:00Z
+    webUrl: "https://abcnews.go.com/Politics/house-republicans-voted-impeach-donald-trump/story?id=75235094"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/house-republicans-voted-impeach-donald-trump/story?id=75235094"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/house-republicans-voted-impeach-donald-trump/story?id=75235094"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/house-impeachment-dan-newhouse-ht-iwb-210113_1610567556296_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "House impeaches Trump for the second time, focus shifts to Senate trial"
+    excerpt: "Trump is the only president to be impeached twice, this time for inciting the Capitol riot. Now, the debate shifts to the Senate."
+    publishedDateTime: 2021-01-13T23:30:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-01-13/house-begins-final-push-to-make-trump-the-only-president-to-be-impeached-twice"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-01-13/house-begins-final-push-to-make-trump-the-only-president-to-be-impeached-twice?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-01-13/house-begins-final-push-to-make-trump-the-only-president-to-be-impeached-twice?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/232ada4/2147483647/strip/true/crop/5405x3530+0+36/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ffb%2Fde%2Fd15bbb974c6d8bff58658cb08c71%2Fap21007825123867.jpg"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "How a 2nd Trump impeachment could differ from 1st"
+    excerpt: "A possible second presidential impeachment would be unprecedented and come with different punishments if Trump is convicted."
+    publishedDateTime: 2021-01-13T16:26:00Z
+    webUrl: "https://abcnews.go.com/Politics/2nd-trump-impeachment-differ-1st/story?id=75204919"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/2nd-trump-impeachment-differ-1st/story?id=75204919"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/2nd-trump-impeachment-differ-1st/story?id=75204919"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/donald-trump-impeachment-04-gty-llr-210112_1610486846963_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "New Lincoln Project Ad Targets Donald Trump Impeachment"
+    excerpt: "Trump PAC released the video as Congress debates whether to remove the president after the insurrection at the U.S. Capitol."
+    publishedDateTime: 2021-01-13T16:57:00Z
+    webUrl: "https://www.newsweek.com/lincoln-project-donald-trump-impeach-capitol-insurrection-convict-1561242"
+    ampWebUrl: "https://www.newsweek.com/lincoln-project-donald-trump-impeach-capitol-insurrection-convict-1561242?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lincoln-project-donald-trump-impeach-capitol-insurrection-convict-1561242?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1705946/president-donald-trump-leaves-air-force-one.jpg"
+        width: 2686
+        height: 1607
+        isCached: true
+  - title: "The 10 Republicans who voted to impeach Donald Trump"
+    excerpt: "Ten House Republicans joined every Democrat in voting yes, in the most bipartisan impeachment in US history"
+    publishedDateTime: 2021-01-13T18:10:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/13/republicans-donald-trump-impeached-house"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/13/republicans-donald-trump-impeached-house"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/13/republicans-donald-trump-impeached-house"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/3e833b95768343260cef5d8f79340a35c7cd47ef/0_116_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=eb1a9cf30071291588c43d216f6e8b14"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "The Donald Trump Advisers Who Brought On the Capitol Riot"
+    excerpt: "President Trump and his inner circle thought they were winning the post-election political battle. \"Then all hell broke loose,\" said a longtime aide."
+    publishedDateTime: 2021-01-13T20:18:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-advisers-who-brought-capitol-riot-1560799"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-advisers-who-brought-capitol-riot-1560799?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-advisers-who-brought-capitol-riot-1560799?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1706380/donald-trump-2020-capitol-riot.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Man convicted in 3 killings to be last executed under Trump"
+    excerpt: "The last federal inmate facing execution before President Donald Trump leaves office was sentenced to death for the killings of three women in a Maryland wildlife refuge"
+    publishedDateTime: 2021-01-15T14:39:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/man-convicted-killings-executed-trump-75275447"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/man-convicted-killings-executed-trump-75275447"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/man-convicted-killings-executed-trump-75275447"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/WireAP_45df14acc72d4f259cd939ad5bb55f4b_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Michael Cohen writes foreword for Trump impeachment book"
+    excerpt: "A bound edition about President Donald Trump’s second impeachment will feature a foreword from an estranged associate — former Trump attorney Michael Cohen"
+    publishedDateTime: 2021-01-15T06:43:00Z
+    webUrl: "https://www.washingtonpost.com/national/michael-cohen-writes-foreword-for-trump-impeachment-book/2021/01/14/0737332c-56d3-11eb-acc5-92d2819a1ccb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/michael-cohen-writes-foreword-for-trump-impeachment-book/2021/01/14/0737332c-56d3-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/michael-cohen-writes-foreword-for-trump-impeachment-book/2021/01/14/0737332c-56d3-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Senate Democrats signal hope for bipartisan Trump impeachment trial"
+    excerpt: "One day after Trump was impeached a second time, a growing number of Republican senators have signaled that they are open to convicting Trump on the charge of “incitement of insurrection.”"
+    publishedDateTime: 2021-01-15T06:49:00Z
+    webUrl: "https://www.washingtonpost.com/politics/senate-democrats-signal-hope-for-bipartisan-trump-impeachment-trial/2021/01/14/d1ffa54a-5687-11eb-a08b-f1381ef3d207_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/senate-democrats-signal-hope-for-bipartisan-trump-impeachment-trial/2021/01/14/d1ffa54a-5687-11eb-a08b-f1381ef3d207_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/senate-democrats-signal-hope-for-bipartisan-trump-impeachment-trial/2021/01/14/d1ffa54a-5687-11eb-a08b-f1381ef3d207_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ECKJTBCWQAI6XLGFSLJIDGQ4ZM.jpg&w=1440"
+        width: 1440
+        height: 954
+        isCached: true
+  - title: "Trump isolated during final days as Senate trial looms"
+    excerpt: "Key allies on Capitol Hill have bucked him, advisers are avoiding him, and his lawyers have largely refused to defend him as he faces a second impeachment trial."
+    publishedDateTime: 2021-01-15T00:29:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-isolated-final-days-senate-trial-looms/story?id=75250931"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-isolated-final-days-senate-trial-looms/story?id=75250931"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-isolated-final-days-senate-trial-looms/story?id=75250931"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-white-house-01-gty-iwb-210113_1610553950499_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Democrats wrestle with length of Trump trial"
+    excerpt: "Democrats are eager to punish Trump for inciting the attack on the U.S. Capitol, but wary of a Senate trial dragging on too long and slowing Biden’s agenda. They hope to keep the trial short without truncating their case."
+    publishedDateTime: 2021-01-16T00:14:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-senate-trial-length/2021/01/15/6bf5ba5a-5759-11eb-a08b-f1381ef3d207_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-senate-trial-length/2021/01/15/6bf5ba5a-5759-11eb-a08b-f1381ef3d207_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-senate-trial-length/2021/01/15/6bf5ba5a-5759-11eb-a08b-f1381ef3d207_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HVILYYCV5II6XLGFSLJIDGQ4ZM.jpg&w=1440"
+        width: 1440
+        height: 928
+        isCached: true
+  - title: "NY prosecutors interview Michael Cohen about Trump finances"
+    excerpt: "New York prosecutors conducted an hours-long interview Thursday of Michael Cohen, President Donald Trump’s former attorney"
+    publishedDateTime: 2021-01-16T02:50:00Z
+    webUrl: "https://www.washingtonpost.com/business/ny-prosecutors-interview-michael-cohen-about-trump-finances/2021/01/15/a6b6b334-577b-11eb-acc5-92d2819a1ccb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/business/ny-prosecutors-interview-michael-cohen-about-trump-finances/2021/01/15/a6b6b334-577b-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/ny-prosecutors-interview-michael-cohen-about-trump-finances/2021/01/15/a6b6b334-577b-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "The worst defenses of Trump on the Capitol riot"
+    excerpt: "On Jan. 6, misinformation promoted by President Trump and his allies fomented a violent attempted insurrection at the U.S. Capitol in Washington. And since then, similar misinformation has been used to try and explain it all away."
+    publishedDateTime: 2021-01-16T00:37:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/01/15/worst-defenses-trump-capitol-riot/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/15/worst-defenses-trump-capitol-riot/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/15/worst-defenses-trump-capitol-riot/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2VTUAGSXI4I6XIEL6E4B546SA4.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Trump gives award to Morocco’s king in private ceremony"
+    excerpt: "President Donald Trump has awarded a top U.S. honor to King Mohammed VI of Morocco, citing his decision to begin normalization of relations with Israel"
+    publishedDateTime: 2021-01-16T04:50:00Z
+    webUrl: "https://www.washingtonpost.com/world/national-security/trump-gives-award-to-moroccos-king-in-private-ceremony/2021/01/15/64639d2e-578c-11eb-acc5-92d2819a1ccb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/national-security/trump-gives-award-to-moroccos-king-in-private-ceremony/2021/01/15/64639d2e-578c-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/trump-gives-award-to-moroccos-king-in-private-ceremony/2021/01/15/64639d2e-578c-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "US lawyers ask 2nd Circuit to nix Trump from defamation suit"
+    excerpt: "Justice Department lawyers have asked a federal appeals court to replace President Donald Trump with the United States as the defendant in a defamation lawsuit brought by a woman who says he raped her"
+    publishedDateTime: 2021-01-16T01:22:00Z
+    webUrl: "https://abcnews.go.com/Entertainment/wireStory/us-lawyers-2nd-circuit-nix-trump-defamation-suit-75287892"
+    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/us-lawyers-2nd-circuit-nix-trump-defamation-suit-75287892"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/us-lawyers-2nd-circuit-nix-trump-defamation-suit-75287892"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Entertainment/WireAP_28fbff6b5f3a45b7adacea6a60a011a4_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Historians having to tape together records that Trump tore up"
+    excerpt: "Implications for public record and legal proceedings after administration seized or destroyed papers, notes and other information"
+    publishedDateTime: 2021-01-17T02:25:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/17/historians-having-to-tape-together-records-that-trump-tore-up"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/17/historians-having-to-tape-together-records-that-trump-tore-up"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/17/historians-having-to-tape-together-records-that-trump-tore-up"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/23c58d7e05d591a0a85ecbb2d7b8f13ac4e0c2a4/59_421_4979_2987/master/4979.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=90e8ccdad002ba5aa839cef117226028"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "How Twitter, on the frontlines of history, finally decided to ban Trump"
+    excerpt: "Twitter CEO Jack Dorsey agreed to ban Donald Trump from Twitter after tearful all-hands meetings, bitter dialogues, and employee pushback, knowing that this would be the biggest decision his company had ever faced."
+    publishedDateTime: 2021-01-17T04:51:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2021/01/16/how-twitter-banned-trump/"
+    ampWebUrl: "https://www.washingtonpost.com/technology/2021/01/16/how-twitter-banned-trump/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/01/16/how-twitter-banned-trump/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/73AIAMSWDUI6XLGFSLJIDGQ4ZM.jpg&w=1440"
+        width: 1440
+        height: 944
+        isCached: true
+  - title: "Small group of pro-Trump supporters gathered outside Texas Capitol"
+    excerpt: "About a dozen Trump supporters gathered outside the Texas Capitol on Saturday, a day after DPS closed the building over safety concerns."
+    publishedDateTime: 2021-01-16T22:13:00Z
+    webUrl: "https://www.usatoday.com/story/news/2021/01/16/austin-capitol-protest-updates/4182787001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4182787001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4182787001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/16/NAAS/2e0741cf-1938-476c-bca5-185ac6dc6bd3-Saturday_protest_1.jpg?auto=webp&crop=1850,1041,x0,y501&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Durbin says he won't whip votes for Trump's second impeachment trial"
+    excerpt: "Senate Democratic Whip, Dick Durbin (Ill.) said Sunday that he is not going to whip votes in his caucus in favor convicting President Trump in his upcoming impeachment trial."
+    publishedDateTime: 2021-01-17T16:10:00Z
+    webUrl: "https://thehill.com/homenews/sunday-talk-shows/534621-durbin-says-he-wont-whip-votes-for-trumps-second-impeachment"
+    ampWebUrl: "https://thehill.com/homenews/sunday-talk-shows/534621-durbin-says-he-wont-whip-votes-for-trumps-second-impeachment?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/sunday-talk-shows/534621-durbin-says-he-wont-whip-votes-for-trumps-second-impeachment?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/durbinrichard_101420gn_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Officials brace for second Trump impeachment trial"
+    excerpt: "Democratic senators on Sunday outlined how the chamber plans to address President Trump’s second impeachment trial, while Republican House members criticized the president in the wake of the deadly Capitol riot."
+    publishedDateTime: 2021-01-17T18:52:00Z
+    webUrl: "https://thehill.com/homenews/sunday-talk-shows/534634-officials-brace-for-second-trump-impeachment-trial"
+    ampWebUrl: "https://thehill.com/homenews/sunday-talk-shows/534634-officials-brace-for-second-trump-impeachment-trial?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/sunday-talk-shows/534634-officials-brace-for-second-trump-impeachment-trial?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/durbinrichard_121420gn3_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "The Latest: Pro-Trump demonstrations begin at statehouses"
+    excerpt: "Some counter-protesters have begun showing up outside statehouses to send a message against the far-right groups that have threatened to disrupt the inauguration of President-elect Joe Biden"
+    publishedDateTime: 2021-01-17T18:51:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/latest-pro-trump-demonstrations-begin-statehouses-75310459"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/latest-pro-trump-demonstrations-begin-statehouses-75310459"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/latest-pro-trump-demonstrations-begin-statehouses-75310459"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_977ffcbf147945218d09c490b0a8f7fb_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Aubrey Huff Thinks Donald Trump Will Be President Again in 4 Months"
+    excerpt: "The former MLB player has long been a vocal Trump supporter and has repeatedly pushed baseless claims the election, and Joe Biden's victory, was rigged."
+    publishedDateTime: 2021-01-19T12:48:00Z
+    webUrl: "https://www.newsweek.com/aubrey-huff-thinks-donald-trump-president-again-4-months-1562559"
+    ampWebUrl: "https://www.newsweek.com/aubrey-huff-thinks-donald-trump-president-again-4-months-1562559?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/aubrey-huff-thinks-donald-trump-president-again-4-months-1562559?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1681102/aubrey-huff.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Trump decree on Covid visitors rebuffed as he enters final day"
+    excerpt: "US President-elect Joe Biden has moved to dismiss a new White House decree on Covid travel rules, as Donald Trump enters his final full day in office. In one of his last orders, Mr Trump had tried to end travel bans for visitors from much of Europe and Brazil."
+    publishedDateTime: 2021-01-19T10:05:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-55713570"
+    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55713570"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55713570"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/12211/production/_116575247_mediaitem116575246.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Trump Reveals Who He Wants Statues to Honor in National Garden"
+    excerpt: "What do Kobe Bryant, Bob Hope and Thomas Jefferson have in common? They are among the more than 200 names President Donald Trump has recommended to be honored in a yet-to-be created National Garden of American Heroes."
+    publishedDateTime: 2021-01-18T20:44:00Z
+    webUrl: "https://www.newsweek.com/trump-reveals-who-he-wants-statues-honor-national-garden-1562450"
+    ampWebUrl: "https://www.newsweek.com/trump-reveals-who-he-wants-statues-honor-national-garden-1562450?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-reveals-who-he-wants-statues-honor-national-garden-1562450?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1710472/donald-trump.jpg"
+        width: 2500
+        height: 1597
+        isCached: true
+  - title: "US historians on what Donald Trump's legacy will be"
+    excerpt: "What's Trump's key legacy? Donald Trump will be remembered as the first president to be impeached twice. He fed the myth that the election was stolen, summoned his supporters to Washington to protest the certification of the Electoral College vote,"
+    publishedDateTime: 2021-01-19T12:47:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-55640427"
+    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55640427"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55640427"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/5B79/production/_116571432_trump-rushmore-cps.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Capitol rioters hold out long-shot hope for a Trump pardon"
+    excerpt: "In what could be the longest of legal long shots, several of those arrested for storming the U.S. Capitol are holding out hope that President Donald Trump will use some of his last hours in office to"
+    publishedDateTime: 2021-01-20T06:52:00Z
+    webUrl: "https://www.washingtonpost.com/politics/courts_law/capitol-rioters-hold-out-long-shot-hope-for-a-trump-pardon/2021/01/19/22b9a1be-5ac2-11eb-a849-6f9423a75ffd_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/capitol-rioters-hold-out-long-shot-hope-for-a-trump-pardon/2021/01/19/22b9a1be-5ac2-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/capitol-rioters-hold-out-long-shot-hope-for-a-trump-pardon/2021/01/19/22b9a1be-5ac2-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Donald Trump's farewell: We did what we came to do"
+    excerpt: "US President Donald Trump has made his farewell address before leaving office, saying: \"We did what we came to do - and so much more.\" In a video posted on YouTube, he said he took on \"the tough battles,"
+    publishedDateTime: 2021-01-19T22:22:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-55727022"
+    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55727022"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55727022"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/F95E/production/_116583836_trumptexas.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Iran imposes symbolic sanctions on President Trump"
+    excerpt: "Iran says it has imposed sanctions on President Donald Trump and a number of members of his administration over their alleged role in support of terrorism"
+    publishedDateTime: 2021-01-19T16:59:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/iran-imposes-symbolic-sanctions-president-trump-75344657"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/iran-imposes-symbolic-sanctions-president-trump-75344657"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/iran-imposes-symbolic-sanctions-president-trump-75344657"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/International/WireAP_be3fc3e4d922437896a2a577782f9f0d_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Sales of US Constitution topped 1 million during Trump years"
+    excerpt: "Along with dystopian novels and White House tell-alls, the U.S. Constitution has been a best-seller during Donald Trump's presidency"
+    publishedDateTime: 2021-01-19T20:34:00Z
+    webUrl: "https://abcnews.go.com/Entertainment/wireStory/sales-us-constitution-topped-million-trump-years-75350829"
+    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/sales-us-constitution-topped-million-trump-years-75350829"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/sales-us-constitution-topped-million-trump-years-75350829"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Entertainment/WireAP_337d2cb3e83e405dbe9cd3d123dd9e96_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Screen Actors Guild may discipline, expel Donald Trump"
+    excerpt: "After leaving the White House, President Donald Trump may lose his SAG card, too. The Screen Actors Guild said Tuesday that the SAG-AFTRA board voted “overwhelmingly” that there is probable cause that Trump violated its guidelines for membership."
+    publishedDateTime: 2021-01-19T21:44:00Z
+    webUrl: "https://abcnews.go.com/Entertainment/wireStory/screen-actors-guild-discipline-expel-donald-trump-75352574"
+    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/screen-actors-guild-discipline-expel-donald-trump-75352574"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/screen-actors-guild-discipline-expel-donald-trump-75352574"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Entertainment/WireAP_20a84f4a63814942a22f322a9f6c477f_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump expected to issue flurry of pardons on last full day"
+    excerpt: "President Donald Trump is expected to spend his last full day in office issuing a flurry of pardons and bidding farewell to the American public from a near-deserted White House surrounded by an extrao"
+    publishedDateTime: 2021-01-19T17:45:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-expected-issue-flurry-pardons-full-day-75345495"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-expected-issue-flurry-pardons-full-day-75345495"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-expected-issue-flurry-pardons-full-day-75345495"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_2128dc5b516f45c890e59caed7bf1ddd_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump expected to pardon former strategist Bannon"
+    excerpt: "President Donald Trump is expected to pardon his former chief strategist, Steve Bannon, as part of a flurry of last-minute clemency action that appears to be still in flux in the last hours of his pre"
+    publishedDateTime: 2021-01-20T04:58:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-expected-to-pardon-former-strategist-bannon/2021/01/19/70f6d2c0-5adb-11eb-a849-6f9423a75ffd_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-expected-to-pardon-former-strategist-bannon/2021/01/19/70f6d2c0-5adb-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-expected-to-pardon-former-strategist-bannon/2021/01/19/70f6d2c0-5adb-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Trump pardons Bannon, other allies on final night in office"
+    excerpt: "President Donald Trump late Tuesday issued a final batch of pardons and commutations to a group that included former White House strategist Steve Bannon."
+    publishedDateTime: 2021-01-20T06:10:00Z
+    webUrl: "https://abcnews.go.com/US/trump-pardons-bannon-allies-final-night-office/story?id=75360429"
+    ampWebUrl: "https://abcnews.go.com/amp/US/trump-pardons-bannon-allies-final-night-office/story?id=75360429"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/trump-pardons-bannon-allies-final-night-office/story?id=75360429"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/bannon-gty-er-210119_1611091724636_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "U.S. actors union to decide whether to expel Donald Trump"
+    excerpt: "The American actors union is to hold a meeting to consider expelling U.S. President Donald Trump from its ranks."
+    publishedDateTime: 2021-01-20T02:02:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump-sag-idUKKBN29O2J8"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN29O2J8"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN29O2J8"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210119&t=2&i=1548357837&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0I1J9"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Parler reportedly removes post from pro-Trump lawyer Lin Wood after calling for Mike Pence's execution"
+    excerpt: "Parler hit further headwinds over the weekend after it reportedly removed a threatening post by pro-Trump lawyer Lin Wood."
+    publishedDateTime: 2021-01-11T07:17:00Z
+    webUrl: "https://www.usatoday.com/story/tech/2021/01/10/linwood-parler-social-network-removal-apple-google-amazon/6616756002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6616756002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6616756002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 124
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/09/USAT/46c76774-43a8-4fc2-ba04-5b2cbf758c5b-AFP_AFP_8V989G.jpg?auto=webp&crop=3999,2249,x1,y33&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "House is poised to pass a resolution calling on Pence to immediately invoke the 25th Amendment and remove Trump from office"
+    excerpt: "Pence announced on Tuesday that he doesn't support invoking the 25th Amendment and accused Democrats of playing \"political games.\""
+    publishedDateTime: 2021-01-13T03:24:00Z
+    webUrl: "https://www.businessinsider.com/house-passes-resolution-pence-invoke-25th-amendment-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/house-passes-resolution-pence-invoke-25th-amendment-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/house-passes-resolution-pence-invoke-25th-amendment-2021-1?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 125
+    quality: 124
     images:
-      - url: "https://i.insider.com/5fdc74a9d366e60018098d51?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5f76e9290ab50d00184adba4?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Twitter updates disclaimers on Trump election tweets to reflect the fact that Joe Biden is the winner of the presidential election"
-    excerpt: "Twitter will now include disclaimers that reflect Joe Biden is the President-elect on Trump tweets alleging election fraud."
-    publishedDateTime: 2020-12-20T10:30:00Z
-    webUrl: "https://www.businessinsider.com/twitter-updates-labels-trump-tweets-to-declare-joe-biden-winner-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/twitter-updates-labels-trump-tweets-to-declare-joe-biden-winner-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/twitter-updates-labels-trump-tweets-to-declare-joe-biden-winner-2020-12?amp"
+  - title: "Dustin Higgs becomes 13th and final federal prisoner executed under Trump"
+    excerpt: "Higgs, 48, had been sentenced to death over the killings of three women in Maryland"
+    publishedDateTime: 2021-01-16T05:36:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/15/dustin-higgs-federal-execution-trump"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/15/dustin-higgs-federal-execution-trump"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/15/dustin-higgs-federal-execution-trump"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
+      name: The Guardian
+      domain: theguardian.com
+    quality: 124
     images:
-      - url: "https://i.insider.com/5fdf197dc910a400192e8929?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://i.guim.co.uk/img/media/28d4f022ffdec2869fadccc989f853f3ed58c31b/0_116_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a8d45662da15656a3487f3214818728d"
+        width: 600
+        height: 360
         isCached: true
-  - title: "Time’s Person of the Year is Joe Biden and Kamala Harris, a ticket that ‘represents something historic’"
-    excerpt: "Joe Biden is the latest in a long line of presidents to be named Time's Person of the Year -- but Kamala Harris is the first vice-president to also receive the title."
-    publishedDateTime: 2020-12-11T04:58:00Z
-    webUrl: "https://www.washingtonpost.com/nation/2020/12/10/time-person-year-biden-harris/"
-    ampWebUrl: "https://www.washingtonpost.com/nation/2020/12/10/time-person-year-biden-harris/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/12/10/time-person-year-biden-harris/?outputType=amp"
+  - title: "Trump leaves behind a Republican Party both broken and still in his grip"
+    excerpt: "Will Republicans purge the worst of what he has brought to their coalition or will Trump maintain his influence even after he is out of office?"
+    publishedDateTime: 2021-01-16T20:15:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-leaves-behind-a-republican-party-both-broken-and-still-in-his-grip/2021/01/16/f7496dfe-5781-11eb-a08b-f1381ef3d207_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-leaves-behind-a-republican-party-both-broken-and-still-in-his-grip/2021/01/16/f7496dfe-5781-11eb-a08b-f1381ef3d207_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-leaves-behind-a-republican-party-both-broken-and-still-in-his-grip/2021/01/16/f7496dfe-5781-11eb-a08b-f1381ef3d207_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
     quality: 124
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5CVPI3RBOMI6XLKTJQP5USMQPU.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PFB4WBSQU4I6XIPV7WXSRT6KSA.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
-  - title: "Trump says he will leave the White House if the electoral college votes for Joe Biden"
-    excerpt: "President Trump said on Nov. 26, that he would leave the White House if the electoral college votes for Joe Biden on Dec. 14."
-    publishedDateTime: 2020-12-14T15:38:00Z
-    webUrl: "https://www.washingtonpost.com/video/politics/trump-says-he-will-leave-the-white-house-if-the-electoral-college-votes-for-joe-biden/2020/12/14/cacd2b05-6bb5-44f4-9d29-172a6e6e5499_video.html"
+  - title: "In 2nd Trump impeachment trial, will Chief Justice John Roberts preside?"
+    excerpt: "Who will preside over the second Donald Trump remains a key open question as lawmakers prepare to begin the unprecedented proceeding as soon as Inauguration Day. The U.S. Constitution says that the Chief Justice of the Supreme Court \"shall preside\" over trials of the President of the United States,"
+    publishedDateTime: 2021-01-18T20:37:00Z
+    webUrl: "https://abcnews.go.com/Politics/2nd-trump-impeachment-trial-chief-justice-john-roberts/story?id=75324610"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/2nd-trump-impeachment-trial-chief-justice-john-roberts/story?id=75324610"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/2nd-trump-impeachment-trial-chief-justice-john-roberts/story?id=75324610"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 123
+      name: ABC
+      domain: abcnews.go.com
+    quality: 124
     images:
-      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/12-14-2020/t_6d1ba2c9cf6949e9ba5aa7a922fa3e1d_name_Trump_photo.png&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
-        width: 1484
-        height: 907
+      - url: "https://s.abcnews.com/images/Politics/roberts-1-gty-er-210118_1610996121875_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Healthcare.gov open enrollment ends today. Obamacare seems to have survived Trump, may thrive under Biden."
-    excerpt: "A crush of sign-ups expected Tuesday on the last day of open enrollment for HealthCare.gov could help solidify the standing of Obamacare as an improbable survivor in the Donald Trump years."
-    publishedDateTime: 2020-12-15T15:52:00Z
-    webUrl: "https://www.chicagotribune.com/business/ct-biz-obamacare-aca-open-enollment-deadline-20201215-z53a34caprhjze22v6gjj2ke3y-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/business/ct-biz-obamacare-aca-open-enollment-deadline-20201215-z53a34caprhjze22v6gjj2ke3y-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/business/ct-biz-obamacare-aca-open-enollment-deadline-20201215-z53a34caprhjze22v6gjj2ke3y-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 122
-    images:
-      - url: "https://www.chicagotribune.com/resizer/LUUj9hnzclSijcewkJivT6uENwQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/5AG6IPQSWLBK3XMPHLEBP2HE5M.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Senate OKs Trump pick for FCC, adding hurdle to Biden plans"
-    excerpt: "The Senate has narrowly approved President Donald Trump’s lame-duck nominee to become a member of the Federal Communications Commission, setting up the agency for a stretch of partisan gridlock likely to stymie President-elect Joe Biden’s policies."
-    publishedDateTime: 2020-12-09T02:29:00Z
-    webUrl: "https://www.businessinsider.com/senate-oks-trump-pick-for-fcc-adding-hurdle-to-biden-plans-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/senate-oks-trump-pick-for-fcc-adding-hurdle-to-biden-plans-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/senate-oks-trump-pick-for-fcc-adding-hurdle-to-biden-plans-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 120
-  - title: "Trump Team Proposes A Rule That Could Stall Biden's Health Care Agenda"
-    excerpt: "The rule would require Biden's team to review about 2,400 regulations on everything from Medicare benefits to prescription drug approvals. Those not analyzed within two years would become void."
-    publishedDateTime: 2020-12-09T10:00:00Z
-    webUrl: "https://www.npr.org/sections/health-shots/2020/12/09/944274246/trump-team-proposes-a-rule-that-could-stall-bidens-health-care-agenda"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 120
-    images:
-      - url: "https://media.npr.org/assets/img/2020/12/08/gettyimages-1229699554_wide-daab14bc4ec6d2ae1361a4b6db243e22b0316c10.jpg?s=1400"
-        width: 1400
-        height: 787
-        isCached: true
-  - title: "Despite Trump's venting and threats, Biden's win is sealed"
-    excerpt: "There’s plenty of noise but no cause for confusion as President Donald Trump vents about how the election turned out and vows to subvert it even still."
-    publishedDateTime: 2020-12-10T02:58:00Z
-    webUrl: "https://www.businessinsider.com/despite-trumps-venting-and-threats-bidens-win-is-sealed-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/despite-trumps-venting-and-threats-bidens-win-is-sealed-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/despite-trumps-venting-and-threats-bidens-win-is-sealed-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 120
-  - title: "Trump virus coordinator Birx seeks role in Biden government"
-    excerpt: "When Dr. Deborah Birx was brought into President Donald Trump’s orbit to help fight the coronavirus pandemic, she as a former U.S. Army physician, a globally recognized AIDS researcher and a rare Obama administration holdover."
-    publishedDateTime: 2020-12-10T13:51:00Z
-    webUrl: "https://www.businessinsider.com/trump-virus-coordinator-birx-seeks-role-in-biden-government-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/trump-virus-coordinator-birx-seeks-role-in-biden-government-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-virus-coordinator-birx-seeks-role-in-biden-government-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 120
-  - title: "Joe Biden, Kamala Harris Named Time Magazine’s ‘Person of the Year’"
-    excerpt: "Washington (AP) -- Time magazine has named President-elect Joe Biden and Vice President-elect Kamala Harris its “Person of the Year.”"
-    publishedDateTime: 2020-12-11T15:30:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-12-11/biden-harris-named-time-magazine-s-person-of-the-year"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 120
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/io33.CAsO3A4/v1/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Joe Biden, Kamala Harris Named 'Time' Person Of The Year"
-    excerpt: "The two made the cut after topping Time's shortlist that included President Trump, the movement for racial justice, Dr. Anthony Fauci and medical workers on the frontline of COVID-19."
-    publishedDateTime: 2020-12-11T11:22:00Z
-    webUrl: "https://www.npr.org/2020/12/11/945335705/joe-biden-kamala-harris-named-time-person-of-the-year"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 120
-    images:
-      - url: "https://media.npr.org/assets/img/2020/12/11/ap_20313064617669_wide-5f65fc195ce9ef17757a67a76e383a39b532cfb8.jpg?s=1400"
-        width: 1400
-        height: 787
-        isCached: true
-  - title: "President-elect Biden and Vice President-elect Harris named Time's 2020 Person of the Year"
-    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris were collectively chosen as Time Magazine's Person of the Year for 2020."
-    publishedDateTime: 2020-12-11T14:42:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/12/11/joe-biden-and-kamala-harris-named-times-person-year-2020/3893626001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 120
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/11/USAT/fd9bbdc5-ff98-464f-8bd0-c8dc14851bf4-VPC_2020_TIME_PEOPLE_OF_THE_YEAR_DESK_THUMB.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Electoral College to affirm Biden's victory as Trump remains defiant"
-    excerpt: "President-elect Joe Biden will be one step closer to the White House as members of the Electoral College meet today to affirm his victory. However, President Trump continues to refuse to accept the election results."
-    publishedDateTime: 2020-12-14T14:54:00Z
-    webUrl: "https://www.cbsnews.com/video/electoral-college-to-affirm-bidens-victory-trump-legal-fight/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 120
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/14/8ced5e6f-ca33-40c4-82b0-4bceaa4ea7b3/thumbnail/1200x630/d47bea47058534e93ae4536bee06abce/cbsn-fusion-members-of-electoral-college-to-affirm-bidens-victory-as-trump-forges-ahead-with-legal-efforts-thumbnail-608942-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Electoral College confirms Biden's win over Trump"
-    excerpt: "World Electoral College confirms Biden's win over Trump. Posted . Democrat Joe Biden on Monday won the state-by-state Electoral College vote that formally determines the U.S. pres"
-    publishedDateTime: 2020-12-15T01:22:00Z
-    webUrl: "https://www.reuters.com/video/watch/electoral-college-confirms-bidens-win-ov-id723067968?chan=8gwsyvzx"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 120
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20201215&i=OVD8ZIRU3&r=OVD8ZIRU3&t=2"
-        width: 960
-        height: 540
-        isCached: true
-  - title: "Electoral College makes it official: Biden won, Trump lost"
-    excerpt: "The Electoral College decisively confirmed Joe Biden on Monday as the nation’s next president, ratifying his November victory in an authoritative state-by-state repudiation of President Donald Trump’s refusal to concede he had lost."
-    publishedDateTime: 2020-12-15T11:54:00Z
-    webUrl: "https://www.businessinsider.com/electoral-college-makes-it-official-biden-won-trump-lost-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/electoral-college-makes-it-official-biden-won-trump-lost-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/electoral-college-makes-it-official-biden-won-trump-lost-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 120
-  - title: "Trump ally congratulates Biden, White House talks 'ongoing litigation'"
-    excerpt: "But when speaking to reporters later on, White House press secretary Kayleigh McEnany referred to \"ongoing litigation\" over the election. The electoral college formally confirmed Joe Biden's victory over Donald Trump on Monday."
-    publishedDateTime: 2020-12-16T06:07:00Z
-    webUrl: "https://www.bbc.com/news/av/election-us-2020-55326989"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 120
-    images:
-      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p01tlf61.jpg"
-        width: 400
-        height: 225
-        isCached: true
-  - title: "Mike Pence to receive the COVID-19 vaccine publicly Friday; Joe Biden will get vaccinated as soon as next week"
-    excerpt: "President-elect Joe Biden and Vice President Mike Pence are set to receive the COVID-19 vaccine soon. According to two transition officials familiar with the matter, Biden will receive the vaccine publicly as early as next week."
-    publishedDateTime: 2020-12-17T01:58:00Z
-    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-coronavirus-vaccine-updates-20201216-c6tg5amn4falrjgbtn3qz6ecbu-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-coronavirus-vaccine-updates-20201216-c6tg5amn4falrjgbtn3qz6ecbu-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-coronavirus-vaccine-updates-20201216-c6tg5amn4falrjgbtn3qz6ecbu-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 120
-    images:
-      - url: "https://www.chicagotribune.com/resizer/hYN6EUFAOTPNMejHaG53Z3Ee8s4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/HCKIMEA6QG5AJ3X3SLM52NSIDE.aspx"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Biden and lawmakers raise alarms over cyber-breach amid Trump silence"
-    excerpt: "The president’s muted response to an organized hacking attack on the U.S. government marks the latest example of his persistent reluctance to criticize Russia."
-    publishedDateTime: 2020-12-18T00:47:00Z
-    webUrl: "https://www.washingtonpost.com/politics/russia-hacking-politics/2020/12/17/1c5708c6-40a4-11eb-8db8-395dedaaa036_story.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 120
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https%3A%2F%2Farc-anglerfish-washpost-prod-washpost%252Es3%252Eamazonaws%252Ecom%2Fpublic%2F6KBHERR7YMI6XNMLCYR7MJTZMA%252Ejpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Biden says he will 'not stand idly by' on the massive US cyberattack that Trump hasn't bothered to address yet"
-    excerpt: "Biden's strong statement stood in sharp contrast to Trump's silence on the SolarWinds hack that compromised hundreds of US entities."
-    publishedDateTime: 2020-12-17T22:33:00Z
-    webUrl: "https://www.businessinsider.com/biden-statement-solarwinds-cyberattack-trump-russia-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/biden-statement-solarwinds-cyberattack-trump-russia-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-statement-solarwinds-cyberattack-trump-russia-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 120
-    images:
-      - url: "https://i.insider.com/5fd286912dc42e0018f0e471?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Photographs From the Inauguration Of Joe Biden and Kamala Harris"
-    excerpt: "Jan. 20 began on a much more somber note than Joe Biden could have predicted for the day he would finally become President of"
-    publishedDateTime: 2021-01-20T22:02:00Z
-    webUrl: "https://time.com/5930876/joe-biden-inauguration-photos/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 120
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2021/01/biden-inauguration-photos-swear-in-2.jpg"
-        width: 2400
-        height: 1665
-        isCached: true
-  - title: "The Latest: Mike Pence arrives at Joe Biden’s inaugural"
-    excerpt: "The Latest on Joe Biden's presidential inauguration (all times local): 11:10 a.m. Vice President Mike Pence has arrived at the inauguration of President-Elect"
-    publishedDateTime: 2021-01-20T16:19:00Z
-    webUrl: "https://apnews.com/article/joe-biden-inauguration-news-0a49b6d8b3c9904d88d5bccfd854ab25/gallery/f9fc4dd896e3409d897ab46a5ce8de60"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 120
-    images:
-      - url: "https://storage.googleapis.com/afs-prod/media/5778b713a90b4512b9d50e26eb6f6d5b/3000.jpeg"
-        width: 3000
-        height: 2000
-        isCached: true
-  - title: "Biden, Harris get virtual tour of Arizona vaccination site"
-    excerpt: "President Joe Biden and Vice President Kamala Harris got a virtual tour Monday of a federally funded, mass vaccination site in Arizona, but they did not address the"
-    publishedDateTime: 2021-02-08T22:50:00Z
-    webUrl: "https://apnews.com/article/joe-biden-arizona-health-coronavirus-pandemic-doug-ducey-2f3a8457e1d7941ebec31acf5b96cfee/gallery/7cd793a8bcdf402eac2091ecc15d94b9"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 120
-    images:
-      - url: "https://storage.googleapis.com/afs-prod/media/7cd793a8bcdf402eac2091ecc15d94b9/3000.jpeg"
-        width: 3000
-        height: 1957
-        isCached: true
-  - title: "Biden's son faces investigation over taxes as Trump joins Texas lawsuit that aims to overturn election"
-    excerpt: "President-elect Joe Biden's son Hunter Biden is facing a federal investigation into his tax records. Meanwhile, President Trump is focusing on overturning the election, joining a lawsuit brought to the Supreme Court by Texas' attorney general that seeks to invalidate ballots from four battleground states won by the president-elect."
-    publishedDateTime: 2020-12-11T02:19:00Z
-    webUrl: "https://www.cbsnews.com/video/bidens-son-faces-investigation-over-taxes-as-trump-joins-texas-lawsuit-that-aims-to-overturn-election/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 119
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/10/83201186-b73a-4c3f-b8f4-06fcd8a17a7a/thumbnail/1200x630/fd02cc31f7b19bfec0078067f01862d6/cbsn-fusion-bidens-son-faces-investigation-over-taxes-as-trump-joins-texas-lawsuit-that-aims-to-overturn-election-thumbnail-605835-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Why Time chose Joe Biden and Kamala Harris as its 2020 Person of the Year"
-    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris have been named Time magazine's 2020 Person of the Year. The magazine also honored frontline health workers, the organizers of the racial justice movement,"
-    publishedDateTime: 2020-12-11T21:22:00Z
-    webUrl: "https://www.cbsnews.com/video/time-2020-person-of-the-year-joe-biden-kamala-harris/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 119
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/11/3f13c3fb-2b3c-4aac-9135-ecdd011688a9/thumbnail/1200x630/56cf491e9a2940cbcde9caa141d20be0/cbsn-fusion-time-2020-person-of-the-year-joe-biden-kamala-harris-thumbnail-606617-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "President-elect Joe Biden blames President Donald Trump for cyber attack"
-    excerpt: "President-elect Biden told reporters that the cyber attack on private and federal offices was a failure of the Trump Administration."
-    publishedDateTime: 2020-12-22T21:05:00Z
-    webUrl: "https://www.usatoday.com/videos/news/politics/2020/12/22/president-elect-biden-blames-trump-administration-cyber-attack/4015075001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 119
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/22/USAT/29e2e28a-436b-4836-b037-75a63080d5a2-VPC_BIDEN_DESK.00_00_23_21.Still003.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "California delivers Electoral College victory for Joe Biden, Kamala Harris"
-    excerpt: "President Trump’s unfounded claims of election fraud were ignored Monday as California delivered Joe Biden the Electoral College votes that put him over the 270 he needed to clinch the presidency."
-    publishedDateTime: 2020-12-15T09:42:00Z
-    webUrl: "https://www.houstonchronicle.com/politics/article/California-delivers-Electoral-College-victory-for-15801622.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 118
-    images:
-      - url: "https://s.hdnux.com/photos/01/15/61/01/20385910/11/rawImage.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
-  - title: "Pence to attend Biden-Harris inauguration"
-    excerpt: "The vice president will be there during the transfer of power, but President Trump has already said he'll skip the swearing-in."
-    publishedDateTime: 2021-01-10T02:17:00Z
-    webUrl: "https://www.firstcoastnews.com/article/news/nation-world/pence-to-attend-biden-inauguration/507-49dad317-8603-4881-89f1-dd14c1297144"
-    ampWebUrl: "https://www.firstcoastnews.com/amp/article/news/nation-world/pence-to-attend-biden-inauguration/507-49dad317-8603-4881-89f1-dd14c1297144"
-    cdnAmpWebUrl: "https://www-firstcoastnews-com.cdn.ampproject.org/c/s/www.firstcoastnews.com/amp/article/news/nation-world/pence-to-attend-biden-inauguration/507-49dad317-8603-4881-89f1-dd14c1297144"
-    type: article
-    provider:
-      name: First Coast News
-      domain: firstcoastnews.com
-    quality: 115
-    images:
-      - url: "https://media.firstcoastnews.com/assets/CCT/images/b74ed99c-3e1c-4f21-b977-1390bc9ec1a9/b74ed99c-3e1c-4f21-b977-1390bc9ec1a9_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "Trump is already considering axing his new attorney general if he won't agree to a special counsel probe into Hunter Biden"
-    excerpt: "Trump is reportedly determined to launch a special counsel probe into Hunter Biden's tax affairs, with only weeks before Joe Biden takes office."
-    publishedDateTime: 2020-12-16T12:21:00Z
-    webUrl: "https://www.businessinsider.com/trump-discussing-firing-barrs-successor-as-attorney-general-report-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/trump-discussing-firing-barrs-successor-as-attorney-general-report-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-discussing-firing-barrs-successor-as-attorney-general-report-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 114
-    images:
-      - url: "https://i.insider.com/5fd9e0ce1803a80018adfb4b?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Biden chief of staff Ron Klain faults Trump administration for mixed messages on hack"
-    excerpt: "Ron Klain, the incoming White House chief of staff, says the government needs to present a united front in responding to the recent cyberattack."
-    publishedDateTime: 2020-12-20T16:40:00Z
-    webUrl: "https://www.cbsnews.com/video/biden-chief-of-staff-ron-klain-faults-trump-administration-for-mixed-messages-on-hack/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 113
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/20/3eef76fc-969f-4c20-b0b6-fd327d047abe/thumbnail/1200x630/39c167e4f0d33c94267106126c6da848/1220-ftn-klain-613088-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Fact check: CNN did not report that Trump would likely get a second term in office weeks after declaring Biden President-elect"
-    excerpt: "Days before the Electoral College voted for president and vice president of the United States, social media users had been sharing posts claiming CNN reported that outgoing President Donald Trump “will likely get his second term."
-    publishedDateTime: 2020-12-16T15:46:00Z
-    webUrl: "https://www.reuters.com/article/uk-fact-check-cnn-did-not-report-trump-w-idUSKBN28Q23S"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28Q23S"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28Q23S"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 112
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201216&t=2&i=1544768094&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBF14U"
-        width: 818
-        height: 545
-        isCached: true
-  - title: "Fauci says vaccinate Biden, Harris, Trump, Pence"
-    excerpt: "Dr. Anthony S. Fauci said it was his “strong recommendation” that President-elect Joseph R. Biden Jr. and Vice President-elect Kamala Harris receive a COVID-19 vaccine quickly."
-    publishedDateTime: 2020-12-15T23:12:00Z
-    webUrl: "https://www.bostonglobe.com/2020/12/15/nation/fauci-says-vaccinate-biden-harris-trump-pence/"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 110
-    images:
-      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/j-OFaLhPe5lpOz2HmzITsXkCgsA=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/4YJNFXV4KZFE5MPQ6632P6WCG4.jpg"
-        width: 506
-        height: 285
-        isCached: true
-  - title: "Federal judge rejects Trump campaign lawsuit seeking to overturn Joe Biden’s win in Wisconsin"
-    excerpt: "Federal judge rejects Trump campaign lawsuit seeking to overturn Joe Biden’s win in Wisconsin."
-    publishedDateTime: 2020-12-13T12:01:00Z
-    webUrl: "https://apnews.com/article/joe-biden-north-america-national-courts-national-governments-lawsuits-33d2da562964c11cfc96c27b7c25af19"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 109
-    images:
-      - url: "https://apnews.com/images/ShareLogo2.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Arizona Trump fans posed as electors to submit a document trying to seize the state's 11 votes for him instead of Biden, report says"
-    excerpt: "The group styled themselves as 'electors' in Arizona and filed a document to grant President Trump the state's 11 votes, even though he lost there."
-    publishedDateTime: 2020-12-15T14:25:00Z
-    webUrl: "https://www.businessinsider.com/arizona-pro-trump-group-fake-election-certificate-overturn-biden-win-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/arizona-pro-trump-group-fake-election-certificate-overturn-biden-win-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/arizona-pro-trump-group-fake-election-certificate-overturn-biden-win-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 109
-    images:
-      - url: "https://i.insider.com/5fd8b8232069f400194c7c8e?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Coronavirus live news: GPs in England to start vaccinations; Trump says he is not scheduled to take vaccine"
-    excerpt: "Trump, Pence and other officials to be offered vaccine starting Monday; Although Trump has had Covid, his getting vaccinated is meant to inspire confidence in vaccine’s safety"
-    publishedDateTime: 2020-12-14T08:50:00Z
-    webUrl: "https://www.theguardian.com/world/live/2020/dec/14/coronavirus-live-news-us-nears-300000-deaths-trump-to-be-offered-vaccine-on-monday?page=with:block-5fd71f8a8f08b0a99da95668"
-    ampWebUrl: "https://amp.theguardian.com/world/live/2020/dec/14/coronavirus-live-news-us-nears-300000-deaths-trump-to-be-offered-vaccine-on-monday"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/14/coronavirus-live-news-us-nears-300000-deaths-trump-to-be-offered-vaccine-on-monday"
+  - title: "Golf’s pitch to distance itself from Donald Trump came five years too late"
+    excerpt: "The golf establishment’s decision to finally turn its back on the US president is hardly a profile in courage after five years of see no evil, hear no evil"
+    publishedDateTime: 2021-01-13T12:29:00Z
+    webUrl: "https://www.theguardian.com/sport/2021/jan/13/donald-trump-golf-pga-championship-stripped"
+    ampWebUrl: "https://amp.theguardian.com/sport/2021/jan/13/donald-trump-golf-pga-championship-stripped"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/sport/2021/jan/13/donald-trump-golf-pga-championship-stripped"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 107
+    quality: 123
     images:
-      - url: "https://i.guim.co.uk/img/media/55238c6b9727cbd5a625e9759a509f2eae1622fa/0_134_4032_2419/master/4032.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=321584780e13a124f2a542f239cd6915"
+      - url: "https://i.guim.co.uk/img/media/edb8e792d778d64d85745bc12c24e7038d4e575d/173_218_3106_1865/master/3106.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c38118f5b9ad1a232629ad5576df98d6"
         width: 600
         height: 360
         isCached: true
-  - title: "Here's how the GSA plans to disinfect the White House between Trump's departure and Biden's arrival"
-    excerpt: "The Trump White House has been a hot spot for coronavirus infections. Joe Biden and his team will want to clean up before moving in."
-    publishedDateTime: 2020-12-09T12:14:00Z
-    webUrl: "https://www.businessinsider.com/biden-white-house-inauguration-trump-coronavirus-disinfection-2020-12"
+  - title: "Trump stands largely silent and alone as he faces down his 2nd impeachment"
+    excerpt: "His place in the history books about to be rewritten, President Donald Trump awaited his second impeachment mostly out of sight."
+    publishedDateTime: 2021-01-13T20:44:00Z
+    webUrl: "https://www.businessinsider.com/facing-2nd-impeachment-trump-stands-largely-silent-alone-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/facing-2nd-impeachment-trump-stands-largely-silent-alone-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facing-2nd-impeachment-trump-stands-largely-silent-alone-2021-1?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 106
+    quality: 123
     images:
-      - url: "https://i.insider.com/5fc827f450e71a001155893f?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5fff59d2fe7e140019f7ec8d?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "The Latest: Biden: Moment calls for waiver for defense pick"
-    excerpt: "WASHINGTON (AP) — The Latest on (all times local):"
-    publishedDateTime: 2020-12-09T21:19:00Z
-    webUrl: "https://www.businessinsider.com/the-latest-biden-moment-calls-for-waiver-for-defense-pick-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/the-latest-biden-moment-calls-for-waiver-for-defense-pick-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/the-latest-biden-moment-calls-for-waiver-for-defense-pick-2020-12?amp"
+  - title: "Trump summoned supporters to \"wild\" protest, and told them to fight. They did"
+    excerpt: "The chaos in the U.S. Capitol on Wednesday unfolded after President Donald Trump spent weeks whipping up his supporters with false allegations of fraud in the Nov. 3 election, culminating in a call to march to the building that represents U."
+    publishedDateTime: 2021-01-07T08:27:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-protests-idINKBN29B2CZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN29B2CZ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN29B2CZ"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "Trump loses Wis. lawsuit in latest legal defeat"
-    excerpt: "President Donald Trump has lost a Wisconsin lawsuit seeking to disqualify more than 221,000 ballots and overturn his loss to Democrat Joe Biden in the battleground state. (Dec. 11)"
-    publishedDateTime: 2020-12-11T19:22:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/12/11/trump-loses-wis-lawsuit-latest-legal-defeat/6510166002/"
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1546897006&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0518I"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Trump calls for end to violence he incited as pressure on White House mounts"
+    excerpt: "Amid calls for impeachment and cabinet resignations, president issues first straightforward condemnation of mob attack"
+    publishedDateTime: 2021-01-08T03:48:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/07/donald-trump-capitol-attack-video-new-administration"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/07/donald-trump-capitol-attack-video-new-administration"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/07/donald-trump-capitol-attack-video-new-administration"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 122
+    images:
+      - url: "https://i.guim.co.uk/img/media/5a3c20ca3cb75255d6c83ade73ae1048c42ad480/0_0_3967_2403/master/3967.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=85e614121f1310d5ee85b674a217c89f"
+        width: 600
+        height: 364
+        isCached: true
+  - title: "Politics updates: Pelosi plans to give Pence 24 hours to remove Trump by 25th Amendment before impeachment"
+    excerpt: "Democrats will likely vote Tuesday on a resolution calling on Pence and the Cabinet to remove Trump via the 25th Amendment, Pelosi said Sunday."
+    publishedDateTime: 2021-01-11T09:28:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/10/politics-updates-donald-trump-impeachment-joe-biden-inauguration/6614719002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6614719002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6614719002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 105
+    quality: 122
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/42d63cf4-bb12-4b19-8e4d-8ed99c6dc512_poster.jpg?quality=10"
-        width: 1920
+      - url: "https://www.gannett-cdn.com/presto/2021/01/07/USAT/40e74003-0f6e-4a46-8b5a-2b042056c82a-PELOSI_DESK_THUMB.00_00_37_04.Still001.jpg?auto=webp&crop=1911,1075,x8,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Many Trump-era photos look like dramatic old paintings. That’s no ‘accident.’"
+    excerpt: "Strife imitates art on the subreddit “Accidental Renaissance,” where followers liken contemporary images to great works of art."
+    publishedDateTime: 2021-01-17T04:22:00Z
+    webUrl: "https://www.washingtonpost.com/entertainment/accidental-renaissance-reddit-images/2021/01/13/c4aa48f8-53c8-11eb-a931-5b162d0d033d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/entertainment/accidental-renaissance-reddit-images/2021/01/13/c4aa48f8-53c8-11eb-a931-5b162d0d033d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/entertainment/accidental-renaissance-reddit-images/2021/01/13/c4aa48f8-53c8-11eb-a931-5b162d0d033d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 122
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/M5LOV4SYKEI6XLGFSLJIDGQ4ZM.jpg&w=1440"
+        width: 1440
+        height: 760
+        isCached: true
+  - title: "McConnell says best for country to hold Senate trial after Trump leaves office"
+    excerpt: "After the House impeachment vote, Senate Majority Leader Mitch McConnell said it would be best for the country if a Senate trial were held after Trump leaves office."
+    publishedDateTime: 2021-01-14T00:16:00Z
+    webUrl: "https://abcnews.go.com/Politics/mcconnell-best-country-hold-senate-trial-trump-leaves/story?id=75235663"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/mcconnell-best-country-hold-senate-trial-trump-leaves/story?id=75235663"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/mcconnell-best-country-hold-senate-trial-trump-leaves/story?id=75235663"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 121
+    images:
+      - url: "https://s.abcnews.com/images/Politics/mitch-mcconnell-gty-jef-210113_1610577152971_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Shopify unplugs Trump campaign e-commerce site, citing store's violence policies"
+    excerpt: "Deadly protests at the U.S. Capitol Building prompted the Canadian company to remove Trump-related merchandise."
+    publishedDateTime: 2021-01-07T19:20:00Z
+    webUrl: "https://www.cbsnews.com/news/shopify-trump-store-campaign-ecommerce-violence-prohibitions/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/shopify-trump-store-campaign-ecommerce-violence-prohibitions/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/shopify-trump-store-campaign-ecommerce-violence-prohibitions/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2016/07/21/9565ed41-ad8b-4305-82e4-2dc18bd70b03/thumbnail/1200x630/727128305a2cc87335cd1b9e196731a3/rtsiy0c.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Coming clean: I made an error in my otherwise 'admirable' column on Donald Trump"
+    excerpt: "In my column Wednesday I wondered how President Donald Trump could possibly rate as America’s most admired man in a recent Gallup Poll when he exhibited only"
+    publishedDateTime: 2021-01-08T22:39:00Z
+    webUrl: "https://www.chicagotribune.com/columns/eric-zorn/ct-20210108-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/columns/eric-zorn/ct-20210108-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/columns/eric-zorn/ct-20210108-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 120
+    images:
+      - url: "https://www.chicagotribune.com/resizer/HYRVWgDsEC13dEU2M7TIyM6oyJI=/1200x0/top/www.trbimg.com/img-56f02a81/turbine/chi-default-open-graph-ct-logo/1200/1200x650"
+        width: 1200
+        height: 650
+        isCached: true
+  - title: "Trump, Pence have 'good conversation' in White House meeting"
+    excerpt: "U.S. President Donald Trump and Vice President Mike Pence met at the White House on Monday evening and had a \"good conversation,\" a senior administration official said, amid reports of a strained relationship between the two after Trump supporters attacked the Capitol"
+    publishedDateTime: 2021-01-12T05:00:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-pence-meeting/trump-pence-have-good-conversation-in-white-house-meeting-idUSKBN29G2UT?edition-redirect=ca"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210112&t=2&i=1547461760&r=LYNXMPEH0A1M0&w=800"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Bette Midler Says Donald Trump Will 'Burn Down' The White House Before He Leaves"
+    excerpt: "\"How many more will die in the service of this mediocrity? And watch, he'll burn the WH down before he goes,\" Midler tweeted Tuesday."
+    publishedDateTime: 2021-01-12T17:33:00Z
+    webUrl: "https://www.newsweek.com/bette-midler-donald-trump-burn-down-white-house-twitter-1560892"
+    ampWebUrl: "https://www.newsweek.com/bette-midler-donald-trump-burn-down-white-house-twitter-1560892?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/bette-midler-donald-trump-burn-down-white-house-twitter-1560892?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 120
+    images:
+      - url: "https://d.newsweek.com/en/full/1673938/bette-midler.jpg"
+        width: 3000
+        height: 2023
+        isCached: true
+  - title: "Pence says he opposes removing Trump with the 25th Amendment"
+    excerpt: "Vice President Mike Pence told House of Representatives Speaker Nancy Pelosi on Tuesday that he is opposed to invoking the 25th Amendment to remove President Donald Trump from office after Trump's supporters laid siege to the U."
+    publishedDateTime: 2021-01-13T07:17:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-pence-letter/pence-says-he-opposes-removing-trump-with-the-25th-amendment-idUSKBN29I03C"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210113&t=2&i=1547608000&r=LYNXMPEH0C02P&w=800"
+        width: 800
+        height: 557
+        isCached: true
+  - title: "The symbols of hate and far-right extremism on display in pro-Trump Capitol siege"
+    excerpt: "Trump mob stormed the U.S. Capitol, symbols of white supremacy and extremist right wing militias were displayed by some rioters on flags, banners and clothing."
+    publishedDateTime: 2021-01-14T15:01:00Z
+    webUrl: "https://abcnews.go.com/US/symbols-hate-extremism-display-pro-trump-capitol-siege/story?id=75177671"
+    ampWebUrl: "https://abcnews.go.com/amp/US/symbols-hate-extremism-display-pro-trump-capitol-siege/story?id=75177671"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/symbols-hate-extremism-display-pro-trump-capitol-siege/story?id=75177671"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 120
+    images:
+      - url: "https://s.abcnews.com/images/Politics/donald-trump-mob-01-gty-llr-210112_1610481114245_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Members of Trump campaign behind rally that ignited US Capitol riot, records show"
+    excerpt: "Members of President Donald Trump’s failed presidential campaign played key roles in orchestrating the Washington rally that spawned a deadly assault on the U.S. Capitol."
+    publishedDateTime: 2021-01-17T19:44:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-us-capitol-riots-trump-supporters-20210117-piy4dkmga5bxnfaqpvyqqkf7hm-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-us-capitol-riots-trump-supporters-20210117-piy4dkmga5bxnfaqpvyqqkf7hm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-us-capitol-riots-trump-supporters-20210117-piy4dkmga5bxnfaqpvyqqkf7hm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 120
+    images:
+      - url: "https://www.chicagotribune.com/resizer/t7VpUy5QxEECbcVgOLtJwrLwgqc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/IT6YI775GRH4NHVWSC4CLPP6KQ.aspx"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "The Trump presidency was marked by battles over truth itself. Those aren’t over."
+    excerpt: "Scholars say susceptibility to false beliefs and conspiracy theories preceded Trump and will extend well beyond him."
+    publishedDateTime: 2021-01-18T18:13:00Z
+    webUrl: "https://www.washingtonpost.com/politics/the-trump-presidency-was-marked-by-battles-over-truth-itself-those-arent-over/2021/01/18/3bee0050-5750-11eb-a931-5b162d0d033d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/the-trump-presidency-was-marked-by-battles-over-truth-itself-those-arent-over/2021/01/18/3bee0050-5750-11eb-a931-5b162d0d033d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-trump-presidency-was-marked-by-battles-over-truth-itself-those-arent-over/2021/01/18/3bee0050-5750-11eb-a931-5b162d0d033d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/R6IE53SVAYI6XKAX4XT7RJAG2Y.jpg&w=1440"
+        width: 1440
+        height: 914
+        isCached: true
+  - title: "Trump U-turns to condemn Capitol violence as calls for removal grow – live updates"
+    excerpt: "Cabinet resignations as low-key video address accepts there will be a ‘orderly’ transition"
+    publishedDateTime: 2021-01-08T09:50:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/08/donald-trump-capitol-impeachment-joe-biden-election-coronavirus-covid-live-updates"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/08/donald-trump-capitol-impeachment-joe-biden-election-coronavirus-covid-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/08/donald-trump-capitol-impeachment-joe-biden-election-coronavirus-covid-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 119
+    images:
+      - url: "https://i.guim.co.uk/img/media/340c13c38f319c3454f1b5e41e255336715bf0bd/1388_0_2112_1268/master/2112.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c3e2693067a08a6669316fee9b778076"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Trump is being pelted in the stocks now – but don’t bet against him wriggling free"
+    excerpt: "The chances of seeing the outgoing president in an orange jumpsuit are low – even as the potential charges mount up fast"
+    publishedDateTime: 2021-01-10T05:30:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/10/trump-is-being-pelted-in-the-stocks-now-but-dont-bet-against-him-wriggling-free"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/10/trump-is-being-pelted-in-the-stocks-now-but-dont-bet-against-him-wriggling-free"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/10/trump-is-being-pelted-in-the-stocks-now-but-dont-bet-against-him-wriggling-free"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 119
+    images:
+      - url: "https://i.guim.co.uk/img/media/8a876a0c2e91274ce4ced1a8c38d097eb124f7d0/226_141_1940_1164/master/1940.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=88990025e6260b6652c99c65cf2e775c"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Trump ransacked the GOP to build his own power, elevating the danger of this moment"
+    excerpt: "Ted Cruz (R-Tex.) who built their political identities on rejecting the party establishment were still more bound to that establishment than Trump was. Trump could simply come out and say whatever nonsense he wanted without recrimination."
+    publishedDateTime: 2021-01-12T00:33:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/01/11/trump-ransacked-gop-build-his-own-power-elevating-danger-this-moment/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/11/trump-ransacked-gop-build-his-own-power-elevating-danger-this-moment/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/11/trump-ransacked-gop-build-his-own-power-elevating-danger-this-moment/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 119
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EORC4SEQU4I6TFLKRDBJDK24HA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Voting begins in US House on impeaching President Donald Trump over riot at Capitol"
+    excerpt: "Voting begins in US House on impeaching President Donald Trump over riot at Capitol. Copyright 2021 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed without permission."
+    publishedDateTime: 2021-01-14T01:55:00Z
+    webUrl: "https://www.washingtonpost.com/politics/voting-begins-in-us-house-on-impeaching-president-donald-trump-over-riot-at-capitol/2021/01/13/a20c7d50-55e1-11eb-acc5-92d2819a1ccb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/voting-begins-in-us-house-on-impeaching-president-donald-trump-over-riot-at-capitol/2021/01/13/a20c7d50-55e1-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/voting-begins-in-us-house-on-impeaching-president-donald-trump-over-riot-at-capitol/2021/01/13/a20c7d50-55e1-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 119
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Can Trump be tried for impeachment after leaving office? Would he keep his pension?"
+    excerpt: "This is raising questions about whether he can even be tried for impeachment, since he'll already have moved out of the White House — and whether he'd still enjoy the benefits accorded to former presidents if the Senate convicts him."
+    publishedDateTime: 2021-01-15T12:33:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-impeachment-leaving-office/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-impeachment-leaving-office/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-impeachment-leaving-office/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 119
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/12/9f041b88-1a5f-4dd5-9213-d06622116b6c/thumbnail/1200x630/6219b8c8009a7033546036bc1223f898/gettyimages-1230087931.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump, Pence have 'good conversation' after breach in wake of Capitol riot"
+    excerpt: "President Donald Trump and Vice President Mike Pence had a \"good conversation\" at the White House on Monday evening, a senior administration official said, marking the end of a silent period in their relationship after the riot at the Capitol last week."
+    publishedDateTime: 2021-01-12T13:12:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-pence-meeting/trump-pence-have-good-conversation-after-breach-in-wake-of-capitol-riot-idUSKBN29G2UT"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 118
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210112&t=2&i=1547461760&r=LYNXMPEH0A1M0&w=800"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Trump, Pence have 'good conversation' after breach in wake of Capitol riot"
+    excerpt: "President Donald Trump and Vice President Mike Pence had a \"good conversation\" at the White House on Monday evening, a senior administration official said, marking the end of a silent period in their relationship after the riot at the Capitol last week."
+    publishedDateTime: 2021-01-12T23:07:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-pence-meeting/trump-pence-have-good-conversation-after-breach-in-wake-of-capitol-riot-idUSKBN29G2UT?edition-redirect=ca"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 118
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210112&t=2&i=1547461760&r=LYNXMPEH0A1M0&w=800"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Donald Trump becomes the first US president to be impeached for a second time – live"
+    excerpt: "Ten House Republicans join Democrats to impeach president on charge of incitement of insurrection after violent riot at US Capitol – follow all the latest"
+    publishedDateTime: 2021-01-14T00:05:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/13/donald-trump-impeachment-nancy-pelosi-joe-biden-mike-pence-congress-covid-coronavirus-live-updates"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/13/donald-trump-impeachment-nancy-pelosi-joe-biden-mike-pence-congress-covid-coronavirus-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/13/donald-trump-impeachment-nancy-pelosi-joe-biden-mike-pence-congress-covid-coronavirus-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 118
+    images:
+      - url: "https://i.guim.co.uk/img/media/4192e7fffa7263b4b8614f7ab9bfba294bac7182/0_74_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6ea47a3966825d290d4f5b830fa273c8"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Trump prepares to offer clemency to more than 100 people in his final hours in office"
+    excerpt: "The president has been consumed with the question of whether to issued preemptive pardons to his children, top aides and himself, but it remains unclear whether he will do so."
+    publishedDateTime: 2021-01-18T10:54:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-pardons-final-days/2021/01/17/7a57969c-5905-11eb-a976-bad6431e03e2_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-pardons-final-days/2021/01/17/7a57969c-5905-11eb-a976-bad6431e03e2_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-pardons-final-days/2021/01/17/7a57969c-5905-11eb-a976-bad6431e03e2_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 118
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZSVFXTCZI4I6XOF55Y3LDTIYX4.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Melania Trump breaks silence on Capitol riot, mourns police and Trump supporters who died"
+    excerpt: "First Lady Melania Trump broke her silence on the violent storming of the U.S. Capitol by a mob of pro-Trump rioters, denouncing violence."
+    publishedDateTime: 2021-01-11T12:00:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/celebrities/2021/01/11/capital-riot-melania-trump-breaks-silence-mourns-police-and-rioters/6619809002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6619809002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6619809002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/23/USAT/d2af2f4d-3bc8-477e-a5ca-d8c20530111f-GTY_1292797972.jpg?auto=webp&crop=2750,1547,x1,y247&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "For those who quit Trump after riot, critics say it’s too little — and four years too late"
+    excerpt: "The violent insurrection at the U.S. Capitol incited by the president set off a dramatic wave of resignations and attempts at distancing among administration officials and longtime advisers."
+    publishedDateTime: 2021-01-15T16:00:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-quit-riot/2021/01/14/a12a3d86-54ed-11eb-a817-e5e7f8a406d6_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-quit-riot/2021/01/14/a12a3d86-54ed-11eb-a817-e5e7f8a406d6_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-quit-riot/2021/01/14/a12a3d86-54ed-11eb-a817-e5e7f8a406d6_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 115
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3Q5DEDBOQAI6XHOWFUAXTGAXDE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Vast majority of Americans hold Trump responsible for Capitol siege, new Insider poll shows"
+    excerpt: "Americans overwhelmingly say that President Donald Trump is responsible on some level for the Capitol siege, according to a new Insider poll. 76% said Trump bears a \"great deal\" o"
+    publishedDateTime: 2021-01-17T13:59:00Z
+    webUrl: "https://www.businessinsider.com/vast-majority-of-americans-hold-trump-responsible-capitol-siege-poll-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/vast-majority-of-americans-hold-trump-responsible-capitol-siege-poll-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/vast-majority-of-americans-hold-trump-responsible-capitol-siege-poll-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 115
+    images:
+      - url: "https://i.insider.com/6000b0e1a81ea100188db505?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "US diplomats condemn Trump for inciting riot and Secretary of State Mike Pompeo for response"
+    excerpt: "Using what is known as the State Department’s “dissent channel,” career foreign and civil service officers said they fear last Wednesday’s siege may badly undermine U.S. credibility."
+    publishedDateTime: 2021-01-10T20:41:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-capitol-riots-diplomats-20210110-k6gnje45rjg3ldtiyacn2k52oe-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-capitol-riots-diplomats-20210110-k6gnje45rjg3ldtiyacn2k52oe-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-capitol-riots-diplomats-20210110-k6gnje45rjg3ldtiyacn2k52oe-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 114
+    images:
+      - url: "https://www.chicagotribune.com/resizer/Qx22flN4A6cI_yTdMiMy6-gQPXQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/3A3NBHAYBRFHHILXZHOWWEKMRI.aspx"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Donald Trump becomes the first US president to be impeached for a second time – as it happened"
+    excerpt: "Ten House Republicans join Democrats to impeach president on charge of incitement of insurrection after violent riot at US Capitol – follow all the latest"
+    publishedDateTime: 2021-01-14T01:05:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/13/donald-trump-impeachment-nancy-pelosi-joe-biden-mike-pence-congress-covid-coronavirus-live-updates?page=with:block-5fffb08a8f08dc561ae91957"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/13/donald-trump-impeachment-nancy-pelosi-joe-biden-mike-pence-congress-covid-coronavirus-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/13/donald-trump-impeachment-nancy-pelosi-joe-biden-mike-pence-congress-covid-coronavirus-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 113
+    images:
+      - url: "https://i.guim.co.uk/img/media/4192e7fffa7263b4b8614f7ab9bfba294bac7182/0_74_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6ea47a3966825d290d4f5b830fa273c8"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Companies backed Trump for years. Now they’re facing a reckoning after the attack on the Capitol."
+    excerpt: "The once-comfortable alliance between Trump and Corporate America has shown unprecedented strain since Wednesday’s attack, forcing a re-examination of everything that businesses had won over the last four years from a White House now thrown into chaos."
+    publishedDateTime: 2021-01-09T18:58:00Z
+    webUrl: "https://www.washingtonpost.com/business/2021/01/08/trump-policies-corporate-america/"
+    ampWebUrl: "https://www.washingtonpost.com/business/2021/01/08/trump-policies-corporate-america/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/01/08/trump-policies-corporate-america/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 112
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GEGWWTBJTQI6RIRH7UVQBFDGXQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "SCOOP: Pence opposes 25th Amendment efforts to remove Trump following Capitol riot, VP advisors tell Insider"
+    excerpt: "Vice President Mike Pence opposes removing President Donald Trump via the 25th Amendment after Wednesday's attack on the Capitol, advisors told Insider."
+    publishedDateTime: 2021-01-07T22:48:00Z
+    webUrl: "https://www.businessinsider.com/pence-opposes-25th-amendment-effort-to-remove-trump-2021-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
+    images:
+      - url: "https://i.insider.com/5ff77e7c6d61c10019cce419?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Some House Republicans join impeachment push; Pence says he will not move to expel Trump"
+    excerpt: "At least three Republicans said on Tuesday they would join Democrats in voting to impeach President Donald Trump over the attack on the U.S. Capitol, as Vice President Mike Pence rejected calls to use a constitutional maneuver to oust him."
+    publishedDateTime: 2021-01-13T06:58:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump/us-house-democrats-race-to-impeach-trump-over-deadly-capitol-siege-idUSKBN29H0JJ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 111
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210112&t=2&i=1547529649&r=LYNXMPEH0B09M&w=800"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Several House Republicans join impeachment push; Pence says he will not move to expel Trump"
+    excerpt: "At least four Republicans said on Tuesday they would join Democrats in voting to impeach President Donald Trump over the attack on the U.S. Capitol, as Vice President Mike Pence rejected calls to use a constitutional maneuver to oust him."
+    publishedDateTime: 2021-01-13T08:02:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump/several-house-republicans-join-impeachment-push-pence-says-he-will-not-move-to-expel-trump-idUKKBN29H2MG"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 110
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210112&t=2&i=1547541869&r=LYNXMPEH0B1HG&w=800"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "The GOP’s looming choice: Whether to make sure former president Trump remains former president Trump"
+    excerpt: "Trump's conviction would seem to remain unlikely. But once he's out of office, removal is off the table, and the chief question is whether to disqualify him from running again. That could give Republicans more incentive to convict."
+    publishedDateTime: 2021-01-17T00:38:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/01/16/gops-looming-choice-whether-make-sure-former-president-trump-remains-former-president-trump/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/16/gops-looming-choice-whether-make-sure-former-president-trump-remains-former-president-trump/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/16/gops-looming-choice-whether-make-sure-former-president-trump-remains-former-president-trump/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 110
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Q3UUWCDTEJBHTM6GSZL5RCS6AU&w=1440"
+        width: 1440
         height: 1080
         isCached: true
-  - title: "Who will replace Kamala D. Harris in the Senate?"
-    excerpt: "The Post’s Scott Wilson explains how California Gov. Gavin Newsom (D) faces pressure to appoint a Latino or Black woman to Vice President-elect Kamala D. Harris’s senate seat."
-    publishedDateTime: 2020-12-11T22:16:00Z
-    webUrl: "https://www.washingtonpost.com/video/politics/who-will-replace-kamala-d-harris-in-the-senate/2020/12/11/4c8bbd38-cb48-4a42-9921-48d05cda087b_video.html"
+  - title: "Vice President Pence opposes using 25th amendment to remove Trump: Business Insider, NY Times"
+    excerpt: "Vice President Mike Pence opposes using the 25th amendment to remove President Donald Trump from power, according to reports from Business Insider and the New York Times."
+    publishedDateTime: 2021-01-08T04:16:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-pence-remove/vice-president-pence-opposes-using-25th-amendment-to-remove-trump-business-insider-ny-times-idUSKBN29C36W"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 109
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210107&t=2&i=1547026918&r=LYNXMPEH061JY&w=800"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Why Trump, Yet Again, Prompts Talk of 25th Amendment"
+    excerpt: "The 25th amendment to the U.S. Constitution provides an avenue for a president to be removed from the helm of government -- temporarily or for good, willingly or not -- when necessary under extraordinary circumstances."
+    publishedDateTime: 2021-01-07T06:24:00Z
+    webUrl: "https://www.washingtonpost.com/business/why-trump-yet-again-prompts-talk-of-25th-amendment/2021/01/06/920f2fd4-50a4-11eb-a1f5-fdaf28cfca90_story.html"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
     quality: 105
     images:
-      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/12-11-2020/t_faa893a6d27949de8be0a214d660c49f_name_8ecf7cc0_3a56_11eb_aad9_8959227280c4_scaled.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
-        height: 834
+        height: 779
         isCached: true
-  - title: "Mitch McConnell congratulates Joe Biden, Kamala Harris for election win"
-    excerpt: "The Electoral College has spoken,” McConnell said during a speech on the Senate floor in which he also praised President Donald Trump's accomplishments. McConnell said he wanted to “congratulate President-elect Joe Biden” and Vice President-elect Kamala Harris."
-    publishedDateTime: 2020-12-15T00:00:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/elections/2020/12/15/mitch-mcconnell-congratulates-joe-biden-kamala-harris-election/3903325001/"
-    ampWebUrl: "https://amp.indystar.com/amp/3903325001"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3903325001"
-    type: article
-    provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/08/28/USAT/64162e8d-b664-4755-b472-a4d5aae214eb-AP_Kentucky_McConnell_1.jpg?auto=webp&crop=5414,3046,x0,y275&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Biden's inauguration to be largely virtual"
-    excerpt: "Posted [NFA] President-elect Joe Biden and Vice President-elect Kamala Harris will be sworn into office on Jan. 20 on the s"
-    publishedDateTime: 2020-12-16T01:25:00Z
-    webUrl: "https://www.reuters.com/video/watch/idPMbn?now=true"
+  - title: "Trump faces calls for removal, possible impeachment after Capitol chaos"
+    excerpt: "President Donald Trump faced the threat on Thursday of a second impeachment, a day after his supporters breached the U.S. Capitol in a stunning assault on American democracy as Congress was certifying President-elect Joe Biden's victory."
+    publishedDateTime: 2021-01-08T10:36:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election/u-s-congress-certifies-biden-win-after-trump-supporters-wreak-havoc-in-the-capitol-idUKKBN29B2PS?edition-redirect=uk"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 105
     images:
-      - url: "https://ajo.prod.reuters.tv/api/v2/img/5fd9568be4b04f7ff7c2da6f-1608078987819?location=LANDSCAPE"
-        width: 1200
-        height: 675
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210108&t=2&i=1547042427&r=LYNXMPEH061KN&w=800"
+        width: 800
+        height: 508
         isCached: true
-  - title: "Mitch McConnell congratulates Joe Biden, Kamala Harris for election win"
-    excerpt: "The Electoral College has spoken,” McConnell said during a speech on the Senate floor in which he also praised President Donald Trump's accomplishments. McConnell said he wanted to “congratulate President-elect Joe Biden” and Vice President-elect Kamala Harris."
-    publishedDateTime: 2020-12-15T19:41:00Z
-    webUrl: "https://www.tennessean.com/story/news/politics/elections/2020/12/15/mitch-mcconnell-congratulates-joe-biden-kamala-harris-election/3903325001/"
-    ampWebUrl: "https://amp.tennessean.com/amp/3903325001"
-    cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/3903325001"
+  - title: "UPDATE 1-Wall Street Journal editorial board calls on Trump to resign"
+    excerpt: "The Wall Street Journal editorial board on Thursday called on U.S. President Donald Trump to resign, blaming him for inciting the storming of the U.S. Capitol building on Wednesday by a mob of his supporters."
+    publishedDateTime: 2021-01-08T00:57:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-wsj/update-1-wall-street-journal-editorial-board-calls-on-trump-to-resign-idUSL1N2JJ018"
     type: article
     provider:
-      name: Tennessean
-      domain: tennessean.com
+      name: Reuters
+      domain: reuters.com
     quality: 105
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/08/28/USAT/64162e8d-b664-4755-b472-a4d5aae214eb-AP_Kentucky_McConnell_1.jpg?auto=webp&crop=5414,3046,x0,y275&format=pjpg&width=1200"
+      - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
-  - title: "The Latest: Biden touts Cabinet diversity, names Buttigieg"
-    excerpt: "WASHINGTON (AP) — The Latest on (all times local):"
-    publishedDateTime: 2020-12-16T23:18:00Z
-    webUrl: "https://www.businessinsider.com/the-latest-biden-touts-cabinet-diversity-names-buttigieg-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/the-latest-biden-touts-cabinet-diversity-names-buttigieg-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/the-latest-biden-touts-cabinet-diversity-names-buttigieg-2020-12?amp"
+  - title: "Factbox: Trump tweets attacked leaders and businesses"
+    excerpt: "Here are some of the most notable of Donald Trump's 26,000 tweets as president, or on average 18 a day as president. Trump often engaged in name calling, misstated facts in tweets and attacked businesses or political rivals."
+    publishedDateTime: 2021-01-09T08:32:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-trump-twitter-factbox-idUSKBN29E022"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210109&t=2&i=1547180157&r=LYNXMPEH0800X&w=800"
+        width: 800
+        height: 484
+        isCached: true
+  - title: "'He's on his own': Some Republicans begin to flee from Trump"
+    excerpt: "President Donald Trump's steadfast grip on Republicans in Washington is beginning to crumble, leaving him more politically isolated than at any other point in his turbulent administration."
+    publishedDateTime: 2021-01-09T10:09:00Z
+    webUrl: "https://www.businessinsider.com/hes-on-his-own-some-republicans-begin-to-flee-from-trump-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/hes-on-his-own-some-republicans-begin-to-flee-from-trump-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/hes-on-his-own-some-republicans-begin-to-flee-from-trump-2021-1?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
-  - title: "Kamala Harris on Joe Biden, Being a 'First' and Restoring the Soul of the Nation: The 2020 TIME Person of the Year Interview"
-    excerpt: "Kamala Harris is the first Vice President-elect to be named TIME’s Person of the Year. TIME senior correspondent Charlotte Alter sat down with the California senator in Wilmington, Del., on Dec. 7—which happened to be Harris’s mother’s birthday."
-    publishedDateTime: 2020-12-12T22:44:00Z
-    webUrl: "https://time.com/5919490/kamala-harris-person-of-the-year-interview/"
+  - title: "'President Donald Trump is likely to pardon himself'"
+    excerpt: "\"The president can only pardon people for their offences against federal law,\" Prof Ackerman said. \"There is every reason to believe however that President Trump will be charged with a large number of criminal offences especially under the law of the state of New York,"
+    publishedDateTime: 2021-01-08T17:11:00Z
+    webUrl: "https://www.bbc.com/news/av/world-us-canada-55593517"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 105
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p093h57j.jpg"
+        width: 400
+        height: 224
+        isCached: true
+  - title: "Trump moves to loosen mining regulations, approve projects as he exits"
+    excerpt: "Outgoing U.S. President Donald Trump's administration is moving to loosen mining regulations and green light new mineral projects before leaving office this month, with successor Joe Biden unable to reverse some of the changes."
+    publishedDateTime: 2021-01-08T16:58:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-mining-resolution-trump-idINKBN29D1AD?edition-redirect=in"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210108&t=2&i=1547118740&r=LYNXMPEH070KP&w=800"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Twitter Permanently Bans President Donald Trump’s Account"
+    excerpt: "Twitter Inc. permanently banned U.S. President Donald Trump’s personal account for breaking its rules against glorifying violence, marking the most high-profile punishment the company has ever imposed and the end of Trump’s relationship with his favorite social media megaphone."
+    publishedDateTime: 2021-01-09T06:30:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-01-08/twitter-permanently-suspends-donald-trump-from-social-network"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2021-01-08/twitter-permanently-suspends-donald-trump-from-social-network"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2021-01-08/twitter-permanently-suspends-donald-trump-from-social-network"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 105
+  - title: "Banished by Twitter, an isolated Trump faces looming impeachment threat"
+    excerpt: "With only days left in his presidency, Donald Trump - silenced by Twitter and shunned by a growing number of Republican officials - faces a renewed drive by Democrats to remove him from office after he incited his supporters to storm the U."
+    publishedDateTime: 2021-01-10T04:15:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump/wrapup-4-banished-by-twitter-an-isolated-trump-faces-looming-impeachment-threat-idUSL1N2JK0CJ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210109&t=2&i=1547193267&r=LYNXMPEH0806H&w=800"
+        width: 800
+        height: 544
+        isCached: true
+  - title: "Republican U.S. Senator Toomey says Trump should resign"
+    excerpt: "U.S. Senator Pat Toomey said on Sunday that President Donald Trump, a fellow Republican, should resign after his supporters stormed the U.S. Capitol in a deadly rampage."
+    publishedDateTime: 2021-01-10T14:30:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-toomey/republican-u-s-senator-toomey-says-trump-should-resign-idUSKBN29F0E6?edition-redirect=ca"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Republican U.S. Senator Toomey says Trump should resign"
+    excerpt: "U.S. Senator Pat Toomey said on Sunday that President Donald Trump, a fellow Republican, should resign after his supporters stormed the U.S. Capitol in a deadly rampage last week."
+    publishedDateTime: 2021-01-10T20:31:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-toomey-idUSKBN29F0E6"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210110&t=2&i=1547281312&r=LYNXMPEH090BS&w=800"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Twitter shares dive 7% after Trump account suspension"
+    excerpt: "Shares of Twitter Inc slumped 7% on Monday, on course to knock off about $2.5 billion from the market value of the social media company after it permanently suspended the account of U.S. President Donald Trump."
+    publishedDateTime: 2021-01-11T14:28:00Z
+    webUrl: "https://www.reuters.com/article/us-twitter-stocks-trump-idCAKBN29G0XG"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210111&t=2&i=1547350358&r=LYNXMPEH0A0IT&w=800"
+        width: 800
+        height: 548
+        isCached: true
+  - title: "US diplomats in extraordinary protest against Trump for riot"
+    excerpt: "In a highly unusual move, American diplomats have drafted two cables condemning President Donald Trump’s incitement of the deadly assault on the Capitol and calling for administration officials to support invoking the 25th Amendment to remove him from office."
+    publishedDateTime: 2021-01-10T20:14:00Z
+    webUrl: "https://www.businessinsider.com/us-diplomats-in-extraordinary-protest-against-trump-for-riot-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/us-diplomats-in-extraordinary-protest-against-trump-for-riot-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-diplomats-in-extraordinary-protest-against-trump-for-riot-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "U.S. House Democrats set plan for removing Trump over Capitol attack"
+    excerpt: "U.S. House of Representatives Democrats plan a vote on Monday to urge Vice President Mike Pence to take steps to remove President Donald Trump from office after his supporters' deadly storming of the Capitol,"
+    publishedDateTime: 2021-01-11T06:50:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump/u-s-house-democrats-to-pursue-impeachment-if-trump-not-removed-idUSKBN29F03R"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210111&t=2&i=1547311030&r=LYNXMPEH0A01M&w=800"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "U.S. House Democrats to pursue impeachment if Trump not removed"
+    excerpt: "U.S. House of Representatives Democrats plan a vote on Monday to urge Vice President Mike Pence to take steps to remove President Donald Trump from office after his supporters' deadly storming of the Capitol,"
+    publishedDateTime: 2021-01-11T02:40:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump/u-s-house-democrats-to-pursue-impeachment-if-trump-not-removed-idUSKBN29F03R?edition-redirect=ca"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210111&t=2&i=1547311030&r=LYNXMPEH0A01M&w=800"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Donald Trump has not invoked the Insurrection Act to hold on to power"
+    excerpt: "A screenshot of a social media post from an account with the handle @TeamTrumpNews has falsely alleged that the U.S. president has invoked a 200-year-old act to deploy the military and remain in power."
+    publishedDateTime: 2021-01-11T20:05:00Z
+    webUrl: "https://www.reuters.com/article/uk-fact-check-trump-has-not-invoked-insu/fact-check-donald-trump-has-not-invoked-the-insurrection-act-to-hold-on-to-power-idUSKBN29G2H7"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210111&t=2&i=1547401830&r=LYNXMPEH0A1E4&w=800"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "UPDATE 1-White House discusses Trump address on Big Tech ban"
+    excerpt: "The White House is discussing the idea of having President Donald Trump make remarks on camera on Monday about Big Tech platforms that took steps in recent days to limit his social media reach, according to a source familiar with the matter."
+    publishedDateTime: 2021-01-11T16:24:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-social-media/update-1-white-house-discusses-trump-address-on-big-tech-ban-idUSL1N2JM1IN"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Democrats poised to impeach defiant Trump over storming of U.S. Capitol"
+    excerpt: "A fiery debate opened in the U.S. House of Representatives on Tuesday over a Democratic-led effort to remove President Donald Trump from office for inciting supporters who stormed the Capitol last week,"
+    publishedDateTime: 2021-01-13T00:15:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump/democrats-press-ahead-with-drive-to-impeach-trump-after-capitol-siege-idUSKBN29H0JJ?edition-redirect=ca"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210112&t=2&i=1547529649&r=LYNXMPEH0B09M&w=800"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Three U.S. House Republicans declare support for impeaching Trump"
+    excerpt: "President Donald Trump's iron grip on his party showed further signs of weakening on Tuesday as at least three Republicans, including a member of the House leadership, said they would vote to impeach him after his supporters stormed the Capitol."
+    publishedDateTime: 2021-01-13T06:41:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump/some-house-republicans-join-impeachment-push-pence-says-he-will-not-move-to-expel-trump-idUSKBN29H0JJ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210112&t=2&i=1547529649&r=LYNXMPEH0B09M&w=800"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "U.S. Chamber CEO says Trump undermined U.S. democratic institutions"
+    excerpt: "U.S. Chamber of Commerce CEO Thomas Donohue issued a stinging rebuke to President Donald Trump on Tuesday, calling Trump's actions last week in connection with rioting at the U.S. Capitol \"absolutely unacceptable and completely inexcusable."
+    publishedDateTime: 2021-01-13T00:39:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-chamber/us-chamber-ceo-says-trump-undermined-us-democratic-institutions-idUSKBN29H2PM"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210112&t=2&i=1547540499&r=LYNXMPEH0B1FF&w=800"
+        width: 728
+        height: 485
+        isCached: true
+  - title: "Even more Trump family members are reportedly moving to Florida"
+    excerpt: "Ivanka Trump and Jared Kushner bought property in Miami. Now Donald Trump Jr. and Kimberly Guilfoyle are eyeing area real estate, as is Tiffany Trump."
+    publishedDateTime: 2021-01-13T22:46:00Z
+    webUrl: "https://www.businessinsider.com/donald-trump-jr-kimberly-guilfoyle-tiffany-trump-move-florida-2021-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+    images:
+      - url: "https://i.insider.com/5fff77abfe7e140019f7ed6a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Siege was 'in the name of the Donald Trump': Rep. Cicilline"
+    excerpt: "Rep. Cicilline. Posted . Democratic Congressman David Cicilline railed against President Donald Trump on Wednesday ahead of T"
+    publishedDateTime: 2021-01-13T20:41:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVDV1MRBZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210113&i=OVDV1MRBZ&r=OVDV1MRBZ&t=2"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "The second impeachment of President Donald Trump"
+    excerpt: "The House of Representatives is expected to vote to impeach President Donald Trump after Vice President Mike Pence declined to use the 25th amendment to remove him from office after protestors breached the U."
+    publishedDateTime: 2021-01-14T06:49:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-viz-second-impeachment-donald-trump-photos-20210113-3lvw3pc44zc2zjxu3i6bhxflie-photogallery.html"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 105
+    images:
+      - url: "https://www.chicagotribune.com/resizer/LwfwQj53mAsQ-0Dp_I5o1rBM3a4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/R6B7WRUN2GCNHWDYLCHBZ3R5UI.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump bears responsibility for Capitol attack: House Republican leader"
+    excerpt: "President Donald Trump bears responsibility for the attack on the U.S. Capitol last week, House Republican leader Kevin McCarthy said on Wednesday after arguing against the president's impeachment."
+    publishedDateTime: 2021-01-13T18:57:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-mccarthy/trump-bears-responsibility-for-capitol-attack-house-republican-leader-idUSKBN29I2PY"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210113&t=2&i=1547674538&r=LYNXMPEH0C1L0&w=800"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Trump bolsters ban on U.S. investments in China"
+    excerpt: "President Donald Trump has signed an order strengthening a November ban on U.S. investments in alleged Chinese military companies, the White House said on Wednesday, curbing Chinese access to U.S. capital markets days before he leaves office."
+    publishedDateTime: 2021-01-14T08:57:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-china-investments/trump-signs-amended-china-investment-ban-requiring-complete-divestment-by-nov-2021-idUSL1N2JP01R?via=webuproar"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547714231&r=LYNXMPEH0D03G&w=800"
+        width: 800
+        height: 503
+        isCached: true
+  - title: "U.S. lawmaker comments on impeachment of President Donald Trump"
+    excerpt: "Following are comments on the U.S. House of Representatives vote on Wednesday on the impeachment of President Donald Trump."
+    publishedDateTime: 2021-01-13T21:48:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-quotes/us-lawmaker-comments-on-impeachment-of-president-donald-trump-idUSKBN29I20Q"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210113&t=2&i=1547688231&r=LYNXMPEH0C15H&w=800"
+        width: 800
+        height: 540
+        isCached: true
+  - title: "What a Final-Days Impeachment Would Mean for Trump"
+    excerpt: "Donald Trump’s four-year term as president ends on Jan. 20 at noon. That’s not soon enough for some in Congress, who have initiated an unprecedented second effort to impeach him, one year after the U."
+    publishedDateTime: 2021-01-13T18:52:00Z
+    webUrl: "https://www.washingtonpost.com/business/what-a-final-days-impeachment-would-mean-for-trump/2021/01/13/071dfccc-55a7-11eb-acc5-92d2819a1ccb_story.html?amp;amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AZFJUESVU4I6XLGFSLJIDGQ4ZM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Eyes on Pelosi as Trump impeachment trial timing up in the air"
+    excerpt: "The timing of President Donald Trump's impeachment trial could come into clearer focus on Friday when House Speaker Nancy Pelosi is expected to take questions about her next steps at a morning news conference at the U."
+    publishedDateTime: 2021-01-15T12:21:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump/eyes-on-pelosi-as-trump-impeachment-trial-timing-up-in-the-air-idUSKBN29K0NV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547913417&r=LYNXMPEH0E0CB&w=800"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "How Trump's new COVID plan will impact states..."
+    excerpt: "Watch \"How Trump's new COVID-19 plan will impact states\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-01-14T18:44:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210114181815-how-trumps-new-covid-19-plan-will-impact-states/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/01/14/story_08551790_1610649244.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Impeachment manager Dean: Trump incited violence"
+    excerpt: "President Donald Trump's impeachment trial could begin as soon as 1 p.m. on Inauguration Day. One of the Democratic impeachment managers, Rep. Madeleine Dean, said she wants senators to \"look at their conscience\" and \"vote the correct way."
+    publishedDateTime: 2021-01-14T18:30:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/01/14/impeachment-manager-dean-trump-incited-violence/4161172001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/1b4d917b-966a-4d12-9f9a-e1ff8c57d339_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Second Trump impeachment trial takes U.S. into uncharted waters"
+    excerpt: "America will be in uncharted territory when the U.S. Senate meets as soon as next week for the second impeachment trial of Donald Trump, a case against the outgoing president that one Democrat preparing for arguments called \"shockingly evident."
+    publishedDateTime: 2021-01-15T02:14:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump/wrapup-3-u-s-in-uncharted-waters-in-unprecedented-second-impeachment-of-trump-idUSL1N2JP075"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547771325&r=LYNXMPEH0D0PK&w=800"
+        width: 800
+        height: 526
+        isCached: true
+  - title: "Trump administration takes final swipes at China and its companies"
+    excerpt: "The Trump administration in its waning days took another swipe at China and its biggest firms on Thursday, imposing sanctions on officials and companies for alleged misdeeds in the South China Sea and imposing an investment ban on nine more firms."
+    publishedDateTime: 2021-01-15T08:47:00Z
+    webUrl: "https://www.reuters.com/article/usa-china/update-8-trump-administration-takes-final-swipes-at-china-and-its-companies-idUSL1N2JP1Z0"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547808818&r=LYNXMPEH0D121&w=800"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Trump extends protection measures for U.S. washer makers"
+    excerpt: "President Donald Trump on Thursday issued a proclamation to extend measures meant to safeguard U.S. producers of large residential washers from import competition."
+    publishedDateTime: 2021-01-15T02:01:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trade-washers/trump-extends-protection-measures-for-u-s-washer-makers-idUSKBN29J2SD?edition-redirect=ca"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547836161&r=LYNXMPEH0D1KA&w=800"
+        width: 800
+        height: 564
+        isCached: true
+  - title: "U.S. in uncharted waters in unprecedented second impeachment of Trump"
+    excerpt: "America will be in uncharted territory when the U.S. Senate meets as soon as next week for the impeachment trial of Donald Trump, the first U.S. president both to be impeached a second time and to face trial by lawmakers after leaving office."
+    publishedDateTime: 2021-01-14T22:47:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump/us-in-uncharted-waters-in-unprecedented-second-impeachment-of-trump-idUSKBN29J1B6"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547771325&r=LYNXMPEH0D0PK&w=800"
+        width: 800
+        height: 526
+        isCached: true
+  - title: "Wis. congressman unsure Trump to blame for riot"
+    excerpt: "Wisconsin’s newest member of Congress says he doesn't know if President Donald Trump was to blame for inciting the riot at the U.S. Capitol and wants a full investigation to find out what motivated the mob."
+    publishedDateTime: 2021-01-14T20:40:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/01/14/wis-congressman-unsure-trump-blame-riot/4164374001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/fbec4f30-a9cc-4b07-901d-0e8aa0333043_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Eyes on Pelosi as Trump impeachment trial timing up in the air"
+    excerpt: "The timing of President Donald Trump's impeachment trial could come into clearer focus on Friday when House Speaker Nancy Pelosi is expected to take questions about her next steps at a morning news conference at the U."
+    publishedDateTime: 2021-01-15T16:17:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-idUSKBN29K0NV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547913417&r=LYNXMPEH0E0CB&w=800"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "HHS's Azar tells Trump Capitol attack could tarnish legacy"
+    excerpt: "U.S. Health and Human Services Secretary Alex Azar told President Donald Trump in a letter this week that the attack on the Capitol could tarnish the legacy of the administration."
+    publishedDateTime: 2021-01-16T12:48:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-azar/hhss-azar-tells-trump-capitol-attack-could-tarnish-legacy-idUSKBN29L02H"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210116&t=2&i=1548005470&r=LYNXMPEH0F01K&w=800"
+        width: 799
+        height: 533
+        isCached: true
+  - title: "Some Republicans argue Trump's pre-riot comments are protected speech"
+    excerpt: "President Trump could face legal troubles for his comments prior to the attack at the U.S. Capitol that led to five deaths. Some Republicans are defending him, citing a Supreme Court case that involved a KKK leader."
+    publishedDateTime: 2021-01-15T20:48:00Z
+    webUrl: "https://www.cbsnews.com/video/some-republicans-argue-trumps-pre-riot-comments-are-protected-speech/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/15/1b2679af-eb68-409a-8351-a95836fed488/thumbnail/1200x630/f77abb6d409129769ab2c4869541ce38/cbsn-fusion-some-republicans-argue-president-trumps-pre-riot-comments-are-protected-speech-thumbnail-627311-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "U.S. capitals on edge ahead of possible pro-Trump armed protests"
+    excerpt: "Ten days after rioters breached the U.S. Capitol in a deadly attack that stunned the world, cities nationwide were girding for a potential new wave of violent protests over the weekend, erecting barriers and deploying thousands of National Guard troops."
+    publishedDateTime: 2021-01-17T05:35:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-protests/u-s-state-capitals-washington-on-alert-for-possible-pro-trump-armed-protests-idUSKBN29L0CS"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210116&t=2&i=1548030531&r=LYNXMPEH0F09U&w=800"
+        width: 800
+        height: 519
+        isCached: true
+  - title: "U.S. capitals on edge for armed protests as Trump presidency nears end"
+    excerpt: "Washington, D.C., was locked down and U.S. law enforcement officials geared up for pro-Trump marches in all 50 state capitals this weekend, erecting barriers and deploying thousands of National Guard troops to try to prevent the kind of violent attack that rattled the"
+    publishedDateTime: 2021-01-17T00:08:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-protests/u-s-capitals-on-edge-for-armed-protests-as-trump-presidency-nears-end-idINKBN29L0CD"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210116&t=2&i=1548028653&r=LYNXMPEH0F090&w=800"
+        width: 800
+        height: 519
+        isCached: true
+  - title: "Records: Trump allies behind rally that ignited Capitol riot"
+    excerpt: "Members of President Donald Trump’s failed presidential campaign played key roles in orchestrating the Washington rally that spawned a on the U.S. Capitol, according to an Associated Press review of records,"
+    publishedDateTime: 2021-01-18T11:10:00Z
+    webUrl: "https://www.businessinsider.com/records-trump-allies-behind-rally-that-ignited-capitol-riot-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/records-trump-allies-behind-rally-that-ignited-capitol-riot-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/records-trump-allies-behind-rally-that-ignited-capitol-riot-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Trump leaves a destructive presidential legacy"
+    excerpt: "President Donald Trump stands with no equal in U.S. history. Facing an impeachment trial on a charge of insurrection, Trump's legacy now includes being the only president to be charged twice with a high crime or misdemeanor."
+    publishedDateTime: 2021-01-18T06:21:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/01/18/trump-leaves-destructive-presidential-legacy/4201595001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/43953541-5975-4b24-a4fa-f7f99aed6da4_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "ShowBiz Minute: Wonder, Brooks, Trump"
+    excerpt: "In open letter to Dr. King, Stevie Wonder calls for equality; Garth Brooks to perform at Biden inauguration; Trump baby protest blimp enters Museum of London collection. (Jan. 19)"
+    publishedDateTime: 2021-01-19T12:30:00Z
+    webUrl: "https://www.usatoday.com/videos/entertainment/2021/01/19/showbiz-minute-wonder-brooks-trump/4209473001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/13/USAT/11a570c1-2622-4199-915d-809d35d375ba-20201013_248_STEVIE_FINAL.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Trump baby protest blimp enters Museum of London collection"
+    excerpt: "The Trump Baby Blimp will live on long after its namesake has left the White House."
+    publishedDateTime: 2021-01-19T08:24:00Z
+    webUrl: "https://www.businessinsider.com/trump-baby-protest-blimp-enters-museum-of-london-collection-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/trump-baby-protest-blimp-enters-museum-of-london-collection-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-baby-protest-blimp-enters-museum-of-london-collection-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Trump expected to issue new wave of pardons"
+    excerpt: "Watch \"President Trump expected to issue new wave of pardons during last full day in office\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-01-19T12:51:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210119123224-president-trump-expected-to-issue-new-wave-of-pardons-during-last-full-day-in-office/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/01/19/story_08611300_1611060124.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Outgoing Trump admin mulls industry-wide biofuel waiver for oil refiners"
+    excerpt: "The Trump administration is considering requests from the oil refining industry and its backers for a sweeping nationwide waiver to exempt them from their obligations to blend biofuels, a measure they argue would help them weather the economic impact of the coronavirus"
+    publishedDateTime: 2021-01-16T00:32:00Z
+    webUrl: "https://www.reuters.com/article/usa-biofuels/update-5-outgoing-trump-admin-mulls-industry-wide-biofuel-waiver-for-oil-refiners-idUSL1N2JQ17Z"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 104
+    images:
+      - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Are Republicans headed for a pro-Trump, anti-Trump civil war? ‘Hell yes, we are,’ says Illinois’ Adam Kinzinger."
+    excerpt: "In Washington, Republicans are particularly concerned about a handful of extreme-right House members who could run for Senate in swing states, potentially tarnishing the party in some of the most politically important areas of the country."
+    publishedDateTime: 2021-01-16T20:37:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-nyt-trump-republicans-adam-kinzinger-20210116-gns2nfnjpfbdhc2xljwb34hnee-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-nyt-trump-republicans-adam-kinzinger-20210116-gns2nfnjpfbdhc2xljwb34hnee-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-nyt-trump-republicans-adam-kinzinger-20210116-gns2nfnjpfbdhc2xljwb34hnee-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 104
+    images:
+      - url: "https://www.chicagotribune.com/resizer/t3tXp06wwOnc7_SnVWMS4T2fmCc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/WK6VBRDIQ5H7ZI2ESE2ZLOB3RY.JPG"
+        width: 1200
+        height: 909
+        isCached: true
+  - title: "U.S. House Speaker Pelosi won't say when Trump impeachment trial will start"
+    excerpt: "U.S. House of Representatives Speaker Nancy Pelosi on Friday sidestepped a question about when President Donald Trump would face his second impeachment trial, on a charge of inciting his supporters to attack the Capitol."
+    publishedDateTime: 2021-01-15T22:50:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump/u-s-house-speaker-pelosi-wont-say-when-trump-impeachment-trial-will-start-idUSKBN29K0NV?edition-redirect=ca"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 103
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547955197&r=LYNXMPEH0E18J&w=800"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "The Trump years: Tax cuts and trade wars overshadowed in the end by a virus"
+    excerpt: "From trade wars to tax cuts, from ultra-low unemployment to record highs on stock markets and a high-volume feud with his own Federal Reserve chief, President Donald Trump took the U.S. economy on a wild ride even before the coronavirus drove it off a cliff."
+    publishedDateTime: 2021-01-19T16:37:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-economy-trump/the-trump-years-tax-cuts-and-trade-wars-overshadowed-in-the-end-by-a-virus-idUKKBN29O169"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 103
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548298212&r=LYNXMPEH0I0OD&w=800"
+        width: 800
+        height: 561
+        isCached: true
+  - title: "U.S. state capitals on edge for armed protests as Trump presidency nears end"
+    excerpt: "Trump marches in all 50 state capitals this weekend, erecting barriers and calling in their National Guards to try to prevent the kind of violent attack that rattled the nation on Jan. 6."
+    publishedDateTime: 2021-01-16T12:01:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-protests/u-s-state-capitals-on-edge-for-armed-protests-as-trump-presidency-nears-end-idUSKBN29L0CS"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 102
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210116&t=2&i=1548028753&r=LYNXMPEH0F096&w=800"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Vaccine reserve was already exhausted when Trump administration vowed to release it, dashing hopes of expanded access"
+    excerpt: "States were anticipating a windfall after federal officials said they would stop holding back second doses. But the policy had already changed, and no stockpile exists."
+    publishedDateTime: 2021-01-15T20:02:00Z
+    webUrl: "https://www.washingtonpost.com/health/2021/01/15/trump-vaccine-reserve-used-up/"
+    ampWebUrl: "https://www.washingtonpost.com/health/2021/01/15/trump-vaccine-reserve-used-up/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/2021/01/15/trump-vaccine-reserve-used-up/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 102
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NXIXITCVBEI6XLGFSLJIDGQ4ZM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "U.S. state capitals on edge for armed protests as Trump presidency nears end"
+    excerpt: "Trump marches in all 50 state capitals this weekend, erecting barriers and calling in their National Guards to try to prevent the kind of violent attack that rattled the nation on Jan. 6."
+    publishedDateTime: 2021-01-16T17:10:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-protests/u-s-capitals-on-edge-for-armed-protests-as-trump-presidency-nears-end-idUSKBN29L0CS"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 102
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210116&t=2&i=1548030531&r=LYNXMPEH0F09U&w=800"
+        width: 800
+        height: 519
+        isCached: true
+  - title: "Factbox-What to expect when Congress moves to force Trump from office this week"
+    excerpt: "Democrats in the U.S. Congress will try to remove President Donald Trump from office this week, either by pressuring Vice President Mike Pence or in a historic second impeachment attempt, after Trump's supporters stormed the Capitol building."
+    publishedDateTime: 2021-01-11T06:50:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump-impeachment-first-steps-fac/factbox-what-to-expect-when-congress-moves-to-force-trump-from-office-this-week-idUSKBN29G02R"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 101
+    images:
+      - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Fact check: Donald Trump has not invoked the Insurrection Act to hold on to power"
+    excerpt: "A screenshot of a social media post from an account with the handle @TeamTrumpNews has falsely alleged that the U.S. president has invoked a 200-year-old act to deploy the military and remain in power."
+    publishedDateTime: 2021-01-12T00:21:00Z
+    webUrl: "https://www.reuters.com/article/uk-fact-check-trump-has-not-invoked-insu/donald-trump-has-not-invoked-the-insurrection-act-to-hold-on-to-power-idUSKBN29G2H7"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 100
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210111&t=2&i=1547401830&r=LYNXMPEH0A1E4&w=800"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Pence Tells Pelosi He Will Not Invoke 25th Amendment to Remove Trump"
+    excerpt: "In the immediate wake of the Capitol riot, reports emerged that the presidential cabinet was considering the 25th Amendment to remove Donald Trump from office. Through its fourth clause, the vice-president and a majority of the cabinet could declare Trump unfit for office,"
+    publishedDateTime: 2021-01-13T06:47:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/01/pence-will-not-invoke-25th-amendment-to-remove-trump-letter.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/01/pence-will-not-invoke-25th-amendment-to-remove-trump-letter.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/01/pence-will-not-invoke-25th-amendment-to-remove-trump-letter.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 100
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/aaf/2f5/24f22b702dcf84fa0ef94ea70760146816-GettyImages-1230451728.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "President Donald Trump impeached by US House for incitement of insurrection at Capitol; 1st US president impeached twice"
+    excerpt: "President Donald Trump impeached by US House for incitement of insurrection at Capitol; 1st US president impeached twice"
+    publishedDateTime: 2021-01-14T02:39:00Z
+    webUrl: "https://www.washingtonpost.com/politics/president-donald-trump-impeached-by-us-house-for-incitement-of-insurrection-at-capitol-1st-us-president-impeached-twice/2021/01/13/c965b654-55e7-11eb-acc5-92d2819a1ccb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/president-donald-trump-impeached-by-us-house-for-incitement-of-insurrection-at-capitol-1st-us-president-impeached-twice/2021/01/13/c965b654-55e7-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/president-donald-trump-impeached-by-us-house-for-incitement-of-insurrection-at-capitol-1st-us-president-impeached-twice/2021/01/13/c965b654-55e7-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 100
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "U.S. state capitals gird for pro-Trump armed protests, FBI flags risk of violence"
+    excerpt: "Protesters are expected to descend on statehouses across the United States on Sunday in support of baseless claims that electoral fraud robbed President Donald Trump of a second term, as law enforcement officials girded for possible violence."
+    publishedDateTime: 2021-01-17T13:43:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump-protests/us-state-capitals-gird-for-pro-trump-armed-protests-fbi-flags-risk-of-violence-idUSKBN29M048"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 100
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210117&t=2&i=1548089624&r=LYNXMPEH0G03L&w=800"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Joe Biden volunteers, Donald Trump works on MLK Day"
+    excerpt: "state and national organizations virtually for a National Day of Service on Martin Luther King Jr. Day while the White House designated Monday as a working day for President Donald Trump. Biden and wife Jill Biden are expected to volunteer at Philabundance ..."
+    publishedDateTime: 2021-01-18T14:39:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/01/18/Joe-Biden-volunteers-Donald-Trump-works-on-MLK-Day/1671610978151/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/01/18/Joe-Biden-volunteers-Donald-Trump-works-on-MLK-Day/1671610978151/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/01/18/Joe-Biden-volunteers-Donald-Trump-works-on-MLK-Day/1671610978151/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 100
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/1671610978151/2021/1/d90e27e5b533cf02b2ab1cdebe011438/v1.5/Joe-Biden-volunteers-Donald-Trump-works-on-MLK-Day.jpg"
+        width: 800
+        height: 534
+        isCached: true
+  - title: "VP Mike Pence rules out invoking 25th Amendment on President Donald Trump"
+    excerpt: "\"I do not believe that such a course of action is in the best interest of our Nation or consistent with our Constitution.\""
+    publishedDateTime: 2021-01-13T01:30:00Z
+    webUrl: "https://www.boston.com/news/politics/2021/01/12/pence-25th-amendment-decision"
+    ampWebUrl: "https://www.boston.com/news/politics/2021/01/12/pence-25th-amendment-decision/amp"
+    cdnAmpWebUrl: "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/news/politics/2021/01/12/pence-25th-amendment-decision/amp"
+    type: article
+    provider:
+      name: Boston.com
+      domain: boston.com
+    quality: 99
+    images:
+      - url: "https://www.boston.com/wp-content/uploads/2021/01/https___assets.bwbx_.io_images_users_iqjWHBFdfxIU_iWbleXlndMg0_v0_piFq5T3pJF0qzS8rF9LjsWaQ_-1x-1-5ffe4ba60f4ca-850x478.jpg"
+        width: 850
+        height: 478
+        isCached: true
+  - title: "Trump sought the world's attention and got it. Now the White House reality show ends"
+    excerpt: "A red tie, often tied too long. A raised fist, often held high to a supportive crowd. A scowling face. A raised voice."
+    publishedDateTime: 2021-01-18T19:37:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-postcards/trump-sought-the-worlds-attention-and-got-it-now-the-white-house-reality-show-ends-idUSKBN29N1E2"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 98
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210118&t=2&i=1548203838&r=LYNXMPEH0H0U5&w=800"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "After Capitol rampage, Pelosi calls on Trump to resign and Twitter deletes his account"
+    excerpt: "House Speaker Nancy Pelosi on Friday called on President Donald Trump to resign and Twitter permanently suspended his account citing a risk that he could incite more violence, two days after a crowd of Trump supporters stormed the U."
+    publishedDateTime: 2021-01-09T04:54:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election/after-capitol-rampage-pelosi-calls-on-trump-to-resign-and-twitter-deletes-his-account-idUKKBN29D1IE"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 97
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210108&t=2&i=1547098549&r=LYNXMPEH070OG&w=800"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Democrats in Congress to begin drive to force Trump from office after Capitol violence"
+    excerpt: "Congressional Democrats begin their drive to force President Donald Trump from office this week, with a House vote on articles of impeachment expected as early as Wednesday that could make him the only president in U."
+    publishedDateTime: 2021-01-11T14:05:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump/democrats-in-congress-to-begin-drive-to-force-trump-from-office-after-capitol-violence-idINKBN29G0FO"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 97
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210111&t=2&i=1547328418&r=LYNXMPEH0A08Z&w=800"
+        width: 800
+        height: 557
+        isCached: true
+  - title: "House rushes to impeach Trump after Pence says he won’t invoke 25th Amendment"
+    excerpt: "Already scheduled to leave office next week, Trump is on the verge of becoming the only president in history to be twice impeached."
+    publishedDateTime: 2021-01-13T10:05:00Z
+    webUrl: "https://www.al.com/politics/2021/01/house-rushes-to-impeach-trump-after-pence-says-he-wont-invoke-25th-amendment.html"
+    ampWebUrl: "https://www.al.com/politics/2021/01/house-rushes-to-impeach-trump-after-pence-says-he-wont-invoke-25th-amendment.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/politics/2021/01/house-rushes-to-impeach-trump-after-pence-says-he-wont-invoke-25th-amendment.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 97
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/P3HVED4VFRFJTMPWE4IYDGUDBI.jpg"
+        width: 6000
+        height: 4000
+        isCached: true
+  - title: "Big Tech's Crackdown on Donald Trump and Parler Won't Fix the Real Problem With Social Media"
+    excerpt: "Twitter and Facebook’s ban of President Trump last week, and the deplatforming of the rightwing social network Parler by Apple, Google and Amazon on Monday, are crucial first steps in stemming the flow of pollution,"
+    publishedDateTime: 2021-01-12T19:25:00Z
+    webUrl: "https://time.com/5928982/deplatforming-trump-parler/"
     type: article
     provider:
       name: Time
       domain: time.com
-    quality: 103
+    quality: 94
     images:
-      - url: "https://api.time.com/wp-content/uploads/2019/12/time-person-of-the-year-kamala-harris-portrait.jpg"
-        width: 2056
-        height: 2400
-        isCached: true
-  - title: "Joe Biden, Kamala Harris are Time’s Person of the Year 2020"
-    excerpt: "Joe Biden and Kamala Harris are Time’s 2020 Person of the Year, the magazine announced Thursday night. The President-elect and Vice President-elect beat out Donald Trump again, among other finalists."
-    publishedDateTime: 2020-12-11T07:22:00Z
-    webUrl: "https://www.nj.com/news/2020/12/joe-biden-kamala-harris-are-times-person-of-the-year-2020.html"
-    ampWebUrl: "https://www.nj.com/news/2020/12/joe-biden-kamala-harris-are-times-person-of-the-year-2020.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/news/2020/12/joe-biden-kamala-harris-are-times-person-of-the-year-2020.html?outputType=amp"
-    type: article
-    provider:
-      name: NJ.com
-      domain: nj.com
-    quality: 100
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/AY6P7DXUKNHJRI5LJGZPURHWEA.JPG"
-        width: 3295
-        height: 2197
-        isCached: true
-  - title: "Crank & Boom Craft Ice Cream Now Shipping New Flavor, \"KAMALA PECAN,\" Nationwide In Honor Of Kamala Harris' Historic Election"
-    excerpt: "Crank & Boom Craft Ice Cream is launching an exciting new flavor for NATIONWIDE SHIPPING. KAMALA PECAN, created in honor of Vice President-Elect Kamala Harris' historic election as the first woman and person of color to be elected Vice President of the United States,"
-    publishedDateTime: 2020-12-08T16:01:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/crank-boom-craft-ice-cream-now-shipping-new-flavor-kamala-pecan-nationwide-in-honor-of-kamala-harris-historic-election-1029874116"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 93
-    images:
-      - url: "https://mma.prnewswire.com/media/1360687/C_and_B_Logo.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Politics live updates: Mitch McConnell congratulates Joe Biden, Kamala Harris for election win"
-    excerpt: "Senate Majority Leader Mitch McConnell said Tuesday he wanted to \"congratulate the president-elect, Joe Biden.\""
-    publishedDateTime: 2020-12-15T15:25:00Z
-    webUrl: "https://www.app.com/story/news/politics/elections/2020/12/15/politics-updates-biden-campaign-ossoff-warnock-georgia/3901724001/"
-    ampWebUrl: "https://amp.app.com/amp/3901724001"
-    cdnAmpWebUrl: "https://amp-app-com.cdn.ampproject.org/c/s/amp.app.com/amp/3901724001"
-    type: article
-    provider:
-      name: app.com
-      domain: app.com
-    quality: 93
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/bc08a3d2dedcdb34ea9fffc48b50357b9ca2e191/c=1-20-478-290/local/-/media/USATODAY/USATODAY/2014/11/08/635510444095890283-bidenmcconnell.JPG?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 679
-        isCached: true
-  - title: "Politics live updates: Mitch McConnell congratulates Joe Biden, Kamala Harris for election win"
-    excerpt: "McConnell noted Harris' historic win, saying, “all Americans can take pride that our nation has a female vice president for the very first time.”"
-    publishedDateTime: 2020-12-15T17:33:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/12/15/politics-updates-biden-campaign-ossoff-warnock-georgia/3901724001/"
-    ampWebUrl: "https://amp.azcentral.com/amp/3901724001"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3901724001"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 93
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/07/30/USAT/df59b8c7-35c7-4faf-82af-a3dbfa037bf0-AP_John_Lewis_Remembered.jpg?auto=webp&crop=4840,2723,x0,y245&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Twitter Reacts To Joe Biden, Kamala Harris Beating Out Donald Trump As Time's Person Of The Year"
-    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris were chosen as Time's 2020 Person of the Year from a shortlist that included President Donald Trump, Dr. Anthony Fauci, frontline COVID-19 workers and racial justice movements."
-    publishedDateTime: 2020-12-11T10:50:00Z
-    webUrl: "https://www.ibtimes.com/twitter-reacts-joe-biden-kamala-harris-beating-out-donald-trump-times-person-year-3099987"
-    ampWebUrl: "https://www.ibtimes.com/twitter-reacts-joe-biden-kamala-harris-beating-out-donald-trump-times-person-year-3099987?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-reacts-joe-biden-kamala-harris-beating-out-donald-trump-times-person-year-3099987?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 92
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/12/president-donald-trump-has-refused-to-concede-to.jpg"
-        width: 1024
-        height: 768
-        isCached: true
-  - title: "Dallas Symphony trumpeter plays in recording to honor inauguration of Joe Biden and Kamala Harris"
-    excerpt: "The 24-year-old Peruvian-born horn player is one of 14 musicians across the country who performed on a video that will stream on Jan. 19."
-    publishedDateTime: 2021-01-14T15:28:00Z
-    webUrl: "https://www.dallasnews.com/arts-entertainment/performing-arts/2021/01/14/dallas-symphony-trumpeter-plays-in-recording-to-honor-inauguration-of-joe-biden-and-kamala-harris/"
-    ampWebUrl: "https://www.dallasnews.com/arts-entertainment/performing-arts/2021/01/14/dallas-symphony-trumpeter-plays-in-recording-to-honor-inauguration-of-joe-biden-and-kamala-harris/?outputType=amp"
-    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/arts-entertainment/performing-arts/2021/01/14/dallas-symphony-trumpeter-plays-in-recording-to-honor-inauguration-of-joe-biden-and-kamala-harris/?outputType=amp"
-    type: article
-    provider:
-      name: Dallas Morning News
-      domain: dallasnews.com
-    quality: 92
-    images:
-      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/omRxC1QoC3h6taBe_zfW4HKIYrk=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/KC5DRSMSQJFSBOQDMFRTRO37X4.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Joe Biden and Kamala Harris named Time Person of the Year"
-    excerpt: "The two made history on November 7 when they beat Donald Trump in a bitter election that put him in a small club of presidents who served only one term. Harris on that day became the"
-    publishedDateTime: 2020-12-11T10:00:00Z
-    webUrl: "https://www.mercurynews.com/2020/12/11/joe-biden-and-kamala-harris-named-time-person-of-the-year/"
-    ampWebUrl: "https://www.mercurynews.com/2020/12/11/joe-biden-and-kamala-harris-named-time-person-of-the-year/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/12/11/joe-biden-and-kamala-harris-named-time-person-of-the-year/amp/"
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 90
-    images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2020/12/hypatia-h_8a9d9a05d2485c590cc4e2e8c3ce8904-h_8429915904bdff81983b59807763dd81.jpg?w=1024&h=576"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Joe Biden, Kamala Harris Named Time Magazine's 2020 Person Of The Year"
-    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris were named Time magazine's Person of the Year for 2020, beating other finalists that included President Donald Trump, frontline health care workers with Dr."
-    publishedDateTime: 2020-12-11T06:18:00Z
-    webUrl: "https://www.ibtimes.com/joe-biden-kamala-harris-named-time-magazines-2020-person-year-3099965"
-    ampWebUrl: "https://www.ibtimes.com/joe-biden-kamala-harris-named-time-magazines-2020-person-year-3099965?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/joe-biden-kamala-harris-named-time-magazines-2020-person-year-3099965?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 90
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/10/gettyimages-1228008551.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Joe Biden, Kamala Harris named Time's 2020 Person of the Year"
-    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris have been named Time magazine's Person of the Year for 2020."
-    publishedDateTime: 2020-12-11T09:17:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2020/12/11/Joe-Biden-Kamala-Harris-named-Times-2020-Person-of-the-Year/5001607674411/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/12/11/Joe-Biden-Kamala-Harris-named-Times-2020-Person-of-the-Year/5001607674411/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/12/11/Joe-Biden-Kamala-Harris-named-Times-2020-Person-of-the-Year/5001607674411/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 90
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/5001607674411/2020/1/cc09d184995f8411b4df7c1a297c83b5/v1.5/Joe-Biden-Kamala-Harris-named-Times-2020-Person-of-the-Year.jpg"
-        width: 800
-        height: 532
-        isCached: true
-  - title: "Time Magazine Names Joe Biden and Kamala Harris Person of the Year"
-    excerpt: "Time Magazine on Thursday named President-elect Joe Biden and Vice President-elect Kamala Harris its Person of the Year. Earlier in the day, the magazine named the South Korean group BTS its 2020 Entertainer of the Year."
-    publishedDateTime: 2020-12-11T04:11:00Z
-    webUrl: "https://www.nbcnewyork.com/news/local/time-magazine-names-joe-biden-and-kamala-harris-person-of-the-year/2774289/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/local/time-magazine-names-joe-biden-and-kamala-harris-person-of-the-year/2774289/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/local/time-magazine-names-joe-biden-and-kamala-harris-person-of-the-year/2774289/?amp"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 90
-    images:
-      - url: "https://media.nbcnewyork.com/2020/12/Time-Person-of-the-Year-2020.gif?fit=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Time Magazine Names Joe Biden, Kamala Harris Person of the Year"
-    excerpt: "Time magazine has named President-elect Joe Biden and Vice President-elect Kamala Harris its “Person of the Year.” Time’s editor-in-chief Edward Felsenthal says Biden and Harris won the honor for “changing the American story,"
-    publishedDateTime: 2020-12-11T05:42:00Z
-    webUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/time-magazine-names-joe-biden-and-kamala-harris-person-of-the-year/2774289/?amp"
-    ampWebUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/time-magazine-names-joe-biden-and-kamala-harris-person-of-the-year/2774289/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/entertainment/entertainment-news/time-magazine-names-joe-biden-and-kamala-harris-person-of-the-year/2774289/?amp"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 90
-    images:
-      - url: "https://media.nbcnewyork.com/2020/12/Time-Person-of-the-Year-2020.gif?fit=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Time Person of the Year: Joe Biden and Kamala Harris"
-    excerpt: "US President-elect Joe Biden and Vice-President-elect Kamala Harris have been named Time magazine Person of The Year 2020."
-    publishedDateTime: 2020-12-11T08:11:00Z
-    webUrl: "https://www.bbc.co.uk/newsround/55271127"
-    ampWebUrl: "https://www.bbc.co.uk/newsround/amp/55271127"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/newsround/amp/55271127"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 90
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/10EEF/production/_115995396_biden.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Joe Biden, Kamala Harris are Time’s Person of the Year 2020"
-    excerpt: "Joe Biden and Kamala Harris are Time’s 2020 Person of the Year, the magazine announced Thursday night. The President-elect and Vice President-elect beat out Donald Trump again, among other finalists."
-    publishedDateTime: 2020-12-11T19:18:00Z
-    webUrl: "https://www.mlive.com/news/us-world/2020/12/joe-biden-kamala-harris-are-times-person-of-the-year-2020.html"
-    ampWebUrl: "https://www.mlive.com/news/us-world/2020/12/joe-biden-kamala-harris-are-times-person-of-the-year-2020.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/us-world/2020/12/joe-biden-kamala-harris-are-times-person-of-the-year-2020.html?outputType=amp"
-    type: article
-    provider:
-      name: MLive
-      domain: mlive.com
-    quality: 90
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/AY6P7DXUKNHJRI5LJGZPURHWEA.JPG"
-        width: 3295
-        height: 2197
-        isCached: true
-  - title: "Time Magazine Names Joe Biden, Kamala Harris Person of the Year"
-    excerpt: "Time magazine has named President-elect Joe Biden and Vice President-elect Kamala Harris its “Person of the Year.” Time’s editor-in-chief Edward Felsenthal says Biden and Harris won the honor for “changing the American story,"
-    publishedDateTime: 2020-12-12T05:59:00Z
-    webUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/time-magazine-names-joe-biden-and-kamala-harris-person-of-the-year/2774289/"
-    ampWebUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/time-magazine-names-joe-biden-and-kamala-harris-person-of-the-year/2774289/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/entertainment/entertainment-news/time-magazine-names-joe-biden-and-kamala-harris-person-of-the-year/2774289/?amp"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 90
-    images:
-      - url: "https://media.nbcnewyork.com/2020/12/Time-Person-of-the-Year-2020.gif?fit=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Electoral College affirms Joe Biden-Kamala Harris victory"
-    excerpt: "The Electoral College on Monday cast its votes to elect Joe Biden and Kamala Harris president and vice president, following weeks of efforts by President Donald Trump to cast doubt on the election process."
-    publishedDateTime: 2020-12-14T12:49:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2020/12/14/Electoral-College-affirms-Joe-Biden-Kamala-Harris-victory/4821607896946/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/12/14/Electoral-College-affirms-Joe-Biden-Kamala-Harris-victory/4821607896946/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/12/14/Electoral-College-affirms-Joe-Biden-Kamala-Harris-victory/4821607896946/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 90
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/4821607896946/2020/1/5dea4f3742acb8201f7fefa2534fbe48/v1.5/Electoral-College-affirms-Joe-Biden-Kamala-Harris-victory.jpg"
-        width: 800
-        height: 534
-        isCached: true
-  - title: "Electoral College casting votes to confirm Joe Biden-Kamala Harris win"
-    excerpt: "The Electoral College on Monday was casting its votes to elect Joe Biden and Kamala Harris president and vice president, following weeks of efforts by President Donald Trump to cast doubt on the election process."
-    publishedDateTime: 2020-12-14T12:49:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2020/12/14/Electoral-College-casting-votes-to-confirm-Joe-Biden-Kamala-Harris-win/4821607896946/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/12/14/Electoral-College-casting-votes-to-confirm-Joe-Biden-Kamala-Harris-win/4821607896946/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/12/14/Electoral-College-casting-votes-to-confirm-Joe-Biden-Kamala-Harris-win/4821607896946/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 90
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/4821607896946/2020/1/5dea4f3742acb8201f7fefa2534fbe48/v1.5/Electoral-College-casting-votes-to-confirm-Joe-Biden-Kamala-Harris-win.jpg"
-        width: 800
-        height: 534
-        isCached: true
-  - title: "Massachusetts 11 electors formally vote in Joe Biden, Kamala Harris"
-    excerpt: "Eleven Massachusetts electors cast their votes as expected on Monday to affirm Joe Biden as the nation’s next president, a formality that took on added importance this year as President"
-    publishedDateTime: 2020-12-14T22:10:00Z
-    webUrl: "https://www.bostonherald.com/2020/12/14/massachusetts-11-electors-formally-vote-in-joe-biden-kamala-harris/"
-    ampWebUrl: "https://www.bostonherald.com/2020/12/14/massachusetts-11-electors-formally-vote-in-joe-biden-kamala-harris/amp/"
-    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2020/12/14/massachusetts-11-electors-formally-vote-in-joe-biden-kamala-harris/amp/"
-    type: article
-    provider:
-      name: Boston Herald
-      domain: bostonherald.com
-    quality: 90
-    images:
-      - url: "https://www.bostonherald.com/wp-content/uploads/2020/12/AP20323833824629.jpg?w=1024&h=683"
+      - url: "https://api.time.com/wp-content/uploads/2021/01/trump-parler-ban.jpg"
         width: 1024
         height: 683
         isCached: true
-  - title: "Mike Pence to Head Overseas Hours After Declaring Joe Biden the Presidential Victor Over Donald Trump"
-    excerpt: "Pence will travel overseas hours after formally declaring that Biden beat Trump in November’s presidential election."
-    publishedDateTime: 2020-12-17T16:07:00Z
-    webUrl: "https://www.nbcnewyork.com/news/business/money-report/mike-pence-to-head-overseas-hours-after-declaring-joe-biden-the-presidential-victor-over-donald-trump/2786788/?amp"
-    ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/mike-pence-to-head-overseas-hours-after-declaring-joe-biden-the-presidential-victor-over-donald-trump/2786788/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/mike-pence-to-head-overseas-hours-after-declaring-joe-biden-the-presidential-victor-over-donald-trump/2786788/?amp"
+  - title: "Letter to Jack Dorsey from Twitter employees asking to permanently suspend Donald Trump's account"
+    excerpt: "In a letter to Twitter CEO Jack Dorsey and other top executives, employees ask the company to permanently suspend Donald Trump and investigate Twitter's role in the attack on the U.S. Capitol."
+    publishedDateTime: 2021-01-08T21:40:00Z
+    webUrl: "https://www.washingtonpost.com/context/letter-to-jack-dorsey-from-twitter-employees-asking-to-permanently-suspend-donald-trump-s-account/d9b84fa1-c7cb-4c5b-a90a-fdf167ff0c7a/"
     type: article
     provider:
-      name: NBC New York
-      domain: nbcnewyork.com
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 92
+    images:
+      - url: "https://www.washingtonpost.com/pbox.php?url=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BTTBYKCFQII6XLBKHLAPFOGO5M.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
+        width: 1484
+        height: 989
+        isCached: true
+  - title: "WIDER IMAGE-Trump sought the world's attention and got it. Now the White House reality show ends"
+    excerpt: "A red tie, often tied too long. A raised fist, often held high to a supportive crowd. A scowling face. A raised voice."
+    publishedDateTime: 2021-01-18T15:08:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-postcards/wider-image-trump-sought-the-worlds-attention-and-got-it-now-the-white-house-reality-show-ends-idUSL1N2JR00G"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 92
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210118&t=2&i=1548203838&r=LYNXMPEH0H0U5&w=800"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Trump Impeachment Will 'Move Forward' In Congress If Pence Doesn't Invoke 25th Amendment"
+    excerpt: "House Democrats plan to go through the impeachment process if Pence does not invoke 25th Amendment Pelosi accused Trump of inciting Wednesday's siege at the US Capitol Rep. Ilhan Omar on Thursday introduced the Articles of Impeachment House Speaker Nancy Pelosi on Thursday threatened to go through the impeachment process if Vice President Mike Pence refuses to invoke the 25th Amendment on President Donald Trump."
+    publishedDateTime: 2021-01-08T00:57:00Z
+    webUrl: "https://www.ibtimes.com/trump-impeachment-will-move-forward-congress-if-pence-doesnt-invoke-25th-amendment-3116900"
+    ampWebUrl: "https://www.ibtimes.com/trump-impeachment-will-move-forward-congress-if-pence-doesnt-invoke-25th-amendment-3116900?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-impeachment-will-move-forward-congress-if-pence-doesnt-invoke-25th-amendment-3116900?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 91
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/05/us-president-donald-trump-dramatically-withdrew-from-the.jpg"
+        width: 1024
+        height: 681
+        isCached: true
+  - title: "The Pure Joy of Watching Trump Torment Mike Pence"
+    excerpt: "Throughout his term of service to Trump, Pence has followed a singular principle: Do not allow your devotion to your master to waver. If Pence has harbored even the tiniest private doubt, he has not permitted it to escape."
+    publishedDateTime: 2021-01-07T19:25:00Z
+    webUrl: "https://nymag.com/intelligencer/article/the-pure-joy-of-watching-trump-torment-mike-pence.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/article/the-pure-joy-of-watching-trump-torment-mike-pence.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/article/the-pure-joy-of-watching-trump-torment-mike-pence.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
     quality: 90
     images:
-      - url: "https://media.nbcnewyork.com/2020/12/106808968-1607554570766-pence.jpg?resize=1200%2C675"
+      - url: "https://pyxis.nymag.com/v1/imgs/e29/e82/f11febd59f8222d9606f4e105f912b0523-mike-pence-donald-trump.1x.rsocial.w1200.jpg"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
-  - title: "Kamala Harris, Ivanka Trump making appeals to Georgia voters"
-    excerpt: "Campaigning in Georgia on Monday, Vice President-elect Kamala Harris stressed a need to elect Democratic U.S. Senate candidates who will advance President-elect Joe Biden's agenda. Ivanka Trump, meanwhile,"
-    publishedDateTime: 2020-12-21T13:33:00Z
-    webUrl: "https://www.sfchronicle.com/news/article/Kamala-Harris-Ivanka-Trump-making-appeals-to-15820191.php"
-    ampWebUrl: "https://www.sfchronicle.com/news/amp/Kamala-Harris-Ivanka-Trump-making-appeals-to-15820191.php"
-    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/news/amp/Kamala-Harris-Ivanka-Trump-making-appeals-to-15820191.php"
+  - title: "Trump to issue 100 pardons before Biden inauguration"
+    excerpt: "Dr. Salomon Melgen, who is in prison after being convicted for health care fraud in 2018, is expected to be included in the clemency list, CNN reported, citing three sources."
+    publishedDateTime: 2021-01-18T21:43:00Z
+    webUrl: "https://www.al.com/news/2021/01/trump-to-issue-100-pardons-before-biden-inauguration.html"
+    ampWebUrl: "https://www.al.com/news/2021/01/trump-to-issue-100-pardons-before-biden-inauguration.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/trump-to-issue-100-pardons-before-biden-inauguration.html?outputType=amp"
     type: article
     provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
+      name: al.com
+      domain: al.com
     quality: 90
     images:
-      - url: "https://s.hdnux.com/photos/01/15/67/76/20414345/21/375x250.jpg"
-        width: 375
-        height: 249
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SJP6CEF62RGIXILQCPUR6G57EE.jpg"
+        width: 4090
+        height: 2727
         isCached: true
-  - title: "Here's where Kamala Harris, Ivanka Trump will be today in Georgia"
-    excerpt: "Two political heavyweights will be in Georgia pushing for voters to head to the polls and vote in the U.S. Senate runoffs on Jan. 5. Vice President-elect Kamala Harris will travel to Columbus, Georgia to campaign with Democratic nominees for U."
-    publishedDateTime: 2020-12-22T16:03:00Z
-    webUrl: "https://www.firstcoastnews.com/article/news/politics/elections/kamala-harris-ivanka-trump-georgia/85-d8ced087-08d9-4475-a4c8-3acf504c345d"
-    ampWebUrl: "https://www.firstcoastnews.com/amp/article/news/politics/elections/kamala-harris-ivanka-trump-georgia/85-d8ced087-08d9-4475-a4c8-3acf504c345d"
-    cdnAmpWebUrl: "https://www-firstcoastnews-com.cdn.ampproject.org/c/s/www.firstcoastnews.com/amp/article/news/politics/elections/kamala-harris-ivanka-trump-georgia/85-d8ced087-08d9-4475-a4c8-3acf504c345d"
-    type: article
-    provider:
-      name: First Coast News
-      domain: firstcoastnews.com
-    quality: 90
-    images:
-      - url: "https://media.firstcoastnews.com/assets/WXIA/images/645dee1d-8146-4987-acd4-267767642af9/645dee1d-8146-4987-acd4-267767642af9_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "Biden, Harris take virtual tour of Arizona vaccination site"
-    excerpt: "President Biden and Vice President Kamala Harris virtually toured a 24-7 vaccination site Monday at the Arizona Cardinals’ stadium that could serve as a model for others, as the U.S. pivots from immunizing priority groups to reaching older Americans and racing fast-moving variants of the coronavirus."
-    publishedDateTime: 2021-02-08T22:33:00Z
-    webUrl: "https://www.washingtontimes.com/news/2021/feb/8/biden-harris-take-virtual-tour-arizona-vaccination/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2021/feb/8/biden-harris-take-virtual-tour-arizona-vaccination/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/feb/8/biden-harris-take-virtual-tour-arizona-vaccination/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 90
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2021/02/08/Biden_17394.jpg-79310_c0-120-2866-1791_s1200x700.jpg?67075f200bc1cc5cad831ec15bdb630fd20fc51b"
-        width: 1200
-        height: 700
-        isCached: true
-  - title: "After years of indifference and denial under President Trump, experts expect Joe Biden to confront the dangers of domestic extremism"
-    excerpt: "Former federal security officials are urging President-elect Joe Biden to more seriously acknowledge the growing danger of domestic terrorism."
-    publishedDateTime: 2020-12-09T12:24:00Z
-    webUrl: "https://www.usatoday.com/story/news/2020/12/09/biden-trump-challenges-domestic-extremism/3825616001/"
+  - title: "Trump allies and Republican lawmakers lost thousands of followers in Twitter purge after Capitol riots"
+    excerpt: "Republican lawmakers lost thousands of followers when Twitter purged QAnon accounts following the violent mob attack on the Capitol stoked by Trump."
+    publishedDateTime: 2021-01-17T21:55:00Z
+    webUrl: "https://www.usatoday.com/story/tech/2021/01/15/trump-republican-lawmakers-follower-counts-slashed-twitter-purge/4168064001/"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
     quality: 89
     images:
-      - url: "https://www.gannett-cdn.com/presto/2018/10/29/USAT/8d8da8e4-071d-4632-8a45-a1a8dbd4215a-News21_hate_crimes_7.JPG?crop=1999,1124,x0,y0&width=1600&height=800&fit=bounds"
-        width: 1423
+      - url: "https://www.gannett-cdn.com/-mm-/9e1f6e2ee20f44aa1f3be4f71e9f3e52b6ae2c7e/c=0-110-2121-1303/local/-/media/2021/01/14/USATODAY/usatsports/twitter-white-house-trump.jpg?width=1600&height=800&fit=crop"
+        width: 1600
         height: 800
         isCached: true
-  - title: "Maryland's electors cast the state's 10 votes for Joe Biden, Kamala Harris"
-    excerpt: "Maryland's presidential electors gathered in Annapolis on Monday to cast their votes for President-elect Joe Biden, who won the state in a landslide on Nov. 3. The state's 10 votes formalized Biden and Vice President-elect Kamala Harris's victory in Maryland and pushed the Democrats toward the 306 total Electoral College votes they are expected to receive."
-    publishedDateTime: 2020-12-14T18:15:00Z
-    webUrl: "https://www.delmarvanow.com/story/news/politics/elections/2020/12/14/maryland-electoral-college-cast-votes-joe-biden-kamala-harris/6538605002/"
-    ampWebUrl: "https://amp.delmarvanow.com/amp/6538605002"
-    cdnAmpWebUrl: "https://amp-delmarvanow-com.cdn.ampproject.org/c/s/amp.delmarvanow.com/amp/6538605002"
+  - title: "Trump could go full MAGA with a presidential library that glorifies his presidency and attacks his enemies"
+    excerpt: "It's not hard to image Trump's presidential library will burnish his tarnished legacy after he leaves office. Don't expect that to go smoothly."
+    publishedDateTime: 2021-01-17T02:51:00Z
+    webUrl: "https://www.businessinsider.com/trump-presidential-library-museum-location-national-archives-records-documents-2021-1"
     type: article
     provider:
-      name: DelmarvaNow
-      domain: delmarvanow.com
-    quality: 88
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/11/NMLF/9ce90095-fd58-4641-a4f9-8772c1e99048-AP20314636032153.jpg?auto=webp&crop=5487,3087,x0,y279&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Michigan’s electors set to cast votes for Joe Biden, Kamala Harris on Monday"
-    excerpt: "Monday’s ceremony at the Michigan Capitol is expected to be a stripped-down version of the event compared to previous election years, due to the coronavirus pandemic."
-    publishedDateTime: 2020-12-13T12:05:00Z
-    webUrl: "https://www.mlive.com/politics/2020/12/michigans-electors-set-to-cast-votes-for-joe-biden-kamala-harris-on-monday.html"
-    ampWebUrl: "https://www.mlive.com/politics/2020/12/michigans-electors-set-to-cast-votes-for-joe-biden-kamala-harris-on-monday.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/politics/2020/12/michigans-electors-set-to-cast-votes-for-joe-biden-kamala-harris-on-monday.html?outputType=amp"
-    type: article
-    provider:
-      name: MLive
-      domain: mlive.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 87
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/DUZ6J4FCBVFXLBW5EWMMYJB4EA.jpg"
-        width: 1024
-        height: 683
+      - url: "https://i.insider.com/6000cf5aa81ea100188db5a2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Biden’s Cabinet Picks Are Good News for Kamala Harris’s 2024 Presidential Bid"
-    excerpt: "Kamala Harris is the odds-on favorite to be the Democratic presidential nominee in 2024. Joe Biden would turn 82 that year, and it’s unlikely America’s first octogenarian president would seek a second term."
-    publishedDateTime: 2020-12-15T21:09:00Z
-    webUrl: "https://www.nationalreview.com/corner/bidens-cabinet-picks-are-good-news-for-kamala-harriss-2024-presidential-bid/"
-    ampWebUrl: "https://www.nationalreview.com/corner/bidens-cabinet-picks-are-good-news-for-kamala-harriss-2024-presidential-bid/amp/"
-    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/corner/bidens-cabinet-picks-are-good-news-for-kamala-harriss-2024-presidential-bid/amp/"
+  - title: "Joe Biden’s COVID team is nervous about what the Trump team hasn’t told them"
+    excerpt: "CNN With the hours dwindling until Joe Biden is sworn in — officially taking the helm of the US government during its worst health crisis in 100"
+    publishedDateTime: 2021-01-19T12:49:00Z
+    webUrl: "https://www.ocregister.com/2021/01/19/joe-bidens-covid-team-is-nervous-about-what-the-trump-team-hasnt-told-them/"
+    ampWebUrl: "https://www.ocregister.com/2021/01/19/joe-bidens-covid-team-is-nervous-about-what-the-trump-team-hasnt-told-them/amp/"
+    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2021/01/19/joe-bidens-covid-team-is-nervous-about-what-the-trump-team-hasnt-told-them/amp/"
     type: article
     provider:
-      name: National Review
-      domain: nationalreview.com
+      name: Orange County Register
+      domain: ocregister.com
     quality: 87
     images:
-      - url: "https://i1.wp.com/www.nationalreview.com/wp-content/uploads/2020/11/joe-biden-kamala-harris-acceptance.jpg?fit=1200%2C700&ssl=1"
-        width: 1200
-        height: 700
+      - url: "https://www.ocregister.com/wp-content/uploads/2021/01/200925174647-trump-v-biden-covid-19-live-video-2-1.jpg?w=576&h=324"
+        width: 576
+        height: 324
         isCached: true
-  - title: "Joe Biden and Kamala Harris's Inauguration: What You Need to Know About the Event"
-    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris are quickly approaching the moment when they'll be able to drop \"elect\" from their titles. Both Biden and Harris are set to be sworn into their posts at an inauguration ceremony unlike any other this January."
-    publishedDateTime: 2020-12-10T17:22:00Z
-    webUrl: "https://www.townandcountrymag.com/society/tradition/a34930463/joe-biden-kamala-harris-inauguration-2021-details/"
-    ampWebUrl: "https://www.townandcountrymag.com/society/tradition/amp34930463/joe-biden-kamala-harris-inauguration-2021-details/"
-    cdnAmpWebUrl: "https://www-townandcountrymag-com.cdn.ampproject.org/c/s/www.townandcountrymag.com/society/tradition/amp34930463/joe-biden-kamala-harris-inauguration-2021-details/"
-    type: article
-    provider:
-      name: Town & Country
-      domain: townandcountrymag.com
-    quality: 85
-    images:
-      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/former-vice-president-and-democratic-presidential-nominee-news-photo-1607617104.?crop=1.00xw:0.731xh;0,0.121xh&resize=1200:*"
-        width: 1200
-        height: 601
-        isCached: true
-  - title: "Biden Lashes Out At Trump After Election Win Confirmed"
-    excerpt: "Joe Biden said Monday that US democracy proved \"resilient\" against Donald Trump's \"abuse of power\" after the Electoral College confirmed him as the next president, shutting the door further on unprecedented efforts to overturn the results."
-    publishedDateTime: 2020-12-15T02:00:00Z
-    webUrl: "https://www.ibtimes.com/biden-lashes-out-trump-after-election-win-confirmed-3101280"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 85
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/13/us-president-donald-trump-and-president-elect-joe.jpg"
-        width: 1024
-        height: 768
-        isCached: true
-  - title: "Colorado’s Electoral College electors make Joe Biden, Kamala Harris win official"
-    excerpt: "Nine Colorado Democrats gathered in the west foyer of the state Capitol at high noon Monday to put the final stamp on Joe Biden’s and Kamala Harris’ Nov. 3 victory, as the Electoral"
-    publishedDateTime: 2020-12-14T20:10:00Z
-    webUrl: "https://www.denverpost.com/2020/12/14/electoral-college-biden-trump-colorado/"
-    ampWebUrl: "https://www.denverpost.com/2020/12/14/electoral-college-biden-trump-colorado/amp/"
-    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/12/14/electoral-college-biden-trump-colorado/amp/"
-    type: article
-    provider:
-      name: The Denver Post
-      domain: denverpost.com
-    quality: 85
-    images:
-      - url: "https://www.denverpost.com/wp-content/uploads/2020/12/AP20349797001436.jpg?w=1024&h=647"
-        width: 1024
-        height: 647
-        isCached: true
-  - title: "Mike Pence will preside over Biden's final victory. 'Then he'll likely skip town.'"
-    excerpt: "Vice President Mike Pence, as president of the Senate, has the awkward responsibility of overseeing President-elect Joe Biden's final victory — and President Trump's official defeat — with the formal counting of Electoral College votes at a special Jan."
-    publishedDateTime: 2020-12-17T13:31:00Z
-    webUrl: "https://theweek.com/speedreads/955761/mike-pence-preside-over-bidens-final-victory-hell-likely-skip-town"
-    ampWebUrl: "https://bypass.theweek.com/speedreads-amp/955761/mike-pence-preside-over-bidens-final-victory-hell-likely-skip-town"
-    cdnAmpWebUrl: "https://bypass-theweek-com.cdn.ampproject.org/c/s/bypass.theweek.com/speedreads-amp/955761/mike-pence-preside-over-bidens-final-victory-hell-likely-skip-town"
-    type: article
-    provider:
-      name: THE WEEK
-      domain: theweek.com
-    quality: 84
-    images:
-      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1289450911.jpg?itok=AQpcQH7p&resize=450x300"
-        width: 450
-        height: 300
-        isCached: true
-  - title: "Michigan's Electoral College delegates cast all 16 votes for Joe Biden, Kamala Harris"
-    excerpt: "By law, Michigan delegates to the Electoral College are required to cast their votes for the winner of the popular vote."
-    publishedDateTime: 2020-12-14T00:00:00Z
-    webUrl: "https://www.cincinnati.com/story/news/politics/elections/2020/12/14/michigans-electoral-college-16-votes-joe-biden-kamala-harris/6538683002/"
-    ampWebUrl: "https://amp.cincinnati.com/amp/6538683002"
-    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/6538683002"
-    type: article
-    provider:
-      name: Cincinnati Enquirer
-      domain: cincinnati.com
-    quality: 83
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/14/PDTF/8855f26a-225d-4845-9a4d-876b9a8fd6dd-GTY_AFP_8X66JW.jpg.jpg?auto=webp&crop=3910,2200,x0,y198&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Michigan's Electoral College delegates cast all 16 votes for Joe Biden, Kamala Harris"
-    excerpt: "By law, Michigan delegates to the Electoral College are required to cast their votes for the winner of the popular vote."
-    publishedDateTime: 2020-12-14T23:15:00Z
-    webUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/12/14/michigans-electoral-college-16-votes-joe-biden-kamala-harris/6538683002/"
-    ampWebUrl: "https://amp.desmoinesregister.com/amp/6538683002"
-    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/6538683002"
-    type: article
-    provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
-    quality: 83
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/14/PDTF/8855f26a-225d-4845-9a4d-876b9a8fd6dd-GTY_AFP_8X66JW.jpg.jpg?auto=webp&crop=3910,2200,x0,y198&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Politics live updates: Tickets to Joe Biden, Kamala Harris swearing-in ceremony to be limited"
-    excerpt: "Pete Buttigieg is scheduled to appear with Biden Wednesday for a formal announcement. On Twitter, he called the nomination a \"tremendous opportunity.\""
-    publishedDateTime: 2020-12-16T14:17:00Z
-    webUrl: "https://www.freep.com/story/news/politics/2020/12/16/politics-updates-biden-introduce-buttigieg-incoming-dot-chief/3916579001/"
-    ampWebUrl: "https://amp.freep.com/amp/3916579001"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3916579001"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 79
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/16/USAT/36266745-f2f2-4cd8-ae8a-afc00b0c588c-GTY_1230145961.jpg?auto=webp&crop=5288,2975,x0,y352&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Politics live updates: Tickets to Joe Biden, Kamala Harris swearing-in ceremony to be limited"
-    excerpt: "Invitations to members of Congress will be limited to themselves and one guest, similar to the audience for a State of the Union address."
-    publishedDateTime: 2020-12-18T16:44:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/2020/12/16/politics-updates-biden-introduce-buttigieg-incoming-dot-chief/3916579001/"
-    ampWebUrl: "https://amp.azcentral.com/amp/3916579001"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3916579001"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 79
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/16/USAT/36266745-f2f2-4cd8-ae8a-afc00b0c588c-GTY_1230145961.jpg?auto=webp&crop=5288,2975,x0,y352&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Mike Pence to receive COVID-19 vaccine Friday; Joe Biden will get vaccinated as soon as next week"
-    excerpt: "Vice President Mike Pence will get the COVID-19 vaccine publicly Friday, while President-elect Joe Biden will get vaccinated as soon as next week."
-    publishedDateTime: 2020-12-16T00:00:00Z
-    webUrl: "https://www.statesman.com/story/news/politics/2020/12/16/mike-pence-joe-biden-both-vaccinated-covid-19-coming-days/3933565001/"
-    ampWebUrl: "https://amp.statesman.com/amp/3933565001"
-    cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/3933565001"
-    type: article
-    provider:
-      name: Austin American-Statesman
-      domain: statesman.com
-    quality: 77
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/25/USAT/a604c818-a3fd-473c-9581-fe528141bf4a-Pence_in_Tally.jpg?auto=webp&crop=3599,2025,x0,y120&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Mike Pence to receive COVID-19 vaccine Friday; Joe Biden will get vaccinated as soon as next week"
-    excerpt: "Vice President Mike Pence will get the COVID-19 vaccine publicly Friday, while President-elect Joe Biden will get vaccinated as soon as next week."
-    publishedDateTime: 2020-12-17T00:40:00Z
-    webUrl: "https://www.freep.com/story/news/politics/2020/12/16/mike-pence-joe-biden-both-vaccinated-covid-19-coming-days/3933565001/?itm_source=parsely-api"
-    ampWebUrl: "https://amp.freep.com/amp/3933565001"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3933565001"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 77
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/25/USAT/a604c818-a3fd-473c-9581-fe528141bf4a-Pence_in_Tally.jpg?auto=webp&crop=3599,2025,x0,y120&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "How Kamala Harris's Vice Presidency Impacts Your Finances"
-    excerpt: "The future VP has proposals that could affect your housing costs, your income, and the minimum wage you can earn. Here's what you need to know."
-    publishedDateTime: 2020-12-10T15:03:00Z
-    webUrl: "https://www.fool.com/personal-finance/2020/12/10/how-kamala-harriss-vice-presidency-impacts-your-fi/"
-    ampWebUrl: "https://www.fool.com/amp/personal-finance/2020/12/10/how-kamala-harriss-vice-presidency-impacts-your-fi/"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/personal-finance/2020/12/10/how-kamala-harriss-vice-presidency-impacts-your-fi/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 75
-    images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F604216%2Fthe_white_house_and_treesoriginal.jpg&w=1200&op=resize"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "The Latest: Capitol police officer accompanies Kamala Harris"
-    excerpt: "As the sun rose over Washington’s Freedom Plaza between the U.S. Capitol and the White House ahead of Joe Biden’s presidential inauguration, clusters of soldiers in full battle fatigues clustered"
-    publishedDateTime: 2021-01-20T14:09:00Z
-    webUrl: "https://www.mercurynews.com/2021/01/20/the-latest-capitol-police-officer-accompanies-kamala-harris/"
-    ampWebUrl: "https://www.mercurynews.com/2021/01/20/the-latest-biden-harris-inauguration-ceremony-begins/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/01/20/the-latest-biden-harris-inauguration-ceremony-begins/amp/"
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 75
-    images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2021/01/Biden_Inauguration_Security_98269-1.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Time magazine names President-elect Joe Biden, Vice President-elect Kamala Harris as Person of the Year"
-    excerpt: "Joe Biden and Kamala Harris, the president-elect and vice president-elect, were named Time magazine's Person of the Year."
-    publishedDateTime: 2020-12-11T04:52:00Z
-    webUrl: "https://www.freep.com/story/news/nation/2020/12/10/joe-biden-kamala-harris-time-magazine-person-year/3890559001/"
-    ampWebUrl: "https://amp.freep.com/amp/3890559001"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3890559001"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 74
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/11/USAT/381eddb6-c7e9-491a-b103-1ce0310e824f-TIM201221_MAIN.coverFINAL.jpg?auto=webp&crop=2362,1329,x1,y773&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "President-elect Joe Biden, Vice President-elect Kamala Harris named Time magazine’s persons of the year"
-    excerpt: "Time’s editor-in-chief Edward Felsenthal says Biden and Harris won for “changing the American story, for showing that the forces of empathy are greater than the furies of division, for sharing a vision of healing in a grieving world."
-    publishedDateTime: 2020-12-11T19:44:00Z
-    webUrl: "https://www.dailypress.com/entertainment/ct-ent-time-magazine-biden-harris-20201211-iy7l2cw6nra3fbrzhz4a4gckuq-story.html"
-    ampWebUrl: "https://www.dailypress.com/entertainment/ct-ent-time-magazine-biden-harris-20201211-iy7l2cw6nra3fbrzhz4a4gckuq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/entertainment/ct-ent-time-magazine-biden-harris-20201211-iy7l2cw6nra3fbrzhz4a4gckuq-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Daily Press
-      domain: dailypress.com
-    quality: 74
-    images:
-      - url: "https://www.dailypress.com/resizer/BSq3Ak_medhh77iDHliMazeaj9g=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PQPYHWKY3V6EVJEUIRLJGAFQKA.aspx"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "President-elect Joe Biden, Vice President-elect Kamala Harris named Time magazine’s persons of the year"
-    excerpt: "Time’s editor-in-chief Edward Felsenthal says Biden and Harris won for “changing the American story, for showing that the forces of empathy are greater than the furies of division, for sharing a vision of healing in a grieving world."
-    publishedDateTime: 2020-12-13T01:27:00Z
-    webUrl: "https://www.courant.com/entertainment/ct-ent-time-magazine-biden-harris-20201211-iy7l2cw6nra3fbrzhz4a4gckuq-story.html"
-    ampWebUrl: "https://www.courant.com/entertainment/ct-ent-time-magazine-biden-harris-20201211-iy7l2cw6nra3fbrzhz4a4gckuq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/entertainment/ct-ent-time-magazine-biden-harris-20201211-iy7l2cw6nra3fbrzhz4a4gckuq-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Hartford Courant
-      domain: courant.com
-    quality: 74
-    images:
-      - url: "https://www.courant.com/resizer/BSq3Ak_medhh77iDHliMazeaj9g=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PQPYHWKY3V6EVJEUIRLJGAFQKA.aspx"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "How Massachusetts electors made history when they elected Joe Biden and Kamala Harris to the White House"
-    excerpt: "Massachusetts' 11 electors cast their votes for Joe Biden and Kamala Harris. Their votes were historic in more ways than one."
-    publishedDateTime: 2020-12-15T03:51:00Z
-    webUrl: "https://www.masslive.com/politics/2020/12/how-massachusetts-electors-made-history-when-they-elected-joe-biden-and-kamala-harris-to-the-white-house.html"
-    ampWebUrl: "https://www.masslive.com/politics/2020/12/how-massachusetts-electors-made-history-when-they-elected-joe-biden-and-kamala-harris-to-the-white-house.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/12/how-massachusetts-electors-made-history-when-they-elected-joe-biden-and-kamala-harris-to-the-white-house.html?outputType=amp"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 73
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/25T54CSN25CMVD6C7P55YEJPP4.jpg"
-        width: 4032
-        height: 3024
-        isCached: true
-  - title: "Vice President Mike Pence Gets Covid Vaccine, Fauci Says ‘I'm Ready to Go'"
-    excerpt: "Dr. Anthony Fauci said he hopes to get vaccinated against Covid-19 next week, as the U.S. rolls out the initial doses. Vice President Mike Pence and his wife, Karen, received inoculations Friday for Covid-19 on live national television,"
-    publishedDateTime: 2020-12-19T11:19:00Z
-    webUrl: "https://www.nbcnewyork.com/news/business/money-report/dr-fauci-hopes-to-get-the-covid-vaccine-next-week-vice-president-pence-was-immunized-friday/2788899/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/dr-fauci-hopes-to-get-the-covid-vaccine-next-week-vice-president-pence-was-immunized-friday/2788899/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/dr-fauci-hopes-to-get-the-covid-vaccine-next-week-vice-president-pence-was-immunized-friday/2788899/?amp"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 73
-    images:
-      - url: "https://media.nbcnewyork.com/2020/12/106813442-1608298791436-gettyimages-1230191551-AFP_8XE34L.jpeg?resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Kamala Harris to campaign in Georgia next week on behalf of Senate candidates"
-    excerpt: "ATLANTA — Vice President-elect Kamala Harris will visit Georgia next week to campaign on behalf of Democratic Senate candidates Jon Ossoff and Rev. Raphael Warnock, the Ossoff campaign confirmed Friday."
-    publishedDateTime: 2020-12-18T15:13:00Z
-    webUrl: "https://www.11alive.com/article/news/politics/kamala-harris-georgia-campaign-stops-next-week/85-d20be8aa-2e7e-40a0-9307-115b5dfa074b"
-    ampWebUrl: "https://www.11alive.com/amp/article/news/politics/kamala-harris-georgia-campaign-stops-next-week/85-d20be8aa-2e7e-40a0-9307-115b5dfa074b"
-    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/politics/kamala-harris-georgia-campaign-stops-next-week/85-d20be8aa-2e7e-40a0-9307-115b5dfa074b"
-    type: article
-    provider:
-      name: 11Alive
-      domain: 11alive.com
-    quality: 72
-    images:
-      - url: "https://media.11alive.com/assets/WXIA/images/4ea913bb-bfcd-43f4-bcd4-9344687709d7/4ea913bb-bfcd-43f4-bcd4-9344687709d7_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "Kamala Harris to campaign in Georgia next week on behalf of Senate candidates"
-    excerpt: "ATLANTA — Vice President-elect Kamala Harris will visit Georgia next week to campaign on behalf of Democratic Senate candidates Jon Ossoff and Rev. Raphael Warnock, the Ossoff campaign confirmed Friday."
-    publishedDateTime: 2020-12-19T15:13:00Z
-    webUrl: "https://www.firstcoastnews.com/article/news/politics/kamala-harris-georgia-campaign-stops-next-week/85-d20be8aa-2e7e-40a0-9307-115b5dfa074b"
-    ampWebUrl: "https://www.firstcoastnews.com/amp/article/news/politics/kamala-harris-georgia-campaign-stops-next-week/85-d20be8aa-2e7e-40a0-9307-115b5dfa074b"
-    cdnAmpWebUrl: "https://www-firstcoastnews-com.cdn.ampproject.org/c/s/www.firstcoastnews.com/amp/article/news/politics/kamala-harris-georgia-campaign-stops-next-week/85-d20be8aa-2e7e-40a0-9307-115b5dfa074b"
-    type: article
-    provider:
-      name: First Coast News
-      domain: firstcoastnews.com
-    quality: 72
-    images:
-      - url: "https://media.firstcoastnews.com/assets/WXIA/images/4ea913bb-bfcd-43f4-bcd4-9344687709d7/4ea913bb-bfcd-43f4-bcd4-9344687709d7_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "Joe Biden and Kamala Harris Jointly Named Time's 'Person of the Year'"
-    excerpt: "Democratic presidential candidate and former Vice President Joe Biden and U.S. Senator and Democratic candidate for Vice President Kamala Harris celebrate outside the"
-    publishedDateTime: 2020-12-12T01:44:00Z
-    webUrl: "https://www.usnews.com/news/world/articles/2020-12-10/four-finalists-vie-for-times-person-of-the-year-for-2020"
-    ampWebUrl: "https://www.usnews.com/news/world/articles/2020-12-10/four-finalists-vie-for-times-person-of-the-year-for-2020?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2020-12-10/four-finalists-vie-for-times-person-of-the-year-for-2020?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 70
-  - title: "Mike Pence to receive the COVID-19 vaccine publicly Friday; Joe Biden will get vaccinated as soon as next week"
-    excerpt: "President-elect Joe Biden and Vice President Mike Pence are set to receive the COVID-19 vaccine soon. According to two transition officials familiar with the matter, Biden will receive the vaccine publicly as early as next week."
-    publishedDateTime: 2020-12-18T04:11:00Z
-    webUrl: "https://www.courant.com/coronavirus/ct-nw-coronavirus-vaccine-updates-20201216-c6tg5amn4falrjgbtn3qz6ecbu-story.html"
-    ampWebUrl: "https://www.courant.com/coronavirus/ct-nw-coronavirus-vaccine-updates-20201216-c6tg5amn4falrjgbtn3qz6ecbu-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/coronavirus/ct-nw-coronavirus-vaccine-updates-20201216-c6tg5amn4falrjgbtn3qz6ecbu-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Hartford Courant
-      domain: courant.com
-    quality: 70
-    images:
-      - url: "https://www.courant.com/resizer/hYN6EUFAOTPNMejHaG53Z3Ee8s4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/HCKIMEA6QG5AJ3X3SLM52NSIDE.aspx"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Kamala Harris, Ivanka Trump making appeals to Georgia voters"
-    excerpt: "Monday's appearances were part of a string of pre-runoff visits by high-profile surrogates of the outgoing president and the president-elect."
-    publishedDateTime: 2020-12-21T22:09:00Z
-    webUrl: "https://www.bostonglobe.com/2020/12/21/nation/kamala-harris-ivanka-trump-making-appeals-georgia-voters/"
-    ampWebUrl: "https://www.bostonglobe.com/2020/12/21/nation/kamala-harris-ivanka-trump-making-appeals-georgia-voters/?outputType=amp"
-    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/12/21/nation/kamala-harris-ivanka-trump-making-appeals-georgia-voters/?outputType=amp"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 70
-  - title: "Connecticut’s presidential electors cast 7 ballots for Democrats Joe Biden and Kamala Harris in Electoral College"
-    excerpt: "Connecticut’s seven Democratic electors voted for President-elect Joe Biden during a noontime Electoral College ceremony at the state Capitol Monday, placing their individual paper ballots in a historic,"
-    publishedDateTime: 2020-12-15T16:56:00Z
-    webUrl: "https://www.courant.com/politics/hc-pol-connecticut-electors-for-joe-biden-20201214-hcfhgnh6fbgtvknc27pomqazcy-story.html"
-    ampWebUrl: "https://www.courant.com/politics/hc-pol-connecticut-electors-for-joe-biden-20201214-hcfhgnh6fbgtvknc27pomqazcy-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/politics/hc-pol-connecticut-electors-for-joe-biden-20201214-hcfhgnh6fbgtvknc27pomqazcy-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Hartford Courant
-      domain: courant.com
-    quality: 69
-    images:
-      - url: "https://www.courant.com/resizer/jApQITGhzn7otSTJ_mC2JNija8Y=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NLD44KDXDDUMYDJCN4FGGFUQGM.jpg"
-        width: 1200
-        height: 820
-        isCached: true
-  - title: "Donald Trump, Mike Pence, Congress, Supreme Court will be offered COVID-19 vaccine in coming days, officials say"
-    excerpt: "It was not clear if President-elect Joe Biden, Vice President-elect Kamala Harris and members of his transition team would get early vaccinations."
-    publishedDateTime: 2020-12-16T08:25:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/2020/12/13/trump-pence-congress-supreme-court-coronavirus-vaccine/6533449002/"
-    ampWebUrl: "https://amp.azcentral.com/amp/6533449002"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6533449002"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 69
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/13/USAT/a52e7e4e-e2be-44bf-87a8-e608c83418cc-GTY_1230113245.jpg?auto=webp&crop=3620,2036,x934,y796&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump Says He Is Not Involved in Potential Prosecution of Biden's Son Hunter"
-    excerpt: "President Donald Trump said on Thursday that he had nothing to do with any potential prosecution of President-elect Joe Biden's son, Hunter, who has disclosed that his taxes are being investigated by a federal prosecutor in Delaware."
-    publishedDateTime: 2020-12-18T00:08:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2020-12-17/trump-says-he-is-not-involved-in-potential-prosecution-of-hunter-biden"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-12-17/trump-says-he-is-not-involved-in-potential-prosecution-of-hunter-biden?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-12-17/trump-says-he-is-not-involved-in-potential-prosecution-of-hunter-biden?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 67
-  - title: "Wisconsin's 10 electoral votes were officially cast for Joe Biden and Kamala Harris"
-    excerpt: "Democratic electors met with Gov. Tony Evers' to finalize the state's 10 electoral votes for President-elect Biden and Vice President-elect Kamala Harris,"
-    publishedDateTime: 2020-12-14T23:40:00Z
-    webUrl: "https://www.jsonline.com/videos/news/2020/12/14/joe-biden-and-kamala-harris-get-wisconsins-10-electoral-votes/6549689002/"
-    type: article
-    provider:
-      name: Milwaukee Journal Sentinel
-      domain: jsonline.com
-    quality: 64
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/14/PMJS/74ab24df-502a-4778-b0d8-f3e190494555-AP_Electoral_College_Wisconsin.jpg?quality=10"
-        width: 4192
-        height: 2795
-        isCached: true
-  - title: "Fox’s Kilmeade Goes OFF on Hunter Biden Tax Investigation, Suggests It Could Cost Joe the Presidency: ‘Good News for Kamala Harris’"
-    excerpt: "Fox News' Brian Kilmeade suggested that Joe Biden's presidency might be brought to an early end over the investigation into his son, Hunter."
-    publishedDateTime: 2020-12-10T14:02:00Z
-    webUrl: "https://www.mediaite.com/tv/foxs-kilmeade-goes-off-on-hunter-biden-tax-investigation-suggests-it-could-cost-joe-the-presidency-good-news-for-kamala-harris/"
-    ampWebUrl: "https://www.mediaite.com/tv/foxs-kilmeade-goes-off-on-hunter-biden-tax-investigation-suggests-it-could-cost-joe-the-presidency-good-news-for-kamala-harris/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/foxs-kilmeade-goes-off-on-hunter-biden-tax-investigation-suggests-it-could-cost-joe-the-presidency-good-news-for-kamala-harris/amp/"
-    type: article
-    provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 60
-    images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/12/Screen-Shot-2020-12-10-at-8.36.42-AM-1200x674.jpg"
-        width: 1200
-        height: 674
-        isCached: true
-  - title: "Illinois casts all 20 electoral votes for Joe Biden and Kamala Harris; Mayor Lori Lightfoot wielded gavel as electors cast ballots"
-    excerpt: "Secretary of State Jesse White, who officially oversees the quadrennial session, passed the gavel to Mayor Lori Lightfoot, an elector."
-    publishedDateTime: 2020-12-14T17:52:00Z
-    webUrl: "https://chicago.suntimes.com/elections/2020/12/14/22174386/illinois-electoral-votes-joe-biden-kamala-harris-mayor-lori-lightfoot-presided"
-    ampWebUrl: "https://chicago.suntimes.com/platform/amp/elections/2020/12/14/22174386/illinois-electoral-votes-joe-biden-kamala-harris-mayor-lori-lightfoot-presided"
-    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/elections/2020/12/14/22174386/illinois-electoral-votes-joe-biden-kamala-harris-mayor-lori-lightfoot-presided"
-    type: article
-    provider:
-      name: Chicago Sun-Times
-      domain: suntimes.com
-    quality: 60
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/bJoF6xLj2a3S0QfuWhN_CUU6A3w=/0x0:1440x900/1400x1050/filters:focal(659x407:889x637):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68510610/Electors.7.png"
-        width: 1400
-        height: 900
-        isCached: true
-  - title: "Kamala Harris Will Play Major Role As Vice President, Historian Says"
-    excerpt: "Historian Julian Zelizer writes that the vice president will be a major voice in the White House during the next four years."
-    publishedDateTime: 2020-12-08T16:50:00Z
-    webUrl: "https://www.wbur.org/hereandnow/2020/12/08/kamala-harris-voice-white-house"
-    type: article
-    provider:
-      name: WBUR
-      domain: wbur.org
-    quality: 55
-    images:
-      - url: "https://d279m997dpfwgl.cloudfront.net/wp/2016/06/HereandNow-3000b.jpg"
-        width: 3000
-        height: 3000
-        isCached: true
-  - title: "Why Trump's Latest Electoral College Ploy Is Doomed to Fail"
-    excerpt: "Even as President-elect Joe Biden’s victory was affirmed by the Electoral College, Republican electors supporting President Donald Trump met in a handful of battleground states won by Biden and tried to appoint themselves as “alternate electors\" that could keep the president in office."
-    publishedDateTime: 2020-12-14T22:48:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-14/why-trumps-latest-electoral-college-ploy-is-doomed-to-fail"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-14/why-trumps-latest-electoral-college-ploy-is-doomed-to-fail?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-14/why-trumps-latest-electoral-college-ploy-is-doomed-to-fail?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
-  - title: "California Secretary of State Alex Padilla appointed to replace Vice President-elect Kamala Harris in US Senate"
-    excerpt: "California Gov. Gavin Newsom appointed Secretary of State Alex Padilla on Tuesday as the state’s next U.S. senator to fill the seat being vacated by Vice President-elect Kamala Harris."
-    publishedDateTime: 2020-12-22T21:32:00Z
-    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-kamala-harris-senate-replacement-alex-padilla-20201222-76fpd657ijexlkibk2er4zgghq-story.html"
-    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-kamala-harris-senate-replacement-alex-padilla-20201222-76fpd657ijexlkibk2er4zgghq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-nw-kamala-harris-senate-replacement-alex-padilla-20201222-76fpd657ijexlkibk2er4zgghq-story.html?outputType=amp"
+  - title: "Trump’s Senate impeachment trial could begin on day of Joe Biden’s inauguration"
+    excerpt: "The impeachment trial timeline and schedule are largely set by Senate procedures and will start as soon as the House delivers the article of impeachment."
+    publishedDateTime: 2021-01-14T20:11:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-trump-impeachment-senate-trial-20210114-adbtyldlkbehdbnl4gpltd56om-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-trump-impeachment-senate-trial-20210114-adbtyldlkbehdbnl4gpltd56om-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-nw-trump-impeachment-senate-trial-20210114-adbtyldlkbehdbnl4gpltd56om-story.html?outputType=amp"
     type: article
     provider:
       name: The Baltimore Sun
       domain: baltimoresun.com
-    quality: 55
+    quality: 86
     images:
-      - url: "https://www.baltimoresun.com/resizer/5ATYffOF0ZO402fX-cvjaBMN16I=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/AQFJJLD55NDNPLXH2H6CLLNZWQ.aspx"
+      - url: "https://www.baltimoresun.com/resizer/uc7JsXO_wNaKxuBank7JHQYgerU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/4GOQL42XQBC6VEXMWNCTVGDZKU.jpg"
         width: 1200
         height: 675
         isCached: true
-  - title: "NY Electors Cast Votes for Biden, Harris in Brief Ceremony"
-    excerpt: "New York’s 29 presidential electors awarded their votes to Joe Biden and running mate Kamala Harris Monday on Monday."
-    publishedDateTime: 2020-12-14T18:41:00Z
-    webUrl: "https://www.usnews.com/news/best-states/new-york/articles/2020-12-14/ny-electors-cast-votes-for-biden-harris-in-brief-ceremony"
+  - title: "We Must Impeach Donald Trump Again"
+    excerpt: "\"The House and Senate should give those members who objected to the counting of the electoral votes – and who stoked the fear and paranoia of the mob – an opportunity to withdraw their baseless objections."
+    publishedDateTime: 2021-01-07T00:28:00Z
+    webUrl: "https://time.com/5927034/impeach-donald-trump-again/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 85
+  - title: "Impeachment Was the GOP's Last Chance to Quit Donald Trump"
+    excerpt: "How the GOP reckons with Trump as he leaves office is the question on which the future of American politics depends."
+    publishedDateTime: 2021-01-14T02:45:00Z
+    webUrl: "https://time.com/5929618/donald-trump-impeachment-republicans/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 85
+  - title: "Michael Cohen writes foreword for Trump impeachment book"
+    excerpt: "NEW YORK (AP) — A bound edition of materials about President Donald Trump’s second impeachment will feature a foreword from an estranged associate — former Trump attorney Michael Cohen. Skyhorse Publishing announced that “The Second Impeachment ..."
+    publishedDateTime: 2021-01-16T06:46:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/books/2021/01/15/trump-impeachment-book-michael-cohen-writes-foreword/4175351001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 85
+  - title: "U.S. imposes fresh sanctions on Iran in final days of Trump presidency"
+    excerpt: "The United States on Friday imposed sanctions on companies in Iran, China and the United Arab Emirates for doing business with the Islamic Republic of Iran Shipping Lines and on three Iranian entities over conventional arms proliferation."
+    publishedDateTime: 2021-01-16T06:56:00Z
+    webUrl: "https://www.reuters.com/article/us-iran-usa-sanctions/us-plans-fresh-iran-sanctions-related-to-metals-conventional-arms-idUSKBN29K1M0"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 85
+  - title: "VP Mike Pence, at Lemoore naval base stop, salutes troops and Trump policy achievements"
+    excerpt: "Vice President Mike Pence landed Saturday at Lemoore Naval Air Station, where he will pay tribute to what he views as the Trump Administration’s foreign policy legacy in an afternoon address to service members."
+    publishedDateTime: 2021-01-16T20:18:00Z
+    webUrl: "https://www.fresnobee.com/news/politics-government/article248540260.html"
+    ampWebUrl: "https://amp.fresnobee.com/news/politics-government/article248540260.html"
+    cdnAmpWebUrl: "https://amp-fresnobee-com.cdn.ampproject.org/c/s/amp.fresnobee.com/news/politics-government/article248540260.html"
+    type: article
+    provider:
+      name: The Fresno Bee
+      domain: fresnobee.com
+    quality: 82
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5596404782001/3ddd32a3-0ae5-48e6-9ed7-4f6b126a2095/0318bcfc-878c-4237-b513-931da9905af2/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "The lies Trump told just before protesters stormed Capitol"
+    excerpt: "Trump has been telling wildly false tales about the election outcome for two months in a flailing effort to upend Biden’s win. Trump didn’t pull back now, in a moment of reckoning that is sure to seal his defeat despite the chaos and moves by some of his allies in Congress to drag out the certification of the Electoral College results."
+    publishedDateTime: 2021-01-06T19:51:00Z
+    webUrl: "https://www.al.com/news/2021/01/the-lies-trump-told-just-before-protesters-stormed-capitol.html"
+    ampWebUrl: "https://www.al.com/news/2021/01/the-lies-trump-told-just-before-protesters-stormed-capitol.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/the-lies-trump-told-just-before-protesters-stormed-capitol.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/2G32ZKKSVVDXFC3YPWF77BU4H4.jpg"
+        width: 3335
+        height: 2223
+        isCached: true
+  - title: "U.S. Capitol locked down as Trump supporters clash with police"
+    excerpt: "The U.S. Capitol locked down Wednesday with lawmakers inside as violent clashes broke out between supporters of President Donald Trump and police. An announcement was played inside the Capitol as lawmakers were meeting and expected to vote to affirm Joe Biden’s victory."
+    publishedDateTime: 2021-01-06T17:52:00Z
+    webUrl: "https://www.al.com/news/2021/01/us-capitol-locked-down-as-trump-supporters-clash-with-police.html"
+    ampWebUrl: "https://www.al.com/news/2021/01/us-capitol-locked-down-as-trump-supporters-clash-with-police.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/us-capitol-locked-down-as-trump-supporters-clash-with-police.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/LARV2ZXNCFFH3BFPCWAVDLIABA.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Education head Betsy DeVos quits, citing Trump rhetoric"
+    excerpt: "Education Secretary Betsy DeVos has become the second Cabinet secretary to resign a day after a pro-Trump insurrection at the U.S. Capitol."
+    publishedDateTime: 2021-01-08T02:24:00Z
+    webUrl: "https://www.al.com/politics/2021/01/education-head-betsy-devos-quits-citing-trump-rhetoric.html"
+    ampWebUrl: "https://www.al.com/politics/2021/01/education-head-betsy-devos-quits-citing-trump-rhetoric.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/politics/2021/01/education-head-betsy-devos-quits-citing-trump-rhetoric.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/OUT4FPPVBRDODDU6AFMGOWDWRI.jpg"
+        width: 3162
+        height: 2108
+        isCached: true
+  - title: "How Dangerous Is Trump? Experts, Lawmakers Question His Mental Fitness"
+    excerpt: "Calls are growing for the president's removal under the 25th Amendment -- or impeachment."
+    publishedDateTime: 2021-01-08T15:18:00Z
+    webUrl: "https://www.ibtimes.com/how-dangerous-trump-experts-lawmakers-question-his-mental-fitness-3117482"
+    ampWebUrl: "https://www.ibtimes.com/how-dangerous-trump-experts-lawmakers-question-his-mental-fitness-3117482?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/how-dangerous-trump-experts-lawmakers-question-his-mental-fitness-3117482?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/07/us-president-donald-trump-whips-up-the-crowd.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Latest Updates: Twitter Bans President Donald Trump"
+    excerpt: "Angry supporters of President Donald Trump stormed the U.S. Capitol on Wednesday in a chaotic protest aimed at thwarting a peaceful transfer of power, forcing lawmakers to be rushed from the building and interrupting challenges to Joe Biden’s Electoral College victory."
+    publishedDateTime: 2021-01-08T23:35:00Z
+    webUrl: "https://www.nbcnewyork.com/news/politics/latest-updates-more-admin-officials-resign-after-trump-fueled-riot/2819815/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/politics/latest-updates-more-admin-officials-resign-after-trump-fueled-riot/2819815/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/politics/latest-updates-more-admin-officials-resign-after-trump-fueled-riot/2819815/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 75
+    images:
+      - url: "https://media.nbcnewyork.com/2021/01/GettyImages-1230468912-1.jpg?resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Will Donald Trump Try to Take His Act to TikTok?"
+    excerpt: "I asked TikTok, which the outgoing U.S. president spent the second half of 2020 trying to ban, whether it would join other social networks in refusing Trump access to its app, should he want to join."
+    publishedDateTime: 2021-01-09T05:11:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/01/will-donald-trump-try-to-take-his-act-to-tiktok.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/01/will-donald-trump-try-to-take-his-act-to-tiktok.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/01/will-donald-trump-try-to-take-his-act-to-tiktok.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/fac/982/32eb55cd34fdbfd7aa95ebac6d828b77f5-donald-trump-tik-tok.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 632
+        isCached: true
+  - title: "Stripped of Twitter account, Donald Trump seeks new online megaphone"
+    excerpt: "Twitter ended Donald Trump’s nearly 12-year run on Friday. In shuttering his account it cited a tweet to his 89 million followers that he planned to skip President-elect Joe Biden’s Jan. 20 inauguration that it said gave rioters license to converge on Washington once again."
+    publishedDateTime: 2021-01-10T00:28:00Z
+    webUrl: "https://www.al.com/politics/2021/01/stripped-of-twitter-account-donald-trump-seeks-new-online-megaphone.html"
+    ampWebUrl: "https://www.al.com/politics/2021/01/stripped-of-twitter-account-donald-trump-seeks-new-online-megaphone.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/politics/2021/01/stripped-of-twitter-account-donald-trump-seeks-new-online-megaphone.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/TSX7W4WCH5CT5MOMXABPVHQABY.png"
+        width: 503
+        height: 310
+        isCached: true
+  - title: "Nancy Pelosi says House will move to impeach Donald Trump"
+    excerpt: "Pelosi said that first the House will try to force Vice President Mike Pence and the Cabinet to oust Trump by invoking the 25th Amendment."
+    publishedDateTime: 2021-01-10T22:53:00Z
+    webUrl: "https://www.al.com/politics/2021/01/nancy-pelosi-says-house-will-move-to-impeach-donald-trump.html"
+    ampWebUrl: "https://www.al.com/politics/2021/01/nancy-pelosi-says-house-will-move-to-impeach-donald-trump.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/politics/2021/01/nancy-pelosi-says-house-will-move-to-impeach-donald-trump.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VI3E2I5XCZC4DOMAW4XAFNE4Y4.jpg"
+        width: 3802
+        height: 2719
+        isCached: true
+  - title: "Parler reportedly removes post from pro-Trump lawyer Lin Wood after calling for Mike Pence execution"
+    excerpt: "Parler hit further headwinds over the weekend after it reportedly removed a post by pro-Trump lawyer Lin Wood, where he threatened violence against Vice President Mike Pence."
+    publishedDateTime: 2021-01-10T22:35:00Z
+    webUrl: "https://www.freep.com/story/tech/2021/01/10/linwood-parler-social-network-removal-apple-google-amazon/6616756002/"
+    ampWebUrl: "https://amp.freep.com/amp/6616756002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6616756002"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/09/USAT/46c76774-43a8-4fc2-ba04-5b2cbf758c5b-AFP_AFP_8V989G.jpg?auto=webp&crop=3999,2249,x1,y33&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "PGA dumps Donald Trump’s golf course as 2022 championship host"
+    excerpt: "The PGA of America has cut its remaining tie with President Donald Trump, and it’s a major one. That means the 2022 PGA Championship needs a new home, as Trump Bedminster in New Jersey was set to host in just over two years."
+    publishedDateTime: 2021-01-11T14:28:00Z
+    webUrl: "https://www.mlive.com/sports/2021/01/pga-dumps-donald-trumps-golf-course-as-2022-championship-host.html"
+    ampWebUrl: "https://www.mlive.com/sports/2021/01/pga-dumps-donald-trumps-golf-course-as-2022-championship-host.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/sports/2021/01/pga-dumps-donald-trumps-golf-course-as-2022-championship-host.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/IT5UV3JIC5E4ZAH6X4JW73FR7M.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "State Department Website Mistakenly Announces End of Trump Presidency"
+    excerpt: "Secretary of State Mike Pompeo has ordered staff to investigate mysterious web postings announcing the end of Trump's term."
+    publishedDateTime: 2021-01-11T22:25:00Z
+    webUrl: "https://www.ibtimes.com/state-department-website-mistakenly-announces-end-trump-presidency-3119307"
+    ampWebUrl: "https://www.ibtimes.com/state-department-website-mistakenly-announces-end-trump-presidency-3119307?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/state-department-website-mistakenly-announces-end-trump-presidency-3119307?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/11/us-president-donald-trump-faces-a-possible-fast.jpg"
+        width: 1024
+        height: 711
+        isCached: true
+  - title: "Stripped of Social Media, Trump Remains Defiant"
+    excerpt: "In the wake of Trump losing his social-media accounts, the president isn't holding back his outrage and Twitter's San Francisco headquarters is bracing for possible protests."
+    publishedDateTime: 2021-01-11T16:58:00Z
+    webUrl: "https://www.ibtimes.com/stripped-social-media-trump-remains-defiant-3119081"
+    ampWebUrl: "https://www.ibtimes.com/stripped-social-media-trump-remains-defiant-3119081?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/stripped-social-media-trump-remains-defiant-3119081?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/08/twitter-permanently-suspended-president-donald-trumps-account-pictured.jpg"
+        width: 1024
+        height: 661
+        isCached: true
+  - title: "Donald Trump’s Republican wall eroding ahead of impeachment vote"
+    excerpt: "But with a sudden force, the wall of Republican support that has enabled Trump to weather a seemingly endless series of crises is beginning to erode. Trump’s weakened standing among his own party will come into sharper focus on Wednesday when the House is expected to impeach the president for inciting a riot at the U."
+    publishedDateTime: 2021-01-13T13:39:00Z
+    webUrl: "https://www.cleveland.com/nation/2021/01/donald-trumps-republican-wall-eroding-ahead-of-impeachment-vote.html"
+    ampWebUrl: "https://www.cleveland.com/nation/2021/01/donald-trumps-republican-wall-eroding-ahead-of-impeachment-vote.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2021/01/donald-trumps-republican-wall-eroding-ahead-of-impeachment-vote.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/4ZGO5EH3VREN3GDE3TMS7G657A.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "It’s Not a Sin — or a Crime — to Have Voted for Donald Trump"
+    excerpt: "I didn’t vote for Donald Trump either time. Blame me for Joe Biden, if you must. I don’t think that’s right. I think both times we faced two bad choices. The first time, I wrote in Carl Anderson from the Knights of Columbus,"
+    publishedDateTime: 2021-01-13T02:45:00Z
+    webUrl: "https://www.nationalreview.com/corner/its-not-a-sin-or-a-crime-to-have-voted-for-donald-trump/"
+    ampWebUrl: "https://www.nationalreview.com/corner/its-not-a-sin-or-a-crime-to-have-voted-for-donald-trump/amp/"
+    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/corner/its-not-a-sin-or-a-crime-to-have-voted-for-donald-trump/amp/"
+    type: article
+    provider:
+      name: National Review
+      domain: nationalreview.com
+    quality: 75
+    images:
+      - url: "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2020/10/donald-trump-rally-ocala-florida.jpg?resize=300%2C300&ssl=1"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Trump Impeached By House For Second Time, 232-197"
+    excerpt: "The House of Representatives on Wednesday approved an article of impeachment against President Donald Trump for “incitement of insurrection.” After the riots that overtook the"
+    publishedDateTime: 2021-01-13T21:59:00Z
+    webUrl: "https://www.ibtimes.com/trump-impeached-house-second-time-232-197-3121299"
+    ampWebUrl: "https://www.ibtimes.com/trump-impeached-house-second-time-232-197-3121299?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-impeached-house-second-time-232-197-3121299?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/12/us-president-donald-trump-says-impeachment-is-causing.jpg"
+        width: 1024
+        height: 684
+        isCached: true
+  - title: "U.S. House impeaches President Donald Trump for second time"
+    excerpt: "During debate on the articles of impeachment, House Speaker Nancy Pelosi asked Republicans and Democrats to “search their souls” ahead of the historic afternoon vote."
+    publishedDateTime: 2021-01-13T19:25:00Z
+    webUrl: "https://www.al.com/news/2021/01/us-house-impeaches-president-donald-trump-for-second-time.html"
+    ampWebUrl: "https://www.al.com/news/2021/01/us-house-impeaches-president-donald-trump-for-second-time.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/us-house-impeaches-president-donald-trump-for-second-time.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/5N2JIVEV2BBOFDALIDFNMOQI2U.jpg"
+        width: 4155
+        height: 2770
+        isCached: true
+  - title: "Who Are The 10 Republicans That Voted To Impeach Donald Trump?"
+    excerpt: "Ten Republicans joined Democrats in the House on Wednesday to impeach Donald Trump, making him the first president to be impeached twice. The article of impeachment accused President Trump of \"incitement of insurrection."
+    publishedDateTime: 2021-01-13T23:26:00Z
+    webUrl: "https://www.ibtimes.com/who-are-10-republicans-voted-impeach-donald-trump-3121356"
+    ampWebUrl: "https://www.ibtimes.com/who-are-10-republicans-voted-impeach-donald-trump-3121356?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/who-are-10-republicans-voted-impeach-donald-trump-3121356?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/12/16/democrats-are-pressuring-the-senates-republican-leader-to-AFP_1N46R9.jpg"
+        width: 1024
+        height: 703
+        isCached: true
+  - title: "Donald Trump stands largely silent, alone after 2nd impeachment"
+    excerpt: "Abandoned by some in his own party, President Donald Trump could do nothing but watch history unfold on television. The suspension of his Twitter account deprived Trump of his most potent means to"
+    publishedDateTime: 2021-01-14T16:31:00Z
+    webUrl: "https://www.ocregister.com/2021/01/14/donald-trump-stands-largely-silent-alone-after-2nd-impeachment/"
+    ampWebUrl: "https://www.ocregister.com/2021/01/14/donald-trump-stands-largely-silent-alone-after-2nd-impeachment/amp/"
+    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2021/01/14/donald-trump-stands-largely-silent-alone-after-2nd-impeachment/amp/"
+    type: article
+    provider:
+      name: Orange County Register
+      domain: ocregister.com
+    quality: 75
+    images:
+      - url: "https://www.ocregister.com/wp-content/uploads/2021/01/AP21012842773816-1.jpg?w=1024&h=657"
+        width: 1024
+        height: 657
+        isCached: true
+  - title: "Meet Nikema Williams, The Democrat Seeking Trump Capitol Ban"
+    excerpt: "Williams is filling the seat vacated by the late John Lewis She’s a long-time Democratic and LGBTQ activist Her resolution follows a push by a Georgia Republican to impeach Joe Biden A freshman Georgia Democrat tabled a resolution seeking to ban President Trump from the grounds of the Capitol building in Washington D."
+    publishedDateTime: 2021-01-15T12:26:00Z
+    webUrl: "https://www.ibtimes.com/meet-nikema-williams-democrat-seeking-trump-capitol-ban-3123134"
+    ampWebUrl: "https://www.ibtimes.com/meet-nikema-williams-democrat-seeking-trump-capitol-ban-3123134?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/meet-nikema-williams-democrat-seeking-trump-capitol-ban-3123134?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/15/nikema-williams.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Donald Trump’s Masculinity Is an Empty Spectacle"
+    excerpt: "Trump’s invocations of pussy —the one a boast, the other a threat—make fitting bookends to a presidency shaped by malignant masculinity. With pussy it began; to pussy it has returned. The Access Hollywood tape,"
+    publishedDateTime: 2021-01-17T21:14:00Z
+    webUrl: "https://www.theatlantic.com/culture/archive/2021/01/donald-trump-pussy-presidency/617699/"
+    ampWebUrl: "https://amp.theatlantic.com/amp/article/617699/"
+    cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/617699/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 75
+    images:
+      - url: "https://cdn.theatlantic.com/thumbor/X9dqtW690RZrlyUlmncN4iTF23o=/570x321/media/img/mt/2021/01/webart_pussypresident_final_copy/original.jpg"
+        width: 570
+        height: 321
+        isCached: true
+  - title: "Trump Wanted to Erase Obama’s Legacy. He Failed."
+    excerpt: "Trump was supposedly poised to wipe away Obama’s achievements. And in a broader sense, the 45th president seemed to have overturned the country’s very sense of itself that Obama had cultivated. Four years later,"
+    publishedDateTime: 2021-01-18T12:16:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/01/trump-wanted-to-erase-obamas-legacy-he-failed.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/01/trump-wanted-to-erase-obamas-legacy-he-failed.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/01/trump-wanted-to-erase-obamas-legacy-he-failed.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/dfa/daf/59b840bc23bd2e4c68bb72b13192dcf24e-obama-legacy.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 632
+        isCached: true
+  - title: "WWE Legend Wants Donald Trump Out Of Hall Of Fame Following Capitol Coup"
+    excerpt: "Mick Foley calls on the removal of Donald Trump from the Hall of Fame Vince McMahon has yet to respond to Foley and the U.S. Capitol riot Foley tells Trump to own up to the Capitol coup WWE legend Mick Foley decried the riot that took place at the Capitol Building in Washington D."
+    publishedDateTime: 2021-01-07T06:35:00Z
+    webUrl: "https://www.ibtimes.com/wwe-legend-wants-donald-trump-out-hall-fame-following-capitol-coup-3116391"
+    ampWebUrl: "https://www.ibtimes.com/wwe-legend-wants-donald-trump-out-hall-fame-following-capitol-coup-3116391?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/wwe-legend-wants-donald-trump-out-hall-fame-following-capitol-coup-3116391?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 74
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2014/01/27/mick-foley.jpg"
+        width: 433
+        height: 599
+        isCached: true
+  - title: "Chrissy Teigen, Other Celebs React To Donald Trump Being Impeached Twice"
+    excerpt: "Several celebrities including Chrissy Teigen, Jesse Tyler Ferguson and more reacted to Donald Trump being impeached twice. The president was impeached by the House of Representati"
+    publishedDateTime: 2021-01-14T06:14:00Z
+    webUrl: "https://www.ibtimes.com/chrissy-teigen-other-celebs-react-donald-trump-being-impeached-twice-3121752"
+    ampWebUrl: "https://www.ibtimes.com/chrissy-teigen-other-celebs-react-donald-trump-being-impeached-twice-3121752?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/chrissy-teigen-other-celebs-react-donald-trump-being-impeached-twice-3121752?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 74
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/12/the-cancelled-diplomatic-trips-round-off-four-tumultuous.jpg"
+        width: 1024
+        height: 677
+        isCached: true
+  - title: "Republicans Are Breaking Ranks on Impeachment. That's Good for Democrats — and Bad for Trump"
+    excerpt: "As the Democrats prepare to impeach Donald Trump for a second time, a few Republican votes could prove helpful for the Democrats. Here's why"
+    publishedDateTime: 2021-01-13T22:55:00Z
+    webUrl: "https://time.com/5929140/impeachment-republicans-donald-trump/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 74
+  - title: "Joe Bide, Donald Trump, Coronavirus news and more: What’s trending today"
+    excerpt: "A look at some of the top stories trending today including news on Joe Biden, Donald Trump's final days in office, coronavirus updates and much more."
+    publishedDateTime: 2021-01-19T16:16:00Z
+    webUrl: "https://www.cleveland.com/nation/2021/01/joe-bide-donald-trump-coronavirus-news-and-more-whats-trending-today.html"
+    ampWebUrl: "https://www.cleveland.com/nation/2021/01/joe-bide-donald-trump-coronavirus-news-and-more-whats-trending-today.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2021/01/joe-bide-donald-trump-coronavirus-news-and-more-whats-trending-today.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 74
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VZU3INCMZBB5DGJIPRCC6WNWD4.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Seth Meyers Rips Donald Trump After Capitol Riots: 'The President Wanted This'"
+    excerpt: "Talk show host Seth Meyers slammed President Donald Trump and the rioters for an attempt to destroy the American democracy by breaching Capitol Hill Wednesday."
+    publishedDateTime: 2021-01-08T06:22:00Z
+    webUrl: "https://www.ibtimes.com/seth-meyers-rips-donald-trump-after-capitol-riots-president-wanted-3117225"
+    ampWebUrl: "https://www.ibtimes.com/seth-meyers-rips-donald-trump-after-capitol-riots-president-wanted-3117225?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/seth-meyers-rips-donald-trump-after-capitol-riots-president-wanted-3117225?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 71
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/08/seth-meyers.jpg"
+        width: 1024
+        height: 681
+        isCached: true
+  - title: "US Congress Certifies Biden Win Over Trump"
+    excerpt: "Congress formally certified Joe Biden as the next US president on Thursday, dealing a hammer blow to Donald Trump whose supporters stormed the Capitol hours earlier, triggering unprecedented scenes of mayhem in the seat of American democracy."
+    publishedDateTime: 2021-01-07T09:27:00Z
+    webUrl: "https://www.ibtimes.com/us-congress-certifies-biden-win-over-trump-3115809"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 70
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/06/supporters-of-us-president-donald-trump-gather-for.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Biden Condemns Trump As Calls Mount For His Removal From Office"
+    excerpt: "Supporters of US President Donald Trump gather for a rally in Washington Photo: AFP / Brendan Smialowski. As the top two Democrats in Congress called for Trump's immediate removal"
+    publishedDateTime: 2021-01-07T20:36:00Z
+    webUrl: "https://www.ibtimes.com/biden-condemns-trump-calls-mount-his-removal-office-3115809"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 70
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/06/supporters-of-us-president-donald-trump-gather-for.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Trump Impeachment Trial to Focus on His Attacks on Election"
+    excerpt: "President Donald Trump’s historic second impeachment could go to trial as soon as Inauguration Day, with U.S. senators serving not only as jurors but as shaken personal witnesses and victims of the deadly siege of the Capitol by a mob of his supporters."
+    publishedDateTime: 2021-01-15T00:33:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-14/trump-impeached-after-capitol-riot-in-historic-second-charge"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-14/trump-impeached-after-capitol-riot-in-historic-second-charge?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-14/trump-impeached-after-capitol-riot-in-historic-second-charge?context=amp"
     type: article
     provider:
       name: U.S. News & World Report
       domain: usnews.com
-    quality: 50
+    quality: 70
+  - title: "The NBA responded to Donald Trump-fueled Capitol rebellion with continued conformity"
+    excerpt: "In the aftermath of Wednesday’s seditious riots in Washington, D.C., two moments embodied the shortcomings of the nation’s response to the moment, and the limitations of polite reproach."
+    publishedDateTime: 2021-01-09T16:41:00Z
+    webUrl: "https://www.nydailynews.com/sports/basketball/ny-nba-capitol-riots-trump-20210109-zypmx5dz5je4rdsgc46ronpfei-story.html"
+    ampWebUrl: "https://www.nydailynews.com/sports/basketball/ny-nba-capitol-riots-trump-20210109-zypmx5dz5je4rdsgc46ronpfei-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/sports/basketball/ny-nba-capitol-riots-trump-20210109-zypmx5dz5je4rdsgc46ronpfei-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 68
+    images:
+      - url: "https://www.nydailynews.com/resizer/-wYVpAA1coBJZbUXehjSL_Ag4_8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7NEFLZHZBJTL5NL4H3ZOHVZ37Q.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "House Democrats vow to move forward with Trump impeachment if Vice President Mike Pence won’t invoke 25th Amendment"
+    excerpt: "Nancy Pelosi’s leadership team will seek a vote on a resolution calling on Vice President Mike Pence and Cabinet officials to invoke the 25th Amendment."
+    publishedDateTime: 2021-01-11T15:39:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-congress-trump-impeachment-20210111-py2ic672ufas3bycta2qhge5aq-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-congress-trump-impeachment-20210111-py2ic672ufas3bycta2qhge5aq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-nw-congress-trump-impeachment-20210111-py2ic672ufas3bycta2qhge5aq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 68
+    images:
+      - url: "https://www.baltimoresun.com/resizer/a4ZU_ph4DDjjkI1r7Y8KG-e-6MY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/I27GQJSG55AG7DPH5SFIEL4JZE.JPG"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Donald Trump Slammed On Twitter For Saying Capitol Rioters Didn't Represent The Country"
+    excerpt: "Donald Trump said the rioters at the Capitol did not represent the American public, and Twitter users agreed saying the violent protesters represented him."
+    publishedDateTime: 2021-01-08T06:29:00Z
+    webUrl: "https://www.ibtimes.com/donald-trump-slammed-twitter-saying-capitol-rioters-didnt-represent-country-3117207"
+    ampWebUrl: "https://www.ibtimes.com/donald-trump-slammed-twitter-saying-capitol-rioters-didnt-represent-country-3117207?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-slammed-twitter-saying-capitol-rioters-didnt-represent-country-3117207?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 67
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/28/us-president-donald-trump-is-facing-a-potential.jpg"
+        width: 1024
+        height: 661
+        isCached: true
+  - title: "Twitter Criticized For Donald Trump Ban, Accused Of Violating President's Free-Speech Rights"
+    excerpt: "Some Twitter users believe Twitter's permanent suspension of President Donald Trump's account is a violation of his free-speech rights."
+    publishedDateTime: 2021-01-12T02:45:00Z
+    webUrl: "https://www.ibtimes.com/twitter-criticized-donald-trump-ban-accused-violating-presidents-free-speech-rights-3119400"
+    ampWebUrl: "https://www.ibtimes.com/twitter-criticized-donald-trump-ban-accused-violating-presidents-free-speech-rights-3119400?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-criticized-donald-trump-ban-accused-violating-presidents-free-speech-rights-3119400?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 64
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/11/us-president-donald-trump-faces-a-possible-fast.jpg"
+        width: 1024
+        height: 711
+        isCached: true
+  - title: "New study examines how Donald Trump used Twitter to craft an alternate reality for his followers"
+    excerpt: "The study analyzed thousands of Trump's tweets to show how Trump used Twitter to craft a world where what he said was dogma."
+    publishedDateTime: 2021-01-17T08:30:00Z
+    webUrl: "https://www.cleveland.com/open/2021/01/new-study-examines-how-donald-trump-used-twitter-to-craft-an-alternate-reality-for-his-followers.html"
+    ampWebUrl: "https://www.cleveland.com/open/2021/01/new-study-examines-how-donald-trump-used-twitter-to-craft-an-alternate-reality-for-his-followers.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/open/2021/01/new-study-examines-how-donald-trump-used-twitter-to-craft-an-alternate-reality-for-his-followers.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 62
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/HDAMTR4D2ZFCRBMTOLQKLERYOE.jpg"
+        width: 3353
+        height: 2235
+        isCached: true
+  - title: "Maryland Rep. Jamie Raskin named lead impeachment manager for trial against President Donald Trump"
+    excerpt: "U.S. Rep. Jamie Raskin of Maryland was named lead manager for the impeachment trial of President Donald Trump, House Speaker Nancy Pelosi announced Tuesday night in a news release."
+    publishedDateTime: 2021-01-13T06:03:00Z
+    webUrl: "https://www.baltimoresun.com/politics/bs-md-pol-raskin-impeachment-manager-20210113-ftx5yje5ljaadmm3hkxutt4wbu-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/politics/bs-md-pol-raskin-impeachment-manager-20210113-ftx5yje5ljaadmm3hkxutt4wbu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/politics/bs-md-pol-raskin-impeachment-manager-20210113-ftx5yje5ljaadmm3hkxutt4wbu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 61
+    images:
+      - url: "https://www.baltimoresun.com/resizer/wEQjKi2FkQ6vYemv-7OBGv24CVs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/4CUEXNNRUPX73EPWWVNURUUNRM.aspx"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Calls Mount For Trump's Immediate Removal From Office"
+    excerpt: "The US Senate's top Democrat called on Thursday for President Donald Trump's immediate removal from office after his supporters stormed the Capitol in a shocking assault on the heart of American democracy."
+    publishedDateTime: 2021-01-07T17:44:00Z
+    webUrl: "https://www.ibtimes.com/calls-mount-trumps-immediate-removal-office-3115809"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/06/supporters-of-us-president-donald-trump-gather-for.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Major US Labor Federation Calls For Trump's Immediate Removal"
+    excerpt: "The largest trade union federation in the United States on Friday joined a growing chorus of business and political organizations calling for President Donald Trump's immediate removal from office following Wednesday's violent riot that he instigated."
+    publishedDateTime: 2021-01-08T19:54:00Z
+    webUrl: "https://www.ibtimes.com/major-us-labor-federation-calls-trumps-immediate-removal-3117665"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/08/trump-supporters-clashed-with-police-and-security-forces.jpg"
+        width: 1024
+        height: 681
+        isCached: true
+  - title: "Murdoch Empire Calls Time On Trump But Tries To Keep His Base Onside"
+    excerpt: "The storming of the US Capitol has triggered Rupert Murdoch's media empire to call time on Donald Trump, with The Wall Street Journal saying the president should resign and even acolytes on Fox News telling viewers he has reached the end of his shelf life."
+    publishedDateTime: 2021-01-08T22:15:00Z
+    webUrl: "https://www.ibtimes.com/murdoch-empire-calls-time-trump-tries-keep-his-base-onside-3117716"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/08/northwestern-university-professor-jon-marshall-says-now-that.jpg"
+        width: 1024
+        height: 708
+        isCached: true
+  - title: "The Latest: Trump Tweets That He Won't Attend Inauguration"
+    excerpt: "President Donald Trump is casting himself as the defender of those who voted for him as he begins his day on Twitter."
+    publishedDateTime: 2021-01-08T16:40:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-08/the-latest-house-dems-mulling-fast-track-trump-impeachment"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-08/the-latest-house-dems-mulling-fast-track-trump-impeachment?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-08/the-latest-house-dems-mulling-fast-track-trump-impeachment?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Twitter Permanently Suspends Trump As Presidency Crumbles"
+    excerpt: "President Donald Trump, already facing mounting calls to step down or risk impeachment, suffered further ignominy Friday when Twitter permanently suspended his account, saying the US leader is too dangerous to use the platform."
+    publishedDateTime: 2021-01-09T01:02:00Z
+    webUrl: "https://www.ibtimes.com/twitter-permanently-suspends-trump-presidency-crumbles-3117599"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/08/president-elect-joe-biden-said-donald-trump-was.jpg"
+        width: 1024
+        height: 708
+        isCached: true
+  - title: "Democrats Plan Lightning Trump Impeachment, Want Him Out Now"
+    excerpt: "Democrats in Congress are swiftly laying plans to impeach President Donald Trump and ensure an “unhinged” commander-in-chief can do no further damage in his remaining days in office."
+    publishedDateTime: 2021-01-10T00:32:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-08/house-democrats-discussing-swift-action-to-impeach-trump"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-08/house-democrats-discussing-swift-action-to-impeach-trump?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-08/house-democrats-discussing-swift-action-to-impeach-trump?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Increasingly Isolated Trump Threatened With Second Impeachment"
+    excerpt: "US Democrats on Saturday were readying for an unprecedented second impeachment of Donald Trump as the defiant president showed no signs of stepping down after the deadly violence at the Capitol. Democrats said impeachment proceedings could begin as early as Monday -- an extraordinary acceleration of a process that historically has taken weeks,"
+    publishedDateTime: 2021-01-09T16:06:00Z
+    webUrl: "https://www.ibtimes.com/increasingly-isolated-trump-threatened-second-impeachment-3118038"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/09/supporters-of-us-president-donald-trump-including-member.jpg"
+        width: 1024
+        height: 695
+        isCached: true
+  - title: "Fresh Calls For Trump To Resign After Capitol Violence"
+    excerpt: "Donald Trump faced fresh calls Sunday from some members of his own party to resign over the violent incursion into the US Capitol, as the threat builds for a historic second impeachment effort in his final 10 days in the White House."
+    publishedDateTime: 2021-01-10T17:47:00Z
+    webUrl: "https://www.ibtimes.com/fresh-calls-trump-resign-after-capitol-violence-3118400"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/10/us-president-donald-trump-faces-pressure-from-his.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "GOP Senators Urge Trump to Resign; Impeachment Gains Support"
+    excerpt: "Two Republican senators now say President Donald Trump should resign in the wake of deadly riots at the Capitol, as support for the House drive to impeach him a second time is gaining momentum."
+    publishedDateTime: 2021-01-10T20:05:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-10/top-republican-says-trump-committed-impeachable-offenses"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-10/top-republican-says-trump-committed-impeachable-offenses?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-10/top-republican-says-trump-committed-impeachable-offenses?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Gab Benefits From Twitter-less Trump, Parler Removal"
+    excerpt: "Social network Gab is benefitting from the suspension of several Twitter accounts -- including Donald Trump's -- and the taking offline of rival Parler, its CEO said Monday. Between 600,000 and 700,000 internet users are registering on the platform every day,"
+    publishedDateTime: 2021-01-11T20:11:00Z
+    webUrl: "https://www.ibtimes.com/gab-benefits-twitter-less-trump-parler-removal-3119231"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/11/this-illustration-picture-shows-social-media-application-logo.jpg"
+        width: 1024
+        height: 757
+        isCached: true
+  - title: "Trump Tariffs On Cognac Hit A French Success Story"
+    excerpt: "For the last decade, owners of cognac distilleries have seen their sales more than double to the United States, making their spirit one of France's fastest-growing major exports. Then Donald Trump came along."
+    publishedDateTime: 2021-01-12T14:27:00Z
+    webUrl: "https://www.ibtimes.com/trump-tariffs-cognac-hit-french-success-story-3119957"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/12/us-hip-hop-artists-such-as-a-ap.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "US Democrats Try To Force Out Trump In Final Days Of Presidency"
+    excerpt: "Top US Democrats were seeking Monday to fast-track Donald Trump's removal in the final days of his presidency, with a historic second impeachment looming this week if he refuses to resign over his supporters' violent assault on the Capitol."
+    publishedDateTime: 2021-01-11T16:10:00Z
+    webUrl: "https://www.ibtimes.com/us-democrats-try-force-out-trump-final-days-presidency-3119079"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/11/us-president-donald-trump-faces-a-possible-fast.jpg"
+        width: 1024
+        height: 711
+        isCached: true
+  - title: "U.S. House Democrats to Pursue Impeachment if Trump Not Removed"
+    excerpt: "U.S. House of Representatives Democrats plan a vote on Monday to urge Vice President Mike Pence to take steps to remove President Donald Trump from office after his supporters' deadly storming of the Capitol,"
+    publishedDateTime: 2021-01-12T10:31:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-01-10/democrats-push-toward-second-trump-impeachment-republican-support-uncertain"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-01-10/democrats-push-toward-second-trump-impeachment-republican-support-uncertain?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-01-10/democrats-push-toward-second-trump-impeachment-republican-support-uncertain?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Deutsche Bank To Sever Ties With Trump: Report"
+    excerpt: "Deutsche Bank will cease its longstanding relationship with outgoing US president Donald Trump, The New York Times reported on Tuesday. Deutsche Bank was Trump's primary lender for two decades, and he owes the institution more than $300 million,"
+    publishedDateTime: 2021-01-12T17:14:00Z
+    webUrl: "https://www.ibtimes.com/deutsche-bank-sever-ties-trump-report-3120050"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/12/deustche-bank-is-one-of-several-businesses-reconsidering.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "EXPLAINER: How Trump's 2nd Impeachment Will Unfold"
+    excerpt: "The House is expected to vote to impeach President Donald Trump this week, a vote that would make him the first U.S. president to be impeached twice."
+    publishedDateTime: 2021-01-13T00:34:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-12/explainer-how-trumps-2nd-impeachment-will-unfold"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-12/explainer-how-trumps-2nd-impeachment-will-unfold?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-12/explainer-how-trumps-2nd-impeachment-will-unfold?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Pompeo Cancels Last Foreign Trip Amid Trump Impeachment Moves"
+    excerpt: "US Secretary of State Mike Pompeo on Tuesday canceled his final foreign trip scheduled this week as President Donald Trump faces a second impeachment vote. Pompeo will assist \"a smooth and orderly transition process\" to President-elect Joe Biden that includes identifying officials who will stay on temporarily as the new administration takes charge,"
+    publishedDateTime: 2021-01-12T18:03:00Z
+    webUrl: "https://www.ibtimes.com/pompeo-cancels-last-foreign-trip-amid-trump-impeachment-moves-3120084"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/12/secretary-of-state-mike-pompeo-l-says-he.jpg"
+        width: 1024
+        height: 677
+        isCached: true
+  - title: "Reactions to the Impeachment of U.S. President Donald Trump"
+    excerpt: "Following are comments on the U.S. House of Representatives vote on Wednesday on the impeachment of President Donald Trump. HOUSE RULES COMMITTEE CHAIR JIM MCGOVERN, DEMOCRAT OF MASSACHUSETTS \"We are debating this historic measure at an actual crime scene and we wouldn't be here if it weren't for the president of the United States."
+    publishedDateTime: 2021-01-13T15:18:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-01-13/reactions-to-the-impeachment-of-us-president-donald-trump"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-01-13/reactions-to-the-impeachment-of-us-president-donald-trump?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-01-13/reactions-to-the-impeachment-of-us-president-donald-trump?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Trump on Verge of 2nd Impeachment After Capitol Siege"
+    excerpt: "President Donald Trump is on the verge of being impeached for a second time, the House planning the unprecedented vote one week after he encouraged a mob of loyalists to “fight like hell” against election results and the U."
+    publishedDateTime: 2021-01-13T08:11:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-13/trump-on-verge-of-2nd-impeachment-after-capitol-siege"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-13/trump-on-verge-of-2nd-impeachment-after-capitol-siege?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-13/trump-on-verge-of-2nd-impeachment-after-capitol-siege?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Watch live: House vote today to impeach Trump for a second time"
+    excerpt: "The resolution is in response to last week’s assault on the U.S. Capitol by Trump supporters."
+    publishedDateTime: 2021-01-13T14:15:07Z
+    webUrl: "https://www.bing.com/videos/search?q=url%3ahttps%3a%2f%2fwww.youtube.com%2fwatch%3fv%3dZnyfYgu5iqg&ru=%2fsearch%3fq%3durl%253ahttps%253a%252f%252fwww.youtube.com%252fwatch%253fv%253dZnyfYgu5iqg%26FORM%3dHDRSC1&view=detail&mmscn=vwrc&mid=3F8B8EDDEAF27EB0C6203F8B8EDDEAF27EB0C620&FORM=WRVORC"
+    type: article
+    provider:
+      name: PBS News Hour
+      domain: bing.com
+    quality: 55
+    images:
+      - url: "https://tse2.mm.bing.net/th?id=OVF.kr1jrhl6%2bhrBBRY%2fCA37Tg&w=600&h=315&c=7&rs=1&qlt=100&pid=2.1"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "What to Watch as House Moves to Impeach Trump for 2nd Time"
+    excerpt: "President Donald Trump is on the verge of becoming the first president to be impeached twice, as lawmakers move quickly to punish him over last week's deadly Capitol attack."
+    publishedDateTime: 2021-01-13T10:54:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-13/what-to-watch-as-house-moves-to-impeach-trump-for-2nd-time"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-13/what-to-watch-as-house-moves-to-impeach-trump-for-2nd-time?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-13/what-to-watch-as-house-moves-to-impeach-trump-for-2nd-time?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "YouTube Suspends Trump Channel For Week Over Violence Fears"
+    excerpt: "Google-owned YouTube on Tuesday temporarily suspended President Donald Trump's channel and removed a video for violating its policy against inciting violence, joining other social media platforms in banning his accounts after last week's Capitol riot."
+    publishedDateTime: 2021-01-13T06:02:00Z
+    webUrl: "https://www.ibtimes.com/youtube-suspends-trump-channel-week-over-violence-fears-3120723"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/13/google-owned-youtube-on-tuesday-joined-other-social.jpg"
+        width: 1024
+        height: 681
+        isCached: true
+  - title: "Snapchat Permanently Bans Donald Trump From Site"
+    excerpt: "Image-centric social network Snapchat on Wednesday said it has permanently banned US President Donald Trump from the platform, as voices are raised against keeping him off the internet stage. Trump's access to social media has been largely cut off since a violent mob of his supporters stormed the Capitol in Washington DC in a deadly attack on January 6."
+    publishedDateTime: 2021-01-14T02:44:00Z
+    webUrl: "https://www.ibtimes.com/snapchat-permanently-bans-donald-trump-site-3121559"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/13/social-media-network-snapchat-has-permanently-banned-donald.jpg"
+        width: 1024
+        height: 681
+        isCached: true
+  - title: "Trump On Brink Of Unprecedented Second Impeachment"
+    excerpt: "The House of Representatives was set to impeach \"clear and present danger\" President Donald Trump Wednesday, with several key Republicans backing the Democrat-led push to bring down the real estate tycoon in flames a week before he leaves office."
+    publishedDateTime: 2021-01-13T18:21:00Z
+    webUrl: "https://www.ibtimes.com/trump-brink-unprecedented-second-impeachment-3121095"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/08/14/us-speaker-of-the-house-nancy-pelosi-is.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Trump's Wall of GOP Support Breaks During Impeachment Vote"
+    excerpt: "The unbreakable wall of Republican support that encouraged and enabled Donald Trump’s norm-shattering presidency has cracked."
+    publishedDateTime: 2021-01-15T08:08:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-13/trumps-republican-wall-eroding-ahead-of-impeachment-vote"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-13/trumps-republican-wall-eroding-ahead-of-impeachment-vote?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-13/trumps-republican-wall-eroding-ahead-of-impeachment-vote?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "US Executes Drug Trafficker In Trump's Final Days In Office"
+    excerpt: "US federal authorities executed a former drug trafficker who had contracted Covid-19 late Thursday, and a final execution of Donald Trump's administration was scheduled for Friday with just five days left of his presidency."
+    publishedDateTime: 2021-01-15T05:48:00Z
+    webUrl: "https://www.ibtimes.com/us-executes-drug-trafficker-trumps-final-days-office-3122826"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/15/terre-haute-prison-in-indiana-where-one-more.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "What's next for Donald Trump?"
+    excerpt: "Donald Trump’s plans have been a signature talking point for the last four years. What does the future hold for Donald Trump?"
+    publishedDateTime: 2021-01-14T22:51:00Z
+    webUrl: "https://www.stltoday.com/news/national/whats-next-for-donald-trump/video_1a3e35f8-a732-5567-bce2-43aac116c114.html"
+    ampWebUrl: "https://www.stltoday.com/news/national/whats-next-for-donald-trump/video_1a3e35f8-a732-5567-bce2-43aac116c114.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/whats-next-for-donald-trump/video_1a3e35f8-a732-5567-bce2-43aac116c114.amp.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 55
+  - title: "Outgoing Trump Admin OKs Land Swap for Rio Tinto's Arizona Copper Mine"
+    excerpt: "U.S. President Donald Trump's outgoing administration approved a land swap on Friday for a Rio Tinto Ltd copper mine in Arizona that would boost domestic production of the red metal but destroy sites sacred to Native Americans."
+    publishedDateTime: 2021-01-16T02:41:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-01-15/trump-administration-approves-land-swap-for-rio-tintos-arizona-copper-mine"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-01-15/trump-administration-approves-land-swap-for-rio-tintos-arizona-copper-mine?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-01-15/trump-administration-approves-land-swap-for-rio-tintos-arizona-copper-mine?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Timing of Trump Trial Uncertain as Pelosi Gives No Clues"
+    excerpt: "House Speaker Nancy Pelosi is offering no clues on her plans to send President Donald Trump’s impeachment to the Senate for trial."
+    publishedDateTime: 2021-01-15T22:34:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-15/trump-impeachment-trial-to-focus-on-his-attacks-on-election"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-15/trump-impeachment-trial-to-focus-on-his-attacks-on-election?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-15/trump-impeachment-trial-to-focus-on-his-attacks-on-election?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Trump Brand Tarnished After Bruising Presidency And Capitol Attack"
+    excerpt: "Donald Trump shot to prominence with a business empire that bears his name, but after four years of political tumult capped by his supporters' violent attack on the Capitol, the US president's brand stands tarnished,"
+    publishedDateTime: 2021-01-17T02:43:00Z
+    webUrl: "https://www.ibtimes.com/trump-brand-tarnished-after-bruising-presidency-capitol-attack-3123987"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/16/president-donald-trumps-brand-includes-properties-such-as.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Donald Trump: From The American Dream To American Nightmare"
+    excerpt: "When Donald Trump looks down for the last time from his helicopter over the White House lawn Wednesday, the wreckage of his presidency will be inescapable. The showman with the dyed blond hair, fake tan and a knack for connecting with crowds took office four years ago,"
+    publishedDateTime: 2021-01-18T00:33:00Z
+    webUrl: "https://www.ibtimes.com/donald-trump-american-dream-american-nightmare-3124343"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/07/us-president-donald-trump-kisses-german-chancellor-angela.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "In Final Trump Administration Days, Israel Approves New Settler Homes"
+    excerpt: "Israel approved on Sunday plans to build hundreds of new settler homes in the occupied West Bank, projects it is advancing in the final days of the pro-settlement Trump administration. The planned construction,"
+    publishedDateTime: 2021-01-17T18:47:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2021-01-17/in-final-trump-administration-days-israel-approves-new-settler-homes"
+    ampWebUrl: "https://www.usnews.com/news/world/articles/2021-01-17/in-final-trump-administration-days-israel-approves-new-settler-homes?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2021-01-17/in-final-trump-administration-days-israel-approves-new-settler-homes?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Key Dates Of The Trump Presidency"
+    excerpt: "Here are some of the main dates punctuating Trump's political career: January 25, 2017: Trump signs an executive order ordering construction to begin on the wall he promised to build on the southern US border with Mexico,"
+    publishedDateTime: 2021-01-19T00:55:00Z
+    webUrl: "https://www.ibtimes.com/key-dates-trump-presidency-3125025"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/04/21/us-president-donald-trump-steps-into-the-northern.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Trump Sought the World's Attention and Got It. Now the White House Reality Show Ends"
+    excerpt: "President Donald Trump never hid how he felt. His words and body language made his thoughts clear. For more than four years, Trump, a Republican, cultivated a political base by sharing his thoughts and emotions - pride,"
+    publishedDateTime: 2021-01-18T14:51:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-01-18/trump-sought-the-worlds-attention-and-got-it-now-the-white-house-reality-show-ends"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-01-18/trump-sought-the-worlds-attention-and-got-it-now-the-white-house-reality-show-ends?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-01-18/trump-sought-the-worlds-attention-and-got-it-now-the-white-house-reality-show-ends?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 48
+  - title: "The House impeached Donald Trump over his speech before the Capitol attack. Here’s what happens next"
+    excerpt: "With the House voting to impeach President Donald Trump, the action moves to the Senate. It is not immediately clear when the Senate will begin a trial. • Most experts say that a trial can proceed after Trump is out of office if needed."
+    publishedDateTime: 2021-01-13T22:31:00Z
+    webUrl: "https://www.politifact.com/article/2021/jan/13/house-impeached-donald-trump-over-speech-capitol-a/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 40
+    images:
+      - url: "https://static.politifact.com/img/meter-true.jpg"
+        width: 438
+        height: 392
+        isCached: true
+  - title: "Nevada Judge Who Denied Trump Campaign Appeal Was Threatened"
+    excerpt: "Authorities in Carson City are investigating a threat made against a state judge who dismissed a lawsuit last month brought by President Donald Trump’s campaign."
+    publishedDateTime: 2021-01-15T18:53:00Z
+    webUrl: "https://www.usnews.com/news/best-states/nevada/articles/2021-01-15/nevada-judge-who-denied-trump-campaign-appeal-was-threatened"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "tE0HGpvN1GS8UXJi3pI4+Wq7E/BZ1AZgzP4A87jDe74C5T8lG5JvLvZi3ZqKOm/IhS3I2z8Mwqd2Q3TuWwci7qIheOglVa0vjQbf+qKW7evv7YjWn48c/kBWS1u6UGF4NWjm39nb5O2tcWmJSJ6u3VdV9UA6EFU4URPjCxXah0fYnbDfPWpgWPMKh6FbwwaL3uZ/Zt3u2WOvtYvpv3xU+Zz1maDhliSO9/E3qp3nbm+6xTaSO2SbVtKOpT8stlC4bAtdvNfn+ybsWWrnPhJsYzTEAZrQSbEcCrS43t8IMalI0mR93qPxOIbaMNAyGug9nwwLiGV8N4P7+q55lroZUK+RhgT6jf9ru0zqH/7bgxc=;N3EnLshPHjvdhvEwUte+AA=="
 ---

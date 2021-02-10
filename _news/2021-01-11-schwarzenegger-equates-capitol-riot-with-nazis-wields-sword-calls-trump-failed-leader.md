@@ -45,22 +45,6 @@ related:
         width: 834
         height: 308
         isCached: true
-  - title: "Arnold Schwarzenegger Calls Efforts to Overturn Biden's Win 'Crazy and Evil'"
-    excerpt: "The former GOP California governor said lawmakers objecting to Biden's win will be remembered as \"villains\" by their grandchildren."
-    publishedDateTime: 2021-01-05T20:51:00Z
-    webUrl: "https://www.newsweek.com/arnold-schwarzenegger-calls-efforts-overturn-bidens-win-crazy-evil-1559133"
-    ampWebUrl: "https://www.newsweek.com/arnold-schwarzenegger-calls-efforts-overturn-bidens-win-crazy-evil-1559133?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/arnold-schwarzenegger-calls-efforts-overturn-bidens-win-crazy-evil-1559133?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 122
-    images:
-      - url: "https://d.newsweek.com/en/full/1698866/arnold-schwarzenegger.jpg"
-        width: 1024
-        height: 722
-        isCached: true
   - title: "Arnold Schwarzenegger Says Donald Trump Is 'A Failed Leader' And 'Worst President Ever'"
     excerpt: "Arnold Schwarzenegger denounced the riot at the Capitol and called President Donald Trump a \"failed leader\" and the \"worst president ever.\""
     publishedDateTime: 2021-01-11T01:57:00Z

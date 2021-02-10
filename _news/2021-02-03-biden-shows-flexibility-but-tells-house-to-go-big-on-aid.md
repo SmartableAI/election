@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/business/biden-yellen-say-gop-virus-a
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/biden-yellen-say-gop-virus-aid-too-small-democrats-push-on/2021/02/03/bddcc6da-65df-11eb-bab8-707f8769d785_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 465
+heat: 485
 published: true
 
 provider:
@@ -238,6 +238,22 @@ related:
       - url: "https://i.insider.com/60146dfdd6c5e60019c6e03e?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Politics live updates: $15 minimum wage unlikely to be in COVID relief bill, Biden says"
+    excerpt: "President Joe Biden said a proposal to raise the federal minimum wage to $15 an hour is unlikely to remain in the $1.9 trillion COVID relief package."
+    publishedDateTime: 2021-02-07T01:04:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/05/politics-live-updates-trump-impeachment-biden-covid-relief-congress/4398843001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4398843001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4398843001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/06/USAT/46ee3e15-5b2b-43ad-858b-98c90502e511-AP21036635389025.jpg?auto=webp&crop=5999,3374,x0,y161&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "U.S. senators look to back up Biden administration over Myanmar coup"
     excerpt: "U.S. Senator Ben Cardin (D-MD) asks a question to Secretary of State Mike Pompeo during a Senate Foreign Relations Committee hearing in Washington, DC, U.S. July 30, 2020. Greg Nash/Pool v"

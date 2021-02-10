@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/10/politics/trump-georgia-criminal-i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/10/politics/trump-georgia-criminal-investigation-election/index.html"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Georgia prosecutors launch criminal probe into Trump's efforts to overturn election results"
+    excerpt: "The investigation will look into the phone call Trump made to Georgia Secretary of State Brad Raffensperger in which Trump begged him to reverse Joe Biden's victory."
+    publishedDateTime: 2021-02-10T20:47:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/georgia-prosecutors-launch-criminal-probe-trump-s-efforts-overturn-biden-n1257272"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1257272"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1257272"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 140
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_43/3419416/201012-georgia-early-voting-se-1232p_79c46a105227f1219a0bbeb22bc74a49.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Georgia Officials Review Trump Phone Call as Scrutiny Intensifies"
     excerpt: "The office of Georgia’s secretary of state, Brad Raffensperger, has initiated a fact-finding inquiry into Donald Trump’s January phone call to Mr. Raffensperger pressuring him to “find” votes."
     publishedDateTime: 2021-02-08T22:33:00Z

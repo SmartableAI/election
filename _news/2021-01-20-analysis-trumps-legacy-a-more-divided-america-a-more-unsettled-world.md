@@ -61,37 +61,21 @@ related:
         width: 804
         height: 545
         isCached: true
-  - title: "Exclusive: As Trump leaves office, 50% of Americans see him as a 'failed' president"
-    excerpt: "Trump hasn't succeeded in overturning the election results but he has persuaded a third of Americans that Biden wasn't legitimately elected"
-    publishedDateTime: 2020-12-24T09:14:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/24/donald-trump-failed-president-50-usa-today-poll-say/3926190001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3926190001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3926190001"
+  - title: "For some Christians, the Capitol riot doesn’t change the prophecy: Trump will be president"
+    excerpt: "As lawmakers prepared to impeach President Trump and Washington readied for President-elect Joe Biden’s inauguration, Cliff Dyrud wasn’t focused on man-made acts. He was listening for the words of prophets."
+    publishedDateTime: 2021-01-15T02:34:00Z
+    webUrl: "https://www.washingtonpost.com/religion/2021/01/14/prophets-apostles-christian-prophesy-trump-won-biden-capitol/"
+    ampWebUrl: "https://www.washingtonpost.com/religion/2021/01/14/prophets-apostles-christian-prophesy-trump-won-biden-capitol/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/religion/2021/01/14/prophets-apostles-christian-prophesy-trump-won-biden-capitol/?outputType=amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 119
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/08/USAT/e0873822-4b69-42e9-b96d-431644856090-AP_APTOPIX_Election_2020_Biden.jpg?auto=webp&crop=2935,1651,x0,y149&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Vast majority of Americans hold Trump responsible for Capitol siege, new Insider poll shows"
-    excerpt: "Americans overwhelmingly say that President Donald Trump is responsible on some level for the Capitol siege, according to a new Insider poll. 76% said Trump bears a \"great deal\" o"
-    publishedDateTime: 2021-01-17T13:59:00Z
-    webUrl: "https://www.businessinsider.com/vast-majority-of-americans-hold-trump-responsible-capitol-siege-poll-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/vast-majority-of-americans-hold-trump-responsible-capitol-siege-poll-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/vast-majority-of-americans-hold-trump-responsible-capitol-siege-poll-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 115
     images:
-      - url: "https://i.insider.com/6000b0e1a81ea100188db505?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZQVOFLSQFMI6XIPV7WXSRT6KSA.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "USA TODAY/Suffolk Poll: Americans, braced for violence at the inauguration, see democracy damaged after Trump"
     excerpt: "A new USA TODAY/Suffolk Poll finds President Trump's standing has eroded since the U.S. Capitol riot. A majority predict violence at Joe Biden's inauguration."

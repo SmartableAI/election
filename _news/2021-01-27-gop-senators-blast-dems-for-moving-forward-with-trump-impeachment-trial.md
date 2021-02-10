@@ -28,19 +28,51 @@ images:
     isCached: true
 
 related:
-  - title: "LIVE UPDATES: Trump impeachment trial delayed until February"
-    excerpt: "Follow for the latest updates on Trump's impeachment."
-    publishedDateTime: 2021-01-23T05:46:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hfMt1sSqDhM/live-updates-trump-impeachment-trial-1-23-21"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-impeachment-trial-1-23-21.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-impeachment-trial-1-23-21.amp"
+  - title: "Trump frees former aides from ethics pledge, lobbying ban"
+    excerpt: "President Donald Trump, in one of his final acts of office, released current and former members of his administration from the terms of their ethics pledge, which included a five-year ban on lobbying their former agencies."
+    publishedDateTime: 2021-01-20T12:18:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hPUCYolkkh0/trump-frees-former-aides-from-ethics-pledge-lobbying-ban"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-frees-former-aides-from-ethics-pledge-lobbying-ban.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-frees-former-aides-from-ethics-pledge-lobbying-ban.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a1b0bf1a-86a1-4ca8-9894-9739ebb7d128/f2f33f2c-0474-4cef-bbc9-7303999d82d2/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/eb650e5d-a8bf-42e1-8e8e-0b0b00b4217a/002b346a-a157-41c7-bddb-c04b99b77223/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "'We'll do something': Trump offers first remarks since leaving office"
+    excerpt: "Former President Donald Trump was mysterious about his future plans in his first public remarks since leaving the White House earlier this week, but he suggested action is in the works, according to a report."
+    publishedDateTime: 2021-01-23T00:06:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/u6ZLwHKL7o4/trump-mum-on-future-in-first-remarks-since-leaving-white-house"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-mum-on-future-in-first-remarks-since-leaving-white-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-mum-on-future-in-first-remarks-since-leaving-white-house.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0ea90d02-cd6e-457c-b53e-f2fb5331749a/299a153c-3c94-492a-ad8f-7b19470806e9/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Left-leaning groups pressure companies not to hire ex-Trump officials"
+    excerpt: "The \"Campaign against Corporate Complicity\" calls for major corporations to pledge not to hire former senior Trump administration officials who helped to implement “cruel and anti-democratic policies.”"
+    publishedDateTime: 2021-01-26T20:34:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZbIEfBn5y84/left-leaning-groups-pressure-companies-not-to-hire-ex-trump-officials"
+    ampWebUrl: "https://www.foxnews.com/politics/left-leaning-groups-pressure-companies-not-to-hire-ex-trump-officials.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/left-leaning-groups-pressure-companies-not-to-hire-ex-trump-officials.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c4154b08-fe99-418d-8f0a-d43f513fd968/7efaa174-84fb-4afa-8014-48f498d22e86/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -60,181 +92,163 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "LIVE UPDATES: Trump, McCarthy set up meeting ahead of impeachment"
-    excerpt: "Follow for the latest updates on Trump's impeachment"
-    publishedDateTime: 2021-01-28T08:47:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DeQPMQfA-dA/live-updates-trump-impeachment-1-28-21"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-impeachment-1-28-21.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-impeachment-1-28-21.amp"
+  - title: "Trump adviser claims former president has no plans for third political party"
+    excerpt: "Former President Donald Trump has reportedly dropped plans to create a third political party and will instead focus his energies on helping Republicans win back the House and Senate in the 2022 midterms, Fox News has learned."
+    publishedDateTime: 2021-01-25T00:34:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5QGzXiloiXI/trump-has-no-plans-for-a-third-political-party"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-has-no-plans-for-a-third-political-party.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-has-no-plans-for-a-third-political-party.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 172
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/32cb91af-d1ac-4bad-991f-9bd146d20dce/ebd3a650-da0d-4fe8-8a9c-923fec42f48b/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Sen. Cory Booker expects Trump impeachment trial 'as quickly as possible'"
-    excerpt: "Sen. Cory Booker, D-N.J., said that after the House voted to impeach President Trump last week, he expects the Senate to hold a trial relatively soon."
-    publishedDateTime: 2021-01-17T19:14:26Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZXTLAGXiBHs/sen-booker-trump-impeachment-trial-quickly-as-possible"
-    ampWebUrl: "https://www.foxnews.com/politics/sen-booker-trump-impeachment-trial-quickly-as-possible.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-booker-trump-impeachment-trial-quickly-as-possible.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/31a1fe1e-5515-468e-9607-4738d2533c9f/c9629705-1284-496f-9cfa-44d30c4119aa/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "'QAnon Shaman' willing to testify in Trump's impeachment trial, lawyer says"
-    excerpt: "A man who calls himself the \"QAnon Shaman\" and stormed the U.S. Capitol on Jan. 6 while wearing a horned bearskin headdress, face paint and no shirt, is willing to testify in former President Trump’s upcoming impeachment trial, his lawyer said this week."
-    publishedDateTime: 2021-01-29T04:35:35Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iS88E0-_gno/qanon-shaman-willing-to-testify-in-trumps-impeachment-trial-lawyer-says"
-    ampWebUrl: "https://www.foxnews.com/politics/qanon-shaman-willing-to-testify-in-trumps-impeachment-trial-lawyer-says.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/qanon-shaman-willing-to-testify-in-trumps-impeachment-trial-lawyer-says.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21028544684163.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21021665414903.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "LIVE UPDATES: Trump parts with lead impeachment lawyers a week before trial"
-    excerpt: "Follow for the latest updates on Trump's impeachment trial."
-    publishedDateTime: 2021-01-31T06:42:36Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/z5LhvczW83M/live-updates-trump-impeachment-trial-1-31-21"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-impeachment-trial-1-31-21.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-impeachment-trial-1-31-21.amp"
+  - title: "Trump's former doctor Harold Bornstein, who called him 'healthiest president ever,' dies"
+    excerpt: "President Trump’s former personal physician, Dr. Harold Bornstein, who attested Trump was the \"healthiest president ever,\" died Thursday at 73. "
+    publishedDateTime: 2021-01-14T18:23:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/y9VeiayM6YU/trumps-former-doctor-harold-bornstein-dies"
+    ampWebUrl: "https://www.foxnews.com/politics/trumps-former-doctor-harold-bornstein-dies.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-former-doctor-harold-bornstein-dies.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 173
+    quality: 166
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1280db39-0cc4-4fce-8c70-ebbdd510a556/5b88d5ef-ffb2-4dd2-a4ca-441f12e0a412/1280x720/match/image.jpg"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/Dr.-Harold-Bornstein.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump and McCarthy set up face-to-face meeting as Dems weigh impeachment trial options."
-    excerpt: "Former President Donald trump is expected to meet with House Minority Leader Kevin McCarthy in Florida Thursday, Fox News has learned."
-    publishedDateTime: 2021-01-27T21:18:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vWPpr7YrKEI/trump-and-mccarthy-set-up-face-to-face-meeting-as-dems-weigh-impeachment-trial-options"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-and-mccarthy-set-up-face-to-face-meeting-as-dems-weigh-impeachment-trial-options.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-and-mccarthy-set-up-face-to-face-meeting-as-dems-weigh-impeachment-trial-options.amp"
+  - title: "Democratic senator presiding over Trump impeachment trial pledges impartiality despite call to convict"
+    excerpt: "Sen. Leahy was a vocal critic of Trump after his supporters stormed the Capitol, calling for him to be convicted on impeachment charges and barred from holding office in the future."
+    publishedDateTime: 2021-01-26T00:08:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SZYqArmri1Q/dem-senator-presiding-trump-impeachment-pledges-impartiality-despite-past-call-to-convict"
+    ampWebUrl: "https://www.foxnews.com/politics/dem-senator-presiding-trump-impeachment-pledges-impartiality-despite-past-call-to-convict.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dem-senator-presiding-trump-impeachment-pledges-impartiality-despite-past-call-to-convict.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 167
+    quality: 159
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/315610d9-582f-4881-a5ac-41962b062276/a07fe9a0-d66c-4947-9b89-c7a2419e8962/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f2839388-82de-4145-9289-46adc4c3d379/8e28eb1f-39e1-48af-8457-d271c9d53bce/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Rubio doubles down on criticism of Trump impeachment trial: 'It's not even constitutional'"
-    excerpt: "Sen. Marco Rubio, R-Fla., doubled down Tuesday on statements he made over the weekend calling next month's impeachment trial of former President Trump \"stupid\"."
-    publishedDateTime: 2021-01-26T23:38:05Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qgpCiNqYrf4/rubio-trump-impeachment-trial-not-even-constitutional"
-    ampWebUrl: "https://www.foxnews.com/politics/rubio-trump-impeachment-trial-not-even-constitutional.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rubio-trump-impeachment-trial-not-even-constitutional.amp"
+  - title: "Trump National Garden order includes statues of Whitney Houston, Kobe Bryant, Vince Lombardi, Frank Sinatra"
+    excerpt: "President Trump issued an executive order on Monday in which he listed dozens of \"historically significant\" Americans, including entertainers, founding fathers, religious figures, and others, to be featured in the new National Garden of American Heroes."
+    publishedDateTime: 2021-01-18T20:56:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Kj1sQjm-mYE/trump-national-garden-statues"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-national-garden-statues.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-national-garden-statues.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 165
+    quality: 157
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3265ed32-8048-4719-ac07-8c0ec3a09c46/77e46171-0bf6-45ae-8ea9-67f7073c8f92/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0eb21815-dfa2-4f95-9dad-2105540bb182/e19cf9d1-5067-4540-8aed-09392d9a1413/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "LIVE UPDATES: Trump impeachment manager Eric Swalwell says Democrats will 'be ready' with witnesses if allowed"
-    excerpt: "Follow for the latest updates on Trump's impeachment trial."
-    publishedDateTime: 2021-01-24T06:19:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/q9djUbQpluo/live-updates-trump-impeachment-1-24-21"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-impeachment-1-24-21.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-impeachment-1-24-21.amp"
+  - title: "Trump Faces Uncertain Future as He Leaves White House"
+    excerpt: "The president won the office and the loyal support of GOP voters by running against the party establishment. He departs with his ties to party leaders strained and his political future unclear."
+    publishedDateTime: 2021-01-20T14:47:00Z
+    webUrl: "https://www.wsj.com/articles/trump-faces-uncertain-future-as-he-leaves-white-house-11611157651"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-faces-uncertain-future-as-he-leaves-white-house-11611157651"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-faces-uncertain-future-as-he-leaves-white-house-11611157651"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-287681/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Trump offers first remarks since leaving office: 'We'll do something'"
+    excerpt: "Former President Donald Trump was mysterious about his future plans in his first public remarks since leaving the White House earlier this week, but he suggested action is in the works, according to a report."
+    publishedDateTime: 2021-01-24T21:12:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-mum-on-future-in-first-remarks-since-leaving-white-house"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-mum-on-future-in-first-remarks-since-leaving-white-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-mum-on-future-in-first-remarks-since-leaving-white-house.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 155
+    quality: 135
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4cd48adb-674f-4d81-b34f-2a62f1752737/7b0254aa-3121-4ce2-82b2-67ef0837684f/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0ea90d02-cd6e-457c-b53e-f2fb5331749a/299a153c-3c94-492a-ad8f-7b19470806e9/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "57 percent of voters say Trump impeachment will further divide Americans"
-    excerpt: "More than half of likely voters say in a new poll that former President Trump being tried in the Senate over his House impeachment would further divide an already politically-torn nation. The"
-    publishedDateTime: 2021-01-28T21:55:00Z
-    webUrl: "https://nypost.com/2021/01/28/most-voters-feel-trump-impeachment-will-divide-nation-more/"
-    ampWebUrl: "https://nypost.com/2021/01/28/most-voters-feel-trump-impeachment-will-divide-nation-more/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/28/most-voters-feel-trump-impeachment-will-divide-nation-more/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 134
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/Trump-impeachment-divide-Americans-2-1.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Ingraham: Second Senate impeachment trial of Trump will be 'ugly, feudal farce'"
-    excerpt: "Senate Majority Leader Chuck Schumer's commitment to holding a post-presidential impeachment trial of Donald Trump sets the stage for an \"ugly, feudal farce,\" Laura Ingraham said Friday."
-    publishedDateTime: 2021-01-23T04:39:00Z
-    webUrl: "https://www.foxnews.com/media/laura-ingraham-trump-impeachment-trial-ugly-feudal-farce"
-    ampWebUrl: "https://www.foxnews.com/media/laura-ingraham-trump-impeachment-trial-ugly-feudal-farce.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/laura-ingraham-trump-impeachment-trial-ugly-feudal-farce.amp"
+  - title: "Left-leaning groups pressure companies not to hire ex-Trump officials"
+    excerpt: "The \"Campaign against Corporate Complicity\" calls for major corporations to pledge not to hire former senior Trump administration officials who helped to implement “cruel and anti-democratic policies."
+    publishedDateTime: 2021-01-26T20:38:00Z
+    webUrl: "https://www.foxnews.com/politics/left-leaning-groups-pressure-companies-not-to-hire-ex-trump-officials"
+    ampWebUrl: "https://www.foxnews.com/politics/left-leaning-groups-pressure-companies-not-to-hire-ex-trump-officials.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/left-leaning-groups-pressure-companies-not-to-hire-ex-trump-officials.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 131
+    quality: 135
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7f803e6d-1655-44a5-bb1a-14973471d214/5337238f-a929-46b9-8827-dbae154b3388/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c4154b08-fe99-418d-8f0a-d43f513fd968/7efaa174-84fb-4afa-8014-48f498d22e86/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump and McCarthy set up face-to-face meeting as Dems weigh impeachment trial options."
-    excerpt: "Former President Donald trump is expected to meet with House Minority Leader Kevin McCarthy in Florida Thursday, Fox News has learned."
-    publishedDateTime: 2021-01-27T21:21:00Z
-    webUrl: "https://www.foxnews.com/politics/trump-and-mccarthy-set-up-face-to-face-meeting-as-dems-weigh-impeachment-trial-options"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-and-mccarthy-set-up-face-to-face-meeting-as-dems-weigh-impeachment-trial-options.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-and-mccarthy-set-up-face-to-face-meeting-as-dems-weigh-impeachment-trial-options.amp"
+  - title: "Trump Pressed to Change Justice Department Leadership to Boost His Voter Fraud Claims"
+    excerpt: "The former president’s efforts were dropped after top DOJ officials agreed to resign en masse in protest if he succeeded, people familiar said."
+    publishedDateTime: 2021-01-23T19:39:00Z
+    webUrl: "https://www.wsj.com/articles/trump-pressed-to-change-justice-department-leadership-to-boost-his-voter-fraud-claims-11611434369"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-pressed-to-change-justice-department-leadership-to-boost-his-voter-fraud-claims-11611434369"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-pressed-to-change-justice-department-leadership-to-boost-his-voter-fraud-claims-11611434369"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 128
+    images:
+      - url: "https://images.wsj.net/im-289628/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Trump's former doctor Harold Bornstein, who called him 'healthiest president ever,' dies"
+    excerpt: "President Trump’s former personal physician, Dr. Harold Bornstein, who attested Trump was the \"healthiest president ever,\" died Thursday at 73."
+    publishedDateTime: 2021-01-14T18:36:00Z
+    webUrl: "https://www.foxnews.com/politics/trumps-former-doctor-harold-bornstein-dies"
+    ampWebUrl: "https://www.foxnews.com/politics/trumps-former-doctor-harold-bornstein-dies.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-former-doctor-harold-bornstein-dies.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 127
+    quality: 126
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/315610d9-582f-4881-a5ac-41962b062276/a07fe9a0-d66c-4947-9b89-c7a2419e8962/1280x720/match/image.jpg"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/Dr.-Harold-Bornstein.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "'Vindictive' and 'harsh' Trump impeachment trial won't bode well for Democrats: Historian Jay Winik"
-    excerpt: "The push by congressional Democrats to convict former President Donald Trump of impeachable offenses feels \"vindictive,\" and \"harsh,\" historian Jay Winik told \"Special Report\" Wednesday."
-    publishedDateTime: 2021-01-28T00:21:00Z
-    webUrl: "https://www.foxnews.com/media/historian-jay-winik-trump-impeachment-trial-senate-filibuster"
-    ampWebUrl: "https://www.foxnews.com/media/historian-jay-winik-trump-impeachment-trial-senate-filibuster.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/historian-jay-winik-trump-impeachment-trial-senate-filibuster.amp"
+  - title: "Georgia U.S. Attorney Pushed to Resign by Trump Aides Rejoins Law Firm"
+    excerpt: "The former top federal prosecutor in Atlanta, whom White House officials pushed to resign earlier this month because then-President Donald Trump was upset he wasn’t doing enough to investigate unproven claims of election fraud,"
+    publishedDateTime: 2021-01-22T16:03:00Z
+    webUrl: "https://www.wsj.com/livecoverage/biden-presidential-inauguration-2021/card/7PuV1qsDSei2ZphFlq6v"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 121
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 115
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/32cb91af-d1ac-4bad-991f-9bd146d20dce/ebd3a650-da0d-4fe8-8a9c-923fec42f48b/1280x720/match/image.jpg"
+      - url: "https://images.wsj.net/im-288916?size=1.5"
         width: 1280
-        height: 720
+        height: 853
         isCached: true
 
 secured: "aYpmsFTwLHIPT/p/mSa61hYYYGlwkoMNJF1Q1CWV56gL3MmHHfhnXP2RDn9pLg5uXAEA2xrGBG9Gln/vaNptxdvtIT9mqijE9lgJXLY+fQssY76CWWpJ6rrx2nY5eYPxLKfa3/eYO1GJtQPt1Vnfx1+82vZkK5F25dLwPPKlZpfP0bIO97qRBlHShm6pzHcYdWjHAuWg7LYTJ7TkfFNf96fORYQfJ2t1dba7q2nknk0x1w1S4EQ1X78UJ35RVcL/W4qllHOQ9FajiYYJdmGmvOIG6OUX+yu9pDwCBgFgEGHwAGyNdOyuiPov5MfG2HBUdhUttxGIz0JHyQszB3OfKvHNTwDaKqj4EabQ/KdRRjo=;9nuNPBWTRC1XX07ITADFLQ=="

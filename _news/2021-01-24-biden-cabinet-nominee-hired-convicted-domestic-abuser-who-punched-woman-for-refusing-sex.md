@@ -48,22 +48,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Biden to nominate retired four-star Army general Lloyd Austin for secretary of defense"
-    excerpt: "If confirmed by the Senate, Austin would be the first Black leader of the Pentagon."
-    publishedDateTime: 2020-12-08T01:24:56Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YQSpNxVlQ9Y/biden-to-nominate-a-four-star-army-general-for-secretary-of-defense"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-to-nominate-a-four-star-army-general-for-secretary-of-defense.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-nominate-a-four-star-army-general-for-secretary-of-defense.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/85337bb5-204b-463b-9f43-f1f0206fb7ef/77ef1044-1d52-4fd1-9090-96ae52c81ed9/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Acting DHS secretary: We want to leave 'no stone unturned' in securing Biden inauguration"
     excerpt: "Acting Homeland Security Secretary Peter Gaynor told \"America Reports\" Monday that there is a \"heightened sense of alert\" surrounding the security preparations for Joe Biden's inauguration."
     publishedDateTime: 2021-01-18T21:57:08Z

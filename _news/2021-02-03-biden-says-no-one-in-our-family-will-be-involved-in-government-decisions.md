@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-says-no-one-in-our-family-inv
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-no-one-in-our-family-involved-government-decisions.amp"
 type: article
 quality: 173
-heat: 273
+heat: 293
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f62f0b17-9ceb-457d-bb9b-5cb174d019e8/7404b95a-227a-479d-b3b6-a2919aee39f5/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Recall Newsom campaign organizer says Biden’s opposition shows governor knows he’s in trouble"
+    excerpt: "The White House for the first time weighed in this week on the recall campaign to oust California Gov. Gavin Newsom over his handling of the Covid-19 pandemic."
+    publishedDateTime: 2021-02-10T20:36:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hXIQPnG1V1I/recall-newsom-campaign-organizer-bidens-opposition-governor-in-trouble"
+    ampWebUrl: "https://www.foxnews.com/politics/recall-newsom-campaign-organizer-bidens-opposition-governor-in-trouble.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/recall-newsom-campaign-organizer-bidens-opposition-governor-in-trouble.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21039862377802-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Teachers unions' political support for Biden paying off as he takes their side in reopening battle"
     excerpt: "After spending millions to support President Biden and other Democrats in the 2020 election cycle, teachers unions are finding Biden to be a reliable ally."

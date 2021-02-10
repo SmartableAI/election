@@ -80,22 +80,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump is leaving Washington as he governed — chaotically"
-    excerpt: "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter."
-    publishedDateTime: 2020-12-02T14:20:00Z
-    webUrl: "https://www.nbcnews.com/politics/meet-the-press/trump-leaving-washington-he-governed-chaotically-n1249684"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1249684"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249684"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_49/3432524/201202-donald-trump-mc-1314_76baad09f4ea18edab7aa6aafee2438b.JPG"
-        width: 2500
-        height: 1666
-        isCached: true
   - title: "After Presidency, Trump Hotel in Washington Is a Limited Draw"
     excerpt: "Traffic on two recent evenings at the hotel was exceedingly slow, even after the city lifted a ban on indoor dining."
     publishedDateTime: 2021-01-28T21:15:00Z
@@ -129,6 +113,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "2hVFUWBfoajp9devL+ItWfOn5CXo0rUdh3lR88NaQ6cF6t0vNeEkyr1FL1zr55AdV3FlnSTAKBc2dBzfniBAAclIyEbdJniRe4R0dLdq18tjbQlrPNeVTtOCHNdXEdYY2JH2S+BW1GzZYSRfOWlLxGsraOFYRtUckB8vbDRgHJdAf12K5QZTjdgOfRvacKMavjFHb0NJTz8OOsAG8HJaC0sxsO+P6tdc4Ai8TZWS+0A+XAbMo9ohcfP+mW/3uYZnmlYX8LnwSgG2+rqsYe9j1NCTs2SZxPOXhRjUqkz2lBe3Dj1J8CZUuKfBz49dt5sfjBibRoBU3Yo5XHVcbxkaI9eeHkzL+86TmBWltuNx+HY=;xU35ISF0nL6edBUHtWguEQ=="
+secured: "InQhgEWJl3hK+acdA/szAipi6JlRevtYMvloEsXq0+6raGcgyvAPasmaOVNOFSQ22lGfsWLdcXu0eG7YAXEf36WI/Ex6ShUii0llhIsLUvp9QKQAcLMouF4KZ0aMncmjwmiO8zDiUMyXR2AmgYTP/rvNVHjPWh09v99FwhS1Da5kpqwgfBqBZAkYSWbXa23LnDzgYnd5Llgoy7i6QxLzZnSOckF0CKQhLw0460cfudfNC3ZPoHvm4MJHgllpeCU84gZVsFU1rtJWzVzEKREOxUsGg6Zyvkr16vpFmXlyVfvGREnMI45QLd9vzW69vaIwt1wjQcnmqwerkxcbXN5dMk1a2YLBJPt7EqHHm0/n1fCvFVnJWaanTCJnbMD7lvvWy6rIB6mYoYC89mQ6+6Qj0L1lC2mePOGi9AbdCMGpxGkxsKkQ4Rv5H6O2tXben24aZSfcGiXWl6aP+Adza26Fjws8UnZNCNYU8m294KNI5qpYqvD4TEZtJAxrIPMswuugeei0XjVen72e535zncW/Dg==;CFwOFTrrmo3uf6tVyVj68g=="
 ---
 

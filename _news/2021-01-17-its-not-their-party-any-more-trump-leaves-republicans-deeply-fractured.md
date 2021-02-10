@@ -31,19 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Trump sought the world's attention and got it. Now the White House reality show ends"
-    excerpt: "A red tie, often tied too long. A raised fist, often held high to a supportive crowd. A scowling face. A raised voice."
-    publishedDateTime: 2021-01-18T19:37:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-postcards/trump-sought-the-worlds-attention-and-got-it-now-the-white-house-reality-show-ends-idUSKBN29N1E2"
+  - title: "Melania Trump leaves Donald Trump alone in front of the cameras – video"
+    excerpt: "Former first lady left Donald Trump alone in front of the cameras at Palm Beach airport after the couple left the White House ahead of Joe Biden's inauguration"
+    publishedDateTime: 2021-01-23T10:15:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2021/jan/23/melania-trump-leaves-donald-trump-alone-in-front-of-the-cameras-video"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 98
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210118&t=2&i=1548203838&r=LYNXMPEH0H0U5&w=800"
-        width: 800
-        height: 533
+      - url: "https://i.guim.co.uk/img/media/13ed5203f77124a21f8ff6fb41659c1b30762c44/30_76_1673_1004/master/1673.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7a04315508afc531e643ca3e642bb5c0"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "F6lV0KlJ1q0rK7Onjk0oY3ZFSiNaljCsOrtl4++0qIXvgtJ2S0PfD13GZQKAZN5oWbhHw1b1N60AKIa3UaoDO8+g3gVY/aXr1Nksnl7noxht+oVDY8br88YPA7Mf03cfd5YwbftNuhLgp7JFHJmiGd0eZnCJncZzKWklA9NYW/MOUKmE8AcTiWybxQggK/DhENBYxIIifOrEUXjqlzpRP1T5NNUTShLlzwSGPBVz5Y1qjUYa/XELDT7Dc4IkD/x4hgaPsFdooZtTK1YWxZUDniEFlBU8s1wLLcWtPYgu4zUXhrf286IJR1nBFiLGPspxVYkNlxBidIrMkDdv+AVvhfoNCoDBATteeWwAjuao5MrPXthfUj/wpmtwTVRgf3v0Xnh7/qb29IXYLAYMbDINylLCe3QkKwkmabDJOZMskHRx7NG5OkkK7QoUSmEO6yz83uS96jdluWXV2QoGp3qeBLKDowThLVbpkIlbi2TVCekBldd0UrFa2oSbjZ9QLf90ac721YY+L2SuVNE+IVTV5g==;+OrrLeaUJP+f+QszPS/CNA=="

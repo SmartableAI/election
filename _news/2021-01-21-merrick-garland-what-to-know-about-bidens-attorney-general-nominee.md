@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/merrick-garland-what-to-know-biden-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/merrick-garland-what-to-know-biden-attorney-general.amp"
 type: article
 quality: 175
-heat: -1
-published: false
+heat: 255
+published: true
 
 provider:
   name: Fox News
@@ -31,19 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "Biden to nominate Merrick Garland for attorney general: sources"
-    excerpt: "President-elect Joe Biden's pick for attorney general will be Judge Merrick Garland, three Democratic sources confirmed to Fox News."
-    publishedDateTime: 2021-01-06T17:34:16Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/n_0QaDVr7Iw/biden-to-nominate-merrick-garland-for-attorney-general-sources"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-to-nominate-merrick-garland-for-attorney-general-sources.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-nominate-merrick-garland-for-attorney-general-sources.amp"
+  - title: "Alejandro Mayorkas: What to know about Biden's DHS pick"
+    excerpt: "President Biden has nominated Alejandro Mayorkas to be the next secretary of the Department of Homeland Security (DHS), who will take a key role in the closely watched area of immigration policy."
+    publishedDateTime: 2021-01-22T17:53:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TOGt64wuNMc/alejandro-mayorkas-what-to-know-about-bidens-dhs-pick"
+    ampWebUrl: "https://www.foxnews.com/politics/alejandro-mayorkas-what-to-know-about-bidens-dhs-pick.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/alejandro-mayorkas-what-to-know-about-bidens-dhs-pick.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/89012e23-97fa-40ab-8ecd-c189377376e6/f147740e-1a31-4adb-b062-61e9bdfb2f9f/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21019608674449.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Xavier Becerra: What to know about Biden's HHS secretary pick"
+    excerpt: "President Joe Biden surprised the medical community when he nominated California Attorney General Xavier Becerra to serve on his cabinet as Secretary of Health and Human Services."
+    publishedDateTime: 2021-01-23T01:33:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/X4GiwYj_lR4/xavier-becerra-what-to-know-about-bidens-hhs-secretary-pick"
+    ampWebUrl: "https://www.foxnews.com/politics/xavier-becerra-what-to-know-about-bidens-hhs-secretary-pick.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/xavier-becerra-what-to-know-about-bidens-hhs-secretary-pick.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ab599ecb-1668-4f63-9264-9b290dbb6361/4efce791-81f2-4162-a2cd-be2e93315781/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -63,21 +79,21 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Biden nominates Judge Merrick Garland as attorney general, names other key DOJ picks"
-    excerpt: "President-elect Joe Biden on Thursday formally announced he will nominate Judge Merrick Garland as his attorney general, as well as other key nominations to the Justice Department."
-    publishedDateTime: 2021-01-07T11:58:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ss_Rq_iEQQM/biden-judge-merrick-garland-attorney-general-justice-department"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-judge-merrick-garland-attorney-general-justice-department.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-judge-merrick-garland-attorney-general-justice-department.amp"
+  - title: "Rhode Island ranked worst state to do business under Biden Commerce Secretary nominee's leadership"
+    excerpt: "Rhode Island was ranked among the top five worst places to do business in the U.S. during all four years Gina Raimondo, President Biden's nominee for secretary of commerce, was governor."
+    publishedDateTime: 2021-01-27T19:26:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oLDpTcX3XnI/rhode-island-worst-state-business-biden-commerce-raimondo"
+    ampWebUrl: "https://www.foxnews.com/politics/rhode-island-worst-state-business-biden-commerce-raimondo.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rhode-island-worst-state-business-biden-commerce-raimondo.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 168
+    quality: 161
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3e6cc050-5e3c-4af3-8996-40045a053ee5/ebbce464-9ae9-4185-a4e5-9485df9d3e95/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "m35xOdaXtXJmvh/Xq/rBH3qOlgjlbn+A4bTl3uk2a1tILuK3uTCNcF7y8C93+wZisiBeT8rxnv2eNejudRFkSg5wZwAsrecNZuLlKaSP5gXcBEyxIWNMRldnJZ5TcOhln2FrWwLBMcT5AGOBRhaCj1d/V6lLj0D3CMxPU9qTCoU7ZHlS+JLbvHLUI7/LWdGtdafko8Z2+uxFjy/MOa9Hh/AuZkid+N1fgXnScGBG+2iyzguoENWvm2G7jAMuKNh4+o7+zRKc2bzL/hePw5xyneICpLyJ5KTFZN3gJb9rR86jvwxGufEE8Vh53IcCpgIH5kJijOiOdj3XeFYEOOCeu9VNOAXCr5YM+FeTBlQvicA=;xst0x/qZ5rH7/PMf+2uhKA=="

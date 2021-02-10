@@ -63,22 +63,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "TeamTrump Twitter account suspended in social media crackdown"
-    excerpt: "Twitter on Friday suspended Team Trump's account on the platform not long after it banned President Trump's account."
-    publishedDateTime: 2021-01-09T17:23:56Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/M07S2BAyaPo/team-trump-twitter-account-suspended"
-    ampWebUrl: "https://www.foxnews.com/politics/team-trump-twitter-account-suspended.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/team-trump-twitter-account-suspended.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Capture-7.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Trump 'would have standing to challenge' his impeachment trial: Turley"
     excerpt: "George Washington University law professor Jonathan Turley told “America’s Newsroom” on Wednesday that President Trump “would have standing to challenge” his impeachment trial potentially taking place after he is no longer in office “and the court could rule on it.”"
     publishedDateTime: 2021-01-13T20:19:30Z
@@ -111,52 +95,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "After Trump Twitter ban, CBP chief says conservatives are 'constantly being censored' by Big Tech"
-    excerpt: "The head of Customs and Border Protection (CBP) said on Saturday that conservatives and Trump administration officials are \"constantly being censored\" -- a day after President Trump was permanently suspended from Twitter. "
-    publishedDateTime: 2021-01-09T16:55:25Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tSInzzeuWRE/trump-twitter-ban-cbp-chief-tech"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-twitter-ban-cbp-chief-tech.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-twitter-ban-cbp-chief-tech.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/886d202e-b4ba-4da6-bcc1-bda7cfd9a2a4/f4729944-945f-4a6d-b3c0-79a7da3fa698/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump a Twitter rival? After ban, president says he's in talks with other platforms -- or may launch his own"
-    excerpt: "President Trump on Friday said he is considering other social media platforms and may even create his own after he was banned from Twitter in the wake of Wednesday's U.S. Capitol riot."
-    publishedDateTime: 2021-01-09T05:59:16Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/USYuHRIz2qM/trump-a-twitter-rival-after-ban-president-says-hes-in-talks-with-other-platforms-or-may-launch-his-own"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-a-twitter-rival-after-ban-president-says-hes-in-talks-with-other-platforms-or-may-launch-his-own.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-a-twitter-rival-after-ban-president-says-hes-in-talks-with-other-platforms-or-may-launch-his-own.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 156
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/trump-twitter.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "As Trump's border wall tops 450-mile goal, CBP chief says more wall is coming"
-    excerpt: "The Trump administration on Tuesday announced that the number of miles of wall at the southern border had topped 450, a key election promise set by President Trump – with a top official saying more wall construction is underway."
-    publishedDateTime: 2021-01-05T18:04:47Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MBnWntiRONo/trumps-border-wall-tops-450-mile"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 152
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cafa9715-9cec-4ff3-9eee-a36559f3ad68/ded6b470-42f2-494c-aaac-73915157c297/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Lindsey Graham calls Twitter's Trump ban a mistake: 'Ayatollah can tweet, but Trump can’t'"
     excerpt: "S.C., lashed out at Twitter after the social media site announced Friday a permanent ban on President Trump's personal account, calling the move a \"serious mistake.\""
     publishedDateTime: 2021-01-09T20:41:00Z
@@ -173,15 +111,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Why Ban of President Trump Proves Twitter Not 'Just a Platform'"
-    excerpt: "So Twitter has permanently banned President Donald Trump's account. While this will please Democrats, and perhaps lessen the (justifiable) heat the company is taking from regulators, it just prov… This is what happened."
-    publishedDateTime: 2021-01-09T14:56:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/01/09/why_ban_of_president_trump_proves_twitter_not_just_a_platform_533042.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
 
 secured: "zQPbxWNp1HA0rdMvSjet6d9dqdPtrttBem4XQUWYkh5H146/zDYoZ75z9PA3RmRvsV8UkjfHSd5a6LVUNPz+177O8EnGWbBA5nUkxFFwxxByldBpuOpd6WPLy4k3zfBj/0lIFzFiMxx8memcWyUdve39tD5fRsozFWHXf+zpxKGGqysOWFPzWfvEW8z6i7iLcGUUNUbdFdE2l+Zz1I404ejjrWBkpxlaEgZjH6iEh6TAICx2W8hcIhcNi8BykH80Da97/tGDUcCq1yM9GGOIzYv+kCAPc8kViwoOxIAEIigHIA943Kob3IwGGA5W4eo65sz/tHa6Pgs4WZMEHu20hR7P1j1oR9RziByj0whQkLo=;sYNraDs6eOlYK79DVnYAAg=="
 ---

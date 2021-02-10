@@ -27,429 +27,491 @@ images:
     isCached: true
 
 related:
-  - title: "Top Republican says Trump committed 'impeachable offenses'"
-    excerpt: "Democrats' momentum for a fresh drive to quickly impeach outgoing President Donald Trump has gained support, and a top Republican said the president's role in the deadly riot at the Capitol by a violent mob of Trump supporters was worthy of rebuke."
-    publishedDateTime: 2021-01-10T05:10:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/top-republican-trump-committed-impeachable-offenses-75159240"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/top-republican-trump-committed-impeachable-offenses-75159240"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/top-republican-trump-committed-impeachable-offenses-75159240"
+  - title: "Trump supporters storm Capitol during electoral college count"
+    excerpt: "Violent protesters loyal to President Donald Trump stormed the U.S. Capitol on Wednesday and forced lawmakers into hiding, in a stunning attempt to overturn America’s presidential election, undercut the nation’s democracy and keep Democrat Joe Biden from replacing Trump in the White House."
+    publishedDateTime: 2021-01-06T22:55:00Z
+    webUrl: "https://www.washingtonpost.com/lifestyle/kidspost/trump-supporters-storm-capitol-during-electoral-college-count/2021/01/06/0ff54580-506b-11eb-b96e-0e54447b23a1_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/lifestyle/kidspost/trump-supporters-storm-capitol-during-electoral-college-count/2021/01/06/0ff54580-506b-11eb-b96e-0e54447b23a1_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/kidspost/trump-supporters-storm-capitol-during-electoral-college-count/2021/01/06/0ff54580-506b-11eb-b96e-0e54447b23a1_story.html?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_05a995faf0c04632b66729e7fb53de99_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4K2DZJCQNUI6XOLOBZKEI6ZDUE.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "Republican Sen. Toomey says Trump committed ‘impeachable offenses’"
-    excerpt: "Sen. Pat Toomey (R-Pa.) said he believed Trump had committed “impeachable offenses.” But he stopped short of saying whether he would vote to remove the president from office at the conclusion of a Senate trial if the House sent over articles of impeachment."
-    publishedDateTime: 2021-01-11T04:50:00Z
-    webUrl: "https://www.latimes.com/world-nation/story/2021-01-09/top-republican-says-trump-committed-impeachable-offenses"
-    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-01-09/top-republican-says-trump-committed-impeachable-offenses?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-01-09/top-republican-says-trump-committed-impeachable-offenses?_amp=true"
+  - title: "Trump tells backers to ‘go home’ after Capitol stormed"
+    excerpt: "President Donald Trump urged supporters who stormed the Capitol to “go home” but also kept up false attacks about the presidential election"
+    publishedDateTime: 2021-01-07T02:08:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-doesnt-ask-backers-to-disperse-after-storming-capitol/2021/01/06/4abc2b5a-5063-11eb-a1f5-fdaf28cfca90_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-doesnt-ask-backers-to-disperse-after-storming-capitol/2021/01/06/4abc2b5a-5063-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-doesnt-ask-backers-to-disperse-after-storming-capitol/2021/01/06/4abc2b5a-5063-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
     type: article
     provider:
-      name: Los Angeles Times
-      domain: latimes.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/9cee817/2147483647/strip/true/crop/689x450+56+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F4a%2F62%2F8b1efa963432a7735fcbbb085fb6%2Fla-es-trump-culpa-a-la-caza-de-brujas-por-su-p-001"
-        width: 320
-        height: 209
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
-  - title: "Liz Cheney, No 3 House Republican, will vote to impeach Trump"
-    excerpt: "Powerful conservative joins growing number of Republicans seeking accountability for president after Capitol attack"
-    publishedDateTime: 2021-01-13T00:53:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jan/12/trump-impeachment-liz-cheney-republicans-capitol"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/12/trump-impeachment-liz-cheney-republicans-capitol"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/12/trump-impeachment-liz-cheney-republicans-capitol"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/7c5aa6f484f5dbb942ce0028830ac36d9d16ab4c/0_139_4176_2506/master/4176.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=397b857e998a94b49c379ed9463ac441"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Trump impeachment: Here's how the process works"
-    excerpt: "Impeachment proceedings for Donald Trump are nearing an end today, with the president facing vote in the Senate on two articles of impeachment that were approved by the House -- abuse of power and obstruction of Congress."
-    publishedDateTime: 2021-01-13T10:05:00Z
-    webUrl: "https://abcnews.go.com/Politics/impeachment-process-works/story?id=51202880"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/impeachment-process-works/story?id=51202880"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/impeachment-process-works/story?id=51202880"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/trump-rt-ps-190917_hpMain_2_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump impeachment: what you need to know as House moves to a vote"
-    excerpt: "Trump’s fiery speech at a rally just before the attack on the Capitol is at the center of the impeachment charge against him"
-    publishedDateTime: 2021-01-13T12:49:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jan/13/trump-impeachment-what-you-need-to-know"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/13/trump-impeachment-what-you-need-to-know"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/13/trump-impeachment-what-you-need-to-know"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/11df812b1d90287973cee1da1eaa11c8e754b00f/0_117_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=81e4f974c9e1deadc01e0b57dcfa9e9b"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "New Lincoln Project Ad Targets Donald Trump Impeachment"
-    excerpt: "Trump PAC released the video as Congress debates whether to remove the president after the insurrection at the U.S. Capitol."
-    publishedDateTime: 2021-01-13T16:57:00Z
-    webUrl: "https://www.newsweek.com/lincoln-project-donald-trump-impeach-capitol-insurrection-convict-1561242"
-    ampWebUrl: "https://www.newsweek.com/lincoln-project-donald-trump-impeach-capitol-insurrection-convict-1561242?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lincoln-project-donald-trump-impeach-capitol-insurrection-convict-1561242?amp=1"
+  - title: "Fact Check: Did Trump Family Hold a Capitol Riot Watch Party?"
+    excerpt: "A video purportedly showing President Donald Trump and members of his family and administration celebrating the riot at the Capitol on Wednesday by some of his supporters has spread rapidly online. The riot left five people dead,"
+    publishedDateTime: 2021-01-08T14:39:00Z
+    webUrl: "https://www.newsweek.com/fact-check-trump-family-hold-capitol-riot-watch-party-1559971"
+    ampWebUrl: "https://www.newsweek.com/fact-check-trump-family-hold-capitol-riot-watch-party-1559971?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fact-check-trump-family-hold-capitol-riot-watch-party-1559971?amp=1"
     type: article
     provider:
       name: Newsweek
       domain: newsweek.com
     quality: 125
     images:
-      - url: "https://d.newsweek.com/en/full/1705946/president-donald-trump-leaves-air-force-one.jpg"
-        width: 2686
-        height: 1607
+      - url: "https://d.newsweek.com/en/full/1701168/trump-jr-rnc-victory-rally.jpg"
+        width: 2500
+        height: 1668
         isCached: true
-  - title: "Michael Cohen writes foreword for Trump impeachment book"
-    excerpt: "A bound edition about President Donald Trump’s second impeachment will feature a foreword from an estranged associate — former Trump attorney Michael Cohen"
-    publishedDateTime: 2021-01-15T06:43:00Z
-    webUrl: "https://www.washingtonpost.com/national/michael-cohen-writes-foreword-for-trump-impeachment-book/2021/01/14/0737332c-56d3-11eb-acc5-92d2819a1ccb_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national/michael-cohen-writes-foreword-for-trump-impeachment-book/2021/01/14/0737332c-56d3-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/michael-cohen-writes-foreword-for-trump-impeachment-book/2021/01/14/0737332c-56d3-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+  - title: "Family: Trump supporter who died followed QAnon conspiracy"
+    excerpt: "Friends and relatives say a Georgia woman killed in Wednesday’s siege of the U.S. Capitol was a recovering drug addict who wanted to become a sobriety counselor"
+    publishedDateTime: 2021-01-09T12:43:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/family-trump-supporter-died-qanon-conspiracy-75147520"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/family-trump-supporter-died-qanon-conspiracy-75147520"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/family-trump-supporter-died-qanon-conspiracy-75147520"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_10f0fe4d5c6741cebcd017089c462e9b_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump supporters, counter-protesters clash in San Diego"
+    excerpt: "Supporters of President Donald Trump clashed with counter-protesters in San Diego on Saturday, prompting police to declare the gathering an unlawful assembly because of acts of violence"
+    publishedDateTime: 2021-01-10T02:14:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/trump-supporters-counter-protesters-clash-san-diego-75157141"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/trump-supporters-counter-protesters-clash-san-diego-75157141"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/trump-supporters-counter-protesters-clash-san-diego-75157141"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/WireAP_c50494225bc546f380170233055188d2_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Maryland Gov. Larry Hogan blames Trump, GOP lawmakers for Capitol riot"
+    excerpt: "Maryland Gov. Larry Hogan, a longtime Republican critic of President Trump, on Sunday blamed him for inciting the riot at the U.S. Capitol and slammed GOP members of Congress for lending credence to Trump’s false allegations of election fraud."
+    publishedDateTime: 2021-01-10T20:19:00Z
+    webUrl: "https://www.washingtonpost.com/local/md-politics/hogan-blames-trump-capitol/2021/01/10/169d3fa0-5354-11eb-a817-e5e7f8a406d6_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/md-politics/hogan-blames-trump-capitol/2021/01/10/169d3fa0-5354-11eb-a817-e5e7f8a406d6_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/md-politics/hogan-blames-trump-capitol/2021/01/10/169d3fa0-5354-11eb-a817-e5e7f8a406d6_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DX4GC5SQK4I6XIPV7WXSRT6KSA.jpg&w=1440"
+        width: 1440
+        height: 1080
         isCached: true
-  - title: "Top House Republican Liz Cheney says she will vote to impeach Donald Trump – live"
-    excerpt: "Wyoming conservative’s split with the president could give cover to other Republicans who want to vote to impeach – follow live"
-    publishedDateTime: 2021-01-12T22:35:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/12/donald-trump-impeachment-insurrection-capitol-joe-biden-coronavirus-covid-live-updates?page=with:block-5ffe3ec28f08f301ebd543b2"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/12/donald-trump-impeachment-insurrection-capitol-joe-biden-coronavirus-covid-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/12/donald-trump-impeachment-insurrection-capitol-joe-biden-coronavirus-covid-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 120
-    images:
-      - url: "https://i.guim.co.uk/img/media/8f3bdd119f3897a60e2339f4a0db8c80785d8e1c/0_319_4783_2870/master/4783.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cf82ae328ec5ff4d05c413884627e65f"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Trump impeachment: attention turns to Senate after House votes to impeach – live"
-    excerpt: "Biden to set out Covid vaccination and economic rescue package plans"
-    publishedDateTime: 2021-01-14T12:17:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/14/donald-trump-impeachment-congress-senate-joe-biden-mitch-mcconnell-coronavirus-covid-live-updates"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/14/donald-trump-impeachment-congress-senate-joe-biden-mitch-mcconnell-coronavirus-covid-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/14/donald-trump-impeachment-congress-senate-joe-biden-mitch-mcconnell-coronavirus-covid-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 120
-    images:
-      - url: "https://i.guim.co.uk/img/media/9a56e2b5f78e9f720c135beccffd90692f2f238f/0_171_4308_2586/master/4308.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=fa4ff21a9d6e4d961982f1de2692b2a8"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Trump impeachment: attention turns to Senate after House votes to impeach – live"
-    excerpt: "Trump’s impeachment in the House triggers a trial in the Senate, which McConnell says can’t begin until Senate is back in session Tuesday"
-    publishedDateTime: 2021-01-14T18:26:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/14/donald-trump-impeachment-congress-senate-joe-biden-mitch-mcconnell-coronavirus-covid-live-updates?page=with:block-600084268f0853a2a9aac1ff"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/14/donald-trump-impeachment-congress-senate-joe-biden-mitch-mcconnell-coronavirus-covid-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/14/donald-trump-impeachment-congress-senate-joe-biden-mitch-mcconnell-coronavirus-covid-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 120
-    images:
-      - url: "https://i.guim.co.uk/img/media/d6a434cb96b042551370faaa1242a3eb1a2b426c/0_74_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=86464133e853da2e6dd68d48d008dc1e"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Trump's incitement of mob at Capitol is 'impeachable offense,' Chris Christie says"
-    excerpt: "Chris Christie is perhaps the most notable former supporter of President Donald Trump to back impeachment so far."
-    publishedDateTime: 2021-01-10T18:33:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/01/10/chris-christie-trump-incitement-mob-impeachable-offense/6615766002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6615766002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6615766002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 119
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/02/USAT/55d4865c-6178-40b0-ad33-6d8e079e2e7f-TRUMP_POSITIVE_CORONAVIRUS_13.JPG?auto=webp&crop=4499,2531,x0,y187&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump impeachment live updates: Trump on track to be 1st president impeached twice"
-    excerpt: "Live updates during the transition from the Trump to Biden administrations -- and from the second Trump impeachment."
-    publishedDateTime: 2021-01-13T13:27:00Z
-    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-transition-trump-biden-impeachment/?id=75166132"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-transition-trump-biden-impeachment/?id=75166132"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-transition-trump-biden-impeachment/?id=75166132"
+  - title: "Facebook 'indefinitely' blocks Trump's account after violence at Capitol"
+    excerpt: "Trump supporters violently stormed the Capitol building in Washington, D.C., during a joint session of Congress, Facebook took the unprecedented step of indefinitely banning the president's account. At least four people have died following the so-called insurrection that erupted at the Capitol on Wednesday."
+    publishedDateTime: 2021-01-07T21:18:00Z
+    webUrl: "https://abcnews.go.com/Technology/facebook-indefinitely-blocks-trumps-account-violence-capitol/story?id=75108386"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/facebook-indefinitely-blocks-trumps-account-violence-capitol/story?id=75108386"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/facebook-indefinitely-blocks-trumps-account-violence-capitol/story?id=75108386"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 119
+    quality: 124
     images:
-      - url: "https://s.abcnews.com/images/Politics/trump6-gty-ml-210106_1609954173598_hpMain_16x9_1600.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "With Trump impeached, Democrats turn focus toward GOP 'accomplices' in Capitol siege"
-    excerpt: "A week after rioters stormed the U.S. Capitol, investigators are trying to determine if the biggest threat to lawmakers that day emanated from within Congress itself."
-    publishedDateTime: 2021-01-15T04:51:00Z
-    webUrl: "https://abcnews.go.com/US/trump-impeached-democrats-turn-focus-gop-accomplices-capitol/story?id=75259158"
-    ampWebUrl: "https://abcnews.go.com/amp/US/trump-impeached-democrats-turn-focus-gop-accomplices-capitol/story?id=75259158"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/trump-impeached-democrats-turn-focus-gop-accomplices-capitol/story?id=75259158"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 118
-    images:
-      - url: "https://s.abcnews.com/images/US/capitol-siege-congress-sheltering-ap-jef-210114_1610664843825_hpMain_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/International/trump-rt-rc-210106_1609954638505_hpMain_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "LIVE: House prepares to impeach Trump for 'incitement of insurrection' over deadly Capitol siege"
-    excerpt: "Multiple Republicans will break ranks to join Democrats in impeaching Trump for the second time. He unleashed a frenzied mob on the Capitol last week."
-    publishedDateTime: 2021-01-13T14:18:00Z
-    webUrl: "https://www.businessinsider.com/house-trump-impeachment-capitol-siege-schedule-watch-live-updates-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/house-trump-impeachment-capitol-siege-schedule-watch-live-updates-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/house-trump-impeachment-capitol-siege-schedule-watch-live-updates-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 112
-    images:
-      - url: "https://i.insider.com/5d5272afcd9784062d4f34d3?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Draft article of impeachment charges Trump with 'incitement of insurrection' in Capitol mob attack"
-    excerpt: "House Democrats on Friday discussed moving forward with plans to impeach President Donald Trump for the Capitol mob attack as early as Monday."
-    publishedDateTime: 2021-01-08T21:55:00Z
-    webUrl: "https://abcnews.go.com/Politics/draft-article-impeachment-charges-trump-incitement-insurrection-capitol/story?id=75132750"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/draft-article-impeachment-charges-trump-incitement-insurrection-capitol/story?id=75132750"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/draft-article-impeachment-charges-trump-incitement-insurrection-capitol/story?id=75132750"
+  - title: "Why Trump's response to Capitol siege evokes memories of Charlottesville"
+    excerpt: "Trump groups violently stormed the U.S. Capitol, the surreal images took many back to a dark chapter when white supremacists openly descended upon Charlottesville."
+    publishedDateTime: 2021-01-08T20:09:00Z
+    webUrl: "https://abcnews.go.com/Politics/trumps-response-capitol-siege-evokes-memories-charlottesville/story?id=75099122"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trumps-response-capitol-siege-evokes-memories-charlottesville/story?id=75099122"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trumps-response-capitol-siege-evokes-memories-charlottesville/story?id=75099122"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 111
+    quality: 124
     images:
-      - url: "https://s.abcnews.com/images/General/nancy-pelosi-01-ap-llr-210107_1610051104890_hpMain_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/US/washington-dc-capitol-riot-charlottesville-donald-trump-election-01-gty-llr-210106_1609982976596_hpMain_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Pelosi says House will impeach Trump, pushes VP to oust him"
-    excerpt: "House Speaker Nancy Pelosi says the House will proceed with legislation to impeach President Donald Trump as she pushes the vice president and the Cabinet to invoke constitutional authority force him out,"
-    publishedDateTime: 2021-01-11T14:27:00Z
-    webUrl: "https://www.businessinsider.com/pelosi-says-house-will-impeach-trump-pushes-vp-to-oust-him-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/pelosi-says-house-will-impeach-trump-pushes-vp-to-oust-him-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pelosi-says-house-will-impeach-trump-pushes-vp-to-oust-him-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "‘Impeaching Donald Trump will not heal divide in country'"
-    excerpt: "While there is a constitutional imperative and symbolism of impeaching President Donald Trump, it will not help heal divisions in the country, a former deputy homeland security adviser to president Barack Obama has said."
-    publishedDateTime: 2021-01-13T15:58:00Z
-    webUrl: "https://www.bbc.com/news/av/world-us-canada-55651929"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 105
-    images:
-      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p093wyn3.jpg"
-        width: 400
-        height: 225
-        isCached: true
-  - title: "Trump bears responsibility for Capitol attack: House Republican leader"
-    excerpt: "President Donald Trump bears responsibility for the attack on the U.S. Capitol last week, House Republican leader Kevin McCarthy said on Wednesday after arguing against the president's impeachment."
-    publishedDateTime: 2021-01-13T18:57:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-mccarthy/trump-bears-responsibility-for-capitol-attack-house-republican-leader-idUSKBN29I2PY"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210113&t=2&i=1547674538&r=LYNXMPEH0C1L0&w=800"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "U.S. lawmakers' comments on impeachment of President Donald Trump"
-    excerpt: "Following are comments on the U.S. House of Representatives vote on Wednesday on the impeachment of President Donald Trump. Unless noted otherwise, remarks were made on the House floor."
-    publishedDateTime: 2021-01-14T01:54:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-quotes/us-lawmakers-comments-on-impeachment-of-president-donald-trump-idUSKBN29I20Q"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210113&t=2&i=1547688231&r=LYNXMPEH0C15H&w=800"
-        width: 800
-        height: 540
-        isCached: true
-  - title: "Some Republicans argue Trump's pre-riot comments are protected speech"
-    excerpt: "President Trump could face legal troubles for his comments prior to the attack at the U.S. Capitol that led to five deaths. Some Republicans are defending him, citing a Supreme Court case that involved a KKK leader."
-    publishedDateTime: 2021-01-15T20:48:00Z
-    webUrl: "https://www.cbsnews.com/video/some-republicans-argue-trumps-pre-riot-comments-are-protected-speech/"
+  - title: "Lehigh University rescinds Trump's honorary degree after Capitol assault"
+    excerpt: "Lehigh University has rescinded the honorary degree it awarded to President Donald Trump more than 30 years ago. The announcement came two days after the president encouraged a mob of his supporters who stormed the Capitol,"
+    publishedDateTime: 2021-01-09T16:36:00Z
+    webUrl: "https://www.cbsnews.com/news/lehigh-university-rescinds-donald-trump-honorary-degree-capitol-assault/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/lehigh-university-rescinds-donald-trump-honorary-degree-capitol-assault/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/lehigh-university-rescinds-donald-trump-honorary-degree-capitol-assault/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 105
+    quality: 124
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/15/1b2679af-eb68-409a-8351-a95836fed488/thumbnail/1200x630/f77abb6d409129769ab2c4869541ce38/cbsn-fusion-some-republicans-argue-president-trumps-pre-riot-comments-are-protected-speech-thumbnail-627311-640x360.jpg"
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/09/68323e33-f902-440c-8046-816a9f064d68/thumbnail/1200x630g2/a60ea5ae729431f57336314793108ca2/gettyimages-1294907289-1.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "U.S. House Speaker Pelosi won't say when Trump impeachment trial will start"
-    excerpt: "U.S. House of Representatives Speaker Nancy Pelosi on Friday sidestepped a question about when President Donald Trump would face his second impeachment trial, on a charge of inciting his supporters to attack the Capitol."
-    publishedDateTime: 2021-01-15T22:50:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump/u-s-house-speaker-pelosi-wont-say-when-trump-impeachment-trial-will-start-idUSKBN29K0NV?edition-redirect=ca"
+  - title: "Elaine Chao, Betsy DeVos step down from Trump Cabinet following Capitol storming"
+    excerpt: "Transportation Secretary Elaine Chao became the first Trump Cabinet member to resign in the wake of Wednesday's storming of the Capitol by the president's supporters."
+    publishedDateTime: 2021-01-08T08:13:00Z
+    webUrl: "https://abcnews.go.com/Politics/chao-trump-cabinet-member-resign-capitol-storming/story?id=75113253"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/chao-trump-cabinet-member-resign-capitol-storming/story?id=75113253"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/chao-trump-cabinet-member-resign-capitol-storming/story?id=75113253"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 103
+      name: ABC
+      domain: abcnews.go.com
+    quality: 120
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547955197&r=LYNXMPEH0E18J&w=800"
-        width: 800
-        height: 533
+      - url: "https://s.abcnews.com/images/Politics/betsy-devos_hpMain_20210107-210515_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "President Donald Trump impeached by US House for incitement of insurrection at Capitol; 1st US president impeached twice"
-    excerpt: "President Donald Trump impeached by US House for incitement of insurrection at Capitol; 1st US president impeached twice"
-    publishedDateTime: 2021-01-14T02:39:00Z
-    webUrl: "https://www.washingtonpost.com/politics/president-donald-trump-impeached-by-us-house-for-incitement-of-insurrection-at-capitol-1st-us-president-impeached-twice/2021/01/13/c965b654-55e7-11eb-acc5-92d2819a1ccb_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/president-donald-trump-impeached-by-us-house-for-incitement-of-insurrection-at-capitol-1st-us-president-impeached-twice/2021/01/13/c965b654-55e7-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/president-donald-trump-impeached-by-us-house-for-incitement-of-insurrection-at-capitol-1st-us-president-impeached-twice/2021/01/13/c965b654-55e7-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+  - title: "Trump awards Medals of Freedom to three golfers on morning after riot at Capitol"
+    excerpt: "Annika Sorenstam, Gary Player and the late Babe Zaharias were awarded Presidential Medals of Freedom Thursday, continuing the president's penchant for awarding athletes."
+    publishedDateTime: 2021-01-08T00:59:00Z
+    webUrl: "https://www.washingtonpost.com/sports/2021/01/07/trump-medals-of-freedom-gary-player-annika-sorenstam-babe-zaharias/"
+    ampWebUrl: "https://www.washingtonpost.com/sports/2021/01/07/trump-medals-of-freedom-gary-player-annika-sorenstam-babe-zaharias/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/sports/2021/01/07/trump-medals-of-freedom-gary-player-annika-sorenstam-babe-zaharias/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 100
+    quality: 120
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NXZKUKSMVII6XF5WJ247OL7UNM.jpg&w=1440"
+        width: 1440
+        height: 958
         isCached: true
-  - title: "Pat Toomey becomes 2nd Republican senator to call on Trump to resign; Rep. Jim Clyburn say impeachment vote in House this week"
-    excerpt: "Pennsylvania Republican Sen. Pat Toomey called on President Trump to resign, saying it would be the good of the country after the Capitol riot."
-    publishedDateTime: 2021-01-10T17:46:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-congress-reaction-20210110-ymrj7xq3djfoheosbkqjfzizqq-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-congress-reaction-20210110-ymrj7xq3djfoheosbkqjfzizqq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-congress-reaction-20210110-ymrj7xq3djfoheosbkqjfzizqq-story.html?outputType=amp"
+  - title: "Trump's biggest allies — including Ted Cruz, and Kellyanne Conway, and Mike Pence — are condemning the Capitol riots"
+    excerpt: "Senators Josh Hawley and Ted Cruz, who planned to object to the Electoral College's certification, both condemned the violence."
+    publishedDateTime: 2021-01-06T22:14:00Z
+    webUrl: "https://www.businessinsider.com/trump-allies-speaking-out-against-us-capitol-building-protests-riots-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/trump-allies-speaking-out-against-us-capitol-building-protests-riots-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-allies-speaking-out-against-us-capitol-building-protests-riots-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 117
+    images:
+      - url: "https://i.insider.com/5ff6312ed184b30018aad65b?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Donald Trump's Approval Rating Tanks to Record Low on Day of Potential Second Impeachment"
+    excerpt: "Sixty-three percent of voters said they disapprove of Trump's performance, making him one of the lowest-rated presidents in U.S. history."
+    publishedDateTime: 2021-01-13T16:08:00Z
+    webUrl: "https://www.newsweek.com/donald-trumps-approval-rating-tanks-record-low-day-potential-second-impeachment-1561212"
+    ampWebUrl: "https://www.newsweek.com/donald-trumps-approval-rating-tanks-record-low-day-potential-second-impeachment-1561212?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trumps-approval-rating-tanks-record-low-day-potential-second-impeachment-1561212?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 116
+    images:
+      - url: "https://d.newsweek.com/en/full/1705620/mandel-ngan.jpg"
+        width: 2500
+        height: 1666
+        isCached: true
+  - title: "House Democrats file an article of impeachment charging Trump with incitement of insurrection"
+    excerpt: "The president incited a deadly riot at the US Capitol last week that resulted in five deaths and Trump's de-platforming on mainstream social media."
+    publishedDateTime: 2021-01-11T16:32:00Z
+    webUrl: "https://www.businessinsider.com/house-democrats-article-of-impeachment-trump-incitement-of-insurrection-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/house-democrats-article-of-impeachment-trump-incitement-of-insurrection-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/house-democrats-article-of-impeachment-trump-incitement-of-insurrection-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 114
+    images:
+      - url: "https://i.insider.com/5ff5f5f5d184b30018aad517?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "House could vote to impeach Trump on Wednesday, one week after Capitol protest turned into a mob"
+    excerpt: "As the country comes to terms with the violent siege of the U.S. Capitol by Trump supporters that left five dead, the crisis that appears to be among the final acts of his presidency is deepening like few others in the nation’s history."
+    publishedDateTime: 2021-01-09T20:56:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-trump-impeachment-capitol-mob-20210109-2asefgfckjgwvhxn42aburlzqm-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-trump-impeachment-capitol-mob-20210109-2asefgfckjgwvhxn42aburlzqm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-trump-impeachment-capitol-mob-20210109-2asefgfckjgwvhxn42aburlzqm-story.html?outputType=amp"
     type: article
     provider:
       name: Chicago Tribune
       domain: chicagotribune.com
-    quality: 97
+    quality: 112
     images:
-      - url: "https://www.chicagotribune.com/resizer/gPDkhSIAijOSF5sP9fRMUdH19Eg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KTKQHOYW2PN5WNW7FPGHWZ2J54.jpg"
+      - url: "https://www.chicagotribune.com/resizer/wkhA_T0LTme2jIhms7pxzsguRsE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/VWEGM2GNQHGHG2TYWDJHHGRVNQ.jpg"
         width: 1200
-        height: 800
+        height: 779
         isCached: true
-  - title: "Explainer: Impeachment or the 14th Amendment - Can Trump be barred from future office?"
-    excerpt: "Some U.S. lawmakers have said President Donald Trump should be disqualified from holding political office again following his impeachment on Wednesday for inciting a mob that stormed the Capitol as lawmakers were certifying President-elect Joe Biden's victory."
-    publishedDateTime: 2021-01-14T14:52:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-explainer/explainer-impeachment-or-the-14th-amendment-can-trump-be-barred-from-future-office-idUSKBN29I356?edition-redirect=ca"
+  - title: "House Democrats introduce an article of impeachment charging Trump with incitement of insurrection"
+    excerpt: "The president incited a deadly riot at the US Capitol last week that resulted in five deaths and Trump's de-platforming on mainstream social media."
+    publishedDateTime: 2021-01-11T17:46:00Z
+    webUrl: "https://www.businessinsider.com/house-democrats-article-of-impeachment-trump-incitement-of-insurrection-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/house-democrats-article-of-impeachment-trump-incitement-of-insurrection-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/house-democrats-article-of-impeachment-trump-incitement-of-insurrection-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
+    images:
+      - url: "https://i.insider.com/5ff5f5f5d184b30018aad517?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Chinese bargain hunters pile into stocks blacklisted by Trump"
+    excerpt: "As U.S. investors dump shares in Chinese companies blacklisted by outgoing President Donald Trump, bargain hunters in China are taking the opposite side of that trade, wagering that a Joe Biden presidency will reverse the investment ban."
+    publishedDateTime: 2021-01-08T10:32:00Z
+    webUrl: "https://www.reuters.com/article/us-china-usa-bargainhunt/chinese-bargain-hunters-pile-into-stocks-blacklisted-by-trump-idUSKBN29D0JE?edition-redirect=ca"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 97
+    quality: 105
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210113&t=2&i=1547701260&r=LYNXMPEH0C1U1&w=800"
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210108&t=2&i=1547068874&r=LYNXMPEH0707R&w=800"
         width: 800
-        height: 524
+        height: 533
         isCached: true
-  - title: "Michael Cohen writes foreword for Trump impeachment book"
-    excerpt: "NEW YORK (AP) — A bound edition of materials about President Donald Trump’s second impeachment will feature a foreword from an estranged associate — former Trump attorney Michael Cohen. Skyhorse Publishing announced that “The Second Impeachment ..."
-    publishedDateTime: 2021-01-16T06:46:00Z
-    webUrl: "https://www.usatoday.com/story/entertainment/books/2021/01/15/trump-impeachment-book-michael-cohen-writes-foreword/4175351001/"
+  - title: "U.S. labor federation urges Trump removal, calling him 'danger' to nation"
+    excerpt: "The board of a labor federation of more than 50 unions representing 12.5 million workers called for U.S. President Donald Trump's resignation or removal from office."
+    publishedDateTime: 2021-01-08T16:52:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-labor/u-s-labor-federation-urges-trump-removal-calling-him-danger-to-nation-idUSKBN29D2A8"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 85
-  - title: "Nancy Pelosi says House will move to impeach Donald Trump"
-    excerpt: "Pelosi said that first the House will try to force Vice President Mike Pence and the Cabinet to oust Trump by invoking the 25th Amendment."
-    publishedDateTime: 2021-01-10T22:53:00Z
-    webUrl: "https://www.al.com/politics/2021/01/nancy-pelosi-says-house-will-move-to-impeach-donald-trump.html"
-    ampWebUrl: "https://www.al.com/politics/2021/01/nancy-pelosi-says-house-will-move-to-impeach-donald-trump.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/politics/2021/01/nancy-pelosi-says-house-will-move-to-impeach-donald-trump.html?outputType=amp"
-    type: article
-    provider:
-      name: al.com
-      domain: al.com
-    quality: 75
+      name: Reuters
+      domain: reuters.com
+    quality: 104
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VI3E2I5XCZC4DOMAW4XAFNE4Y4.jpg"
-        width: 3802
-        height: 2719
+      - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Trump Impeachment: 56% Of Americans Want POTUS Removed From Office"
-    excerpt: "Americans want Trump ousted from office before Jan. 20 A majority of respondents blame Trump for the violent insurrection on Capitol Hill The riot led to to the death of five people A majority of Americans believe President Donald Trump should be impeached following the violent insurrection at the U."
-    publishedDateTime: 2021-01-11T01:58:00Z
-    webUrl: "https://www.ibtimes.com/trump-impeachment-56-americans-want-potus-removed-office-3118464"
-    ampWebUrl: "https://www.ibtimes.com/trump-impeachment-56-americans-want-potus-removed-office-3118464?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-impeachment-56-americans-want-potus-removed-office-3118464?amp=1"
+  - title: "US stock futures rise and oil nears 1-year high as investors shrug off Donald Trump impeachment and cheer stimulus"
+    excerpt: "The Democrats are poised to impeach Donald Trump again, but investors are betting on economic recovery and are buying stocks and commodities."
+    publishedDateTime: 2021-01-13T09:49:00Z
+    webUrl: "https://www.businessinsider.com/stock-markets-today-futures-rise-oil-nears-year-high-trump-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/stock-markets-today-futures-rise-oil-nears-year-high-trump-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stock-markets-today-futures-rise-oil-nears-year-high-trump-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 103
+    images:
+      - url: "https://images2.markets.businessinsider.com/5ffeb999a8de7700187d38c0?format=jpeg"
+        width: 701
+        height: 526
+        isCached: true
+  - title: "GOP Sen. Pat Toomey calls on Trump to resign, says it's what's best for country after Capitol riot by Trump supporters"
+    excerpt: "GOP Sen. Pat Toomey calls on Trump to resign, says it's what's best for country after Capitol riot by Trump supporters"
+    publishedDateTime: 2021-01-10T14:52:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/gop-sen-pat-toomey-calls-trump-resign-best-75162036"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/gop-sen-pat-toomey-calls-trump-resign-best-75162036"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/gop-sen-pat-toomey-calls-trump-resign-best-75162036"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 101
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
+  - title: "Here are some of the prominent figures spotted among the Pro-Trump insurrectionists who attempted a coup at the Capitol"
+    excerpt: "A March for Trump descended into extreme chaos at the US Capitol Wednesday. Few Trump supporters at the scene tried to conceal their identities."
+    publishedDateTime: 2021-01-09T16:27:00Z
+    webUrl: "https://www.businessinsider.com/prominent-figures-spotted-at-the-capitol-siege-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/prominent-figures-spotted-at-the-capitol-siege-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/prominent-figures-spotted-at-the-capitol-siege-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 101
+    images:
+      - url: "https://i.insider.com/5ff652ebd184b30018aad6d3?width=750&format=jpeg&auto=webp"
+        width: 750
+        height: 508
+        isCached: true
+  - title: "READ: House Democrats release a scathing 50-page report in favor of impeaching Trump for inciting deadly Capitol riots"
+    excerpt: "Trump is set to leave office on January 20, but Democrats contend that he poses an \"imminent threat\" to the nation's safety."
+    publishedDateTime: 2021-01-13T02:33:00Z
+    webUrl: "https://www.businessinsider.com/read-house-democrats-impeachment-report-for-trump-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/read-house-democrats-impeachment-report-for-trump-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/read-house-democrats-impeachment-report-for-trump-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 101
+    images:
+      - url: "https://i.insider.com/5ff5f5f5d184b30018aad517?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Democrats to discuss impeaching Trump for a second time after assault on Capitol"
+    excerpt: "Congressional Democrats on Friday were weighing impeaching U.S. President Donald Trump for an unprecedented second time after his supporters, inflamed by his false claims of election fraud, stormed the U."
+    publishedDateTime: 2021-01-08T14:08:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-int/democrats-to-discuss-impeaching-trump-for-a-second-time-after-assault-on-capitol-idUSKBN29D0NG"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 100
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210108&t=2&i=1547109229&r=LYNXMPEH070TB&w=800"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Twitter permanently suspends Trump's account, cites 'incitement of violence' risk"
+    excerpt: "Twitter Inc said on Friday that it has permanently suspended U.S. President Donald Trump's account due to the risk of further incitement of violence following the storming of the U.S. Capitol on Wednesday."
+    publishedDateTime: 2021-01-09T08:32:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-trump-twitter/twitter-permanently-suspends-trumps-account-cites-incitement-of-violence-risk-idUKKBN29D359"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 100
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210109&t=2&i=1547172914&r=LYNXMPEH0800P&w=800"
+        width: 799
+        height: 576
+        isCached: true
+  - title: "Only surprising if you weren’t paying attention: Trump left many clues he wouldn’t go quietly, and nor would his supporters"
+    excerpt: "President Donald Trump left plenty of clues he’d try to burn the place down on his way out the door. The clues spread over a lifetime of refusing to acknowledge defeat. They spanned a presidency marked by raw,"
+    publishedDateTime: 2021-01-09T16:47:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-capitol-riot-20210109-mxdgqqsnfngt3jkzrh6ioarive-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-capitol-riot-20210109-mxdgqqsnfngt3jkzrh6ioarive-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-capitol-riot-20210109-mxdgqqsnfngt3jkzrh6ioarive-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 99
+    images:
+      - url: "https://www.chicagotribune.com/resizer/5yYA4r0jVa3ngPsBwkvI4s1CASA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/I4Q4HX2ZX3BCMGRSYWFU3UI4NU.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Billionaire Trump supporters Catsimatidis, Olenicoff say he isn't to blame for US Capitol attack"
+    excerpt: "Few of Trump's billionaire donors have named the president in their public condemnations of the riots. Two actually say Trump didn't incite them."
+    publishedDateTime: 2021-01-08T18:36:00Z
+    webUrl: "https://www.businessinsider.com/billionaires-catsimatidis-olenicoff-dont-blame-trump-on-capitol-riot-2021-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 92
+    images:
+      - url: "https://i.insider.com/5ff88ee4bde805001980be45?width=1200&format=jpeg"
+        width: 1000
+        height: 500
+        isCached: true
+  - title: "Wall Street distances itself from Trump, GOP after storming of Capitol. ‘We will not support candidates who do not respect the rule of law.’"
+    excerpt: "A growing number of Wall Street banks and businesses have cut ties with President Donald Trump’s campaign and financial arms, as well as the broader Republican Party, following last week’s riots and insurrection at the U."
+    publishedDateTime: 2021-01-11T16:58:00Z
+    webUrl: "https://www.chicagotribune.com/business/ct-biz-capitol-insurrection-trump-corporations-20210111-xho5ho3babfu3hm5gumffydvai-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/business/ct-biz-capitol-insurrection-trump-corporations-20210111-xho5ho3babfu3hm5gumffydvai-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/business/ct-biz-capitol-insurrection-trump-corporations-20210111-xho5ho3babfu3hm5gumffydvai-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 90
+    images:
+      - url: "https://www.chicagotribune.com/resizer/U-S-V3YyQTOVXBG3OrevWyK-d8g=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/VVBXHIRERVB6DGESUS6DGCDDWA.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Donald Trump Could Pardon Rappers Lil Wayne, Kodak Black"
+    excerpt: "Lil Wayne and Kodak Black might get a pardon from Donald Trump The president is expected to announce his final pardon list on Jan. 19 Wayne and Black were charged for possession of weapons Rappers Lil Wayne and Kodak Black could soon walk away as free men since President Donald Trump could be thinking of pardoning both artists before he leaves the office on Jan."
+    publishedDateTime: 2021-01-12T05:36:00Z
+    webUrl: "https://www.ibtimes.com/donald-trump-could-pardon-rappers-lil-wayne-kodak-black-3119640"
+    ampWebUrl: "https://www.ibtimes.com/donald-trump-could-pardon-rappers-lil-wayne-kodak-black-3119640?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-could-pardon-rappers-lil-wayne-kodak-black-3119640?amp=1"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
     quality: 75
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/09/demonstrators-in-new-york-call-for-impeachment-of.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "What's next after House votes to impeach Donald Trump? Here's an explainer."
-    excerpt: "President Donald Trump has been impeached by the House days before leaving office, becoming the first American president to be impeached twice. The previous three impeachments — those of Presidents Andrew Johnson,"
-    publishedDateTime: 2021-01-14T16:18:00Z
-    webUrl: "https://www.nola.com/news/politics/national_politics/article_7222019e-5683-11eb-bade-bfab0205f9c6.html"
-    ampWebUrl: "https://www.nola.com/news/politics/national_politics/article_7222019e-5683-11eb-bade-bfab0205f9c6.amp.html"
-    cdnAmpWebUrl: "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/news/politics/national_politics/article_7222019e-5683-11eb-bade-bfab0205f9c6.amp.html"
-    type: article
-    provider:
-      name: NOLA.com
-      domain: nola.com
-    quality: 73
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/b/3f/b3f12186-54e9-11eb-b486-2b606d078d60/5ffdbe5be749e.image.jpg?resize=1024%2C683"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/04/lil-wayne.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "VIDEO: Trump Supporters Attempt To Storm Capitol Building, Clash With Police"
+    excerpt: "Two buildings were evacuated near the Capitol due to \"police activity.\" Thousands of President Trump’s supporters had planned to gather in Washington for a “Stop The Steal”"
+    publishedDateTime: 2021-01-06T19:14:00Z
+    webUrl: "https://www.ibtimes.com/video-trump-supporters-attempt-storm-capitol-building-clash-police-3115032"
+    ampWebUrl: "https://www.ibtimes.com/video-trump-supporters-attempt-storm-capitol-building-clash-police-3115032?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/video-trump-supporters-attempt-storm-capitol-building-clash-police-3115032?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 72
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/06/gettyimages-1230451801.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump Taunted For Being Banned From Pinterest Even Though He Doesn’t Have Account"
+    excerpt: "After Trump incited the Capitol riot, which delayed the certification of Joe Biden’s win in the 2020 presidential election, social media apps began suspending Trump’s account. Even though he doesn’t have a Pinterest account,"
+    publishedDateTime: 2021-01-09T20:22:00Z
+    webUrl: "https://www.ibtimes.com/trump-taunted-being-banned-pinterest-even-though-he-doesnt-have-account-3118059"
+    ampWebUrl: "https://www.ibtimes.com/trump-taunted-being-banned-pinterest-even-though-he-doesnt-have-account-3118059?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-taunted-being-banned-pinterest-even-though-he-doesnt-have-account-3118059?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 70
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/14/internet-bulletin-board-pinterest-will-pay-former-chief.jpg"
+        width: 1024
+        height: 700
+        isCached: true
+  - title: "Alabama Republicans not blaming Trump for actions of supporters who stormed Capitol"
+    excerpt: "Secretary of State John Merrill, a Republican, did say that Trump and others fueled the violence with false claims that the results of the election could still be reversed."
+    publishedDateTime: 2021-01-10T11:00:00Z
+    webUrl: "https://www.al.com/news/2021/01/alabama-republicans-not-blaming-trump-for-actions-of-supporters-who-stormed-capitol.html"
+    ampWebUrl: "https://www.al.com/news/2021/01/alabama-republicans-not-blaming-trump-for-actions-of-supporters-who-stormed-capitol.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/alabama-republicans-not-blaming-trump-for-actions-of-supporters-who-stormed-capitol.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 69
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SHVL4VDBIFGTLATHF2NXMANVUI.jpg"
+        width: 6000
+        height: 4000
         isCached: true
   - title: "Three GOP Senators Support Trump Impeachment Or Resignation: 'Go Away As Soon As Possible'"
     excerpt: "House Democrats will reportedly attempt to pass a resolution calling for Vice President Pence and the Cabinet to invoke the 25th Amendment."
@@ -467,58 +529,77 @@ related:
         width: 1024
         height: 732
         isCached: true
-  - title: "Trump impeachment: McConnell open to convicting president at trial; Senate will return Jan. 19"
-    excerpt: "McConnell's openness was a stark contrast to the support, or at times silence, he’s shown during much of Trump’s presidency, and to the opposition he expressed rapidly when the House impeached Trump 13 months ago."
-    publishedDateTime: 2021-01-14T11:22:00Z
-    webUrl: "https://www.al.com/politics/2021/01/trump-impeachment-mcconnell-open-to-convicting-president-at-trial-senate-will-return-jan-19.html"
-    ampWebUrl: "https://www.al.com/politics/2021/01/trump-impeachment-mcconnell-open-to-convicting-president-at-trial-senate-will-return-jan-19.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/politics/2021/01/trump-impeachment-mcconnell-open-to-convicting-president-at-trial-senate-will-return-jan-19.html?outputType=amp"
+  - title: "YouTube Suspends Donald Trump's Channel For 7 Days Following Capitol Riots, Disables Comments"
+    excerpt: "YouTube has suspended Donald Trump's channel for at least seven days and took down a video for violating its policies."
+    publishedDateTime: 2021-01-13T07:58:00Z
+    webUrl: "https://www.ibtimes.com/youtube-suspends-donald-trumps-channel-7-days-following-capitol-riots-disables-3120714"
+    ampWebUrl: "https://www.ibtimes.com/youtube-suspends-donald-trumps-channel-7-days-following-capitol-riots-disables-3120714?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/youtube-suspends-donald-trumps-channel-7-days-following-capitol-riots-disables-3120714?amp=1"
     type: article
     provider:
-      name: al.com
-      domain: al.com
-    quality: 63
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 64
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/NTUN5GCYINBD3K36VXQ3ERTFMM.jpg"
-        width: 2555
-        height: 1438
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/12/us-president-donald-trump-leaves-for-a-trip.jpg"
+        width: 1024
+        height: 711
         isCached: true
-  - title: "EXPLAINER: How Trump's 2nd Impeachment Will Unfold"
-    excerpt: "The House is expected to vote to impeach President Donald Trump this week, a vote that would make him the first U.S. president to be impeached twice."
-    publishedDateTime: 2021-01-13T00:34:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-12/explainer-how-trumps-2nd-impeachment-will-unfold"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-12/explainer-how-trumps-2nd-impeachment-will-unfold?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-12/explainer-how-trumps-2nd-impeachment-will-unfold?context=amp"
+  - title: "Gov. Mike DeWine says he still supports Donald Trump, though blames him for occupation of U.S. Capitol"
+    excerpt: "DeWine said Trump's continued denial of the election inflamed his supporters, who overran the U.S. Capitol on Wednesday."
+    publishedDateTime: 2021-01-07T20:39:00Z
+    webUrl: "https://www.cleveland.com/open/2021/01/gov-mike-dewine-says-he-still-supports-donald-trump-though-blames-him-for-occupation-of-us-capitol.html"
+    ampWebUrl: "https://www.cleveland.com/open/2021/01/gov-mike-dewine-says-he-still-supports-donald-trump-though-blames-him-for-occupation-of-us-capitol.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/open/2021/01/gov-mike-dewine-says-he-still-supports-donald-trump-though-blames-him-for-occupation-of-us-capitol.html?outputType=amp"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
-  - title: "Snapchat Permanently Bans Donald Trump From Site"
-    excerpt: "Image-centric social network Snapchat on Wednesday said it has permanently banned US President Donald Trump from the platform, as voices are raised against keeping him off the internet stage. Trump's access to social media has been largely cut off since a violent mob of his supporters stormed the Capitol in Washington DC in a deadly attack on January 6."
-    publishedDateTime: 2021-01-14T02:44:00Z
-    webUrl: "https://www.ibtimes.com/snapchat-permanently-bans-donald-trump-site-3121559"
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 59
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/F43BGYKSCFFH3COOSGRAHZFIHY.jpg"
+        width: 2754
+        height: 1961
+        isCached: true
+  - title: "Short On Alternatives, Fans Trash Twitter's Trump Ban - On Twitter"
+    excerpt: "Friends, family and advisors to Donald Trump have been bitterly complaining that Twitter's ban of the president after his supporters stormed the US Capitol amounts to an assault on free speech by radical leftists."
+    publishedDateTime: 2021-01-09T21:21:00Z
+    webUrl: "https://www.ibtimes.com/short-alternatives-fans-trash-twitters-trump-ban-twitter-3118076"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
     quality: 55
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/13/social-media-network-snapchat-has-permanently-banned-donald.jpg"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/09/this-photo-from-august-10-shows-the-twitter.jpg"
         width: 1024
-        height: 681
+        height: 661
         isCached: true
-  - title: "Trump's Wall of GOP Support Breaks During Impeachment Vote"
-    excerpt: "The unbreakable wall of Republican support that encouraged and enabled Donald Trump’s norm-shattering presidency has cracked."
-    publishedDateTime: 2021-01-15T08:08:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-13/trumps-republican-wall-eroding-ahead-of-impeachment-vote"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-13/trumps-republican-wall-eroding-ahead-of-impeachment-vote?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-13/trumps-republican-wall-eroding-ahead-of-impeachment-vote?context=amp"
+  - title: "California Governor, State Assembly Support Removing Trump"
+    excerpt: "California Gov. Gavin Newsom says he supports removing Trump from office through impeachment or the 25th Amendment."
+    publishedDateTime: 2021-01-11T22:43:00Z
+    webUrl: "https://www.usnews.com/news/best-states/california/articles/2021-01-11/california-governor-state-assembly-support-removing-trump"
+    ampWebUrl: "https://www.usnews.com/news/best-states/california/articles/2021-01-11/california-governor-state-assembly-support-removing-trump?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/california/articles/2021-01-11/california-governor-state-assembly-support-removing-trump?context=amp"
     type: article
     provider:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Who Is Jake Angeli? QAnon Follower, Trump Supporter Who Wore Horns And Fur Charged In Capitol Riots"
+    excerpt: "Jake Angeli, who was among the more visible rioters on Wednesday, has been arrested in connection to the Capitol riot."
+    publishedDateTime: 2021-01-10T18:28:00Z
+    webUrl: "https://www.ibtimes.com/who-jake-angeli-qanon-follower-trump-supporter-who-wore-horns-fur-charged-capitol-3118394"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 41
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/09/supporters-of-us-president-donald-trump-including-member.jpg"
+        width: 1024
+        height: 695
+        isCached: true
 
 secured: "PEBuBFRLSggLQpgalM2jrGUjrG2rQLpOvIayUCrYNlnDUTyqKCKkR7uz9b1cm+7ojkTg2qQvkYxtJVEiE8YqRbTKYlm1p7mBFWHoJC3+qzi0gyBJNQToXI6Y4CKLBJQ8brcw/Bo4JxMku+YvozworpvSMTiqXZGQDo01taJotpRU7gNDLC5jvzbbD0z1iFg1nUlI0mnrdPF4R+xbvBtqkjo+ZjaEMdURHy7u7n8kRlXbcDAF9lKPkShhm4BnEysMC8VpLysedayEF4jOMSJRrfdPsZnYDUxA3MbfU/nwaZVT9kKVMB6pGrayVwXlXi1VY8Rp0huaOI1nfBqY4TVh4PNe28yOxR1peNPmP2Z74e8=;WtJMRyrAehmwzh0n8tnEbw=="
 ---

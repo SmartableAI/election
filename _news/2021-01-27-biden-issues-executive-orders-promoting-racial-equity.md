@@ -62,6 +62,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "House to vote on waiver for Biden defense secretary pick Lloyd Austin"
+    excerpt: "The House is expected to vote Thursday on a waiver to permit retired Gen. Lloyd Austin to serve as secretary of defense in the Biden administration.\n    \n"
+    publishedDateTime: 2021-01-21T12:06:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yn694VjIyiM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/21/politics/house-waiver-vote-defense-secretary-nominee/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/21/politics/house-waiver-vote-defense-secretary-nominee/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209140912-01-lloyd-austin-secretary-of-defense-announcement-1209-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Here are the executive orders Biden has signed so far"
     excerpt: "President Joe Biden has signed a flurry of executive orders, actions and memorandums aimed at rapidly addressing the coronavirus pandemic and dismantling many of President Donald Trump's policies.\n    \n"
     publishedDateTime: 2021-01-25T19:04:26Z
@@ -123,6 +139,38 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210126135135-01-biden-0125-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden to seek five-year extension of key nuclear arms treaty with Russia"
+    excerpt: "The Biden administration will seek a full five-year extension of a key arms control treaty between the US and Russia, according to a US official.\n    \n"
+    publishedDateTime: 2021-01-21T18:15:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Lm0MWO1YWdk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/21/politics/biden-new-start-extension/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/21/politics/biden-new-start-extension/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200608165352-usa-russia-flags-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Senate to vote on confirmation of Biden defense secretary pick Lloyd Austin"
+    excerpt: "The Senate will hold a confirmation vote on Friday for President Joe Biden's defense secretary pick retired Gen. Lloyd Austin.\n    \n"
+    publishedDateTime: 2021-01-22T11:39:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/i_QL3ea7PYM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/22/politics/lloyd-austin-senate-vote-confirmation/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/22/politics/lloyd-austin-senate-vote-confirmation/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210121162009-lloyd-austin-0119-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -363,6 +411,22 @@ related:
       - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
         width: 1120
         height: 629
+        isCached: true
+  - title: "What Joe Biden Can Learn From the Worst President In American History"
+    excerpt: "During the presidential debate on September 29, 2020, in Cleveland, Joe Biden bluntly told Donald Trump “You’re the worst president America has ever had.” This is a difficul"
+    publishedDateTime: 2021-01-20T16:23:00Z
+    webUrl: "https://www.thenation.com/article/politics/biden-learn-trump-economy/"
+    ampWebUrl: "https://www.thenation.com/article/politics/biden-learn-trump-economy/tnamp/"
+    cdnAmpWebUrl: "https://www-thenation-com.cdn.ampproject.org/c/s/www.thenation.com/article/politics/biden-learn-trump-economy/tnamp/"
+    type: article
+    provider:
+      name: The Nation
+      domain: thenation.com
+    quality: 85
+    images:
+      - url: "https://www.thenation.com/wp-content/uploads/2021/01/trump-stimulus-check-img.jpg"
+        width: 1440
+        height: 907
         isCached: true
 
 secured: "czk6zp1XmkDnXjyiHJQXz66R7F4x8pWnXdQg7I+aCP48x+GDLUoAbbJtL6NpN31oHaJ2z0I42hQ+vlebEcrVSmAaXUsYfzkJQ/sGXNktSL2AeHwb0YXB+tUnWiDlXhFdD76CYtFd289ZeDYvX+EH6X4IAQoZkngyROE+Olbtel7buNJi8BbVfB1odqfFoZmM4yoLVld7krYcYK8qDiihmkoJabsQecn4W9D3NmRfuKI1kd6Ur2AVY+D2FQgv9P+XuEO3oR4gh5mQboMMTKvz83jyQnCirYklthG0A1FP56X9ZWtFi+M2bPQB+6vUnb3dRJLZsBSs1xU6srXiM8P2fyjwBIaXwcurXCL/IryGhMU=;HsCwRPiwpXOFQPQuKi1L1A=="

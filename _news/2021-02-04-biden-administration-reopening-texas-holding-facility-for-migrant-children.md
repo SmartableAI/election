@@ -143,6 +143,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden administration considering Rahm Emanuel for ambassador role, report says"
+    excerpt: "Former Chicago mayor and ex-Obama chief of staff Rahm Emanuel might still end up in the Biden administration."
+    publishedDateTime: 2021-02-02T15:59:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MddK2eJxG8U/biden-rahm-emanuel-administration-role"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-rahm-emanuel-administration-role.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-rahm-emanuel-administration-role.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden administration pushes forward with two state solution with Israel, Palestine"
     excerpt: "President Biden has taken steps to reverse Trump-era policies in the Middle East by throwing the administration’s support behind finding a two-state solution between Israel and Palestine."
     publishedDateTime: 2021-01-27T02:21:24Z

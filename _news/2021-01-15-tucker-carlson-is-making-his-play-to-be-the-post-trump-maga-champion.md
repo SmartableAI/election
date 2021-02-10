@@ -9,8 +9,8 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/14/tucker-carlson-is
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/14/tucker-carlson-is-making-his-play-be-post-trump-maga-champion/?outputType=amp"
 type: article
 quality: 125
-heat: -1
-published: false
+heat: 205
+published: true
 
 provider:
   name: Washington Post
@@ -31,69 +31,69 @@ images:
     isCached: true
 
 related:
-  - title: "Theresa May too eager to pay homage to Donald Trump, says John Bercow"
-    excerpt: "PM’s ‘almost breathless’ quest to develop ties with US president"
-    publishedDateTime: 2021-01-09T19:48:00Z
-    webUrl: "https://www.theguardian.com/uk-news/2021/jan/09/theresa-may-too-eager-to-pay-homage-to-donald-trump-says-john-bercow"
-    ampWebUrl: "https://amp.theguardian.com/uk-news/2021/jan/09/theresa-may-too-eager-to-pay-homage-to-donald-trump-says-john-bercow"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/uk-news/2021/jan/09/theresa-may-too-eager-to-pay-homage-to-donald-trump-says-john-bercow"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/9ae50eeed19c88f00e8cfa0570b951d2529a8729/0_0_1562_937/master/1562.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=736cf1d696beff721b60f1b1dddfd7d7"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "R&A says no plans to award the Open to Trump's Turnberry"
-    excerpt: "The chief executive of the R&A says Donald Trump’s ownership of Turnberry will prevent the Scottish course from staging the British Open for \"the foreseeable future.\""
-    publishedDateTime: 2021-01-11T14:40:00Z
-    webUrl: "https://abcnews.go.com/Sports/wireStory/ra-plans-award-open-trumps-turnberry-75176746"
-    ampWebUrl: "https://abcnews.go.com/amp/Sports/wireStory/ra-plans-award-open-trumps-turnberry-75176746"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Sports/wireStory/ra-plans-award-open-trumps-turnberry-75176746"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_1deda14e260e40a5b24a2a905e43a5f2_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "How Donald Trump's hand-holding led to panicky call home by Theresa May"
-    excerpt: "A remarkable BBC documentary reveals the startling reality of meeting the president"
-    publishedDateTime: 2021-02-07T11:48:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/feb/07/how-donald-trumps-hand-holding-led-to-panicky-call-home-by-theresa-may?CMP=oth_b-aplnews_d-1"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/07/how-donald-trumps-hand-holding-led-to-panicky-call-home-by-theresa-may"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/07/how-donald-trumps-hand-holding-led-to-panicky-call-home-by-theresa-may"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/52c9efc5eb94b4ad66f48b556fdd3110f713e776/194_189_3962_2377/master/3962.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=61685925b23d35c19fcfba70c1e4b138"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "U.S. judge says Bolton may probe whether White House delayed security aide’s memoir to protect Trump from embarrassment"
-    excerpt: "Justice Dept. seeks profits from “The Room Where it Happened”; court rules Bolton may not challenge whether manuscript contained classified information"
-    publishedDateTime: 2021-01-15T04:26:00Z
-    webUrl: "https://www.washingtonpost.com/local/legal-issues/us-judge-says-bolton-may-probe-whether-white-house-delayed-security-aides-memoir-to-protect-trump-from-embarrassment/2021/01/14/04eae026-569e-11eb-a08b-f1381ef3d207_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/local/legal-issues/us-judge-says-bolton-may-probe-whether-white-house-delayed-security-aides-memoir-to-protect-trump-from-embarrassment/2021/01/14/04eae026-569e-11eb-a08b-f1381ef3d207_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/legal-issues/us-judge-says-bolton-may-probe-whether-white-house-delayed-security-aides-memoir-to-protect-trump-from-embarrassment/2021/01/14/04eae026-569e-11eb-a08b-f1381ef3d207_story.html?outputType=amp"
+  - title: "Carl Icahn nixes charity bid to blow up ex-Trump casino"
+    excerpt: "An auction house seeking bids to blow up a former casino once owned by President Donald Trump has canceled the effort after receiving a cease-and-desist letter from conservative billionaire Carl Icahn"
+    publishedDateTime: 2021-01-19T00:55:00Z
+    webUrl: "https://www.washingtonpost.com/business/carl-icahn-nixes-charity-bid-to-blow-up-ex-trump-casino/2021/01/18/12e1ce34-59c7-11eb-a849-6f9423a75ffd_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/business/carl-icahn-nixes-charity-bid-to-blow-up-ex-trump-casino/2021/01/18/12e1ce34-59c7-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/carl-icahn-nixes-charity-bid-to-blow-up-ex-trump-casino/2021/01/18/12e1ce34-59c7-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 101
+    quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VXVECLRQZQI6VICT3RWZIS5HOY.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Donald Trump's Most Powerful Post-Presidential Talking Point Could Be Immigration"
+    excerpt: "On his way out of office, Trump's administration added 28 new questions to the U.S. citizenship test. His hardline views never stopped appealing to his most fervent supporters."
+    publishedDateTime: 2021-01-20T18:31:00Z
+    webUrl: "https://www.newsweek.com/donald-trumps-most-powerful-post-presidential-talking-point-could-immigration-1562839"
+    ampWebUrl: "https://www.newsweek.com/donald-trumps-most-powerful-post-presidential-talking-point-could-immigration-1562839?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trumps-most-powerful-post-presidential-talking-point-could-immigration-1562839?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 120
+    images:
+      - url: "https://d.newsweek.com/en/full/1711236/donald-trump-gop-republican.jpg"
+        width: 3283
+        height: 2504
+        isCached: true
+  - title: "Paleologos on the Poll: Inauguration Day isn't the end of the Trump era. It's just the beginning."
+    excerpt: "David Paleologos, director of the Suffolk University Political Research Center, says Trump would be the favorite in the 2024 GOP primary."
+    publishedDateTime: 2021-01-17T19:02:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/17/paleologos-poll-trump-era-just-getting-started/4196345001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4196345001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4196345001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 112
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/17/USAT/70c724f1-c6e6-4639-a168-b6684566f5d1-AP_Capitol_Breach_Rally_Organizers.jpg?auto=webp&crop=4519,2542,x562,y162&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Steve Bannon expected to get pardon from Donald Trump"
+    excerpt: "Bannon has been charged with duping thousands of investors who believed their money would be used to fulfill Trump’s chief campaign promise to build a wall along the southern border. Instead, he allegedly diverted over a million dollars,"
+    publishedDateTime: 2021-01-20T08:14:00Z
+    webUrl: "https://www.nj.com/politics/2021/01/steve-bannon-expected-to-get-pardon-from-donald-trump.html"
+    ampWebUrl: "https://www.nj.com/politics/2021/01/steve-bannon-expected-to-get-pardon-from-donald-trump.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/politics/2021/01/steve-bannon-expected-to-get-pardon-from-donald-trump.html?outputType=amp"
+    type: article
+    provider:
+      name: NJ.com
+      domain: nj.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/MHS7TFUTIVCPNAWN3OPGOA37UM.jpg"
+        width: 5053
+        height: 3566
         isCached: true
 
 secured: "HiH/peZcYevm3KuPNaaag39OHGml27jPGyrWlMlAJqcO5g5O+5h4O2tKWoHlFBAwUNrnFIaWeY2kaRhOFIkSDQjxW8P2fnFo8+YY9cziq3z7v/cWiPOG69Qg/GMIki9pGWW3njaNh1DExiXr3k8O9Dth2YYdkj2IUe24W1nf0vKW2W4JW4FigVqElSRSoSjPGr3gnZiJBcSOEPSJxns2BRVZM9qjtNz/VTbYqyRc+paBCVbE8F8ZO0XdmKaXy+R23SWY6n6TGsI0WPJ1DU1R4vDywY/lFEdAra1PRQJuFsgVtlQvUXnmEfhd/4BkvIkQvaRR5UILyKcLN7Fed+SsaGqSXzflBejnSlHSLAPaA6w=;mC8UX4efyCJGKefGu1DICQ=="

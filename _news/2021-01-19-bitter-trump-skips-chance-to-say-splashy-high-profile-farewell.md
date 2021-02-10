@@ -127,22 +127,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Attorney representing Trump in Texas dispute pushed racist conspiracy about Kamala Harris"
-    excerpt: "An attorney representing President Donald Trump, John Eastman, is known for recently pushing a racist conspiracy theory -- that Trump himself later amplified -- claiming Vice President-elect Kamala Harris might not be eligible for the role because her parents were immigrants.\n    \n"
-    publishedDateTime: 2020-12-09T23:35:35Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Qf46tHJkzg8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/politics/john-eastman-trump-texas-kamala-harris/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/john-eastman-trump-texas-kamala-harris/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 191
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/130630135736-john-eastman-traditional-marriage-story-top.jpg"
-        width: 640
-        height: 360
-        isCached: true
   - title: "Biden's Covid team is nervous about what the Trump team hasn't told them"
     excerpt: "With the hours dwindling until Joe Biden is sworn in -- officially taking the helm of the US government during its worst health crisis in 100 years -- a sense of nervousness has set in among those advising the incoming President on the pandemic.\n    \n"
     publishedDateTime: 2021-01-19T12:42:59Z
@@ -668,22 +652,6 @@ related:
     quality: 160
     images:
       - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202101/nbc_harris_escorts_pence_210120_1611170540632.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Biden, Harris to receive daily briefing, Trump to hold award ceremony, bill signing"
-    excerpt: "Biden and Harris also will record an interview with CNN, while Trump will present the medal to former football coach Lou Holtz and participate in a bill signing."
-    publishedDateTime: 2020-12-03T12:44:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/biden-harris-receive-daily-briefing-trump-hold-award-ceremony-bill-n1249818"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1249818"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249818"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 159
-    images:
-      - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202012/n_bwms_a2_201202_1920x1080.jpg"
         width: 1920
         height: 1080
         isCached: true
@@ -1663,15 +1631,6 @@ related:
         width: 2560
         height: 1755
         isCached: true
-  - title: "Donald Trump’s Newest Lawyer Is a Kamala Harris Birther"
-    excerpt: "John Eastman is listed as the attorney repping the president on the latest suit seeking to overturn the results of the 2020 elections."
-    publishedDateTime: 2020-12-10T02:39:00Z
-    webUrl: "https://www.thedailybeast.com/donald-trumps-newest-lawyer-is-john-eastman-a-kamala-harris-birther"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 60
 
 secured: "XLpYFbxYgPQeHeSEQpctA2usmdi6eYDHa9v/DpEDyNxMIQ73DpkVYxbS0/6LpB0wFcXqER8T5OatMnUhNukVaUjZ3uvMq4NbEQ5xC9QL0G5rShWyBV1ZBlL+C4LBuhatvfoJSpC37cmr9iovKnU35TeKTQbX5RnosZFiIwKM9WRLTr1L3XOcM4Fombt94lkyRYK2JouQZJ84xf7HF8M03VpwtsdUMOw8UCpfJKDFs+JrZCbc+n3A9oTgZbA8ESF6N31A1FQ1NMY6BMKhQiVzUW4lLJh+jakkz3avKaxcpYLCslCcaBms/NBqqfLQ0gdZu4GgB/1K1v9WpRdf6ABkg3Ju02ro3raUn3YZpsY62pQ=;KNC0gHN/BkaroRNUhGo9GQ=="
 ---

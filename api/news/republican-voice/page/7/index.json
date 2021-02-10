@@ -2,25 +2,25 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2021-01-14-trumps-former-doctor-harold-bornstein-who-called-him-healthiest-president-ever-dies.md",
-      "title": "Trump's former doctor Harold Bornstein, who called him 'healthiest president ever,' dies",
-      "excerpt": "President Trump’s former personal physician, Dr. Harold Bornstein, who attested Trump was the \"healthiest president ever,\" died Thursday at 73. ",
+      "path": "_news/2021-01-14-colorado-officials-balk-at-trump-decision-to-move-space-command-hq-to-alabama.md",
+      "title": "Colorado officials balk at Trump decision to move Space Command HQ to Alabama",
+      "excerpt": "Officials in Colorado Springs are slamming the Trump administration’s decision to move U.S. Space Command from its temporary location in their city to Alabama claiming the move was based on President Trump’s “personal interest,” but Fox News has learned that Air Force Secretary Barbara Barrett made the",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/y9VeiayM6YU/trumps-former-doctor-harold-bornstein-dies",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/y9VeiayM6YU/trumps-former-doctor-harold-bornstein-dies",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eqKXGzvbWDA/colorado-trump-decision-space-command-hq-alabama",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eqKXGzvbWDA/colorado-trump-decision-space-command-hq-alabama",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 186,
+      "heat": 192,
       "tags": null,
       "images": [
         {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/Dr.-Harold-Bornstein.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -28,9 +28,65 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trumps-former-doctor-harold-bornstein-dies.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-former-doctor-harold-bornstein-dies.amp",
-      "publishedDateTime": "2021-01-14T10:23:15-08:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/colorado-trump-decision-space-command-hq-alabama.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/colorado-trump-decision-space-command-hq-alabama.amp",
+      "publishedDateTime": "2021-01-14T13:02:02-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-14-arizona-gop-gov-ducey-says-biden-a-good-man-who-wants-to-serve-his-country.md",
+      "title": "Arizona GOP Gov. Ducey says Biden 'a good man' who 'wants to serve his country'",
+      "excerpt": "Arizona’s Republican Gov. Doug Ducey, one of a dwindling number of GOP lawmakers in the Copper State, said Thursday that President-elect Biden is a “good man” and he looks forward to working with him. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/w0Is-rRyiEk/arizona-gop-gov-ducey-biden-good-man",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/w0Is-rRyiEk/arizona-gop-gov-ducey-biden-good-man",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Doug-Ducey.jpg",
+          "width": 1922,
+          "height": 2402,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/arizona-gop-gov-ducey-biden-good-man.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/arizona-gop-gov-ducey-biden-good-man.amp",
+      "publishedDateTime": "2021-01-14T10:56:31-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -114,62 +170,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-14-new-squad-member-cori-bush-booed-in-house-after-calling-trump-white-supremacist-in-chief.md",
-      "title": "New 'Squad' member Cori Bush booed in House after calling Trump 'White supremacist in chief’",
-      "excerpt": "Rep. Cori Bush, D-Mo., drew mixed reactions from her colleagues on Capitol Hill on Wednesday after calling President Trump a White supremacist.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oN_jvusZXEk/squad-cori-bush-calling-trump-white-supremacist",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oN_jvusZXEk/squad-cori-bush-calling-trump-white-supremacist",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8c0ff7ca-92a9-447d-a84d-8ca44f2eae06/f6811563-0971-4869-bc00-44dd4ccfaa63/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/squad-cori-bush-calling-trump-white-supremacist.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/squad-cori-bush-calling-trump-white-supremacist.amp",
-      "publishedDateTime": "2021-01-13T18:56:03-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-01-13-swalwell-compares-trump-to-usama-bin-laden-he-was-responsible.md",
       "title": "Swalwell compares Trump to Usama bin Laden: 'He was responsible'",
       "excerpt": "Democratic California Rep. Eric Swalwell, who remains on the House Intelligence Committee despite foggy ties to a spy for China and who will serve as an impeachment manager, associated President Trump with Usama bin Laden in an interview Tuesday.",
@@ -182,7 +182,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 195,
+      "heat": 235,
       "tags": null,
       "images": [
         {
@@ -238,7 +238,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 195,
+      "heat": 235,
       "tags": null,
       "images": [
         {
@@ -338,25 +338,25 @@
       ]
     },
     {
-      "path": "_news/2021-01-13-flashback-nadlers-clinton-impeachment-comments-from-1998-surface-as-he-leads-trump-efforts.md",
-      "title": "Flashback: Nadler's Clinton impeachment comments from 1998 surface as he leads Trump efforts",
-      "excerpt": "House Judiciary Committee Chairman Jerry Nadler, D-N.Y., is pushing for President Trump to be impeached just days before his term ends, despite warning years ago about \"divisiveness and bitterness\" during the 1998 Clinton impeachment hearings.",
+      "path": "_news/2021-01-13-trump-calls-on-americans-big-tech-to-help-ensure-peaceful-transition-no-violence.md",
+      "title": "Trump calls on Americans, Big Tech to help ensure peaceful transition: 'NO violence'",
+      "excerpt": "EXCLUSIVE: President Trump on Wednesday is calling for \"all Americans\" to help \"ease tensions and calm tempers,\" saying he does \"not\" stand for violence \"of any kind\" -- and he's asking Big Tech to join the effort.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QHCPM0ruDao/jerrold-nadler-trump-impeachment-clinton-1998",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QHCPM0ruDao/jerrold-nadler-trump-impeachment-clinton-1998",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tN2G7lwC_Bs/trump-statement-peaceful-transition-no-violence-exclusive",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tN2G7lwC_Bs/trump-statement-peaceful-transition-no-violence-exclusive",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 164,
+      "heat": 188,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Nadler.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -364,9 +364,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/jerrold-nadler-trump-impeachment-clinton-1998.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jerrold-nadler-trump-impeachment-clinton-1998.amp",
-      "publishedDateTime": "2021-01-13T09:06:11-08:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-statement-peaceful-transition-no-violence-exclusive.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-statement-peaceful-transition-no-violence-exclusive.amp",
+      "publishedDateTime": "2021-01-13T10:26:56-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -394,23 +394,23 @@
       ]
     },
     {
-      "path": "_news/2021-01-13-president-trump-did-not-commit-an-impeachable-offense-chaffetz.md",
-      "title": "President Trump did not commit an impeachable offense: Chaffetz",
-      "excerpt": "Former U.S. Rep. Jason Chaffetz, R-Utah, told “Fox & Friends” on Wednesday that he doesn’t believe President Trump committed an impeachable offense.",
+      "path": "_news/2021-01-13-squad-member-accuses-vp-of-cowardice-for-not-using-25th-amendment-to-remove-trump.md",
+      "title": "'Squad' member accuses VP of 'cowardice' for not using 25th Amendment to remove Trump",
+      "excerpt": "Rep. Ayanna Pressley, D-Mass., said Vice President Mike Pence's decision not to invoke the 25th Amendment to remove President Trump from office is a show of \"pure cowardice.\" ",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wi7eGzPaIHY/president-trump-not-commit-impeachable-offense-chaffetz",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wi7eGzPaIHY/president-trump-not-commit-impeachable-offense-chaffetz",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/h2L3J6pWfdA/squad-member-accuses-pence-of-pure-cowardice-for-not-invoking-25th-amendment",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/h2L3J6pWfdA/squad-member-accuses-pence-of-pure-cowardice-for-not-invoking-25th-amendment",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 215,
+      "heat": 188,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/Vandana-Rambaran.jpg?ve=1&tl=1",
           "width": 340,
           "height": 340,
           "title": null,
@@ -420,9 +420,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/president-trump-not-commit-impeachable-offense-chaffetz.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-trump-not-commit-impeachable-offense-chaffetz.amp",
-      "publishedDateTime": "2021-01-13T06:00:52-08:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/squad-member-accuses-pence-of-pure-cowardice-for-not-invoking-25th-amendment.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/squad-member-accuses-pence-of-pure-cowardice-for-not-invoking-25th-amendment.amp",
+      "publishedDateTime": "2021-01-13T06:32:34-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -503,6 +503,63 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-13-pence-uses-pelosis-own-words-to-justify-not-invoking-the-25th-amendment.md",
+      "title": "Pence uses Pelosi's own words to justify not invoking the 25th Amendment",
+      "excerpt": "Vice President Mike Pence told Speaker of the House Nancy Pelosi that he will not invoke the 25th Amendment, as lawmakers flooded into the House chamber for a vote Tuesday night on a resolution calling for him to do so.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SZvObX8e7Wk/pence-echoes-pelosis-words-in-explaining-why-he-will-not-invoke-the-25th-amendment",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SZvObX8e7Wk/pence-echoes-pelosis-words-in-explaining-why-he-will-not-invoke-the-25th-amendment",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 244,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/927d176b-21c3-43cd-93dd-13312fed5937/dea40182-fa8f-47b1-9184-fc98ec627628/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-echoes-pelosis-words-in-explaining-why-he-will-not-invoke-the-25th-amendment.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-echoes-pelosis-words-in-explaining-why-he-will-not-invoke-the-25th-amendment.amp",
+      "publishedDateTime": "2021-01-12T18:24:07-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
       ]
     },
     {
@@ -619,25 +676,25 @@
       ]
     },
     {
-      "path": "_news/2021-01-12-trump-says-i-kept-my-promises-as-he-marks-450-miles-of-border-wall-amid-riot-fallout-in-dc.md",
-      "title": "Trump says 'I kept my promises' as he marks 450 miles of border wall, amid riot fallout in DC",
-      "excerpt": "President Trump on Tuesday declared “I kept my promises” on his pledge to build a wall at the southern border, as he marked 450 miles of construction -- as he also tackled fallout from the riot at the Capitol last week.",
+      "path": "_news/2021-01-13-rep-kevin-mccarthy-is-open-to-censuring-trump-source.md",
+      "title": "Rep. Kevin McCarthy is open to censuring Trump: source",
+      "excerpt": "House Minority Leader Kevin McCarthy is open to censuring President Trump, a source familiar with his thinking told Fox News Tuesday.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JWEynQUNHa0/trump-promises-450-miles-border-wall",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JWEynQUNHa0/trump-promises-450-miles-border-wall",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TJ8hTccq63A/mccarthy-censuring-trump-capitol-riots",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TJ8hTccq63A/mccarthy-censuring-trump-capitol-riots",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 184,
+      "heat": 275,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21012723647436.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -645,9 +702,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-promises-450-miles-border-wall.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-promises-450-miles-border-wall.amp",
-      "publishedDateTime": "2021-01-12T14:21:37-08:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/mccarthy-censuring-trump-capitol-riots.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccarthy-censuring-trump-capitol-riots.amp",
+      "publishedDateTime": "2021-01-12T16:24:22-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -787,62 +844,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-12-forbes-op-ed-warns-companies-about-hiring-fabulists-from-trump-administration.md",
-      "title": "Forbes op-ed warns companies about hiring 'fabulists' from Trump administration",
-      "excerpt": "Canceling anyone who was associated with Trump is not going to unite the country, Kelsey Bolar responded",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/981wbizaUoA/forbes-op-ed-warns-companies-hiring-fabulists-trump-administration",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/981wbizaUoA/forbes-op-ed-warns-companies-hiring-fabulists-trump-administration",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/forbes-op-ed-warns-companies-hiring-fabulists-trump-administration.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/forbes-op-ed-warns-companies-hiring-fabulists-trump-administration.amp",
-      "publishedDateTime": "2021-01-12T07:34:05-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-01-12-biden-omb-nominee-neera-tanden-received-731g-salary-from-liberal-nonprofit.md",
       "title": "Biden OMB nominee Neera Tanden received $731G salary from liberal nonprofit",
       "excerpt": "One of President-elect Biden's top Cabinet appointees earned more than $700,000 as the head of a leading liberal nonprofit, her financial disclosures reveal.",
@@ -855,7 +856,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 233,
+      "heat": 273,
       "tags": null,
       "images": [
         {
@@ -899,25 +900,25 @@
       ]
     },
     {
-      "path": "_news/2021-01-12-trump-acknowledged-he-bears-some-blame-for-capitol-riot-in-conversation-with-mccarthy-sources.md",
-      "title": "Trump acknowledged he bears some blame for Capitol riot in conversation with McCarthy: sources",
-      "excerpt": "President Trump acknowledged that he bears some blame for the Capitol riot last week during a conversation with House Republican Leader Kevin McCarthy, a source familiar told Fox News.",
+      "path": "_news/2021-01-12-trump-pence-meet-for-1st-time-since-capitol-riot.md",
+      "title": "Trump, Pence meet for 1st time since Capitol riot",
+      "excerpt": "President Trump lashed out at Mike Pence last week after the vice president said he lacked authority under the Constitution to overturn election results on the president’s behalf.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_IovXsLr9Vc/trump-acknowledged-he-bears-some-blame-for-capitol-riot-last-week-in-call-with-mccarthy-sources",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_IovXsLr9Vc/trump-acknowledged-he-bears-some-blame-for-capitol-riot-last-week-in-call-with-mccarthy-sources",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vCuI3hh8dDQ/trump-pence-meet-for-first-time-since-capitol-riot",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vCuI3hh8dDQ/trump-pence-meet-for-first-time-since-capitol-riot",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 163,
+      "heat": 1500,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/676700e9-2160-4bb3-a8ea-16fc47cd468a/849f19f1-aae0-4ebc-bd24-78bdb1acd69c/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -925,9 +926,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-acknowledged-he-bears-some-blame-for-capitol-riot-last-week-in-call-with-mccarthy-sources.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-acknowledged-he-bears-some-blame-for-capitol-riot-last-week-in-call-with-mccarthy-sources.amp",
-      "publishedDateTime": "2021-01-11T17:00:56-08:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-pence-meet-for-first-time-since-capitol-riot.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-pence-meet-for-first-time-since-capitol-riot.amp",
+      "publishedDateTime": "2021-01-11T16:58:05-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -951,7 +952,8 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
+        "Republican Voice",
+        "Mike Pence"
       ]
     },
     {
@@ -1023,7 +1025,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 159,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -1040,6 +1042,62 @@
       "ampWebUrl": "https://www.foxnews.com/politics/critics-mock-gov-cuomo-for-sudden-denunciation-of-lockdowns-suggest-trump-is-using-his-twitter-account.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/critics-mock-gov-cuomo-for-sudden-denunciation-of-lockdowns-suggest-trump-is-using-his-twitter-account.amp",
       "publishedDateTime": "2021-01-11T15:52:17-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-11-gidley-blasts-democrats-disgusting-tactic-of-claiming-anyone-pro-trump-agrees-with-lawless-thugs.md",
+      "title": "Gidley blasts Democrats' 'disgusting tactic' of claiming anyone pro-Trump 'agrees with lawless thugs'",
+      "excerpt": "Former Deputy White House Press Secretary Hogan Gidley ripped into Democrats and their supporters in Hollywood and the media Monday for making blanket claims that anyone who supports President Trump is also supportive of the \"lawless thugs\" who attacked the U.S. Capitol last week.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wX-ywZ9dzEk/hogan-gidley-blasts-democrats-disgusting-tactic-of-claiming-anyone-pro-trump-agrees-with-lawless-thugs",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wX-ywZ9dzEk/hogan-gidley-blasts-democrats-disgusting-tactic-of-claiming-anyone-pro-trump-agrees-with-lawless-thugs",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dfc525e5-ea65-4ace-ba6a-5420692b6c52/13e91bc9-d86e-48be-a4b8-69f02fc4f689/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/hogan-gidley-blasts-democrats-disgusting-tactic-of-claiming-anyone-pro-trump-agrees-with-lawless-thugs.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hogan-gidley-blasts-democrats-disgusting-tactic-of-claiming-anyone-pro-trump-agrees-with-lawless-thugs.amp",
+      "publishedDateTime": "2021-01-11T13:46:57-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1179,62 +1237,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-11-trump-awards-rep-jim-jordan-the-medal-of-freedom-credits-his-defense-during-impeachment.md",
-      "title": "Trump awards Rep. Jim Jordan the Medal of Freedom, credits his defense during impeachment",
-      "excerpt": "President Trump on Monday awarded the Presidential Medal of Freedom to Rep. Jim Jordan, the Republican from Ohio who has served as a high-profile congressional defender of the Trump throughout his presidency.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zsVghy_-Bw0/trump-rep-jim-jordan-medal-of-freedom",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zsVghy_-Bw0/trump-rep-jim-jordan-medal-of-freedom",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 206,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/340/340/15774946_869011851568_820056121039046290_o-e1585243988433.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-rep-jim-jordan-medal-of-freedom.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-rep-jim-jordan-medal-of-freedom.amp",
-      "publishedDateTime": "2021-01-11T11:04:29-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-01-11-cuomo-de-blasio-are-banking-on-a-bailout-from-biden-while-lockdowns-are-in-effect-gasparino.md",
       "title": "Cuomo, De Blasio are 'banking on a bailout from Biden' while lockdowns are in effect: Gasparino",
       "excerpt": "New York Gov. Andrew Cuomo and New York City Mayor Bill de Blasio are prolonging the shutdown of New York because they are expecting a bailout from the incoming Biden administration and the Democrat-controlled Congress.",
@@ -1347,119 +1349,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-11-read-house-democratic-impeachment-resolution-against-trump-for-incitement-of-insurrection.md",
-      "title": "READ: House Democratic impeachment resolution against Trump for ‘incitement of insurrection’",
-      "excerpt": "Read the House Democratic impeachment resolution against Trump for ‘incitement of insurrection’",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gPxIrbiTz04/read-house-democratic-impeachment-resolution-against-trump-for-incitement-of-insurrection",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gPxIrbiTz04/read-house-democratic-impeachment-resolution-against-trump-for-incitement-of-insurrection",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.foxnews.com/BrightCove/694940094001/2019/02/01/694940094001_5997388808001_5997386413001-vs.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-11T08:49:05-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-house-democrats-quick-25th-amendment-push-urging-pence-to-remove-trump-blocked-by-republicans.md",
-      "title": "House Democrats' quick 25th Amendment push urging Pence to remove Trump blocked by Republicans",
-      "excerpt": "House Republicans blocked quick consideration of a bill calling on Vice President Mike Pence to invoke the 25th Amendment to remove President Trump from office amid fallout from last week’s Capitol riot.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Sr5HG__LUb4/house-gop-blocks-quick-consideration-of-bill-calling-on-pence-to-invoke-25th-amendment",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Sr5HG__LUb4/house-gop-blocks-quick-consideration-of-bill-calling-on-pence-to-invoke-25th-amendment",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 648,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/house-gop-blocks-quick-consideration-of-bill-calling-on-pence-to-invoke-25th-amendment.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-gop-blocks-quick-consideration-of-bill-calling-on-pence-to-invoke-25th-amendment.amp",
-      "publishedDateTime": "2021-01-11T08:27:39-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
       "path": "_news/2021-01-11-turley-democrats-impulse-buy-impeachment-of-trump-would-have-very-serious-implications.md",
       "title": "Turley: Democrats 'impulse buy' impeachment of Trump would have 'very serious implications'",
       "excerpt": "George Washington University law professor Jonathan Turley said he doesn’t think Democrats should go forward with a \"snap impeachment,\" explaining that the process is supposed be \"deliberative,\" not impulsive. ",
@@ -1472,7 +1361,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 165,
+      "heat": 185,
       "tags": null,
       "images": [
         {
@@ -1640,7 +1529,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 195,
+      "heat": 315,
       "tags": null,
       "images": [
         {
@@ -1657,6 +1546,118 @@
       "ampWebUrl": "https://www.foxnews.com/politics/right-back-to-where-we-were-last-year-dems-want-to-impeach-trump.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/right-back-to-where-we-were-last-year-dems-want-to-impeach-trump.amp",
       "publishedDateTime": "2021-01-10T21:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-11-pelosi-says-lawmakers-moving-forward-with-impeachment-calls-trump-imminent-threat-to-our-democracy.md",
+      "title": "Pelosi says lawmakers moving forward with impeachment, calls Trump 'imminent threat' to 'our Democracy'",
+      "excerpt": "House Speaker Nancy Pelosi on Sunday said the House will be moving forward with a resolution to impeach Donald Trump, whom she referred to in a letter to her colleagues as an “imminent threat” to both the U.S. Constitution and Democracy.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RyA_THk6cvQ/pelosi-says-lawmakers-moving-forward-with-impeachment-calls-trump-imminent-threat-to-our-democracy",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RyA_THk6cvQ/pelosi-says-lawmakers-moving-forward-with-impeachment-calls-trump-imminent-threat-to-our-democracy",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/01f558dd-ed80-4f8f-ade4-1085f537ea56/6028a5a7-09d8-4664-8310-c4520818986e/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pelosi-says-lawmakers-moving-forward-with-impeachment-calls-trump-imminent-threat-to-our-democracy.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-says-lawmakers-moving-forward-with-impeachment-calls-trump-imminent-threat-to-our-democracy.amp",
+      "publishedDateTime": "2021-01-10T16:19:48-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-10-dc-delegate-norton-to-introduce-resolution-to-censure-trump-as-only-remedy-that-can-pass-both-chambers.md",
+      "title": "DC Delegate Norton to introduce resolution to censure  Trump as ‘only remedy that can pass both chambers’",
+      "excerpt": "House of Representatives Delegate Eleanor Holmes Norton on Sunday called on Congress to censure President Donald Trump for his alleged incitement of Wednesday’s riot at the U.S. Capitol.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rEYdV5p5GBs/dc-delegate-norton-resolution-censure-trump",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rEYdV5p5GBs/dc-delegate-norton-resolution-censure-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/gettyimages-1214409770.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/dc-delegate-norton-resolution-censure-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dc-delegate-norton-resolution-censure-trump.amp",
+      "publishedDateTime": "2021-01-10T15:59:29-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

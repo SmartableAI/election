@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Biden calls on protesters to 'pull back,' says their actions border on 'sedition'"
-    excerpt: "President-elect Joe Biden minced no words Wednesday afternoon in response to the protesters who stormed Capitol Hill, saying that their actions “do not reflect a True America” and “border on seditious.”"
-    publishedDateTime: 2021-01-06T22:37:23Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4pzkUMHDp9o/biden-calls-on-protesters-to-pull-back-says-their-actions-border-on-sedition"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-calls-on-protesters-to-pull-back-says-their-actions-border-on-sedition.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-calls-on-protesters-to-pull-back-says-their-actions-border-on-sedition.amp"
+  - title: "Biden joins claims of ‘white privilege’ directed towards U.S. Capitol rioters"
+    excerpt: "In response to the surprisingly unaggressive reaction to pro-Trump supporters mobbing the U.S. Capitol on bWednesday, President-elect Joe Biden joined lawmakers in questioning whether the reaction would have been the same had the rioters been Black Lives Matter demonstrators."
+    publishedDateTime: 2021-01-08T01:11:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/l0hgNFl7mTM/biden-joins-claims-of-white-privilege-directed-towards-u-s-capitol-rioters"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-joins-claims-of-white-privilege-directed-towards-u-s-capitol-rioters.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-joins-claims-of-white-privilege-directed-towards-u-s-capitol-rioters.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 170
+    quality: 172
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e1983e09-3cb7-4c5b-9df2-9194e77caca0/b2982378-fec2-4b3a-8528-b14e4db9cf92/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "JswOoMk7hcfvO7Nqum+NIqnPAwN/6oqSC+9oUdbHVGmt7dGGMuq+OJQn1aXfsuj4pZgUixTd9kQtE+tdJLkGVfDAYY4YpsKR5ttbplhqUxqNYgmOVy7Ms5wDOfg/HtdEsHGKpGE9TbnP2TQGguaNdgyBItmXfd/8bVFpy4dUY1BkZKhlKcyftz0M4Wl3y4VM5FPK427bet2a0d3mHkUyQg8R2+aaRES/vtER8uqHqbXvXdh6k+WuBxrUo1A/gW06chXG+1WBLgiMo3uvoUpjQ0iZ6oU4EdJcdksUVqWMQa/MoFkB2YsqPrQ8NQkEaFzPqXiChRlYRru0pBj3OLdtTh4/fqkQIeaRe/LhApsUxtM=;1xUX/W8swRiArIInsKLmNQ=="

@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Recall Newsom campaign organizer says Biden’s opposition shows governor knows he’s in trouble"
+    excerpt: "The White House for the first time weighed in this week on the recall campaign to oust California Gov. Gavin Newsom over his handling of the Covid-19 pandemic."
+    publishedDateTime: 2021-02-10T20:36:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hXIQPnG1V1I/recall-newsom-campaign-organizer-bidens-opposition-governor-in-trouble"
+    ampWebUrl: "https://www.foxnews.com/politics/recall-newsom-campaign-organizer-bidens-opposition-governor-in-trouble.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/recall-newsom-campaign-organizer-bidens-opposition-governor-in-trouble.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21039862377802-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Teachers unions' political support for Biden paying off as he takes their side in reopening battle"
     excerpt: "After spending millions to support President Biden and other Democrats in the 2020 election cycle, teachers unions are finding Biden to be a reliable ally."
     publishedDateTime: 2021-02-03T20:14:48Z

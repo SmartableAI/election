@@ -63,22 +63,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Jill Biden names director for military families program"
-    excerpt: "Jill Biden has taken a step toward fulfilling a promise to revive a support program for military families that she and former first lady Michelle Obama once led"
-    publishedDateTime: 2021-01-14T22:07:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/jill-biden-director-military-families-program-75253867"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/jill-biden-director-military-families-program-75253867"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/jill-biden-director-military-families-program-75253867"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
-        isCached: true
   - title: "Biden to appoint David S. Cohen as deputy director of the CIA"
     excerpt: "Cohen has served as No. 2 at the spy agency once before and was a principal architect of Obama-era sanctions against Iran and Russia."
     publishedDateTime: 2021-01-15T16:04:00Z
@@ -94,54 +78,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BEI6FTEYKMI6JET2J6RGHDGRWA.jpg&w=1440"
         width: 1440
         height: 961
-        isCached: true
-  - title: "Biden says his advisers will lead with 'science and truth'"
-    excerpt: "In a dig at the outgoing Trump administration, President-elect Joe Biden says his team of scientific advisers will lead with “science and truth"
-    publishedDateTime: 2021-01-18T01:44:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/biden-science-forefront-administration-75295060"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/biden-science-forefront-administration-75295060"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/biden-science-forefront-administration-75295060"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Technology/WireAP_7202bb1dd3fb4d92b9cf5bf27cee5bf3_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Biden says his advisers will lead with 'science and truth'"
-    excerpt: "In a dig at the outgoing Trump administration, President-elect Joe Biden says his team of scientific advisers will lead with “science and truth"
-    publishedDateTime: 2021-01-19T04:12:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/correction-biden-science-story-75329323"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/correction-biden-science-story-75329323"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/correction-biden-science-story-75329323"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Technology/WireAP_93e1a4f178b943f1b84656bd365c48bd_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Biden team prepares push for new COVID relief bill expected to cost trillions"
-    excerpt: "Transition officials spoke with congressional staffers about Biden's priorities for a bill with a multi-trillion-dollar price tag."
-    publishedDateTime: 2021-01-14T12:43:00Z
-    webUrl: "https://www.cbsnews.com/news/biden-covid-relief-bill-priority/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-covid-relief-bill-priority/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-covid-relief-bill-priority/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 122
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/13/87ab6c33-11eb-45c7-89c4-562b351813be/thumbnail/1200x630/e7b614cfa8085ecb41e2d17d79ea1643/gettyimages-1206811778.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Biden chooses San Diego Unified superintendent as deputy education secretary"
     excerpt: "Marten, who has led California’s second-largest school district since 2013, is expected to serve under Miguel Cardona, Connecticut’s schools chief."
@@ -159,60 +95,19 @@ related:
         width: 320
         height: 209
         isCached: true
-  - title: "$2,000 Stimulus Check Update as Joe Biden Pushes for Third Set of Direct Payments"
-    excerpt: "President-elect Joe Biden has proposed \"direct cash payments\" totaling $2,000 be given to Americans, including a third stimulus check of $1,400, in addition to the $600 payment issued last month, as part of his $1."
-    publishedDateTime: 2021-01-15T14:39:00Z
-    webUrl: "https://www.newsweek.com/joe-biden-coronavirus-relief-package-third-stimulus-check-american-rescue-plan-1561899"
-    ampWebUrl: "https://www.newsweek.com/joe-biden-coronavirus-relief-package-third-stimulus-check-american-rescue-plan-1561899?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-coronavirus-relief-package-third-stimulus-check-american-rescue-plan-1561899?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 120
-    images:
-      - url: "https://d.newsweek.com/en/full/1708966/president-elect-joe-biden-covid-19-relief-january-2020.jpg"
-        width: 2500
-        height: 1636
-        isCached: true
-  - title: "Biden to nominate longtime U.S. diplomat Burns to lead CIA"
-    excerpt: "U.S. President-elect Joe Biden will nominate former career diplomat and former deputy secretary of state William Burns to lead the CIA, his transition team said on Monday."
-    publishedDateTime: 2021-01-11T17:01:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-cia/biden-nominates-longtime-u-s-diplomat-burns-to-lead-cia-idUSKBN29G17M"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210111&t=2&i=1547393128&r=LYNXMPEH0A191&w=800"
-        width: 800
-        height: 571
-        isCached: true
-  - title: "Jill Biden to name director for military families program"
-    excerpt: "Days before Joe Biden becomes president, incoming first lady Jill Biden is taking a step toward fulfilling a campaign promise to revive a support program for military families that she once led with former first lady Michelle Obama."
-    publishedDateTime: 2021-01-15T01:39:00Z
-    webUrl: "https://www.businessinsider.com/jill-biden-to-name-director-for-military-families-program-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/jill-biden-to-name-director-for-military-families-program-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/jill-biden-to-name-director-for-military-families-program-2021-1?amp"
+  - title: "Twitter warns of more DC violence around January 20th as President-elect Biden expresses confidence his inauguration will be safe"
+    excerpt: "President-elect Joe Biden says he's confident about Inauguration Day security as warnings mount of more DC violence in the days before January 20th."
+    publishedDateTime: 2021-01-09T16:56:00Z
+    webUrl: "https://www.businessinsider.com/january-17-twitter-capitol-attack-riot-warning-biden-inauguration-security-2020-1"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 105
-  - title: "Biden faces unrivaled challenges as he takes oath"
-    excerpt: "When President-elect Joe Biden takes the oath of office Wednesday, he'll immediately face an almost unparalleled series of challenges, raising fresh questions about how he will achieve his long-promised unity in a nation so deeply divided."
-    publishedDateTime: 2021-01-18T06:20:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/01/18/biden-faces-unrivaled-challenges-he-takes-oath/4201592001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
+    quality: 76
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/fca1b29b-f161-4019-a730-293f2a7dac28_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://i.insider.com/5ff90c07d184b30018aadeaf?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Joe Biden picks veteran diplomat William Burns to be his CIA director"
     excerpt: "A former ambassador to Russia and Jordan, William Burns, 64, had a 33-year career at the State Department under both Republican and Democratic presidents."

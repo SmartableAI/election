@@ -111,17 +111,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "In Wyoming, Cheney faces blowback for vote to impeach Trump"
-    excerpt: "When Liz Cheney, the third-ranking Republican in the House of Representatives, decided to vote to impeach a president from her own party, she knew she'd cause some waves. She might not have expected the seismic impact at home."
-    publishedDateTime: 2021-01-28T14:23:00Z
-    webUrl: "https://www.businessinsider.com/in-wyoming-cheney-faces-blowback-for-vote-to-impeach-trump-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/in-wyoming-cheney-faces-blowback-for-vote-to-impeach-trump-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/in-wyoming-cheney-faces-blowback-for-vote-to-impeach-trump-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
 
 secured: "49u4HimBT+ssb/pkdeHGpsVdq2g8QKBc0MYkhcQJcesF2CgW2r5nnIqCyxOSUhIyDUHkgrIhTAN23gR0HabPxHhPrKW51NHgIsAXV6u8F8eK3sloXPX7Qoh7vss5FmgV4cw1BeuTmuPDY1AZsxcypzyqRiPR0tIuEHVJ9jTAgIf1s485cR93moJWF8SSsba9zMKrc7bXEdkVnzFH5+G+Q46GiJlCKkyDAJJENu/MlBtx+RE6luHM0ff4Q6zL96mLWSeGjAeViSNm+vN4qPXRaYCcXy0Uz0AJVzWrt5JkJpbrRY7Ns+2pW+ISDpCqMZAxMc4w9gltp9NcCK5lLA0QYCfL6n8o9bqZXDUDEesMlUy4+sBcpQnb8e5kHFM759z8gjAbwKM78VyVYXM4CkiFlsmzKBbiT7NTudILq+berkHP8Us08tNhan+x7niHzjB4R1X/bnCEj0rBNi7XIgLuztyaUHUISDJgatHST33J2walePGnTObqOkA2x3iWZi7ldkw0wVvKL0rajLB2L15HXA==;g/U6Yu7YFlxl0Tnw5uwkHg=="
 ---

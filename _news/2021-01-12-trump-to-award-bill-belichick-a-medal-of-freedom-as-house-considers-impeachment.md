@@ -31,12 +31,12 @@ images:
     isCached: true
 
 related:
-  - title: "Trump to honor Belichick with Presidential Medal of Freedom"
-    excerpt: "President Donald Trump will present one of the nation’s highest civilian honors to Bill Belichick, the football coach of the New England Patriots and the only coach to win six Super Bowl titles"
-    publishedDateTime: 2021-01-11T06:22:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-to-honor-belichick-with-presidential-medal-of-freedom/2021/01/10/6f4d7c1c-53ab-11eb-acc5-92d2819a1ccb_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-to-honor-belichick-with-presidential-medal-of-freedom/2021/01/10/6f4d7c1c-53ab-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-to-honor-belichick-with-presidential-medal-of-freedom/2021/01/10/6f4d7c1c-53ab-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+  - title: "The Latest: House Dems mulling fast-track Trump impeachment"
+    excerpt: "House Democratic leaders say the House could take up articles of impeachment against President Donald Trump as soon as next week if Vice President Mike Pence and Trump’s Cabinet don’t act to remove hi"
+    publishedDateTime: 2021-01-08T14:38:00Z
+    webUrl: "https://www.washingtonpost.com/politics/the-latest-trump-condemns-capitol-riot-concedes-to-biden/2021/01/07/c109bbde-5148-11eb-a1f5-fdaf28cfca90_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-trump-condemns-capitol-riot-concedes-to-biden/2021/01/07/c109bbde-5148-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-trump-condemns-capitol-riot-concedes-to-biden/2021/01/07/c109bbde-5148-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
@@ -47,53 +47,334 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "McConnell says best for country to hold Senate trial after Trump leaves office"
-    excerpt: "After the House impeachment vote, Senate Majority Leader Mitch McConnell said it would be best for the country if a Senate trial were held after Trump leaves office."
-    publishedDateTime: 2021-01-14T00:16:00Z
-    webUrl: "https://abcnews.go.com/Politics/mcconnell-best-country-hold-senate-trial-trump-leaves/story?id=75235663"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/mcconnell-best-country-hold-senate-trial-trump-leaves/story?id=75235663"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/mcconnell-best-country-hold-senate-trial-trump-leaves/story?id=75235663"
+  - title: "Democrats Urge Mitch McConnell to Publicly Back Removing Donald Trump"
+    excerpt: "The president's adversaries continue to push his impeachment as part of a sustained backlash against him following the events of January 6."
+    publishedDateTime: 2021-01-13T09:41:00Z
+    webUrl: "https://www.newsweek.com/mitch-mcconnell-donald-trump-impeachment-democrats-1561079"
+    ampWebUrl: "https://www.newsweek.com/mitch-mcconnell-donald-trump-impeachment-democrats-1561079?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mitch-mcconnell-donald-trump-impeachment-democrats-1561079?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1705259/mitch-mcconnell-capitol.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Trump impeachment: what you need to know as House moves to a vote"
+    excerpt: "Trump’s fiery speech at a rally just before the attack on the Capitol is at the center of the impeachment charge against him"
+    publishedDateTime: 2021-01-13T12:49:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/13/trump-impeachment-what-you-need-to-know"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/13/trump-impeachment-what-you-need-to-know"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/13/trump-impeachment-what-you-need-to-know"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/11df812b1d90287973cee1da1eaa11c8e754b00f/0_117_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=81e4f974c9e1deadc01e0b57dcfa9e9b"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "House Democrats deliver Trump impeachment charge to Senate"
+    excerpt: "The U.S. House of Representatives delivered to the Senate on Monday a charge that former President Donald Trump incited insurrection in a speech to supporters before the deadly attack on the Capitol,"
+    publishedDateTime: 2021-01-26T06:51:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-idCAKBN29U13G"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN29U13G"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN29U13G"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210126&t=2&i=1549038682&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0P012"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "House Dems ask Trump to testify oath for impeachment case"
+    excerpt: "House Democrats have asked former President Donald Trump to testify under oath for his Senate impeachment trial"
+    publishedDateTime: 2021-02-04T18:27:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/house-dems-trump-testify-oath-impeachment-case-75687371"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/house-dems-trump-testify-oath-impeachment-case-75687371"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/house-dems-trump-testify-oath-impeachment-case-75687371"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_4bcb100f12b94da7aa82370a80b6db6f_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "The Latest: Aides say Trump impeachment case ‘devastating’"
+    excerpt: "House impeachment managers plan to lay out a “devastating” case that is similar to a criminal prosecution in former President Donald Trump’s second Senate impeachment trial"
+    publishedDateTime: 2021-02-09T20:48:00Z
+    webUrl: "https://www.washingtonpost.com/politics/the-latest-aides-say-trump-impeachment-case-devastating/2021/02/09/3fe5f2ce-6aee-11eb-a66e-e27046e9e898_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-aides-say-trump-impeachment-case-devastating/2021/02/09/3fe5f2ce-6aee-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-aides-say-trump-impeachment-case-devastating/2021/02/09/3fe5f2ce-6aee-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Donald Trump appeal says government should defend E Jean Carroll lawsuit"
+    excerpt: "Justice department puts itself in between president and writer who sued after Trump dismissed 1990s rape allegation as bookselling ploy"
+    publishedDateTime: 2021-01-16T02:49:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/16/donald-trump-appeal-says-government-should-defend-e-jean-carroll-lawsuit"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/16/donald-trump-appeal-says-government-should-defend-e-jean-carroll-lawsuit"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/16/donald-trump-appeal-says-government-should-defend-e-jean-carroll-lawsuit"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 124
+    images:
+      - url: "https://i.guim.co.uk/img/media/90c11fb4b07bc5bd04147530e0cefa4f6ce06664/0_90_2675_1606/master/2675.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=efde315b17ef2166ec318b8bd9638616"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Pelosi says House will proceed with efforts to remove Trump 'with urgency'"
+    excerpt: "House will first try to force Mike Pence to oust president by invoking 25th amendment and then move forward with impeachment"
+    publishedDateTime: 2021-01-10T23:55:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/11/pelosi-says-house-will-proceed-with-efforts-to-remove-trump-with-urgency-25th-amendment"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/11/pelosi-says-house-will-proceed-with-efforts-to-remove-trump-with-urgency-25th-amendment"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/11/pelosi-says-house-will-proceed-with-efforts-to-remove-trump-with-urgency-25th-amendment"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 123
+    images:
+      - url: "https://i.guim.co.uk/img/media/82ba8a9dc582f8706f2fd5d845b32ce2f95b88a8/0_1_4324_2595/master/4324.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=acb1e10affbd6476f4946d69cacd439d"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "House Democrats move to impeach Trump for 'incitement of insurrection' – live"
+    excerpt: "House resolution says Donald Trump ‘engaged in high crimes and misdemeanors by willfully inciting violence against the government’"
+    publishedDateTime: 2021-01-11T18:09:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/11/joe-biden-donald-trump-impeachment-capitol-mike-pence-nancy-pelosi-coronavirus-covid-live-updates"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/11/joe-biden-donald-trump-impeachment-capitol-mike-pence-nancy-pelosi-coronavirus-covid-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/11/joe-biden-donald-trump-impeachment-capitol-mike-pence-nancy-pelosi-coronavirus-covid-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 122
+    images:
+      - url: "https://i.guim.co.uk/img/media/6d5c7db8fae6479736bf7df99a1b2e6e9471ae1f/0_0_3708_2472/master/3708.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=dcf2b68ea017aa4952150faf20c5de4d"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "Live Updates: House Democrats to introduce impeachment; Twitter suspends Trump"
+    excerpt: "The articles of impeachment allege Mr. Trump engaged in \"high crimes and misdemeanors by willfully inciting violence against the government of the United States.\""
+    publishedDateTime: 2021-01-09T00:16:00Z
+    webUrl: "https://www.cbsnews.com/live-updates/us-capitol-riots-fallout-2021-01-08/"
+    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/us-capitol-riots-fallout-2021-01-08/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/us-capitol-riots-fallout-2021-01-08/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 121
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/08/64ee0df8-b49f-43e9-a58b-c45102a99889/thumbnail/1200x630/0615066b524bbd10cc9174075ba7db6f/gettyimages-1295319912.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump lashes out at impeachment effort, claims it's 'causing tremendous anger'"
+    excerpt: "President Trump on Tuesday lashed out at the impeachment effort by House Democrats, claims it's \"causing tremendous anger\""
+    publishedDateTime: 2021-01-12T16:18:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-lashes-impeachment-effort-claims-causing-tremendous-anger/story?id=75199061"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-lashes-impeachment-effort-claims-causing-tremendous-anger/story?id=75199061"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-lashes-impeachment-effort-claims-causing-tremendous-anger/story?id=75199061"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 121
     images:
-      - url: "https://s.abcnews.com/images/Politics/mitch-mcconnell-gty-jef-210113_1610577152971_hpMain_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/trump-departure-texas-04-ap-jef-210112_1610466035301_hpMain_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Reports: Donald Trump plans to give Patriots' Bill Belichick Medal of Freedom this week"
-    excerpt: "According to reports on Sunday, President Donald Trump plans to award Patriots coach Bill Belichick the Presidential Medal of Freedom on Thursday."
-    publishedDateTime: 2021-01-11T01:16:00Z
-    webUrl: "https://www.usatoday.com/story/sports/nfl/patriots/2021/01/10/donald-trump-patriots-bill-belichick-medal-freedom/6618452002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6618452002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6618452002"
+  - title: "Trump impeachment: House to debate charge of 'incitement of insurrection' – live"
+    excerpt: "Third-ranking GOP member in House, Liz Cheney, says she’ll vote to impeach"
+    publishedDateTime: 2021-01-13T08:43:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/13/donald-trump-impeachment-nancy-pelosi-joe-biden-mike-pence-congress-covid-coronavirus-live-updates"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/13/donald-trump-impeachment-nancy-pelosi-joe-biden-mike-pence-congress-covid-coronavirus-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/13/donald-trump-impeachment-nancy-pelosi-joe-biden-mike-pence-congress-covid-coronavirus-live-updates"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 117
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
     images:
-      - url: "https://www.gannett-cdn.com/presto/2019/05/09/USAT/a44b6bc0-83b7-419e-9c03-4cb0f5ed1feb-bxx_trump2_0926.JPG?auto=webp&crop=2350,1322,x0,y379&format=pjpg&width=1200"
+      - url: "https://i.guim.co.uk/img/media/1924f7164024fd4fd5517a5bb4f348f5beed8b7e/613_82_1756_1054/master/1756.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3a0da34bddd66480ad9b5a5a456b8fba"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Trump impeachment: attention turns to Senate after House votes to impeach – live"
+    excerpt: "Biden to set out Covid vaccination and economic rescue package plans"
+    publishedDateTime: 2021-01-14T12:17:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/14/donald-trump-impeachment-congress-senate-joe-biden-mitch-mcconnell-coronavirus-covid-live-updates"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/14/donald-trump-impeachment-congress-senate-joe-biden-mitch-mcconnell-coronavirus-covid-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/14/donald-trump-impeachment-congress-senate-joe-biden-mitch-mcconnell-coronavirus-covid-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
+    images:
+      - url: "https://i.guim.co.uk/img/media/9a56e2b5f78e9f720c135beccffd90692f2f238f/0_171_4308_2586/master/4308.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=fa4ff21a9d6e4d961982f1de2692b2a8"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Trump impeachment: attention turns to Senate after House votes to impeach – live"
+    excerpt: "Trump’s impeachment in the House triggers a trial in the Senate, which McConnell says can’t begin until Senate is back in session Tuesday"
+    publishedDateTime: 2021-01-14T18:26:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/14/donald-trump-impeachment-congress-senate-joe-biden-mitch-mcconnell-coronavirus-covid-live-updates?page=with:block-600084268f0853a2a9aac1ff"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/14/donald-trump-impeachment-congress-senate-joe-biden-mitch-mcconnell-coronavirus-covid-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/14/donald-trump-impeachment-congress-senate-joe-biden-mitch-mcconnell-coronavirus-covid-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
+    images:
+      - url: "https://i.guim.co.uk/img/media/d6a434cb96b042551370faaa1242a3eb1a2b426c/0_74_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=86464133e853da2e6dd68d48d008dc1e"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "House Democrats unveil ‘incitement of insurrection’ impeachment charge against Trump"
+    excerpt: "As the House prepares for impeachment, President Donald Trump faces a single charge — “incitement of insurrection” — over the deadly riot at the U.S. Capitol."
+    publishedDateTime: 2021-01-11T16:46:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-congress-trump-impeachment-20210111-py2ic672ufas3bycta2qhge5aq-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-congress-trump-impeachment-20210111-py2ic672ufas3bycta2qhge5aq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-congress-trump-impeachment-20210111-py2ic672ufas3bycta2qhge5aq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 118
+    images:
+      - url: "https://www.chicagotribune.com/resizer/a4ZU_ph4DDjjkI1r7Y8KG-e-6MY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/I27GQJSG55AG7DPH5SFIEL4JZE.JPG"
         width: 1200
         height: 675
         isCached: true
-  - title: "New England Patriots coach Bill Belichick won't accept Presidential Medal of Freedom from Donald Trump"
-    excerpt: "New England Patriots coach Bill Belichick said Monday that he will not be accepting the Presidential Medal of Freedom that Donald Trump planned to present to him on Thursday. Belichick explained his decision in a statement."
-    publishedDateTime: 2021-01-12T00:59:00Z
-    webUrl: "https://abcnews.go.com/Sports/england-patriots-coach-bill-belichick-accept-presidential-medal/story?id=75189027"
-    ampWebUrl: "https://abcnews.go.com/amp/Sports/england-patriots-coach-bill-belichick-accept-presidential-medal/story?id=75189027"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Sports/england-patriots-coach-bill-belichick-accept-presidential-medal/story?id=75189027"
+  - title: "House seeks Trump removal as it heads to 25th amendment showdown vote – live updates"
+    excerpt: "Democrats will today force vote asking Mike Pence to remove president"
+    publishedDateTime: 2021-01-12T09:02:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/12/donald-trump-impeachment-insurrection-capitol-joe-biden-coronavirus-covid-live-updates"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/12/donald-trump-impeachment-insurrection-capitol-joe-biden-coronavirus-covid-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/12/donald-trump-impeachment-insurrection-capitol-joe-biden-coronavirus-covid-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 118
+    images:
+      - url: "https://i.guim.co.uk/img/media/80a2528c3f0788394683adf61f995eef2ce442f0/0_127_3952_2373/master/3952.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=340ffbee0d4d258f764be02aa956382d"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Republican senator calls Trump impeachment 'appropriate' as focus shifts to Senate – live"
+    excerpt: "Trump’s impeachment in the House triggers a trial in the Senate, which McConnell says can’t begin until Senate is back in session"
+    publishedDateTime: 2021-01-14T22:35:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/14/donald-trump-impeachment-congress-senate-joe-biden-mitch-mcconnell-coronavirus-covid-live-updates?page=with:block-6000c5448f08f56eefd20fb6"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/14/donald-trump-impeachment-congress-senate-joe-biden-mitch-mcconnell-coronavirus-covid-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/14/donald-trump-impeachment-congress-senate-joe-biden-mitch-mcconnell-coronavirus-covid-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 116
+    images:
+      - url: "https://i.guim.co.uk/img/media/d6a434cb96b042551370faaa1242a3eb1a2b426c/0_74_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=86464133e853da2e6dd68d48d008dc1e"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "House Democrats unveil ‘incitement of insurrection’ impeachment charge against Trump, but pressure on Pence to oust president"
+    excerpt: "As the House prepares for impeachment, President Donald Trump faces a single charge — “incitement of insurrection” — over the deadly riot at the U.S. Capitol."
+    publishedDateTime: 2021-01-11T19:46:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-congress-trump-impeachment-20210111-py2ic672ufas3bycta2qhge5aq-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-congress-trump-impeachment-20210111-py2ic672ufas3bycta2qhge5aq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-congress-trump-impeachment-20210111-py2ic672ufas3bycta2qhge5aq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 113
+    images:
+      - url: "https://www.chicagotribune.com/resizer/a4ZU_ph4DDjjkI1r7Y8KG-e-6MY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/I27GQJSG55AG7DPH5SFIEL4JZE.JPG"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "LIVE: House prepares to impeach Trump for 'incitement of insurrection' over deadly Capitol siege"
+    excerpt: "Multiple Republicans will break ranks to join Democrats in impeaching Trump for the second time. He unleashed a frenzied mob on the Capitol last week."
+    publishedDateTime: 2021-01-13T14:18:00Z
+    webUrl: "https://www.businessinsider.com/house-trump-impeachment-capitol-siege-schedule-watch-live-updates-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/house-trump-impeachment-capitol-siege-schedule-watch-live-updates-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/house-trump-impeachment-capitol-siege-schedule-watch-live-updates-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 112
+    images:
+      - url: "https://i.insider.com/5d5272afcd9784062d4f34d3?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Draft article of impeachment charges Trump with 'incitement of insurrection' in Capitol mob attack"
+    excerpt: "House Democrats on Friday discussed moving forward with plans to impeach President Donald Trump for the Capitol mob attack as early as Monday."
+    publishedDateTime: 2021-01-08T21:55:00Z
+    webUrl: "https://abcnews.go.com/Politics/draft-article-impeachment-charges-trump-incitement-insurrection-capitol/story?id=75132750"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/draft-article-impeachment-charges-trump-incitement-insurrection-capitol/story?id=75132750"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/draft-article-impeachment-charges-trump-incitement-insurrection-capitol/story?id=75132750"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 109
+    quality: 111
     images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
+      - url: "https://s.abcnews.com/images/General/nancy-pelosi-01-ap-llr-210107_1610051104890_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "The Latest: Toomey is 2nd GOP senator to urge Trump to quit"
+    excerpt: "WASHINGTON (AP) — The Latest on President Donald Trump and (all times local):"
+    publishedDateTime: 2021-01-11T04:54:00Z
+    webUrl: "https://www.businessinsider.com/the-latest-toomey-is-2nd-gop-senator-to-urge-trump-to-quit-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/the-latest-toomey-is-2nd-gop-senator-to-urge-trump-to-quit-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/the-latest-toomey-is-2nd-gop-senator-to-urge-trump-to-quit-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Trump may turn to Giuliani again to defend against impeachment"
+    excerpt: "President Donald Trump may turn to Rudy Giuliani to defend him against possible impeachment over his role in last week’s violent siege of the U.S. Capitol, according to two people familiar with the matter."
+    publishedDateTime: 2021-01-11T07:11:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump-lawyers-idUKKBN29F0NB"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210111&t=2&i=1547312528&r=LYNXMPEH090GM&w=800"
+        width: 800
+        height: 533
         isCached: true
   - title: "‘Trump impeachment sets precedent against free speech’"
     excerpt: "The precedent set by impeaching US President Donald Trump will be used in the future to curtail the free speech of civil rights activists and protesters, one of the country’s most high profile lawyers,"
@@ -109,84 +390,171 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "Donald Trump house hunts in a surprising place — which home will he pick?"
-    excerpt: "Which home in Palm Beach will the Trumps pick? Here are four homes for sale we’ll bet they’ll consider since they tick all the P boxes: posh, palatial, and presidential."
-    publishedDateTime: 2021-01-04T18:30:00Z
-    webUrl: "https://www.chicagotribune.com/real-estate/luxury-real-estate/sns-liststory-rdc-donald-trump-palm-beach-house-hunting-20210104-zhzyjuta6jh27dv47xvoeebebi-list.html"
+  - title: "Here's what could happen to Section 230 – the internet law Donald Trump hates – now the Democrats have both Houses"
+    excerpt: "The Section 230 internet law is still under threat, even though the Democrats have both Houses. Big Tech will be planning how it's going to fight it"
+    publishedDateTime: 2021-01-09T03:00:00Z
+    webUrl: "https://www.businessinsider.com/future-of-section-230-democrats-both-houses-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/future-of-section-230-democrats-both-houses-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/future-of-section-230-democrats-both-houses-2021-1?amp"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 104
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 103
     images:
-      - url: "https://www.chicagotribune.com/resizer/j78sicOE8zZ2qxbXI1iTabt-WMo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/YFZRIGJ2L5CLZKHDQVX2SCVOSU.jpg"
+      - url: "https://i.insider.com/5ff80efa6d61c10019cce4bd?width=1200&format=jpeg"
         width: 1200
-        height: 799
+        height: 600
         isCached: true
-  - title: "Donald Trump plans to award Presidential Medal of Freedom to New England Patriots coach Bill Belichick, per reports"
-    excerpt: "President Donald Trump plans to award New England Patriots coach Bill Belichick the Presidential Medal of Freedom on Thursday, according to multiple reports. A spokesperson for the Patriots did not respond to a request for comment."
-    publishedDateTime: 2021-01-11T02:59:00Z
-    webUrl: "https://abcnews.go.com/Sports/donald-trump-plans-award-presidential-medal-freedom-england/story?id=75169481"
-    ampWebUrl: "https://abcnews.go.com/amp/Sports/donald-trump-plans-award-presidential-medal-freedom-england/story?id=75169481"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Sports/donald-trump-plans-award-presidential-medal-freedom-england/story?id=75169481"
+  - title: "Trump impeachment: after term is over, is there precedent? You asked, we answered."
+    excerpt: "Trump impeachment: is impeachment after term is over a possibility? What's the precedent? Your impeachment questions, answered on States of America."
+    publishedDateTime: 2021-01-16T06:39:00Z
+    webUrl: "https://www.usatoday.com/videos/news/politics/statesofamerica/2021/01/15/trump-impeachment-after-term-over-precedent/4179295001/"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 103
-    images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
-        isCached: true
-  - title: "New England Patriots coach Bill Belichick won't 'move forward' with Presidential Medal of Freedom from Donald Trump"
-    excerpt: "New England Patriots coach Bill Belichick said Monday that he will not \"move forward\" with the Presidential Medal of Freedom that Donald Trump planned to present to him on Thursday. Belichick explained his decision in a statement."
-    publishedDateTime: 2021-01-12T01:09:00Z
-    webUrl: "https://abcnews.go.com/Sports/england-patriots-coach-bill-belichick-move-forward-presidential/story?id=75189041"
-    ampWebUrl: "https://abcnews.go.com/amp/Sports/england-patriots-coach-bill-belichick-move-forward-presidential/story?id=75189041"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Sports/england-patriots-coach-bill-belichick-move-forward-presidential/story?id=75189041"
+      name: USA Today
+      domain: usatoday.com
+    quality: 79
+  - title: "The Latest: Trump tells 'very special' protesters to go home"
+    excerpt: "The Latest on Congress’ tally of the Electoral College vote won by Joe Biden and of protests near the Capitol."
+    publishedDateTime: 2021-01-06T22:20:00Z
+    webUrl: "https://www.stltoday.com/news/national/govt-and-politics/the-latest-trump-tells-very-special-protesters-to-go-home/article_934f496d-897f-513e-b241-c099d0c09379.html"
+    ampWebUrl: "https://www.stltoday.com/news/national/govt-and-politics/the-latest-trump-tells-very-special-protesters-to-go-home/article_934f496d-897f-513e-b241-c099d0c09379.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/govt-and-politics/the-latest-trump-tells-very-special-protesters-to-go-home/article_934f496d-897f-513e-b241-c099d0c09379.amp.html"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 103
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 75
     images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/0/b7/0b713209-3425-5ae1-89a1-343d1583087a/5ff60dc3ce5ed.image.jpg"
+        width: 512
+        height: 341
         isCached: true
-  - title: "President Donald Trump to award Bill Belichick the Medal of Freedom on Thursday (report)"
-    excerpt: "With only days remaining in his term, President Donald Trump is reportedly awarding Bill Belichick the Medal of Freedom. Trump has continued to award the medal in the aftermath of the insurrection at the U."
-    publishedDateTime: 2021-01-11T00:45:00Z
-    webUrl: "https://www.masslive.com/patriots/2021/01/president-donald-trump-to-award-bill-belichick-the-medal-of-freedom-on-thursday-report.html"
-    ampWebUrl: "https://www.masslive.com/patriots/2021/01/president-donald-trump-to-award-bill-belichick-the-medal-of-freedom-on-thursday-report.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/patriots/2021/01/president-donald-trump-to-award-bill-belichick-the-medal-of-freedom-on-thursday-report.html?outputType=amp"
+  - title: "Trump Impeachment: 56% Of Americans Want POTUS Removed From Office"
+    excerpt: "Americans want Trump ousted from office before Jan. 20 A majority of respondents blame Trump for the violent insurrection on Capitol Hill The riot led to to the death of five people A majority of Americans believe President Donald Trump should be impeached following the violent insurrection at the U."
+    publishedDateTime: 2021-01-11T01:58:00Z
+    webUrl: "https://www.ibtimes.com/trump-impeachment-56-americans-want-potus-removed-office-3118464"
+    ampWebUrl: "https://www.ibtimes.com/trump-impeachment-56-americans-want-potus-removed-office-3118464?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-impeachment-56-americans-want-potus-removed-office-3118464?amp=1"
     type: article
     provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 66
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/N7HI3ZS5PNAM3NNA62U2MO7DGE.jpg"
-        width: 540
-        height: 304
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/09/demonstrators-in-new-york-call-for-impeachment-of.jpg"
+        width: 1024
+        height: 682
         isCached: true
-  - title: "‘Tone deaf!’ Gary Player slammed by son for accepting Presidential Medal of Freedom from Donald Trump"
-    excerpt: "Donald Trump awarded the Presidential Medal of Freedom Thursday to golfers Gary Player, Annika Sorenstam and Babe Didrikson Zaharias (posthumously)."
-    publishedDateTime: 2021-01-08T19:27:00Z
-    webUrl: "https://www.nj.com/sports/2021/01/tone-deaf-gary-player-slammed-by-son-for-accepting-presidential-medal-of-freedom-from-donald-trump.html"
-    ampWebUrl: "https://www.nj.com/sports/2021/01/tone-deaf-gary-player-slammed-by-son-for-accepting-presidential-medal-of-freedom-from-donald-trump.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/sports/2021/01/tone-deaf-gary-player-slammed-by-son-for-accepting-presidential-medal-of-freedom-from-donald-trump.html?outputType=amp"
+  - title: "Second Donald Trump impeachment: House delivers charge to Senate"
+    excerpt: "Democrats marched the impeachment case against Donald Trump to the Senate Monday night for the start of his historic trial, but Republican senators were easing off their criticism of the former president and shunning calls to convict him over the deadly siege at the U."
+    publishedDateTime: 2021-01-25T23:07:00Z
+    webUrl: "https://www.al.com/politics/2021/01/second-donald-trump-impeachment-house-delivers-charge-to-senate.html"
+    ampWebUrl: "https://www.al.com/politics/2021/01/second-donald-trump-impeachment-house-delivers-charge-to-senate.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/politics/2021/01/second-donald-trump-impeachment-house-delivers-charge-to-senate.html?outputType=amp"
     type: article
     provider:
-      name: NJ.com
-      domain: nj.com
-    quality: 60
+      name: al.com
+      domain: al.com
+    quality: 75
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/MK4AQOA5P5FSBGBB2XDXCROHAM.jpg"
-        width: 3548
-        height: 2365
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/Q3WCHWBDGJGDXHN5U2NV7WUYZM.jpg"
+        width: 5800
+        height: 3951
         isCached: true
+  - title: "At almost every step, Ted Cruz has miscalculated how to deal with Donald Trump"
+    excerpt: "Ted Cruz is a successful politician who rose from obscurity to score an upset win for the U.S. Senate. He became one of the best known"
+    publishedDateTime: 2021-01-11T11:15:00Z
+    webUrl: "https://www.dallasnews.com/news/politics/2021/01/11/at-almost-every-step-ted-cruz-has-miscalculated-how-to-deal-with-donald-trump/"
+    ampWebUrl: "https://www.dallasnews.com/news/politics/2021/01/11/at-almost-every-step-ted-cruz-has-miscalculated-how-to-deal-with-donald-trump/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2021/01/11/at-almost-every-step-ted-cruz-has-miscalculated-how-to-deal-with-donald-trump/?outputType=amp"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 71
+    images:
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/e7VQFhQe4Um1C3pcXMr7fDrE5TM=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/FAO5TV3PUVCJVIUNXMG42UQ7BM.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "U.S. House introduces article of impeachment, charging Trump with ‘incitement of insurrection’"
+    excerpt: "Pelosi’s leadership team also will seek a quick vote on a resolution calling on Vice President Mike Pence and Cabinet officials to invoke the 25th Amendment."
+    publishedDateTime: 2021-01-11T14:39:00Z
+    webUrl: "https://www.al.com/news/2021/01/us-house-introduces-article-of-impeachment-charging-trump-with-incitement-of-insurrection.html"
+    ampWebUrl: "https://www.al.com/news/2021/01/us-house-introduces-article-of-impeachment-charging-trump-with-incitement-of-insurrection.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/us-house-introduces-article-of-impeachment-charging-trump-with-incitement-of-insurrection.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 63
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/R4GKARIBANALJFNX67TOCVXQSY.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Trump impeachment: McConnell open to convicting president at trial; Senate will return Jan. 19"
+    excerpt: "McConnell's openness was a stark contrast to the support, or at times silence, he’s shown during much of Trump’s presidency, and to the opposition he expressed rapidly when the House impeached Trump 13 months ago."
+    publishedDateTime: 2021-01-14T11:22:00Z
+    webUrl: "https://www.al.com/politics/2021/01/trump-impeachment-mcconnell-open-to-convicting-president-at-trial-senate-will-return-jan-19.html"
+    ampWebUrl: "https://www.al.com/politics/2021/01/trump-impeachment-mcconnell-open-to-convicting-president-at-trial-senate-will-return-jan-19.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/politics/2021/01/trump-impeachment-mcconnell-open-to-convicting-president-at-trial-senate-will-return-jan-19.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 63
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/NTUN5GCYINBD3K36VXQ3ERTFMM.jpg"
+        width: 2555
+        height: 1438
+        isCached: true
+  - title: "The Latest: Toomey Is 2nd GOP Senator to Urge Trump to Quit"
+    excerpt: "Republican senator has called for President Donald Trump to step down in the wake of the Capitol rioting this past week."
+    publishedDateTime: 2021-01-10T14:55:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-10/the-latest-toomey-is-2nd-gop-senator-to-urge-trump-to-quit"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-10/the-latest-toomey-is-2nd-gop-senator-to-urge-trump-to-quit?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-10/the-latest-toomey-is-2nd-gop-senator-to-urge-trump-to-quit?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Trump Says 'Tremendous Anger' in Nation Over Impeachment"
+    excerpt: "Impeachment ahead, the House will first try Tuesday to push the vice president and Cabinet to act even more quickly to remove President Donald Trump from office."
+    publishedDateTime: 2021-01-12T16:35:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-12/house-speeding-to-impeach-trump-for-capitol-insurrection"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-12/house-speeding-to-impeach-trump-for-capitol-insurrection?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-12/house-speeding-to-impeach-trump-for-capitol-insurrection?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "The Latest: Trump Ending Restrictions on Travel From Europe"
+    excerpt: "President Donald Trump is lifting pandemic travel restrictions for Europe and Brazil, but he is leaving them in place on China and Iran."
+    publishedDateTime: 2021-01-19T00:45:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2021-01-18/the-latest-chinese-province-ups-restrictions-amid-outbreak"
+    ampWebUrl: "https://www.usnews.com/news/world/articles/2021-01-18/the-latest-chinese-province-ups-restrictions-amid-outbreak?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2021-01-18/the-latest-chinese-province-ups-restrictions-amid-outbreak?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "The Latest: Dems Say Trump Team Bids to Shift Blame for Riot"
+    excerpt: "House Democrats prosecuting the impeachment case against Donald Trump say the former president’s lawyers are trying to “shift the blame onto his supporters” as they argue he's not to blame for the Capitol insurrection."
+    publishedDateTime: 2021-02-09T18:15:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-02-09/the-latest-aides-say-trump-impeachment-case-devastating"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-09/the-latest-aides-say-trump-impeachment-case-devastating?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-09/the-latest-aides-say-trump-impeachment-case-devastating?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "BXoQvXpQSLubMrupBjoNAQ4Pp1V/Mjp5J+Hb23NBGf2u0HRTHQYMm17428R2INt0tT+wgpNR+ZL426ZVUwHjoWVv9MV+pbo5aHWXiSglx+R5ekCmziwn7x/2AVph1GV5X5PjIzWS44PV/K49XWFYMWTQCcxwWgDWXqPIGvUQu9Ux0XXMlyS8+QpbsboXqWDVHKmcvG/ObylpxFxuQ3N73RlXxPuNvVwlUdpicPJRRyRZczoHyA4l51q2Nlr79rVp0hsrYOD61n/51nQjBzV+mMTdjG2QzgqLLQlfx2Ufs4dxVoV2yHQ8uDDFhr03ySsiGcpYWpcKsk782rsPR7Pu3w1jbUiB1Yj/qNFz9UHHal8=;tmSHUfbjB3qWsjqWB+uukg=="
 ---

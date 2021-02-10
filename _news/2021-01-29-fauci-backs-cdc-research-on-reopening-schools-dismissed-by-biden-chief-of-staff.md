@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden team forced to walk back, clarify president's coronavirus statements"
+    excerpt: "President Biden was never shy of criticizing former President Trump for his messaging on coronavirus, but just over a week into his presidency his administration is already walking back statements he has made about the pandemic and vaccine rollout."
+    publishedDateTime: 2021-01-28T16:36:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KaGjS7SL3qw/biden-team-clarifies-president-coronavirus-statements"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-team-clarifies-president-coronavirus-statements.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-team-clarifies-president-coronavirus-statements.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7155937b-2402-46a2-803b-81e07a3dbd1c/25b324de-91ea-401d-a3e2-1ec415d22749/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Huckabee: China is doing a 'big happy dance' over Biden climate agenda"
     excerpt: "Former Arkansas Gov. Mike Huckabee told \"The Story\" on Wednesday that President Joe Biden's $2 trillion clean energy infrastructure plan will hurt U.S. jobs and \"embolden\" U.S. foreign adversaries."
     publishedDateTime: 2021-01-27T22:19:00Z

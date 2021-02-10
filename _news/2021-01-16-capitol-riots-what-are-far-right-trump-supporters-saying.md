@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/amp/blogs-trending-55679813"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/blogs-trending-55679813"
 type: article
 quality: 125
-heat: 285
+heat: 225
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Donald Trump's farewell: We did what we came to do"
-    excerpt: "US President Donald Trump has made his farewell address before leaving office, saying: \"We did what we came to do - and so much more.\" In a video posted on YouTube, he said he took on \"the tough battles,"
-    publishedDateTime: 2021-01-19T22:22:00Z
-    webUrl: "https://www.bbc.com/news/world-us-canada-55727022"
-    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55727022"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55727022"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 125
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/F95E/production/_116583836_trumptexas.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Here’s where the Trump family is shopping for homes right now—and why"
     excerpt: "Donald and Melania Trump have officially left the White House. So where will they live next? And what about family members who have followed the former president to Washington, DC?"
     publishedDateTime: 2021-01-21T20:44:00Z
@@ -79,74 +63,51 @@ related:
         width: 2670
         height: 1764
         isCached: true
-  - title: "The symbols of hate and far-right extremism on display in pro-Trump Capitol siege"
-    excerpt: "Trump mob stormed the U.S. Capitol, symbols of white supremacy and extremist right wing militias were displayed by some rioters on flags, banners and clothing."
-    publishedDateTime: 2021-01-14T15:01:00Z
-    webUrl: "https://abcnews.go.com/US/symbols-hate-extremism-display-pro-trump-capitol-siege/story?id=75177671"
-    ampWebUrl: "https://abcnews.go.com/amp/US/symbols-hate-extremism-display-pro-trump-capitol-siege/story?id=75177671"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/symbols-hate-extremism-display-pro-trump-capitol-siege/story?id=75177671"
+  - title: "Trump leaves White House with his lowest-ever approval rating after Capitol riot, impeachment"
+    excerpt: "Nearly two-thirds, 68%, of the respondents in a new poll from the Pew Research Center said Trump should not remain a major national political figure."
+    publishedDateTime: 2021-01-17T15:08:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/15/donald-trump-leaves-white-house-lowest-ever-approval-rating/4173571001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4173571001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4173571001"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 120
+      name: USA Today
+      domain: usatoday.com
+    quality: 114
     images:
-      - url: "https://s.abcnews.com/images/Politics/donald-trump-mob-01-gty-llr-210112_1610481114245_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.gannett-cdn.com/presto/2021/01/12/USAT/d9fcae70-ecb3-4fa7-ba54-bd90bcd378e0-AP21012563654909.jpg?auto=webp&crop=5999,3374,x1,y626&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "HHS's Azar tells Trump Capitol attack could tarnish legacy"
-    excerpt: "U.S. Health and Human Services Secretary Alex Azar told President Donald Trump in a letter this week that the attack on the Capitol could tarnish the legacy of the administration."
-    publishedDateTime: 2021-01-16T12:48:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-azar/hhss-azar-tells-trump-capitol-attack-could-tarnish-legacy-idUSKBN29L02H"
+  - title: "QAnon and pro-Trump online forums are struggling and fracturing in aftermath of the U.S. Capitol siege"
+    excerpt: "Forums central to spreading QAnon and supporting former President Trump have become fractured or gone offline entirely since then Jan. 6 attack on the U.S. Capitol, raising questions about their long-term viability."
+    publishedDateTime: 2021-01-23T01:35:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2021/01/22/trump-twitter-capitol-qanon/"
+    ampWebUrl: "https://www.washingtonpost.com/technology/2021/01/22/trump-twitter-capitol-qanon/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/01/22/trump-twitter-capitol-qanon/?outputType=amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 109
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LTUOOMS3QAI6XKCJN6KCHJ277U.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "What to Know About Trump’s Second Impeachment Trial"
+    excerpt: "The same Senate chamber that was overrun by insurrectionists will be, starting on Feb. 9, the somber court for Donald Trump’s impeachment trial, as senators weigh making him the first president ..."
+    publishedDateTime: 2021-01-22T19:49:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-01-22/how-this-trump-impeachment-trial-compares-with-first-quicktake"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
     quality: 105
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210116&t=2&i=1548005470&r=LYNXMPEH0F01K&w=800"
-        width: 799
-        height: 533
-        isCached: true
-  - title: "Records: Trump allies behind rally that ignited Capitol riot"
-    excerpt: "Members of President Donald Trump’s failed presidential campaign played key roles in orchestrating the Washington rally that spawned a on the U.S. Capitol, according to an Associated Press review of records,"
-    publishedDateTime: 2021-01-18T11:10:00Z
-    webUrl: "https://www.businessinsider.com/records-trump-allies-behind-rally-that-ignited-capitol-riot-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/records-trump-allies-behind-rally-that-ignited-capitol-riot-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/records-trump-allies-behind-rally-that-ignited-capitol-riot-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "Billionaire Trump supporters Catsimatidis, Olenicoff say he isn't to blame for US Capitol attack"
-    excerpt: "Few of Trump's billionaire donors have named the president in their public condemnations of the riots. Two actually say Trump didn't incite them."
-    publishedDateTime: 2021-01-08T18:36:00Z
-    webUrl: "https://www.businessinsider.com/billionaires-catsimatidis-olenicoff-dont-blame-trump-on-capitol-riot-2021-1"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 92
-    images:
-      - url: "https://i.insider.com/5ff88ee4bde805001980be45?width=1200&format=jpeg"
-        width: 1000
-        height: 500
-        isCached: true
-  - title: "The House impeached Donald Trump over his speech before the Capitol attack. Here’s what happens next"
-    excerpt: "With the House voting to impeach President Donald Trump, the action moves to the Senate. It is not immediately clear when the Senate will begin a trial. • Most experts say that a trial can proceed after Trump is out of office if needed."
-    publishedDateTime: 2021-01-13T22:31:00Z
-    webUrl: "https://www.politifact.com/article/2021/jan/13/house-impeached-donald-trump-over-speech-capitol-a/"
-    type: article
-    provider:
-      name: Politifact
-      domain: politifact.com
-    quality: 40
-    images:
-      - url: "https://static.politifact.com/img/meter-true.jpg"
-        width: 438
-        height: 392
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ihw7eGDBjoPI/v0/1200x800.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "MOB5zKA5wlngQcIWxF3CFXzzHw+GKdwxOdC9+k5ZtttGv7uskWR4ZItWthGserLymj1KeAXG8aHmoRHozmp7YmQCtD/kKcWey2DSeb7/mRdh8Ay/xCwB4QmxXdHsf/YkoRPudxHtbEmmC+bJEUfUVcMFjAI9QVMscPu9A/0fOsSoD/riAe2FJOA0n8KIeYPHjr5UWnaTquiMV38Hc6AduUmeyBNawLdNs4CTD/yf0HJrBqgSc7wQcRQK03jUYMHLHYpu+v0/4TnbfU+yGCJikYkF/X3QtfHVp4B4nxW1mJLoHrx3/kzbFre9jsPKvp82cOA2/L7iA+g6k3AjkAyut3HQL0WUQ2dgqU9go38pZcs=;fBuDFSv6cSbVgadDOJTX/Q=="

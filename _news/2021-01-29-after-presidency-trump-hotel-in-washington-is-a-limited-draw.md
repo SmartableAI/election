@@ -80,22 +80,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump is leaving Washington as he governed — chaotically"
-    excerpt: "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter."
-    publishedDateTime: 2020-12-02T14:20:00Z
-    webUrl: "https://www.nbcnews.com/politics/meet-the-press/trump-leaving-washington-he-governed-chaotically-n1249684"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1249684"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249684"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_49/3432524/201202-donald-trump-mc-1314_76baad09f4ea18edab7aa6aafee2438b.JPG"
-        width: 2500
-        height: 1666
-        isCached: true
   - title: "Trump is on trial for inciting an insurrection. What about the 12 people who spoke before him?"
     excerpt: "Rioters heard from others besides Trump on Jan. 6. As the former president confronts a Senate impeachment trial, 12 other notable “Stop the Steal” speakers have faced few, if any, consequences."
     publishedDateTime: 2021-02-10T09:36:00Z

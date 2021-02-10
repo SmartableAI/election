@@ -175,22 +175,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Fact check: Trump's official response to impeachment includes obvious lies "
-    excerpt: "Former President Donald Trump continues to defend the ludicrous lie that led him down the road to a second impeachment -- even in his legal team's official response to that impeachment.\n    \n"
-    publishedDateTime: 2021-02-03T13:31:16Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HUOXUuqCZHU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/03/politics/fact-check-trump-impeachment-response-senate/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/03/politics/fact-check-trump-impeachment-response-senate/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 173
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210113114115-03-trump-dc-rally-0106-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Trump lawyer presses for former President's full-time Mar-a-Lago residency"
     excerpt: "Attorneys for former President Donald Trump were defending him not only on the floor of the Senate on Tuesday in his second impeachment trial, but also in Palm Beach, Florida, at a town council meeting.\n    \n"
     publishedDateTime: 2021-02-10T02:05:37Z
@@ -495,22 +479,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump's second impeachment trial starts tomorrow"
-    excerpt: "The second impeachment trial of former President Trump kicks off tomorrow. Follow here for the latest updates from Congress."
-    publishedDateTime: 2021-02-08T13:17:00Z
-    webUrl: "https://www.cnn.com/politics/live-news/trump-impeachment-news-02-08-2021/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/politics/live-news/trump-impeachment-news-02-08-2021/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/politics/live-news/trump-impeachment-news-02-08-2021/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 135
-    images:
-      - url: "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_900,h_600/b1bbdc12-087c-4830-837e-44e28c9cdc7f.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "Denying Incitement, Trump Impeachment Team Says He Cannot Be Tried"
     excerpt: "The lengthy legal brief provided the first extended defense of former President Donald J. Trump’s conduct since the Jan. 6 assault on the Capitol. It arrived as senators locked in rules for an exceedingly fast trial."
     publishedDateTime: 2021-02-09T01:15:00Z
@@ -799,6 +767,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "House managers to unveil never-seen-before video of Capitol riot in Day 2 of Trump's trial"
+    excerpt: "House managers argued that Trump's months-long effort to undermine confidence in the election and paint Biden's victory as illegitimate ultimately led to the Capitol attack."
+    publishedDateTime: 2021-02-10T20:47:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-impeachment-trial-day-2-kicks-case-against-him-n1257246"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1257246"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1257246"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 125
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2021_06/3448074/210205-impeachment-main-bar-cs-428p_fcaf4fdb04ac2ff3682a3783343f300b.jpg"
+        width: 2500
+        height: 1569
+        isCached: true
   - title: "Trump's second impeachment trial, Democrats embrace big spending and saying goodbye to a Supreme trailblazer"
     excerpt: "There is evidence that Covid-19 may have emerged outside of Wuhan, China, WHO team says after long-awaited fact-finding mission."
     publishedDateTime: 2021-02-09T14:43:00Z
@@ -815,6 +799,20 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Greene admits 9/11 ‘happened,’ Dems seek Trump under oath"
+    excerpt: "JAMIE RASKIN (D-Md.), the lead House impeachment manager, sent a letter to former President DONALD TRUMP “requesting that he provide testimony under oath, either before or during the Senate impeachment trial,"
+    publishedDateTime: 2021-02-04T18:23:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook-pm/2021/02/04/greene-admits-9-11-happened-dems-seek-trump-under-oath-491640"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/b0/2f/26b3ac3a4fda823db3ce22fa28ce/210204-greene-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Democrats' big shift in Trump's second impeachment"
     excerpt: "Democrats made a push for witnesses central to President Donald Trump’s first impeachment trial. But not this time. Senate Democrats are making it clear they’re taking a different approach than they did for Trump’s infamous Ukraine call."
     publishedDateTime: 2021-02-07T12:06:00Z
@@ -828,20 +826,6 @@ related:
       - url: "https://static.politico.com/35/62/ec905c2e47ddb53142efc00f6531/ap21021750258411.png"
         width: 1160
         height: 773
-        isCached: true
-  - title: "A Step-by-Step Guide to the Second Impeachment of Donald J. Trump"
-    excerpt: "Here’s how Mr. Trump’s second impeachment has unfolded so far. The House passed the article of impeachment, impeaching Mr. Trump for the second time. Mr. Trump’s impeachment last month by the House was not the quickest in U."
-    publishedDateTime: 2021-02-08T15:22:00Z
-    webUrl: "https://www.nytimes.com/interactive/2021/02/08/us/politics/trump-second-impeachment-timeline.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 115
-    images:
-      - url: "https://static01.nyt.com/images/2021/02/08/us/trump-second-impeachment-timeline-promo-1612812465076/trump-second-impeachment-timeline-promo-1612812465076-facebookJumbo-v8.png"
-        width: 1050
-        height: 549
         isCached: true
   - title: "Live updates: Trump impeachment trial"
     excerpt: "Donald Trump is staring down the threat of being barred from public office as the Senate embarks on an unprecedented second impeachment trial for the former president. Trump’s l"

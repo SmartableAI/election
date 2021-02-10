@@ -20,163 +20,113 @@ topics:
   - Republican Voice
 
 related:
-  - title: "Nikki Haley says Trump Twitter ban is 'what happens in China'"
-    excerpt: "Former U.N. Ambassador Nikki Haley on Friday reacted to the permanent suspension of President Trump’s Twitter account, describing it as an instance of \"silencing\" of the kind that happens in communist China."
-    publishedDateTime: 2021-01-09T15:31:28Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rhiubGFBDVU/nikki-haley-trump-twitter-ban-china"
-    ampWebUrl: "https://www.foxnews.com/politics/nikki-haley-trump-twitter-ban-china.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nikki-haley-trump-twitter-ban-china.amp"
+  - title: "Biden: Trump 'not above the law. Justice serves the people — it doesn’t protect the powerful'"
+    excerpt: "President-elect Joe Biden said on Twitter Saturday that President Trump is “not above the law,” after the House announced it would be bringing forth articles of impeachment on Monday."
+    publishedDateTime: 2021-01-10T01:55:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5m1UToI_cQo/biden-trump-not-above-law"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-not-above-law.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-not-above-law.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 179
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/AP21007689539650.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Will Democrats impeach Trump before he leaves office? How it would work"
+    excerpt: "Pelosi says Democrats could consider a second set of articles of impeachment for the president next week."
+    publishedDateTime: 2021-01-08T19:44:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/u11dFic2Ue8/will-democrats-impeach-trump-how-it-works"
+    ampWebUrl: "https://www.foxnews.com/politics/will-democrats-impeach-trump-how-it-works.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/will-democrats-impeach-trump-how-it-works.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/da6ccb3d-d6ae-4c35-892d-2a2d0a5234d2/dfcf7c7b-cb1f-422b-9614-5fd44aba5411/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Article of impeachment against Trump to be introduced Monday in House"
+    excerpt: "Rep. Ted Lieu, D-Calif., said Saturday that the House had reached 180 co-sponsors for an Article of Impeachment against President Trump, and the chamber would introduce the measure on Monday. "
+    publishedDateTime: 2021-01-09T20:47:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BN1avJc5Pa0/article-of-impeachment-trump-january-11-house"
+    ampWebUrl: "https://www.foxnews.com/politics/article-of-impeachment-trump-january-11-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/article-of-impeachment-trump-january-11-house.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2019/09/26/694940094001_6089811276001_6089809166001-vs.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Squad member compares Trump Twitter ban to capture of Saddam Hussein"
-    excerpt: "Rep. Jamaal Bowman, D-N.Y., reacted to Twitter banning President Trump from its platform by posting famous video footage of a U.S. official announcing the capture of former dictator Saddam Hussein during the Iraq war."
-    publishedDateTime: 2021-01-09T00:56:01Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HiIDSvmekpA/squad-bowman-trump-saddam-hussein"
-    ampWebUrl: "https://www.foxnews.com/politics/squad-bowman-trump-saddam-hussein.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/squad-bowman-trump-saddam-hussein.amp"
+  - title: "Biden: 'Not afraid' to take oath outside amid inauguration security concerns"
+    excerpt: "President-elect Joe Biden says he’s “not afraid” to take the oath of office outside during his inauguration next week."
+    publishedDateTime: 2021-01-11T20:24:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yBbMG1YspiY/inauguration-security-concerns-biden-not-afraid-oath-outside"
+    ampWebUrl: "https://www.foxnews.com/politics/inauguration-security-concerns-biden-not-afraid-oath-outside.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/inauguration-security-concerns-biden-not-afraid-oath-outside.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 172
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3a8cc832-1224-4756-9784-64460e49561a/449753bf-51eb-45ab-a876-ea038b0ab169/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "TeamTrump Twitter account suspended in social media crackdown"
-    excerpt: "Twitter on Friday suspended Team Trump's account on the platform not long after it banned President Trump's account."
-    publishedDateTime: 2021-01-09T17:23:56Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/M07S2BAyaPo/team-trump-twitter-account-suspended"
-    ampWebUrl: "https://www.foxnews.com/politics/team-trump-twitter-account-suspended.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/team-trump-twitter-account-suspended.amp"
+  - title: "Biden: 'Not afraid' to take oath outside amid inauguration security concerns"
+    excerpt: "President-elect Joe Biden says he’s “not afraid” to take the oath of office outside during his inauguration next week."
+    publishedDateTime: 2021-01-11T20:32:00Z
+    webUrl: "https://www.foxnews.com/politics/inauguration-security-concerns-biden-not-afraid-oath-outside"
+    ampWebUrl: "https://www.foxnews.com/politics/inauguration-security-concerns-biden-not-afraid-oath-outside.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/inauguration-security-concerns-biden-not-afraid-oath-outside.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 132
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Capture-7.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21011684189408.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Trump 'would have standing to challenge' his impeachment trial: Turley"
-    excerpt: "George Washington University law professor Jonathan Turley told “America’s Newsroom” on Wednesday that President Trump “would have standing to challenge” his impeachment trial potentially taking place after he is no longer in office “and the court could rule on it.”"
-    publishedDateTime: 2021-01-13T20:19:30Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kSTdzGFBWVY/trump-standing-challenge-impeachment-trial-turley"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-standing-challenge-impeachment-trial-turley.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-standing-challenge-impeachment-trial-turley.amp"
+  - title: "Trump Allies Criticize Twitter’s Ban on President’s Account"
+    excerpt: "Allies of President Trump decried Twitter’s ban of his account, arguing it represented the biggest move yet to silence conservative voices. “Big Tech’s PURGE, censorship & abuse of power is absurd & profoundly dangerous,"
+    publishedDateTime: 2021-01-09T20:32:00Z
+    webUrl: "https://www.wsj.com/livecoverage/trump-impeachment-democrats-biden-latest/card/7XmDAvtSs487MuOTpGUZ"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 115
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Lindsey Graham calls Twitter's Trump ban a mistake: 'Ayatollah can tweet, but Trump can’t'"
-    excerpt: "Sen. Lindsey Graham, R-S.C., lashed out at Twitter after the social media site announced Friday a permanent ban on President Trump's personal account, calling the move a \"serious mistake.\" "
-    publishedDateTime: 2021-01-09T20:30:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eF5_aCNUwxA/lindsey-graham-twitters-trump-ban-ayatollah"
-    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-twitters-trump-ban-ayatollah.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-twitters-trump-ban-ayatollah.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "After Trump Twitter ban, CBP chief says conservatives are 'constantly being censored' by Big Tech"
-    excerpt: "The head of Customs and Border Protection (CBP) said on Saturday that conservatives and Trump administration officials are \"constantly being censored\" -- a day after President Trump was permanently suspended from Twitter. "
-    publishedDateTime: 2021-01-09T16:55:25Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tSInzzeuWRE/trump-twitter-ban-cbp-chief-tech"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-twitter-ban-cbp-chief-tech.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-twitter-ban-cbp-chief-tech.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/886d202e-b4ba-4da6-bcc1-bda7cfd9a2a4/f4729944-945f-4a6d-b3c0-79a7da3fa698/1280x720/match/image.jpg"
+      - url: "https://images.wsj.net/im-283158?size=1.5"
         width: 1280
-        height: 720
+        height: 853
         isCached: true
-  - title: "Haley tells GOP not to ‘shy away’ from Trump-era gains, but calls his recent conduct 'deeply disappointing'"
-    excerpt: "Former U.N. Ambassador Nikki Haley on Thursday hailed the “extraordinary gains” for the United States during President Trump’s time in office and warned Republicans not to “shy away” from them -- while at the same time calling his post-Election Day conduct “deeply disappointing.”"
-    publishedDateTime: 2021-01-08T02:29:36Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CuZvPr02aUA/haley-gop-trump-era-gains-conduct-disappointing"
-    ampWebUrl: "https://www.foxnews.com/politics/haley-gop-trump-era-gains-conduct-disappointing.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/haley-gop-trump-era-gains-conduct-disappointing.amp"
+  - title: "Biden: Don't Dare Call Them Protesters, They Were A Riotous Mob And Domestic Terrorists"
+    excerpt: "President-elect Joe Biden denounces the riots on Capitol Hill on Wednesday at an event introducing Merrick Garland as his nominee for Attorney General. PRESIDENT-ELECT JOE BIDEN: I know you're all going to have a lot of questions,"
+    publishedDateTime: 2021-01-07T20:27:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/01/07/biden_dont_dare_call_them_protesters_they_were_a_riotous_mob_and_domestic_terrorists.html"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 157
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 57
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5850a575-b1ba-40c2-b8ec-86539591b249/df0f5648-1d79-460c-aad0-95e350db5c48/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump a Twitter rival? After ban, president says he's in talks with other platforms -- or may launch his own"
-    excerpt: "President Trump on Friday said he is considering other social media platforms and may even create his own after he was banned from Twitter in the wake of Wednesday's U.S. Capitol riot."
-    publishedDateTime: 2021-01-09T05:59:16Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/USYuHRIz2qM/trump-a-twitter-rival-after-ban-president-says-hes-in-talks-with-other-platforms-or-may-launch-his-own"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-a-twitter-rival-after-ban-president-says-hes-in-talks-with-other-platforms-or-may-launch-his-own.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-a-twitter-rival-after-ban-president-says-hes-in-talks-with-other-platforms-or-may-launch-his-own.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 156
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/trump-twitter.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "As Trump's border wall tops 450-mile goal, CBP chief says more wall is coming"
-    excerpt: "The Trump administration on Tuesday announced that the number of miles of wall at the southern border had topped 450, a key election promise set by President Trump – with a top official saying more wall construction is underway."
-    publishedDateTime: 2021-01-05T18:04:47Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MBnWntiRONo/trumps-border-wall-tops-450-mile"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 152
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cafa9715-9cec-4ff3-9eee-a36559f3ad68/ded6b470-42f2-494c-aaac-73915157c297/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Lindsey Graham calls Twitter's Trump ban a mistake: 'Ayatollah can tweet, but Trump can’t'"
-    excerpt: "S.C., lashed out at Twitter after the social media site announced Friday a permanent ban on President Trump's personal account, calling the move a \"serious mistake.\""
-    publishedDateTime: 2021-01-09T20:41:00Z
-    webUrl: "https://www.foxnews.com/politics/lindsey-graham-twitters-trump-ban-ayatollah"
-    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-twitters-trump-ban-ayatollah.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-twitters-trump-ban-ayatollah.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 125
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://assets.realclear.com/images/53/531715.jpg"
+        width: 1012
+        height: 758
         isCached: true
 
 secured: "d05dxm15FsVbh2mjeE/8Lky5TgZk6UDQdR/NVtXQPbYxNvmj5J01o94vy+fviszXUAFRxFq24iZBPVDrzFW1UkZ9KXBrIB3TmiIcvN1al8+VsYf2HdqO4ULSJURy0lo3YNCD2ePf1Xag6/Oo/M0uDs7l5kcoM1lNRl+wBM7xE7rmt0a5VdAJ8Erfzn0a41mE4H7iZi5dfMS0U6oDxTiUf881G/K251zNBOK1TUtAZYlbzO4ou2bKjjQlPku5sd5RubJ9psc6h1sLwwTm+s0MetHflAaM0JiueVEEpaO8Y6x/sWbV63uEXh4LLnUH7A5QZ3vR8fGUs2vAMW9adHYBeGswUm54TJK2vSHyrXn7eKc=;Pg0uY1hDclVHRUZnpxQCxw=="

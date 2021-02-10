@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden nominee Denis McDonough confirmed as VA secretary in Senate vote"
+    excerpt: "A longtime federal official, McDonough previously served as chief of staff to former President Barack Obama throughout his second term in office."
+    publishedDateTime: 2021-02-08T23:16:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OGT9RogIc2c/biden-nominee-denis-mcdonough-confirmed-as-va-secretary-in-senate-vote"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-nominee-denis-mcdonough-confirmed-as-va-secretary-in-senate-vote.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nominee-denis-mcdonough-confirmed-as-va-secretary-in-senate-vote.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21027736050117.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Psaki says Biden wants schools open, but won't commit to standing up to union obstruction"
     excerpt: "White House press secretary Jen Psaki on Thursday reiterated that President Biden wants to see children back in classrooms, but would not commit to standing up to unions if forced to choose between the prolific Democratic donors and reopening schools."
     publishedDateTime: 2021-02-04T19:37:33Z

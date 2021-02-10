@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/12/politics/pence-letter/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/12/politics/pence-letter/index.html"
 type: article
 quality: 181
-heat: -1
-published: false
+heat: 261
+published: true
 
 provider:
   name: CNN
@@ -32,19 +32,19 @@ images:
     isCached: true
 
 related:
-  - title: "Pence has not ruled out 25th Amendment, source says"
-    excerpt: "Vice President Mike Pence has not ruled out an effort to invoke the 25th Amendment and wants to preserve the option in case President Donald Trump becomes more unstable, a source close to the vice president says.\n    \n"
-    publishedDateTime: 2021-01-10T03:08:11Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BSkerE588Qs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/09/politics/mike-pence-25th-amendment/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/09/politics/mike-pence-25th-amendment/index.html"
+  - title: "READ: Liz Cheney's statement saying she will vote to impeach Trump"
+    excerpt: "Republican Rep. Liz Cheney of Wyoming announced Tuesday that she will vote to impeach President Donald Trump. Cheney is the third-highest ranking GOP leader in the US House of Representatives.\n    \n"
+    publishedDateTime: 2021-01-12T23:22:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/y3De_XLsBWo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/12/politics/liz-cheney-trump-impeachment-statement/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/12/politics/liz-cheney-trump-impeachment-statement/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 185
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106202537-mike-pence-remarks-vpx-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180817124025-01-liz-cheney-lead-image-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -64,19 +64,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Several Cabinet secretaries informally discuss invoking 25th Amendment but Pence 'highly unlikely' to pursue"
-    excerpt: "Inquiries about invoking the 25th Amendment have been coming into Vice President Mike Pence's advisers and those discussions have been under way, a source close to the vice president said Thursday, with several Cabinet secretaries informally discussing the matter.\n    \n"
-    publishedDateTime: 2021-01-08T02:23:15Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3lyHWU-znPk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/07/politics/25th-amendment-cabinet-secretaries/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/25th-amendment-cabinet-secretaries/index.html"
+  - title: "Read: Pelosi's letter on speaking with the chairman of the Joint Chiefs about Trump and the nuclear codes"
+    excerpt: "House Speaker Nancy Pelosi told her members in a letter Friday that she spoke to Joint Chiefs of Staff Chairman Gen. Mark Milley about President Donald Trump and the nuclear codes. Milley said in a statement that Pelosi initiated the call and he \"answered her questions regarding the process of nuclear"
+    publishedDateTime: 2021-01-08T18:12:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Sji0cXxsg7g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/08/politics/pelosi-letter-on-nuclear-codes/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/pelosi-letter-on-nuclear-codes/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 166
+    quality: 158
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210105215557-pence-trump-file-2019-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210103154127-pelosi-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -46,22 +46,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "McConnell privately says he wants Trump gone as Republicans quietly lobby him to convict"
-    excerpt: "As the House prepares to send articles of impeachment to the Senate on Monday, CNN has learned that dozens of influential Republicans around Washington -- including former top Trump administration officials -- have been quietly lobbying GOP members of Congress to impeach and convict Donald Trump. The"
-    publishedDateTime: 2021-01-22T18:51:52Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tVmuA9o9Zhk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/22/politics/mcconnell-trump-impeachment-conviction-republicans/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/22/politics/mcconnell-trump-impeachment-conviction-republicans/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 166
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210122103730-01-trump-gop-impeachment-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Sen. Patrick Leahy taken to hospital out of abundance of caution after presiding over opening of Trump's impeachment trial"
     excerpt: "Sen. Patrick Leahy was hospitalized out of an abundance of caution on Wednesday, just hours after presiding over the opening of former President Donald Trump's second impeachment trial.\n    \n"
     publishedDateTime: 2021-01-27T00:18:24Z
@@ -93,20 +77,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210107153716-capitol-riots-cybersecurity-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "McConnell wants to push Trump's Senate impeachment trial to mid-February"
-    excerpt: "McConnell’s proposal is a deal to give both sides time to prepare for former President Donald Trump's second impeachment trial."
-    publishedDateTime: 2021-01-22T03:31:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/mcconnell-wants-push-trump-s-senate-impeachment-trial-february-n1255226"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 114
-    images:
-      - url: "https://media3.s-nbcnews.com/j/newscms/2021_03/3444082/210121-mitch-mcconnell-se-512p_743400cea8c8cb08490113ee7ff58353.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "u/+vJaS71RELyT72HyCFNduralKsqp8TKJNAd/PwQL5CSK2OstY2V9lCqDUCqEb9xdhsjCxE2QS/SAxsS9L3a3Len4zhNbuAYtKIdQ73K6a+pvMIAMdxUZLT5KC3QZpuOXStSiuDAaOM9CwJfxuESex9tBAXI3x3sT+QzJz2e8lkWyp2w2iEYbuAQAicZjtWwGfpX8VYeCT7LDHsOYglsIsyv5Vji355gnqmoy6KEVM/I3LMBDF+cOS9JR5x3p+8J3L/rP9kU+6rDuKoGbtDxEcOyR3LmpeNe84OmF/VBPwkK6KFDBm/Z0dGt30k7CAUANPrL0sdjNRNYH4O6BMfiTm7x+k7DXX/1BPphrLsPd0=;LMCzI3dj70It8/cYIrBlDw=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/health/pro-trump-gop-chair-steps-down
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/pro-trump-gop-chair-steps-down-in-ohio-may-seek-senate-seat/2021/02/05/5508d346-67d9-11eb-bab8-707f8769d785_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 305
+heat: 325
 published: true
 
 provider:
@@ -142,6 +142,22 @@ related:
       - url: "https://i.insider.com/6010718e1d2df20018b70f64?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Senate votes that Trump impeachment trial is constitutional, 6 GOP side with Dems voting to proceed"
+    excerpt: "WASHINGTON — House prosecutors on Tuesday wrenched senators and the nation back to the deadly attack on Congress as they opened Donald Trump’s historic second impeachment trial with graphic video of the insurrection and Trump’s own calls for a rally crowd to march to the iconic building and “fight like hell” against his reelection defeat."
+    publishedDateTime: 2021-02-10T04:43:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-impeachment-trial-20210209-nvwsphq3inepfnxy7potq57niu-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-impeachment-trial-20210209-nvwsphq3inepfnxy7potq57niu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-impeachment-trial-20210209-nvwsphq3inepfnxy7potq57niu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 111
+    images:
+      - url: "https://www.chicagotribune.com/resizer/Ty5rGEcxhtsmZVuhq0Yc1jA4OkA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/34RAWO46JBS4WHHGWAGAHOKUBU.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Wyoming GOP Censures Liz Cheney For Voting To Impeach Trump"
     excerpt: "Rep. Cheney, third-ranking member of House Republican leadership, is the latest in a succession of Republican leaders censured by their state parties for acting in opposition to the former president."

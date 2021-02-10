@@ -26,53 +26,53 @@ images:
     isCached: true
 
 related:
-  - title: "NAACP warns Biden over Rahm Emanuel rumors"
-    excerpt: "The NAACP became the latest progressive group to warn President-elect Joe Biden against adding former Chicago Mayor Rahm Emanuel to his Cabinet."
-    publishedDateTime: 2020-12-02T20:32:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JmzBKP0XY-s/naacp-biden-rahm-emanuel-rumors"
-    ampWebUrl: "https://www.foxnews.com/politics/naacp-biden-rahm-emanuel-rumors.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/naacp-biden-rahm-emanuel-rumors.amp"
+  - title: "Twitter introduces @SecondGentleman handle for incoming Biden administration"
+    excerpt: "Twitter is introducing a new handle for the first-ever husband of a vice president as it begins transferring official White House social media accounts to the incoming Biden administration."
+    publishedDateTime: 2021-01-15T15:22:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YqXf6WqX8VM/twitter-to-transfer-official-accounts-to-biden-administration-introduces-new-handle-secondgentleman"
+    ampWebUrl: "https://www.foxnews.com/politics/twitter-to-transfer-official-accounts-to-biden-administration-introduces-new-handle-secondgentleman.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-to-transfer-official-accounts-to-biden-administration-introduces-new-handle-secondgentleman.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 172
     images:
-      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/08/08/694940094001_5819321962001_5819321658001-vs.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden administration considering Rahm Emanuel for ambassador role, report says"
-    excerpt: "Former Chicago mayor and ex-Obama chief of staff Rahm Emanuel might still end up in the Biden administration."
-    publishedDateTime: 2021-02-02T15:59:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MddK2eJxG8U/biden-rahm-emanuel-administration-role"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-rahm-emanuel-administration-role.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-rahm-emanuel-administration-role.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Top Biden economic adviser accused by former employee of mismanagement, retaliation over blog post"
-    excerpt: "Biden appointed Heather Boushey to the Council of Economic Advisers this week."
-    publishedDateTime: 2020-12-03T05:56:48Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VCdImiSLLlQ/biden-economic-adviser-accused-former-employee-mismanagement-retaliation-blog-post"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-economic-adviser-accused-former-employee-mismanagement-retaliation-blog-post.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-economic-adviser-accused-former-employee-mismanagement-retaliation-blog-post.amp"
+  - title: "Biden administration imposes 100-day 'pause' on deportations of illegal immigrants"
+    excerpt: "The Biden administration on Wednesday issued a 100-day \"pause\" on deportations of illegal immigrants -- a dramatic move that caps a slew of immigration-related moves on President Biden’s first day in office."
+    publishedDateTime: 2021-01-21T05:18:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FCUFf2IbNzg/biden-100-day-pause-on-deportations-illegal-immigrants"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-100-day-pause-on-deportations-illegal-immigrants.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-100-day-pause-on-deportations-illegal-immigrants.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 161
+    quality: 169
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0057dcd5-8a66-46c5-a417-b75dc305ccbf/ebe455b5-2e5b-4cda-aade-25221a8bc5a6/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/40f10ab6-ee60-4ab9-a69d-7a792514637c/322bcdbe-8843-4f47-a1b9-9ab5dd3da8ba/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Amanda Gorman becomes the youngest Inaugural poet with reading of 'The Hill We Climb' at Biden's swearing-in"
+    excerpt: "Amanda Gorman can officially add being the youngest Inaugural poet to her growing list of accolades."
+    publishedDateTime: 2021-01-20T18:35:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nZp-e6Ay8oA/amanda-gorman-youngest-inaugural-poet-hill-we-climb-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/amanda-gorman-youngest-inaugural-poet-hill-we-climb-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/amanda-gorman-youngest-inaugural-poet-hill-we-climb-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Amanda-Gorman-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "f0sLAH5NqyoSMTBeq4GUETbVuvX60pFyqEsPsL+WMMbYMVkwOLRDchja0AnjAEcMD6j48wb3kRPxb/oqh/UxOhMivxMFUim91nQEE1i5O44CHorqWB299JTtpb4P6djZWYYwdbs6pXAyIPWaObzvkfn7L6w/Ll1nA8r1bM/bF2Gg3MIK4Kk4ZWdJVmuBXNG3CVch0qm38d+7JUR3uRov0q0U5AHj/2XP502jh5Qt7px06ADF1V80VulbzV/osSiJoca7hCAKItO5vnHEbW5JGGUQTbMUcks67kdOxTqQEUXXagwEiWSZXal7heLrQPIvSlCOdHHKzBK1YIiVbCtwJ/ZPQQYJg4fArhrAVQXAS0jUePrX7QKBO59eLbmZ25EaSV0owen4/uY18bOGceMMsr02GoFyBOPKUW9OLAOzH8DR94rGlLPbbYXnHqKtOEHCrfiKSm360RLnQzgN0/9unLT97vDyGDYuXcjyMwAHLSTNRvm+0ea40EzCcR9CRZ8wuLZpwX0NZFpJD6bQ1jX+hA==;qALtONJDkUqvH6pKtnZRNQ=="

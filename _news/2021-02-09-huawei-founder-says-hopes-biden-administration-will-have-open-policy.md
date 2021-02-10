@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A90AY"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A90AY"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Louisiana governor at odds with Biden over oil, gas policy"
+    excerpt: "John Bel Edwards disagrees with President Joe Biden’s targeting of fossil fuel industries and wants the White House to reconsider its decision to pause new oil and gas drilling leases in the Gulf of Mexico,"
+    publishedDateTime: 2021-02-10T20:34:00Z
+    webUrl: "https://www.washingtonpost.com/business/louisiana-governor-at-odds-with-biden-over-oil-gas-policy/2021/02/10/19b59aae-6bdf-11eb-a66e-e27046e9e898_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/business/louisiana-governor-at-odds-with-biden-over-oil-gas-policy/2021/02/10/19b59aae-6bdf-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/louisiana-governor-at-odds-with-biden-over-oil-gas-policy/2021/02/10/19b59aae-6bdf-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Maryland Senators See Joe Biden's Immigration Policy as Key To Grant Citizenship To TPS Holders"
     excerpt: "The SECURE Act would provide a pathway to permanent resident status for over 400,000 immigrants who have Temporary Protected Status after fleeing natural disasters and civil unrest in their home countries."
     publishedDateTime: 2021-02-09T02:44:00Z

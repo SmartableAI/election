@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/09/politics/donald-trump-impeachment
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/09/politics/donald-trump-impeachment-trial/index.html"
 type: article
 quality: 175
-heat: 295
+heat: 275
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210203063618-file-steve-bannon-2020-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Trump is leaving Washington as he governed — chaotically"
-    excerpt: "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter."
-    publishedDateTime: 2020-12-02T14:20:00Z
-    webUrl: "https://www.nbcnews.com/politics/meet-the-press/trump-leaving-washington-he-governed-chaotically-n1249684"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1249684"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249684"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_49/3432524/201202-donald-trump-mc-1314_76baad09f4ea18edab7aa6aafee2438b.JPG"
-        width: 2500
-        height: 1666
         isCached: true
   - title: "After Presidency, Trump Hotel in Washington Is a Limited Draw"
     excerpt: "Traffic on two recent evenings at the hotel was exceedingly slow, even after the city lifted a ban on indoor dining."

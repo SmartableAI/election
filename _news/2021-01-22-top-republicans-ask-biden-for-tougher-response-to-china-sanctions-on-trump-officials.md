@@ -89,6 +89,38 @@ related:
         width: 778
         height: 545
         isCached: true
+  - title: "Biden's 1st 100 days live updates: House delivers article against Trump to Senate"
+    excerpt: "The White House announced the travel bans in a proclamation on Monday. Biden last week predicted American deaths from COVID-19 will top 500,000 deaths next month. -ABC News' Justin Gomez White House press secretary Jen Psaki,"
+    publishedDateTime: 2021-01-26T00:30:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/biden-100-days-president-white-house/?id=75460011"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/biden-100-days-president-white-house/?id=75460011"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/biden-100-days-president-white-house/?id=75460011"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 145
+    images:
+      - url: "https://s.abcnews.com/images/Politics/Impeachment-1-ap-er-210125_1611619648424_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Kamala Harris Defends Joe Biden's Climate Policies, Says They're Creating More Jobs"
+    excerpt: "Biden has faced strong criticism from Republicans for an executive order pausing oil and gas extraction on federal land."
+    publishedDateTime: 2021-01-29T14:36:00Z
+    webUrl: "https://www.newsweek.com/kamala-harris-defends-joe-biden-climate-policies-creating-more-jobs-1565370"
+    ampWebUrl: "https://www.newsweek.com/kamala-harris-defends-joe-biden-climate-policies-creating-more-jobs-1565370?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-defends-joe-biden-climate-policies-creating-more-jobs-1565370?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 144
+    images:
+      - url: "https://d.newsweek.com/en/full/1720204/vice-president-kamala-harris.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Joe Biden’s Washington: How the president might engage with the city Trump ignored"
     excerpt: "His recent visit to Holy Trinity Catholic Church and Call Your Mother bagel shop are likely just the beginning."
     publishedDateTime: 2021-01-30T16:00:00Z
@@ -104,22 +136,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IGKAF2TCHYI6XEDBA6V4YH4SFE.jpg&w=1440"
         width: 1440
         height: 1024
-        isCached: true
-  - title: "Religious right eyes Biden warily after Trump's good favor"
-    excerpt: "As his administration draws to a close, some of those backers are approaching President-elect Joe Biden with skepticism, but not antagonism. Christian conservatives who stood by Trump through moments of crisis and success are hardly comfortable with his loss,"
-    publishedDateTime: 2020-12-05T16:32:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/religious-eyes-biden-warily-trumps-good-favor-74555222"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/religious-eyes-biden-warily-trumps-good-favor-74555222"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/religious-eyes-biden-warily-trumps-good-favor-74555222"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
-    images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
         isCached: true
   - title: "Moon urges Biden to learn from Trump's N. Korea diplomacy"
     excerpt: "South Korea’s president has urged the incoming Biden administration to build upon the achievements and learn from the failures of President Donald Trump’s diplomatic engagement with North Korea"
@@ -152,6 +168,22 @@ related:
       - url: "https://s.abcnews.com/images/Lifestyle/WireAP_8df592987d85478690a5db8cff460315_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Fauci lays out Biden’s support for WHO after Trump criticism"
+    excerpt: "Dr. Anthony Fauci says U.S. President Joe Biden will order the United States to support projects to deploy COVID-19 vaccines, diagnostics and therapeutics to people in need around the world"
+    publishedDateTime: 2021-01-21T10:23:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2021-01-21/fauci-lays-out-bidens-support-for-who-after-trump-criticism"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-01-21/fauci-lays-out-bidens-support-for-who-after-trump-criticism?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-01-21/fauci-lays-out-bidens-support-for-who-after-trump-criticism?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 140
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/d25e48b/2147483647/strip/true/crop/5376x3511+0+33/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc6%2F17%2F0dcff6a549859ce569d2fff4131a%2Fap21016604188688.jpg"
+        width: 320
+        height: 209
         isCached: true
   - title: "Biden reverses Trump orders seen as hostile to federal workers"
     excerpt: "President Biden on Friday knocked out the main pillars of his predecessor’s policies toward the federal workforce by repealing Trump administration orders that restricted bargaining and appeal rights and another that sought to remove civil service protections from a large class of employees."
@@ -329,6 +361,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden moves to reverse Trump immigration policies, too slowly for some"
+    excerpt: "U.S. President Joe Biden on Tuesday ordered a review of asylum processing at the U.S.-Mexico border and the immigration system as he seeks to undo some of former President Donald Trump's hardline policies."
+    publishedDateTime: 2021-02-03T14:12:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-immigration-actions/biden-to-issue-executive-orders-on-asylum-legal-immigration-separated-families-idUSKBN2A212D?edition-redirect=in"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A212D"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A212D"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210202&t=2&i=1550069046&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH111R3"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden pays respects to Capitol officer as Trump impeachment trial nears"
     excerpt: "President and first lady attend memorial for Brian Sicknick, who died following injuries in the Capitol riot, days before start of trial"
     publishedDateTime: 2021-02-03T12:49:00Z
@@ -409,22 +457,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Biden promises help to U.S. workers hit by pandemic, Trump hints at 2024 run"
-    excerpt: "President-elect Joe Biden on Wednesday promised a group of workers hit by the raging COVID-19 pandemic that more aid would be on the way, while President Donald Trump hinted he may be ready to begin planning another run for the White House in 2024."
-    publishedDateTime: 2020-12-03T13:30:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-idINKBN28C1H8"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28C1H8"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28C1H8"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 137
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543264198&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB11YK"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Biden administration weighs turning over Trump tax returns to House Democrats"
     excerpt: "A House lawsuit to enforce a subpoena, stalled since March, awaits a decision by new Treasury officials on whether to drop objections to a release."
     publishedDateTime: 2021-01-23T04:09:00Z
@@ -489,6 +521,22 @@ related:
         width: 799
         height: 545
         isCached: true
+  - title: "Biden's 1st 100 days live updates: Trump parts ways with lead impeachment lawyer"
+    excerpt: "Donald Trump is parting ways with the lawyer who was supposed to anchor his impeachment trial -- beginning in just a little over a week, sources told ABC News. The forme"
+    publishedDateTime: 2021-01-31T05:09:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/biden-100-days-president-white-house/?id=75460011"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/biden-100-days-president-white-house/?id=75460011"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/biden-100-days-president-white-house/?id=75460011"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 135
+    images:
+      - url: "https://s.abcnews.com/images/Politics/butch-bowers_hpMain_20210130-202225_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "At Voice of America, a sweeping ouster of Trump officials on Biden’s first full day"
     excerpt: "With a veteran reporter taking the place of controversial overseer Michael Pack, the dominoes started falling in other top offices."
     publishedDateTime: 2021-01-22T04:37:00Z
@@ -520,6 +568,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/biden-oval-office-rt-jef-210121_1611250718053_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Biden's 1st 100 days live updates: House to deliver article against Trump to Senate"
+    excerpt: "House impeachment managers are expected to deliver the article of impeachment for \"incitement of insurrection\" against former Donald Trump to the Senate on Monday evenin"
+    publishedDateTime: 2021-01-25T15:25:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/biden-100-days-president-white-house/?id=75460011"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/biden-100-days-president-white-house/?id=75460011"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/biden-100-days-president-white-house/?id=75460011"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 134
+    images:
+      - url: "https://s.abcnews.com/images/Politics/nancy-pelosi-impeachment-engrossment-01-ap-jc-210113_1610579857944_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Biden’s executive actions reverse most ‘egregious’ Trump policies: Kate Bedingfield"
     excerpt: "White House Communications Director Kate Bedingfield defended President Joe Biden’s use of executive actions on ABC’s “The View” on Friday. “What he's done is looked at some of the most egregious, damaging actions from the Trump administration,"
@@ -600,6 +664,22 @@ related:
       - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210127&t=2&i=1549272941&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0Q1EA"
         width: 799
         height: 545
+        isCached: true
+  - title: "Biden's 1st 100 days live updates: Biden says his orders 'undo damage Trump has done'"
+    excerpt: "Biden last week predicted American deaths from COVID-19 will top 500,000 deaths next month. -ABC News' Justin Gomez White House press secretary Jen Psaki, asked whether the Biden administration had a timeline for putting Harriet Tubman on the $20 bill -- an Obama administration effort stalled throughout the Trump administration -- said the Treasury Department is exploring ways to \"speed up\" the process."
+    publishedDateTime: 2021-01-29T06:03:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/biden-100-days-president-white-house/?id=75460011"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/biden-100-days-president-white-house/?id=75460011"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/biden-100-days-president-white-house/?id=75460011"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 133
+    images:
+      - url: "https://s.abcnews.com/images/General/president-joe-biden-signs-healthcare-executive-order-affordable-care-obamacare-02-ap-llr-210128_1611860517077_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "U.S. to reverse Trump's 'draconian' immigration policies, Biden tells Mexican president"
     excerpt: "The United States plans to reverse the Trump administration's \"draconian\" immigration approach while working on policies addressing the causes of migration, President Joe Biden told his Mexican counterpart,"
@@ -1350,21 +1430,21 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Joe Biden volunteers, Donald Trump works on MLK Day"
-    excerpt: "state and national organizations virtually for a National Day of Service on Martin Luther King Jr. Day while the White House designated Monday as a working day for President Donald Trump. Biden and wife Jill Biden are expected to volunteer at Philabundance ..."
-    publishedDateTime: 2021-01-18T14:39:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2021/01/18/Joe-Biden-volunteers-Donald-Trump-works-on-MLK-Day/1671610978151/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/01/18/Joe-Biden-volunteers-Donald-Trump-works-on-MLK-Day/1671610978151/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/01/18/Joe-Biden-volunteers-Donald-Trump-works-on-MLK-Day/1671610978151/"
+  - title: "Donald Trump follows presidential tradition, leaves note for Joe Biden"
+    excerpt: "Deputy press secretary Judd Deere declined to reveal what Trump wrote to Biden or to characterize the sentiment in the note"
+    publishedDateTime: 2021-01-20T12:28:00Z
+    webUrl: "https://www.cleveland.com/nation/2021/01/donald-trump-follows-presidential-tradition-leaves-note-for-joebiden.html"
+    ampWebUrl: "https://www.cleveland.com/nation/2021/01/donald-trump-follows-presidential-tradition-leaves-note-for-joebiden.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2021/01/donald-trump-follows-presidential-tradition-leaves-note-for-joebiden.html?outputType=amp"
     type: article
     provider:
-      name: UPI.com
-      domain: upi.com
+      name: Cleveland.com
+      domain: cleveland.com
     quality: 100
     images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/1671610978151/2021/1/d90e27e5b533cf02b2ab1cdebe011438/v1.5/Joe-Biden-volunteers-Donald-Trump-works-on-MLK-Day.jpg"
-        width: 800
-        height: 534
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/IYAG243MORD53N7TTSINT4HSMY.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Final Letter: Trump Tight-Lipped On Message To Biden"
     excerpt: "The transition of power from Trump to President Joe Biden has been anything but traditional. But one tradition remained; a note was left for the incoming president. White House spokesman Judd Deere told USA Today the content of the letter remains between the two leaders."
@@ -1522,6 +1602,31 @@ related:
         width: 1200
         height: 632
         isCached: true
+  - title: "Biden Overturns Trump Ban On Transgender US Troops"
+    excerpt: "US President Joe Biden on Monday overturned Donald Trump's ban on transgender people serving in the military, saying \"all Americans\" qualified to serve should be able to do so. Biden's new policy was set in an executive order he signed at the White House,"
+    publishedDateTime: 2021-01-25T21:10:00Z
+    webUrl: "https://www.ibtimes.com/biden-overturns-trump-ban-transgender-us-troops-3130338"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 70
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/25/us-president-joe-has-overturned-his-predecessor-donald-AFP_8ZJ4GJ.jpg"
+        width: 1024
+        height: 680
+        isCached: true
+  - title: "Biden Reverses Trump Ban on Transgender People in Military"
+    excerpt: "President Joe Biden has signed an executive order revoking a Pentagon policy that largely barred transgender individuals from joining the military."
+    publishedDateTime: 2021-01-25T20:28:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-25/ap-source-biden-to-drop-trumps-military-transgender-ban"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-25/ap-source-biden-to-drop-trumps-military-transgender-ban?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-25/ap-source-biden-to-drop-trumps-military-transgender-ban?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
   - title: "After Trump Bromance, Biden Quickly Shifts Cold On Putin"
     excerpt: "After Donald Trump's four-year flirtation with Russian President Vladimir Putin, Joe Biden is setting a new, colder tone -- unhesitant criticism, despite openness on arms control. Biden in his first week has already taken Moscow to task on its arrest of opposition leader Alexei Navalny as well as its alleged hacking,"
     publishedDateTime: 2021-01-28T20:47:00Z
@@ -1535,6 +1640,31 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/28/us-president-joe-biden-left-has-quickly-shown.jpg"
         width: 864
         height: 768
+        isCached: true
+  - title: "Biden Moves to Reverse Trump Immigration Policies, Too Slowly for Some"
+    excerpt: "Trump won the presidency in 2016 while making border security a major theme of his campaign. If Biden fails to prevent surges in illegal immigration at the U.S.-Mexico border, he"
+    publishedDateTime: 2021-02-04T06:15:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-02-02/biden-to-issue-executive-orders-on-asylum-legal-immigration-separated-families"
+    ampWebUrl: "https://www.usnews.com/news/us/articles/2021-02-02/biden-to-issue-executive-orders-on-asylum-legal-immigration-separated-families?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2021-02-02/biden-to-issue-executive-orders-on-asylum-legal-immigration-separated-families?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
+  - title: "Trump Makes Last-ditch Bid To Block Biden Win As Congress Goes Democratic"
+    excerpt: "Donald Trump on Wednesday launched a furious last-minute bid on the streets of Washington to reverse his election defeat, as Joe Biden was set to be certified president with an added triumph of his Democratic Party on track to win full control of Congress."
+    publishedDateTime: 2021-01-06T18:26:00Z
+    webUrl: "https://www.ibtimes.com/trump-makes-last-ditch-bid-block-biden-win-congress-goes-democratic-3115809"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 69
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/06/supporters-of-us-president-donald-trump-gather-for.jpg"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Analysis: A 'Transitory Way to Govern' - Biden Reverses Trump's Orders With the Stroke of a Pen"
     excerpt: "\"So, it’s kind of a very transitory way to govern,\" he said. U.S. presidents since George Washington have enacted executive orders for policy changes big and small. Recent administrations have leaned heavily on them for meaningful,"

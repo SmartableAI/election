@@ -32,163 +32,67 @@ images:
     isCached: true
 
 related:
-  - title: "Liz Cheney, No. 3 House Republican, to vote to impeach Trump"
-    excerpt: "Wyoming Republican Rep. Liz Cheney, the party's third-ranking House leader, announced on Tuesday that she will vote to impeach President Donald Trump, becoming the highest-ranking official from her party to support charging and removing him from office following the Trump-incited riot at the Capitol"
-    publishedDateTime: 2021-01-13T00:09:26Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zMF1_XHZTPQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/12/politics/cheney-supports-impeachment/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/12/politics/cheney-supports-impeachment/index.html"
+  - title: "GOP lawmaker launches new PAC to reclaim Republican Party after Trump"
+    excerpt: "GOP Rep. Adam Kinzinger on Sunday announced a new \"movement\" to push back on the Republican Party's embrace of former President Donald Trump and retire the \"poisonous conspiracies and lies\" that defined his administration.\n    \n"
+    publishedDateTime: 2021-01-31T22:25:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DLnbyvCfm2o/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/31/politics/adam-kinzinger-country-first-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/31/politics/adam-kinzinger-country-first-trump/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200723145511-liz-cheney-trump-split-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210112182127-rep-adam-kinzinger-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump's been impeached again. What's next?"
-    excerpt: "President Donald Trump is about to be impeached again -- the first leader in US history to be impeached twice by the House.\n    \n"
-    publishedDateTime: 2021-01-13T22:33:50Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Qhflbpac4wY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/13/politics/senate-impeachment-process-next-steps/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/13/politics/senate-impeachment-process-next-steps/index.html"
+  - title: "GOP base rewards Trump loyalists with campaign cash and media appearances"
+    excerpt: "The Republicans who have remained aligned with former President Donald Trump have become lightning rods in Washington -- but are being rewarded with fundraising surges from Republican small-dollar donors and bookings on right-wing media outlets who could steer the party's future.\n    \n"
+    publishedDateTime: 2021-02-04T20:38:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lngdwh3-fO0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/04/politics/hawley-greene-fundraising-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/04/politics/hawley-greene-fundraising-trump/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 174
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210113110041-us-capitol-0113-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210204151431-hawley-greene-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump's legacy will take years to purge from the American psyche"
-    excerpt: "After four exhausting years of raging tweets, lies, \"fire and fury\" rants and orders for far-right extremists to \"stand back and stand by,\" it's almost over.\n    \n"
-    publishedDateTime: 2021-01-19T12:14:14Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EIuX4_QdrU4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/19/politics/donald-trump-presidency/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/donald-trump-presidency/index.html"
+  - title: "Two Ohio GOP lawmakers are proposing an annual state holiday in honor of Trump"
+    excerpt: "Two Ohio Republican state lawmakers want to designate June 14 as an annual state holiday honoring former President Donald Trump.\n    \n"
+    publishedDateTime: 2021-02-03T17:38:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dlh2-kum3Fs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/03/politics/ohio-gop-state-holiday-trump-trnd/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/03/politics/ohio-gop-state-holiday-trump-trnd/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 171
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210118002735-05-donald-trump-0112-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125192318-donald-trump-september-2020-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Lindsey Graham defends Liz Cheney amid attacks from Trump allies"
-    excerpt: "Sen. Lindsey Graham, a South Carolina Republican, became the latest high-profile GOP elected official to defend Rep. Liz Cheney of Wyoming amid attacks from Donald Trump loyalists critical of her vote to impeach the former president last month.\n    \n"
-    publishedDateTime: 2021-02-02T16:53:12Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cT2MZaxyug4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/02/politics/liz-cheney-republican-reaction-lindsey-graham/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/02/politics/liz-cheney-republican-reaction-lindsey-graham/index.html"
+  - title: "Democrats indicate they don't need Trump's testimony to make case at impeachment trial"
+    excerpt: "House Democrats prosecuting the case against Donald Trump are signaling privately and publicly they will likely avoid a dramatic showdown with the former President and are unlikely to issue a subpoena compelling his testimony.\n    \n"
+    publishedDateTime: 2021-02-05T18:16:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/q4jJn6WMdBk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/05/politics/senate-impeachment-trial-trump-witness/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/05/politics/senate-impeachment-trial-trump-witness/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 167
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210202112943-lindsey-graham-liz-cheney-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Read: House Democrats' draft of a new article of impeachment against Trump"
-    excerpt: "House Democrats have circulated a draft of a new impeachment resolution against President Donald Trump with one article of impeachment, \"incitement of insurrection.\"\n    \n"
-    publishedDateTime: 2021-01-08T20:37:32Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zserCShr2rE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/08/politics/trump-article-of-impeachment-draft/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/trump-article-of-impeachment-draft/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 173
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210108140605-01-inauguration-preparations-0107-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump campaign says the President has not yet chosen impeachment defense team"
-    excerpt: "President Donald Trump has not yet assembled a defense team for his upcoming Senate impeachment trial, a spokesperson for the President's campaign said Sunday.\n    \n"
-    publishedDateTime: 2021-01-17T14:11:33Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BJ0rnrr503s/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/17/politics/trump-legal-team-second-impeachment/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/17/politics/trump-legal-team-second-impeachment/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 172
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201227182837-02-trump-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Republican Sen. Pat Toomey says he thinks Trump 'committed impeachable offenses' "
-    excerpt: "Republican Sen. Pat Toomey of Pennsylvania said Saturday he thinks President Donald Trump \"committed impeachable offenses,\" but said he is not certain attempting to remove the President from office with just a few days left in his term is the right course of action.\n    \n"
-    publishedDateTime: 2021-01-10T00:48:39Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qgJsRpga2A8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/09/politics/pat-toomey-trump-impeachable-offenses/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/09/politics/pat-toomey-trump-impeachable-offenses/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 170
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210109192336-pat-toomey-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "CNN Poll: Republican Party favorability dips as most want party to move on from Trump"
-    excerpt: "The Republican Party will begin its time as the minority party in Washington unpopular with a public ready to move on from President Donald Trump, according to a new CNN Poll conducted by SSRS. The poll also finds that the most high-profile elected Republican who will remain in office after Trump leaves,"
-    publishedDateTime: 2021-01-17T13:29:44Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6sFuj_bgkZU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/17/politics/cnn-poll-republican-party-favorability-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/17/politics/cnn-poll-republican-party-favorability-trump/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 168
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210116020618-03-donald-trump-0112-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "State Department political appointee fired by White House after tweeting Trump was unfit for office"
-    excerpt: "A State Department political appointee was fired by the White House Thursday after tweeting on Wednesday evening that President Donald Trump is unfit for office and was to blame for the mob attack on the US Capitol, according to two sources familiar with the firing.\n    \n"
-    publishedDateTime: 2021-01-07T20:11:46Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/895bHnfM2yQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/07/politics/gabriel-noronha-fired-tweet/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/gabriel-noronha-fired-tweet/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 161
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/130603131322-state-dept-exterior-file-gi-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "DC attorney general wants to interview Donald Trump Jr. as part of Trump inaugural funds abuse probe"
-    excerpt: "The DC attorney general's office has notified President Donald Trump's son, Donald Trump Jr., that it would like to interview him as part of its investigation into misuse of his father's inaugural funds, a spokesperson with the office tells at CNN.\n    \n"
-    publishedDateTime: 2021-01-14T20:49:59Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iYHAPLPtFC8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/14/politics/dc-attorney-general-donald-trump-jr-inaugural-funds-abuse/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/14/politics/dc-attorney-general-donald-trump-jr-inaugural-funds-abuse/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 160
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201120195947-06-donald-trump-jr-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106122844-02-trump-speaks-dc-protest-0106-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -208,69 +112,197 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Read: Schumer calls for Trump's removal using the 25th Amendment, says he 'should not hold office one day longer'"
-    excerpt: "Senate Minority Leader Chuck Schumer on Thursday released a statement calling for President Donald Trump to be removed from office one day after a pro-Trump mob stormed the Capitol.\n    \n"
-    publishedDateTime: 2021-01-07T18:05:11Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZXc1TsO0ylw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/07/politics/chuck-schumer-25th-amendment-trump-statement/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/chuck-schumer-25th-amendment-trump-statement/index.html"
+  - title: "Former Trump officials and other GOP lawyers urge senators to 'consider the evidence' in impeachment trial"
+    excerpt: "With the second impeachment trial of Donald Trump set to begin in February, nine prominent Republican lawyers, including two former officials in the Trump administration, have signed a letter urging GOP senators to \"consider the evidence\" before deciding how to vote on conviction.\n    \n"
+    publishedDateTime: 2021-01-25T15:38:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fEnQl6lFRGs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/gop-lawyers-trump-impeachment-senate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/gop-lawyers-trump-impeachment-senate/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 154
+    quality: 157
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106142900-schumer-electoral-college-count-0106-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210122180955-schumer-senate-floor-impeachment-timeline-screen-grab-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "McConnell believes impeachment push will help rid Trump from the GOP, but has not said if he will vote to convict"
-    excerpt: "Senate Majority Leader Mitch McConnell has told associates that he thinks President Donald Trump committed impeachable offenses when he incited a deadly mob to attack the US Capitol last week and that he's \"pleased\" Democrats are working to impeach the President, The New York Times reported Tuesday.\n"
-    publishedDateTime: 2021-01-12T22:54:21Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rHZZFgzp_XU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/12/politics/mcconnell-impeachment-trump-capitol-riot/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/12/politics/mcconnell-impeachment-trump-capitol-riot/index.html"
+  - title: "Virginia Republicans' search for a standard-bearer is a key test of post-Trump GOP in upcoming governor's race"
+    excerpt: "As Republicans search for a path forward following Donald Trump's defeat and the party's loss of power in Washington, many are looking across the Potomac River to Virginia, where voters will select a new governor this November.\n    \n"
+    publishedDateTime: 2021-02-01T18:21:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4cgl-atuSG8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/01/politics/virginia-gop-governors-race-2021/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/01/politics/virginia-gop-governors-race-2021/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 154
+    quality: 155
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191210122028-01-mcconnell-trump-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210201100402-02-amanda-chase-file-2019-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Spurning Calls to Resign, Liz Cheney Says G.O.P. Must Move Past Trump"
-    excerpt: "Ms. Cheney, having fended off a challenge to her House leadership role, was defiant in defending her impeachment vote and called for Republicans to be “the party of truth.”"
-    publishedDateTime: 2021-02-07T18:17:00Z
-    webUrl: "https://www.nytimes.com/2021/02/07/us/politics/liz-cheney-republicans-trump.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/07/us/politics/liz-cheney-republicans-trump.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/07/us/politics/liz-cheney-republicans-trump.amp.html"
+  - title: "Pennsylvania GOP pledges full allegiance to Trump"
+    excerpt: "Once a producer of centrist Republicans like Arlen Specter and Tom Ridge, the state GOP now bears the MAGA stamp."
+    publishedDateTime: 2021-01-26T23:49:00Z
+    webUrl: "https://www.politico.com/news/2021/01/26/pennsylvania-republican-party-trump-support-462843"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/26/pennsylvania-republican-party-trump-support-462843"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/26/pennsylvania-republican-party-trump-support-462843"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/93/f7/09cc34c044568e3833bd4cf29005/210126-mastriano-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Why Pennsylvania Republican Leaders Are All-In for Trump More Than Ever"
+    excerpt: "Pennsylvania G.O.P. leaders have made loyalty to the defeated ex-president the sole organizing principle of the party, and would-be candidates are jockeying to prove they fought the hardest for him."
+    publishedDateTime: 2021-01-28T10:00:00Z
+    webUrl: "https://www.nytimes.com/2021/01/28/us/politics/pennsylvania-republicans-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/28/us/politics/pennsylvania-republicans-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/28/us/politics/pennsylvania-republicans-trump.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2021/02/07/us/politics/07dc-cheney/07dc-cheney-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2021/01/27/us/politics/00pennsylvania-gop1/00pennsylvania-gop1-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true
-  - title: "Live updates: House to vote on Trump impeachment, 25th amendment resolutions"
-    excerpt: "Lawmakers are expected to take up the 25th Amendment measure Tuesday night and the impeachment resolution Wednesday morning."
-    publishedDateTime: 2021-01-12T11:39:00Z
-    webUrl: "https://www.nbcnews.com/politics/congress/live-blog/2021-01-12-trump-impeachment-25th-amendment-n1253803"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1253803"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1253803"
+  - title: "Trump may poison the party, but Republicans have decided they need him"
+    excerpt: "A delicate dance is underway to keep some distance from the ex-president while also letting him know he’s beloved and welcomed."
+    publishedDateTime: 2021-01-29T02:50:00Z
+    webUrl: "https://www.politico.com/news/2021/01/28/republicans-need-trump-463684"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/28/republicans-need-trump-463684"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/28/republicans-need-trump-463684"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/2a/75/8fde41744d21b97d1a1c918237f4/ap21020485913788-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "The GOP's house was divided long before Trump's rise and fall"
+    excerpt: "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter."
+    publishedDateTime: 2021-02-02T14:11:00Z
+    webUrl: "https://www.nbcnews.com/politics/meet-the-press/gop-s-house-was-divided-long-trump-s-rise-fall-n1256454"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1256454"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1256454"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_04/3445654/210128-marjorie-taylor-greene-mc-1347_fd64080340f25d655b1dd436b608e961.JPG"
+        width: 2500
+        height: 1666
+        isCached: true
+  - title: "A Trump-Loving Congresswoman Stands Her Ground in New York City"
+    excerpt: "Rep. Nicole Malliotakis represents Staten Island, where new Republican voters out-registered Democrats during the Trump administration."
+    publishedDateTime: 2021-02-04T10:00:00Z
+    webUrl: "https://www.nytimes.com/2021/02/04/nyregion/malliotakis-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/04/nyregion/malliotakis-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/04/nyregion/malliotakis-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/14/nyregion/00nymalliotakis1/00nymalliotakis1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "QAnon fight, impeachment fallout expose Republicans' post-Trump rift"
+    excerpt: "After having kept Liz Cheney in leadership, Republicans are faced with questions about Marjorie Taylor Greene's future in the caucus."
+    publishedDateTime: 2021-02-04T09:32:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/qanon-fight-impeachment-fallout-expose-republicans-post-trump-rift-n1256627"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1256627"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1256627"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_05/3447408/210203-2x1-marjorie-taylor-greene-liz-cheney-ew-336p_ecadd80ffda389f9dff9c44761f02ec8.jpg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Full Panel: GOP splits between Trump and establishment wings"
+    excerpt: "David French, María Teresa Kumar, Anna Palmer and Michael Steele join the Meet the Press roundtable to discuss how Republicans and reckoning with party members who repeat disinformation and lies, plus the upcoming impeachment trial of former President Donald Trump."
+    publishedDateTime: 2021-02-07T14:51:00Z
+    webUrl: "https://www.nbcnews.com/meet-the-press/video/full-panel-gop-splits-between-trump-and-establishment-wings-100656197970"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo100656197970"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo100656197970"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202102/1612709173237_mtp_full_panel_210207_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Strong Trump Supporters Picked to Head Michigan Republican Party"
+    excerpt: "The state’s selection of party chair and vice chair hinged in large part on who was most loyal to the former president."
+    publishedDateTime: 2021-02-07T02:36:00Z
+    webUrl: "https://www.nytimes.com/2021/02/06/us/politics/michigan-elections-board.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/06/us/politics/michigan-elections-board.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/06/us/politics/michigan-elections-board.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/07/us/politics/06submichigan-gop-print/06michigan-gop-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "GOP Rep. Anthony Gonzalez risked his career to impeach Trump. He's not sorry."
+    excerpt: "Under fire back home, the Ohio lawmaker may have lost his chance at a Senate seat and could face a House primary challenge next year."
+    publishedDateTime: 2021-02-04T19:22:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/republican-anthony-gonzalez-voted-impeach-trump-he-wants-rid-gop-n1256291"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1256291"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1256291"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
     quality: 132
     images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2021_02/3441298/210111-impeachment-live-blog-main-cover-cs_91340e85bc6e0b139559e1ddd2593605.jpg"
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_05/3447117/210202-anthony-gonzalez-main-an_c7fc91c1c1739ba61a9001d302fe47ed.jpg"
         width: 2500
         height: 1250
+        isCached: true
+  - title: "Virginia Republicans' search for a standard-bearer is a key test of post-Trump GOP in upcoming governor's race"
+    excerpt: "As Republicans search for a path forward following Donald Trump's defeat and the party's loss of power in Washington, many are looking across the Potomac River to Virginia, where voters will select a new governor this November."
+    publishedDateTime: 2021-02-01T18:21:00Z
+    webUrl: "https://www.cnn.com/2021/02/01/politics/virginia-gop-governors-race-2021/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/01/politics/virginia-gop-governors-race-2021/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/01/politics/virginia-gop-governors-race-2021/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 115
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210201100402-02-amanda-chase-file-2019-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "PgEBOVa19tyLD8+92JEOmP68sz+qeTeaBxrcpO4Gh55Eowdr5TW1hDpsvuJa/pkfomB9oyYsnVFRlxec0FUzs96gGF+E3w5RsGkKMbMDmsKyXNOnAvmPUkwvVccarwSbYSUTDjCPLwbkggnan74HLWSO3lKOQGwUm6VM+vDE57Ivhqr8mw9lGNTlNzrOtPUYTj9yRTUwMYjOcRGzLmjss70grfmhUR2vnK1k37eKay1+XxiGP/oBYQ6aa3HBkgC3AgBIF0eK9dv3LAEdGIdypUOrN9bFjw0by8atZEdAzfBGGRgi9fu/YFjvsZMhJ8WwZkMYUReSe7x5x2dE4+Wl4sI6w2qZyWxwA7wJaIw2xsEGUQi9izdqRiKnozGm5SChZcfdIwPStax4jgIm8+7Oxg8Q7j9FMj47niBp+vkRMm1Pe++2S4myziXzPi45ykGOG2fbVvR8NYhL3s3rcar3RPlr/bp1CaVuTF+ZnPXcoWQ7vIv9KvV44t1+sHs4PyQ1WlRtrMsR7QSDWihu6ZXXCQ==;sTmcZcB6A+DW8pETX3hqUA=="

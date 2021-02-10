@@ -105,6 +105,22 @@ related:
         width: 436
         height: 545
         isCached: true
+  - title: "Trial ahead, Trump turns to ethics lawyer for his defense"
+    excerpt: "Butch Bowers is used to defending public officials in ethics cases. But he's never faced anything quite like this. It's up to Bowers, a South Carolina elections and ethics lawyer, to rise and defend Donald Trump as the Senate plunges next week into an impeachment trial unlike any other,"
+    publishedDateTime: 2021-01-22T22:28:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trial-ahead-trump-turns-ethics-lawyer-defense-75433725"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trial-ahead-trump-turns-ethics-lawyer-defense-75433725"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trial-ahead-trump-turns-ethics-lawyer-defense-75433725"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_16ed7062cdc14e229d53ef52642f205d_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Capitol rioter claims he was 'duped' by Trump, lawyer says"
     excerpt: "The attorney for Anthony Chansley, the so-called \"Qanon Shaman\" who made rounds on social media for his outlandish outfit during the Capitol riot, is blaming former President Trump for his client's involvement in the riot."
     publishedDateTime: 2021-01-23T16:06:00Z
@@ -312,6 +328,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/01-26-2021/t_bf8f6f168587474094d7d64015d3f3bf_name_ec0fbade_5f14_11eb_a177_7765f29a9524_scaled.jpg&w=1440"
         width: 1440
         height: 810
+        isCached: true
+  - title: "Trump and Justice Department lawyer said to have plotted to oust acting attorney general to try to advance baseless election claims"
+    excerpt: "The previously unknown chapter was the culmination of Trump’s long-running effort to batter the DOJ into advancing his personal agenda."
+    publishedDateTime: 2021-01-23T02:09:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-trump-justice-department-election-20210123-35ghnfsorva55pjnrec5dzu27a-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-trump-justice-department-election-20210123-35ghnfsorva55pjnrec5dzu27a-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-nyt-trump-justice-department-election-20210123-35ghnfsorva55pjnrec5dzu27a-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 110
+    images:
+      - url: "https://www.chicagotribune.com/resizer/v6dsy7X6PTCuvSOAI12wdyNvw2c=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/OXSIKLWOABM264QUD5O6FC6AMQ.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Jones Day hires top homeland security lawyer from Trump administration"
     excerpt: "Chad Mizelle, who served as acting general counsel at the U.S. Department of Homeland Security during the Trump administration, has joined Jones Day as of counsel in its government regulation practice in Miami and Washington,"

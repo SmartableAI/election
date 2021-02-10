@@ -71,6 +71,38 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Why Kamala Harris will still be a key player in the Senate"
+    excerpt: "Kamala Harris may be departing the Capitol for the White House but the incoming vice president will still be a key voice on the Hill. With this week’s special election in Georgia appearing to send two more Democrats to the Senate,"
+    publishedDateTime: 2021-01-07T12:00:00Z
+    webUrl: "https://www.mercurynews.com/2021/01/07/why-kamala-harris-will-still-be-a-key-player-in-the-senate/"
+    ampWebUrl: "https://www.mercurynews.com/2021/01/07/why-kamala-harris-will-still-be-a-key-player-in-the-senate/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/01/07/why-kamala-harris-will-still-be-a-key-player-in-the-senate/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 75
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/08/GettyImages-1027443320.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Why Kamala Harris will still be a key player in the Senate"
+    excerpt: "Kamala Harris may be departing the Capitol for the White House but the incoming vice president will still be a key voice on the Hill. With this week’s special election in Georgia appearing to send two more Democrats to the Senate,"
+    publishedDateTime: 2021-01-07T23:38:00Z
+    webUrl: "https://www.dailynews.com/2021/01/07/why-kamala-harris-will-still-be-a-key-player-in-the-senate/"
+    ampWebUrl: "https://www.dailynews.com/2021/01/07/why-kamala-harris-will-still-be-a-key-player-in-the-senate/amp/"
+    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2021/01/07/why-kamala-harris-will-still-be-a-key-player-in-the-senate/amp/"
+    type: article
+    provider:
+      name: Los Angeles Daily News
+      domain: dailynews.com
+    quality: 75
+    images:
+      - url: "https://www.dailynews.com/wp-content/uploads/2021/01/GettyImages-1027443320-1.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Kamala Harris' Vogue Cover Prompts Backlash and Outrage: ‘Disrespectful'"
     excerpt: "Vogue received similar criticism for the way it photographs Black stars when Simone Biles covered the magazine in July."
     publishedDateTime: 2021-01-10T19:28:00Z

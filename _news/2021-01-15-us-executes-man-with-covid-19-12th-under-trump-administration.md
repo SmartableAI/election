@@ -29,217 +29,35 @@ images:
     isCached: true
 
 related:
-  - title: "Trump to visit U.S.-Mexico border to laud border wall"
-    excerpt: "Mexico border on Tuesday to highlight his administration’s work on the border wall, the White House said Saturday Trump will travel to the town of Alamo, Texas"
-    publishedDateTime: 2021-01-10T06:06:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-to-visit-us-mexico-border-to-laud-border-wall/2021/01/09/09dfd742-52e0-11eb-a1f5-fdaf28cfca90_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-to-visit-us-mexico-border-to-laud-border-wall/2021/01/09/09dfd742-52e0-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-to-visit-us-mexico-border-to-laud-border-wall/2021/01/09/09dfd742-52e0-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+  - title: "Dominion sues Trump lawyer Sidney Powell for defamation"
+    excerpt: "Dominion Voting Systems has filed a defamation lawsuit against lawyer Sidney Powell, seeking at least $1.3 billion for Powell’s “wild accusations” that the company rigged the presidential election for"
+    publishedDateTime: 2021-01-08T16:36:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/dominion-sues-trump-lawyer-sidney-powell-defamation-75132691"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/dominion-sues-trump-lawyer-sidney-powell-defamation-75132691"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/dominion-sues-trump-lawyer-sidney-powell-defamation-75132691"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/Politics/WireAP_8f9e5b7a45564c9fadd9937fe5e2fca2_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "How Twitter, on the frontlines of history, finally decided to ban Trump"
-    excerpt: "Twitter CEO Jack Dorsey agreed to ban Donald Trump from Twitter after tearful all-hands meetings, bitter dialogues, and employee pushback, knowing that this would be the biggest decision his company had ever faced."
-    publishedDateTime: 2021-01-17T04:51:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2021/01/16/how-twitter-banned-trump/"
-    ampWebUrl: "https://www.washingtonpost.com/technology/2021/01/16/how-twitter-banned-trump/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/01/16/how-twitter-banned-trump/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/73AIAMSWDUI6XLGFSLJIDGQ4ZM.jpg&w=1440"
-        width: 1440
-        height: 944
-        isCached: true
-  - title: "Donald Trump appeal says government should defend E Jean Carroll lawsuit"
-    excerpt: "Justice department puts itself in between president and writer who sued after Trump dismissed 1990s rape allegation as bookselling ploy"
-    publishedDateTime: 2021-01-16T02:49:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jan/16/donald-trump-appeal-says-government-should-defend-e-jean-carroll-lawsuit"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/16/donald-trump-appeal-says-government-should-defend-e-jean-carroll-lawsuit"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/16/donald-trump-appeal-says-government-should-defend-e-jean-carroll-lawsuit"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 124
-    images:
-      - url: "https://i.guim.co.uk/img/media/90c11fb4b07bc5bd04147530e0cefa4f6ce06664/0_90_2675_1606/master/2675.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=efde315b17ef2166ec318b8bd9638616"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Trump's crackdown on the US-Mexico border has been a moneymaker for border agents working with traffickers"
-    excerpt: "Under Trump, corruption among US Border Patrol agents has increased dramatically, experts, former officials, and cartel operatives tell Insider."
-    publishedDateTime: 2020-12-29T14:43:00Z
-    webUrl: "https://www.businessinsider.com/trump-border-crackdown-drives-corruption-among-us-agents-experts-say-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/trump-border-crackdown-drives-corruption-among-us-agents-experts-say-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-border-crackdown-drives-corruption-among-us-agents-experts-say-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 107
-    images:
-      - url: "https://i.insider.com/5fea5533a644880018193917?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Explainer-How will Trump get his message out without social media?"
-    excerpt: "The decision by tech companies to clamp down on President Donald Trump's ability to speak to followers through mainstream social media may force him to tap more traditional methods of communication or more isolated conservative online channels during his final days in"
-    publishedDateTime: 2021-01-11T16:05:00Z
-    webUrl: "https://www.reuters.com/article/usa-trump-communication/explainer-how-will-trump-get-his-message-out-without-social-media-idUSL1N2JL0FR"
+  - title: "His days in power dwindling, Trump heads to Texas to see border wall"
+    excerpt: "U.S. President Donald Trump plans to emerge from seclusion on Tuesday for the first time since the U.S. Capitol was ransacked by pro-Trump protesters and will travel to Alamo, Texas, to visit his signature border wall."
+    publishedDateTime: 2021-01-12T16:21:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump-texas-idUKKBN29H1AO?edition-redirect=uk"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 105
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210111&t=2&i=1547351176&r=LYNXMPEH0A0LP&w=800"
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210112&t=2&i=1547478534&r=LYNXMPEH0B0MX&w=800"
         width: 800
-        height: 540
-        isCached: true
-  - title: "How Trump's new COVID plan will impact states..."
-    excerpt: "Watch \"How Trump's new COVID-19 plan will impact states\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2021-01-14T18:44:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20210114181815-how-trumps-new-covid-19-plan-will-impact-states/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2021/01/14/story_08551790_1610649244.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "U.S. capitals on edge ahead of possible pro-Trump armed protests"
-    excerpt: "Ten days after rioters breached the U.S. Capitol in a deadly attack that stunned the world, cities nationwide were girding for a potential new wave of violent protests over the weekend, erecting barriers and deploying thousands of National Guard troops."
-    publishedDateTime: 2021-01-17T05:35:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-protests/u-s-state-capitals-washington-on-alert-for-possible-pro-trump-armed-protests-idUSKBN29L0CS"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210116&t=2&i=1548030531&r=LYNXMPEH0F09U&w=800"
-        width: 800
-        height: 519
-        isCached: true
-  - title: "U.S. labor federation urges Trump removal, calling him 'danger' to nation"
-    excerpt: "The board of a labor federation of more than 50 unions representing 12.5 million workers called for U.S. President Donald Trump's resignation or removal from office."
-    publishedDateTime: 2021-01-08T16:52:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-labor/u-s-labor-federation-urges-trump-removal-calling-him-danger-to-nation-idUSKBN29D2A8"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 104
-    images:
-      - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Are Republicans headed for a pro-Trump, anti-Trump civil war? ‘Hell yes, we are,’ says Illinois’ Adam Kinzinger."
-    excerpt: "In Washington, Republicans are particularly concerned about a handful of extreme-right House members who could run for Senate in swing states, potentially tarnishing the party in some of the most politically important areas of the country."
-    publishedDateTime: 2021-01-16T20:37:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-nyt-trump-republicans-adam-kinzinger-20210116-gns2nfnjpfbdhc2xljwb34hnee-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-nyt-trump-republicans-adam-kinzinger-20210116-gns2nfnjpfbdhc2xljwb34hnee-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-nyt-trump-republicans-adam-kinzinger-20210116-gns2nfnjpfbdhc2xljwb34hnee-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 104
-    images:
-      - url: "https://www.chicagotribune.com/resizer/t3tXp06wwOnc7_SnVWMS4T2fmCc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/WK6VBRDIQ5H7ZI2ESE2ZLOB3RY.JPG"
-        width: 1200
-        height: 909
-        isCached: true
-  - title: "How Dangerous Is Trump? Experts, Lawmakers Question His Mental Fitness"
-    excerpt: "Calls are growing for the president's removal under the 25th Amendment -- or impeachment."
-    publishedDateTime: 2021-01-08T15:18:00Z
-    webUrl: "https://www.ibtimes.com/how-dangerous-trump-experts-lawmakers-question-his-mental-fitness-3117482"
-    ampWebUrl: "https://www.ibtimes.com/how-dangerous-trump-experts-lawmakers-question-his-mental-fitness-3117482?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/how-dangerous-trump-experts-lawmakers-question-his-mental-fitness-3117482?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/07/us-president-donald-trump-whips-up-the-crowd.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Internet Reacts To Twitter's Donald Trump Ban With Memes; Netizens Watching Melania Trump's Account"
-    excerpt: "Memes immediately followed Twitter's announcement that it has banned President Donald Trump's personal account permanently."
-    publishedDateTime: 2021-01-09T04:58:00Z
-    webUrl: "https://www.ibtimes.com/internet-reacts-twitters-donald-trump-ban-memes-netizens-watching-melania-trumps-3117756"
-    ampWebUrl: "https://www.ibtimes.com/internet-reacts-twitters-donald-trump-ban-memes-netizens-watching-melania-trumps-3117756?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/internet-reacts-twitters-donald-trump-ban-memes-netizens-watching-melania-trumps-3117756?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 61
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/29/president-donald-trump-lashed-out-at-the-republican.jpg"
-        width: 1024
-        height: 642
-        isCached: true
-  - title: "Gab Benefits From Twitter-less Trump, Parler Removal"
-    excerpt: "Social network Gab is benefitting from the suspension of several Twitter accounts -- including Donald Trump's -- and the taking offline of rival Parler, its CEO said Monday. Between 600,000 and 700,000 internet users are registering on the platform every day,"
-    publishedDateTime: 2021-01-11T20:11:00Z
-    webUrl: "https://www.ibtimes.com/gab-benefits-twitter-less-trump-parler-removal-3119231"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/11/this-illustration-picture-shows-social-media-application-logo.jpg"
-        width: 1024
-        height: 757
-        isCached: true
-  - title: "Watch live: President Donald Trump visits Alamo, Texas"
-    excerpt: "President Donald Trump flew to visit Alamo, Texas, on Tuesday. The small town of Alamo was named after the famed mission 240 miles north in San Antonio. Trump will deliver remarks near a border wall at 2 p."
-    publishedDateTime: 2021-01-12T14:03:00Z
-    webUrl: "https://www.chron.com/news/local/politics/article/Watch-Live-President-Donald-Trump-visits-Alamo-15864972.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 55
-    images:
-      - url: "https://s.hdnux.com/photos/01/16/10/63/20483289/3/rawImage.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
-  - title: "Donald Trump visiting Texas' Rio Grande Valley on Tuesday as his administration rushes to award more border wall contracts"
-    excerpt: "The president's visit comes a week after Department of Homeland Security officials touted the “historic” completion of 450 miles of border fencing during his administration."
-    publishedDateTime: 2021-01-10T02:05:00Z
-    webUrl: "https://www.texastribune.org/2021/01/09/donald-trump-texas-rio-grande-valley/"
-    ampWebUrl: "https://www.texastribune.org/2021/01/09/donald-trump-texas-rio-grande-valley/amp/"
-    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/01/09/donald-trump-texas-rio-grande-valley/amp/"
-    type: article
-    provider:
-      name: Texas Tribune
-      domain: texastribune.org
-    quality: 49
-    images:
-      - url: "https://thumbnails.texastribune.org/a46LF-zc-5KceRQnN9BytLot0Cw=/1200x804/smart/filters:quality(95)/static.texastribune.org/media/files/d440d5485ff924488186466519c53bdf/Trump%20Brenner%20REUTERS%202020%20TT%20.jpg"
-        width: 1200
-        height: 804
+        height: 533
         isCached: true
 
 secured: "iXb/ajY7bxE2YO4j+puX2gh7dzPU+Rtx+6PzobQCkEqAcM9a/vJFPv34USWuq2Bbw7E8yBX2MI7MoV8J1w1gamZSpxWFe+nph6CEPc1XoaCYYoxNdR2t8XeA/G2czx9cUw30LBQLYe9sGqu+OtGiyqsBI4P4r0fHBbRLMrWeyLzer5XVi/k3O9rtMg8Qh2z4IM4zRjUtQtbT7spMM21AY3CMjvJ0tJynymQELQ+r/n6C8UHLWzVfjBd7+KBDWy6+GYXcunZ+DUauf31aoiEIbTNRxfx5VmJMNJc3KtwkQmBRxfoCY3Oc8vgUoqEX7S6nsIV47IQxZtFlwQ8QWluASkQLzMT7LcZa0AyLy846rxTrR0HR7K9z8BQkoMbi0ZjHqWv73YoszcdqtBjZeHzRqpWJvk2LB/B9e4YbSzhxNn95tjZBejlCr+uZ3ArMcdEUQdkOoJ0ZLoe/rro+z7pXVbpye/KZBarLMIT/zafALK380euS2kguQHiM8dduigIsFmBhoH2nTd08BiYMf/4VYg==;I9OMrXc5Z6Ic5hy9UFAbHw=="

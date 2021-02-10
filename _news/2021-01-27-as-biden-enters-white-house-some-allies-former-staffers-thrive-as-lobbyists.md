@@ -143,6 +143,22 @@ related:
         width: 2500
         height: 1642
         isCached: true
+  - title: "Biden to sign day one executive order to shift coronavirus-fighting strategy"
+    excerpt: "New president plans to require masks to be worn in federal buildings and by federal employees and contractors."
+    publishedDateTime: 2021-01-20T10:07:00Z
+    webUrl: "https://www.washingtonpost.com/health/biden-covid-executive-actions/2021/01/19/bf695e50-5a9a-11eb-b8bd-ee36b1cd18bf_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/biden-covid-executive-actions/2021/01/19/bf695e50-5a9a-11eb-b8bd-ee36b1cd18bf_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/biden-covid-executive-actions/2021/01/19/bf695e50-5a9a-11eb-b8bd-ee36b1cd18bf_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 122
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LA7L3BSDZQI6XLBKHLAPFOGO5M.jpg&w=1440"
+        width: 1440
+        height: 1186
+        isCached: true
   - title: "Biden orders Department of Justice to phase out contracts with private prisons"
     excerpt: "President Joe Biden on Tuesday ordered the Department of Justice to end its reliance on private prisons and acknowledge the central role government has played in implementing discriminatory housing policies."
     publishedDateTime: 2021-01-27T11:42:00Z

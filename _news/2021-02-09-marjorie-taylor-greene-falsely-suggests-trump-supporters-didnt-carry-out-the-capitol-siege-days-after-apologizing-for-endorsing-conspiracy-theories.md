@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump impeachment trial live updates: Democrats to present never-before-seen evidence"
+    excerpt: "House impeachment managers will use evidence that hasn't been seen before during the imminent trial, according to senior aides on the team. Senate Majority Leader Chuck Schumer re"
+    publishedDateTime: 2021-02-09T16:35:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/trump-impeachment-trial-live-updates-senate-debate-constitutionality/?id=75741945"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/trump-impeachment-trial-live-updates-senate-debate-constitutionality/?id=75741945"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/trump-impeachment-trial-live-updates-senate-debate-constitutionality/?id=75741945"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 118
+    images:
+      - url: "https://s.abcnews.com/images/General/donald-trump-self-pardon-03-gty-llr-210107_1610059083613_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Power Up: Trump spokesman says move to disqualify him from future office is 'dead on arrival'"
     excerpt: "This is the Power Up newsletter. Thanks for waking up with us. IMPEACHMENT II: Former president Donald Trump won't be testifying in his second Senate impeachment trial starting today. But that doesn't mean Trump won't be tuning in to the proceedings as House impeachment managers argue he is “singularly responsible” for inciting the Jan."
     publishedDateTime: 2021-02-09T16:22:00Z
@@ -79,17 +95,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The Latest: Dems Say Trump Team Bids to Shift Blame for Riot"
-    excerpt: "House Democrats prosecuting the impeachment case against Donald Trump say the former president’s lawyers are trying to “shift the blame onto his supporters” as they argue he's not to blame for the Capitol insurrection."
-    publishedDateTime: 2021-02-09T18:15:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-02-09/the-latest-aides-say-trump-impeachment-case-devastating"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-09/the-latest-aides-say-trump-impeachment-case-devastating?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-09/the-latest-aides-say-trump-impeachment-case-devastating?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "G8JBL2epv2fYOyu0dQir0WLGw/+IBETF3++OLvyYKms95b0eDt7IxdBI6GXAtrfjZ3jX1M9DDASPIWCOX+NDzLmuwE5PVT8bRe12SnQ+KiFYVJZZf5kOseiGc1Fow4HPqcd8qn8oKM57up36CbujFMoaP8AU2YtMS5YAN9nidtB880Fbi0XyaQCNH6c0dY/roK3CbxaTNTe1DTrUZq+W4nRSULwtUK6N08SYGhYzboIlH+Pi4CitMMGoNAj5BQcQZChjZpjh1SIClhogY9oMNyC8Vo8tzIkQjJHXkXLs8jfe3Ng7MqpW482HMo8prnccqPFB+EqpI5+0gnqeEvPkGWSULs6X5Vm8i95dQdNzIYY=;nC/qSGR8N2Fa3Q4lyR6toA=="
 ---

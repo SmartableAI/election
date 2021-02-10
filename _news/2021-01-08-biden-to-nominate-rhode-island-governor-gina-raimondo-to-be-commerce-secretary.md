@@ -63,6 +63,36 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Joe Biden picks Boston Mayor Marty Walsh, a former union president, as labor secretary"
+    excerpt: "BOSTON — President-elect Joe Biden will select Boston Mayor Marty Walsh as his labor secretary, according to a person familiar with the decision, choosing a former union worker who shares his Irish American background and working-class roots."
+    publishedDateTime: 2021-01-07T22:09:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-marty-walsh-labor-secretary-20210107-wuvudqdzzjb4rkz24kzejxhpx4-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-marty-walsh-labor-secretary-20210107-wuvudqdzzjb4rkz24kzejxhpx4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-marty-walsh-labor-secretary-20210107-wuvudqdzzjb4rkz24kzejxhpx4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 117
+    images:
+      - url: "https://www.chicagotribune.com/resizer/19Qh57wx2b8uSTs9j-qlcwB8rpA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/MVKWVGAJ4XFDUTXSWAOPK4Z6EQ.aspx"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Biden to nominate Rhode Island governor for Commerce, Boston mayor for Labor"
+    excerpt: "President-elect Joe Biden will nominate Rhode Island Governor Gina Raimondo as his Commerce Department secretary and former union official and Boston Mayor Marty Walsh as Labor secretary, his transition team said late on Thursday."
+    publishedDateTime: 2021-01-08T06:42:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-biden-cabinet/biden-to-nominate-rhode-island-governor-for-commerce-boston-mayor-for-labor-idUSKBN29C31H"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 102
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210107&t=2&i=1547021518&r=LYNXMPEH061HZ&w=800"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Biden picks Rhode Island governor for Commerce, Boston mayor for Labor: sources"
     excerpt: "President-elect Joe Biden will nominate Rhode Island Governor Gina Raimondo as his Commerce Department secretary and former union official and Boston Mayor Marty Walsh as Labor secretary, people familiar with the choices told Reuters on Thursday."
     publishedDateTime: 2021-01-08T05:13:00Z
@@ -107,6 +137,17 @@ related:
         width: 850
         height: 478
         isCached: true
+  - title: "Joe Biden chooses Walsh for Labor Secretary"
+    excerpt: "President-elect Joe Biden has chosen Boston Mayor Martin J. Walsh as his nominee for Labor secretary, tapping a longtime friend and former union president for the Cabinet position in what would mark a seismic shift in the city’s politics,"
+    publishedDateTime: 2021-01-08T03:29:00Z
+    webUrl: "https://www.bostonglobe.com/2021/01/07/nation/biden-taps-walsh-labor-secretary/"
+    ampWebUrl: "https://www.bostonglobe.com/2021/01/07/nation/biden-taps-walsh-labor-secretary/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/01/07/nation/biden-taps-walsh-labor-secretary/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 55
 
 secured: "wptZmV5EMRrVis5E3QQaMmXwCoLzm4k7QxalPWiaehIs2Bvb4UJoIwnzyMDsh9vGKCImTaKsgKFhumgSr7oltlAP9XJRORiox/sIXbo4sPrsOf6XIHbba/bAQMVJWywIFy7fdpTwFMBbRv2JT03Xoe+MnLda6leigJH2vos3JJ+g4DIzN87vjAk6LUZQ0Lumq4wK8i9NWM8XgPduO7tSpISv4r17FBQTdUDznbNg+w1UwczUEb+L40DYp0pNyr7ed1xhI0fa1Y2fxg2j3cDYh183bom0tlzoy0a16FgSBJc4MvVJK7lay4yMdn3RRVlJdu7nhlsN8LoHyDKm1Sj52rbsV87xoFayX48EFKKlxKhtCZLCP8b4jF0UOQMKjwh6D11Pi0C0b5FpM8iiqc4y9hCxDEJnFiK4RxoJ64bI77eQ3NUhVbnbZwqF/izu+XVaZHPS+LJ9f3OpqvVx9+XiNkTVwLybN/tXShscTBu0FmCyvPA7/hK6Ydx3FBW0oKDfMQCA3FDu3E+oRz3VUbb6rQ==;1CsyNIDwk/XtKEAqfOl55g=="
 ---

@@ -143,6 +143,38 @@ related:
         width: 580
         height: 326
         isCached: true
+  - title: "Biden wants to go big, fast and alone on COVID relief"
+    excerpt: "President Joe Biden has laid out his for moving fast and without Republicans, if necessary, to pass $1.9 trillion in coronavirus relief, armed with new signs of economic strain brought on by the conti"
+    publishedDateTime: 2021-02-05T17:36:00Z
+    webUrl: "https://www.washingtonpost.com/business/senate-approves-budget-bill-as-harris-casts-tie-breaker-vote/2021/02/05/c0c37a3a-67ae-11eb-bab8-707f8769d785_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/business/senate-approves-budget-bill-as-harris-casts-tie-breaker-vote/2021/02/05/c0c37a3a-67ae-11eb-bab8-707f8769d785_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/senate-approves-budget-bill-as-harris-casts-tie-breaker-vote/2021/02/05/c0c37a3a-67ae-11eb-bab8-707f8769d785_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Biden seeks to speed delivery of coronavirus stimulus checks and food aid"
+    excerpt: "U.S. President Joe Biden on Friday will sign orders to speed the issuance of pandemic stimulus checks to needy families and increase food aid for children who normally rely on school meals for nutrition."
+    publishedDateTime: 2021-01-23T00:12:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-idINKBN29R122"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN29R122"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN29R122"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210122&t=2&i=1548763539&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0L1HM"
+        width: 812
+        height: 545
+        isCached: true
   - title: "Biden signs order to reopen Obamacare markets for special Covid-19 coverage"
     excerpt: "President expected to sign executive order for special sign-up opportunity amid the coronavirus pandemic"
     publishedDateTime: 2021-01-28T20:13:00Z
@@ -158,6 +190,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/dd67192ff03e8ee7c6fc34da56a1b170c430542e/0_0_5935_3561/master/5935.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=487c409494275235af63302ef2d4e8cb"
         width: 600
         height: 360
+        isCached: true
+  - title: "Biden tells Democrats he would consider limits on who gets COVID-19 checks"
+    excerpt: "President Joe Biden told congressional Democrats on Wednesday he would not back down on including $1,400 checks for struggling Americans in his COVID-19 relief plan but would consider tighter limits on who gets them,"
+    publishedDateTime: 2021-02-04T00:48:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUSKBN2A322X"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A322X"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A322X"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210204&t=2&i=1550246455&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1222D"
+        width: 809
+        height: 545
         isCached: true
   - title: "Watch live: Biden nominee for DHS Director testifies at confirmation hearing"
     excerpt: "President-elect Joe Biden's nominee for Director of the Department of Homeland Security Alejandro Mayorkas on Tuesday morning is slated to testify at his Senate confirmation hearing.The hearing is scheduled to begin at 10 a."
@@ -220,22 +268,6 @@ related:
     quality: 120
     images:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/28/c6da5626-65f4-4274-ad76-480ed47da6ab/thumbnail/1200x630/5a5d95df2539d794cb0850404e613ac3/gettyimages-1230821605.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Watch Live: Joe Biden delivers remarks after briefing from national security teams"
-    excerpt: "Mr. Biden's comments will follow a briefing from members of his national security and foreign policy agency review teams \"on their findings and key challenges that the Biden-Harris administration will inherit,"
-    publishedDateTime: 2020-12-28T14:50:00Z
-    webUrl: "https://www.cbsnews.com/news/joe-biden-speech-watch-live-stream-today-2020-12-28/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/joe-biden-speech-watch-live-stream-today-2020-12-28/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-biden-speech-watch-live-stream-today-2020-12-28/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 119
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/28/af11f1c6-2d69-40e3-bfd5-033879d99f30/thumbnail/1200x630/6cfef30a2d4d96a452691ce7ca18d8a6/gettyimages-1230276263.jpg"
         width: 1200
         height: 630
         isCached: true
@@ -335,6 +367,20 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden hopes U.S. reaches 1.5 million COVID-19 vaccinations a day"
+    excerpt: "President Joe Biden has set a goal that the U.S. will eventually roll out 1.5 million COVID-19 vaccines a day, rather than 1 million a day, as previously suggested. Ed O'Keefe reports"
+    publishedDateTime: 2021-01-28T01:33:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-hopes-us-reaches-15-million-covid-19-vaccinations-a-day/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/26/c5c40351-05c9-455e-b250-2a454d9b4c96/thumbnail/1200x630/de26ce642b0eba79813d73b9a9b6928f/cbsn-fusion-president-biden-hopes-us-reaches-15-million-covid-19-vaccinations-a-day-thumbnail-633320-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden could change course in high court health care case"
     excerpt: "The on the fate of the could give the Biden administration its first opportunity to chart a new course in front of the justices."
     publishedDateTime: 2021-02-01T05:01:00Z
@@ -346,6 +392,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Biden meets with Democrats in Oval on COVID relief"
+    excerpt: "Speaking during a meeting with Democratic Senators, President Joe Biden predicted his COVID relief package \"will have Republican support,\" despite huge gaps between the two parties' proposals and Democratic plans to approve the bill regardless."
+    publishedDateTime: 2021-02-03T18:04:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/02/03/biden-meets-democrats-oval-covid-relief/4374077001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/a8d5d9b1-353b-4dd8-aa98-9c716ea7f333_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "UPDATE 1-Biden to reopen healthcare.gov, ease Medicaid rules amid COVID-19 -report"
     excerpt: "U.S. President Joe Biden is set to reopen the nation's online insurance marketplace, healthcare.gov, as soon as this week, the Washington Post reported on Tuesday, offering Americans who cannot get coverage through work another way to obtain it amid the COVID-19 pandemic."
     publishedDateTime: 2021-01-26T14:17:00Z

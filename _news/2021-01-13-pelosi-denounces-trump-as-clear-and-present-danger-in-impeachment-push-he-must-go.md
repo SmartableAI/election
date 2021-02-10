@@ -31,129 +31,51 @@ images:
     isCached: true
 
 related:
-  - title: "Pelosi: Will impeach if cabinet won’t oust Trump"
-    excerpt: "This comes as top officials leave over Trump misconduct."
-    publishedDateTime: 2021-01-07T20:03:19Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Mh2iHot3Spw/pelosi-will-impeach-if-cabinet-wont-oust-trump"
-    ampWebUrl: "https://www.foxnews.com/politics/pelosi-will-impeach-if-cabinet-wont-oust-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-will-impeach-if-cabinet-wont-oust-trump.amp"
+  - title: "Maxine Waters warns Trump 'capable of starting a civil war'"
+    excerpt: "Rep. Maxine Waters, D-Calif., urged the House of Representatives to impeach President Trump on Wednesday, arguing that he was \"the worst president in the history of the United States.\""
+    publishedDateTime: 2021-01-13T20:45:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XcQVk1yPmHo/maxine-waters-trump-civil-war"
+    ampWebUrl: "https://www.foxnews.com/politics/maxine-waters-trump-civil-war.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/maxine-waters-trump-civil-war.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9ffd8a2c-33e3-456d-88da-85083e263c93/73994e6b-b87b-4e26-898b-6ce9df28b672/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Ilhan Omar says Trump 'will be impeached'"
-    excerpt: "Rep. Ilhan Omar, D-Minn., vowed on Friday that President Trump would be impeached after this week's riots, which have prompted widespread criticism of the president and his rhetoric following November's election."
-    publishedDateTime: 2021-01-08T21:33:01Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/N3eIvLRm9mQ/ilhan-omar-trump-impeached"
-    ampWebUrl: "https://www.foxnews.com/politics/ilhan-omar-trump-impeached.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ilhan-omar-trump-impeached.amp"
+  - title: "Trump gets warm Florida greeting from supporters after arriving from DC"
+    excerpt: "Former President Trump received a warm greeting from supporters in South Florida on Wednesday morning as he made his way to his Mar-a-Lago resort after leaving the White House for the last time as the commander-in-chief."
+    publishedDateTime: 2021-01-21T05:42:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LWUaoV2BEm4/trump-gets-warm-florida-greeting-from-supporters-after-arriving-from-dc"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-gets-warm-florida-greeting-from-supporters-after-arriving-from-dc.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-gets-warm-florida-greeting-from-supporters-after-arriving-from-dc.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cabbd5c8-5261-4e94-9550-81c691405868/20c9113c-d0de-48ab-ae7d-c9f0afd4d1cd/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21020615555291.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Rep. Adam Schiff says Trump must go, backs second impeachment"
-    excerpt: "House Intelligence Committee Chairman Adam Schiff joined a growing list of lawmakers on both sides of the aisle calling for President Trump's removal."
-    publishedDateTime: 2021-01-09T17:16:36Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/grHNELR7304/rep-schiff-joins-push-to-impeach-trump-a-second-time"
-    ampWebUrl: "https://www.foxnews.com/politics/rep-schiff-joins-push-to-impeach-trump-a-second-time.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-schiff-joins-push-to-impeach-trump-a-second-time.amp"
+  - title: "Trump pardons Steve Bannon, Lil Wayne, dozens of others; also commutes sentences"
+    excerpt: "President Trump issued a long list of pardons and sentence commutations early Wednesday as he prepared to leave office."
+    publishedDateTime: 2021-01-20T06:24:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Aj49fqU9V44/trump-pardons-steve-bannon-lil-wayne-dozens-of-others-also-commutes-sentences"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-pardons-steve-bannon-lil-wayne-dozens-of-others-also-commutes-sentences.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-pardons-steve-bannon-lil-wayne-dozens-of-others-also-commutes-sentences.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 170
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Pro-Trump protesters storm Pelosi's office, take over Senate chamber at US Capitol"
-    excerpt: "Thousands of pro-Trump protesters stormed the U.S. Capitol on Wednesday, vandalizing House Speaker Nancy Pelosi’s office and both congressional chambers."
-    publishedDateTime: 2021-01-06T22:42:30Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WTxiRdEaxDc/pro-trump-protestors-storm-pelosi-office-senate-chamber-us-capitol"
-    ampWebUrl: "https://www.foxnews.com/politics/pro-trump-protestors-storm-pelosi-office-senate-chamber-us-capitol.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pro-trump-protestors-storm-pelosi-office-senate-chamber-us-capitol.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/32855443-767d-4b96-861e-e053b799308b/df486f77-b285-4a08-a896-558037ce44aa/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Gingrich: Pelosi-led Trump impeachment effort driven by 'fear' he could win in 2024"
-    excerpt: "Newt Gingrich criticized House Speaker Nancy Pelosi on Tuesday for pushing to impeach President Trump for a second time"
-    publishedDateTime: 2021-01-12T20:24:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Z0FiwdbeTV8/gingrich-pelosi-led-impeachment-effort-fear-trump-could-win-in-2024"
-    ampWebUrl: "https://www.foxnews.com/politics/gingrich-pelosi-led-impeachment-effort-fear-trump-could-win-in-2024.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gingrich-pelosi-led-impeachment-effort-fear-trump-could-win-in-2024.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7d9cd6ea-fe7a-48b7-a5d6-0e1e51f21fe1/ef4e6bb5-9ef3-4b03-adc8-b5d9bb6cedc8/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Andy McCarthy: Trump’s conduct is impeachable, but impeachment trial should not be rushed"
-    excerpt: "Former U.S. Attorney Andy McCarthy says Trump’s statements leading up to the Capitol riot could be considered “impeachable conduct,” but he is cautioning Congress against speeding through impeachment proceedings."
-    publishedDateTime: 2021-01-13T17:28:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rPfad0PzY94/andy-mccarthy-trumps-conduct-impeachable-impeachment-trial-rushed"
-    ampWebUrl: "https://www.foxnews.com/politics/andy-mccarthy-trumps-conduct-impeachable-impeachment-trial-rushed.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/andy-mccarthy-trumps-conduct-impeachable-impeachment-trial-rushed.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2468eb0b-ba0f-4671-bea4-383fa1b857d2/87bcd4b3-50ce-49bf-aa00-ae3de8dc5d86/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Pressure on Pelosi to send Trump impeachment to Senate as Schumer, McConnell, trade barbs over next steps"
-    excerpt: "House Speaker Nancy Pelosi hasn't indicated when she will send the latest article of impeachment against President Trump to the Senate even as House Majority Leader Steny Hoyer, her chief deputy, publicly advocates that the article be sent \"as soon as possible.\""
-    publishedDateTime: 2021-01-14T12:27:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IQpLoJlLblU/unclear-when-pelosi-will-send-trump-impeachment-to-senate-as-schumer-mcconnell-trade-barbs-over-next-steps"
-    ampWebUrl: "https://www.foxnews.com/politics/unclear-when-pelosi-will-send-trump-impeachment-to-senate-as-schumer-mcconnell-trade-barbs-over-next-steps.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/unclear-when-pelosi-will-send-trump-impeachment-to-senate-as-schumer-mcconnell-trade-barbs-over-next-steps.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 158
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Speaker Pelosi names Rep. Eric Swalwell among Trump impeachment managers"
-    excerpt: "Rep. Eric Swalwell has been named as one of nine impeachment managers announced to before the Senate in President Trump’s second impeachment tria"
-    publishedDateTime: 2021-01-13T02:43:56Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/o5P7cbimHuU/speaker-pelosi-eric-swalwell-trump-impeachment-managers"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 154
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2019/12/AP19347606405768.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/321ecfd7-beb9-4774-b170-6624dc01804c/da14774b-57ad-4e5e-9230-b8d2bae64d79/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

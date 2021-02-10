@@ -63,22 +63,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Schumer says Dems could censure Trump if impeachment trial ends in acquittal"
-    excerpt: "Few Senate Republicans have indicated a willingness to vote against Trump, making the 67-vote threshold required to convict him a dim proposition for Democratic leaders."
-    publishedDateTime: 2021-02-02T21:30:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xPm87tqf_qI/schumer-dems-could-censure-trump-if-impeachment-doesnt-end-in-conviction"
-    ampWebUrl: "https://www.foxnews.com/politics/schumer-dems-could-censure-trump-if-impeachment-doesnt-end-in-conviction.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schumer-dems-could-censure-trump-if-impeachment-doesnt-end-in-conviction.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7f69f637-0c95-40e7-bc37-57c7e1df7af2/b983ea9c-8f51-4de1-b6c0-9bcf06eb3a0e/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Trump impeachment manager Raskin delivers tearful speech on family's experience at Capitol riot"
     excerpt: "Rep. Jamie Raskin, the House’s lead manager of impeachment proceedings against former President Donald Trump, cited the terror experienced by members of his family during the Jan. 6 Capitol riot during a tearful argument in favor of conviction on the Senate floor on Tuesday afternoon."
     publishedDateTime: 2021-02-09T21:12:12Z

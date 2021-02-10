@@ -48,38 +48,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Listen to Trump's sudden stipulation for Covid-19 stimulus bill"
-    excerpt: "President Trump issued a sudden pre-Christmas demand for changes to a desperately needed $900 billion pandemic relief bill that could potentially risk shattering the bipartisan compromise reached by Democrats and Republicans. CNN's Joe Johns reports.\n    \n"
-    publishedDateTime: 2020-12-23T12:57:49Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4SS99xZY5qk/trump-pardons-coronavirus-stimulus-johns-pkg-newday-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/12/23/trump-pardons-coronavirus-stimulus-johns-pkg-newday-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/12/23/trump-pardons-coronavirus-stimulus-johns-pkg-newday-vpx.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201222230738-trump-media-final-days-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "GOP lawmaker says Trump blindsided them on Covid-19 relief bill"
-    excerpt: "Rep. Tom Reed (R-NY) says President Trump's unexpected pushback on the bipartisan coronavirus relief bill passed by the US Congress \"blindsided\" GOP lawmakers.\n    \n"
-    publishedDateTime: 2020-12-24T03:08:15Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UYW50IPnMxA/trump-coronavirus-relief-bill-tom-reed-cpt-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/12/24/trump-coronavirus-relief-bill-tom-reed-cpt-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/12/24/trump-coronavirus-relief-bill-tom-reed-cpt-vpx.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201223215641-tom-reed-screengrab-for-vpx-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Senators to be sworn in for Trump impeachment trial "
     excerpt: "Senators will be formally sworn in as jurors on Tuesday for the second impeachment trial of former President Donald Trump, though the trial won't get into full swing until the week of February 8.\n    \n"
     publishedDateTime: 2021-01-26T11:45:06Z
@@ -511,6 +479,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/12/06/us/politics/31trump-fundraising/06transition-briefing-promo1-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Facing calls for his removal, Trump reverses positions on election loss, rioters and Covid"
+    excerpt: "Facing calls for his removal, Trump reverses positions on election loss, rioters and Covid A day after he told his supporters \"we love you,\" President Donald Trump condemned them Thursday for violently swarming the U."
+    publishedDateTime: 2021-01-08T02:13:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/facing-calls-removal-trump-reverses-positions-election-loss-rioters-covid-n1253397"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1253397"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1253397"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 140
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2021_01/3440595/210107-donald-trump-ew-721p_fdcc06f47a5b142f40b16c3ec8809f17.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Trump and the Foiled Plot at the Justice Dept."
     excerpt: "Readers are shocked by what one calls “the most stunning episode” in the former president’s efforts to overturn the election."

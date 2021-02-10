@@ -47,6 +47,22 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Germany to administer Covid drugs used to treat Donald Trump"
+    excerpt: "Country will be first in EU to use antibody cocktails after government buys 200,000 doses"
+    publishedDateTime: 2021-01-25T17:01:00Z
+    webUrl: "https://www.theguardian.com/world/2021/jan/25/germany-to-administer-covid-antibody-cocktailsdrugs-used-treat-donald-trump"
+    ampWebUrl: "https://amp.theguardian.com/world/2021/jan/25/germany-to-administer-covid-antibody-cocktailsdrugs-used-treat-donald-trump"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/jan/25/germany-to-administer-covid-antibody-cocktailsdrugs-used-treat-donald-trump"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/5f1334020ac945b34c667ebb76c195c872b2c53d/0_77_3250_1951/master/3250.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6533ff8321a1ad0b9b407e3f95c096c6"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Deborah Brix Says Some Donald Trump White House Staff Believed COVID Was a Hoax"
     excerpt: "\"I saw the president presenting graphs that I never made... Someone inside was creating a parallel set of data and graphics that were shown to the president,\" the former coordinator of the Trump administration's coronavirus task force said."
     publishedDateTime: 2021-01-24T14:46:00Z

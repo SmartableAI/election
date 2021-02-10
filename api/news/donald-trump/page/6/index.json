@@ -2,78 +2,21 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2021-01-11-trump-golf-club-no-longer-the-host-of-future-pga-championship-amid-us-capitol-violence-fallout.md",
-      "title": "Trump golf club no longer the host of future PGA Championship amid US Capitol violence fallout",
-      "excerpt": "PGA Championship will no longer be held at Trump Bedminster in New Jersey, PGA of America announced Sunday night as fury at President Trump over the U.S. Capitol riot grows.",
+      "path": "_news/2021-01-11-explainer-can-social-media-companies-really-kick-off-donald-trump-yes.md",
+      "title": "Explainer: Can social media companies really kick off Donald Trump? Yes",
+      "excerpt": "Conservatives are crying foul over the suspension of Donald Trump from social media, but the 1st Amendment doesn't apply to private platforms",
       "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/sports/trump-golf-club-future-pga-championship-us-capitol-violence-fallout",
-      "originalUrl": "https://www.foxnews.com/sports/trump-golf-club-future-pga-championship-us-capitol-violence-fallout",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c367f114-e94d-4959-b3ff-061cfdaf5422/675b9628-5b5c-420a-a2a9-452035bffdb4/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/sports/trump-golf-club-future-pga-championship-us-capitol-violence-fallout.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/sports/trump-golf-club-future-pga-championship-us-capitol-violence-fallout.amp",
-      "publishedDateTime": "2021-01-10T19:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-pelosi-says-house-will-proceed-with-efforts-to-remove-trump-with-urgency.md",
-      "title": "Pelosi says House will proceed with efforts to remove Trump 'with urgency'",
-      "excerpt": "House will first try to force Mike Pence to oust president by invoking 25th amendment and then move forward with impeachment",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jan/11/pelosi-says-house-will-proceed-with-efforts-to-remove-trump-with-urgency-25th-amendment",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jan/11/pelosi-says-house-will-proceed-with-efforts-to-remove-trump-with-urgency-25th-amendment",
+      "webUrl": "https://www.detroitnews.com/story/tech/2021/01/10/explainer-social-media-companies-ban-trump/6617801002/",
+      "originalUrl": "https://www.detroitnews.com/story/tech/2021/01/10/explainer-social-media-companies-ban-trump/6617801002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 143,
+      "heat": 95,
       "tags": null,
       "images": [
         {
-          "url": "https://i.guim.co.uk/img/media/82ba8a9dc582f8706f2fd5d845b32ce2f95b88a8/0_1_4324_2595/master/4324.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=acb1e10affbd6476f4946d69cacd439d",
-          "width": 600,
-          "height": 360,
+          "url": "https://www.gannett-cdn.com/presto/2021/01/10/PDTN/a7c8b4d1-1eae-4861-aebb-e20a957f6eb0-AP21009043612110.jpg?auto=webp&crop=2037,1146,x1349,y1095&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -81,23 +24,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jan/11/pelosi-says-house-will-proceed-with-efforts-to-remove-trump-with-urgency-25th-amendment",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/11/pelosi-says-house-will-proceed-with-efforts-to-remove-trump-with-urgency-25th-amendment",
-      "publishedDateTime": "2021-01-10T15:55:00-08:00",
+      "ampWebUrl": "https://amp.detroitnews.com/amp/6617801002",
+      "cdnAmpWebUrl": "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/6617801002",
+      "publishedDateTime": "2021-01-10T14:23:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Detroit News",
+        "domain": "detroitnews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -119,7 +53,7 @@
       "originalUrl": "https://abcnews.go.com/Entertainment/wireStory/schwarzenegger-calls-president-trump-worst-president-75165493",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -215,6 +149,58 @@
       ]
     },
     {
+      "path": "_news/2021-01-11-reps-paul-gosar-andy-biggs-credited-in-video-with-organizing-trump-crowd-in-dc-on-day-of-riot.md",
+      "title": "Reps. Paul Gosar, Andy Biggs credited in video with organizing Trump crowd in DC on day of riot",
+      "excerpt": "The man who has led the \"Stop the Steal\" protests nationally singles out Reps. Paul Gosar and Andy Biggs for helping make Washington gathering happen.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/arizona/2021/01/10/paul-gosar-andy-biggs-credited-video-organizing-trump-crowd-dc/6603721002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/arizona/2021/01/10/paul-gosar-andy-biggs-credited-video-organizing-trump-crowd-dc/6603721002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/12/22/PPHX/dee8e0f3-5193-49ca-97ee-fe0d28cec7f8-Paul_Gosar_Andy_Biggs.jpg?auto=webp&crop=1749,984,x1,y5&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6603721002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6603721002",
+      "publishedDateTime": "2021-01-10T10:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-11-forbes-editor-issues-warning-to-companies-intending-to-hire-trump-officials-well-assume-everything-you-talk-about-is-a-lie.md",
       "title": "Forbes editor issues warning to companies intending to hire Trump officials: 'We'll assume everything you talk about is a lie'",
       "excerpt": "The editor of Forbes magazine has warned companies not to hire Kellyanne Conway, Sean Spicer, Kayleigh McEnany, Stephanie Grisham, or Sarah Sanders.",
@@ -279,7 +265,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 175,
+      "heat": 155,
       "tags": null,
       "images": [
         {
@@ -324,6 +310,58 @@
       ]
     },
     {
+      "path": "_news/2021-01-10-trump-pressured-georgia-elections-official-to-find-evidence-of-voter-fraud-in-call.md",
+      "title": "Trump pressured Georgia elections official to find evidence of voter fraud in call",
+      "excerpt": "Georgia told an elections investigator that they would be a \"national hero\" if they found evidence of elections fraud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/trump-georgia-call-pressured-voter-fraud-evidence/",
+      "originalUrl": "https://www.cbsnews.com/news/trump-georgia-call-pressured-voter-fraud-evidence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 374,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/09/28ff4c1d-ff72-4ad1-b599-27fb6ce09176/thumbnail/1200x630/a22a0c37ad809d8a94173ed49081b6cf/gettyimages-1287973454.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/trump-georgia-call-pressured-voter-fraud-evidence/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-georgia-call-pressured-voter-fraud-evidence/",
+      "publishedDateTime": "2021-01-10T04:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-10-trump-to-visit-us-mexico-border-to-laud-border-wall.md",
       "title": "Trump to visit U.S.-Mexico border to laud border wall",
       "excerpt": "Mexico border on Tuesday to highlight his administration’s work on the border wall, the White House said Saturday Trump will travel to the town of Alamo, Texas",
@@ -332,7 +370,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/trump-to-visit-us-mexico-border-to-laud-border-wall/2021/01/09/09dfd742-52e0-11eb-a1f5-fdaf28cfca90_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 405,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -384,7 +422,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/top-republican-trump-committed-impeachable-offenses-75159240",
       "featuredContent": null,
       "highlight": null,
-      "heat": 785,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -428,69 +466,21 @@
       ]
     },
     {
-      "path": "_news/2021-01-10-donald-trump-jr-we-are-living-orwells-1984-after-dad-outed-from-twitter.md",
-      "title": "Donald Trump Jr.: ‘We are living Orwell’s 1984’ after dad outed from Twitter",
-      "excerpt": "Free-speech no longer exists in America. It died with big tech and what’s left is only there for a chosen few. This is absolute insanity!” he tweeted in response to the news.",
+      "path": "_news/2021-01-10-gop-lawmakers-beg-biden-pelosi-not-to-impeach-trump-in-the-spirit-of-healing.md",
+      "title": "GOP Lawmakers Beg Biden, Pelosi Not to Impeach Trump in the 'Spirit of Healing'",
+      "excerpt": "\"A second impeachment, only days before President Trump will leave office, is as unnecessary as it is inflammatory,\" seven Republicans said in a letter to Biden.",
       "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/01/09/donald-trump-jr-likens-dads-twitter-ban-to-orwells-1984/",
-      "originalUrl": "https://nypost.com/2021/01/09/donald-trump-jr-likens-dads-twitter-ban-to-orwells-1984/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/01/donald-trump-jr-twitter.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/01/09/donald-trump-jr-likens-dads-twitter-ban-to-orwells-1984/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/09/donald-trump-jr-likens-dads-twitter-ban-to-orwells-1984/amp/",
-      "publishedDateTime": "2021-01-09T14:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-10-house-could-vote-to-impeach-trump-on-wednesday-one-week-after-capitol-protest-turned-into-a-mob.md",
-      "title": "House could vote to impeach Trump on Wednesday, one week after Capitol protest turned into a mob",
-      "excerpt": "As the country comes to terms with the violent siege of the U.S. Capitol by Trump supporters that left five dead, the crisis that appears to be among the final acts of his presidency is deepening like few others in the nation’s history.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/election-2020/ct-trump-impeachment-capitol-mob-20210109-2asefgfckjgwvhxn42aburlzqm-story.html",
-      "originalUrl": "https://www.chicagotribune.com/election-2020/ct-trump-impeachment-capitol-mob-20210109-2asefgfckjgwvhxn42aburlzqm-story.html",
+      "webUrl": "https://www.newsweek.com/gop-lawmakers-beg-biden-pelosi-not-impeach-trump-spirit-healing-1560267",
+      "originalUrl": "https://www.newsweek.com/gop-lawmakers-beg-biden-pelosi-not-impeach-trump-spirit-healing-1560267",
       "featuredContent": null,
       "highlight": null,
-      "heat": 152,
+      "heat": 376,
       "tags": null,
       "images": [
         {
-          "url": "https://www.chicagotribune.com/resizer/wkhA_T0LTme2jIhms7pxzsguRsE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/VWEGM2GNQHGHG2TYWDJHHGRVNQ.jpg",
-          "width": 1200,
-          "height": 779,
+          "url": "https://d.newsweek.com/en/full/1702346/ken-buck-donald-trump-rally.jpg",
+          "width": 2500,
+          "height": 1667,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -498,68 +488,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/election-2020/ct-trump-impeachment-capitol-mob-20210109-2asefgfckjgwvhxn42aburlzqm-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-trump-impeachment-capitol-mob-20210109-2asefgfckjgwvhxn42aburlzqm-story.html?outputType=amp",
-      "publishedDateTime": "2021-01-09T12:56:00-08:00",
+      "ampWebUrl": "https://www.newsweek.com/gop-lawmakers-beg-biden-pelosi-not-impeach-trump-spirit-healing-1560267?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/gop-lawmakers-beg-biden-pelosi-not-impeach-trump-spirit-healing-1560267?amp=1",
+      "publishedDateTime": "2021-01-09T18:01:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
+        "name": "Newsweek",
+        "domain": "newsweek.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-10-theresa-may-too-eager-to-pay-homage-to-donald-trump-says-john-bercow.md",
-      "title": "Theresa May too eager to pay homage to Donald Trump, says John Bercow",
-      "excerpt": "PM’s ‘almost breathless’ quest to develop ties with US president",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/uk-news/2021/jan/09/theresa-may-too-eager-to-pay-homage-to-donald-trump-says-john-bercow",
-      "originalUrl": "https://www.theguardian.com/uk-news/2021/jan/09/theresa-may-too-eager-to-pay-homage-to-donald-trump-says-john-bercow",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/9ae50eeed19c88f00e8cfa0570b951d2529a8729/0_0_1562_937/master/1562.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=736cf1d696beff721b60f1b1dddfd7d7",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/uk-news/2021/jan/09/theresa-may-too-eager-to-pay-homage-to-donald-trump-says-john-bercow",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/uk-news/2021/jan/09/theresa-may-too-eager-to-pay-homage-to-donald-trump-says-john-bercow",
-      "publishedDateTime": "2021-01-09T11:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -588,7 +526,7 @@
       "originalUrl": "https://www.businessinsider.com/ex-goldman-ceo-lloyd-blankfein-wall-street-traders-enabled-trump-2021-1",
       "featuredContent": null,
       "highlight": null,
-      "heat": 138,
+      "heat": 118,
       "tags": null,
       "images": [
         {
@@ -632,58 +570,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-09-family-trump-supporter-who-died-followed-qanon-conspiracy.md",
-      "title": "Family: Trump supporter who died followed QAnon conspiracy",
-      "excerpt": "Friends and relatives say a Georgia woman killed in Wednesday’s siege of the U.S. Capitol was a recovering drug addict who wanted to become a sobriety counselor",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/family-trump-supporter-died-qanon-conspiracy-75147520",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/family-trump-supporter-died-qanon-conspiracy-75147520",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_10f0fe4d5c6741cebcd017089c462e9b_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/family-trump-supporter-died-qanon-conspiracy-75147520",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/family-trump-supporter-died-qanon-conspiracy-75147520",
-      "publishedDateTime": "2021-01-09T04:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-01-09-hillary-clinton-chrissy-teigen-megyn-kelly-and-more-famous-faces-react-to-trumps-twitter-ban.md",
       "title": "Hillary Clinton, Chrissy Teigen, Megyn Kelly and more famous faces react to Trump's Twitter ban",
       "excerpt": "Here's what Meghan McCain, Megyn Kelly, Chrissy Teigen and other celebrities are saying about Trump's permanent suspension from Twitter.",
@@ -692,7 +578,7 @@
       "originalUrl": "https://www.usatoday.com/story/entertainment/celebrities/2021/01/08/twitter-bans-trump-chrissy-teigen-whoopi-goldberg-and-more-react/6603886002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 133,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -716,6 +602,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-09-twitter-permanently-suspends-trumps-account-to-prevent-further-incitement-of-violence.md",
+      "title": "Twitter permanently suspends Trump's account to prevent 'further incitement of violence'",
+      "excerpt": "Company determines two Friday tweets were ‘highly likely’ to encourage behavior like the storming of the Capitol",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/jan/08/donald-trump-twitter-ban-suspended",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/jan/08/donald-trump-twitter-ban-suspended",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 196,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/cb3085d44c438f92e1d27c124206000f7a1ef803/0_234_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=84cd92c9ac7d53daa4a5f23201ca314d",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jan/08/donald-trump-twitter-ban-suspended",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/08/donald-trump-twitter-ban-suspended",
+      "publishedDateTime": "2021-01-09T00:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -779,110 +717,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-09-coming-clean-i-made-an-error-in-my-otherwise-admirable-column-on-donald-trump.md",
-      "title": "Coming clean: I made an error in my otherwise 'admirable' column on Donald Trump",
-      "excerpt": "In my column Wednesday I wondered how President Donald Trump could possibly rate as America’s most admired man in a recent Gallup Poll when he exhibited only",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/columns/eric-zorn/ct-20210108-story.html",
-      "originalUrl": "https://www.chicagotribune.com/columns/eric-zorn/ct-20210108-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/HYRVWgDsEC13dEU2M7TIyM6oyJI=/1200x0/top/www.trbimg.com/img-56f02a81/turbine/chi-default-open-graph-ct-logo/1200/1200x650",
-          "width": 1200,
-          "height": 650,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/columns/eric-zorn/ct-20210108-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/columns/eric-zorn/ct-20210108-story.html?outputType=amp",
-      "publishedDateTime": "2021-01-08T14:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-09-why-trumps-response-to-capitol-siege-evokes-memories-of-charlottesville.md",
-      "title": "Why Trump's response to Capitol siege evokes memories of Charlottesville",
-      "excerpt": "Trump groups violently stormed the U.S. Capitol, the surreal images took many back to a dark chapter when white supremacists openly descended upon Charlottesville.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/trumps-response-capitol-siege-evokes-memories-charlottesville/story?id=75099122",
-      "originalUrl": "https://abcnews.go.com/Politics/trumps-response-capitol-siege-evokes-memories-charlottesville/story?id=75099122",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/US/washington-dc-capitol-riot-charlottesville-donald-trump-election-01-gty-llr-210106_1609982976596_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/trumps-response-capitol-siege-evokes-memories-charlottesville/story?id=75099122",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trumps-response-capitol-siege-evokes-memories-charlottesville/story?id=75099122",
-      "publishedDateTime": "2021-01-08T12:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-01-09-ashli-babbitt-rioter-fatally-shot-in-dc-was-bananas-over-trump-grandfather.md",
       "title": "Ashli Babbitt, rioter fatally shot in DC, was ‘bananas’ over Trump: grandfather",
       "excerpt": "The Air Force veteran who was fatally shot as she stormed the Capitol was an “excellent patriot” who was a fanatic follower of President Trump, her grandfather said. Ashli Babbitt, 35, of San",
@@ -928,6 +762,110 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-09-dominion-sues-trump-lawyer-sidney-powell-for-defamation.md",
+      "title": "Dominion sues Trump lawyer Sidney Powell for defamation",
+      "excerpt": "Dominion Voting Systems has filed a defamation lawsuit against lawyer Sidney Powell, seeking at least $1.3 billion for Powell’s “wild accusations” that the company rigged the presidential election for",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/dominion-sues-trump-lawyer-sidney-powell-defamation-75132691",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/dominion-sues-trump-lawyer-sidney-powell-defamation-75132691",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_8f9e5b7a45564c9fadd9937fe5e2fca2_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/dominion-sues-trump-lawyer-sidney-powell-defamation-75132691",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/dominion-sues-trump-lawyer-sidney-powell-defamation-75132691",
+      "publishedDateTime": "2021-01-08T08:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-08-the-latest-house-dems-mulling-fast-track-trump-impeachment.md",
+      "title": "The Latest: House Dems mulling fast-track Trump impeachment",
+      "excerpt": "House Democratic leaders say the House could take up articles of impeachment against President Donald Trump as soon as next week if Vice President Mike Pence and Trump’s Cabinet don’t act to remove hi",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/the-latest-trump-condemns-capitol-riot-concedes-to-biden/2021/01/07/c109bbde-5148-11eb-a1f5-fdaf28cfca90_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/the-latest-trump-condemns-capitol-riot-concedes-to-biden/2021/01/07/c109bbde-5148-11eb-a1f5-fdaf28cfca90_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 825,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/the-latest-trump-condemns-capitol-riot-concedes-to-biden/2021/01/07/c109bbde-5148-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-trump-condemns-capitol-riot-concedes-to-biden/2021/01/07/c109bbde-5148-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp",
+      "publishedDateTime": "2021-01-08T06:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -983,58 +921,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-08-elaine-chao-betsy-devos-step-down-from-trump-cabinet-following-capitol-storming.md",
-      "title": "Elaine Chao, Betsy DeVos step down from Trump Cabinet following Capitol storming",
-      "excerpt": "Transportation Secretary Elaine Chao became the first Trump Cabinet member to resign in the wake of Wednesday's storming of the Capitol by the president's supporters.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/chao-trump-cabinet-member-resign-capitol-storming/story?id=75113253",
-      "originalUrl": "https://abcnews.go.com/Politics/chao-trump-cabinet-member-resign-capitol-storming/story?id=75113253",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 200,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/betsy-devos_hpMain_20210107-210515_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/chao-trump-cabinet-member-resign-capitol-storming/story?id=75113253",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/chao-trump-cabinet-member-resign-capitol-storming/story?id=75113253",
-      "publishedDateTime": "2021-01-08T00:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-01-08-donald-trump-recognises-new-administration-after-us-capitol-riot-video.md",
       "title": "Donald Trump recognises 'new administration' after US Capitol riot – video",
       "excerpt": "Donald Trump acknowledges in a video released on Thursday night that a 'new administration' will be inaugurated on 20 January, and condemns rioters who attacked the US Capitol",
@@ -1067,58 +953,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-trump-official-merchandise-stores-removed-by-shopify.md",
-      "title": "Trump official merchandise stores removed by Shopify",
-      "excerpt": "The e-commerce platform Shopify said Thursday that it has terminated stores affiliated with President Donald Trump.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Business/trump-official-merchandise-stores-removed-shopify/story?id=75116903",
-      "originalUrl": "https://abcnews.go.com/Business/trump-official-merchandise-stores-removed-shopify/story?id=75116903",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 325,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/capitol-statue-protest-gty-ps-210106_1609967664138_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Business/trump-official-merchandise-stores-removed-shopify/story?id=75116903",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/trump-official-merchandise-stores-removed-shopify/story?id=75116903",
-      "publishedDateTime": "2021-01-07T19:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1196,21 +1030,21 @@
       ]
     },
     {
-      "path": "_news/2021-01-08-capitol-riots-boris-johnson-condemns-donald-trump-for-sparking-events.md",
-      "title": "Capitol riots: Boris Johnson condemns Donald Trump for sparking events",
-      "excerpt": "Donald Trump was \"completely wrong\" to cast doubt on the US election and encourage supporters to storm the Capitol, Boris Johnson has said. The UK prime minister said he \"unreservedly condemns\" the US president's actions.",
+      "path": "_news/2021-01-08-the-treason-finale-of-the-donald-trump-era-late-night-hosts-react-to-us-capitol-riots.md",
+      "title": "The ‘treason finale’ of the Donald Trump era: Late night hosts react to U.S. Capitol riots",
+      "excerpt": "Late night television hosts often give their take the days events with humor. But Wednesday night was no laughing matter as Jimmy Fallon, Stephen Colbert and their fellow network hosts reacted to the mob of violent Trump supporters storming the U.",
       "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/amp/uk-politics-55580806",
-      "originalUrl": "https://www.bbc.com/news/amp/uk-politics-55580806",
+      "webUrl": "https://www.al.com/life/2021/01/the-treason-finale-of-the-donald-trump-era-late-night-hosts-react-to-us-capitol-riots.html",
+      "originalUrl": "https://www.al.com/life/2021/01/the-treason-finale-of-the-donald-trump-era-late-night-hosts-react-to-us-capitol-riots.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 305,
+      "heat": 85,
       "tags": null,
       "images": [
         {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/E4E6/production/_116389585_johnsontrump.jpg",
-          "width": 1024,
-          "height": 576,
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/RUUVL3H7NBD4LDLRK2P52HXIQI.PNG",
+          "width": 718,
+          "height": 464,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1218,23 +1052,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/amp/uk-politics-55580806",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-politics-55580806",
-      "publishedDateTime": "2021-01-07T10:12:00-08:00",
+      "ampWebUrl": "https://www.al.com/life/2021/01/the-treason-finale-of-the-donald-trump-era-late-night-hosts-react-to-us-capitol-riots.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/life/2021/01/the-treason-finale-of-the-donald-trump-era-late-night-hosts-react-to-us-capitol-riots.html?outputType=amp",
+      "publishedDateTime": "2021-01-07T15:44:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "al.com",
+        "domain": "al.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1256,7 +1081,7 @@
       "originalUrl": "https://www.chicagotribune.com/entertainment/books/ct-books-moment-audience-one-0108-20210107-hmte4mjf5zh5rejj32gzing6u4-story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 133,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -1360,7 +1185,7 @@
       "originalUrl": "https://www.ibtimes.com/we-are-all-joe-scarborough-msnbc-host-praised-f-word-rant-trump-rioters-3116660",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -1404,73 +1229,21 @@
       ]
     },
     {
-      "path": "_news/2021-01-07-iraq-issues-arrest-warrant-for-trump-over-soleimani-killing.md",
-      "title": "Iraq issues arrest warrant for Trump over Soleimani killing",
-      "excerpt": "Iraq’s judiciary says it has issued an arrest warrant for outgoing President Donald Trump in connection with the killing of an Iranian general and a powerful Iraqi militia leader last year",
+      "path": "_news/2021-01-07-trump-pledges-orderly-transition-after-congress-affirms-biden-win.md",
+      "title": "Trump pledges \"orderly transition\" after Congress affirms Biden win",
+      "excerpt": "President didn't concede but his statement was as close as he's come to conceding an election he falsely insists was stolen,",
       "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/International/wireStory/iraq-court-issues-arrest-warrant-trump-murder-75106778",
-      "originalUrl": "https://abcnews.go.com/International/wireStory/iraq-court-issues-arrest-warrant-trump-murder-75106778",
+      "webUrl": "https://www.cbsnews.com/news/trump-transfer-power-biden-congress-electoral-college-win/",
+      "originalUrl": "https://www.cbsnews.com/news/trump-transfer-power-biden-congress-electoral-college-win/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 680,
       "tags": null,
       "images": [
         {
-          "url": "https://s.abcnews.com/images/International/WireAP_2a0966ca247441c8b59e2b6013ce7803_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-07T04:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-during-electoral-college-debate-us-sens-tammy-duckworth-and-richard-durbin-condemn-trump-and-violent-mob-that-stormed-us-capitol.md",
-      "title": "During Electoral College debate, U.S. Sens. Tammy Duckworth and Richard Durbin condemn Trump and violent mob that stormed U.S. Capitol",
-      "excerpt": "U.S. Sens. Tammy Duckworth and Richard Durbin condemn Trump and violent mob that stormed U.S. Capitol in floor speeches on Electoral College debate.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/politics/ct-tammy-duckworth-richard-durbin-senate-capitol-mob-20210107-l2v5u7ktlzfwrfpnupgavansku-story.html",
-      "originalUrl": "https://www.chicagotribune.com/politics/ct-tammy-duckworth-richard-durbin-senate-capitol-mob-20210107-l2v5u7ktlzfwrfpnupgavansku-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/i0uaW-P1fTTnA5vKcHmJbIvtCns=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/LSMNSHFAONDRNECBWIUN5DE6FQ.jpg",
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/25/4ae36525-7e22-474c-8329-5a6dc8ef6f10/thumbnail/1200x630/a76ed4b9ca5e55c18da62ee84bf08078/trump-reid-615985-640x360.jpg",
           "width": 1200,
-          "height": 675,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1478,16 +1251,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/politics/ct-tammy-duckworth-richard-durbin-senate-capitol-mob-20210107-l2v5u7ktlzfwrfpnupgavansku-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/politics/ct-tammy-duckworth-richard-durbin-senate-capitol-mob-20210107-l2v5u7ktlzfwrfpnupgavansku-story.html?outputType=amp",
-      "publishedDateTime": "2021-01-06T22:03:00-08:00",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/trump-transfer-power-biden-congress-electoral-college-win/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-transfer-power-biden-congress-electoral-college-win/",
+      "publishedDateTime": "2021-01-07T04:16:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
+        "name": "CBS News",
+        "domain": "cbsnews.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1508,21 +1281,21 @@
       ]
     },
     {
-      "path": "_news/2021-01-07-hollywood-condemns-violence-of-trump-supporters-calls-them-domestic-terrorists.md",
-      "title": "Hollywood Condemns Violence Of Trump Supporters, Calls Them 'Domestic Terrorists'",
-      "excerpt": "Notable personalities such as Sacha Baron Cohen, Ava DuVernay, Michael Keaton, Selena Gomez and many more expressed their anger amid the riots that took place in Washington, D.C. where the protesters breached the U.",
+      "path": "_news/2021-01-07-trump-supporters-storm-capitol-during-electoral-college-count.md",
+      "title": "Trump supporters storm Capitol during electoral college count",
+      "excerpt": "Violent protesters loyal to President Donald Trump stormed the U.S. Capitol on Wednesday and forced lawmakers into hiding, in a stunning attempt to overturn America’s presidential election, undercut the nation’s democracy and keep Democrat Joe Biden from replacing Trump in the White House.",
       "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/hollywood-condemns-violence-trump-supporters-calls-them-domestic-terrorists-3116153",
-      "originalUrl": "https://www.ibtimes.com/hollywood-condemns-violence-trump-supporters-calls-them-domestic-terrorists-3116153",
+      "webUrl": "https://www.washingtonpost.com/lifestyle/kidspost/trump-supporters-storm-capitol-during-electoral-college-count/2021/01/06/0ff54580-506b-11eb-b96e-0e54447b23a1_story.html",
+      "originalUrl": "https://www.washingtonpost.com/lifestyle/kidspost/trump-supporters-storm-capitol-during-electoral-college-count/2021/01/06/0ff54580-506b-11eb-b96e-0e54447b23a1_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 865,
       "tags": null,
       "images": [
         {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/06/trump-supporters-clash-with-police-and-security-forces.jpg",
-          "width": 1024,
-          "height": 656,
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4K2DZJCQNUI6XOLOBZKEI6ZDUE.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1530,16 +1303,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/hollywood-condemns-violence-trump-supporters-calls-them-domestic-terrorists-3116153?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/hollywood-condemns-violence-trump-supporters-calls-them-domestic-terrorists-3116153?amp=1",
-      "publishedDateTime": "2021-01-06T22:00:00-08:00",
+      "ampWebUrl": "https://www.washingtonpost.com/lifestyle/kidspost/trump-supporters-storm-capitol-during-electoral-college-count/2021/01/06/0ff54580-506b-11eb-b96e-0e54447b23a1_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/kidspost/trump-supporters-storm-capitol-during-electoral-college-count/2021/01/06/0ff54580-506b-11eb-b96e-0e54447b23a1_story.html?outputType=amp",
+      "publishedDateTime": "2021-01-06T14:55:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1560,5 +1333,5 @@
       ]
     }
   ],
-  "nextPage": 7
+  "nextPage": null
 }

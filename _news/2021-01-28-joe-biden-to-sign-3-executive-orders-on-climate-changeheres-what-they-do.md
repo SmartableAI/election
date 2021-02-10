@@ -127,6 +127,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden to sign day one executive order to shift coronavirus-fighting strategy"
+    excerpt: "New president plans to require masks to be worn in federal buildings and by federal employees and contractors."
+    publishedDateTime: 2021-01-20T10:07:00Z
+    webUrl: "https://www.washingtonpost.com/health/biden-covid-executive-actions/2021/01/19/bf695e50-5a9a-11eb-b8bd-ee36b1cd18bf_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/biden-covid-executive-actions/2021/01/19/bf695e50-5a9a-11eb-b8bd-ee36b1cd18bf_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/biden-covid-executive-actions/2021/01/19/bf695e50-5a9a-11eb-b8bd-ee36b1cd18bf_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 122
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LA7L3BSDZQI6XLBKHLAPFOGO5M.jpg&w=1440"
+        width: 1440
+        height: 1186
+        isCached: true
   - title: "As Biden enters White House, some allies, former staffers thrive as lobbyists"
     excerpt: "Some of President Joe Biden's former staffers and allies, and those close to them, are cashing in as corporate interests look to influence the new administration."
     publishedDateTime: 2021-01-27T14:57:00Z

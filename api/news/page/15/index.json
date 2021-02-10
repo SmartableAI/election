@@ -2,6 +2,327 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-01-20-pelosi-says-trump-could-be-accessory-to-murder-in-connection-with-capitol-riot.md",
+      "title": "Pelosi says Trump could be 'accessory to murder' in connection with Capitol riot",
+      "excerpt": "House Speaker Nancy Pelosi said former President Donald Trump could be considered an accessory to murder in connection with this month's deadly riot at the U.S. Capitol. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8IafQ1UgbJc/pelosi-says-trump-could-be-accessory-to-murder-after-deadly-capitol-riots",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8IafQ1UgbJc/pelosi-says-trump-could-be-accessory-to-murder-after-deadly-capitol-riots",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 190,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pelosi-says-trump-could-be-accessory-to-murder-after-deadly-capitol-riots.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-says-trump-could-be-accessory-to-murder-after-deadly-capitol-riots.amp",
+      "publishedDateTime": "2021-01-20T11:11:38-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-21-this-is-our-historic-moment-of-crisis-and-challenge-joe-biden-calls-for-unity-in-first-speech-as-president-live.md",
+      "title": "'This is our historic moment of crisis and challenge': Joe Biden calls for unity in first speech as president – live",
+      "excerpt": "Joe Biden has been sworn in as president, bringing an end to four years of Donald Trump’s leadership in Washington",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates?page=with:block-60087e588f08fbcf3cf0e1fa",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates?page=with:block-60087e588f08fbcf3cf0e1fa",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/d15a858f45a82cc9a06ff6968945b105bb4befcc/0_199_6048_3627/master/6048.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8e9c855fc42f237c45a7a7d11c48fa8f",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates",
+      "publishedDateTime": "2021-01-20T10:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-01-21-donald-trump-grants-clemency-to-legendary-las-vegas-gambler-billy-walters.md",
+      "title": "Donald Trump grants clemency to legendary Las Vegas gambler Billy Walters",
+      "excerpt": "Famed sports gambler Billy Walters was among the 143 people to which outgoing President Donald Trump granted clemency in his final day in office.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/gambling/sns-actnet-donald-trump-clemency-las-vegas-gambler-billy-walters-20210120-5gdsjalegjbsdjbtizyqf6c7qq-story.html",
+      "originalUrl": "https://www.chicagotribune.com/gambling/sns-actnet-donald-trump-clemency-las-vegas-gambler-billy-walters-20210120-5gdsjalegjbsdjbtizyqf6c7qq-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/2t16n8Mz9CcYaGATnLGU-glOYJs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KOZBWRJWBJHHPENSR4ZSMVOI4M.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/gambling/sns-actnet-donald-trump-clemency-las-vegas-gambler-billy-walters-20210120-5gdsjalegjbsdjbtizyqf6c7qq-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/gambling/sns-actnet-donald-trump-clemency-las-vegas-gambler-billy-walters-20210120-5gdsjalegjbsdjbtizyqf6c7qq-story.html?outputType=amp",
+      "publishedDateTime": "2021-01-20T09:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-21-joe-biden-invokes-lincoln-in-plea-for-unity-an-end-to-uncivil-war.md",
+      "title": "Joe Biden Invokes Lincoln in Plea for Unity, an End to 'Uncivil War'",
+      "excerpt": "Biden asked those who didn't support him as president to give him a chance and urged people to open their souls and show tolerance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/joe-biden-invokes-lincoln-plea-unity-end-uncivil-war-1563130",
+      "originalUrl": "https://www.newsweek.com/joe-biden-invokes-lincoln-plea-unity-end-uncivil-war-1563130",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1712291/joe-biden-inauguration-lincoln-speech-unity.jpg",
+          "width": 2500,
+          "height": 1690,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/joe-biden-invokes-lincoln-plea-unity-end-uncivil-war-1563130?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-invokes-lincoln-plea-unity-end-uncivil-war-1563130?amp=1",
+      "publishedDateTime": "2021-01-20T09:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-01-21-how-the-government-will-thoroughly-clean-and-disinfect-white-house-furniture-door-knobs-and-light-switches-after-trump-leaves.md",
+      "title": "How the government will 'thoroughly clean and disinfect' White House furniture, door knobs, and light switches after Trump leaves",
+      "excerpt": "The Trump White House has been a hot spot for coronavirus infections. Joe Biden and his team will want to clean up before moving in.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/biden-white-house-inauguration-trump-coronavirus-disinfection-2020-12",
+      "originalUrl": "https://www.businessinsider.com/biden-white-house-inauguration-trump-coronavirus-disinfection-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fc827f450e71a001155893f?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-20T08:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-pence-skips-trump-send-off-where-outgoing-president-thanks-him-attends-biden-inauguration.md",
+      "title": "Pence skips Trump send-off where outgoing president thanks him, attends Biden inauguration",
+      "excerpt": "Vice President Mike Pence attended President-elect Joe Biden's inaugural ceremony on Wednesday after skipping President Trump's farewell address at Joint Base Andrews.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GqnOW576rRQ/pence-trump-sendoff-biden-inauguration-farewell",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GqnOW576rRQ/pence-trump-sendoff-biden-inauguration-farewell",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 4545,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/pence.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-trump-sendoff-biden-inauguration-farewell.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-trump-sendoff-biden-inauguration-farewell.amp",
+      "publishedDateTime": "2021-01-20T08:25:16-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-01-20-kirstie-alley-slams-katie-couric-over-comments-about-needing-to-deprogram-donald-trumps-supporters.md",
       "title": "Kirstie Alley slams Katie Couric over comments about needing to 'deprogram' Donald Trump's supporters",
       "excerpt": "Kirstie Alley fired back at Katie Couric over comments she made on Bill Maher’s show about the need to “deprogram” Donald Trump's supporters.",
@@ -55,6 +376,62 @@
       "topics": [
         "Election",
         "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-trump-hints-at-political-comeback-as-he-departs-white-house.md",
+      "title": "Trump hints at political comeback as he departs White House",
+      "excerpt": "With a possible eye towards a potential comeback in four years, outgoing President Trump told supporters that “we will be back in some form.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1uNKBEieLpw/trump-hints-political-comeback-leaves-white-house",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1uNKBEieLpw/trump-hints-political-comeback-leaves-white-house",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 375,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-hints-political-comeback-leaves-white-house.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-hints-political-comeback-leaves-white-house.amp",
+      "publishedDateTime": "2021-01-20T07:49:31-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
         "Republican Voice"
       ]
     },
@@ -172,121 +549,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-20-donald-trump-pardons-commutes-lil-wayne-kodak-black-sentences-prompting-reactions-from-fans-and-critics.md",
-      "title": "Donald Trump pardons, commutes Lil Wayne, Kodak Black sentences prompting reactions from fans and critics",
-      "excerpt": "Donald Trump has issued a pardon and sentence commutation to rappers Lil Wayne and Kodak Black ahead of Joe Biden's inauguration. President Trump issued 73 pardons and 70 sentence commutations early Wednesday as he prepared to leave office.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/entertainment/donald-trump-pardons-commutes-lil-wayne-kodak-black-reactions-fans-cricits",
-      "originalUrl": "https://www.foxnews.com/entertainment/donald-trump-pardons-commutes-lil-wayne-kodak-black-reactions-fans-cricits",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20346763036479.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/entertainment/donald-trump-pardons-commutes-lil-wayne-kodak-black-reactions-fans-cricits.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/donald-trump-pardons-commutes-lil-wayne-kodak-black-reactions-fans-cricits.amp",
-      "publishedDateTime": "2021-01-20T05:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-snoop-dogg-praises-trump-for-commuting-sentence-of-death-row-record-co-founder-michael-harry-o-harris.md",
-      "title": "Snoop Dogg praises Trump for commuting sentence of Death Row Record co-founder Michael 'Harry O' Harris",
-      "excerpt": "Snoop Dogg praised President Trump in his final hours in office for commuting the sentence of his friend, Death Row Records co-founder Michael \"Harry O\" Harris.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/entertainment/snoop-dogg-praises-trump-commuting-sentence-michael-harry-o-harris-death-row-records",
-      "originalUrl": "https://www.foxnews.com/entertainment/snoop-dogg-praises-trump-commuting-sentence-michael-harry-o-harris-death-row-records",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Snoop-Dogg.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/entertainment/snoop-dogg-praises-trump-commuting-sentence-michael-harry-o-harris-death-row-records.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/snoop-dogg-praises-trump-commuting-sentence-michael-harry-o-harris-death-row-records.amp",
-      "publishedDateTime": "2021-01-20T04:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
       "path": "_news/2021-01-20-no-go-for-joe-exotic-trump-pardon-list-omits-tiger-king.md",
       "title": "No-go for Joe Exotic: Trump pardon list omits 'Tiger King'",
       "excerpt": "One name missing in President Donald Trump 's flurry of pardons is “Tiger King” Joe Exotic. His team was so confident in a pardon that they'd readied a celebratory limousine and a hair and wardrobe team to whisk away the zookeeper-turned-reality-TV-star,",
@@ -336,6 +598,62 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-trump-frees-former-aides-from-ethics-pledge-lobbying-ban.md",
+      "title": "Trump frees former aides from ethics pledge, lobbying ban",
+      "excerpt": "President Donald Trump, in one of his final acts of office, released current and former members of his administration from the terms of their ethics pledge, which included a five-year ban on lobbying their former agencies.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hPUCYolkkh0/trump-frees-former-aides-from-ethics-pledge-lobbying-ban",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hPUCYolkkh0/trump-frees-former-aides-from-ethics-pledge-lobbying-ban",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 455,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/eb650e5d-a8bf-42e1-8e8e-0b0b00b4217a/002b346a-a157-41c7-bddb-c04b99b77223/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-frees-former-aides-from-ethics-pledge-lobbying-ban.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-frees-former-aides-from-ethics-pledge-lobbying-ban.amp",
+      "publishedDateTime": "2021-01-20T04:18:35-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
       ]
     },
     {
@@ -460,7 +778,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/jan/20/donald-trump-pardons-steve-bannon-amid-last-acts-of-presidency-report",
       "featuredContent": null,
       "highlight": null,
-      "heat": 465,
+      "heat": 565,
       "tags": null,
       "images": [
         {
@@ -560,6 +878,62 @@
       ]
     },
     {
+      "path": "_news/2021-01-20-kwame-kilpatricks-road-to-trump-commutation-of-corruption-sentence.md",
+      "title": "Kwame Kilpatrick's road to Trump commutation of corruption sentence",
+      "excerpt": "Former Detroit Mayor Kwame Kilpatrick was among 70 people who had their prison sentences commuted by President Trump early Wednesday, just hours before the end of the president's term in office.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Cziw3l_Yl3I/kwame-kilpatricks-road-to-commutation",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Cziw3l_Yl3I/kwame-kilpatricks-road-to-commutation",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 415,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP20143790930191.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/kwame-kilpatricks-road-to-commutation.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kwame-kilpatricks-road-to-commutation.amp",
+      "publishedDateTime": "2021-01-20T01:35:36-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-20-trump-grants-clemency-to-rappers-lil-wayne-and-kodak-black-in-final-flurry-of-presidential-power.md",
       "title": "Trump grants clemency to rappers Lil Wayne and Kodak Black in final flurry of presidential power ",
       "excerpt": "The White House announced early Wednesday that President Donald Trump has granted a pardon to rapper Lil Wayne and a commutation to rapper Kodak Black, two of the raft of pardons and commutations on his final day in office.\n    \n",
@@ -572,7 +946,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 162,
+      "heat": 182,
       "tags": null,
       "images": [
         {
@@ -714,7 +1088,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 268,
+      "heat": 228,
       "tags": null,
       "images": [
         {
@@ -766,7 +1140,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/pence-heading-back-to-indiana-hometown-after-biden-inaugural/2021/01/19/ab4e8988-5a9d-11eb-a849-6f9423a75ffd_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 4690,
+      "heat": 4710,
       "tags": null,
       "images": [
         {
@@ -867,63 +1241,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-20-deepening-schism-mcconnell-says-trump-provoked-capitol-mob.md",
-      "title": "Deepening Schism, McConnell Says Trump ‘Provoked’ Capitol Mob",
-      "excerpt": "The Senate majority leader’s remarks were the clearest signal yet that he has come to regard President Trump as a force who could drag down the Republican Party.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/01/19/us/politics/mcconnell-trump-capitol-riot.html",
-      "originalUrl": "https://www.nytimes.com/2021/01/19/us/politics/mcconnell-trump-capitol-riot.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/01/20/us/politics/20dc-impeach-print1/merlin_182544633_d1e4184e-735b-489a-9ebb-4d606488bf5e-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/01/19/us/politics/mcconnell-trump-capitol-riot.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/19/us/politics/mcconnell-trump-capitol-riot.amp.html",
-      "publishedDateTime": "2021-01-19T17:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-01-20-annika-sorenstam-defends-accepting-award-from-donald-trump.md",
       "title": "Annika Sörenstam defends accepting award from Donald Trump",
       "excerpt": "Annika Sörenstam, who received the presidential medal of freedom from Donald Trump the day after US Capitol riot, has defended her decision",
@@ -932,7 +1249,7 @@
       "originalUrl": "https://www.theguardian.com/sport/2021/jan/19/annika-sorenstam-defends-accepting-award-from-donald-trump",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -1029,321 +1346,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-irans-nuclear-breakout-time-has-shrunk-to-three-four-months-bidens-top-diplomat-pick-says.md",
-      "title": "Iran's nuclear 'breakout time' has shrunk to three-four months, Biden's top diplomat pick says",
-      "excerpt": "The time it would take Iran to make enough fissile material for a single nuclear weapon has fallen to three or four months from over a year under the 2015 Iran nuclear deal, President-elect Joe Biden's choice to be the top U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-biden-state-iran/irans-nuclear-breakout-time-has-shrunk-to-three-four-months-bidens-top-diplomat-pick-says-idUSKBN29O2HD?edition-redirect=ca",
-      "originalUrl": "https://www.reuters.com/article/us-usa-biden-state-iran/irans-nuclear-breakout-time-has-shrunk-to-three-four-months-bidens-top-diplomat-pick-says-idUSKBN29O2HD?edition-redirect=ca",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548353909&r=LYNXMPEH0I1I0&w=800",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-19T12:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-senate-hearing-to-consider-alejandro-mayorkas-as-bidens-head-of-dhs.md",
-      "title": "Senate hearing to consider Alejandro Mayorkas as Biden's head of DHS",
-      "excerpt": "The Senate Homeland Security Committee meets to consider Alejandro Mayorkas' nomination as Secretary of Department of Homeland Security for President-elect Joe Biden's administration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/video/national/senate-hearing-to-consider-alejandro-mayorkas-as-bidens-head-of-dhs/2021/01/19/5e44eaeb-7275-4856-a9fc-da37614d1a5b_live.html",
-      "originalUrl": "https://www.washingtonpost.com/video/national/senate-hearing-to-consider-alejandro-mayorkas-as-bidens-head-of-dhs/2021/01/19/5e44eaeb-7275-4856-a9fc-da37614d1a5b_live.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-19T11:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-biden-dni-nominee-haines-says-aim-should-be-to-out-compete-china.md",
-      "title": "Biden DNI nominee Haines says aim should be to 'out-compete China'",
-      "excerpt": "President-elect Joe Biden's nominee for Director of National Intelligence Avril Haines said, if confirmed, she would focus on providing intelligence to support efforts to \"out-compete China,\" while committing to doing more training to educate Americans on the country's malign foreign influence.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wE5mXGXtiuM/biden-director-national-intelligence-haines-china",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wE5mXGXtiuM/biden-director-national-intelligence-haines-china",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 315,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-director-national-intelligence-haines-china.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-director-national-intelligence-haines-china.amp",
-      "publishedDateTime": "2021-01-19T11:33:34-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-joe-biden-set-to-arrive-in-washington-on-eve-of-his-inauguration.md",
-      "title": "Joe Biden set to arrive in Washington on eve of his inauguration",
-      "excerpt": "President-elect Joe Biden arrives in Washington Tuesday for the start of his inaugural ceremonies at a dark and solemn moment in American history, preparing to take his oath of office as the US approaches 400,000 coronavirus deaths and is more divided than at any time since the Civil War.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2b-bS4R_BRc/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2b-bS4R_BRc/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 595,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210118185745-field-of-flags-210118-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/19/politics/biden-covid-victims-memorial/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/biden-covid-victims-memorial/index.html",
-      "publishedDateTime": "2021-01-19T10:50:06-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-tiffany-trump-announces-engagement-to-michael-boulos-with-white-house-photo-hours-before-father-leaves-office.md",
-      "title": "Tiffany Trump announces engagement to Michael Boulos with White House photo, hours before father leaves office",
-      "excerpt": "President Trump's youngest daughter Tiffany Trump and her beau Michael Boulos announced their engagement with a photo taken at the White House on the president's last day in office.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xgWSi5LmmCg/tiffany-trump-engaged-michael-boulos-white-house",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xgWSi5LmmCg/tiffany-trump-engaged-michael-boulos-white-house",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7baa239c-c9dc-4831-889a-81c96eec5853/f9d51ab7-a9dd-45a8-887e-17b573376bce/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/tiffany-trump-engaged-michael-boulos-white-house.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tiffany-trump-engaged-michael-boulos-white-house.amp",
-      "publishedDateTime": "2021-01-19T10:02:31-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-donald-trump-is-first-president-in-modern-history-to-never-reach-50-approval-in-gallup-poll.md",
-      "title": "Donald Trump is First President in Modern History to Never Reach 50% Approval in Gallup Poll",
-      "excerpt": "Trump will also exit the White House with the lowest average approval rating of any president in the Gallup poll. At 41 percent, the president's rating is four points lower than the averages of Jimmy Carter and Harry Truman,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/donald-trump-first-president-modern-history-never-reach-50-approval-gallup-poll-1562653",
-      "originalUrl": "https://www.newsweek.com/donald-trump-first-president-modern-history-never-reach-50-approval-gallup-poll-1562653",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1710870/donald-trump-border-wall-visit-1-12-2021.jpg",
-          "width": 2500,
-          "height": 1623,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/donald-trump-first-president-modern-history-never-reach-50-approval-gallup-poll-1562653?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-first-president-modern-history-never-reach-50-approval-gallup-poll-1562653?amp=1",
-      "publishedDateTime": "2021-01-19T08:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

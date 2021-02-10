@@ -31,69 +31,161 @@ images:
     isCached: true
 
 related:
-  - title: "Melania Trump 'just wants to go home'"
-    excerpt: "In mid-November, as President Donald Trump railed against the election results, his wife, first lady Melania Trump publicly agreed with his sentiments. But privately, a handful of days after the final state tally, the first lady tasked an emissary with discreetly finding out what was available to her"
-    publishedDateTime: 2020-12-09T16:18:28Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5VsprdbHDco/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/politics/melania-trump-future/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/melania-trump-future/index.html"
+  - title: "Birx: I always considered quitting Trump's White House Covid task force"
+    excerpt: "Dr. Deborah Birx \"always\" considered quitting then-President Donald Trump's White House coronavirus task force and was troubled by colleagues' perceptions that she had become political, she said in an interview clip released Friday.\n    \n"
+    publishedDateTime: 2021-01-23T02:10:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xMutAa4evAQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/22/politics/birx-quitting-white-house-covid-task-force/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/22/politics/birx-quitting-white-house-covid-task-force/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209104411-02-melania-trump-2017-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201222145539-deborah-birx-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Mar-a-Lago neighbors want Trump to go elsewhere after he leaves the White House "
-    excerpt: "First lady Melania Trump plans to slip down to Palm Beach via government jet on Friday for a weekend walk-through of renovations underway at the Trump family's private quarters at Mar-a-Lago, according to a source familiar with the first lady's schedule, to make sure it's to her liking before she and"
-    publishedDateTime: 2020-12-16T22:13:20Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/S13yS8J-94Q/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/16/politics/donald-trump-mar-a-lago/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/16/politics/donald-trump-mar-a-lago/index.html"
+  - title: "Trump adviser says former President not currently considering launching a third party "
+    excerpt: "Former President Donald Trump remains committed to reelecting Republicans and is not currently considering launching a third party, a senior Trump adviser said Sunday while noting that things could change.\n    \n"
+    publishedDateTime: 2021-01-25T00:27:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dC9fFTFNj-Q/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/24/politics/trump-republican-party/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/24/politics/trump-republican-party/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 170
+    quality: 167
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209101030-mar-a-lago-resort-2018-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210123004326-04-donald-trump-0120-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Melania Trump breaks children's hospital rules by taking her mask off to read to patients"
-    excerpt: "First lady Melania Trump broke stated mask policy at Children's National Hospital Tuesday when she removed her mask to read a holiday book to children.\n    \n"
-    publishedDateTime: 2020-12-15T20:34:49Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dPPSaWhEWtY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/15/politics/melania-trump-childrens-national-mask/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/15/politics/melania-trump-childrens-national-mask/index.html"
+  - title: "Trump to lift Covid-19 related travel restrictions before he leaves office, White House official says"
+    excerpt: "President Donald Trump is expected to lift coronavirus-related travel restrictions starting on January 26, nearly a week after he leaves office, a White House official said Monday.\n    \n"
+    publishedDateTime: 2021-01-19T00:27:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/e1Olf9wbdXY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/18/politics/trump-covid-travel-restrictions/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/18/politics/trump-covid-travel-restrictions/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 166
+    quality: 160
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201215133704-melania-removes-mask-1215-screengrab-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210118002735-05-donald-trump-0112-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "In final meeting of Trump administration, Fed gets the last word on 2020"
-    excerpt: "Federal Reserve Chair Jerome Powell has frequently urged lawmakers, using increasingly strong language, to pass more fiscal stimulus."
-    publishedDateTime: 2020-12-16T18:43:00Z
-    webUrl: "https://www.nbcnews.com/business/economy/final-meeting-trump-administration-fed-gets-last-word-2020-n1251425"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1251425"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251425"
+  - title: "White House to release state coronavirus reports previously kept out of public view in Trump administration"
+    excerpt: "The transition from the Trump to the Biden administration has brought significant changes to the US Covid-19 strategy, and with it, a new level of transparency.\n    \n"
+    publishedDateTime: 2021-01-30T00:10:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pqPkmEWzfAE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/29/politics/white-house-task-force-state-reports/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/29/politics/white-house-task-force-state-reports/index.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 134
+      name: CNN
+      domain: cnn.com
+    quality: 157
     images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_51/3436122/201216-jerome-powell-al-1007_adb347a74199f13249a748914bfc255d.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190222184317-white-house-exterior-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Fauci says he worried Trump's disinfectant comment would make people 'start doing dangerous and foolish things'"
+    excerpt: "Dr. Anthony Fauci, the nation's leading infectious disease expert, said Monday evening he was extremely worried by former President Donald Trump's dangerous April suggestion that ingesting disinfectant could possibly be used to treat Covid-19.\n    \n"
+    publishedDateTime: 2021-01-26T02:33:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JWuGyzGOU0w/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/fauci-trump-covid-19-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/fauci-trump-covid-19-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 155
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210121171843-fauci-biden-administration-coronavirus-honesty-whpb-bts-lead-vpx-00000113-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Fauci on What Working for Trump Was Really Like"
+    excerpt: "From denialism to death threats, Dr. Anthony S. Fauci describes a fraught year as an adviser to President Donald J. Trump on the Covid-19 pandemic."
+    publishedDateTime: 2021-01-24T19:18:00Z
+    webUrl: "https://www.nytimes.com/2021/01/24/health/fauci-trump-covid.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/24/health/fauci-trump-covid.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/24/health/fauci-trump-covid.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/24/us/24VIRUS-FAUCIQA2/24VIRUS-FAUCIQA2-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "The Trial of Donald Trump: The Sequel"
+    excerpt: "Readers criticize both Republicans and Democrats for increasing divisiveness and disagree about the best way to hold Mr. Trump accountable."
+    publishedDateTime: 2021-01-25T17:48:00Z
+    webUrl: "https://www.nytimes.com/2021/01/25/opinion/letters/trump-impeachment.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/25/opinion/letters/trump-impeachment.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/25/opinion/letters/trump-impeachment.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/25/us/25-DC-IMPEACH-01-PRINT/merlin_182307399_f6bd267f-8e7f-4361-bf7e-31f0e440da09-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Job Seekers With Trump White House on Their Résumés Face a Cold Reality"
+    excerpt: "Working at the White House has traditionally been a ticket to a lucrative future. But that hasn’t been the case so far for Trump alumni."
+    publishedDateTime: 2021-01-29T10:00:00Z
+    webUrl: "https://www.nytimes.com/2021/01/29/us/politics/trump-white-house-jobs.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/29/us/politics/trump-white-house-jobs.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/29/us/politics/trump-white-house-jobs.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/27/us/politics/27dc-FORMERS-1/merlin_182384682_4bb64c40-0d06-4baf-b8d6-124f5a65fe19-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Deborah Birx: ‘Parallel set of data’ on Covid-19 was delivered to Trump"
+    excerpt: "I saw the president presenting graphs that I never made,” the former White House coronavirus response coordinator told CBS."
+    publishedDateTime: 2021-01-24T19:17:00Z
+    webUrl: "https://www.politico.com/news/2021/01/24/birx-trump-parallel-covid-data-461928"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/92/d3/8d87f9234321969aed4ab15a9ec4/210124-birx-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "House Delivers Article of Impeachment Against Trump"
+    excerpt: "For the second time in just over a year, the House delivered an article of impeachment to the Senate against former President Donald J. Trump, citing “incitement of insurrection.”"
+    publishedDateTime: 2021-01-26T02:33:00Z
+    webUrl: "https://www.nytimes.com/video/us/politics/100000007570625/house-delivers-impeachment-senate-trump.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/25/us/politics/25new-washington-briefing-impeachment2/25new-washington-briefing-impeachment2-facebookJumbo-v3.jpg?video-overlay"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "JJ/8IR27sx5SoxqpREEK5jg00fejj7qvW38wP62QzIjDBL1rKaTvUPbbUER65rzZw3V+pvTeI8oy2wFwDLANA5Jkc/OOGbdMnCsZOGrhUuPKPO879tUPE0hiZYaaca7lGTnyyhEcbJtRwKg7GN+rcSQfmUp9Gs84C9ID7t/MUufIVzExfYOJVhC72ToYWxVNJkOsGwcaknE11Vu9OeUJpn/oCvZomYIl6yZXxqWeuZkS2AEHe5AIqo4pknz6jZfLjdT+kM6bybINgJeQ88ME4pdEHk7WU/SycWC49X8rjSAizIzgQ1qSUlAQUtQE6+jSCZsBDzsvPCII1ffMpiU8nrNp5up3ZbMnnOVjAPV6wis=;OqWRocw/5AGO4mpSFViKvQ=="

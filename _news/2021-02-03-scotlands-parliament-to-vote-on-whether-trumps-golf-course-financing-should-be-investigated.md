@@ -47,6 +47,17 @@ related:
         width: 908
         height: 545
         isCached: true
+  - title: "Scottish Parliament Rejects Call for Trump Wealth Order"
+    excerpt: "The Scottish Green Party brought forward a motion calling on ministers to seek an \"unexplained wealth order\" (UWO) against Trump over his acquisition of the golf courses and resorts in north and west Scotland."
+    publishedDateTime: 2021-02-04T03:25:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2021-02-03/scottish-parliament-hears-pathetic-call-for-trump-wealth-order"
+    ampWebUrl: "https://www.usnews.com/news/world/articles/2021-02-03/scottish-parliament-hears-pathetic-call-for-trump-wealth-order?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2021-02-03/scottish-parliament-hears-pathetic-call-for-trump-wealth-order?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "36eWmjynBstogQ9rcU7jxZV92GrFWmkEPb6oqQYTU/LANcZm7ACmhrWhBs0bPNFZEYYL/xQDeEop7HrR84qg/TU2x/Ud89JuqLIpb9Z8Nh527E0D5UyfuvquoF15ebOA9saxLD08akJ2P2rYk8aztBoqTnTT4zPX05bvg0RuEHI8NL5dV3QD3IPZ1aTfPulctcCIKQF9Jb1ENZsosiYAKoF/BURIibRht2AYQlwpNB2mCNNNQTr9qlALP3gtgYQbIRc9mXgyK0wF9W/WArWg3CGXDD7spCli8J5W1S2ZIQUOEUhJIC50ceYCmUyrqKLYw38awUQ3ENuFa/cPFF31IFkx4n+mcElNdxywTWZP+WMpMAKB5oiaoT73hgEt1UQ48NK/XrsXIeB5jeitoj1H5aieHpouOAKC2aUcJOfSRv5YsJzjA8QEYgYHrAA0XdvgqUmo71m70oXOVXXbvlnNmMihDHYoGOvDSUxC/0NpnyoIsDfptGF+TTUrgTZfOL7+ILGA0xS/npC4Z2qSGXXMjw==;WJahiGv8K+IXUaEeKGkb+w=="
 ---

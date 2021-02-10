@@ -31,115 +31,85 @@ images:
     isCached: true
 
 related:
-  - title: "Huckabee says 'cloud' will be over Biden presidency if election fraud isn't fully investigated"
-    excerpt: "Former Arkansas Gov. Mike Huckabee told \"Fox & Friends\" on Wednesday that he wishes that all the elected officials, including Democrats, \"would demand a full accounting for how the ballots were tabulated\" in the 2020 election, saying that \"Democrats have the most to gain.\""
-    publishedDateTime: 2021-01-06T14:58:41Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gSDHbekb6qI/mike-huckabee-democrats-full-accounting-election-results"
-    ampWebUrl: "https://www.foxnews.com/politics/mike-huckabee-democrats-full-accounting-election-results.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-huckabee-democrats-full-accounting-election-results.amp"
+  - title: "Google, Microsoft, Verizon on Biden Inauguration Committee donor list"
+    excerpt: "Google, Microsoft, and Verizon are among President-elect Joe Biden's Inauguration Committee donors."
+    publishedDateTime: 2021-01-10T16:59:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/u0gqqBSjynQ/google-microsoft-verizon-biden-inauguration-committee"
+    ampWebUrl: "https://www.foxnews.com/politics/google-microsoft-verizon-biden-inauguration-committee.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/google-microsoft-verizon-biden-inauguration-committee.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 178
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Former President Jimmy Carter, wife Rosalynn, will not attend Joe Biden’s inauguration"
-    excerpt: "Former President Jimmy Carter and his wife, former first lady Rosalynn Carter, will not attend President-elect Joe Biden's inauguration later this month, marking the first time the couple has missed the ceremony since Carter was sworn in as president in 1977."
-    publishedDateTime: 2021-01-05T23:55:01Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0j6GIVrfKdo/jimmy-carter-wife-attend-bidens-inauguration"
-    ampWebUrl: "https://www.foxnews.com/politics/jimmy-carter-wife-attend-bidens-inauguration.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jimmy-carter-wife-attend-bidens-inauguration.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21005689717326.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/00e79b30-AP21006762088029.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Biden chief of staff mocks Loeffler's plan to object to election certification"
-    excerpt: "President-elect Joe Biden’s incoming chief of staff Ron Klain mocked Republican Sen. Kelly Loeffler early Wednesday, while vote counts were still underway in the Georgia runoffs, for announcing her plan to object to the certification of Biden's win in ..."
-    publishedDateTime: 2021-01-06T05:54:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-chief-of-staff-mocks-loefflers-plan-to-object-to-election-certification"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-chief-of-staff-mocks-loefflers-plan-to-object-to-election-certification.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-chief-of-staff-mocks-loefflers-plan-to-object-to-election-certification.amp"
+  - title: "Secret Service to begin Biden inauguration security operations Jan. 13"
+    excerpt: "The Secret Service will begin security operations on Jan. 13 for President-elect Joe Biden’s Inauguration— days earlier than originally planned in wake of last week’s Capitol riot."
+    publishedDateTime: 2021-01-11T22:04:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0ZxH5yFXHSY/secret-service-biden-inauguration-security-jan-13"
+    ampWebUrl: "https://www.foxnews.com/politics/secret-service-biden-inauguration-security-jan-13.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/secret-service-biden-inauguration-security-jan-13.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 146
+    quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0151998b-fe68-4078-8ab2-1e166a4c094a/fbdd86f6-3449-4cc4-b51d-25e1da7f2389/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Migrant caravan demands Biden administration 'honors its commitments'"
+    excerpt: "A migrant caravan moving from Honduras toward the U.S. border is calling on the incoming Biden administration to honor what it says are \"commitments\" to the migrants moving north, amid fears of a surge at the border when President-elect Joe Biden enters office."
+    publishedDateTime: 2021-01-16T19:44:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dB2jQlxknAE/migrant-caravan-biden-administration-commitments"
+    ampWebUrl: "https://www.foxnews.com/politics/migrant-caravan-biden-administration-commitments.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/migrant-caravan-biden-administration-commitments.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/43d8096c-96b6-417b-9e70-d106d78ea892/bc25fb44-5fe3-47a2-9bd7-1ee6ed3cb202/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "GOP Senator Josh Hawley Says He Will Force Votes on Joe Biden’s Win"
-    excerpt: "Republican Sen. Josh Hawley of Missouri cited election-integrity concerns around the November presidential vote. No significant evidence has emerged that would challenge the result."
-    publishedDateTime: 2020-12-31T02:11:00Z
-    webUrl: "https://www.wsj.com/articles/gop-senator-says-he-will-force-votes-on-bidens-win-11609348249"
-    ampWebUrl: "https://www.wsj.com/amp/articles/gop-senator-says-he-will-force-votes-on-bidens-win-11609348249"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/gop-senator-says-he-will-force-votes-on-bidens-win-11609348249"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-279281/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Biden calls on protesters to 'pull back,' says their actions border on 'sedition'"
-    excerpt: "President-elect Joe Biden minced no words Wednesday afternoon in response to the protesters who stormed Capitol Hill, saying that their actions “do not reflect a True America” and “border on seditious."
-    publishedDateTime: 2021-01-06T22:49:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-calls-on-protesters-to-pull-back-says-their-actions-border-on-sedition"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-calls-on-protesters-to-pull-back-says-their-actions-border-on-sedition.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-calls-on-protesters-to-pull-back-says-their-actions-border-on-sedition.amp"
+  - title: "Biden transition team presses Senate to confirm national security nominees ahead of inauguration"
+    excerpt: "The Biden transition team is pressing the Senate to confirm President-elect Joe Biden's national security nominees ahead of the inauguration next week, saying the country's security is \"at stake.\""
+    publishedDateTime: 2021-01-12T20:33:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0Fxo7FDBXUY/biden-transition-senate-confirm-national-security-nominees-inauguration"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-transition-senate-confirm-national-security-nominees-inauguration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-transition-senate-confirm-national-security-nominees-inauguration.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 130
+    quality: 162
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Former President Jimmy Carter, wife Rosalynn, will not attend Joe Biden’s inauguration"
-    excerpt: "Former President Jimmy Carter and his wife, former first lady Rosalynn Carter, will not attend President-elect Joe Biden's inauguration later this month, marking the first time the couple has missed the ceremony since Carter was sworn in as president in 1977."
-    publishedDateTime: 2021-01-06T00:09:00Z
-    webUrl: "https://www.foxnews.com/politics/jimmy-carter-wife-attend-bidens-inauguration"
-    ampWebUrl: "https://www.foxnews.com/politics/jimmy-carter-wife-attend-bidens-inauguration.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jimmy-carter-wife-attend-bidens-inauguration.amp"
+  - title: "FBI internal memo warns of plans for armed protests in all 50 state capitals ahead of Biden inauguration"
+    excerpt: "An internal FBI memo is warning of plans for armed protests in all 50 state capital cities ahead of President-elect Joe Biden’s Inauguration, Fox News has learned."
+    publishedDateTime: 2021-01-11T20:30:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9R-VWkImoHA/fbi-internal-memo-warns-of-plans-for-armed-protests-in-all-50-state-capitals-ahead-of-biden-inauguration"
+    ampWebUrl: "https://www.foxnews.com/politics/fbi-internal-memo-warns-of-plans-for-armed-protests-in-all-50-state-capitals-ahead-of-biden-inauguration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fbi-internal-memo-warns-of-plans-for-armed-protests-in-all-50-state-capitals-ahead-of-biden-inauguration.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 127
+    quality: 158
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21005689717326.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Hawley's Delusional Objection to Biden's Victory"
-    excerpt: "Election's expert Joshua Douglas writes, don't be too nervous about Republican Senator Josh Hawley's announcement that he will object to the certification of Joe Biden as president when Congress meets Jan."
-    publishedDateTime: 2020-12-31T13:10:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/12/31/hawleys_delusional_objection_to_bidens_victory_532477.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/53/531150_5_.jpg"
-        width: 750
-        height: 500
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "L53NeIRNUWfeW6qspaJD66FN8i+t9Y5oE83nLVoXx8YTjT2zTNydCldRClse1B6NC0AnEAAtrILnfGmXVKlih06+gPg39FffY36QSHHvuGYEeGjBCW2e4Tc/Ygom1AO1lYPXQk1I/rVZOsp+LA4WZYew2aJlvZwPqNDbFQPnToc/Ujzr4sEKo3z1myDnmwDRkJ0okW7FRLeyhJZ2L9/yv3RLY5uapqPrzbtINVya/byFEE7XjootkXiXIZXyf7o6V0kqLntCZmJxibytSYTxDidaKa9IffNp5SwkH6j2vE+5NP2PtUxoM/avJ06qVOjAe4d4NfQO037gOcPwdVVuWKeymRxJS9bHzblSYanwjCA=;4p7izK7IJc68muTVbyfAvw=="

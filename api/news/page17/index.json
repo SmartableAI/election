@@ -2,6 +2,219 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-01-18-inauguration-day-2021-trump-to-have-own-elaborate-goodbye-ceremony.md",
+      "title": "Inauguration Day 2021: Trump To Have Own 'Elaborate' Goodbye Ceremony",
+      "excerpt": "President Trump is planning to hold a red-carpet send-off that would include a military band, a flypast by Air Force jets and a 21-gun salute on Jan. 20.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/inauguration-day-2021-trump-have-own-elaborate-goodbye-ceremony-3124362",
+      "originalUrl": "https://www.ibtimes.com/inauguration-day-2021-trump-have-own-elaborate-goodbye-ceremony-3124362",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/17/us-president-donald-trump-said-he-could-fix.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/inauguration-day-2021-trump-have-own-elaborate-goodbye-ceremony-3124362?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/inauguration-day-2021-trump-have-own-elaborate-goodbye-ceremony-3124362?amp=1",
+      "publishedDateTime": "2021-01-17T17:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-18-vice-president-pence-thanks-us-troops-at-fort-drum.md",
+      "title": "Vice President Pence thanks U.S. troops at Fort Drum",
+      "excerpt": "Vice President Mike Pence and his wife made their final official appearance together with a visit to Fort Drum, where they thanked the 10th Mountain Division and their families for their service",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/national/vice-president-pence-thanks-us-troops-at-fort-drum/2021/01/17/810ee532-592b-11eb-a849-6f9423a75ffd_story.html",
+      "originalUrl": "https://www.washingtonpost.com/national/vice-president-pence-thanks-us-troops-at-fort-drum/2021/01/17/810ee532-592b-11eb-a849-6f9423a75ffd_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 265,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/national/vice-president-pence-thanks-us-troops-at-fort-drum/2021/01/17/810ee532-592b-11eb-a849-6f9423a75ffd_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/vice-president-pence-thanks-us-troops-at-fort-drum/2021/01/17/810ee532-592b-11eb-a849-6f9423a75ffd_story.html?outputType=amp",
+      "publishedDateTime": "2021-01-17T17:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-01-18-biden-transition-official-tells-migrant-caravans-now-is-not-the-time-to-come-to-us.md",
+      "title": "Biden transition official tells migrant caravans: 'Now is not the time' to come to US",
+      "excerpt": "An unnamed Biden transition official told NBC News that migrants hoping to claim asylum in the U.S. during the first few weeks of the new administration \"need to understand they're not going to be able to come into the United States immediately.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/biden-caravan-immigration-mexico-border-biden-administration",
+      "originalUrl": "https://www.foxnews.com/media/biden-caravan-immigration-mexico-border-biden-administration",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e96adf89-b6fd-4fd3-add4-af059c9a1348/2766dc0c-5b4d-4f1a-a656-563a72731175/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/biden-caravan-immigration-mexico-border-biden-administration.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/biden-caravan-immigration-mexico-border-biden-administration.amp",
+      "publishedDateTime": "2021-01-17T15:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-18-a-quiet-sunday-pro-trump-protests-largely-unrealized-at-colorado-capitol-in-other-states.md",
+      "title": "A quiet Sunday: Pro-Trump protests largely unrealized at Colorado Capitol, in other states",
+      "excerpt": "As President-elect Joe Biden's Wednesday inauguration approaches, federal, state and local law enforcement agencies have braced for possible violence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/2021/01/17/live-updates-monitoring-colorado-capitol-protests-jan-17/4196764001/",
+      "originalUrl": "https://www.usatoday.com/story/news/2021/01/17/live-updates-monitoring-colorado-capitol-protests-jan-17/4196764001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/01/17/PFTC/c501bffb-1284-4718-9be1-98477efcc50d-290169B6-DF62-4134-B61F-ACE89E9F9C56.jpeg?auto=webp&crop=5567,3132,x0,y283&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4196764001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4196764001",
+      "publishedDateTime": "2021-01-17T15:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-18-health-of-the-nation-is-literally-at-stake-biden-vows-swift-action-on-vaccine-sites-supplies-100-million-shots.md",
       "title": "'Health of the nation is literally at stake': Biden vows swift action on vaccine sites, supplies; 100 million shots",
       "excerpt": "BIden will add clinics, bolster the public health workforce and invoke a wartime production law to ensure adequate vaccine supplies.",
@@ -106,58 +319,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-18-paleologos-on-the-poll-inauguration-day-isnt-the-end-of-the-trump-era-its-just-the-beginning.md",
-      "title": "Paleologos on the Poll: Inauguration Day isn't the end of the Trump era. It's just the beginning.",
-      "excerpt": "David Paleologos, director of the Suffolk University Political Research Center, says Trump would be the favorite in the 2024 GOP primary.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/01/17/paleologos-poll-trump-era-just-getting-started/4196345001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/01/17/paleologos-poll-trump-era-just-getting-started/4196345001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/01/17/USAT/70c724f1-c6e6-4639-a168-b6684566f5d1-AP_Capitol_Breach_Rally_Organizers.jpg?auto=webp&crop=4519,2542,x562,y162&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/4196345001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4196345001",
-      "publishedDateTime": "2021-01-17T11:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-01-18-top-fema-official-attended-trumps-stop-the-steal-rally.md",
       "title": "Top FEMA official attended Trump's 'Stop the Steal' rally",
       "excerpt": "A top official at the Federal Emergency Management Agency, which has been assisting in preparations for the Inauguration next week, attended President Donald Trump’s “Stop the Steal” rally on Jan. 6. At that rally, Trump urged his followers to ...",
@@ -227,7 +388,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 295,
+      "heat": 315,
       "tags": null,
       "images": [
         {
@@ -271,6 +432,62 @@
       ]
     },
     {
+      "path": "_news/2021-01-17-trump-campaign-says-the-president-has-not-yet-chosen-impeachment-defense-team.md",
+      "title": "Trump campaign says the President has not yet chosen impeachment defense team",
+      "excerpt": "President Donald Trump has not yet assembled a defense team for his upcoming Senate impeachment trial, a spokesperson for the President's campaign said Sunday.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BJ0rnrr503s/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BJ0rnrr503s/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 232,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201227182837-02-trump-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/17/politics/trump-legal-team-second-impeachment/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/17/politics/trump-legal-team-second-impeachment/index.html",
+      "publishedDateTime": "2021-01-17T06:11:33-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-17-joe-bidens-options-for-dealing-with-donald-trump-are-worse-than-watergate.md",
       "title": "Joe Biden's Options for Dealing with Donald Trump Are Worse than Watergate",
       "excerpt": "When it comes to Donald Trump, the incoming president has a critical decision to make about the best way to move the country forward—and neither Democrats nor Republicans are likely to be happy about his choice.",
@@ -279,7 +496,7 @@
       "originalUrl": "https://www.newsweek.com/2021/02/05/joe-bidens-options-dealing-donald-trump-are-worse-watergate-1562142.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1888,
+      "heat": 1188,
       "tags": null,
       "images": [
         {
@@ -324,6 +541,62 @@
       ]
     },
     {
+      "path": "_news/2021-01-17-cnn-poll-republican-party-favorability-dips-as-most-want-party-to-move-on-from-trump.md",
+      "title": "CNN Poll: Republican Party favorability dips as most want party to move on from Trump",
+      "excerpt": "The Republican Party will begin its time as the minority party in Washington unpopular with a public ready to move on from President Donald Trump, according to a new CNN Poll conducted by SSRS. The poll also finds that the most high-profile elected Republican who will remain in office after Trump leaves,",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6sFuj_bgkZU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6sFuj_bgkZU/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 188,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210116020618-03-donald-trump-0112-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/17/politics/cnn-poll-republican-party-favorability-trump/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/17/politics/cnn-poll-republican-party-favorability-trump/index.html",
+      "publishedDateTime": "2021-01-17T05:29:44-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-17-gen-milley-key-to-military-continuity-as-biden-takes-office.md",
       "title": "Gen. Milley key to military continuity as Biden takes office",
       "excerpt": "When the incoming Biden administration takes charge of a Pentagon rocked by four years of leadership churn, it’ll look mainly to one holdover to provide continuity",
@@ -332,7 +605,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/gen-milley-key-to-military-continuity-as-biden-takes-office/2021/01/17/77d78818-58c0-11eb-a849-6f9423a75ffd_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 405,
+      "heat": 325,
       "tags": null,
       "images": [
         {
@@ -425,6 +698,54 @@
       "topics": [
         "Election",
         "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-01-17-trump-reps-decline-comment-on-giuliani-involvement.md",
+      "title": "Trump reps decline comment on Giuliani involvement",
+      "excerpt": "Rudy Giuliani claimed on ABC News Saturday that he’ll help defend the president at his upcoming second impeachment trial — but a Trump spokesman to tweeted hours later that Trump has",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/01/17/rudy-g/",
+      "originalUrl": "https://nypost.com/2021/01/17/rudy-g/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/01/BB443C72-C7CF-4708-8F58-B85E14ECD1CD.jpeg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/01/17/rudy-g/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/17/rudy-g/amp/",
+      "publishedDateTime": "2021-01-17T00:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
       ]
     },
     {
@@ -524,63 +845,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-01-17-he-has-an-obligation-to-them-attorney-for-qanon-shaman-asks-trump-to-pardon-rioters.md",
-      "title": "‘He has an obligation to them’: Attorney for ‘QAnon shaman’ asks Trump to pardon rioters",
-      "excerpt": "The lawyer for the “QAnon shaman” who was part of the deadly siege of the Capitol last week publicly petitioned President Donald Trump on Thursday to pardon his client. In an interview on CNN, attorney Albert Watkins said his client, Jacob Chansley ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/01/15/attorney-qanon-shaman-trump-pardon-459608",
-      "originalUrl": "https://www.politico.com/news/2021/01/15/attorney-qanon-shaman-trump-pardon-459608",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/07/b6/307e93354e7abd5c6e56ee1bf883/jacob-chansley-773-ap.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2021/01/15/attorney-qanon-shaman-trump-pardon-459608",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/15/attorney-qanon-shaman-trump-pardon-459608",
-      "publishedDateTime": "2021-01-16T19:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     },
     {
@@ -743,7 +1007,7 @@
       "originalUrl": "https://abcnews.go.com/Health/wireStory/biden-unveils-19t-plan-stem-covid-19-steady-75269503",
       "featuredContent": null,
       "highlight": null,
-      "heat": 265,
+      "heat": 305,
       "tags": null,
       "images": [
         {
@@ -951,7 +1215,7 @@
       "originalUrl": "https://abcnews.go.com/Technology/wireStory/biden-science-forefront-administration-75295060",
       "featuredContent": null,
       "highlight": null,
-      "heat": 305,
+      "heat": 285,
       "tags": null,
       "images": [
         {
@@ -1049,266 +1313,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-16-trump-finishes-with-worst-first-term-approval-rating-ever.md",
-      "title": "Trump finishes with worst first term approval rating ever",
-      "excerpt": "Poll of the week: A new Quinnipiac University poll finds that President Donald Trump's approval rating stands at 33%, while his disapproval is at 60%.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fhh5Db9b8u8/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fhh5Db9b8u8/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 435,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210114184452-05-week-in-photos-0114-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/16/politics/trump-approval-analysis/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/16/politics/trump-approval-analysis/index.html",
-      "publishedDateTime": "2021-01-16T06:05:09-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-16-census-battle-ends-as-trump-administration-gives-up-on-excluding-undocumented-from-apportionment.md",
-      "title": "Census battle ends as Trump administration gives up on excluding undocumented from apportionment",
-      "excerpt": "A high-stakes six-month battle over who should be counted for representation in Congress ended quietly in a judge’s chamber Friday night when the Trump administration agreed not to release any population numbers from the 2020 Census for congressional apportionment or redistricting before the president leaves office.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/local/social-issues/census-battle-ends-as-trump-administration-gives-up-on-excluding-undocumented-from-apportionment/2021/01/16/bd17025c-57ba-11eb-a931-5b162d0d033d_story.html",
-      "originalUrl": "https://www.washingtonpost.com/local/social-issues/census-battle-ends-as-trump-administration-gives-up-on-excluding-undocumented-from-apportionment/2021/01/16/bd17025c-57ba-11eb-a931-5b162d0d033d_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 232,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/R2MNFXSXZEI6XKAX4XT7RJAG2Y.jpg&w=1440",
-          "width": 1440,
-          "height": 811,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/local/social-issues/census-battle-ends-as-trump-administration-gives-up-on-excluding-undocumented-from-apportionment/2021/01/16/bd17025c-57ba-11eb-a931-5b162d0d033d_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/social-issues/census-battle-ends-as-trump-administration-gives-up-on-excluding-undocumented-from-apportionment/2021/01/16/bd17025c-57ba-11eb-a931-5b162d0d033d_story.html?outputType=amp",
-      "publishedDateTime": "2021-01-16T04:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-16-capitol-rioters-came-within-a-minute-of-reaching-pence-report-says.md",
-      "title": "Capitol rioters came within a minute of reaching Pence, report says",
-      "excerpt": "The mob that invaded the Capitol on Jan. 6 nearly reached the Senate floor only about a minute after Vice President Mike Pence left the chamber, The Washington Post reported. A Secret Service ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/01/15/dc-capitol-rioters-nearly-reached-vice-president-mike-pence.html",
-      "originalUrl": "https://www.cnbc.com/2021/01/15/dc-capitol-rioters-nearly-reached-vice-president-mike-pence.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106825233-16107251002021-01-06t190644z_2102130348_rc2j2l9qd533_rtrmadp_0_usa-election-congress.jpeg?v=1610725126",
-          "width": 3500,
-          "height": 2265,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/01/15/dc-capitol-rioters-nearly-reached-vice-president-mike-pence.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/15/dc-capitol-rioters-nearly-reached-vice-president-mike-pence.html",
-      "publishedDateTime": "2021-01-16T03:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-01-16-trump-trial-pending-mcconnell-calls-it-vote-of-conscience.md",
-      "title": "Trump trial pending, McConnell calls it ‘vote of conscience’",
-      "excerpt": "President Donald Trump’s impeachment trial is likely to start after Joe Biden’s inauguration, and the Republican leader, Mitch McConnell, is telling senators their decision on whether to convict the outgoing president over the Capitol riot will be a “vote of conscience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/trump-trial-pending-mcconnell-calls-it-vote-of-conscience/2021/01/16/793bebec-57ba-11eb-acc5-92d2819a1ccb_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/trump-trial-pending-mcconnell-calls-it-vote-of-conscience/2021/01/16/793bebec-57ba-11eb-acc5-92d2819a1ccb_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 605,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/trump-trial-pending-mcconnell-calls-it-vote-of-conscience/2021/01/16/793bebec-57ba-11eb-acc5-92d2819a1ccb_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-trial-pending-mcconnell-calls-it-vote-of-conscience/2021/01/16/793bebec-57ba-11eb-acc5-92d2819a1ccb_story.html?outputType=amp",
-      "publishedDateTime": "2021-01-16T02:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-16-dustin-higgs-becomes-13th-and-final-inmate-executed-under-trump.md",
-      "title": "Dustin Higgs becomes 13th and final inmate executed under Trump",
-      "excerpt": "Another federal death row inmate in Indiana was executed early Saturday — marking final execution under the Trump administration, and the 13th since July. Dustin John Higgs, convicted of",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/01/16/dustin-higgs-becomes-13th-and-final-inmate-to-be-executed/",
-      "originalUrl": "https://nypost.com/2021/01/16/dustin-higgs-becomes-13th-and-final-inmate-to-be-executed/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/01/Dustin-John-Higgs.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/01/16/dustin-higgs-becomes-13th-and-final-inmate-to-be-executed/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/16/dustin-higgs-becomes-13th-and-final-inmate-to-be-executed/amp/",
-      "publishedDateTime": "2021-01-16T00:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

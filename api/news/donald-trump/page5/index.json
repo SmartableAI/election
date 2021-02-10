@@ -2,271 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2021-01-16-dustin-higgs-becomes-13th-and-final-federal-prisoner-executed-under-trump.md",
-      "title": "Dustin Higgs becomes 13th and final federal prisoner executed under Trump",
-      "excerpt": "Higgs, 48, had been sentenced to death over the killings of three women in Maryland",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jan/15/dustin-higgs-federal-execution-trump",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jan/15/dustin-higgs-federal-execution-trump",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/28d4f022ffdec2869fadccc989f853f3ed58c31b/0_116_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a8d45662da15656a3487f3214818728d",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jan/15/dustin-higgs-federal-execution-trump",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/15/dustin-higgs-federal-execution-trump",
-      "publishedDateTime": "2021-01-15T21:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-16-ny-prosecutors-interview-michael-cohen-about-trump-finances.md",
-      "title": "NY prosecutors interview Michael Cohen about Trump finances",
-      "excerpt": "New York prosecutors conducted an hours-long interview Thursday of Michael Cohen, President Donald Trump’s former attorney",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/business/ny-prosecutors-interview-michael-cohen-about-trump-finances/2021/01/15/a6b6b334-577b-11eb-acc5-92d2819a1ccb_story.html",
-      "originalUrl": "https://www.washingtonpost.com/business/ny-prosecutors-interview-michael-cohen-about-trump-finances/2021/01/15/a6b6b334-577b-11eb-acc5-92d2819a1ccb_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 285,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/business/ny-prosecutors-interview-michael-cohen-about-trump-finances/2021/01/15/a6b6b334-577b-11eb-acc5-92d2819a1ccb_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/ny-prosecutors-interview-michael-cohen-about-trump-finances/2021/01/15/a6b6b334-577b-11eb-acc5-92d2819a1ccb_story.html?outputType=amp",
-      "publishedDateTime": "2021-01-15T18:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-16-capitol-riots-what-are-far-right-trump-supporters-saying.md",
-      "title": "Capitol riots: What are far-right Trump supporters saying?",
-      "excerpt": "Members of the extreme right are searching for new online homes, amid paranoia that they are being ‘set up’ by the authorities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/blogs-trending-55679813",
-      "originalUrl": "https://www.bbc.com/news/blogs-trending-55679813",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 285,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/754F/production/_116413003_gettyimages-578547390.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/amp/blogs-trending-55679813",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/blogs-trending-55679813",
-      "publishedDateTime": "2021-01-15T16:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-16-trump-receives-moroccos-highest-award-for-middle-east-work-official.md",
-      "title": "Trump receives Morocco's highest award for Middle East work: official",
-      "excerpt": "U.S. President Donald Trump on Friday received Morocco's highest award for his work in advancing a normalization deal between Israel and Morocco, a senior administration official told Reuters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-trump-morocco/trump-receives-moroccos-highest-award-for-middle-east-work-official-idUSKBN29K2GK?edition-redirect=ca",
-      "originalUrl": "https://www.reuters.com/article/us-usa-trump-morocco/trump-receives-moroccos-highest-award-for-middle-east-work-official-idUSKBN29K2GK?edition-redirect=ca",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547969691&r=LYNXMPEH0E1FT&w=800",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-15T16:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-16-banks-rips-cnns-lemon-for-slam-on-trump-supporters-they-want-to-cancel-all-of-us-with-conservative-beliefs.md",
-      "title": "Banks rips CNN's Lemon for slam on Trump supporters: 'They want to cancel all of us with conservative beliefs'",
-      "excerpt": "Ind., pushed back Friday on CNN anchor Don Lemon's claim that people who voted for President Trump are on the side of Nazis and the Ku Klux Klan.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/banks-rips-lemon-trump-supporters-cancel-conservative-beliefs",
-      "originalUrl": "https://www.foxnews.com/media/banks-rips-lemon-trump-supporters-cancel-conservative-beliefs",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/banks-rips-lemon-trump-supporters-cancel-conservative-beliefs.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/banks-rips-lemon-trump-supporters-cancel-conservative-beliefs.amp",
-      "publishedDateTime": "2021-01-15T14:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-01-16-rose-mcgowan-calls-trumps-second-impeachment-cult-propaganda-a-theater-of-mass-distraction.md",
       "title": "Rose McGowan calls Trump's second impeachment 'cult propaganda,' 'a theater of mass distraction'",
       "excerpt": "In a scathing tweet, McGowan called the actions against Trump cultlike which is something she's said numerous times in the past about Hollywood. \"This impeachment is Cult propaganda. A theater of mass distraction.",
@@ -493,7 +228,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-trade-washers/trump-extends-safeguard-tariffs-on-large-washer-imports-for-two-years-idUSKBN29J2SD?edition-redirect=ca",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -517,6 +252,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-15-us-judge-says-bolton-may-probe-whether-white-house-delayed-security-aides-memoir-to-protect-trump-from-embarrassment.md",
+      "title": "U.S. judge says Bolton may probe whether White House delayed security aide’s memoir to protect Trump from embarrassment",
+      "excerpt": "Justice Dept. seeks profits from “The Room Where it Happened”; court rules Bolton may not challenge whether manuscript contained classified information",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/local/legal-issues/us-judge-says-bolton-may-probe-whether-white-house-delayed-security-aides-memoir-to-protect-trump-from-embarrassment/2021/01/14/04eae026-569e-11eb-a08b-f1381ef3d207_story.html",
+      "originalUrl": "https://www.washingtonpost.com/local/legal-issues/us-judge-says-bolton-may-probe-whether-white-house-delayed-security-aides-memoir-to-protect-trump-from-embarrassment/2021/01/14/04eae026-569e-11eb-a08b-f1381ef3d207_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VXVECLRQZQI6VICT3RWZIS5HOY.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/local/legal-issues/us-judge-says-bolton-may-probe-whether-white-house-delayed-security-aides-memoir-to-protect-trump-from-embarrassment/2021/01/14/04eae026-569e-11eb-a08b-f1381ef3d207_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/legal-issues/us-judge-says-bolton-may-probe-whether-white-house-delayed-security-aides-memoir-to-protect-trump-from-embarrassment/2021/01/14/04eae026-569e-11eb-a08b-f1381ef3d207_story.html?outputType=amp",
+      "publishedDateTime": "2021-01-14T20:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -640,7 +427,7 @@
       "originalUrl": "https://abcnews.go.com/US/york-dumps-trump-trump-exodus-florida-underway/story?id=75253713",
       "featuredContent": null,
       "highlight": null,
-      "heat": 345,
+      "heat": 325,
       "tags": null,
       "images": [
         {
@@ -736,6 +523,58 @@
       ]
     },
     {
+      "path": "_news/2021-01-15-tucker-carlson-is-making-his-play-to-be-the-post-trump-maga-champion.md",
+      "title": "Tucker Carlson is making his play to be the post-Trump MAGA champion",
+      "excerpt": "Did I think there were more Trump Republicans or more Republicans loyal to then-House Speaker Paul Ryan (R-Wis.)? I fell back on what polling indicated, which was that there were likely more of the latter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2021/01/14/tucker-carlson-is-making-his-play-be-post-trump-maga-champion/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2021/01/14/tucker-carlson-is-making-his-play-be-post-trump-maga-champion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UFO4QXWDXMI6VCIINCRLT2XJ4A.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/01/14/tucker-carlson-is-making-his-play-be-post-trump-maga-champion/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/14/tucker-carlson-is-making-his-play-be-post-trump-maga-champion/?outputType=amp",
+      "publishedDateTime": "2021-01-14T12:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-15-jack-dorsey-defends-banning-trump-but-admits-it-sets-dangerous-precedent.md",
       "title": "Jack Dorsey defends banning Trump but admits it sets 'dangerous' precedent",
       "excerpt": "Jack Dorsey opened up about the decision to ban President Donald Trump from the platform in a thread, saying he feels the action sets a \"dangerous\" precedent.",
@@ -744,7 +583,7 @@
       "originalUrl": "https://abcnews.go.com/Business/jack-dorsey-defends-banning-trump-admits-sets-dangerous/story?id=75248908",
       "featuredContent": null,
       "highlight": null,
-      "heat": 183,
+      "heat": 143,
       "tags": null,
       "images": [
         {
@@ -796,7 +635,7 @@
       "originalUrl": "https://www.cbsnews.com/news/spotted-owl-habitat-slashed-trump-administration/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -883,58 +722,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-14-siege-was-in-the-name-of-the-donald-trump-rep-cicilline.md",
-      "title": "Siege was 'in the name of the Donald Trump': Rep. Cicilline",
-      "excerpt": "Rep. Cicilline. Posted . Democratic Congressman David Cicilline railed against President Donald Trump on Wednesday ahead of T",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/video/watch/idOVDV1MRBZ",
-      "originalUrl": "https://www.reuters.com/video/watch/idOVDV1MRBZ",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?d=20210113&i=OVDV1MRBZ&r=OVDV1MRBZ&t=2",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-13T12:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-01-14-live-impeachment-updates-gop-house-leader-trump-bears-responsibility-for-riot-but-impeachment-a-mistake.md",
       "title": "Live impeachment updates: GOP House leader: Trump 'bears responsibility' for riot, but impeachment a 'mistake'",
       "excerpt": "A vote to impeach will further divide the nation. A vote to impeach will further fan the flames of partisan division,\" Rep. Kevin McCarthy said.",
@@ -987,25 +774,21 @@
       ]
     },
     {
-      "path": "_news/2021-01-13-live-updates-house-moves-to-impeach-trump-for-incitement-of-insurrection-in-capitol-riot.md",
-      "title": "Live updates: House moves to impeach Trump for 'incitement of insurrection' in Capitol riot",
-      "excerpt": "The article of impeachment is expected to pass in the Democratic-controlled House, which would make Trump the first president in U.S.history to be impeached twice.",
+      "path": "_news/2021-01-13-youtube-ban-google-blocks-new-uploads-to-donald-trumps-channel-after-capitol-riots-citing-potential-for-violence.md",
+      "title": "YouTube ban: Google blocks new uploads to Donald Trump's channel after Capitol riots, citing potential for violence",
+      "excerpt": "Google's YouTube is blocking new uploads to Trump's channel. It's also being threatened with a national ad boycott if it does not ban Trump.",
       "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/congress/live-blog/2021-01-13-trump-impeachment-25th-amendment-n1253971",
-      "originalUrl": "https://www.nbcnews.com/politics/congress/live-blog/2021-01-13-trump-impeachment-25th-amendment-n1253971",
+      "webUrl": "https://www.usatoday.com/story/tech/2021/01/12/trump-youtube-ban-capitol-riots-civil-rights-groups/6649933002/",
+      "originalUrl": "https://www.usatoday.com/story/tech/2021/01/12/trump-youtube-ban-capitol-riots-civil-rights-groups/6649933002/",
       "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 185,
+      "highlight": null,
+      "heat": 123,
       "tags": null,
       "images": [
         {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2021_02/3441573/210113-impeachment-live-blog-main-cover-cs_16bb0697e79eeb180cea199979fe03f2.jpg",
-          "width": 2500,
-          "height": 1250,
+          "url": "https://www.gannett-cdn.com/presto/2021/01/12/USAT/d9fcae70-ecb3-4fa7-ba54-bd90bcd378e0-AP21012563654909.jpg?auto=webp&crop=5999,3374,x1,y626&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1013,16 +796,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/live-blog/ncna1253971",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1253971",
-      "publishedDateTime": "2021-01-13T04:26:00-08:00",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6649933002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6649933002",
+      "publishedDateTime": "2021-01-13T04:23:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
+        "name": "USA Today",
+        "domain": "usatoday.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1039,8 +822,7 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump",
-        "Democratic Voice"
+        "Donald Trump"
       ]
     },
     {
@@ -1096,6 +878,58 @@
       ]
     },
     {
+      "path": "_news/2021-01-13-trumps-secret-service-detail-could-be-subpoenaed-to-testify-against-him-in-criminal-proceedings-and-former-agents-are-stressed-about-it.md",
+      "title": "Trump's Secret Service detail could be subpoenaed to testify against him in criminal proceedings and former agents are stressed about it",
+      "excerpt": "President Donald Trump's security detail could face subpoenas in future legal proceedings. Former agents worry that will make him harder to protect.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/secret-service-agents-testify-trump-criminal-courts-nixon-clinton-lewinsky-2021-1",
+      "originalUrl": "https://www.businessinsider.com/secret-service-agents-testify-trump-criminal-courts-nixon-clinton-lewinsky-2021-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5ffe06cefe7e140019f7e88b?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-12T13:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-13-trump-defends-riot-remarks-as-totally-appropriate-before-house-vote-on-25th-amendment-resolution.md",
       "title": "Trump defends riot remarks as 'totally appropriate' before House vote on 25th Amendment resolution",
       "excerpt": "\"Everybody to a 'T' thought it was totally appropriate,\" Trump said as lawmakers prepared a resolution calling for his removal from office.",
@@ -1108,7 +942,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 151,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -1211,58 +1045,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-13-bette-midler-says-donald-trump-will-burn-down-the-white-house-before-he-leaves.md",
-      "title": "Bette Midler Says Donald Trump Will 'Burn Down' The White House Before He Leaves",
-      "excerpt": "\"How many more will die in the service of this mediocrity? And watch, he'll burn the WH down before he goes,\" Midler tweeted Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/bette-midler-donald-trump-burn-down-white-house-twitter-1560892",
-      "originalUrl": "https://www.newsweek.com/bette-midler-donald-trump-burn-down-white-house-twitter-1560892",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1673938/bette-midler.jpg",
-          "width": 3000,
-          "height": 2023,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/bette-midler-donald-trump-burn-down-white-house-twitter-1560892?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/bette-midler-donald-trump-burn-down-white-house-twitter-1560892?amp=1",
-      "publishedDateTime": "2021-01-12T09:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-01-12-trump-dropped-by-biggest-lender-deutsche-bank-for-future-business-nyt.md",
       "title": "Trump dropped by biggest lender Deutsche Bank for future business: NYT",
       "excerpt": "Deutsche Bank will not do business in the future with U.S. President Donald Trump or his companies in the wake of his supporters' assault on the U.S. Capitol, the New York Times reported.",
@@ -1315,6 +1097,59 @@
       ]
     },
     {
+      "path": "_news/2021-01-12-inside-the-remarkable-rift-between-donald-trump-and-mike-pence.md",
+      "title": "Inside the remarkable rift between Donald Trump and Mike Pence",
+      "excerpt": "The rupture between the president and his No. 2 is a startling capstone to a relationship long defined by Pence’s loyalty and subservience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/trump-pence-breakuo-capitol-riot/2021/01/11/6a6aa052-5357-11eb-89bc-7f51ceb6bd57_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/trump-pence-breakuo-capitol-riot/2021/01/11/6a6aa052-5357-11eb-89bc-7f51ceb6bd57_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 6070,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XNR7QFCRFQI6XA7DGITEJWBDKY.jpg&w=1440",
+          "width": 1440,
+          "height": 1004,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/trump-pence-breakuo-capitol-riot/2021/01/11/6a6aa052-5357-11eb-89bc-7f51ceb6bd57_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-pence-breakuo-capitol-riot/2021/01/11/6a6aa052-5357-11eb-89bc-7f51ceb6bd57_story.html?outputType=amp",
+      "publishedDateTime": "2021-01-12T02:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-12-barack-obama-alleged-tweet-mocking-donald-trumps-twitter-ban-is-fake-report.md",
       "title": "Barack Obama Alleged 'Tweet' Mocking Donald Trump's Twitter Ban Is Fake: Report",
       "excerpt": "A tweet allegedly made by former President Barack Obama that pokes fun at the permanent suspension of President Donald Trump's Twitter account is circulating on social media. However, reports confirme",
@@ -1323,7 +1158,7 @@
       "originalUrl": "https://www.ibtimes.com/barack-obama-alleged-tweet-mocking-donald-trumps-twitter-ban-fake-report-3119646",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -1367,21 +1202,21 @@
       ]
     },
     {
-      "path": "_news/2021-01-12-house-democrats-move-to-impeach-trump-for-incitement-of-insurrection-live.md",
-      "title": "House Democrats move to impeach Trump for 'incitement of insurrection' – live",
-      "excerpt": "House resolution says Donald Trump ‘engaged in high crimes and misdemeanors by willfully inciting violence against the government’",
+      "path": "_news/2021-01-12-former-white-house-spokesman-hogan-gidley-says-trump-is-the-most-masculine-president-in-us-history.md",
+      "title": "Former White House spokesman Hogan Gidley says Trump is the 'most masculine' president in US history",
+      "excerpt": "This came after Fox News host Bill Hemmer asked Gidley if Trump felt \"emasculated\" by the recent \"social media crackdown.\"",
       "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/jan/11/joe-biden-donald-trump-impeachment-capitol-mike-pence-nancy-pelosi-coronavirus-covid-live-updates",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/jan/11/joe-biden-donald-trump-impeachment-capitol-mike-pence-nancy-pelosi-coronavirus-covid-live-updates",
+      "webUrl": "https://www.businessinsider.com/trump-aide-says-president-is-the-most-masculine-in-us-history-2021-1",
+      "originalUrl": "https://www.businessinsider.com/trump-aide-says-president-is-the-most-masculine-in-us-history-2021-1",
       "featuredContent": null,
       "highlight": null,
-      "heat": 242,
+      "heat": 110,
       "tags": null,
       "images": [
         {
-          "url": "https://i.guim.co.uk/img/media/6d5c7db8fae6479736bf7df99a1b2e6e9471ae1f/0_0_3708_2472/master/3708.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=dcf2b68ea017aa4952150faf20c5de4d",
-          "width": 600,
-          "height": 400,
+          "url": "https://i.insider.com/5ffcc49fbde805001980c448?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1389,16 +1224,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/jan/11/joe-biden-donald-trump-impeachment-capitol-mike-pence-nancy-pelosi-coronavirus-covid-live-updates",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/11/joe-biden-donald-trump-impeachment-capitol-mike-pence-nancy-pelosi-coronavirus-covid-live-updates",
-      "publishedDateTime": "2021-01-11T10:09:00-08:00",
+      "ampWebUrl": "https://www.businessinsider.com/trump-aide-says-president-is-the-most-masculine-in-us-history-2021-1?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-aide-says-president-is-the-most-masculine-in-us-history-2021-1?amp",
+      "publishedDateTime": "2021-01-11T14:59:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1416,6 +1251,120 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-12-newsom-california-assembly-support-trump-removal-from-office.md",
+      "title": "Newsom, California Assembly support Trump removal from office",
+      "excerpt": "Mayes said this week that his former party must be held to account for its leader's direct role in the insurrection.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/states/california/story/2021/01/11/newsom-california-assembly-support-trump-removal-from-office-1355062",
+      "originalUrl": "https://www.politico.com/states/california/story/2021/01/11/newsom-california-assembly-support-trump-removal-from-office-1355062",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/8f/18/8ce266a0448dbab810fd61562c7a/210111-chad-mayes-ap-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-11T14:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-12-does-trump-face-legal-jeopardy-for-his-incendiary-speech-before-the-riot.md",
+      "title": "Does Trump Face Legal Jeopardy for His Incendiary Speech Before the Riot?",
+      "excerpt": "The president’s actions just before his supporters’ deadly rampage at the Capitol has created new risks for him.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/01/11/us/politics/donald-trump-crime.html",
+      "originalUrl": "https://www.nytimes.com/2021/01/11/us/politics/donald-trump-crime.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/01/11/us/politics/11dc-legal-explainer/11dc-legal-explainer-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/01/11/us/politics/donald-trump-crime.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/11/us/politics/donald-trump-crime.amp.html",
+      "publishedDateTime": "2021-01-11T14:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
       ]
     },
     {
@@ -1484,7 +1433,7 @@
       "originalUrl": "https://www.cbsnews.com/news/parler-down-aws-web-hosting-trump/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -1536,7 +1485,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/trump-to-honor-belichick-with-presidential-medal-of-freedom/2021/01/10/6f4d7c1c-53ab-11eb-acc5-92d2819a1ccb_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 325,
+      "heat": 305,
       "tags": null,
       "images": [
         {
@@ -1560,6 +1509,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-11-resign-and-go-away-second-gop-senator-urges-trump-to-step-down.md",
+      "title": "‘Resign and go away.’ Second GOP senator urges Trump to step down",
+      "excerpt": "Sen. Pat Toomey of Pennsylvania on Sunday joined Alaska Sen. Lisa Murkowski in calling for Trump to 'resign and go away as soon as possible.'",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/politics/story/2021-01-10/impeachment-effort-gains-steam-as-second-republican-calls-on-trump-to-resign",
+      "originalUrl": "https://www.latimes.com/politics/story/2021-01-10/impeachment-effort-gains-steam-as-second-republican-calls-on-trump-to-resign",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/9cee817/2147483647/strip/true/crop/689x450+56+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F4a%2F62%2F8b1efa963432a7735fcbbb085fb6%2Fla-es-trump-culpa-a-la-caza-de-brujas-por-su-p-001",
+          "width": 320,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.latimes.com/politics/story/2021-01-10/impeachment-effort-gains-steam-as-second-republican-calls-on-trump-to-resign?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-01-10/impeachment-effort-gains-steam-as-second-republican-calls-on-trump-to-resign?_amp=true",
+      "publishedDateTime": "2021-01-10T14:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

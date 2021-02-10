@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1253873"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1253873"
 type: article
 quality: 131
-heat: 151
+heat: 131
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     width: 2500
     height: 1667
     isCached: true
-
-related:
-  - title: "Trump tries to defend his pre-riot speech as ‘totally appropriate’"
-    excerpt: "The president offered up his first public remarks since his supporters carried out a deadly siege on the Capitol last week."
-    publishedDateTime: 2021-01-12T22:42:00Z
-    webUrl: "https://www.politico.com/news/2021/01/12/trump-defends-pre-riot-speech-458129"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/5a/da/576fb21c438da4d867c43c2d770a/ap21012552931903.jpg"
-        width: 3874
-        height: 2581
-        isCached: true
 
 secured: "AAIOtm/Zx+3gAtsA2RD/DNUnUJuMwyCwXidySmOB40ghY4YDXB6tZk21PzrhtQQE8kwYKm8+ik8ruK4se8OsbhaJuYDz0L2kHeimmyI0utCr3mwcs1ArAUeEw3lYUPIXUq87zeuWha7UZB+ztU12WUYSZD1QM5eQ+tqb8i8XXT6gsVe1nYdhni3XtQa/6kUkgzYr1d3NU5I9L4upFvLpiZ4QOBJ1tpeuX2u1js9pS9ZXY2ZAXtGZ2QLq6CA1uxGCARcKsqCQ9iJT51HR0/coJaduHKLfWL6oRqth8ZhwYaXwcZBexHd9gOS8nGIqdHflZG46co2nXzYbU3qd7dcHT41HIjzS+UsGA99NFt2zHQIcxinnfTljteuBmj/lPn7IE+lRyxtGQAOauOHQxjAQlqVjFoChIzdeTOhG8IbyLXvzX428D+Qlw9g4dScdoxmMRgM4uS+WCQYQ0Spi2aYAyftL5Sbh7KgCLoOmH0cB2Cu/8FKMTiRCxYETCbP8/ihPk94zD4RzVy71o8xJjr7lIQ==;p4kiJl6k5ehsflprRjy/hw=="
 ---

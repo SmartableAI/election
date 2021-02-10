@@ -127,22 +127,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "U.S. House to deliver Trump impeachment to Senate on Monday: Schumer"
-    excerpt: "The U.S. House of Representatives will deliver an impeachment measure charging former President Donald Trump with inciting insurrection to the Senate on Monday, starting a trial process that could ban him from holding office again,"
-    publishedDateTime: 2021-01-22T20:28:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment/u-s-house-to-deliver-trump-impeachment-to-senate-on-monday-schumer-idUSKBN29R1X1"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29R1X1"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29R1X1"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210122&t=2&i=1548735958&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0L17O"
-        width: 818
-        height: 545
-        isCached: true
   - title: "Impeachment guide: how will Donald Trump's second Senate trial unfold?"
     excerpt: "If the trial is successful it would allow the Senate to bar the former president from holding office in the future"
     publishedDateTime: 2021-01-25T06:55:00Z
@@ -175,38 +159,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "GOP largely votes against holding Trump impeachment trial"
-    excerpt: "Senate Republicans have voted overwhelmingly against moving forward with Donald Trump’s second impeachment trial"
-    publishedDateTime: 2021-01-26T22:38:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-impeachment-senate-testing-sway-gop-75482333"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-impeachment-senate-testing-sway-gop-75482333"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-impeachment-senate-testing-sway-gop-75482333"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_829e8312972b4569a4e084dadcdb1b36_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump impeachment trial faces challenge from Republican Senator Paul"
-    excerpt: "The Senate impeachment trial of Donald Trump on a charge of inciting the deadly Capitol siege could draw its first challenge on Tuesday, with a Republican senator arguing that trying a former president would violate the U."
-    publishedDateTime: 2021-01-26T20:58:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-idUSKBN29V1UK"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29V1UK"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29V1UK"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210126&t=2&i=1549151935&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0P1FA"
-        width: 817
-        height: 545
-        isCached: true
   - title: "US House delivers article of impeachment against Donald Trump to Senate"
     excerpt: "Senate trial will be the first-ever of a former US president but the chances that Republicans will convict him are slim"
     publishedDateTime: 2021-01-26T16:05:00Z
@@ -222,22 +174,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/8d55da59570e9ef8017c1331f45ab84178384f4e/0_105_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2d51d0099ca0a657b355310551ab1848"
         width: 600
         height: 360
-        isCached: true
-  - title: "GOP largely sides against holding Trump impeachment trial"
-    excerpt: "All but five Senate Republicans have voted in favor of an effort to dismiss Donald Trump’s historic second impeachment trial"
-    publishedDateTime: 2021-01-28T08:22:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-impeachment-senate-testing-sway-gop-75482333"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-impeachment-senate-testing-sway-gop-75482333"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-impeachment-senate-testing-sway-gop-75482333"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_829e8312972b4569a4e084dadcdb1b36_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Donald Trump and the verdict of history: ANALYSIS"
     excerpt: "Not yet out of office for a week and still a political force, Donald Trump’s place in history, let alone his sentence, is bound to be debated for years to come."
@@ -255,22 +191,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Trump leaves behind a Republican Party both broken and still in his grip"
-    excerpt: "Will Republicans purge the worst of what he has brought to their coalition or will Trump maintain his influence even after he is out of office?"
-    publishedDateTime: 2021-01-16T20:15:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-leaves-behind-a-republican-party-both-broken-and-still-in-his-grip/2021/01/16/f7496dfe-5781-11eb-a08b-f1381ef3d207_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-leaves-behind-a-republican-party-both-broken-and-still-in-his-grip/2021/01/16/f7496dfe-5781-11eb-a08b-f1381ef3d207_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-leaves-behind-a-republican-party-both-broken-and-still-in-his-grip/2021/01/16/f7496dfe-5781-11eb-a08b-f1381ef3d207_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 124
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PFB4WBSQU4I6XIPV7WXSRT6KSA.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "House to send Trump impeachment article to Senate on Monday, Schumer says"
     excerpt: "House Speaker Nancy Pelosi plans to send the article of impeachment against Donald Trump to the Senate on Monday."
     publishedDateTime: 2021-01-22T15:58:00Z
@@ -286,6 +206,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/txtVMfQsBEOT3_vC_uaHadgkG8E=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/QC2KMDNQQZCKVRKGAESVM5FG2U.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "U.S. House lawmakers carry article of impeachment against Trump to Senate"
+    excerpt: "U.S. House of Representatives officials and lawmakers on Monday hand-carried an article of impeachment against former President Donald Trump to the Senate for trial on accusations of inciting the deadly Jan."
+    publishedDateTime: 2021-01-26T00:41:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-procession-idUSKBN29V00J"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29V00J"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29V00J"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210126&t=2&i=1549036656&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0P006"
+        width: 817
+        height: 545
         isCached: true
   - title: "The second Trump impeachment trial is set for February. What happens next?"
     excerpt: "WASHINGTON – Former President Donald Trump's historic second impeachment trial starts next month, but the process really started Monday, when the House sent the article of impeachment to the ..."
@@ -319,22 +255,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Diverse team of U.S. House Democrats to lead Trump's second impeachment trial"
-    excerpt: "The nine Democratic lawmakers who will prosecute ex-President Donald Trump in his impeachment trial reflect America's racial, ethnic and sexual diversity, in stark contrast to the white nationalist imagery that marked the mob of Trump supporters who stormed the Capitol."
-    publishedDateTime: 2021-01-25T11:33:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-managers-idUSKBN29U13O"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29U13O"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29U13O"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 122
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210125&t=2&i=1548960735&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0O0OP"
-        width: 817
-        height: 545
-        isCached: true
   - title: "How Donald Trump's Second Impeachment Trial Will Be Different From His First"
     excerpt: "Donald Trump made history in the days before his White House departure by becoming the only president to ever be impeached twice. Now, his upcoming trial in the Senate will be just as unprecedented."
     publishedDateTime: 2021-01-25T22:24:00Z
@@ -351,22 +271,6 @@ related:
         width: 2500
         height: 1494
         isCached: true
-  - title: "Senate rejects GOP motion to declare Trump impeachment trial unconstitutional"
-    excerpt: "Senators were sworn in as jurors on Tuesday in the second impeachment trial of former President Donald Trump for inciting an insurrection, with proceedings scheduled to get underway in two weeks. Senator Patrick Leahy,"
-    publishedDateTime: 2021-01-27T11:45:00Z
-    webUrl: "https://www.cbsnews.com/live-updates/senate-rejects-motion-declare-trump-impeachment-trial-unconstitutional/"
-    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/senate-rejects-motion-declare-trump-impeachment-trial-unconstitutional/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/senate-rejects-motion-declare-trump-impeachment-trial-unconstitutional/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 122
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/26/d8c6009b-1a41-4bf2-9d5d-627b79829356/thumbnail/1200x630/ed7731eecbd029ac99de9fcf4c3abfeb/screen-shot-2021-01-26-at-2-48-36-pm.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "House Speaker Nancy Pelosi says she'll send Trump impeachment to Senate 'soon'"
     excerpt: "House Speaker Nancy Pelosi said Thursday she would \"soon\" send the Senate the impeachment of President Donald Trump, setting the stage for a trial."
     publishedDateTime: 2021-01-21T18:34:00Z
@@ -382,38 +286,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/01/21/USAT/71646ee1-4545-45d6-bc02-6c60f77778ab-pelosi_1.jpg?auto=webp&crop=5525,3108,x0,y280&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "U.S. Senate's Schumer says Trump impeachment trial will be fair but move quickly"
-    excerpt: "U.S. Senate Majority Leader Chuck Schumer said on Sunday that former President Donald Trump's approaching second impeachment trial in the Senate will be fair but move at a relatively fast pace."
-    publishedDateTime: 2021-01-24T17:24:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-schumer-idUSKBN29T0K8"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29T0K8"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29T0K8"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 120
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210124&t=2&i=1548885308&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0N0BE"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Trump is likely to escape conviction in his Senate impeachment trial. Here's why."
-    excerpt: "Senate Republicans immediately condemned the Capitol riots, but most have not committed to convicting the former president who dominates their party."
-    publishedDateTime: 2021-01-26T22:07:00Z
-    webUrl: "https://www.businessinsider.com/trump-impeachment-senate-trial-gop-future-incitement-insurrection-capitol-riots-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/trump-impeachment-senate-trial-gop-future-incitement-insurrection-capitol-riots-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-impeachment-senate-trial-gop-future-incitement-insurrection-capitol-riots-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 120
-    images:
-      - url: "https://i.insider.com/6010718e1d2df20018b70f64?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Impeachment needed to bar Trump from running for federal office: Rep. Joaquin Castro"
     excerpt: "House impeachment managers are prepared to chase every single Senate vote in an attempt to convict President Donald Trump for inciting insurrection, Rep. Joaquin Castro, D-Texas, said on ABC's \"This Week\" Sunday."
@@ -447,22 +319,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Republican senator calls Trump impeachment 'appropriate' as focus shifts to Senate – live"
-    excerpt: "Trump’s impeachment in the House triggers a trial in the Senate, which McConnell says can’t begin until Senate is back in session"
-    publishedDateTime: 2021-01-14T22:35:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/14/donald-trump-impeachment-congress-senate-joe-biden-mitch-mcconnell-coronavirus-covid-live-updates?page=with:block-6000c5448f08f56eefd20fb6"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/14/donald-trump-impeachment-congress-senate-joe-biden-mitch-mcconnell-coronavirus-covid-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/14/donald-trump-impeachment-congress-senate-joe-biden-mitch-mcconnell-coronavirus-covid-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 116
-    images:
-      - url: "https://i.guim.co.uk/img/media/d6a434cb96b042551370faaa1242a3eb1a2b426c/0_74_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=86464133e853da2e6dd68d48d008dc1e"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Donald Trump Gives First Public Remarks Since Leaving Office as Impeachment Trial Delayed"
     excerpt: "Former President Donald Trump gave nothing away about his future plans in his first public remarks since leaving the White House on Friday, as Senate leadership delayed his impeachment trial for two weeks."
     publishedDateTime: 2021-01-23T23:51:00Z
@@ -478,6 +334,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1714811/trump-arriving-florida-january-20.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Politics live updates: House members deliver Trump impeachment charge to Senate for trial"
+    excerpt: "House prosecutors walked the article of impeachment against former President Donald Trump to the Senate on Monday night, setting the stage for a trial to begin Feb. 9. Nine House members led by Rep."
+    publishedDateTime: 2021-01-25T18:42:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/25/politics-live-updates-trump-impeachment-article-goes-senate/6698416002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6698416002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6698416002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/26/USAT/64cd4e1d-775b-497f-9721-1a08ed5c3881-XXX_USATODAY_446699_jmg_30543.JPG?auto=webp&crop=1999,1124,x0,y125&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "U.S. House to bring Trump incitement charge to Senate, launching second impeachment trial"
     excerpt: "The U.S. House of Representatives on Monday will formally charge ex-President Donald Trump with inciting insurrection in a fiery speech to his followers before this month's deadly attack on the Capitol,"
@@ -526,38 +398,6 @@ related:
       - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210121&t=2&i=1548626984&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0K1EA"
         width: 855
         height: 545
-        isCached: true
-  - title: "Nearly all GOP senators vote against impeachment trial for Trump, signaling likely acquittal"
-    excerpt: "Sen. Rand Paul (R-Ky.) offered a procedural objection questioning the constitutionality of impeaching a former president, and it won the backing of all but 5 Republicans."
-    publishedDateTime: 2021-01-27T04:18:00Z
-    webUrl: "https://www.washingtonpost.com/politics/gop-senators-to-question-basis-for-trump-impeachment-signaling-likely-acquittal/2021/01/26/cd7397dc-6002-11eb-9061-07abcc1f9229_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/gop-senators-to-question-basis-for-trump-impeachment-signaling-likely-acquittal/2021/01/26/cd7397dc-6002-11eb-9061-07abcc1f9229_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/gop-senators-to-question-basis-for-trump-impeachment-signaling-likely-acquittal/2021/01/26/cd7397dc-6002-11eb-9061-07abcc1f9229_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 114
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IMAXTRTAAYI6XILXO5S7FGUVEQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "GOP Sen. Rob Portman says Trump impeachment trial post-presidency could set a dangerous precedent"
-    excerpt: "Republican Sen. Rob Portman of Ohio explains why he joined 44 other Republicans to reject the constitutionality of impeaching former President Donald Trump."
-    publishedDateTime: 2021-01-29T06:54:00Z
-    webUrl: "https://www.cnbc.com/2021/01/28/gop-sen-says-trump-impeachment-trial-could-set-a-dangerous-precedent.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/01/28/gop-sen-says-trump-impeachment-trial-could-set-a-dangerous-precedent.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/28/gop-sen-says-trump-impeachment-trial-could-set-a-dangerous-precedent.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 112
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106829332-1611590056858-gettyimages-1230674125-SENATE_MAYORKAS.jpeg?v=1611590145"
-        width: 6000
-        height: 4000
         isCached: true
   - title: "As the numbers suggest a Trump acquittal, Senators explore censure and brace for impeachment trial"
     excerpt: "Senate Democrats explored how to make their impeachment case against former President Donald Trump a day after a vote suggested he will be acquitted."
@@ -679,20 +519,6 @@ related:
         width: 1440
         height: 1100
         isCached: true
-  - title: "Presiding senator in Trump impeachment trial hospitalized after senators sworn in as jurors"
-    excerpt: "The Senate is preparing for an unprecedented second impeachment trial for former President Donald Trump. Nikole Killion reports on the developing events inside the chamber and if there is any likelihood to convict."
-    publishedDateTime: 2021-01-27T13:08:00Z
-    webUrl: "https://www.cbsnews.com/video/presiding-senator-in-trump-impeachment-trial-hospitalized-after-senators-sworn-in-as-jurors/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 95
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/27/943dc32f-6cc9-4c24-a0e8-aa532c8db235/thumbnail/1200x630/027f3a4c5a04a12013d87b31d1bbe91b/cbsn-fusion-presiding-senator-in-trump-impeachment-trial-hospitalized-after-senators-sworn-in-as-jurors-thumbnail-633981-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Senators are working on a bipartisan resolution to censure Trump as it becomes more likely he'll be acquitted in impeachment trial"
     excerpt: "Kaine told reporters that there \"maybe a little more interest now\" in the move after an overwhelming majority of Republicans on Tuesday hinted they likely won't convict Trump. The Virginia Democrat argued that a censure resolution could be a better use of the Senate 's time."
     publishedDateTime: 2021-01-27T18:47:00Z
@@ -737,24 +563,6 @@ related:
         width: 1200
         height: 674
         isCached: true
-  - title: "Trump's Impeachment Goes to the Senate, Testing His Sway Over the GOP"
-    excerpt: "Republican senators are easing off criticism of Trump and shunning calls to convict him over the U.S. Capitol siege"
-    publishedDateTime: 2021-01-26T01:49:00Z
-    webUrl: "https://time.com/5933346/trump-impeachment-senate/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 85
-  - title: "Trump impeachment: after term is over, is there precedent? You asked, we answered."
-    excerpt: "Trump impeachment: is impeachment after term is over a possibility? What's the precedent? Your impeachment questions, answered on States of America."
-    publishedDateTime: 2021-01-16T06:39:00Z
-    webUrl: "https://www.usatoday.com/videos/news/politics/statesofamerica/2021/01/15/trump-impeachment-after-term-over-precedent/4179295001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 79
   - title: "Liz Cheney faces Wyoming backlash for Trump impeachment vote"
     excerpt: "Just before a mob unleashed a deadly rampage on the U.S. Capitol, President Donald Trump told tens of thousands of supporters that “we got to get rid” of Rep. Liz Cheney. The Wyoming congresswoman and No."
     publishedDateTime: 2021-01-19T03:26:00Z
@@ -803,38 +611,6 @@ related:
         width: 1024
         height: 732
         isCached: true
-  - title: "What happens next for Donald Trump’s impeachment trial?"
-    excerpt: "Former US president Donald Trump’s historic second impeachment trial starts in February, but the process really begins January 25, when the House sends the article of impeachment to the Senate ..."
-    publishedDateTime: 2021-01-25T05:43:00Z
-    webUrl: "https://www.scmp.com/news/world/united-states-canada/article/3119099/what-happens-next-donald-trumps-impeachment-trial"
-    ampWebUrl: "https://amp.scmp.com/news/world/united-states-canada/article/3119099/what-happens-next-donald-trumps-impeachment-trial"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/united-states-canada/article/3119099/what-happens-next-donald-trumps-impeachment-trial"
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 75
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_explainer/public/d8/images/methode/2021/01/25/dc65f5ea-5ec8-11eb-9099-aaa38b7b3943_image_hires_170902.jpg?itok=OwKn4PLR&v=1611565752"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Second Donald Trump impeachment: House delivers charge to Senate"
-    excerpt: "Democrats marched the impeachment case against Donald Trump to the Senate Monday night for the start of his historic trial, but Republican senators were easing off their criticism of the former president and shunning calls to convict him over the deadly siege at the U."
-    publishedDateTime: 2021-01-25T23:07:00Z
-    webUrl: "https://www.al.com/politics/2021/01/second-donald-trump-impeachment-house-delivers-charge-to-senate.html"
-    ampWebUrl: "https://www.al.com/politics/2021/01/second-donald-trump-impeachment-house-delivers-charge-to-senate.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/politics/2021/01/second-donald-trump-impeachment-house-delivers-charge-to-senate.html?outputType=amp"
-    type: article
-    provider:
-      name: al.com
-      domain: al.com
-    quality: 75
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/Q3WCHWBDGJGDXHN5U2NV7WUYZM.jpg"
-        width: 5800
-        height: 3951
-        isCached: true
   - title: "What’s Next For Trump? His Plans As Impeachment Article Hits Senate"
     excerpt: "Former President Donald Trump is opening a new office in Florida on Monday that will carry on his admininstration's administration, an announcement he made as the House delivered a single article of impeachment to the Senate."
     publishedDateTime: 2021-01-26T12:26:00Z
@@ -850,22 +626,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/25/former-president-donald-trump-faces-an-impeachment-trial.jpg"
         width: 1024
         height: 696
-        isCached: true
-  - title: "QAnon Shaman willing to testify at Trump impeachment trial"
-    excerpt: "Lawyer Albert Watkins said he hasn’t spoken to any member in the Senate since announcing his offer to have Jacob Chansley testify at Trump’s trial."
-    publishedDateTime: 2021-01-29T02:10:00Z
-    webUrl: "https://www.al.com/news/2021/01/qanon-shaman-willing-to-testify-at-trump-impeachment-trial.html"
-    ampWebUrl: "https://www.al.com/news/2021/01/qanon-shaman-willing-to-testify-at-trump-impeachment-trial.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/qanon-shaman-willing-to-testify-at-trump-impeachment-trial.html?outputType=amp"
-    type: article
-    provider:
-      name: al.com
-      domain: al.com
-    quality: 75
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/5EB7SSF6F5DPRARI7R2CQC4O3E.jpg"
-        width: 1024
-        height: 683
         isCached: true
   - title: "Trump impeachment trial to begin week of Feb. 8 following Schumer, GOP agreement"
     excerpt: "Under the timeline, the House will transmit the impeachment article against Trump late Monday, with initial proceedings Tuesday."
@@ -912,20 +672,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/22/former-us-president-donald-trump-seen-here-leaving.jpg"
         width: 1024
         height: 696
-        isCached: true
-  - title: "Trump Impeachment Article To Be Sent To Senate, Triggering Trial"
-    excerpt: "US House Speaker Nancy Pelosi is set to send the Senate a single article of impeachment Monday accusing Donald Trump of inciting the Capitol riot, formally triggering the first-ever impeachment trial of a former president."
-    publishedDateTime: 2021-01-25T05:45:00Z
-    webUrl: "https://www.ibtimes.com/trump-impeachment-article-be-sent-senate-triggering-trial-3129467"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/24/speaker-nancy-pelosi-is-set-to-send-the.jpg"
-        width: 1024
-        height: 714
         isCached: true
   - title: "Louisiana's Cassidy and Kennedy Diverge on Trump Impeachment"
     excerpt: "Louisiana’s two Republican U.S. senators are taking different approaches to the second impeachment trial against former President Donald Trump."

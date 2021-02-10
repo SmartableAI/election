@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump will visit his border wall on the heels of deadly Capitol Hill riot "
+    excerpt: "President Donald Trump will bookend his administration's focus on immigration with a trip to his signature border wall on the US-Mexico border, a visit on the heels of a deadly riot on Capitol Hill incited by the President as House Democrats prepare a second impeachment vote.\n    \n"
+    publishedDateTime: 2021-01-12T11:29:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/J0vV2aad09M/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/12/politics/trump-border-wall-capitol-hill/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/12/politics/trump-border-wall-capitol-hill/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201222230738-trump-media-final-days-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Prospects of convicting Trump erode as GOP grows vocal against Senate impeachment proceedings"
     excerpt: "The path in the Senate to convict Donald Trump is extremely slim, with a growing number of Republicans expressing confidence that the party will acquit the former President on a charge that he incited the deadly insurrection aimed at stopping President Joe Biden's electoral win.\n    \n"
     publishedDateTime: 2021-01-22T22:17:15Z

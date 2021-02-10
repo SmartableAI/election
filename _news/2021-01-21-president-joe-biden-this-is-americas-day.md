@@ -132,33 +132,19 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Biden will encourage vaccination of all people over 65, frontline workers"
-    excerpt: "The incoming administration of Democratic President-elect Joe Biden will seek to vaccinate all people over 65 and frontline workers, as Biden seeks to administer 100 million COVID-19 vaccines during his first 100 days in office."
-    publishedDateTime: 2021-01-16T02:18:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-vaccines/biden-will-encourage-vaccination-of-all-people-over-65-frontline-workers-idUSKBN29K2L5"
+  - title: "Biden administration vows to improve coronavirus response"
+    excerpt: "Through additional financial relief plans, faster vaccine distributions, and clear public messaging, the Biden administration is pledging to tackle the coronavirus pandemic. Skyler Henry has more on the Biden administration's efforts."
+    publishedDateTime: 2021-01-23T23:49:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-administration-vows-to-improve-coronavirus-response/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 104
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547981882&r=LYNXMPEH0E1IO&w=800"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "France's Le Maire: resolving trade sanctions is my priority for Biden administration"
-    excerpt: "French Finance Minister Bruno Le Maire said on Thursday that resolving transatlantic trade sanctions were his priority for dealings with the incoming administration of U.S. President-elect Joe Biden."
-    publishedDateTime: 2021-01-14T15:02:00Z
-    webUrl: "https://www.reuters.com/article/us-france-lemaire-usa/frances-le-maire-resolving-trade-sanctions-is-my-priority-for-biden-administration-idUSKBN29J15Q"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 98
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547761954&r=LYNXMPEH0D0LH&w=800"
-        width: 800
-        height: 533
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/23/aeb84055-2f4e-4960-b33d-2bd16d1a6371/thumbnail/1200x630/cf6482d89fb7f95a16f268c3ed0793ad/cbsn-fusion-biden-administration-vows-to-improve-coronavirus-response-thumbnail-632210-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "IWD/UzgSLCh0/jLZMqTzfKwgdtf6xx/2wx0ws2uR8neYavQTHhB3ODoBBsNPs/jMCjt2+eSha18oSbvsls+nM2qcO5uRBuh8LEwuURBlsQrvRKYXfmSQkjkuc07m5GnjHgUUku4Yi2zKUa4iPvrlZZCY5nLLDxWF8MnlrWHBvslIx4stsKZVqzsb8UpgLBncoVqbP9LZfroB4NS2bJX3U0Rddl+4tYKO2Ys9BvlhdbEfocjB+LgE4PijMLUGhYJmf7J3hBIDth/uu6L4mWbTpIJfg5dYoIZRbjr/c4TkJPfNk/pb8B9aQLQpKLqnkuf8hZWw6GJSnLixhkMmwxuSaxTvkHHOotFP+Ck01OviiaN/+jc6o+EijraXsqrXZtIazzLnM6cocaMrTbQ7J7KpgkUbVq5lSRFs3H25hso7YQoXpbYyzmdG2TwFBNFeL6OXsIybkUGtJy+O8Nmn7tsxixVcz26lHf05SE2CsOq8ZJgZKtVzh8ut+Sz+0EbEkEjkM5+kdmQkGZwBMKxvR3LIfA==;p2GHioNnSWUrcsv8Izxoqg=="

@@ -76,6 +76,54 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump, legal defense team part ways as Senate impeachment trial looms"
+    excerpt: "Former President Donald Trump and his legal team parted ways a little more than a week before his impeachment trial was scheduled to begin in the Senate on a charge that he incited the riot at the"
+    publishedDateTime: 2021-01-31T13:46:00Z
+    webUrl: "https://nypost.com/2021/01/31/trump-legal-defense-team-part-ways-as-senate-impeachment-trial-looms/"
+    ampWebUrl: "https://nypost.com/2021/01/31/trump-legal-defense-team-part-ways-as-senate-impeachment-trial-looms/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/31/trump-legal-defense-team-part-ways-as-senate-impeachment-trial-looms/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/donald-trump-18.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump Adds New Lawyers for Impeachment Trial After Lead Attorneys Exit"
+    excerpt: "David Schoen and Bruce Castor are set to lead former President Donald Trump’s defense at his Senate impeachment trial after his previous attorneys left the team."
+    publishedDateTime: 2021-02-01T06:31:00Z
+    webUrl: "https://www.wsj.com/articles/trump-adds-new-lawyers-for-impeachment-trial-after-lead-attorneys-exit-11612143087"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-adds-new-lawyers-for-impeachment-trial-after-lead-attorneys-exit-11612143087"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-adds-new-lawyers-for-impeachment-trial-after-lead-attorneys-exit-11612143087"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-292978/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Trump announces new impeachment legal defense team"
+    excerpt: "Former President Donald Trump announced his new impeachment legal team on Sunday night after parting ways with his previous lawyers due to a disagreement over his defense strategy. Trial lawyers"
+    publishedDateTime: 2021-02-01T01:23:00Z
+    webUrl: "https://nypost.com/2021/01/31/trump-announces-new-impeachment-legal-defense-team/"
+    ampWebUrl: "https://nypost.com/2021/01/31/trump-announces-new-impeachment-legal-defense-team/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/31/trump-announces-new-impeachment-legal-defense-team/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/trump-13.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Congress set to override Trump veto for first time in presidency"
     excerpt: "SMITH: OK, Steve Harrigan live from Atlanta for us, thank you. President Trump and President Joe Biden both expected to make appearances in Georgia on the eve of the election. To Peter Doocy now in Augusta, Georgia, for us on that -- Peter. something ..."
     publishedDateTime: 2021-02-01T18:42:00Z
@@ -123,22 +171,6 @@ related:
       - url: "https://images.wsj.net/im-293200/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Eric Trump, Don Jr. party with Vanilla Ice at Mar-a-Lago New Year’s bash"
-    excerpt: "President Trump skipped out on performances by ’90s pop-rapper Vanilla Ice, Beach Boys founder Mike Love and other throwback acts at a pricey Mar-a-Lago New Year’s Eve bash."
-    publishedDateTime: 2021-01-02T19:34:00Z
-    webUrl: "https://nypost.com/2021/01/02/eric-trump-don-jr-party-with-vanilla-ice-on-new-years/"
-    ampWebUrl: "https://nypost.com/2021/01/02/eric-trump-don-jr-party-with-vanilla-ice-on-new-years/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/02/eric-trump-don-jr-party-with-vanilla-ice-on-new-years/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 134
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/vanilla-ice.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
         isCached: true
   - title: "A Palm Beach Property Once Owned by Donald Trump Sells for Close to $140 Million"
     excerpt: "Now one of the most expensive homes ever sold nationwide, the waterfront lot was once part of Trump’s Maison de L’Amitie estate."

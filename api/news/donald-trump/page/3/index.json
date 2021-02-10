@@ -2,6 +2,277 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-28-vindictive-and-harsh-trump-impeachment-trial-wont-bode-well-for-democrats-historian-jay-winik.md",
+      "title": "'Vindictive' and 'harsh' Trump impeachment trial won't bode well for Democrats: Historian Jay Winik",
+      "excerpt": "The push by congressional Democrats to convict former President Donald Trump of impeachable offenses feels \"vindictive,\" and \"harsh,\" historian Jay Winik told \"Special Report\" Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/historian-jay-winik-trump-impeachment-trial-senate-filibuster",
+      "originalUrl": "https://www.foxnews.com/media/historian-jay-winik-trump-impeachment-trial-senate-filibuster",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/32cb91af-d1ac-4bad-991f-9bd146d20dce/ebd3a650-da0d-4fe8-8a9c-923fec42f48b/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/historian-jay-winik-trump-impeachment-trial-senate-filibuster.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/historian-jay-winik-trump-impeachment-trial-senate-filibuster.amp",
+      "publishedDateTime": "2021-01-27T16:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-27-report-israeli-settler-population-surged-during-trump-era.md",
+      "title": "Report: Israeli settler population surged during Trump era",
+      "excerpt": "A pro-settler group says Israel’s West Bank settler population has grown at a far higher rate than the country as a whole over the last four years",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/world/middle_east/report-israeli-settler-population-surged-during-trump-era/2021/01/27/411f2bde-6089-11eb-a177-7765f29a9524_story.html",
+      "originalUrl": "https://www.washingtonpost.com/world/middle_east/report-israeli-settler-population-surged-during-trump-era/2021/01/27/411f2bde-6089-11eb-a177-7765f29a9524_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/world/middle_east/report-israeli-settler-population-surged-during-trump-era/2021/01/27/411f2bde-6089-11eb-a177-7765f29a9524_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/middle_east/report-israeli-settler-population-surged-during-trump-era/2021/01/27/411f2bde-6089-11eb-a177-7765f29a9524_story.html?outputType=amp",
+      "publishedDateTime": "2021-01-27T02:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-27-trump-economic-aide-larry-kudlow-to-host-show-on-fox-business-network.md",
+      "title": "Trump economic aide Larry Kudlow to host show on Fox Business Network",
+      "excerpt": "Fox Corp's news division has hired Larry Kudlow, a former top economic adviser to ex-President Donald Trump, as a contributor to Fox News and host of a new weekday show on the Fox Business Network, the company said on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-fox-news-kudlow/trump-economic-aide-larry-kudlow-to-host-show-on-fox-business-network-idUSKBN29V2K3",
+      "originalUrl": "https://www.reuters.com/article/us-fox-news-kudlow/trump-economic-aide-larry-kudlow-to-host-show-on-fox-business-network-idUSKBN29V2K3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210126&t=2&i=1549158404&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0P1HY",
+          "width": 706,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29V2K3",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29V2K3",
+      "publishedDateTime": "2021-01-26T20:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-27-ex-drug-kingpin-and-death-row-records-founder-michael-harry-o-harris-weeps-thanks-trump-for-pardon.md",
+      "title": "Ex-drug kingpin and 'Death Row Records' founder Michael ‘Harry-O’ Harris weeps, thanks Trump for pardon",
+      "excerpt": "His was one of 73 pardons and 70 sentence commutations issued by Trump during his finals days in office last week. \"I appreciate Donald Trump, his children, his son-in-law. Whyever he did it, he did it, when so many others wouldn't do it,\" Harris said of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/us/drug-kingpin-death-row-records-michael-harry-o-harris-trump-pardon",
+      "originalUrl": "https://www.foxnews.com/us/drug-kingpin-death-row-records-michael-harry-o-harris-trump-pardon",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Michael-Harry-O-Harris.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/us/drug-kingpin-death-row-records-michael-harry-o-harris-trump-pardon.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/drug-kingpin-death-row-records-michael-harry-o-harris-trump-pardon.amp",
+      "publishedDateTime": "2021-01-26T19:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-oregon-republican-party-falsely-calls-us-capitol-riot-a-false-flag-meant-to-discredit-president-trump.md",
+      "title": "Oregon Republican Party falsely calls U.S. Capitol riot a ‘false flag’ meant to ‘discredit President Trump’",
+      "excerpt": "In a resolution from the Oregon GOP, the party falsely claims that the entire Capitol riot was a “false flag” staged to undermine President Donald Trump and silence his supporters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/nation/2021/01/26/oregon-republican-false-flag-capitol/",
+      "originalUrl": "https://www.washingtonpost.com/nation/2021/01/26/oregon-republican-false-flag-capitol/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WHSI4BGFHEI6VKBFQ4RAATSBKA.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/nation/2021/01/26/oregon-republican-false-flag-capitol/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2021/01/26/oregon-republican-false-flag-capitol/?outputType=amp",
+      "publishedDateTime": "2021-01-26T07:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-26-amid-absence-trump-sets-up-new-intra-party-battles-for-gop-the-note.md",
       "title": "Amid absence, Trump sets up new intra-party battles for GOP: The Note",
       "excerpt": "Trump's brand was built on disruption and the force of his own personality. Even through a quiet period, that disruption is set to continue into at least 2021 and 2022.",
@@ -218,7 +489,7 @@
       "originalUrl": "https://www.washingtonpost.com/nation/2021/01/25/deborah-birx-interview-trump-covid/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 185,
       "tags": null,
       "images": [
         {
@@ -270,7 +541,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-election-dominion/trump-lawyer-giuliani-faces-dominion-lawsuit-for-big-lie-election-fraud-claims-idUSKBN29U1CD",
       "featuredContent": null,
       "highlight": null,
-      "heat": 695,
+      "heat": 735,
       "tags": null,
       "images": [
         {
@@ -523,120 +794,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-25-trump-offers-first-remarks-since-leaving-office-well-do-something.md",
-      "title": "Trump offers first remarks since leaving office: 'We'll do something'",
-      "excerpt": "Former President Donald Trump was mysterious about his future plans in his first public remarks since leaving the White House earlier this week, but he suggested action is in the works, according to a report.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/trump-mum-on-future-in-first-remarks-since-leaving-white-house",
-      "originalUrl": "https://www.foxnews.com/politics/trump-mum-on-future-in-first-remarks-since-leaving-white-house",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0ea90d02-cd6e-457c-b53e-f2fb5331749a/299a153c-3c94-492a-ad8f-7b19470806e9/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-mum-on-future-in-first-remarks-since-leaving-white-house.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-mum-on-future-in-first-remarks-since-leaving-white-house.amp",
-      "publishedDateTime": "2021-01-24T13:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-25-abcs-this-week-edits-out-schumers-unfortunate-trump-gaffe-on-senate-floor.md",
-      "title": "ABC’s 'This Week' edits out Schumer’s unfortunate Trump gaffe on Senate floor",
-      "excerpt": "Democratic Senate leader Chuck Schumer was ridiculed on Friday for an unfortunate gaffe he made while criticizing former President Donald Trump’s supposed influence on the Jan. 6 Capitol riot. But Schumer’s error was conveniently edited out in a clip that aired Sunday on ABC’s “This Week.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/abcs-this-week-edits-out-schumers-gaffe",
-      "originalUrl": "https://www.foxnews.com/media/abcs-this-week-edits-out-schumers-gaffe",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/219f5b85-85d3-4586-8e42-e015f131035e/05980f72-2d65-4a8d-bcf0-d16c88e6dd3c/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/abcs-this-week-edits-out-schumers-gaffe.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/abcs-this-week-edits-out-schumers-gaffe.amp",
-      "publishedDateTime": "2021-01-24T12:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-01-25-mypillow-guy-among-the-trump-acolytes-looking-to-pick-up-where-he-left-off.md",
       "title": "MyPillow Guy among the Trump acolytes looking to pick up where he left off",
       "excerpt": "MINNEAPOLIS — When Mike Lindell, better known to TV viewers as the MyPillow Guy, went to the White House last week to try to persuade then-President Donald Trump to keep pushing bogus theories ...",
@@ -702,7 +859,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-trump-justice-idUSKBN29T0FS",
       "featuredContent": null,
       "highlight": null,
-      "heat": 853,
+      "heat": 893,
       "tags": null,
       "images": [
         {
@@ -954,21 +1111,21 @@
       ]
     },
     {
-      "path": "_news/2021-01-23-top-iran-leader-posts-trump-like-image-with-drone-vows-revenge.md",
-      "title": "Top Iran leader posts Trump-like image with drone, vows revenge",
-      "excerpt": "The website of Iran's Supreme Leader on Friday carried the image of a golfer resembling former President Donald Trump apparently being targeted by a drone alongside a threat of revenge over last year's killing of a top Iranian general in a U.",
+      "path": "_news/2021-01-23-mypillow-guy-among-the-trump-acolytes-picking-up-the-torch.md",
+      "title": "MyPillow Guy among the Trump acolytes picking up the torch",
+      "excerpt": "Mike Lindell, the businessman better known to the world as the MyPillow Guy, is weighing a run for governor in Minnesota",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-iran-twitter-khamenei-fake-idINKBN29R1YU",
-      "originalUrl": "https://www.reuters.com/article/us-iran-twitter-khamenei-fake-idINKBN29R1YU",
+      "webUrl": "https://abcnews.go.com/Business/wireStory/mypillow-guy-trump-acolytes-picking-torch-75444177",
+      "originalUrl": "https://abcnews.go.com/Business/wireStory/mypillow-guy-trump-acolytes-picking-torch-75444177",
       "featuredContent": null,
       "highlight": null,
-      "heat": 265,
+      "heat": 345,
       "tags": null,
       "images": [
         {
-          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20210123&t=2&i=1548797338&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0L1C2",
-          "width": 817,
-          "height": 545,
+          "url": "https://s.abcnews.com/images/Politics/WireAP_1aeb02288805488587306b003a97079d_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -976,16 +1133,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN29R1YU",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN29R1YU",
-      "publishedDateTime": "2021-01-23T05:13:00-08:00",
+      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/mypillow-guy-trump-acolytes-picking-torch-75444177",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/mypillow-guy-trump-acolytes-picking-torch-75444177",
+      "publishedDateTime": "2021-01-23T06:47:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
+        "name": "ABC",
+        "domain": "abcnews.go.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1063,25 +1220,21 @@
       ]
     },
     {
-      "path": "_news/2021-01-22-the-trump-implosion-auction-brought-to-you-by-a-republican.md",
-      "title": "The Trump implosion auction, brought to you by a Republican?",
-      "excerpt": "One of my favorite stories of the past month or so has been the auction to push the button to blow up Trump Plaza. We know that it won’t happen. But would you believe the idea actually originated with a Republican former elected official,",
+      "path": "_news/2021-01-22-top-iran-leader-posts-trump-like-golfer-image-vows-revenge.md",
+      "title": "Top Iran leader posts Trump-like golfer image, vows revenge",
+      "excerpt": "The Twitter account of Iran's Supreme Leader on Friday carried the image of a golfer resembling former President Donald Trump apparently being targeted by a drone, vowing revenge over the killing of a top Iranian general in a U.",
       "sourceUrl": null,
-      "webUrl": "https://www.politico.com/newsletters/new-jersey-playbook/2021/01/22/the-trump-implosion-auction-brought-to-you-by-a-republican-491489",
-      "originalUrl": "https://www.politico.com/newsletters/new-jersey-playbook/2021/01/22/the-trump-implosion-auction-brought-to-you-by-a-republican-491489",
+      "webUrl": "https://www.reuters.com/article/us-iran-khamenei-twitter-trump-idUSKBN29R0DE",
+      "originalUrl": "https://www.reuters.com/article/us-iran-khamenei-twitter-trump-idUSKBN29R0DE",
       "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 115,
+      "highlight": null,
+      "heat": 565,
       "tags": null,
       "images": [
         {
-          "url": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
-          "width": 1120,
-          "height": 629,
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210122&t=2&i=1548662508&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0L075",
+          "width": 789,
+          "height": 545,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1089,16 +1242,124 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-22T03:55:00-08:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29R0DE",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29R0DE",
+      "publishedDateTime": "2021-01-22T00:17:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-22-justice-dept-watchdog-to-examine-abrupt-departure-of-atlanta-us-attorney-whom-trump-appeared-to-criticize.md",
+      "title": "Justice Dept. watchdog to examine abrupt departure of Atlanta U.S. attorney whom Trump appeared to criticize",
+      "excerpt": "Byung J. “BJay” Pak suddenly stepped down earlier this month as then-President Trump waged a pressure campaign on Georgia officials over the election.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/national-security/trump-atlanta-us-attorney-inspector-general/2021/01/21/2cc24d1e-5c39-11eb-b8bd-ee36b1cd18bf_story.html",
+      "originalUrl": "https://www.washingtonpost.com/national-security/trump-atlanta-us-attorney-inspector-general/2021/01/21/2cc24d1e-5c39-11eb-b8bd-ee36b1cd18bf_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UFERJ5SPQ4I6XPNEMFNK57IFKU.jpg&w=1440",
+          "width": 1440,
+          "height": 992,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/national-security/trump-atlanta-us-attorney-inspector-general/2021/01/21/2cc24d1e-5c39-11eb-b8bd-ee36b1cd18bf_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/trump-atlanta-us-attorney-inspector-general/2021/01/21/2cc24d1e-5c39-11eb-b8bd-ee36b1cd18bf_story.html?outputType=amp",
+      "publishedDateTime": "2021-01-21T18:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-22-facebook-refers-trump-account-suspension-to-oversight-board.md",
+      "title": "Facebook Refers Trump Account Suspension to Oversight Board",
+      "excerpt": "The social-media company said a decision from its independent panel on the matter—the biggest issue it has tackled since being set up last year—would be binding.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/facebook-refers-trump-account-suspension-to-oversight-board-11611251506",
+      "originalUrl": "https://www.wsj.com/articles/facebook-refers-trump-account-suspension-to-oversight-board-11611251506",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-282048/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/facebook-refers-trump-account-suspension-to-oversight-board-11611251506",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facebook-refers-trump-account-suspension-to-oversight-board-11611251506",
+      "publishedDateTime": "2021-01-21T18:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1116,7 +1377,7 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Democratic Voice"
+        "Republican Voice"
       ]
     },
     {
@@ -1128,7 +1389,7 @@
       "originalUrl": "https://www.washingtonpost.com/world/europe/nato-stoltenberg-trump-biden/2021/01/21/e9bb2dae-5b5e-11eb-a849-6f9423a75ffd_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 140,
+      "heat": 120,
       "tags": null,
       "images": [
         {
@@ -1180,7 +1441,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-trump-impeachment-trial/trump-impeachment-trial-likely-in-mid-february-republican-senator-idUSKBN29Q30X",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1305,
+      "heat": 965,
       "tags": null,
       "images": [
         {
@@ -1330,281 +1591,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-are-you-qanon-one-trump-officials-brush-with-an-internet-cult-gone-horribly-wrong.md",
-      "title": "‘Are you QAnon?’: One Trump official’s brush with an internet cult gone horribly wrong",
-      "excerpt": "Some believed he was “Q,” the mythical figure behind an intricate and sprawling conspiracy theory. Here Ezra Cohen-Watnick, a senior Trump intelligence official, shares the story of his ordeal for the first time.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/01/19/qanon-trump-ezra-cohen-watnick-460520",
-      "originalUrl": "https://www.politico.com/news/2021/01/19/qanon-trump-ezra-cohen-watnick-460520",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/b8/1b/96060a344ea9a033e49cc31eddfa/210119-ezra-cohen-ap-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-20T14:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-a-total-failure-the-proud-boys-now-mock-trump.md",
-      "title": "‘A Total Failure’: The Proud Boys Now Mock Trump",
-      "excerpt": "Members of the far-right group, who were among Donald Trump’s staunchest fans, are calling him “weak,” in a sign of fraying support.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/01/20/technology/proud-boys-trump.html",
-      "originalUrl": "https://www.nytimes.com/2021/01/20/technology/proud-boys-trump.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/01/20/business/20noproudboys1/20noproudboys1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/01/20/technology/proud-boys-trump.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/20/technology/proud-boys-trump.amp.html",
-      "publishedDateTime": "2021-01-20T11:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-donald-trump-grants-clemency-to-legendary-las-vegas-gambler-billy-walters.md",
-      "title": "Donald Trump grants clemency to legendary Las Vegas gambler Billy Walters",
-      "excerpt": "Famed sports gambler Billy Walters was among the 143 people to which outgoing President Donald Trump granted clemency in his final day in office.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/gambling/sns-actnet-donald-trump-clemency-las-vegas-gambler-billy-walters-20210120-5gdsjalegjbsdjbtizyqf6c7qq-story.html",
-      "originalUrl": "https://www.chicagotribune.com/gambling/sns-actnet-donald-trump-clemency-las-vegas-gambler-billy-walters-20210120-5gdsjalegjbsdjbtizyqf6c7qq-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/2t16n8Mz9CcYaGATnLGU-glOYJs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KOZBWRJWBJHHPENSR4ZSMVOI4M.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/gambling/sns-actnet-donald-trump-clemency-las-vegas-gambler-billy-walters-20210120-5gdsjalegjbsdjbtizyqf6c7qq-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/gambling/sns-actnet-donald-trump-clemency-las-vegas-gambler-billy-walters-20210120-5gdsjalegjbsdjbtizyqf6c7qq-story.html?outputType=amp",
-      "publishedDateTime": "2021-01-20T09:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-how-the-government-will-thoroughly-clean-and-disinfect-white-house-furniture-door-knobs-and-light-switches-after-trump-leaves.md",
-      "title": "How the government will 'thoroughly clean and disinfect' White House furniture, door knobs, and light switches after Trump leaves",
-      "excerpt": "The Trump White House has been a hot spot for coronavirus infections. Joe Biden and his team will want to clean up before moving in.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/biden-white-house-inauguration-trump-coronavirus-disinfection-2020-12",
-      "originalUrl": "https://www.businessinsider.com/biden-white-house-inauguration-trump-coronavirus-disinfection-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fc827f450e71a001155893f?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-20T08:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-kirstie-alley-slams-katie-couric-over-comments-about-needing-to-deprogram-donald-trumps-supporters.md",
-      "title": "Kirstie Alley slams Katie Couric over comments about needing to 'deprogram' Donald Trump's supporters",
-      "excerpt": "Kirstie Alley fired back at Katie Couric over comments she made on Bill Maher’s show about the need to “deprogram” Donald Trump's supporters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/entertainment/kirstie-alley-katie-couric-deprogram-donald-trump-supporters",
-      "originalUrl": "https://www.foxnews.com/entertainment/kirstie-alley-katie-couric-deprogram-donald-trump-supporters",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Alley-Couric-Getty-AP.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/entertainment/kirstie-alley-katie-couric-deprogram-donald-trump-supporters.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/kirstie-alley-katie-couric-deprogram-donald-trump-supporters.amp",
-      "publishedDateTime": "2021-01-20T07:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

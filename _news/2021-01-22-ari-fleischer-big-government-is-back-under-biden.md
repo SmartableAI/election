@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/ari-fleischer-big-government-is-bac
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ari-fleischer-big-government-is-back-under-biden.amp"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden team forced to walk back, clarify president's coronavirus statements"
+    excerpt: "President Biden was never shy of criticizing former President Trump for his messaging on coronavirus, but just over a week into his presidency his administration is already walking back statements he has made about the pandemic and vaccine rollout."
+    publishedDateTime: 2021-01-28T16:36:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KaGjS7SL3qw/biden-team-clarifies-president-coronavirus-statements"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-team-clarifies-president-coronavirus-statements.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-team-clarifies-president-coronavirus-statements.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7155937b-2402-46a2-803b-81e07a3dbd1c/25b324de-91ea-401d-a3e2-1ec415d22749/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Fauci backs CDC research on reopening schools dismissed by Biden chief of staff"
     excerpt: "Dr. Anthony Fauci backed new Centers for Disease Control and Prevention (CDC) findings that suggest schools can reopen safely during the coronavirus pandemic, despite President Biden's chief of staff previously downplaying the positive scientific research. "
     publishedDateTime: 2021-01-29T17:25:19Z

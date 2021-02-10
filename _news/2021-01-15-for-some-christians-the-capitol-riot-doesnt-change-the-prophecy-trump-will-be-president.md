@@ -31,145 +31,141 @@ images:
     isCached: true
 
 related:
-  - title: "Capitol riots: Boris Johnson condemns Donald Trump for sparking events"
-    excerpt: "Donald Trump was \"completely wrong\" to cast doubt on the US election and encourage supporters to storm the Capitol, Boris Johnson has said. The UK prime minister said he \"unreservedly condemns\" the US president's actions."
-    publishedDateTime: 2021-01-07T18:12:00Z
-    webUrl: "https://www.bbc.com/news/amp/uk-politics-55580806"
-    ampWebUrl: "https://www.bbc.com/news/amp/uk-politics-55580806"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-politics-55580806"
+  - title: "Majority of Americans Think History Will View Trump as 'Failed' President"
+    excerpt: "Evaluating a president's time in office often requires a rearview mirror. While history has yet to weigh in on President Donald Trump's time in office, Americans don't see President Donald Trump receiving positive remarks down the road. After a contentious ..."
+    publishedDateTime: 2021-01-18T15:48:00Z
+    webUrl: "https://www.newsweek.com/majority-americans-think-history-will-view-trump-failed-president-1562394"
+    ampWebUrl: "https://www.newsweek.com/majority-americans-think-history-will-view-trump-failed-president-1562394?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/majority-americans-think-history-will-view-trump-failed-president-1562394?amp=1"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
-    quality: 125
+      name: Newsweek
+      domain: newsweek.com
+    quality: 124
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/E4E6/production/_116389585_johnsontrump.jpg"
-        width: 1024
-        height: 576
+      - url: "https://d.newsweek.com/en/full/1710407/trump-history-americans-failed-president.jpg"
+        width: 2500
+        height: 1667
         isCached: true
-  - title: "U.S. lawmaker says she is drawing up impeachment papers on Trump after mobs storm Capitol"
-    excerpt: "A Democratic congresswoman on Wednesday said she was drawing up articles of impeachment against President Donald Trump after mobs broke into the U.S. Capitol"
-    publishedDateTime: 2021-01-07T04:02:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-trump-impeachment-idUSKBN29B310"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29B310"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29B310"
+  - title: "Slim majority of Americans want Senate to convict Trump: Reuters/Ipsos poll"
+    excerpt: "A slim majority of Americans say former President Donald Trump should be convicted by the Senate of inciting an insurrection and barred from holding public office, according to a Reuters/Ipsos poll, which showed a sharp partisan divide over the issue."
+    publishedDateTime: 2021-01-23T02:24:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-poll-idUSKBN29R2M9"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29R2M9"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29R2M9"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 116
+    quality: 123
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1546907676&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH060AS"
-        width: 766
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210122&t=2&i=1548764158&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0L1IU"
+        width: 804
         height: 545
         isCached: true
-  - title: "Companies backed Trump for years. Now they’re facing a reckoning after the attack on the Capitol."
-    excerpt: "The once-comfortable alliance between Trump and Corporate America has shown unprecedented strain since Wednesday’s attack, forcing a re-examination of everything that businesses had won over the last four years from a White House now thrown into chaos."
-    publishedDateTime: 2021-01-09T18:58:00Z
-    webUrl: "https://www.washingtonpost.com/business/2021/01/08/trump-policies-corporate-america/"
-    ampWebUrl: "https://www.washingtonpost.com/business/2021/01/08/trump-policies-corporate-america/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/01/08/trump-policies-corporate-america/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 112
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GEGWWTBJTQI6RIRH7UVQBFDGXQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Wis. congressman unsure Trump to blame for riot"
-    excerpt: "Wisconsin’s newest member of Congress says he doesn't know if President Donald Trump was to blame for inciting the riot at the U.S. Capitol and wants a full investigation to find out what motivated the mob."
-    publishedDateTime: 2021-01-14T20:40:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/01/14/wis-congressman-unsure-trump-blame-riot/4164374001/"
+  - title: "USA TODAY/Suffolk Poll: Americans, braced for violence at the inauguration, see democracy damaged after Trump"
+    excerpt: "A new USA TODAY/Suffolk Poll finds President Trump's standing has eroded since the U.S. Capitol riot. A majority predict violence at Joe Biden's inauguration."
+    publishedDateTime: 2021-01-17T14:43:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/17/trump-hurt-democracy-violence-feared-inauguration-poll/4165750001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4165750001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4165750001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 105
+    quality: 106
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/fbec4f30-a9cc-4b07-901d-0e8aa0333043_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://www.gannett-cdn.com/presto/2021/01/14/USAT/58d3db56-ae52-4500-9485-aa58d36fc8f2-USATSI_15428849.jpg?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "READ: House Democrats release a scathing 50-page report in favor of impeaching Trump for inciting deadly Capitol riots"
-    excerpt: "Trump is set to leave office on January 20, but Democrats contend that he poses an \"imminent threat\" to the nation's safety."
-    publishedDateTime: 2021-01-13T02:33:00Z
-    webUrl: "https://www.businessinsider.com/read-house-democrats-impeachment-report-for-trump-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/read-house-democrats-impeachment-report-for-trump-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/read-house-democrats-impeachment-report-for-trump-2021-1?amp"
+  - title: "Analysis - Trump's legacy: A more divided America, a more unsettled world"
+    excerpt: "Closing out his presidency exactly four years later, Trump leaves behind an even more polarized America, where thousands are dying daily from the COVID-19 pandemic, the economy is badly damaged and political violence has surged."
+    publishedDateTime: 2021-01-19T12:15:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-legacy/analysis-trumps-legacy-a-more-divided-america-a-more-unsettled-world-idUSL1N2JS0KO"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 104
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548297890&r=LYNXMPEH0I0O7&w=800"
+        width: 800
+        height: 547
+        isCached: true
+  - title: "Analysis - Trump's legacy: A more divided America, a more unsettled world"
+    excerpt: "Closing out his presidency exactly four years later, Trump leaves behind an even more polarized America, where thousands are dying daily from the COVID-19 pandemic, the economy is badly damaged and political violence has surged."
+    publishedDateTime: 2021-01-19T16:35:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-legacy-analysis/analysis-trumps-legacy-a-more-divided-america-a-more-unsettled-world-idUSKBN29O15W?post"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 104
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548297890&r=LYNXMPEH0I0O7&w=800"
+        width: 800
+        height: 547
+        isCached: true
+  - title: "Trump laid out a vision for America in his inaugural address 4 years ago. He has come nowhere near realizing it."
+    excerpt: "President Trump will leave office with more Americans out of work than when he started, and with the US's international reputation damaged."
+    publishedDateTime: 2021-01-19T22:44:00Z
+    webUrl: "https://www.businessinsider.com/trump-inauguration-address-vision-not-realized-not-aged-well-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/trump-inauguration-address-vision-not-realized-not-aged-well-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-inauguration-address-vision-not-realized-not-aged-well-2021-1?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 101
+    quality: 104
     images:
-      - url: "https://i.insider.com/5ff5f5f5d184b30018aad517?width=1200&format=jpeg"
+      - url: "https://i.insider.com/6006a71ce3d62500185fd109?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Seth Meyers Rips Donald Trump After Capitol Riots: 'The President Wanted This'"
-    excerpt: "Talk show host Seth Meyers slammed President Donald Trump and the rioters for an attempt to destroy the American democracy by breaching Capitol Hill Wednesday."
-    publishedDateTime: 2021-01-08T06:22:00Z
-    webUrl: "https://www.ibtimes.com/seth-meyers-rips-donald-trump-after-capitol-riots-president-wanted-3117225"
-    ampWebUrl: "https://www.ibtimes.com/seth-meyers-rips-donald-trump-after-capitol-riots-president-wanted-3117225?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/seth-meyers-rips-donald-trump-after-capitol-riots-president-wanted-3117225?amp=1"
+  - title: "Most Americans Want Trump Gone From Politics, Poll Says"
+    excerpt: "A slim majority of Americans want to see Trump charged with the incitement of the mob that attacked the Capitol Building, which would bar him from holding public office if convict"
+    publishedDateTime: 2021-01-15T15:21:00Z
+    webUrl: "https://www.ibtimes.com/most-americans-want-trump-gone-politics-poll-says-3123261"
+    ampWebUrl: "https://www.ibtimes.com/most-americans-want-trump-gone-politics-poll-says-3123261?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/most-americans-want-trump-gone-politics-poll-says-3123261?amp=1"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
-    quality: 71
+    quality: 75
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/08/seth-meyers.jpg"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/14/us-president-donald-trump-owns-the-unfortunate-distinction.jpg"
         width: 1024
-        height: 681
+        height: 682
         isCached: true
-  - title: "Donald Trump Slammed On Twitter For Saying Capitol Rioters Didn't Represent The Country"
-    excerpt: "Donald Trump said the rioters at the Capitol did not represent the American public, and Twitter users agreed saying the violent protesters represented him."
-    publishedDateTime: 2021-01-08T06:29:00Z
-    webUrl: "https://www.ibtimes.com/donald-trump-slammed-twitter-saying-capitol-rioters-didnt-represent-country-3117207"
-    ampWebUrl: "https://www.ibtimes.com/donald-trump-slammed-twitter-saying-capitol-rioters-didnt-represent-country-3117207?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-slammed-twitter-saying-capitol-rioters-didnt-represent-country-3117207?amp=1"
+  - title: "EU Chiefs Express Relief As 'Friend' Replaces Trump"
+    excerpt: "The European Union's top officials expressed relief on Wednesday that they would again have a friend in the White House as Joe Biden replaces Donald Trump. Charles Michel, president of the European Council,"
+    publishedDateTime: 2021-01-20T09:09:00Z
+    webUrl: "https://www.ibtimes.com/eu-chiefs-express-relief-friend-replaces-trump-3126426"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
-    quality: 67
+    quality: 55
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/28/us-president-donald-trump-is-facing-a-potential.jpg"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/20/von-der-leyen-compared-the-us-riot-to-AFP_8Z66KB.jpg"
         width: 1024
-        height: 661
+        height: 682
         isCached: true
-  - title: "The ‘treason finale’ of the Donald Trump era: Late night hosts react to U.S. Capitol riots"
-    excerpt: "Late night television hosts often give their take the days events with humor. But Wednesday night was no laughing matter as Jimmy Fallon, Stephen Colbert and their fellow network hosts reacted to the mob of violent Trump supporters storming the U."
-    publishedDateTime: 2021-01-07T23:44:00Z
-    webUrl: "https://www.al.com/life/2021/01/the-treason-finale-of-the-donald-trump-era-late-night-hosts-react-to-us-capitol-riots.html"
-    ampWebUrl: "https://www.al.com/life/2021/01/the-treason-finale-of-the-donald-trump-era-late-night-hosts-react-to-us-capitol-riots.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/life/2021/01/the-treason-finale-of-the-donald-trump-era-late-night-hosts-react-to-us-capitol-riots.html?outputType=amp"
+  - title: "From the border to the federal bench to raging political divisions: How Donald Trump's tenure has changed America"
+    excerpt: "No matter what Trump does now, his past four years have left a mark on immigration, the federal bench and the nation's raging political divisions."
+    publishedDateTime: 2021-01-18T23:23:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/2021/01/18/heres-how-trumps-tumultuous-four-years-president-changed-america/4165708001/"
     type: article
     provider:
-      name: al.com
-      domain: al.com
-    quality: 65
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 34
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/RUUVL3H7NBD4LDLRK2P52HXIQI.PNG"
-        width: 718
-        height: 464
-        isCached: true
-  - title: "Who Is Jake Angeli? QAnon Follower, Trump Supporter Who Wore Horns And Fur Charged In Capitol Riots"
-    excerpt: "Jake Angeli, who was among the more visible rioters on Wednesday, has been arrested in connection to the Capitol riot."
-    publishedDateTime: 2021-01-10T18:28:00Z
-    webUrl: "https://www.ibtimes.com/who-jake-angeli-qanon-follower-trump-supporter-who-wore-horns-fur-charged-capitol-3118394"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 41
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/09/supporters-of-us-president-donald-trump-including-member.jpg"
-        width: 1024
-        height: 695
+      - url: "https://www.gannett-cdn.com/presto/2021/01/12/USAT/d9fcae70-ecb3-4fa7-ba54-bd90bcd378e0-AP21012563654909.jpg?crop=5999,3374,x1,y626&width=3200&height=1680&fit=bounds"
+        width: 2987
+        height: 1680
         isCached: true
 
 secured: "SH0II9ssVkS7XVyVZMA+qmD0OsZg6htV3D0qNMQO8Wp55YLZ3j5AGtUyli0geI7EqkiJ8bkbf7bUoozDUvSaun36rLM0rm7nh79HI7Z9dhZeTyo6lNlWMEMibHquAWYqMgb5DQ0I2Uw/QydJ194HvEfFbYYL0rgZLILmlpCXRvE/5igkcy9ZHPuVhzlbzY7cvfuJ5X+/y5BvAwsS9c4a9QUrqPEzcdVG3nphd9nK/1y+jJIk6ryLdRvBUE/dCvK/qocss1ej5sHQbzOb1MyV9qqx0j6E+OGU/Wpn+idY7VfkqvbqC1xjON+C9wZBv6Us1LjCI8GVdNT8S+4zFRk4wlKDWDcbrfLyJntNWy3o4qc=;fgJrFgelZ9uCWc0i2+CrJQ=="

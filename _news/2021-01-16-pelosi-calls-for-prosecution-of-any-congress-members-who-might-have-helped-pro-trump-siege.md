@@ -29,111 +29,170 @@ images:
     isCached: true
 
 related:
-  - title: "NY prosecutors interview Michael Cohen about Trump finances"
-    excerpt: "New York prosecutors conducted an hours-long interview Thursday of Michael Cohen, President Donald Trump’s former attorney"
-    publishedDateTime: 2021-01-16T02:50:00Z
-    webUrl: "https://www.washingtonpost.com/business/ny-prosecutors-interview-michael-cohen-about-trump-finances/2021/01/15/a6b6b334-577b-11eb-acc5-92d2819a1ccb_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/business/ny-prosecutors-interview-michael-cohen-about-trump-finances/2021/01/15/a6b6b334-577b-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/ny-prosecutors-interview-michael-cohen-about-trump-finances/2021/01/15/a6b6b334-577b-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+  - title: "GOP Lawmakers Beg Biden, Pelosi Not to Impeach Trump in the 'Spirit of Healing'"
+    excerpt: "\"A second impeachment, only days before President Trump will leave office, is as unnecessary as it is inflammatory,\" seven Republicans said in a letter to Biden."
+    publishedDateTime: 2021-01-10T02:01:00Z
+    webUrl: "https://www.newsweek.com/gop-lawmakers-beg-biden-pelosi-not-impeach-trump-spirit-healing-1560267"
+    ampWebUrl: "https://www.newsweek.com/gop-lawmakers-beg-biden-pelosi-not-impeach-trump-spirit-healing-1560267?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/gop-lawmakers-beg-biden-pelosi-not-impeach-trump-spirit-healing-1560267?amp=1"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
+      name: Newsweek
+      domain: newsweek.com
+    quality: 136
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://d.newsweek.com/en/full/1702346/ken-buck-donald-trump-rally.jpg"
+        width: 2500
+        height: 1667
         isCached: true
-  - title: "Trump decree on Covid visitors rebuffed as he enters final day"
-    excerpt: "US President-elect Joe Biden has moved to dismiss a new White House decree on Covid travel rules, as Donald Trump enters his final full day in office. In one of his last orders, Mr Trump had tried to end travel bans for visitors from much of Europe and Brazil."
-    publishedDateTime: 2021-01-19T10:05:00Z
-    webUrl: "https://www.bbc.com/news/world-us-canada-55713570"
-    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55713570"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55713570"
+  - title: "Trump impeachment live updates: Trump on track to be 1st president impeached twice"
+    excerpt: "Live updates during the transition from the Trump to Biden administrations -- and from the second Trump impeachment."
+    publishedDateTime: 2021-01-13T13:27:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-transition-trump-biden-impeachment/?id=75166132"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-transition-trump-biden-impeachment/?id=75166132"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-transition-trump-biden-impeachment/?id=75166132"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 119
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump6-gty-ml-210106_1609954173598_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "U.S. lawmaker says she is drawing up impeachment papers on Trump after mobs storm Capitol"
+    excerpt: "A Democratic congresswoman on Wednesday said she was drawing up articles of impeachment against President Donald Trump after mobs broke into the U.S. Capitol"
+    publishedDateTime: 2021-01-07T04:02:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump-impeachment-idUSKBN29B310"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29B310"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29B310"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 116
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1546907676&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH060AS"
+        width: 766
+        height: 545
+        isCached: true
+  - title: "Pelosi says House will impeach Trump, pushes VP to oust him"
+    excerpt: "House Speaker Nancy Pelosi says the House will proceed with legislation to impeach President Donald Trump as she pushes the vice president and the Cabinet to invoke constitutional authority force him out,"
+    publishedDateTime: 2021-01-11T14:27:00Z
+    webUrl: "https://www.businessinsider.com/pelosi-says-house-will-impeach-trump-pushes-vp-to-oust-him-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/pelosi-says-house-will-impeach-trump-pushes-vp-to-oust-him-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pelosi-says-house-will-impeach-trump-pushes-vp-to-oust-him-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "‘Impeaching Donald Trump will not heal divide in country'"
+    excerpt: "While there is a constitutional imperative and symbolism of impeaching President Donald Trump, it will not help heal divisions in the country, a former deputy homeland security adviser to president Barack Obama has said."
+    publishedDateTime: 2021-01-13T15:58:00Z
+    webUrl: "https://www.bbc.com/news/av/world-us-canada-55651929"
     type: article
     provider:
       name: BBC
       domain: bbc.com
-    quality: 125
+    quality: 105
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/12211/production/_116575247_mediaitem116575246.jpg"
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p093wyn3.jpg"
+        width: 400
+        height: 225
+        isCached: true
+  - title: "U.S. lawmakers' comments on impeachment of President Donald Trump"
+    excerpt: "Following are comments on the U.S. House of Representatives vote on Wednesday on the impeachment of President Donald Trump. Unless noted otherwise, remarks were made on the House floor."
+    publishedDateTime: 2021-01-14T01:54:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-quotes/us-lawmakers-comments-on-impeachment-of-president-donald-trump-idUSKBN29I20Q"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210113&t=2&i=1547688231&r=LYNXMPEH0C15H&w=800"
+        width: 800
+        height: 540
+        isCached: true
+  - title: "Pelosi and Schumer pledge quick action on Biden stimulus package"
+    excerpt: "U.S. House of Representatives Speaker Nancy Pelosi and Senate Democratic leader Chuck Schumer on Thursday said Congress would get right to work on President-elect Joe Biden's stimulus package."
+    publishedDateTime: 2021-01-14T22:44:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-stimulus-congress/pelosi-and-schumer-pledge-quick-action-on-biden-stimulus-package-idUSKBN29J2WO"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547843796&r=LYNXMPEH0D1N2&w=800"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "These GOP Senators May Vote To Impeach Trump; McConnell Leads The List"
+    excerpt: "Senate Majority Leader Mitch McConnell would need a two-thirds vote to convict Trump of inciting an insurrection and remove the president through impeachment."
+    publishedDateTime: 2021-01-15T04:59:00Z
+    webUrl: "https://www.ibtimes.com/these-gop-senators-may-vote-impeach-trump-mcconnell-leads-list-3122759"
+    ampWebUrl: "https://www.ibtimes.com/these-gop-senators-may-vote-impeach-trump-mcconnell-leads-list-3122759?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/these-gop-senators-may-vote-impeach-trump-mcconnell-leads-list-3122759?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/14/donald-trump-mitch-mcconnell.jpg"
         width: 1024
-        height: 576
+        height: 683
         isCached: true
-  - title: "Trump steps out of the White House and into a company in crisis"
-    excerpt: "New financial disclosures show the depth of his financial problems, compounded by his role in the Capitol riot."
-    publishedDateTime: 2021-01-22T07:14:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-company-financial-problems/2021/01/21/3899b7e4-5c25-11eb-8bcf-3877871c819d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-company-financial-problems/2021/01/21/3899b7e4-5c25-11eb-8bcf-3877871c819d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-company-financial-problems/2021/01/21/3899b7e4-5c25-11eb-8bcf-3877871c819d_story.html?outputType=amp"
+  - title: "What's next after House votes to impeach Donald Trump? Here's an explainer."
+    excerpt: "President Donald Trump has been impeached by the House days before leaving office, becoming the first American president to be impeached twice. The previous three impeachments — those of Presidents Andrew Johnson,"
+    publishedDateTime: 2021-01-14T16:18:00Z
+    webUrl: "https://www.nola.com/news/politics/national_politics/article_7222019e-5683-11eb-bade-bfab0205f9c6.html"
+    ampWebUrl: "https://www.nola.com/news/politics/national_politics/article_7222019e-5683-11eb-bade-bfab0205f9c6.amp.html"
+    cdnAmpWebUrl: "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/news/politics/national_politics/article_7222019e-5683-11eb-bade-bfab0205f9c6.amp.html"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
+      name: NOLA.com
+      domain: nola.com
+    quality: 73
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7KCO3SRBIEI6XLKTJQP5USMQPU.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/b/3f/b3f12186-54e9-11eb-b486-2b606d078d60/5ffdbe5be749e.image.jpg?resize=1024%2C683"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "Prosecutors have \"mounting amount of evidence\" against Trump, Michael Cohen says"
-    excerpt: "\"What he is right now is very, very nervous and he is very scared,\" the president's former personal attorney told CBSN."
-    publishedDateTime: 2020-12-24T18:44:00Z
-    webUrl: "https://www.cbsnews.com/news/trump-michael-cohen-prosecutors-evidence/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-michael-cohen-prosecutors-evidence/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-michael-cohen-prosecutors-evidence/"
+  - title: "Ocasio-Cortez Slams Lawmakers Who Ask For 'Healing' And Reject Trump Impeachment"
+    excerpt: "A group of GOP lawmakers penned a letter asking House Democrats to discontinue their efforts of impeaching Trump and embrace \"healing\" following Wednesday's siege of the Capitol."
+    publishedDateTime: 2021-01-11T03:40:00Z
+    webUrl: "https://www.ibtimes.com/ocasio-cortez-slams-lawmakers-who-ask-healing-reject-trump-impeachment-3118622"
+    ampWebUrl: "https://www.ibtimes.com/ocasio-cortez-slams-lawmakers-who-ask-healing-reject-trump-impeachment-3118622?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/ocasio-cortez-slams-lawmakers-who-ask-healing-reject-trump-impeachment-3118622?amp=1"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 120
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 70
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/24/914512ec-439b-42dd-a227-685aaa671d68/thumbnail/1200x630/081f1dacbf03b1eaddf486ed306c8c8b/cbsn-fusion-michael-cohen-trump-lawyer-on-pardons-thumbnail-615721-640x360.jpg"
-        width: 1200
-        height: 630
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/23/alexandria-ocasio-cortez-the-darling-of-the-us.jpg"
+        width: 1024
+        height: 573
         isCached: true
-  - title: "Eyes on Pelosi as Trump impeachment trial timing up in the air"
-    excerpt: "The timing of President Donald Trump's impeachment trial could come into clearer focus on Friday when House Speaker Nancy Pelosi is expected to take questions about her next steps at a morning news conference at the U."
-    publishedDateTime: 2021-01-15T12:21:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump/eyes-on-pelosi-as-trump-impeachment-trial-timing-up-in-the-air-idUSKBN29K0NV"
+  - title: "Twitter Slams Sen. Tim Scott For Opposing Donald Trump's Impeachment: It's 'Necessary For Healing'"
+    excerpt: "Twitter users do not agree with Sen. Tim Scott’s move to oppose Donald Trump's impeachment because they believe the POTUS' actions should have consequences."
+    publishedDateTime: 2021-01-13T01:44:00Z
+    webUrl: "https://www.ibtimes.com/twitter-slams-sen-tim-scott-opposing-donald-trumps-impeachment-its-necessary-healing-3120317"
+    ampWebUrl: "https://www.ibtimes.com/twitter-slams-sen-tim-scott-opposing-donald-trumps-impeachment-its-necessary-healing-3120317?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-slams-sen-tim-scott-opposing-donald-trumps-impeachment-its-necessary-healing-3120317?amp=1"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 61
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547913417&r=LYNXMPEH0E0CB&w=800"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Trump administration takes final swipes at China and its companies"
-    excerpt: "The Trump administration in its waning days took another swipe at China and its biggest firms on Thursday, imposing sanctions on officials and companies for alleged misdeeds in the South China Sea and imposing an investment ban on nine more firms."
-    publishedDateTime: 2021-01-15T08:47:00Z
-    webUrl: "https://www.reuters.com/article/usa-china/update-8-trump-administration-takes-final-swipes-at-china-and-its-companies-idUSL1N2JP1Z0"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547808818&r=LYNXMPEH0D121&w=800"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Eyes on Pelosi as Trump impeachment trial timing up in the air"
-    excerpt: "The timing of President Donald Trump's impeachment trial could come into clearer focus on Friday when House Speaker Nancy Pelosi is expected to take questions about her next steps at a morning news conference at the U."
-    publishedDateTime: 2021-01-15T16:17:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-idUSKBN29K0NV"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547913417&r=LYNXMPEH0E0CB&w=800"
-        width: 800
-        height: 533
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/12/us-president-donald-trump-says-impeachment-is-causing.jpg"
+        width: 1024
+        height: 684
         isCached: true
   - title: "Pelosi Calls for Prosecution of Any Congress Members Who Might Have Helped Pro-Trump Siege"
     excerpt: "Pelosi Calls for Prosecution of Any Congress Members Who Might Have Helped Pro-Trump Siege WASHINGTON (Reuters) - Any members of the U.S. Congress who helped a crowd of President Donald Trump's supporters storm the Capitol should face criminal prosecution ..."

@@ -31,12 +31,44 @@ images:
     isCached: true
 
 related:
-  - title: "Palm Beach considers options as Trump remains at Mar-a-Lago"
-    excerpt: "The Town of Palm Beach, Florida, is considering its legal options as former President Donald Trump is still living at his Mar-a-Lago club, a possible violation of a 1993 agreement"
-    publishedDateTime: 2021-01-29T02:11:00Z
-    webUrl: "https://www.washingtonpost.com/politics/palm-beach-considers-options-as-trump-remains-at-mar-a-lago/2021/01/28/5e586d94-61ad-11eb-a177-7765f29a9524_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/palm-beach-considers-options-as-trump-remains-at-mar-a-lago/2021/01/28/5e586d94-61ad-11eb-a177-7765f29a9524_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/palm-beach-considers-options-as-trump-remains-at-mar-a-lago/2021/01/28/5e586d94-61ad-11eb-a177-7765f29a9524_story.html?outputType=amp"
+  - title: "MyPillow Guy among the Trump acolytes picking up the torch"
+    excerpt: "Mike Lindell, the businessman better known to the world as the MyPillow Guy, is weighing a run for governor in Minnesota"
+    publishedDateTime: 2021-01-23T14:47:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/mypillow-guy-trump-acolytes-picking-torch-75444177"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/mypillow-guy-trump-acolytes-picking-torch-75444177"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/mypillow-guy-trump-acolytes-picking-torch-75444177"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_1aeb02288805488587306b003a97079d_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "MyPillow Guy among the Trump acolytes picking up the torch"
+    excerpt: "Mike Lindell, the businessman better known to the world as the MyPillow Guy, is weighing a run for governor in Minnesota"
+    publishedDateTime: 2021-01-23T17:18:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/mypillow-guy-trump-acolytes-picking-torch-75444118"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/mypillow-guy-trump-acolytes-picking-torch-75444118"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/mypillow-guy-trump-acolytes-picking-torch-75444118"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/General/my-pillow-guy-mike-lindell-donald-trump-01-gty-llr-210123_1611431001386_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "City council seeks input on bill condemning Trump for riot"
+    excerpt: "A city council in Maryland is seeking public input on a resolution that condemns former President Donald Trump for the violent siege of the U.S. Capitol"
+    publishedDateTime: 2021-01-25T14:53:00Z
+    webUrl: "https://www.washingtonpost.com/local/city-council-seeks-input-on-bill-condemning-trump-for-riot/2021/01/25/360fa520-5f1c-11eb-a177-7765f29a9524_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/city-council-seeks-input-on-bill-condemning-trump-for-riot/2021/01/25/360fa520-5f1c-11eb-a177-7765f29a9524_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/city-council-seeks-input-on-bill-condemning-trump-for-riot/2021/01/25/360fa520-5f1c-11eb-a177-7765f29a9524_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
@@ -47,117 +79,124 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Trump gets an important backer in his bid to live at Mar-a-Lago"
-    excerpt: "But former president Donald Trump just found a big ally in his quest to call his Florida club, Mar-a-Lago, home during. According to a memorandum obtained by The Washington Post, an attorney for the town of Palm Beach is recommending that the town’s council allow Trump to live at the club,"
-    publishedDateTime: 2021-02-03T05:02:00Z
-    webUrl: "https://www.washingtonpost.com/lifestyle/style/trump-mar-a-lago-residence-legal-dispute/2021/02/02/39cc193c-65a2-11eb-8468-21bc48f07fe5_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/lifestyle/style/trump-mar-a-lago-residence-legal-dispute/2021/02/02/39cc193c-65a2-11eb-8468-21bc48f07fe5_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/style/trump-mar-a-lago-residence-legal-dispute/2021/02/02/39cc193c-65a2-11eb-8468-21bc48f07fe5_story.html?outputType=amp"
+  - title: "City council approves bill condemning Trump for Capitol riot"
+    excerpt: "A city council in Maryland unanimously approved a resolution condemning former President Donald Trump for the violent siege of the U.S. Capitol"
+    publishedDateTime: 2021-01-26T20:55:00Z
+    webUrl: "https://www.washingtonpost.com/local/city-council-approves-bill-condemning-trump-for-capitol-riot/2021/01/26/df7eda2c-5fee-11eb-a177-7765f29a9524_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/city-council-approves-bill-condemning-trump-for-capitol-riot/2021/01/26/df7eda2c-5fee-11eb-a177-7765f29a9524_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/city-council-approves-bill-condemning-trump-for-capitol-riot/2021/01/26/df7eda2c-5fee-11eb-a177-7765f29a9524_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2PEK2TCO3UI6XA7DGITEJWBDKY.jpg&w=1440"
-        width: 1440
-        height: 965
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
-  - title: "House Dems ask Trump to testify oath for impeachment case"
-    excerpt: "House Democrats have asked former President Donald Trump to testify under oath for his Senate impeachment trial"
-    publishedDateTime: 2021-02-04T18:27:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/house-dems-trump-testify-oath-impeachment-case-75687371"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/house-dems-trump-testify-oath-impeachment-case-75687371"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/house-dems-trump-testify-oath-impeachment-case-75687371"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_4bcb100f12b94da7aa82370a80b6db6f_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump won't testify at Senate impeachment trial, his lawyers say"
-    excerpt: "Trump's lawyers said he will not testify at his coming impeachment trial, hours after Democrats said that his refusal could be used against him."
-    publishedDateTime: 2021-02-05T02:03:00Z
-    webUrl: "https://www.cnbc.com/2021/02/04/trump-impeachment-democrats-call-for-testimony-under-oath-from-ex-president.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/02/04/trump-impeachment-democrats-call-for-testimony-under-oath-from-ex-president.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/02/04/trump-impeachment-democrats-call-for-testimony-under-oath-from-ex-president.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 125
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106124788-1568235708066rts2q6zs.jpg?v=1612462873"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Trump legal team argues impeachment trial is unconstitutional, denies inciting Capitol attack"
-    excerpt: "In their legal brief responding to the article of impeachment, Trump's lawyers argue the trial is \"in violation of the Constitution.\""
-    publishedDateTime: 2021-02-02T18:22:00Z
-    webUrl: "https://www.cbsnews.com/news/trump-impeachment-trial-legal-team-constitution/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-impeachment-trial-legal-team-constitution/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-impeachment-trial-legal-team-constitution/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 114
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/31/e6e4b3bf-d221-4e69-9758-c125b8adfeda/thumbnail/1200x630g2/2846660e3574f923ccd0a39f79b733a8/gettyimages-1230689498.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Facing expulsion, Trump resigns from the Screen Actors Guild: ‘You have done nothing for me’"
-    excerpt: "Former president Donald Trump has resigned from the Screen Actors Guild - American Federation of Television and Radio Artists (SAG-AFTRA) after its national leadership voted to consider expelling him over his role in inciting the January mob attack on the U."
-    publishedDateTime: 2021-02-05T00:57:00Z
-    webUrl: "https://www.washingtonpost.com/arts-entertainment/2021/02/04/trump-resigns-screen-actors-guild/"
-    ampWebUrl: "https://www.washingtonpost.com/arts-entertainment/2021/02/04/trump-resigns-screen-actors-guild/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/arts-entertainment/2021/02/04/trump-resigns-screen-actors-guild/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 114
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/U3HBE7SU54I6XLGFSLJIDGQ4ZM.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "House impeachment managers file pretrial brief tearing into GOP claims that it's unconstitutional to impeach Trump"
-    excerpt: "\"If provoking an insurrectionary riot...after losing an election is not an impeachable offense, it is hard to imagine what would be,\" the brief said."
-    publishedDateTime: 2021-02-02T15:22:00Z
-    webUrl: "https://www.businessinsider.com/house-impeachment-managers-file-brief-trump-senate-trial-2021-2"
-    ampWebUrl: "https://www.businessinsider.com/house-impeachment-managers-file-brief-trump-senate-trial-2021-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/house-impeachment-managers-file-brief-trump-senate-trial-2021-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 103
-    images:
-      - url: "https://i.insider.com/5ff5f6066d61c10019ccdf62?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Donald Trump spends final minutes in office at Mar-a-Lago, is first president to skip inauguration in more than 150 years"
-    excerpt: "Trump's military send-off at Joint Base Andrews appeared smaller than expected. He left on Air Force One as Frank Sinatra's \"My Way\" played."
-    publishedDateTime: 2021-01-21T18:05:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/20/donald-trump-plans-end-his-presidency-mar-lago-florida/4210601001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4210601001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4210601001"
+  - title: "Twitter permanently bans MyPillow CEO Mike Lindell after he continues to claim Trump won the election, fraud"
+    excerpt: "Twitter decided to ban Mike Lindell, who founded bedding company MyPillow, due to “repeated violations” of its civic integrity policy."
+    publishedDateTime: 2021-01-26T14:06:00Z
+    webUrl: "https://www.usatoday.com/story/tech/2021/01/26/twitter-bans-mypillow-ceo-mike-lindell-election-fraud-claims/4257458001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4257458001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4257458001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 100
+    quality: 121
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/20/USAT/de83808c-d841-464c-9f8d-eb7ef135dad1-AFP_AFP_8Z69UN.JPG?auto=webp&crop=4566,2568,x0,y186&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/03/31/USAT/6aff7ab2-44ed-40be-ab33-704a9c36a9c9-lindell.JPG?auto=webp&crop=2967,1669,x668,y102&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Donald Trump Said He'll Return, but Most Think He Shouldn't Be Allowed to Run Again"
+    excerpt: "The outgoing president has previously alluded to running in 2024, with comments having hinted at feeling he has unfinished business."
+    publishedDateTime: 2021-01-20T16:45:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-return-president-2024-poll-1563101"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-return-president-2024-poll-1563101?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-return-president-2024-poll-1563101?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 119
+    images:
+      - url: "https://d.newsweek.com/en/full/1712115/donald-trump-joint-base-andrews.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "New Pentagon chief praises Germany for hosting U.S. troops, reversing Trump's tack"
+    excerpt: "New U.S. Defense Secretary Lloyd Austin praised Germany for hosting U.S. troops in a call with his German counterpart on Wednesday, fueling speculation that President Joe Biden could overturn a drawdown ordered by his predecessor Donald Trump."
+    publishedDateTime: 2021-01-28T02:59:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-germany-troops/new-pentagon-chief-praises-germany-for-hosting-u-s-troops-reversing-trumps-tack-idUSKBN29W2VN"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29W2VN"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29W2VN"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 119
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210127&t=2&i=1549297914&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0Q1OW"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "In Wyoming, Cheney faces blowback for vote to impeach Trump"
+    excerpt: "When Liz Cheney, the third-ranking Republican in the House of Representatives, decided to vote to impeach a president from her own party, she knew she'd cause some waves. She might not have expected the seismic impact at home."
+    publishedDateTime: 2021-01-28T14:23:00Z
+    webUrl: "https://www.businessinsider.com/in-wyoming-cheney-faces-blowback-for-vote-to-impeach-trump-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/in-wyoming-cheney-faces-blowback-for-vote-to-impeach-trump-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/in-wyoming-cheney-faces-blowback-for-vote-to-impeach-trump-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "The Trump administration is revoking the licenses of companies that supply to Huawei, as a final blow to the Chinese tech giant"
+    excerpt: "Huawei has long been a target of the Trump administration, which believes it spies for the Chinese government. Huawei has repeatedly denied the claim."
+    publishedDateTime: 2021-01-18T10:44:00Z
+    webUrl: "https://www.businessinsider.com/trump-administration-halts-huawei-supply-shipments-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/trump-administration-halts-huawei-supply-shipments-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-administration-halts-huawei-supply-shipments-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 97
+    images:
+      - url: "https://i.insider.com/60055311660f6c0018349a61?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "MyPillow Taking Lumps: How Mike Lindell's Trump Support Spells Downfall"
+    excerpt: "CEO Lindell last week was seen at the White House holding notes that seem to support many of the conspiracy theories surrounding election fraud."
+    publishedDateTime: 2021-01-19T12:48:00Z
+    webUrl: "https://www.ibtimes.com/mypillow-taking-lumps-how-mike-lindells-trump-support-spells-downfall-3125478"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/04/gettyimages-1218940907.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump-supporting 'My Pillow Guy' Suspended From Twitter"
+    excerpt: "A high-profile Donald Trump supporter who backed the former president's claims of electoral fraud has been permanently suspended from Twitter, the social media giant said Monday night, the latest in a series of bans of prominent right-wingers and conspiracy theorists."
+    publishedDateTime: 2021-01-26T06:58:00Z
+    webUrl: "https://www.ibtimes.com/trump-supporting-my-pillow-guy-suspended-twitter-3130757"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/26/lindell-has-been-speculating-about-his-own-politicial.jpg"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "6h7r6GeLNV+jiTqoltJKOwGp1TQ10E8gP2mAz1nt/fTuzvQQLO9azDsRt2w9XqL68L0lHLaGWQ0jTdLSkaj39E6crGPsl5rrLcXQyjhyGY1qpTcU4P3BOWWLTjK4Kix5V9rXgMNistFV7MfO/2qDK5st5JUIL1RSZAZVuAPRAttIRVDJ+e6TZKz4UhNot1U8mqehajjRm8nzcbc3l5cabA+VUyE61EtwiHxTGt1OKXK63RqRMyb1svApCOEWx1VjyU67tbSz+mfodErOS7IFv22xOLNnGEZOY3b+AKiKMStPw1C6IOSdc+pHhxpOVWGcNVlZiCLlz6RzrRS3BMfZzVILezGFw/zEoHJ9Bgn3AF8hSHcc1QfsfKr2fcfJ2ViXSYgqcSLs15F8q35/c4YZV9bdGT3EosDaqYZJjpe20qirHL2qdx3klfSJ100e7EOotKqw1fO1iCVWevVGYCGsozQPPBtc8gpe3AbEQFGIDROSrA8z9QDvT6/hM+E5OeGfGk42Huxq3Zenkn0qt/Kojg==;UUgNt52bJ00PcrJuplSw4w=="

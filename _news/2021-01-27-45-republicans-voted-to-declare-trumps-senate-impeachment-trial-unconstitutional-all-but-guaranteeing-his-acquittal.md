@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Donald Trump Can Issue Secret Pardons, but They're Risky"
+    excerpt: "President Donald Trump issued 70 pardons and 73 commutations on his last full day in office on Tuesday. He did not issue pardons for himself, any of his adult children or former New York Mayor Rudy Giuliani."
+    publishedDateTime: 2021-01-20T10:06:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-can-issue-secret-pardons-risky-1562892"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-can-issue-secret-pardons-risky-1562892?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-can-issue-secret-pardons-risky-1562892?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1711585/trump-waves-south-lawn.jpg"
+        width: 3667
+        height: 2445
+        isCached: true
   - title: "Trump pardons in California extend to former congressman"
     excerpt: "Rep. Randy “Duke” Cunningham admitted in 2005 to accepting $2.4 million in illegal gifts from defense contractors in exchange for government contracts and other favors, it was considered the largest b"
     publishedDateTime: 2021-01-21T04:34:00Z
@@ -207,22 +223,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Members of Trump campaign behind rally that ignited US Capitol riot, records show"
-    excerpt: "Members of President Donald Trump’s failed presidential campaign played key roles in orchestrating the Washington rally that spawned a deadly assault on the U.S. Capitol."
-    publishedDateTime: 2021-01-17T19:44:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-us-capitol-riots-trump-supporters-20210117-piy4dkmga5bxnfaqpvyqqkf7hm-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-us-capitol-riots-trump-supporters-20210117-piy4dkmga5bxnfaqpvyqqkf7hm-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-us-capitol-riots-trump-supporters-20210117-piy4dkmga5bxnfaqpvyqqkf7hm-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 120
-    images:
-      - url: "https://www.chicagotribune.com/resizer/t7VpUy5QxEECbcVgOLtJwrLwgqc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/IT6YI775GRH4NHVWSC4CLPP6KQ.aspx"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Bipartisan Senate duo crafts censure resolution that might bar Trump from office"
     excerpt: "With the outcome of former President Donald Trump’s second impeachment trial all but certain to end without a conviction, a bipartisan pair of senators is working on a resolution that for just the second time in history would censure a U."
     publishedDateTime: 2021-01-27T22:44:00Z
@@ -270,6 +270,22 @@ related:
       - url: "https://www.gannett-cdn.com/-mm-/8748c6c4833f4d286dc7aab150adee2b64263865/c=0-173-4890-2936/local/-/media/2017/05/12/Phoenix/Phoenix/636302166299134058--20170319-Trump-billboard-0065.JPG?auto=webp&format=pjpg&width=1200"
         width: 1200
         height: 678
+        isCached: true
+  - title: "In one of his final acts, Trump showered clemency on people with connections to him and his allies"
+    excerpt: "A Washington Post analysis of the 144 people who received clemency this week found that at least 45 — or nearly a third — had a link to the president or people in his close orbit."
+    publishedDateTime: 2021-01-21T08:34:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-pardons/2021/01/20/dfc79216-5b49-11eb-8bcf-3877871c819d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-pardons/2021/01/20/dfc79216-5b49-11eb-8bcf-3877871c819d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-pardons/2021/01/20/dfc79216-5b49-11eb-8bcf-3877871c819d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 111
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/V6HT4GC3E4I6XKCJN6KCHJ277U.jpg&w=1440"
+        width: 1440
+        height: 1059
         isCached: true
   - title: "Trump jumps into a divisive battle over the Republican Party — with a threat to start a ‘MAGA Party’"
     excerpt: "The former president, in his first political activity since leaving office, endorses an ally for Arizona party chair who backed his false claims of election fraud."
@@ -332,6 +348,20 @@ related:
       - url: "https://i.insider.com/60044f8de3d62500185fcf8e?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Democrats agree to delay Trump impeachment trial"
+    excerpt: "Senate Majority Leader Chuck Schumer announced Friday that the impeachment trial for former president Donald Trump will begin February 8th, even though the article of impeachment will be delivered to the Senate on Monday."
+    publishedDateTime: 2021-01-23T02:06:00Z
+    webUrl: "https://www.cbsnews.com/video/democrats-agree-to-delay-trump-impeachment-trial/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/23/77f694f7-f76e-44d9-90c4-cc9f4642476e/thumbnail/1200x630/4a106b603296320ab48f3d4f63d69310/cbsn-fusion-democrats-agree-to-delay-trump-impeachment-trial-thumbnail-631908-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Arizona Republicans Censure Party Leaders At Odds With Trump"
     excerpt: "State GOP members passed resolutions at a meeting on Saturday to condemn three party leaders who they said failed to support President Trump: Gov. Doug Ducey, former Sen. Jeff Flake and Cindy McCain."
@@ -469,20 +499,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Trump allies and Republican lawmakers lost thousands of followers in Twitter purge after Capitol riots"
-    excerpt: "Republican lawmakers lost thousands of followers when Twitter purged QAnon accounts following the violent mob attack on the Capitol stoked by Trump."
-    publishedDateTime: 2021-01-17T21:55:00Z
-    webUrl: "https://www.usatoday.com/story/tech/2021/01/15/trump-republican-lawmakers-follower-counts-slashed-twitter-purge/4168064001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 89
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/9e1f6e2ee20f44aa1f3be4f71e9f3e52b6ae2c7e/c=0-110-2121-1303/local/-/media/2021/01/14/USATODAY/usatsports/twitter-white-house-trump.jpg?width=1600&height=800&fit=crop"
-        width: 1600
-        height: 800
-        isCached: true
   - title: "The Republican Party is in disarray post-Trump and faces a crisis bigger than after Watergate, says veteran GOP Congressman"
     excerpt: "A rift has opened between GOP lawmakers who want Trump's legacy purged and lawmakers and grassroots supporters who remain steadfastly loyal."
     publishedDateTime: 2021-01-31T11:43:00Z
@@ -496,6 +512,22 @@ related:
       - url: "https://i.insider.com/60168014d6c5e60019c6e1dd?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "A Taxonomy of Donald Trump’s Facial Expressions"
+    excerpt: "The outgoing president’s journey from reality television to the Oval Office is evident in every smile and every scowl."
+    publishedDateTime: 2021-01-20T15:55:00Z
+    webUrl: "https://www.theatlantic.com/politics/archive/2021/01/a-taxonomy-of-donald-trumps-facial-expressions/617742/"
+    ampWebUrl: "https://amp.theatlantic.com/amp/article/617742/"
+    cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/617742/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 75
+    images:
+      - url: "https://cdn.theatlantic.com/thumbor/VJNjoI2HqBJn4Uv0xLH3x89cZb4=/570x321/media/img/mt/2021/01/Trumpface/original.jpg"
+        width: 570
+        height: 321
         isCached: true
   - title: "GOP to stay neutral should Donald Trump run again"
     excerpt: "The head of the Republican National Committee on Wednesday declined to encourage former President Donald Trump to run for the White House in 2024, saying the GOP would stay “neutral” in its next presidential primary."
@@ -527,20 +559,17 @@ related:
         width: 1024
         height: 760
         isCached: true
-  - title: "Donald Trump: From The American Dream To American Nightmare"
-    excerpt: "When Donald Trump looks down for the last time from his helicopter over the White House lawn Wednesday, the wreckage of his presidency will be inescapable. The showman with the dyed blond hair, fake tan and a knack for connecting with crowds took office four years ago,"
-    publishedDateTime: 2021-01-18T00:33:00Z
-    webUrl: "https://www.ibtimes.com/donald-trump-american-dream-american-nightmare-3124343"
+  - title: "Capitol Rioters Hold Out Long-Shot Hope for a Trump Pardon"
+    excerpt: "In what could be the longest of legal long shots, several of those arrested for storming the U.S. Capitol are holding out hope that President Donald Trump will use some of his last hours in office to grant the rioters a full pardon."
+    publishedDateTime: 2021-01-21T06:21:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-19/long-shot-capitol-rioters-hold-out-hope-for-a-trump-pardon"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-19/long-shot-capitol-rioters-hold-out-hope-for-a-trump-pardon?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-19/long-shot-capitol-rioters-hold-out-hope-for-a-trump-pardon?context=amp"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
+      name: U.S. News & World Report
+      domain: usnews.com
     quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/07/us-president-donald-trump-kisses-german-chancellor-angela.jpg"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "The great GOP crack up: Mitch McConnell is still scrambling to lead Donald Trump's Republican Party"
     excerpt: "Perhaps they were exhausted from all the excitement of witnessing a historic violent insurrection or maybe they are just aimless without former President Donald Trump's Twitter feed to guide them."
     publishedDateTime: 2021-01-25T13:54:00Z

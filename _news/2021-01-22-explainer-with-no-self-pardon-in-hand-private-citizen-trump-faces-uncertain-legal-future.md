@@ -31,53 +31,48 @@ images:
     isCached: true
 
 related:
-  - title: "Explainer: Could Trump preemptively pardon his family — or even himself?"
-    excerpt: "U.S. President Donald Trump's pardoning of his former adviser Michael Flynn has fueled speculation over whether the president could pardon other associates, and even members of his family, during his final weeks in office."
-    publishedDateTime: 2020-12-03T11:29:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-pardon-idINKBN28D1IC"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28D1IC"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28D1IC"
+  - title: "EXPLAINER: Election claims, and why it's clear Biden won"
+    excerpt: "As Democrat Joe Biden is sworn in Wednesday as the nation’s 46th president, Donald Trump’s most ardent supporters still believe Biden was not legitimately elected after Trump continues to argue the election was stolen."
+    publishedDateTime: 2021-01-20T06:17:00Z
+    webUrl: "https://www.businessinsider.com/explainer-election-claims-and-why-its-clear-biden-won-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/explainer-election-claims-and-why-its-clear-biden-won-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/explainer-election-claims-and-why-its-clear-biden-won-2021-1?amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 124
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
+  - title: "Joe Biden has set sky-high expectations. Can he meet them?"
+    excerpt: "Back when the election was tightening and just a week away, Joe Biden went big. He flew to Warm Springs, the Georgia town whose thermal waters once brought Franklin Delano Roosevelt comfort from polio,"
+    publishedDateTime: 2021-01-19T13:39:00Z
+    webUrl: "https://www.cleveland.com/nation/2021/01/joe-biden-has-set-sky-high-expectations-can-he-meet-them.html"
+    ampWebUrl: "https://www.cleveland.com/nation/2021/01/joe-biden-has-set-sky-high-expectations-can-he-meet-them.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2021/01/joe-biden-has-set-sky-high-expectations-can-he-meet-them.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 75
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201203&t=2&i=1543317980&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB20RG"
-        width: 817
-        height: 545
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/KMV2GSVBLRBFXG6Q3CXUGLMWEE.jpg"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "Explainer: Could Trump preemptively pardon his family — or even himself?"
-    excerpt: "U.S. President Donald Trump's pardoning of his former adviser Michael Flynn has fueled speculation over whether the president could pardon other associates, and even members of his family, during his final weeks in office."
-    publishedDateTime: 2020-12-03T16:29:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-pardon/explainer-could-trump-preemptively-pardon-his-family-or-even-himself-idINKBN28D1IC"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28D1IC"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28D1IC"
+  - title: "Mine just south of Oregon-Nevada line may boost Joe Biden’s energy plan"
+    excerpt: "One of the keys to President Joe Biden’s $2 trillion clean energy plan could be a mineral that lies in a salt flat above a prehistoric volcano just south of the Oregon-Nevada line."
+    publishedDateTime: 2021-01-23T17:26:00Z
+    webUrl: "https://www.oregonlive.com/environment/2021/01/mine-just-south-of-oregon-nevada-line-may-boost-joe-bidens-energy-plan.html"
+    ampWebUrl: "https://www.oregonlive.com/environment/2021/01/mine-just-south-of-oregon-nevada-line-may-boost-joe-bidens-energy-plan.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/environment/2021/01/mine-just-south-of-oregon-nevada-line-may-boost-joe-bidens-energy-plan.html?outputType=amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 124
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 75
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201203&t=2&i=1543344545&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB20RG"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Roles of Trump fundraiser, Kushner's attorney were scrutinized in pardon bribe probe"
-    excerpt: "A former Trump fundraiser and a prominent lawyer were among the people scrutinized by the Justice Department for their roles in what a judge described as a possible bribery scheme to win a presidential pardon for a convicted felon,"
-    publishedDateTime: 2020-12-04T09:29:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-trump-pardon-idUSKBN28E0CL"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28E0CL"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28E0CL"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 118
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543441769&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB3063"
-        width: 817
-        height: 545
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/P724E5QASRBPRP6DSZO2LKZNLY.jpg"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "mHoJMghu0vgoR4YysuJ056+qq7pex4hC9ihmnk5b8KHHyM34s4HxqvibOGrCpkRfdbC2c6em0wAsCqZ7V4uA2P3Ow1H0FNPW8niW+Bks6pjfRcBu83FqtVwoY5ZyynosFrKWgVOUBBLVRtD7Ulr6DwAfxF7yxpNt5SVY1LA56PYQYKEpVPCMRhBFrHO400w45yMNv9D7/DYTtEvtDcitXDr5uWrcobpceM6n7CP9Ioend9xg25C5M7uTXXpK5VpOS0hI1RoOfpKfFo7O7H1Cb3Rg6sdy0xL2nL2QCaOxze63zDf/pBnO5E1S0PH3di2tNWM6leGMD8YATMTu88s6NfNUrZur7NcIoQNjAW5+8hM=;58Y3I+q5HzweKvpTPJPYUQ=="

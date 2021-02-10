@@ -61,6 +61,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "The Latest: Biden calls for remembrance at COVID-19 memorial"
+    excerpt: "At a memorial for the lives taken by COVID-19, President-elect Joe Biden is calling on Americans to remember those lost to the coronavirus and to begin to heal"
+    publishedDateTime: 2021-01-20T00:09:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/latest-biden-attend-mass-congressional-leaders-75341544"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/latest-biden-attend-mass-congressional-leaders-75341544"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/latest-biden-attend-mass-congressional-leaders-75341544"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_6c11b9b1d76c495a9b2243c0fc73f003_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden signs burst of virus orders, vows 'Help is on the way'"
     excerpt: "President Joe Biden is putting into play his national COVID-19 strategy to ramp up vaccinations and testing, reopen schools and businesses and increase the use of masks"
     publishedDateTime: 2021-01-22T02:43:00Z
@@ -118,6 +134,20 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/23/bc3192e7-b104-4c45-9d22-516fe6874ce9/thumbnail/1200x630/ad94d8f5910070cb256e43ae696e9497/cbsn-fusion-biden-signs-nearly-30-executive-orders-seeks-gop-approval-for-covid-19-relief-bill-thumbnail-631988-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "6 things you need to know about Joe Biden's just-released plan to transform the chaotic covid vaccine rollout"
+    excerpt: "People who have essential jobs such as teachers, firefighters, and grocery store workers would be moved to the front of the line for a coronavirus vaccine."
+    publishedDateTime: 2021-01-15T23:39:00Z
+    webUrl: "https://www.businessinsider.com/biden-coronavirus-vaccine-plan-operation-warp-speed-2021-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 86
+    images:
+      - url: "https://i.insider.com/600221a8e3d62500185fce93?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Biden: We'll 'manage the hell' out of feds' COVID response"
     excerpt: "President-elect Joe Biden is pledging to boost supplies of coronavirus vaccine and set up new vaccination sites to meet his goal of 100 million shots in 100 days"

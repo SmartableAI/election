@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/cuomo-blames-nursing-home-scandal-o
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-blames-nursing-home-scandal-on-political-attack-by-trump-admin.amp"
 type: article
 quality: 175
-heat: 215
+heat: 195
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump adviser claims former president has no plans for third political party"
-    excerpt: "Former President Donald Trump has reportedly dropped plans to create a third political party and will instead focus his energies on helping Republicans win back the House and Senate in the 2022 midterms, Fox News has learned."
-    publishedDateTime: 2021-01-25T00:34:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5QGzXiloiXI/trump-has-no-plans-for-a-third-political-party"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-has-no-plans-for-a-third-political-party.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-has-no-plans-for-a-third-political-party.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21021665414903.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Ingraham: Democrats 'using and abusing the troops' for 'political theater' after condemning Trump proposals"
     excerpt: "In her \"Ingraham Angle\" monologue on Monday, host Laura Ingraham said Democrats are misuing American servicemembers for \"political theater\" just months after they roundly condemned Donald Trump for considering deploying National Guardsmen to quell left-wing riots in major cities across the country."
     publishedDateTime: 2021-01-26T04:11:31Z

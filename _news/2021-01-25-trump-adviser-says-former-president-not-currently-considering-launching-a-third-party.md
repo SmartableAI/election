@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Melania Trump hires staff and establishes post-White House office"
+    excerpt: "Former first lady Melania Trump is establishing a post-White House office in Palm Beach, Florida, according to two sources familiar with her plans.\n    \n"
+    publishedDateTime: 2021-01-27T16:02:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oiv6nsD-6mQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/27/politics/melania-trump-post-white-house/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/27/politics/melania-trump-post-white-house/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210121224406-melania-trump-desplante-camilo-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump to lift Covid-19 related travel restrictions before he leaves office, White House official says"
     excerpt: "President Donald Trump is expected to lift coronavirus-related travel restrictions starting on January 26, nearly a week after he leaves office, a White House official said Monday.\n    \n"
     publishedDateTime: 2021-01-19T00:27:51Z

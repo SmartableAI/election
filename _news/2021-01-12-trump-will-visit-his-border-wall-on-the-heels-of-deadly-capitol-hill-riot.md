@@ -31,83 +31,101 @@ images:
     isCached: true
 
 related:
-  - title: "Graham: Trump and I have had a hell of a journey, but enough is enough"
-    excerpt: "Republican Sen. Lindsey Graham, who has been a staunch supporter of President Trump, vigorously defended to certify the electoral college votes on the Senate floor.\n    \n"
-    publishedDateTime: 2021-01-07T03:38:34Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-rodRQ0xGIw/lindsey-graham-capitol-certification-sot-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/01/07/lindsey-graham-capitol-certification-sot-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/01/07/lindsey-graham-capitol-certification-sot-vpx.cnn"
+  - title: "Tillerson slams Trump as Pompeo sings his praises"
+    excerpt: "Former Secretary of State Rex Tillerson painted a scathing picture of his old boss President Donald Trump as someone who made uninformed decisions that were not based in reality -- a stark contrast to Trump's top diplomat Mike Pompeo, who is heaping praise on the outgoing President in his final days"
+    publishedDateTime: 2021-01-15T18:00:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jn45W6rhvuY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/15/politics/tillerson-foreign-policy-interview/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/15/politics/tillerson-foreign-policy-interview/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106222257-graham-senate-floor-speech-vpx-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200626131825-trump-tillerson-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Lehigh University has rescinded Trump's honorary degree"
-    excerpt: "Lehigh University, a private college in Pennsylvania, has revoked the honorary degree it awarded President Donald Trump more than 30 years ago.\n    \n"
-    publishedDateTime: 2021-01-08T22:36:13Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JFq8Raeg0BQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/08/politics/trump-honorary-degree-rescinded-trnd/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/trump-honorary-degree-rescinded-trnd/index.html"
+  - title: "Trump's Pentagon chief says he 'cannot wait to leave' his job"
+    excerpt: "Acting Secretary of Defense Christopher Miller, who will leave office in less than a week. stated that he 'cannot wait to leave this job,\" according to a transcript released by the Department of Defense.\n    \n"
+    publishedDateTime: 2021-01-15T22:39:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/y9eEpK8NfNo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/15/politics/christopher-miller-leave-pentagon/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/15/politics/christopher-miller-leave-pentagon/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210108161106-lehigh-university-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201109130853-02-christopher-miller-sept-24-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "A Mob and the Breach of Democracy: The Violent End of the Trump Era"
-    excerpt: "As angry Trump supporters massed in the capital and a futile challenge to Joseph R. Biden Jr.’s victory unfolded in Congress, the president most likely succeeded in handing Washington to the Democrats."
-    publishedDateTime: 2021-01-06T18:55:00Z
-    webUrl: "https://www.nytimes.com/2021/01/06/us/politics/trump-congress.html"
-    ampWebUrl: "https://www.nytimes.com/2021/01/06/us/politics/trump-congress.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/06/us/politics/trump-congress.amp.html"
+  - title: "Pompeo will leave State Department as a Trump loyalist to the very end"
+    excerpt: "Secretary of State Mike Pompeo departs his Foggy Bottom post on Wednesday a loyal Trump footman to the very end.\n    \n"
+    publishedDateTime: 2021-01-17T13:02:00Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KMpmPUni5-c/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/17/politics/pompeo-legacy-piece/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/17/politics/pompeo-legacy-piece/index.html"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
+      name: CNN
+      domain: cnn.com
+    quality: 175
     images:
-      - url: "https://static01.nyt.com/images/2021/01/06/us/politics/06dc-scene4-sub/merlin_182048145_00a88458-3487-4817-a342-ccf94566fb5b-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210111201729-mike-pompeo-file-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "Graham leads resistance to Trump ouster amid fast-moving impeachment"
-    excerpt: "Lindsey Graham is leading the charge against President Donald Trump’s impeachment and removal in the Senate, even as the White House remains largely uninvolved. Graham, who just last week said he had had “enough” of Trump’s bid to overturn the election results after he incited a deadly riot at the Capitol,"
-    publishedDateTime: 2021-01-13T18:11:00Z
-    webUrl: "https://www.politico.com/news/2021/01/13/senate-republicans-impeachment-trump-trial-458934"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/01/13/senate-republicans-impeachment-trump-trial-458934"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/13/senate-republicans-impeachment-trump-trial-458934"
+  - title: "New York Times: Trump allies have collected tens of thousands of dollars from pardon seekers"
+    excerpt: "Allies and associates of President Donald Trump have collected tens of thousands of dollars in fees from those seeking pardons from the President, The New York Times reported Sunday.\n    \n"
+    publishedDateTime: 2021-01-17T22:17:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YxmLMZbnZko/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/17/politics/trump-allies-pardons-lobbying/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/17/politics/trump-allies-pardons-lobbying/index.html"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
+      name: CNN
+      domain: cnn.com
+    quality: 164
     images:
-      - url: "https://static.politico.com/3a/22/e398ada649c6a8ddfc396326c1a2/210113-graham-gty-773.jpg"
-        width: 1160
-        height: 773
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201014145405-donald-trump-september-debate-file-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "Live House Vote: The Second Impeachment of Donald J. Trump"
-    excerpt: "See how each House member votes on the article of impeachment charging President Trump with inciting violence against the country."
-    publishedDateTime: 2021-01-13T19:23:00Z
-    webUrl: "https://www.nytimes.com/interactive/2021/01/13/us/politics/trump-second-impeachment-vote.html"
+  - title: "Prospects of convicting Trump erode as GOP grows vocal against Senate impeachment proceedings"
+    excerpt: "The path in the Senate to convict Donald Trump is extremely slim, with a growing number of Republicans expressing confidence that the party will acquit the former President on a charge that he incited the deadly insurrection aimed at stopping President Joe Biden's electoral win.\n    \n"
+    publishedDateTime: 2021-01-22T22:17:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KUEk3cRU-_U/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/22/politics/senate-republicans-trump-impeachment-case/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/22/politics/senate-republicans-trump-impeachment-case/index.html"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 115
+      name: CNN
+      domain: cnn.com
+    quality: 164
     images:
-      - url: "https://static01.nyt.com/images/2021/01/13/us/trump-second-impeachment-vote-promo-1610558373191/trump-second-impeachment-vote-promo-1610558373191-facebookJumbo-v3.jpg"
-        width: 1050
-        height: 549
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201022170329-21b-john-cornyn-play-button-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Start of Trump's impeachment trial remains unsettled as Pelosi refuses to say when she'll send over article"
+    excerpt: "The timing of former President Donald Trump's Senate impeachment trial is still unsettled while Senate leaders haggle over how a power-sharing agreement will govern a 50-50 Senate.\n    \n"
+    publishedDateTime: 2021-01-21T16:45:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rjYhHedOgIc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/21/politics/nancy-pelosi-impeachment-timing/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/21/politics/nancy-pelosi-impeachment-timing/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 157
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210113164531-02-pelosi-gavel-house-impeachment-vote-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "7FEt6VA4lBLlEsnYBKWIS7yB4/JG6CZRmsRN1JzbTOthWSN33gMLC9IHvSP7WH4lSb9O+qdTl+F1HIlCT5SwKJ17YammatIjdH8sbnjE4e6SaggAaiLVWHrVABWl37MnWszFWXfJe6wcYnlzu4UCcZuJh7mNXs6bxWejmo7Es0HhC18rOOKPOGb8tc1B+B/BEmBdJFc7R6D6iCC1jIlYko+FKanhwGaxceJ72h46ISXH4Hdx4D3kJ83GVXX48SLR9hBINrQA8MV/OYKzv3jn1oKGLsakxef/k4bJOQaLyFpAizZa1DnqMVoas/OoibagN3qEresTRwRvfr77T0MaTxWl0OAX5ZDk3p0Cq7pYN90=;UwKJf+CsmmC69Sh5k9Uo3w=="

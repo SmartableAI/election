@@ -31,99 +31,67 @@ images:
     isCached: true
 
 related:
-  - title: "Live Updates: Arizona, Wisconsin certify election results for Biden"
-    excerpt: "President Trump suffered another setback in his push to overturn his defeat in the presidential election, as Arizona on Monday certified President-elect Joe Biden's victory in the state."
-    publishedDateTime: 2020-12-01T03:48:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/23aMvB4EcFg/live-updates-election-12-1-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-election-12-1-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-election-12-1-2020.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3212f6e9-d407-4a26-afce-c45958a41c08/58384915-7131-4732-88d5-2bd8ef6d9eac/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "LIVE UPDATES: Trump, Georgia governor clash over election results"
-    excerpt: "Follow for the latest updates on Trump's 2020 legal challenges"
-    publishedDateTime: 2020-12-06T05:47:09Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/es-q1G6XQKA/live-updates-trump-georgia-governor-clash-election-12-6-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-georgia-governor-clash-election-12-6-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-georgia-governor-clash-election-12-6-2020.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/173a5348-d54c-421c-98b5-a78d78786523/a1dd487d-39a4-4368-9cae-e408837c1c58/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "LIVE UPDATES: Trump refuses to say he has confidence in Barr"
-    excerpt: "Follow for the latest updates on the 2020 election."
-    publishedDateTime: 2020-12-04T05:30:26Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yeYKdJ8JQyo/live-updates-trump-refuses-to-say-he-has-confidence-in-barr"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-refuses-to-say-he-has-confidence-in-barr.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-refuses-to-say-he-has-confidence-in-barr.amp"
+  - title: "Live Updates: Biden meets with Republican senators on coronavirus aid"
+    excerpt: "President Joe Biden on Monday night said that he's unwilling to settle on an insufficient coronavirus aid package."
+    publishedDateTime: 2021-02-02T07:01:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6z8Pf8Cya2s/live-updates-biden-2-2-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-2-2-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-2-2-2021.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/124ffac8-ca25-4803-bc95-b57a6754174c/45640ca8-73b0-4813-915b-5189d0c9bf46/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6ee85791-b1c2-4b3e-9f69-c5782ed6f4dc/031107ab-fd5f-4504-b7b8-bb97e033f264/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden HHS pick sued nuns over contraception mandate"
-    excerpt: "President-elect Biden has chosen a secretary of Health and Human Services who sued to block a policy that would have exempted nuns from Obamacare's contraception mandate, provoking even more scrutiny over how Biden's Catholic faith influences his political agenda."
-    publishedDateTime: 2020-12-07T21:06:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fohoO2PHXFc/biden-hhs-pick-nuns-contraception-mandate"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-hhs-pick-nuns-contraception-mandate.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hhs-pick-nuns-contraception-mandate.amp"
+  - title: "Biden open to negotiating terms of $1,400 stimulus checks: Report"
+    excerpt: "President Biden is reportedly open to compromising on the structure of stimulus checks in his proposed $1.9 trillion coronavirus relief package, but he is adamant that they will go out."
+    publishedDateTime: 2021-02-03T22:39:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ji1tVQFQhiU/biden-negotiating-1400-stimulus-checks"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-negotiating-1400-stimulus-checks.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-negotiating-1400-stimulus-checks.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/21e1e348-1ec2-479b-b481-cdd70f49ab47/4c923316-a2af-45f8-a6c4-18f5b1cb409a/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3eaa2556-18a5-4cdc-8c54-b0e3e6d7383d/87a80014-30fa-4a0a-b247-3cc3f697207c/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "LIVE UPDATES: Biden reveals climate and energy team"
-    excerpt: "Follow for the latest updates on the Biden transition."
-    publishedDateTime: 2020-12-20T06:36:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rtrB1o08ewU/live-updates-biden-climate-energy-team-12-20-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-climate-energy-team-12-20-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-climate-energy-team-12-20-2020.amp"
+  - title: "LIVE UPDATES: Biden to visit State Department staff"
+    excerpt: "President Biden and Vice President Kamala Harris are scheduled to visit the Department of State Thursday afternoon to speak with staff and meet with Secretary Antony Blinken."
+    publishedDateTime: 2021-02-04T12:52:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/g9V3yAmwxyY/live-updates-biden-white-house-feb-4-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-white-house-feb-4-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-white-house-feb-4-2021.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ddd0cb98-02ad-491f-ad0a-4aa0c3e69c2a/dd15db2e-4b64-4e40-a211-5c24dfac41ff/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/76df30e9-35cc-477c-86d9-2e4b10436390/9097aebc-c283-4908-a7e6-139948f8d6b2/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Live Updates: Biden inauguration just one week away"
-    excerpt: "With Biden's inauguration just one week away, his transition team is pressing the Senate to confirm his national security nominees ahead of the event, saying the country's security is \"at stake.\""
-    publishedDateTime: 2021-01-13T05:41:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CZb6L4kNVEs/live-updates-biden-inaguration-1-13-2021"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-inaguration-1-13-2021.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-inaguration-1-13-2021.amp"
+  - title: "LIVE UPDATES: Biden revokes terrorist designation for Yemen’s Houthis"
+    excerpt: "Follow below for the latest updates on the Biden administration."
+    publishedDateTime: 2021-02-06T06:48:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FQPGvfnZCxA/live-updates-biden-white-house-2-6-21"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-white-house-2-6-21.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-white-house-2-6-21.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a39e09bf-a243-4496-a40b-1582ccd2b67a/dd93c6ff-576c-4cdf-973d-cc48ba4571ee/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6391dac5-8ca5-4649-97af-93a3ff3bd2bc/ea819181-0cbd-4239-ad1b-cdb5661acc10/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -143,85 +111,149 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "LIVE UPDATES: Biden says he will urge Americans to wear masks, take vaccine"
-    excerpt: "Follow for the latest updates on the 2020 election"
-    publishedDateTime: 2020-12-05T07:00:12Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hBPbIvg9W5M/live-updates-biden-americans-masks-vaccine-12-5-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-americans-masks-vaccine-12-5-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-americans-masks-vaccine-12-5-2020.amp"
+  - title: "Sen. Capito: Meeting with Biden, Senate Republicans on coronavirus relief was ‘productive’"
+    excerpt: "Sen. Shelley Moore Capito said her two-hour meeting with President Biden and fellow Republican senators on coronavirus relief was “productive” and may lead to additional bipartisan discussions on other topics moving forward."
+    publishedDateTime: 2021-02-02T16:03:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LMjL-WgDF-o/capito-meeting-biden-senate-republicans-coronavirus-relief-productive"
+    ampWebUrl: "https://www.foxnews.com/politics/capito-meeting-biden-senate-republicans-coronavirus-relief-productive.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/capito-meeting-biden-senate-republicans-coronavirus-relief-productive.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 173
+    quality: 165
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/251457ee-a938-4bbc-8755-319a0bada67e/5c01162a-52d5-44f1-bf33-749c74a43cbc/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/34c223e4-521e-40a3-9ab1-30674135471e/03c763d4-c22e-4efa-a06f-8deaa059f778/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Live Updates: Trump considering dramatic White House departure amid legal fight"
-    excerpt: "Trump said last month that he would leave office if the Electoral College votes for President-elect Joe Biden"
-    publishedDateTime: 2020-12-07T03:55:05Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/So_fEGG0sno/live-updates-legal-12-7-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-legal-12-7-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-legal-12-7-2020.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1c9af622-e777-4a09-8aba-ddcfb4db83c8/edb67c5a-04bb-4b93-aacf-5ef8cad63a8a/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Georgia secretary of state to recertify results confirming Biden win after third count"
-    excerpt: "Georgia Secretary of State Brad Raffensperger says his office will recertify the presidential election results on Monday, following a second recount that once again upheld President-elect Joe Biden's victory in the state."
-    publishedDateTime: 2020-12-07T17:11:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4PymTRoLBCU/georgia-election-recertification-biden-win-third-count"
-    ampWebUrl: "https://www.foxnews.com/politics/georgia-election-recertification-biden-win-third-count.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-election-recertification-biden-win-third-count.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Democratic Gov. Gretchen Whitmer to serve as co-chair of President-elect Joe Biden's inauguration"
-    excerpt: "Michigan Gov. Gretchen Whitmer will serve as co-chair for President-elect Joe Biden’s inauguration next month. "
-    publishedDateTime: 2020-12-07T20:35:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/roZTFUpA4wU/democratic-gretchen-whitmer-co-chair-joe-biden-inauguration"
-    ampWebUrl: "https://www.foxnews.com/politics/democratic-gretchen-whitmer-co-chair-joe-biden-inauguration.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democratic-gretchen-whitmer-co-chair-joe-biden-inauguration.amp"
+  - title: "LIVE UPDATES: Press Secretary Jen Psaki briefs reporters ahead of Biden meeting with GOP senators"
+    excerpt: "The White House COVID-19 Task Force is scheduled to brief reporters at 11 a.m. ET, ahead of a separate 12:30 p.m. briefing by press secretary Jen Psaki."
+    publishedDateTime: 2021-02-01T13:30:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_jrkaAkd3oo/live-updates-biden-white-house"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-white-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-white-house.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 162
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20338756509391.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0201edad-8043-41e5-8423-450eaf30802e/edfcf99d-f934-47ff-b589-bd6ccd3a8ab1/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Live Updates: Biden introduces education pick Cardona"
-    excerpt: "President-elect Joe Biden introduced his pick for education secretary, Miguel Cardona, on Wednesday and promised an \"ambitious agenda\" to re-open most schools within the first 100 days of his presidency."
-    publishedDateTime: 2020-12-23T19:11:00Z
-    webUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-23-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-23-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-12-23-2020.amp"
+  - title: "Biden makes case for $1.9T coronavirus relief plan, calls bypassing Republicans 'an easy choice'"
+    excerpt: "President Biden on Friday made the case for Congress to quickly pass his nearly $2 trillion coronavirus relief package even if it means abandoning Republican support, warning of an economy that's still in the grips of the pandemic."
+    publishedDateTime: 2021-02-05T18:43:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MON3ktXpuyc/biden-makes-case-for-1-9t-coronavirus-relief-plan-calls-bypassing-republicans-an-easy-choice"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-makes-case-for-1-9t-coronavirus-relief-plan-calls-bypassing-republicans-an-easy-choice.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-makes-case-for-1-9t-coronavirus-relief-plan-calls-bypassing-republicans-an-easy-choice.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 135
+    quality: 162
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/17982449-b85a-4a77-a6be-96d8701ff3b2/70bb5fd8-6315-4a9d-bdfb-644b243e64ec/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4b07e757-d035-4b72-a806-a50755a6e9f5/1a78b80c-313f-47f3-a14a-7ac6a76531df/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "House starts work on coronavirus relief Tuesday after Psaki warns Biden won't 'slow down' for Republicans"
+    excerpt: "The House Rules Committee will meet Tuesday afternoon to start work on the coronavirus budget reconciliation package after House Speaker Nancy Pelosi and Senate Majority Leader Chuck Schumer each filed budget resolutions in their respective chambers on Monday -- setting up a process for Democrats to"
+    publishedDateTime: 2021-02-02T12:15:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sqf8uA_fUjE/house-starts-work-on-coronavirus-relief-tuesday-after-psaki-warns-biden-wont-slow-down-for-republicans"
+    ampWebUrl: "https://www.foxnews.com/politics/house-starts-work-on-coronavirus-relief-tuesday-after-psaki-warns-biden-wont-slow-down-for-republicans.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-starts-work-on-coronavirus-relief-tuesday-after-psaki-warns-biden-wont-slow-down-for-republicans.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden believes coronavirus stimulus can be 'bipartisan,' says 'risk' is a bill 'not big enough,' Psaki says"
+    excerpt: "White House press secretary Jen Psaki said President Biden is \"open to engaging\" with both Democrats and Republicans in Congress ahead of his meeting with GOP senators Monday in the Oval Office to discuss a potential compromise on a coronavirus relief plan, adding that, in his view, the \"risk\" would"
+    publishedDateTime: 2021-02-01T19:25:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kdW-CF5GZbw/biden-coronavirus-stimulus-can-be-bipartisan-psaki"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-coronavirus-stimulus-can-be-bipartisan-psaki.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-coronavirus-stimulus-can-be-bipartisan-psaki.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "GOP senators to meet Biden Monday on coronavirus relief as Dems ready to pass bill without Republican support"
+    excerpt: "A statement from White House press secretary Jen Psaki -- especially when contrasted with the letter from the Senate Republicans -- makes clear there is still a large gulf between Biden and even this group of moderates. "
+    publishedDateTime: 2021-02-01T12:18:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nEB1zKivHLo/gop-senators-to-meet-biden-monday-on-coronavirus-relief-as-dems-ready-to-pass-bill-without-republican-support"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-senators-to-meet-biden-monday-on-coronavirus-relief-as-dems-ready-to-pass-bill-without-republican-support.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-senators-to-meet-biden-monday-on-coronavirus-relief-as-dems-ready-to-pass-bill-without-republican-support.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "LIVE UPDATES: Psaki gives press briefing as Biden visits State Department staff"
+    excerpt: "President Biden and Vice President Kamala Harris are scheduled to visit the Department of State Thursday afternoon to speak with staff and meet with Secretary Antony Blinken."
+    publishedDateTime: 2021-02-04T16:45:00Z
+    webUrl: "https://www.foxnews.com/politics/live-updates-biden-white-house-feb-4-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-white-house-feb-4-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-white-house-feb-4-2021.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 131
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aab6f155-6f87-4878-9f01-cec5af454dcc/40112ff6-dfe7-4d19-b4d8-e9d3cd5e8358/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden being pushed by aides to the left on COVID relief bill, longtime adviser believes: report"
+    excerpt: "Aides to President Biden and Democrats on the Hill are pushing him to take a harder line for a big coronavirus relief package than he otherwise would, surprising some in the White House orbit, according to a report."
+    publishedDateTime: 2021-02-03T15:19:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-being-pushed-aides-left-covid-relief-bill-adviser-believes"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-being-pushed-aides-left-covid-relief-bill-adviser-believes.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-being-pushed-aides-left-covid-relief-bill-adviser-believes.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 123
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Joe-Biden-Oval-Office-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Uighur Advocates: Will Biden Actions Match Words on 'Genocide'?"
+    excerpt: "One day before President Bidens inauguration, Secretary of State Mike Pompeo made the determination that Chinas treatment of Muslim Uighurs and"
+    publishedDateTime: 2021-01-27T10:29:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/01/27/uighur_advocates_will_biden_actions_match_words_on_genocide_145130.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/01/27/uighur_advocates_will_biden_actions_match_words_on_genocide_145130.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/01/27/uighur_advocates_will_biden_actions_match_words_on_genocide_145130.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/533465_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "MHof07dSNWFS8kFAtR9UxNDnlO2edBsgGY2vqnpt4bgXQZcwV9OB5dJqsXy/7SMvqjjayua5shiknTgigkJGnHp/QPcEMmSyaAzc64Xy01gHJoH3dMD2hFdz8Pnk6cxgSQHGhmLXC4z50LKwh90tLw7pcqodtZ6frQZKqd//XE0zwyUAqRAwm2R6rWaesw0C4poV4lbmDv5PpufCVCV/tT4Yi8T0uMF5TfT/8M7mu6IDK7qBG560LgsZbgEdv+G2sDMcl+1NmuSH1Ht6/NvOnlIlb9yUgWTU0K3YC4xCSFDvfhLIzo/5iDgYzfxLxj4dvZSkhjTPXmlkkCqr5F9V6Y8+UStyBWiPzTPvcT2aWL8=;O/SAiLAO7l8OP+FbiLYXuQ=="

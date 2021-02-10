@@ -2,6 +2,218 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-01-16-trump-finishes-with-worst-first-term-approval-rating-ever.md",
+      "title": "Trump finishes with worst first term approval rating ever",
+      "excerpt": "Poll of the week: A new Quinnipiac University poll finds that President Donald Trump's approval rating stands at 33%, while his disapproval is at 60%.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fhh5Db9b8u8/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fhh5Db9b8u8/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 395,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210114184452-05-week-in-photos-0114-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/16/politics/trump-approval-analysis/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/16/politics/trump-approval-analysis/index.html",
+      "publishedDateTime": "2021-01-16T06:05:09-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-16-census-battle-ends-as-trump-administration-gives-up-on-excluding-undocumented-from-apportionment.md",
+      "title": "Census battle ends as Trump administration gives up on excluding undocumented from apportionment",
+      "excerpt": "A high-stakes six-month battle over who should be counted for representation in Congress ended quietly in a judge’s chamber Friday night when the Trump administration agreed not to release any population numbers from the 2020 Census for congressional apportionment or redistricting before the president leaves office.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/local/social-issues/census-battle-ends-as-trump-administration-gives-up-on-excluding-undocumented-from-apportionment/2021/01/16/bd17025c-57ba-11eb-a931-5b162d0d033d_story.html",
+      "originalUrl": "https://www.washingtonpost.com/local/social-issues/census-battle-ends-as-trump-administration-gives-up-on-excluding-undocumented-from-apportionment/2021/01/16/bd17025c-57ba-11eb-a931-5b162d0d033d_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 192,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/R2MNFXSXZEI6XKAX4XT7RJAG2Y.jpg&w=1440",
+          "width": 1440,
+          "height": 811,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/local/social-issues/census-battle-ends-as-trump-administration-gives-up-on-excluding-undocumented-from-apportionment/2021/01/16/bd17025c-57ba-11eb-a931-5b162d0d033d_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/social-issues/census-battle-ends-as-trump-administration-gives-up-on-excluding-undocumented-from-apportionment/2021/01/16/bd17025c-57ba-11eb-a931-5b162d0d033d_story.html?outputType=amp",
+      "publishedDateTime": "2021-01-16T04:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-16-capitol-rioters-came-within-a-minute-of-reaching-pence-report-says.md",
+      "title": "Capitol rioters came within a minute of reaching Pence, report says",
+      "excerpt": "The mob that invaded the Capitol on Jan. 6 nearly reached the Senate floor only about a minute after Vice President Mike Pence left the chamber, The Washington Post reported. A Secret Service ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/01/15/dc-capitol-rioters-nearly-reached-vice-president-mike-pence.html",
+      "originalUrl": "https://www.cnbc.com/2021/01/15/dc-capitol-rioters-nearly-reached-vice-president-mike-pence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106825233-16107251002021-01-06t190644z_2102130348_rc2j2l9qd533_rtrmadp_0_usa-election-congress.jpeg?v=1610725126",
+          "width": 3500,
+          "height": 2265,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/01/15/dc-capitol-rioters-nearly-reached-vice-president-mike-pence.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/15/dc-capitol-rioters-nearly-reached-vice-president-mike-pence.html",
+      "publishedDateTime": "2021-01-16T03:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-01-16-trump-trial-pending-mcconnell-calls-it-vote-of-conscience.md",
+      "title": "Trump trial pending, McConnell calls it ‘vote of conscience’",
+      "excerpt": "President Donald Trump’s impeachment trial is likely to start after Joe Biden’s inauguration, and the Republican leader, Mitch McConnell, is telling senators their decision on whether to convict the outgoing president over the Capitol riot will be a “vote of conscience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/trump-trial-pending-mcconnell-calls-it-vote-of-conscience/2021/01/16/793bebec-57ba-11eb-acc5-92d2819a1ccb_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/trump-trial-pending-mcconnell-calls-it-vote-of-conscience/2021/01/16/793bebec-57ba-11eb-acc5-92d2819a1ccb_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 545,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/trump-trial-pending-mcconnell-calls-it-vote-of-conscience/2021/01/16/793bebec-57ba-11eb-acc5-92d2819a1ccb_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-trial-pending-mcconnell-calls-it-vote-of-conscience/2021/01/16/793bebec-57ba-11eb-acc5-92d2819a1ccb_story.html?outputType=amp",
+      "publishedDateTime": "2021-01-16T02:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-16-pence-speaks-at-memorial-service-for-yeager-in-west-virginia.md",
       "title": "Pence speaks at memorial service for Yeager in West Virginia",
       "excerpt": "Retired Air Force Brig. Gen. Chuck Yeager was remembered at a memorial service Friday as a hero, legend and friend who would go out of his way to help others.",
@@ -42,110 +254,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-01-16-dustin-higgs-becomes-13th-and-final-federal-prisoner-executed-under-trump.md",
-      "title": "Dustin Higgs becomes 13th and final federal prisoner executed under Trump",
-      "excerpt": "Higgs, 48, had been sentenced to death over the killings of three women in Maryland",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jan/15/dustin-higgs-federal-execution-trump",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jan/15/dustin-higgs-federal-execution-trump",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/28d4f022ffdec2869fadccc989f853f3ed58c31b/0_116_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a8d45662da15656a3487f3214818728d",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jan/15/dustin-higgs-federal-execution-trump",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/15/dustin-higgs-federal-execution-trump",
-      "publishedDateTime": "2021-01-15T21:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-16-ny-prosecutors-interview-michael-cohen-about-trump-finances.md",
-      "title": "NY prosecutors interview Michael Cohen about Trump finances",
-      "excerpt": "New York prosecutors conducted an hours-long interview Thursday of Michael Cohen, President Donald Trump’s former attorney",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/business/ny-prosecutors-interview-michael-cohen-about-trump-finances/2021/01/15/a6b6b334-577b-11eb-acc5-92d2819a1ccb_story.html",
-      "originalUrl": "https://www.washingtonpost.com/business/ny-prosecutors-interview-michael-cohen-about-trump-finances/2021/01/15/a6b6b334-577b-11eb-acc5-92d2819a1ccb_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 285,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/business/ny-prosecutors-interview-michael-cohen-about-trump-finances/2021/01/15/a6b6b334-577b-11eb-acc5-92d2819a1ccb_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/ny-prosecutors-interview-michael-cohen-about-trump-finances/2021/01/15/a6b6b334-577b-11eb-acc5-92d2819a1ccb_story.html?outputType=amp",
-      "publishedDateTime": "2021-01-15T18:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -201,62 +309,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-16-despite-trump-administration-promise-government-has-no-more-reserve-2nd-vaccine-doses.md",
-      "title": "Despite Trump administration promise, government has no more 'reserve' 2nd vaccine doses",
-      "excerpt": "Hopes of a surge in Covid-19 vaccine shipments under a new policy to release second doses held in reserve appear to be evaporating -- with the revelation that those doses have already been distributed, contrary to recent indications by the Trump administration.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lalVOl5dJlA/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lalVOl5dJlA/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201222111258-02-alex-azar-vaccine-1222-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/15/politics/coronavirus-vaccine-reserve-dose/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/15/politics/coronavirus-vaccine-reserve-dose/index.html",
-      "publishedDateTime": "2021-01-15T17:36:48-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-01-16-capitol-riots-what-are-far-right-trump-supporters-saying.md",
       "title": "Capitol riots: What are far-right Trump supporters saying?",
       "excerpt": "Members of the extreme right are searching for new online homes, amid paranoia that they are being ‘set up’ by the authorities.",
@@ -265,7 +317,7 @@
       "originalUrl": "https://www.bbc.com/news/blogs-trending-55679813",
       "featuredContent": null,
       "highlight": null,
-      "heat": 285,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -525,77 +577,25 @@
       ]
     },
     {
-      "path": "_news/2021-01-16-trump-retreats-from-his-job-and-pence-fills-the-void-as-acting-president.md",
-      "title": "Trump retreats from his job, and Pence fills the void as ‘acting’ president",
-      "excerpt": "With President Trump isolated in the White House since the Jan. 6 Capitol riot, Vice President Mike Pence increasingly fills the void in their waning days in office.",
+      "path": "_news/2021-01-15-manhattan-da-expands-criminal-investigation-into-trump-organization-finances-to-include-family-compound-in-westchester-county.md",
+      "title": "Manhattan DA expands criminal investigation into Trump Organization finances to include family compound in Westchester County",
+      "excerpt": "The Manhattan district attorney's office has expanded its criminal investigation into the Trump Organization's finances to include the family's compound in Westchester County, according to lawyers and people familiar with the investigation.\n    \n",
       "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/politics/story/2021-01-15/as-trump-retreats-from-his-job-pence-fills-the-void-as-acting-president",
-      "originalUrl": "https://www.latimes.com/politics/story/2021-01-15/as-trump-retreats-from-his-job-pence-fills-the-void-as-acting-president",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 778,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/9a216de/2147483647/strip/true/crop/5855x3824+0+39/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ffe%2F39%2Fddfcc6f1479ea42bc4296bb7a705%2Fbiden-74027.jpg",
-          "width": 320,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.latimes.com/politics/story/2021-01-15/as-trump-retreats-from-his-job-pence-fills-the-void-as-acting-president?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-01-15/as-trump-retreats-from-his-job-pence-fills-the-void-as-acting-president?_amp=true",
-      "publishedDateTime": "2021-01-15T14:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-01-16-banks-rips-cnns-lemon-for-slam-on-trump-supporters-they-want-to-cancel-all-of-us-with-conservative-beliefs.md",
-      "title": "Banks rips CNN's Lemon for slam on Trump supporters: 'They want to cancel all of us with conservative beliefs'",
-      "excerpt": "Ind., pushed back Friday on CNN anchor Don Lemon's claim that people who voted for President Trump are on the side of Nazis and the Ku Klux Klan.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/banks-rips-lemon-trump-supporters-cancel-conservative-beliefs",
-      "originalUrl": "https://www.foxnews.com/media/banks-rips-lemon-trump-supporters-cancel-conservative-beliefs",
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/f5eZlbRGPNI/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/f5eZlbRGPNI/index.html",
       "featuredContent": null,
       "highlight": {
-        "text": "Republican Voice",
+        "text": "Democratic Voice",
         "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
+        "backgroundColor": "#0015BC"
       },
-      "heat": 135,
+      "heat": 148,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200830120243-01-trump-0731-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -603,16 +603,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/banks-rips-lemon-trump-supporters-cancel-conservative-beliefs.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/banks-rips-lemon-trump-supporters-cancel-conservative-beliefs.amp",
-      "publishedDateTime": "2021-01-15T14:32:00-08:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/15/politics/manhattan-da-trump-organization-family-compound-westchester/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/15/politics/manhattan-da-trump-organization-family-compound-westchester/index.html",
+      "publishedDateTime": "2021-01-15T13:48:34-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
+        "name": "CNN",
+        "domain": "cnn.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -629,64 +629,7 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-gop-sours-on-trump-but-many-cling-to-election-hoax.md",
-      "title": "GOP sours on Trump, but many cling to election hoax",
-      "excerpt": "As Republicans begin the process of moving on, one number stands out among their attitudes about this presidency...",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HMEDbdlYvh8/gop-sours-on-trump-but-many-cling-to-election-hoax",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HMEDbdlYvh8/gop-sours-on-trump-but-many-cling-to-election-hoax",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 1570,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/gop-sours-on-trump-but-many-cling-to-election-hoax.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-sours-on-trump-but-many-cling-to-election-hoax.amp",
-      "publishedDateTime": "2021-01-15T13:15:51-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
+        "Democratic Voice"
       ]
     },
     {
@@ -698,7 +641,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/trump-plans-depart-washington-inauguration-day-morning-pence/story?id=75280643",
       "featuredContent": null,
       "highlight": null,
-      "heat": 4318,
+      "heat": 5058,
       "tags": null,
       "images": [
         {
@@ -755,7 +698,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 2325,
+      "heat": 2265,
       "tags": null,
       "images": [
         {
@@ -914,6 +857,49 @@
       ]
     },
     {
+      "path": "_news/2021-01-16-kamala-harris-and-doug-emhoff-recall-first-date-it-felt-like-we-had-known-each-other-forever.md",
+      "title": "Kamala Harris and Doug Emhoff recall first date: ‘It felt like we had known each other forever’",
+      "excerpt": "CNN Vice President-elect Kamala Harris and her husband Doug Emhoff recalled their first date in a rare joint interview with CNN’s Abby Phillip,",
+      "sourceUrl": null,
+      "webUrl": "https://www.mercurynews.com/2021/01/15/kamala-harris-and-doug-emhoff-recall-first-date-it-felt-like-we-had-known-each-other-forever",
+      "originalUrl": "https://www.mercurynews.com/2021/01/15/kamala-harris-and-doug-emhoff-recall-first-date-it-felt-like-we-had-known-each-other-forever",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mercurynews.com/wp-content/uploads/2021/01/hypatia-h_263ed141685350633ca3cfd29159bf27-h_289cae49dbd4ed18e59e30ca1e35b524.jpg?w=1024&h=719",
+          "width": 1024,
+          "height": 719,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mercurynews.com/2021/01/15/kamala-harris-and-doug-emhoff-recall-first-date-it-felt-like-we-had-known-each-other-forever/amp/",
+      "cdnAmpWebUrl": "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/01/15/kamala-harris-and-doug-emhoff-recall-first-date-it-felt-like-we-had-known-each-other-forever/amp/",
+      "publishedDateTime": "2021-01-15T10:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mercury News",
+        "domain": "mercurynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-01-15-tillerson-slams-trump-as-pompeo-sings-his-praises.md",
       "title": "Tillerson slams Trump as Pompeo sings his praises",
       "excerpt": "Former Secretary of State Rex Tillerson painted a scathing picture of his old boss President Donald Trump as someone who made uninformed decisions that were not based in reality -- a stark contrast to Trump's top diplomat Mike Pompeo, who is heaping praise on the outgoing President in his final days",
@@ -926,7 +912,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 275,
+      "heat": 295,
       "tags": null,
       "images": [
         {
@@ -1023,58 +1009,6 @@
       "topics": [
         "Election",
         "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-01-16-power-up-trump-pence-relationship-may-set-lowest-bar-yet.md",
-      "title": "Power Up: Trump-Pence relationship may set lowest bar yet",
-      "excerpt": "The relationship between President Trump and Vice President Pence would have hit the history books as one of the tightest bonds between the highest-ranking members of American government. Until the events of Jan.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2021/01/15/power-up-trump-pence-relationship-may-set-lowest-bar-yet/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2021/01/15/power-up-trump-pence-relationship-may-set-lowest-bar-yet/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1260,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RWCCSACWYII6XLGFSLJIDGQ4ZM.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/01/15/power-up-trump-pence-relationship-may-set-lowest-bar-yet/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/15/power-up-trump-pence-relationship-may-set-lowest-bar-yet/?outputType=amp",
-      "publishedDateTime": "2021-01-15T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Mike Pence"
       ]
     },
@@ -1257,7 +1191,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 212,
+      "heat": 232,
       "tags": null,
       "images": [
         {
@@ -1350,6 +1284,62 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-15-bidens-19t-stimulus-plan-is-a-bailout-for-blue-states-bad-lockdown-policies-waltz.md",
+      "title": "Biden's $1.9T stimulus plan is a 'bailout' for blue states' bad lockdown policies: Waltz",
+      "excerpt": "Rep. Michael Waltz, R-Fla., took issue Friday with President-elect Joe Biden's massive $1.9 trillion stimulus package proposal that aims to combat the coronavirus and attempt to pump up a U.S. economy severely battered by the worst pandemic to strike the globe in a century.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ehl6ZP9KA0w/biden-stimulus-plan-bailout-blue-states-bad-lockdown-policies-waltz",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ehl6ZP9KA0w/biden-stimulus-plan-bailout-blue-states-bad-lockdown-policies-waltz",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/54727a25-d138-4f02-80c6-7a2dee4319e9/92ff4ba6-c8d8-4611-bc12-a63f4c66a2e0/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-stimulus-plan-bailout-blue-states-bad-lockdown-policies-waltz.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-stimulus-plan-bailout-blue-states-bad-lockdown-policies-waltz.amp",
+      "publishedDateTime": "2021-01-15T05:08:36-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
       ]
     }
   ],

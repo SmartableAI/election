@@ -79,6 +79,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Chronicling Trump's 10 worst abuses of power"
+    excerpt: "Former President Donald Trump flouted the limits of presidential power unlike any of his recent predecessors, leaving behind a legacy of unmatched abuses that range from violations of longstanding norms to potentially criminal behavior.\n    \n"
+    publishedDateTime: 2021-01-24T12:55:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/012U9NV0TYs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/24/politics/trump-worst-abuses-of-power/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/24/politics/trump-worst-abuses-of-power/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210114155358-20210114-trump-most-egregious-abuses-of-power-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: Looming impeachment trial renews trauma of the Trump years"
+    excerpt: "Five days into America's restored political normality, the stark delivery of an article of impeachment against former President Donald Trump to the Senate was a flashback to the horror of the Capitol insurrection and the trauma of the last four years.\n    \n"
+    publishedDateTime: 2021-01-26T03:33:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aooVigol1wA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/trump-impeachment-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/trump-impeachment-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210123004326-04-donald-trump-0120-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: On immigration, Biden seeks a new approach to an old deadlock"
     excerpt: "President Joe Biden's early moves on immigration signal his determination to learn from past efforts to reform the system, but that doesn't mean he won't repeat their legacy of frustration.\n    \n"
     publishedDateTime: 2021-01-26T12:22:33Z
@@ -172,6 +204,22 @@ related:
     quality: 169
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210130013250-01-biden-0128-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: Trump's in a historically strong 2024 primary position for an ex-president"
+    excerpt: "Donald Trump is no longer president. He no longer has the megaphone of Twitter.\n    \n"
+    publishedDateTime: 2021-01-30T15:01:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BqHTixEi1V8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/30/politics/trump-2024-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/30/politics/trump-2024-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210126134325-trump-1208-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -286,6 +334,22 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2021_05/3443371/210119-joe-biden-ac-949p_6cc3217a532cb2a7374b288ca74a1dfc.jpg"
         width: 2500
         height: 1659
+        isCached: true
+  - title: "He used to win elections in a Never-Trump stronghold. Now he’s leading Trump’s legal team."
+    excerpt: "Pennsylvania’s political world is buzzing about the lawyer who will defend the former president in his second impeachment trial."
+    publishedDateTime: 2021-02-02T02:21:00Z
+    webUrl: "https://www.politico.com/news/2021/02/01/bruce-castor-trump-lawyer-464706"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/02/01/bruce-castor-trump-lawyer-464706"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/02/01/bruce-castor-trump-lawyer-464706"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 140
+    images:
+      - url: "https://static.politico.com/7c/96/3016cfae4868aa2403419f14d1a9/ap123809220465-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Biden pitching a much vaster climate plan than Obama ever attempted"
     excerpt: "President Joe Biden is launching his sweeping assault on climate change with a much larger army of allies than Barack Obama had 12 years ago — a coalition that ranges from labor unions, anti-fracking activists and racial justice advocates to leaders of Wall Street,"

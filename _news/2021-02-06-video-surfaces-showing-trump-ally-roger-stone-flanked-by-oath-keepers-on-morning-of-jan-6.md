@@ -95,17 +95,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "In Wyoming, Cheney faces blowback for vote to impeach Trump"
-    excerpt: "When Liz Cheney, the third-ranking Republican in the House of Representatives, decided to vote to impeach a president from her own party, she knew she'd cause some waves. She might not have expected the seismic impact at home."
-    publishedDateTime: 2021-01-28T14:23:00Z
-    webUrl: "https://www.businessinsider.com/in-wyoming-cheney-faces-blowback-for-vote-to-impeach-trump-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/in-wyoming-cheney-faces-blowback-for-vote-to-impeach-trump-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/in-wyoming-cheney-faces-blowback-for-vote-to-impeach-trump-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
   - title: "Illinois GOP says Rep. Adam Kinzinger and other Republicans who voted to impeach Trump ‘created widespread division and anger’ in the party"
     excerpt: "The Illinois Republican Party issued a mild rebuke to Republican U.S. Rep. Adam Kinzinger, saying it disagreed with his vote to impeach former President Donald Trump as it sought to clear its agenda for a Saturday meeting to pick a new chairman who could unify the party."
     publishedDateTime: 2021-02-05T19:50:00Z

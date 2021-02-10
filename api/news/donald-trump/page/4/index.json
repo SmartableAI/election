@@ -2,6 +2,224 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-01-21-are-you-qanon-one-trump-officials-brush-with-an-internet-cult-gone-horribly-wrong.md",
+      "title": "‘Are you QAnon?’: One Trump official’s brush with an internet cult gone horribly wrong",
+      "excerpt": "Some believed he was “Q,” the mythical figure behind an intricate and sprawling conspiracy theory. Here Ezra Cohen-Watnick, a senior Trump intelligence official, shares the story of his ordeal for the first time.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2021/01/19/qanon-trump-ezra-cohen-watnick-460520",
+      "originalUrl": "https://www.politico.com/news/2021/01/19/qanon-trump-ezra-cohen-watnick-460520",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/b8/1b/96060a344ea9a033e49cc31eddfa/210119-ezra-cohen-ap-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-20T14:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-21-donald-trump-grants-clemency-to-legendary-las-vegas-gambler-billy-walters.md",
+      "title": "Donald Trump grants clemency to legendary Las Vegas gambler Billy Walters",
+      "excerpt": "Famed sports gambler Billy Walters was among the 143 people to which outgoing President Donald Trump granted clemency in his final day in office.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/gambling/sns-actnet-donald-trump-clemency-las-vegas-gambler-billy-walters-20210120-5gdsjalegjbsdjbtizyqf6c7qq-story.html",
+      "originalUrl": "https://www.chicagotribune.com/gambling/sns-actnet-donald-trump-clemency-las-vegas-gambler-billy-walters-20210120-5gdsjalegjbsdjbtizyqf6c7qq-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/2t16n8Mz9CcYaGATnLGU-glOYJs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KOZBWRJWBJHHPENSR4ZSMVOI4M.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/gambling/sns-actnet-donald-trump-clemency-las-vegas-gambler-billy-walters-20210120-5gdsjalegjbsdjbtizyqf6c7qq-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/gambling/sns-actnet-donald-trump-clemency-las-vegas-gambler-billy-walters-20210120-5gdsjalegjbsdjbtizyqf6c7qq-story.html?outputType=amp",
+      "publishedDateTime": "2021-01-20T09:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-21-how-the-government-will-thoroughly-clean-and-disinfect-white-house-furniture-door-knobs-and-light-switches-after-trump-leaves.md",
+      "title": "How the government will 'thoroughly clean and disinfect' White House furniture, door knobs, and light switches after Trump leaves",
+      "excerpt": "The Trump White House has been a hot spot for coronavirus infections. Joe Biden and his team will want to clean up before moving in.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/biden-white-house-inauguration-trump-coronavirus-disinfection-2020-12",
+      "originalUrl": "https://www.businessinsider.com/biden-white-house-inauguration-trump-coronavirus-disinfection-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fc827f450e71a001155893f?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-20T08:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-kirstie-alley-slams-katie-couric-over-comments-about-needing-to-deprogram-donald-trumps-supporters.md",
+      "title": "Kirstie Alley slams Katie Couric over comments about needing to 'deprogram' Donald Trump's supporters",
+      "excerpt": "Kirstie Alley fired back at Katie Couric over comments she made on Bill Maher’s show about the need to “deprogram” Donald Trump's supporters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/entertainment/kirstie-alley-katie-couric-deprogram-donald-trump-supporters",
+      "originalUrl": "https://www.foxnews.com/entertainment/kirstie-alley-katie-couric-deprogram-donald-trump-supporters",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Alley-Couric-Getty-AP.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/entertainment/kirstie-alley-katie-couric-deprogram-donald-trump-supporters.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/kirstie-alley-katie-couric-deprogram-donald-trump-supporters.amp",
+      "publishedDateTime": "2021-01-20T07:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-20-racism-allowed-donald-trump-free-rein-to-terrorize-the-american-people-for-four-years-msnbc-analyst.md",
       "title": "Racism allowed Donald Trump 'free rein to terrorize the American people for four years:' MSNBC analyst",
       "excerpt": "New York Times editorial board member Mara Gay said Wednesday that President Trump had been allowed to \"terrorize the American people for four years\" because of racist elements in the country.",
@@ -56,121 +274,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-donald-trump-pardons-commutes-lil-wayne-kodak-black-sentences-prompting-reactions-from-fans-and-critics.md",
-      "title": "Donald Trump pardons, commutes Lil Wayne, Kodak Black sentences prompting reactions from fans and critics",
-      "excerpt": "Donald Trump has issued a pardon and sentence commutation to rappers Lil Wayne and Kodak Black ahead of Joe Biden's inauguration. President Trump issued 73 pardons and 70 sentence commutations early Wednesday as he prepared to leave office.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/entertainment/donald-trump-pardons-commutes-lil-wayne-kodak-black-reactions-fans-cricits",
-      "originalUrl": "https://www.foxnews.com/entertainment/donald-trump-pardons-commutes-lil-wayne-kodak-black-reactions-fans-cricits",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20346763036479.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/entertainment/donald-trump-pardons-commutes-lil-wayne-kodak-black-reactions-fans-cricits.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/donald-trump-pardons-commutes-lil-wayne-kodak-black-reactions-fans-cricits.amp",
-      "publishedDateTime": "2021-01-20T05:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-snoop-dogg-praises-trump-for-commuting-sentence-of-death-row-record-co-founder-michael-harry-o-harris.md",
-      "title": "Snoop Dogg praises Trump for commuting sentence of Death Row Record co-founder Michael 'Harry O' Harris",
-      "excerpt": "Snoop Dogg praised President Trump in his final hours in office for commuting the sentence of his friend, Death Row Records co-founder Michael \"Harry O\" Harris.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/entertainment/snoop-dogg-praises-trump-commuting-sentence-michael-harry-o-harris-death-row-records",
-      "originalUrl": "https://www.foxnews.com/entertainment/snoop-dogg-praises-trump-commuting-sentence-michael-harry-o-harris-death-row-records",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Snoop-Dogg.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/entertainment/snoop-dogg-praises-trump-commuting-sentence-michael-harry-o-harris-death-row-records.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/snoop-dogg-praises-trump-commuting-sentence-michael-harry-o-harris-death-row-records.amp",
-      "publishedDateTime": "2021-01-20T04:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice",
-        "Kamala Harris"
       ]
     },
     {
@@ -234,7 +337,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/jan/20/donald-trump-pardons-steve-bannon-amid-last-acts-of-presidency-report",
       "featuredContent": null,
       "highlight": null,
-      "heat": 465,
+      "heat": 565,
       "tags": null,
       "images": [
         {
@@ -321,63 +424,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-20-deepening-schism-mcconnell-says-trump-provoked-capitol-mob.md",
-      "title": "Deepening Schism, McConnell Says Trump ‘Provoked’ Capitol Mob",
-      "excerpt": "The Senate majority leader’s remarks were the clearest signal yet that he has come to regard President Trump as a force who could drag down the Republican Party.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/01/19/us/politics/mcconnell-trump-capitol-riot.html",
-      "originalUrl": "https://www.nytimes.com/2021/01/19/us/politics/mcconnell-trump-capitol-riot.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/01/20/us/politics/20dc-impeach-print1/merlin_182544633_d1e4184e-735b-489a-9ebb-4d606488bf5e-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/01/19/us/politics/mcconnell-trump-capitol-riot.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/19/us/politics/mcconnell-trump-capitol-riot.amp.html",
-      "publishedDateTime": "2021-01-19T17:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-01-20-annika-sorenstam-defends-accepting-award-from-donald-trump.md",
       "title": "Annika Sörenstam defends accepting award from Donald Trump",
       "excerpt": "Annika Sörenstam, who received the presidential medal of freedom from Donald Trump the day after US Capitol riot, has defended her decision",
@@ -386,7 +432,7 @@
       "originalUrl": "https://www.theguardian.com/sport/2021/jan/19/annika-sorenstam-defends-accepting-award-from-donald-trump",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -586,58 +632,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-19-carl-icahn-nixes-charity-bid-to-blow-up-ex-trump-casino.md",
-      "title": "Carl Icahn nixes charity bid to blow up ex-Trump casino",
-      "excerpt": "An auction house seeking bids to blow up a former casino once owned by President Donald Trump has canceled the effort after receiving a cease-and-desist letter from conservative billionaire Carl Icahn",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/business/carl-icahn-nixes-charity-bid-to-blow-up-ex-trump-casino/2021/01/18/12e1ce34-59c7-11eb-a849-6f9423a75ffd_story.html",
-      "originalUrl": "https://www.washingtonpost.com/business/carl-icahn-nixes-charity-bid-to-blow-up-ex-trump-casino/2021/01/18/12e1ce34-59c7-11eb-a849-6f9423a75ffd_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 345,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/business/carl-icahn-nixes-charity-bid-to-blow-up-ex-trump-casino/2021/01/18/12e1ce34-59c7-11eb-a849-6f9423a75ffd_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/carl-icahn-nixes-charity-bid-to-blow-up-ex-trump-casino/2021/01/18/12e1ce34-59c7-11eb-a849-6f9423a75ffd_story.html?outputType=amp",
-      "publishedDateTime": "2021-01-18T16:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-01-18-majority-of-americans-think-history-will-view-trump-as-failed-president.md",
       "title": "Majority of Americans Think History Will View Trump as 'Failed' President",
       "excerpt": "Evaluating a president's time in office often requires a rearview mirror. While history has yet to weigh in on President Donald Trump's time in office, Americans don't see President Donald Trump receiving positive remarks down the road. After a contentious ...",
@@ -646,7 +640,7 @@
       "originalUrl": "https://www.newsweek.com/majority-americans-think-history-will-view-trump-failed-president-1562394",
       "featuredContent": null,
       "highlight": null,
-      "heat": 324,
+      "heat": 304,
       "tags": null,
       "images": [
         {
@@ -859,7 +853,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/2021/01/17/live-updates-monitoring-colorado-capitol-protests-jan-17/4196764001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 155,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -955,58 +949,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-18-paleologos-on-the-poll-inauguration-day-isnt-the-end-of-the-trump-era-its-just-the-beginning.md",
-      "title": "Paleologos on the Poll: Inauguration Day isn't the end of the Trump era. It's just the beginning.",
-      "excerpt": "David Paleologos, director of the Suffolk University Political Research Center, says Trump would be the favorite in the 2024 GOP primary.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/01/17/paleologos-poll-trump-era-just-getting-started/4196345001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/01/17/paleologos-poll-trump-era-just-getting-started/4196345001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/01/17/USAT/70c724f1-c6e6-4639-a168-b6684566f5d1-AP_Capitol_Breach_Rally_Organizers.jpg?auto=webp&crop=4519,2542,x562,y162&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/4196345001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4196345001",
-      "publishedDateTime": "2021-01-17T11:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-01-18-top-fema-official-attended-trumps-stop-the-steal-rally.md",
       "title": "Top FEMA official attended Trump's 'Stop the Steal' rally",
       "excerpt": "A top official at the Federal Emergency Management Agency, which has been assisting in preparations for the Inauguration next week, attended President Donald Trump’s “Stop the Steal” rally on Jan. 6. At that rally, Trump urged his followers to ...",
@@ -1072,7 +1014,7 @@
       "originalUrl": "https://www.newsweek.com/2021/02/05/joe-bidens-options-dealing-donald-trump-are-worse-watergate-1562142.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1888,
+      "heat": 1188,
       "tags": null,
       "images": [
         {
@@ -1117,25 +1059,25 @@
       ]
     },
     {
-      "path": "_news/2021-01-17-he-has-an-obligation-to-them-attorney-for-qanon-shaman-asks-trump-to-pardon-rioters.md",
-      "title": "‘He has an obligation to them’: Attorney for ‘QAnon shaman’ asks Trump to pardon rioters",
-      "excerpt": "The lawyer for the “QAnon shaman” who was part of the deadly siege of the Capitol last week publicly petitioned President Donald Trump on Thursday to pardon his client. In an interview on CNN, attorney Albert Watkins said his client, Jacob Chansley ...",
+      "path": "_news/2021-01-17-trump-reps-decline-comment-on-giuliani-involvement.md",
+      "title": "Trump reps decline comment on Giuliani involvement",
+      "excerpt": "Rudy Giuliani claimed on ABC News Saturday that he’ll help defend the president at his upcoming second impeachment trial — but a Trump spokesman to tweeted hours later that Trump has",
       "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/01/15/attorney-qanon-shaman-trump-pardon-459608",
-      "originalUrl": "https://www.politico.com/news/2021/01/15/attorney-qanon-shaman-trump-pardon-459608",
+      "webUrl": "https://nypost.com/2021/01/17/rudy-g/",
+      "originalUrl": "https://nypost.com/2021/01/17/rudy-g/",
       "featuredContent": null,
       "highlight": {
-        "text": "Democratic Voice",
+        "text": "Republican Voice",
         "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
+        "backgroundColor": "#FF0000"
       },
-      "heat": 126,
+      "heat": 135,
       "tags": null,
       "images": [
         {
-          "url": "https://static.politico.com/07/b6/307e93354e7abd5c6e56ee1bf883/jacob-chansley-773-ap.jpg",
-          "width": 1160,
-          "height": 773,
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/01/BB443C72-C7CF-4708-8F58-B85E14ECD1CD.jpeg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1143,23 +1085,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2021/01/15/attorney-qanon-shaman-trump-pardon-459608",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/15/attorney-qanon-shaman-trump-pardon-459608",
-      "publishedDateTime": "2021-01-16T19:23:00-08:00",
+      "ampWebUrl": "https://nypost.com/2021/01/17/rudy-g/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/17/rudy-g/amp/",
+      "publishedDateTime": "2021-01-17T00:19:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1170,7 +1103,7 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Democratic Voice"
+        "Republican Voice"
       ]
     },
     {
@@ -1438,7 +1371,7 @@
       "originalUrl": "https://www.washingtonpost.com/local/social-issues/census-battle-ends-as-trump-administration-gives-up-on-excluding-undocumented-from-apportionment/2021/01/16/bd17025c-57ba-11eb-a931-5b162d0d033d_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 232,
+      "heat": 192,
       "tags": null,
       "images": [
         {
@@ -1490,7 +1423,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/trump-trial-pending-mcconnell-calls-it-vote-of-conscience/2021/01/16/793bebec-57ba-11eb-acc5-92d2819a1ccb_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 605,
+      "heat": 545,
       "tags": null,
       "images": [
         {
@@ -1534,25 +1467,21 @@
       ]
     },
     {
-      "path": "_news/2021-01-16-dustin-higgs-becomes-13th-and-final-inmate-executed-under-trump.md",
-      "title": "Dustin Higgs becomes 13th and final inmate executed under Trump",
-      "excerpt": "Another federal death row inmate in Indiana was executed early Saturday — marking final execution under the Trump administration, and the 13th since July. Dustin John Higgs, convicted of",
+      "path": "_news/2021-01-16-capitol-riots-what-are-far-right-trump-supporters-saying.md",
+      "title": "Capitol riots: What are far-right Trump supporters saying?",
+      "excerpt": "Members of the extreme right are searching for new online homes, amid paranoia that they are being ‘set up’ by the authorities.",
       "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/01/16/dustin-higgs-becomes-13th-and-final-inmate-to-be-executed/",
-      "originalUrl": "https://nypost.com/2021/01/16/dustin-higgs-becomes-13th-and-final-inmate-to-be-executed/",
+      "webUrl": "https://www.bbc.com/news/blogs-trending-55679813",
+      "originalUrl": "https://www.bbc.com/news/blogs-trending-55679813",
       "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
+      "highlight": null,
+      "heat": 225,
       "tags": null,
       "images": [
         {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/01/Dustin-John-Higgs.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/754F/production/_116413003_gettyimages-578547390.jpg",
+          "width": 1024,
+          "height": 576,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1560,14 +1489,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/01/16/dustin-higgs-becomes-13th-and-final-inmate-to-be-executed/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/16/dustin-higgs-becomes-13th-and-final-inmate-to-be-executed/amp/",
-      "publishedDateTime": "2021-01-16T00:20:00-08:00",
+      "ampWebUrl": "https://www.bbc.com/news/amp/blogs-trending-55679813",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/blogs-trending-55679813",
+      "publishedDateTime": "2021-01-15T16:36:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1577,8 +1515,59 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump",
-        "Republican Voice"
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-16-trump-receives-moroccos-highest-award-for-middle-east-work-official.md",
+      "title": "Trump receives Morocco's highest award for Middle East work: official",
+      "excerpt": "U.S. President Donald Trump on Friday received Morocco's highest award for his work in advancing a normalization deal between Israel and Morocco, a senior administration official told Reuters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-trump-morocco/trump-receives-moroccos-highest-award-for-middle-east-work-official-idUSKBN29K2GK?edition-redirect=ca",
+      "originalUrl": "https://www.reuters.com/article/us-usa-trump-morocco/trump-receives-moroccos-highest-award-for-middle-east-work-official-idUSKBN29K2GK?edition-redirect=ca",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547969691&r=LYNXMPEH0E1FT&w=800",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-15T16:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     }
   ],

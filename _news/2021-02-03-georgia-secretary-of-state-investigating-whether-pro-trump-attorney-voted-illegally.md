@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/02/politics/lin-wood-georgia-electio
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/02/politics/lin-wood-georgia-election-2020/index.html"
 type: article
 quality: 169
-heat: 209
+heat: 229
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209140912-01-lloyd-austin-secretary-of-defense-announcement-1209-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Manhattan D.A. Is Investigating Bannon, Who Was Pardoned by Trump"
+    excerpt: "Stephen K. Bannon got a last-minute pardon from President Donald J. Trump in a federal fraud case, but now state prosecutors are considering bringing charges."
+    publishedDateTime: 2021-02-03T04:52:00Z
+    webUrl: "https://www.nytimes.com/2021/02/02/nyregion/bannon-vance-fraud-border-wall.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/02/nyregion/bannon-vance-fraud-border-wall.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/02/nyregion/bannon-vance-fraud-border-wall.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/02/us/politics/02bannon/merlin_175958688_b193b6e4-ee38-428c-a0f6-ce830c7dcc01-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Ex-FBI lawyer spared prison for altering Trump-Russia probe email"
     excerpt: "The only person charged in the Justice Department's investigation into the origins of the probe President Donald Trump's 2016 campaign and its ties to Russia was spared prison time for altering an email used to support a surveillance application."

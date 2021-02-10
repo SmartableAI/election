@@ -43,17 +43,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Mike Pence’s Loyalty Test"
-    excerpt: "Donald Trump believes Mike Pence can stop Congress from certifying his election loss. It’s not true, but there could still be hell to pay when he doesn’t."
-    publishedDateTime: 2021-01-05T23:03:00Z
-    webUrl: "https://www.usnews.com/news/elections/articles/2021-01-05/mike-pences-loyalty-test"
-    ampWebUrl: "https://www.usnews.com/news/elections/articles/2021-01-05/mike-pences-loyalty-test?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/elections/articles/2021-01-05/mike-pences-loyalty-test?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "qgdbKrDj9WdIoaTTzZ+sd3Yazzb1xOabfrh6HOaP0XC/oppZDRAh8XjqaQ4YqZGBzomq8zelpRBdChBpgfKC5VRMR/wvKNBs4mSHIbQPBI4GcNPDCmlLNo45pWWE8+LvDoQVxLD2pqPIT9s1+VCUyxpH0UIsfciTFnbZEgn370WRMzNFz1N7A1oJNGeVJ6V0Py+S8c4VELrUIckE6oBX4PuPGwBlp982X835wsYRdBqpkZ1a093C8HQq1APZQ4S+WquTCLuOgmNsgbFQVnudgwxoWpVfUgONR2+3AZZXgX057tm1al+Cpntg9BaYuzwfofh63lQjA+QSwfGIBVva6g/ooqzDXeiiN36H1VeAILuDnv7S/7RZ/jTiHgtqtNlESjCFDLb7VJ76SlYcAr5jnzFcF4Sa6rw53kZlin2uWrLHsaA80GnyOQg60PFAxlEDp1/MY/QaPxQD3gYuUYjRTfTm/IwZlRHit4iIQODsAXkotTuqOoO2ymtv1b/YCqQZqueHYABr6PIfxAWAmjNuHg==;tu0hD0LP3qGVD7wW+2TmPQ=="
 ---

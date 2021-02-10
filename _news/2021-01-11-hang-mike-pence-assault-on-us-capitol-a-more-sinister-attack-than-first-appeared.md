@@ -43,6 +43,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Capitol Riot Mob May Have Been Targeting Mike Pence, Chanted To ‘Hang’ Vice President"
+    excerpt: "New information has come to light regarding the intents of some members of the mob of Trump supports who rioted at the Capitol."
+    publishedDateTime: 2021-01-09T18:15:00Z
+    webUrl: "https://www.ibtimes.com/capitol-riot-mob-may-have-been-targeting-mike-pence-chanted-hang-vice-president-3118058"
+    ampWebUrl: "https://www.ibtimes.com/capitol-riot-mob-may-have-been-targeting-mike-pence-chanted-hang-vice-president-3118058?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/capitol-riot-mob-may-have-been-targeting-mike-pence-chanted-hang-vice-president-3118058?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 68
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/12/us-vice-president-mike-pence-pictured-during-the.jpg"
+        width: 1024
+        height: 681
+        isCached: true
   - title: "Rioters chant 'hang Mike Pence' at Capitol as Pence fled"
     excerpt: "CNN's Tom Foreman reports on a new report by the Washington Post detailing how close rioters were to spotting Vice President Mike Pence inside the US Capitol."
     publishedDateTime: 2021-01-15T23:46:00Z

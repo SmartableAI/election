@@ -31,69 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "Google, Microsoft, Verizon on Biden Inauguration Committee donor list"
-    excerpt: "Google, Microsoft, and Verizon are among President-elect Joe Biden's Inauguration Committee donors."
-    publishedDateTime: 2021-01-10T16:59:55Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/u0gqqBSjynQ/google-microsoft-verizon-biden-inauguration-committee"
-    ampWebUrl: "https://www.foxnews.com/politics/google-microsoft-verizon-biden-inauguration-committee.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/google-microsoft-verizon-biden-inauguration-committee.amp"
+  - title: "Biden: Trump 'not above the law. Justice serves the people — it doesn’t protect the powerful'"
+    excerpt: "President-elect Joe Biden said on Twitter Saturday that President Trump is “not above the law,” after the House announced it would be bringing forth articles of impeachment on Monday."
+    publishedDateTime: 2021-01-10T01:55:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5m1UToI_cQo/biden-trump-not-above-law"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-not-above-law.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-not-above-law.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 179
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/00e79b30-AP21006762088029.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/AP21007689539650.jpg"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "Secret Service to begin Biden inauguration security operations Jan. 13"
-    excerpt: "The Secret Service will begin security operations on Jan. 13 for President-elect Joe Biden’s Inauguration— days earlier than originally planned in wake of last week’s Capitol riot."
-    publishedDateTime: 2021-01-11T22:04:36Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0ZxH5yFXHSY/secret-service-biden-inauguration-security-jan-13"
-    ampWebUrl: "https://www.foxnews.com/politics/secret-service-biden-inauguration-security-jan-13.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/secret-service-biden-inauguration-security-jan-13.amp"
+  - title: "Will Democrats impeach Trump before he leaves office? How it would work"
+    excerpt: "Pelosi says Democrats could consider a second set of articles of impeachment for the president next week."
+    publishedDateTime: 2021-01-08T19:44:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/u11dFic2Ue8/will-democrats-impeach-trump-how-it-works"
+    ampWebUrl: "https://www.foxnews.com/politics/will-democrats-impeach-trump-how-it-works.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/will-democrats-impeach-trump-how-it-works.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Migrant caravan demands Biden administration 'honors its commitments'"
-    excerpt: "A migrant caravan moving from Honduras toward the U.S. border is calling on the incoming Biden administration to honor what it says are \"commitments\" to the migrants moving north, amid fears of a surge at the border when President-elect Joe Biden enters office."
-    publishedDateTime: 2021-01-16T19:44:37Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dB2jQlxknAE/migrant-caravan-biden-administration-commitments"
-    ampWebUrl: "https://www.foxnews.com/politics/migrant-caravan-biden-administration-commitments.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/migrant-caravan-biden-administration-commitments.amp"
+  - title: "Article of impeachment against Trump to be introduced Monday in House"
+    excerpt: "Rep. Ted Lieu, D-Calif., said Saturday that the House had reached 180 co-sponsors for an Article of Impeachment against President Trump, and the chamber would introduce the measure on Monday. "
+    publishedDateTime: 2021-01-09T20:47:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BN1avJc5Pa0/article-of-impeachment-trump-january-11-house"
+    ampWebUrl: "https://www.foxnews.com/politics/article-of-impeachment-trump-january-11-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/article-of-impeachment-trump-january-11-house.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/43d8096c-96b6-417b-9e70-d106d78ea892/bc25fb44-5fe3-47a2-9bd7-1ee6ed3cb202/1280x720/match/image.jpg"
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2019/09/26/694940094001_6089811276001_6089809166001-vs.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "FBI internal memo warns of plans for armed protests in all 50 state capitals ahead of Biden inauguration"
-    excerpt: "An internal FBI memo is warning of plans for armed protests in all 50 state capital cities ahead of President-elect Joe Biden’s Inauguration, Fox News has learned."
-    publishedDateTime: 2021-01-11T20:30:28Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9R-VWkImoHA/fbi-internal-memo-warns-of-plans-for-armed-protests-in-all-50-state-capitals-ahead-of-biden-inauguration"
-    ampWebUrl: "https://www.foxnews.com/politics/fbi-internal-memo-warns-of-plans-for-armed-protests-in-all-50-state-capitals-ahead-of-biden-inauguration.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fbi-internal-memo-warns-of-plans-for-armed-protests-in-all-50-state-capitals-ahead-of-biden-inauguration.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 158
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
   - title: "Biden: 'Not afraid' to take oath outside amid inauguration security concerns"
     excerpt: "President-elect Joe Biden says he’s “not afraid” to take the oath of office outside during his inauguration next week."
@@ -111,38 +95,43 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Joe Biden’s Inauguration: When Is It, and How Has the Covid-19 Pandemic Changed It?"
-    excerpt: "President-elect Joe Biden will be sworn into office on Jan. 20 in a scaled-down inauguration that will look different from past years because of the coronavirus pandemic."
-    publishedDateTime: 2021-01-04T19:28:00Z
-    webUrl: "https://www.wsj.com/articles/joe-bidens-inauguration-when-is-it-and-how-has-the-covid-19-pandemic-changed-it-11609787919"
-    ampWebUrl: "https://www.wsj.com/amp/articles/joe-bidens-inauguration-when-is-it-and-how-has-the-covid-19-pandemic-changed-it-11609787919"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-bidens-inauguration-when-is-it-and-how-has-the-covid-19-pandemic-changed-it-11609787919"
+  - title: "Trump Allies Criticize Twitter’s Ban on President’s Account"
+    excerpt: "Allies of President Trump decried Twitter’s ban of his account, arguing it represented the biggest move yet to silence conservative voices. “Big Tech’s PURGE, censorship & abuse of power is absurd & profoundly dangerous,"
+    publishedDateTime: 2021-01-09T20:32:00Z
+    webUrl: "https://www.wsj.com/livecoverage/trump-impeachment-democrats-biden-latest/card/7XmDAvtSs487MuOTpGUZ"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 129
+    quality: 115
     images:
-      - url: "https://images.wsj.net/im-280273/social"
+      - url: "https://images.wsj.net/im-283158?size=1.5"
         width: 1280
-        height: 640
+        height: 853
         isCached: true
-  - title: "George W. Bush will attend Biden inauguration to witness 'peaceful transfer of power'"
-    excerpt: "Former President George W. Bush and former first lady Laura Bush will attend President-elect Joe Biden’s inauguration in Washington D.C. later this month."
-    publishedDateTime: 2021-01-06T03:40:00Z
-    webUrl: "https://www.foxnews.com/politics/george-w-bush-attend-biden-inauguration-witness-peaceful-transfer-of-power"
-    ampWebUrl: "https://www.foxnews.com/politics/george-w-bush-attend-biden-inauguration-witness-peaceful-transfer-of-power.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/george-w-bush-attend-biden-inauguration-witness-peaceful-transfer-of-power.amp"
+  - title: "Biden: Don't Dare Call Them Protesters, They Were A Riotous Mob And Domestic Terrorists"
+    excerpt: "President-elect Joe Biden denounces the riots on Capitol Hill on Wednesday at an event introducing Merrick Garland as his nominee for Attorney General. PRESIDENT-ELECT JOE BIDEN: I know you're all going to have a lot of questions,"
+    publishedDateTime: 2021-01-07T20:27:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/01/07/biden_dont_dare_call_them_protesters_they_were_a_riotous_mob_and_domestic_terrorists.html"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 128
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 57
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7800ea58-ed83-49bd-bb53-646cbf3599ea/9d505cad-ce21-49db-9435-b8f5d876bd5a/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://assets.realclear.com/images/53/531715.jpg"
+        width: 1012
+        height: 758
         isCached: true
+  - title: "Why Ban of President Trump Proves Twitter Not 'Just a Platform'"
+    excerpt: "So Twitter has permanently banned President Donald Trump's account. While this will please Democrats, and perhaps lessen the (justifiable) heat the company is taking from regulators, it just prov… This is what happened."
+    publishedDateTime: 2021-01-09T14:56:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/01/09/why_ban_of_president_trump_proves_twitter_not_just_a_platform_533042.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "OxjmrHRoKkQ2lkq8ByyxzU2HN+rBN5v9kH5mG0Y7JOl332JIoSldQrOa0aXjI/AX0MiPPcOWo2BhRDqx3QnCdQQicxVyX+j4LK9naG22oxpZlbrWhnvKkCzk3oyfdDkb/NrqOdwHxyLn4HLZrY4S6C3wRSPGaCv2Z/Z9R2DHeSy1agDGk8e2haJoeZBwji1gnnJ2HBP0z4aj2KfkOau+hbFuJzVn4m2JJiG80ZLODeeVm+d9z85nXN5Y2EraPP9vCYyw6tQNQ8rIM6wpzkymLqmsbyLNAkP0aSKI12ghWbFeGRMEb9k4EEdSfZ3zeqIRyvy32XJ931LpA5hs2UN1WlqUc+YLt34czXlyoAyf8K4=;m1w4ImkbxDE2M+zxDj9m1g=="
 ---

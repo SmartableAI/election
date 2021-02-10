@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/25th-amendment-house-debate-pence-w
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/25th-amendment-house-debate-pence-watch-live-stream-today-2021-01-12/"
 type: article
 quality: 121
-heat: 181
+heat: 201
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 120
     images:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/12/de23e810-62d0-43b0-8b13-589424e1b945/thumbnail/1200x630/6214aa2691335ea4d178b0de0ddd311b/gettyimages-1230536583.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Live Updates: Pence says he won't invoke 25th Amendment as House prepares to act"
+    excerpt: "House Democrats said they will move forward Wednesday with a vote on impeaching President Trump if Pence does not invoke the amendment."
+    publishedDateTime: 2021-01-13T01:20:00Z
+    webUrl: "https://www.cbsnews.com/live-updates/trump-impeachment-25th-amendment-2021-01-12/"
+    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/trump-impeachment-25th-amendment-2021-01-12/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/trump-impeachment-25th-amendment-2021-01-12/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/13/3d46e6fa-c74e-41cc-be16-96e683b81c3e/thumbnail/1200x630/6416c4237a17d28bc745050913d7d613/gettyimages-1230408840.jpg"
         width: 1200
         height: 630
         isCached: true

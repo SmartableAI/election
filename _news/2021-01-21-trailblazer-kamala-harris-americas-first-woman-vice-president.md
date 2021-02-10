@@ -141,22 +141,6 @@ related:
         width: 619
         height: 309
         isCached: true
-  - title: "With Kamala Harris as vice president, expect Indian Americans to get more involved in politics"
-    excerpt: "Indian Americans have seen their political stock rise in 2020 with the election of Kamala D. Harris — whose mother was born in Chennai, India — as the next vice president of the United States. Indian Americans across the country celebrated her victory,"
-    publishedDateTime: 2021-01-04T11:05:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/01/04/with-kamala-harris-vice-president-expect-indian-americans-get-more-politically-active/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/04/with-kamala-harris-vice-president-expect-indian-americans-get-more-politically-active/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/04/with-kamala-harris-vice-president-expect-indian-americans-get-more-politically-active/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 113
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PHZCOXCJIMI6XF5WJ247OL7UNM.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Meet Vice President-elect Kamala Harris' \"secret weapon\": Her sorority sisters from Alpha Kappa Alpha"
     excerpt: "Members of the country's first Black sorority, which the vice president-elect joined while at Howard University, discuss what Harris' success means to them."
     publishedDateTime: 2021-01-18T17:11:00Z
@@ -262,6 +246,20 @@ related:
       - url: "https://www.chicagotribune.com/resizer/UPr6Q60l0I58--VyC8AgXhAxoWk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZFT3MU6F6VBK7LNE3T4HL6RCQU.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Choice of Alex Padilla for Kamala Harris' Senate seat shakes up California politics"
+    excerpt: "As Vice President-elect Kamala Harris resigns from the Senate, California Governor Gavin Newsom has named the state's attorney general, Alex Padilla, to fill the seat. Sophia Bollag, a politics reporter covering the Newsom administration at the Sacramento Bee,"
+    publishedDateTime: 2021-01-18T20:58:00Z
+    webUrl: "https://www.cbsnews.com/video/kamala-harris-senate-seat-alex-padilla-california-governor-gavin-newsom/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 99
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/18/34f67477-bbf9-4d10-8c82-69aff53c73b0/thumbnail/1200x630/7753bf2e1481a9d9996d7d9f41e42e58/cbsn-fusion-kamala-harris-senate-seat-alex-padilla-california-governor-gavin-newsom-thumbnail-628754-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Kamala Harris' Alpha Kappa Alpha line sisters talk about early years of the future vice president"
     excerpt: "Vice President-elect Kamala Harris has never been shy about sharing her love for her sorority, Alpha Kappa Alpha Sorority, Inc. Three of her line sisters joined \"CBS The Morning: Saturday\" co-host Michelle Miller at Howard University to talk about the early days of the future vice president of the United States."
@@ -437,6 +435,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Kamala Harris' husband Doug Emhoff puts her career first as second gentleman, breaking gender stereotypes"
+    excerpt: "Doug Emhoff, husband of Vice President-elect Kamala Harris, quit his job as a lawyer to be second gentleman, breaking gender and race stereotypes."
+    publishedDateTime: 2021-01-20T07:28:00Z
+    webUrl: "https://www.desmoinesregister.com/story/money/2021/01/20/vice-president-kamala-harris-husband-doug-emhoff-second-gentleman/4213893001/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/4213893001"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/4213893001"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 58
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/05/USAT/d26fabbc-973c-4af7-837a-f3498e8634e2-Emhoff_Harris.jpg?auto=webp&crop=4635,2608,x0,y465&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Inside Kamala Harris' New Home-and Why It's Not Where You Think"
     excerpt: "Vice presidents usually settle into the Naval Observatory, but for now Kamala Harris is dropping her bags elsewhere. Here's why. While everyone knows that President Joe Biden resides at the White House,"
     publishedDateTime: 2021-01-25T21:30:00Z
@@ -464,6 +478,31 @@ related:
       - url: "https://ichef.bbci.co.uk/images/ic/1200x675/p094vgf9.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Kamala Harris receives 2nd COVID-19 vaccine dose"
+    excerpt: "Vice President Kamala Harris has received the second dose of her COVID-19 vaccine. Harris was given the shot Tuesday at the National Institutes of Health by nurse Judy Lai Yee"
+    publishedDateTime: 2021-01-26T23:41:00Z
+    webUrl: "https://www.stltoday.com/news/national/kamala-harris-receives-2nd-covid-19-vaccine-dose/video_5675b445-1599-5485-853e-3220d7b0ecb3.html"
+    ampWebUrl: "https://www.stltoday.com/news/national/kamala-harris-receives-2nd-covid-19-vaccine-dose/video_5675b445-1599-5485-853e-3220d7b0ecb3.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/kamala-harris-receives-2nd-covid-19-vaccine-dose/video_5675b445-1599-5485-853e-3220d7b0ecb3.amp.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 55
+  - title: "The Latest: Kamala Harris receives 2nd COVID-19 vaccine dose"
+    excerpt: "WASHINGTON — Vice President Kamala Harris has received the second dose of her COVID-19 vaccine. Harris was given the shot Tuesday at the National Institutes of Health by nurse Judy Lai Yee Chan, who is chief of the NIH's COVID-19 vaccine clinic."
+    publishedDateTime: 2021-01-26T20:10:00Z
+    webUrl: "https://www.startribune.com/the-latest-kamala-harris-receives-2nd-covid-19-vaccine-dose/600015116/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 55
+    images:
+      - url: "https://assets.startribune.com/static/img/branding/logos/strib-social-card.png?d=1611350604"
+        width: 1680
+        height: 876
         isCached: true
   - title: "Fuentes AP: Vicepresidente de EEUU llama a vicepresidenta electa Kamala Harris para felicitarla y ofrecerle asistencia"
     excerpt: "Vicepresidente de EEUU llama a vicepresidenta electa Kamala Harris para felicitarla y ofrecerle asistencia."

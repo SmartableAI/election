@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/twitter-to-transfer-official-accoun
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-to-transfer-official-accounts-to-biden-administration-introduces-new-handle-secondgentleman.amp"
 type: article
 quality: 172
-heat: 212
+heat: 232
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Amanda-Gorman-AP.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Rahm Emanuel: Biden Has Four Unprecedented Crises, Four Unprecedented Opportunities"
+    excerpt: "Former Chicago mayor and former Obama chief of staff Rahm Emanuel comments on the opportunities presented to the Biden administration in the wake of four unprecedented crises, during ABC's \"This Week\" roundtable on."
+    publishedDateTime: 2021-01-19T09:23:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/01/17/rahm_emanuel_biden_has_four_unprecedented_crises_therefore_four_unprecdecented_opportunities.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 59
+    images:
+      - url: "https://assets.realclear.com/images/50/503567.jpg"
+        width: 500
+        height: 375
         isCached: true
 
 secured: "AOhjcuR1lawqhxtDi3U6cvZ2B/R5sNMqL07A4VwFFEpWkRgknCqyg5Hxif5vy28B5jB/QxO3SSZMJRhzIDiyRVMhNwlBol6Lhr3TCGlzjMEadRK0U6bsCqDbDAmryszfZb6bFug2ykrM2W8frw89oRa6SofksOcPxEriC8ef3anOwHOwZkxRdzk1CZ+IgiEw9x4Cg6MjZ+wKS78usduUmSlInb5b9+uaWwcJLIMnAeW/uFVXOyiH4t6LVJy1TjOy0dw02Ar89h39rT+sS8CrQrfKtqdq2atCyhEt/14AUanBKskTb6qSOFjaBr8CSwBGJFzLKzdc+1LgRJEoa0xr9QOdmmGq2Tww2V9BBHH7inQ=;kBxma3MB0kW5CmfD03CqLQ=="

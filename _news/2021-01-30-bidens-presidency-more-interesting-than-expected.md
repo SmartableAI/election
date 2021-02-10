@@ -84,6 +84,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Cheney on calls to step down after impeachment vote: I'm 'confident' GOP will be united against Biden"
+    excerpt: "Rep. Liz Cheney, R-Wyo., was less interested Thursday in discussing backlash from the party over her vote to impeach former President Donald Trump last week than how congressional Republicans plan to check President Biden's agenda."
+    publishedDateTime: 2021-01-21T17:15:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RjwgSoA0E8Y/cheney-step-down-impeachment-vote-confident-gop-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/cheney-step-down-impeachment-vote-confident-gop-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cheney-step-down-impeachment-vote-confident-gop-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/99358d26-af6a-480e-ad64-fc605954db0c/0a1a97f5-1c2e-489a-8e0a-312e92622968/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "nhJyxVMf6gyavr/C1Agv2vxpXTqJIQFR0eqcZ6cmggjqrB6VFAM9G5LJQirhRrRs3Ydlalegnz0tv9atWGv23tWH9UZrSUQ4Rd6EVxQS9eD+U9nptwEEhXzDZBGL7wazt6feeLUzVyuz/2UNvlgN+9uw9gk1Cf5UqKQ8ktGaW/K3eJrDK0Mi/xSqnVYi8Fedx1LsqsvosuuaAPTbY+vWV2ZvOes/Vm9oRtO6O9YtlGQL9XXV+fjdxZW++TxvrEXL/bLPxA6Hnj8UnEJEQfPwHOnuLtE3ISHAeJVVemwpR8bKTrvlsnK2njP2r5y/V1N8gjVBeyNEKDijRVAaOCdgUWM/tOGfl7Gr+jOX3ktaf6U=;CjoyJW3HcqUe1qkFt2V4lA=="
 ---

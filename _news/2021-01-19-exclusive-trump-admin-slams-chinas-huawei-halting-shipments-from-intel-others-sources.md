@@ -55,22 +55,6 @@ related:
         width: 800
         height: 535
         isCached: true
-  - title: "The Trump administration is revoking the licenses of companies that supply to Huawei, as a final blow to the Chinese tech giant"
-    excerpt: "Huawei has long been a target of the Trump administration, which believes it spies for the Chinese government. Huawei has repeatedly denied the claim."
-    publishedDateTime: 2021-01-18T10:44:00Z
-    webUrl: "https://www.businessinsider.com/trump-administration-halts-huawei-supply-shipments-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/trump-administration-halts-huawei-supply-shipments-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-administration-halts-huawei-supply-shipments-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 97
-    images:
-      - url: "https://i.insider.com/60055311660f6c0018349a61?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Exclusive: Trump admin slams China's Huawei, halting shipments from Intel, others - sources"
     excerpt: "The Trump administration notified Huawei suppliers, including chipmaker Intel, that it is revoking certain licenses to sell to the Chinese company and intends to reject dozens of other applications to supply the telecommunications firm,"
     publishedDateTime: 2021-01-17T22:07:00Z
@@ -98,22 +82,6 @@ related:
       - url: "https://i.insider.com/5fff2702a8de7700187d3a0c?width=1200&format=jpeg"
         width: 921
         height: 460
-        isCached: true
-  - title: "Snapchat Permanently Bans Donald Trump For Spreading Misinformation, Inciting Violence"
-    excerpt: "Snapchat has permanently banned Donald Trump from its platform after assessing what could happen if he were to continue spreading misinformation and inciting violence online."
-    publishedDateTime: 2021-01-14T02:36:00Z
-    webUrl: "https://www.ibtimes.com/snapchat-permanently-bans-donald-trump-spreading-misinformation-inciting-violence-3121463"
-    ampWebUrl: "https://www.ibtimes.com/snapchat-permanently-bans-donald-trump-spreading-misinformation-inciting-violence-3121463?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/snapchat-permanently-bans-donald-trump-spreading-misinformation-inciting-violence-3121463?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 67
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/12/the-cancelled-diplomatic-trips-round-off-four-tumultuous.jpg"
-        width: 1024
-        height: 677
         isCached: true
 
 secured: "co4hdQ83SSZw3qR12IbxEDxFefeA3aUdmFlbHDWYuAeMfo0YQXWMOcHIDFc9nlZqE16Ymfubx4InjhG5lodqsGYSvGijJmkZWz33zHHopsmhGhsliTgcDvXYMR44RsxYfbRZZyUY4Sj6qnrllXSTwitwqmu4wd73HEodL2NDZIGiCZleHNZiDkq9qeU1OAcK1c1FvGmGMTNqZX1JgCY2yw06xAYhAOpU17aMmk36q0sMPbJSlNBFN0KH1xos562XJe1PFM897BYqRt9I/tfAbu93Xd33xbtTwQG9ia+5JeCEIVEJr973rRe6spS2HLhH+sdhpSVVS8vMwcA1XESxizZeZmjVLQE121ab22rXzhUtc9MRvh9ggyaZi8t4vEoT//Rxx1RICQ+MrYrOxg+gBG+z2Qxiual5iZtuRply8qW9yjPVzXYAOVWEkE254M3kxU6JIy/dnvTq+xAcKK9B8JRhS4lkgGLH2XVop1hUUWnW44aWd4oJ26SG/i/MpRuE/W77/js8xOMePChGcswSeA==;0TYmOdhybkdzpqz/ByioEg=="

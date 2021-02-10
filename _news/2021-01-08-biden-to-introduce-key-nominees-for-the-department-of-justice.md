@@ -29,108 +29,140 @@ images:
     isCached: true
 
 related:
-  - title: "Biden inauguration events to include memorial for COVID-19 victims"
-    excerpt: "President-elect Joe Biden plans a lighting ceremony at the Lincoln Memorial Reflecting Pool to honor COVID-19 victims the day before his swearing-in."
-    publishedDateTime: 2020-12-31T16:33:00Z
-    webUrl: "https://www.latimes.com/world-nation/story/2020-12-31/biden-inauguration-memorial-covid-19-victims"
-    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-31/biden-inauguration-memorial-covid-19-victims?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-31/biden-inauguration-memorial-covid-19-victims?_amp=true"
+  - title: "U.S. House rejects attempt to overturn Biden victory in Arizona"
+    excerpt: "The U.S. House of Representatives on Wednesday night joined the Senate in rejecting a move by allies of President Donald Trump to overturn Democrat Joe Biden's victory in Arizona, a vote delayed by rioters earlier pushing their way into the U."
+    publishedDateTime: 2021-01-07T07:04:00Z
+    webUrl: "https://www.reuters.com/article/usa-congress-election-arizona-house-idINKBN29C0H3"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN29C0H3"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN29C0H3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1546906712&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH060AF"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Watch live: President-elect Biden to offer remarks on chaos at Capitol"
+    excerpt: "President-elect Joe Biden is expected to discuss the breach of the Capitol by pro-Trump protesters at a press conference in Wilmington, Del., on Wednesday afternoon. Watch the live video above."
+    publishedDateTime: 2021-01-06T20:32:00Z
+    webUrl: "https://thehill.com/video/in-the-news/532952-watch-live-president-elect-biden-delivers-remarks-on-the-economy"
+    ampWebUrl: "https://thehill.com/video/in-the-news/532952-watch-live-president-elect-biden-delivers-remarks-on-the-economy?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/in-the-news/532952-watch-live-president-elect-biden-delivers-remarks-on-the-economy?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/ca_biden_123120getty.jpg"
+        width: 1440
+        height: 880
+        isCached: true
+  - title: "Capitol siege raises security concerns over Biden inauguration"
+    excerpt: "President-elect Joe Biden’s inauguration was already going to be scaled back, but the Capitol siege raises further security concerns."
+    publishedDateTime: 2021-01-08T12:08:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2021-01-08/dc-riot-raises-security-concerns-biden-inauguration"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-01-08/dc-riot-raises-security-concerns-biden-inauguration?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-01-08/dc-riot-raises-security-concerns-biden-inauguration?_amp=true"
     type: article
     provider:
       name: Los Angeles Times
       domain: latimes.com
     quality: 125
     images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/0aaa9dc/2147483647/strip/true/crop/840x549+0+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F71%2F7a%2F5217b0d3442c8a0e32ee818e8562%2Fvaccine.jpg"
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/ca42007/2147483647/strip/true/crop/6000x3919+0+41/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F6a%2F3f%2Fa1eede6944c8bb8d6946b1b5ab19%2Fla-photos-1staff-682883-na-pol-certification-protest-kkn-0217.JPG"
         width: 320
         height: 209
         isCached: true
-  - title: "Biden taps more Obama alums for key foreign policy jobs"
-    excerpt: "Wendy Sherman, the chief U.S. negotiator of the Iran nuclear deal, is expected to be picked to serve as deputy secretary of state."
-    publishedDateTime: 2021-01-05T23:02:00Z
-    webUrl: "https://www.washingtonpost.com/national-security/biden-state-department-nominations-nsc/2021/01/05/553fc560-4f9f-11eb-b2e8-3339e73d9da2_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national-security/biden-state-department-nominations-nsc/2021/01/05/553fc560-4f9f-11eb-b2e8-3339e73d9da2_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/biden-state-department-nominations-nsc/2021/01/05/553fc560-4f9f-11eb-b2e8-3339e73d9da2_story.html?outputType=amp"
+  - title: "Biden denounces racial inequities in blasting Capitol riot"
+    excerpt: "The president-elect, announcing his Justice Department team Thursday, said the largely White mob that attacked the Capitol was treated far better than Black protesters would have been. He also vowed to restore the department’s political neutrality and honor."
+    publishedDateTime: 2021-01-08T16:44:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-racial-inequity-capitol-mob/2021/01/07/07d5961e-5112-11eb-b96e-0e54447b23a1_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-racial-inequity-capitol-mob/2021/01/07/07d5961e-5112-11eb-b96e-0e54447b23a1_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-racial-inequity-capitol-mob/2021/01/07/07d5961e-5112-11eb-b96e-0e54447b23a1_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HMOG6OSPUQI6XPNEMFNK57IFKU.jpg&w=1440"
-        width: 1440
-        height: 956
-        isCached: true
-  - title: "On day of protest, Biden supporters should stay home"
-    excerpt: "I hope supporters of President-elect Joe Biden stay away from any D.C. demonstrations on Wednesday. The election results are a stronger message than any chant or placard. Just let the true-believer sore losers have their moment so we can get on with the important business of 2021."
-    publishedDateTime: 2021-01-05T21:36:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/on-day-of-protest-biden-supporters-should-stay-home/2021/01/05/233364b2-4eb1-11eb-a1f5-fdaf28cfca90_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/on-day-of-protest-biden-supporters-should-stay-home/2021/01/05/233364b2-4eb1-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/letters-to-the-editor/on-day-of-protest-biden-supporters-should-stay-home/2021/01/05/233364b2-4eb1-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CBXK66SEPMI6XLBKHLAPFOGO5M.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/E56LPYCREYI6XIPV7WXSRT6KSA.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
-  - title: "Biden selects Judge Merrick Garland for attorney general"
-    excerpt: "President-elect Joe Biden will nominate federal appeals judge Merrick Garland to be the next U.S. attorney general, a Biden transition official said on Wednesday, a choice most Americans know as the Supreme Court nominee of President Barack Obama memorably blocked by"
-    publishedDateTime: 2021-01-06T20:33:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-attorney-general-idUSKBN29B2C8"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29B2C8"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29B2C8"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210106&t=2&i=1546834261&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0517S"
-        width: 765
-        height: 545
-        isCached: true
-  - title: "Biden to introduce Judge Merrick Garland as attorney general"
-    excerpt: "The four lawyers are to be introduced by Biden at an event Thursday afternoon in Wilmington, Delaware. In picking Garland, Biden is turning to an experienced judge who held senior positions at the Justice Department decades ago,"
-    publishedDateTime: 2021-01-07T11:47:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-introduce-judge-merrick-garland-attorney-general-75106813"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-introduce-judge-merrick-garland-attorney-general-75106813"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-introduce-judge-merrick-garland-attorney-general-75106813"
+  - title: "Biden urges restoring decency after 'assault' on democracy"
+    excerpt: "President-elect Joe Biden is calling for the restoration of “simple decency” after a mob incited by his predecessor stormed the U.S. Capitol and delayed Congress from certifying Biden's election victo"
+    publishedDateTime: 2021-01-09T10:15:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-calls-mob-pull-back-urges-restoring-decency-75093815"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-calls-mob-pull-back-urges-restoring-decency-75093815"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-calls-mob-pull-back-urges-restoring-decency-75093815"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_147681771c5e43029bb12b5a2c7fd475_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_b231478a63ef4e26a8929b5ece1c2924_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Biden to nominate Judge Merrick Garland for attorney general"
-    excerpt: "President-elect Joe Biden will nominate federal appeals court Judge Merrick Garland to be U.S. attorney general, Biden's transition office said in a statement on Thursday."
-    publishedDateTime: 2021-01-07T16:31:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-attorney-general-idUSKBN29C1FY"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29C1FY"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29C1FY"
+  - title: "Capitol siege raises security worries for Biden inauguration"
+    excerpt: "President-elect Joe Biden’s inauguration on Jan. 20 was already going to be scaled back because of the coronavirus pandemic"
+    publishedDateTime: 2021-01-08T21:49:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/capitol-siege-raises-security-concerns-biden-inaugural-75132261"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/capitol-siege-raises-security-concerns-biden-inaugural-75132261"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/capitol-siege-raises-security-concerns-biden-inaugural-75132261"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1546953058&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH060RY"
-        width: 765
-        height: 545
+      - url: "https://s.abcnews.com/images/Politics/WireAP_c6971aa91eec42e38f288cb75e4296dd_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Biden wants to go big, fast and alone on COVID relief"
-    excerpt: "President Joe Biden has laid out his for moving fast and without Republicans, if necessary, to pass $1.9 trillion in coronavirus relief, armed with new signs of economic strain brought on by the conti"
-    publishedDateTime: 2021-02-05T17:36:00Z
-    webUrl: "https://www.washingtonpost.com/business/senate-approves-budget-bill-as-harris-casts-tie-breaker-vote/2021/02/05/c0c37a3a-67ae-11eb-bab8-707f8769d785_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/business/senate-approves-budget-bill-as-harris-casts-tie-breaker-vote/2021/02/05/c0c37a3a-67ae-11eb-bab8-707f8769d785_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/senate-approves-budget-bill-as-harris-casts-tie-breaker-vote/2021/02/05/c0c37a3a-67ae-11eb-bab8-707f8769d785_story.html?outputType=amp"
+  - title: "Democratic wins could strengthen Biden's legislative push"
+    excerpt: "President-elect Joe Biden’s victory in November was tempered by concerns that he'd face Republican opposition in the Senate that could stymie him at every turn"
+    publishedDateTime: 2021-01-09T15:45:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/democratic-wins-strengthen-bidens-legislative-push-75149458"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/democratic-wins-strengthen-bidens-legislative-push-75149458"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/democratic-wins-strengthen-bidens-legislative-push-75149458"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_be34efa831c140d7838226b3d1aa8d8f_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Fears over Biden inauguration security mount after US Capitol attack"
+    excerpt: "Security levels being ramped up significantly for Biden’s swearing-in as some warn of ‘persistent challenge over the next months’"
+    publishedDateTime: 2021-01-09T15:09:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/09/biden-inauguration-security-capitol-trump"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/09/biden-inauguration-security-capitol-trump"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/09/biden-inauguration-security-capitol-trump"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/395d7f3363917ee974d8ea7076c4a32b6eca5a67/0_370_5545_3327/master/5545.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0b3ddc2e38e3e2a69e70e732de6008c5"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "With virus surging, Biden to speed release of COVID vaccines"
+    excerpt: "President-elect Joe Biden will be taking a new direction to speed release of coronavirus vaccines when he assumes office Jan. 20"
+    publishedDateTime: 2021-01-09T08:39:00Z
+    webUrl: "https://www.washingtonpost.com/politics/with-virus-surging-biden-to-speed-release-of-covid-vaccines/2021/01/08/49bd0100-522c-11eb-a1f5-fdaf28cfca90_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/with-virus-surging-biden-to-speed-release-of-covid-vaccines/2021/01/08/49bd0100-522c-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/with-virus-surging-biden-to-speed-release-of-covid-vaccines/2021/01/08/49bd0100-522c-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
@@ -141,53 +173,101 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Biden inaugural activities to include memorial service for covid victims"
-    excerpt: "The committee planning events announced a lighting ceremony at the Lincoln Memorial to coincide with remembrances around the country."
-    publishedDateTime: 2020-12-31T12:49:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-inauguration-covid-memorial/2020/12/31/d3d61d0e-4b60-11eb-a9d9-1e3ec4a928b9_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-inauguration-covid-memorial/2020/12/31/d3d61d0e-4b60-11eb-a9d9-1e3ec4a928b9_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-inauguration-covid-memorial/2020/12/31/d3d61d0e-4b60-11eb-a9d9-1e3ec4a928b9_story.html?outputType=amp"
+  - title: "What Biden's Cabinet picks say about how he plans to govern"
+    excerpt: "His Cabinet picks help demonstrate how he plans to deliver. The president-elect announced his final nominees this past week, completing a diverse team of two dozen people. He noted Friday that this will be the “first Cabinet ever” to reach gender parity and include a majority of people of color,"
+    publishedDateTime: 2021-01-10T13:35:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/bidens-cabinet-picks-plans-govern-75161158"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/bidens-cabinet-picks-plans-govern-75161158"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/bidens-cabinet-picks-plans-govern-75161158"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 124
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/P5G7GCCLMMI6XKOZDY7MJKJIXE.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://s.abcnews.com/images/Politics/WireAP_cac903d7362845908ccfd3cf90a4f028_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Biden tells Democrats he would consider limits on who gets COVID-19 checks"
-    excerpt: "President Joe Biden told congressional Democrats on Wednesday he would not back down on including $1,400 checks for struggling Americans in his COVID-19 relief plan but would consider tighter limits on who gets them,"
-    publishedDateTime: 2021-02-04T00:48:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUSKBN2A322X"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A322X"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A322X"
+  - title: "Lawmakers who voted against Biden are denounced back home"
+    excerpt: "Republican members of Congress who voted against certifying Joe Biden’s presidential victory, even after a mob broke into the Capitol, are being denounced by critics in their home districts"
+    publishedDateTime: 2021-01-10T22:54:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/lawmakers-voted-biden-blasted-back-home-75165301"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/lawmakers-voted-biden-blasted-back-home-75165301"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/lawmakers-voted-biden-blasted-back-home-75165301"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 123
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210204&t=2&i=1550246455&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1222D"
-        width: 809
-        height: 545
+      - url: "https://s.abcnews.com/images/Politics/WireAP_06211df78898406b9e868e9defd047be_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Leaders of United, West Monroe Partners, Sidley and Edelman join call for Congress to certify Joe Biden’s election"
-    excerpt: "Several Chicago-based executives, including the executive chairman of United Airlines and the president and CEO of PR giant Edelman, were among about 200 business leaders Monday to call on Congress to certify the victory by President-elect Joe Biden in the Electoral College."
-    publishedDateTime: 2021-01-05T14:44:00Z
-    webUrl: "https://www.chicagotribune.com/business/ct-biz-chicago-executives-electoral-college-20210105-5lqwaa3eznf4hcdlpi2f3izkma-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/business/ct-biz-chicago-executives-electoral-college-20210105-5lqwaa3eznf4hcdlpi2f3izkma-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/business/ct-biz-chicago-executives-electoral-college-20210105-5lqwaa3eznf4hcdlpi2f3izkma-story.html?outputType=amp"
+  - title: "Lawmakers who voted against Biden victory are denounced back home"
+    excerpt: "GOP members of Congress who voted against certifying Joe Biden’s victory, even after a mob broke into the Capitol, are rebuked in their districts."
+    publishedDateTime: 2021-01-10T20:53:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2021-01-10/lawmakers-who-voted-against-biden-get-blasted-back-home"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-01-10/lawmakers-who-voted-against-biden-get-blasted-back-home?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-01-10/lawmakers-who-voted-against-biden-get-blasted-back-home?_amp=true"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 118
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
     images:
-      - url: "https://www.chicagotribune.com/resizer/MVX3V3Xx8vQH_4keIQqEc6uYqe0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/6HZALOYUTVCGNEB5TIWZCFNDFY.JPG"
-        width: 1200
-        height: 751
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/f95343e/2147483647/strip/true/crop/4241x2770+132+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fac%2Fbd%2F331b2c9a40158f3355c08af0f6aa%2Fsd-photos-1staff-682804-sd-me-patriotrally-waterfront-kca-002.JPG"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "Lawmakers who voted against Biden victory get denounced back home"
+    excerpt: "GOP members of Congress who voted against certifying Joe Biden’s victory, even after a mob broke into the Capitol, are rebuked in their districts."
+    publishedDateTime: 2021-01-10T20:53:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2021-01-10/lawmakers-who-voted-against-biden-get-blasted-back-home"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-01-10/lawmakers-who-voted-against-biden-get-blasted-back-home?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-01-10/lawmakers-who-voted-against-biden-get-blasted-back-home?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/f95343e/2147483647/strip/true/crop/4241x2770+132+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fac%2Fbd%2F331b2c9a40158f3355c08af0f6aa%2Fsd-photos-1staff-682804-sd-me-patriotrally-waterfront-kca-002.JPG"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "Advocacy group: Biden should revamp US human rights policy"
+    excerpt: "Human Rights Watch is calling on President-elect Joe Biden to bring “fundamental change” to U_S_ policy on human rights and allow criminal investigations of President Donald Trump to “show that the president is not above the law."
+    publishedDateTime: 2021-01-13T12:29:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/advocacy-group-biden-revamp-us-human-rights-policy-75218924"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/advocacy-group-biden-revamp-us-human-rights-policy-75218924"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/advocacy-group-biden-revamp-us-human-rights-policy-75218924"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
+  - title: "President-elect Joe Biden to name Gary Gensler as U.S. SEC chair, sources say"
+    excerpt: "Gary Gensler, a top financial regulator under the Obama administration, is expected to be named chair of the U.S. Securities and Exchange Commission."
+    publishedDateTime: 2021-01-12T17:47:00Z
+    webUrl: "https://www.cnbc.com/2021/01/12/president-elect-joe-biden-to-name-gary-gensler-as-us-sec-chair-sources-say-.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/01/12/president-elect-joe-biden-to-name-gary-gensler-as-us-sec-chair-sources-say-.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/12/president-elect-joe-biden-to-name-gary-gensler-as-us-sec-chair-sources-say-.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 122
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106823272-1610480084902-gettyimages-175050214-WALL-STREET-REFORMS.jpg?v=1610480100"
+        width: 3459
+        height: 2250
         isCached: true
   - title: "What could Democratic control of Senate mean for wages, child care, unions under Biden?"
     excerpt: "With Democrats in control of the White House and Congress, President Joe Biden may reshape the workplace from raising wages to encouraging diversity"
@@ -205,187 +285,186 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Domestic terrorism and hate exploded in 2020. Here's what the Biden administration must do."
-    excerpt: "Members of Joe Biden’s transition team set up a meeting with senior members of the Anti-Defamation League to discuss fighting domestic terrorism and right-wing extremism."
-    publishedDateTime: 2020-12-29T11:00:00Z
-    webUrl: "https://abcnews.go.com/US/domestic-terrorism-hate-exploded-2020-biden-administration/story?id=74604589"
-    ampWebUrl: "https://abcnews.go.com/amp/US/domestic-terrorism-hate-exploded-2020-biden-administration/story?id=74604589"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/domestic-terrorism-hate-exploded-2020-biden-administration/story?id=74604589"
+  - title: "Biden still planning to be sworn in on the steps of U.S. Capitol two weeks after mob attack"
+    excerpt: "Joe Biden still plans to be sworn in on the steps of the U.S. Capitol on Jan. 20, exactly two weeks after a pro-Trump mob with rioters wielding Confederate flags stormed the building to attack the very nation Biden was elected to lead."
+    publishedDateTime: 2021-01-10T01:36:00Z
+    webUrl: "https://www.washingtonpost.com/local/inauguration-biden-capitol-riot/2021/01/09/942eceae-51e0-11eb-83e3-322644d82356_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/inauguration-biden-capitol-riot/2021/01/09/942eceae-51e0-11eb-83e3-322644d82356_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/inauguration-biden-capitol-riot/2021/01/09/942eceae-51e0-11eb-83e3-322644d82356_story.html?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 115
     images:
-      - url: "https://s.abcnews.com/images/US/charlottesville-protest-gty-jt-201005_1601922791769_hpMain_3_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HGCMORSQMUI6XIPV7WXSRT6KSA.jpg&w=1440"
+        width: 1440
+        height: 959
         isCached: true
-  - title: "Parade viewing stands dismantled near White House as Biden team seeks to discourage inauguration crowds"
-    excerpt: "Workers on Tuesday broke down the inaugural parade reviewing stand in front of the White House ahead of what President-elect Joe Biden's transition team plans for a mostly virtual inauguration. Aides to the president-elect say that such infrastructure will not be necessary for the \"reimagined\" event."
-    publishedDateTime: 2020-12-31T00:02:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/30/biden-inauguration-parade-viewing-stands-near-white-house-dismantled/4085710001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4085710001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4085710001"
+  - title: "House barrels toward impeachment, and Biden scrambles to ensure it doesn’t hamper his agenda"
+    excerpt: "The House could impeach President Trump as early as Wednesday, sending an “incitement” article to the Senate. That prompted Biden to press the Senate on whether it could pursue impeachment while also passing his bills."
+    publishedDateTime: 2021-01-12T01:30:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-trump-senate-impeachment/2021/01/11/22ff2c12-5427-11eb-a817-e5e7f8a406d6_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-trump-senate-impeachment/2021/01/11/22ff2c12-5427-11eb-a817-e5e7f8a406d6_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-trump-senate-impeachment/2021/01/11/22ff2c12-5427-11eb-a817-e5e7f8a406d6_story.html?outputType=amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 109
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 114
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/10/USAT/157e1de6-e356-48e3-bdb9-aef9342d0131-AFP_AFP_8UW7FD.jpg?auto=webp&crop=3698,2081,x0,y248&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Z2A6ZXSUHYI6XLGFSLJIDGQ4ZM.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "Biden's COVID-19 advisory board prepares for transition amid pandemic"
-    excerpt: "President-elect Joe Biden and his transition team will be taking responsibility for the nation's coronavirus response and the rollout of vaccines in the midst of an unprecedented health crisis. Dr. Celine Gounder,"
-    publishedDateTime: 2020-12-11T19:55:00Z
-    webUrl: "https://www.cbsnews.com/video/joe-biden-covid-19-advisory-board-transition-amid-pandemic/"
+  - title: "Chicago Man Who Threatened to 'Kill' Democrats, Prevent Biden From Entering White House Arrested"
+    excerpt: "Louis Capriotti, a 45-year-old man from Chicago, made the alleged threats in a voicemail to a representative from New Jersey."
+    publishedDateTime: 2021-01-12T20:00:00Z
+    webUrl: "https://www.newsweek.com/chicago-man-who-threatened-kill-democrats-prevent-biden-entering-white-house-arrested-1560958"
+    ampWebUrl: "https://www.newsweek.com/chicago-man-who-threatened-kill-democrats-prevent-biden-entering-white-house-arrested-1560958?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/chicago-man-who-threatened-kill-democrats-prevent-biden-entering-white-house-arrested-1560958?amp=1"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
+      name: Newsweek
+      domain: newsweek.com
+    quality: 112
+    images:
+      - url: "https://d.newsweek.com/en/full/1704833/joe-biden-louis-capriotti-threat-inauguration.jpg"
+        width: 2500
+        height: 1695
+        isCached: true
+  - title: "Capitol siege raises security concerns for Biden inaugural"
+    excerpt: "The is intensifying scrutiny over security at an inauguration ceremony for President-elect Joe Biden already reshaped by a pandemic and the prospect that his predecessor may not attend."
+    publishedDateTime: 2021-01-08T15:56:00Z
+    webUrl: "https://www.businessinsider.com/capitol-siege-raises-security-concerns-for-biden-inaugural-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/capitol-siege-raises-security-concerns-for-biden-inaugural-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/capitol-siege-raises-security-concerns-for-biden-inaugural-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
     quality: 105
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/11/e85bb149-95e7-4131-aabe-a8becbf9ef46/thumbnail/1200x630/8bd37a9a1b6735d713a5268207d8403b/cbsn-fusion-president-elect-biden-thumbnail-606376-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Merrick Garland Is To Be Joe Biden's Nominee For Attorney General"
-    excerpt: "The federal appeals judge was spurned when Democrats supported him as a Supreme Court justice. Now the incoming Biden administration wants him to lead what it calls reform at the Justice Department."
-    publishedDateTime: 2021-01-06T17:51:00Z
-    webUrl: "https://www.npr.org/2021/01/06/937191314/merrick-garland-is-to-be-joe-bidens-nominee-for-attorney-general"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 105
-    images:
-      - url: "https://media.npr.org/assets/img/2020/11/20/ap_16288549076807_wide-09bab672eca71221401ca23e081d7688dc1c3f4f.jpg?s=1400"
-        width: 1400
-        height: 787
-        isCached: true
-  - title: "Biden hopes U.S. reaches 1.5 million COVID-19 vaccinations a day"
-    excerpt: "President Joe Biden has set a goal that the U.S. will eventually roll out 1.5 million COVID-19 vaccines a day, rather than 1 million a day, as previously suggested. Ed O'Keefe reports"
-    publishedDateTime: 2021-01-28T01:33:00Z
-    webUrl: "https://www.cbsnews.com/video/biden-hopes-us-reaches-15-million-covid-19-vaccinations-a-day/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/26/c5c40351-05c9-455e-b250-2a454d9b4c96/thumbnail/1200x630/de26ce642b0eba79813d73b9a9b6928f/cbsn-fusion-president-biden-hopes-us-reaches-15-million-covid-19-vaccinations-a-day-thumbnail-633320-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Biden meets with Democrats in Oval on COVID relief"
-    excerpt: "Speaking during a meeting with Democratic Senators, President Joe Biden predicted his COVID relief package \"will have Republican support,\" despite huge gaps between the two parties' proposals and Democratic plans to approve the bill regardless."
-    publishedDateTime: 2021-02-03T18:04:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/02/03/biden-meets-democrats-oval-covid-relief/4374077001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/a8d5d9b1-353b-4dd8-aa98-9c716ea7f333_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Biden to nominate Rhode Island governor for Commerce, Boston mayor for Labor"
-    excerpt: "President-elect Joe Biden will nominate Rhode Island Governor Gina Raimondo as his Commerce Department secretary and former union official and Boston Mayor Marty Walsh as Labor secretary, his transition team said late on Thursday."
-    publishedDateTime: 2021-01-08T06:42:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-biden-cabinet/biden-to-nominate-rhode-island-governor-for-commerce-boston-mayor-for-labor-idUSKBN29C31H"
+  - title: "Mexican president says has not received invite to Biden's inauguration"
+    excerpt: "Mexico's President Andres Manuel Lopez Obrador said on Thursday he has not received an invitation to U.S. President-elect Joe Biden's inauguration, when asked if he would travel to Washington for the Jan."
+    publishedDateTime: 2021-01-07T19:11:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-mexico-inauguration-idUSE1N2HU00R"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSE1N2HU00R"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSE1N2HU00R"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 102
+    quality: 105
+  - title: "Biden says labor secretary will encourage unionization"
+    excerpt: "U.S. President-elect Joe Biden said his labor secretary nominee, Boston Mayor Marty Walsh, understands that unions built the American middle class and will encourage unionization."
+    publishedDateTime: 2021-01-09T00:38:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-labor/biden-says-labor-secretary-will-encourage-unionization-idUSKBN29D2RG?edition-redirect=ca"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210107&t=2&i=1547021518&r=LYNXMPEH061HZ&w=800"
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210108&t=2&i=1547146046&r=LYNXMPEH071A2&w=800"
+        width: 800
+        height: 601
+        isCached: true
+  - title: "Biden to release all coronavirus doses- CNN"
+    excerpt: "President-elect Joe Biden will aim to release every available dose of coronavirus vaccine when he takes office, a departure from Trump administration strategy of holding back doses to make sure second doses are available,"
+    publishedDateTime: 2021-01-08T20:50:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-vaccine-johnsonjohnso/biden-to-release-all-coronavirus-doses-cnn-idUSL1N2JJ1LL"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Lawmakers who voted against Biden get blasted back home"
+    excerpt: "Republican members of Congress who voted against certifying Joe Biden’s presidential victory, even after a mob broke into the Capitol, are getting blasted by critics in their home districts who demand that they resign or be ousted."
+    publishedDateTime: 2021-01-11T08:27:00Z
+    webUrl: "https://www.businessinsider.com/lawmakers-who-voted-against-biden-get-blasted-back-home-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/lawmakers-who-voted-against-biden-get-blasted-back-home-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/lawmakers-who-voted-against-biden-get-blasted-back-home-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "AT&T suspends donations to lawmakers who opposed Biden certification"
+    excerpt: "AT&T Inc, one of the largest U.S. political contributors, said Monday its political action committee will suspend donations to lawmakers that did not back the certification of President-elect Joe Biden' win last week."
+    publishedDateTime: 2021-01-11T20:46:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-corporate-att/att-suspends-donations-to-lawmakers-who-opposed-biden-certification-idUSL1N2JM29A"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Biden to nominate longtime U.S. diplomat Burns to lead CIA"
+    excerpt: "U.S. President-elect Joe Biden will nominate former career diplomat and former deputy secretary of state William Burns to lead the CIA, his transition team said on Monday."
+    publishedDateTime: 2021-01-11T17:01:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-cia/biden-nominates-longtime-u-s-diplomat-burns-to-lead-cia-idUSKBN29G17M"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210111&t=2&i=1547393128&r=LYNXMPEH0A191&w=800"
+        width: 800
+        height: 571
+        isCached: true
+  - title: "Factbox: Biden Cabinet - President-elect fills out his team"
+    excerpt: "Democratic President-elect Joe Biden has selected people for his Cabinet, his White House team and other top jobs in his administration ahead of being sworn into office on Jan. 20."
+    publishedDateTime: 2021-01-12T02:05:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-cabinetfactbox-idUSKBN29G2MJ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210111&t=2&i=1547409614&r=LYNXMPEH0A1HG&w=800"
         width: 800
         height: 533
         isCached: true
-  - title: "Washington D.C. mayor calls in National Guard as city prepares for protests when Congress votes to affirm Joe Biden’s win"
-    excerpt: "Washington, D.C.’s mayor urged calm Monday as some 340 National Guard troops were being activated while the city prepared for potentially violent protests this week."
-    publishedDateTime: 2021-01-04T18:16:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-washington-dc-congress-protests-20210104-nv4uprmxlbdfzdhh6npk7mhl3m-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-washington-dc-congress-protests-20210104-nv4uprmxlbdfzdhh6npk7mhl3m-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-washington-dc-congress-protests-20210104-nv4uprmxlbdfzdhh6npk7mhl3m-story.html?outputType=amp"
+  - title: "Marriott will suspend donations to U.S. lawmakers who voted against Biden certification"
+    excerpt: "Marriott International Inc, the world's largest hotel company, confirmed Sunday it will suspend donations to U.S. lawmakers who voted against certifying President-elect Joe Biden's victory last week."
+    publishedDateTime: 2021-01-11T00:30:00Z
+    webUrl: "https://www.reuters.com/article/BigStory12/idUSKBN29F0L4"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 100
+      name: Reuters
+      domain: reuters.com
+    quality: 97
     images:
-      - url: "https://www.chicagotribune.com/resizer/oHVJNiOpCIqKcelylLYBtLfTvrw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZR2IK5RTGFFUFHT6U56OPZDTLU.aspx"
-        width: 1200
-        height: 675
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210110&t=2&i=1547294520&r=LYNXMPEH090FT&w=800"
+        width: 800
+        height: 534
         isCached: true
-  - title: "Joe, Jill Biden Talk COVID-19 Vaccines, Heroes In Final 2020 Interview"
-    excerpt: "President-elect Joe Biden and his wife, Jill Biden, praised the heroes who \"brought the country together\" during the pandemic and assured the public that the COVID-19 vaccines are safe."
-    publishedDateTime: 2021-01-03T03:37:00Z
-    webUrl: "https://www.ibtimes.com/joe-jill-biden-talk-covid-19-vaccines-heroes-final-2020-interview-3113375"
-    ampWebUrl: "https://www.ibtimes.com/joe-jill-biden-talk-covid-19-vaccines-heroes-final-2020-interview-3113375?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/joe-jill-biden-talk-covid-19-vaccines-heroes-final-2020-interview-3113375?amp=1"
+  - title: "Watch live: President-elect Joe Biden to speak on Capitol protests"
+    excerpt: "President-elect Joe Biden will speak Wednesday in Delaware in reaction to rioters breaching the U.S. Capitol and forcing lawmakers to be evacuated during a joint session to certify election results. Watch here."
+    publishedDateTime: 2021-01-06T21:06:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/01/06/Watch-live-President-elect-Joe-Biden-to-speak-on-Capitol-protests/6511609966489/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/01/06/Watch-live-President-elect-Joe-Biden-to-speak-on-Capitol-protests/6511609966489/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/01/06/Watch-live-President-elect-Joe-Biden-to-speak-on-Capitol-protests/6511609966489/"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
+      name: UPI.com
+      domain: upi.com
     quality: 75
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/13/joe-jill-biden.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Joe Biden selects three Texans for White House staff"
-    excerpt: "Three Texans are. President-elect Joe Biden and Vice President-elect Kamala Harris announced the appointments Tuesday of three Democratic operatives with"
-    publishedDateTime: 2021-01-06T02:24:00Z
-    webUrl: "https://www.texastribune.org/2021/01/05/emmy-ruiz-white-house/"
-    ampWebUrl: "https://www.texastribune.org/2021/01/05/emmy-ruiz-white-house/amp/"
-    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/01/05/emmy-ruiz-white-house/amp/"
-    type: article
-    provider:
-      name: Texas Tribune
-      domain: texastribune.org
-    quality: 75
-    images:
-      - url: "https://thumbnails.texastribune.org/lizlcxbguJPX5REvUaO4EjQslQI=/1200x804/smart/filters:quality(95)/static.texastribune.org/media/files/d73f7ca54a1e8d5ef4ee5cb17ce7d8cc/White%20House%20REUTERS%20TT.jpg"
-        width: 1200
-        height: 804
-        isCached: true
-  - title: "Everything We Know About Joe Biden’s Inauguration"
-    excerpt: "Biden’s swearing-in will take place in person, but much of the inauguration will be virtual due to COVID. It’s unclear if Trump will attend any of it."
-    publishedDateTime: 2021-01-06T18:00:00Z
-    webUrl: "https://nymag.com/intelligencer/article/joe-biden-inauguration-everything-we-know.html"
-    ampWebUrl: "https://nymag.com/intelligencer/amp/article/joe-biden-inauguration-everything-we-know.html"
-    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/article/joe-biden-inauguration-everything-we-know.html"
-    type: article
-    provider:
-      name: New York Magazine
-      domain: nymag.com
-    quality: 75
-    images:
-      - url: "https://pyxis.nymag.com/v1/imgs/ebc/1f6/0d1698f01cd1e44f16c5c83aeb15c7ffae-biden-inauguration.1x.rsocial.w1200.jpg"
-        width: 1200
-        height: 632
-        isCached: true
-  - title: "Here’s What Joe Biden Can Get Done With a Democratic Senate"
-    excerpt: "In the two months since Election Night, Joe Biden has been staring at the likelihood of a stillborn presidency, his fate dependent on the mercies of Mitch McConnell, whose incentive is for Biden to fail."
-    publishedDateTime: 2021-01-06T20:30:00Z
-    webUrl: "https://nymag.com/intelligencer/2021/01/what-can-joe-biden-pass-democratic-senate-gerogia-runoffs-warnock-ossoff.html"
-    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/01/what-can-joe-biden-pass-democratic-senate-georgia-runoffs-warnock-ossoff.html"
-    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/01/what-can-joe-biden-pass-democratic-senate-georgia-runoffs-warnock-ossoff.html"
-    type: article
-    provider:
-      name: New York Magazine
-      domain: nymag.com
-    quality: 75
-    images:
-      - url: "https://pyxis.nymag.com/v1/imgs/c38/81c/cec3f6c098cc67c9c6789546d565a2f352-GettyImages-1294499682.1x.rsocial.w1200.jpg"
-        width: 1200
-        height: 630
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/6511609966489/2021/1/bbc52a2dd07fbfe62bc4a2721f2f8394/v1.5/Joe-Biden-calls-on-Donald-Trump-to-step-up-end-siege-on-Capitol.jpg"
+        width: 800
+        height: 534
         isCached: true
   - title: "How Coloradans in Congress voted on certifying Joe Biden’s victory"
     excerpt: "With two exceptions, Coloradans in Congress voted Wednesday night and into the overnight hours Thursday to certify the 2020 presidential election."
@@ -403,94 +482,35 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Congress to vote today on confirming Joe Biden’s Electoral College victory"
-    excerpt: "The typically routine proceeding Wednesday will be anything but, a political confrontation unseen since the aftermath of the Civil War as Donald Trump mounts a desperate effort stay in office."
-    publishedDateTime: 2021-01-06T10:14:00Z
-    webUrl: "https://www.cleveland.com/politics/2021/01/congress-to-vote-today-on-confirming-joe-bidens-electoral-college-victory.html"
-    ampWebUrl: "https://www.cleveland.com/politics/2021/01/congress-to-vote-today-on-confirming-joe-bidens-electoral-college-victory.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/politics/2021/01/congress-to-vote-today-on-confirming-joe-bidens-electoral-college-victory.html?outputType=amp"
-    type: article
-    provider:
-      name: Cleveland.com
-      domain: cleveland.com
-    quality: 73
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/3KDRVGKSW5BANJ6GTXIVUZAMWU.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "When Will Schools Fully Reopen? A Look At Joe Biden's Education Plan During COVID"
-    excerpt: "The President-elect wants to see schools reopened during his first 100 days in office, though the power of the federal government is somewhat limited."
-    publishedDateTime: 2021-01-04T19:47:00Z
-    webUrl: "https://www.ibtimes.com/when-will-schools-fully-reopen-look-joe-bidens-education-plan-during-covid-3114281"
-    ampWebUrl: "https://www.ibtimes.com/when-will-schools-fully-reopen-look-joe-bidens-education-plan-during-covid-3114281?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/when-will-schools-fully-reopen-look-joe-bidens-education-plan-during-covid-3114281?amp=1"
+  - title: "US Vice President Mike Pence To Attend Biden Inauguration: Reports"
+    excerpt: "Mike Pence will attend the upcoming inauguration of Joe Biden, multiple media reports said Saturday, the vice president becoming the latest longtime loyalist to abandon an increasingly isolated President Donald Trump."
+    publishedDateTime: 2021-01-10T07:24:00Z
+    webUrl: "https://www.ibtimes.com/us-vice-president-mike-pence-attend-biden-inauguration-reports-3118304"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
     quality: 70
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/29/joe-biden-warned-that-the-virus-crisis-might.jpg"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/10/vice-president-mike-pence-will-attend-the-inauguration.jpg"
         width: 1024
         height: 682
         isCached: true
-  - title: "George W. and Laura Bush will travel to D.C. to attend President-elect Joe Biden’s inauguration"
-    excerpt: "Former President George W. Bush and his wife, Laura, “look forward to returning to the Capitol for the swearing in” of President-elect"
-    publishedDateTime: 2021-01-06T01:54:00Z
-    webUrl: "https://www.dallasnews.com/news/politics/2021/01/05/george-w-and-laura-bush-will-travel-to-dc-to-attend-president-elect-joe-bidens-inauguration/"
-    ampWebUrl: "https://www.dallasnews.com/news/politics/2021/01/05/george-w-and-laura-bush-will-travel-to-dc-to-attend-president-elect-joe-bidens-inauguration/?outputType=amp"
-    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2021/01/05/george-w-and-laura-bush-will-travel-to-dc-to-attend-president-elect-joe-bidens-inauguration/?outputType=amp"
+  - title: "Ted Cruz faces fierce blowback after his objection to Joe Biden’s victory and riot at the U.S. Capitol"
+    excerpt: "Wednesday’s chaos led to calls for Cruz’s resignation from Texas Democrats. But Cruz says he “ain’t going anywhere.”"
+    publishedDateTime: 2021-01-08T10:24:00Z
+    webUrl: "https://www.texastribune.org/2021/01/07/ted-cruz-riot-capitol/"
+    ampWebUrl: "https://www.texastribune.org/2021/01/07/ted-cruz-riot-capitol/amp/"
+    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/01/07/ted-cruz-riot-capitol/amp/"
     type: article
     provider:
-      name: Dallas Morning News
-      domain: dallasnews.com
-    quality: 63
+      name: Texas Tribune
+      domain: texastribune.org
+    quality: 59
     images:
-      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/64lHv9K2CyG5PiPyPf14fPUt1PM=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/YXUUWICKWRG7BKAHK4SVIBIQ4U.jpg"
+      - url: "https://thumbnails.texastribune.org/QceD9Q7o8f97xZhL2o7bt_uDgtM=/1200x804/smart/filters:quality(95)/static.texastribune.org/media/files/49768b4e6fab6c42ab333783f10a8f04/Ted%20Cruz%20Capitol%20Hill%20REUTERS%20.jpg"
         width: 1200
-        height: 630
-        isCached: true
-  - title: "Joe Biden chooses Walsh for Labor Secretary"
-    excerpt: "President-elect Joe Biden has chosen Boston Mayor Martin J. Walsh as his nominee for Labor secretary, tapping a longtime friend and former union president for the Cabinet position in what would mark a seismic shift in the city’s politics,"
-    publishedDateTime: 2021-01-08T03:29:00Z
-    webUrl: "https://www.bostonglobe.com/2021/01/07/nation/biden-taps-walsh-labor-secretary/"
-    ampWebUrl: "https://www.bostonglobe.com/2021/01/07/nation/biden-taps-walsh-labor-secretary/?outputType=amp"
-    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/01/07/nation/biden-taps-walsh-labor-secretary/?outputType=amp"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 55
-  - title: "Joe Biden to get 'presidential escort' to White House, virtual parade instead of traditional inaugural festivities"
-    excerpt: "Planners of Joe Biden's inauguration look to honor inaugural traditions with reimagined events during COVID-19 pandemic."
-    publishedDateTime: 2021-01-03T23:21:00Z
-    webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/01/03/inauguration-biden-get-escort-white-house-virtual-parade/4120484001/"
-    ampWebUrl: "https://amp.desmoinesregister.com/amp/4120484001"
-    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/4120484001"
-    type: article
-    provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
-    quality: 53
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/08/USAT/eb8d47e8-dbef-4300-b47d-0eea8dc13aee-AP20343703704788.jpg?auto=webp&crop=5999,3374,x0,y508&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Which Texas Republicans in Congress plan to object to certifying Joe Biden’s Electoral College victory?"
-    excerpt: "More than a third of the 25 Texas Republicans in Congress plan to object to the certification of Democrat Joe Biden’s White House victory"
-    publishedDateTime: 2021-01-05T17:18:00Z
-    webUrl: "https://www.dallasnews.com/news/politics/2021/01/05/which-texas-republicans-in-congress-plan-to-object-to-certifying-joe-bidens-electoral-college-victory/"
-    type: article
-    provider:
-      name: Dallas Morning News
-      domain: dallasnews.com
-    quality: 39
-    images:
-      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/LbXccO3V0HDUT3mrZSSCSusJXHc=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/2G57R5URCEHUMWCRYIGQMRW56A.jpg"
-        width: 1200
-        height: 630
+        height: 804
         isCached: true
 
 secured: "JqouBIBUY0pQAzI/9zBSTn9shAq3sWEwAEbMsSIjXRmBOozeVj4SBO8VOnp630kBe51cfLDrH0sG1FdetnZSe1K744bgeOWZLIbj1B0ScISgQ4OVY1CPTKWFsMEgI10oi97N4iVjwKue7oyPKLyQkfflwaK0LHhdu6lXJU0wkn3dw/WQrCDiblYhjSEyG19cxbwn0H8Wm2rWWal+K0p/5eoAitrCWLT0UvGsLhvL1Mjfts2sn0LrxlOXme7542XCI9CEDqcdmOzh/gwteGyJ+SbXFgAdF99K+sT5LmcYEyg3GLXqYNoK7g6qXXDZ6mLxZ2NJOQ+GuViJdh0bIrtvO+iY8piFuLUuzB1mr3tNX0s=;M9b9CMR+PZDRmfzJZE1r1Q=="

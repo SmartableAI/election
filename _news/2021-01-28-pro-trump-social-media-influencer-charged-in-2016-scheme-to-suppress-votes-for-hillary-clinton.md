@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-social-media-influencer-2016-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-social-media-influencer-2016-disinformation-scheme-hillary-clinton-votes-florida-new-york.amp"
 type: article
 quality: 163
-heat: 223
+heat: 183
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump Pressed Justice Department to Go Directly to Supreme Court to Overturn Election Results"
-    excerpt: "The former president dropped the efforts to replace the acting attorney general after top DOJ officials agreed to resign en masse in protest if he succeeded, people familiar with the matter said."
-    publishedDateTime: 2021-01-23T23:33:00Z
-    webUrl: "https://www.wsj.com/articles/trump-pressed-to-change-justice-department-leadership-to-boost-his-voter-fraud-claims-11611434369"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-pressed-to-change-justice-department-leadership-to-boost-his-voter-fraud-claims-11611434369"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-pressed-to-change-justice-department-leadership-to-boost-his-voter-fraud-claims-11611434369"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 139
-    images:
-      - url: "https://images.wsj.net/im-289628/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Pro-Trump Lawyer Lin Wood Is Investigated for Alleged Illegal Voting in Georgia"
     excerpt: "Georgia officials are investigating whether attorney and pro-Trump activist L. Lin Wood may have voted illegally in Georgia while living in South Carolina. Georgia officials opened the investigation after a news report said that Mr."
     publishedDateTime: 2021-02-03T03:43:00Z
@@ -60,22 +44,6 @@ related:
     quality: 131
     images:
       - url: "https://images.wsj.net/im-294135/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Trump Pressed to Change Justice Department Leadership to Boost His Voter Fraud Claims"
-    excerpt: "The former president’s efforts were dropped after top DOJ officials agreed to resign en masse in protest if he succeeded, people familiar said."
-    publishedDateTime: 2021-01-23T19:39:00Z
-    webUrl: "https://www.wsj.com/articles/trump-pressed-to-change-justice-department-leadership-to-boost-his-voter-fraud-claims-11611434369"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-pressed-to-change-justice-department-leadership-to-boost-his-voter-fraud-claims-11611434369"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-pressed-to-change-justice-department-leadership-to-boost-his-voter-fraud-claims-11611434369"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 128
-    images:
-      - url: "https://images.wsj.net/im-289628/social"
         width: 1280
         height: 640
         isCached: true

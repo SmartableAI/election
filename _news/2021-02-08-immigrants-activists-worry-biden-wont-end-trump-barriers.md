@@ -111,22 +111,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "In Biden’s early days, signs of Trump-era problems at border"
-    excerpt: "Larger numbers of immigrant families have been crossing the U.S.-Mexico border in the first weeks of President Joe Biden’s administration"
-    publishedDateTime: 2021-02-10T10:04:00Z
-    webUrl: "https://www.washingtonpost.com/health/in-bidens-early-days-signs-of-trump-era-problems-at-border/2021/02/10/69ac4cce-6b5d-11eb-a66e-e27046e9e898_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/health/in-bidens-early-days-signs-of-trump-era-problems-at-border/2021/02/10/69ac4cce-6b5d-11eb-a66e-e27046e9e898_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/in-bidens-early-days-signs-of-trump-era-problems-at-border/2021/02/10/69ac4cce-6b5d-11eb-a66e-e27046e9e898_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 140
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "Biden says Trump should not receive intelligence briefings: CBS interview"
     excerpt: "U.S. President Joe Biden does not believe his predecessor Donald Trump should have access to intelligence briefings because of his \"erratic behavior\" and the concern he might share information, the Democrat said in an interview on Friday."
     publishedDateTime: 2021-02-06T06:03:00Z
@@ -558,6 +542,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ES2NP2DGWMI6XOVYOB7YO2OXQU.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Biden budget nominee would support raising minimum wage"
+    excerpt: "Neera Tanden, President Joe Biden's nominee to head the U.S. Office of Management and Budget, said on Wednesday she would support raising the U.S. minimum wage, without giving a target for a higher rate."
+    publishedDateTime: 2021-02-10T20:59:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-omb-wages-idUSKBN2AA24G"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AA24G"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AA24G"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210210&t=2&i=1551081094&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH191RR"
+        width: 817
+        height: 545
         isCached: true
   - title: "Biden orders sanctions against Myanmar after military coup"
     excerpt: "President Joe Biden is ordering new sanctions against the military regime in Myanmar, taking action after the military staged a coup in the Southeast Asian country and arrested the de facto leader and"
@@ -1037,6 +1037,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "WH: Biden focus on working on relief, not trial"
+    excerpt: "White House Press Secretary Jen Psaki says President Joe Biden's silence on the impeachment trial means he is working on his rescue plan for the American people. (Feb. 10)"
+    publishedDateTime: 2021-02-10T19:12:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/02/10/wh-biden-focus-working-relief-not-trial/6707914002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/e36265da-bd9d-4614-b868-1ea0bb58104c_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Trump's lawyers will argue impeachment trial is unconstitutional after split with old legal team over voter fraud"
     excerpt: "Donald Trump's attorneys are expected to center his impeachment defense on the Constitution and arguments he didn't incite the Capitol riot."
     publishedDateTime: 2021-02-02T08:26:00Z

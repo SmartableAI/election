@@ -59,22 +59,6 @@ related:
         width: 800
         height: 535
         isCached: true
-  - title: "The Trump administration is revoking the licenses of companies that supply to Huawei, as a final blow to the Chinese tech giant"
-    excerpt: "Huawei has long been a target of the Trump administration, which believes it spies for the Chinese government. Huawei has repeatedly denied the claim."
-    publishedDateTime: 2021-01-18T10:44:00Z
-    webUrl: "https://www.businessinsider.com/trump-administration-halts-huawei-supply-shipments-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/trump-administration-halts-huawei-supply-shipments-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-administration-halts-huawei-supply-shipments-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 97
-    images:
-      - url: "https://i.insider.com/60055311660f6c0018349a61?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Exclusive: Trump admin slams China's Huawei, halting shipments from Intel, others - sources"
     excerpt: "The Trump administration notified Huawei suppliers, including chipmaker Intel, that it is revoking certain licenses to sell to the Chinese company and intends to reject dozens of other applications to supply the telecommunications firm,"
     publishedDateTime: 2021-01-17T22:07:00Z
@@ -88,22 +72,6 @@ related:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210117&t=2&i=1548118670&r=LYNXMPEH0G0DZ&w=800"
         width: 800
         height: 533
-        isCached: true
-  - title: "Snapchat Permanently Bans Donald Trump For Spreading Misinformation, Inciting Violence"
-    excerpt: "Snapchat has permanently banned Donald Trump from its platform after assessing what could happen if he were to continue spreading misinformation and inciting violence online."
-    publishedDateTime: 2021-01-14T02:36:00Z
-    webUrl: "https://www.ibtimes.com/snapchat-permanently-bans-donald-trump-spreading-misinformation-inciting-violence-3121463"
-    ampWebUrl: "https://www.ibtimes.com/snapchat-permanently-bans-donald-trump-spreading-misinformation-inciting-violence-3121463?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/snapchat-permanently-bans-donald-trump-spreading-misinformation-inciting-violence-3121463?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 67
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/12/the-cancelled-diplomatic-trips-round-off-four-tumultuous.jpg"
-        width: 1024
-        height: 677
         isCached: true
   - title: "Exclusive: Trump Admin Slams China's Huawei, Halting Shipments From Intel, Others - Sources"
     excerpt: "The Trump administration notified Huawei suppliers, including chipmaker Intel, that it is revoking certain licenses to sell to the Chinese company and intends to reject dozens of other applications to supply the telecommunications firm,"

@@ -111,22 +111,6 @@ related:
         width: 1000
         height: 715
         isCached: true
-  - title: "Marriott and others pledge to cut off money to members of Congress who doubted Biden win"
-    excerpt: "The violent insurrection at the Capitol has companies scrambling to react, as the option of sitting on the sidelines grows increasingly unsatisfying."
-    publishedDateTime: 2021-01-11T03:44:00Z
-    webUrl: "https://www.washingtonpost.com/business/2021/01/10/marriott-campaign-donations-congress/"
-    ampWebUrl: "https://www.washingtonpost.com/business/2021/01/10/marriott-campaign-donations-congress/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/01/10/marriott-campaign-donations-congress/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 116
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4IPYVLRAFMI6XLKTJQP5USMQPU.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Biden's Oval Office swaps Andrew Jackson, military flags for family photos, civil rights leaders"
     excerpt: "U.S President Joe Biden has decorated his new office with busts of civil rights and labor leaders, nods to other presidents who faced great crises, and side-by-side portraits of American founders who famously disagreed."
     publishedDateTime: 2021-01-23T01:35:00Z
@@ -143,51 +127,19 @@ related:
         width: 815
         height: 545
         isCached: true
-  - title: "As Biden prepares to take office and America reels from Capitol riots, Black and white still define the nation"
-    excerpt: "Since the beginning of America, race was used to generate wealth for whites on the back of Blacks. Why can't we see our common economic interests?"
-    publishedDateTime: 2021-01-15T00:40:00Z
-    webUrl: "https://www.usatoday.com/story/money/2021/01/14/black-america-history-social-economic-inequalities/5759328002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5759328002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5759328002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/05/USAT/7595686b-762b-49ce-9210-96f74c5f7ead-GTY_1230427031.jpg?auto=webp&crop=5567,3131,x0,y581&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Dollar hovers near one-month high as Biden's FX policy takes shape"
-    excerpt: "The dollar hovered around its highest in nearly one month on Tuesday with traders expecting U.S. Treasury Secretary nominee Janet Yellen to affirm a more traditional commitment to market-set currency rates when she testifies at Capitol Hill later."
-    publishedDateTime: 2021-01-19T06:52:00Z
-    webUrl: "https://www.reuters.com/article/global-forex-int/dollar-hovers-near-one-month-high-as-bidens-fx-policy-takes-shape-idUSKBN29O03O"
+  - title: "Biden rounds out health team with Pennsylvania top official"
+    excerpt: "U.S. President-elect Joe Biden on Tuesday filled out his health team, announcing Pennsylvania Health Secretary Dr. Rachel Levine as his choice for assistant U.S. health secretary as his administration takes office this week amid the COVID-19 pandemic."
+    publishedDateTime: 2021-01-19T18:09:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-levine-idUSL1N2JU0V7"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 105
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548253459&r=LYNXMPEH0I02C&w=800"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Black and white still define America as Biden prepares to take office, country deals with Capitol riots aftermath"
-    excerpt: "Since the beginning of America, race was used to generate wealth for whites on the back of Blacks. Why can't we see our common economic interests?"
-    publishedDateTime: 2021-01-14T05:14:00Z
-    webUrl: "https://www.usatoday.com/story/money/2021/01/14/black-america-history-social-economic-inequalities/5759328002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5759328002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5759328002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 104
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/05/USAT/7595686b-762b-49ce-9210-96f74c5f7ead-GTY_1230427031.jpg?auto=webp&crop=5567,3131,x0,y581&format=pjpg&width=1200"
+      - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
   - title: "Biden taps Levine for key health role, in historic pick of transgender person"
     excerpt: "President-elect Joe Biden on Tuesday named Dr. Rachel Levine to service as assistant U.S. health secretary, a historic first as Levine would become the first openly transgender official to be confirmed by the Senate."
@@ -231,15 +183,6 @@ related:
         width: 800
         height: 459
         isCached: true
-  - title: "A new crop of Texas-led lawsuits awaits Joe Biden's White House"
-    excerpt: "As the Democratic president-elect enacts big plans in his first 100 days, Texas is almost certain to fight him at every step."
-    publishedDateTime: 2021-01-16T05:38:00Z
-    webUrl: "https://www.houstonchronicle.com/politics/texas/article/A-new-crop-of-Texas-led-lawsuits-awaits-Joe-15874024.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 85
 
 secured: "NbxpVWf5BiLAygI04aA3hjP3xhIQvzPO3idUKBlv+y3aDIJV4oLNmZoVyYSMODcIwou9LbYW6VSLElAodYjR+FJJuP0ymiaA7z2GTWHXxiWtSMlXl/tjcRXLiPT93vo1et5y8fS8S1jWoJ8VFbzNjlB7gJL8YR0p85XkV9bj6mlcq5n+Co5s24QVuNY/4YwNLREmDaNLdWig38S08WlBnP7xlpf8yqnfBty5kBW2g3BCcoQtPJaG0LCG3uUsxUCkrioUid8/QkHKhtwLEnwXh/TeFdAkAc7iwYEfVXAocfJQca4s9v08zGGPQOP/WFS42zqiU4sO0sqPyFwKtaeBvPphqXw2eyUJfP6F4Z4NXiw2FO+OgDGAj8ygJCL1I5Vg6y6vGR2Rs619Jlg60WDfJuLEwMCtqRaGc/351rnM1jqLAwvEjEeTtQamWCnowBhoAKT9AdklxNwXp9fdOcvyTCcihaG4XvRGAlhOT9ls2WiDv8NMcOjV5TsgnAVNl4sizMQJN4bvmY/s2gc2UvqG7w==;WnWChGMkagBm4iA3fa2hVA=="
 ---

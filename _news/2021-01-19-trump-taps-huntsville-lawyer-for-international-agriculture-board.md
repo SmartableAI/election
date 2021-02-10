@@ -43,21 +43,21 @@ related:
         width: 2500
         height: 1364
         isCached: true
-  - title: "City council approves bill condemning Trump for Capitol riot"
-    excerpt: "A city council in Maryland unanimously approved a resolution condemning former President Donald Trump for the violent siege of the U.S. Capitol"
-    publishedDateTime: 2021-01-26T20:55:00Z
-    webUrl: "https://www.washingtonpost.com/local/city-council-approves-bill-condemning-trump-for-capitol-riot/2021/01/26/df7eda2c-5fee-11eb-a177-7765f29a9524_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/local/city-council-approves-bill-condemning-trump-for-capitol-riot/2021/01/26/df7eda2c-5fee-11eb-a177-7765f29a9524_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/city-council-approves-bill-condemning-trump-for-capitol-riot/2021/01/26/df7eda2c-5fee-11eb-a177-7765f29a9524_story.html?outputType=amp"
+  - title: "Trump team hires 2 ex-prosecutors with ethics experience"
+    excerpt: "Donald Trump has added two more former federal prosecutors from South Carolina to his impeachment legal team, according to one of the lawyers. “It is confirmed,” Greg Harris, an attorney in the capital city of Columbia,"
+    publishedDateTime: 2021-01-29T02:54:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-team-hires-prosecutors-ethics-experience-75554682"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-team-hires-prosecutors-ethics-experience-75554682"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-team-hires-prosecutors-ethics-experience-75554682"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/Politics/WireAP_99dde2878a054f718926d2e0a62bcdf9_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Facebook 'Supreme Court' To Judge Trump Suspension"
     excerpt: "Facebook and Instagram suspended Trump after his supporters stormed the US Capitol on January 6, an attack on the seat of democracy that led to Trump's second impeachment. The leading social network is referring the decision to its independent oversight board -- known informally as the Facebook \"supreme court\" -- with the authority to make binding rulings even chief executive Mark Zuckerberg must abide by."

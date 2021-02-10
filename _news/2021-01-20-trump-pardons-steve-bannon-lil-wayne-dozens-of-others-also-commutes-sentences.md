@@ -47,6 +47,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump gets warm Florida greeting from supporters after arriving from DC"
+    excerpt: "Former President Trump received a warm greeting from supporters in South Florida on Wednesday morning as he made his way to his Mar-a-Lago resort after leaving the White House for the last time as the commander-in-chief."
+    publishedDateTime: 2021-01-21T05:42:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LWUaoV2BEm4/trump-gets-warm-florida-greeting-from-supporters-after-arriving-from-dc"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-gets-warm-florida-greeting-from-supporters-after-arriving-from-dc.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-gets-warm-florida-greeting-from-supporters-after-arriving-from-dc.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21020615555291.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Pelosi denounces Trump as 'clear and present danger' in impeachment push: 'He must go'"
+    excerpt: "House Speaker Nancy Pelosi called on members of Congress to impeach President Trump on Wednesday, accusing him of being a danger to the republic who needed to be removed."
+    publishedDateTime: 2021-01-13T18:44:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ekuda9AxUIg/pelosi-trump-impeachment-speech-clear-and-present-danger-he-must-go"
+    ampWebUrl: "https://www.foxnews.com/politics/pelosi-trump-impeachment-speech-clear-and-present-danger-he-must-go.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-trump-impeachment-speech-clear-and-present-danger-he-must-go.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Nancy-Pelosi-Trump-impeachment-speech-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "MA/WiAWUaOmVX7jzoTVfnndYNuVWczuqCW9YPi5IpzpUmKMr+6mklazWmW2r9axzcoPPkmMnxN5aPJ4+cWc45hd433Tias/m5WIoD0WgJVoDrgJFSyHVbr7UMlHNG573+jFnfa6fsDX0cbtRMJXvbPfFyt6SBdp7yKtTveXnbwVGra2p3bIxult0Zm7k3HqRBl3DQnd1qFfaKFM8gTOY1BpcZTxl7IHRrgyqVpF/AEVtfBr2yr9Kvn10quDRHPlLgpo7uQFEiSPBuJxKfMQ87cscPlpsUYvnHBKqk9zbXJxNw5T0kTodhVnkmt+zMBYalUW7ewuR5jPTYSd6QSLLlhadq0QN5qJOERQl+fM9NJE=;LJzm1c7inS53W2I8MyWUtw=="
 ---

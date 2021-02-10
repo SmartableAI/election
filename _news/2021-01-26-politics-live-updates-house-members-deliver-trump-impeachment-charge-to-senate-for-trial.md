@@ -31,716 +31,657 @@ images:
     isCached: true
 
 related:
-  - title: "Politics updates: Trump advocates for $2,000 stimulus checks after signing relief package"
-    excerpt: "President Donald Trump continued to argue for $2,000 stimulus checks after signing a coronavirus relief package with a provision for a lower amount."
-    publishedDateTime: 2020-12-28T14:09:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/28/politics-updates-presidential-transition-covid-relief/4057942001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4057942001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4057942001"
+  - title: "Trump impeachment trial likely in mid-February: Republican senator"
+    excerpt: "Former President Donald Trump's U.S. Senate impeachment trial is likely to begin sometime around mid-February in order to give his defense team time to prepare, Republican Senator Mike Braun told reporters on Thursday."
+    publishedDateTime: 2021-01-21T22:43:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-trial/trump-impeachment-trial-likely-in-mid-february-republican-senator-idUSKBN29Q30X"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Q30X"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Q30X"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 126
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/21/USAT/e44d7247-c30b-46ea-98e6-527cfd048984-VPC_COVID19_NEW_RELIEF_DEAL_DESK_THUMB.jpg?auto=webp&crop=1911,1075,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Covid relief: Trump demands changes to sign $900bn bill"
-    excerpt: "Outgoing president says $600 stimulus payout to most Americans should increase to $2,000, or $4,000 for a couple"
-    publishedDateTime: 2020-12-23T03:51:00Z
-    webUrl: "https://www.theguardian.com/us-news/2020/dec/22/covid-relief-trump-demands-changes-to-sign-900bn-bill"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/22/covid-relief-trump-demands-changes-to-sign-900bn-bill"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/22/covid-relief-trump-demands-changes-to-sign-900bn-bill"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
+      name: Reuters
+      domain: reuters.com
     quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/7028196812fbe9486628434e6239f4854962ec9f/0_363_5442_3265/master/5442.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=93941f4b1bb96141d79e029b0ec09467"
-        width: 600
-        height: 360
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210121&t=2&i=1548638815&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0K1PW"
+        width: 818
+        height: 545
         isCached: true
-  - title: "Trump blasts COVID-19 economic relief package and demands changes"
-    excerpt: "President Trump indicated Tuesday night that he would not sign the massive COVID-19 economic relief package, bringing new risk to the effort to provide financial aid to millions of Americans struggling during the pandemic."
-    publishedDateTime: 2020-12-23T02:11:00Z
-    webUrl: "https://www.cbsnews.com/news/trump-blasts-covid-19-economic-relief-package-and-demands-changes/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-blasts-covid-19-economic-relief-package-and-demands-changes/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-blasts-covid-19-economic-relief-package-and-demands-changes/"
+  - title: "Democrats say impeachment trial of Trump to begin week of Feb. 8"
+    excerpt: "House Democrats will send the article of impeachment against former President Trump to the Senate on Monday and the trial will start the week of Feb. 8 to allow time for the House and the former president to prepare,"
+    publishedDateTime: 2021-01-22T23:13:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-01-22/article-of-impeachment-senate-trump"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-01-22/article-of-impeachment-senate-trump?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-01-22/article-of-impeachment-senate-trump?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/1b2877e/2147483647/strip/true/crop/5318x3473+0+36/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F13%2F16%2F7baa1b780dc35a86ecac46f2901c%2F1ad03d94fba34dd58484e1f115dd3518"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "In Senate deal, Trump impeachment trial put off until early February"
+    excerpt: "The leaders of the U.S. Senate agreed on Friday to push back former President Donald Trump's impeachment trial by two weeks, giving the chamber more time to focus on President Joe Biden's legislative agenda and Cabinet nominees before turning to the contentious"
+    publishedDateTime: 2021-01-23T06:08:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-impeachment-idINKBN29R27D"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN29R27D"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN29R27D"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210122&t=2&i=1548735957&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0L17I"
+        width: 819
+        height: 545
+        isCached: true
+  - title: "Live Updates: Pelosi to send Trump article of impeachment on Monday"
+    excerpt: "The delivery of the article will trigger the beginning of former President Trump's impeachment trial in the Senate."
+    publishedDateTime: 2021-01-22T16:26:00Z
+    webUrl: "https://www.cbsnews.com/live-updates/senate-confirmation-hearings-watch-live-stream-today-2021-01-22/"
+    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/senate-confirmation-hearings-watch-live-stream-today-2021-01-22/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/senate-confirmation-hearings-watch-live-stream-today-2021-01-22/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 125
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/23/ac57d883-d8d2-4405-a4bf-18068bc6aead/thumbnail/1200x630/8586713d78108fbcf0144908b3c95136/screen-shot-2020-12-22-at-8-07-16-pm.png"
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/09/28c75523-7c0e-44a2-8971-bf4afe7887b0/thumbnail/1200x630g3/9e8b8267d102e561f9ef68978f56e700/gettyimages-1229699676.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Trump threatens to not sign COVID-19 bill, wants bigger stimulus checks"
-    excerpt: "U.S. President Donald Trump threatened on Tuesday not to sign a $892-billion coronavirus relief bill that includes desperately needed money for individual Americans, saying it should be amended to increase the amount in the stimulus checks."
-    publishedDateTime: 2020-12-23T02:06:00Z
-    webUrl: "https://www.reuters.com/article/uk-health-coronavirus-usa-trump-idUKKBN28X04N"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28X04N"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28X04N"
+  - title: "Schumer: Trump impeachment trial to begin week of Feb. 8"
+    excerpt: "Opening arguments in the Senate impeachment trial for Donald Trump on the charge of incitement of insurrection will begin the week of Feb. 8."
+    publishedDateTime: 2021-01-22T23:31:00Z
+    webUrl: "https://www.businessinsider.com/schumer-trump-impeachment-trial-to-begin-week-of-feb-8-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/schumer-trump-impeachment-trial-to-begin-week-of-feb-8-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/schumer-trump-impeachment-trial-to-begin-week-of-feb-8-2021-1?amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 125
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201223&t=2&i=1545504122&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBM00V"
-        width: 817
-        height: 545
+      - url: "https://i.insider.com/600b5eea7e47190011cb8ddc?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Trump threatens to not sign COVID-19 bill, wants bigger stimulus checks"
-    excerpt: "President Donald Trump threatened on Tuesday to not sign an $892 billion coronavirus relief bill that includes desperately needed money for individual Americans, saying it should be amended to increase the amount in the stimulus checks."
-    publishedDateTime: 2020-12-23T18:00:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-trump-idUKKBN28X01V"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28X01V"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28X01V"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201223&t=2&i=1545558317&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBM00V"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "UPDATE 1-Lawmakers block Trump's requested changes on coronavirus bill"
-    excerpt: "Republicans and Democrats in the U.S. House of Representatives on Thursday blocked attempts to alter a $2.3 trillion coronavirus aid and government spending package, leaving its status in doubt after President Donald Trump demanded extensive changes to the legislation."
-    publishedDateTime: 2020-12-24T14:31:00Z
-    webUrl: "https://www.reuters.com/article/usa-trump-idUSL1N2J40NK"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2J40NK"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2J40NK"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201224&t=2&i=1545710097&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBN10E"
-        width: 818
-        height: 545
-        isCached: true
-  - title: "GOP blocks $2,000 checks as Trump leaves COVID aid in chaos"
-    excerpt: "President Donald Trump’s last-minute demand for $2,000 checks for most Americans has thrown the year-end COVID relief effort into chaos"
-    publishedDateTime: 2020-12-25T08:39:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/gop-blocks-2000-checks-trump-leaves-covid-aid-74905528"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/gop-blocks-2000-checks-trump-leaves-covid-aid-74905528"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/gop-blocks-2000-checks-trump-leaves-covid-aid-74905528"
+  - title: "Supporters' words may haunt Trump at impeachment trial"
+    excerpt: "The words of Donald Trump supporters who are accused of participating in the deadly U.S. Capitol riot may end up being used against him in his Senate impeachment trial as he faces the charge of inciti"
+    publishedDateTime: 2021-01-23T13:56:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/supporters-words-haunt-trump-impeachment-trial-75443663"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/supporters-words-haunt-trump-impeachment-trial-75443663"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/supporters-words-haunt-trump-impeachment-trial-75443663"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_80df8f4c6b4b48998fbd6233566fa705_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_b180c281679643a2a82a4f9d6c63f1ef_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Global stocks advance after Trump signs $900B aid package"
-    excerpt: "Global stock markets have risen after President Donald Trump signed a $900 billion economic aid package, helping to reduce uncertainty as governments re-impose travel and business curbs in response to"
-    publishedDateTime: 2020-12-28T14:08:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/asian-stocks-advance-trump-signs-900b-aid-package-74929903"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/asian-stocks-advance-trump-signs-900b-aid-package-74929903"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/asian-stocks-advance-trump-signs-900b-aid-package-74929903"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Travel/WireAP_9eca90799b1e4adb91d30dd45a42cb70_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Oil rises towards $52 after Trump signs aid bill"
-    excerpt: "Oil rose towards $52 a barrel on Monday as U.S. President Donald Trump's signing of a coronavirus aid package and the start of a European vaccination campaign outweighed concern about weak near-term demand."
-    publishedDateTime: 2020-12-28T10:37:00Z
-    webUrl: "https://www.reuters.com/article/global-oil-int-idUSKBN2920G3"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2920G3"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2920G3"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201228&t=2&i=1545938712&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBR07D"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Trump signs federal stimulus package: Another waiting game for Guam"
-    excerpt: "Those currently benefiting from PUA will receive another 11 weeks of assistance, and it will be possible to file new claims."
-    publishedDateTime: 2020-12-29T04:45:00Z
-    webUrl: "https://www.usatoday.com/story/money/2020/12/28/trump-signs-federal-stimulus-package-another-waiting-game-guam/4056532001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4056532001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4056532001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 125
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/27/USAT/f5e585fb-71ca-4949-bb65-85ceecf55c4e-AP_Virus_Outbreak_Trump_Congress.jpg?auto=webp&crop=2101,1182,x0,y107&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "US STOCKS-Wall St at record levels after Trump signs fiscal aid bill"
-    excerpt: "Dec 28 (Reuters) - Wall Street’s main indexes were trading at record levels on Monday as President Donald Trump’s signing of a long-awaited $2.3 trillion pandemic aid bill bolstered bets on an economic recovery."
-    publishedDateTime: 2020-12-28T22:30:00Z
-    webUrl: "https://www.reuters.com/article/usa-stocks/us-stocks-wall-st-at-record-levels-after-trump-signs-fiscal-aid-bill-idUSL4N2J81ZR"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN292101"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN292101"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201228&t=2&i=1545967675&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBR0KR"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Can Donald Trump Pass $2,000 Stimulus Checks by Executive Order?"
-    excerpt: "With a standalone bill that would allow $2,000 stimulus checks apparently dead in the Senate, could President Donald Trump sign an executive order that would allow the higher direct payments to reach Americans?"
-    publishedDateTime: 2020-12-31T22:45:00Z
-    webUrl: "https://www.newsweek.com/can-donald-trump-pass-2000-stimulus-checks-executive-order-1558386"
-    ampWebUrl: "https://www.newsweek.com/can-donald-trump-pass-2000-stimulus-checks-executive-order-1558386?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/can-donald-trump-pass-2000-stimulus-checks-executive-order-1558386?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 125
-    images:
-      - url: "https://d.newsweek.com/en/full/1696668/could-trump-sign-exec-order-stimulus-checks.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "The stimulus bill holdup was just another Trump show"
-    excerpt: "Trump signs stimulus bill to avert shutdown”: In the end, it was just another Trump show. Millions lost a week of unemployment benefits. Many more felt the anxiety of unpaid bills and facing eviction from their homes."
-    publishedDateTime: 2021-01-01T22:07:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/the-stimulus-bill-holdup-was-just-another-trump-show/2020/12/30/724e1eac-4948-11eb-97b6-4eb9f72ff46b_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/the-stimulus-bill-holdup-was-just-another-trump-show/2020/12/30/724e1eac-4948-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/letters-to-the-editor/the-stimulus-bill-holdup-was-just-another-trump-show/2020/12/30/724e1eac-4948-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JBIWBCCFNEI6XLBKHLAPFOGO5M.jpg&w=1440"
-        width: 1440
-        height: 1009
-        isCached: true
-  - title: "Politics updates: Donald Trump expected to sign coronavirus stimulus bill"
-    excerpt: "The Senate passed a $900 billion COVID-19 relief package Monday, sending the bill to President Donald Trump to sign."
-    publishedDateTime: 2020-12-22T13:04:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/22/trump-expected-sign-covid-19-relief-bill-live-politics-updates/4004965001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4004965001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4004965001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 124
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/22/USAT/11c6862d-44e0-4df2-8137-e08571f854e8-AFP_AFP_1WD8I7.jpg?auto=webp&crop=6047,3401,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump Attacks China in Christmas Tweet as Millions Await Stimulus Update"
-    excerpt: "President tells lawmakers who blocked attempts to increase coronavirus relief package to $2,000 per qualified individual \"it wasn't their fault, it was China.\""
-    publishedDateTime: 2020-12-26T12:35:00Z
-    webUrl: "https://www.newsweek.com/trump-tweet-stimulus-china-1557359"
-    ampWebUrl: "https://www.newsweek.com/trump-tweet-stimulus-china-1557359?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-tweet-stimulus-china-1557359?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 124
-    images:
-      - url: "https://d.newsweek.com/en/full/1693329/donald-trump.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Donald Trump plays golf as Congress scrambles to salvage Covid relief bill"
-    excerpt: "Nancy Pelosi in talks with treasury secretary Steven Mnuchin after president’s demand for $2,000 stimulus checks left deal in disarray"
-    publishedDateTime: 2020-12-25T13:51:00Z
-    webUrl: "https://www.theguardian.com/us-news/2020/dec/25/donald-trump-plays-golf-covid-relief-congress"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/25/donald-trump-plays-golf-covid-relief-congress"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/25/donald-trump-plays-golf-covid-relief-congress"
+  - title: "Impeachment guide: how will Donald Trump's second Senate trial unfold?"
+    excerpt: "If the trial is successful it would allow the Senate to bar the former president from holding office in the future"
+    publishedDateTime: 2021-01-25T06:55:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/25/trump-impeachment-explained-what-happens-how-does-it-work-senate-trial-guide"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/25/trump-impeachment-explained-what-happens-how-does-it-work-senate-trial-guide"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/25/trump-impeachment-explained-what-happens-how-does-it-work-senate-trial-guide"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 123
+    quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/2e010efc9cce70ab747b89e817abb0ba63678e43/0_103_3094_1857/master/3094.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a6c7cedeaa4b2498d5bc815bb052ad2b"
+      - url: "https://i.guim.co.uk/img/media/ffeef918a0039227abd2626c7b6eed4ffe0d8d2d/0_186_5568_3341/master/5568.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ff8f9bea775fc88b7549ec396d789354"
         width: 600
         height: 360
         isCached: true
-  - title: "Trump pardon of Blackwater Iraq contractors violates international law - U.N."
-    excerpt: "U.S. President Donald Trump's pardon of four American men convicted of killing Iraqi civilians while working as contractors in 2007 violated U.S. obligations under international law, U.N. human rights experts said on Wednesday."
-    publishedDateTime: 2020-12-30T20:21:00Z
-    webUrl: "https://www.reuters.com/article/us-iraq-blackwater-un-idUSKBN294108"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN294108"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN294108"
+  - title: "Trump's second impeachment trial: the key players"
+    excerpt: "House charged Trump with ‘incitement of insurrection’"
+    publishedDateTime: 2021-01-25T08:03:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/25/trumps-second-impeachment-trial-key-players"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/25/trumps-second-impeachment-trial-key-players"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/25/trumps-second-impeachment-trial-key-players"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/a532de0afb04181abd9a25cda0dcf991957441ca/0_400_5388_3233/master/5388.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d21f86f37352f4a80e66672d0ed3244d"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Lawyer group: Trump adds ex-prosecutor to impeachment team"
+    excerpt: "Donald Trump is adding another attorney from South Carolina to his impeachment legal team: a former federal prosecutor-turned-defense attorney who specializes in white-collar crime"
+    publishedDateTime: 2021-01-26T08:07:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/lawyer-group-trump-adds-prosecutor-impeachment-team-75481369"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/lawyer-group-trump-adds-prosecutor-impeachment-team-75481369"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/lawyer-group-trump-adds-prosecutor-impeachment-team-75481369"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_d5306b2cfcd64cb696a6ddf36ddcb3b2_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "US House delivers article of impeachment against Donald Trump to Senate"
+    excerpt: "Senate trial will be the first-ever of a former US president but the chances that Republicans will convict him are slim"
+    publishedDateTime: 2021-01-26T16:05:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/25/us-house-delivers-article-of-impeachment-trump-2021"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/25/us-house-delivers-article-of-impeachment-trump-2021"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/25/us-house-delivers-article-of-impeachment-trump-2021"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/8d55da59570e9ef8017c1331f45ab84178384f4e/0_105_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2d51d0099ca0a657b355310551ab1848"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Donald Trump and the verdict of history: ANALYSIS"
+    excerpt: "Not yet out of office for a week and still a political force, Donald Trump’s place in history, let alone his sentence, is bound to be debated for years to come."
+    publishedDateTime: 2021-01-28T16:00:00Z
+    webUrl: "https://abcnews.go.com/Politics/donald-trump-verdict-history-analysis/story?id=75496916"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/donald-trump-verdict-history-analysis/story?id=75496916"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/donald-trump-verdict-history-analysis/story?id=75496916"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-fla-20-rt-ml-210120_1611159652714_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "House to send Trump impeachment article to Senate on Monday, Schumer says"
+    excerpt: "House Speaker Nancy Pelosi plans to send the article of impeachment against Donald Trump to the Senate on Monday."
+    publishedDateTime: 2021-01-22T15:58:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-impeachment-20210122-5zbdjqlyxvc7rat65nnnpd64bm-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-impeachment-20210122-5zbdjqlyxvc7rat65nnnpd64bm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-impeachment-20210122-5zbdjqlyxvc7rat65nnnpd64bm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 124
+    images:
+      - url: "https://www.chicagotribune.com/resizer/txtVMfQsBEOT3_vC_uaHadgkG8E=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/QC2KMDNQQZCKVRKGAESVM5FG2U.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "U.S. House lawmakers carry article of impeachment against Trump to Senate"
+    excerpt: "U.S. House of Representatives officials and lawmakers on Monday hand-carried an article of impeachment against former President Donald Trump to the Senate for trial on accusations of inciting the deadly Jan."
+    publishedDateTime: 2021-01-26T00:41:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-procession-idUSKBN29V00J"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29V00J"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29V00J"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 122
+    quality: 124
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201230&t=2&i=1546149665&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBT0KS"
-        width: 662
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210126&t=2&i=1549036656&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0P006"
+        width: 817
         height: 545
         isCached: true
-  - title: "Stocks open higher after President Trump signs $900B coronavirus relief aid package"
-    excerpt: "The Dow Jones Industrial Average, S&P 500 and Nasdaq began the week slightly higher after President Trump signed a $900 billion economic aid package."
-    publishedDateTime: 2020-12-28T16:27:00Z
-    webUrl: "https://www.usatoday.com/story/money/2020/12/28/dow-stocks-open-higher-after-president-trump-signs-900-b-aid-package/4059975001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4059975001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4059975001"
+  - title: "The second Trump impeachment trial is set for February. What happens next?"
+    excerpt: "WASHINGTON – Former President Donald Trump's historic second impeachment trial starts next month, but the process really started Monday, when the House sent the article of impeachment to the ..."
+    publishedDateTime: 2021-01-26T08:46:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/24/trump-impeachment-heres-what-happens-next-senate-trial/6672582002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6672582002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6672582002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 119
+    quality: 123
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/28/USAT/cece1a43-fb7c-4f81-a0f2-c2be0b331983-AP20363021962453.jpg?auto=webp&crop=4034,2269,x1,y143&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/12/29/NGCT/92163326-189a-4575-861a-7c419df0f18b-SCHUMER.jpg?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "N.Y. prosecutor hires forensic accounting experts as Trump criminal probe escalates"
-    excerpt: "Manhattan District Attorney Cyrus Vance has retained FTI Consulting as prosecutors scrutinize Trump’s business activities and real estate deals."
-    publishedDateTime: 2020-12-29T22:06:00Z
-    webUrl: "https://www.washingtonpost.com/national-security/trump-tax-returns-new-york-investigation/2020/12/29/11c43a38-43c8-11eb-b0e4-0f182923a025_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national-security/trump-tax-returns-new-york-investigation/2020/12/29/11c43a38-43c8-11eb-b0e4-0f182923a025_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/trump-tax-returns-new-york-investigation/2020/12/29/11c43a38-43c8-11eb-b0e4-0f182923a025_story.html?outputType=amp"
+  - title: "‘Not going to lose my son and my republic’: Jamie Raskin on Trump impeachment"
+    excerpt: "Last modified on Sun 17 Jan 2021 11.07 EST Jamie Raskin, the House Democrat leading the impeachment of Donald Trump, remembered his son Tommy on Sunday and said: “I’m not going to lose my son at the end of 2020 and lose my country and my republic in 2021."
+    publishedDateTime: 2021-01-17T15:07:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/17/jamie-raskin-democrat-trump-impeachment"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/17/jamie-raskin-democrat-trump-impeachment"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/17/jamie-raskin-democrat-trump-impeachment"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 119
+      name: The Guardian
+      domain: theguardian.com
+    quality: 122
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TPZNH4SIOUI6XA42Z5F2PN6ERQ.jpg&w=1440"
-        width: 1440
-        height: 880
+      - url: "https://i.guim.co.uk/img/media/b0fa70e3c8b787c34bc4ffccd3192bf1e7672acf/0_157_4696_2818/master/4696.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7a28c5a60f82540b2216f7405711c84d"
+        width: 600
+        height: 360
         isCached: true
-  - title: "Live politics updates: Trump slams COVID stimulus bill, sending lawmakers scrambling"
-    excerpt: "Trump says stimulus checks should exceed $600. Dems are on board. The proposal has been met with less enthusiasm from Republicans."
-    publishedDateTime: 2020-12-23T12:38:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/23/politics-updates-president-elect-joe-biden-donald-trump-congress/4001539001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4001539001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4001539001"
+  - title: "How Donald Trump's Second Impeachment Trial Will Be Different From His First"
+    excerpt: "Donald Trump made history in the days before his White House departure by becoming the only president to ever be impeached twice. Now, his upcoming trial in the Senate will be just as unprecedented."
+    publishedDateTime: 2021-01-25T22:24:00Z
+    webUrl: "https://www.newsweek.com/how-donald-trumps-second-impeachment-trial-will-different-his-first-1564269"
+    ampWebUrl: "https://www.newsweek.com/how-donald-trumps-second-impeachment-trial-will-different-his-first-1564269?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/how-donald-trumps-second-impeachment-trial-will-different-his-first-1564269?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 122
+    images:
+      - url: "https://d.newsweek.com/en/full/1715660/ex-president-donald-trump-air-force-one.jpg"
+        width: 2500
+        height: 1494
+        isCached: true
+  - title: "House Speaker Nancy Pelosi says she'll send Trump impeachment to Senate 'soon'"
+    excerpt: "House Speaker Nancy Pelosi said Thursday she would \"soon\" send the Senate the impeachment of President Donald Trump, setting the stage for a trial."
+    publishedDateTime: 2021-01-21T18:34:00Z
+    webUrl: "https://www.usatoday.com/story/news/2021/01/21/nancy-pelosi-send-trump-impeachment-senate-soon-trial/6656415002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6656415002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6656415002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 121
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/21/USAT/71646ee1-4545-45d6-bc02-6c60f77778ab-pelosi_1.jpg?auto=webp&crop=5525,3108,x0,y280&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Impeachment needed to bar Trump from running for federal office: Rep. Joaquin Castro"
+    excerpt: "House impeachment managers are prepared to chase every single Senate vote in an attempt to convict President Donald Trump for inciting insurrection, Rep. Joaquin Castro, D-Texas, said on ABC's \"This Week\" Sunday."
+    publishedDateTime: 2021-01-17T16:03:00Z
+    webUrl: "https://abcnews.go.com/Politics/impeachment-needed-bar-trump-running-federal-office-rep/story?id=75296965"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/impeachment-needed-bar-trump-running-federal-office-rep/story?id=75296965"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/impeachment-needed-bar-trump-running-federal-office-rep/story?id=75296965"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 118
+    images:
+      - url: "https://s.abcnews.com/images/Politics/Joacquin-Castro-Peter-Meijer-split-01-gty-llr-210116_1610823952116_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Politics live updates: Trump impeachment trial begins in earnest Feb. 8, Schumer says"
+    excerpt: "Senate Majority Leader Chuck Schumer announced House impeachment prosecutors will present the charge against former President Donald Trump on Monday."
+    publishedDateTime: 2021-01-23T09:25:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/22/politics-live-updates-senate-wrestles-trump-impeachment-trial/6666302002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6666302002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6666302002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
     quality: 118
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/08/USAT/a8b7c038-d832-4bf2-a913-14a0ce98737a-VPC_COVID_RELIEF_BILL_2_WIDE_GETTY.jpg?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/12/17/USAT/1ec764c4-8b59-4a29-b63d-54da88bc3e55-GTY_1290155881.jpg?auto=webp&crop=7826,4403,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "After Trump backs down on stimulus bill, lawmakers set to vote on higher relief checks"
-    excerpt: "Democrats in the U.S. Congress on Monday will try to push through higher pandemic relief payments of $2,000 for Americans after President Donald Trump backed down from a fight with lawmakers that could have shut down the federal government."
-    publishedDateTime: 2020-12-28T18:15:00Z
-    webUrl: "https://www.reuters.com/article/usa-trump-idUSKBN2920MG"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2920MG"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2920MG"
+  - title: "Donald Trump Gives First Public Remarks Since Leaving Office as Impeachment Trial Delayed"
+    excerpt: "Former President Donald Trump gave nothing away about his future plans in his first public remarks since leaving the White House on Friday, as Senate leadership delayed his impeachment trial for two weeks."
+    publishedDateTime: 2021-01-23T23:51:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-gives-first-public-remarks-since-leaving-office-impeachment-trial-delayed-1563945"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-gives-first-public-remarks-since-leaving-office-impeachment-trial-delayed-1563945?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-gives-first-public-remarks-since-leaving-office-impeachment-trial-delayed-1563945?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 116
+    images:
+      - url: "https://d.newsweek.com/en/full/1714811/trump-arriving-florida-january-20.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "U.S. House to bring Trump incitement charge to Senate, launching second impeachment trial"
+    excerpt: "The U.S. House of Representatives on Monday will formally charge ex-President Donald Trump with inciting insurrection in a fiery speech to his followers before this month's deadly attack on the Capitol,"
+    publishedDateTime: 2021-01-25T16:07:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump-impeachment-idUKKBN29U13E"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN29U13E"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN29U13E"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 117
+    quality: 116
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201228&t=2&i=1545964758&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBR07Z"
-        width: 817
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210125&t=2&i=1548995262&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0O0YF"
+        width: 851
         height: 545
         isCached: true
-  - title: "Bipartisan lawmakers urge Trump to either sign or immediately veto coronavirus relief bill"
-    excerpt: "A bipartisan group of lawmakers from both chambers of Congress on Sunday reissued their call for President Trump to sign a nearly $1 trillion COVID-19 relief package – or to immediately veto it."
-    publishedDateTime: 2020-12-27T22:21:00Z
-    webUrl: "https://thehill.com/homenews/senate/531769-bipartisan-lawmakers-urge-trump-to-either-sign-or-immediately-veto"
-    ampWebUrl: "https://thehill.com/homenews/senate/531769-bipartisan-lawmakers-urge-trump-to-either-sign-or-immediately-veto?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/531769-bipartisan-lawmakers-urge-trump-to-either-sign-or-immediately-veto?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 115
-    images:
-      - url: "https://thehill.com/sites/default/files/manchinjoe_collinssusan_warnermark_121420gn_lead.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Trump's demolition of the COVID-19 stimulus package could cost the GOP control of the Senate"
-    excerpt: "GOP Sens. Kelly Loeffler and David Perdue had put the passage of a stimulus bill at the front of their campaigns — until the president torpedoed it."
-    publishedDateTime: 2020-12-24T12:40:00Z
-    webUrl: "https://www.businessinsider.com/trump-coronavirus-stimulus-attacks-could-cost-gop-georgia-senate-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/trump-coronavirus-stimulus-attacks-could-cost-gop-georgia-senate-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-coronavirus-stimulus-attacks-could-cost-gop-georgia-senate-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 114
-    images:
-      - url: "https://i.insider.com/5fe478a7edf8920018093a15?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Politics updates: Impeachment managers request Trump testify under oath in impeachment trial"
-    excerpt: "The Rules Committee voted to bring the matter to the full House for a vote that will decide whether Greene can stay on her committees."
-    publishedDateTime: 2021-02-04T18:33:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/04/live-updates-house-to-vote-on-marjorie-taylor-greene-committee-seats/4383759001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4383759001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4383759001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 114
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/02/03/USAT/b517b428-a09c-4621-8f59-4828296b0235-AP_Capitol_Breach_Baked_Alaska_Arrest.jpg?auto=webp&crop=4104,2309,x0,y273&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "'You can't diddle around:' Sanders, despite misgivings, urges Trump to sign coronavirus relief bill"
-    excerpt: "Bernie Sanders, one of the leading advocates for government-issued direct payments to Americans amid the COVID-19 pandemic, argued Sunday that despite his -- and President Donald Trump's -- reservations about the size of the checks within the currently stalled relief bill,"
-    publishedDateTime: 2020-12-27T14:29:00Z
-    webUrl: "https://abcnews.go.com/Politics/diddle-sanders-misgivings-urges-trump-sign-coronavirus-relief/story?id=74915772"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/diddle-sanders-misgivings-urges-trump-sign-coronavirus-relief/story?id=74915772"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/diddle-sanders-misgivings-urges-trump-sign-coronavirus-relief/story?id=74915772"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 111
-    images:
-      - url: "https://s.abcnews.com/images/Politics/this-week-bernie-sanders-02-gty-llr-201226_1609009598745_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Second stimulus check updates: House Democrats to vote on $2,000 relief checks that Trump demanded"
-    excerpt: "The Democratic-led House Monday is set to vote to boost the $600 payments to $2,000, sending a new bill to the Senate. There, Republicans have the majority and are likely to defeat the effort."
-    publishedDateTime: 2020-12-28T17:31:00Z
-    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-second-stimulus-check-updates-20201228-7bufls7fzfdrnludxd63lsk6xi-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-second-stimulus-check-updates-20201228-7bufls7fzfdrnludxd63lsk6xi-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-second-stimulus-check-updates-20201228-7bufls7fzfdrnludxd63lsk6xi-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 111
-    images:
-      - url: "https://www.chicagotribune.com/resizer/BbKlJhyreDVCeAQ-IrynOg50Xhs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KBGH3YHVYRAJNPZQ7NVOHRGOXA"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Live politics updates: Rubio goes after Fauci on Twitter; Trump signs COVID relief amid criticism for delay"
-    excerpt: "Trump signs coronavirus stimulus bill amid bipartisan criticism; Rubio says Fauci \"lied\" and distorted; George Conway calls on Mnuchin to quit."
-    publishedDateTime: 2020-12-28T23:32:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/27/politics-updates-joe-biden-donald-trump-covid-stimulus-package/4052084001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4052084001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4052084001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 107
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/27/USAT/c7e5be1a-e67d-42ed-a51f-f22c064e92fe-GTY_1230070219.jpg?auto=webp&crop=3999,2249,x0,y165&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Stocks extend gains after Trump signs COVID-19 stimulus, House raises hopes for bigger checks to households"
-    excerpt: "The stock market extended Monday's gains that came after Trump signed COVID-19 relief. The House on Monday passed a measure to boost stimulus checks."
-    publishedDateTime: 2020-12-29T15:27:00Z
-    webUrl: "https://www.usatoday.com/story/money/2020/12/29/dow-jones-stocks-extend-gains-after-trump-signs-stimulus/4069031001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4069031001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4069031001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 107
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/b10a309f3918ef8193b468174eae4528e462b2d9/c=0-109-2123-1303/local/-/media/2020/10/31/USATODAY/usatsports/new-york-stock-exchange-wall-street-entrance.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "White House economic advisor breaks with Trump and says he's 'not so sure we need this massive stimulus bill'"
-    excerpt: "After Congress finally passed the second stimulus relief package, which included $600 checks, President Trump pushed for a deal on $2,000 checks."
-    publishedDateTime: 2021-01-03T03:25:00Z
-    webUrl: "https://www.businessinsider.com/trump-econ-advisor-unsure-about-massive-stimulus-bill-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/trump-econ-advisor-unsure-about-massive-stimulus-bill-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-econ-advisor-unsure-about-massive-stimulus-bill-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 106
-    images:
-      - url: "https://i.insider.com/5ff1c8409ff41f001883fad7?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "President Trump plans to sign COVID-19 stimulus bill"
-    excerpt: "Congress passed a $900 billion stimulus measure, which now heads to President Trump for a signature. CBS News White House correspondent Paula Reid joins CBSN with the latest."
-    publishedDateTime: 2020-12-22T16:24:00Z
-    webUrl: "https://www.cbsnews.com/video/trump-administration-congress-covid-stimulus-checks/"
+  - title: "Live Updates: Senate rejects GOP motion to declare Trump impeachment trial unconstitutional"
+    excerpt: "Senators were sworn in as jurors on Tuesday in the second impeachment trial of former President Donald Trump for inciting an insurrection, with proceedings scheduled to get underway in two weeks. Senator Patrick Leahy,"
+    publishedDateTime: 2021-01-26T22:06:00Z
+    webUrl: "https://www.cbsnews.com/live-updates/senate-cabinet-confirmation-impeachment-2021-01-26/"
+    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/senate-cabinet-confirmation-impeachment-2021-01-26/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/senate-cabinet-confirmation-impeachment-2021-01-26/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 105
+    quality: 115
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/22/d6e84f35-0d29-47bb-96d1-7ad98a8382ec/thumbnail/1200x630/6625156b63f6488e13c098786be9eb7c/cbsn-fusion-trump-admin-prepares-to-distribute-stimulus-checks-thumbnail-614297-640x360.jpg"
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/26/d8c6009b-1a41-4bf2-9d5d-627b79829356/thumbnail/1200x630/ed7731eecbd029ac99de9fcf4c3abfeb/screen-shot-2021-01-26-at-2-48-36-pm.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Trump delays signing of COVID relief bill"
-    excerpt: "Watch \"President Trump delays signing of COVID-19 relief bill, says stimulus checks should be $2,000\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-12-23T12:25:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201223115930-president-trump-delays-signing-of-covid-19-relief-bill-says-stimulus-checks-should-be-2000/"
+  - title: "U.S. House Speaker Pelosi says seeks clarity on Senate readiness for Trump impeachment trial"
+    excerpt: "U.S. House of Representatives Speaker Nancy Pelosi said on Thursday she will consult with fellow Democrats in coming days about the Senate's readiness to begin an impeachment trial of former President Donald Trump for his alleged role in the Jan."
+    publishedDateTime: 2021-01-21T22:31:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-idUSKBN29Q2C3"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Q2C3"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Q2C3"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
+      name: Reuters
+      domain: reuters.com
+    quality: 114
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/12/23/story_08240230_1608725103.jpg"
-        width: 1280
-        height: 720
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210121&t=2&i=1548626984&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0K1EA"
+        width: 855
+        height: 545
         isCached: true
-  - title: "Democrats want rushed vote on Trump's $2,000 coronavirus aid checks"
-    excerpt: "Democrats in the U.S. House of Representatives on Thursday aim to win quick passage of legislation providing $2,000 in direct payments to Americans as part of a coronavirus economic relief initiative after President Donald Trump unexpectedly insisted on the provision."
-    publishedDateTime: 2020-12-24T11:32:00Z
-    webUrl: "https://www.businessinsider.com/democrats-want-rushed-vote-on-trumps-2000-coronavirus-aid-checks-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/democrats-want-rushed-vote-on-trumps-2000-coronavirus-aid-checks-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/democrats-want-rushed-vote-on-trumps-2000-coronavirus-aid-checks-2020-12?amp"
+  - title: "As the numbers suggest a Trump acquittal, Senators explore censure and brace for impeachment trial"
+    excerpt: "Senate Democrats explored how to make their impeachment case against former President Donald Trump a day after a vote suggested he will be acquitted."
+    publishedDateTime: 2021-01-27T22:05:00Z
+    webUrl: "https://www.usatoday.com/story/news/2021/01/27/trump-impeachment-senators-floating-censure-after-rand-paul-motion/4280256001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4280256001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4280256001"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "GOP blocks $2,000 checks as Trump leaves COVID aid in chaos"
-    excerpt: "President Donald Trump’s sudden demand for $2,000 checks for most Americans was swiftly rejected by House Republicans as his haphazard actions have thrown a massive relief and government funding bill into chaos."
-    publishedDateTime: 2020-12-25T20:22:00Z
-    webUrl: "https://www.businessinsider.com/gop-blocks-2000-checks-as-trump-leaves-covid-aid-in-chaos-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/gop-blocks-2000-checks-as-trump-leaves-covid-aid-in-chaos-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-blocks-2000-checks-as-trump-leaves-covid-aid-in-chaos-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "METALS-Shanghai metals rise as Trump signs stimulus bill"
-    excerpt: "Prices of most industrial metals rose on Monday, after U.S. President Donald Trump signed a stimulus package that would support the world's biggest economy and boost demand for metals."
-    publishedDateTime: 2020-12-28T03:19:00Z
-    webUrl: "https://www.reuters.com/article/global-metals-idUSL1N2J802I"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2J802I"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2J802I"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-  - title: "U.S. House approves $2,000 coronavirus aid checks sought by Trump"
-    excerpt: "The Democratic-led U.S. House of Representatives voted 275-134 to meet President Donald Trump's demand for $2,000 COVID-19 relief checks on Monday, sending the measure on to an uncertain future in the Republican-controlled Senate."
-    publishedDateTime: 2020-12-29T04:00:00Z
-    webUrl: "https://www.reuters.com/article/usa-trump-checks-idUSW1N2IO05X"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2IO05X"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2IO05X"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-  - title: "Senate continues debate on Trump veto override and stimulus check increase"
-    excerpt: "The U.S. Senate is expected to meet to continue debate on overriding President Trump's veto of the National Defense Authorization Act as well as considering increasing stimulus checks from $600 to $2,"
-    publishedDateTime: 2020-12-30T20:17:00Z
-    webUrl: "https://www.washingtonpost.com/video/politics/senate-continues-debate-on-trump-veto-override-and-stimulus-check-increase/2020/12/30/5f8e8c71-4173-4eae-a0fe-a1e7a32daba2_live.html"
+      name: USA Today
+      domain: usatoday.com
+    quality: 111
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/27/USAT/062d1fae-0a45-404c-8dda-c62f7a87ee96-durbin.jpg?auto=webp&crop=4499,2531,x0,y228&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Power Up: And then there were five. Republicans, that is, willing to hold a Trump impeachment trial"
+    excerpt: "Mitch McConnell isn't breaking with Trump, after all, as he voted to dismiss the impeachment trial because, 45 Republicans say, it's unconstitutional to convict a former president."
+    publishedDateTime: 2021-01-27T16:21:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/01/27/power-up-then-there-were-five-republicans-that-is-willing-hold-trump-impeachment-trial/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/27/power-up-then-there-were-five-republicans-that-is-willing-hold-trump-impeachment-trial/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/27/power-up-then-there-were-five-republicans-that-is-willing-hold-trump-impeachment-trial/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 103
+    quality: 111
     images:
-      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/12-30-2020/t_c810a8a84f124061bcb888aba817acd5_name_mcconnell_1229_scaled.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
-        width: 1484
-        height: 834
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GO2IDXDAIQI6XILXO5S7FGUVEQ.jpg&w=1440"
+        width: 1440
+        height: 810
         isCached: true
-  - title: "Trump shuns stimulus bill as pandemic relief expires for millions of Americans"
-    excerpt: "President Trump is still not saying whether he will sign the latest $900 billion coronavirus stimulus plan, as federal unemployment benefits and an eviction protection program are expiring for millions of Americans."
-    publishedDateTime: 2020-12-26T13:31:00Z
-    webUrl: "https://www.cbsnews.com/video/trump-shuns-stimulus-bill-as-pandemic-relief-expires-for-millions-of-americans/"
+  - title: "Donald Trump impeached again – now what? Politics Weekly Extra"
+    excerpt: "Jonathan Freedland speaks to Harvard law professor Noah Feldman about the potential next steps after Donald Trump was impeached for a second time"
+    publishedDateTime: 2021-01-14T13:30:00Z
+    webUrl: "https://www.theguardian.com/politics/audio/2021/jan/14/trump-impeached-again-now-what-politics-weekly-extra-podcast"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 101
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/26/46879155-3db9-441d-b0b1-0dccbf130565/thumbnail/1200x630/5c3a56fc69894b2e9efd44ed85946b73/1226-satmo-trumpfriday-616319-640x360.jpg"
+      - url: "https://i.guim.co.uk/img/media/e7312bd7247e01664df8b351f781442da05a6914/0_0_5568_3341/master/5568.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=54638ea0819c8b43a6e052df1ca1f58b"
         width: 1200
         height: 630
         isCached: true
-  - title: "Second stimulus check updates: Trump signs pandemic relief and government-funding measure, averting government shutdown"
-    excerpt: "President Donald Trump signed a $900 billion pandemic relief package Sunday, ending days of drama over his refusal to accept the bipartisan deal that will deliver long-sought aid."
-    publishedDateTime: 2020-12-28T19:39:00Z
-    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-second-stimulus-check-updates-20201227-lcuwnmemifapxht4f7jcltmjmi-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-second-stimulus-check-updates-20201227-lcuwnmemifapxht4f7jcltmjmi-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-second-stimulus-check-updates-20201227-lcuwnmemifapxht4f7jcltmjmi-story.html?outputType=amp"
+  - title: "Rand Paul: Impeaching Trump 'antithesis of unity'"
+    excerpt: "Republican Sen. Rand Paul of Kentucky is challenging the legitimacy of Donald Trump's second impeachment trial and forced a Senate vote on whether the impeachment trial of a former president is Constitutional."
+    publishedDateTime: 2021-01-26T20:39:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/01/26/rand-paul-impeaching-trump-antithesis-unity/4265609001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/4599d219-51e2-4534-9bab-abd1898b1797_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Chuck Schumer: Donald Trump impeachment trial will be full and fair – video"
+    excerpt: "The US Senate majority leader has said Nancy Pelosi would transmit the article of impeachment on Monday"
+    publishedDateTime: 2021-01-22T15:36:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2021/jan/22/chuck-schumer-donald-trump-impeachment-trial-full-and-fair-video"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 103
+    images:
+      - url: "https://i.guim.co.uk/img/media/5de4eb5cac671949cb78b93803332093363763bf/295_30_1390_834/master/1390.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ecec2513e006d5e11260678a3b5bb2a1"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "House to deliver Trump impeachment charge today to Senate, where more Republicans say they are opposed to the trial"
+    excerpt: "House Democrats will carry the sole impeachment charge of “incitement of insurrection” across the Capitol late Monday evening."
+    publishedDateTime: 2021-01-25T18:50:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-impeachment-senate-trial-20210125-uowfdmbv4bchfc42bi5tcwh2g4-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-impeachment-senate-trial-20210125-uowfdmbv4bchfc42bi5tcwh2g4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-impeachment-senate-trial-20210125-uowfdmbv4bchfc42bi5tcwh2g4-story.html?outputType=amp"
     type: article
     provider:
       name: Chicago Tribune
       domain: chicagotribune.com
-    quality: 101
+    quality: 103
     images:
-      - url: "https://www.chicagotribune.com/resizer/oRuLojso2KpX0I8a4AdC32hB5I0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/IN2A2UTIVJBTNM6LN4XPPWDKFY.aspx"
+      - url: "https://www.chicagotribune.com/resizer/k0RMIpwA1Jl7Du9qu6rRR7J80To=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PLWSBM34ZZFKRAIQ3OFFSUT3T4.JPG"
         width: 1200
         height: 675
         isCached: true
-  - title: "Stock market live updates: Stocks rise, Trump knocks stimulus, personal income falls"
-    excerpt: "This is a markets live blog for CNBC PRO subscribers that will be updated throughout the day. The major indexes rose on Wednesday morning as the S&P 500 looked to snap a three-day losing streak. The move came despite President Donald Trump calling the new stimulus deal reached by Congress a \"disgrace\" and called for the amount of direct checks to Americans to be increased."
-    publishedDateTime: 2020-12-23T15:31:00Z
-    webUrl: "https://www.cnbc.com/2020/12/23/stock-market-live-updates-futures-up-slightly-trump-knocks-stimulus-jobless-claims-ahead.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 98
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106810836-1607962037161NYSE-Trading-Floor-Photo-20201214-Press-4-jpg?v=1607962445"
-        width: 6385
-        height: 4257
-        isCached: true
-  - title: "Coronavirus updates: Donald Trump says US 'China Virus' data exaggerated; Dr. Anthony Fauci protests, draws president's wrath"
-    excerpt: "Anthony Fauci dismissed claims tweeted by President Donald Trump that coronavirus cases and deaths in the U.S. are \"fake news.\" Latest COVID news."
-    publishedDateTime: 2021-01-04T00:14:00Z
-    webUrl: "https://www.usatoday.com/story/news/health/2021/01/03/covid-update-larry-king-ill-4-million-december-vaccinations-us/4114363001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4114363001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4114363001"
+  - title: "House sends Senate second Trump impeachment for 'gravely' endangering security of US"
+    excerpt: "House Democrats have sent the impeachment charge of “incitement of insurrection” to the Senate, kicking off the trial process."
+    publishedDateTime: 2021-01-27T04:24:00Z
+    webUrl: "https://www.usatoday.com/videos/news/politics/2021/01/26/house-sends-trump-impeachment-senate-second-time/4254384001/"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
     quality: 98
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/31/USAT/414bbc39-9b0a-4ff7-9a7f-0f396afdb7c3-AFP_AFP_8XY98A.jpg?auto=webp&crop=5471,3077,x1,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.gannett-cdn.com/presto/2021/01/26/USAT/b5bb04cf-de38-4aa8-aa89-4e4241e23d11-VPC_IMPEACHMENT_HANDOFF_DESK.00_00_39_27.Still001.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Trump's $2,000 stimulus checks demand could cost the GOP its Senate majority, but reveals his enduring influence within the party"
-    excerpt: "McConnell's obstinance on the $2,000 checks has offered Democrats an ideal messaging opportunity ahead of Georgia's Senate runoff election."
-    publishedDateTime: 2020-12-29T21:07:00Z
-    webUrl: "https://www.businessinsider.com/trump-demand-2000-checks-cost-gop-but-shows-his-power-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/trump-demand-2000-checks-cost-gop-but-shows-his-power-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-demand-2000-checks-cost-gop-but-shows-his-power-2020-12?amp"
+  - title: "To fight impeachment, Trump turns to ‘Butch’ Bowers, a South Carolina lawyer at a small firm who has defended state Republicans"
+    excerpt: "Bowers is taking on his biggest case yet: defending former president Donald Trump in his second impeachment trial, this time against a charge that he incited a mob to attack the U.S. Capitol. The longtime GOP attorney is little known outside of South Carolina and has no powerhouse law firm behind him."
+    publishedDateTime: 2021-01-23T00:57:00Z
+    webUrl: "https://www.washingtonpost.com/politics/butch-bowers-trump-attorney/2021/01/22/c1b58dd0-5cd6-11eb-a976-bad6431e03e2_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/butch-bowers-trump-attorney/2021/01/22/c1b58dd0-5cd6-11eb-a976-bad6431e03e2_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/butch-bowers-trump-attorney/2021/01/22/c1b58dd0-5cd6-11eb-a976-bad6431e03e2_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 97
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XEEPABS45EI6XKCJN6KCHJ277U.jpg&w=1440"
+        width: 1440
+        height: 1100
+        isCached: true
+  - title: "Senators are working on a bipartisan resolution to censure Trump as it becomes more likely he'll be acquitted in impeachment trial"
+    excerpt: "Kaine told reporters that there \"maybe a little more interest now\" in the move after an overwhelming majority of Republicans on Tuesday hinted they likely won't convict Trump. The Virginia Democrat argued that a censure resolution could be a better use of the Senate 's time."
+    publishedDateTime: 2021-01-27T18:47:00Z
+    webUrl: "https://www.businessinsider.com/senators-aim-to-censure-trump-as-he-likely-faces-acquittal-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/senators-aim-to-censure-trump-as-he-likely-faces-acquittal-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/senators-aim-to-censure-trump-as-he-likely-faces-acquittal-2021-1?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 96
+    quality: 95
     images:
-      - url: "https://i.insider.com/5feb6279edf89200180940ba?width=1200&format=jpeg"
+      - url: "https://i.insider.com/601196896dfbe10018e0040c?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump signed off on $600 stimulus checks, and they'll start arriving by direct deposit this week"
-    excerpt: "A second round of stimulus checks will be coming to qualifying Americans via direct deposit, paper check, or debit card by January 15."
-    publishedDateTime: 2020-12-31T04:24:00Z
-    webUrl: "https://www.businessinsider.com/personal-finance/wheres-my-second-stimulus-check-when-payments-coming-2020-12"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 92
-    images:
-      - url: "https://i.insider.com/5f21fa0d5af6cc41b3074033?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Global shares rise, buoyed by relief after UK travel rules were eased, while Trump signals he may not sign off on $900 billion stimulus bill"
-    excerpt: "Shares increase after France relaxes rules on arrivals from UK, where a new strain of COVID-19 has millions in lockdown; Trump bashes stimulus bill"
-    publishedDateTime: 2020-12-23T10:56:00Z
-    webUrl: "https://www.businessinsider.com/stock-markets-equities-up-uk-travel-rules-ease-trump-focus-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/stock-markets-equities-up-uk-travel-rules-ease-trump-focus-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stock-markets-equities-up-uk-travel-rules-ease-trump-focus-2020-12?amp"
+  - title: "Historians worry a Trump library will be an airbrushed 'MAGA' tribute to a twice-impeached president"
+    excerpt: "It's not hard to image Trump's presidential library will burnish his tarnished legacy after he leaves office. Don't expect that to go smoothly."
+    publishedDateTime: 2021-01-15T16:03:00Z
+    webUrl: "https://www.businessinsider.com/trump-presidential-library-museum-location-national-archives-records-documents-2021-1"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
     quality: 90
     images:
-      - url: "https://images2.markets.businessinsider.com/5fe315efa644880018193148?format=jpeg"
-        width: 789
-        height: 526
+      - url: "https://i.insider.com/6000cf5aa81ea100188db5a2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Trump is holding up the COVID-19 stimulus package with demands for $2,000 checks — but there are enough votes in Congress to override a veto"
-    excerpt: "President Trump called the $900 billion package — passed by Congress earlier this week after months of negotiations — a \"disgrace\" on Tuesday."
-    publishedDateTime: 2020-12-23T12:16:00Z
-    webUrl: "https://www.businessinsider.com/coronavirus-relief-bill-congress-could-override-potential-trump-veto-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/coronavirus-relief-bill-congress-could-override-potential-trump-veto-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/coronavirus-relief-bill-congress-could-override-potential-trump-veto-2020-12?amp"
+  - title: "This day in history, January 16: The impeachment trial of President Donald Trump opens in the Senate"
+    excerpt: "Almanacs are full of lists of global and national historic events. But “This Day in History” feature invites you to not just peruse a list, but to take a trip back in time to see how a significant event originally was reported in the Chicago Tribune."
+    publishedDateTime: 2021-01-16T13:10:00Z
+    webUrl: "https://www.chicagotribune.com/history/ct-sns-today-history-almanac-january-16-20210116-bj5ofx7u4bai7kee7utmmiswvq-story.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Chicago Tribune
+      domain: chicagotribune.com
     quality: 90
     images:
-      - url: "https://i.insider.com/5fe32894a64488001819315e?width=1200&format=jpeg"
+      - url: "https://www.chicagotribune.com/resizer/RCbFb8gR4Z4Tx8yS-kfISBHX_Qw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/4HA5W4BHEBEBTMQQHY5ZH4DI64.jpg"
         width: 1200
-        height: 600
+        height: 674
         isCached: true
-  - title: "Jobless benefits for about 14 million Americans expire, as Trump still refuses to sign the pandemic aid package containing $600 stimulus checks"
-    excerpt: "President Donald Trump has refused to sign a $2.3 trillion stimulus package, in part because he says $600 checks for Americans aren't large enough."
-    publishedDateTime: 2020-12-26T08:19:00Z
-    webUrl: "https://www.businessinsider.com/trump-stimulus-checks-refuse-sign-jobless-benefits-expire-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/trump-stimulus-checks-refuse-sign-jobless-benefits-expire-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-stimulus-checks-refuse-sign-jobless-benefits-expire-2020-12?amp"
+  - title: "Liz Cheney faces Wyoming backlash for Trump impeachment vote"
+    excerpt: "Just before a mob unleashed a deadly rampage on the U.S. Capitol, President Donald Trump told tens of thousands of supporters that “we got to get rid” of Rep. Liz Cheney. The Wyoming congresswoman and No."
+    publishedDateTime: 2021-01-19T03:26:00Z
+    webUrl: "https://www.al.com/news/2021/01/liz-cheney-faces-wyoming-backlash-for-trump-impeachment-vote.html"
+    ampWebUrl: "https://www.al.com/news/2021/01/liz-cheney-faces-wyoming-backlash-for-trump-impeachment-vote.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/liz-cheney-faces-wyoming-backlash-for-trump-impeachment-vote.html?outputType=amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 89
+      name: al.com
+      domain: al.com
+    quality: 75
     images:
-      - url: "https://i.insider.com/5fe6eb2dedf8920018093c2a?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/UTKT4Z2AMJAPJNKSBTSOYVVLSE.jpg"
+        width: 4500
+        height: 3000
         isCached: true
-  - title: "Japan's Nikkei at 30-Year High After Trump OKs Stimulus"
-    excerpt: "Stocks have climbed in Asia, with Japan's Nikkei 225 index surging 2.7% to its highest close in more than 30 years on Tuesday."
-    publishedDateTime: 2020-12-29T06:52:00Z
-    webUrl: "https://www.usnews.com/news/business/articles/2020-12-29/japans-nikkei-at-30-year-high-after-trump-oks-stimulus"
-    ampWebUrl: "https://www.usnews.com/news/business/articles/2020-12-29/japans-nikkei-at-30-year-high-after-trump-oks-stimulus?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/business/articles/2020-12-29/japans-nikkei-at-30-year-high-after-trump-oks-stimulus?context=amp"
+  - title: "Trump 2021 impeachment trial: GOP senators might kill effort"
+    excerpt: "I think the trial is stupid, I think it’s counterproductive,” said Sen. Marco Rubio, R-Fla.. He said that “the first chance I get to vote to end this trial, I’ll do it” because he believes it would be bad for the country and further inflame partisan divisions."
+    publishedDateTime: 2021-01-25T12:10:00Z
+    webUrl: "https://www.al.com/news/2021/01/trump-2021-impeachment-trial-gop-senators-might-kill-effort.html"
+    ampWebUrl: "https://www.al.com/news/2021/01/trump-2021-impeachment-trial-gop-senators-might-kill-effort.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/trump-2021-impeachment-trial-gop-senators-might-kill-effort.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/76K3ONR6JZCVVE5Z4TXB3YGDRY.jpg"
+        width: 4516
+        height: 3011
+        isCached: true
+  - title: "Trump Impeachment: Capitol Faces New Threats, Rubio Cries Foul"
+    excerpt: "Law enforcement is prepping for possible violence in Washington D.C. on Feb. 8, when the Senate trial is expected to begin."
+    publishedDateTime: 2021-01-25T11:52:00Z
+    webUrl: "https://www.ibtimes.com/trump-impeachment-capitol-faces-new-threats-rubio-cries-foul-3129944"
+    ampWebUrl: "https://www.ibtimes.com/trump-impeachment-capitol-faces-new-threats-rubio-cries-foul-3129944?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-impeachment-capitol-faces-new-threats-rubio-cries-foul-3129944?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/10/a-protester-carries-a-sign-calling-for-congress-AFP_8YH99R-2.jpg"
+        width: 1024
+        height: 732
+        isCached: true
+  - title: "What’s Next For Trump? His Plans As Impeachment Article Hits Senate"
+    excerpt: "Former President Donald Trump is opening a new office in Florida on Monday that will carry on his admininstration's administration, an announcement he made as the House delivered a single article of impeachment to the Senate."
+    publishedDateTime: 2021-01-26T12:26:00Z
+    webUrl: "https://www.ibtimes.com/whats-next-trump-his-plans-impeachment-article-hits-senate-3130886"
+    ampWebUrl: "https://www.ibtimes.com/whats-next-trump-his-plans-impeachment-article-hits-senate-3130886?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/whats-next-trump-his-plans-impeachment-article-hits-senate-3130886?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/25/former-president-donald-trump-faces-an-impeachment-trial.jpg"
+        width: 1024
+        height: 696
+        isCached: true
+  - title: "Trump impeachment trial to begin week of Feb. 8 following Schumer, GOP agreement"
+    excerpt: "Under the timeline, the House will transmit the impeachment article against Trump late Monday, with initial proceedings Tuesday."
+    publishedDateTime: 2021-01-22T22:40:00Z
+    webUrl: "https://www.al.com/politics/2021/01/trump-impeachment-trial-to-begin-week-of-feb-8-following-schumer-gop-agreement.html"
+    ampWebUrl: "https://www.al.com/politics/2021/01/trump-impeachment-trial-to-begin-week-of-feb-8-following-schumer-gop-agreement.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/politics/2021/01/trump-impeachment-trial-to-begin-week-of-feb-8-following-schumer-gop-agreement.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 70
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/HXOMJQPUVZDCBJLGYXGICGVH2I.jpg"
+        width: 5472
+        height: 3648
+        isCached: true
+  - title: "Trump’s impeachment trial to begin on February 8, says US Senate majority leader Chuck Schumer"
+    excerpt: "Opening arguments in the US Senate impeachment trial for Donald Trump over the Capitol riot will begin the week of February 8, the first time a former president will face such charges after ..."
+    publishedDateTime: 2021-01-22T17:33:00Z
+    webUrl: "https://www.scmp.com/news/world/united-states-canada/article/3118926/nancy-pelosi-send-donald-trump-impeachment-article"
+    ampWebUrl: "https://amp.scmp.com/news/world/united-states-canada/article/3118926/nancy-pelosi-send-donald-trump-impeachment-article"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/united-states-canada/article/3118926/nancy-pelosi-send-donald-trump-impeachment-article"
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 63
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/01/24/e73786e8-5cd7-11eb-a99a-beae699a1a1d_image_hires_033723.jpg?itok=5Q7pwkmI&v=1611430654"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump Impeachment Trial To Begin Week Of February 8: Schumer"
+    excerpt: "Donald Trump's US Senate trial will begin in the second week of February, days after a fresh impeachment case against the former president is transmitted by the House, Senate Majority Leader Chuck Schumer said Friday."
+    publishedDateTime: 2021-01-23T00:34:00Z
+    webUrl: "https://www.ibtimes.com/trump-impeachment-trial-begin-week-february-8-schumer-3128675"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/22/former-us-president-donald-trump-seen-here-leaving.jpg"
+        width: 1024
+        height: 696
+        isCached: true
+  - title: "Louisiana's Cassidy and Kennedy Diverge on Trump Impeachment"
+    excerpt: "Louisiana’s two Republican U.S. senators are taking different approaches to the second impeachment trial against former President Donald Trump."
+    publishedDateTime: 2021-01-26T22:54:00Z
+    webUrl: "https://www.usnews.com/news/best-states/louisiana/articles/2021-01-26/louisianas-cassidy-and-kennedy-diverge-on-trump-impeachment"
     type: article
     provider:
       name: U.S. News & World Report
       domain: usnews.com
-    quality: 55
-  - title: "US Stocks Hit Records After Trump Signs $900B Aid Package"
-    excerpt: "Stocks were moderately higher Monday, Dec. 28 in the final week of 2020 after President Donald Trump signed a $900 billion economic aid package that helps reduce uncertainty amid the re-imposition of travel and business curbs in response to a new coronavirus variant."
-    publishedDateTime: 2020-12-29T02:02:00Z
-    webUrl: "https://www.usnews.com/news/business/articles/2020-12-28/asian-stocks-advance-after-trump-signs-900b-aid-package"
-    ampWebUrl: "https://www.usnews.com/news/business/articles/2020-12-28/asian-stocks-advance-after-trump-signs-900b-aid-package?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/business/articles/2020-12-28/asian-stocks-advance-after-trump-signs-900b-aid-package?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
+    quality: 35
 
 secured: "RW/IvVBdo6sLy33nPAJIrDTxY7zOcNP3jl1+AZDr655oxJsMiFt9r5xMGh3pcX9b/S6MZEWrPy3TDtOr3V2s6egEr30Fvw4fBHvPmvGnk91ZaxIHeVORMPl0x88ClH/vwRbmKfBlwjer9dYNs0bZOwCvtQHodMQTZtcI8j2pSZx/uMoTgzcN5RC0q4R1xajRP1IBGBWJ/UorbQYoLx4xYcP7vdwh1gH0fKPIirseBlSajQmE/CNI2fN8IiwN4fsSLdLln93FtZr1d1Twl6cD+dx4YdydHFUIFDm2G1Ys1Roo2AiA5oIrxv0a8iFpCyvulhQdhn669RomauUu545iD6ouM/bgYMVZM+vA+gpK6Wk=;PcdAGELwYekmQubw9BGo5g=="
 ---

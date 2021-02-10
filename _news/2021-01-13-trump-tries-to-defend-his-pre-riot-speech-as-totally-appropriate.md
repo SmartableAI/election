@@ -30,21 +30,37 @@ images:
     isCached: true
 
 related:
-  - title: "Trump defends riot remarks as 'totally appropriate' before House vote on 25th Amendment resolution"
-    excerpt: "\"Everybody to a 'T' thought it was totally appropriate,\" Trump said as lawmakers prepared a resolution calling for his removal from office."
-    publishedDateTime: 2021-01-12T21:23:00Z
-    webUrl: "https://www.nbcnews.com/politics/congress/house-set-vote-resolution-calling-pence-invoke-25th-amendment-n1253873"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1253873"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1253873"
+  - title: "Does Trump Face Legal Jeopardy for His Incendiary Speech Before the Riot?"
+    excerpt: "The president’s actions just before his supporters’ deadly rampage at the Capitol has created new risks for him."
+    publishedDateTime: 2021-01-11T22:07:00Z
+    webUrl: "https://www.nytimes.com/2021/01/11/us/politics/donald-trump-crime.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/11/us/politics/donald-trump-crime.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/11/us/politics/donald-trump-crime.amp.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 131
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
     images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2021_02/3441497/210112-donald-trump-jm-1043_14f8a0fe6ee3094b4256b33575e347dd.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://static01.nyt.com/images/2021/01/11/us/politics/11dc-legal-explainer/11dc-legal-explainer-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "‘He has an obligation to them’: Attorney for ‘QAnon shaman’ asks Trump to pardon rioters"
+    excerpt: "The lawyer for the “QAnon shaman” who was part of the deadly siege of the Capitol last week publicly petitioned President Donald Trump on Thursday to pardon his client. In an interview on CNN, attorney Albert Watkins said his client, Jacob Chansley ..."
+    publishedDateTime: 2021-01-17T03:23:00Z
+    webUrl: "https://www.politico.com/news/2021/01/15/attorney-qanon-shaman-trump-pardon-459608"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/15/attorney-qanon-shaman-trump-pardon-459608"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/15/attorney-qanon-shaman-trump-pardon-459608"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 126
+    images:
+      - url: "https://static.politico.com/07/b6/307e93354e7abd5c6e56ee1bf883/jacob-chansley-773-ap.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "m9SFHYn2Cl+coCuHdqfITXHw2Xqhz4X2l4mYPyXNQEyjAszRPBCIx+HjxowFTw/UsV1jFDw4yxAb0Hd9Lua4ywLnw1Jg7e8lGQ1Zt27Hwx76L+u94Hw0qjES+IQvI9whZV6k0t9UjEd2JXixjP73jXyrk0KhamK+HFb/bkow5rkZziKwlNFtRRJO9uChpMYFP68ZZOvhFcTQJS25TA7Ptyx6nJ/Q9nyGdhTjPmWuw0B+2JUh2ZIiVPS9soQjxITsOvfL9kzyoPxeMgYAcl0usexwXpd6qqr+rdcBqiNGvmsYRxO5csxvXQ91HKXalHBPtwO5Ndb1Owt3pFyAJy/7Mt4my7FITAVE/QDex6fvVuA=;U/7CzL4csVVc/AVHQ66pxA=="

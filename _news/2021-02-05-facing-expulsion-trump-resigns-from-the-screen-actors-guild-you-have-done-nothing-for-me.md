@@ -63,22 +63,6 @@ related:
         width: 1440
         height: 965
         isCached: true
-  - title: "House Dems ask Trump to testify oath for impeachment case"
-    excerpt: "House Democrats have asked former President Donald Trump to testify under oath for his Senate impeachment trial"
-    publishedDateTime: 2021-02-04T18:27:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/house-dems-trump-testify-oath-impeachment-case-75687371"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/house-dems-trump-testify-oath-impeachment-case-75687371"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/house-dems-trump-testify-oath-impeachment-case-75687371"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_4bcb100f12b94da7aa82370a80b6db6f_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Trump won't testify at Senate impeachment trial, his lawyers say"
     excerpt: "Trump's lawyers said he will not testify at his coming impeachment trial, hours after Democrats said that his refusal could be used against him."
     publishedDateTime: 2021-02-05T02:03:00Z
@@ -94,22 +78,6 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106124788-1568235708066rts2q6zs.jpg?v=1612462873"
         width: 2500
         height: 1667
-        isCached: true
-  - title: "Lawyers representing the Capitol insurrectionists are building a damning case against Trump"
-    excerpt: "Defense attorneys for some insurrections said their clients were acting on the orders of Trump in storming the Capitol."
-    publishedDateTime: 2021-01-24T00:15:00Z
-    webUrl: "https://www.businessinsider.com/capitol-insurrectionists-lawyers-make-case-trump-impeachment-prosecution-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/capitol-insurrectionists-lawyers-make-case-trump-impeachment-prosecution-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/capitol-insurrectionists-lawyers-make-case-trump-impeachment-prosecution-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 115
-    images:
-      - url: "https://i.insider.com/5ff5f6066d61c10019ccdf62?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Trump legal team argues impeachment trial is unconstitutional, denies inciting Capitol attack"
     excerpt: "In their legal brief responding to the article of impeachment, Trump's lawyers argue the trial is \"in violation of the Constitution.\""
@@ -158,6 +126,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/01/20/USAT/de83808c-d841-464c-9f8d-eb7ef135dad1-AFP_AFP_8Z69UN.JPG?auto=webp&crop=4566,2568,x0,y186&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump Impeachment Lawyers Leave Team: US Media"
+    excerpt: "Several of former US president Donald Trump's impeachment lawyers have left his team a little over a week before his trial, US media reported Saturday. CNN cited unnamed sources as saying that five lawyers -- including two who were thought to be leading the team -- had parted ways with the Republican billionaire after disagreeing over his legal strategy."
+    publishedDateTime: 2021-01-31T04:03:00Z
+    webUrl: "https://www.ibtimes.com/trump-impeachment-lawyers-leave-team-us-media-3134168"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/30/former-us-president-donald-trump-appears-increasingly-likely.jpg"
+        width: 1024
+        height: 716
         isCached: true
 
 secured: "cVStF5Ip0kVeyn5ZJ+YAMpqNdDMgUdK94YHQWWV2barNFb/JWtdk7AIV75exbjuEagjsSNnLyxCEMJUlLZ3/N+0EW0/fK2CR9wN2Cn8CZRZ+DXwFzl/k318HaRXPdB6/2VPD9NbAFFSCmn1ZRiNvEq3KPWQqO7kRjQuyPeeiEfpRFp5+jCXnfh55ZJ/8YqiyOku81Yr2CX8OXjbjwp1SlhL3rVAXtU6W9HjB8iGTUYLWBE1us57I+GfDCa22v8q9StcqZBCfZQ7yMaVXcwnOX+/7+ntfb/mmglW/uuhlCT/hADPV292Lo+EUnY0oukgFp0tH0xYVc27GHmVYu3zu1hNNd+2ZxPlldDIdQAe4aEvZLTVfjy/AAY5y/xYRRHsey1QInr66+bbOAbB94KqcGJXIG9EK787TRnpEyksHNs3YT4vwTkikiPEiJXCCKH0xfOKw/NqiXFR0iHz5cFtll8Ataxfz7671+d2DQ2KLiaE/g0EyO+qnsEnrtdKqPAI6Ncut4AmU8HVkgDYn4nKsDw==;Mka4tDBnPLCaawhHubsF/w=="

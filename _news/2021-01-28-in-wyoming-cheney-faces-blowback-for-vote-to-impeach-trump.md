@@ -25,101 +25,177 @@ topics:
   - Donald Trump
 
 related:
-  - title: "Liz Cheney censured by Wyoming Republican party for voting to impeach Trump"
-    excerpt: "Cheney, the third ranking member of the House Republican leadership, was censured in a vote Saturday by her state’s Republican party"
-    publishedDateTime: 2021-02-06T23:01:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/feb/06/liz-cheney-censured-by-wyoming-republican-party-for-voting-to-impeach-trump"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/06/liz-cheney-censured-by-wyoming-republican-party-for-voting-to-impeach-trump"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/06/liz-cheney-censured-by-wyoming-republican-party-for-voting-to-impeach-trump"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 123
-    images:
-      - url: "https://i.guim.co.uk/img/media/7ad5429ff5a0055cef8af2fe8a17aae778dfa887/0_40_4775_2866/master/4775.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=da3e5b5ded9ac0ca87fea35415042fc0"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "GOP congressman Gaetz, Trump Jr. urge Wyomingites to oust fellow Republican Liz Cheney"
-    excerpt: "Rep. Matt Gaetz rallied against Rep. Liz Cheney at the Wyoming State Capitol Thursday, escalating the effort among some Republicans to oust her from leadership."
-    publishedDateTime: 2021-01-28T23:34:00Z
-    webUrl: "https://abcnews.go.com/Politics/gop-congressman-gaetz-trump-jr-urge-wyomingites-oust/story?id=75544628"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/gop-congressman-gaetz-trump-jr-urge-wyomingites-oust/story?id=75544628"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/gop-congressman-gaetz-trump-jr-urge-wyomingites-oust/story?id=75544628"
+  - title: "MyPillow Guy among the Trump acolytes picking up the torch"
+    excerpt: "Mike Lindell, the businessman better known to the world as the MyPillow Guy, is weighing a run for governor in Minnesota"
+    publishedDateTime: 2021-01-23T14:47:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/mypillow-guy-trump-acolytes-picking-torch-75444177"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/mypillow-guy-trump-acolytes-picking-torch-75444177"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/mypillow-guy-trump-acolytes-picking-torch-75444177"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 117
+    quality: 125
     images:
-      - url: "https://s.abcnews.com/images/General/gop-liz-cheney-matt-gaetz-wyoming-04-gty-210128_1611878359548_hpMain_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_1aeb02288805488587306b003a97079d_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Video surfaces showing Trump ally Roger Stone flanked by Oath Keepers on morning of Jan. 6"
-    excerpt: "A new video has surfaced showing former President Trump's adviser Roger Stone flanked by members of the Oath Keepers just hours before the deadly riot at the Capitol."
-    publishedDateTime: 2021-02-06T00:42:00Z
-    webUrl: "https://abcnews.go.com/US/video-surfaces-showing-trump-ally-roger-stone-flanked/story?id=75706765"
-    ampWebUrl: "https://abcnews.go.com/amp/US/video-surfaces-showing-trump-ally-roger-stone-flanked/story?id=75706765"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/video-surfaces-showing-trump-ally-roger-stone-flanked/story?id=75706765"
+  - title: "MyPillow Guy among the Trump acolytes picking up the torch"
+    excerpt: "Mike Lindell, the businessman better known to the world as the MyPillow Guy, is weighing a run for governor in Minnesota"
+    publishedDateTime: 2021-01-23T17:18:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/mypillow-guy-trump-acolytes-picking-torch-75444118"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/mypillow-guy-trump-acolytes-picking-torch-75444118"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/mypillow-guy-trump-acolytes-picking-torch-75444118"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 115
+    quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/roger-stone1-ht-ml-210205_1612541180760_hpMain_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/General/my-pillow-guy-mike-lindell-donald-trump-01-gty-llr-210123_1611431001386_hpMain_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Wyoming GOP censures Rep. Liz Cheney over impeachment vote: ‘We need to honor President Trump.’"
-    excerpt: "The Wyoming Republican Party voted Saturday to censure U.S. Rep. Liz Cheney for voting to impeach President Donald Trump without “formal hearing or due process.”"
-    publishedDateTime: 2021-02-06T22:26:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-liz-cheney-wyoming-gop-censure-20210206-fy3yqaahkjg3fhz3tg65fjnbxu-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-liz-cheney-wyoming-gop-censure-20210206-fy3yqaahkjg3fhz3tg65fjnbxu-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-liz-cheney-wyoming-gop-censure-20210206-fy3yqaahkjg3fhz3tg65fjnbxu-story.html?outputType=amp"
+  - title: "City council seeks input on bill condemning Trump for riot"
+    excerpt: "A city council in Maryland is seeking public input on a resolution that condemns former President Donald Trump for the violent siege of the U.S. Capitol"
+    publishedDateTime: 2021-01-25T14:53:00Z
+    webUrl: "https://www.washingtonpost.com/local/city-council-seeks-input-on-bill-condemning-trump-for-riot/2021/01/25/360fa520-5f1c-11eb-a177-7765f29a9524_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/city-council-seeks-input-on-bill-condemning-trump-for-riot/2021/01/25/360fa520-5f1c-11eb-a177-7765f29a9524_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/city-council-seeks-input-on-bill-condemning-trump-for-riot/2021/01/25/360fa520-5f1c-11eb-a177-7765f29a9524_story.html?outputType=amp"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 113
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
     images:
-      - url: "https://www.chicagotribune.com/resizer/CnYdZnSLBosT4gqWRmMqUGpBSaM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7PF5NSWMSWRXVGVWTBTJCCUYOQ.aspx"
-        width: 1200
-        height: 800
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
-  - title: "Donald Trump's backers failed to take down Liz Cheney, but the Republican 'civil war' isn't near over"
-    excerpt: "House Republicans vote to keep Liz Cheney in leadership role, despite her impeachment vote; Trump backers vowed to defeat her in a 2022 GOP primary."
-    publishedDateTime: 2021-02-04T11:13:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/04/donald-trump-backers-didnt-oust-liz-cheney-but-republican-civil-war-goes/4362276001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4362276001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4362276001"
+  - title: "City council approves bill condemning Trump for Capitol riot"
+    excerpt: "A city council in Maryland unanimously approved a resolution condemning former President Donald Trump for the violent siege of the U.S. Capitol"
+    publishedDateTime: 2021-01-26T20:55:00Z
+    webUrl: "https://www.washingtonpost.com/local/city-council-approves-bill-condemning-trump-for-capitol-riot/2021/01/26/df7eda2c-5fee-11eb-a177-7765f29a9524_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/city-council-approves-bill-condemning-trump-for-capitol-riot/2021/01/26/df7eda2c-5fee-11eb-a177-7765f29a9524_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/city-council-approves-bill-condemning-trump-for-capitol-riot/2021/01/26/df7eda2c-5fee-11eb-a177-7765f29a9524_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Twitter permanently bans MyPillow CEO Mike Lindell after he continues to claim Trump won the election, fraud"
+    excerpt: "Twitter decided to ban Mike Lindell, who founded bedding company MyPillow, due to “repeated violations” of its civic integrity policy."
+    publishedDateTime: 2021-01-26T14:06:00Z
+    webUrl: "https://www.usatoday.com/story/tech/2021/01/26/twitter-bans-mypillow-ceo-mike-lindell-election-fraud-claims/4257458001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4257458001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4257458001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 110
+    quality: 121
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/02/04/USAT/c504d799-03af-495e-b0b4-98042333bc1c-Liz_Cheney_1.jpg?auto=webp&crop=5087,2862,x0,y0&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/03/31/USAT/6aff7ab2-44ed-40be-ab33-704a9c36a9c9-lindell.JPG?auto=webp&crop=2967,1669,x668,y102&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Illinois GOP says Rep. Adam Kinzinger and other Republicans who voted to impeach Trump ‘created widespread division and anger’ in the party"
-    excerpt: "The Illinois Republican Party issued a mild rebuke to Republican U.S. Rep. Adam Kinzinger, saying it disagreed with his vote to impeach former President Donald Trump as it sought to clear its agenda for a Saturday meeting to pick a new chairman who could unify the party."
-    publishedDateTime: 2021-02-05T19:50:00Z
-    webUrl: "https://www.chicagotribune.com/politics/ct-adam-kinzinger-illinois-republicans-20210205-7cwxhciinzcmvjyaue6ohenc2y-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/politics/ct-adam-kinzinger-illinois-republicans-20210205-7cwxhciinzcmvjyaue6ohenc2y-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/politics/ct-adam-kinzinger-illinois-republicans-20210205-7cwxhciinzcmvjyaue6ohenc2y-story.html?outputType=amp"
+  - title: "Donald Trump Said He'll Return, but Most Think He Shouldn't Be Allowed to Run Again"
+    excerpt: "The outgoing president has previously alluded to running in 2024, with comments having hinted at feeling he has unfinished business."
+    publishedDateTime: 2021-01-20T16:45:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-return-president-2024-poll-1563101"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-return-president-2024-poll-1563101?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-return-president-2024-poll-1563101?amp=1"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 91
+      name: Newsweek
+      domain: newsweek.com
+    quality: 119
     images:
-      - url: "https://www.chicagotribune.com/resizer/kCqS5P5WC39bSue-e9RXnprCOTQ=/1200x0/center/bottom/cloudfront-us-east-1.images.arcpublishing.com/tronc/MT27UL6PIVCNVJGKREWOTHUM3E.jpg"
+      - url: "https://d.newsweek.com/en/full/1712115/donald-trump-joint-base-andrews.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "New Pentagon chief praises Germany for hosting U.S. troops, reversing Trump's tack"
+    excerpt: "New U.S. Defense Secretary Lloyd Austin praised Germany for hosting U.S. troops in a call with his German counterpart on Wednesday, fueling speculation that President Joe Biden could overturn a drawdown ordered by his predecessor Donald Trump."
+    publishedDateTime: 2021-01-28T02:59:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-germany-troops/new-pentagon-chief-praises-germany-for-hosting-u-s-troops-reversing-trumps-tack-idUSKBN29W2VN"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29W2VN"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29W2VN"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 119
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210127&t=2&i=1549297914&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0Q1OW"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Lawyers representing the Capitol insurrectionists are building a damning case against Trump"
+    excerpt: "Defense attorneys for some insurrections said their clients were acting on the orders of Trump in storming the Capitol."
+    publishedDateTime: 2021-01-24T00:15:00Z
+    webUrl: "https://www.businessinsider.com/capitol-insurrectionists-lawyers-make-case-trump-impeachment-prosecution-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/capitol-insurrectionists-lawyers-make-case-trump-impeachment-prosecution-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/capitol-insurrectionists-lawyers-make-case-trump-impeachment-prosecution-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 115
+    images:
+      - url: "https://i.insider.com/5ff5f6066d61c10019ccdf62?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "The Trump administration is revoking the licenses of companies that supply to Huawei, as a final blow to the Chinese tech giant"
+    excerpt: "Huawei has long been a target of the Trump administration, which believes it spies for the Chinese government. Huawei has repeatedly denied the claim."
+    publishedDateTime: 2021-01-18T10:44:00Z
+    webUrl: "https://www.businessinsider.com/trump-administration-halts-huawei-supply-shipments-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/trump-administration-halts-huawei-supply-shipments-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-administration-halts-huawei-supply-shipments-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 97
+    images:
+      - url: "https://i.insider.com/60055311660f6c0018349a61?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "MyPillow Taking Lumps: How Mike Lindell's Trump Support Spells Downfall"
+    excerpt: "CEO Lindell last week was seen at the White House holding notes that seem to support many of the conspiracy theories surrounding election fraud."
+    publishedDateTime: 2021-01-19T12:48:00Z
+    webUrl: "https://www.ibtimes.com/mypillow-taking-lumps-how-mike-lindells-trump-support-spells-downfall-3125478"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/04/gettyimages-1218940907.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Trump-supporting 'My Pillow Guy' Suspended From Twitter"
+    excerpt: "A high-profile Donald Trump supporter who backed the former president's claims of electoral fraud has been permanently suspended from Twitter, the social media giant said Monday night, the latest in a series of bans of prominent right-wingers and conspiracy theorists."
+    publishedDateTime: 2021-01-26T06:58:00Z
+    webUrl: "https://www.ibtimes.com/trump-supporting-my-pillow-guy-suspended-twitter-3130757"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/26/lindell-has-been-speculating-about-his-own-politicial.jpg"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "8HKZ+3OepYy6NSP2G5dzoTNIu6jBk75v5OjlKX8Zmiw3ulBHimm1ye7U2muUzLzaVVADsrjD1DZ8dAXtNNahSWa9uOLVfKIujPE0XxIs50xiHtb0jHsmTITU/DVVTMMtIJcCyH2XTKU8sI6Dacz94Cbz4vc9zRhR235jMTLDM76xK8B1BI0J3LU6RJ5YAV/3si/ZHiyw71dyr1Z2XK4LRVvox7CsSEi1zgljtjfxzlUl5BKKKefEbfd03oMWK2Y42uA+7Kr8l5EXTc0yrRncGMZfnydQAR1ezLM4gJBuu0tLdDSZH4a0omYPN1yHIil9XimHaP04J0FhnPVP3iMu1GS14RgTFPeuhqRkgV3RA78=;6BmEalWvCJQq8qQH/2T3+Q=="

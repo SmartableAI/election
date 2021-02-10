@@ -2,6 +2,118 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-01-23-rep-ilhan-omar-calls-on-biden-to-back-recurring-cash-payments-until-economy-recovers.md",
+      "title": "Rep. Ilhan Omar calls on Biden to back 'recurring cash payments' until economy recovers",
+      "excerpt": "Omar and other progressives have argued that Biden’s proposal does not go far enough to address the current financial crisis.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/u7Lwq27Drqs/rep-ilhan-omar-biden-recurring-cash-payments-until-economy-recovers",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/u7Lwq27Drqs/rep-ilhan-omar-biden-recurring-cash-payments-until-economy-recovers",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d3f6e64c-10e7-492f-82b1-c0749ff0a445/85a994fc-3036-4f5f-beee-333aa0a5e75a/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/rep-ilhan-omar-biden-recurring-cash-payments-until-economy-recovers.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-ilhan-omar-biden-recurring-cash-payments-until-economy-recovers.amp",
+      "publishedDateTime": "2021-01-22T17:45:59-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-22-trump-impeachment-trial-delayed-until-week-of-feb-8-schumer-says.md",
+      "title": "Trump impeachment trial delayed until week of Feb. 8, Schumer says",
+      "excerpt": "Senate Majority Leader Chuck Schumer, D-N.Y., said on Friday lawmakers will wait to carry out President Donald Trump’s impeachment hearings for several weeks, following a brief standoff on Capitol Hill over timing.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_evwvTdGK2U/schumer-delay-donald-trump-impeachment-hearing",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_evwvTdGK2U/schumer-delay-donald-trump-impeachment-hearing",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 655,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4551bbe2-cfd4-453d-bdfb-46b43c640ba9/3da10210-5367-4f1e-9ec6-39be45d1a096/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/schumer-delay-donald-trump-impeachment-hearing.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schumer-delay-donald-trump-impeachment-hearing.amp",
+      "publishedDateTime": "2021-01-22T15:53:47-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-22-biden-says-nothing-we-can-do-to-change-pandemic-trajectory-in-coming-months.md",
       "title": "Biden says 'nothing we can do' to change pandemic 'trajectory' in coming months",
       "excerpt": "Biden addressed his administration’s response efforts during a press briefing on two executive orders meant to provide food assistance to low-income families and protect workers’ rights during the pandemic.",
@@ -70,7 +182,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 215,
+      "heat": 235,
       "tags": null,
       "images": [
         {
@@ -182,7 +294,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 255,
+      "heat": 275,
       "tags": null,
       "images": [
         {
@@ -199,62 +311,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-delayed-impeachment-timeline-standoff-congress.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-delayed-impeachment-timeline-standoff-congress.amp",
       "publishedDateTime": "2021-01-22T13:38:05-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-alejandro-mayorkas-what-to-know-about-bidens-dhs-pick.md",
-      "title": "Alejandro Mayorkas: What to know about Biden's DHS pick",
-      "excerpt": "President Biden has nominated Alejandro Mayorkas to be the next secretary of the Department of Homeland Security (DHS), who will take a key role in the closely watched area of immigration policy.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TOGt64wuNMc/alejandro-mayorkas-what-to-know-about-bidens-dhs-pick",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TOGt64wuNMc/alejandro-mayorkas-what-to-know-about-bidens-dhs-pick",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21019608674449.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/alejandro-mayorkas-what-to-know-about-bidens-dhs-pick.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/alejandro-mayorkas-what-to-know-about-bidens-dhs-pick.amp",
-      "publishedDateTime": "2021-01-22T09:53:12-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -334,6 +390,63 @@
       ],
       "topics": [
         "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-22-kamala-harris-doug-emhoff-will-stay-in-blair-house-while-vp-residence-undergoes-repairs.md",
+      "title": "Kamala Harris, Doug Emhoff will stay in Blair House while VP residence undergoes repairs",
+      "excerpt": "This is the house where history will be made. Vice President Kamala Harris will soon be residing on the grounds of the Naval Observatory in northwestern Washington, D.C., in a home occupied by several of her predecessors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/real-estate/kamala-harris-doug-emhoff-will-stay-in-blair-house-while-vp-residence-undergoes-repairs",
+      "originalUrl": "https://www.foxnews.com/real-estate/kamala-harris-doug-emhoff-will-stay-in-blair-house-while-vp-residence-undergoes-repairs",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/residence-of-the-Vice-President-1.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/real-estate/kamala-harris-doug-emhoff-will-stay-in-blair-house-while-vp-residence-undergoes-repairs.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/real-estate/kamala-harris-doug-emhoff-will-stay-in-blair-house-while-vp-residence-undergoes-repairs.amp",
+      "publishedDateTime": "2021-01-22T00:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
         "Republican Voice"
       ]
     },
@@ -446,6 +559,63 @@
       ],
       "topics": [
         "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-22-facebook-refers-trump-account-suspension-to-oversight-board.md",
+      "title": "Facebook Refers Trump Account Suspension to Oversight Board",
+      "excerpt": "The social-media company said a decision from its independent panel on the matter—the biggest issue it has tackled since being set up last year—would be binding.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/facebook-refers-trump-account-suspension-to-oversight-board-11611251506",
+      "originalUrl": "https://www.wsj.com/articles/facebook-refers-trump-account-suspension-to-oversight-board-11611251506",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-282048/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/facebook-refers-trump-account-suspension-to-oversight-board-11611251506",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facebook-refers-trump-account-suspension-to-oversight-board-11611251506",
+      "publishedDateTime": "2021-01-21T18:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
         "Republican Voice"
       ]
     },
@@ -743,7 +913,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 249,
+      "heat": 229,
       "tags": null,
       "images": [
         {
@@ -816,6 +986,62 @@
       "ampWebUrl": "https://www.foxnews.com/politics/logan-media-institutions-wont-admit-stories-during-trump-era.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/logan-media-institutions-wont-admit-stories-during-trump-era.amp",
       "publishedDateTime": "2021-01-21T09:50:50-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-21-merrick-garland-what-to-know-about-bidens-attorney-general-nominee.md",
+      "title": "Merrick Garland: What to know about Biden's attorney general nominee",
+      "excerpt": "President Biden has chosen Judge Merrick Garland as his nominee for attorney general, as the new administration begins to take form.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/e7rBLtDpdeo/merrick-garland-what-to-know-biden-attorney-general",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/e7rBLtDpdeo/merrick-garland-what-to-know-biden-attorney-general",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Merrick-Garland-Biden-attorney-general-nominee-AP.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/merrick-garland-what-to-know-biden-attorney-general.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/merrick-garland-what-to-know-biden-attorney-general.amp",
+      "publishedDateTime": "2021-01-21T08:44:47-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1013,6 +1239,62 @@
       ]
     },
     {
+      "path": "_news/2021-01-21-live-updates-rand-paul-says-trump-impeachment-would-destroy-republican-party.md",
+      "title": "LIVE UPDATES: Rand Paul says Trump impeachment would 'destroy' Republican Party",
+      "excerpt": "Follow for the latest updates on Trump's impeachment.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EwKGjSiCdMA/live-updates-trump-impeachment-republican-party-1-21-21",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EwKGjSiCdMA/live-updates-trump-impeachment-republican-party-1-21-21",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 211,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9b3bf83a-8f2c-4d51-b060-ec5c216a84d9/296dc905-2158-4193-a3ea-26a5dc196e20/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/live-updates-trump-impeachment-republican-party-1-21-21.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-impeachment-republican-party-1-21-21.amp",
+      "publishedDateTime": "2021-01-20T21:08:27-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-21-biden-ditches-military-flags-as-part-of-oval-office-makeover.md",
       "title": "Biden ditches military flags as part of Oval Office makeover",
       "excerpt": "With new presidents come new White House decorations – especially in the commander-in-chief’s official workplace, the Oval Office.",
@@ -1025,7 +1307,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 775,
+      "heat": 815,
       "tags": null,
       "images": [
         {
@@ -1403,289 +1685,6 @@
         "Election",
         "Republican Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-marco-rubio-rejects-biden-immigration-bill-calls-it-blanket-amnesty.md",
-      "title": "Marco Rubio rejects Biden immigration bill, calls it ‘blanket amnesty’",
-      "excerpt": "Sen. Marco Rubio, R-Fla., on Tuesday rejected an immigration proposal by President Biden, describing its call for an 8-year pathway to citizenship for illegal immigrants as a “blanket amnesty.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7xnKY6Vi5vs/rubio-biden-immigration-bill-blanket-amnesty",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7xnKY6Vi5vs/rubio-biden-immigration-bill-blanket-amnesty",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 335,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c7614311-4887-4e69-9bd5-dcd532a72e01/25745707-6bbf-4d2e-9f7b-6d248ac29edd/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/rubio-biden-immigration-bill-blanket-amnesty.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rubio-biden-immigration-bill-blanket-amnesty.amp",
-      "publishedDateTime": "2021-01-20T12:07:08-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-sotomayor-mispronounces-kamala-harris-name-twitter-reacts.md",
-      "title": "Sotomayor mispronounces Kamala Harris' name – Twitter reacts",
-      "excerpt": "Supreme Court Justice Sonia Sotomayor on Wednesday botched the pronunciation of Kamala Harris’ name during her swearing-in as the nation’s next Vice President – and the Twittersphere was quick to pounce on the mistake.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yR9OCBPOPeo/sotomayor-mispronounces-kamala-harris-name",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yR9OCBPOPeo/sotomayor-mispronounces-kamala-harris-name",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 245,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/sotomayor-mispronounces-kamala-harris-name.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sotomayor-mispronounces-kamala-harris-name.amp",
-      "publishedDateTime": "2021-01-20T11:17:01-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-pelosi-says-trump-could-be-accessory-to-murder-in-connection-with-capitol-riot.md",
-      "title": "Pelosi says Trump could be 'accessory to murder' in connection with Capitol riot",
-      "excerpt": "House Speaker Nancy Pelosi said former President Donald Trump could be considered an accessory to murder in connection with this month's deadly riot at the U.S. Capitol. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8IafQ1UgbJc/pelosi-says-trump-could-be-accessory-to-murder-after-deadly-capitol-riots",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8IafQ1UgbJc/pelosi-says-trump-could-be-accessory-to-murder-after-deadly-capitol-riots",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 230,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pelosi-says-trump-could-be-accessory-to-murder-after-deadly-capitol-riots.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-says-trump-could-be-accessory-to-murder-after-deadly-capitol-riots.amp",
-      "publishedDateTime": "2021-01-20T11:11:38-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-pence-skips-trump-send-off-where-outgoing-president-thanks-him-attends-biden-inauguration.md",
-      "title": "Pence skips Trump send-off where outgoing president thanks him, attends Biden inauguration",
-      "excerpt": "Vice President Mike Pence attended President-elect Joe Biden's inaugural ceremony on Wednesday after skipping President Trump's farewell address at Joint Base Andrews.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GqnOW576rRQ/pence-trump-sendoff-biden-inauguration-farewell",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GqnOW576rRQ/pence-trump-sendoff-biden-inauguration-farewell",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 4725,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/pence.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pence-trump-sendoff-biden-inauguration-farewell.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-trump-sendoff-biden-inauguration-farewell.amp",
-      "publishedDateTime": "2021-01-20T08:25:16-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-kirstie-alley-slams-katie-couric-over-comments-about-needing-to-deprogram-donald-trumps-supporters.md",
-      "title": "Kirstie Alley slams Katie Couric over comments about needing to 'deprogram' Donald Trump's supporters",
-      "excerpt": "Kirstie Alley fired back at Katie Couric over comments she made on Bill Maher’s show about the need to “deprogram” Donald Trump's supporters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/entertainment/kirstie-alley-katie-couric-deprogram-donald-trump-supporters",
-      "originalUrl": "https://www.foxnews.com/entertainment/kirstie-alley-katie-couric-deprogram-donald-trump-supporters",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Alley-Couric-Getty-AP.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/entertainment/kirstie-alley-katie-couric-deprogram-donald-trump-supporters.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/kirstie-alley-katie-couric-deprogram-donald-trump-supporters.amp",
-      "publishedDateTime": "2021-01-20T07:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

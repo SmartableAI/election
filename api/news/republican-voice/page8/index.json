@@ -2,63 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2021-01-11-trump-golf-club-no-longer-the-host-of-future-pga-championship-amid-us-capitol-violence-fallout.md",
-      "title": "Trump golf club no longer the host of future PGA Championship amid US Capitol violence fallout",
-      "excerpt": "PGA Championship will no longer be held at Trump Bedminster in New Jersey, PGA of America announced Sunday night as fury at President Trump over the U.S. Capitol riot grows.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/sports/trump-golf-club-future-pga-championship-us-capitol-violence-fallout",
-      "originalUrl": "https://www.foxnews.com/sports/trump-golf-club-future-pga-championship-us-capitol-violence-fallout",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c367f114-e94d-4959-b3ff-061cfdaf5422/675b9628-5b5c-420a-a2a9-452035bffdb4/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/sports/trump-golf-club-future-pga-championship-us-capitol-violence-fallout.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/sports/trump-golf-club-future-pga-championship-us-capitol-violence-fallout.amp",
-      "publishedDateTime": "2021-01-10T19:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-01-10-secret-service-investigating-death-threats-against-pence.md",
       "title": "Secret Service investigating death threats against Pence",
       "excerpt": "The U.S. Secret Service is investigating death threats against Vice President Mike Pence made by pro-Trump lawyer Lin Wood, Fox News has learned.",
@@ -116,6 +59,62 @@
       ]
     },
     {
+      "path": "_news/2021-01-10-trump-to-highlight-border-wall-topping-400-miles-with-texas-visit-during-last-full-week-in-office.md",
+      "title": "Trump to highlight border wall topping 400 miles with Texas visit during last full week in office",
+      "excerpt": "With just over a week remaining in his term, President Trump is expected to celebrate progress on one of his featured campaign promises: a wall along the U.S.-Mexico border.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/H3WE1u5DezY/trump-border-wall-texas-visit-last-full-week-in-office",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/H3WE1u5DezY/trump-border-wall-texas-visit-last-full-week-in-office",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4cb36dbe-eada-4977-abd7-6669263e1345/a159a8e6-35c5-4f32-aa31-c8e2af9ce0ae/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-border-wall-texas-visit-last-full-week-in-office.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-border-wall-texas-visit-last-full-week-in-office.amp",
+      "publishedDateTime": "2021-01-10T11:38:54-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-10-dershowitz-calls-trump-impeachment-a-loaded-weapon-that-would-be-so-dangerous-to-the-constitution.md",
       "title": "Dershowitz calls Trump impeachment a 'loaded weapon' that would be 'so dangerous to the Constitution'",
       "excerpt": "Harvard Law professor emeritus and constitutional law scholar Alan Dershowitz said that while he does not believe it would result in a Senate trial, impeaching President Trump over what he said in an address prior to protesters storming the Capitol building on Wednesday would provide a \"loaded weapon\"",
@@ -128,7 +127,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 180,
+      "heat": 160,
       "tags": null,
       "images": [
         {
@@ -184,7 +183,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 315,
+      "heat": 275,
       "tags": null,
       "images": [
         {
@@ -240,7 +239,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 174,
+      "heat": 214,
       "tags": null,
       "images": [
         {
@@ -340,6 +339,118 @@
       ]
     },
     {
+      "path": "_news/2021-01-10-biden-trump-not-above-the-law-justice-serves-the-people-it-doesnt-protect-the-powerful.md",
+      "title": "Biden: Trump 'not above the law. Justice serves the people — it doesn’t protect the powerful'",
+      "excerpt": "President-elect Joe Biden said on Twitter Saturday that President Trump is “not above the law,” after the House announced it would be bringing forth articles of impeachment on Monday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5m1UToI_cQo/biden-trump-not-above-law",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5m1UToI_cQo/biden-trump-not-above-law",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 319,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/AP21007689539650.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-trump-not-above-law.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-not-above-law.amp",
+      "publishedDateTime": "2021-01-09T17:55:04-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-10-gop-sen-toomey-trump-committed-impeachable-offenses.md",
+      "title": "GOP Sen. Toomey: Trump 'committed impeachable offenses'",
+      "excerpt": "Republican Sen. Pat Toomey, Pa., said that President Trump “committed impeachable offenses” in his efforts to throw out the results of the 2020 presidential election.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/73f76cRvWmI/toomey-trump-committed-impeachable-offenses",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/73f76cRvWmI/toomey-trump-committed-impeachable-offenses",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1e9767d2-3af3-4ac6-8e0e-cf32f941a86a/46c66756-82eb-4028-80dc-a2efc886ff4e/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/toomey-trump-committed-impeachable-offenses.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/toomey-trump-committed-impeachable-offenses.amp",
+      "publishedDateTime": "2021-01-09T17:07:50-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-10-trump-twitter-ban-will-be-exploited-by-enemies-of-free-speech-around-the-world-russian-dissident-navaln.md",
       "title": "Trump Twitter ban will be ‘exploited’ by ‘enemies' of free speech 'around the world,’ Russian dissident Navaln",
       "excerpt": "Russian opposition leader Alexey Navalny called Twitter’s ban of President Trump an “unacceptable act of censorship” that could be exploited by oppressive governments around the world.",
@@ -392,54 +503,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-10-donald-trump-jr-we-are-living-orwells-1984-after-dad-outed-from-twitter.md",
-      "title": "Donald Trump Jr.: ‘We are living Orwell’s 1984’ after dad outed from Twitter",
-      "excerpt": "Free-speech no longer exists in America. It died with big tech and what’s left is only there for a chosen few. This is absolute insanity!” he tweeted in response to the news.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/01/09/donald-trump-jr-likens-dads-twitter-ban-to-orwells-1984/",
-      "originalUrl": "https://nypost.com/2021/01/09/donald-trump-jr-likens-dads-twitter-ban-to-orwells-1984/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/01/donald-trump-jr-twitter.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/01/09/donald-trump-jr-likens-dads-twitter-ban-to-orwells-1984/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/09/donald-trump-jr-likens-dads-twitter-ban-to-orwells-1984/amp/",
-      "publishedDateTime": "2021-01-09T14:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     },
@@ -500,23 +563,23 @@
       ]
     },
     {
-      "path": "_news/2021-01-09-hang-mike-pence-trends-on-twitter-after-platform-suspends-trump-for-risk-of-incitement-of-violence.md",
-      "title": "'Hang Mike Pence' trends on Twitter after platform suspends Trump for risk of 'incitement of violence'",
-      "excerpt": "Twitter has removed content from \"trending\" in the past when it violates its rules.",
+      "path": "_news/2021-01-09-nikki-haley-says-trump-twitter-ban-is-what-happens-in-china.md",
+      "title": "Nikki Haley says Trump Twitter ban is 'what happens in China'",
+      "excerpt": "Former U.N. Ambassador Nikki Haley on Friday reacted to the permanent suspension of President Trump’s Twitter account, describing it as an instance of \"silencing\" of the kind that happens in communist China.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TLz_XV1i5oQ/twitter-trending-hang-mike-pence",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TLz_XV1i5oQ/twitter-trending-hang-mike-pence",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rhiubGFBDVU/nikki-haley-trump-twitter-ban-china",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rhiubGFBDVU/nikki-haley-trump-twitter-ban-china",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 264,
+      "heat": 275,
       "tags": null,
       "images": [
         {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/88c32963-7d82-4c63-a87f-29778a9c1abd/17c58895-f436-42cc-ac3d-f3b2bcb170be/1280x720/match/image.jpg",
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/da6ccb3d-d6ae-4c35-892d-2a2d0a5234d2/dfcf7c7b-cb1f-422b-9614-5fd44aba5411/1280x720/match/image.jpg",
           "width": 1280,
           "height": 720,
           "title": null,
@@ -526,9 +589,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/twitter-trending-hang-mike-pence.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-trending-hang-mike-pence.amp",
-      "publishedDateTime": "2021-01-09T08:24:39-08:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/nikki-haley-trump-twitter-ban-china.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nikki-haley-trump-twitter-ban-china.amp",
+      "publishedDateTime": "2021-01-09T07:31:28-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -552,28 +615,83 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice",
-        "Mike Pence"
+        "Republican Voice"
       ]
     },
     {
-      "path": "_news/2021-01-09-nikki-haley-says-trump-twitter-ban-is-what-happens-in-china.md",
-      "title": "Nikki Haley says Trump Twitter ban is 'what happens in China'",
-      "excerpt": "Former U.N. Ambassador Nikki Haley on Friday reacted to the permanent suspension of President Trump’s Twitter account, describing it as an instance of \"silencing\" of the kind that happens in communist China.",
+      "path": "_news/2021-01-09-trumps-standing-in-gop-takes-a-hit-after-capitol-riots-georgia-loss-this-hurts-strategist-says.md",
+      "title": "Trump's standing in GOP takes a hit after Capitol riots, Georgia loss: 'This hurts,' strategist says",
+      "excerpt": "Trump's clout with fellow Republicans takes a hit after the roughest week of his presidency.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rhiubGFBDVU/nikki-haley-trump-twitter-ban-china",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rhiubGFBDVU/nikki-haley-trump-twitter-ban-china",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4o3AUsoCTS4/trumps-standing-gop-takes-hit",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4o3AUsoCTS4/trumps-standing-gop-takes-hit",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 375,
+      "heat": 160,
       "tags": null,
       "images": [
         {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/da6ccb3d-d6ae-4c35-892d-2a2d0a5234d2/dfcf7c7b-cb1f-422b-9614-5fd44aba5411/1280x720/match/image.jpg",
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trumps-standing-gop-takes-hit.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-standing-gop-takes-hit.amp",
+      "publishedDateTime": "2021-01-09T05:06:20-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-09-live-updates-trump-permanently-banned-from-twitter.md",
+      "title": "LIVE UPDATES: Trump permanently banned from Twitter",
+      "excerpt": "Follow for the latest updates on the fallout from the riot at the U.S. Capitol.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/K9k0-9RO3zw/live-updates-trump-permanently-banned-twitter-1-9-2021",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/K9k0-9RO3zw/live-updates-trump-permanently-banned-twitter-1-9-2021",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 595,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e6cb6ff7-33ce-42a6-9e2f-f067a38a46bc/1bd78dbb-65d5-4022-9346-8462544e3b26/1280x720/match/image.jpg",
           "width": 1280,
           "height": 720,
           "title": null,
@@ -583,9 +701,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/nikki-haley-trump-twitter-ban-china.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nikki-haley-trump-twitter-ban-china.amp",
-      "publishedDateTime": "2021-01-09T07:31:28-08:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/live-updates-trump-permanently-banned-twitter-1-9-2021.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-permanently-banned-twitter-1-9-2021.amp",
+      "publishedDateTime": "2021-01-08T22:15:42-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -669,6 +787,62 @@
       ]
     },
     {
+      "path": "_news/2021-01-08-alaska-sen-lisa-murkowski-calls-on-trump-to-resign-questions-her-future-with-gop.md",
+      "title": "Alaska Sen. Lisa Murkowski calls on Trump to resign, questions her future with GOP",
+      "excerpt": "Alaska Sen. Lisa Murkowski, R, called on President Trump to resign Friday, and questioned her future within the Republican Party. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ou3t1ilr-dk/alaska-sen-lisa-murkowski-trump-resign-future-as-republican",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ou3t1ilr-dk/alaska-sen-lisa-murkowski-trump-resign-future-as-republican",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/63c0d67f-9beb-4ad1-a95c-7ce746a286e7/ce4afb25-2597-47c5-a094-26d7a3943683/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/alaska-sen-lisa-murkowski-trump-resign-future-as-republican.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/alaska-sen-lisa-murkowski-trump-resign-future-as-republican.amp",
+      "publishedDateTime": "2021-01-08T15:47:30-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-09-kamala-harris-top-economic-advisor-is-another-blackrock-exec.md",
       "title": "Kamala Harris’ top economic advisor is another BlackRock exec",
       "excerpt": "BlackRock is cementing its position as the Biden administration’s go-to Wall Street firm. Vice-President-elect Kamala Harris on Friday said she’s selected BlackRock’s Global Chief Investment",
@@ -717,23 +891,23 @@
       ]
     },
     {
-      "path": "_news/2021-01-08-clyburn-accuses-resigning-trump-cabinet-members-of-running-away-from-25th-amendment-duty.md",
-      "title": "Clyburn accuses resigning Trump Cabinet members of 'running away' from 25th Amendment duty",
-      "excerpt": "House Majority Whip James Clyburn said former Trump Cabinet members Elaine Chao and Betsy DeVos, who resigned in protest of the Capitol riots, were \"running away\" from their responsibility to invoke the 25th Amendment. ",
+      "path": "_news/2021-01-08-ilhan-omar-says-trump-will-be-impeached.md",
+      "title": "Ilhan Omar says Trump 'will be impeached'",
+      "excerpt": "Rep. Ilhan Omar, D-Minn., vowed on Friday that President Trump would be impeached after this week's riots, which have prompted widespread criticism of the president and his rhetoric following November's election.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fgRgxoCoRZY/clyburn-trump-cabinet-members-resigning-without-invoking-25th-running-away",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fgRgxoCoRZY/clyburn-trump-cabinet-members-resigning-without-invoking-25th-running-away",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/N3eIvLRm9mQ/ilhan-omar-trump-impeached",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/N3eIvLRm9mQ/ilhan-omar-trump-impeached",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 185,
+      "heat": 575,
       "tags": null,
       "images": [
         {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/206f8c4f-47a2-4931-a671-51ef1202a41a/c8e28499-4e7b-4b07-80a1-8bec3460192e/1280x720/match/image.jpg",
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cabbd5c8-5261-4e94-9550-81c691405868/20c9113c-d0de-48ab-ae7d-c9f0afd4d1cd/1280x720/match/image.jpg",
           "width": 1280,
           "height": 720,
           "title": null,
@@ -743,9 +917,177 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/clyburn-trump-cabinet-members-resigning-without-invoking-25th-running-away.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/clyburn-trump-cabinet-members-resigning-without-invoking-25th-running-away.amp",
-      "publishedDateTime": "2021-01-08T11:54:21-08:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/ilhan-omar-trump-impeached.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ilhan-omar-trump-impeached.amp",
+      "publishedDateTime": "2021-01-08T13:33:01-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-08-biden-coronavirus-vaccine-plan-wont-fix-bottleneck-on-administering-shots-saphier.md",
+      "title": "Biden coronavirus vaccine plan won't fix 'bottleneck' on administering shots: Saphier",
+      "excerpt": "Fox News contributor Dr. Nicole Saphier said the incoming Biden administration's plan to release nearly all coronavirus vaccines was wrongheaded when the focus should be on administering the ones already sent out.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6-VuSRFLYcQ/biden-coronavirus-vaccine-plan-fix-bottleneck-administering-shots-saphier",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6-VuSRFLYcQ/biden-coronavirus-vaccine-plan-fix-bottleneck-administering-shots-saphier",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5b02dd24-c059-4e8d-9f7d-a3c2832cf816/dbdb6cfd-324f-468d-98e0-38171c3cb2a5/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-coronavirus-vaccine-plan-fix-bottleneck-administering-shots-saphier.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-coronavirus-vaccine-plan-fix-bottleneck-administering-shots-saphier.amp",
+      "publishedDateTime": "2021-01-08T11:43:20-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-08-kurtz-no-president-has-been-able-to-dominate-the-media-social-media-culture-more-than-trump.md",
+      "title": "Kurtz: 'No president has been able to dominate the media, social media, culture more than Trump'",
+      "excerpt": "President Trump is one of the most influential presidents in United States history,” \"Media Buzz\" host Howard Kurtz said Friday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Pa5v7i_D51Y/kurtz-no-president-media-social-media-culture-trump",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Pa5v7i_D51Y/kurtz-no-president-media-social-media-culture-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/kurtz-no-president-media-social-media-culture-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kurtz-no-president-media-social-media-culture-trump.amp",
+      "publishedDateTime": "2021-01-08T10:47:19-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-08-pelosi-says-she-spoke-to-gen-milley-about-protecting-nuclear-codes-from-trump.md",
+      "title": "Pelosi says she spoke to Gen. Milley about protecting nuclear codes from Trump",
+      "excerpt": "House Speaker Nancy Pelosi, D-Calif., said she has spoken to Chairman of the Joint Chiefs of Staff Mark Milley about protecting the nuclear codes from an “unhinged president.” ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GVgKBIdVhcs/pelosi-spoke-gen-milley-protecting-nuclear-codes-trump",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GVgKBIdVhcs/pelosi-spoke-gen-milley-protecting-nuclear-codes-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 231,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/94a18acc-5025-4d44-9bda-db2348258d22/107bb457-e4ae-4598-8a02-535aaa65aa94/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pelosi-spoke-gen-milley-protecting-nuclear-codes-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-spoke-gen-milley-protecting-nuclear-codes-trump.amp",
+      "publishedDateTime": "2021-01-08T10:13:55-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -877,23 +1219,23 @@
       ]
     },
     {
-      "path": "_news/2021-01-08-trump-says-his-supporters-will-still-have-a-giant-voice-wont-be-disrespected.md",
-      "title": "Trump says his supporters will still have a 'giant voice,' won't be 'disrespected' ",
-      "excerpt": "President Trump on Friday said his supporters will still have a “giant voice” and would not be “disrespected” after he leaves the White House.",
+      "path": "_news/2021-01-08-capitol-riots-will-be-used-to-deplatform-trump-supporters-ben-domenech.md",
+      "title": "Capitol riots will be used to 'deplatform' Trump supporters: Ben Domenech",
+      "excerpt": "The left will do to regular people what it's doing to President Trump, The Federalist publisher Ben Domenech warned Thursday night.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7ev1L67eFJU/trump-says-his-supporters-will-still-have-a-giant-voice-wont-be-disrespected",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7ev1L67eFJU/trump-says-his-supporters-will-still-have-a-giant-voice-wont-be-disrespected",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yz8sy0wNcGE/trump-capitol-riot-supporters-facebook-twitter-instagram-ben-domenech",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yz8sy0wNcGE/trump-capitol-riot-supporters-facebook-twitter-instagram-ben-domenech",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 169,
+      "heat": 194,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
           "width": 340,
           "height": 340,
           "title": null,
@@ -903,9 +1245,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-says-his-supporters-will-still-have-a-giant-voice-wont-be-disrespected.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-his-supporters-will-still-have-a-giant-voice-wont-be-disrespected.amp",
-      "publishedDateTime": "2021-01-08T07:50:56-08:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-capitol-riot-supporters-facebook-twitter-instagram-ben-domenech.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-capitol-riot-supporters-facebook-twitter-instagram-ben-domenech.amp",
+      "publishedDateTime": "2021-01-08T05:24:49-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1046,6 +1388,62 @@
       ]
     },
     {
+      "path": "_news/2021-01-08-education-secretary-betsy-devos-resigns-in-letter-criticizing-trumps-rhetoric-amid-riots.md",
+      "title": "Education Secretary Betsy DeVos resigns in letter criticizing Trump's rhetoric amid riots",
+      "excerpt": "Education Secretary Betsy DeVos resigned on Thursday, citing the riots that took place at the U.S. Capitol the prior day, Fox News has confirmed.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0NsuFvnb154/education-secretary-betsy-devos-resigns-riots",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0NsuFvnb154/education-secretary-betsy-devos-resigns-riots",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/74c1d84e-2483-4be3-82cf-0673113ddfaa/85592fcd-ce06-4ea8-94b7-e4ce7cca22e9/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/education-secretary-betsy-devos-resigns-riots.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/education-secretary-betsy-devos-resigns-riots.amp",
+      "publishedDateTime": "2021-01-07T18:34:07-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-08-trump-condemns-heinous-attack-on-capitol-calls-for-healing-and-reconciliation.md",
       "title": "Trump condemns 'heinous attack' on Capitol, calls for 'healing and reconciliation'",
       "excerpt": "President Trump condemned Wednesday’s “heinous attack” on the Capitol by his supporters and called for a moment of healing. ",
@@ -1058,7 +1456,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 189,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -1114,7 +1512,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 249,
+      "heat": 329,
       "tags": null,
       "images": [
         {
@@ -1159,404 +1557,12 @@
       ]
     },
     {
-      "path": "_news/2021-01-07-ex-israeli-ambassador-danons-big-idea-biden-should-maintain-strong-stance-on-iran-partner-with-allies.md",
-      "title": "Ex-Israeli Ambassador Danon's Big Idea: Biden should maintain strong stance on Iran, partner with allies",
-      "excerpt": "The Big Idea is a series of Q&As with top lawmakers and figures.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WYsYWr-r1Fo/the-big-idea-amb-danny-danon-calls-for-tough-stance-on-iran",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WYsYWr-r1Fo/the-big-idea-amb-danny-danon-calls-for-tough-stance-on-iran",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6d2194d7-a447-4874-868b-6eb84de45ed9/b0113322-850b-41f4-b461-f5ee78507af3/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/the-big-idea-amb-danny-danon-calls-for-tough-stance-on-iran.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/the-big-idea-amb-danny-danon-calls-for-tough-stance-on-iran.amp",
-      "publishedDateTime": "2021-01-07T13:56:02-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-de-blasio-accuses-trump-of-treason-says-he-should-be-removed.md",
-      "title": "De Blasio accuses Trump of ‘treason,’ says he should be removed",
-      "excerpt": "New York City Mayor Bill de Blasio on Thursday said President Trump should be removed from office -- and accused him of committing \"treason\" with his remarks to supporters who went on to storm the Capitol building.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hNmwqyqwGbo/capitol-rioting-de-blasio-trump-treason",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hNmwqyqwGbo/capitol-rioting-de-blasio-trump-treason",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/49ec057a-e6ee-477e-8053-5e7977e20493/3f278e79-1c49-4c6a-9ccb-d72b8a89ca6b/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/capitol-rioting-de-blasio-trump-treason.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/capitol-rioting-de-blasio-trump-treason.amp",
-      "publishedDateTime": "2021-01-07T13:47:08-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-capitol-rioting-overshadowed-trumps-accomplishments-pavlich.md",
-      "title": "Capitol rioting 'overshadowed' Trump's accomplishments: Pavlich",
-      "excerpt": "The Capitol Hill rioting and looting after President Trump addressed supporters Wednesday is \"overshadowing\" his accomplishments of the past four years, Fox News contributor Katie Pavlich argued Thursday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AQcW58-pJQ8/capitol-rioting-overshadowed-trumps-accomplishments-pavlich",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AQcW58-pJQ8/capitol-rioting-overshadowed-trumps-accomplishments-pavlich",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/capitol-rioting-overshadowed-trumps-accomplishments-pavlich.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/capitol-rioting-overshadowed-trumps-accomplishments-pavlich.amp",
-      "publishedDateTime": "2021-01-07T12:21:35-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-biden-says-capitol-was-stormed-by-riotous-mob-domestic-terrorists.md",
+      "path": "_news/2021-01-08-biden-says-capitol-was-stormed-by-riotous-mob-domestic-terrorists.md",
       "title": "Biden says Capitol was stormed by ‘riotous mob,' 'domestic terrorists’",
       "excerpt": "President-elect Joe Biden says that the supporters of President Trump who attacked the Capitol on Wednesday were “a riotous mob” and “domestic terrorists.”",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3RLhrHSD30c/biden-capitol-stormed-riotous-mob-domestic-terrorists",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3RLhrHSD30c/biden-capitol-stormed-riotous-mob-domestic-terrorists",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 275,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-capitol-stormed-riotous-mob-domestic-terrorists.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-capitol-stormed-riotous-mob-domestic-terrorists.amp",
-      "publishedDateTime": "2021-01-07T12:12:02-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-pelosi-will-impeach-if-cabinet-wont-oust-trump.md",
-      "title": "Pelosi: Will impeach if cabinet won’t oust Trump",
-      "excerpt": "This comes as top officials leave over Trump misconduct.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Mh2iHot3Spw/pelosi-will-impeach-if-cabinet-wont-oust-trump",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Mh2iHot3Spw/pelosi-will-impeach-if-cabinet-wont-oust-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 335,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pelosi-will-impeach-if-cabinet-wont-oust-trump.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-will-impeach-if-cabinet-wont-oust-trump.amp",
-      "publishedDateTime": "2021-01-07T12:03:19-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-republicans-blame-trump-after-his-supporters-storm-capitol-enough-is-enough.md",
-      "title": "Republicans blame Trump after his supporters storm Capitol: 'Enough is enough'",
-      "excerpt": "Some Republicans placed the blame on President Trump after a group of his supporters besieged the U.S. Capitol building on Wednesday",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AkB0z7DI85c/republicans-blame-trump-after-his-supporters-storm-capitol",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AkB0z7DI85c/republicans-blame-trump-after-his-supporters-storm-capitol",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a9ebc064-503d-4207-bc1d-8e5b2960e353/a78ecef5-c9c7-4b9c-8397-2875ff384dbf/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/republicans-blame-trump-after-his-supporters-storm-capitol.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-blame-trump-after-his-supporters-storm-capitol.amp",
-      "publishedDateTime": "2021-01-07T10:02:54-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-facebook-blocks-trump-indefinitely-after-capitol-riot-response.md",
-      "title": "Facebook blocks Trump indefinitely after Capitol riot response",
-      "excerpt": "Facebook CEO Mark Zuckerberg on Thursday said that President Trump’s Facebook and Instagram accounts will be blocked \"indefinitely,\" and for at least the next two weeks before Inauguration Day.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gcohqZayj0g/facebook-blocks-trump-indefinitely-capitol-riot-response",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gcohqZayj0g/facebook-blocks-trump-indefinitely-capitol-riot-response",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 355,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/facebook-blocks-trump-indefinitely-capitol-riot-response.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-blocks-trump-indefinitely-capitol-riot-response.amp",
-      "publishedDateTime": "2021-01-07T08:12:59-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-read-pence-letter-saying-he-does-not-have-unilateral-authority-to-reject-electoral-votes.md",
-      "title": "READ: Pence letter saying he does not have 'unilateral authority' to reject electoral votes",
-      "excerpt": "Pence writes a letter saying he does not have 'unilateral authority' to reject electoral votes",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ljnAEb1RQQ8/read-pence-letter-unilateral-authority-to-reject-electoral-votes",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ljnAEb1RQQ8/read-pence-letter-unilateral-authority-to-reject-electoral-votes",
+      "webUrl": "https://www.foxnews.com/politics/biden-capitol-stormed-riotous-mob-domestic-terrorists",
+      "originalUrl": "https://www.foxnews.com/politics/biden-capitol-stormed-riotous-mob-domestic-terrorists",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
@@ -1567,9 +1573,9 @@
       "tags": null,
       "images": [
         {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/Pence-bt2.jpg",
-          "width": 1280,
-          "height": 533,
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21006854495058.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1577,66 +1583,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-07T05:53:04-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-biden-pick-for-dept-of-justices-top-civil-rights-post-has-called-for-partially-defunding-police.md",
-      "title": "Biden pick for Dept. of Justice's top civil rights post has called for partially defunding police",
-      "excerpt": "President-elect Joe Biden is expected to pick Kristen Clarke, a civil rights lawyer, as Assistant Attorney General for the Civil Rights Division of the Department of Justice, which is expected to be a prioritized role in the Biden administration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/biden-pick-for-dojs-top-civil-rights-post-called-for-partially-defunding-police",
-      "originalUrl": "https://www.foxnews.com/politics/biden-pick-for-dojs-top-civil-rights-post-called-for-partially-defunding-police",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d358d2cc-f940-473b-bfb7-5e489ad2caa5/4bf5cd6b-a53b-4fb6-9b9e-3b41fa25e8b0/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-pick-for-dojs-top-civil-rights-post-called-for-partially-defunding-police.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pick-for-dojs-top-civil-rights-post-called-for-partially-defunding-police.amp",
-      "publishedDateTime": "2021-01-07T04:17:00-08:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-capitol-stormed-riotous-mob-domestic-terrorists.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-capitol-stormed-riotous-mob-domestic-terrorists.amp",
+      "publishedDateTime": "2021-01-07T12:16:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1663,7 +1612,63 @@
         "Joe Biden",
         "Republican Voice"
       ]
+    },
+    {
+      "path": "_news/2021-01-07-tom-cotton-says-pro-trump-capitol-protesters-were-insurrectionists.md",
+      "title": "Tom Cotton says pro-Trump Capitol protesters were 'insurrectionists'",
+      "excerpt": "Sen. Cotton said that the riots Wednesday were \"no different\" than the chaos that unfolded last year over police brutality.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/C4oD20OZHeI/tom-cotton-dc-trump-rioters-capitol-hill-insurrectionists",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/C4oD20OZHeI/tom-cotton-dc-trump-rioters-capitol-hill-insurrectionists",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 275,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/tom-cotton-dc-trump-rioters-capitol-hill-insurrectionists.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tom-cotton-dc-trump-rioters-capitol-hill-insurrectionists.amp",
+      "publishedDateTime": "2021-01-07T08:39:17-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
     }
   ],
-  "nextPage": 9
+  "nextPage": null
 }

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/new-york-judge-trump-organization-d
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/new-york-judge-trump-organization-documents.amp"
 type: article
 quality: 169
-heat: 189
+heat: 169
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Georgia U.S. Attorney Pushed to Resign by Trump Aides Rejoins Law Firm"
-    excerpt: "The former top federal prosecutor in Atlanta, whom White House officials pushed to resign earlier this month because then-President Donald Trump was upset he wasn’t doing enough to investigate unproven claims of election fraud,"
-    publishedDateTime: 2021-01-22T16:03:00Z
-    webUrl: "https://www.wsj.com/livecoverage/biden-presidential-inauguration-2021/card/7PuV1qsDSei2ZphFlq6v"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 115
-    images:
-      - url: "https://images.wsj.net/im-288916?size=1.5"
-        width: 1280
-        height: 853
-        isCached: true
 
 secured: "aiLCIJJR4EPioBz/FPTNKbO3re0CoJ3tnYOXCtYpR2rdyVTLCGvpI4ef2ugNC0vlRO9gCT0N1JgHcQ/sLukM+GZJdIifDN26UCaACMv8w5IcqjXKAdJh4La+0jwo6i+RLGDVP9Zn0n4r6Zihrs3CkwHF8T3SfjWTkktTOVY6eRSMJkr9XMnhtwJulDY7QXnBjfKt+psyRf3az9MZ1K7C1l2yKmWsxFGlhXmlqSFiZ4/+nycJehS3eTXbQKz0NnKCe4Ec4nKIzwlYFfyH4/X7uL6wEbPsgLK3bRYiDC78ta26QVKUplX9soY/vLJ515zcwUnzvGPluN7enk2evFNfs17dHbc/B3M+iZdChwGoEMg=;yNIUyZBjlcfzrMlGbUontQ=="
 ---

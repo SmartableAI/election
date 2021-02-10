@@ -48,6 +48,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden DHS nominee Mayorkas says ICE should not be defunded, despite liberal calls"
+    excerpt: "Alejandro Mayorkas, President-elect Joe Biden’s pick to lead the Department of Homeland Security, said Tuesday that Immigration and Customs Enforcement (ICE) should not be defunded -- while punting on whether parts of the border wall should be dismantled."
+    publishedDateTime: 2021-01-19T18:47:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/d8CARCqXwKI/biden-dhs-nominee-mayorkas-ice-border-wall"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-dhs-nominee-mayorkas-ice-border-wall.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-dhs-nominee-mayorkas-ice-border-wall.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7baa239c-c9dc-4831-889a-81c96eec5853/f9d51ab7-a9dd-45a8-887e-17b573376bce/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden labor secretary nominee once linked to federal probe of union strong-arm tactics"
     excerpt: "Walsh faced scrutiny in 2016 after the Boston Globe reported that his name had surfaced during a federal investigation into allegations that unions had improperly pressured developers and businesses to hire union workers for their projects."
     publishedDateTime: 2021-01-11T21:16:33Z
@@ -77,6 +93,22 @@ related:
     quality: 162
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ecb90e26-1a7c-435c-9c19-1954f1794e4a/6028a03c-dc91-4110-b09d-e04c086c1e52/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden DHS nominee Mayorkas says ICE should not be defunded, despite liberal calls"
+    excerpt: "Alejandro Mayorkas, President-elect Joe Biden’s pick to lead the Department of Homeland Security, said Tuesday that Immigration and Customs Enforcement (ICE) should not be defunded -- while punting on whether parts of the border wall should be dismantled."
+    publishedDateTime: 2021-01-19T18:53:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-dhs-nominee-mayorkas-ice-border-wall"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-dhs-nominee-mayorkas-ice-border-wall.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-dhs-nominee-mayorkas-ice-border-wall.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7baa239c-c9dc-4831-889a-81c96eec5853/f9d51ab7-a9dd-45a8-887e-17b573376bce/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

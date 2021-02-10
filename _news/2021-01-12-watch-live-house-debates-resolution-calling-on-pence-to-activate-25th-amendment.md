@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Live Updates: Pence says he won't invoke 25th Amendment as House prepares to act"
+    excerpt: "House Democrats said they will move forward Wednesday with a vote on impeaching President Trump if Pence does not invoke the amendment."
+    publishedDateTime: 2021-01-13T01:20:00Z
+    webUrl: "https://www.cbsnews.com/live-updates/trump-impeachment-25th-amendment-2021-01-12/"
+    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/trump-impeachment-25th-amendment-2021-01-12/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/trump-impeachment-25th-amendment-2021-01-12/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/13/3d46e6fa-c74e-41cc-be16-96e683b81c3e/thumbnail/1200x630/6416c4237a17d28bc745050913d7d613/gettyimages-1230408840.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Stage set for impeachment after Pence dismisses House call to invoke 25th amendment"
     excerpt: "Vice-president’s refusal paves the way for the House to move forward with impeachment"
     publishedDateTime: 2021-01-13T07:45:00Z

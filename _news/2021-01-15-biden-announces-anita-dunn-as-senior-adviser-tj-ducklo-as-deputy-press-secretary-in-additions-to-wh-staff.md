@@ -127,22 +127,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "China says Biden represents 'new window of hope' for relations with US"
-    excerpt: "China believes President-elect Joe Biden represents a \"new window of hope\" for the country's relationship with the United States."
-    publishedDateTime: 2021-01-05T13:43:00Z
-    webUrl: "https://www.foxnews.com/world/china-biden-new-window-hope"
-    ampWebUrl: "https://www.foxnews.com/world/china-biden-new-window-hope.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/china-biden-new-window-hope.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/RTX-joe-biden-xi-jinping.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Biden press secretary won't say if White House visitor logs will be published"
     excerpt: "Incoming White House Press Secretary Jen Psaki declined Friday to specify whether President-elect Joe Biden’s administration would publish White House’s visitor logs"
     publishedDateTime: 2021-01-16T01:17:00Z
@@ -174,6 +158,20 @@ related:
       - url: "https://assets.realclear.com/images/53/531962_5_.jpg"
         width: 750
         height: 501
+        isCached: true
+  - title: "Biden Flings a Slew of Inflammatory Race-Tinged Lies"
+    excerpt: "As President Trump denounced the violence in he Capitol and called for peace and order, Joe Biden had a different idea: Attacking President Trump. And pinning the racism tag on the cops. This is what happened."
+    publishedDateTime: 2021-01-09T13:45:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/01/09/biden_flings_a_slew_of_inflammatory_race-tinged_lies_533032.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/531874_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
   - title: "Biden's Stimulus Plan Will Harm Those Who Need Most Help"
     excerpt: "If you thought help for the coronavirus was on the way, think again. President-elect Joe Biden's plan to provide economic relief is going to cause a lot of pain and waste a lot of money on people who do not need it."

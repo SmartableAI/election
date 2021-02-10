@@ -31,35 +31,51 @@ images:
     isCached: true
 
 related:
-  - title: "Alejandro Mayorkas: What to know about Biden's DHS pick"
-    excerpt: "President Biden has nominated Alejandro Mayorkas to be the next secretary of the Department of Homeland Security (DHS), who will take a key role in the closely watched area of immigration policy."
-    publishedDateTime: 2021-01-22T17:53:12Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TOGt64wuNMc/alejandro-mayorkas-what-to-know-about-bidens-dhs-pick"
-    ampWebUrl: "https://www.foxnews.com/politics/alejandro-mayorkas-what-to-know-about-bidens-dhs-pick.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/alejandro-mayorkas-what-to-know-about-bidens-dhs-pick.amp"
+  - title: "Biden OMB nominee Neera Tanden received $731G salary from liberal nonprofit"
+    excerpt: "One of President-elect Biden's top Cabinet appointees earned more than $700,000 as the head of a leading liberal nonprofit, her financial disclosures reveal."
+    publishedDateTime: 2021-01-12T12:42:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/N9aSYGkiKDI/neera-tanden-salary-center-for-american-progress"
+    ampWebUrl: "https://www.foxnews.com/politics/neera-tanden-salary-center-for-american-progress.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/neera-tanden-salary-center-for-american-progress.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 173
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21019608674449.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ecb90e26-1a7c-435c-9c19-1954f1794e4a/6028a03c-dc91-4110-b09d-e04c086c1e52/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Xavier Becerra: What to know about Biden's HHS secretary pick"
-    excerpt: "President Joe Biden surprised the medical community when he nominated California Attorney General Xavier Becerra to serve on his cabinet as Secretary of Health and Human Services."
-    publishedDateTime: 2021-01-23T01:33:12Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/X4GiwYj_lR4/xavier-becerra-what-to-know-about-bidens-hhs-secretary-pick"
-    ampWebUrl: "https://www.foxnews.com/politics/xavier-becerra-what-to-know-about-bidens-hhs-secretary-pick.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/xavier-becerra-what-to-know-about-bidens-hhs-secretary-pick.amp"
+  - title: "Biden labor secretary nominee once linked to federal probe of union strong-arm tactics"
+    excerpt: "Walsh faced scrutiny in 2016 after the Boston Globe reported that his name had surfaced during a federal investigation into allegations that unions had improperly pressured developers and businesses to hire union workers for their projects."
+    publishedDateTime: 2021-01-11T21:16:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aqSc8hUqhxM/biden-labor-secretary-nominee-federal-probe-union-strong-arm-tactics"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-labor-secretary-nominee-federal-probe-union-strong-arm-tactics.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-labor-secretary-nominee-federal-probe-union-strong-arm-tactics.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 167
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ab599ecb-1668-4f63-9264-9b290dbb6361/4efce791-81f2-4162-a2cd-be2e93315781/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/202402d4-6106-46ae-a764-2c7fa6dc8963/4f9b4123-49d8-41a5-af1a-c3c229485753/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden budget nominee Neera Tanden could face testy hearings amid scrutiny of inflammatory tweets"
+    excerpt: "President Biden's pick for director of the White House Office of Management and Budget could find herself in unfriendly territory when she sits for two confirmation hearings this week after a history of enmity with lawmakers on both sides of the aisle."
+    publishedDateTime: 2021-02-08T17:23:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sdI3mwgwmzI/biden-budget-nominee-neera-tanden-confirmation-hearings-tweets"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-budget-nominee-neera-tanden-confirmation-hearings-tweets.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-budget-nominee-neera-tanden-confirmation-hearings-tweets.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ecb90e26-1a7c-435c-9c19-1954f1794e4a/6028a03c-dc91-4110-b09d-e04c086c1e52/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -76,6 +92,22 @@ related:
     quality: 130
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7baa239c-c9dc-4831-889a-81c96eec5853/f9d51ab7-a9dd-45a8-887e-17b573376bce/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden labor secretary nominee once linked to federal probe of union strong-arm tactics"
+    excerpt: "Walsh faced scrutiny in 2016 after the Boston Globe reported that his name had surfaced during a federal investigation into allegations that unions had improperly pressured developers and businesses to hire union workers for their projects."
+    publishedDateTime: 2021-01-11T21:29:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-labor-secretary-nominee-federal-probe-union-strong-arm-tactics"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-labor-secretary-nominee-federal-probe-union-strong-arm-tactics.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-labor-secretary-nominee-federal-probe-union-strong-arm-tactics.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 127
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/202402d4-6106-46ae-a764-2c7fa6dc8963/4f9b4123-49d8-41a5-af1a-c3c229485753/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/livecoverage/trump-second-impeachment-trial-20
 webUrl: "https://www.wsj.com/livecoverage/trump-second-impeachment-trial-2021-02-08/card/br1IQIenpNRyfWV8eTEf"
 type: article
 quality: 115
-heat: 135
+heat: 115
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1280
     height: 853
     isCached: true
-
-related:
-  - title: "Video of Capitol carnage defines Trump trial but won’t change outcome"
-    excerpt: "The top House impeachment manager had barely uttered a few sentences when, like an anchor tossing to a taped report, he went to the video."
-    publishedDateTime: 2021-02-10T08:24:00Z
-    webUrl: "https://www.foxnews.com/media/video-of-capitol-carnage-defines-trump-trial-but-wont-change-outcome"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 115
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/pezzola-2.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "54c9mfTME0kbk4nyLwMMVk22nIQOVk4R5axfiiX5SA/EMI+9udGvV+bfejKu66VR8SxOe3wOCOMQ1Gl23awvI2FkO3KgqVniJLpCZA/k9TYS9DAmHSEdREYjpXTHrXxxsSXMQNqY41ILGZBt+EMPpCJq8hR2JliGK6LO1DRHq5Zp3GgjN8HglBuY4sQzdjkcMblOBecGDQHMt3l+2k/4fUO+WUtpJE6cJJ0pTCwKrtQbO+j690lfgmJW5tY7vevlElHyRKbaIcz2LRUHRlg2D0nhQIOWr0AJfOyNmkDEHavuVbCNMIGBZg/F4o2xW5S6zToyOhmAO1K8s7ra473iATUg28qU3D5pidNFuOtcY18=;nAGzDRsGemYtB5ky/81zZw=="
 ---

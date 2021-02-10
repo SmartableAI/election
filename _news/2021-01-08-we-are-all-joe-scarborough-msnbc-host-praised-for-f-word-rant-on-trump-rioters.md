@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ibtimes.com/we-are-all-joe-scarborough-msnbc-host-praise
 cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/we-are-all-joe-scarborough-msnbc-host-praised-f-word-rant-trump-rioters-3116660?amp=1"
 type: article
 quality: 70
-heat: 70
+heat: 90
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 982
     isCached: true
+
+related:
+  - title: "Facebook Bans Trump 'Indefinitely' For Inciting Violence"
+    excerpt: "Facebook banned President Donald Trump from the platform \"indefinitely\" due to his efforts to incite the violence in the US capital this week, chief executive Mark Zuckerberg said Thursday. Zuckerberg said the 24-hour ban announced Wednesday was extended because of Trump's \"use of our platform to incite violent insurrection against a democratically elected government."
+    publishedDateTime: 2021-01-07T16:34:00Z
+    webUrl: "https://www.ibtimes.com/facebook-bans-trump-indefinitely-inciting-violence-3116688"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/07/president-donald-trump-is-facing-growing-bans-from.jpg"
+        width: 1024
+        height: 689
+        isCached: true
 
 secured: "X2/5kzyHy8buu8z0RhAlL+D0vqF9LlbP9pUL9gS1fhS2O+Ihde+OgGHWJWiFuddjyIyoW/C0li+A2qsKQDqvgfsfZCh5XIf0RBJ1JIbX1lqt3HBSl84eNDIfIWDeCQwDiqTL5qnrSC+c8/j8xDUM90njNd9pDI+r/hSRI9ykkccXxlRWf5u3QYMrAJCyOOD2zAZYsfETIvoHzxM0P8bsj58VSjQFJhlYTKuJraYqE8Gv0D5If8PdnBZrQySre4xXftwZnZy1FoJzfml9ycvMItq3pUXGAALL0pxU9Q3L7IYzXCjNxsD2oDhfRI+75ATk6zzQx7PPzAhzCPs25PVkyIKkkqb9PYznGlOKq2HA57c=;4S4ON0RSKO8p/X1wxwU6rQ=="
 ---

@@ -159,6 +159,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden administration considering Rahm Emanuel for ambassador role, report says"
+    excerpt: "Former Chicago mayor and ex-Obama chief of staff Rahm Emanuel might still end up in the Biden administration."
+    publishedDateTime: 2021-02-02T15:59:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MddK2eJxG8U/biden-rahm-emanuel-administration-role"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-rahm-emanuel-administration-role.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-rahm-emanuel-administration-role.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biggs introduces bill to bar Biden administration from mandating COVID-19 testing for domestic travel"
     excerpt: "Rep. Andy Biggs on Monday introduced legislation to bar the Biden administration from introducing a mandate that passengers on domestic flights have a negative COVID-19 test before flying -- warning it would devastate the airline industry."
     publishedDateTime: 2021-02-08T19:00:18Z

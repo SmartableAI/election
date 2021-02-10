@@ -30,17 +30,67 @@ images:
     isCached: true
 
 related:
-  - title: "Trump remains largely invisible after Kushner squashes attempts at building fringe social media presence"
-    excerpt: "On the day he will be impeached for a history-making second time, President Donald Trump lacks a comprehensive legal strategy, has nothing on his public schedule and is without his preferred social media methods of responding -- in part because his son-in-law put a stop to efforts establishing his presence"
-    publishedDateTime: 2021-01-13T15:58:37Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Dey9-nHxYnw/index.html"
+  - title: "Federal judge blocks Trump administration asylum rule from taking effect"
+    excerpt: "A federal judge on Friday blocked a sweeping asylum rule that had been scheduled to take effect nationwide in a matter of days, issuing yet another legal blow to the Trump administration.\n    \n"
+    publishedDateTime: 2021-01-09T02:50:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-rb2CMYeyGs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/08/politics/judge-blocks-us-asylum-rule/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/judge-blocks-us-asylum-rule/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 138
+    quality: 174
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210113103402-02-donald-trump-0112-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201210215838-panorama-nuevas-restricciones-asilo-eeuu-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump administration strikes parting blow at Medicaid with Tennessee block grant"
+    excerpt: "Just days before leaving office, the Trump administration took a step toward fulfilling a long-held Republican dream of curbing Medicaid costs and giving states more flexibility to run the program.\n    \n"
+    publishedDateTime: 2021-01-09T00:08:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rl92DLpadG0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/08/politics/trump-administration-medicaid-block-grant-tennessee/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/trump-administration-medicaid-block-grant-tennessee/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210108175126-seema-verma-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Despite Trump administration promise, government has no more 'reserve' 2nd vaccine doses"
+    excerpt: "Hopes of a surge in Covid-19 vaccine shipments under a new policy to release second doses held in reserve appear to be evaporating -- with the revelation that those doses have already been distributed, contrary to recent indications by the Trump administration.\n    \n"
+    publishedDateTime: 2021-01-16T01:36:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lalVOl5dJlA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/15/politics/coronavirus-vaccine-reserve-dose/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/15/politics/coronavirus-vaccine-reserve-dose/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201222111258-02-alex-azar-vaccine-1222-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Despite Trump administration promise, there appear to be no more 'reserve' 2nd vaccine doses to release"
+    excerpt: "Hopes of a surge in Covid-19 vaccine shipments under a new policy to release second doses held in reserve appear to be evaporating -- with the revelation that those doses have already been distributed, contrary to recent indications by the Trump administration.\n    \n"
+    publishedDateTime: 2021-01-15T20:01:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lalVOl5dJlA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/15/politics/coronavirus-vaccine-reserve-dose/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/15/politics/coronavirus-vaccine-reserve-dose/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 159
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201222111258-02-alex-azar-vaccine-1222-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/senate-approves-pete-buttigieg-as-b
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-approves-pete-buttigieg-as-bidens-transportation-secretary.amp"
 type: article
 quality: 175
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1ae5c1f0-8aef-40be-9fea-75f03468f27b/1debc5d6-d078-46de-9f47-6bf7d11c7774/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden nominee Denis McDonough confirmed as VA secretary in Senate vote"
+    excerpt: "A longtime federal official, McDonough previously served as chief of staff to former President Barack Obama throughout his second term in office."
+    publishedDateTime: 2021-02-08T23:16:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OGT9RogIc2c/biden-nominee-denis-mcdonough-confirmed-as-va-secretary-in-senate-vote"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-nominee-denis-mcdonough-confirmed-as-va-secretary-in-senate-vote.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nominee-denis-mcdonough-confirmed-as-va-secretary-in-senate-vote.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21027736050117.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Biden AG pick to face Senate panel hearings this month: LIVE UPDATES"
     excerpt: "Merrick Garland, President Biden’s nominee for U.S. attorney general is scheduled to face confirmation hearings on Feb. 22 and 23, according to reports."

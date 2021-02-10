@@ -51,22 +51,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Watch live: Biden and Harris introduce key economic team members"
-    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris are set to introduce key economic team members Tuesday afternoon in Wilmington, Delaware."
-    publishedDateTime: 2020-12-01T22:27:00Z
-    webUrl: "https://www.cnbc.com/2020/12/01/watch-live-biden-and-harris-introduce-key-economic-team-members.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/12/01/watch-live-biden-and-harris-introduce-key-economic-team-members.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/01/watch-live-biden-and-harris-introduce-key-economic-team-members.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 140
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106797646-16055585112020-11-16t202540z_641690806_rc2k4k9gobvu_rtrmadp_0_usa-biden.jpeg?v=1605558548"
-        width: 3500
-        height: 2365
-        isCached: true
   - title: "Harris’ historic election celebrated in cracked glass portrait"
     excerpt: "Vice President Kamala Harris' barrier-breaking career has been memorialized in a portrait that depicts her face emerging from the cracks in a massive sheet of glass."
     publishedDateTime: 2021-02-09T16:23:00Z
@@ -451,6 +435,20 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Biden, Harris get virtual tour of Arizona vaccination site"
+    excerpt: "President Joe Biden and Vice President Kamala Harris got a virtual tour Monday of a federally funded, mass vaccination site in Arizona, but they did not address the"
+    publishedDateTime: 2021-02-08T22:50:00Z
+    webUrl: "https://apnews.com/article/joe-biden-arizona-health-coronavirus-pandemic-doug-ducey-2f3a8457e1d7941ebec31acf5b96cfee/gallery/7cd793a8bcdf402eac2091ecc15d94b9"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 120
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/7cd793a8bcdf402eac2091ecc15d94b9/3000.jpeg"
+        width: 3000
+        height: 1957
+        isCached: true
   - title: "VP Kamala Harris' niece Meena Harris on learning 'female ambition is a good thing'"
     excerpt: "Meena Harris spoke with \"The View\" co-host Sunny Hostin on her children's book \"Ambitious Girl\" and how her family serves as a constant inspiration to her work."
     publishedDateTime: 2021-01-28T00:39:00Z
@@ -577,22 +575,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Joe Biden, Kamala Harris to visit Georgia ahead of Senate runoff Election Day"
-    excerpt: "The president-elect will travel to Atlanta on Monday while the vice president-elect will be in Savannah on Sunday."
-    publishedDateTime: 2020-12-30T13:58:00Z
-    webUrl: "https://www.khou.com/article/news/politics/biden-harris-traveling-to-georgia-senate-campaigns/85-771b57aa-78a9-461c-ad90-b2a5dc6e3880"
-    ampWebUrl: "https://www.khou.com/amp/article/news/politics/biden-harris-traveling-to-georgia-senate-campaigns/85-771b57aa-78a9-461c-ad90-b2a5dc6e3880"
-    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/politics/biden-harris-traveling-to-georgia-senate-campaigns/85-771b57aa-78a9-461c-ad90-b2a5dc6e3880"
-    type: article
-    provider:
-      name: KHOU 11
-      domain: khou.com
-    quality: 102
-    images:
-      - url: "https://media.khou.com/assets/WXIA/images/538ffc43-e730-4b70-933e-ec6bde3a4846/538ffc43-e730-4b70-933e-ec6bde3a4846_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "Kamala Harris uses casting vote to pass Covid relief budget resolution – video"
     excerpt: "Vice-president’s Senate intervention means Biden’s $1.9tn package can pass without Republican support"
     publishedDateTime: 2021-02-05T10:25:00Z
@@ -637,6 +619,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Biden, Harris take virtual tour of Arizona vaccination site"
+    excerpt: "President Biden and Vice President Kamala Harris virtually toured a 24-7 vaccination site Monday at the Arizona Cardinals’ stadium that could serve as a model for others, as the U.S. pivots from immunizing priority groups to reaching older Americans and racing fast-moving variants of the coronavirus."
+    publishedDateTime: 2021-02-08T22:33:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/feb/8/biden-harris-take-virtual-tour-arizona-vaccination/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/feb/8/biden-harris-take-virtual-tour-arizona-vaccination/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/feb/8/biden-harris-take-virtual-tour-arizona-vaccination/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 90
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/02/08/Biden_17394.jpg-79310_c0-120-2866-1791_s1200x700.jpg?67075f200bc1cc5cad831ec15bdb630fd20fc51b"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Biden wants Harris to have a major role. What it is hasn’t been defined."
     excerpt: "President Joe Biden has worked to include VP Kamala Harris in nearly all his public appearances, and stress that she is a full partner in the decisions he makes."
     publishedDateTime: 2021-02-07T00:34:00Z
@@ -652,22 +650,6 @@ related:
       - url: "https://www.baltimoresun.com/resizer/Up7iITOZFi3Xr4ZE2-SyQMFHPkU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/K2HXZREWKF727QCL2EYIW4VXGI.jpg"
         width: 1200
         height: 785
-        isCached: true
-  - title: "Joe Biden, Kamala Harris heading to Georgia for last-minute campaign stops"
-    excerpt: "President-elect Joseph R. Biden and Vice President-elect Sen. Kamala D. Harris are heading south next week for some last-minute campaigning ahead of two U.S. Senate runoffs in Georgia that will determine control of the chamber next year."
-    publishedDateTime: 2020-12-30T00:00:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/dec/30/joe-biden-kamala-harris-heading-georgia-last-minut/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/dec/30/joe-biden-kamala-harris-heading-georgia-last-minut/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/dec/30/joe-biden-kamala-harris-heading-georgia-last-minut/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 88
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/12/28/Biden_31600.jpg-5db22_c0-0-6000-3500_s1200x700.jpg?d0cce8be4950beca0410149b2b60a47cc71c6403"
-        width: 1200
-        height: 700
         isCached: true
   - title: "Willie Brown: How Kamala Harris can be the face of the Biden administration"
     excerpt: "Make no mistake, President Biden is the star of the new administration. But it was our own Kamala Harris in her new role as the multiracial, multicultural, Democratic female power ideal who stole the show on Inauguration Day."
@@ -916,6 +898,20 @@ related:
       name: Washington Times
       domain: washingtontimes.com
     quality: 70
+  - title: "President Joe Biden and Vice President Kamala Harris visit Pentagon"
+    excerpt: "President Joe Biden and Vice President Kamala Harris greet Joint Chiefs Chairman Gen. Mark Milley and Secretary of Defense Lloyd Austin at the Pentagon, in Arlington, Virginia, on Wednesday, February 10,"
+    publishedDateTime: 2021-02-10T19:40:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/258e85c6277f7e88599f1428b2a19d2a/President-Joe-Biden-and-Vice-President-Kamala-Harris-visit-Pentagon/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 70
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/258e85c6277f7e88599f1428b2a19d2a/PENTAGON-BIDEN.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "JD Greear urges pastors not to call VP Kamala Harris ‘Jezebel,' but to pray for her"
     excerpt: "Southern Baptist Convention President J.D. Greear is urging pastors in the denomination to refrain from calling Vice President Kamala Harris “Jezebel” due to the racist connotations of the moniker. He is calling on them to honor and pray for her as an elected leader instead."
     publishedDateTime: 2021-02-04T21:48:00Z
@@ -1044,15 +1040,6 @@ related:
         width: 1024
         height: 736
         isCached: true
-  - title: "User Clip: Joe Biden calls Kamala Harris 'president-elect'"
-    excerpt: "President-elect Joe Biden makes a verbal gaffe during remarks in Wilmington, Del."
-    publishedDateTime: 2020-12-29T22:29:00Z
-    webUrl: "https://www.c-span.org/video/?c4932320/user-clip-joe-biden-calls-kamala-harris-president-elect"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 60
   - title: "Meet the Bay Area publisher who has spent her career elevating Black voices - including Kamala Harris'"
     excerpt: "I was just shocked, because she must have been with her family, her husband and (President-elect Biden), but she hit me right back and thanked me and told me she loved me,” said Ashley-Ward, the 63-year-old publisher of San Francisco’s oldest Black newspaper,"
     publishedDateTime: 2021-01-31T12:00:00Z
@@ -1159,20 +1146,6 @@ related:
       - url: "https://i2.wp.com/bdn-data.s3.amazonaws.com/uploads/2021/02/Senate-Democrats.jpg?fit=2500%2C1676&#038;ssl=1"
         width: 2500
         height: 1676
-        isCached: true
-  - title: "Kamala Harris to receive shot in bid to boost U.S. confidence in vaccines"
-    excerpt: "American, will become the second high-profile person from an ethnic minority background to receive the vaccine after Surgeon General Jerome Adams on Dec. 18."
-    publishedDateTime: 2020-12-29T16:22:00Z
-    webUrl: "https://www.postbulletin.com/newsmd/coronavirus/6819818-Kamala-Harris-to-receive-shot-in-bid-to-boost-U.S.-confidence-in-vaccines"
-    type: article
-    provider:
-      name: Post-Bulletin
-      domain: postbulletin.com
-    quality: 54
-    images:
-      - url: "https://www.fccnn.com/incoming/6819834-78kn7o-U.S.-President-elect-Joe-Biden-announces-his-nominee-for-secretary-of-education/alternates/BASE_LANDSCAPE/U.S.%20President-elect%20Joe%20Biden%20announces%20his%20nominee%20for%20secretary%20of%20education"
-        width: 1140
-        height: 712
         isCached: true
   - title: "Vice President Kamala Harris will stay here until official home is ready"
     excerpt: "Vice President Kamala Harris can’t beat the work commute. She's living temporarily at Blair House, the president's official guest residence on Pennsylvania Avenue across from the White House, while some repair work is done at the official vice presidential home a few miles away on the grounds of the U."

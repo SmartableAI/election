@@ -79,22 +79,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The Latest: Aides say Trump impeachment case ‘devastating’"
-    excerpt: "House impeachment managers plan to lay out a “devastating” case that is similar to a criminal prosecution in former President Donald Trump’s second Senate impeachment trial"
-    publishedDateTime: 2021-02-09T20:48:00Z
-    webUrl: "https://www.washingtonpost.com/politics/the-latest-aides-say-trump-impeachment-case-devastating/2021/02/09/3fe5f2ce-6aee-11eb-a66e-e27046e9e898_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-aides-say-trump-impeachment-case-devastating/2021/02/09/3fe5f2ce-6aee-11eb-a66e-e27046e9e898_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-aides-say-trump-impeachment-case-devastating/2021/02/09/3fe5f2ce-6aee-11eb-a66e-e27046e9e898_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "Trump impeachment: Schumer says agreement reached on rules for trial – live"
     excerpt: "Polling shows slim majority of Americans want Trump convicted and barred from office"
     publishedDateTime: 2021-02-08T22:14:00Z
@@ -239,6 +223,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Politics updates: Impeachment managers request Trump testify under oath in impeachment trial"
+    excerpt: "The Rules Committee voted to bring the matter to the full House for a vote that will decide whether Greene can stay on her committees."
+    publishedDateTime: 2021-02-04T18:33:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/04/live-updates-house-to-vote-on-marjorie-taylor-greene-committee-seats/4383759001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4383759001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4383759001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 114
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/03/USAT/b517b428-a09c-4621-8f59-4828296b0235-AP_Capitol_Breach_Baked_Alaska_Arrest.jpg?auto=webp&crop=4104,2309,x0,y273&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Capitol rioter \"horrendously smitten\" by Trump willing to speak at impeachment trial, lawyer says"
     excerpt: "The words of Trump supporters who are accused of participating in the riot may end up being used against him in his impeachment trial."
     publishedDateTime: 2021-01-29T13:09:00Z
@@ -310,15 +310,6 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 101
-  - title: "Liz Cheney Voted to Impeach Trump. Now She's Under Pressure from Her Own Party"
-    excerpt: "The fight for the future of the Republican party is here, and an early proxy battle is playing out in the House of Representatives."
-    publishedDateTime: 2021-01-29T04:47:00Z
-    webUrl: "https://time.com/5934208/liz-cheney-republican-party-battle/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 81
 
 secured: "6R4I0ul7igt4C9rkG3gxGhcTzv0RToPMGahI3kyOSoRcBfYIMOwpbk8Idx2sdDpjbWKUKlIB9ONULwEhPYrP/CEayJc3qBadimgq1GaCEkiuXADkapsl+FGuE5flwV6Y3MvHsiI8jjPieSVKn3+ThOYyL886ahW4EzuH9x2aPN+3xO3+c+1GiFfpyXFj2r8vNvHs3EWCEwAZzEWq0SlM5kG7SJfMUEH/mJfEIdYwXjKFfNacyxf7DiaveO0IIQoUJ/g/ODzY9r1BvCI4yx5X5nxcsIrG/qexOxFbKcosqXYQ8NJEhqd+vKg4aPbEci1WYH0mHEDVQi4gjOZsfVpBykp8Zd9PDdbxshs9bKf6Y5g=;AQRJ4gANB5DqKRhKvnEXbQ=="
 ---

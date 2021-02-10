@@ -31,65 +31,22 @@ images:
     isCached: true
 
 related:
-  - title: "The Latest: Fauci says vaccinate Biden, Harris, Trump, Pence"
-    excerpt: "Top U.S. infectious disease expert Dr. Anthony Fauci says President-elect Joe Biden and Vice President-elect Kamala Harris should be vaccinated for COVID-19 as soon as possible"
-    publishedDateTime: 2020-12-15T12:50:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/latest-fauci-vaccinate-biden-harris-trump-pence-74734137"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/latest-fauci-vaccinate-biden-harris-trump-pence-74734137"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/latest-fauci-vaccinate-biden-harris-trump-pence-74734137"
+  - title: "Trump plans to depart Washington Inauguration Day morning, while Pence, Harris speak"
+    excerpt: "President Trump plans to make the unprecedented move to depart the White House next Wednesday morning, just before President-elect Joe Biden's inauguration."
+    publishedDateTime: 2021-01-15T20:14:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-plans-depart-washington-inauguration-day-morning-pence/story?id=75280643"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-plans-depart-washington-inauguration-day-morning-pence/story?id=75280643"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-plans-depart-washington-inauguration-day-morning-pence/story?id=75280643"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 180
+    quality: 158
     images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_22bdf9791c6749db8600b787bc5bdc58_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/trump-departure-texas-03-ap-jef-210112_1610466035305_hpMain_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Kellyanne Conway breaks from Trump and says 'Joe Biden and Kamala Harris will prevail'"
-    excerpt: "Former White House advisor Kellyanne Conway's comments in an interview with The 19th go directly against Trump's claims undermining the 2020 election."
-    publishedDateTime: 2020-12-05T14:50:00Z
-    webUrl: "https://www.businessinsider.com/kellyanne-conway-biden-and-harris-won-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/kellyanne-conway-biden-and-harris-won-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kellyanne-conway-biden-and-harris-won-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 167
-    images:
-      - url: "https://i.insider.com/5fcb8c9db6a3a800199b6db2?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "The Latest: Trump pressures Pence to overturn Biden's win"
-    excerpt: "President Donald Trump is turning up the pressure on his vice president in a futile effort to overturn the results of the Nov. 3 presidential election in Congress"
-    publishedDateTime: 2021-01-06T14:31:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/latest-trump-pressures-pence-overturn-bidens-win-75079137"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/latest-trump-pressures-pence-overturn-bidens-win-75079137"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/latest-trump-pressures-pence-overturn-bidens-win-75079137"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 165
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_d30a691086d645aebe3b4c8ca3df701a_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "The Latest: Fauci says vaccinate Biden, Harris, Trump, Pence"
-    excerpt: "WASHINGTON (AP) — The Latest on (all times local):"
-    publishedDateTime: 2020-12-15T16:19:00Z
-    webUrl: "https://www.businessinsider.com/the-latest-fauci-says-vaccinate-biden-harris-trump-pence-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/the-latest-fauci-says-vaccinate-biden-harris-trump-pence-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/the-latest-fauci-says-vaccinate-biden-harris-trump-pence-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 160
   - title: "Politics updates: Biden, Harris volunteer for MLK Day as Trump signs 3 executive orders"
     excerpt: "It's Martin Luther King Jr. Day, we're two days from President-elect Joe Biden's Inauguration Day and here are the updates from Washington: Biden overrides Trump, says international travel restrictions will stay in place President Donald Trump began the process Monday of lifting travel bans on non-U."
     publishedDateTime: 2021-01-20T02:34:00Z
@@ -106,348 +63,124 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Election 2020 Today: Biden’s defense pick, Trump challenges"
-    excerpt: "The Associated Press has learned that President-elect Joe Biden will nominate retired four-star Army general Lloyd J"
-    publishedDateTime: 2020-12-08T10:34:00Z
-    webUrl: "https://www.washingtonpost.com/politics/election-2020-today-bidens-defense-pick-trump-challenges/2020/12/08/01278dce-3941-11eb-aad9-8959227280c4_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/election-2020-today-bidens-defense-pick-trump-challenges/2020/12/08/01278dce-3941-11eb-aad9-8959227280c4_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/election-2020-today-bidens-defense-pick-trump-challenges/2020/12/08/01278dce-3941-11eb-aad9-8959227280c4_story.html?outputType=amp"
+  - title: "Harris prepares for central role in Biden's White House"
+    excerpt: "Kamala Harris will make history on Wednesday when she becomes the nation’s first female vice president — and the first Black woman and the first woman of South Asian descent to hold that office"
+    publishedDateTime: 2021-01-18T05:52:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/harris-prepares-central-role-bidens-white-house-75317388"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/harris-prepares-central-role-bidens-white-house-75317388"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/harris-prepares-central-role-bidens-white-house-75317388"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 155
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Barr undercuts Trump on election and Hunter Biden inquiries"
-    excerpt: "Undercutting President Donald Trump on multiple fronts, Attorney General William Barr said Monday he saw no reason to appoint a special counsel to look into the president’s claims about the 2020 election or to name one for the tax investigation of President-elect Joe Biden’s son."
-    publishedDateTime: 2020-12-21T21:23:00Z
-    webUrl: "https://www.washingtonpost.com/politics/ag-no-reason-for-special-counsel-on-election-bidens-son/2020/12/21/d0ff876a-43a8-11eb-ac2a-3ac0f2b8ceeb_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/ag-no-reason-for-special-counsel-on-election-bidens-son/2020/12/21/d0ff876a-43a8-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ag-no-reason-for-special-counsel-on-election-bidens-son/2020/12/21/d0ff876a-43a8-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 155
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "A lawyer who pushed a 'birther' conspiracy about Kamala Harris has joined Trump's election fight"
-    excerpt: "President Donald Trump praised John Eastman as a \"very highly qualified, very talented lawyer\" after he published an op-ed about Biden's VP pick."
-    publishedDateTime: 2020-12-10T21:09:00Z
-    webUrl: "https://www.businessinsider.com/lawyer-who-pushed-birther-theory-on-kamala-harris-represents-trump-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/lawyer-who-pushed-birther-theory-on-kamala-harris-represents-trump-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/lawyer-who-pushed-birther-theory-on-kamala-harris-represents-trump-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 152
-    images:
-      - url: "https://i.insider.com/5fd277b27b7e050019107409?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "The Latest: Graham: Trump should attend Biden’s inauguration"
-    excerpt: "Lindsey Graham says he thinks President Donald Trump should attend President-elect Joe Biden’s inauguration because it would be “good for the country.”"
-    publishedDateTime: 2020-12-01T00:42:00Z
-    webUrl: "https://www.washingtonpost.com/politics/the-latest-graham-trump-should-attend-bidens-inauguration/2020/11/30/0f64b9ee-336e-11eb-9699-00d311f13d2d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-graham-trump-should-attend-bidens-inauguration/2020/11/30/0f64b9ee-336e-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-graham-trump-should-attend-bidens-inauguration/2020/11/30/0f64b9ee-336e-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 150
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/Politics/WireAP_84fe20aa8ae04b658e8cfad61547e79b_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Joe Biden and Kamala Harris jointly named Time's 'Person of the Year'"
-    excerpt: "U.S. President-elect Joe Biden and Vice President-elect Kamala Harris were jointly named Time magazine's 2020 \"Person of the Year\" on Thursday, chosen from a list of finalists that included the man Biden vanquished at the polls - President Donald Trump."
-    publishedDateTime: 2020-12-11T06:12:00Z
-    webUrl: "https://www.reuters.com/article/us-time-person/joe-biden-and-kamala-harris-jointly-named-times-person-of-the-year-idUSKBN28K33R?edition-redirect=ca"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28K33R"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28K33R"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 150
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201211&t=2&i=1544198413&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBA090"
-        width: 798
-        height: 545
-        isCached: true
-  - title: "Joe Biden and Kamala Harris named Time's Person of the Year"
-    excerpt: "Joe Biden and Kamala Harris are TIME's 2020 Person of the Year #TIMEPOY  pic.twitter.com/KuoBoebBN4 This is the first time a vice president has been named as a Person of the Year, Time said. \"The Biden-Harris ticket represents something historic,"
-    publishedDateTime: 2020-12-11T12:38:00Z
-    webUrl: "https://www.cbsnews.com/news/joe-biden-kamala-harris-time-person-of-the-year/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/joe-biden-kamala-harris-time-person-of-the-year/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-biden-kamala-harris-time-person-of-the-year/"
+  - title: "Biden and Harris honor COVID-19 victims on eve of inauguration"
+    excerpt: "President-elect Biden and Vice President-elect Harris will attend a memorial honor COVID-19 victims on Tuesday."
+    publishedDateTime: 2021-01-19T22:35:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-memorial-covid-19-victims-watch-live-stream-today-2021-01-19/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-memorial-covid-19-victims-watch-live-stream-today-2021-01-19/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-memorial-covid-19-victims-watch-live-stream-today-2021-01-19/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 150
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/07/7736671b-071a-4222-96ad-bafe263891af/thumbnail/1200x630/26da47d6456273ab6082cad35d70385c/2020-11-07t163609z-1597063157-rc2gyj96wvm1-rtrmadp-3-usa-election-biden.jpg"
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/19/1d3d8579-7837-4968-a52f-32c828eae709/thumbnail/1200x630/fd6aebee96fa1fb372282cbc5a734a31/ap21019815622881.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Pence and Biden will get COVID-19 vaccine shots to build public support"
-    excerpt: "Vice President Mike Pence and President-elect Joe Biden will receive the vaccine for the novel coronavirus publicly as part of an effort by officials to build public confidence in"
-    publishedDateTime: 2020-12-17T18:12:00Z
-    webUrl: "https://thehill.com/changing-america/well-being/prevention-cures/530686-pence-and-biden-will-get-covid-19-vaccine-shots"
-    ampWebUrl: "https://thehill.com/changing-america/well-being/prevention-cures/530686-pence-and-biden-will-get-covid-19-vaccine-shots?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/well-being/prevention-cures/530686-pence-and-biden-will-get-covid-19-vaccine-shots?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 150
-    images:
-      - url: "https://thehill.com/sites/default/files/ca_pencebidenvaccine_121720getty.jpg"
-        width: 1440
-        height: 880
-        isCached: true
-  - title: "Pence, Biden to get COVID-19 vaccine in bid to build public support"
-    excerpt: "Vice President Mike Pence will receive the coronavirus vaccine in public on Friday as the outgoing U.S. administration and President-elect Joe Biden's team try to build support for a mass inoculation to stanch the deadly pandemic."
-    publishedDateTime: 2020-12-17T16:27:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-idUKKBN28R1FT"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28R1FT"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28R1FT"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 150
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201217&t=2&i=1544878072&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBG0UE"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Biden to receive COVID-19 vaccine as Trump remains on sidelines"
-    excerpt: "President-elect Joe Biden is to receive his first dose of the coronavirus vaccine on live television to help persuade more Americans to follow suit."
-    publishedDateTime: 2020-12-21T09:57:00Z
-    webUrl: "https://www.latimes.com/world-nation/story/2020-12-21/biden-receive-covid-19-vaccine"
-    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-21/biden-receive-covid-19-vaccine?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-21/biden-receive-covid-19-vaccine?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 150
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/9f2edca/2147483647/strip/true/crop/4184x2733+0+28/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb2%2F60%2F4112dad241fcbf0c1d6f76b56549%2Fvirus-outbreak-trump-93566.jpg"
-        width: 320
-        height: 209
-        isCached: true
-  - title: "Harris, Ivanka Trump stump in Georgia ahead of Senate runoff"
-    excerpt: "Vice President-elect Kamala Harris and Ivanka Trump have both come to Georgia to stump for opposite candidates in a runoff election that will determine control of the U.S. Senate"
-    publishedDateTime: 2020-12-22T03:58:00Z
-    webUrl: "https://www.washingtonpost.com/health/harris-ivanka-trump-stump-in-georgia-ahead-of-senate-runoff/2020/12/21/0f0ac5ec-43e0-11eb-ac2a-3ac0f2b8ceeb_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/health/harris-ivanka-trump-stump-in-georgia-ahead-of-senate-runoff/2020/12/21/0f0ac5ec-43e0-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/harris-ivanka-trump-stump-in-georgia-ahead-of-senate-runoff/2020/12/21/0f0ac5ec-43e0-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
+  - title: "The Pretend President: Pence handles tasks declined by Trump in final days"
+    excerpt: "Pence has often taken on jobs that, in other administrations, might have gone to the man on top. But that role has intensified in the last weeks of Trump’s presidency."
+    publishedDateTime: 2021-01-20T02:10:00Z
+    webUrl: "https://www.washingtonpost.com/politics/pence-president/2021/01/19/503ea3e2-59bd-11eb-a976-bad6431e03e2_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/pence-president/2021/01/19/503ea3e2-59bd-11eb-a976-bad6431e03e2_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pence-president/2021/01/19/503ea3e2-59bd-11eb-a976-bad6431e03e2_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 150
+    quality: 148
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Biden and Harris to be sworn in at Capitol, but public urged to stay home"
-    excerpt: "The inaugural committee said in a statement that it urged the public not to travel to attend the inauguration in January."
-    publishedDateTime: 2020-12-15T21:40:00Z
-    webUrl: "https://www.cbsnews.com/news/biden-harris-inauguration-capitol-steps-stay-at-home/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-harris-inauguration-capitol-steps-stay-at-home/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-harris-inauguration-capitol-steps-stay-at-home/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 149
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/15/00f7414c-5fcb-4931-917b-9ca555b39a1b/thumbnail/1200x630g4/2d503a0eabb51b61366ec967a1445487/gettyimages-1230071696.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "McConnell breaks with Trump in finally recognizing Biden as the new president"
-    excerpt: "Senate Majority Leader Mitch McConnell (R-Ky.) made his sharpest and most significant break from President Trump on Tuesday, finally acknowledging Joe Biden as the rightful president-elect even as Trump refused to publicly admit his decisive loss in both the electoral college and the popular vote."
-    publishedDateTime: 2020-12-16T01:09:00Z
-    webUrl: "https://www.washingtonpost.com/politics/mcconnell-trump-biden-election/2020/12/15/af8a7a2a-3f13-11eb-8db8-395dedaaa036_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/mcconnell-trump-biden-election/2020/12/15/af8a7a2a-3f13-11eb-8db8-395dedaaa036_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/mcconnell-trump-biden-election/2020/12/15/af8a7a2a-3f13-11eb-8db8-395dedaaa036_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 147
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/A3JS4HB7GII6XDNYHFO63KVAGY.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/URDUARC2RYI6XOF55Y3LDTIYX4.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
-  - title: "Kamala Harris Defends Joe Biden's Climate Policies, Says They're Creating More Jobs"
-    excerpt: "Biden has faced strong criticism from Republicans for an executive order pausing oil and gas extraction on federal land."
-    publishedDateTime: 2021-01-29T14:36:00Z
-    webUrl: "https://www.newsweek.com/kamala-harris-defends-joe-biden-climate-policies-creating-more-jobs-1565370"
-    ampWebUrl: "https://www.newsweek.com/kamala-harris-defends-joe-biden-climate-policies-creating-more-jobs-1565370?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-defends-joe-biden-climate-policies-creating-more-jobs-1565370?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 144
-    images:
-      - url: "https://d.newsweek.com/en/full/1720204/vice-president-kamala-harris.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Sen. Lamar Alexander says that Trump should put 'the country first' and accept Biden's election win"
-    excerpt: "\"States have certified their votes,\" the GOP senator said. \"The courts have resolved the disputes. It looks very much like the electors will vote for Joe Biden.\""
-    publishedDateTime: 2020-12-13T21:23:00Z
-    webUrl: "https://www.businessinsider.com/lamar-alexander-trump-accepting-biden-election-win-transfer-power-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/lamar-alexander-trump-accepting-biden-election-win-transfer-power-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/lamar-alexander-trump-accepting-biden-election-win-transfer-power-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 141
-    images:
-      - url: "https://i.insider.com/5f1f57c2f0f4193a2a0bfda3?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Biden picks defense secretary as Trump hosts vaccine summit – live"
-    excerpt: "The US is on course to record its 15 millionth coronavirus case today"
-    publishedDateTime: 2020-12-08T14:02:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/08/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fcf5f238f0861e6ffe1ecdb"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/08/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/08/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 140
-    images:
-      - url: "https://i.guim.co.uk/img/media/a354366001ea3c24f1c9af734ebafff1fc0e17e4/257_168_3421_2053/master/3421.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6eb59eca6489fba5753b63947d2eb074"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Biden presents new defense chief as Trump clings to failed effort to overturn election result – live"
-    excerpt: "Trump calls to ‘overturn’ results as legal attempts to reverse Biden’s victory dwindle, while president-elect introduces Lloyd Austin to lead US defense"
-    publishedDateTime: 2020-12-09T20:41:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/09/joe-biden-doanld-trump-coronavirus-covid-19-vaccine-us-election-live-updates?page=with:block-5fd11fb48f08afb1724b725b"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/09/joe-biden-doanld-trump-coronavirus-covid-19-vaccine-us-election-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/09/joe-biden-doanld-trump-coronavirus-covid-19-vaccine-us-election-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 140
-    images:
-      - url: "https://i.guim.co.uk/img/media/f7ba39c24018431da90dcd390298d9b2db1cf98f/0_133_5362_3217/master/5362.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=349d4f0eafbb9cc43bb024d43556602a"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Kamala Harris can offer what Joe Biden is missing: Fresh perspective"
-    excerpt: "Harris is now a familiar presence at the rollout events for President-elect Joe Biden’s appointees. She is in a supporting role, as one would expect, but one can already discern that she is bringing a needed element to the Biden-Harris team: fresh blood and forward-looking thinking."
-    publishedDateTime: 2020-12-10T12:51:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/2020/12/10/how-harris-can-help/"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/12/10/how-harris-can-help/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/12/10/how-harris-can-help/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 140
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/L667CFR2MMI6XKWZRFMSE4UAYQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Joe Biden and Kamala Harris are Time's 2020 'Person of the Year'"
-    excerpt: "NBC News reports other contenders were Dr. Anthony Fauci, front-line workers and racial justice movements that led protests over the death of George Floyd."
-    publishedDateTime: 2020-12-11T05:44:00Z
-    webUrl: "https://www.cnbc.com/2020/12/11/joe-biden-and-kamala-harris-are-times-2020-person-of-the-year.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/12/11/joe-biden-and-kamala-harris-are-times-2020-person-of-the-year.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/11/joe-biden-and-kamala-harris-are-times-2020-person-of-the-year.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 140
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106786006-16048020972020-11-08t021914z_1245788963_rc2qyj94vi4f_rtrmadp_0_usa-election-biden.jpeg?v=1604802126"
-        width: 3500
-        height: 2333
-        isCached: true
-  - title: "The Latest: Biden says election workers showed courage"
-    excerpt: "President-elect Joe Biden says local election officials and workers endured threats of violence and verbal abuse while ensuring that democracy prevailed in the November election"
-    publishedDateTime: 2020-12-15T05:13:00Z
-    webUrl: "https://www.washingtonpost.com/politics/the-latest-electoral-college-voting-ends-with-biden-at-306/2020/12/14/6140db06-3e6a-11eb-b58b-1623f6267960_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-electoral-college-voting-ends-with-biden-at-306/2020/12/14/6140db06-3e6a-11eb-b58b-1623f6267960_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-electoral-college-voting-ends-with-biden-at-306/2020/12/14/6140db06-3e6a-11eb-b58b-1623f6267960_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 140
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Wisconsin Supreme Court upholds Biden's win, rejects Trump lawsuit"
-    excerpt: "The state Supreme Court ruled 4-3 to uphold Democrat Joe Biden's Wisconsin win Monday, handing President Donald Trump a defeat."
-    publishedDateTime: 2020-12-14T17:57:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/14/wisconsin-supreme-court-upholds-joe-bidens-win/6529642002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6529642002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6529642002"
+  - title: "Trump announces he'll skip inauguration, Biden said he'd be 'honored' to have Pence there"
+    excerpt: "Vice President Mike Pence and his wife Karen “have yet to make a decision regarding their attendance,” spokesman Devin O’Malley said Friday."
+    publishedDateTime: 2021-01-08T20:34:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/01/08/donald-trump-says-he-wont-attend-joe-bidens-inauguration/6594812002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6594812002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6594812002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 140
+    quality: 146
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/23/PMJS/28642344-a2e6-45bb-af1c-6c9dfd7d982a-RECOUNT_Monday_00812.JPG?auto=webp&crop=2599,1462,x0,y171&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/12/24/USAT/2c7e25e6-de7a-4a91-a9bd-c1acd79338db-AP_Trump.jpg?auto=webp&crop=2923,1644,x1,y201&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Mitch McConnell: Top Trump ally breaks silence to congratulate Biden"
-    excerpt: "A top member of US President Donald Trump's Republican Party, Senate Majority Leader Mitch McConnell, has congratulated Joe Biden on winning the presidential election last month. Senator McConnell spoke after the electoral college formally confirmed Mr Biden's victory over Mr Trump."
-    publishedDateTime: 2020-12-16T02:52:00Z
-    webUrl: "https://www.bbc.com/news/election-us-2020-55323407?fbclid=IwAR0pp8_Grt2HrLJyG1R1mgsSLvZCqSILVjNT5B0uXG2z_3s4Bnjr1MFD-SY"
-    ampWebUrl: "https://www.bbc.com/news/amp/election-us-2020-55323407"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/election-us-2020-55323407"
+  - title: "Trump-Biden transition live updates: Mike Pence to attend Biden's inauguration, source says"
+    excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in 16 days. Lawmakers are responding Monday to an explosive phone call between President Trump and Georgia Secretary of State Brad Raffensperger in which Trump,"
+    publishedDateTime: 2021-01-10T04:37:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-results-transition/?id=75022086"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=75022086"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=75022086"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 145
+    images:
+      - url: "https://s.abcnews.com/images/Politics/mike-pence_hpMain_20210109-192554_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Trump-Biden transition live updates: Trump tells Dems 'be careful what you wish for'"
+    excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in eight days. The first confirmation hearing for one of Biden's Cabinet picks is officially on the Senate schedule for the day before his inauguration -- which is also the earliest day the Senate is likely to accept an impeachment article against Trump from the House."
+    publishedDateTime: 2021-01-12T22:30:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-transition-trump-biden/?id=75166132"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-transition-trump-biden/?id=75166132"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-transition-trump-biden/?id=75166132"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 143
+    images:
+      - url: "https://s.abcnews.com/images/Politics/liz-cheney-file-ap-jef-210112_1610491720667_hpMain_2_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Democrats give VP Mike Pence ultimatum to remove Trump from White House"
+    excerpt: "US House Speaker Nancy Pelosi has stepped up the pressure on Vice-President Mike Pence to act to remove Donald Trump from office over his role in last week's storming of Congress. Lawmakers are expected to bring up a resolution asking Mr Pence to invoke the 25th Amendment to declare the president unfit for office."
+    publishedDateTime: 2021-01-12T08:08:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-55611630"
+    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55611630"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55611630"
     type: article
     provider:
       name: BBC
       domain: bbc.com
     quality: 140
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/A059/production/_116094014_mediaitem116094013.jpg"
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/14169/production/_116418228_hi065099285.jpg"
         width: 1024
         height: 576
         isCached: true
-  - title: "Trump asking about special prosecutor for Hunter Biden"
-    excerpt: "President Donald Trump is considering pushing to have a special counsel appointed to advance the federal tax investigation into the son of President-elect Joe Biden"
-    publishedDateTime: 2020-12-16T06:44:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-asking-about-special-prosecutor-for-hunter-biden/2020/12/15/33d3f186-3f40-11eb-b58b-1623f6267960_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-asking-about-special-prosecutor-for-hunter-biden/2020/12/15/33d3f186-3f40-11eb-b58b-1623f6267960_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-asking-about-special-prosecutor-for-hunter-biden/2020/12/15/33d3f186-3f40-11eb-b58b-1623f6267960_story.html?outputType=amp"
+  - title: "The Latest: Trump, Pence speak for first time since attack"
+    excerpt: "President Donald Trump and Vice President Mike Pence have spoken for the first time since last Wednesday’s Capitol insurrection, during which Pence was forced to flee the Senate chamber and retreat to"
+    publishedDateTime: 2021-01-12T00:10:00Z
+    webUrl: "https://www.washingtonpost.com/politics/the-latest-trump-pence-speak-for-first-time-since-attack/2021/01/11/2f83f682-546a-11eb-acc5-92d2819a1ccb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-trump-pence-speak-for-first-time-since-attack/2021/01/11/2f83f682-546a-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-trump-pence-speak-for-first-time-since-attack/2021/01/11/2f83f682-546a-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
@@ -458,1117 +191,926 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Trump voters accept Biden victory 'with reservations'"
-    excerpt: "For weeks, President Donald Trump has been on a mission to convince his loyal base that his victory was stolen and the contest rigged"
-    publishedDateTime: 2020-12-16T05:40:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-voters-accept-biden-victory-reservations-74753007"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-voters-accept-biden-victory-reservations-74753007"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-voters-accept-biden-victory-reservations-74753007"
+  - title: "House passes measure calling on Pence to remove Trump"
+    excerpt: "The House on Tuesday passed legislation calling on Vice President Pence to tap his Constitutional authority to remove President Trump from office in response to the president’s role in the deadly mob attack on the Capitol last week."
+    publishedDateTime: 2021-01-13T12:01:00Z
+    webUrl: "https://thehill.com/homenews/house/533955-house-passes-bill-calling-on-pence-to-remove-trump"
+    ampWebUrl: "https://thehill.com/homenews/house/533955-house-passes-bill-calling-on-pence-to-remove-trump?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/533955-house-passes-bill-calling-on-pence-to-remove-trump?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 140
+    images:
+      - url: "https://thehill.com/sites/default/files/raskinjamie_100920bc2_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "House urges Pence to help oust Trump; impeachment next"
+    excerpt: "With impeachment ahead, the House is trying first to push the vice president and Cabinet to act even more quickly to remove President Donald Trump from office"
+    publishedDateTime: 2021-01-13T07:15:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/house-urges-pence-oust-trump-impeachment-75215375"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/house-urges-pence-oust-trump-impeachment-75215375"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/house-urges-pence-oust-trump-impeachment-75215375"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 140
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_e1541ebcbf7f4243b9af5652b28619f1_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_962b8b05854242008ffd3937779d1d78_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Joe Biden and Mike Pence will receive COVID-19 vaccine soon"
-    excerpt: "President-elect Joe Biden and Vice President Mike Pence are set to receive the COVID-19 vaccine soon. According to two transition officials familiar with the matter, Biden will receive the vaccine publicly as soon as next week."
-    publishedDateTime: 2020-12-17T01:00:00Z
-    webUrl: "https://www.latimes.com/politics/story/2020-12-16/joe-biden-and-mike-pence-will-receive-covid-19-vaccine-soon"
-    ampWebUrl: "https://www.latimes.com/politics/story/2020-12-16/joe-biden-and-mike-pence-will-receive-covid-19-vaccine-soon?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-12-16/joe-biden-and-mike-pence-will-receive-covid-19-vaccine-soon?_amp=true"
+  - title: "Trump to leave Washington on morning of Biden’s inauguration"
+    excerpt: "President Donald Trump will leave Washington next Wednesday morning, just before President-elect Joe Biden’s inauguration"
+    publishedDateTime: 2021-01-15T22:30:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-to-leave-washington-on-morning-of-bidens-inauguration/2021/01/15/53af42ec-5757-11eb-acc5-92d2819a1ccb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-to-leave-washington-on-morning-of-bidens-inauguration/2021/01/15/53af42ec-5757-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-to-leave-washington-on-morning-of-bidens-inauguration/2021/01/15/53af42ec-5757-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
     type: article
     provider:
-      name: Los Angeles Times
-      domain: latimes.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 140
     images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/ebb8421/2147483647/strip/true/crop/5731x3743+0+39/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Faa%2Fe7%2F1be1dc5f4145beb620119e8129a3%2Fvirus-outbreak-vaccine-california-60828.jpg"
-        width: 320
-        height: 209
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
-  - title: "With Trump silent, reprisals for hacks may fall to Biden"
-    excerpt: "How much out of the gate do you want to do?” To be sure, it's not uncommon for administrations to refrain from leveling public accusations of blame for hacks until they've accumulated enough evidence."
-    publishedDateTime: 2020-12-18T08:59:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-silent-reprisals-hacks-fall-biden-74795379"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-silent-reprisals-hacks-fall-biden-74795379"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-silent-reprisals-hacks-fall-biden-74795379"
+  - title: "Trump to leave Washington on the morning of Biden’s inauguration"
+    excerpt: "President Trump will leave Washington next Wednesday morning, ahead of President-elect Joe Biden’s inauguration."
+    publishedDateTime: 2021-01-15T19:38:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-trump-leaves-washington-20210115-kppd5rslgfg45llkbm7elvuiqe-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-trump-leaves-washington-20210115-kppd5rslgfg45llkbm7elvuiqe-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-trump-leaves-washington-20210115-kppd5rslgfg45llkbm7elvuiqe-story.html?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Chicago Tribune
+      domain: chicagotribune.com
     quality: 140
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_879b882c6f2f4ccda43e44c561a03945_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.chicagotribune.com/resizer/8iaQKQ2GQ_UgaMVJEH9CDeaq5-0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/HLVDY42NTBWJ4WLIF27HE43ARM.aspx"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Bidens to Get Vaccine Monday, Harris and Husband Following Week"
-    excerpt: "President-elect Joe Biden and his wife, Jill Biden, will get their first dose of coronavirus vaccine on Monday, a transition official said."
-    publishedDateTime: 2020-12-18T18:47:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-12-18/president-elect-biden-to-get-coronavirus-vaccine-on-monday"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-12-18/president-elect-biden-to-get-coronavirus-vaccine-on-monday"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-18/president-elect-biden-to-get-coronavirus-vaccine-on-monday"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 140
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iR4.6TOWKG9I/v1/360x-1.jpg"
-        width: 360
-        height: 239
-        isCached: true
-  - title: "Pence, top congressional leaders get vaccines; Trump absent"
-    excerpt: "Vice President Mike Pence and the leaders of the House and Senate received their first COVID-19 vaccinations as they tried to reassure Americans the shot is safe"
-    publishedDateTime: 2020-12-19T06:07:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/trump-stays-sidelines-virus-vaccine-injections-begin-74796834"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/trump-stays-sidelines-virus-vaccine-injections-begin-74796834"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/trump-stays-sidelines-virus-vaccine-injections-begin-74796834"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
-    images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_408f4c19bf8a49fc870a904f7fb260c2_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Biden to receive COVID vaccine as Trump remains on sidelines"
-    excerpt: "President-elect Joe Biden will receive his first dose of the coronavirus vaccine on live television as part of a growing effort to convince the American public the inoculations are safe"
-    publishedDateTime: 2020-12-20T19:34:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/biden-receive-covid-vaccine-trump-remains-sidelines-74837728"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-receive-covid-vaccine-trump-remains-sidelines-74837728"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-receive-covid-vaccine-trump-remains-sidelines-74837728"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
-    images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_a796a6854dcb470c9948dd894c37082a_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Twitter's Dorsey stops following Trump, Biden"
-    excerpt: "Twitter Inc Chief Executive Jack Dorsey appeared to stop following President Donald Trump on the social media platform this weekend, according to a Twitter account that follows the activity of tech leaders."
-    publishedDateTime: 2020-12-21T22:32:00Z
-    webUrl: "https://www.reuters.com/article/us-twitter-dorsey-trump-idUSKBN28V2C6"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28V2C6"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28V2C6"
+  - title: "Trump's vice president Pence applauds successor at inauguration"
+    excerpt: "Outgoing U.S. Vice President Mike Pence and his wife Karen attended the inauguration of new President Joe Biden on Wednesday after skipping both a farewell ceremony for Donald Trump and the usual protocol of welcoming his successor to his home at the Naval Observatory."
+    publishedDateTime: 2021-01-21T02:46:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-biden-inauguration-pence-idUKKBN29P2RV?edition-redirect=uk"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN29P2RV"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN29P2RV"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 140
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201221&t=2&i=1545332468&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBK1BG"
-        width: 896
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210120&t=2&i=1548484638&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0J1H5"
+        width: 755
         height: 545
         isCached: true
-  - title: "Biden castigates Trump over recent cyberattack on U.S. government"
-    excerpt: "Biden accused Trump of “failure” in his handling of a recent cyberattack on the U.S. government, suggesting the president neglected his duty. The president-elect praised other Republicans, signaling he is looking ahead to the post-Trump era."
-    publishedDateTime: 2020-12-23T06:19:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-trump-cyberattack/2020/12/22/8db71566-446d-11eb-a277-49a6d1f9dff1_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-trump-cyberattack/2020/12/22/8db71566-446d-11eb-a277-49a6d1f9dff1_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-trump-cyberattack/2020/12/22/8db71566-446d-11eb-a277-49a6d1f9dff1_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 140
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AL7YFFSEVEI6XLBKHLAPFOGO5M.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Biden: Reversing Trump border policies will take months"
-    excerpt: "President-elect Joe Biden says it will take months to roll back some of President Donald Trump’s actions on immigration"
-    publishedDateTime: 2020-12-23T00:11:00Z
-    webUrl: "https://www.washingtonpost.com/world/national-security/biden-reversing-trump-border-policies-will-take-months/2020/12/22/d87772b8-44b2-11eb-ac2a-3ac0f2b8ceeb_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/world/national-security/biden-reversing-trump-border-policies-will-take-months/2020/12/22/d87772b8-44b2-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/biden-reversing-trump-border-policies-will-take-months/2020/12/22/d87772b8-44b2-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 140
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "The Latest: Biden says months to fix Trump border policies"
-    excerpt: "President-elect Joe Biden says he won’t immediately roll back President Donald Trump’s immigration policies at the border despite some advocates pushing for action as soon as he takes office"
-    publishedDateTime: 2020-12-23T01:19:00Z
-    webUrl: "https://www.washingtonpost.com/politics/the-latest-biden-promises-more-coronavirus-relief-efforts/2020/12/22/f4007630-4492-11eb-ac2a-3ac0f2b8ceeb_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-biden-promises-more-coronavirus-relief-efforts/2020/12/22/f4007630-4492-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-biden-promises-more-coronavirus-relief-efforts/2020/12/22/f4007630-4492-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 140
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Trump must blame Russia for cyber attack on U.S., Biden says"
-    excerpt: "President-elect Joe Biden said on Tuesday he had seen no evidence that a massive cyber attack against the United States is under control and warned that the breach will not go unanswered once he takes office on Jan."
-    publishedDateTime: 2020-12-23T04:15:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-idUKKBN28W1ZF"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28W1ZF"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28W1ZF"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 140
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201223&t=2&i=1545505476&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBL1IE"
-        width: 829
-        height: 545
-        isCached: true
-  - title: "The Latest: Biden says months to fix Trump border policies"
-    excerpt: "President-elect Joe Biden says he won’t immediately roll back President Donald Trump’s immigration policies at the border despite some advocates pushing for action as soon as he takes office"
-    publishedDateTime: 2020-12-28T04:56:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/latest-biden-promises-coronavirus-relief-efforts-74866309"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/latest-biden-promises-coronavirus-relief-efforts-74866309"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/latest-biden-promises-coronavirus-relief-efforts-74866309"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
-    images:
-      - url: "https://s.abcnews.com/images/US/WireAP_215abd9e1ec64f3d89a1a9f1d30e057d_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Fauci lays out Biden’s support for WHO after Trump criticism"
-    excerpt: "Dr. Anthony Fauci says U.S. President Joe Biden will order the United States to support projects to deploy COVID-19 vaccines, diagnostics and therapeutics to people in need around the world"
-    publishedDateTime: 2021-01-21T10:23:00Z
-    webUrl: "https://www.latimes.com/world-nation/story/2021-01-21/fauci-lays-out-bidens-support-for-who-after-trump-criticism"
-    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-01-21/fauci-lays-out-bidens-support-for-who-after-trump-criticism?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-01-21/fauci-lays-out-bidens-support-for-who-after-trump-criticism?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 140
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/d25e48b/2147483647/strip/true/crop/5376x3511+0+33/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc6%2F17%2F0dcff6a549859ce569d2fff4131a%2Fap21016604188688.jpg"
-        width: 320
-        height: 209
-        isCached: true
-  - title: "Biden to present new defense chief as Trump clings to failed effort to overturn election result – live"
-    excerpt: "Trump calls to ‘overturn’ results as legal attempts to reverse Biden’s victory dwindle, while president-elect will nominate Lloyd Austin to lead US defense"
-    publishedDateTime: 2020-12-09T18:13:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/09/joe-biden-doanld-trump-coronavirus-covid-19-vaccine-us-election-live-updates?page=with:block-5fd1064f8f08afb1724b7052"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/09/joe-biden-doanld-trump-coronavirus-covid-19-vaccine-us-election-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/09/joe-biden-doanld-trump-coronavirus-covid-19-vaccine-us-election-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 139
-    images:
-      - url: "https://i.guim.co.uk/img/media/83d3a6973b1b0461d21d94b04ea963179d3815b0/0_182_5472_3283/master/5472.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7b2c24a3156eb87c5324163757cbf17b"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Joe Biden and Kamala Harris named Time magazine's 2020 person of the year"
-    excerpt: "Incoming president and his vice-president earn recognition, and follow in footsteps of Barack Obama and Donald Trump"
-    publishedDateTime: 2020-12-11T05:38:00Z
-    webUrl: "https://www.theguardian.com/us-news/2020/dec/11/joe-biden-and-kamala-harris-named-time-magazines-2020-person-of-the-year"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/11/joe-biden-and-kamala-harris-named-time-magazines-2020-person-of-the-year"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/11/joe-biden-and-kamala-harris-named-time-magazines-2020-person-of-the-year"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 139
-    images:
-      - url: "https://i.guim.co.uk/img/media/3f5e1cc363cf72360d9f776ee1664b19f7e5facc/0_71_3049_1830/master/3049.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7ea6fb3c4e554c3032bffc98a1651b20"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Biden picks defense secretary as Trump hosts vaccine summit – live updates"
-    excerpt: "In September, California Attorney General Xavier Becerra – recently tapped up to be president-elect Joe Biden’s new health secretary – filed a lawsuit asking a federal judge to order ATF to change its policy,"
-    publishedDateTime: 2020-12-08T10:41:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/08/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fcf42908f084f47a8a415b0"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/08/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/08/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 138
-    images:
-      - url: "https://i.guim.co.uk/img/media/a354366001ea3c24f1c9af734ebafff1fc0e17e4/257_168_3421_2053/master/3421.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6eb59eca6489fba5753b63947d2eb074"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Trump-Biden transition updates: Biden in touch with Fauci on taking vaccine"
-    excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in 37 days. According to early excerpts of his speech Monday evening, Biden is expected to emphasize that the 2020 election proved that even a pandemic or \"an abuse of power\" can’t stop democracy from playing out."
-    publishedDateTime: 2020-12-14T22:27:00Z
-    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-results-transition/?id=74713338"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74713338"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74713338"
+  - title: "Trump, Pence out of sight as Democrats call on vice president to intervene"
+    excerpt: "President Donald Trump and Vice President Mike Pence have remained out of sight for days amid the greatest crisis of their administration."
+    publishedDateTime: 2021-01-11T20:29:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-pence-sight-democrats-call-vice-president-intervene/story?id=75179247"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-pence-sight-democrats-call-vice-president-intervene/story?id=75179247"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-pence-sight-democrats-call-vice-president-intervene/story?id=75179247"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 138
     images:
-      - url: "https://s.abcnews.com/images/International/biden-ap-jt-201208_1607454736741_hpMain_16x9_1600.jpg"
-        width: 1600
-        height: 900
+      - url: "https://s.abcnews.com/images/Politics/trump-ap-jt-210111_1610389280354_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "U.S. Senate leader McConnell acknowledges Biden victory; laments Trump defeat"
-    excerpt: "U.S. Senate Majority Leader Mitch McConnell, a Republican, on Tuesday congratulated Democratic President-elect Joe Biden and Vice President-elect Kamala Harris on their Nov. 3 election victories, ending his long silence on the outcome of the presidential race."
-    publishedDateTime: 2020-12-16T00:16:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-mcconnell-idUSKBN28P27W"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28P27W"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P27W"
+  - title: "Joe Biden and Kamala Harris get ready to be sworn in as presidential inauguration begins – live"
+    excerpt: "Biden and Harris will be sworn in as president and vice-president, following Donald Trump’s final departure from the White House this morning"
+    publishedDateTime: 2021-01-20T16:16:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates?page=with:block-60085a998f08fbcf3cf0dfe4"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 138
+    images:
+      - url: "https://i.guim.co.uk/img/media/c222b51401ba03aaea0aa2b3b142c1da42c13be2/0_0_7284_4858/master/7284.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4028e86316b17ca8ef88a01874289a5c"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "That time Kamala Harris flew on Trump’s private plane, and more from her biographer"
+    excerpt: "Author Dan Morain answers queries about his new book on Kamala Harris, like why she's an only-in-California politician and what to expect from her as vice president."
+    publishedDateTime: 2021-01-11T22:45:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-01-11/that-time-kamala-harris-flew-on-trumps-private-plane-and-more-from-new-book"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-01-11/that-time-kamala-harris-flew-on-trumps-private-plane-and-more-from-new-book?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-01-11/that-time-kamala-harris-flew-on-trumps-private-plane-and-more-from-new-book?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 134
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/ad02f72/2147483647/strip/true/crop/3000x1959+0+20/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff6%2F01%2Fcbd4b15d41a6962baf92c78dbb80%2Fdhs-acting-secretary-immigration-63532.jpg"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "Republicans block House resolution calling on Pence to remove Trump over Capitol riot"
+    excerpt: "Democrats fail to pass a resolution calling on Pence to use the 25th Amendment to remove Trump from office and introduce an article of impeachment."
+    publishedDateTime: 2021-01-11T20:32:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-01-11/republicans-block-house-resolution-to-call-on-pence-to-remove-trump-over-capitol-riot"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-01-11/republicans-block-house-resolution-to-call-on-pence-to-remove-trump-over-capitol-riot?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-01-11/republicans-block-house-resolution-to-call-on-pence-to-remove-trump-over-capitol-riot?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 133
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/8cf91c0/2147483647/strip/true/crop/6000x3919+0+41/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb9%2Fb1%2Fad843c72496cae27c1f917da5e91%2Fla-photos-1staff-685947-pol-capitol-feature-kkn-39205.JPG"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
+    excerpt: "Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation."
+    publishedDateTime: 2021-01-16T03:09:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-mike-pence-kamala-harris-20210115-h36svmshpfgcfhvsjdnsbrlyna-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-mike-pence-kamala-harris-20210115-h36svmshpfgcfhvsjdnsbrlyna-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-mike-pence-kamala-harris-20210115-h36svmshpfgcfhvsjdnsbrlyna-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 133
+    images:
+      - url: "https://www.chicagotribune.com/resizer/Z3qJoKYgp7I25-Bfj9OgWDYkWb8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/E7RFR7OAVVHIHHAVMBLL7YTF44.jpg"
+        width: 1200
+        height: 898
+        isCached: true
+  - title: "LIVE: Trump's most loyal congressional allies are seen arriving at Biden's inauguration"
+    excerpt: "Soon-to-be President Joe Biden and incoming Vice President Kamala Harris are attending mass with congressional leaders before being sworn in."
+    publishedDateTime: 2021-01-20T16:02:00Z
+    webUrl: "https://www.businessinsider.com/biden-inauguration-trump-departure-dc-high-alert-live-updates-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/biden-inauguration-trump-departure-dc-high-alert-live-updates-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-inauguration-trump-departure-dc-high-alert-live-updates-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 132
+    images:
+      - url: "https://i.insider.com/6008601d6d4c620018e40fb8?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Biden inauguration: Donald Trump leaves White House for the last time as president – live"
+    excerpt: "Trump to hold ‘sending off’ ceremony before flying to Florida and will not be attending Joe Biden’s inauguration"
+    publishedDateTime: 2021-01-20T13:56:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates?page=with:block-600840ee8f08973045efc0d0"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 131
+    images:
+      - url: "https://i.guim.co.uk/img/media/5d98512c5b980f7da3a35cd7c101e9697e0c9840/0_0_3228_2152/master/3228.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=30dc0d74b9433c9e628c7bfe3964bdbf"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "Pence to attend Biden's inauguration, official says"
+    excerpt: "U.S. Vice President Mike Pence will attend President-elect Joe Biden's inauguration, a senior administration official said on Saturday."
+    publishedDateTime: 2021-01-10T00:44:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-pence/pence-to-attend-bidens-inauguration-official-says-idUSKBN29F007"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 137
+    quality: 130
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201215&t=2&i=1544659461&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBE1AS"
-        width: 754
-        height: 545
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210110&t=2&i=1547239085&r=LYNXMPEH09003&w=800"
+        width: 800
+        height: 533
         isCached: true
-  - title: "Here's what it could take for Biden to undo Trump's big changes at the Pentagon"
-    excerpt: "The Trump administration has brought massive changes to the Pentagon in the weeks since Trump lost the election."
-    publishedDateTime: 2020-12-11T20:30:00Z
-    webUrl: "https://www.businessinsider.com/what-it-takes-for-biden-to-undo-trumps-pentagon-moves-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/what-it-takes-for-biden-to-undo-trumps-pentagon-moves-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/what-it-takes-for-biden-to-undo-trumps-pentagon-moves-2020-12?amp"
+  - title: "Pence calls VP-elect Kamala Harris to offer congratulations"
+    excerpt: "Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It's"
+    publishedDateTime: 2021-01-16T08:57:00Z
+    webUrl: "https://apnews.com/9cf431138cceeda9f6f7104e0fa20487"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 136
+      name: Associated Press
+      domain: apnews.com
+    quality: 130
     images:
-      - url: "https://i.insider.com/5e81b05e2ff839113e6aac63?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://storage.googleapis.com/afs-prod/media/4444eb45d10847adbfe84daefb893fa0/3000.jpeg"
+        width: 3000
+        height: 2000
         isCached: true
-  - title: "Mr. Biden should reverse the Trump administration’s harmful immigration changes"
-    excerpt: "President Trump is hastily lengthening the already difficult citizenship test, which has implications for the United States and its world standing. What can only be perceived as a thinly veiled attempt to further “tighten” border security is,"
-    publishedDateTime: 2020-12-12T02:41:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/mr-biden-should-reverse-the-trump-administrations-harmful-immigration-changes/2020/12/11/26805528-3a3c-11eb-aad9-8959227280c4_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/mr-biden-should-reverse-the-trump-administrations-harmful-immigration-changes/2020/12/11/26805528-3a3c-11eb-aad9-8959227280c4_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/letters-to-the-editor/mr-biden-should-reverse-the-trump-administrations-harmful-immigration-changes/2020/12/11/26805528-3a3c-11eb-aad9-8959227280c4_story.html?outputType=amp"
+  - title: "Biden inauguration: Trump expected to issue flurry of pardons before leaving office – live"
+    excerpt: "Washington DC prepares for Biden inauguration with unprecedented number of troops on street"
+    publishedDateTime: 2021-01-18T09:12:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/18/joe-biden-inauguration-donald-trump-pardons-washington-impeachment-covid-coronavirus-live"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/18/joe-biden-inauguration-donald-trump-pardons-washington-impeachment-covid-coronavirus-live"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/18/joe-biden-inauguration-donald-trump-pardons-washington-impeachment-covid-coronavirus-live"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 136
+      name: The Guardian
+      domain: theguardian.com
+    quality: 130
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZD2DN3BZSQI6XKWZRFMSE4UAYQ.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://i.guim.co.uk/img/media/6c8012c5df62883049cde364538dd50c9452cf7a/544_447_2793_1675/master/2793.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=aa27e184ee031bc439b74921f71e9b2c"
+        width: 600
+        height: 360
         isCached: true
-  - title: "Thousands of Trump supporters rally in DC to protest election before Electoral College formalizes Biden's win"
-    excerpt: "As many as 15,000 Trump supporters are expected to gather Saturday to protest \"voter fraud\" and demand \"election integrity\" in the 2020 presidential election."
-    publishedDateTime: 2020-12-12T20:28:00Z
-    webUrl: "https://www.usatoday.com/story/news/nation/2020/12/12/trump-march-brings-thousands-dc-ahead-electoral-college-vote/3882935001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3882935001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3882935001"
+  - title: "Inauguration Day live updates: Joe Biden sworn in as 46th president, Kamala Harris as first female vice president"
+    excerpt: "Joe Biden is inaugurated hours after his predecessor leaves the White House, clearing the way for a beleaguered nation to turn the page on one of the most divisive chapters in its political history."
+    publishedDateTime: 2021-01-20T22:42:00Z
+    webUrl: "https://www.latimes.com/politics/liveblog/2021-biden-inauguration-day-live-updates"
+    ampWebUrl: "https://www.latimes.com/politics/liveblog/2021-biden-inauguration-day-live-updates?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/liveblog/2021-biden-inauguration-day-live-updates?_amp=true"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 136
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 129
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/12/USAT/98fde875-f323-48b1-956e-5deb594da45d-XXX_USATODAY_444201_jmg_22534_1.JPG?auto=webp&crop=5567,3132,x0,y283&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/e0ec54e/2147483647/strip/true/crop/2501x1667+0+0/resize/840x560!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F08%2F60%2F0760cc914d29aafc74be8add546f%2Finauguration-promo-images-13.jpg"
+        width: 840
+        height: 560
         isCached: true
-  - title: "As electoral college formalizes Biden’s win, Trump backers hold their own vote"
-    excerpt: "ATLANTA — Republicans in six states won by President-elect Joe Biden held their own electoral college-style votes Monday for President Trump — hoping that future court decisions would throw out Biden's votes and count the GOP ones instead."
-    publishedDateTime: 2020-12-15T02:09:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-backers-electoral-college/2020/12/14/f0fcc59c-3e52-11eb-9453-fc36ba051781_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-backers-electoral-college/2020/12/14/f0fcc59c-3e52-11eb-9453-fc36ba051781_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-backers-electoral-college/2020/12/14/f0fcc59c-3e52-11eb-9453-fc36ba051781_story.html?outputType=amp"
+  - title: "Joe Biden and Kamala Harris get ready to be sworn in as presidential inauguration begins – live"
+    excerpt: "Biden and Harris will be sworn in as president and vice-president, following Donald Trump’s final departure from the White House this morning"
+    publishedDateTime: 2021-01-20T15:27:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates?page=with:block-600858298f08fbcf3cf0dfc4"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 136
+      name: The Guardian
+      domain: theguardian.com
+    quality: 128
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/D7PUOQR6HUI6XNMLCYR7MJTZMA.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://i.guim.co.uk/img/media/d15a858f45a82cc9a06ff6968945b105bb4befcc/0_199_6048_3627/master/6048.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8e9c855fc42f237c45a7a7d11c48fa8f"
+        width: 600
+        height: 360
         isCached: true
-  - title: "Donald Trump will keep protesting, despite Electoral College vote for Joe Biden"
-    excerpt: "Far from conceding, Trump served notice he will keep protesting, no matter that he has no chance of reversing his loss to Biden."
-    publishedDateTime: 2020-12-14T23:56:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/14/donald-trump-keep-protesting-despite-electoral-college-vote/6536849002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6536849002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6536849002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 136
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/03/USAT/171a421a-3d61-4825-b357-5bc3d776607a-AP20338663126539_1.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "Most Trump voters are ready to give Biden a chance. Are Republican politicians?"
-    excerpt: "Roy Blunt (R-Mo.), who was one of three Republican leaders to reject a resolution last week that would have recognized Biden’s win. Or like President Vladimir Putin of Russia. That’s a joke, but only partially."
-    publishedDateTime: 2020-12-15T14:57:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/12/15/most-trump-voters-are-ready-give-biden-chance-are-republican-politicians/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/15/most-trump-voters-are-ready-give-biden-chance-are-republican-politicians/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/15/most-trump-voters-are-ready-give-biden-chance-are-republican-politicians/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 136
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ALIEXTB6PMI6XNMLCYR7MJTZMA.jpg&w=1440"
-        width: 1440
-        height: 891
-        isCached: true
-  - title: "Trump-Biden transition live updates: Biden introduces key climate, energy picks"
-    excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in 32 days. Wrapping up Saturday's event announcing members of the incoming administration's climate and energy team,"
-    publishedDateTime: 2020-12-20T03:34:00Z
-    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-results-transition/?id=74713338"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74713338"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74713338"
+  - title: "AP sources: Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
+    excerpt: "AP sources: Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
+    publishedDateTime: 2021-01-15T19:17:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-sources-vice-president-mike-pence-calls-vice-75280362"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-sources-vice-president-mike-pence-calls-vice-75280362"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-sources-vice-president-mike-pence-calls-vice-75280362"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 136
-    images:
-      - url: "https://s.abcnews.com/images/General/transition-election-blog-joe-biden-nominates-01-rt-llr-201219_1608407168509_hpMain_16x9_1600.jpg"
-        width: 1600
-        height: 901
-        isCached: true
-  - title: "Trump wants a special counsel to investigate purported election fraud and Hunter Biden allegations, report says"
-    excerpt: "Justice Department guidelines say the attorney general can appoint a special counsel, but it's unclear if Attorney General Barr will do so."
-    publishedDateTime: 2020-12-12T06:45:00Z
-    webUrl: "https://www.businessinsider.com/trump-special-counsel-probe-2020-election-hunter-biden-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/trump-special-counsel-probe-2020-election-hunter-biden-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-special-counsel-probe-2020-election-hunter-biden-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 135
-    images:
-      - url: "https://i.insider.com/5fd0b691cee0cf00114fa553?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Wisconsin state court judge rules against Trump campaign lawsuit seeking to overturn Joe Biden’s win"
-    excerpt: "Wisconsin state court judge rules against Trump campaign lawsuit seeking to overturn Joe Biden’s win."
-    publishedDateTime: 2020-12-12T00:59:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/wisconsin-state-court-judge-rules-trump-campaign-lawsuit-74673107"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/wisconsin-state-court-judge-rules-trump-campaign-lawsuit-74673107"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/wisconsin-state-court-judge-rules-trump-campaign-lawsuit-74673107"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 135
+    quality: 127
     images:
       - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
         width: 834
         height: 308
         isCached: true
-  - title: "Meet Some of the Supporters Who Helped Deliver the Election to Joe Biden and Kamala Harris"
-    excerpt: "Elect Kamala Harris were named TIME’s 2020 person of the year on December 10, after winning the White House with a record-breaking 81 million votes. A diverse coalition of supporters in key states, like Wisconsin,"
-    publishedDateTime: 2020-12-13T17:06:00Z
-    webUrl: "https://time.com/5920880/voters-joe-biden-kamala-harris/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 135
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2020/12/time-person-of-the-year-voters-2020-2.jpg?quality&#x3D;85"
-        width: 2400
-        height: 1600
-        isCached: true
-  - title: "Trump-Biden transition updates: States ramp up security as electors cast ballots"
-    excerpt: "With the president and his allies continuing their pressure campaign to overturn the election, some of the battleground states where Biden won are taking additional security precautions to safeguard their electors meeting Monday."
-    publishedDateTime: 2020-12-14T19:26:00Z
-    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-results-transition/?id=74713338"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74713338"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74713338"
+  - title: "Biden inauguration live updates: Biden prepares to take office as Trump leaves Washington behind"
+    excerpt: "Updates during the transition from the Trump to Biden administrations -- and about a second Senate impeachment trial."
+    publishedDateTime: 2021-01-20T14:28:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/biden-trump-2020-election-transition-inauguration/?id=75311140"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/biden-trump-2020-election-transition-inauguration/?id=75311140"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/biden-trump-2020-election-transition-inauguration/?id=75311140"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 135
-    images:
-      - url: "https://s.abcnews.com/images/International/biden-fauci-rt-jt-201208_1607457879671_hpMain_16x9_1600.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "The Latest: Biden touts Cabinet diversity, names Buttigieg"
-    excerpt: "President-elect Joe Biden says his Cabinet will be more representative of the American people than any other in U.S. history"
-    publishedDateTime: 2020-12-16T05:17:00Z
-    webUrl: "https://www.washingtonpost.com/politics/the-latest-biden-set-to-pick-mccarthy-as-us-climate-czar/2020/12/15/11ac0a3c-3f34-11eb-b58b-1623f6267960_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-biden-set-to-pick-mccarthy-as-us-climate-czar/2020/12/15/11ac0a3c-3f34-11eb-b58b-1623f6267960_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-biden-set-to-pick-mccarthy-as-us-climate-czar/2020/12/15/11ac0a3c-3f34-11eb-b58b-1623f6267960_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 135
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Fact check: Biden did not post picture of his dogs playing with a Trump chew toy"
-    excerpt: "December 2020, social media accounts began highlighting the alleged hypocrisy of Biden’s calls for national unity and healing by claiming he shared pictures of his dogs fighting over a chew toy in the likeness of President Donald Trump."
-    publishedDateTime: 2020-12-16T23:38:00Z
-    webUrl: "https://www.reuters.com/article/uk-factcheck-biden-dogs-trump-toy-idUSKBN28Q2PQ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28Q2PQ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28Q2PQ"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 135
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201216&t=2&i=1544792637&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBF1GV"
-        width: 818
-        height: 545
-        isCached: true
-  - title: "Biden, Harris to meet with civil rights leaders amid pressure to diversify Cabinet"
-    excerpt: "Elect Joe Biden and Vice President Elect Kamala Harris are set to meet with civil rights leaders today amid a push to diversity their cabinet."
-    publishedDateTime: 2020-12-08T23:51:00Z
-    webUrl: "https://abcnews.go.com/Politics/biden-harris-meet-civil-rights-leaders-amid-pressure/story?id=74605076"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-harris-meet-civil-rights-leaders-amid-pressure/story?id=74605076"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-harris-meet-civil-rights-leaders-amid-pressure/story?id=74605076"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 134
-    images:
-      - url: "https://s.abcnews.com/images/Politics/biden-ap-jt-201208_1607451998079_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump-Biden transition live updates: SCOTUS denies GOP effort to block Pa. results"
-    excerpt: "Trump filed the lawsuit in Georgia Friday afternoon officially contesting the results of the election and requesting a do-over -- another in a series of long-shot legal bids that have so far met with stiff resistance from the state's Republican election officials."
-    publishedDateTime: 2020-12-09T06:26:00Z
-    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-results-transition/?id=74573672"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74573672"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74573672"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 134
-    images:
-      - url: "https://s.abcnews.com/images/US/supreme-court-building-rtr-jc-200625_hpMain_16x9_1600.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "President-elect Joe Biden, Vice President-elect Kamala Harris named Time magazine’s persons of the year"
-    excerpt: "Time’s editor-in-chief Edward Felsenthal says Biden and Harris won for “changing the American story, for showing that the forces of empathy are greater than the furies of division, for sharing a vision of healing in a grieving world."
-    publishedDateTime: 2020-12-11T15:14:00Z
-    webUrl: "https://www.chicagotribune.com/entertainment/ct-ent-time-magazine-biden-harris-20201211-iy7l2cw6nra3fbrzhz4a4gckuq-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/entertainment/ct-ent-time-magazine-biden-harris-20201211-iy7l2cw6nra3fbrzhz4a4gckuq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/entertainment/ct-ent-time-magazine-biden-harris-20201211-iy7l2cw6nra3fbrzhz4a4gckuq-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 134
-    images:
-      - url: "https://www.chicagotribune.com/resizer/BSq3Ak_medhh77iDHliMazeaj9g=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PQPYHWKY3V6EVJEUIRLJGAFQKA.aspx"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Trump-Biden transition live updates: Biden vows 'no political influence' on vaccine"
-    excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in 40 days. The U.S. Supreme Court late Friday officially put to rest a brazen eleventh-hour attempt by the state of Texas and Republican allies of President Donald Trump to throw out millions of votes in four states and overturn Democrat Joe Biden’s victory in the 2020 presidential election."
-    publishedDateTime: 2020-12-12T07:46:00Z
-    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-results-transition/?id=74573672"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74573672"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74573672"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 134
-    images:
-      - url: "https://s.abcnews.com/images/Politics/biden-nominees-01-rtr-jc-201211_1607717218375_hpMain_16x9_1600.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Trump-Biden transition live updates: Biden meets with governors on COVID-19 response"
-    excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in 37 days."
-    publishedDateTime: 2020-12-17T03:45:00Z
-    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-results-transition/?id=74713338"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74713338"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74713338"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 133
-    images:
-      - url: "https://s.abcnews.com/images/Politics/biden-kamala_hpMain_20201216-174130_16x9_1600.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Vice President Mike Pence may skip town after overseeing final confirmation of Biden's 2020 victory to escape blowback from Trump, GOP"
-    excerpt: "Pence is in a delicate position to preside over the session that will affirm Biden's win as Trump continues to tout baseless claims of election fraud."
-    publishedDateTime: 2020-12-18T08:12:00Z
-    webUrl: "https://www.businessinsider.com/pence-tentative-trip-overseeing-election-confirmation-escape-trump-wrath-report-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/pence-tentative-trip-overseeing-election-confirmation-escape-trump-wrath-report-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pence-tentative-trip-overseeing-election-confirmation-escape-trump-wrath-report-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 133
-    images:
-      - url: "https://i.insider.com/5fdc39f1c910a400192e83d0?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Kamala Harris' Husband Slams WSJ Op-Ed Urging Jill Biden to Stop Calling Herself a Doctor"
-    excerpt: "Doug Emhoff, Vice President-elect Kamala Harris' husband, on Saturday criticized the Wall Street Journal for publishing an op-ed urging Jill Biden to \"drop the doc\" in her name. In the op-ed, essayist Joseph Epstein calls President-elect Joe Biden's wife as \"Madame First Lady—Mrs."
-    publishedDateTime: 2020-12-12T22:40:00Z
-    webUrl: "https://www.newsweek.com/kamala-harris-husband-slams-wsj-op-ed-urging-jill-biden-stop-calling-herself-doctor-1554368"
-    ampWebUrl: "https://www.newsweek.com/kamala-harris-husband-slams-wsj-op-ed-urging-jill-biden-stop-calling-herself-doctor-1554368?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-husband-slams-wsj-op-ed-urging-jill-biden-stop-calling-herself-doctor-1554368?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 131
-    images:
-      - url: "https://d.newsweek.com/en/full/1685455/kamala-harris-husband-doug-emhoff.jpg"
-        width: 3617
-        height: 2411
-        isCached: true
-  - title: "Republican Sen. Lamar Alexander says Trump must 'put country first' and concede to Biden"
-    excerpt: "\"People can make their own judgment about whether the president's acting appropriately or not,\" Alexander told NBC News."
-    publishedDateTime: 2020-12-13T15:50:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/13/republican-senator-llamar-alexander-trump-must-concede-biden/6529478002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6529478002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6529478002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 131
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/01/31/USAT/8abbd0cf-e2d8-45af-b78c-522f467f1a64-Alexander_interview_photo_1.JPG?auto=webp&crop=3451,1941,x1,y249&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "After electoral college backs Biden, Trump continues falsely insisting he won: ‘This Fake Election can no longer stand’"
-    excerpt: "Trump's cascade of late-night tweets made it clear that he intends to continue undermining the election results with baseless claims of fraud."
-    publishedDateTime: 2020-12-15T14:20:00Z
-    webUrl: "https://www.washingtonpost.com/nation/2020/12/15/trump-electoral-college-biden/"
-    ampWebUrl: "https://www.washingtonpost.com/nation/2020/12/15/trump-electoral-college-biden/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/12/15/trump-electoral-college-biden/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 131
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/12-15-2020/t_62f80a279d874911acfdfa3cff181351_name_Biden1_1080.jpg&w=1440"
-        width: 1440
-        height: 810
-        isCached: true
-  - title: "Biden officially earns over 270 Electoral College votes, cementing his victory over Trump"
-    excerpt: "Slates of presidential electors in all 50 states and the District of Columbia voted on Monday to make Biden's win official."
-    publishedDateTime: 2020-12-15T16:13:00Z
-    webUrl: "https://www.businessinsider.com/biden-earns-over-270-electoral-college-votes-confirming-victory-2020-12?scrolla=5eb6d68b7fedc32c19ef33b4"
-    ampWebUrl: "https://www.businessinsider.com/biden-earns-over-270-electoral-college-votes-confirming-victory-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-earns-over-270-electoral-college-votes-confirming-victory-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 131
-    images:
-      - url: "https://i.insider.com/5fd782949cf1420018d2f22a?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Trump administration and Biden team at odds about presidential transition in the Pentagon"
-    excerpt: "The Trump administration and the Biden team were at odds on Friday after the acting Pentagon chief abruptly postponed transition meetings and Biden’s representatives expressed concern about the decision and described pockets of resistance to cooperation within the Pentagon."
-    publishedDateTime: 2020-12-19T02:40:00Z
-    webUrl: "https://www.washingtonpost.com/national-security/biden-trump-transition-pentagon-dispute/2020/12/18/d8142d94-415f-11eb-a402-fba110db3b42_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national-security/biden-trump-transition-pentagon-dispute/2020/12/18/d8142d94-415f-11eb-a402-fba110db3b42_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/biden-trump-transition-pentagon-dispute/2020/12/18/d8142d94-415f-11eb-a402-fba110db3b42_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 131
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KSNZPACBN4I6XC6AVYKVX3SK74.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Fauci says to give COVID-19 vaccine to Biden, Harris, Trump, Pence"
-    excerpt: "Dr. Anthony Fauci says 'for security reasons' President-elect Biden and Vice President-elect Harris should be vaccinated for COVID-19 as soon as possible."
-    publishedDateTime: 2020-12-15T18:14:00Z
-    webUrl: "https://www.khou.com/article/news/health/coronavirus/fauci-says-covid-19-vaccine-should-go-to-biden-harris-trump-pence-asap/507-ef6f6643-99ab-49cf-b360-f582c8b0920a"
-    ampWebUrl: "https://www.khou.com/amp/article/news/health/coronavirus/fauci-says-covid-19-vaccine-should-go-to-biden-harris-trump-pence-asap/507-ef6f6643-99ab-49cf-b360-f582c8b0920a"
-    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/health/coronavirus/fauci-says-covid-19-vaccine-should-go-to-biden-harris-trump-pence-asap/507-ef6f6643-99ab-49cf-b360-f582c8b0920a"
-    type: article
-    provider:
-      name: KHOU 11
-      domain: khou.com
-    quality: 130
-    images:
-      - url: "https://media.khou.com/assets/CCT/images/31529b7b-26be-43cf-ac59-8125e2da975e/31529b7b-26be-43cf-ac59-8125e2da975e_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "‘A real mess’: Trump is leaving behind crises and undermining Biden before he takes office"
-    excerpt: "In a situation without precedent in American history, one president is ending his term amid a global emergency while seeking to delegitimize a successor — and floating the prospect of mounting a four-year campaign to return to power."
-    publishedDateTime: 2020-12-21T11:04:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-undermine-biden/2020/12/20/999e2ab8-4152-11eb-9453-fc36ba051781_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-undermine-biden/2020/12/20/999e2ab8-4152-11eb-9453-fc36ba051781_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-undermine-biden/2020/12/20/999e2ab8-4152-11eb-9453-fc36ba051781_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 130
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6WKMQJR7YMI6XNMLCYR7MJTZMA.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Trump appointee who oversees Voice of America refuses to cooperate with Biden transition team"
-    excerpt: "A Trump appointee with a short but controversial record of overseeing Voice of America and other federally funded news agencies has declined to cooperate with president-elect Joe Biden’s representatives as they seek access to records and personnel."
-    publishedDateTime: 2020-12-08T16:21:00Z
-    webUrl: "https://www.washingtonpost.com/lifestyle/media/michael-pack-voice-america-biden-transition/2020/12/08/8212f630-38e7-11eb-9276-ae0ca72729be_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/lifestyle/media/michael-pack-voice-america-biden-transition/2020/12/08/8212f630-38e7-11eb-9276-ae0ca72729be_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/media/michael-pack-voice-america-biden-transition/2020/12/08/8212f630-38e7-11eb-9276-ae0ca72729be_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 129
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LJHRDARZNII6XETWVYGKOJZJXY.jpg&w=1440"
-        width: 1440
-        height: 1018
-        isCached: true
-  - title: "Putin has finally congratulated Joe Biden after the Electoral College confirmed Trump's defeat"
-    excerpt: "President Putin was one of the last major world leaders to congratulate Biden on winning the election."
-    publishedDateTime: 2020-12-16T09:41:00Z
-    webUrl: "https://www.businessinsider.com/putin-congratulates-joe-biden-after-trump-loses-electoral-college-2020-12?scrolla=5eb6d68b7fedc32c19ef33b4"
-    ampWebUrl: "https://www.businessinsider.com/putin-congratulates-joe-biden-after-trump-loses-electoral-college-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/putin-congratulates-joe-biden-after-trump-loses-electoral-college-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 128
-    images:
-      - url: "https://i.insider.com/5fd8a3d578a5740019a15720?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Politics live updates: Fudge and Vilsack to be tapped for Biden White House posts, Trump election challenges rejected by courts"
-    excerpt: "Rep. Marcia Fudge would be the second Black woman to lead HUD. Former Agriculture Secretary Tom Vilsack would return to his Obama administration role."
-    publishedDateTime: 2020-12-09T13:49:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/09/presidential-transition-news-joe-biden-donald-trump/6500841002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6500841002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6500841002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
     quality: 127
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/09/USAT/8231a1a9-2a55-48d2-8df5-aff4fef1d9b7-AP20344695708231.jpg?auto=webp&crop=5999,3374,x1,y597&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://s.abcnews.com/images/International/dc-6-gty-ml-210120_1611145079429_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "Fact check: Joe Biden, Kamala Harris – not China's Xi Jinping – are Time's 2020 Person of the Year"
-    excerpt: "Last week, after Time magazine announced its annual \"Person of the Year,\" an altered cover image including Chinese President Xi Jinping went viral."
-    publishedDateTime: 2020-12-16T23:09:00Z
-    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/12/16/fact-check-biden-harris-not-chinas-xi-grace-times-actual-cover/3904043001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3904043001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3904043001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 126
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/11/USAT/fd9bbdc5-ff98-464f-8bd0-c8dc14851bf4-VPC_2020_TIME_PEOPLE_OF_THE_YEAR_DESK_THUMB.jpg?auto=webp&crop=1911,1075,x8,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "The Latest: Pence talks vaccines in SC as virus cases rise"
-    excerpt: "Vice President Mike Pence has traveled to South Carolina to talk about coronavirus vaccines, as cases are rising in the state"
-    publishedDateTime: 2020-12-10T05:25:00Z
-    webUrl: "https://www.washingtonpost.com/health/the-latest-doctor-has-concern-about-vaccine-availability/2020/12/09/291437fe-3a7e-11eb-aad9-8959227280c4_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/health/the-latest-doctor-has-concern-about-vaccine-availability/2020/12/09/291437fe-3a7e-11eb-aad9-8959227280c4_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/the-latest-doctor-has-concern-about-vaccine-availability/2020/12/09/291437fe-3a7e-11eb-aad9-8959227280c4_story.html?outputType=amp"
+  - title: "President Donald Trump says he will not attend President-elect Joe Biden’s inauguration on Jan. 20"
+    excerpt: "President Donald Trump says he will not attend President-elect Joe Biden’s inauguration on Jan. 20. Copyright 2021 The Associated Press. All rights reserved. This material may not be published, broadcast,"
+    publishedDateTime: 2021-01-08T15:55:00Z
+    webUrl: "https://www.washingtonpost.com/politics/president-donald-trump-says-he-will-not-attend-president-elect-joe-bidens-inauguration-on-jan-20/2021/01/08/55af70c8-51c9-11eb-a1f5-fdaf28cfca90_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/president-donald-trump-says-he-will-not-attend-president-elect-joe-bidens-inauguration-on-jan-20/2021/01/08/55af70c8-51c9-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/president-donald-trump-says-he-will-not-attend-president-elect-joe-bidens-inauguration-on-jan-20/2021/01/08/55af70c8-51c9-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 125
+    quality: 126
     images:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
         isCached: true
-  - title: "Kamala Harris assumes critical role – now and later: The Note"
-    excerpt: "Harris will be a Black vice president in an administration facing criticism for a relative lack of diversity. She will be a key figure in convincing communities of color to trust the COVID-19 vaccine."
-    publishedDateTime: 2020-12-16T11:10:00Z
-    webUrl: "https://abcnews.go.com/Politics/kamala-harris-assumes-critical-role-now-note/story?id=74591169"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/kamala-harris-assumes-critical-role-now-note/story?id=74591169"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/kamala-harris-assumes-critical-role-now-note/story?id=74591169"
+  - title: "Kamala Harris appears on Vogue cover ahead of Inauguration Day"
+    excerpt: "Vice President-elect Kamala Harris made her debut on the cover of Vogue magazine’s February issue. Vogue featured two cover images on Instagram on Sunday. In one, Harris poses in front of golden drapery and dons a powder blue power suit and pearls;"
+    publishedDateTime: 2021-01-11T00:54:00Z
+    webUrl: "https://abcnews.go.com/GMA/Culture/kamala-harris-appears-vogue-cover-ahead-inauguration-day/story?id=75166683"
+    ampWebUrl: "https://goodmorningamerica.com/amp/culture/story/kamala-harris-appears-vogue-cover-ahead-inauguration-day-75166683"
+    cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/culture/story/kamala-harris-appears-vogue-cover-ahead-inauguration-day-75166683"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/kamala-harris-robin-roberts-interview-06-abc-jc-201215_1608076757078_hpMain_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/GMA/kamala-harris-vogue-ht-jef-210110_1610316091365_hpMain_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "In picking a team, Biden has been guided by memories of his late son"
-    excerpt: "Joe Biden's memories of late son Beau have influenced his plans for his new administration. Republicans want to turn his surviving son, Hunter, into a liability."
-    publishedDateTime: 2020-12-17T01:45:00Z
-    webUrl: "https://www.latimes.com/politics/story/2020-12-16/for-biden-memories-of-one-son-and-the-woes-of-another-loom-large"
-    ampWebUrl: "https://www.latimes.com/politics/story/2020-12-16/for-biden-memories-of-one-son-and-the-woes-of-another-loom-large?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-12-16/for-biden-memories-of-one-son-and-the-woes-of-another-loom-large?_amp=true"
+  - title: "Kamala Harris’ team says it was blindsided by Vogue cover"
+    excerpt: "Vice President-elect Kamala Harris appears on the cover of Vogue magazine's February issue, but her team says the photo isn't the agreed-upon one."
+    publishedDateTime: 2021-01-11T09:26:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2021-01-11/kamala-harris-team-blindsided-vogue-cover"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-01-11/kamala-harris-team-blindsided-vogue-cover?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-01-11/kamala-harris-team-blindsided-vogue-cover?_amp=true"
     type: article
     provider:
       name: Los Angeles Times
       domain: latimes.com
     quality: 125
     images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/0cae9f4/2147483647/strip/true/crop/6000x3919+0+41/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F13%2Feb%2F7553734d4a519332513aa0718392%2Fbiden-52612.jpg"
-        width: 320
-        height: 209
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/0870b9e/2147483647/strip/true/crop/3277x4096+0+0/resize/840x1050!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F12%2Fe9%2F275a18e34272837dd355538463f8%2Feryrjwaxaaiaibk.jpg"
+        width: 840
+        height: 1050
         isCached: true
-  - title: "The Latest: Biden tells governors that he'll work with them"
-    excerpt: "President-elect Joe Biden has told governors from more than 30 states that the federal government needs to “get its act together” amid a surge in coronavirus infections and deaths"
-    publishedDateTime: 2020-12-16T23:32:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/latest-biden-touts-cabinet-diversity-names-buttigieg-74761821"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/latest-biden-touts-cabinet-diversity-names-buttigieg-74761821"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/latest-biden-touts-cabinet-diversity-names-buttigieg-74761821"
+  - title: "Kamala Harris team says it was blindsided by VP-elect’s Vogue cover"
+    excerpt: "Vice President-elect Kamala Harris has landed on the cover of the February issue of Vogue magazine, but her team says there’s a problem: the shot of the country’s soon-to-be No. 2 leader isn’t what both sides had agreed upon,"
+    publishedDateTime: 2021-01-11T14:46:00Z
+    webUrl: "https://www.chicagotribune.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 125
+    images:
+      - url: "https://www.chicagotribune.com/resizer/n_fDK75vPntDqpVNGGiApZj30U4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/UJA3UD4TUUAFLUHWQERPRDZGTE.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Vogue's cover photos of Kamala Harris spark racial controversy"
+    excerpt: "Vice President-elect Kamala Harris stepped into the fashion realm as the cover star of American Vogue’s February issue. Initially, the photoshoot seemed like a progressive step toward increased representation for women of color in high fashion media,"
+    publishedDateTime: 2021-01-11T15:56:00Z
+    webUrl: "https://thehill.com/changing-america/respect/diversity-inclusion/533614-vogues-cover-photos-of-kamala-harris-spark"
+    ampWebUrl: "https://thehill.com/changing-america/respect/diversity-inclusion/533614-vogues-cover-photos-of-kamala-harris-spark?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/respect/diversity-inclusion/533614-vogues-cover-photos-of-kamala-harris-spark?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/ca_kamala_011121getty.jpg"
+        width: 1440
+        height: 880
+        isCached: true
+  - title: "How a Vogue cover created an uproar over Kamala Harris"
+    excerpt: "Though it might seem, in light of all that is going on in Washington, D.C., the least of the matter, on Sunday a leaked shot of Vice President-elect’s Kamala Harris’ Vogue cover set off an unexpected firestorm."
+    publishedDateTime: 2021-01-12T16:10:00Z
+    webUrl: "https://www.chicagotribune.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 125
+    images:
+      - url: "https://www.chicagotribune.com/resizer/mAvwsKlLi9K1gGZKJjTOrvTYcrc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GNHOWMJGENQCRG2Q26D2IVN6ZY.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Biden forgoing Amtrak trip to Washington over security fears"
+    excerpt: "President-elect Joe Biden will no longer be taking an Amtrak train to Washington for his inauguration because of security concerns"
+    publishedDateTime: 2021-01-14T03:23:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-forgoing-amtrak-trip-washington-security-fears-75240422"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-forgoing-amtrak-trip-washington-security-fears-75240422"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-forgoing-amtrak-trip-washington-security-fears-75240422"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_3443ef10cc74413ab191ad5da5e03899_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Health/WireAP_76e194e994ac4a12af2297d0bbd1395a_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Biden to be vaccinated on Monday"
-    excerpt: "President-elect Joe Biden and future first lady Jill Biden will be vaccinated on Monday, incoming White House press secretary Jen Psaki announced Friday. Mr. Biden has pledged to get his vaccine in front of the media to build public confidence."
-    publishedDateTime: 2020-12-18T18:37:00Z
-    webUrl: "https://www.cbsnews.com/news/joe-biden-to-be-vaccinated-monday/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/joe-biden-to-be-vaccinated-monday/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-biden-to-be-vaccinated-monday/"
+  - title: "For Kamala Harris, being first means attention and attacks"
+    excerpt: "She will become the first woman, Black woman and Asian woman to be vice president, a position that has drawn criticism that will extend beyond her swearing-in."
+    publishedDateTime: 2021-01-14T00:30:00Z
+    webUrl: "https://www.washingtonpost.com/politics/kamala-harris-firsts-vice-president/2021/01/13/7e4ffc36-4171-11eb-9453-fc36ba051781_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/kamala-harris-firsts-vice-president/2021/01/13/7e4ffc36-4171-11eb-9453-fc36ba051781_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/kamala-harris-firsts-vice-president/2021/01/13/7e4ffc36-4171-11eb-9453-fc36ba051781_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SZJH4JCGJUI6TFFL2LO2HQG7KI.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Trump impeachment trial could begin on Inauguration Day"
+    excerpt: "President Donald Trump’s impeachment trial could begin on Inauguration Day, just as Democrat Joe Biden takes the oath of office in an extraordinary end to the defeated president’s tenure in the White House."
+    publishedDateTime: 2021-01-14T16:45:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-impeached-after-capitol-riot-in-historic-second-charge/2021/01/13/11d4f9b8-5606-11eb-acc5-92d2819a1ccb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-impeached-after-capitol-riot-in-historic-second-charge/2021/01/13/11d4f9b8-5606-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-impeached-after-capitol-riot-in-historic-second-charge/2021/01/13/11d4f9b8-5606-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "History-maker Kamala Harris will wield real power as vice-president"
+    excerpt: "The first woman and first south Asian to hold the office will be key to securing Biden’s legislative agenda in a Senate split 50-50"
+    publishedDateTime: 2021-01-16T07:12:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/16/kamala-harris-vice-president-history-maker-power"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/16/kamala-harris-vice-president-history-maker-power"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/16/kamala-harris-vice-president-history-maker-power"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/ae744de53633034f52f9ed250b54ee5524457735/0_0_5508_3712/master/5508.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=964f0cbeacfcdf19df9ec81c11e2edff"
+        width: 600
+        height: 404
+        isCached: true
+  - title: "Trump administration carries out 13th and final execution"
+    excerpt: "President Donald Trump’s Justice Department resumed federal executions last year following a 17-year hiatus. No president in more than 120 years had overseen as many federal executions."
+    publishedDateTime: 2021-01-16T10:30:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-administration-carries-13th-final-execution-75292062"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-administration-carries-13th-final-execution-75292062"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-administration-carries-13th-final-execution-75292062"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/WireAP_45df14acc72d4f259cd939ad5bb55f4b_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Divided Senate Gives Kamala Harris Powerful Tiebreaker Role"
+    excerpt: "Kamala Harris’s term as vice president will be defined from the start by the Senate’s partisan split, as the former lawmaker is pushed into a powerful role in a chamber that must decide whether to convict the outgoing president of inciting an insurrection."
+    publishedDateTime: 2021-01-17T14:35:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-01-17/senate-divided-by-party-gives-harris-powerful-tiebreaker-role"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2021-01-17/senate-divided-by-party-gives-harris-powerful-tiebreaker-role"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2021-01-17/senate-divided-by-party-gives-harris-powerful-tiebreaker-role"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 125
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ibcPw4YBVIyo/v1/360x-1.jpg"
+        width: 360
+        height: 239
+        isCached: true
+  - title: "Kamala Harris will resign her Senate seat Monday"
+    excerpt: "Vice President-elect Kamala D. Harris will resign her Senate seat Monday, stepping down four years after she was elected California’s junior senator. Aides said Harris has already begun the formal process,"
+    publishedDateTime: 2021-01-17T13:06:00Z
+    webUrl: "https://www.washingtonpost.com/politics/kamala-harris-resigns-senate/2021/01/16/03cd0e90-5869-11eb-a817-e5e7f8a406d6_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/kamala-harris-resigns-senate/2021/01/16/03cd0e90-5869-11eb-a817-e5e7f8a406d6_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/kamala-harris-resigns-senate/2021/01/16/03cd0e90-5869-11eb-a817-e5e7f8a406d6_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EBVS6GSYGYI6XLGFSLJIDGQ4ZM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Kamala Harris resigns her Senate seat"
+    excerpt: "Vice President-elect Kamala D. Harris resigned her Senate seat Monday at noon, stepping down four years after she was elected California’s junior senator and moving her one step closer to a historic tenure as the nation’s first female vice president."
+    publishedDateTime: 2021-01-18T01:51:00Z
+    webUrl: "https://www.washingtonpost.com/politics/kamala-harris-resigns-senate/2021/01/16/03cd0e90-5869-11eb-a817-e5e7f8a406d6_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/kamala-harris-resigns-senate/2021/01/16/03cd0e90-5869-11eb-a817-e5e7f8a406d6_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/kamala-harris-resigns-senate/2021/01/16/03cd0e90-5869-11eb-a817-e5e7f8a406d6_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EBVS6GSYGYI6XLGFSLJIDGQ4ZM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "First Thing: Donald Trump slams the door on his way out"
+    excerpt: "Trump is to host his exit ceremony shortly before Biden’s inauguration and issue dozens of pardons. Plus: Comey says the GOP needs to be ‘burned down or changed’"
+    publishedDateTime: 2021-01-19T11:53:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/19/first-thing-donald-trump-slams-door-inauguration-ceremony-biden-coney-pardons"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/19/first-thing-donald-trump-slams-door-inauguration-ceremony-biden-coney-pardons"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/19/first-thing-donald-trump-slams-door-inauguration-ceremony-biden-coney-pardons"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/d5cc090ecdc4fb5d2032ee5f2755ce8249f4d90a/0_116_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8b2bd491f6860d9c36ff5e28b2702d0f"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "A new turn in history: Kamala Harris sworn in as 49th VP"
+    excerpt: "Kamala Devi Harris makes history as the first woman, Black person and Asian American vice president in the nation's history."
+    publishedDateTime: 2021-01-20T16:44:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-01-20/main-kamala-harris"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-01-20/main-kamala-harris?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-01-20/main-kamala-harris?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/6c007b5/2147483647/strip/true/crop/1764x1152+142+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F45%2F91%2F68ba33b3b44b70a7f3f66e8c294e%2Fla-me-0930-kamala-harris-senate-photos-2015092-008"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "Kamala Harris sworn into history"
+    excerpt: "Kamala D. Harris was sworn in as vice president of the United States on Wednesday, stepping into history as the highest-ranking woman in American history. The moment reflected a historic rise at a time of historic crises."
+    publishedDateTime: 2021-01-20T16:50:00Z
+    webUrl: "https://www.washingtonpost.com/politics/kamala-harris-sworn-in/2021/01/20/a184a12e-5aa9-11eb-b8bd-ee36b1cd18bf_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/kamala-harris-sworn-in/2021/01/20/a184a12e-5aa9-11eb-b8bd-ee36b1cd18bf_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/kamala-harris-sworn-in/2021/01/20/a184a12e-5aa9-11eb-b8bd-ee36b1cd18bf_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/H4TGAGS3IEI6XKCJN6KCHJ277U.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "AKA sorority members celebrate Kamala Harris inauguration"
+    excerpt: "Elizabeth Shelby had her inauguration outfit planned weeks in advance: blue jeans, a Kamala Harris sweatshirt, a green coat, and pink Chuck Taylors as an homage to her sorority’s colors and Vice President Harris’ signature shoe."
+    publishedDateTime: 2021-01-22T08:30:00Z
+    webUrl: "https://abcnews.go.com/Lifestyle/wireStory/aka-sorority-members-celebrate-kamala-harris-inauguration-75407163"
+    ampWebUrl: "https://abcnews.go.com/amp/Lifestyle/wireStory/aka-sorority-members-celebrate-kamala-harris-inauguration-75407163"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Lifestyle/wireStory/aka-sorority-members-celebrate-kamala-harris-inauguration-75407163"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Lifestyle/WireAP_7b5fa8ae6e0f4bdf9a8305a11105f665_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Kamala Harris to move temporarily to Blair House"
+    excerpt: "Vice President Kamala Harris and her husband, second gentleman Doug Emhoff, will temporarily move to Blair House, which is near the White House, before moving to the vice president's residence at the Naval Observatory,"
+    publishedDateTime: 2021-01-22T13:58:00Z
+    webUrl: "https://www.cbsnews.com/news/kamala-harris-blair-house-temporary/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-blair-house-temporary/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-blair-house-temporary/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 125
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/16/ea1b9def-eb19-449e-8f70-69d7c84d4e94/thumbnail/1200x630/908c085095406940af467ecbb9046eb5/gettyimages-1291300530.jpg"
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/21/003a28ee-4279-428f-af8e-ab12c9d7e59d/thumbnail/1200x630/8b259bbdad8330113e338918aef6330a/cbsn-fusion-kamala-harris-makes-history-as-first-woman-of-color-to-serve-as-vice-president-thumbnail-630545-640x360.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Trump explicitly rejected leading the US vaccine drive and is letting Mike Pence and congressional leaders do it instead"
-    excerpt: "Mike and Karen Pence are set to be vaccinated on live TV on Friday. President Donald Trump is conspicuously absent and isn't yet due to get a shot."
-    publishedDateTime: 2020-12-18T19:20:00Z
-    webUrl: "https://www.businessinsider.com/trump-declined-face-us-vaccine-drive-pence-instead-ap-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/trump-declined-face-us-vaccine-drive-pence-instead-ap-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-declined-face-us-vaccine-drive-pence-instead-ap-2020-12?amp"
+  - title: "Swearing-in of Vice President Kamala Harris inspires girls nationwide"
+    excerpt: "Parents around the country posted photos of their daughters watching Vice President Kamala Harris being sworn in as the first woman vice president."
+    publishedDateTime: 2021-01-21T23:54:00Z
+    webUrl: "https://abcnews.go.com/GMA/Family/swearing-vice-president-kamala-harris-inspires-girls-nationwide/story?id=75403098"
+    ampWebUrl: "https://goodmorningamerica.com/amp/family/story/swearing-vice-president-kamala-harris-inspires-girls-nationwide-75403098"
+    cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/family/story/swearing-vice-president-kamala-harris-inspires-girls-nationwide-75403098"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://i.insider.com/5fdc74a9d366e60018098d51?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://s.abcnews.com/images/GMA/children-pose-as-president-joe-biden-vice-president-kamala-harris-01-ht-llr-210121_1611251289996_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Twitter updates disclaimers on Trump election tweets to reflect the fact that Joe Biden is the winner of the presidential election"
-    excerpt: "Twitter will now include disclaimers that reflect Joe Biden is the President-elect on Trump tweets alleging election fraud."
-    publishedDateTime: 2020-12-20T10:30:00Z
-    webUrl: "https://www.businessinsider.com/twitter-updates-labels-trump-tweets-to-declare-joe-biden-winner-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/twitter-updates-labels-trump-tweets-to-declare-joe-biden-winner-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/twitter-updates-labels-trump-tweets-to-declare-joe-biden-winner-2020-12?amp"
+  - title: "House will send Trump impeachment article to Senate on Monday"
+    excerpt: "The House impeached President Donald Trump for \"incitement of insurrection\" on Jan. 13, making him the only president to be impeached twice."
+    publishedDateTime: 2021-01-22T18:51:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/22/trump-impeachment-article-arrives-senate-monday-setting-up-trial/6670285002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6670285002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6670285002"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: USA Today
+      domain: usatoday.com
     quality: 125
     images:
-      - url: "https://i.insider.com/5fdf197dc910a400192e8929?width=1200&format=jpeg"
+      - url: "https://www.gannett-cdn.com/presto/2021/01/06/USAT/7a666971-b86e-4b65-b05c-f6af832ac531-6599a583-0851-418d-a78d-a39a891df4d9_thumbnail.png?auto=webp&crop=479,270,x0,y0&format=pjpg&width=1200"
         width: 1200
-        height: 600
+        height: 676
         isCached: true
-  - title: "Time’s Person of the Year is Joe Biden and Kamala Harris, a ticket that ‘represents something historic’"
-    excerpt: "Joe Biden is the latest in a long line of presidents to be named Time's Person of the Year -- but Kamala Harris is the first vice-president to also receive the title."
-    publishedDateTime: 2020-12-11T04:58:00Z
-    webUrl: "https://www.washingtonpost.com/nation/2020/12/10/time-person-year-biden-harris/"
-    ampWebUrl: "https://www.washingtonpost.com/nation/2020/12/10/time-person-year-biden-harris/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/12/10/time-person-year-biden-harris/?outputType=amp"
+  - title: "Donald Trump's Inauguration Boycott Welcomed by Republicans and Democrats"
+    excerpt: "The president announced he will not attend ahead of his ban from Twitter, as a backlash grows against him over the recent events at the Capitol."
+    publishedDateTime: 2021-01-11T15:29:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-inauguration-boycott-welcomed-democrats-republicans-1560502"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-inauguration-boycott-welcomed-democrats-republicans-1560502?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-inauguration-boycott-welcomed-democrats-republicans-1560502?amp=1"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: Newsweek
+      domain: newsweek.com
     quality: 124
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5CVPI3RBOMI6XLKTJQP5USMQPU.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://d.newsweek.com/en/full/1702715/donald-trump-washington-dc-rally.jpg"
+        width: 2500
+        height: 1736
         isCached: true
-  - title: "Trump says he will leave the White House if the electoral college votes for Joe Biden"
-    excerpt: "President Trump said on Nov. 26, that he would leave the White House if the electoral college votes for Joe Biden on Dec. 14."
-    publishedDateTime: 2020-12-14T15:38:00Z
-    webUrl: "https://www.washingtonpost.com/video/politics/trump-says-he-will-leave-the-white-house-if-the-electoral-college-votes-for-joe-biden/2020/12/14/cacd2b05-6bb5-44f4-9d29-172a6e6e5499_video.html"
+  - title: "Vogue editor defends cover photo of US Vice-President-elect Kamala Harris"
+    excerpt: "US Vogue editor Anna Wintour has defended the magazine following criticism of its front-cover portrait of Vice-President-elect Kamala Harris. The image shows Ms Harris wearing an informal outfit including jeans and a pair of Converse trainers."
+    publishedDateTime: 2021-01-12T15:52:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-55631499"
+    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55631499"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55631499"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: BBC
+      domain: bbc.com
+    quality: 124
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/119F2/production/_116487127_kam_win_reu.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Mike Pence calls Kamala Harris to offer congratulations, assistance with transition"
+    excerpt: "It's the first known contact between the elected members of the outgoing and incoming administrations. President Donald Trump has not reached out to President-elect Joe Biden."
+    publishedDateTime: 2021-01-15T18:49:00Z
+    webUrl: "https://www.pbs.org/newshour/politics/mike-pence-calls-kamala-harris-to-offer-congratulations-assistance-with-transition"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 124
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2021/01/2021-01-14T222122Z_2072323780_RC2Y7L9QR3VX_RTRMADP_3_USA-BIDEN-INAUGURATION-SECURITY-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "The obscure constitutional provision hanging over Trump's post-presidency"
+    excerpt: "Section 3 of the 14th Amendment was referenced in the House's article of impeachment against former President Donald Trump."
+    publishedDateTime: 2021-01-22T11:04:00Z
+    webUrl: "https://www.cbsnews.com/news/14th-amendment-insurrection-rebellion-trump-post-presidency/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/14th-amendment-insurrection-rebellion-trump-post-presidency/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/14th-amendment-insurrection-rebellion-trump-post-presidency/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 124
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/21/9c1effdc-a4e8-4e73-8197-39465ce61e56/thumbnail/1200x630/8a5066168edc1263a3dd72b7f60a0b59/gettyimages-1230692812.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Mike Pence is still open to invoking 25th Amendment in the event Trump becomes more unstable, report says"
+    excerpt: "President Trump and Pence still have not spoken to each other since the US Capitol surge on Wednesday that left five people dead."
+    publishedDateTime: 2021-01-10T03:56:00Z
+    webUrl: "https://www.businessinsider.com/pence-has-not-ruled-out-invoking-25th-amendment-remove-trump-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/pence-has-not-ruled-out-invoking-25th-amendment-remove-trump-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pence-has-not-ruled-out-invoking-25th-amendment-remove-trump-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
     quality: 123
     images:
-      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/12-14-2020/t_6d1ba2c9cf6949e9ba5aa7a922fa3e1d_name_Trump_photo.png&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
-        width: 1484
-        height: 907
+      - url: "https://i.insider.com/5ffae4b6d184b30018aadf59?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Healthcare.gov open enrollment ends today. Obamacare seems to have survived Trump, may thrive under Biden."
-    excerpt: "A crush of sign-ups expected Tuesday on the last day of open enrollment for HealthCare.gov could help solidify the standing of Obamacare as an improbable survivor in the Donald Trump years."
-    publishedDateTime: 2020-12-15T15:52:00Z
-    webUrl: "https://www.chicagotribune.com/business/ct-biz-obamacare-aca-open-enollment-deadline-20201215-z53a34caprhjze22v6gjj2ke3y-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/business/ct-biz-obamacare-aca-open-enollment-deadline-20201215-z53a34caprhjze22v6gjj2ke3y-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/business/ct-biz-obamacare-aca-open-enollment-deadline-20201215-z53a34caprhjze22v6gjj2ke3y-story.html?outputType=amp"
+  - title: "Trump wishes new administration 'success' as Pence reveals he will skip president's farewell event – live"
+    excerpt: "White House releases Trump farewell address amid preparations for Biden inauguration – follow live"
+    publishedDateTime: 2021-01-19T20:55:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/19/joe-biden-inauguration-donald-trump-pardons-impeachment-covid-coronavirus-live-updates?page=with:block-600752f18f08db44cd79b3b3"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/19/joe-biden-inauguration-donald-trump-pardons-impeachment-covid-coronavirus-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/19/joe-biden-inauguration-donald-trump-pardons-impeachment-covid-coronavirus-live-updates"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
+      name: The Guardian
+      domain: theguardian.com
+    quality: 123
+    images:
+      - url: "https://i.guim.co.uk/img/media/a1a4bceb729611d0d95d3ef688922d058af24889/0_207_4187_2513/master/4187.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5343c109661e3db05eadff97d2c63804"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Capitol Police officer Eugene Goodman escorts Kamala Harris to inauguration"
+    excerpt: "Capitol Police Officer Eugene Goodman, who gained notoriety for luring a pro-Trump mob away from lawmakers at the deadly Jan."
+    publishedDateTime: 2021-01-20T16:18:00Z
+    webUrl: "https://thehill.com/homenews/news/535005-capitol-police-officer-eugene-goodman-escorting-kamala-harris-to-inauguration"
+    ampWebUrl: "https://thehill.com/homenews/news/535005-capitol-police-officer-eugene-goodman-escorting-kamala-harris-to-inauguration?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/news/535005-capitol-police-officer-eugene-goodman-escorting-kamala-harris-to-inauguration?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 123
+    images:
+      - url: "https://thehill.com/sites/default/files/screen_shot_2021-01-20_at_11.13.02_am.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Kamala Harris's Indian uncle plans US visit amid global celebrations for VP"
+    excerpt: "Gopalan Balachandran said he wants to celebrate with her in person once it’s safe to travel"
+    publishedDateTime: 2021-01-21T17:47:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/21/kamala-harris-india-uncle-gopalan-balachandran-visit-celebrations"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/21/kamala-harris-india-uncle-gopalan-balachandran-visit-celebrations"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/21/kamala-harris-india-uncle-gopalan-balachandran-visit-celebrations"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 123
+    images:
+      - url: "https://i.guim.co.uk/img/media/5a58267665441d9c25bcc09fc229ef6bdfeb593c/0_23_5374_3226/master/5374.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1f99051d74dabfa0b53a176e628e23b5"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Washington and state capitols brace for violence from armed Trump supporters"
+    excerpt: "Security beefed up across US following attack on Capitol while FBI monitoring threats of violence against Biden and Harris"
+    publishedDateTime: 2021-01-15T17:26:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/15/washington-us-state-capitols-threat-violence-trump"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/15/washington-us-state-capitols-threat-violence-trump"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/15/washington-us-state-capitols-threat-violence-trump"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
     quality: 122
     images:
-      - url: "https://www.chicagotribune.com/resizer/LUUj9hnzclSijcewkJivT6uENwQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/5AG6IPQSWLBK3XMPHLEBP2HE5M.jpg"
+      - url: "https://i.guim.co.uk/img/media/892d79fbaa87d84e20979a91178e71d3e1ea5683/0_88_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e5070c389f55db6e6c82337fe09ca189"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Live Updates: Biden heads to Washington as capital gears up for inauguration"
+    excerpt: "Washington — President-elect Joe Biden left his home state of Delaware on Tuesday to travel to Washington, where he will be sworn in as president of the United States at Wednesday's inauguration. In an emotional farewell to the state,"
+    publishedDateTime: 2021-01-19T20:26:00Z
+    webUrl: "https://www.cbsnews.com/live-updates/biden-trump-presidential-transition-2021-01-19/"
+    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/biden-trump-presidential-transition-2021-01-19/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/biden-trump-presidential-transition-2021-01-19/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 122
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/19/1eddd496-3081-40b0-935d-cdfbe1a4a653/thumbnail/1200x630g2/80ab0c0b7d2d6a29f31ed846941c7093/gettyimages-1230675824.jpg"
         width: 1200
-        height: 800
+        height: 630
         isCached: true
-  - title: "Senate OKs Trump pick for FCC, adding hurdle to Biden plans"
-    excerpt: "The Senate has narrowly approved President Donald Trump’s lame-duck nominee to become a member of the Federal Communications Commission, setting up the agency for a stretch of partisan gridlock likely to stymie President-elect Joe Biden’s policies."
-    publishedDateTime: 2020-12-09T02:29:00Z
-    webUrl: "https://www.businessinsider.com/senate-oks-trump-pick-for-fcc-adding-hurdle-to-biden-plans-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/senate-oks-trump-pick-for-fcc-adding-hurdle-to-biden-plans-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/senate-oks-trump-pick-for-fcc-adding-hurdle-to-biden-plans-2020-12?amp"
+  - title: "Trump joins a select few in skipping Biden's inauguration"
+    excerpt: "President Donald Trump’s decision to skip President-elect Joe Biden’s inauguration is not without precedent, though one must go back to Andrew Johnson in 1869 to find the most recent example."
+    publishedDateTime: 2021-01-09T10:09:00Z
+    webUrl: "https://www.businessinsider.com/trump-joins-a-select-few-in-skipping-bidens-inauguration-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/trump-joins-a-select-few-in-skipping-bidens-inauguration-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-joins-a-select-few-in-skipping-bidens-inauguration-2021-1?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
     quality: 120
-  - title: "Trump Team Proposes A Rule That Could Stall Biden's Health Care Agenda"
-    excerpt: "The rule would require Biden's team to review about 2,400 regulations on everything from Medicare benefits to prescription drug approvals. Those not analyzed within two years would become void."
-    publishedDateTime: 2020-12-09T10:00:00Z
-    webUrl: "https://www.npr.org/sections/health-shots/2020/12/09/944274246/trump-team-proposes-a-rule-that-could-stall-bidens-health-care-agenda"
+  - title: "Democrats call on Pence to invoke 25th Amendment to remove Trump"
+    excerpt: "Democrats plan to bring a resolution to the House floor calling on Vice President Mike Pence to invoke the 25th Amendment, which allows for the president to be removed from power with support from a majority of his Cabinet."
+    publishedDateTime: 2021-01-11T15:55:00Z
+    webUrl: "https://www.cbsnews.com/video/democrats-call-on-vp-pence-invoke-25th-amendment-to-remove-pres-trump/"
     type: article
     provider:
-      name: NPR
-      domain: npr.org
+      name: CBS News
+      domain: cbsnews.com
     quality: 120
     images:
-      - url: "https://media.npr.org/assets/img/2020/12/08/gettyimages-1229699554_wide-daab14bc4ec6d2ae1361a4b6db243e22b0316c10.jpg?s=1400"
-        width: 1400
-        height: 787
-        isCached: true
-  - title: "Despite Trump's venting and threats, Biden's win is sealed"
-    excerpt: "There’s plenty of noise but no cause for confusion as President Donald Trump vents about how the election turned out and vows to subvert it even still."
-    publishedDateTime: 2020-12-10T02:58:00Z
-    webUrl: "https://www.businessinsider.com/despite-trumps-venting-and-threats-bidens-win-is-sealed-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/despite-trumps-venting-and-threats-bidens-win-is-sealed-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/despite-trumps-venting-and-threats-bidens-win-is-sealed-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 120
-  - title: "Trump virus coordinator Birx seeks role in Biden government"
-    excerpt: "When Dr. Deborah Birx was brought into President Donald Trump’s orbit to help fight the coronavirus pandemic, she as a former U.S. Army physician, a globally recognized AIDS researcher and a rare Obama administration holdover."
-    publishedDateTime: 2020-12-10T13:51:00Z
-    webUrl: "https://www.businessinsider.com/trump-virus-coordinator-birx-seeks-role-in-biden-government-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/trump-virus-coordinator-birx-seeks-role-in-biden-government-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-virus-coordinator-birx-seeks-role-in-biden-government-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 120
-  - title: "Joe Biden, Kamala Harris Named Time Magazine’s ‘Person of the Year’"
-    excerpt: "Washington (AP) -- Time magazine has named President-elect Joe Biden and Vice President-elect Kamala Harris its “Person of the Year.”"
-    publishedDateTime: 2020-12-11T15:30:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-12-11/biden-harris-named-time-magazine-s-person-of-the-year"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 120
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/io33.CAsO3A4/v1/1200x800.jpg"
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/11/442d26dd-0ce9-4f39-b3a9-93413b58ec83/thumbnail/1200x630/33b48a7c7ce47ddffd3a4d8668548132/cbsn-fusion-democrats-call-on-vp-pence-invoke-25th-amendment-to-remove-pres-trump-thumbnail-624336-640x360.jpg"
         width: 1200
-        height: 800
+        height: 630
         isCached: true
-  - title: "Joe Biden, Kamala Harris Named 'Time' Person Of The Year"
-    excerpt: "The two made the cut after topping Time's shortlist that included President Trump, the movement for racial justice, Dr. Anthony Fauci and medical workers on the frontline of COVID-19."
-    publishedDateTime: 2020-12-11T11:22:00Z
-    webUrl: "https://www.npr.org/2020/12/11/945335705/joe-biden-kamala-harris-named-time-person-of-the-year"
+  - title: "Pence yet to speak to Trump in days following attack on Capitol"
+    excerpt: "Sources tell CBS News that Vice President Mike Pence has not spoken to President Trump since the attack on the Capitol building. Pence has also not yet responded to Democrats' calls to invoke the 25th amendment to remove Mr."
+    publishedDateTime: 2021-01-11T09:30:00Z
+    webUrl: "https://www.cbsnews.com/video/pence-yet-to-speak-to-trump-in-days-following-capitol-attack/"
     type: article
     provider:
-      name: NPR
-      domain: npr.org
+      name: CBS News
+      domain: cbsnews.com
     quality: 120
     images:
-      - url: "https://media.npr.org/assets/img/2020/12/11/ap_20313064617669_wide-5f65fc195ce9ef17757a67a76e383a39b532cfb8.jpg?s=1400"
-        width: 1400
-        height: 787
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/09/ea45c84d-5bdd-499f-91b6-6e0ef461cb23/thumbnail/1200x630/4459793d78f566d1cab1868f82f029fe/cbsn-fusion-wh-vice-president-pence-yet-to-speak-to-president-trump-in-days-following-attack-on-capitol-thumbnail-623601-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "President-elect Biden and Vice President-elect Harris named Time's 2020 Person of the Year"
-    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris were collectively chosen as Time Magazine's Person of the Year for 2020."
-    publishedDateTime: 2020-12-11T14:42:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/12/11/joe-biden-and-kamala-harris-named-times-person-year-2020/3893626001/"
+  - title: "House urges Pence to help oust Trump"
+    excerpt: "The US House on Tuesday night approved a resolution urging Vice President Mike Pence to invoke the 25th Amendment to the Constitution to remove President Donald Trump from office with a Cabinet vote."
+    publishedDateTime: 2021-01-13T06:14:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/01/13/house-urges-pence-help-oust-trump/6651402002/"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
     quality: 120
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/11/USAT/fd9bbdc5-ff98-464f-8bd0-c8dc14851bf4-VPC_2020_TIME_PEOPLE_OF_THE_YEAR_DESK_THUMB.jpg?quality=10"
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/113e555e-79b3-4378-bd8d-542bf5c61558_poster.jpg?quality=10"
         width: 1920
         height: 1080
         isCached: true
-  - title: "Electoral College to affirm Biden's victory as Trump remains defiant"
-    excerpt: "President-elect Joe Biden will be one step closer to the White House as members of the Electoral College meet today to affirm his victory. However, President Trump continues to refuse to accept the election results."
-    publishedDateTime: 2020-12-14T14:54:00Z
-    webUrl: "https://www.cbsnews.com/video/electoral-college-to-affirm-bidens-victory-trump-legal-fight/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 120
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/14/8ced5e6f-ca33-40c4-82b0-4bceaa4ea7b3/thumbnail/1200x630/d47bea47058534e93ae4536bee06abce/cbsn-fusion-members-of-electoral-college-to-affirm-bidens-victory-as-trump-forges-ahead-with-legal-efforts-thumbnail-608942-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Electoral College confirms Biden's win over Trump"
-    excerpt: "World Electoral College confirms Biden's win over Trump. Posted . Democrat Joe Biden on Monday won the state-by-state Electoral College vote that formally determines the U.S. pres"
-    publishedDateTime: 2020-12-15T01:22:00Z
-    webUrl: "https://www.reuters.com/video/watch/electoral-college-confirms-bidens-win-ov-id723067968?chan=8gwsyvzx"
+  - title: "U.S. House urges Pence to start process of removing Trump from office"
+    excerpt: "The U.S. House of Representatives on Tuesday voted to urge Vice President Mike Pence to start the U.S. Constitution's 25th Amendment process of removing President Donald Trump from office, although the vice president already has said he will not do so."
+    publishedDateTime: 2021-01-13T13:53:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-house-passed/u-s-house-urges-pence-to-start-process-of-removing-trump-from-office-idUSKBN29I0ET"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 120
     images:
-      - url: "https://static.reuters.com/resources/r/?d=20201215&i=OVD8ZIRU3&r=OVD8ZIRU3&t=2"
-        width: 960
-        height: 540
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210113&t=2&i=1547604300&r=LYNXMPEH0C0CC&w=800"
+        width: 800
+        height: 533
         isCached: true
-  - title: "Electoral College makes it official: Biden won, Trump lost"
-    excerpt: "The Electoral College decisively confirmed Joe Biden on Monday as the nation’s next president, ratifying his November victory in an authoritative state-by-state repudiation of President Donald Trump’s refusal to concede he had lost."
-    publishedDateTime: 2020-12-15T11:54:00Z
-    webUrl: "https://www.businessinsider.com/electoral-college-makes-it-official-biden-won-trump-lost-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/electoral-college-makes-it-official-biden-won-trump-lost-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/electoral-college-makes-it-official-biden-won-trump-lost-2020-12?amp"
+  - title: "The impact President Trump's impeachment could have on Biden's agenda"
+    excerpt: "CBS News political contributors Robby Mook and Terry Sullivan join \"CBS This Morning\" to discuss whether the impeachment trial of President Trump could impact President-elect Joe Biden's agenda. Plus,"
+    publishedDateTime: 2021-01-15T14:06:00Z
+    webUrl: "https://www.cbsnews.com/video/the-impact-president-trumps-impeachment-could-have-on-bidens-agenda/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 120
-  - title: "Trump ally congratulates Biden, White House talks 'ongoing litigation'"
-    excerpt: "But when speaking to reporters later on, White House press secretary Kayleigh McEnany referred to \"ongoing litigation\" over the election. The electoral college formally confirmed Joe Biden's victory over Donald Trump on Monday."
-    publishedDateTime: 2020-12-16T06:07:00Z
-    webUrl: "https://www.bbc.com/news/av/election-us-2020-55326989"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
+      name: CBS News
+      domain: cbsnews.com
     quality: 120
     images:
-      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p01tlf61.jpg"
-        width: 400
-        height: 225
-        isCached: true
-  - title: "Mike Pence to receive the COVID-19 vaccine publicly Friday; Joe Biden will get vaccinated as soon as next week"
-    excerpt: "President-elect Joe Biden and Vice President Mike Pence are set to receive the COVID-19 vaccine soon. According to two transition officials familiar with the matter, Biden will receive the vaccine publicly as early as next week."
-    publishedDateTime: 2020-12-17T01:58:00Z
-    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-coronavirus-vaccine-updates-20201216-c6tg5amn4falrjgbtn3qz6ecbu-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-coronavirus-vaccine-updates-20201216-c6tg5amn4falrjgbtn3qz6ecbu-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-coronavirus-vaccine-updates-20201216-c6tg5amn4falrjgbtn3qz6ecbu-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 120
-    images:
-      - url: "https://www.chicagotribune.com/resizer/hYN6EUFAOTPNMejHaG53Z3Ee8s4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/HCKIMEA6QG5AJ3X3SLM52NSIDE.aspx"
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/15/332d8909-f5ee-416d-bd2c-2a8ea83d5d1b/thumbnail/1200x630/fab852e28e8c7a68d382085732290a21/cbsn-fusion-the-impact-president-trumps-impeachment-could-have-on-bidens-agenda-thumbnail-627054-640x360.jpg"
         width: 1200
-        height: 800
+        height: 630
         isCached: true
-  - title: "Biden and lawmakers raise alarms over cyber-breach amid Trump silence"
-    excerpt: "The president’s muted response to an organized hacking attack on the U.S. government marks the latest example of his persistent reluctance to criticize Russia."
-    publishedDateTime: 2020-12-18T00:47:00Z
-    webUrl: "https://www.washingtonpost.com/politics/russia-hacking-politics/2020/12/17/1c5708c6-40a4-11eb-8db8-395dedaaa036_story.html"
+  - title: "Kamala Harris sworn in as US’s first female, Black and south Asian vice-president"
+    excerpt: "Former senator sworn by Justice Sonia Sotomayor using two Bibles from the late Thurgood Marshall and family friend Regina Shelton"
+    publishedDateTime: 2021-01-20T15:42:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/20/kamala-harris-sworn-in-vice-president"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/20/kamala-harris-sworn-in-vice-president"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/20/kamala-harris-sworn-in-vice-president"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
+    images:
+      - url: "https://i.guim.co.uk/img/media/28a567b24ecd3e8ea5c09c1752fac45220eb818c/0_52_1913_1149/master/1913.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8346193b537a759d466d96ce0cda7815"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "WATCH LIVE: Inauguration of Joe Biden and Kamala Harris"
+    excerpt: "WASHINGTON (AP) — President-elect Joe Biden will deliver an appeal to national unity when he is sworn in Wednesday and plans immediate moves to combat the coronavirus pandemic and undo some of President Donald Trump’s most controversial policies,"
+    publishedDateTime: 2021-01-19T16:20:00Z
+    webUrl: "https://www.pbs.org/newshour/politics/watch-live-inauguration-of-joe-biden-and-kamala-harris"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 120
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2021/01/2021-01-19T150736Z_629169426_RC23BL9UPZJE_RTRMADP_3_USA-BIDEN-INAUGURATION-1024x684.jpg"
+        width: 1024
+        height: 684
+        isCached: true
+  - title: "As Trump exits Washington, he tells modest crowd, ‘We will be back in some form’"
+    excerpt: "The outgoing president, skipping Biden’s inauguration, planned a grand military send-off but only a few hundred people showed up to see him depart."
+    publishedDateTime: 2021-01-21T04:07:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-leaves-white-house/2021/01/20/bb561da4-5a9e-11eb-b8bd-ee36b1cd18bf_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-leaves-white-house/2021/01/20/bb561da4-5a9e-11eb-b8bd-ee36b1cd18bf_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-leaves-white-house/2021/01/20/bb561da4-5a9e-11eb-b8bd-ee36b1cd18bf_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
     quality: 120
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https%3A%2F%2Farc-anglerfish-washpost-prod-washpost%252Es3%252Eamazonaws%252Ecom%2Fpublic%2F6KBHERR7YMI6XNMLCYR7MJTZMA%252Ejpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KDCAUQS3EQI6XKCJN6KCHJ277U.jpg&w=1440"
         width: 1440
-        height: 960
-        isCached: true
-  - title: "Biden says he will 'not stand idly by' on the massive US cyberattack that Trump hasn't bothered to address yet"
-    excerpt: "Biden's strong statement stood in sharp contrast to Trump's silence on the SolarWinds hack that compromised hundreds of US entities."
-    publishedDateTime: 2020-12-17T22:33:00Z
-    webUrl: "https://www.businessinsider.com/biden-statement-solarwinds-cyberattack-trump-russia-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/biden-statement-solarwinds-cyberattack-trump-russia-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-statement-solarwinds-cyberattack-trump-russia-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 120
-    images:
-      - url: "https://i.insider.com/5fd286912dc42e0018f0e471?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+        height: 1097
         isCached: true
   - title: "Photographs From the Inauguration Of Joe Biden and Kamala Harris"
     excerpt: "Jan. 20 began on a much more somber note than Joe Biden could have predicted for the day he would finally become President of"
@@ -1584,89 +1126,99 @@ related:
         width: 2400
         height: 1665
         isCached: true
-  - title: "The Latest: Mike Pence arrives at Joe Biden’s inaugural"
-    excerpt: "The Latest on Joe Biden's presidential inauguration (all times local): 11:10 a.m. Vice President Mike Pence has arrived at the inauguration of President-Elect"
-    publishedDateTime: 2021-01-20T16:19:00Z
-    webUrl: "https://apnews.com/article/joe-biden-inauguration-news-0a49b6d8b3c9904d88d5bccfd854ab25/gallery/f9fc4dd896e3409d897ab46a5ce8de60"
+  - title: "The Internet loved seeing Eugene Goodman escort Kamala Harris to the inauguration"
+    excerpt: "Eugene Goodman is a Capitol Police officer who diverted a mob during the insurrection on the Capitol. Goodman has since been promoted and escorted Vice President Harris to the inauguration. Since Capitol Police officer Eugene Goodman risked his own safety to divert a mob from the Senate chamber during the insurrection at the United States Capitol,"
+    publishedDateTime: 2021-01-21T16:16:00Z
+    webUrl: "https://thehill.com/changing-america/enrichment/arts-culture/535205-the-internet-loved-seeing-eugene-goodman-escort"
+    ampWebUrl: "https://thehill.com/changing-america/enrichment/arts-culture/535205-the-internet-loved-seeing-eugene-goodman-escort?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/enrichment/arts-culture/535205-the-internet-loved-seeing-eugene-goodman-escort?amp"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: The Hill
+      domain: thehill.com
     quality: 120
     images:
-      - url: "https://storage.googleapis.com/afs-prod/media/5778b713a90b4512b9d50e26eb6f6d5b/3000.jpeg"
-        width: 3000
-        height: 2000
+      - url: "https://thehill.com/sites/default/files/ca_goodman_getty_0.jpg"
+        width: 1440
+        height: 880
         isCached: true
-  - title: "Biden, Harris get virtual tour of Arizona vaccination site"
-    excerpt: "President Joe Biden and Vice President Kamala Harris got a virtual tour Monday of a federally funded, mass vaccination site in Arizona, but they did not address the"
-    publishedDateTime: 2021-02-08T22:50:00Z
-    webUrl: "https://apnews.com/article/joe-biden-arizona-health-coronavirus-pandemic-doug-ducey-2f3a8457e1d7941ebec31acf5b96cfee/gallery/7cd793a8bcdf402eac2091ecc15d94b9"
+  - title: "Surrounded by shrinking circle of aides, a brooding Trump lays into Pence"
+    excerpt: "U.S. President Donald Trump has increasingly isolated himself in the White House, relying on a small group of diehard loyalists and lashing out at those who dare to cross him, including Vice President Mike Pence,"
+    publishedDateTime: 2021-01-08T15:04:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump/surrounded-by-a-shrinking-circle-of-aides-a-brooding-trump-lays-into-pence-idUKKBN29C2RE?edition-redirect=uk"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 120
-    images:
-      - url: "https://storage.googleapis.com/afs-prod/media/7cd793a8bcdf402eac2091ecc15d94b9/3000.jpeg"
-        width: 3000
-        height: 1957
-        isCached: true
-  - title: "Biden's son faces investigation over taxes as Trump joins Texas lawsuit that aims to overturn election"
-    excerpt: "President-elect Joe Biden's son Hunter Biden is facing a federal investigation into his tax records. Meanwhile, President Trump is focusing on overturning the election, joining a lawsuit brought to the Supreme Court by Texas' attorney general that seeks to invalidate ballots from four battleground states won by the president-elect."
-    publishedDateTime: 2020-12-11T02:19:00Z
-    webUrl: "https://www.cbsnews.com/video/bidens-son-faces-investigation-over-taxes-as-trump-joins-texas-lawsuit-that-aims-to-overturn-election/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
+      name: Reuters
+      domain: reuters.com
     quality: 119
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/10/83201186-b73a-4c3f-b8f4-06fcd8a17a7a/thumbnail/1200x630/fd02cc31f7b19bfec0078067f01862d6/cbsn-fusion-bidens-son-faces-investigation-over-taxes-as-trump-joins-texas-lawsuit-that-aims-to-overturn-election-thumbnail-605835-640x360.jpg"
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210108&t=2&i=1547078766&r=LYNXMPEH061DK&w=800"
+        width: 800
+        height: 557
+        isCached: true
+  - title: "Joe Biden calls the president ‘unfit,’ defers to Congress on impeachment; Trump says he’ll skip the inauguration"
+    excerpt: "WASHINGTON — President-elect Joe Biden said Friday that President Donald Trump isn’t “fit for the job,” but he repeatedly refused to endorse growing Democratic calls to impeach him a second time. House Speaker Nancy Pelosi said in a letter to members of her chamber that lawmakers could move as early as next week to impeach Trump for inciting a violent mob that overran the U."
+    publishedDateTime: 2021-01-08T23:49:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-trump-capitol-updates-20210108-6xu3lcif7ng6nchhcj5vxna3cq-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-trump-capitol-updates-20210108-6xu3lcif7ng6nchhcj5vxna3cq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-trump-capitol-updates-20210108-6xu3lcif7ng6nchhcj5vxna3cq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 119
+    images:
+      - url: "https://www.chicagotribune.com/resizer/oHpYqUUDO4lL12X_8UcuSL73-8Q=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/W4QN74LVSPX4XQRJ3CLGU75L3M.aspx"
         width: 1200
-        height: 630
+        height: 800
         isCached: true
-  - title: "Why Time chose Joe Biden and Kamala Harris as its 2020 Person of the Year"
-    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris have been named Time magazine's 2020 Person of the Year. The magazine also honored frontline health workers, the organizers of the racial justice movement,"
-    publishedDateTime: 2020-12-11T21:22:00Z
-    webUrl: "https://www.cbsnews.com/video/time-2020-person-of-the-year-joe-biden-kamala-harris/"
+  - title: "Trump wishes new administration 'success' as Pence reveals he will skip outgoing president's farewell event – live"
+    excerpt: "White House releases Trump farewell address amid preparations for Biden inauguration – follow live"
+    publishedDateTime: 2021-01-19T20:31:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/19/joe-biden-inauguration-donald-trump-pardons-impeachment-covid-coronavirus-live-updates?page=with:block-60074c6a8f081bab84f5627c"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/19/joe-biden-inauguration-donald-trump-pardons-impeachment-covid-coronavirus-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/19/joe-biden-inauguration-donald-trump-pardons-impeachment-covid-coronavirus-live-updates"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 119
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/11/3f13c3fb-2b3c-4aac-9135-ecdd011688a9/thumbnail/1200x630/56cf491e9a2940cbcde9caa141d20be0/cbsn-fusion-time-2020-person-of-the-year-joe-biden-kamala-harris-thumbnail-606617-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "President-elect Joe Biden blames President Donald Trump for cyber attack"
-    excerpt: "President-elect Biden told reporters that the cyber attack on private and federal offices was a failure of the Trump Administration."
-    publishedDateTime: 2020-12-22T21:05:00Z
-    webUrl: "https://www.usatoday.com/videos/news/politics/2020/12/22/president-elect-biden-blames-trump-administration-cyber-attack/4015075001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 119
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/22/USAT/29e2e28a-436b-4836-b037-75a63080d5a2-VPC_BIDEN_DESK.00_00_23_21.Still003.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "California delivers Electoral College victory for Joe Biden, Kamala Harris"
-    excerpt: "President Trump’s unfounded claims of election fraud were ignored Monday as California delivered Joe Biden the Electoral College votes that put him over the 270 he needed to clinch the presidency."
-    publishedDateTime: 2020-12-15T09:42:00Z
-    webUrl: "https://www.houstonchronicle.com/politics/article/California-delivers-Electoral-College-victory-for-15801622.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
+      name: The Guardian
+      domain: theguardian.com
     quality: 118
     images:
-      - url: "https://s.hdnux.com/photos/01/15/61/01/20385910/11/rawImage.jpg"
-        width: 2048
-        height: 1365
+      - url: "https://i.guim.co.uk/img/media/a1a4bceb729611d0d95d3ef688922d058af24889/0_207_4187_2513/master/4187.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5343c109661e3db05eadff97d2c63804"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Trump expected to issue pardons on last day as president while Senate set to reconvene"
+    excerpt: "President Trump plans to spend his last full day in office on Tuesday issuing 100 pardons or commutations, a senior administration official and a senior White House official tell CBS News. Meanwhile,"
+    publishedDateTime: 2021-01-19T11:45:00Z
+    webUrl: "https://www.cbsnews.com/live-updates/trump-pardons-capitol-security-inauguration/"
+    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/trump-pardons-capitol-security-inauguration/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/trump-pardons-capitol-security-inauguration/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 117
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/19/780b0eb7-ef1b-472b-989e-50607be45824/thumbnail/1200x630/2bfa0e05a76d1a6da16f7c53a8079505/gettyimages-1230547965.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Fact check: Kamala Harris did rest her hand on the Bible when sworn in as vice president"
+    excerpt: "Users on social media are making the claim that U.S. Vice President Kamala Harris did not place her hand on the Bible but on a purse or a glove when sworn in on Jan. 20, invalidating her oath. This is false,"
+    publishedDateTime: 2021-01-22T19:56:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-harris-bible-not-purse-idUSKBN29R1U6"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29R1U6"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29R1U6"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 116
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210122&t=2&i=1548722692&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0L10C"
+        width: 832
+        height: 545
         isCached: true
   - title: "Pence to attend Biden-Harris inauguration"
     excerpt: "The vice president will be there during the transfer of power, but President Trump has already said he'll skip the swearing-in."
@@ -1684,313 +1236,681 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "Trump is already considering axing his new attorney general if he won't agree to a special counsel probe into Hunter Biden"
-    excerpt: "Trump is reportedly determined to launch a special counsel probe into Hunter Biden's tax affairs, with only weeks before Joe Biden takes office."
-    publishedDateTime: 2020-12-16T12:21:00Z
-    webUrl: "https://www.businessinsider.com/trump-discussing-firing-barrs-successor-as-attorney-general-report-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/trump-discussing-firing-barrs-successor-as-attorney-general-report-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-discussing-firing-barrs-successor-as-attorney-general-report-2020-12?amp"
+  - title: "Blended families see themselves in Kamala Harris as she becomes 1st stepmom vice president"
+    excerpt: "When Kamala Harris takes the oath of office Wednesday to become vice president, she will be the first woman and first woman of color to serve in that elected position. Harris will also make ..."
+    publishedDateTime: 2021-01-19T09:08:00Z
+    webUrl: "https://abcnews.go.com/GMA/Family/blended-families-kamala-harris-1st-stepmom-vice-president/story?id=75279319"
+    ampWebUrl: "https://goodmorningamerica.com/amp/family/story/blended-families-kamala-harris-1st-stepmom-vice-president-75279319"
+    cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/family/story/blended-families-kamala-harris-1st-stepmom-vice-president-75279319"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 115
+    images:
+      - url: "https://s.abcnews.com/images/GMA/kamala-harris-family-ht-jt-210115_1610729255950_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Kamala Harris was escorted at the inauguration by heroic Capitol Police officer Eugene Goodman"
+    excerpt: "Goodman single-handedly led a crowd of insurrectionists away from the Senate chamber during the riot at the Capitol."
+    publishedDateTime: 2021-01-21T00:17:00Z
+    webUrl: "https://www.businessinsider.com/kamala-harris-escorted-by-hero-capitol-police-officer-eugene-goodman-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/kamala-harris-escorted-by-hero-capitol-police-officer-eugene-goodman-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kamala-harris-escorted-by-hero-capitol-police-officer-eugene-goodman-2021-1?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 114
+    quality: 113
     images:
-      - url: "https://i.insider.com/5fd9e0ce1803a80018adfb4b?width=1200&format=jpeg"
+      - url: "https://i.insider.com/600850c5660f6c0018349f3a?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Biden chief of staff Ron Klain faults Trump administration for mixed messages on hack"
-    excerpt: "Ron Klain, the incoming White House chief of staff, says the government needs to present a united front in responding to the recent cyberattack."
-    publishedDateTime: 2020-12-20T16:40:00Z
-    webUrl: "https://www.cbsnews.com/video/biden-chief-of-staff-ron-klain-faults-trump-administration-for-mixed-messages-on-hack/"
+  - title: "Kamala Harris won't be moving into vice president's residence at Naval Observatory immediately"
+    excerpt: "Vice presidents since Vice President Walter Mondale have been living in the residence at the Naval Observatory in Washington, D.C."
+    publishedDateTime: 2021-01-21T05:39:00Z
+    webUrl: "https://www.cbsnews.com/news/kamala-harris-wont-be-moving-into-vice-presidents-residence-immediately/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-wont-be-moving-into-vice-presidents-residence-immediately/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-wont-be-moving-into-vice-presidents-residence-immediately/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 113
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/20/3eef76fc-969f-4c20-b0b6-fd327d047abe/thumbnail/1200x630/39c167e4f0d33c94267106126c6da848/1220-ftn-klain-613088-640x360.jpg"
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/21/148495a4-3240-4dc0-8427-641d12f7e7a7/thumbnail/1200x630/991e9902f84e80b7f0fe3aeb916af9b7/ap-18075519617702.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Fact check: CNN did not report that Trump would likely get a second term in office weeks after declaring Biden President-elect"
-    excerpt: "Days before the Electoral College voted for president and vice president of the United States, social media users had been sharing posts claiming CNN reported that outgoing President Donald Trump “will likely get his second term."
-    publishedDateTime: 2020-12-16T15:46:00Z
-    webUrl: "https://www.reuters.com/article/uk-fact-check-cnn-did-not-report-trump-w-idUSKBN28Q23S"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28Q23S"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28Q23S"
+  - title: "“Vice President Kamala Harris,” a Los Angeles Times Special Edition Magazine, is on Newsstands Now"
+    excerpt: "The Los Angeles Times has published a commemorative magazine, “Vice President Kamala Harris,” in advance of the inauguration of the first American woman ever to hold the office. Harris has made a meteoric ascent in American politics – from Bay Area prosecutor to vice president-elect – and The Times has covered her every step of the way."
+    publishedDateTime: 2021-01-11T23:31:00Z
+    webUrl: "https://www.latimes.com/about/pressreleases/story/2021-01-11/vice-president-kamala-harris-a-los-angeles-times-special-edition-magazine-is-on-newsstands-now"
+    ampWebUrl: "https://www.latimes.com/about/pressreleases/story/2021-01-11/vice-president-kamala-harris-a-los-angeles-times-special-edition-magazine-is-on-newsstands-now?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/about/pressreleases/story/2021-01-11/vice-president-kamala-harris-a-los-angeles-times-special-edition-magazine-is-on-newsstands-now?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 111
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/502e1ad/2147483647/strip/true/crop/6394x4176+0+152/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F94%2F48%2F45db9c4f4017bbe87015d2c06585%2Fla-photos-1staff-515220-la-me-strawberry-farmers-oxnard5-mam.jpg"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "In farewell address, Trump urges prayers for next administration without mentioning Biden"
+    excerpt: "U.S. President Donald Trump, in a farewell address released on Tuesday, urged prayers for the new administration of President-elect Joe Biden but declined to acknowledge his Democratic successor by name."
+    publishedDateTime: 2021-01-20T04:05:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-farewell/in-farewell-address-trump-urges-prayers-for-next-administration-without-mentioning-biden-idUSKBN29O2I8"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 112
+    quality: 111
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201216&t=2&i=1544768094&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBF14U"
-        width: 818
-        height: 545
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548363053&r=LYNXMPEH0I1LZ&w=800"
+        width: 800
+        height: 533
         isCached: true
-  - title: "Fauci says vaccinate Biden, Harris, Trump, Pence"
-    excerpt: "Dr. Anthony S. Fauci said it was his “strong recommendation” that President-elect Joseph R. Biden Jr. and Vice President-elect Kamala Harris receive a COVID-19 vaccine quickly."
-    publishedDateTime: 2020-12-15T23:12:00Z
-    webUrl: "https://www.bostonglobe.com/2020/12/15/nation/fauci-says-vaccinate-biden-harris-trump-pence/"
+  - title: "Doug Emhoff, Kamala Harris’s husband, is making history as America’s first male vice-presidential spouse"
+    excerpt: "The arrival of Doug Emhoff in Washington, alongside his wife, Vice President-elect Kamala D. Harris, upends two and a half centuries of American precedent and morphs the what-ifs of previous men who might have become presidential or vice-presidential spouses into what-now?"
+    publishedDateTime: 2021-01-11T21:19:00Z
+    webUrl: "https://www.washingtonpost.com/lifestyle/style/doug-emhoff-kamala-harris-husband/2021/01/11/30ec038a-50e5-11eb-83e3-322644d82356_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/lifestyle/style/doug-emhoff-kamala-harris-husband/2021/01/11/30ec038a-50e5-11eb-83e3-322644d82356_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/style/doug-emhoff-kamala-harris-husband/2021/01/11/30ec038a-50e5-11eb-83e3-322644d82356_story.html?outputType=amp"
     type: article
     provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 110
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 108
     images:
-      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/j-OFaLhPe5lpOz2HmzITsXkCgsA=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/4YJNFXV4KZFE5MPQ6632P6WCG4.jpg"
-        width: 506
-        height: 285
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4ZNL5FSK4YI6XA42Z5F2PN6ERQ.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "Federal judge rejects Trump campaign lawsuit seeking to overturn Joe Biden’s win in Wisconsin"
-    excerpt: "Federal judge rejects Trump campaign lawsuit seeking to overturn Joe Biden’s win in Wisconsin."
-    publishedDateTime: 2020-12-13T12:01:00Z
-    webUrl: "https://apnews.com/article/joe-biden-north-america-national-courts-national-governments-lawsuits-33d2da562964c11cfc96c27b7c25af19"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 109
-    images:
-      - url: "https://apnews.com/images/ShareLogo2.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Arizona Trump fans posed as electors to submit a document trying to seize the state's 11 votes for him instead of Biden, report says"
-    excerpt: "The group styled themselves as 'electors' in Arizona and filed a document to grant President Trump the state's 11 votes, even though he lost there."
-    publishedDateTime: 2020-12-15T14:25:00Z
-    webUrl: "https://www.businessinsider.com/arizona-pro-trump-group-fake-election-certificate-overturn-biden-win-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/arizona-pro-trump-group-fake-election-certificate-overturn-biden-win-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/arizona-pro-trump-group-fake-election-certificate-overturn-biden-win-2020-12?amp"
+  - title: "'Kamala's Way': A new biography explores how Harris played Trump's game, using confidence and unapologetic ambition to grab the spotlight"
+    excerpt: "Read an exclusive excerpt by author Dan Morain that detail Harris' journey from attorney general to dynamic senator to the first female VP."
+    publishedDateTime: 2021-01-15T02:14:00Z
+    webUrl: "https://www.businessinsider.com/kamalas-way-read-an-excerpt-from-kamala-harris-new-biography-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/kamalas-way-read-an-excerpt-from-kamala-harris-new-biography-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kamalas-way-read-an-excerpt-from-kamala-harris-new-biography-2021-1?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 109
-    images:
-      - url: "https://i.insider.com/5fd8b8232069f400194c7c8e?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Coronavirus live news: GPs in England to start vaccinations; Trump says he is not scheduled to take vaccine"
-    excerpt: "Trump, Pence and other officials to be offered vaccine starting Monday; Although Trump has had Covid, his getting vaccinated is meant to inspire confidence in vaccine’s safety"
-    publishedDateTime: 2020-12-14T08:50:00Z
-    webUrl: "https://www.theguardian.com/world/live/2020/dec/14/coronavirus-live-news-us-nears-300000-deaths-trump-to-be-offered-vaccine-on-monday?page=with:block-5fd71f8a8f08b0a99da95668"
-    ampWebUrl: "https://amp.theguardian.com/world/live/2020/dec/14/coronavirus-live-news-us-nears-300000-deaths-trump-to-be-offered-vaccine-on-monday"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/14/coronavirus-live-news-us-nears-300000-deaths-trump-to-be-offered-vaccine-on-monday"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
     quality: 107
     images:
-      - url: "https://i.guim.co.uk/img/media/55238c6b9727cbd5a625e9759a509f2eae1622fa/0_134_4032_2419/master/4032.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=321584780e13a124f2a542f239cd6915"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Here's how the GSA plans to disinfect the White House between Trump's departure and Biden's arrival"
-    excerpt: "The Trump White House has been a hot spot for coronavirus infections. Joe Biden and his team will want to clean up before moving in."
-    publishedDateTime: 2020-12-09T12:14:00Z
-    webUrl: "https://www.businessinsider.com/biden-white-house-inauguration-trump-coronavirus-disinfection-2020-12"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 106
-    images:
-      - url: "https://i.insider.com/5fc827f450e71a001155893f?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5ffe08d3a8de7700187d37a6?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "The Latest: Biden: Moment calls for waiver for defense pick"
-    excerpt: "WASHINGTON (AP) — The Latest on (all times local):"
-    publishedDateTime: 2020-12-09T21:19:00Z
-    webUrl: "https://www.businessinsider.com/the-latest-biden-moment-calls-for-waiver-for-defense-pick-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/the-latest-biden-moment-calls-for-waiver-for-defense-pick-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/the-latest-biden-moment-calls-for-waiver-for-defense-pick-2020-12?amp"
+  - title: "Kamala Harris dissolving PACs, giving money to charity"
+    excerpt: "Vice President-elect Kamala Harris is dissolving her political fundraising committees as she prepares for her inauguration with President-elect Joe Biden on Jan. 20, giving leftover money to California charities."
+    publishedDateTime: 2021-01-08T12:41:00Z
+    webUrl: "https://www.houstonchronicle.com/politics/article/Kamala-Harris-dissolving-PACs-giving-money-to-15856086.php"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "Trump loses Wis. lawsuit in latest legal defeat"
-    excerpt: "President Donald Trump has lost a Wisconsin lawsuit seeking to disqualify more than 221,000 ballots and overturn his loss to Democrat Joe Biden in the battleground state. (Dec. 11)"
-    publishedDateTime: 2020-12-11T19:22:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/12/11/trump-loses-wis-lawsuit-latest-legal-defeat/6510166002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
+      name: Houston Chronicle
+      domain: houstonchronicle.com
     quality: 105
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/42d63cf4-bb12-4b19-8e4d-8ed99c6dc512_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://s.hdnux.com/photos/01/14/71/53/20159178/11/rawImage.jpg"
+        width: 2048
+        height: 1396
         isCached: true
-  - title: "Who will replace Kamala D. Harris in the Senate?"
-    excerpt: "The Post’s Scott Wilson explains how California Gov. Gavin Newsom (D) faces pressure to appoint a Latino or Black woman to Vice President-elect Kamala D. Harris’s senate seat."
-    publishedDateTime: 2020-12-11T22:16:00Z
-    webUrl: "https://www.washingtonpost.com/video/politics/who-will-replace-kamala-d-harris-in-the-senate/2020/12/11/4c8bbd38-cb48-4a42-9921-48d05cda087b_video.html"
+  - title: "U.S. House Democrats to introduce Trump impeachment article on Monday"
+    excerpt: "Democrats in the U.S. House of Representatives will introduce legislation on Monday urging the impeachment of President Donald Trump, Representative Ted Lieu said on Saturday."
+    publishedDateTime: 2021-01-10T05:34:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump-congress-impeachment-idUSKBN29E0OZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210110&t=2&i=1547238775&r=LYNXMPEH080FJ&w=800"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Preview: Kamala Harris on \"Sunday Morning\""
+    excerpt: "Elect Kamala Harris and her husband Douglas Emoff sit down with “CBS Sunday Morning\" anchor Jane Pauley in their first joint TV interview since last week's assault on the Capitol. In this preview clip Harris discusses the priorities for the incoming Biden administration."
+    publishedDateTime: 2021-01-13T00:36:00Z
+    webUrl: "https://www.cbsnews.com/video/preview-kamala-harris-on-sunday-morning/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/13/dea7c7eb-a5ef-4aba-b602-d922f6c2f240/thumbnail/1200x630/5678a150583bd1acc4b3d19e2d90bf55/0112-en-sunmoharris-vo-625578-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Kamala D. Harris makes history. What will she do with it?"
+    excerpt: "The former California senator breaks one glass ceiling — and now will define herself more fully than she has to date."
+    publishedDateTime: 2021-01-13T17:13:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/01/13/vice-president-legacy-kamala-harris/?arc404=true"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
     quality: 105
     images:
-      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/12-11-2020/t_faa893a6d27949de8be0a214d660c49f_name_8ecf7cc0_3a56_11eb_aad9_8959227280c4_scaled.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
+      - url: "https://www.washingtonpost.com/resizer/eYWxifTpZsO6N8mEn_d809WHV9U=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SB5LFTH6NRHL5G3X52MGH7C7MM.jpg"
         width: 1484
-        height: 834
+        height: 1113
         isCached: true
-  - title: "Mitch McConnell congratulates Joe Biden, Kamala Harris for election win"
-    excerpt: "The Electoral College has spoken,” McConnell said during a speech on the Senate floor in which he also praised President Donald Trump's accomplishments. McConnell said he wanted to “congratulate President-elect Joe Biden” and Vice President-elect Kamala Harris."
-    publishedDateTime: 2020-12-15T00:00:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/elections/2020/12/15/mitch-mcconnell-congratulates-joe-biden-kamala-harris-election/3903325001/"
-    ampWebUrl: "https://amp.indystar.com/amp/3903325001"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3903325001"
-    type: article
-    provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/08/28/USAT/64162e8d-b664-4755-b472-a4d5aae214eb-AP_Kentucky_McConnell_1.jpg?auto=webp&crop=5414,3046,x0,y275&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Biden's inauguration to be largely virtual"
-    excerpt: "Posted [NFA] President-elect Joe Biden and Vice President-elect Kamala Harris will be sworn into office on Jan. 20 on the s"
-    publishedDateTime: 2020-12-16T01:25:00Z
-    webUrl: "https://www.reuters.com/video/watch/idPMbn?now=true"
+  - title: "Reactions to the impeachment of U.S. President Donald Trump"
+    excerpt: "Following are comments on the U.S. House of Representatives vote on Wednesday on the impeachment of President Donald Trump."
+    publishedDateTime: 2021-01-13T19:54:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-quotes/reactions-to-the-impeachment-of-u-s-president-donald-trump-idUSKBN29I20Q?edition-redirect=ca"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 105
     images:
-      - url: "https://ajo.prod.reuters.tv/api/v2/img/5fd9568be4b04f7ff7c2da6f-1608078987819?location=LANDSCAPE"
-        width: 1200
-        height: 675
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210113&t=2&i=1547688231&r=LYNXMPEH0C15H&w=800"
+        width: 800
+        height: 540
         isCached: true
-  - title: "Mitch McConnell congratulates Joe Biden, Kamala Harris for election win"
-    excerpt: "The Electoral College has spoken,” McConnell said during a speech on the Senate floor in which he also praised President Donald Trump's accomplishments. McConnell said he wanted to “congratulate President-elect Joe Biden” and Vice President-elect Kamala Harris."
-    publishedDateTime: 2020-12-15T19:41:00Z
-    webUrl: "https://www.tennessean.com/story/news/politics/elections/2020/12/15/mitch-mcconnell-congratulates-joe-biden-kamala-harris-election/3903325001/"
-    ampWebUrl: "https://amp.tennessean.com/amp/3903325001"
-    cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/3903325001"
-    type: article
-    provider:
-      name: Tennessean
-      domain: tennessean.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/08/28/USAT/64162e8d-b664-4755-b472-a4d5aae214eb-AP_Kentucky_McConnell_1.jpg?auto=webp&crop=5414,3046,x0,y275&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "The Latest: Biden touts Cabinet diversity, names Buttigieg"
-    excerpt: "WASHINGTON (AP) — The Latest on (all times local):"
-    publishedDateTime: 2020-12-16T23:18:00Z
-    webUrl: "https://www.businessinsider.com/the-latest-biden-touts-cabinet-diversity-names-buttigieg-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/the-latest-biden-touts-cabinet-diversity-names-buttigieg-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/the-latest-biden-touts-cabinet-diversity-names-buttigieg-2020-12?amp"
+  - title: "The Latest: Trump's trial could start on Inauguration Day"
+    excerpt: "The Latest on and the fallout from the Jan. 6 attack of the Capitol by pro-Trump loyalists (all times local):"
+    publishedDateTime: 2021-01-14T18:36:00Z
+    webUrl: "https://www.businessinsider.com/the-latest-trumps-trial-could-start-on-inauguration-day-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/the-latest-trumps-trial-could-start-on-inauguration-day-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/the-latest-trumps-trial-could-start-on-inauguration-day-2021-1?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
-  - title: "Kamala Harris on Joe Biden, Being a 'First' and Restoring the Soul of the Nation: The 2020 TIME Person of the Year Interview"
-    excerpt: "Kamala Harris is the first Vice President-elect to be named TIME’s Person of the Year. TIME senior correspondent Charlotte Alter sat down with the California senator in Wilmington, Del., on Dec. 7—which happened to be Harris’s mother’s birthday."
-    publishedDateTime: 2020-12-12T22:44:00Z
-    webUrl: "https://time.com/5919490/kamala-harris-person-of-the-year-interview/"
+  - title: "Interview: Kamala Harris on Capitol Riot, Stimulus Package"
+    excerpt: "Vice President-elect Kamala Harris talks to NPR's Scott Detrow about how she felt after the attack on the Capitol and the administration's new $1.9 trillion relief package proposal.This episode: White House correspondent Tamara Keith and White House correspondent Scott Detrow."
+    publishedDateTime: 2021-01-15T17:15:00Z
+    webUrl: "https://www.npr.org/2021/01/15/957196274/interview-kamala-harris-on-capitol-riot-stimulus-package"
     type: article
     provider:
-      name: Time
-      domain: time.com
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
+  - title: "Justice Sotomayor to swear in Kamala Harris"
+    excerpt: "Watch \"Justice Sonia Sotomayor to swear in Vice President-elect Kamala Harris on inauguration \", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-01-18T11:22:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210118094623-justice-sonia-sotomayor-to-swear-in-vice-president-elect-kamala-harris-on-inauguration/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/01/18/story_08590836_1610963404.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Washington prepares for Joe Biden’s inauguration"
+    excerpt: "Mr Biden will take an oath in front of the US Capitol, shortly after Donald Trump leaves the White House."
+    publishedDateTime: 2021-01-20T08:54:00Z
+    webUrl: "https://www.bbc.com/news/live/world-us-canada-55730500"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 105
+    images:
+      - url: "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.1.0/bbc_news_logo.png"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Alpha Kappa Alpha declares January 20 \"Kamala D. Harris Day,\" with members wearing pink and pearls to honor her"
+    excerpt: "Alpha Kappa Alpha, the historically Black sorority Vice President-elect Kamala Harris joined at her alma mater, Howard University, is honoring Harris' historic accomplishment on Inauguration Day. It has declared January 20 \"Kamala D."
+    publishedDateTime: 2021-01-20T16:17:00Z
+    webUrl: "https://www.cbsnews.com/news/alpha-kappa-alpha-sorority-kamala-harris-day/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/alpha-kappa-alpha-sorority-kamala-harris-day/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/alpha-kappa-alpha-sorority-kamala-harris-day/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/19/260b77e3-7704-4e91-90d9-c070b9352664/thumbnail/1200x630/17acea42829e11cfbe480be2897fa7a7/ap-20354737266677.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "How Donald Trump spent his last day as president"
+    excerpt: "The 45th president left Washington DC for Palm Beach, Florida, before Joe Biden took office. He is the first president in over 150 years to skip his successor's inauguration. How Trump spent his last day as president."
+    publishedDateTime: 2021-01-21T00:22:00Z
+    webUrl: "https://www.bbc.com/news/av/world-us-canada-55743966"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 105
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p094mh5h.jpg"
+        width: 400
+        height: 224
+        isCached: true
+  - title: "Kamala Harris sworn in as first female US vice-president – video"
+    excerpt: "The former California senator made history as she was sworn in as the US’s first female, black and south Asian vice-president"
+    publishedDateTime: 2021-01-20T19:46:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2021/jan/20/kamala-harris-sworn-in-as-first-female-us-vice-president-video"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
+    images:
+      - url: "https://i.guim.co.uk/img/media/74b9db82da8f115972013d8e42c4c89f9492b96b/3_898_2916_1750/master/2916.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f488a9b7501d02c00f617163aa894eea"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Kamala Harris rested hand on Bibles, not a purse, during oath"
+    excerpt: "When Vice President Kamala Harris was sworn into office on Wednesday, she placed a black clutch purse on top of the Bible so she wouldn’t have to touch the holy book. AP’S"
+    publishedDateTime: 2021-01-22T06:23:00Z
+    webUrl: "https://apnews.com/article/fact-checking-9919845144"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 105
+    images:
+      - url: "https://apnews.com/images/ShareLogo2.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Washington mayor asks for increased security around Biden's inauguration"
+    excerpt: "Washington's mayor has asked for increased security around the inauguration of U.S. President-elect Joe Biden after last week's storming of the U.S. Capitol by supporters of President Donald Trump."
+    publishedDateTime: 2021-01-11T13:41:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-inauguration-idUKKBN29G0PV?edition-redirect=uk"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 104
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210111&t=2&i=1547339065&r=LYNXMPEH0A0EW&w=800"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Alert: AP sources: Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
+    excerpt: "Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance."
+    publishedDateTime: 2021-01-15T13:01:00Z
+    webUrl: "https://www.houstonchronicle.com/news/article/Alert-AP-sources-Vice-President-Mike-Pence-15874255.php"
+    ampWebUrl: "https://www.houstonchronicle.com/news/amp/Alert-AP-sources-Vice-President-Mike-Pence-15874255.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Alert-AP-sources-Vice-President-Mike-Pence-15874255.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 104
+  - title: "Trump plans to depart Washington the morning of Inauguration Day: source"
+    excerpt: "President Donald Trump now plans to leave Washington on the morning of Inauguration Day next Wednesday after considering a departure on Tuesday, a source familiar with the matter said on Friday."
+    publishedDateTime: 2021-01-15T22:10:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-depart/trump-plans-to-depart-washington-the-morning-of-inauguration-day-source-idUSKBN29K26W"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 104
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547954619&r=LYNXMPEH0E18B&w=800"
+        width: 800
+        height: 501
+        isCached: true
+  - title: "Trump plans to depart Washington the morning of Inauguration Day: sources"
+    excerpt: "President Donald Trump now plans to leave Washington on the morning of Inauguration Day next Wednesday after considering a departure on Tuesday, two sources familiar with the matter said on Friday."
+    publishedDateTime: 2021-01-16T04:44:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-depart/trump-plans-to-depart-washington-the-morning-of-inauguration-day-source-idUSKBN29K26W?amp;amp"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 104
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547954619&r=LYNXMPEH0E18B&w=800"
+        width: 800
+        height: 501
+        isCached: true
+  - title: "Pence vows to honor U.S. history, ensure safe inauguration of new president"
+    excerpt: "WASHINGTON (Reuters) - U.S. Vice President Mike Pence on Thursday vowed to uphold American history and ensure a safe transition of power to President-elect Joe Biden, eight days after supporters of U.S. President Donald Trump laid siege to the U.S. Capitol."
+    publishedDateTime: 2021-01-15T06:46:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-inauguration-pence/pence-vows-to-honor-u-s-history-ensure-safe-inauguration-of-new-president-idUSKBN29K05A"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
     quality: 103
     images:
-      - url: "https://api.time.com/wp-content/uploads/2019/12/time-person-of-the-year-kamala-harris-portrait.jpg"
-        width: 2056
-        height: 2400
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547860873&r=LYNXMPEH0E02C&w=800"
+        width: 800
+        height: 533
         isCached: true
-  - title: "Joe Biden, Kamala Harris are Time’s Person of the Year 2020"
-    excerpt: "Joe Biden and Kamala Harris are Time’s 2020 Person of the Year, the magazine announced Thursday night. The President-elect and Vice President-elect beat out Donald Trump again, among other finalists."
-    publishedDateTime: 2020-12-11T07:22:00Z
-    webUrl: "https://www.nj.com/news/2020/12/joe-biden-kamala-harris-are-times-person-of-the-year-2020.html"
-    ampWebUrl: "https://www.nj.com/news/2020/12/joe-biden-kamala-harris-are-times-person-of-the-year-2020.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/news/2020/12/joe-biden-kamala-harris-are-times-person-of-the-year-2020.html?outputType=amp"
+  - title: "'Field of Flags' lights up Washington for Joe Biden's inauguration – video"
+    excerpt: "The ‘Field of Flags’ stretching along the National Mall in front of the Washington Monument has been unveiled, comprising 200,000 flags intended to represent the American people who are unable to attend President-elect Joe Biden’s inauguration on Wednesday."
+    publishedDateTime: 2021-01-19T20:04:00Z
+    webUrl: "https://www.theguardian.com/global/video/2021/jan/19/field-of-flags-lights-up-washington-for-joe-bidens-inauguration-video?amp;amp;amp"
     type: article
     provider:
-      name: NJ.com
-      domain: nj.com
-    quality: 100
+      name: The Guardian
+      domain: theguardian.com
+    quality: 103
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/AY6P7DXUKNHJRI5LJGZPURHWEA.JPG"
-        width: 3295
-        height: 2197
-        isCached: true
-  - title: "Crank & Boom Craft Ice Cream Now Shipping New Flavor, \"KAMALA PECAN,\" Nationwide In Honor Of Kamala Harris' Historic Election"
-    excerpt: "Crank & Boom Craft Ice Cream is launching an exciting new flavor for NATIONWIDE SHIPPING. KAMALA PECAN, created in honor of Vice President-Elect Kamala Harris' historic election as the first woman and person of color to be elected Vice President of the United States,"
-    publishedDateTime: 2020-12-08T16:01:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/crank-boom-craft-ice-cream-now-shipping-new-flavor-kamala-pecan-nationwide-in-honor-of-kamala-harris-historic-election-1029874116"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 93
-    images:
-      - url: "https://mma.prnewswire.com/media/1360687/C_and_B_Logo.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Politics live updates: Mitch McConnell congratulates Joe Biden, Kamala Harris for election win"
-    excerpt: "Senate Majority Leader Mitch McConnell said Tuesday he wanted to \"congratulate the president-elect, Joe Biden.\""
-    publishedDateTime: 2020-12-15T15:25:00Z
-    webUrl: "https://www.app.com/story/news/politics/elections/2020/12/15/politics-updates-biden-campaign-ossoff-warnock-georgia/3901724001/"
-    ampWebUrl: "https://amp.app.com/amp/3901724001"
-    cdnAmpWebUrl: "https://amp-app-com.cdn.ampproject.org/c/s/amp.app.com/amp/3901724001"
-    type: article
-    provider:
-      name: app.com
-      domain: app.com
-    quality: 93
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/bc08a3d2dedcdb34ea9fffc48b50357b9ca2e191/c=1-20-478-290/local/-/media/USATODAY/USATODAY/2014/11/08/635510444095890283-bidenmcconnell.JPG?auto=webp&format=pjpg&width=1200"
+      - url: "https://i.guim.co.uk/img/media/6bcd3c7bc1be60a772dd9a5055ece7d250a74a44/0_126_4750_2850/master/4750.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6a79e2511bbea0382e968b32e6a9ce36"
         width: 1200
-        height: 679
+        height: 630
         isCached: true
-  - title: "Politics live updates: Mitch McConnell congratulates Joe Biden, Kamala Harris for election win"
-    excerpt: "McConnell noted Harris' historic win, saying, “all Americans can take pride that our nation has a female vice president for the very first time.”"
-    publishedDateTime: 2020-12-15T17:33:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/12/15/politics-updates-biden-campaign-ossoff-warnock-georgia/3901724001/"
-    ampWebUrl: "https://amp.azcentral.com/amp/3901724001"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3901724001"
+  - title: "Inauguration: Kamala Harris sworn in as vice-president, becoming the first woman of color to hold the office – live"
+    excerpt: "Harris sworn in as vice-president ahead of Biden taking office, following Donald Trump’s final departure from the White House this morning"
+    publishedDateTime: 2021-01-20T15:49:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates?page=with:block-600855ac8f0816a8da7c280a"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates"
     type: article
     provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 93
+      name: The Guardian
+      domain: theguardian.com
+    quality: 103
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/07/30/USAT/df59b8c7-35c7-4faf-82af-a3dbfa037bf0-AP_John_Lewis_Remembered.jpg?auto=webp&crop=4840,2723,x0,y245&format=pjpg&width=1200"
+      - url: "https://i.guim.co.uk/img/media/d15a858f45a82cc9a06ff6968945b105bb4befcc/0_199_6048_3627/master/6048.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8e9c855fc42f237c45a7a7d11c48fa8f"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Trump to skip town and inauguration to face uncertain future at Mar-a-Lago"
+    excerpt: "Donald Trump will walk out of the White House and board Marine One for the last time as president Wednesday, leaving behind a legacy of chaos and a nation bitterly divided."
+    publishedDateTime: 2021-01-20T12:58:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-donald-trump-leaves-white-house-20210120-3qn4jyharrc67o7j5shbvfekyi-htmlstory.html"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 103
+    images:
+      - url: "https://www.chicagotribune.com/resizer/Rz7U81SGK1spokCUF88x-yvGwd8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/2EPGQTZAINGLJIKGB4BM6LB6LA.jpg"
         width: 1200
         height: 675
         isCached: true
-  - title: "Twitter Reacts To Joe Biden, Kamala Harris Beating Out Donald Trump As Time's Person Of The Year"
-    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris were chosen as Time's 2020 Person of the Year from a shortlist that included President Donald Trump, Dr. Anthony Fauci, frontline COVID-19 workers and racial justice movements."
-    publishedDateTime: 2020-12-11T10:50:00Z
-    webUrl: "https://www.ibtimes.com/twitter-reacts-joe-biden-kamala-harris-beating-out-donald-trump-times-person-year-3099987"
-    ampWebUrl: "https://www.ibtimes.com/twitter-reacts-joe-biden-kamala-harris-beating-out-donald-trump-times-person-year-3099987?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-reacts-joe-biden-kamala-harris-beating-out-donald-trump-times-person-year-3099987?amp=1"
+  - title: "To honor Kamala Harris, these women are bringing a traditional Indian art form to D.C., made by thousands of hands"
+    excerpt: "All of us were so ready for something like this,” said Shanthi Chandrasekar, an organizer of the public art, called a kolam, which will welcome Biden and Harris to D.C."
+    publishedDateTime: 2021-01-22T23:01:00Z
+    webUrl: "https://www.washingtonpost.com/lifestyle/2021/01/22/kolam-indian-art-biden-harris/"
+    ampWebUrl: "https://www.washingtonpost.com/lifestyle/2021/01/22/kolam-indian-art-biden-harris/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/2021/01/22/kolam-indian-art-biden-harris/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 103
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3LB5IZW25JECFF2I533VP47YDA.jpg&w=1440"
+        width: 1440
+        height: 780
+        isCached: true
+  - title: "Washington to see 'new normal' for security after Biden inauguration: DC mayor"
+    excerpt: "Washington Mayor Muriel Bowser said on Friday that even after the presidential inauguration on Jan. 20 the city will have to maintain heightened security in light of the Capitol rights."
+    publishedDateTime: 2021-01-15T18:44:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-inauguration-bowser/washington-to-see-new-normal-for-security-after-biden-inauguration-dc-mayor-idUSKBN29K2EM"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 101
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547965217&r=LYNXMPEH0E1DQ&w=800"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "U.S. state capitals, Washington on alert for possible pro-Trump armed protests"
+    excerpt: "Ten days after rioters breached the U.S. Capitol in a deadly attack that stunned the world, cities nationwide were girding for a potential new wave of violent protests over the weekend, erecting barriers and deploying thousands of National Guard troops."
+    publishedDateTime: 2021-01-17T06:50:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-protests/u-s-capitals-on-edge-ahead-of-possible-pro-trump-armed-protests-idUSKBN29L0CS"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 101
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210116&t=2&i=1548030531&r=LYNXMPEH0F09U&w=800"
+        width: 800
+        height: 519
+        isCached: true
+  - title: "What’s Pence’s Next Move? VP's Battle With Trump Is Unprecedented"
+    excerpt: "Pence has made no public statement about his split with the president, and so far sources within the White House have said it is unlikely that the vice president would invoke the 25th Amendment to remove Trump from office,"
+    publishedDateTime: 2021-01-08T16:58:00Z
+    webUrl: "https://www.ibtimes.com/whats-pences-next-move-vps-battle-trump-unprecedented-3117528"
+    ampWebUrl: "https://www.ibtimes.com/whats-pences-next-move-vps-battle-trump-unprecedented-3117528?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/whats-pences-next-move-vps-battle-trump-unprecedented-3117528?amp=1"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
-    quality: 92
+    quality: 100
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/12/president-donald-trump-has-refused-to-concede-to.jpg"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/03/16/vice-president-mike-pence-is-coming-out-from.jpg"
         width: 1024
-        height: 768
+        height: 682
+        isCached: true
+  - title: "Why Is Pence Not Invoking The 25th Amendment To Oust Trump?"
+    excerpt: "House Speaker Nancy Pelosi and other Democrats had urged Vice President Pence to remove President Trump from office following the siege at Capitol Hill."
+    publishedDateTime: 2021-01-13T02:36:00Z
+    webUrl: "https://www.ibtimes.com/why-pence-not-invoking-25th-amendment-oust-trump-3120446"
+    ampWebUrl: "https://www.ibtimes.com/why-pence-not-invoking-25th-amendment-oust-trump-3120446?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/why-pence-not-invoking-25th-amendment-oust-trump-3120446?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 100
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/02/us-vice-president-mike-pence-pictured-november-who.jpg"
+        width: 1024
+        height: 649
+        isCached: true
+  - title: "Mike Pence calls Kamala Harris to offer congratulations"
+    excerpt: "Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It's the first known contact between the elected members of the outgoing and incoming administrations."
+    publishedDateTime: 2021-01-15T12:51:00Z
+    webUrl: "https://www.chron.com/news/article/Mike-Pence-calls-Kamala-Harris-to-offer-15874325.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Mike-Pence-calls-Kamala-Harris-to-offer-15874325.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Mike-Pence-calls-Kamala-Harris-to-offer-15874325.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 100
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Mike Pence calls Kamala Harris to offer congratulations"
+    excerpt: "It’s the first known contact between the elected members of the outgoing and incoming administrations. President Donald Trump has not reached out to President-elect Joe Biden and has repeatedly questioned the legitimacy of Biden’s win."
+    publishedDateTime: 2021-01-16T01:25:00Z
+    webUrl: "https://chicago.suntimes.com/2021/1/15/22233803/mike-pence-calls-kamala-harris-offer-congratulations"
+    ampWebUrl: "https://chicago.suntimes.com/platform/amp/2021/1/15/22233803/mike-pence-calls-kamala-harris-offer-congratulations"
+    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/2021/1/15/22233803/mike-pence-calls-kamala-harris-offer-congratulations"
+    type: article
+    provider:
+      name: Chicago Sun-Times
+      domain: suntimes.com
+    quality: 100
+    images:
+      - url: "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Pence Calls VP-Elect Kamala Harris to Offer Congratulations"
+    excerpt: "Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It's the first known contact between the elected members of the outgoing and incoming administrations."
+    publishedDateTime: 2021-01-17T11:39:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/mike-pence-calls-kamala-harris-to-offer-congratulations/2833768/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/mike-pence-calls-kamala-harris-to-offer-congratulations/2833768/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/mike-pence-calls-kamala-harris-to-offer-congratulations/2833768/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 100
+    images:
+      - url: "https://media.nbcnewyork.com/2021/01/split-jan15.jpg?fit=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Pence calls VP-elect Kamala Harris to offer congratulations"
+    excerpt: "Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation."
+    publishedDateTime: 2021-01-17T19:11:00Z
+    webUrl: "https://www.stltoday.com/news/national/govt-and-politics/mike-pence-calls-kamala-harris-to-offer-congratulations/article_86e08ee6-00c5-5d13-bfeb-28c90d473a34.html"
+    ampWebUrl: "https://www.stltoday.com/news/national/govt-and-politics/mike-pence-calls-kamala-harris-to-offer-congratulations/article_86e08ee6-00c5-5d13-bfeb-28c90d473a34.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/govt-and-politics/mike-pence-calls-kamala-harris-to-offer-congratulations/article_86e08ee6-00c5-5d13-bfeb-28c90d473a34.amp.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 100
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/c/74/c7455c4b-4601-57a6-91b1-2d62525d62c1/6001e6ff4922f.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Eugene Goodman, Capitol officer who led rioters away from the Senate chamber, escorted Kamala Harris to the inauguration"
+    excerpt: "After he alone stood between a mob of Trump supporters and Congressional leaders, Goodman was promoted to acting deputy Senate Sergeant at Arms."
+    publishedDateTime: 2021-01-20T17:44:00Z
+    webUrl: "https://www.cbsnews.com/news/eugene-goodman-capitol-officer-who-led-rioters-away-from-the-senate-chamber-escorted-kamala-harris-to-the-inauguration/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/eugene-goodman-capitol-officer-who-led-rioters-away-from-the-senate-chamber-escorted-kamala-harris-to-the-inauguration/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/eugene-goodman-capitol-officer-who-led-rioters-away-from-the-senate-chamber-escorted-kamala-harris-to-the-inauguration/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 100
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/20/74b31f31-0a19-46ad-b11a-e9792db59180/thumbnail/1200x630g2/074b3e3e06d6390cd1ed4be1bdc8f7bc/gettyimages-1230659026.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "How Sarah Fuller became part of Joe Biden-Kamala Harris inauguration"
+    excerpt: "Here is the backstory of how Vanderbilt football player Sarah Fuller became part of the Joe Biden-Kamala Harris inauguration celebration."
+    publishedDateTime: 2021-01-20T18:10:00Z
+    webUrl: "https://www.tennessean.com/story/sports/college/vanderbilt/2021/01/20/sarah-fuller-joe-biden-kamala-harris-inauguration-vanderbilt-woman-football-player/4230304001/"
+    ampWebUrl: "https://amp.tennessean.com/amp/4230304001"
+    cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/4230304001"
+    type: article
+    provider:
+      name: Tennessean
+      domain: tennessean.com
+    quality: 100
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/12/PNAS/26b7b47e-a665-40be-a842-9d5cecdb4963-_GW55187.JPG?auto=webp&crop=4332,2437,x1,y434&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Photos of Joe Biden and Kamala Harris' Families from Inauguration Day"
+    excerpt: "Joe Biden and Kamala Harris' families were front and center at their inauguration on Jan. 20 As Joe Biden takes his oath of office, he is accompanied by wife Jill and their children Ashley, 39, and Hunter,"
+    publishedDateTime: 2021-01-22T03:09:00Z
+    webUrl: "https://people.com/politics/biden-inauguration-joe-biden-kamala-harris-family-photos/"
+    ampWebUrl: "https://people.com/politics/biden-inauguration-joe-biden-kamala-harris-family-photos/?amp=true"
+    cdnAmpWebUrl: "https://people-com.cdn.ampproject.org/c/s/people.com/politics/biden-inauguration-joe-biden-kamala-harris-family-photos/?amp=true"
+    type: article
+    provider:
+      name: People
+      domain: people.com
+    quality: 100
+    images:
+      - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1500&h=750&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2021%2F01%2F21%2Fbiden-family2.jpg"
+        width: 1500
+        height: 750
+        isCached: true
+  - title: "New Mexico official who vowed to protest Biden inauguration arrested in Washington"
+    excerpt: "The U.S. Justice Department said on Sunday that it had arrested an elected official from New Mexico who had vowed to travel to Washington with firearms to protest President-elect Joe Biden's inauguration."
+    publishedDateTime: 2021-01-18T05:11:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-protests-arrests/new-mexico-official-who-participated-in-capitol-riot-and-vowed-to-return-arrested-in-washington-idUSKBN29M0RV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 99
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210118&t=2&i=1548144786&r=LYNXMPEH0H01Y&w=800"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "PHOTOS: Inauguration of President Joe Biden, Vice President Kamala Harris"
+    excerpt: "Joe Biden became the 46th president of the United States on Wednesday, declaring that “democracy has prevailed” as he took the helm of a deeply divided nation and inherited a confluence of crises"
+    publishedDateTime: 2021-01-20T18:43:00Z
+    webUrl: "https://www.denverpost.com/2021/01/20/photos-inauguration-of-president-joe-biden-vice-president-kamala-harris/"
+    ampWebUrl: "https://www.denverpost.com/2021/01/20/photos-inauguration-of-president-joe-biden-vice-president-kamala-harris/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/01/20/photos-inauguration-of-president-joe-biden-vice-president-kamala-harris/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 99
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2021/01/BIDEN-INAUGURATION-103.jpg?w=1024&h=710"
+        width: 1024
+        height: 710
+        isCached: true
+  - title: "Kamala Harris presides over Senate and administers oath of office to three Democrats"
+    excerpt: "Vice President Kamala Harris drew applause when she returned to the Senate hours after taking the oath of office. Harris presided over the chamber and administered the oath of office to her replacement in Senate,"
+    publishedDateTime: 2021-01-20T22:32:00Z
+    webUrl: "https://www.cbsnews.com/video/kamala-harris-presides-over-senate-and-administers-oath-of-office-to-three-democrats/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 98
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/20/90491562-a93d-4b54-abd7-32f791e353ed/thumbnail/1200x630/d9984ccf62671cc68b05278b07160df6/cbsn-fusion-kamala-harris-presides-over-senate-and-administers-oath-of-office-to-three-democrats-thumbnail-630155-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Thousands of National Guard members deployed in Washington ahead of Biden inauguration"
+    excerpt: "Thousands of National Guard's were deployed to Washington on January 12, ahead of the inauguration of Joe Biden in the wake of the Capitol riots."
+    publishedDateTime: 2021-01-13T15:04:00Z
+    webUrl: "https://www.usatoday.com/videos/news/2021/01/13/national-guard-members-deployed-washington-ahead-biden-inauguration/6651492002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 97
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/b7a0dfb8-7b45-4236-9b07-5e254aed8b41_poster.jpg?quality=10"
+        width: 480
+        height: 270
+        isCached: true
+  - title: "Fact check: Article falsely reports that Biden’s inauguration has been canceled; Trump has not invoked the Insurrection Act"
+    excerpt: "Articles circulating on social media make the false claim that President-elect Joe Biden’s inauguration has been canceled and that President Donald Trump “would remain in office”. This is false."
+    publishedDateTime: 2021-01-18T19:52:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-inauguration-not-canceled-idUSKBN29N1VQ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 94
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210118&t=2&i=1548231104&r=LYNXMPEH0H15S&w=800"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "How Kamala Harris’ California career prepared her for the White House | Covering Kamala Harris"
+    excerpt: "Vice President-elect Kamala Harris has risen through the ranks of California politics."
+    publishedDateTime: 2021-01-19T17:36:00Z
+    webUrl: "https://www.latimes.com/covering-kamala-harris-journey-to-the-white-house-123"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 93
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/eb25312/2147483647/strip/true/crop/1920x1008+0+8/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F38%2F86%2Fec728f4c4cc797579e288bd13c0d%2Fcovering-kamala-harris-3.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Dallas Symphony trumpeter plays in recording to honor inauguration of Joe Biden and Kamala Harris"
     excerpt: "The 24-year-old Peruvian-born horn player is one of 14 musicians across the country who performed on a video that will stream on Jan. 19."
@@ -2008,497 +1928,765 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Joe Biden and Kamala Harris named Time Person of the Year"
-    excerpt: "The two made history on November 7 when they beat Donald Trump in a bitter election that put him in a small club of presidents who served only one term. Harris on that day became the"
-    publishedDateTime: 2020-12-11T10:00:00Z
-    webUrl: "https://www.mercurynews.com/2020/12/11/joe-biden-and-kamala-harris-named-time-person-of-the-year/"
-    ampWebUrl: "https://www.mercurynews.com/2020/12/11/joe-biden-and-kamala-harris-named-time-person-of-the-year/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/12/11/joe-biden-and-kamala-harris-named-time-person-of-the-year/amp/"
+  - title: "How to watch, livestream inauguration of Joe Biden and Kamala Harris: complete schedule"
+    excerpt: "History is being made today at the 59th inauguration ceremony at the Capitol Building in Washington, D.C. as President-elect Joe Biden and Vice President-elect Kamala Harris will be sworn-in. HOW TO WATCH: LIVESTREAM via fuboTV by clicking here (Free 7-day trial)."
+    publishedDateTime: 2021-01-20T09:17:00Z
+    webUrl: "https://www.mlive.com/news/2021/01/how-to-watchlivestream-the-inauguration-of-joe-biden-and-kamala-harris-complete-scheduleperformances.html"
+    ampWebUrl: "https://www.mlive.com/news/2021/01/how-to-watchlivestream-the-inauguration-of-joe-biden-and-kamala-harris-complete-scheduleperformances.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/2021/01/how-to-watchlivestream-the-inauguration-of-joe-biden-and-kamala-harris-complete-scheduleperformances.html?outputType=amp"
     type: article
     provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 90
+      name: MLive
+      domain: mlive.com
+    quality: 92
     images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2020/12/hypatia-h_8a9d9a05d2485c590cc4e2e8c3ce8904-h_8429915904bdff81983b59807763dd81.jpg?w=1024&h=576"
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/D46MQWN245HKNGVLJ763S632VU.jpg"
         width: 1024
-        height: 576
+        height: 683
         isCached: true
-  - title: "Joe Biden, Kamala Harris Named Time Magazine's 2020 Person Of The Year"
-    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris were named Time magazine's Person of the Year for 2020, beating other finalists that included President Donald Trump, frontline health care workers with Dr."
-    publishedDateTime: 2020-12-11T06:18:00Z
-    webUrl: "https://www.ibtimes.com/joe-biden-kamala-harris-named-time-magazines-2020-person-year-3099965"
-    ampWebUrl: "https://www.ibtimes.com/joe-biden-kamala-harris-named-time-magazines-2020-person-year-3099965?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/joe-biden-kamala-harris-named-time-magazines-2020-person-year-3099965?amp=1"
+  - title: "President Trump won't attend Joe Biden's inauguration"
+    excerpt: "President Donald Trump said Friday he won’t attend President-elect Joe Biden’s Inauguration on Jan. 20. He will be the first incumbent president since Andrew Johnson to skip his successor's inauguration."
+    publishedDateTime: 2021-01-08T16:04:00Z
+    webUrl: "https://www.nola.com/news/politics/national_politics/article_1bb84870-51cb-11eb-bdfb-5b76cd139dc1.html"
+    ampWebUrl: "https://www.nola.com/news/politics/national_politics/article_1bb84870-51cb-11eb-bdfb-5b76cd139dc1.amp.html"
+    cdnAmpWebUrl: "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/news/politics/national_politics/article_1bb84870-51cb-11eb-bdfb-5b76cd139dc1.amp.html"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
+      name: NOLA.com
+      domain: nola.com
     quality: 90
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/10/gettyimages-1228008551.jpg"
-        width: 1200
-        height: 800
+      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/c/0f/c0f7197e-5126-11eb-a0dd-cb23d0dcfa5e/5ff76ece4a5b6.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
         isCached: true
-  - title: "Joe Biden, Kamala Harris named Time's 2020 Person of the Year"
-    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris have been named Time magazine's Person of the Year for 2020."
-    publishedDateTime: 2020-12-11T09:17:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2020/12/11/Joe-Biden-Kamala-Harris-named-Times-2020-Person-of-the-Year/5001607674411/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/12/11/Joe-Biden-Kamala-Harris-named-Times-2020-Person-of-the-Year/5001607674411/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/12/11/Joe-Biden-Kamala-Harris-named-Times-2020-Person-of-the-Year/5001607674411/"
+  - title: "Trump announces he won't attend Joe Biden's inauguration"
+    excerpt: "President Donald Trump said Friday he will break with tradition and not attend the inauguration of President-elect Joe Biden on Jan. 20."
+    publishedDateTime: 2021-01-08T17:40:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/01/08/Trump-announces-he-wont-attend-Joe-Bidens-inauguration/2831610124260/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/01/08/Trump-announces-he-wont-attend-Joe-Bidens-inauguration/2831610124260/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/01/08/Trump-announces-he-wont-attend-Joe-Bidens-inauguration/2831610124260/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 90
     images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/5001607674411/2020/1/cc09d184995f8411b4df7c1a297c83b5/v1.5/Joe-Biden-Kamala-Harris-named-Times-2020-Person-of-the-Year.jpg"
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/2831610124260/2021/1/7133f53c934ecace35e3a90557736a81/v1.5/Trump-announces-he-wont-attend-Joe-Bidens-inauguration.jpg"
         width: 800
         height: 532
         isCached: true
-  - title: "Time Magazine Names Joe Biden and Kamala Harris Person of the Year"
-    excerpt: "Time Magazine on Thursday named President-elect Joe Biden and Vice President-elect Kamala Harris its Person of the Year. Earlier in the day, the magazine named the South Korean group BTS its 2020 Entertainer of the Year."
-    publishedDateTime: 2020-12-11T04:11:00Z
-    webUrl: "https://www.nbcnewyork.com/news/local/time-magazine-names-joe-biden-and-kamala-harris-person-of-the-year/2774289/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/local/time-magazine-names-joe-biden-and-kamala-harris-person-of-the-year/2774289/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/local/time-magazine-names-joe-biden-and-kamala-harris-person-of-the-year/2774289/?amp"
+  - title: "Trump announces he'll skip Joe Biden's inauguration"
+    excerpt: "Vice President Mike Pence and his wife Karen “have yet to make a decision regarding their attendance,” spokesman Devin O’Malley said Friday."
+    publishedDateTime: 2021-01-08T16:35:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2021/01/08/donald-trump-says-he-wont-attend-joe-bidens-inauguration/6594812002/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/6594812002"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/6594812002"
     type: article
     provider:
-      name: NBC New York
-      domain: nbcnewyork.com
+      name: Des Moines Register
+      domain: desmoinesregister.com
     quality: 90
     images:
-      - url: "https://media.nbcnewyork.com/2020/12/Time-Person-of-the-Year-2020.gif?fit=1200%2C675"
+      - url: "https://www.gannett-cdn.com/presto/2020/12/24/USAT/2c7e25e6-de7a-4a91-a9bd-c1acd79338db-AP_Trump.jpg?auto=webp&crop=2923,1644,x1,y201&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Time Magazine Names Joe Biden, Kamala Harris Person of the Year"
-    excerpt: "Time magazine has named President-elect Joe Biden and Vice President-elect Kamala Harris its “Person of the Year.” Time’s editor-in-chief Edward Felsenthal says Biden and Harris won the honor for “changing the American story,"
-    publishedDateTime: 2020-12-11T05:42:00Z
-    webUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/time-magazine-names-joe-biden-and-kamala-harris-person-of-the-year/2774289/?amp"
-    ampWebUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/time-magazine-names-joe-biden-and-kamala-harris-person-of-the-year/2774289/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/entertainment/entertainment-news/time-magazine-names-joe-biden-and-kamala-harris-person-of-the-year/2774289/?amp"
+  - title: "Trump says he won’t attend Joe Biden’s inauguration"
+    excerpt: "President Donald Trump said Friday he won’t attend President-elect Joe Biden’s inauguration on Jan. 20, undercutting his message a day earlier that he would work to ensure a “smooth, orderly and seamless transition of power” to his successor."
+    publishedDateTime: 2021-01-08T16:15:00Z
+    webUrl: "https://www.cleveland.com/nation/2021/01/trump-says-he-wont-attend-joe-bidens-inauguration.html"
+    ampWebUrl: "https://www.cleveland.com/nation/2021/01/trump-says-he-wont-attend-joe-bidens-inauguration.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2021/01/trump-says-he-wont-attend-joe-bidens-inauguration.html?outputType=amp"
     type: article
     provider:
-      name: NBC New York
-      domain: nbcnewyork.com
+      name: Cleveland.com
+      domain: cleveland.com
     quality: 90
     images:
-      - url: "https://media.nbcnewyork.com/2020/12/Time-Person-of-the-Year-2020.gif?fit=1200%2C675"
-        width: 1200
-        height: 675
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/LFMJ5DXQERH2DFS5NH2EFGAAH4.jpg"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "Time Person of the Year: Joe Biden and Kamala Harris"
-    excerpt: "US President-elect Joe Biden and Vice-President-elect Kamala Harris have been named Time magazine Person of The Year 2020."
-    publishedDateTime: 2020-12-11T08:11:00Z
-    webUrl: "https://www.bbc.co.uk/newsround/55271127"
-    ampWebUrl: "https://www.bbc.co.uk/newsround/amp/55271127"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/newsround/amp/55271127"
+  - title: "Democrats give VP Mike Pence ultimatum to remove Trump from White House"
+    excerpt: "US House Speaker Nancy Pelosi has stepped up the pressure on Vice-President Mike Pence to act to remove Donald Trump from office over his role in last week's storming of Congress. Lawmakers are expected to bring up a resolution asking Mr Pence to invoke the 25th Amendment to declare the president unfit for office."
+    publishedDateTime: 2021-01-11T08:44:00Z
+    webUrl: "https://www.bbc.co.uk/news/amp/world-us-canada-55611630"
+    ampWebUrl: "https://www.bbc.co.uk/news/amp/world-us-canada-55611630"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/world-us-canada-55611630"
     type: article
     provider:
       name: BBC
       domain: bbc.co.uk
     quality: 90
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/10EEF/production/_115995396_biden.jpg"
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/14169/production/_116418228_hi065099285.jpg"
         width: 1024
         height: 576
         isCached: true
-  - title: "Joe Biden, Kamala Harris are Time’s Person of the Year 2020"
-    excerpt: "Joe Biden and Kamala Harris are Time’s 2020 Person of the Year, the magazine announced Thursday night. The President-elect and Vice President-elect beat out Donald Trump again, among other finalists."
-    publishedDateTime: 2020-12-11T19:18:00Z
-    webUrl: "https://www.mlive.com/news/us-world/2020/12/joe-biden-kamala-harris-are-times-person-of-the-year-2020.html"
-    ampWebUrl: "https://www.mlive.com/news/us-world/2020/12/joe-biden-kamala-harris-are-times-person-of-the-year-2020.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/us-world/2020/12/joe-biden-kamala-harris-are-times-person-of-the-year-2020.html?outputType=amp"
+  - title: "Kamala Harris gets the Vogue cover Melania Trump always wanted"
+    excerpt: "The president, first lady and their political supporters repeatedly complained that ‘elitist’ fashion magazines wouldn’t put the ‘most elegant first lady in American"
+    publishedDateTime: 2021-01-11T18:28:00Z
+    webUrl: "https://www.mercurynews.com/2021/01/11/kamala-harris-gets-the-vogue-cover-melania-trump-always-wanted/"
+    ampWebUrl: "https://www.mercurynews.com/2021/01/11/kamala-harris-gets-the-vogue-cover-melania-trump-always-wanted/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/01/11/kamala-harris-gets-the-vogue-cover-melania-trump-always-wanted/amp/"
     type: article
     provider:
-      name: MLive
-      domain: mlive.com
+      name: Mercury News
+      domain: mercurynews.com
     quality: 90
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/AY6P7DXUKNHJRI5LJGZPURHWEA.JPG"
-        width: 3295
-        height: 2197
-        isCached: true
-  - title: "Time Magazine Names Joe Biden, Kamala Harris Person of the Year"
-    excerpt: "Time magazine has named President-elect Joe Biden and Vice President-elect Kamala Harris its “Person of the Year.” Time’s editor-in-chief Edward Felsenthal says Biden and Harris won the honor for “changing the American story,"
-    publishedDateTime: 2020-12-12T05:59:00Z
-    webUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/time-magazine-names-joe-biden-and-kamala-harris-person-of-the-year/2774289/"
-    ampWebUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/time-magazine-names-joe-biden-and-kamala-harris-person-of-the-year/2774289/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/entertainment/entertainment-news/time-magazine-names-joe-biden-and-kamala-harris-person-of-the-year/2774289/?amp"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 90
-    images:
-      - url: "https://media.nbcnewyork.com/2020/12/Time-Person-of-the-Year-2020.gif?fit=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Electoral College affirms Joe Biden-Kamala Harris victory"
-    excerpt: "The Electoral College on Monday cast its votes to elect Joe Biden and Kamala Harris president and vice president, following weeks of efforts by President Donald Trump to cast doubt on the election process."
-    publishedDateTime: 2020-12-14T12:49:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2020/12/14/Electoral-College-affirms-Joe-Biden-Kamala-Harris-victory/4821607896946/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/12/14/Electoral-College-affirms-Joe-Biden-Kamala-Harris-victory/4821607896946/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/12/14/Electoral-College-affirms-Joe-Biden-Kamala-Harris-victory/4821607896946/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 90
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/4821607896946/2020/1/5dea4f3742acb8201f7fefa2534fbe48/v1.5/Electoral-College-affirms-Joe-Biden-Kamala-Harris-victory.jpg"
-        width: 800
-        height: 534
-        isCached: true
-  - title: "Electoral College casting votes to confirm Joe Biden-Kamala Harris win"
-    excerpt: "The Electoral College on Monday was casting its votes to elect Joe Biden and Kamala Harris president and vice president, following weeks of efforts by President Donald Trump to cast doubt on the election process."
-    publishedDateTime: 2020-12-14T12:49:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2020/12/14/Electoral-College-casting-votes-to-confirm-Joe-Biden-Kamala-Harris-win/4821607896946/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/12/14/Electoral-College-casting-votes-to-confirm-Joe-Biden-Kamala-Harris-win/4821607896946/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/12/14/Electoral-College-casting-votes-to-confirm-Joe-Biden-Kamala-Harris-win/4821607896946/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 90
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/4821607896946/2020/1/5dea4f3742acb8201f7fefa2534fbe48/v1.5/Electoral-College-casting-votes-to-confirm-Joe-Biden-Kamala-Harris-win.jpg"
-        width: 800
-        height: 534
-        isCached: true
-  - title: "Massachusetts 11 electors formally vote in Joe Biden, Kamala Harris"
-    excerpt: "Eleven Massachusetts electors cast their votes as expected on Monday to affirm Joe Biden as the nation’s next president, a formality that took on added importance this year as President"
-    publishedDateTime: 2020-12-14T22:10:00Z
-    webUrl: "https://www.bostonherald.com/2020/12/14/massachusetts-11-electors-formally-vote-in-joe-biden-kamala-harris/"
-    ampWebUrl: "https://www.bostonherald.com/2020/12/14/massachusetts-11-electors-formally-vote-in-joe-biden-kamala-harris/amp/"
-    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2020/12/14/massachusetts-11-electors-formally-vote-in-joe-biden-kamala-harris/amp/"
-    type: article
-    provider:
-      name: Boston Herald
-      domain: bostonherald.com
-    quality: 90
-    images:
-      - url: "https://www.bostonherald.com/wp-content/uploads/2020/12/AP20323833824629.jpg?w=1024&h=683"
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/01/hypatia-h_982bd6f39d8176d926a35de2b32bfd51-h_16ae4b24c5b25e70b3b25aaa73a4c7ca.jpg?w=1024&h=683"
         width: 1024
         height: 683
         isCached: true
-  - title: "Mike Pence to Head Overseas Hours After Declaring Joe Biden the Presidential Victor Over Donald Trump"
-    excerpt: "Pence will travel overseas hours after formally declaring that Biden beat Trump in November’s presidential election."
-    publishedDateTime: 2020-12-17T16:07:00Z
-    webUrl: "https://www.nbcnewyork.com/news/business/money-report/mike-pence-to-head-overseas-hours-after-declaring-joe-biden-the-presidential-victor-over-donald-trump/2786788/?amp"
-    ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/mike-pence-to-head-overseas-hours-after-declaring-joe-biden-the-presidential-victor-over-donald-trump/2786788/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/mike-pence-to-head-overseas-hours-after-declaring-joe-biden-the-presidential-victor-over-donald-trump/2786788/?amp"
+  - title: "Trump Made the Stupidest Possible Argument on Mike Pence"
+    excerpt: "Donald Trump has chosen to spend the waning days of his presidency alternating between feeble efforts to cancel the election and subjecting his vice-president to a series of torments. The New York Times has new details about the latter,"
+    publishedDateTime: 2021-01-13T02:38:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/01/trump-told-pence-you-can-go-down-in-history-as-a-pussy.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/01/trump-told-pence-you-can-go-down-in-history-as-a-pussy.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/01/trump-told-pence-you-can-go-down-in-history-as-a-pussy.html"
     type: article
     provider:
-      name: NBC New York
-      domain: nbcnewyork.com
+      name: New York Magazine
+      domain: nymag.com
     quality: 90
     images:
-      - url: "https://media.nbcnewyork.com/2020/12/106808968-1607554570766-pence.jpg?resize=1200%2C675"
+      - url: "https://pyxis.nymag.com/v1/imgs/f1c/a1b/30748f6b4edce674ecef451db66182b443-president-trump-vice-president-pence.1x.rsocial.w1200.jpg"
         width: 1200
-        height: 675
+        height: 632
         isCached: true
-  - title: "Kamala Harris, Ivanka Trump making appeals to Georgia voters"
-    excerpt: "Campaigning in Georgia on Monday, Vice President-elect Kamala Harris stressed a need to elect Democratic U.S. Senate candidates who will advance President-elect Joe Biden's agenda. Ivanka Trump, meanwhile,"
-    publishedDateTime: 2020-12-21T13:33:00Z
-    webUrl: "https://www.sfchronicle.com/news/article/Kamala-Harris-Ivanka-Trump-making-appeals-to-15820191.php"
-    ampWebUrl: "https://www.sfchronicle.com/news/amp/Kamala-Harris-Ivanka-Trump-making-appeals-to-15820191.php"
-    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/news/amp/Kamala-Harris-Ivanka-Trump-making-appeals-to-15820191.php"
+  - title: "Kamala Harris prepares for central role in Biden White House"
+    excerpt: "People working closely with Vice President-elect Kamala Harris on the transition resist the idea of siloing her into any specific issue early on, because the sheer number of challenges the Biden"
+    publishedDateTime: 2021-01-18T17:24:00Z
+    webUrl: "https://www.dailynews.com/2021/01/18/kamala-harris-prepares-for-central-role-in-biden-white-house/"
+    ampWebUrl: "https://www.dailynews.com/2021/01/18/kamala-harris-prepares-for-central-role-in-biden-white-house/amp/"
+    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2021/01/18/kamala-harris-prepares-for-central-role-in-biden-white-house/amp/"
     type: article
     provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
+      name: Los Angeles Daily News
+      domain: dailynews.com
     quality: 90
     images:
-      - url: "https://s.hdnux.com/photos/01/15/67/76/20414345/21/375x250.jpg"
-        width: 375
-        height: 249
+      - url: "https://www.dailynews.com/wp-content/uploads/2021/01/AP21017005814915-1.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "Here's where Kamala Harris, Ivanka Trump will be today in Georgia"
-    excerpt: "Two political heavyweights will be in Georgia pushing for voters to head to the polls and vote in the U.S. Senate runoffs on Jan. 5. Vice President-elect Kamala Harris will travel to Columbus, Georgia to campaign with Democratic nominees for U."
-    publishedDateTime: 2020-12-22T16:03:00Z
-    webUrl: "https://www.firstcoastnews.com/article/news/politics/elections/kamala-harris-ivanka-trump-georgia/85-d8ced087-08d9-4475-a4c8-3acf504c345d"
-    ampWebUrl: "https://www.firstcoastnews.com/amp/article/news/politics/elections/kamala-harris-ivanka-trump-georgia/85-d8ced087-08d9-4475-a4c8-3acf504c345d"
-    cdnAmpWebUrl: "https://www-firstcoastnews-com.cdn.ampproject.org/c/s/www.firstcoastnews.com/amp/article/news/politics/elections/kamala-harris-ivanka-trump-georgia/85-d8ced087-08d9-4475-a4c8-3acf504c345d"
+  - title: "Kamala Harris prepares for central role in Biden's White House"
+    excerpt: "Kamala Harris is shaping up to be a central player in addressing everything from the coronavirus pandemic to criminal justice reform."
+    publishedDateTime: 2021-01-19T00:06:00Z
+    webUrl: "https://www.pressdemocrat.com/article/news/kamala-harris-prepares-for-central-role-in-bidens-white-house/"
+    ampWebUrl: "https://www.pressdemocrat.com/article/news/kamala-harris-prepares-for-central-role-in-bidens-white-house/amp/"
+    cdnAmpWebUrl: "https://www-pressdemocrat-com.cdn.ampproject.org/c/s/www.pressdemocrat.com/article/news/kamala-harris-prepares-for-central-role-in-bidens-white-house/amp/"
     type: article
     provider:
-      name: First Coast News
-      domain: firstcoastnews.com
+      name: Santa Rosa Press Democrat
+      domain: pressdemocrat.com
     quality: 90
     images:
-      - url: "https://media.firstcoastnews.com/assets/WXIA/images/645dee1d-8146-4987-acd4-267767642af9/645dee1d-8146-4987-acd4-267767642af9_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "The Latest: Trump condemns Capitol riot, concedes to Biden"
-    excerpt: "Calif., holds a news conference on the day after violent protesters loyal to President Donald Trump stormed the U.S. Congress, at the Capitol in Washington, Thursday, Jan. 7, 2021. (AP Photo/J. Scott Applewhite) President-elect Joe Biden speaks during an event at The Queen theater in Wilmington,"
-    publishedDateTime: 2021-01-08T00:55:00Z
-    webUrl: "https://www.stltoday.com/news/national/govt-and-politics/the-latest-trump-condemns-capitol-riot-concedes-to-biden/article_3da63790-62ba-5c0f-8af7-9af5297717f1.html"
-    ampWebUrl: "https://www.stltoday.com/news/national/govt-and-politics/the-latest-trump-condemns-capitol-riot-concedes-to-biden/article_3da63790-62ba-5c0f-8af7-9af5297717f1.amp.html"
-    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/govt-and-politics/the-latest-trump-condemns-capitol-riot-concedes-to-biden/article_3da63790-62ba-5c0f-8af7-9af5297717f1.amp.html"
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 90
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/8/bd/8bd346ec-2dbe-505f-ab54-e3540a71282d/5ff75ad82a603.image.jpg"
-        width: 512
-        height: 341
-        isCached: true
-  - title: "Biden, Harris take virtual tour of Arizona vaccination site"
-    excerpt: "President Biden and Vice President Kamala Harris virtually toured a 24-7 vaccination site Monday at the Arizona Cardinals’ stadium that could serve as a model for others, as the U.S. pivots from immunizing priority groups to reaching older Americans and racing fast-moving variants of the coronavirus."
-    publishedDateTime: 2021-02-08T22:33:00Z
-    webUrl: "https://www.washingtontimes.com/news/2021/feb/8/biden-harris-take-virtual-tour-arizona-vaccination/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2021/feb/8/biden-harris-take-virtual-tour-arizona-vaccination/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/feb/8/biden-harris-take-virtual-tour-arizona-vaccination/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 90
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2021/02/08/Biden_17394.jpg-79310_c0-120-2866-1791_s1200x700.jpg?67075f200bc1cc5cad831ec15bdb630fd20fc51b"
+      - url: "https://imengine.prod.srp.navigacloud.com?uuid=54a7d1b5-2bd9-56c5-ac99-52959e1623ff&type=primary&q=72&width=1200"
         width: 1200
-        height: 700
-        isCached: true
-  - title: "After years of indifference and denial under President Trump, experts expect Joe Biden to confront the dangers of domestic extremism"
-    excerpt: "Former federal security officials are urging President-elect Joe Biden to more seriously acknowledge the growing danger of domestic terrorism."
-    publishedDateTime: 2020-12-09T12:24:00Z
-    webUrl: "https://www.usatoday.com/story/news/2020/12/09/biden-trump-challenges-domestic-extremism/3825616001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 89
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2018/10/29/USAT/8d8da8e4-071d-4632-8a45-a1a8dbd4215a-News21_hate_crimes_7.JPG?crop=1999,1124,x0,y0&width=1600&height=800&fit=bounds"
-        width: 1423
         height: 800
         isCached: true
-  - title: "Maryland's electors cast the state's 10 votes for Joe Biden, Kamala Harris"
-    excerpt: "Maryland's presidential electors gathered in Annapolis on Monday to cast their votes for President-elect Joe Biden, who won the state in a landslide on Nov. 3. The state's 10 votes formalized Biden and Vice President-elect Kamala Harris's victory in Maryland and pushed the Democrats toward the 306 total Electoral College votes they are expected to receive."
-    publishedDateTime: 2020-12-14T18:15:00Z
-    webUrl: "https://www.delmarvanow.com/story/news/politics/elections/2020/12/14/maryland-electoral-college-cast-votes-joe-biden-kamala-harris/6538605002/"
-    ampWebUrl: "https://amp.delmarvanow.com/amp/6538605002"
-    cdnAmpWebUrl: "https://amp-delmarvanow-com.cdn.ampproject.org/c/s/amp.delmarvanow.com/amp/6538605002"
-    type: article
-    provider:
-      name: DelmarvaNow
-      domain: delmarvanow.com
-    quality: 88
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/11/NMLF/9ce90095-fd58-4641-a4f9-8772c1e99048-AP20314636032153.jpg?auto=webp&crop=5487,3087,x0,y279&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Michigan’s electors set to cast votes for Joe Biden, Kamala Harris on Monday"
-    excerpt: "Monday’s ceremony at the Michigan Capitol is expected to be a stripped-down version of the event compared to previous election years, due to the coronavirus pandemic."
-    publishedDateTime: 2020-12-13T12:05:00Z
-    webUrl: "https://www.mlive.com/politics/2020/12/michigans-electors-set-to-cast-votes-for-joe-biden-kamala-harris-on-monday.html"
-    ampWebUrl: "https://www.mlive.com/politics/2020/12/michigans-electors-set-to-cast-votes-for-joe-biden-kamala-harris-on-monday.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/politics/2020/12/michigans-electors-set-to-cast-votes-for-joe-biden-kamala-harris-on-monday.html?outputType=amp"
-    type: article
-    provider:
-      name: MLive
-      domain: mlive.com
-    quality: 87
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/DUZ6J4FCBVFXLBW5EWMMYJB4EA.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Biden’s Cabinet Picks Are Good News for Kamala Harris’s 2024 Presidential Bid"
-    excerpt: "Kamala Harris is the odds-on favorite to be the Democratic presidential nominee in 2024. Joe Biden would turn 82 that year, and it’s unlikely America’s first octogenarian president would seek a second term."
-    publishedDateTime: 2020-12-15T21:09:00Z
-    webUrl: "https://www.nationalreview.com/corner/bidens-cabinet-picks-are-good-news-for-kamala-harriss-2024-presidential-bid/"
-    ampWebUrl: "https://www.nationalreview.com/corner/bidens-cabinet-picks-are-good-news-for-kamala-harriss-2024-presidential-bid/amp/"
-    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/corner/bidens-cabinet-picks-are-good-news-for-kamala-harriss-2024-presidential-bid/amp/"
-    type: article
-    provider:
-      name: National Review
-      domain: nationalreview.com
-    quality: 87
-    images:
-      - url: "https://i1.wp.com/www.nationalreview.com/wp-content/uploads/2020/11/joe-biden-kamala-harris-acceptance.jpg?fit=1200%2C700&ssl=1"
-        width: 1200
-        height: 700
-        isCached: true
-  - title: "Joe Biden and Kamala Harris's Inauguration: What You Need to Know About the Event"
-    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris are quickly approaching the moment when they'll be able to drop \"elect\" from their titles. Both Biden and Harris are set to be sworn into their posts at an inauguration ceremony unlike any other this January."
-    publishedDateTime: 2020-12-10T17:22:00Z
-    webUrl: "https://www.townandcountrymag.com/society/tradition/a34930463/joe-biden-kamala-harris-inauguration-2021-details/"
-    ampWebUrl: "https://www.townandcountrymag.com/society/tradition/amp34930463/joe-biden-kamala-harris-inauguration-2021-details/"
-    cdnAmpWebUrl: "https://www-townandcountrymag-com.cdn.ampproject.org/c/s/www.townandcountrymag.com/society/tradition/amp34930463/joe-biden-kamala-harris-inauguration-2021-details/"
-    type: article
-    provider:
-      name: Town & Country
-      domain: townandcountrymag.com
-    quality: 85
-    images:
-      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/former-vice-president-and-democratic-presidential-nominee-news-photo-1607617104.?crop=1.00xw:0.731xh;0,0.121xh&resize=1200:*"
-        width: 1200
-        height: 601
-        isCached: true
-  - title: "Biden Lashes Out At Trump After Election Win Confirmed"
-    excerpt: "Joe Biden said Monday that US democracy proved \"resilient\" against Donald Trump's \"abuse of power\" after the Electoral College confirmed him as the next president, shutting the door further on unprecedented efforts to overturn the results."
-    publishedDateTime: 2020-12-15T02:00:00Z
-    webUrl: "https://www.ibtimes.com/biden-lashes-out-trump-after-election-win-confirmed-3101280"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 85
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/13/us-president-donald-trump-and-president-elect-joe.jpg"
-        width: 1024
-        height: 768
-        isCached: true
-  - title: "Colorado’s Electoral College electors make Joe Biden, Kamala Harris win official"
-    excerpt: "Nine Colorado Democrats gathered in the west foyer of the state Capitol at high noon Monday to put the final stamp on Joe Biden’s and Kamala Harris’ Nov. 3 victory, as the Electoral"
-    publishedDateTime: 2020-12-14T20:10:00Z
-    webUrl: "https://www.denverpost.com/2020/12/14/electoral-college-biden-trump-colorado/"
-    ampWebUrl: "https://www.denverpost.com/2020/12/14/electoral-college-biden-trump-colorado/amp/"
-    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/12/14/electoral-college-biden-trump-colorado/amp/"
-    type: article
-    provider:
-      name: The Denver Post
-      domain: denverpost.com
-    quality: 85
-    images:
-      - url: "https://www.denverpost.com/wp-content/uploads/2020/12/AP20349797001436.jpg?w=1024&h=647"
-        width: 1024
-        height: 647
-        isCached: true
-  - title: "Mike Pence will preside over Biden's final victory. 'Then he'll likely skip town.'"
-    excerpt: "Vice President Mike Pence, as president of the Senate, has the awkward responsibility of overseeing President-elect Joe Biden's final victory — and President Trump's official defeat — with the formal counting of Electoral College votes at a special Jan."
-    publishedDateTime: 2020-12-17T13:31:00Z
-    webUrl: "https://theweek.com/speedreads/955761/mike-pence-preside-over-bidens-final-victory-hell-likely-skip-town"
-    ampWebUrl: "https://bypass.theweek.com/speedreads-amp/955761/mike-pence-preside-over-bidens-final-victory-hell-likely-skip-town"
-    cdnAmpWebUrl: "https://bypass-theweek-com.cdn.ampproject.org/c/s/bypass.theweek.com/speedreads-amp/955761/mike-pence-preside-over-bidens-final-victory-hell-likely-skip-town"
+  - title: "Mike Pence will be a no-show for Trump's send-off"
+    excerpt: "Reports that surfaced earlier Tuesday suggested Pence wouldn't be able to fit Trump's farewell into his Wednesday schedule, given that he's set to attend President-elect Joe Biden's inauguration (a White House official reportedly said it would be a logistical challenge to do both)."
+    publishedDateTime: 2021-01-19T21:37:00Z
+    webUrl: "https://theweek.com/speedreads/961883/mike-pence-noshow-trumps-sendoff"
+    ampWebUrl: "https://theweek.com/speedreads-amp/961883/mike-pence-noshow-trumps-sendoff"
+    cdnAmpWebUrl: "https://theweek-com.cdn.ampproject.org/c/s/theweek.com/speedreads-amp/961883/mike-pence-noshow-trumps-sendoff"
     type: article
     provider:
       name: THE WEEK
       domain: theweek.com
-    quality: 84
+    quality: 90
     images:
-      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1289450911.jpg?itok=AQpcQH7p&resize=450x300"
-        width: 450
-        height: 300
+      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1230679005.jpg?itok=588Xe_Gc"
+        width: 840
+        height: 560
         isCached: true
-  - title: "Michigan's Electoral College delegates cast all 16 votes for Joe Biden, Kamala Harris"
-    excerpt: "By law, Michigan delegates to the Electoral College are required to cast their votes for the winner of the popular vote."
-    publishedDateTime: 2020-12-14T00:00:00Z
-    webUrl: "https://www.cincinnati.com/story/news/politics/elections/2020/12/14/michigans-electoral-college-16-votes-joe-biden-kamala-harris/6538683002/"
-    ampWebUrl: "https://amp.cincinnati.com/amp/6538683002"
-    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/6538683002"
+  - title: "WATCH: Live coverage of the inauguration of Joe Biden and Kamala Harris"
+    excerpt: "Elect Joe Biden take the oath to become the 46th President of the United States and Kamala Harris be sworn in as the 49th Vice President. See the video below:"
+    publishedDateTime: 2021-01-20T14:32:00Z
+    webUrl: "https://www.denverpost.com/2021/01/20/watch-live-coverage-inauguration-biden-harris/"
+    ampWebUrl: "https://www.denverpost.com/2021/01/20/watch-live-coverage-inauguration-biden-harris/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/01/20/watch-live-coverage-inauguration-biden-harris/amp/"
     type: article
     provider:
-      name: Cincinnati Enquirer
-      domain: cincinnati.com
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 90
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2021/01/AP21020507390696.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Inauguration quotes from President Joe Biden, former President Donald Trump"
+    excerpt: "Joe Biden took the oath of office Wednesday to become America’s. In an unprecedented inauguration that took place amid security concerns and a global pandemic, Biden pledged to unite a country torn by political divide."
+    publishedDateTime: 2021-01-20T17:23:00Z
+    webUrl: "https://www.al.com/news/2021/01/inauguration-quotes-from-president-joe-biden-former-president-donald-trump.html"
+    ampWebUrl: "https://www.al.com/news/2021/01/inauguration-quotes-from-president-joe-biden-former-president-donald-trump.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/inauguration-quotes-from-president-joe-biden-former-president-donald-trump.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 88
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/USJDSEM6LVGIPIDOQOPV5SIA2U.jpg"
+        width: 2275
+        height: 1638
+        isCached: true
+  - title: "Vice President Pence says farewell to White House, will skip Trump's sendoff"
+    excerpt: "Vice President Mike Pence is among those who will not be attending President Donald Trump’s sendoff event at Joint Base Andrews."
+    publishedDateTime: 2021-01-19T22:26:00Z
+    webUrl: "https://www.11alive.com/article/news/nation-world/mike-pence-farewell-twhite-house/507-1ca6cdb9-0043-474f-879e-41da3b1226b5"
+    ampWebUrl: "https://www.11alive.com/amp/article/news/nation-world/mike-pence-farewell-twhite-house/507-1ca6cdb9-0043-474f-879e-41da3b1226b5"
+    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/nation-world/mike-pence-farewell-twhite-house/507-1ca6cdb9-0043-474f-879e-41da3b1226b5"
+    type: article
+    provider:
+      name: 11Alive
+      domain: 11alive.com
+    quality: 87
+    images:
+      - url: "https://media.11alive.com/assets/CCT/images/3a1cf9c3-6f9d-4220-88f7-d463eb8c0cc3/3a1cf9c3-6f9d-4220-88f7-d463eb8c0cc3_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "Former Vice President Mike Pence Returns to Indiana After Avoiding Trump Sendoff"
+    excerpt: "Former Vice President Mike Pence is back home in the Hoosier state. After attending the Inauguration Day ceremonies for President Joe Biden and Pence's successor, Vice President Kamala Harris ..."
+    publishedDateTime: 2021-01-22T01:58:00Z
+    webUrl: "https://people.com/politics/former-vice-president-mike-pence-returns-to-indiana-theres-no-place-like-home/"
+    ampWebUrl: "https://people.com/politics/former-vice-president-mike-pence-returns-to-indiana-theres-no-place-like-home/?amp=true"
+    cdnAmpWebUrl: "https://people-com.cdn.ampproject.org/c/s/people.com/politics/former-vice-president-mike-pence-returns-to-indiana-theres-no-place-like-home/?amp=true"
+    type: article
+    provider:
+      name: People
+      domain: people.com
+    quality: 85
+    images:
+      - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=%5B700%2C253%5D&w=2000&h=1000&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2021%2F01%2F21%2Fmike-pence-1-2000.jpg"
+        width: 2000
+        height: 1000
+        isCached: true
+  - title: "Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
+    excerpt: "Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation."
+    publishedDateTime: 2021-01-17T10:17:00Z
+    webUrl: "https://www.dailypress.com/nation-world/ct-mike-pence-kamala-harris-20210115-h36svmshpfgcfhvsjdnsbrlyna-story.html"
+    ampWebUrl: "https://www.dailypress.com/nation-world/ct-mike-pence-kamala-harris-20210115-h36svmshpfgcfhvsjdnsbrlyna-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/nation-world/ct-mike-pence-kamala-harris-20210115-h36svmshpfgcfhvsjdnsbrlyna-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Daily Press
+      domain: dailypress.com
     quality: 83
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/14/PDTF/8855f26a-225d-4845-9a4d-876b9a8fd6dd-GTY_AFP_8X66JW.jpg.jpg?auto=webp&crop=3910,2200,x0,y198&format=pjpg&width=1200"
+      - url: "https://www.dailypress.com/resizer/Z3qJoKYgp7I25-Bfj9OgWDYkWb8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/E7RFR7OAVVHIHHAVMBLL7YTF44.jpg"
         width: 1200
-        height: 675
+        height: 898
         isCached: true
-  - title: "Michigan's Electoral College delegates cast all 16 votes for Joe Biden, Kamala Harris"
-    excerpt: "By law, Michigan delegates to the Electoral College are required to cast their votes for the winner of the popular vote."
-    publishedDateTime: 2020-12-14T23:15:00Z
-    webUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/12/14/michigans-electoral-college-16-votes-joe-biden-kamala-harris/6538683002/"
-    ampWebUrl: "https://amp.desmoinesregister.com/amp/6538683002"
-    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/6538683002"
+  - title: "Photos: How Donald Trump and Mike Pence spent Joe Biden’s Inauguration Day"
+    excerpt: "Trump boarded Air Force One for a final time Wednesday morning, en route to his post-presidency residence in Palm Beach, Florida."
+    publishedDateTime: 2021-01-20T19:59:00Z
+    webUrl: "https://www.boston.com/news/politics/2021/01/20/photos-donald-trump-mike-pence-leave-office"
+    type: article
+    provider:
+      name: Boston.com
+      domain: boston.com
+    quality: 83
+    images:
+      - url: "https://www.boston.com/wp-content/uploads/2021/01/trump-florida-60087d84305dd-850x478.jpg"
+        width: 850
+        height: 478
+        isCached: true
+  - title: "California politicians offer well wishes for inauguration of Joe Biden and Kamala Harris"
+    excerpt: "As Joe Biden was sworn in Wednesday as the 46th president of the United States and California’s Kamala Harris made history as the first woman and first woman of color to become vice president, politicians from across California offered their well-wishes and thoughts."
+    publishedDateTime: 2021-01-20T20:10:00Z
+    webUrl: "https://www.sacbee.com/news/california/article248638100.html"
+    ampWebUrl: "https://amp.sacbee.com/news/california/article248638100.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/california/article248638100.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 81
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/d95094a7-4b24-43e1-b6f5-554116989871/af889aa5-fc98-40fd-b2d6-47bbb37ff3a4/1280x720/match/image.jpg"
+        width: 1080
+        height: 720
+        isCached: true
+  - title: "Where Is Trump? During Biden Inauguration, Former President Took A Low Profile In Florida"
+    excerpt: "Donald Trump starts new post-presidential life in Florida, arriving to signs of a bit of trouble but general support."
+    publishedDateTime: 2021-01-20T18:04:00Z
+    webUrl: "https://www.ibtimes.com/where-trump-during-biden-inauguration-former-president-took-low-profile-florida-3126734"
+    ampWebUrl: "https://www.ibtimes.com/where-trump-during-biden-inauguration-former-president-took-low-profile-florida-3126734?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/where-trump-during-biden-inauguration-former-president-took-low-profile-florida-3126734?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 81
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/20/us-president-donald-trump-speaks-before-boarding-air.jpg"
+        width: 1024
+        height: 705
+        isCached: true
+  - title: "Trump Shores Up Pence Ties As Democrats Move To Impeach"
+    excerpt: "President Donald Trump and Vice President Mike Pence meet on Monday for the first time since rioters stormed the US Capitol, signaling a united front as Democratic efforts to impeach Trump gain momentum."
+    publishedDateTime: 2021-01-12T02:33:00Z
+    webUrl: "https://www.ibtimes.com/trump-shores-pence-ties-democrats-move-impeach-3119079"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 80
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/11/us-president-donald-trump-faces-a-possible-fast.jpg"
+        width: 1024
+        height: 711
+        isCached: true
+  - title: "VP Pence Rejects Invoking 25th Amendment To Oust Trump"
+    excerpt: "US Vice President Mike Pence told House leaders Tuesday he does not support invoking the 25th Amendment process to remove Donald Trump, all but guaranteeing an impeachment vote against the besieged president."
+    publishedDateTime: 2021-01-13T02:00:00Z
+    webUrl: "https://www.ibtimes.com/vp-pence-rejects-invoking-25th-amendment-oust-trump-3120437"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 80
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/12/us-vice-president-mike-pence-said-he-does.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Mike Pence calls Kamala Harris to offer congratulations"
+    excerpt: "WASHINGTON — Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It’s the first known contact between the elected members of the outgoing and incoming administrations."
+    publishedDateTime: 2021-01-17T18:03:00Z
+    webUrl: "https://bangordailynews.com/2021/01/15/national-politics/mike-pence-calls-kamala-harris-to-offer-congratulations/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 80
+    images:
+      - url: "https://i2.wp.com/bdn-data.s3.amazonaws.com/uploads/2021/01/APTOPIX-Pence-Inauguration-scaled.jpg?fit=2560%2C1707&#038;ssl=1"
+        width: 2560
+        height: 1707
+        isCached: true
+  - title: "Connecticut Democrats breathe sigh of relief as President Donald Trump departs from Washington and Joe Biden takes over"
+    excerpt: "Connecticut Democrats were breathing a sign of relief Wednesday as Republican Donald J. Trump departed after four years."
+    publishedDateTime: 2021-01-20T14:46:00Z
+    webUrl: "https://www.courant.com/politics/hc-pol-connecticut-inauguration-reaction-20210120-b4lx6sk6rjdzxdx67adwuv3xna-story.html"
+    ampWebUrl: "https://www.courant.com/politics/hc-pol-connecticut-inauguration-reaction-20210120-b4lx6sk6rjdzxdx67adwuv3xna-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/politics/hc-pol-connecticut-inauguration-reaction-20210120-b4lx6sk6rjdzxdx67adwuv3xna-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Hartford Courant
+      domain: courant.com
+    quality: 76
+    images:
+      - url: "https://www.courant.com/resizer/I1uKqLKlVIWMDGHwbbdlBtEwJxg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/AB2QGEKEPMACSY56HEKRTHDUHY.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Kamala Harris dissolving PACs, giving money to charity"
+    excerpt: "Vice President-elect Kamala Harris is dissolving her political fundraising committees as she prepares for her inauguration with President-elect Joe Biden on Jan. 20, giving leftover money to California charities."
+    publishedDateTime: 2021-01-08T21:53:00Z
+    webUrl: "https://www.sfchronicle.com/politics/article/Kamala-Harris-dissolving-PACs-giving-money-to-15856086.php"
+    ampWebUrl: "https://www.sfchronicle.com/politics/amp/Kamala-Harris-dissolving-PACs-giving-money-to-15856086.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/Kamala-Harris-dissolving-PACs-giving-money-to-15856086.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 75
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/71/53/20159178/11/rawImage.jpg"
+        width: 2048
+        height: 1396
+        isCached: true
+  - title: "Trump Isn't The First President To Snub His Successor's Inauguration"
+    excerpt: "Trump joins a short list of other presidents who couldn't bring themselves to accept succession, as well some that wanted to attend but couldn't."
+    publishedDateTime: 2021-01-08T18:50:00Z
+    webUrl: "https://www.ibtimes.com/trump-isnt-first-president-snub-his-successors-inauguration-3117624"
+    ampWebUrl: "https://www.ibtimes.com/trump-isnt-first-president-snub-his-successors-inauguration-3117624?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-isnt-first-president-snub-his-successors-inauguration-3117624?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/08/president-donald-trump-announced-he-will-not-attend.jpg"
+        width: 1024
+        height: 768
+        isCached: true
+  - title: "Kamala Harris graces Vogue's February cover"
+    excerpt: "Sen. Kamala Harris, who will soon be the first female, Black and Asian American vice president of the United States, will grace the February issue of Vogue magazine."
+    publishedDateTime: 2021-01-10T19:22:00Z
+    webUrl: "https://www.upi.com/Entertainment_News/2021/01/10/Kamala-Harris-graces-Vogues-February-cover/9491610304059/"
+    ampWebUrl: "https://www.upi.com/amp/Entertainment_News/2021/01/10/Kamala-Harris-graces-Vogues-February-cover/9491610304059/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Entertainment_News/2021/01/10/Kamala-Harris-graces-Vogues-February-cover/9491610304059/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 75
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/9491610304059/2021/1/e71fc3988655d9bceba398d2eb3a7f14/v1.5/Kamala-Harris-graces-Vogues-February-cover.jpg"
+        width: 800
+        height: 534
+        isCached: true
+  - title: "Kamala Harris On Vogue Cover: Why Internet Is Upset With It"
+    excerpt: "Vice President-elect Kamala Harris has been chosen for the cover of Vogue's February issue, but the internet is upset with how the photo turned out."
+    publishedDateTime: 2021-01-10T22:17:00Z
+    webUrl: "https://www.ibtimes.com/kamala-harris-vogue-cover-why-internet-upset-it-3118424"
+    ampWebUrl: "https://www.ibtimes.com/kamala-harris-vogue-cover-why-internet-upset-it-3118424?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/kamala-harris-vogue-cover-why-internet-upset-it-3118424?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/04/images-and-soundbitesus-vice-president-elect-kamala-harris.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Kamala Harris team reportedly disappointed with Vogue cover"
+    excerpt: "A source says the magazine had agreed to use an image of the VP-elect in business attire but instead switched to a more casual photo of her in sneakers."
+    publishedDateTime: 2021-01-11T01:33:00Z
+    webUrl: "https://chicago.suntimes.com/politics/2021/1/10/22224052/vogue-kamala-harris-sneakers-shoes"
+    ampWebUrl: "https://chicago.suntimes.com/platform/amp/politics/2021/1/10/22224052/vogue-kamala-harris-sneakers-shoes"
+    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/politics/2021/1/10/22224052/vogue-kamala-harris-sneakers-shoes"
+    type: article
+    provider:
+      name: Chicago Sun-Times
+      domain: suntimes.com
+    quality: 75
+    images:
+      - url: "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Kamala Harris' team rips Vogue for switching cover photo"
+    excerpt: "Vice President-elect Kamala Harris has landed on the cover of the February issue of Vogue magazine, but her team says there’s a problem: the shot of the country’s soon-to-be No. 2 leader isn’t what both sides had agreed upon,"
+    publishedDateTime: 2021-01-10T23:33:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/jan/10/kamala-harris-vogue-cover-switch-blindsides-team/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2021/jan/10/kamala-harris-vogue-cover-switch-blindsides-team/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/jan/10/kamala-harris-vogue-cover-switch-blindsides-team/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/01/08/Biden_18791.jpg-a4d52_c0-250-6000-3750_s1200x700.jpg?2cb823f519263a3e55a419724463fd44fb7f7c61"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "Kamala Harris team says it was blindsided by VP-elect’s Vogue cover"
+    excerpt: "Vice President-elect Kamala Harris has landed on the cover of the February issue of Vogue magazine, but her team says there’s a problem: the shot of the country’s soon-to-be No. 2 leader isn’t what both sides had agreed upon,"
+    publishedDateTime: 2021-01-11T17:38:00Z
+    webUrl: "https://www.courant.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html"
+    ampWebUrl: "https://www.courant.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Hartford Courant
+      domain: courant.com
+    quality: 75
+    images:
+      - url: "https://www.courant.com/resizer/n_fDK75vPntDqpVNGGiApZj30U4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/UJA3UD4TUUAFLUHWQERPRDZGTE.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Oakland salutes Kamala Harris with virtual inauguration ball"
+    excerpt: "The Oakland Symphony and other local arts organizations “celebrate this historic transition of power” during Oakland Salutes Kamala Harris program."
+    publishedDateTime: 2021-01-13T22:05:00Z
+    webUrl: "https://www.mercurynews.com/2021/01/13/oakland-salutes-kamala-harris-with-virtual-inauguration-ball/"
+    ampWebUrl: "https://www.mercurynews.com/2021/01/13/oakland-salutes-kamala-harris-with-virtual-inauguration-ball/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/01/13/oakland-salutes-kamala-harris-with-virtual-inauguration-ball/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 75
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/11/AP20283012142042.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Donald Trump’s impeachment trial could start on Inauguration Day"
+    excerpt: "Biden has suggested the Senate could divide its time between the impeachment trial and confirming his Cabinet nominees and working on COVID-19 relief and other issues."
+    publishedDateTime: 2021-01-14T16:06:00Z
+    webUrl: "https://www.cleveland.com/nation/2021/01/donald-trumps-impeachment-trial-could-start-on-inauguration-day.html"
+    ampWebUrl: "https://www.cleveland.com/nation/2021/01/donald-trumps-impeachment-trial-could-start-on-inauguration-day.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2021/01/donald-trumps-impeachment-trial-could-start-on-inauguration-day.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/TEGABJOI3BEOZCWESHG4EUHZWU.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Trump Is on the Verge of Losing Everything"
+    excerpt: "A broken president leaves the White House twice impeached, on the brink of bankruptcy, and criminally exposed."
+    publishedDateTime: 2021-01-16T04:36:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/01/donald-trump-after-presidency.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/01/donald-trump-after-presidency.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/01/donald-trump-after-presidency.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/0f0/be0/7d4992df6eb4d08e26bbe239f1d0d83f3d-trump-chait-issue-2.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 632
+        isCached: true
+  - title: "Kamala Harris to be sworn in to vice presidency by Sonia Sotomayor"
+    excerpt: "Vice President-elect Kamala Harris will be sworn in by Supreme Court Justice Sonia Sotomayor at Wednesday's inauguration."
+    publishedDateTime: 2021-01-16T23:49:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/01/16/Kamala-Harris-to-be-sworn-in-to-vice-presidency-by-Sonia-Sotomayor/4311610840201/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/01/16/Kamala-Harris-to-be-sworn-in-to-vice-presidency-by-Sonia-Sotomayor/4311610840201/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/01/16/Kamala-Harris-to-be-sworn-in-to-vice-presidency-by-Sonia-Sotomayor/4311610840201/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 75
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/4311610840201/2021/1/99edd9d0834a3f7624fa0da5387e2ba4/v1.5/Kamala-Harris-to-be-sworn-in-to-vice-presidency-by-Sonia-Sotomayor.jpg"
+        width: 800
+        height: 532
+        isCached: true
+  - title: "Kamala Harris to resign Senate seat Monday ahead of inauguration"
+    excerpt: "WASHINGTON — Vice President-elect Kamala Harris will give up her Senate seat Monday, she told The Chronicle, marking the first time in 10 years the Democrat will not hold statewide office in California. She will leave the Senate two days before her ..."
+    publishedDateTime: 2021-01-17T12:24:00Z
+    webUrl: "https://www.sfchronicle.com/politics/article/Kamala-Harris-to-resign-Senate-seat-Monday-ahead-15877159.php"
+    ampWebUrl: "https://www.sfchronicle.com/politics/amp/Kamala-Harris-to-resign-Senate-seat-Monday-ahead-15877159.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/Kamala-Harris-to-resign-Senate-seat-Monday-ahead-15877159.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 75
+    images:
+      - url: "https://s.hdnux.com/photos/01/16/15/60/20503604/5/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
+  - title: "Kamala Harris to formally resign from Senate on Monday"
+    excerpt: "Vice President-elect Kamala D. Harris will formally resign from her California Senate seat on Monday, according to reports. She had already announced her intent to do so ahead of the inauguration this week, and California Gov. Gavin Newsom has said he will ..."
+    publishedDateTime: 2021-01-18T15:17:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/jan/18/kamala-harris-formally-resign-senate-monday/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2021/jan/18/kamala-harris-formally-resign-senate-monday/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/jan/18/kamala-harris-formally-resign-senate-monday/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/01/18/harris_14915_c0-0-3006-1753_s1200x700.jpg?c5b723561a5a51058d070405b626cdc549f47cc9"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "Kamala Harris to resign Senate seat Monday"
+    excerpt: "The move comes two days before she’s inaugurated on Wednesday, making history as the first female, first Black and first South Asian vice president."
+    publishedDateTime: 2021-01-17T20:35:00Z
+    webUrl: "https://www.mercurynews.com/2021/01/17/kamala-harris-to-resign-senate-seat-monday/"
+    ampWebUrl: "https://www.mercurynews.com/2021/01/17/kamala-harris-to-resign-senate-seat-monday/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/01/17/kamala-harris-to-resign-senate-seat-monday/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 75
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/12/sjm-tbreak-Washington_80359688.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Kamala Harris to Resign Senate Seat on Monday Ahead of Inauguration"
+    excerpt: "Vice President-elect Kamala Harris speaks as President-elect Joe Biden listens during a news conference where Biden named retired General Lloyd Austin as his nominee to be defense secretary in Wilmington, Del., December 9, 2020. (Kevin Lamarque/Reuters ..."
+    publishedDateTime: 2021-01-17T18:05:00Z
+    webUrl: "https://www.nationalreview.com/news/kamala-harris-to-resign-senate-seat-on-monday-ahead-of-inauguration/"
+    ampWebUrl: "https://www.nationalreview.com/news/kamala-harris-to-resign-senate-seat-on-monday-ahead-of-inauguration/amp/"
+    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/news/kamala-harris-to-resign-senate-seat-on-monday-ahead-of-inauguration/amp/"
+    type: article
+    provider:
+      name: National Review
+      domain: nationalreview.com
+    quality: 75
+    images:
+      - url: "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2020/12/Kamala-Harris-Speaks.jpg?fit=1200%2C700&ssl=1"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "Vice President-elect Kamala Harris to resign her Senate seat Monday"
+    excerpt: "Vice President-elect Kamala Harris will resign her Senate seat on Monday, two days before she and President-elect Joe Biden are inaugurated."
+    publishedDateTime: 2021-01-18T08:55:00Z
+    webUrl: "https://www.dailypress.com/nation-world/ct-kamala-harris-senate-resignation-20210117-4rntyfb5ibd5xk6cgoxnupuf6q-story.html"
+    ampWebUrl: "https://www.dailypress.com/nation-world/ct-kamala-harris-senate-resignation-20210117-4rntyfb5ibd5xk6cgoxnupuf6q-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/nation-world/ct-kamala-harris-senate-resignation-20210117-4rntyfb5ibd5xk6cgoxnupuf6q-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Daily Press
+      domain: dailypress.com
+    quality: 75
+    images:
+      - url: "https://www.dailypress.com/resizer/oAsPrhM_rnXoM2VhkkCpWUsGwJI=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/G2OD6SLTIJI3W54IEASIBG7CCQ.aspx"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Vice President-elect Kamala Harris will resign her Senate seat Monday"
+    excerpt: "Gov. Gavin Newsom is expected to appoint Democrat Alex Padilla, now California’s secretary of state, to serve the final two years of Harris’ term. Vice President-elect Kamala Harris will be ..."
+    publishedDateTime: 2021-01-17T18:05:00Z
+    webUrl: "https://chicago.suntimes.com/politics/2021/1/17/22235939/kamala-harris-senate-seat-replacement-alex-padilla"
+    ampWebUrl: "https://chicago.suntimes.com/platform/amp/politics/2021/1/17/22235939/kamala-harris-senate-seat-replacement-alex-padilla"
+    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/politics/2021/1/17/22235939/kamala-harris-senate-seat-replacement-alex-padilla"
+    type: article
+    provider:
+      name: Chicago Sun-Times
+      domain: suntimes.com
+    quality: 75
+    images:
+      - url: "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Kamala Harris’ inauguration offers counterpoint to insurrection"
+    excerpt: "As images of white supremacists storming the Capitol sear into Americans’ minds, there is about to be another image that provides the case for optimism about the future: the moment when Kamala Harris,"
+    publishedDateTime: 2021-01-19T12:00:00Z
+    webUrl: "https://www.sfchronicle.com/politics/article/Kamala-Harris-inauguration-offers-counterpoint-15880341.php"
+    ampWebUrl: "https://www.sfchronicle.com/politics/amp/Kamala-Harris-inauguration-offers-counterpoint-15880341.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/Kamala-Harris-inauguration-offers-counterpoint-15880341.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 75
+    images:
+      - url: "https://s.hdnux.com/photos/01/16/16/52/20507310/5/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
+  - title: "Sen. Kamala Harris resigns from U.S. Senate ahead of inauguration"
+    excerpt: "Kamala Harris formally stepped down from her role as senator Monday in advance of taking the oath of office as vice president of the United States in the 59th presidential inauguration."
+    publishedDateTime: 2021-01-18T20:41:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/01/18/Sen-Kamala-Harris-resigns-from-US-Senate-ahead-of-inauguration/1751611001431/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/01/18/Sen-Kamala-Harris-resigns-from-US-Senate-ahead-of-inauguration/1751611001431/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/01/18/Sen-Kamala-Harris-resigns-from-US-Senate-ahead-of-inauguration/1751611001431/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 75
+    images:
+      - url: "https://cdnph.upi.com/ph/st/th/1751611001431/2021/upi/b6ef9e11044fa6d2cdec0888f8c43525/v1.5/Sen-Kamala-Harris-resigns-from-US-Senate-ahead-of-inauguration.jpg?lg=2"
+        width: 800
+        height: 535
+        isCached: true
+  - title: "Bay Area restaurants’ Inauguration Day specials honor Kamala Harris"
+    excerpt: "Want to celebrate the inauguration of Bay Area native Kamala Harris a? Local restaurants, bars and food purveyors have created specials based on her Black, Asian a"
+    publishedDateTime: 2021-01-19T22:27:00Z
+    webUrl: "https://www.mercurynews.com/2021/01/19/bay-area-restaurants-inauguration-day-specials-honor-kamala-harris/"
+    ampWebUrl: "https://www.mercurynews.com/2021/01/19/bay-area-restaurants-inauguration-day-specials-honor-kamala-harris/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/01/19/bay-area-restaurants-inauguration-day-specials-honor-kamala-harris/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 75
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/01/SJM-L-OAKRESTWEEK-0106_80699476.jpg?w=1024&h=781"
+        width: 1024
+        height: 781
+        isCached: true
+  - title: "Gov. Murphy will be in Washington for Joe Biden’s inauguration"
+    excerpt: "Gov. Phil Murphy will travel to Washington, D.C., to attend Joe Biden’s inauguration as the 46th president of the United States, NJ Advance Media has learned. Murphy, a longtime Biden friend and fellow Democrat,"
+    publishedDateTime: 2021-01-19T16:31:00Z
+    webUrl: "https://www.nj.com/politics/2021/01/gov-murphy-will-be-in-washington-for-joe-bidens-inauguration.html"
+    ampWebUrl: "https://www.nj.com/politics/2021/01/gov-murphy-will-be-in-washington-for-joe-bidens-inauguration.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/politics/2021/01/gov-murphy-will-be-in-washington-for-joe-bidens-inauguration.html?outputType=amp"
+    type: article
+    provider:
+      name: NJ.com
+      domain: nj.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/HYVQZKJFONGCDD4AOZDF45F56U.JPG"
+        width: 3856
+        height: 2483
+        isCached: true
+  - title: "It’s official: Kamala Harris is our vice president"
+    excerpt: "California’s Kamala Harris became the highest-ranking woman and woman of color ever in American politics when she was sworn in as the 49th vice president of the United States on Wednesday, a historic moment of celebration amid pain in the nation’s capital."
+    publishedDateTime: 2021-01-20T08:45:00Z
+    webUrl: "https://www.sfchronicle.com/politics/article/It-s-official-Kamala-Harris-is-our-vice-15884673.php"
+    ampWebUrl: "https://www.sfchronicle.com/politics/amp/It-s-official-Kamala-Harris-is-our-vice-15884673.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/It-s-official-Kamala-Harris-is-our-vice-15884673.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 75
+    images:
+      - url: "https://s.hdnux.com/photos/01/16/20/21/20513875/7/375x250.jpg"
+        width: 375
+        height: 249
+        isCached: true
+  - title: "Kamala Harris' moment is what they've been waiting for"
+    excerpt: "Kamala Harris' ascension marks a pivotal moment in history. Young women say her inauguration may finally allow them to savor what has been won."
+    publishedDateTime: 2021-01-19T23:28:00Z
+    webUrl: "https://www.desmoinesregister.com/story/life/health-wellness/2021/01/19/kamala-harris-inauguration-emotional-moment-young-women-color/4208343001/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/4208343001"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/4208343001"
     type: article
     provider:
       name: Des Moines Register
       domain: desmoinesregister.com
-    quality: 83
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/14/PDTF/8855f26a-225d-4845-9a4d-876b9a8fd6dd-GTY_AFP_8X66JW.jpg.jpg?auto=webp&crop=3910,2200,x0,y198&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Politics live updates: Tickets to Joe Biden, Kamala Harris swearing-in ceremony to be limited"
-    excerpt: "Pete Buttigieg is scheduled to appear with Biden Wednesday for a formal announcement. On Twitter, he called the nomination a \"tremendous opportunity.\""
-    publishedDateTime: 2020-12-16T14:17:00Z
-    webUrl: "https://www.freep.com/story/news/politics/2020/12/16/politics-updates-biden-introduce-buttigieg-incoming-dot-chief/3916579001/"
-    ampWebUrl: "https://amp.freep.com/amp/3916579001"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3916579001"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 79
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/16/USAT/36266745-f2f2-4cd8-ae8a-afc00b0c588c-GTY_1230145961.jpg?auto=webp&crop=5288,2975,x0,y352&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Politics live updates: Tickets to Joe Biden, Kamala Harris swearing-in ceremony to be limited"
-    excerpt: "Invitations to members of Congress will be limited to themselves and one guest, similar to the audience for a State of the Union address."
-    publishedDateTime: 2020-12-18T16:44:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/2020/12/16/politics-updates-biden-introduce-buttigieg-incoming-dot-chief/3916579001/"
-    ampWebUrl: "https://amp.azcentral.com/amp/3916579001"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3916579001"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 79
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/16/USAT/36266745-f2f2-4cd8-ae8a-afc00b0c588c-GTY_1230145961.jpg?auto=webp&crop=5288,2975,x0,y352&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Mike Pence to receive COVID-19 vaccine Friday; Joe Biden will get vaccinated as soon as next week"
-    excerpt: "Vice President Mike Pence will get the COVID-19 vaccine publicly Friday, while President-elect Joe Biden will get vaccinated as soon as next week."
-    publishedDateTime: 2020-12-16T00:00:00Z
-    webUrl: "https://www.statesman.com/story/news/politics/2020/12/16/mike-pence-joe-biden-both-vaccinated-covid-19-coming-days/3933565001/"
-    ampWebUrl: "https://amp.statesman.com/amp/3933565001"
-    cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/3933565001"
-    type: article
-    provider:
-      name: Austin American-Statesman
-      domain: statesman.com
-    quality: 77
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/25/USAT/a604c818-a3fd-473c-9581-fe528141bf4a-Pence_in_Tally.jpg?auto=webp&crop=3599,2025,x0,y120&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Mike Pence to receive COVID-19 vaccine Friday; Joe Biden will get vaccinated as soon as next week"
-    excerpt: "Vice President Mike Pence will get the COVID-19 vaccine publicly Friday, while President-elect Joe Biden will get vaccinated as soon as next week."
-    publishedDateTime: 2020-12-17T00:40:00Z
-    webUrl: "https://www.freep.com/story/news/politics/2020/12/16/mike-pence-joe-biden-both-vaccinated-covid-19-coming-days/3933565001/?itm_source=parsely-api"
-    ampWebUrl: "https://amp.freep.com/amp/3933565001"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3933565001"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 77
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/25/USAT/a604c818-a3fd-473c-9581-fe528141bf4a-Pence_in_Tally.jpg?auto=webp&crop=3599,2025,x0,y120&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "How Kamala Harris's Vice Presidency Impacts Your Finances"
-    excerpt: "The future VP has proposals that could affect your housing costs, your income, and the minimum wage you can earn. Here's what you need to know."
-    publishedDateTime: 2020-12-10T15:03:00Z
-    webUrl: "https://www.fool.com/personal-finance/2020/12/10/how-kamala-harriss-vice-presidency-impacts-your-fi/"
-    ampWebUrl: "https://www.fool.com/amp/personal-finance/2020/12/10/how-kamala-harriss-vice-presidency-impacts-your-fi/"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/personal-finance/2020/12/10/how-kamala-harriss-vice-presidency-impacts-your-fi/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
     quality: 75
     images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F604216%2Fthe_white_house_and_treesoriginal.jpg&w=1200&op=resize"
+      - url: "https://www.gannett-cdn.com/presto/2021/01/19/USAT/d883f446-f5c3-46a4-9b52-147fb9eb058e-good3.jpg?auto=webp&crop=1770,996,x0,y0&format=pjpg&width=1200"
         width: 1200
-        height: 800
+        height: 675
+        isCached: true
+  - title: "Kamala Harris to become first female vice president in US history"
+    excerpt: "For more than two centuries, the top ranks of American power have been dominated by men — almost all of them white. That ends on Wednesday."
+    publishedDateTime: 2021-01-20T10:15:00Z
+    webUrl: "https://www.masslive.com/politics/2021/01/kamala-harris-to-become-first-female-vice-president-in-us-history.html"
+    ampWebUrl: "https://www.masslive.com/politics/2021/01/kamala-harris-to-become-first-female-vice-president-in-us-history.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/01/kamala-harris-to-become-first-female-vice-president-in-us-history.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ZB5FOXDMABHOFLS4UUKAG672HA.jpg"
+        width: 5446
+        height: 3631
+        isCached: true
+  - title: "Kamala Harris to swear in Alex Padilla to Senate after inauguration"
+    excerpt: "Shortly after she is inaugurated as vice president on Wednesday, Kamala Harris will swear in her replacement in the Senate, former California Secretary of State Alex Padilla."
+    publishedDateTime: 2021-01-19T19:21:00Z
+    webUrl: "https://www.sfchronicle.com/politics/article/Kamala-Harris-to-swear-in-Alex-Padilla-to-Senate-15882629.php"
+    ampWebUrl: "https://www.sfchronicle.com/politics/amp/Kamala-Harris-to-swear-in-Alex-Padilla-to-Senate-15882629.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/Kamala-Harris-to-swear-in-Alex-Padilla-to-Senate-15882629.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 75
+    images:
+      - url: "https://s.hdnux.com/photos/01/16/02/02/20455562/11/375x250.jpg"
+        width: 348
+        height: 250
         isCached: true
   - title: "The Latest: Capitol police officer accompanies Kamala Harris"
     excerpt: "As the sun rose over Washington’s Freedom Plaza between the U.S. Capitol and the White House ahead of Joe Biden’s presidential inauguration, clusters of soldiers in full battle fatigues clustered"
@@ -2516,295 +2704,1035 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Time magazine names President-elect Joe Biden, Vice President-elect Kamala Harris as Person of the Year"
-    excerpt: "Joe Biden and Kamala Harris, the president-elect and vice president-elect, were named Time magazine's Person of the Year."
-    publishedDateTime: 2020-12-11T04:52:00Z
-    webUrl: "https://www.freep.com/story/news/nation/2020/12/10/joe-biden-kamala-harris-time-magazine-person-year/3890559001/"
-    ampWebUrl: "https://amp.freep.com/amp/3890559001"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3890559001"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 74
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/11/USAT/381eddb6-c7e9-491a-b103-1ce0310e824f-TIM201221_MAIN.coverFINAL.jpg?auto=webp&crop=2362,1329,x1,y773&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "President-elect Joe Biden, Vice President-elect Kamala Harris named Time magazine’s persons of the year"
-    excerpt: "Time’s editor-in-chief Edward Felsenthal says Biden and Harris won for “changing the American story, for showing that the forces of empathy are greater than the furies of division, for sharing a vision of healing in a grieving world."
-    publishedDateTime: 2020-12-11T19:44:00Z
-    webUrl: "https://www.dailypress.com/entertainment/ct-ent-time-magazine-biden-harris-20201211-iy7l2cw6nra3fbrzhz4a4gckuq-story.html"
-    ampWebUrl: "https://www.dailypress.com/entertainment/ct-ent-time-magazine-biden-harris-20201211-iy7l2cw6nra3fbrzhz4a4gckuq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/entertainment/ct-ent-time-magazine-biden-harris-20201211-iy7l2cw6nra3fbrzhz4a4gckuq-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Daily Press
-      domain: dailypress.com
-    quality: 74
-    images:
-      - url: "https://www.dailypress.com/resizer/BSq3Ak_medhh77iDHliMazeaj9g=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PQPYHWKY3V6EVJEUIRLJGAFQKA.aspx"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "President-elect Joe Biden, Vice President-elect Kamala Harris named Time magazine’s persons of the year"
-    excerpt: "Time’s editor-in-chief Edward Felsenthal says Biden and Harris won for “changing the American story, for showing that the forces of empathy are greater than the furies of division, for sharing a vision of healing in a grieving world."
-    publishedDateTime: 2020-12-13T01:27:00Z
-    webUrl: "https://www.courant.com/entertainment/ct-ent-time-magazine-biden-harris-20201211-iy7l2cw6nra3fbrzhz4a4gckuq-story.html"
-    ampWebUrl: "https://www.courant.com/entertainment/ct-ent-time-magazine-biden-harris-20201211-iy7l2cw6nra3fbrzhz4a4gckuq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/entertainment/ct-ent-time-magazine-biden-harris-20201211-iy7l2cw6nra3fbrzhz4a4gckuq-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Hartford Courant
-      domain: courant.com
-    quality: 74
-    images:
-      - url: "https://www.courant.com/resizer/BSq3Ak_medhh77iDHliMazeaj9g=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PQPYHWKY3V6EVJEUIRLJGAFQKA.aspx"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "How Massachusetts electors made history when they elected Joe Biden and Kamala Harris to the White House"
-    excerpt: "Massachusetts' 11 electors cast their votes for Joe Biden and Kamala Harris. Their votes were historic in more ways than one."
-    publishedDateTime: 2020-12-15T03:51:00Z
-    webUrl: "https://www.masslive.com/politics/2020/12/how-massachusetts-electors-made-history-when-they-elected-joe-biden-and-kamala-harris-to-the-white-house.html"
-    ampWebUrl: "https://www.masslive.com/politics/2020/12/how-massachusetts-electors-made-history-when-they-elected-joe-biden-and-kamala-harris-to-the-white-house.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/12/how-massachusetts-electors-made-history-when-they-elected-joe-biden-and-kamala-harris-to-the-white-house.html?outputType=amp"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 73
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/25T54CSN25CMVD6C7P55YEJPP4.jpg"
-        width: 4032
-        height: 3024
-        isCached: true
-  - title: "Vice President Mike Pence Gets Covid Vaccine, Fauci Says ‘I'm Ready to Go'"
-    excerpt: "Dr. Anthony Fauci said he hopes to get vaccinated against Covid-19 next week, as the U.S. rolls out the initial doses. Vice President Mike Pence and his wife, Karen, received inoculations Friday for Covid-19 on live national television,"
-    publishedDateTime: 2020-12-19T11:19:00Z
-    webUrl: "https://www.nbcnewyork.com/news/business/money-report/dr-fauci-hopes-to-get-the-covid-vaccine-next-week-vice-president-pence-was-immunized-friday/2788899/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/dr-fauci-hopes-to-get-the-covid-vaccine-next-week-vice-president-pence-was-immunized-friday/2788899/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/dr-fauci-hopes-to-get-the-covid-vaccine-next-week-vice-president-pence-was-immunized-friday/2788899/?amp"
+  - title: "A Who's Who Guide to Vice President Kamala Harris' Family"
+    excerpt: "Kamala Harris’ historic vice presidency will introduce a dynamic second family to the nation, one that represents not only who she is at her core, but is a profound celebration of blended, multigenerational family units."
+    publishedDateTime: 2021-01-21T17:41:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/a-whos-who-guide-to-vice-president-elect-kamala-harris-family/2840055/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/a-whos-who-guide-to-vice-president-elect-kamala-harris-family/2840055/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/a-whos-who-guide-to-vice-president-elect-kamala-harris-family/2840055/?amp"
     type: article
     provider:
       name: NBC New York
       domain: nbcnewyork.com
+    quality: 75
+    images:
+      - url: "https://media.nbcnewyork.com/2021/01/GettyImages-1284486213.jpg?resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "How Kamala Harris Spent Her Historic First Full Day as Vice President"
+    excerpt: "Newly sworn-in Vice President Kamala Harris continued receiving congratulations from around the world on Thursday after taking the oath of office the day before and making U.S. history."
+    publishedDateTime: 2021-01-22T02:09:00Z
+    webUrl: "https://people.com/politics/how-kamala-harris-spent-her-historic-first-full-day-as-vice-president/"
+    ampWebUrl: "https://people.com/politics/how-kamala-harris-spent-her-historic-first-full-day-as-vice-president/?amp=true"
+    cdnAmpWebUrl: "https://people-com.cdn.ampproject.org/c/s/people.com/politics/how-kamala-harris-spent-her-historic-first-full-day-as-vice-president/?amp=true"
+    type: article
+    provider:
+      name: People
+      domain: people.com
+    quality: 75
+    images:
+      - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=%5B780%2C359%5D&w=2000&h=1000&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F-0001%2F11%2F30%2Fkamala-36-2000.jpg"
+        width: 2000
+        height: 1000
+        isCached: true
+  - title: "Kamala Harris becomes the new power centre in Washington"
+    excerpt: "Harris' power was also on full display in the US Senate, where she was welcomed with applause by her former colleagues as she walked in to chair a session in her capacity as the constitutionally ..."
+    publishedDateTime: 2021-01-21T23:13:00Z
+    webUrl: "https://timesofindia.indiatimes.com/world/us/kamala-harris-becomes-the-new-power-center-in-washington/articleshow/80392048.cms"
+    ampWebUrl: "https://m.timesofindia.com/world/us/kamala-harris-becomes-the-new-power-center-in-washington/amp_articleshow/80392048.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/world/us/kamala-harris-becomes-the-new-power-center-in-washington/amp_articleshow/80392048.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 75
+    images:
+      - url: "https://static.toiimg.com/photo/msid-80392072/80392072.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Watch Kamala Harris Make Her First Speech as Vice President"
+    excerpt: "Hours after being sworn in as the country's first female, Black, and South Asian-American vice president, Kamala Harris made an appearance during the evening's Celebrating America television special."
+    publishedDateTime: 2021-01-21T17:25:00Z
+    webUrl: "https://www.elle.com/culture/career-politics/a35257322/kamala-harris-first-speech-vice-president/"
+    ampWebUrl: "https://www.elle.com/culture/career-politics/amp35257322/kamala-harris-first-speech-vice-president/"
+    cdnAmpWebUrl: "https://www-elle-com.cdn.ampproject.org/c/s/www.elle.com/culture/career-politics/amp35257322/kamala-harris-first-speech-vice-president/"
+    type: article
+    provider:
+      name: ELLE
+      domain: elle.com
+    quality: 75
+    images:
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/vice-president-elect-kamala-harris-looks-on-during-the-news-photo-1611176217.?crop=1.00xw:0.753xh;0,0.165xh&resize=1200:*"
+        width: 1200
+        height: 603
+        isCached: true
+  - title: "AKA sorority members celebrate Kamala Harris inauguration"
+    excerpt: "CHICAGO (AP) — Elizabeth Shelby had her inauguration outfit planned weeks in advance: blue jeans, a Kamala Harris sweatshirt, a green coat, and pink Chuck Taylors as an homage to her sorority’s colors and Vice President Harris’ signature shoe."
+    publishedDateTime: 2021-01-22T21:13:00Z
+    webUrl: "https://www.timesunion.com/news/article/AKA-sorority-members-celebrate-Kamala-Harris-15887911.php"
+    ampWebUrl: "https://www.timesunion.com/news/amp/AKA-sorority-members-celebrate-Kamala-Harris-15887911.php"
+    cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/AKA-sorority-members-celebrate-Kamala-Harris-15887911.php"
+    type: article
+    provider:
+      name: Times Union
+      domain: timesunion.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Vogue editor defends cover photo of US Vice-President-elect Kamala Harris"
+    excerpt: "image captionVogue editor Anna Wintour said images of Vice-President-elect Kamala Harris were meant to celebrate her achievements US Vogue editor Anna Wintour has defended the magazine following criticism of its front-cover portrait of Vice-President-elect ..."
+    publishedDateTime: 2021-01-13T07:29:00Z
+    webUrl: "https://www.bbc.co.uk/news/world-us-canada-55631499"
+    ampWebUrl: "https://www.bbc.co.uk/news/amp/world-us-canada-55631499"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/world-us-canada-55631499"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 74
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/119F2/production/_116487127_kam_win_reu.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Kamala Harris officially resigns from the US Senate ahead of inauguration"
+    excerpt: "Vice President-elect Kamala Harris has formally submitted a letter of resignation for her US Senate seat to California Gov. Gavin Newsom, ending her four-year career in the chamber."
+    publishedDateTime: 2021-01-18T22:49:00Z
+    webUrl: "https://www.mercurynews.com/2021/01/18/kamala-harris-officially-resigns-from-the-us-senate-ahead-of-inauguration/"
+    ampWebUrl: "https://www.mercurynews.com/2021/01/18/kamala-harris-officially-resigns-from-the-us-senate-ahead-of-inauguration/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/01/18/kamala-harris-officially-resigns-from-the-us-senate-ahead-of-inauguration/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 74
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/01/hypatia-h_b4c4004e4b0055dc58e440bfd2a392ef-h_82beb05c66e5b687c55d48020bcb0ebb.jpg?w=1024&h=726"
+        width: 1024
+        height: 726
+        isCached: true
+  - title: "Inauguration 2021: Joe Biden to be sworn in as president while Donald Trump leaves D.C. (live updates)"
+    excerpt: "Under ramped-up security and pandemic-era restrictions on gathering, President-elect Joe Biden is set to be sworn in Wednesday at the U.S. Capitol"
+    publishedDateTime: 2021-01-20T11:08:00Z
+    webUrl: "https://www.oregonlive.com/nation/2021/01/inauguration-2021-joe-biden-to-be-sworn-in-as-president-while-donald-trump-leaves-dc-live-updates.html"
+    ampWebUrl: "https://www.oregonlive.com/nation/2021/01/inauguration-2021-joe-biden-to-be-sworn-in-as-president-while-donald-trump-leaves-dc-live-updates.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/nation/2021/01/inauguration-2021-joe-biden-to-be-sworn-in-as-president-while-donald-trump-leaves-dc-live-updates.html?outputType=amp"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 74
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/FIFHVSSDDBHXPMWT3WNKUKJGDE.jpg"
+        width: 5114
+        height: 3409
+        isCached: true
+  - title: "Portland-area voters, Oregon leaders eager to celebrate the inauguration of Joe Biden and Kamala Harris"
+    excerpt: "Oregon went decisively for Joe Biden over Donald Trump in 2020 and in the Portland area, many people are planning to connect virtually to mark Inauguration Day festivities through social events large and small."
+    publishedDateTime: 2021-01-20T12:30:00Z
+    webUrl: "https://www.oregonlive.com/politics/2021/01/portland-area-voters-oregon-leaders-eager-to-celebrate-the-inauguration-of-joe-biden-and-kamala-harris.html"
+    ampWebUrl: "https://www.oregonlive.com/politics/2021/01/portland-area-voters-oregon-leaders-eager-to-celebrate-the-inauguration-of-joe-biden-and-kamala-harris.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/politics/2021/01/portland-area-voters-oregon-leaders-eager-to-celebrate-the-inauguration-of-joe-biden-and-kamala-harris.html?outputType=amp"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 74
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SKQF7IIYWZEOBKZXEKPOUS3IBE.JPG"
+        width: 4954
+        height: 3303
+        isCached: true
+  - title: "Why Kamala Harris Is Delaying Moving Into the Vice Presidential Residence"
+    excerpt: "The vice president and her husband are holding off on moving into the residence at the Naval Observatory, which was built in 1893."
+    publishedDateTime: 2021-01-21T16:36:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/why-kamala-harris-is-delaying-moving-into-the-vice-presidential-residence/2842314/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/why-kamala-harris-is-delaying-moving-into-the-vice-presidential-residence/2842314/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/why-kamala-harris-is-delaying-moving-into-the-vice-presidential-residence/2842314/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 74
+    images:
+      - url: "https://media.nbcnewyork.com/2021/01/kamalahouse.jpg?fit=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Kamala Harris will be sworn in as vice president by Justice Sonia Sotomayor"
+    excerpt: "WASHINGTON — Vice President-elect Kamala Harris will be sworn in by Supreme Court Justice Sonia Sotomayor on Wednesday, a history-making event in which the first Black, South Asian and female vice president will take her oath of office from the first Latina justice."
+    publishedDateTime: 2021-01-17T11:36:00Z
+    webUrl: "https://www.al.com/news/2021/01/kamala-harris-will-be-sworn-in-as-vice-president-by-justice-sonia-sotomayor.html"
+    ampWebUrl: "https://www.al.com/news/2021/01/kamala-harris-will-be-sworn-in-as-vice-president-by-justice-sonia-sotomayor.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/kamala-harris-will-be-sworn-in-as-vice-president-by-justice-sonia-sotomayor.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
     quality: 73
     images:
-      - url: "https://media.nbcnewyork.com/2020/12/106813442-1608298791436-gettyimages-1230191551-AFP_8XE34L.jpeg?resize=1200%2C675"
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/2Q6YECU6VRHRHG656IQN73Q55M.jpg"
+        width: 4444
+        height: 3154
+        isCached: true
+  - title: "Kamala Harris reflects on women who 'paved the way' for historic inauguration"
+    excerpt: "Kamala Harris marked her historic inauguration Wednesday as the first woman, first Black and South Asian American vice president with a tribute to her mother and the women who have fought for equality for 100 years."
+    publishedDateTime: 2021-01-20T15:43:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/01/20/Kamala-Harris-reflects-on-women-who-paved-the-way-for-historic-inauguration/2781611146989/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/01/20/Kamala-Harris-reflects-on-women-who-paved-the-way-for-historic-inauguration/2781611146989/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/01/20/Kamala-Harris-reflects-on-women-who-paved-the-way-for-historic-inauguration/2781611146989/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 72
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/2781611146989/2021/1/cf996d31798bff5bddd38c61db337836/v1.5/Kamala-Harris-reflects-on-women-who-paved-the-way-for-historic-inauguration.jpg"
+        width: 800
+        height: 532
+        isCached: true
+  - title: "Joe Biden, Kamala Harris Inauguration Day updates | Biden vows to defeat ‘domestic terror, white supremacy’"
+    excerpt: "At age 78, he was the oldest President inaugurated. More history was made at his side, as Kamala Harris became the first woman to be Vice-President. The former U.S. Senator from California is also ..."
+    publishedDateTime: 2021-01-21T12:10:00Z
+    webUrl: "https://www.thehindu.com/news/international/joe-biden-inauguration-day-2021-kamala-harrisunited-states-live-updates/article33615652.ece"
+    ampWebUrl: "https://www.thehindu.com/news/international/joe-biden-inauguration-day-2021-kamala-harrisunited-states-live-updates/article33615652.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/international/joe-biden-inauguration-day-2021-kamala-harrisunited-states-live-updates/article33615652.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 72
+    images:
+      - url: "https://www.thehindu.com/news/international/7zqikl/article33620433.ece/ALTERNATES/LANDSCAPE_615/bidenjpg"
+        width: 615
+        height: 384
+        isCached: true
+  - title: "Fact check: Vice President Kamala Harris used 2 Bibles when she was sworn in"
+    excerpt: "After the vice president's swearing-in ceremony, some claimed Harris refused to rest a hand on the Bible while taking the oath of office. That is false."
+    publishedDateTime: 2021-01-22T00:00:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/factcheck/2021/01/22/kamala-harris-bible-swearing-in-inauguration/6674484002/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/6674484002"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/6674484002"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 72
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/20/USAT/64dc4956-9db8-46ce-a3a8-376ae1b01ffe-XXX_RD1_5107.JPG?auto=webp&crop=5567,3132,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Kamala Harris to campaign in Georgia next week on behalf of Senate candidates"
-    excerpt: "ATLANTA — Vice President-elect Kamala Harris will visit Georgia next week to campaign on behalf of Democratic Senate candidates Jon Ossoff and Rev. Raphael Warnock, the Ossoff campaign confirmed Friday."
-    publishedDateTime: 2020-12-18T15:13:00Z
-    webUrl: "https://www.11alive.com/article/news/politics/kamala-harris-georgia-campaign-stops-next-week/85-d20be8aa-2e7e-40a0-9307-115b5dfa074b"
-    ampWebUrl: "https://www.11alive.com/amp/article/news/politics/kamala-harris-georgia-campaign-stops-next-week/85-d20be8aa-2e7e-40a0-9307-115b5dfa074b"
-    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/politics/kamala-harris-georgia-campaign-stops-next-week/85-d20be8aa-2e7e-40a0-9307-115b5dfa074b"
+  - title: "D.C. attorney general seeks to interview Donald Trump Jr. on inauguration funds"
+    excerpt: "The D.C. attorney general's office said Thursday it requested to interview Donald Trump Jr. as part of its investigation into the Presidential Inaugural Committee's alleged misuse of non-profit funds."
+    publishedDateTime: 2021-01-15T02:08:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/01/14/DC-attorney-general-seeks-to-interview-Donald-Trump-Jr-on-inauguration-funds/6401610666115/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/01/14/DC-attorney-general-seeks-to-interview-Donald-Trump-Jr-on-inauguration-funds/6401610666115/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/01/14/DC-attorney-general-seeks-to-interview-Donald-Trump-Jr-on-inauguration-funds/6401610666115/"
     type: article
     provider:
-      name: 11Alive
-      domain: 11alive.com
-    quality: 72
+      name: UPI.com
+      domain: upi.com
+    quality: 71
     images:
-      - url: "https://media.11alive.com/assets/WXIA/images/4ea913bb-bfcd-43f4-bcd4-9344687709d7/4ea913bb-bfcd-43f4-bcd4-9344687709d7_1140x641.jpg"
-        width: 1140
-        height: 641
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/6401610666115/2021/1/2c460360f32fa2d889fa9d067e4439d7/v1.5/DC-attorney-general-seeks-to-interview-Donald-Trump-Jr-on-inauguration-funds.jpg"
+        width: 800
+        height: 532
         isCached: true
-  - title: "Kamala Harris to campaign in Georgia next week on behalf of Senate candidates"
-    excerpt: "ATLANTA — Vice President-elect Kamala Harris will visit Georgia next week to campaign on behalf of Democratic Senate candidates Jon Ossoff and Rev. Raphael Warnock, the Ossoff campaign confirmed Friday."
-    publishedDateTime: 2020-12-19T15:13:00Z
-    webUrl: "https://www.firstcoastnews.com/article/news/politics/kamala-harris-georgia-campaign-stops-next-week/85-d20be8aa-2e7e-40a0-9307-115b5dfa074b"
-    ampWebUrl: "https://www.firstcoastnews.com/amp/article/news/politics/kamala-harris-georgia-campaign-stops-next-week/85-d20be8aa-2e7e-40a0-9307-115b5dfa074b"
-    cdnAmpWebUrl: "https://www-firstcoastnews-com.cdn.ampproject.org/c/s/www.firstcoastnews.com/amp/article/news/politics/kamala-harris-georgia-campaign-stops-next-week/85-d20be8aa-2e7e-40a0-9307-115b5dfa074b"
+  - title: "As Kamala Harris prepares to take the VP spot, local women say: It's about time"
+    excerpt: "Kamala Harris' journey to the second highest office in the land is more important now than ever, and offers a promise of a better future. When Kamala Harris gave her acceptance speech in August for the Democratic vice presidential nomination, Brandy R."
+    publishedDateTime: 2021-01-17T11:26:00Z
+    webUrl: "https://www.freep.com/in-depth/news/local/2021/01/17/michigan-women-inspired-kamala-harris-historic-vp-win/4158333001/"
+    ampWebUrl: "https://amp.freep.com/amp/4158333001"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/4158333001"
     type: article
     provider:
-      name: First Coast News
-      domain: firstcoastnews.com
-    quality: 72
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 71
     images:
-      - url: "https://media.firstcoastnews.com/assets/WXIA/images/4ea913bb-bfcd-43f4-bcd4-9344687709d7/4ea913bb-bfcd-43f4-bcd4-9344687709d7_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "Joe Biden and Kamala Harris Jointly Named Time's 'Person of the Year'"
-    excerpt: "Democratic presidential candidate and former Vice President Joe Biden and U.S. Senator and Democratic candidate for Vice President Kamala Harris celebrate outside the"
-    publishedDateTime: 2020-12-12T01:44:00Z
-    webUrl: "https://www.usnews.com/news/world/articles/2020-12-10/four-finalists-vie-for-times-person-of-the-year-for-2020"
-    ampWebUrl: "https://www.usnews.com/news/world/articles/2020-12-10/four-finalists-vie-for-times-person-of-the-year-for-2020?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2020-12-10/four-finalists-vie-for-times-person-of-the-year-for-2020?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 70
-  - title: "Mike Pence to receive the COVID-19 vaccine publicly Friday; Joe Biden will get vaccinated as soon as next week"
-    excerpt: "President-elect Joe Biden and Vice President Mike Pence are set to receive the COVID-19 vaccine soon. According to two transition officials familiar with the matter, Biden will receive the vaccine publicly as early as next week."
-    publishedDateTime: 2020-12-18T04:11:00Z
-    webUrl: "https://www.courant.com/coronavirus/ct-nw-coronavirus-vaccine-updates-20201216-c6tg5amn4falrjgbtn3qz6ecbu-story.html"
-    ampWebUrl: "https://www.courant.com/coronavirus/ct-nw-coronavirus-vaccine-updates-20201216-c6tg5amn4falrjgbtn3qz6ecbu-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/coronavirus/ct-nw-coronavirus-vaccine-updates-20201216-c6tg5amn4falrjgbtn3qz6ecbu-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Hartford Courant
-      domain: courant.com
-    quality: 70
-    images:
-      - url: "https://www.courant.com/resizer/hYN6EUFAOTPNMejHaG53Z3Ee8s4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/HCKIMEA6QG5AJ3X3SLM52NSIDE.aspx"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Kamala Harris, Ivanka Trump making appeals to Georgia voters"
-    excerpt: "Monday's appearances were part of a string of pre-runoff visits by high-profile surrogates of the outgoing president and the president-elect."
-    publishedDateTime: 2020-12-21T22:09:00Z
-    webUrl: "https://www.bostonglobe.com/2020/12/21/nation/kamala-harris-ivanka-trump-making-appeals-georgia-voters/"
-    ampWebUrl: "https://www.bostonglobe.com/2020/12/21/nation/kamala-harris-ivanka-trump-making-appeals-georgia-voters/?outputType=amp"
-    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/12/21/nation/kamala-harris-ivanka-trump-making-appeals-georgia-voters/?outputType=amp"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 70
-  - title: "Connecticut’s presidential electors cast 7 ballots for Democrats Joe Biden and Kamala Harris in Electoral College"
-    excerpt: "Connecticut’s seven Democratic electors voted for President-elect Joe Biden during a noontime Electoral College ceremony at the state Capitol Monday, placing their individual paper ballots in a historic,"
-    publishedDateTime: 2020-12-15T16:56:00Z
-    webUrl: "https://www.courant.com/politics/hc-pol-connecticut-electors-for-joe-biden-20201214-hcfhgnh6fbgtvknc27pomqazcy-story.html"
-    ampWebUrl: "https://www.courant.com/politics/hc-pol-connecticut-electors-for-joe-biden-20201214-hcfhgnh6fbgtvknc27pomqazcy-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/politics/hc-pol-connecticut-electors-for-joe-biden-20201214-hcfhgnh6fbgtvknc27pomqazcy-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Hartford Courant
-      domain: courant.com
-    quality: 69
-    images:
-      - url: "https://www.courant.com/resizer/jApQITGhzn7otSTJ_mC2JNija8Y=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NLD44KDXDDUMYDJCN4FGGFUQGM.jpg"
-        width: 1200
-        height: 820
-        isCached: true
-  - title: "Donald Trump, Mike Pence, Congress, Supreme Court will be offered COVID-19 vaccine in coming days, officials say"
-    excerpt: "It was not clear if President-elect Joe Biden, Vice President-elect Kamala Harris and members of his transition team would get early vaccinations."
-    publishedDateTime: 2020-12-16T08:25:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/2020/12/13/trump-pence-congress-supreme-court-coronavirus-vaccine/6533449002/"
-    ampWebUrl: "https://amp.azcentral.com/amp/6533449002"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6533449002"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 69
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/13/USAT/a52e7e4e-e2be-44bf-87a8-e608c83418cc-GTY_1230113245.jpg?auto=webp&crop=3620,2036,x934,y796&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2021/01/15/PDTF/11cb5287-e7a5-4cce-bdbf-c65b987444e9-AP20313061585459.jpg?auto=webp&crop=5081,2859,x0,y258&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump Says He Is Not Involved in Potential Prosecution of Biden's Son Hunter"
-    excerpt: "President Donald Trump said on Thursday that he had nothing to do with any potential prosecution of President-elect Joe Biden's son, Hunter, who has disclosed that his taxes are being investigated by a federal prosecutor in Delaware."
-    publishedDateTime: 2020-12-18T00:08:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2020-12-17/trump-says-he-is-not-involved-in-potential-prosecution-of-hunter-biden"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-12-17/trump-says-he-is-not-involved-in-potential-prosecution-of-hunter-biden?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-12-17/trump-says-he-is-not-involved-in-potential-prosecution-of-hunter-biden?context=amp"
+  - title: "Where and when to watch the inauguration of President-elect Joe Biden and Vice President-elect Kamala Harris"
+    excerpt: "Coverage of the 59th presidential inauguration begins at 7 a.m. Pacific time Wednesday at the Capitol with the swearing in of Kamala Harris as vice president and Joe Biden as president just before"
+    publishedDateTime: 2021-01-20T12:09:00Z
+    webUrl: "https://www.mercurynews.com/2021/01/20/where-and-when-to-watch-the-inauguration-of-president-elect-joe-biden-and-vice-president-elect-kamala-harris/"
+    ampWebUrl: "https://www.mercurynews.com/2021/01/20/where-and-when-to-watch-the-inauguration-of-president-elect-joe-biden-and-vice-president-elect-kamala-harris/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/01/20/where-and-when-to-watch-the-inauguration-of-president-elect-joe-biden-and-vice-president-elect-kamala-harris/amp/"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 67
-  - title: "Wisconsin's 10 electoral votes were officially cast for Joe Biden and Kamala Harris"
-    excerpt: "Democratic electors met with Gov. Tony Evers' to finalize the state's 10 electoral votes for President-elect Biden and Vice President-elect Kamala Harris,"
-    publishedDateTime: 2020-12-14T23:40:00Z
-    webUrl: "https://www.jsonline.com/videos/news/2020/12/14/joe-biden-and-kamala-harris-get-wisconsins-10-electoral-votes/6549689002/"
-    type: article
-    provider:
-      name: Milwaukee Journal Sentinel
-      domain: jsonline.com
-    quality: 64
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 71
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/14/PMJS/74ab24df-502a-4778-b0d8-f3e190494555-AP_Electoral_College_Wisconsin.jpg?quality=10"
-        width: 4192
-        height: 2795
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/01/AP21020590420742.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "Fox’s Kilmeade Goes OFF on Hunter Biden Tax Investigation, Suggests It Could Cost Joe the Presidency: ‘Good News for Kamala Harris’"
-    excerpt: "Fox News' Brian Kilmeade suggested that Joe Biden's presidency might be brought to an early end over the investigation into his son, Hunter."
-    publishedDateTime: 2020-12-10T14:02:00Z
-    webUrl: "https://www.mediaite.com/tv/foxs-kilmeade-goes-off-on-hunter-biden-tax-investigation-suggests-it-could-cost-joe-the-presidency-good-news-for-kamala-harris/"
-    ampWebUrl: "https://www.mediaite.com/tv/foxs-kilmeade-goes-off-on-hunter-biden-tax-investigation-suggests-it-could-cost-joe-the-presidency-good-news-for-kamala-harris/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/foxs-kilmeade-goes-off-on-hunter-biden-tax-investigation-suggests-it-could-cost-joe-the-presidency-good-news-for-kamala-harris/amp/"
+  - title: "Supreme Court Justice Sonia Sotomayor to swear in Kamala Harris as vice president"
+    excerpt: "Vice President-elect Kamala Harris will take oath of office on a Bible belonging to Thurgood Marshall during inaugural ceremony at the U.S. Capitol."
+    publishedDateTime: 2021-01-16T22:15:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/01/16/inauguration-sonia-sotomayor-swear-kamala-harris-vice-president/4191676001/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/4191676001"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/4191676001"
     type: article
     provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 60
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 70
     images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/12/Screen-Shot-2020-12-10-at-8.36.42-AM-1200x674.jpg"
+      - url: "https://www.gannett-cdn.com/presto/2021/01/11/USAT/c5bf9530-87e0-4af2-b3d8-20bc45f8cc5d-AFP_AFP_8YE8DQ.jpg?auto=webp&crop=3839,2159,x1,y360&format=pjpg&width=1200"
         width: 1200
-        height: 674
+        height: 675
         isCached: true
-  - title: "Illinois casts all 20 electoral votes for Joe Biden and Kamala Harris; Mayor Lori Lightfoot wielded gavel as electors cast ballots"
-    excerpt: "Secretary of State Jesse White, who officially oversees the quadrennial session, passed the gavel to Mayor Lori Lightfoot, an elector."
-    publishedDateTime: 2020-12-14T17:52:00Z
-    webUrl: "https://chicago.suntimes.com/elections/2020/12/14/22174386/illinois-electoral-votes-joe-biden-kamala-harris-mayor-lori-lightfoot-presided"
-    ampWebUrl: "https://chicago.suntimes.com/platform/amp/elections/2020/12/14/22174386/illinois-electoral-votes-joe-biden-kamala-harris-mayor-lori-lightfoot-presided"
-    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/elections/2020/12/14/22174386/illinois-electoral-votes-joe-biden-kamala-harris-mayor-lori-lightfoot-presided"
+  - title: "Trump Spends Last Day In White House, Biden Goes To Washington"
+    excerpt: "President Donald Trump spent his last full day in the White House mulling pardons Tuesday and President-elect Joe Biden was set to arrive in Washington ahead of an inauguration that his predecessor, in a final break with tradition,"
+    publishedDateTime: 2021-01-19T15:07:00Z
+    webUrl: "https://www.ibtimes.com/trump-spends-last-day-white-house-biden-goes-washington-3125264"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 70
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/18/president-donald-trump-will-leave-on-marine-one.jpg"
+        width: 1024
+        height: 687
+        isCached: true
+  - title: "Watch live video: Inauguration of Joe Biden and Kamala Harris"
+    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris will be inaugurated Wednesday in Washington, D.C., with tens of thousands of National Guard troops stationed around the city amid what federal prosecutors characterize as an ongoing insurrection,"
+    publishedDateTime: 2021-01-20T04:17:00Z
+    webUrl: "https://www.sfchronicle.com/politics/article/Watch-live-video-Inauguration-Biden-Harris-15883461.php"
+    ampWebUrl: "https://www.sfchronicle.com/politics/amp/Watch-live-video-Inauguration-Biden-Harris-15883461.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/Watch-live-video-Inauguration-Biden-Harris-15883461.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 70
+  - title: "Watch Mike Pence arrive at Biden's inauguration ceremony"
+    excerpt: "Outgoing Vice President Mike Pence and his wife Karen arrive at the inauguration ceremony of President-elect Joe Biden. Outgoing President Donald Trump is not attending the inauguration. He is the"
+    publishedDateTime: 2021-01-20T17:52:00Z
+    webUrl: "https://www.djournal.com/news/national/watch-mike-pence-arrive-at-bidens-inauguration-ceremony/video_c54dbb28-30a9-5a55-886a-5965c943af75.html"
+    type: article
+    provider:
+      name: Daily Journal
+      domain: djournal.com
+    quality: 70
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/c/54/c54dbb28-30a9-5a55-886a-5965c943af75/60085eb647c82.image.jpg?resize=576%2C324"
+        width: 576
+        height: 324
+        isCached: true
+  - title: "Barack Obama, Kamala Harris Share Heartwarming Birthday Tributes For Michelle Obama"
+    excerpt: "Barack Obama, Kamala Harris and more shared heartfelt messages for Michelle Obama on her 57th birthday Sunday."
+    publishedDateTime: 2021-01-18T04:52:00Z
+    webUrl: "https://www.ibtimes.com/barack-obama-kamala-harris-share-heartwarming-birthday-tributes-michelle-obama-3124545"
+    ampWebUrl: "https://www.ibtimes.com/barack-obama-kamala-harris-share-heartwarming-birthday-tributes-michelle-obama-3124545?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/barack-obama-kamala-harris-share-heartwarming-birthday-tributes-michelle-obama-3124545?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 69
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2018/06/29/michelle-obama.jpg"
+        width: 1200
+        height: 808
+        isCached: true
+  - title: "What it will mean to have Californian Kamala Harris in the room at the White House"
+    excerpt: "Kamala Harris is the first vice president from the West Coast since Richard Nixon served under President Dwight Eisenhower more than 60 years ago. She’s the first woman, Black and South Asian to hold the office."
+    publishedDateTime: 2021-01-20T09:00:00Z
+    webUrl: "https://www.sacbee.com/news/politics-government/article248600890.html"
+    ampWebUrl: "https://amp.sacbee.com/news/politics-government/article248600890.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/article248600890.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 69
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/63d9f42b-c483-4ee8-919b-d259db76963f/518d9ebe-a0dd-4aca-884c-fbc36cf24138/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Washington Post insiders are speculating over who might replace its revered editor Marty Baron and how the paper will adapt to the post-Trump era"
+    excerpt: "The Post faces its biggest moment of transition since Jeff Bezos bought the paper as Trump leaves office and Baron eyes retirement."
+    publishedDateTime: 2021-01-20T14:36:00Z
+    webUrl: "https://www.businessinsider.com/washington-post-life-after-marty-baron-post-trump-era-2021-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 68
+    images:
+      - url: "https://i.insider.com/60070ff1660f6c0018349c22?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Kamala Harris Sworn in as Vice President of the U.S. Wearing Christopher John Rogers"
+    excerpt: "On Wednesday, Kamala Harris became the first female, first Black and first South Asian Vice President of the U.S. And she took the oath of office wearing a prominent Black American designer."
+    publishedDateTime: 2021-01-21T14:24:00Z
+    webUrl: "https://fashionista.com/2021/01/kamala-harris-inauguration-day-outfit"
+    ampWebUrl: "https://fashionista.com/.amp/2021/01/kamala-harris-inauguration-day-outfit"
+    cdnAmpWebUrl: "https://fashionista-com.cdn.ampproject.org/c/s/fashionista.com/.amp/2021/01/kamala-harris-inauguration-day-outfit"
+    type: article
+    provider:
+      name: Fashionista.com
+      domain: fashionista.com
+    quality: 68
+    images:
+      - url: "https://fashionista.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTc4MzY5MDQyMzQ2NjgxOTYw/gettyimages-1297447410.jpg"
+        width: 620
+        height: 414
+        isCached: true
+  - title: "Vice President-elect Kamala Harris to be sworn in by Justice Sotomayor at inauguration"
+    excerpt: "Harris will use two Bibles for the swearing-in, one of which belonged to Thurgood Marshall, the first Black Supreme Court justice."
+    publishedDateTime: 2021-01-17T19:12:00Z
+    webUrl: "https://chicago.suntimes.com/2021/1/17/22236017/inauguration-2021-kamala-harris-justice-sonia-sotomayor"
+    ampWebUrl: "https://chicago.suntimes.com/platform/amp/2021/1/17/22236017/inauguration-2021-kamala-harris-justice-sonia-sotomayor"
+    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/2021/1/17/22236017/inauguration-2021-kamala-harris-justice-sonia-sotomayor"
     type: article
     provider:
       name: Chicago Sun-Times
       domain: suntimes.com
-    quality: 60
+    quality: 67
     images:
-      - url: "https://cdn.vox-cdn.com/thumbor/bJoF6xLj2a3S0QfuWhN_CUU6A3w=/0x0:1440x900/1400x1050/filters:focal(659x407:889x637):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68510610/Electors.7.png"
-        width: 1400
-        height: 900
+      - url: "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
-  - title: "Kamala Harris Will Play Major Role As Vice President, Historian Says"
-    excerpt: "Historian Julian Zelizer writes that the vice president will be a major voice in the White House during the next four years."
-    publishedDateTime: 2020-12-08T16:50:00Z
-    webUrl: "https://www.wbur.org/hereandnow/2020/12/08/kamala-harris-voice-white-house"
+  - title: "Live inauguration updates: Joe Biden is hours away from becoming nation's 46th president, Trump to depart White House"
+    excerpt: "Joseph R. Biden will be sworn in amid a worsening pandemic, a reeling economy, racial justice concerns and a nation deeply fractured politically."
+    publishedDateTime: 2021-01-20T10:06:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/01/20/live-biden-inauguration-updates-joe-biden-become-46th-president/4214160001/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/4214160001"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/4214160001"
     type: article
     provider:
-      name: WBUR
-      domain: wbur.org
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 67
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/19/USAT/5102ae5d-9cfc-43c6-b0d2-a7941de75a27-biden_ap_photo.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "'Washed out mess': Vogue puts Kamala Harris on the cover, but Twitter users aren't happy"
+    excerpt: "Vice President-elect Kamala Harris is splashed on the February cover of Vogue, but social media isn't crazy about the magazine's photo choice."
+    publishedDateTime: 2021-01-10T22:39:00Z
+    webUrl: "https://www.desmoinesregister.com/story/entertainment/celebrities/2021/01/10/kamala-harris-vogues-cover-star-but-twitter-users-hate-photo/6615222002/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/6615222002"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/6615222002"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 66
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/10/USAT/af029ec2-8407-4920-9107-97d66d067e40-VO0221_Cover_4x5.jpg?auto=webp&crop=1599,899,x0,y17&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Vogue's Kamala Harris Cover Was an Underwhelming Miss — and Her Supporters Want to Know Why"
+    excerpt: "The criticism of the cover runs the gamut from way the photograph is lit, which some say washes out her features, to the overall styling that others say fall far short of capturing the country’s first Black woman to be elected vice president."
+    publishedDateTime: 2021-01-11T19:10:00Z
+    webUrl: "https://www.nbcnewyork.com/lx/vogues-kamala-harris-cover-was-an-underwhelming-miss-and-her-supporters-want-to-know-why/2824244/"
+    ampWebUrl: "https://www.nbcnewyork.com/lx/vogues-kamala-harris-cover-was-an-underwhelming-miss-and-her-supporters-want-to-know-why/2824244/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/lx/vogues-kamala-harris-cover-was-an-underwhelming-miss-and-her-supporters-want-to-know-why/2824244/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 65
+    images:
+      - url: "https://media.nbcnewyork.com/2021/01/kamala-harris-vogue.jpg?resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "President-elect Joe Biden, Kamala Harris volunteer on Martin Luther King Jr. Day"
+    excerpt: "President-elect Joe Biden and his wife Jill volunteered at a food kitchen in Pennsylvania to honor Rev. Martin Luther King Jr."
+    publishedDateTime: 2021-01-18T20:33:00Z
+    webUrl: "https://www.freep.com/videos/news/politics/2021/01/18/mlk-day-joe-and-jill-biden-participate-day-service/4205453001/"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 65
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/18/USAT/c30f6997-0d9d-41f5-83b4-a9602990e72f-VPC_BIDEN_HARRIS_MLK_WRAP_DESK_THUMB.00_00_00_00.Still001.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Vice President Kamala Harris steps into history as first woman of color to hold the office"
+    excerpt: "Kamala Harris is the first woman, first Black American and first South Asian to hold the office of the vice presidency."
+    publishedDateTime: 2021-01-20T20:41:00Z
+    webUrl: "https://www.statesman.com/story/news/politics/2021/01/20/inauguration-vice-president-kamala-harris-first-female-person-color-sworn-in/4217882001/"
+    ampWebUrl: "https://amp.statesman.com/amp/4217882001"
+    cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/4217882001"
+    type: article
+    provider:
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 65
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/20/USAT/12596166-30c8-46df-82b2-337deadffdf6-USP_News-Inauguration__Biden_Harris_Inauguration.jpg?auto=webp&crop=2834,1595,x0,y193&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Vice President Kamala Harris steps into history as first woman of color to hold the office"
+    excerpt: "WASHINGTON – Vice President Kamala Harris took the oath office in a barrier-breaking ceremony Wednesday, becoming the first woman, first Black American and first South Asian American to hold ..."
+    publishedDateTime: 2021-01-21T20:18:00Z
+    webUrl: "https://www.palmbeachpost.com/story/news/politics/2021/01/20/inauguration-vice-president-kamala-harris-first-female-person-color-sworn-in/4217882001/"
+    ampWebUrl: "https://amp.palmbeachpost.com/amp/4217882001"
+    cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/4217882001"
+    type: article
+    provider:
+      name: Palm Beach Post
+      domain: palmbeachpost.com
+    quality: 65
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/20/USAT/12596166-30c8-46df-82b2-337deadffdf6-USP_News-Inauguration__Biden_Harris_Inauguration.jpg?auto=webp&crop=2834,1595,x0,y193&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Kamala Harris says California’s water crisis is a racial injustice. Will she champion equity?"
+    excerpt: "Racism is fueling disparities in access to safe water,” Senator Kamala Harris said before she was elected vice president."
+    publishedDateTime: 2021-01-21T12:00:00Z
+    webUrl: "https://www.sacbee.com/news/california/article248643865.html"
+    ampWebUrl: "https://amp.sacbee.com/news/california/article248643865.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/california/article248643865.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 64
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/a5505992-af37-4a21-98ec-312f202c7420/396453a2-5816-4b39-b65c-a0acd9a30685/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Warriors post inspiring video celebrating Oakland native Kamala Harris ahead of Inauguration"
+    excerpt: "The Golden State Warriors honored Harris in a video the team account posted on Twitter on Wednesday. The video features a young girl, Stella, from Oakland. “I like that Kamala is from Oakland, too,” Stella says."
+    publishedDateTime: 2021-01-20T22:12:00Z
+    webUrl: "https://www.mercurynews.com/2021/01/20/warriors-post-inspiring-video-celebrating-oakland-native-kamala-harris-ahead-of-inauguration/"
+    ampWebUrl: "https://www.mercurynews.com/2021/01/20/warriors-post-inspiring-video-celebrating-oakland-native-kamala-harris-ahead-of-inauguration/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/01/20/warriors-post-inspiring-video-celebrating-oakland-native-kamala-harris-ahead-of-inauguration/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 64
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/01/hypatia-h_b4c4004e4b0055dc58e440bfd2a392ef-h_82beb05c66e5b687c55d48020bcb0ebb.jpg?w=1024&h=726"
+        width: 1024
+        height: 726
+        isCached: true
+  - title: "Martin Luther King Jr. Day, COVID-19 pandemic, Kamala Harris: 5 things you need to know Monday"
+    excerpt: "Martin Luther King Jr.'s words resonate, decades later. Across the nation, scores of marches, parades and other events to mark the holiday honoring Martin Luther King Jr. have bee"
+    publishedDateTime: 2021-01-18T07:58:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/2021/01/18/martin-luther-king-jr-day-covid-19-kamala-harris-5-things-know-monday/4149360001/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/4149360001"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/4149360001"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 63
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/18/USAT/d79e17bf-69a3-4cc5-86a0-abaefd135b92-GTY_1296405180.jpg?auto=webp&crop=2967,1669,x0,y971&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Martin Luther King Jr. Day, COVID-19 pandemic, Kamala Harris: 5 things you need to know Monday"
+    excerpt: "Martin Luther King Jr.'s words resonate, decades later. Across the nation, scores of marches, parades and other events to mark the holiday honoring Martin Luther King Jr. have bee"
+    publishedDateTime: 2021-01-18T16:04:00Z
+    webUrl: "https://www.azcentral.com/story/news/2021/01/18/martin-luther-king-jr-day-covid-19-kamala-harris-5-things-know-monday/4149360001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/4149360001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/4149360001"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 63
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/18/USAT/d79e17bf-69a3-4cc5-86a0-abaefd135b92-GTY_1296405180.jpg?auto=webp&crop=2967,1669,x0,y971&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Kamala Harris: The bible and Bay Area friends she holds dear will be there at historic inauguration"
+    excerpt: "Kamala Harris will be sworn in as the 49th vice president of the United States on Wednesday with a humble, beloved Bible that once belonged to the neighbor who took care of her a half century ago"
+    publishedDateTime: 2021-01-20T01:04:00Z
+    webUrl: "https://www.mercurynews.com/2021/01/19/kamala-harris-the-bible-and-bay-area-friends-she-holds-dear-will-be-there-at-historic-inauguration/"
+    ampWebUrl: "https://www.mercurynews.com/2021/01/19/kamala-harris-the-bible-and-bay-area-friends-she-holds-dear-will-be-there-at-historic-inauguration/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/01/19/kamala-harris-the-bible-and-bay-area-friends-she-holds-dear-will-be-there-at-historic-inauguration/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 61
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/01/SJM-L-KAMALA-0120-4.jpg?w=1024&h=687"
+        width: 1024
+        height: 687
+        isCached: true
+  - title: "Mike Pence heads to California to talk up Trump’s foreign policy in administration’s final days"
+    excerpt: "Vice President Mike Pence is landing Saturday at Lemoore Naval Air Station, where he will pay tribute to what he sees as the Trump Administration’s foreign policy legacy in an afternoon address to service members."
+    publishedDateTime: 2021-01-16T21:38:00Z
+    webUrl: "https://www.sanluisobispo.com/news/california/article248542320.html"
+    ampWebUrl: "https://amp.sanluisobispo.com/news/california/article248542320.html"
+    cdnAmpWebUrl: "https://amp-sanluisobispo-com.cdn.ampproject.org/c/s/amp.sanluisobispo.com/news/california/article248542320.html"
+    type: article
+    provider:
+      name: SanLuisObispo
+      domain: sanluisobispo.com
+    quality: 58
+  - title: "‘There’s some barriers being broke down,’ says Flint woman of Kamala Harris’ historic inauguration as VP"
+    excerpt: "People are really hungry for something different,” Egypt Otis, owner of Comma Bookstore and Social Hub, said. “People are really hungry for change and it’s really important to see that representation."
+    publishedDateTime: 2021-01-21T02:39:00Z
+    webUrl: "https://www.mlive.com/news/flint/2021/01/theres-some-barriers-being-broke-down-says-flint-woman-of-kamala-harris-historic-inauguration-as-vp.html"
+    ampWebUrl: "https://www.mlive.com/news/flint/2021/01/theres-some-barriers-being-broke-down-says-flint-woman-of-kamala-harris-historic-inauguration-as-vp.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/flint/2021/01/theres-some-barriers-being-broke-down-says-flint-woman-of-kamala-harris-historic-inauguration-as-vp.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 58
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/CIJ3JWPB6JHE7GQMCFGPOYG2EE.JPG"
+        width: 3200
+        height: 2133
+        isCached: true
+  - title: "Inauguration news updates, Jan. 19: On Donald Trump’s final full day as president, Joe Biden prepares to take office"
+    excerpt: "We’re updating this page throughout the day with the latest politics, protest and inauguration news from across the U.S. and world on the final full day of Donald Trump's presidency."
+    publishedDateTime: 2021-01-20T07:22:00Z
+    webUrl: "https://www.seattletimes.com/seattle-news/politics/inauguration-news-updates-jan-19-on-donald-trumps-final-full-day-as-president-joe-biden-prepares-to-take-office/"
+    ampWebUrl: "https://www.seattletimes.com/seattle-news/politics/inauguration-news-updates-jan-19-on-donald-trumps-final-full-day-as-president-joe-biden-prepares-to-take-office/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/seattle-news/politics/inauguration-news-updates-jan-19-on-donald-trumps-final-full-day-as-president-joe-biden-prepares-to-take-office/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 57
+  - title: "Arts agency member resigns after vulgar comment about Harris"
+    excerpt: "An appointee to the Ohio Arts Council resigned Friday after making a vulgar comment on social media about Vice President-elect Kamala Harris that also supported President"
+    publishedDateTime: 2021-01-09T00:51:00Z
+    webUrl: "https://www.stltoday.com/entertainment/arts-agency-member-resigns-after-vulgar-comment-about-harris/article_4945c5ae-6ba7-5344-b3fd-6f47e6a02d8c.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
     quality: 55
     images:
-      - url: "https://d279m997dpfwgl.cloudfront.net/wp/2016/06/HereandNow-3000b.jpg"
-        width: 3000
-        height: 3000
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/custom/image/4ce82390-59b2-11e6-a3c5-b77ec6e8d16d.png?resize=600%2C517"
+        width: 600
+        height: 517
         isCached: true
-  - title: "Why Trump's Latest Electoral College Ploy Is Doomed to Fail"
-    excerpt: "Even as President-elect Joe Biden’s victory was affirmed by the Electoral College, Republican electors supporting President Donald Trump met in a handful of battleground states won by Biden and tried to appoint themselves as “alternate electors\" that could keep the president in office."
-    publishedDateTime: 2020-12-14T22:48:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-14/why-trumps-latest-electoral-college-ploy-is-doomed-to-fail"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-14/why-trumps-latest-electoral-college-ploy-is-doomed-to-fail?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-14/why-trumps-latest-electoral-college-ploy-is-doomed-to-fail?context=amp"
+  - title: "Vice President Elect Kamala Harris"
+    excerpt: "Mark Coles presents a profile of Kamala Harris, Vice President Elect"
+    publishedDateTime: 2021-01-09T18:38:00Z
+    webUrl: "https://www.bbc.co.uk/programmes/w3ct1d1d"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 55
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/1200x675/p093gkjh.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump Impeached For Unprecedented Second Time"
+    excerpt: "Donald Trump became the first US president in history to be impeached twice when the US House of Representatives voted Wednesday to charge him with inciting last week's mob attack on Congress. \"Today,"
+    publishedDateTime: 2021-01-14T06:17:00Z
+    webUrl: "https://www.ibtimes.com/trump-impeached-unprecedented-second-time-3121095"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/08/14/us-speaker-of-the-house-nancy-pelosi-is.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Kamala Harris to resign from Senate on Monday"
+    excerpt: "Vice President-elect Kamala Harris will resign from the Senate on Monday, according to a Harris aide. The California Democrat’s resignation will come two days before she becomes the nation’s first female vice president, and the first person of color to ..."
+    publishedDateTime: 2021-01-18T10:51:00Z
+    webUrl: "https://www.rollcall.com/2021/01/17/kamala-harris-to-resign-from-senate-on-monday/"
+    type: article
+    provider:
+      name: Roll Call
+      domain: rollcall.com
+    quality: 55
+    images:
+      - url: "https://content.rollcall.com/wp-content/uploads/2021/01/harris_BC_021_060220.jpg?resize=1200,600"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Kamala Harris to resign from Senate"
+    excerpt: "Senate on Monday, according to a Harris aide. The California Democrat’s resignation will come two days before she becomes the nation’s first female vice president, and the first person of color to hold that office."
+    publishedDateTime: 2021-01-18T18:30:00Z
+    webUrl: "https://www.sfexaminer.com/national-news/kamala-harris-to-resign-from-senate/"
+    type: article
+    provider:
+      name: San Francisco Examiner
+      domain: sfexaminer.com
+    quality: 55
+    images:
+      - url: "https://www.sfexaminer.com/wp-content/uploads/2021/01/23949372_web1_210118-SFE-kamalaharris_1-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Trump Mulling Pardons On Last Full Day In Power"
+    excerpt: "President Donald Trump began his final full day in the White House Tuesday with a long list of possible pardons to dish out before snubbing his successor Joe Biden's inauguration and leaving for Florida."
+    publishedDateTime: 2021-01-19T05:32:00Z
+    webUrl: "https://www.ibtimes.com/trump-mulling-pardons-last-full-day-power-3125264"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/18/president-donald-trump-will-leave-on-marine-one.jpg"
+        width: 1024
+        height: 687
+        isCached: true
+  - title: "Indian Villagers Celebrate Inauguration of Kamala Harris"
+    excerpt: "Residents of the ancestral Indian village of Kamala Harris celebrated her inauguration as U.S. vice president on Wednesday by setting off firecrackers and distributing food. Thulasendrapuram, a leafy village about 320 km (200 miles) south of the city of Chennai,"
+    publishedDateTime: 2021-01-20T12:17:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2021-01-20/indian-villagers-celebrate-inauguration-of-kamala-harris"
+    ampWebUrl: "https://www.usnews.com/news/world/articles/2021-01-20/indian-villagers-celebrate-inauguration-of-kamala-harris?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2021-01-20/indian-villagers-celebrate-inauguration-of-kamala-harris?context=amp"
     type: article
     provider:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
-  - title: "California Secretary of State Alex Padilla appointed to replace Vice President-elect Kamala Harris in US Senate"
-    excerpt: "California Gov. Gavin Newsom appointed Secretary of State Alex Padilla on Tuesday as the state’s next U.S. senator to fill the seat being vacated by Vice President-elect Kamala Harris."
-    publishedDateTime: 2020-12-22T21:32:00Z
-    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-kamala-harris-senate-replacement-alex-padilla-20201222-76fpd657ijexlkibk2er4zgghq-story.html"
-    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-kamala-harris-senate-replacement-alex-padilla-20201222-76fpd657ijexlkibk2er4zgghq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-nw-kamala-harris-senate-replacement-alex-padilla-20201222-76fpd657ijexlkibk2er4zgghq-story.html?outputType=amp"
+  - title: "Mike Pence Greets White House Staffers in Washington"
+    excerpt: "U.S. Vice President Mike Pence poses for a group photo with staff members outside the West Wing of the White House in Washington, DC on January 19, 2021. Pool Photo by Yuri Gripas/UPI"
+    publishedDateTime: 2021-01-19T21:04:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/31056b39c3bed6e8184373d7a3205b2f/Mike-Pence-Greets-White-House-Staffers-in-Washington/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/31056b39c3bed6e8184373d7a3205b2f/PENCE-STAFF.jpg"
+        width: 650
+        height: 433
+        isCached: true
+  - title: "Trump Pardons 73 People, Including Steve Bannon, On Last Day"
+    excerpt: "US President Donald Trump on Wednesday pardoned 73 people, including his former aide Steve Bannon and other allies, just hours before he was due to leave office. The list of those pardoned -- as well as 70 others whose sentences were commuted -- was released by the White House in a statement during the early hours."
+    publishedDateTime: 2021-01-20T07:05:00Z
+    webUrl: "https://www.ibtimes.com/trump-pardons-73-people-including-steve-bannon-last-day-3126267"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/20/former-aide-steve-bannon-was-one-of-73.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Kamala Harris’ new role sets her up as a star waiting in the wings"
+    excerpt: "Vice President Kamala Harris and her husband Doug Emhoff (Image: AP/Jacquelyn Martin) US Vice-President Kamala Harris held her head high as she took the oath of office. She stood stern and sincere ..."
+    publishedDateTime: 2021-01-21T01:16:00Z
+    webUrl: "https://www.crikey.com.au/2021/01/21/kamala-harris-historical-vice-president/"
+    type: article
+    provider:
+      name: Crikey
+      domain: crikey.com.au
+    quality: 55
+    images:
+      - url: "https://www.crikey.com.au/wp-content/uploads/2021/01/AMBER-HARRIS.jpg"
+        width: 740
+        height: 400
+        isCached: true
+  - title: "Trump Leaves Icy Washington For Loving Florida Home"
+    excerpt: "Donald Trump wanted a hero's send-off Wednesday, but had to go all the way to his right-wing Florida heartland to get one after an icy and sparsely attended official departure from Washington. The soon to be ex-president's motorcade slowed almost to a stop outside his fancy Mar-a-Lago club in Palm Beach,"
+    publishedDateTime: 2021-01-20T18:38:00Z
+    webUrl: "https://www.ibtimes.com/trump-leaves-icy-washington-loving-florida-home-3126539"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/20/us-president-donald-trump-speaks-before-boarding-air.jpg"
+        width: 1024
+        height: 705
+        isCached: true
+  - title: "Watch: Boston Latin School films dance tribute to Kamala Harris"
+    excerpt: "Students from the Boston Latin School released a choreographed dance video on Inauguration Day in honor of the now Vice President Kamala Harris — and their tribute has already amassed over 9,000 views."
+    publishedDateTime: 2021-01-22T13:45:00Z
+    webUrl: "https://www.boston.com/news/local-news/2021/01/22/watch-boston-latin-school-films-dance-tribute-to-kamala-harris"
+    ampWebUrl: "https://www.boston.com/news/local-news/2021/01/22/watch-boston-latin-school-films-dance-tribute-to-kamala-harris/amp"
+    cdnAmpWebUrl: "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/news/local-news/2021/01/22/watch-boston-latin-school-films-dance-tribute-to-kamala-harris/amp"
+    type: article
+    provider:
+      name: Boston.com
+      domain: boston.com
+    quality: 55
+  - title: "Kamala Harris was sworn in on a stack of Bibles — not a clutch purse"
+    excerpt: "On Inauguration Day, Vice President Kamala Harris “put her clutch on top of the Bible so her hand is not touching it.” Vice President Kamala Harris took the oath of office on two Bibles. One belongs to a close family friend,"
+    publishedDateTime: 2021-01-22T20:28:00Z
+    webUrl: "https://www.politifact.com/factchecks/2021/jan/22/facebook-posts/kamala-harris-was-sworn-stack-bibles-not-clutch-pu/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 55
+    images:
+      - url: "https://static.politifact.com/politifact/rulings/tom_ruling_pof.png"
+        width: 667
+        height: 596
+        isCached: true
+  - title: "Trump Impeachment to Go to Senate Monday, Launching Trial"
+    excerpt: "WASHINGTON (AP) — House Speaker Nancy Pelosi plans to send the article of impeachment against Donald Trump to the Senate on Monday, launching the start of the former president's trial on a charge of incitement of insurrection over the deadly Capitol riot."
+    publishedDateTime: 2021-01-22T16:36:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-22/mcconnell-seeks-to-push-trump-impeachment-trial-to-february"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-22/mcconnell-seeks-to-push-trump-impeachment-trial-to-february?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-22/mcconnell-seeks-to-push-trump-impeachment-trial-to-february?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Trump Impeachment to Go to Senate Monday, Triggering Trial"
+    excerpt: "WASHINGTON (AP) — House Speaker Nancy Pelosi said Friday that she will send the article of impeachment against Donald Trump to the Senate on Monday, triggering the start of the former president's trial on a charge of incitement of insurrection over the deadly Capitol Jan."
+    publishedDateTime: 2021-01-22T18:36:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-22/mcconnell-seeks-to-push-trump-impeachment-trial-to-february"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-22/mcconnell-seeks-to-push-trump-impeachment-trial-to-february?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-22/mcconnell-seeks-to-push-trump-impeachment-trial-to-february?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "VP Kamala Harris Arrives for Presidents Daily Briefing at White House"
+    excerpt: "United States Vice President Kamala Harris arrives on West Executive Drive at the White House to receive President Biden's Daily briefing in Washington, DC on Friday, January 22, 2021. Harris will attend other events at the White House today as well."
+    publishedDateTime: 2021-01-22T16:16:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/e7c8e6e666390a0963439c9dd0546fb5/VP-Kamala-Harris-Arrives-for-Presidents-Daily-Briefing-at-White-House/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/e7c8e6e666390a0963439c9dd0546fb5/VP-HARRIS-ARRIVAL.jpg"
+        width: 650
+        height: 434
+        isCached: true
+  - title: "Why Kamala Harris will not yet move into the vice president residence"
+    excerpt: "It’s not clear when the vice president will be able to move into the traditional quarters located in northwest Washington, D.C."
+    publishedDateTime: 2021-01-22T16:13:00Z
+    webUrl: "https://www.ajc.com/news/why-kamala-harris-will-not-yet-move-into-the-vice-president-residence/NYJACZYBTZERZOHQU3XJ44KRJY/"
+    type: article
+    provider:
+      name: Atlanta Journal-Constitution
+      domain: ajc.com
+    quality: 55
+    images:
+      - url: "https://www.ajc.com/resizer/SRQzj6K4MUguN56Z2N9ZLF-9bXs=/1200x630/d1fegwn2wjh0cs.cloudfront.net/01-21-2021/t_7e4f7c2f3e414295abc26151b2ec2751_name_db4cec39bce7441c8283051b99b794d7"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Alert: AP sources: Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
+    excerpt: "Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance."
+    publishedDateTime: 2021-01-15T18:27:00Z
+    webUrl: "https://www.sfchronicle.com/news/article/Alert-AP-sources-Vice-President-Mike-Pence-15874255.php"
+    ampWebUrl: "https://www.sfchronicle.com/news/amp/Alert-AP-sources-Vice-President-Mike-Pence-15874255.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/news/amp/Alert-AP-sources-Vice-President-Mike-Pence-15874255.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 54
+  - title: "Representation for women as Vice President-elect Kamala Harris takes office"
+    excerpt: "Women share their thoughts about the importance of representation as Vice President-elect Kamala Harris is about to take office."
+    publishedDateTime: 2021-01-16T20:42:00Z
+    webUrl: "https://www.freep.com/videos/news/local/michigan/2021/01/16/representation-women-vp-elect-kamala-harris-takes-office/4189962001/"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 53
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/08/PDTF/c00101e5-32e6-41e7-8a64-3764862d0e46-AP20313094228663.jpg?quality=10"
+        width: 5715
+        height: 3810
+        isCached: true
+  - title: "Vice President-elect Kamala Harris to be sworn in by Justice Sonia Sotomayor and use a Bible owned by Thurgood Marshall"
+    excerpt: "Vice President-elect Kamala Harris will be sworn in by Supreme Court Justice Sonia Sotomayor on Wednesday while using a Bible once owned by West Baltimore-born Supreme Court Justice Thurgood Marshall."
+    publishedDateTime: 2021-01-18T07:25:00Z
+    webUrl: "https://www.baltimoresun.com/politics/bs-md-pol-kamala-harris-thurgood-marshall--20210118-pycnis6umbapzlzsanb6od3szm-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/politics/bs-md-pol-kamala-harris-thurgood-marshall--20210118-pycnis6umbapzlzsanb6od3szm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/politics/bs-md-pol-kamala-harris-thurgood-marshall--20210118-pycnis6umbapzlzsanb6od3szm-story.html?outputType=amp"
     type: article
     provider:
       name: The Baltimore Sun
       domain: baltimoresun.com
-    quality: 55
+    quality: 51
     images:
-      - url: "https://www.baltimoresun.com/resizer/5ATYffOF0ZO402fX-cvjaBMN16I=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/AQFJJLD55NDNPLXH2H6CLLNZWQ.aspx"
+      - url: "https://www.baltimoresun.com/resizer/Ihs5oHigStzfSqMmvXrF0JQN-8Y=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PWFUQE72XREYJJ5A6XAEEMCOB4.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Julián Castro praises Kamala Harris for breaking barriers ahead of inauguration"
+    excerpt: "Former San Antonio Mayor Julián Castro can't wait for Kamala Harris, the country's first female Vice President-elect, to make more history on Wednesday."
+    publishedDateTime: 2021-01-19T21:00:00Z
+    webUrl: "https://www.sfchronicle.com/news/local/article/Julian-Castro-Kamala-Harris-inauguration-15882429.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 51
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/14/51/20236926/3/rawImage.jpg"
+        width: 2048
+        height: 1355
+        isCached: true
+  - title: "AKA sorority members celebrate Kamala Harris inauguration | Charlotte Observer"
+    excerpt: "Alpha Kappa Alpha declared on Twitter that Jan. 20 would be Soror Kamala D. Harris Day, and encouraged members to share photos of their celebrations with the hashtag #KamalaHarrisDay."
+    publishedDateTime: 2021-01-22T16:27:00Z
+    webUrl: "https://www.charlotteobserver.com/news/nation-world/national/article248686005.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/national/article248686005.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article248686005.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 51
+  - title: "As vice president, Kamala Harris will have a role unlike any of her predecessors"
+    excerpt: "The daughter of immigrants and the first woman, Black person, and Asian American person to hold the vice presidency, Harris will bring a set of lived experiences unparalleled by any of her predecessors."
+    publishedDateTime: 2021-01-20T08:33:00Z
+    webUrl: "https://www.bostonglobe.com/2021/01/19/nation/vice-president-kamala-harris-will-have-crucial-role-unlike-any-her-predecessors/"
+    ampWebUrl: "https://www.bostonglobe.com/2021/01/19/nation/vice-president-kamala-harris-will-have-crucial-role-unlike-any-her-predecessors/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/01/19/nation/vice-president-kamala-harris-will-have-crucial-role-unlike-any-her-predecessors/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 50
+  - title: "Breaking barriers may be easy part: Vogue magazine Kamala Harris cover foretells battle to come for respect she’s earned"
+    excerpt: "The controversy over Vogue magazine’s February cover of Vice President-elect Kamala Harris in casual garb and Converse shoes seems a small thing. But it foreshadows a battle to be treated with the earned respect and dignity her office demands."
+    publishedDateTime: 2021-01-20T02:35:00Z
+    webUrl: "https://chicago.suntimes.com/2021/1/19/22239314/kamala-harris-vogue-magazine-vice-president-inuauguration-respect-shes-earned"
+    ampWebUrl: "https://chicago.suntimes.com/platform/amp/2021/1/19/22239314/kamala-harris-vogue-magazine-vice-president-inuauguration-respect-shes-earned"
+    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/2021/1/19/22239314/kamala-harris-vogue-magazine-vice-president-inuauguration-respect-shes-earned"
+    type: article
+    provider:
+      name: Chicago Sun-Times
+      domain: suntimes.com
+    quality: 50
+    images:
+      - url: "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Mike Pence won’t attend Trump’s presidential sendoff"
+    excerpt: "Vice President Mike Pence is among those who will not be attending President Donald Trump’s sendoff event at Joint Base Andrews. A person familiar with Pence’s schedule cited “logistical challenges” in getting from the air base to President-elect Joe Biden’s inauguration ceremonies on Wednesday."
+    publishedDateTime: 2021-01-19T21:22:00Z
+    webUrl: "https://triblive.com/news/politics-election/mike-pence-wont-attend-trumps-presidential-sendoff/"
+    type: article
+    provider:
+      name: TribLIVE.com
+      domain: triblive.com
+    quality: 50
+  - title: "Donald Trump bids farewell to Washington, hints of a comeback: ‘So just a goodbye. We love you.’"
+    excerpt: "So just a goodbye. We love you,” Trump told supporters at Joint Base Andrews in Maryland where he walked across a red carpet and boarded Air Force One to head to Florida. “We will be back in some form."
+    publishedDateTime: 2021-01-20T18:04:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-donald-trump-leaves-white-house-20210120-3qn4jyharrc67o7j5shbvfekyi-htmlstory.html"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 42
+    images:
+      - url: "https://www.baltimoresun.com/resizer/t3sCxmrH5CvQeArA0NOWLEBm1ZE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ABFKM5SRYJCWNKFOBLTBYI46EM.aspx"
         width: 1200
         height: 675
         isCached: true
-  - title: "NY Electors Cast Votes for Biden, Harris in Brief Ceremony"
-    excerpt: "New York’s 29 presidential electors awarded their votes to Joe Biden and running mate Kamala Harris Monday on Monday."
-    publishedDateTime: 2020-12-14T18:41:00Z
-    webUrl: "https://www.usnews.com/news/best-states/new-york/articles/2020-12-14/ny-electors-cast-votes-for-biden-harris-in-brief-ceremony"
+  - title: "Joe Biden, Kamala Harris drop inauguration playlist with songs from Beyoncé, Dua Lipa, more"
+    excerpt: "Joe Biden and Kamala Harris have released a 46-song playlist in honor of their upcoming administration. Here are the songs that made the cut."
+    publishedDateTime: 2021-01-16T05:24:00Z
+    webUrl: "https://www.azcentral.com/story/entertainment/music/2021/01/15/joe-biden-kamala-harris-drop-46-song-inauguration-playlist/4180658001/"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 40
+  - title: "With pearls and pride, women praise the inauguration of Vice President-elect Kamala Harris as an important milestone during a turbulent time"
+    excerpt: "Women praise the inauguration of Vice President-elect Kamala Harris as an important milestone during a turbulent time"
+    publishedDateTime: 2021-01-20T11:04:00Z
+    webUrl: "https://www.courant.com/politics/hc-pol-kamala-harris-vice-president-inauguration-20210120-x2smnu4svzae7hfacf4q4sy3aq-story.html"
+    ampWebUrl: "https://www.courant.com/politics/hc-pol-kamala-harris-vice-president-inauguration-20210120-x2smnu4svzae7hfacf4q4sy3aq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/politics/hc-pol-kamala-harris-vice-president-inauguration-20210120-x2smnu4svzae7hfacf4q4sy3aq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Hartford Courant
+      domain: courant.com
+    quality: 40
+    images:
+      - url: "https://www.courant.com/resizer/qT1ohrD2EFzVcwz2_Uz6hm2B8Lw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/W6CC2DS6X5DB3BPA2RHU75FY2A.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Joe Biden sworn-in as 46th American president, taking office during time of crisis and division, as Kamala Harris becomes first woman VP"
+    excerpt: "Joe Biden became the 46th President of the United States on Wednesday, declaring that “democracy has prevailed.” He swore the oath of office to take the helm of a deeply divided nation and inheriting a confluence of crises arguably greater than any faced by his predecessors."
+    publishedDateTime: 2021-01-20T17:27:00Z
+    webUrl: "https://www.courant.com/nation-world/ct-nw-joe-biden-inauguration-20210120-dqqqgg4rzvdd7dmjeijjwi5ycu-htmlstory.html"
+    type: article
+    provider:
+      name: Hartford Courant
+      domain: courant.com
+    quality: 37
+    images:
+      - url: "https://www.courant.com/resizer/18_lYmq2EeE4oNDTkga9GfLyUak=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/D4QRYPKMPGG2JPIMXSYM4CXONM.aspx"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump's Presidency Not Just a Blip in US Foreign Policy"
+    excerpt: "President-elect Joe Biden’s plan to scrap President Donald Trump’s vision of “America First” in favor of “diplomacy first” will depend on whether he’s able to regain the trust of allies and convince them that Trumpism is just a blip in the annals of U."
+    publishedDateTime: 2021-01-16T06:17:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2021-01-16/trumps-presidency-not-just-a-blip-in-us-foreign-policy"
     type: article
     provider:
       name: U.S. News & World Report
       domain: usnews.com
-    quality: 50
+    quality: 35
+  - title: "400 members of Washington state National Guard called to D.C. to boost security during President-elect Joe Biden’s inauguration"
+    excerpt: "In the wake of the insurgence at the U.S. Capitol during certification of the Electoral College votes last week and threats of further violence, nearly 400 Washington National Guard soldiers and airmen are being sent to D."
+    publishedDateTime: 2021-01-15T15:05:00Z
+    webUrl: "https://www.seattletimes.com/seattle-news/400-members-of-washington-state-national-guard-called-to-d-c-to-boost-security-during-president-elect-joe-bidens-inauguration/"
+    ampWebUrl: "https://www.seattletimes.com/seattle-news/400-members-of-washington-state-national-guard-called-to-d-c-to-boost-security-during-president-elect-joe-bidens-inauguration/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/seattle-news/400-members-of-washington-state-national-guard-called-to-d-c-to-boost-security-during-president-elect-joe-bidens-inauguration/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 27
+  - title: "‘Everybody wins when we’re in positions of leadership’: Washington state’s female leaders of color on what Kamala Harris represents"
+    excerpt: "Kamala Harris has transcended politics to become a cultural icon, one who will ascend to the vice presidency at a fraught time in United States history. There’s a long record"
+    publishedDateTime: 2021-01-16T14:00:00Z
+    webUrl: "https://www.seattletimes.com/life/everybody-wins-when-were-in-positions-of-leadership-washington-states-female-leaders-of-color-on-what-kamala-harris-represents/"
+    ampWebUrl: "https://www.seattletimes.com/life/everybody-wins-when-were-in-positions-of-leadership-washington-states-female-leaders-of-color-on-what-kamala-harris-represents/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/life/everybody-wins-when-were-in-positions-of-leadership-washington-states-female-leaders-of-color-on-what-kamala-harris-represents/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 25
 
 secured: "Pnxgssj30UHi+YT2xszyZce75KMuMhv5IJKbYWkg2MgLyLowZKmNPC048Qp9HJ2074Osv+Y+VXUt+qknnlYvouAEALD1fIR7CJfyEFzkPY+DL6zJlXzIgvCZSI1y2Xri7xK8E8CsvEyY1O53aYABBShcGFxczfUiUq+cfwT0MCWKe7Rx6LvK6O56477fmdfbD7U8WmBgHaOxr+eoDisqmLfT19sqFeYg9ncKpjOont5oanJ0dRMOAXvZ+iT3MG2oxn7nLUHV+aD7SXs/Moj0t7uMJxT8z6MCW5tjqTofVM958sSltjwZhj6GGRM58yx014kpX1/p3pqStK5D/X0jGcmDqS9uPKRhy99wXUHED3P3OcYVx35qRmyNi4pLzDekqewKT8MkSwpasjbFsSGBBslmKAcYM3n5JS7VMS2eRFib9H2xwjQOzZfoLH3ARzSHLbMzc5KtGGpPoWVOUJGRduMpbj2jl6m6bdXAzbqLwQ+/AoCMTRBdpTL9ux3TeSN3q5IN8djaALSKJj24yvwPQw==;iGx164dgGbEmOBOOmRE5uQ=="
 ---

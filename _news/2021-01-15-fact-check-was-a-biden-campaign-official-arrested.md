@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/fact-check-was-biden-campaign-official-arre
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fact-check-was-biden-campaign-official-arrested-1561777?amp=1"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Fact check: No basis for claims that President Joe Biden's inauguration was faked"
+    excerpt: "A QAnon-related conspiracy theory claims President Joe Biden's inauguration was a fake. None of the supporting evidence offered by believers is true."
+    publishedDateTime: 2021-01-28T16:43:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2021/01/28/fact-check-president-joe-biden-inauguration-real-well-documented/4268923001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4268923001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4268923001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/21/NPRJ/7ed459ac-eec9-439f-8229-cdb26030cdda-APTOPIX_Biden_Inauguration.jpg?auto=webp&crop=1199,675,x0,y61&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Twitter On Joe Biden's Proposed $2,000 Stimulus Check: 'We Need More'"
     excerpt: "Joe Biden said the $600 coronavirus relief payment was not enough and has promised $2,000 stimulus checks once he takes office. However, some believe this would still not be enough."
     publishedDateTime: 2021-01-11T06:51:00Z

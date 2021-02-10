@@ -31,117 +31,323 @@ images:
     isCached: true
 
 related:
-  - title: "Trump supporters confront Mitt Romney at airport, on plane: videos"
-    excerpt: "Sen. Mitt Romney, R-Utah, was confronted by supporters of President Trump on Tuesday while waiting for a flight at an airport and during the flight, according to videos circulating on social media.   "
-    publishedDateTime: 2021-01-06T12:25:48Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OoTQdcMaNsU/mitt-romney-confronted-by-trump-supporters-at-airport-on-plane-videos"
-    ampWebUrl: "https://www.foxnews.com/politics/mitt-romney-confronted-by-trump-supporters-at-airport-on-plane-videos.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mitt-romney-confronted-by-trump-supporters-at-airport-on-plane-videos.amp"
+  - title: "Ilhan Omar says Trump 'will be impeached'"
+    excerpt: "Rep. Ilhan Omar, D-Minn., vowed on Friday that President Trump would be impeached after this week's riots, which have prompted widespread criticism of the president and his rhetoric following November's election."
+    publishedDateTime: 2021-01-08T21:33:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/N3eIvLRm9mQ/ilhan-omar-trump-impeached"
+    ampWebUrl: "https://www.foxnews.com/politics/ilhan-omar-trump-impeached.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ilhan-omar-trump-impeached.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/romney.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Don't tar all Trump supporters with chaos at the Capitol: Perino"
-    excerpt: "“It’s going to be very important to try to separate those who were bad actors” during the riots at the U.S. Capitol on Wednesday from the tens of millions of people who voted for President Trump, Fox News’ Dana Perino told “America’s Newsroom” on Thursday."
-    publishedDateTime: 2021-01-07T20:42:22Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8jM7iXQ7UaY/dont-tar-all-trump-supporters-with-chaos-capitol-perino"
-    ampWebUrl: "https://www.foxnews.com/politics/dont-tar-all-trump-supporters-with-chaos-capitol-perino.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dont-tar-all-trump-supporters-with-chaos-capitol-perino.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Capitol riots will be used to 'deplatform' Trump supporters: Ben Domenech"
-    excerpt: "The left will do to regular people what it's doing to President Trump, The Federalist publisher Ben Domenech warned Thursday night."
-    publishedDateTime: 2021-01-08T13:24:49Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yz8sy0wNcGE/trump-capitol-riot-supporters-facebook-twitter-instagram-ben-domenech"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-capitol-riot-supporters-facebook-twitter-instagram-ben-domenech.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-capitol-riot-supporters-facebook-twitter-instagram-ben-domenech.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Barr calls Trump conduct amid Capitol riot a 'betrayal of his office and supporters'"
-    excerpt: "Former Attorney General William Barr says President Donald Trump’s conduct as a violent mob of his supporters stormed the U.S. Capitol was a “betrayal of his office and supporters.”"
-    publishedDateTime: 2021-01-07T16:22:38Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6Hgzdeq7pk4/barr-trump-capitol-riot-conduct-betrayal-office-supporters"
-    ampWebUrl: "https://www.foxnews.com/politics/barr-trump-capitol-riot-conduct-betrayal-office-supporters.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/barr-trump-capitol-riot-conduct-betrayal-office-supporters.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e9aed44a-db71-42b1-be80-20049f1c4835/77d72207-2029-4609-bb18-cfb4ba5bb33c/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cabbd5c8-5261-4e94-9550-81c691405868/20c9113c-d0de-48ab-ae7d-c9f0afd4d1cd/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Rep. Waltz slams hypocrisy of pro-police Trump supporters going after Capitol Hill cops"
-    excerpt: "Pro-Trump rioters who breached the U.S. Capitol on Wednesday with back-the-blue flags need to “rethink the hypocrisy,” Rep. Michael Waltz, R-Fla., told “Fox & Friends” on Thursday."
-    publishedDateTime: 2021-01-07T14:47:25Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jHP5JXTKBCI/waltz-hypocrisy-pro-police-trump-supporters-attack-capitol-cops"
-    ampWebUrl: "https://www.foxnews.com/politics/waltz-hypocrisy-pro-police-trump-supporters-attack-capitol-cops.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/waltz-hypocrisy-pro-police-trump-supporters-attack-capitol-cops.amp"
+  - title: "Rep. Adam Schiff says Trump must go, backs second impeachment"
+    excerpt: "House Intelligence Committee Chairman Adam Schiff joined a growing list of lawmakers on both sides of the aisle calling for President Trump's removal."
+    publishedDateTime: 2021-01-09T17:16:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/grHNELR7304/rep-schiff-joins-push-to-impeach-trump-a-second-time"
+    ampWebUrl: "https://www.foxnews.com/politics/rep-schiff-joins-push-to-impeach-trump-a-second-time.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-schiff-joins-push-to-impeach-trump-a-second-time.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 167
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "What a Senate impeachment trial could mean for Trump - and why it might not happen at all"
-    excerpt: "President Trump could face some unpleasant consequences from an impeachment trial if he is convicted, but the proceedings may never begin."
-    publishedDateTime: 2021-01-14T02:36:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xgDYgSurEMo/trump-impeachment-after-leaving-office"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-after-leaving-office.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-after-leaving-office.amp"
+  - title: "Cheney, Katko first House Republicans to back Trump impeachment"
+    excerpt: "House GOP Conference Chairwoman Liz Cheney of Wyoming and Rep. John Katko of New York are planning to support Democrats' effort to impeach President Trump after last week's riots at the U.S. Capitol, Fox News has confirmed."
+    publishedDateTime: 2021-01-12T23:17:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DSDUHKWo4UE/john-katko-cheney-gop-impeachment"
+    ampWebUrl: "https://www.foxnews.com/politics/john-katko-cheney-gop-impeachment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/john-katko-cheney-gop-impeachment.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "GOP lawmakers 'afraid for their lives' to impeach Trump, House Dem says"
+    excerpt: "The \"majority\" of GOP lawmakers are afraid they will be in danger if they vote in favor of impeaching President Trump over his role in the Capitol riots, Democratic Rep. Jason Crow of Colorado said."
+    publishedDateTime: 2021-01-13T20:23:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KDgoBY58KPg/gop-lawmakers-afraid-for-their-lives-if-they-vote-to-impeach-house-democrat-says"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-lawmakers-afraid-for-their-lives-if-they-vote-to-impeach-house-democrat-says.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-lawmakers-afraid-for-their-lives-if-they-vote-to-impeach-house-democrat-says.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e448d5c7-cbab-4c5b-b72d-190207a92b42/b0122e90-044f-41c6-8499-919d7bc59177/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "House Judiciary Committee frames Trump impeachment in new report"
+    excerpt: "House Judiciary Committee Chairman Rep. Jerrold Nadler, D-N.Y., released a 74-page report Tuesday afternoon describing President Trump as a \"clear and present danger\" who should be impeached."
+    publishedDateTime: 2021-01-13T02:09:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bIENo8gwWCE/judiciary-committee-impeachment-report"
+    ampWebUrl: "https://www.foxnews.com/politics/judiciary-committee-impeachment-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/judiciary-committee-impeachment-report.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/efae2f2f-6ec6-4aca-bcd4-8bd9dcd96dfb/d284c12c-47c0-4b66-a5c4-c41241d9f204/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Live Updates: Comey hints at pardon after House impeaches Trump"
+    excerpt: "The House of Representatives voted 232-197 Wednesday to impeach President Trump for alleged \"incitement of insurrection\" in connection with the mob chaos at the Capitol on Jan. 6."
+    publishedDateTime: 2021-01-14T07:22:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KZ5enevBp88/live-updates-trump-impeachment-1-14-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-impeachment-1-14-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-impeachment-1-14-2021.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2b336866-4bb0-4f62-934e-51d04f9db820/fb3e5828-fc28-472b-9f10-d58bd64b0b76/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Liz Cheney faces backlash from some GOP lawmakers after backing Trump impeachment"
+    excerpt: "Rep. Liz Cheney, R-Wyo., is facing calls from some Republican lawmakers to step down from her leadership post as chairwoman of the House Republican Conference after she announced that she will vote to impeach President Trump."
+    publishedDateTime: 2021-01-13T07:51:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xNlu381ThFE/biggs-wants-cheney-to-resign-from-leadership-post"
+    ampWebUrl: "https://www.foxnews.com/politics/biggs-wants-cheney-to-resign-from-leadership-post.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biggs-wants-cheney-to-resign-from-leadership-post.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump says his supporters will still have a 'giant voice,' won't be 'disrespected' "
+    excerpt: "President Trump on Friday said his supporters will still have a “giant voice” and would not be “disrespected” after he leaves the White House."
+    publishedDateTime: 2021-01-08T15:50:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7ev1L67eFJU/trump-says-his-supporters-will-still-have-a-giant-voice-wont-be-disrespected"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-says-his-supporters-will-still-have-a-giant-voice-wont-be-disrespected.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-his-supporters-will-still-have-a-giant-voice-wont-be-disrespected.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump awards Rep. Jim Jordan the Medal of Freedom, credits his defense during impeachment"
+    excerpt: "President Trump on Monday awarded the Presidential Medal of Freedom to Rep. Jim Jordan, the Republican from Ohio who has served as a high-profile congressional defender of the Trump throughout his presidency."
+    publishedDateTime: 2021-01-11T19:04:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zsVghy_-Bw0/trump-rep-jim-jordan-medal-of-freedom"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-rep-jim-jordan-medal-of-freedom.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-rep-jim-jordan-medal-of-freedom.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 166
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21003104274091.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/340/340/15774946_869011851568_820056121039046290_o-e1585243988433.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Barr calls Trump conduct amid Capitol riot a 'betrayal of his office and supporters'"
-    excerpt: "Former Attorney General William Barr says President Donald Trump’s conduct as a violent mob of his supporters stormed the U.S. Capitol was a “betrayal of his office and supporters.”"
-    publishedDateTime: 2021-01-07T16:37:00Z
-    webUrl: "https://www.foxnews.com/politics/barr-trump-capitol-riot-conduct-betrayal-office-supporters"
-    ampWebUrl: "https://www.foxnews.com/politics/barr-trump-capitol-riot-conduct-betrayal-office-supporters.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/barr-trump-capitol-riot-conduct-betrayal-office-supporters.amp"
+  - title: "Andy McCarthy: Trump’s conduct is impeachable, but impeachment trial should not be rushed"
+    excerpt: "Former U.S. Attorney Andy McCarthy says Trump’s statements leading up to the Capitol riot could be considered “impeachable conduct,” but he is cautioning Congress against speeding through impeachment proceedings."
+    publishedDateTime: 2021-01-13T17:28:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rPfad0PzY94/andy-mccarthy-trumps-conduct-impeachable-impeachment-trial-rushed"
+    ampWebUrl: "https://www.foxnews.com/politics/andy-mccarthy-trumps-conduct-impeachable-impeachment-trial-rushed.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/andy-mccarthy-trumps-conduct-impeachable-impeachment-trial-rushed.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 128
+    quality: 166
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e9aed44a-db71-42b1-be80-20049f1c4835/77d72207-2029-4609-bb18-cfb4ba5bb33c/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2468eb0b-ba0f-4671-bea4-383fa1b857d2/87bcd4b3-50ce-49bf-aa00-ae3de8dc5d86/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "McConnell says he has 'not made a final decision' on how he will vote on Trump impeachment"
+    excerpt: "Senate Majority Leader Mitch McConnell told Republican colleagues Wednesday that he has “not made a final decision” on how he will vote on impeachment, despite signaling that he supported House Democrats’ move to initiate impeachment proceedings against President Trump."
+    publishedDateTime: 2021-01-13T20:35:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2JouXSKxUK8/mcconnell-says-he-has-not-made-a-final-decision-on-how-he-will-vote-on-trump-impeachment"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-says-he-has-not-made-a-final-decision-on-how-he-will-vote-on-trump-impeachment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-says-he-has-not-made-a-final-decision-on-how-he-will-vote-on-trump-impeachment.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "GOP Sen. Ben Sasse says there is 'brokenness' in Trump's soul, refuses to rule out impeachment"
+    excerpt: "GOP Sen. Ben Sasse said Friday he is willing to consider articles of impeachment against President Trump if they are introduced by the House of Representatives following a violent mob attack by pro-Trump supporters on the nation's Capitol earlier this week. "
+    publishedDateTime: 2021-01-08T16:28:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IrSJPRh-KyI/gop-ben-sasse-trump-refuses-rule-out-impeachment"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-ben-sasse-trump-refuses-rule-out-impeachment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-ben-sasse-trump-refuses-rule-out-impeachment.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Clyburn says Trump impeachment vote 'will happen this week' as 195 lawmakers cosponsor articles"
+    excerpt: "House Majority Whip Rep. Jim Clyburn, D-S.C., said Sunday that the article of impeachment against President Trump that was drafted will go to a vote this week, while Trump's former Acting Chief of Staff Mick Mulvaney said that unlike last year's impeachment, Republicans may be on board this time."
+    publishedDateTime: 2021-01-10T15:49:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WGnVsQ192Ec/clyburn-trump-impeachment-vote-this-week"
+    ampWebUrl: "https://www.foxnews.com/politics/clyburn-trump-impeachment-vote-this-week.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/clyburn-trump-impeachment-vote-this-week.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/104bff36-8597-4517-b0d6-a8997b1875c4/dfe21b65-dc81-4cb2-9a04-0fb91aa4beb9/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Senate won’t reconvene early to start impeachment trial before Trump leaves office: McConnell spokesman"
+    excerpt: "With President Trump likely set on Wednesday to become the only president ever impeached twice, Democrats were pressuring Senate Majority Leader Mitch McConnell, R-Ky., to invoke a 2004 resolution that could bring the Senate back quickly for what would essentially be an emergency session to begin the"
+    publishedDateTime: 2021-01-13T18:33:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/f9IdAGAFb2k/senate-wont-reconvene-early-to-start-impeachment-trial-before-trump-leaves-office-mcconnell-spokesman"
+    ampWebUrl: "https://www.foxnews.com/politics/senate-wont-reconvene-early-to-start-impeachment-trial-before-trump-leaves-office-mcconnell-spokesman.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-wont-reconvene-early-to-start-impeachment-trial-before-trump-leaves-office-mcconnell-spokesman.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "McConnell believes Trump committed impeachable offenses, supports Democrats' impeachment efforts: Report"
+    excerpt: "Senate Majority Leader Mitch McConnell reportedly believes that President Trump committed impeachable offenses and supports Democrats’ move to impeach him for a second time after last week’s Capitol riot."
+    publishedDateTime: 2021-01-12T22:19:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/h7YpZxMf_2w/mcconnell-believes-trump-committed-impeachable-offenses-supports-democrats-impeachment-efforts-report"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-believes-trump-committed-impeachable-offenses-supports-democrats-impeachment-efforts-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-believes-trump-committed-impeachable-offenses-supports-democrats-impeachment-efforts-report.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump planning payback for 10 Republicans who impeached him: report"
+    excerpt: "President Trump plans political punishment for the 10 House Republicans who voted to impeach him for last week’s Capitol riot, according to a new report."
+    publishedDateTime: 2021-01-15T22:10:00Z
+    webUrl: "https://nypost.com/2021/01/15/trump-planning-payback-for-gopers-who-impeached-him-report/"
+    ampWebUrl: "https://nypost.com/2021/01/15/trump-planning-payback-for-gopers-who-impeached-him-report/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/15/trump-planning-payback-for-gopers-who-impeached-him-report/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/president-trump-air-force-one.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Katie Couric cheers on Trump's impeachment, says GOP lawmakers need to be 'deprogrammed'"
+    excerpt: "Katie Couric appears to have gone far beyond her days as a straight news journalist and taken a sharp turn to the left."
+    publishedDateTime: 2021-01-16T07:05:00Z
+    webUrl: "https://www.foxnews.com/media/katie-couric-cheers-on-trumps-impeachment-says-gop-lawmakers-need-to-be-deprogrammed"
+    ampWebUrl: "https://www.foxnews.com/media/katie-couric-cheers-on-trumps-impeachment-says-gop-lawmakers-need-to-be-deprogrammed.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/katie-couric-cheers-on-trumps-impeachment-says-gop-lawmakers-need-to-be-deprogrammed.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 126
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/katie-couric-ap.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "GOP Sen. Ben Sasse says there is 'brokenness' in Trump's soul, refuses to rule out impeachment"
+    excerpt: "GOP Sen. Ben Sasse said Friday he is willing to consider articles of impeachment against President Trump if they are introduced by the House of Representatives following a violent mob attack by pro-Trump supporters on the nation's Capitol earlier this week."
+    publishedDateTime: 2021-01-08T16:41:00Z
+    webUrl: "https://www.foxnews.com/politics/gop-ben-sasse-trump-refuses-rule-out-impeachment"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-ben-sasse-trump-refuses-rule-out-impeachment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-ben-sasse-trump-refuses-rule-out-impeachment.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 123
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "McConnell believes Trump committed impeachable offenses, supports Democrats' impeachment efforts: report"
+    excerpt: "Senate Majority Leader Mitch McConnell reportedly believes that President Trump committed impeachable offenses and supports Democrats’ move to impeach him for a second time after last week’s Capitol riot."
+    publishedDateTime: 2021-01-12T22:25:00Z
+    webUrl: "https://www.foxnews.com/politics/mcconnell-believes-trump-committed-impeachable-offenses-supports-democrats-impeachment-efforts-report"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-believes-trump-committed-impeachable-offenses-supports-democrats-impeachment-efforts-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-believes-trump-committed-impeachable-offenses-supports-democrats-impeachment-efforts-report.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 118
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/927d176b-21c3-43cd-93dd-13312fed5937/dea40182-fa8f-47b1-9184-fc98ec627628/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Rep. Steny Hoyer Gives Democrats' Closing Argument In Trump Impeachment: This Is A Sad Time"
+    excerpt: "Md., argued for the impeachment of President Donald Trump in a hearing on Jan. 13. Democrats are pursuing a quick second impeachment a week after Trump gave a speech they say incited insurrection. On Jan."
+    publishedDateTime: 2021-01-13T21:53:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/01/13/rep_steny_hoyer_gives_democrats_closing_argument_in_trump_impeachment_this_is_a_sad_time.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 55
+    images:
+      - url: "https://assets.realclear.com/images/53/532245.jpg"
+        width: 750
+        height: 562
         isCached: true
 
 secured: "b1VIDgFrNqgaCeYFqsffQuzWT4tlvON7JCF4tEey2rE401TNaJBaGYXf/MgyW+q0W9BwreqOYgCJzemEjQ9gXjh4Euifk4V+/vZ2L697WYDF4FSVVxEMhG69PeEwgjz/Cbi9hiQAtTiA8q4cB3ilNKGd3yc7HI7e2EuD+Fb5Ec7ISzf5R71wBVm7tn6jxsRm9D2E4jVCevo3En4GvNffzbe/RR8MpbcUGx2dKyv2iiSrvhmQJl0xOo8Mio7750oQpho5Az1yaxrPU5myZ6/r78V6qI8HRng87TFaOMDhu7+7ZTJDToFs5zX/cLBPJVQHXy0D84UrGuHVAGOc0fjf1X4st3vgDUJE4IxDf+GKA0Q=;OnTy7NzYdBuyiuiCW4D9uw=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nationalreview.com/corner/all-honor-to-mike-pence/amp/"
 cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/corner/all-honor-to-mike-pence/amp/"
 type: article
 quality: 75
-heat: 115
+heat: 95
 published: true
 
 provider:
@@ -43,17 +43,6 @@ related:
         width: 570
         height: 321
         isCached: true
-  - title: "Mike Pence’s Loyalty Test"
-    excerpt: "Donald Trump believes Mike Pence can stop Congress from certifying his election loss. It’s not true, but there could still be hell to pay when he doesn’t."
-    publishedDateTime: 2021-01-05T23:03:00Z
-    webUrl: "https://www.usnews.com/news/elections/articles/2021-01-05/mike-pences-loyalty-test"
-    ampWebUrl: "https://www.usnews.com/news/elections/articles/2021-01-05/mike-pences-loyalty-test?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/elections/articles/2021-01-05/mike-pences-loyalty-test?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "EaegAS6sVJsYYbeEMUJ4mmN3AbVRaCDd3vqJ1Sj+zbK5UzC6mxt40HlvRoHQmOExar0anhjZct6EAMzSph07FmO7ZdZTfqL4XhOgX4LWyEYs73q9djbXB/WJBWPS3tMCOHDMfX1tNY9RvFlWd3P7LHumpIMXRieLTTqEQQcfaO4DFmpE4iPcGQmB3+TXLyJWlDP2l56KwYljhYbbj91Q+BQ+rW45zksLsWV/CkbTkOfbibJd54FuOboyKXBLU/Etjm0CjdWAPW8+mzYDguPBNLsXvK41Oau2KmJr/Bq9tmn6eLKEQQHiyfRPjg131rAMAuYxbmRG0hwuoCkkUSTBjMo8BopLjfSy5dvHMY+FkWl2zA2M/MZtejJkaLhZFQlXHqO1jQANswfF3Io9k798GKrcT5iC4i1VmA0DcE5n87kWnK7jBGt7pe+WFpAT9muI2f5mrOIX/9hpx6KOJl1H2MWGYvnmANyrzagJPdvDelIxKYLOtFnD3Ppv7YIyY2AG/zSAdNNPYx5BUkU2ZRYhjA==;nVu/FQzGzcnmdi2qSYp80w=="
 ---

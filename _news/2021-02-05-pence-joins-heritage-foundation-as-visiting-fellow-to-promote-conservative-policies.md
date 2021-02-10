@@ -203,54 +203,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Judge: Trump administration must take new DACA applications"
-    excerpt: "The Trump administration must accept new applications for the Deferred Action for Childhood Arrivals program that protects some young immigrants from deportation"
-    publishedDateTime: 2020-12-05T05:03:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/judge-trump-administration-daca-applications-74549321"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/judge-trump-administration-daca-applications-74549321"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/judge-trump-administration-daca-applications-74549321"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/US/daca-protesters_hpMain_20201204-202430_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump administration plans 2nd execution in as many days"
-    excerpt: "The Trump administration plans to continue its unprecedented series of post-election federal executions by putting to death a truck driver who abused his 2-year-old daughter for weeks, then killed her by slamming her head against a truck’s windows and dashboard."
-    publishedDateTime: 2020-12-11T23:48:00Z
-    webUrl: "https://www.chicagotribune.com/suburbs/post-tribune/ct-ptb-st-us-federal-executions-st-1212-20201211-4wkvnl2le5htzm5padpjhj7rga-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/suburbs/post-tribune/ct-ptb-st-us-federal-executions-st-1212-20201211-4wkvnl2le5htzm5padpjhj7rga-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/suburbs/post-tribune/ct-ptb-st-us-federal-executions-st-1212-20201211-4wkvnl2le5htzm5padpjhj7rga-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 125
-    images:
-      - url: "https://www.chicagotribune.com/resizer/84bt1DCWY4_ZuoPZGQVv0NyTcj0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/YBKBEATKVQC45Z3WDABQXS4BAE.jpg"
-        width: 1200
-        height: 799
-        isCached: true
-  - title: "Trump administration puts second man to death in two days"
-    excerpt: "Alfred Bourgeois’s IQ put him in the intellectually disabled category, which should have barred execution, lawyers say"
-    publishedDateTime: 2020-12-12T02:18:00Z
-    webUrl: "https://www.theguardian.com/us-news/2020/dec/11/federal-execution-alfred-bourgeois-trump-administration"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/11/federal-execution-alfred-bourgeois-trump-administration"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/11/federal-execution-alfred-bourgeois-trump-administration"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/954061e895d3e4fa4f8a2e62a21313c7ef5180a6/0_321_3505_2103/master/3505.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=84ea5536d356d62e70ab576b1f6c6ec5"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Historians rail against Trump administration's 1776 Commission"
     excerpt: "Experts call report released by former administration a ‘puerile, politically reactionary document’"
     publishedDateTime: 2021-01-22T08:00:00Z
@@ -1755,20 +1707,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Latest on the Trump administration"
-    excerpt: "Watch \"Latest on the Trump administration; Trump's 46-minute video, FDA admin. Stephen Hahn meeting\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-12-03T18:42:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201203181408-latest-on-the-trump-administration-trumps-46-minute-video-fda-admin-stephen-hahn-meeting/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/12/03/story_07962328_1607020144.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Could Trump Make A Comeback In 2024?"
     excerpt: "There is little precedent for a former president running again, let alone winning. But since when has the lack of precedent bothered Donald Trump?"
     publishedDateTime: 2021-01-30T16:42:00Z
@@ -2409,6 +2347,28 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Democrats Argue Trump Planted Seeds of Capitol Attack With False Election Claims"
+    excerpt: "Democrats on Wednesday argued Donald Trump planted the seeds for the deadly attack on the U.S. Capitol long before Jan. 6 with false claims the 2020 election was stolen, and said lawmakers had an obligation to hold the former president accountable."
+    publishedDateTime: 2021-02-10T20:16:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-02-10/after-emotional-start-democrats-to-outline-case-at-trumps-impeachment-trial"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-02-10/after-emotional-start-democrats-to-outline-case-at-trumps-impeachment-trial?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-02-10/after-emotional-start-democrats-to-outline-case-at-trumps-impeachment-trial?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 65
+  - title: "Factbox: Parental Warnings and Thanks to Pence - Takeaways From Trump's Impeachment Trial"
+    excerpt: "\"The impeachment mangers will try to give warnings before the most graphic and disturbing violence.\" A Democratic aide told reporters that the House managers \"will be using footage never seen before that shows a view of the Capitol that is quite extraordinary and a view of the attack that has never been public before."
+    publishedDateTime: 2021-02-10T19:24:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-02-10/factbox-parental-warnings-and-thanks-to-pence-takeaways-from-trumps-impeachment-trial"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-02-10/factbox-parental-warnings-and-thanks-to-pence-takeaways-from-trumps-impeachment-trial?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-02-10/factbox-parental-warnings-and-thanks-to-pence-takeaways-from-trumps-impeachment-trial?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 61
   - title: "Republicans condemned Donald Trump. Now they’re seeking his help"
     excerpt: "House Republican leader Kevin McCarthy declared Donald Trump culpable in the deadly attack on the U.S. Capitol. By Thursday, he was seeking his political support."
     publishedDateTime: 2021-01-29T15:04:00Z

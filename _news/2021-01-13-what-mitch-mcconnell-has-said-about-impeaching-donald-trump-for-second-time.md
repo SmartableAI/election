@@ -31,85 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Trump's allies are rounding on Lin Wood after he tweeted about executing Mike Pence and arresting Mitch McConnell"
-    excerpt: "Trump lawyer had posted a series of unhinged tweets saying the vice president should be arrested and executed over the 2020 election results."
-    publishedDateTime: 2021-01-03T14:52:00Z
-    webUrl: "https://www.businessinsider.com/trump-allies-attack-lin-wood-after-pence-execution-tweets-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/trump-allies-attack-lin-wood-after-pence-execution-tweets-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-allies-attack-lin-wood-after-pence-execution-tweets-2021-1?amp"
+  - title: "Trump trial pending, McConnell calls it ‘vote of conscience’"
+    excerpt: "President Donald Trump’s impeachment trial is likely to start after Joe Biden’s inauguration, and the Republican leader, Mitch McConnell, is telling senators their decision on whether to convict the outgoing president over the Capitol riot will be a “vote of conscience."
+    publishedDateTime: 2021-01-16T10:19:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-trial-pending-mcconnell-calls-it-vote-of-conscience/2021/01/16/793bebec-57ba-11eb-acc5-92d2819a1ccb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-trial-pending-mcconnell-calls-it-vote-of-conscience/2021/01/16/793bebec-57ba-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-trial-pending-mcconnell-calls-it-vote-of-conscience/2021/01/16/793bebec-57ba-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 129
-    images:
-      - url: "https://i.insider.com/5fe87d0cedf8920018093c92?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "McConnell thanks Trump for signing coronavirus relief bill"
-    excerpt: "Senate Majority Leader Mitch McConnell (R-Ky.) late on Sunday thanked President Trump for signing an omnibus bill that funds the government and provides an additional round of coronavirus relief after earlier suggesting he would veto it."
-    publishedDateTime: 2020-12-28T12:49:00Z
-    webUrl: "https://thehill.com/homenews/senate/531786-mcconnell-thanks-trump-for-signing-coronavirus-relief-bill"
-    ampWebUrl: "https://thehill.com/homenews/senate/531786-mcconnell-thanks-trump-for-signing-coronavirus-relief-bill?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/531786-mcconnell-thanks-trump-for-signing-coronavirus-relief-bill?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/mcconnellmitch_122120gn3_lead.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Comey argues Trump shouldn't be prosecuted after leaving Oval Office"
-    excerpt: "James Comey, the former FBI director who has emerged as a critic of President Trump since his firing, writes in his new book that the commander in chief should not be prosecuted after leaving the Whit"
-    publishedDateTime: 2021-01-06T12:45:00Z
-    webUrl: "https://thehill.com/homenews/administration/532843-comey-argues-trump-shouldnt-be-prosecuted-after-leaving-oval-office"
-    ampWebUrl: "https://thehill.com/homenews/administration/532843-comey-argues-trump-shouldnt-be-prosecuted-after-leaving-oval-office?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/532843-comey-argues-trump-shouldnt-be-prosecuted-after-leaving-oval-office?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/comeyjames_trumpdonald_041618gn4_lead.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "James Comey: Donald Trump should not be prosecuted after leaving office"
-    excerpt: "Trump has insulted the FBI director he fired and threatened jail, but in new book Comey says next attorney general ‘must foster trust’"
-    publishedDateTime: 2021-01-06T01:00:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jan/05/james-comey-donald-trump-prosecuted-saving-justice-new-book"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/05/james-comey-donald-trump-prosecuted-saving-justice-new-book"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/05/james-comey-donald-trump-prosecuted-saving-justice-new-book"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/a3222a0066a6f84cac68afa6b01f1c60f2d17a0b/816_1821_6587_3952/master/6587.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0eb9e7f0a74d5248f19ab21782a6b6e3"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Democrats Urge Mitch McConnell to Publicly Back Removing Donald Trump"
-    excerpt: "The president's adversaries continue to push his impeachment as part of a sustained backlash against him following the events of January 6."
-    publishedDateTime: 2021-01-13T09:41:00Z
-    webUrl: "https://www.newsweek.com/mitch-mcconnell-donald-trump-impeachment-democrats-1561079"
-    ampWebUrl: "https://www.newsweek.com/mitch-mcconnell-donald-trump-impeachment-democrats-1561079?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mitch-mcconnell-donald-trump-impeachment-democrats-1561079?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 125
-    images:
-      - url: "https://d.newsweek.com/en/full/1705259/mitch-mcconnell-capitol.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Mitch McConnell proposes delaying Trump's impeachment trial"
     excerpt: "Senate Republican leader says former president needs time to prepare"
@@ -127,258 +63,282 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Trump signs pandemic aid and spending bill, averting government shutdown"
-    excerpt: "U.S. President Donald Trump on Sunday signed into law a $2.3 trillion pandemic aid and spending package, restoring unemployment benefits to millions of Americans and averting a federal government shutdown in a crisis of his own making."
-    publishedDateTime: 2020-12-28T08:47:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-idUSKBN2910NA"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2910NA"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2910NA"
+  - title: "Trump's impeachment trial to begin week of February 8"
+    excerpt: "Former President Donald Trump's impeachment trial will begin the week of February 8, Senate Majority Leader Chuck Schumer announced Friday evening on the Senate floor, with pre-trial proceedings beginning on Monday evening,"
+    publishedDateTime: 2021-01-23T12:00:00Z
+    webUrl: "https://www.cbsnews.com/live-updates/trump-impeachment-trial-to-begin-week-of-february-8/"
+    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/trump-impeachment-trial-to-begin-week-of-february-8/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/trump-impeachment-trial-to-begin-week-of-february-8/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/20/8504b1a6-f128-468e-986b-604e4a3b90fd/thumbnail/1200x630g3/00fd6474a7af79cef700a3c5f09f89de/ap21020506415429.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Senate Minority Leader Mitch McConnell to propose delay of Trump impeachment trial"
+    excerpt: "House Speaker Nancy Pelosi said Thursday that she is \"ready\" to send the Trump impeachment article to the Senate, but is waiting for answers on how a trial would work."
+    publishedDateTime: 2021-01-22T04:32:00Z
+    webUrl: "https://abcnews.go.com/Politics/pelosi-ready-send-trump-impeachment-article-answers-senate/story?id=75403030"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/pelosi-ready-send-trump-impeachment-article-answers-senate/story?id=75403030"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/pelosi-ready-send-trump-impeachment-article-answers-senate/story?id=75403030"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 119
+    images:
+      - url: "https://s.abcnews.com/images/Politics/mitch-mcconnell_hpMain_20210121-174756_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Republican McConnell proposes Trump get two weeks to prepare for Senate impeachment trial"
+    excerpt: "U.S. Senate Republican leader Mitch McConnell on Thursday proposed a timeline that would delay the start of the Senate impeachment trial of former President Donald Trump until mid-February."
+    publishedDateTime: 2021-01-22T04:17:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-senate/republican-mcconnell-proposes-trump-get-two-weeks-to-prepare-for-senate-impeachment-trial-idUSKBN29Q33P"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Q33P"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Q33P"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 124
+    quality: 116
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201228&t=2&i=1545924095&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBQ0BZ"
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210121&t=2&i=1548643474&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0K1RD"
         width: 817
         height: 545
         isCached: true
-  - title: "McConnell thwarts Trump bid for $2,000 coronavirus economic relief checks"
-    excerpt: "U.S. Senate leader Mitch McConnell dealt a likely death blow on Wednesday to President Donald Trump's bid to boost coronavirus aid to Americans, declining to schedule a swift Senate vote on a bill to raise relief checks to $2,"
-    publishedDateTime: 2020-12-31T03:11:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-idTRNIKBN29411A"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idTRNIKBN29411A"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idTRNIKBN29411A"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 124
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201230&t=2&i=1546213033&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBT1DT"
-        width: 790
-        height: 545
-        isCached: true
-  - title: "Fate of $2,000 stimulus checks proposal, backed by Trump, is in McConnell’s hands"
-    excerpt: "Sen. Bernie Sanders (I-Vt.) says he will scramble the Senate’s holiday week plans if the Kentucky Republican does not hold a vote on the larger checks."
-    publishedDateTime: 2020-12-29T14:48:00Z
-    webUrl: "https://www.washingtonpost.com/powerpost/stimulus-checks-senate/2020/12/29/344fa850-49d9-11eb-839a-cf4ba7b7c48c_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/powerpost/stimulus-checks-senate/2020/12/29/344fa850-49d9-11eb-839a-cf4ba7b7c48c_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/powerpost/stimulus-checks-senate/2020/12/29/344fa850-49d9-11eb-839a-cf4ba7b7c48c_story.html?outputType=amp"
+  - title: "Uncertainty reigns in Senate as Schumer pushes fast agenda and McConnell calls out Trump"
+    excerpt: "Less than a day before Biden’s inauguration, it remains unclear when his nominees will be confirmed, when President Trump’s impeachment trial will begin, or how the Senate will manage a 50-50 divide."
+    publishedDateTime: 2021-01-22T04:13:00Z
+    webUrl: "https://www.washingtonpost.com/politics/senate-uncertainty-mcconnell-schumer/2021/01/19/5a643bae-5a6a-11eb-8bcf-3877871c819d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/senate-uncertainty-mcconnell-schumer/2021/01/19/5a643bae-5a6a-11eb-8bcf-3877871c819d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/senate-uncertainty-mcconnell-schumer/2021/01/19/5a643bae-5a6a-11eb-8bcf-3877871c819d_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 120
+    quality: 116
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OD27ZASEU4I6XMHEB4MCSI5AEU.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WLANZRCMOAI6XF5WJ247OL7UNM.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
-  - title: "McConnell puts off vote on $2,000 aid checks, urges Senate override Trump defense veto"
-    excerpt: "U.S. Senate Majority Leader Mitch McConnell on Tuesday put off a vote on President Donald Trump's call to boost COVID-19 relief checks and urged the Senate to override his veto of a defense bill, in a rare challenge to his fellow Republican three weeks before Trump"
-    publishedDateTime: 2020-12-29T22:04:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-idUSKBN2930SO"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2930SO"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2930SO"
+  - title: "Trump’s impeachment trial pending, Republican leader Mitch McConnell calls it a ‘vote of conscience’"
+    excerpt: "House Speaker Nancy Pelosi offered no clues Friday on her plans to send President Donald Trump’s impeachment to the Senate for trial"
+    publishedDateTime: 2021-01-15T22:34:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-impeachment-trial-20210115-2i3vshire5altdrvw6ohieqrsq-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-impeachment-trial-20210115-2i3vshire5altdrvw6ohieqrsq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-trump-impeachment-trial-20210115-2i3vshire5altdrvw6ohieqrsq-story.html?outputType=amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 117
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 110
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201229&t=2&i=1546046735&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBS0DL"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Mitch McConnell says the Senate will consider Trump's demand for $2,000 stimulus checks"
-    excerpt: "Trump refused to sign Congress' $900 COVID-19 relief bill for nearly a week while demanding that the legislation include $2,000 checks."
-    publishedDateTime: 2020-12-29T18:41:00Z
-    webUrl: "https://www.businessinsider.com/mcconnell-senate-2000-stimulus-checks-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/mcconnell-senate-2000-stimulus-checks-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mcconnell-senate-2000-stimulus-checks-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 117
-    images:
-      - url: "https://i.insider.com/5feb414cedf8920018093ffc?width=1200&format=jpeg"
+      - url: "https://www.chicagotribune.com/resizer/EriE5_l5xPVwtO9jmKjyyRb_Uws=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/VRWGIX76UW7OWH7Y36Q25UFT4A.jpg"
         width: 1200
-        height: 600
+        height: 793
         isCached: true
-  - title: "Trump's biggest allies — including Ted Cruz, and Kellyanne Conway, and Mike Pence — are condemning the Capitol riots"
-    excerpt: "Senators Josh Hawley and Ted Cruz, who planned to object to the Electoral College's certification, both condemned the violence."
-    publishedDateTime: 2021-01-06T22:14:00Z
-    webUrl: "https://www.businessinsider.com/trump-allies-speaking-out-against-us-capitol-building-protests-riots-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/trump-allies-speaking-out-against-us-capitol-building-protests-riots-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-allies-speaking-out-against-us-capitol-building-protests-riots-2021-1?amp"
+  - title: "Politics live updates: McConnell wants Senate trial delayed; Donald Trump hires an impeachment lawyer"
+    excerpt: "Senate Minority Leader Mitch McConnell told fellow Senate Republicans on a call that he wanted to delay Trump’s impeachment trial for several weeks ."
+    publishedDateTime: 2021-01-22T01:38:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/21/live-politics-updates-biden-address-covid-response-fauci-debut/4243605001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4243605001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4243605001"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 117
+      name: USA Today
+      domain: usatoday.com
+    quality: 110
     images:
-      - url: "https://i.insider.com/5ff6312ed184b30018aad65b?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Defying Trump, McConnell delays vote on $2,000 checks, urges Senate to override defense veto"
-    excerpt: "U.S. Senate Majority Leader Mitch McConnell on Tuesday put off a vote on President Donald Trump's call to boost COVID-19 relief checks and urged the Senate to override his veto of a defense bill, in a rare challenge to his fellow Republican three weeks before he"
-    publishedDateTime: 2020-12-30T04:50:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-idINKBN2930SO"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2930SO"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2930SO"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 114
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201229&t=2&i=1546046735&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBS0DL"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Defying Trump, McConnell puts off vote on $2,000 checks, urges override of defense bill veto"
-    excerpt: "Senate Majority Leader Mitch McConnell on Tuesday put off a vote on increasing COVID-19 relief checks from $600 to $2,000 and urged senators to override President Donald Trump's veto of a defense bill,"
-    publishedDateTime: 2020-12-30T04:33:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-idUKKBN2930SO"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2930SO"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2930SO"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 114
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201229&t=2&i=1546046735&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBS0DL"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Defying Trump, McConnell puts off vote on $2,000 checks, urges override of defense bill veto"
-    excerpt: "Senate Majority Leader Mitch McConnell on Tuesday put off a vote on increasing COVID-19 relief checks from $600 to $2,000 and urged senators to override President Donald Trump’s veto of a defense bill,"
-    publishedDateTime: 2020-12-30T18:08:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump/u-s-congress-inches-closer-to-trump-veto-override-as-republican-tensions-grow-idUSKBN29411A"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29411A"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29411A"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 114
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201230&t=2&i=1546194815&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBT170"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Mitch McConnell has pitted himself against Trump during the president's final days in office"
-    excerpt: "The lame duck battle between McConnell and Trump on stimulus checks has baffled Democrats, but they've welcomed the president's support."
-    publishedDateTime: 2020-12-30T22:32:00Z
-    webUrl: "https://www.businessinsider.com/mitch-mcconnell-pits-himself-against-trump-during-final-days-office-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/mitch-mcconnell-pits-himself-against-trump-during-final-days-office-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mitch-mcconnell-pits-himself-against-trump-during-final-days-office-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 114
-    images:
-      - url: "https://i.insider.com/5fecf9b1a18a450018cb6543?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "In Stimulus Battle, Donald Trump Was No Match For Mitch McConnell, Who Shaped His Presidency"
-    excerpt: "Is McConnell's legacy more transformative than Trump's? The Senate Majority Leader took Trump under his wing, got his judges appointed and tax cuts passed, but clashed with him in the president's final days."
-    publishedDateTime: 2020-12-31T16:45:00Z
-    webUrl: "https://www.newsweek.com/stimulus-battle-donald-trump-was-no-match-mitch-mcconnell-who-shaped-his-presidency-1558272"
-    ampWebUrl: "https://www.newsweek.com/stimulus-battle-donald-trump-was-no-match-mitch-mcconnell-who-shaped-his-presidency-1558272?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/stimulus-battle-donald-trump-was-no-match-mitch-mcconnell-who-shaped-his-presidency-1558272?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 114
-    images:
-      - url: "https://d.newsweek.com/en/full/1696506/trump-mcconnell-republican.jpg"
-        width: 2500
-        height: 1738
-        isCached: true
-  - title: "McConnell rejects standalone $2,000 checks, links increase to other Trump requests in new bill"
-    excerpt: "Senate Majority Leader Mitch McConnell blocked an attempt to vote on the $2,000 stimulus checks, but reintroduced the $1,400 increase — with a catch."
-    publishedDateTime: 2020-12-30T00:03:00Z
-    webUrl: "https://www.cbsnews.com/news/stimulus-check-2000-trump-senate/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/stimulus-check-2000-trump-senate/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/stimulus-check-2000-trump-senate/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 113
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/29/817d52a3-b354-4ddb-aa99-f0c7e223577d/thumbnail/1200x630/b1ca0c4dcef5d3f04548483e3a45c84c/gettyimages-1230255025.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Fauci to Trump after he tweeted the CDC exaggerates the number of COVID-19 cases: 'The deaths are real'"
-    excerpt: "Fauci responded to Trump's Sunday tweet calling CDC data \"fakes news.\" The president's tweet came as the US reported passing 350,000 COVID-19 deaths."
-    publishedDateTime: 2021-01-03T14:51:00Z
-    webUrl: "https://www.businessinsider.com/trump-said-cdc-covid-tracker-fake-news-and-exaggerates-cases-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/trump-said-cdc-covid-tracker-fake-news-and-exaggerates-cases-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-said-cdc-covid-tracker-fake-news-and-exaggerates-cases-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 109
-    images:
-      - url: "https://i.insider.com/5fd0cb59240ebd00126bdde9?width=750&format=jpeg&auto=webp"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "McConnell blocks $2,000 stimulus checks as Trump demands support"
-    excerpt: "Mitch McConnell on Tuesday blocked Senate Democrats’ attempt to approve $2,000 stimulus checks, a measure President Trump has called for. Mr. Trump lashed out at Republicans for not supporting the checks or his baseless claims of widespread voter fraud."
-    publishedDateTime: 2020-12-30T00:03:00Z
-    webUrl: "https://www.cbsnews.com/video/mcconnell-blocks-2000-stimulus-checks-as-trump-demands-support/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/29/24674bf1-4fc2-44f0-8a58-0bbfddb31c0c/thumbnail/1200x630/f7d1f3d35b14d98a4eb75800290d5b49/preid-617839-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Mike Pence faces biggest loyalty test in announcing Trump's loss during a special session of Congress"
-    excerpt: "If Vice President Mike Pence follows the law and announces President Donald Trump's defeat, it will be the ever-loyal Pence's biggest break with Trump."
-    publishedDateTime: 2021-01-06T14:29:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/elections/2021/01/06/mike-pence-faces-biggest-loyalty-test-announcing-trumps-loss/3957706001/"
-    ampWebUrl: "https://amp.indystar.com/amp/3957706001"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3957706001"
-    type: article
-    provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 75
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/05/USAT/ff70fff0-c781-4c1a-9f4e-a6e08bb7747f-Pence_funny_face.jpg?auto=webp&crop=5646,3176,x0,y287&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2021/01/01/USAT/be212cef-000f-429d-a993-dda46d5b09a7-AP_Virus_Outbreak_Congress.jpg?auto=webp&crop=3781,2127,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Mitch McConnell says, accurately, that Joe Biden’s win wasn’t unusually close"
-    excerpt: "In a speech before what he called \"the most important vote I've ever cast,\" Senate Majority Leader Mitch McConnell, R-Ky., rejected challenges to the validity of Joe Biden’s victory in the 2020 presidential race."
-    publishedDateTime: 2021-01-08T22:38:00Z
-    webUrl: "https://www.politifact.com/factchecks/2021/jan/08/mitch-mcconnell/mitch-mcconnell-says-accurately-joe-bidens-win-was/"
+  - title: "Fact check: Donald Trump concession video not a ‘confirmed deepfake’"
+    excerpt: "Social media users have been sharing a post that claims a video in which outgoing president Donald Trump acknowledges President-elect Biden’s victory in the wake of the chaos of the Capitol protests has been confirmed to be a deepfake."
+    publishedDateTime: 2021-01-12T02:23:00Z
+    webUrl: "https://www.reuters.com/article/idUSKBN29G2NL"
     type: article
     provider:
-      name: Politifact
-      domain: politifact.com
-    quality: 52
+      name: Reuters
+      domain: reuters.com
+    quality: 105
     images:
-      - url: "https://static.politifact.com/politifact/rulings/meter-true.jpg"
-        width: 438
-        height: 392
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210111&t=2&i=1547411580&r=LYNXMPEH0A1I1&w=800"
+        width: 800
+        height: 450
         isCached: true
+  - title: "Trump trial pending, McConnell calls it 'vote of conscience'"
+    excerpt: "President Donald Trump's is likely to start after Joe Biden's inauguration, and the Republican leader, Mitch McConnell, is telling senators their decision on whether to convict the outgoing president over the Capitol riot will be a “vote of conscience."
+    publishedDateTime: 2021-01-16T22:37:00Z
+    webUrl: "https://www.businessinsider.com/trump-trial-pending-mcconnell-calls-it-vote-of-conscience-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/trump-trial-pending-mcconnell-calls-it-vote-of-conscience-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-trial-pending-mcconnell-calls-it-vote-of-conscience-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Senate Majority Leader Mitch McConnell is inclined to vote to convict Trump in an impeachment trial, new report says"
+    excerpt: "House Minority Leader Kevin McCarthy is also talking to GOP colleagues about whether he should ask Trump to resign, The New York Times reports."
+    publishedDateTime: 2021-01-13T03:56:00Z
+    webUrl: "https://www.businessinsider.com/mitch-mcconnell-pleased-at-prospect-of-trump-being-impeached-nyt-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/mitch-mcconnell-pleased-at-prospect-of-trump-being-impeached-nyt-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mitch-mcconnell-pleased-at-prospect-of-trump-being-impeached-nyt-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 102
+    images:
+      - url: "https://i.insider.com/5f984f3c861cb70019936b04?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "McConnell seeks to delay Trump impeachment trial until February; Congress approves waiver for Austin to lead Pentagon"
+    excerpt: "On his first full day in office, the president plans to focus on the top priority of his new administration: dealing with many aspects of the public health crisis."
+    publishedDateTime: 2021-01-22T04:46:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/01/21/joe-biden-live-updates/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/21/joe-biden-live-updates/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/21/joe-biden-live-updates/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 102
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3EIGNWC3MYI6XKCJN6KCHJ277U.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Mitch McConnell is telling GOP senators their decision on a Trump impeachment trial conviction is a 'vote of conscience'"
+    excerpt: "Majority Leader Mitch McConnell has been telling GOP senators they have the freedom to vote however they want during Trump's impeachment trial."
+    publishedDateTime: 2021-01-15T18:24:00Z
+    webUrl: "https://www.businessinsider.com/mcconnell-republican-senators-conviction-vote-trump-impeachment-trial-2021-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 80
+    images:
+      - url: "https://i.insider.com/5fa6a499f7d1cb0019e3a5eb?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "McConnell Wants to Delay Impeachment Trial to Give Trump Time to Prepare His Defense"
+    excerpt: "(WASHINGTON) — Senate Republican leader Mitch McConnell is proposing to push back the start of Donald Trump’s impeachment trial to February to give the former president time to prepare and review his case."
+    publishedDateTime: 2021-01-22T15:05:00Z
+    webUrl: "https://time.com/5932419/mconnell-delay-trump-impeachment-trial/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 78
+  - title: "Mitch McConnell: Trump ‘fed lies’ to mob that stormed Capitol"
+    excerpt: "They were provoked by the president and other powerful people, and they tried to use fear and violence to stop a specific proceeding of branch of the federal government.”"
+    publishedDateTime: 2021-01-19T18:01:00Z
+    webUrl: "https://www.al.com/news/2021/01/mitch-mcconnell-trump-fed-lies-to-mob-that-stormed-capitol.html"
+    ampWebUrl: "https://www.al.com/news/2021/01/mitch-mcconnell-trump-fed-lies-to-mob-that-stormed-capitol.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/mitch-mcconnell-trump-fed-lies-to-mob-that-stormed-capitol.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/TJIIVGNITJGIRJC6M4SJLB74IQ.jpg"
+        width: 8192
+        height: 5464
+        isCached: true
+  - title: "A McConnell-Backed Trump Conviction Is Just Fantasy"
+    excerpt: "Conviction in Trump’s impeachment trial was always a long shot. Now momentum is waning, as GOP senators aren’t onboard and McConnell won’t herd them."
+    publishedDateTime: 2021-01-21T18:57:00Z
+    webUrl: "https://nymag.com/intelligencer/article/mcconnell-trump-conviction-just-fantasy.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/article/mcconnell-trump-conviction-just-fantasy.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/article/mcconnell-trump-conviction-just-fantasy.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/dde/038/bd4c60c0dce402fd6be1a0dac9e2e8e396-Mitch-McConnell.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 632
+        isCached: true
+  - title: "A ‘vote of conscience’: McConnell sets stage for Trump impeachment trial"
+    excerpt: "President Donald Trump’s impeachment trial is likely to start after Joe Biden’s inauguration, and the Republican leader, Mitch McConnell, is telling senators their decision on whether to convict the outgoing president over the Capitol riot will be a “vote of conscience."
+    publishedDateTime: 2021-01-16T18:28:00Z
+    webUrl: "https://www.al.com/politics/2021/01/a-vote-of-conscience-mcconnell-sets-stage-for-trump-impeachment-trial.html"
+    ampWebUrl: "https://www.al.com/politics/2021/01/a-vote-of-conscience-mcconnell-sets-stage-for-trump-impeachment-trial.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/politics/2021/01/a-vote-of-conscience-mcconnell-sets-stage-for-trump-impeachment-trial.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 74
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/NTUN5GCYINBD3K36VXQ3ERTFMM.jpg"
+        width: 2555
+        height: 1438
+        isCached: true
+  - title: "Trump Impeachment: McConnell Blames President For Capitol Rioters Who Were 'Fed Lies,' 'Provoked'"
+    excerpt: "Senate Majority Leader Mitch McConnell told Senate colleagues on Tuesday that Capitol rioters were provoked by Trump's lies."
+    publishedDateTime: 2021-01-19T18:43:00Z
+    webUrl: "https://www.ibtimes.com/trump-impeachment-mcconnell-blames-president-capitol-rioters-who-were-fed-lies-3125762"
+    ampWebUrl: "https://www.ibtimes.com/trump-impeachment-mcconnell-blames-president-capitol-rioters-who-were-fed-lies-3125762?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-impeachment-mcconnell-blames-president-capitol-rioters-who-were-fed-lies-3125762?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 62
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/15/after-weeks-of-silence-on-the-issue-us-AFP_8X8387-2.jpg"
+        width: 1024
+        height: 697
+        isCached: true
+  - title: "McConnell Seeks to Push Trump Impeachment Trial to February"
+    excerpt: "Senate Republican leader Mitch McConnell is proposing to push back the start of Donald Trump's impeachment trial to February to give the former president time to prepare and review his case. House Democrats who voted to impeach Trump last week for inciting the deadly Jan."
+    publishedDateTime: 2021-01-22T00:42:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-21/pelosi-vows-action-on-impeachment-trial-we-must-do-it"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-21/pelosi-vows-action-on-impeachment-trial-we-must-do-it?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-21/pelosi-vows-action-on-impeachment-trial-we-must-do-it?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Trump impeachment trial will start week of February 8"
+    excerpt: "Opening arguments in the Senate impeachment trial for Donald Trump on the charge of incitement of insurrection for the Capitol riot will begin the week of February 8. Senate Majority Leader Chuck ..."
+    publishedDateTime: 2021-01-22T23:17:00Z
+    webUrl: "https://www.afr.com/world/north-america/trump-impeachment-to-go-to-senate-on-monday-20210123-p56way"
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 55
+    images:
+      - url: "https://static.ffx.io/images/$zoom_0.4088%2C$multiply_0.7554%2C$ratio_1.776846%2C$width_1059%2C$x_637%2C$y_534/t_crop_custom/e_sharpen:25%2Cq_85%2Cf_jpg/t_afr_live_no_age_social_wm/9b8662fc7027062f66926c9325d386ee12517917"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Kentucky GOP Group Rejects Push to Have McConnell Back Trump"
+    excerpt: "A Kentucky Republican Party committee has rejected a resolution urging Senate GOP leader Mitch McConnell to fully support Donald Trump in the ex-president’s upcoming impeachment trial."
+    publishedDateTime: 2021-01-23T23:46:00Z
+    webUrl: "https://www.usnews.com/news/best-states/kentucky/articles/2021-01-23/kentucky-gop-group-rejects-push-to-have-mcconnell-back-trump"
+    ampWebUrl: "https://www.usnews.com/news/best-states/kentucky/articles/2021-01-23/kentucky-gop-group-rejects-push-to-have-mcconnell-back-trump?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/kentucky/articles/2021-01-23/kentucky-gop-group-rejects-push-to-have-mcconnell-back-trump?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "gHRfmUZhU1ebR+YboTHOz1wIyeAW1YI6QeYn182kGRHHgC9PxwRn32S4QKJBh0jXIRl+7PpZmt35CQZs/TP7eWotM1LDzHaeVAW5MFop7mQt6hDLBD97KP9FgBR0Pqtc2p3jIch51z7D2/oQJMGkf11j7rnM7g/AdHAYhp1DK65s9xb28ebKvv1Akvh51set5W5ckKYCHSvW7r5fgBzcQ5QuB2YH69k/DV8qcQcOe3tHchx6ecl66BJC3+pYXadYj5q6/of8nmScxUFgmkOjUjrqe2klMhZVu9+iEJT7CHAkGIGrFpn5N7egzxr9L8kqfaL0NZFfX4PyEgF9kQBH0qpekRpkoJXprFktvP4CEzVbmgzFfiuPeqUpVIBP+gK6w+qPDDp7belSXH+Dd1aXwLIC9NN3Kjc3kX2sPPys4T6yNKGCpZWgHQZfuKe6TvEZ2rKZaqBG16XjTeYBIbu49bhQ85j/+lwQPIH+HhprvR2K3v+WmGa1nK6WvIH7icONFtY8HTAI36WbxdA5CRqq9w==;mvlVkGutQoJZaA6DEd2COg=="
 ---

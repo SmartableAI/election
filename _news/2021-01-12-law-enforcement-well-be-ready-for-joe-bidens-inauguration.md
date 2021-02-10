@@ -79,38 +79,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Mike Pence 'welcomes' the efforts of Republican lawmakers to challenge Biden's win, days before Congress is due to certify the election results"
-    excerpt: "The efforts by GOP senators and representatives could delay certification of the election results, but would not change the results in any US state."
-    publishedDateTime: 2021-01-03T06:26:00Z
-    webUrl: "https://www.businessinsider.com/pence-welcomes-gop-lawmakers-bid-to-challenge-bidens-win-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/pence-welcomes-gop-lawmakers-bid-to-challenge-bidens-win-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pence-welcomes-gop-lawmakers-bid-to-challenge-bidens-win-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 119
-    images:
-      - url: "https://i.insider.com/5ff160e39ff41f001883fac1?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "House barrels toward impeachment, and Biden scrambles to ensure it doesn’t hamper his agenda"
-    excerpt: "The House could impeach President Trump as early as Wednesday, sending an “incitement” article to the Senate. That prompted Biden to press the Senate on whether it could pursue impeachment while also passing his bills."
-    publishedDateTime: 2021-01-12T01:30:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-trump-senate-impeachment/2021/01/11/22ff2c12-5427-11eb-a817-e5e7f8a406d6_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-trump-senate-impeachment/2021/01/11/22ff2c12-5427-11eb-a817-e5e7f8a406d6_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-trump-senate-impeachment/2021/01/11/22ff2c12-5427-11eb-a817-e5e7f8a406d6_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 114
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Z2A6ZXSUHYI6XLGFSLJIDGQ4ZM.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Joe Biden elevates chief science adviser to a Cabinet position, picks human genome pioneer for the post"
     excerpt: "Joe Biden announced Friday that he has chosen a pioneer in mapping the human genome — the so-called “book of life” — to be his chief science adviser."
     publishedDateTime: 2021-01-16T01:16:00Z
@@ -126,6 +94,20 @@ related:
       - url: "https://www.chicagotribune.com/resizer/_KnwY3nRWrxfc3pBEgErezBucOk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/JVDAS7L35DO6FVFNIWKSAAR62E.aspx"
         width: 1200
         height: 791
+        isCached: true
+  - title: "Biden Names Boston Mayor Walsh to Head Labor Department"
+    excerpt: "President-elect Joe Biden announced Thursday that he has named Boston Mayor Marty Walsh to be labor secretary."
+    publishedDateTime: 2021-01-08T10:46:00Z
+    webUrl: "https://www.washingtonpost.com/business/on-small-business/biden-names-boston-mayor-walsh-to-head-labor-department/2021/01/07/c8a76dbc-514f-11eb-a1f5-fdaf28cfca90_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PNRKYPCRKAI6XIPV7WXSRT6KSA.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Walmart suspends contributions to U.S. lawmakers who opposed Biden certification"
     excerpt: "Walmart Inc , the world's biggest retailer, joined other major companies in indefinitely suspending donations to U.S. lawmakers who voted against President-elect Joe Biden's election certification."

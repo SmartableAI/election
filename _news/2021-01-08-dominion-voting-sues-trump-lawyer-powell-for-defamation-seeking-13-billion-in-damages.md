@@ -63,38 +63,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "House Democrats plan to vote Wednesday to impeach Trump"
-    excerpt: "House Democrats are barreling toward impeaching President Donald Trump for the second time over his role in inciting last week's riots at the US Capitol.\n    \n"
-    publishedDateTime: 2021-01-12T00:26:06Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6FAMb5i5e2Y/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/11/politics/house-democrats-impeachment-plans/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/11/politics/house-democrats-impeachment-plans/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210110181004-01-nancy-pelosi-announcement-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump hand-picks replacement for Atlanta's US attorney after surprise resignation"
-    excerpt: "President Donald Trump on Monday ordered a US attorney from southern Georgia to take over the nearby Atlanta office in an unusual move at the same time that Georgia and the Atlanta US Attorney has become a focus of the President in his attempt to overturn the state's certified election results.\n    \n"
-    publishedDateTime: 2021-01-05T19:29:46Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VkfUTlZM-zw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/05/politics/georgia-us-attorney-byung-pak-bobby-christine/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/05/politics/georgia-us-attorney-byung-pak-bobby-christine/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 170
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210105122517-bobby-christine-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Trump bears some responsibility for Capitol riot, ex-DHS acting Secretary Chad Wolf says "
     excerpt: "Chad Wolf, who resigned as Homeland Security acting secretary two days ago, said Wednesday that President Donald Trump bears some responsibility for the events at the US Capitol last week.\n    \n"
     publishedDateTime: 2021-01-13T20:38:49Z
@@ -110,70 +78,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200921105920-chad-wolf-trump-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Trump directed Pentagon to reverse decision and keep aircraft carrier in Middle East amid Iran tensions"
-    excerpt: "At the direction of President Donald Trump, acting Secretary of Defense Christopher Miller ordered a US aircraft carrier to return to the Middle East following a White House meeting Sunday, according to a senior defense official.\n    \n"
-    publishedDateTime: 2021-01-04T14:42:25Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NS83Yq8XzdQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/04/politics/uss-nimitz-aircraft-carrier-middle-east-iran/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/04/politics/uss-nimitz-aircraft-carrier-middle-east-iran/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 159
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210103225357-uss-nimitz-arabian-sea-11172020-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump's ex-White House chief of staff John Kelly supports using 25th Amendment to remove the President"
-    excerpt: "Former White House chief of staff John Kelly said Thursday that if he were a member of President Donald Trump's Cabinet he would support using the 25th Amendment to the Constitution to remove the President from office following a deadly riot at the US Capitol.\n    \n"
-    publishedDateTime: 2021-01-07T22:22:04Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jIpl28U4fWE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/07/politics/john-kelly-trump-25th-amendment-capitol-riot-cnntv/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/john-kelly-trump-25th-amendment-capitol-riot-cnntv/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 159
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200626131818-trump-john-kelly-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump commits to 'orderly transition' in statement after mob storms Capitol"
-    excerpt: "President Donald Trump finally committed to \"an orderly transition\" of power Thursday minutes after Congress confirmed President-elect Joe Biden's election win. The striking reversal came hours after a violent mob of the president's supporters stormed the U."
-    publishedDateTime: 2021-01-07T10:48:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/trump-commits-orderly-transition-statement-after-mob-stormed-capitol-n1253223"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1253223"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1253223"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 133
-    images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2021_01/3440340/210107-trump-concedes-mc-859_203eceb488e70e6a5237ddadd2236970.JPG"
-        width: 2500
-        height: 1739
-        isCached: true
-  - title: "Twitter, Facebook lock Trump's accounts in confrontation over Capitol breach posts"
-    excerpt: "Twitter and Facebook locked President Donald Trump's accounts and YouTube removed one of his videos after throngs of his supporters rioted inside the U.S. Capitol on Wednesday, marking the harshest confrontation to date between the president and the social media companies."
-    publishedDateTime: 2021-01-07T08:12:00Z
-    webUrl: "https://www.politico.com/news/2021/01/06/twitter-trump-tweet-capitol-violence-455630"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/01/06/twitter-trump-tweet-capitol-violence-455630"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/06/twitter-trump-tweet-capitol-violence-455630"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 129
-    images:
-      - url: "https://static.politico.com/e1/8c/6327ef1e41bdb9d7e4840e38d167/gettyimages-1294942396.JPG"
-        width: 1200
-        height: 800
         isCached: true
 
 secured: "ISo/zjbAcxboc2ujOKj5nG1y/94Q4cTmR0t/DqxQvhSoS93Vmdk7YSpOq/A0a4itun/wza0BatHpCpahwblTfaqqS2Z1shMXDiz3cDobS4E/4yVpwYPr5ulUO+nGYy6piZD79bqZxdWpU4GrFq9wMoa0Pti63THymlWVgMBsLDno88nN99qYUpBNw0rjj3pg2IXKKCoUSX7gja4lnuTytslR3bLEan1tWPDFcwbnFtnHlrU5Je1XUID0/CJDW3b/hbkf5QlWN6VH9M2xDgyfK5c6B8SYMqUrFPhJ0A2O5mz53Qk8EwS+CZrakcDd3xJKuYtR8H7eUe9HP/+QDtOdlKwOFF/FmxXzdTCVLDUdk3U=;u+IrTKbnYan39dYZCKhrpw=="

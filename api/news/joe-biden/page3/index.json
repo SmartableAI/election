@@ -54,29 +54,29 @@
       ]
     },
     {
-      "path": "_news/2021-01-20-senate-hearing-to-consider-alejandro-mayorkas-as-bidens-head-of-dhs.md",
-      "title": "Senate hearing to consider Alejandro Mayorkas as Biden's head of DHS",
-      "excerpt": "The Senate Homeland Security Committee meets to consider Alejandro Mayorkas' nomination as Secretary of Department of Homeland Security for President-elect Joe Biden's administration.",
+      "path": "_news/2021-01-20-the-latest-biden-nominee-says-intel-wont-be-politicized.md",
+      "title": "The Latest: Biden nominee says intel won't be politicized",
+      "excerpt": "The Latest on Senate confirmation hearings for President-elect Joe Biden’s nominees for his administration (all times local):",
       "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/video/national/senate-hearing-to-consider-alejandro-mayorkas-as-bidens-head-of-dhs/2021/01/19/5e44eaeb-7275-4856-a9fc-da37614d1a5b_live.html",
-      "originalUrl": "https://www.washingtonpost.com/video/national/senate-hearing-to-consider-alejandro-mayorkas-as-bidens-head-of-dhs/2021/01/19/5e44eaeb-7275-4856-a9fc-da37614d1a5b_live.html",
+      "webUrl": "https://www.businessinsider.com/the-latest-biden-nominee-says-intel-wont-be-politicized-2021-1",
+      "originalUrl": "https://www.businessinsider.com/the-latest-biden-nominee-says-intel-wont-be-politicized-2021-1",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 125,
       "tags": null,
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-19T11:45:00-08:00",
+      "ampWebUrl": "https://www.businessinsider.com/the-latest-biden-nominee-says-intel-wont-be-politicized-2021-1?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/the-latest-biden-nominee-says-intel-wont-be-politicized-2021-1?amp",
+      "publishedDateTime": "2021-01-19T10:18:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -151,6 +151,58 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-19-biden-picks-chopra-gensler-for-financial-oversight-roles.md",
+      "title": "Biden picks Chopra, Gensler for financial oversight roles",
+      "excerpt": "President-elect Joe Biden is set to nominate Rohit Chopra as the director of the Consumer Financial Protection Bureau, tapping a progressive ally of Sen. Elizabeth Warren to helm the agency whose crea",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/business/biden-picks-chopra-gensler-for-financial-oversight-roles/2021/01/18/b8d93334-5997-11eb-a849-6f9423a75ffd_story.html",
+      "originalUrl": "https://www.washingtonpost.com/business/biden-picks-chopra-gensler-for-financial-oversight-roles/2021/01/18/b8d93334-5997-11eb-a849-6f9423a75ffd_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/business/biden-picks-chopra-gensler-for-financial-oversight-roles/2021/01/18/b8d93334-5997-11eb-a849-6f9423a75ffd_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/biden-picks-chopra-gensler-for-financial-oversight-roles/2021/01/18/b8d93334-5997-11eb-a849-6f9423a75ffd_story.html?outputType=amp",
+      "publishedDateTime": "2021-01-18T11:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     },
     {
@@ -323,7 +375,7 @@
       "originalUrl": "https://www.newsweek.com/2021/02/05/joe-bidens-options-dealing-donald-trump-are-worse-watergate-1562142.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1888,
+      "heat": 1188,
       "tags": null,
       "images": [
         {
@@ -376,7 +428,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/gen-milley-key-to-military-continuity-as-biden-takes-office/2021/01/17/77d78818-58c0-11eb-a849-6f9423a75ffd_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 405,
+      "heat": 325,
       "tags": null,
       "images": [
         {
@@ -480,7 +532,7 @@
       "originalUrl": "https://abcnews.go.com/Health/wireStory/biden-unveils-19t-plan-stem-covid-19-steady-75269503",
       "featuredContent": null,
       "highlight": null,
-      "heat": 265,
+      "heat": 305,
       "tags": null,
       "images": [
         {
@@ -532,7 +584,7 @@
       "originalUrl": "https://abcnews.go.com/Technology/wireStory/biden-science-forefront-administration-75295060",
       "featuredContent": null,
       "highlight": null,
-      "heat": 305,
+      "heat": 285,
       "tags": null,
       "images": [
         {
@@ -636,7 +688,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/biden-announces-former-fda-head-david-kessler-as-chief-science-officer-for-vaccine-drive-to-stop-spread-of-coronavirus/2021/01/15/aeb5b86c-572d-11eb-acc5-92d2819a1ccb_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 141,
       "tags": null,
       "images": [
         {
@@ -688,7 +740,7 @@
       "originalUrl": "https://www.bbc.com/news/world-us-canada-55670801",
       "featuredContent": null,
       "highlight": null,
-      "heat": 365,
+      "heat": 285,
       "tags": null,
       "images": [
         {
@@ -740,7 +792,7 @@
       "originalUrl": "https://www.newsweek.com/fact-check-was-biden-campaign-official-arrested-1561777",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 185,
       "tags": null,
       "images": [
         {
@@ -784,110 +836,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-13-biden-picks-samantha-power-former-un-envoy-for-us-aid-post.md",
-      "title": "Biden picks Samantha Power, former UN envoy, for US aid post",
-      "excerpt": "President-elect Joe Biden has selected Samantha Power, the U.S. ambassador to the United Nations under President Barack Obama, to run the U.S. Agency for International Development",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/biden-picks-samantha-power-envoy-us-aid-post-75218759",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-picks-samantha-power-envoy-us-aid-post-75218759",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_b144e118b1ff442f96fc0e82513e2870_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/biden-picks-samantha-power-envoy-us-aid-post-75218759",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-picks-samantha-power-envoy-us-aid-post-75218759",
-      "publishedDateTime": "2021-01-13T06:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-chicago-man-who-threatened-to-kill-democrats-prevent-biden-from-entering-white-house-arrested.md",
-      "title": "Chicago Man Who Threatened to 'Kill' Democrats, Prevent Biden From Entering White House Arrested",
-      "excerpt": "Louis Capriotti, a 45-year-old man from Chicago, made the alleged threats in a voicemail to a representative from New Jersey.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/chicago-man-who-threatened-kill-democrats-prevent-biden-entering-white-house-arrested-1560958",
-      "originalUrl": "https://www.newsweek.com/chicago-man-who-threatened-kill-democrats-prevent-biden-entering-white-house-arrested-1560958",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1704833/joe-biden-louis-capriotti-threat-inauguration.jpg",
-          "width": 2500,
-          "height": 1695,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/chicago-man-who-threatened-kill-democrats-prevent-biden-entering-white-house-arrested-1560958?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/chicago-man-who-threatened-kill-democrats-prevent-biden-entering-white-house-arrested-1560958?amp=1",
-      "publishedDateTime": "2021-01-12T12:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2021-01-12-biden-chooses-veteran-diplomat-william-burns-as-his-cia-director.md",
       "title": "Biden chooses veteran diplomat William Burns as his CIA director",
       "excerpt": "William Burns, chosen by Biden to head the CIA, built a 33-year career at the State Department under both Republican and Democratic presidents.",
@@ -896,7 +844,7 @@
       "originalUrl": "https://www.latimes.com/world-nation/story/2021-01-11/biden-chooses-veteran-diplomat-william-burns-cia-director",
       "featuredContent": null,
       "highlight": null,
-      "heat": 385,
+      "heat": 245,
       "tags": null,
       "images": [
         {
@@ -927,49 +875,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-joe-bidens-inauguration-theme-america-united.md",
-      "title": "Joe Biden’s inauguration theme: ‘America United’",
-      "excerpt": "WASHINGTON (AP) — The theme for President-elect Joe Biden’s inauguration will be “America United,” an issue that’s long been a central focus for Biden but one that’s taken on added weight in the wake of the violence at the U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cleveland.com/nation/2021/01/joe-bidens-inauguration-theme-america-united.html",
-      "originalUrl": "https://www.cleveland.com/nation/2021/01/joe-bidens-inauguration-theme-america-united.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/2NAB5FK6RFAK3B53DG7COL2DXE.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cleveland.com/nation/2021/01/joe-bidens-inauguration-theme-america-united.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2021/01/joe-bidens-inauguration-theme-america-united.html?outputType=amp",
-      "publishedDateTime": "2021-01-11T08:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cleveland.com",
-        "domain": "cleveland.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1035,6 +940,110 @@
       ]
     },
     {
+      "path": "_news/2021-01-11-israel-announces-new-settlements-risking-bidens-anger.md",
+      "title": "Israel announces new settlements, risking Biden's anger",
+      "excerpt": "Israel has advanced plans to build 800 new settler homes in the occupied West Bank, a move that could strain ties with the incoming administration of President-elect Joe Biden",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/International/wireStory/israel-announces-settlements-risking-bidens-anger-75172908",
+      "originalUrl": "https://abcnews.go.com/International/wireStory/israel-announces-settlements-risking-bidens-anger-75172908",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 385,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/International/WireAP_6da97118452742cfaa37ee04ef0f095a_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/International/wireStory/israel-announces-settlements-risking-bidens-anger-75172908",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/israel-announces-settlements-risking-bidens-anger-75172908",
+      "publishedDateTime": "2021-01-11T04:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-01-10-biden-calls-for-2k-stimulus-checks-post-georgia-runoffs-but-at-least-one-democrat-opposes.md",
+      "title": "Biden Calls for $2K Stimulus Checks Post-Georgia Runoffs But At Least One Democrat Opposes",
+      "excerpt": "\"We need more direct relief flowing to families and small businesses, including finishing the job and getting people $2,000 in relief,\" the president-elect said Friday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/biden-calls-2k-stimulus-checks-post-georgia-runoffs-least-one-democrat-opposes-1560266",
+      "originalUrl": "https://www.newsweek.com/biden-calls-2k-stimulus-checks-post-georgia-runoffs-least-one-democrat-opposes-1560266",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1702344/president-elect-joe-biden-speaks-wilmington-delaware.jpg",
+          "width": 3543,
+          "height": 2431,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/biden-calls-2k-stimulus-checks-post-georgia-runoffs-least-one-democrat-opposes-1560266?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-calls-2k-stimulus-checks-post-georgia-runoffs-least-one-democrat-opposes-1560266?amp=1",
+      "publishedDateTime": "2021-01-09T16:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-01-09-ap-interview-libyan-minister-hopes-for-support-from-biden.md",
       "title": "AP interview: Libyan minister hopes for support from Biden",
       "excerpt": "The powerful interior minister of Libya’s U.N.-backed government, seen as a contender for the post of prime minister, says he hopes that bringing stability to his war-torn country will become a top pr",
@@ -1043,7 +1052,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/ap-interview-libyan-minister-hopes-for-support-from-biden/2021/01/08/49e439b8-5237-11eb-a1f5-fdaf28cfca90_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -1087,6 +1096,58 @@
       ]
     },
     {
+      "path": "_news/2021-01-09-north-koreas-kim-calls-us-our-biggest-enemy-in-challenge-to-biden.md",
+      "title": "North Korea's Kim calls U.S. 'our biggest enemy' in challenge to Biden",
+      "excerpt": "North Korean leader Kim Jong Un called for more advanced nuclear weapons and said the United States is \"our biggest enemy,\" state media said on Saturday, presenting a stark challenge to President-elect Joe Biden just days before he takes office.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-northkorea-politics/north-koreas-kim-calls-u-s-our-biggest-enemy-in-challenge-to-biden-idUSKBN29D2YA",
+      "originalUrl": "https://www.reuters.com/article/us-northkorea-politics/north-koreas-kim-calls-u-s-our-biggest-enemy-in-challenge-to-biden-idUSKBN29D2YA",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?m=02&d=20210108&t=2&i=1547162452&r=LYNXMPEH071G6&w=800",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-09T01:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-01-09-biden-says-impeachment-is-a-decision-for-the-congress-to-make.md",
       "title": "Biden says impeachment is a \"decision for the Congress to make\"",
       "excerpt": "\"That's a decision for the Congress to make. I'm focused on my job,\" Mr. Biden said. He added that he will be speaking with House Speaker Nancy Pelosi and Democratic leaders later in the day. \"I'll be speaking with Nancy and the Democratic leadership this afternoon,",
@@ -1095,7 +1156,7 @@
       "originalUrl": "https://www.cbsnews.com/news/biden-says-impeachment-is-a-judgment-for-the-congress-to-make/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 265,
+      "heat": 245,
       "tags": null,
       "images": [
         {
@@ -1119,58 +1180,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-nba-los-angeles-lakers-hope-to-meet-president-joe-biden-but-champions-lose-at-spurs.md",
-      "title": "NBA: Los Angeles Lakers hope to meet President Joe Biden but champions lose at Spurs",
-      "excerpt": "The Los Angeles Lakers hope to re-establish the tradition of NBA champions visiting the president of the United States.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/sport/basketball/55584721",
-      "originalUrl": "https://www.bbc.com/sport/basketball/55584721",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/1313B/production/_116393187_lakers.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/sport/amp/basketball/55584721",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/sport/amp/basketball/55584721",
-      "publishedDateTime": "2021-01-08T00:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1303,7 +1312,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-picks-rhode-island-gov-raimondo-commerce-secretary-75113998",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 285,
       "tags": null,
       "images": [
         {
@@ -1344,6 +1353,63 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-01-08-biden-says-capitol-was-stormed-by-riotous-mob-domestic-terrorists.md",
+      "title": "Biden says Capitol was stormed by ‘riotous mob,' 'domestic terrorists’",
+      "excerpt": "President-elect Joe Biden says that the supporters of President Trump who attacked the Capitol on Wednesday were “a riotous mob” and “domestic terrorists.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/biden-capitol-stormed-riotous-mob-domestic-terrorists",
+      "originalUrl": "https://www.foxnews.com/politics/biden-capitol-stormed-riotous-mob-domestic-terrorists",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21006854495058.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-capitol-stormed-riotous-mob-domestic-terrorists.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-capitol-stormed-riotous-mob-domestic-terrorists.amp",
+      "publishedDateTime": "2021-01-07T12:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
       ]
     },
     {
@@ -1404,21 +1470,21 @@
       ]
     },
     {
-      "path": "_news/2021-01-07-bidens-pick-for-the-department-of-homeland-security-raked-in-millions-at-wilmerhale-advising-blackstone-airbnb-pnc-and-others.md",
-      "title": "Biden's pick for the Department of Homeland Security raked in millions at WilmerHale advising Blackstone, Airbnb, PNC and others",
-      "excerpt": "Alejandro Mayorkas is leaving the partnership at Big Law firm WilmerHale to join the Biden administration.",
+      "path": "_news/2021-01-08-biden-to-nominate-judge-merrick-garland-for-attorney-general.md",
+      "title": "Biden to nominate Judge Merrick Garland for attorney general",
+      "excerpt": "President-elect Joe Biden will nominate federal appeals court Judge Merrick Garland to be U.S. attorney general, Biden's transition office said in a statement on Thursday.",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/biden-dhs-leader-made-3-million-advising-blackstone-airbnb-2021-1",
-      "originalUrl": "https://www.businessinsider.com/biden-dhs-leader-made-3-million-advising-blackstone-airbnb-2021-1",
+      "webUrl": "https://www.reuters.com/article/us-usa-biden-attorney-general-idUSKBN29C1FY",
+      "originalUrl": "https://www.reuters.com/article/us-usa-biden-attorney-general-idUSKBN29C1FY",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 385,
       "tags": null,
       "images": [
         {
-          "url": "https://i.insider.com/5ff721be6d61c10019cce1c8?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1546953058&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH060RY",
+          "width": 765,
+          "height": 545,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1426,16 +1492,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-07T07:37:00-08:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29C1FY",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29C1FY",
+      "publishedDateTime": "2021-01-07T08:31:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1456,78 +1522,21 @@
       ]
     },
     {
-      "path": "_news/2021-01-07-biden-pick-for-dept-of-justices-top-civil-rights-post-has-called-for-partially-defunding-police.md",
-      "title": "Biden pick for Dept. of Justice's top civil rights post has called for partially defunding police",
-      "excerpt": "President-elect Joe Biden is expected to pick Kristen Clarke, a civil rights lawyer, as Assistant Attorney General for the Civil Rights Division of the Department of Justice, which is expected to be a prioritized role in the Biden administration.",
+      "path": "_news/2021-01-07-us-house-rejects-attempt-to-overturn-biden-victory-in-arizona.md",
+      "title": "U.S. House rejects attempt to overturn Biden victory in Arizona",
+      "excerpt": "The U.S. House of Representatives on Wednesday night joined the Senate in rejecting a move by allies of President Donald Trump to overturn Democrat Joe Biden's victory in Arizona, a vote delayed by rioters earlier pushing their way into the U.",
       "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/biden-pick-for-dojs-top-civil-rights-post-called-for-partially-defunding-police",
-      "originalUrl": "https://www.foxnews.com/politics/biden-pick-for-dojs-top-civil-rights-post-called-for-partially-defunding-police",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d358d2cc-f940-473b-bfb7-5e489ad2caa5/4bf5cd6b-a53b-4fb6-9b9e-3b41fa25e8b0/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-pick-for-dojs-top-civil-rights-post-called-for-partially-defunding-police.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pick-for-dojs-top-civil-rights-post-called-for-partially-defunding-police.amp",
-      "publishedDateTime": "2021-01-07T04:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-morale-has-been-gutted-can-biden-restore-the-dojs-battered-reputation.md",
-      "title": "'Morale has been gutted': can Biden restore the DoJ's battered reputation?",
-      "excerpt": "Biden may well find his best intentions tested early on as the Trump administration has been busy planting legal landmines in his path",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jan/07/joe-biden-doj-justice-department-donald-trump-william-barr",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jan/07/joe-biden-doj-justice-department-donald-trump-william-barr",
+      "webUrl": "https://www.reuters.com/article/usa-congress-election-arizona-house-idINKBN29C0H3",
+      "originalUrl": "https://www.reuters.com/article/usa-congress-election-arizona-house-idINKBN29C0H3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 123,
+      "heat": 765,
       "tags": null,
       "images": [
         {
-          "url": "https://i.guim.co.uk/img/media/2da214256fa4bcaf55cddcdaf608b9be0260229c/0_0_3500_2333/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7e64f63c08b1f74c1fd870a394ccf19a",
-          "width": 600,
-          "height": 400,
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1546906712&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH060AF",
+          "width": 817,
+          "height": 545,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1535,16 +1544,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jan/07/joe-biden-doj-justice-department-donald-trump-william-barr",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/07/joe-biden-doj-justice-department-donald-trump-william-barr",
-      "publishedDateTime": "2021-01-06T22:02:00-08:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN29C0H3",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN29C0H3",
+      "publishedDateTime": "2021-01-06T23:04:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1565,5 +1574,5 @@
       ]
     }
   ],
-  "nextPage": 4
+  "nextPage": null
 }

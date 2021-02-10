@@ -2,6 +2,230 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-10-meadows-accuses-house-impeachment-managers-of-conveniently-leaving-out-one-line-from-trumps-jan-6-speech.md",
+      "title": "Meadows accuses House impeachment managers of 'conveniently leaving out' one line from Trump's Jan. 6 speech",
+      "excerpt": "President Trump’s former chief of staff Mark Meadows accused House impeachment managers of “conveniently” leaving out a line from Trump’s pre-Capitol riot speech, where he told supporters to “peacefully and patriotically” make their voices heard. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yS_vxeeeQq0/meadows-accuses-house-impeachment-managers-of-conveniently-leaving-out-one-line-from-trumps-jan-6-speech",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yS_vxeeeQq0/meadows-accuses-house-impeachment-managers-of-conveniently-leaving-out-one-line-from-trumps-jan-6-speech",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 176,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/61a66219-cef7-41be-bf5a-2420fbb38051/157f42b9-2028-471b-81e5-255abc31ee16/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/meadows-accuses-house-impeachment-managers-of-conveniently-leaving-out-one-line-from-trumps-jan-6-speech.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/meadows-accuses-house-impeachment-managers-of-conveniently-leaving-out-one-line-from-trumps-jan-6-speech.amp",
+      "publishedDateTime": "2021-02-10T12:30:55-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-10-chip-roy-slams-bidens-purposeful-and-deplorable-refusal-to-enforce-immigration-laws.md",
+      "title": "Chip Roy slams Biden's 'purposeful' and 'deplorable' refusal to enforce immigration laws",
+      "excerpt": "Rep. Chip Roy, R-Texas, slammed President Biden on Monday for what he described as a \"purposeful\" and \"deplorable\" refusal to enforce U.S. immigration laws.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/y5dhwFPrpz0/roy-bidens-purposeful-refusal-enforce-immigration-laws",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/y5dhwFPrpz0/roy-bidens-purposeful-refusal-enforce-immigration-laws",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/473395ed-38cf-476e-9b26-bcbcb685fb2c/85e0c82b-f0a4-4a7a-af32-149d073900e0/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/roy-bidens-purposeful-refusal-enforce-immigration-laws.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/roy-bidens-purposeful-refusal-enforce-immigration-laws.amp",
+      "publishedDateTime": "2021-02-10T12:26:52-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-10-psaki-says-biden-respects-this-kind-of-protest-as-mark-cuban-stops-playing-anthem-at-mavericks-games.md",
+      "title": "Psaki says Biden 'respects this kind of protest' as Mark Cuban stops playing anthem at Mavericks games",
+      "excerpt": "White House press secretary Jen Psaki said she hadn’t spoken to President Biden about Mark Cuban’s decision to stop playing the national anthem before Mavericks’ games, but believes he respects this kind of peaceful protest at sporting events.  ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GekeFAYbQE4/biden-great-respect-anthem-respects-peaceful-protest-psaki-says-mavericks",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GekeFAYbQE4/biden-great-respect-anthem-respects-peaceful-protest-psaki-says-mavericks",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/Psaki2.jpg",
+          "width": 1280,
+          "height": 721,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-great-respect-anthem-respects-peaceful-protest-psaki-says-mavericks.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-great-respect-anthem-respects-peaceful-protest-psaki-says-mavericks.amp",
+      "publishedDateTime": "2021-02-10T11:50:01-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-10-democrats-dub-trump-the-inciter-in-chief-for-provoking-mob-refusing-to-stop-jan-6-attack.md",
+      "title": "Democrats dub Trump the 'inciter-in-chief' for provoking mob, refusing to stop Jan. 6 attack",
+      "excerpt": "Democratic impeachment managers made the case Wednesday that the Jan. 6 attack on the Capitol was no accident but rather a \"premeditated\" and \"foreseeable\" outcome",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fjUB8NnQ-Z0/democrats-dub-trump-the-inciter-in-chief-for-provoking-mob-refusing-to-stop-jan-6-attack",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fjUB8NnQ-Z0/democrats-dub-trump-the-inciter-in-chief-for-provoking-mob-refusing-to-stop-jan-6-attack",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Jamie-Raskin-Trump-Impeachment-Trial-AP.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/democrats-dub-trump-the-inciter-in-chief-for-provoking-mob-refusing-to-stop-jan-6-attack.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-dub-trump-the-inciter-in-chief-for-provoking-mob-refusing-to-stop-jan-6-attack.amp",
+      "publishedDateTime": "2021-02-10T11:35:31-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-10-fulton-county-prosecutors-launch-criminal-investigation-into-trump-phone-call-with-georgia-secretary-of-state.md",
       "title": "Fulton County prosecutors launch criminal investigation into Trump phone call with Georgia secretary of state",
       "excerpt": "Georgia prosecutors opened a criminal investigation into former President Trump's efforts to overturn the 2020 presidential election in the state, including his phone call with Georgia Secretary of State Brad Raffensperger in which Trump suggested the Republicans \"find\" enough votes to change the results.",
@@ -114,6 +338,63 @@
       ]
     },
     {
+      "path": "_news/2021-02-10-dozens-of-celebrities-call-on-joe-biden-kamala-harris-to-shut-down-the-dakota-access-pipeline.md",
+      "title": "Dozens of celebrities call on Joe Biden, Kamala Harris to shut down the Dakota Access Pipeline",
+      "excerpt": "Dozens of celebrities signed a letter to President Joe Biden and Vice President Kamala Harris calling on their administration to shut down the Dakota Access Pipeline for good.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/entertainment/dozens-of-celebrities-call-on-joe-biden-kamala-harris-to-shut-down-the-dakota-access-pipeline",
+      "originalUrl": "https://www.foxnews.com/entertainment/dozens-of-celebrities-call-on-joe-biden-kamala-harris-to-shut-down-the-dakota-access-pipeline",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/CelebsReact21.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/entertainment/dozens-of-celebrities-call-on-joe-biden-kamala-harris-to-shut-down-the-dakota-access-pipeline.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/dozens-of-celebrities-call-on-joe-biden-kamala-harris-to-shut-down-the-dakota-access-pipeline.amp",
+      "publishedDateTime": "2021-02-10T07:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-10-laid-off-keystone-pipeline-workers-slam-job-killing-biden-decision-future-completely-taken-away.md",
       "title": "Laid-off Keystone pipeline workers slam job-killing Biden decision: Future 'completely taken away'",
       "excerpt": "Laid-off Keystone XL pipeline workers in Fouke, Ark., blasted President Biden's order canceling the project.",
@@ -182,7 +463,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 173,
+      "heat": 193,
       "tags": null,
       "images": [
         {
@@ -574,7 +855,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 135,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -743,7 +1024,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 295,
+      "heat": 275,
       "tags": null,
       "images": [
         {
@@ -799,7 +1080,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 315,
+      "heat": 295,
       "tags": null,
       "images": [
         {
@@ -968,7 +1249,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1705,
+      "heat": 1805,
       "tags": null,
       "images": [
         {
@@ -1378,286 +1659,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/sen-murphy-we-have-a-constitutional-responsibility-to-hold-trumps-trial.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-murphy-we-have-a-constitutional-responsibility-to-hold-trumps-trial.amp",
       "publishedDateTime": "2021-02-07T09:02:56-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-07-rand-paul-kids-missing-school-is-disaster-says-biden-beholden-to-teachers-unions.md",
-      "title": "Rand Paul: Kids missing school is 'disaster,' says Biden 'beholden' to teachers unions",
-      "excerpt": "President Biden's hands-off approach to reopening schools amid the coronavirus pandemic is hurting America's children, Sen. Rand Paul, R-Ky., told \"Justice with Judge Jeanine\" Saturday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VMET7vSBSD4/rand-paul-kids-missing-school-biden-beholden-to-unions",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VMET7vSBSD4/rand-paul-kids-missing-school-biden-beholden-to-unions",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d6ff4554-cb7b-431a-a61b-7dc4f0df80ea/7bcb469e-db26-4dc7-b49d-f84eb9a67300/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/rand-paul-kids-missing-school-biden-beholden-to-unions.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rand-paul-kids-missing-school-biden-beholden-to-unions.amp",
-      "publishedDateTime": "2021-02-07T07:43:05-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-07-ben-sasses-anti-trump-statements-draw-more-nebraska-backlash.md",
-      "title": "Ben Sasse's anti-Trump statements draw more Nebraska backlash",
-      "excerpt": "Republican U.S. Sen. Ben Sasse is facing more opposition in his home state of Nebraska for criticizing former President Trump.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/t4yZLcp-xwE/ben-sasses-anti-trump-statements-draw-more-nebraska-backlash",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/t4yZLcp-xwE/ben-sasses-anti-trump-statements-draw-more-nebraska-backlash",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21036581973148.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ben-sasses-anti-trump-statements-draw-more-nebraska-backlash.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ben-sasses-anti-trump-statements-draw-more-nebraska-backlash.amp",
-      "publishedDateTime": "2021-02-07T01:35:28-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-07-live-updates-white-house-clarifies-intelligence-officials-will-determine-trumps-access-to-briefings.md",
-      "title": "LIVE UPDATES: White House clarifies intelligence officials will determine Trump's access to briefings",
-      "excerpt": "Follow for the latest updates on the White House.  ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uQfEw5pDUjs/live-updates-white-house-trump-2-7-21",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uQfEw5pDUjs/live-updates-white-house-trump-2-7-21",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9afddc93-7228-4852-850b-9711102bbb72/4053956a-dce6-43cc-b729-c596965e4d2f/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/live-updates-white-house-trump-2-7-21.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-white-house-trump-2-7-21.amp",
-      "publishedDateTime": "2021-02-06T23:44:40-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-06-official-tasked-with-briefing-biden-reportedly-defended-cias-false-intel-about-torture-effectiveness.md",
-      "title": "Official tasked with briefing Biden reportedly defended CIA’s false intel about torture effectiveness",
-      "excerpt": "The CIA official in charge of overseeing President Biden’s daily intelligence briefing reportedly lead a standoff between the CIA and the Senate Intelligence Committee.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/S4gwWVugYEk/official-briefing-biden-cia-false-intel-torture-effectiveness",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/S4gwWVugYEk/official-briefing-biden-cia-false-intel-torture-effectiveness",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4c1c9f88-8491-4368-aaae-00f24e45654b/7c18c51d-3b0e-47d0-b6e0-deaee4ae7030/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/official-briefing-biden-cia-false-intel-torture-effectiveness.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/official-briefing-biden-cia-false-intel-torture-effectiveness.amp",
-      "publishedDateTime": "2021-02-06T14:04:36-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-06-ivanka-trumps-political-re-emergence-would-likely-center-on-criminal-justice-reform-work-report.md",
-      "title": "Ivanka Trump’s political re-emergence would likely center on criminal justice reform work: report",
-      "excerpt": "Ivanka Trump helped to secure pardons and commutations for over 140 in her father’s final days in office, and could champion criminal justice reform in a new foray into politics. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/X-u0thTVIaA/ivanka-trumps-likely-political-reemergence-would-center-on-criminal-justice-reform-work-report",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/X-u0thTVIaA/ivanka-trumps-likely-political-reemergence-would-center-on-criminal-justice-reform-work-report",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/Ivanka-resize-.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ivanka-trumps-likely-political-reemergence-would-center-on-criminal-justice-reform-work-report.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ivanka-trumps-likely-political-reemergence-would-center-on-criminal-justice-reform-work-report.amp",
-      "publishedDateTime": "2021-02-06T12:30:05-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

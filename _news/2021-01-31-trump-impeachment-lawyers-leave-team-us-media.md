@@ -29,110 +29,117 @@ images:
     isCached: true
 
 related:
-  - title: "Top Iran leader posts Trump-like image with drone, vows revenge"
-    excerpt: "The website of Iran's Supreme Leader on Friday carried the image of a golfer resembling former President Donald Trump apparently being targeted by a drone alongside a threat of revenge over last year's killing of a top Iranian general in a U."
-    publishedDateTime: 2021-01-23T13:13:00Z
-    webUrl: "https://www.reuters.com/article/us-iran-twitter-khamenei-fake-idINKBN29R1YU"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN29R1YU"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN29R1YU"
+  - title: "Palm Beach considers options as Trump remains at Mar-a-Lago"
+    excerpt: "The Town of Palm Beach, Florida, is considering its legal options as former President Donald Trump is still living at his Mar-a-Lago club, a possible violation of a 1993 agreement"
+    publishedDateTime: 2021-01-29T02:11:00Z
+    webUrl: "https://www.washingtonpost.com/politics/palm-beach-considers-options-as-trump-remains-at-mar-a-lago/2021/01/28/5e586d94-61ad-11eb-a177-7765f29a9524_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/palm-beach-considers-options-as-trump-remains-at-mar-a-lago/2021/01/28/5e586d94-61ad-11eb-a177-7765f29a9524_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/palm-beach-considers-options-as-trump-remains-at-mar-a-lago/2021/01/28/5e586d94-61ad-11eb-a177-7765f29a9524_story.html?outputType=amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210123&t=2&i=1548797338&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0L1C2"
-        width: 817
-        height: 545
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
-  - title: "Analysis: McConnell was done with Trump. His party said not so fast."
-    excerpt: "Mitch McConnell had finally had enough. But with most Republicans rallying around Trump, he sided with his colleagues trying to throw out the impeachment case."
-    publishedDateTime: 2021-01-28T02:51:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-mcconnell-trump-gop-analysis-20210128-vxxphlpmkbfyjegkowvustfb6i-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-mcconnell-trump-gop-analysis-20210128-vxxphlpmkbfyjegkowvustfb6i-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-nyt-mcconnell-trump-gop-analysis-20210128-vxxphlpmkbfyjegkowvustfb6i-story.html?outputType=amp"
+  - title: "Trump gets an important backer in his bid to live at Mar-a-Lago"
+    excerpt: "But former president Donald Trump just found a big ally in his quest to call his Florida club, Mar-a-Lago, home during. According to a memorandum obtained by The Washington Post, an attorney for the town of Palm Beach is recommending that the town’s council allow Trump to live at the club,"
+    publishedDateTime: 2021-02-03T05:02:00Z
+    webUrl: "https://www.washingtonpost.com/lifestyle/style/trump-mar-a-lago-residence-legal-dispute/2021/02/02/39cc193c-65a2-11eb-8468-21bc48f07fe5_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/lifestyle/style/trump-mar-a-lago-residence-legal-dispute/2021/02/02/39cc193c-65a2-11eb-8468-21bc48f07fe5_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/style/trump-mar-a-lago-residence-legal-dispute/2021/02/02/39cc193c-65a2-11eb-8468-21bc48f07fe5_story.html?outputType=amp"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://www.chicagotribune.com/resizer/ep6Q1vD4mePB-iDVbF8MWftnQD8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/MOWKPUEBW73M7CU3NULPPZFH7A.jpg"
-        width: 1200
-        height: 800
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2PEK2TCO3UI6XA7DGITEJWBDKY.jpg&w=1440"
+        width: 1440
+        height: 965
         isCached: true
-  - title: "Trump's influence grows in party with uncertain future: The Note"
-    excerpt: "Things are breaking Trump's way -- despite or even because of the turmoil inside the Republican Party. State parties and activists are lining up behind him, prospects for impeachment conviction are fading fast and President Joe Biden's executive orders and progressive priorities are making it easier for the GOP to find unified messaging."
-    publishedDateTime: 2021-01-28T11:08:00Z
-    webUrl: "https://abcnews.go.com/Politics/trumps-influence-grows-party-uncertain-future-note/story?id=75519524"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trumps-influence-grows-party-uncertain-future-note/story?id=75519524"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trumps-influence-grows-party-uncertain-future-note/story?id=75519524"
+  - title: "Trump won't testify at Senate impeachment trial, his lawyers say"
+    excerpt: "Trump's lawyers said he will not testify at his coming impeachment trial, hours after Democrats said that his refusal could be used against him."
+    publishedDateTime: 2021-02-05T02:03:00Z
+    webUrl: "https://www.cnbc.com/2021/02/04/trump-impeachment-democrats-call-for-testimony-under-oath-from-ex-president.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/02/04/trump-impeachment-democrats-call-for-testimony-under-oath-from-ex-president.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/02/04/trump-impeachment-democrats-call-for-testimony-under-oath-from-ex-president.html"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: CNBC
+      domain: cnbc.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/trump-13-gty-ml-210120_1611152722603_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://image.cnbcfm.com/api/v1/image/106124788-1568235708066rts2q6zs.jpg?v=1612462873"
+        width: 2500
+        height: 1667
         isCached: true
-  - title: "Trump team hires 2 ex-prosecutors with ethics experience"
-    excerpt: "Donald Trump has added two more former federal prosecutors from South Carolina to his impeachment legal team, according to one of the lawyers. “It is confirmed,” Greg Harris, an attorney in the capital city of Columbia,"
-    publishedDateTime: 2021-01-29T02:54:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-team-hires-prosecutors-ethics-experience-75554682"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-team-hires-prosecutors-ethics-experience-75554682"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-team-hires-prosecutors-ethics-experience-75554682"
+  - title: "Trump legal team argues impeachment trial is unconstitutional, denies inciting Capitol attack"
+    excerpt: "In their legal brief responding to the article of impeachment, Trump's lawyers argue the trial is \"in violation of the Constitution.\""
+    publishedDateTime: 2021-02-02T18:22:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-impeachment-trial-legal-team-constitution/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-impeachment-trial-legal-team-constitution/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-impeachment-trial-legal-team-constitution/"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
+      name: CBS News
+      domain: cbsnews.com
+    quality: 114
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_99dde2878a054f718926d2e0a62bcdf9_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Morgan Lewis, Trump's longtime tax counsel, prepares for split"
-    excerpt: "Morgan, Lewis & Bockius said Wednesday it was stepping away from advising Donald Trump on tax matters, leaving the former president and his businesses further isolated from the country's largest law firms."
-    publishedDateTime: 2021-01-21T04:07:00Z
-    webUrl: "https://www.reuters.com/article/mlb-trump-idUSL1N2JW050"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2JW050"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2JW050"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-  - title: "Melania Trump leaves Donald Trump alone in front of the cameras – video"
-    excerpt: "Former first lady left Donald Trump alone in front of the cameras at Palm Beach airport after the couple left the White House ahead of Joe Biden's inauguration"
-    publishedDateTime: 2021-01-23T10:15:00Z
-    webUrl: "https://www.theguardian.com/us-news/video/2021/jan/23/melania-trump-leaves-donald-trump-alone-in-front-of-the-cameras-video"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 105
-    images:
-      - url: "https://i.guim.co.uk/img/media/13ed5203f77124a21f8ff6fb41659c1b30762c44/30_76_1673_1004/master/1673.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7a04315508afc531e643ca3e642bb5c0"
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/31/e6e4b3bf-d221-4e69-9758-c125b8adfeda/thumbnail/1200x630g2/2846660e3574f923ccd0a39f79b733a8/gettyimages-1230689498.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Twitter Reacts To Melania Trump Leaving Donald Trump Alone In Front Of Cameras"
-    excerpt: "Melania Trump left her husband, Donald Trump, alone in front of the cameras after their departure from the White House Wednesday. But some Twitter users said her husband pushed her to walk ahead."
-    publishedDateTime: 2021-01-24T10:06:00Z
-    webUrl: "https://www.ibtimes.com/twitter-reacts-melania-trump-leaving-donald-trump-alone-front-cameras-3129165"
-    ampWebUrl: "https://www.ibtimes.com/twitter-reacts-melania-trump-leaving-donald-trump-alone-front-cameras-3129165?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-reacts-melania-trump-leaving-donald-trump-alone-front-cameras-3129165?amp=1"
+  - title: "Facing expulsion, Trump resigns from the Screen Actors Guild: ‘You have done nothing for me’"
+    excerpt: "Former president Donald Trump has resigned from the Screen Actors Guild - American Federation of Television and Radio Artists (SAG-AFTRA) after its national leadership voted to consider expelling him over his role in inciting the January mob attack on the U."
+    publishedDateTime: 2021-02-05T00:57:00Z
+    webUrl: "https://www.washingtonpost.com/arts-entertainment/2021/02/04/trump-resigns-screen-actors-guild/"
+    ampWebUrl: "https://www.washingtonpost.com/arts-entertainment/2021/02/04/trump-resigns-screen-actors-guild/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/arts-entertainment/2021/02/04/trump-resigns-screen-actors-guild/?outputType=amp"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 71
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 114
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/24/donald-trump-melania-trump.jpg"
-        width: 1024
-        height: 683
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/U3HBE7SU54I6XLGFSLJIDGQ4ZM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "House impeachment managers file pretrial brief tearing into GOP claims that it's unconstitutional to impeach Trump"
+    excerpt: "\"If provoking an insurrectionary riot...after losing an election is not an impeachable offense, it is hard to imagine what would be,\" the brief said."
+    publishedDateTime: 2021-02-02T15:22:00Z
+    webUrl: "https://www.businessinsider.com/house-impeachment-managers-file-brief-trump-senate-trial-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/house-impeachment-managers-file-brief-trump-senate-trial-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/house-impeachment-managers-file-brief-trump-senate-trial-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 103
+    images:
+      - url: "https://i.insider.com/5ff5f6066d61c10019ccdf62?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Donald Trump spends final minutes in office at Mar-a-Lago, is first president to skip inauguration in more than 150 years"
+    excerpt: "Trump's military send-off at Joint Base Andrews appeared smaller than expected. He left on Air Force One as Frank Sinatra's \"My Way\" played."
+    publishedDateTime: 2021-01-21T18:05:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/20/donald-trump-plans-end-his-presidency-mar-lago-florida/4210601001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4210601001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4210601001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 100
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/20/USAT/de83808c-d841-464c-9f8d-eb7ef135dad1-AFP_AFP_8Z69UN.JPG?auto=webp&crop=4566,2568,x0,y186&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "CIuiNzwJq/0vXiF7GMNshQxku8vq0IXdWeC8COaSXGUfwGfuaeQ7YRJ9G5RWWy2tfZAxxpFm0E+qf8+Gx+TPotEyKnTAkDi8xtEQINohmqF9IHLH+LF4Q48X133R9YyhHyNbjMLJfm+KHMBjaIPuUJM34RDE0zc6+1U+XlHk9El5xykT3VSG4TRmDdJkhwn8dVlFk/DWy2bD+UbVHyPze0W1S11RLjN3wQ//uWGPwTwcEwFL8o92ZGQ/j7vmIDUXkXBdw3UgP+KAyvx+joSXMW1GCoGSj4zN4Ju9P6tSOQ1KaRs684qCn3MMkUTiMkkI3yLcFYj+hRjgg9CPiVwA+K4p/NhsDH/GRYCdhTJ//l0=;tQtSr/W2GCWvU1SCOhZjnA=="

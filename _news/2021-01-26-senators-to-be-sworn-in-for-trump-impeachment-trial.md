@@ -47,38 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Listen to Trump's sudden stipulation for Covid-19 stimulus bill"
-    excerpt: "President Trump issued a sudden pre-Christmas demand for changes to a desperately needed $900 billion pandemic relief bill that could potentially risk shattering the bipartisan compromise reached by Democrats and Republicans. CNN's Joe Johns reports.\n    \n"
-    publishedDateTime: 2020-12-23T12:57:49Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4SS99xZY5qk/trump-pardons-coronavirus-stimulus-johns-pkg-newday-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/12/23/trump-pardons-coronavirus-stimulus-johns-pkg-newday-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/12/23/trump-pardons-coronavirus-stimulus-johns-pkg-newday-vpx.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201222230738-trump-media-final-days-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "GOP lawmaker says Trump blindsided them on Covid-19 relief bill"
-    excerpt: "Rep. Tom Reed (R-NY) says President Trump's unexpected pushback on the bipartisan coronavirus relief bill passed by the US Congress \"blindsided\" GOP lawmakers.\n    \n"
-    publishedDateTime: 2020-12-24T03:08:15Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UYW50IPnMxA/trump-coronavirus-relief-bill-tom-reed-cpt-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/12/24/trump-coronavirus-relief-bill-tom-reed-cpt-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/12/24/trump-coronavirus-relief-bill-tom-reed-cpt-vpx.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201223215641-tom-reed-screengrab-for-vpx-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Three new lawyers added to Trump's impeachment defense"
     excerpt: "Former President Donald Trump has added three additional criminal defense lawyers to his impeachment defense team, bringing the current number of attorneys representing him next month to five.\n    \n"
     publishedDateTime: 2021-01-29T15:27:07Z
@@ -494,6 +462,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/12/06/us/politics/31trump-fundraising/06transition-briefing-promo1-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Facing calls for his removal, Trump reverses positions on election loss, rioters and Covid"
+    excerpt: "Facing calls for his removal, Trump reverses positions on election loss, rioters and Covid A day after he told his supporters \"we love you,\" President Donald Trump condemned them Thursday for violently swarming the U."
+    publishedDateTime: 2021-01-08T02:13:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/facing-calls-removal-trump-reverses-positions-election-loss-rioters-covid-n1253397"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1253397"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1253397"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 140
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2021_01/3440595/210107-donald-trump-ew-721p_fdcc06f47a5b142f40b16c3ec8809f17.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "The Road to Clemency From Trump Was Closed to Most Who Sought It"
     excerpt: "Of the nearly 240 pardons and commutations he granted during his term, only 25 came through the regular Justice Department process. The rest were a product of connections, influence and money."

@@ -47,22 +47,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump adviser claims former president has no plans for third political party"
-    excerpt: "Former President Donald Trump has reportedly dropped plans to create a third political party and will instead focus his energies on helping Republicans win back the House and Senate in the 2022 midterms, Fox News has learned."
-    publishedDateTime: 2021-01-25T00:34:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5QGzXiloiXI/trump-has-no-plans-for-a-third-political-party"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-has-no-plans-for-a-third-political-party.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-has-no-plans-for-a-third-political-party.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21021665414903.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
 
 secured: "cmLdlqkEviFX+9VG/yBWmcCX6lN0UGkBwfSG+q5T9n2C9dvVK9leyD/U27R9xAaIPVr6xe83LljswpLdrporpa4OYstVIMSUHKMNZ0wUyXxV12W7qrQh1Ej/jyurTjDwCz16uUMZ5Xpts9SsQsYIqN7UxT3fic3MMgf7wm6nagIRpgY3OLsNIeXh2u8VKIRgInWZXSl6dXrwws5V97y/MUi4XyDPLhn32gIIbOIdSJ/4eqdctMKZYLX7iT0IQrmvy7evvLf6wcDG+5VAgJxROpMFv2mv6sMTp6zNsJmEi5G34TghpIIGGi0pG3UOFJwK1+NDwmZaCZaYda+b082Wag0J+4djaK6wopE0cV8g4zI=;lBgPzPK2X5Vbv71ceUSJfQ=="
 ---

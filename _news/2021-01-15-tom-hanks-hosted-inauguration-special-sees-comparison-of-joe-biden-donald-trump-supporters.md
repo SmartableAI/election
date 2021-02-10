@@ -47,38 +47,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Trump impeachment risks bogging down early days of Biden presidency"
-    excerpt: "Trial could tie up Senate, slowing president-elect’s agenda amid pandemic and economic crisis"
-    publishedDateTime: 2021-01-14T14:17:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jan/14/trump-impeachment-biden-administration-senate-trial"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/14/trump-impeachment-biden-administration-senate-trial"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/14/trump-impeachment-biden-administration-senate-trial"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 140
-    images:
-      - url: "https://i.guim.co.uk/img/media/839df3d21e6274cce2021d3fdf7cb39a393fb6e7/0_323_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=dccc95fc4955e3136877727f1ed87114"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Donald Trump isolated and enraged ahead of Biden inauguration"
-    excerpt: "A slew of aides have deserted the president and the Pentagon has decided not to hold an armed forces farewell tribute"
-    publishedDateTime: 2021-01-16T07:01:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jan/16/donald-trump-biden-inauguration-isolated-enraged"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/16/donald-trump-biden-inauguration-isolated-enraged"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/16/donald-trump-biden-inauguration-isolated-enraged"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 140
-    images:
-      - url: "https://i.guim.co.uk/img/media/4562affcc87f763439da1fd7d3fc91f356b536f5/0_38_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e75078fad8e464cbc9499016b6c3ec8b"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Biden rolls back Trump policies on wall, climate, health, Muslims"
     excerpt: "U.S. President Joe Biden signed 15 executive actions shortly after being sworn on Wednesday, undoing policies put in place by his Republican predecessor, Donald Trump, and making his first moves on the pandemic and climate change."
     publishedDateTime: 2021-01-21T06:25:00Z
@@ -110,6 +78,38 @@ related:
       - url: "https://s.abcnews.com/images/US/WireAP_e8933dca936f432c89ed21113779c1b0_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Biden reversing Trump ban on transgender people in military"
+    excerpt: "President Joe Biden is signing an executive order revoking a Pentagon policy that largely barred transgender individuals from joining the military"
+    publishedDateTime: 2021-01-25T08:14:00Z
+    webUrl: "https://www.washingtonpost.com/world/national-security/ap-source-biden-to-drop-trumps-military-transgender-ban/2021/01/24/69146df4-5ebb-11eb-a177-7765f29a9524_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/national-security/ap-source-biden-to-drop-trumps-military-transgender-ban/2021/01/24/69146df4-5ebb-11eb-a177-7765f29a9524_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/ap-source-biden-to-drop-trumps-military-transgender-ban/2021/01/24/69146df4-5ebb-11eb-a177-7765f29a9524_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Biden to repeal Trump's ban on transgender people joining military"
+    excerpt: "President Joe Biden is poised to repeal his predecessor Donald Trump's ban on transgender people enlisting in the U.S. military, a person familiar with the matter said."
+    publishedDateTime: 2021-01-25T01:51:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-military-lgbt-idUSKBN29T0Q8"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29T0Q8"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29T0Q8"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210124&t=2&i=1548896661&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0N0F1"
+        width: 817
+        height: 545
         isCached: true
   - title: "Pence is helping Biden make the transition more normal. But their cooperation has risks for each."
     excerpt: "Pence is accepting Biden’s win in a way Trump has not, helping Biden solidify his transition to power. That benefits Biden and Pence for now, but a volatile political landscape lies ahead for both."
@@ -1583,6 +1583,20 @@ related:
         width: 1440
         height: 956
         isCached: true
+  - title: "The Latest: Mike Pence arrives at Joe Biden’s inaugural"
+    excerpt: "The Latest on Joe Biden's presidential inauguration (all times local): 11:10 a.m. Vice President Mike Pence has arrived at the inauguration of President-Elect"
+    publishedDateTime: 2021-01-20T16:19:00Z
+    webUrl: "https://apnews.com/article/joe-biden-inauguration-news-0a49b6d8b3c9904d88d5bccfd854ab25/gallery/f9fc4dd896e3409d897ab46a5ce8de60"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 120
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/5778b713a90b4512b9d50e26eb6f6d5b/3000.jpeg"
+        width: 3000
+        height: 2000
+        isCached: true
   - title: "YouTube extended Donald Trump's ban for at least 7 more days amid fears of violence at Joe Biden's inauguration"
     excerpt: "The video-sharing giant pointed to ongoing 'concerns about the ongoing potential for violence.'"
     publishedDateTime: 2021-01-20T21:32:00Z
@@ -1614,6 +1628,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/585f421125353a2d98485202c8832629317ec1cd/0_116_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=62908d56825f6134201ccf7768425e6e"
         width: 600
         height: 360
+        isCached: true
+  - title: "Live Updates: President Biden Gets to Work Undoing Trump's Legacy"
+    excerpt: "President Biden started dismantling Trump’s legacy just hours after he was sworn in, including rejoining the Paris climate agreement and mandating masks on federal property."
+    publishedDateTime: 2021-01-21T22:12:00Z
+    webUrl: "https://time.com/5930806/inauguration-live-joe-biden/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 120
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2021/01/Joe-Biden-presidential-inauguration-2021.jpg"
+        width: 2400
+        height: 1600
         isCached: true
   - title: "Live Updates: Biden pauses to honor King as preparations continue for inauguration"
     excerpt: "Washington — President-elect Joe Biden and incoming first lady Jill Biden are honoring the life of Dr. Martin Luther King, Jr., on Monday, two days before Mr. Biden is sworn-in as president of the United States. The Bidens are recognizing the federal ..."
@@ -2612,22 +2640,6 @@ related:
       - url: "https://i.insider.com/600262d2660f6c0018349926?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Trump’s Senate impeachment trial could begin on day of Joe Biden’s inauguration"
-    excerpt: "The impeachment trial timeline and schedule are largely set by Senate procedures and will start as soon as the House delivers the article of impeachment."
-    publishedDateTime: 2021-01-14T20:11:00Z
-    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-trump-impeachment-senate-trial-20210114-adbtyldlkbehdbnl4gpltd56om-story.html"
-    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-trump-impeachment-senate-trial-20210114-adbtyldlkbehdbnl4gpltd56om-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-nw-trump-impeachment-senate-trial-20210114-adbtyldlkbehdbnl4gpltd56om-story.html?outputType=amp"
-    type: article
-    provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 86
-    images:
-      - url: "https://www.baltimoresun.com/resizer/uc7JsXO_wNaKxuBank7JHQYgerU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/4GOQL42XQBC6VEXMWNCTVGDZKU.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "INAUGURATION EXPLAINER: Biden's event will be very different"
     excerpt: "Between the still-raging pandemic and suddenly very real threat of violence from supporters of outgoing President Donald Trump, Jan. 20 promises to be one of the most unusual presidential inauguration"

@@ -47,6 +47,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Women call on Congress, Biden administration to help moms during the coronavirus pandemic"
+    excerpt: "Charlize Theron, Amy Schumer, Gabrielle Union and Eva Longoria are among a group of moms, including non-celebrities, calling on Congress and the Biden administration to offer more support for working moms amid the coronavirus pandemic."
+    publishedDateTime: 2021-02-03T09:20:00Z
+    webUrl: "https://abcnews.go.com/GMA/Living/women-call-congress-biden-administration-moms-coronavirus-pandemic/story?id=75618999"
+    ampWebUrl: "https://goodmorningamerica.com/amp/living/story/women-call-congress-biden-administration-moms-coronavirus-pandemic-75618999"
+    cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/living/story/women-call-congress-biden-administration-moms-coronavirus-pandemic-75618999"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 116
+    images:
+      - url: "https://s.abcnews.com/images/GMA/work-gty-er-210111_1610396075632_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "The GOP stimulus proposal is nearly a third of the price tag of Biden's plan. Here's what's missing."
     excerpt: "A group of Republicans introduced a stimulus plan that cuts many parts of Biden's original proposal, like a minimum wage increase and $1,400 checks."
     publishedDateTime: 2021-02-01T16:15:00Z

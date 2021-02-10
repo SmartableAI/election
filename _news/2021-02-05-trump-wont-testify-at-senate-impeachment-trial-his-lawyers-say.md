@@ -63,38 +63,6 @@ related:
         width: 1440
         height: 965
         isCached: true
-  - title: "House Dems ask Trump to testify oath for impeachment case"
-    excerpt: "House Democrats have asked former President Donald Trump to testify under oath for his Senate impeachment trial"
-    publishedDateTime: 2021-02-04T18:27:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/house-dems-trump-testify-oath-impeachment-case-75687371"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/house-dems-trump-testify-oath-impeachment-case-75687371"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/house-dems-trump-testify-oath-impeachment-case-75687371"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_4bcb100f12b94da7aa82370a80b6db6f_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Lawyers representing the Capitol insurrectionists are building a damning case against Trump"
-    excerpt: "Defense attorneys for some insurrections said their clients were acting on the orders of Trump in storming the Capitol."
-    publishedDateTime: 2021-01-24T00:15:00Z
-    webUrl: "https://www.businessinsider.com/capitol-insurrectionists-lawyers-make-case-trump-impeachment-prosecution-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/capitol-insurrectionists-lawyers-make-case-trump-impeachment-prosecution-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/capitol-insurrectionists-lawyers-make-case-trump-impeachment-prosecution-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 115
-    images:
-      - url: "https://i.insider.com/5ff5f6066d61c10019ccdf62?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Trump legal team argues impeachment trial is unconstitutional, denies inciting Capitol attack"
     excerpt: "In their legal brief responding to the article of impeachment, Trump's lawyers argue the trial is \"in violation of the Constitution.\""
     publishedDateTime: 2021-02-02T18:22:00Z
@@ -158,6 +126,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/01/20/USAT/de83808c-d841-464c-9f8d-eb7ef135dad1-AFP_AFP_8Z69UN.JPG?auto=webp&crop=4566,2568,x0,y186&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump Impeachment Lawyers Leave Team: US Media"
+    excerpt: "Several of former US president Donald Trump's impeachment lawyers have left his team a little over a week before his trial, US media reported Saturday. CNN cited unnamed sources as saying that five lawyers -- including two who were thought to be leading the team -- had parted ways with the Republican billionaire after disagreeing over his legal strategy."
+    publishedDateTime: 2021-01-31T04:03:00Z
+    webUrl: "https://www.ibtimes.com/trump-impeachment-lawyers-leave-team-us-media-3134168"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/30/former-us-president-donald-trump-appears-increasingly-likely.jpg"
+        width: 1024
+        height: 716
         isCached: true
 
 secured: "SQr/nrF+9QRfGJIwzM2k0VwcpWmNc+P325N+CMzXt5OsEsovWBZ4qxdjseWjEOvEt3uQHrqYyVQ5yM98CcnjzBHt42YV4CeYsueeKjT34ykYsOHKxpUFneDZ/OcjHe1dQ/mj39f6pWUjhu3QkSbq6qJuCQsmaUN3Ikc1dqfjQ1p7ZAYvqeuTGA5skh4GUC29CVDJ7czRd9kPvhn+KR5S9qvpuvbYrxmEkQ7QivENT0ucVNjnEKQbiID2ZmcJ9y9iTGOrBQjc3AkA0NrhPV+bPXfpDCvbWfT7ATalggFO+SXQExjnZz0q62sISQwrfzpFopCc00g8i//C6mG3j6PfNKTrfFkZeNxw8dAWIdN5NYo7ARcNR6p5+J2vh0E3Aq8qCpGKwaBRT/5sm89ZnNaWrC15hpu8P0bNHWDC7XkjjWvjMzztauwVCXxy4mFy5eEYzdnE4vxarcrzACfpt0/JTI/kJbOHdDP2/goVRNk536xq/TBmFjytMsSc4IubbW8hks8UejqnwOCg9oMxjQKUKA==;4VpVPMHZyxMx4WN51ZWldg=="

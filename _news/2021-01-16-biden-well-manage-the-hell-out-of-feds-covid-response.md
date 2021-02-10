@@ -55,6 +55,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "The Latest: Biden calls for remembrance at COVID-19 memorial"
+    excerpt: "At a memorial for the lives taken by COVID-19, President-elect Joe Biden is calling on Americans to remember those lost to the coronavirus and to begin to heal"
+    publishedDateTime: 2021-01-20T00:09:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/latest-biden-attend-mass-congressional-leaders-75341544"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/latest-biden-attend-mass-congressional-leaders-75341544"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/latest-biden-attend-mass-congressional-leaders-75341544"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_6c11b9b1d76c495a9b2243c0fc73f003_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden signs burst of virus orders, vows 'Help is on the way'"
     excerpt: "President Joe Biden is putting into play his national COVID-19 strategy to ramp up vaccinations and testing, reopen schools and businesses and increase the use of masks"
     publishedDateTime: 2021-01-22T02:43:00Z
@@ -126,6 +142,20 @@ related:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547957452&r=LYNXMPEH0E1A0&w=800"
         width: 800
         height: 534
+        isCached: true
+  - title: "6 things you need to know about Joe Biden's just-released plan to transform the chaotic covid vaccine rollout"
+    excerpt: "People who have essential jobs such as teachers, firefighters, and grocery store workers would be moved to the front of the line for a coronavirus vaccine."
+    publishedDateTime: 2021-01-15T23:39:00Z
+    webUrl: "https://www.businessinsider.com/biden-coronavirus-vaccine-plan-operation-warp-speed-2021-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 86
+    images:
+      - url: "https://i.insider.com/600221a8e3d62500185fce93?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "6I4hMvYYHp8VDopCnSraky6pJ5DyTA8foHHC0bdI66s1AcoVxL8/Ssgbo7iLLGsX4o0tdU0HiPm8bapyMEbIccsdIvyMIKPvB4+WzicI7FZVo27Ioi6K3WEMb8b90qZdlFy9KfwaWZ+B7IShjvlYdeXZHl+X8R2RFkKq6xz4s2R+Q5YSbtU8kW089j9rsQJAKbaB48akT+HBcQTioGMqk+TZRiN3m3kWvVvVzRrfl84jieDEqlL3MmLwiQwiXt8d29h5/zwimvdOXAIuAZczzXoUMk3gKNj/CqB8jH3onl8IhZdyg//Vb4tBZS9DeetfSloOW4JybRi11PTZ2G2SROFU8pweW58yE1LxCDYpezRQCqGLO91H3Da2+4YI4e1ZLhnxJRPnOJgcT3TYHAvgA8XZttHbQMKo3+N+tnZONpVaX0AEA/l96ZEwTCHzav+JgVEUyr2OsItfSOzkUVI8F9I3qhGZYvsHzmV5hc7uh02WkvSkubUcvAoYM7ndZd6eja0RbD6DJgD4JQGsNCshYQ==;tNEb9WXe0Rbs/WXe7e9TDg=="

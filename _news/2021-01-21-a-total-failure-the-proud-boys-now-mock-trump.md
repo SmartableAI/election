@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nytimes.com/2021/01/20/technology/proud-boys-trump.amp.h
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/20/technology/proud-boys-trump.amp.html"
 type: article
 quality: 135
-heat: 135
-published: true
+heat: -1
+published: false
 
 provider:
   name: New York Times
@@ -30,6 +30,56 @@ images:
     width: 1050
     height: 550
     isCached: true
+
+related:
+  - title: "Trump campaign says the President has not yet chosen impeachment defense team"
+    excerpt: "President Donald Trump has not yet assembled a defense team for his upcoming Senate impeachment trial, a spokesperson for the President's campaign said Sunday.\n    \n"
+    publishedDateTime: 2021-01-17T14:11:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BJ0rnrr503s/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/17/politics/trump-legal-team-second-impeachment/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/17/politics/trump-legal-team-second-impeachment/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201227182837-02-trump-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump should not be prosecuted for Capitol riot incitement, former FBI Director James Comey says"
+    excerpt: "\"The country would be better off if we did not give him the platform that a prosecution would for the next three years,\" Comey told Sky News."
+    publishedDateTime: 2021-01-18T04:10:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/trump-should-not-be-prosecuted-capitol-riot-incitement-former-fbi-n1254535"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1254535"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254535"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 122
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_44/3423609/201028-james-comey-al-0856_dd78874bf9563d902a336451af19486e.jpg"
+        width: 2500
+        height: 1672
+        isCached: true
+  - title: "Presidential Transition Live Updates: House Says It Will Move Swiftly With Impeachment If Pence Won’t Act"
+    excerpt: "The House could vote as soon as Tuesday on charging President Trump with inciting a mob that attacked the Capitol. But top leaders want to avoid hamstringing the first days of Joseph R. Biden Jr.’s presidency with an all-consuming Senate trial."
+    publishedDateTime: 2021-01-10T19:52:00Z
+    webUrl: "https://www.nytimes.com/live/2021/01/10/us/joe-trump-biden"
+    ampWebUrl: "https://www.nytimes.com/live/2021/01/10/us/joe-trump-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/01/10/us/joe-trump-biden.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 118
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/10/us/10transition-briefing-promo-sub/10transition-briefing-promo-sub-videoSixteenByNineJumbo1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "D2dMtKBUa7yteoKvdXextxSEXLnkqRVuaMOwkvtRxprakEOU7HiHlY9XNSHaPH7bHqJh7HKNQWlhAE/TgMSRnUFtVW2JKVNz/W4d36sKMPC6oQ7eWpjrXzKB1IPgcFAZqX2H07wWV20UcY59yTndxqEabMiCYl5FblXQNLvQEIkjX0PK/dX8XhZu3o9aUWYWF8IBnKoXAv07PpqmdMQpmyWOiNM7f9thi+QL6ye80l5Gtp78BvgfXUmxazr2rwpV2MYYuQM1EOKk5BwCmbonYsEan2qWyeKFK7OoUiPCeJluTuwgUH5dmA5U3vjihKYIoOI8qN+t9sPtrAkk9Biboj9ULAJRGCA1ApszfifkagqucgLWovNpeU0BE9Cm6rJo+XzmQ5Na9AWXnWVuTtu6/EfK8C9WZyO977vMyC4a9mZ+PR2/JWLiORzDPY7RfTkgurNXjfssKkryQnEFYxbV9EknMYiyBlFEugkgMtmiihnaORXkIDVlnFU16PdCsnU2kJt9EdThsiyXJnSadIrVkw==;t7qOy3jT0DW2c+cfWzj4Qg=="
 ---

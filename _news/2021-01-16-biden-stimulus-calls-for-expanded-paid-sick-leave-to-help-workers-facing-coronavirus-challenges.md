@@ -31,229 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Biden to push for more coronavirus relief, setting up a clash with GOP"
-    excerpt: "Many Democrats backing the coronavirus relief bill are counting on Biden to push for another aid package shortly after taking office. But Republicans oppose another deal, setting up an early clash of wills between Biden and Senate Republicans."
-    publishedDateTime: 2020-12-22T01:05:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-gop-covid-aid/2020/12/21/e7a6201c-43aa-11eb-a277-49a6d1f9dff1_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-gop-covid-aid/2020/12/21/e7a6201c-43aa-11eb-a277-49a6d1f9dff1_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-gop-covid-aid/2020/12/21/e7a6201c-43aa-11eb-a277-49a6d1f9dff1_story.html?outputType=amp"
+  - title: "Biden Calls for $2K Stimulus Checks Post-Georgia Runoffs But At Least One Democrat Opposes"
+    excerpt: "\"We need more direct relief flowing to families and small businesses, including finishing the job and getting people $2,000 in relief,\" the president-elect said Friday."
+    publishedDateTime: 2021-01-10T00:10:00Z
+    webUrl: "https://www.newsweek.com/biden-calls-2k-stimulus-checks-post-georgia-runoffs-least-one-democrat-opposes-1560266"
+    ampWebUrl: "https://www.newsweek.com/biden-calls-2k-stimulus-checks-post-georgia-runoffs-least-one-democrat-opposes-1560266?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-calls-2k-stimulus-checks-post-georgia-runoffs-least-one-democrat-opposes-1560266?amp=1"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
+      name: Newsweek
+      domain: newsweek.com
+    quality: 115
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RX46U2CDZQI6XLBKHLAPFOGO5M.jpg&w=1440"
-        width: 1440
-        height: 965
+      - url: "https://d.newsweek.com/en/full/1702344/president-elect-joe-biden-speaks-wilmington-delaware.jpg"
+        width: 3543
+        height: 2431
         isCached: true
-  - title: "House vote unlocks partisan path for Biden coronavirus relief bill"
-    excerpt: "House Democrats voted Wednesday to set the stage for party-line approval of President Biden’s $1.9 trillion coronavirus relief bill, heeding the president’s calls for swift action on his first big agenda item -- but without the bipartisan unity he promised."
-    publishedDateTime: 2021-02-03T23:03:00Z
-    webUrl: "https://www.washingtonpost.com/us-policy/2021/02/03/house-coronavirus-relief-budget-bill/"
-    ampWebUrl: "https://www.washingtonpost.com/us-policy/2021/02/03/house-coronavirus-relief-budget-bill/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2021/02/03/house-coronavirus-relief-budget-bill/?outputType=amp"
+  - title: "Democratic wins in Georgia Senate races could mean more stimulus checks, small boost to Biden's economic plan"
+    excerpt: "The stunning Democratic wins in Georgia’s two Senate runoff races have been touted as a game-changer that gives the party control of both Congress and the presidency, paving the way for Joe Biden to push through his sweeping plan to dig the economy out of the punishing COVID-19 downturn."
+    publishedDateTime: 2021-01-07T16:29:00Z
+    webUrl: "https://www.usatoday.com/story/money/2021/01/07/georgia-senate-race-democrats-wins-should-aid-biden-economic-plan-bit/6570522002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6570522002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6570522002"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
+      name: USA Today
+      domain: usatoday.com
+    quality: 106
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VWCKHNTGIMI6XOVYOB7YO2OXQU.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Coronavirus live news: Biden receives vaccine as House passes US aid bill"
-    excerpt: "UK warned to expect further restrictions; intensive care beds full in southern California; Denmark bans mink farms for a year"
-    publishedDateTime: 2020-12-22T04:00:00Z
-    webUrl: "https://www.theguardian.com/world/live/2020/dec/22/coronavirus-live-news-biden-receives-vaccine-as-global-death-toll-passes-17m?page=with:block-5fe14c4c8f08dd27861cf112"
-    ampWebUrl: "https://amp.theguardian.com/world/live/2020/dec/22/coronavirus-live-news-biden-receives-vaccine-as-global-death-toll-passes-17m"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/22/coronavirus-live-news-biden-receives-vaccine-as-global-death-toll-passes-17m"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 124
-    images:
-      - url: "https://i.guim.co.uk/img/media/d6b1f767c1358f4f51885c3503a0754e468d821a/0_433_5668_3401/master/5668.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=52e90980f970ef55af38de5f1fcdcfda"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Biden seeks to speed delivery of coronavirus stimulus checks and food aid"
-    excerpt: "U.S. President Joe Biden on Friday will sign orders to speed the issuance of pandemic stimulus checks to needy families and increase food aid for children who normally rely on school meals for nutrition."
-    publishedDateTime: 2021-01-23T00:12:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-idINKBN29R122"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN29R122"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN29R122"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 124
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210122&t=2&i=1548763539&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0L1HM"
-        width: 812
-        height: 545
-        isCached: true
-  - title: "Coronavirus live news: Biden receives vaccine as Congress passes US aid bill"
-    excerpt: "UK warned to expect further restrictions; intensive care beds full in southern California; Denmark bans mink farms for a year"
-    publishedDateTime: 2020-12-22T04:17:00Z
-    webUrl: "https://www.theguardian.com/world/live/2020/dec/22/coronavirus-live-news-biden-receives-vaccine-as-global-death-toll-passes-17m?page=with:block-5fe13e5e8f08da4121f4ad99"
-    ampWebUrl: "https://amp.theguardian.com/world/live/2020/dec/22/coronavirus-live-news-biden-receives-vaccine-as-global-death-toll-passes-17m"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/22/coronavirus-live-news-biden-receives-vaccine-as-global-death-toll-passes-17m"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 122
-    images:
-      - url: "https://i.guim.co.uk/img/media/71ac84d6658c9bc576c25cf3dfaa9cd731de5588/0_392_5887_3532/master/5887.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3d0bde54e393892511239ecebf791427"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Biden to sign day one executive order to shift coronavirus-fighting strategy"
-    excerpt: "New president plans to require masks to be worn in federal buildings and by federal employees and contractors."
-    publishedDateTime: 2021-01-20T10:07:00Z
-    webUrl: "https://www.washingtonpost.com/health/biden-covid-executive-actions/2021/01/19/bf695e50-5a9a-11eb-b8bd-ee36b1cd18bf_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/health/biden-covid-executive-actions/2021/01/19/bf695e50-5a9a-11eb-b8bd-ee36b1cd18bf_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/biden-covid-executive-actions/2021/01/19/bf695e50-5a9a-11eb-b8bd-ee36b1cd18bf_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 122
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LA7L3BSDZQI6XLBKHLAPFOGO5M.jpg&w=1440"
-        width: 1440
-        height: 1186
-        isCached: true
-  - title: "Coronavirus live news: Biden receives vaccine as global death toll passes 1.7m"
-    excerpt: "UK warned to expect further restrictions; intensive care beds full in southern California; Denmark bans mink farms for a year"
-    publishedDateTime: 2020-12-21T23:54:00Z
-    webUrl: "https://www.theguardian.com/world/live/2020/dec/22/coronavirus-live-news-biden-receives-vaccine-as-global-death-toll-passes-17m?page=with:block-5fe12b2e8f08dd27861ceffb"
-    ampWebUrl: "https://amp.theguardian.com/world/live/2020/dec/22/coronavirus-live-news-biden-receives-vaccine-as-global-death-toll-passes-17m"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/22/coronavirus-live-news-biden-receives-vaccine-as-global-death-toll-passes-17m"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 121
-    images:
-      - url: "https://i.guim.co.uk/img/media/71ac84d6658c9bc576c25cf3dfaa9cd731de5588/0_392_5887_3532/master/5887.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3d0bde54e393892511239ecebf791427"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Women call on Congress, Biden administration to help moms during the coronavirus pandemic"
-    excerpt: "Charlize Theron, Amy Schumer, Gabrielle Union and Eva Longoria are among a group of moms, including non-celebrities, calling on Congress and the Biden administration to offer more support for working moms amid the coronavirus pandemic."
-    publishedDateTime: 2021-02-03T09:20:00Z
-    webUrl: "https://abcnews.go.com/GMA/Living/women-call-congress-biden-administration-moms-coronavirus-pandemic/story?id=75618999"
-    ampWebUrl: "https://goodmorningamerica.com/amp/living/story/women-call-congress-biden-administration-moms-coronavirus-pandemic-75618999"
-    cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/living/story/women-call-congress-biden-administration-moms-coronavirus-pandemic-75618999"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 116
-    images:
-      - url: "https://s.abcnews.com/images/GMA/work-gty-er-210111_1610396075632_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Biden to release all coronavirus doses- CNN"
-    excerpt: "President-elect Joe Biden will aim to release every available dose of coronavirus vaccine when he takes office, a departure from Trump administration strategy of holding back doses to make sure second doses are available,"
-    publishedDateTime: 2021-01-08T20:50:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-vaccine-johnsonjohnso/biden-to-release-all-coronavirus-doses-cnn-idUSL1N2JJ1LL"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
+      - url: "https://www.gannett-cdn.com/presto/2021/01/04/USAT/fe456917-eb2e-423d-86e7-7aec9b8646d6-Georgia_Senate_Runoff_11.JPG?auto=webp&crop=2750,1547,x1,y62&format=pjpg&width=1200"
         width: 1200
-        height: 630
-        isCached: true
-  - title: "Biden administration vows to improve coronavirus response"
-    excerpt: "Through additional financial relief plans, faster vaccine distributions, and clear public messaging, the Biden administration is pledging to tackle the coronavirus pandemic. Skyler Henry has more on the Biden administration's efforts."
-    publishedDateTime: 2021-01-23T23:49:00Z
-    webUrl: "https://www.cbsnews.com/video/biden-administration-vows-to-improve-coronavirus-response/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/23/aeb84055-2f4e-4960-b33d-2bd16d1a6371/thumbnail/1200x630/cf6482d89fb7f95a16f268c3ed0793ad/cbsn-fusion-biden-administration-vows-to-improve-coronavirus-response-thumbnail-632210-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Coronavirus live: Joe Biden receives Covid vaccine; UK warned to expect further restrictions"
-    excerpt: "Joe Biden receives the coronavirus vaccine; Sir Patrick Vallance suggests more areas may need to enter tier 4; PM says border delays only affecting small amount of freight"
-    publishedDateTime: 2020-12-21T22:06:00Z
-    webUrl: "https://www.theguardian.com/world/live/2020/dec/21/coronavirus-live-news-european-countries-ban-uk-travellers-congress-leaders-agree-900bn-aid-deal?page=with:block-5fe110038f08dd27861ceee3"
-    ampWebUrl: "https://amp.theguardian.com/world/live/2020/dec/21/coronavirus-live-news-european-countries-ban-uk-travellers-congress-leaders-agree-900bn-aid-deal"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/21/coronavirus-live-news-european-countries-ban-uk-travellers-congress-leaders-agree-900bn-aid-deal"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 94
-  - title: "Coronavirus live news: Biden warns 'darkest days' ahead for US; UK reports another 691 deaths"
-    excerpt: "Anthony Fauci ‘extremely confident’ in vaccine; BioNTech’s CEO says tests being run on mutant strain; Ireland to tighten restrictions from Christmas Eve"
-    publishedDateTime: 2020-12-22T23:25:00Z
-    webUrl: "https://www.theguardian.com/world/live/2020/dec/22/coronavirus-live-news-biden-receives-vaccine-as-global-death-toll-passes-17m?page=with:block-5fe279cd8f08dd27861cff78"
-    ampWebUrl: "https://amp.theguardian.com/world/live/2020/dec/22/coronavirus-live-news-biden-receives-vaccine-as-global-death-toll-passes-17m"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/22/coronavirus-live-news-biden-receives-vaccine-as-global-death-toll-passes-17m"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 94
-  - title: "GOP congressman sues Pence in effort to try and overturn Biden win"
-    excerpt: "The lawsuit, led by Rep. Louie Gohmert, focuses on the Jan. 6 ceremonial meeting of Congress to finalize Joe Biden's victory."
-    publishedDateTime: 2020-12-29T00:15:00Z
-    webUrl: "https://www.11alive.com/article/news/nation-world/pence-sued-by-louie-gohmert-to-overturn-election-results/507-5610b6bf-5671-4560-ac98-e2d601c0b824"
-    ampWebUrl: "https://www.11alive.com/amp/article/news/nation-world/pence-sued-by-louie-gohmert-to-overturn-election-results/507-5610b6bf-5671-4560-ac98-e2d601c0b824"
-    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/nation-world/pence-sued-by-louie-gohmert-to-overturn-election-results/507-5610b6bf-5671-4560-ac98-e2d601c0b824"
-    type: article
-    provider:
-      name: 11Alive
-      domain: 11alive.com
-    quality: 90
-    images:
-      - url: "https://media.11alive.com/assets/CCT/images/bd9d89aa-cf5e-4c9d-8af5-d87c6aa2605f/bd9d89aa-cf5e-4c9d-8af5-d87c6aa2605f_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "The White House could still be crawling with the coronavirus on Inauguration Day. It's a scenario that's keeping Biden's allies up at night."
-    excerpt: "The Trump White House has been a hot spot for coronavirus infections. Joe Biden and his team will want to clean up before moving in."
-    publishedDateTime: 2020-12-03T13:29:00Z
-    webUrl: "https://www.businessinsider.com/biden-white-house-inauguration-trump-coronavirus-disinfection-2020-12"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 80
-    images:
-      - url: "https://i.insider.com/5fc82689037cbd00186137e9?width=700"
-        width: 700
-        height: 525
-        isCached: true
-  - title: "New stimulus plan, Joe Biden, Coronavirus news & more: What’s trending today"
-    excerpt: "A look at some of the top stories trending today including news on Joe Biden and his new stimulus plan, coronavirus updates and much more."
-    publishedDateTime: 2021-01-15T11:07:00Z
-    webUrl: "https://www.cleveland.com/nation/2021/01/new-stimulus-plan-joe-biden-coronavirus-news-more-whats-trending-today.html"
-    ampWebUrl: "https://www.cleveland.com/nation/2021/01/new-stimulus-plan-joe-biden-coronavirus-news-more-whats-trending-today.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2021/01/new-stimulus-plan-joe-biden-coronavirus-news-more-whats-trending-today.html?outputType=amp"
-    type: article
-    provider:
-      name: Cleveland.com
-      domain: cleveland.com
-    quality: 72
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/YH33X5XWHVBVBN2AQ2NQZKFA2M.jpg"
-        width: 1024
-        height: 683
+        height: 675
         isCached: true
 
 secured: "nxwr8F8HMksKNkq7dt8x+5P82bfWfGqYy8jVaEw1frMPtm8OGHcrV+4vQZG+67381qYe7LvCliOCpK8GfL6FfMVMzk0KUrEw9/IWTUnJ6SAfBpauWtSppYQtsCrnTVjYvxUVROTtdmqmEMVMUB8yvGJpmwG95FdsXX3yupt+YVptFF2WlgIPqk0Y6OJo46OQM1a1Mjm/aooDfoCLPiqQmKF0+MeDa+2X5hNND0HHXlhFdNkVT5xUXokMHZlYOCDtyRcwlNnjqeARhzxc1FW5fmIF3MwT4STcu5jHps5ssKV9vwgY3rrDPYX8njsO9slaMpZ6LjhfxSH+oagek6kJXpLiv2L7i+PSkTZp2Zu6ri/0Fy7X3wAO0/aATrn/J0YGuCYW3SwrpeCLPfLhT1xmDxD1icMNt3ot7TYN70dirQiPHLfcg+vj6fS4VnUbMIKm+vo6QxxPyjtva0HyTT0ePZnqkM5SoAt2Y4G2MIZvqiP9E67zVqr37RWHj+L/lwhaItCyvJC45XlOXR5klczrYQ==;+RYRUEau8bLrU9ta/afTsQ=="

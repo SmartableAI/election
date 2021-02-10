@@ -236,22 +236,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Rhode Island ranked worst state to do business under Biden Commerce Secretary nominee's leadership"
-    excerpt: "Rhode Island was ranked among the top five worst places to do business in the U.S. during all four years Gina Raimondo, President Biden's nominee for secretary of commerce, was governor."
-    publishedDateTime: 2021-01-27T19:26:51Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oLDpTcX3XnI/rhode-island-worst-state-business-biden-commerce-raimondo"
-    ampWebUrl: "https://www.foxnews.com/politics/rhode-island-worst-state-business-biden-commerce-raimondo.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rhode-island-worst-state-business-biden-commerce-raimondo.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 161
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3e6cc050-5e3c-4af3-8996-40045a053ee5/ebbce464-9ae9-4185-a4e5-9485df9d3e95/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "White House voices support for moon exploration by 2024, after concerns Biden would nix Artemis Program"
     excerpt: "White House press secretary Jen Psaki on Thursday voiced support for NASA's Artemis Program, which aims to land the first woman and next man on the moon by 2024."
     publishedDateTime: 2021-02-04T18:49:20Z

@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Women call on Congress, Biden administration to help moms during the coronavirus pandemic"
+    excerpt: "Charlize Theron, Amy Schumer, Gabrielle Union and Eva Longoria are among a group of moms, including non-celebrities, calling on Congress and the Biden administration to offer more support for working moms amid the coronavirus pandemic."
+    publishedDateTime: 2021-02-03T09:20:00Z
+    webUrl: "https://abcnews.go.com/GMA/Living/women-call-congress-biden-administration-moms-coronavirus-pandemic/story?id=75618999"
+    ampWebUrl: "https://goodmorningamerica.com/amp/living/story/women-call-congress-biden-administration-moms-coronavirus-pandemic-75618999"
+    cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/living/story/women-call-congress-biden-administration-moms-coronavirus-pandemic-75618999"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 116
+    images:
+      - url: "https://s.abcnews.com/images/GMA/work-gty-er-210111_1610396075632_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
 
 secured: "zYefrUAImnrAxvNYBxAZQU+E9tUC/qX8VDKKAKvtQL8T90bx/AyE6PmttO8LpfkMEjrslOIU58LznqjQNtmQqBdYb+QzmXgCdc7hnqbPgN2WFxp2Q1tBTiE92pBHfvvrIBcK8wV3YInifkCTDD1Xe58cS1SP+BnFtr3CyBMnUkBV3ivHtn3WOcXOgtp2Cl/O8eMFhNab0IakEgERvnhkfW860gNd8Id4A3BQbQtuQZvzdA+XgdK+CiE1OasvXRHlGkiGhOz4IecVZVsQIvmKGwv7ThCzLAO6bRk0FpQga6E1rhaFEXvckN4x5dyW+aaybAyvlQ/Ws7ss8ziJIQghExukJWtnj3J1WCZPpv2YAMQ=;JU3rFUjX88EFK/E0RQv6og=="
 ---

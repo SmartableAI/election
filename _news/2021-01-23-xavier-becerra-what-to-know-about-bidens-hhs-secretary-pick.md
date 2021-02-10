@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Merrick Garland: What to know about Biden's attorney general nominee"
+    excerpt: "President Biden has chosen Judge Merrick Garland as his nominee for attorney general, as the new administration begins to take form."
+    publishedDateTime: 2021-01-21T16:44:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/e7rBLtDpdeo/merrick-garland-what-to-know-biden-attorney-general"
+    ampWebUrl: "https://www.foxnews.com/politics/merrick-garland-what-to-know-biden-attorney-general.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/merrick-garland-what-to-know-biden-attorney-general.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Merrick-Garland-Biden-attorney-general-nominee-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Alejandro Mayorkas: What to know about Biden's DHS pick"
     excerpt: "President Biden has nominated Alejandro Mayorkas to be the next secretary of the Department of Homeland Security (DHS), who will take a key role in the closely watched area of immigration policy."
     publishedDateTime: 2021-01-22T17:53:12Z
@@ -47,35 +63,35 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Biden DHS nominee Mayorkas says ICE should not be defunded, despite liberal calls"
-    excerpt: "Alejandro Mayorkas, President-elect Joe Biden’s pick to lead the Department of Homeland Security, said Tuesday that Immigration and Customs Enforcement (ICE) should not be defunded -- while punting on whether parts of the border wall should be dismantled."
-    publishedDateTime: 2021-01-19T18:47:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/d8CARCqXwKI/biden-dhs-nominee-mayorkas-ice-border-wall"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-dhs-nominee-mayorkas-ice-border-wall.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-dhs-nominee-mayorkas-ice-border-wall.amp"
+  - title: "Biden AG pick Merrick Garland to face Senate panel hearings Feb. 22-23"
+    excerpt: "Confirmation hearings have been scheduled for Feb. 22 and 23 for Merrick Garland, President Biden’s nominee to be U.S. attorney general, according to reports."
+    publishedDateTime: 2021-02-10T05:24:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/i4rSUAJwFPM/biden-ag-pick-merrick-garland-to-face-senate-panel-hearing-feb-22-23"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-ag-pick-merrick-garland-to-face-senate-panel-hearing-feb-22-23.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-ag-pick-merrick-garland-to-face-senate-panel-hearing-feb-22-23.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 170
+    quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7baa239c-c9dc-4831-889a-81c96eec5853/f9d51ab7-a9dd-45a8-887e-17b573376bce/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/hunter-biden-Merrick-Garland.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Biden DHS nominee Mayorkas says ICE should not be defunded, despite liberal calls"
-    excerpt: "Alejandro Mayorkas, President-elect Joe Biden’s pick to lead the Department of Homeland Security, said Tuesday that Immigration and Customs Enforcement (ICE) should not be defunded -- while punting on whether parts of the border wall should be dismantled."
-    publishedDateTime: 2021-01-19T18:53:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-dhs-nominee-mayorkas-ice-border-wall"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-dhs-nominee-mayorkas-ice-border-wall.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-dhs-nominee-mayorkas-ice-border-wall.amp"
+  - title: "Rhode Island ranked worst state to do business under Biden Commerce Secretary nominee's leadership"
+    excerpt: "Rhode Island was ranked among the top five worst places to do business in the U.S. during all four years Gina Raimondo, President Biden's nominee for secretary of commerce, was governor."
+    publishedDateTime: 2021-01-27T19:26:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oLDpTcX3XnI/rhode-island-worst-state-business-biden-commerce-raimondo"
+    ampWebUrl: "https://www.foxnews.com/politics/rhode-island-worst-state-business-biden-commerce-raimondo.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rhode-island-worst-state-business-biden-commerce-raimondo.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 130
+    quality: 161
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7baa239c-c9dc-4831-889a-81c96eec5853/f9d51ab7-a9dd-45a8-887e-17b573376bce/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3e6cc050-5e3c-4af3-8996-40045a053ee5/ebbce464-9ae9-4185-a4e5-9485df9d3e95/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

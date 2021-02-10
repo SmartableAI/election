@@ -96,6 +96,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The case for Mitch McConnell to vote to convict Donald Trump"
+    excerpt: "On Wednesday afternoon, the House will impeach President Donald Trump for a second time. It is known. The only real drama will be to see how many House Republicans cross the aisle to vote with Democrats to impeach the President."
+    publishedDateTime: 2021-01-13T16:29:00Z
+    webUrl: "https://www.cnn.com/2021/01/13/politics/mitch-mcconnell-donald-trump-impeachment/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/13/politics/mitch-mcconnell-donald-trump-impeachment/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/13/politics/mitch-mcconnell-donald-trump-impeachment/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201215150551-mitch-mcconnell-1215-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump conviction faces uphill climb in Senate. It could all come down to McConnell."
     excerpt: "Senators are not expected to consider the House impeachment resolution until Tuesday, the day before President-elect Joe Biden takes office."
     publishedDateTime: 2021-01-14T08:22:00Z

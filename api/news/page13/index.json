@@ -2,23 +2,23 @@
   "page": 13,
   "value": [
     {
-      "path": "_news/2021-01-22-biden-suggests-delayed-impeachment-timeline-may-be-better.md",
-      "title": "Biden suggests delayed impeachment timeline may be 'better'",
-      "excerpt": "Biden suggested having more time to get his Cabinet nominees confirmed may help jumpstart his policy agenda.",
+      "path": "_news/2021-01-22-biden-says-nothing-we-can-do-to-change-pandemic-trajectory-in-coming-months.md",
+      "title": "Biden says 'nothing we can do' to change pandemic 'trajectory' in coming months",
+      "excerpt": "Biden addressed his administration’s response efforts during a press briefing on two executive orders meant to provide food assistance to low-income families and protect workers’ rights during the pandemic.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DoBRsQcHzBk/biden-delayed-impeachment-timeline-standoff-congress",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DoBRsQcHzBk/biden-delayed-impeachment-timeline-standoff-congress",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JFTIWZq33yA/biden-nothing-we-can-do-to-change-coronavirus-pandemic-trajectory-in-coming-months",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JFTIWZq33yA/biden-nothing-we-can-do-to-change-coronavirus-pandemic-trajectory-in-coming-months",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 255,
+      "heat": 231,
       "tags": null,
       "images": [
         {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e6f7deab-50b8-4854-a772-08d24f875fa1/65962725-c64c-4736-8a52-88203251a4ed/1280x720/match/image.jpg",
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4006a873-be82-4386-b53f-517d6542b782/397ae1de-e40a-4273-9ea6-06ce58567c46/1280x720/match/image.jpg",
           "width": 1280,
           "height": 720,
           "title": null,
@@ -28,9 +28,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-delayed-impeachment-timeline-standoff-congress.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-delayed-impeachment-timeline-standoff-congress.amp",
-      "publishedDateTime": "2021-01-22T13:38:05-08:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-nothing-we-can-do-to-change-coronavirus-pandemic-trajectory-in-coming-months.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nothing-we-can-do-to-change-coronavirus-pandemic-trajectory-in-coming-months.amp",
+      "publishedDateTime": "2021-01-22T15:09:39-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -58,12 +58,12 @@
       ]
     },
     {
-      "path": "_news/2021-01-22-alejandro-mayorkas-what-to-know-about-bidens-dhs-pick.md",
-      "title": "Alejandro Mayorkas: What to know about Biden's DHS pick",
-      "excerpt": "President Biden has nominated Alejandro Mayorkas to be the next secretary of the Department of Homeland Security (DHS), who will take a key role in the closely watched area of immigration policy.",
+      "path": "_news/2021-01-22-ari-fleischer-big-government-is-back-under-biden.md",
+      "title": "Ari Fleischer: 'Big government is back' under Biden",
+      "excerpt": "President Biden's approach to tackling the economic crisis brought about by the coronavirus pandemic shows that \"big government is back\" in Washington, former White House Press Secretary Ari Fleischer said Friday.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TOGt64wuNMc/alejandro-mayorkas-what-to-know-about-bidens-dhs-pick",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TOGt64wuNMc/alejandro-mayorkas-what-to-know-about-bidens-dhs-pick",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/V6VgIvh9ISg/ari-fleischer-big-government-is-back-under-biden",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/V6VgIvh9ISg/ari-fleischer-big-government-is-back-under-biden",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
@@ -74,9 +74,9 @@
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21019608674449.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chamberlain-160.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -84,9 +84,121 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/alejandro-mayorkas-what-to-know-about-bidens-dhs-pick.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/alejandro-mayorkas-what-to-know-about-bidens-dhs-pick.amp",
-      "publishedDateTime": "2021-01-22T09:53:12-08:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/ari-fleischer-big-government-is-back-under-biden.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ari-fleischer-big-government-is-back-under-biden.amp",
+      "publishedDateTime": "2021-01-22T14:40:08-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-22-reince-priebus-tough-time-for-the-republican-party-but-bidens-actions-easy-to-unite-against.md",
+      "title": "Reince Priebus: 'Tough time for the Republican Party’ but Biden's actions easy to unite against",
+      "excerpt": "Former White House Chief of Staff Reince Priebus told \"America’s Newsroom\" Friday that it’s a \"tough time for the Republican Party\" since President Biden was sworn in, but Biden's actions may make it easier for the party to unite. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5fkBdiX7FRw/reince-priebus-tough-time-republican-party",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5fkBdiX7FRw/reince-priebus-tough-time-republican-party",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/FOX-headshot-2-1.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/reince-priebus-tough-time-republican-party.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/reince-priebus-tough-time-republican-party.amp",
+      "publishedDateTime": "2021-01-22T14:20:28-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-22-biden-suggests-delayed-impeachment-timeline-may-be-better.md",
+      "title": "Biden suggests delayed impeachment timeline may be 'better'",
+      "excerpt": "Biden suggested having more time to get his Cabinet nominees confirmed may help jumpstart his policy agenda.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DoBRsQcHzBk/biden-delayed-impeachment-timeline-standoff-congress",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DoBRsQcHzBk/biden-delayed-impeachment-timeline-standoff-congress",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 275,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e6f7deab-50b8-4854-a772-08d24f875fa1/65962725-c64c-4736-8a52-88203251a4ed/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-delayed-impeachment-timeline-standoff-congress.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-delayed-impeachment-timeline-standoff-congress.amp",
+      "publishedDateTime": "2021-01-22T13:38:05-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -283,25 +395,21 @@
       ]
     },
     {
-      "path": "_news/2021-01-22-the-trump-implosion-auction-brought-to-you-by-a-republican.md",
-      "title": "The Trump implosion auction, brought to you by a Republican?",
-      "excerpt": "One of my favorite stories of the past month or so has been the auction to push the button to blow up Trump Plaza. We know that it won’t happen. But would you believe the idea actually originated with a Republican former elected official,",
+      "path": "_news/2021-01-22-top-iran-leader-posts-trump-like-golfer-image-vows-revenge.md",
+      "title": "Top Iran leader posts Trump-like golfer image, vows revenge",
+      "excerpt": "The Twitter account of Iran's Supreme Leader on Friday carried the image of a golfer resembling former President Donald Trump apparently being targeted by a drone, vowing revenge over the killing of a top Iranian general in a U.",
       "sourceUrl": null,
-      "webUrl": "https://www.politico.com/newsletters/new-jersey-playbook/2021/01/22/the-trump-implosion-auction-brought-to-you-by-a-republican-491489",
-      "originalUrl": "https://www.politico.com/newsletters/new-jersey-playbook/2021/01/22/the-trump-implosion-auction-brought-to-you-by-a-republican-491489",
+      "webUrl": "https://www.reuters.com/article/us-iran-khamenei-twitter-trump-idUSKBN29R0DE",
+      "originalUrl": "https://www.reuters.com/article/us-iran-khamenei-twitter-trump-idUSKBN29R0DE",
       "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 115,
+      "highlight": null,
+      "heat": 565,
       "tags": null,
       "images": [
         {
-          "url": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
-          "width": 1120,
-          "height": 629,
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210122&t=2&i=1548662508&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0L075",
+          "width": 789,
+          "height": 545,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -309,16 +417,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-22T03:55:00-08:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29R0DE",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29R0DE",
+      "publishedDateTime": "2021-01-22T00:17:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -335,8 +443,64 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump",
-        "Democratic Voice"
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-22-kamala-harris-doug-emhoff-will-stay-in-blair-house-while-vp-residence-undergoes-repairs.md",
+      "title": "Kamala Harris, Doug Emhoff will stay in Blair House while VP residence undergoes repairs",
+      "excerpt": "This is the house where history will be made. Vice President Kamala Harris will soon be residing on the grounds of the Naval Observatory in northwestern Washington, D.C., in a home occupied by several of her predecessors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/real-estate/kamala-harris-doug-emhoff-will-stay-in-blair-house-while-vp-residence-undergoes-repairs",
+      "originalUrl": "https://www.foxnews.com/real-estate/kamala-harris-doug-emhoff-will-stay-in-blair-house-while-vp-residence-undergoes-repairs",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/residence-of-the-Vice-President-1.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/real-estate/kamala-harris-doug-emhoff-will-stay-in-blair-house-while-vp-residence-undergoes-repairs.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/real-estate/kamala-harris-doug-emhoff-will-stay-in-blair-house-while-vp-residence-undergoes-repairs.amp",
+      "publishedDateTime": "2021-01-22T00:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
       ]
     },
     {
@@ -505,6 +669,115 @@
       ]
     },
     {
+      "path": "_news/2021-01-22-justice-dept-watchdog-to-examine-abrupt-departure-of-atlanta-us-attorney-whom-trump-appeared-to-criticize.md",
+      "title": "Justice Dept. watchdog to examine abrupt departure of Atlanta U.S. attorney whom Trump appeared to criticize",
+      "excerpt": "Byung J. “BJay” Pak suddenly stepped down earlier this month as then-President Trump waged a pressure campaign on Georgia officials over the election.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/national-security/trump-atlanta-us-attorney-inspector-general/2021/01/21/2cc24d1e-5c39-11eb-b8bd-ee36b1cd18bf_story.html",
+      "originalUrl": "https://www.washingtonpost.com/national-security/trump-atlanta-us-attorney-inspector-general/2021/01/21/2cc24d1e-5c39-11eb-b8bd-ee36b1cd18bf_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UFERJ5SPQ4I6XPNEMFNK57IFKU.jpg&w=1440",
+          "width": 1440,
+          "height": 992,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/national-security/trump-atlanta-us-attorney-inspector-general/2021/01/21/2cc24d1e-5c39-11eb-b8bd-ee36b1cd18bf_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/trump-atlanta-us-attorney-inspector-general/2021/01/21/2cc24d1e-5c39-11eb-b8bd-ee36b1cd18bf_story.html?outputType=amp",
+      "publishedDateTime": "2021-01-21T18:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-22-facebook-refers-trump-account-suspension-to-oversight-board.md",
+      "title": "Facebook Refers Trump Account Suspension to Oversight Board",
+      "excerpt": "The social-media company said a decision from its independent panel on the matter—the biggest issue it has tackled since being set up last year—would be binding.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/facebook-refers-trump-account-suspension-to-oversight-board-11611251506",
+      "originalUrl": "https://www.wsj.com/articles/facebook-refers-trump-account-suspension-to-oversight-board-11611251506",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-282048/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/facebook-refers-trump-account-suspension-to-oversight-board-11611251506",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facebook-refers-trump-account-suspension-to-oversight-board-11611251506",
+      "publishedDateTime": "2021-01-21T18:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-22-obama-praises-bidens-executive-order-blitz-this-is-a-time-for-boldness.md",
       "title": "Obama praises Biden's executive order blitz: 'This is a time for boldness'",
       "excerpt": "Former President Barack Obama praised President Biden on Thursday for enacting a sweeping slate of executive orders within hours of his inauguration as president.",
@@ -569,7 +842,7 @@
       "originalUrl": "https://www.aljazeera.com/news/2021/1/21/biden-signs-orders-nix-muslim-ban-rejoin-paris-climate-accord",
       "featuredContent": null,
       "highlight": null,
-      "heat": 385,
+      "heat": 405,
       "tags": null,
       "images": [
         {
@@ -678,7 +951,7 @@
       "originalUrl": "https://www.washingtonpost.com/world/europe/nato-stoltenberg-trump-biden/2021/01/21/e9bb2dae-5b5e-11eb-a849-6f9423a75ffd_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 140,
+      "heat": 120,
       "tags": null,
       "images": [
         {
@@ -890,7 +1163,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-trump-impeachment-trial/trump-impeachment-trial-likely-in-mid-february-republican-senator-idUSKBN29Q30X",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1305,
+      "heat": 965,
       "tags": null,
       "images": [
         {
@@ -1094,283 +1367,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-president-biden-signs-order-mandating-masks-on-planes-will-it-reduce-number-of-in-flight-scofflaws.md",
-      "title": "President Biden signs order mandating masks on planes: Will it reduce number of in-flight scofflaws?",
-      "excerpt": "Airlines require masks and ban passengers who won't comply. A new federal mask rule signed by Biden Thursday gives them muscle to enforce it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/travel/airline-news/2021/01/21/president-biden-issues-federal-mask-mandate-on-flights/4214019001/",
-      "originalUrl": "https://www.usatoday.com/story/travel/airline-news/2021/01/21/president-biden-issues-federal-mask-mandate-on-flights/4214019001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/01/21/USAT/dd14e355-72ea-4998-9a71-ee24ff1b399c-biden-signing.jpg?auto=webp&crop=5968,3357,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/4214019001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4214019001",
-      "publishedDateTime": "2021-01-21T12:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-tara-reade-says-watching-bidens-inauguration-was-exceptionally-hard-i-want-to-wake-up-from-a-nightmare.md",
-      "title": "Tara Reade says watching Biden's inauguration was 'exceptionally hard': I want to 'wake up from a nightmare'",
-      "excerpt": "Tara Reade, the former Senate staffer who came forward during the 2020 campaign  with a sexual assault allegation against Joe Biden, is speaking out about her former boss taking the oath of office as the 46th president of the United States.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1DxCvyipx1A/tara-reade-biden-inauguration",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1DxCvyipx1A/tara-reade-biden-inauguration",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.foxnews.com/BrightCove/694940094001/2020/08/20/694940094001_6182980630001_6182978210001-vs.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/tara-reade-biden-inauguration.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tara-reade-biden-inauguration.amp",
-      "publishedDateTime": "2021-01-21T12:17:17-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-house-expected-to-approve-waiver-for-bidens-defense-secretary-nominee-lloyd-austin.md",
-      "title": "House expected to approve waiver for Biden's Defense Secretary nominee Lloyd Austin",
-      "excerpt": "President Biden's nominee for Secretary of Defense is expected to clear an important hurdle Thursday in his pathway to confirmation of the new cabinet.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wCtQWjpjxJA/house-waiver-biden-secretary-defense-nominee-lloyd-austin",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wCtQWjpjxJA/house-waiver-biden-secretary-defense-nominee-lloyd-austin",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 249,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Gen.-Lloyd-Austin-III.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/house-waiver-biden-secretary-defense-nominee-lloyd-austin.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-waiver-biden-secretary-defense-nominee-lloyd-austin.amp",
-      "publishedDateTime": "2021-01-21T10:57:21-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-logan-media-institutions-wont-admit-they-were-wrong-about-so-many-stories-during-trump-era.md",
-      "title": "Logan: Media institutions won't 'admit they were wrong about so many stories' during Trump era",
-      "excerpt": "Affiliates of the mainstream media will not admit they were wrong about how they conducted journalism during the Trump administration, Fox Nation host Lara Logan said on Thursday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ey3EaJZpfn4/logan-media-institutions-wont-admit-stories-during-trump-era",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ey3EaJZpfn4/logan-media-institutions-wont-admit-stories-during-trump-era",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/logan-media-institutions-wont-admit-stories-during-trump-era.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/logan-media-institutions-wont-admit-stories-during-trump-era.amp",
-      "publishedDateTime": "2021-01-21T09:50:50-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-charlottesville-inspired-biden-to-run-now-it-has-a-message-for-him.md",
-      "title": "Charlottesville Inspired Biden to Run. Now It Has a Message for Him.",
-      "excerpt": "The white supremacist rally in 2017 prefigured the rise of right-wing violence in President Trump’s name. Now, as President Biden calls for national unity, residents say it requires accountability first.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/01/21/us/politics/charlottesville-attack-biden.html",
-      "originalUrl": "https://www.nytimes.com/2021/01/21/us/politics/charlottesville-attack-biden.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/01/21/us/politics/21Charlottesville1/21Charlottesville1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/01/21/us/politics/charlottesville-attack-biden.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/21/us/politics/charlottesville-attack-biden.amp.html",
-      "publishedDateTime": "2021-01-21T06:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Democratic Voice"
       ]
     }

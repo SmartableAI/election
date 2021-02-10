@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Georgia prosecutors launch criminal probe into Trump's efforts to overturn election results"
+    excerpt: "The investigation will look into the phone call Trump made to Georgia Secretary of State Brad Raffensperger in which Trump begged him to reverse Joe Biden's victory."
+    publishedDateTime: 2021-02-10T20:47:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/georgia-prosecutors-launch-criminal-probe-trump-s-efforts-overturn-biden-n1257272"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1257272"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1257272"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 140
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_43/3419416/201012-georgia-early-voting-se-1232p_79c46a105227f1219a0bbeb22bc74a49.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Georgia Prosecutors Open Criminal Investigation of Trump Call"
     excerpt: "Fulton County prosecutors have initiated a criminal investigation into former President Donald J. Trump’s January phone call to the Georgia secretary of state asking him to “find” votes."
     publishedDateTime: 2021-02-10T14:57:00Z

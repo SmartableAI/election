@@ -63,19 +63,35 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Biden: 'Not afraid' to take oath outside amid inauguration security concerns"
-    excerpt: "President-elect Joe Biden says he’s “not afraid” to take the oath of office outside during his inauguration next week."
-    publishedDateTime: 2021-01-11T20:24:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yBbMG1YspiY/inauguration-security-concerns-biden-not-afraid-oath-outside"
-    ampWebUrl: "https://www.foxnews.com/politics/inauguration-security-concerns-biden-not-afraid-oath-outside.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/inauguration-security-concerns-biden-not-afraid-oath-outside.amp"
+  - title: "Biden inauguration theme will be 'America United' despite deep divisions in country"
+    excerpt: "The theme of President-elect Joe Biden’s inauguration is \"America United,\" despite deep divisions in the country, and will be focused on a \"new national journey\" that the Biden team says will \"restore the soul of America\" and bring the country together."
+    publishedDateTime: 2021-01-11T15:25:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/C9VuHRbftQw/biden-inauguration-theme-america-united"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-inauguration-theme-america-united.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-inauguration-theme-america-united.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 172
+    quality: 169
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden transition team presses Senate to confirm national security nominees ahead of inauguration"
+    excerpt: "The Biden transition team is pressing the Senate to confirm President-elect Joe Biden's national security nominees ahead of the inauguration next week, saying the country's security is \"at stake.\""
+    publishedDateTime: 2021-01-12T20:33:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0Fxo7FDBXUY/biden-transition-senate-confirm-national-security-nominees-inauguration"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-transition-senate-confirm-national-security-nominees-inauguration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-transition-senate-confirm-national-security-nominees-inauguration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
@@ -94,54 +110,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Biden: 'Not afraid' to take oath outside amid inauguration security concerns"
-    excerpt: "President-elect Joe Biden says he’s “not afraid” to take the oath of office outside during his inauguration next week."
-    publishedDateTime: 2021-01-11T20:32:00Z
-    webUrl: "https://www.foxnews.com/politics/inauguration-security-concerns-biden-not-afraid-oath-outside"
-    ampWebUrl: "https://www.foxnews.com/politics/inauguration-security-concerns-biden-not-afraid-oath-outside.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/inauguration-security-concerns-biden-not-afraid-oath-outside.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 132
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21011684189408.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Joe Biden’s Inauguration: When Is It, and How Has the Covid-19 Pandemic Changed It?"
-    excerpt: "President-elect Joe Biden will be sworn into office on Jan. 20 in a scaled-down inauguration that will look different from past years because of the coronavirus pandemic."
-    publishedDateTime: 2021-01-04T19:28:00Z
-    webUrl: "https://www.wsj.com/articles/joe-bidens-inauguration-when-is-it-and-how-has-the-covid-19-pandemic-changed-it-11609787919"
-    ampWebUrl: "https://www.wsj.com/amp/articles/joe-bidens-inauguration-when-is-it-and-how-has-the-covid-19-pandemic-changed-it-11609787919"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-bidens-inauguration-when-is-it-and-how-has-the-covid-19-pandemic-changed-it-11609787919"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 129
-    images:
-      - url: "https://images.wsj.net/im-280273/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "George W. Bush will attend Biden inauguration to witness 'peaceful transfer of power'"
-    excerpt: "Former President George W. Bush and former first lady Laura Bush will attend President-elect Joe Biden’s inauguration in Washington D.C. later this month."
-    publishedDateTime: 2021-01-06T03:40:00Z
-    webUrl: "https://www.foxnews.com/politics/george-w-bush-attend-biden-inauguration-witness-peaceful-transfer-of-power"
-    ampWebUrl: "https://www.foxnews.com/politics/george-w-bush-attend-biden-inauguration-witness-peaceful-transfer-of-power.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/george-w-bush-attend-biden-inauguration-witness-peaceful-transfer-of-power.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 128
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7800ea58-ed83-49bd-bb53-646cbf3599ea/9d505cad-ce21-49db-9435-b8f5d876bd5a/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "O7CxjpA9fDEXEhEWLJ2EJhqpSbMgM9jwNaQusxBkYX7BR1IuNzq8FwKkoyDiMwa5DUTKBKbPGuZEtUAAKK+pg29XD49xa0POyQsjnSarTxB/lIyOEljqopm361h0FoPjbWklsf8Y9aGeJ5j93K5o+ymRZ59zCrDJmRZj1hVyK2UdXRa+qSSsu1GNBfcwp1gNRRtrhNkBaGEqlGYsEhYPNgwCYjCqa9HR5/H2zIpP0zXDlrq2G/RkfUPmP/HBbF2qbZiBPlpzUjiQsn9BHoSRUwNrPqSQUtLxenA0lMOWEn0P9y3K6TGcxIzKs9IoKy6IUjw5hzoFQgcp1K66sbH0+MItDXZEQLA4RNzNjQdX0So=;ra8e/I47cB2h3+MAktGikw=="

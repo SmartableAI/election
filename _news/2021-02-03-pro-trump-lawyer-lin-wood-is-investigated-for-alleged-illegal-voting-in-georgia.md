@@ -48,38 +48,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Trump Pressed Justice Department to Go Directly to Supreme Court to Overturn Election Results"
-    excerpt: "The former president dropped the efforts to replace the acting attorney general after top DOJ officials agreed to resign en masse in protest if he succeeded, people familiar with the matter said."
-    publishedDateTime: 2021-01-23T23:33:00Z
-    webUrl: "https://www.wsj.com/articles/trump-pressed-to-change-justice-department-leadership-to-boost-his-voter-fraud-claims-11611434369"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-pressed-to-change-justice-department-leadership-to-boost-his-voter-fraud-claims-11611434369"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-pressed-to-change-justice-department-leadership-to-boost-his-voter-fraud-claims-11611434369"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 139
-    images:
-      - url: "https://images.wsj.net/im-289628/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Trump Pressed to Change Justice Department Leadership to Boost His Voter Fraud Claims"
-    excerpt: "The former president’s efforts were dropped after top DOJ officials agreed to resign en masse in protest if he succeeded, people familiar said."
-    publishedDateTime: 2021-01-23T19:39:00Z
-    webUrl: "https://www.wsj.com/articles/trump-pressed-to-change-justice-department-leadership-to-boost-his-voter-fraud-claims-11611434369"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-pressed-to-change-justice-department-leadership-to-boost-his-voter-fraud-claims-11611434369"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-pressed-to-change-justice-department-leadership-to-boost-his-voter-fraud-claims-11611434369"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 128
-    images:
-      - url: "https://images.wsj.net/im-289628/social"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "uLlUOPcfRnwWcpSyQSD1PT6uTRqj1zg4+8JfRh5JNawx0wk20B7ISvIEij3eebnnV9XGJq0yaBG6iHyqLufs4Y2SNr+2Wza9OlcX60Wqj8yYEWTyrlARQsCmcHru79XQrSIqIshxHp9BduWwb1Csu1OcQX7SJRXTZgdPuLph5+XngAzM4y1vVEKbpfFTfG/bmkEULYkAoBLELHI4Naix2IlfxyONM/gyi9wviwxWoVhe13TpuAv2IQ92IXz3ibCU2DV/BeOAVXBSo1e+WbEgatAIHYq0Z+E7xA+Zs23+tpppc116DnB4pPzcv3jekZUsconlfkszTiuMvXWq/GBT2eIZp3bds66F33wCvxiFAEs=;pNduojBDrz7Lhb6nv2QLTw=="
 ---

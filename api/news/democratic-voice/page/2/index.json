@@ -70,7 +70,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 209,
+      "heat": 229,
       "tags": null,
       "images": [
         {
@@ -182,7 +182,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 1248,
+      "heat": 1228,
       "tags": null,
       "images": [
         {
@@ -199,6 +199,62 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/02/politics/trump-2020-reelection-loss-covid/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/02/politics/trump-2020-reelection-loss-covid/index.html",
       "publishedDateTime": "2021-02-02T10:35:43-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-02-lindsey-graham-defends-liz-cheney-amid-attacks-from-trump-allies.md",
+      "title": "Lindsey Graham defends Liz Cheney amid attacks from Trump allies",
+      "excerpt": "Sen. Lindsey Graham, a South Carolina Republican, became the latest high-profile GOP elected official to defend Rep. Liz Cheney of Wyoming amid attacks from Donald Trump loyalists critical of her vote to impeach the former president last month.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cT2MZaxyug4/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cT2MZaxyug4/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 275,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210202112943-lindsey-graham-liz-cheney-split-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/02/politics/liz-cheney-republican-reaction-lindsey-graham/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/02/politics/liz-cheney-republican-reaction-lindsey-graham/index.html",
+      "publishedDateTime": "2021-02-02T08:53:12-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -519,7 +575,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 495,
+      "heat": 515,
       "tags": null,
       "images": [
         {
@@ -575,7 +631,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 650,
+      "heat": 730,
       "tags": null,
       "images": [
         {
@@ -958,62 +1014,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-28-matt-gaetz-to-rally-trump-faithful-to-boost-maga-backlash-in-liz-cheneys-backyard.md",
-      "title": "Matt Gaetz to rally Trump faithful to boost MAGA backlash in Liz Cheney's backyard",
-      "excerpt": "Republican Rep. Matt Gaetz of Florida will rally the Trump faithful in Wyoming on Thursday, hoping to bring a MAGA backlash to GOP Rep. Liz Cheney's backyard after she voted to impeach the former President for his role in inciting the riot at the Capitol.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/47nGUI3BJ_4/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/47nGUI3BJ_4/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210127181848-matt-gaetz-liz-cheney-split-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/28/politics/matt-gaetz-wyoming-visit-liz-cheney/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/28/politics/matt-gaetz-wyoming-visit-liz-cheney/index.html",
-      "publishedDateTime": "2021-01-28T03:01:57-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-01-27-trump-to-meet-with-mccarthy-in-florida-on-thursday.md",
       "title": "Trump to meet with McCarthy in Florida on Thursday",
       "excerpt": "Former President Donald Trump is expected to meet with House Minority Leader Kevin McCarthy in Florida on Thursday, a source connected to the former President confirms to CNN.\n    \n",
@@ -1026,7 +1026,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 315,
+      "heat": 335,
       "tags": null,
       "images": [
         {
@@ -1364,7 +1364,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 555,
+      "heat": 575,
       "tags": null,
       "images": [
         {
@@ -1532,7 +1532,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 271,
+      "heat": 231,
       "tags": null,
       "images": [
         {

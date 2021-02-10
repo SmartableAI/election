@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-impeachment-tria
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-impeachment-trial-1-23-21.amp"
 type: article
 quality: 175
-heat: 435
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,21 +31,69 @@ images:
     isCached: true
 
 related:
-  - title: "Senators mull censuring Trump as an alternative to impeachment trial"
-    excerpt: "Senators mull censuring Trump as an alternative to impeachment trial"
-    publishedDateTime: 2021-01-27T18:01:00Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IyW1h4ErIxc/senators-mull-censuring-trump-impeachment-trial-alternative"
-    ampWebUrl: "https://www.foxnews.com/politics/senators-mull-censuring-trump-impeachment-trial-alternative.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senators-mull-censuring-trump-impeachment-trial-alternative.amp"
+  - title: "LIVE UPDATES: Trump permanently banned from Twitter"
+    excerpt: "Follow for the latest updates on the fallout from the riot at the U.S. Capitol."
+    publishedDateTime: 2021-01-09T06:15:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/K9k0-9RO3zw/live-updates-trump-permanently-banned-twitter-1-9-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-permanently-banned-twitter-1-9-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-permanently-banned-twitter-1-9-2021.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e6cb6ff7-33ce-42a6-9e2f-f067a38a46bc/1bd78dbb-65d5-4022-9346-8462544e3b26/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "TeamTrump Twitter account suspended in social media crackdown"
+    excerpt: "Twitter on Friday suspended Team Trump's account on the platform not long after it banned President Trump's account."
+    publishedDateTime: 2021-01-09T17:23:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/M07S2BAyaPo/team-trump-twitter-account-suspended"
+    ampWebUrl: "https://www.foxnews.com/politics/team-trump-twitter-account-suspended.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/team-trump-twitter-account-suspended.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Capture-7.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump supporters ditch Twitter en masse after president's suspension"
+    excerpt: "Some users noticed that they had lost followers on Twitter shortly after Trump's suspension was made permanent."
+    publishedDateTime: 2021-01-09T16:26:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TMQMZNueHKU/trump-fans-ditch-twitter-en-masse-after-presidents-suspension"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-fans-ditch-twitter-en-masse-after-presidents-suspension.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-fans-ditch-twitter-en-masse-after-presidents-suspension.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Trump-Twitter-suspended-thumb-blue.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Live Updates: Biden inauguration just one week away"
+    excerpt: "With Biden's inauguration just one week away, his transition team is pressing the Senate to confirm his national security nominees ahead of the event, saying the country's security is \"at stake.\""
+    publishedDateTime: 2021-01-13T05:41:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CZb6L4kNVEs/live-updates-biden-inaguration-1-13-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-inaguration-1-13-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-inaguration-1-13-2021.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a39e09bf-a243-4496-a40b-1582ccd2b67a/dd93c6ff-576c-4cdf-973d-cc48ba4571ee/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "LIVE UPDATES: Trump, McCarthy set up meeting ahead of impeachment"
     excerpt: "Follow for the latest updates on Trump's impeachment"
@@ -63,37 +111,53 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Sen. Cory Booker expects Trump impeachment trial 'as quickly as possible'"
-    excerpt: "Sen. Cory Booker, D-N.J., said that after the House voted to impeach President Trump last week, he expects the Senate to hold a trial relatively soon."
-    publishedDateTime: 2021-01-17T19:14:26Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZXTLAGXiBHs/sen-booker-trump-impeachment-trial-quickly-as-possible"
-    ampWebUrl: "https://www.foxnews.com/politics/sen-booker-trump-impeachment-trial-quickly-as-possible.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-booker-trump-impeachment-trial-quickly-as-possible.amp"
+  - title: "Live Updates: Trump's impeachment trial set to begin next week"
+    excerpt: "The Senate trial of former President Donald Trump is set to begin next week. "
+    publishedDateTime: 2021-02-01T07:49:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/251Ha7dRYFQ/live-updates-trumps-impeachment-trial-set-to-begin-next-week"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trumps-impeachment-trial-set-to-begin-next-week.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trumps-impeachment-trial-set-to-begin-next-week.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 174
+    quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/31a1fe1e-5515-468e-9607-4738d2533c9f/c9629705-1284-496f-9cfa-44d30c4119aa/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b7bd83f1-4d23-4ebc-bd89-ec13027ba1b1/7215bdc9-6d2c-4ec3-9fa7-f70a1042e107/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "'QAnon Shaman' willing to testify in Trump's impeachment trial, lawyer says"
-    excerpt: "A man who calls himself the \"QAnon Shaman\" and stormed the U.S. Capitol on Jan. 6 while wearing a horned bearskin headdress, face paint and no shirt, is willing to testify in former President Trump’s upcoming impeachment trial, his lawyer said this week."
-    publishedDateTime: 2021-01-29T04:35:35Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iS88E0-_gno/qanon-shaman-willing-to-testify-in-trumps-impeachment-trial-lawyer-says"
-    ampWebUrl: "https://www.foxnews.com/politics/qanon-shaman-willing-to-testify-in-trumps-impeachment-trial-lawyer-says.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/qanon-shaman-willing-to-testify-in-trumps-impeachment-trial-lawyer-says.amp"
+  - title: "Live Updates: House Republican who voted to impeach Trump facing criticism"
+    excerpt: "With 10 Republican votes, Trump's second impeachment was the most bipartisan one in history."
+    publishedDateTime: 2021-01-18T05:07:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EbVGXDmDFTg/live-updates-trump-impeach-1-18-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-impeach-1-18-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-impeach-1-18-2021.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 173
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21028544684163.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/02ffde9d-0cc6-45ac-b045-16f768eb828d/40e452e9-8c15-4f5b-967a-fac0730df44d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "LIVE UPDATES: Republicans propose delaying Trump's impeachment to February"
+    excerpt: "Follow for the latest updates on Trump's impeachment"
+    publishedDateTime: 2021-01-22T06:27:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1TGjES5mEKM/live-updates-trumps-impeachment-1-22-21"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trumps-impeachment-1-22-21.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trumps-impeachment-1-22-21.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e6f7deab-50b8-4854-a772-08d24f875fa1/65962725-c64c-4736-8a52-88203251a4ed/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "LIVE UPDATES: Trump parts with lead impeachment lawyers a week before trial"
     excerpt: "Follow for the latest updates on Trump's impeachment trial."
@@ -111,133 +175,195 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump and McCarthy set up face-to-face meeting as Dems weigh impeachment trial options."
-    excerpt: "Former President Donald trump is expected to meet with House Minority Leader Kevin McCarthy in Florida Thursday, Fox News has learned."
-    publishedDateTime: 2021-01-27T21:18:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vWPpr7YrKEI/trump-and-mccarthy-set-up-face-to-face-meeting-as-dems-weigh-impeachment-trial-options"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-and-mccarthy-set-up-face-to-face-meeting-as-dems-weigh-impeachment-trial-options.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-and-mccarthy-set-up-face-to-face-meeting-as-dems-weigh-impeachment-trial-options.amp"
+  - title: "Live Updates: Increasing number of GOP senators oppose Trump impeachment trial"
+    excerpt: "Sen. Marco Rubio, R-Fla called the upcoming trial of Trump 'stupid' and harmful for the US"
+    publishedDateTime: 2021-01-25T05:00:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/F15eZACVzGo/live-updates-trump-impeachment-1-25-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-impeachment-1-25-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-impeachment-1-25-2021.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 167
+    quality: 171
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/315610d9-582f-4881-a5ac-41962b062276/a07fe9a0-d66c-4947-9b89-c7a2419e8962/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/219f5b85-85d3-4586-8e42-e015f131035e/05980f72-2d65-4a8d-bcf0-d16c88e6dd3c/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Rubio doubles down on criticism of Trump impeachment trial: 'It's not even constitutional'"
-    excerpt: "Sen. Marco Rubio, R-Fla., doubled down Tuesday on statements he made over the weekend calling next month's impeachment trial of former President Trump \"stupid\"."
-    publishedDateTime: 2021-01-26T23:38:05Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qgpCiNqYrf4/rubio-trump-impeachment-trial-not-even-constitutional"
-    ampWebUrl: "https://www.foxnews.com/politics/rubio-trump-impeachment-trial-not-even-constitutional.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rubio-trump-impeachment-trial-not-even-constitutional.amp"
+  - title: "Live Updates: Trump's chances for acquittal in upcoming Senate impeachment trial unclear"
+    excerpt: "Fox News contacted every Republican who will be serving as a senator after President-elect Joe Biden's inauguration on January 20, when the trial is likely to begin."
+    publishedDateTime: 2021-01-15T06:05:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_VZN_LyUW1o/live-updates-trump-impeachment-1-15-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-impeachment-1-15-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-impeachment-1-15-2021.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/016de1e0-c12a-46c1-9ddc-3c1c9fd30c07/dabd96c7-2531-4829-823c-dcdd9c99015a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Live Updates: Cheney, who voted for Trump impeachment, holds on to GOP leadership position"
+    excerpt: "Embattled Rep. Liz Cheney, the third-highest-ranking Republican in the House, held on to her title as House GOP conference chair on Wednesday after easily surviving a push by Trump loyalists to strip her of her leadership position."
+    publishedDateTime: 2021-02-04T11:07:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oD7dWB-mVOQ/live-updates-trump-impeachment-2-4-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-impeachment-2-4-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-impeachment-2-4-2021.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 165
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3265ed32-8048-4719-ac07-8c0ec3a09c46/77e46171-0bf6-45ae-8ea9-67f7073c8f92/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e0dfedbd-dfc4-4cd5-b565-1133911fbe12/aec38a4d-cbe6-43fa-8ed2-28829a019de7/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "LIVE UPDATES: Trump impeachment manager Eric Swalwell says Democrats will 'be ready' with witnesses if allowed"
-    excerpt: "Follow for the latest updates on Trump's impeachment trial."
-    publishedDateTime: 2021-01-24T06:19:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/q9djUbQpluo/live-updates-trump-impeachment-1-24-21"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-impeachment-1-24-21.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-impeachment-1-24-21.amp"
+  - title: "After Trump Twitter ban, CBP chief says conservatives are 'constantly being censored' by Big Tech"
+    excerpt: "The head of Customs and Border Protection (CBP) said on Saturday that conservatives and Trump administration officials are \"constantly being censored\" -- a day after President Trump was permanently suspended from Twitter. "
+    publishedDateTime: 2021-01-09T16:55:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tSInzzeuWRE/trump-twitter-ban-cbp-chief-tech"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-twitter-ban-cbp-chief-tech.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-twitter-ban-cbp-chief-tech.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 155
+    quality: 162
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4cd48adb-674f-4d81-b34f-2a62f1752737/7b0254aa-3121-4ce2-82b2-67ef0837684f/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/886d202e-b4ba-4da6-bcc1-bda7cfd9a2a4/f4729944-945f-4a6d-b3c0-79a7da3fa698/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "GOP senators blast Dems for moving forward with Trump impeachment trial"
-    excerpt: "Republican senators are blasting Democrats for moving ahead with an impeachment trial against former President Donald Trump after 45 GOP senators voted that it was unconstitutional, with"
-    publishedDateTime: 2021-01-27T14:25:00Z
-    webUrl: "https://nypost.com/2021/01/27/gop-senators-blast-dems-for-pursuing-trump-impeachment-trial/"
-    ampWebUrl: "https://nypost.com/2021/01/27/gop-senators-blast-dems-for-pursuing-trump-impeachment-trial/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/27/gop-senators-blast-dems-for-pursuing-trump-impeachment-trial/amp/"
+  - title: "LIVE UPDATES: White House clarifies intelligence officials will determine Trump's access to briefings"
+    excerpt: "Follow for the latest updates on the White House.  "
+    publishedDateTime: 2021-02-07T07:44:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uQfEw5pDUjs/live-updates-white-house-trump-2-7-21"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-white-house-trump-2-7-21.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-white-house-trump-2-7-21.amp"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9afddc93-7228-4852-850b-9711102bbb72/4053956a-dce6-43cc-b729-c596965e4d2f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Twitter locks Trump account, warns further violations will result in 'permanent suspension' from the platform"
+    excerpt: "Twitter locked President Trump’s account on Wednesday night claiming he violated Twitter rules, and warned the president that further violations of their Civic Integrity or Violent Threat policies would result in a “permanent suspension” of his account."
+    publishedDateTime: 2021-01-07T00:30:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RimxOYD-Uoo/twitter-locks-trump-account-threatens-permanent-suspension"
+    ampWebUrl: "https://www.foxnews.com/politics/twitter-locks-trump-account-threatens-permanent-suspension.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-locks-trump-account-threatens-permanent-suspension.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump a Twitter rival? After ban, president says he's in talks with other platforms -- or may launch his own"
+    excerpt: "President Trump on Friday said he is considering other social media platforms and may even create his own after he was banned from Twitter in the wake of Wednesday's U.S. Capitol riot."
+    publishedDateTime: 2021-01-09T05:59:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/USYuHRIz2qM/trump-a-twitter-rival-after-ban-president-says-hes-in-talks-with-other-platforms-or-may-launch-his-own"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-a-twitter-rival-after-ban-president-says-hes-in-talks-with-other-platforms-or-may-launch-his-own.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-a-twitter-rival-after-ban-president-says-hes-in-talks-with-other-platforms-or-may-launch-his-own.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/trump-twitter.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "LIVE UPDATES: Trump impeachment supported by only 8% of Republicans: poll"
+    excerpt: "Follow for the latest updates on Trump's impeachment"
+    publishedDateTime: 2021-01-16T06:29:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LCust6TauXk/live-updates-trump-impeachment-1-16-2021"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 154
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/trump-on-stairs.jpgxxxx.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Live Updates: Biden to announce Justice Department picks"
+    excerpt: "President-elect Joe Biden is to announce his nominees for the Justice Department. Biden is also expected to address the rioting on Capitol Hill on Wednesday, which he condemned in strong terms the same day."
+    publishedDateTime: 2021-01-07T18:56:00Z
+    webUrl: "https://www.foxnews.com/politics/live-updates-pence-has-power-to-block-certification-trump-says"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-pence-has-power-to-block-certification-trump-says.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-pence-has-power-to-block-certification-trump-says.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
     quality: 135
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/senate-impeachment-22.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ad0d288e-8d3f-4466-bf25-2a90d782871f/8d4ccfcf-53da-4208-9695-e20a725c6067/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "57 percent of voters say Trump impeachment will further divide Americans"
-    excerpt: "More than half of likely voters say in a new poll that former President Trump being tried in the Senate over his House impeachment would further divide an already politically-torn nation. The"
-    publishedDateTime: 2021-01-28T21:55:00Z
-    webUrl: "https://nypost.com/2021/01/28/most-voters-feel-trump-impeachment-will-divide-nation-more/"
-    ampWebUrl: "https://nypost.com/2021/01/28/most-voters-feel-trump-impeachment-will-divide-nation-more/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/28/most-voters-feel-trump-impeachment-will-divide-nation-more/amp/"
+  - title: "Kirstie Alley condemns Twitter for banning Trump in series of tweets"
+    excerpt: "Actress Kirstie Alley condemned Twitter -- and its CEO Jack Dorsey -- over its decision to permanently ban President Trump and questioned why some Democrats haven’t been banned for their controversial comments."
+    publishedDateTime: 2021-01-10T08:40:00Z
+    webUrl: "https://www.foxnews.com/entertainment/kirstie-alley-condemns-twitter-for-banning-trump-in-series-of-tweets"
+    ampWebUrl: "https://www.foxnews.com/entertainment/kirstie-alley-condemns-twitter-for-banning-trump-in-series-of-tweets.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/kirstie-alley-condemns-twitter-for-banning-trump-in-series-of-tweets.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Jack-Dorsey-.png?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump supporters ditch Twitter en masse after president's suspension"
+    excerpt: "Some users noticed that they had lost followers on Twitter shortly after Trump's suspension was made permanent."
+    publishedDateTime: 2021-01-09T16:42:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-fans-ditch-twitter-en-masse-after-presidents-suspension"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-fans-ditch-twitter-en-masse-after-presidents-suspension.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-fans-ditch-twitter-en-masse-after-presidents-suspension.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Trump-Twitter-suspended-thumb-blue.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Donald Trump Jr.: ‘We are living Orwell’s 1984’ after dad outed from Twitter"
+    excerpt: "Free-speech no longer exists in America. It died with big tech and what’s left is only there for a chosen few. This is absolute insanity!” he tweeted in response to the news."
+    publishedDateTime: 2021-01-09T22:42:00Z
+    webUrl: "https://nypost.com/2021/01/09/donald-trump-jr-likens-dads-twitter-ban-to-orwells-1984/"
+    ampWebUrl: "https://nypost.com/2021/01/09/donald-trump-jr-likens-dads-twitter-ban-to-orwells-1984/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/09/donald-trump-jr-likens-dads-twitter-ban-to-orwells-1984/amp/"
     type: article
     provider:
       name: New York Post
       domain: nypost.com
-    quality: 134
+    quality: 132
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/Trump-impeachment-divide-Americans-2-1.jpg?quality=90&strip=all&w=1200"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/donald-trump-jr-twitter.jpg?quality=90&strip=all&w=1200"
         width: 1200
-        height: 675
-        isCached: true
-  - title: "Ingraham: Second Senate impeachment trial of Trump will be 'ugly, feudal farce'"
-    excerpt: "Senate Majority Leader Chuck Schumer's commitment to holding a post-presidential impeachment trial of Donald Trump sets the stage for an \"ugly, feudal farce,\" Laura Ingraham said Friday."
-    publishedDateTime: 2021-01-23T04:39:00Z
-    webUrl: "https://www.foxnews.com/media/laura-ingraham-trump-impeachment-trial-ugly-feudal-farce"
-    ampWebUrl: "https://www.foxnews.com/media/laura-ingraham-trump-impeachment-trial-ugly-feudal-farce.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/laura-ingraham-trump-impeachment-trial-ugly-feudal-farce.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 131
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7f803e6d-1655-44a5-bb1a-14973471d214/5337238f-a929-46b9-8827-dbae154b3388/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump and McCarthy set up face-to-face meeting as Dems weigh impeachment trial options."
-    excerpt: "Former President Donald trump is expected to meet with House Minority Leader Kevin McCarthy in Florida Thursday, Fox News has learned."
-    publishedDateTime: 2021-01-27T21:21:00Z
-    webUrl: "https://www.foxnews.com/politics/trump-and-mccarthy-set-up-face-to-face-meeting-as-dems-weigh-impeachment-trial-options"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-and-mccarthy-set-up-face-to-face-meeting-as-dems-weigh-impeachment-trial-options.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-and-mccarthy-set-up-face-to-face-meeting-as-dems-weigh-impeachment-trial-options.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 127
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/315610d9-582f-4881-a5ac-41962b062276/a07fe9a0-d66c-4947-9b89-c7a2419e8962/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "'Vindictive' and 'harsh' Trump impeachment trial won't bode well for Democrats: Historian Jay Winik"
-    excerpt: "The push by congressional Democrats to convict former President Donald Trump of impeachable offenses feels \"vindictive,\" and \"harsh,\" historian Jay Winik told \"Special Report\" Wednesday."
-    publishedDateTime: 2021-01-28T00:21:00Z
-    webUrl: "https://www.foxnews.com/media/historian-jay-winik-trump-impeachment-trial-senate-filibuster"
-    ampWebUrl: "https://www.foxnews.com/media/historian-jay-winik-trump-impeachment-trial-senate-filibuster.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/historian-jay-winik-trump-impeachment-trial-senate-filibuster.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 121
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/32cb91af-d1ac-4bad-991f-9bd146d20dce/ebd3a650-da0d-4fe8-8a9c-923fec42f48b/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+        height: 800
         isCached: true
 
 secured: "Up1Nh6FGjJZtpeOhGbp8hXkHToGxhdvCaGl/nKc5GjAoEpgrS4MosqgLDtUbdUVi+PWJBzBlL+Fm1p4soiPITLZFeL4AJg9gmcNiH/uLzcFyZGfLmIatz4a4eG/3AKV7mOYt/XfIZvfxlsnrUSvR+mTngCspciQV3mW+QS3wH00rqAKh2BBPTnXBgfINtLTr6d4mMU5QBreub+9smQXhl1SUiTH9jkftCHLbkfs1Pzy7xqIqpgBcyUvOFDqG9gGPN6GANA0vaRhD/01V5IresU3QhlTpavYQUU0QKOBrX5/oNdbPOE9SrSUZffVxd3OqabwUmSFJT7naeOIM2BRxrxcKV6Gyy4FuU799wHXd2io=;Id/nfjgOvbk3wc+9g0WYeQ=="

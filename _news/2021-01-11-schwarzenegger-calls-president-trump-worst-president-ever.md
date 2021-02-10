@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/schwarzenegger-ca
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/schwarzenegger-calls-president-trump-worst-president-75165493"
 type: article
 quality: 125
-heat: 185
+heat: 165
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Arnold Schwarzenegger Calls Efforts to Overturn Biden's Win 'Crazy and Evil'"
-    excerpt: "The former GOP California governor said lawmakers objecting to Biden's win will be remembered as \"villains\" by their grandchildren."
-    publishedDateTime: 2021-01-05T20:51:00Z
-    webUrl: "https://www.newsweek.com/arnold-schwarzenegger-calls-efforts-overturn-bidens-win-crazy-evil-1559133"
-    ampWebUrl: "https://www.newsweek.com/arnold-schwarzenegger-calls-efforts-overturn-bidens-win-crazy-evil-1559133?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/arnold-schwarzenegger-calls-efforts-overturn-bidens-win-crazy-evil-1559133?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 122
-    images:
-      - url: "https://d.newsweek.com/en/full/1698866/arnold-schwarzenegger.jpg"
-        width: 1024
-        height: 722
-        isCached: true
   - title: "Schwarzenegger equates Capitol riot with Nazis, wields sword, calls Trump 'failed leader'"
     excerpt: "The former California governor reflected on growing up in Austria after World War Two, wielded the Conan sword and slammed President Donald Trump."
     publishedDateTime: 2021-01-11T06:20:00Z

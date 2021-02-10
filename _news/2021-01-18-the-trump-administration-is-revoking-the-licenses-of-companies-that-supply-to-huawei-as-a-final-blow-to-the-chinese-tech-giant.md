@@ -31,91 +31,173 @@ images:
     isCached: true
 
 related:
-  - title: "Census battle ends as Trump administration gives up on excluding undocumented from apportionment"
-    excerpt: "A high-stakes six-month battle over who should be counted for representation in Congress ended quietly in a judge’s chamber Friday night when the Trump administration agreed not to release any population numbers from the 2020 Census for congressional apportionment or redistricting before the president leaves office."
-    publishedDateTime: 2021-01-16T12:08:00Z
-    webUrl: "https://www.washingtonpost.com/local/social-issues/census-battle-ends-as-trump-administration-gives-up-on-excluding-undocumented-from-apportionment/2021/01/16/bd17025c-57ba-11eb-a931-5b162d0d033d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/local/social-issues/census-battle-ends-as-trump-administration-gives-up-on-excluding-undocumented-from-apportionment/2021/01/16/bd17025c-57ba-11eb-a931-5b162d0d033d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/social-issues/census-battle-ends-as-trump-administration-gives-up-on-excluding-undocumented-from-apportionment/2021/01/16/bd17025c-57ba-11eb-a931-5b162d0d033d_story.html?outputType=amp"
+  - title: "MyPillow Guy among the Trump acolytes picking up the torch"
+    excerpt: "Mike Lindell, the businessman better known to the world as the MyPillow Guy, is weighing a run for governor in Minnesota"
+    publishedDateTime: 2021-01-23T14:47:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/mypillow-guy-trump-acolytes-picking-torch-75444177"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/mypillow-guy-trump-acolytes-picking-torch-75444177"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/mypillow-guy-trump-acolytes-picking-torch-75444177"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_1aeb02288805488587306b003a97079d_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "MyPillow Guy among the Trump acolytes picking up the torch"
+    excerpt: "Mike Lindell, the businessman better known to the world as the MyPillow Guy, is weighing a run for governor in Minnesota"
+    publishedDateTime: 2021-01-23T17:18:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/mypillow-guy-trump-acolytes-picking-torch-75444118"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/mypillow-guy-trump-acolytes-picking-torch-75444118"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/mypillow-guy-trump-acolytes-picking-torch-75444118"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/General/my-pillow-guy-mike-lindell-donald-trump-01-gty-llr-210123_1611431001386_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "City council seeks input on bill condemning Trump for riot"
+    excerpt: "A city council in Maryland is seeking public input on a resolution that condemns former President Donald Trump for the violent siege of the U.S. Capitol"
+    publishedDateTime: 2021-01-25T14:53:00Z
+    webUrl: "https://www.washingtonpost.com/local/city-council-seeks-input-on-bill-condemning-trump-for-riot/2021/01/25/360fa520-5f1c-11eb-a177-7765f29a9524_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/city-council-seeks-input-on-bill-condemning-trump-for-riot/2021/01/25/360fa520-5f1c-11eb-a177-7765f29a9524_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/city-council-seeks-input-on-bill-condemning-trump-for-riot/2021/01/25/360fa520-5f1c-11eb-a177-7765f29a9524_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 112
+    quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/R2MNFXSXZEI6XKAX4XT7RJAG2Y.jpg&w=1440"
-        width: 1440
-        height: 811
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
-  - title: "Trump administration shelves planned investment ban on Alibaba, Tencent, Baidu: sources"
-    excerpt: "The Trump administration has scrapped plans to blacklist Chinese tech giants Alibaba, Tencent and Baidu, four people familiar with the matter said, providing a brief reprieve to Beijing's top corporates amid a broader crackdown by Washington."
-    publishedDateTime: 2021-01-14T18:26:00Z
-    webUrl: "https://www.reuters.com/article/usa-trump-china-tech/update-3-trump-administration-shelves-planned-investment-ban-on-alibaba-tencent-baidu-sources-idUSL1N2JO2JN"
+  - title: "City council approves bill condemning Trump for Capitol riot"
+    excerpt: "A city council in Maryland unanimously approved a resolution condemning former President Donald Trump for the violent siege of the U.S. Capitol"
+    publishedDateTime: 2021-01-26T20:55:00Z
+    webUrl: "https://www.washingtonpost.com/local/city-council-approves-bill-condemning-trump-for-capitol-riot/2021/01/26/df7eda2c-5fee-11eb-a177-7765f29a9524_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/city-council-approves-bill-condemning-trump-for-capitol-riot/2021/01/26/df7eda2c-5fee-11eb-a177-7765f29a9524_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/city-council-approves-bill-condemning-trump-for-capitol-riot/2021/01/26/df7eda2c-5fee-11eb-a177-7765f29a9524_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Twitter permanently bans MyPillow CEO Mike Lindell after he continues to claim Trump won the election, fraud"
+    excerpt: "Twitter decided to ban Mike Lindell, who founded bedding company MyPillow, due to “repeated violations” of its civic integrity policy."
+    publishedDateTime: 2021-01-26T14:06:00Z
+    webUrl: "https://www.usatoday.com/story/tech/2021/01/26/twitter-bans-mypillow-ceo-mike-lindell-election-fraud-claims/4257458001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4257458001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4257458001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 121
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/03/31/USAT/6aff7ab2-44ed-40be-ab33-704a9c36a9c9-lindell.JPG?auto=webp&crop=2967,1669,x668,y102&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Donald Trump Said He'll Return, but Most Think He Shouldn't Be Allowed to Run Again"
+    excerpt: "The outgoing president has previously alluded to running in 2024, with comments having hinted at feeling he has unfinished business."
+    publishedDateTime: 2021-01-20T16:45:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-return-president-2024-poll-1563101"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-return-president-2024-poll-1563101?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-return-president-2024-poll-1563101?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 119
+    images:
+      - url: "https://d.newsweek.com/en/full/1712115/donald-trump-joint-base-andrews.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "New Pentagon chief praises Germany for hosting U.S. troops, reversing Trump's tack"
+    excerpt: "New U.S. Defense Secretary Lloyd Austin praised Germany for hosting U.S. troops in a call with his German counterpart on Wednesday, fueling speculation that President Joe Biden could overturn a drawdown ordered by his predecessor Donald Trump."
+    publishedDateTime: 2021-01-28T02:59:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-germany-troops/new-pentagon-chief-praises-germany-for-hosting-u-s-troops-reversing-trumps-tack-idUSKBN29W2VN"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29W2VN"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29W2VN"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 97
+    quality: 119
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210113&t=2&i=1547682772&r=LYNXMPEH0C1LP&w=800"
-        width: 800
-        height: 535
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210127&t=2&i=1549297914&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0Q1OW"
+        width: 817
+        height: 545
         isCached: true
-  - title: "Exclusive: Trump admin slams China's Huawei, halting shipments from Intel, others - sources"
-    excerpt: "The Trump administration notified Huawei suppliers, including chipmaker Intel, that it is revoking certain licenses to sell to the Chinese company and intends to reject dozens of other applications to supply the telecommunications firm,"
-    publishedDateTime: 2021-01-17T22:07:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-huawei-tech-exclusive/exclusive-trump-admin-slams-chinas-huawei-halting-shipments-from-intel-others-sources-idUKKBN29M0KD"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 95
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210117&t=2&i=1548118670&r=LYNXMPEH0G0DZ&w=800"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Donald Trump's bitter fight to ban TikTok in the US looks set to fail after administration agrees to delayed legal deadline"
-    excerpt: "Experts say a shift in legal deadline paves the way for President-elect Joe Biden to drop the suit."
-    publishedDateTime: 2021-01-13T17:27:00Z
-    webUrl: "https://www.businessinsider.com/donald-trumps-tiktok-ban-likely-just-ended-with-legal-deadline-2021-1"
+  - title: "Lawyers representing the Capitol insurrectionists are building a damning case against Trump"
+    excerpt: "Defense attorneys for some insurrections said their clients were acting on the orders of Trump in storming the Capitol."
+    publishedDateTime: 2021-01-24T00:15:00Z
+    webUrl: "https://www.businessinsider.com/capitol-insurrectionists-lawyers-make-case-trump-impeachment-prosecution-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/capitol-insurrectionists-lawyers-make-case-trump-impeachment-prosecution-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/capitol-insurrectionists-lawyers-make-case-trump-impeachment-prosecution-2021-1?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 79
+    quality: 115
     images:
-      - url: "https://i.insider.com/5fff2702a8de7700187d3a0c?width=1200&format=jpeg"
-        width: 921
-        height: 460
+      - url: "https://i.insider.com/5ff5f6066d61c10019ccdf62?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Snapchat Permanently Bans Donald Trump For Spreading Misinformation, Inciting Violence"
-    excerpt: "Snapchat has permanently banned Donald Trump from its platform after assessing what could happen if he were to continue spreading misinformation and inciting violence online."
-    publishedDateTime: 2021-01-14T02:36:00Z
-    webUrl: "https://www.ibtimes.com/snapchat-permanently-bans-donald-trump-spreading-misinformation-inciting-violence-3121463"
-    ampWebUrl: "https://www.ibtimes.com/snapchat-permanently-bans-donald-trump-spreading-misinformation-inciting-violence-3121463?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/snapchat-permanently-bans-donald-trump-spreading-misinformation-inciting-violence-3121463?amp=1"
+  - title: "In Wyoming, Cheney faces blowback for vote to impeach Trump"
+    excerpt: "When Liz Cheney, the third-ranking Republican in the House of Representatives, decided to vote to impeach a president from her own party, she knew she'd cause some waves. She might not have expected the seismic impact at home."
+    publishedDateTime: 2021-01-28T14:23:00Z
+    webUrl: "https://www.businessinsider.com/in-wyoming-cheney-faces-blowback-for-vote-to-impeach-trump-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/in-wyoming-cheney-faces-blowback-for-vote-to-impeach-trump-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/in-wyoming-cheney-faces-blowback-for-vote-to-impeach-trump-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "MyPillow Taking Lumps: How Mike Lindell's Trump Support Spells Downfall"
+    excerpt: "CEO Lindell last week was seen at the White House holding notes that seem to support many of the conspiracy theories surrounding election fraud."
+    publishedDateTime: 2021-01-19T12:48:00Z
+    webUrl: "https://www.ibtimes.com/mypillow-taking-lumps-how-mike-lindells-trump-support-spells-downfall-3125478"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
-    quality: 67
+    quality: 55
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/12/the-cancelled-diplomatic-trips-round-off-four-tumultuous.jpg"
-        width: 1024
-        height: 677
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/04/gettyimages-1218940907.jpg"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Exclusive: Trump Admin Slams China's Huawei, Halting Shipments From Intel, Others - Sources"
-    excerpt: "The Trump administration notified Huawei suppliers, including chipmaker Intel, that it is revoking certain licenses to sell to the Chinese company and intends to reject dozens of other applications to supply the telecommunications firm,"
-    publishedDateTime: 2021-01-19T00:18:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-01-17/exclusive-trump-slams-huawei-and-its-suppliers-one-final-time"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-01-17/exclusive-trump-slams-huawei-and-its-suppliers-one-final-time?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-01-17/exclusive-trump-slams-huawei-and-its-suppliers-one-final-time?context=amp"
+  - title: "Trump-supporting 'My Pillow Guy' Suspended From Twitter"
+    excerpt: "A high-profile Donald Trump supporter who backed the former president's claims of electoral fraud has been permanently suspended from Twitter, the social media giant said Monday night, the latest in a series of bans of prominent right-wingers and conspiracy theorists."
+    publishedDateTime: 2021-01-26T06:58:00Z
+    webUrl: "https://www.ibtimes.com/trump-supporting-my-pillow-guy-suspended-twitter-3130757"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 45
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/26/lindell-has-been-speculating-about-his-own-politicial.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "hsiBSjyEPbIRFoQ+l4CWwsjO5RF7JuTgj8cbM+GfTerHKg4LUeOhtEJbCuxqK8KS2eBL1rf07Uaj3SEE1R0gTP8vN5gpqN1WliPAk0/hc8b9aikq7k+O2AgLH1Ze3GNyi62cQSYxpncVHEUlYULOQRiqRqt/6iMWus6bvof0WEt2d6m3/o0o+k6tQzEljbXsIOfYx9Oieeu08pJXHau5s/BA5mXferz75fHo0PNMQwj+1MOu0pvyShN5pgO1nImsjakrn6Pbv6Y0S34djtcZiG5YYigTdnsQEYj9NsYs3Ng1WUZvNxQ8/Zbn8AO/2tbct8h/I+zjJVZPKlEVYw2ApXJJypPbpbQFN3DUYstQ/Ro=;5qjkXuaqKqQ41Tpb/0aqPQ=="
 ---

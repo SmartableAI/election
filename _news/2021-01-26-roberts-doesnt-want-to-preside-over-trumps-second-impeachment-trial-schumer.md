@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Wyoming Republicans censure Cheney over Trump impeachment vote"
-    excerpt: "Wyoming's Carbon County Republican Party voted unanimously to censure Rep. Liz Cheney, R-Wyo., for voting with nine other House Republicans to impeach President Trump on charges of \"incitement of an insurrection.\""
-    publishedDateTime: 2021-01-19T14:35:01Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8ULwU1c9iBk/liz-cheney-impeachment-republicans-herrera-beutler-wyoming"
-    ampWebUrl: "https://www.foxnews.com/politics/liz-cheney-impeachment-republicans-herrera-beutler-wyoming.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/liz-cheney-impeachment-republicans-herrera-beutler-wyoming.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/Rep-Liz-Cheney.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Trump impeachment trial delayed until week of Feb. 8, Schumer says"
     excerpt: "Senate Majority Leader Chuck Schumer, D-N.Y., said on Friday lawmakers will wait to carry out President Donald Trump’s impeachment hearings for several weeks, following a brief standoff on Capitol Hill over timing."
     publishedDateTime: 2021-01-22T23:53:47Z
@@ -63,213 +47,149 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Left-leaning groups pressure companies not to hire ex-Trump officials"
-    excerpt: "The \"Campaign against Corporate Complicity\" calls for major corporations to pledge not to hire former senior Trump administration officials who helped to implement “cruel and anti-democratic policies.”"
-    publishedDateTime: 2021-01-26T20:34:56Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZbIEfBn5y84/left-leaning-groups-pressure-companies-not-to-hire-ex-trump-officials"
-    ampWebUrl: "https://www.foxnews.com/politics/left-leaning-groups-pressure-companies-not-to-hire-ex-trump-officials.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/left-leaning-groups-pressure-companies-not-to-hire-ex-trump-officials.amp"
+  - title: "Trump impeachment trial is 'stupid,' 'bad for the country': Rubio"
+    excerpt: "The Senate impeachment trial of former President Donald Trump is \"stupid\" and \"bad for the country,\" Sen. Marco Rubio said."
+    publishedDateTime: 2021-01-24T16:34:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-8S90EU9loE/trump-impeachment-trial-rubio-senate-republicans"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-trial-rubio-senate-republicans.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-trial-rubio-senate-republicans.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c4154b08-fe99-418d-8f0a-d43f513fd968/7efaa174-84fb-4afa-8014-48f498d22e86/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21020641075301.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Sen. Cory Booker expects Trump impeachment trial 'as quickly as possible'"
+    excerpt: "Sen. Cory Booker, D-N.J., said that after the House voted to impeach President Trump last week, he expects the Senate to hold a trial relatively soon."
+    publishedDateTime: 2021-01-17T19:14:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZXTLAGXiBHs/sen-booker-trump-impeachment-trial-quickly-as-possible"
+    ampWebUrl: "https://www.foxnews.com/politics/sen-booker-trump-impeachment-trial-quickly-as-possible.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-booker-trump-impeachment-trial-quickly-as-possible.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/31a1fe1e-5515-468e-9607-4738d2533c9f/c9629705-1284-496f-9cfa-44d30c4119aa/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "LIVE UPDATES: Republicans propose delaying Trump's impeachment to February"
-    excerpt: "Follow for the latest updates on Trump's impeachment"
-    publishedDateTime: 2021-01-22T06:27:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1TGjES5mEKM/live-updates-trumps-impeachment-1-22-21"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trumps-impeachment-1-22-21.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trumps-impeachment-1-22-21.amp"
+  - title: "Durbin says Trump impeachment trial 'unresolved,' but calls it a 'priority'"
+    excerpt: "Senate Majority Whip Dick Durbin on Thursday said he expects the House may send the article of impeachment to the Senate in \"a day or two,\" maintaining that a trial for former President Donald Trump is \"a priority.\""
+    publishedDateTime: 2021-01-21T16:01:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Gv4S-2VX7vA/durbin-senate-impeachment-trial-timeline-priority"
+    ampWebUrl: "https://www.foxnews.com/politics/durbin-senate-impeachment-trial-timeline-priority.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/durbin-senate-impeachment-trial-timeline-priority.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 173
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e6f7deab-50b8-4854-a772-08d24f875fa1/65962725-c64c-4736-8a52-88203251a4ed/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Schumer makes unfortunate Trump gaffe on Senate floor, social media erupts"
+    excerpt: "Democratic Senate leader Chuck Schumer on Friday made an unfortunate slip of the tongue as he slammed former President Donald Trump’s conduct related to the Jan 6 Capitol riot."
+    publishedDateTime: 2021-01-22T18:42:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/en3jdx2lUY0/schumer-unfortunate-trump-gaffe-senate"
+    ampWebUrl: "https://www.foxnews.com/politics/schumer-unfortunate-trump-gaffe-senate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schumer-unfortunate-trump-gaffe-senate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c01387ab-0b77-4b89-be73-66ffbfcc4ed0/33b7d824-357c-4ae7-acd2-e1bb57ed2c2e/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "LIVE UPDATES: Rand Paul says Trump impeachment would 'destroy' Republican Party"
-    excerpt: "Follow for the latest updates on Trump's impeachment."
-    publishedDateTime: 2021-01-21T05:08:27Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EwKGjSiCdMA/live-updates-trump-impeachment-republican-party-1-21-21"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-impeachment-republican-party-1-21-21.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-impeachment-republican-party-1-21-21.amp"
+  - title: "'QAnon Shaman' willing to testify in Trump's impeachment trial, lawyer says"
+    excerpt: "A man who calls himself the \"QAnon Shaman\" and stormed the U.S. Capitol on Jan. 6 while wearing a horned bearskin headdress, face paint and no shirt, is willing to testify in former President Trump’s upcoming impeachment trial, his lawyer said this week."
+    publishedDateTime: 2021-01-29T04:35:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iS88E0-_gno/qanon-shaman-willing-to-testify-in-trumps-impeachment-trial-lawyer-says"
+    ampWebUrl: "https://www.foxnews.com/politics/qanon-shaman-willing-to-testify-in-trumps-impeachment-trial-lawyer-says.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/qanon-shaman-willing-to-testify-in-trumps-impeachment-trial-lawyer-says.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21028544684163.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Schumer says Dems could censure Trump if impeachment trial ends in acquittal"
+    excerpt: "Few Senate Republicans have indicated a willingness to vote against Trump, making the 67-vote threshold required to convict him a dim proposition for Democratic leaders."
+    publishedDateTime: 2021-02-02T21:30:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xPm87tqf_qI/schumer-dems-could-censure-trump-if-impeachment-doesnt-end-in-conviction"
+    ampWebUrl: "https://www.foxnews.com/politics/schumer-dems-could-censure-trump-if-impeachment-doesnt-end-in-conviction.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schumer-dems-could-censure-trump-if-impeachment-doesnt-end-in-conviction.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7f69f637-0c95-40e7-bc37-57c7e1df7af2/b983ea9c-8f51-4de1-b6c0-9bcf06eb3a0e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump impeachment lawyer speaks out: 'I'm not worried what other people think'"
+    excerpt: "The Senate impeachment trial of former President Donald Trump is set to take place in February, and his defense will not be handled by a major law firm or oft-cited professor, but by a South Carolina solo practitioner."
+    publishedDateTime: 2021-01-27T18:48:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/shynNZ2LIwA/trump-impeachment-lawyer-karl-butch-bowers"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-lawyer-karl-butch-bowers.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-lawyer-karl-butch-bowers.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 171
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9b3bf83a-8f2c-4d51-b060-ec5c216a84d9/296dc905-2158-4193-a3ea-26a5dc196e20/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/014cb16e-10ee-418f-8311-4a5decc760d5/9eca4331-2af2-4826-bc27-a9ad075dec4b/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Live Updates: Increasing number of GOP senators oppose Trump impeachment trial"
-    excerpt: "Sen. Marco Rubio, R-Fla called the upcoming trial of Trump 'stupid' and harmful for the US"
-    publishedDateTime: 2021-01-25T05:00:00Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/F15eZACVzGo/live-updates-trump-impeachment-1-25-2021"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-impeachment-1-25-2021.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-impeachment-1-25-2021.amp"
+  - title: "Trump and McCarthy set up face-to-face meeting as Dems weigh impeachment trial options."
+    excerpt: "Former President Donald trump is expected to meet with House Minority Leader Kevin McCarthy in Florida Thursday, Fox News has learned."
+    publishedDateTime: 2021-01-27T21:18:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vWPpr7YrKEI/trump-and-mccarthy-set-up-face-to-face-meeting-as-dems-weigh-impeachment-trial-options"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-and-mccarthy-set-up-face-to-face-meeting-as-dems-weigh-impeachment-trial-options.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-and-mccarthy-set-up-face-to-face-meeting-as-dems-weigh-impeachment-trial-options.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 171
+    quality: 167
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/219f5b85-85d3-4586-8e42-e015f131035e/05980f72-2d65-4a8d-bcf0-d16c88e6dd3c/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/315610d9-582f-4881-a5ac-41962b062276/a07fe9a0-d66c-4947-9b89-c7a2419e8962/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Liz Cheney’s popularity in Wyoming sinks after impeachment vote, Trump PAC claims"
-    excerpt: "Republican U.S. Rep. Liz Cheney is paying a price for supporting former President Trump’s impeachment, a poll commissioned by Trump’s political operation suggests, according to a report."
-    publishedDateTime: 2021-01-28T06:19:30Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2scucRw7-Fw/liz-cheneys-popularity-in-wyoming-sinks-after-impeachment-vote-trump-pac-claims"
-    ampWebUrl: "https://www.foxnews.com/politics/liz-cheneys-popularity-in-wyoming-sinks-after-impeachment-vote-trump-pac-claims.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/liz-cheneys-popularity-in-wyoming-sinks-after-impeachment-vote-trump-pac-claims.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/05c82de6-c14d-4137-89d3-071d65d22423/e9007209-f228-4dbe-a90e-c50c3ef80488/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "No apology from Cheney during House GOP showdown over her Trump impeachment vote"
-    excerpt: "No apology from Liz Cheney during House GOP showdown over her Trump impeachment vote"
-    publishedDateTime: 2021-02-04T00:03:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/y0ymL9ljm4I/no-apology-from-cheney-during-house-gop-showdown-over-her-trump-impeachment-vote"
-    ampWebUrl: "https://www.foxnews.com/politics/no-apology-from-cheney-during-house-gop-showdown-over-her-trump-impeachment-vote.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/no-apology-from-cheney-during-house-gop-showdown-over-her-trump-impeachment-vote.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "LIVE UPDATES: Wyoming GOP votes to censure Liz Cheney over Trump impeachment vote"
-    excerpt: "Follow for the latest updates on Trump's impeachment."
-    publishedDateTime: 2021-02-07T06:54:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uEtcbHEssew/live-updates-impeachment-trump-2-7-21"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-impeachment-trump-2-7-21.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-impeachment-trump-2-7-21.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e0dfedbd-dfc4-4cd5-b565-1133911fbe12/aec38a4d-cbe6-43fa-8ed2-28829a019de7/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Alaska's Murkowski pledges to stay with Senate Republicans despite issues with Trump"
-    excerpt: "Moderate GOP Sen. Lisa Murkowski has been very vocal for years that she’s no fan of Donald Trump’s takeover of the Republican Party."
-    publishedDateTime: 2021-01-22T21:51:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8BRqRHno_1E/alaskas-murkowski-pledges-to-stay-with-senate-gop-despite-issues-with-trump"
-    ampWebUrl: "https://www.foxnews.com/politics/alaskas-murkowski-pledges-to-stay-with-senate-gop-despite-issues-with-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/alaskas-murkowski-pledges-to-stay-with-senate-gop-despite-issues-with-trump.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Live Updates: Trump's chances for acquittal in upcoming Senate impeachment trial unclear"
-    excerpt: "Fox News contacted every Republican who will be serving as a senator after President-elect Joe Biden's inauguration on January 20, when the trial is likely to begin."
-    publishedDateTime: 2021-01-15T06:05:37Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_VZN_LyUW1o/live-updates-trump-impeachment-1-15-2021"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-impeachment-1-15-2021.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-impeachment-1-15-2021.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/016de1e0-c12a-46c1-9ddc-3c1c9fd30c07/dabd96c7-2531-4829-823c-dcdd9c99015a/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "LIVE UPDATES: Trump approval rating hits record low following Capitol riots, impeachment"
-    excerpt: "Follow for the latest updates on Trump's impeachment."
-    publishedDateTime: 2021-01-17T06:35:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pXYMihNmQ24/live-updates-trump-impeachment-1-17-21"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-impeachment-1-17-21.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-impeachment-1-17-21.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/02845566-c1a6-42e7-9202-5c6b639a7bed/83235e5a-73da-4cbc-955e-9881d4b374ea/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "'Huge mistake' for Republican leadership to go along with Trump impeachment: Sen. Rand Paul"
-    excerpt: "Impeaching former President Donald Trump would be a \"huge mistake\" and would \"destroy\" the Republican Party, Sen. Rand Paul, R-Ky., said on Wednesday."
-    publishedDateTime: 2021-01-20T20:36:48Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bZ10p0F898c/republican-party-destroyed-if-senators-impeachment"
-    ampWebUrl: "https://www.foxnews.com/politics/republican-party-destroyed-if-senators-impeachment.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republican-party-destroyed-if-senators-impeachment.amp"
+  - title: "McConnell says Trump 'provoked' the Capitol riot as Senate weighs another impeachment trial"
+    excerpt: "Senate Majority Leader Mitch McConnell, R-Ky., placed blame on President Trump for the riot at the Capitol on Jan. 6 that left five people dead, including a Capitol police officer."
+    publishedDateTime: 2021-01-19T18:53:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3C57DnXc1iQ/mcconnell-trump-capitol-riot-senate-weighs-another-impeachment-trial"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-trump-capitol-riot-senate-weighs-another-impeachment-trial.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-trump-capitol-riot-senate-weighs-another-impeachment-trial.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 165
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Romney on Trump impeachment: 'If we're going to have unity,' there must be 'accountability'"
-    excerpt: "Sen. Mitt Romney, R-Utah, expressed support for the upcoming impeachment trial of former President Donald Trump, telling \"Fox News Sunday\" that it was necessary to achieve justice."
-    publishedDateTime: 2021-01-24T14:46:23Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ROpovByjxzo/romney-trump-impeachment-trial-fox-news-sunday"
-    ampWebUrl: "https://www.foxnews.com/politics/romney-trump-impeachment-trial-fox-news-sunday.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/romney-trump-impeachment-trial-fox-news-sunday.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7d395ede-3f62-4578-9c51-bb85dbc5b5ec/69007cf2-5cc4-4c47-8e93-d0f6f59af9f8/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Gaetz traveling to Wyoming to take aim at Cheney amid uproar over her Trump impeachment vote"
-    excerpt: "One of former President Trump’s top supporters in the House of Representatives is targeting one of Trump’s biggest House GOP critics. Rep. Matt Gaetz of Florida is heading to House Republican Conference Chair Liz Cheney’s home state of Wyoming on Thursday, where he’ll hold an event outside the state"
-    publishedDateTime: 2021-01-25T15:56:00Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TEraHAR3f6c/gaetz-traveling-to-wyoming-to-take-aim-at-cheney-amid-uproar-over-her-trump-impeachment-vote"
-    ampWebUrl: "https://www.foxnews.com/politics/gaetz-traveling-to-wyoming-to-take-aim-at-cheney-amid-uproar-over-her-trump-impeachment-vote.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gaetz-traveling-to-wyoming-to-take-aim-at-cheney-amid-uproar-over-her-trump-impeachment-vote.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 164
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21007146978656.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Rand Paul calls Trump impeachment trial ‘dead on arrival’ after 45 GOP senators vote against it"
     excerpt: "U.S. Sen. Rand Paul declared former President Trump’s Senate impeachment trial \"dead on arrival\" on Tuesday after 45 Senate Republicans voted against holding the proceeding, viewing it as unconstitutional."
@@ -287,19 +207,19 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Cheney on calls to step down after impeachment vote: I'm 'confident' GOP will be united against Biden"
-    excerpt: "Rep. Liz Cheney, R-Wyo., was less interested Thursday in discussing backlash from the party over her vote to impeach former President Donald Trump last week than how congressional Republicans plan to check President Biden's agenda."
-    publishedDateTime: 2021-01-21T17:15:34Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RjwgSoA0E8Y/cheney-step-down-impeachment-vote-confident-gop-biden"
-    ampWebUrl: "https://www.foxnews.com/politics/cheney-step-down-impeachment-vote-confident-gop-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cheney-step-down-impeachment-vote-confident-gop-biden.amp"
+  - title: "Trump selects Mark Meadows, lawyers from first impeachment to handle document requests ahead of new trial"
+    excerpt: "Former President Trump has reportedly chosen Mark Meadows, his former chief of staff, and the defense lawyers from his first impeachment case to handle requests for his White House records, according to reports."
+    publishedDateTime: 2021-01-22T10:56:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/y52pmmV5zuE/trump-selects-mark-meadows-lawyers-from-first-impeachment-to-handle-document-requests-ahead-of-new-trial"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-selects-mark-meadows-lawyers-from-first-impeachment-to-handle-document-requests-ahead-of-new-trial.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-selects-mark-meadows-lawyers-from-first-impeachment-to-handle-document-requests-ahead-of-new-trial.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 160
+    quality: 158
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/99358d26-af6a-480e-ad64-fc605954db0c/0a1a97f5-1c2e-489a-8e0a-312e92622968/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e6f7deab-50b8-4854-a772-08d24f875fa1/65962725-c64c-4736-8a52-88203251a4ed/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -319,65 +239,51 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "At Wyoming rally, Trump ally Gaetz blasts Cheney over impeachment"
-    excerpt: "One of former President Trump’s top supporters in Congress held a rally Thursday in Wyoming to blast the state’s sole House member – Rep. Liz Cheney – the most high profile House Republican to vote two weeks ago to impeach Trump."
-    publishedDateTime: 2021-01-28T23:00:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/S3HslqUexI0/wyoming-rally-trump-ally-gaetz-blasts-cheney-impeachment"
+  - title: "Schumer says Pelosi to deliver Trump impeachment article Monday, triggering trial amid standoff with McConnell"
+    excerpt: "Senate Democratic leader Chuck Schumer said on Friday that Speaker of the House Nancy Pelosi has informed him that the article of impeachment against President Trump will be delivered to the Senate on Monday, paving the way for a trial."
+    publishedDateTime: 2021-01-22T15:20:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bkwuzSbf1rw/schumer-pelosi-will-deliver-article-of-impeachment-to-senate-on-monday"
+    ampWebUrl: "https://www.foxnews.com/politics/schumer-pelosi-will-deliver-article-of-impeachment-to-senate-on-monday.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schumer-pelosi-will-deliver-article-of-impeachment-to-senate-on-monday.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 155
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/Matt-Gaetz-Liz-Cheney.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Left-leaning groups pressure companies not to hire ex-Trump officials"
-    excerpt: "The \"Campaign against Corporate Complicity\" calls for major corporations to pledge not to hire former senior Trump administration officials who helped to implement “cruel and anti-democratic policies."
-    publishedDateTime: 2021-01-26T20:38:00Z
-    webUrl: "https://www.foxnews.com/politics/left-leaning-groups-pressure-companies-not-to-hire-ex-trump-officials"
-    ampWebUrl: "https://www.foxnews.com/politics/left-leaning-groups-pressure-companies-not-to-hire-ex-trump-officials.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/left-leaning-groups-pressure-companies-not-to-hire-ex-trump-officials.amp"
+  - title: "Trump impeachment manager Swalwell on trial: 'If the Senate allows witnesses, we will be ready with witnesses'"
+    excerpt: "Rep. Eric Swalwell, who will help prosecute former President Trump for \"incitement of insurrection,\" said House impeachment managers are prepared to call witnesses at the upcoming Senate trial. "
+    publishedDateTime: 2021-01-23T20:00:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/losYKWa57gE/trump-impeachment-manager-swalwell-trial-if-senate-allows-witnesses-we-will-be-ready"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-manager-swalwell-trial-if-senate-allows-witnesses-we-will-be-ready.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-manager-swalwell-trial-if-senate-allows-witnesses-we-will-be-ready.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 135
+    quality: 155
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c4154b08-fe99-418d-8f0a-d43f513fd968/7efaa174-84fb-4afa-8014-48f498d22e86/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/swalwell-walking-masked.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Wyoming GOP censures Liz Cheney over Trump impeachment vote"
-    excerpt: "The Wyoming Republican Party voted overwhelmingly Saturday to censure U.S. Rep. Liz Cheney for voting to impeach President Donald Trump for his role in the Jan. 6 riot at the U.S."
-    publishedDateTime: 2021-02-07T00:31:00Z
-    webUrl: "https://nypost.com/2021/02/06/wyoming-republicans-censure-liz-cheney-over-trump-impeachment/"
-    ampWebUrl: "https://nypost.com/2021/02/06/wyoming-republicans-censure-liz-cheney-over-trump-impeachment/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/06/wyoming-republicans-censure-liz-cheney-over-trump-impeachment/amp/"
+  - title: "Chuck Schumer says Trump impeachment article going to Senate on Monday"
+    excerpt: "House Speaker Nancy Pelosi will send a single article of impeachment against Donald Trump to the Senate on Monday, clearing the way for his trial to start next week, Senate"
+    publishedDateTime: 2021-01-22T16:00:00Z
+    webUrl: "https://nypost.com/2021/01/22/donald-trump-impeachment-article-will-go-to-senate-on-monday/"
+    ampWebUrl: "https://nypost.com/2021/01/22/donald-trump-impeachment-article-will-go-to-senate-on-monday/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/22/donald-trump-impeachment-article-will-go-to-senate-on-monday/amp/"
     type: article
     provider:
       name: New York Post
       domain: nypost.com
     quality: 135
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/Liz-Cheney-1.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Sen. Rand Paul says Chief Justice Roberts won’t take Trump impeach trial"
-    excerpt: "As Democrats plunge ahead with a post-term impeachment trial of President Donald Trump, a key question remains: Will Chief Justice Roberts take the case? Republican Sen. Rand Paul of Kentucky says"
-    publishedDateTime: 2021-01-23T23:06:00Z
-    webUrl: "https://nypost.com/2021/01/23/sen-rand-paul-says-chief-justice-roberts-wont-take-trump-impeach-trial/"
-    ampWebUrl: "https://nypost.com/2021/01/23/sen-rand-paul-says-chief-justice-roberts-wont-take-trump-impeach-trial/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/23/sen-rand-paul-says-chief-justice-roberts-wont-take-trump-impeach-trial/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 134
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/Rand-Paul-impeachment.jpg?quality=90&strip=all&w=1200"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/schumer-impeachment-30.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true
@@ -397,6 +303,102 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "57 percent of voters say Trump impeachment will further divide Americans"
+    excerpt: "More than half of likely voters say in a new poll that former President Trump being tried in the Senate over his House impeachment would further divide an already politically-torn nation. The"
+    publishedDateTime: 2021-01-28T21:55:00Z
+    webUrl: "https://nypost.com/2021/01/28/most-voters-feel-trump-impeachment-will-divide-nation-more/"
+    ampWebUrl: "https://nypost.com/2021/01/28/most-voters-feel-trump-impeachment-will-divide-nation-more/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/28/most-voters-feel-trump-impeachment-will-divide-nation-more/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 134
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/Trump-impeachment-divide-Americans-2-1.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Schumer makes unfortunate Trump gaffe on Senate floor, social media erupts"
+    excerpt: "Democratic Senate leader Chuck Schumer on Friday made an unfortunate slip of the tongue as he slammed former President Donald Trump’s conduct related to the Jan 6 Capitol riot."
+    publishedDateTime: 2021-01-22T18:49:00Z
+    webUrl: "https://www.foxnews.com/politics/schumer-unfortunate-trump-gaffe-senate"
+    ampWebUrl: "https://www.foxnews.com/politics/schumer-unfortunate-trump-gaffe-senate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schumer-unfortunate-trump-gaffe-senate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 133
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c01387ab-0b77-4b89-be73-66ffbfcc4ed0/33b7d824-357c-4ae7-acd2-e1bb57ed2c2e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "ABC’s 'This Week' edits out Schumer’s unfortunate Trump gaffe on Senate floor"
+    excerpt: "Democratic Senate leader Chuck Schumer was ridiculed on Friday for an unfortunate gaffe he made while criticizing former President Donald Trump’s supposed influence on the Jan. 6 Capitol riot. But Schumer’s error was conveniently edited out in a clip that aired Sunday on ABC’s “This Week."
+    publishedDateTime: 2021-01-24T20:29:00Z
+    webUrl: "https://www.foxnews.com/media/abcs-this-week-edits-out-schumers-gaffe"
+    ampWebUrl: "https://www.foxnews.com/media/abcs-this-week-edits-out-schumers-gaffe.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/abcs-this-week-edits-out-schumers-gaffe.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 132
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/219f5b85-85d3-4586-8e42-e015f131035e/05980f72-2d65-4a8d-bcf0-d16c88e6dd3c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Ingraham: Second Senate impeachment trial of Trump will be 'ugly, feudal farce'"
+    excerpt: "Senate Majority Leader Chuck Schumer's commitment to holding a post-presidential impeachment trial of Donald Trump sets the stage for an \"ugly, feudal farce,\" Laura Ingraham said Friday."
+    publishedDateTime: 2021-01-23T04:39:00Z
+    webUrl: "https://www.foxnews.com/media/laura-ingraham-trump-impeachment-trial-ugly-feudal-farce"
+    ampWebUrl: "https://www.foxnews.com/media/laura-ingraham-trump-impeachment-trial-ugly-feudal-farce.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/laura-ingraham-trump-impeachment-trial-ugly-feudal-farce.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 131
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7f803e6d-1655-44a5-bb1a-14973471d214/5337238f-a929-46b9-8827-dbae154b3388/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump impeachment lawyer speaks out: 'I'm not worried what other people think'"
+    excerpt: "The Senate impeachment trial of former President Donald Trump is set to take place in February, and his defense will not be handled by a major law firm or oft-cited professor, but by a South Carolina solo practitioner."
+    publishedDateTime: 2021-01-27T18:51:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-impeachment-lawyer-karl-butch-bowers"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-lawyer-karl-butch-bowers.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-lawyer-karl-butch-bowers.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 131
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/014cb16e-10ee-418f-8311-4a5decc760d5/9eca4331-2af2-4826-bc27-a9ad075dec4b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump and McCarthy set up face-to-face meeting as Dems weigh impeachment trial options."
+    excerpt: "Former President Donald trump is expected to meet with House Minority Leader Kevin McCarthy in Florida Thursday, Fox News has learned."
+    publishedDateTime: 2021-01-27T21:21:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-and-mccarthy-set-up-face-to-face-meeting-as-dems-weigh-impeachment-trial-options"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-and-mccarthy-set-up-face-to-face-meeting-as-dems-weigh-impeachment-trial-options.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-and-mccarthy-set-up-face-to-face-meeting-as-dems-weigh-impeachment-trial-options.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 127
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/315610d9-582f-4881-a5ac-41962b062276/a07fe9a0-d66c-4947-9b89-c7a2419e8962/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump impeachment article being sent to Senate Monday, triggering trial to start in earnest next month"
     excerpt: "Just before 7 p.m. on Monday, the House of Representatives' impeachment managers will march an article accusing former President Trump of inciting an insurrection across to the Senate side of the Capitol,"
     publishedDateTime: 2021-01-25T14:48:00Z
@@ -412,50 +414,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/chuck-Schumer.jpg?ve=1&tl=1"
         width: 640
         height: 320
-        isCached: true
-  - title: "As McCarthy seeks unity with Trump, Gaetz slams Cheney in Wyoming amid speculation over Trump-backed primary"
-    excerpt: "Rep. Matt Gaetz traveled to Wyoming on Thursday to call for the ouster of House Republican Caucus Chair Liz Cheney over her vote to impeach former President Trump, underscoring the divisions in the GOP at grapples with its identity in the wake of Trump's presidency."
-    publishedDateTime: 2021-01-29T13:02:00Z
-    webUrl: "https://www.foxnews.com/politics/liz-cheney-matt-gaetz-kevin-mccarthy-donald-trump-republicans"
-    ampWebUrl: "https://www.foxnews.com/politics/liz-cheney-matt-gaetz-kevin-mccarthy-donald-trump-republicans.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/liz-cheney-matt-gaetz-kevin-mccarthy-donald-trump-republicans.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 116
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/Rep-Liz-Cheney.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "At Wyoming rally, Trump ally Gaetz blasts Cheney over impeachment"
-    excerpt: "One of former President Trump’s top supporters in Congress held a rally Thursday in Wyoming to blast the state’s sole House member – Rep. Liz Cheney – the most high profile House Republican to vote two weeks ago to impeach Trump."
-    publishedDateTime: 2021-01-28T23:03:00Z
-    webUrl: "https://www.foxnews.com/politics/wyoming-rally-trump-ally-gaetz-blasts-cheney-impeachment"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 115
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/Matt-Gaetz-Liz-Cheney.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Sen. McConnell Told Republicans He Would Propose Starting Trump Impeachment Trial in Two Weeks"
-    excerpt: "Senate Minority Leader Mitch McConnell told Republicans he would propose starting former President Donald Trump’s impeachment trial in two weeks to give his legal team time to prepare, GOP aides said Thursday."
-    publishedDateTime: 2021-01-22T15:50:00Z
-    webUrl: "https://www.wsj.com/livecoverage/biden-presidential-inauguration-2021/card/947EESLmJP9kMhQom8Hk"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 103
-    images:
-      - url: "https://images.wsj.net/im-288864?size=1.5"
-        width: 1280
-        height: 853
         isCached: true
 
 secured: "67m7TTMpBo9wIc+H4rgQilAEUyNNFAesKm59SJLkQ5WRNi5XkoyuYJUVY/WgPzYGuxQS7DSrO9eQM3lJ+CXCJs6t232YVlqA3NnEkGuzK0hPATy79dYeewDEh0uLscUnoIbt3wY0/lksD/hgfJwhl7dBlxxcplyoE0Mn/lvALjsaJQZKMvbctE3doH9XsSn8ePmlWC2kmJ3v4l/nfSWS0Aw1B9jXhk89kPF6XsyBLO6jP9r5pxNdx9EXqpadpr7kGox7UwIL3RCx+k9f1U9NKULWsxnXbwujD5eahRJAC2/68XpY38H/n2AwXhyarLaLcpuVCwxz5QVBKOE9qbVAbO41A6ORWSKhwj2iPAr4xq8=;ehgIR+ToNXWyhF3WWXEhjg=="

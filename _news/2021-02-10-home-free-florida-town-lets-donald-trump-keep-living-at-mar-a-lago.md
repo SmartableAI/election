@@ -3,8 +3,8 @@ category: news
 title: "Home free: Florida town lets Donald Trump keep living at Mar-a-Lago"
 excerpt: "Palm Beach town council gave short shrift to a request from neighbors to ban the former president from residing at his resort"
 publishedDateTime: 2021-02-10T15:16:00Z
-originalUrl: "https://www.theguardian.com/us-news/2021/feb/10/donald-trump-mar-a-lago-florida?ICID=ref_fark"
-webUrl: "https://www.theguardian.com/us-news/2021/feb/10/donald-trump-mar-a-lago-florida?ICID=ref_fark"
+originalUrl: "https://www.theguardian.com/us-news/2021/feb/10/donald-trump-mar-a-lago-florida?fbclid=IwAR3PyY-3_RFZ7fDA0sp6a6iDG_IPNWBPkg8ef1UTZZqRLmSHxGvxTv_8XNM"
+webUrl: "https://www.theguardian.com/us-news/2021/feb/10/donald-trump-mar-a-lago-florida?fbclid=IwAR3PyY-3_RFZ7fDA0sp6a6iDG_IPNWBPkg8ef1UTZZqRLmSHxGvxTv_8XNM"
 ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/10/donald-trump-mar-a-lago-florida"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/10/donald-trump-mar-a-lago-florida"
 type: article
@@ -48,6 +48,6 @@ related:
         height: 1667
         isCached: true
 
-secured: "Y/JmbuVrlnBFCoJ7XDpJvzoaIbEoYcmojGXez1yz/A4yBO/7ID+GC0lYfzH3eAR+9LRLcNKVbQDX4re3Hp1bTwfAvNhGtN1PrTKoyLLeJCP9xCxgzXyx/jmTQ/cZEUVLoh2OsowFNQ7vVYNge226mlj12pdJdpbwTgAJaR21E9pAcm8w50dJWgygq+qquxzGQCMp5RrGGLdqOF1Pzx2qlQBZ/7bXZ/2m4+iv0kwNt7ICNvvRrf7Wi1tCgFGxKpiTnn3ovAL7t9S1gA9b6m5aT2sRAZe2Fsx8qsjH5btZBoJfimJC+iTiJFDk382+09WFeECcRvbKGZ4U6/YLiJuI1+nZZXetCQ7+UEvxdPvzKvo=;x91JNu+Mj7aiAjGb+NJUJA=="
+secured: "8l004ocDponZt+mL7LEOob6M8PX0kTh0PXCaaGghF4VfhaChV0gbk5oX4BvEjvPljqy9WaH8uEC1tfxg6l+COBnQtgVU9BI0UFG+swXy60XP9DFnV4nHWbf3++kD0fDwk09fJyYN9s/dnf5a7aTDH8wDgFGhYBXIqO14eh6nULWLs3C0gKElcQA77tNRIcD7l+zOXFoiYDD5YZfph7K+lzEm65fbFKtvhnKcJ4JKblEsewdFs+VcbStxHxSzAZCgsQp6GUzr0qXFOlaXIaIUh16f08SPVXuoV3mmVj+SckhHc2T+LLVtyPM+VTk97+eax3Ah3S1Cv9SbNnCAOjFYMEDIC3/gxLpSEdx96NruJ88=;hCX4IKmONZnEWELb7DSATQ=="
 ---
 

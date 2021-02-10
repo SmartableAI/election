@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/20/politics/lil-wayne-kodak-black-tr
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/20/politics/lil-wayne-kodak-black-trump/index.html"
 type: article
 quality: 162
-heat: 162
+heat: 182
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "DC attorney general wants to interview Donald Trump Jr. as part of Trump inaugural funds abuse probe"
+    excerpt: "The DC attorney general's office has notified President Donald Trump's son, Donald Trump Jr., that it would like to interview him as part of its investigation into misuse of his father's inaugural funds, a spokesperson with the office tells at CNN.\n    \n"
+    publishedDateTime: 2021-01-14T20:49:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iYHAPLPtFC8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/14/politics/dc-attorney-general-donald-trump-jr-inaugural-funds-abuse/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/14/politics/dc-attorney-general-donald-trump-jr-inaugural-funds-abuse/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201120195947-06-donald-trump-jr-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "QYFiw1Z17b7rbaDTBXecOytilvkHcGKjzYTzU2sYdOuluWA0vyuzQj7YvrbnHGBd8cNfJhosLXafnaBZzfeEhx03V4mVZmQJxkqyL07yWoaNT/Tox9+d89fEK7L4emBY51E5ci5R45sZIrvzGFqIgUHkQcU4P/dKfZi6yBcQ+relk9LBVlToCWRi1htoDRSbJ9AsWInEarOmq7d8p5tVz4bd1o5n8ESo+40N6prKQ6dhlmVbM5Q0pybAKtPcVU1ZhzsneR69XBUQfShhk7EfrKXGA7ge60R1n2wXSnv4H9wg0HqJmDX7w90HOlO+Rx/eZjmCHdrdX/VL2Oj6OHJigSoJiFSbenaMDxALkhy7RsU=;t+F0FpOyHbeiv2GtnPxHlg=="
 ---

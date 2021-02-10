@@ -26,86 +26,109 @@ images:
     isCached: true
 
 related:
-  - title: "Biden says Capitol was stormed by ‘riotous mob,' 'domestic terrorists’"
-    excerpt: "President-elect Joe Biden says that the supporters of President Trump who attacked the Capitol on Wednesday were “a riotous mob” and “domestic terrorists.”"
-    publishedDateTime: 2021-01-07T20:12:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3RLhrHSD30c/biden-capitol-stormed-riotous-mob-domestic-terrorists"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-capitol-stormed-riotous-mob-domestic-terrorists.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-capitol-stormed-riotous-mob-domestic-terrorists.amp"
+  - title: "Biden: Trump 'not above the law. Justice serves the people — it doesn’t protect the powerful'"
+    excerpt: "President-elect Joe Biden said on Twitter Saturday that President Trump is “not above the law,” after the House announced it would be bringing forth articles of impeachment on Monday."
+    publishedDateTime: 2021-01-10T01:55:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5m1UToI_cQo/biden-trump-not-above-law"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-not-above-law.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-not-above-law.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 179
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/AP21007689539650.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Will Democrats impeach Trump before he leaves office? How it would work"
+    excerpt: "Pelosi says Democrats could consider a second set of articles of impeachment for the president next week."
+    publishedDateTime: 2021-01-08T19:44:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/u11dFic2Ue8/will-democrats-impeach-trump-how-it-works"
+    ampWebUrl: "https://www.foxnews.com/politics/will-democrats-impeach-trump-how-it-works.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/will-democrats-impeach-trump-how-it-works.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Biden’s Electoral College victory certified -- hours after Capitol chaos"
-    excerpt: "The U.S. Congress early Thursday certified the Electoral College vote that gave Democrat Joe Biden his presidential victory -- after a day in Washington that was marred by pro-Trump protesters storming the U.S. Capitol."
-    publishedDateTime: 2021-01-07T08:41:50Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/d4BhuT_UjKU/congress-certifies-bidens-electoral-college-victory-after-day-of-chaos-at-capitol"
-    ampWebUrl: "https://www.foxnews.com/politics/congress-certifies-bidens-electoral-college-victory-after-day-of-chaos-at-capitol.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/congress-certifies-bidens-electoral-college-victory-after-day-of-chaos-at-capitol.amp"
+  - title: "Article of impeachment against Trump to be introduced Monday in House"
+    excerpt: "Rep. Ted Lieu, D-Calif., said Saturday that the House had reached 180 co-sponsors for an Article of Impeachment against President Trump, and the chamber would introduce the measure on Monday. "
+    publishedDateTime: 2021-01-09T20:47:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BN1avJc5Pa0/article-of-impeachment-trump-january-11-house"
+    ampWebUrl: "https://www.foxnews.com/politics/article-of-impeachment-trump-january-11-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/article-of-impeachment-trump-january-11-house.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 174
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2019/09/26/694940094001_6089811276001_6089809166001-vs.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Biden joins claims of ‘white privilege’ directed towards U.S. Capitol rioters"
-    excerpt: "In response to the surprisingly unaggressive reaction to pro-Trump supporters mobbing the U.S. Capitol on bWednesday, President-elect Joe Biden joined lawmakers in questioning whether the reaction would have been the same had the rioters been Black Lives Matter demonstrators."
-    publishedDateTime: 2021-01-08T01:11:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/l0hgNFl7mTM/biden-joins-claims-of-white-privilege-directed-towards-u-s-capitol-rioters"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-joins-claims-of-white-privilege-directed-towards-u-s-capitol-rioters.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-joins-claims-of-white-privilege-directed-towards-u-s-capitol-rioters.amp"
+  - title: "Biden: 'Not afraid' to take oath outside amid inauguration security concerns"
+    excerpt: "President-elect Joe Biden says he’s “not afraid” to take the oath of office outside during his inauguration next week."
+    publishedDateTime: 2021-01-11T20:24:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yBbMG1YspiY/inauguration-security-concerns-biden-not-afraid-oath-outside"
+    ampWebUrl: "https://www.foxnews.com/politics/inauguration-security-concerns-biden-not-afraid-oath-outside.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/inauguration-security-concerns-biden-not-afraid-oath-outside.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 172
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e1983e09-3cb7-4c5b-9df2-9194e77caca0/b2982378-fec2-4b3a-8528-b14e4db9cf92/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Biden says Capitol was stormed by ‘riotous mob,' 'domestic terrorists’"
-    excerpt: "President-elect Joe Biden says that the supporters of President Trump who attacked the Capitol on Wednesday were “a riotous mob” and “domestic terrorists.”"
-    publishedDateTime: 2021-01-07T20:16:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-capitol-stormed-riotous-mob-domestic-terrorists"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-capitol-stormed-riotous-mob-domestic-terrorists.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-capitol-stormed-riotous-mob-domestic-terrorists.amp"
+  - title: "Biden: 'Not afraid' to take oath outside amid inauguration security concerns"
+    excerpt: "President-elect Joe Biden says he’s “not afraid” to take the oath of office outside during his inauguration next week."
+    publishedDateTime: 2021-01-11T20:32:00Z
+    webUrl: "https://www.foxnews.com/politics/inauguration-security-concerns-biden-not-afraid-oath-outside"
+    ampWebUrl: "https://www.foxnews.com/politics/inauguration-security-concerns-biden-not-afraid-oath-outside.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/inauguration-security-concerns-biden-not-afraid-oath-outside.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 135
+    quality: 132
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21006854495058.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21011684189408.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Capitol riot: Media mirrors Biden by vilifying police, comparing response to Black Lives Matter protests"
-    excerpt: "As America attempts to recover from the Capitol riot, everyone from President-elect Joe Biden and NBA star LeBron James to members of the mainstream media such as Joy Behar and Joy Reid have vilified police officers for their role in the tragic event."
-    publishedDateTime: 2021-01-08T22:16:00Z
-    webUrl: "https://www.foxnews.com/media/capitol-riot-media-athletes-echo-biden-by-vilifying-police"
-    ampWebUrl: "https://www.foxnews.com/media/capitol-riot-media-athletes-echo-biden-by-vilifying-police.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/capitol-riot-media-athletes-echo-biden-by-vilifying-police.amp"
+  - title: "Trump Allies Criticize Twitter’s Ban on President’s Account"
+    excerpt: "Allies of President Trump decried Twitter’s ban of his account, arguing it represented the biggest move yet to silence conservative voices. “Big Tech’s PURGE, censorship & abuse of power is absurd & profoundly dangerous,"
+    publishedDateTime: 2021-01-09T20:32:00Z
+    webUrl: "https://www.wsj.com/livecoverage/trump-impeachment-democrats-biden-latest/card/7XmDAvtSs487MuOTpGUZ"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 118
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 115
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6d2e324c-20b7-4074-9116-7e3e04976045/9c068f94-827e-4577-a06e-e7d4547cf61d/1280x720/match/image.jpg"
+      - url: "https://images.wsj.net/im-283158?size=1.5"
         width: 1280
-        height: 720
+        height: 853
         isCached: true
+  - title: "Why Ban of President Trump Proves Twitter Not 'Just a Platform'"
+    excerpt: "So Twitter has permanently banned President Donald Trump's account. While this will please Democrats, and perhaps lessen the (justifiable) heat the company is taking from regulators, it just prov… This is what happened."
+    publishedDateTime: 2021-01-09T14:56:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/01/09/why_ban_of_president_trump_proves_twitter_not_just_a_platform_533042.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "itVx2NlFuFP691tTERK43fkZQwHBDRTXEGSg3RD8MCHgQxBNSyeas170rHVbxyJdwgXI95/6co51odjZT6genIJ0xweiqRdouqE9uRMhTV+6WemATo4G/IvImE6zBYCH1mOTnGoOvhaRgWL5eRdvjXVpCFjJbhQSGjFIzJAqbHJU3UM8wjNMdVv804/pRSwxjWWVYA+8Ssauzrtk8mppOcnAGtlqjVjOWmwrwQkbzJgaT6S488etzzqzHHG+GeK3c8nnzx53H+AL0y7q9tSsxgFT5zUy4hp/gDsG2dXIuiA/bPQOoUQHSAWcqriHgy6YemLWANP41YsAIJnuScXtq5oHbZQGO28ZA6CqxoJiZoA=;y6gra7uXqEyI6NMbY5mFLQ=="
 ---

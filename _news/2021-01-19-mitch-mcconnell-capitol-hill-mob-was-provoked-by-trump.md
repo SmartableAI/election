@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/19/politics/mitch-mcconnell-rioters-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/mitch-mcconnell-rioters-provoked/index.html"
 type: article
 quality: 175
-heat: -1
-published: false
+heat: 355
+published: true
 
 provider:
   name: CNN
@@ -31,69 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Here's how Mitch McConnell is planning to kill Trump's $2,000 checks"
-    excerpt: "Less than 48 hours after President Donald Trump claimed that \"the Senate will start the process for a vote that increases checks to $2,000, repeals Section 230, and starts an investigation into voter fraud,\" the actual boss of the Senate had his say.\n    \n"
-    publishedDateTime: 2020-12-30T00:48:08Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4U1Pttbp4fo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/29/politics/mcconnell-trump-senate-covid-stimulus-checks/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/29/politics/mcconnell-trump-senate-covid-stimulus-checks/index.html"
+  - title: "McConnell proposes delaying impeachment trial until February so Trump team can prepare"
+    excerpt: "The timing of former President Donald Trump's Senate impeachment trial is still unsettled while Senate leaders haggle over how a power-sharing agreement will govern a 50-50 Senate.\n    \n"
+    publishedDateTime: 2021-01-22T02:55:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rjYhHedOgIc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/21/politics/nancy-pelosi-impeachment-timing/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/21/politics/nancy-pelosi-impeachment-timing/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 167
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201208224009-mitch-mcconnell-ctn-open-1208-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106121255-01-mcconnell-0106-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump's demands run into McConnell's maneuvers"
-    excerpt: "In the weirdest of twists at the end of his presidency, President Donald Trump is now in league with Nancy Pelosi, Chuck Schumer and Bernie Sanders over $2,000 Covid-19 relief checks, doing battle with Republican leaders over Pentagon policy and warning the political party he overtook and remade in his"
-    publishedDateTime: 2020-12-30T05:00:15Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_OY6qMSlvqo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/30/politics/trump-republicans-choice/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/30/politics/trump-republicans-choice/index.html"
+  - title: "McConnell privately says he wants Trump gone as Republicans quietly lobby him to convict"
+    excerpt: "As the House prepares to send articles of impeachment to the Senate on Monday, CNN has learned that dozens of influential Republicans around Washington -- including former top Trump administration officials -- have been quietly lobbying GOP members of Congress to impeach and convict Donald Trump. The"
+    publishedDateTime: 2021-01-22T18:51:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tVmuA9o9Zhk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/22/politics/mcconnell-trump-impeachment-conviction-republicans/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/22/politics/mcconnell-trump-impeachment-conviction-republicans/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 166
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201216122059-03-mcconnell-trump-split-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210122103730-01-trump-gop-impeachment-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Wall Street hits record levels after Trump signs fiscal aid bill"
-    excerpt: "\"The passage of the stimulus bill is erasing some fears, and investors are relieved that there is help out there,\" said one economist."
-    publishedDateTime: 2020-12-28T19:26:00Z
-    webUrl: "https://www.nbcnews.com/business/markets/wall-street-hits-record-levels-after-trump-signs-fiscal-aid-n1252438"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252438"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252438"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_53/3438387/201228-new-york-stock-exchange-jm-1356_9ab6522bdf53895963efa350fdd587e2.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "McConnell Privately Backs Impeachment as House Moves to Charge Trump"
-    excerpt: "The House was poised to formally call on Vice President Mike Pence to move to wrest power from the president, as Republican support built for impeaching him of inciting violence against the nation."
-    publishedDateTime: 2021-01-13T02:40:00Z
-    webUrl: "https://www.nytimes.com/2021/01/12/us/politics/mcconnell-backs-trump-impeachment.html"
-    ampWebUrl: "https://www.nytimes.com/2021/01/12/us/politics/mcconnell-backs-trump-impeachment.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/12/us/politics/mcconnell-backs-trump-impeachment.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/01/12/us/politics/12dc-impeach1/12dc-impeach1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
         isCached: true
   - title: "Mitch McConnell has one more card to play against Donald Trump"
     excerpt: "On Wednesday afternoon, the House will impeach President Donald Trump for a second time. It is known. The only real drama will be to see how many House Republicans cross the aisle to vote with Democrats to impeach the President."
@@ -111,97 +79,95 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "McConnell remains undecided on convicting Trump in Senate trial"
-    excerpt: "McConnell said last week that the earliest the Senate could take up the articles would be Jan. 19, unless all 100 senators agree to come back early."
-    publishedDateTime: 2021-01-14T11:18:00Z
-    webUrl: "https://www.nbcnews.com/politics/congress/mcconnell-remains-undecided-convicting-trump-senate-trial-n1254168"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1254168"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254168"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_53/3438574/201229-mitch-mcconnell-jm-1456_9251998545a2096bbf31d2253f4de884.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "The case for Mitch McConnell to vote to convict Donald Trump"
-    excerpt: "On Wednesday afternoon, the House will impeach President Donald Trump for a second time. It is known. The only real drama will be to see how many House Republicans cross the aisle to vote with Democrats to impeach the President."
-    publishedDateTime: 2021-01-13T16:29:00Z
-    webUrl: "https://www.cnn.com/2021/01/13/politics/mitch-mcconnell-donald-trump-impeachment/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/13/politics/mitch-mcconnell-donald-trump-impeachment/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/13/politics/mitch-mcconnell-donald-trump-impeachment/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 135
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201215150551-mitch-mcconnell-1215-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "McConnell Was Done With Trump. His Party Said Not So Fast."
-    excerpt: "After four years, the minority leader had finally had enough. But with most Republicans rallying around Donald J. Trump, he sided with his colleagues trying to throw out the impeachment case."
-    publishedDateTime: 2021-01-28T01:29:00Z
-    webUrl: "https://www.nytimes.com/2021/01/27/us/politics/mcconnell-trump-impeachment.html"
-    ampWebUrl: "https://www.nytimes.com/2021/01/27/us/politics/mcconnell-trump-impeachment.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/27/us/politics/mcconnell-trump-impeachment.amp.html"
+  - title: "Deepening Schism, McConnell Says Trump ‘Provoked’ Capitol Mob"
+    excerpt: "The Senate majority leader’s remarks were the clearest signal yet that he has come to regard President Trump as a force who could drag down the Republican Party."
+    publishedDateTime: 2021-01-20T01:40:00Z
+    webUrl: "https://www.nytimes.com/2021/01/19/us/politics/mcconnell-trump-capitol-riot.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/19/us/politics/mcconnell-trump-capitol-riot.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/19/us/politics/mcconnell-trump-capitol-riot.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2021/01/27/us/politics/27dc-mcconnell/27dc-mcconnell-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2021/01/20/us/politics/20dc-impeach-print1/merlin_182544633_d1e4184e-735b-489a-9ebb-4d606488bf5e-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
+  - title: "McConnell says Trump ‘provoked’ the Capitol attackers"
+    excerpt: "Senate Majority Leader Mitch McConnell on Tuesday said President Donald Trump “provoked” the rioters who stormed the Capitol earlier this month as Congress was certifying the presidential election results,"
+    publishedDateTime: 2021-01-20T04:06:00Z
+    webUrl: "https://www.politico.com/news/2021/01/19/mcconnell-trump-provoked-capitol-attackers-460372"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/19/mcconnell-trump-provoked-capitol-attackers-460372"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/19/mcconnell-trump-provoked-capitol-attackers-460372"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/b3/d9/6fec15f14316b8cfc913fc7c95a3/20210118-donaldtrump-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Live Updates: Ahead of Impeachment Trial, McConnell Says Capitol Assault Was ‘Provoked’ by Trump"
+    excerpt: "Senator Mitch McConnell said the mob that stormed the Capitol “was fed lies,” referring to attempts by President Trump to overturn the election based on bogus claims of voter fraud. The president is expected to issue dozens of pardons."
+    publishedDateTime: 2021-01-19T17:58:00Z
+    webUrl: "https://www.nytimes.com/live/2021/01/19/us/inauguration-day-biden"
+    ampWebUrl: "https://www.nytimes.com/live/2021/01/19/us/inauguration-day-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/01/19/us/inauguration-day-biden.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 122
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/19/us/19transition-briefing-promo1/19transition-briefing-promo1-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true
-  - title: "Trump put Senate Republicans in a real jam. But McConnell might have a way out."
-    excerpt: "Trump put Senate Republicans in a real jam. But McConnell hints at a way out. WASHINGTON — Donald Trump is leaving office the same way he spent much of his presidency: by putting his party leaders in a vice between their ideological instincts and personal loyalty to him."
-    publishedDateTime: 2020-12-30T04:29:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/trump-put-senate-republicans-real-jam-mcconnell-hints-way-out-n1252485"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252485"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252485"
+  - title: "Val Demings ‘encouraged’ by McConnell’s break from Trump"
+    excerpt: "Demings’ interview on Wednesday morning came as the House prepared to impeach Trump for a second time.  (D-Fla.) appeared more optimistic on Wednesday about the possibility of President Donald Trump being removed from office,"
+    publishedDateTime: 2021-01-13T13:58:00Z
+    webUrl: "https://www.politico.com/news/2021/01/13/val-demings-mitch-mcconnell-trump-458707"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/f7/1c/9672252e4cf4886c8123f827b6c2/210113-val-demings-gty-773.jpg"
+        width: 700
+        height: 470
+        isCached: true
+  - title: "POLITICO Playbook PM: McConnell blames Trump for Jan. 6"
+    excerpt: "They are McConnell’s first floor remarks since Jan. 6. Remember, McConnell told his rank-and-file members that he has, essentially, not ruled out convicting President DONALD TRUMP. There is widespread agreement that if McConnell votes to convict Trump,"
+    publishedDateTime: 2021-01-19T18:03:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook-pm/2021/01/19/mcconnell-blames-trump-for-jan-6-491453"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/82/03/de6a881244faa0d89300229630d6/gettyimages-1297264903.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "McConnell wants to push Trump's Senate impeachment trial to mid-February"
+    excerpt: "McConnell’s proposal is a deal to give both sides time to prepare for former President Donald Trump's second impeachment trial."
+    publishedDateTime: 2021-01-22T03:31:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/mcconnell-wants-push-trump-s-senate-impeachment-trial-february-n1255226"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 131
+    quality: 114
     images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_53/3438567/201229-donald-trump-1401_f626b008bb93154f6fd1f57f6610b06c.jpg"
-        width: 2500
-        height: 1666
-        isCached: true
-  - title: "How McConnell and the GOP let Trump down gently"
-    excerpt: "Before recognizing Joe Biden as America’s next president, Mitch McConnell was careful to make sure President Donald Trump was in the loop. The Senate majority leader transmitted a message to the White House ahead of time that he would be giving remarks congratulating Biden on his win over Trump,"
-    publishedDateTime: 2020-12-15T23:36:00Z
-    webUrl: "https://www.politico.com/news/2020/12/15/mcconnell-gop-let-trump-down-gently-election-445690"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/c4/38/729278f34d458534f28f6f35e8a9/ap20350731665251-c.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "McConnell lays low ahead of Trump trial"
-    excerpt: "Kevin McCarthy is hugging former President Donald Trump as tightly as he can. Liz Cheney voted to impeach him. But Mitch McConnell isn’t making any sudden movements as House Republicans tear each other apart in Trump's wake."
-    publishedDateTime: 2021-02-03T09:33:00Z
-    webUrl: "https://www.politico.com/news/2021/02/03/mitch-mcconnell-impeachment-trump-trial-465188"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/ec/23/2d3486ae4d7289b031aea889cc8c/20210202-mitch-mcconnell-gty-773.jpg"
-        width: 1160
-        height: 773
+      - url: "https://media3.s-nbcnews.com/j/newscms/2021_03/3444082/210121-mitch-mcconnell-se-512p_743400cea8c8cb08490113ee7ff58353.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "LW0Y+QxY3XqfKVQOXY3LZpdpKStRix42RtHkg8ayYKn7VL+5jrjJRLocDEubVPgBwj3FPyv39w+o6cUcQTTGRuJ/Kpiwd8rvLrGUSgb+A3P/NN86MZlR2ykkZvYQiVs0vsyIQkhfniol0B+3aocrKHw6gcmd51VWqS/nuiYhzo5pNI6PXk0qMXdjx4W1OW6rzo4WGlnJnJGbheOo/HKDDNJhluAYAY+NIu8jQjQrg058ZoiuvJFKGaGk94XBVqORfhgTzScDtrjniqAybsD+FtpE0UJYCFDGDH92aeQ7A1iWYyZostWmcr4VsYcQ0YgOZOb2YpmwwQk0ts4236UMsbYRWVkM2EIVd6FsjK3yNfw=;FDibiEpMhv6d993DlzzNuA=="

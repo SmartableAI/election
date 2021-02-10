@@ -44,6 +44,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Politics updates: Biden, Harris volunteer for MLK Day as Trump signs 3 executive orders"
+    excerpt: "It's Martin Luther King Jr. Day, we're two days from President-elect Joe Biden's Inauguration Day and here are the updates from Washington: Biden overrides Trump, says international travel restrictions will stay in place President Donald Trump began the process Monday of lifting travel bans on non-U."
+    publishedDateTime: 2021-01-20T02:34:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/18/politics-updates-2-days-inauguration-bidens-picks-sec/4202741001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4202741001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4202741001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 157
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/18/USAT/bfd3dfe7-c36c-406e-85b6-5849459d45a1-kamala.JPG?auto=webp&crop=4332,2437,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Harris prepares for central role in Biden's White House"
     excerpt: "Kamala Harris will make history on Wednesday when she becomes the nation’s first female vice president — and the first Black woman and the first woman of South Asian descent to hold that office"
     publishedDateTime: 2021-01-18T05:52:00Z
@@ -92,6 +108,86 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Trump announces he'll skip inauguration, Biden said he'd be 'honored' to have Pence there"
+    excerpt: "Vice President Mike Pence and his wife Karen “have yet to make a decision regarding their attendance,” spokesman Devin O’Malley said Friday."
+    publishedDateTime: 2021-01-08T20:34:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/01/08/donald-trump-says-he-wont-attend-joe-bidens-inauguration/6594812002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6594812002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6594812002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 146
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/24/USAT/2c7e25e6-de7a-4a91-a9bd-c1acd79338db-AP_Trump.jpg?auto=webp&crop=2923,1644,x1,y201&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump-Biden transition live updates: Mike Pence to attend Biden's inauguration, source says"
+    excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in 16 days. Lawmakers are responding Monday to an explosive phone call between President Trump and Georgia Secretary of State Brad Raffensperger in which Trump,"
+    publishedDateTime: 2021-01-10T04:37:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-results-transition/?id=75022086"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=75022086"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=75022086"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 145
+    images:
+      - url: "https://s.abcnews.com/images/Politics/mike-pence_hpMain_20210109-192554_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Trump-Biden transition live updates: Trump tells Dems 'be careful what you wish for'"
+    excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in eight days. The first confirmation hearing for one of Biden's Cabinet picks is officially on the Senate schedule for the day before his inauguration -- which is also the earliest day the Senate is likely to accept an impeachment article against Trump from the House."
+    publishedDateTime: 2021-01-12T22:30:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-transition-trump-biden/?id=75166132"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-transition-trump-biden/?id=75166132"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-transition-trump-biden/?id=75166132"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 143
+    images:
+      - url: "https://s.abcnews.com/images/Politics/liz-cheney-file-ap-jef-210112_1610491720667_hpMain_2_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Democrats give VP Mike Pence ultimatum to remove Trump from White House"
+    excerpt: "US House Speaker Nancy Pelosi has stepped up the pressure on Vice-President Mike Pence to act to remove Donald Trump from office over his role in last week's storming of Congress. Lawmakers are expected to bring up a resolution asking Mr Pence to invoke the 25th Amendment to declare the president unfit for office."
+    publishedDateTime: 2021-01-12T08:08:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-55611630"
+    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55611630"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55611630"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 140
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/14169/production/_116418228_hi065099285.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "The Latest: Trump, Pence speak for first time since attack"
+    excerpt: "President Donald Trump and Vice President Mike Pence have spoken for the first time since last Wednesday’s Capitol insurrection, during which Pence was forced to flee the Senate chamber and retreat to"
+    publishedDateTime: 2021-01-12T00:10:00Z
+    webUrl: "https://www.washingtonpost.com/politics/the-latest-trump-pence-speak-for-first-time-since-attack/2021/01/11/2f83f682-546a-11eb-acc5-92d2819a1ccb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-trump-pence-speak-for-first-time-since-attack/2021/01/11/2f83f682-546a-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-trump-pence-speak-for-first-time-since-attack/2021/01/11/2f83f682-546a-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "House passes measure calling on Pence to remove Trump"
     excerpt: "The House on Tuesday passed legislation calling on Vice President Pence to tap his Constitutional authority to remove President Trump from office in response to the president’s role in the deadly mob attack on the Capitol last week."
     publishedDateTime: 2021-01-13T12:01:00Z
@@ -107,6 +203,22 @@ related:
       - url: "https://thehill.com/sites/default/files/raskinjamie_100920bc2_lead.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "House urges Pence to help oust Trump; impeachment next"
+    excerpt: "With impeachment ahead, the House is trying first to push the vice president and Cabinet to act even more quickly to remove President Donald Trump from office"
+    publishedDateTime: 2021-01-13T07:15:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/house-urges-pence-oust-trump-impeachment-75215375"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/house-urges-pence-oust-trump-impeachment-75215375"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/house-urges-pence-oust-trump-impeachment-75215375"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_962b8b05854242008ffd3937779d1d78_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Trump to leave Washington on morning of Biden’s inauguration"
     excerpt: "President Donald Trump will leave Washington next Wednesday morning, just before President-elect Joe Biden’s inauguration"
@@ -156,6 +268,22 @@ related:
         width: 755
         height: 545
         isCached: true
+  - title: "Trump, Pence out of sight as Democrats call on vice president to intervene"
+    excerpt: "President Donald Trump and Vice President Mike Pence have remained out of sight for days amid the greatest crisis of their administration."
+    publishedDateTime: 2021-01-11T20:29:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-pence-sight-democrats-call-vice-president-intervene/story?id=75179247"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-pence-sight-democrats-call-vice-president-intervene/story?id=75179247"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-pence-sight-democrats-call-vice-president-intervene/story?id=75179247"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 138
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-ap-jt-210111_1610389280354_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Joe Biden and Kamala Harris get ready to be sworn in as presidential inauguration begins – live"
     excerpt: "Biden and Harris will be sworn in as president and vice-president, following Donald Trump’s final departure from the White House this morning"
     publishedDateTime: 2021-01-20T16:16:00Z
@@ -172,6 +300,22 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Joe Biden, Kamala Harris take oaths of office as president, vice president"
+    excerpt: "Vice President Kamala Harris bumps fists with Joe Biden at the U.S. Capitol on Wednesday just before his inauguration as the 46th president of the United States. Biden called for unity in his inaugural speech."
+    publishedDateTime: 2021-01-20T22:35:00Z
+    webUrl: "https://www.washingtonpost.com/lifestyle/kidspost/joe-biden-kamala-harris-take-oaths-of-office-as-president-vice-president/2021/01/20/c5dd91ec-516d-11eb-bda4-615aaefd0555_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/lifestyle/kidspost/joe-biden-kamala-harris-take-oaths-of-office-as-president-vice-president/2021/01/20/c5dd91ec-516d-11eb-bda4-615aaefd0555_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/kidspost/joe-biden-kamala-harris-take-oaths-of-office-as-president-vice-president/2021/01/20/c5dd91ec-516d-11eb-bda4-615aaefd0555_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 138
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BVMI7GS3NYI6XC6PHB3YOHEBTU.jpg&w=1440"
+        width: 1440
+        height: 1043
+        isCached: true
   - title: "That time Kamala Harris flew on Trump’s private plane, and more from her biographer"
     excerpt: "Author Dan Morain answers queries about his new book on Kamala Harris, like why she's an only-in-California politician and what to expect from her as vice president."
     publishedDateTime: 2021-01-11T22:45:00Z
@@ -185,6 +329,22 @@ related:
     quality: 134
     images:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/ad02f72/2147483647/strip/true/crop/3000x1959+0+20/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff6%2F01%2Fcbd4b15d41a6962baf92c78dbb80%2Fdhs-acting-secretary-immigration-63532.jpg"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "Republicans block House resolution calling on Pence to remove Trump over Capitol riot"
+    excerpt: "Democrats fail to pass a resolution calling on Pence to use the 25th Amendment to remove Trump from office and introduce an article of impeachment."
+    publishedDateTime: 2021-01-11T20:32:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-01-11/republicans-block-house-resolution-to-call-on-pence-to-remove-trump-over-capitol-riot"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-01-11/republicans-block-house-resolution-to-call-on-pence-to-remove-trump-over-capitol-riot?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-01-11/republicans-block-house-resolution-to-call-on-pence-to-remove-trump-over-capitol-riot?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 133
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/8cf91c0/2147483647/strip/true/crop/6000x3919+0+41/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb9%2Fb1%2Fad843c72496cae27c1f917da5e91%2Fla-photos-1staff-685947-pol-capitol-feature-kkn-39205.JPG"
         width: 320
         height: 209
         isCached: true
@@ -235,6 +395,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/5d98512c5b980f7da3a35cd7c101e9697e0c9840/0_0_3228_2152/master/3228.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=30dc0d74b9433c9e628c7bfe3964bdbf"
         width: 600
         height: 400
+        isCached: true
+  - title: "Pence to attend Biden's inauguration, official says"
+    excerpt: "U.S. Vice President Mike Pence will attend President-elect Joe Biden's inauguration, a senior administration official said on Saturday."
+    publishedDateTime: 2021-01-10T00:44:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-pence/pence-to-attend-bidens-inauguration-official-says-idUSKBN29F007"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 130
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210110&t=2&i=1547239085&r=LYNXMPEH09003&w=800"
+        width: 800
+        height: 533
         isCached: true
   - title: "Pence calls VP-elect Kamala Harris to offer congratulations"
     excerpt: "Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It's"
@@ -314,17 +488,33 @@ related:
         width: 834
         height: 308
         isCached: true
-  - title: "Pro-Trump supporters to rally again in Washington"
-    excerpt: "Supporters of President Donald Trump are returning to Washington for a pair of rallies to back his desperate efforts to subvert the election that he lost"
-    publishedDateTime: 2020-12-12T07:26:00Z
-    webUrl: "https://www.washingtonpost.com/politics/pro-trump-supporters-to-rally-again-in-washington/2020/12/11/87f543f4-3c21-11eb-aad9-8959227280c4_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/pro-trump-supporters-to-rally-again-in-washington/2020/12/11/87f543f4-3c21-11eb-aad9-8959227280c4_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pro-trump-supporters-to-rally-again-in-washington/2020/12/11/87f543f4-3c21-11eb-aad9-8959227280c4_story.html?outputType=amp"
+  - title: "Biden inauguration live updates: Biden prepares to take office as Trump leaves Washington behind"
+    excerpt: "Updates during the transition from the Trump to Biden administrations -- and about a second Senate impeachment trial."
+    publishedDateTime: 2021-01-20T14:28:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/biden-trump-2020-election-transition-inauguration/?id=75311140"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/biden-trump-2020-election-transition-inauguration/?id=75311140"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/biden-trump-2020-election-transition-inauguration/?id=75311140"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 127
+    images:
+      - url: "https://s.abcnews.com/images/International/dc-6-gty-ml-210120_1611145079429_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "President Donald Trump says he will not attend President-elect Joe Biden’s inauguration on Jan. 20"
+    excerpt: "President Donald Trump says he will not attend President-elect Joe Biden’s inauguration on Jan. 20. Copyright 2021 The Associated Press. All rights reserved. This material may not be published, broadcast,"
+    publishedDateTime: 2021-01-08T15:55:00Z
+    webUrl: "https://www.washingtonpost.com/politics/president-donald-trump-says-he-will-not-attend-president-elect-joe-bidens-inauguration-on-jan-20/2021/01/08/55af70c8-51c9-11eb-a1f5-fdaf28cfca90_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/president-donald-trump-says-he-will-not-attend-president-elect-joe-bidens-inauguration-on-jan-20/2021/01/08/55af70c8-51c9-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/president-donald-trump-says-he-will-not-attend-president-elect-joe-bidens-inauguration-on-jan-20/2021/01/08/55af70c8-51c9-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 125
+    quality: 126
     images:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
@@ -712,6 +902,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Mike Pence is still open to invoking 25th Amendment in the event Trump becomes more unstable, report says"
+    excerpt: "President Trump and Pence still have not spoken to each other since the US Capitol surge on Wednesday that left five people dead."
+    publishedDateTime: 2021-01-10T03:56:00Z
+    webUrl: "https://www.businessinsider.com/pence-has-not-ruled-out-invoking-25th-amendment-remove-trump-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/pence-has-not-ruled-out-invoking-25th-amendment-remove-trump-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pence-has-not-ruled-out-invoking-25th-amendment-remove-trump-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 123
+    images:
+      - url: "https://i.insider.com/5ffae4b6d184b30018aadf59?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump wishes new administration 'success' as Pence reveals he will skip president's farewell event – live"
     excerpt: "White House releases Trump farewell address amid preparations for Biden inauguration – follow live"
     publishedDateTime: 2021-01-19T20:55:00Z
@@ -792,6 +998,59 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump joins a select few in skipping Biden's inauguration"
+    excerpt: "President Donald Trump’s decision to skip President-elect Joe Biden’s inauguration is not without precedent, though one must go back to Andrew Johnson in 1869 to find the most recent example."
+    publishedDateTime: 2021-01-09T10:09:00Z
+    webUrl: "https://www.businessinsider.com/trump-joins-a-select-few-in-skipping-bidens-inauguration-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/trump-joins-a-select-few-in-skipping-bidens-inauguration-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-joins-a-select-few-in-skipping-bidens-inauguration-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
+  - title: "Democrats call on Pence to invoke 25th Amendment to remove Trump"
+    excerpt: "Democrats plan to bring a resolution to the House floor calling on Vice President Mike Pence to invoke the 25th Amendment, which allows for the president to be removed from power with support from a majority of his Cabinet."
+    publishedDateTime: 2021-01-11T15:55:00Z
+    webUrl: "https://www.cbsnews.com/video/democrats-call-on-vp-pence-invoke-25th-amendment-to-remove-pres-trump/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/11/442d26dd-0ce9-4f39-b3a9-93413b58ec83/thumbnail/1200x630/33b48a7c7ce47ddffd3a4d8668548132/cbsn-fusion-democrats-call-on-vp-pence-invoke-25th-amendment-to-remove-pres-trump-thumbnail-624336-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Pence yet to speak to Trump in days following attack on Capitol"
+    excerpt: "Sources tell CBS News that Vice President Mike Pence has not spoken to President Trump since the attack on the Capitol building. Pence has also not yet responded to Democrats' calls to invoke the 25th amendment to remove Mr."
+    publishedDateTime: 2021-01-11T09:30:00Z
+    webUrl: "https://www.cbsnews.com/video/pence-yet-to-speak-to-trump-in-days-following-capitol-attack/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/09/ea45c84d-5bdd-499f-91b6-6e0ef461cb23/thumbnail/1200x630/4459793d78f566d1cab1868f82f029fe/cbsn-fusion-wh-vice-president-pence-yet-to-speak-to-president-trump-in-days-following-attack-on-capitol-thumbnail-623601-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "House urges Pence to help oust Trump"
+    excerpt: "The US House on Tuesday night approved a resolution urging Vice President Mike Pence to invoke the 25th Amendment to the Constitution to remove President Donald Trump from office with a Cabinet vote."
+    publishedDateTime: 2021-01-13T06:14:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/01/13/house-urges-pence-help-oust-trump/6651402002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/113e555e-79b3-4378-bd8d-542bf5c61558_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "U.S. House urges Pence to start process of removing Trump from office"
     excerpt: "The U.S. House of Representatives on Tuesday voted to urge Vice President Mike Pence to start the U.S. Constitution's 25th Amendment process of removing President Donald Trump from office, although the vice president already has said he will not do so."
     publishedDateTime: 2021-01-13T13:53:00Z
@@ -866,6 +1125,20 @@ related:
         width: 1440
         height: 1097
         isCached: true
+  - title: "Photographs From the Inauguration Of Joe Biden and Kamala Harris"
+    excerpt: "Jan. 20 began on a much more somber note than Joe Biden could have predicted for the day he would finally become President of"
+    publishedDateTime: 2021-01-20T22:02:00Z
+    webUrl: "https://time.com/5930876/joe-biden-inauguration-photos/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 120
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2021/01/biden-inauguration-photos-swear-in-2.jpg"
+        width: 2400
+        height: 1665
+        isCached: true
   - title: "The Internet loved seeing Eugene Goodman escort Kamala Harris to the inauguration"
     excerpt: "Eugene Goodman is a Capitol Police officer who diverted a mob during the insurrection on the Capitol. Goodman has since been promoted and escorted Vice President Harris to the inauguration. Since Capitol Police officer Eugene Goodman risked his own safety to divert a mob from the Senate chamber during the insurrection at the United States Capitol,"
     publishedDateTime: 2021-01-21T16:16:00Z
@@ -881,6 +1154,36 @@ related:
       - url: "https://thehill.com/sites/default/files/ca_goodman_getty_0.jpg"
         width: 1440
         height: 880
+        isCached: true
+  - title: "Surrounded by shrinking circle of aides, a brooding Trump lays into Pence"
+    excerpt: "U.S. President Donald Trump has increasingly isolated himself in the White House, relying on a small group of diehard loyalists and lashing out at those who dare to cross him, including Vice President Mike Pence,"
+    publishedDateTime: 2021-01-08T15:04:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump/surrounded-by-a-shrinking-circle-of-aides-a-brooding-trump-lays-into-pence-idUKKBN29C2RE?edition-redirect=uk"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 119
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210108&t=2&i=1547078766&r=LYNXMPEH061DK&w=800"
+        width: 800
+        height: 557
+        isCached: true
+  - title: "Joe Biden calls the president ‘unfit,’ defers to Congress on impeachment; Trump says he’ll skip the inauguration"
+    excerpt: "WASHINGTON — President-elect Joe Biden said Friday that President Donald Trump isn’t “fit for the job,” but he repeatedly refused to endorse growing Democratic calls to impeach him a second time. House Speaker Nancy Pelosi said in a letter to members of her chamber that lawmakers could move as early as next week to impeach Trump for inciting a violent mob that overran the U."
+    publishedDateTime: 2021-01-08T23:49:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-trump-capitol-updates-20210108-6xu3lcif7ng6nchhcj5vxna3cq-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-trump-capitol-updates-20210108-6xu3lcif7ng6nchhcj5vxna3cq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-trump-capitol-updates-20210108-6xu3lcif7ng6nchhcj5vxna3cq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 119
+    images:
+      - url: "https://www.chicagotribune.com/resizer/oHpYqUUDO4lL12X_8UcuSL73-8Q=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/W4QN74LVSPX4XQRJ3CLGU75L3M.aspx"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Trump wishes new administration 'success' as Pence reveals he will skip outgoing president's farewell event – live"
     excerpt: "White House releases Trump farewell address amid preparations for Biden inauguration – follow live"
@@ -929,6 +1232,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210122&t=2&i=1548722692&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0L10C"
         width: 832
         height: 545
+        isCached: true
+  - title: "Pence to attend Biden-Harris inauguration"
+    excerpt: "The vice president will be there during the transfer of power, but President Trump has already said he'll skip the swearing-in."
+    publishedDateTime: 2021-01-10T02:17:00Z
+    webUrl: "https://www.firstcoastnews.com/article/news/nation-world/pence-to-attend-biden-inauguration/507-49dad317-8603-4881-89f1-dd14c1297144"
+    ampWebUrl: "https://www.firstcoastnews.com/amp/article/news/nation-world/pence-to-attend-biden-inauguration/507-49dad317-8603-4881-89f1-dd14c1297144"
+    cdnAmpWebUrl: "https://www-firstcoastnews-com.cdn.ampproject.org/c/s/www.firstcoastnews.com/amp/article/news/nation-world/pence-to-attend-biden-inauguration/507-49dad317-8603-4881-89f1-dd14c1297144"
+    type: article
+    provider:
+      name: First Coast News
+      domain: firstcoastnews.com
+    quality: 115
+    images:
+      - url: "https://media.firstcoastnews.com/assets/CCT/images/b74ed99c-3e1c-4f21-b977-1390bc9ec1a9/b74ed99c-3e1c-4f21-b977-1390bc9ec1a9_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
   - title: "Blended families see themselves in Kamala Harris as she becomes 1st stepmom vice president"
     excerpt: "When Kamala Harris takes the oath of office Wednesday to become vice president, she will be the first woman and first woman of color to serve in that elected position. Harris will also make ..."
@@ -1392,6 +1711,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Why Is Pence Not Invoking The 25th Amendment To Oust Trump?"
+    excerpt: "House Speaker Nancy Pelosi and other Democrats had urged Vice President Pence to remove President Trump from office following the siege at Capitol Hill."
+    publishedDateTime: 2021-01-13T02:36:00Z
+    webUrl: "https://www.ibtimes.com/why-pence-not-invoking-25th-amendment-oust-trump-3120446"
+    ampWebUrl: "https://www.ibtimes.com/why-pence-not-invoking-25th-amendment-oust-trump-3120446?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/why-pence-not-invoking-25th-amendment-oust-trump-3120446?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 100
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/02/us-vice-president-mike-pence-pictured-november-who.jpg"
+        width: 1024
+        height: 649
+        isCached: true
   - title: "Mike Pence calls Kamala Harris to offer congratulations"
     excerpt: "Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It's the first known contact between the elected members of the outgoing and incoming administrations."
     publishedDateTime: 2021-01-15T12:51:00Z
@@ -1574,6 +1909,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Dallas Symphony trumpeter plays in recording to honor inauguration of Joe Biden and Kamala Harris"
+    excerpt: "The 24-year-old Peruvian-born horn player is one of 14 musicians across the country who performed on a video that will stream on Jan. 19."
+    publishedDateTime: 2021-01-14T15:28:00Z
+    webUrl: "https://www.dallasnews.com/arts-entertainment/performing-arts/2021/01/14/dallas-symphony-trumpeter-plays-in-recording-to-honor-inauguration-of-joe-biden-and-kamala-harris/"
+    ampWebUrl: "https://www.dallasnews.com/arts-entertainment/performing-arts/2021/01/14/dallas-symphony-trumpeter-plays-in-recording-to-honor-inauguration-of-joe-biden-and-kamala-harris/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/arts-entertainment/performing-arts/2021/01/14/dallas-symphony-trumpeter-plays-in-recording-to-honor-inauguration-of-joe-biden-and-kamala-harris/?outputType=amp"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 92
+    images:
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/omRxC1QoC3h6taBe_zfW4HKIYrk=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/KC5DRSMSQJFSBOQDMFRTRO37X4.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "How to watch, livestream inauguration of Joe Biden and Kamala Harris: complete schedule"
     excerpt: "History is being made today at the 59th inauguration ceremony at the Capitol Building in Washington, D.C. as President-elect Joe Biden and Vice President-elect Kamala Harris will be sworn-in. HOW TO WATCH: LIVESTREAM via fuboTV by clicking here (Free 7-day trial)."
     publishedDateTime: 2021-01-20T09:17:00Z
@@ -1590,6 +1941,86 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "President Trump won't attend Joe Biden's inauguration"
+    excerpt: "President Donald Trump said Friday he won’t attend President-elect Joe Biden’s Inauguration on Jan. 20. He will be the first incumbent president since Andrew Johnson to skip his successor's inauguration."
+    publishedDateTime: 2021-01-08T16:04:00Z
+    webUrl: "https://www.nola.com/news/politics/national_politics/article_1bb84870-51cb-11eb-bdfb-5b76cd139dc1.html"
+    ampWebUrl: "https://www.nola.com/news/politics/national_politics/article_1bb84870-51cb-11eb-bdfb-5b76cd139dc1.amp.html"
+    cdnAmpWebUrl: "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/news/politics/national_politics/article_1bb84870-51cb-11eb-bdfb-5b76cd139dc1.amp.html"
+    type: article
+    provider:
+      name: NOLA.com
+      domain: nola.com
+    quality: 90
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/c/0f/c0f7197e-5126-11eb-a0dd-cb23d0dcfa5e/5ff76ece4a5b6.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Trump announces he won't attend Joe Biden's inauguration"
+    excerpt: "President Donald Trump said Friday he will break with tradition and not attend the inauguration of President-elect Joe Biden on Jan. 20."
+    publishedDateTime: 2021-01-08T17:40:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/01/08/Trump-announces-he-wont-attend-Joe-Bidens-inauguration/2831610124260/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/01/08/Trump-announces-he-wont-attend-Joe-Bidens-inauguration/2831610124260/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/01/08/Trump-announces-he-wont-attend-Joe-Bidens-inauguration/2831610124260/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 90
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/2831610124260/2021/1/7133f53c934ecace35e3a90557736a81/v1.5/Trump-announces-he-wont-attend-Joe-Bidens-inauguration.jpg"
+        width: 800
+        height: 532
+        isCached: true
+  - title: "Trump announces he'll skip Joe Biden's inauguration"
+    excerpt: "Vice President Mike Pence and his wife Karen “have yet to make a decision regarding their attendance,” spokesman Devin O’Malley said Friday."
+    publishedDateTime: 2021-01-08T16:35:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2021/01/08/donald-trump-says-he-wont-attend-joe-bidens-inauguration/6594812002/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/6594812002"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/6594812002"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 90
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/24/USAT/2c7e25e6-de7a-4a91-a9bd-c1acd79338db-AP_Trump.jpg?auto=webp&crop=2923,1644,x1,y201&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump says he won’t attend Joe Biden’s inauguration"
+    excerpt: "President Donald Trump said Friday he won’t attend President-elect Joe Biden’s inauguration on Jan. 20, undercutting his message a day earlier that he would work to ensure a “smooth, orderly and seamless transition of power” to his successor."
+    publishedDateTime: 2021-01-08T16:15:00Z
+    webUrl: "https://www.cleveland.com/nation/2021/01/trump-says-he-wont-attend-joe-bidens-inauguration.html"
+    ampWebUrl: "https://www.cleveland.com/nation/2021/01/trump-says-he-wont-attend-joe-bidens-inauguration.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2021/01/trump-says-he-wont-attend-joe-bidens-inauguration.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 90
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/LFMJ5DXQERH2DFS5NH2EFGAAH4.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Democrats give VP Mike Pence ultimatum to remove Trump from White House"
+    excerpt: "US House Speaker Nancy Pelosi has stepped up the pressure on Vice-President Mike Pence to act to remove Donald Trump from office over his role in last week's storming of Congress. Lawmakers are expected to bring up a resolution asking Mr Pence to invoke the 25th Amendment to declare the president unfit for office."
+    publishedDateTime: 2021-01-11T08:44:00Z
+    webUrl: "https://www.bbc.co.uk/news/amp/world-us-canada-55611630"
+    ampWebUrl: "https://www.bbc.co.uk/news/amp/world-us-canada-55611630"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/world-us-canada-55611630"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 90
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/14169/production/_116418228_hi065099285.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Kamala Harris gets the Vogue cover Melania Trump always wanted"
     excerpt: "The president, first lady and their political supporters repeatedly complained that ‘elitist’ fashion magazines wouldn’t put the ‘most elegant first lady in American"
     publishedDateTime: 2021-01-11T18:28:00Z
@@ -1605,6 +2036,22 @@ related:
       - url: "https://www.mercurynews.com/wp-content/uploads/2021/01/hypatia-h_982bd6f39d8176d926a35de2b32bfd51-h_16ae4b24c5b25e70b3b25aaa73a4c7ca.jpg?w=1024&h=683"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Trump Made the Stupidest Possible Argument on Mike Pence"
+    excerpt: "Donald Trump has chosen to spend the waning days of his presidency alternating between feeble efforts to cancel the election and subjecting his vice-president to a series of torments. The New York Times has new details about the latter,"
+    publishedDateTime: 2021-01-13T02:38:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/01/trump-told-pence-you-can-go-down-in-history-as-a-pussy.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/01/trump-told-pence-you-can-go-down-in-history-as-a-pussy.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/01/trump-told-pence-you-can-go-down-in-history-as-a-pussy.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 90
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/f1c/a1b/30748f6b4edce674ecef451db66182b443-president-trump-vice-president-pence.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 632
         isCached: true
   - title: "Kamala Harris prepares for central role in Biden White House"
     excerpt: "People working closely with Vice President-elect Kamala Harris on the transition resist the idea of siloing her into any specific issue early on, because the sheer number of challenges the Biden"
@@ -1670,6 +2117,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Inauguration quotes from President Joe Biden, former President Donald Trump"
+    excerpt: "Joe Biden took the oath of office Wednesday to become America’s. In an unprecedented inauguration that took place amid security concerns and a global pandemic, Biden pledged to unite a country torn by political divide."
+    publishedDateTime: 2021-01-20T17:23:00Z
+    webUrl: "https://www.al.com/news/2021/01/inauguration-quotes-from-president-joe-biden-former-president-donald-trump.html"
+    ampWebUrl: "https://www.al.com/news/2021/01/inauguration-quotes-from-president-joe-biden-former-president-donald-trump.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/inauguration-quotes-from-president-joe-biden-former-president-donald-trump.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 88
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/USJDSEM6LVGIPIDOQOPV5SIA2U.jpg"
+        width: 2275
+        height: 1638
+        isCached: true
   - title: "Vice President Pence says farewell to White House, will skip Trump's sendoff"
     excerpt: "Vice President Mike Pence is among those who will not be attending President Donald Trump’s sendoff event at Joint Base Andrews."
     publishedDateTime: 2021-01-19T22:26:00Z
@@ -1718,6 +2181,20 @@ related:
         width: 1200
         height: 898
         isCached: true
+  - title: "Photos: How Donald Trump and Mike Pence spent Joe Biden’s Inauguration Day"
+    excerpt: "Trump boarded Air Force One for a final time Wednesday morning, en route to his post-presidency residence in Palm Beach, Florida."
+    publishedDateTime: 2021-01-20T19:59:00Z
+    webUrl: "https://www.boston.com/news/politics/2021/01/20/photos-donald-trump-mike-pence-leave-office"
+    type: article
+    provider:
+      name: Boston.com
+      domain: boston.com
+    quality: 83
+    images:
+      - url: "https://www.boston.com/wp-content/uploads/2021/01/trump-florida-60087d84305dd-850x478.jpg"
+        width: 850
+        height: 478
+        isCached: true
   - title: "California politicians offer well wishes for inauguration of Joe Biden and Kamala Harris"
     excerpt: "As Joe Biden was sworn in Wednesday as the 46th president of the United States and California’s Kamala Harris made history as the first woman and first woman of color to become vice president, politicians from across California offered their well-wishes and thoughts."
     publishedDateTime: 2021-01-20T20:10:00Z
@@ -1749,6 +2226,34 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/20/us-president-donald-trump-speaks-before-boarding-air.jpg"
         width: 1024
         height: 705
+        isCached: true
+  - title: "Trump Shores Up Pence Ties As Democrats Move To Impeach"
+    excerpt: "President Donald Trump and Vice President Mike Pence meet on Monday for the first time since rioters stormed the US Capitol, signaling a united front as Democratic efforts to impeach Trump gain momentum."
+    publishedDateTime: 2021-01-12T02:33:00Z
+    webUrl: "https://www.ibtimes.com/trump-shores-pence-ties-democrats-move-impeach-3119079"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 80
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/11/us-president-donald-trump-faces-a-possible-fast.jpg"
+        width: 1024
+        height: 711
+        isCached: true
+  - title: "VP Pence Rejects Invoking 25th Amendment To Oust Trump"
+    excerpt: "US Vice President Mike Pence told House leaders Tuesday he does not support invoking the 25th Amendment process to remove Donald Trump, all but guaranteeing an impeachment vote against the besieged president."
+    publishedDateTime: 2021-01-13T02:00:00Z
+    webUrl: "https://www.ibtimes.com/vp-pence-rejects-invoking-25th-amendment-oust-trump-3120437"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 80
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/12/us-vice-president-mike-pence-said-he-does.jpg"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Mike Pence calls Kamala Harris to offer congratulations"
     excerpt: "WASHINGTON — Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It’s the first known contact between the elected members of the outgoing and incoming administrations."
@@ -1795,6 +2300,22 @@ related:
       - url: "https://s.hdnux.com/photos/01/14/71/53/20159178/11/rawImage.jpg"
         width: 2048
         height: 1396
+        isCached: true
+  - title: "Trump Isn't The First President To Snub His Successor's Inauguration"
+    excerpt: "Trump joins a short list of other presidents who couldn't bring themselves to accept succession, as well some that wanted to attend but couldn't."
+    publishedDateTime: 2021-01-08T18:50:00Z
+    webUrl: "https://www.ibtimes.com/trump-isnt-first-president-snub-his-successors-inauguration-3117624"
+    ampWebUrl: "https://www.ibtimes.com/trump-isnt-first-president-snub-his-successors-inauguration-3117624?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-isnt-first-president-snub-his-successors-inauguration-3117624?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/08/president-donald-trump-announced-he-will-not-attend.jpg"
+        width: 1024
+        height: 768
         isCached: true
   - title: "Kamala Harris graces Vogue's February cover"
     excerpt: "Sen. Kamala Harris, who will soon be the first female, Black and Asian American vice president of the United States, will grace the February issue of Vogue magazine."
@@ -2164,6 +2685,22 @@ related:
         width: 348
         height: 250
         isCached: true
+  - title: "The Latest: Capitol police officer accompanies Kamala Harris"
+    excerpt: "As the sun rose over Washington’s Freedom Plaza between the U.S. Capitol and the White House ahead of Joe Biden’s presidential inauguration, clusters of soldiers in full battle fatigues clustered"
+    publishedDateTime: 2021-01-20T14:09:00Z
+    webUrl: "https://www.mercurynews.com/2021/01/20/the-latest-capitol-police-officer-accompanies-kamala-harris/"
+    ampWebUrl: "https://www.mercurynews.com/2021/01/20/the-latest-biden-harris-inauguration-ceremony-begins/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/01/20/the-latest-biden-harris-inauguration-ceremony-begins/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 75
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/01/Biden_Inauguration_Security_98269-1.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "A Who's Who Guide to Vice President Kamala Harris' Family"
     excerpt: "Kamala Harris’ historic vice presidency will introduce a dynamic second family to the nation, one that represents not only who she is at her core, but is a profound celebration of blended, multigenerational family units."
     publishedDateTime: 2021-01-21T17:41:00Z
@@ -2275,6 +2812,22 @@ related:
       - url: "https://www.mercurynews.com/wp-content/uploads/2021/01/hypatia-h_b4c4004e4b0055dc58e440bfd2a392ef-h_82beb05c66e5b687c55d48020bcb0ebb.jpg?w=1024&h=726"
         width: 1024
         height: 726
+        isCached: true
+  - title: "Inauguration 2021: Joe Biden to be sworn in as president while Donald Trump leaves D.C. (live updates)"
+    excerpt: "Under ramped-up security and pandemic-era restrictions on gathering, President-elect Joe Biden is set to be sworn in Wednesday at the U.S. Capitol"
+    publishedDateTime: 2021-01-20T11:08:00Z
+    webUrl: "https://www.oregonlive.com/nation/2021/01/inauguration-2021-joe-biden-to-be-sworn-in-as-president-while-donald-trump-leaves-dc-live-updates.html"
+    ampWebUrl: "https://www.oregonlive.com/nation/2021/01/inauguration-2021-joe-biden-to-be-sworn-in-as-president-while-donald-trump-leaves-dc-live-updates.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/nation/2021/01/inauguration-2021-joe-biden-to-be-sworn-in-as-president-while-donald-trump-leaves-dc-live-updates.html?outputType=amp"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 74
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/FIFHVSSDDBHXPMWT3WNKUKJGDE.jpg"
+        width: 5114
+        height: 3409
         isCached: true
   - title: "Portland-area voters, Oregon leaders eager to celebrate the inauguration of Joe Biden and Kamala Harris"
     excerpt: "Oregon went decisively for Joe Biden over Donald Trump in 2020 and in the Portland area, many people are planning to connect virtually to mark Inauguration Day festivities through social events large and small."
@@ -2552,6 +3105,22 @@ related:
       - url: "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
+        isCached: true
+  - title: "Live inauguration updates: Joe Biden is hours away from becoming nation's 46th president, Trump to depart White House"
+    excerpt: "Joseph R. Biden will be sworn in amid a worsening pandemic, a reeling economy, racial justice concerns and a nation deeply fractured politically."
+    publishedDateTime: 2021-01-20T10:06:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/01/20/live-biden-inauguration-updates-joe-biden-become-46th-president/4214160001/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/4214160001"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/4214160001"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 67
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/19/USAT/5102ae5d-9cfc-43c6-b0d2-a7941de75a27-biden_ap_photo.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "'Washed out mess': Vogue puts Kamala Harris on the cover, but Twitter users aren't happy"
     excerpt: "Vice President-elect Kamala Harris is splashed on the February cover of Vogue, but social media isn't crazy about the magazine's photo choice."

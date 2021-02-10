@@ -63,6 +63,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden to keep Wray as FBI director"
+    excerpt: "President Biden is expected to keep FBI Director Christopher Wray in his post during his administration, Fox News has learned."
+    publishedDateTime: 2021-01-21T16:33:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yf53wBsD-48/biden-keeps-fbi-director-wray"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-keeps-fbi-director-wray.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-keeps-fbi-director-wray.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Anita Dunn: What to know about Biden’s senior adviser"
     excerpt: "Veteran Democratic operative Anita Dunn will be joining the White House temporarily as a senior adviser to President Joe Biden."
     publishedDateTime: 2021-01-22T00:20:01Z
@@ -472,6 +488,22 @@ related:
     quality: 85
     images:
       - url: "https://assets.realclear.com/images/53/532403_5_.jpeg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Biden's Timid Plan to Fight COVID-19"
+    excerpt: "As COVID-19 mutates, it's becoming more contagious than the virus that invaded the U.S. about a year ago. A trip to the grocery with a mask on, which used"
+    publishedDateTime: 2021-01-20T10:48:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/01/20/bidens_timid_plan_to_fight_covid-19_145073.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/01/20/bidens_timid_plan_to_fight_covid-19_145073.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/01/20/bidens_timid_plan_to_fight_covid-19_145073.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/532822_5_.jpg"
         width: 750
         height: 500
         isCached: true

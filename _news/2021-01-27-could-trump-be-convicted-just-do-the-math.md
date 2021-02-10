@@ -160,22 +160,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "McConnell proposes delaying impeachment trial until February so Trump team can prepare"
-    excerpt: "The timing of former President Donald Trump's Senate impeachment trial is still unsettled while Senate leaders haggle over how a power-sharing agreement will govern a 50-50 Senate.\n    \n"
-    publishedDateTime: 2021-01-22T02:55:43Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rjYhHedOgIc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/21/politics/nancy-pelosi-impeachment-timing/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/21/politics/nancy-pelosi-impeachment-timing/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 167
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106121255-01-mcconnell-0106-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "First on CNN: Trump's impeachment defense team leaves less than two weeks before trial"
     excerpt: "Former President Donald Trump's five impeachment defense attorneys have left a little more than a week before his trial is set to begin, according to people familiar with the case, amid a disagreement over his legal strategy.\n    \n"
     publishedDateTime: 2021-01-31T04:04:10Z
@@ -395,6 +379,22 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2021/01/25/us/politics/25new-washington-briefing-impeachment2/25new-washington-briefing-impeachment2-facebookJumbo-v3.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "McConnell Was Done With Trump. His Party Said Not So Fast."
+    excerpt: "After four years, the minority leader had finally had enough. But with most Republicans rallying around Donald J. Trump, he sided with his colleagues trying to throw out the impeachment case."
+    publishedDateTime: 2021-01-28T01:29:00Z
+    webUrl: "https://www.nytimes.com/2021/01/27/us/politics/mcconnell-trump-impeachment.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/27/us/politics/mcconnell-trump-impeachment.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/27/us/politics/mcconnell-trump-impeachment.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/27/us/politics/27dc-mcconnell/27dc-mcconnell-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

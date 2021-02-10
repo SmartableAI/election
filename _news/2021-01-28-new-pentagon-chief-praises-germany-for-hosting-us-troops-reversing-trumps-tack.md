@@ -31,76 +31,173 @@ images:
     isCached: true
 
 related:
-  - title: "Dr. Anthony Fauci on what working for Donald Trump was really like"
-    excerpt: "As the coronavirus ravaged the country, Dr. Anthony Fauci’s calm counsel and commitment to hard facts endeared him to millions of Americans. But he also became a villain to millions of others."
-    publishedDateTime: 2021-01-24T21:35:00Z
-    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-nyt-fauci-trump-coronavirus-20210124-xdokcu5atfahtphmduswyzsnba-story.html?outputType=amp"
-    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-nyt-fauci-trump-coronavirus-20210124-xdokcu5atfahtphmduswyzsnba-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-nyt-fauci-trump-coronavirus-20210124-xdokcu5atfahtphmduswyzsnba-story.html?outputType=amp"
+  - title: "MyPillow Guy among the Trump acolytes picking up the torch"
+    excerpt: "Mike Lindell, the businessman better known to the world as the MyPillow Guy, is weighing a run for governor in Minnesota"
+    publishedDateTime: 2021-01-23T14:47:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/mypillow-guy-trump-acolytes-picking-torch-75444177"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/mypillow-guy-trump-acolytes-picking-torch-75444177"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/mypillow-guy-trump-acolytes-picking-torch-75444177"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.chicagotribune.com/resizer/uczaXLLkERAWDUmrCOo2M4q-54c=/1200x0/left/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/3LYGYJEE7PY4UWVJH55TXZUU2M.aspx"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_1aeb02288805488587306b003a97079d_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "MyPillow Guy among the Trump acolytes picking up the torch"
+    excerpt: "Mike Lindell, the businessman better known to the world as the MyPillow Guy, is weighing a run for governor in Minnesota"
+    publishedDateTime: 2021-01-23T17:18:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/mypillow-guy-trump-acolytes-picking-torch-75444118"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/mypillow-guy-trump-acolytes-picking-torch-75444118"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/mypillow-guy-trump-acolytes-picking-torch-75444118"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/General/my-pillow-guy-mike-lindell-donald-trump-01-gty-llr-210123_1611431001386_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "City council seeks input on bill condemning Trump for riot"
+    excerpt: "A city council in Maryland is seeking public input on a resolution that condemns former President Donald Trump for the violent siege of the U.S. Capitol"
+    publishedDateTime: 2021-01-25T14:53:00Z
+    webUrl: "https://www.washingtonpost.com/local/city-council-seeks-input-on-bill-condemning-trump-for-riot/2021/01/25/360fa520-5f1c-11eb-a177-7765f29a9524_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/city-council-seeks-input-on-bill-condemning-trump-for-riot/2021/01/25/360fa520-5f1c-11eb-a177-7765f29a9524_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/city-council-seeks-input-on-bill-condemning-trump-for-riot/2021/01/25/360fa520-5f1c-11eb-a177-7765f29a9524_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "City council approves bill condemning Trump for Capitol riot"
+    excerpt: "A city council in Maryland unanimously approved a resolution condemning former President Donald Trump for the violent siege of the U.S. Capitol"
+    publishedDateTime: 2021-01-26T20:55:00Z
+    webUrl: "https://www.washingtonpost.com/local/city-council-approves-bill-condemning-trump-for-capitol-riot/2021/01/26/df7eda2c-5fee-11eb-a177-7765f29a9524_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/city-council-approves-bill-condemning-trump-for-capitol-riot/2021/01/26/df7eda2c-5fee-11eb-a177-7765f29a9524_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/city-council-approves-bill-condemning-trump-for-capitol-riot/2021/01/26/df7eda2c-5fee-11eb-a177-7765f29a9524_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Twitter permanently bans MyPillow CEO Mike Lindell after he continues to claim Trump won the election, fraud"
+    excerpt: "Twitter decided to ban Mike Lindell, who founded bedding company MyPillow, due to “repeated violations” of its civic integrity policy."
+    publishedDateTime: 2021-01-26T14:06:00Z
+    webUrl: "https://www.usatoday.com/story/tech/2021/01/26/twitter-bans-mypillow-ceo-mike-lindell-election-fraud-claims/4257458001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4257458001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4257458001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 121
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/03/31/USAT/6aff7ab2-44ed-40be-ab33-704a9c36a9c9-lindell.JPG?auto=webp&crop=2967,1669,x668,y102&format=pjpg&width=1200"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
-  - title: "Fauci says Trump pressured him to be 'more positive' on pandemic"
-    excerpt: "Anthony Fauci told The New York Times that former President Trump pressured him to offer more sunny projections about the trajectory of the coronavirus pandemic. “There were a couple of times where I would make a statement that was a pessimistic viewpoint about what direction we were going,"
-    publishedDateTime: 2021-01-25T14:27:00Z
-    webUrl: "https://thehill.com/policy/healthcare/535650-fauci-says-trump-pressured-him-to-be-more-positive-on-pandemic"
-    ampWebUrl: "https://thehill.com/policy/healthcare/535650-fauci-says-trump-pressured-him-to-be-more-positive-on-pandemic?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/healthcare/535650-fauci-says-trump-pressured-him-to-be-more-positive-on-pandemic?amp"
+  - title: "Donald Trump Said He'll Return, but Most Think He Shouldn't Be Allowed to Run Again"
+    excerpt: "The outgoing president has previously alluded to running in 2024, with comments having hinted at feeling he has unfinished business."
+    publishedDateTime: 2021-01-20T16:45:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-return-president-2024-poll-1563101"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-return-president-2024-poll-1563101?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-return-president-2024-poll-1563101?amp=1"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
+      name: Newsweek
+      domain: newsweek.com
+    quality: 119
     images:
-      - url: "https://thehill.com/sites/default/files/faucianthony_trumpdonald_101220gn-getty_split_fauci.jpg"
-        width: 980
-        height: 551
+      - url: "https://d.newsweek.com/en/full/1712115/donald-trump-joint-base-andrews.jpg"
+        width: 2500
+        height: 1667
         isCached: true
-  - title: "Dr. Anthony Fauci is the federal government's top-paid employee, and was paid $18,000 more than Trump in 2019"
-    excerpt: "Fauci, who leads the National Institute of Allergy and Infectious Diseases, earns more than $430,000 — US presidents have a salary of $400,000."
-    publishedDateTime: 2021-01-26T16:47:00Z
-    webUrl: "https://www.businessinsider.com/anthony-fauci-salary-government-top-paid-employee-president-salary-money-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/anthony-fauci-salary-government-top-paid-employee-president-salary-money-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/anthony-fauci-salary-government-top-paid-employee-president-salary-money-2021-1?amp"
+  - title: "Lawyers representing the Capitol insurrectionists are building a damning case against Trump"
+    excerpt: "Defense attorneys for some insurrections said their clients were acting on the orders of Trump in storming the Capitol."
+    publishedDateTime: 2021-01-24T00:15:00Z
+    webUrl: "https://www.businessinsider.com/capitol-insurrectionists-lawyers-make-case-trump-impeachment-prosecution-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/capitol-insurrectionists-lawyers-make-case-trump-impeachment-prosecution-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/capitol-insurrectionists-lawyers-make-case-trump-impeachment-prosecution-2021-1?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 106
+    quality: 115
     images:
-      - url: "https://i.insider.com/600ffb2967a6bc0019d9af8c?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5ff5f6066d61c10019ccdf62?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Ex-Trump spokeswoman Sanders running for Arkansas governor"
-    excerpt: "LITTLE ROCK, Ark. (AP) — Sarah Sanders, Donald Trump’s former chief spokeswoman and one of his closest aides, announced Monday she’s running for Arkansas governor, vying for political office even as the former president’s legacy is clouded by an impeachment charge that he incited the deadly siege at the U."
-    publishedDateTime: 2021-01-25T18:42:00Z
-    webUrl: "https://www.businessinsider.com/ex-trump-spokeswoman-sanders-running-for-arkansas-governor-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/ex-trump-spokeswoman-sanders-running-for-arkansas-governor-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ex-trump-spokeswoman-sanders-running-for-arkansas-governor-2021-1?amp"
+  - title: "In Wyoming, Cheney faces blowback for vote to impeach Trump"
+    excerpt: "When Liz Cheney, the third-ranking Republican in the House of Representatives, decided to vote to impeach a president from her own party, she knew she'd cause some waves. She might not have expected the seismic impact at home."
+    publishedDateTime: 2021-01-28T14:23:00Z
+    webUrl: "https://www.businessinsider.com/in-wyoming-cheney-faces-blowback-for-vote-to-impeach-trump-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/in-wyoming-cheney-faces-blowback-for-vote-to-impeach-trump-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/in-wyoming-cheney-faces-blowback-for-vote-to-impeach-trump-2021-1?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
-  - title: "Ex-Trump Spokeswoman Sanders Running for Arkansas Governor"
-    excerpt: "(AP) — Sarah Sanders, Donald Trump’s former chief spokeswoman and one of his closest aides, is running for Arkansas governor, a senior campaign official told The Associated Press. Sanders, who left the White House in 2019 to return to her home state,"
-    publishedDateTime: 2021-01-25T12:21:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-24/ap-source-sarah-sanders-running-for-arkansas-governor"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-24/ap-source-sarah-sanders-running-for-arkansas-governor?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-24/ap-source-sarah-sanders-running-for-arkansas-governor?context=amp"
+  - title: "The Trump administration is revoking the licenses of companies that supply to Huawei, as a final blow to the Chinese tech giant"
+    excerpt: "Huawei has long been a target of the Trump administration, which believes it spies for the Chinese government. Huawei has repeatedly denied the claim."
+    publishedDateTime: 2021-01-18T10:44:00Z
+    webUrl: "https://www.businessinsider.com/trump-administration-halts-huawei-supply-shipments-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/trump-administration-halts-huawei-supply-shipments-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-administration-halts-huawei-supply-shipments-2021-1?amp"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 97
+    images:
+      - url: "https://i.insider.com/60055311660f6c0018349a61?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "MyPillow Taking Lumps: How Mike Lindell's Trump Support Spells Downfall"
+    excerpt: "CEO Lindell last week was seen at the White House holding notes that seem to support many of the conspiracy theories surrounding election fraud."
+    publishedDateTime: 2021-01-19T12:48:00Z
+    webUrl: "https://www.ibtimes.com/mypillow-taking-lumps-how-mike-lindells-trump-support-spells-downfall-3125478"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
     quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/04/gettyimages-1218940907.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump-supporting 'My Pillow Guy' Suspended From Twitter"
+    excerpt: "A high-profile Donald Trump supporter who backed the former president's claims of electoral fraud has been permanently suspended from Twitter, the social media giant said Monday night, the latest in a series of bans of prominent right-wingers and conspiracy theorists."
+    publishedDateTime: 2021-01-26T06:58:00Z
+    webUrl: "https://www.ibtimes.com/trump-supporting-my-pillow-guy-suspended-twitter-3130757"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/26/lindell-has-been-speculating-about-his-own-politicial.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "TkCYS2JSxR08uvmvJshHPl32nJ/9OqKhPP/QXwkxbquRQa56ZRNwnkE1DDywpXnibffZMfxkxwSi/EMXIVASm6FGknyN/7BEP85iiXT/kKynkBEEG3UeJJEp6mkM/qjN71dEa/5Q0TvC1DUHdeuGgtc24DlYLFDWhhioBcmhztwwYIYayJ56E9G8nzy47lVSkF/VpjXef6gCEIeaQYTIVlY6quLw1DnMbKsgvUeGlG/GWdquut4rw9b0IwE+f+n3Cg/D9mRijgV73PdfM/CTPjqLNYXYi8tUZmVFptzoH+3rDwJiya0kD0lLZrV1vK2WFDL3hI+PUXVEhUpwqBfsWW/Kt7gG6jceePynuiwo/as=;cZtCtW9O6iiRtQgZEvu37w=="
 ---

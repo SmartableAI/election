@@ -48,53 +48,21 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "McConnell says he has 'not made a final decision' on how he will vote on Trump impeachment"
-    excerpt: "Senate Majority Leader Mitch McConnell told Republican colleagues Wednesday that he has “not made a final decision” on how he will vote on impeachment, despite signaling that he supported House Democrats’ move to initiate impeachment proceedings against President Trump."
-    publishedDateTime: 2021-01-13T20:35:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2JouXSKxUK8/mcconnell-says-he-has-not-made-a-final-decision-on-how-he-will-vote-on-trump-impeachment"
-    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-says-he-has-not-made-a-final-decision-on-how-he-will-vote-on-trump-impeachment.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-says-he-has-not-made-a-final-decision-on-how-he-will-vote-on-trump-impeachment.amp"
+  - title: "Romney on Trump impeachment: 'If we're going to have unity,' there must be 'accountability'"
+    excerpt: "Sen. Mitt Romney, R-Utah, expressed support for the upcoming impeachment trial of former President Donald Trump, telling \"Fox News Sunday\" that it was necessary to achieve justice."
+    publishedDateTime: 2021-01-24T14:46:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ROpovByjxzo/romney-trump-impeachment-trial-fox-news-sunday"
+    ampWebUrl: "https://www.foxnews.com/politics/romney-trump-impeachment-trial-fox-news-sunday.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/romney-trump-impeachment-trial-fox-news-sunday.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 165
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "McConnell says Trump 'provoked' the Capitol riot as Senate weighs another impeachment trial"
-    excerpt: "Senate Majority Leader Mitch McConnell, R-Ky., placed blame on President Trump for the riot at the Capitol on Jan. 6 that left five people dead, including a Capitol police officer."
-    publishedDateTime: 2021-01-19T18:53:56Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3C57DnXc1iQ/mcconnell-trump-capitol-riot-senate-weighs-another-impeachment-trial"
-    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-trump-capitol-riot-senate-weighs-another-impeachment-trial.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-trump-capitol-riot-senate-weighs-another-impeachment-trial.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21007146978656.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Senate won’t reconvene early to start impeachment trial before Trump leaves office: McConnell spokesman"
-    excerpt: "With President Trump likely set on Wednesday to become the only president ever impeached twice, Democrats were pressuring Senate Majority Leader Mitch McConnell, R-Ky., to invoke a 2004 resolution that could bring the Senate back quickly for what would essentially be an emergency session to begin the"
-    publishedDateTime: 2021-01-13T18:33:43Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/f9IdAGAFb2k/senate-wont-reconvene-early-to-start-impeachment-trial-before-trump-leaves-office-mcconnell-spokesman"
-    ampWebUrl: "https://www.foxnews.com/politics/senate-wont-reconvene-early-to-start-impeachment-trial-before-trump-leaves-office-mcconnell-spokesman.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-wont-reconvene-early-to-start-impeachment-trial-before-trump-leaves-office-mcconnell-spokesman.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 159
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7d395ede-3f62-4578-9c51-bb85dbc5b5ec/69007cf2-5cc4-4c47-8e93-d0f6f59af9f8/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Maher insists Trump will run again, McConnell won't impeach: 'The battle is over, this war is just beginning'"
     excerpt: "\"Real Time\" host Bill Maher returned from his holiday break Friday night and made bold predictions about the potential political aspirations of President Trump."

@@ -47,6 +47,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Patrick Leahy Takes Gavel in Second Trump Impeachment Trial"
+    excerpt: "When Sen. Patrick Leahy makes history as the first person to preside over the impeachment trial of a former president, the Vermont Democrat also will be in the thorny position of running the trial and serving as a juror."
+    publishedDateTime: 2021-01-30T14:51:00Z
+    webUrl: "https://www.wsj.com/articles/patrick-leahy-takes-gavel-in-second-trump-impeachment-trial-11612018170"
+    ampWebUrl: "https://www.wsj.com/amp/articles/patrick-leahy-takes-gavel-in-second-trump-impeachment-trial-11612018170"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/patrick-leahy-takes-gavel-in-second-trump-impeachment-trial-11612018170"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-291103/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Cruz: Second Trump impeachment was 'exercise in political rage' by Democrats: 'It was their id speaking'"
+    excerpt: "Congressional Democrats' push to convicted former President Donald Trump of impeachable offenses is \"driven by the partisan rage and the partisan anger that the Democrats feel,\" Sen. Ted Cruz, R-Texas, told \"Hannity\" Tuesday. \"They hate Donald J."
+    publishedDateTime: 2021-01-27T13:09:00Z
+    webUrl: "https://www.foxnews.com/politics/cruz-trump-impeachment-exercise-political-rage-democrats"
+    ampWebUrl: "https://www.foxnews.com/politics/cruz-trump-impeachment-exercise-political-rage-democrats.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cruz-trump-impeachment-exercise-political-rage-democrats.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 118
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3ee76d37-7cc3-41e5-a110-85fc30d5e54c/b533923f-0a48-4031-b2f3-27fe4a3bb1ca/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "v3BhIt6OBd3q1kwsSZR9zEnPvD/XE820wlWZ8MnypB90C+yM4OoTtNctRC0b7ePBdqKheIKHU3vFhenf4CR68k8v/BNc074CO15ICRCMnKIjxeOd5z9fCGqAGGGpfkgVPXd5VenVDDYiPX1EBofa04Z2zMJR/u1xBNlUL0YlY7WKmLwG8rSezfyMA5Q9ufTL4m84ZWnvp02e5TjO6dHVhndc/7AGiDGv8yFofL+xGQgTJ2JCN9jJPiNu9OKW2neuwsgiOFReZ/WNgnTojz5084FF5WjI2KhLoGO9LfFCddW+jypp2pV4fNJjvM/98KkgUO5xLLLMagfYaVFZKBZbltl/WoWIYYQStmrHcrtWTl0=;+ICWnSnAZBAHLElFTVvlZg=="
 ---

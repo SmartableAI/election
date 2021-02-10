@@ -48,19 +48,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden says democracy is under 'unprecedented assault' as pro-Trump rioters storm US Capitol "
-    excerpt: "President-elect Joe Biden on Wednesday called for an end to the chaos as anti-Trump rioters breached the US Capitol, where members of Congress were meeting to certify Biden's win.\n    \n"
-    publishedDateTime: 2021-01-06T22:50:29Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rJ9idYlsOyk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/06/politics/joe-biden-riots-capitol-speech/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/06/politics/joe-biden-riots-capitol-speech/index.html"
+  - title: "Analysis: Trump's bipartisan impeachment is historic"
+    excerpt: "The House voted on Wednesday to impeach President Donald Trump for a second time. This impeachment, unlike his first, was bipartisan. All told, 10 Republican representatives cast their vote to impeach Trump.\n    \n"
+    publishedDateTime: 2021-01-14T15:44:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rfevU8B8Lds/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/14/politics/impeachment-bipartisan-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/14/politics/impeachment-bipartisan-analysis/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 179
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200902153805-204-biden-lead-image-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210114092825-02-trump-0112-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -80,21 +80,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Justice Dept. Open to Pursuing Charges Against Trump in Inciting Riot"
-    excerpt: "The top federal prosecutor in Washington said investigators were examining anyone involved, “not only the people who went into” the Capitol."
-    publishedDateTime: 2021-01-08T01:00:00Z
-    webUrl: "https://www.nytimes.com/2021/01/07/us/politics/justice-department-trump-capitol.html"
-    ampWebUrl: "https://www.nytimes.com/2021/01/07/us/politics/justice-department-trump-capitol.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/07/us/politics/justice-department-trump-capitol.amp.html"
+  - title: "Donald Trump: America's 45th President"
+    excerpt: "President Donald Trump has been in the spotlight for years. From developing real estate and producing and starring in TV shows, he became a celebrity long before winning the White House. Trump had no political experience when he ran for president."
+    publishedDateTime: 2021-01-08T21:44:00Z
+    webUrl: "https://www.cnn.com/2021/01/08/politics/gallery/donald-trump/index.html"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
+      name: CNN
+      domain: cnn.com
+    quality: 115
     images:
-      - url: "https://static01.nyt.com/images/2021/01/07/lens/07dc-investigate-trump/07dc-investigate-trump-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190924214907-02-trump-gallery-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "1XiZ7qT8dYB0/kvRzfOqUKG41AVt+sf/P6z/o2FUfc07gFG2kXBoHR8z7/KUyiJPw3znG9+MHuetnSR5KmyRHKVaQjIT0+amzLlf8C/2GgG8Fe8zE2OnY9qv88xBS4HEsOja4H6yd42J1vLvoybv6GMxW/wIEKs+Aq4IOPnqWM+X/gyoXY1MN6rPCGioO81bQN8pOP90nb9v2md5yW2yWSRcg1e2QTcTjT1L/vo7PpdVIsoOf3Muoabyhe49DAzSIFUs9c/7Qjdv+98hO6gxbCEtnna7rNcZkE0zC8G6Sty8R3HZ3l4wGvkkIySsVXsB52EJLBUK9/x8jn+IMENG3W62g8oOuBpdbFeafmwbyzW26rpf4+RgWy6gFcnmgls5tEBfRbZhVI4w1UmkLp7nPDZ9NE8ofYrL8LDxQBtXi19boJPR8NSp5IzNEDa4KLazJfbPxbcu12+FWET8buz3hD5gSsSESL51Og7iBxwP0LzRto++O72Q5XtsbKFhdEqOSuTqBERlYNnWWp3wk8WBwg==;VI7NMxGdNnZklyzAOw1COA=="

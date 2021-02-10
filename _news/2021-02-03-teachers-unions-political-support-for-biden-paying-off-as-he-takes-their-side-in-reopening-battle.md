@@ -79,6 +79,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Recall Newsom campaign organizer says Biden’s opposition shows governor knows he’s in trouble"
+    excerpt: "The White House for the first time weighed in this week on the recall campaign to oust California Gov. Gavin Newsom over his handling of the Covid-19 pandemic."
+    publishedDateTime: 2021-02-10T20:36:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hXIQPnG1V1I/recall-newsom-campaign-organizer-bidens-opposition-governor-in-trouble"
+    ampWebUrl: "https://www.foxnews.com/politics/recall-newsom-campaign-organizer-bidens-opposition-governor-in-trouble.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/recall-newsom-campaign-organizer-bidens-opposition-governor-in-trouble.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21039862377802-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden's 'radical left agenda' with no focus on jobs will 'hurt family after family': Scott"
     excerpt: "President Biden showed that he is merely a \"puppet for the radical left\" after ending the Keystone pipeline project, Sen. Rick Scott, R-Fla., told \"The Faulkner Focus\" on Thursday."
     publishedDateTime: 2021-01-28T19:21:00Z

@@ -29,44 +29,12 @@ images:
     isCached: true
 
 related:
-  - title: "US Supreme Court asked to block Biden win in Pennsylvania"
-    excerpt: "Republicans attempting to undo President-elect Joe Biden’s victory in Pennsylvania have asked the U.S. Supreme Court to take up their lawsuit, three days after it was thrown out by the battleground st"
-    publishedDateTime: 2020-12-02T13:02:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/us-supreme-court-asked-block-biden-win-pennsylvania-74490166"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/us-supreme-court-asked-block-biden-win-pennsylvania-74490166"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/us-supreme-court-asked-block-biden-win-pennsylvania-74490166"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
-        isCached: true
-  - title: "Biden to meet with U.S. workers hit by pandemic, says Congress must act"
-    excerpt: "President-elect Joe Biden will talk with workers and business owners on Wednesday about how the coronavirus has affected them as he prepares to confront his highest priority on taking office: the resurgent pandemic in the United States."
-    publishedDateTime: 2020-12-02T20:36:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-workers-idINKBN28C1GM"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28C1GM"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28C1GM"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543264198&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB11YK"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Supreme Court again asked to block Biden win in Pennsylvania"
-    excerpt: "Fresh off another rejection in Pennsylvania’s courts, Republicans are again asking the U.S. Supreme Court to undo President-elect Joe Biden’s victory in the battleground state"
-    publishedDateTime: 2020-12-04T00:05:00Z
-    webUrl: "https://www.washingtonpost.com/politics/supreme-court-again-asked-to-block-biden-win-in-pennsylvania/2020/12/03/61143a0a-35c4-11eb-9699-00d311f13d2d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/supreme-court-again-asked-to-block-biden-win-in-pennsylvania/2020/12/03/61143a0a-35c4-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/supreme-court-again-asked-to-block-biden-win-in-pennsylvania/2020/12/03/61143a0a-35c4-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+  - title: "Gen. Milley key to military continuity as Biden takes office"
+    excerpt: "When the incoming Biden administration takes charge of a Pentagon rocked by four years of leadership churn, it’ll look mainly to one holdover to provide continuity"
+    publishedDateTime: 2021-01-17T12:42:00Z
+    webUrl: "https://www.washingtonpost.com/politics/gen-milley-key-to-military-continuity-as-biden-takes-office/2021/01/17/77d78818-58c0-11eb-a849-6f9423a75ffd_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/gen-milley-key-to-military-continuity-as-biden-takes-office/2021/01/17/77d78818-58c0-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/gen-milley-key-to-military-continuity-as-biden-takes-office/2021/01/17/77d78818-58c0-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
@@ -77,101 +45,143 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Supreme Court rejects GOP bid to overturn Biden's victory in Pennsylvania"
-    excerpt: "The high court spurned a request from Republican allies of President Trump to decertify Pennsylvania's election results."
-    publishedDateTime: 2020-12-09T12:36:00Z
-    webUrl: "https://www.cbsnews.com/news/supreme-court-rejects-pennsylvania-gop-suit-overturn-presidential-election-results/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/supreme-court-rejects-pennsylvania-gop-suit-overturn-presidential-election-results/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/supreme-court-rejects-pennsylvania-gop-suit-overturn-presidential-election-results/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 124
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/01/80c61613-2c50-466e-8bc0-c94e04340f94/thumbnail/1200x630/599c98122454d59cc8ef7b92437607ff/gettyimages-1223641796.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "U.S. Supreme Court rejects Republican challenge to Biden's Pennsylvania win"
-    excerpt: "The U.S. Supreme Court on Tuesday handed a defeat to Republicans seeking to throw out up to 2.5 million mail-in ballots in Pennsylvania as they try to undo President Donald Trump's election loss, with the justices refusing to block the state from formalizing"
-    publishedDateTime: 2020-12-09T02:56:00Z
-    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN28I35L"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28I35L"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28I35L"
+  - title: "Biden to keep Wray as FBI director - law enforcement source"
+    excerpt: "President Joe Biden has asked Christopher Wray to stay on as FBI director and Wray has agreed to remain the head of the agency, a U.S. law enforcement source told Reuters."
+    publishedDateTime: 2021-01-21T22:56:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-biden-fbi-idUKKBN29Q2L3?edition-redirect=uk"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN29Q2L3"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN29Q2L3"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 123
+    quality: 125
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201208&t=2&i=1543886187&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB71T6"
-        width: 828
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210121&t=2&i=1548600363&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0K17H"
+        width: 817
         height: 545
         isCached: true
-  - title: "Pennsylvania lawmaker learns of positive COVID-19 test while meeting with Trump: source"
-    excerpt: "A Pennsylvania state senator abruptly left a meeting with President Trump after being told he was positive for the coronavirus, a source told AP."
-    publishedDateTime: 2020-12-01T07:15:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/30/trump-meeting-pa-lawmaker-mastriano-told-he-has-covid-report/6461577002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6461577002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6461577002"
+  - title: "Majority of U.S. Senate approves Biden nominee Austin to lead Pentagon"
+    excerpt: "The U.S. Senate on Friday confirmed President Joe Biden's nominee, retired Army General Lloyd Austin, to serve as Secretary of Defense - the first Black American in the role."
+    publishedDateTime: 2021-01-22T16:44:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-pentagon-idUSKBN29R204"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29R204"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29R204"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210122&t=2&i=1548730773&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0L13U"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "As Joe Biden Calls for Unity, AOC Demands Josh Hawley and Ted Cruz Expulsions"
+    excerpt: "The New York representative said the Republicans should be chucked out of the Senate if they failed to resign."
+    publishedDateTime: 2021-01-22T14:23:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-unity-aoc-hawley-cruz-expelled-1563682"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-unity-aoc-hawley-cruz-expelled-1563682?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-unity-aoc-hawley-cruz-expelled-1563682?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 122
+    images:
+      - url: "https://d.newsweek.com/en/full/1713910/alexandria-ocasio-cortez.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Joe Biden's Plan to Extend Russia Nuclear Treaty Praised by Arms Control Groups"
+    excerpt: "\"After years of Trump putting Americans in harm's way by decimating international agreements, we can all breathe a bit easier now that he cannot start a nuclear war within minutes,\" Peace Action senior director for policy and political affairs Paul Kawika Martin told Newsweek."
+    publishedDateTime: 2021-01-21T22:43:00Z
+    webUrl: "https://www.newsweek.com/experts-praise-signs-biden-extend-new-start-trump-rejects-1563529"
+    ampWebUrl: "https://www.newsweek.com/experts-praise-signs-biden-extend-new-start-trump-rejects-1563529?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/experts-praise-signs-biden-extend-new-start-trump-rejects-1563529?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 121
+    images:
+      - url: "https://d.newsweek.com/en/full/1713669/us-nuclear-missile-icbm-test.jpg"
+        width: 1000
+        height: 715
+        isCached: true
+  - title: "Biden plans early legislation to offer legal status to 11 million immigrants without it"
+    excerpt: "During his first days in office, President-elect Joe Biden plans to unveil a legislative proposal that would include a path to citizenship for 11 million immigrants in the U.S. illegally, according to activists in communication with his transition team."
+    publishedDateTime: 2021-01-16T09:13:00Z
+    webUrl: "https://www.latimes.com/california/story/2021-01-15/biden-to-send-congress-bill-to-legalize-11-million-immigrants-who-lack-documentation"
+    ampWebUrl: "https://www.latimes.com/california/story/2021-01-15/biden-to-send-congress-bill-to-legalize-11-million-immigrants-who-lack-documentation?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/california/story/2021-01-15/biden-to-send-congress-bill-to-legalize-11-million-immigrants-who-lack-documentation?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
     quality: 117
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/30/USAT/c13c2134-3d9a-42a8-93cc-895d30d08dd1-AP20312766885485.jpg?auto=webp&crop=5268,2964,x0,y268&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/90ebe2b/2147483647/strip/true/crop/480x314+0+23/resize/320x209!/quality/90/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FQcvaRAiB0V8%2Fhqdefault.jpg"
+        width: 320
+        height: 209
         isCached: true
-  - title: "The Supreme Court has rejected Republicans' request to overturn Biden's Pennsylvania win"
-    excerpt: "The case was brought by a group of Republican state legislators in Pennsylvania and is another stinging defeat for the Trump campaign."
-    publishedDateTime: 2020-12-08T21:55:00Z
-    webUrl: "https://www.businessinsider.com/supreme-court-rejects-gops-request-to-overturn-biden-pennsylvania-win-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/supreme-court-rejects-gops-request-to-overturn-biden-pennsylvania-win-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/supreme-court-rejects-gops-request-to-overturn-biden-pennsylvania-win-2020-12?amp"
+  - title: "Biden's Oval Office swaps Andrew Jackson, military flags for family photos, civil rights leaders"
+    excerpt: "U.S President Joe Biden has decorated his new office with busts of civil rights and labor leaders, nods to other presidents who faced great crises, and side-by-side portraits of American founders who famously disagreed."
+    publishedDateTime: 2021-01-23T01:35:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-oval-idUSKBN29R2K5"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29R2K5"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29R2K5"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 116
+      name: Reuters
+      domain: reuters.com
+    quality: 112
     images:
-      - url: "https://i.insider.com/5fb2e9ad1c741f0019aca1d1?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210122&t=2&i=1548759745&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0L1HK"
+        width: 815
+        height: 545
         isCached: true
-  - title: "'I'd get my house bombed tonight': Pennsylvania Republican leaders details pressure to support Trump's efforts to overturn the election"
-    excerpt: "Trump has run out of options to take Biden's win away, with the Supreme Court also refusing to hear a challenge to overturn Pennsylvania's results."
-    publishedDateTime: 2020-12-09T22:37:00Z
-    webUrl: "https://www.businessinsider.com/pennsylvania-gop-leader-worries-house-would-be-bombed-trump-election-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/pennsylvania-gop-leader-worries-house-would-be-bombed-trump-election-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pennsylvania-gop-leader-worries-house-would-be-bombed-trump-election-2020-12?amp"
+  - title: "Biden taps Levine for key health role, in historic pick of transgender person"
+    excerpt: "President-elect Joe Biden on Tuesday named Dr. Rachel Levine to service as assistant U.S. health secretary, a historic first as Levine would become the first openly transgender official to be confirmed by the Senate."
+    publishedDateTime: 2021-01-19T14:48:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-levine/biden-taps-levine-for-key-health-role-in-historic-pick-of-transgender-person-idUSKBN29O1J1"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 108
-    images:
-      - url: "https://i.insider.com/5fd1370048a2590018262889?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Joe Biden officially secures enough electors to become president after California certifies his victory in the state"
-    excerpt: "California certified its presidential election Friday, officially handing Biden the Electoral College majority needed to win the White House."
-    publishedDateTime: 2020-12-05T02:52:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-biden-electors-20201205-k7dellhnezfixorx62iosy4bzu-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-biden-electors-20201205-k7dellhnezfixorx62iosy4bzu-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-biden-electors-20201205-k7dellhnezfixorx62iosy4bzu-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
+      name: Reuters
+      domain: reuters.com
     quality: 102
     images:
-      - url: "https://www.chicagotribune.com/resizer/xvHs5DmNU-TWtuQsIVRcbg-B8P0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/F7CW27NKDBAWFFLEC2ZWZKZBJ4.aspx"
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548313465&r=LYNXMPEH0I0ZQ&w=800"
+        width: 800
+        height: 515
+        isCached: true
+  - title: "Biden pledges to vaccinate 100 million Americans in his first 100 days in office"
+    excerpt: "President-elect Joe Biden is pledging to fix the United States' slow coronavirus vaccine rollout. CBS News senior White House and political correspondent Ed O'Keefe spoke with CBSN's Elaine Quijano about what the incoming Biden administration plans to do."
+    publishedDateTime: 2021-01-16T01:09:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-pledges-to-vaccinate-100-million-americans-in-his-first-100-days-in-office/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 100
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/16/1e229ed6-306f-491b-9a1a-96d74f087821/thumbnail/1200x630/a286355ec3d57513ef1d25b289737f3f/0115-cbsn-sws-627506-640x360.jpg"
         width: 1200
-        height: 675
+        height: 630
+        isCached: true
+  - title: "Walmart, Disney suspend contributions to U.S. lawmakers who opposed Biden certification"
+    excerpt: "Walmart Inc, the world's biggest retailer and Walt Disney Co joined other major companies in indefinitely suspending donations to U.S. lawmakers who voted against President-elect Joe Biden's election certification."
+    publishedDateTime: 2021-01-13T07:53:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-corporate-walmart-idUSKBN29H2TO"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 97
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210113&t=2&i=1547573394&r=LYNXMPEH0B1LM&w=800"
+        width: 800
+        height: 459
         isCached: true
 
 secured: "5C1ammuBPlRE4Sp+FQZNxRZnrA/iaGKFlSF8tv/iAcJZ4k8XTyieNXVoLuMmU3OlCS63NdS6Lm1dYbokXyvxH8mq8zREjv9wrezqf2ZjURaB0nzmXZi5ZGXiBnp/RQg4YJxh0hwP94P52HA88PPIE3j8dryuGuLpOzmkuBBa6pGFBSHAZ8Y0QWSAuPfMNPmPjT2ttybKR7YQZNOM6VXkele2ze7QEDVSmj/8yLmx2GUKgczJkzCEkVMPhrsE76W+/3qqTtl2VSwrJ3lQEaDgngixqkGkqmX0kG1FMT7OzaH5h7IMHebCu+Sd5dW1fArPd80hye21iYSH8v+QRk16qKNhl48t4uYuznsuhof3oRw=;YaIQq+BjW9Wu2AjhYYzceg=="

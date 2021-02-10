@@ -159,6 +159,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Live Updates: Trump won't testify at impeachment trial"
+    excerpt: "House impeachment managers requested that Trump provide testimony under oath either before or during the Senate impeachment trial about \"his conduct\" on Jan. 6."
+    publishedDateTime: 2021-02-05T05:54:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LSr6xCVGtKY/live-updates-trump-impeachment-2-5-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-impeachment-2-5-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-impeachment-2-5-2021.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/395c1b78-1ac4-4f72-9a64-5329fa2896e3/26d7f438-3030-433c-b7f0-092766e5cdaa/1280x720/match/image.jpg"
+        width: 1279
+        height: 720
+        isCached: true
+  - title: "LIVE UPDATES: Who is presiding over Trump's impeachment trial?"
+    excerpt: "Follow for the latest updates on Trump's impeachment trial. Mobile users click here. "
+    publishedDateTime: 2021-02-06T06:43:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JIoBfOD1z8o/live-updates-trumps-impeachment-trial-2-6-21"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trumps-impeachment-trial-2-6-21.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trumps-impeachment-trial-2-6-21.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f5f90c8b-48e3-4814-a3b9-4148b1943c47/588e19ba-362f-4a1b-87cd-fdc31c2182b8/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "These attorneys are defending Trump in the impeachment trial"
     excerpt: "Former President Donald Trump is preparing for his second Senate impeachment trial, where his team will defend him against the charge that he incited an insurrection at the Capitol on Jan. 6."
     publishedDateTime: 2021-02-06T16:22:10Z
@@ -334,6 +366,22 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/568b8e9c-Jen-Psaki.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Grassley urges Biden against firing Trump US attorneys amid investigations: 'Take the time and do it right'"
+    excerpt: "Republican Sen. Chuck Grassley on Wednesday asked President Biden not to “fire all of President Trump’s U.S. Attorneys\" amid ongoing investigations, after the Justice Department said this week the Trump-era federal prosecutors would be forced to resign from their posts by the end of the month, urging"
+    publishedDateTime: 2021-02-10T20:53:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Yx_vDpoUoaY/grassley-urges-biden-against-firing-trump-us-attorneys-amid-investigations-take-the-time-to-do-it-right"
+    ampWebUrl: "https://www.foxnews.com/politics/grassley-urges-biden-against-firing-trump-us-attorneys-amid-investigations-take-the-time-to-do-it-right.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/grassley-urges-biden-against-firing-trump-us-attorneys-amid-investigations-take-the-time-to-do-it-right.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Sen. Ted Cruz rips second impeachment trial, predicts Trump will be acquitted"
     excerpt: "Sen. Ted Cruz, R-Texas, said Wednesday on \"America’s Newsroom\" that the second impeachment trial of former President Donald Trump is a \"mistake\" and \"doomed to failure.\""
@@ -987,6 +1035,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Live Updates: Trump's impeachment trial starts with opening statements"
+    excerpt: "The Senate impeachment trial of former President Donald Trump began on Tuesday with opening statements and debate between House impeachment managers and Trump's defense lawyers."
+    publishedDateTime: 2021-02-09T20:44:00Z
+    webUrl: "https://www.foxnews.com/politics/live-updates-trump-impeachment-2-9-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-impeachment-2-9-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-impeachment-2-9-2021.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aff142e3-34ee-46df-8f7f-e92976220d66/6d133fea-0a5a-4be6-aaa7-f631defd19fd/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "On Day Two of Trump Impeachment Trial, Democrats Lay Out Their Case"
     excerpt: "Democrats are expected to offer as evidence video and audio presentations of the Jan. 6 riot, as they make their case that Mr. Trump incited his supporters to storm the Capitol."
     publishedDateTime: 2021-02-10T09:30:00Z
@@ -1016,6 +1080,22 @@ related:
     quality: 135
     images:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/impeachment-69.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Key Trump quotes left out of impeachment trial, GOP says"
+    excerpt: "Republicans on Wednesday accused Democrats of playing dirty at the impeachment trial of former President Donald Trump — as one GOP senator said Trump’s acquittal on a charge of"
+    publishedDateTime: 2021-02-10T20:41:00Z
+    webUrl: "https://nypost.com/2021/02/10/key-trump-quotes-left-out-of-impeachment-trial-gop-says/"
+    ampWebUrl: "https://nypost.com/2021/02/10/key-trump-quotes-left-out-of-impeachment-trial-gop-says/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/10/key-trump-quotes-left-out-of-impeachment-trial-gop-says/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/donald-trump-3.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true

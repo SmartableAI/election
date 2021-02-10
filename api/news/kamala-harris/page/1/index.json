@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-10-dozens-of-celebrities-call-on-joe-biden-kamala-harris-to-shut-down-the-dakota-access-pipeline.md",
+      "title": "Dozens of celebrities call on Joe Biden, Kamala Harris to shut down the Dakota Access Pipeline",
+      "excerpt": "Dozens of celebrities signed a letter to President Joe Biden and Vice President Kamala Harris calling on their administration to shut down the Dakota Access Pipeline for good.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/entertainment/dozens-of-celebrities-call-on-joe-biden-kamala-harris-to-shut-down-the-dakota-access-pipeline",
+      "originalUrl": "https://www.foxnews.com/entertainment/dozens-of-celebrities-call-on-joe-biden-kamala-harris-to-shut-down-the-dakota-access-pipeline",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/CelebsReact21.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/entertainment/dozens-of-celebrities-call-on-joe-biden-kamala-harris-to-shut-down-the-dakota-access-pipeline.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/dozens-of-celebrities-call-on-joe-biden-kamala-harris-to-shut-down-the-dakota-access-pipeline.amp",
+      "publishedDateTime": "2021-02-10T07:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-06-harris-flexes-power-as-senate-tiebreaker.md",
       "title": "Harris flexes power as Senate tiebreaker",
       "excerpt": "Early Friday morning, Vice President Kamala Harris did something Joe Biden never did in his eight years as vice president -- cast a tie-breaking vote.\n    \n",
@@ -67,7 +124,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/courts_law/capitol-police-officer-who-died-after-riot-to-lie-in-honor/2021/02/02/8f908fb8-65b8-11eb-bab8-707f8769d785_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1830,
+      "heat": 1790,
       "tags": null,
       "images": [
         {
@@ -378,6 +435,64 @@
       ]
     },
     {
+      "path": "_news/2021-01-27-ex-drug-kingpin-and-death-row-records-founder-michael-harry-o-harris-weeps-thanks-trump-for-pardon.md",
+      "title": "Ex-drug kingpin and 'Death Row Records' founder Michael ‘Harry-O’ Harris weeps, thanks Trump for pardon",
+      "excerpt": "His was one of 73 pardons and 70 sentence commutations issued by Trump during his finals days in office last week. \"I appreciate Donald Trump, his children, his son-in-law. Whyever he did it, he did it, when so many others wouldn't do it,\" Harris said of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/us/drug-kingpin-death-row-records-michael-harry-o-harris-trump-pardon",
+      "originalUrl": "https://www.foxnews.com/us/drug-kingpin-death-row-records-michael-harry-o-harris-trump-pardon",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Michael-Harry-O-Harris.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/us/drug-kingpin-death-row-records-michael-harry-o-harris-trump-pardon.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/drug-kingpin-death-row-records-michael-harry-o-harris-trump-pardon.amp",
+      "publishedDateTime": "2021-01-26T19:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-01-26-harris-reflects-on-full-circle-moment-after-receiving-vaccine-dose-at-nih-building-her-late-mother-frequented.md",
       "title": "Harris reflects on 'full circle' moment after receiving vaccine dose at NIH building her late mother frequented",
       "excerpt": "Vice President Kamala Harris on Tuesday spoke in personal terms about a \"full circle\" moment after receiving the second dose of the Moderna Covid-19 vaccine at the same National Institutes of Health building her late mother had frequented for work.\n    \n",
@@ -658,6 +773,63 @@
       ]
     },
     {
+      "path": "_news/2021-01-22-kamala-harris-doug-emhoff-will-stay-in-blair-house-while-vp-residence-undergoes-repairs.md",
+      "title": "Kamala Harris, Doug Emhoff will stay in Blair House while VP residence undergoes repairs",
+      "excerpt": "This is the house where history will be made. Vice President Kamala Harris will soon be residing on the grounds of the Naval Observatory in northwestern Washington, D.C., in a home occupied by several of her predecessors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/real-estate/kamala-harris-doug-emhoff-will-stay-in-blair-house-while-vp-residence-undergoes-repairs",
+      "originalUrl": "https://www.foxnews.com/real-estate/kamala-harris-doug-emhoff-will-stay-in-blair-house-while-vp-residence-undergoes-repairs",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/residence-of-the-Vice-President-1.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/real-estate/kamala-harris-doug-emhoff-will-stay-in-blair-house-while-vp-residence-undergoes-repairs.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/real-estate/kamala-harris-doug-emhoff-will-stay-in-blair-house-while-vp-residence-undergoes-repairs.amp",
+      "publishedDateTime": "2021-01-22T00:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-22-georgia-black-women-leaders-on-saving-democracy-by-helping-flip-senate-fueling-biden-harris-win.md",
       "title": "Georgia Black women leaders on 'saving democracy' by helping flip Senate, fueling Biden-Harris win",
       "excerpt": "It’s almost like someone has wiped the darkness away and given us new light,” a voter registration organizer said.",
@@ -719,7 +891,7 @@
       "originalUrl": "https://www.aljazeera.com/news/2021/1/21/kamala-harris-americas-first-woman-black-vice-president",
       "featuredContent": null,
       "highlight": null,
-      "heat": 785,
+      "heat": 845,
       "tags": null,
       "images": [
         {
@@ -877,64 +1049,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-20-snoop-dogg-praises-trump-for-commuting-sentence-of-death-row-record-co-founder-michael-harry-o-harris.md",
-      "title": "Snoop Dogg praises Trump for commuting sentence of Death Row Record co-founder Michael 'Harry O' Harris",
-      "excerpt": "Snoop Dogg praised President Trump in his final hours in office for commuting the sentence of his friend, Death Row Records co-founder Michael \"Harry O\" Harris.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/entertainment/snoop-dogg-praises-trump-commuting-sentence-michael-harry-o-harris-death-row-records",
-      "originalUrl": "https://www.foxnews.com/entertainment/snoop-dogg-praises-trump-commuting-sentence-michael-harry-o-harris-death-row-records",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Snoop-Dogg.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/entertainment/snoop-dogg-praises-trump-commuting-sentence-michael-harry-o-harris-death-row-records.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/snoop-dogg-praises-trump-commuting-sentence-michael-harry-o-harris-death-row-records.amp",
-      "publishedDateTime": "2021-01-20T04:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
       "path": "_news/2021-01-19-progressive-indian-bistro-aurum-opens-in-los-altos-with-a-kamala-harris-tribute-feast.md",
       "title": "Progressive Indian bistro Aurum opens in Los Altos with a Kamala Harris tribute feast",
       "excerpt": "Now in Los Altos, he has teamed up with Anupam Bhatia, the restaurateur who founded Broadway Masala in Redwood City, to open a contemporary Indian bistro called Aurum. After a soft opening, Aurum — the name,",
@@ -986,7 +1100,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/trump-plans-depart-washington-inauguration-day-morning-pence/story?id=75280643",
       "featuredContent": null,
       "highlight": null,
-      "heat": 4318,
+      "heat": 5058,
       "tags": null,
       "images": [
         {
@@ -1043,7 +1157,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 2325,
+      "heat": 2265,
       "tags": null,
       "images": [
         {
@@ -1142,6 +1256,49 @@
       "topics": [
         "Election",
         "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-01-16-kamala-harris-and-doug-emhoff-recall-first-date-it-felt-like-we-had-known-each-other-forever.md",
+      "title": "Kamala Harris and Doug Emhoff recall first date: ‘It felt like we had known each other forever’",
+      "excerpt": "CNN Vice President-elect Kamala Harris and her husband Doug Emhoff recalled their first date in a rare joint interview with CNN’s Abby Phillip,",
+      "sourceUrl": null,
+      "webUrl": "https://www.mercurynews.com/2021/01/15/kamala-harris-and-doug-emhoff-recall-first-date-it-felt-like-we-had-known-each-other-forever",
+      "originalUrl": "https://www.mercurynews.com/2021/01/15/kamala-harris-and-doug-emhoff-recall-first-date-it-felt-like-we-had-known-each-other-forever",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mercurynews.com/wp-content/uploads/2021/01/hypatia-h_263ed141685350633ca3cfd29159bf27-h_289cae49dbd4ed18e59e30ca1e35b524.jpg?w=1024&h=719",
+          "width": 1024,
+          "height": 719,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mercurynews.com/2021/01/15/kamala-harris-and-doug-emhoff-recall-first-date-it-felt-like-we-had-known-each-other-forever/amp/",
+      "cdnAmpWebUrl": "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/01/15/kamala-harris-and-doug-emhoff-recall-first-date-it-felt-like-we-had-known-each-other-forever/amp/",
+      "publishedDateTime": "2021-01-15T10:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mercury News",
+        "domain": "mercurynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
         "Kamala Harris"
       ]
     },
@@ -1260,6 +1417,58 @@
       ]
     },
     {
+      "path": "_news/2021-01-12-berkeley-parents-to-stage-sit-in-for-reopening-schools-at-kamala-harris-old-elementary-school.md",
+      "title": "Berkeley parents to stage 'sit-in' for reopening schools at Kamala Harris' old elementary school",
+      "excerpt": "The sit-in is framed by advocates for reopening schools as a call against \"discrimination in the access of education in California.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.houstonchronicle.com/bayarea/article/Berkeley-parents-sit-in-Kamala-Harris-elementary-15864609.php",
+      "originalUrl": "https://www.houstonchronicle.com/bayarea/article/Berkeley-parents-sit-in-Kamala-Harris-elementary-15864609.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/16/05/13/20468433/3/rawImage.jpg",
+          "width": 2048,
+          "height": 1352,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-12T06:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "houstonchronicle.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-01-12-kamala-d-harriss-most-trusted-adviser-her-sister-maya.md",
       "title": "Kamala D. Harris’s most trusted adviser: her sister Maya",
       "excerpt": "Kennedy had Bobby, Joe Biden’s sister Valerie once ran his campaigns and Ivanka Trump has been one of the president’s most visible advisers. Kamala D. Harris has her younger sister, Maya Harris. The two are not only extremely close;",
@@ -1268,7 +1477,7 @@
       "originalUrl": "https://www.washingtonpost.com/lifestyle/2021/01/11/maya-kamala-harris-sister/?arc404=true",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -1320,7 +1529,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/jan/10/kamala-harris-vogue-cover-photos-anna-wintour?fbclid=IwAR1bNX4SBZrhlR_3TtForOSsodHxc-6OWQbLFglDCZ2N9L3EKdFRGsmiwEA",
       "featuredContent": null,
       "highlight": null,
-      "heat": 405,
+      "heat": 445,
       "tags": null,
       "images": [
         {
@@ -1410,216 +1619,7 @@
         "Kamala Harris",
         "Republican Voice"
       ]
-    },
-    {
-      "path": "_news/2021-01-07-house-members-harris-allred-nearly-come-to-blows-during-pennsylvania-certification-debate-reports.md",
-      "title": "House members Harris, Allred nearly come to blows during Pennsylvania certification debate: reports",
-      "excerpt": "Tensions on Capitol Hill nearly resulted in fisticuffs early Thursday between a Republican and a Democrat in the U.S. House, according to reporter accounts.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/i4PtfLElP-U/house-members-harris-allred-nearly-come-to-blows-during-pennsylvania-certification-debate-reports",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/i4PtfLElP-U/house-members-harris-allred-nearly-come-to-blows-during-pennsylvania-certification-debate-reports",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/fightsplit-xxxxx.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/house-members-harris-allred-nearly-come-to-blows-during-pennsylvania-certification-debate-reports.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-members-harris-allred-nearly-come-to-blows-during-pennsylvania-certification-debate-reports.amp",
-      "publishedDateTime": "2021-01-06T23:50:46-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-kamala-harris-we-are-going-to-be-inaugurated.md",
-      "title": "Kamala Harris: 'We are going to be inaugurated'",
-      "excerpt": "Vice President-elect Kamala Harris on Monday night emphasized that she and President-elect Joe Biden will be inaugurated on January 20th. She was responding to a question about efforts by some Republicans to contest the election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/videos/news/nation/2021/01/05/kamala-harris-we-going-inaugurated/4138103001/",
-      "originalUrl": "https://www.usatoday.com/videos/news/nation/2021/01/05/kamala-harris-we-going-inaugurated/4138103001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 265,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/01/05/USAT/e9f154b5-0846-4da4-a08a-0022190056a2-d795040e-4df7-428e-955d-7feb21a4554c_thumbnail.png?quality=10",
-          "width": 852,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-05T02:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-01-04-harris-lambasts-trump-call-with-georgia-officials-as-bold-abuse-of-power.md",
-      "title": "Harris lambasts Trump call with Georgia officials as 'bold abuse of power'",
-      "excerpt": "Vice President-elect Kamala Harris slammed President Donald Trump and his call pushing Georgia Secretary of State Brad Raffensperger to \"find\" votes to overturn the election results, a \"bald-faced, bold abuse of power,\" in Savannah, Georgia, on Sunday.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gpEQsIfTTrQ/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gpEQsIfTTrQ/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 678,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210103182736-kamala-harris-trump-georgia-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/03/politics/kamala-harris-trump-georgia/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/03/politics/kamala-harris-trump-georgia/index.html",
-      "publishedDateTime": "2021-01-03T18:54:28-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-01-03-georgia-senate-runoffs-kamala-harris-stumps-in-savannah-trump-pressures-for-overturn-and-the-heat-turns-up.md",
-      "title": "Georgia Senate runoffs: Kamala Harris stumps in Savannah, Trump pressures for overturn and the heat turns up",
-      "excerpt": "With two days to go before the election, US Senate hopefuls hit the campaign trail with Trump, Biden and Harris.",
-      "sourceUrl": null,
-      "webUrl": "https://www.indystar.com/story/news/2021/01/03/trump-biden-and-harris-visit-georgia-stump-us-senate-hopefuls/4119965001/",
-      "originalUrl": "https://www.indystar.com/story/news/2021/01/03/trump-biden-and-harris-visit-georgia-stump-us-senate-hopefuls/4119965001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/01/04/NSMN/3ea90e02-f23e-434a-a69b-42465296e1f5-Kamala5.jpg?auto=webp&crop=1999,1125,x0,y133&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.indystar.com/amp/4119965001",
-      "cdnAmpWebUrl": "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/4119965001",
-      "publishedDateTime": "2021-01-02T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indianapolis Star",
-        "domain": "indystar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
     }
   ],
-  "nextPage": 2
+  "nextPage": null
 }

@@ -45,21 +45,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Vaccine reserve was already exhausted when Trump administration vowed to release it, dashing hopes of expanded access"
-    excerpt: "States were anticipating a windfall after federal officials said they would stop holding back second doses. But the policy had already changed, and no stockpile exists."
-    publishedDateTime: 2021-01-15T20:02:00Z
-    webUrl: "https://www.washingtonpost.com/health/2021/01/15/trump-vaccine-reserve-used-up/"
-    ampWebUrl: "https://www.washingtonpost.com/health/2021/01/15/trump-vaccine-reserve-used-up/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/2021/01/15/trump-vaccine-reserve-used-up/?outputType=amp"
+  - title: "Pompeo lifts restrictions on U.S.-Taiwan relationship as clock runs out on Trump administration"
+    excerpt: "Secretary of State Mike Pompeo on Saturday said he was lifting restrictions on contacts between U.S. officials and their Taiwanese counterparts, a move likely to anger China and increase tensions between Beijing and Washington in the waning days of President Donald"
+    publishedDateTime: 2021-01-10T12:13:00Z
+    webUrl: "https://www.reuters.com/article/SOMNIA-idUSKBN29E0Q6"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 102
+      name: Reuters
+      domain: reuters.com
+    quality: 93
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NXIXITCVBEI6XLGFSLJIDGQ4ZM.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210109&t=2&i=1547231457&r=LYNXMPEH080GE&w=800"
+        width: 800
+        height: 533
         isCached: true
 
 secured: "yGKTQemu9SPGaTdnf+ZKSa72l83prjqayNkw/9xvgsE97r4ThB2/t+Gh0wxUMPSNPFlJgcJTGPItbf1cEl3xuYFyErLfaO96DCZ8+28W3+R58SQCpyKbdQEDeSlMagBA49jUGA3JwUtvk8VRmFMjbLGagwSNsII0k0iNnxootbJ6SUYSYPnf1R13A8kKT2t4LBAfH4t5NkDPJ3Sb3uUZ/KqLwb9keWCG0gljZml5qYUlaAVgaCQTMud5tVxQLbzhZdec2ObAzaU48nPONSNqVDuLJiZCn9XEDHPpXeJNV63BuCGpCS9yFxpJPReTxjAQj7EgXPGjhDk5HXgCxHdYwhGtriLG6B+Am4Bqb1ZCvh0=;taGoqLRZSgDyNXeyBWAn3g=="

@@ -30,19 +30,35 @@ images:
     isCached: true
 
 related:
-  - title: "John Roberts ducks the spotlight by skipping the second Trump impeachment trial"
-    excerpt: "Chief Justice John Roberts has long been a student of history, but this is one part of history -- presiding at the second trial of Donald Trump -- he can do without.\n    \n"
-    publishedDateTime: 2021-01-26T01:22:33Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/u0TQusfQybw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/john-roberts-trump-impeachment/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/john-roberts-trump-impeachment/index.html"
+  - title: "Mitch McConnell: Capitol Hill mob was 'provoked' by Trump"
+    excerpt: "Senate Majority Leader Mitch McConnell said on Tuesday that the mob that attacked the Capitol was \"provoked\" by President Donald Trump.\n    \n"
+    publishedDateTime: 2021-01-19T18:12:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/c91qrJnbX7E/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/19/politics/mitch-mcconnell-rioters-provoked/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/mitch-mcconnell-rioters-provoked/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 171
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125134312-01-justice-john-roberts-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201216122059-03-mcconnell-trump-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "McConnell proposes delaying impeachment trial until February so Trump team can prepare"
+    excerpt: "The timing of former President Donald Trump's Senate impeachment trial is still unsettled while Senate leaders haggle over how a power-sharing agreement will govern a 50-50 Senate.\n    \n"
+    publishedDateTime: 2021-01-22T02:55:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rjYhHedOgIc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/21/politics/nancy-pelosi-impeachment-timing/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/21/politics/nancy-pelosi-impeachment-timing/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106121255-01-mcconnell-0106-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -62,51 +78,97 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Sen. Patrick Leahy taken to hospital out of abundance of caution after presiding over opening of Trump's impeachment trial"
-    excerpt: "Sen. Patrick Leahy was hospitalized out of an abundance of caution on Wednesday, just hours after presiding over the opening of former President Donald Trump's second impeachment trial.\n    \n"
-    publishedDateTime: 2021-01-27T00:18:24Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ol2AVzchkEw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/26/politics/patrick-leahy-hospital/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/patrick-leahy-hospital/index.html"
+  - title: "Mitch McConnell has one more card to play against Donald Trump"
+    excerpt: "On Wednesday afternoon, the House will impeach President Donald Trump for a second time. It is known. The only real drama will be to see how many House Republicans cross the aisle to vote with Democrats to impeach the President."
+    publishedDateTime: 2021-01-13T15:11:00Z
+    webUrl: "https://www.cnn.com/2021/01/13/politics/mitch-mcconnell-donald-trump-impeachment/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/13/politics/mitch-mcconnell-donald-trump-impeachment/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/13/politics/mitch-mcconnell-donald-trump-impeachment/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 149
+    quality: 135
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210126180712-01-patrick-leahy-lead-image-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201215150551-mitch-mcconnell-1215-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Democratic House staffers draft letter to senators on impeachment: Convict Trump 'for our sake, and the sake of the country'"
-    excerpt: "A group of Democratic House staffers are drafting what they hope will be a bipartisan message to the Senate about the upcoming impeachment trial, urging senators to take the trauma their aides experienced during the violent insurrection in the Capitol on January 6 seriously, a staffer tells CNN.\n   "
-    publishedDateTime: 2021-01-28T03:44:13Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tfOV92aR5s8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/27/politics/democratic-house-staffers-letter-to-senators-impeachment/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/27/politics/democratic-house-staffers-letter-to-senators-impeachment/index.html"
+  - title: "Deepening Schism, McConnell Says Trump ‘Provoked’ Capitol Mob"
+    excerpt: "The Senate majority leader’s remarks were the clearest signal yet that he has come to regard President Trump as a force who could drag down the Republican Party."
+    publishedDateTime: 2021-01-20T01:40:00Z
+    webUrl: "https://www.nytimes.com/2021/01/19/us/politics/mcconnell-trump-capitol-riot.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/19/us/politics/mcconnell-trump-capitol-riot.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/19/us/politics/mcconnell-trump-capitol-riot.amp.html"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 148
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210107153716-capitol-riots-cybersecurity-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://static01.nyt.com/images/2021/01/20/us/politics/20dc-impeach-print1/merlin_182544633_d1e4184e-735b-489a-9ebb-4d606488bf5e-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
-  - title: "Sen. Patrick Leahy, who will preside over Trump impeachment trial, back home after hospital trip"
-    excerpt: "Sen. Patrick Leahy, who will preside over Trump impeachment trial, taken to hospital Leahy, who is third in the line of succession as the President Pro Tempore of the Senate, was just sworn-in to preside over the impeachment trial."
-    publishedDateTime: 2021-01-27T08:12:00Z
-    webUrl: "https://www.nbcnews.com/politics/politics-news/sen-patrick-leahy-who-will-preside-over-trump-impeachment-trial-n1255772"
+  - title: "McConnell says Trump ‘provoked’ the Capitol attackers"
+    excerpt: "Senate Majority Leader Mitch McConnell on Tuesday said President Donald Trump “provoked” the rioters who stormed the Capitol earlier this month as Congress was certifying the presidential election results,"
+    publishedDateTime: 2021-01-20T04:06:00Z
+    webUrl: "https://www.politico.com/news/2021/01/19/mcconnell-trump-provoked-capitol-attackers-460372"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/19/mcconnell-trump-provoked-capitol-attackers-460372"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/19/mcconnell-trump-provoked-capitol-attackers-460372"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 102
+      name: Politico
+      domain: politico.com
+    quality: 135
     images:
-      - url: "https://media4.s-nbcnews.com/j/newscms/2021_04/3445237/210126-patrick-leahy-ew-607p_1c9f3ed41defa696ee547c532eb1bce0.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
+      - url: "https://static.politico.com/b3/d9/6fec15f14316b8cfc913fc7c95a3/20210118-donaldtrump-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Live Updates: Ahead of Impeachment Trial, McConnell Says Capitol Assault Was ‘Provoked’ by Trump"
+    excerpt: "Senator Mitch McConnell said the mob that stormed the Capitol “was fed lies,” referring to attempts by President Trump to overturn the election based on bogus claims of voter fraud. The president is expected to issue dozens of pardons."
+    publishedDateTime: 2021-01-19T17:58:00Z
+    webUrl: "https://www.nytimes.com/live/2021/01/19/us/inauguration-day-biden"
+    ampWebUrl: "https://www.nytimes.com/live/2021/01/19/us/inauguration-day-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/01/19/us/inauguration-day-biden.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 122
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/19/us/19transition-briefing-promo1/19transition-briefing-promo1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Val Demings ‘encouraged’ by McConnell’s break from Trump"
+    excerpt: "Demings’ interview on Wednesday morning came as the House prepared to impeach Trump for a second time.  (D-Fla.) appeared more optimistic on Wednesday about the possibility of President Donald Trump being removed from office,"
+    publishedDateTime: 2021-01-13T13:58:00Z
+    webUrl: "https://www.politico.com/news/2021/01/13/val-demings-mitch-mcconnell-trump-458707"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/f7/1c/9672252e4cf4886c8123f827b6c2/210113-val-demings-gty-773.jpg"
+        width: 700
+        height: 470
+        isCached: true
+  - title: "POLITICO Playbook PM: McConnell blames Trump for Jan. 6"
+    excerpt: "They are McConnell’s first floor remarks since Jan. 6. Remember, McConnell told his rank-and-file members that he has, essentially, not ruled out convicting President DONALD TRUMP. There is widespread agreement that if McConnell votes to convict Trump,"
+    publishedDateTime: 2021-01-19T18:03:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook-pm/2021/01/19/mcconnell-blames-trump-for-jan-6-491453"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/82/03/de6a881244faa0d89300229630d6/gettyimages-1297264903.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "tXK5rgFFo0DMxebNgZg5IUqz2wd+rH9gaHL6jh9XZBRiW8X2sYuL+UMpDcrINjMkaBZo4g9tXUdo7o64/PsmrJbeomHUgHnhFhpbg7wQxUCQ9tZywXjmcDrCgpWiRzEhKoz9M5YZLhXGQYqpIx4XLEaLDbKPqxSeTKHxfh5+c49LDGK+BhX2LRs2jia951L7iGzr3qtcwWpZVAK/J7+6RYUC8lMXsruCWasrVY8SZOhQJLAbK8W5ak722JIqGMmfLjkt2Oz7E2WU7hCeXMuh5X6VsmQHSPq5+y/nDwLhcC8xomk2WaNhD7F7Wos4XJv/wydegvaf+6kFM4UdqRFTi2tg3vdmJOrdDjj4kmxX+kjI7/Ed2R7ma9ncVbQLRpXfdekVNSp/XhjHBQba1UVF19+dyMcyHsZ7gGrv+E2fPuge8JyDKuSbtQQ+dmT/eUgqnWTbEtSCtevSuFUa5UpdKtCvXq4UolBHZEzd1+qZYOA85CcR8dU6atuTSD9I1fJSpxKlzyL+eEUbQ2eeSrTt+Q==;cN3EMVz20ShSTHwmn6iakg=="
