@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Frank Biden's actions already testing Joe Biden's ethics claims"
+    excerpt: "President Joe Biden said at the start of his administration that family conflicts of interest would not be tolerated in his White House, but not two weeks into his presidency, his brother's actions as a part of his employment at a law firm in Florida are raising questions about how he'll implement that"
+    publishedDateTime: 2021-02-04T02:06:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pbCWmjOSf6E/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/03/politics/joe-biden-frank-biden-conflicts-of-interest/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/03/politics/joe-biden-frank-biden-conflicts-of-interest/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210201231633-02-joe-biden-0128-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden needs to figure out what kind of GOP opposition he's facing"
     excerpt: "The collision of the new President's agenda with the old one's impeachment trial this week sharpens the question: Just what kind of Republican opposition does the Democrat in the White House face?\n    \n"
     publishedDateTime: 2021-02-07T13:00:10Z
@@ -159,6 +175,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to signal commitment to US diplomats and allies with State Department visit"
+    excerpt: "President Joe Biden will visit the State Department Thursday to thank a workforce repeatedly maligned under the previous administration and present his broad vision for a foreign policy re-grounded in alliances and multilateral institutions.\n    \n"
+    publishedDateTime: 2021-02-04T11:00:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-jdlbhVi-0I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/04/politics/biden-state-department-visit/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/04/politics/biden-state-department-visit/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210126105306-02-biden-0125-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden leans on his Capitol Hill experience while pitching big Covid-19 relief deal"
     excerpt: "President Joe Biden is relying on his decades as a senator to convince former colleagues to move quickly on his debut legislative effort, waging an intensive push for the sweeping Covid-19 rescue package he hopes can garner Republican support.\n    \n"
     publishedDateTime: 2021-02-03T18:00:05Z
@@ -175,19 +207,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Analysis: Biden turns to skills that powered his 2020 victory to sell Covid-19 relief "
-    excerpt: "Nearly three weeks into office, President Joe Biden is trying to do what he knows how to do best -- connect with average Americans, letting them know he understands their suffering and offering words of comfort. But instead of doing so quietly on the campaign trail, he's now using those skills to win"
-    publishedDateTime: 2021-02-07T05:06:08Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PgZYl5kNJLo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/07/politics/joe-biden-covid-19-stimulus-relief/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/07/politics/joe-biden-covid-19-stimulus-relief/index.html"
+  - title: "White House reaches out to immigrant advocacy groups that seek urgent action from Biden"
+    excerpt: "As arrests on the southern border increase, White House and other administration officials are opening a channel of communications to advocacy groups that have a direct line to migrants, according to multiple sources.\n    \n"
+    publishedDateTime: 2021-02-05T12:00:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XRI9rVpkWl8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/05/politics/immigration-biden-white-house/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/05/politics/immigration-biden-white-house/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 167
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210201152949-01-biden-lincoln-0126-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210204111219-06-immigration-file-asylum-seekers-mexico-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -271,6 +303,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration to deploy approximately 1,000 troops to assist with Covid vaccination effort"
+    excerpt: "The Biden administration is expected to announce Friday that it will deploy approximately 1000 troops across the United States to assist with coronavirus vaccination efforts.\n    \n"
+    publishedDateTime: 2021-02-05T16:39:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NWGkydXSapk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/05/politics/pentagon-covid-vaccines/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/05/politics/pentagon-covid-vaccines/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210203202245-administers-a-pfizer-covid-19-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "READ: 10 Senate Republicans lay out concerns in letter to Biden after meeting on Covid-19 relief proposal"
     excerpt: "\n    \n"
     publishedDateTime: 2021-02-04T21:48:15Z
@@ -334,6 +382,22 @@ related:
       - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202102/ott_now_biden_meeting_210201_1920x1080.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Biden signs executive orders on family separation and asylum"
+    excerpt: "The actions, aimed at undoing the Trump immigration legacy, largely call for reviews, planning and recommendations — not necessarily new policies to implement."
+    publishedDateTime: 2021-02-04T01:41:00Z
+    webUrl: "https://www.politico.com/news/2021/02/02/biden-executive-orders-family-separation-464816"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/02/02/biden-executive-orders-family-separation-464816"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/02/02/biden-executive-orders-family-separation-464816"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/c3/1c/d92bc77e479e8437bde8fc281405/gettyimages-1230855431-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Biden White House settles into a rhythm amid pandemic hurdles"
     excerpt: "While Covid-19 precautions have kept many staff members at home, Biden has established a free-ranging style so far."
@@ -415,6 +479,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "On executive actions, Biden is blowing his predecessors out of the water"
+    excerpt: "It's the frustration of presidents from the beginning of the republic: how to get anything done when Congress gets stuck."
+    publishedDateTime: 2021-02-06T13:00:00Z
+    webUrl: "https://www.cnn.com/2021/02/06/politics/what-matters-february-5/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/06/politics/what-matters-february-5/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/06/politics/what-matters-february-5/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 134
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210130013250-01-biden-0128-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Covid live updates: Biden raises Covid vaccine goal, UK passes 100,000 deaths"
     excerpt: "President Biden increased his Covid vaccine goal to 1.5 million shots administered a day, deemed more likely due to states ramping up vaccine distribution."
     publishedDateTime: 2021-01-26T20:20:00Z
@@ -460,34 +540,6 @@ related:
       - url: "https://static.politico.com/80/16/8e16b10e4f0aba2ad52afe74b2d6/ap21034605737948-1.jpg"
         width: 1160
         height: 773
-        isCached: true
-  - title: "Biden urges Congress to pick up the pace"
-    excerpt: "President Joe Biden is stepping up his personal involvement in the Covid aid push, urging Democrats to quickly finalize the massive relief package. — Longtime Democratic health policy expert Chiquita Brooks-LaSure has emerged as the top contender to be Biden's CMS chief."
-    publishedDateTime: 2021-02-04T15:00:00Z
-    webUrl: "https://www.politico.com/newsletters/politico-pulse/2021/02/04/biden-urges-congress-to-pick-up-the-pace-793177"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
-        isCached: true
-  - title: "One of Biden’s biggest problems in his first 100 days comes from an unlikely place"
-    excerpt: "The president wants to reopen the nation’s schools during the dawn of his term, but labor-strong California is putting such hopes in serious jeopardy."
-    publishedDateTime: 2021-02-04T22:59:00Z
-    webUrl: "https://www.politico.com/news/2021/02/02/california-poses-bidens-biggest-test-on-school-reopening-465211"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 109
-    images:
-      - url: "https://static.politico.com/a7/ff/58035ed8413f877fd522c7aefb15/ap21029767118388.jpg"
-        width: 3000
-        height: 2000
         isCached: true
   - title: "'We need to act fast': Biden, Democrats move to speed up process to pass Covid relief package"
     excerpt: "The steps taken by Biden and congressional Democrats indicated that they’re not going to wait around to negotiate with Republicans who want a smaller package."

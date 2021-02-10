@@ -873,17 +873,17 @@ related:
         isCached: true
   - title: "'I don't want to come back:' As Trump trial opens, Democrat recalls daughter's fear during riot"
     excerpt: "The leader of the Democratic team prosecuting Donald Trump's impeachment trial welled up in tears on Tuesday as he recalled his 24-year-old daughter and son-in-law hiding in fear in the U.S. Capitol during the rampage by the former president's supporters."
-    publishedDateTime: 2021-02-10T02:56:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-trump-impeachment-raskin-idUKKBN2A92ZD"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2A92ZD"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2A92ZD"
+    publishedDateTime: 2021-02-10T14:06:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-raskin-idUSKBN2A92YV"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A92YV"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A92YV"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 113
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210209&t=2&i=1550948890&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH181S5"
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210210&t=2&i=1551006903&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH181S5"
         width: 968
         height: 545
         isCached: true

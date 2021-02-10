@@ -2,6 +2,62 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-06-official-tasked-with-briefing-biden-reportedly-defended-cias-false-intel-about-torture-effectiveness.md",
+      "title": "Official tasked with briefing Biden reportedly defended CIA’s false intel about torture effectiveness",
+      "excerpt": "The CIA official in charge of overseeing President Biden’s daily intelligence briefing reportedly lead a standoff between the CIA and the Senate Intelligence Committee.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/S4gwWVugYEk/official-briefing-biden-cia-false-intel-torture-effectiveness",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/S4gwWVugYEk/official-briefing-biden-cia-false-intel-torture-effectiveness",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4c1c9f88-8491-4368-aaae-00f24e45654b/7c18c51d-3b0e-47d0-b6e0-deaee4ae7030/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/official-briefing-biden-cia-false-intel-torture-effectiveness.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/official-briefing-biden-cia-false-intel-torture-effectiveness.amp",
+      "publishedDateTime": "2021-02-06T14:04:36-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-06-ivanka-trumps-political-re-emergence-would-likely-center-on-criminal-justice-reform-work-report.md",
       "title": "Ivanka Trump’s political re-emergence would likely center on criminal justice reform work: report",
       "excerpt": "Ivanka Trump helped to secure pardons and commutations for over 140 in her father’s final days in office, and could champion criminal justice reform in a new foray into politics. ",
@@ -271,62 +327,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-06-biden-administration-to-remove-houthis-from-terrorist-list-reversing-trumps-decision.md",
-      "title": "Biden administration to remove Houthis from terrorist list, reversing Trump's decision",
-      "excerpt": "The State Department has informed Congress of its intent to reverse the Trump administration's eleventh-hour decision to designate Yemen's Houthi rebels as a foreign terrorist organization, a State Department official said Friday.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GtwnzcvGt_c/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GtwnzcvGt_c/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 782,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210205103714-biden-foreign-policy-speech-02-04-2021-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/05/politics/us-houthis-terrorist-list/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/05/politics/us-houthis-terrorist-list/index.html",
-      "publishedDateTime": "2021-02-05T17:52:33-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-02-06-transgender-navy-seal-biden-order-going-to-give-a-lot-of-other-individuals-that-chance-to-finally-be-themselves.md",
       "title": "Transgender Navy SEAL: Biden order 'going to give a lot of other individuals that chance to finally be themselves'",
       "excerpt": "When Navy SEAL Ashley Nefzger heard rumblings that President Joe Biden could sign an executive order to repeal a Trump-era ban on most transgender Americans joining the military, she was cautiously hopeful.\n    \n",
@@ -499,7 +499,7 @@
       "originalUrl": "https://www.cbsnews.com/news/pences-post-trump-administration-plans-take-shape/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 3350,
+      "heat": 3370,
       "tags": null,
       "images": [
         {
@@ -972,6 +972,63 @@
       ]
     },
     {
+      "path": "_news/2021-02-06-lawyers-call-trumps-first-amendment-defense-legally-frivolous.md",
+      "title": "Lawyers Call Trump's First Amendment Defense 'Legally Frivolous'",
+      "excerpt": "Taking aim at a key plank of the former president’s impeachment defense, the lawyers argue that the constitutional protections do not apply to an impeachment proceeding.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/02/05/us/trump-defense-first-amendment.html",
+      "originalUrl": "https://www.nytimes.com/2021/02/05/us/trump-defense-first-amendment.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/02/05/world/05new-washington-briefing-impeach-1stamendment-1/05new-washington-briefing-impeach-1stamendment-1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/02/05/us/trump-defense-first-amendment.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/05/us/trump-defense-first-amendment.amp.html",
+      "publishedDateTime": "2021-02-05T09:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-05-biden-emphasizes-urgency-of-19t-relief-after-summers-op-ed-on-inflation.md",
       "title": "Biden emphasizes 'urgency' of $1.9T relief after Summers' op-ed on inflation",
       "excerpt": "President Joe Biden responded to a new, sluggish jobs report by continuing to press for his $1.9 trillion Covid relief package to be passed with urgency -- even as a leading economist who served in the Obama administration is sounding the alarm on how the White House's plan could have negative economic",
@@ -1303,58 +1360,6 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-america-is-back-biden-touts-muscular-foreign-policy-in-first-diplomatic-speech.md",
-      "title": "'America is back' - Biden touts muscular foreign policy in first diplomatic speech",
-      "excerpt": "U.S. President Joe Biden on Thursday promised a new era after the scattershot foreign policy of his predecessor, Donald Trump, declaring \"America is back\" on the global stage in his first diplomatic address as president.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/uk-usa-biden-diplomacy-idUKKBN2A501Y?edition-redirect=uk",
-      "originalUrl": "https://www.reuters.com/article/uk-usa-biden-diplomacy-idUKKBN2A501Y?edition-redirect=uk",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210205&t=2&i=1550393558&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1400L",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN2A501Y",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2A501Y",
-      "publishedDateTime": "2021-02-04T21:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

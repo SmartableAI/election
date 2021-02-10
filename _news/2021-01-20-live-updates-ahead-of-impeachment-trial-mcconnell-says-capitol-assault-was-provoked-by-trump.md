@@ -32,38 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "McConnell privately says he wants Trump gone as Republicans quietly lobby him to convict"
-    excerpt: "As the House prepares to send articles of impeachment to the Senate on Monday, CNN has learned that dozens of influential Republicans around Washington -- including former top Trump administration officials -- have been quietly lobbying GOP members of Congress to impeach and convict Donald Trump. The"
-    publishedDateTime: 2021-01-22T18:51:52Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tVmuA9o9Zhk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/22/politics/mcconnell-trump-impeachment-conviction-republicans/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/22/politics/mcconnell-trump-impeachment-conviction-republicans/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 166
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210122103730-01-trump-gop-impeachment-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Democratic House staffers draft letter to senators on impeachment: Convict Trump 'for our sake, and the sake of the country'"
-    excerpt: "A group of Democratic House staffers are drafting what they hope will be a bipartisan message to the Senate about the upcoming impeachment trial, urging senators to take the trauma their aides experienced during the violent insurrection in the Capitol on January 6 seriously, a staffer tells CNN.\n   "
-    publishedDateTime: 2021-01-28T03:44:13Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tfOV92aR5s8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/27/politics/democratic-house-staffers-letter-to-senators-impeachment/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/27/politics/democratic-house-staffers-letter-to-senators-impeachment/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 148
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210107153716-capitol-riots-cybersecurity-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Deepening Schism, McConnell Says Trump ‘Provoked’ Capitol Mob"
     excerpt: "The Senate majority leader’s remarks were the clearest signal yet that he has come to regard President Trump as a force who could drag down the Republican Party."
     publishedDateTime: 2021-01-20T01:40:00Z
@@ -96,6 +64,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Val Demings ‘encouraged’ by McConnell’s break from Trump"
+    excerpt: "Demings’ interview on Wednesday morning came as the House prepared to impeach Trump for a second time.  (D-Fla.) appeared more optimistic on Wednesday about the possibility of President Donald Trump being removed from office,"
+    publishedDateTime: 2021-01-13T13:58:00Z
+    webUrl: "https://www.politico.com/news/2021/01/13/val-demings-mitch-mcconnell-trump-458707"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/f7/1c/9672252e4cf4886c8123f827b6c2/210113-val-demings-gty-773.jpg"
+        width: 700
+        height: 470
+        isCached: true
   - title: "POLITICO Playbook PM: McConnell blames Trump for Jan. 6"
     excerpt: "They are McConnell’s first floor remarks since Jan. 6. Remember, McConnell told his rank-and-file members that he has, essentially, not ruled out convicting President DONALD TRUMP. There is widespread agreement that if McConnell votes to convict Trump,"
     publishedDateTime: 2021-01-19T18:03:00Z
@@ -109,20 +91,6 @@ related:
       - url: "https://static.politico.com/82/03/de6a881244faa0d89300229630d6/gettyimages-1297264903.jpg"
         width: 1160
         height: 773
-        isCached: true
-  - title: "The Trump implosion auction, brought to you by a Republican?"
-    excerpt: "One of my favorite stories of the past month or so has been the auction to push the button to blow up Trump Plaza. We know that it won’t happen. But would you believe the idea actually originated with a Republican former elected official,"
-    publishedDateTime: 2021-01-22T11:55:00Z
-    webUrl: "https://www.politico.com/newsletters/new-jersey-playbook/2021/01/22/the-trump-implosion-auction-brought-to-you-by-a-republican-491489"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
         isCached: true
 
 secured: "n8nUcqIaY5IfzpD+GYu3GqrSDYS0kdtyKw+2llT27rQctiiiU+MmHZJEIQ/WlZk5qPV4EuAZqOk2DL89aVQSybUX1m2K8TmXUHa6N7EUIT/OyYbC72qDTOJJWbFnzNDGOS4lUVSeWagaLz5Kved6e/8qSn8rhLvHRpVoquRKjlNcrhcj/Hcy7z8+ZLXwvcw53mgWhjMfGeStLDKufC6pGUDOyvPoELsEuKAFeGyFZlvV+kt6jSNEKrNy1DoDyJIWAYkdnX0TMMg/cmiQ1Ibx2KgIA9yu8TZoysEVn09EgtAYk4yYjlbFG+Q7t9KVX+E0krrSqxepjRCjrkU94RCH/A8MuRTvyNxHeiPrPW6qbImKaiyAJS4A2l4IdVRQQcu2sn3PCVNv975iJDhYIFdPsQreEnbGqE9EDOH5qdfnW+x/ah84WCB/ks6IicxhKWzK1IHQZFfxCmZlXDYroyvv0sTdJL+FDAeVxCvOvZ8UI0+qq/fARQh0Xn3bh29RIuwDyXFqweZxSjp+zfiJcdgOzg==;EsseCYqxb73mgmldA24iGw=="

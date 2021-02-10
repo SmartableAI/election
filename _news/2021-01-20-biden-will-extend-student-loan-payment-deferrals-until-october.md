@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/20/politics/student-loan-payment-def
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/20/politics/student-loan-payment-deferrals/index.html"
 type: article
 quality: 175
-heat: 455
+heat: 435
 published: true
 
 provider:
@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden sets bold timeline for a return to normal life"
+    excerpt: "President Joe Biden's pledge that there will be sufficient vaccines for 300 million Americans by the end of summer represents a bold and politically risky response to criticism his pandemic plan lacks ambition.\n    \n"
+    publishedDateTime: 2021-01-27T12:25:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/idRqSqIvHIk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/27/politics/president-biden-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/27/politics/president-biden-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210126200125-joe-biden-210126-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Blinken becomes Biden's top diplomat after a friendship forged over decades"
     excerpt: "It was February 2008 when a snowstorm suddenly overwhelmed the flight path of two American helicopters, forcing them to make an unexpected landing on a mountaintop in Afghanistan.\n    \n"
     publishedDateTime: 2021-01-26T18:54:38Z
@@ -138,22 +154,6 @@ related:
       name: CNN
       domain: cnn.com
     quality: 172
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210122211659-05-biden-economy-0122-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden is no longer afraid to spend big on economic relief. Here's what's changed since 2009"
-    excerpt: "Even before he took office, President Joe Biden made clear he will not hesitate to spend big to fight the coronavirus pandemic and get the economy back on track.\n    \n"
-    publishedDateTime: 2021-01-25T12:00:21Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yEQ3vrKnjC8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/biden-pandemic-relief-economic-stimulus/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/biden-pandemic-relief-economic-stimulus/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 165
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210122211659-05-biden-economy-0122-super-tease.jpg"
         width: 1100
@@ -206,22 +206,6 @@ related:
       - url: "https://media2.s-nbcnews.com/i/newscms/2021_04/3445385/21027-joe-biden-al-0935_9c0ddd60268b6c104297759ca11c8d8f.jpg"
         width: 2500
         height: 1250
-        isCached: true
-  - title: "Biden pitching a much vaster climate plan than Obama ever attempted"
-    excerpt: "President Joe Biden is launching his sweeping assault on climate change with a much larger army of allies than Barack Obama had 12 years ago — a coalition that ranges from labor unions, anti-fracking activists and racial justice advocates to leaders of Wall Street,"
-    publishedDateTime: 2021-01-27T22:12:00Z
-    webUrl: "https://www.politico.com/news/2021/01/27/biden-climate-orders-energy-463051"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/01/27/biden-climate-prders-energy-463051"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/27/biden-climate-prders-energy-463051"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/98/ce/6dd20fff426c96a5f11674f1596b/deb-haaland-773-ap-1.jpg"
-        width: 1160
-        height: 773
         isCached: true
   - title: "'That's Cesar Chavez!': Bust of civil rights icon behind President Joe Biden stirs excitement"
     excerpt: "\"Placing a bust of my father in the Oval Office symbolizes the hopeful new day that is dawning for our nation,\" says Paul Chavez, the civil rights icon's son."

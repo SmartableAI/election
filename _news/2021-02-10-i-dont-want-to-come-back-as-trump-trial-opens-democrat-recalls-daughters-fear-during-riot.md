@@ -2,11 +2,11 @@
 category: news
 title: "'I don't want to come back:' As Trump trial opens, Democrat recalls daughter's fear during riot"
 excerpt: "The leader of the Democratic team prosecuting Donald Trump's impeachment trial welled up in tears on Tuesday as he recalled his 24-year-old daughter and son-in-law hiding in fear in the U.S. Capitol during the rampage by the former president's supporters."
-publishedDateTime: 2021-02-10T02:56:00Z
-originalUrl: "https://www.reuters.com/article/uk-usa-trump-impeachment-raskin-idUKKBN2A92ZD"
-webUrl: "https://www.reuters.com/article/uk-usa-trump-impeachment-raskin-idUKKBN2A92ZD"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2A92ZD"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2A92ZD"
+publishedDateTime: 2021-02-10T14:06:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-raskin-idUSKBN2A92YV"
+webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-raskin-idUSKBN2A92YV"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A92YV"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A92YV"
 type: article
 quality: 113
 heat: -1
@@ -25,7 +25,7 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210209&t=2&i=1550948890&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH181S5"
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210210&t=2&i=1551006903&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH181S5"
     width: 968
     height: 545
     isCached: true
@@ -1158,6 +1158,6 @@ related:
         height: 847
         isCached: true
 
-secured: "YhiT8t599wBUoGQxAd31+UnGNGqx/B8dqGzbUvSFHZFYljOzGGDlqTQ0LdZRjTJ8Noi3VGoqrJC2uN+PyLBPoz3v7ouUPWt2tsSTKgULyt6LSESay5eU5gOcXKfzVh5GUTK6kq/yvKQrM8/Y6h4VUXSxqE3Yco+z2q1Df7E0tpTuBnud9H8n6BWdrfohUDrGAAZW4BX/1xzRUO53c5N/QodRUe409eeaOQ84clxSlk7utb71W54oEXS26p6A0ggH2togNPpgOkyyxN66sAEGlLRE/LJND7Ly8/yOXTpUBil6Z5099xYqQzQy/qgixy107UUDUiEye/7RKFOZ/UEEeo+7uQ3Vpswn8fBfaFqDPTE=;MNh1xd6l6g4Nb1yRgsK74g=="
+secured: "YJh4i8Ts46pg8KUQh6w87S9lkcjJzz/p14ruwmiXKH2yTHp3VvR6j7r4+GbxhzkObfj6XiJyhnPTs0gtkhQt7EJUVGc3pupHmr3rbGLa7qZINxxHsnio9+FKqzTKHCYkFyp145SJkV9RVpwT/VlU7CEcti3OUg+zGFuX/af29IyCZwloPIIGTPtxc+Ty4nSNpQryKDTeb5968Tu7DLnfrSXxCk3vR/ArFgCGLMtRBb4N50PYwTQU9H2QqW5mxYDg8wuBl1Z/SLepII/DLYmHVq/WyENrHHjDF8S5HDL0rOOHr3QhZHBNbrWAV60Ffn3OalNaTrwsq47eSkCxfq78fVHWF5BTz0Z4/cC5g1EKts0=;S/qou1XUZ1WXKyVyFf6xig=="
 ---
 

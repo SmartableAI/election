@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/07/politics/biden-iran-sanctions/ind
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/07/politics/biden-iran-sanctions/index.html"
 type: article
 quality: 168
-heat: 248
+heat: 228
 published: true
 
 provider:
@@ -78,20 +78,6 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2021_04/3170401/200103-majid-takht-ravanchi-ew-432p_8963558298725b2e9f0f5729a9a8ba44.jpg"
         width: 2500
         height: 1666
-        isCached: true
-  - title: "California poses Biden's biggest test on school reopening"
-    excerpt: "The state may be the main obstacle in the way of President Joe Biden reopening most of the nation's schools in his first 100 days in office."
-    publishedDateTime: 2021-02-03T00:59:00Z
-    webUrl: "https://www.politico.com/news/2021/02/02/california-poses-bidens-biggest-test-on-school-reopening-465211"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/a7/ff/58035ed8413f877fd522c7aefb15/ap21029767118388.jpg"
-        width: 3000
-        height: 2000
         isCached: true
 
 secured: "BXL2wSlKCz3GJsvi7Iz3iWs7AWgz45l3ZMh3TmwdrWud0nsW+jd0E8sYy5G9Fp3WGy+Bnc4Zs6f8KDb6mfwgrSTdnRWH1LfhOqCM9Wi9ttYaJpbly5QS389ThEzLSwJNHapNGHugOqqHODKtoh300ya523ELH4d1lQKy79y8vMIrB4DtTaqqhdN7Hr/nQ92jigjxKTpgovX5vKx3xXo6/WhiVFeXVy4FXAAp4gw6GU9Rt9PxI3u7aEP83JSXaWfgGod2XbM6mtR3wGdI5Z/bACfgQFz/skEaDSfIPgr0+dDjF9WYko4wTPjLojOOaCLHBfV76n9TI9Ptjl0oWCvwxY0ESg6sFlevnjNjka9R18g=;xdSiQWXM7/UDvkp2RkTBlA=="

@@ -47,22 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Analysis: Why West Virginia is central to Biden's climate crisis plans"
-    excerpt: "Joe Manchin once shot a hole in the climate-saving plan of his own party. Literally.\n    \n"
-    publishedDateTime: 2021-01-27T11:02:16Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hHb9PF_Lre4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/27/politics/climate-crisis-biden-executive-actions-analysis-weir-wxc/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/27/politics/climate-crisis-biden-executive-actions-analysis-weir-wxc/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210126203100-joe-manchin-at-inauguration-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden signs executive order to reopen Affordable Care Act enrollment"
     excerpt: "President Joe Biden will reopen enrollment on the federal Affordable Care Act exchanges on Thursday as part of a series of executive actions related to health care, taking a step to help uninsured Americans that his predecessor rejected.\n    \n"
     publishedDateTime: 2021-01-29T00:56:07Z
@@ -76,38 +60,6 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210127192327-biden-0127-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Analysis: Why Biden has a rare opportunity for early success   "
-    excerpt: "Over five decades in Washington, President Joe Biden has watched seven newly-elected presidents get started. Improbably, he has the chance for a stronger opening act than any of them.\n    \n"
-    publishedDateTime: 2021-01-31T12:01:42Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NwKcFQyfvhM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/31/politics/joe-biden-opening-act-covid-19-relief/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/31/politics/joe-biden-opening-act-covid-19-relief/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210127192327-biden-0127-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "They say Biden's plan would change their lives. Here's how"
-    excerpt: "Undocumented immigrants across the country told CNN they're hoping the President will make good on his promise to protect them, before it's too late.\n    \n"
-    publishedDateTime: 2021-01-31T12:54:33Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jYKZEJZ6XCw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/31/us/biden-immigration-proposal-undocumented-immigrants-reactions/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/31/us/biden-immigration-proposal-undocumented-immigrants-reactions/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210129133806-immigration-rally-0127-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -143,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration announces direct vaccine shipments to pharmacies"
+    excerpt: "The Biden administration is set to announce it will soon begin direct shipments of coronavirus vaccines to retail pharmacies, according to an official familiar with the matter, expanding points of access for Americans to receive shots.\n    \n"
+    publishedDateTime: 2021-02-03T01:57:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dxQB0iyPx3U/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/02/politics/vaccine-shipments-white-house/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/02/politics/vaccine-shipments-white-house/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210202112552-01-vaccine-denver-0130-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden will sign executive order to reopen Affordable Care Act enrollment"
     excerpt: "President Joe Biden will reopen enrollment on the federal Affordable Care Act exchanges on Thursday as part of a series of executive actions related to health care, taking a step to help uninsured Americans that his predecessor rejected.\n    \n"
     publishedDateTime: 2021-01-28T12:36:12Z
@@ -156,6 +124,22 @@ related:
     quality: 174
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210127192327-biden-0127-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden's reversal of transgender military ban brings new hope to thousands"
+    excerpt: "They dreamed of serving, and now they can after President Joe Biden lifted the Trump-era ban on most transgender Americans joining the US military.\n    \n"
+    publishedDateTime: 2021-01-31T13:27:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Q7qtNHuabmk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/31/politics/transgender-military-ban-reversal/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/31/politics/transgender-military-ban-reversal/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210129183519-01-joe-biden-eo-lifts-transgender-ban-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -188,6 +172,22 @@ related:
     quality: 171
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210129144107-05-scotus-exterior-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden has signed 42 executive actions since taking office. Here's what each does"
+    excerpt: "President Joe Biden hasn't wasted any time setting his agenda into motion through a flurry of executive actions that address everything from Covid-19 to the climate crisis.\n    \n"
+    publishedDateTime: 2021-01-29T16:00:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zzpwF-pnNVk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/29/politics/biden-executive-orders-climate-health-care-coronavirus-immigration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/29/politics/biden-executive-orders-climate-health-care-coronavirus-immigration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210127144815-01-biden-climate-eo-0127-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -302,6 +302,20 @@ related:
       - url: "https://static.politico.com/8e/7a/ccb62882443a83f09269679561fe/210130-biden-getty-773.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Biden to NYT: Drop dead"
+    excerpt: "Welcome to POLITICO’s 2021 Transition Playbook, your guide to the first 100 days of the Biden administration. JOE BIDEN and Republicans are united on at least one thing: They can't stand The New York Times editorial board."
+    publishedDateTime: 2021-01-28T23:23:00Z
+    webUrl: "https://www.politico.com/newsletters/transition-playbook/2021/01/28/biden-to-nyt-drop-dead-491563"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
   - title: "The buzzword you need to know to understand Biden"
     excerpt: "All that and more below, but first a look from Eugene at an overlooked rhetorical shift by the Biden administration that can help explain a lot of what’s to come the next four years … It’s the buzzword of the early Biden administration,"

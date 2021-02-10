@@ -63,6 +63,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden wants millions of clean-energy related jobs. Can it happen? "
+    excerpt: "Last week, President Joe Biden reaffirmed his commitment to addressing climate change by creating green energy jobs, building out a \"modern and sustainable infrastructure\" toward his continued goal of reaching a carbon-free energy sector in the US by 2035.\n    \n"
+    publishedDateTime: 2021-02-01T20:16:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uYvQs1v4g6U/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/01/politics/joe-biden-green-energy-jobs/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/01/politics/joe-biden-green-energy-jobs/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210127161713-biden-signs-executive-actions-climate-crisis-coronavirus-collins-dnt-lead-vpx-00005210-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration prepares to open overflow facility for migrant children"
+    excerpt: "The Biden administration is opening an overflow facility for unaccompanied migrant children apprehended at the US-Mexico border, the federal agency tasked with the children's care told CNN in a statement.\n    \n"
+    publishedDateTime: 2021-02-02T21:59:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5pdeB-2WZx8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/02/politics/migrant-children-facility-immigration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/02/politics/migrant-children-facility-immigration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210127205123-migrant-children-carizzo-springs-tx-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Defeat in Texas shows how the conservative judiciary can thwart Biden's agenda"
     excerpt: "A federal judge's action Tuesday preventing President Joe Biden's 100-day pause in deportations demonstrated the land mines that await the new administration in the nation's courts.\n    \n"
     publishedDateTime: 2021-01-27T02:30:09Z
@@ -76,6 +108,22 @@ related:
     quality: 171
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210126200125-joe-biden-210126-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration expected to announce direct vaccine shipments to pharmacies"
+    excerpt: "The Biden administration is set to announce it will soon begin direct shipments of coronavirus vaccines to retail pharmacies, according to an official familiar with the matter, expanding points of access for Americans to receive shots.\n    \n"
+    publishedDateTime: 2021-02-02T16:46:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dxQB0iyPx3U/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/02/politics/vaccine-shipments-white-house/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/02/politics/vaccine-shipments-white-house/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210202112552-01-vaccine-denver-0130-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

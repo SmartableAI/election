@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/09/politics/mike-pence-inauguration-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/09/politics/mike-pence-inauguration-joe-biden/index.html"
 type: article
 quality: 200
-heat: 2940
+heat: 2960
 published: true
 
 provider:
@@ -1677,6 +1677,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/01/21/opinion/21Brooks-01/21Brooks-01-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Biden open to breaking his immigration bill into pieces"
+    excerpt: "When President Joe Biden unveiled an immigration bill on the first day in office, he sent a signal to advocates, the Democratic base, and Congress that the issue was a top priority for him."
+    publishedDateTime: 2021-01-26T19:58:00Z
+    webUrl: "https://www.politico.com/news/2021/01/26/biden-immigration-bill-462479"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/26/biden-immigration-bill-462479"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/26/biden-immigration-bill-462479"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/d1/c2/3d36fc2d45c18977c9bd9737b37c/gettyimages-1230788955-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "The latest on the Biden presidency"
     excerpt: "President Joe Biden forges ahead with his new administration and agenda as former President Trump's impeachment trial looms. Follow here for the latest."

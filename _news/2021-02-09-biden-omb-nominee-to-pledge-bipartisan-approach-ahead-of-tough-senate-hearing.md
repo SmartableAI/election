@@ -63,20 +63,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden takes first step toward bolstering Obamacare"
-    excerpt: "The new administration will reopen enrollment and begin reversing Trump changes to the law that Democrats derided as sabotage."
-    publishedDateTime: 2021-01-28T12:06:00Z
-    webUrl: "https://www.politico.com/news/2021/01/28/joe-biden-bolstering-obamacare-health-care-463287"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/15/c2/d5f9730b432f942176edae4edd9b/ap21027703939092-c.jpg"
-        width: 1160
-        height: 773
-        isCached: true
 
 secured: "M+G8aX5LaRev09Gm2W0t+P7HsgJRpz0Z2V2xRuWCiSfefGs7UIKzyyFy57h51P2A6xbYTX0ZyihM/bJp5B7Ep23YVccLHV497Ev/yP0qAbNcIDjUZrejCOKyLOGqEADYXVSsEvCvR1qJNG6bXko435McE0kOLmNcf+WXavUZRtSLDDhDa7RCNP9lFF3rvVUCBbKeOCMUT4/i3KYmTwHlzXXFu8k48RrHx9VkVMSIwuf8GJL6MUjiBJ0qY8bW3QWk3oQUJdqQqHR8lpbr3ro1lHl4Jv/C8zklNUiGr2szc3jzVLfs+P/mPKZuwkKN6XeQePFgFDVODjArkAnv2CJSTWWbBCkuNQA+b3P1/HyBzCA=;/zvAYFDrUd62pleA8JDPng=="
 ---

@@ -96,22 +96,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Analysis: On immigration, Biden seeks a new approach to an old deadlock"
-    excerpt: "President Joe Biden's early moves on immigration signal his determination to learn from past efforts to reform the system, but that doesn't mean he won't repeat their legacy of frustration.\n    \n"
-    publishedDateTime: 2021-01-26T12:22:33Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UYlicYpH3jk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/26/politics/biden-immigration-strategy/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/biden-immigration-strategy/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125165746-biden-immigration-approach-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden to address increasing vaccine supply Tuesday"
     excerpt: "President Joe Biden is set to speak Tuesday afternoon on his vision to contain the Covid-19 pandemic, and is expected in part to focus on actions his administration plans to take to increase the supply of vaccines, a senior White House official tells CNN.\n    \n"
     publishedDateTime: 2021-01-26T18:52:41Z
@@ -288,6 +272,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "How President Biden's dog Major made history"
+    excerpt: "Patrick Carroll, executive director of the Delaware Humane Association, tells CNN's Anderson Cooper the story of helping President Joe Biden adopt his dog, Major, the first shelter dog to live in the White House."
+    publishedDateTime: 2021-01-26T00:40:00Z
+    webUrl: "https://www.cnn.com/videos/politics/2021/01/26/major-biden-shelter-dog-white-house-acfc-full-episode-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/01/26/major-biden-shelter-dog-white-house-acfc-full-episode-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/01/26/major-biden-shelter-dog-white-house-acfc-full-episode-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125190424-acfc-major-biden-desktop-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden's authority is on the line already in first full week of presidency"
     excerpt: "(CNN)As his first full week in the White House begins, Joe Biden already faces critical early tests of a presidency premised on political compromise and uniting Washington to fight the pandemic."
     publishedDateTime: 2021-01-25T12:30:00Z
@@ -335,6 +335,20 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210116204718-capitol-fence-jan-15-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Biden's next fight on the left"
+    excerpt: "President Joe Biden’s new administration has won tons of points on the left for most of its financial services nominees, from Treasury to the CFPB. But the White House has a bit of a fight on its hands with University of Michigan’s Michael Barr,"
+    publishedDateTime: 2021-01-25T13:00:00Z
+    webUrl: "https://www.politico.com/newsletters/morning-money/2021/01/25/bidens-next-fight-on-the-left-792955"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
   - title: "Biden issues executive orders promoting racial equity"
     excerpt: "President Joe Biden on Tuesday rolled out an additional slate of executive actions to address racial equity, a move to fulfill a key campaign promise that he made during the height of this past summer’s protests."

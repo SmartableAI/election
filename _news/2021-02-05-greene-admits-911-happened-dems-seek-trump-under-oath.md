@@ -62,22 +62,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Analysis: The fight over Marjorie Taylor Greene and Liz Cheney have far-reaching implications in post-Trump Washington."
-    excerpt: "The ugly fights over the two congresswomen proved that Representative Kevin McCarthy, the Republican leader, remains trapped under former President Donald J. Trump’s shadow."
-    publishedDateTime: 2021-02-03T22:44:00Z
-    webUrl: "https://www.nytimes.com/2021/02/03/us/marjorie-taylor-greene-cheney-trump.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/03/us/marjorie-taylor-greene-cheney-trump.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/03/us/marjorie-taylor-greene-cheney-trump.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 111
-    images:
-      - url: "https://static01.nyt.com/images/2021/02/03/us/politics/03new-washington-briefing-GreenTakeaways/merlin_183189681_b235617d-543a-450c-ab85-c169b6a96252-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
 
 secured: "HDbTgyfd8SFP5V8G/OBdYnu5zZFZCpYR8odXNlW9oeYOQAhejbbQS1hFYbD9E8LfwQaafGRE8XUjPVc+plRHa1PGJVH8cMnOCj0DyQ8jqok68oUsH27ZmvsOwR5l7CCDUuxUl49ZLdlNIQeFmvbA7Z7TOgYAXSrcBiLH85PhJ6rtQI6vN/i2btR+1QN/Eo50y59GBBWiGE4POAf5LXz/AUFra6BZxUBmmwaODBbqmBTaWT/xXz9dffKTzF+PAGORsr7MQk2jkS0V1vNPBRBaAyonmxfa3q4eITkA2PtBsK8ZHkZTL+hfKCxy+ddhYMwc3UN6bDp+OHSLHTcGRSetKa4H75P3l5xK4r5IEZTnGRc=;faeBfpRpIAsAJWXKaE4xfg=="
 ---

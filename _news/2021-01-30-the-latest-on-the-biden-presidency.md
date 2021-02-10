@@ -1694,6 +1694,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Biden open to breaking his immigration bill into pieces"
+    excerpt: "When President Joe Biden unveiled an immigration bill on the first day in office, he sent a signal to advocates, the Democratic base, and Congress that the issue was a top priority for him."
+    publishedDateTime: 2021-01-26T19:58:00Z
+    webUrl: "https://www.politico.com/news/2021/01/26/biden-immigration-bill-462479"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/26/biden-immigration-bill-462479"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/26/biden-immigration-bill-462479"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/d1/c2/3d36fc2d45c18977c9bd9737b37c/gettyimages-1230788955-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Congress affirms Biden as president after completing electoral vote count"
     excerpt: "After a day of riots at the Capitol, Congress counted the Electoral College votes and confirmed the win for President-elect Joe Biden and Vice President-elect Kamala Harris."
     publishedDateTime: 2021-01-07T09:24:00Z

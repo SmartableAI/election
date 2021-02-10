@@ -1581,6 +1581,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Live Updates: House Democrats make case for conviction on Day 2 of Trump impeachment trial"
+    excerpt: "House impeachment managers will have up to eight hours on Wednesday to present their case for convicting the former president."
+    publishedDateTime: 2021-02-10T14:45:00Z
+    webUrl: "https://www.cbsnews.com/live-updates/trump-impeachment-trial-2021-02-10/"
+    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/trump-impeachment-trial-2021-02-10/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/trump-impeachment-trial-2021-02-10/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 115
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/02/09/8782f873-40aa-4718-8fb7-79346c72244b/thumbnail/1200x630/444c7b65c03aae5ae32aab252686dc41/gettyimages-1231064604.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump Impeachment Trial to Feature Dueling Videos of GOP, Democratic Calls for Confrontation"
     excerpt: "Trump's lead impeachment attorney said Friday he'll call out Democrats for \"inflammatory rhetoric\" during last summer's racial justice movement."
     publishedDateTime: 2021-02-06T22:20:00Z
@@ -2009,6 +2025,17 @@ related:
         width: 1400
         height: 787
         isCached: true
+  - title: "Senators to hear opening arguments as Trump fumes over trial"
+    excerpt: "Opening arguments will begin in Donald Trump's after an emotional first day ended with the Senate voting to hear the case for convicting the former president of inciting the even though he is no longer in office."
+    publishedDateTime: 2021-02-10T14:14:00Z
+    webUrl: "https://www.businessinsider.com/senators-to-hear-opening-arguments-as-trump-fumes-over-trial-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/senators-to-hear-opening-arguments-as-trump-fumes-over-trial-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/senators-to-hear-opening-arguments-as-trump-fumes-over-trial-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "The second impeachment trial of President Donald Trump"
     excerpt: "The second impeachment trial of former President Trump began on Feb. 9, 2021, about a month after he was charged by the House with incitement of insurrection for his role in egging on a violent mob that stormed the Capitol on Jan."
     publishedDateTime: 2021-02-09T20:47:00Z
@@ -2400,17 +2427,6 @@ related:
     webUrl: "https://www.usnews.com/news/politics/articles/2021-02-08/us-moves-to-rejoin-un-rights-council-reversing-trump-anew"
     ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-08/us-moves-to-rejoin-un-rights-council-reversing-trump-anew?context=amp"
     cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-08/us-moves-to-rejoin-un-rights-council-reversing-trump-anew?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
-  - title: "Senators to Hear Opening Arguments as Trump Fumes Over Trial"
-    excerpt: "Opening arguments will begin in Donald Trump's impeachment trial after an emotional first day ended with the Senate voting to hear the case for convicting the former president of inciting the riot at the U."
-    publishedDateTime: 2021-02-10T06:01:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-02-10/senators-to-hear-opening-arguments-as-trump-fumes-over-trial"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-10/senators-to-hear-opening-arguments-as-trump-fumes-over-trial?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-10/senators-to-hear-opening-arguments-as-trump-fumes-over-trial?context=amp"
     type: article
     provider:
       name: U.S. News & World Report

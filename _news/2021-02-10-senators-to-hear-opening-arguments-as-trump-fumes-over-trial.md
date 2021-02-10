@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Senators to Hear Opening Arguments as Trump Fumes Over Trial"
-excerpt: "Opening arguments will begin in Donald Trump's impeachment trial after an emotional first day ended with the Senate voting to hear the case for convicting the former president of inciting the riot at the U."
-publishedDateTime: 2021-02-10T06:01:00Z
-originalUrl: "https://www.usnews.com/news/politics/articles/2021-02-10/senators-to-hear-opening-arguments-as-trump-fumes-over-trial"
-webUrl: "https://www.usnews.com/news/politics/articles/2021-02-10/senators-to-hear-opening-arguments-as-trump-fumes-over-trial"
-ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-10/senators-to-hear-opening-arguments-as-trump-fumes-over-trial?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-10/senators-to-hear-opening-arguments-as-trump-fumes-over-trial?context=amp"
+title: "Senators to hear opening arguments as Trump fumes over trial"
+excerpt: "Opening arguments will begin in Donald Trump's after an emotional first day ended with the Senate voting to hear the case for convicting the former president of inciting the even though he is no longer in office."
+publishedDateTime: 2021-02-10T14:14:00Z
+originalUrl: "https://www.businessinsider.com/senators-to-hear-opening-arguments-as-trump-fumes-over-trial-2021-2"
+webUrl: "https://www.businessinsider.com/senators-to-hear-opening-arguments-as-trump-fumes-over-trial-2021-2"
+ampWebUrl: "https://www.businessinsider.com/senators-to-hear-opening-arguments-as-trump-fumes-over-trial-2021-2?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/senators-to-hear-opening-arguments-as-trump-fumes-over-trial-2021-2?amp"
 type: article
-quality: 55
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -1577,6 +1577,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Live Updates: House Democrats make case for conviction on Day 2 of Trump impeachment trial"
+    excerpt: "House impeachment managers will have up to eight hours on Wednesday to present their case for convicting the former president."
+    publishedDateTime: 2021-02-10T14:45:00Z
+    webUrl: "https://www.cbsnews.com/live-updates/trump-impeachment-trial-2021-02-10/"
+    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/trump-impeachment-trial-2021-02-10/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/trump-impeachment-trial-2021-02-10/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 115
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/02/09/8782f873-40aa-4718-8fb7-79346c72244b/thumbnail/1200x630/444c7b65c03aae5ae32aab252686dc41/gettyimages-1231064604.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump Impeachment Trial to Feature Dueling Videos of GOP, Democratic Calls for Confrontation"
     excerpt: "Trump's lead impeachment attorney said Friday he'll call out Democrats for \"inflammatory rhetoric\" during last summer's racial justice movement."
     publishedDateTime: 2021-02-06T22:20:00Z
@@ -2452,6 +2468,6 @@ related:
       domain: usnews.com
     quality: 46
 
-secured: "zMFc1/b87JGxYcz5T2siKlzt7Nm5UJ3eEHKD7JQuYESd7gmvncYcPhImjlXEv6aywHvjH46WkHzqqsG19BvdEu0qiVx3wc9XVe6dllAXnpWEyvtRZWhgSORrj9QSLNDUJEdl6fqZ0CoGY/rh6LWwfzqBQyzMQXpF6OBeCbH2EEWakZwYSzdtfiUCewEZEFKEqtr0gNOjrkmdhWg+9GEyFoKtjCbPAeyNXjRNnWIZaQXuH+W0g1gwUQ4wx5mbmluCbat4YzHtlD4lMNp6vPrJ1vnaU4dk5Mf4Fjo7VEGvcLm6C0S1uqNYRw6z6JupAqJhj6GeIDmqQd97WrVPQ5A3/9kXuQKMj3lbFvT+lfMZFeJX0marJi/HSUzlXl4yQkruwotddYmkNgM1hPloDqfEwE09nQh0zXP+jTJeVgGBTlxIyXo/ktNdK74O4v2l3BT/dqjuERZxrf4Tt7kB767XwB5R+gnxP9rP+vUBdtLN4jr/0OG2iYrsSlE5Vxgm8ZYssThYG7qc9M+VW886FgVteQ==;YbBtAMM+BYgrmaEjTleIIg=="
+secured: "JPtEosV+F2jVMMp98uDxPXYxwZcfmQhEohxZqCpkK73VjNIky2bIoDH/WMfT5KBBP2yZLTg4wWq1npjMnK5C1k38ll3uXAtB+VYwqnaQAGD4gIzxYhcOv5ibKiECDZRc7SWSc4XdHNlqNEtAn3jG2zGzY3kRjMN+fJQwqiYMJ/3X3e95QjzSV0c+vpTiU/SaLdvANhRe1wxzoPzgeGxbu1OnjZmVwIe4x+8QKd2K5x1NwU3zbB0rB16Z2VSYA0nNBu2omv95o4bQHFYJdTBzfJUEGFuVwLRce9AW1brPD6licZgB2d1m8Vbb3YfXILsUjkwzzWhTEr17jXVwhluOK6et8Ng+gIjgWCGW7WJ909U=;rSa5vlIm3Elm8TDwSTDK7g=="
 ---
 

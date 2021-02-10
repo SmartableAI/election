@@ -1678,6 +1678,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden open to breaking his immigration bill into pieces"
+    excerpt: "When President Joe Biden unveiled an immigration bill on the first day in office, he sent a signal to advocates, the Democratic base, and Congress that the issue was a top priority for him."
+    publishedDateTime: 2021-01-26T19:58:00Z
+    webUrl: "https://www.politico.com/news/2021/01/26/biden-immigration-bill-462479"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/26/biden-immigration-bill-462479"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/26/biden-immigration-bill-462479"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/d1/c2/3d36fc2d45c18977c9bd9737b37c/gettyimages-1230788955-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "The latest on the Biden presidency"
     excerpt: "President Joe Biden forges ahead with his new administration and agenda as former President Trump's impeachment trial looms. Follow here for the latest."
     publishedDateTime: 2021-01-29T20:34:00Z

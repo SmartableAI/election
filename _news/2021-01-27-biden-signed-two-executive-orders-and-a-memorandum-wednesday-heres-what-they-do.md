@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Judge likely to extend hold on Biden's deportation pause until late February"
+    excerpt: "A federal judge in Texas said Friday that he'll likely extend his hold on the Biden administration's deportation moratorium until February 23.\n    \n"
+    publishedDateTime: 2021-01-29T19:24:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PAqiwBM64-4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/29/politics/immigration-biden-deportations-texas/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/29/politics/immigration-biden-deportations-texas/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210128143435-01-biden-health-care-eo-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden to sign immigration executive orders and establish task force to reunite separated families"
     excerpt: "President Joe Biden will sign three executive orders Tuesday that take aim at his predecessor's hardline immigration policies and try to rectify the consequences of those policies, including by establishing a task force designed to reunite families separated at the US-Mexico border, according to senior"
     publishedDateTime: 2021-02-02T10:01:01Z
@@ -126,6 +142,22 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2021_04/3444061/210121-california-eviction-covid-se-331p_387483efba3bdeeb8213d2cea740bd4f.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Biden aims for comprehensive climate approach as he halts new oil and gas leases on federal land"
+    excerpt: "(CNN)President Joe Biden signed several executive actions related to the climate crisis on Wednesday, including one directing the secretary of the interior to pause on entering into new oil and ..."
+    publishedDateTime: 2021-01-27T11:54:00Z
+    webUrl: "https://www.cnn.com/2021/01/27/politics/climate-executive-orders-joe-biden/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/27/politics/climate-executive-orders-joe-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/27/politics/climate-executive-orders-joe-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 122
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210126144131-01-fracking-site-texas-0507-file-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "L0cydoc7BpNiER1G4QNLfo+gO2NRTrKS2BgbmidYC2sPXPrDwuuukumjMnwM8iJUWFh4jv+X8BhJk3eV5Tk22AQSbUlCOdnlYf5qQtai3PGPb/SugtM8s6sDFMtaoQAV9vnS5264RD/YtBp/35mdMRFMyHKTkGlRpE+LJntvOteY4bcDJvSND/v8xvMa0w4b31AcfJslLMt7iIQFDQMS3O0JqY+Ba6jSXzt0utUYgEf5/2swT20svKbLCPNaEeW4NPQPWeNmceQY5i/MGx9mJxLJAe7w1HqfksmVp3OlUCMkhJ1BTW9s5vJK26XxzpAjgAV6wcDTP5WQJhZqDNGfd0VVI4EY3KI6DjNqH1CDh/4=;9BNCvoPbM2XCr80xI075qg=="

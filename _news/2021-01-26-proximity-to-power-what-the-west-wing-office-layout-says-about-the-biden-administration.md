@@ -47,38 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden administration takes cautious approach as it touts using Defense Production Act"
-    excerpt: "The Biden administration has repeatedly touted its plans to aggressively use the Defense Production Act as it combats the coronavirus pandemic, but behind the scenes, a slower, more painstaking effort is underway.\n    \n"
-    publishedDateTime: 2021-01-27T23:34:13Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/B9CwTfJol-w/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/27/politics/biden-administration-defense-production-act/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/27/politics/biden-administration-defense-production-act/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 168
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210114172307-moderna-covid-vaccine-0112-massachusetts-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "'It's frustrating': Thousands of migrants sit in Mexico desperate for answers from the Biden administration"
-    excerpt: "Within the span of a year and a half, a Cuban couple living on the US-Mexico border were repeatedly threatened, attacked and lost a baby after being assaulted, as they waited for their next immigration court date in the United States under a Trump-era policy.\n    \n"
-    publishedDateTime: 2021-01-28T21:09:03Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3N_41SYeONc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/28/politics/immigration-biden-mexico-border/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/28/politics/immigration-biden-mexico-border/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 157
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210127171643-01-matamoros-mexico-asylum-seekers-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
 
 secured: "RgxW40LnHPDJ2/Mn4fol5/ZMfLftkVnuX3KOVwiQwVQ99QQ06l+oyOCxfrd52Wl+ib/RDDhVhP3iLWEMH7+QYQAKmlUKTVMBF1GA7FN9KjxzlWZKOkgqM85TGSJb9sa88qW1pMQKlLYUWF3iKxNYpT5tkPmy5mFJraIaaVXJMIerZsiX9JA+bCXLyA3Qhk/+VDjCcNdajFljOebZW30/nOPMIVPtQprKdczbrXZyw2tgOdMT0vny6aFw3PoKONWSMHODVgwbZTfntZGooX2xToN40Ts3siGVkANmDSnya99UaTfsSnScjCMLjLTf7M6JCfPHBaskmYi7Krb8tV5x6aKnhLLU4yr+D4rL3782JXk=;/pKm9fTxNueOj9XWo0uNkg=="
 ---

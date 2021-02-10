@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biden tells CNN Trump's impeachment trial 'has to happen'"
-    excerpt: "President Joe Biden on Monday offered his most extensive comments since taking office on President Donald Trump's impeachment trial, telling CNN \"I think it has to happen.\"\n    \n"
-    publishedDateTime: 2021-01-26T00:36:01Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0HD9mLDX2SI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/joe-biden-trump-impeachment/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/joe-biden-trump-impeachment/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 190
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125161813-01-biden-manufacturing-0125-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Analysis: Covering Obama, then Trump, now Biden: What's changed?"
     excerpt: "We're now more than a week out of the Trump era and a week into the Biden era.\n    \n"
     publishedDateTime: 2021-01-30T14:17:47Z
@@ -80,131 +64,99 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Senators to be sworn in for Trump impeachment trial "
-    excerpt: "Senators will be formally sworn in as jurors on Tuesday for the second impeachment trial of former President Donald Trump, though the trial won't get into full swing until the week of February 8.\n    \n"
-    publishedDateTime: 2021-01-26T11:45:06Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4ruBKemCI_I/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/26/politics/impeachment-trial-latest-senators-sworn-in/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/impeachment-trial-latest-senators-sworn-in/index.html"
+  - title: "Biden administration to remove Houthis from terrorist list, reversing Trump's decision"
+    excerpt: "The State Department has informed Congress of its intent to reverse the Trump administration's eleventh-hour decision to designate Yemen's Houthi rebels as a foreign terrorist organization, a State Department official said Friday.\n    \n"
+    publishedDateTime: 2021-02-06T01:52:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GtwnzcvGt_c/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/05/politics/us-houthis-terrorist-list/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/05/politics/us-houthis-terrorist-list/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 182
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210205103714-biden-foreign-policy-speech-02-04-2021-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: On immigration, Biden seeks a new approach to an old deadlock"
+    excerpt: "President Joe Biden's early moves on immigration signal his determination to learn from past efforts to reform the system, but that doesn't mean he won't repeat their legacy of frustration.\n    \n"
+    publishedDateTime: 2021-01-26T12:22:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UYlicYpH3jk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/26/politics/biden-immigration-strategy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/biden-immigration-strategy/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210122130036-split-mitch-mcconnell-chuck-schumer-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125165746-biden-immigration-approach-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden sets bold timeline for a return to normal life"
-    excerpt: "President Joe Biden's pledge that there will be sufficient vaccines for 300 million Americans by the end of summer represents a bold and politically risky response to criticism his pandemic plan lacks ambition.\n    \n"
-    publishedDateTime: 2021-01-27T12:25:56Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/idRqSqIvHIk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/27/politics/president-biden-coronavirus/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/27/politics/president-biden-coronavirus/index.html"
+  - title: "Analysis: Why West Virginia is central to Biden's climate crisis plans"
+    excerpt: "Joe Manchin once shot a hole in the climate-saving plan of his own party. Literally.\n    \n"
+    publishedDateTime: 2021-01-27T11:02:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hHb9PF_Lre4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/27/politics/climate-crisis-biden-executive-actions-analysis-weir-wxc/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/27/politics/climate-crisis-biden-executive-actions-analysis-weir-wxc/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210126200125-joe-biden-210126-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210126203100-joe-manchin-at-inauguration-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Fauci says Biden's push to reopen schools in 100 days 'may not happen'"
-    excerpt: "Dr. Anthony Fauci, the nation's leading infectious disease expert, cautioned Thursday that President Joe Biden's push to reopen most schools within 100 days \"may not happen\" as the US continues to grapple with high Covid-19 transmission.\n    \n"
-    publishedDateTime: 2021-01-29T03:53:00Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dXJvEDuyIMg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/28/politics/fauci-biden-schools-coronavirus/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/28/politics/fauci-biden-schools-coronavirus/index.html"
+  - title: "Analysis: Why Biden has a rare opportunity for early success   "
+    excerpt: "Over five decades in Washington, President Joe Biden has watched seven newly-elected presidents get started. Improbably, he has the chance for a stronger opening act than any of them.\n    \n"
+    publishedDateTime: 2021-01-31T12:01:42Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NwKcFQyfvhM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/31/politics/joe-biden-opening-act-covid-19-relief/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/31/politics/joe-biden-opening-act-covid-19-relief/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210121183810-03-white-house-covid-presser-0121-fauci-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210127192327-biden-0127-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Three new lawyers added to Trump's impeachment defense"
-    excerpt: "Former President Donald Trump has added three additional criminal defense lawyers to his impeachment defense team, bringing the current number of attorneys representing him next month to five.\n    \n"
-    publishedDateTime: 2021-01-29T15:27:07Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8IO3xY4dNmw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/29/politics/donald-trump-impeachment-defense-team/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/29/politics/donald-trump-impeachment-defense-team/index.html"
+  - title: "They say Biden's plan would change their lives. Here's how"
+    excerpt: "Undocumented immigrants across the country told CNN they're hoping the President will make good on his promise to protect them, before it's too late.\n    \n"
+    publishedDateTime: 2021-01-31T12:54:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jYKZEJZ6XCw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/31/us/biden-immigration-proposal-undocumented-immigrants-reactions/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/31/us/biden-immigration-proposal-undocumented-immigrants-reactions/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210116020618-03-donald-trump-0112-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210129133806-immigration-rally-0127-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump loses his impeachment team amid unfaltering loyalty from the GOP"
-    excerpt: "Former President Donald Trump's lies and his insistence that the November election was rigged against him may have turned out to be a bridge too far for the attorneys who were slated to defend him in his upcoming Senate impeachment trial in a little more than a week.\n    \n"
-    publishedDateTime: 2021-01-31T05:53:58Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IDB4mQAlCqI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/31/politics/donald-trump-impeachment-marjorie-taylor-greene-gop/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/31/politics/donald-trump-impeachment-marjorie-taylor-greene-gop/index.html"
+  - title: "Analysis: This is job one for Biden in the climate debate"
+    excerpt: "President Joe Biden's push to accelerate the nation's transition toward electric vehicles offers him a game-changing opportunity to jolt the climate change debate -- if he can quell simmering tension between two key elements of the Democratic coalition.\n    \n"
+    publishedDateTime: 2021-02-02T05:12:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QVmWBRSMbiQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/02/politics/biden-climate-change-electric-cars/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/02/politics/biden-climate-change-electric-cars/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201102113042-101b-donald-trump-serious-centered-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden wants millions of clean-energy related jobs. Can it happen? "
-    excerpt: "Last week, President Joe Biden reaffirmed his commitment to addressing climate change by creating green energy jobs, building out a \"modern and sustainable infrastructure\" toward his continued goal of reaching a carbon-free energy sector in the US by 2035.\n    \n"
-    publishedDateTime: 2021-02-01T20:16:34Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uYvQs1v4g6U/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/01/politics/joe-biden-green-energy-jobs/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/01/politics/joe-biden-green-energy-jobs/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210127161713-biden-signs-executive-actions-climate-crisis-coronavirus-collins-dnt-lead-vpx-00005210-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump names new lawyers for impeachment defense team"
-    excerpt: "David Schoen and Bruce L. Castor, Jr. will head the legal team for the second impeachment trial of former President Donald Trump, his office announced Sunday, a day after CNN first reported that five known members of his impeachment defense team had left.\n    \n"
-    publishedDateTime: 2021-02-01T00:49:01Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qp9XiITBqR0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/31/politics/trump-new-lawyers/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/31/politics/trump-new-lawyers/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201102113042-101b-donald-trump-serious-centered-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump's impeachment case is now in the Senate's hands. Here's what's next"
-    excerpt: "The House voted to impeach President Donald Trump on January 14, but waited until Monday to complete the next step in the process -- having House managers read the single article of impeachment aloud on the House floor and then walking it over to the Senate.\n    \n"
-    publishedDateTime: 2021-01-26T01:01:22Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NJ5PyF_hTQg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/impeachment-senate-next-what-matters-january-25/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/impeachment-senate-next-what-matters-january-25/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 174
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125153359-01-raskin-jan-13-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210201153156-01-electric-car-restricted-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -224,341 +176,149 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Republicans bullish Trump isn't at risk of conviction in impeachment trial"
-    excerpt: "Republican Senate leaders are increasingly confident that former President Donald Trump won't be at risk of conviction when his impeachment trial begins next month, expecting the votes to stay largely the same as Tuesday's 55-to-45 test vote over the constitutionality of the trial.\n    \n"
-    publishedDateTime: 2021-01-27T18:29:08Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8cCKoAZ6el8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/27/politics/impeachment-trial-republican-reaction/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/27/politics/impeachment-trial-republican-reaction/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 173
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210126154809-mitch-mcconnell-january-26-2021-republican-luncheon-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump stockpiles millions in donations as he faces a second impeachment trial"
-    excerpt: "Donald Trump's new political committee took in more $30 million in the final weeks of 2020 as he made relentless and baseless claims of voter fraud, new filings show.\n    \n"
-    publishedDateTime: 2021-02-01T12:28:13Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MRdNMMUDCV4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/31/politics/donald-trump-save-america-pac-contributions/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/31/politics/donald-trump-save-america-pac-contributions/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 172
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210130092910-trump-at-mar-a-lago-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "John Roberts ducks the spotlight by skipping the second Trump impeachment trial"
-    excerpt: "Chief Justice John Roberts has long been a student of history, but this is one part of history -- presiding at the second trial of Donald Trump -- he can do without.\n    \n"
-    publishedDateTime: 2021-01-26T01:22:33Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/u0TQusfQybw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/john-roberts-trump-impeachment/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/john-roberts-trump-impeachment/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 171
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125134312-01-justice-john-roberts-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden has signed 42 executive actions since taking office. Here's what each does"
-    excerpt: "President Joe Biden hasn't wasted any time setting his agenda into motion through a flurry of executive actions that address everything from Covid-19 to the climate crisis.\n    \n"
-    publishedDateTime: 2021-01-29T16:00:56Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zzpwF-pnNVk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/29/politics/biden-executive-orders-climate-health-care-coronavirus-immigration/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/29/politics/biden-executive-orders-climate-health-care-coronavirus-immigration/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 170
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210127144815-01-biden-climate-eo-0127-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Two Republican senators vow to keep open mind in Trump's second impeachment trial "
-    excerpt: "Two Republican senators said Sunday they'll remain fair jurors and listen to the evidence presented during former President Donald Trump's second impeachment trial set to begin February 9.\n    \n"
-    publishedDateTime: 2021-01-31T20:25:56Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4-SAYWe7pwo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/31/politics/senate-republicans-trump-second-impeachment-trial-rob-portman-bill-cassidy/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/31/politics/senate-republicans-trump-second-impeachment-trial-rob-portman-bill-cassidy/index.html"
+  - title: "Analysis: On executive actions, Biden is blowing his predecessors out of the water"
+    excerpt: "It's the frustration of presidents from the beginning of the republic: how to get anything done when Congress gets stuck.\n    \n"
+    publishedDateTime: 2021-02-06T13:00:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8bRpDTo3FPU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/06/politics/what-matters-february-5/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/06/politics/what-matters-february-5/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 169
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210131150200-portman-cassidy-split-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210130013250-01-biden-0128-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden and Netanyahu's decades-long friendship faces new test after Israel's Prime Minister went all in for Trump"
-    excerpt: "US President Joe Biden and Israeli Prime Minister Benjamin Netanyahu have been friends, allies and partners in a relationship that has spanned nearly four decades. When they first met, Biden was a junior senator in his early 40s; Netanyahu was a fledgling diplomat nearly a decade younger. Now with their"
-    publishedDateTime: 2021-02-01T20:53:03Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SE34VM2r_OY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/01/politics/biden-netanyahu-relationship/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/01/politics/biden-netanyahu-relationship/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 169
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210201133546-biden-netanyahu-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Rand Paul to force test vote to gauge Republican support for Trump impeachment trial"
-    excerpt: "Sen. Rand Paul plans to force a test vote on Tuesday that will show how many Republicans support holding an impeachment trial for former President Donald Trump and how many believe a trial should not take place.\n    \n"
-    publishedDateTime: 2021-01-26T18:31:11Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HfFEQ5IS8bQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/26/politics/rand-paul-test-vote-impeachment-trial-constitutionality/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/rand-paul-test-vote-impeachment-trial-constitutionality/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 168
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200130132541-02-rand-paul-preser-0130-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "McConnell proposes delaying impeachment trial until February so Trump team can prepare"
-    excerpt: "The timing of former President Donald Trump's Senate impeachment trial is still unsettled while Senate leaders haggle over how a power-sharing agreement will govern a 50-50 Senate.\n    \n"
-    publishedDateTime: 2021-01-22T02:55:43Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rjYhHedOgIc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/21/politics/nancy-pelosi-impeachment-timing/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/21/politics/nancy-pelosi-impeachment-timing/index.html"
+  - title: "Analysis: Biden turns to skills that powered his 2020 victory to sell Covid-19 relief "
+    excerpt: "Nearly three weeks into office, President Joe Biden is trying to do what he knows how to do best -- connect with average Americans, letting them know he understands their suffering and offering words of comfort. But instead of doing so quietly on the campaign trail, he's now using those skills to win"
+    publishedDateTime: 2021-02-07T05:06:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PgZYl5kNJLo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/07/politics/joe-biden-covid-19-stimulus-relief/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/07/politics/joe-biden-covid-19-stimulus-relief/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 167
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106121255-01-mcconnell-0106-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210201152949-01-biden-lincoln-0126-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "First on CNN: Trump's impeachment defense team leaves less than two weeks before trial"
-    excerpt: "Former President Donald Trump's five impeachment defense attorneys have left a little more than a week before his trial is set to begin, according to people familiar with the case, amid a disagreement over his legal strategy.\n    \n"
-    publishedDateTime: 2021-01-31T04:04:10Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fS6OiRMfJE8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/30/politics/butch-bowers-deborah-barbier-trump-impeachment-team/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/30/politics/butch-bowers-deborah-barbier-trump-impeachment-team/index.html"
+  - title: "Biden is no longer afraid to spend big on economic relief. Here's what's changed since 2009"
+    excerpt: "Even before he took office, President Joe Biden made clear he will not hesitate to spend big to fight the coronavirus pandemic and get the economy back on track.\n    \n"
+    publishedDateTime: 2021-01-25T12:00:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yEQ3vrKnjC8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/biden-pandemic-relief-economic-stimulus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/biden-pandemic-relief-economic-stimulus/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 167
+    quality: 165
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125192318-donald-trump-september-2020-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210122211659-05-biden-economy-0122-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump begins speaking with impeachment lawyer, even as he scrambles to build defense team"
-    excerpt: "Former President Donald Trump is still working to assemble a full legal team for his Senate impeachment trial, people familiar with the matter told CNN on Monday, even as he has begun to craft a defense strategy with Butch Bowers, the South Carolina lawyer who has agreed to represent him in the historic"
-    publishedDateTime: 2021-01-26T01:34:14Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/J4pFuzOZ6_8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/impeachment-trump-lawyer-legal-team/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/impeachment-trump-lawyer-legal-team/index.html"
+  - title: "Biden tells CNN Trump's impeachment trial 'has to happen'"
+    excerpt: "(CNN)President Joe Biden on Monday offered his most extensive comments since taking office on former President Donald Trump's impeachment trial, telling CNN, \"I think it has to happen.\" Biden made ..."
+    publishedDateTime: 2021-01-26T10:04:00Z
+    webUrl: "https://edition.cnn.com/2021/01/25/politics/joe-biden-trump-impeachment/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/joe-biden-trump-impeachment/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/joe-biden-trump-impeachment/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 166
+    quality: 150
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210124092241-file-donald-trump-mar-a-lago-florida-2019-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125161813-01-biden-manufacturing-0125-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Democrats weigh whether they need witnesses to make a visceral case against Trump at impeachment trial"
-    excerpt: "Facing highly skeptical Republican senators, House impeachment managers are preparing a case to show the visceral evidence of the Capitol insurrection and how former President Donald Trump's words and actions motivated the rioters to breach the Capitol, according to sources familiar with the deliberations.\n"
-    publishedDateTime: 2021-01-26T23:40:50Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jtR115OgIaY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/26/politics/impeachment-case-house-managers/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/impeachment-case-house-managers/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 159
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125153646-02-raskin-jan-6-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Start of Trump's impeachment trial remains unsettled as Pelosi refuses to say when she'll send over article"
-    excerpt: "The timing of former President Donald Trump's Senate impeachment trial is still unsettled while Senate leaders haggle over how a power-sharing agreement will govern a 50-50 Senate.\n    \n"
-    publishedDateTime: 2021-01-21T16:45:21Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rjYhHedOgIc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/21/politics/nancy-pelosi-impeachment-timing/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/21/politics/nancy-pelosi-impeachment-timing/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 157
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210113164531-02-pelosi-gavel-house-impeachment-vote-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Former Trump officials and other GOP lawyers urge senators to 'consider the evidence' in impeachment trial"
-    excerpt: "With the second impeachment trial of Donald Trump set to begin in February, nine prominent Republican lawyers, including two former officials in the Trump administration, have signed a letter urging GOP senators to \"consider the evidence\" before deciding how to vote on conviction.\n    \n"
-    publishedDateTime: 2021-01-25T15:38:51Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fEnQl6lFRGs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/gop-lawyers-trump-impeachment-senate/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/gop-lawyers-trump-impeachment-senate/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 157
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210122180955-schumer-senate-floor-impeachment-timeline-screen-grab-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Sen. Patrick Leahy taken to hospital out of abundance of caution after presiding over opening of Trump's impeachment trial"
-    excerpt: "Sen. Patrick Leahy was hospitalized out of an abundance of caution on Wednesday, just hours after presiding over the opening of former President Donald Trump's second impeachment trial.\n    \n"
-    publishedDateTime: 2021-01-27T00:18:24Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ol2AVzchkEw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/26/politics/patrick-leahy-hospital/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/patrick-leahy-hospital/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 149
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210126180712-01-patrick-leahy-lead-image-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "House Delivers to the Senate an Impeachment Charge Against Trump"
-    excerpt: "Nine House managers walked across the Capitol to inform the Senate that they were ready to prosecute the former president for “incitement of insurrection.” And the Justice Department opens inquiry into an “improper attempt” by officials to overturn the presidential election."
-    publishedDateTime: 2021-01-26T08:51:00Z
-    webUrl: "https://www.nytimes.com/live/2021/01/25/us/biden-trump-impeachment"
-    ampWebUrl: "https://www.nytimes.com/live/2021/01/25/us/biden-trump-impeachment.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/01/25/us/biden-trump-impeachment.amp.html"
+  - title: "Biden Reverses Trump Terrorist Designation for Houthis in Yemen"
+    excerpt: "Critics of the Trump administration action said the penalties would punish the millions of starving people in Yemen more than the Houthi rebels."
+    publishedDateTime: 2021-02-06T04:23:00Z
+    webUrl: "https://www.nytimes.com/2021/02/05/us/politics/biden-houthi-yemen-terrorist-designation.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/05/us/politics/biden-houthi-yemen-terrorist-designation.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/05/us/politics/biden-houthi-yemen-terrorist-designation.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 135
+    quality: 150
     images:
-      - url: "https://static01.nyt.com/images/2021/01/25/us/politics/25new-washington-briefing-impeachment2/25new-washington-briefing-impeachment2-facebookJumbo-v3.jpg"
+      - url: "https://static01.nyt.com/images/2021/02/05/lens/05dc-houthi-photo/merlin_182819595_9505f65c-0647-4a05-a6c0-c5c6a0477729-facebookJumbo.jpg"
         width: 1050
-        height: 550
+        height: 549
         isCached: true
-  - title: "How President Biden's dog Major made history"
-    excerpt: "Patrick Carroll, executive director of the Delaware Humane Association, tells CNN's Anderson Cooper the story of helping President Joe Biden adopt his dog, Major, the first shelter dog to live in the White House."
-    publishedDateTime: 2021-01-26T00:40:00Z
-    webUrl: "https://www.cnn.com/videos/politics/2021/01/26/major-biden-shelter-dog-white-house-acfc-full-episode-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/01/26/major-biden-shelter-dog-white-house-acfc-full-episode-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/01/26/major-biden-shelter-dog-white-house-acfc-full-episode-vpx.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 135
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125190424-acfc-major-biden-desktop-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "The Trial of Donald Trump: The Sequel"
-    excerpt: "Readers criticize both Republicans and Democrats for increasing divisiveness and disagree about the best way to hold Mr. Trump accountable."
-    publishedDateTime: 2021-01-25T17:48:00Z
-    webUrl: "https://www.nytimes.com/2021/01/25/opinion/letters/trump-impeachment.html"
-    ampWebUrl: "https://www.nytimes.com/2021/01/25/opinion/letters/trump-impeachment.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/25/opinion/letters/trump-impeachment.amp.html"
+  - title: "Biden Bars Trump From Receiving Intelligence Briefings, Citing ‘Erratic Behavior’"
+    excerpt: "Mr. Biden said there was “no need” for former President Donald J. Trump to get the briefings, traditionally given to ex-presidents as a courtesy and to keep them informed if their advice is needed."
+    publishedDateTime: 2021-02-06T02:06:00Z
+    webUrl: "https://www.nytimes.com/2021/02/05/us/politics/biden-trump-intelligence-briefings.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/05/us/politics/biden-trump-intelligence-briefings.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/05/us/politics/biden-trump-intelligence-briefings.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 135
+    quality: 145
     images:
-      - url: "https://static01.nyt.com/images/2021/01/25/us/25-DC-IMPEACH-01-PRINT/merlin_182307399_f6bd267f-8e7f-4361-bf7e-31f0e440da09-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2021/02/05/multimedia/05dc-biden-intel-breifing-trump/05dc-biden-intel-breifing-trump-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true
-  - title: "With Impeachment Trial Looming, Republicans Waver on Punishing Trump"
-    excerpt: "House managers presented the Senate with an article charging Donald J. Trump with “incitement of insurrection.” But Republicans are increasingly indicating they are unlikely to find him guilty."
-    publishedDateTime: 2021-01-26T01:25:00Z
-    webUrl: "https://www.nytimes.com/2021/01/25/us/politics/trump-republicans-impeachment-trial.html"
-    ampWebUrl: "https://www.nytimes.com/2021/01/25/us/politics/trump-republicans-impeachment-trial.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/25/us/politics/trump-republicans-impeachment-trial.amp.html"
+  - title: "Biden Signals Break With Trump Foreign Policy in a Wide-Ranging State Dept. Speech"
+    excerpt: "The president said that he would end support for Saudi Arabia in its intervention in Yemen and that the U.S. would no longer be “rolling over in the face of Russia’s aggressive actions.”"
+    publishedDateTime: 2021-02-05T01:48:00Z
+    webUrl: "https://www.nytimes.com/2021/02/04/us/politics/biden-foreign-policy.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/04/us/politics/biden-foreign-policy.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/04/us/politics/biden-foreign-policy.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 135
+    quality: 144
     images:
-      - url: "https://static01.nyt.com/images/2021/01/25/us/politics/25new-washington-briefing-impeachment2/25new-washington-briefing-impeachment2-facebookJumbo-v3.jpg"
+      - url: "https://static01.nyt.com/images/2021/02/04/us/politics/04dc-prexy-1/merlin_182842254_e91194e3-3922-4139-804f-00ef93ae8ed3-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true
-  - title: "Trump considers written letter as part of Senate trial defense"
-    excerpt: "Former President Donald Trump may submit a written letter in his defense for the Senate impeachment trial, contemplating the move as he expands his legal team less than two weeks before the proceedings are set to begin,"
-    publishedDateTime: 2021-01-27T22:03:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/trump-considers-written-letter-part-senate-trial-defense-n1255893"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1255893"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1255893"
+  - title: "Biden signs immigration executive orders to address 'moral failing' of Trump's policies"
+    excerpt: "One executive order will create a task force to reunite children who were separated from their parents under Trump's \"zero tolerance\" policy."
+    publishedDateTime: 2021-02-03T21:07:00Z
+    webUrl: "https://www.nbcnews.com/politics/immigration/biden-sign-executive-orders-immigration-including-family-reunification-n1256431"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1256431"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1256431"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 135
+    quality: 142
     images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2021_04/3445494/210127-donald-trump-al-1500_6fa7abd3a3efa96c46bff00840a3c333.jpg"
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_05/3443371/210119-joe-biden-ac-949p_6cc3217a532cb2a7374b288ca74a1dfc.jpg"
         width: 2500
-        height: 1667
+        height: 1659
         isCached: true
-  - title: "Trump Parts Ways With Lead Impeachment Lawyer"
-    excerpt: "The move comes a little over a week before the former president’s Senate trial is set to begin and after a frantic search to secure a lead lawyer for his defense team."
-    publishedDateTime: 2021-01-31T02:46:00Z
-    webUrl: "https://www.nytimes.com/2021/01/30/us/politics/trump-butch-bowers-impeachment.html"
-    ampWebUrl: "https://www.nytimes.com/2021/01/30/us/politics/trump-butch-bowers-impeachment.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/30/us/politics/trump-butch-bowers-impeachment.amp.html"
+  - title: "Biden pitching a much vaster climate plan than Obama ever attempted"
+    excerpt: "President Joe Biden is launching his sweeping assault on climate change with a much larger army of allies than Barack Obama had 12 years ago — a coalition that ranges from labor unions, anti-fracking activists and racial justice advocates to leaders of Wall Street,"
+    publishedDateTime: 2021-01-27T22:12:00Z
+    webUrl: "https://www.politico.com/news/2021/01/27/biden-climate-orders-energy-463051"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/27/biden-climate-prders-energy-463051"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/27/biden-climate-prders-energy-463051"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
+      name: Politico
+      domain: politico.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2021/01/30/lens/30dc-trump/30dc-trump-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Sen. Rand Paul objects to 'sham' impeachment trial of former President Trump"
-    excerpt: "Ky., spoke on the Senate floor to voice his objection to the impeachment trial of former President Donald Trump, calling it a \"sham\" and \"dark blot on the history of our country.\""
-    publishedDateTime: 2021-01-26T18:25:00Z
-    webUrl: "https://www.nbcnews.com/video/sen-rand-paul-objects-to-sham-impeachment-trial-of-former-president-trump-100039237995"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo100039237995"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo100039237995"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 132
-    images:
-      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202101/Rand_impeachment_objection_1.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://static.politico.com/98/ce/6dd20fff426c96a5f11674f1596b/deb-haaland-773-ap-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Northeast braces for a blizzard, Biden to talk Covid relief with GOP senators and why Trump's lawyers left"
     excerpt: "President Joe Biden has agreed to meet with a group of GOP senators to discuss a trimmed Covid relief package. Donald Trump's lawyers exited after the former president insisted his impeachment defense focus on false election claims."
@@ -576,38 +336,6 @@ related:
         width: 2500
         height: 1666
         isCached: true
-  - title: "Republicans Rally Against Impeachment Trial, Signaling Likely Acquittal for Trump"
-    excerpt: "All but five Republican senators voted to challenge the constitutionality of the trial, suggesting that Democrats were unlikely to find the 17 they would need to join them in convicting the former president."
-    publishedDateTime: 2021-01-27T00:49:00Z
-    webUrl: "https://www.nytimes.com/2021/01/26/us/politics/republicans-impeachment-trump.html"
-    ampWebUrl: "https://www.nytimes.com/2021/01/26/us/politics/republicans-impeachment-trump.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/26/us/politics/republicans-impeachment-trump.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 130
-    images:
-      - url: "https://static01.nyt.com/images/2021/01/26/us/politics/26dc-impeach/26dc-impeach-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Most Senate Republicans back measure saying Trump impeachment trial is unconstitutional"
-    excerpt: "Senate Republicans voted Tuesday for a measure that would have declared the impeachment proceedings against former President Donald Trump unconstitutional because he is no longer in office. The motion,"
-    publishedDateTime: 2021-01-27T01:21:00Z
-    webUrl: "https://www.nbcnews.com/politics/congress/senators-be-sworn-trump-impeachment-trial-where-they-will-be-n1255686"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1255686"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1255686"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 127
-    images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2021_04/3445099/210126-impeachment-managers-jm-1137_493a0713f436e2c01d4700bf2e1c7d09.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "Biden reinstates Covid travel restrictions Trump rescinded, imposes new ban on South Africa"
     excerpt: "President Joe Biden signed restrictions Monday on travel to the United States to mitigate Covid-19 transmission. The ban prevents most non-U.S. citizens from entry if they have recently been in South Africa,"
     publishedDateTime: 2021-01-26T00:03:00Z
@@ -621,48 +349,6 @@ related:
       - url: "https://media4.s-nbcnews.com/j/newscms/2021_03/3444696/210124-joe-biden-jm-1623_9e4a5f249f42f0b7a69dace9a0098662.nbcnews-fp-1200-630.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "‘It Will Be Soon,’ Pelosi Says of Trump Impeachment Trial"
-    excerpt: "Speaker Nancy Pelosi said the impeachment charge against former President Donald J. Trump would be sent to the Senate for trial “soon,” but didn’t pinpoint a date."
-    publishedDateTime: 2021-01-21T20:29:00Z
-    webUrl: "https://www.nytimes.com/video/us/politics/100000007563439/pelosi-trump-impeachment-trial.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 115
-    images:
-      - url: "https://static01.nyt.com/images/2021/01/21/us/politics/21transition-impeach-sub/21transition-impeach-sub-facebookJumbo.jpg?video-overlay"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Biden's next fight on the left"
-    excerpt: "President Joe Biden’s new administration has won tons of points on the left for most of its financial services nominees, from Treasury to the CFPB. But the White House has a bit of a fight on its hands with University of Michigan’s Michael Barr,"
-    publishedDateTime: 2021-01-25T13:00:00Z
-    webUrl: "https://www.politico.com/newsletters/morning-money/2021/01/25/bidens-next-fight-on-the-left-792955"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
-        isCached: true
-  - title: "House Delivers Article of Impeachment Against Trump"
-    excerpt: "For the second time in just over a year, the House delivered an article of impeachment to the Senate against former President Donald J. Trump, citing “incitement of insurrection.”"
-    publishedDateTime: 2021-01-26T02:33:00Z
-    webUrl: "https://www.nytimes.com/video/us/politics/100000007570625/house-delivers-impeachment-senate-trump.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 115
-    images:
-      - url: "https://static01.nyt.com/images/2021/01/25/us/politics/25new-washington-briefing-impeachment2/25new-washington-briefing-impeachment2-facebookJumbo-v3.jpg?video-overlay"
-        width: 1050
-        height: 550
         isCached: true
   - title: "The GOP’s answer to its post-Trump blues: More Trump"
     excerpt: "For a moment, it looked like the Republican Party was getting some distance from the former president. Not anymore."
@@ -678,103 +364,35 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "Watch Live: Trump Impeachment Trial Jurors Are Sworn In"
-    excerpt: "On Tuesday, the Senate trial for the second impeachment of former President Donald J. Trump begins with the swearing in of the jurors."
-    publishedDateTime: 2021-01-26T18:29:00Z
-    webUrl: "https://www.nytimes.com/video/us/politics/100000007571367/trump-impeachment-trial-swearing-in.html"
+  - title: "Biden takes first step toward bolstering Obamacare"
+    excerpt: "The new administration will reopen enrollment and begin reversing Trump changes to the law that Democrats derided as sabotage."
+    publishedDateTime: 2021-01-28T12:06:00Z
+    webUrl: "https://www.politico.com/news/2021/01/28/joe-biden-bolstering-obamacare-health-care-463287"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/15/c2/d5f9730b432f942176edae4edd9b/ap21027703939092-c.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Analysis: The fight over Marjorie Taylor Greene and Liz Cheney have far-reaching implications in post-Trump Washington."
+    excerpt: "The ugly fights over the two congresswomen proved that Representative Kevin McCarthy, the Republican leader, remains trapped under former President Donald J. Trump’s shadow."
+    publishedDateTime: 2021-02-03T22:44:00Z
+    webUrl: "https://www.nytimes.com/2021/02/03/us/marjorie-taylor-greene-cheney-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/03/us/marjorie-taylor-greene-cheney-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/03/us/marjorie-taylor-greene-cheney-trump.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 115
+    quality: 111
     images:
-      - url: "https://static01.nyt.com/images/2021/01/26/us/politics/26new-washington-briefing-impeach1/26new-washington-briefing-impeach1-facebookJumbo.jpg?video-overlay"
+      - url: "https://static01.nyt.com/images/2021/02/03/us/politics/03new-washington-briefing-GreenTakeaways/merlin_183189681_b235617d-543a-450c-ab85-c169b6a96252-facebookJumbo.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "Democrats look to quickly move past Trump trial"
-    excerpt: "The new Senate majority is eager to turn to Biden’s agenda now that it’s clear Republicans won’t convict the ex-president."
-    publishedDateTime: 2021-01-28T06:05:00Z
-    webUrl: "https://www.politico.com/news/2021/01/27/trump-impeachment-trial-democrats-463227"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/7b/51/631a4948453ba21e65286897915b/210127-kaine-getty-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Biden to NYT: Drop dead"
-    excerpt: "Welcome to POLITICO’s 2021 Transition Playbook, your guide to the first 100 days of the Biden administration. JOE BIDEN and Republicans are united on at least one thing: They can't stand The New York Times editorial board."
-    publishedDateTime: 2021-01-28T23:23:00Z
-    webUrl: "https://www.politico.com/newsletters/transition-playbook/2021/01/28/biden-to-nyt-drop-dead-491563"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
-        isCached: true
-  - title: "Trump names 2 new attorneys to lead impeachment defense"
-    excerpt: "Former President Donald Trump on Sunday named a new legal team to defend him in the Senate’s impeachment trial next week. Trump, who frequently reshuffled attorneys and advisers during his presidency,"
-    publishedDateTime: 2021-02-01T01:50:00Z
-    webUrl: "https://www.politico.com/news/2021/01/31/trump-attorneys-impeachment-schoen-castor-464201"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/ba/54/a2db9c9e48f48ef5db6a7cf7bbc2/ap21012842712411-c.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "McConnell wants to push Trump's Senate impeachment trial to mid-February"
-    excerpt: "McConnell’s proposal is a deal to give both sides time to prepare for former President Donald Trump's second impeachment trial."
-    publishedDateTime: 2021-01-22T03:31:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/mcconnell-wants-push-trump-s-senate-impeachment-trial-february-n1255226"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 114
-    images:
-      - url: "https://media3.s-nbcnews.com/j/newscms/2021_03/3444082/210121-mitch-mcconnell-se-512p_743400cea8c8cb08490113ee7ff58353.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "House managers deliver impeachment article against Trump, kicking off trial preparations"
-    excerpt: "The House will deliver its article of impeachment against former President Donald Trump to the Senate on Monday, kicking off preparations for the upcoming trial. House impeachment managers will hold a procession ceremony through National Statuary Hall and the Capitol Rotunda to the Senate on Monday evening to present the article of impeachment to the secretary of the Senate."
-    publishedDateTime: 2021-01-26T07:10:00Z
-    webUrl: "https://www.nbcnews.com/politics/politics-news/house-deliver-trump-impeachment-article-senate-kicking-trial-preparations-n1255598"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 106
-    images:
-      - url: "https://media2.s-nbcnews.com/j/newscms/2021_04/3444939/210125-impeachment-managers-walk-2x1-ac-709p_750778eb5786deaeb72090970f882a90.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Sen. Patrick Leahy, who will preside over Trump impeachment trial, back home after hospital trip"
-    excerpt: "Sen. Patrick Leahy, who will preside over Trump impeachment trial, taken to hospital Leahy, who is third in the line of succession as the President Pro Tempore of the Senate, was just sworn-in to preside over the impeachment trial."
-    publishedDateTime: 2021-01-27T08:12:00Z
-    webUrl: "https://www.nbcnews.com/politics/politics-news/sen-patrick-leahy-who-will-preside-over-trump-impeachment-trial-n1255772"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 102
-    images:
-      - url: "https://media4.s-nbcnews.com/j/newscms/2021_04/3445237/210126-patrick-leahy-ew-607p_1c9f3ed41defa696ee547c532eb1bce0.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "ITdNL5D46JmIbZX0Jj3ARbXlNzGksSZ35dZEqmrspjO30u0a1UV7nkd0/PJrzxpL3IQajs5nD475mUNn1PqNmbHgjUPBZnOkO1BVGZH4Zc/mbnxn0X0QxX8uZuhXqMQfJfqm2OgoQFNx543HUq1XCWJxjqP+M/8upfCXDOvPVUnBKhKY1KqExbRmGkh1OLihTQy8pKzNbyC2D/NtGj1zJgOD8840ZptacjxdJmA3YDZJqc6FCJ3YeroQiFsBbdVDPk6z6x37d9NS4bVnsz9mlOu3sw5lMvj53Y57VNSdY/L7p0PveWQcypw7yG666x/bL2fIBw3Qzcs/MjUsAEPEvQsyKdi14kYbzFcwhkdDSew=;OnZYxbf9umCyOCEKe70vuA=="

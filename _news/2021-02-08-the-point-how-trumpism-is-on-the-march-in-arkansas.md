@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/08/politics/trump-arkansas-governor-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/08/politics/trump-arkansas-governor-sarah-huckabee-sanders/index.html"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/190613183156-06-sarah-sanders-190429-white-house-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Trump Isn’t the Only One on Trial. The Conservative Media Is, Too."
+    excerpt: "The former president’s second impeachment trial begins oral arguments tomorrow. But conservative media organizations face an even more consequential test in the weeks and months ahead."
+    publishedDateTime: 2021-02-09T00:39:00Z
+    webUrl: "https://www.nytimes.com/2021/02/08/us/politics/trump-conservative-media.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/08/us/politics/trump-conservative-media.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/08/us/politics/trump-conservative-media.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/08/us/politics/08onpolitics-pm2/08onpolitics-pm2-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "8Bmkv+Dw0RschDMlZlgOyA5osovRGTrUWT+ycpc6rpcup3iDsG7qQKn29O50ay+TOil42ZNzcr5Si0YHKi2ENvlQ+0uKLmhASo5Bry4sT5mazJskk89ChXeVdaiaNKyZc8Zn4ybw35MsMBH1PwgfMPzx9wjs1Durx+2wzGBgXixvU4MvbHiWYGHZ6JOGzIE1vFbq08lJ5Y/hOwM8DUyYrZ0bOWsSLQ+v0R7wESMh9jve59Kk6DAX2cfH+RNA+bqyINekBwF9q6XKC+ATBUCdYV5naZHygcB0yqVptgdVlGW5nw4RTdbC5otw73z5KbQFw7kLOe8CYXAj3ukL7CscMfWw2r9MqTYo/5XBXylKF58=;LwOPpOq0DbwkuuA3UHLH9Q=="

@@ -80,6 +80,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Senators to be sworn in for Trump impeachment trial "
+    excerpt: "Senators will be formally sworn in as jurors on Tuesday for the second impeachment trial of former President Donald Trump, though the trial won't get into full swing until the week of February 8.\n    \n"
+    publishedDateTime: 2021-01-26T11:45:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4ruBKemCI_I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/26/politics/impeachment-trial-latest-senators-sworn-in/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/impeachment-trial-latest-senators-sworn-in/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210122130036-split-mitch-mcconnell-chuck-schumer-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Three new lawyers added to Trump's impeachment defense"
+    excerpt: "Former President Donald Trump has added three additional criminal defense lawyers to his impeachment defense team, bringing the current number of attorneys representing him next month to five.\n    \n"
+    publishedDateTime: 2021-01-29T15:27:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8IO3xY4dNmw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/29/politics/donald-trump-impeachment-defense-team/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/29/politics/donald-trump-impeachment-defense-team/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210116020618-03-donald-trump-0112-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump's legacy of mistrust sends Congress into total war"
     excerpt: "Former President Donald Trump may be gone from the White House but his legacy of catastrophic mistrust is poisoning Washington, dimming hopes of a unified effort to crush the pandemic before mutant viral strains take root.\n    \n"
     publishedDateTime: 2021-01-29T12:06:14Z
@@ -93,6 +125,38 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210128150149-03-kevin-mccarthy-trump-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump loses his impeachment team amid unfaltering loyalty from the GOP"
+    excerpt: "Former President Donald Trump's lies and his insistence that the November election was rigged against him may have turned out to be a bridge too far for the attorneys who were slated to defend him in his upcoming Senate impeachment trial in a little more than a week.\n    \n"
+    publishedDateTime: 2021-01-31T05:53:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IDB4mQAlCqI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/31/politics/donald-trump-impeachment-marjorie-taylor-greene-gop/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/31/politics/donald-trump-impeachment-marjorie-taylor-greene-gop/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201102113042-101b-donald-trump-serious-centered-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump names new lawyers for impeachment defense team"
+    excerpt: "David Schoen and Bruce L. Castor, Jr. will head the legal team for the second impeachment trial of former President Donald Trump, his office announced Sunday, a day after CNN first reported that five known members of his impeachment defense team had left.\n    \n"
+    publishedDateTime: 2021-02-01T00:49:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qp9XiITBqR0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/31/politics/trump-new-lawyers/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/31/politics/trump-new-lawyers/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201102113042-101b-donald-trump-serious-centered-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -240,6 +304,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Republicans bullish Trump isn't at risk of conviction in impeachment trial"
+    excerpt: "Republican Senate leaders are increasingly confident that former President Donald Trump won't be at risk of conviction when his impeachment trial begins next month, expecting the votes to stay largely the same as Tuesday's 55-to-45 test vote over the constitutionality of the trial.\n    \n"
+    publishedDateTime: 2021-01-27T18:29:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8cCKoAZ6el8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/27/politics/impeachment-trial-republican-reaction/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/27/politics/impeachment-trial-republican-reaction/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210126154809-mitch-mcconnell-january-26-2021-republican-luncheon-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Senate GOP rips Trump's attorney for lackluster arguments on trial's first day"
     excerpt: "A wide array of Senate Republicans harshly criticized former President Donald Trump's defense team on the opening day of his second impeachment trial, arguing that Trump attorney Bruce Castor had delivered a rambling and unfocused argument in making the case that the proceedings are unconstitutional.\n"
     publishedDateTime: 2021-02-10T00:21:02Z
@@ -269,6 +349,22 @@ related:
     quality: 169
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/170515101540-01-john-cornyn-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Rand Paul to force test vote to gauge Republican support for Trump impeachment trial"
+    excerpt: "Sen. Rand Paul plans to force a test vote on Tuesday that will show how many Republicans support holding an impeachment trial for former President Donald Trump and how many believe a trial should not take place.\n    \n"
+    publishedDateTime: 2021-01-26T18:31:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HfFEQ5IS8bQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/26/politics/rand-paul-test-vote-impeachment-trial-constitutionality/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/rand-paul-test-vote-impeachment-trial-constitutionality/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200130132541-02-rand-paul-preser-0130-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -416,22 +512,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Biden Signals Break With Trump Foreign Policy in a Wide-Ranging State Dept. Speech"
-    excerpt: "The president said that he would end support for Saudi Arabia in its intervention in Yemen and that the U.S. would no longer be “rolling over in the face of Russia’s aggressive actions.”"
-    publishedDateTime: 2021-02-05T01:48:00Z
-    webUrl: "https://www.nytimes.com/2021/02/04/us/politics/biden-foreign-policy.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/04/us/politics/biden-foreign-policy.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/04/us/politics/biden-foreign-policy.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 144
-    images:
-      - url: "https://static01.nyt.com/images/2021/02/04/us/politics/04dc-prexy-1/merlin_182842254_e91194e3-3922-4139-804f-00ef93ae8ed3-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "The Road to Clemency From Trump Was Closed to Most Who Sought It"
     excerpt: "Of the nearly 240 pardons and commutations he granted during his term, only 25 came through the regular Justice Department process. The rest were a product of connections, influence and money."
     publishedDateTime: 2021-01-26T10:00:00Z
@@ -479,6 +559,38 @@ related:
       - url: "https://static.politico.com/65/fe/6d62b2ac4fc0ae9b59232ba6b303/gettyimages-1209090127-1.jpg"
         width: 1895
         height: 1263
+        isCached: true
+  - title: "Trump considers written letter as part of Senate trial defense"
+    excerpt: "Former President Donald Trump may submit a written letter in his defense for the Senate impeachment trial, contemplating the move as he expands his legal team less than two weeks before the proceedings are set to begin,"
+    publishedDateTime: 2021-01-27T22:03:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/trump-considers-written-letter-part-senate-trial-defense-n1255893"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1255893"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1255893"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_04/3445494/210127-donald-trump-al-1500_6fa7abd3a3efa96c46bff00840a3c333.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Trump Parts Ways With Lead Impeachment Lawyer"
+    excerpt: "The move comes a little over a week before the former president’s Senate trial is set to begin and after a frantic search to secure a lead lawyer for his defense team."
+    publishedDateTime: 2021-01-31T02:46:00Z
+    webUrl: "https://www.nytimes.com/2021/01/30/us/politics/trump-butch-bowers-impeachment.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/30/us/politics/trump-butch-bowers-impeachment.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/30/us/politics/trump-butch-bowers-impeachment.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/30/lens/30dc-trump/30dc-trump-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Trump Had Greatest Loss of Support in 2020 with White Male Voters"
     excerpt: "Trump lost ground with every age group in the 2020 election compared to his performance in 2016, but he had his “greatest erosion with white voters, particularly white men,” according to an analysis by one of his campaign pollsters."
@@ -622,6 +734,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Most Senate Republicans back measure saying Trump impeachment trial is unconstitutional"
+    excerpt: "Senate Republicans voted Tuesday for a measure that would have declared the impeachment proceedings against former President Donald Trump unconstitutional because he is no longer in office. The motion,"
+    publishedDateTime: 2021-01-27T01:21:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/senators-be-sworn-trump-impeachment-trial-where-they-will-be-n1255686"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1255686"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1255686"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 127
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2021_04/3445099/210126-impeachment-managers-jm-1137_493a0713f436e2c01d4700bf2e1c7d09.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Most Senate Republicans declare Trump's trial unconstitutional. Here's what that means for conviction."
     excerpt: "Forty-five GOP senators voted Tuesday to dismiss the trial as unconstitutional, given Trump's status as the former president."
     publishedDateTime: 2021-01-27T06:33:00Z
@@ -653,6 +781,20 @@ related:
       - url: "https://media3.s-nbcnews.com/i/newscms/2021_06/3448772/210209-donald-trump-al-1051_fc694742af7eb32ef3526be0178aa57c.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Democrats look to quickly move past Trump trial"
+    excerpt: "The new Senate majority is eager to turn to Biden’s agenda now that it’s clear Republicans won’t convict the ex-president."
+    publishedDateTime: 2021-01-28T06:05:00Z
+    webUrl: "https://www.politico.com/news/2021/01/27/trump-impeachment-trial-democrats-463227"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/7b/51/631a4948453ba21e65286897915b/210127-kaine-getty-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "The Real Scandal Is the Pardon Trump Didn’t Give"
     excerpt: "Rufus Rochell checked all the right boxes for clemency: an exemplary record in prison, advocacy out of it, and a friendship with a famous Trump booster. So why didn’t he get it?"

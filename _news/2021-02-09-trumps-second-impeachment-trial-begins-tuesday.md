@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "READ: Letter from House impeachment managers asking Trump to testify"
+    excerpt: "The House impeachment managers are requesting former President Donald Trump testify before or during his Senate trial. Read the letter from lead House impeachment manager Rep. Jamie Raskin:\n    \n"
+    publishedDateTime: 2021-02-04T18:30:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IZPnsuP2Q5I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/04/politics/house-letter-trump-testify/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/04/politics/house-letter-trump-testify/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210202104729-02-trump-file-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Security at US Capitol on high alert for Trump impeachment trial "
     excerpt: "The unprecedented second impeachment trial of former President Donald Trump will take place under extraordinary security inside the US Capitol -- a physical reminder that federal officials still believe threats to lawmakers and federal buildings are possible more than a month after the January 6 insurrection.\n"
     publishedDateTime: 2021-02-08T23:56:52Z
@@ -60,22 +76,6 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200115174929-02-house-managers-deliver-articles-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump's trial set to rock Washington and echo through the ages"
-    excerpt: "The simple question posed by Donald Trump's second impeachment trial that begins Tuesday is whether a president who loses reelection can get away with a violent coup attempt in a desperate bid to stay in power.\n    \n"
-    publishedDateTime: 2021-02-09T12:09:36Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/n2JQyYKfR10/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/09/politics/donald-trump-impeachment-trial/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/09/politics/donald-trump-impeachment-trial/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125192318-donald-trump-september-2020-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -143,6 +143,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's lawyer blows up one of Trump's biggest lies"
+    excerpt: "Former President Donald Trump has never publicly admitted that he was rejected by American voters.\n    \n"
+    publishedDateTime: 2021-02-10T14:52:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Pm6blpdkUAY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/10/politics/fact-check-bruce-castor-lawyer-impeachment-trump-lost-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/10/politics/fact-check-bruce-castor-lawyer-impeachment-trump-lost-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210209152917-19-impeachment-2021-castor-0209-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Democrats' impeachment filing: Trump 'threatened the constitutional system'"
     excerpt: "The House impeachment managers argue former President Donald Trump should be convicted for inciting the insurrection at the Capitol last month and barred from holding future office, charging that his actions \"threatened the constitutional system that protects the fundamental freedoms we cherish.\"\n  "
     publishedDateTime: 2021-02-02T16:33:57Z
@@ -191,6 +207,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "White House to leave any intelligence requests from Trump to intel community"
+    excerpt: "The Biden White House says the intelligence community will review any incoming requests for intelligence briefings from former President Donald Trump, as has been customary for former presidents, though he has not yet made any.\n    \n"
+    publishedDateTime: 2021-02-04T15:57:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/k_k1ryMqCMM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/04/politics/intelligence-briefings-joe-biden-donald-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/04/politics/intelligence-briefings-joe-biden-donald-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200409020412-biden-trump-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "House impeachment managers request former President Trump's testimony at trial"
     excerpt: "The House impeachment managers are seeking former President Donald Trump's testimony before or during his Senate impeachment trial, making the request in a letter Wednesday that raises the stakes of the trial scheduled to begin next week.\n    \n"
     publishedDateTime: 2021-02-04T18:57:13Z
@@ -204,22 +236,6 @@ related:
     quality: 171
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210202104727-01-trump-file-2020-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "GOP senator: 'Very unlikely' Senate votes to convict Trump in impeachment trial "
-    excerpt: "Republican Sen. Pat Toomey of Pennsylvania said Sunday it's \"very unlikely\" the Senate votes to convict former President Donald Trump in the impeachment trial set to begin Tuesday.\n    \n"
-    publishedDateTime: 2021-02-07T18:11:41Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Y2hBmRC8mvY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/07/politics/pat-toomey-senate-impeachment-trial-cnntv/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/07/politics/pat-toomey-senate-impeachment-trial-cnntv/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 170
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210207100723-screengrab-pat-toomey-cnn-0207-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -239,22 +255,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Georgia secretary of state's office launches investigation into Trump's phone call "
-    excerpt: "The office of Georgia Secretary of State Brad Raffensperger confirmed to CNN on Monday that it has started an investigation into former President Donald Trump's attempts to overturn the state's election results, including a phone call the former President made to Raffensperger.\n    \n"
-    publishedDateTime: 2021-02-08T23:57:30Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-GS_Gn3iKsk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/08/politics/georgia-secretary-of-state-trump-investigation/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/08/politics/georgia-secretary-of-state-trump-investigation/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 169
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210108062936-brad-raffensperger-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Impeachment trial kicks off this week as Democrats seek to tie Trump to Capitol riots"
     excerpt: "The second impeachment trial of former President Donald Trump begins this week as the House impeachment managers prepare to make their case to the public -- and the 100 senators who are jurors for the trial -- that Trump is responsible for last month's deadly riots at the US Capitol.\n    \n"
     publishedDateTime: 2021-02-08T10:00:27Z
@@ -268,6 +268,22 @@ related:
     quality: 168
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210204131913-102-trump-impeachment-centered-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "'People are angry': House Republicans who voted to impeach Trump face backlash at home"
+    excerpt: "The wave of backlash facing 10 House Republicans who voted to impeach former President Donald Trump has turned their 2022 primaries into tests of how long Trump, now out of office, can hold the stage in Republican politics -- and whether GOP voters are willing to turn the midterms into tests of loyalty"
+    publishedDateTime: 2021-01-29T12:40:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vzUHPg8R6eA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/28/politics/house-republicans-impeach-trump-backlash/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/28/politics/house-republicans-impeach-trump-backlash/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210128141317-gop-impeachment-vote-house-2021-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -332,6 +348,22 @@ related:
     quality: 165
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210201170254-david-schoen-bruce-castor-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump lawyers argue former President did not incite riots by telling supporters to 'fight like hell'"
+    excerpt: "Former President Donald Trump's legal team accused House Democrats of engaging in \"political theater\" and argued that the upcoming Senate impeachment trial is unconstitutional because Trump is no longer President.\n    \n"
+    publishedDateTime: 2021-02-08T16:37:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/S7KZP4o7UuE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/08/politics/trump-impeachment-brief-filing/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/08/politics/trump-impeachment-brief-filing/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210204131911-103-trump-impeachment-centered-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -463,22 +495,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Trump Isn’t the Only One on Trial. The Conservative Media Is, Too."
-    excerpt: "The former president’s second impeachment trial begins oral arguments tomorrow. But conservative media organizations face an even more consequential test in the weeks and months ahead."
-    publishedDateTime: 2021-02-09T00:39:00Z
-    webUrl: "https://www.nytimes.com/2021/02/08/us/politics/trump-conservative-media.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/08/us/politics/trump-conservative-media.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/08/us/politics/trump-conservative-media.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/02/08/us/politics/08onpolitics-pm2/08onpolitics-pm2-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Watch live: Donald Trump impeachment trial in Senate"
     excerpt: "Watch live coverage of former President Donald Trump's impeachment trial as the Senate considers whether he can be held responsible for the Capitol riots."
     publishedDateTime: 2021-02-08T21:46:00Z
@@ -607,6 +623,38 @@ related:
         width: 2500
         height: 1250
         isCached: true
+  - title: "Trump's second impeachment trial is underway and the verdict is already in"
+    excerpt: "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter."
+    publishedDateTime: 2021-02-10T14:12:00Z
+    webUrl: "https://www.nbcnews.com/politics/meet-the-press/trump-s-second-impeachment-trial-underway-verdict-already-n1257254"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1257254"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1257254"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 133
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_06/3449014/210210-bill-cassidy-al-0809_e584bab88807c642ce6589d2ae28d5d4.jpg"
+        width: 2500
+        height: 1666
+        isCached: true
+  - title: "The First Trial Seemed Abstract. This One Is a Visceral Reckoning Over Trump."
+    excerpt: "At issue will be many aspects that defined Donald Trump’s presidency: his relentless assaults on truth, his fomenting of divisions, his shattering of norms and his undermining of an election."
+    publishedDateTime: 2021-02-10T01:26:00Z
+    webUrl: "https://www.nytimes.com/2021/02/09/us/politics/trump-impeachment-trial.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/09/us/politics/trump-impeachment-trial.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/09/us/politics/trump-impeachment-trial.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 132
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/09/us/politics/09dc-assess1/09dc-assess1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Live Updates: Impeachment Managers Call Trump ‘Singularly Responsible’ for Riot"
     excerpt: "The nine House impeachment managers presented their case against former President Donald J. Trump in a filing. Mr. Trump has a noon deadline to outline his defense. President Biden will sign executive orders on immigration."
     publishedDateTime: 2021-02-02T11:46:00Z
@@ -686,38 +734,6 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2021_03/3443114/210119-donald-trump-al-0953_ee174f7bc77e10ab1366e5fa4a0f8a3a.jpg"
         width: 2500
         height: 1667
-        isCached: true
-  - title: "Trump is on trial for inciting an insurrection. What about the 12 people who spoke before him?"
-    excerpt: "Rioters heard from others besides Trump on Jan. 6. As the former president confronts a Senate impeachment trial, 12 other notable “Stop the Steal” speakers have faced few, if any, consequences."
-    publishedDateTime: 2021-02-10T09:36:00Z
-    webUrl: "https://www.politico.com/news/2021/02/10/trump-impeachement-stop-the-steal-speakers-467554"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/02/10/trump-impeachement-stop-the-steal-speakers-467554"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/02/10/trump-impeachement-stop-the-steal-speakers-467554"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 123
-    images:
-      - url: "https://static.politico.com/a7/9e/b036fb6249838d085557fe14aa4e/2100106-rally-trump-gty-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "‘If this happened in the Soviet Union, you would call it a show trial,’ Cassidy of Trump impeachment trial"
-    excerpt: "Sen. Bill Cassidy (R-La.) tells Chuck Todd that the House did an incredibly 'poor job' in building a case against President Trump during his second impeachment trial, during an exclusive interview with Meet the Press."
-    publishedDateTime: 2021-02-07T14:57:00Z
-    webUrl: "https://www.nbcnews.com/meet-the-press/video/-if-this-happened-in-the-soviet-union-you-would-call-it-a-show-trial-cassidy-of-trump-impeachment-trial-100655685848"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo100655685848"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo100655685848"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 117
-    images:
-      - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202102/1612709590167_mtp_clip_cassidyshowtrial_210207_1920x1080.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Trump's second impeachment trial, Democrats embrace big spending and saying goodbye to a Supreme trailblazer"
     excerpt: "There is evidence that Covid-19 may have emerged outside of Wuhan, China, WHO team says after long-awaited fact-finding mission."

@@ -558,6 +558,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Dems set to prosecute case at Trump impeachment trial amid speculation over which Republicans might convict"
+    excerpt: "The House impeachment managers will begin their opening arguments on the merits of the impeachment of former President Donald Trump when the chamber convenes at noon on Wednesday, following a 56-44 Senate vote to move ahead with the trial Tuesday."
+    publishedDateTime: 2021-02-10T13:56:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3uRb0QecWBU/dems-set-to-prosecute-case-at-trump-impeachment-trial-amid-speculation-over-which-republicans-might-convict"
+    ampWebUrl: "https://www.foxnews.com/politics/dems-set-to-prosecute-case-at-trump-impeachment-trial-amid-speculation-over-which-republicans-might-convict.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dems-set-to-prosecute-case-at-trump-impeachment-trial-amid-speculation-over-which-republicans-might-convict.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Dem senator Chris Murphy on Trump impeachment trial: Not 'ridiculous’ for GOP to argue it’s unconstitutional"
     excerpt: "Sen. Chris Murphy on Sunday said that he believes the Senate has a responsibility to hold an impeachment trial of former President Donald Trump, adding that it is an open question whether or not such a trial is constitutional."
     publishedDateTime: 2021-02-08T16:21:44Z
@@ -905,6 +921,38 @@ related:
       - url: "https://images.wsj.net/im-297256/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "On Day Two of Trump Impeachment Trial, Democrats Lay Out Their Case"
+    excerpt: "Democrats are expected to offer as evidence video and audio presentations of the Jan. 6 riot, as they make their case that Mr. Trump incited his supporters to storm the Capitol."
+    publishedDateTime: 2021-02-10T09:30:00Z
+    webUrl: "https://www.wsj.com/articles/on-day-two-of-trump-impeachment-trial-democrats-lay-out-their-case-11612953001"
+    ampWebUrl: "https://www.wsj.com/amp/articles/on-day-two-of-trump-impeachment-trial-democrats-lay-out-their-case-11612953001"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/on-day-two-of-trump-impeachment-trial-democrats-lay-out-their-case-11612953001"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-297292/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Trump impeachment trial: Day 2 schedule, time and how to watch"
+    excerpt: "Former President Donald Trump’s second impeachment trial continues into its second day Wednesday, with House impeachment managers and lawyers for the defense commencing upwards of four days"
+    publishedDateTime: 2021-02-10T14:20:00Z
+    webUrl: "https://nypost.com/2021/02/10/trump-impeachment-trial-day-2-schedule-time-and-how-to-watch/"
+    ampWebUrl: "https://nypost.com/2021/02/10/trump-impeachment-trial-day-2-schedule-time-and-how-to-watch/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/10/trump-impeachment-trial-day-2-schedule-time-and-how-to-watch/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/impeachment-69.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Trump denies inciting Capitol riot, says Senate can’t hold impeachment trial"
     excerpt: "Former President Donald Trump denied Tuesday that he encouraged his supporters to storm the US Capitol last month — and argued that the Senate doesn’t have the authority to hold a"

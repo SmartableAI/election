@@ -32,37 +32,67 @@ images:
     isCached: true
 
 related:
-  - title: "White House to leave any intelligence requests from Trump to intel community"
-    excerpt: "The Biden White House says the intelligence community will review any incoming requests for intelligence briefings from former President Donald Trump, as has been customary for former presidents, though he has not yet made any.\n    \n"
-    publishedDateTime: 2021-02-04T15:57:39Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/k_k1ryMqCMM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/04/politics/intelligence-briefings-joe-biden-donald-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/04/politics/intelligence-briefings-joe-biden-donald-trump/index.html"
+  - title: "Georgia secretary of state investigating whether pro-Trump attorney voted illegally"
+    excerpt: "Georgia Secretary of State Brad Raffensperger has launched an investigation into whether attorney Lin Wood voted as a legal resident in the November election, a source with Raffensperger's office confirmed to CNN.\n    \n"
+    publishedDateTime: 2021-02-03T01:35:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Nz_oUjeuKmA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/02/politics/lin-wood-georgia-election-2020/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/02/politics/lin-wood-georgia-election-2020/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 172
+    quality: 169
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200409020412-biden-trump-split-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210202195002-lin-wood-dec-2020-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "After Presidency, Trump Hotel in Washington Is a Limited Draw"
-    excerpt: "Traffic on two recent evenings at the hotel was exceedingly slow, even after the city lifted a ban on indoor dining."
-    publishedDateTime: 2021-01-28T21:15:00Z
-    webUrl: "https://www.nytimes.com/2021/01/28/us/politics/trump-hotel-washington.html"
-    ampWebUrl: "https://www.nytimes.com/2021/01/28/us/politics/trump-hotel-washington.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/28/us/politics/trump-hotel-washington.amp.html"
+  - title: "Defense Secretary dismisses hundreds of members of Pentagon advisory boards including late Trump picks"
+    excerpt: "Defense Secretary Lloyd Austin has dismissed hundreds of members of 42 Pentagon advisory boards, including controversial late appointments by the Trump administration, as the Pentagon announced a review of the boards' memberships Tuesday.\n    \n"
+    publishedDateTime: 2021-02-02T21:09:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PkpzapWjWXA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/02/politics/lloyd-austin-pentagon-advisory-boards/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/02/politics/lloyd-austin-pentagon-advisory-boards/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 159
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209140912-01-lloyd-austin-secretary-of-defense-announcement-1209-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Georgia Prosecutors Open Criminal Investigation of Trump Call"
+    excerpt: "Fulton County prosecutors have initiated a criminal investigation into former President Donald J. Trump’s January phone call to the Georgia secretary of state asking him to “find” votes."
+    publishedDateTime: 2021-02-10T14:57:00Z
+    webUrl: "https://www.nytimes.com/2021/02/10/us/politics/trump-georgia-investigation.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/10/us/politics/trump-georgia-investigation.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/10/us/politics/trump-georgia-investigation.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2021/01/27/us/politics/27dc-trumphotel2/27dc-trumphotel2-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2021/02/10/multimedia/10Georgia/10Georgia-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Ex-FBI lawyer spared prison for altering Trump-Russia probe email"
+    excerpt: "The only person charged in the Justice Department's investigation into the origins of the probe President Donald Trump's 2016 campaign and its ties to Russia was spared prison time for altering an email used to support a surveillance application."
+    publishedDateTime: 2021-01-29T17:42:00Z
+    webUrl: "https://www.politico.com/news/2021/01/29/fbi-lawyer-trump-russia-probe-email-463750"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/bd/0f/28877dd44a8cbfedb4c702f85b83/181005-fbi-getty-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "kSs++2vQC7IHNkVkppYq+VxbEhZBllHRra24hifY4Jk5a/bZwpueX609ruaXYaL15OLnIBH+5nGTjoK204aEKAYzqfQyMWrlfhMJkv3Yup42vgVaiu6FIEyCAQ6g0ZW/rPNkXun8JhWZg+Y+G+cpzfTwypz5nsFvG9Zq0ofMiHKXD8/W4HBRs+1YnmC+npZkGVlUU0x5dU9LZN20TS9QaXkF4MiKaqsiE+/7REvhGiD9GOtZKVA/juFMOYkCFx1pWROcBGQeiGK1iOGM02j1Go9X/KWsEHRWv9mBfpuAeCmnoKT+YPR3vx40doktqNuUaVw+pdT/FyY203ylkHvTti+KYTwOtrtCBlkxgFnYHYMvbva4hLMjNQz0nh6/RyCIuIuzHYvOr8wRrhAO0iiycv9ZX0Ix1CtYHyeJ6P2nr7vM4JNv8k6Ny1hCPk7BoDPWbOzDzpjHjVD8zQ50MvGHLDydsT+4Mjzu6yHVdfL+X9fIhDUcufSB8NErqOd/7r769/vDY4qkjy2QZ/X2+aNqPA==;6cc9dl1l40aeOi8YLiGb2A=="

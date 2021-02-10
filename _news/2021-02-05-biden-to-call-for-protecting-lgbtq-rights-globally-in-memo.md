@@ -80,20 +80,6 @@ related:
         width: 2500
         height: 1666
         isCached: true
-  - title: "California poses Biden's biggest test on school reopening"
-    excerpt: "The state may be the main obstacle in the way of President Joe Biden reopening most of the nation's schools in his first 100 days in office."
-    publishedDateTime: 2021-02-03T00:59:00Z
-    webUrl: "https://www.politico.com/news/2021/02/02/california-poses-bidens-biggest-test-on-school-reopening-465211"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/a7/ff/58035ed8413f877fd522c7aefb15/ap21029767118388.jpg"
-        width: 3000
-        height: 2000
-        isCached: true
 
 secured: "pv7k7ZwBHn2DdzF5ORcPR0eu98R6qQfQf6U/VLX2FL0OKN48PqQ63DE1cKz93Lxii0hsrI2ycRDUdUX3AMvshZMm2csEFc6rtplKXkd51Jp3GC4NMTUeTwe+VlQqf31mjTZBTURDSN/ZCw6dC42JLtsL9mO2zmnvE6VO4+8P5vKEx1bUuNTWtrEH5Z/FAjmVevBzdJ8XWYbaOrqYJ6q8HWS6CZWk/WVInvd7A56Ke61diSNYTadh3o0+Np/Czt+VjSn7uwCAUPNxwkSwyYo3D4tSvl5QS7ackVno+3nnGZdi/juSZenVUjlPv8c2w8toRH43knctEPB8SVQ8r7YQ3ePYamKsc7urOJ0VHw/UTJnm9hjh2x/hNDvLmBgP1LntrnviDBI9haORnjA4jroyNq8enufgCo9HDHY0fVUl6Gww7Nb63Vfn12DavzfFLrkxhV82AaL63x6yzrS4DVN4HAoi0Zl5i9MEdxNV1t6LGY/I4VneRPKnojH7x4EcbKPmkFRzpxh+12ILEtgJ5xZTSQ==;V7htPp3vx24uhkWXJjDiqw=="
 ---
