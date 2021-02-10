@@ -3,10 +3,10 @@ category: news
 title: "Dem Sen. Manchin asks Biden to reverse Keystone XL rejection"
 excerpt: "The new Democratic chairman of the Senate Energy Committee is urging President Joe Biden to reconsider his executive order revoking a presidential permit for the long-delayed Keystone XL oil pipeline"
 publishedDateTime: 2021-02-09T21:58:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/dem-sen-manchin-asks-biden-reverse-keystone-xl-75789039"
-webUrl: "https://abcnews.go.com/Business/wireStory/dem-sen-manchin-asks-biden-reverse-keystone-xl-75789039"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/dem-sen-manchin-asks-biden-reverse-keystone-xl-75789039"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/dem-sen-manchin-asks-biden-reverse-keystone-xl-75789039"
+originalUrl: "https://abcnews.go.com/Politics/wireStory/dem-sen-manchin-asks-biden-reverse-keystone-xl-75787426"
+webUrl: "https://abcnews.go.com/Politics/wireStory/dem-sen-manchin-asks-biden-reverse-keystone-xl-75787426"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/dem-sen-manchin-asks-biden-reverse-keystone-xl-75787426"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/dem-sen-manchin-asks-biden-reverse-keystone-xl-75787426"
 type: article
 quality: 125
 heat: -1
@@ -1096,6 +1096,6 @@ related:
         height: 847
         isCached: true
 
-secured: "gAV5ZPMuP36NztEQjWXlDP7misg0ngOx83L6RYhsm4rjNA7IqiyNvRn5NB296NVHecpXGWQvDm47XhUGk/8L5Eu7QmMAEzMBEbHT9XAriH62ufcMXFsj9chhpMA3hy72rJC0m3uRp5ZZ3jxtOMyV1ibLpUar0BeFWusIQW0QoS6GsE7KnZBtxAqz0PB6TmGYTJxtbnhQaY+T13/PFynEwlat2bYVGY2gdaNQsZaiDHmqxgFriOMVP3Er5DsKfCo/xtbi6MWEdwwoEGE7j3MqwS9HajyKwKt0TTluDc/vTgwRfqMwUiYTCSLdRYXBXKVy0ajSNFbe+1waEitr3EgZbUh7snGK5Mb8ONBzT6sta9GzQz9yuhPOqMXox5k0oAh/uq9arPjT8wK8F/7GaWYOlBJl/j9HCbEcSKbUWhom6hZzOXVQ6L/xWjjHLSnnasXxk81c4gsGWSLGMCx44tRX+iGSF13TKVtmWYuZ5yMvHT6EPzxwbquv0a82Upggc4rUBYt4qfD1Pre9TpX1S/XiYw==;CjQIAazurn9sWUPqanGlJQ=="
+secured: "iwrCqAnD692m7jhXQAQeMk2KoZDZoysi9hmMINDczzCsWA5O5klaA5C6tFpZo/5ZzN+9/dzHWnyQHrHC2vYPx5oVeSJwEPCsRbq09BNFEDpzs7PFZaGi6qPkF6QHRrhPspZJ9x6zX6DJiqsYns2inRCE3QejxtnbNPCsr2qVH30+yW3FLIl35DH4TKrC7DFl27kJc71jHUWpRQiQu+kzAAPsXoQq0n1cJrpTbh2psnCPtfKzgE9b5v3sNhXbH+s2dUZgWjgAFFU7dscY5FCIyftH0k/Bgg5vyibGEandUTQLCmv9kPONVj+7CeOKL5N/ViOvPJ3/FbMk8TPSCNJnXx0GDo8zki2RMZ9/RXn49PA=;R4sNU/SdvpBmGuGVmACyqg=="
 ---
 

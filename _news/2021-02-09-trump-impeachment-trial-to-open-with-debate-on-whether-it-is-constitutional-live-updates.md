@@ -255,6 +255,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "On a day of legal wrangling, the trauma of Jan. 6 becomes the centerpiece of Trump impeachment trial"
+    excerpt: "The House managers hammered on Trump’s conduct during and after the Capitol attack, while most Republicans accepted his argument that the proceeding was unconstitutional."
+    publishedDateTime: 2021-02-10T04:15:00Z
+    webUrl: "https://www.washingtonpost.com/politics/on-a-day-of-legal-wrangling-the-trauma-of-jan-6-becomes-the-centerpiece-of-trump-impeachment-trial/2021/02/09/9dcbadae-6b19-11eb-9f80-3d7646ce1bc0_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/on-a-day-of-legal-wrangling-the-trauma-of-jan-6-becomes-the-centerpiece-of-trump-impeachment-trial/2021/02/09/9dcbadae-6b19-11eb-9f80-3d7646ce1bc0_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/on-a-day-of-legal-wrangling-the-trauma-of-jan-6-becomes-the-centerpiece-of-trump-impeachment-trial/2021/02/09/9dcbadae-6b19-11eb-9f80-3d7646ce1bc0_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 110
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PH42WTDLAUI6XJTO4JYEN2PITA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Watch Live: Trump's 2nd Senate Impeachment Trial Begins Tuesday"
     excerpt: "The former president is being tried on one article of impeachment for his role in the insurrection at the U.S. Capitol last month. Watch the proceedings beginning at 1 p.m. ET on Tuesday."
     publishedDateTime: 2021-02-09T16:27:00Z

@@ -544,6 +544,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Trump legal team focuses on Constitution in defense of Donald Trump"
+    excerpt: "Donald Tump’s legal team focused on the constitution in the defense of the former president, accusing the House of impeaching Trump without due process. NBC News’ Shannon Pettypiece explains the defense strategy and how they plan to make their case during Day Two of proceedings."
+    publishedDateTime: 2021-02-10T03:25:00Z
+    webUrl: "https://www.nbcnews.com/now/video/trump-legal-team-focuses-on-constitution-in-defense-of-donald-trump-100780101983"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo100780101983"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo100780101983"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202102/1612927102109_ott_now_pettypiece_defstrat_210209_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "As Trump Raked In Cash Denying His Loss, Little Went to Actual Legal Fight"
     excerpt: "The picture that emerged in new campaign finance reports was of Donald J. Trump waging a public relations effort to falsely argue that he had won the election rather than mounting a serious legal push."
     publishedDateTime: 2021-02-01T05:53:00Z

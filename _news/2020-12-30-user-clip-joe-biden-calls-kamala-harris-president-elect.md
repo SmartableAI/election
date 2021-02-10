@@ -1013,6 +1013,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Kamala Harris Called 'Jezebel' By 2 Texas Pastors; Experts Weigh In On 'Horrendous' Racist Trope"
+    excerpt: "Two white pastors in Texas have yet to apologize for referring to Vice President Kamala Harris as a \"Jezebel,\" a label that experts said had a racist and sexist undertone."
+    publishedDateTime: 2021-02-10T03:25:00Z
+    webUrl: "https://www.ibtimes.com/kamala-harris-called-jezebel-2-texas-pastors-experts-weigh-horrendous-racist-trope-3141695"
+    ampWebUrl: "https://www.ibtimes.com/kamala-harris-called-jezebel-2-texas-pastors-experts-weigh-horrendous-racist-trope-3141695?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/kamala-harris-called-jezebel-2-texas-pastors-experts-weigh-horrendous-racist-trope-3141695?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 62
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/21/kamala-harris-is-sworn-in-as-vice-president.jpg"
+        width: 1024
+        height: 736
+        isCached: true
   - title: "Meet the Bay Area publisher who has spent her career elevating Black voices - including Kamala Harris'"
     excerpt: "I was just shocked, because she must have been with her family, her husband and (President-elect Biden), but she hit me right back and thanked me and told me she loved me,” said Ashley-Ward, the 63-year-old publisher of San Francisco’s oldest Black newspaper,"
     publishedDateTime: 2021-01-31T12:00:00Z

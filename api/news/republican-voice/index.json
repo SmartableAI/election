@@ -2,25 +2,25 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-02-09-schumer-asks-republicans-to-keep-open-mind-at-trump-trial-says-he-fed-mob-lies-that-motivate-their-behavior.md",
-      "title": "Schumer asks Republicans to keep open mind at Trump trial, says he fed mob 'lies that motivate their behavior'",
-      "excerpt": "Senate Majority Leader Chuck Schumer on Tuesday urged Senate Republicans to pay close attention to new evidence introduced by the House impeachment managers during the trial of former President Donald Trump, while framing Trump as fundamentally responsible for motivating the rioters who sacked the Capitol",
+      "path": "_news/2021-02-10-flashback-obama-defense-sec-says-biden-as-vp-was-wrong-on-nearly-every-big-foreign-policy-issue.md",
+      "title": "FLASHBACK: Obama Defense Sec. says Biden as VP was wrong on nearly every big foreign policy issue",
+      "excerpt": "President Biden is expected to make his first visit to the Pentagon as Commander-in-Chief on Wednesday alongside Vice President Kamala Harris.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0K0Kev0D9Go/schumer-top-senate-democrats-impeachment-press-conference",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0K0Kev0D9Go/schumer-top-senate-democrats-impeachment-press-conference",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nT9tvjH2mB8/flashback-obama-defense-sec-biden-wrong-foreign-policy",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nT9tvjH2mB8/flashback-obama-defense-sec-biden-wrong-foreign-policy",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 155,
+      "heat": 162,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/928d5eb7-6cae-4b07-b417-7a20afc9f466/3517bf98-e3e7-498c-95dc-518c8e4cbebf/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -28,9 +28,65 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/schumer-top-senate-democrats-impeachment-press-conference.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schumer-top-senate-democrats-impeachment-press-conference.amp",
-      "publishedDateTime": "2021-02-09T08:37:02-08:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/flashback-obama-defense-sec-biden-wrong-foreign-policy.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/flashback-obama-defense-sec-biden-wrong-foreign-policy.amp",
+      "publishedDateTime": "2021-02-09T19:36:05-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-10-why-trump-lawyer-david-schoen-covered-his-head-with-every-sip-of-water.md",
+      "title": "Why Trump lawyer David Schoen covered his head with every sip of water",
+      "excerpt": "David Schoen unwittingly gave Twitter a lesson in orthodox Jewish customs during former President Donald Trump’s impeachment trial on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nSFkGHOeAAc/why-trump-lawyer-david-schoen-covered-his-head-with-every-sip-of-water",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nSFkGHOeAAc/why-trump-lawyer-david-schoen-covered-his-head-with-every-sip-of-water",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/GettyImages-1231067321.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/why-trump-lawyer-david-schoen-covered-his-head-with-every-sip-of-water.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/why-trump-lawyer-david-schoen-covered-his-head-with-every-sip-of-water.amp",
+      "publishedDateTime": "2021-02-09T19:23:57-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -576,7 +632,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1425,
+      "heat": 1445,
       "tags": null,
       "images": [
         {
@@ -1627,62 +1683,6 @@
         "Election",
         "Republican Voice",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-biden-flying-to-delaware-despite-cdc-warnings-to-avoid-travel.md",
-      "title": "Biden flying to Delaware despite CDC warnings to avoid travel",
-      "excerpt": "President Biden is expected to travel to Delaware this weekend, in what will be his first out-of-town trip since taking office, despite warnings from the Centers of Disease Control and Prevention to avoid travel.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fJp4HyFWL-o/biden-flying-to-delaware-despite-cdc-warnings-to-avoid-travel",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fJp4HyFWL-o/biden-flying-to-delaware-despite-cdc-warnings-to-avoid-travel",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-flying-to-delaware-despite-cdc-warnings-to-avoid-travel.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-flying-to-delaware-despite-cdc-warnings-to-avoid-travel.amp",
-      "publishedDateTime": "2021-02-05T04:33:23-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

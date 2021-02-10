@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/08/politics/impeachment-trial-securi
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/08/politics/impeachment-trial-security-posture/index.html"
 type: article
 quality: 175
-heat: 1035
+heat: 1055
 published: true
 
 provider:
@@ -712,6 +712,20 @@ related:
       - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
         width: 1120
         height: 629
+        isCached: true
+  - title: "‘Trump War Room’ Twitter account goes on the attack as impeachment trial kicks off"
+    excerpt: "The account is one of the last remaining Twitter handles affiliated with the former president and his aides that is accessible on the platform."
+    publishedDateTime: 2021-02-10T04:11:00Z
+    webUrl: "https://www.politico.com/news/2021/02/09/trump-war-room-twitter-impeachment-467955"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 109
+    images:
+      - url: "https://static.politico.com/6f/97/1a8cf17d4bbea8bd86ac5c2c472b/210209-leahy-getty-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "XeREWGYh6UHpr6HeR4ezTV14unGh8GShMk3u+lvAK7b7cT5yucwar2uiGLZnjuwXjOnHRSoWELmS064S7avVz8SK3WTWzQ9tiJTkzu4Y+wPjOa6XAVs1I6QuQfVfXO5p6lCiaGyObx5CX8y1hkw9NezGjWVDkVV4qIWQ9lyqP9/9Yrm0HehLQeXNUacIiDUHj2aPErr5TnxMv76+XDwb1EZ3vlB9PBrASdQIJums9WRtWMGiJ/HPcbXw+v5Km/uN9iLe4sOJDOioi0PlmmmGZcFVeOHYFVeSIzF0i1bei6BQ/pw2inqxxCZBlNSiCP38iepLfaTbr0JuYYqoxjK3kFkzWzyhoGffpz9yU40Wi9s=;7lFepR3tN8iiqbEm0At8mQ=="

@@ -714,6 +714,20 @@ related:
         width: 1120
         height: 629
         isCached: true
+  - title: "‘Trump War Room’ Twitter account goes on the attack as impeachment trial kicks off"
+    excerpt: "The account is one of the last remaining Twitter handles affiliated with the former president and his aides that is accessible on the platform."
+    publishedDateTime: 2021-02-10T04:11:00Z
+    webUrl: "https://www.politico.com/news/2021/02/09/trump-war-room-twitter-impeachment-467955"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 109
+    images:
+      - url: "https://static.politico.com/6f/97/1a8cf17d4bbea8bd86ac5c2c472b/210209-leahy-getty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "TTW35UtBC8JC5ht3BveO7/m3I1bJTFhB+1vXtbn1A2w+/cASB46rUwbEczhvofR66kzzQsjty17/Zb5UniQQil+hvP1wbf3hsw4J8sJ3lb4+TDTOGctQ6AS9BEvgpyyxrpFJdNZqGAAYTanH47r1EHvteJOdcY/0BvqGc24xYxRmyk0uZWyAp7hgV+OktCKMK13fSEeEa85YSdqaB7zojsbrgC+s4ztsn1X8loBeLSNfDf9jTNg49CJHRtVj/u3kGUnNCHpo8g7GxYE1qckiRbRuODRJcrMBWF6Sf+VL++nduee+y80PF2yM6Miiu2uNrDZIziODQbVEsh2UopII96q7oWmI6X6WIk684L8pRQ8=;7ygMVd2H4tQ3HUJ+UgvC3g=="
 ---

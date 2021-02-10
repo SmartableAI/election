@@ -1945,6 +1945,34 @@ related:
         width: 1400
         height: 787
         isCached: true
+  - title: "The second impeachment trial of President Donald Trump"
+    excerpt: "The second impeachment trial of former President Trump began on Feb. 9, 2021, about a month after he was charged by the House with incitement of insurrection for his role in egging on a violent mob that stormed the Capitol on Jan."
+    publishedDateTime: 2021-02-09T20:47:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-viz-second-impeachment-trial-donald-trump-photos-20210209-iyfnskcu6jdubk3v4e3hf2ddzy-photogallery.html"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 105
+    images:
+      - url: "https://www.chicagotribune.com/resizer/RPYZ8ZITnZHVUCZmEAHXsw1__hw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GWQVOARKMRHPLB4M2Q2G3NLHJE.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump's second impeachment trial begins in Senate"
+    excerpt: "House impeachment managers process through Statuary Hall to present arguments in the Senate impeachment trial against former President Donald Trump at the U.S. Capitol in Washington 9, 2021."
+    publishedDateTime: 2021-02-10T04:18:00Z
+    webUrl: "https://www.reuters.com/news/picture/trumps-second-impeachment-trial-begins-i-idUSRTR4Z5YB"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210210&t=2&i=1550962601&w=&fh=545&fw=810&ll=&pl=&sq=&r=2021-02-10T003801Z_33484_MRPRC26PL9AD1UP_RTRMADP_0_USA-TRUMP-IMPEACHMENT"
+        width: 810
+        height: 538
+        isCached: true
   - title: "Stimulus package and Trump impeachment divide lawmakers ahead of Senate trial"
     excerpt: "On Feb. 7, lawmakers and members of President Biden's Cabinet prepared for a week packed with the start of a second impeachment trial for former president Donald Trump and negotiations over coronavirus relief funds."
     publishedDateTime: 2021-02-07T23:36:00Z

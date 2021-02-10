@@ -460,6 +460,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump Jr.: Senate should 'maybe have something better to do' than sit through impeachment trial"
+    excerpt: "House Democrats' efforts to convict former President Donald Trump in this week's Senate impeachment trial are not what the federal government should be focused on, Donald Trump Jr. told \"Hannity\" Wednesday."
+    publishedDateTime: 2021-02-10T04:44:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/a6o5bZn4sVU/donald-trump-jr-senate-impeachment-something-better-to-do"
+    ampWebUrl: "https://www.foxnews.com/politics/donald-trump-jr-senate-impeachment-something-better-to-do.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/donald-trump-jr-senate-impeachment-something-better-to-do.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/67ab6620-a84c-4c4e-a9b0-ff6060da9c77/87461f27-22d3-48b8-96e9-25b31eb24382/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Democrats will realize Trump impeachment is a political 'loser' and will end trial quickly: Whitaker"
     excerpt: "Former Acting Attorney General Matthew Whitaker argued on Monday that former President Trump's impeachment is “cheapening” the impeachment standard."
     publishedDateTime: 2021-02-08T19:34:11Z

@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "'Mayor of Mar-a-Lago': Donald Trump Likely to Win Legal Fight to Live at Palm Beach Resort"
+    excerpt: "On the same day as the start of his Senate impeachment trial, a lawyer argued that former President Donald Trump should be allowed to live in his Florida resort as an employee of sorts."
+    publishedDateTime: 2021-02-10T02:44:00Z
+    webUrl: "https://www.newsweek.com/mayor-mar-lago-donald-trump-likely-win-legal-fight-live-palm-beach-resort-1568099"
+    ampWebUrl: "https://www.newsweek.com/mayor-mar-lago-donald-trump-likely-win-legal-fight-live-palm-beach-resort-1568099?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mayor-mar-lago-donald-trump-likely-win-legal-fight-live-palm-beach-resort-1568099?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 115
+    images:
+      - url: "https://d.newsweek.com/en/full/1730202/donald-trump-mar-lago-mayor-residence-resort-live.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Marjorie Taylor Greene falsely suggests Trump supporters didn't carry out the Capitol siege days after apologizing for endorsing conspiracy theories"
     excerpt: "she tweeted. \"The attack RUINED our objection that we spent weeks preparing for, which devastated our efforts on behalf of Trump and his voters.\" Greene's tweet was part of a longer thread about the siege and former President Donald Trump's Senate ..."
     publishedDateTime: 2021-02-09T14:56:00Z

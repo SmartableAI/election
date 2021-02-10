@@ -530,9 +530,9 @@ related:
   - title: "Dem Sen. Manchin asks Biden to reverse Keystone XL rejection"
     excerpt: "The new Democratic chairman of the Senate Energy Committee is urging President Joe Biden to reconsider his executive order revoking a presidential permit for the long-delayed Keystone XL oil pipeline"
     publishedDateTime: 2021-02-09T21:58:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/dem-sen-manchin-asks-biden-reverse-keystone-xl-75789039"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/dem-sen-manchin-asks-biden-reverse-keystone-xl-75789039"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/dem-sen-manchin-asks-biden-reverse-keystone-xl-75789039"
+    webUrl: "https://abcnews.go.com/Politics/wireStory/dem-sen-manchin-asks-biden-reverse-keystone-xl-75787426"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/dem-sen-manchin-asks-biden-reverse-keystone-xl-75787426"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/dem-sen-manchin-asks-biden-reverse-keystone-xl-75787426"
     type: article
     provider:
       name: ABC

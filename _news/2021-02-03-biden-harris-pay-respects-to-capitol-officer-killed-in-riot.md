@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/capitol-police-of
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/capitol-police-officer-who-died-after-riot-to-lie-in-honor/2021/02/02/8f908fb8-65b8-11eb-bab8-707f8769d785_story.html?outputType=amp"
 type: article
 quality: 150
-heat: 1770
+heat: 1790
 published: true
 
 provider:
@@ -1008,6 +1008,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/01/26/USAT/94c6f544-c7e2-45fb-9942-7c91a029b88f-VPC_BIDEN_SOT_DESK.00_00_07_05.Still015.jpg?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Kamala Harris Called 'Jezebel' By 2 Texas Pastors; Experts Weigh In On 'Horrendous' Racist Trope"
+    excerpt: "Two white pastors in Texas have yet to apologize for referring to Vice President Kamala Harris as a \"Jezebel,\" a label that experts said had a racist and sexist undertone."
+    publishedDateTime: 2021-02-10T03:25:00Z
+    webUrl: "https://www.ibtimes.com/kamala-harris-called-jezebel-2-texas-pastors-experts-weigh-horrendous-racist-trope-3141695"
+    ampWebUrl: "https://www.ibtimes.com/kamala-harris-called-jezebel-2-texas-pastors-experts-weigh-horrendous-racist-trope-3141695?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/kamala-harris-called-jezebel-2-texas-pastors-experts-weigh-horrendous-racist-trope-3141695?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 62
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/21/kamala-harris-is-sworn-in-as-vice-president.jpg"
+        width: 1024
+        height: 736
         isCached: true
   - title: "User Clip: Joe Biden calls Kamala Harris 'president-elect'"
     excerpt: "President-elect Joe Biden makes a verbal gaffe during remarks in Wilmington, Del."
