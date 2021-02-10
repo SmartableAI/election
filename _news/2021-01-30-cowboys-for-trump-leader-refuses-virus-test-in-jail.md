@@ -1273,6 +1273,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Senate finds Trump impeachment trial constitutional on first day of proceedings"
+    excerpt: "The Senate voted 56 to 44 in finding that it has jurisdiction to try former presidents on impeachment charges."
+    publishedDateTime: 2021-02-10T12:00:00Z
+    webUrl: "https://www.cbsnews.com/live-updates/trump-impeachment-trial-senate-constitutional-day-1/"
+    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/trump-impeachment-trial-senate-constitutional-day-1/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/trump-impeachment-trial-senate-constitutional-day-1/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 121
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/09/32f38d54-1915-4a33-992c-58efd85ea438/thumbnail/1200x630/cb687c6bc840aa43a1deddb82197a512/2021-02-09t183526z-1222531060-rc26pl9zqso8-rtrmadp-3-usa-trump-impeachment.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Demographic groups with the best employment gains under Trump moved right in 2020"
     excerpt: "With Friday’s jobs report, we now have a complete look at how employment fared under Trump, with the economy seeing fewer people working now than when he took office. Interestingly, that’s not true for all demographic groups."
     publishedDateTime: 2021-02-05T16:10:00Z
@@ -1513,21 +1529,21 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Senators vote to proceed with Trump's impeachment trial, but conviction may prove elusive"
-    excerpt: "A divided U.S. Senate voted largely along party lines on Tuesday to move ahead with Donald Trump's impeachment trial on a charge of inciting the deadly assault on the Capitol, but conviction appears unlikely barring a major shift among Republicans."
-    publishedDateTime: 2021-02-10T06:59:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-trump-impeachment-idAFKBN2A91DZ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN2A91DZ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN2A91DZ"
+  - title: "Disputing Donald Trump Trial Constitutionality Helps Senate GOP Deflect Tougher Questions"
+    excerpt: "The former president's second Senate impeachment trial is underway, focused on his actions surrounding the events of January 6."
+    publishedDateTime: 2021-02-10T12:54:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-impeachment-trial-constitutional-gop-senators-deflect-1568200"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-impeachment-trial-constitutional-gop-senators-deflect-1568200?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-impeachment-trial-constitutional-gop-senators-deflect-1568200?amp=1"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: Newsweek
+      domain: newsweek.com
     quality: 116
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210210&t=2&i=1550965896&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1902T"
-        width: 819
-        height: 545
+      - url: "https://d.newsweek.com/en/full/1730508/donald-trump-washington-january-6.jpg"
+        width: 2500
+        height: 1736
         isCached: true
   - title: "Facing a post-Trump world, abortion opponents at March for Life strike a less partisan tone"
     excerpt: "Abortion opponents began facing the post-Trump world Friday at the annual March for Life, divided over whether the past president helped or harmed their cause and shifting towards less partisan language than in the recent past."
@@ -2424,6 +2440,17 @@ related:
         width: 1024
         height: 696
         isCached: true
+  - title: "Senators Vote to Proceed With Trump's Impeachment Trial, but Conviction May Prove Elusive"
+    excerpt: "A divided U.S. Senate voted largely along party lines on Tuesday to move ahead with Donald Trump's impeachment trial on a charge of inciting the deadly assault on the Capitol, but conviction appears unlikely barring a major shift among Republicans."
+    publishedDateTime: 2021-02-10T12:02:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-02-09/after-deadly-capitol-riot-trump-impeachment-trial-to-open-with-fight-on-constitution"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-02-09/after-deadly-capitol-riot-trump-impeachment-trial-to-open-with-fight-on-constitution?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-02-09/after-deadly-capitol-riot-trump-impeachment-trial-to-open-with-fight-on-constitution?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 46
 
 secured: "7m396hEftb+QHxtcqVAdUSEBzE8nxWIqPPu/59T90wXINAmyg7M+qRvKcP8565YVnaGggMm8MDd00qxbGJQM14j6l+WJgDJa6wcl9Mg5Y0+fBE//2DZXlQVreZy/qvaoJQ0T2W9SWi3IyoF2XzkFSp89FqGUZzB9uWjbOJoAzgLp8D6H5kayNM8Dc/UsYmbReNrVQaiG0+zArD9vtpshtfrA/pq1iwPHW2f+Hn6Z69vNq3bn40vKgVtm9yOjalQswc2vG+Yv5NgvOgiR0hSxhrgfc3/1qOgmUAc9/PoLQeMv6jJC195ZhWrNWq9ZF4qmNPwPuLYNtrJtX6MFbLY1xkHhKWiceaZT6LuxvXuGbQ2XIW8HW/aRtBsKYerYPBtpjJlwxKuEPWNLzHG+2XmleV1T4Jv5H2LuzZq66Ai9R1U9BRp8h54K2mGt90cQjZpj1gzumn5y+ItHWyEQD3XcxaJJP0FsAemrj5GXRBdEpL22gAyekFy1ZMg0NMvWsGgs2tTdHjOpWiKcDe1eiDtuPQ==;9nAQeQJufunXbFgPKSl4fw=="
 ---

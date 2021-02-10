@@ -141,6 +141,17 @@ related:
         width: 1400
         height: 787
         isCached: true
+  - title: "Trump Fumes, GOP Senators Baffled by Legal Team's Debut"
+    excerpt: "Former President Donald Trump fumed that his attorneys’ performance on the opening day of his second impeachment trial was a disaster as allies and Republican senators questioned their strategy."
+    publishedDateTime: 2021-02-10T12:10:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-02-09/trump-gop-senators-balk-at-legal-teams-debut-performance"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-09/trump-gop-senators-balk-at-legal-teams-debut-performance?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-09/trump-gop-senators-balk-at-legal-teams-debut-performance?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "OECx5IKrpHj44Q16bLFos3qd0SiNRH0qrwn5flsEKOgkNV1Cphm2FAoHLQT6vqcfXpJGElFGfPtLN7EyTYqRVRBsmi4VXPkRBTzLFGCb340GiNU6pUqZ05xhFRCFV5D9sPdqwIQIwlhASCo7kgsG9AWDrzgzIem6rkEjP97/9WyNI3n6UDiwPnv2UTuV0SyD8cBQ8mrjGLeBQ0IsFmuPD6Pd2BfwxzKlNqepPI2r0GZVtPTLwDAlO0OQq3FY+FhAP/08u6Lvv4H0VBeMxjQhC9YzMG3SM/qSSQ/Nqrxhsd1NP2/Ey43/zDRYoesDBjY/NiRx1oJPfeJ5Cb9EFWNsdWz7+/G4/Ke0ovW1t4tRdHHGuVjttl4msfERMCTeA4H7gPficqTMWeFXlJ8xFPydIcMpYAgFlIl8tSOXjui8IoYsFvMmENLKWAPKXjblSis/9K543O3aVwz/9BOeVjBK/BZK1GMmLYl4/akUbEw1Ub1X66sOVLI1rRgGnSArShsnurz3XBheGRrThp/1Hjvxfw==;/qOhJ9AMqyUIZRXbgAYqRw=="
 ---

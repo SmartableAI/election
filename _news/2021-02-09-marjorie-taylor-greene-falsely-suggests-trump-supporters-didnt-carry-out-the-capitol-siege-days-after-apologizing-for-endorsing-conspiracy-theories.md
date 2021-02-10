@@ -79,6 +79,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Trump impeachment trial: After emotional first day, opening arguments begin today in historic second Senate trial"
+    excerpt: "Opening arguments will begin Wednesday in Donald Trump’s impeachment trial after an emotional first day that wrenched senators back to the Jan. 6 attack on the U.S. Capitol."
+    publishedDateTime: 2021-02-10T12:56:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-impeachment-trial-20210210-vvwsnu2gw5bmxpc2ma7rhzr3eu-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-impeachment-trial-20210210-vvwsnu2gw5bmxpc2ma7rhzr3eu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-impeachment-trial-20210210-vvwsnu2gw5bmxpc2ma7rhzr3eu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 104
+    images:
+      - url: "https://www.chicagotribune.com/resizer/VjqPxpVay4Rtjf9n1-Kum6ELaAg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/CORIAL3QTZH3RM7WDGTYMNE7NY.aspx"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The Latest: Dems Say Trump Team Bids to Shift Blame for Riot"
     excerpt: "House Democrats prosecuting the impeachment case against Donald Trump say the former president’s lawyers are trying to “shift the blame onto his supporters” as they argue he's not to blame for the Capitol insurrection."
     publishedDateTime: 2021-02-09T18:15:00Z

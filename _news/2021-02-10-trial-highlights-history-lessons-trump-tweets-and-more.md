@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trial-highlights-histo
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trial-highlights-history-lessons-trump-tweets-75789773"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2CAUKOTKJII6XJTO4JYEN2PITA.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Trump impeachment trial: After emotional first day, opening arguments begin today in historic second Senate trial"
+    excerpt: "Opening arguments will begin Wednesday in Donald Trump’s impeachment trial after an emotional first day that wrenched senators back to the Jan. 6 attack on the U.S. Capitol."
+    publishedDateTime: 2021-02-10T12:56:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-impeachment-trial-20210210-vvwsnu2gw5bmxpc2ma7rhzr3eu-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-impeachment-trial-20210210-vvwsnu2gw5bmxpc2ma7rhzr3eu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-impeachment-trial-20210210-vvwsnu2gw5bmxpc2ma7rhzr3eu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 104
+    images:
+      - url: "https://www.chicagotribune.com/resizer/VjqPxpVay4Rtjf9n1-Kum6ELaAg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/CORIAL3QTZH3RM7WDGTYMNE7NY.aspx"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Marjorie Taylor Greene falsely suggests Trump supporters didn't carry out the Capitol siege days after apologizing for endorsing conspiracy theories"
     excerpt: "she tweeted. \"The attack RUINED our objection that we spent weeks preparing for, which devastated our efforts on behalf of Trump and his voters.\" Greene's tweet was part of a longer thread about the siege and former President Donald Trump's Senate ..."

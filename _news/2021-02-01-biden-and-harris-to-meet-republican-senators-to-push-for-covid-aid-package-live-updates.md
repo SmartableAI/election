@@ -1256,6 +1256,15 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 35
+  - title: "Vice President Harris Meets with African American Mayors"
+    excerpt: "Vice President Harris and members of the White House COVID-19 response team speak briefly with reporters prior to a virtual meeting with members of African American Mayors Association on the American Rescue Plan."
+    publishedDateTime: 2021-02-10T12:37:00Z
+    webUrl: "https://www.c-span.org/video/?508868-1/vice-president-harris-meets-african-american-mayors"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "Ta5sn8gYhxHRTybUyQaqC3PouEwXK2fab8nos34+E7gB7AOQbdwHkklPP17P/CkoCSVLb0mGsMHMw9olEA3NbXViCYrhGSng5itY2YmGNouEE1F8PlRtrWsNbNPhS5waOsTs3LyU7+PB4UW1xN+KwfIi0IgQ+Zn5FP4O37ClHBIdpHip6zv1c46rgLkocIgQnaIeur3BlwpX8dkBn39+OIP+WoPBw/hSw285vAKGdt6HRktY3EpWOjro+VNVlqX+vh5HjzxwW5rFrI0m0H7QW25VC8l0G6GgEjvpzsKSwruyQoX/ITTFdK+7r9Pd4Kf27jghUSutvqV4RPyxz+RG+Pk+9R7ZToHODGrkP47892U=;scZxOYXPlCxy0NDjRX799g=="
 ---

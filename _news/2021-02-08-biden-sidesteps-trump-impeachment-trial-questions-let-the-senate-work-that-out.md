@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-sidesteps-trump-impeachment-t
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-sidesteps-trump-impeachment-trial-questions.amp"
 type: article
 quality: 185
-heat: 1505
+heat: 1525
 published: true
 
 provider:
@@ -1058,6 +1058,20 @@ related:
     quality: 115
     images:
       - url: "https://images.wsj.net/im-296233/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Trump Impeachment Trial: Day 2 Live Updates"
+    excerpt: "Live analysis of the second impeachment trial of former President Donald Trump."
+    publishedDateTime: 2021-02-10T12:52:00Z
+    webUrl: "https://www.wsj.com/livecoverage/trump-second-impeachment-trial-2021-02-10"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 115
+    images:
+      - url: "https://images.wsj.net/im-297312/social"
         width: 1280
         height: 640
         isCached: true

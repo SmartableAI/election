@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/health/pro-trump-gop-chair-steps-down
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/pro-trump-gop-chair-steps-down-in-ohio-may-seek-senate-seat/2021/02/05/5508d346-67d9-11eb-bab8-707f8769d785_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -141,6 +141,17 @@ related:
         width: 1400
         height: 787
         isCached: true
+  - title: "Trump Fumes, GOP Senators Baffled by Legal Team's Debut"
+    excerpt: "Former President Donald Trump fumed that his attorneys’ performance on the opening day of his second impeachment trial was a disaster as allies and Republican senators questioned their strategy."
+    publishedDateTime: 2021-02-10T12:10:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-02-09/trump-gop-senators-balk-at-legal-teams-debut-performance"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-09/trump-gop-senators-balk-at-legal-teams-debut-performance?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-09/trump-gop-senators-balk-at-legal-teams-debut-performance?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "qP7upZ+nJZ1EnYjSKyo1krnvfZRQt5mvW1HhEhc9PJ51jU9O9XeVQ17rbPan/SRMqXHsOyAtHdPSNkngDnhugRHLL+ZkvEtr9Y7dfOn9hquSVwOf2aAFHtMnUEcPW/KxU2tr6dpV5E9Ogwk0juEmRsmCC11nU/UPXLQSbtUOlRyizgaYU38u6GLJ8kul7zHL6qHXUdhC13icxD+TuksIE/+jvLPfMP6yCLvZ/jFjtGxEO2pX937WJ7b4F1HQVcYRMPMf+NCzeHBSnPMmG2lAaIHcfowLctVjK13FQsdErQ069CtTW0lUlRRsr1y0M2ym6TjIRnHS5S7CPf8+ku9YI/8l/aN4s+GoRZsysvkzgwg=;WInVsev+mEgqwsO7AN379A=="
 ---

@@ -835,6 +835,22 @@ related:
         width: 3000
         height: 2003
         isCached: true
+  - title: "Rudy Giuliani's Twitter Following Drops by Tens of Thousands After Joe Biden Inauguration"
+    excerpt: "Giuliani, personal attorney to Donald Trump, has remained an active Twitter user since the former president was suspended from the platform."
+    publishedDateTime: 2021-02-10T12:47:00Z
+    webUrl: "https://www.newsweek.com/rudy-giuliani-twitter-account-following-drops-thousands-joe-biden-inauguration-1568183"
+    ampWebUrl: "https://www.newsweek.com/rudy-giuliani-twitter-account-following-drops-thousands-joe-biden-inauguration-1568183?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/rudy-giuliani-twitter-account-following-drops-thousands-joe-biden-inauguration-1568183?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 116
+    images:
+      - url: "https://d.newsweek.com/en/full/1730504/rudy-giuliani-michigan-house-oversight-committee.jpg"
+        width: 2500
+        height: 1746
+        isCached: true
   - title: "US officials: Biden administration moves to rejoin UN Human Rights Council in another reversal of Trump foreign policies"
     excerpt: "Biden administration moves to rejoin UN Human Rights Council in another reversal of Trump foreign policies. Copyright 2021 The Associated Press. All rights reserved. This material may not be published,"
     publishedDateTime: 2021-02-08T06:03:00Z

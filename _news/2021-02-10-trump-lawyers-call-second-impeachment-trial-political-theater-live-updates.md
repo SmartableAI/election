@@ -1076,6 +1076,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Trump Impeachment Trial: Day 2 Live Updates"
+    excerpt: "Live analysis of the second impeachment trial of former President Donald Trump."
+    publishedDateTime: 2021-02-10T12:52:00Z
+    webUrl: "https://www.wsj.com/livecoverage/trump-second-impeachment-trial-2021-02-10"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 115
+    images:
+      - url: "https://images.wsj.net/im-297312/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "NCSTY6MVTcNm+JiGvMinEDKG43UNq11cDC+BKvkuy8CnzztoBO1hECUKOCUkOVLqjzBSYt6v7cuqaJTzG6eS6Z2AQt4bcSe+COMRBeYE5DUNuQGM5n+S0jb70xoggVtyEYb+8eTQKHt+UOHLmjZw6phrfb/cUpa1eEIPbZUv5HGEkt66AYSf1DycEdn8Ba2u506yIF2DyeXKpv3d+6acasf6TpFIhgZsYkrFk0KQIhpjlJT+s3bYN4RV25lRPsk2SZIERnB8Md8YWXOdTYUER7MBxKrvDEQqMscCl5DLl/rTtXr7SSLEotR8ZrtW3ciiciTLfF0N1/5WXOmEO3+K1F2nVocfhHaloTncUWk68gk=;CMrCOHCDILbMwk+SLa+EPA=="
 ---

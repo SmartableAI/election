@@ -95,6 +95,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Horrific mob scenes dominate Trump's impeachment trial"
+    excerpt: "Chilling video evidence on the first day of Donald Trump's second impeachment trial, showing his frenzied supporters smashing their way into the US Capitol, revived a national trauma.\n    \n"
+    publishedDateTime: 2021-02-10T11:55:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9dLwUucDhJM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/10/politics/donald-trump-impeachment-trial-congress-lawyers/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/10/politics/donald-trump-impeachment-trial-congress-lawyers/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210209153322-12-impeachment-2021-managers-0209-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "House managers to make a visceral case against Trump on Wednesday"
+    excerpt: "The House impeachment managers begin their two-day presentation Wednesday looking to convince skeptical Republican senators that former President Donald Trump was responsible for the deadly January 6 riot at the US Capitol where insurrectionists attacked the Capitol and disrupted the peaceful transfer"
+    publishedDateTime: 2021-02-10T11:55:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QBelWUrWnoQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/10/politics/senate-impeachment-trial-day-2/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/10/politics/senate-impeachment-trial-day-2/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210209194730-01-capitol-hill-comparisons-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump unhappy with his impeachment attorney's performance, sources say"
     excerpt: "Former President Donald Trump was unhappy with his impeachment lawyer Bruce Castor's opening argument on the Senate floor Tuesday, two people familiar with his reaction told CNN.\n    \n"
     publishedDateTime: 2021-02-10T00:44:38Z
@@ -558,6 +590,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/02/02/us/politics/02dc-impeach1/02dc-impeach1-facebookJumbo.jpg"
         width: 1050
         height: 549
+        isCached: true
+  - title: "Trump impeachment live updates: Democrats deliver arguments in Senate trial"
+    excerpt: "House Democrats are set to begin arguments on Wednesday in the second impeachment trial of former President Donald Trump, the only president in U.S. history to face impeachment twice. The Senate voted to proceed with the trial on Tuesday after hearing around four hours of debate around the constitutionality of impeaching a former official."
+    publishedDateTime: 2021-02-10T11:03:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/live-blog/trump-impeachment-live-updates-democrats-deliver-arguments-senate-trial-n1256974"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1256974"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1256974"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 133
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_05/3448058/210205-impeachment-live-blog-main-cover-cs_8dc2fda2a14bcda357e69a3eef869efb.jpg"
+        width: 2500
+        height: 1250
         isCached: true
   - title: "Live Updates: Impeachment Managers Call Trump ‘Singularly Responsible’ for Riot"
     excerpt: "The nine House impeachment managers presented their case against former President Donald J. Trump in a filing. Mr. Trump has a noon deadline to outline his defense. President Biden will sign executive orders on immigration."

@@ -62,6 +62,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to visit Pentagon and pay tribute to Black service members"
+    excerpt: "President Joe Biden on Wednesday will make his first trip to the Pentagon since taking office and will speak to the significance of having the first African American in the nation's history serving as secretary of defense, according to the White House.\n    \n"
+    publishedDateTime: 2021-02-10T11:59:53Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XjmP6YFGD2I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/10/politics/biden-pentagon-visit/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/10/politics/biden-pentagon-visit/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210208160121-joe-biden-210205-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden is expected to announce increase in amount of refugees admitted into US"
     excerpt: "The Biden administration plans to announce on Thursday that it will increase the number of refugees who can come to the United States, a move toward building up refugee admissions after years of historic low arrivals under former President Donald Trump, according to two sources familiar with the plans.\n"
     publishedDateTime: 2021-02-04T00:16:30Z
