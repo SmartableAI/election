@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/sen-murphy-we-have-a-constitutional
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-murphy-we-have-a-constitutional-responsibility-to-hold-trumps-trial.amp"
 type: article
 quality: 172
-heat: 192
+heat: 212
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Ken Starr says Trump’s second impeachment 'unconstitutional' and sets 'dangerous precedent'"
+    excerpt: "Former independent counsel Ken Starr says the impeachment trial of former President Donald Trump is an \"unconstitutional process\" and sets a \"very dangerous precedent\" because Trump has already left office."
+    publishedDateTime: 2021-02-10T18:27:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JoPvlIlvUcI/ken-starr-trumps-second-impeachment-unconstitutional-process"
+    ampWebUrl: "https://www.foxnews.com/politics/ken-starr-trumps-second-impeachment-unconstitutional-process.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ken-starr-trumps-second-impeachment-unconstitutional-process.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aca0cd36-13d5-400a-a98b-37d1e4bafa56/22e959fc-1526-4be6-ae2b-0ac2f2cc43f4/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Cassidy vote on Trump impeachment constitutionality sparks GOP backlash at home: 'Profoundly disappointed'"
     excerpt: "Sen. Bill Cassidy, R-La., drew the ire of his state's Republican Party after he voted in favor of the Senate being constitutionally allowed to hear the impeachment trial of former President Donald Trump."
     publishedDateTime: 2021-02-10T15:35:22Z

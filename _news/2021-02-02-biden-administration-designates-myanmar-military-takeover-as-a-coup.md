@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/02/politics/myanmar-state-department
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/02/politics/myanmar-state-department-coup-determination/index.html"
 type: article
 quality: 175
-heat: 475
+heat: 495
 published: true
 
 provider:
@@ -108,6 +108,22 @@ related:
     quality: 173
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/180515120442-white-house-exterior-05-13-2018-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden announces US will sanction Myanmar's military leaders following coup"
+    excerpt: "President Joe Biden on Wednesday announced that the United States will sanction Myanmar's military leaders after last week's coup in the country.\n    \n"
+    publishedDateTime: 2021-02-10T18:56:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2BJejGmWQ1g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/10/politics/biden-myanmar-coup-sanctions/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/10/politics/biden-myanmar-coup-sanctions/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210210134424-01-biden-myanmar-0210-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

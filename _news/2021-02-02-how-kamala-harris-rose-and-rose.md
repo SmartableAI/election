@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Harris to start 'regular' lunches with Blinken in bid to beef up foreign policy chops"
+    excerpt: "Vice President Kamala Harris will have her first private lunch with Secretary of State Antony Blinken Wednesday, meetings that are expected to continue with regularity, according to two administration officials.\n    \n"
+    publishedDateTime: 2021-02-10T17:38:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qi0bdjCRBdI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/10/politics/kamala-harris-antony-blinken-lunches/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/10/politics/kamala-harris-antony-blinken-lunches/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 178
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210127125903-02-blinken-swearing-in-0127-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Kamala Harris Casts Her First Tie-Breaking Vote"
     excerpt: "It was, somehow, a setting simultaneously dramatic and anticlimactic for Vice President Kamala Harris’s first tiebreaking vote in the Senate: just before dawn in a sparsely filled chamber, at the end of a 15-hour session in which senators voted on dozens of amendments to one of the largest stimulus packages in American history."
     publishedDateTime: 2021-02-05T15:12:00Z

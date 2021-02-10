@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/06/politics/kamala-harris-senate-tie
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/06/politics/kamala-harris-senate-tie-breaking-vote/index.html"
 type: article
 quality: 185
-heat: 305
+heat: 325
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
     quality: 184
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210201165657-manchin-harris-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Harris to start 'regular' lunches with Blinken in bid to beef up foreign policy chops"
+    excerpt: "Vice President Kamala Harris will have her first private lunch with Secretary of State Antony Blinken Wednesday, meetings that are expected to continue with regularity, according to two administration officials.\n    \n"
+    publishedDateTime: 2021-02-10T17:38:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qi0bdjCRBdI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/10/politics/kamala-harris-antony-blinken-lunches/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/10/politics/kamala-harris-antony-blinken-lunches/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 178
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210127125903-02-blinken-swearing-in-0127-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

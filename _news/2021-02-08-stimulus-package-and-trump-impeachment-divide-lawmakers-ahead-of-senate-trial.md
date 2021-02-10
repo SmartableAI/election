@@ -1197,6 +1197,22 @@ related:
         width: 819
         height: 545
         isCached: true
+  - title: "Trump never conceded he lost, but his impeachment lawyer did"
+    excerpt: "One of the lawyers heading former President Donald Trump’s defense at his second impeachment trial did what Trump himself has not: conceded Joe Biden won the presidential election"
+    publishedDateTime: 2021-02-10T18:14:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-conceded-lost-impeachment-lawyer-75791268"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-conceded-lost-impeachment-lawyer-75791268"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-conceded-lost-impeachment-lawyer-75791268"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_665734fde56446f490ab46202cef9ef8_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "UPDATE 1-U.S. DOJ to ask Trump-appointed prosecutors to resign -official"
     excerpt: "The U.S. Department of Justice on Tuesday is expected to ask most federal prosecutors appointed by former President Donald Trump to submit their resignations, a Justice Department official said."
     publishedDateTime: 2021-02-09T20:26:00Z
@@ -2140,6 +2156,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Senate hears Trump's impeachment opening arguments"
+    excerpt: "House impeachment managers are presenting their case in Donald Trump's historic second impeachment trial. Lead House manager, Rep. Jamie Raskin, said instead of being the commander-in-chief, Trump became the \"inciter-in-chief,"
+    publishedDateTime: 2021-02-10T18:21:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/02/10/senate-hears-trumps-impeachment-opening-arguments/6706825002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/54077668-d457-456c-be79-1d4a12d26dfd_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "6 Republicans broke ranks and voted with Democrats to declare Trump's impeachment trial constitutional after the first day"
     excerpt: "President Donald Trump's Senate impeachment trial over the Capitol siege began on Tuesday afternoon."
     publishedDateTime: 2021-02-09T22:54:00Z
@@ -2489,6 +2519,17 @@ related:
     webUrl: "https://www.usnews.com/news/politics/articles/2021-02-08/us-moves-to-rejoin-un-rights-council-reversing-trump-anew"
     ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-08/us-moves-to-rejoin-un-rights-council-reversing-trump-anew?context=amp"
     cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-08/us-moves-to-rejoin-un-rights-council-reversing-trump-anew?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "The Latest: Prosecutors Trace Trump's Inflammatory Rhetoric"
+    excerpt: "House Democrats prosecuting Donald Trump’s impeachment trial are methodically tracing his monthslong effort to undermine his supporters’ faith in the election results."
+    publishedDateTime: 2021-02-10T18:34:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-02-10/the-latest-prosecutors-trace-trumps-inflammatory-rhetoric"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-10/the-latest-prosecutors-trace-trumps-inflammatory-rhetoric?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-10/the-latest-prosecutors-trace-trumps-inflammatory-rhetoric?context=amp"
     type: article
     provider:
       name: U.S. News & World Report

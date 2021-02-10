@@ -382,6 +382,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Man in far-right militant group joined Capitol mob after appearing with Trump ally Roger Stone"
+    excerpt: "An Oath Keeper who appeared to be providing security for political operative Roger Stone on January 6 later joined an angry mob outside the Capitol, according to video and images reviewed by CNN and four sources who confirmed his identity.\n    \n"
+    publishedDateTime: 2021-02-10T18:02:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ek4KxVhWQZA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/10/politics/oath-keeper-minuta-stone-invs/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/10/politics/oath-keeper-minuta-stone-invs/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210209192906-03-oath-keeper-minuta-stone-invs-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump lawyers argue former President did not incite riots by telling supporters to 'fight like hell'"
     excerpt: "Former President Donald Trump's legal team accused House Democrats of engaging in \"political theater\" and argued that the upcoming Senate impeachment trial is unconstitutional because Trump is no longer President.\n    \n"
     publishedDateTime: 2021-02-08T16:37:02Z
@@ -841,6 +857,20 @@ related:
       - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
         width: 1120
         height: 629
+        isCached: true
+  - title: "Impeachment managers directly blame ‘inciter-in-chief' Trump for Capitol attack"
+    excerpt: "Prosecutors also will show never-before-seen footage of the chaos during the first day of formal arguments in Trump's second trial."
+    publishedDateTime: 2021-02-10T18:13:00Z
+    webUrl: "https://www.politico.com/news/2021/02/10/trump-impeachment-trial-day-2-468291"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 111
+    images:
+      - url: "https://static.politico.com/c7/25/c3962b394f1d93105eef2bd2747d/raskin-773-ap.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "‘Trump War Room’ Twitter account goes on the attack as impeachment trial kicks off"
     excerpt: "The account is one of the last remaining Twitter handles affiliated with the former president and his aides that is accessible on the platform."

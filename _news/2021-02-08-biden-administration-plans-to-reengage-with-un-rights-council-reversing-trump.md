@@ -656,6 +656,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump impeachment lawyer previews defense, will argue trial is 'unconstitutional' and sets a 'bad precedent'"
+    excerpt: "Trump lawyer Bruce L. Castor Jr. previewed his defense strategy for the Senate impeachment trial of former President Trump, saying he will argue that “the entire proceeding is unconstitutional, bad public policy, and is setting a bad precedent for the nation.”"
+    publishedDateTime: 2021-02-10T18:11:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-QhunfN5htA/trump-impeachment-lawyer-previews-defense-unconstitutional"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-lawyer-previews-defense-unconstitutional.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-lawyer-previews-defense-unconstitutional.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump impeachment trial sees wide partisan divide: polls"
     excerpt: "By a slight majority, Americans want the Senate to convict former President Trump in his upcoming impeachment trial, according to two new national polls. But both surveys show an extremely wide partisan divide over whether Trump should be convicted."
     publishedDateTime: 2021-02-04T19:40:45Z
@@ -1081,6 +1097,22 @@ related:
     quality: 130
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b1a6865a-e2f6-4ee3-ad0f-046010aee80f/22d16aec-18fa-4a50-85a1-0db6d773b073/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "LIVE UPDATES: Trump impeachment trial Day 2 kicks off with Democrats making their case"
+    excerpt: "Democrats on Wednesday are making their case as to why President Donald Trump should be convicted in his impeachment trial -- a day after the Senate voted to move ahead with the trial."
+    publishedDateTime: 2021-02-10T18:52:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-impeachment-live-updates-2-10-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-live-updates-2-10-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-live-updates-2-10-2021.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 127
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/61a66219-cef7-41be-bf5a-2420fbb38051/157f42b9-2028-471b-81e5-255abc31ee16/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

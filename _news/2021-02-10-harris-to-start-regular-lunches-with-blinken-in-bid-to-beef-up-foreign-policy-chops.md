@@ -1,0 +1,146 @@
+---
+category: news
+title: "Harris to start 'regular' lunches with Blinken in bid to beef up foreign policy chops"
+excerpt: "Vice President Kamala Harris will have her first private lunch with Secretary of State Antony Blinken Wednesday, meetings that are expected to continue with regularity, according to two administration officials.\n    \n"
+publishedDateTime: 2021-02-10T17:38:37Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qi0bdjCRBdI/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qi0bdjCRBdI/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/02/10/politics/kamala-harris-antony-blinken-lunches/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/10/politics/kamala-harris-antony-blinken-lunches/index.html"
+type: article
+quality: 178
+heat: -1
+published: false
+
+provider:
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Democratic Voice
+  - Kamala Harris
+
+images:
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210127125903-02-blinken-swearing-in-0127-super-tease.jpg"
+    width: 1100
+    height: 619
+    isCached: true
+
+related:
+  - title: "Harris flexes power as Senate tiebreaker"
+    excerpt: "Early Friday morning, Vice President Kamala Harris did something Joe Biden never did in his eight years as vice president -- cast a tie-breaking vote.\n    \n"
+    publishedDateTime: 2021-02-06T14:58:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Wz-Iz1Zy3xE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/06/politics/kamala-harris-senate-tie-breaking-vote/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/06/politics/kamala-harris-senate-tie-breaking-vote/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 185
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210205191617-harris-breaks-tie-screengrab-0205-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "White House reached out to Manchin after Harris' West Virginia interview"
+    excerpt: "The White House called Democratic Sen. Joe Manchin after Vice President Kamala Harris conducted interviews with West Virginia media, according to a person with knowledge of the conversation.\n    \n"
+    publishedDateTime: 2021-02-01T18:24:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WK9xAdK4zls/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/01/politics/joe-manchin-white-house-call/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/01/politics/joe-manchin-white-house-call/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 184
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210201165657-manchin-harris-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "How Kamala Harris Rose — and Rose"
+    excerpt: "Kamala’s Way” is the story of Harris’s dramatic political career, as told by the longtime California journalist Dan Morain."
+    publishedDateTime: 2021-02-01T19:00:00Z
+    webUrl: "https://www.nytimes.com/2021/02/01/books/review/kamalas-way-dan-morain.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/01/books/review/kamalas-way-dan-morain.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/01/books/review/kamalas-way-dan-morain.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/27/books/review/McGirr/McGirr-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
+  - title: "Kamala Harris Casts Her First Tie-Breaking Vote"
+    excerpt: "It was, somehow, a setting simultaneously dramatic and anticlimactic for Vice President Kamala Harris’s first tiebreaking vote in the Senate: just before dawn in a sparsely filled chamber, at the end of a 15-hour session in which senators voted on dozens of amendments to one of the largest stimulus packages in American history."
+    publishedDateTime: 2021-02-05T15:12:00Z
+    webUrl: "https://www.nytimes.com/2021/02/05/us/kamala-harris-senate-vote.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/05/us/kamala-harris-senate-vote.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/05/us/kamala-harris-senate-vote.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/05/us/politics/05vid-kamala-harris-senate/05vid-kamala-harris-senate-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "How Kamala Harris is flexing tie-breaker powers"
+    excerpt: "Just weeks into the Biden administration, Vice President Kamala Harris has already had to cast a tie-breaking vote in the Senate. CNN's Arlette Saenz reports."
+    publishedDateTime: 2021-02-06T19:55:00Z
+    webUrl: "https://www.cnn.com/videos/politics/2021/02/06/kamala-harris-senate-tiebreaker-saenz-dnt-nr-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/02/06/kamala-harris-senate-tiebreaker-saenz-dnt-nr-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/02/06/kamala-harris-senate-tiebreaker-saenz-dnt-nr-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210205062303-screengrab-01-kamala-harris-senate-budget-vote-0205-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Kamala Harris Breaks Senate Tie"
+    excerpt: "Vice President Kamala Harris returned to the Senate, and casted a tiebreaking vote to pass a Covid relief budget measure."
+    publishedDateTime: 2021-02-05T15:32:00Z
+    webUrl: "https://www.nytimes.com/video/us/politics/100000007589338/kamala-harris-breaks-senate-tie.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/05/us/politics/05vid-kamala-harris-senate/05vid-kamala-harris-senate-facebookJumbo.jpg?video-overlay"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Kamala Harris Breaks Senate Tie"
+    excerpt: "Vice President Kamala Harris returned to the Senate, and cast a tiebreaking vote to pass a Covid relief budget measure."
+    publishedDateTime: 2021-02-05T17:56:00Z
+    webUrl: "https://www.nytimes.com/video/us/politics/100000007589338/kamala-harris-breaks-senate-tie.html?playlistId=video/us-politics"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/05/us/politics/05vid-kamala-harris-senate/05vid-kamala-harris-senate-facebookJumbo.jpg?video-overlay"
+        width: 1050
+        height: 550
+        isCached: true
+
+secured: "rghRWALlihDo9QcS59aJIiUsdA9iqIakMPYJTwOOx7uy7Z0RAiJuIfSzuC/6rn8sBmqOCAIfNOHGEvaS73Cohod5GWkQJ9YqlnfMUeqDf7QOO0fe+WaWSSHOrqVlXRJnm7GR/n3DlbOjAoILyxFvmE/QlbXOM3GQ//PGgeKO6O/8u3PVdUnKor3RiD27/5hhOSkgqY1SzNwZ6W3TdfoaoFRmNCiVm6L6OuHmohhlAL/gfgmxYH/gZH3tg9mjDnqoI0mJGEWx079KABb/JLk0ueS5LwSTYceh+PKbP3lMDKUg2/zCshHyhOV4zplvv+u0xi+Lw+rkWBBJeaNu4NNiTstKOnS1HYzPZYqp2p4pqDk=;UXScmniqg97iCyKGgeSiXA=="
+---
+

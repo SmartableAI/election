@@ -557,22 +557,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Dem Sen. Manchin asks Biden to reverse Keystone XL rejection"
-    excerpt: "The new Democratic chairman of the Senate Energy Committee is urging President Joe Biden to reconsider his executive order revoking a presidential permit for the long-delayed Keystone XL oil pipeline"
-    publishedDateTime: 2021-02-09T21:58:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/dem-sen-manchin-asks-biden-reverse-keystone-xl-75787426"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/dem-sen-manchin-asks-biden-reverse-keystone-xl-75787426"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/dem-sen-manchin-asks-biden-reverse-keystone-xl-75787426"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_e4cdcf0e473d4aaebb5c8979ad6938c1_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Lawmakers urge Biden to back opioid-treatment measure"
     excerpt: "Bipartisan group calls on president to ‘deliver on your promise’ to expand access in early test of administration’s opioid strategy."
     publishedDateTime: 2021-02-09T23:54:00Z
@@ -588,6 +572,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ES2NP2DGWMI6XOVYOB7YO2OXQU.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Biden orders sanctions against Myanmar after military coup"
+    excerpt: "President Joe Biden is ordering new sanctions against the military regime in Myanmar, taking action after the military staged a coup in the Southeast Asian country and arrested the de facto leader and"
+    publishedDateTime: 2021-02-10T18:45:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-orders-sanctions-myanmar-military-coup-75807398"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-orders-sanctions-myanmar-military-coup-75807398"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-orders-sanctions-myanmar-military-coup-75807398"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_405e6c24686440ca9f5f416de99fca9f_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Biden to meet Republicans on COVID-19 plan in test of bipartisan approach"
     excerpt: "President Joe Biden will meet 10 moderate Republican senators on Monday to discuss their proposal to shrink his sweeping $1.9 trillion U.S. COVID-19 relief package, even as Democrats prepare to push legislation through Congress without Republican support."
@@ -1040,6 +1040,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Dem Sen. Manchin asks Biden to reverse Keystone XL rejection"
+    excerpt: "In one of his first acts as new chairman of the Senate Energy Committee, Democratic Sen. Joe Manchin on Tuesday urged President Joe Biden to reconsider his executive order revoking a presidential permit for the long-delayed Keystone XL oil pipeline,"
+    publishedDateTime: 2021-02-10T06:42:00Z
+    webUrl: "https://www.businessinsider.com/dem-sen-manchin-asks-biden-to-reverse-keystone-xl-rejection-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/dem-sen-manchin-asks-biden-to-reverse-keystone-xl-rejection-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/dem-sen-manchin-asks-biden-to-reverse-keystone-xl-rejection-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Trump's lawyers will argue impeachment trial is unconstitutional after split with old legal team over voter fraud"
     excerpt: "Donald Trump's attorneys are expected to center his impeachment defense on the Constitution and arguments he didn't incite the Capitol riot."
     publishedDateTime: 2021-02-02T08:26:00Z

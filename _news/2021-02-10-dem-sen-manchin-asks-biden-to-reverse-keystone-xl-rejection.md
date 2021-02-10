@@ -1,34 +1,28 @@
 ---
 category: news
 title: "Dem Sen. Manchin asks Biden to reverse Keystone XL rejection"
-excerpt: "The new Democratic chairman of the Senate Energy Committee is urging President Joe Biden to reconsider his executive order revoking a presidential permit for the long-delayed Keystone XL oil pipeline"
-publishedDateTime: 2021-02-09T21:58:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/dem-sen-manchin-asks-biden-reverse-keystone-xl-75787426"
-webUrl: "https://abcnews.go.com/Politics/wireStory/dem-sen-manchin-asks-biden-reverse-keystone-xl-75787426"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/dem-sen-manchin-asks-biden-reverse-keystone-xl-75787426"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/dem-sen-manchin-asks-biden-reverse-keystone-xl-75787426"
+excerpt: "In one of his first acts as new chairman of the Senate Energy Committee, Democratic Sen. Joe Manchin on Tuesday urged President Joe Biden to reconsider his executive order revoking a presidential permit for the long-delayed Keystone XL oil pipeline,"
+publishedDateTime: 2021-02-10T06:42:00Z
+originalUrl: "https://www.businessinsider.com/dem-sen-manchin-asks-biden-to-reverse-keystone-xl-rejection-2021-2"
+webUrl: "https://www.businessinsider.com/dem-sen-manchin-asks-biden-to-reverse-keystone-xl-rejection-2021-2"
+ampWebUrl: "https://www.businessinsider.com/dem-sen-manchin-asks-biden-to-reverse-keystone-xl-rejection-2021-2?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/dem-sen-manchin-asks-biden-to-reverse-keystone-xl-rejection-2021-2?amp"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_e4cdcf0e473d4aaebb5c8979ad6938c1_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "Biden set to accept more refugees after years of Trump restrictions"
@@ -574,6 +568,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ES2NP2DGWMI6XOVYOB7YO2OXQU.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Biden orders sanctions against Myanmar after military coup"
+    excerpt: "President Joe Biden is ordering new sanctions against the military regime in Myanmar, taking action after the military staged a coup in the Southeast Asian country and arrested the de facto leader and"
+    publishedDateTime: 2021-02-10T18:45:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-orders-sanctions-myanmar-military-coup-75807398"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-orders-sanctions-myanmar-military-coup-75807398"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-orders-sanctions-myanmar-military-coup-75807398"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_405e6c24686440ca9f5f416de99fca9f_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Biden to meet Republicans on COVID-19 plan in test of bipartisan approach"
     excerpt: "President Joe Biden will meet 10 moderate Republican senators on Monday to discuss their proposal to shrink his sweeping $1.9 trillion U.S. COVID-19 relief package, even as Democrats prepare to push legislation through Congress without Republican support."
@@ -1174,6 +1184,6 @@ related:
         height: 800
         isCached: true
 
-secured: "OWRAQDMDGy6XCJeX2iqs0zomrakRe1BOA1Y9vsrNYI3S62FdRxotYDanqnQQ3Hkjj4FYCTTJGZMjwJPnkeUyWBCxYofYRtdhLJgV7bw/Lp8YFp/u3VntJgNEzeeR5PDehmTesBtChKQpffAyj1Vdy3C+zXlUeEvZNQnmwUzyo6WBa/1MOWiEJY7C1k4IhyhaDpabB18630GrSuFh3qKQTmAU+kAc1Y2aBHid7LozPqWInGVle9iD72/b6sb4wwHmouMCwbxG4TEonze62HEooMctReoF5mSq0ENb3TUFg8NGy74gzBAXMw4dfaBKgqo+BlT/xi8A3u3CA9us9zUYiN6tOBw0aALwLVGkZmiKg1ZW/p8SZqT3NWuwjIwtgbwh5HfsuUWZarDofBNYhEvV7yUs+b6qRYhcmO06Mp8pP9fGnd8OY/nz6T2wjAieXpPGFUBiVlBB/PyaerrLwhjNroHNJsqb4+NbzuU3YjCSifAEvVAapuBltYTi1ebh3+ir35Bw7I/GifyY17wpqKnvRw==;LwYNcmT14ffHeEV3Ce3P+g=="
+secured: "a5KWb+woWqOLyRsEySEyJJRQEbGGbtwHYvo8WgDPr/ZBi9hI/SJ8xNLPhOrZYoNEt/vhuUoJMwuMkpVF45PlHk/kcREuJ/0LjZsok5c4L2WsRCjbYpxuvIq3NCLuhFPsRkJ9j9Yj78f6C37k9gjk+D1bhSy3hgYA/bsgDBEcVwqxq57VpWb1q56fMqY2E8pxFGtgWEeuMF7T97zZeLuGfYV7QN2BlvCD27QHOoFLQNC9yHgA6SoZx9rhQfOG9RzKb1VnGHI32zRByoZPTlTp3JK27RdM4OlPpyzrEMPFNCnQrnrCqDz4h1R8PQzORUjlE/UdwxxKyTqSVDru4KSQjcKLc1M9ZcAM3UARH4BjkMY=;Bf/QU1Ezc4oNrdnvTSCRrA=="
 ---
 

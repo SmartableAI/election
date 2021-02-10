@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Ken Starr says Trump’s second impeachment 'unconstitutional' and sets 'dangerous precedent'"
+    excerpt: "Former independent counsel Ken Starr says the impeachment trial of former President Donald Trump is an \"unconstitutional process\" and sets a \"very dangerous precedent\" because Trump has already left office."
+    publishedDateTime: 2021-02-10T18:27:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JoPvlIlvUcI/ken-starr-trumps-second-impeachment-unconstitutional-process"
+    ampWebUrl: "https://www.foxnews.com/politics/ken-starr-trumps-second-impeachment-unconstitutional-process.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ken-starr-trumps-second-impeachment-unconstitutional-process.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aca0cd36-13d5-400a-a98b-37d1e4bafa56/22e959fc-1526-4be6-ae2b-0ac2f2cc43f4/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "SgGRxmiP6PhHNMu+0bvMC4kI5ImeD7f/Zp3SQwQxu5HJEDmiI7PCmOkkPr1ZFRn+ogLymNbJFlSu3rkIsTBRD4eHKDyVWwxQMxnlIh3Md32pSpB+B1Fy9E/ItOnQvquhxiyi2spnUC2W0sPOcj166n1WytWYXvkNZtpTlDRi859nEcAnrOiOqzipgvM0Qc8UgJYR7zOGDXa5x9fMAVQQbXGk+hie8UyGwJKw3lYEOm2VaA2fCh0ZWRfQieKNY1ICMFMSDhuvNip5vu9Z4D6e2EEUmSjIYIsfv7+elkpBu39oZzYRMvcCPVuY24pCd+RmNq+bGU7BsGwUI71d4VrSdDTnIG3JRyJRQ0TzfKprEDQ=;IYdEV3x9JhwDqrS7lqd/7w=="
 ---
