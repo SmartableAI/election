@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/health/pro-trump-gop-chair-steps-down
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/pro-trump-gop-chair-steps-down-in-ohio-may-seek-senate-seat/2021/02/05/5508d346-67d9-11eb-bab8-707f8769d785_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 120
     images:
       - url: "https://d.newsweek.com/en/full/1729167/us-capitol-building.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "GOP Senator Mike Lee Suggests Trump Deserves Second Chance: 'Everyone Makes Mistakes'"
+    excerpt: "\"Everyone makes mistakes. Everyone's entitled to a mulligan once in a while,\" Sen. Mike Lee (R-Utah) said Tuesday."
+    publishedDateTime: 2021-02-10T02:46:00Z
+    webUrl: "https://www.newsweek.com/gop-senator-mike-lee-suggests-trump-deserves-second-chance-everyone-makes-mistakes-1568091"
+    ampWebUrl: "https://www.newsweek.com/gop-senator-mike-lee-suggests-trump-deserves-second-chance-everyone-makes-mistakes-1568091?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/gop-senator-mike-lee-suggests-trump-deserves-second-chance-everyone-makes-mistakes-1568091?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 118
+    images:
+      - url: "https://d.newsweek.com/en/full/1730167/sen-mike-lee-donald-trump-second-chance.jpg"
         width: 2500
         height: 1667
         isCached: true

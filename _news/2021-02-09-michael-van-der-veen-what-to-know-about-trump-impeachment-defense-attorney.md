@@ -287,6 +287,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump impeachment trial's six most interesting first-day moments"
+    excerpt: "After four hours of emotional testimony and bitter debate, Day One of the Trump impeachment trial has drawn to a close in the Senate. "
+    publishedDateTime: 2021-02-10T01:33:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3AcH57Jdmp0/trump-impeachment-trials-6-most-interesting-first-day-moments"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-trials-6-most-interesting-first-day-moments.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-trials-6-most-interesting-first-day-moments.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b016701f-abfc-4703-b1ad-7dd910b4ccf5/30862321-290f-47b6-8601-f74fae38c072/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "White House dismisses questions about Biden son-in-law's COVID-19 investments"
     excerpt: "The White House dismissed complaints of conflicting interest Tuesday regarding the president’s son-in-law’s investments in the COVID-19 response. "
     publishedDateTime: 2021-02-09T19:59:30Z

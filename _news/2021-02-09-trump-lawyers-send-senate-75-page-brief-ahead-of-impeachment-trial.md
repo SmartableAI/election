@@ -284,6 +284,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump impeachment trial's six most interesting first-day moments"
+    excerpt: "After four hours of emotional testimony and bitter debate, Day One of the Trump impeachment trial has drawn to a close in the Senate. "
+    publishedDateTime: 2021-02-10T01:33:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3AcH57Jdmp0/trump-impeachment-trials-6-most-interesting-first-day-moments"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-trials-6-most-interesting-first-day-moments.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-trials-6-most-interesting-first-day-moments.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b016701f-abfc-4703-b1ad-7dd910b4ccf5/30862321-290f-47b6-8601-f74fae38c072/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Michael van der Veen: What to know about Trump impeachment defense attorney"
     excerpt: "The pre-trial brief filed by former President Donald Trump's defense team had one extra name on it besides the two widely-reported attorneys leading his impeachment defense in the Senate: Michael T. van der Veen. "
     publishedDateTime: 2021-02-09T20:00:51Z

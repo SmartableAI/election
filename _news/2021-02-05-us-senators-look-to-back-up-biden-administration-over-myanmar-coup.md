@@ -281,6 +281,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden laser-focused on pushing his agenda as Senate starts impeachment trial"
+    excerpt: "The president has urged the Senate to walk and chew gum at the same time. Biden works to gain support for COVID-19 relief bill As the historic, second Senate impeachment trial of former President Donald Trump gets underway,"
+    publishedDateTime: 2021-02-10T01:27:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-laser-focused-pushing-agenda-senate-starts-impeachment/story?id=75776612"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 102
+    images:
+      - url: "https://s.abcnews.com/images/Politics/biden-harris-rt-rc-210209_1612901217476_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
 
 secured: "5NWegf0Q8QbBo3Bli+wTUiO5gipipNeRGybhRPOh6o4hEYRbYiacwYyta5zaNsXVTeRwXzccUUOtr474+JTL3yWtywiteep6mQP5n2Pfqbmx3Q3CkPMlgOBYV4FbYDfNPBLKMNJaFHDByz6j7tyzLZ/C5GabTEoDnkk221mw1pvV7it0wZ/cZxqBUlKT+jgR+s4/er/G4jWHM6qlAHGsmQd+H7zXzgKHqo6R9EDlgTT65LktVPTmls86R6bBNtgLNWVKoZBERT8jywNSz9NuTK/hxb1ngXiD/c3pc/72a2CfYh0OW7CUlQcHyrlQe3z/L4Ufv26XbvBAhbHJJ9fGfEqr2V61aQwSmgVj33GW4kHR3r+hDPA6Cn5hflheqUsNgfP9MG/ckvGUNtiASLt5c35QQKX2/XC2P4kLAO+JCFZ8vGgpaNiiLfyfSk3UPWykpBpa1bhyMcaOj7FNJjyURU+w1NyAw90imIJoZcRJwNJfh27oCcknpBV26a4bM9f0mehxgZgE0cSmPttFbgsoxA==;IzLeq6WhIARJwx7jRjXtPw=="
 ---

@@ -143,6 +143,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden administration asks Trump-appointed U.S. attorneys to resign — but not Durham"
+    excerpt: "The Biden administration request won't apply to John Durham, investigating the Russia inquiry, or David Weiss, overseeing the Hunter Biden inquiry."
+    publishedDateTime: 2021-02-10T02:23:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/09/biden-administration-ask-trumps-u-s-attorneys-resign-doj/4448248001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4448248001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4448248001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 134
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/05/14/USAT/574db29e-bd46-4011-b068-15436aae2364-A06_DURHAM_26_A6.JPG?auto=webp&crop=1301,740,x0,y119&format=pjpg&width=1200"
+        width: 1200
+        height: 683
+        isCached: true
   - title: "Atlanta U.S. attorney, appointed by Trump amid post-election pressure campaign, resigns"
     excerpt: "The federal prosecutor tapped by President Donald Trump to lead the Atlanta U.S. attorney’s office during Trump’s failed bid to overturn the election has resigned from that post, a spokesman confirmed Monday."
     publishedDateTime: 2021-02-01T23:07:00Z
@@ -991,6 +1007,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "GOP senator flips on impeachment trial, rips Trump lawyers"
+    excerpt: "Republican Sen. Bill Cassidy of Louisiana joined Democrats in voting against ending Donald Trump’s impeachment trial, a surprise reversal"
+    publishedDateTime: 2021-02-10T02:00:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/gop-senator-flips-impeachment-trial-rips-trump-lawyers-75789977"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/gop-senator-flips-impeachment-trial-rips-trump-lawyers-75789977"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/gop-senator-flips-impeachment-trial-rips-trump-lawyers-75789977"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_0586903582aa4d5abed3af4e9bef5779_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Managers present dramatic new video of mob at Trump impeachment trial"
     excerpt: "House impeachment managers showed a dramatic new video of the mob storming the Capitol in the opening minutes of President Trump's impeachment trial, as Democrats look to make the case that Trump must"
     publishedDateTime: 2021-02-09T18:50:00Z
@@ -1374,6 +1406,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SEJA6DDE5II6XCDNKJSNJTVUNU.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Donald Trump’s second impeachment trial opens in the Senate, first for an ex-president"
+    excerpt: "Donald Trump’s second impeachment trial opens in the Senate, first for an ex-president. Copyright 2021 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed without permission."
+    publishedDateTime: 2021-02-09T23:04:00Z
+    webUrl: "https://www.washingtonpost.com/politics/donald-trumps-second-impeachment-trial-opens-in-the-senate-first-for-an-ex-president/2021/02/09/3bab95b6-6b01-11eb-a66e-e27046e9e898_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/donald-trumps-second-impeachment-trial-opens-in-the-senate-first-for-an-ex-president/2021/02/09/3bab95b6-6b01-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/donald-trumps-second-impeachment-trial-opens-in-the-senate-first-for-an-ex-president/2021/02/09/3bab95b6-6b01-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 117
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Multiple attorneys no longer expected on Trump's impeachment defense team as trial nears"
     excerpt: "About a week before his Senate trial, former President Donald Trump has no announced legal team and at least five attorneys who were expected to help lead the team are no longer part of it. The remarkable last-minute shifts add fresh uncertainty over Trump's legal strategy and highlight the struggle the former president has had in corralling a legal team after he became the first president in U."
@@ -1841,6 +1889,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "As it happened: Senate votes to go ahead with Trump trial"
+    excerpt: "Donald Trump's impeachment trial will go ahead in the US Senate after a vote declaring it constitutional; He is accused of inciting his supporters ahead of a deadly riot"
+    publishedDateTime: 2021-02-10T02:11:00Z
+    webUrl: "https://www.bbc.com/news/live/world-us-canada-55996898"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 105
+    images:
+      - url: "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.1.0/bbc_news_logo.png"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "House managers deliver Trump's impeachment article"
     excerpt: "House managers have walked the impeachment article for former President Donald Trump’s trial to the Senate. The managers plan to lay out a “devastating” case that is similar to a criminal prosecution in Trump’s second impeachment trial."
     publishedDateTime: 2021-02-09T18:41:00Z
@@ -1868,6 +1930,20 @@ related:
       - url: "https://media.npr.org/assets/img/2021/02/09/gettyimages-1231048931_wide-7d6c21ab77a442d4b4b8251a192dd05ac0516801.jpg?s=1400"
         width: 1400
         height: 787
+        isCached: true
+  - title: "Trump attorneys display first video evidence at impeachment trial"
+    excerpt: "During the impeachment trial on Feb. 9, Trump attorney David I. Schoen presented a timeline of Democrats calling for the impeachment of former president Donald Trump starting in 2017."
+    publishedDateTime: 2021-02-10T02:51:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/trump-attorneys-display-first-video-evidence-at-impeachment-trial/2021/02/09/e30be419-5b78-49d2-9c41-7155d482484e_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/02-09-2021/t_bad8d3c2d5d8436db062230f578a745f_name_still.jpg&w=1080"
+        width: 1080
+        height: 608
         isCached: true
   - title: "Stimulus package and Trump impeachment divide lawmakers ahead of Senate trial"
     excerpt: "On Feb. 7, lawmakers and members of President Biden's Cabinet prepared for a week packed with the start of a second impeachment trial for former president Donald Trump and negotiations over coronavirus relief funds."

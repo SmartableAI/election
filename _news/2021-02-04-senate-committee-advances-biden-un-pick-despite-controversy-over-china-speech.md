@@ -143,6 +143,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "US Attorney who prosecuted Antifa suspects will resign at request of Biden admin"
+    excerpt: "Oregon U.S. Attorney Billy Williams, a Trump-appointee who prosecuted more Antifa suspects than any other, is among many federal prosecutors who will resign from their positions at the behest of the Biden administration."
+    publishedDateTime: 2021-02-10T01:42:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/b74Gi0MkSmA/us-attorney-billy-williams-antifa-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/us-attorney-billy-williams-antifa-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/us-attorney-billy-williams-antifa-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Billy-Williams-oregon-GETTY.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Manchin pens letter to Biden asking him to reverse termination of Keystone XL pipeline"
     excerpt: "Sen. Joe Manchin wrote a letter to President Biden Tuesday asking him to rethink his executive order revoking the Keystone XL pipeline permit. "
     publishedDateTime: 2021-02-09T22:34:28Z

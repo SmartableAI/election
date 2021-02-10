@@ -159,6 +159,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump lawyer presses for former President's full-time Mar-a-Lago residency"
+    excerpt: "Attorneys for former President Donald Trump were defending him not only on the floor of the Senate on Tuesday in his second impeachment trial, but also in Palm Beach, Florida, at a town council meeting.\n    \n"
+    publishedDateTime: 2021-02-10T02:05:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_ebjNKSgQmw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/09/politics/mar-a-lago-court-trump-residency/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/09/politics/mar-a-lago-court-trump-residency/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209101030-mar-a-lago-resort-2018-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "House impeachment managers request former President Trump's testimony at trial"
     excerpt: "The House impeachment managers are seeking former President Donald Trump's testimony before or during his Senate impeachment trial, making the request in a letter Wednesday that raises the stakes of the trial scheduled to begin next week.\n    \n"
     publishedDateTime: 2021-02-04T18:57:13Z
@@ -462,6 +478,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/02/08/us/politics/08dc-what-to-watch/08dc-what-to-watch-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Fact checking second Senate impeachment trial of Donald Trump Day One"
+    excerpt: "The debate at Donald Trump’s second Senate impeachment trial centered around the constitutionality of trying a president for impeachment after leaving office. NBC News’ Jane Time separates fact from fiction."
+    publishedDateTime: 2021-02-10T02:56:00Z
+    webUrl: "https://www.nbcnews.com/now/video/fact-checking-second-senate-impeachment-trial-of-donald-trump-day-one-100779077891"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo100779077891"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo100779077891"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202102/1612925665829_ott_now_fc_timm_impeach_210209_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Trump's second impeachment trial: Day 1"
     excerpt: "The second impeachment trial of former President Trump has just begun in the Senate. Senators will vote shortly on the rules agreed upon by leadership to govern the trial. Trump is the only US President to have ever been impeached twice."

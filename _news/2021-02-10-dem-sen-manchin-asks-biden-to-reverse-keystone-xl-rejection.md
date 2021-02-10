@@ -809,6 +809,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "'I don't want to come back:' As Trump trial opens, Democrat recalls daughter's fear during riot"
+    excerpt: "The leader of the Democratic team prosecuting Donald Trump's impeachment trial welled up in tears on Tuesday as he recalled his 24-year-old daughter and son-in-law hiding in fear in the U.S. Capitol during the rampage by the former president's supporters."
+    publishedDateTime: 2021-02-10T02:56:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump-impeachment-raskin-idUKKBN2A92ZD"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2A92ZD"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2A92ZD"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 113
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210209&t=2&i=1550948890&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH181S5"
+        width: 968
+        height: 545
+        isCached: true
   - title: "Biden: Trump should no longer receive intelligence briefings due to 'erratic behavior'"
     excerpt: "In a Feb. 5 clip from an interview with “CBS Evening News with Norah O'Donnell,” President Biden said that he thinks that “there is no need” for former president Donald Trump to continue receiving intelligence briefings."
     publishedDateTime: 2021-02-06T06:02:00Z
@@ -1080,6 +1096,6 @@ related:
         height: 847
         isCached: true
 
-secured: "yT162OzKnFsup1i0mzG9j5ti1SLLS+tSLXsg9YCbJkyw1pYe/Qsvy82209RphUjh0tfQEU13Fv63lE22WaaFFDHPZo9z3OREw4o8iWf9dVZr3hx5DXIdhHvW+Z2mgicyYNFqWZmS9Lc9ZMzOAWu3Q2B/wS5IDFMwk/jLAwJa9GsnI8OK9cCUgOSnbxXlJbeOoCu+sKGPa1vYGiz6VEXUDZL1yDBkbeZRuaVkxFpEbVK2pq7Mv3obl1iJJt7n4QrPgriMtGROyXx3qQwUic0ZLPdzbPyC7IylTHC2MlpOedmWtah4ADEJLGBc02WvRdhw2198ZnJ2K8h/67+tmeKhcBifMm9XwUn3ZQfUwLoA1UY=;MIsZWjTrSV5bL758CduvVA=="
+secured: "gAV5ZPMuP36NztEQjWXlDP7misg0ngOx83L6RYhsm4rjNA7IqiyNvRn5NB296NVHecpXGWQvDm47XhUGk/8L5Eu7QmMAEzMBEbHT9XAriH62ufcMXFsj9chhpMA3hy72rJC0m3uRp5ZZ3jxtOMyV1ibLpUar0BeFWusIQW0QoS6GsE7KnZBtxAqz0PB6TmGYTJxtbnhQaY+T13/PFynEwlat2bYVGY2gdaNQsZaiDHmqxgFriOMVP3Er5DsKfCo/xtbi6MWEdwwoEGE7j3MqwS9HajyKwKt0TTluDc/vTgwRfqMwUiYTCSLdRYXBXKVy0ajSNFbe+1waEitr3EgZbUh7snGK5Mb8ONBzT6sta9GzQz9yuhPOqMXox5k0oAh/uq9arPjT8wK8F/7GaWYOlBJl/j9HCbEcSKbUWhom6hZzOXVQ6L/xWjjHLSnnasXxk81c4gsGWSLGMCx44tRX+iGSF13TKVtmWYuZ5yMvHT6EPzxwbquv0a82Upggc4rUBYt4qfD1Pre9TpX1S/XiYw==;CjQIAazurn9sWUPqanGlJQ=="
 ---
 

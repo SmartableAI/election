@@ -79,6 +79,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "GOP Senator Mike Lee Suggests Trump Deserves Second Chance: 'Everyone Makes Mistakes'"
+    excerpt: "\"Everyone makes mistakes. Everyone's entitled to a mulligan once in a while,\" Sen. Mike Lee (R-Utah) said Tuesday."
+    publishedDateTime: 2021-02-10T02:46:00Z
+    webUrl: "https://www.newsweek.com/gop-senator-mike-lee-suggests-trump-deserves-second-chance-everyone-makes-mistakes-1568091"
+    ampWebUrl: "https://www.newsweek.com/gop-senator-mike-lee-suggests-trump-deserves-second-chance-everyone-makes-mistakes-1568091?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/gop-senator-mike-lee-suggests-trump-deserves-second-chance-everyone-makes-mistakes-1568091?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 118
+    images:
+      - url: "https://d.newsweek.com/en/full/1730167/sen-mike-lee-donald-trump-second-chance.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Most GOP Senators Would Convict Trump Via Secret Ballot, Hawaii Sen. Mazie Hirono Says"
     excerpt: "Senator Mazie Hirono, a Hawaii Democrat, said that \"most\" Republican senators would vote to convict former President Donald Trump of inciting the attack on the U.S. Capitol if they were given the opportunity to use a secret ballot."
     publishedDateTime: 2021-02-09T16:45:00Z

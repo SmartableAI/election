@@ -809,6 +809,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "'I don't want to come back:' As Trump trial opens, Democrat recalls daughter's fear during riot"
+    excerpt: "The leader of the Democratic team prosecuting Donald Trump's impeachment trial welled up in tears on Tuesday as he recalled his 24-year-old daughter and son-in-law hiding in fear in the U.S. Capitol during the rampage by the former president's supporters."
+    publishedDateTime: 2021-02-10T02:56:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump-impeachment-raskin-idUKKBN2A92ZD"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2A92ZD"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2A92ZD"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 113
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210209&t=2&i=1550948890&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH181S5"
+        width: 968
+        height: 545
+        isCached: true
   - title: "Biden: Trump should no longer receive intelligence briefings due to 'erratic behavior'"
     excerpt: "In a Feb. 5 clip from an interview with “CBS Evening News with Norah O'Donnell,” President Biden said that he thinks that “there is no need” for former president Donald Trump to continue receiving intelligence briefings."
     publishedDateTime: 2021-02-06T06:02:00Z
