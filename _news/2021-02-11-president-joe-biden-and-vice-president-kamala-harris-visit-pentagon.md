@@ -3,8 +3,8 @@ category: news
 title: "President Joe Biden and Vice President Kamala Harris visit Pentagon"
 excerpt: "President Joe Biden and Vice President Kamala Harris greet Joint Chiefs Chairman Gen. Mark Milley and Secretary of Defense Lloyd Austin at the Pentagon, in Arlington, Virginia, on Wednesday, February 10,"
 publishedDateTime: 2021-02-10T19:40:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/258e85c6277f7e88599f1428b2a19d2a/President-Joe-Biden-and-Vice-President-Kamala-Harris-visit-Pentagon/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/258e85c6277f7e88599f1428b2a19d2a/President-Joe-Biden-and-Vice-President-Kamala-Harris-visit-Pentagon/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/c34f6ceb4e4686d7e5908afdbe2f0ef3/President-Joe-Biden-and-Vice-President-Kamala-Harris-visit-Pentagon/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/c34f6ceb4e4686d7e5908afdbe2f0ef3/President-Joe-Biden-and-Vice-President-Kamala-Harris-visit-Pentagon/"
 type: article
 quality: 70
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/258e85c6277f7e88599f1428b2a19d2a/PENTAGON-BIDEN.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/c34f6ceb4e4686d7e5908afdbe2f0ef3/PENTAGON-BIDEN.jpg"
     width: 650
     height: 433
     isCached: true
@@ -877,6 +877,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Ascension of Kamala Harris inspires visual tribute"
+    excerpt: "It’s about the longing for beauty in our culture (due to Covid-19 and the closure of arts venues) and the hopefulness of the election, with Kamala Harris as the first woman at that level,” says Rockwell."
+    publishedDateTime: 2021-02-10T17:17:00Z
+    webUrl: "https://www.timesunion.com/entertainment/article/Coronation-of-Kamala-bold-big-and-timely-15934936.php"
+    ampWebUrl: "https://www.timesunion.com/entertainment/amp/Coronation-of-Kamala-bold-big-and-timely-15934936.php"
+    cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/entertainment/amp/Coronation-of-Kamala-bold-big-and-timely-15934936.php"
+    type: article
+    provider:
+      name: Times Union
+      domain: timesunion.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Shades of Rocky: See Vice President Kamala Harris run up Lincoln Memorial steps"
     excerpt: "Video of Vice President Kamala Harris jogging up and down the steps of the Lincoln Memorial has gone viral. See coverage on HuffPost and TMZ."
     publishedDateTime: 2021-02-10T16:20:00Z
@@ -967,6 +983,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/12/09/PPHX/cb204f9d-b642-4c95-a432-fcaf637c5559-What_Change_America_07A.JPG?auto=webp&crop=4606,2591,x0,y285&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "US President Joe Biden and US Vice President Kamala Harris visit the Pentagon"
+    excerpt: "President Joe Biden (L) listens to Vice President Kamala Harris deliver remarks to Department of Defense personnel at the Pentagon in Arlington, Virginia, on Wednesday February 10, 2021. Photo by Mich"
+    publishedDateTime: 2021-02-10T22:03:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/dbc5fe7d94d7073bcc2e5e75d97b0aea/US-President-Joe-Biden-and-US-Vice-President-Kamala-Harris-visit-the-Pentagon/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 67
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/dbc5fe7d94d7073bcc2e5e75d97b0aea/PENTAGON-BIDEN.jpg"
+        width: 650
+        height: 433
         isCached: true
   - title: "Vice President Kamala Harris looks to Arizona for public support on coronavirus aid bill"
     excerpt: "\"If we don't pass this bill ... we know more people are going to die in our country,\" Vice President Kamala Harris told The Arizona Republic."
@@ -1063,6 +1093,20 @@ related:
       - url: "https://www.mercurynews.com/wp-content/uploads/2021/02/brown_harris_list.jpg?w=940&h=631"
         width: 940
         height: 631
+        isCached: true
+  - title: "How Joe Biden’s first executive orders compare with past presidents"
+    excerpt: "The total number of presidential directives signed by Biden during his first two days in office is greater than the number signed by Trump and Obama over the same period. The available record ..."
+    publishedDateTime: 2021-01-27T22:12:00Z
+    webUrl: "https://www.politifact.com/factchecks/2021/jan/27/marco-rubio/how-joe-bidens-first-executive-orders-compare-past/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 55
+    images:
+      - url: "https://static.politifact.com/politifact/rulings/meter-true.jpg"
+        width: 438
+        height: 392
         isCached: true
   - title: "Kamala Harris administers oath to top US diplomat"
     excerpt: "America’s new top diplomat took the helm of the State Department on Wednesday with a vow to rebuild the ranks of the foreign service and rely on its expertise as"
@@ -1250,6 +1294,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "IBFgnTGZQc813zhh7l9w6n6Z4B16H/E3PlJvgRzImFexgF11w8R2ev7lEU0MdJieKV3BFq/Rq7Vgx+hKKu3psa1aZ0mOdIcNhFZ4L5758x5DidGCvyId4vxi8Zw/kTEsiRZZdoXbMYmJs7/IyvlkJVp2srYiRrNEWaqJr7aIjKS5VmoVwse1dX+mRVSj/ineiSjWaebcr5CF7UbHDwWkE08SjFBOd0yNjcYzHmVMt1Mpbl8e9BTOOyQihCzNYRK4FgcZZhAEi0sAAxDGzLWH5JdjOogLdhrAigKtaY7j8aFKSzDVf3kHJYL/daRmNRuf2YHrrgHFoxSqOG1lu9Ybqf8tIiMpLnt6kSTQVKiyO7o=;//JDN8jnjRM0FGgWW/pMPw=="
+secured: "EHgUP0l4PEE1uj3sjluFKsa2Txsm7leB3NpnaUNMsaY7gO14xmUS1aRgLilpWF7Mg8J3zoVUfHQUyqJXZmCclQoXPAkKzwwPqDxdBEzopLyF7KLEDeLKDXErhCg1WqE0MOP3qZMwAu0U58dSTKR8eM/J4lCYmbMd347aFEGNRFYUGokMbLpH35llsUVIU8WaoM3xNKSBhGQGYtaf3FRlj+w1kFGg55pSpjqKQpyO7u3DjmlnzXo8XOF0A0GyqwITEKYKtCDbMvHEJJCzHNpk8s2QRnwvb1+a/n0Eo4jwyE3Cu08qzozVYRCqKARcdxlTycLji+eTqNrlbEGlkpc/p9fWdUgwp+1QoBgxZs09Bpg=;am9Nl8CRGTM4MHNaF9Id/A=="
 ---
 

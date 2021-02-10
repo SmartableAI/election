@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-calif-woman-pep-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-calif-woman-pep-talk-weekly-address-revival-75728273"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -63,6 +63,17 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden taps Julie Su, top Calif. labor official, for deputy labor secretary"
+    excerpt: "President Joe Biden on Wednesday nominated Julie Su, the secretary of California's Labor and Workforce Development Agency, for the number-two spot at the U.S. Department of Labor, amid criticism by some Republicans and business groups of her oversight of the state's"
+    publishedDateTime: 2021-02-10T22:18:00Z
+    webUrl: "https://www.reuters.com/article/employment-dol-idUSL1N2KG33R"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2KG33R"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2KG33R"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 103
 
 secured: "x3pbaR6D+BlFcGXcdx/ARaEI97D4+xyw2k7hZeb/ZrDFliqcLgH3Tg2ycAadEJNQx+L4SidTRJI9ryvhYwk8qnk0/1RJm43+hmQ32xOaxvi+4ldUrDFQnVm0CBzTW/PMWCb+ilxQipk0zgkxUfJ5TxBKGVoZ3PvhDsvds+VSBPPuEw1BULF1CY6gmwWHdPPS2Mt+RYmvV9NNBulFfGp/EC2yz/mGd8d1TVgbJ6EhTzO/i5E0NZVTUoUQaoLxj7VZZodn14fW787+Naixnfpp4pI4uINt6q24BnZ9LBvD/foMSme386lYGGRbSOSixVVjjlC5eCVTe8s044ZwDSrGV0vGCouprBJHxX2obH4pgjuWkoQJ2/rMJ5M2ZOjZ3c+2gGTyQ87uHuzhFWBcWFror9FZBaA0jD8r+yK/4Sm3pz3IZ8Vh5OvoWyYMuYQ9uj5s1VyDEvrfuRemY/cuv683nJVzUcf5u7VG6rs/pFynV32D48pRniyvmBdQJwFKqQMWhTlR7+fKv2nhxILGj9hPAQ==;kRT/vr9GM8dmnozpLdJLdw=="
 ---

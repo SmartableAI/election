@@ -143,6 +143,22 @@ related:
         width: 1200
         height: 683
         isCached: true
+  - title: "Georgia prosecutors investigate election interference after Trump's pressure campaign"
+    excerpt: "Georgia attorneys requested that election officials preserve records for a criminal investigation after Donald Trump's efforts to tilt the vote count."
+    publishedDateTime: 2021-02-10T22:09:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/02/10/georgia-prosecutors-investigating-election-meddling-after-trump-calls/6703517002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6703517002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6703517002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 133
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/04/USAT/e217f3c8-cc2d-433b-b7a9-09e984ce98a3-VPC_TRUMP_PRESSURES_GA_SEC._OF_STATE_ABOUT_VOTES_DESK_THUMB.jpg?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Pence plans to form political group as he moves beyond time with Trump and Capitol riot"
     excerpt: "Former Vice President Mike Pence is beginning to build a political future without Donald Trump, including making plans to form a policy-focused political committee that would help him maintain a relationship with donors,"
     publishedDateTime: 2021-01-31T13:59:00Z
@@ -190,6 +206,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2019/07/10/PSAT/a955008a-3f90-44c9-a4b7-49fbc2d7c18e-Carrizo_Springs_population_sign.JPG?auto=webp&crop=4031,2268,x0,y603&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Georgia prosecutor opens criminal investigation into Trump's \"attempts to influence\" election"
+    excerpt: "Sources confirmed the prosecutor is requesting documents related to a recorded January 2 phone call in which Mr. Trump asked, \"What are we going to do here, folks? I only need 11,000 votes.\""
+    publishedDateTime: 2021-02-10T18:52:00Z
+    webUrl: "https://www.cbsnews.com/news/georgia-trump-election-call-investigation-brad-raffensperger/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/georgia-trump-election-call-investigation-brad-raffensperger/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/georgia-trump-election-call-investigation-brad-raffensperger/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 129
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/02/10/a1cfd5bf-eb31-49b0-bc34-b2bc8230c056/thumbnail/1200x630/2ed8080ed20d71c447f13bbc8db5ca68/fani-willis.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Historians rail against Trump administration's 1776 Commission"
     excerpt: "Experts call report released by former administration a ‘puerile, politically reactionary document’"
@@ -2066,6 +2098,20 @@ related:
         width: 810
         height: 538
         isCached: true
+  - title: "Democrats argue Trump planted seeds of Capitol attack"
+    excerpt: "Top News Democrats argue Trump planted seeds of Capitol attack. Posted . Democrats on Wednesday argued Donald Trump planted the seeds for the deadly attack on the U.S. Capitol lon"
+    publishedDateTime: 2021-02-10T22:18:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVDZ7FROF"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210210&i=OVDZ7FROF&r=OVDZ7FROF&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Legal expert breaks down Day 1 of Trump impeachment trial"
     excerpt: "Former President Donald Trump's defense team lost their bid to halt impeachment trial proceedings on constitutional grounds Tuesday. In a 56-44 vote, Democrats and some Republicans voted to move forward with the former president's trial after debating its jurisdiction."
     publishedDateTime: 2021-02-10T16:34:00Z
@@ -2239,6 +2285,22 @@ related:
       name: Washington Post
       domain: washingtonpost.com
     quality: 80
+  - title: "'Bring out Pence': Managers in Trump impeachment trial unveil video that shows threats from rioters"
+    excerpt: "House prosecutors wielded former President Donald Trump's words against him in arguing he should be convicted of inciting insurrection at the Capitol."
+    publishedDateTime: 2021-02-10T22:48:00Z
+    webUrl: "https://www.jsonline.com/story/news/politics/elections/2021/02/10/impeachment-trial-managers-trump-fueled-rage-capitol-riot/6702506002/"
+    ampWebUrl: "https://amp.jsonline.com/amp/6702506002"
+    cdnAmpWebUrl: "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/6702506002"
+    type: article
+    provider:
+      name: Milwaukee Journal Sentinel
+      domain: jsonline.com
+    quality: 76
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/10/USAT/db879cf3-15b4-4ae2-9f1b-4b09cea635dc-raskin_wide.jpg?auto=webp&crop=1911,1075,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "‘QAnon Shaman' Offers To Testify At Trump's Impeachment Trial"
     excerpt: "A lawyer representing Jacob Chansley, the self-proclaimed \"QAnon Shaman,\" said his client now feels betrayed by former President Donald Trump and is willing to testify at his impeachment trial in the Senate."
     publishedDateTime: 2021-01-29T15:25:00Z

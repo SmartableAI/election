@@ -431,6 +431,38 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump in a 'great mood' as arguments open in Senate impeachment trial: Jason Miller"
+    excerpt: "Former President Donald Trump is \"in a great mood\" as House Democrats present their opening arguments in the Senate impeachment trial, the former president's senior adviser Jason Miller told \"\"America Reports\" Wednesday."
+    publishedDateTime: 2021-02-10T21:44:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vgmXK_VwDRY/trump-in-great-mood-senate-impeachment-trial-jason-miller"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-in-great-mood-senate-impeachment-trial-jason-miller.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-in-great-mood-senate-impeachment-trial-jason-miller.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Scalise: Trump is out of office, but Democrats are 'still infatuated with impeachment'"
+    excerpt: "House Democrats have turned the impeachment trial of former President Donald Trump into a \"Hollywood production,\" House Minority Whip Steve Scalise, R-La., told \"America Reports\" Wednesday."
+    publishedDateTime: 2021-02-10T21:17:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mzMH_3-ye1w/steve-scalise-trump-senate-impeachment-trial"
+    ampWebUrl: "https://www.foxnews.com/politics/steve-scalise-trump-senate-impeachment-trial.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/steve-scalise-trump-senate-impeachment-trial.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6a4d998a-21fe-4ad2-9a23-a0e0fc4f9cb7/b0c30d72-9240-499a-926d-ca274080cd30/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump lawyers rail against impeachment trial as ‘political theater’ on eve of proceedings"
     excerpt: "Lawyers for former President Trump on Monday submitted a brief saying that Democrats' effort to convict the president in an impeachment trial after he's left office is \"political theater,\" and that the trial is outside of the Senate's constitutional authority. "
     publishedDateTime: 2021-02-08T15:56:02Z

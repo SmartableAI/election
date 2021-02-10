@@ -1235,6 +1235,22 @@ related:
         width: 821
         height: 545
         isCached: true
+  - title: "Amid calls for unity, President Biden and Republicans don't agree what that looks like"
+    excerpt: "WASHINGTON – President Joe Biden entered the White House calling for unity to meet a convergence of crises, telling Americans that \"politics doesn’t have to be a raging fire\" as he called ..."
+    publishedDateTime: 2021-01-26T17:43:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/26/joe-biden-and-republicans-dont-agree-what-unity-looks-like/6670541002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6670541002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6670541002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/25/USAT/9fdef51e-e789-4520-94dd-a4236d4d57cb-AP21025782104966_2.jpg?auto=webp&crop=1023,575,x1,y91&format=pjpg&width=1200"
+        width: 1200
+        height: 674
+        isCached: true
   - title: "Trump's impeachment trial threatens to derail speedy passage of Biden's stimulus package and set up another unemployment cliff"
     excerpt: "A trial next month may drag out the process to enact a relief plan until mid-March when millions of jobless people could lose federal benefits."
     publishedDateTime: 2021-01-25T20:52:00Z
@@ -1656,6 +1672,17 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "In Pentagon Debut, Biden Promises Break From Trump-Era Politicization of Military"
+    excerpt: "President Joe Biden promised he would never politicize the U.S. military as he made his first visit to the Pentagon as commander-in-chief on Wednesday, seeking to draw a contrast with the Trump-era in a far-reaching speech that emphasized diversity in the armed forces."
+    publishedDateTime: 2021-02-10T22:49:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-02-10/in-pentagon-debut-biden-promises-break-from-trump-era-politicization-of-military"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-02-10/in-pentagon-debut-biden-promises-break-from-trump-era-politicization-of-military?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-02-10/in-pentagon-debut-biden-promises-break-from-trump-era-politicization-of-military?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 65
   - title: "Top Republicans Ask Biden for Tougher Response to China Sanctions on Trump Officials"
     excerpt: "The Biden administration faced pressure from Republican lawmakers on its second day in office for a more forceful response to Beijing's announcement of sanctions against the architects of former President Donald Trump's tough China policy. As Democrat Joe ..."
     publishedDateTime: 2021-01-21T22:05:00Z

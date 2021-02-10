@@ -3191,6 +3191,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden removes Trump’s Diet Coke button as part of Oval Office overhaul"
+    excerpt: "New U.S. President Joe Biden immediately made some changes after moving into the Oval Office on Wednesday, including removing one of ex-president Donald Trump‘s unique creature comforts ..."
+    publishedDateTime: 2021-01-22T21:36:00Z
+    webUrl: "https://globalnews.ca/news/7592979/joe-biden-donald-trump-diet-coke-button-oval-office/"
+    ampWebUrl: "https://globalnews.ca/news/7592979/joe-biden-donald-trump-diet-coke-button-oval-office/amp/"
+    cdnAmpWebUrl: "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/7592979/joe-biden-donald-trump-diet-coke-button-oval-office/amp/"
+    type: article
+    provider:
+      name: Global News
+      domain: globalnews.ca
+    quality: 70
   - title: "President Joe Biden's Oval Office Now Features a Sweet Photo of Late Son Beau Biden"
     excerpt: "Newly inaugurated President Joe Biden's Oval Office has been redecorated and now includes framed photos showing his family, including late son Beau Biden."
     publishedDateTime: 2021-01-22T02:03:00Z

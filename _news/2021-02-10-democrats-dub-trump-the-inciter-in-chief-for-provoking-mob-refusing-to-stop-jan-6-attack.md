@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/democrats-dub-trump-the-inciter-in-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-dub-trump-the-inciter-in-chief-for-provoking-mob-refusing-to-stop-jan-6-attack.amp"
 type: article
 quality: 164
-heat: 164
+heat: 184
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 640
     height: 320
     isCached: true
+
+related:
+  - title: "Trump War Room fires back at House Dem impeachment managers who used 'fight like hell' rhetoric in the past"
+    excerpt: "The Trump War Room is firing back at the House Democrat Impeachment Managers who were making their case against former President Donald Trump during the opening arguments of impeachment trial."
+    publishedDateTime: 2021-02-10T22:10:00Z
+    webUrl: "https://www.foxnews.com/media/trump-war-room-house-dem-impeachment-managers-fight-hell-rhetoric-past"
+    ampWebUrl: "https://www.foxnews.com/media/trump-war-room-house-dem-impeachment-managers-fight-hell-rhetoric-past.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/trump-war-room-house-dem-impeachment-managers-fight-hell-rhetoric-past.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 117
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/68d1bea9-00de-4ea6-9ed2-ecec7e6ca8c1/af87bdba-c1d7-4788-8577-5cdd7f2e87a2/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "n/Aai8x0wYl3JhkkmZebUyB5sv6SnpRRsUocP0v2sPLZD/2MuR7UxvEU4ApEKEcF86TzGAZiysWHJj+NuWU11aGcW+Z8OQ48TbT7A82MSkKTZl6Y0VMWaAYBCSwL/RiDEwRJQBEBzTGbLF1WdIz3cHECCZM91/Q6HTUJRiCi/kQnAs1lqLkcRr6nPGImAY2lOL0eDA5vixYX8Vqgp1Neb1ByrwCZF/WGBWgXvpwrk80chhYTd7hlO4CZoS9xllGsx34en3R0yxxTXKGQjOaHUmtZEz4+1a0X8/OgpDaXG/GejxL07U7qm+wmidk9szmU+rJv9vPnkcDUNLCALthJ71uu+iVBSDryxfFQvyakaDQ=;Cup/AnMWT+xuNpDXjyNE7w=="
 ---

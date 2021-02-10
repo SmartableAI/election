@@ -63,6 +63,17 @@ related:
         width: 820
         height: 545
         isCached: true
+  - title: "Biden taps Julie Su, top Calif. labor official, for deputy labor secretary"
+    excerpt: "President Joe Biden on Wednesday nominated Julie Su, the secretary of California's Labor and Workforce Development Agency, for the number-two spot at the U.S. Department of Labor, amid criticism by some Republicans and business groups of her oversight of the state's"
+    publishedDateTime: 2021-02-10T22:18:00Z
+    webUrl: "https://www.reuters.com/article/employment-dol-idUSL1N2KG33R"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2KG33R"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2KG33R"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 103
 
 secured: "XvjXqbpEiVGAh7V2mDy2lXOuQsRmFaZdd5zKONimiafZ5qxqzilk5Vj3t4D4sYLBAyD4qn8/QWqAX/eK23s2LWJnvh/kh99uWUBbDDUelzPNQRu+rWgJDSH9TmY4NoHZhxZH4Wc9P7niEw2mEYEKDl3aw2rqqAlgxUe3AhHUrFyfJwyRxy8QE8fnhr3ILfUqjyfDOhjA64kJbvSI5774NEJ1P6hJcxcfmNGqSejeo53ew5r1EvCKURXoOqQ3XWDbHkbSoSD4niRjiEZCmpwL4N0ukR7GcZfHNr083zEhbZ0WmJ1JSqLDojpm/q+yAC0awKhnr7+wL1Xwb/o3B/lUkMP2eWc7yoPen5u/mcDXIkc=;ifMGhy2j0Qf194qWzEBR/g=="
 ---

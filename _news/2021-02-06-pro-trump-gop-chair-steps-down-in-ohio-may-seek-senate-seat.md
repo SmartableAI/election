@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/health/pro-trump-gop-chair-steps-down
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/pro-trump-gop-chair-steps-down-in-ohio-may-seek-senate-seat/2021/02/05/5508d346-67d9-11eb-bab8-707f8769d785_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 325
+heat: 345
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://thehill.com/sites/default/files/trumpdonlad_010521upi_lead.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Live Updates: Senate convenes for Day 2 of Trump impeachment trial"
+    excerpt: "House impeachment managers plan to use \"extraordinary\" footage from Capitol security cameras that has not been made public, aides said."
+    publishedDateTime: 2021-02-10T20:47:00Z
+    webUrl: "https://www.cbsnews.com/live-updates/trump-impeachment-trial-day-2-2021-02-10/"
+    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/trump-impeachment-trial-day-2-2021-02-10/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/trump-impeachment-trial-day-2-2021-02-10/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/10/06393edd-f804-4a64-aa67-f5d55b0b10c2/thumbnail/1200x630/a11b24a137e8555dacc8b56a9297bbd6/screen-shot-2021-02-10-at-3-48-51-pm.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Lisa Murkowski Backs Liz Cheney's Call for GOP to Move On: 'Donald Trump Is Gone'"
     excerpt: "The Alaska senator has said the party is more than the former president, as the Republican lawmakers who voted for impeachment insist they have no regrets."

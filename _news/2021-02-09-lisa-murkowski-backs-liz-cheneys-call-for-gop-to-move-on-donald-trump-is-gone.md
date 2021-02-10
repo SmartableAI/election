@@ -79,6 +79,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Live Updates: Senate convenes for Day 2 of Trump impeachment trial"
+    excerpt: "House impeachment managers plan to use \"extraordinary\" footage from Capitol security cameras that has not been made public, aides said."
+    publishedDateTime: 2021-02-10T20:47:00Z
+    webUrl: "https://www.cbsnews.com/live-updates/trump-impeachment-trial-day-2-2021-02-10/"
+    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/trump-impeachment-trial-day-2-2021-02-10/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/trump-impeachment-trial-day-2-2021-02-10/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/10/06393edd-f804-4a64-aa67-f5d55b0b10c2/thumbnail/1200x630/a11b24a137e8555dacc8b56a9297bbd6/screen-shot-2021-02-10-at-3-48-51-pm.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "GOP Senator Mike Lee Suggests Trump Deserves Second Chance: 'Everyone Makes Mistakes'"
     excerpt: "\"Everyone makes mistakes. Everyone's entitled to a mulligan once in a while,\" Sen. Mike Lee (R-Utah) said Tuesday."
     publishedDateTime: 2021-02-10T02:46:00Z

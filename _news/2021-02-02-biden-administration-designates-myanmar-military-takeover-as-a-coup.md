@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/02/politics/myanmar-state-department
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/02/politics/myanmar-state-department-coup-determination/index.html"
 type: article
 quality: 175
-heat: 495
+heat: 355
 published: true
 
 provider:
@@ -47,70 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden administration will reengage with UN Human Rights Council "
-    excerpt: "The Biden administration will reengage with the United Nations Human Rights Council, Secretary of State Antony Blinken announced Monday -- its latest bid to reverse the policies of the Trump administration and return to a foreign policy with roots in multilateral institutions.\n    \n"
-    publishedDateTime: 2021-02-08T14:45:10Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6--dH0KV0UA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/08/politics/us-reengagement-un-human-rights-council/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/08/politics/us-reengagement-un-human-rights-council/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210204144649-biden-blinken-harris-state-department-0204-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "CNN to host town hall with President Joe Biden"
-    excerpt: "Less than one month after taking office, President Joe Biden will participate in a CNN town hall in Milwaukee, Wisconsin, answering questions from Americans as the nation struggles to contain the coronavirus pandemic and jumpstart a troubled economy.\n    \n"
-    publishedDateTime: 2021-02-09T16:00:13Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JeY-p01wqP8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/09/politics/cnn-town-hall-joe-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/09/politics/cnn-town-hall-joe-biden/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210208160121-joe-biden-210205-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Reopening of schools emerges as complex flashpoint for Biden administration"
-    excerpt: "President Joe Biden's team is promising new guidance on school reopenings next week. But even as more Covid-19 vaccine shots go into arms two and half weeks into his administration, there is growing impatience and frustration among parents about the biggest question looming over their lives: when their"
-    publishedDateTime: 2021-02-06T05:28:22Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TPODyG_kLMQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/06/politics/covid-school-reopenings-biden-cdc-guidance/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/06/politics/covid-school-reopenings-biden-cdc-guidance/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 173
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210205214008-02-biden-0205-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden administration will review deportation of veterans and their families"
-    excerpt: "The Biden administration will review the deportations of veterans and their family members, according to a White House official.\n    \n"
-    publishedDateTime: 2021-02-08T15:24:38Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tSKioYva9d0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/08/politics/veterans-immigration/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/08/politics/veterans-immigration/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 173
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180515120442-white-house-exterior-05-13-2018-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden announces US will sanction Myanmar's military leaders following coup"
     excerpt: "President Joe Biden on Wednesday announced that the United States will sanction Myanmar's military leaders after last week's coup in the country.\n    \n"
     publishedDateTime: 2021-02-10T18:56:01Z
@@ -143,22 +79,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden administration to propose significant increase in refugees admitted to US"
-    excerpt: "The Biden administration is proposing to revise the number of refugees that can be admitted to the United States in fiscal year 2021 to 62,500, a significant increase from the 15,000 cap put in place under former President Donald Trump, according to a report obtained by CNN.\n    \n"
-    publishedDateTime: 2021-02-06T00:33:09Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/A4NCa_yk598/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/05/politics/refugee-cap-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/05/politics/refugee-cap-biden/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 171
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210204111459-12-immigration-file-asylum-seekers-mexico-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden administration takes cautious approach as it touts using Defense Production Act"
     excerpt: "The Biden administration has repeatedly touted its plans to aggressively use the Defense Production Act as it combats the coronavirus pandemic, but behind the scenes, a slower, more painstaking effort is underway.\n    \n"
     publishedDateTime: 2021-01-27T23:34:13Z
@@ -172,22 +92,6 @@ related:
     quality: 168
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210114172307-moderna-covid-vaccine-0112-massachusetts-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden administration to use Defense Production Act for Pfizer supplies, at-home tests and masks"
-    excerpt: "The Biden administration is making use of the Defense Production Act in three key areas, the top official tasked with supplies announced Friday, including equipment and supplies for Pfizer vaccine production, an increase in at-home or point of care testing, and personal protective equipment, particularly"
-    publishedDateTime: 2021-02-05T17:20:00Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KSzE2Ku-ppk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/05/politics/defense-production-act-pfizer-masks/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/05/politics/defense-production-act-pfizer-masks/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 163
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210129112614-double-mask-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -254,22 +158,6 @@ related:
       - url: "https://media3.s-nbcnews.com/i/newscms/2021_04/3445907/210128-central-valley-modified-correctional-facility-geo-group-exterior-2019-ac-1023p_aaedf1a26689356ce88b2c83acaacee0.jpg"
         width: 2500
         height: 1667
-        isCached: true
-  - title: "9-year-old boy begs Biden administration to stop his father's deportation to Guatemala"
-    excerpt: "\"They're choosing to keep a parent and child separated that they had already separated before and traumatized,\" said the attorney for Fernando Ochoa's dad."
-    publishedDateTime: 2021-02-04T00:05:00Z
-    webUrl: "https://www.nbcnews.com/news/latino/9-year-old-boy-begs-biden-administration-stop-his-father-n1256640"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1256640"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1256640"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 127
-    images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2021_05/3447378/210203-2x1-ubaldo-ochoa-lopez-ew-155p_d44262e2038a7807bc23a982a47c2d73.jpg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Joe Biden Cabinet members: List of confirmations so far"
     excerpt: "President Joe Biden has assembled, by some accounts, a history-making Cabinet: If all members are approved, it will be the most diverse array of presidential counselors ever. But can he get them confirmed by the Senate?"

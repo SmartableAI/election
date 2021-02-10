@@ -303,22 +303,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Jamie Raskin: Trump's impeachment defense amounts to 'absurd constitutional arguments'"
-    excerpt: "Rep. Jamie Raskin, the lead impeachment manager, told House Democrats on Wednesday that former President Donald Trump's legal filing responding to the House's impeachment amounted to \"absurd constitutional arguments being offered by the President,\" according to a source on the call.\n    \n"
-    publishedDateTime: 2021-02-03T18:48:53Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KATRCrT8FUk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/03/politics/jamie-raskin-impeachment-pretrial-brief-reaction/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/03/politics/jamie-raskin-impeachment-pretrial-brief-reaction/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 167
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125153646-02-raskin-jan-6-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Ukraine impeachment vs. insurrection impeachment: What to know about Trump's two trials"
     excerpt: "Here's where we are: A president who survived impeachment for trying to stack the deck against his most-feared election opponent is now facing impeachment again for inciting his supporters to attack Capitol Hill to challenge that same opponent's victory.\n    \n"
     publishedDateTime: 2021-02-09T15:57:29Z
@@ -782,22 +766,6 @@ related:
       - url: "https://media2.s-nbcnews.com/i/newscms/2021_06/3448074/210205-impeachment-main-bar-cs-428p_fcaf4fdb04ac2ff3682a3783343f300b.jpg"
         width: 2500
         height: 1569
-        isCached: true
-  - title: "Trump's second impeachment trial, Democrats embrace big spending and saying goodbye to a Supreme trailblazer"
-    excerpt: "There is evidence that Covid-19 may have emerged outside of Wuhan, China, WHO team says after long-awaited fact-finding mission."
-    publishedDateTime: 2021-02-09T14:43:00Z
-    webUrl: "https://www.nbcnews.com/news/morning-briefing/trump-s-second-impeachment-trial-democrats-embrace-big-spending-saying-n1257127"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1257127"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1257127"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 116
-    images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2021_06/3448692/210209-impeachment-mc-1146_31329143d6a8b3ce563beb58e6ca970a.JPG"
-        width: 2500
-        height: 1667
         isCached: true
   - title: "Greene admits 9/11 ‘happened,’ Dems seek Trump under oath"
     excerpt: "JAMIE RASKIN (D-Md.), the lead House impeachment manager, sent a letter to former President DONALD TRUMP “requesting that he provide testimony under oath, either before or during the Senate impeachment trial,"

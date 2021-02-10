@@ -9,7 +9,7 @@ ampWebUrl: "https://theweek.com/speedreads-amp/959931/sen-joe-manchin-says-hed-a
 cdnAmpWebUrl: "https://theweek-com.cdn.ampproject.org/c/s/theweek.com/speedreads-amp/959931/sen-joe-manchin-says-hed-absolutely-oppose-bidens-stimulus-checks-swiftly-walks-back-after-stocks-tank"
 type: article
 quality: 52
-heat: 52
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 840
     height: 560
     isCached: true
+
+related:
+  - title: "Biden budget nominee 'absolutely' backs U.S. minimum wage hike"
+    excerpt: "Neera Tanden, Democratic President Joe Biden's nominee to head the U.S. Office of Management and Budget, told U.S. senators on Wednesday she would support raising the federal minimum wage, without giving a target for a higher rate."
+    publishedDateTime: 2021-02-10T21:17:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-omb-wages-idUSKBN2AA24G"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AA24G"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AA24G"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210210&t=2&i=1551081094&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH191RR"
+        width: 817
+        height: 545
+        isCached: true
 
 secured: "fRYFpfnXMlaNtipOOdJf2pC9LwC9q8+M7h3gtYP1RtSVYJAfsvbP1SxlJ4EiwpSvWuPxOfbj5PpOTL4jKgOmVJaIlG+1Z+tPHikxkeH/f11zNAd/g6mAt2QehGNsITsn24ObLlVuKeuptaPAJ8LZ6JSzf7UG3qNYfIgZiL5bsGkqse20kkmMG6CJvTxDzVcQg9O97vLjN9Hx9ZLxsMjFQQBDO2pOqkws2yzmHK4EsXBnsPhguRfbXRykZkYSEAmg6Q00tUiXDh22QVxvKKahpKAdimrvmhCMX6B9i3F6IKvW1j7lnHR7BsbbyDMma4/mw3pZxLoWmJ4j2eXY+PwZYFRnUiMndGMRpGPFni+pf7c=;gT92/MbTYEjmwqPt9Y/hPw=="
 ---
