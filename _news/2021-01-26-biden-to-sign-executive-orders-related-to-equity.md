@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/26/politics/executive-orders-equity-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/executive-orders-equity-joe-biden/index.html"
 type: article
 quality: 175
-heat: 395
+heat: 415
 published: true
 
 provider:
@@ -170,6 +170,22 @@ related:
     quality: 144
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125124643-biden-signs-executive-order-transgender-military-ban-repeal-vpx-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "'It's time to act': Biden moves to address racial inequity"
+    excerpt: "(CNN)President Joe Biden signed a series of executive actions revolving around racial equity policy on Tuesday, focusing on nondiscrimination policy, prison reform and public housing, saying it is ..."
+    publishedDateTime: 2021-01-26T11:05:00Z
+    webUrl: "https://www.cnn.com/2021/01/26/politics/executive-orders-equity-joe-biden/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/26/politics/executive-orders-equity-joe-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/executive-orders-equity-joe-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210122162050-president-biden-executive-orders-economic-relief-mattingly-dnt-lead-vpx-00004102-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

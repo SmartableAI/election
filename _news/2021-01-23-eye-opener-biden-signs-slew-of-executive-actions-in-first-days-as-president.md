@@ -77,6 +77,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Joe Biden's First Week in Office: What He's Done Vs. What He Promised"
+    excerpt: "President Joe Biden has been in office for one full week, and he has already signed a wave of new executive orders meant to reverse the actions of Donald Trump and reshape the nation's most ..."
+    publishedDateTime: 2021-01-27T07:01:00Z
+    webUrl: "https://www.newsweek.com/joe-bidens-first-week-office-what-hes-done-vs-what-he-promised-1564583"
+    ampWebUrl: "https://www.newsweek.com/joe-bidens-first-week-office-what-hes-done-vs-what-he-promised-1564583?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-bidens-first-week-office-what-hes-done-vs-what-he-promised-1564583?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1717217/joe-biden.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Biden aims for most ambitious US effort on climate change"
     excerpt: "President Joe Biden is undertaking the most ambitious effort ever to cut America’s oil, gas and coal emissions and stave off the worst effects of climate change"
     publishedDateTime: 2021-01-27T21:17:00Z

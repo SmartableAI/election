@@ -1678,6 +1678,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The Case for Biden Optimism"
+    excerpt: "What idea of America does Joe Biden call us to unite around? It’s the old one. As Walt Whitman understood, America was founded mostly by people fleeing the remnants of feudalism, the stratified ..."
+    publishedDateTime: 2021-01-22T00:00:00Z
+    webUrl: "https://www.nytimes.com/2021/01/21/opinion/joe-biden-republicans.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/21/opinion/joe-biden-republicans.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/21/opinion/joe-biden-republicans.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/21/opinion/21Brooks-01/21Brooks-01-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Congress affirms Biden as president after completing electoral vote count"
     excerpt: "After a day of riots at the Capitol, Congress counted the Electoral College votes and confirmed the win for President-elect Joe Biden and Vice President-elect Kamala Harris."
     publishedDateTime: 2021-01-07T09:24:00Z

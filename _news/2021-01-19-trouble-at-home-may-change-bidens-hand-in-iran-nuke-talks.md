@@ -2980,6 +2980,22 @@ related:
         width: 2048
         height: 1358
         isCached: true
+  - title: "Why Biden’s immigration plan may be risky for Democrats"
+    excerpt: "WASHINGTON — President Joe Biden is confronting the political risk that comes with grand ambition. As one of his first acts, Biden offered a sweeping immigration overhaul last week that would ..."
+    publishedDateTime: 2021-01-24T20:31:00Z
+    webUrl: "https://www.denverpost.com/2021/01/24/biden-immigration-plan-policy-democrats/"
+    ampWebUrl: "https://www.denverpost.com/2021/01/24/biden-immigration-plan-policy-democrats/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/01/24/biden-immigration-plan-policy-democrats/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 75
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2021/01/Biden_Immigration_Democrats_44944.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "How Facebook Is Prepping For Joe Biden’s Inauguration Amid Online Threats"
     excerpt: "Facebook has taken a major step in cracking down on the violence that threatens to derail Joe Biden’s Inauguration. Facebook announced it would continue to take a variety of measures to prevent users from using the social media platform to incite violence during the inauguration."
     publishedDateTime: 2021-01-16T17:57:00Z
@@ -3059,6 +3075,22 @@ related:
       - url: "https://cdnph.upi.com/ph/st/th/2501611141231/2021/upi/d1227f998138c3593982f7ab4dc4540c/v1.5/Watch-live-Joe-Biden-is-sworn-in-as-46th-president-of-the-United-States.jpg?lg=2"
         width: 800
         height: 534
+        isCached: true
+  - title: "Biden administration promises an EV era, new world for the auto industry"
+    excerpt: "At 12 p.m. ET on Jan. 20, Joe Biden was officially sworn in as the 46th President of the United States. With the newly minted administration, Biden now has the power to iron out and execute big ..."
+    publishedDateTime: 2021-01-26T06:11:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/joe-biden-administration-ev-autos-transportation-infrastructure/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/joe-biden-administration-ev-autos-transportation-infrastructure/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/joe-biden-administration-ev-autos-transportation-infrastructure/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 74
+    images:
+      - url: "https://cnet2.cbsistatic.com/img/pYzrp1yt7fadQUCHU48zc_64XOI=/2021/01/19/6fa84df4-7c26-4132-a698-a7be726ae69b/ogi-biden.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "How Mike Pence's hometown views his legacy as vice presidency comes to an end"
     excerpt: "In a music store in this small city 45 minutes southeast of Indianapolis, a picture of Vice President Mike Pence playing guitar hangs by the door. Nearby"

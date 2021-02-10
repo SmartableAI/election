@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/09/politics/mike-pence-inauguration-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/09/politics/mike-pence-inauguration-joe-biden/index.html"
 type: article
 quality: 200
-heat: 2920
+heat: 2940
 published: true
 
 provider:
@@ -1661,6 +1661,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210120213030-biden-inauguration-speech-0120-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "The Case for Biden Optimism"
+    excerpt: "What idea of America does Joe Biden call us to unite around? It’s the old one. As Walt Whitman understood, America was founded mostly by people fleeing the remnants of feudalism, the stratified ..."
+    publishedDateTime: 2021-01-22T00:00:00Z
+    webUrl: "https://www.nytimes.com/2021/01/21/opinion/joe-biden-republicans.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/21/opinion/joe-biden-republicans.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/21/opinion/joe-biden-republicans.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/21/opinion/21Brooks-01/21Brooks-01-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "The latest on the Biden presidency"
     excerpt: "President Joe Biden forges ahead with his new administration and agenda as former President Trump's impeachment trial looms. Follow here for the latest."

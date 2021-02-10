@@ -342,7 +342,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 395,
+      "heat": 415,
       "tags": null,
       "images": [
         {
@@ -878,6 +878,49 @@
       ]
     },
     {
+      "path": "_news/2021-01-26-bidens-blue-collar-image-threatened-as-oil-and-gas-crackdown-costs-jobs.md",
+      "title": "Biden's 'blue-collar' image threatened as oil-and-gas crackdown costs jobs",
+      "excerpt": "“Joe Biden talks a good game, but does he actually deliver for the working class?” Ms. Sgamma said. “I would argue that’s one of the reasons [former President Donald] Trump won in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtontimes.com/news/2021/jan/25/joe-biden-keystone-decision-energy-policy-conflict/",
+      "originalUrl": "https://www.washingtontimes.com/news/2021/jan/25/joe-biden-keystone-decision-energy-policy-conflict/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://twt-thumbs.washtimes.com/media/image/2017/01/27/pipeline_economics_46715_c0-101-4575-2769_s1200x700.jpg?0d0a19f0928591a9a253ab587afbf74ca9a0f125",
+          "width": 1200,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://amp.washingtontimes.com/news/2021/jan/25/joe-biden-keystone-decision-energy-policy-conflict/",
+      "cdnAmpWebUrl": "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/jan/25/joe-biden-keystone-decision-energy-policy-conflict/",
+      "publishedDateTime": "2021-01-25T17:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Times",
+        "domain": "washingtontimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-01-26-biden-tells-cnn-trumps-impeachment-trial-has-to-happen.md",
       "title": "Biden tells CNN Trump's impeachment trial 'has to happen'",
       "excerpt": "President Joe Biden on Monday offered his most extensive comments since taking office on President Donald Trump's impeachment trial, telling CNN \"I think it has to happen.\"\n    \n",
@@ -1291,62 +1334,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/fauci-birx-jerome-adams-trump-coronavirus.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fauci-birx-jerome-adams-trump-coronavirus.amp",
       "publishedDateTime": "2021-01-25T06:52:16-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-25-1-in-5-americans-have-confidence-biden-can-unite-the-country-poll.md",
-      "title": "1 in 5 Americans have confidence Biden can unite the country: poll",
-      "excerpt": "Just one in five Americans have “a great deal of confidence” in President Biden’s ability to make good on his goal to unify the country, according to a new poll released Sunday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vFoIpaK4fws/1-in-5-americans-have-confidence-biden-can-unite-the-country-poll",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vFoIpaK4fws/1-in-5-americans-have-confidence-biden-can-unite-the-country-poll",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 535,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/20de377f-52eb-4d97-9de0-1949e9de080e/da946feb-d2c8-402f-9d32-9e153b1e2eca/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/1-in-5-americans-have-confidence-biden-can-unite-the-country-poll.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/1-in-5-americans-have-confidence-biden-can-unite-the-country-poll.amp",
-      "publishedDateTime": "2021-01-25T06:47:21-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

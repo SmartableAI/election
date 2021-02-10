@@ -2,6 +2,58 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2020-12-01-kamala-harris-celebrates-50-days-until-biden-is-president-sarah-cooper-rosanna-arquette-and-others-respond.md",
+      "title": "Kamala Harris Celebrates 50 Days Until Biden Is President; Sarah Cooper, Rosanna Arquette and Others Respond",
+      "excerpt": "Vice President-elect Kamala Harris took to Twitter this morning to happily remind people they are only 50 days away from Joe Biden 's January 20th Presidential Inauguration. As she put it, \"Only 50 days until we get to call @JoeBiden President of the United States.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/kamala-harris-fifty-days-biden-president-1551522",
+      "originalUrl": "https://www.newsweek.com/kamala-harris-fifty-days-biden-president-1551522",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1669370/kamala-harris-joe-biden.jpg",
+          "width": 2500,
+          "height": 1668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/kamala-harris-fifty-days-biden-president-1551522?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-fifty-days-biden-president-1551522?amp=1",
+      "publishedDateTime": "2020-12-01T07:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-12-01-trump-tells-georgia-governor-to-do-something-as-kemp-says-interfering-with-election-is-illegal.md",
       "title": "Trump tells Georgia governor to 'do something,' as Kemp says interfering with election is illegal",
       "excerpt": "President Trump on Tuesday told Georgia Gov. Brian Kemp to \"do something\" to overrule state election officials, claiming he would find a \"gold mine\" of fraud, as the governor's office maintained that Georgia law \"prohibits\" him from \"interfering in elections.\"",

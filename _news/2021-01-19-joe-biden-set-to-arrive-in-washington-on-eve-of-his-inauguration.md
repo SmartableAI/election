@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/19/politics/biden-covid-victims-memo
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/biden-covid-victims-memorial/index.html"
 type: article
 quality: 175
-heat: 555
+heat: 575
 published: true
 
 provider:
@@ -254,6 +254,22 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2021_04/3445000/210126-yemen-houthi-mc-854_2b1e3136cf964d7334eaeed834a28cbb.JPG"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Biden aims to tackle American's racial inequity crisis"
+    excerpt: "(CNN)If there was any doubt about the urgency of President Joe Biden's mission to tackle racial inequality, it was erased in the searing moment an insurrectionist rioter brazenly paraded the ..."
+    publishedDateTime: 2021-01-26T05:41:00Z
+    webUrl: "https://edition.cnn.com/2021/01/26/politics/joe-biden-race-america-equity/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/26/politics/joe-biden-race-america-equity/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/joe-biden-race-america-equity/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210122211659-05-biden-economy-0122-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Biden to outline racial equity plan, sign executive actions"
     excerpt: "President Joe Biden will deliver remarks Tuesday outlining his plan to advance racial equity and will sign executive actions as part of his push to use the powers of the presidency to implement parts of his agenda."

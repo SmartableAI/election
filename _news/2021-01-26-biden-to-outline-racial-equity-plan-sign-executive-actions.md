@@ -272,6 +272,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Biden aims to tackle American's racial inequity crisis"
+    excerpt: "(CNN)If there was any doubt about the urgency of President Joe Biden's mission to tackle racial inequality, it was erased in the searing moment an insurrectionist rioter brazenly paraded the ..."
+    publishedDateTime: 2021-01-26T05:41:00Z
+    webUrl: "https://edition.cnn.com/2021/01/26/politics/joe-biden-race-america-equity/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/26/politics/joe-biden-race-america-equity/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/joe-biden-race-america-equity/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210122211659-05-biden-economy-0122-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden's authority is on the line already in first full week of presidency"
     excerpt: "(CNN)As his first full week in the White House begins, Joe Biden already faces critical early tests of a presidency premised on political compromise and uniting Washington to fight the pandemic."
     publishedDateTime: 2021-01-25T12:30:00Z
