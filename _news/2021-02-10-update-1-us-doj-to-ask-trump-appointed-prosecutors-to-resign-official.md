@@ -1151,6 +1151,22 @@ related:
         width: 818
         height: 545
         isCached: true
+  - title: "What to Watch: Democrats to argue Trump alone incited mob"
+    excerpt: "WASHINGTON — House Democrats will begin two days of arguments in Donald Trump’s second impeachment trial, trying to convince skeptical Republicans that the former president alone was responsible for inciting his mob of supporters who broke into the U."
+    publishedDateTime: 2021-02-10T10:40:00Z
+    webUrl: "https://www.washingtonpost.com/politics/what-to-watch-democrats-to-argue-trump-alone-incited-mob/2021/02/10/7a4751a0-6b62-11eb-a66e-e27046e9e898_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/what-to-watch-democrats-to-argue-trump-alone-incited-mob/2021/02/10/7a4751a0-6b62-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/what-to-watch-democrats-to-argue-trump-alone-incited-mob/2021/02/10/7a4751a0-6b62-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "House Democrats building elaborate, emotionally charged case against Trump"
     excerpt: "House managers are scouring for new video evidence and police witnesses, even as the Senate tries to limit former president Donald Trump’s impeachment trial to a week."
     publishedDateTime: 2021-01-30T06:21:00Z

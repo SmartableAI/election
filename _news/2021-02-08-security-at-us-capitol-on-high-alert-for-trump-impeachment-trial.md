@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/08/politics/impeachment-trial-securi
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/08/politics/impeachment-trial-security-posture/index.html"
 type: article
 quality: 175
-heat: 1055
+heat: 1075
 published: true
 
 provider:
@@ -638,6 +638,22 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2021_03/3443114/210119-donald-trump-al-0953_ee174f7bc77e10ab1366e5fa4a0f8a3a.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Trump is on trial for inciting an insurrection. What about the 12 people who spoke before him?"
+    excerpt: "Rioters heard from others besides Trump on Jan. 6. As the former president confronts a Senate impeachment trial, 12 other notable “Stop the Steal” speakers have faced few, if any, consequences."
+    publishedDateTime: 2021-02-10T09:36:00Z
+    webUrl: "https://www.politico.com/news/2021/02/10/trump-impeachement-stop-the-steal-speakers-467554"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/02/10/trump-impeachement-stop-the-steal-speakers-467554"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/02/10/trump-impeachement-stop-the-steal-speakers-467554"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 123
+    images:
+      - url: "https://static.politico.com/a7/9e/b036fb6249838d085557fe14aa4e/2100106-rally-trump-gty-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "‘If this happened in the Soviet Union, you would call it a show trial,’ Cassidy of Trump impeachment trial"
     excerpt: "Sen. Bill Cassidy (R-La.) tells Chuck Todd that the House did an incredibly 'poor job' in building a case against President Trump during his second impeachment trial, during an exclusive interview with Meet the Press."

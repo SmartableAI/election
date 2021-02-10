@@ -654,6 +654,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Trump is on trial for inciting an insurrection. What about the 12 people who spoke before him?"
+    excerpt: "Rioters heard from others besides Trump on Jan. 6. As the former president confronts a Senate impeachment trial, 12 other notable “Stop the Steal” speakers have faced few, if any, consequences."
+    publishedDateTime: 2021-02-10T09:36:00Z
+    webUrl: "https://www.politico.com/news/2021/02/10/trump-impeachement-stop-the-steal-speakers-467554"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/02/10/trump-impeachement-stop-the-steal-speakers-467554"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/02/10/trump-impeachement-stop-the-steal-speakers-467554"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 123
+    images:
+      - url: "https://static.politico.com/a7/9e/b036fb6249838d085557fe14aa4e/2100106-rally-trump-gty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "‘If this happened in the Soviet Union, you would call it a show trial,’ Cassidy of Trump impeachment trial"
     excerpt: "Sen. Bill Cassidy (R-La.) tells Chuck Todd that the House did an incredibly 'poor job' in building a case against President Trump during his second impeachment trial, during an exclusive interview with Meet the Press."
     publishedDateTime: 2021-02-07T14:57:00Z

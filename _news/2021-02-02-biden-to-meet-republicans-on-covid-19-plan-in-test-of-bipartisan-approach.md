@@ -127,6 +127,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "In Biden’s early days, signs of Trump-era problems at border"
+    excerpt: "Larger numbers of immigrant families have been crossing the U.S.-Mexico border in the first weeks of President Joe Biden’s administration"
+    publishedDateTime: 2021-02-10T10:04:00Z
+    webUrl: "https://www.washingtonpost.com/health/in-bidens-early-days-signs-of-trump-era-problems-at-border/2021/02/10/69ac4cce-6b5d-11eb-a66e-e27046e9e898_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/in-bidens-early-days-signs-of-trump-era-problems-at-border/2021/02/10/69ac4cce-6b5d-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/in-bidens-early-days-signs-of-trump-era-problems-at-border/2021/02/10/69ac4cce-6b5d-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Biden says Trump should not receive intelligence briefings: CBS interview"
     excerpt: "U.S. President Joe Biden does not believe his predecessor Donald Trump should have access to intelligence briefings because of his \"erratic behavior\" and the concern he might share information, the Democrat said in an interview on Friday."
     publishedDateTime: 2021-02-06T06:03:00Z
@@ -558,6 +574,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_e4cdcf0e473d4aaebb5c8979ad6938c1_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Lawmakers urge Biden to back opioid-treatment measure"
+    excerpt: "Bipartisan group calls on president to ‘deliver on your promise’ to expand access in early test of administration’s opioid strategy."
+    publishedDateTime: 2021-02-09T23:54:00Z
+    webUrl: "https://www.washingtonpost.com/health/2021/02/09/lawmakers-urge-biden-back-opioid-treatment-measure/"
+    ampWebUrl: "https://www.washingtonpost.com/health/2021/02/09/lawmakers-urge-biden-back-opioid-treatment-measure/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/2021/02/09/lawmakers-urge-biden-back-opioid-treatment-measure/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ES2NP2DGWMI6XOVYOB7YO2OXQU.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Jill Biden pushes access to free community college and training programs"
     excerpt: "Jill Biden is pushing access to free community college and training programs, particularly for those struggling during the COVID-19 pandemic."
@@ -1062,6 +1094,20 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/09/b1156740-0165-41df-9855-9ba84c034b2f/thumbnail/1200x630/78bf9eb7037e5161786da0c1a6b314ee/cbsn-fusion-capitol-security-ramps-up-during-former-president-trumps-second-impeachment-trial-thumbnail-642779-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "She's the powerful yet little-known referee with the 'hardest job' on Capitol Hill, and she's shaping Trump's impeachment trial and Biden's agenda"
+    excerpt: "In the coming days and weeks, MacDonough will advise senators on the complex rules of an impeachment trial and on reconciliation as Democrats push Biden's agenda."
+    publishedDateTime: 2021-02-10T10:02:00Z
+    webUrl: "https://www.businessinsider.com/senate-parliamentarian-elizabeth-macdonough-trump-impeachment-trial-stimulus-minimum-wage-2021-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 82
+    images:
+      - url: "https://i.insider.com/60234db767d1e300113c52c7?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Trump Impeachment Lawyers Named After 5 Members Of Defense Team Quit"
     excerpt: "Five of Trump's impeachment lawyers had left his legal team after he refused to steer away from using mass election fraud as his defense strategy."

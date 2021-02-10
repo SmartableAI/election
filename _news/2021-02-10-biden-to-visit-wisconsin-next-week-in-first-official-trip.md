@@ -1,28 +1,34 @@
 ---
 category: news
 title: "Biden to visit Wisconsin next week in first official trip"
-excerpt: "President Joe Biden will visit Wisconsin next week for his first official trip as president beyond his home state of Delaware."
-publishedDateTime: 2021-02-09T21:45:00Z
-originalUrl: "https://www.businessinsider.com/biden-to-visit-wisconsin-next-week-in-first-official-trip-2021-2"
-webUrl: "https://www.businessinsider.com/biden-to-visit-wisconsin-next-week-in-first-official-trip-2021-2"
-ampWebUrl: "https://www.businessinsider.com/biden-to-visit-wisconsin-next-week-in-first-official-trip-2021-2?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-to-visit-wisconsin-next-week-in-first-official-trip-2021-2?amp"
+excerpt: "President Joe Biden will visit Wisconsin next week for his first official trip as president beyond his home state of Delaware. Biden is set to visit Milwaukee next Tuesday, according to the White House."
+publishedDateTime: 2021-02-09T21:02:00Z
+originalUrl: "https://www.washingtonpost.com/politics/biden-to-visit-wisconsin-next-week-in-first-official-trip/2021/02/09/427ec072-6af0-11eb-a66e-e27046e9e898_story.html"
+webUrl: "https://www.washingtonpost.com/politics/biden-to-visit-wisconsin-next-week-in-first-official-trip/2021/02/09/427ec072-6af0-11eb-a66e-e27046e9e898_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/biden-to-visit-wisconsin-next-week-in-first-official-trip/2021/02/09/427ec072-6af0-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-to-visit-wisconsin-next-week-in-first-official-trip/2021/02/09/427ec072-6af0-11eb-a66e-e27046e9e898_story.html?outputType=amp"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
+    isCached: true
 
 related:
   - title: "Biden gives Calif. woman pep talk in weekly address revival"
@@ -58,6 +64,6 @@ related:
         height: 545
         isCached: true
 
-secured: "91g+nz+pDb44tWDLQl0WVNs5D32xmqdX5w4g5vWfiK80bMmshiXb1vzCaOOUdzNvSe1Ua5buxtmG2ipDEITaZkdoUOMGn1QG/dkN94WU/E5o4VSM674eynz/n9X1kYibdLmG/wrNPTd8frPYwvyeYv8nsqOuNeie9mYL/tgO5l89/dj2ZXVXo9qPFB6WbW7kRQFGHUfmp8JWlJKRVSmMGFdHFPvc7TRJ6wKeBoW0I/pdRn5xkjqk9Ja7KD1kemG6S3pB0zaXsLz0riVPxjCDCkiEzqN3U/AadqoGdpKXB2iwLhlEv8tY+qxwbwxbj7cGUpLvbk0tMe+fv1YAUtVHX33fzm6ELovLzErAAd0P+cE=;J1zYkXl8sjVlJ83Pb+Q8lQ=="
+secured: "XvjXqbpEiVGAh7V2mDy2lXOuQsRmFaZdd5zKONimiafZ5qxqzilk5Vj3t4D4sYLBAyD4qn8/QWqAX/eK23s2LWJnvh/kh99uWUBbDDUelzPNQRu+rWgJDSH9TmY4NoHZhxZH4Wc9P7niEw2mEYEKDl3aw2rqqAlgxUe3AhHUrFyfJwyRxy8QE8fnhr3ILfUqjyfDOhjA64kJbvSI5774NEJ1P6hJcxcfmNGqSejeo53ew5r1EvCKURXoOqQ3XWDbHkbSoSD4niRjiEZCmpwL4N0ukR7GcZfHNr083zEhbZ0WmJ1JSqLDojpm/q+yAC0awKhnr7+wL1Xwb/o3B/lUkMP2eWc7yoPen5u/mcDXIkc=;ifMGhy2j0Qf194qWzEBR/g=="
 ---
 
