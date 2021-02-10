@@ -1157,6 +1157,22 @@ related:
         width: 1200
         height: 847
         isCached: true
+  - title: "WATCH LIVE: Impeachment managers set to screen ‘heinous’ video of Capitol attack as Trump trial resumes"
+    excerpt: "It will provide new insight into both the extreme violence that everyone suffered (and) the threat that it could have led to further violence and death,” a Democratic aide said."
+    publishedDateTime: 2021-02-10T16:50:00Z
+    webUrl: "https://www.nydailynews.com/news/politics/ny-impeachment-capitol-attack-trump-day-two-20210210-awzdafmylfgcrkazd3fxozq7nu-story.html"
+    ampWebUrl: "https://www.nydailynews.com/news/politics/ny-impeachment-capitol-attack-trump-day-two-20210210-awzdafmylfgcrkazd3fxozq7nu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/ny-impeachment-capitol-attack-trump-day-two-20210210-awzdafmylfgcrkazd3fxozq7nu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 59
+    images:
+      - url: "https://www.nydailynews.com/resizer/oQoJJSU_AQgv4pVSh36Q_NNjeJc=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/QW2X67LA45HG7KFBAS6PMPPC3E.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "lC2qh2Sii/A3VgLEoSRCS40iZFVJRSfwPb124Zkxnhgh30E5/wPSmrKrpnPlkD1O1KtQQVde6658vIg6FfUk9aOVdj65XQOAkWh1GTo9FSvBmKC1nbQKJFnei5bywsqIfuxKeg6ldw+yopGcmRpsgbgs0EKQTrV2ida3oJePIJE4pigx4eTYVZGsr9gl+Urz61/GvLMlRp1h/ObWh2tqgE/GdM3kKoz88kZL2mdYP+dcGDDVPhr+azZF7FWeQOMHtZoo8B5+NTJ+39Xmm+aXqnNBrKVDCA8BEYJyKuHLHOl6wJZ8P6RUEW6+FpkASYNEM24gof2IBW+2p7jbV4zivb7/bL9Iwic2iP3E7IZKcOTRV/uewdgkmkefdrS4abfFSxK9/kJmRgFzaovWNc0S88esdSp/4+hFkkFs7r4NwqFe4ID9XVQ0v4olonLmEu70SJYmdqfdkCMYyefmwdHml4y+aCWK3qcm2KgKgnsO6J+I/rGVPZALOmCYbOEkeIvMKclYg1CkifkN2jkn3IxBtQ==;WRb7vZ/apRpfI7/cqCttpA=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.usatoday.com/amp/4433392001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4433392001"
 type: article
 quality: 106
-heat: 106
-published: true
+heat: -1
+published: false
 
 provider:
   name: USA Today
@@ -29,6 +29,56 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "In self-imposed exile, Trump watches with unhappiness as second impeachment trial unfolds"
+    excerpt: "Trump has remained sanguine that an evenly divided Senate will acquit him, while one person described him as “bored out of his mind” in Florida."
+    publishedDateTime: 2021-02-10T16:55:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-impeachment-trial-florida/2021/02/09/03ccaa72-6a61-11eb-9f80-3d7646ce1bc0_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-impeachment-trial-florida/2021/02/09/03ccaa72-6a61-11eb-9f80-3d7646ce1bc0_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-impeachment-trial-florida/2021/02/09/03ccaa72-6a61-11eb-9f80-3d7646ce1bc0_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 116
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PH42VQDLAUI6XJTO4JYEN2PITA.jpg&w=1440"
+        width: 1440
+        height: 932
+        isCached: true
+  - title: "U.S. will not expel unaccompanied migrant children under Trump-era policy now being reviewed"
+    excerpt: "President Biden ordered his administration to review a CDC order that allows U.S. border officials to swiftly expel migrants without a court hearing."
+    publishedDateTime: 2021-02-03T12:19:00Z
+    webUrl: "https://www.cbsnews.com/news/migrant-children-biden-administration-will-not-expel-trump-policy/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/migrant-children-biden-administration-will-not-expel-trump-policy/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/migrant-children-biden-administration-will-not-expel-trump-policy/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 114
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/03/2dbd5416-7ea2-4822-b01b-fc1c2a06e5eb/thumbnail/1200x630/0fce3e81e3bc33b285288b90be4dd94b/gettyimages-1228909458.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Explicit language in footage shown at Trump's impeachment trial forces TV networks to make a 'tough choice'"
+    excerpt: "At the start of Donald Trump’s second impeachment trial, TV’s biggest networks aired footage of the US Capitol siege with unusually explicit language."
+    publishedDateTime: 2021-02-10T12:35:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/tv/2021/02/10/trump-impeachment-explicit-language-forces-tv-make-tough-calls/4466103001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4466103001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4466103001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 107
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/10/USAT/6cdd7c47-123b-40ec-b80f-aa099d402b22-VPC_TUESDAY_SENATE_IMPEACHMENT_WRAP_DESK.00_01_47_27.Still001.jpg?auto=webp&crop=1911,1075,x8,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "0+SDIRlOx3Pck7P4hvS3JpDsB0KhOqL2wiH4f6UnSP2MoAnKNDoUEVau5hVPaznTHCV/Cb8I3WuvdMiX+scXlUJWLOADrI5xWt8uobB3/XVaL9ONs7FouYKDecQq8TPD0D6zD+mXMVSqBhKu31qM0Cw/RRsZQVbfOFzx+6nr3G2rbPUTSNb6yD5N64kSO0YOBioFJRE1KktaI1HxDWCaOmJ0yKdW+CN5T+sKsxkDc7R8+lhB3oushW0fq6o1q8VQ+gGzVd4PiaIDuvt5w/360HPN3eC/aPkxWvdlr42QOzlIcFn6iFrRxqI9yrYr/GODAuPOHmGPn6BnIrohOXPLWpdfLlJkfsWNMe0AIJTLpyTl0Lxu0zYCeRmd7WhZSdDwkLWBGjoQeLg30Oc3RE0cWtbDMBrOC0HwbF/bC3i8sOCl4Cvd69pikYyf8fVJXFkpOhfTzRVbRrDr4Y4b7HoQSsLN4FNPtiiTJpj95BaUPJ9OktCgy6v0UPcgT02muwcOY3AW9sGvFKXcqSJXFvRwuQ==;yuwJai75vnBldRQVGgdC0A=="
 ---

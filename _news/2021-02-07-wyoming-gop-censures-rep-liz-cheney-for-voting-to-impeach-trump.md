@@ -127,6 +127,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "LIVE: Oral arguments set to kick off in Trump's Senate impeachment trial over the Capitol siege"
+    excerpt: "Oral arguments will kick off Wednesday as Trump's defense team regroups from a brutal first day of the Senate impeachment trial."
+    publishedDateTime: 2021-02-10T16:47:00Z
+    webUrl: "https://www.businessinsider.com/trump-impeachment-trial-capitol-riot-day-2-watch-live-updates-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/trump-impeachment-trial-capitol-riot-day-2-watch-live-updates-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-impeachment-trial-capitol-riot-day-2-watch-live-updates-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 113
+    images:
+      - url: "https://i.insider.com/6010718e1d2df20018b70f64?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Wyoming GOP Censures Liz Cheney For Voting To Impeach Trump"
     excerpt: "Rep. Cheney, third-ranking member of House Republican leadership, is the latest in a succession of Republican leaders censured by their state parties for acting in opposition to the former president."
     publishedDateTime: 2021-02-07T04:24:00Z

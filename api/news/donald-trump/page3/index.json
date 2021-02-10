@@ -2,58 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-01-26-amid-absence-trump-sets-up-new-intra-party-battles-for-gop-the-note.md",
-      "title": "Amid absence, Trump sets up new intra-party battles for GOP: The Note",
-      "excerpt": "Trump's brand was built on disruption and the force of his own personality. Even through a quiet period, that disruption is set to continue into at least 2021 and 2022.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/amid-absence-trump-sets-intra-party-battles-gop/story?id=75473145",
-      "originalUrl": "https://abcnews.go.com/Politics/amid-absence-trump-sets-intra-party-battles-gop/story?id=75473145",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 365,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/trump-rally-ap-jt-210108_1610144889614_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/amid-absence-trump-sets-intra-party-battles-gop/story?id=75473145",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/amid-absence-trump-sets-intra-party-battles-gop/story?id=75473145",
-      "publishedDateTime": "2021-01-26T04:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-01-26-twitter-on-jill-biden-potentially-being-more-active-first-lady-than-melania-trump-it-wont-be-a-challenge.md",
       "title": "Twitter On Jill Biden Potentially Being 'More Active' First Lady Than Melania Trump: 'It Won't Be A Challenge'",
       "excerpt": "During her first five days as first lady, Jill Biden had virtual appearances before governors' spouses, young Latinos and library officials and visited the nonprofit Whitman-Walker Health in Washington,",
@@ -1580,6 +1528,63 @@
       "ampWebUrl": "https://www.foxnews.com/entertainment/kirstie-alley-katie-couric-deprogram-donald-trump-supporters.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/kirstie-alley-katie-couric-deprogram-donald-trump-supporters.amp",
       "publishedDateTime": "2021-01-20T07:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-racism-allowed-donald-trump-free-rein-to-terrorize-the-american-people-for-four-years-msnbc-analyst.md",
+      "title": "Racism allowed Donald Trump 'free rein to terrorize the American people for four years:' MSNBC analyst",
+      "excerpt": "New York Times editorial board member Mara Gay said Wednesday that President Trump had been allowed to \"terrorize the American people for four years\" because of racist elements in the country.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/racism-donald-trump-terrorize-american-people-msnbc",
+      "originalUrl": "https://www.foxnews.com/media/racism-donald-trump-terrorize-american-people-msnbc",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a36ac25b-97d4-4e5c-a5b7-d48f780cccaf/5ec248a0-9c59-4fa8-a439-5f65b52eda9d/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/racism-donald-trump-terrorize-american-people-msnbc.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/racism-donald-trump-terrorize-american-people-msnbc.amp",
+      "publishedDateTime": "2021-01-20T06:39:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

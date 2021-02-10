@@ -891,6 +891,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Shades of Rocky: See Vice President Kamala Harris run up Lincoln Memorial steps"
+    excerpt: "Video of Vice President Kamala Harris jogging up and down the steps of the Lincoln Memorial has gone viral. See coverage on HuffPost and TMZ."
+    publishedDateTime: 2021-02-10T16:20:00Z
+    webUrl: "https://www.twincities.com/2021/02/10/shades-of-rocky-see-vice-president-kamala-harris-run-up-lincoln-memorial-steps/"
+    ampWebUrl: "https://www.twincities.com/2021/02/10/shades-of-rocky-see-vice-president-kamala-harris-run-up-lincoln-memorial-steps/amp/"
+    cdnAmpWebUrl: "https://www-twincities-com.cdn.ampproject.org/c/s/www.twincities.com/2021/02/10/shades-of-rocky-see-vice-president-kamala-harris-run-up-lincoln-memorial-steps/amp/"
+    type: article
+    provider:
+      name: TwinCities.com
+      domain: twincities.com
+    quality: 71
+    images:
+      - url: "https://www.twincities.com/wp-content/uploads/2021/02/Election_2020_Biden_65583-1.jpg?w=1024&h=576"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "JD Greear urges pastors not to call VP Kamala Harris ‘Jezebel,' but to pray for her"
     excerpt: "Southern Baptist Convention President J.D. Greear is urging pastors in the denomination to refrain from calling Vice President Kamala Harris “Jezebel” due to the racist connotations of the moniker. He is calling on them to honor and pray for her as an elected leader instead."
     publishedDateTime: 2021-02-04T21:48:00Z

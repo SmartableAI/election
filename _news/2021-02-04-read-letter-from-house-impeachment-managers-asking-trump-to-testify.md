@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/04/politics/house-letter-trump-testi
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/04/politics/house-letter-trump-testify/index.html"
 type: article
 quality: 175
-heat: 1155
+heat: 1215
 published: true
 
 provider:
@@ -220,6 +220,22 @@ related:
     quality: 172
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200409020412-biden-trump-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump impeachment defense team scrambling to make new videos to bolster case"
+    excerpt: "President Donald Trump's legal team is scrambling to collect and produce more videos to bolster their impeachment trial arguments after a rambling debut performance that enraged the former president and dismayed Republicans, according to a person familiar with the discussions.\n    \n"
+    publishedDateTime: 2021-02-10T16:20:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ukB1WApEg2A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/10/politics/trump-impeachment-defense/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/10/politics/trump-impeachment-defense/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170410121034-trump-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -559,6 +575,22 @@ related:
         width: 900
         height: 506
         isCached: true
+  - title: "Trump's second impeachment trial: Day 2"
+    excerpt: "The House impeachment managers present their case against former President Trump in the second day of the Senate trial. Follow here for the latest."
+    publishedDateTime: 2021-02-10T14:53:00Z
+    webUrl: "https://www.cnn.com/politics/live-news/trump-impeachment-trial-02-10-2021/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/politics/live-news/trump-impeachment-trial-02-10-2021/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/politics/live-news/trump-impeachment-trial-02-10-2021/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_900,h_506/40b7fbac-3fa3-4611-ba0d-e766e49876b6.jpg"
+        width: 900
+        height: 506
+        isCached: true
   - title: "Impeachment Case Aims to Marshal Outrage of Capitol Attack Against Trump"
     excerpt: "Armed with lessons from the last impeachment trial of Donald J. Trump, prosecutors plan a shorter, video-heavy presentation to confront Republicans with the fury they felt around the Capitol riot."
     publishedDateTime: 2021-02-07T20:46:00Z
@@ -574,6 +606,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/02/07/us/politics/07dc-impeach-1/07dc-impeach-1-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Impeachment Updates: New Chilling Video Expected as Trump’s Trial Begins"
+    excerpt: "Each side has up to 16 hours over two days to make their cases for and against former President Donald J. Trump. The House impeachment managers, who are acting as prosecutors, will go first, followed by Mr."
+    publishedDateTime: 2021-02-10T11:07:00Z
+    webUrl: "https://www.nytimes.com/live/2021/02/10/us/impeachment-trial"
+    ampWebUrl: "https://www.nytimes.com/live/2021/02/10/us/impeachment-trial.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/02/10/us/impeachment-trial.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/10/us/politics/10vid-impeachment-live/merlin_183476262_580a872d-12fb-4e35-8034-8905042a4d00-articleLarge.jpg"
+        width: 600
+        height: 400
         isCached: true
   - title: "Read the Brief From House Managers Asserting Trump Has ‘No Good Defense’"
     excerpt: "The House managers took one final shot at Donald J. Trump on Tuesday morning before his impeachment trial got underway, telling the Senate in a written brief that the former president’s lawyers were relying on “flawed legal theories” because they had “no good defense” for his conduct around the Jan."

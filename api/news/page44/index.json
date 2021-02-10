@@ -2,6 +2,158 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2020-12-05-trump-campaign-paid-dechert-164k-for-recount-related-legal-services-fec-filings-show.md",
+      "title": "Trump campaign paid Dechert $164K for 'recount' related legal services, FEC filings show",
+      "excerpt": "U.S. President Donald Trump's campaign last month paid more than $164,000 to Dechert, a law firm that during the 2020 election touted its work on pro bono voting rights cases in which it often faced off against Republican-backed lawyers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/lawyer-trump-dechert-idUSL1N2IL017",
+      "originalUrl": "https://www.reuters.com/article/lawyer-trump-dechert-idUSL1N2IL017",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2IL017",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2IL017",
+      "publishedDateTime": "2020-12-04T21:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-05-as-deadline-lapses-trump-administration-continues-tiktok-talks.md",
+      "title": "As Deadline Lapses, Trump Administration Continues TikTok Talks",
+      "excerpt": "The Trump administration will allow a Friday deadline for TikTok’s Chinese parent company to sell the viral video app to lapse, said a person with knowledge of the decision. But the government will not enforce an executive order demanding the sale,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/12/04/technology/as-deadline-lapses-trump-administration-continues-tiktok-talks.html",
+      "originalUrl": "https://www.nytimes.com/2020/12/04/technology/as-deadline-lapses-trump-administration-continues-tiktok-talks.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/12/04/technology/as-deadline-lapses-trump-administration-continues-tiktok-talks.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/04/technology/as-deadline-lapses-trump-administration-continues-tiktok-talks.amp.html",
+      "publishedDateTime": "2020-12-04T18:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-05-biden-talks-inauguration-plans-obama-pence-seek-to-boost-ga-senate-candidates.md",
+      "title": "Biden talks inauguration plans; Obama, Pence seek to boost Ga. Senate candidates",
+      "excerpt": "The president-elect plans to deliver remarks from Wilmington, Del., hours after the Labor Department releases a report expected to show slowed job growth amid the rise in coronavirus cases.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2020/12/04/joe-biden-trump-transition-live-updates/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2020/12/04/joe-biden-trump-transition-live-updates/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 755,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/D32W6NRWRQI6XFUZADJRD4J5FU.jpg&w=1440",
+          "width": 1440,
+          "height": 906,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2020/12/04/joe-biden-trump-transition-live-updates/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/04/joe-biden-trump-transition-live-updates/?outputType=amp",
+      "publishedDateTime": "2020-12-04T17:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-12-05-msnbcs-kasie-hunt-panned-for-saying-shes-struck-how-biden-as-a-rule-doesnt-lie.md",
       "title": "MSNBC's Kasie Hunt panned for saying she's 'struck' how Biden 'as a rule, doesn’t lie'",
       "excerpt": "MSNBC anchor Kasie Hunt was widely mocked on social media Friday for being excessively trusting of President-elect Joe Biden.",
@@ -1169,171 +1321,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/republicans-demand-probe-into-padillas-35m-grant-to-biden-linked-firm-claim-misuse-of-taxpayer-funds.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-demand-probe-into-padillas-35m-grant-to-biden-linked-firm-claim-misuse-of-taxpayer-funds.amp",
       "publishedDateTime": "2020-12-03T15:30:15-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-kamala-harris-makes-more-history-with-all-female-senior-staff-picks.md",
-      "title": "Kamala Harris Makes More History With All-Female Senior Staff Picks",
-      "excerpt": "For the first time, the top three positions in the office of the vice president will be held by women -- and all serving under the first woman to hold the office.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-12-03/harris-announces-an-all-female-slate-of-senior-staff-picks",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2020-12-03/harris-announces-an-all-female-slate-of-senior-staff-picks",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 865,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDqnSWHoECyc/v0/360x-1.jpg",
-          "width": 360,
-          "height": 272,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-12-03/harris-announces-an-all-female-slate-of-senior-staff-picks",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-03/harris-announces-an-all-female-slate-of-senior-staff-picks",
-      "publishedDateTime": "2020-12-03T15:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-wikipedia-page-for-bidens-new-covid-czar-scrubbed-of-politically-damaging-material.md",
-      "title": "Wikipedia page for Biden's new Covid czar scrubbed of politically damaging material",
-      "excerpt": "A Democratic consulting firm made numerous changes to Jeff Zients' page as he became a more important figure on Biden’s team this summer and fall.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/12/03/wikipedia-page-bidens-new-covid-czar-scrubbed-442735",
-      "originalUrl": "https://www.politico.com/news/2020/12/03/wikipedia-page-bidens-new-covid-czar-scrubbed-442735",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/2f/86/c701e1f14b4b8695d6566e23a04f/ap120767208216.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/12/03/wikipedia-page-bidens-new-covid-czar-scrubbed-442735",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/03/wikipedia-page-bidens-new-covid-czar-scrubbed-442735",
-      "publishedDateTime": "2020-12-03T14:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-trump-campaign-rnc-raise-2075-million-since-election-day.md",
-      "title": "Trump campaign, RNC raise $207.5 million since Election Day",
-      "excerpt": "EXCLUSIVE: The Trump campaign, the Republican National Committee, their joint-fundraising committees and President Trump’s new PAC Save America raised a whopping $207.5 million since Election Day, Fox News has learned.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MT9GdvRJa5M/trump-campaign-rnc-rake-in-207-5-million-since-election-day",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MT9GdvRJa5M/trump-campaign-rnc-rake-in-207-5-million-since-election-day",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 370,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-campaign-rnc-rake-in-207-5-million-since-election-day.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-rnc-rake-in-207-5-million-since-election-day.amp",
-      "publishedDateTime": "2020-12-03T14:28:25-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

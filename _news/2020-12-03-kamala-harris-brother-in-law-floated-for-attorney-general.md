@@ -462,6 +462,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Dozens of celebrities call on Joe Biden, Kamala Harris to shut down the Dakota Access Pipeline"
+    excerpt: "Dozens of celebrities signed a letter to President Joe Biden and Vice President Kamala Harris calling on their administration to shut down the Dakota Access Pipeline for good."
+    publishedDateTime: 2021-02-10T15:21:00Z
+    webUrl: "https://www.foxnews.com/entertainment/dozens-of-celebrities-call-on-joe-biden-kamala-harris-to-shut-down-the-dakota-access-pipeline"
+    ampWebUrl: "https://www.foxnews.com/entertainment/dozens-of-celebrities-call-on-joe-biden-kamala-harris-to-shut-down-the-dakota-access-pipeline.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/dozens-of-celebrities-call-on-joe-biden-kamala-harris-to-shut-down-the-dakota-access-pipeline.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 138
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/CelebsReact21.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Kamala Harris Names Senior White House Staff"
     excerpt: "The vice president-elect selected three women to serve in top roles on her team."
     publishedDateTime: 2020-12-03T20:40:00Z

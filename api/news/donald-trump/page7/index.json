@@ -2,58 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2021-01-07-amid-capitol-violence-facebook-youtube-remove-trump-video.md",
-      "title": "Amid Capitol violence, Facebook, YouTube remove Trump video",
-      "excerpt": "Facebook has removed a short video of President Donald Trump where he is urging supporters who stormed the U.S. Capitol to “go home” while at the same time keeping up false attacks about the president",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/national/amid-capitol-violence-facebook-youtube-remove-trump-video/2021/01/06/fbc5dfc2-5077-11eb-a1f5-fdaf28cfca90_story.html",
-      "originalUrl": "https://www.washingtonpost.com/national/amid-capitol-violence-facebook-youtube-remove-trump-video/2021/01/06/fbc5dfc2-5077-11eb-a1f5-fdaf28cfca90_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 505,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/national/amid-capitol-violence-facebook-youtube-remove-trump-video/2021/01/06/fbc5dfc2-5077-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/amid-capitol-violence-facebook-youtube-remove-trump-video/2021/01/06/fbc5dfc2-5077-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp",
-      "publishedDateTime": "2021-01-06T16:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-01-07-nancy-pelosi-and-chuck-schumer-call-on-trump-to-demand-protestors-to-leave-the-us-capitol-immediately.md",
       "title": "Nancy Pelosi and Chuck Schumer call on Trump to demand protestors to leave the US Capitol 'immediately'",
       "excerpt": "The joint statement came as President Donald Trump reportedly refused to listen to aides who advised he put out a stronger statement against the rioters.",
@@ -1540,6 +1488,54 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-04-president-trump-rails-against-media-coverage-of-fauci-he-works-for-me.md",
+      "title": "President Trump rails against media coverage of Fauci: ‘He works for me’",
+      "excerpt": "President Trump on Sunday griped that the news media is giving Dr. Anthony Fauci credit for the coronavirus response that he deserves.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/01/03/trump-rails-against-media-coverage-of-fauci-he-works-for-me/",
+      "originalUrl": "https://nypost.com/2021/01/03/trump-rails-against-media-coverage-of-fauci-he-works-for-me/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/01/donald-trump-anthony-fauci.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/01/03/trump-rails-against-media-coverage-of-fauci-he-works-for-me/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/03/trump-rails-against-media-coverage-of-fauci-he-works-for-me/amp/",
+      "publishedDateTime": "2021-01-03T08:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
       ]
     }
   ],

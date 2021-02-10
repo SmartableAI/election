@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/08/donald-trump-im
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/08/donald-trump-impeachment-trial-senate-covid-coronavirus-joe-biden-live-updates"
 type: article
 quality: 117
-heat: 157
+heat: 177
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump impeachment: Senate to hear prosecution arguments against former president – live"
+    excerpt: "Senate convenes at noon for impeachment managers to lay out argument to convict Donald Trump of ‘incitement of insurrection’"
+    publishedDateTime: 2021-02-10T11:17:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/10/donald-trump-impeachment-senate-trial-live-news-updates"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/10/donald-trump-impeachment-senate-trial-live-news-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/10/donald-trump-impeachment-senate-trial-live-news-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 117
+    images:
+      - url: "https://i.guim.co.uk/img/media/7d3e06af8edce2c72744e22eed1328dd95be3b46/0_0_3500_2334/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7a954cf6bba0111e0635cae7cace422e"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Majority of Americans say Trump should be convicted, barred from holding federal office in impeachment trial: POLL"
     excerpt: "In a new ABC News/Ipsos poll, a majority of Americans support the Senate convicting former President Trump in his second impeachment trial, but the partisan gap persists."
     publishedDateTime: 2021-02-07T14:06:00Z

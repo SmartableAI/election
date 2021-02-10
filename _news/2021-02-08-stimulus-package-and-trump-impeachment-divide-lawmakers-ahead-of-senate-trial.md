@@ -1021,6 +1021,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Democrats to argue in impeachment trial that Trump alone incited mob"
+    excerpt: "The arguments Wednesday from nine Democratic impeachment managers for the House come a day after the Senate voted to move ahead with the trial."
+    publishedDateTime: 2021-02-10T15:10:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-02-10/democrats-argument-impeachment-trial-trump"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-02-10/democrats-argument-impeachment-trial-trump?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-02-10/democrats-argument-impeachment-trial-trump?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/c0002d5/2147483647/strip/true/crop/2422x1582+194+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff2%2Fee%2Ffb99a1d5462f8e7013c8dbe485e2%2Ftrump-impeachment-50230.jpg"
+        width: 320
+        height: 209
+        isCached: true
   - title: "GOP senator flips on impeachment trial, rips Trump lawyers"
     excerpt: "Republican Sen. Bill Cassidy of Louisiana joined Democrats in voting against ending Donald Trump’s impeachment trial, a surprise reversal"
     publishedDateTime: 2021-02-10T02:00:00Z
@@ -1164,6 +1180,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Democrats to outline case at Trump's impeachment trial with new video"
+    excerpt: "Democrats on Wednesday will show new security camera video depicting the deadly attack on the U.S. Capitol by Donald Trump's supporters as they open their formal case charging the former president with inciting insurrection."
+    publishedDateTime: 2021-02-10T16:50:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump-impeachment-idUKKBN2AA27H"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2AA27H"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2AA27H"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210210&t=2&i=1551061648&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH191J6"
+        width: 819
+        height: 545
         isCached: true
   - title: "UPDATE 1-U.S. DOJ to ask Trump-appointed prosecutors to resign -official"
     excerpt: "The U.S. Department of Justice on Tuesday is expected to ask most federal prosecutors appointed by former President Donald Trump to submit their resignations, a Justice Department official said."
@@ -1548,6 +1580,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1730508/donald-trump-washington-january-6.jpg"
         width: 2500
         height: 1736
+        isCached: true
+  - title: "Power Up: Democrats produce the must-see TV in the first day of Trump's impeachment trial"
+    excerpt: "It's Wednesday and this is the Power Up newsletter. Rep. Adam Kinzinger (R-Ill.) – one of 10 Republicans who voted to impeach Donald Trump a second time – talks with us at 11a.m. Come pregame the impeachment trial with us here."
+    publishedDateTime: 2021-02-10T16:32:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/02/10/power-up-democrats-produce-must-see-tv-first-day-trump-impeachment-trial/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/02/10/power-up-democrats-produce-must-see-tv-first-day-trump-impeachment-trial/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/02/10/power-up-democrats-produce-must-see-tv-first-day-trump-impeachment-trial/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 116
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NQ37FZDLMMI6XJTO4JYEN2PITA.jpg&w=1440"
+        width: 1440
+        height: 810
         isCached: true
   - title: "Facing a post-Trump world, abortion opponents at March for Life strike a less partisan tone"
     excerpt: "Abortion opponents began facing the post-Trump world Friday at the annual March for Life, divided over whether the past president helped or harmed their cause and shifting towards less partisan language than in the recent past."
@@ -2077,6 +2125,20 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210210&t=2&i=1550962601&w=&fh=545&fw=810&ll=&pl=&sq=&r=2021-02-10T003801Z_33484_MRPRC26PL9AD1UP_RTRMADP_0_USA-TRUMP-IMPEACHMENT"
         width: 810
         height: 538
+        isCached: true
+  - title: "Legal expert breaks down Day 1 of Trump impeachment trial"
+    excerpt: "Former President Donald Trump's defense team lost their bid to halt impeachment trial proceedings on constitutional grounds Tuesday. In a 56-44 vote, Democrats and some Republicans voted to move forward with the former president's trial after debating its jurisdiction."
+    publishedDateTime: 2021-02-10T16:34:00Z
+    webUrl: "https://www.cbsnews.com/video/legal-expert-breaks-down-key-takeaways-from-day-1/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/10/12952533-e09c-41ff-836b-4fa1423ef19f/thumbnail/1200x630/6bfa70604b952eb7cab1b1c70cbca2fb/cbsn-fusion-legal-expert-breaks-down-key-takeaways-from-day-1-thumbnail-643585-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "6 Republicans broke ranks and voted with Democrats to declare Trump's impeachment trial constitutional after the first day"
     excerpt: "President Donald Trump's Senate impeachment trial over the Capitol siege began on Tuesday afternoon."

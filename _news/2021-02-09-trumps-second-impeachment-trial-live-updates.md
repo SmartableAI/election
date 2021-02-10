@@ -318,6 +318,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Dems block Stefanik amendment barring funds to Confucius Institute partners after Biden nixes Trump rule"
+    excerpt: "Rep. Elise Stefanik, D-N.Y., proposed an amendment to induce transparency among U.S. schools after the Biden administration withdrew a rule that required schools participating in certain federal programs to disclose ties with Confucius Institutes, which have been accused of propagating communist China’s"
+    publishedDateTime: 2021-02-10T15:31:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DNKxjKfbFKk/stefanik-amendment-funds-confucius-institute-biden-trump-rule"
+    ampWebUrl: "https://www.foxnews.com/politics/stefanik-amendment-funds-confucius-institute-biden-trump-rule.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/stefanik-amendment-funds-confucius-institute-biden-trump-rule.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f82d77b7-fe6c-4f60-ab9e-a63cff8cef75/1518879f-32d2-4235-8fa1-dcc95e691b26/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "White House dismisses questions about Biden son-in-law's COVID-19 investments"
     excerpt: "The White House dismissed complaints of conflicting interest Tuesday regarding the president’s son-in-law’s investments in the COVID-19 response. "
     publishedDateTime: 2021-02-09T19:59:30Z
@@ -333,6 +349,22 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/568b8e9c-Jen-Psaki.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Sen. Ted Cruz rips second impeachment trial, predicts Trump will be acquitted"
+    excerpt: "Sen. Ted Cruz, R-Texas, said Wednesday on \"America’s Newsroom\" that the second impeachment trial of former President Donald Trump is a \"mistake\" and \"doomed to failure.\""
+    publishedDateTime: 2021-02-10T16:00:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GOfydVNVWgQ/ted-cruz-second-impeachment-trial-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/ted-cruz-second-impeachment-trial-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ted-cruz-second-impeachment-trial-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/FOX-headshot-2-1.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Biden 'will not spend too much time' watching impeachment trial but finds Trump behavior 'erratic,' Psaki says"
     excerpt: "White House Press Secretary Jen Psaki said Monday that President Biden “will not spend too much time” watching former President Trump’s Senate impeachment trial."
@@ -379,6 +411,22 @@ related:
     quality: 166
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump impeachment lawyer Castor defends trial performance, says Trump not upset with him"
+    excerpt: "Trump lawyer Bruce L. Castor Jr. defended his performance Tuesday in the Senate, saying it has \"not been communicated\" to him that former President Trump was angry over his statements during the first day of the Senate impeachment proceedings."
+    publishedDateTime: 2021-02-10T16:43:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2scnibwRXUI/trump-impeachment-lawyer-castor-defends-trial-performance"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-lawyer-castor-defends-trial-performance.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-lawyer-castor-defends-trial-performance.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
@@ -493,6 +541,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/67ab6620-a84c-4c4e-a9b0-ff6060da9c77/87461f27-22d3-48b8-96e9-25b31eb24382/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Will impeachment witnesses be called in Trump trial? How the decision could impact the proceedings"
+    excerpt: "Between the start of the arguments on merits Tuesday and the nearly inevitable acquittal of Trump stands one giant unknown that could significantly extend the Senate impeachment trial -- whether there will be witnesses. "
+    publishedDateTime: 2021-02-10T15:59:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IBqMLkAG-GI/will-impeachment-witnesses-be-called-in-trump-trial-how-the-decision-could-impact-the-proceedings"
+    ampWebUrl: "https://www.foxnews.com/politics/will-impeachment-witnesses-be-called-in-trump-trial-how-the-decision-could-impact-the-proceedings.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/will-impeachment-witnesses-be-called-in-trump-trial-how-the-decision-could-impact-the-proceedings.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Democrats will realize Trump impeachment is a political 'loser' and will end trial quickly: Whitaker"
     excerpt: "Former Acting Attorney General Matthew Whitaker argued on Monday that former President Trump's impeachment is “cheapening” the impeachment standard."

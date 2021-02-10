@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A42HN"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A42HN"
 type: article
 quality: 140
-heat: 1620
+heat: 1640
 published: true
 
 provider:
@@ -1156,6 +1156,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/30/publix.jpg"
         width: 1200
         height: 847
+        isCached: true
+  - title: "WATCH LIVE: Impeachment managers set to screen ‘heinous’ video of Capitol attack as Trump trial resumes"
+    excerpt: "It will provide new insight into both the extreme violence that everyone suffered (and) the threat that it could have led to further violence and death,” a Democratic aide said."
+    publishedDateTime: 2021-02-10T16:50:00Z
+    webUrl: "https://www.nydailynews.com/news/politics/ny-impeachment-capitol-attack-trump-day-two-20210210-awzdafmylfgcrkazd3fxozq7nu-story.html"
+    ampWebUrl: "https://www.nydailynews.com/news/politics/ny-impeachment-capitol-attack-trump-day-two-20210210-awzdafmylfgcrkazd3fxozq7nu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/ny-impeachment-capitol-attack-trump-day-two-20210210-awzdafmylfgcrkazd3fxozq7nu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 59
+    images:
+      - url: "https://www.nydailynews.com/resizer/oQoJJSU_AQgv4pVSh36Q_NNjeJc=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/QW2X67LA45HG7KFBAS6PMPPC3E.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "0arVz9erBhcqOIHUA5/Oh+sRzyNI6I2VdIRRogcyc5Jkd0NrGyxQhCB6Ebg0dOTU4c1EuwiWK2ozOHJavWUq7J9fyoUNH0Y3PLv+9hlrR+34aPVIXOxOMlfCOt7uFD/6q9IGwOlSRSZ0KIjFr3qSy8xctaodJV1GNoypxC60Q0C1xqStY0VAi8ZYLFyahL/Hr/RIZ4YnY2mBHDH97GjRKAgq3hNEDNCATj4HBGThWlPp6+N86o3TGkaDoAYoiHrFjCnukGCv6BV/kVhH+JjgOPp3ScS2WbIV7cEsD0nn4ocs48BI9ucPUdV0hehpWult7JFnzriHx5qV83AfHJa0+0LRYgMHvuQD84zAWrQT9Dc=;a9QDWoNy0vwY0tpAZR/N6Q=="

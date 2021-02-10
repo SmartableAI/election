@@ -2,6 +2,166 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-01-16-police-man-charged-after-displaying-kill-biden-sign.md",
+      "title": "Police: Man charged after displaying ‘KILL BIDEN’ sign",
+      "excerpt": "A Virginia man has been arrested for having a “KILL BIDEN” sign. WWBT in Richmond reported Thursday that Kenneth Kraig Thomas of Goochland County was arrested and is facing a charge of threatening a person in writing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/local/police-man-charged-after-displaying-kill-biden-sign/2021/01/15/1397f9c4-5775-11eb-acc5-92d2819a1ccb_story.html",
+      "originalUrl": "https://www.washingtonpost.com/local/police-man-charged-after-displaying-kill-biden-sign/2021/01/15/1397f9c4-5775-11eb-acc5-92d2819a1ccb_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/local/police-man-charged-after-displaying-kill-biden-sign/2021/01/15/1397f9c4-5775-11eb-acc5-92d2819a1ccb_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/police-man-charged-after-displaying-kill-biden-sign/2021/01/15/1397f9c4-5775-11eb-acc5-92d2819a1ccb_story.html?outputType=amp",
+      "publishedDateTime": "2021-01-15T18:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-01-16-despite-trump-administration-promise-government-has-no-more-reserve-2nd-vaccine-doses.md",
+      "title": "Despite Trump administration promise, government has no more 'reserve' 2nd vaccine doses",
+      "excerpt": "Hopes of a surge in Covid-19 vaccine shipments under a new policy to release second doses held in reserve appear to be evaporating -- with the revelation that those doses have already been distributed, contrary to recent indications by the Trump administration.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lalVOl5dJlA/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lalVOl5dJlA/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 186,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201222111258-02-alex-azar-vaccine-1222-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/15/politics/coronavirus-vaccine-reserve-dose/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/15/politics/coronavirus-vaccine-reserve-dose/index.html",
+      "publishedDateTime": "2021-01-15T17:36:48-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-16-capitol-riots-what-are-far-right-trump-supporters-saying.md",
+      "title": "Capitol riots: What are far-right Trump supporters saying?",
+      "excerpt": "Members of the extreme right are searching for new online homes, amid paranoia that they are being ‘set up’ by the authorities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/blogs-trending-55679813",
+      "originalUrl": "https://www.bbc.com/news/blogs-trending-55679813",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 285,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/754F/production/_116413003_gettyimages-578547390.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/amp/blogs-trending-55679813",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/blogs-trending-55679813",
+      "publishedDateTime": "2021-01-15T16:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-16-trump-receives-moroccos-highest-award-for-middle-east-work-official.md",
       "title": "Trump receives Morocco's highest award for Middle East work: official",
       "excerpt": "U.S. President Donald Trump on Friday received Morocco's highest award for his work in advancing a normalization deal between Israel and Morocco, a senior administration official told Reuters.",
@@ -1203,171 +1363,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-removing-the-name-trump-wont-save-a-golf-course-in-the-south-bronx.md",
-      "title": "Removing the Name ‘Trump’ Won’t Save a Golf Course in the South Bronx",
-      "excerpt": "As New York City moves to void its contracts with Trump Organization properties, one of them stands out as a problem no matter what name is on the sign.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/01/15/nyregion/trump-golf-course-ferry-point-bronx.html",
-      "originalUrl": "https://www.nytimes.com/2021/01/15/nyregion/trump-golf-course-ferry-point-bronx.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/01/17/nyregion/17BIG/17BIG-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/01/15/nyregion/trump-golf-course-ferry-point-bronx.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/15/nyregion/trump-golf-course-ferry-point-bronx.amp.html",
-      "publishedDateTime": "2021-01-15T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-dan-scavino-tells-trump-officials-to-be-proud-of-accomplishments.md",
-      "title": "Dan Scavino tells Trump officials to be ‘proud’ of accomplishments",
-      "excerpt": "As the Trump administration heads into its final week, White House spokesman Dan Scavino told administration officials Thursday to hold their \"heads high\" and be \"proud\" of their accomplishments\" despite \"cancel culture.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/X-nFmqFtEbs/dan-scavino-slams-cancel-culture-tells-trump-officials-to-be-proud-of-accomplishments",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/X-nFmqFtEbs/dan-scavino-slams-cancel-culture-tells-trump-officials-to-be-proud-of-accomplishments",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21005235258462.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/dan-scavino-slams-cancel-culture-tells-trump-officials-to-be-proud-of-accomplishments.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dan-scavino-slams-cancel-culture-tells-trump-officials-to-be-proud-of-accomplishments.amp",
-      "publishedDateTime": "2021-01-14T23:33:49-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-trump-extends-safeguard-tariffs-on-large-washer-imports-for-two-years.md",
-      "title": "Trump extends 'safeguard' tariffs on large washer imports for two years",
-      "excerpt": "President Donald Trump on Thursday extended \"safeguard\" tariffs on large residential washers for another two years in a move that further shields domestic manufacturers such as Whirlpool Corp from import competition.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-trade-washers/trump-extends-safeguard-tariffs-on-large-washer-imports-for-two-years-idUSKBN29J2SD?edition-redirect=ca",
-      "originalUrl": "https://www.reuters.com/article/us-usa-trade-washers/trump-extends-safeguard-tariffs-on-large-washer-imports-for-two-years-idUSKBN29J2SD?edition-redirect=ca",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547836161&r=LYNXMPEH0D1KA&w=800",
-          "width": 800,
-          "height": 564,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-14T20:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

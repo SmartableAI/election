@@ -881,6 +881,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Shades of Rocky: See Vice President Kamala Harris run up Lincoln Memorial steps"
+    excerpt: "Video of Vice President Kamala Harris jogging up and down the steps of the Lincoln Memorial has gone viral. See coverage on HuffPost and TMZ."
+    publishedDateTime: 2021-02-10T16:20:00Z
+    webUrl: "https://www.twincities.com/2021/02/10/shades-of-rocky-see-vice-president-kamala-harris-run-up-lincoln-memorial-steps/"
+    ampWebUrl: "https://www.twincities.com/2021/02/10/shades-of-rocky-see-vice-president-kamala-harris-run-up-lincoln-memorial-steps/amp/"
+    cdnAmpWebUrl: "https://www-twincities-com.cdn.ampproject.org/c/s/www.twincities.com/2021/02/10/shades-of-rocky-see-vice-president-kamala-harris-run-up-lincoln-memorial-steps/amp/"
+    type: article
+    provider:
+      name: TwinCities.com
+      domain: twincities.com
+    quality: 71
+    images:
+      - url: "https://www.twincities.com/wp-content/uploads/2021/02/Election_2020_Biden_65583-1.jpg?w=1024&h=576"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Biden, Harris to virtually see Glendale stadium vaccine site"
     excerpt: "President Joe Biden and Vice President Kamala Harris will virtually tour the mass COVID-19 vaccination site set up at State Farm Stadium in Glendale."
     publishedDateTime: 2021-02-08T16:58:00Z

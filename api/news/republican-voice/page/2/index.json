@@ -2,6 +2,174 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-05-biden-administration-likely-going-back-to-good-old-days-of-iran-nuclear-deal-mcfarland.md",
+      "title": "Biden administration likely going back to 'good old days' of Iran nuclear deal: McFarland",
+      "excerpt": "The Biden administration is likely to look to go back to the \"good old days\" by renegotiating the Iran nuclear deal, former Deputy National Security Advisor K.T. McFarland told \"America Reports\" Friday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jQQbI3Imc10/biden-admin-going-back-good-old-days-iran-nuclear-deal-mcfarland-middle-east-foreign-policy",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jQQbI3Imc10/biden-admin-going-back-good-old-days-iran-nuclear-deal-mcfarland-middle-east-foreign-policy",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7e33682c-d50a-4b32-b84a-dcec55be4b1f/b06c3df5-fa23-40e9-b336-0ed9b3260221/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-admin-going-back-good-old-days-iran-nuclear-deal-mcfarland-middle-east-foreign-policy.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-going-back-good-old-days-iran-nuclear-deal-mcfarland-middle-east-foreign-policy.amp",
+      "publishedDateTime": "2021-02-05T13:35:08-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-05-stunning-hypocrisy-for-biden-administration-to-push-back-against-the-cdcs-approval-to-open-schools-farah.md",
+      "title": "‘Stunning hypocrisy’ for Biden administration to push back against the CDC’s approval to open schools: Farah",
+      "excerpt": "The Biden administration is hypocritical for appearing to dismiss the Center for Disease Control's guidance for reopening schools, former Trump White House Director of Strategic Communications Alyssa Farah said on Friday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZXmOUjyrUA4/stunning-hypocrisy-biden-administration-cdcs-approval-schools-farah",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZXmOUjyrUA4/stunning-hypocrisy-biden-administration-cdcs-approval-schools-farah",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/stunning-hypocrisy-biden-administration-cdcs-approval-schools-farah.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/stunning-hypocrisy-biden-administration-cdcs-approval-schools-farah.amp",
+      "publishedDateTime": "2021-02-05T13:21:50-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-05-angel-dad-slams-joe-bidens-immigration-orders-insanity-on-steroids.md",
+      "title": "Angel dad slams Joe Biden's immigration orders: 'Insanity on steroids'",
+      "excerpt": "A California father, whose son was killed in a car accident with an illegal immigrant slammed President Joe Biden’s move to halt deportations of undocumented migrants on Friday, calling the administration's actions “insanity on steroids.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YqjtEWa62Sg/biden-immigration-insanity-steroids-california-angel-dad",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YqjtEWa62Sg/biden-immigration-insanity-steroids-california-angel-dad",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c4487de-9432-4b11-85ec-6465e3cf5347/6b3ff08b-0f57-40d9-b1d2-1ae5bc8eab17/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-immigration-insanity-steroids-california-angel-dad.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-immigration-insanity-steroids-california-angel-dad.amp",
+      "publishedDateTime": "2021-02-05T10:53:35-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-05-biden-administrations-cbp-revives-catch-and-release-policy-at-border-amid-covid-concerns.md",
       "title": "Biden administration’s CBP revives ‘catch and release’ policy at border amid COVID concerns",
       "excerpt": "A perfect storm of events has the Biden administration’s Customs and Border Protection on its heels in parts of Texas.",
@@ -1490,175 +1658,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/kinzinger-pac-take-back-gop-from-trump.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kinzinger-pac-take-back-gop-from-trump.amp",
       "publishedDateTime": "2021-02-01T08:48:33-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-democratic-party-tweet-accused-of-contradicting-bidens-original-promise-for-third-2000-stimulus-check.md",
-      "title": "Democratic Party tweet accused of contradicting Biden's original promise for third, $2000 stimulus check",
-      "excerpt": "Biden promised a separate, $2,000 stimulus check would 'go out the door immediately' if Georgia voters cast their ballots for newly-elected Democratic Sens. Jon Ossoff and Raphael Warnock during the state runoff elections earlier this month.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5-Q-1Y5Xh88/democratic-party-twitter-account-faces-backlash-for-saying-600-was-down-payment-on-2000-stimulus-checks",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5-Q-1Y5Xh88/democratic-party-twitter-account-faces-backlash-for-saying-600-was-down-payment-on-2000-stimulus-checks",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bf5bd722-821b-4c34-9c86-b346316d5a2e/9948cd85-6696-4601-bb71-505ea8ec7441/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/democratic-party-twitter-account-faces-backlash-for-saying-600-was-down-payment-on-2000-stimulus-checks.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democratic-party-twitter-account-faces-backlash-for-saying-600-was-down-payment-on-2000-stimulus-checks.amp",
-      "publishedDateTime": "2021-01-31T18:54:51-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-two-years-later-vp-kamala-harris-once-called-jussie-smollett-the-victim-of-a-modern-day-lynching.md",
-      "title": "Two years later: VP Kamala Harris once called Jussie Smollett the victim of a 'modern day lynching'",
-      "excerpt": "Friday marked two years since now-vice president Kamala Harris publically expressed support for actor Jussie Smollett after he claimed to be a victim of a hate crime.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/kamala-harris-jussie-smollett-attack-modern-day-lynching",
-      "originalUrl": "https://www.foxnews.com/politics/kamala-harris-jussie-smollett-attack-modern-day-lynching",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4cabc059-1257-4d26-92fc-f3ee6854a415/dbd72d91-5230-4f66-95b0-5109510ba033/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-jussie-smollett-attack-modern-day-lynching.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-jussie-smollett-attack-modern-day-lynching.amp",
-      "publishedDateTime": "2021-01-31T16:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-31-nunes-russia-hoaxers-at-top-echelons-of-biden-administration.md",
-      "title": "Nunes: 'Russia hoaxers' at 'top echelons' of Biden administration",
-      "excerpt": "Trump-Russia probe promoters are now being recognized as top Biden administration officials, Rep. Devin Nunes alleged on \"Sunday Morning Futures.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ynS2xT5e1IY/nunes-peter-strozk-wife-sec-appointment",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ynS2xT5e1IY/nunes-peter-strozk-wife-sec-appointment",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/biden-book.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/nunes-peter-strozk-wife-sec-appointment.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nunes-peter-strozk-wife-sec-appointment.amp",
-      "publishedDateTime": "2021-01-31T12:00:42-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

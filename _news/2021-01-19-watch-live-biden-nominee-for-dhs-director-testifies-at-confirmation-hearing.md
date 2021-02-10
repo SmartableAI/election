@@ -175,6 +175,22 @@ related:
         width: 856
         height: 545
         isCached: true
+  - title: "Watch Live: Biden visits Pentagon for first time as president and makes remarks"
+    excerpt: "White House press secretary Jen Psaki said his visit comes with \"special resonance\" since he will be visiting during Black History Month."
+    publishedDateTime: 2021-02-10T16:56:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-pentagon-visit-watch-live-stream-today-2021-02-10/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-pentagon-visit-watch-live-stream-today-2021-02-10/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-pentagon-visit-watch-live-stream-today-2021-02-10/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 121
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/02/04/7a0338a8-4130-4b1b-98a3-203f5e1d89cc/thumbnail/1200x630g3/79801f17b01d170e41956d948e8a5a20/gettyimages-1230951207.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Watch Live: Biden signs executive actions on abortion policy, health care access"
     excerpt: "Mr. Biden has vowed to protect and expand the Affordable Care Act, which was enacted while he was vice president."
     publishedDateTime: 2021-01-28T14:17:00Z

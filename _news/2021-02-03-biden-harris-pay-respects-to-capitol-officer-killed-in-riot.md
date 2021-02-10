@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/capitol-police-of
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/capitol-police-officer-who-died-after-riot-to-lie-in-honor/2021/02/02/8f908fb8-65b8-11eb-bab8-707f8769d785_story.html?outputType=amp"
 type: article
 quality: 150
-heat: 1810
+heat: 1830
 published: true
 
 provider:
@@ -885,6 +885,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/b519aa9c-2e56-419d-b46c-228a6887a74d/dd47c3d3-0d54-48fc-a407-5613900967df/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Shades of Rocky: See Vice President Kamala Harris run up Lincoln Memorial steps"
+    excerpt: "Video of Vice President Kamala Harris jogging up and down the steps of the Lincoln Memorial has gone viral. See coverage on HuffPost and TMZ."
+    publishedDateTime: 2021-02-10T16:20:00Z
+    webUrl: "https://www.twincities.com/2021/02/10/shades-of-rocky-see-vice-president-kamala-harris-run-up-lincoln-memorial-steps/"
+    ampWebUrl: "https://www.twincities.com/2021/02/10/shades-of-rocky-see-vice-president-kamala-harris-run-up-lincoln-memorial-steps/amp/"
+    cdnAmpWebUrl: "https://www-twincities-com.cdn.ampproject.org/c/s/www.twincities.com/2021/02/10/shades-of-rocky-see-vice-president-kamala-harris-run-up-lincoln-memorial-steps/amp/"
+    type: article
+    provider:
+      name: TwinCities.com
+      domain: twincities.com
+    quality: 71
+    images:
+      - url: "https://www.twincities.com/wp-content/uploads/2021/02/Election_2020_Biden_65583-1.jpg?w=1024&h=576"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Biden, Harris to virtually see Glendale stadium vaccine site"
     excerpt: "President Joe Biden and Vice President Kamala Harris will virtually tour the mass COVID-19 vaccination site set up at State Farm Stadium in Glendale."
