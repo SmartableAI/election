@@ -240,6 +240,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Senate GOP rips Trump's attorney for lackluster arguments on trial's first day"
+    excerpt: "A wide array of Senate Republicans harshly criticized former President Donald Trump's defense team on the opening day of his second impeachment trial, arguing that Trump attorney Bruce Castor had delivered a rambling and unfocused argument in making the case that the proceedings are unconstitutional.\n"
+    publishedDateTime: 2021-02-10T00:21:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dyIus-zRhrw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/09/politics/republican-criticism-trump-defense-team-impeachment/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/09/politics/republican-criticism-trump-defense-team-impeachment/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210209183845-bruce-castor-0209-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Senate Republicans say Trump should be held accountable for riot -- but not by them"
     excerpt: "To Senate Minority Whip John Thune, former President Donald Trump's actions ahead of the deadly Capitol riot are totally indefensible.\n    \n"
     publishedDateTime: 2021-01-30T02:05:41Z

@@ -2,21 +2,21 @@
 category: news
 title: "Dem Sen. Manchin asks Biden to reverse Keystone XL rejection"
 excerpt: "The new Democratic chairman of the Senate Energy Committee is urging President Joe Biden to reconsider his executive order revoking a presidential permit for the long-delayed Keystone XL oil pipeline"
-publishedDateTime: 2021-02-09T21:43:00Z
-originalUrl: "https://www.washingtonpost.com/politics/dem-sen-manchin-asks-biden-to-reverse-keystone-xl-rejection/2021/02/09/7124a224-6b1e-11eb-a66e-e27046e9e898_story.html"
-webUrl: "https://www.washingtonpost.com/politics/dem-sen-manchin-asks-biden-to-reverse-keystone-xl-rejection/2021/02/09/7124a224-6b1e-11eb-a66e-e27046e9e898_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/dem-sen-manchin-asks-biden-to-reverse-keystone-xl-rejection/2021/02/09/7124a224-6b1e-11eb-a66e-e27046e9e898_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/dem-sen-manchin-asks-biden-to-reverse-keystone-xl-rejection/2021/02/09/7124a224-6b1e-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+publishedDateTime: 2021-02-09T21:58:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/dem-sen-manchin-asks-biden-reverse-keystone-xl-75789039"
+webUrl: "https://abcnews.go.com/Business/wireStory/dem-sen-manchin-asks-biden-reverse-keystone-xl-75789039"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/dem-sen-manchin-asks-biden-reverse-keystone-xl-75789039"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/dem-sen-manchin-asks-biden-reverse-keystone-xl-75789039"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://s.abcnews.com/images/Politics/WireAP_e4cdcf0e473d4aaebb5c8979ad6938c1_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -526,6 +526,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210209&t=2&i=1550866810&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH180AC"
         width: 817
         height: 545
+        isCached: true
+  - title: "82 advocacy groups call on Biden to end federal executions"
+    excerpt: "Dozens of civil rights and advocacy organizations are calling on the Biden administration to immediately halt federal executions after an unprecedented run of capital punishment under President Donald"
+    publishedDateTime: 2021-02-09T18:03:00Z
+    webUrl: "https://www.washingtonpost.com/politics/courts_law/82-advocacy-groups-call-on-biden-to-end-federal-executions/2021/02/09/2cf26768-6ad7-11eb-a66e-e27046e9e898_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/82-advocacy-groups-call-on-biden-to-end-federal-executions/2021/02/09/2cf26768-6ad7-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/82-advocacy-groups-call-on-biden-to-end-federal-executions/2021/02/09/2cf26768-6ad7-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Biden to meet Republicans on COVID-19 plan in test of bipartisan approach"
     excerpt: "President Joe Biden will meet 10 moderate Republican senators on Monday to discuss their proposal to shrink his sweeping $1.9 trillion U.S. COVID-19 relief package, even as Democrats prepare to push legislation through Congress without Republican support."
@@ -1064,6 +1080,6 @@ related:
         height: 847
         isCached: true
 
-secured: "DwftHJSCV43TxJ1Jp+tde/6nXcKFOkeTT3dTVwie+H6a3pQ8Lgdm6Me2BJDm/A67HBcVY8T4LofFeoYxqU8FSdGxY2G37JhN9X2s8C6nvoo3JNVsCIUwJt02YpkDJSW3l+u7ZS4tp6b0CakxMBYtJ1tv6Oy/7Ez5mX3uSvJVRtIn5rgZdPKoKZToZiW784wlCqXZwPJvjJq0wPqLlibm6dYbT7vn5FLGcbOkCIGjIzOHsp08gOSl9BzrACgVFOH1JAU/IYxQ547Cpw/M6Nm7fRs9rS2dT+GSw0mucwuu4xYa+/fEVsNQcvZk9UpMvYMfqqj4wEBW9I+BxF+5imXYKe/g31svoiAvapvHkhjCT0c=;DsQTwyEdStv4gIe2QTHvVA=="
+secured: "yT162OzKnFsup1i0mzG9j5ti1SLLS+tSLXsg9YCbJkyw1pYe/Qsvy82209RphUjh0tfQEU13Fv63lE22WaaFFDHPZo9z3OREw4o8iWf9dVZr3hx5DXIdhHvW+Z2mgicyYNFqWZmS9Lc9ZMzOAWu3Q2B/wS5IDFMwk/jLAwJa9GsnI8OK9cCUgOSnbxXlJbeOoCu+sKGPa1vYGiz6VEXUDZL1yDBkbeZRuaVkxFpEbVK2pq7Mv3obl1iJJt7n4QrPgriMtGROyXx3qQwUic0ZLPdzbPyC7IylTHC2MlpOedmWtah4ADEJLGBc02WvRdhw2198ZnJ2K8h/67+tmeKhcBifMm9XwUn3ZQfUwLoA1UY=;MIsZWjTrSV5bL758CduvVA=="
 ---
 

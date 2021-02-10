@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/health/pro-trump-gop-chair-steps-down
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/pro-trump-gop-chair-steps-down-in-ohio-may-seek-senate-seat/2021/02/05/5508d346-67d9-11eb-bab8-707f8769d785_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/B7ZQA5DGVAI6XOVYOB7YO2OXQU.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "GOP senators send clear signal: Trump's getting acquitted"
+    excerpt: "Republicans are signaling where the impeachment trial is heading just as it’s getting underway: a second acquittal for former President Trump."
+    publishedDateTime: 2021-02-10T00:52:00Z
+    webUrl: "https://thehill.com/homenews/senate/538124-gop-senators-send-clear-signal-trumps-getting-acquitted"
+    ampWebUrl: "https://thehill.com/homenews/senate/538124-gop-senators-send-clear-signal-trumps-getting-acquitted?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/538124-gop-senators-send-clear-signal-trumps-getting-acquitted?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonlad_010521upi_lead.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Lisa Murkowski Backs Liz Cheney's Call for GOP to Move On: 'Donald Trump Is Gone'"
     excerpt: "The Alaska senator has said the party is more than the former president, as the Republican lawmakers who voted for impeachment insist they have no regrets."

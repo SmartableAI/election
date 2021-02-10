@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/pences-post-trump-administration-pl
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/pences-post-trump-administration-plans-take-shape/"
 type: article
 quality: 150
-heat: 3030
+heat: 3090
 published: true
 
 provider:
@@ -976,6 +976,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "AP FACT CHECK: Trump's lawyers and the Constitution"
+    excerpt: "Lawyers for Donald Trump stretched beyond the facts Tuesday when they argued there's an open-and-shut case that the Constitution bars impeaching former presidents. That question is not settled, though the weight of legal views contradicts the Trump team's assertions."
+    publishedDateTime: 2021-02-10T00:48:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trumps-lawyers-constitution-75789364"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trumps-lawyers-constitution-75789364"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trumps-lawyers-constitution-75789364"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_84e99d716562431192dc4d2e18fc91f0_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Managers present dramatic new video of mob at Trump impeachment trial"
     excerpt: "House impeachment managers showed a dramatic new video of the mob storming the Capitol in the opening minutes of President Trump's impeachment trial, as Democrats look to make the case that Trump must"
     publishedDateTime: 2021-02-09T18:50:00Z
@@ -994,8 +1010,8 @@ related:
         isCached: true
   - title: "Second impeachment trial of Donald Trump begins in US Senate – live"
     excerpt: "Senate will hear arguments from the impeachment managers and the former president’s defense team over the next several days"
-    publishedDateTime: 2021-02-09T18:36:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/09/donald-trump-impeachment-senate-trial-live-news-updates?page=with:block-6022d4278f08add483193bcf"
+    publishedDateTime: 2021-02-09T18:08:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/09/donald-trump-impeachment-senate-trial-live-news-updates?page=with:block-6022cc778f081476baec4f7c"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/09/donald-trump-impeachment-senate-trial-live-news-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/09/donald-trump-impeachment-senate-trial-live-news-updates"
     type: article
@@ -1028,6 +1044,38 @@ related:
     excerpt: "Donald Trump's historic second impeachment trial, on a charge of inciting last month's deadly storming of the U.S. Capitol, opens on Tuesday with a debate over the constitutionality of the Senate trying a president after he has left office."
     publishedDateTime: 2021-02-09T16:18:00Z
     webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-idUSKBN2A91D3"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A91D3"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A91D3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210209&t=2&i=1550892923&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1816M"
+        width: 818
+        height: 545
+        isCached: true
+  - title: "U.S. Justice Department asks most Trump-appointed prosecutors to resign"
+    excerpt: "The U.S. Department of Justice on Tuesday asked most federal prosecutors appointed during former President Donald Trump's term to resign, though a few handling politically sensitive Trump-era investigations are expected to remain in place."
+    publishedDateTime: 2021-02-10T00:58:00Z
+    webUrl: "https://www.reuters.com/article/usa-doj-biden/update-2-us-justice-department-asks-most-trump-appointed-prosecutors-to-resign-idUSL1N2KF1PO"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A90IU"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A90IU"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210209&t=2&i=1550935763&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH180AC"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Video of violence at Capitol open Trump's historic impeachment trial"
+    excerpt: "Donald Trump's historic post-presidency impeachment trial began in the Senate on Tuesday, with Democrats who are hoping to disqualify him from ever again holding public office showing graphic video of last month's deadly storming of the U."
+    publishedDateTime: 2021-02-10T00:40:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment/graphic-video-of-capitol-attack-opens-trumps-historic-impeachment-trial-idUSKBN2A91D3"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A91D3"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A91D3"
     type: article

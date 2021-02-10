@@ -335,6 +335,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Six GOP senators vote that Trump impeachment trial is constitutional and can proceed"
+    excerpt: "The Senate agreed to consider the case against Trump by a 56-44 vote following hours of arguments by the former president’s legal team and House impeachment managers."
+    publishedDateTime: 2021-02-09T23:57:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/v7aeVngM_jo/6-gop-senators-vote-to-allow-trump-impeachment-trial-to-proceed"
+    ampWebUrl: "https://www.foxnews.com/politics/6-gop-senators-vote-to-allow-trump-impeachment-trial-to-proceed.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/6-gop-senators-vote-to-allow-trump-impeachment-trial-to-proceed.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b016701f-abfc-4703-b1ad-7dd910b4ccf5/30862321-290f-47b6-8601-f74fae38c072/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden State Dept. spokeswoman called police 'largest threat to US national security': Report"
     excerpt: "Jalina Porter, who has been named deputy spokesperson for the U.S. State Department under President Biden, wrote that U.S. cops posed the largest national security threat because of attacks against Blacks"
     publishedDateTime: 2021-02-01T21:11:12Z

@@ -63,6 +63,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "GOP senators send clear signal: Trump's getting acquitted"
+    excerpt: "Republicans are signaling where the impeachment trial is heading just as it’s getting underway: a second acquittal for former President Trump."
+    publishedDateTime: 2021-02-10T00:52:00Z
+    webUrl: "https://thehill.com/homenews/senate/538124-gop-senators-send-clear-signal-trumps-getting-acquitted"
+    ampWebUrl: "https://thehill.com/homenews/senate/538124-gop-senators-send-clear-signal-trumps-getting-acquitted?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/538124-gop-senators-send-clear-signal-trumps-getting-acquitted?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonlad_010521upi_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Most GOP Senators Would Convict Trump Via Secret Ballot, Hawaii Sen. Mazie Hirono Says"
     excerpt: "Senator Mazie Hirono, a Hawaii Democrat, said that \"most\" Republican senators would vote to convict former President Donald Trump of inciting the attack on the U.S. Capitol if they were given the opportunity to use a secret ballot."
     publishedDateTime: 2021-02-09T16:45:00Z

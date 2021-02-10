@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump unhappy with his impeachment attorney's performance, sources say"
+    excerpt: "Former President Donald Trump was unhappy with his impeachment lawyer Bruce Castor's opening argument on the Senate floor Tuesday, two people familiar with his reaction told CNN.\n    \n"
+    publishedDateTime: 2021-02-10T00:44:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Rvq6x5yyKvQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/09/politics/trump-impeachment-bruce-castor/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/09/politics/trump-impeachment-bruce-castor/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210209115414-02-trump-jan-6-play-button-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Fact check: Trump's official response to impeachment includes obvious lies "
     excerpt: "Former President Donald Trump continues to defend the ludicrous lie that led him down the road to a second impeachment -- even in his legal team's official response to that impeachment.\n    \n"
     publishedDateTime: 2021-02-03T13:31:16Z

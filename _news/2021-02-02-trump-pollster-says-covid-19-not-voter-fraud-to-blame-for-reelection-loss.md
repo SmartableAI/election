@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/02/politics/trump-2020-reelection-lo
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/02/politics/trump-2020-reelection-loss-covid/index.html"
 type: article
 quality: 188
-heat: 1028
+heat: 1048
 published: true
 
 provider:
@@ -220,6 +220,22 @@ related:
     quality: 174
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201123112210-rep-tom-rice-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Senate GOP rips Trump's attorney for lackluster arguments on trial's first day"
+    excerpt: "A wide array of Senate Republicans harshly criticized former President Donald Trump's defense team on the opening day of his second impeachment trial, arguing that Trump attorney Bruce Castor had delivered a rambling and unfocused argument in making the case that the proceedings are unconstitutional.\n"
+    publishedDateTime: 2021-02-10T00:21:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dyIus-zRhrw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/09/politics/republican-criticism-trump-defense-team-impeachment/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/09/politics/republican-criticism-trump-defense-team-impeachment/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210209183845-bruce-castor-0209-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

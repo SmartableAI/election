@@ -9,8 +9,8 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2021/02/09/power-up-trump-sp
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/02/09/power-up-trump-spokesman-says-move-disqualify-him-future-office-is-dead-arrival/?outputType=amp"
 type: article
 quality: 114
-heat: 134
-published: true
+heat: -1
+published: false
 
 provider:
   name: Washington Post
@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "Trial highlights: history lessons, Trump tweets and more"
+    excerpt: "Donald Trump will stand trial for impeachment after the Senate rejected arguments from the former president’s lawyers that the chamber cannot move forward because he is no longer in office"
+    publishedDateTime: 2021-02-10T00:48:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trial-highlights-history-lessons-trump-tweets-75789773"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trial-highlights-history-lessons-trump-tweets-75789773"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trial-highlights-history-lessons-trump-tweets-75789773"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_bb4aff58ec284468b4b027215e10659d_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Marjorie Taylor Greene falsely suggests Trump supporters didn't carry out the Capitol siege days after apologizing for endorsing conspiracy theories"
+    excerpt: "she tweeted. \"The attack RUINED our objection that we spent weeks preparing for, which devastated our efforts on behalf of Trump and his voters.\" Greene's tweet was part of a longer thread about the siege and former President Donald Trump's Senate ..."
+    publishedDateTime: 2021-02-09T14:56:00Z
+    webUrl: "https://www.businessinsider.com/greene-tweet-capitol-siege-after-apologizing-conspiracy-theories-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/greene-tweet-capitol-siege-after-apologizing-conspiracy-theories-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/greene-tweet-capitol-siege-after-apologizing-conspiracy-theories-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 86
+    images:
+      - url: "https://i.insider.com/601c14db01504a00197fb98d?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "The Latest: Dems Say Trump Team Bids to Shift Blame for Riot"
     excerpt: "House Democrats prosecuting the impeachment case against Donald Trump say the former president’s lawyers are trying to “shift the blame onto his supporters” as they argue he's not to blame for the Capitol insurrection."
     publishedDateTime: 2021-02-09T18:15:00Z

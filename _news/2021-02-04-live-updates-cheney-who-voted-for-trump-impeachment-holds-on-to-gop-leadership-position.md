@@ -95,6 +95,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Twitter Has Bigger Problems Than Trump"
+    excerpt: "Twitter shares have soared recently heading into earnings, but heavy investments show the social-media platform has some rough edges to smooth out behind the scenes."
+    publishedDateTime: 2021-02-10T00:43:00Z
+    webUrl: "https://www.wsj.com/articles/twitter-has-bigger-problems-than-trump-11612917023"
+    ampWebUrl: "https://www.wsj.com/amp/articles/twitter-has-bigger-problems-than-trump-11612917023"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/twitter-has-bigger-problems-than-trump-11612917023"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-296969/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "McConnell defends GOP Rep. Liz Cheney, who voted to impeach Trump: 'A leader with deep convictions'"
     excerpt: "Cheney has faced calls to resign from her post as House GOP conference chair since she and nine other Republicans crossed party lines to impeach Trump."
     publishedDateTime: 2021-02-02T01:43:00Z

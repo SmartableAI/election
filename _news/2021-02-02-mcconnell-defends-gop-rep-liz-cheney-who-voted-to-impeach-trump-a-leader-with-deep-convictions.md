@@ -112,6 +112,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Twitter Has Bigger Problems Than Trump"
+    excerpt: "Twitter shares have soared recently heading into earnings, but heavy investments show the social-media platform has some rough edges to smooth out behind the scenes."
+    publishedDateTime: 2021-02-10T00:43:00Z
+    webUrl: "https://www.wsj.com/articles/twitter-has-bigger-problems-than-trump-11612917023"
+    ampWebUrl: "https://www.wsj.com/amp/articles/twitter-has-bigger-problems-than-trump-11612917023"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/twitter-has-bigger-problems-than-trump-11612917023"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-296969/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "OCwKlJQB/ps1JtIirUEAQTIcrHd8MjQyA+EBDVKgLshdcIKy4EqXULYrOKicB9VAS2TrCb3OIGATSVF2ti5DQVFb52I2UvYTVKXZektwttFjmFMTrxf935Ptm83U9v8kvxDmoEW3+GfdMX8w5O9dJbCVwgTImOnqNw0duobJtePMvNCBO2/ckwr2IW2F8g4jqlzApOoeSjNb59jVkQBpoe2TwghcyR2Yk2TyY7QblJ2TMMd9dI7Ll1qPrHCL7NbbAZhuZ+HAZ/dwB3A5DcvfPazLAIwILw4cs1ynO/CGVHp0QiQCIY00p7NJiO/vRpVvO12mwv3DpOvrac8BZnax7s5wOEia2fsBIgMxNyL/tHw=;6vcERuc2iAlQhQwoH7JaqQ=="
 ---

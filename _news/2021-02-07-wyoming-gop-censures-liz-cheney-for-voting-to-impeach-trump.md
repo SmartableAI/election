@@ -61,6 +61,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "GOP senators send clear signal: Trump's getting acquitted"
+    excerpt: "Republicans are signaling where the impeachment trial is heading just as it’s getting underway: a second acquittal for former President Trump."
+    publishedDateTime: 2021-02-10T00:52:00Z
+    webUrl: "https://thehill.com/homenews/senate/538124-gop-senators-send-clear-signal-trumps-getting-acquitted"
+    ampWebUrl: "https://thehill.com/homenews/senate/538124-gop-senators-send-clear-signal-trumps-getting-acquitted?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/538124-gop-senators-send-clear-signal-trumps-getting-acquitted?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonlad_010521upi_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Lisa Murkowski Backs Liz Cheney's Call for GOP to Move On: 'Donald Trump Is Gone'"
     excerpt: "The Alaska senator has said the party is more than the former president, as the Republican lawmakers who voted for impeachment insist they have no regrets."
     publishedDateTime: 2021-02-09T10:51:00Z

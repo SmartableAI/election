@@ -525,12 +525,12 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Dem Sen. Manchin asks Biden to reverse Keystone XL rejection"
-    excerpt: "The new Democratic chairman of the Senate Energy Committee is urging President Joe Biden to reconsider his executive order revoking a presidential permit for the long-delayed Keystone XL oil pipeline"
-    publishedDateTime: 2021-02-09T21:43:00Z
-    webUrl: "https://www.washingtonpost.com/politics/dem-sen-manchin-asks-biden-to-reverse-keystone-xl-rejection/2021/02/09/7124a224-6b1e-11eb-a66e-e27046e9e898_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/dem-sen-manchin-asks-biden-to-reverse-keystone-xl-rejection/2021/02/09/7124a224-6b1e-11eb-a66e-e27046e9e898_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/dem-sen-manchin-asks-biden-to-reverse-keystone-xl-rejection/2021/02/09/7124a224-6b1e-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+  - title: "82 advocacy groups call on Biden to end federal executions"
+    excerpt: "Dozens of civil rights and advocacy organizations are calling on the Biden administration to immediately halt federal executions after an unprecedented run of capital punishment under President Donald"
+    publishedDateTime: 2021-02-09T18:03:00Z
+    webUrl: "https://www.washingtonpost.com/politics/courts_law/82-advocacy-groups-call-on-biden-to-end-federal-executions/2021/02/09/2cf26768-6ad7-11eb-a66e-e27046e9e898_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/82-advocacy-groups-call-on-biden-to-end-federal-executions/2021/02/09/2cf26768-6ad7-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/82-advocacy-groups-call-on-biden-to-end-federal-executions/2021/02/09/2cf26768-6ad7-11eb-a66e-e27046e9e898_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
@@ -540,6 +540,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Dem Sen. Manchin asks Biden to reverse Keystone XL rejection"
+    excerpt: "The new Democratic chairman of the Senate Energy Committee is urging President Joe Biden to reconsider his executive order revoking a presidential permit for the long-delayed Keystone XL oil pipeline"
+    publishedDateTime: 2021-02-09T21:58:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/dem-sen-manchin-asks-biden-reverse-keystone-xl-75789039"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/dem-sen-manchin-asks-biden-reverse-keystone-xl-75789039"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/dem-sen-manchin-asks-biden-reverse-keystone-xl-75789039"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_e4cdcf0e473d4aaebb5c8979ad6938c1_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Biden to meet Republicans on COVID-19 plan in test of bipartisan approach"
     excerpt: "President Joe Biden will meet 10 moderate Republican senators on Monday to discuss their proposal to shrink his sweeping $1.9 trillion U.S. COVID-19 relief package, even as Democrats prepare to push legislation through Congress without Republican support."
