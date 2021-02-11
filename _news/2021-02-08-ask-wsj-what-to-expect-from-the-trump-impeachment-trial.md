@@ -734,6 +734,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "BIDEN WHITE HOUSE LIVE UPDATES: President evades question about taking action against China over COVID-19"
+    excerpt: "President Biden dodged a question Wednesday on whether his administration would punish China over the country's early handling of the coronavirus pandemic."
+    publishedDateTime: 2021-02-11T05:01:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zR1b2ItrfOk/biden-live-updates-2-11-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-live-updates-2-11-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-live-updates-2-11-2021.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/add95066-24d3-4636-bf65-f0f6a9541cf2/56504e56-071b-46ab-9296-dd583496afbe/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Dems set to prosecute case at Trump impeachment trial amid speculation over which Republicans might convict"
     excerpt: "The House impeachment managers will begin their opening arguments on the merits of the impeachment of former President Donald Trump when the chamber convenes at noon on Wednesday, following a 56-44 Senate vote to move ahead with the trial Tuesday."
     publishedDateTime: 2021-02-10T13:56:31Z

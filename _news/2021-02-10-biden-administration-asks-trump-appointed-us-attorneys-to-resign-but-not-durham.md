@@ -79,6 +79,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Trump can't hang on to lawyers after false election claims"
+    excerpt: "Donald Trump has employed high-powered litigators for decades, but since losing the November election to President Joe Biden, he’s been bleeding attorneys"
+    publishedDateTime: 2021-02-11T06:07:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-hang-lawyers-false-election-claims-75820883"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-hang-lawyers-false-election-claims-75820883"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-hang-lawyers-false-election-claims-75820883"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_cd2d4aad5c404d5482c425bf81801aa9_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Poor handling of virus cost Trump his reelection, campaign autopsy finds"
     excerpt: "Former president Donald Trump lost the 2020 election largely due to his handling of the coronavirus pandemic, according to a post-election autopsy completed by Trump campaign pollster Tony Fabrizio. The 27-page document shows that voters in 10 key states rated the pandemic as their top voting issue,"
     publishedDateTime: 2021-02-02T10:03:00Z
@@ -142,6 +158,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601c29b832ce85decbe6075f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4969%26cropY1%3D152%26cropY2%3D2946"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Georgia prosecutors launch criminal probe into Trump efforts to influence election"
+    excerpt: "Prosecutors in Georgia’s biggest county have opened a criminal investigation into former U.S. President Donald Trump’s attempts to influence the state’s 2020 election results, ordering government officials to preserve documents in the second known criminal probe facing"
+    publishedDateTime: 2021-02-11T06:04:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-georgia-investigations-idUSKBN2AA26H"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AA26H"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AA26H"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 134
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210210&t=2&i=1551061435&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH191J0"
+        width: 817
+        height: 545
         isCached: true
   - title: "Georgia prosecutors investigate election interference after Trump's pressure campaign"
     excerpt: "Georgia attorneys requested that election officials preserve records for a criminal investigation after Donald Trump's efforts to tilt the vote count."

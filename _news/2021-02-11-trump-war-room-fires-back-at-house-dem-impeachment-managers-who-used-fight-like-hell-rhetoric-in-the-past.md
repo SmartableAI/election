@@ -32,21 +32,21 @@ images:
     isCached: true
 
 related:
-  - title: "Democrats dub Trump the 'inciter-in-chief' for provoking mob, refusing to stop Jan. 6 attack"
-    excerpt: "Democratic impeachment managers made the case Wednesday that the Jan. 6 attack on the Capitol was no accident but rather a \"premeditated\" and \"foreseeable\" outcome"
-    publishedDateTime: 2021-02-10T19:35:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fjUB8NnQ-Z0/democrats-dub-trump-the-inciter-in-chief-for-provoking-mob-refusing-to-stop-jan-6-attack"
-    ampWebUrl: "https://www.foxnews.com/politics/democrats-dub-trump-the-inciter-in-chief-for-provoking-mob-refusing-to-stop-jan-6-attack.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-dub-trump-the-inciter-in-chief-for-provoking-mob-refusing-to-stop-jan-6-attack.amp"
+  - title: "Meadows accuses House impeachment managers of 'conveniently leaving out' one line from Trump's Jan. 6 speech"
+    excerpt: "President Trump’s former chief of staff Mark Meadows accused House impeachment managers of “conveniently” leaving out a line from Trump’s pre-Capitol riot speech, where he told supporters to “peacefully and patriotically” make their voices heard. "
+    publishedDateTime: 2021-02-10T20:30:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yS_vxeeeQq0/meadows-accuses-house-impeachment-managers-of-conveniently-leaving-out-one-line-from-trumps-jan-6-speech"
+    ampWebUrl: "https://www.foxnews.com/politics/meadows-accuses-house-impeachment-managers-of-conveniently-leaving-out-one-line-from-trumps-jan-6-speech.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/meadows-accuses-house-impeachment-managers-of-conveniently-leaving-out-one-line-from-trumps-jan-6-speech.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 164
+    quality: 156
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Jamie-Raskin-Trump-Impeachment-Trial-AP.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/61a66219-cef7-41be-bf5a-2420fbb38051/157f42b9-2028-471b-81e5-255abc31ee16/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "KkS4jbjt7W3fxxiTkZ8Czr8x6W8IxZ/gMtuwklbrY5oSf9Owl10sVH9/OBNrl5VJ4yZSlJZvMk1Mi+3QjsO3ha5S3SAu7Nv3iRQDlPDbdmcVhXIf7yCg8I5YdRKNwTJBjvmC8xp4Ag+KDjZZkcErY23iDzidEotdwrma47GunWnUOgqBunOxbvSDpAJe7AvJBDIgR5kK5S+2fU9BVylHX2OaoNAtwXx+V827F7S/Ao+56kWJ9MVslhSOdCdsxN3rjgtOdUrXo9TT/dmFEhXyrIHFEpS+uG5KxKDTUll5qS1XAwfQs6oGKJVafTeaBthTYfiByBPnC84E7/E/g5N6DWyYmEeQQBxUhw0jqD1UU/I=;TSxH1RY8qcPYntLsKp/Rag=="

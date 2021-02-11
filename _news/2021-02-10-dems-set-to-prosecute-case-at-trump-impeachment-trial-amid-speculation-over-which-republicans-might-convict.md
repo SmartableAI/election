@@ -735,6 +735,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "BIDEN WHITE HOUSE LIVE UPDATES: President evades question about taking action against China over COVID-19"
+    excerpt: "President Biden dodged a question Wednesday on whether his administration would punish China over the country's early handling of the coronavirus pandemic."
+    publishedDateTime: 2021-02-11T05:01:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zR1b2ItrfOk/biden-live-updates-2-11-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-live-updates-2-11-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-live-updates-2-11-2021.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/add95066-24d3-4636-bf65-f0f6a9541cf2/56504e56-071b-46ab-9296-dd583496afbe/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Dem senator Chris Murphy on Trump impeachment trial: Not 'ridiculous’ for GOP to argue it’s unconstitutional"
     excerpt: "Sen. Chris Murphy on Sunday said that he believes the Senate has a responsibility to hold an impeachment trial of former President Donald Trump, adding that it is an open question whether or not such a trial is constitutional."
     publishedDateTime: 2021-02-08T16:21:44Z

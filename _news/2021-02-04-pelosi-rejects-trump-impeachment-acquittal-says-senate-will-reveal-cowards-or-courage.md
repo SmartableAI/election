@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pelosi-rejects-trump-impeachment-ac
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-rejects-trump-impeachment-acquittal-says-senate-will-reveal-cowards-or-courage.amp"
 type: article
 quality: 166
-heat: 226
+heat: 186
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump impeachment conviction? 'Zero chance,' Republicans say, as Dems move forward with case"
-    excerpt: "The hearings for the second impeachment trial of former President Trump start on Tuesday and Republicans are making it clear, even before they're gaveled in, that they believe the result is predetermined. "
-    publishedDateTime: 2021-02-08T12:58:09Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vycRd5zogXY/trump-impeachment-conviction-zero-chance-republicans-say-as-dems-move-forward-with-case-on-eve-of-trial"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-conviction-zero-chance-republicans-say-as-dems-move-forward-with-case-on-eve-of-trial.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-conviction-zero-chance-republicans-say-as-dems-move-forward-with-case-on-eve-of-trial.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 164
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Howard Kurtz: Media will use impeachment trial to ‘convict Donald Trump in the court of public opinion’"
     excerpt: "Fox News media analyst Howard Kurtz predicts Donald Trump’s second impeachment trial will be “grand political theater” that will dominate media coverage."
     publishedDateTime: 2021-02-01T21:32:34Z
@@ -62,22 +46,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0f1e8796-e12a-466e-a05d-58f56f2aa13a/c3254a19-493a-479d-8670-59412f3c0ec0/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Eric Swalwell, Dem congressman linked to Chinese spy, makes impeachment case against Trump at Senate trial"
-    excerpt: "Rep. Eric Swalwell’s job as a House impeachment manager is to convince at least two-thirds of the Senate to convict former President Trump of inciting an insurrection, but a number of leading Republicans remain unconvinced that he belongs on the House Intelligence and Homeland Security committees."
-    publishedDateTime: 2021-02-11T01:11:16Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Jh-3_QcXHOY/eric-swalwell-chinese-spy-impeachment-case-trump-senate-trial"
-    ampWebUrl: "https://www.foxnews.com/politics/eric-swalwell-chinese-spy-impeachment-case-trump-senate-trial.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/eric-swalwell-chinese-spy-impeachment-case-trump-senate-trial.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 157
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21041820921336.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
         isCached: true
 
 secured: "tnvemqO8Fa/kVNQXgf7Pin83GhWxpG4TIlybt1b6GzH9Dn+JjuZDCXItWH0ThpOoEDUxr51j2tloaprpMafZtvxvEOqJSBfOZGp4VCKnbnU92WBq4MpIiFA3JwSuhqigA0x5sTIeJs8kDAefPQRhmrRlnIhsHFDFGCg+ub9PHkVI/yfF0GzLZ6kUbqM8dLissI4871JQ/hnDC22tvjFb8pqMVcv11r+yKNNhv4k7MPFRM1EH7R9t0JhTO81V0aIMYtm1v3Ccm3J3P0Bi0sB8FaFIGcyrWQAdJxZyg8jJ+Ua8dRP48p3C/HYJ9BfzE2SDdtf3e8WF/xERhXeJsPxkznOiJqap0ArtoMLk9SFjKZ4=;CPAHEJ4JrwthRpdAuuWU2A=="

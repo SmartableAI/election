@@ -79,6 +79,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "TRUMP IMPEACHMENT TRIAL LIVE UPDATES: Swalwell shares Capitol footage, makes case against Trump"
+    excerpt: "Rep. Eric Swalwell’s job as a House impeachment manager is to convince at least two-thirds of the Senate to convict former President Trump of inciting an insurrection."
+    publishedDateTime: 2021-02-11T05:01:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rdExbP7er5k/trump-impeachment-live-updates-2-11-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-live-updates-2-11-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-live-updates-2-11-2021.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ee0ef533-fb60-44ac-b46c-92bc4aa72644/ea3ed032-09f1-4a92-ad8b-597f78765eac/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Dems in Trump trial use graphic video of Capitol attack; Trump lawyers' video shows 'lust' for impeachment"
     excerpt: "Democratic impeachment managers wasted no time reminding senators of the horrors of the violent Jan. 6 Capitol riot in an effort to make a vivid and personal case for conviction against former President Trump on charges he incited the insurrection. "
     publishedDateTime: 2021-02-09T20:56:23Z

@@ -31,37 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Pelosi rejects Trump impeachment acquittal, says Senate will reveal 'cowards or courage'"
-    excerpt: "House Speaker Nancy Pelosi, D-Calif., rejected any notion that former President Trump is headed for a second acquittal in the Senate during his impeachment trial. "
-    publishedDateTime: 2021-02-04T20:03:18Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EZpJNfqhVj4/pelosi-rejects-trump-impeachment-acquittal-says-senate-will-reveal-cowards-or-courage"
-    ampWebUrl: "https://www.foxnews.com/politics/pelosi-rejects-trump-impeachment-acquittal-says-senate-will-reveal-cowards-or-courage.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-rejects-trump-impeachment-acquittal-says-senate-will-reveal-cowards-or-courage.amp"
+  - title: "Warren says Republicans who stand with Trump ‘must be stopped’"
+    excerpt: "Sen. Elizabeth Warren, D-Mass, said Wednesday that she believed the Democrat impeachment managers made a compelling case against former President Trump and any Republican who stands with him “must be stopped.”"
+    publishedDateTime: 2021-02-11T06:43:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pcGPrDMtmHU/warren-says-republicans-who-stand-with-trump-must-be-stopped"
+    ampWebUrl: "https://www.foxnews.com/politics/warren-says-republicans-who-stand-with-trump-must-be-stopped.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/warren-says-republicans-who-stand-with-trump-must-be-stopped.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 166
+    quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7f69f637-0c95-40e7-bc37-57c7e1df7af2/b983ea9c-8f51-4de1-b6c0-9bcf06eb3a0e/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Howard Kurtz: Media will use impeachment trial to ‘convict Donald Trump in the court of public opinion’"
-    excerpt: "Fox News media analyst Howard Kurtz predicts Donald Trump’s second impeachment trial will be “grand political theater” that will dominate media coverage."
-    publishedDateTime: 2021-02-01T21:32:34Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hLve9vSHhGs/media-impeachment-trial-convict-trump-court-public-opinion"
-    ampWebUrl: "https://www.foxnews.com/politics/media-impeachment-trial-convict-trump-court-public-opinion.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/media-impeachment-trial-convict-trump-court-public-opinion.amp"
+  - title: "Democrats dub Trump the 'inciter-in-chief' for provoking mob, refusing to stop Jan. 6 attack"
+    excerpt: "Democratic impeachment managers made the case Wednesday that the Jan. 6 attack on the Capitol was no accident but rather a \"premeditated\" and \"foreseeable\" outcome"
+    publishedDateTime: 2021-02-10T19:35:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fjUB8NnQ-Z0/democrats-dub-trump-the-inciter-in-chief-for-provoking-mob-refusing-to-stop-jan-6-attack"
+    ampWebUrl: "https://www.foxnews.com/politics/democrats-dub-trump-the-inciter-in-chief-for-provoking-mob-refusing-to-stop-jan-6-attack.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-dub-trump-the-inciter-in-chief-for-provoking-mob-refusing-to-stop-jan-6-attack.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 159
+    quality: 164
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0f1e8796-e12a-466e-a05d-58f56f2aa13a/c3254a19-493a-479d-8670-59412f3c0ec0/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Jamie-Raskin-Trump-Impeachment-Trial-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Eric Swalwell, Dem congressman linked to Chinese spy, makes impeachment case against Trump at Senate trial"
     excerpt: "Rep. Eric Swalwell’s job as a House impeachment manager is to convince at least two-thirds of the Senate to convict former President Trump of inciting an insurrection, but a number of leading Republicans remain unconvinced that he belongs on the House Intelligence and Homeland Security committees."

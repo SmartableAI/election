@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/scott-trump-not-guilty-impeachment-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/scott-trump-not-guilty-impeachment-capitol-riot-insurrection.amp"
 type: article
 quality: 175
-heat: 315
+heat: 335
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 163
     images:
       - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "TRUMP IMPEACHMENT TRIAL LIVE UPDATES: Swalwell shares Capitol footage, makes case against Trump"
+    excerpt: "Rep. Eric Swalwell’s job as a House impeachment manager is to convince at least two-thirds of the Senate to convict former President Trump of inciting an insurrection."
+    publishedDateTime: 2021-02-11T05:01:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rdExbP7er5k/trump-impeachment-live-updates-2-11-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-live-updates-2-11-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-live-updates-2-11-2021.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ee0ef533-fb60-44ac-b46c-92bc4aa72644/ea3ed032-09f1-4a92-ad8b-597f78765eac/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

@@ -588,6 +588,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Despite Biden's push, a difficult road to peace in Yemen"
+    excerpt: "It’s also too early, he said — too early to say whether President Joe Biden’s move will bring peace to Yemen. Biden’s halt to support for the Saudi-led coalition was a dramatic break with the air campaign against Yemen’s Houthi rebels,"
+    publishedDateTime: 2021-02-11T06:14:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/bidens-push-difficult-road-peace-yemen-75821462"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/International/WireAP_39d5010b83c04d1da8b91419b16f6882_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Kamala Harris uses casting vote to pass Covid relief budget resolution – video"
     excerpt: "Vice-president’s Senate intervention means Biden’s $1.9tn package can pass without Republican support"
     publishedDateTime: 2021-02-05T10:25:00Z
@@ -930,14 +944,14 @@ related:
   - title: "President Joe Biden and Vice President Kamala Harris visit Pentagon"
     excerpt: "President Joe Biden and Vice President Kamala Harris greet Joint Chiefs Chairman Gen. Mark Milley and Secretary of Defense Lloyd Austin at the Pentagon, in Arlington, Virginia, on Wednesday, February 10,"
     publishedDateTime: 2021-02-10T19:40:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/258e85c6277f7e88599f1428b2a19d2a/President-Joe-Biden-and-Vice-President-Kamala-Harris-visit-Pentagon/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/8a3ef096ccfb1db930c7ff81e8a78af2/President-Joe-Biden-and-Vice-President-Kamala-Harris-visit-Pentagon/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 70
     images:
-      - url: "https://cdnph.upi.com/pv/upi/258e85c6277f7e88599f1428b2a19d2a/PENTAGON-BIDEN.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/8a3ef096ccfb1db930c7ff81e8a78af2/PENTAGON-BIDEN.jpg"
         width: 650
         height: 433
         isCached: true
@@ -1008,14 +1022,14 @@ related:
   - title: "US President Joe Biden and US Vice President Kamala Harris visit the Pentagon"
     excerpt: "Chairman of the Joint Chiefs of Staff Mark Milley (R) and Secretary of Defense Lloyd Austin, tour the African Americans in Service Corridor at the Pentagon in Arlington, Virginia, on Wednesday February 10,"
     publishedDateTime: 2021-02-10T22:03:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/916dd0e9cdb6d76ce340b8817d259f78/US-President-Joe-Biden-and-US-Vice-President-Kamala-Harris-visit-the-Pentagon/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/a42f8b5d9723248e8054805d879d49ef/US-President-Joe-Biden-and-US-Vice-President-Kamala-Harris-visit-the-Pentagon/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 67
     images:
-      - url: "https://cdnph.upi.com/pv/upi/916dd0e9cdb6d76ce340b8817d259f78/PENTAGON-BIDEN.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/a42f8b5d9723248e8054805d879d49ef/PENTAGON-BIDEN.jpg"
         width: 650
         height: 433
         isCached: true

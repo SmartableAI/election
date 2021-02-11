@@ -3,8 +3,8 @@ category: news
 title: "President Joe Biden and Vice President Kamala Harris visit Pentagon"
 excerpt: "President Joe Biden and Vice President Kamala Harris greet Joint Chiefs Chairman Gen. Mark Milley and Secretary of Defense Lloyd Austin at the Pentagon, in Arlington, Virginia, on Wednesday, February 10,"
 publishedDateTime: 2021-02-10T19:40:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/258e85c6277f7e88599f1428b2a19d2a/President-Joe-Biden-and-Vice-President-Kamala-Harris-visit-Pentagon/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/258e85c6277f7e88599f1428b2a19d2a/President-Joe-Biden-and-Vice-President-Kamala-Harris-visit-Pentagon/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/8a3ef096ccfb1db930c7ff81e8a78af2/President-Joe-Biden-and-Vice-President-Kamala-Harris-visit-Pentagon/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/8a3ef096ccfb1db930c7ff81e8a78af2/President-Joe-Biden-and-Vice-President-Kamala-Harris-visit-Pentagon/"
 type: article
 quality: 70
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/258e85c6277f7e88599f1428b2a19d2a/PENTAGON-BIDEN.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/8a3ef096ccfb1db930c7ff81e8a78af2/PENTAGON-BIDEN.jpg"
     width: 650
     height: 433
     isCached: true
@@ -597,6 +597,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Despite Biden's push, a difficult road to peace in Yemen"
+    excerpt: "It’s also too early, he said — too early to say whether President Joe Biden’s move will bring peace to Yemen. Biden’s halt to support for the Saudi-led coalition was a dramatic break with the air campaign against Yemen’s Houthi rebels,"
+    publishedDateTime: 2021-02-11T06:14:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/bidens-push-difficult-road-peace-yemen-75821462"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/International/WireAP_39d5010b83c04d1da8b91419b16f6882_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Kamala Harris uses casting vote to pass Covid relief budget resolution – video"
     excerpt: "Vice-president’s Senate intervention means Biden’s $1.9tn package can pass without Republican support"
     publishedDateTime: 2021-02-05T10:25:00Z
@@ -1003,14 +1017,14 @@ related:
   - title: "US President Joe Biden and US Vice President Kamala Harris visit the Pentagon"
     excerpt: "Chairman of the Joint Chiefs of Staff Mark Milley (R) and Secretary of Defense Lloyd Austin, tour the African Americans in Service Corridor at the Pentagon in Arlington, Virginia, on Wednesday February 10,"
     publishedDateTime: 2021-02-10T22:03:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/916dd0e9cdb6d76ce340b8817d259f78/US-President-Joe-Biden-and-US-Vice-President-Kamala-Harris-visit-the-Pentagon/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/a42f8b5d9723248e8054805d879d49ef/US-President-Joe-Biden-and-US-Vice-President-Kamala-Harris-visit-the-Pentagon/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 67
     images:
-      - url: "https://cdnph.upi.com/pv/upi/916dd0e9cdb6d76ce340b8817d259f78/PENTAGON-BIDEN.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/a42f8b5d9723248e8054805d879d49ef/PENTAGON-BIDEN.jpg"
         width: 650
         height: 433
         isCached: true
@@ -1321,6 +1335,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "Lr2z882og++/3hYqqb4UF2GR8QSi705ZpcDX7djHWsbSsLMrkwI/gF3JGiWQNbvd8p59fnDoa+yHRYb8DUQ60dwB1gEFfsYdVQwBMiBu0NmpsnaNIzAf/RgCY+bTNJQotl7fxZvP6lnYf6kP016TtdGLec32ZvJ3dfpdftUvBwuT80u08TZmW/crltwXowe0rOkg1T4f0GXg983GrtPDWaeIVrouU7guHDqlDWUQj/KHuNK3tYas6Ngrsf0rbf1sKBp2mxSu6kFsz4qG0DVr6/BViqsDdudqraT2wdxtDjUJ6J3FH1Ykw3uR7xSGwWkh3JISkxVQEio4yWbW4OMaGUTN7GXTXVYFGzl3EtvGAC1rwhllf6ywGzvLnkhTgrdDFh/3FjhIih9U4HrZfbEOWVvqYxutlC7Os6bRW2ksISm2OaNm8SN7WZquTC256erb2FXv3g2g722lFVhxiFjAIcxEVkbyIUr97qFwbNnX7gZhethukCbmqnat5FuWAXNgGzL+mIyCvS+LU1k1zX5axA==;YGrixonEHZLWd1jIMQm7yA=="
+secured: "as5eZR/H4lFK7DmK0ivaPZHJt5ke/7qo4BSufmNmzAeKyorOSBSqN6MnsC9t52KgfFcLkwCSKuW0zqr3fOLRL+VPOPJaHJTrqZ0Rq3fFMSqFIEtuHHeqf+JdHCGZjhT/wXdr6mt5Sr0Mt5qQTjaEXWmtSi5KuzeJiJofHI4SnzqdjnOje7plQlAbfJLhts19yS7pSTzr9odlqWQWafOJcY76Zx383m4J1FnAMDxeR6FeedDllLU24r+lVzG8eGIeDN+1LKMnwjpv0RRDaclpmmHl2p3lCx7TO1r06G7WsTHC7JkrdYnhIbyzF4nuoyHPAr3fdxWxZ/Ts6jD+SA3ZbtOaownOU70f7UjXSbbd2Y8=;Eq5iacM2o70ut4AJSY/juA=="
 ---
 

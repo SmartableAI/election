@@ -253,6 +253,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden administration tells Supreme Court Obamacare is constitutional, should be saved"
+    excerpt: "In letter to the court, government lawyers disavowed the view the Trump administration argued just months ago."
+    publishedDateTime: 2021-02-11T04:20:00Z
+    webUrl: "https://www.washingtonpost.com/politics/courts_law/biden-supreme-court-obamacare/2021/02/10/21dbfcac-6be7-11eb-ba56-d7e2c8defa31_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/biden-supreme-court-obamacare/2021/02/10/21dbfcac-6be7-11eb-ba56-d7e2c8defa31_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/biden-supreme-court-obamacare/2021/02/10/21dbfcac-6be7-11eb-ba56-d7e2c8defa31_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 118
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GTKWHNTL6EI6XOSW27RMRXX2GE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Politics live updates: $15 minimum wage unlikely to be in COVID relief bill, Biden says"
     excerpt: "President Joe Biden said a proposal to raise the federal minimum wage to $15 an hour is unlikely to remain in the $1.9 trillion COVID relief package."
     publishedDateTime: 2021-02-07T01:04:00Z

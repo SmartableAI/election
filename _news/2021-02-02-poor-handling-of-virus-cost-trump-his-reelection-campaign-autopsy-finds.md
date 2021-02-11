@@ -79,6 +79,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Trump can't hang on to lawyers after false election claims"
+    excerpt: "Donald Trump has employed high-powered litigators for decades, but since losing the November election to President Joe Biden, he’s been bleeding attorneys"
+    publishedDateTime: 2021-02-11T06:07:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-hang-lawyers-false-election-claims-75820883"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-hang-lawyers-false-election-claims-75820883"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-hang-lawyers-false-election-claims-75820883"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_cd2d4aad5c404d5482c425bf81801aa9_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden returns prayer breakfast to lofty tone after disruption of Trump years"
     excerpt: "Biden spoke at the National Prayer Breakfast on Thursday about unity and faith — a year after Trump, at the same event, brandished newspaper headlines and took shots at his adversaries."
     publishedDateTime: 2021-02-05T04:49:00Z
@@ -142,6 +158,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2019/05/14/USAT/574db29e-bd46-4011-b068-15436aae2364-A06_DURHAM_26_A6.JPG?auto=webp&crop=1301,740,x0,y119&format=pjpg&width=1200"
         width: 1200
         height: 683
+        isCached: true
+  - title: "Georgia prosecutors launch criminal probe into Trump efforts to influence election"
+    excerpt: "Prosecutors in Georgia’s biggest county have opened a criminal investigation into former U.S. President Donald Trump’s attempts to influence the state’s 2020 election results, ordering government officials to preserve documents in the second known criminal probe facing"
+    publishedDateTime: 2021-02-11T06:04:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-georgia-investigations-idUSKBN2AA26H"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AA26H"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AA26H"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 134
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210210&t=2&i=1551061435&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH191J0"
+        width: 817
+        height: 545
         isCached: true
   - title: "Georgia prosecutors investigate election interference after Trump's pressure campaign"
     excerpt: "Georgia attorneys requested that election officials preserve records for a criminal investigation after Donald Trump's efforts to tilt the vote count."
