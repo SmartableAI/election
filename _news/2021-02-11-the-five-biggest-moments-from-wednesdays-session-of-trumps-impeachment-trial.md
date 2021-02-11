@@ -415,6 +415,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden admin tells Supreme Court ObamaCare is constitutional, a reversal of Trump's DOJ stance in pending case"
+    excerpt: "The Biden administration is telling the Supreme Court it believes the Affordable Care Act (ACA) -- or ObamaCare -- is constitutional, a reversal of the Trump Justice Department position."
+    publishedDateTime: 2021-02-11T13:01:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gLqp6fP68E4/biden-admin-tells-supreme-court-obamacare-is-constitutional-a-reversal-of-trumps-doj-stance-in-pending-case"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-tells-supreme-court-obamacare-is-constitutional-a-reversal-of-trumps-doj-stance-in-pending-case.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-tells-supreme-court-obamacare-is-constitutional-a-reversal-of-trumps-doj-stance-in-pending-case.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d9465f71-aae9-4d6a-9da4-b62469e2a29f/581144ee-2119-4e60-aa11-eadabbed4975/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden 'will not spend too much time' watching impeachment trial but finds Trump behavior 'erratic,' Psaki says"
     excerpt: "White House Press Secretary Jen Psaki said Monday that President Biden “will not spend too much time” watching former President Trump’s Senate impeachment trial."
     publishedDateTime: 2021-02-08T18:31:12Z
@@ -1176,6 +1192,22 @@ related:
     quality: 135
     images:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/donald-trump-3.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump impeachment trial: Day 3 schedule, time and how to watch"
+    excerpt: "Former President Donald Trump’s second impeachment trial continues into its third day Thursday, with House impeachment managers and lawyers for the defense continuing upward of four days of proceedings."
+    publishedDateTime: 2021-02-11T14:38:00Z
+    webUrl: "https://nypost.com/2021/02/11/trump-impeachment-trial-day-3-schedule-time-how-to-watch/"
+    ampWebUrl: "https://nypost.com/2021/02/11/trump-impeachment-trial-day-3-schedule-time-how-to-watch/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/11/trump-impeachment-trial-day-3-schedule-time-how-to-watch/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/USA-TRUMP_SAGE-1.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true

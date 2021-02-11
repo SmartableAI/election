@@ -2,11 +2,11 @@
 category: news
 title: "Suu Kyi aide, electoral officials arrested in Myanmar, Biden approves sanctions"
 excerpt: "A close aide to ousted Myanmar leader Aung San Suu Kyi was detained in a new wave of arrests following last week's military coup, a party official said on Thursday, as Washington moved a step closer to imposing sanctions on the junta."
-publishedDateTime: 2021-02-11T11:16:00Z
-originalUrl: "https://www.reuters.com/article/us-myanmar-politics-idUSKBN2AB06O"
-webUrl: "https://www.reuters.com/article/us-myanmar-politics-idUSKBN2AB06O"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AB06O"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AB06O"
+publishedDateTime: 2021-02-11T13:34:00Z
+originalUrl: "https://www.reuters.com/article/uk-myanmar-politics-idAFKBN2AB068"
+webUrl: "https://www.reuters.com/article/uk-myanmar-politics-idAFKBN2AB068"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN2AB068"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN2AB068"
 type: article
 quality: 121
 heat: 161
@@ -25,7 +25,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210211&t=2&i=1551177209&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1A0WD"
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210211&t=2&i=1551189130&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1A144"
     width: 819
     height: 545
     isCached: true
@@ -62,6 +62,6 @@ related:
         height: 558
         isCached: true
 
-secured: "4ioUsJgwwGgwhUVlBaXIAxOqnmgxMWKJWtBawcKnxxyDfBu3PmjgaonGajAgmsiTyVzuGuwlMVGJFUbl3JetJh4WJ2dOMpf+jiUygbkO8lD6IsM42CVL+THdujoWs72SxCjmVoy3Hc3VHNCVD7BTKHVmfthDqazjad97i5ClBGBjeQTKlMQ6Lq+7s2M4TeuGqpzd4kFll5Vh8QydvhQunG4yTZsKhffh8ldL1iJ/mPozls6kJ055DcBdj/AzIqlae5aDVTJ5sQdjcXnv+hOeCrok1OWCiTCCRbOu6mEYzeqoPtJZ0n38b7lfWlAeY78MqoVtnvNWjoNcDA4T1XkSZM66uVge7IwCjdI2k4Jxuxw=;SuU11dRlwQc4wjvZgxGTvg=="
+secured: "N9n87r9RUzo1N5Rxdo6ILVZcpDiuGGpo2kHUh9LQjkvM1OOgX6fRPXifsROopd4uYGfMKrLr2CmIiXkidEwZ8h+Aku5YfUNCLiIywcnjH441+nNw5gzcFvwc+6EUkA/IuRaJmTjTof5YrwiYrSn0OEUlKbLQkUnGdM+W62a4YLn8jIJI0x+04mh0jRclOLXSy+C3y7OsjlrWavX+K1s6BZuq1VPF03R40Z+nd1YOvm1AU/ceGk9FAEhoCcUIMAzzhWP+zmbXKSFJ7VPNVHUjOJJrAlciKQlFXJYkOQeDO1mg1ZKwMzLwq/QlJ1e0u3JTYMO1I8xDjYL03uZddrzP341hOaGEAeu5PUm6ArQ3yF4=;bkOkwoaXAkfv3wigA/eFzw=="
 ---
 

@@ -95,6 +95,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "GOP Sen. Kevin Cramer Says He Expects He Will Vote to Acquit Donald Trump"
+    excerpt: "Before the trial of the former president, the North Dakota lawmaker said in a video message \"Welcome to the stupidest week in the Senate.\""
+    publishedDateTime: 2021-02-11T13:09:00Z
+    webUrl: "https://www.newsweek.com/kevin-cramer-donald-trump-impeachment-acquit-1568565"
+    ampWebUrl: "https://www.newsweek.com/kevin-cramer-donald-trump-impeachment-acquit-1568565?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kevin-cramer-donald-trump-impeachment-acquit-1568565?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 124
+    images:
+      - url: "https://d.newsweek.com/en/full/1732353/senator-kevin-cramer.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Lisa Murkowski Backs Liz Cheney's Call for GOP to Move On: 'Donald Trump Is Gone'"
     excerpt: "The Alaska senator has said the party is more than the former president, as the Republican lawmakers who voted for impeachment insist they have no regrets."
     publishedDateTime: 2021-02-09T10:51:00Z

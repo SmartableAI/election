@@ -287,6 +287,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to meet with senators on infrastructure amid Trump's impeachment trial"
+    excerpt: "President Joe Biden on Thursday will meet with a bipartisan group of senators to discuss rebuilding America's infrastructure, a show of how the White House looks to move ahead with its agenda despite former President Donald Trump's second impeachment trial.\n    \n"
+    publishedDateTime: 2021-02-11T14:17:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IsBj4P81sd4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/11/politics/biden-senators-infrastructure-impeachment/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/11/politics/biden-senators-infrastructure-impeachment/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 187
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210210134821-03-biden-myanmar-0210-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden chief of staff doesn't rule out stopping intelligence briefings for Trump"
     excerpt: "Joe Biden's incoming White House chief of staff on Sunday did not rule out blocking President Donald Trump from receiving intelligence briefings once he is a private citizen.\n    \n"
     publishedDateTime: 2021-01-17T18:01:02Z

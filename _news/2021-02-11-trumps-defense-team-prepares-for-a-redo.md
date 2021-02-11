@@ -542,6 +542,22 @@ related:
         width: 2500
         height: 1250
         isCached: true
+  - title: "Trump Impeachment Trial Live Updates: Final Day of Arguments for the Prosecution"
+    excerpt: "The Democrats have about eight hours left to make their case for convicting former President Donald J. Trump. House managers are urging the Senate to hold Mr. Trump to a higher standard, not a legal definition of incitement."
+    publishedDateTime: 2021-02-11T08:27:00Z
+    webUrl: "https://www.nytimes.com/live/2021/02/11/us/impeachment-trial"
+    ampWebUrl: "https://www.nytimes.com/live/2021/02/11/us/impeachment-trial.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/02/11/us/impeachment-trial.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 130
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/11/us/politics/11impeachment-briefing-morning-lead/11impeachment-briefing-morning-lead-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trump is on trial for inciting an insurrection. What about the 12 people who spoke before him?"
     excerpt: "Rioters heard from others besides Trump on Jan. 6. As the former president confronts a Senate impeachment trial, 12 other notable “Stop the Steal” speakers have faced few, if any, consequences."
     publishedDateTime: 2021-02-10T09:36:00Z

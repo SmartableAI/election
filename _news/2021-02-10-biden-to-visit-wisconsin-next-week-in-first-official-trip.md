@@ -63,6 +63,22 @@ related:
         width: 820
         height: 545
         isCached: true
+  - title: "Biden raises Taiwan and human rights with Xi Jinping in first phone call"
+    excerpt: "The conversation came hours after the US president announced a new Pentagon taskforce on China"
+    publishedDateTime: 2021-02-11T04:53:00Z
+    webUrl: "https://www.theguardian.com/world/2021/feb/11/biden-raises-taiwan-tensions-and-human-rights-with-xi-jinping-in-first-phone-call"
+    ampWebUrl: "https://amp.theguardian.com/world/2021/feb/11/biden-raises-taiwan-tensions-and-human-rights-with-xi-jinping-in-first-phone-call"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/feb/11/biden-raises-taiwan-tensions-and-human-rights-with-xi-jinping-in-first-phone-call"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 124
+    images:
+      - url: "https://i.guim.co.uk/img/media/01f22aa063b18ea0226a68234c943a39bb9b373d/0_99_4800_2880/master/4800.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=82c4ed390b0019c05fd641a7b8a8f7ab"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Biden taps Julie Su, top Calif. labor official, for deputy labor secretary"
     excerpt: "President Joe Biden on Wednesday nominated Julie Su, the secretary of California's Labor and Workforce Development Agency, for the number-two spot at the U.S. Department of Labor, amid criticism by some Republicans and business groups of her oversight of the state's"
     publishedDateTime: 2021-02-10T22:18:00Z

@@ -112,6 +112,22 @@ related:
         width: 1440
         height: 964
         isCached: true
+  - title: "Tuberville says he told Trump about Pence's evacuation during Capitol riot"
+    excerpt: "Sen. Tommy Tuberville (R-Ala.) said late Wednesday that he spoke with then-President Trump on Jan. 6 and told him that then-Vice President Pence was being evacuated as rioters descended on the Capitol."
+    publishedDateTime: 2021-02-11T13:58:00Z
+    webUrl: "https://thehill.com/homenews/senate/538385-tuberville-says-he-told-trump-about-pences-evacuation-during-capitol-hill"
+    ampWebUrl: "https://thehill.com/homenews/senate/538385-tuberville-says-he-told-trump-about-pences-evacuation-during-capitol-hill?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/538385-tuberville-says-he-told-trump-about-pences-evacuation-during-capitol-hill?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 138
+    images:
+      - url: "https://thehill.com/sites/default/files/tubervilletommy_020221gn_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Biden returns prayer breakfast to lofty tone after disruption of Trump years"
     excerpt: "Biden spoke at the National Prayer Breakfast on Thursday about unity and faith — a year after Trump, at the same event, brandished newspaper headlines and took shots at his adversaries."
     publishedDateTime: 2021-02-05T04:49:00Z
@@ -2787,6 +2803,6 @@ related:
       domain: usnews.com
     quality: 46
 
-secured: "1tXBTXpxehK0X801vJkmC+Yd6QiBkX8OuJ0ulHJdKlGZzz5LQJnl3SHBxc8/L5NHNTbkQboi71s3+VtMXpdig3ZLafI9MIOR/NcJr+ow1ieYcyABurtakfR8HPZKkg1EbCoLNq4qH2y8qd0JOreS+jtB1h5RFhUOqVpXYLtbULSdVd8zc3O7XO0WSFCuEbkFlu8l0Kpt2hg3DZRDOIfolHtgCSyvC4A/levAIHDsfwTwXiHLXGR/uaUwhSP07cV23lNuR+RPf+Nbei8KFEZL6THPjUswogoh4RskqZXZGGiIB+gUiFiDuuD7Ee2Kt49/NvfkKff1LTFP7yo5eZJEYvYPTqU51jj+z4+8PBSMtgw=;6xejDi+I2mAuNx0BsAkhTQ=="
+secured: "13fWAgXf1GD6vJNULH0JJZeWw+h6bMvJvj6272Dknh20lyX3m1lOardxfW0mbkeuKNJx7ysKOQ9Dozfdfz+JxZDO3w2+wZi+XOPnvla+A9BFldUYrHq7ccINFpVww55N0fw3ZoG4QIb7LrYaskz5pgthPgQ9/XkQla0bLv9F6sVjtkAabyV79zpHf1ixuiWrHrxc49MThHde2tGNhtT5gVmSh4DN5zvahUshOgftq1Lc0VnXt6NxIy5UzXM3yYQuQkyDUdpHy1Bu5hXKnolcb7kklorznjfG70PeQ0/zJKQmYN3fRpo32EGfB/pUffmym3KtYL2WxOKYev4zrd/cg4sBgeCt3xNSz9gmgh9rIIT9igOEOMAf5vCpR3WUtdG/cEPbMeJydqAS+AHzONHRlQfwJlx0oz5bRJx0lu4sKPNdTxA6oX6lRXHnPV0boSmnMFO4GDbHGUlsXPn/fM/e2EtaFbj0ZdLUKkyLBBge4kbKI17DaYN10BR+9igQ1HAUKWVroHZi3Ad1gm6sCSF+Zw==;SbUX2eZw1FhGbKo4AsMK6w=="
 ---
 

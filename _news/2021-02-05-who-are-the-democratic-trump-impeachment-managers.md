@@ -112,6 +112,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Mike Lee's objection to ‘false’ Trump impeachment evidence causes stir as Dems set for closing arguments"
+    excerpt: "The House impeachment managers will continue their case Thursday, after making their argument over the last two days that Trump should be convicted of inciting an insurrection on the Capitol."
+    publishedDateTime: 2021-02-11T12:56:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/R4cojGyEjLs/impeachment-managers-close-argument-lee-objection"
+    ampWebUrl: "https://www.foxnews.com/politics/impeachment-managers-close-argument-lee-objection.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/impeachment-managers-close-argument-lee-objection.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Dems in Trump trial use graphic video of Capitol attack; Trump lawyers' video shows 'lust' for impeachment"
     excerpt: "Democratic impeachment managers wasted no time reminding senators of the horrors of the violent Jan. 6 Capitol riot in an effort to make a vivid and personal case for conviction against former President Trump on charges he incited the insurrection. "
     publishedDateTime: 2021-02-09T20:56:23Z

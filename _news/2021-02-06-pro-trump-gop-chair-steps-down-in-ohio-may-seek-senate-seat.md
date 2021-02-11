@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/health/pro-trump-gop-chair-steps-down
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/pro-trump-gop-chair-steps-down-in-ohio-may-seek-senate-seat/2021/02/05/5508d346-67d9-11eb-bab8-707f8769d785_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 345
+heat: 365
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/10/06393edd-f804-4a64-aa67-f5d55b0b10c2/thumbnail/1200x630/a11b24a137e8555dacc8b56a9297bbd6/screen-shot-2021-02-10-at-3-48-51-pm.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "GOP Sen. Kevin Cramer Says He Expects He Will Vote to Acquit Donald Trump"
+    excerpt: "Before the trial of the former president, the North Dakota lawmaker said in a video message \"Welcome to the stupidest week in the Senate.\""
+    publishedDateTime: 2021-02-11T13:09:00Z
+    webUrl: "https://www.newsweek.com/kevin-cramer-donald-trump-impeachment-acquit-1568565"
+    ampWebUrl: "https://www.newsweek.com/kevin-cramer-donald-trump-impeachment-acquit-1568565?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kevin-cramer-donald-trump-impeachment-acquit-1568565?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 124
+    images:
+      - url: "https://d.newsweek.com/en/full/1732353/senator-kevin-cramer.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Lisa Murkowski Backs Liz Cheney's Call for GOP to Move On: 'Donald Trump Is Gone'"
     excerpt: "The Alaska senator has said the party is more than the former president, as the Republican lawmakers who voted for impeachment insist they have no regrets."

@@ -527,6 +527,22 @@ related:
         width: 2500
         height: 1250
         isCached: true
+  - title: "Trump Impeachment Trial Live Updates: Final Day of Arguments for the Prosecution"
+    excerpt: "The Democrats have about eight hours left to make their case for convicting former President Donald J. Trump. House managers are urging the Senate to hold Mr. Trump to a higher standard, not a legal definition of incitement."
+    publishedDateTime: 2021-02-11T08:27:00Z
+    webUrl: "https://www.nytimes.com/live/2021/02/11/us/impeachment-trial"
+    ampWebUrl: "https://www.nytimes.com/live/2021/02/11/us/impeachment-trial.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/02/11/us/impeachment-trial.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 130
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/11/us/politics/11impeachment-briefing-morning-lead/11impeachment-briefing-morning-lead-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trump is on trial for inciting an insurrection. What about the 12 people who spoke before him?"
     excerpt: "Rioters heard from others besides Trump on Jan. 6. As the former president confronts a Senate impeachment trial, 12 other notable “Stop the Steal” speakers have faced few, if any, consequences."
     publishedDateTime: 2021-02-10T09:36:00Z
@@ -558,6 +574,6 @@ related:
         height: 629
         isCached: true
 
-secured: "FfA0ZIy9NTG/YZDgiuYz1a6Di+7kkhwE+IMZhbMiW3EwPD90m7vCgViLmeTdNqaXzFzQ3XR3d7uB2S6MpuXS800Ba1ONfanxyP3RRE5Uen18/DAd0uRp5Z4HF8SOZNevhTVWPo4iEU7pGoJB6Z/3EhnBTYIruIc1kxhBbSJs3mm4r/hp3o8jlj5ob3Eq72MoXfNNFkl0xn/g7M9G5E1/hjoI188jNMZCALp4tlSLWGtaLFz3giXFBa8XzQB382h8I10N3MuYO9LFyjUGueLt/fs1x2H3hEOsmZujkH0VcWmXhfS9Sapb7K3G4nxcDwxQI5HEMB0NIJL5BYeyym/Dryn5gLUJsvdJzAb5TSYxsgs=;BVEwhFPmLFocZG6yQN3Pgw=="
+secured: "YEfi0OwP+THnw49UopqxlFKflFaBaAiIOCiz/km8wxlJQHBPmCe35OrX0Ia5EYUTHXLa8Gvb2ndoov+vou2jfGDD5bHHuVZAINEfF9BMJzRo1ImiLn2E1KaK4wNeFOcQIBDEeu/VKvLo8sC9nEs00+bwnLtJFT2B3j4LhXwn6nJJVBWClcxtm/KVyjxczzZXS0agHIDe+hT/SFTO7z4dkaq5EBVsDqVAzXV9yfzwjXF2LY5osWSD0Sa8oiLvb95hWZ/i/orpwy0Jwvk6eMo0Lp1x/MdILLJcLnlBXityEuP4+FxuiX7Yl/fgSuPWhcHDiMHuxsaLf8h+VOVt6bQbJVgMWqjbw9XE3pfysuJ7a1I=;djl9T8IvixZkEsk8drfyWg=="
 ---
 

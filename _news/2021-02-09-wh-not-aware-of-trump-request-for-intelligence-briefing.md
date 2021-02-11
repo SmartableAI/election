@@ -109,6 +109,22 @@ related:
         width: 1440
         height: 964
         isCached: true
+  - title: "Tuberville says he told Trump about Pence's evacuation during Capitol riot"
+    excerpt: "Sen. Tommy Tuberville (R-Ala.) said late Wednesday that he spoke with then-President Trump on Jan. 6 and told him that then-Vice President Pence was being evacuated as rioters descended on the Capitol."
+    publishedDateTime: 2021-02-11T13:58:00Z
+    webUrl: "https://thehill.com/homenews/senate/538385-tuberville-says-he-told-trump-about-pences-evacuation-during-capitol-hill"
+    ampWebUrl: "https://thehill.com/homenews/senate/538385-tuberville-says-he-told-trump-about-pences-evacuation-during-capitol-hill?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/538385-tuberville-says-he-told-trump-about-pences-evacuation-during-capitol-hill?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 138
+    images:
+      - url: "https://thehill.com/sites/default/files/tubervilletommy_020221gn_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Biden returns prayer breakfast to lofty tone after disruption of Trump years"
     excerpt: "Biden spoke at the National Prayer Breakfast on Thursday about unity and faith — a year after Trump, at the same event, brandished newspaper headlines and took shots at his adversaries."
     publishedDateTime: 2021-02-05T04:49:00Z

@@ -31,17 +31,17 @@ images:
 related:
   - title: "Suu Kyi aide, electoral officials arrested in Myanmar, Biden approves sanctions"
     excerpt: "A close aide to ousted Myanmar leader Aung San Suu Kyi was detained in a new wave of arrests following last week's military coup, a party official said on Thursday, as Washington moved a step closer to imposing sanctions on the junta."
-    publishedDateTime: 2021-02-11T11:16:00Z
-    webUrl: "https://www.reuters.com/article/us-myanmar-politics-idUSKBN2AB06O"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AB06O"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AB06O"
+    publishedDateTime: 2021-02-11T13:34:00Z
+    webUrl: "https://www.reuters.com/article/uk-myanmar-politics-idAFKBN2AB068"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN2AB068"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN2AB068"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 121
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210211&t=2&i=1551177209&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1A0WD"
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210211&t=2&i=1551189130&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1A144"
         width: 819
         height: 545
         isCached: true
@@ -62,6 +62,6 @@ related:
         height: 779
         isCached: true
 
-secured: "tTo3UOdPulQNu/FRGtlGdPwMie8GXuT9+en16jvY+qC93jvSR+d8MmK/2Am/pxmf+OO/YVYsNxjcsjUMNgF/HHJUDM/cALGJDU5+dR8KVR6w90IOzSR3g9CYNmrblie4ti1KdbfX/Xx/yINhFWtjSSW2eHTik2pxwXAE56Nco/WQj+urzDPVcFcksu71N8LQSjxr7YlPXezA0jqzqyyevWp3SfYjoTKZFTdxna4gwHZO71Nul7NGzb9qhsKTuAy79qS4378StQlMLtt87HImA+zY3llyhO8tKyJe1EESXpMjtoz0NHz+jc/V5bMUQ27taRWEfqzyF56cvaxAumA8GYYreM3oS3d59EpwF7KWrj0=;n3nh591DDquQRUaYL1UWOw=="
+secured: "9ud8hCd3VndO2U1eFCbbe1Xy1ddlS0qFOwV34QGZP7WZBmzeMUT7zHAePYkW0/nN9wPIt210IwKn5ZapW01J+EJTzbo0fk7OINEACok+rHA3007fdX9jYuBCdIopTnxOz73Ng+nEOIqyhssk0O11jQckI9n2PuLcAfZnkJUQOnthK8DR7UsQjvUl5+XLf9BDtRvclXiy9aG3AuGXlK3y7tyzH1B2gpT/zM5W6tRpx8hO1f4dU+fi8q8ymZKaVhO3rAPZuzps6/c2kzJwPyQX2IR2E6rL0fm/YoL4MbMP5oUJ55m12648kr0tkeklqatheHxXIpUTXsUnXa0wtc7dL/085CHU+xW1y1Ramfq+xmQIbeIZUdrSHuY1xticVLnw283h6jwWmYif8n+WmFQwmdWFdCgWGH9XaITncoVp4SAFDegaxiEEkKPDbrgaZjXXjRWShAfKOmzU40W9tDKEZFEDtfOAQqrJJKTnxxaBCrvSMTNubrvB2NLdaeZgOOgBvOAs6FygVafvwqQ1jICNoQ==;+O8fyb5rOyYPfmrImuqHXw=="
 ---
 

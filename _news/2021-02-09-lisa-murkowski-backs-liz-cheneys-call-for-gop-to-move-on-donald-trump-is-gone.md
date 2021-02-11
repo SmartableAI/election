@@ -95,6 +95,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "GOP Sen. Kevin Cramer Says He Expects He Will Vote to Acquit Donald Trump"
+    excerpt: "Before the trial of the former president, the North Dakota lawmaker said in a video message \"Welcome to the stupidest week in the Senate.\""
+    publishedDateTime: 2021-02-11T13:09:00Z
+    webUrl: "https://www.newsweek.com/kevin-cramer-donald-trump-impeachment-acquit-1568565"
+    ampWebUrl: "https://www.newsweek.com/kevin-cramer-donald-trump-impeachment-acquit-1568565?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kevin-cramer-donald-trump-impeachment-acquit-1568565?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 124
+    images:
+      - url: "https://d.newsweek.com/en/full/1732353/senator-kevin-cramer.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "GOP Senator Mike Lee Suggests Trump Deserves Second Chance: 'Everyone Makes Mistakes'"
     excerpt: "\"Everyone makes mistakes. Everyone's entitled to a mulligan once in a while,\" Sen. Mike Lee (R-Utah) said Tuesday."
     publishedDateTime: 2021-02-10T02:46:00Z

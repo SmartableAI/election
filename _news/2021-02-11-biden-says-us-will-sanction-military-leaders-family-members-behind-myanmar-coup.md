@@ -33,17 +33,17 @@ images:
 related:
   - title: "Suu Kyi aide, electoral officials arrested in Myanmar, Biden approves sanctions"
     excerpt: "A close aide to ousted Myanmar leader Aung San Suu Kyi was detained in a new wave of arrests following last week's military coup, a party official said on Thursday, as Washington moved a step closer to imposing sanctions on the junta."
-    publishedDateTime: 2021-02-11T11:16:00Z
-    webUrl: "https://www.reuters.com/article/us-myanmar-politics-idUSKBN2AB06O"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AB06O"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AB06O"
+    publishedDateTime: 2021-02-11T13:34:00Z
+    webUrl: "https://www.reuters.com/article/uk-myanmar-politics-idAFKBN2AB068"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN2AB068"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN2AB068"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 121
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210211&t=2&i=1551177209&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1A0WD"
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210211&t=2&i=1551189130&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1A144"
         width: 819
         height: 545
         isCached: true
