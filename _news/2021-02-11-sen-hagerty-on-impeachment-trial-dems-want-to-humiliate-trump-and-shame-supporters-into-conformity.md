@@ -31,53 +31,67 @@ images:
     isCached: true
 
 related:
-  - title: "Sen. Murphy: 'We have a constitutional responsibility' to hold Trump's trial"
-    excerpt: "Sen. Chris Murphy, D-Conn., argued on Sunday that the Senate has “a constitutional responsibility” to hold the impeachment trial of former President Donald Trump."
-    publishedDateTime: 2021-02-07T17:02:56Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ijTxWyLn6dc/sen-murphy-we-have-a-constitutional-responsibility-to-hold-trumps-trial"
-    ampWebUrl: "https://www.foxnews.com/politics/sen-murphy-we-have-a-constitutional-responsibility-to-hold-trumps-trial.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-murphy-we-have-a-constitutional-responsibility-to-hold-trumps-trial.amp"
+  - title: "Hawley rips Trump impeachment proceedings as ‘kangaroo trial’"
+    excerpt: "Missouri Republican Sen. Josh Hawley tore into the Trump impeachment proceedings in the Senate as a “kangaroo trial” as Democrats continued their case against the former president on Thursday."
+    publishedDateTime: 2021-02-11T18:03:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wyqzk5OkaAY/hawley-rips-trump-impeachment-proceedings-as-kangaroo-trial"
+    ampWebUrl: "https://www.foxnews.com/politics/hawley-rips-trump-impeachment-proceedings-as-kangaroo-trial.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hawley-rips-trump-impeachment-proceedings-as-kangaroo-trial.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 172
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Ken Starr says Trump’s second impeachment 'unconstitutional' and sets 'dangerous precedent'"
-    excerpt: "Former independent counsel Ken Starr says the impeachment trial of former President Donald Trump is an \"unconstitutional process\" and sets a \"very dangerous precedent\" because Trump has already left office."
-    publishedDateTime: 2021-02-10T18:27:46Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JoPvlIlvUcI/ken-starr-trumps-second-impeachment-unconstitutional-process"
-    ampWebUrl: "https://www.foxnews.com/politics/ken-starr-trumps-second-impeachment-unconstitutional-process.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ken-starr-trumps-second-impeachment-unconstitutional-process.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aca0cd36-13d5-400a-a98b-37d1e4bafa56/22e959fc-1526-4be6-ae2b-0ac2f2cc43f4/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6543d8c3-c5b2-44bb-a344-bb13ad713683/d535c75a-02b5-4857-8437-8ba6267791ee/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Cassidy vote on Trump impeachment constitutionality sparks GOP backlash at home: 'Profoundly disappointed'"
-    excerpt: "Sen. Bill Cassidy, R-La., drew the ire of his state's Republican Party after he voted in favor of the Senate being constitutionally allowed to hear the impeachment trial of former President Donald Trump."
-    publishedDateTime: 2021-02-10T15:35:22Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kQNWX6LYde8/cassidy-vote-trump-impeachment-constitutionality-louisiana-gop-backlash"
-    ampWebUrl: "https://www.foxnews.com/politics/cassidy-vote-trump-impeachment-constitutionality-louisiana-gop-backlash.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cassidy-vote-trump-impeachment-constitutionality-louisiana-gop-backlash.amp"
+  - title: "Trump impeachment conviction? 'Zero chance,' Republicans say, as Dems move forward with case"
+    excerpt: "The hearings for the second impeachment trial of former President Trump start on Tuesday and Republicans are making it clear, even before they're gaveled in, that they believe the result is predetermined. "
+    publishedDateTime: 2021-02-08T12:58:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vycRd5zogXY/trump-impeachment-conviction-zero-chance-republicans-say-as-dems-move-forward-with-case-on-eve-of-trial"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-conviction-zero-chance-republicans-say-as-dems-move-forward-with-case-on-eve-of-trial.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-conviction-zero-chance-republicans-say-as-dems-move-forward-with-case-on-eve-of-trial.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Eric Swalwell, Dem congressman linked to Chinese spy, makes impeachment case against Trump at Senate trial"
+    excerpt: "Rep. Eric Swalwell’s job as a House impeachment manager is to convince at least two-thirds of the Senate to convict former President Trump of inciting an insurrection, but a number of leading Republicans remain unconvinced that he belongs on the House Intelligence and Homeland Security committees."
+    publishedDateTime: 2021-02-11T01:11:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Jh-3_QcXHOY/eric-swalwell-chinese-spy-impeachment-case-trump-senate-trial"
+    ampWebUrl: "https://www.foxnews.com/politics/eric-swalwell-chinese-spy-impeachment-case-trump-senate-trial.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/eric-swalwell-chinese-spy-impeachment-case-trump-senate-trial.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 157
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Bill-Cassidy-Trump-Impeachment-Constitutionality-Vote-AP.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21041820921336.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Video of Capitol carnage defines Trump trial but won’t change outcome"
+    excerpt: "The top House impeachment manager had barely uttered a few sentences when, like an anchor tossing to a taped report, he went to the video."
+    publishedDateTime: 2021-02-10T08:24:00Z
+    webUrl: "https://www.foxnews.com/media/video-of-capitol-carnage-defines-trump-trial-but-wont-change-outcome"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 115
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/pezzola-2.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "f7JIePZ2GjqPksu8RsSsq+g96YxJ+xMK6y+gE5LJzIOeUq0uh23J3qh2BeRAG9V+C2KWuwIceegDYwzB39oo/lAQXzibu3jf6sLol1xnj9QDfne6n3DJDHrr5qs78SrQ+48QVhT1jE6vOa/Jslv21dgCAqXWCgtahhYKYqa1mt5sPMWIGbUFnyC2qsQ2LQAW/H5nsb3VKDLs+VgDsFxUVdIFXxOu/9n7jB4gTYPHtQnCl5UVsuFiJZ2fEzFQRglF3YB2d3RCXEWwGeDEj9PQD3OiEKtXohkZ0EhFEWkoz4aqRpwgyyxYtPWbSxjInkulhFGqcK2+34eJ/HxUVc1EpXY9OYXdLo1TjOLLAnUKtTA=;6cEQDFnbWT8yxN+XGZ8SFQ=="

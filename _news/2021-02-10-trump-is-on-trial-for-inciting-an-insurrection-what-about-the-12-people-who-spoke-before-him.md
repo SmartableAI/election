@@ -528,6 +528,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Trump's second impeachment trial: Day 3"
+    excerpt: "The House impeachment managers will continue to present their case today against former President Trump. Follow here for the latest."
+    publishedDateTime: 2021-02-11T14:52:00Z
+    webUrl: "https://www.cnn.com/politics/live-news/trump-impeachment-trial-02-11-2021/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/politics/live-news/trump-impeachment-trial-02-11-2021/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/politics/live-news/trump-impeachment-trial-02-11-2021/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_900,h_506/20fd9411-8528-4211-9103-b2889c8272d9.jpg"
+        width: 900
+        height: 506
+        isCached: true
   - title: "Impeachment Updates: New Chilling Video Expected as Trump’s Trial Begins"
     excerpt: "Each side has up to 16 hours over two days to make their cases for and against former President Donald J. Trump. The House impeachment managers, who are acting as prosecutors, will go first, followed by Mr."
     publishedDateTime: 2021-02-10T11:07:00Z
@@ -576,6 +592,22 @@ related:
         width: 2500
         height: 1250
         isCached: true
+  - title: "Trump impeachment trial live updates: Impeachment managers deliver arguments"
+    excerpt: "House Democrats will launch into their second full day of arguments Thursday in the impeachment trial of former President Donald Trump after presenting senators with jarring footage of the Capitol riot."
+    publishedDateTime: 2021-02-11T11:04:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/live-blog/2021-02-11-trump-impeachment-trial-live-updates-n1257308"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1257308"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1257308"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 132
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_06/3449142/210210-impeachment-live-blog-main-cover-cs_08392ad9f0758c11eb5656fe0d5aa66b.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
   - title: "Trump Impeachment Trial Live Updates: Final Day of Arguments for the Prosecution"
     excerpt: "The Democrats have about eight hours left to make their case for convicting former President Donald J. Trump. House managers are urging the Senate to hold Mr. Trump to a higher standard, not a legal definition of incitement."
     publishedDateTime: 2021-02-11T08:27:00Z
@@ -592,6 +624,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "If Convicting Trump Is Out of Reach, Managers Seek a Verdict From the Public and History"
+    excerpt: "The House Democrats prosecuting former President Donald J. Trump may not win the Senate trial, but they are using it to make the searing images of havoc the inexpungible legacy of the his presidency."
+    publishedDateTime: 2021-02-11T17:40:00Z
+    webUrl: "https://www.nytimes.com/2021/02/11/us/politics/trump-impeachment-trial-legacy.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/11/us/politics/trump-impeachment-trial-legacy.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/11/us/politics/trump-impeachment-trial-legacy.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 126
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/11/us/politics/11dc-assess1/11dc-assess1-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Trump's defense team prepares for a redo"
     excerpt: "Donald Trump’s defense team is waiting for another chance after their first presentation flopped, making public assurances that their arguments will be more organized. But they have some ground to cover after Republican senators described being “disgusted” upon seeing horrific new video footage on Wednesday."
     publishedDateTime: 2021-02-11T12:54:00Z
@@ -605,6 +653,20 @@ related:
       - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
         width: 1120
         height: 629
+        isCached: true
+  - title: "Trump's impeachment legal defense will wrap up its case Friday"
+    excerpt: "That means Trump’s defense team will use just one day to defend the former president, who has been impeached for inciting an insurrection."
+    publishedDateTime: 2021-02-11T18:45:00Z
+    webUrl: "https://www.politico.com/news/2021/02/11/trump-impeachment-defense-friday-468694"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/c7/25/97e209f54a13bcf4f1eaf9e5919b/210211-castor-impeachment-getty-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "InQhgEWJl3hK+acdA/szAipi6JlRevtYMvloEsXq0+6raGcgyvAPasmaOVNOFSQ22lGfsWLdcXu0eG7YAXEf36WI/Ex6ShUii0llhIsLUvp9QKQAcLMouF4KZ0aMncmjwmiO8zDiUMyXR2AmgYTP/rvNVHjPWh09v99FwhS1Da5kpqwgfBqBZAkYSWbXa23LnDzgYnd5Llgoy7i6QxLzZnSOckF0CKQhLw0460cfudfNC3ZPoHvm4MJHgllpeCU84gZVsFU1rtJWzVzEKREOxUsGg6Zyvkr16vpFmXlyVfvGREnMI45QLd9vzW69vaIwt1wjQcnmqwerkxcbXN5dMk1a2YLBJPt7EqHHm0/n1fCvFVnJWaanTCJnbMD7lvvWy6rIB6mYoYC89mQ6+6Qj0L1lC2mePOGi9AbdCMGpxGkxsKkQ4Rv5H6O2tXben24aZSfcGiXWl6aP+Adza26Fjws8UnZNCNYU8m294KNI5qpYqvD4TEZtJAxrIPMswuugeei0XjVen72e535zncW/Dg==;CFwOFTrrmo3uf6tVyVj68g=="

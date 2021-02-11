@@ -47,22 +47,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Sen. Hagerty on impeachment trial: Dems want to 'humiliate' Trump and 'shame' supporters into conformity"
-    excerpt: "The second impeachment of former President Donald Trump is an \"unconstitutional show trial\" that is meant to \"humiliate\" the 45th president and shame the people who voted for him, Sen. Bill Hagerty told \"Fox News @ Night\" on Wednesday."
-    publishedDateTime: 2021-02-11T13:30:16Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dy2UhYoSdq4/trump-impeachment-trial-senate-dems-humiliate-shame-supporters-hagerty"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-trial-senate-dems-humiliate-shame-supporters-hagerty.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-trial-senate-dems-humiliate-shame-supporters-hagerty.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 158
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5a49a7f5-4e47-49a6-8aee-5aa2325068a9/59e4eada-8a0d-4166-af0c-8377e3f478e6/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Cassidy vote on Trump impeachment constitutionality sparks GOP backlash at home: 'Profoundly disappointed'"
     excerpt: "Sen. Bill Cassidy, R-La., drew the ire of his state's Republican Party after he voted in favor of the Senate being constitutionally allowed to hear the impeachment trial of former President Donald Trump."
     publishedDateTime: 2021-02-10T15:35:22Z

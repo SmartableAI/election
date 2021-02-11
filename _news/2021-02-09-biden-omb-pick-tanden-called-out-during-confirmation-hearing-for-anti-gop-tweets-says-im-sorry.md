@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Sen. Rubio calls Biden officials hypocritical for considering travel ban during the coronavirus pandemic"
+    excerpt: "The Biden administration’s consideration of a travel ban due to the coronavirus pandemic is “hypocritical,” Sen. Marco Rubio, R-Fla., said on Thursday."
+    publishedDateTime: 2021-02-11T17:22:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oRuyS5IctLk/rubio-biden-travel-ban-coronavirus-pandemic"
+    ampWebUrl: "https://www.foxnews.com/politics/rubio-biden-travel-ban-coronavirus-pandemic.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rubio-biden-travel-ban-coronavirus-pandemic.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "Fv3O8vMlI7nAszjoUoA9j84E1/22eyNyN9sQNY7PmY+w7P6y22GubfSUolvpzjcDN4HRqgBJEhT+iNgFP8gLjP9bXzXibbrFf+POC9DDDHKAqkOW9YHaX18cxQwORsm6KLSU98+9qvv7xELi359NW6RZ2R7v+GhAOJLev+T0Z3Bw8tlelWMoM/2OJNbiQU5VATPcLOFyiLR+dUWQMFnm283CvFAqCpjrLWTPY8llKr4OXKn1TQGLJM1Cm4aJkKY9Qu5zs25zcMF8/OHl0E+m7+LZuXnbf1bSYb7PIHzqSVGJla7K9yCuX0TZ73jYt8rrKIl6H0WT1C7hokGiDKO+1neA5tKERwnvk56zuC9EYio=;s9Av69NGcQmCWBLkZZZ5Yg=="
 ---

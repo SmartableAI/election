@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration extends fair housing protections to LGBTQ Americans"
+    excerpt: "Protections under the Fair Housing Act will now cover LGBTQ Americans, the Biden administration announced Thursday, a move that allows the federal government to investigate complaints of housing discrimination based on sexual orientation or gender identity.\n    \n"
+    publishedDateTime: 2021-02-11T17:19:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-QWaIdeXwMU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/11/politics/biden-administration-lgbtq-housing-protections/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/11/politics/biden-administration-lgbtq-housing-protections/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180227114420-rainbow-flag-white-house-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration will review deportation of veterans and their families"
     excerpt: "The Biden administration will review the deportations of veterans and their family members, according to a White House official.\n    \n"
     publishedDateTime: 2021-02-08T15:24:38Z

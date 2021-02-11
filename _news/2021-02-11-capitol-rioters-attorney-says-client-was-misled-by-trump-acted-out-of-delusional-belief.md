@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pezzola-delusional-trump-misled-cap
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pezzola-delusional-trump-misled-capitol-rioter.amp"
 type: article
 quality: 165
-heat: 205
+heat: 185
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://images.wsj.net/im-297712/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Video of Capitol carnage defines Trump trial but won’t change outcome"
-    excerpt: "The top House impeachment manager had barely uttered a few sentences when, like an anchor tossing to a taped report, he went to the video."
-    publishedDateTime: 2021-02-10T08:24:00Z
-    webUrl: "https://www.foxnews.com/media/video-of-capitol-carnage-defines-trump-trial-but-wont-change-outcome"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 115
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/pezzola-2.jpg"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "1z5umCMy9HeH0xkGqynAYUl83E0xbMdq0j87l7JbRZ/PjbPQC8ji18bnoJEIgziLiHcAaiJXstn5ibO7qhB/t944kI91aoxh2KBGAbQ81rQb8qrri0famRIl1sjJ6AlTkshpDaZeAH5x+6olBoF+2zRy+MQbcGSR8vPXkaaBBtnwWt83hr2VDqFAD2r0u88GWPvb559j0LzZbWYyqfkg7aVobqZr3JUlgn3lYUoqsetGQkWsP8rwKKRnbm6suZCA9/02UrRx5rgGfYBp/J+Z7TbGBKPoHsxSp3aSTy6YnVwoV53i3BIdbdcV9rUhRwel7+t+3RKokEiPBSO3hZz4foD8VOl23YxWentqQUeDmsw=;CQl67Kk8VpAo2k2ss/y/3A=="

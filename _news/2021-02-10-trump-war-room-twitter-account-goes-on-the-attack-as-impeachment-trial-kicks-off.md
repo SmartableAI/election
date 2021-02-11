@@ -328,6 +328,20 @@ related:
         width: 1161
         height: 773
         isCached: true
+  - title: "Day Three: Democrats try to make the Trump link clearer"
+    excerpt: "And Speaker Nancy Pelosi says she will award the Congressional Gold Medal to Capitol Police and other law enforcement who defended the Capitol on Jan. 6."
+    publishedDateTime: 2021-02-11T18:50:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook-pm/2021/02/11/day-three-democrats-try-to-make-the-trump-link-clearer-491726"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/a9/3c/81523a5e4fb583824a567513d7f6/210211-degette-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "xlW0Ms57Ihxi43/9P6dpn6VFlQ8SIVwBmHYaC1690hbxlRE9Y6DLaPus/w2GVZaAuJ8ASorqhQPWyrHBxoEFz5PNqKFaAwMVf9mSxhEjPbC4ckGFJcCqgEXjcXZ0N0IsDwf4/xGLkc2kzFSiVgql0Vm6RYw4ylJnE+F0HIg8BOEIMq3c2UgZpLo6asjOKFyW+vZhgNIj2ZBO9la1YW5cFK18cYzQx6ZV7f+gJulZfFbE+XwRNfISzASU0Er/RccvYjZ603LkiOGWchC8r/9ljhp66W0Ir/G+5sY7kjaRw/qTy4PT3UggB3beUaWFLjgklZ72BAAcwokr4l6AjzBwwv7/Wxj7RVwjE0qoxLqFOSQ=;xROQ7afwxgtyBRjpqo29fg=="
 ---

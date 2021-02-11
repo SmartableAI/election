@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6712324002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6712324002"
 type: article
 quality: 110
-heat: 130
+heat: 150
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "See how close the mob got to Mike Pence"
+    excerpt: "See how close the mob got to Mike Pence Up Next, 'I just had to laugh at myself' Video, 00:01:41'I just had to laugh at myself' What's going on in Central African Republic? Video, 00:04:20What's going on in Central African Republic?"
+    publishedDateTime: 2021-02-11T18:43:00Z
+    webUrl: "https://www.bbc.com/news/av/world-us-canada-56033907"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 105
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p01tlf61.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Graphic new video shows rioters looking for Pence"
     excerpt: "Prosecutors in Donald Trump's impeachment trial have unveiled never-before-seen video video showing the mob of rioters breaking into the Capitol and searching menacingly for former Vice President Mike Pence while they chanted,"
     publishedDateTime: 2021-02-11T02:26:00Z

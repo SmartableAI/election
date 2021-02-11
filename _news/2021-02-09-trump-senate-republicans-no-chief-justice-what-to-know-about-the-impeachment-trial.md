@@ -48,22 +48,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump's second impeachment trial set to kick off this week amid questions about what it will look like"
-    excerpt: "The second Senate impeachment trial of former President Donald Trump is scheduled to kick off Tuesday with some of the key questions about the trial itself -- including how long it will go and whether any witnesses will be called -- still unanswered.\n    \n"
-    publishedDateTime: 2021-02-07T11:01:43Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/u_XsOAbs1LY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/07/politics/trump-impeachment-trial-this-week-state-of-play/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/07/politics/trump-impeachment-trial-this-week-state-of-play/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 159
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210204131911-103-trump-impeachment-centered-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
 
 secured: "wEXD6iWJa3V8bGt1lIuN7AUqDJEIT7fgB2qtM4hOcECkJhP9xmBUWNE1lj4FRR9sd+k1mrH9YD1Xpdf21KZt4BSDqp4Zgy4lz8B42u1edoxtYHIri99tGKnrZOss7/o0hEEpakhnfV1Us/s8QF1ogCmbml4mc+kUPrYLHeGrbf9PcDgGXC315QuUkNDLaMTb/05ZYgY0UmYti9Gq8v+Zr7FFrkPclgdqhDjYQ9tJRQ+RLCTQvdVrqmnHj+oHKPc1oOqIxPlgECkFTfs2GLyLq/z3ykF16DnGAckmZN71TaCxqIUFd3w1XfrKKfQtc6T4vGjn+DaSBhQvWBQumbI17hHSqF7rKmRApJjySijtZno=;csBdiUsj4h+6qYW8KR+clQ=="
 ---

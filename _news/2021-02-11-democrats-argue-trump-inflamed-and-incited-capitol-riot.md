@@ -48,20 +48,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Video of Capitol carnage defines Trump trial but won’t change outcome"
-    excerpt: "The top House impeachment manager had barely uttered a few sentences when, like an anchor tossing to a taped report, he went to the video."
-    publishedDateTime: 2021-02-10T08:24:00Z
-    webUrl: "https://www.foxnews.com/media/video-of-capitol-carnage-defines-trump-trial-but-wont-change-outcome"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 115
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/pezzola-2.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "BDEl7ENB+021hvdQtYmTtu3fjHfrfXMWHUN3/s8dw9h9GHaOfbqS0MaLabCtp83rur04Y/Kl67gFxxhHWj4TcjSY5U8MoLgLilwVSYCq+IGwWgEdXsHRqkfWmp9wtbt86kKI/iYER9GAjEHkfMgxb+lRHUQAS7OyqUbbjGhZph52WqJv866WCjoCrx4FOQiruxCWw9jUxccEJdlxZkHmN3dWf7PJZBHg5RehPwLSX92HZBlgK/EJ3lNO1NlGwM6omINGC/tEcszg8QGmD4Iy1G8BCvvX8sLhdnNLZuau3/evrIeQ0KMMr/YOlpIFYU9sMGeu7EQmA+0p+Zyjsss9y6wH05zWJY56Pk2uBUUgJG0=;V/j3WK5vOp/QHQAdVxeiyQ=="
 ---

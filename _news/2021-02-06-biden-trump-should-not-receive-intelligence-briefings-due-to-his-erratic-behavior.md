@@ -191,6 +191,22 @@ related:
         width: 1440
         height: 1133
         isCached: true
+  - title: "Neera Tanden, Biden's Contentious Budget Chief Pick, Tweeted 30K More than Donald Trump"
+    excerpt: "Tanden has come under fire in recent weeks for her combative Twitter history that included targeting Republicans and progressive Democrats."
+    publishedDateTime: 2021-02-11T17:51:00Z
+    webUrl: "https://www.newsweek.com/neera-tanden-bidens-contentious-budget-chief-pick-tweeted-30k-more-donald-trump-1568685"
+    ampWebUrl: "https://www.newsweek.com/neera-tanden-bidens-contentious-budget-chief-pick-tweeted-30k-more-donald-trump-1568685?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/neera-tanden-bidens-contentious-budget-chief-pick-tweeted-30k-more-donald-trump-1568685?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 132
+    images:
+      - url: "https://d.newsweek.com/en/full/1732629/neera-tanden.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Biden to visit wounded soldiers at Walter Reed Hospital"
     excerpt: "President Joe Biden is making his first major foray outside the White House, to visit wounded soldiers at Walter Reed Hospital, just outside Washington"
     publishedDateTime: 2021-01-29T15:36:00Z
@@ -606,6 +622,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Biden hopes infrastructure can bridge partisan divide"
+    excerpt: "President Joe Biden is hoping that launching an effort to build roads and bridges can help to unite Democrats and Republicans in a time of sharp partisan divisions"
+    publishedDateTime: 2021-02-11T17:59:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/biden-hopes-infrastructure-bridge-partisan-divide-75831304"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-hopes-infrastructure-bridge-partisan-divide-75831304"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-hopes-infrastructure-bridge-partisan-divide-75831304"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_59a453f80f184118bf00f37a71e88083_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Biden to meet Republicans on COVID-19 plan in test of bipartisan approach"
     excerpt: "President Joe Biden will meet 10 moderate Republican senators on Monday to discuss their proposal to shrink his sweeping $1.9 trillion U.S. COVID-19 relief package, even as Democrats prepare to push legislation through Congress without Republican support."

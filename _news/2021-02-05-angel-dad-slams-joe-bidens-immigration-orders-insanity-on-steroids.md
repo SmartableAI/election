@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-immigration-insanity-steroids
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-immigration-insanity-steroids-california-angel-dad.amp"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
     quality: 163
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/83c050bc-bde6-4d92-87bb-0612a75fa2ee/46414336-5c41-4d88-be91-b57a22927be3/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Climate refugees? Biden executive order wants study on resettling those 'displaced' by climate change"
+    excerpt: "President Biden’s recent executive order on refugees includes a direction for a study on the impacts of climate change on migration, as well as options for the \"protection and resettlement of individuals\" displaced by environmental change."
+    publishedDateTime: 2021-02-11T17:11:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pYboXNqrrjE/climate-refugees-biden-executive-order-climate-change"
+    ampWebUrl: "https://www.foxnews.com/politics/climate-refugees-biden-executive-order-climate-change.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/climate-refugees-biden-executive-order-climate-change.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3e8d82c2-273b-4c5c-a9ad-ccd91dbd9bae/62e14652-1b7c-40c3-b0ea-aac58cd458bd/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

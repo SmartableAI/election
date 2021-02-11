@@ -2,6 +2,118 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-11-biden-administration-taking-strategic-approach-to-china-not-in-a-rush-psaki-says.md",
+      "title": "Biden administration taking 'strategic approach' to China, 'not in a rush,' Psaki says",
+      "excerpt": "President Biden is taking a “strategic approach” to China, White House Press Secretary Jen Psaki said Thursday, adding that the administration is “not in a rush.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TWtPy3NJ9Gc/biden-administration-taking-strategic-approach-china-psaki",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TWtPy3NJ9Gc/biden-administration-taking-strategic-approach-china-psaki",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-administration-taking-strategic-approach-china-psaki.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-taking-strategic-approach-china-psaki.amp",
+      "publishedDateTime": "2021-02-11T10:50:28-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-hawley-rips-trump-impeachment-proceedings-as-kangaroo-trial.md",
+      "title": "Hawley rips Trump impeachment proceedings as ‘kangaroo trial’",
+      "excerpt": "Missouri Republican Sen. Josh Hawley tore into the Trump impeachment proceedings in the Senate as a “kangaroo trial” as Democrats continued their case against the former president on Thursday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wyqzk5OkaAY/hawley-rips-trump-impeachment-proceedings-as-kangaroo-trial",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wyqzk5OkaAY/hawley-rips-trump-impeachment-proceedings-as-kangaroo-trial",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6543d8c3-c5b2-44bb-a344-bb13ad713683/d535c75a-02b5-4857-8437-8ba6267791ee/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/hawley-rips-trump-impeachment-proceedings-as-kangaroo-trial.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hawley-rips-trump-impeachment-proceedings-as-kangaroo-trial.amp",
+      "publishedDateTime": "2021-02-11T10:03:40-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-11-house-impeachment-managers-gush-over-pences-patriotism-after-years-of-criticism-stood-his-ground.md",
       "title": "House impeachment managers gush over Pence's 'patriotism' after years of criticism: 'Stood his ground'",
       "excerpt": "House impeachment managers on Wednesday repeatedly praised former Vice President Mike Pence for his actions during the Jan. 6 Capitol riot, putting aside past criticism of Pence as they tried to convince Senate Republicans to convict former President Donald Trump.",
@@ -408,7 +520,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 235,
+      "heat": 195,
       "tags": null,
       "images": [
         {
@@ -520,7 +632,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 190,
+      "heat": 210,
       "tags": null,
       "images": [
         {
@@ -576,7 +688,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 205,
+      "heat": 185,
       "tags": null,
       "images": [
         {
@@ -1538,119 +1650,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/gingrich-senators-voting-for-trump-impeachment-engaging-in-profound-attack-on-the-american-system.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gingrich-senators-voting-for-trump-impeachment-engaging-in-profound-attack-on-the-american-system.amp",
       "publishedDateTime": "2021-02-08T21:08:23-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-house-managers-say-trump-has-no-valid-excuse-or-defense.md",
-      "title": "House Managers Say Trump 'Has No Valid Excuse or Defense'",
-      "excerpt": "The Democratic House impeachment managers, acting as prosecutors during the trial, said in their own five-page brief that Mr. Trump “has no valid excuse or defense” for his actions. “His efforts to escape accountability are entirely unavailing,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/livecoverage/trump-second-impeachment-trial-2021-02-08/card/br1IQIenpNRyfWV8eTEf",
-      "originalUrl": "https://www.wsj.com/livecoverage/trump-second-impeachment-trial-2021-02-08/card/br1IQIenpNRyfWV8eTEf",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-296466?size=1.5",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-08T20:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-texas-sheriff-claims-biden-defunding-ice-by-memo-we-have-a-full-nullification-of-the-law-going-on-here.md",
-      "title": "Texas sheriff claims Biden 'defunding ICE by memo': 'We have a full nullification of the law going on here'",
-      "excerpt": "Reports that illegal aliens are being released from custody into the United States without being tested for COVID-19 are \"absolutely true,\" Jackson County, Texas Sheriff A.J. Louderback told \"Tucker Carlson Tonight\" Monday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eS6uAAgCgHg/biden-defunding-ice-by-memo-texas-aj-louderback",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eS6uAAgCgHg/biden-defunding-ice-by-memo-texas-aj-louderback",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/942fc061-952b-47e0-a29e-ec6167c1bc89/754ac3fd-3e1c-45cf-83d0-0ece730bc6e9/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-defunding-ice-by-memo-texas-aj-louderback.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-defunding-ice-by-memo-texas-aj-louderback.amp",
-      "publishedDateTime": "2021-02-08T19:26:23-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

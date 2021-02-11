@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/07/politics/pat-toomey-senate-impeac
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/07/politics/pat-toomey-senate-impeachment-trial-cnntv/index.html"
 type: article
 quality: 170
-heat: 210
+heat: 190
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump's second impeachment trial set to kick off this week amid questions about what it will look like"
-    excerpt: "The second Senate impeachment trial of former President Donald Trump is scheduled to kick off Tuesday with some of the key questions about the trial itself -- including how long it will go and whether any witnesses will be called -- still unanswered.\n    \n"
-    publishedDateTime: 2021-02-07T11:01:43Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/u_XsOAbs1LY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/07/politics/trump-impeachment-trial-this-week-state-of-play/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/07/politics/trump-impeachment-trial-this-week-state-of-play/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 159
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210204131911-103-trump-impeachment-centered-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Trump, Senate Republicans, no chief justice: What to know about the impeachment trial"
     excerpt: "Which Republicans could vote to convict and what we'll hear from Trump are two key questions as the trial begins."
     publishedDateTime: 2021-02-08T16:53:00Z

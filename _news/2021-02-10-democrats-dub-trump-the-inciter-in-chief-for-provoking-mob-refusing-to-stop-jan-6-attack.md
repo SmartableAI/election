@@ -47,38 +47,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Trump impeachment conviction? 'Zero chance,' Republicans say, as Dems move forward with case"
-    excerpt: "The hearings for the second impeachment trial of former President Trump start on Tuesday and Republicans are making it clear, even before they're gaveled in, that they believe the result is predetermined. "
-    publishedDateTime: 2021-02-08T12:58:09Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vycRd5zogXY/trump-impeachment-conviction-zero-chance-republicans-say-as-dems-move-forward-with-case-on-eve-of-trial"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-conviction-zero-chance-republicans-say-as-dems-move-forward-with-case-on-eve-of-trial.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-conviction-zero-chance-republicans-say-as-dems-move-forward-with-case-on-eve-of-trial.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 164
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Eric Swalwell, Dem congressman linked to Chinese spy, makes impeachment case against Trump at Senate trial"
-    excerpt: "Rep. Eric Swalwell’s job as a House impeachment manager is to convince at least two-thirds of the Senate to convict former President Trump of inciting an insurrection, but a number of leading Republicans remain unconvinced that he belongs on the House Intelligence and Homeland Security committees."
-    publishedDateTime: 2021-02-11T01:11:16Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Jh-3_QcXHOY/eric-swalwell-chinese-spy-impeachment-case-trump-senate-trial"
-    ampWebUrl: "https://www.foxnews.com/politics/eric-swalwell-chinese-spy-impeachment-case-trump-senate-trial.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/eric-swalwell-chinese-spy-impeachment-case-trump-senate-trial.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 157
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21041820921336.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
 
 secured: "n/Aai8x0wYl3JhkkmZebUyB5sv6SnpRRsUocP0v2sPLZD/2MuR7UxvEU4ApEKEcF86TzGAZiysWHJj+NuWU11aGcW+Z8OQ48TbT7A82MSkKTZl6Y0VMWaAYBCSwL/RiDEwRJQBEBzTGbLF1WdIz3cHECCZM91/Q6HTUJRiCi/kQnAs1lqLkcRr6nPGImAY2lOL0eDA5vixYX8Vqgp1Neb1ByrwCZF/WGBWgXvpwrk80chhYTd7hlO4CZoS9xllGsx34en3R0yxxTXKGQjOaHUmtZEz4+1a0X8/OgpDaXG/GejxL07U7qm+wmidk9szmU+rJv9vPnkcDUNLCALthJ71uu+iVBSDryxfFQvyakaDQ=;Cup/AnMWT+xuNpDXjyNE7w=="
 ---

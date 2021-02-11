@@ -7,8 +7,8 @@ originalUrl: "https://www.washingtonpost.com/video/washington-post-live/wplive/s
 webUrl: "https://www.washingtonpost.com/video/washington-post-live/wplive/sen-tim-kaine-says-his-censure-proposal-for-former-president-trump-is-still-a-live-option/2021/02/08/19b6ce3f-10ad-45da-af18-6ef6b5746211_video.html"
 type: article
 quality: 94
-heat: 94
-published: true
+heat: -1
+published: false
 
 provider:
   name: Washington Post
@@ -27,6 +27,38 @@ images:
     width: 1080
     height: 719
     isCached: true
+
+related:
+  - title: "Live updates: Senate must convict Trump to ensure no future president incites insurrection, Democrats say"
+    excerpt: "Day 3 of former President Donald Trump's second impeachment trial has begun. The Democratic impeachment managers will use up to eight hours to wrap up their case against the ex-pr"
+    publishedDateTime: 2021-02-11T18:45:00Z
+    webUrl: "https://www.cnbc.com/2021/02/11/trump-impeachment-trial-live-updates-day-3.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/02/11/trump-impeachment-trial-live-updates-day-3.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/02/11/trump-impeachment-trial-live-updates-day-3.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 108
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106839426-1613066740937-gettyimages-1231104598-brave_zvrabgh107.jpg?v=1613066758"
+        width: 1582
+        height: 1024
+        isCached: true
+  - title: "U.S. Treasury says more time needed to decide on Trump tax returns - Bloomberg News"
+    excerpt: "The U.S. Treasury said it needs more time to decide whether to fight House Democrats in their effort to get former President Donald Trump's personal and business tax returns, Bloomberg News reported on Wednesday."
+    publishedDateTime: 2021-02-04T09:53:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-taxes/u-s-treasury-says-more-time-needed-to-decide-on-trump-tax-returns-bloomberg-news-idUSKBN2A40H8"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 99
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210204&t=2&i=1550269013&r=LYNXMPEH130A3&w=800"
+        width: 800
+        height: 547
+        isCached: true
 
 secured: "0iljLKHSTG7bpkQy8x04XK4RKKIeVxgx/chxqcbv6/0NlFdQtfRB54kOYwozuAFdDOyHXGZKncS8qjaaqd3G7HOHFej3WhtKSd1BF6Z363ldsksFxa4hVsQN6rlnAWp0bqzxkNKt8eB1/DZG3QjGcdBhvzSfDvv2L9aGumWnt8aEPQwKA+mP/kWRu1ZHUQmVuzZwtqaVKPcdVEsHmZIvqVCovvCll6+rTuSN93paaiJa6NO2dG2/NDn8i+oRcXKInz4+ZaYsK1JGt7DViiSrULIdryg0K2YFfhkkVkMlDPtvzNhHe7kwPgTqDqgsZbH447Q71452qdzPR4A83YYjBHY7/ytk3h9ROfd463q0Xrg=;UgXEa8ws+gBlkp4ax0btGQ=="
 ---

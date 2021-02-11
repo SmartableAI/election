@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/10/politics/fact-check-bruce-castor-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/10/politics/fact-check-bruce-castor-lawyer-impeachment-trump-lost-election/index.html"
 type: article
 quality: 175
-heat: 555
+heat: 575
 published: true
 
 provider:
@@ -311,6 +311,20 @@ related:
     images:
       - url: "https://static.politico.com/4d/b5/fd0100994ff7843b0989949e7679/ap21029066846233.png"
         width: 1161
+        height: 773
+        isCached: true
+  - title: "Day Three: Democrats try to make the Trump link clearer"
+    excerpt: "And Speaker Nancy Pelosi says she will award the Congressional Gold Medal to Capitol Police and other law enforcement who defended the Capitol on Jan. 6."
+    publishedDateTime: 2021-02-11T18:50:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook-pm/2021/02/11/day-three-democrats-try-to-make-the-trump-link-clearer-491726"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/a9/3c/81523a5e4fb583824a567513d7f6/210211-degette-ap-773.jpg"
+        width: 1160
         height: 773
         isCached: true
   - title: "‘Trump War Room’ Twitter account goes on the attack as impeachment trial kicks off"

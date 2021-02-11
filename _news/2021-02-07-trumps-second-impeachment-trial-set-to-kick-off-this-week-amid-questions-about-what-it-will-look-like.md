@@ -31,37 +31,51 @@ images:
     isCached: true
 
 related:
-  - title: "GOP senator: 'Very unlikely' Senate votes to convict Trump in impeachment trial "
-    excerpt: "Republican Sen. Pat Toomey of Pennsylvania said Sunday it's \"very unlikely\" the Senate votes to convict former President Donald Trump in the impeachment trial set to begin Tuesday.\n    \n"
-    publishedDateTime: 2021-02-07T18:11:41Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Y2hBmRC8mvY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/07/politics/pat-toomey-senate-impeachment-trial-cnntv/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/07/politics/pat-toomey-senate-impeachment-trial-cnntv/index.html"
+  - title: "What is 'incitement' -- and what does it mean for Trump's impeachment defense?"
+    excerpt: "The allegation of \"incitement\" is central to the impeachment case House Democrats are making against former President Donald Trump because it ties his words and actions to the January 6 insurrection on Capitol Hill.\n    \n"
+    publishedDateTime: 2021-02-11T17:05:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IOsOx2p7iAE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/11/politics/what-is-incitement-definition/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/11/politics/what-is-incitement-definition/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 170
+    quality: 171
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210207100723-screengrab-pat-toomey-cnn-0207-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106122842-01-trump-speaks-dc-protest-0106-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump, Senate Republicans, no chief justice: What to know about the impeachment trial"
-    excerpt: "Which Republicans could vote to convict and what we'll hear from Trump are two key questions as the trial begins."
-    publishedDateTime: 2021-02-08T16:53:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/five-things-watch-trump-impeachment-trial-n1256908"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1256908"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1256908"
+  - title: "‘If this happened in the Soviet Union, you would call it a show trial,’ Cassidy of Trump impeachment trial"
+    excerpt: "Sen. Bill Cassidy (R-La.) tells Chuck Todd that the House did an incredibly 'poor job' in building a case against President Trump during his second impeachment trial, during an exclusive interview with Meet the Press."
+    publishedDateTime: 2021-02-07T14:57:00Z
+    webUrl: "https://www.nbcnews.com/meet-the-press/video/-if-this-happened-in-the-soviet-union-you-would-call-it-a-show-trial-cassidy-of-trump-impeachment-trial-100655685848"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo100655685848"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo100655685848"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 128
+    quality: 117
     images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2021_06/3448366/210208-donald-trump-mc-1002_c33c00e9d65758864f16cf62b6c464df.JPG"
-        width: 2500
-        height: 1667
+      - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202102/1612709590167_mtp_clip_cassidyshowtrial_210207_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Impeachment managers directly blame ‘inciter-in-chief' Trump for Capitol attack"
+    excerpt: "Prosecutors also will show never-before-seen footage of the chaos during the first day of formal arguments in Trump's second trial."
+    publishedDateTime: 2021-02-10T18:13:00Z
+    webUrl: "https://www.politico.com/news/2021/02/10/trump-impeachment-trial-day-2-468291"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 111
+    images:
+      - url: "https://static.politico.com/c7/25/c3962b394f1d93105eef2bd2747d/raskin-773-ap.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "yZtE5ZmR1+8ZAowMmVFg33AowCYTvgZRQG8U2cxyXgNmMyNJ/GwZbotB4zeJhAPHefBaf9ap5ggI3DKMyes2+XpSryjvBHJ02pmfh1HT7EQMXrde1am083nQx6KHZiQWlYo1yFSkQn+azAEj40UeeCsOVKGRJvE0uZFy+ZDMneTSzxAGvgdXuOjHvzh4mEFWZgFBzeG1BI+Pbj6qIM8Y8HGhYvaLuz155LFaEQNiiZHASzBBLBPvXTN2McZYmIVKfBTYY7qtHN3B9fysfO5Xeg+RdQJcCJIsngOp+BwP122Eu5bv+K/kUesTpO6eFhCBMl95IY+QUbzdAlaJzxdSD5+FvR8bwKcK1qSOSlbI/OQ=;Ko21IDQ41ttbo2hVyW3t4Q=="

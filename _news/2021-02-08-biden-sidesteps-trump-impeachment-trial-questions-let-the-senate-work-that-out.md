@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-sidesteps-trump-impeachment-t
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-sidesteps-trump-impeachment-trial-questions.amp"
 type: article
 quality: 185
-heat: 2065
+heat: 2085
 published: true
 
 provider:
@@ -318,6 +318,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b016701f-abfc-4703-b1ad-7dd910b4ccf5/30862321-290f-47b6-8601-f74fae38c072/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden argues new videos in Trump trial help Democrats' case: ‘My guess is some minds may be changed’"
+    excerpt: "President Biden on Thursday said “some minds may be changed” in the Senate after House impeachment managers presented a graphic video of the mob attack on the Capitol last month during the impeachment trial for former President Trump."
+    publishedDateTime: 2021-02-11T17:13:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YFKRAHHwDYQ/biden-argues-new-videos-in-trump-trial-help-democrats-case-my-guess-is-some-minds-may-be-changed"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-argues-new-videos-in-trump-trial-help-democrats-case-my-guess-is-some-minds-may-be-changed.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-argues-new-videos-in-trump-trial-help-democrats-case-my-guess-is-some-minds-may-be-changed.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Who is paying for Trump impeachment defense lawyers?"
     excerpt: "The marathon of arguments taking place during the second impeachment trial of former President Donald Trump is resulting in some long hours for Trump attorneys Bruce Castor, David Schoen and Michael van der Veen, which raises the question of who is paying for his representation."

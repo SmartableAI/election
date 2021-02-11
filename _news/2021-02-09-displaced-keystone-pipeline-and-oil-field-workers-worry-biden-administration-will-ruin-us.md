@@ -95,6 +95,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Climate refugees? Biden executive order wants study on resettling those 'displaced' by climate change"
+    excerpt: "President Biden’s recent executive order on refugees includes a direction for a study on the impacts of climate change on migration, as well as options for the \"protection and resettlement of individuals\" displaced by environmental change."
+    publishedDateTime: 2021-02-11T17:11:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pYboXNqrrjE/climate-refugees-biden-executive-order-climate-change"
+    ampWebUrl: "https://www.foxnews.com/politics/climate-refugees-biden-executive-order-climate-change.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/climate-refugees-biden-executive-order-climate-change.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3e8d82c2-273b-4c5c-a9ad-ccd91dbd9bae/62e14652-1b7c-40c3-b0ea-aac58cd458bd/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "uiX5ZjXPLQ2bZXh4JNb1CAGEyiTDw9bFmGetH2YAUUKdroBFqmoELPORk5uS0SH+bUaHmtbg9XGFHZd7sU1FAcTUZf0HyT1q4dYcqd4g8YBVO9iX3Pp5OhU9b7teoY8FwiPyBX9lVy9NwntNrFklSKzRZaSyeoP3pd+3Ijym4ArPEAyoc31Pohg6fVISeSD9ueHbEyEmAkH1qCgoKFqLxLbCsBoeZLc+VnjWfmQzARb0bChUBInwSQsYe4xIJwuU16/BvNt5kkBPADs9MkwLgwwTd8VaOEQ2Nwmp/Ij5d4FtsQ05VV5DIdtSOKC8FRtlmwI7zrMmdlC2Mor9kVOSCt77cR99GaE5/Jl9MFFPLVs=;668BMjWv3vKSIdGi81/LQQ=="
 ---

@@ -314,6 +314,20 @@ related:
         width: 1161
         height: 773
         isCached: true
+  - title: "Day Three: Democrats try to make the Trump link clearer"
+    excerpt: "And Speaker Nancy Pelosi says she will award the Congressional Gold Medal to Capitol Police and other law enforcement who defended the Capitol on Jan. 6."
+    publishedDateTime: 2021-02-11T18:50:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook-pm/2021/02/11/day-three-democrats-try-to-make-the-trump-link-clearer-491726"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/a9/3c/81523a5e4fb583824a567513d7f6/210211-degette-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "‘Trump War Room’ Twitter account goes on the attack as impeachment trial kicks off"
     excerpt: "The account is one of the last remaining Twitter handles affiliated with the former president and his aides that is accessible on the platform."
     publishedDateTime: 2021-02-10T04:11:00Z

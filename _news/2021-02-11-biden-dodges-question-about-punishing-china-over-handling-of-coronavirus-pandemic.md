@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-sidesteps-question-punishing-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-sidesteps-question-punishing-china-handling-coronavirus-pandemic.amp"
 type: article
 quality: 170
-heat: 190
+heat: 210
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Neera-Tanden-Biden-OMB-AP.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Sen. Rubio calls Biden officials hypocritical for considering travel ban during the coronavirus pandemic"
+    excerpt: "The Biden administration’s consideration of a travel ban due to the coronavirus pandemic is “hypocritical,” Sen. Marco Rubio, R-Fla., said on Thursday."
+    publishedDateTime: 2021-02-11T17:22:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oRuyS5IctLk/rubio-biden-travel-ban-coronavirus-pandemic"
+    ampWebUrl: "https://www.foxnews.com/politics/rubio-biden-travel-ban-coronavirus-pandemic.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rubio-biden-travel-ban-coronavirus-pandemic.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "yLjb/DLJPUdUIZqQo/TgFQhWGAF1BQCo1NQnNr3OoF3teJMkDrfv0hJMrhSD5XLTilsaiu2/x1j2bNqz1WFaooKnTyG6iGflAUbsg5CFtc7ywymxKtrtIDGQAwYT1+rpliTHO6wGgPBJw3pZhD4oaDCsaLc8WItNdaMaC2YQiKHxyXp8QiHMdIJAEzbXxeKHzxsHtLAIRNlro4e+uFIiRBGM+vhbeg3Yb4FVUpezO9I1KklS4D33orjEcrXhT/hbUKvI+fy5hmK/YokoeatKfBBsw/XGTq2xKdE5+ac1d7oGh4Y8o5bnTgikj70WQtJaApwZp9fN7pncGtRcYuVxAXqiG1oyS1FH9BC1LEakk8g=;FqgO2/xO9Uxe3956IXjzqw=="

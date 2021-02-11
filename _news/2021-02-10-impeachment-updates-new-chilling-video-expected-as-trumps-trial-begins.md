@@ -528,6 +528,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Trump's second impeachment trial: Day 3"
+    excerpt: "The House impeachment managers will continue to present their case today against former President Trump. Follow here for the latest."
+    publishedDateTime: 2021-02-11T14:52:00Z
+    webUrl: "https://www.cnn.com/politics/live-news/trump-impeachment-trial-02-11-2021/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/politics/live-news/trump-impeachment-trial-02-11-2021/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/politics/live-news/trump-impeachment-trial-02-11-2021/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_900,h_506/20fd9411-8528-4211-9103-b2889c8272d9.jpg"
+        width: 900
+        height: 506
+        isCached: true
   - title: "Read the Brief From House Managers Asserting Trump Has ‘No Good Defense’"
     excerpt: "The House managers took one final shot at Donald J. Trump on Tuesday morning before his impeachment trial got underway, telling the Senate in a written brief that the former president’s lawyers were relying on “flawed legal theories” because they had “no good defense” for his conduct around the Jan."
     publishedDateTime: 2021-02-09T17:30:00Z
@@ -560,6 +576,22 @@ related:
         width: 2500
         height: 1250
         isCached: true
+  - title: "Trump impeachment trial live updates: Impeachment managers deliver arguments"
+    excerpt: "House Democrats will launch into their second full day of arguments Thursday in the impeachment trial of former President Donald Trump after presenting senators with jarring footage of the Capitol riot."
+    publishedDateTime: 2021-02-11T11:04:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/live-blog/2021-02-11-trump-impeachment-trial-live-updates-n1257308"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1257308"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1257308"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 132
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_06/3449142/210210-impeachment-live-blog-main-cover-cs_08392ad9f0758c11eb5656fe0d5aa66b.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
   - title: "Trump Impeachment Trial Live Updates: Final Day of Arguments for the Prosecution"
     excerpt: "The Democrats have about eight hours left to make their case for convicting former President Donald J. Trump. House managers are urging the Senate to hold Mr. Trump to a higher standard, not a legal definition of incitement."
     publishedDateTime: 2021-02-11T08:27:00Z
@@ -575,6 +607,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/02/11/us/politics/11impeachment-briefing-morning-lead/11impeachment-briefing-morning-lead-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "If Convicting Trump Is Out of Reach, Managers Seek a Verdict From the Public and History"
+    excerpt: "The House Democrats prosecuting former President Donald J. Trump may not win the Senate trial, but they are using it to make the searing images of havoc the inexpungible legacy of the his presidency."
+    publishedDateTime: 2021-02-11T17:40:00Z
+    webUrl: "https://www.nytimes.com/2021/02/11/us/politics/trump-impeachment-trial-legacy.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/11/us/politics/trump-impeachment-trial-legacy.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/11/us/politics/trump-impeachment-trial-legacy.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 126
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/11/us/politics/11dc-assess1/11dc-assess1-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "Trump is on trial for inciting an insurrection. What about the 12 people who spoke before him?"
     excerpt: "Rioters heard from others besides Trump on Jan. 6. As the former president confronts a Senate impeachment trial, 12 other notable “Stop the Steal” speakers have faced few, if any, consequences."
@@ -605,6 +653,20 @@ related:
       - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
         width: 1120
         height: 629
+        isCached: true
+  - title: "Trump's impeachment legal defense will wrap up its case Friday"
+    excerpt: "That means Trump’s defense team will use just one day to defend the former president, who has been impeached for inciting an insurrection."
+    publishedDateTime: 2021-02-11T18:45:00Z
+    webUrl: "https://www.politico.com/news/2021/02/11/trump-impeachment-defense-friday-468694"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/c7/25/97e209f54a13bcf4f1eaf9e5919b/210211-castor-impeachment-getty-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "P1lGXBqDSLxfQSGdXGu1DRknmKtWvDNn5Cji2PFqSari1Prr7/3jQMU6ncg97GHpzEWJuLXtNk27AiwaYwjd/RpouSpp18qKpcpLCQ/C9fOZema4UcsrhqMg1aJLZTC0NcCA4w4ihS1mIbLdJjewTyKhUnHa2U2vFzMirgA3Jtt98OJr/L2p4XfyS8snonq61xMq3HW5hx0tzcXTWnVidUrXDT51XhjUpaJ7GMfO+fjLs/03C5fSQtaVm+J2RxfIZ/jv5TwOaNdA3SEWqD5b6DlH+ehpynQSeG/w7+6GWfCc32XAyrElniHN+5N6Enmi9a7Jh9Qv83qny4N2CYIXXO0K5fLAVml/d3BEJ2mIWhc=;hXsn8Rk2ZALvS83tNbdPww=="

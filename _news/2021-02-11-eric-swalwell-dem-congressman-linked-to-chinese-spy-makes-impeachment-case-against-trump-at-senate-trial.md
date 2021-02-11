@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Warren says Republicans who stand with Trump ‘must be stopped’"
-    excerpt: "Sen. Elizabeth Warren, D-Mass, said Wednesday that she believed the Democrat impeachment managers made a compelling case against former President Trump and any Republican who stands with him “must be stopped.”"
-    publishedDateTime: 2021-02-11T06:43:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pcGPrDMtmHU/warren-says-republicans-who-stand-with-trump-must-be-stopped"
-    ampWebUrl: "https://www.foxnews.com/politics/warren-says-republicans-who-stand-with-trump-must-be-stopped.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/warren-says-republicans-who-stand-with-trump-must-be-stopped.amp"
+  - title: "Hawley rips Trump impeachment proceedings as ‘kangaroo trial’"
+    excerpt: "Missouri Republican Sen. Josh Hawley tore into the Trump impeachment proceedings in the Senate as a “kangaroo trial” as Democrats continued their case against the former president on Thursday."
+    publishedDateTime: 2021-02-11T18:03:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wyqzk5OkaAY/hawley-rips-trump-impeachment-proceedings-as-kangaroo-trial"
+    ampWebUrl: "https://www.foxnews.com/politics/hawley-rips-trump-impeachment-proceedings-as-kangaroo-trial.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hawley-rips-trump-impeachment-proceedings-as-kangaroo-trial.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6543d8c3-c5b2-44bb-a344-bb13ad713683/d535c75a-02b5-4857-8437-8ba6267791ee/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Trump impeachment conviction? 'Zero chance,' Republicans say, as Dems move forward with case"
     excerpt: "The hearings for the second impeachment trial of former President Trump start on Tuesday and Republicans are making it clear, even before they're gaveled in, that they believe the result is predetermined. "
@@ -63,21 +63,35 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Democrats dub Trump the 'inciter-in-chief' for provoking mob, refusing to stop Jan. 6 attack"
-    excerpt: "Democratic impeachment managers made the case Wednesday that the Jan. 6 attack on the Capitol was no accident but rather a \"premeditated\" and \"foreseeable\" outcome"
-    publishedDateTime: 2021-02-10T19:35:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fjUB8NnQ-Z0/democrats-dub-trump-the-inciter-in-chief-for-provoking-mob-refusing-to-stop-jan-6-attack"
-    ampWebUrl: "https://www.foxnews.com/politics/democrats-dub-trump-the-inciter-in-chief-for-provoking-mob-refusing-to-stop-jan-6-attack.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-dub-trump-the-inciter-in-chief-for-provoking-mob-refusing-to-stop-jan-6-attack.amp"
+  - title: "Sen. Hagerty on impeachment trial: Dems want to 'humiliate' Trump and 'shame' supporters into conformity"
+    excerpt: "The second impeachment of former President Donald Trump is an \"unconstitutional show trial\" that is meant to \"humiliate\" the 45th president and shame the people who voted for him, Sen. Bill Hagerty told \"Fox News @ Night\" on Wednesday."
+    publishedDateTime: 2021-02-11T13:30:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dy2UhYoSdq4/trump-impeachment-trial-senate-dems-humiliate-shame-supporters-hagerty"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-trial-senate-dems-humiliate-shame-supporters-hagerty.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-trial-senate-dems-humiliate-shame-supporters-hagerty.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 164
+    quality: 158
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Jamie-Raskin-Trump-Impeachment-Trial-AP.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5a49a7f5-4e47-49a6-8aee-5aa2325068a9/59e4eada-8a0d-4166-af0c-8377e3f478e6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Video of Capitol carnage defines Trump trial but won’t change outcome"
+    excerpt: "The top House impeachment manager had barely uttered a few sentences when, like an anchor tossing to a taped report, he went to the video."
+    publishedDateTime: 2021-02-10T08:24:00Z
+    webUrl: "https://www.foxnews.com/media/video-of-capitol-carnage-defines-trump-trial-but-wont-change-outcome"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 115
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/pezzola-2.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "S1mEkAZBkgO8Sbd91RZO51LxHngVnc68thTXHzM9Y3jmzwXAS6J1mJahrnN6jIYuk0v8NB611zlx8SgMYXisuNA6lGOqtpjITiz+6nUrbuwY6H+mo3CNyDkXIDUi14ukYh4ksLr10HOi1qlM+KYT8Q+oZrn+jyjs7bY1mJKRaUr49BMpqs3mgHGDqQ1MeCgV+M9VIsI/7BV9w6XDUdY3RR83+b8fcT5ZPnrEQ6lZWlYLWVqB+oyM8x4z+W0KIDz3PLl7gWreSneTgLPw2PdtCkHFBWUFyeUmX27sntsPB97GYGdOIzOGTXknxY9fPj3H4t0/siaU32mp5cvTdSFTkSVNpAvlM1vhSmGM1fmu5bA=;SP6uSVJcVCHU+cADK2jN6A=="

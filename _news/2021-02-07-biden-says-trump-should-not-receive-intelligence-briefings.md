@@ -303,6 +303,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Donald Trump Tweeted Attack on Mike Pence Minutes After Hearing VP Was Fleeing Capitol Rioters"
+    excerpt: "Donald Trump was told \"they just took the vice president out\" by Sen. Tommy Tuberville shortly before the then-president posted about Mike Pence."
+    publishedDateTime: 2021-02-11T17:01:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-tweeted-attack-mike-pence-minutes-capitol-rioters-1568568"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-tweeted-attack-mike-pence-minutes-capitol-rioters-1568568?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-tweeted-attack-mike-pence-minutes-capitol-rioters-1568568?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 128
+    images:
+      - url: "https://d.newsweek.com/en/full/1732364/pence.jpg"
+        width: 2992
+        height: 2106
+        isCached: true
   - title: "Biden rescinds national emergency at U.S. southern border that allowed Trump to fund border wall"
     excerpt: "Biden informs Congress about rescinding the national emergency declaration on the U.S.-Mexico border that was put in place by Trump in February 2019."
     publishedDateTime: 2021-02-11T16:52:00Z
@@ -1484,6 +1500,22 @@ related:
     quality: 121
     images:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/09/32f38d54-1915-4a33-992c-58efd85ea438/thumbnail/1200x630/cb687c6bc840aa43a1deddb82197a512/2021-02-09t183526z-1222531060-rc26pl9zqso8-rtrmadp-3-usa-trump-impeachment.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Live Updates: Democrats wrap up case for conviction at Trump impeachment trial"
+    excerpt: "House Democrats are concluding their arguments for former President Donald Trump's conviction at his Senate impeachment trial on Thursday, one day after presenting a dramatic video timeline shedding new light on the extent of the attack on the Capitol on January 6."
+    publishedDateTime: 2021-02-11T15:00:00Z
+    webUrl: "https://www.cbsnews.com/live-updates/trump-impeachment-trial-day-3-2021-02-11/"
+    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/trump-impeachment-trial-day-3-2021-02-11/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/trump-impeachment-trial-day-3-2021-02-11/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 121
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/12/bd5418b7-5f28-4b11-b14e-0e67c77650e3/thumbnail/1200x630/c993197d0405f9a9c4c45683a5609540/gettyimages-1230453213.jpg"
         width: 1200
         height: 630
         isCached: true

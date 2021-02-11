@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration extends fair housing protections to LGBTQ Americans"
+    excerpt: "Protections under the Fair Housing Act will now cover LGBTQ Americans, the Biden administration announced Thursday, a move that allows the federal government to investigate complaints of housing discrimination based on sexual orientation or gender identity.\n    \n"
+    publishedDateTime: 2021-02-11T17:19:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-QWaIdeXwMU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/11/politics/biden-administration-lgbtq-housing-protections/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/11/politics/biden-administration-lgbtq-housing-protections/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180227114420-rainbow-flag-white-house-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Reopening of schools emerges as complex flashpoint for Biden administration"
     excerpt: "President Joe Biden's team is promising new guidance on school reopenings next week. But even as more Covid-19 vaccine shots go into arms two and half weeks into his administration, there is growing impatience and frustration among parents about the biggest question looming over their lives: when their"
     publishedDateTime: 2021-02-06T05:28:22Z
