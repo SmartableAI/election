@@ -2,21 +2,21 @@
 category: news
 title: "Biden orders sanctions against Myanmar after military coup"
 excerpt: "President Joe Biden is ordering new sanctions against the military regime in Myanmar, taking action after the military staged a coup in the Southeast Asian country and arrested the de facto leader and"
-publishedDateTime: 2021-02-10T18:45:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-orders-sanctions-myanmar-military-coup-75807398"
-webUrl: "https://abcnews.go.com/Politics/wireStory/biden-orders-sanctions-myanmar-military-coup-75807398"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-orders-sanctions-myanmar-military-coup-75807398"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-orders-sanctions-myanmar-military-coup-75807398"
+publishedDateTime: 2021-02-10T23:48:00Z
+originalUrl: "https://www.washingtonpost.com/world/national-security/biden-orders-sanctions-against-myanmar-after-military-coup/2021/02/10/8bdb009c-6bd0-11eb-a66e-e27046e9e898_story.html"
+webUrl: "https://www.washingtonpost.com/world/national-security/biden-orders-sanctions-against-myanmar-after-military-coup/2021/02/10/8bdb009c-6bd0-11eb-a66e-e27046e9e898_story.html"
+ampWebUrl: "https://www.washingtonpost.com/world/national-security/biden-orders-sanctions-against-myanmar-after-military-coup/2021/02/10/8bdb009c-6bd0-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/biden-orders-sanctions-against-myanmar-after-military-coup/2021/02/10/8bdb009c-6bd0-11eb-a66e-e27046e9e898_story.html?outputType=amp"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_405e6c24686440ca9f5f416de99fca9f_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -1199,6 +1199,6 @@ related:
         height: 800
         isCached: true
 
-secured: "uAcgNvoMVG3L4QTEsTuAGpmioDLqBrMkpMgiCpu01joLfeIdoyILctyhBqVd3v9sEOSVUJMqow8bBq02Gm6BxU9c5A3Hkbyy4MuhDfPe8F0D48XFdQmt2x9CCxHv0ij5xUbNCs0OP2cWiXj1ygJEBZ9mTAK0SoC+KL2CpEdssfO1fA3Shd5XS9qV2uCuNN+XanosHwns0pjzqEYRnSbshdexLv5+6PdgD58uYzltPPn4Hq2hFxSABXEc2YkjKDXkJfERb/yT1ypS2A1SRXyDxSRDORkXnzmIZK6/vXNVOVFCv//77JHIf/ukMfKsUCv62VN1HwzDZc0nsBqjky+blRrIgjSBasENY1bjWBUI+uFJf78SErSXyEN3eSqn22JhUv5CFhyiPVKL5En1FMVplDmiWrA3Ey9l8Rv45PXCNMC4InfzlFZDbxwh5NY03pP/Es0sCZmJzZTDFMhGrUtqkzKSWDJNbiczEgHadUQ5Wxue4dwngDjlhvt+gM5yp11UrUuBUcDQ/1OUO3Ppd8zqFg==;XR4Lyx0mscEsmiEfaybqKg=="
+secured: "9Pfskf+KUxIjJpz7a5efG7lDosJYB25Mant3m1itBCBIT1qTe1UCS/l84tl+bZJO9FYjdtySBUoZl+LmVpFHP0ljmcT89yhFkdnrzofIPfJqjYIsbGHFb6in55/nsW8MHP/7N3NPwq4Otn65ziifS9eBqzRtgtpBY+9IEAiB4HLkDxmP3+F9UHAwnG4biRGONf75tu2cCkjQC+IbzKM3rSScHdIPRpCA68uZFuHrIE1ypAau8s256sjzRaUZqWr9uXp65YJsnSjbfA5h/fxmzOUAoOo2PSrd7alNLVnqMY3X7HphDKGE0QaahnCIz3qjoeEOdo6Z0zYFfH5fODReJjoXNt5N+3OSfNG4bXp1E8k=;CqkLkZA8hc8sO4ndT/KNjw=="
 ---
 

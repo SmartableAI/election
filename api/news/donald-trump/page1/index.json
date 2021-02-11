@@ -2,6 +2,115 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-11-adviser-says-donald-trump-in-great-mood-thinks-bruce-castor-made-some-good-points.md",
+      "title": "Adviser Says Donald Trump In 'Great Mood,' Thinks Bruce Castor Made 'Some Good Points'",
+      "excerpt": "\"There are a few things that we need to tighten up,\" Donald Trump's adviser Jason Miller said of Trump's defense team in the Senate impeachment trial.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/adviser-says-donald-trump-great-mood-thinks-bruce-castor-made-some-good-points-1568455",
+      "originalUrl": "https://www.newsweek.com/adviser-says-donald-trump-great-mood-thinks-bruce-castor-made-some-good-points-1568455",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1732059/jason-miller-donald-trump-impeachment-bruce-castor.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/adviser-says-donald-trump-great-mood-thinks-bruce-castor-made-some-good-points-1568455?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/adviser-says-donald-trump-great-mood-thinks-bruce-castor-made-some-good-points-1568455?amp=1",
+      "publishedDateTime": "2021-02-10T20:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-harsh-reminder-key-takeaways-from-day-two-of-trumps-second-impeachment-trial.md",
+      "title": "'Harsh reminder': Key takeaways from Day Two of Trump's second impeachment trial",
+      "excerpt": "Democratic impeachment managers used Trump's past words to make him a constant presence as they played raw video of the Jan. 6 attack.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/donald-trump/harsh-reminder-key-takeaways-day-two-trump-s-second-impeachment-n1257347",
+      "originalUrl": "https://www.nbcnews.com/politics/donald-trump/harsh-reminder-key-takeaways-day-two-trump-s-second-impeachment-n1257347",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media1.s-nbcnews.com/i/newscms/2021_06/3449251/210210-takeaways-capitol-riot-ew-715p_1fe7f7a91d0c072dd5dadcc38b6edac2.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1257347",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1257347",
+      "publishedDateTime": "2021-02-10T19:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-11-parental-warnings-harrowing-footage-takeaways-from-trumps-impeachment-trial.md",
       "title": "Parental warnings, harrowing footage: Takeaways from Trump's impeachment trial",
       "excerpt": "The U.S. Senate's impeachment trial gathered steam on Wednesday, with Democratic lawmakers laying out their evidence that former President Donald Trump incited an insurrection by exhorting thousands of supporters to march on the Capitol last month.",
@@ -1085,7 +1194,7 @@
       "originalUrl": "https://www.cbsnews.com/news/pences-post-trump-administration-plans-take-shape/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 3630,
+      "heat": 3670,
       "tags": null,
       "images": [
         {
@@ -1491,115 +1600,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-us-treasury-says-more-time-needed-to-decide-on-trump-tax-returns-bloomberg-news.md",
-      "title": "U.S. Treasury says more time needed to decide on Trump tax returns - Bloomberg News",
-      "excerpt": "The U.S. Treasury said it needs more time to decide whether to fight House Democrats in their effort to get former President Donald Trump's personal and business tax returns, Bloomberg News reported on Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-trump-taxes/u-s-treasury-says-more-time-needed-to-decide-on-trump-tax-returns-bloomberg-news-idUSKBN2A40H8",
-      "originalUrl": "https://www.reuters.com/article/us-usa-trump-taxes/u-s-treasury-says-more-time-needed-to-decide-on-trump-tax-returns-bloomberg-news-idUSKBN2A40H8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?m=02&d=20210204&t=2&i=1550269013&r=LYNXMPEH130A3&w=800",
-          "width": 800,
-          "height": 547,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-04T01:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-usa-today-column-argues-tom-brady-has-gotten-undeserved-pass-for-supporting-trump-cites-white-privilege.md",
-      "title": "USA Today column argues Tom Brady has gotten 'undeserved pass' for supporting Trump, cites 'white privilege'",
-      "excerpt": "With Tom Brady days away from playing in his tenth Super Bowl, a USA Today sports columnist has taken aim at the NFL superstar over his past support of former President Donald Trump.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/usa-today-column-tom-brady-undeserved-pass-for-supporting-trump",
-      "originalUrl": "https://www.foxnews.com/media/usa-today-column-tom-brady-undeserved-pass-for-supporting-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e7512a7c-8dd6-4e81-afc9-f7fec4e57256/cbb85a7a-e3a4-4ca4-8ffe-d9c46f5ddf97/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/usa-today-column-tom-brady-undeserved-pass-for-supporting-trump.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/usa-today-column-tom-brady-undeserved-pass-for-supporting-trump.amp",
-      "publishedDateTime": "2021-02-03T20:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

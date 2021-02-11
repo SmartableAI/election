@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/scandal-plagued-blue-state-bureaucr
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/scandal-plagued-blue-state-bureaucrats-get-plum-posts-in-biden-admin.amp"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden’s new target for reopened schools is behind where U.S. is now, data show"
+    excerpt: "President Biden's new target for reopening schools -- having more than 50% of public schools offering at least one day of in-person classes a week -- is behind where the nation's public schools already are. "
+    publishedDateTime: 2021-02-11T03:28:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kl3yzNpKhGs/bidens-new-target-for-reopened-schools-is-behind-where-u-s-is-now-data-show"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-new-target-for-reopened-schools-is-behind-where-u-s-is-now-data-show.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-new-target-for-reopened-schools-is-behind-where-u-s-is-now-data-show.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4e468e48-daf4-48c9-b172-5e8ae98b3f4a/e9d7c456-73c0-43ba-9de5-5359a023293c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden budget nominee Neera Tanden could face testy hearings amid scrutiny of inflammatory tweets"
     excerpt: "President Biden's pick for director of the White House Office of Management and Budget could find herself in unfriendly territory when she sits for two confirmation hearings this week after a history of enmity with lawmakers on both sides of the aisle."
     publishedDateTime: 2021-02-08T17:23:37Z
@@ -96,6 +112,6 @@ related:
         height: 720
         isCached: true
 
-secured: "BJXhpEov4J94eEhzUPeleU/HHbP+8ScVmQlRqqNRUU8ghnRqyImqt7nafjYV/TFgg6um6aFxZtcUEcOx7Otf4mbA2prvAU1lU1doouVRvg5KOupCXWNPRdIoM4QseHRJu5KuHmOaovt+2fVktxq6wU5tfJt2M2Q7cpB/Grb9CT28sQspMOyezcfoHbfbCu2uMPxMRhGvVOCBNS9PqJ0myJYcwnRlAT+7x6odgAHfZnLUL8qbzu8rtclh606rfCHY/zBC4RSNYVQaMDlm6SNb9aYtTfJGEIz6nolTEBqXAmQzFemnPNowA42srMRGr7U1+GFLDHq5v7MJqheKcQL44xmFvl4Pl3dw6roeNM6XcQ0=;0gIvu+pbzrhmbV680IbLcw=="
+secured: "q7+/FAdmpT5Z12/pW7NZWmEde8MXWh0J1kxMmw8IZGPjNV4FetuxRlySS4x3sV8SYYCDpGfN8OIDJMIiyHljRftoY4OAlHjy5O0bU4C/6ElUlQYRnfpJdEGwR3JTlCmDblB+WDyQ+jzqkULzwdnLIoqWKTcP1AIlEFNftNtFECKSpWc92ocLqVwy7Lc5Tseg6zSQfDBw6FYvzY5k7o42CKj9RHvr1pKZ9w7YcYF32ujlhiWKTFR93TICpVVZaprYaSPD6BKo8cjuDwPrRpjExiQsDSoJnNr6qGYKDCQdQbI1lsKT2fyY+F6ODyt6x9jf7fGA9sPS70iQ9fwSlfMPOdGIEL7LhGi0QkL+iKfmfFI=;gkLTxmkOHDfDXBrISsSJuA=="
 ---
 

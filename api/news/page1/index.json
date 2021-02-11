@@ -2,6 +2,115 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-11-adviser-says-donald-trump-in-great-mood-thinks-bruce-castor-made-some-good-points.md",
+      "title": "Adviser Says Donald Trump In 'Great Mood,' Thinks Bruce Castor Made 'Some Good Points'",
+      "excerpt": "\"There are a few things that we need to tighten up,\" Donald Trump's adviser Jason Miller said of Trump's defense team in the Senate impeachment trial.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/adviser-says-donald-trump-great-mood-thinks-bruce-castor-made-some-good-points-1568455",
+      "originalUrl": "https://www.newsweek.com/adviser-says-donald-trump-great-mood-thinks-bruce-castor-made-some-good-points-1568455",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1732059/jason-miller-donald-trump-impeachment-bruce-castor.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/adviser-says-donald-trump-great-mood-thinks-bruce-castor-made-some-good-points-1568455?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/adviser-says-donald-trump-great-mood-thinks-bruce-castor-made-some-good-points-1568455?amp=1",
+      "publishedDateTime": "2021-02-10T20:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-harsh-reminder-key-takeaways-from-day-two-of-trumps-second-impeachment-trial.md",
+      "title": "'Harsh reminder': Key takeaways from Day Two of Trump's second impeachment trial",
+      "excerpt": "Democratic impeachment managers used Trump's past words to make him a constant presence as they played raw video of the Jan. 6 attack.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/donald-trump/harsh-reminder-key-takeaways-day-two-trump-s-second-impeachment-n1257347",
+      "originalUrl": "https://www.nbcnews.com/politics/donald-trump/harsh-reminder-key-takeaways-day-two-trump-s-second-impeachment-n1257347",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media1.s-nbcnews.com/i/newscms/2021_06/3449251/210210-takeaways-capitol-riot-ew-715p_1fe7f7a91d0c072dd5dadcc38b6edac2.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1257347",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1257347",
+      "publishedDateTime": "2021-02-10T19:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-11-scandal-plagued-blue-state-bureaucrats-get-plum-posts-in-biden-admin.md",
       "title": "Scandal-plagued blue state bureaucrats get plum posts in Biden admin",
       "excerpt": "President Biden nominated Julie Su Wednesday, as the deputy secretary for the U.S. Department of Labor.",
@@ -14,7 +123,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 255,
+      "heat": 275,
       "tags": null,
       "images": [
         {
@@ -234,7 +343,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 185,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -1268,115 +1377,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-biden-says-us-will-sanction-military-leaders-family-members-behind-myanmar-coup.md",
-      "title": "Biden says US will sanction military leaders, family members behind Myanmar coup",
-      "excerpt": "Biden says US will sanction military leaders, family members behind Myanmar coup. Copyright 2021 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed without permission.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/world/national-security/biden-says-us-will-sanction-military-leaders-family-members-behind-myanmar-coup/2021/02/10/2637ede2-6bce-11eb-a66e-e27046e9e898_story.html",
-      "originalUrl": "https://www.washingtonpost.com/world/national-security/biden-says-us-will-sanction-military-leaders-family-members-behind-myanmar-coup/2021/02/10/2637ede2-6bce-11eb-a66e-e27046e9e898_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/world/national-security/biden-says-us-will-sanction-military-leaders-family-members-behind-myanmar-coup/2021/02/10/2637ede2-6bce-11eb-a66e-e27046e9e898_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/biden-says-us-will-sanction-military-leaders-family-members-behind-myanmar-coup/2021/02/10/2637ede2-6bce-11eb-a66e-e27046e9e898_story.html?outputType=amp",
-      "publishedDateTime": "2021-02-10T10:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-impeachment-managers-directly-blame-inciter-in-chief-trump-for-capitol-attack.md",
-      "title": "Impeachment managers directly blame ‘inciter-in-chief' Trump for Capitol attack",
-      "excerpt": "Prosecutors also will show never-before-seen footage of the chaos during the first day of formal arguments in Trump's second trial.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/02/10/trump-impeachment-trial-day-2-468291",
-      "originalUrl": "https://www.politico.com/news/2021/02/10/trump-impeachment-trial-day-2-468291",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/c7/25/c3962b394f1d93105eef2bd2747d/raskin-773-ap.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-10T10:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

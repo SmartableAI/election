@@ -128,6 +128,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Donald Trump's impeachment attorney draw comparisons to 'My Cousin Vinny' character"
+    excerpt: "Defense attorney Bruce Castor was compared to the inept lawyer from the movie “My Cousin Vinny” following his opening argument in Donald Trump’s second impeachment trial before the U.S. Senate."
+    publishedDateTime: 2021-02-10T21:03:00Z
+    webUrl: "https://www.foxnews.com/entertainment/donald-trump-impeachment-attorney-my-cousin-vinny"
+    ampWebUrl: "https://www.foxnews.com/entertainment/donald-trump-impeachment-attorney-my-cousin-vinny.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/donald-trump-impeachment-attorney-my-cousin-vinny.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 129
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/02/640/320/JoePesci4.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "vTnJFNzdqpihnj8gJB5ES266ab1xHVRQO9cPiTtjVQQ3XecBrhM+pjTBVY7m+EZ0ZZOv2E09yrT/SqiY+HH7qP7uzuzQh+9bWM7uEUunbgPZRHqtlk/6zQvOOISeNbRSeI+gEq3dQNLW74ZqJcEaE+avMuytS6GweDbNESCg6gwgE6HnttwafQGwtWUl8N+U0bPp3q1dvt2rgtC849j//A3EP9osccNYaaH8kWRgnLdDABeTTv9qJGa/fJCF5GixBcFqdllGkwwzXt2U9eVfWM46m92PGvc3ko9E3QvDDc7mZNnJ+XRjJDIibK17agbWoI5MwOSTbfSPveBzGFSRHElu1/qMMJ3Sk5AJs+MTeFk=;7TvYQ8Tjl7bZ0BixGYvr4A=="
 ---

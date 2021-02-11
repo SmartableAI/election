@@ -571,19 +571,19 @@ related:
         isCached: true
   - title: "Biden orders sanctions against Myanmar after military coup"
     excerpt: "President Joe Biden is ordering new sanctions against the military regime in Myanmar, taking action after the military staged a coup in the Southeast Asian country and arrested the de facto leader and"
-    publishedDateTime: 2021-02-10T18:45:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-orders-sanctions-myanmar-military-coup-75807398"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-orders-sanctions-myanmar-military-coup-75807398"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-orders-sanctions-myanmar-military-coup-75807398"
+    publishedDateTime: 2021-02-10T23:48:00Z
+    webUrl: "https://www.washingtonpost.com/world/national-security/biden-orders-sanctions-against-myanmar-after-military-coup/2021/02/10/8bdb009c-6bd0-11eb-a66e-e27046e9e898_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/national-security/biden-orders-sanctions-against-myanmar-after-military-coup/2021/02/10/8bdb009c-6bd0-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/biden-orders-sanctions-against-myanmar-after-military-coup/2021/02/10/8bdb009c-6bd0-11eb-a66e-e27046e9e898_story.html?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_405e6c24686440ca9f5f416de99fca9f_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Biden to meet Republicans on COVID-19 plan in test of bipartisan approach"
     excerpt: "President Joe Biden will meet 10 moderate Republican senators on Monday to discuss their proposal to shrink his sweeping $1.9 trillion U.S. COVID-19 relief package, even as Democrats prepare to push legislation through Congress without Republican support."

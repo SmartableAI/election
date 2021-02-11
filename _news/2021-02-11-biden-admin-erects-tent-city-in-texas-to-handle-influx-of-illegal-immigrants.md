@@ -80,6 +80,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden’s new target for reopened schools is behind where U.S. is now, data show"
+    excerpt: "President Biden's new target for reopening schools -- having more than 50% of public schools offering at least one day of in-person classes a week -- is behind where the nation's public schools already are. "
+    publishedDateTime: 2021-02-11T03:28:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kl3yzNpKhGs/bidens-new-target-for-reopened-schools-is-behind-where-u-s-is-now-data-show"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-new-target-for-reopened-schools-is-behind-where-u-s-is-now-data-show.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-new-target-for-reopened-schools-is-behind-where-u-s-is-now-data-show.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4e468e48-daf4-48c9-b172-5e8ae98b3f4a/e9d7c456-73c0-43ba-9de5-5359a023293c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden budget nominee Neera Tanden could face testy hearings amid scrutiny of inflammatory tweets"
     excerpt: "President Biden's pick for director of the White House Office of Management and Budget could find herself in unfriendly territory when she sits for two confirmation hearings this week after a history of enmity with lawmakers on both sides of the aisle."
     publishedDateTime: 2021-02-08T17:23:37Z

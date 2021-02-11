@@ -1197,6 +1197,22 @@ related:
         width: 819
         height: 545
         isCached: true
+  - title: "Key takeaways from day 2 of Trump's 2nd impeachment trial"
+    excerpt: "House impeachment managers, relying on Capitol security camera footage, showed just how close some lawmakers came to armed rioters seeking to undo the election."
+    publishedDateTime: 2021-02-11T03:57:00Z
+    webUrl: "https://abcnews.go.com/Politics/key-takeaways-day-trumps-2nd-impeachment-trial/story?id=75818909"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/key-takeaways-day-trumps-2nd-impeachment-trial/story?id=75818909"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/key-takeaways-day-trumps-2nd-impeachment-trial/story?id=75818909"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/General/impeachment-donald-trump-04-rt-llr-210210_1612983099279_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump never conceded he lost, but his impeachment lawyer did"
     excerpt: "One of the lawyers heading former President Donald Trump’s defense at his second impeachment trial did what Trump himself has not: conceded Joe Biden won the presidential election"
     publishedDateTime: 2021-02-10T18:14:00Z
@@ -1484,6 +1500,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1727849/q.jpg"
         width: 3200
         height: 2136
+        isCached: true
+  - title: "U.S. judge orders detention for alleged Proud Boy who blames Trump for Capitol riots"
+    excerpt: "A federal judge on Wednesday ordered an alleged member of the far-right Proud Boys be detained pending trial over his role in the insurrection at the U.S. Capitol, even as the man's attorney tried to pin the blame for the riots on former President Donald Trump."
+    publishedDateTime: 2021-02-11T04:14:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-capitol-arrests-idUSKBN2AA2Z5"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AA2Z5"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AA2Z5"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 118
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210210&t=2&i=1551107917&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1921U"
+        width: 817
+        height: 545
         isCached: true
   - title: "Parents loved Taking Cara Babies' sleep tips. Then they found out she donated to Trump"
     excerpt: "Cara Dumaplin's sleep tips for babies were \"life-changing.\" Then her followers learned she donated to Donald Trump. Here's how the drama unfolded."
@@ -2654,6 +2686,6 @@ related:
       domain: usnews.com
     quality: 46
 
-secured: "GZ6tzlSpCq+rnP7Cjo6uip5w1wEkLSjHZu5CIky+bVtzJ/MiwMID9E1aS5twiUABONlYOY9k0wJoJRZSKjdTlynrybZZNnJ3vHGxN98RhNEbmbzDhLsa8ABR+Yd9o2CMgTxAhbOquqiTvPXCnJaRHQQNXwS6Ju68apU4ipmhbryirPC7nSB4cdg+YoqvnWpyHdWKMYB4qeTSZNAaJ3YzQS3tLYZlmKy+DTArMebwWfB0hvwhnxqt8+vZzDl5ZrtgmpmVSlyOHzXCfxBj2tdCrBIqESa+yY6IPunadw1CkzV7ZPA2/YjcjhwLcq2aMbflxOM1yaKJ93k6gbeT33wB5y5WE8vKOMjdQaHYR29uBRU=;qy3DELoLvhKpCCuFGQ+jfA=="
+secured: "7HUJgVc3dNzScJGfiHQxnmf+jINIuVqMbvUnhZnYQMU/ADTSpaxIvOWGDt7Mf4vS4z+Oarw1wd/Nc4E2I2UhNpPx/IV1SsO1HYmDld0AHvH0mSJ7sIFIlPNyf+ZWsqmClP0oTwgbTBxCDj65u3HQATLmljP+Zo8l5HBBAaTkBRlCDgnlLHvMmyLCmFTcgAorDo1z/bnifjNrVLJJnOVHvI2h4OrYgORDGHrld3YImIFpMuR1JIYAxqx2oI6nw3Yp6jaP2wiEP/+OFac9sXk2ez9pcHoz4dD1IC72zNWVGUJlMgrSsEw5prJIW7Q9MBIiSNFvLXnmiyROqSLQaAb4TwkXc7qLCBfwmmBVneHeVOgid+IwB857n8D7pHZAM7rASIxMWh+f369cDpglibfJjmVpb8k6kj9FfC89gSX71CAGSe6Q4Rk6DxpqVGdCDsmtm+EQw4zoXSMU0BtKR1lkHyPgI4nNnHJc3HHuFPvM7zZVpDGl0TbBnSuTz02KG4Ztc5mGhcCFlDZobd+0Ne62VQ==;ug9tEdxC7cFwVpi5/99gow=="
 ---
 

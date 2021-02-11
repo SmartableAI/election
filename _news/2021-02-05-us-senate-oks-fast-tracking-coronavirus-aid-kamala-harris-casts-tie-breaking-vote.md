@@ -443,6 +443,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "President Joe Biden in call with China's Xi Jinping raises human rights, trade"
+    excerpt: "Joe Biden held his first call as president with China's Xi Jinping, pressing him on trade and Beijing's crackdown on democracy activists in Hong Kong."
+    publishedDateTime: 2021-02-11T02:57:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/10/joe-biden-call-china-xi-jinping-raises-human-rights-trade/6715322002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6715322002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6715322002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 121
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/11/USAT/45466196-210e-4a98-93ee-62ad0151bd59-AP21041777544333.jpg?auto=webp&crop=5999,3374,x1,y580&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden, Harris get virtual tour of Arizona vaccination site"
     excerpt: "President Joe Biden and Vice President Kamala Harris got a virtual tour Monday of a federally funded, mass vaccination site in Arizona, but they did not address the"
     publishedDateTime: 2021-02-08T22:50:00Z

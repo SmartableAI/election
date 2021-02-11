@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pezzola-delusional-trump-misled-cap
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pezzola-delusional-trump-misled-capitol-rioter.amp"
 type: article
 quality: 165
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Democrats Argue Trump ‘Inflamed and Incited’ Capitol Riot"
+    excerpt: "Democrats opened their case by arguing that he “assembled, inflamed and incited” the attack on the Capitol in a last-ditch effort to overturn the result of the election."
+    publishedDateTime: 2021-02-11T00:13:00Z
+    webUrl: "https://www.wsj.com/articles/on-day-two-of-trump-impeachment-trial-democrats-lay-out-their-case-11612953001"
+    ampWebUrl: "https://www.wsj.com/amp/articles/on-day-two-of-trump-impeachment-trial-democrats-lay-out-their-case-11612953001"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/on-day-two-of-trump-impeachment-trial-democrats-lay-out-their-case-11612953001"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-297712/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Video of Capitol carnage defines Trump trial but won’t change outcome"
     excerpt: "The top House impeachment manager had barely uttered a few sentences when, like an anchor tossing to a taped report, he went to the video."
     publishedDateTime: 2021-02-10T08:24:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/scott-trump-not-guilty-impeachment-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/scott-trump-not-guilty-impeachment-capitol-riot-insurrection.amp"
 type: article
 quality: 175
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -108,6 +108,22 @@ related:
     quality: 135
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/trump-raskin.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Donald Trump's impeachment attorney draw comparisons to 'My Cousin Vinny' character"
+    excerpt: "Defense attorney Bruce Castor was compared to the inept lawyer from the movie “My Cousin Vinny” following his opening argument in Donald Trump’s second impeachment trial before the U.S. Senate."
+    publishedDateTime: 2021-02-10T21:03:00Z
+    webUrl: "https://www.foxnews.com/entertainment/donald-trump-impeachment-attorney-my-cousin-vinny"
+    ampWebUrl: "https://www.foxnews.com/entertainment/donald-trump-impeachment-attorney-my-cousin-vinny.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/donald-trump-impeachment-attorney-my-cousin-vinny.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 129
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/02/640/320/JoePesci4.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
