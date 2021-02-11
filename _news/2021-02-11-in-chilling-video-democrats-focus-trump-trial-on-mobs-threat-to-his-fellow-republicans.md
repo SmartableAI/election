@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Congressional investigators probe videos of Trump associates' actions ahead of Capitol riot"
-excerpt: "Investigators preparing for former President Trump's impeachment trial are zeroing in on the actions of the president and his associates around the insurrection."
-publishedDateTime: 2021-02-05T20:35:00Z
-originalUrl: "https://abcnews.go.com/Politics/congressional-investigators-probe-videos-trump-associates-actions-ahead/story?id=75711459"
-webUrl: "https://abcnews.go.com/Politics/congressional-investigators-probe-videos-trump-associates-actions-ahead/story?id=75711459"
+title: "In chilling video, Democrats focus Trump trial on mob's threat to his fellow Republicans"
+excerpt: "House Democrats prosecuting Donald Trump's impeachment trial for inciting the deadly siege of the Capitol played chilling security video on Wednesday showing members of the pro-Trump mob searching the building for his vice president,"
+publishedDateTime: 2021-02-11T08:02:00Z
+originalUrl: "https://www.reuters.com/article/usa-trump-impeachment-idINKBN2AA19P"
+webUrl: "https://www.reuters.com/article/usa-trump-impeachment-idINKBN2AA19P"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2AA19P"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2AA19P"
 type: article
-quality: 95
+quality: 116
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/US/roger-stone-rt-jt-210114_1610671071345_hpMain_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210211&t=2&i=1551118537&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1A01K"
+    width: 968
+    height: 545
     isCached: true
 
 related:
@@ -1677,22 +1679,6 @@ related:
         width: 2500
         height: 1736
         isCached: true
-  - title: "In chilling video, Democrats focus Trump trial on mob's threat to his fellow Republicans"
-    excerpt: "House Democrats prosecuting Donald Trump's impeachment trial for inciting the deadly siege of the Capitol played chilling security video on Wednesday showing members of the pro-Trump mob searching the building for his vice president,"
-    publishedDateTime: 2021-02-11T08:02:00Z
-    webUrl: "https://www.reuters.com/article/usa-trump-impeachment-idINKBN2AA19P"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2AA19P"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2AA19P"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 116
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210211&t=2&i=1551118537&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1A01K"
-        width: 968
-        height: 545
-        isCached: true
   - title: "Power Up: Democrats produce the must-see TV in the first day of Trump's impeachment trial"
     excerpt: "It's Wednesday and this is the Power Up newsletter. Rep. Adam Kinzinger (R-Ill.) – one of 10 Republicans who voted to impeach Donald Trump a second time – talks with us at 11a.m. Come pregame the impeachment trial with us here."
     publishedDateTime: 2021-02-10T16:32:00Z
@@ -2356,6 +2342,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Congressional investigators probe videos of Trump associates' actions ahead of Capitol riot"
+    excerpt: "Investigators preparing for former President Trump's impeachment trial are zeroing in on the actions of the president and his associates around the insurrection."
+    publishedDateTime: 2021-02-05T20:35:00Z
+    webUrl: "https://abcnews.go.com/Politics/congressional-investigators-probe-videos-trump-associates-actions-ahead/story?id=75711459"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 95
+    images:
+      - url: "https://s.abcnews.com/images/US/roger-stone-rt-jt-210114_1610671071345_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Donald Trump has these 7 distinct weapons in his arsenal that show he isn't going away anytime soon"
     excerpt: "Insider has identified 7 weapons in Donald Trump's arsenal — political committees, government facilities, media platforms — for staging a comeback."
     publishedDateTime: 2021-02-01T10:00:00Z
@@ -2734,6 +2734,6 @@ related:
       domain: usnews.com
     quality: 46
 
-secured: "DXvoMsD1GGCC7JEkRDgwyS8cnRo0LfF12zSPReD5y2icafF0+tDUlQEHpo+CSsDUPPX+Lx2WzqrLNREtRb+YGIYBntnoAITQI3p6ib1dxRTE7aAh0nsklzlD5aKUG6Z39H2dCyoBq5igQ+faYzt9QRY72qPjGs8R76EDpKTeqlKpTmnhZWyYkgp9f/j8rE+4NUn9POqGnncV42Lwaep4iMKjGW4RTfjpHtsuLfwur86DVD4QZv90AAfTuKDqXGKvaGVTPxGZBNLfPUyKDItn78FognEEMWWgZMgrxDTIHsmzTq/9cYwlhDJaGDi7dkYEsCTKVaFS85vCePFsCFRNhNon+8D6v3L0tizHpZV4FXE=;Dom7GfKNLoNtiByW/JdYMg=="
+secured: "W1T9RtkrXk1XzVkvzwXCoYMFUd5od8kk/1bGRXQbM/g9sNT7qIY7YhlesFk5LV22jWv3036hCLAVIm99JwGws1pV8aMMGiO21gxXEkWjqFakwLTbKnTWT+TONuDR2U6Jl8pODJfwWIQXCbrzOQrnU65WfNVk+Zch+UXUDzWvxaj8pw9QdCdW9XgO2rQ61IXZPr09wZy8YdY3Bo/6mwbD9WfNvk28Zlhi+UPgxWgeMsxh6QsXUbAh9jKdomNKcdofXXKMkDNZa9GtrYaLNoyESoRdVmbYFVwuwHaBG5vHJTf4NdfNASRwhKmPZSrxlFsCYLx0u9WU97lSJHW78xMz3UHpJ6D8zYRm7j5Q/ggFDY4=;x+ZTHZJn2JcD0ni+xSY89w=="
 ---
 

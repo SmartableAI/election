@@ -3,8 +3,8 @@ category: news
 title: "Factbox: Parental warnings and thanks to Pence - Takeaways from Trump's impeachment trial"
 excerpt: "The U.S. Senate's impeachment trial gathered steam on Wednesday, with Democratic lawmakers laying out their best evidence that former President Donald Trump incited an insurrection by exhorting thousands of supporters to march on the Capitol last month."
 publishedDateTime: 2021-02-11T00:11:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-takeaways-factb/factbox-parental-warnings-and-thanks-to-pence-takeaways-from-trumps-impeachment-trial-idUSKBN2AA2LY"
-webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-takeaways-factb/factbox-parental-warnings-and-thanks-to-pence-takeaways-from-trumps-impeachment-trial-idUSKBN2AA2LY"
+originalUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-takeaways-factb/factbox-parental-warnings-and-thanks-to-pence-takeaways-from-trumps-impeachment-trial-idUSKBN2AA2LY?edition-redirect=in"
+webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-takeaways-factb/factbox-parental-warnings-and-thanks-to-pence-takeaways-from-trumps-impeachment-trial-idUSKBN2AA2LY?edition-redirect=in"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AA2LY"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AA2LY"
 type: article
@@ -25,7 +25,7 @@ topics:
   - Mike Pence
 
 images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210211&t=2&i=1551117078&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH191SS"
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210211&t=2&i=1551118285&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH191SS"
     width: 968
     height: 545
     isCached: true
@@ -1663,6 +1663,22 @@ related:
         width: 2500
         height: 1736
         isCached: true
+  - title: "In chilling video, Democrats focus Trump trial on mob's threat to his fellow Republicans"
+    excerpt: "House Democrats prosecuting Donald Trump's impeachment trial for inciting the deadly siege of the Capitol played chilling security video on Wednesday showing members of the pro-Trump mob searching the building for his vice president,"
+    publishedDateTime: 2021-02-11T08:02:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-impeachment-idINKBN2AA19P"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2AA19P"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2AA19P"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 116
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210211&t=2&i=1551118537&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1A01K"
+        width: 968
+        height: 545
+        isCached: true
   - title: "Power Up: Democrats produce the must-see TV in the first day of Trump's impeachment trial"
     excerpt: "It's Wednesday and this is the Power Up newsletter. Rep. Adam Kinzinger (R-Ill.) – one of 10 Republicans who voted to impeach Donald Trump a second time – talks with us at 11a.m. Come pregame the impeachment trial with us here."
     publishedDateTime: 2021-02-10T16:32:00Z
@@ -2718,6 +2734,6 @@ related:
       domain: usnews.com
     quality: 46
 
-secured: "B864+LEXTmmB4CzyYSLqoFyPV5Mwqk6U3XP4NYD2o4tSuwMmCLNdLMEgHUoyMMn8RYRvnriXbwOoCmzV/fREpPBpRNSxZY5Djl3S9ZMjqhGduoemojBBusRdMNqoOWXxD+SWuktLXzyamVDhpXckozFs7W9LQKluOZChSny8aNoxUm73LucLAspjoqBQvGNHr/p6np8VBrKpsgCFYjRdF3lJjJknBQ3gGayuxaTsnrcp4J82w1FRbt4AZk8qIbrX9TNoNAuBwzC5+786H9PonNYYXQoRZLWr4tSjBpmPOZKaB8dPVXQoJUInKGxAlSlxrVnsLqO/uy8ghaQ6ellEZXGaO6kl6Cs0+ByJipqTKdU=;U1nPH1/sclIE9uenOaZdfw=="
+secured: "wxBW7Ay85YcwSsBBcLkO9ag6PoGyK8CIpLjMFj3vRd2WZZFjjk51WTvvMW+0rI5c9Frrf8vxMdpIq5fAP/X4MDvmXtbCAx11+a5joG0A0nN/KqwQA+gU9Tk7Nmdn1kdg1voS9Q5VHPeKgiLDg1j92G1APJNmMnGQvcUfzcXDTcVETXBdJ8us4TJQq5LQf0b8GjIVS++/lSPqWRCqNsTpMkpCHl6/BBb37Be+ZA0Cl86dfO6e84GeW1zyjqXCpZ09FXIgoXB0x9O6hFAequZPZFBQl+0OqZetikLTCxO9JWNlQUZiV59G9daSpecKbpNvIr0IuBEjZl1q8AXLeteOANIVazgkpDDmIlyD8wfPDHc=;HRr3SWqV4PFS5l8oTTkp2g=="
 ---
 

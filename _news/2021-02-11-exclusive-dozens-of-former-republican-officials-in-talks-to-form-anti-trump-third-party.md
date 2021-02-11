@@ -1,28 +1,34 @@
 ---
 category: news
-title: "Exclusive: Dozens of Former Republican Officials in Talks to Form Anti-Trump Third Party"
+title: "Exclusive: Dozens of former Republican officials in talks to form anti-Trump third party"
 excerpt: "Dozens of former Republican officials, who view the party as unwilling to stand up to former President Donald Trump and his attempts to undermine U.S. democracy, are in talks to form a center-right breakaway party,"
-publishedDateTime: 2021-02-11T02:47:00Z
-originalUrl: "https://www.usnews.com/news/us/articles/2021-02-10/exclusive-dozens-of-former-republican-officials-in-talks-to-form-anti-trump-third-party"
-webUrl: "https://www.usnews.com/news/us/articles/2021-02-10/exclusive-dozens-of-former-republican-officials-in-talks-to-form-anti-trump-third-party"
-ampWebUrl: "https://www.usnews.com/news/us/articles/2021-02-10/exclusive-dozens-of-former-republican-officials-in-talks-to-form-anti-trump-third-party?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2021-02-10/exclusive-dozens-of-former-republican-officials-in-talks-to-form-anti-trump-third-party?context=amp"
+publishedDateTime: 2021-02-11T08:41:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-trump-party-exclusive-idUSKBN2AB07P"
+webUrl: "https://www.reuters.com/article/us-usa-trump-party-exclusive-idUSKBN2AB07P"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AB07P"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AB07P"
 type: article
-quality: 46
+quality: 116
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210211&t=2&i=1551126039&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1A051"
+    width: 813
+    height: 545
+    isCached: true
 
 related:
   - title: "Liz Cheney censured by Wyoming Republican party for voting to impeach Trump"
@@ -122,6 +128,6 @@ related:
         height: 800
         isCached: true
 
-secured: "TU1+6Q3QTdXXhKlVsb63/XADtoqv7hkpbwOM/wMsOMEndawumb+ITYX5mgplXBOk3Aq8RAAaTEbpQWzGVJGoJukL0WHyU1Id4iw5S2p/4pdnQl93OOS4tOexuwx2xHegdzZ5lsWpKefQ/2/88hUiFRW0OFfwMbSwpE9maI9u8LM035rvtIt0FKIhNJ2wufoxANh29JAKBnkwZk4ECmnzmRGnAzXvikpQb5MAmUfr6jcj8usxhxroEUtSjIopmtIcNDPpRA7+/tP7+G1Dz7oDzeokRH1I7a73bK/JGlvs8mib6Fc7b+q48swkZn5uWvA11Qli/x4s+ipS5LuMc0oeNAwRIgt9r1j+KV6ZeX+JcNUKq5p5A/5U+0H071RCexcN6IOkxXsAvpJIgH+kB+0eYJNIu92hBvhZdLqOWUng7HVZDCK4ZGQimyctTBzRL0+43KGAVkFZN0/MM5zu1lP4aLzn/5tO2knyNyHRToTva9tpqaxNJXPk2h8xuOdjk0Mag/JOa3c4ccZrz/sGSXoMRA==;vRLnWxKr8s3qJxU3AmX0Nw=="
+secured: "bEmqxd4U2spldm30BoVMSXOfMCYT0DSieX6m0BhMPBYMPv4ei1lT1b4xTVji7sk6U+scz1J7haSys9Wd9nupjm4kcT6hLvFcVYQ83aqp6rpuCqQmWDIlq+avTW7Lfm8WlxksqDyBk97Ijrglz9Y0UYQaDwsh/uvOW8hUWdriUmzZe5G22iPR8/8FDbPp77x4V0PMo2r6mEKZuXVhbdf3kNB273RYIH+D9LSSPpa86zvYW1HnXDFIH2hDAE6wk5lGxQwfPUkcr8/AtSJS3pEGbuD4xzdVBDd0dU+AhopEOXsmvedGyDkxqE+M4usoX9d38PYM9XEzGadEWZLa6q3nznZ0Pxp3AYdnOaZ0LDz0DDs=;nXJ5Xp7ZmKwVuHZe/5+yhA=="
 ---
 

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "President Joe Biden and Vice President Kamala Harris visit Pentagon"
-excerpt: "President Joe Biden and Vice President Kamala Harris greet Joint Chiefs Chairman Gen. Mark Milley and Secretary of Defense Lloyd Austin at the Pentagon, in Arlington, Virginia, on Wednesday, February 10,"
+excerpt: "President Joe Biden (C) arrives with Vice President Kamala Harris (L) and Secretary of Defense Lloyd Austin to deliver remarks to Department of Defense personnel, at the Pentagon in Arlington, Virginia,"
 publishedDateTime: 2021-02-10T19:40:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/8a3ef096ccfb1db930c7ff81e8a78af2/President-Joe-Biden-and-Vice-President-Kamala-Harris-visit-Pentagon/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/8a3ef096ccfb1db930c7ff81e8a78af2/President-Joe-Biden-and-Vice-President-Kamala-Harris-visit-Pentagon/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/53e5fe89d059e581a1a251c650f7b682/President-Joe-Biden-and-Vice-President-Kamala-Harris-visit-Pentagon/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/53e5fe89d059e581a1a251c650f7b682/President-Joe-Biden-and-Vice-President-Kamala-Harris-visit-Pentagon/"
 type: article
 quality: 70
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/8a3ef096ccfb1db930c7ff81e8a78af2/PENTAGON-BIDEN.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/53e5fe89d059e581a1a251c650f7b682/PENTAGON-BIDEN.jpg"
     width: 650
     height: 433
     isCached: true
@@ -1335,6 +1335,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "as5eZR/H4lFK7DmK0ivaPZHJt5ke/7qo4BSufmNmzAeKyorOSBSqN6MnsC9t52KgfFcLkwCSKuW0zqr3fOLRL+VPOPJaHJTrqZ0Rq3fFMSqFIEtuHHeqf+JdHCGZjhT/wXdr6mt5Sr0Mt5qQTjaEXWmtSi5KuzeJiJofHI4SnzqdjnOje7plQlAbfJLhts19yS7pSTzr9odlqWQWafOJcY76Zx383m4J1FnAMDxeR6FeedDllLU24r+lVzG8eGIeDN+1LKMnwjpv0RRDaclpmmHl2p3lCx7TO1r06G7WsTHC7JkrdYnhIbyzF4nuoyHPAr3fdxWxZ/Ts6jD+SA3ZbtOaownOU70f7UjXSbbd2Y8=;Eq5iacM2o70ut4AJSY/juA=="
+secured: "n1XLeRZYjjvMW5AdLCzwWohvT8wP+5S6zi/FnibUb6uB6tLCeVC3in4/BJ9ro07GPf1sL8Zsuhye6mm32Kladz8kx/ZQeAvJni0B1MJJXzlqarrhiHficVV0wNylpga853zerWNAC/lwoXBBR67AJlXK4Sqa8hJWPiRzJoEpXC10cGC5i6T5Vdi4c8ktS2Ji5a2/7rBihLbaP243y+D2afcAn18fZF+6Q4yE2nwnaQygnIZTzhwfhLzQFw07gAu3eKGTD3nKc7Jyp/xSvHxz2/OUesKnyDyPgMGIRsmFIW4qSZhYDILWIrDZ/brM+j7NThbcQ8HPzKrxhRp0ig2mOQ6Y27elh9/8oWO6ZN+BNus=;cm10f69IW/GAqMez/39NZA=="
 ---
 

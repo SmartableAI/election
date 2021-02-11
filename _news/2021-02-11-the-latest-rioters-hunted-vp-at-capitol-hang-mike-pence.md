@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehour.com/news/amp/The-Latest-Prosecutors-trace-Trump-
 cdnAmpWebUrl: "https://www-thehour-com.cdn.ampproject.org/c/s/www.thehour.com/news/amp/The-Latest-Prosecutors-trace-Trump-s-15939997.php"
 type: article
 quality: 75
-heat: 95
+heat: 75
 published: true
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 375
     height: 210
     isCached: true
-
-related:
-  - title: "Graphic new video shows rioters looking for Pence"
-    excerpt: "Prosecutors in Donald Trump's impeachment trial have unveiled never-before-seen video video showing the mob of rioters breaking into the Capitol and searching menacingly for former Vice President Mike Pence while they chanted,"
-    publishedDateTime: 2021-02-11T02:26:00Z
-    webUrl: "https://www.jsonline.com/videos/news/nation/2021/02/11/graphic-new-video-shows-rioters-looking-pence/6714630002/"
-    type: article
-    provider:
-      name: Milwaukee Journal Sentinel
-      domain: jsonline.com
-    quality: 55
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/9443ab34-1135-4db3-abd3-d8db0c02923b_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "zNkKPDylbHb7I4CjVKWIAa9ek7dr5F07VKnJSShj1xHwqFWYHNoiJi+QSfYbeB1QHCnzH7RKYdzyYW94IXNXBjpIDAUsX4PL6uxWqOph6wXqIVNX2ndCUV0VSkXet3y2bGMBLsGU7TuX1M+Ope/P02Bw2+FLwqb7QHDh0uDo2oBiKju7r1VOCkEoZ6ZfTSsI9rtPzOndiSN9hMBRl8O1a6ucyYnwkTnufQrn/q2oZoPSDh5F22BiKLAHRIb+MJeTo2n0mW7M9hqjeNoV9YjNHO9dR24HeQEianoFFlWGpkHX0jMtu79lqfWPpfWdl7Mjh6eyC1hgXIZlelvJwVSFOEeXNEtW3TGvzcGh1pfYQR0=;jbkzqGPs+/LKsq8BE/hLtQ=="
 ---

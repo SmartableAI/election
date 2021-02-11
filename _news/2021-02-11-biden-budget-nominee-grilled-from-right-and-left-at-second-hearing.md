@@ -2,27 +2,33 @@
 category: news
 title: "Biden budget nominee grilled from right and left at second hearing"
 excerpt: "Neera Tanden, President Joe Biden's nominee to head the U.S. Office of Management and Budget, was skewered from both the right and left at a second confirmation hearing on Wednesday."
-publishedDateTime: 2021-02-11T02:18:00Z
-originalUrl: "https://www.businessinsider.com/biden-budget-nominee-grilled-from-right-and-left-at-second-hearing-2021-2"
-webUrl: "https://www.businessinsider.com/biden-budget-nominee-grilled-from-right-and-left-at-second-hearing-2021-2"
-ampWebUrl: "https://www.businessinsider.com/biden-budget-nominee-grilled-from-right-and-left-at-second-hearing-2021-2?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-budget-nominee-grilled-from-right-and-left-at-second-hearing-2021-2?amp"
+publishedDateTime: 2021-02-10T23:57:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-biden-omb-idUKKBN2AA2JO"
+webUrl: "https://www.reuters.com/article/us-usa-biden-omb-idUKKBN2AA2JO"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2AA2JO"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2AA2JO"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210210&t=2&i=1551081097&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH191RP"
+    width: 817
+    height: 545
+    isCached: true
 
 related:
   - title: "Biden shows flexibility but tells House to ‘go big’ on aid"
@@ -338,6 +344,6 @@ related:
         height: 558
         isCached: true
 
-secured: "MmH8nrR2io/lI9qPsa+rYewtryUEHdvd6zoGW4BDvJUkBd3esjNcZE1oO4wsRNhj2PHIlJEDzJLolonZQlpnBO/Tm1zISq33dckLR1mE77XnKdQu5zxhztKBT01tjWx1+3kM21S0KQ1Cr3YmnpcN5GF5r9w0BmMi9QuqEtwUqkB0LHaAZ4wxa2jJp0kNesyGwQGn+G/pZRMEEmvNmeAtPgxnIH+3xKWKblDyOT+NXWsSLcByFWYTvQKfjRpcWnPmAUNHyJ1vBzwlC6RqTY8AVYwjkYnHYbx1g4y8PrY8qNiLPnWFbU6ssuFQXTOIMsNm1AUSVC4XSilCHTWvOJoJPKEIVAMtzmYDe5D2LB7AsTw=;kPeAYHB2tfVMQVElC9nMGg=="
+secured: "O9JT6betY4NgktwdgDz0rrufeR3nuVyb4qCFw6cGedpZup2IuLW8bSSVwVozlNXYPY8YyXDBtYA+1nIhtM6FbzNGjSQnYPGXgqKcbeaAUOBf929OMmzciPXXnjjpMPs8hYjkC7hqF0E4rho+KrNU9vd6sGNrU/TcPgZ20nthkhao9Yxpsm9EI+dMwSO8aehLBdDjeEKZmLyuM21NFlawztPOJWtOGyd1KizpjzAH99pmLEE3KatbDmEjGWtzC9wW9Ee+LamNO+zI847O78nehlvnpgpCDjmWnMqvNHQ4geI2GnZjlgQ9AtjR0+TT8amEkFXWv/hhrFZ2tFFuw9MYaLQDu1HbWjqRes9ag0JZpig=;IsqnvqHV2mYufDroOHDs6w=="
 ---
 

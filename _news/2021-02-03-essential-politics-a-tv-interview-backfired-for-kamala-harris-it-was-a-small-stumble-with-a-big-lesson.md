@@ -941,16 +941,16 @@ related:
       domain: washingtontimes.com
     quality: 70
   - title: "President Joe Biden and Vice President Kamala Harris visit Pentagon"
-    excerpt: "President Joe Biden and Vice President Kamala Harris greet Joint Chiefs Chairman Gen. Mark Milley and Secretary of Defense Lloyd Austin at the Pentagon, in Arlington, Virginia, on Wednesday, February 10,"
+    excerpt: "President Joe Biden (C) arrives with Vice President Kamala Harris (L) and Secretary of Defense Lloyd Austin to deliver remarks to Department of Defense personnel, at the Pentagon in Arlington, Virginia,"
     publishedDateTime: 2021-02-10T19:40:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/8a3ef096ccfb1db930c7ff81e8a78af2/President-Joe-Biden-and-Vice-President-Kamala-Harris-visit-Pentagon/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/53e5fe89d059e581a1a251c650f7b682/President-Joe-Biden-and-Vice-President-Kamala-Harris-visit-Pentagon/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 70
     images:
-      - url: "https://cdnph.upi.com/pv/upi/8a3ef096ccfb1db930c7ff81e8a78af2/PENTAGON-BIDEN.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/53e5fe89d059e581a1a251c650f7b682/PENTAGON-BIDEN.jpg"
         width: 650
         height: 433
         isCached: true
