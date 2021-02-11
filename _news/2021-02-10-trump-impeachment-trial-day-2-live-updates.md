@@ -414,6 +414,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "The five biggest moments from Wednesday's session of Trump's impeachment trial"
+    excerpt: "House impeachment managers made their case Wednesday for convicting former President Trump Wednesday, bringing up dramatic new security footage to tie Trump’s words to the Jan. 6 Capitol riot and the threat it posed to lawmakers and police. "
+    publishedDateTime: 2021-02-11T01:20:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xZMFqk2nuCY/trump-impeachment-trials-5-most-notable-moments-wednesday-as-prosecution-argued-case"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-trials-5-most-notable-moments-wednesday-as-prosecution-argued-case.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-trials-5-most-notable-moments-wednesday-as-prosecution-argued-case.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e89b35a2-6206-4c42-8a5e-abcd05142976/aea6e48e-edaf-4e9d-a582-2305916ecee6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden 'will not spend too much time' watching impeachment trial but finds Trump behavior 'erratic,' Psaki says"
     excerpt: "White House Press Secretary Jen Psaki said Monday that President Biden “will not spend too much time” watching former President Trump’s Senate impeachment trial."
     publishedDateTime: 2021-02-08T18:31:12Z

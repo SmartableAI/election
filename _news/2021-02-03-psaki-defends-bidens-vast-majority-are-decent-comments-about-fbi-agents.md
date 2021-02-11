@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/psaki-defends-bidens-vast-majority-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-defends-bidens-vast-majority-comments-fbi-agents.amp"
 type: article
 quality: 172
-heat: 292
+heat: 272
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Psaki pressed on Biden admin not deporting illegal immigrants who drive drunk"
-    excerpt: "White House Press Secretary Jen Psaki was asked on Monday about pending guidance that would spare some illegal immigrants convicted of less serious offenses from deportation"
-    publishedDateTime: 2021-02-09T01:01:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uJjpjK8p-kA/psaki-biden-deporting-illegal-immigrants-drive-drunk"
-    ampWebUrl: "https://www.foxnews.com/politics/psaki-biden-deporting-illegal-immigrants-drive-drunk.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-deporting-illegal-immigrants-drive-drunk.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/98c9f18a-40b4-4c42-a1b2-22fe7d7091a6/c2ad6e60-a0b7-4ef0-8983-5fb23af6b0e5/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Biden responds to slain FBI agents by saying 'vast majority' of agents are 'decent, honorable people'"
     excerpt: "President Biden expressed condolences to the families of two FBI agents killed while trying to serve a warrant in connection with a child pornography and violence against children investigation Tuesday, then added that the “vast, vast majority” of U.S. law enforcement officers were “decent, honorable"
     publishedDateTime: 2021-02-02T23:40:28Z

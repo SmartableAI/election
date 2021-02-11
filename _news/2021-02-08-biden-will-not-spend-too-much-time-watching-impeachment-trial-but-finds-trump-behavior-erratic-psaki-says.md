@@ -415,6 +415,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "The five biggest moments from Wednesday's session of Trump's impeachment trial"
+    excerpt: "House impeachment managers made their case Wednesday for convicting former President Trump Wednesday, bringing up dramatic new security footage to tie Trump’s words to the Jan. 6 Capitol riot and the threat it posed to lawmakers and police. "
+    publishedDateTime: 2021-02-11T01:20:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xZMFqk2nuCY/trump-impeachment-trials-5-most-notable-moments-wednesday-as-prosecution-argued-case"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-trials-5-most-notable-moments-wednesday-as-prosecution-argued-case.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-trials-5-most-notable-moments-wednesday-as-prosecution-argued-case.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e89b35a2-6206-4c42-8a5e-abcd05142976/aea6e48e-edaf-4e9d-a582-2305916ecee6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump in a 'great mood' as arguments open in Senate impeachment trial: Jason Miller"
     excerpt: "Former President Donald Trump is \"in a great mood\" as House Democrats present their opening arguments in the Senate impeachment trial, the former president's senior adviser Jason Miller told \"\"America Reports\" Wednesday."
     publishedDateTime: 2021-02-10T21:44:13Z

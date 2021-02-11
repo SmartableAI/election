@@ -48,20 +48,20 @@ related:
         height: 545
         isCached: true
   - title: "Louisiana governor at odds with Biden over oil, gas policy"
-    excerpt: "Louisiana Gov. John Bel Edwards disagrees with President Joe Biden’s actions targeting fossil fuel industries BATON ROUGE, La. -- Gov. John Bel Edwards disagrees with President Joe Biden's targeting of fossil fuel industries and wants the White House to reconsider its decision to pause new oil and gas drilling leases in the Gulf of Mexico,"
-    publishedDateTime: 2021-02-10T21:31:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/louisiana-governor-odds-biden-oil-gas-policy-75810271"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/louisiana-governor-odds-biden-oil-gas-policy-75810271"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/louisiana-governor-odds-biden-oil-gas-policy-75810271"
+    excerpt: "John Bel Edwards disagrees with President Joe Biden’s targeting of fossil fuel industries and wants the White House to reconsider its decision to pause new oil and gas drilling leases in the Gulf of Mexico,"
+    publishedDateTime: 2021-02-11T01:32:00Z
+    webUrl: "https://www.washingtonpost.com/business/louisiana-governor-at-odds-with-biden-over-oil-gas-policy/2021/02/10/19b59aae-6bdf-11eb-a66e-e27046e9e898_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/business/louisiana-governor-at-odds-with-biden-over-oil-gas-policy/2021/02/10/19b59aae-6bdf-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/louisiana-governor-at-odds-with-biden-over-oil-gas-policy/2021/02/10/19b59aae-6bdf-11eb-a66e-e27046e9e898_story.html?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_275075780019404a82f02c503cfea39b_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
 
 secured: "J2syNjxM2GtBVDO6sTNTxdoGB5ZSLC1C6gKCGF0SdDkaCzzaJj/cawhB4EDr4VfUGogBamXibxgqvEdto1O0QDpxBv7nPYn0zZyNu27Kj3NFVhU2FT3cZUwsYoKQnnrO01UM+NygbF+z/hA2Mji0cMc9+GwxBrrr6Io4lfsXwm7b23iipVRDl9/V1uO8vi8Z/bnnaYEWI7bvPFu4AlP3SF9Sl5MkIROedg+2kKRh+9fD3gO072FqUbKqKXzh6su9/g5q3ivif4SR2y779LnVhfgjhSllJKiPoQJFJ4f9e/PoEaWWkLDK6kHnRy7rUpX4+DuT/rPErFrizOeF23L68NTOb55UtWOyHdOdBgZTMRI=;yWKWw1W7eC0W7uLeax0zdA=="

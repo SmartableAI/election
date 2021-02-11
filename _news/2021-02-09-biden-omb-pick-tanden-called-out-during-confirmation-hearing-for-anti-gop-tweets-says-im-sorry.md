@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-omb-pick-tanden-confirmation-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-omb-pick-tanden-confirmation-hearing-apology-anti-gop-tweets.amp"
 type: article
 quality: 161
-heat: 161
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -29,6 +29,24 @@ images:
     width: 640
     height: 320
     isCached: true
+
+related:
+  - title: "Biden dodges question about punishing China over handling of coronavirus pandemic"
+    excerpt: "Fox News reporter Peter Doocy asked Biden whether he had any interest in punishing for failing to disclose critical information related to the pandemic’s severity."
+    publishedDateTime: 2021-02-11T02:03:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rRKjrfUZzlw/biden-sidesteps-question-punishing-china-handling-coronavirus-pandemic"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-sidesteps-question-punishing-china-handling-coronavirus-pandemic.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-sidesteps-question-punishing-china-handling-coronavirus-pandemic.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cfaaa6e4-0f14-44f4-b46a-9fee512596fb/2bafbcb8-cbc3-41a0-ac8a-29d5d0125fad/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "Fv3O8vMlI7nAszjoUoA9j84E1/22eyNyN9sQNY7PmY+w7P6y22GubfSUolvpzjcDN4HRqgBJEhT+iNgFP8gLjP9bXzXibbrFf+POC9DDDHKAqkOW9YHaX18cxQwORsm6KLSU98+9qvv7xELi359NW6RZ2R7v+GhAOJLev+T0Z3Bw8tlelWMoM/2OJNbiQU5VATPcLOFyiLR+dUWQMFnm283CvFAqCpjrLWTPY8llKr4OXKn1TQGLJM1Cm4aJkKY9Qu5zs25zcMF8/OHl0E+m7+LZuXnbf1bSYb7PIHzqSVGJla7K9yCuX0TZ73jYt8rrKIl6H0WT1C7hokGiDKO+1neA5tKERwnvk56zuC9EYio=;s9Av69NGcQmCWBLkZZZ5Yg=="
 ---

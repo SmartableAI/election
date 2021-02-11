@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/08/donald-trump-im
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/08/donald-trump-impeachment-trial-senate-covid-coronavirus-joe-biden-live-updates"
 type: article
 quality: 117
-heat: 177
+heat: 137
 published: true
 
 provider:
@@ -31,38 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump impeachment: Senate to hear prosecution arguments against former president – live"
-    excerpt: "Senate convenes at noon for impeachment managers to lay out argument to convict Donald Trump of ‘incitement of insurrection’"
-    publishedDateTime: 2021-02-10T11:17:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/10/donald-trump-impeachment-senate-trial-live-news-updates"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/10/donald-trump-impeachment-senate-trial-live-news-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/10/donald-trump-impeachment-senate-trial-live-news-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 117
-    images:
-      - url: "https://i.guim.co.uk/img/media/7d3e06af8edce2c72744e22eed1328dd95be3b46/0_0_3500_2334/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7a954cf6bba0111e0635cae7cace422e"
-        width: 600
-        height: 400
-        isCached: true
-  - title: "Majority of Americans say Trump should be convicted, barred from holding federal office in impeachment trial: POLL"
-    excerpt: "In a new ABC News/Ipsos poll, a majority of Americans support the Senate convicting former President Trump in his second impeachment trial, but the partisan gap persists."
-    publishedDateTime: 2021-02-07T14:06:00Z
-    webUrl: "https://abcnews.go.com/Politics/majority-americans-trump-convicted-barred-holding-federal-office/story?id=75729878"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/majority-americans-trump-convicted-barred-holding-federal-office/story?id=75729878"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/majority-americans-trump-convicted-barred-holding-federal-office/story?id=75729878"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 103
-    images:
-      - url: "https://s.abcnews.com/images/Politics/donald-trump-marjorie-taylor-greene-extremism-02-gty-llr-210206_1612646373841_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "House Impeachment Managers: Trump Whipped Mob Into 'Frenzy,' Aimed It At Capitol"
     excerpt: "Ahead of next week's trial, a brief argues the Jan. 6 riot would not have happened without Trump \"creating a powder keg, striking a match, and then seeking personal advantage from the ensuing havoc.\""
     publishedDateTime: 2021-02-02T16:32:00Z

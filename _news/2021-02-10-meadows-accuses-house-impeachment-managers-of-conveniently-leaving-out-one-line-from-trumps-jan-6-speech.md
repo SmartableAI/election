@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/meadows-accuses-house-impeachment-m
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/meadows-accuses-house-impeachment-managers-of-conveniently-leaving-out-one-line-from-trumps-jan-6-speech.amp"
 type: article
 quality: 156
-heat: 176
+heat: 156
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Video of Capitol carnage defines Trump trial but won’t change outcome"
-    excerpt: "The top House impeachment manager had barely uttered a few sentences when, like an anchor tossing to a taped report, he went to the video."
-    publishedDateTime: 2021-02-10T08:24:00Z
-    webUrl: "https://www.foxnews.com/media/video-of-capitol-carnage-defines-trump-trial-but-wont-change-outcome"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 115
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/pezzola-2.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "1L7vtbhiy6V7o28dOpdK9LiMgjmqPBHHqGCNQ5f+g0a1rOrhHvKKSS/rr+X9uBy+sVjeOgBRVwqnl5FMwSiW0s5x8iTZsVjT4w7Hxikw/+D6qFcwowP7x4t84Dfu7ixspUsOrgDyh46YeG3XSra92cP/3UJkAH5CV/V1YobNg8Abb36DkjY1n77QcIeJ3Zc6cATqNb4WqLwC5Al20YvQ3w5dqhlNoHksYfzMZjaO1vHIL5Nn0SxLdWMuRaQUbvcbvrOXtjxsDIt56zbr4KcDEUlwAReYw9xH+O1galnWGhaq/ZwNzi9m8QVatKzcfSnYiV0OWVN1tgU89eh6wnGzTVZ87UkKIIcQuU44KuQ/0g8=;G9j0F44soT4dnOSZKLvHnA=="
 ---

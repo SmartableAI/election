@@ -111,6 +111,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Exclusive: Dozens of Former Republican Officials in Talks to Form Anti-Trump Third Party"
+    excerpt: "Dozens of former Republican officials, who view the party as unwilling to stand up to former President Donald Trump and his attempts to undermine U.S. democracy, are in talks to form a center-right breakaway party,"
+    publishedDateTime: 2021-02-11T02:47:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-02-10/exclusive-dozens-of-former-republican-officials-in-talks-to-form-anti-trump-third-party"
+    ampWebUrl: "https://www.usnews.com/news/us/articles/2021-02-10/exclusive-dozens-of-former-republican-officials-in-talks-to-form-anti-trump-third-party?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2021-02-10/exclusive-dozens-of-former-republican-officials-in-talks-to-form-anti-trump-third-party?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 46
 
 secured: "s7zggSNz9sNGIgSC9cnpqyytd6GdkTvAdbP2c7c9O9NIW9YLruSbZF+sw3AbRiXQcs34Qx1V2pCCm3vTA/d3WR2Dn2sQOk2ftQspe2ckWOzWX8R+SIm1icDVFxjy+2Xy0S984Zn0x4NeO6edSCgsgXGUGJ/a6ANNXsN9L9cbmO7X6kChs2ZKL4jaltvoRVh7jlBlSWYWUuGTuwu7nOb/A+nA6EXci9+pm4qBpczsg17eJaKRXVQgBXcMSQviqagZKc244e2KH0nneO5dwNaIS7aVHxVgkDD5gJ7hXDhO/A8x8r6xjLhMDwOe2a/dSUig/SSc2XblWwgN6VXZPOjBSYB/friqTqNIJoqpwZlg40w=;O9/xvL34aW9IddwCuCR1YA=="
 ---

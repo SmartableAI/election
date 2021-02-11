@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "Parental warnings, harrowing footage: Takeaways from Trump's impeachment trial"
+    excerpt: "The U.S. Senate's impeachment trial gathered steam on Wednesday, with Democratic lawmakers laying out their evidence that former President Donald Trump incited an insurrection by exhorting thousands of supporters to march on the Capitol last month."
+    publishedDateTime: 2021-02-11T02:36:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-takeaways-factb-idUSKBN2AA2LY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AA2LY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AA2LY"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210211&t=2&i=1551118285&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH191SS"
+        width: 968
+        height: 545
+        isCached: true
+  - title: "Trump impeachment: Senate to hear prosecution arguments against former president – live"
+    excerpt: "Senate convenes at noon for impeachment managers to lay out argument to convict Donald Trump of ‘incitement of insurrection’"
+    publishedDateTime: 2021-02-10T11:17:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/10/donald-trump-impeachment-senate-trial-live-news-updates"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/10/donald-trump-impeachment-senate-trial-live-news-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/10/donald-trump-impeachment-senate-trial-live-news-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 117
+    images:
+      - url: "https://i.guim.co.uk/img/media/7d3e06af8edce2c72744e22eed1328dd95be3b46/0_0_3500_2334/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7a954cf6bba0111e0635cae7cace422e"
+        width: 600
+        height: 400
+        isCached: true
   - title: "In self-imposed exile, Trump watches with unhappiness as second impeachment trial unfolds"
     excerpt: "Trump has remained sanguine that an evenly divided Senate will acquit him, while one person described him as “bored out of his mind” in Florida."
     publishedDateTime: 2021-02-10T16:55:00Z
@@ -47,21 +79,21 @@ related:
         width: 1440
         height: 932
         isCached: true
-  - title: "U.S. will not expel unaccompanied migrant children under Trump-era policy now being reviewed"
-    excerpt: "President Biden ordered his administration to review a CDC order that allows U.S. border officials to swiftly expel migrants without a court hearing."
-    publishedDateTime: 2021-02-03T12:19:00Z
-    webUrl: "https://www.cbsnews.com/news/migrant-children-biden-administration-will-not-expel-trump-policy/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/migrant-children-biden-administration-will-not-expel-trump-policy/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/migrant-children-biden-administration-will-not-expel-trump-policy/"
+  - title: "Matt Gaetz Would Resign to Defend Donald Trump in Impeachment Trial—If The Ex-President Asked"
+    excerpt: "\"If the president called me and wanted me to go defend him on the floor of the Senate, that would be the top priority in my life,\" Gaetz told Steve Bannon during a podcast appearance."
+    publishedDateTime: 2021-02-03T18:56:00Z
+    webUrl: "https://www.newsweek.com/matt-gaetz-would-resign-defend-donald-trump-impeachment-trialif-ex-president-asked-1566610"
+    ampWebUrl: "https://www.newsweek.com/matt-gaetz-would-resign-defend-donald-trump-impeachment-trialif-ex-president-asked-1566610?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/matt-gaetz-would-resign-defend-donald-trump-impeachment-trialif-ex-president-asked-1566610?amp=1"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
+      name: Newsweek
+      domain: newsweek.com
     quality: 114
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/03/2dbd5416-7ea2-4822-b01b-fc1c2a06e5eb/thumbnail/1200x630/0fce3e81e3bc33b285288b90be4dd94b/gettyimages-1228909458.jpg"
-        width: 1200
-        height: 630
+      - url: "https://d.newsweek.com/en/full/1724301/matt-gaetz-rally-against-liz-cheney.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Explicit language in footage shown at Trump's impeachment trial forces TV networks to make a 'tough choice'"
     excerpt: "At the start of Donald Trump’s second impeachment trial, TV’s biggest networks aired footage of the US Capitol siege with unusually explicit language."
@@ -79,6 +111,33 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Majority of Americans say Trump should be convicted, barred from holding federal office in impeachment trial: POLL"
+    excerpt: "In a new ABC News/Ipsos poll, a majority of Americans support the Senate convicting former President Trump in his second impeachment trial, but the partisan gap persists."
+    publishedDateTime: 2021-02-07T14:06:00Z
+    webUrl: "https://abcnews.go.com/Politics/majority-americans-trump-convicted-barred-holding-federal-office/story?id=75729878"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/majority-americans-trump-convicted-barred-holding-federal-office/story?id=75729878"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/majority-americans-trump-convicted-barred-holding-federal-office/story?id=75729878"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 103
+    images:
+      - url: "https://s.abcnews.com/images/Politics/donald-trump-marjorie-taylor-greene-extremism-02-gty-llr-210206_1612646373841_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump Accused as 'Inciter in Chief' of Capitol Insurrection"
+    excerpt: "Prosecutors in Donald Trump’s impeachment trial are arguing that he was no “innocent bystander” but the “inciter in chief” of last month's deadly attack at the Capitol."
+    publishedDateTime: 2021-02-10T22:08:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-02-10/senators-to-hear-opening-arguments-as-trump-fumes-over-trial"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-10/senators-to-hear-opening-arguments-as-trump-fumes-over-trial?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-10/senators-to-hear-opening-arguments-as-trump-fumes-over-trial?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "0+SDIRlOx3Pck7P4hvS3JpDsB0KhOqL2wiH4f6UnSP2MoAnKNDoUEVau5hVPaznTHCV/Cb8I3WuvdMiX+scXlUJWLOADrI5xWt8uobB3/XVaL9ONs7FouYKDecQq8TPD0D6zD+mXMVSqBhKu31qM0Cw/RRsZQVbfOFzx+6nr3G2rbPUTSNb6yD5N64kSO0YOBioFJRE1KktaI1HxDWCaOmJ0yKdW+CN5T+sKsxkDc7R8+lhB3oushW0fq6o1q8VQ+gGzVd4PiaIDuvt5w/360HPN3eC/aPkxWvdlr42QOzlIcFn6iFrRxqI9yrYr/GODAuPOHmGPn6BnIrohOXPLWpdfLlJkfsWNMe0AIJTLpyTl0Lxu0zYCeRmd7WhZSdDwkLWBGjoQeLg30Oc3RE0cWtbDMBrOC0HwbF/bC3i8sOCl4Cvd69pikYyf8fVJXFkpOhfTzRVbRrDr4Y4b7HoQSsLN4FNPtiiTJpj95BaUPJ9OktCgy6v0UPcgT02muwcOY3AW9sGvFKXcqSJXFvRwuQ==;yuwJai75vnBldRQVGgdC0A=="
 ---

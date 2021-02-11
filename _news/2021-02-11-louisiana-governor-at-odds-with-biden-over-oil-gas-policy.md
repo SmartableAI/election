@@ -1,22 +1,22 @@
 ---
 category: news
 title: "Louisiana governor at odds with Biden over oil, gas policy"
-excerpt: "Louisiana Gov. John Bel Edwards disagrees with President Joe Biden’s actions targeting fossil fuel industries BATON ROUGE, La. -- Gov. John Bel Edwards disagrees with President Joe Biden's targeting of fossil fuel industries and wants the White House to reconsider its decision to pause new oil and gas drilling leases in the Gulf of Mexico,"
-publishedDateTime: 2021-02-10T21:31:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/louisiana-governor-odds-biden-oil-gas-policy-75810271"
-webUrl: "https://abcnews.go.com/Politics/wireStory/louisiana-governor-odds-biden-oil-gas-policy-75810271"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/louisiana-governor-odds-biden-oil-gas-policy-75810271"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/louisiana-governor-odds-biden-oil-gas-policy-75810271"
+excerpt: "John Bel Edwards disagrees with President Joe Biden’s targeting of fossil fuel industries and wants the White House to reconsider its decision to pause new oil and gas drilling leases in the Gulf of Mexico,"
+publishedDateTime: 2021-02-11T01:32:00Z
+originalUrl: "https://www.washingtonpost.com/business/louisiana-governor-at-odds-with-biden-over-oil-gas-policy/2021/02/10/19b59aae-6bdf-11eb-a66e-e27046e9e898_story.html"
+webUrl: "https://www.washingtonpost.com/business/louisiana-governor-at-odds-with-biden-over-oil-gas-policy/2021/02/10/19b59aae-6bdf-11eb-a66e-e27046e9e898_story.html"
+ampWebUrl: "https://www.washingtonpost.com/business/louisiana-governor-at-odds-with-biden-over-oil-gas-policy/2021/02/10/19b59aae-6bdf-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/louisiana-governor-at-odds-with-biden-over-oil-gas-policy/2021/02/10/19b59aae-6bdf-11eb-a66e-e27046e9e898_story.html?outputType=amp"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_275075780019404a82f02c503cfea39b_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -64,6 +64,6 @@ related:
         height: 2333
         isCached: true
 
-secured: "ob5v+3znlP+OPCdytbStrnRjo8VBiuOzKrOLsqjW7K3vIbsFqw5GY4ldZC+TSmqveWx0u8bSkW2H8yj/japg/PULr/rIFQSI3T1xTEqxUaArO93MMdkXjJKDBWQJjGz32BsoDhhrZrtKIt80uVeFi2deFgucM/NbgQ3CCdBYlA6YiA8GLD/t6zrbLvQCL7tfpag+fEpt73eRw2q9angYqknuZcBlrZo6v0GgbZjlyLf4fFPZqT3NMXlrCMRUI6uG+zpDqJZx/GdTqnCiArgfdX2/6dZUKOREkrhASac2KR8GhbkHcvtSgmBvMSSQTic0FTP3oi1r0pIW7xUKsTQqoWW5OQ9cwQ3enCI7192Q68yDmcsGt7d+71rUffy/Iu9qH+l15JxjrL5AADY+tGHgP8XPMYl500UgUB2xrwAuwn99ZopgOLC2z6ejwbQtFdKVS9lZPXrlDO9/tLIlIC+0gzO40bEh8U55p/qXp2rTj1y7wIvTFGkL4ICnl4L37F8JzIKmF5C/ntgT5cebTjw0NQ==;BDMlA2FD6CkwQKgwlSAfTQ=="
+secured: "+BVad7E2ooyi+7yimhsGjqXLJe20cPE0Z7ZXWTv4PDZzj+fAf0SaJx1AKQyY8EVNn0OL4+9F/V9NzPMDZrhaJhOib++4puvb3tw7nc+8+ZCDgukVwVFvOiODoUR7Mp9Uwl+wWSNgEBEnhnyk6awYzHe/gNFtVnnV/pBBPOj6O6vdiXbqXG9U8BnfCxusF/fA0v3i/XdMaOMiVKCJrscuQlajHToz9nc1o0DWWvbNcYueJPraL9CY/yg5YH/zD/0AABoiBUFLf8WZ/j6ZObMlklspKHQ5iBRD5CB3TkOH4SiZnSt/1S5ClsLaTze7Ss8sQaG8U30l4/QpxBF1QP2Vh6kCjx2riEgAkScEPqp/CVA=;zoFMJO4BWPct9oyCqubePg=="
 ---
 

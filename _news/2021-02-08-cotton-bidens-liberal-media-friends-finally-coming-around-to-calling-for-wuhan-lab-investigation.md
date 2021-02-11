@@ -48,6 +48,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden lays out 'prescription' for U.S.-China relations in first call with Xi Jinping since taking office"
+    excerpt: "President Biden spoke with Chinese President Xi Jinping for the first time Wednesday night since taking office, outlining his administration’s “core concerns” with China’s “practices, aggressive activities and abuses,” signaling a “clear and consistent subscription to American values,” while discussing"
+    publishedDateTime: 2021-02-11T02:18:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BOtbYHy0cQA/biden-in-first-call-with-xi-jinping-outlines-us-china-policy-core-concerns-of-chinas-abuses"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-in-first-call-with-xi-jinping-outlines-us-china-policy-core-concerns-of-chinas-abuses.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-in-first-call-with-xi-jinping-outlines-us-china-policy-core-concerns-of-chinas-abuses.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "+K8j2mkWAz9qpVhb+vfXOTE4R9+LIOUH4gDz+HN91MvRvl4ucomw25f701tFl8ZoZAs/xkcPbvWq/xQYXV/rHX9g3VMOY+nCpQdNvMaC4HK7626Cm0y4Cn4ZFmd8gHLyoSgWfAVKwyrk5yAc6JoAL0RkWbfNTkA2Tz7zjSgkm/B71i2RONR0TOKO7PurbTdmLZ7JuolxdABQeUbuV7G/29gGlpat/FcOuePE/RQEq+DygmA9V0liBQ595gqAG5wx1cOjPCD1L/9iDFu6acbAFqwiCdk+73RFyaHRu55Pj2cx6PxuR51nlxeBej4PeHBmmZTMyYyhQ5fhhVhw9N+bp5tBlBoS04w7d85k6DksUEQCL+ml1SnZaZiCA+qFhv2AZyPuOmn+HHuYfych0RXIk45HQn98PX3fxOHWPm03keiPuaCMYmb50WzA/0Z6Nw8EB0E2UZaNtACWdBs1x17T3JdVwgATyoJIZXQvoAV2OCLWnJgnSZ7DMzOrAX9IpqaravOIDibxka2/d7LnIjVRcA==;SA4gMf38XGTchGYjIFfGpQ=="
 ---

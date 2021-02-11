@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Horrific mob scenes dominate Trump's impeachment trial"
+    excerpt: "Chilling video evidence on the first day of Donald Trump's second impeachment trial, showing his frenzied supporters smashing their way into the US Capitol, revived a national trauma.\n    \n"
+    publishedDateTime: 2021-02-10T11:55:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9dLwUucDhJM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/10/politics/donald-trump-impeachment-trial-congress-lawyers/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/10/politics/donald-trump-impeachment-trial-congress-lawyers/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210209153322-12-impeachment-2021-managers-0209-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump Isn’t the Only One on Trial. The Conservative Media Is, Too."
     excerpt: "The former president’s second impeachment trial begins oral arguments tomorrow. But conservative media organizations face an even more consequential test in the weeks and months ahead."
     publishedDateTime: 2021-02-09T00:39:00Z
@@ -60,6 +76,38 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2021/02/08/us/politics/08onpolitics-pm2/08onpolitics-pm2-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "What to Watch For as Donald J. Trump’s Impeachment Trial Begins"
+    excerpt: "Debate will begin at 1 p.m. on Tuesday. Though the trial is expected to be fast-paced, oral arguments could stretch into next week."
+    publishedDateTime: 2021-02-09T11:42:00Z
+    webUrl: "https://www.nytimes.com/2021/02/09/us/politics/what-time-is-trump-impeachment-trial.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/09/us/politics/what-time-is-trump-impeachment-trial.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/09/us/politics/what-time-is-trump-impeachment-trial.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/08/us/politics/08dc-what-to-watch/08dc-what-to-watch-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "The First Trial Seemed Abstract. This One Is a Visceral Reckoning Over Trump."
+    excerpt: "At issue will be many aspects that defined Donald Trump’s presidency: his relentless assaults on truth, his fomenting of divisions, his shattering of norms and his undermining of an election."
+    publishedDateTime: 2021-02-10T01:26:00Z
+    webUrl: "https://www.nytimes.com/2021/02/09/us/politics/trump-impeachment-trial.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/09/us/politics/trump-impeachment-trial.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/09/us/politics/trump-impeachment-trial.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 132
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/09/us/politics/09dc-assess1/09dc-assess1-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

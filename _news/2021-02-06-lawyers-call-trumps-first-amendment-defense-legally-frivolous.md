@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nytimes.com/2021/02/05/us/trump-defense-first-amendment.
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/05/us/trump-defense-first-amendment.amp.html"
 type: article
 quality: 135
-heat: 135
-published: true
+heat: -1
+published: false
 
 provider:
   name: New York Times
@@ -30,6 +30,104 @@ images:
     width: 1050
     height: 550
     isCached: true
+
+related:
+  - title: "Democrats' impeachment filing: Trump 'threatened the constitutional system'"
+    excerpt: "The House impeachment managers argue former President Donald Trump should be convicted for inciting the insurrection at the Capitol last month and barred from holding future office, charging that his actions \"threatened the constitutional system that protects the fundamental freedoms we cherish.\"\n  "
+    publishedDateTime: 2021-02-02T16:33:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/f2KywfJxkLE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/02/politics/democratic-impeachment-filing/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/02/politics/democratic-impeachment-filing/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125153359-01-raskin-jan-13-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Ukraine impeachment vs. insurrection impeachment: What to know about Trump's two trials"
+    excerpt: "Here's where we are: A president who survived impeachment for trying to stack the deck against his most-feared election opponent is now facing impeachment again for inciting his supporters to attack Capitol Hill to challenge that same opponent's victory.\n    \n"
+    publishedDateTime: 2021-02-09T15:57:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/izbEdxYb6RE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/09/politics/first-trump-impeachment-vs-second/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/09/politics/first-trump-impeachment-vs-second/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200205162637-07-senate-floor-0205-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Democratic House staffers draft letter to senators on impeachment: Convict Trump 'for our sake, and the sake of the country'"
+    excerpt: "A group of Democratic House staffers are drafting what they hope will be a bipartisan message to the Senate about the upcoming impeachment trial, urging senators to take the trauma their aides experienced during the violent insurrection in the Capitol on January 6 seriously, a staffer tells CNN.\n   "
+    publishedDateTime: 2021-01-28T03:44:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tfOV92aR5s8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/27/politics/democratic-house-staffers-letter-to-senators-impeachment/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/27/politics/democratic-house-staffers-letter-to-senators-impeachment/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 148
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210107153716-capitol-riots-cybersecurity-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Impeachment Case Argues Trump Was ‘Singularly Responsible’ for Capitol Riot"
+    excerpt: "The House managers cited the Constitution’s framers in urging that Donald J. Trump be convicted and disqualified from holding office. Mr. Trump’s lawyers said the Senate had no jurisdiction."
+    publishedDateTime: 2021-02-03T01:35:00Z
+    webUrl: "https://www.nytimes.com/2021/02/02/us/politics/impeachment-trump-capitol-riot.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/02/us/politics/impeachment-trump-capitol-riot.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/02/us/politics/impeachment-trump-capitol-riot.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 133
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/02/us/politics/02dc-impeach1/02dc-impeach1-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
+  - title: "Read former President Trump's response to the article of impeachment against him"
+    excerpt: "Lawyers for former President Donald Trump filed a 14-page response to the House's impeachment manager's case on Tuesday, in its first filing ahead of next week's Senate impeachment trial."
+    publishedDateTime: 2021-02-02T17:42:00Z
+    webUrl: "https://www.cnn.com/2021/02/02/politics/trump-response-impeachment-article/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/02/politics/trump-response-impeachment-article/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/02/politics/trump-response-impeachment-article/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 130
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201102113042-101b-donald-trump-serious-centered-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "John Dean on Trump's 2nd impeachment: Nixon's offenses didn't threaten democracy"
+    excerpt: "Anderson Cooper discusses the historic second impeachment trial of Donald Trump with Watergate whistleblower John Dean and how President Trump is likely to be viewed historically."
+    publishedDateTime: 2021-02-09T00:16:00Z
+    webUrl: "https://www.cnn.com/videos/us/2021/02/08/john-dean-trump-second-impeachment-sot-acfc-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/us/2021/02/08/john-dean-trump-second-impeachment-sot-acfc-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/us/2021/02/08/john-dean-trump-second-impeachment-sot-acfc-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 130
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210208164406-desktop-john-dean-acfc-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "KUc7GXpgmeh6cO4nWo1hwcDdqjvkkg+nlRVeTBFpvvOPIR36e/E5HinaRa6eqFAjgIKmWp7hmbaDvW0dDRxLSIfhZkTAUaYeTHScYTqaldnES52sfTMNtxIVYI0M/4iSyskeIiJdICaJNXscMwAqDBOcXXRPVBjn8mQkJlhp4NvGi1v/YMPOlQEHbGdlAFAgBOEQQO/XGYfuVePkjWvjNFfAUvkekusupEkwexK9jc2qEvanvqq1KoJ/F9V6LCacQO4Jlcc/F8g6Ciw77oCMSlJr7kKgCWi5kLWjvCo+TtHFaBOxNoY9JrgSSx1ED5YGky58U73rZN4GhK4IANd/4TJQnoEiG7cgnStblrsaeRwWFs6+Do10VjrA+imN/Gs+LckWGVh3UKpq+DTAH8JvgeAfhQsU54ZZoBuXzdg6eMTbI5jiKafkLufPJil4MiKqvY1C7Fw20O5HxhoubcukoX+wYq25A/Z210IHfPxKueWTOiTtJ9PxYLP4LwzndtXgL2vFqSNRxcsJlV6Qy+7v7A==;zxIPXQ2rHX6dIZpxntma3g=="
 ---

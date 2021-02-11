@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/07/politics/biden-iran-sanctions/ind
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/07/politics/biden-iran-sanctions/index.html"
 type: article
 quality: 168
-heat: 268
+heat: 228
 published: true
 
 provider:
@@ -46,38 +46,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210113014621-lisa-montgomery-death-penalty-activists-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Biden to call for protecting LGBTQ rights globally in memo"
-    excerpt: "It reflects his deep commitment to these issues both here in the United States and everywhere around the world,\" national security adviser Jake Sullivan said."
-    publishedDateTime: 2021-02-05T04:12:00Z
-    webUrl: "https://www.nbcnews.com/feature/nbc-out/biden-call-protecting-lgbtq-rights-globally-memo-n1256792"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1256792"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1256792"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2021_05/3447736/210204-lgbtq-supreme-court-jm-1642_5c78556d3c8be10a4f7294ac3d23f414.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Biden's meeting with CEOs focused on equalizing economic recovery, skills training, wage gap"
-    excerpt: "President Joe Biden met with the heads of some of America's biggest companies on Tuesday as part of his push for a $1.9 trillion economic relief package. The Oval Office meeting included Vice President Kamala Harris and Treasury Secretary Janet Yellen,"
-    publishedDateTime: 2021-02-10T21:14:00Z
-    webUrl: "https://www.nbcnews.com/business/economy/biden-meeting-ceos-focused-equalizing-economic-recovery-skills-training-wage-n1257267"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1257267"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1257267"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 124
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2021_06/3449004/210210-joe-biden-business-leaders-meeting-al-0753_5fb94cd5c954dac4d2ede398a89974b3.jpg"
-        width: 2500
-        height: 1567
         isCached: true
   - title: "Iran's U.N. ambassador says Iran is waiting for President Biden to make the first diplomatic move"
     excerpt: "The Biden administration needs to lift sanctions on Iran and return to the nuclear deal that Trump ditched, the Iranian ambassador to the U.N. says."

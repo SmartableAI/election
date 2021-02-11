@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-11-parental-warnings-harrowing-footage-takeaways-from-trumps-impeachment-trial.md",
+      "title": "Parental warnings, harrowing footage: Takeaways from Trump's impeachment trial",
+      "excerpt": "The U.S. Senate's impeachment trial gathered steam on Wednesday, with Democratic lawmakers laying out their evidence that former President Donald Trump incited an insurrection by exhorting thousands of supporters to march on the Capitol last month.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-trump-impeachment-takeaways-factb-idUSKBN2AA2LY",
+      "originalUrl": "https://www.reuters.com/article/us-usa-trump-impeachment-takeaways-factb-idUSKBN2AA2LY",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 261,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210211&t=2&i=1551118285&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH191SS",
+          "width": 968,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2AA2LY",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AA2LY",
+      "publishedDateTime": "2021-02-10T18:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-11-i-dont-want-to-come-back-as-trump-trial-opens-democrat-recalls-daughters-fear-during-riot.md",
       "title": "'I don't want to come back:' As Trump trial opens, Democrat recalls daughter's fear during riot",
       "excerpt": "U.S. House lead impeachment manager Rep. Jamie Raskin (D-MD) becomes emotional as he discusses his and his family's experiences inside the U.S. Capitol building during the siege on Jan. 6 and his daug",
@@ -111,24 +163,81 @@
       ]
     },
     {
-      "path": "_news/2021-02-11-new-york-assembly-advances-bill-to-rename-donald-j-trump-state-park.md",
-      "title": "New York Assembly advances bill to rename Donald J. Trump State Park",
-      "excerpt": "Democratic legislators have been seeking to rename the park, located about eight miles east of Peekskill, since 2015.",
+      "path": "_news/2021-02-11-georgia-prosecutors-launch-criminal-probe-into-trumps-efforts-to-overturn-election-results.md",
+      "title": "Georgia prosecutors launch criminal probe into Trump's efforts to overturn election results",
+      "excerpt": "The investigation will look into the phone call Trump made to Georgia Secretary of State Brad Raffensperger in which Trump begged him to reverse Joe Biden's victory.",
       "sourceUrl": null,
-      "webUrl": "https://www.politico.com/states/new-york/albany/story/2021/02/10/new-york-assembly-advances-bill-to-rename-donald-j-trump-state-park-1362627",
-      "originalUrl": "https://www.politico.com/states/new-york/albany/story/2021/02/10/new-york-assembly-advances-bill-to-rename-donald-j-trump-state-park-1362627",
+      "webUrl": "https://www.nbcnews.com/politics/donald-trump/georgia-prosecutors-launch-criminal-probe-trump-s-efforts-overturn-biden-n1257272",
+      "originalUrl": "https://www.nbcnews.com/politics/donald-trump/georgia-prosecutors-launch-criminal-probe-trump-s-efforts-overturn-biden-n1257272",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 115,
+      "heat": 140,
       "tags": null,
       "images": [
         {
-          "url": "https://static.politico.com/4d/b5/fd0100994ff7843b0989949e7679/ap21029066846233.png",
-          "width": 1161,
+          "url": "https://media3.s-nbcnews.com/i/newscms/2020_43/3419416/201012-georgia-early-voting-se-1232p_79c46a105227f1219a0bbeb22bc74a49.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1257272",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1257272",
+      "publishedDateTime": "2021-02-10T12:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-impeachment-managers-directly-blame-inciter-in-chief-trump-for-capitol-attack.md",
+      "title": "Impeachment managers directly blame ‘inciter-in-chief' Trump for Capitol attack",
+      "excerpt": "Prosecutors also will show never-before-seen footage of the chaos during the first day of formal arguments in Trump's second trial.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2021/02/10/trump-impeachment-trial-day-2-468291",
+      "originalUrl": "https://www.politico.com/news/2021/02/10/trump-impeachment-trial-day-2-468291",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/c7/25/c3962b394f1d93105eef2bd2747d/raskin-773-ap.jpg",
+          "width": 1160,
           "height": 773,
           "title": null,
           "attribution": null,
@@ -139,7 +248,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-10T09:00:00-08:00",
+      "publishedDateTime": "2021-02-10T10:13:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Politico",
@@ -165,58 +274,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-in-self-imposed-exile-trump-watches-with-unhappiness-as-second-impeachment-trial-unfolds.md",
-      "title": "In self-imposed exile, Trump watches with unhappiness as second impeachment trial unfolds",
-      "excerpt": "Trump has remained sanguine that an evenly divided Senate will acquit him, while one person described him as “bored out of his mind” in Florida.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/trump-impeachment-trial-florida/2021/02/09/03ccaa72-6a61-11eb-9f80-3d7646ce1bc0_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/trump-impeachment-trial-florida/2021/02/09/03ccaa72-6a61-11eb-9f80-3d7646ce1bc0_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 176,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PH42VQDLAUI6XJTO4JYEN2PITA.jpg&w=1440",
-          "width": 1440,
-          "height": 932,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/trump-impeachment-trial-florida/2021/02/09/03ccaa72-6a61-11eb-9f80-3d7646ce1bc0_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-impeachment-trial-florida/2021/02/09/03ccaa72-6a61-11eb-9f80-3d7646ce1bc0_story.html?outputType=amp",
-      "publishedDateTime": "2021-02-10T08:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -332,7 +389,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/trial-highlights-history-lessons-trump-tweets-75789773",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -597,7 +654,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/live/2021/feb/08/donald-trump-impeachment-trial-senate-covid-coronavirus-joe-biden-live-updates?page=with:block-602169868f080f5eb75b712c",
       "featuredContent": null,
       "highlight": null,
-      "heat": 177,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -807,6 +864,63 @@
       ]
     },
     {
+      "path": "_news/2021-02-07-if-this-happened-in-the-soviet-union-you-would-call-it-a-show-trial-cassidy-of-trump-impeachment-trial.md",
+      "title": "‘If this happened in the Soviet Union, you would call it a show trial,’ Cassidy of Trump impeachment trial",
+      "excerpt": "Sen. Bill Cassidy (R-La.) tells Chuck Todd that the House did an incredibly 'poor job' in building a case against President Trump during his second impeachment trial, during an exclusive interview with Meet the Press.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/meet-the-press/video/-if-this-happened-in-the-soviet-union-you-would-call-it-a-show-trial-cassidy-of-trump-impeachment-trial-100655685848",
+      "originalUrl": "https://www.nbcnews.com/meet-the-press/video/-if-this-happened-in-the-soviet-union-you-would-call-it-a-show-trial-cassidy-of-trump-impeachment-trial-100655685848",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202102/1612709590167_mtp_clip_cassidyshowtrial_210207_1920x1080.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo100655685848",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo100655685848",
+      "publishedDateTime": "2021-02-07T06:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-07-how-donald-trumps-hand-holding-led-to-panicky-call-home-by-theresa-may.md",
       "title": "How Donald Trump's hand-holding led to panicky call home by Theresa May",
       "excerpt": "A remarkable BBC documentary reveals the startling reality of meeting the president",
@@ -867,7 +981,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/feb/06/liz-cheney-censured-by-wyoming-republican-party-for-voting-to-impeach-trump",
       "featuredContent": null,
       "highlight": null,
-      "heat": 223,
+      "heat": 243,
       "tags": null,
       "images": [
         {
@@ -971,7 +1085,7 @@
       "originalUrl": "https://www.cbsnews.com/news/pences-post-trump-administration-plans-take-shape/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 3590,
+      "heat": 3630,
       "tags": null,
       "images": [
         {
@@ -1169,63 +1283,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-06-lawyers-call-trumps-first-amendment-defense-legally-frivolous.md",
-      "title": "Lawyers Call Trump's First Amendment Defense 'Legally Frivolous'",
-      "excerpt": "Taking aim at a key plank of the former president’s impeachment defense, the lawyers argue that the constitutional protections do not apply to an impeachment proceeding.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/02/05/us/trump-defense-first-amendment.html",
-      "originalUrl": "https://www.nytimes.com/2021/02/05/us/trump-defense-first-amendment.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/02/05/world/05new-washington-briefing-impeach-1stamendment-1/05new-washington-briefing-impeach-1stamendment-1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/02/05/us/trump-defense-first-amendment.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/05/us/trump-defense-first-amendment.amp.html",
-      "publishedDateTime": "2021-02-05T09:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     },
     {
@@ -1543,58 +1600,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-scottish-parliament-hears-pathetic-call-for-trump-wealth-order.md",
-      "title": "Scottish parliament hears 'pathetic' call for Trump wealth order",
-      "excerpt": "The Scottish government should hold an investigation into how Donald Trump funded his purchase of two golf courses in Scotland, the country's parliament was told on Wednesday, a call one of the former U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/uk-scotland-usa-trump-idUSKBN2A32UD",
-      "originalUrl": "https://www.reuters.com/article/uk-scotland-usa-trump-idUSKBN2A32UD",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210203&t=2&i=1550209870&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH121Q4",
-          "width": 908,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2A32UD",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A32UD",
-      "publishedDateTime": "2021-02-03T15:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

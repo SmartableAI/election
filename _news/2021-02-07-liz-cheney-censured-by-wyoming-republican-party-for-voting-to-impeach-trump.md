@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/06/liz-cheney-censured-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/06/liz-cheney-censured-by-wyoming-republican-party-for-voting-to-impeach-trump"
 type: article
 quality: 123
-heat: 223
+heat: 243
 published: true
 
 provider:
@@ -111,6 +111,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Exclusive: Dozens of Former Republican Officials in Talks to Form Anti-Trump Third Party"
+    excerpt: "Dozens of former Republican officials, who view the party as unwilling to stand up to former President Donald Trump and his attempts to undermine U.S. democracy, are in talks to form a center-right breakaway party,"
+    publishedDateTime: 2021-02-11T02:47:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-02-10/exclusive-dozens-of-former-republican-officials-in-talks-to-form-anti-trump-third-party"
+    ampWebUrl: "https://www.usnews.com/news/us/articles/2021-02-10/exclusive-dozens-of-former-republican-officials-in-talks-to-form-anti-trump-third-party?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2021-02-10/exclusive-dozens-of-former-republican-officials-in-talks-to-form-anti-trump-third-party?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 46
 
 secured: "Hzi+c1uM5KOaXOm6dPHXuey4aiVxI727rt2DIVY9HjGfbiY2Ztz58ICOjwA7xCTo3EQyShZIv2+ymC4Zt8JsZoTq3OMpjluVeSKKSJrorNUWDMPA+kLc5JR91EBpRNEIMVOk0B/SbIPw8rlwE3Y4u8q5G/qgyYC+mGn5LsHlSxFSUF9l1JmjvGMZ5l/AAGMZ4mENeGDtcx44rc4QecjGN4uPKZ9Omicx5rZSvpQe5oQhQKFAPPbp0SX0hZ1g7cz7Qqrfr102g3LzZ/KL3ftjlh/VrXF1OQa8D9lo27qPaBKqvXaa6ZkBCnx+3D91I+MlQVkrUVVvIc8LMjBbhI0nAjtvti05FiO9HKryvRvu6tPAsa44BD3vouMQrorcjNq4H6QCB8Sg3bM8gOGdZa1/i+ec4LEfK9wv3LADupXQBfOvxkVMhmIfCI/v5tQnddJezNloBF2Z1iLFHpH0jugaigUpVoDCzW3GNYZoLoXUCTWEtT2okx6bL3dVpwL+wI4Gp+a90owQ4TLX2cJYBAkDMQ==;xQhqL+jSzjOiMNSoPbQOwQ=="
 ---

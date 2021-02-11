@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo100655685848"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo100655685848"
 type: article
 quality: 117
-heat: -1
-published: false
+heat: 137
+published: true
 
 provider:
   name: NBC News
@@ -32,83 +32,17 @@ images:
     isCached: true
 
 related:
-  - title: "Trump's trial set to rock Washington and echo through the ages"
-    excerpt: "The simple question posed by Donald Trump's second impeachment trial that begins Tuesday is whether a president who loses reelection can get away with a violent coup attempt in a desperate bid to stay in power.\n    \n"
-    publishedDateTime: 2021-02-09T12:09:36Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/n2JQyYKfR10/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/09/politics/donald-trump-impeachment-trial/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/09/politics/donald-trump-impeachment-trial/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125192318-donald-trump-september-2020-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Georgia secretary of state's office launches investigation into Trump's phone call "
-    excerpt: "The office of Georgia Secretary of State Brad Raffensperger confirmed to CNN on Monday that it has started an investigation into former President Donald Trump's attempts to overturn the state's election results, including a phone call the former President made to Raffensperger.\n    \n"
-    publishedDateTime: 2021-02-08T23:57:30Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-GS_Gn3iKsk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/08/politics/georgia-secretary-of-state-trump-investigation/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/08/politics/georgia-secretary-of-state-trump-investigation/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 169
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210108062936-brad-raffensperger-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Washington Post: Manhattan DA considering prosecuting Steve Bannon after Trump pardon"
-    excerpt: "The Manhattan District Attorney's Office is considering bringing state charges against Steve Bannon related to the same border wall fundraising campaign fraud scheme for which he was federally charged and then granted a presidential pardon, according to The Washington Post.\n    \n"
-    publishedDateTime: 2021-02-03T14:15:26Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4v9ZYdWYC3s/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/03/politics/steve-bannon-manhattan-da-prosecution/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/03/politics/steve-bannon-manhattan-da-prosecution/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 168
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210203063618-file-steve-bannon-2020-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "After Presidency, Trump Hotel in Washington Is a Limited Draw"
-    excerpt: "Traffic on two recent evenings at the hotel was exceedingly slow, even after the city lifted a ban on indoor dining."
-    publishedDateTime: 2021-01-28T21:15:00Z
-    webUrl: "https://www.nytimes.com/2021/01/28/us/politics/trump-hotel-washington.html"
-    ampWebUrl: "https://www.nytimes.com/2021/01/28/us/politics/trump-hotel-washington.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/28/us/politics/trump-hotel-washington.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/01/27/us/politics/27dc-trumphotel2/27dc-trumphotel2-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Trump is on trial for inciting an insurrection. What about the 12 people who spoke before him?"
-    excerpt: "Rioters heard from others besides Trump on Jan. 6. As the former president confronts a Senate impeachment trial, 12 other notable “Stop the Steal” speakers have faced few, if any, consequences."
-    publishedDateTime: 2021-02-10T09:36:00Z
-    webUrl: "https://www.politico.com/news/2021/02/10/trump-impeachement-stop-the-steal-speakers-467554"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/02/10/trump-impeachement-stop-the-steal-speakers-467554"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/02/10/trump-impeachement-stop-the-steal-speakers-467554"
+  - title: "Greene admits 9/11 ‘happened,’ Dems seek Trump under oath"
+    excerpt: "JAMIE RASKIN (D-Md.), the lead House impeachment manager, sent a letter to former President DONALD TRUMP “requesting that he provide testimony under oath, either before or during the Senate impeachment trial,"
+    publishedDateTime: 2021-02-04T18:23:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook-pm/2021/02/04/greene-admits-9-11-happened-dems-seek-trump-under-oath-491640"
     type: article
     provider:
       name: Politico
       domain: politico.com
-    quality: 123
+    quality: 115
     images:
-      - url: "https://static.politico.com/a7/9e/b036fb6249838d085557fe14aa4e/2100106-rally-trump-gty-773.jpg"
+      - url: "https://static.politico.com/b0/2f/26b3ac3a4fda823db3ce22fa28ce/210204-greene-ap-773.jpg"
         width: 1160
         height: 773
         isCached: true

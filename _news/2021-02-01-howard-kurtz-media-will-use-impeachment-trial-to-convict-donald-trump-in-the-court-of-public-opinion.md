@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Eric Swalwell, Dem congressman linked to Chinese spy, makes impeachment case against Trump at Senate trial"
+    excerpt: "Rep. Eric Swalwell’s job as a House impeachment manager is to convince at least two-thirds of the Senate to convict former President Trump of inciting an insurrection, but a number of leading Republicans remain unconvinced that he belongs on the House Intelligence and Homeland Security committees."
+    publishedDateTime: 2021-02-11T01:11:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Jh-3_QcXHOY/eric-swalwell-chinese-spy-impeachment-case-trump-senate-trial"
+    ampWebUrl: "https://www.foxnews.com/politics/eric-swalwell-chinese-spy-impeachment-case-trump-senate-trial.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/eric-swalwell-chinese-spy-impeachment-case-trump-senate-trial.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21041820921336.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "P8jfm6cNIbwkvFPof1U7IAC9djoPIK0BEotEqSvBAmrjo0UdFxqA+w4uFGjlI2v6H1sH2bflUosQYwv5UYU+UXHM/ffcavhl4LYxmv5ARn0Ogy6QOlrTmwS4ATMSahbaoTEFLRhAEm8ojoINgMyGCze0AEdiAtliGcFV0FZOZfBpk0ykIIIjigIWY8j+NbMaVXd1TP636dIAbLzsmcOpRJGcvbYXvfE9pc2lFT40CXH+J2hre4EdWLpX4ekGcjXOM3br2py9QOPwV9X82Gr8xX11/jmrmuebpj/KBpMTU7KwMdH5JJ2WATqXuSrUx7wWmiEoarBiQzWJ61Zp0eGiytm18oWBPB7DDSCsegWeZNQ=;fAxyX2iacgTOJ0BHqG9FLg=="
 ---

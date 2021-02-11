@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-china-task-force-pentagon-str
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-china-task-force-pentagon-strong-path-forward-beijing.amp"
 type: article
 quality: 167
-heat: 187
+heat: 207
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden lays out 'prescription' for U.S.-China relations in first call with Xi Jinping since taking office"
+    excerpt: "President Biden spoke with Chinese President Xi Jinping for the first time Wednesday night since taking office, outlining his administration’s “core concerns” with China’s “practices, aggressive activities and abuses,” signaling a “clear and consistent subscription to American values,” while discussing"
+    publishedDateTime: 2021-02-11T02:18:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BOtbYHy0cQA/biden-in-first-call-with-xi-jinping-outlines-us-china-policy-core-concerns-of-chinas-abuses"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-in-first-call-with-xi-jinping-outlines-us-china-policy-core-concerns-of-chinas-abuses.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-in-first-call-with-xi-jinping-outlines-us-china-policy-core-concerns-of-chinas-abuses.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Cotton: Biden's liberal media 'friends' finally coming around to calling for Wuhan lab investigation"
     excerpt: "Ark., said Monday that he was \"glad to see Joe Biden singing a different tune\" in regards to the US' foreign policy stance on China, but criticized the President for not outlining what the specifics of his strategy might be."
     publishedDateTime: 2021-02-08T14:59:00Z
@@ -48,6 +64,6 @@ related:
         height: 720
         isCached: true
 
-secured: "++p2Za4zUmChCLetqzRfkd7qYg/BgKd8L8mDTm71BmH0KJtJU5w9KAMs0KWyPMxhAcStDOH2gldjuRX4uKiGjqKWqt5Thy7Fz6XF0ditR9EQJfq0cU/794U63UHQuljBVr20H1+bzo0H4uts1CTXTeUxdgw90rlz5c05D7okLXK7HVgLOgEHlu4So7xknr49XsPI9PdivhndV8PPd+4ZC8SqLd/8IlXV22akyx6G4hVmJmxBC4s7Lq4KOlnpzWv1wjQumUqAcWu8NbFI9Syk45csSAlsfO/T5gxB9VoCs/2J8O/MynaQoqEGJ1ceVR4rFV4AlWAP5j6v8U32s5QedI4L2ZeWjBdEWEU4LXIDxnA=;9RshffIpDO88T82pNGesZg=="
+secured: "6FErdtk3gIb0xS/MM8X2ZF0I6GhcoWZDu0hMS1NiGqGYSSiPIryBxpW1ZIrzO4aMMmawfj9YU7zDIp6X5Rr5rDFZ0Hswoknn9pNA+W/CqQZI92DFiHda4eSEtuvlenTjXpl3vAiUApB+Rh/Lq0Lx+sA+hTGNxdzzxSE1mUdLNiQdoqB0P+MAf3StOHDDeDq+s9bvuPeFOsuFGlSa7gm8KTt4Ip3rTP+ViwlCwgqpCxVjDYnY+TuRkT/R20zG1q9DeKJW2R0RT/Dpp6Gzr/5DpLDOWrYIIghNSawHbVdyGfGFVyEQ00MKtH9Y7IiRqEiaNTI4PpJb33Gs/4+ZByxVSaPyJjoIdHAmLgWzt3oA7Bk=;ve1cJPT/rQRHynKs16DLBA=="
 ---
 

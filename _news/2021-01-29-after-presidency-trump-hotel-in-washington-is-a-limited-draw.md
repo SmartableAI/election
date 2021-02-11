@@ -32,85 +32,37 @@ images:
     isCached: true
 
 related:
-  - title: "Trump's trial set to rock Washington and echo through the ages"
-    excerpt: "The simple question posed by Donald Trump's second impeachment trial that begins Tuesday is whether a president who loses reelection can get away with a violent coup attempt in a desperate bid to stay in power.\n    \n"
-    publishedDateTime: 2021-02-09T12:09:36Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/n2JQyYKfR10/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/09/politics/donald-trump-impeachment-trial/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/09/politics/donald-trump-impeachment-trial/index.html"
+  - title: "White House to leave any intelligence requests from Trump to intel community"
+    excerpt: "The Biden White House says the intelligence community will review any incoming requests for intelligence briefings from former President Donald Trump, as has been customary for former presidents, though he has not yet made any.\n    \n"
+    publishedDateTime: 2021-02-04T15:57:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/k_k1ryMqCMM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/04/politics/intelligence-briefings-joe-biden-donald-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/04/politics/intelligence-briefings-joe-biden-donald-trump/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 172
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125192318-donald-trump-september-2020-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200409020412-biden-trump-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Georgia secretary of state's office launches investigation into Trump's phone call "
-    excerpt: "The office of Georgia Secretary of State Brad Raffensperger confirmed to CNN on Monday that it has started an investigation into former President Donald Trump's attempts to overturn the state's election results, including a phone call the former President made to Raffensperger.\n    \n"
-    publishedDateTime: 2021-02-08T23:57:30Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-GS_Gn3iKsk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/08/politics/georgia-secretary-of-state-trump-investigation/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/08/politics/georgia-secretary-of-state-trump-investigation/index.html"
+  - title: "Trump's impeachment lawyers have a history of being involved in controversial legal matters"
+    excerpt: "The new lawyers who signed on to lead former President Donald Trump's impeachment defense team bring a curious history of experience with them as they prepare to defend the former President in his second Senate trial.\n    \n"
+    publishedDateTime: 2021-02-02T19:43:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-EwiEAfhlUs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/02/politics/david-schoen-bruce-castor-trump-impeachment-lawyers/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/02/politics/david-schoen-bruce-castor-trump-impeachment-lawyers/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 169
+    quality: 165
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210108062936-brad-raffensperger-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210201170254-david-schoen-bruce-castor-split-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Washington Post: Manhattan DA considering prosecuting Steve Bannon after Trump pardon"
-    excerpt: "The Manhattan District Attorney's Office is considering bringing state charges against Steve Bannon related to the same border wall fundraising campaign fraud scheme for which he was federally charged and then granted a presidential pardon, according to The Washington Post.\n    \n"
-    publishedDateTime: 2021-02-03T14:15:26Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4v9ZYdWYC3s/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/03/politics/steve-bannon-manhattan-da-prosecution/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/03/politics/steve-bannon-manhattan-da-prosecution/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 168
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210203063618-file-steve-bannon-2020-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump is on trial for inciting an insurrection. What about the 12 people who spoke before him?"
-    excerpt: "Rioters heard from others besides Trump on Jan. 6. As the former president confronts a Senate impeachment trial, 12 other notable “Stop the Steal” speakers have faced few, if any, consequences."
-    publishedDateTime: 2021-02-10T09:36:00Z
-    webUrl: "https://www.politico.com/news/2021/02/10/trump-impeachement-stop-the-steal-speakers-467554"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/02/10/trump-impeachement-stop-the-steal-speakers-467554"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/02/10/trump-impeachement-stop-the-steal-speakers-467554"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 123
-    images:
-      - url: "https://static.politico.com/a7/9e/b036fb6249838d085557fe14aa4e/2100106-rally-trump-gty-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "‘If this happened in the Soviet Union, you would call it a show trial,’ Cassidy of Trump impeachment trial"
-    excerpt: "Sen. Bill Cassidy (R-La.) tells Chuck Todd that the House did an incredibly 'poor job' in building a case against President Trump during his second impeachment trial, during an exclusive interview with Meet the Press."
-    publishedDateTime: 2021-02-07T14:57:00Z
-    webUrl: "https://www.nbcnews.com/meet-the-press/video/-if-this-happened-in-the-soviet-union-you-would-call-it-a-show-trial-cassidy-of-trump-impeachment-trial-100655685848"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo100655685848"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo100655685848"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 117
-    images:
-      - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202102/1612709590167_mtp_clip_cassidyshowtrial_210207_1920x1080.jpg"
-        width: 1920
-        height: 1080
         isCached: true
 
 secured: "symcArPDXDQEQMz4U3Bs1hR7t9dAKZde4gyQ1NZ+QX6LUzRZnuM7ebE0fpNeDTU7FA09qcEa7W3/FXLjMPVctCy94OgJWa+NKmdlOfiE9IUDSj9rHuZxZoMMfmy+EoRdQmMfrRpzqkrr9TOdbfxpTSISSbC/mwZH/kNgbnmCj1J15IPdlj8xN1WSSv4P9Fnqc3vuzBVg5i+GCbTHNxC6u1oa45cWJ7YyLEAh/LZON3kyS5GAYMeoyyOfpC4dSfID/Skt4Zl30iswtcVWrFK+Js39G04akaXQWZh9pqJhtF4ekWZ2Yxcf3qW+LId2K7npdaxgAEXhSwc7cRgM4U+tCLFtQV9wpLQLj0OGkTap07Q=;rD2MhSPqJ4r2fh7w+W/8xA=="

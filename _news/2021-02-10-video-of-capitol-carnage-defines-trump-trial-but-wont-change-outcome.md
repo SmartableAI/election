@@ -30,19 +30,19 @@ images:
     isCached: true
 
 related:
-  - title: "Meadows accuses House impeachment managers of 'conveniently leaving out' one line from Trump's Jan. 6 speech"
-    excerpt: "President Trump’s former chief of staff Mark Meadows accused House impeachment managers of “conveniently” leaving out a line from Trump’s pre-Capitol riot speech, where he told supporters to “peacefully and patriotically” make their voices heard. "
-    publishedDateTime: 2021-02-10T20:30:55Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yS_vxeeeQq0/meadows-accuses-house-impeachment-managers-of-conveniently-leaving-out-one-line-from-trumps-jan-6-speech"
-    ampWebUrl: "https://www.foxnews.com/politics/meadows-accuses-house-impeachment-managers-of-conveniently-leaving-out-one-line-from-trumps-jan-6-speech.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/meadows-accuses-house-impeachment-managers-of-conveniently-leaving-out-one-line-from-trumps-jan-6-speech.amp"
+  - title: "Capitol rioter's attorney says client was misled by Trump, acted out of 'delusional belief'"
+    excerpt: "A Capitol rioter was acting out of the \"delusional belief\" that he was helping his country after being misled by former President Trump, the rioter's attorney argued in a motion filed Wednesday."
+    publishedDateTime: 2021-02-11T01:53:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0qD891AaSMI/pezzola-delusional-trump-misled-capitol-rioter"
+    ampWebUrl: "https://www.foxnews.com/politics/pezzola-delusional-trump-misled-capitol-rioter.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pezzola-delusional-trump-misled-capitol-rioter.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 156
+    quality: 165
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/61a66219-cef7-41be-bf5a-2420fbb38051/157f42b9-2028-471b-81e5-255abc31ee16/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4e468e48-daf4-48c9-b172-5e8ae98b3f4a/e9d7c456-73c0-43ba-9de5-5359a023293c/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/07/politics/what-matters-january-7/i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/what-matters-january-7/index.html"
 type: article
 quality: 175
-heat: 1075
+heat: 1055
 published: true
 
 provider:
@@ -204,22 +204,6 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210118164424-trump-af1-0112-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump's impeachment defense takes shape"
-    excerpt: "Lawyers for former President Donald Trump filed a 14-page brief Tuesday that previews two main arguments we can expect to hear when the Senate impeachment trial kicks off next week:\n    \n"
-    publishedDateTime: 2021-02-03T13:47:39Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EqImWNyTRyE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/03/politics/what-matters-february-2/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/03/politics/what-matters-february-2/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210202104727-01-trump-file-2020-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -2182,6 +2182,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Impeachment managers lay out case against Trump using unseen footage, audio"
+    excerpt: "House impeachment managers on Feb. 10 made the case that former president Donald Trump spent months laying the groundwork for January’s riot at the Capitol."
+    publishedDateTime: 2021-02-11T02:08:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/impeachment-managers-lay-out-case-against-trump-using-unseen-footage-audio/2021/02/10/aa459b60-3c7e-4f38-9e75-0dd00673991d_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 103
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/02-11-2021/t_9656781b431a4953977d8a9085fbb79e_name_b19da8e8_6c02_11eb_a66e_e27046e9e898.jpg&w=1080"
+        width: 1080
+        height: 608
+        isCached: true
   - title: "Stimulus package and Trump impeachment divide lawmakers ahead of Senate trial"
     excerpt: "On Feb. 7, lawmakers and members of President Biden's Cabinet prepared for a week packed with the start of a second impeachment trial for former president Donald Trump and negotiations over coronavirus relief funds."
     publishedDateTime: 2021-02-07T23:36:00Z
@@ -2227,6 +2241,20 @@ related:
       - url: "https://i.insider.com/600ff19567a6bc0019d9af6e?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "It's the second day of Donald Trump's second impeachment trial — Here's what happened"
+    excerpt: "It's the second day in Donald Trump's second impeachment trial. Democratic impeachment mangers made opening arguments in their case against former president Trump."
+    publishedDateTime: 2021-02-11T00:07:00Z
+    webUrl: "https://www.cnbc.com/video/2021/02/10/its-the-second-day-of-donald-trumps-second-impeachment-trial-heres-what-happened.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 98
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106838829-GettyImages-1231081890-jpg?v=1612994043"
+        width: 2400
+        height: 1498
         isCached: true
   - title: "Trump White House donated 8,700 ventilators to other nations. Officials now don’t know where many of them are, watchdog finds."
     excerpt: "The GAO was unable to identify how the Trump White House made its decisions on ventilator allocations. Sri Lanka had just three new coronavirus cases per day when it received 200 ventilators. Bangladesh,"

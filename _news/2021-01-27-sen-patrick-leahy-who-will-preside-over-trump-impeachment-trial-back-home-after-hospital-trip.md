@@ -62,22 +62,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Democratic House staffers draft letter to senators on impeachment: Convict Trump 'for our sake, and the sake of the country'"
-    excerpt: "A group of Democratic House staffers are drafting what they hope will be a bipartisan message to the Senate about the upcoming impeachment trial, urging senators to take the trauma their aides experienced during the violent insurrection in the Capitol on January 6 seriously, a staffer tells CNN.\n   "
-    publishedDateTime: 2021-01-28T03:44:13Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tfOV92aR5s8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/27/politics/democratic-house-staffers-letter-to-senators-impeachment/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/27/politics/democratic-house-staffers-letter-to-senators-impeachment/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 148
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210107153716-capitol-riots-cybersecurity-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
 
 secured: "u/+vJaS71RELyT72HyCFNduralKsqp8TKJNAd/PwQL5CSK2OstY2V9lCqDUCqEb9xdhsjCxE2QS/SAxsS9L3a3Len4zhNbuAYtKIdQ73K6a+pvMIAMdxUZLT5KC3QZpuOXStSiuDAaOM9CwJfxuESex9tBAXI3x3sT+QzJz2e8lkWyp2w2iEYbuAQAicZjtWwGfpX8VYeCT7LDHsOYglsIsyv5Vji355gnqmoy6KEVM/I3LMBDF+cOS9JR5x3p+8J3L/rP9kU+6rDuKoGbtDxEcOyR3LmpeNe84OmF/VBPwkK6KFDBm/Z0dGt30k7CAUANPrL0sdjNRNYH4O6BMfiTm7x+k7DXX/1BPphrLsPd0=;LMCzI3dj70It8/cYIrBlDw=="
 ---

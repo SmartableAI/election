@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trial-highlights-histo
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trial-highlights-history-lessons-trump-tweets-75789773"
 type: article
 quality: 125
-heat: 225
+heat: 265
 published: true
 
 provider:
@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "Trump impeachment trial live updates: Managers show new security footage of riot"
+    excerpt: "Raskin warned that managers would present footage viewers may find disturbing. Trump impeachment trial: Day 2 key moments Former President Donald Trump's historic second impeachment trial is taking place in the Senate."
+    publishedDateTime: 2021-02-11T02:05:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/trump-impeachment-trial-live-updates-senate-debate-constitutionality/?id=75741945"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/trump-impeachment-trial-live-updates-senate-debate-constitutionality/?id=75741945"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/trump-impeachment-trial-live-updates-senate-debate-constitutionality/?id=75741945"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 120
+    images:
+      - url: "https://s.abcnews.com/images/General/impeachment-donald-trump-25-ap-llr-210210_1612998847095_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 901
+        isCached: true
+  - title: "New video, withdrawn comments: 6 takeaways from Day 2 of Trump's impeachment trial"
+    excerpt: "House impeachment managers proceeded with their arguments for convicting former President Donald Trump on the charge of inciting the Capitol riot."
+    publishedDateTime: 2021-02-11T02:14:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/10/top-takeaways-day-2-donald-trump-impeachment-trial/4459682001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4459682001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4459682001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/11/USAT/4d9df8b2-c3b1-4595-9989-d82b70132cac-AP21042008403854.jpg?auto=webp&crop=2800,1575,x5,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump impeachment trial live updates: Democrats to present never-before-seen evidence"
     excerpt: "House impeachment managers will use evidence that hasn't been seen before during the imminent trial, according to senior aides on the team. Senate Majority Leader Chuck Schumer re"
     publishedDateTime: 2021-02-09T16:35:00Z
