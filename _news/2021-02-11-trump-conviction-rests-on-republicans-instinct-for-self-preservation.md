@@ -256,6 +256,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Impeachment managers slated to wrap up their case against Trump at Senate trial "
+    excerpt: "House impeachment managers will finish arguing their case on Thursday that former President Donald Trump incited an insurrection one day after they showed violent and disturbing video footage of the attack on the US Capitol as they urged senators to convict at the Senate trial.\n    \n"
+    publishedDateTime: 2021-02-11T12:01:00Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/i23UIW_wI1M/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/11/politics/senate-impeachment-trial-day-3/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/11/politics/senate-impeachment-trial-day-3/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210210155727-01-impeachment-trial-2021-unf-0210-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Impeachment trial kicks off this week as Democrats seek to tie Trump to Capitol riots"
     excerpt: "The second impeachment trial of former President Donald Trump begins this week as the House impeachment managers prepare to make their case to the public -- and the 100 senators who are jurors for the trial -- that Trump is responsible for last month's deadly riots at the US Capitol.\n    \n"
     publishedDateTime: 2021-02-08T10:00:27Z
@@ -528,7 +544,21 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump's defense team prepares for a redo"
+    excerpt: "Donald Trump’s defense team is waiting for another chance after their first presentation flopped, making public assurances that their arguments will be more organized. But they have some ground to cover after Republican senators described being “disgusted” upon seeing horrific new video footage on Wednesday."
+    publishedDateTime: 2021-02-11T12:54:00Z
+    webUrl: "https://www.politico.com/newsletters/huddle/2021/02/11/trumps-defense-team-prepares-for-a-redo-491725"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
 
-secured: "6lf0YDX3Mb/XQF1KrP5/urSO4i8ofiraFoh0D+J7ZdvXckD0ugqxoQjP7v66SHGAK/f66s4T0eymD/T5F83OlDidEvdo5wYWWTvKSStvTIoUKIhmvjDYwz60PdH05dCo1fIBrx5LF9obT76J0RalXVvYiX95tc2f+uEHzKH4h/z2FfLZaDb1pez/T+a6usgCJoG/XmjDBtbzyEAvkMLOlA+60PKjP05BbTtkismHAdr2kq0x0Lk7uKGo8e93p7peilclFQP/6KPGZAbIFrGlkYn/g6FgmDh4mBQ8ESYOj7xzx+l5ewdCzNN9BMztfp+bfAnD6xFGm47lDNMH8WGaNiP1w3aANSHKMF33gHQ3IIQ=;KO6oCvBT0XxlPIX8GyiP/g=="
+secured: "SKARKRB48rkimPQ4PFDbWVVUQ4bXxmzVXu8sm2ZnBYxjDTV1Lf9GLd7xL8S3UssyENz/stp92e2mNciwbfwsNueT9enFu4qCqtrg5XnztE66RJ9BjNYazXRbepe46AM+aMYzYIajmm/vtShQWv/UeV0AVbsz2u7+ED8LbBZWCfGFlCkaoPeQOQhqcBakj2+79L5XQTS+M80c5g7+fvJRaLSZXAHbCdAw28jJZqwk18l9AvEASjLXYAG2uNlq0awmy2FUgwp3G250uMVhW+jpnch9xAnucTiU7mu6iW4q1CprIgVo3ydJInrBEIiijui9PdXiV/Vd0ISnCwREdexuI4Wkyo3BW24dlzEhLRbBQYW/V7pMJwppQRQgq3t5b+Q6Yk3NuZMu3B3WF5O4RpNVnJZExFEO0udf6aqOXz+BrtH4s0UrZsASHfEqBCCLpzVJ5n4zRYAba9Xr5FIx3EZFRm4va+Wg/e26iAZhFPs1Qb8K4LKjcQNtwqSiprStQFPBcoWXd5UT5496UeFfGtOMPQ==;z5Wr7Xrr7HuPb5Qc/qH3Cw=="
 ---
 

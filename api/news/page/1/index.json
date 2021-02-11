@@ -2,6 +2,162 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-11-the-biden-administration-is-building-three-new-covid-19-vaccination-sites-in-texas-and-two-in-new-york-to-target-socially-vulnerable-communities.md",
+      "title": "The Biden administration is building three new COVID-19 vaccination sites in Texas and two in New York to target socially vulnerable communities",
+      "excerpt": "Five new COVID-19 vaccination sites will altogether be able to vaccinate 10,000 people in underserved communities in the US every day.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/joe-biden-administration-five-new-vaccination-sites-new-york-texas-2021-2",
+      "originalUrl": "https://www.businessinsider.com/joe-biden-administration-five-new-vaccination-sites-new-york-texas-2021-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6025170367d1e300113c5762?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/joe-biden-administration-five-new-vaccination-sites-new-york-texas-2021-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-biden-administration-five-new-vaccination-sites-new-york-texas-2021-2?amp",
+      "publishedDateTime": "2021-02-11T04:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-meena-harris-has-a-personal-brand-some-fear-shes-profiting-from-her-aunt-kamalas-office.md",
+      "title": "Meena Harris has a personal brand. Some fear she’s profiting from her Aunt Kamala’s office",
+      "excerpt": "The White House and others fear scrutiny over the personal branding efforts of the vice president's niece, which have grown with Kamala Harris' career.",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/politics/story/2021-02-11/meena-branding-business-kamala-harris-niece",
+      "originalUrl": "https://www.latimes.com/politics/story/2021-02-11/meena-branding-business-kamala-harris-niece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/651769e/2147483647/strip/true/crop/4500x2939+0+48/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F85%2Fe9%2F1c5ad06c42b89c8d0cc826df1046%2Ftrump-impeachment-08666.jpg",
+          "width": 320,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.latimes.com/politics/story/2021-02-11/meena-branding-business-kamala-harris-niece?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-02-11/meena-branding-business-kamala-harris-niece?_amp=true",
+      "publishedDateTime": "2021-02-11T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-suu-kyi-aide-electoral-officials-arrested-in-myanmar-biden-approves-sanctions.md",
+      "title": "Suu Kyi aide, electoral officials arrested in Myanmar, Biden approves sanctions",
+      "excerpt": "A close aide to ousted Myanmar leader Aung San Suu Kyi was detained in a new wave of arrests following last week's military coup, a party official said on Thursday, as Washington moved a step closer to imposing sanctions on the junta.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-myanmar-politics-idUSKBN2AB06O",
+      "originalUrl": "https://www.reuters.com/article/us-myanmar-politics-idUSKBN2AB06O",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210211&t=2&i=1551177209&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1A0WD",
+          "width": 819,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2AB06O",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AB06O",
+      "publishedDateTime": "2021-02-11T03:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-02-11-trump-team-fires-back-at-dems-claims-they-too-have-used-fight-like-hell-rhetoric.md",
       "title": "Trump team fires back at Dems, claims they too have used ‘fight like hell’ rhetoric",
       "excerpt": "The Trump team turned the tables on the Democratic Party’s impeachment managers on Wednesday, after they claimed once again that the former president’s \"fight like hell\" rhetoric at a Jan. 6 rally in Washington helped spark the riot at the U.",
@@ -396,7 +552,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-trump-impeachment-takeaways-factb-idUSKBN2AA2LY",
       "featuredContent": null,
       "highlight": null,
-      "heat": 281,
+      "heat": 301,
       "tags": null,
       "images": [
         {
@@ -616,7 +772,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 802,
+      "heat": 842,
       "tags": null,
       "images": [
         {
@@ -885,7 +1041,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 444,
+      "heat": 484,
       "tags": null,
       "images": [
         {
@@ -1205,175 +1361,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-georgia-prosecutors-launch-criminal-probe-into-trumps-efforts-to-overturn-election-results.md",
-      "title": "Georgia prosecutors launch criminal probe into Trump's efforts to overturn election results",
-      "excerpt": "The investigation will look into the phone call Trump made to Georgia Secretary of State Brad Raffensperger in which Trump begged him to reverse Joe Biden's victory.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/donald-trump/georgia-prosecutors-launch-criminal-probe-trump-s-efforts-overturn-biden-n1257272",
-      "originalUrl": "https://www.nbcnews.com/politics/donald-trump/georgia-prosecutors-launch-criminal-probe-trump-s-efforts-overturn-biden-n1257272",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media3.s-nbcnews.com/i/newscms/2020_43/3419416/201012-georgia-early-voting-se-1232p_79c46a105227f1219a0bbeb22bc74a49.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1257272",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1257272",
-      "publishedDateTime": "2021-02-10T12:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-meadows-accuses-house-impeachment-managers-of-conveniently-leaving-out-one-line-from-trumps-jan-6-speech.md",
-      "title": "Meadows accuses House impeachment managers of 'conveniently leaving out' one line from Trump's Jan. 6 speech",
-      "excerpt": "President Trump’s former chief of staff Mark Meadows accused House impeachment managers of “conveniently” leaving out a line from Trump’s pre-Capitol riot speech, where he told supporters to “peacefully and patriotically” make their voices heard. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yS_vxeeeQq0/meadows-accuses-house-impeachment-managers-of-conveniently-leaving-out-one-line-from-trumps-jan-6-speech",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yS_vxeeeQq0/meadows-accuses-house-impeachment-managers-of-conveniently-leaving-out-one-line-from-trumps-jan-6-speech",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 176,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/61a66219-cef7-41be-bf5a-2420fbb38051/157f42b9-2028-471b-81e5-255abc31ee16/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/meadows-accuses-house-impeachment-managers-of-conveniently-leaving-out-one-line-from-trumps-jan-6-speech.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/meadows-accuses-house-impeachment-managers-of-conveniently-leaving-out-one-line-from-trumps-jan-6-speech.amp",
-      "publishedDateTime": "2021-02-10T12:30:55-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-chip-roy-slams-bidens-purposeful-and-deplorable-refusal-to-enforce-immigration-laws.md",
-      "title": "Chip Roy slams Biden's 'purposeful' and 'deplorable' refusal to enforce immigration laws",
-      "excerpt": "Rep. Chip Roy, R-Texas, slammed President Biden on Monday for what he described as a \"purposeful\" and \"deplorable\" refusal to enforce U.S. immigration laws.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/y5dhwFPrpz0/roy-bidens-purposeful-refusal-enforce-immigration-laws",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/y5dhwFPrpz0/roy-bidens-purposeful-refusal-enforce-immigration-laws",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/473395ed-38cf-476e-9b26-bcbcb685fb2c/85e0c82b-f0a4-4a7a-af32-149d073900e0/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/roy-bidens-purposeful-refusal-enforce-immigration-laws.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/roy-bidens-purposeful-refusal-enforce-immigration-laws.amp",
-      "publishedDateTime": "2021-02-10T12:26:52-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

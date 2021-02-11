@@ -111,6 +111,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Live impeachment updates: House prosecutors will wrap up arguments at Trump trial after day of Capitol footage"
+    excerpt: "The nine managers will resume their arguments at noon in their final day of opening arguments. When they're done, Trump's team will begin."
+    publishedDateTime: 2021-02-11T12:10:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/11/trump-impeachment-trial-house-prosecutors-wrap-up-arguments/4422691001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4422691001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4422691001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/10/USAT/81357ca9-76f8-4a30-8f24-92b1493b443a-AP_Trump_Impeachment_8.jpg?auto=webp&crop=3647,2052,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Marjorie Taylor Greene falsely suggests Trump supporters didn't carry out the Capitol siege days after apologizing for endorsing conspiracy theories"
     excerpt: "she tweeted. \"The attack RUINED our objection that we spent weeks preparing for, which devastated our efforts on behalf of Trump and his voters.\" Greene's tweet was part of a longer thread about the siege and former President Donald Trump's Senate ..."
     publishedDateTime: 2021-02-09T14:56:00Z

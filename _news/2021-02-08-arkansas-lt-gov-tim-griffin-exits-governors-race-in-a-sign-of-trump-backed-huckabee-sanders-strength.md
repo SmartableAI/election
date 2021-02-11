@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "New details on Capitol's day of terror are devastating indictment of Trump"
+    excerpt: "Impeachment prosecutors took senators on a wrenching journey inside the horror of the US Capitol insurrection, making a devastating case that Donald Trump had plotted, incited and celebrated a vile crime against the United States.\n    \n"
+    publishedDateTime: 2021-02-11T12:09:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FBwjjJWwGUI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/11/politics/donald-trump-impeachment/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/11/politics/donald-trump-impeachment/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210211065515-restricted-us-capitol-0210-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump Isn’t the Only One on Trial. The Conservative Media Is, Too."
     excerpt: "The former president’s second impeachment trial begins oral arguments tomorrow. But conservative media organizations face an even more consequential test in the weeks and months ahead."
     publishedDateTime: 2021-02-09T00:39:00Z

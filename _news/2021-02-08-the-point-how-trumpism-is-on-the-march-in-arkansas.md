@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/08/politics/trump-arkansas-governor-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/08/politics/trump-arkansas-governor-sarah-huckabee-sanders/index.html"
 type: article
 quality: 175
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210209153322-12-impeachment-2021-managers-0209-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "New details on Capitol's day of terror are devastating indictment of Trump"
+    excerpt: "Impeachment prosecutors took senators on a wrenching journey inside the horror of the US Capitol insurrection, making a devastating case that Donald Trump had plotted, incited and celebrated a vile crime against the United States.\n    \n"
+    publishedDateTime: 2021-02-11T12:09:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FBwjjJWwGUI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/11/politics/donald-trump-impeachment/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/11/politics/donald-trump-impeachment/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210211065515-restricted-us-capitol-0210-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

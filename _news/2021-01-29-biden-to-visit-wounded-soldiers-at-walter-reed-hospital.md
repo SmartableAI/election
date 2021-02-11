@@ -175,6 +175,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Americans Agree With Joe Biden That Donald Trump Shouldn't Get Intelligence Briefings—Poll"
+    excerpt: "Most Americans believe former President Donald Trump should not receive intelligence briefings on national security matters after President Joe Biden said he would not be sharing classified intel with his predecessor."
+    publishedDateTime: 2021-02-11T12:16:00Z
+    webUrl: "https://www.newsweek.com/americans-agree-donald-trump-no-intelligence-briefings-1568546"
+    ampWebUrl: "https://www.newsweek.com/americans-agree-donald-trump-no-intelligence-briefings-1568546?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/americans-agree-donald-trump-no-intelligence-briefings-1568546?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 130
+    images:
+      - url: "https://d.newsweek.com/en/full/1732295/donald-trump-boards-marine-one.jpg"
+        width: 1024
+        height: 641
+        isCached: true
   - title: "Judge blocks Trump rule to limit health studies in EPA regs"
     excerpt: "A federal judge has blocked a last-minute rule issued by the Trump administration to limit what evidence the Environmental Protection Agency may consider as it regulates pollutants to protect public h"
     publishedDateTime: 2021-01-29T19:41:00Z

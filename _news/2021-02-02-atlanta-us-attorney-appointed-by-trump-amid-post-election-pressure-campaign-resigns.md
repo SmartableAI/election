@@ -223,6 +223,22 @@ related:
         width: 1997
         height: 1331
         isCached: true
+  - title: "'Bring out Pence.' Managers at Trump trial play new video of Capitol riot that shows threat to VP, lawmakers"
+    excerpt: "House prosecutors wielded former President Donald Trump's words against him in arguing he should be convicted of inciting insurrection at the Capitol."
+    publishedDateTime: 2021-02-11T12:11:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/02/10/impeachment-trial-managers-trump-fueled-rage-capitol-riot/6702506002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6702506002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6702506002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 131
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/10/USAT/db879cf3-15b4-4ae2-9f1b-4b09cea635dc-raskin_wide.jpg?auto=webp&crop=1911,1075,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Factbox: Parental warnings and thanks to Pence - Takeaways from Trump's impeachment trial"
     excerpt: "The U.S. Senate's impeachment trial gathered steam on Wednesday, with Democratic lawmakers laying out their best evidence that former President Donald Trump incited an insurrection by exhorting thousands of supporters to march on the Capitol last month."
     publishedDateTime: 2021-02-11T00:11:00Z
@@ -257,10 +273,10 @@ related:
         isCached: true
   - title: "Georgia prosecutor opens criminal investigation into Trump's \"attempts to influence\" election"
     excerpt: "Sources confirmed the prosecutor is requesting documents related to a recorded January 2 phone call in which Mr. Trump asked, \"What are we going to do here, folks? I only need 11,000 votes.\""
-    publishedDateTime: 2021-02-10T18:52:00Z
-    webUrl: "https://www.cbsnews.com/news/georgia-trump-election-call-investigation-brad-raffensperger/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/georgia-trump-election-call-investigation-brad-raffensperger/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/georgia-trump-election-call-investigation-brad-raffensperger/"
+    publishedDateTime: 2021-02-11T12:22:00Z
+    webUrl: "https://www.cbsnews.com/news/georgia-election-officials-investigate-trump-phone-call/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/georgia-election-officials-investigate-trump-phone-call/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/georgia-election-officials-investigate-trump-phone-call/"
     type: article
     provider:
       name: CBS News
@@ -2325,6 +2341,20 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106838829-GettyImages-1231081890-jpg?v=1612994043"
         width: 2400
         height: 1498
+        isCached: true
+  - title: "The key Capitol attack footage shown on day two of Trump's impeachment trial – video"
+    excerpt: "Footage, some previously unseen, shows the Capitol police officer who rescued Mitt Romney and engaged the rioters."
+    publishedDateTime: 2021-02-11T12:16:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2021/feb/11/the-key-capitol-attack-footage-shown-on-day-two-of-trumps-impeachment-trial-video"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 98
+    images:
+      - url: "https://i.guim.co.uk/img/media/f75e85ca2112ffc5fee132ae44ce3bd84dfd3c5d/60_0_1800_1080/master/1800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fdd8f89d764a69116499360f4010a353"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Trump White House donated 8,700 ventilators to other nations. Officials now don’t know where many of them are, watchdog finds."
     excerpt: "The GAO was unable to identify how the Trump White House made its decisions on ventilator allocations. Sri Lanka had just three new coronavirus cases per day when it received 200 ventilators. Bangladesh,"

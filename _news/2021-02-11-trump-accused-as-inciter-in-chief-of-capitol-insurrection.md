@@ -75,8 +75,8 @@ related:
         isCached: true
   - title: "Trump impeachment: Senate trial to continue after harrowing video evidence – live updates"
     excerpt: "Senate will reconvene at noon for second day of prosecution evidence"
-    publishedDateTime: 2021-02-11T10:48:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/11/donald-trump-impeachment-senate-trial-live-news-updates?page=with:block-60250a788f08b555964bb55e"
+    publishedDateTime: 2021-02-11T07:39:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/11/donald-trump-impeachment-senate-trial-live-news-updates"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/11/donald-trump-impeachment-senate-trial-live-news-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/11/donald-trump-impeachment-senate-trial-live-news-updates"
     type: article
@@ -104,6 +104,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1724301/matt-gaetz-rally-against-liz-cheney.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Democrats use Trump tweets, new video to argue \"full scope\" of Capitol attack at impeachment trial"
+    excerpt: "House Democrats leading the prosecution of former President Trump wrapped up the second day of his impeachment trial on Wednesday by calling into question what Mr. Trump was doing while the Capitol was under attack on January 6."
+    publishedDateTime: 2021-02-11T12:12:00Z
+    webUrl: "https://www.cbsnews.com/live-updates/trump-impeachment-trial-video-capitol-attack/"
+    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/trump-impeachment-trial-video-capitol-attack/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/trump-impeachment-trial-video-capitol-attack/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 111
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/10/06393edd-f804-4a64-aa67-f5d55b0b10c2/thumbnail/1200x630/a11b24a137e8555dacc8b56a9297bbd6/screen-shot-2021-02-10-at-3-48-51-pm.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Explicit language in footage shown at Trump's impeachment trial forces TV networks to make a 'tough choice'"
     excerpt: "At the start of Donald Trump’s second impeachment trial, TV’s biggest networks aired footage of the US Capitol siege with unusually explicit language."

@@ -95,6 +95,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Live impeachment updates: House prosecutors will wrap up arguments at Trump trial after day of Capitol footage"
+    excerpt: "The nine managers will resume their arguments at noon in their final day of opening arguments. When they're done, Trump's team will begin."
+    publishedDateTime: 2021-02-11T12:10:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/11/trump-impeachment-trial-house-prosecutors-wrap-up-arguments/4422691001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4422691001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4422691001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/10/USAT/81357ca9-76f8-4a30-8f24-92b1493b443a-AP_Trump_Impeachment_8.jpg?auto=webp&crop=3647,2052,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump impeachment trial: After emotional first day, opening arguments begin today in historic second Senate trial"
     excerpt: "Opening arguments will begin Wednesday in Donald Trump’s impeachment trial after an emotional first day that wrenched senators back to the Jan. 6 attack on the U.S. Capitol."
     publishedDateTime: 2021-02-10T12:56:00Z

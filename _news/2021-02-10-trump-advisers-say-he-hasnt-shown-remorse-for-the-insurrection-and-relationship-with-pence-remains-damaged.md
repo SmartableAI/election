@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/10/politics/donald-trump-mike-pence-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/10/politics/donald-trump-mike-pence-impeachment/index.html"
 type: article
 quality: 182
-heat: 802
+heat: 842
 published: true
 
 provider:
@@ -237,6 +237,22 @@ related:
     quality: 171
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210202104727-01-trump-file-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Impeachment managers slated to wrap up their case against Trump at Senate trial "
+    excerpt: "House impeachment managers will finish arguing their case on Thursday that former President Donald Trump incited an insurrection one day after they showed violent and disturbing video footage of the attack on the US Capitol as they urged senators to convict at the Senate trial.\n    \n"
+    publishedDateTime: 2021-02-11T12:01:00Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/i23UIW_wI1M/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/11/politics/senate-impeachment-trial-day-3/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/11/politics/senate-impeachment-trial-day-3/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210210155727-01-impeachment-trial-2021-unf-0210-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -527,6 +543,20 @@ related:
       - url: "https://static.politico.com/a7/9e/b036fb6249838d085557fe14aa4e/2100106-rally-trump-gty-773.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Trump's defense team prepares for a redo"
+    excerpt: "Donald Trump’s defense team is waiting for another chance after their first presentation flopped, making public assurances that their arguments will be more organized. But they have some ground to cover after Republican senators described being “disgusted” upon seeing horrific new video footage on Wednesday."
+    publishedDateTime: 2021-02-11T12:54:00Z
+    webUrl: "https://www.politico.com/newsletters/huddle/2021/02/11/trumps-defense-team-prepares-for-a-redo-491725"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
 
 secured: "v6uBLwO0nQO9oJMyzGlKWH1hHs/66R8A+6BXnqPPBUixzA5jQkH9gV6NugLhzGS/TWX9/ytWmxAsWK+QuGtACXnQlj6692Hz+MKJiP/u1ns0hz5E2sfS8cY1u/AactvJfyRBZNjz/lMlfU468qYY+Gm901t4OJKkU4cQAJmrYAJtpxhVhSRVh3yFZIjW8wgyh0QHutNe6Csir9wIZVvekixW/mTMm5NG4RKdRFztW1YlXbMefxK5IJVfAVLgHJveo8L1P/bY9mIYUW2Hrt1VPYnVwe7y3LjlSJUbyQUykaIMtFYcRy4ytppi59NeErXbFP6WrivNiWWIO2ixUauyTlW0zIPMs2H2NqMEt1g2LlE=;XVQmEhb39NWQTHC4RNoP/g=="

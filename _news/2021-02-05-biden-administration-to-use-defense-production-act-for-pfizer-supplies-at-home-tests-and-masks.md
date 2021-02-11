@@ -159,6 +159,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration is 'not where we want to be' on genetic sequencing of Covid-19 variants"
+    excerpt: "With coronavirus variants posing a serious threat to President Joe Biden's efforts to contain the pandemic, a Biden official tells CNN that the administration is still simply \"not where we want to be\" on surveillance of mutations in the US -- and simultaneously worried that Americans will grow increasingly"
+    publishedDateTime: 2021-02-11T12:01:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/R34l0yCF2zg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/11/politics/biden-administration-covid-variants/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/11/politics/biden-administration-covid-variants/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210206023014-us-coronavirus-013121-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration to deploy approximately 1,000 troops to assist with Covid vaccination effort"
     excerpt: "The Biden administration is expected to announce Friday that it will deploy approximately 1000 troops across the United States to assist with coronavirus vaccination efforts.\n    \n"
     publishedDateTime: 2021-02-05T16:39:31Z
@@ -202,6 +218,22 @@ related:
       name: Politico
       domain: politico.com
     quality: 135
+    images:
+      - url: "https://static.politico.com/c3/1c/d92bc77e479e8437bde8fc281405/gettyimages-1230855431-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "HUD to pursue gender identity-based discrimination complaints, reversing Trump policy"
+    excerpt: "The policy marks a major shift from HUD’s position under President Donald Trump and his housing secretary, Ben Carson."
+    publishedDateTime: 2021-02-11T12:34:00Z
+    webUrl: "https://www.politico.com/news/2021/02/11/hud-gender-identity-discrimination-468570"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/02/11/hud-gender-identity-discrimination-468570"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/02/11/hud-gender-identity-discrimination-468570"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 128
     images:
       - url: "https://static.politico.com/c3/1c/d92bc77e479e8437bde8fc281405/gettyimages-1230855431-1.jpg"
         width: 1160
