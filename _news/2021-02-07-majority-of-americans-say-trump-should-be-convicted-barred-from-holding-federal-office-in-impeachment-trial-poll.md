@@ -175,6 +175,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump's impeachment trial is literally occurring at the scene of the crime, and both the prosecutors and jurors are witnesses"
+    excerpt: "There are a whirlwind of emotions and political aspirations steering this historic trial, and Trump's acquittal appears all but guaranteed."
+    publishedDateTime: 2021-02-11T22:24:00Z
+    webUrl: "https://www.businessinsider.com/trump-trial-occurring-site-of-crime-prosecutors-jurors-are-witnesses-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/trump-trial-occurring-site-of-crime-prosecutors-jurors-are-witnesses-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-trial-occurring-site-of-crime-prosecutors-jurors-are-witnesses-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 98
+    images:
+      - url: "https://i.insider.com/6025a8e9b3c2a800183cc775?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump Accused as 'Inciter in Chief' of Capitol Insurrection"
     excerpt: "Prosecutors in Donald Trump’s impeachment trial are arguing that he was no “innocent bystander” but the “inciter in chief” of last month's deadly attack at the Capitol."
     publishedDateTime: 2021-02-10T22:08:00Z

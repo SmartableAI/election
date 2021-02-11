@@ -95,6 +95,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "A year of election misinformation from Trump, visualized"
+    excerpt: "Mail ballots were rife with fraud, Trump claimed over and over, and therefore an election predicated on mail ballots would necessarily be suspect. By April it had become clear that Trump’s opponent in his reelection bid would be Joe Biden,"
+    publishedDateTime: 2021-02-11T22:26:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/02/11/year-election-misinformation-trump-visualized/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/02/11/year-election-misinformation-trump-visualized/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/02/11/year-election-misinformation-trump-visualized/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MWJ25FA7TEI6XLKTJQP5USMQPU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Tuberville says he told Trump about Pence's evacuation during Capitol riot"
     excerpt: "Sen. Tommy Tuberville (R-Ala.) said late Wednesday that he spoke with then-President Trump on Jan. 6 and told him that then-Vice President Pence was being evacuated as rioters descended on the Capitol."
     publishedDateTime: 2021-02-11T13:58:00Z
@@ -1839,6 +1855,22 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Stacey Plaskett undertakes historic role in Senate impeachment trial against Donald Trump"
+    excerpt: "Plaskett presented previously unreleased videos of the riot at the Capitol on Jan. 6, contending Trump \"fanned the flame of violence, and it worked.\""
+    publishedDateTime: 2021-02-11T04:32:00Z
+    webUrl: "https://abcnews.go.com/Politics/rep-stacey-plaskett-undertakes-historic-role-senate-impeachment/story?id=75812997"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/rep-stacey-plaskett-undertakes-historic-role-senate-impeachment/story?id=75812997"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/rep-stacey-plaskett-undertakes-historic-role-senate-impeachment/story?id=75812997"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 116
+    images:
+      - url: "https://s.abcnews.com/images/General/impeachment-donald-trump-22-ap-llr-210210_1612992503877_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Facing a post-Trump world, abortion opponents at March for Life strike a less partisan tone"
     excerpt: "Abortion opponents began facing the post-Trump world Friday at the annual March for Life, divided over whether the past president helped or harmed their cause and shifting towards less partisan language than in the recent past."
     publishedDateTime: 2021-01-29T23:24:00Z
@@ -1902,6 +1934,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1727595/donald-trump.jpg"
         width: 3028
         height: 2019
+        isCached: true
+  - title: "The Capitol insurrection was the natural end point of Trump's celebration of political violence and repeated election lies"
+    excerpt: "On day three of Trump's Senate impeachment trial, House impeachment managers showed him endorsing violence at rallies starting in 2015."
+    publishedDateTime: 2021-02-11T21:25:00Z
+    webUrl: "https://www.businessinsider.com/trump-backing-political-violence-election-fraud-lies-led-to-siege-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/trump-backing-political-violence-election-fraud-lies-led-to-siege-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-backing-political-violence-election-fraud-lies-led-to-siege-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 114
+    images:
+      - url: "https://i.insider.com/602578c5b3c2a800183cc616?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "For decades Donald Trump bullied Palm Beach to get his way. Now he’s determined to make it his home."
     excerpt: "From fireworks to a Madonna photo shoot, he has defied local officials. But they remain reluctant to fight the former president’s plan to live at his Mar-a-Lago Club."
@@ -2904,6 +2952,17 @@ related:
     webUrl: "https://www.usnews.com/news/us/articles/2021-02-09/us-doj-to-ask-56-trump-appointed-attorneys-to-resign-cnn"
     ampWebUrl: "https://www.usnews.com/news/us/articles/2021-02-09/us-doj-to-ask-56-trump-appointed-attorneys-to-resign-cnn?context=amp"
     cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2021-02-09/us-doj-to-ask-56-trump-appointed-attorneys-to-resign-cnn?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Rioters Acted on Trump's 'Order,' Democrats Insist in Trial"
+    excerpt: "Democratic prosecutors in Donald Trump's impeachment trial say rioters believed they were acting on the “president’s orders” to storm the Capitol to undo Joe Biden's election victory."
+    publishedDateTime: 2021-02-11T22:18:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-02-11/chilling-video-footage-becomes-key-exhibit-in-trump-trial"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-11/chilling-video-footage-becomes-key-exhibit-in-trump-trial?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-11/chilling-video-footage-becomes-key-exhibit-in-trump-trial?context=amp"
     type: article
     provider:
       name: U.S. News & World Report

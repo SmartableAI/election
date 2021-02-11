@@ -144,6 +144,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "North Carolina man charged with threatening to kill President Biden"
+    excerpt: "A North Carolina man has been charged with making threats to kill President Joe Biden, according to a federal criminal complaint unsealed in court Thursday."
+    publishedDateTime: 2021-02-11T22:51:00Z
+    webUrl: "https://www.cnn.com/2021/02/11/us/man-charged-with-threatening-to-kill-president/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/11/us/man-charged-with-threatening-to-kill-president/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/11/us/man-charged-with-threatening-to-kill-president/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210211174357-charlotte-federal-courthouse-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden's meeting with CEOs focused on equalizing economic recovery, skills training, wage gap"
     excerpt: "President Joe Biden met with the heads of some of America's biggest companies on Tuesday as part of his push for a $1.9 trillion economic relief package. The Oval Office meeting included Vice President Kamala Harris and Treasury Secretary Janet Yellen,"
     publishedDateTime: 2021-02-10T21:14:00Z

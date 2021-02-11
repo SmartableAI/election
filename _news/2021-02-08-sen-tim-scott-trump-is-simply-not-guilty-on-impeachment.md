@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/scott-trump-not-guilty-impeachment-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/scott-trump-not-guilty-impeachment-capitol-riot-insurrection.amp"
 type: article
 quality: 175
-heat: 415
+heat: 435
 published: true
 
 provider:
@@ -222,6 +222,20 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6f04fe4c-245c-482f-9a29-aa24e52d20d3/d66ec36a-35ee-4102-aef1-973fe7727cd3/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Democratic Impeachment Manager Focuses on Trump's Lack of Remorse"
+    excerpt: "Rep. Ted Lieu (D., Calif.) delivered a lengthy criticism of the absence of any remorse in former President Donald Trump's comments in the wake of the Capitol riot. Mr. Trump—at the urging of his advisers,"
+    publishedDateTime: 2021-02-11T22:26:00Z
+    webUrl: "https://www.wsj.com/livecoverage/trump-second-impeachment-trial-2021-02-11/card/KVd2BdFohOGHZvdbtX3h"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 115
+    images:
+      - url: "https://images.wsj.net/im-298161?size=1.5"
+        width: 1280
+        height: 853
         isCached: true
 
 secured: "dJ4/EIZwZh4nJiMzaszJxOqI4SargUg8tfF909LDpui04FLAHW7PQq7YUPYEZP0fAHEIrBiNHkAEQGdNe3v11qeqJRlQqVnfafbD32N29FTJktxB0YizSGeviEZNPQRvRg2521Cc/TKAXl7Xb3FcuOz4fnKAV5B1rX4QY/p5hXs3yaPn7WWi4Y23qEMRc926Rdmbxi6H43pGn2ZpMdO2qyphKcPECWhU4u3YAHWGIgA7bDn0kEunL0u9DwFUdIAAyvVqtrGzXn6s0QND38Z0v5KqPLos08b8WMUo2wy2m/euYz6skGv3nRxJAuYH7a0SmKaojeuyRooZdiAo6N7wR+FIHOA777zZNbOLfZ5F9xw=;1kEe4yQxOoX3Ui2lalfJFA=="

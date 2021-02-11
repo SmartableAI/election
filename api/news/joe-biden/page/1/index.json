@@ -618,6 +618,63 @@
       ]
     },
     {
+      "path": "_news/2021-02-08-cotton-bidens-liberal-media-friends-finally-coming-around-to-calling-for-wuhan-lab-investigation.md",
+      "title": "Cotton: Biden's liberal media 'friends' finally coming around to calling for Wuhan lab investigation",
+      "excerpt": "Ark., said Monday that he was \"glad to see Joe Biden singing a different tune\" in regards to the US' foreign policy stance on China, but criticized the President for not outlining what the specifics of his strategy might be.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/biden-china-wuhan-lab-coronavirus-investigation-cotton",
+      "originalUrl": "https://www.foxnews.com/media/biden-china-wuhan-lab-coronavirus-investigation-cotton",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f82d77b7-fe6c-4f60-ab9e-a63cff8cef75/1518879f-32d2-4235-8fa1-dcc95e691b26/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/biden-china-wuhan-lab-coronavirus-investigation-cotton.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/biden-china-wuhan-lab-coronavirus-investigation-cotton.amp",
+      "publishedDateTime": "2021-02-08T06:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-07-biden-says-minimum-wage-increase-looks-like-its-not-going-to-survive-as-part-of-covid-19-relief-package.md",
       "title": "Biden says minimum wage increase looks like it's not 'going to survive' as part of COVID-19 relief package",
       "excerpt": "\"I put it in, but I don't think it's going to survive,\" Biden said, though Sen. Bernie Sanders still insists including it is a \"moral imperative.\"",
@@ -730,7 +787,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-biden-economy-idUSKBN2A529V",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 245,
       "tags": null,
       "images": [
         {
@@ -1511,58 +1568,6 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-joe-biden-threatens-sanctions-following-myanmar-coup-says-us-will-stand-up-for-democracy.md",
-      "title": "Joe Biden Threatens Sanctions Following Myanmar Coup, Says U.S. Will 'Stand Up For Democracy'",
-      "excerpt": "\"In a democracy, force should never seek to overrule the will of the people or attempt to erase the outcome of a credible election,\" the president said in his first statement on the issue.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/joe-biden-threatens-sanctions-following-myanmar-coup-says-us-will-stand-democracy-1565870",
-      "originalUrl": "https://www.newsweek.com/joe-biden-threatens-sanctions-following-myanmar-coup-says-us-will-stand-democracy-1565870",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1721873/joe-biden-statement-myanmar-coup.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/joe-biden-threatens-sanctions-following-myanmar-coup-says-us-will-stand-democracy-1565870?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-threatens-sanctions-following-myanmar-coup-says-us-will-stand-democracy-1565870?amp=1",
-      "publishedDateTime": "2021-02-01T10:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

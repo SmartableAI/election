@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A42HN"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A42HN"
 type: article
 quality: 140
-heat: 1880
+heat: 1900
 published: true
 
 provider:
@@ -652,6 +652,22 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/Politics/WireAP_59a453f80f184118bf00f37a71e88083_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Budget office expects $2.3T deficit before Biden relief plan"
+    excerpt: "The Congressional Budget Office says the federal government is on track for a $2.3 trillion deficit this year, down roughly $900 billion from last year when the coronavirus caused Congress to provide"
+    publishedDateTime: 2021-02-11T20:17:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/budget-office-expects-23t-deficit-biden-relief-plan-75834040"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/budget-office-expects-23t-deficit-biden-relief-plan-75834040"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/budget-office-expects-23t-deficit-biden-relief-plan-75834040"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_b8f705ea670d4b33b3bb5d970458a999_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-trump-sendoff-biden-inaugurat
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-trump-sendoff-biden-inauguration-farewell.amp"
 type: article
 quality: 205
-heat: 4545
+heat: 4585
 published: true
 
 provider:
@@ -925,6 +925,22 @@ related:
     quality: 178
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d92eb221-e11e-4533-a19c-2b53cb2f5627/a83cb907-4acd-458d-8c0e-d5429d456691/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden ends Trump's national emergency declaration on southern border, but troops stay in place"
+    excerpt: "President Biden has ended the national emergency declaration at the border put in place by President Donald Trump in 2019 -- although 3,600 troops will remain in place until the end of the fiscal year."
+    publishedDateTime: 2021-02-11T22:16:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HJhrWXb3Cqg/biden-trumps-national-emergency-declaration-on-southern-border-troops"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-trumps-national-emergency-declaration-on-southern-border-troops.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trumps-national-emergency-declaration-on-southern-border-troops.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 178
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/29ad43be-ef82-4891-814c-c63e8428c1be/341602a7-fa65-4e5f-aed0-8d066037eff0/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -2763,6 +2779,22 @@ related:
     quality: 138
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d92eb221-e11e-4533-a19c-2b53cb2f5627/a83cb907-4acd-458d-8c0e-d5429d456691/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden ends Trump's national emergency declaration on southern border, but troops stay in place"
+    excerpt: "President Biden has ended the national emergency declaration at the border put in place by President Donald Trump in 2019 -- although 3,600 troops will remain in place until the end of the fiscal year."
+    publishedDateTime: 2021-02-11T22:20:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-trumps-national-emergency-declaration-on-southern-border-troops"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-trumps-national-emergency-declaration-on-southern-border-troops.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trumps-national-emergency-declaration-on-southern-border-troops.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 138
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/29ad43be-ef82-4891-814c-c63e8428c1be/341602a7-fa65-4e5f-aed0-8d066037eff0/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

@@ -32,19 +32,19 @@ images:
     isCached: true
 
 related:
-  - title: "Meadows accuses House impeachment managers of 'conveniently leaving out' one line from Trump's Jan. 6 speech"
-    excerpt: "President Trump’s former chief of staff Mark Meadows accused House impeachment managers of “conveniently” leaving out a line from Trump’s pre-Capitol riot speech, where he told supporters to “peacefully and patriotically” make their voices heard. "
-    publishedDateTime: 2021-02-10T20:30:55Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yS_vxeeeQq0/meadows-accuses-house-impeachment-managers-of-conveniently-leaving-out-one-line-from-trumps-jan-6-speech"
-    ampWebUrl: "https://www.foxnews.com/politics/meadows-accuses-house-impeachment-managers-of-conveniently-leaving-out-one-line-from-trumps-jan-6-speech.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/meadows-accuses-house-impeachment-managers-of-conveniently-leaving-out-one-line-from-trumps-jan-6-speech.amp"
+  - title: "Dem impeachment managers target Trump lawyers’ First Amendment argument, calling it a ‘distraction’"
+    excerpt: "Lead House impeachment manager Rep. Jamie Raskin, D-Md., said that former President Trump’s lawyers’ argument that Trump was within his First Amendment rights when he peddled election fraud claims is a “completely irrelevant distraction.” "
+    publishedDateTime: 2021-02-11T22:16:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/X-1zWuB7Wc8/dem-impeachment-managers-trump-lawyers-first-amendment"
+    ampWebUrl: "https://www.foxnews.com/politics/dem-impeachment-managers-trump-lawyers-first-amendment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dem-impeachment-managers-trump-lawyers-first-amendment.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 156
+    quality: 161
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/61a66219-cef7-41be-bf5a-2420fbb38051/157f42b9-2028-471b-81e5-255abc31ee16/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/91491525-0758-4d76-835a-c083f18134c2/a25638d4-7eb7-4b4b-a3f0-92bf7307c604/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

@@ -671,6 +671,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Budget office expects $2.3T deficit before Biden relief plan"
+    excerpt: "The Congressional Budget Office says the federal government is on track for a $2.3 trillion deficit this year, down roughly $900 billion from last year when the coronavirus caused Congress to provide"
+    publishedDateTime: 2021-02-11T20:17:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/budget-office-expects-23t-deficit-biden-relief-plan-75834040"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/budget-office-expects-23t-deficit-biden-relief-plan-75834040"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/budget-office-expects-23t-deficit-biden-relief-plan-75834040"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_b8f705ea670d4b33b3bb5d970458a999_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Jill Biden pushes access to free community college and training programs"
     excerpt: "Jill Biden is pushing access to free community college and training programs, particularly for those struggling during the COVID-19 pandemic."
     publishedDateTime: 2021-02-09T14:10:00Z

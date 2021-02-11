@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-03-washington-post-manhattan-da-considering-prosecuting-steve-bannon-after-trump-pardon.md",
+      "title": "Washington Post: Manhattan DA considering prosecuting Steve Bannon after Trump pardon",
+      "excerpt": "The Manhattan District Attorney's Office is considering bringing state charges against Steve Bannon related to the same border wall fundraising campaign fraud scheme for which he was federally charged and then granted a presidential pardon, according to The Washington Post.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4v9ZYdWYC3s/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4v9ZYdWYC3s/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210203063618-file-steve-bannon-2020-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/03/politics/steve-bannon-manhattan-da-prosecution/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/03/politics/steve-bannon-manhattan-da-prosecution/index.html",
+      "publishedDateTime": "2021-02-03T06:15:26-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-03-biden-no-family-members-will-be-involved-in-any-government-decisions.md",
       "title": "Biden: No family members will be involved in any government decisions",
       "excerpt": "President Joe Biden vowed that no one in his extended family will have sway over government decisions in an interview with People magazine published Wednesday.\n    \n",
@@ -1607,62 +1663,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/26/politics/executive-orders-equity-joe-biden/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/executive-orders-equity-joe-biden/index.html",
       "publishedDateTime": "2021-01-26T04:38:45-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-biden-aims-to-tackle-another-american-crisis-race.md",
-      "title": "Biden aims to tackle another American crisis: Race",
-      "excerpt": "If there was any doubt about the urgency of President Joe Biden's mission to tackle racial inequality, it was erased in the searing moment an insurrectionist rioter brazenly paraded the Confederate flag through the US Capitol.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MDazENa4X-0/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MDazENa4X-0/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 575,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210122211659-05-biden-economy-0122-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/26/politics/joe-biden-race-america-equity/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/joe-biden-race-america-equity/index.html",
-      "publishedDateTime": "2021-01-26T04:35:47-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

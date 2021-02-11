@@ -2,6 +2,62 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-10-biden-actions-against-oil-and-gas-industry-producing-chilling-effect-against-energy-workers-george-p-bush.md",
+      "title": "Biden actions against oil and gas industry producing 'chilling effect' against energy workers: George P. Bush",
+      "excerpt": "Texas Land Commissioner George P. Bush said Wednesday that President Biden's immediate moves against the oil and gas industry produced a \"chilling effect\" against energy workers around the country.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dvTOsgwYdwk/biden-actions-oil-gas-industry-chilling-effect-george-p-bush",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dvTOsgwYdwk/biden-actions-oil-gas-industry-chilling-effect-george-p-bush",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d93b9a1e-d5d6-435e-85f0-61fcf7d6b26e/3ed3475a-a543-4d39-a1be-29eb56ae9ddc/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-actions-oil-gas-industry-chilling-effect-george-p-bush.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-actions-oil-gas-industry-chilling-effect-george-p-bush.amp",
+      "publishedDateTime": "2021-02-10T08:25:25-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-10-home-free-florida-town-lets-donald-trump-keep-living-at-mar-a-lago.md",
       "title": "Home free: Florida town lets Donald Trump keep living at Mar-a-Lago",
       "excerpt": "Palm Beach town council gave short shrift to a request from neighbors to ban the former president from residing at his resort",
@@ -715,6 +771,62 @@
       ]
     },
     {
+      "path": "_news/2021-02-09-biden-omb-pick-tanden-called-out-during-confirmation-hearing-for-anti-gop-tweets-says-im-sorry.md",
+      "title": "Biden OMB pick Tanden called out during confirmation hearing for anti-GOP tweets, says 'I'm sorry'",
+      "excerpt": "Minutes into her confirmation hearing, President Biden's nominee for director of the White House Office of Management and Budget Neera Tanden had to address concerns over hostile tweets she has posted against various Republican lawmakers.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vo_05fBHJPI/biden-omb-pick-tanden-confirmation-hearing-apology-anti-gop-tweets",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vo_05fBHJPI/biden-omb-pick-tanden-confirmation-hearing-apology-anti-gop-tweets",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 181,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Neera-Tanden-Biden-OMB-AP.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-omb-pick-tanden-confirmation-hearing-apology-anti-gop-tweets.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-omb-pick-tanden-confirmation-hearing-apology-anti-gop-tweets.amp",
+      "publishedDateTime": "2021-02-09T08:33:03-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-09-huawei-founder-says-hopes-biden-administration-will-have-open-policy.md",
       "title": "Huawei founder says hopes Biden administration will have 'open policy'",
       "excerpt": "Huawei Technologies' founder Ren Zhengfei said on Tuesday it would be \"extremely difficult\" for the United States to end the sanctions that have crippled its phone business, but that he hoped the new U.",
@@ -1056,7 +1168,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 315,
+      "heat": 335,
       "tags": null,
       "images": [
         {
@@ -1248,114 +1360,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-house-managers-reject-trump-impeachment-brief-he-betrayed-the-american-people-live.md",
-      "title": "House managers reject Trump impeachment brief: 'He betrayed the American people' – live",
-      "excerpt": "Polling shows slim majority of Americans want Trump convicted and barred from office",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/feb/08/donald-trump-impeachment-trial-senate-covid-coronavirus-joe-biden-live-updates?page=with:block-602169868f080f5eb75b712c",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/feb/08/donald-trump-impeachment-trial-senate-covid-coronavirus-joe-biden-live-updates?page=with:block-602169868f080f5eb75b712c",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/f53e10ada477be2183e26f567e2cac2af4414528/271_94_5297_3178/master/5297.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=fb527600bf70b7acda51a2517a391f50",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/feb/08/donald-trump-impeachment-trial-senate-covid-coronavirus-joe-biden-live-updates",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/08/donald-trump-impeachment-trial-senate-covid-coronavirus-joe-biden-live-updates",
-      "publishedDateTime": "2021-02-08T12:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-08-sen-tim-scott-trump-is-simply-not-guilty-on-impeachment.md",
-      "title": "Sen. Tim Scott: Trump is 'simply not guilty' on impeachment",
-      "excerpt": "Former President Donald Trump is \"simply not guilty\" of inciting an insurrection against the United States government, Sen. Tim Scott R-S.C., told \"America Reports\" on Monday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gZQdaYx5Da4/scott-trump-not-guilty-impeachment-capitol-riot-insurrection",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gZQdaYx5Da4/scott-trump-not-guilty-impeachment-capitol-riot-insurrection",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 415,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c41e6643-43ee-4b90-928e-e0bc1aa3e5e3/db663e37-4342-47eb-81fd-c95d6e5a9278/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/scott-trump-not-guilty-impeachment-capitol-riot-insurrection.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/scott-trump-not-guilty-impeachment-capitol-riot-insurrection.amp",
-      "publishedDateTime": "2021-02-08T11:55:57-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

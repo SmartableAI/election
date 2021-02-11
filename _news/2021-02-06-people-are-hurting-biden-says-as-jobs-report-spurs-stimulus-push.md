@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A529V"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A529V"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -101,6 +101,17 @@ related:
     webUrl: "https://www.businessinsider.com/senate-confirms-mayorkas-as-bidens-homeland-security-chief-2021-2"
     ampWebUrl: "https://www.businessinsider.com/senate-confirms-mayorkas-as-bidens-homeland-security-chief-2021-2?amp"
     cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/senate-confirms-mayorkas-as-bidens-homeland-security-chief-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "The Latest: Biden says minds may change at impeachment trial"
+    excerpt: "The Latest on former President Donald Trump's second Senate (all times local):"
+    publishedDateTime: 2021-02-11T21:58:00Z
+    webUrl: "https://www.businessinsider.com/the-latest-biden-says-minds-may-change-at-impeachment-trial-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/the-latest-biden-says-minds-may-change-at-impeachment-trial-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/the-latest-biden-says-minds-may-change-at-impeachment-trial-2021-2?amp"
     type: article
     provider:
       name: Business Insider

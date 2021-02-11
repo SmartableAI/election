@@ -185,6 +185,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump's impeachment trial is literally occurring at the scene of the crime, and both the prosecutors and jurors are witnesses"
+    excerpt: "There are a whirlwind of emotions and political aspirations steering this historic trial, and Trump's acquittal appears all but guaranteed."
+    publishedDateTime: 2021-02-11T22:24:00Z
+    webUrl: "https://www.businessinsider.com/trump-trial-occurring-site-of-crime-prosecutors-jurors-are-witnesses-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/trump-trial-occurring-site-of-crime-prosecutors-jurors-are-witnesses-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-trial-occurring-site-of-crime-prosecutors-jurors-are-witnesses-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 98
+    images:
+      - url: "https://i.insider.com/6025a8e9b3c2a800183cc775?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "hVjFBI9mYum9gK7qY1Sx755F5kVqXq/fq78VIY23VX1yg/Fa5Y658ZrofGxYqFEZIXEEXmfxizsRQuMAP6WbRGWzRoiylTCgT4Wk6YfWZq64JxlFT2yALvJoBXe/r+oahaUT494aFbwrqGfxyCdUbaUfjDwFZ4sg0DePEqxSDhMjBBLrCytvVNGFTqmGjGo0Vavv4T0Tr7ttjLWASE6iEsCQ6A0HlI38WtbWlFMzVONGW+xvtyJyLbG2ZEaGpGAV5xOGDSCpNnq7ECoLm0cpWSrkSBSxhoANOSrOUHC9KjU5HrmPt/of7xSAwNggfkBRIYnyKNbL37aSTxzhmXYApvt8XjtMISsZkBxK43aEgO6ir4tJQX4+l/36TFsNnxTjE0QMC0AKPCvastyJoLmLjwRDbiGGBKLH5Dml4iHLUSp28e20BzF8Sme6xWXsQhn9fz58EnQJSxKAmjsRfpUoUM8orwiSg9koiBLlZjv8la6SRtAy4PpE7nbtKGd4mzblkCa104PZY++kT/iEDbJQ7w==;AMHr09S4xRS15XQwD7WqlA=="
 ---

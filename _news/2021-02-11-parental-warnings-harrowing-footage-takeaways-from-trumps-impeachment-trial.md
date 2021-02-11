@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AA2LY"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AA2LY"
 type: article
 quality: 121
-heat: 321
+heat: 341
 published: true
 
 provider:
@@ -174,6 +174,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/donald-trump-marjorie-taylor-greene-extremism-02-gty-llr-210206_1612646373841_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Trump's impeachment trial is literally occurring at the scene of the crime, and both the prosecutors and jurors are witnesses"
+    excerpt: "There are a whirlwind of emotions and political aspirations steering this historic trial, and Trump's acquittal appears all but guaranteed."
+    publishedDateTime: 2021-02-11T22:24:00Z
+    webUrl: "https://www.businessinsider.com/trump-trial-occurring-site-of-crime-prosecutors-jurors-are-witnesses-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/trump-trial-occurring-site-of-crime-prosecutors-jurors-are-witnesses-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-trial-occurring-site-of-crime-prosecutors-jurors-are-witnesses-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 98
+    images:
+      - url: "https://i.insider.com/6025a8e9b3c2a800183cc775?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Trump Accused as 'Inciter in Chief' of Capitol Insurrection"
     excerpt: "Prosecutors in Donald Trump’s impeachment trial are arguing that he was no “innocent bystander” but the “inciter in chief” of last month's deadly attack at the Capitol."

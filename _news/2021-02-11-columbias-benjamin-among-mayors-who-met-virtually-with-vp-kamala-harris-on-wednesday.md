@@ -43,6 +43,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Kamala Harris brings a new meaning to power-dressing"
+    excerpt: "Vice President Kamala Harris is harnessing interest in her style by spotlighting Black fashion designers and brands owned by immigrants."
+    publishedDateTime: 2021-02-11T22:42:00Z
+    webUrl: "https://www.insider.com/kamala-harris-meaning-behind-her-style-as-vice-president-2021-1"
+    ampWebUrl: "https://www.insider.com/kamala-harris-meaning-behind-her-style-as-vice-president-2021-1?amp"
+    cdnAmpWebUrl: "https://www-insider-com.cdn.ampproject.org/c/s/www.insider.com/kamala-harris-meaning-behind-her-style-as-vice-president-2021-1?amp"
+    type: article
+    provider:
+      name: insider
+      domain: insider.com
+    quality: 75
+    images:
+      - url: "https://i.insider.com/601abcf001504a00197fb5b7?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "H/J1KnyAFZQMFJY++65bDcReTVrLNcZ07B78btRBR2QAgWhxB9bEEIpKWD+GiVICElIYOHpnEENR6t9oaz4wb7NOQriwtiuX5oSbDDfwQmkWrKgY7G3XRW+GQ1roxDSxCSOLYO3LeFZF1epmsSTAUVtw9rh5v7wlRaAnhIZe6gjEti0lf656dmjTxMzK+hRNfwihWhfHTPspNgVH5bbsvCjUjqQiA8T2RVqVkApExVxS0IRM6HKbscYZ1hehhQTuVUzebBvSSqCgZeMRTPWb9NnAts8o7BxARj/4rL+A5djAS99eN5/dIDmyVN4keKqZDL/UKKB5iFcA3ig/FGP8QsNwFZ7dOfnNZLyFHgijB4wd5YJUMvy8FzhiNp0eXYz9fZ+517FPdUI2vPQu62+Iyx7M3nOhSH5SEw5cVoPbSUm2NraqtliG62PiRS9jRLca8VdllNoD/kQwB7Avs3m/tMq7bvi7zPLXnCWk5/m7JhsN3qhMQze7ZibINQ+xI2D2QKm94dJV9Hl379LKngNXpQ==;HtV58TQNazQWnxS4acDtLg=="
 ---

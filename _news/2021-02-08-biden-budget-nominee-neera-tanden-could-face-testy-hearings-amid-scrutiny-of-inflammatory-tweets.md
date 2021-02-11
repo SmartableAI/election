@@ -31,83 +31,83 @@ images:
     isCached: true
 
 related:
-  - title: "Scandal-plagued blue state bureaucrats get plum posts in Biden admin"
-    excerpt: "President Biden nominated Julie Su Wednesday, as the deputy secretary for the U.S. Department of Labor."
-    publishedDateTime: 2021-02-11T02:49:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2SRay-jD88Q/scandal-plagued-blue-state-bureaucrats-get-plum-posts-in-biden-admin"
-    ampWebUrl: "https://www.foxnews.com/politics/scandal-plagued-blue-state-bureaucrats-get-plum-posts-in-biden-admin.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/scandal-plagued-blue-state-bureaucrats-get-plum-posts-in-biden-admin.amp"
+  - title: "Biden OMB nominee Neera Tanden received $731G salary from liberal nonprofit"
+    excerpt: "One of President-elect Biden's top Cabinet appointees earned more than $700,000 as the head of a leading liberal nonprofit, her financial disclosures reveal."
+    publishedDateTime: 2021-01-12T12:42:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/N9aSYGkiKDI/neera-tanden-salary-center-for-american-progress"
+    ampWebUrl: "https://www.foxnews.com/politics/neera-tanden-salary-center-for-american-progress.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/neera-tanden-salary-center-for-american-progress.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 173
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4e468e48-daf4-48c9-b172-5e8ae98b3f4a/e9d7c456-73c0-43ba-9de5-5359a023293c/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ecb90e26-1a7c-435c-9c19-1954f1794e4a/6028a03c-dc91-4110-b09d-e04c086c1e52/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Psaki pressed on Biden admin not deporting illegal immigrants who drive drunk"
-    excerpt: "White House Press Secretary Jen Psaki was asked on Monday about pending guidance that would spare some illegal immigrants convicted of less serious offenses from deportation"
-    publishedDateTime: 2021-02-09T01:01:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uJjpjK8p-kA/psaki-biden-deporting-illegal-immigrants-drive-drunk"
-    ampWebUrl: "https://www.foxnews.com/politics/psaki-biden-deporting-illegal-immigrants-drive-drunk.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-deporting-illegal-immigrants-drive-drunk.amp"
+  - title: "Biden DHS nominee Mayorkas says ICE should not be defunded, despite liberal calls"
+    excerpt: "Alejandro Mayorkas, President-elect Joe Biden’s pick to lead the Department of Homeland Security, said Tuesday that Immigration and Customs Enforcement (ICE) should not be defunded -- while punting on whether parts of the border wall should be dismantled."
+    publishedDateTime: 2021-01-19T18:47:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/d8CARCqXwKI/biden-dhs-nominee-mayorkas-ice-border-wall"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-dhs-nominee-mayorkas-ice-border-wall.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-dhs-nominee-mayorkas-ice-border-wall.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 172
+    quality: 170
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/98c9f18a-40b4-4c42-a1b2-22fe7d7091a6/c2ad6e60-a0b7-4ef0-8983-5fb23af6b0e5/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7baa239c-c9dc-4831-889a-81c96eec5853/f9d51ab7-a9dd-45a8-887e-17b573376bce/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden admin erects tent city in Texas to handle influx of illegal immigrants"
-    excerpt: "The Biden administration announced this week that it opened a soft-sided facility for immigrants in Donna, Texas, as Republican lawmakers warn of a “rising crisis” at the U.S.-Mexico border."
-    publishedDateTime: 2021-02-10T23:48:18Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KDVywhq6xKM/biden-admin-tent-city-texas-illegal-immigrants"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-tent-city-texas-illegal-immigrants.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-tent-city-texas-illegal-immigrants.amp"
+  - title: "Biden labor secretary nominee once linked to federal probe of union strong-arm tactics"
+    excerpt: "Walsh faced scrutiny in 2016 after the Boston Globe reported that his name had surfaced during a federal investigation into allegations that unions had improperly pressured developers and businesses to hire union workers for their projects."
+    publishedDateTime: 2021-01-11T21:16:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aqSc8hUqhxM/biden-labor-secretary-nominee-federal-probe-union-strong-arm-tactics"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-labor-secretary-nominee-federal-probe-union-strong-arm-tactics.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-labor-secretary-nominee-federal-probe-union-strong-arm-tactics.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 172
+    quality: 167
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/52334b32-16cb-4d2a-b31d-a7d4fdb3a6b1/68c321f8-4a31-4940-9404-549a71453d54/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/202402d4-6106-46ae-a764-2c7fa6dc8963/4f9b4123-49d8-41a5-af1a-c3c229485753/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden’s new target for reopened schools is behind where U.S. is now, data show"
-    excerpt: "President Biden's new target for reopening schools -- having more than 50% of public schools offering at least one day of in-person classes a week -- is behind where the nation's public schools already are. "
-    publishedDateTime: 2021-02-11T03:28:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kl3yzNpKhGs/bidens-new-target-for-reopened-schools-is-behind-where-u-s-is-now-data-show"
-    ampWebUrl: "https://www.foxnews.com/politics/bidens-new-target-for-reopened-schools-is-behind-where-u-s-is-now-data-show.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-new-target-for-reopened-schools-is-behind-where-u-s-is-now-data-show.amp"
+  - title: "Biden DHS nominee Mayorkas says ICE should not be defunded, despite liberal calls"
+    excerpt: "Alejandro Mayorkas, President-elect Joe Biden’s pick to lead the Department of Homeland Security, said Tuesday that Immigration and Customs Enforcement (ICE) should not be defunded -- while punting on whether parts of the border wall should be dismantled."
+    publishedDateTime: 2021-01-19T18:53:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-dhs-nominee-mayorkas-ice-border-wall"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-dhs-nominee-mayorkas-ice-border-wall.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-dhs-nominee-mayorkas-ice-border-wall.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 171
+    quality: 130
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4e468e48-daf4-48c9-b172-5e8ae98b3f4a/e9d7c456-73c0-43ba-9de5-5359a023293c/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7baa239c-c9dc-4831-889a-81c96eec5853/f9d51ab7-a9dd-45a8-887e-17b573376bce/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden admin erects tent city in Texas to handle influx of illegal immigrants"
-    excerpt: "The Biden administration announced this week that it opened a soft-sided facility for immigrants in Donna, Texas, as Republican lawmakers warn of a “rising crisis” at the U.S.-Mexico border."
-    publishedDateTime: 2021-02-11T00:00:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-admin-tent-city-texas-illegal-immigrants"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-tent-city-texas-illegal-immigrants.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-tent-city-texas-illegal-immigrants.amp"
+  - title: "Biden labor secretary nominee once linked to federal probe of union strong-arm tactics"
+    excerpt: "Walsh faced scrutiny in 2016 after the Boston Globe reported that his name had surfaced during a federal investigation into allegations that unions had improperly pressured developers and businesses to hire union workers for their projects."
+    publishedDateTime: 2021-01-11T21:29:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-labor-secretary-nominee-federal-probe-union-strong-arm-tactics"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-labor-secretary-nominee-federal-probe-union-strong-arm-tactics.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-labor-secretary-nominee-federal-probe-union-strong-arm-tactics.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 132
+    quality: 127
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/52334b32-16cb-4d2a-b31d-a7d4fdb3a6b1/68c321f8-4a31-4940-9404-549a71453d54/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/202402d4-6106-46ae-a764-2c7fa6dc8963/4f9b4123-49d8-41a5-af1a-c3c229485753/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

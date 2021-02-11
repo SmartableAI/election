@@ -669,6 +669,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Budget office expects $2.3T deficit before Biden relief plan"
+    excerpt: "The Congressional Budget Office says the federal government is on track for a $2.3 trillion deficit this year, down roughly $900 billion from last year when the coronavirus caused Congress to provide"
+    publishedDateTime: 2021-02-11T20:17:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/budget-office-expects-23t-deficit-biden-relief-plan-75834040"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/budget-office-expects-23t-deficit-biden-relief-plan-75834040"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/budget-office-expects-23t-deficit-biden-relief-plan-75834040"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_b8f705ea670d4b33b3bb5d970458a999_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden to meet Republicans on COVID-19 plan in test of bipartisan approach"
     excerpt: "President Joe Biden will meet 10 moderate Republican senators on Monday to discuss their proposal to shrink his sweeping $1.9 trillion U.S. COVID-19 relief package, even as Democrats prepare to push legislation through Congress without Republican support."
     publishedDateTime: 2021-02-01T20:31:00Z
@@ -1352,6 +1368,6 @@ related:
         height: 800
         isCached: true
 
-secured: "IlkqGWSrcvkDW1hCoAm8liqZHmAMYcDsVR6Vkh+b2wCW6RORGyvTKqt+2SBx1HLqwmNw7UB4JztOIdNvIKXPSBXyFrY+okFoCNjskYPERcpgnyPbw9IMQQgAG6e+bq0kgdRU0B9Kb2ueX7tz+qLENgQQiEPns79m3zTr0SiwIcJNco6pq9nsri25ckPhszyBeSxLmW3d+ZxvWqb/O7RDDS0LHDEG1XAiyDrzmzEOueCo0q19yMplaDbfNoylnCFCxnqe+qCJGj8OJsnHebwdKdVH9jZG5OEA6HF0K12CSmG6fv+ZxtsoAtcxOcTtfmqPUgaOEjl0wQtmlQ4DZxdyN2LV302dvVCo4e+h/SSBvmc=;htTzzJzH0giUSMOXSEU3hQ=="
+secured: "kJ44zhuISEG84zBa98HUlvHRXzxXK/yqo6M0QFAs7E1CqLgr01xZO7Gu6QECe/uRxXVNMa35vf2Dl1ys6/ARdyEibpsht8v/xOBPvaW3Oz8qigLvaZyINL9GHu7wRItRaIFzE38J2pBAREsM1wESpOJjIyiYy6J8hYnYD0VJEVWWijT+w/y4xr8f+x3VSigB0eHEvauimOiufUsskPuh+tNw7y3OxZaEsgdiUw8Rit+ghYZFalztn+LuHjWaCMpq401kbw+IEtfV0q1Subr0gMv7mOPop3XVPfYTV3vSLofM8Nb33j/e/bw1yEeIIFDiCRmHOsv6cibAts/hh3F/OO5jy+WFLljOAJXG9I0vOUXc1hvchxC+ojnJ1S4vtsr+F8ENt/rkhspXfQemBq3gFd/LSYYZlR37F1mxTvvw/nK3ZPEKHx42T3A2RZ52E+6NmGZ637zx5farKw0mgHTunCtuJuLA923UteHWlRUhIg2Y8hCnRr87XTUcfUg//Xfsfgbwl7gKSXQE7apbimkzjw==;rOnfD7RN5j/A7NHkEz0dQA=="
 ---
 

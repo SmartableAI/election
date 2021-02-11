@@ -223,6 +223,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Democratic Impeachment Manager Focuses on Trump's Lack of Remorse"
+    excerpt: "Rep. Ted Lieu (D., Calif.) delivered a lengthy criticism of the absence of any remorse in former President Donald Trump's comments in the wake of the Capitol riot. Mr. Trump—at the urging of his advisers,"
+    publishedDateTime: 2021-02-11T22:26:00Z
+    webUrl: "https://www.wsj.com/livecoverage/trump-second-impeachment-trial-2021-02-11/card/KVd2BdFohOGHZvdbtX3h"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 115
+    images:
+      - url: "https://images.wsj.net/im-298161?size=1.5"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "pFYgHgKQzFHDUi3ZYgWamRz8esy7BoG4N8oVlsW6bxZSfE7kHYIXu4VeC9RffhB8q8h0/4/DgOUXguLvJmL1A/RkXyMlY5rcziuFCNAMWVU9O+NiO/q9uXA4ywhapUJDEQzh6Qs2FmekupS0ubKDXrUWT8KY7SFieoUvMs6RHeEroOGGkzfuHoi550DCnoT1RKVC9FWnpCZyNGNEoc1FZVYbxIXngq9W64tZhCgdUJPlZAd0tPAPq9Y2t0pnSz+v6+oMvPr5CLvhPQx2GMTc5RfRDdFGhklmDOs+yHDbLN4Qenle/0VgUgsrKXwZtVSYvbCeLQHBrt5OnfF9tAQSewCliOnsFzBAsv+Jv66YcvE=;xp1xemnTARlevSgkw4ZUHg=="
 ---

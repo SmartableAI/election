@@ -2,6 +2,175 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-11-military-officials-were-unaware-of-potential-danger-to-pences-nuclear-football-during-capitol-riot.md",
+      "title": "Military officials were unaware of potential danger to Pence's 'nuclear football' during Capitol riot",
+      "excerpt": "Military officials overseeing the authorization process to launch nuclear weapons were unaware on January 6 that then-Vice President Mike Pence's military aide carrying the \"nuclear football\" was potentially in danger as rioters got close during the violent Capitol insurrection, according to a defense",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oggkB_k4niw/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oggkB_k4niw/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210211153147-impeachment-manager-exhibit-pence-0106-footage-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/11/politics/military-officials-were-unaware-pence-nuclear-football-riot/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/11/politics/military-officials-were-unaware-pence-nuclear-football-riot/index.html",
+      "publishedDateTime": "2021-02-11T14:39:42-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-dem-impeachment-managers-target-trump-lawyers-first-amendment-argument-calling-it-a-distraction.md",
+      "title": "Dem impeachment managers target Trump lawyers’ First Amendment argument, calling it a ‘distraction’",
+      "excerpt": "Lead House impeachment manager Rep. Jamie Raskin, D-Md., said that former President Trump’s lawyers’ argument that Trump was within his First Amendment rights when he peddled election fraud claims is a “completely irrelevant distraction.” ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/X-1zWuB7Wc8/dem-impeachment-managers-trump-lawyers-first-amendment",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/X-1zWuB7Wc8/dem-impeachment-managers-trump-lawyers-first-amendment",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 181,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/91491525-0758-4d76-835a-c083f18134c2/a25638d4-7eb7-4b4b-a3f0-92bf7307c604/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/dem-impeachment-managers-trump-lawyers-first-amendment.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dem-impeachment-managers-trump-lawyers-first-amendment.amp",
+      "publishedDateTime": "2021-02-11T14:16:27-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-north-carolina-man-charged-with-threatening-president-biden.md",
+      "title": "North Carolina man charged with threatening President Biden",
+      "excerpt": "Prosecutors say Kyle Reeves, 27, contacted the White House switchboard “multiple times” and “made threats against President Biden and others.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/IuP9CaXKTkE/north-carolina-man-charged-threatening-president-biden",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/IuP9CaXKTkE/north-carolina-man-charged-threatening-president-biden",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 355,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/445ed9ed-cd0c-41f3-83e6-58a88f7d11ba/8d88fc84-ae2d-47e0-a180-90c427f3db5e/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/north-carolina-man-charged-threatening-president-biden.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/north-carolina-man-charged-threatening-president-biden.amp",
+      "publishedDateTime": "2021-02-11T12:59:06-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-12-morning-mail-melbourne-cluster-grows-trumps-message-to-insurrectionists-crown-resignations.md",
       "title": "Morning mail: Melbourne cluster grows, Trump's message to insurrectionists, Crown resignations",
       "excerpt": "Two more Covid cases linked to the Holiday Inn quarantine hotel. Plus: simple strategies to cope with bluebottles",
@@ -541,7 +710,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 395,
+      "heat": 415,
       "tags": null,
       "images": [
         {
@@ -1138,7 +1307,7 @@
       "originalUrl": "https://www.latimes.com/politics/story/2021-02-11/meena-branding-business-kamala-harris-niece",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 155,
       "tags": null,
       "images": [
         {
@@ -1179,171 +1348,6 @@
       "topics": [
         "Election",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-trump-team-fires-back-at-dems-claims-they-too-have-used-fight-like-hell-rhetoric.md",
-      "title": "Trump team fires back at Dems, claims they too have used ‘fight like hell’ rhetoric",
-      "excerpt": "The Trump team turned the tables on the Democratic Party’s impeachment managers on Wednesday, after they claimed once again that the former president’s \"fight like hell\" rhetoric at a Jan. 6 rally in Washington helped spark the riot at the U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/trump-team-fires-back-at-dems-claims-they-too-have-used-fight-like-hell-rhetoric",
-      "originalUrl": "https://www.foxnews.com/us/trump-team-fires-back-at-dems-claims-they-too-have-used-fight-like-hell-rhetoric",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Raskin-Neguse-Swallwell-Lieu-AP.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/trump-team-fires-back-at-dems-claims-they-too-have-used-fight-like-hell-rhetoric.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/trump-team-fires-back-at-dems-claims-they-too-have-used-fight-like-hell-rhetoric.amp",
-      "publishedDateTime": "2021-02-11T02:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-harrowing-new-footage-shows-how-close-the-mob-got-to-pence-congress-and-staff-during-jan-6-assault.md",
-      "title": "Harrowing new footage shows how close the mob got to Pence, Congress and staff during Jan. 6 assault",
-      "excerpt": "Previously unseen footage at Trump's impeachment trial showed in vivid detail how close the mob came to lawmakers, staffers and Mike Pence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/02/10/trump-impeachment-trial-capitol-mob-videos-show-violence-jan-6/6712324002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/02/10/trump-impeachment-trial-capitol-mob-videos-show-violence-jan-6/6712324002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/02/09/USAT/728f2a02-9d16-43e1-8386-e68430035a42-GettyImages-1230462786.jpg?auto=webp&crop=2999,1687,x0,y300&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6712324002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6712324002",
-      "publishedDateTime": "2021-02-11T00:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-warren-says-republicans-who-stand-with-trump-must-be-stopped.md",
-      "title": "Warren says Republicans who stand with Trump ‘must be stopped’",
-      "excerpt": "Sen. Elizabeth Warren, D-Mass, said Wednesday that she believed the Democrat impeachment managers made a compelling case against former President Trump and any Republican who stands with him “must be stopped.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pcGPrDMtmHU/warren-says-republicans-who-stand-with-trump-must-be-stopped",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pcGPrDMtmHU/warren-says-republicans-who-stand-with-trump-must-be-stopped",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/warren-says-republicans-who-stand-with-trump-must-be-stopped.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/warren-says-republicans-who-stand-with-trump-must-be-stopped.amp",
-      "publishedDateTime": "2021-02-10T22:43:11-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

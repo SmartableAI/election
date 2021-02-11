@@ -2,6 +2,114 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-02-09-house-managers-reject-trump-impeachment-brief-he-betrayed-the-american-people-live.md",
+      "title": "House managers reject Trump impeachment brief: 'He betrayed the American people' – live",
+      "excerpt": "Polling shows slim majority of Americans want Trump convicted and barred from office",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/feb/08/donald-trump-impeachment-trial-senate-covid-coronavirus-joe-biden-live-updates?page=with:block-602169868f080f5eb75b712c",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/feb/08/donald-trump-impeachment-trial-senate-covid-coronavirus-joe-biden-live-updates?page=with:block-602169868f080f5eb75b712c",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/f53e10ada477be2183e26f567e2cac2af4414528/271_94_5297_3178/master/5297.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=fb527600bf70b7acda51a2517a391f50",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/feb/08/donald-trump-impeachment-trial-senate-covid-coronavirus-joe-biden-live-updates",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/08/donald-trump-impeachment-trial-senate-covid-coronavirus-joe-biden-live-updates",
+      "publishedDateTime": "2021-02-08T12:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-08-sen-tim-scott-trump-is-simply-not-guilty-on-impeachment.md",
+      "title": "Sen. Tim Scott: Trump is 'simply not guilty' on impeachment",
+      "excerpt": "Former President Donald Trump is \"simply not guilty\" of inciting an insurrection against the United States government, Sen. Tim Scott R-S.C., told \"America Reports\" on Monday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gZQdaYx5Da4/scott-trump-not-guilty-impeachment-capitol-riot-insurrection",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gZQdaYx5Da4/scott-trump-not-guilty-impeachment-capitol-riot-insurrection",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 435,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c41e6643-43ee-4b90-928e-e0bc1aa3e5e3/db663e37-4342-47eb-81fd-c95d6e5a9278/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/scott-trump-not-guilty-impeachment-capitol-riot-insurrection.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/scott-trump-not-guilty-impeachment-capitol-riot-insurrection.amp",
+      "publishedDateTime": "2021-02-08T11:55:57-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-09-donald-trump-jr-slams-super-bowl-2021-commercials-as-woketopia.md",
       "title": "Donald Trump Jr. slams Super Bowl 2021 commercials as 'woketopia'",
       "excerpt": "Donald Trump Jr. wasn’t impressed with the Super Bowl 2021 commercial lineup. The son of former president Donald Trump tuned into the big game between the Tampa Bay Buccaneers and the Kansas City Chiefs on Sunday but was rolling his eyes at the broadcast almost immediately at the typically sought after ad breaks.",
@@ -113,6 +221,62 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-08-bidens-ban-on-oil-and-gas-leases-on-federal-lands-a-direct-attack-on-wyoming-says-governor.md",
+      "title": "Biden’s ban on oil and gas leases on federal lands a 'direct attack' on Wyoming, says governor",
+      "excerpt": "Wyoming Governor Mark Gordon called President Joe Biden’s executive order restricting the oil and gas industry a \"direct attack\" on Wyoming that will lead to a significant revenue loss for his state.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eWZdWnRZZC0/biden-order-oil-gas-devastating-wyoming-governor",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eWZdWnRZZC0/biden-order-oil-gas-devastating-wyoming-governor",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5bc8ed77-7b1c-4576-a05c-0510dde3bc53/d9d2eed5-2f56-461c-b084-f8c607445d29/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-order-oil-gas-devastating-wyoming-governor.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-order-oil-gas-devastating-wyoming-governor.amp",
+      "publishedDateTime": "2021-02-08T09:39:03-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
       ]
     },
     {
@@ -228,25 +392,25 @@
       ]
     },
     {
-      "path": "_news/2021-02-08-biden-officials-believe-china-to-be-greatest-long-term-national-security-threat-to-the-us-mccaul-says.md",
-      "title": "Biden officials believe China to be 'greatest long-term national security threat' to the US, McCaul says",
-      "excerpt": "President Biden’s Secretary of State Tony Blinken and White House national security adviser Jake Sullivan believe that China poses the \"greatest long-term national security threat to the United States,\" Republican Rep. Michael McCaul told Fox News after speaking with the officials, but McCaul said they",
+      "path": "_news/2021-02-08-cotton-bidens-liberal-media-friends-finally-coming-around-to-calling-for-wuhan-lab-investigation.md",
+      "title": "Cotton: Biden's liberal media 'friends' finally coming around to calling for Wuhan lab investigation",
+      "excerpt": "Ark., said Monday that he was \"glad to see Joe Biden singing a different tune\" in regards to the US' foreign policy stance on China, but criticized the President for not outlining what the specifics of his strategy might be.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-r4ctYVB8kU/biden-national-security-officials-believe-china-greatest-long-term-threat-mccaul",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-r4ctYVB8kU/biden-national-security-officials-believe-china-greatest-long-term-threat-mccaul",
+      "webUrl": "https://www.foxnews.com/media/biden-china-wuhan-lab-coronavirus-investigation-cotton",
+      "originalUrl": "https://www.foxnews.com/media/biden-china-wuhan-lab-coronavirus-investigation-cotton",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 178,
+      "heat": 120,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f82d77b7-fe6c-4f60-ab9e-a63cff8cef75/1518879f-32d2-4235-8fa1-dcc95e691b26/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -254,9 +418,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-national-security-officials-believe-china-greatest-long-term-threat-mccaul.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-national-security-officials-believe-china-greatest-long-term-threat-mccaul.amp",
-      "publishedDateTime": "2021-02-08T05:55:08-08:00",
+      "ampWebUrl": "https://www.foxnews.com/media/biden-china-wuhan-lab-coronavirus-investigation-cotton.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/biden-china-wuhan-lab-coronavirus-investigation-cotton.amp",
+      "publishedDateTime": "2021-02-08T06:59:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -280,6 +444,7 @@
       ],
       "topics": [
         "Election",
+        "Joe Biden",
         "Republican Voice"
       ]
     },
@@ -729,62 +894,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-07-biden-ignoring-federal-law-with-sweeping-executive-orders-texas-ag-paxton-says.md",
-      "title": "Biden 'ignoring' federal law with sweeping executive orders, Texas AG Paxton says",
-      "excerpt": "President Biden is 'ignoring' federal law with sweeping executive orders on immigration he has signed since taking office, Texas Attorney General Ken Paxton said Sunday, creating a \"huge risk\" for his state.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/efSK98pzuys/biden-executive-orders-immigration-texas-border",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/efSK98pzuys/biden-executive-orders-immigration-texas-border",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 190,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ffc4fcc1-a4f7-4a53-b0c3-c748cac9db17/e733cdef-0d62-48b4-9468-e0bf4017671e/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-executive-orders-immigration-texas-border.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-executive-orders-immigration-texas-border.amp",
-      "publishedDateTime": "2021-02-07T09:50:21-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-02-07-sen-murphy-we-have-a-constitutional-responsibility-to-hold-trumps-trial.md",
       "title": "Sen. Murphy: 'We have a constitutional responsibility' to hold Trump's trial",
       "excerpt": "Sen. Chris Murphy, D-Conn., argued on Sunday that the Senate has “a constitutional responsibility” to hold the impeachment trial of former President Donald Trump.",
@@ -1109,62 +1218,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-06-official-tasked-with-briefing-biden-reportedly-defended-cias-false-intel-about-torture-effectiveness.md",
-      "title": "Official tasked with briefing Biden reportedly defended CIA’s false intel about torture effectiveness",
-      "excerpt": "The CIA official in charge of overseeing President Biden’s daily intelligence briefing reportedly lead a standoff between the CIA and the Senate Intelligence Committee.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/S4gwWVugYEk/official-briefing-biden-cia-false-intel-torture-effectiveness",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/S4gwWVugYEk/official-briefing-biden-cia-false-intel-torture-effectiveness",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4c1c9f88-8491-4368-aaae-00f24e45654b/7c18c51d-3b0e-47d0-b6e0-deaee4ae7030/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/official-briefing-biden-cia-false-intel-torture-effectiveness.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/official-briefing-biden-cia-false-intel-torture-effectiveness.amp",
-      "publishedDateTime": "2021-02-06T14:04:36-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-02-06-ivanka-trumps-political-re-emergence-would-likely-center-on-criminal-justice-reform-work-report.md",
       "title": "Ivanka Trump’s political re-emergence would likely center on criminal justice reform work: report",
       "excerpt": "Ivanka Trump helped to secure pardons and commutations for over 140 in her father’s final days in office, and could champion criminal justice reform in a new foray into politics. ",
@@ -1322,63 +1375,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-02-06-harris-flexes-power-as-senate-tiebreaker.md",
-      "title": "Harris flexes power as Senate tiebreaker",
-      "excerpt": "Early Friday morning, Vice President Kamala Harris did something Joe Biden never did in his eight years as vice president -- cast a tie-breaking vote.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Wz-Iz1Zy3xE/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Wz-Iz1Zy3xE/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 325,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210205191617-harris-breaks-tie-screengrab-0205-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/06/politics/kamala-harris-senate-tie-breaking-vote/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/06/politics/kamala-harris-senate-tie-breaking-vote/index.html",
-      "publishedDateTime": "2021-02-06T06:58:27-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Kamala Harris"
       ]
     }
   ],

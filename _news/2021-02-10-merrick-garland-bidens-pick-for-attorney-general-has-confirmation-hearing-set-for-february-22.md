@@ -127,6 +127,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "North Carolina man charged with threatening to kill President Biden"
+    excerpt: "A North Carolina man has been charged with making threats to kill President Joe Biden, according to a federal criminal complaint unsealed in court Thursday."
+    publishedDateTime: 2021-02-11T22:51:00Z
+    webUrl: "https://www.cnn.com/2021/02/11/us/man-charged-with-threatening-to-kill-president/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/11/us/man-charged-with-threatening-to-kill-president/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/11/us/man-charged-with-threatening-to-kill-president/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210211174357-charlotte-federal-courthouse-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden on impact of impeachment trial videos: 'Some minds may have been changed'"
     excerpt: "When asked about former President Donald Trump's Senate impeachment trial, President Joe Biden said that he was focused on \"jobs and infrastructure,\" but he guessed that \"some minds may have been changed\" after seeing the videos that were presented by the House managers yesterday."
     publishedDateTime: 2021-02-11T16:32:00Z

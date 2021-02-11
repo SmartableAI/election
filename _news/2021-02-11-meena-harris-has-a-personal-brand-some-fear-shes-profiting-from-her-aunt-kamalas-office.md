@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/politics/story/2021-02-11/meena-branding-bus
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-02-11/meena-branding-business-kamala-harris-niece?_amp=true"
 type: article
 quality: 115
-heat: 135
+heat: 155
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Kamala Harris brings a new meaning to power-dressing"
+    excerpt: "Vice President Kamala Harris is harnessing interest in her style by spotlighting Black fashion designers and brands owned by immigrants."
+    publishedDateTime: 2021-02-11T22:42:00Z
+    webUrl: "https://www.insider.com/kamala-harris-meaning-behind-her-style-as-vice-president-2021-1"
+    ampWebUrl: "https://www.insider.com/kamala-harris-meaning-behind-her-style-as-vice-president-2021-1?amp"
+    cdnAmpWebUrl: "https://www-insider-com.cdn.ampproject.org/c/s/www.insider.com/kamala-harris-meaning-behind-her-style-as-vice-president-2021-1?amp"
+    type: article
+    provider:
+      name: insider
+      domain: insider.com
+    quality: 75
+    images:
+      - url: "https://i.insider.com/601abcf001504a00197fb5b7?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Columbia’s Benjamin among mayors who met virtually with VP Kamala Harris on Wednesday"
     excerpt: "A group of African American mayors met with the vice president for a talk about the Biden administration’s proposed “Rescue Plan” COVID relief package."
     publishedDateTime: 2021-02-11T15:18:00Z

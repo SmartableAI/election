@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump is already shaping the 2022 Senate battle"
+    excerpt: "The 2022 election cycle could extend the Republican Party's embrace of former President Donald Trump, despite the fears of some Republicans who hope to return to a party organized around conservative principles rather than his personality.\n    \n"
+    publishedDateTime: 2021-02-11T21:11:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nq8xfeb98CY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/11/politics/2022-senate-elections-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/11/politics/2022-senate-elections-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201231163449-trump-final-days-early-white-house-return-election-results-collins-dnt-lead-vpx-00003317-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Arkansas Lt. Gov. Tim Griffin exits governor's race in a sign of Trump-backed Huckabee Sanders' strength"
     excerpt: "Arkansas Lt. Gov. Tim Griffin departed the 2022 governor's race Monday, opting instead to run for attorney general, in a move that signals former White House press secretary Sarah Huckabee Sanders' strength just two weeks after she announced her campaign.\n    \n"
     publishedDateTime: 2021-02-08T18:36:11Z

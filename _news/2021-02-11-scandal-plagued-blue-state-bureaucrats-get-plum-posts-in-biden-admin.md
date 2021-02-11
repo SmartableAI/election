@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/scandal-plagued-blue-state-bureaucr
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/scandal-plagued-blue-state-bureaucrats-get-plum-posts-in-biden-admin.amp"
 type: article
 quality: 175
-heat: 275
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "North Carolina man charged with threatening President Biden"
+    excerpt: "Prosecutors say Kyle Reeves, 27, contacted the White House switchboard “multiple times” and “made threats against President Biden and others.”"
+    publishedDateTime: 2021-02-11T20:59:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IuP9CaXKTkE/north-carolina-man-charged-threatening-president-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/north-carolina-man-charged-threatening-president-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/north-carolina-man-charged-threatening-president-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/445ed9ed-cd0c-41f3-83e6-58a88f7d11ba/8d88fc84-ae2d-47e0-a180-90c427f3db5e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Psaki pressed on Biden admin not deporting illegal immigrants who drive drunk"
     excerpt: "White House Press Secretary Jen Psaki was asked on Monday about pending guidance that would spare some illegal immigrants convicted of less serious offenses from deportation"
     publishedDateTime: 2021-02-09T01:01:17Z
@@ -44,22 +60,6 @@ related:
     quality: 172
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/98c9f18a-40b4-4c42-a1b2-22fe7d7091a6/c2ad6e60-a0b7-4ef0-8983-5fb23af6b0e5/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden admin erects tent city in Texas to handle influx of illegal immigrants"
-    excerpt: "The Biden administration announced this week that it opened a soft-sided facility for immigrants in Donna, Texas, as Republican lawmakers warn of a “rising crisis” at the U.S.-Mexico border."
-    publishedDateTime: 2021-02-10T23:48:18Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KDVywhq6xKM/biden-admin-tent-city-texas-illegal-immigrants"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-tent-city-texas-illegal-immigrants.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-tent-city-texas-illegal-immigrants.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/52334b32-16cb-4d2a-b31d-a7d4fdb3a6b1/68c321f8-4a31-4940-9404-549a71453d54/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -79,37 +79,99 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden budget nominee Neera Tanden could face testy hearings amid scrutiny of inflammatory tweets"
-    excerpt: "President Biden's pick for director of the White House Office of Management and Budget could find herself in unfriendly territory when she sits for two confirmation hearings this week after a history of enmity with lawmakers on both sides of the aisle."
-    publishedDateTime: 2021-02-08T17:23:37Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sdI3mwgwmzI/biden-budget-nominee-neera-tanden-confirmation-hearings-tweets"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-budget-nominee-neera-tanden-confirmation-hearings-tweets.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-budget-nominee-neera-tanden-confirmation-hearings-tweets.amp"
+  - title: "Biden dodges question about punishing China over handling of coronavirus pandemic"
+    excerpt: "Fox News reporter Peter Doocy asked Biden whether he had any interest in punishing for failing to disclose critical information related to the pandemic’s severity."
+    publishedDateTime: 2021-02-11T02:03:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rRKjrfUZzlw/biden-sidesteps-question-punishing-china-handling-coronavirus-pandemic"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-sidesteps-question-punishing-china-handling-coronavirus-pandemic.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-sidesteps-question-punishing-china-handling-coronavirus-pandemic.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 162
+    quality: 170
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ecb90e26-1a7c-435c-9c19-1954f1794e4a/6028a03c-dc91-4110-b09d-e04c086c1e52/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cfaaa6e4-0f14-44f4-b46a-9fee512596fb/2bafbcb8-cbc3-41a0-ac8a-29d5d0125fad/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden admin erects tent city in Texas to handle influx of illegal immigrants"
-    excerpt: "The Biden administration announced this week that it opened a soft-sided facility for immigrants in Donna, Texas, as Republican lawmakers warn of a “rising crisis” at the U.S.-Mexico border."
-    publishedDateTime: 2021-02-11T00:00:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-admin-tent-city-texas-illegal-immigrants"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-tent-city-texas-illegal-immigrants.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-tent-city-texas-illegal-immigrants.amp"
+  - title: "Biden unveils China task force at Pentagon to 'chart a strong path forward' on Beijing"
+    excerpt: "President Biden revealed Wednesday that the Department of Defense has established a wide-ranging task force that will conduct a strategic review of his administration’s strategy toward China amid mounting tensions in the Pacific."
+    publishedDateTime: 2021-02-10T22:58:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vSCIRICIVFw/biden-china-task-force-pentagon-strong-path-forward-beijing"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-china-task-force-pentagon-strong-path-forward-beijing.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-china-task-force-pentagon-strong-path-forward-beijing.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 132
+    quality: 167
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/52334b32-16cb-4d2a-b31d-a7d4fdb3a6b1/68c321f8-4a31-4940-9404-549a71453d54/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6f8ed1a6-fe3a-4544-ba64-ed369cff65e9/5278d9ba-b2d6-4465-b58a-3321e6ae1e1c/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Official tasked with briefing Biden reportedly defended CIA’s false intel about torture effectiveness"
+    excerpt: "The CIA official in charge of overseeing President Biden’s daily intelligence briefing reportedly lead a standoff between the CIA and the Senate Intelligence Committee."
+    publishedDateTime: 2021-02-06T22:04:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/S4gwWVugYEk/official-briefing-biden-cia-false-intel-torture-effectiveness"
+    ampWebUrl: "https://www.foxnews.com/politics/official-briefing-biden-cia-false-intel-torture-effectiveness.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/official-briefing-biden-cia-false-intel-torture-effectiveness.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4c1c9f88-8491-4368-aaae-00f24e45654b/7c18c51d-3b0e-47d0-b6e0-deaee4ae7030/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden officials believe China to be 'greatest long-term national security threat' to the US, McCaul says"
+    excerpt: "President Biden’s Secretary of State Tony Blinken and White House national security adviser Jake Sullivan believe that China poses the \"greatest long-term national security threat to the United States,\" Republican Rep. Michael McCaul told Fox News after speaking with the officials, but McCaul said they"
+    publishedDateTime: 2021-02-08T13:55:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-r4ctYVB8kU/biden-national-security-officials-believe-china-greatest-long-term-threat-mccaul"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-national-security-officials-believe-china-greatest-long-term-threat-mccaul.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-national-security-officials-believe-china-greatest-long-term-threat-mccaul.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden lays out 'prescription' for U.S.-China relations in first call with Xi Jinping since taking office"
+    excerpt: "President Biden spoke with Chinese President Xi Jinping for the first time Wednesday night since taking office, outlining his administration’s “core concerns” with China’s “practices, aggressive activities and abuses,” signaling a “clear and consistent subscription to American values,” while discussing"
+    publishedDateTime: 2021-02-11T02:18:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BOtbYHy0cQA/biden-in-first-call-with-xi-jinping-outlines-us-china-policy-core-concerns-of-chinas-abuses"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-in-first-call-with-xi-jinping-outlines-us-china-policy-core-concerns-of-chinas-abuses.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-in-first-call-with-xi-jinping-outlines-us-china-policy-core-concerns-of-chinas-abuses.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "President Biden: \"We're Still In The Teeth Of This Pandemic,\" Congress Must Pass Relief Bill Now"
+    excerpt: "President Biden called on Congress to act quickly to pass his proposal for a $1.9 trillion coronavirus relief package on Friday, in a speech following a weak January jobs report. Biden vowed that he would follow through on his campaign promise to provide Americans with $2,"
+    publishedDateTime: 2021-02-05T20:06:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/02/05/president_biden_were_still_in_the_teeth_of_this_pandemic_congress_must_pass_relief_bill_now.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 52
+    images:
+      - url: "https://assets.realclear.com/images/53/534454.jpg"
+        width: 5220
+        height: 3480
         isCached: true
 
 secured: "q7+/FAdmpT5Z12/pW7NZWmEde8MXWh0J1kxMmw8IZGPjNV4FetuxRlySS4x3sV8SYYCDpGfN8OIDJMIiyHljRftoY4OAlHjy5O0bU4C/6ElUlQYRnfpJdEGwR3JTlCmDblB+WDyQ+jzqkULzwdnLIoqWKTcP1AIlEFNftNtFECKSpWc92ocLqVwy7Lc5Tseg6zSQfDBw6FYvzY5k7o42CKj9RHvr1pKZ9w7YcYF32ujlhiWKTFR93TICpVVZaprYaSPD6BKo8cjuDwPrRpjExiQsDSoJnNr6qGYKDCQdQbI1lsKT2fyY+F6ODyt6x9jf7fGA9sPS70iQ9fwSlfMPOdGIEL7LhGi0QkL+iKfmfFI=;gkLTxmkOHDfDXBrISsSJuA=="

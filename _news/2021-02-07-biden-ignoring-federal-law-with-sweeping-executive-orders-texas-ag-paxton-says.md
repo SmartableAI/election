@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-executive-orders-immigration-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-executive-orders-immigration-texas-border.amp"
 type: article
 quality: 170
-heat: 190
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,19 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "Biden’s ban on oil and gas leases on federal lands a 'direct attack' on Wyoming, says governor"
-    excerpt: "Wyoming Governor Mark Gordon called President Joe Biden’s executive order restricting the oil and gas industry a \"direct attack\" on Wyoming that will lead to a significant revenue loss for his state."
-    publishedDateTime: 2021-02-08T17:39:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eWZdWnRZZC0/biden-order-oil-gas-devastating-wyoming-governor"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-order-oil-gas-devastating-wyoming-governor.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-order-oil-gas-devastating-wyoming-governor.amp"
+  - title: "Biden admin erects tent city in Texas to handle influx of illegal immigrants"
+    excerpt: "The Biden administration announced this week that it opened a soft-sided facility for immigrants in Donna, Texas, as Republican lawmakers warn of a “rising crisis” at the U.S.-Mexico border."
+    publishedDateTime: 2021-02-10T23:48:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KDVywhq6xKM/biden-admin-tent-city-texas-illegal-immigrants"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-tent-city-texas-illegal-immigrants.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-tent-city-texas-illegal-immigrants.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 163
+    quality: 172
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5bc8ed77-7b1c-4576-a05c-0510dde3bc53/d9d2eed5-2f56-461c-b084-f8c607445d29/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/52334b32-16cb-4d2a-b31d-a7d4fdb3a6b1/68c321f8-4a31-4940-9404-549a71453d54/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden admin erects tent city in Texas to handle influx of illegal immigrants"
+    excerpt: "The Biden administration announced this week that it opened a soft-sided facility for immigrants in Donna, Texas, as Republican lawmakers warn of a “rising crisis” at the U.S.-Mexico border."
+    publishedDateTime: 2021-02-11T00:00:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-admin-tent-city-texas-illegal-immigrants"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-tent-city-texas-illegal-immigrants.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-tent-city-texas-illegal-immigrants.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 132
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/52334b32-16cb-4d2a-b31d-a7d4fdb3a6b1/68c321f8-4a31-4940-9404-549a71453d54/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

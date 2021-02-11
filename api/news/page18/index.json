@@ -2,6 +2,101 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-01-19-progressive-indian-bistro-aurum-opens-in-los-altos-with-a-kamala-harris-tribute-feast.md",
+      "title": "Progressive Indian bistro Aurum opens in Los Altos with a Kamala Harris tribute feast",
+      "excerpt": "Now in Los Altos, he has teamed up with Anupam Bhatia, the restaurateur who founded Broadway Masala in Redwood City, to open a contemporary Indian bistro called Aurum. After a soft opening, Aurum — the name,",
+      "sourceUrl": null,
+      "webUrl": "https://www.mercurynews.com/2021/01/18/progressive-indian-bistro-aurum-opens-in-los-altos-with-a-kamala-harris-tribute-feast/",
+      "originalUrl": "https://www.mercurynews.com/2021/01/18/progressive-indian-bistro-aurum-opens-in-los-altos-with-a-kamala-harris-tribute-feast/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mercurynews.com/wp-content/uploads/2021/01/SJM-L-AURUM-0118.jpg?w=1024&h=683",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mercurynews.com/2021/01/18/progressive-indian-bistro-aurum-opens-in-los-altos-with-a-kamala-harris-tribute-feast/amp/",
+      "cdnAmpWebUrl": "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/01/18/progressive-indian-bistro-aurum-opens-in-los-altos-with-a-kamala-harris-tribute-feast/amp/",
+      "publishedDateTime": "2021-01-18T12:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mercury News",
+        "domain": "mercurynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-01-19-biden-picks-chopra-gensler-for-financial-oversight-roles.md",
+      "title": "Biden picks Chopra, Gensler for financial oversight roles",
+      "excerpt": "President-elect Joe Biden is set to nominate Rohit Chopra as the director of the Consumer Financial Protection Bureau, tapping a progressive ally of Sen. Elizabeth Warren to helm the agency whose crea",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/business/biden-picks-chopra-gensler-for-financial-oversight-roles/2021/01/18/b8d93334-5997-11eb-a849-6f9423a75ffd_story.html",
+      "originalUrl": "https://www.washingtonpost.com/business/biden-picks-chopra-gensler-for-financial-oversight-roles/2021/01/18/b8d93334-5997-11eb-a849-6f9423a75ffd_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/business/biden-picks-chopra-gensler-for-financial-oversight-roles/2021/01/18/b8d93334-5997-11eb-a849-6f9423a75ffd_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/biden-picks-chopra-gensler-for-financial-oversight-roles/2021/01/18/b8d93334-5997-11eb-a849-6f9423a75ffd_story.html?outputType=amp",
+      "publishedDateTime": "2021-01-18T11:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-01-18-majority-of-americans-think-history-will-view-trump-as-failed-president.md",
       "title": "Majority of Americans Think History Will View Trump as 'Failed' President",
       "excerpt": "Evaluating a president's time in office often requires a rearview mirror. While history has yet to weigh in on President Donald Trump's time in office, Americans don't see President Donald Trump receiving positive remarks down the road. After a contentious ...",
@@ -1227,105 +1322,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-17-acting-secretary-of-defense-orders-nsa-chief-to-install-trump-loyalist-as-agencys-general-counsel.md",
-      "title": "Acting secretary of defense orders NSA chief to install Trump loyalist as agency's general counsel",
-      "excerpt": "The acting secretary of defense is trying to install a Trump loyalist as the top lawyer at the National Security Agency, according to three sources familiar.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cnGOPz3S3Rc/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cnGOPz3S3Rc/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210116213644-nsa-file-2018-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/16/politics/nsa-counsel-michael-ellis-christopher-miller/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/16/politics/nsa-counsel-michael-ellis-christopher-miller/index.html",
-      "publishedDateTime": "2021-01-16T20:37:10-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-17-vp-mike-pence-wife-address-crowds-at-nas-lemoore.md",
-      "title": "VP Mike Pence, wife address crowds at NAS Lemoore",
-      "excerpt": "Second Lady of the United States Karen Pence visited Naval Air Station Lemoore Saturday to honor military spouses and address some of the struggles they",
-      "sourceUrl": null,
-      "webUrl": "https://hanfordsentinel.com/news/vp-mike-pence-wife-address-crowds-at-nas-lemoore/article_8d66d05e-d422-508c-912d-47712d97e72f.html",
-      "originalUrl": "https://hanfordsentinel.com/news/vp-mike-pence-wife-address-crowds-at-nas-lemoore/article_8d66d05e-d422-508c-912d-47712d97e72f.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/hanfordsentinel.com/content/tncms/assets/v3/editorial/f/0e/f0ed0c73-cfc4-51bb-9eb6-b00f30539eee/6003c3312530a.image.jpg?resize=1024%2C683",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://hanfordsentinel.com/news/vp-mike-pence-wife-address-crowds-at-nas-lemoore/article_8d66d05e-d422-508c-912d-47712d97e72f.amp.html",
-      "cdnAmpWebUrl": "https://hanfordsentinel-com.cdn.ampproject.org/c/s/hanfordsentinel.com/news/vp-mike-pence-wife-address-crowds-at-nas-lemoore/article_8d66d05e-d422-508c-912d-47712d97e72f.amp.html",
-      "publishedDateTime": "2021-01-16T20:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hanford Sentinel",
-        "domain": "hanfordsentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-09-biden-omb-pick-tanden-called-out-during-confirmation-hearing-for-anti-gop-tweets-says-im-sorry.md",
+      "title": "Biden OMB pick Tanden called out during confirmation hearing for anti-GOP tweets, says 'I'm sorry'",
+      "excerpt": "Minutes into her confirmation hearing, President Biden's nominee for director of the White House Office of Management and Budget Neera Tanden had to address concerns over hostile tweets she has posted against various Republican lawmakers.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vo_05fBHJPI/biden-omb-pick-tanden-confirmation-hearing-apology-anti-gop-tweets",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vo_05fBHJPI/biden-omb-pick-tanden-confirmation-hearing-apology-anti-gop-tweets",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 181,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Neera-Tanden-Biden-OMB-AP.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-omb-pick-tanden-confirmation-hearing-apology-anti-gop-tweets.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-omb-pick-tanden-confirmation-hearing-apology-anti-gop-tweets.amp",
+      "publishedDateTime": "2021-02-09T08:33:03-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-09-gingrich-senators-who-vote-to-convict-trump-take-part-in-profound-attack-on-the-american-system.md",
       "title": "Gingrich: Senators who vote to convict Trump take part in 'profound attack on the American system'",
       "excerpt": "Lawmakers who vote to convict former President Donald Trump of incitement of insurrection and bar him from holding office again would be engaged in a \"profound attack on the American system,\" former House Speaker Newt Gingrich told \"Hannity\" Monday night.",
@@ -295,7 +351,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 415,
+      "heat": 435,
       "tags": null,
       "images": [
         {
@@ -396,6 +452,62 @@
       ]
     },
     {
+      "path": "_news/2021-02-08-bidens-ban-on-oil-and-gas-leases-on-federal-lands-a-direct-attack-on-wyoming-says-governor.md",
+      "title": "Biden’s ban on oil and gas leases on federal lands a 'direct attack' on Wyoming, says governor",
+      "excerpt": "Wyoming Governor Mark Gordon called President Joe Biden’s executive order restricting the oil and gas industry a \"direct attack\" on Wyoming that will lead to a significant revenue loss for his state.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eWZdWnRZZC0/biden-order-oil-gas-devastating-wyoming-governor",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eWZdWnRZZC0/biden-order-oil-gas-devastating-wyoming-governor",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5bc8ed77-7b1c-4576-a05c-0510dde3bc53/d9d2eed5-2f56-461c-b084-f8c607445d29/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-order-oil-gas-devastating-wyoming-governor.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-order-oil-gas-devastating-wyoming-governor.amp",
+      "publishedDateTime": "2021-02-08T09:39:03-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-08-biden-sidesteps-trump-impeachment-trial-questions-let-the-senate-work-that-out.md",
       "title": "Biden sidesteps Trump impeachment trial questions: 'Let the Senate work that out’",
       "excerpt": "President Biden sidestepped questions about former President Donald Trump's impeachment trial, which is set to begin Tuesday, saying it is up to the Senate to \"work that out.\"",
@@ -452,25 +564,25 @@
       ]
     },
     {
-      "path": "_news/2021-02-08-biden-officials-believe-china-to-be-greatest-long-term-national-security-threat-to-the-us-mccaul-says.md",
-      "title": "Biden officials believe China to be 'greatest long-term national security threat' to the US, McCaul says",
-      "excerpt": "President Biden’s Secretary of State Tony Blinken and White House national security adviser Jake Sullivan believe that China poses the \"greatest long-term national security threat to the United States,\" Republican Rep. Michael McCaul told Fox News after speaking with the officials, but McCaul said they",
+      "path": "_news/2021-02-08-cotton-bidens-liberal-media-friends-finally-coming-around-to-calling-for-wuhan-lab-investigation.md",
+      "title": "Cotton: Biden's liberal media 'friends' finally coming around to calling for Wuhan lab investigation",
+      "excerpt": "Ark., said Monday that he was \"glad to see Joe Biden singing a different tune\" in regards to the US' foreign policy stance on China, but criticized the President for not outlining what the specifics of his strategy might be.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-r4ctYVB8kU/biden-national-security-officials-believe-china-greatest-long-term-threat-mccaul",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-r4ctYVB8kU/biden-national-security-officials-believe-china-greatest-long-term-threat-mccaul",
+      "webUrl": "https://www.foxnews.com/media/biden-china-wuhan-lab-coronavirus-investigation-cotton",
+      "originalUrl": "https://www.foxnews.com/media/biden-china-wuhan-lab-coronavirus-investigation-cotton",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 178,
+      "heat": 120,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f82d77b7-fe6c-4f60-ab9e-a63cff8cef75/1518879f-32d2-4235-8fa1-dcc95e691b26/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -478,9 +590,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-national-security-officials-believe-china-greatest-long-term-threat-mccaul.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-national-security-officials-believe-china-greatest-long-term-threat-mccaul.amp",
-      "publishedDateTime": "2021-02-08T05:55:08-08:00",
+      "ampWebUrl": "https://www.foxnews.com/media/biden-china-wuhan-lab-coronavirus-investigation-cotton.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/biden-china-wuhan-lab-coronavirus-investigation-cotton.amp",
+      "publishedDateTime": "2021-02-08T06:59:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -504,6 +616,7 @@
       ],
       "topics": [
         "Election",
+        "Joe Biden",
         "Republican Voice"
       ]
     },
@@ -676,62 +789,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-07-biden-ignoring-federal-law-with-sweeping-executive-orders-texas-ag-paxton-says.md",
-      "title": "Biden 'ignoring' federal law with sweeping executive orders, Texas AG Paxton says",
-      "excerpt": "President Biden is 'ignoring' federal law with sweeping executive orders on immigration he has signed since taking office, Texas Attorney General Ken Paxton said Sunday, creating a \"huge risk\" for his state.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/efSK98pzuys/biden-executive-orders-immigration-texas-border",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/efSK98pzuys/biden-executive-orders-immigration-texas-border",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 190,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ffc4fcc1-a4f7-4a53-b0c3-c748cac9db17/e733cdef-0d62-48b4-9468-e0bf4017671e/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-executive-orders-immigration-texas-border.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-executive-orders-immigration-texas-border.amp",
-      "publishedDateTime": "2021-02-07T09:50:21-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-02-07-sen-murphy-we-have-a-constitutional-responsibility-to-hold-trumps-trial.md",
       "title": "Sen. Murphy: 'We have a constitutional responsibility' to hold Trump's trial",
       "excerpt": "Sen. Chris Murphy, D-Conn., argued on Sunday that the Senate has “a constitutional responsibility” to hold the impeachment trial of former President Donald Trump.",
@@ -873,62 +930,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/ben-sasses-anti-trump-statements-draw-more-nebraska-backlash.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ben-sasses-anti-trump-statements-draw-more-nebraska-backlash.amp",
       "publishedDateTime": "2021-02-07T01:35:28-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-06-official-tasked-with-briefing-biden-reportedly-defended-cias-false-intel-about-torture-effectiveness.md",
-      "title": "Official tasked with briefing Biden reportedly defended CIA’s false intel about torture effectiveness",
-      "excerpt": "The CIA official in charge of overseeing President Biden’s daily intelligence briefing reportedly lead a standoff between the CIA and the Senate Intelligence Committee.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/S4gwWVugYEk/official-briefing-biden-cia-false-intel-torture-effectiveness",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/S4gwWVugYEk/official-briefing-biden-cia-false-intel-torture-effectiveness",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4c1c9f88-8491-4368-aaae-00f24e45654b/7c18c51d-3b0e-47d0-b6e0-deaee4ae7030/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/official-briefing-biden-cia-false-intel-torture-effectiveness.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/official-briefing-biden-cia-false-intel-torture-effectiveness.amp",
-      "publishedDateTime": "2021-02-06T14:04:36-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

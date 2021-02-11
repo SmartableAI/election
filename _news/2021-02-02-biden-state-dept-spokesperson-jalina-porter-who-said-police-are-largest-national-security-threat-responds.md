@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-state-department-jalina-porte
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-state-department-jalina-porter-police.amp"
 type: article
 quality: 156
-heat: -1
-published: false
+heat: 156
+published: true
 
 provider:
   name: Fox News
@@ -29,24 +29,6 @@ images:
     width: 640
     height: 320
     isCached: true
-
-related:
-  - title: "Biden officials believe China to be 'greatest long-term national security threat' to the US, McCaul says"
-    excerpt: "President Biden’s Secretary of State Tony Blinken and White House national security adviser Jake Sullivan believe that China poses the \"greatest long-term national security threat to the United States,\" Republican Rep. Michael McCaul told Fox News after speaking with the officials, but McCaul said they"
-    publishedDateTime: 2021-02-08T13:55:08Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-r4ctYVB8kU/biden-national-security-officials-believe-china-greatest-long-term-threat-mccaul"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-national-security-officials-believe-china-greatest-long-term-threat-mccaul.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-national-security-officials-believe-china-greatest-long-term-threat-mccaul.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 158
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
 
 secured: "fqEYulYQE5KPVi5GWxrih9h0DgEvY+c37sMji11BLk91Js8WNXAqSeanjR3JRtqRbGqa+WGISmT3jy1eBBk1TpB6eqiSfVZV6HQDTdfSbEoyT1Db6pcWJRMbacV25NsnnDb3aTvORfDvSJ3GwbMo+DLJg4cFseAqm1Z3V3ndC1HkVCGbQ6+FDWteF5H2ioiKVzu0cifHHL97zKHAGJUULHo2UEllpnF/fFN+6+Aoz+H74YOltt1hNtrjGjPmNOpJ+JtTzB0qRNgDMPugP1Nzd6k+1no2C6in0F/C3WvzQir12dmiRP52hytO6/Lnq+RucF9qrW4K3SFvcpq+Kmq78MHQKWSQm3hVg0EcpXqqTao=;WqmETZSTp23lE5vIpXWX6g=="
 ---
