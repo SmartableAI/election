@@ -1967,6 +1967,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Trump left behind a clemency mess. Advocates fear Biden’s not prioritizing it."
+    excerpt: "Lawyers and criminal justice advocates are pushing Biden to act swiftly. But Covid and the economy are pushing action back."
+    publishedDateTime: 2021-02-11T09:36:00Z
+    webUrl: "https://www.politico.com/news/2021/02/11/biden-clemency-criminal-justice-468539"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/02/11/biden-clemency-criminal-justice-468539"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/02/11/biden-clemency-criminal-justice-468539"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 146
+    images:
+      - url: "https://static.politico.com/aa/11/e1124d5b46a688ed0a1e9ca54dcb/gettyimages-1230804975-c.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Mexico’s Leader Forged an Unlikely Bond With Trump. Now He’s Looking Warily at Biden."
     excerpt: "President Andrés Manuel López Obrador came to appreciate President Trump’s hands-off style, and is already making waves with an incoming administration he expects to be more meddlesome."
     publishedDateTime: 2021-01-18T20:40:00Z

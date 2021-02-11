@@ -95,6 +95,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "How New Yorkers Are Shaping the Trump Impeachment Trial"
+    excerpt: "Helping set the rules is Chuck Schumer, the Senate majority leader, and other lawmakers from the state are lending their voices."
+    publishedDateTime: 2021-02-11T10:19:00Z
+    webUrl: "https://www.nytimes.com/2021/02/11/nyregion/impeachment-chuck-schumer.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/11/nyregion/impeachment-chuck-schumer.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/11/nyregion/impeachment-chuck-schumer.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/11/nyregion/11nytoday/11nytoday-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "The First Trial Seemed Abstract. This One Is a Visceral Reckoning Over Trump."
     excerpt: "At issue will be many aspects that defined Donald Trump’s presidency: his relentless assaults on truth, his fomenting of divisions, his shattering of norms and his undermining of an election."
     publishedDateTime: 2021-02-10T01:26:00Z

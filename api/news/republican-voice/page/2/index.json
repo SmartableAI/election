@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-08-biden-officials-believe-china-to-be-greatest-long-term-national-security-threat-to-the-us-mccaul-says.md",
+      "title": "Biden officials believe China to be 'greatest long-term national security threat' to the US, McCaul says",
+      "excerpt": "President Biden’s Secretary of State Tony Blinken and White House national security adviser Jake Sullivan believe that China poses the \"greatest long-term national security threat to the United States,\" Republican Rep. Michael McCaul told Fox News after speaking with the officials, but McCaul said they",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-r4ctYVB8kU/biden-national-security-officials-believe-china-greatest-long-term-threat-mccaul",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-r4ctYVB8kU/biden-national-security-officials-believe-china-greatest-long-term-threat-mccaul",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 178,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-national-security-officials-believe-china-greatest-long-term-threat-mccaul.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-national-security-officials-believe-china-greatest-long-term-threat-mccaul.amp",
+      "publishedDateTime": "2021-02-08T05:55:08-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-08-trump-wh-sign-language-interpreter-says-biden-administration-canceled-and-humiliated-her.md",
       "title": "Trump WH sign-language interpreter says Biden administration 'canceled and humiliated' her",
       "excerpt": "The White House sign-language interpreter who was outed as a supporter of former President Donald Trump said Sunday that she hasn’t been offered a return engagement since — and blasted critics who attacked her credibility and professionalism.",
@@ -1602,62 +1658,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/sen-kaine-tables-trump-reasonable-censure-resolution-for-lack-of-support.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-kaine-tables-trump-reasonable-censure-resolution-for-lack-of-support.amp",
       "publishedDateTime": "2021-02-02T11:48:29-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-graham-urges-acting-ag-to-refrain-from-interfering-in-durham-hunter-biden-probes-amid-garland-confirmation.md",
-      "title": "Graham urges acting AG to 'refrain from interfering' in Durham, Hunter Biden probes amid Garland confirmation",
-      "excerpt": "Sen. Lindsey Graham, the top Republican on the Senate Judiciary Committee, on Tuesday urged acting Attorney General Monty Wilkinson to \"refrain from interfering\" in Special Counsel John Durham’s investigation and the federal investigation into Hunter Biden’s \"tax affairs\" while the Senate works to confirm",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/g59enykWMkA/graham-acting-attorney-general-durham-hunter-biden-probes",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/g59enykWMkA/graham-acting-attorney-general-durham-hunter-biden-probes",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/graham-acting-attorney-general-durham-hunter-biden-probes.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/graham-acting-attorney-general-durham-hunter-biden-probes.amp",
-      "publishedDateTime": "2021-02-02T11:38:42-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

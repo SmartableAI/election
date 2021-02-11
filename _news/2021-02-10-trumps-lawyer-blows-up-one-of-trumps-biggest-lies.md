@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/10/politics/fact-check-bruce-castor-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/10/politics/fact-check-bruce-castor-lawyer-impeachment-trump-lost-election/index.html"
 type: article
 quality: 175
-heat: 535
+heat: 555
 published: true
 
 provider:
@@ -190,6 +190,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/02/10/multimedia/10Georgia/10Georgia-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "How the Trump Era Broke the Sunday-Morning News Show"
+    excerpt: "Any number of hallowed political and media institutions fell apart. So why should the most hallowed political-media institution of them all escape unscathed?"
+    publishedDateTime: 2021-02-11T10:00:00Z
+    webUrl: "https://www.nytimes.com/2021/02/11/magazine/how-the-trump-era-broke-the-sunday-morning-news-show.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/11/magazine/how-the-trump-era-broke-the-sunday-morning-news-show.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/11/magazine/how-the-trump-era-broke-the-sunday-morning-news-show.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/14/magazine/14mag-screenland/14mag-screenland-facebookJumbo-v2.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "Impeachment Case Aims to Marshal Outrage of Capitol Attack Against Trump"
     excerpt: "Armed with lessons from the last impeachment trial of Donald J. Trump, prosecutors plan a shorter, video-heavy presentation to confront Republicans with the fury they felt around the Capitol riot."

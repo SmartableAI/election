@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-11-trump-team-fires-back-at-dems-claims-they-too-have-used-fight-like-hell-rhetoric.md",
+      "title": "Trump team fires back at Dems, claims they too have used ‘fight like hell’ rhetoric",
+      "excerpt": "The Trump team turned the tables on the Democratic Party’s impeachment managers on Wednesday, after they claimed once again that the former president’s \"fight like hell\" rhetoric at a Jan. 6 rally in Washington helped spark the riot at the U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/us/trump-team-fires-back-at-dems-claims-they-too-have-used-fight-like-hell-rhetoric",
+      "originalUrl": "https://www.foxnews.com/us/trump-team-fires-back-at-dems-claims-they-too-have-used-fight-like-hell-rhetoric",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Raskin-Neguse-Swallwell-Lieu-AP.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/us/trump-team-fires-back-at-dems-claims-they-too-have-used-fight-like-hell-rhetoric.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/trump-team-fires-back-at-dems-claims-they-too-have-used-fight-like-hell-rhetoric.amp",
+      "publishedDateTime": "2021-02-11T02:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-11-warren-says-republicans-who-stand-with-trump-must-be-stopped.md",
       "title": "Warren says Republicans who stand with Trump ‘must be stopped’",
       "excerpt": "Sen. Elizabeth Warren, D-Mass, said Wednesday that she believed the Democrat impeachment managers made a compelling case against former President Trump and any Republican who stands with him “must be stopped.”",
@@ -1128,7 +1185,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 215,
+      "heat": 235,
       "tags": null,
       "images": [
         {
@@ -1595,62 +1652,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-sidesteps-trump-impeachment-trial-questions.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-sidesteps-trump-impeachment-trial-questions.amp",
       "publishedDateTime": "2021-02-08T08:33:51-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-08-biden-officials-believe-china-to-be-greatest-long-term-national-security-threat-to-the-us-mccaul-says.md",
-      "title": "Biden officials believe China to be 'greatest long-term national security threat' to the US, McCaul says",
-      "excerpt": "President Biden’s Secretary of State Tony Blinken and White House national security adviser Jake Sullivan believe that China poses the \"greatest long-term national security threat to the United States,\" Republican Rep. Michael McCaul told Fox News after speaking with the officials, but McCaul said they",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-r4ctYVB8kU/biden-national-security-officials-believe-china-greatest-long-term-threat-mccaul",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-r4ctYVB8kU/biden-national-security-officials-believe-china-greatest-long-term-threat-mccaul",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 178,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-national-security-officials-believe-china-greatest-long-term-threat-mccaul.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-national-security-officials-believe-china-greatest-long-term-threat-mccaul.amp",
-      "publishedDateTime": "2021-02-08T05:55:08-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

@@ -464,6 +464,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Trump conviction rests on Republicans' instinct for self-preservation"
+    excerpt: "Analysis: The Democrats' case asks GOP senators to think of their own interests, as well as the republic's. WASHINGTON — If Republican senators will not put the republic over their party, House impeachment trial managers suggested Wednesday,"
+    publishedDateTime: 2021-02-11T09:31:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/trump-conviction-rests-republicans-instinct-self-preservation-n1257385"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1257385"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1257385"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_06/3449252/210210-analysis-donald-trump-ew-722p_555ca8916001a45874569043999b0715.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Read the Brief From House Managers Asserting Trump Has ‘No Good Defense’"
     excerpt: "The House managers took one final shot at Donald J. Trump on Tuesday morning before his impeachment trial got underway, telling the Senate in a written brief that the former president’s lawyers were relying on “flawed legal theories” because they had “no good defense” for his conduct around the Jan."
     publishedDateTime: 2021-02-09T17:30:00Z

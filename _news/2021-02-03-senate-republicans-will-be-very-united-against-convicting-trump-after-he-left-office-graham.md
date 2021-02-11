@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "ABC's Terry Moran compares 'personalized power' Trump has over GOP to a 'Führer' amid impeachment trial"
+    excerpt: "During ABC News' coverage of the impeachment trial of former President Donald Trump, senior national correspondent Terry Moran compared the power the 45th president has over the GOP to that of a \"Fuhrer."
+    publishedDateTime: 2021-02-11T09:13:00Z
+    webUrl: "https://www.foxnews.com/media/abc-terry-moran-trump-fuhrer-impeachment"
+    ampWebUrl: "https://www.foxnews.com/media/abc-terry-moran-trump-fuhrer-impeachment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/abc-terry-moran-trump-fuhrer-impeachment.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 119
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4e468e48-daf4-48c9-b172-5e8ae98b3f4a/e9d7c456-73c0-43ba-9de5-5359a023293c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "QRyks84kSDyWYExzC4XiaZLOcFYKj5Ko6wwNz1WfIgkkT2Pu+XoKg0IQuytKejnDTHRXFGZCTjUaZNAQvNYuoRTEkrZscjL2gU3FQUN/Zj6WgLZAPUpobyxGIWR5UD8kaOmfi6H5LYSshI+f+1HNhtn8oGMKultpf6vfOvGxQAqUkkIoElGa4ndnICyUYDI85ohWmSjHY6+RcG3j631zAxZ2nEbEMobHNhugwBif6tdAPToxd5Oum+pGQ55WEILNGm6TmZo2NG9NqzznDFhNQN+5n3KrBYO9C9H1lkdAzW705s69/upsSvbzEdaRMm8EXqsKpP2WwzK8FFKqy+GtKuRTWwrYev2Xjm9IL3Q/QiM=;89yWKPKjUfAhbk1ebjfFAQ=="
 ---

@@ -64,6 +64,20 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Biden under pressure to go nuclear to get minimum wage hike"
+    excerpt: "The president said he doesn’t think a $15-an-hour wage increase will make it into the final Covid relief bill. And it’s unlikely his VP will push the rules to make it happen."
+    publishedDateTime: 2021-02-11T09:36:00Z
+    webUrl: "https://www.politico.com/news/2021/02/11/biden-minimum-wage-increase-468565"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/ea/8f/63d295854ffaafee5469f96f5437/210210-minimum-wage-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "oOS9KVltagIB3AMFoy+r6B1xnduVtpSePEUw1wdsLiKFIp7lEfnO6yA4gnppi28/GeUoftCk31rICf03r/DpmY+zT3JJG3oJ8BlGNqh3K+dFbLJ1iAVEHZ0RFVJE7j1DRDSOBvEAvafo8iqe9rIjr0D4mJfuRnQk0x1p8OzT9ZidCQl78UmKC5M2JNJqy3/GoRMMDiee0urjEVik4pQ8hb3kjfle6WnBL4nYAX6edwWRt1qqWFrRkYQfkxltE/HxB/TLqiw57395fykoaSQwTUNjUTd49neLQbCtUAYVt/lMTA868cc04g86Iy7PVZD9rEW/rgcQWrO/NfHGgKTNvDfFI3gkqptY6bLrMggNRIU=;Y11B1tTc6dNUFRP2QuJ+FQ=="
 ---

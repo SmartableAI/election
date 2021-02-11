@@ -464,6 +464,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Trump conviction rests on Republicans' instinct for self-preservation"
+    excerpt: "Analysis: The Democrats' case asks GOP senators to think of their own interests, as well as the republic's. WASHINGTON — If Republican senators will not put the republic over their party, House impeachment trial managers suggested Wednesday,"
+    publishedDateTime: 2021-02-11T09:31:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/trump-conviction-rests-republicans-instinct-self-preservation-n1257385"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1257385"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1257385"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_06/3449252/210210-analysis-donald-trump-ew-722p_555ca8916001a45874569043999b0715.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Impeachment Updates: New Chilling Video Expected as Trump’s Trial Begins"
     excerpt: "Each side has up to 16 hours over two days to make their cases for and against former President Donald J. Trump. The House impeachment managers, who are acting as prosecutors, will go first, followed by Mr."
     publishedDateTime: 2021-02-10T11:07:00Z

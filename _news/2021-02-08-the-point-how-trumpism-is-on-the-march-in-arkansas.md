@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/08/politics/trump-arkansas-governor-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/08/politics/trump-arkansas-governor-sarah-huckabee-sanders/index.html"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2021/02/08/us/politics/08dc-what-to-watch/08dc-what-to-watch-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "How New Yorkers Are Shaping the Trump Impeachment Trial"
+    excerpt: "Helping set the rules is Chuck Schumer, the Senate majority leader, and other lawmakers from the state are lending their voices."
+    publishedDateTime: 2021-02-11T10:19:00Z
+    webUrl: "https://www.nytimes.com/2021/02/11/nyregion/impeachment-chuck-schumer.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/11/nyregion/impeachment-chuck-schumer.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/11/nyregion/impeachment-chuck-schumer.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/11/nyregion/11nytoday/11nytoday-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

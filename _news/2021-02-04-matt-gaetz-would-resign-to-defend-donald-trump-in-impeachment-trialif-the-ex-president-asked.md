@@ -79,6 +79,22 @@ related:
         width: 1440
         height: 932
         isCached: true
+  - title: "Trump impeachment: Senate trial to continue after harrowing video evidence – live updates"
+    excerpt: "Senate will reconvene at noon for second day of prosecution evidence"
+    publishedDateTime: 2021-02-11T10:48:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/11/donald-trump-impeachment-senate-trial-live-news-updates?page=with:block-60250a788f08b555964bb55e"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/11/donald-trump-impeachment-senate-trial-live-news-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/11/donald-trump-impeachment-senate-trial-live-news-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 116
+    images:
+      - url: "https://i.guim.co.uk/img/media/46d9743bc2e91cf0102be98cc16b82fd8ecbc739/112_0_2635_1582/master/2635.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4148aa8ba4482f29017832f5602b0a91"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Explicit language in footage shown at Trump's impeachment trial forces TV networks to make a 'tough choice'"
     excerpt: "At the start of Donald Trump’s second impeachment trial, TV’s biggest networks aired footage of the US Capitol siege with unusually explicit language."
     publishedDateTime: 2021-02-10T12:35:00Z

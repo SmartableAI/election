@@ -63,21 +63,21 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Trump can't hang on to lawyers after false election claims"
+  - title: "Trump can’t hang on to lawyers after false election claims"
     excerpt: "Donald Trump has employed high-powered litigators for decades, but since losing the November election to President Joe Biden, he’s been bleeding attorneys"
-    publishedDateTime: 2021-02-11T06:07:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-hang-lawyers-false-election-claims-75820883"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-hang-lawyers-false-election-claims-75820883"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-hang-lawyers-false-election-claims-75820883"
+    publishedDateTime: 2021-02-11T10:16:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-cant-hang-on-to-lawyers-after-false-election-claims/2021/02/11/4c8bdcec-6c28-11eb-a66e-e27046e9e898_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-cant-hang-on-to-lawyers-after-false-election-claims/2021/02/11/4c8bdcec-6c28-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-cant-hang-on-to-lawyers-after-false-election-claims/2021/02/11/4c8bdcec-6c28-11eb-a66e-e27046e9e898_story.html?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 140
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_cd2d4aad5c404d5482c425bf81801aa9_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Poor handling of virus cost Trump his reelection, campaign autopsy finds"
     excerpt: "Former president Donald Trump lost the 2020 election largely due to his handling of the coronavirus pandemic, according to a post-election autopsy completed by Trump campaign pollster Tony Fabrizio. The 27-page document shows that voters in 10 key states rated the pandemic as their top voting issue,"
@@ -2686,12 +2686,34 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "How a Leading Anti-Trump Group Ignored a Crisis in Its Ranks"
+    excerpt: "One of the best-known players in the so-called “Never Trump” movement is facing intense scrutiny that threatens to undermine the broader coalition’s influence amid new revelations about its financial management and improper behavior involving a co-founder."
+    publishedDateTime: 2021-02-11T10:23:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-02-11/how-a-leading-anti-trump-group-ignored-a-crisis-in-its-ranks"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-11/how-a-leading-anti-trump-group-ignored-a-crisis-in-its-ranks?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-11/how-a-leading-anti-trump-group-ignored-a-crisis-in-its-ranks?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "The Latest: Prosecutors Trace Trump's Inflammatory Rhetoric"
     excerpt: "House Democrats prosecuting Donald Trump’s impeachment trial are methodically tracing his monthslong effort to undermine his supporters’ faith in the election results."
     publishedDateTime: 2021-02-10T18:34:00Z
     webUrl: "https://www.usnews.com/news/politics/articles/2021-02-10/the-latest-prosecutors-trace-trumps-inflammatory-rhetoric"
     ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-10/the-latest-prosecutors-trace-trumps-inflammatory-rhetoric?context=amp"
     cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-10/the-latest-prosecutors-trace-trumps-inflammatory-rhetoric?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "U.S. Justice Department Asks Most Trump-Appointed Prosecutors to Resign"
+    excerpt: "The U.S. Department of Justice on Tuesday asked most federal prosecutors appointed during former President Donald Trump's term to resign, though a few handling politically sensitive Trump-era investigations are expected to remain in place."
+    publishedDateTime: 2021-02-11T09:12:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-02-09/us-doj-to-ask-56-trump-appointed-attorneys-to-resign-cnn"
+    ampWebUrl: "https://www.usnews.com/news/us/articles/2021-02-09/us-doj-to-ask-56-trump-appointed-attorneys-to-resign-cnn?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2021-02-09/us-doj-to-ask-56-trump-appointed-attorneys-to-resign-cnn?context=amp"
     type: article
     provider:
       name: U.S. News & World Report

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/10/politics/biden-xi-call/index.html
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/10/politics/biden-xi-call/index.html"
 type: article
 quality: 173
-heat: 213
+heat: 233
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2021_06/3449004/210210-joe-biden-business-leaders-meeting-al-0753_5fb94cd5c954dac4d2ede398a89974b3.jpg"
         width: 2500
         height: 1567
+        isCached: true
+  - title: "Biden under pressure to go nuclear to get minimum wage hike"
+    excerpt: "The president said he doesn’t think a $15-an-hour wage increase will make it into the final Covid relief bill. And it’s unlikely his VP will push the rules to make it happen."
+    publishedDateTime: 2021-02-11T09:36:00Z
+    webUrl: "https://www.politico.com/news/2021/02/11/biden-minimum-wage-increase-468565"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/ea/8f/63d295854ffaafee5469f96f5437/210210-minimum-wage-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "v9jopTLA9kmzSZPsOMzNYfA/ES99s9aG7iZgbZ8grV0noIgNbZsgy6SGehCgjacGNPcmpOWPZ2+3lR2f+i0Rs2Im+WYJEXUtlhBwfZ3nJDR7Qmb+Eu3P28S5PDoyzPaxP6XS75dMCvl8ygEwk+O8jFbi2DUjev4cAHPaimcC0s6iPpFQcSg3gxr2WJbKtWxjmwAU6R3SpyWqF8PBNBUTef1hG3Ir+UlZYTtRBoa1sekF1CCPg/GQ4dqhAQong2zCFfreauXLvtwAh25onruU4Jg9yCiu2/6W9nNYoI7QLTWHREVigrtW/pAXNPq/uiEqsJaIjqVrsjILhet0BZ6KM9mkKQ5WJOlT6nm+nwPifHA=;Otcg0i4Iudl6gr6Qd45HnA=="

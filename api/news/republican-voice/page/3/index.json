@@ -2,6 +2,62 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-02-graham-urges-acting-ag-to-refrain-from-interfering-in-durham-hunter-biden-probes-amid-garland-confirmation.md",
+      "title": "Graham urges acting AG to 'refrain from interfering' in Durham, Hunter Biden probes amid Garland confirmation",
+      "excerpt": "Sen. Lindsey Graham, the top Republican on the Senate Judiciary Committee, on Tuesday urged acting Attorney General Monty Wilkinson to \"refrain from interfering\" in Special Counsel John Durham’s investigation and the federal investigation into Hunter Biden’s \"tax affairs\" while the Senate works to confirm",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/g59enykWMkA/graham-acting-attorney-general-durham-hunter-biden-probes",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/g59enykWMkA/graham-acting-attorney-general-durham-hunter-biden-probes",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/graham-acting-attorney-general-durham-hunter-biden-probes.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/graham-acting-attorney-general-durham-hunter-biden-probes.amp",
+      "publishedDateTime": "2021-02-02T11:38:42-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-02-senate-approves-pete-buttigieg-as-bidens-transportation-secretary.md",
       "title": "Senate approves Pete Buttigieg as Biden's transportation secretary",
       "excerpt": "Pete Buttigieg, known throughout his 2020 presidential bid as \"Mayor Pete,\" got a big promotion Tuesday to become President Biden's next transportation secretary. ",
@@ -1604,62 +1660,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-executive-order-fracking-ban.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-executive-order-fracking-ban.amp",
       "publishedDateTime": "2021-01-28T18:08:17-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-pro-trump-social-media-influencer-charged-in-2016-scheme-to-suppress-votes-for-hillary-clinton.md",
-      "title": "Pro-Trump social media influencer charged in 2016 scheme to suppress votes for Hillary Clinton",
-      "excerpt": "A pro-Trump social media influencer was arrested in Florida Wednesday after prosecutors say he purposely spread disinformation online in an effort to suppress votes for Hillary Clinton in the 2016 presidential election.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LIyuVcI6Fec/trump-social-media-influencer-2016-disinformation-scheme-hillary-clinton-votes-florida-new-york",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LIyuVcI6Fec/trump-social-media-influencer-2016-disinformation-scheme-hillary-clinton-votes-florida-new-york",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 183,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-social-media-influencer-2016-disinformation-scheme-hillary-clinton-votes-florida-new-york.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-social-media-influencer-2016-disinformation-scheme-hillary-clinton-votes-florida-new-york.amp",
-      "publishedDateTime": "2021-01-28T13:40:17-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
