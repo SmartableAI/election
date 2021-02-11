@@ -159,6 +159,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden budget nominee grilled from right and left at second hearing"
+    excerpt: "Neera Tanden, President Joe Biden's nominee to head the U.S. Office of Management and Budget, was skewered from both the right and left at a second confirmation hearing on Wednesday."
+    publishedDateTime: 2021-02-10T23:57:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-omb-idUKKBN2AA2JO"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2AA2JO"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2AA2JO"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210210&t=2&i=1551081097&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH191RP"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Democrats clear path for approval of Biden's $1.9 trillion COVID package"
     excerpt: "President Joe Biden and his Democratic allies in Congress forged ahead with their $1.9 trillion COVID-19 relief package on Friday as lawmakers approved a budget outline that will allow them to muscle Biden's plan through in the coming weeks without Republican support."
     publishedDateTime: 2021-02-06T13:13:00Z

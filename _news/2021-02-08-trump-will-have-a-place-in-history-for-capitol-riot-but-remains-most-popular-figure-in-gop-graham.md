@@ -48,6 +48,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Pence reportedly 'angry' at Trump for not asking about his safety during Capitol riot: Chris Wallace"
+    excerpt: "Former Vice President Mike Pence feels \"residual bitterness\" toward former President Donald Trump over his lack of concern for Pence's safety during the deadly Jan. 6 riot at the Capitol, \"Fox News Sunday\" host Chris Wallace told \"The Story\" on Wednesday."
+    publishedDateTime: 2021-02-10T23:15:00Z
+    webUrl: "https://www.foxnews.com/media/wallace-pence-trump-capitol-riot-safety-impeachment-trial"
+    ampWebUrl: "https://www.foxnews.com/media/wallace-pence-trump-capitol-riot-safety-impeachment-trial.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/wallace-pence-trump-capitol-riot-safety-impeachment-trial.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/09d1af85-4b2e-4ebf-acac-7dba297fe264/cde0ffc2-c0b5-4886-9ef0-8e6de836adaf/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "X4+uRPgQrvpDGS3jCzqDKDay5olTcfO7zo8fzq15kod9zwebROzIBGu7FqZvSvPsjdLBQF04b+4iJKrv2NzUntnrvp7k8wAcP5O9CoylYha+ihwWoFtyOnD0PHjPca079lkryVeB0BNSffwJndrLRT9oI7J8Np1JrFBFXxh46eZ3VvOuy7qxziD0FEUETWc12N3EP5WvvhLmV+7Qbr8qRMCs1Ws+gh59fP8cSpP1rHUNH9ngwuWWGnGRUUanGLbM9LQ+q4amTv2Hj8JtFDKHt5dm+5WDcnx5q05nG8wzsu9YHyWBsNgw/PuYzY7rQZ54cE95dU5y1OrT/W4lE3sNwu69lkk9BCBa8jwPnpt5hpc=;YvgbJWBwVU/YFzSeM7eknA=="
 ---

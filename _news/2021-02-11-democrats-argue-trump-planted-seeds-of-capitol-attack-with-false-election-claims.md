@@ -201,6 +201,22 @@ related:
         width: 878
         height: 702
         isCached: true
+  - title: "Factbox: Parental warnings and thanks to Pence - Takeaways from Trump's impeachment trial"
+    excerpt: "The U.S. Senate's impeachment trial gathered steam on Wednesday, with Democratic lawmakers laying out their best evidence that former President Donald Trump incited an insurrection by exhorting thousands of supporters to march on the Capitol last month."
+    publishedDateTime: 2021-02-11T00:11:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-takeaways-factb/factbox-parental-warnings-and-thanks-to-pence-takeaways-from-trumps-impeachment-trial-idUSKBN2AA2LY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AA2LY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AA2LY"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 131
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210211&t=2&i=1551117078&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH191SS"
+        width: 968
+        height: 545
+        isCached: true
   - title: "Biden administration to house migrant teens at overflow facility in Texas closed under Trump"
     excerpt: "The Biden administration is reopening an overflow facility to house unaccompanied migrant teens amid a possible surge in apprehensions at the border."
     publishedDateTime: 2021-02-04T09:19:00Z
@@ -1305,6 +1321,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "State and local GOP committees attack any Republicans who dare turn on Trump"
+    excerpt: "A blizzard of censures and denunciations has been met by pushback from some elected leaders in Washington as internal clashes threaten to mar midterm elections."
+    publishedDateTime: 2021-02-11T00:47:00Z
+    webUrl: "https://www.washingtonpost.com/politics/republicans-loyalty-trump/2021/02/10/f3f87e4c-6bc2-11eb-9f80-3d7646ce1bc0_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/republicans-loyalty-trump/2021/02/10/f3f87e4c-6bc2-11eb-9f80-3d7646ce1bc0_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/republicans-loyalty-trump/2021/02/10/f3f87e4c-6bc2-11eb-9f80-3d7646ce1bc0_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 122
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WMLYYADLZUI6XJTO4JYEN2PITA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Senate finds Trump impeachment trial constitutional on first day of proceedings"
     excerpt: "The Senate voted 56 to 44 in finding that it has jurisdiction to try former presidents on impeachment charges."
     publishedDateTime: 2021-02-10T12:00:00Z
@@ -2407,6 +2439,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Rep. Castro on President Trump's Tweet Regarding Mike Pence"
+    excerpt: "Rep. Castro (D-TX) shows President Trump's tweet saying Vice President Pence \"didn't have the courage to do what should have been done.\" He goes on to show how the crowd responded to the president's tweet."
+    publishedDateTime: 2021-02-10T00:00:00Z
+    webUrl: "https://www.c-span.org/video/?c4945143/rep-castro-president-trumps-tweet-mike-pence"
+    ampWebUrl: "https://www.c-span.org/amp/video/?c4945143"
+    cdnAmpWebUrl: "https://www-c--span-org.cdn.ampproject.org/c/s/www.c-span.org/amp/video/?c4945143"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 70
   - title: "Pence joins Heritage Foundation as visiting fellow to promote conservative policies"
     excerpt: "Former Vice President Mike Pence is joining the conservative Heritage Foundation as a visiting fellow. He and former second lady Karen Pence plan to move back to Indiana this summer."
     publishedDateTime: 2021-02-04T18:41:00Z
@@ -2423,17 +2466,6 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "Factbox: Parental Warnings and Thanks to Pence - Takeaways From Trump's Impeachment Trial"
-    excerpt: "\"The impeachment mangers will try to give warnings before the most graphic and disturbing violence.\" A Democratic aide told reporters that the House managers \"will be using footage never seen before that shows a view of the Capitol that is quite extraordinary and a view of the attack that has never been public before."
-    publishedDateTime: 2021-02-10T19:24:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-02-10/factbox-parental-warnings-and-thanks-to-pence-takeaways-from-trumps-impeachment-trial"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-02-10/factbox-parental-warnings-and-thanks-to-pence-takeaways-from-trumps-impeachment-trial?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-02-10/factbox-parental-warnings-and-thanks-to-pence-takeaways-from-trumps-impeachment-trial?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 61
   - title: "Republicans condemned Donald Trump. Now they’re seeking his help"
     excerpt: "House Republican leader Kevin McCarthy declared Donald Trump culpable in the deadly attack on the U.S. Capitol. By Thursday, he was seeking his political support."
     publishedDateTime: 2021-01-29T15:04:00Z

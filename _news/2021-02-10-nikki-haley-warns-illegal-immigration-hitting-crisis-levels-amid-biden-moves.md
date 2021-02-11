@@ -1,0 +1,69 @@
+---
+category: news
+title: "Nikki Haley warns illegal immigration hitting ‘crisis levels,’ amid Biden moves"
+excerpt: "Nikki Haley on Wednesday warned that illegal immigration is hitting “crisis levels” in the wake of a number of reversals of key Trump-era policies by President Joe Biden -- with the former U.N. ambassador arguing that the U.S. needs to take care of “Americans first.”"
+publishedDateTime: 2021-02-10T23:36:04Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ybEWnpLo3uA/haley-illegal-immigration-biden-policies"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ybEWnpLo3uA/haley-illegal-immigration-biden-policies"
+ampWebUrl: "https://www.foxnews.com/politics/haley-illegal-immigration-biden-policies.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/haley-illegal-immigration-biden-policies.amp"
+type: article
+quality: 171
+heat: 211
+published: true
+
+provider:
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Republican Voice
+
+images:
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/29ad43be-ef82-4891-814c-c63e8428c1be/341602a7-fa65-4e5f-aed0-8d066037eff0/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
+    isCached: true
+
+related:
+  - title: "Nikki Haley calls Biden's executive order about transgender athletics an 'attack on women's rights'"
+    excerpt: "Nikki Haley has joined voices in opposition of President Biden’s executive order calling on schools to allow transgender athletes to participate in the sport of their gender identity, arguing in a column published Monday that it’s an “attack on women’s rights.” "
+    publishedDateTime: 2021-02-08T19:27:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/L6c-w3VdN4M/nikki-haley-criticizes-biden-executive-order-transgender-athletics"
+    ampWebUrl: "https://www.foxnews.com/politics/nikki-haley-criticizes-biden-executive-order-transgender-athletics.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nikki-haley-criticizes-biden-executive-order-transgender-athletics.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-zxjs75c-xl.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Nikki Haley accuses Biden of 'snubbing' Israel, 'cozying up' to Iran: 'I really don't understand the logic'"
+    excerpt: "Former U.S. Ambassador to the United Nations Nikki Haley accused the Biden administration Wednesday of \"snubbing Israel\" and \"cozying up to Iran\" in the two weeks the 46th president has been in office."
+    publishedDateTime: 2021-02-04T02:40:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YE_zsV2rMDo/nikki-haley-biden-israel-iran-nuclear-deal"
+    ampWebUrl: "https://www.foxnews.com/politics/nikki-haley-biden-israel-iran-nuclear-deal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nikki-haley-biden-israel-iran-nuclear-deal.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4f8e7427-4d69-4533-a736-d7151e217b10/5054fe18-4741-4167-8a75-983f033a5534/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+
+secured: "jhnYsL3r1anbbYCWKzeyumHNNAynSnhsN8q/0uLQ8qg0i9ppz2+ebQ2r3er3TGIJ+CfDZqQk8ZlkSI2h2Lhx8wsMkSp22DLAAU59+3mAb7NHD9QlmbxmxWAv3jEhtUD2D1sVfYvwC33VcVMd6e9WVke31Hd0dOVzS7V8RFBvr0/eDC0Nl2wJ94VtyGTH7Hj/L4zu9z0Gej16ZV0LH3eSXoq8AvYaXcRumpS5g4RCOFZS9IlnEx8q9GAkZInd3YoPopQydudbw087ULDmX6OHvr4h2EZOzK0FxE/cT/waDWZmtw0lgTzlumE3HZBp0xV187ixv5Hjm/vxYJsCU+F/DeCZJQ8/7iQevc1kjuL3wVY=;w91o6yv/M0Jt9Oq9uvBBEA=="
+---
+

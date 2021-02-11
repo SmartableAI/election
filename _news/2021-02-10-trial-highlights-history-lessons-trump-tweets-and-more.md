@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trial-highlights-histo
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trial-highlights-history-lessons-trump-tweets-75789773"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -95,6 +95,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trial Highlights: Harrowing Footage, Focus on Trump's Words"
+    excerpt: "House Democrats opened their first day of arguments in former President Donald Trump’s impeachment trial with searing footage of the U.S. Capitol riot."
+    publishedDateTime: 2021-02-11T00:48:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-02-10/trial-highlights-harrowing-footage-focus-on-trumps-words"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-10/trial-highlights-harrowing-footage-focus-on-trumps-words?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-10/trial-highlights-harrowing-footage-focus-on-trumps-words?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "QjNmGXwmZ362gnN1gulhEcIrY6urXKl1g73f4n8ZC5YP2jQkJw6oLYDLDZeLb5GOQrY/iaVV0OG9T33Zd5XsWeCjwXKQdoUj15MjAKv5z574ceKeClL8n/g8+JXrMtr4tPemMzi+/e/4cE/Jq8BV0R+VwSrk8txbJ/qPiuE2U/OIYW1d3i4BcNLMvbfikQxVB9zxZux8uf5i8rV091ollJz3EAmBGRdLNqEKhPzn7coWiDD3uktdKAIZir2QA3JWWevOhJ9w/aYGdz5FJIcLD2AeMevw7696HPwi/S/6GuxYqS2LSnOxk8zeDP4fAU/nhslgAPSXs/qGXbDdgJyU5ZnIvOuSlHni2Vudbdc3vSs=;VETkP5rmS+J7umR7mo1mgQ=="
 ---

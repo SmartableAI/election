@@ -463,6 +463,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "GOP Sen. Portman cites 'serious constitutional questions' with Trump impeachment trial"
+    excerpt: "Portman asserted that Trump “bears some responsibility” for the events of Jan. 6, when his supporters stormed the Capitol complex as lawmakers met to confirm President Biden’s election victory. However, the Ohio senator argued that impeachment, as detailed in the Constitution, is reserved for elected"
+    publishedDateTime: 2021-02-10T23:46:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xmYCZTnayOE/gop-sen-portman-serious-constitutional-issues-trump-impeachment-trial"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-sen-portman-serious-constitutional-issues-trump-impeachment-trial.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-sen-portman-serious-constitutional-issues-trump-impeachment-trial.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aa02fe3d-aae5-4b87-a3d8-ca13398bc8e9/d019a293-6513-47a8-a113-06b4ea181d46/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump lawyers rail against impeachment trial as ‘political theater’ on eve of proceedings"
     excerpt: "Lawyers for former President Trump on Monday submitted a brief saying that Democrats' effort to convict the president in an impeachment trial after he's left office is \"political theater,\" and that the trial is outside of the Senate's constitutional authority. "
     publishedDateTime: 2021-02-08T15:56:02Z
@@ -1208,6 +1224,22 @@ related:
     quality: 130
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b1a6865a-e2f6-4ee3-ad0f-046010aee80f/22d16aec-18fa-4a50-85a1-0db6d773b073/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "GOP Sen. Portman cites 'serious constitutional questions' with Trump impeachment trial"
+    excerpt: "Portman asserted that Trump “bears some responsibility” for the events of Jan. 6, when his supporters stormed the Capitol complex as lawmakers met to confirm President Biden’s election victory. However,"
+    publishedDateTime: 2021-02-10T23:51:00Z
+    webUrl: "https://www.foxnews.com/politics/gop-sen-portman-serious-constitutional-issues-trump-impeachment-trial"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-sen-portman-serious-constitutional-issues-trump-impeachment-trial.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-sen-portman-serious-constitutional-issues-trump-impeachment-trial.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 127
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aa02fe3d-aae5-4b87-a3d8-ca13398bc8e9/d019a293-6513-47a8-a113-06b4ea181d46/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

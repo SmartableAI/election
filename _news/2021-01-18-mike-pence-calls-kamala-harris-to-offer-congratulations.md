@@ -2148,18 +2148,18 @@ related:
         height: 1638
         isCached: true
   - title: "Vice President Pence says farewell to White House, will skip Trump's sendoff"
-    excerpt: "Vice President Mike Pence is among those who will not be attending President Donald Trump’s sendoff event at Joint Base Andrews."
-    publishedDateTime: 2021-01-19T22:26:00Z
-    webUrl: "https://www.11alive.com/article/news/nation-world/mike-pence-farewell-twhite-house/507-1ca6cdb9-0043-474f-879e-41da3b1226b5"
-    ampWebUrl: "https://www.11alive.com/amp/article/news/nation-world/mike-pence-farewell-twhite-house/507-1ca6cdb9-0043-474f-879e-41da3b1226b5"
-    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/nation-world/mike-pence-farewell-twhite-house/507-1ca6cdb9-0043-474f-879e-41da3b1226b5"
+    excerpt: "WASHINGTON — Outgoing Vice President Mike Pence bid farewell to the White House on Tuesday, one day before President-elect Joe Biden is set to take the oath of office. In a tweet, Pence ..."
+    publishedDateTime: 2021-01-20T07:12:00Z
+    webUrl: "https://www.ksdk.com/article/news/nation-world/mike-pence-farewell-twhite-house/507-1ca6cdb9-0043-474f-879e-41da3b1226b5"
+    ampWebUrl: "https://www.ksdk.com/amp/article/news/nation-world/mike-pence-farewell-twhite-house/507-1ca6cdb9-0043-474f-879e-41da3b1226b5"
+    cdnAmpWebUrl: "https://www-ksdk-com.cdn.ampproject.org/c/s/www.ksdk.com/amp/article/news/nation-world/mike-pence-farewell-twhite-house/507-1ca6cdb9-0043-474f-879e-41da3b1226b5"
     type: article
     provider:
-      name: 11Alive
-      domain: 11alive.com
+      name: KSDK
+      domain: ksdk.com
     quality: 87
     images:
-      - url: "https://media.11alive.com/assets/CCT/images/3a1cf9c3-6f9d-4220-88f7-d463eb8c0cc3/3a1cf9c3-6f9d-4220-88f7-d463eb8c0cc3_1140x641.jpg"
+      - url: "https://media.ksdk.com/assets/CCT/images/3a1cf9c3-6f9d-4220-88f7-d463eb8c0cc3/3a1cf9c3-6f9d-4220-88f7-d463eb8c0cc3_1140x641.jpg"
         width: 1140
         height: 641
         isCached: true

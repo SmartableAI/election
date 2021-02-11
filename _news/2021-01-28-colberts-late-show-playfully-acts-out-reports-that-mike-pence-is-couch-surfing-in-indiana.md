@@ -9,7 +9,7 @@ ampWebUrl: "https://theweek.com/speedreads-amp/963577/colberts-late-show-playful
 cdnAmpWebUrl: "https://theweek-com.cdn.ampproject.org/c/s/theweek.com/speedreads-amp/963577/colberts-late-show-playfully-acts-reports-that-mike-pence-couchsurfing-indiana"
 type: article
 quality: 64
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 840
     height: 560
     isCached: true
-
-related:
-  - title: "Mike Pence, wife Karen reportedly homeless, couch-surfing in Indiana"
-    excerpt: "Reports are that the former Second Family is staying at the Indiana governor's cabin or crashing with kinfolk back in their home state."
-    publishedDateTime: 2021-01-27T14:03:00Z
-    webUrl: "https://thegrio.com/2021/01/27/mike-pence-homeless-indiana/"
-    ampWebUrl: "https://thegrio.com/2021/01/27/mike-pence-homeless-indiana/amp/"
-    cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2021/01/27/mike-pence-homeless-indiana/amp/"
-    type: article
-    provider:
-      name: The Grio
-      domain: thegrio.com
-    quality: 75
-    images:
-      - url: "https://thegrio.com/wp-content/uploads/2021/01/ThePences-scaled.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "SRUy5Kk9ZjggKNAondS7s2Ecmmi2XEKxO5ZoARGe+2Jpsgle1aWf5dfkTylfwyc8vI9mh2PMmv8u5xIHr9oHPzxaGStM60/A7aRboxXihoUOey8xlSb8uO3s+a8Y5nPpLQQJUNJ8XvvabKVMjmscXd7I6RWc8KRWkVThBsLj0Alm5Fh0Bnt1qgQak+H/rEJFAqbxBFl0F3N1sJeKt5mO9RHdrHQKIeohUC8FkEBItnUTqnN/wVjUeVFnJ4R4mcuLI/CByTqv/36qTq4nrz4UyF0gwX1Lmi1OBfh5rNzgMbkv00W4VLKRvTwqLpW+Fq4FUgASZm/qn36UDJiHfT32dCJ5qYVf2aL97fFKsC9xdrE=;J2KPzb+evDdteI5tkN0zqA=="
 ---

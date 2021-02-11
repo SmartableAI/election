@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-capitol-riot-most
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-capitol-riot-most-popular-figure-gop-lindsey-graham.amp"
 type: article
 quality: 159
-heat: 179
+heat: 199
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Pence reportedly 'angry' at Trump for not asking about his safety during Capitol riot: Chris Wallace"
+    excerpt: "Former Vice President Mike Pence feels \"residual bitterness\" toward former President Donald Trump over his lack of concern for Pence's safety during the deadly Jan. 6 riot at the Capitol, \"Fox News Sunday\" host Chris Wallace told \"The Story\" on Wednesday."
+    publishedDateTime: 2021-02-10T23:15:00Z
+    webUrl: "https://www.foxnews.com/media/wallace-pence-trump-capitol-riot-safety-impeachment-trial"
+    ampWebUrl: "https://www.foxnews.com/media/wallace-pence-trump-capitol-riot-safety-impeachment-trial.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/wallace-pence-trump-capitol-riot-safety-impeachment-trial.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/09d1af85-4b2e-4ebf-acac-7dba297fe264/cde0ffc2-c0b5-4886-9ef0-8e6de836adaf/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump will 'have a place in history' for Capitol riot but remains 'most popular figure' in GOP: Graham"
     excerpt: "Former President Donald Trump will \"have a place in history\" for his role leading up to the riot at the U.S. Capitol last month, but he stills remains the \"most popular figure\" in the Republican Party,"
     publishedDateTime: 2021-02-07T19:25:00Z

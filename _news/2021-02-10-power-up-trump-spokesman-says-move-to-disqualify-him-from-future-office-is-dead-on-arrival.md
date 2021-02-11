@@ -95,6 +95,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trial Highlights: Harrowing Footage, Focus on Trump's Words"
+    excerpt: "House Democrats opened their first day of arguments in former President Donald Trump’s impeachment trial with searing footage of the U.S. Capitol riot."
+    publishedDateTime: 2021-02-11T00:48:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-02-10/trial-highlights-harrowing-footage-focus-on-trumps-words"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-10/trial-highlights-harrowing-footage-focus-on-trumps-words?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-10/trial-highlights-harrowing-footage-focus-on-trumps-words?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "PGDzdeS0U0cs3BL8y1zNvkOWt/ruVqnVGhNoDhkh/y+Zy+k5bfpzyOwWCSGm05PIqJ5xqGV/M5sB+fLKrF3o4wwi7sGJ6t5KCpE3hwxMhXVt+8Nb86/jhlV6wuMhaqteOzqZt/hPCMV12DGH+tObkujqxsQMdFtsGS+RP657vZn73/eFgaS94SNQEU5vvPc6EbeIclLn8akF9cbWA78T2nqYFeVCidFiht9katHMGuO7TKxtzDGFKmy5iAqfG9zKgFktj3cx3JBTHlW047X44ZPkPxZZV5Egd8odPghbxJYEpsvzB70Y2HxD361E/VkX2BVcbfaswYNDjIHHrIIdDh5vGBUcvEEqlTDefHWl2Vw=;YdV+SQe+lkH5Q1zcqrCD0A=="
 ---

@@ -78,6 +78,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Biden's meeting with CEOs focused on equalizing economic recovery, skills training, wage gap"
+    excerpt: "President Joe Biden met with the heads of some of America's biggest companies on Tuesday as part of his push for a $1.9 trillion economic relief package. The Oval Office meeting included Vice President Kamala Harris and Treasury Secretary Janet Yellen,"
+    publishedDateTime: 2021-02-10T21:14:00Z
+    webUrl: "https://www.nbcnews.com/business/economy/biden-meeting-ceos-focused-equalizing-economic-recovery-skills-training-wage-n1257267"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1257267"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1257267"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 124
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_06/3449004/210210-joe-biden-business-leaders-meeting-al-0753_5fb94cd5c954dac4d2ede398a89974b3.jpg"
+        width: 2500
+        height: 1567
+        isCached: true
   - title: "Iran's U.N. ambassador says Iran is waiting for President Biden to make the first diplomatic move"
     excerpt: "The Biden administration needs to lift sanctions on Iran and return to the nuclear deal that Trump ditched, the Iranian ambassador to the U.N. says."
     publishedDateTime: 2021-01-26T09:24:00Z

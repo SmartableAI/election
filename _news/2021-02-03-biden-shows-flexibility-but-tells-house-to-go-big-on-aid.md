@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/business/biden-yellen-say-gop-virus-a
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/biden-yellen-say-gop-virus-aid-too-small-democrats-push-on/2021/02/03/bddcc6da-65df-11eb-bab8-707f8769d785_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 485
+heat: 505
 published: true
 
 provider:
@@ -140,6 +140,22 @@ related:
     quality: 125
     images:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210209&t=2&i=1550935723&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH181OP"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Biden budget nominee grilled from right and left at second hearing"
+    excerpt: "Neera Tanden, President Joe Biden's nominee to head the U.S. Office of Management and Budget, was skewered from both the right and left at a second confirmation hearing on Wednesday."
+    publishedDateTime: 2021-02-10T23:57:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-omb-idUKKBN2AA2JO"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2AA2JO"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2AA2JO"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210210&t=2&i=1551081097&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH191RP"
         width: 817
         height: 545
         isCached: true

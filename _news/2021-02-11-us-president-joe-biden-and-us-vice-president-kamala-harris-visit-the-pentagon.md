@@ -1,10 +1,10 @@
 ---
 category: news
 title: "US President Joe Biden and US Vice President Kamala Harris visit the Pentagon"
-excerpt: "President Joe Biden (L) listens to Vice President Kamala Harris deliver remarks to Department of Defense personnel at the Pentagon in Arlington, Virginia, on Wednesday February 10, 2021. Photo by Mich"
+excerpt: "Chairman of the Joint Chiefs of Staff Mark Milley (R) and Secretary of Defense Lloyd Austin, tour the African Americans in Service Corridor at the Pentagon in Arlington, Virginia, on Wednesday February 10,"
 publishedDateTime: 2021-02-10T22:03:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/dbc5fe7d94d7073bcc2e5e75d97b0aea/US-President-Joe-Biden-and-US-Vice-President-Kamala-Harris-visit-the-Pentagon/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/dbc5fe7d94d7073bcc2e5e75d97b0aea/US-President-Joe-Biden-and-US-Vice-President-Kamala-Harris-visit-the-Pentagon/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/916dd0e9cdb6d76ce340b8817d259f78/US-President-Joe-Biden-and-US-Vice-President-Kamala-Harris-visit-the-Pentagon/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/916dd0e9cdb6d76ce340b8817d259f78/US-President-Joe-Biden-and-US-Vice-President-Kamala-Harris-visit-the-Pentagon/"
 type: article
 quality: 67
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/dbc5fe7d94d7073bcc2e5e75d97b0aea/PENTAGON-BIDEN.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/916dd0e9cdb6d76ce340b8817d259f78/PENTAGON-BIDEN.jpg"
     width: 650
     height: 433
     isCached: true
@@ -923,14 +923,14 @@ related:
   - title: "President Joe Biden and Vice President Kamala Harris visit Pentagon"
     excerpt: "President Joe Biden and Vice President Kamala Harris greet Joint Chiefs Chairman Gen. Mark Milley and Secretary of Defense Lloyd Austin at the Pentagon, in Arlington, Virginia, on Wednesday, February 10,"
     publishedDateTime: 2021-02-10T19:40:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/c34f6ceb4e4686d7e5908afdbe2f0ef3/President-Joe-Biden-and-Vice-President-Kamala-Harris-visit-Pentagon/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/258e85c6277f7e88599f1428b2a19d2a/President-Joe-Biden-and-Vice-President-Kamala-Harris-visit-Pentagon/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 70
     images:
-      - url: "https://cdnph.upi.com/pv/upi/c34f6ceb4e4686d7e5908afdbe2f0ef3/PENTAGON-BIDEN.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/258e85c6277f7e88599f1428b2a19d2a/PENTAGON-BIDEN.jpg"
         width: 650
         height: 433
         isCached: true
@@ -1252,6 +1252,17 @@ related:
       name: Raleigh News & Observer
       domain: newsobserver.com
     quality: 50
+  - title: "Kamala Harris a ‘Jezebel’? Southern Baptist leaders’ insult is dangerous, experts say"
+    excerpt: "Pastors in the biggest Protestant denomination in the U.S. have called the nation's Black and female vice president a biblical insult that has religious experts worried. \"It's not just un-PC. It's far beyond that,"
+    publishedDateTime: 2021-02-11T00:03:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/nation-politics/kamala-harris-a-jezebel-southern-baptist-leaders-insult-is-dangerous-experts-say/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/nation-politics/kamala-harris-a-jezebel-southern-baptist-leaders-insult-is-dangerous-experts-say/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation-politics/kamala-harris-a-jezebel-southern-baptist-leaders-insult-is-dangerous-experts-say/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 48
   - title: "'A visual turning point': Myrtle Beach-area women react to Kamala Harris' inauguration"
     excerpt: "Kamala Harris' inauguration impacted many women across the country and Grand Strand, symbolizing a new chapter for public life, politics and social justice."
     publishedDateTime: 2021-01-30T14:00:00Z
@@ -1294,6 +1305,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "bUzc2EOC1e94m5LXL38iWmWujXgthjyLuVRFRDEEUkxMLTULmUZ6E3NLZeANah2quDy1b/0kT7e6fE8UqBN/xJcADVZotL3ei+GvpEUAzcw9ZcVWaab6BswmUgEEocwzGillPjg3hPkQnyvHTkghtP1p4Dmu/v+t/6pU42YPDrJUc11567shs6IXz5XT+YVfmkNwThEl6VnGfehicY6FnOgwA1vuqfkaVTozf6CcEM2D1seomxL5F8LkRpB45OzPzSqcNDfi/fsNradP6yRvrXJOApVNnSJUkJ6W7OwkXUk9omqHHsA1RHW69UbbOw5QimpHRuP/gzJ4CANSB2JFNSSHJ2dXp/wRXzEarodmYYI=;r1eZ4tsQ9DGzPyD+2fDibA=="
+secured: "rpWpFeZ8zUNqiC5anIRvdirIPYpedVNIEvB4+tiE9JDRaEMOJh6IZwl8gupyvBDxTekctXb58lVbUyprbX5hVA6+DeWSsi2vOMwaX6SKWe6oHvIRS6B104cQFMHc6hWqSjMMKSe+pTs1qRVdBhLMS8xJ8Uyu6dKv7fc2n1FXeoAVOGrUPbSUq69MBPgUXkuZQVrOcGch7OJw+ljLmlJd8v0s1kF6m75sFUwmCZvRZSCZaWdUpXAwIHOXqWPsXKR0IDnjt/FhjBJHQStzLYTXpP5Vfwjjegkby2EKW8qQH4AoUYDVoh+Ls1mdmm+EuOhfVkt6rZOdQMwj1KL1y2tyDSxpgv9hXOuk0LsL9vgwjQY=;YkzdkSEyT2ZMVkjkd2p1gg=="
 ---
 

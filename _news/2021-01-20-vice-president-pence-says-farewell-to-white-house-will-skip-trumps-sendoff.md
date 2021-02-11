@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Vice President Pence says farewell to White House, will skip Trump's sendoff"
-excerpt: "Vice President Mike Pence is among those who will not be attending President Donald Trump’s sendoff event at Joint Base Andrews."
-publishedDateTime: 2021-01-19T22:26:00Z
-originalUrl: "https://www.11alive.com/article/news/nation-world/mike-pence-farewell-twhite-house/507-1ca6cdb9-0043-474f-879e-41da3b1226b5"
-webUrl: "https://www.11alive.com/article/news/nation-world/mike-pence-farewell-twhite-house/507-1ca6cdb9-0043-474f-879e-41da3b1226b5"
-ampWebUrl: "https://www.11alive.com/amp/article/news/nation-world/mike-pence-farewell-twhite-house/507-1ca6cdb9-0043-474f-879e-41da3b1226b5"
-cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/nation-world/mike-pence-farewell-twhite-house/507-1ca6cdb9-0043-474f-879e-41da3b1226b5"
+excerpt: "WASHINGTON — Outgoing Vice President Mike Pence bid farewell to the White House on Tuesday, one day before President-elect Joe Biden is set to take the oath of office. In a tweet, Pence ..."
+publishedDateTime: 2021-01-20T07:12:00Z
+originalUrl: "https://www.ksdk.com/article/news/nation-world/mike-pence-farewell-twhite-house/507-1ca6cdb9-0043-474f-879e-41da3b1226b5"
+webUrl: "https://www.ksdk.com/article/news/nation-world/mike-pence-farewell-twhite-house/507-1ca6cdb9-0043-474f-879e-41da3b1226b5"
+ampWebUrl: "https://www.ksdk.com/amp/article/news/nation-world/mike-pence-farewell-twhite-house/507-1ca6cdb9-0043-474f-879e-41da3b1226b5"
+cdnAmpWebUrl: "https://www-ksdk-com.cdn.ampproject.org/c/s/www.ksdk.com/amp/article/news/nation-world/mike-pence-farewell-twhite-house/507-1ca6cdb9-0043-474f-879e-41da3b1226b5"
 type: article
 quality: 87
 heat: -1
 published: false
 
 provider:
-  name: 11Alive
-  domain: 11alive.com
+  name: KSDK
+  domain: ksdk.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://media.11alive.com/assets/CCT/images/3a1cf9c3-6f9d-4220-88f7-d463eb8c0cc3/3a1cf9c3-6f9d-4220-88f7-d463eb8c0cc3_1140x641.jpg"
+  - url: "https://media.ksdk.com/assets/CCT/images/3a1cf9c3-6f9d-4220-88f7-d463eb8c0cc3/3a1cf9c3-6f9d-4220-88f7-d463eb8c0cc3_1140x641.jpg"
     width: 1140
     height: 641
     isCached: true
@@ -3730,6 +3730,6 @@ related:
       domain: seattletimes.com
     quality: 25
 
-secured: "3fVC6+oPHc74U/mjtbKc31VZSoW92bHwQcY1XgkWIjl3HC5l9ww58t03FKgcsR+Sy7I3WKyDLFW5bSuGyoRDfYcdeiuUDPy553ajOf2Qy6wrNVlk3MpcxOmfULqpBsTRlytYdCu3uKIa6TncTOm8h8fWcP8tYpUEZT2Zxsdyo/KCreJlMb+8DhifEj0Ra//eQD2yuxvE4Axw1J+vZB2xgXM0PvO651m6E/TR0Zjbr/8VAhROuq74TFvdOe04viZCZ8sZcez+AKgWcTUakBDBzqddCivJ5PqWUKVdz9hX4kmLh12rbCcl3sLu26jDy1sxQTnyXSdPFzPBQp/dzEK92xxGFsA46jwB8+eRMkjgojU=;rXqxqLFOn86idOCw1WjAIQ=="
+secured: "Cev0y5Onsvo6bj1rGee3CvLiG1Z7XfK0ANrsD+pgdY7Q48HVWqvLP3G8TbDXISMFpaO6vcBJsU3DGuMm22bemUUHQVsIan07ZwGuWf88IgOQnFaES/fvsxd5X64VP7JbpfrLOIHcRfyMmttuVMQ2XR9bEbiDjADrdPv7LbKjJqVP81sXxIVuPN68KE1vXkbKr/8GYl8kFcsQ4hfgXigaRIFWKnIYtTUf+aU/KUCbrqJxIyTE5cZlcEbYPR4tyH6WdznR6GYlpEzFSAV6d3bg5Ry4w0Fx+WqJ2ENCOzWbAdeItkH01j+6Kf+hro+rcW8zgbDLPnIaPCtQQvqqjSRmsaTJK8hOAleQDBf2/qZdGkw=;qgdjZn4OigTE6hQqP7PgQw=="
 ---
 

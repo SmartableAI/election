@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/nikki-haley-biden-israel-iran-nucle
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nikki-haley-biden-israel-iran-nuclear-deal.amp"
 type: article
 quality: 157
-heat: 157
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -29,6 +29,40 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Nikki Haley warns illegal immigration hitting ‘crisis levels,’ amid Biden moves"
+    excerpt: "Nikki Haley on Wednesday warned that illegal immigration is hitting “crisis levels” in the wake of a number of reversals of key Trump-era policies by President Joe Biden -- with the former U.N. ambassador arguing that the U.S. needs to take care of “Americans first.”"
+    publishedDateTime: 2021-02-10T23:36:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ybEWnpLo3uA/haley-illegal-immigration-biden-policies"
+    ampWebUrl: "https://www.foxnews.com/politics/haley-illegal-immigration-biden-policies.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/haley-illegal-immigration-biden-policies.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/29ad43be-ef82-4891-814c-c63e8428c1be/341602a7-fa65-4e5f-aed0-8d066037eff0/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Nikki Haley calls Biden's executive order about transgender athletics an 'attack on women's rights'"
+    excerpt: "Nikki Haley has joined voices in opposition of President Biden’s executive order calling on schools to allow transgender athletes to participate in the sport of their gender identity, arguing in a column published Monday that it’s an “attack on women’s rights.” "
+    publishedDateTime: 2021-02-08T19:27:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/L6c-w3VdN4M/nikki-haley-criticizes-biden-executive-order-transgender-athletics"
+    ampWebUrl: "https://www.foxnews.com/politics/nikki-haley-criticizes-biden-executive-order-transgender-athletics.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nikki-haley-criticizes-biden-executive-order-transgender-athletics.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-zxjs75c-xl.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "b1LTT4oc9QvZm26V9PHc6jrd3AM2tNQ1WCB4pcrFifh7x1883xVWq9EPf42YDR1PSxEsIR8Wx+Knom6WXQIbX1hiIO63cv/9shfN4/9syaBd5iF5c/gaoynZ/o3pl/fk0+yZSvK1kTHvzh7pTUrWhHUimyVTVDKama6bbYCtG+DJxVcKsVj/psMwi/puu9mXe+uPbT6Oy17FvfhuXraOX1yowOF/ifEFQeG1WxsjGlV94MPuEee/bNdlggOCMF7q9vspByu1ZN4FykAsDN83pz5Bj2JkShfDKIZkA7nCaXBx+5O9jmqLrnZAQ1UVXwMy4afQXmeulvh0t6yEWQQ2xAcSHY/v0QJRVSMneUl0Bvs=;SY8DyBamFcwYl9R6D2JnWQ=="
 ---

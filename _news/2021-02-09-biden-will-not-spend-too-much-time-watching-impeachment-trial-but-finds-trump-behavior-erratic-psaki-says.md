@@ -464,6 +464,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "GOP Sen. Portman cites 'serious constitutional questions' with Trump impeachment trial"
+    excerpt: "Portman asserted that Trump “bears some responsibility” for the events of Jan. 6, when his supporters stormed the Capitol complex as lawmakers met to confirm President Biden’s election victory. However, the Ohio senator argued that impeachment, as detailed in the Constitution, is reserved for elected"
+    publishedDateTime: 2021-02-10T23:46:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xmYCZTnayOE/gop-sen-portman-serious-constitutional-issues-trump-impeachment-trial"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-sen-portman-serious-constitutional-issues-trump-impeachment-trial.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-sen-portman-serious-constitutional-issues-trump-impeachment-trial.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aa02fe3d-aae5-4b87-a3d8-ca13398bc8e9/d019a293-6513-47a8-a113-06b4ea181d46/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Scalise: Trump is out of office, but Democrats are 'still infatuated with impeachment'"
     excerpt: "House Democrats have turned the impeachment trial of former President Donald Trump into a \"Hollywood production,\" House Minority Whip Steve Scalise, R-La., told \"America Reports\" Wednesday."
     publishedDateTime: 2021-02-10T21:17:17Z
@@ -1211,6 +1227,22 @@ related:
       - url: "https://images.wsj.net/im-296098/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "GOP Sen. Portman cites 'serious constitutional questions' with Trump impeachment trial"
+    excerpt: "Portman asserted that Trump “bears some responsibility” for the events of Jan. 6, when his supporters stormed the Capitol complex as lawmakers met to confirm President Biden’s election victory. However,"
+    publishedDateTime: 2021-02-10T23:51:00Z
+    webUrl: "https://www.foxnews.com/politics/gop-sen-portman-serious-constitutional-issues-trump-impeachment-trial"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-sen-portman-serious-constitutional-issues-trump-impeachment-trial.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-sen-portman-serious-constitutional-issues-trump-impeachment-trial.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 127
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aa02fe3d-aae5-4b87-a3d8-ca13398bc8e9/d019a293-6513-47a8-a113-06b4ea181d46/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "LIVE UPDATES: Trump impeachment trial Day 2 kicks off with Democrats making their case"
     excerpt: "Democrats on Wednesday are making their case as to why President Donald Trump should be convicted in his impeachment trial -- a day after the Senate voted to move ahead with the trial."
