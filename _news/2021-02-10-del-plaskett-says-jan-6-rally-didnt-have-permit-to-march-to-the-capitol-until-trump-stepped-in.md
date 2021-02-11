@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/dem-plaskett-says-jan-6-rally-didnt
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dem-plaskett-says-jan-6-rally-didnt-have-permit-until-trump-stepped-in.amp"
 type: article
 quality: 162
-heat: 162
+heat: 182
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Raskin: Jan. 6 Was Not the First Time Trump ‘Inflamed and Incited a Mob’"
+    excerpt: "Maryland Rep. Jamie Raskin, the lead impeachment manager, made the case to senators Thursday that Jan. 6 was not the first time Donald Trump had “inflamed and incited a mob.” Mr. Raskin used clips of Mr."
+    publishedDateTime: 2021-02-11T20:13:00Z
+    webUrl: "https://www.wsj.com/livecoverage/trump-second-impeachment-trial-2021-02-11/card/ehi1Lw81jzwTa12YcFyx"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 114
+    images:
+      - url: "https://images.wsj.net/im-298160?size=1.5"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "bMvDppPD6ZXGlG7vuf/9IQ1Dhp4lThx3CfkzuUmTYEqV20SDZJtY0I9LBlE6Gp3iwVWbdcC9Ecg/gjOkURkeCfOFoyJwibmfpvH/qGv/EQ3RSTfvxLmynvFvv6xGLkmeXaMMgOm+IRbp3X9gEpsjRB5ZixNsBgIV0WMHugkWlOsqTGp8ijTxcRxa1ya7mUKZsPPNXrPT1Civ5VYkDiMTbRX4/gXio3zfprqIolkOo+DRAa6Qh4X9P56pv5cJawE7aoP9Ks6n9nEVFs10q9Eu1wE+/vH7P2CMDBknZxKZLW1t8W93VPUW5VIh4F6FlnsDzxlyBNtxFdAa8FP3P1+XI4AXIBLzS3Dc6npkMwiA4mc=;h2J45wJvp2eUwR9/304xlg=="
 ---

@@ -62,6 +62,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Democratic impeachment prosecutors use rioters' words against Trump at trial: 'We were invited here'"
+    excerpt: "House impeachment managers Thursday sought to directly connect former President Trump to the Jan. 6 violence at the Capitol by playing statements of the rioters who said they were acting on Trump's request."
+    publishedDateTime: 2021-02-11T20:28:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-yKAIToZEz8/democratic-impeachment-prosecutors-use-trumps-rioters-words-against-him-we-were-invited-here"
+    ampWebUrl: "https://www.foxnews.com/politics/democratic-impeachment-prosecutors-use-trumps-rioters-words-against-him-we-were-invited-here.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democratic-impeachment-prosecutors-use-trumps-rioters-words-against-him-we-were-invited-here.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Diana-DeGette.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Sen. Hagerty on impeachment trial: Dems want to 'humiliate' Trump and 'shame' supporters into conformity"
     excerpt: "The second impeachment of former President Donald Trump is an \"unconstitutional show trial\" that is meant to \"humiliate\" the 45th president and shame the people who voted for him, Sen. Bill Hagerty told \"Fox News @ Night\" on Wednesday."
     publishedDateTime: 2021-02-11T13:30:16Z
@@ -91,6 +107,22 @@ related:
     quality: 157
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21041820921336.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Democratic impeachment prosecutors use rioters' words against Trump at trial: 'We were invited here'"
+    excerpt: "House impeachment managers Thursday sought to directly connect former President Trump to the Jan. 6 violence at the Capitol by playing statements of the rioters who said they were acting on Trump's request."
+    publishedDateTime: 2021-02-11T20:31:00Z
+    webUrl: "https://www.foxnews.com/politics/democratic-impeachment-prosecutors-use-trumps-rioters-words-against-him-we-were-invited-here"
+    ampWebUrl: "https://www.foxnews.com/politics/democratic-impeachment-prosecutors-use-trumps-rioters-words-against-him-we-were-invited-here.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democratic-impeachment-prosecutors-use-trumps-rioters-words-against-him-we-were-invited-here.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 120
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Diana-DeGette.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-inauguration-coronavirus/index.html"
 type: article
 quality: 190
-heat: 3710
+heat: 3730
 published: true
 
 provider:
@@ -396,6 +396,22 @@ related:
     quality: 181
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210121104423-01-joe-biden-0121-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden prepares rollback of controversial Trump-era policy on migrants at southern border"
+    excerpt: "The Biden administration is preparing plans for the gradual entry of migrants forced to remain in Mexico under a controversial Trump-era policy, according to three Homeland Security officials.\n    \n"
+    publishedDateTime: 2021-02-11T18:58:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6uYUKfj8EPI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/11/politics/immigration-southern-border/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/11/politics/immigration-southern-border/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 181
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210204111219-06-immigration-file-asylum-seekers-mexico-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -1327,6 +1327,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Barriers at Trump Tower come down after more than 4 years"
+    excerpt: "The barriers surrounding Trump Tower in New York came down on Wednesday after more than four years, another moment signalling the end of the Trump presidency."
+    publishedDateTime: 2021-02-11T20:51:00Z
+    webUrl: "https://thehill.com/homenews/state-watch/538492-barriers-at-trump-tower-come-down-after-more-than-4-years"
+    ampWebUrl: "https://thehill.com/homenews/state-watch/538492-barriers-at-trump-tower-come-down-after-more-than-4-years?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/538492-barriers-at-trump-tower-come-down-after-more-than-4-years?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumptower1_080320getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Timeline: How Trump picked the rioters over his vice president"
     excerpt: "So Pence announced that he would do what he had to: preside over the counting of electoral votes that day and, in so doing, finalize his own ouster from the vice presidency. Before he could do that, though,"
     publishedDateTime: 2021-02-11T16:14:00Z
@@ -1886,6 +1902,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1727595/donald-trump.jpg"
         width: 3028
         height: 2019
+        isCached: true
+  - title: "For decades Donald Trump bullied Palm Beach to get his way. Now he’s determined to make it his home."
+    excerpt: "From fireworks to a Madonna photo shoot, he has defied local officials. But they remain reluctant to fight the former president’s plan to live at his Mar-a-Lago Club."
+    publishedDateTime: 2021-02-11T11:06:00Z
+    webUrl: "https://www.washingtonpost.com/lifestyle/style/trump-palm-beach-fight-for-residency/2021/02/10/003e3fd0-671c-11eb-8c64-9595888caa15_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/lifestyle/style/trump-palm-beach-fight-for-residency/2021/02/10/003e3fd0-671c-11eb-8c64-9595888caa15_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/style/trump-palm-beach-fight-for-residency/2021/02/10/003e3fd0-671c-11eb-8c64-9595888caa15_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 110
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AFKLLETLAUI6XJTO4JYEN2PITA.jpg&w=1440"
+        width: 1440
+        height: 1267
         isCached: true
   - title: "Trump's shaken up legal team hints it will focus on constitutionality of impeaching a former president"
     excerpt: "Former President Donald Trump announced two new attorneys who will lead his impeachment defense team: David Schoen and Bruce Castor"

@@ -3,8 +3,8 @@ category: news
 title: "Senate panel clears Biden's nomination of Boston mayor for labor secretary"
 excerpt: "President Joe Biden's nomination of Boston Mayor Marty Walsh to serve as the next secretary of labor won approval from a Senate committee on Thursday, clearing the way for a vote by the full Senate."
 publishedDateTime: 2021-02-11T18:18:00Z
-originalUrl: "https://www.reuters.com/article/employment-dol-idUSL1N2KH1S5"
-webUrl: "https://www.reuters.com/article/employment-dol-idUSL1N2KH1S5"
+originalUrl: "https://www.reuters.com/article/employment-dol/senate-panel-clears-bidens-nomination-of-boston-mayor-for-labor-secretary-idUSL1N2KH1S5"
+webUrl: "https://www.reuters.com/article/employment-dol/senate-panel-clears-bidens-nomination-of-boston-mayor-for-labor-secretary-idUSL1N2KH1S5"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2KH1S5"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2KH1S5"
 type: article
@@ -24,6 +24,6 @@ topics:
   - Election
   - Joe Biden
 
-secured: "ZHuGp81ZsRLZZAi+FLbPhu84ZMzyAjTgryy6Cqp3vsdsZ32fpQhgAUPco2BBiMKxsH9m6N4VxyYGC6LGsup6zsNNjMwNPWkhSY2Go4DX0RBSyyYiej1iKl+cp4sa8nqhLQjGcpT5InTKNt8bO/HOiYOFZyfPkgb1Ec3aR/x0trmFTfifweUUweTN0PO28xERTO7EXLH3jg6oC4Wf8fGjErTvYkMXUXuv648FEVMj9B97cqzmjHXspiHnH3Mf5FAe4c4ZwGJkJ07lOqgoyzOMBJGa4SCWNxl+Ep2fnrmuP1VBpGzQnfWuaHLgp9JBm3fzHqX1cGZvo2DRAVDKNXoyiGLCC33s82ZcFKAsomnlYvE=;9yao3c3uQHGP9IVT2qcMLA=="
+secured: "g1IJmSUD4W3XueyPzMf2juBTqE8Dr7/BwTowBhPLylCxZjeYY5dMOHMeExKu+7NHPFvbVRFYrEUKnI0433riPE4q+yWzpAQN1B2o24VSq3AkR17ahOIU3rmlRh4J2MIvOcxX1OLQq0wct2QgNojCJvfH76f3CNALGFVyCBI1WhN07jeVY16d0OrMNc3auocirT3yZvtkWJiycD4SP7LONkJfC/lQ7MY7VPwMz9Nw06Mm1vEKgQ2t2p94MZWKSmtkYrs4OEGBbpal3uEX8lco1T2OO/2nZihjGhKaXjY3jl7fewQmtfHcy1WeOwTRK9kgcP3DjItj1qu1LNuVD2ArRQBdfm0Eqvq60ueHhSgY5LI=;dn6KaNDNpFZIKFfm9Ru0yA=="
 ---
 

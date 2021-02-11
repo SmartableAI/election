@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-sidesteps-trump-impeachment-t
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-sidesteps-trump-impeachment-trial-questions.amp"
 type: article
 quality: 185
-heat: 2085
+heat: 2105
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Psaki avoids Trump impeachment trial questions, says of Biden, ‘He's not a pundit'"
+    excerpt: "For the third day in a row, White House press secretary Jen Psaki sidestepped repeated questions about President Biden’s opinion on the Trump impeachment trial. "
+    publishedDateTime: 2021-02-11T19:59:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CQBJlih1GLA/psaki-trump-impeachment-trial-questions"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-trump-impeachment-trial-questions.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-trump-impeachment-trial-questions.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 184
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/AP21040649824674.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Biden says 'no need' for Trump to receive intel briefings: 'What impact does he have?'"
     excerpt: "President Biden said he didn’t think his predecessor should receive intelligence briefings, as is standard for former presidents. "

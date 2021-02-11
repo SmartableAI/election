@@ -137,6 +137,22 @@ related:
         width: 1024
         height: 641
         isCached: true
+  - title: "Biden decree ends 'emergency' that Trump used to build wall"
+    excerpt: "President Joe Biden has officially ended the “national emergency” that President Donald Trump declared in order to take money from the Pentagon to build a wall along the U.S.-Mexico border"
+    publishedDateTime: 2021-02-11T20:36:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-decree-ends-emergency-trump-build-wall-75833943"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-decree-ends-emergency-trump-build-wall-75833943"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-decree-ends-emergency-trump-build-wall-75833943"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_67a71bccfa5846c0b971c4076a135886_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden says Trump should not receive intelligence briefings: CBS interview"
     excerpt: "U.S. President Joe Biden does not believe his predecessor Donald Trump should have access to intelligence briefings because of his \"erratic behavior\" and the concern he might share information, the Democrat said in an interview on Friday."
     publishedDateTime: 2021-02-06T06:03:00Z
@@ -1159,6 +1175,20 @@ related:
     quality: 105
     images:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/e36265da-bd9d-4614-b868-1ea0bb58104c_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "WH: Biden remarks weren't trial prediction"
+    excerpt: "The White House press secretary says President Joe Biden wasn’t offering a “projection or a prediction” on the outcome of Donald Trump’s impeachment trial when Biden weighed in on the proceedings earlier Thursday."
+    publishedDateTime: 2021-02-11T20:03:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/02/11/wh-biden-remarks-werent-trial-prediction/6725838002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/ab4c7d32-bd4d-40fa-b64c-4df494d8f51e_poster.jpg?quality=10"
         width: 1920
         height: 1080
         isCached: true

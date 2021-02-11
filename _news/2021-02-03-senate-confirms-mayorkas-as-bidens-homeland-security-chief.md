@@ -89,6 +89,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Joe Biden-Xi Jinping Call Shows President's Respect for China, State Media Says"
+    excerpt: "Biden said he raised several contentious topics with his Chinese counterpart, including human rights abuses and the coronavirus pandemic."
+    publishedDateTime: 2021-02-11T15:44:00Z
+    webUrl: "https://www.newsweek.com/biden-xi-call-shows-us-president-respect-china-state-media-1568588"
+    ampWebUrl: "https://www.newsweek.com/biden-xi-call-shows-us-president-respect-china-state-media-1568588?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-xi-call-shows-us-president-respect-china-state-media-1568588?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 121
+    images:
+      - url: "https://d.newsweek.com/en/full/1732393/joe-biden-speaks-state-department.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "TFu4207Yaqtc8Rib/YiyJEgO3eyQn4N6n+sjC7O0iE2ZgXSvgmFZYEON4kolvfv0ugnKpC2WLd1BIRLetO2+gVm99BSzCgEDbYnS37iBHgKA9c+55GYvReeKnWNqnt4Fo9CiDVmAFrCf+HjN3xCmG7Hl+S7GQ6HK9FvklXfjmD8shin7QPLGdtSwN7Yt/yqD5Srp7YkvBDTSgYrFfl/dL58EAKH1zdiOQUmfueZT05bCijLHtI5ZimWt2rm9quDs++7HMPa1EpuAH0JkBE4YRftk7deXhm/9swXtIseZzALXXY59AzTAt8mditBd2F3xcgKK3QGr2hx907y5MXkH6m+7X2AHG627izd2O8OUyEU=;P/9qjP4w5ziS75bKwdlmtQ=="
 ---

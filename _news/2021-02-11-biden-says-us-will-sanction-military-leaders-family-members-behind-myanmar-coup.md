@@ -61,6 +61,15 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Joe Biden and Mitch McConnell Could End Up in a Truce, Thanks to Myanmar"
+    excerpt: "This article is part of the The DC Brief, TIME’s politics newsletter. Sign up here to get stories like this sent to your inbox"
+    publishedDateTime: 2021-02-11T20:07:00Z
+    webUrl: "https://time.com/5938518/biden-mcconnell-myanmar-sanctions/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 84
 
 secured: "kxRGsCgiO6LFFf82VN5lVNu3Dj7yJV4RpxgK8bIvzOXE6LxqmhuaLaYp8UIRUihALuhadqZA0ECssTYvsc0k69wZ7RB1qY3SXYRX35TfzXO1vuKANg7ri+CeB5VkaKVmh8SAXJyv4tbX8OX2uzoLUpr4xcLd92bIxRYxQMPj73D9B7mFMx4pDsnwbEaMI+Mgl1xEbmefJykqRdyHCtiBne+D+OlsvFQQ9ugVYNSd1t0U8Kpp2sKEFOvq5ncOi+rpJvwfSDsZcIYC2mC/yIdXGqvAcIO08fKVlG8LxuPpcJDXypUM6xMmnTSXvsBCrw3KwbNs6WAB1vaghUQVp9wyxR6QWBlfUYO3qkPSeb7CuPY=;peIUai+vqLPXxpWiXSAelg=="
 ---

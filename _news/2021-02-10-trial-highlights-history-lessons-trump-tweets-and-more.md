@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trial-highlights-histo
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trial-highlights-history-lessons-trump-tweets-75789773"
 type: article
 quality: 125
-heat: 305
+heat: 325
 published: true
 
 provider:
@@ -142,6 +142,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/VjqPxpVay4Rtjf9n1-Kum6ELaAg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/CORIAL3QTZH3RM7WDGTYMNE7NY.aspx"
         width: 1200
         height: 675
+        isCached: true
+  - title: "'This was his state of mind': Impeachment manager highlights Trump's 'pattern and practice' of inciting violence before the Capitol siege"
+    excerpt: "\"Time after time, he encouraged violence, his supporters listened and they got the message,\" impeachment manager Jamie Raskin said."
+    publishedDateTime: 2021-02-11T19:03:00Z
+    webUrl: "https://www.businessinsider.com/impeachment-manager-trump-pattern-practice-inciting-violence-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/impeachment-manager-trump-pattern-practice-inciting-violence-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/impeachment-manager-trump-pattern-practice-inciting-violence-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 92
+    images:
+      - url: "https://i.insider.com/60153fc56dfbe10018e00ea3?width=1200&format=jpeg"
+        width: 1200
+        height: 599
         isCached: true
   - title: "Marjorie Taylor Greene falsely suggests Trump supporters didn't carry out the Capitol siege days after apologizing for endorsing conspiracy theories"
     excerpt: "she tweeted. \"The attack RUINED our objection that we spent weeks preparing for, which devastated our efforts on behalf of Trump and his voters.\" Greene's tweet was part of a longer thread about the siege and former President Donald Trump's Senate ..."

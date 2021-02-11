@@ -64,6 +64,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Schumer leaves door open to 14th Amendment measure to bar Trump from office"
+    excerpt: "Senate Majority Leader Chuck Schumer Thursday did not rule out bringing legislation to bar former President Donald Trump from office if he is not convicted at the ongoing Senate impeachment trial. "
+    publishedDateTime: 2021-02-11T19:56:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xbrLHYWKpqI/schumer-leaves-door-open-to-14th-amendment-measure-to-bar-trump-from-office"
+    ampWebUrl: "https://www.foxnews.com/politics/schumer-leaves-door-open-to-14th-amendment-measure-to-bar-trump-from-office.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schumer-leaves-door-open-to-14th-amendment-measure-to-bar-trump-from-office.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump impeachment is 'partisan farce,' Schumer would deserve to be impeached too: Rand Paul"
     excerpt: "Sen. Rand Paul, R-Ky., described the looming impeachment trial of former President Donald Trump as a \"partisan farce.\""
     publishedDateTime: 2021-02-07T15:16:31Z
@@ -112,6 +128,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Democratic impeachment managers allege Trump would incite future violence if allowed to run again"
+    excerpt: "Democratic House impeachment managers warned that convicting former President Donald Trump and disqualifying him from running again was not just a necessary consequence for the role they say he played in the Jan. 6 Capitol riot, but as a means of preventing such an event from occurring again."
+    publishedDateTime: 2021-02-11T20:10:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Apqz5bdT_9Y/impeachment-managers-trump-future-violence"
+    ampWebUrl: "https://www.foxnews.com/politics/impeachment-managers-trump-future-violence.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/impeachment-managers-trump-future-violence.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Jamie-Raskin-Trump-Impeachment-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Mike Lee's objection to ‘false’ Trump impeachment evidence causes stir as Dems set for closing arguments"
     excerpt: "The House impeachment managers will continue their case Thursday, after making their argument over the last two days that Trump should be convicted of inciting an insurrection on the Capitol."
     publishedDateTime: 2021-02-11T12:56:02Z
@@ -157,6 +189,22 @@ related:
     quality: 135
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/trump-raskin.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Schumer leaves door open to 14th Amendment measure to bar Trump from office"
+    excerpt: "Senate Majority Leader Chuck Schumer Thursday did not rule out bringing legislation to bar former President Donald Trump from office if he is not convicted at the ongoing Senate impeachment trial."
+    publishedDateTime: 2021-02-11T20:04:00Z
+    webUrl: "https://www.foxnews.com/politics/schumer-leaves-door-open-to-14th-amendment-measure-to-bar-trump-from-office"
+    ampWebUrl: "https://www.foxnews.com/politics/schumer-leaves-door-open-to-14th-amendment-measure-to-bar-trump-from-office.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schumer-leaves-door-open-to-14th-amendment-measure-to-bar-trump-from-office.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 133
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/GettyImages-1230970311.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true

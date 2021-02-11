@@ -1311,6 +1311,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Barriers at Trump Tower come down after more than 4 years"
+    excerpt: "The barriers surrounding Trump Tower in New York came down on Wednesday after more than four years, another moment signalling the end of the Trump presidency."
+    publishedDateTime: 2021-02-11T20:51:00Z
+    webUrl: "https://thehill.com/homenews/state-watch/538492-barriers-at-trump-tower-come-down-after-more-than-4-years"
+    ampWebUrl: "https://thehill.com/homenews/state-watch/538492-barriers-at-trump-tower-come-down-after-more-than-4-years?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/538492-barriers-at-trump-tower-come-down-after-more-than-4-years?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumptower1_080320getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Timeline: How Trump picked the rioters over his vice president"
     excerpt: "So Pence announced that he would do what he had to: preside over the counting of electoral votes that day and, in so doing, finalize his own ouster from the vice presidency. Before he could do that, though,"
     publishedDateTime: 2021-02-11T16:14:00Z
@@ -1886,6 +1902,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1727595/donald-trump.jpg"
         width: 3028
         height: 2019
+        isCached: true
+  - title: "For decades Donald Trump bullied Palm Beach to get his way. Now he’s determined to make it his home."
+    excerpt: "From fireworks to a Madonna photo shoot, he has defied local officials. But they remain reluctant to fight the former president’s plan to live at his Mar-a-Lago Club."
+    publishedDateTime: 2021-02-11T11:06:00Z
+    webUrl: "https://www.washingtonpost.com/lifestyle/style/trump-palm-beach-fight-for-residency/2021/02/10/003e3fd0-671c-11eb-8c64-9595888caa15_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/lifestyle/style/trump-palm-beach-fight-for-residency/2021/02/10/003e3fd0-671c-11eb-8c64-9595888caa15_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/style/trump-palm-beach-fight-for-residency/2021/02/10/003e3fd0-671c-11eb-8c64-9595888caa15_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 110
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AFKLLETLAUI6XJTO4JYEN2PITA.jpg&w=1440"
+        width: 1440
+        height: 1267
         isCached: true
   - title: "Trump's shaken up legal team hints it will focus on constitutionality of impeaching a former president"
     excerpt: "Former President Donald Trump announced two new attorneys who will lead his impeachment defense team: David Schoen and Bruce Castor"
@@ -2914,6 +2946,6 @@ related:
       domain: usnews.com
     quality: 46
 
-secured: "eXiHVmYCW4hIdT+aDDZ1Ab+EWNg9AuF2nkgAY7tR3ne0mFeuJQqLwlC/llYEN7mkTUEqpoufeLTTpStoPEAbpAIkXOkUjq1JQb2vk0gD1xjybDMaT5oKf5aUp1JpWSv8rsJVmTJWO+Vavbf7ez9lF0raviyAsuyQNQKxO+GnzMUgWAn/G2Dpkf1vRE/YKe53EBB1OJBNxEJG4Fshyr6PdXG67yktie1iRewIz1WIfn/XmS22g0lWsHP0nmJKRUhZjCS5VJ2+/X4JgDokNLzo4WYCmZX4fQx/4soWmnm6frylMBVgQdpqkHhyZ22r72M48T5ljfaWD/221/HaDqTfZek5i2jfszHj+JqkggkHZ7o=;noW9OeQdT6gF65yg2sapMA=="
+secured: "xtHcblZKGd8FDQmBLMxc+FSyHdHn6eTuDPibYqUyqh1V7X5o8XU06S9nf756dify3RupL6u4J2c0NWijKRTSi2YcuvMgPNTtBgR53jDDJH3YiS/qIkqAPc6yfnEYVE7fmgPBh3yZ4FOdvMhamxKpS7eCC8T0WrKXYkO4q6/9oDK+W5yvvpP8IizL/8lQLPWK5oy1igxPqZJVVuFm5AzYAvrPLpugWxVzqemiFF4f/4s4p/IjA2/UqwaSu8ckqmPX7+I6N575NO0+PHKN8Hk6cxHo29tcf/jfQvehbgyyjuS8Dt1uJ4PcwxLwWtUyNMN1I2qHvcnRdgRd7dePbPEQrDpej5X5IEEiFE+geBlUYcezG/mqizSn8RGtBzkg0ydAvPzcVJMKkpTdWPfh2FJ7dxS10L881XDXf6yZ4BznmazedvX9sGJ1spOV++cJ94xPLCbghxzMc+GLIkcsoGHWStouME7WYS0/bi2LVFTNQKO416hxeVxqFBR5EIX6Igdvn/2KHpGMycG0T+zMu4hROg==;XTqEztJWTSa4DwtgjhxeAA=="
 ---
 

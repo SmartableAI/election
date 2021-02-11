@@ -654,6 +654,20 @@ related:
         width: 1120
         height: 629
         isCached: true
+  - title: "Trump Has a ‘Pattern and Practice of Inciting Violence,’ Raskin Says"
+    excerpt: "Representative Jamie Raskin, the lead impeachment manager, outlined a history of former President Donald J. Trump’s incitement and support of violence among his supporters leading up to the Jan. 6 Capitol riot."
+    publishedDateTime: 2021-02-11T20:13:00Z
+    webUrl: "https://www.nytimes.com/video/us/politics/100000007600219/raskin-trump-impeachment-speech.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/11/us/politics/11impeachment-briefing-new-lede2/11impeachment-briefing-new-lede2-facebookJumbo.jpg?video-overlay"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Trump's impeachment legal defense will wrap up its case Friday"
     excerpt: "That means Trump’s defense team will use just one day to defend the former president, who has been impeached for inciting an insurrection."
     publishedDateTime: 2021-02-11T18:45:00Z
@@ -669,6 +683,6 @@ related:
         height: 773
         isCached: true
 
-secured: "VePeqJYIsyKa5Eb+0XU8w1M2OdOUupaIH9WhRfGCcwj7k+tImDS5ix7nUxvP8wyx2Dh6hvVQiPDjs8y0dnm1k3Jl912k+TRDnSs18ZcEGog7QYEFBaD1k22hHdfA1xYHwocyj32aRCHbMBNmCu4PtthRNT82mFEUXdQIpj/vkOHoB10+dhNunH+aloFWF3aIZ30YN0TKUmAb/C/d5svpVmTiltLUOfP7n5zRlU8sH29YDDzgONQMVSeZdLYfx+y6GpqY6MbjokyJkgR+Aw0k257UpVlKD0RPoy6FQyT1isPDXv6E4Pul+Sy2dC7wCyZYB01MUMKR1uztL8F5s+K7s7euTfrktK0JNUpJth5MmGU=;bbrWymwxJV67uM3rLP4DtA=="
+secured: "tdKsNNEf+kCOSIbGi2tjYTskFP3fvzFC0slYl7XPAON/F5JEAAQhxwk24TzbdCusB8t0V2Wse5lw79E//EnvgvVaByBb+ken2E6Uq2AAop5YSzpQyQhQbnZamwlDNoQsTFnqLVlG/ETJV9rdIsHIzlU96/Pm1Out0kNokcMuxt4LsQibwbxMuvUei8En/9hkgxBVVV/h1TBRFqOHor3s0zqkO5ToQrezHrR8qb3IkA1zQ6pbFQ3XaNnwJwl8eqzyH+5yM+zzWJv5Iv58FpbqAndLEgNP/+piDGBUeEirU1ZiBkRQxNvDtWZRF9RIEA3Y8llvkNNmDjcJgyvhAl9RSvo1gHbCqBDe6KvWWrltZYwq5adB7LXkfHo2SPtXKDaddJEkE6RvOYgqg1AE6myLHvgUy/6qAUAgWWF6BspZpOjx90/RowFNxl1jwPwM6aLz8R1jhLLGHi7Imh8aE3utZHBmg8bZvn98Y07kuex/Kg0lTMJJZPX8wb3caRuuWNr8XteeYh4nooNtQm/i+EM8TA==;bjSntWY6sqoifn3f9Vop+w=="
 ---
 

@@ -47,6 +47,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "How a leading anti-Trump group ignored a crisis in its ranks"
+    excerpt: "Last June, the Lincoln Project was on a high. Led by several prominent former Republican consultants, its slickly produced ads attacking President Donald Trump made it perhaps the"
+    publishedDateTime: 2021-02-11T20:21:00Z
+    webUrl: "https://nypost.com/2021/02/11/how-a-leading-anti-trump-group-ignored-a-crisis-in-its-ranks/"
+    ampWebUrl: "https://nypost.com/2021/02/11/how-a-leading-anti-trump-group-ignored-a-crisis-in-its-ranks/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/11/how-a-leading-anti-trump-group-ignored-a-crisis-in-its-ranks/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/lincoln-2.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "As4xBllV9QytX1lg/+atzaV7B+lylUK6QuT8JHHpBH15AhR7plDm5qBSFpEZC15ZldUikcaoNksuCEroIW8ZRN6DT6gZYnXdiPNJhe/5Nzx0pHIGjmhEg9DkMVeE2iV+9182/NZNSL3bY5jbZpps4Ju4Uvo+80z2aONHihbYb3PB2qfUKmxLmIFyEDnpZ5HSU22vteOgHZJ1CIVQ5UPB/zpPyQn8EZf+f93O4iN2wkftQVGb4pWNAeemQg5y3QBsAPFwMAwRyNk9KX9WuL6jXYqjH5kAsHbcEr/kcjo0NbaHUc1YsorunVae/f8RR7OJKe0qhE08FuOiiTVs8lRdGmrmx7lvcrLG53/b6Ao0GX4=;02dG2wHUrzLXTzSG8voyoQ=="
 ---

@@ -143,6 +143,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "'This was his state of mind': Impeachment manager highlights Trump's 'pattern and practice' of inciting violence before the Capitol siege"
+    excerpt: "\"Time after time, he encouraged violence, his supporters listened and they got the message,\" impeachment manager Jamie Raskin said."
+    publishedDateTime: 2021-02-11T19:03:00Z
+    webUrl: "https://www.businessinsider.com/impeachment-manager-trump-pattern-practice-inciting-violence-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/impeachment-manager-trump-pattern-practice-inciting-violence-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/impeachment-manager-trump-pattern-practice-inciting-violence-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 92
+    images:
+      - url: "https://i.insider.com/60153fc56dfbe10018e00ea3?width=1200&format=jpeg"
+        width: 1200
+        height: 599
+        isCached: true
   - title: "Marjorie Taylor Greene falsely suggests Trump supporters didn't carry out the Capitol siege days after apologizing for endorsing conspiracy theories"
     excerpt: "she tweeted. \"The attack RUINED our objection that we spent weeks preparing for, which devastated our efforts on behalf of Trump and his voters.\" Greene's tweet was part of a longer thread about the siege and former President Donald Trump's Senate ..."
     publishedDateTime: 2021-02-09T14:56:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/10/politics/affordable-care-act-obam
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/10/politics/affordable-care-act-obamacare-biden-supreme-court/index.html"
 type: article
 quality: 184
-heat: 524
+heat: 544
 published: true
 
 provider:
@@ -302,6 +302,20 @@ related:
       - url: "https://media2.s-nbcnews.com/i/newscms/2021_06/3448692/210209-impeachment-mc-1146_31329143d6a8b3ce563beb58e6ca970a.JPG"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Biden administration extends housing protections to LGBTQ people"
+    excerpt: "Same-sex couples and transgender individuals disproportionately experience housing discrimination and will now have access to recourse under federal law."
+    publishedDateTime: 2021-02-11T17:01:00Z
+    webUrl: "https://www.nbcnews.com/feature/nbc-out/biden-administration-extends-housing-protections-lgbtq-people-n1257468"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media4.s-nbcnews.com/j/newscms/2021_06/3449368/210211-rainbow-flag-building-mn-1105_ed6e6300827f3cbed200fe7a7b46c75c.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "6cUAqFt43xwJhqyacVrtdDdUVNw3S8xVDpiFZ0d/dpb95/P5GDBR4CGQX40g6o8kOQJ/EBDhn/Bptmbj/IH8GOZKSs3/UQgYhY542eQllfRhf5cg+/MxA61q9IHD4auu62y8BG3j+Nkdsw58RQGHYFiCvFlmAQZHlEao2PAtmd5vbL7Y6PLyhYdZoQFzf41Jw0U/9ncweDBaCHP6ZsWiWbG1C+FtTL9iOaRC2lRUMOur1edcVgwdFa2Ms1ITDsYWXYFVekFkxfrKdFY8Jo0+HseT8eG3VYXVDXl3dTuqxoOwh6RYeb4xNMoojnDA2MtYjz0LTDDUO/y90SfcgJTqCjmyviBD19kQ2/zcV8fQU/4=;RqcPVS1WBlVWzlUuYwA8wA=="

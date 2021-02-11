@@ -303,6 +303,20 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Biden administration extends housing protections to LGBTQ people"
+    excerpt: "Same-sex couples and transgender individuals disproportionately experience housing discrimination and will now have access to recourse under federal law."
+    publishedDateTime: 2021-02-11T17:01:00Z
+    webUrl: "https://www.nbcnews.com/feature/nbc-out/biden-administration-extends-housing-protections-lgbtq-people-n1257468"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media4.s-nbcnews.com/j/newscms/2021_06/3449368/210211-rainbow-flag-building-mn-1105_ed6e6300827f3cbed200fe7a7b46c75c.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "d+6sEHarpYIx4Bm7ln1dx490KkE+B3mcpTZ1HdG6RMfKO+Ri73WNSFW2GE9vVROlTKcA5CeQyE4Mtk2T1kvYQOk5LjIwM/3HZTOoip/t0y0+DeT8ca0wxcxzIMW8bpX3KAKfif/HoK3ELk+GbnkXx/oCyAcFSL19/Pn49knMnb3uSopJ4xXJjppIMCGpnHScAmdjPQUdSZGbQLdsAUDWldUqWjiHRkBldHJ+1BFYcGR/Ze3SPyF8d0Zb+AftgYcuilXxl8RsjSabFc26zHGvy5yqJAwj/yjZY4NGZqPMXYo9+E8/yoSK4A7mNTLEshBESDbfH0rfuEYQ+J3R5z1iB/3T5WMLPoM5ZjIBBOFKyDc=;6EJZvFoAI2Ku8cxloR3LMg=="
 ---

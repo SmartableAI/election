@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A529V"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A529V"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Joe Biden-Xi Jinping Call Shows President's Respect for China, State Media Says"
+    excerpt: "Biden said he raised several contentious topics with his Chinese counterpart, including human rights abuses and the coronavirus pandemic."
+    publishedDateTime: 2021-02-11T15:44:00Z
+    webUrl: "https://www.newsweek.com/biden-xi-call-shows-us-president-respect-china-state-media-1568588"
+    ampWebUrl: "https://www.newsweek.com/biden-xi-call-shows-us-president-respect-china-state-media-1568588?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-xi-call-shows-us-president-respect-china-state-media-1568588?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 121
+    images:
+      - url: "https://d.newsweek.com/en/full/1732393/joe-biden-speaks-state-department.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Senate confirms Mayorkas as Biden's homeland security chief"
     excerpt: "The Senate confirmed Alejandro Mayorkas on Tuesday as President Joe Biden's homeland security secretary, the first Latino to fill a post that will have a central role in the government's response to ,"

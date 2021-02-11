@@ -1,10 +1,10 @@
 ---
 category: news
 title: "US President Joe Biden and US Vice President Kamala Harris visit the Pentagon"
-excerpt: "Chairman of the Joint Chiefs of Staff Mark Milley (2nd R) and Secretary of Defense Lloyd Austin, tour the African Americans in Service Corridor at the Pentagon in Arlington, Virginia, on Wednesday February 10,"
+excerpt: "Chairman of the Joint Chiefs of Staff Mark Milley (R) and Secretary of Defense Lloyd Austin, tour the African Americans in Service Corridor at the Pentagon in Arlington, Virginia, on Wednesday February 10,"
 publishedDateTime: 2021-02-10T22:03:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/8bee0c8fbbfcead1fe35a9929bafeab3/US-President-Joe-Biden-and-US-Vice-President-Kamala-Harris-visit-the-Pentagon/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/8bee0c8fbbfcead1fe35a9929bafeab3/US-President-Joe-Biden-and-US-Vice-President-Kamala-Harris-visit-the-Pentagon/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/a42f8b5d9723248e8054805d879d49ef/US-President-Joe-Biden-and-US-Vice-President-Kamala-Harris-visit-the-Pentagon/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/a42f8b5d9723248e8054805d879d49ef/US-President-Joe-Biden-and-US-Vice-President-Kamala-Harris-visit-the-Pentagon/"
 type: article
 quality: 67
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/8bee0c8fbbfcead1fe35a9929bafeab3/PENTAGON-BIDEN.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/a42f8b5d9723248e8054805d879d49ef/PENTAGON-BIDEN.jpg"
     width: 650
     height: 433
     isCached: true
@@ -1351,6 +1351,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "AIlNBjGS8i1QKFc5xPD5Kg4uZoV5APOEBwvdXq6WcsSPcKZNA9HlDYe/y/wRhxsFgimPxIWw0fVGgb18FrI/3J1NVNpcHkFZOAn/qkvtUNS2Mk5ZZT1nsd3XrhzaIPUXU2BQBLOWAOrhfVF1XCo/qQz9tzRRlmbW8F5WS86CHbCm+WY3S0pNTgyeSeHVbJA5bRsAe0XYxjIleg36gvad8T94J7QMrW0A3YLavYdPkzXZLJ6dr7c7Uy53AQsLCrLY//GCPrQty3alZKNPDIfsdZ/ZSZtQRaRRZ4gnQbMk0oZSxDQQehq4bY3GL7jB9s9oAeqZ2yhxmw78BE/901NTJIrjtRW8kcuW4rb4v0WjcBP6oF5EXpMvfcYh0Wwy620wZpHSJepQrB6mxw3NhPmdniNRnPRO/ZPk887Fgc0opJEIFYMAAKgGp5JB9BQPVQrvW74p1uFLGKf8M8F1GFUmiDGU1f5PV/kpbihREi9zb/hDcQA7Duq6cPaUpDVFhNWS24XXCHbSlkc1U/QVjpyCTQ==;Yr7PMkkBEuhpMevjrVAApw=="
+secured: "cwiLyj9lAs5Oq2NCAKrsW7ghvLfWRjYRFo+iFGrIdwrHMZs4saGOH45JzhtSDSj4oNtSOxRyh0tlN1fgBn05Rz/500lAoVJumAi4p703orjXUdRQF6QjpZ7LI9gDq0l1UGyIzOL6PGxf547WhjmJHDR/nQ0RCnvYApqf5r2LGLLgapyxpkULCF1laIJbEYg/B0RAeyJWujIGQqv3QRW+EgUfbLrnXKyiMMpF32N+nMO5yjcJBpQoMX7IhaQmGWqOMdWza1EOK3FgtlYhUuVy4luF8X51mb1h05B4PKv+nG5R4fiCrPKjxNw5NVNEkdbf4BBahiWHyLaRKw21kZpZSDMyDDIY+Hm53d+BhHi4OVQ=;gAnvDjY44j/VviFsIB+C6Q=="
 ---
 

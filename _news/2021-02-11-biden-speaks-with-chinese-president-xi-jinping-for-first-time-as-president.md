@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The Point: How Joe Biden's Cabinet picks are making history"
+    excerpt: "Being nominated to serve in a presidential Cabinet is, obviously, a huge honor. It's also been decidedly perilous in recent years.\n    \n"
+    publishedDateTime: 2021-02-11T20:11:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5MczPoxfEpE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/11/politics/biden-cabinet-nominations-approval/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/11/politics/biden-cabinet-nominations-approval/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210127133810-20210128-biden-interactive-cabinet-tracker-card-image-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden emphasizes 'urgency' of $1.9T relief after Summers' op-ed on inflation"
     excerpt: "President Joe Biden responded to a new, sluggish jobs report by continuing to press for his $1.9 trillion Covid relief package to be passed with urgency -- even as a leading economist who served in the Obama administration is sounding the alarm on how the White House's plan could have negative economic"
     publishedDateTime: 2021-02-05T16:28:48Z

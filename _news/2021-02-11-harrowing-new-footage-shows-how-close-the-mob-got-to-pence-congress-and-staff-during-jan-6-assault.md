@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6712324002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6712324002"
 type: article
 quality: 110
-heat: 150
+heat: 170
 published: true
 
 provider:
@@ -31,19 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "See how close the mob got to Mike Pence"
-    excerpt: "See how close the mob got to Mike Pence Up Next, 'I just had to laugh at myself' Video, 00:01:41'I just had to laugh at myself' What's going on in Central African Republic? Video, 00:04:20What's going on in Central African Republic?"
-    publishedDateTime: 2021-02-11T18:43:00Z
-    webUrl: "https://www.bbc.com/news/av/world-us-canada-56033907"
+  - title: "House impeachment managers emphasize the danger to Pence and other top officials in harrowing retelling of Jan. 6 attack"
+    excerpt: "The powerful presentation commanded the full attention of the Senate Chamber, but it remains unclear whether it would sway enough Republicans to convict former president Donald Trump."
+    publishedDateTime: 2021-02-11T20:32:00Z
+    webUrl: "https://www.washingtonpost.com/politics/senate-impeachment-trial-trump/2021/02/10/17863674-6bbe-11eb-9f80-3d7646ce1bc0_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/senate-impeachment-trial-trump/2021/02/10/17863674-6bbe-11eb-9f80-3d7646ce1bc0_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/senate-impeachment-trial-trump/2021/02/10/17863674-6bbe-11eb-9f80-3d7646ce1bc0_story.html?outputType=amp"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
-    quality: 105
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 100
     images:
-      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p01tlf61.jpg"
-        width: 400
-        height: 225
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/H4NB4QTL7QI6XH4AHV3ENTQ3YA.jpg&w=1440"
+        width: 1440
+        height: 810
         isCached: true
   - title: "Graphic new video shows rioters looking for Pence"
     excerpt: "Prosecutors in Donald Trump's impeachment trial have unveiled never-before-seen video video showing the mob of rioters breaking into the Capitol and searching menacingly for former Vice President Mike Pence while they chanted,"
@@ -58,6 +60,20 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/9443ab34-1135-4db3-abd3-d8db0c02923b_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "See how close the mob got to Mike Pence"
+    excerpt: "Newly released security footage shows the peril the vice-president and other lawmakers were in."
+    publishedDateTime: 2021-02-11T20:51:00Z
+    webUrl: "https://www.bbc.co.uk/news/av/world-us-canada-56033907"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 55
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p01tlf61.jpg"
+        width: 400
+        height: 225
         isCached: true
 
 secured: "p6UiorjQZMtTFxRA5g5IZaVPKS/L1WaEI1e9z2JsfQLs3yw9jYeFISYV82GioESALQldD2VR7cTPO0VPLuDDyeJcTKNGseUDrdo923dcDX71kEUY5uCUSL75EZL4UZR6rLEK0zO2RhPFYj9D1+iMw8r7zss/TD8g074c1yyGeTOu5U5mwCmQzthDotySo5Dtgtoxx98mx78GpuNBmwwMJ8Ma3XDZhGTqcZk8Dq2mAs45KuNa6LOfD6Gtp3v4WziqlEMQsYsm0pYpRZai69VL/1/xaft3N2SdCNE4JdMeNo9BCrxZ10kYv27tVX/tcI5wa2qvxtgq1pB5APKz23Gc+eVgVG/q78hnPSY/ZZzM85V1Dtcopg6d9xH40YbUzkEtuqswKagkHMVcuOHqYlkm9wDAxqKcQd1gCJvskSr9x8Kju6b1Vmax/WF8lY+Mv/QixxrbKSSuM7t98yDi3ZiD1QKc3DdqeQ/iMy3YcHfn+6s4pIsCQc95hHIQyanwL958vw7zh7ci+T7En0iR8Jip6Q==;cSlCHu3/pYjHRg6W25OYrA=="

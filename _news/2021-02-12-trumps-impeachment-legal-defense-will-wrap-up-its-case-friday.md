@@ -668,6 +668,20 @@ related:
         width: 1120
         height: 629
         isCached: true
+  - title: "Trump Has a ‘Pattern and Practice of Inciting Violence,’ Raskin Says"
+    excerpt: "Representative Jamie Raskin, the lead impeachment manager, outlined a history of former President Donald J. Trump’s incitement and support of violence among his supporters leading up to the Jan. 6 Capitol riot."
+    publishedDateTime: 2021-02-11T20:13:00Z
+    webUrl: "https://www.nytimes.com/video/us/politics/100000007600219/raskin-trump-impeachment-speech.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/11/us/politics/11impeachment-briefing-new-lede2/11impeachment-briefing-new-lede2-facebookJumbo.jpg?video-overlay"
+        width: 1050
+        height: 549
+        isCached: true
 
 secured: "wZOXEXmYw/NBqRhEIODw7UewJgAsTK0RN22znFGPxynIQmdJb6u112gxpIaDEWJMmQwLdNaP8R9mpL8NLg4VhtCfT9VXsEwjxeeayjQ5HxZz4M2Tt1Ivjsggj9o+LDSweX3xxBKaAYHR6i3ItZJy3fftyDKsCPjzk8n8tTfTPRBSiq6hCRMdW+72hovGx8Q1LZeSM3Hy48onIT0o4m7lQFnPMj+DN0ywcnKnONmZwuy84ECW5UwaV1CcDB36A62xQN1cYMncpWZ784aUIY3jUlbyib+eMQH++kUM4vkFkCRJaLij12xR7tRc/NJQZuvq4Fx9BBqRhAVNuiw9jMjqjGpJUY/GdTYlQCOh1EmupcQ=;fDgyKohu0sUb8Xq5K9bG+w=="
 ---

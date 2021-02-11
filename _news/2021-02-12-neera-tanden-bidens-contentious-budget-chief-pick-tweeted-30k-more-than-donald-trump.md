@@ -143,6 +143,22 @@ related:
         width: 1024
         height: 641
         isCached: true
+  - title: "Biden decree ends 'emergency' that Trump used to build wall"
+    excerpt: "President Joe Biden has officially ended the “national emergency” that President Donald Trump declared in order to take money from the Pentagon to build a wall along the U.S.-Mexico border"
+    publishedDateTime: 2021-02-11T20:36:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-decree-ends-emergency-trump-build-wall-75833943"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-decree-ends-emergency-trump-build-wall-75833943"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-decree-ends-emergency-trump-build-wall-75833943"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_67a71bccfa5846c0b971c4076a135886_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden says Trump should not receive intelligence briefings: CBS interview"
     excerpt: "U.S. President Joe Biden does not believe his predecessor Donald Trump should have access to intelligence briefings because of his \"erratic behavior\" and the concern he might share information, the Democrat said in an interview on Friday."
     publishedDateTime: 2021-02-06T06:03:00Z
@@ -1163,6 +1179,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "WH: Biden remarks weren't trial prediction"
+    excerpt: "The White House press secretary says President Joe Biden wasn’t offering a “projection or a prediction” on the outcome of Donald Trump’s impeachment trial when Biden weighed in on the proceedings earlier Thursday."
+    publishedDateTime: 2021-02-11T20:03:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/02/11/wh-biden-remarks-werent-trial-prediction/6725838002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/ab4c7d32-bd4d-40fa-b64c-4df494d8f51e_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Trump's lawyers will argue impeachment trial is unconstitutional after split with old legal team over voter fraud"
     excerpt: "Donald Trump's attorneys are expected to center his impeachment defense on the Constitution and arguments he didn't incite the Capitol riot."
     publishedDateTime: 2021-02-02T08:26:00Z
@@ -1322,6 +1352,6 @@ related:
         height: 800
         isCached: true
 
-secured: "KGnCTLAYXNSbtvuId4a+Q9QoKh5LrjuEaTW4f/oYmyftOebPwRjIpcR8Hn1dVn3r/OyngmECKuopdb8jpFCzJANZEVjfQfc3hiuto6qflRPC4diAnuZ5bbzX1wLJTefN/sEf3pH/QPBEWxm6fy9fHGj0gOoc76darVR2mC33y8gSNaC9hAwBO8+gAgb9GnJJ01La8UnZBVA1V6+019BGXnVlMErhe+NpK3aHD7Y1iUNurxhGZQ+FKrz42zx2JD5VraPfjXFnQRUSHg/lxenbvwQhs1DAkqCYbbIcSdzlx8lI5vQ39mSM3HQwWURJhE5aXXtP8a64j6Ql7+Zl+2qq1oQ9IpVB9KU3ODDTEa8JIKw=;2KCSTPvH6vVpFkwNGOkLmg=="
+secured: "sgvuT2kvxnF/dNIKVIFbsJEI7n5xW8awo1fg9z+/o7VuVQ9ETlBbL0Sb8VYi4BVCUV91K8fLCuYB9gPF4ZfqZ8GxGlftbU4v4MhsTSQhiuDoaeFfMNjMHG7FwyqpOQG5rji8Z2PzEHK5TflsUfMiJq2AtAFPRqllpBUsMkxcASfoqyICBDrHTl4aPHsiAyznrLV3/S4Xt1iI56NeW95WUHh8EIleck9/j6qUgM8YY8RcoAPV2rTaUCwt5RhAbD1HYsImmjoE9yRWXiNIg01tVzftW0ueSLzHtqj6fxQPVHBrJtL6bokpZTuScqewWAvlUWbzmutUgjNRWfPj6geuLNmOPe603CXtlLMwnohYq6xhL5m3U4Bj7rXiYFycWwA7n8156PCaJ1p7BmdxLA2OcsQY3fGeIcOyHN5TRAxbGTow2EpraQtgypzDFaKmYH9aAeROODX/p9uQJBEuhVG8dHabAdpdiX6Gn7yNIFE5j2KVk+3yTkVgoyNu8OuiCnt//cLpMDwoM8g8ZGsTWd/C6g==;GnmZWEmwF2tZnOREjIvsrQ=="
 ---
 

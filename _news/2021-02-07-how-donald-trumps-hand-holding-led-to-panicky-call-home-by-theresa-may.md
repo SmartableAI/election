@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/07/how-donald-trumps-ha
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/07/how-donald-trumps-hand-holding-led-to-panicky-call-home-by-theresa-may"
 type: article
 quality: 125
-heat: 165
+heat: 205
 published: true
 
 provider:
@@ -31,21 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "'Fighting for Trump:' Democrats say Capitol attackers were answering ex-president's call"
-    excerpt: "Democrats making the case for Donald Trump's conviction for inciting the deadly attack on the U.S. Capitol on Jan. 6 focused on Thursday on the former president's role in assembling and inflaming the rioters and the damage wrought in the rampage."
-    publishedDateTime: 2021-02-11T18:40:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-trump-impeachment-idAFKBN2AB22D"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN2AB22D"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN2AB22D"
+  - title: "AP FACT CHECK: The senator and Trump's misdialed phone call"
+    excerpt: "Donald Trump’s Senate impeachment trial hit a temporary snag this week when a Republican senator objected to how Democrats characterized a phone call from the president during the Capitol insurrection"
+    publishedDateTime: 2021-02-11T20:37:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-senator-trumps-misdialed-phone-call-75834176"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-senator-trumps-misdialed-phone-call-75834176"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-senator-trumps-misdialed-phone-call-75834176"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 116
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210211&t=2&i=1551209010&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1A1EN"
-        width: 817
-        height: 545
+      - url: "https://s.abcnews.com/images/Politics/WireAP_38f13d7254734aaf8c5adf9e7014bc2a_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Impeachment managers say insurrectionists came to Capitol because Trump 'told them to' – live"
+    excerpt: "Congresswoman Diana DeGette says insurrectionists even questioned why police tried to block them as they followed Trump’s instructions"
+    publishedDateTime: 2021-02-11T20:06:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/11/donald-trump-impeachment-senate-trial-live-news-updates?page=with:block-6025013c8f083a72e444e293"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/11/donald-trump-impeachment-senate-trial-live-news-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/11/donald-trump-impeachment-senate-trial-live-news-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 114
+    images:
+      - url: "https://i.guim.co.uk/img/media/7f5733b1fe59734a9c8909c09045f903174195c1/22_0_5330_3199/master/5330.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e87baa6bac0701cb8fc8341694b623a3"
+        width: 600
+        height: 360
         isCached: true
   - title: "The way Senate Republicans are acting during Trump's impeachment proceedings would likely lead to juror removal in any other trial"
     excerpt: "In a regular criminal proceeding, a judge can remove jurors for not paying attention, being absent, or falling asleep, among other infractions."
@@ -63,6 +79,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "'Fighting for Trump:' Democrats Say Capitol Attackers Were Answering Ex-President's Call"
+    excerpt: "Democrats Say Capitol Attackers Were Answering Ex-President's Call WASHINGTON (Reuters) - Democrats making the case for Donald Trump's conviction for inciting the deadly attack on the U.S. Capitol on Jan."
+    publishedDateTime: 2021-02-11T20:28:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-02-11/democrats-to-focus-on-terrible-toll-of-riot-as-trump-impeachment-trial-continues"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-02-11/democrats-to-focus-on-terrible-toll-of-riot-as-trump-impeachment-trial-continues?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-02-11/democrats-to-focus-on-terrible-toll-of-riot-as-trump-impeachment-trial-continues?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 46
 
 secured: "HVYIzhYpzujkK7ZL9cXIHxkUdRNauVFYdzfFBN2TRYWjqZO9FTdwjquFPLW78q+rtOVkjc22HIpPfkznn4Q5FbA1W1pnthw5i4+AlJ/fsgHNFjryH3S3KpYWti9MCmrxRT0zqeqfHEmZf6InaURlhLVCHVjUgsc8p82+Qq5IpycGdf0duaDG8XWYPRcfWLfljUjIadU/iGd7m8yTLobzlgcn6ysx5Q1WlsCGJzZb9HtHQ3j65Ox4eYaLFLE/W7zlMUOpP2yTuOs8JkiE7XsvsVue02XCX0U7iQO1mbftSRmM1wiiQm9IINuqPueaCliA8JWT9jg/UmHElCqh7GYEgwsvpXbYsOqRxcgeyraTV2c=;RFka8SSi2Bjg4sTqRDmKfA=="
 ---

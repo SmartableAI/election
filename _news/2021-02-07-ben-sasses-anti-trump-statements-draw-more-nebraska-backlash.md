@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/ben-sasses-anti-trump-statements-dr
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ben-sasses-anti-trump-statements-draw-more-nebraska-backlash.amp"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "How a leading anti-Trump group ignored a crisis in its ranks"
+    excerpt: "Last June, the Lincoln Project was on a high. Led by several prominent former Republican consultants, its slickly produced ads attacking President Donald Trump made it perhaps the"
+    publishedDateTime: 2021-02-11T20:21:00Z
+    webUrl: "https://nypost.com/2021/02/11/how-a-leading-anti-trump-group-ignored-a-crisis-in-its-ranks/"
+    ampWebUrl: "https://nypost.com/2021/02/11/how-a-leading-anti-trump-group-ignored-a-crisis-in-its-ranks/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/11/how-a-leading-anti-trump-group-ignored-a-crisis-in-its-ranks/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/lincoln-2.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "JGmhaBeaDpN3DJ5MDAo68DHfoBgSX0jDVUAa3D4YkeAl/t2xVM0/Z9+fj8ynDgbpScI+XL0ca8DPsMo8epnf/Ng1XllftHNJfQZ00pBeHVOzdHnnJ0ty2ukg6m5u+35zWVnLz+OxN+wyHPjyfZ0cuefmeNFwOkNMcpMbF3S8kZDYQle8IpS5rRWLN1i8PZ4ALXk0VTVTKbgWL2BpBbzYDnezxhcqvf3CjAaMkcbHZUXdhMnSYFZ3mssQLhZ2p1uhtmkJbjdoL7Npkj9p/ZQeOxuFcRm10CeKrkEm1jj+fCAqe34seyJ08PEV1xWHjyIrqikS4LofpBnDUtSTPzEbj6cwJ4gGhLaeOT8rN0AzpY4=;8HxcLWS8uU0omptL9sDPIQ=="

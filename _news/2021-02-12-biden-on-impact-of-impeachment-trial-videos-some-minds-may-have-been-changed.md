@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The Point: How Joe Biden's Cabinet picks are making history"
+    excerpt: "Being nominated to serve in a presidential Cabinet is, obviously, a huge honor. It's also been decidedly perilous in recent years.\n    \n"
+    publishedDateTime: 2021-02-11T20:11:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5MczPoxfEpE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/11/politics/biden-cabinet-nominations-approval/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/11/politics/biden-cabinet-nominations-approval/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210127133810-20210128-biden-interactive-cabinet-tracker-card-image-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden speaks with Chinese President Xi Jinping for first time as President"
     excerpt: "President Joe Biden spoke with China's President Xi Jinping late Wednesday, according to a senior administration official, their first call since Biden took office.\n    \n"
     publishedDateTime: 2021-02-11T02:39:57Z
@@ -187,6 +203,6 @@ related:
         height: 629
         isCached: true
 
-secured: "qEDgYDhVpYQHGzdZLw0xLceAIJ5woEJLfslNOQyWS76rQI3HjeA7AuVixOvv+dsICjum3uzRFyWHFCoDxmLEULFj2Ng4vZGpNQ1028HdP3ylQ4XVEUPJOBvnwPptzhd9Dc1P5JYhoK/6R7Qv1JCluPXtn1x7fdPfprBIKsfvn2U7n671ljByBVrrwgExvA/EljebtWkpyobjAtgKePrAkr7SXu+uhFrsGvwTMtJCXtaXt6xTxyZkCRd01jvPnllY7KhJw3T7gJRIQapWR41K8hh2tlYW2//Yfx3AnHTO4RG2fg6E6mj60s8O4yBgxOW6JCrwkcBfuKf5g4MBHnoPyOEpqEm3fZVwO9SMUHSzlmI=;XAdC10wxjw2ni6kdfw8UNg=="
+secured: "nBnV4R1uJMeH0q3N0WyA3ThjyapbS1w+HeP0C0PgCaIDfUJDzl44Au5lzpy8eWTpSaIFGcFCFvbzP5p+UosluBtk0sBvhTkAtKu32RmOypjkw/y9/vy+ZB+o0F1EQYCxv25gJ0jwxksyTqifhbr5E3IoVqis4P7VQr72HXOoeNErtYoC9V1DP3vLLbcpeYsj8dR6V29FdOwqHdS2UNfgvlhZS5iQPvqlz7bhw0buXR5lYdYLQEd+2pbyyLBdpGZ4pfnD6gje2b3SAvvZH/ERavLEtehvQ8MMkX9wN0nDcSEjAcHYnYpauW35yTOuxnjmoXKnNJ6pdbjeKPGXZaMUOATP9l9Hh+/zrD45W8NDbCRfDrKv1/SEjjuqNgzwX6Ua/KlmrtrRoR36Ja/taypLk/HEX74DUclMHNCIkriVrP+TbfM3WA/PZ8kXkX+bhSMvf6lW0SK0/sgy48qa1vd5u91TLmzMvjAXelT1MHLmTcNTdxcjReuLVAJClZ7IPwkCZeZVVC9nxkKa2RmhJ5X74w==;OSN2Y6NTbJnREjOOMbw8aA=="
 ---
 
