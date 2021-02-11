@@ -127,6 +127,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Americans Agree With Joe Biden That Donald Trump Shouldn't Get Intelligence Briefings—Poll"
+    excerpt: "Most Americans believe former President Donald Trump should not receive intelligence briefings on national security matters after President Joe Biden said he would not be sharing classified intel with his predecessor."
+    publishedDateTime: 2021-02-11T12:16:00Z
+    webUrl: "https://www.newsweek.com/americans-agree-donald-trump-no-intelligence-briefings-1568546"
+    ampWebUrl: "https://www.newsweek.com/americans-agree-donald-trump-no-intelligence-briefings-1568546?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/americans-agree-donald-trump-no-intelligence-briefings-1568546?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 140
+    images:
+      - url: "https://d.newsweek.com/en/full/1732295/donald-trump-boards-marine-one.jpg"
+        width: 1024
+        height: 641
+        isCached: true
   - title: "Biden says Trump should not receive intelligence briefings: CBS interview"
     excerpt: "U.S. President Joe Biden does not believe his predecessor Donald Trump should have access to intelligence briefings because of his \"erratic behavior\" and the concern he might share information, the Democrat said in an interview on Friday."
     publishedDateTime: 2021-02-06T06:03:00Z
@@ -142,6 +158,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210205&t=2&i=1550527703&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH141NW"
         width: 867
         height: 545
+        isCached: true
+  - title: "Biden says 'some minds' may be changed by video from Trump impeachment trial"
+    excerpt: "President Biden on Thursday said he believed “some minds” may have been changed on whether to convict former President Trump after House impeachment managers presented harrowing video of the Jan. 6 Capitol attack."
+    publishedDateTime: 2021-02-11T16:26:00Z
+    webUrl: "https://thehill.com/homenews/administration/538420-biden-says-some-minds-may-be-changed-by-video-from-trump-impeachment"
+    ampWebUrl: "https://thehill.com/homenews/administration/538420-biden-says-some-minds-may-be-changed-by-video-from-trump-impeachment?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/538420-biden-says-some-minds-may-be-changed-by-video-from-trump-impeachment?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 137
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_02112021getty.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "White House says Biden is too busy to pay much attention to Trump impeachment trial"
     excerpt: "As Washington is consumed with the impeachment trial of the last president, the current one tries to look too busy to care."
@@ -174,22 +206,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/0c62bd0c2e1cf5df8c5a11d9dcba4bb0f73cf035/0_0_4325_2594/master/4325.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=b7b5bc628e54a9b51e5d464c0473d97d"
         width: 600
         height: 360
-        isCached: true
-  - title: "Americans Agree With Joe Biden That Donald Trump Shouldn't Get Intelligence Briefings—Poll"
-    excerpt: "Most Americans believe former President Donald Trump should not receive intelligence briefings on national security matters after President Joe Biden said he would not be sharing classified intel with his predecessor."
-    publishedDateTime: 2021-02-11T12:16:00Z
-    webUrl: "https://www.newsweek.com/americans-agree-donald-trump-no-intelligence-briefings-1568546"
-    ampWebUrl: "https://www.newsweek.com/americans-agree-donald-trump-no-intelligence-briefings-1568546?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/americans-agree-donald-trump-no-intelligence-briefings-1568546?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 130
-    images:
-      - url: "https://d.newsweek.com/en/full/1732295/donald-trump-boards-marine-one.jpg"
-        width: 1024
-        height: 641
         isCached: true
   - title: "Biden to visit wounded soldiers at Walter Reed Hospital"
     excerpt: "President Joe Biden is making his first major foray outside the White House, to visit wounded soldiers at Walter Reed Hospital, just outside Washington"
@@ -639,6 +655,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "‘Not a pundit,’ Biden ignores impeachment trial to focus on his priorities"
+    excerpt: "Biden avoids commenting on Trump's impeachment trial as the White House, exercising message discipline, talks almost exclusively about its own agenda."
+    publishedDateTime: 2021-02-11T16:02:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-02-11/what-impeachment-trial-biden-makes-point-of-ignoring-impeachment-to-focus-on-priorities"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-02-11/what-impeachment-trial-biden-makes-point-of-ignoring-impeachment-to-focus-on-priorities?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-02-11/what-impeachment-trial-biden-makes-point-of-ignoring-impeachment-to-focus-on-priorities?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 123
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/037b7a6/2147483647/strip/true/crop/6000x3919+0+41/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fd2%2Fe8%2Fc2f21c41435887be264920541e5e%2Fla-photos-1staff-713003-na-pol-0210-impeachment-kkn-35709.JPG"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Biden to meet with Senate Republicans offering covid relief counter-proposal"
     excerpt: "The GOP proposal would significantly narrow eligibility for a new round of $1,400 stimulus checks Biden wants to send to individual Americans."
     publishedDateTime: 2021-01-31T19:03:00Z
@@ -701,6 +733,22 @@ related:
     images:
       - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210206&t=2&i=1550593345&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH141O2"
         width: 824
+        height: 545
+        isCached: true
+  - title: "Graphic riot videos not enough to convict Trump, some Republican senators say"
+    excerpt: "Multiple Republican senators found graphic videos of the deadly Jan. 6 attack on the U.S. Capitol upsetting but suggested they would not lead them to convict former President Donald Trump of inciting insurrection."
+    publishedDateTime: 2021-02-11T16:13:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-republicans-idUSKBN2AB14N"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AB14N"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AB14N"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210211&t=2&i=1551170271&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1A0QY"
+        width: 968
         height: 545
         isCached: true
   - title: "How Obamacare Survived Trump and What Biden Might Do"
@@ -823,6 +871,22 @@ related:
     images:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210203&t=2&i=1550212723&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1219E"
         width: 817
+        height: 545
+        isCached: true
+  - title: "In Myanmar coup response, Biden approves order for sanctions on generals, businesses"
+    excerpt: "U.S. President Joe Biden announced on Wednesday he had approved an executive order for new sanctions on those responsible for the military coup in Myanmar and he repeated demands for the generals to give up power and free civilian leaders."
+    publishedDateTime: 2021-02-11T03:19:00Z
+    webUrl: "https://www.reuters.com/article/uk-myanmar-politics-idUKKBN2AA2OL"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2AA2OL"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2AA2OL"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 118
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210210&t=2&i=1551094237&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH191W9"
+        width: 799
         height: 545
         isCached: true
   - title: "Congresswoman urges Biden team to involve more distributors in COVID vaccine shipments"
@@ -1198,6 +1262,17 @@ related:
         width: 1024
         height: 716
         isCached: true
+  - title: "Biden on Trump Trial: 'Some Minds May Have Been Changed'"
+    excerpt: "The president said he did not watch Donald Trump’s Senate trial but has seen news coverage and suspects that 'some minds may have been changed.'"
+    publishedDateTime: 2021-02-11T16:51:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-02-11/biden-on-trump-trial-some-minds-may-have-been-changed"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-11/biden-on-trump-trial-some-minds-may-have-been-changed?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-11/biden-on-trump-trial-some-minds-may-have-been-changed?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
   - title: "WATCH LIVE: Impeachment managers set to screen ‘heinous’ video of Capitol attack as Trump trial resumes"
     excerpt: "It will provide new insight into both the extreme violence that everyone suffered (and) the threat that it could have led to further violence and death,” a Democratic aide said."
     publishedDateTime: 2021-02-10T16:50:00Z

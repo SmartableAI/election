@@ -159,6 +159,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "5 takeaways from Day 2 of Donald Trump's impeachment trial"
+    excerpt: "The second day of former President Donald Trump's Senate impeachment trial was dominated by a detailed and damning documentation of the events leading up to the January 6 riot at the US Capitol by the House impeachment managers.\n    \n"
+    publishedDateTime: 2021-02-10T23:41:42Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/n9wti7zpn_I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/10/politics/trump-impeachment-trial-day-2-takeaways/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/10/politics/trump-impeachment-trial-day-2-takeaways/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210209185027-03-impeachment-trial-2021-sketch-0209-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Prosecutors in Georgia open criminal investigation into Trump's attempt to influence election results"
     excerpt: "A prosecutor in Fulton County, Georgia, has opened a criminal investigation into former President Donald Trump for his \"attempts to influence the administration of the 2020 Georgia general election.\"\n    \n"
     publishedDateTime: 2021-02-10T16:39:33Z
@@ -300,6 +316,22 @@ related:
     quality: 163
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200128121852-01-mike-braun-senate-trial-0127-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Justice Department says an Oath Keepers leader waited for Trump's direction before Capitol attack"
+    excerpt: "The Justice Department is now making clear that a leader among the Oath Keepers paramilitary group -- who planned and led others in the Capitol siege to attempt to stop the Biden presidency -- believed she was responding to the call from then-President Donald Trump himself.\n    \n"
+    publishedDateTime: 2021-02-11T15:45:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sghmzOyvMhI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/11/politics/oath-keeper-justice-trump-capitol/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/11/politics/oath-keeper-justice-trump-capitol/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210122120101-jessica-watkins-mugshot-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -303,6 +303,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden rescinds national emergency at U.S. southern border that allowed Trump to fund border wall"
+    excerpt: "Biden informs Congress about rescinding the national emergency declaration on the U.S.-Mexico border that was put in place by Trump in February 2019."
+    publishedDateTime: 2021-02-11T16:52:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/11/biden-rescinds-trump-national-emergency-funded-border-wall/6720714002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6720714002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6720714002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 127
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/11/USAT/45466196-210e-4a98-93ee-62ad0151bd59-AP21041777544333.jpg?auto=webp&crop=5999,3374,x1,y580&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Historians rail against Trump administration's 1776 Commission"
     excerpt: "Experts call report released by former administration a ‘puerile, politically reactionary document’"
     publishedDateTime: 2021-01-22T08:00:00Z
@@ -1276,6 +1292,54 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/Politics/WireAP_665734fde56446f490ab46202cef9ef8_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Timeline: How Trump picked the rioters over his vice president"
+    excerpt: "So Pence announced that he would do what he had to: preside over the counting of electoral votes that day and, in so doing, finalize his own ouster from the vice presidency. Before he could do that, though,"
+    publishedDateTime: 2021-02-11T16:14:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/02/11/timeline-how-trump-picked-rioters-over-his-vice-president/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/02/11/timeline-how-trump-picked-rioters-over-his-vice-president/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/02/11/timeline-how-trump-picked-rioters-over-his-vice-president/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VSG3AYSVEAI6XLGFSLJIDGQ4ZM.jpg&w=1440"
+        width: 1440
+        height: 810
+        isCached: true
+  - title: "US agency cancels Trump policy on conservation purchases"
+    excerpt: "U.S. Interior Department officials are rolling back a Trump administration directive that gave local and state officials power to block purchases of land and water for conservation purposes"
+    publishedDateTime: 2021-02-11T16:34:00Z
+    webUrl: "https://abcnews.go.com/Lifestyle/wireStory/us-agency-cancels-trump-policy-conservation-purchases-75828731"
+    ampWebUrl: "https://abcnews.go.com/amp/Lifestyle/wireStory/us-agency-cancels-trump-policy-conservation-purchases-75828731"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Lifestyle/wireStory/us-agency-cancels-trump-policy-conservation-purchases-75828731"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Lifestyle/WireAP_21ccf908b44049c790640240fbf1478c_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "US distances itself from Trump attempts to ban WeChat"
+    excerpt: "A day after it put a hold on a proposed ban of TikTok, the Biden administration is distancing itself from attempts by former President Donald Trump to ban the China-owned messaging app WeChat"
+    publishedDateTime: 2021-02-11T16:32:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/us-distances-trump-attempts-ban-wechat-75829270"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/us-distances-trump-attempts-ban-wechat-75829270"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/us-distances-trump-attempts-ban-wechat-75829270"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Business/WireAP_84cece978c684e7d99b78c9d75c480c0_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
@@ -2610,6 +2674,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Impeachment managers vow to ‘bring home the goods’ after damning evidence of Trump’s inaction over threat to Pence"
+    excerpt: "The Democratic lawmakers say they believe evidence of inaction by Trump as the storming of the Capitol unfolded is proving particularly damning to the ex-commander in chief."
+    publishedDateTime: 2021-02-11T16:54:00Z
+    webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-impeachment-trial-trump-20210211-jey7kupshjebngo7z4zckegeqy-story.html"
+    ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-impeachment-trial-trump-20210211-jey7kupshjebngo7z4zckegeqy-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-impeachment-trial-trump-20210211-jey7kupshjebngo7z4zckegeqy-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 68
+    images:
+      - url: "https://www.nydailynews.com/resizer/Bb44XVM0flOXCj6ZEh9r2nlvnWo=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NYHGPBYPHRBRZAZFVUUQCFXVQ4.jpg"
+        width: 1200
+        height: 680
+        isCached: true
   - title: "Democrats Argue Trump Planted Seeds of Capitol Attack With False Election Claims"
     excerpt: "Democrats on Wednesday argued Donald Trump planted the seeds for the deadly attack on the U.S. Capitol long before Jan. 6 with false claims the 2020 election was stolen, and said lawmakers had an obligation to hold the former president accountable."
     publishedDateTime: 2021-02-10T20:16:00Z
@@ -2802,6 +2882,6 @@ related:
       domain: usnews.com
     quality: 46
 
-secured: "XhpncsWcmN6F6RAlKFES1yDXwCK2sefCfu9Do4dAXEZz/cXNMyvPdM0bufSBl0CIgoZt04DtXCRGrdbsNa9HyutMQYGAOaULWo2AhTAORY0WEpkkNk49dXCCpxyFARjMlKYP9fEzL1r503rVnBgcphtEW2doaoguZhGUQMREOmU4ZCI5xaN63jtnkl6EJflKe74RZMkoeEmw2AqK26Zesce15XpKzdpLsSfs/XO+QiZqezJnz65Ob9LaXXMrbvLcYtk4sNOyv9xXa92wuayXRZylQrSGZTPZSJpcJ1R8gy4TStjRYbWCfisZfpahpwwPNqyRjRqxu6Wmwzx+qof/G9gkN4RX40IvIP1YUuIpeUI=;1cTPMkgynSTr7IWRclv9rg=="
+secured: "hqsjmopeEIjY9pq7CNMPdYktIWZHPpVBkewoV4OdVOeTJa3iiAiH9n9eQ0ALNnvR0Qbz/EE3mWHIzFTWJ2/cF3Nk9s3QnKzXCUMNc/1K/DzcRW5Rs/1s8Z0u7dy4RmyH+Xxm9hj45W/20VTeLSINVPhYWn/SYSGVVskv1Kmv8AK/cxxDweEDEfsgivL+eQTIHXuCJCAvvnideIqzAkxzjhq4zRSUCZagA+/2ItzI32TTNQHQjG59ZjINDnD6zjbIbIJDIlXP8uLvDvLZCwohUqgUOnPqUAZBIemY5oYluiE2QsClU/jizSKBOOrEsqn66h86KnTrDJBPym0ZN2yLUXrSvD1PDGHjQF5x+JP6Bi1mn2adCC5Ep8/KQSnc2HgAcdEfVHzbYMEQYHElV8dc+QRj5xy4GId+s7rHAdSVoXOCiCQ8UwGTnWLL6cYU2gnBRRRC2KQiJmz7l7AkcR7cOBMa5xy6HQ7G/TH1rFyqNj4l6vxqwPcenjcXq/nOrxwuOqnawmCXNILwN+ftdoW3Qg==;XcJdZVy94q9cLP7kk0FRQQ=="
 ---
 

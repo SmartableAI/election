@@ -1920,6 +1920,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Biden formally ends Trump's national emergency declaration at the border"
+    excerpt: "President Joe Biden on Thursday formally terminated former President Donald Trump's two-year-old declaration of a national emergency at the U.S.-Mexico border, calling the order by his predecessor \"unwarranted."
+    publishedDateTime: 2021-02-11T16:35:00Z
+    webUrl: "https://www.politico.com/news/2021/02/11/biden-trump-national-emergency-border-468603"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/02/11/biden-trump-national-emergency-border-468603"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/02/11/biden-trump-national-emergency-border-468603"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 149
+    images:
+      - url: "https://static.politico.com/1c/77/33e3bd0d457aa1ea7673c376abbe/210211-joe-biden-getty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Trump Orders Lifting of Virus Travel Ban, but Biden Aides Vow to Block Move"
     excerpt: "The president’s proclamation, which would not take effect until Jan. 26, after Joe Biden assumes office, was part of a flurry of orders that Mr. Biden is likely to reverse."
     publishedDateTime: 2021-01-19T03:23:00Z

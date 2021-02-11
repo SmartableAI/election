@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-11-building-the-big-one-behind-the-scenes-of-bidens-19-trillion-bet.md",
+      "title": "Building the big one: Behind the scenes of Biden's $1.9 trillion bet  ",
+      "excerpt": "On January 5, as results came in from the Senate runoff election in Georgia, the texts between President-elect Joe Biden's senior staff went late into the night and into the next morning. With the Senate majority on the line, and full control of Washington in their grasp, the outcome of the two Georgia",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/e4brB_NVZgk/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/e4brB_NVZgk/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 375,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210210153022-20210210-biden-relief-package-illustration-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/11/politics/biden-1-9-trillion-bet/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/11/politics/biden-1-9-trillion-bet/index.html",
+      "publishedDateTime": "2021-02-11T07:10:01-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-11-harsh-reminder-key-takeaways-from-day-two-of-trumps-second-impeachment-trial.md",
       "title": "'Harsh reminder': Key takeaways from Day Two of Trump's second impeachment trial",
       "excerpt": "Democratic impeachment managers used Trump's past words to make him a constant presence as they played raw video of the Jan. 6 attack.",
@@ -59,62 +115,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-11-biden-speaks-with-chinese-president-xi-jinping-for-first-time-as-president.md",
-      "title": "Biden speaks with Chinese President Xi Jinping for first time as President",
-      "excerpt": "President Joe Biden spoke with China's President Xi Jinping late Wednesday, according to a senior administration official, their first call since Biden took office.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Avaqvhi82tA/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Avaqvhi82tA/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 233,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210210134821-03-biden-myanmar-0210-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/10/politics/biden-xi-call/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/10/politics/biden-xi-call/index.html",
-      "publishedDateTime": "2021-02-10T18:39:57-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-02-10-trump-advisers-say-he-hasnt-shown-remorse-for-the-insurrection-and-relationship-with-pence-remains-damaged.md",
       "title": "Trump advisers say he hasn't shown remorse for the insurrection and relationship with Pence remains damaged",
       "excerpt": "Advisers to former President Donald Trump say he still has not expressed remorse for the siege at the US Capitol, which could end up being important for Senate jurors to consider after House impeachment managers on Wednesday released new video of the violent mob's assault on January 6.\n    \n",
@@ -127,7 +127,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 862,
+      "heat": 902,
       "tags": null,
       "images": [
         {
@@ -184,7 +184,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 484,
+      "heat": 504,
       "tags": null,
       "images": [
         {
@@ -568,62 +568,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-10-merrick-garland-bidens-pick-for-attorney-general-has-confirmation-hearing-set-for-february-22.md",
-      "title": "Merrick Garland, Biden's pick for attorney general, has confirmation hearing set for February 22 ",
-      "excerpt": "President Joe Biden's nominee for attorney general, Judge Merrick Garland, is scheduled to appear before the Senate Judiciary Committee on February 22 and 23 for his confirmation hearing.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GWRNLp2MAkY/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GWRNLp2MAkY/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210106123403-04-merrick-garland-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/09/politics/merrick-garland-attorney-general-confirmation-hearing/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/09/politics/merrick-garland-attorney-general-confirmation-hearing/index.html",
-      "publishedDateTime": "2021-02-09T17:53:23-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-02-10-lin-wood-doubles-down-on-attacking-pence-roberts.md",
       "title": "Lin Wood doubles down on attacking Pence, Roberts",
       "excerpt": "In a court filing, the Atlanta lawyer again brought up bizarre, unsubstantiated allegations amid a bid to drive him off a libel suit.",
@@ -794,6 +738,62 @@
       ]
     },
     {
+      "path": "_news/2021-02-08-biden-says-closed-schools-and-loss-of-women-in-workforce-is-a-national-emergency.md",
+      "title": "Biden says closed schools and loss of women in workforce is a 'national emergency'",
+      "excerpt": "President Joe Biden said in an interview aired Sunday it was a \"national emergency\" that many students have been kept out of classrooms and that there has been a staggering loss of women in the workforce because of the coronavirus pandemic.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/x1bznthlNf4/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/x1bznthlNf4/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210205214008-02-biden-0205-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/08/politics/biden-schools-women-workforce-emergency/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/08/politics/biden-schools-women-workforce-emergency/index.html",
+      "publishedDateTime": "2021-02-08T08:46:42-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-08-tampa-bay-bucs-are-super-bowl-champs-major-turnover-for-desantis-administration-parscale-urges-trump-to-run-again-as-martyr.md",
       "title": "Tampa Bay Bucs are Super Bowl champs — Major turnover for DeSantis administration — Parscale urges Trump to run again as 'martyr'",
       "excerpt": "The Tampa Bay Buccaneers won their second Super Bowl in franchise history, following a dominating performance on both sides of the ball. In the quarterback battle of the aging yet savvy veteran vs. the rising superstar,",
@@ -936,62 +936,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/07/politics/super-bowl-nfl-biden-covid-19/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/07/politics/super-bowl-nfl-biden-covid-19/index.html",
       "publishedDateTime": "2021-02-07T20:16:34-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-07-biden-says-he-wont-lift-sanctions-on-iran-to-bring-country-back-to-negotiating-table.md",
-      "title": "Biden says he won't lift sanctions on Iran to bring country back to negotiating table",
-      "excerpt": "President Joe Biden said the US will not lift sanctions to get Iran back to the negotiating table, suggesting the measure would only happen if Tehran stops enriching uranium.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Q082ZBJbR2U/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Q082ZBJbR2U/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 228,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210207113412-01-joe-biden-0204-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/07/politics/biden-iran-sanctions/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/07/politics/biden-iran-sanctions/index.html",
-      "publishedDateTime": "2021-02-07T11:20:13-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -1245,62 +1189,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-05-biden-emphasizes-urgency-of-19t-relief-after-summers-op-ed-on-inflation.md",
-      "title": "Biden emphasizes 'urgency' of $1.9T relief after Summers' op-ed on inflation",
-      "excerpt": "President Joe Biden responded to a new, sluggish jobs report by continuing to press for his $1.9 trillion Covid relief package to be passed with urgency -- even as a leading economist who served in the Obama administration is sounding the alarm on how the White House's plan could have negative economic",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/R8TKNxpGN2I/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/R8TKNxpGN2I/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 212,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210205103040-biden-harris-schumer-stimulus-meeting-0203-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/05/politics/joe-biden-jobs-numbers-relief-package/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/05/politics/joe-biden-jobs-numbers-relief-package/index.html",
-      "publishedDateTime": "2021-02-05T08:28:48-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-02-05-live-updates-biden-to-speak-on-economy-hours-after-senate-approves-relief-package.md",
       "title": "Live Updates: Biden to Speak on Economy Hours After Senate Approves Relief Package",
       "excerpt": "President Biden and Vice President Harris plan to meet with House Democratic leaders Friday morning to discuss the stimulus package. The Senate approved Mr. Biden’s plan but knocked out the $15 minimum wage.",
@@ -1337,6 +1225,63 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-05-biden-to-call-for-protecting-lgbtq-rights-globally-in-memo.md",
+      "title": "Biden to call for protecting LGBTQ rights globally in memo",
+      "excerpt": "It reflects his deep commitment to these issues both here in the United States and everywhere around the world,\" national security adviser Jake Sullivan said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/feature/nbc-out/biden-call-protecting-lgbtq-rights-globally-memo-n1256792",
+      "originalUrl": "https://www.nbcnews.com/feature/nbc-out/biden-call-protecting-lgbtq-rights-globally-memo-n1256792",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2021_05/3447736/210204-lgbtq-supreme-court-jm-1642_5c78556d3c8be10a4f7294ac3d23f414.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1256792",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1256792",
+      "publishedDateTime": "2021-02-04T20:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1585,62 +1530,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-04-sanders-ocasio-cortez-and-blumenauer-unveil-bill-pushing-biden-to-declare-national-climate-emergency-we-are-out-of-time.md",
-      "title": "Sanders, Ocasio-Cortez, and Blumenauer unveil bill pushing Biden to declare national climate emergency: 'We are out of time'",
-      "excerpt": "Three progressive lawmakers introduced legislation Thursday that would require President Joe Biden to declare a national climate emergency, arguing that the US is \"out of time and excuses\" to deal with the climate crisis.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AzSqYukDp3M/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AzSqYukDp3M/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 148,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210204113752-bernie-sanders-aoc-2019-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/04/politics/sanders-aoc-climate-change-emergency-bill/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/04/politics/sanders-aoc-climate-change-emergency-bill/index.html",
-      "publishedDateTime": "2021-02-04T10:05:15-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-02-04-white-house-to-leave-any-intelligence-requests-from-trump-to-intel-community.md",
       "title": "White House to leave any intelligence requests from Trump to intel community",
       "excerpt": "The Biden White House says the intelligence community will review any incoming requests for intelligence briefings from former President Donald Trump, as has been customary for former presidents, though he has not yet made any.\n    \n",
@@ -1670,6 +1559,118 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/04/politics/intelligence-briefings-joe-biden-donald-trump/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/04/politics/intelligence-briefings-joe-biden-donald-trump/index.html",
       "publishedDateTime": "2021-02-04T07:57:39-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-04-biden-focuses-on-faith-and-unity-during-dark-dark-time-in-prayer-breakfast-remarks.md",
+      "title": "Biden focuses on faith and unity during 'dark, dark time' in prayer breakfast remarks",
+      "excerpt": "President Joe Biden on Thursday cited the importance of unity and faith during what he described as a \"dark, dark time\" for many Americans, as he continued the presidential tradition of participation in the National Prayer Breakfast.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0XqRDB2BV1Q/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0XqRDB2BV1Q/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210204101818-primera-biden-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/04/politics/biden-national-prayer-breakfast/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/04/politics/biden-national-prayer-breakfast/index.html",
+      "publishedDateTime": "2021-02-04T07:13:04-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-03-washington-post-manhattan-da-considering-prosecuting-steve-bannon-after-trump-pardon.md",
+      "title": "Washington Post: Manhattan DA considering prosecuting Steve Bannon after Trump pardon",
+      "excerpt": "The Manhattan District Attorney's Office is considering bringing state charges against Steve Bannon related to the same border wall fundraising campaign fraud scheme for which he was federally charged and then granted a presidential pardon, according to The Washington Post.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4v9ZYdWYC3s/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4v9ZYdWYC3s/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210203063618-file-steve-bannon-2020-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/03/politics/steve-bannon-manhattan-da-prosecution/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/03/politics/steve-bannon-manhattan-da-prosecution/index.html",
+      "publishedDateTime": "2021-02-03T06:15:26-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

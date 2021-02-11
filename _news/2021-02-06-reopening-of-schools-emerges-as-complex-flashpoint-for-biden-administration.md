@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's defense team expected to finish its arguments in one day"
+    excerpt: "Former President Donald Trump's defense team expects to finish its arguments in the Senate's impeachment trial by Friday night, two sources tell CNN.\n    \n"
+    publishedDateTime: 2021-02-11T16:45:17Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fh23YCpBO_w/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/11/politics/donald-trump-impeachment-defense-team-arguments/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/11/politics/donald-trump-impeachment-defense-team-arguments/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210210160111-03-impeachment-trial-2021-unf-0210-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration will review deportation of veterans and their families"
     excerpt: "The Biden administration will review the deportations of veterans and their family members, according to a White House official.\n    \n"
     publishedDateTime: 2021-02-08T15:24:38Z

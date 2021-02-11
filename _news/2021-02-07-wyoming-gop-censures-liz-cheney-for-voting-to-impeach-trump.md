@@ -125,6 +125,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Power Up: GOP senators decry Capitol riot. But their fealty to Trump remains intact"
+    excerpt: "Capitol riot. New recordings showed by House impeachment managers left some lawmakers on both sides of the aisle visibly shaken after they illustrated just how close rioters came to harming then-Vice President Pence,"
+    publishedDateTime: 2021-02-11T16:39:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/02/11/power-up-gop-senators-decry-capitol-riot-their-fealty-trump-remains-intact/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/02/11/power-up-gop-senators-decry-capitol-riot-their-fealty-trump-remains-intact/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/02/11/power-up-gop-senators-decry-capitol-riot-their-fealty-trump-remains-intact/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 119
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TJO34SDMCEI6XJTO4JYEN2PITA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "GOP Senator Mike Lee Suggests Trump Deserves Second Chance: 'Everyone Makes Mistakes'"
     excerpt: "\"Everyone makes mistakes. Everyone's entitled to a mulligan once in a while,\" Sen. Mike Lee (R-Utah) said Tuesday."
     publishedDateTime: 2021-02-10T02:46:00Z
@@ -204,6 +220,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/Ty5rGEcxhtsmZVuhq0Yc1jA4OkA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/34RAWO46JBS4WHHGWAGAHOKUBU.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "GOP Sen. Tommy Tuberville told Trump that he couldn't talk during the Capitol siege because security had just evacuated Pence from the Senate chamber"
+    excerpt: "Tuberville's brief conversation with Trump came around the same time Trump tweeted an attack against Pence."
+    publishedDateTime: 2021-02-11T16:36:00Z
+    webUrl: "https://www.businessinsider.com/tommy-tuberville-told-trump-about-pences-evacuation-during-capitol-riot-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/tommy-tuberville-told-trump-about-pences-evacuation-during-capitol-riot-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tommy-tuberville-told-trump-about-pences-evacuation-during-capitol-riot-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
+    images:
+      - url: "https://i.insider.com/60254d2ccca90200129b7b81?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Trump Fumes, GOP Senators Baffled by Legal Team's Debut"
     excerpt: "Former President Donald Trump fumed that his attorneys’ performance on the opening day of his second impeachment trial was a disaster as allies and Republican senators questioned their strategy."

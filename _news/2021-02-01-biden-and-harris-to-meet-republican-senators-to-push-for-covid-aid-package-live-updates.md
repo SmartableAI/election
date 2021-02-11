@@ -48,6 +48,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden, Harris highlight role of Black service members in first Pentagon visit"
+    excerpt: "President Biden and Vice President Harris paid tribute to the contributions of Black service members, acknowledging the barriers they have faced in uniform, on Wednesday during their first official visit to the Pentagon."
+    publishedDateTime: 2021-02-11T05:04:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/biden-pentagon-black-service-members/2021/02/10/170df3c0-6bb0-11eb-9ed1-73d434b5147f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/biden-pentagon-black-service-members/2021/02/10/170df3c0-6bb0-11eb-9ed1-73d434b5147f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/biden-pentagon-black-service-members/2021/02/10/170df3c0-6bb0-11eb-9ed1-73d434b5147f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 147
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6OOE3CDL24I6XOSW27RMRXX2GE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Harris’ historic election celebrated in cracked glass portrait"
     excerpt: "Vice President Kamala Harris' barrier-breaking career has been memorialized in a portrait that depicts her face emerging from the cracks in a massive sheet of glass."
     publishedDateTime: 2021-02-09T16:23:00Z
@@ -1020,16 +1036,16 @@ related:
         height: 675
         isCached: true
   - title: "US President Joe Biden and US Vice President Kamala Harris visit the Pentagon"
-    excerpt: "Chairman of the Joint Chiefs of Staff Mark Milley (R) and Secretary of Defense Lloyd Austin, tour the African Americans in Service Corridor at the Pentagon in Arlington, Virginia, on Wednesday February 10,"
+    excerpt: "Chairman of the Joint Chiefs of Staff Mark Milley (2nd R) and Secretary of Defense Lloyd Austin, tour the African Americans in Service Corridor at the Pentagon in Arlington, Virginia, on Wednesday February 10,"
     publishedDateTime: 2021-02-10T22:03:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/a42f8b5d9723248e8054805d879d49ef/US-President-Joe-Biden-and-US-Vice-President-Kamala-Harris-visit-the-Pentagon/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/8bee0c8fbbfcead1fe35a9929bafeab3/US-President-Joe-Biden-and-US-Vice-President-Kamala-Harris-visit-the-Pentagon/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 67
     images:
-      - url: "https://cdnph.upi.com/pv/upi/a42f8b5d9723248e8054805d879d49ef/PENTAGON-BIDEN.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/8bee0c8fbbfcead1fe35a9929bafeab3/PENTAGON-BIDEN.jpg"
         width: 650
         height: 433
         isCached: true

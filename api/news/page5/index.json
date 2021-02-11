@@ -2,6 +2,114 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-02-06-pro-trump-gop-chair-steps-down-in-ohio-may-seek-senate-seat.md",
+      "title": "Pro-Trump GOP chair steps down in Ohio, may seek Senate seat",
+      "excerpt": "An Ohio Republican linked closely to Donald Trump has stepped down as the party’s chair, a signal of her interest in running for the U.S. Senate seat being left by the GOP’s Rob Portman",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/health/pro-trump-gop-chair-steps-down-in-ohio-may-seek-senate-seat/2021/02/05/5508d346-67d9-11eb-bab8-707f8769d785_story.html",
+      "originalUrl": "https://www.washingtonpost.com/health/pro-trump-gop-chair-steps-down-in-ohio-may-seek-senate-seat/2021/02/05/5508d346-67d9-11eb-bab8-707f8769d785_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 405,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/health/pro-trump-gop-chair-steps-down-in-ohio-may-seek-senate-seat/2021/02/05/5508d346-67d9-11eb-bab8-707f8769d785_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/pro-trump-gop-chair-steps-down-in-ohio-may-seek-senate-seat/2021/02/05/5508d346-67d9-11eb-bab8-707f8769d785_story.html?outputType=amp",
+      "publishedDateTime": "2021-02-05T14:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-05-biden-administration-likely-going-back-to-good-old-days-of-iran-nuclear-deal-mcfarland.md",
+      "title": "Biden administration likely going back to 'good old days' of Iran nuclear deal: McFarland",
+      "excerpt": "The Biden administration is likely to look to go back to the \"good old days\" by renegotiating the Iran nuclear deal, former Deputy National Security Advisor K.T. McFarland told \"America Reports\" Friday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jQQbI3Imc10/biden-admin-going-back-good-old-days-iran-nuclear-deal-mcfarland-middle-east-foreign-policy",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jQQbI3Imc10/biden-admin-going-back-good-old-days-iran-nuclear-deal-mcfarland-middle-east-foreign-policy",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7e33682c-d50a-4b32-b84a-dcec55be4b1f/b06c3df5-fa23-40e9-b336-0ed9b3260221/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-admin-going-back-good-old-days-iran-nuclear-deal-mcfarland-middle-east-foreign-policy.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-going-back-good-old-days-iran-nuclear-deal-mcfarland-middle-east-foreign-policy.amp",
+      "publishedDateTime": "2021-02-05T13:35:08-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-05-stunning-hypocrisy-for-biden-administration-to-push-back-against-the-cdcs-approval-to-open-schools-farah.md",
       "title": "‘Stunning hypocrisy’ for Biden administration to push back against the CDC’s approval to open schools: Farah",
       "excerpt": "The Biden administration is hypocritical for appearing to dismiss the Center for Disease Control's guidance for reopening schools, former Trump White House Director of Strategic Communications Alyssa Farah said on Friday.",
@@ -322,62 +430,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-05-biden-emphasizes-urgency-of-19t-relief-after-summers-op-ed-on-inflation.md",
-      "title": "Biden emphasizes 'urgency' of $1.9T relief after Summers' op-ed on inflation",
-      "excerpt": "President Joe Biden responded to a new, sluggish jobs report by continuing to press for his $1.9 trillion Covid relief package to be passed with urgency -- even as a leading economist who served in the Obama administration is sounding the alarm on how the White House's plan could have negative economic",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/R8TKNxpGN2I/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/R8TKNxpGN2I/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 212,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210205103040-biden-harris-schumer-stimulus-meeting-0203-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/05/politics/joe-biden-jobs-numbers-relief-package/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/05/politics/joe-biden-jobs-numbers-relief-package/index.html",
-      "publishedDateTime": "2021-02-05T08:28:48-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-02-05-biden-administrations-cbp-revives-catch-and-release-policy-at-border-amid-covid-concerns.md",
       "title": "Biden administration’s CBP revives ‘catch and release’ policy at border amid COVID concerns",
       "excerpt": "A perfect storm of events has the Biden administration’s Customs and Border Protection on its heels in parts of Texas.",
@@ -555,7 +607,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-biden-refugees-order/biden-set-to-accept-more-refugees-after-years-of-trump-restrictions-idUSKBN2A42HN",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1700,
+      "heat": 1800,
       "tags": null,
       "images": [
         {
@@ -809,6 +861,63 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-05-biden-to-call-for-protecting-lgbtq-rights-globally-in-memo.md",
+      "title": "Biden to call for protecting LGBTQ rights globally in memo",
+      "excerpt": "It reflects his deep commitment to these issues both here in the United States and everywhere around the world,\" national security adviser Jake Sullivan said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/feature/nbc-out/biden-call-protecting-lgbtq-rights-globally-memo-n1256792",
+      "originalUrl": "https://www.nbcnews.com/feature/nbc-out/biden-call-protecting-lgbtq-rights-globally-memo-n1256792",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2021_05/3447736/210204-lgbtq-supreme-court-jm-1642_5c78556d3c8be10a4f7294ac3d23f414.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1256792",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1256792",
+      "publishedDateTime": "2021-02-04T20:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
       ]
     },
     {
@@ -1253,105 +1362,6 @@
         "Election",
         "Republican Voice",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-hunter-bidens-memoir-beautiful-things-out-in-april.md",
-      "title": "Hunter Biden's memoir 'Beautiful Things' out in April",
-      "excerpt": "NEW YORK (AP) —",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/hunter-bidens-memoir-beautiful-things-out-in-april-2021-2",
-      "originalUrl": "https://www.businessinsider.com/hunter-bidens-memoir-beautiful-things-out-in-april-2021-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/hunter-bidens-memoir-beautiful-things-out-in-april-2021-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/hunter-bidens-memoir-beautiful-things-out-in-april-2021-2?amp",
-      "publishedDateTime": "2021-02-04T10:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-sanders-ocasio-cortez-and-blumenauer-unveil-bill-pushing-biden-to-declare-national-climate-emergency-we-are-out-of-time.md",
-      "title": "Sanders, Ocasio-Cortez, and Blumenauer unveil bill pushing Biden to declare national climate emergency: 'We are out of time'",
-      "excerpt": "Three progressive lawmakers introduced legislation Thursday that would require President Joe Biden to declare a national climate emergency, arguing that the US is \"out of time and excuses\" to deal with the climate crisis.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AzSqYukDp3M/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AzSqYukDp3M/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 148,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210204113752-bernie-sanders-aoc-2019-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/04/politics/sanders-aoc-climate-change-emergency-bill/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/04/politics/sanders-aoc-climate-change-emergency-bill/index.html",
-      "publishedDateTime": "2021-02-04T10:05:15-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

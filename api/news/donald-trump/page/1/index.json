@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-11-donald-trump-jr-has-no-intention-of-running-for-officefor-now.md",
+      "title": "Donald Trump Jr. Has 'No Intention' of Running for Office—For Now",
+      "excerpt": "Donald Trump Jr. said he had \"no intention\" of running for office right now, but did not completely rule out putting himself on the ballot in the future as his father's impeachment trial entered its second day on Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/donald-trump-jr-no-intention-running-now-1568605",
+      "originalUrl": "https://www.newsweek.com/donald-trump-jr-no-intention-running-now-1568605",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1732509/donald-trump-jr.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/donald-trump-jr-no-intention-running-now-1568605?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-jr-no-intention-running-now-1568605?amp=1",
+      "publishedDateTime": "2021-02-11T07:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-11-wall-street-journal-trump-might-be-acquitted-but-wont-live-down-disgraceful-conduct.md",
       "title": "Wall Street Journal: Trump might be acquitted, but won't live down 'disgraceful conduct'",
       "excerpt": "The Wall Street Journal’s editorial board wrote that while the Senate may acquit former President Trump over the deadly riot at the U.S. Capitol, “he won’t live down his disgraceful conduct.”",
@@ -228,7 +280,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-trump-impeachment-takeaways-factb-idUSKBN2AA2LY",
       "featuredContent": null,
       "highlight": null,
-      "heat": 301,
+      "heat": 321,
       "tags": null,
       "images": [
         {
@@ -607,7 +659,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/trial-highlights-history-lessons-trump-tweets-75789773",
       "featuredContent": null,
       "highlight": null,
-      "heat": 285,
+      "heat": 305,
       "tags": null,
       "images": [
         {
@@ -872,7 +924,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/live/2021/feb/08/donald-trump-impeachment-trial-senate-covid-coronavirus-joe-biden-live-updates?page=with:block-602169868f080f5eb75b712c",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 157,
       "tags": null,
       "images": [
         {
@@ -1303,7 +1355,7 @@
       "originalUrl": "https://www.cbsnews.com/news/pences-post-trump-administration-plans-take-shape/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 3830,
+      "heat": 3930,
       "tags": null,
       "images": [
         {
@@ -1356,7 +1408,7 @@
       "originalUrl": "https://www.washingtonpost.com/health/pro-trump-gop-chair-steps-down-in-ohio-may-seek-senate-seat/2021/02/05/5508d346-67d9-11eb-bab8-707f8769d785_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 365,
+      "heat": 405,
       "tags": null,
       "images": [
         {
@@ -1512,7 +1564,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-biden-refugees-order/biden-set-to-accept-more-refugees-after-years-of-trump-restrictions-idUSKBN2A42HN",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1700,
+      "heat": 1800,
       "tags": null,
       "images": [
         {
@@ -1536,58 +1588,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-sen-ben-sasse-slams-nebraska-gop-committees-plans-to-censure-him-for-criticizing-trump.md",
-      "title": "Sen. Ben Sasse slams Nebraska GOP committee’s plans to censure him for criticizing Trump",
-      "excerpt": "Sasse is the latest Republican to face censure or the threat of it from a state or local GOP for not supporting Trump.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2021/02/04/sen-ben-sasse-slams-nebraska-gop-committees-plans-censure-him-criticizing-trump/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2021/02/04/sen-ben-sasse-slams-nebraska-gop-committees-plans-censure-him-criticizing-trump/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/02-05-2021/t_614a1cd1b1b745d68f196cbf3dc03d83_name_Screen_Shot_2021_02_04_at_8_10_53_PM_scaled.jpg&w=1440",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/02/04/sen-ben-sasse-slams-nebraska-gop-committees-plans-censure-him-criticizing-trump/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/02/04/sen-ben-sasse-slams-nebraska-gop-committees-plans-censure-him-criticizing-trump/?outputType=amp",
-      "publishedDateTime": "2021-02-04T20:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

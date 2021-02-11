@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-11-house-impeachment-managers-gush-over-pences-patriotism-after-years-of-criticism-stood-his-ground.md",
+      "title": "House impeachment managers gush over Pence's 'patriotism' after years of criticism: 'Stood his ground'",
+      "excerpt": "House impeachment managers on Wednesday repeatedly praised former Vice President Mike Pence for his actions during the Jan. 6 Capitol riot, putting aside past criticism of Pence as they tried to convince Senate Republicans to convict former President Donald Trump.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ynrVeGZ6mnE/house-impeachment-managers-pence-praise",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ynrVeGZ6mnE/house-impeachment-managers-pence-praise",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21041828624506-1.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/house-impeachment-managers-pence-praise.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-impeachment-managers-pence-praise.amp",
+      "publishedDateTime": "2021-02-11T07:03:54-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-02-11-anti-trump-lincoln-project-ignored-john-weaver-misconduct-crisis-heres-how-it-happened.md",
       "title": "Anti-Trump Lincoln Project ignored John Weaver misconduct crisis: Here's how it happened",
       "excerpt": "In June 2020, members of the Lincoln Project's leadership were informed in writing and in subsequent phone calls of at least 10 specific allegations of harassment against co-founder John Weaver, including two involving Lincoln Project employees, according to multiple people with direct knowledge of the",
@@ -1594,62 +1651,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-defunding-ice-by-memo-texas-aj-louderback.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-defunding-ice-by-memo-texas-aj-louderback.amp",
       "publishedDateTime": "2021-02-08T19:26:23-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-paul-manafort-cant-be-tried-in-ny-after-trumps-pardon-says-state-court.md",
-      "title": "Paul Manafort can't be tried in NY after Trump's pardon says state court",
-      "excerpt": "Paul Manafort cannot be prosecuted in New York, highest court rules  The New York Court of Appeals has rejected the Manhattan DA's bid to review the lower courts’ rulings on denying Paul Manafort's prosecution. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6bjUKfAehw0/paul-manafort-cant-be-tried-in-ny-after-trumps-pardon-says-state-court",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6bjUKfAehw0/paul-manafort-cant-be-tried-in-ny-after-trumps-pardon-says-state-court",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 194,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/05/340/340/marta.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/paul-manafort-cant-be-tried-in-ny-after-trumps-pardon-says-state-court.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/paul-manafort-cant-be-tried-in-ny-after-trumps-pardon-says-state-court.amp",
-      "publishedDateTime": "2021-02-08T18:17:45-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

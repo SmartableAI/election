@@ -30,6 +30,54 @@ images:
     isCached: true
 
 related:
+  - title: "Building the big one: Behind the scenes of Biden's $1.9 trillion bet  "
+    excerpt: "On January 5, as results came in from the Senate runoff election in Georgia, the texts between President-elect Joe Biden's senior staff went late into the night and into the next morning. With the Senate majority on the line, and full control of Washington in their grasp, the outcome of the two Georgia"
+    publishedDateTime: 2021-02-11T15:10:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/e4brB_NVZgk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/11/politics/biden-1-9-trillion-bet/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/11/politics/biden-1-9-trillion-bet/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210210153022-20210210-biden-relief-package-illustration-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden speaks with Chinese President Xi Jinping for first time as President"
+    excerpt: "President Joe Biden spoke with China's President Xi Jinping late Wednesday, according to a senior administration official, their first call since Biden took office.\n    \n"
+    publishedDateTime: 2021-02-11T02:39:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Avaqvhi82tA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/10/politics/biden-xi-call/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/10/politics/biden-xi-call/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210210134821-03-biden-myanmar-0210-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden emphasizes 'urgency' of $1.9T relief after Summers' op-ed on inflation"
+    excerpt: "President Joe Biden responded to a new, sluggish jobs report by continuing to press for his $1.9 trillion Covid relief package to be passed with urgency -- even as a leading economist who served in the Obama administration is sounding the alarm on how the White House's plan could have negative economic"
+    publishedDateTime: 2021-02-05T16:28:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/R8TKNxpGN2I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/05/politics/joe-biden-jobs-numbers-relief-package/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/05/politics/joe-biden-jobs-numbers-relief-package/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210205103040-biden-harris-schumer-stimulus-meeting-0203-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden says he won't lift sanctions on Iran to bring country back to negotiating table"
     excerpt: "President Joe Biden said the US will not lift sanctions to get Iran back to the negotiating table, suggesting the measure would only happen if Tehran stops enriching uranium.\n    \n"
     publishedDateTime: 2021-02-07T19:20:13Z
@@ -62,21 +110,81 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Iran's U.N. ambassador says Iran is waiting for President Biden to make the first diplomatic move"
-    excerpt: "The Biden administration needs to lift sanctions on Iran and return to the nuclear deal that Trump ditched, the Iranian ambassador to the U.N. says."
-    publishedDateTime: 2021-01-26T09:24:00Z
-    webUrl: "https://www.nbcnews.com/politics/national-security/iran-s-un-ambassador-says-iran-waiting-president-biden-make-n1255608"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1255608"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1255608"
+  - title: "Merrick Garland, Biden's pick for attorney general, has confirmation hearing set for February 22 "
+    excerpt: "President Joe Biden's nominee for attorney general, Judge Merrick Garland, is scheduled to appear before the Senate Judiciary Committee on February 22 and 23 for his confirmation hearing.\n    \n"
+    publishedDateTime: 2021-02-10T01:53:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GWRNLp2MAkY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/09/politics/merrick-garland-attorney-general-confirmation-hearing/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/09/politics/merrick-garland-attorney-general-confirmation-hearing/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106123403-04-merrick-garland-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden on impact of impeachment trial videos: 'Some minds may have been changed'"
+    excerpt: "When asked about former President Donald Trump's Senate impeachment trial, President Joe Biden said that he was focused on \"jobs and infrastructure,\" but he guessed that \"some minds may have been changed\" after seeing the videos that were presented by the House managers yesterday."
+    publishedDateTime: 2021-02-11T16:32:00Z
+    webUrl: "https://www.nbcnews.com/video/biden-on-impact-of-impeachment-trial-videos-some-minds-may-have-been-changed-100864069658"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo100864069658"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo100864069658"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 122
+    quality: 131
     images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2021_04/3170401/200103-majid-takht-ravanchi-ew-432p_8963558298725b2e9f0f5729a9a8ba44.jpg"
+      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202102/f_mo_biden_impeachment_210211.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Biden's meeting with CEOs focused on equalizing economic recovery, skills training, wage gap"
+    excerpt: "President Joe Biden met with the heads of some of America's biggest companies on Tuesday as part of his push for a $1.9 trillion economic relief package. The Oval Office meeting included Vice President Kamala Harris and Treasury Secretary Janet Yellen,"
+    publishedDateTime: 2021-02-10T21:14:00Z
+    webUrl: "https://www.nbcnews.com/business/economy/biden-meeting-ceos-focused-equalizing-economic-recovery-skills-training-wage-n1257267"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1257267"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1257267"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 124
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_06/3449004/210210-joe-biden-business-leaders-meeting-al-0753_5fb94cd5c954dac4d2ede398a89974b3.jpg"
         width: 2500
-        height: 1666
+        height: 1567
+        isCached: true
+  - title: "Biden under pressure to go nuclear to get minimum wage hike"
+    excerpt: "The president said he doesn’t think a $15-an-hour wage increase will make it into the final Covid relief bill. And it’s unlikely his VP will push the rules to make it happen."
+    publishedDateTime: 2021-02-11T09:36:00Z
+    webUrl: "https://www.politico.com/news/2021/02/11/biden-minimum-wage-increase-468565"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/ea/8f/63d295854ffaafee5469f96f5437/210210-minimum-wage-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Texas fights Biden on methane"
+    excerpt: "The oil and gas industry may be willing to work with President Joe Biden on curbing methane pollution, but the state of Texas is fixing for a fight. — The Supreme Court will be the last-ditch appeal for the group of kids trying to sue the government into sweeping action on climate change."
+    publishedDateTime: 2021-02-11T15:00:00Z
+    webUrl: "https://www.politico.com/newsletters/morning-energy/2021/02/11/texas-fights-biden-on-methane-793309"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
 
 secured: "nAs8T9x1bCUzDmslImFKrKHqEsSLlZyfkva/vdKJVL1MYfAI1JBUE9L83FJ7/jDLGbIz8XlP3yHv9ozKEd4JNuVlfdoX2lZ1PMd9pmyozevmGah47+lVM6U30E/MNf6yuxsPVw4IMZyW80DPP9sJJ66frRlwQVilKv07yPMxWANOIiztH7Km/eB79uePjFsJH8BGufOrwEulNnQWu6Bvalt9pYT3isGeRAzojKLwsuQve0f0m1iNIzPvd73iPpEU9kY7xAvzuVw9K0PtufGQVrIpsB0wkpVCqgo770/jgAu4JCWdG9/sy+TEqrf9p7TdNEnDIFyjI8rwXujEhRl1Ecx0ZUhuXG87j72KOzHHnx8=;NZVLwZKnY9GJAOajkEzQAw=="

@@ -96,6 +96,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's defense team expected to finish its arguments in one day"
+    excerpt: "Former President Donald Trump's defense team expects to finish its arguments in the Senate's impeachment trial by Friday night, two sources tell CNN.\n    \n"
+    publishedDateTime: 2021-02-11T16:45:17Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fh23YCpBO_w/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/11/politics/donald-trump-impeachment-defense-team-arguments/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/11/politics/donald-trump-impeachment-defense-team-arguments/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210210160111-03-impeachment-trial-2021-unf-0210-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Reopening of schools emerges as complex flashpoint for Biden administration"
     excerpt: "President Joe Biden's team is promising new guidance on school reopenings next week. But even as more Covid-19 vaccine shots go into arms two and half weeks into his administration, there is growing impatience and frustration among parents about the biggest question looming over their lives: when their"
     publishedDateTime: 2021-02-06T05:28:22Z

@@ -47,6 +47,22 @@ related:
         width: 968
         height: 545
         isCached: true
+  - title: "Democrats to focus on \"terrible toll\" of riot as Trump impeachment trial continues"
+    excerpt: "Democrats making the case that Donald Trump should be convicted of inciting the siege at the U.S. Capitol will focus on Thursday on the damage wrought by the riot and the former president's role in inflaming the rampage."
+    publishedDateTime: 2021-02-11T16:18:00Z
+    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN2AB15F?edition-redirect=in"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AB15F"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AB15F"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 119
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210211&t=2&i=1551209010&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1A1EN"
+        width: 817
+        height: 545
+        isCached: true
   - title: "In self-imposed exile, Trump watches with unhappiness as second impeachment trial unfolds"
     excerpt: "Trump has remained sanguine that an evenly divided Senate will acquit him, while one person described him as “bored out of his mind” in Florida."
     publishedDateTime: 2021-02-10T16:55:00Z

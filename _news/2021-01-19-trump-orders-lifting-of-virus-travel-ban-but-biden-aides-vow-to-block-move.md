@@ -1920,6 +1920,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Biden formally ends Trump's national emergency declaration at the border"
+    excerpt: "President Joe Biden on Thursday formally terminated former President Donald Trump's two-year-old declaration of a national emergency at the U.S.-Mexico border, calling the order by his predecessor \"unwarranted."
+    publishedDateTime: 2021-02-11T16:35:00Z
+    webUrl: "https://www.politico.com/news/2021/02/11/biden-trump-national-emergency-border-468603"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/02/11/biden-trump-national-emergency-border-468603"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/02/11/biden-trump-national-emergency-border-468603"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 149
+    images:
+      - url: "https://static.politico.com/1c/77/33e3bd0d457aa1ea7673c376abbe/210211-joe-biden-getty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "DC attorney general says Trump could possibly be charged by city prosecutors with misdemeanor for role in Capitol insurrection"
     excerpt: "District of Columbia Attorney General Karl Racine warned Sunday that President Donald Trump could possibly be charged by city prosecutors with \"a misdemeanor, a six-month-in-jail maximum,\" amid fallout from the deadly insurrection at the US Capitol earlier this month.\n    \n"
     publishedDateTime: 2021-01-17T19:23:02Z

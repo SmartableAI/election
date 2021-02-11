@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-11-saudi-rights-activist-loujain-al-hathlouls-family-thanks-biden-for-helping-get-her-out-of-prison.md",
+      "title": "Saudi rights activist Loujain al-Hathloul's family thanks Biden for helping get her out of prison",
+      "excerpt": "But the sister of Loujain al-Hathloul says she's not really free, and that there's \"an atmosphere of fear\" under Saudi Crown Prince Mohammed bin Salman.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/saudi-arabia-womens-rights-activist-loujain-al-hathloul-family-thanks-biden/",
+      "originalUrl": "https://www.cbsnews.com/news/saudi-arabia-womens-rights-activist-loujain-al-hathloul-family-thanks-biden/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/02/11/ffcc6b6d-f0d3-4979-afe5-466bdbd4c114/thumbnail/1200x630g8/6fde590f829c294286940a82d1c86c7e/loujain-al-hathloul-released.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/saudi-arabia-womens-rights-activist-loujain-al-hathloul-family-thanks-biden/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/saudi-arabia-womens-rights-activist-loujain-al-hathloul-family-thanks-biden/",
+      "publishedDateTime": "2021-02-11T07:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-02-11-biden-may-pick-economist-lisa-cook-to-fill-an-open-fed-seat-she-would-be-the-first-black-woman-to-serve-on-the-board-report.md",
       "title": "Biden may pick economist Lisa Cook to fill an open Fed seat. She would be the first Black woman to serve on the board: report",
       "excerpt": "Currently a professor of economics, Cook previously served as an economic adviser under Obama and was a member of Biden's transition team.",
@@ -583,7 +635,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-biden-economy-idUSKBN2A529V",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -892,6 +944,63 @@
       ]
     },
     {
+      "path": "_news/2021-02-05-biden-to-call-for-protecting-lgbtq-rights-globally-in-memo.md",
+      "title": "Biden to call for protecting LGBTQ rights globally in memo",
+      "excerpt": "It reflects his deep commitment to these issues both here in the United States and everywhere around the world,\" national security adviser Jake Sullivan said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/feature/nbc-out/biden-call-protecting-lgbtq-rights-globally-memo-n1256792",
+      "originalUrl": "https://www.nbcnews.com/feature/nbc-out/biden-call-protecting-lgbtq-rights-globally-memo-n1256792",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2021_05/3447736/210204-lgbtq-supreme-court-jm-1642_5c78556d3c8be10a4f7294ac3d23f414.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1256792",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1256792",
+      "publishedDateTime": "2021-02-04T20:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-05-weve-learned-to-love-the-guy-how-biden-charmed-the-left.md",
       "title": "‘We’ve learned to love the guy:’ How Biden charmed the left",
       "excerpt": "It’s early, but progressive say they’re being included, heard and respected by the Biden White House. But rocky roads are still ahead.",
@@ -1044,63 +1153,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-04-in-bidens-white-house-surprise-visits-with-staff-replace-late-night-tweets-and-unscheduled-phone-calls.md",
-      "title": "In Biden's White House, surprise visits with staff replace late night tweets and unscheduled phone calls",
-      "excerpt": "Trump preferred seemingly aimless days at the White House. Biden has a carefully crafted schedule, but the pandemic has curbed his facetime with people.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/02/03/biden-white-house-interactions-465450",
-      "originalUrl": "https://www.politico.com/news/2021/02/03/biden-white-house-interactions-465450",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/22/18/bcd1a54d4885ae18c2b9abd242b3/210203-joe-biden-getty-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-03T16:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-02-04-biden-epa-nominee-vows-sense-of-urgency-on-climate-change.md",
       "title": "Biden EPA nominee vows ‘sense of urgency’ on climate change",
       "excerpt": "President Joe Biden’s nominee to run the Environmental Protection Agency has pledged to act with “a sense of urgency” on climate change and other priorities, while working with lawmakers from both par",
@@ -1161,7 +1213,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/courts_law/capitol-police-officer-who-died-after-riot-to-lie-in-honor/2021/02/02/8f908fb8-65b8-11eb-bab8-707f8769d785_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1910,
+      "heat": 1930,
       "tags": null,
       "images": [
         {
@@ -1503,58 +1555,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-30-biden-visits-wounded-soldiers-at-walter-reed-where-son-died.md",
-      "title": "Biden visits wounded soldiers at Walter Reed, where son died",
-      "excerpt": "President Joe Biden has made his first major foray outside the White House with a visit to Walter Reed National Military Medical Center to meet with wounded soldiers",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Health/wireStory/biden-visit-wounded-soldiers-walter-reed-hospital-75564601",
-      "originalUrl": "https://abcnews.go.com/Health/wireStory/biden-visit-wounded-soldiers-walter-reed-hospital-75564601",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Health/WireAP_1fb006fe7b104c96a50132cb5ffdcdcf_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Health/wireStory/biden-visit-wounded-soldiers-walter-reed-hospital-75564601",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-visit-wounded-soldiers-walter-reed-hospital-75564601",
-      "publishedDateTime": "2021-01-29T16:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -8,7 +8,7 @@ webUrl: "https://www.newsweek.com/americans-agree-donald-trump-no-intelligence-b
 ampWebUrl: "https://www.newsweek.com/americans-agree-donald-trump-no-intelligence-briefings-1568546?amp=1"
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/americans-agree-donald-trump-no-intelligence-briefings-1568546?amp=1"
 type: article
-quality: 130
+quality: 140
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Election
   - Joe Biden
+  - Donald Trump
 
 images:
   - url: "https://d.newsweek.com/en/full/1732295/donald-trump-boards-marine-one.jpg"
@@ -142,6 +143,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210205&t=2&i=1550527703&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH141NW"
         width: 867
         height: 545
+        isCached: true
+  - title: "Biden says 'some minds' may be changed by video from Trump impeachment trial"
+    excerpt: "President Biden on Thursday said he believed “some minds” may have been changed on whether to convict former President Trump after House impeachment managers presented harrowing video of the Jan. 6 Capitol attack."
+    publishedDateTime: 2021-02-11T16:26:00Z
+    webUrl: "https://thehill.com/homenews/administration/538420-biden-says-some-minds-may-be-changed-by-video-from-trump-impeachment"
+    ampWebUrl: "https://thehill.com/homenews/administration/538420-biden-says-some-minds-may-be-changed-by-video-from-trump-impeachment?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/538420-biden-says-some-minds-may-be-changed-by-video-from-trump-impeachment?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 137
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_02112021getty.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "White House says Biden is too busy to pay much attention to Trump impeachment trial"
     excerpt: "As Washington is consumed with the impeachment trial of the last president, the current one tries to look too busy to care."
@@ -623,6 +640,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "‘Not a pundit,’ Biden ignores impeachment trial to focus on his priorities"
+    excerpt: "Biden avoids commenting on Trump's impeachment trial as the White House, exercising message discipline, talks almost exclusively about its own agenda."
+    publishedDateTime: 2021-02-11T16:02:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-02-11/what-impeachment-trial-biden-makes-point-of-ignoring-impeachment-to-focus-on-priorities"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-02-11/what-impeachment-trial-biden-makes-point-of-ignoring-impeachment-to-focus-on-priorities?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-02-11/what-impeachment-trial-biden-makes-point-of-ignoring-impeachment-to-focus-on-priorities?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 123
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/037b7a6/2147483647/strip/true/crop/6000x3919+0+41/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fd2%2Fe8%2Fc2f21c41435887be264920541e5e%2Fla-photos-1staff-713003-na-pol-0210-impeachment-kkn-35709.JPG"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Biden to meet with Senate Republicans offering covid relief counter-proposal"
     excerpt: "The GOP proposal would significantly narrow eligibility for a new round of $1,400 stimulus checks Biden wants to send to individual Americans."
     publishedDateTime: 2021-01-31T19:03:00Z
@@ -685,6 +718,22 @@ related:
     images:
       - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210206&t=2&i=1550593345&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH141O2"
         width: 824
+        height: 545
+        isCached: true
+  - title: "Graphic riot videos not enough to convict Trump, some Republican senators say"
+    excerpt: "Multiple Republican senators found graphic videos of the deadly Jan. 6 attack on the U.S. Capitol upsetting but suggested they would not lead them to convict former President Donald Trump of inciting insurrection."
+    publishedDateTime: 2021-02-11T16:13:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-republicans-idUSKBN2AB14N"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AB14N"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AB14N"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210211&t=2&i=1551170271&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1A0QY"
+        width: 968
         height: 545
         isCached: true
   - title: "How Obamacare Survived Trump and What Biden Might Do"
@@ -807,6 +856,22 @@ related:
     images:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210203&t=2&i=1550212723&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1219E"
         width: 817
+        height: 545
+        isCached: true
+  - title: "In Myanmar coup response, Biden approves order for sanctions on generals, businesses"
+    excerpt: "U.S. President Joe Biden announced on Wednesday he had approved an executive order for new sanctions on those responsible for the military coup in Myanmar and he repeated demands for the generals to give up power and free civilian leaders."
+    publishedDateTime: 2021-02-11T03:19:00Z
+    webUrl: "https://www.reuters.com/article/uk-myanmar-politics-idUKKBN2AA2OL"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2AA2OL"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2AA2OL"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 118
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210210&t=2&i=1551094237&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH191W9"
+        width: 799
         height: 545
         isCached: true
   - title: "Congresswoman urges Biden team to involve more distributors in COVID vaccine shipments"
@@ -1182,6 +1247,17 @@ related:
         width: 1024
         height: 716
         isCached: true
+  - title: "Biden on Trump Trial: 'Some Minds May Have Been Changed'"
+    excerpt: "The president said he did not watch Donald Trump’s Senate trial but has seen news coverage and suspects that 'some minds may have been changed.'"
+    publishedDateTime: 2021-02-11T16:51:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-02-11/biden-on-trump-trial-some-minds-may-have-been-changed"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-11/biden-on-trump-trial-some-minds-may-have-been-changed?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-11/biden-on-trump-trial-some-minds-may-have-been-changed?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
   - title: "Publix Supermarkets Under Fire After Heiress Reportedly Donates $300,000 To Trump Rally"
     excerpt: "The Publix supermarket chain is facing backlash after a bombshell report revealed the chain's heiress donated money to the infamous Trump rally that preceded the Capitol riots."
     publishedDateTime: 2021-01-30T17:38:00Z
@@ -1215,6 +1291,6 @@ related:
         height: 800
         isCached: true
 
-secured: "vvQm5Aqp4TcE/y1KRKtk4n1bkHRO3j9mhqfJsW0a8OuVH8oD5pss6t0wERCp/K3m+VF5ReTw7LAaeJpbJiosC1Rszca3qh53EpgG0zOaBVgxSQtO3jL0L+OlmH9i/sfLIaYKgmeVBOoQHnAmqU4zB4rXA6uHR0EggLWYfRsTWPIIudsNOQiR/uP8o4W/mf0OmR8PRxBQJ7zIH3wiyOC8q/ThSsoOoh6Bto4+pQLIKz7TbNNsRaRyb8kq0sGrLoHX4aq9X/PIQU9BRZy6JyAo9cRhUm+S1OcUMmB9yoTk0bn0y4dHb5RP4ove88B3+FR7h+5QkfC4C6neyhevR+2UVcorRidGTCUlyzyy/JpbQY0=;h3vJ/mVJlXZbfqcTYwPVog=="
+secured: "A3zAa2FiD5rMfdRwbfIUOPVX3Ky060sk1J5J6OFtJfZAZPjykm6IsAfyzLzze8a9dttjtRlSVnBileQx0Gz8SLx7w5hiXEk+B4znJMtRoMkEOatgU71bSTASQub+eGbrjLwaBJjfivFaE4nxBkGzHDKgHZfFly1taSQStdQCuWFy564lqaWfMXz0ipjn/61mwEBzJsUi5K4rt57xGxLDxE4xG2WqqCeGM/xlTHE/H0UtOnvmh1sEsXrdyQKPE8Nac2QjhqcruRZpRJAH7HidPNQHE6g0k5i7SWujmI4b7Z1pLUnwiwpQP+ZCKCnWrHpEk8JDJyK0cyT4VHK1m/XcJody2D8g5mRMSQ80Z2ec8jPlMA+X8fFEMNPZxxCCYgPn60aGKuMRBOQTjLxZVIP7X/BsR2FmG65AZTokxY/buOGqSDtl4/NgGij1fljJ675+DXigSAtz6Bcyb+WmT2KBwbrWNZ8WNyHCgjs/AhLMp0SUlbIljp83324YzK2CiSCSZ2T7eDtdhqguwrpiggGgrw==;ljiniy+94sri3h4VkGimEw=="
 ---
 

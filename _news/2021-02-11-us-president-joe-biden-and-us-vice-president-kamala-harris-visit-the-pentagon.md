@@ -1,10 +1,10 @@
 ---
 category: news
 title: "US President Joe Biden and US Vice President Kamala Harris visit the Pentagon"
-excerpt: "Chairman of the Joint Chiefs of Staff Mark Milley (R) and Secretary of Defense Lloyd Austin, tour the African Americans in Service Corridor at the Pentagon in Arlington, Virginia, on Wednesday February 10,"
+excerpt: "Chairman of the Joint Chiefs of Staff Mark Milley (2nd R) and Secretary of Defense Lloyd Austin, tour the African Americans in Service Corridor at the Pentagon in Arlington, Virginia, on Wednesday February 10,"
 publishedDateTime: 2021-02-10T22:03:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/a42f8b5d9723248e8054805d879d49ef/US-President-Joe-Biden-and-US-Vice-President-Kamala-Harris-visit-the-Pentagon/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/a42f8b5d9723248e8054805d879d49ef/US-President-Joe-Biden-and-US-Vice-President-Kamala-Harris-visit-the-Pentagon/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/8bee0c8fbbfcead1fe35a9929bafeab3/US-President-Joe-Biden-and-US-Vice-President-Kamala-Harris-visit-the-Pentagon/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/8bee0c8fbbfcead1fe35a9929bafeab3/US-President-Joe-Biden-and-US-Vice-President-Kamala-Harris-visit-the-Pentagon/"
 type: article
 quality: 67
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/a42f8b5d9723248e8054805d879d49ef/PENTAGON-BIDEN.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/8bee0c8fbbfcead1fe35a9929bafeab3/PENTAGON-BIDEN.jpg"
     width: 650
     height: 433
     isCached: true
@@ -40,6 +40,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Biden, Harris highlight role of Black service members in first Pentagon visit"
+    excerpt: "President Biden and Vice President Harris paid tribute to the contributions of Black service members, acknowledging the barriers they have faced in uniform, on Wednesday during their first official visit to the Pentagon."
+    publishedDateTime: 2021-02-11T05:04:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/biden-pentagon-black-service-members/2021/02/10/170df3c0-6bb0-11eb-9ed1-73d434b5147f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/biden-pentagon-black-service-members/2021/02/10/170df3c0-6bb0-11eb-9ed1-73d434b5147f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/biden-pentagon-black-service-members/2021/02/10/170df3c0-6bb0-11eb-9ed1-73d434b5147f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 147
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6OOE3CDL24I6XOSW27RMRXX2GE.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Biden and Harris to meet Republican senators to push for Covid aid package – live updates"
     excerpt: "lawmakers have offered across the aisle agreement on a much-reduced economic package"
@@ -1335,6 +1351,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "6Ts81Q8qYwmYx4SmdKkmAVilap6HUtv/LK/C9vmN6qHLklp0P0C0RbPRy2b08BCXqtgX8KkJ9eMOWzWIbIBNepcT6PrrUB4c6/GwYYtIWAYlvJlj287wHwFz0X8bARAuDE2ZTOI2IZzM4ybK54uGaKGCGkJ0a2JKQ16X3U5//Q09I+a1DnvG22bNPn99PCUQh5mfnBhxYVD1pCEnMzgRavqD2D2lMwei8mb80me4kwZjzrzKRl5SCILG6z73hnYKtTX0UIoh++NKON1sPmM/S0wmfMeSka4Hgftl2bW2vyzlCLSM1yFWCk82v8D66EwHDDjceNHI3/hHWS7Bsj48GK64F3fRWp1K6UTtOINyv3oZByx2g//uVb7rqbqe3iaBWnKF4DfyYk8sNE94ist28ShPanesj6JlHjk/YriRQkW83EXm268kIqYDGMBJg1QM1LSaIswMznuo1dT3kR68+e4a1zfQCTexZ2g5UPCS6VGpNc3fJvhVO+B5a+aA36MBWb6Pc2gEJfW/S5Ltf/oXdQ==;ZQqYPhVmVA7sWi3hLszNRA=="
+secured: "zarH4N+8ob70D5Ah7LT7v+rJOesITnIuV2dMd0HmcN5/Ho4KblTK/bD7YczjdRks+cWhxn1BLCQyvfqyI8BT8SDGXdz779+T4xQqxsLN2X7+OOpK323YuVKVgUyHMKkOEg9dcqfPWmhYeGx8tphH4RCG77Kdch7T82Su5BbK/U0YXHZJI6Rpk05jjfL/rbGflzO4bJ7K1bM676awltAOSG01JyNYM7YuaLndC2b1fvAVSvhSXVY/i+ks0a4g7fgYoI0Lvic93Ia+BTIOHurC47lApiZmFwQmo3LcIFuaR/uEBaeMaiJyWSJgU4AR8Fjz771/pNAVYE4YVmZZChJLCQxDTY2TUO8P+8T2904BxDc=;xStDQvbuz+WGLaVwtZtI+g=="
 ---
 

@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-09-paul-manafort-cant-be-tried-in-ny-after-trumps-pardon-says-state-court.md",
+      "title": "Paul Manafort can't be tried in NY after Trump's pardon says state court",
+      "excerpt": "Paul Manafort cannot be prosecuted in New York, highest court rules  The New York Court of Appeals has rejected the Manhattan DA's bid to review the lower courts’ rulings on denying Paul Manafort's prosecution. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6bjUKfAehw0/paul-manafort-cant-be-tried-in-ny-after-trumps-pardon-says-state-court",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6bjUKfAehw0/paul-manafort-cant-be-tried-in-ny-after-trumps-pardon-says-state-court",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/05/340/340/marta.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/paul-manafort-cant-be-tried-in-ny-after-trumps-pardon-says-state-court.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/paul-manafort-cant-be-tried-in-ny-after-trumps-pardon-says-state-court.amp",
+      "publishedDateTime": "2021-02-08T18:17:45-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-08-liz-cheney-in-donald-trump-jrs-2022-crosshairs.md",
       "title": "Liz Cheney in Donald Trump Jr.’s 2022 crosshairs",
       "excerpt": "It’s a long way down the road, but it appears Donald Trump Jr.’s already making plans to travel to Wyoming next year to target Rep. Liz Cheney in the Republican primaries as she runs for re-election.",
@@ -183,7 +239,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1965,
+      "heat": 2065,
       "tags": null,
       "images": [
         {
@@ -1603,62 +1659,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/psakis-resurfaced-tweets-trump-sanders-unity-message.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psakis-resurfaced-tweets-trump-sanders-unity-message.amp",
       "publishedDateTime": "2021-02-03T13:44:15-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-iranian-resistance-leader-says-regime-at-its-weakest-point-urges-biden-to-hold-it-to-account.md",
-      "title": "Iranian resistance leader says regime 'at its weakest point,' urges Biden to hold it to account",
-      "excerpt": "EXCLUSIVE: The leader of the main Iranian resistance group tells Fox News that the regime in Tehran is at its \"weakest point\" in its history, and is calling on the Biden administration to hold the regime accountable for its human rights violations.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MIfzpNIjg7Y/iranian-resistance-leader-regime-weakest-point-biden",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MIfzpNIjg7Y/iranian-resistance-leader-regime-weakest-point-biden",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c52d3d03-5b47-4b7b-a81a-36d41b8f487f/29abb516-f723-4a67-a993-03437bed65cf/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/iranian-resistance-leader-regime-weakest-point-biden.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/iranian-resistance-leader-regime-weakest-point-biden.amp",
-      "publishedDateTime": "2021-02-03T11:12:58-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

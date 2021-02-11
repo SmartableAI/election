@@ -334,6 +334,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Who is paying for Trump impeachment defense lawyers?"
+    excerpt: "The marathon of arguments taking place during the second impeachment trial of former President Donald Trump is resulting in some long hours for Trump attorneys Bruce Castor, David Schoen and Michael van der Veen, which raises the question of who is paying for his representation."
+    publishedDateTime: 2021-02-11T16:52:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BNELrvOMQ1s/who-is-paying-for-trump-impeachment-defense-lawyers"
+    ampWebUrl: "https://www.foxnews.com/politics/who-is-paying-for-trump-impeachment-defense-lawyers.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/who-is-paying-for-trump-impeachment-defense-lawyers.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/bruce-castor.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Michael van der Veen: What to know about Trump impeachment defense attorney"
     excerpt: "The pre-trial brief filed by former President Donald Trump's defense team had one extra name on it besides the two widely-reported attorneys leading his impeachment defense in the Senate: Michael T. van der Veen. "
     publishedDateTime: 2021-02-09T20:00:51Z
@@ -459,6 +475,22 @@ related:
     quality: 170
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump steers clear of impeachment trial rapid response without Twitter megaphone"
+    excerpt: "Former President Donald Trump has been extremely quiet as his impeachment trial got underway in earnest this week, in contrast to his ubiquitous Twitter presence during his impeachment trial last year, and longtime affinity for the spotlight."
+    publishedDateTime: 2021-02-11T16:07:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zEJQHZBMUGA/trump-steers-clear-of-impeachment-trial-rapid-response-without-twitter-megaphone"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-steers-clear-of-impeachment-trial-rapid-response-without-twitter-megaphone.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-steers-clear-of-impeachment-trial-rapid-response-without-twitter-megaphone.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
@@ -843,6 +875,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/244610dd-eefa-4cc4-b259-1f470bded46d/41548b90-1240-4327-b8bb-d972a65af100/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden says he didn’t watch Trump Senate trial, monitored coverage"
+    excerpt: "President Biden on Thursday said he “didn’t watch any of the hearing live” but did monitor coverage of former President Donald Trump’s impeachment trial. House impeachment"
+    publishedDateTime: 2021-02-11T16:36:00Z
+    webUrl: "https://nypost.com/2021/02/11/biden-says-he-didnt-watch-trump-senate-trial-monitored-coverage/"
+    ampWebUrl: "https://nypost.com/2021/02/11/biden-says-he-didnt-watch-trump-senate-trial-monitored-coverage/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/11/biden-says-he-didnt-watch-trump-senate-trial-monitored-coverage/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/joe-biden-trump-senate.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Biden administration plans to reengage with UN rights council, reversing Trump"
     excerpt: "The Biden administration is set to announce this week that it will reengage with the much-maligned U.N. Human Rights Council that former President Donald Trump withdrew from almost three years ago, U."
@@ -1306,6 +1354,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump steers clear of impeachment trial rapid response without Twitter megaphone"
+    excerpt: "Former President Donald Trump has been extremely quiet as his impeachment trial got underway in earnest this week, in contrast to his ubiquitous Twitter presence during his impeachment trial last year,"
+    publishedDateTime: 2021-02-11T16:14:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-steers-clear-of-impeachment-trial-rapid-response-without-twitter-megaphone"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-steers-clear-of-impeachment-trial-rapid-response-without-twitter-megaphone.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-steers-clear-of-impeachment-trial-rapid-response-without-twitter-megaphone.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/08/640/320/Trump-Sky-Angle-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "GOP Sen. Portman cites 'serious constitutional questions' with Trump impeachment trial"
     excerpt: "Portman asserted that Trump “bears some responsibility” for the events of Jan. 6, when his supporters stormed the Capitol complex as lawmakers met to confirm President Biden’s election victory. However,"
     publishedDateTime: 2021-02-10T23:51:00Z
@@ -1427,6 +1491,20 @@ related:
       - url: "https://images.wsj.net/im-296233/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Trump Legal Team Weighs Recasting Its Defense at Senate Trial"
+    excerpt: "Former President Donald Trump's defense team is considering changing its planned lineup to give David Schoen a larger role, after the team's presentation earlier this week [drew harsh criticism]( from"
+    publishedDateTime: 2021-02-11T16:49:00Z
+    webUrl: "https://www.wsj.com/livecoverage/trump-second-impeachment-trial-2021-02-11/card/ltOYroszjBeHa8lJ3CNF"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 115
+    images:
+      - url: "https://images.wsj.net/im-298019?size=1.5"
+        width: 1280
+        height: 853
         isCached: true
   - title: "Trump Lawyers Call Second Impeachment Trial 'Political Theater' — Live Updates"
     excerpt: "Live analysis of the second impeachment trial of former President Donald Trump, which is set to begin on Tuesday."

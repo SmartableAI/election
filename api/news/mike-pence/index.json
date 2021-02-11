@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-11-house-impeachment-managers-gush-over-pences-patriotism-after-years-of-criticism-stood-his-ground.md",
+      "title": "House impeachment managers gush over Pence's 'patriotism' after years of criticism: 'Stood his ground'",
+      "excerpt": "House impeachment managers on Wednesday repeatedly praised former Vice President Mike Pence for his actions during the Jan. 6 Capitol riot, putting aside past criticism of Pence as they tried to convince Senate Republicans to convict former President Donald Trump.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ynrVeGZ6mnE/house-impeachment-managers-pence-praise",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ynrVeGZ6mnE/house-impeachment-managers-pence-praise",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21041828624506-1.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/house-impeachment-managers-pence-praise.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-impeachment-managers-pence-praise.amp",
+      "publishedDateTime": "2021-02-11T07:03:54-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-02-11-harrowing-new-footage-shows-how-close-the-mob-got-to-pence-congress-and-staff-during-jan-6-assault.md",
       "title": "Harrowing new footage shows how close the mob got to Pence, Congress and staff during Jan. 6 assault",
       "excerpt": "Previously unseen footage at Trump's impeachment trial showed in vivid detail how close the mob came to lawmakers, staffers and Mike Pence.",
@@ -66,7 +123,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 862,
+      "heat": 902,
       "tags": null,
       "images": [
         {
@@ -428,7 +485,7 @@
       "originalUrl": "https://www.cbsnews.com/news/pences-post-trump-administration-plans-take-shape/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 3830,
+      "heat": 3930,
       "tags": null,
       "images": [
         {
@@ -1469,49 +1526,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-01-16-pence-speaks-at-memorial-service-for-yeager-in-west-virginia.md",
-      "title": "Pence speaks at memorial service for Yeager in West Virginia",
-      "excerpt": "Retired Air Force Brig. Gen. Chuck Yeager was remembered at a memorial service Friday as a hero, legend and friend who would go out of his way to help others.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/b078c8d59eda2acc799d06c48fc71a2e",
-      "originalUrl": "https://apnews.com/b078c8d59eda2acc799d06c48fc71a2e",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/afs-prod/media/5d3b66fe19a346e8afdfbcb1cd0aac41/3000.jpeg",
-          "width": 3000,
-          "height": 2001,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-15T22:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

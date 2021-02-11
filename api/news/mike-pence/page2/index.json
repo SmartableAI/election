@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-16-pence-speaks-at-memorial-service-for-yeager-in-west-virginia.md",
+      "title": "Pence speaks at memorial service for Yeager in West Virginia",
+      "excerpt": "Retired Air Force Brig. Gen. Chuck Yeager was remembered at a memorial service Friday as a hero, legend and friend who would go out of his way to help others.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/b078c8d59eda2acc799d06c48fc71a2e",
+      "originalUrl": "https://apnews.com/b078c8d59eda2acc799d06c48fc71a2e",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/afs-prod/media/5d3b66fe19a346e8afdfbcb1cd0aac41/3000.jpeg",
+          "width": 3000,
+          "height": 2001,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-15T22:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-01-16-proud-boys-intended-to-kill-mike-pence-and-nancy-pelosi-fbi-witness-says.md",
       "title": "Proud Boys Intended To Kill Mike Pence and Nancy Pelosi, FBI Witness Says",
       "excerpt": "A group allegedly involved in the violent breach of the U.S. Capitol last week, including at least one self-proclaimed member of the Proud Boys, said that \"they would have killed [Vice President] Mike Pence if given the chance,",
