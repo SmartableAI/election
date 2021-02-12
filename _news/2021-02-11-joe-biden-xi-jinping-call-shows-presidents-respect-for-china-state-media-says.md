@@ -95,6 +95,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden to slowly allow 25,000 people seeking asylum into US"
+    excerpt: "The Biden administration says an estimated 25,000 people who are seeking asylum and have been forced to wait in Mexico will be allowed into the U.S. while their cases wind through immigration courts"
+    publishedDateTime: 2021-02-12T11:04:00Z
+    webUrl: "https://www.washingtonpost.com/health/some-asylum-seekers-waiting-in-mexico-to-be-allowed-in-us/2021/02/12/09d16e3a-6d22-11eb-a66e-e27046e9e898_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/some-asylum-seekers-waiting-in-mexico-to-be-allowed-in-us/2021/02/12/09d16e3a-6d22-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/some-asylum-seekers-waiting-in-mexico-to-be-allowed-in-us/2021/02/12/09d16e3a-6d22-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Everything Joe Biden Has Said About Reopening Schools"
     excerpt: "According to a school reopening tracking map from EdWeek, a majority of states have left the decision to reopen schools to local school districts and their health departments."
     publishedDateTime: 2021-02-12T15:51:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/10/politics/affordable-care-act-obam
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/10/politics/affordable-care-act-obamacare-biden-supreme-court/index.html"
 type: article
 quality: 184
-heat: 604
+heat: 624
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210210160111-03-impeachment-trial-2021-unf-0210-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration says it intends to close Guantanamo prison"
+    excerpt: "The Biden administration intends to close the Guantánamo Bay detention facility, which houses approximately 40 prisoners, by the end of their term.\n    \n"
+    publishedDateTime: 2021-02-12T22:50:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mjw4ktxJBJE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/12/politics/biden-guantanamo-bay/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/12/politics/biden-guantanamo-bay/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190306104052-guantanamo-bay-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

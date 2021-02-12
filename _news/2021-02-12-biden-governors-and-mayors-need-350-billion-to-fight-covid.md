@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/business/democrats-pushing-bidens-cov
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/democrats-pushing-bidens-covid-19-bill-through-house-panels/2021/02/11/021a9cf8-6ce0-11eb-a66e-e27046e9e898_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/Politics/WireAP_74dcf88107d44ef7a13bec4135641fe7_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden: Governors, mayors need $350 billion to fight COVID-19"
+    excerpt: "President Joe Biden has met with a bipartisan group of governors and mayors at the White House as part of his push to give financial relief from the coronavirus pandemic to state and local governments"
+    publishedDateTime: 2021-02-12T21:00:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-governors-mayors-350-billion-fight-covid-75855929"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-governors-mayors-350-billion-fight-covid-75855929"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-governors-mayors-350-billion-fight-covid-75855929"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_5d3e3776a81f466c8e13fff72ad210a7_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true

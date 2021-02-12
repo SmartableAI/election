@@ -57,6 +57,38 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Trump impeachment lawyers cite Kamala Harris comments | Charlotte Observer"
+    excerpt: "Vice President Kamala Harris engaged in the same sort of strong political rhetoric that prompted President Donald Trump’s impeachment, his attorneys said Friday. Michael van der Veen, a Trump defense attorney,"
+    publishedDateTime: 2021-02-12T21:10:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/article249217590.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/article249217590.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article249217590.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 88
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/8dd160d4-750c-4437-88b7-70c19fe7d0e8/b3af9ac2-cb8d-46d9-bbaa-99e8b7980a99/1280x720/match/image.jpg"
+        width: 1280
+        height: 719
+        isCached: true
+  - title: "Trump impeachment lawyers raise past rhetoric of Kamala Harris. Here are the facts"
+    excerpt: "Vice President Kamala Harris engaged in the same sort of strong political rhetoric that prompted President Donald Trump’s impeachment, his attorneys said Friday. Michael van der Veen, a Trump defense attorney,"
+    publishedDateTime: 2021-02-12T21:10:00Z
+    webUrl: "https://www.miamiherald.com/news/politics-government/article249217590.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/politics-government/article249217590.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/article249217590.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 84
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/8dd160d4-750c-4437-88b7-70c19fe7d0e8/b3af9ac2-cb8d-46d9-bbaa-99e8b7980a99/1280x720/match/image.jpg"
+        width: 1280
+        height: 719
+        isCached: true
   - title: "Kamala Harris brings a new meaning to power-dressing"
     excerpt: "Vice President Kamala Harris is harnessing interest in her style by spotlighting Black fashion designers and brands owned by immigrants."
     publishedDateTime: 2021-02-11T22:42:00Z
@@ -74,6 +106,6 @@ related:
         height: 600
         isCached: true
 
-secured: "L7aQ2zrkBb6VOwqET47jh172D/jEgNj82NcIGJ9v4yAgjXrER9p9wIFGilTEikSVLx7ANAwPQvKtGIxdTCgHIareCAT8YNCeBEwjI1Em5dXBUgJENlqjW4jroqb/kbfjZ9OEDw+Ody4JWsb7fzYLhbkOkwm1e4QGW82FPwy+CswAvUsTJ+sLXVLp0ek+KEC0xJhP2OyxIRdyq34gzxL5UmA+M8+iuVReP3RPjM+VEcdA06bDLwES9TXUTC435Fxjv0HCARdEEBqYAt/vj17zfwHC1fBRXbKjni2XACpFR5jqvPhh6kCBvyj30NpySRelebxhhZwtYLBJ+F6x7okjzLvCaDCmIWCk89mXCYyvh/c=;WoF2dCB7eu/TTm1e4JSd6Q=="
+secured: "YKZ4hDiSa7DjFqToSF0VQFDNw4Dq6MpO++tENgbYH3S4f77TLUSV9Rm3EImVbNuZ3vYmEOsCjUmDa0efQNLZUZD5xuavuAqBnQcpfXCCpfamfNstsqBXvAXN7wcHFJjVZqZAuzX1mxqTKYmZoiQQMU1ocRlH/MO/Wfz7qCEy1vwuzs1yGR2jkQ83+KZYl12j02JQF0sUbL+IovV/RjkT3ZcnfxxWF+ZC30ZlMBb+AeDuTo0qw0E3E916NaGevWeaclOjyl/rLhnsPbHSCJrMpBTYqEqssqRhQ0AHpscNaBB2TLNV3OH4224KsbLu9RBSuh2kD/EGqajtpTYe97oYmG2v1yWC4QfD2TbDEk9dsZOwO43FD5tzKSxIQ5gGgDbqZvf2gybMcedcy3lF/qN6LltlrAtNWpk9IUQiGPEOzvNuPwp+3dfR2HaCPvaswCcWwaoCLS5IF+qN45sR/VLtied1t255GJfzc2B+ejeSz+IHUSedqsdUqv93L43rExddMq/sSQMsbKgtlasyNH6uqQ==;5IGZwsXDtCqUtj39vssYNQ=="
 ---
 

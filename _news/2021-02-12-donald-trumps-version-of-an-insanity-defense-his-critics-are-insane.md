@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/lifestyle/style/trump-derangement-syn
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/style/trump-derangement-syndrome-impeachment/2021/02/11/a6ffa7b6-6ca6-11eb-9ead-673168d5b874_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Impeachment trial: defense lawyers argue Trump is victim of 'cancel culture'"
+    excerpt: "Lawyers argue Trump’s ‘fight like hell’ rhetoric on 6 January was no different than the language politicians frequently use"
+    publishedDateTime: 2021-02-12T22:10:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/feb/12/trump-impeachment-trial-defense-lawyers-capitol-riot"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/12/trump-impeachment-trial-defense-lawyers-capitol-riot"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/12/trump-impeachment-trial-defense-lawyers-capitol-riot"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 122
+    images:
+      - url: "https://i.guim.co.uk/img/media/e8489cef29e9ca7ea26f955b844a0d9aac6455eb/0_0_3500_2333/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=eef6c204d5e042edd592154eb7c8a298"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Consequences of both impeachment and acquittal loom over Trump defense: The Note"
     excerpt: "As Jan. 6 made clear, there are more than simple political consequences to consider when senators decide how to vote in Trump's second impeachment trial."
     publishedDateTime: 2021-02-12T16:00:00Z

@@ -2,6 +2,114 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-11-capitol-rioters-attorney-says-client-was-misled-by-trump-acted-out-of-delusional-belief.md",
+      "title": "Capitol rioter's attorney says client was misled by Trump, acted out of 'delusional belief'",
+      "excerpt": "A Capitol rioter was acting out of the \"delusional belief\" that he was helping his country after being misled by former President Trump, the rioter's attorney argued in a motion filed Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0qD891AaSMI/pezzola-delusional-trump-misled-capitol-rioter",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0qD891AaSMI/pezzola-delusional-trump-misled-capitol-rioter",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4e468e48-daf4-48c9-b172-5e8ae98b3f4a/e9d7c456-73c0-43ba-9de5-5359a023293c/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pezzola-delusional-trump-misled-capitol-rioter.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pezzola-delusional-trump-misled-capitol-rioter.amp",
+      "publishedDateTime": "2021-02-10T17:53:14-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-i-dont-want-to-come-back-as-trump-trial-opens-democrat-recalls-daughters-fear-during-riot.md",
+      "title": "'I don't want to come back:' As Trump trial opens, Democrat recalls daughter's fear during riot",
+      "excerpt": "U.S. House lead impeachment manager Rep. Jamie Raskin (D-MD) becomes emotional as he discusses his and his family's experiences inside the U.S. Capitol building during the siege on Jan. 6 and his daug",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/news/picture/i-dont-want-to-come-back-as-trump-trial-idUSKBN2A92YV",
+      "originalUrl": "https://www.reuters.com/news/picture/i-dont-want-to-come-back-as-trump-trial-idUSKBN2A92YV",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210210&t=2&i=1551085705&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEH181S5",
+          "width": 810,
+          "height": 455,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-10T16:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-10-biden-admin-erects-tent-city-in-texas-to-handle-influx-of-illegal-immigrants.md",
       "title": "Biden admin erects tent city in Texas to handle influx of illegal immigrants",
       "excerpt": "The Biden administration announced this week that it opened a soft-sided facility for immigrants in Donna, Texas, as Republican lawmakers warn of a “rising crisis” at the U.S.-Mexico border.",
@@ -70,7 +178,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 1122,
+      "heat": 1162,
       "tags": null,
       "images": [
         {
@@ -283,7 +391,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 604,
+      "heat": 624,
       "tags": null,
       "images": [
         {
@@ -786,7 +894,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 165,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -1161,7 +1269,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 675,
+      "heat": 695,
       "tags": null,
       "images": [
         {
@@ -1254,114 +1362,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-trump-tried-to-block-her-now-ngozi-okonjo-iweala-is-about-to-make-history.md",
-      "title": "Trump tried to block her. Now Ngozi Okonjo-Iweala is about to make history.",
-      "excerpt": "The Nigerian economist is set to become the first woman and African national in charge of the World Trade Organization.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/world/africa/ngozi-okonjo-iweala-wto/2021/02/09/99e3b028-67eb-11eb-bab8-707f8769d785_story.html",
-      "originalUrl": "https://www.washingtonpost.com/world/africa/ngozi-okonjo-iweala-wto/2021/02/09/99e3b028-67eb-11eb-bab8-707f8769d785_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/J35WRETKJ4I6XJTO4JYEN2PITA.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/world/africa/ngozi-okonjo-iweala-wto/2021/02/09/99e3b028-67eb-11eb-bab8-707f8769d785_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/africa/ngozi-okonjo-iweala-wto/2021/02/09/99e3b028-67eb-11eb-bab8-707f8769d785_story.html?outputType=amp",
-      "publishedDateTime": "2021-02-10T04:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-decision-to-seek-federal-search-warrant-in-rudy-giuliani-probe-could-be-early-test-for-bidens-doj.md",
-      "title": "Decision to seek federal search warrant in Rudy Giuliani probe could be early test for Biden's DOJ ",
-      "excerpt": "New York federal prosecutors investigating Rudy Giuliani's activities in Ukraine raised the prospect of seeking a search warrant late last year for the lawyer's communications but were met with resistance from Justice Department officials in Washington over the strength of their evidence, people familiar",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/r2409tXNN9Y/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/r2409tXNN9Y/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201206153814-02-rudy-giuliani-file-1119-restricted-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/10/politics/search-warrant-rudy-giuliani/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/10/politics/search-warrant-rudy-giuliani/index.html",
-      "publishedDateTime": "2021-02-10T04:00:52-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

@@ -2,6 +2,58 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-01-26-oregon-republican-party-falsely-calls-us-capitol-riot-a-false-flag-meant-to-discredit-president-trump.md",
+      "title": "Oregon Republican Party falsely calls U.S. Capitol riot a ‘false flag’ meant to ‘discredit President Trump’",
+      "excerpt": "In a resolution from the Oregon GOP, the party falsely claims that the entire Capitol riot was a “false flag” staged to undermine President Donald Trump and silence his supporters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/nation/2021/01/26/oregon-republican-false-flag-capitol/",
+      "originalUrl": "https://www.washingtonpost.com/nation/2021/01/26/oregon-republican-false-flag-capitol/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WHSI4BGFHEI6VKBFQ4RAATSBKA.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/nation/2021/01/26/oregon-republican-false-flag-capitol/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2021/01/26/oregon-republican-false-flag-capitol/?outputType=amp",
+      "publishedDateTime": "2021-01-26T07:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-26-watch-live-biden-to-deliver-remarks-on-covid-19-response.md",
       "title": "Watch Live: Biden to deliver remarks on COVID-19 response",
       "excerpt": "Biden promised it will be \"this spring\" when any American who wants a COVID-19 vaccine will be able to get one.",
@@ -1285,58 +1337,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-25-sarah-sanders-former-trump-press-secretary-running-for-arkansas-governor.md",
-      "title": "Sarah Sanders, former Trump press secretary, running for Arkansas governor",
-      "excerpt": "Sarah Sanders, Donald Trump’s former chief spokeswoman and one of his closest aides, is running for Arkansas governor, a senior campaign official told The Associated Press.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/nation-world/ct-nw-sarah-sanders-arkansas-governor-20210125-su7bqehy7famzpdai6nxzk2pba-story.html",
-      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-nw-sarah-sanders-arkansas-governor-20210125-su7bqehy7famzpdai6nxzk2pba-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 183,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/0JsbnzrsD48NyOvJ__X1lH1FNKQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/Q75DM32LIRBHLLUCEEZ6NJKLGI.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-nw-sarah-sanders-arkansas-governor-20210125-su7bqehy7famzpdai6nxzk2pba-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-sarah-sanders-arkansas-governor-20210125-su7bqehy7famzpdai6nxzk2pba-story.html?outputType=amp",
-      "publishedDateTime": "2021-01-25T03:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

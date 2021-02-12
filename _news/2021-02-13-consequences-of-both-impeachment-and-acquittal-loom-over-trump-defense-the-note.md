@@ -47,6 +47,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Impeachment trial: defense lawyers argue Trump is victim of 'cancel culture'"
+    excerpt: "Lawyers argue Trump’s ‘fight like hell’ rhetoric on 6 January was no different than the language politicians frequently use"
+    publishedDateTime: 2021-02-12T22:10:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/feb/12/trump-impeachment-trial-defense-lawyers-capitol-riot"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/12/trump-impeachment-trial-defense-lawyers-capitol-riot"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/12/trump-impeachment-trial-defense-lawyers-capitol-riot"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 122
+    images:
+      - url: "https://i.guim.co.uk/img/media/e8489cef29e9ca7ea26f955b844a0d9aac6455eb/0_0_3500_2333/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=eef6c204d5e042edd592154eb7c8a298"
+        width: 600
+        height: 400
+        isCached: true
 
 secured: "qf7rxiIr+tJubcGsC8vnORnu4dSlkpqsOorVeQytlqTgyj5tQ4C+m/cmWXOsjiv4JsblXNLc2QJfRjqTguoOpyRWQposBo694VRN1l7RtHYmAjxwGAUS8U7ni04CevB+a/u/un6fnZ3Gm8PkjW0exkr2bSqOozG98pUMa63JWwJF5WZC9oKnIk/iI8Ho3JFsBEs8IeU/paCLF2asABIXzVYvyBxKGOYZcVbqMgspHHzsp2Ad1v/zESvtP/HvHFVoXSGcqiZgE/2lire0H/BE/Eepyenx24iRVINryJ+ecJZwR/ViNrm0FLx0XV8nfazdOf2n0f7RdgRUu1XqyzlQr85wx+4w3FPkXOjjWSwTo+o=;Mt/J8hzuS5CwQsu2zzWHqA=="
 ---

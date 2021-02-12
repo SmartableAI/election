@@ -240,6 +240,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Key Republican breaks with Trump: 'We shouldn't have followed him'"
+    excerpt: "Former ambassador to the UN Nikki Haley weighed in on Trump's legacy during an interview with Politico, saying that he had \"fallen so far\" and was likely out of the picture for 2024 presidential candidates. Former special assistant to President George H.W. Bush and president of the Council on Foreign"
+    publishedDateTime: 2021-02-12T18:35:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sUGrERbuGhY/nikki-haley-trump-election-richard-haass-nr-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/02/12/nikki-haley-trump-election-richard-haass-nr-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/02/12/nikki-haley-trump-election-richard-haass-nr-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/181009111215-18-nikki-haley-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Nikki Haley criticizes Trump and says he has no future in the GOP"
     excerpt: "Former US ambassador to the United Nations Nikki Haley directly criticized former President Donald Trump for his involvement stoking the US Capitol riot in a new interview, a notable condemnation from someone who is widely viewed as harboring presidential hopes in a party that is still in thrall to Trump.\n"
     publishedDateTime: 2021-02-12T14:21:55Z
@@ -591,6 +607,22 @@ related:
       - url: "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_900,h_506/20fd9411-8528-4211-9103-b2889c8272d9.jpg"
         width: 900
         height: 506
+        isCached: true
+  - title: "5 takeaways from Day 4 of Donald Trump's impeachment trial"
+    excerpt: "After two days of House impeachment managers making their case for the conviction of Donald Trump on a charge of incitement, the former President's legal team got its chance on Friday."
+    publishedDateTime: 2021-02-12T16:11:00Z
+    webUrl: "https://www.cnn.com/2021/02/12/politics/donald-trump-impeachment-senate-trial/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/12/politics/donald-trump-impeachment-senate-trial/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/12/politics/donald-trump-impeachment-senate-trial/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210210174202-02-impeachment-2021-sketch-0210-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "As the Senate Nears a Verdict on Trump"
     excerpt: "Readers call on Republicans to vote to convict the former president. “Jan. 6 was a day most of us will never forget,” one reader writes. “And now Donald Trump must be held accountable.”"

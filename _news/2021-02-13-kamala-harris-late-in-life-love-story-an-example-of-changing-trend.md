@@ -9,7 +9,7 @@ ampWebUrl: "https://goodmorningamerica.com/amp/living/story/kamala-harris-late-l
 cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/living/story/kamala-harris-late-life-love-story-changing-trend-75819461"
 type: article
 quality: 125
-heat: 185
+heat: 225
 published: true
 
 provider:
@@ -46,6 +46,38 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/651769e/2147483647/strip/true/crop/4500x2939+0+48/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F85%2Fe9%2F1c5ad06c42b89c8d0cc826df1046%2Ftrump-impeachment-08666.jpg"
         width: 320
         height: 209
+        isCached: true
+  - title: "Trump impeachment lawyers cite Kamala Harris comments | Charlotte Observer"
+    excerpt: "Vice President Kamala Harris engaged in the same sort of strong political rhetoric that prompted President Donald Trump’s impeachment, his attorneys said Friday. Michael van der Veen, a Trump defense attorney,"
+    publishedDateTime: 2021-02-12T21:10:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/article249217590.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/article249217590.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article249217590.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 88
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/8dd160d4-750c-4437-88b7-70c19fe7d0e8/b3af9ac2-cb8d-46d9-bbaa-99e8b7980a99/1280x720/match/image.jpg"
+        width: 1280
+        height: 719
+        isCached: true
+  - title: "Trump impeachment lawyers raise past rhetoric of Kamala Harris. Here are the facts"
+    excerpt: "Vice President Kamala Harris engaged in the same sort of strong political rhetoric that prompted President Donald Trump’s impeachment, his attorneys said Friday. Michael van der Veen, a Trump defense attorney,"
+    publishedDateTime: 2021-02-12T21:10:00Z
+    webUrl: "https://www.miamiherald.com/news/politics-government/article249217590.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/politics-government/article249217590.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/article249217590.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 84
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/8dd160d4-750c-4437-88b7-70c19fe7d0e8/b3af9ac2-cb8d-46d9-bbaa-99e8b7980a99/1280x720/match/image.jpg"
+        width: 1280
+        height: 719
         isCached: true
   - title: "Kamala Harris brings a new meaning to power-dressing"
     excerpt: "Vice President Kamala Harris is harnessing interest in her style by spotlighting Black fashion designers and brands owned by immigrants."

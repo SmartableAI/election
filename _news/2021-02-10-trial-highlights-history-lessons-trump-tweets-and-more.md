@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trial-highlights-histo
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trial-highlights-history-lessons-trump-tweets-75789773"
 type: article
 quality: 125
-heat: 385
+heat: 405
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2CAUKOTKJII6XJTO4JYEN2PITA.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Trump's defense team used 2 hours and 32 minutes of its 16 allotted hours at his impeachment trial"
+    excerpt: "Both sides have wrapped up their arguments and are now taking questions from senators, meaning that a vote on Trump's fate could come on Saturday."
+    publishedDateTime: 2021-02-12T15:22:00Z
+    webUrl: "https://www.businessinsider.com/trump-lawyers-present-defense-under-3-hours-impeachment-trial-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/trump-lawyers-present-defense-under-3-hours-impeachment-trial-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-lawyers-present-defense-under-3-hours-impeachment-trial-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
+    images:
+      - url: "https://i.insider.com/6026ea30b3c2a800183ccb61?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Live impeachment updates: Prosecutors end arguments; Trump lawyer calls trial 'weaponization' of impeachment"
     excerpt: "House prosecutors ended their arguments in the impeachment trial of Donald Trump. The former president's legal team starts Friday."

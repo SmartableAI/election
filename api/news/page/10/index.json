@@ -2,6 +2,49 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-01-31-kamala-harris-second-coronavirus-vaccine-shot-was-painless.md",
+      "title": "Kamala Harris: Second coronavirus vaccine shot was ‘painless’",
+      "excerpt": "Vice President Harris said she found the coronavirus vaccine booster to be “painless,” and urged Americans who become eligible to receive the coronavirus vaccine to “get the shot.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/video/national/kamala-harris-second-coronavirus-vaccine-shot-was-painless/2021/01/30/a4fed0ed-7815-4ee2-8fad-5a3373276079_video.html",
+      "originalUrl": "https://www.washingtonpost.com/video/national/kamala-harris-second-coronavirus-vaccine-shot-was-painless/2021/01/30/a4fed0ed-7815-4ee2-8fad-5a3373276079_video.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-30T13:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-01-30-white-house-facing-optics-issue-with-kamala-harris-ambitious-niece.md",
       "title": "White House facing optics issue with Kamala Harris’ ambitious niece",
       "excerpt": "Meena Harris, the industrious and outspoken niece of Vice President Kamala Harris, is creating an optics issue for the White House. ",
@@ -1321,58 +1364,6 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-the-perfect-target-russia-cultivated-trump-as-asset-for-40-years-ex-kgb-spy.md",
-      "title": "‘The perfect target’: Russia cultivated Trump as asset for 40 years – ex-KGB spy",
-      "excerpt": "The KGB ‘played the game as if they were immensely impressed by his personality’, Yuri Shvets, a key source for a new book, tells the Guardian",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jan/29/trump-russia-asset-claims-former-kgb-spy-new-book",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jan/29/trump-russia-asset-claims-former-kgb-spy-new-book",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/7053743fe13e652fe4d75758b94a846af0f8b57f/0_292_4500_2700/master/4500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=951abe3bec7ba0b1b9e5eb33985c7672",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jan/29/trump-russia-asset-claims-former-kgb-spy-new-book",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/29/trump-russia-asset-claims-former-kgb-spy-new-book",
-      "publishedDateTime": "2021-01-29T03:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

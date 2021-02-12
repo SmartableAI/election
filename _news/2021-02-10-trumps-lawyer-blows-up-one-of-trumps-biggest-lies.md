@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/10/politics/fact-check-bruce-castor-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/10/politics/fact-check-bruce-castor-lawyer-impeachment-trump-lost-election/index.html"
 type: article
 quality: 175
-heat: 675
+heat: 695
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 173
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209101030-mar-a-lago-resort-2018-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "DC attorney general weighs legal viability of charging Trump under local statute "
+    excerpt: "Lawyers inside the Washington, DC attorney general's office are working to determine if it is legally viable to use district statutes to charge former President Donald Trump for his alleged role in the insurrection.\n    \n"
+    publishedDateTime: 2021-02-12T20:40:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iPjpB1KnfoA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/12/politics/dc-attorney-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/12/politics/dc-attorney-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201225192217-karl-racine-headshot-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

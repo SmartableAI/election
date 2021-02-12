@@ -255,6 +255,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Trump lawyers say former president did not know Pence was in danger at the Capitol"
+    excerpt: "Former President Trump's defense team on Friday denied that Trump knew his then-vice president, Mike Pence, was in danger during the Capitol attack on Jan. 6."
+    publishedDateTime: 2021-02-12T22:33:00Z
+    webUrl: "https://thehill.com/homenews/house/538680-trump-lawyers-say-former-president-did-not-know-pence-was-in-danger-at-the"
+    ampWebUrl: "https://thehill.com/homenews/house/538680-trump-lawyers-say-former-president-did-not-know-pence-was-in-danger-at-the?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/538680-trump-lawyers-say-former-president-did-not-know-pence-was-in-danger-at-the?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 134
+    images:
+      - url: "https://thehill.com/sites/default/files/vanderveenmichael_021021pool_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Georgia prosecutors investigate election interference after Trump's pressure campaign"
     excerpt: "Georgia attorneys requested that election officials preserve records for a criminal investigation after Donald Trump's efforts to tilt the vote count."
     publishedDateTime: 2021-02-10T22:09:00Z
@@ -1583,6 +1599,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Cassidy's office says he's weighing decision on Trump vote"
+    excerpt: "office says he is weighing his decision on the impeachment trial vote after Cassidy was seen Friday with a draft statement that showed support for former President Trump Donald Trump NRCC finance ..."
+    publishedDateTime: 2021-02-12T22:52:00Z
+    webUrl: "https://thehill.com/homenews/senate/538686-cassidys-office-says-hes-weighing-decision-on-trump-vote"
+    ampWebUrl: "https://thehill.com/homenews/senate/538686-cassidys-office-says-hes-weighing-decision-on-trump-vote?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/538686-cassidys-office-says-hes-weighing-decision-on-trump-vote?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/cassidybill_021221gn_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Lawyer defending Trump accustomed to political disaster"
     excerpt: "Bruce L. Castor Jr. had to prepare his arguments in just a few days after former President Trump's legal team quit."
     publishedDateTime: 2021-02-12T16:52:00Z
@@ -1598,6 +1630,22 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/0645b38/2147483647/strip/true/crop/2422x1582+194+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F27%2Fff%2F7f0fd770455bb35ab607ae3c431e%2Ftrump-impeachment-67980.jpg"
         width: 320
         height: 209
+        isCached: true
+  - title: "Sanders spars with Trump attorney during trial Q&A"
+    excerpt: "Michael Van der Veen, an attorney for former President Trump, got into a verbal scuffle with Sen. Bernie Sanders (I-Vt.), after the progressive lawmaker asked him during Friday's impeachment trial question-and-answer session if he believes Trump won the 2020 election."
+    publishedDateTime: 2021-02-12T22:42:00Z
+    webUrl: "https://thehill.com/homenews/senate/538684-sanders-spars-with-trump-attorney-during-trial-qa"
+    ampWebUrl: "https://thehill.com/homenews/senate/538684-sanders-spars-with-trump-attorney-during-trial-qa?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/538684-sanders-spars-with-trump-attorney-during-trial-qa?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/sandersbernie_020221gn6_lead.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "UPDATE 1-U.S. DOJ to ask Trump-appointed prosecutors to resign -official"
     excerpt: "The U.S. Department of Justice on Tuesday is expected to ask most federal prosecutors appointed by former President Donald Trump to submit their resignations, a Justice Department official said."
@@ -1758,6 +1806,22 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/09/32f38d54-1915-4a33-992c-58efd85ea438/thumbnail/1200x630/cb687c6bc840aa43a1deddb82197a512/2021-02-09t183526z-1222531060-rc26pl9zqso8-rtrmadp-3-usa-trump-impeachment.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "199 legal experts say Senate must not acquit Trump over constitutionality issue"
+    excerpt: "The letter, which was signed by several prominent conservatives, follows predecessors which argued the the trial was constitutional and that Trump's First Amendment defense doesn't hold up."
+    publishedDateTime: 2021-02-12T22:05:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/02/12/199-legal-experts-say-senate-must-not-acquit-trump-over-constitutionality-issue/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/02/12/199-legal-experts-say-senate-must-not-acquit-trump-over-constitutionality-issue/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/02/12/199-legal-experts-say-senate-must-not-acquit-trump-over-constitutionality-issue/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 121
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/02-09-2021/t_1bd8666d45374165a11accb6eb6110bf_name_89350208_6b02_11eb_a66e_e27046e9e898_scaled.jpg&w=1440"
+        width: 1440
+        height: 810
         isCached: true
   - title: "Demographic groups with the best employment gains under Trump moved right in 2020"
     excerpt: "With Friday’s jobs report, we now have a complete look at how employment fared under Trump, with the economy seeing fewer people working now than when he took office. Interestingly, that’s not true for all demographic groups."
@@ -1982,6 +2046,20 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Trump’s lawyers argue tweet disparaging Mike Pence is ‘not relevant’ to trial"
+    excerpt: "Sen. Mitt Romney (R-Utah) asked on Feb. 12 about then-President Donald Trump’s disparaging Jan. 6 tweet about his vice president."
+    publishedDateTime: 2021-02-12T22:52:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/trumps-lawyers-argue-tweet-disparaging-mike-pence-is-not-relevant-to-trial/2021/02/12/9ef89c35-7613-4489-bc80-f09faaf3f1bf_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 117
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/02-12-2021/t_c8ba1cc7071148b1941b9993b18fbbf1_name_impeachment_thumb02.jpg&w=1080"
+        width: 1080
+        height: 608
         isCached: true
   - title: "Multiple attorneys no longer expected on Trump's impeachment defense team as trial nears"
     excerpt: "About a week before his Senate trial, former President Donald Trump has no announced legal team and at least five attorneys who were expected to help lead the team are no longer part of it. The remarkable last-minute shifts add fresh uncertainty over Trump's legal strategy and highlight the struggle the former president has had in corralling a legal team after he became the first president in U."

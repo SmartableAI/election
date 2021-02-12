@@ -111,6 +111,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Republican enthusiasm for second Trump term lags as impeachment trial nears end"
+    excerpt: "Senate Republicans, while likely to acquit former President Donald Trump at his impeachment trial, showed little enthusiasm this week for a possible second White House bid in 2024 after reliving his supporters' deadly storming of the U."
+    publishedDateTime: 2021-02-12T22:43:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-republicans-idUSKBN2AC2L6"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AC2L6"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AC2L6"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210212&t=2&i=1551379744&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1B1S5"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Power Up: GOP senators decry Capitol riot. But their fealty to Trump remains intact"
     excerpt: "Capitol riot. New recordings showed by House impeachment managers left some lawmakers on both sides of the aisle visibly shaken after they illustrated just how close rioters came to harming then-Vice President Pence,"
     publishedDateTime: 2021-02-11T16:39:00Z

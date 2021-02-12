@@ -239,6 +239,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump's impeachment defense rests after three hours: 'There was no insurrection'"
+    excerpt: "Former President Trump's legal team took just about three hours Friday of their 16-hour allotted time to mount a defense for his impeachment charge of \"incitement of insurrection\" for the Jan. 6 Capitol riot."
+    publishedDateTime: 2021-02-12T21:54:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/k1q6N74-aIg/trumps-impeachment-defense-rest-after-three-hours-there-was-no-insurrection"
+    ampWebUrl: "https://www.foxnews.com/politics/trumps-impeachment-defense-rest-after-three-hours-there-was-no-insurrection.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-impeachment-defense-rest-after-three-hours-there-was-no-insurrection.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21043078684827.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Trump in a 'great mood' as arguments open in Senate impeachment trial: Jason Miller"
     excerpt: "Former President Donald Trump is \"in a great mood\" as House Democrats present their opening arguments in the Senate impeachment trial, the former president's senior adviser Jason Miller told \"\"America Reports\" Wednesday."
     publishedDateTime: 2021-02-10T21:44:13Z
