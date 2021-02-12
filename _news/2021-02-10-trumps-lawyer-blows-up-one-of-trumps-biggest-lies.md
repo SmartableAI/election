@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/10/politics/fact-check-bruce-castor-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/10/politics/fact-check-bruce-castor-lawyer-impeachment-trump-lost-election/index.html"
 type: article
 quality: 175
-heat: 655
+heat: 675
 published: true
 
 provider:
@@ -124,6 +124,22 @@ related:
     quality: 160
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210204131911-103-trump-impeachment-centered-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Democrats debate whether to move on from Trump or seek another form of punishment after impeachment trial"
+    excerpt: "Congressional Democrats are torn over whether to try to punish Donald Trump by censure or move on completely from the former President after the Senate likely acquits him on a charge of inciting the January 6 Capitol riot, possibly as soon as this weekend.\n    \n"
+    publishedDateTime: 2021-02-12T17:39:18Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/O5u3p5NfPQQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/12/politics/democratic-strategy-after-impeachment/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/12/politics/democratic-strategy-after-impeachment/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 158
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210107203000-nancy-pelosi-chuck-schumer-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

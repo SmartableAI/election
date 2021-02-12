@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Kamala Harris' late-in-life love story an example of changing trend"
+    excerpt: "Vice President Kamala Harris is making history as the first woman and first woman of color to serve in that role. As the country celebrates Valentine's Day on Sunday, experts are pointing to the fact that Harris is also the face of a growing demographic of women marrying later in life,"
+    publishedDateTime: 2021-02-12T18:28:00Z
+    webUrl: "https://abcnews.go.com/GMA/Living/kamala-harris-late-life-love-story-changing-trend/story?id=75819461"
+    ampWebUrl: "https://goodmorningamerica.com/amp/living/story/kamala-harris-late-life-love-story-changing-trend-75819461"
+    cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/living/story/kamala-harris-late-life-love-story-changing-trend-75819461"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/GMA/kamala-harris-swearing-in-gty-jt-210211_1613067168367_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Meena Harris has a personal brand. Some fear she’s profiting from her Aunt Kamala’s office"
     excerpt: "The White House and others fear scrutiny over the personal branding efforts of the vice president's niece, which have grown with Kamala Harris' career."
     publishedDateTime: 2021-02-11T12:00:00Z
@@ -43,37 +59,19 @@ related:
         width: 320
         height: 209
         isCached: true
-  - title: "Twitter Reacts To Terrence K. Williams Calling VP Kamala Harris A ‘Pole Model’"
-    excerpt: "Terrence K. Williams refused to apologize to Vice President Kamala Harris after calling her a \"pole model\" on social media."
-    publishedDateTime: 2021-02-12T04:56:00Z
-    webUrl: "https://www.ibtimes.com/twitter-reacts-terrence-k-williams-calling-vp-kamala-harris-pole-model-3144020"
-    ampWebUrl: "https://www.ibtimes.com/twitter-reacts-terrence-k-williams-calling-vp-kamala-harris-pole-model-3144020?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-reacts-terrence-k-williams-calling-vp-kamala-harris-pole-model-3144020?amp=1"
+  - title: "Vice President Kamala Harris Emphasizes Speed and Equity in Response to COVID-19 Crisis"
+    excerpt: "In Harris’ first national sit-down interview since becoming vice president, she discusses her focus on an equitable response to the COVID-19 crisis with 19th editor-at-large Errin Haines."
+    publishedDateTime: 2021-02-12T17:04:00Z
+    webUrl: "https://www.govexec.com/management/2021/02/vice-president-kamala-harris-emphasizes-speed-and-equity-response-covid-19-crisis/172032/"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 71
+      name: Government Executive
+      domain: govexec.com
+    quality: 47
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/04/images-and-soundbitesus-vice-president-elect-kamala-harris.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Columbia’s Benjamin among mayors who met virtually with VP Kamala Harris on Wednesday"
-    excerpt: "A group of African American mayors met with the vice president for a talk about the Biden administration’s proposed “Rescue Plan” COVID relief package."
-    publishedDateTime: 2021-02-11T15:18:00Z
-    webUrl: "https://www.thestate.com/news/local/article249176060.html"
-    ampWebUrl: "https://amp.thestate.com/news/local/article249176060.html"
-    cdnAmpWebUrl: "https://amp-thestate-com.cdn.ampproject.org/c/s/amp.thestate.com/news/local/article249176060.html"
-    type: article
-    provider:
-      name: The State
-      domain: thestate.com
-    quality: 68
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/ed96842d-4b5e-44ef-9eaf-3b6f0f46c6c2/56dcdf59-6c10-4783-99e6-eee924edb50d/1280x720/match/image.jpg?pubId=5615998031001"
-        width: 1280
-        height: 720
+      - url: "https://cdn.govexec.com/media/img/upload/2021/02/12/021221harris/open-graph.jpg"
+        width: 400
+        height: 400
         isCached: true
 
 secured: "t3cxWpgtS3EACrbmKsXe1Y2WfoYKrt4znaTIbGiZOWicifcTdcfHz7HuO/IPagUwPDp1MbeI7Q70jrl0bioxSRiJpLBWKbP+dqhhUKeWCeooi3/Xz3H5qweOak5M0PCE/Akcj8CqJjnrooJiBOYMNY77IQcW1GXVAW5fQpQD12Hurv27qTHc/nr6xxaJG5Y69AdpRZWMwDkLnd7YpX+hLE55NTMzRVezpi/OGbVI5IGTWzgL+Un/bQeBXkgHjXjJ5JUnsohXOYlUTuJPYIY5zFqImPni8UtOL8/ZF5XDxkPb2pykcXWTg3mISHG2vd6BPojrgeB39MZr2Yba4llwPZ7ByDKQg9YXEjOBDjVEjfw=;9iBaFOwXsh9zwHfXh4dumA=="

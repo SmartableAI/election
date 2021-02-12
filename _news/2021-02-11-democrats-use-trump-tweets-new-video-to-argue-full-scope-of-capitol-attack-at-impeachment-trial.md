@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cbsnews.com/amp/live-updates/trump-impeachment-trial-vid
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/trump-impeachment-trial-video-capitol-attack/"
 type: article
 quality: 111
-heat: 171
-published: true
+heat: -1
+published: false
 
 provider:
   name: CBS News
@@ -31,47 +31,38 @@ images:
     isCached: true
 
 related:
-  - title: "Live updates: Senate must convict Trump to ensure no future president incites insurrection, Democrats say"
-    excerpt: "Day 3 of former President Donald Trump's second impeachment trial has begun. The Democratic impeachment managers will use up to eight hours to wrap up their case against the ex-pr"
-    publishedDateTime: 2021-02-11T18:45:00Z
-    webUrl: "https://www.cnbc.com/2021/02/11/trump-impeachment-trial-live-updates-day-3.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/02/11/trump-impeachment-trial-live-updates-day-3.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/02/11/trump-impeachment-trial-live-updates-day-3.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 108
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106839426-1613066740937-gettyimages-1231104598-brave_zvrabgh107.jpg?v=1613066758"
-        width: 1582
-        height: 1024
-        isCached: true
-  - title: "'I don't want to come back:' As Trump trial opens, Democrat recalls daughter's fear during riot"
-    excerpt: "U.S. House lead impeachment manager Rep. Jamie Raskin (D-MD) becomes emotional as he discusses his and his family's experiences inside the U.S. Capitol building during the siege on Jan. 6 and his daug"
-    publishedDateTime: 2021-02-11T00:25:00Z
-    webUrl: "https://www.reuters.com/news/picture/i-dont-want-to-come-back-as-trump-trial-idUSKBN2A92YV"
+  - title: "Trump's defense team calls impeachment trial 'political vengeance'"
+    excerpt: "Donald Trump's lawyers on Friday began laying out their case for why the former president should be acquitted of inciting last month's deadly riot at the U.S. Capitol, arguing the impeachment trial was an act of \"political vengeance\" by Democrats."
+    publishedDateTime: 2021-02-12T18:47:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-idCAKBN2AC11K"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN2AC11K"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN2AC11K"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 93
+    quality: 125
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210210&t=2&i=1551085705&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEH181S5"
-        width: 810
-        height: 455
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210212&t=2&i=1551337067&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1B0QW"
+        width: 811
+        height: 545
         isCached: true
-  - title: "Trump Accused as 'Inciter in Chief' of Capitol Insurrection"
-    excerpt: "Prosecutors in Donald Trump’s impeachment trial are arguing that he was no “innocent bystander” but the “inciter in chief” of last month's deadly attack at the Capitol."
-    publishedDateTime: 2021-02-10T22:08:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-02-10/senators-to-hear-opening-arguments-as-trump-fumes-over-trial"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-10/senators-to-hear-opening-arguments-as-trump-fumes-over-trial?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-10/senators-to-hear-opening-arguments-as-trump-fumes-over-trial?context=amp"
+  - title: "Politics live updates - A quick trial vs. witnesses: Senate weighs strategy on Trump impeachment proceedings"
+    excerpt: "Senators face key decisions on the contours of Trump's second impeachment trial, including the crucial question of whether to call witnesses."
+    publishedDateTime: 2021-02-08T14:35:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/08/politics-live-updates-senate-weighs-strategy-trump-impeachment-trial/4433392001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4433392001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4433392001"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
+      name: USA Today
+      domain: usatoday.com
+    quality: 106
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/09/USAT/6aa6963b-4d2b-4679-b15a-6477fc618042-AP21006679639042.jpg?auto=webp&crop=4305,2421,x722,y1081&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "MpTTa5JI0qQ5Uv7IESxuHsoZyESQWrDwqOg4ekcA+vdl6kmDUkcD3I49RnYzn+j/sW5MYwOCSSbrsVujl2mv1KayZa7FeToWu09fwtTEBkNO8ezorYcCg28faHJebuofvVlgKS7pjxLKZPZoypDMUeQDW+q+6J/74A7yIAEhgEECmLy5IkxKGODSoZuzXK2Zd4PiDU4+T+Hr8ndtcjygnQaI34yPaIbzy/m/7hB4cmB2npZHJsUYVXwdT8WyqSEkvGBftMzCNxL2tGVyDm4Zjwn0GLNzLrsiWTygwf+EoujBxVGM+GvEohRXGyHA88TlbgU15AzqTzfIqQC9QjzH56EpnXI2Ke9VxJrXekvK2SKIlkf9SKX8bCYMEtwzx7P3JLGobnx4aiXsdsZVSFChYWCZKQWIQ4jTI8BsCnK0XYcQDzvU/avKJnCmHrEly7DiEi1mJSxL0sDGccFHgkBZjT5cqie5f0evlsZHkKFrztC4tY9d1IjTbCpX5Z2Jm+Hc1KGI2gy2sUYPYT9l36uXgQ==;OoKCTcZHn92jyXNZGvS0oA=="
 ---

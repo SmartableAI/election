@@ -1596,6 +1596,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "LIVE UPDATES: Trump lawyers make arguments at impeachment trial, expected to allege Dem hypocrisy"
+    excerpt: "The impeachment trial of former President Donald Trump in the Senate resumed on Friday with Trump's lawyers expected to argue that Democrats are hypocritical for saying that Trump incited the Capitol mob by telling his followers they have to \"fight\" against a \"stolen election."
+    publishedDateTime: 2021-02-12T17:47:00Z
+    webUrl: "https://www.foxnews.com/politics/live-updates-impeachment-trump-2-12-21"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-impeachment-trump-2-12-21.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-impeachment-trump-2-12-21.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 122
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1a891bdd-1bd9-489d-ad5e-0c172a1b45f7/af518998-d3eb-4ed0-84a1-32e41c857d0b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Ask WSJ: What to Expect from the Trump Impeachment Trial"
     excerpt: "For the first time in U.S. history, a president who is no longer in office is facing an impeachment trial. Join The Wall Street Journal's Politics Editor Ben Pershing in conversation with reporters Rebecca Ballhaus and Siobhan Hughes to learn about the strategies,"
     publishedDateTime: 2021-02-08T05:00:00Z

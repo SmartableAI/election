@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-13-mike-pences-nuclear-football-was-potentially-at-risk-during-capitol-riot.md",
+      "title": "Mike Pence's 'nuclear football' was potentially at risk during Capitol riot",
+      "excerpt": "Footage from 6 January shows mob was within 30 metres of Pence and air force officer carrying briefcase with nuclear codes",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/feb/12/mike-pence-nuclear-football-capitol-riot",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/feb/12/mike-pence-nuclear-football-capitol-riot",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/aa570c715fe508074fa860f143bc11e882931278/0_103_3277_1966/master/3277.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=55d5ec64a57c06a57b87f6d8c091f553",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/feb/12/mike-pence-nuclear-football-capitol-riot",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/12/mike-pence-nuclear-football-capitol-riot",
+      "publishedDateTime": "2021-02-12T10:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-02-11-military-officials-were-unaware-of-potential-danger-to-pences-nuclear-football-during-capitol-riot.md",
       "title": "Military officials were unaware of potential danger to Pence's 'nuclear football' during Capitol riot",
       "excerpt": "Military officials overseeing the authorization process to launch nuclear weapons were unaware on January 6 that then-Vice President Mike Pence's military aide carrying the \"nuclear football\" was potentially in danger as rioters got close during the violent Capitol insurrection, according to a defense",
@@ -542,7 +594,7 @@
       "originalUrl": "https://www.cbsnews.com/news/pences-post-trump-administration-plans-take-shape/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 4410,
+      "heat": 4430,
       "tags": null,
       "images": [
         {
@@ -1488,49 +1540,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-01-17-vp-mike-pence-wife-address-crowds-at-nas-lemoore.md",
-      "title": "VP Mike Pence, wife address crowds at NAS Lemoore",
-      "excerpt": "Second Lady of the United States Karen Pence visited Naval Air Station Lemoore Saturday to honor military spouses and address some of the struggles they",
-      "sourceUrl": null,
-      "webUrl": "https://hanfordsentinel.com/news/vp-mike-pence-wife-address-crowds-at-nas-lemoore/article_8d66d05e-d422-508c-912d-47712d97e72f.html",
-      "originalUrl": "https://hanfordsentinel.com/news/vp-mike-pence-wife-address-crowds-at-nas-lemoore/article_8d66d05e-d422-508c-912d-47712d97e72f.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/hanfordsentinel.com/content/tncms/assets/v3/editorial/f/0e/f0ed0c73-cfc4-51bb-9eb6-b00f30539eee/6003c3312530a.image.jpg?resize=1024%2C683",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://hanfordsentinel.com/news/vp-mike-pence-wife-address-crowds-at-nas-lemoore/article_8d66d05e-d422-508c-912d-47712d97e72f.amp.html",
-      "cdnAmpWebUrl": "https://hanfordsentinel-com.cdn.ampproject.org/c/s/hanfordsentinel.com/news/vp-mike-pence-wife-address-crowds-at-nas-lemoore/article_8d66d05e-d422-508c-912d-47712d97e72f.amp.html",
-      "publishedDateTime": "2021-01-16T20:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hanford Sentinel",
-        "domain": "hanfordsentinel.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

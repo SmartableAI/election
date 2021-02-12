@@ -143,6 +143,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Democrats debate whether to move on from Trump or seek another form of punishment after impeachment trial"
+    excerpt: "Congressional Democrats are torn over whether to try to punish Donald Trump by censure or move on completely from the former President after the Senate likely acquits him on a charge of inciting the January 6 Capitol riot, possibly as soon as this weekend.\n    \n"
+    publishedDateTime: 2021-02-12T17:39:18Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/O5u3p5NfPQQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/12/politics/democratic-strategy-after-impeachment/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/12/politics/democratic-strategy-after-impeachment/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 158
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210107203000-nancy-pelosi-chuck-schumer-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Read: Former President Donald Trump's defense team's legal brief"
     excerpt: "In a pretrial brief ahead of former President Donald Trump's impeachment trial in the Senate, Trump's legal team accused House Democrats of engaging in \"political theater\" and argued that the upcoming trial is unconstitutional because Trump is no longer president."
     publishedDateTime: 2021-02-08T11:30:00Z

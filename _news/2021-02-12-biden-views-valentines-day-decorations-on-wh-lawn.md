@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Biden views Valentine's Day decorations on WH lawn"
+title: "Biden views Valentine’s Day decorations on WH lawn"
 excerpt: "First lady Jill Biden had installed before dawn Friday special Valentine’s Day artwork on the north lawn of the White House: giant pink, white and red hearts that resemble the popular candy"
-publishedDateTime: 2021-02-12T14:48:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-views-valentines-day-decorations-wh-lawn-75851189"
-webUrl: "https://abcnews.go.com/Politics/wireStory/biden-views-valentines-day-decorations-wh-lawn-75851189"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-views-valentines-day-decorations-wh-lawn-75851189"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-views-valentines-day-decorations-wh-lawn-75851189"
+publishedDateTime: 2021-02-12T14:38:00Z
+originalUrl: "https://www.washingtonpost.com/politics/biden-views-valentines-day-decorations-on-wh-lawn/2021/02/12/6ee6e5d0-6d3f-11eb-a66e-e27046e9e898_story.html"
+webUrl: "https://www.washingtonpost.com/politics/biden-views-valentines-day-decorations-on-wh-lawn/2021/02/12/6ee6e5d0-6d3f-11eb-a66e-e27046e9e898_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/biden-views-valentines-day-decorations-on-wh-lawn/2021/02/12/6ee6e5d0-6d3f-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-views-valentines-day-decorations-on-wh-lawn/2021/02/12/6ee6e5d0-6d3f-11eb-a66e-e27046e9e898_story.html?outputType=amp"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_cfbe6f9fe3f945c28a82dc63c4b8aa31_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -655,22 +655,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Biden hopes infrastructure can bridge partisan divide"
-    excerpt: "President Joe Biden is hoping that launching an effort to build roads and bridges can help to unite Democrats and Republicans in a time of sharp partisan divisions"
-    publishedDateTime: 2021-02-11T17:59:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/biden-hopes-infrastructure-bridge-partisan-divide-75831304"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-hopes-infrastructure-bridge-partisan-divide-75831304"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-hopes-infrastructure-bridge-partisan-divide-75831304"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_59a453f80f184118bf00f37a71e88083_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Budget office expects $2.3T deficit before Biden relief plan"
     excerpt: "The Congressional Budget Office says the federal government is on track for a $2.3 trillion deficit this year, down roughly $900 billion from last year when the coronavirus caused Congress to provide"
     publishedDateTime: 2021-02-11T20:17:00Z
@@ -939,8 +923,8 @@ related:
         isCached: true
   - title: "Trump impeachment trial: Senate to hear former president's defense – live updates"
     excerpt: "Senate reconvenes at noon with Trump’s team expected to push for swift conclusion to second impeachment trial"
-    publishedDateTime: 2021-02-12T12:09:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/12/donald-trump-impeachment-senate-trial-defense-lwayer-republican-senators-coronavirus-covid-live-updates?page=with:block-60266f7c8f0886db2aba76b3"
+    publishedDateTime: 2021-02-12T08:08:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/12/donald-trump-impeachment-senate-trial-defense-lwayer-republican-senators-coronavirus-covid-live-updates"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/12/donald-trump-impeachment-senate-trial-defense-lwayer-republican-senators-coronavirus-covid-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/12/donald-trump-impeachment-senate-trial-defense-lwayer-republican-senators-coronavirus-covid-live-updates"
     type: article
@@ -949,7 +933,7 @@ related:
       domain: theguardian.com
     quality: 120
     images:
-      - url: "https://i.guim.co.uk/img/media/79fba6632541512957dc0b78860b73395af2360a/1312_1940_2758_1655/master/2758.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6095dca49c0da108981df60080c2a9a3"
+      - url: "https://i.guim.co.uk/img/media/e3e85da90a96e0dd26422e9f794f066009f13104/73_0_2078_1247/master/2078.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1447335cdba272f6ab6feefd6bfc9936"
         width: 600
         height: 360
         isCached: true
@@ -1307,6 +1291,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden hopes infrastructure can bridge partisan divide"
+    excerpt: "President Joe Biden is hoping that launching an effort to build roads and bridges can help to unite Democrats and Republicans in a time of sharp partisan divisions."
+    publishedDateTime: 2021-02-12T02:18:00Z
+    webUrl: "https://www.businessinsider.com/biden-hopes-infrastructure-can-bridge-partisan-divide-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/biden-hopes-infrastructure-can-bridge-partisan-divide-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-hopes-infrastructure-can-bridge-partisan-divide-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "WH: Biden remarks weren't trial prediction"
     excerpt: "The White House press secretary says President Joe Biden wasn’t offering a “projection or a prediction” on the outcome of Donald Trump’s impeachment trial when Biden weighed in on the proceedings earlier Thursday."
     publishedDateTime: 2021-02-11T20:03:00Z
@@ -1480,6 +1475,6 @@ related:
         height: 800
         isCached: true
 
-secured: "h5sujL/Q/DM3X09lGz52mKQ4ukeYHWQpcVk5Pme7no68BCufxC3x0ItSeq/ECdvXBZzZ+MbRzHmJ/by3NK6fbGBiVGX1XMXxsejtbYB8tCnaTgnDZut0DTEpU+ywB2kGJ/rf0K0CV7kBUVAPnM2NkJPGGUJztka4UWhfJWTiYT1mohJOLrGV+v6NPw+UFkff9r65n3Mgn+UcxAgSw7cEJjDreU62r732XEGBv0hKR3TSzu47X4siuUyPpAwhxx9WONSCYx12cOyJBPZvuLlkiIO+4z91HX8/T2FRZc5xtkVV7ZUBbWVIQ/iqqIIXyIn9qHGOiEncKLRtaJpBxuz0+g3a+CqrVsEmrgrJ26NPBAM=;FcUufaIuIGDoy03UTL5oMA=="
+secured: "r5emmtKuPS43QLFyFpEBtKfLD5J4mMEMsVeOYqNqGDHHokZv4nQABnqZgX//E7H+63tbwT5a2HlVxEIPwroetxlv2qWa6NDuxXUw69PQMa0ybfGtp5vhnUVJajamTr/P6OySqWzUNvcTpgXiC7UjjEk78r4w/cszsADSLPjz5D/2aHxcRq4CmWXXl53QnKtkxQFdoJ8N0vE+cHsAinSIMuugsRXuoSEfD9rHYblIcz8UwjLT7+DHs0MW58q+IkWI7O1Se2H+7t/px6JKR4/SqY8gyDYV5lvcASs2+LsLPwaWe5mY3jqHgRu35kqsIOFQw6v05xseuL9kVDBJST7YVp9k/suNvP4bcZ88+GbFmzc=;Y0VauswO42fhtVelR4Pn1Q=="
 ---
 

@@ -144,6 +144,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Democrats debate whether to move on from Trump or seek another form of punishment after impeachment trial"
+    excerpt: "Congressional Democrats are torn over whether to try to punish Donald Trump by censure or move on completely from the former President after the Senate likely acquits him on a charge of inciting the January 6 Capitol riot, possibly as soon as this weekend.\n    \n"
+    publishedDateTime: 2021-02-12T17:39:18Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/O5u3p5NfPQQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/12/politics/democratic-strategy-after-impeachment/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/12/politics/democratic-strategy-after-impeachment/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 158
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210107203000-nancy-pelosi-chuck-schumer-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Schumer's office says it will accommodate Trump attorney request to delay impeachment trial during Sabbath"
     excerpt: "Senate Majority Leader Chuck Schumer's office said the Senate will accommodate a request from one of former President Donald Trump's impeachment attorneys to halt Trump's impeachment trial during the Jewish Sabbath.\n    \n"
     publishedDateTime: 2021-02-07T03:57:05Z
@@ -407,6 +423,6 @@ related:
         height: 773
         isCached: true
 
-secured: "KmyzXQ6tnb9lIdhDO1kjeOFAjHhLvyvf8aMqV4ncEYCATwj+rhtQT7ukGKLb2Uv+OTZBUr03Ndpwkg44q2keBUyZi/v1jD8z5pooUR4G7Guem38rY/1ma5jRKchUy+zEYRj3NOZKrim/lz1CN/5RK1Wh0N8q78J/50lAI457rVq7tGf3LPdukFkNfpX//8uhjVrTLzaSvs7hK79agDxYYOXmq0MYRslJHhYl4ERjCjjRARyrthxtbNf+hMnC11KE/WoFGjKZIna732/XjlA/VoKVXzzHe+H+toVkKqZs1oOOVJV6IKjun+dXuh6050AxTInv4/wIMKk2zyfRPvQ/qCUDg6ESKWR1OoSZseAjAUE=;pl7p4VtJYBlyXI5jrpPYpQ=="
+secured: "FjHlNOYHGa+q9l9krbS80p3CatcSEZ1xF2Yr4DgxwQ0qsTanpc2Ehe7QLxbXpl/EodRPfFV+wlCAPw6VF5rD1jpyBy0FY7A6dwYh/xJaRjin0iIv2OnarSh3izTIx3ToMxNh2ikDEiDa56z/syKMaXBvBwlAQqSshUZ3Rz9+UfQxQWPZto6YhqAVnnnXFEcKKEpYomugNPQrKfFx0L2BORAuweWcTTVfL3FTm0FH+qYIeRK+88BTyEuArvv+mIpIrcS8yKqmK/sD292Qy8IJF5OaNd+XS2P+m1qMHT6lYUkmEk2KZQq2SONtf5ufx3AfEQr/+24uTHs5maiXzwLHtsvd3WXdwCKCISqesMsg89fR1tRiKhe/pdg8XGxBlwKVZ/L55SEvYRn9bePgk9XnumXrNXxzyiM/zdnUxg1vJ12zexqmaM3Xu9eGEkm6bSxxMoD0wTpP5d+h3rffHvC2tPYWYYAcT00ZGdDB0IyaDYeIe2H3Y0MNbMasyWTTCLTusnx6KiWPEJTRek2SMiVL9Q==;Bqlh2Fqo2wSuF8V2KMV+DQ=="
 ---
 

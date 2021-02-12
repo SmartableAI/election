@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.usatoday.com/amp/4433392001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4433392001"
 type: article
 quality: 106
-heat: 106
-published: true
+heat: -1
+published: false
 
 provider:
   name: USA Today
@@ -29,6 +29,40 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Trump's defense team calls impeachment trial 'political vengeance'"
+    excerpt: "Donald Trump's lawyers on Friday began laying out their case for why the former president should be acquitted of inciting last month's deadly riot at the U.S. Capitol, arguing the impeachment trial was an act of \"political vengeance\" by Democrats."
+    publishedDateTime: 2021-02-12T18:47:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-idCAKBN2AC11K"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN2AC11K"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN2AC11K"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210212&t=2&i=1551337067&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1B0QW"
+        width: 811
+        height: 545
+        isCached: true
+  - title: "Democrats use Trump tweets, new video to argue \"full scope\" of Capitol attack at impeachment trial"
+    excerpt: "House Democrats leading the prosecution of former President Trump wrapped up the second day of his impeachment trial on Wednesday by calling into question what Mr. Trump was doing while the Capitol was under attack on January 6."
+    publishedDateTime: 2021-02-11T12:12:00Z
+    webUrl: "https://www.cbsnews.com/live-updates/trump-impeachment-trial-video-capitol-attack/"
+    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/trump-impeachment-trial-video-capitol-attack/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/trump-impeachment-trial-video-capitol-attack/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 111
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/10/06393edd-f804-4a64-aa67-f5d55b0b10c2/thumbnail/1200x630/a11b24a137e8555dacc8b56a9297bbd6/screen-shot-2021-02-10-at-3-48-51-pm.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "0+SDIRlOx3Pck7P4hvS3JpDsB0KhOqL2wiH4f6UnSP2MoAnKNDoUEVau5hVPaznTHCV/Cb8I3WuvdMiX+scXlUJWLOADrI5xWt8uobB3/XVaL9ONs7FouYKDecQq8TPD0D6zD+mXMVSqBhKu31qM0Cw/RRsZQVbfOFzx+6nr3G2rbPUTSNb6yD5N64kSO0YOBioFJRE1KktaI1HxDWCaOmJ0yKdW+CN5T+sKsxkDc7R8+lhB3oushW0fq6o1q8VQ+gGzVd4PiaIDuvt5w/360HPN3eC/aPkxWvdlr42QOzlIcFn6iFrRxqI9yrYr/GODAuPOHmGPn6BnIrohOXPLWpdfLlJkfsWNMe0AIJTLpyTl0Lxu0zYCeRmd7WhZSdDwkLWBGjoQeLg30Oc3RE0cWtbDMBrOC0HwbF/bC3i8sOCl4Cvd69pikYyf8fVJXFkpOhfTzRVbRrDr4Y4b7HoQSsLN4FNPtiiTJpj95BaUPJ9OktCgy6v0UPcgT02muwcOY3AW9sGvFKXcqSJXFvRwuQ==;yuwJai75vnBldRQVGgdC0A=="
 ---

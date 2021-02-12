@@ -25,64 +25,37 @@ topics:
   - Joe Biden
 
 related:
-  - title: "Biden to press for $1.9 trillion COVID relief plan with governors, mayors"
-    excerpt: "U.S. President Joe Biden will meet with a bipartisan group of mayors and governors on Friday as he continues to push for approval of a $1.9 trillion coronavirus relief plan to bolster economic growth and help millions of unemployed workers."
-    publishedDateTime: 2021-02-12T16:04:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden/biden-to-press-for-1-9-trillion-covid-relief-plan-with-governors-mayors-idUSKBN2AC10D"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AC10D"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AC10D"
+  - title: "Trade to be part of Biden's China strategy, not driving force: ex-USTR official"
+    excerpt: "Trade will be a part of President Joe Biden's overall negotiation policy with China, but it won't be the driving force in Sino-U.S. relations, as it was under former President Donald Trump, a former official at the Office of the U."
+    publishedDateTime: 2021-02-03T09:55:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trade-rcep-gmf-idUKKBN2A30GV"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2A30GV"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2A30GV"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 124
+    quality: 121
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210212&t=2&i=1551340103&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1B0Q3"
-        width: 811
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210203&t=2&i=1550105113&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1209M"
+        width: 817
         height: 545
         isCached: true
-  - title: "Biden says minimum wage increase looks like it's not 'going to survive' as part of COVID-19 relief package"
-    excerpt: "\"I put it in, but I don't think it's going to survive,\" Biden said, though Sen. Bernie Sanders still insists including it is a \"moral imperative.\""
-    publishedDateTime: 2021-02-07T03:10:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/06/joe-biden-minimum-wage-hike-unlikely-covid-19-relief-package/4419484001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4419484001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4419484001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 107
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/02/02/USAT/8fb9e98d-2c3c-4c68-b241-f60d04679892-AP21032806117693.jpg?auto=webp&crop=5526,3108,x0,y195&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Senate panel clears Biden's nomination of Boston mayor for labor secretary"
-    excerpt: "President Joe Biden's nomination of Boston Mayor Marty Walsh to serve as the next secretary of labor won approval from a Senate committee on Thursday, clearing the way for a vote by the full Senate."
-    publishedDateTime: 2021-02-11T22:38:00Z
-    webUrl: "https://www.reuters.com/article/employment-dol-idUSL1N2KH1S5"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2KH1S5"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2KH1S5"
+  - title: "Biden administration plans to continue to seek extradition of WikiLeaks' Assange: official"
+    excerpt: "President Joe Biden's administration plans to continue to seek to extradite WikiLeaks founder Julian Assange from the United Kingdom to the United States to face hacking conspiracy charges, the U.S. Justice Department said."
+    publishedDateTime: 2021-02-10T00:58:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-justice-assange-idUSKBN2A92T4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A92T4"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A92T4"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 103
-  - title: "The Biden administration is building three new COVID-19 vaccination sites in Texas and two in New York to target socially vulnerable communities"
-    excerpt: "Five new COVID-19 vaccination sites will altogether be able to vaccinate 10,000 people in underserved communities in the US every day."
-    publishedDateTime: 2021-02-11T12:57:00Z
-    webUrl: "https://www.businessinsider.com/joe-biden-administration-five-new-vaccination-sites-new-york-texas-2021-2"
-    ampWebUrl: "https://www.businessinsider.com/joe-biden-administration-five-new-vaccination-sites-new-york-texas-2021-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-biden-administration-five-new-vaccination-sites-new-york-texas-2021-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 88
+    quality: 115
     images:
-      - url: "https://i.insider.com/6025170367d1e300113c5762?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210209&t=2&i=1550947523&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH181OO"
+        width: 790
+        height: 545
         isCached: true
 
 secured: "nrSv/sJ782Glo3jCfDUlJ4C/Z74QuTujoAClkwNAimfDsC/5JJK0m+DVoOZCIxVz1xbbnV0sJKGa79Wv10Anftk891IJeZTlDX2VDHeqB1RjxtTPmt/TOfeNm/W4OvMef2pXfpSAQeYstxvyXE4OmFcued181SFgUijna1pRxzQf/raV1qmkI20zx/a7fRIS/Tjq1r0ywRc9+u78veX2XfWdEmMAvu9tGBO+e683JG6f4E33HIg32m4OpP6sG8olHP7hiogHNdpPDBEyogoBc8KQ0SAKP/PiJ8NQ2rpIp3FTYrpOuEuFAhRBjdKJRg6B9BShFpDBs9bEyeUuryHzfAzyU4jW2YtD4/ANNs7CzKHmmDaZtj6XHhUTsQN56cWuMK6BPhN1zWm4JUv4XBosqbOCikGGRZpORTOk6RilLRPLNKKmxT3+2C+5ArrnOKp5nbLH7yAr78gzrxXChZmtaxBMnZpIPjssUoh2ATT2E2iDWr0D9zcaAxXLvKmlVk7om0W0Ci33y05H80uhXWBDMQ==;tSYcL3TY9WXoj6/8fbONlw=="

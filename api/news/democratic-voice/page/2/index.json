@@ -2,6 +2,63 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-05-greene-admits-911-happened-dems-seek-trump-under-oath.md",
+      "title": "Greene admits 9/11 ‘happened,’ Dems seek Trump under oath",
+      "excerpt": "JAMIE RASKIN (D-Md.), the lead House impeachment manager, sent a letter to former President DONALD TRUMP “requesting that he provide testimony under oath, either before or during the Senate impeachment trial,",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/newsletters/playbook-pm/2021/02/04/greene-admits-9-11-happened-dems-seek-trump-under-oath-491640",
+      "originalUrl": "https://www.politico.com/newsletters/playbook-pm/2021/02/04/greene-admits-9-11-happened-dems-seek-trump-under-oath-491640",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/b0/2f/26b3ac3a4fda823db3ce22fa28ce/210204-greene-ap-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-04T10:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-04-white-house-to-leave-any-intelligence-requests-from-trump-to-intel-community.md",
       "title": "White House to leave any intelligence requests from Trump to intel community",
       "excerpt": "The Biden White House says the intelligence community will review any incoming requests for intelligence briefings from former President Donald Trump, as has been customary for former presidents, though he has not yet made any.\n    \n",
@@ -1631,63 +1688,6 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-harris-reflects-on-full-circle-moment-after-receiving-vaccine-dose-at-nih-building-her-late-mother-frequented.md",
-      "title": "Harris reflects on 'full circle' moment after receiving vaccine dose at NIH building her late mother frequented",
-      "excerpt": "Vice President Kamala Harris on Tuesday spoke in personal terms about a \"full circle\" moment after receiving the second dose of the Moderna Covid-19 vaccine at the same National Institutes of Health building her late mother had frequented for work.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PSFmRgF791w/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PSFmRgF791w/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200801174111-01a-kamala-harris-lead-image-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/26/politics/kamala-harris-vaccine-mother-shyamala-gopalan-harris/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/kamala-harris-vaccine-mother-shyamala-gopalan-harris/index.html",
-      "publishedDateTime": "2021-01-26T14:26:22-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Kamala Harris"
       ]
     }
   ],

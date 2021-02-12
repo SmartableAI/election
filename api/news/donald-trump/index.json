@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-13-trumps-defense-team-calls-impeachment-trial-political-vengeance.md",
+      "title": "Trump's defense team calls impeachment trial 'political vengeance'",
+      "excerpt": "Donald Trump's lawyers on Friday began laying out their case for why the former president should be acquitted of inciting last month's deadly riot at the U.S. Capitol, arguing the impeachment trial was an act of \"political vengeance\" by Democrats.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-trump-impeachment-idCAKBN2AC11K",
+      "originalUrl": "https://www.reuters.com/article/us-usa-trump-impeachment-idCAKBN2AC11K",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210212&t=2&i=1551337067&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1B0QW",
+          "width": 811,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idCAKBN2AC11K",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN2AC11K",
+      "publishedDateTime": "2021-02-12T10:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-13-power-up-mitch-mcconnell-still-isnt-talking-to-trump-but-will-he-vote-to-acquit-him.md",
       "title": "Power Up: Mitch McConnell still isn't talking to Trump. But will he vote to acquit him?",
       "excerpt": "This is not the America McConnell grew up in or the Republican Party he's built. This is not the party he wants to leave behind for the next generation,' said longtime McConnell political aide Scott Jennings.",
@@ -428,6 +480,58 @@
       ]
     },
     {
+      "path": "_news/2021-02-12-live-updates-senate-must-convict-trump-to-ensure-no-future-president-incites-insurrection-democrats-say.md",
+      "title": "Live updates: Senate must convict Trump to ensure no future president incites insurrection, Democrats say",
+      "excerpt": "Day 3 of former President Donald Trump's second impeachment trial has begun. The Democratic impeachment managers will use up to eight hours to wrap up their case against the ex-pr",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/02/11/trump-impeachment-trial-live-updates-day-3.html",
+      "originalUrl": "https://www.cnbc.com/2021/02/11/trump-impeachment-trial-live-updates-day-3.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106839426-1613066740937-gettyimages-1231104598-brave_zvrabgh107.jpg?v=1613066758",
+          "width": 1582,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/02/11/trump-impeachment-trial-live-updates-day-3.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/02/11/trump-impeachment-trial-live-updates-day-3.html",
+      "publishedDateTime": "2021-02-11T10:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-11-donald-trump-jr-has-no-intention-of-running-for-officefor-now.md",
       "title": "Donald Trump Jr. Has 'No Intention' of Running for Office—For Now",
       "excerpt": "Donald Trump Jr. said he had \"no intention\" of running for office right now, but did not completely rule out putting himself on the ballot in the future as his father's impeachment trial entered its second day on Wednesday.",
@@ -512,58 +616,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-democrats-use-trump-tweets-new-video-to-argue-full-scope-of-capitol-attack-at-impeachment-trial.md",
-      "title": "Democrats use Trump tweets, new video to argue \"full scope\" of Capitol attack at impeachment trial",
-      "excerpt": "House Democrats leading the prosecution of former President Trump wrapped up the second day of his impeachment trial on Wednesday by calling into question what Mr. Trump was doing while the Capitol was under attack on January 6.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/live-updates/trump-impeachment-trial-video-capitol-attack/",
-      "originalUrl": "https://www.cbsnews.com/live-updates/trump-impeachment-trial-video-capitol-attack/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/10/06393edd-f804-4a64-aa67-f5d55b0b10c2/thumbnail/1200x630/a11b24a137e8555dacc8b56a9297bbd6/screen-shot-2021-02-10-at-3-48-51-pm.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/live-updates/trump-impeachment-trial-video-capitol-attack/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/trump-impeachment-trial-video-capitol-attack/",
-      "publishedDateTime": "2021-02-11T04:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -747,6 +799,58 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-i-dont-want-to-come-back-as-trump-trial-opens-democrat-recalls-daughters-fear-during-riot.md",
+      "title": "'I don't want to come back:' As Trump trial opens, Democrat recalls daughter's fear during riot",
+      "excerpt": "U.S. House lead impeachment manager Rep. Jamie Raskin (D-MD) becomes emotional as he discusses his and his family's experiences inside the U.S. Capitol building during the siege on Jan. 6 and his daug",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/news/picture/i-dont-want-to-come-back-as-trump-trial-idUSKBN2A92YV",
+      "originalUrl": "https://www.reuters.com/news/picture/i-dont-want-to-come-back-as-trump-trial-idUSKBN2A92YV",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210210&t=2&i=1551085705&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEH181S5",
+          "width": 810,
+          "height": 455,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-10T16:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -1181,58 +1285,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-09-sen-tim-kaine-says-his-censure-proposal-for-former-president-trump-is-still-a-live-option.md",
-      "title": "Sen. Tim Kaine says his censure proposal for former president Trump is still a ‘live option’",
-      "excerpt": "Sen. Tim Kaine says he’s worried that former president Donald Trump will be acquitted again, but he explained the censure he proposed is still a “live option.” “There has to be accountability for the actions of Jan.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/video/washington-post-live/wplive/sen-tim-kaine-says-his-censure-proposal-for-former-president-trump-is-still-a-live-option/2021/02/08/19b6ce3f-10ad-45da-af18-6ef6b5746211_video.html",
-      "originalUrl": "https://www.washingtonpost.com/video/washington-post-live/wplive/sen-tim-kaine-says-his-censure-proposal-for-former-president-trump-is-still-a-live-option/2021/02/08/19b6ce3f-10ad-45da-af18-6ef6b5746211_video.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/02-08-2021/t_74ebace138074479a8f8a981b0ec7849_name_Screen_Shot_2021_02_08_at_4_27_58_PM.png&w=1080",
-          "width": 1080,
-          "height": 719,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-08T16:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-02-09-ex-parler-ceo-said-he-didnt-want-the-platform-to-work-with-trump-because-the-president-might-have-bullied-employees-into-doing-what-he-wanted.md",
       "title": "Ex-Parler CEO said he didn't want the platform to work with Trump because the president might have 'bullied' employees into doing what he wanted",
       "excerpt": "The interview aired after BuzzFeed News reported that Parler had offered Trump a 40% stake in exchange for becoming his go-to social-media platform.",
@@ -1391,58 +1443,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-08-politics-live-updates-a-quick-trial-vs-witnesses-senate-weighs-strategy-on-trump-impeachment-proceedings.md",
-      "title": "Politics live updates - A quick trial vs. witnesses: Senate weighs strategy on Trump impeachment proceedings",
-      "excerpt": "Senators face key decisions on the contours of Trump's second impeachment trial, including the crucial question of whether to call witnesses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/02/08/politics-live-updates-senate-weighs-strategy-trump-impeachment-trial/4433392001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/02/08/politics-live-updates-senate-weighs-strategy-trump-impeachment-trial/4433392001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/01/09/USAT/6aa6963b-4d2b-4679-b15a-6477fc618042-AP21006679639042.jpg?auto=webp&crop=4305,2421,x722,y1081&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/4433392001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4433392001",
-      "publishedDateTime": "2021-02-08T06:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {

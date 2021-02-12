@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-immigration-insanity-steroids
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-immigration-insanity-steroids-california-angel-dad.amp"
 type: article
 quality: 175
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3e8d82c2-273b-4c5c-a9ad-ccd91dbd9bae/62e14652-1b7c-40c3-b0ea-aac58cd458bd/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden administration to allow 25,000 asylum-seekers to cross US-Mexico border while cases are pending"
+    excerpt: "Around 25,000 asylum-seekers who were ordered under former President Donald Trump to wait in Mexico while U.S. immigration courts processed their requests will now be allowed to cross the border starting next week, the Biden administration announced Friday. "
+    publishedDateTime: 2021-02-12T18:24:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kPa6d4zdx2s/biden-administration-allow-asylum-seekers-cross-us-mexico-border"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-allow-asylum-seekers-cross-us-mexico-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-allow-asylum-seekers-cross-us-mexico-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-zxjs75c-xl.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "The Global Problems Biden Can't Avoid"
     excerpt: "President Joe Biden needs to take urgent action to help ease the world's proliferating humanitarian crises, mired in the triple threat of untended conflict, unmitigated climate change and the scourge of Covid-19,"

@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-10-trump-beyond-angry-with-impeachment-defense-teams-showing-sources.md",
+      "title": "Trump ‘beyond angry’ with impeachment defense team’s showing: sources",
+      "excerpt": "Former President Trump was “furious” and “beyond angry” over his defense team’s showing on Day One of his second impeachment trial, two sources told Fox News late Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/u63UL8gUfJI/trump-beyond-angry-with-impeachment-defense-teams-showing-sources",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/u63UL8gUfJI/trump-beyond-angry-with-impeachment-defense-teams-showing-sources",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-beyond-angry-with-impeachment-defense-teams-showing-sources.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-beyond-angry-with-impeachment-defense-teams-showing-sources.amp",
+      "publishedDateTime": "2021-02-09T21:52:51-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-10-flashback-obama-defense-sec-says-biden-as-vp-was-wrong-on-nearly-every-big-foreign-policy-issue.md",
       "title": "FLASHBACK: Obama Defense Sec. says Biden as VP was wrong on nearly every big foreign policy issue",
       "excerpt": "President Biden is expected to make his first visit to the Pentagon as Commander-in-Chief on Wednesday alongside Vice President Kamala Harris.",
@@ -632,7 +688,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 2265,
+      "heat": 2285,
       "tags": null,
       "images": [
         {
@@ -1305,7 +1361,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 295,
+      "heat": 315,
       "tags": null,
       "images": [
         {
@@ -1628,62 +1684,6 @@
         "Election",
         "Republican Voice",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-trump-resigns-from-screen-actors-guild-i-no-longer-wish-to-be-associated-with-your-union.md",
-      "title": "Trump resigns from Screen Actors Guild: ‘I no longer wish to be associated with your union’",
-      "excerpt": "President Trump is resigning from the Screen Actors Guild - American Federation of Television and Radio Artists after they threatened to expel his membership from the union after the Capitol riot -- to which he said, “Who cares!”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jc98yOOyz-A/trump-resigns-from-screen-actors-guild",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jc98yOOyz-A/trump-resigns-from-screen-actors-guild",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-resigns-from-screen-actors-guild.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-resigns-from-screen-actors-guild.amp",
-      "publishedDateTime": "2021-02-04T09:44:48-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

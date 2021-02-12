@@ -2,6 +2,383 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-12-live-updates-senate-must-convict-trump-to-ensure-no-future-president-incites-insurrection-democrats-say.md",
+      "title": "Live updates: Senate must convict Trump to ensure no future president incites insurrection, Democrats say",
+      "excerpt": "Day 3 of former President Donald Trump's second impeachment trial has begun. The Democratic impeachment managers will use up to eight hours to wrap up their case against the ex-pr",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/02/11/trump-impeachment-trial-live-updates-day-3.html",
+      "originalUrl": "https://www.cnbc.com/2021/02/11/trump-impeachment-trial-live-updates-day-3.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106839426-1613066740937-gettyimages-1231104598-brave_zvrabgh107.jpg?v=1613066758",
+          "width": 1582,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/02/11/trump-impeachment-trial-live-updates-day-3.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/02/11/trump-impeachment-trial-live-updates-day-3.html",
+      "publishedDateTime": "2021-02-11T10:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-hawley-rips-trump-impeachment-proceedings-as-kangaroo-trial.md",
+      "title": "Hawley rips Trump impeachment proceedings as ‘kangaroo trial’",
+      "excerpt": "Missouri Republican Sen. Josh Hawley tore into the Trump impeachment proceedings in the Senate as a “kangaroo trial” as Democrats continued their case against the former president on Thursday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wyqzk5OkaAY/hawley-rips-trump-impeachment-proceedings-as-kangaroo-trial",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wyqzk5OkaAY/hawley-rips-trump-impeachment-proceedings-as-kangaroo-trial",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 395,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6543d8c3-c5b2-44bb-a344-bb13ad713683/d535c75a-02b5-4857-8437-8ba6267791ee/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/hawley-rips-trump-impeachment-proceedings-as-kangaroo-trial.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hawley-rips-trump-impeachment-proceedings-as-kangaroo-trial.amp",
+      "publishedDateTime": "2021-02-11T10:03:40-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-12-migrants-view-the-us-with-hope-and-caution-after-biden-scraps-muslim-ban.md",
+      "title": "Migrants view the US with hope and caution after Biden scraps 'Muslim ban'",
+      "excerpt": "The policy rejected visas for an estimated 42,000 people, and did nothing for Americans’ safety",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/feb/11/muslim-ban-donald-trump-joe-biden-visa?utm_medium%23Echobox=1613053478",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/feb/11/muslim-ban-donald-trump-joe-biden-visa?utm_medium%23Echobox=1613053478",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/70099cc4acb006157a97e6d350d0d59004d341eb/0_186_5568_3341/master/5568.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2541df4e5bcf6e8d0d5a4406c778d221",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/feb/11/muslim-ban-donald-trump-joe-biden-visa",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/11/muslim-ban-donald-trump-joe-biden-visa",
+      "publishedDateTime": "2021-02-11T09:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-what-is-incitement-and-what-does-it-mean-for-trumps-impeachment-defense.md",
+      "title": "What is 'incitement' -- and what does it mean for Trump's impeachment defense?",
+      "excerpt": "The allegation of \"incitement\" is central to the impeachment case House Democrats are making against former President Donald Trump because it ties his words and actions to the January 6 insurrection on Capitol Hill.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IOsOx2p7iAE/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IOsOx2p7iAE/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 251,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210106122842-01-trump-speaks-dc-protest-0106-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/11/politics/what-is-incitement-definition/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/11/politics/what-is-incitement-definition/index.html",
+      "publishedDateTime": "2021-02-11T09:05:07-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-saudi-rights-activist-loujain-al-hathlouls-family-thanks-biden-for-helping-get-her-out-of-prison.md",
+      "title": "Saudi rights activist Loujain al-Hathloul's family thanks Biden for helping get her out of prison",
+      "excerpt": "But the sister of Loujain al-Hathloul says she's not really free, and that there's \"an atmosphere of fear\" under Saudi Crown Prince Mohammed bin Salman.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/saudi-arabia-womens-rights-activist-loujain-al-hathloul-family-thanks-biden/",
+      "originalUrl": "https://www.cbsnews.com/news/saudi-arabia-womens-rights-activist-loujain-al-hathloul-family-thanks-biden/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/02/11/ffcc6b6d-f0d3-4979-afe5-466bdbd4c114/thumbnail/1200x630g8/6fde590f829c294286940a82d1c86c7e/loujain-al-hathloul-released.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/saudi-arabia-womens-rights-activist-loujain-al-hathloul-family-thanks-biden/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/saudi-arabia-womens-rights-activist-loujain-al-hathloul-family-thanks-biden/",
+      "publishedDateTime": "2021-02-11T07:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-donald-trump-jr-has-no-intention-of-running-for-officefor-now.md",
+      "title": "Donald Trump Jr. Has 'No Intention' of Running for Office—For Now",
+      "excerpt": "Donald Trump Jr. said he had \"no intention\" of running for office right now, but did not completely rule out putting himself on the ballot in the future as his father's impeachment trial entered its second day on Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/donald-trump-jr-no-intention-running-now-1568605",
+      "originalUrl": "https://www.newsweek.com/donald-trump-jr-no-intention-running-now-1568605",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1732509/donald-trump-jr.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/donald-trump-jr-no-intention-running-now-1568605?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-jr-no-intention-running-now-1568605?amp=1",
+      "publishedDateTime": "2021-02-11T07:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-loujain-al-hathloul-saudi-activists-family-thanks-biden-after-release-from-jail.md",
+      "title": "Loujain al-Hathloul: Saudi activist's family thanks Biden after release from jail",
+      "excerpt": "The women's rights activist's incarceration had led to growing international pressure and further scrutiny of Saudi Arabia's human rights record.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/world/loujain-al-hathloul-saudi-activist-s-family-thanks-biden-after-n1257446",
+      "originalUrl": "https://www.nbcnews.com/news/world/loujain-al-hathloul-saudi-activist-s-family-thanks-biden-after-n1257446",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2021_06/3449354/210211-loujain-al-hathlou-al-0853_5469535b6fde1d6348486b15c860fe9b.jpg",
+          "width": 1024,
+          "height": 609,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1257446",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1257446",
+      "publishedDateTime": "2021-02-11T07:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-11-building-the-big-one-behind-the-scenes-of-bidens-19-trillion-bet.md",
       "title": "Building the big one: Behind the scenes of Biden's $1.9 trillion bet  ",
       "excerpt": "On January 5, as results came in from the Senate runoff election in Georgia, the texts between President-elect Joe Biden's senior staff went late into the night and into the next morning. With the Senate majority on the line, and full control of Washington in their grasp, the outcome of the two Georgia",
@@ -551,110 +928,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-11-democrats-use-trump-tweets-new-video-to-argue-full-scope-of-capitol-attack-at-impeachment-trial.md",
-      "title": "Democrats use Trump tweets, new video to argue \"full scope\" of Capitol attack at impeachment trial",
-      "excerpt": "House Democrats leading the prosecution of former President Trump wrapped up the second day of his impeachment trial on Wednesday by calling into question what Mr. Trump was doing while the Capitol was under attack on January 6.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/live-updates/trump-impeachment-trial-video-capitol-attack/",
-      "originalUrl": "https://www.cbsnews.com/live-updates/trump-impeachment-trial-video-capitol-attack/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/10/06393edd-f804-4a64-aa67-f5d55b0b10c2/thumbnail/1200x630/a11b24a137e8555dacc8b56a9297bbd6/screen-shot-2021-02-10-at-3-48-51-pm.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/live-updates/trump-impeachment-trial-video-capitol-attack/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/trump-impeachment-trial-video-capitol-attack/",
-      "publishedDateTime": "2021-02-11T04:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-meena-harris-has-a-personal-brand-some-fear-shes-profiting-from-her-aunt-kamalas-office.md",
-      "title": "Meena Harris has a personal brand. Some fear she’s profiting from her Aunt Kamala’s office",
-      "excerpt": "The White House and others fear scrutiny over the personal branding efforts of the vice president's niece, which have grown with Kamala Harris' career.",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/politics/story/2021-02-11/meena-branding-business-kamala-harris-niece",
-      "originalUrl": "https://www.latimes.com/politics/story/2021-02-11/meena-branding-business-kamala-harris-niece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/651769e/2147483647/strip/true/crop/4500x2939+0+48/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F85%2Fe9%2F1c5ad06c42b89c8d0cc826df1046%2Ftrump-impeachment-08666.jpg",
-          "width": 320,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.latimes.com/politics/story/2021-02-11/meena-branding-business-kamala-harris-niece?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-02-11/meena-branding-business-kamala-harris-niece?_amp=true",
-      "publishedDateTime": "2021-02-11T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
       "path": "_news/2021-02-11-trump-team-fires-back-at-dems-claims-they-too-have-used-fight-like-hell-rhetoric.md",
       "title": "Trump team fires back at Dems, claims they too have used ‘fight like hell’ rhetoric",
       "excerpt": "The Trump team turned the tables on the Democratic Party’s impeachment managers on Wednesday, after they claimed once again that the former president’s \"fight like hell\" rhetoric at a Jan. 6 rally in Washington helped spark the riot at the U.",
@@ -985,6 +1258,58 @@
       ]
     },
     {
+      "path": "_news/2021-02-11-i-dont-want-to-come-back-as-trump-trial-opens-democrat-recalls-daughters-fear-during-riot.md",
+      "title": "'I don't want to come back:' As Trump trial opens, Democrat recalls daughter's fear during riot",
+      "excerpt": "U.S. House lead impeachment manager Rep. Jamie Raskin (D-MD) becomes emotional as he discusses his and his family's experiences inside the U.S. Capitol building during the siege on Jan. 6 and his daug",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/news/picture/i-dont-want-to-come-back-as-trump-trial-idUSKBN2A92YV",
+      "originalUrl": "https://www.reuters.com/news/picture/i-dont-want-to-come-back-as-trump-trial-idUSKBN2A92YV",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210210&t=2&i=1551085705&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEH181S5",
+          "width": 810,
+          "height": 455,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-10T16:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-10-biden-admin-erects-tent-city-in-texas-to-handle-influx-of-illegal-immigrants.md",
       "title": "Biden admin erects tent city in Texas to handle influx of illegal immigrants",
       "excerpt": "The Biden administration announced this week that it opened a soft-sided facility for immigrants in Donna, Texas, as Republican lawmakers warn of a “rising crisis” at the U.S.-Mexico border.",
@@ -1038,332 +1363,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-trump-advisers-say-he-hasnt-shown-remorse-for-the-insurrection-and-relationship-with-pence-remains-damaged.md",
-      "title": "Trump advisers say he hasn't shown remorse for the insurrection and relationship with Pence remains damaged",
-      "excerpt": "Advisers to former President Donald Trump say he still has not expressed remorse for the siege at the US Capitol, which could end up being important for Senate jurors to consider after House impeachment managers on Wednesday released new video of the violent mob's assault on January 6.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QsBegkDJuPY/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QsBegkDJuPY/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 1102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210105215557-pence-trump-file-2019-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/10/politics/donald-trump-mike-pence-impeachment/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/10/politics/donald-trump-mike-pence-impeachment/index.html",
-      "publishedDateTime": "2021-02-10T15:39:53-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-nikki-haley-warns-illegal-immigration-hitting-crisis-levels-amid-biden-moves.md",
-      "title": "Nikki Haley warns illegal immigration hitting ‘crisis levels,’ amid Biden moves",
-      "excerpt": "Nikki Haley on Wednesday warned that illegal immigration is hitting “crisis levels” in the wake of a number of reversals of key Trump-era policies by President Joe Biden -- with the former U.N. ambassador arguing that the U.S. needs to take care of “Americans first.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ybEWnpLo3uA/haley-illegal-immigration-biden-policies",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ybEWnpLo3uA/haley-illegal-immigration-biden-policies",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 211,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/29ad43be-ef82-4891-814c-c63e8428c1be/341602a7-fa65-4e5f-aed0-8d066037eff0/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/haley-illegal-immigration-biden-policies.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/haley-illegal-immigration-biden-policies.amp",
-      "publishedDateTime": "2021-02-10T15:36:04-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-impeachment-video-shows-mike-pence-and-mitt-romney-fleeing-capitol-attack-video.md",
-      "title": "Impeachment video shows Mike Pence and Mitt Romney fleeing Capitol attack – video",
-      "excerpt": "Security footage shows how police officer led Romney away from attackers",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/video/2021/feb/10/impeachment-video-shows-mike-pence-and-mitt-romney-fleeing-capitol-attack-video",
-      "originalUrl": "https://www.theguardian.com/us-news/video/2021/feb/10/impeachment-video-shows-mike-pence-and-mitt-romney-fleeing-capitol-attack-video",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/b4caae2389a10c622ac25f5928f1c2163c7dc572/68_0_2262_1358/master/2262.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8092439908523761374469cb580ee245",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-10T15:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-new-capitol-riot-footage-shows-cop-eugene-goodman-protect-pence-romney.md",
-      "title": "New Capitol riot footage shows cop Eugene Goodman protect Pence, Romney",
-      "excerpt": "Security footage broadcast for the first time Wednesday at former President Donald Trump’s impeachment trial shows how close Capitol rioters got to officials on Jan. 6 — with a sole police",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/02/10/new-capitol-riot-footage-shows-cop-eugene-goodman-protect-pence-romney/",
-      "originalUrl": "https://nypost.com/2021/02/10/new-capitol-riot-footage-shows-cop-eugene-goodman-protect-pence-romney/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/02/capitol-stills-2.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/02/10/new-capitol-riot-footage-shows-cop-eugene-goodman-protect-pence-romney/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/10/new-capitol-riot-footage-shows-cop-eugene-goodman-protect-pence-romney/amp/",
-      "publishedDateTime": "2021-02-10T14:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-biden-administration-asks-supreme-court-to-save-obamacare-flipping-trump-arguments.md",
-      "title": "Biden administration asks Supreme Court to save Obamacare, flipping Trump arguments",
-      "excerpt": "The Biden administration told the Supreme Court on Wednesday that it should uphold the Affordable Care Act, reversing the position of the Trump administration that had urged the justices to strike down the entire law amid the coronavirus pandemic.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/T3Fhtd_SD8k/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/T3Fhtd_SD8k/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 584,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201109160916-joe-biden-obamacare-1028-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/10/politics/affordable-care-act-obamacare-biden-supreme-court/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/10/politics/affordable-care-act-obamacare-biden-supreme-court/index.html",
-      "publishedDateTime": "2021-02-10T14:24:27-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-chilling-new-security-footage-shows-pence-and-family-rushed-to-safety.md",
-      "title": "Chilling new security footage shows Pence and family rushed to safety",
-      "excerpt": "House impeachment managers show never-before-seen security footage from the Capitol riot at former President Donald Trump's second impeachment trial.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_chv3QKXiMw/security-footage-pence-exit-capitol-riot-impeachment-trial-two-vpx.cnn",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_chv3QKXiMw/security-footage-pence-exit-capitol-riot-impeachment-trial-two-vpx.cnn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210210171910-pence-capitol-surveillance-video-jan-6-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2021/02/10/security-footage-pence-exit-capitol-riot-impeachment-trial-two-vpx.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/02/10/security-footage-pence-exit-capitol-riot-impeachment-trial-two-vpx.cnn",
-      "publishedDateTime": "2021-02-10T14:10:32-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Mike Pence"
       ]
     }
   ],

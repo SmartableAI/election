@@ -1580,6 +1580,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "LIVE UPDATES: Trump lawyers make arguments at impeachment trial, expected to allege Dem hypocrisy"
+    excerpt: "The impeachment trial of former President Donald Trump in the Senate resumed on Friday with Trump's lawyers expected to argue that Democrats are hypocritical for saying that Trump incited the Capitol mob by telling his followers they have to \"fight\" against a \"stolen election."
+    publishedDateTime: 2021-02-12T17:47:00Z
+    webUrl: "https://www.foxnews.com/politics/live-updates-impeachment-trump-2-12-21"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-impeachment-trump-2-12-21.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-impeachment-trump-2-12-21.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 122
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1a891bdd-1bd9-489d-ad5e-0c172a1b45f7/af518998-d3eb-4ed0-84a1-32e41c857d0b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "House impeachment managers slam Trump in final pre-trial brief: 'Most grievous constitutional crime ever'"
     excerpt: "The House impeachment managers accused former President Donald Trump of \"the most grievous constitutional crime ever committed by a President\" in their final brief before Trump's impeachment trial begins in earnest Tuesday."
     publishedDateTime: 2021-02-08T18:17:00Z
@@ -1681,6 +1697,6 @@ related:
         height: 640
         isCached: true
 
-secured: "T6c+TmJBtMkavsliTQFbwzPABNv089F4ShjDtHQlUGMOOg3Icw030JGAdEJu8Lqlew55Bz/FB+MOUGMS12WF58B3AZbf7R4iQiwUGVDS97hqFVDJF/XVhO7LkG9NzPGMetLkWoea2Twx42oApffbRrvH4Frx3yKEqIegVMefGO5Yeck1lEjQ8QG1A+kjj7o4BWGLxO0f82ocrDTzGABVws01Y9+i9/j0wNf+AdWVlJaNfFANJmnQhywIhPhws7JWmLzfXSrxxIMPfCQw/KS23KzXmFls/ERDpsiHFR+jpQ6frsqvkhEsBOA0q1wsAddumdnnwukb9igQB5WuL+MK8MV2Nxkh9cvt8TNz09wNojY=;4VZ2E1vaQ36qcL4lzD7Ryw=="
+secured: "5dJbO+lyNlFSytsb7YMc8Id0WExgTdcDcZ/DeFzeBgAWGo9DEthGkDiDYF86/pl8HNUX60i3PKL8H396ZNvoB1KbaplqXbNV7do+KaLjdG0h2ji6SkowqC1tG9/DYNAZXQ5fzY5XSvZO/hx4Ixw+6FOI84Zd675QEW1gGr3hTJPkwRPaXkcAx9fcdYGTlxT/EElR7xSMLXx4LsrPHcrD6CF/iNs/U2OzMszme0014pn0lZVH7f5SxJijPoYv8ZiDC6caVmVaXEGuLc0afc3aPQD7EllbUMN2xIZmNAkWqNgggEPvR5d3mggj2HAQ9EDwGFJP9hCUsgdLDU/QTfHIxs4MKy82dL/OCIOY8HHKro2+69B1S/4Q7EFoGP4n4y+adW7+/VF+lkX01GVmFOgf0IepX5wnbDNjwqXRbQco/aidPpJunuo1MF17jkpv2VvrEEvxjqdZ8MyH9stCvMqXGQcO7XmV8bVesibgO9318Cii2O9tZoD4bGF0FRbr6BUNYeJau7gfl071M8/Y0Fj/CQ==;CwvedVCcmLKHIjThz5nbSQ=="
 ---
 

@@ -25,22 +25,6 @@ topics:
   - Donald Trump
 
 related:
-  - title: "Democrats use Trump tweets, new video to argue \"full scope\" of Capitol attack at impeachment trial"
-    excerpt: "House Democrats leading the prosecution of former President Trump wrapped up the second day of his impeachment trial on Wednesday by calling into question what Mr. Trump was doing while the Capitol was under attack on January 6."
-    publishedDateTime: 2021-02-11T12:12:00Z
-    webUrl: "https://www.cbsnews.com/live-updates/trump-impeachment-trial-video-capitol-attack/"
-    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/trump-impeachment-trial-video-capitol-attack/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/trump-impeachment-trial-video-capitol-attack/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 111
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/10/06393edd-f804-4a64-aa67-f5d55b0b10c2/thumbnail/1200x630/a11b24a137e8555dacc8b56a9297bbd6/screen-shot-2021-02-10-at-3-48-51-pm.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Live updates: Senate must convict Trump to ensure no future president incites insurrection, Democrats say"
     excerpt: "Day 3 of former President Donald Trump's second impeachment trial has begun. The Democratic impeachment managers will use up to eight hours to wrap up their case against the ex-pr"
     publishedDateTime: 2021-02-11T18:45:00Z
@@ -57,19 +41,33 @@ related:
         width: 1582
         height: 1024
         isCached: true
-  - title: "'I don't want to come back:' As Trump trial opens, Democrat recalls daughter's fear during riot"
-    excerpt: "U.S. House lead impeachment manager Rep. Jamie Raskin (D-MD) becomes emotional as he discusses his and his family's experiences inside the U.S. Capitol building during the siege on Jan. 6 and his daug"
-    publishedDateTime: 2021-02-11T00:25:00Z
-    webUrl: "https://www.reuters.com/news/picture/i-dont-want-to-come-back-as-trump-trial-idUSKBN2A92YV"
+  - title: "U.S. Treasury says more time needed to decide on Trump tax returns - Bloomberg News"
+    excerpt: "The U.S. Treasury said it needs more time to decide whether to fight House Democrats in their effort to get former President Donald Trump's personal and business tax returns, Bloomberg News reported on Wednesday."
+    publishedDateTime: 2021-02-04T09:53:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-taxes/u-s-treasury-says-more-time-needed-to-decide-on-trump-tax-returns-bloomberg-news-idUSKBN2A40H8"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 93
+    quality: 99
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210210&t=2&i=1551085705&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEH181S5"
-        width: 810
-        height: 455
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210204&t=2&i=1550269013&r=LYNXMPEH130A3&w=800"
+        width: 800
+        height: 547
+        isCached: true
+  - title: "Sen. Tim Kaine says his censure proposal for former president Trump is still a ‘live option’"
+    excerpt: "Sen. Tim Kaine says he’s worried that former president Donald Trump will be acquitted again, but he explained the censure he proposed is still a “live option.” “There has to be accountability for the actions of Jan."
+    publishedDateTime: 2021-02-09T00:16:00Z
+    webUrl: "https://www.washingtonpost.com/video/washington-post-live/wplive/sen-tim-kaine-says-his-censure-proposal-for-former-president-trump-is-still-a-live-option/2021/02/08/19b6ce3f-10ad-45da-af18-6ef6b5746211_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 94
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/02-08-2021/t_74ebace138074479a8f8a981b0ec7849_name_Screen_Shot_2021_02_08_at_4_27_58_PM.png&w=1080"
+        width: 1080
+        height: 719
         isCached: true
 
 secured: "hVjFBI9mYum9gK7qY1Sx755F5kVqXq/fq78VIY23VX1yg/Fa5Y658ZrofGxYqFEZIXEEXmfxizsRQuMAP6WbRGWzRoiylTCgT4Wk6YfWZq64JxlFT2yALvJoBXe/r+oahaUT494aFbwrqGfxyCdUbaUfjDwFZ4sg0DePEqxSDhMjBBLrCytvVNGFTqmGjGo0Vavv4T0Tr7ttjLWASE6iEsCQ6A0HlI38WtbWlFMzVONGW+xvtyJyLbG2ZEaGpGAV5xOGDSCpNnq7ECoLm0cpWSrkSBSxhoANOSrOUHC9KjU5HrmPt/of7xSAwNggfkBRIYnyKNbL37aSTxzhmXYApvt8XjtMISsZkBxK43aEgO6ir4tJQX4+l/36TFsNnxTjE0QMC0AKPCvastyJoLmLjwRDbiGGBKLH5Dml4iHLUSp28e20BzF8Sme6xWXsQhn9fz58EnQJSxKAmjsRfpUoUM8orwiSg9koiBLlZjv8la6SRtAy4PpE7nbtKGd4mzblkCa104PZY++kT/iEDbJQ7w==;AMHr09S4xRS15XQwD7WqlA=="

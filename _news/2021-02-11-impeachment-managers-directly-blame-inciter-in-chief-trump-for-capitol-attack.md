@@ -62,6 +62,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's impeachment defense team argues his words before riot were 'ordinary political rhetoric'"
+    excerpt: "Lawyers for former President Donald Trump’s kicked off their defense Friday with a forceful rebuke of the case made by Democratic House impeachment managers, calling it an act of \"political vengeance\" and alleging that Trump's speech preceding the Capitol riot was merely \"ordinary political rhetoric."
+    publishedDateTime: 2021-02-12T18:50:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-defense-present-case-senate-impeachment-trial-n1257601"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1257601"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1257601"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 122
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2021_06/3449634/210212-donald-trump-mn-0730_1766caa6ab5712ca048af6133531a753.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "‘If this happened in the Soviet Union, you would call it a show trial,’ Cassidy of Trump impeachment trial"
     excerpt: "Sen. Bill Cassidy (R-La.) tells Chuck Todd that the House did an incredibly 'poor job' in building a case against President Trump during his second impeachment trial, during an exclusive interview with Meet the Press."
     publishedDateTime: 2021-02-07T14:57:00Z

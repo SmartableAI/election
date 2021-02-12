@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Impeachment trial shows him under attack — but Pence remains loyal to Trump"
+    excerpt: "After four years of obedience as vice president, Pence has no plans to condemn Trump — despite chilling new evidence suggesting the former president knew his No. 2 was in danger when he disparaged him."
+    publishedDateTime: 2021-02-12T18:14:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-pence-loyal-attack/2021/02/12/7d6ace84-6c84-11eb-9f80-3d7646ce1bc0_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-pence-loyal-attack/2021/02/12/7d6ace84-6c84-11eb-9f80-3d7646ce1bc0_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-pence-loyal-attack/2021/02/12/7d6ace84-6c84-11eb-9f80-3d7646ce1bc0_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 148
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KYHH2RS3JEI6XKCJN6KCHJ277U.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Biden says Trump should not receive intelligence briefings"
     excerpt: "The president said his predecessor’s ‘erratic behavior’ — and the risk that he might reveal key information — means he should have no further access to sensitive intelligence."
     publishedDateTime: 2021-02-06T18:51:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-sidesteps-trump-impeachment-t
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-sidesteps-trump-impeachment-trial-questions.amp"
 type: article
 quality: 185
-heat: 2265
+heat: 2285
 published: true
 
 provider:
@@ -1576,6 +1576,22 @@ related:
     quality: 124
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7f69f637-0c95-40e7-bc37-57c7e1df7af2/b983ea9c-8f51-4de1-b6c0-9bcf06eb3a0e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "LIVE UPDATES: Trump lawyers make arguments at impeachment trial, expected to allege Dem hypocrisy"
+    excerpt: "The impeachment trial of former President Donald Trump in the Senate resumed on Friday with Trump's lawyers expected to argue that Democrats are hypocritical for saying that Trump incited the Capitol mob by telling his followers they have to \"fight\" against a \"stolen election."
+    publishedDateTime: 2021-02-12T17:47:00Z
+    webUrl: "https://www.foxnews.com/politics/live-updates-impeachment-trump-2-12-21"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-impeachment-trump-2-12-21.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-impeachment-trump-2-12-21.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 122
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1a891bdd-1bd9-489d-ad5e-0c172a1b45f7/af518998-d3eb-4ed0-84a1-32e41c857d0b/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
