@@ -31,20 +31,50 @@ images:
     isCached: true
 
 related:
-  - title: "Capitol rioter's attorney says client was misled by Trump, acted out of 'delusional belief'"
-    excerpt: "A Capitol rioter was acting out of the \"delusional belief\" that he was helping his country after being misled by former President Trump, the rioter's attorney argued in a motion filed Wednesday."
-    publishedDateTime: 2021-02-11T01:53:14Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0qD891AaSMI/pezzola-delusional-trump-misled-capitol-rioter"
-    ampWebUrl: "https://www.foxnews.com/politics/pezzola-delusional-trump-misled-capitol-rioter.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pezzola-delusional-trump-misled-capitol-rioter.amp"
+  - title: "Biden argues new videos in Trump trial help Democrats' case: ‘My guess is some minds may be changed’"
+    excerpt: "President Biden on Thursday said “some minds may be changed” in the Senate after House impeachment managers presented a graphic video of the mob attack on the Capitol last month during the impeachment trial for former President Trump."
+    publishedDateTime: 2021-02-11T17:13:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YFKRAHHwDYQ/biden-argues-new-videos-in-trump-trial-help-democrats-case-my-guess-is-some-minds-may-be-changed"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-argues-new-videos-in-trump-trial-help-democrats-case-my-guess-is-some-minds-may-be-changed.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-argues-new-videos-in-trump-trial-help-democrats-case-my-guess-is-some-minds-may-be-changed.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 165
+    quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4e468e48-daf4-48c9-b172-5e8ae98b3f4a/e9d7c456-73c0-43ba-9de5-5359a023293c/1280x720/match/image.jpg"
-        width: 1280
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Democrats dub Trump the 'inciter-in-chief' for provoking mob, refusing to stop Jan. 6 attack"
+    excerpt: "Democratic impeachment managers made the case Wednesday that the Jan. 6 attack on the Capitol was no accident but rather a \"premeditated\" and \"foreseeable\" outcome"
+    publishedDateTime: 2021-02-10T19:35:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fjUB8NnQ-Z0/democrats-dub-trump-the-inciter-in-chief-for-provoking-mob-refusing-to-stop-jan-6-attack"
+    ampWebUrl: "https://www.foxnews.com/politics/democrats-dub-trump-the-inciter-in-chief-for-provoking-mob-refusing-to-stop-jan-6-attack.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-dub-trump-the-inciter-in-chief-for-provoking-mob-refusing-to-stop-jan-6-attack.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Jamie-Raskin-Trump-Impeachment-Trial-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Sen. Rand Paul: House managers 'never made their case' that Trump incited Capitol violence"
+    excerpt: "The House Democratic impeachment managers failed to prove that former President Donald Trump incited the deadly riot at the Capitol Jan. 6, Sen. Rand Paul, R-Ky., told \"Your World\" Thursday."
+    publishedDateTime: 2021-02-11T23:11:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2IuF_91bL7M/rand-paul-house-managers-never-made-case-trump-incited-riot"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 145
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dabb19a9-f307-4590-b17b-a9eebe82993d/0fe292e2-0b7f-4cd7-b3df-53033acd5093/1280x720/match/image.jpg"
+        width: 1278
         height: 720
         isCached: true
   - title: "Democrats Argue Trump ‘Inflamed and Incited’ Capitol Riot"
@@ -60,6 +90,20 @@ related:
     quality: 135
     images:
       - url: "https://images.wsj.net/im-297712/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Democrats: Trump ‘Inflamed and Incited’ Capitol Riot"
+    excerpt: "Live analysis of the second impeachment trial of former President Donald Trump."
+    publishedDateTime: 2021-02-12T02:25:00Z
+    webUrl: "https://www.wsj.com/livecoverage/trump-second-impeachment-trial-2021-02-10"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 115
+    images:
+      - url: "https://images.wsj.net/im-297919/social"
         width: 1280
         height: 640
         isCached: true

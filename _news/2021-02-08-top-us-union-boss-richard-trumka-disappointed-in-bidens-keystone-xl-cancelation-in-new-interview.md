@@ -31,99 +31,99 @@ images:
     isCached: true
 
 related:
-  - title: "Trump WH sign-language interpreter says Biden administration 'canceled and humiliated' her"
-    excerpt: "The White House sign-language interpreter who was outed as a supporter of former President Donald Trump said Sunday that she hasn’t been offered a return engagement since — and blasted critics who attacked her credibility and professionalism."
-    publishedDateTime: 2021-02-08T13:28:34Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kXDCCGBwpNw/trump-wh-sign-language-interpreter-says-biden-administration-canceled-and-humiliated-her"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-wh-sign-language-interpreter-says-biden-administration-canceled-and-humiliated-her.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-wh-sign-language-interpreter-says-biden-administration-canceled-and-humiliated-her.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 180
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Heather-Mewshaw.png?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Biden expected to announce dramatic increase in refugee admissions"
-    excerpt: "President Biden on Thursday is expected to announce a dramatic increase in the number of admissions of refugees into the U.S. -- the latest significant shift in immigration policy in his administration."
-    publishedDateTime: 2021-02-04T19:54:40Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3rRgaEGeAT4/biden-dramatic-increase-in-refugee-admissions"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-dramatic-increase-in-refugee-admissions.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-dramatic-increase-in-refugee-admissions.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ccc80402-1f0f-4951-b077-6701a86ada5f/7714e77c-0770-463b-aa9a-092286513796/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "China cool to Biden administration attempt to negotiate nuclear deal"
-    excerpt: "China pushed back Friday on calls from the Biden administration to address growing concerns about Beijing's nuclear stockpile, calling Washington's worries \"groundless\" and a \"vilification.\""
-    publishedDateTime: 2021-02-06T02:42:43Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2FZOK47PeSs/biden-admin-takes-on-nuclear-treaties-with-russia-and-iran-but-china-rejects-nonproliferation-talks"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-takes-on-nuclear-treaties-with-russia-and-iran-but-china-rejects-nonproliferation-talks.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-takes-on-nuclear-treaties-with-russia-and-iran-but-china-rejects-nonproliferation-talks.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1986078c-522a-4d6a-a58f-7367474d50e4/938bb221-54a9-452a-8293-c156892223fb/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "US attorney handling Hunter Biden probe asked to stay on, official says"
-    excerpt: "The Biden administration will ask U.S. attorneys appointed by President Trump to resign from their posts, but the prosecutor overseeing the tax probe tied to Hunter Biden, the president’s son, will remain in place, a senior Justice Department official told Fox News late Monday."
-    publishedDateTime: 2021-02-09T06:03:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/b-G_DErjFvA/us-attorney-handling-hunter-biden-probe-asked-to-stay-on-official-says"
-    ampWebUrl: "https://www.foxnews.com/politics/us-attorney-handling-hunter-biden-probe-asked-to-stay-on-official-says.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/us-attorney-handling-hunter-biden-probe-asked-to-stay-on-official-says.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "House urged to limit presidential pardon power after Trump aided associates"
-    excerpt: "Democratic members of Congress pushing to limit the presidential pardon power called experts to give historical and legal perspectives on such action, with one historian suggesting that \"we must make it more difficult to use or dangle a pardon to cover up a crime by the president or his friends\" on Tuesday."
-    publishedDateTime: 2021-02-09T18:44:50Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/N9qKIGLC1tY/congress-presidential-pardon-power-trump-steve-cohen"
-    ampWebUrl: "https://www.foxnews.com/politics/congress-presidential-pardon-power-trump-steve-cohen.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/congress-presidential-pardon-power-trump-steve-cohen.amp"
+  - title: "Biden's Keystone XL pipeline cancellation is gut punch to small businesses"
+    excerpt: "While opponents of the long-controversial Keystone XL Pipeline cheered its cancellation by President Biden's administration, others like Nebraska truck driver Chris Olsen shook their heads in dismay."
+    publishedDateTime: 2021-02-02T16:20:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MbFtZ-Zdamw/biden-keystone-xl-pipeline-cancellation-gut-punch-small-businesses"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-keystone-xl-pipeline-cancellation-gut-punch-small-businesses.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-keystone-xl-pipeline-cancellation-gut-punch-small-businesses.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 173
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21020179680305.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Biden-keystone-XL.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Biden administration to remove terrorist designation for Yemen's Houthi militia"
-    excerpt: "The Biden administration said Friday that it is removing the terrorist designation for the Iranian-backed Houthi militia in Yemen -- reversing a move made in the final days of the Trump administration and the latest sign of a different approach to the war-torn Middle East. "
-    publishedDateTime: 2021-02-06T13:54:28Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nsEdB_rfTP0/biden-terrorist-designation-yemens-houthi-militia"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-terrorist-designation-yemens-houthi-militia.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-terrorist-designation-yemens-houthi-militia.amp"
+  - title: "'Era of small government is over': Leading progressive grants Biden her blessing"
+    excerpt: "Progressive columnist Katrina vanden Heuvel gave President Biden her stamp of approval Tuesday, boldly declaring that in the new administration “the era of small government is over.” "
+    publishedDateTime: 2021-02-03T00:35:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/O0k_8pUO7us/era-small-government-over-progressive-columnist-approves-of-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/era-small-government-over-progressive-columnist-approves-of-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/era-small-government-over-progressive-columnist-approves-of-biden.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 171
+    quality: 170
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/34182903-dc3d-4977-b3ee-815a0114acca/c8832b93-d928-475e-897c-c0dc379f2922/1280x720/match/image.jpg"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/Joe-Biden-Oval-office.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Biden ending Keystone pipeline project was 'totally political': Laid-off pipeline worker"
+    excerpt: "The Biden administration's cancelation of the Keystone XL Pipeline project was \"totally political,\" a laid-off worker said on Tuesday, expressing dismay after being unemployed due to the executive order. "
+    publishedDateTime: 2021-01-26T21:15:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-fhz5WOxVpc/biden-ending-keystone-pipeline-project-political-worker"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-ending-keystone-pipeline-project-political-worker.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-ending-keystone-pipeline-project-political-worker.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Pipeline worker slams Biden for canceling Keystone XL Pipeline: 'Like a kick in the stomach'"
+    excerpt: "A pipeline worker who has worked in the industry for 53 years is speaking out against President Joe Biden’s cancellation of the Keystone XL Pipeline."
+    publishedDateTime: 2021-01-26T15:04:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/g8j6kv6VaPE/keystone-xl-pipeline-biden-cancelled-worker-friends"
+    ampWebUrl: "https://www.foxnews.com/politics/keystone-xl-pipeline-biden-cancelled-worker-friends.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/keystone-xl-pipeline-biden-cancelled-worker-friends.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ab2a8238-1059-4227-8f59-d0b561f7d73a/00c7185d-7bd0-484d-8d51-75eafa383206/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Live Updates: Biden says team on track to surpass 100 million vaccine doses in first 100 days"
+    excerpt: "Biden provided the update as he and Vice President Kamala Harris spoke to Arizona health care officials"
+    publishedDateTime: 2021-02-09T08:42:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8-W-8C32SZk/live-updates-biden-2-9-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-2-9-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-2-9-2021.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/86aadf47-31ea-4598-9cba-7cd27d2b6cde/abac50d9-7116-4733-80ee-f940bcb5916e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden's Keystone pipeline cancellation is pandering to 'radical environmentalists': Gov. Gianforte"
+    excerpt: "Montana Governor Greg Gianforte said the Biden administration is pandering to \"radical environmentalists\" with his decision to shut down construction of the Keystone XL Pipeline and encouraged him to reverse his decision."
+    publishedDateTime: 2021-01-29T15:36:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-6T1YqWy3us/biden-keystone-cancellation-radical-environmentalists-gianforte"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-keystone-cancellation-radical-environmentalists-gianforte.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-keystone-cancellation-radical-environmentalists-gianforte.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a1a7335b-9feb-4671-a212-28a3255ee5c5/027d949f-451f-47c3-9aee-7a21041f5b3b/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

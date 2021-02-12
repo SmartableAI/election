@@ -95,6 +95,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Top US union boss Richard Trumka disappointed in Biden's Keystone XL cancelation in new interview"
+    excerpt: "The leader on one of the most prominent U.S. labor unions said he wished President Biden hadn’t derailed the Keystone XL pipeline project on his first day in office in a new interview."
+    publishedDateTime: 2021-02-08T02:38:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5m4dbjFcDI4/richard-trumka-biden-keystone-xl-pipeline"
+    ampWebUrl: "https://www.foxnews.com/politics/richard-trumka-biden-keystone-xl-pipeline.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/richard-trumka-biden-keystone-xl-pipeline.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/GettyImages-1199939087.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden's Keystone pipeline cancellation is pandering to 'radical environmentalists': Gov. Gianforte"
     excerpt: "Montana Governor Greg Gianforte said the Biden administration is pandering to \"radical environmentalists\" with his decision to shut down construction of the Keystone XL Pipeline and encouraged him to reverse his decision."
     publishedDateTime: 2021-01-29T15:36:30Z

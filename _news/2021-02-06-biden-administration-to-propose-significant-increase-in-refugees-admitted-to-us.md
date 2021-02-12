@@ -287,6 +287,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "With More Vaccines Secured, Biden Warns of Hurdles to Come"
+    excerpt: "The Biden administration has secured more coronavirus vaccines, but the president struck a cautious tone about logistical issues that could keep some Americans from being vaccinated."
+    publishedDateTime: 2021-02-12T14:14:00Z
+    webUrl: "https://www.nytimes.com/2021/02/11/us/politics/biden-coronavirus-vaccines.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/11/us/politics/biden-coronavirus-vaccines.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/11/us/politics/biden-coronavirus-vaccines.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/11/world/11virus-briefing-vaccine-doses/11virus-briefing-vaccine-doses-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "HUD to pursue gender identity-based discrimination complaints, reversing Trump policy"
     excerpt: "The policy marks a major shift from HUD’s position under President Donald Trump and his housing secretary, Ben Carson."
     publishedDateTime: 2021-02-11T12:34:00Z

@@ -2,6 +2,114 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-12-impeachment-trial-mob-believed-they-were-acting-on-trumps-orders.md",
+      "title": "Impeachment trial: mob 'believed they were acting on Trump's orders'",
+      "excerpt": "Congresswoman Diana DeGette says ‘They came because he told them to’ as House managers prepare to conclude their case on Thursday",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/feb/11/trump-impeachment-trial-democrats-senate",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/feb/11/trump-impeachment-trial-democrats-senate",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 325,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/935212d9ed8090a7be59ca81594a98629f54dbc6/351_27_2333_1555/master/2333.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c4c555706827b8899c50162cd6bd996c",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/feb/11/trump-impeachment-trial-democrats-senate",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/11/trump-impeachment-trial-democrats-senate",
+      "publishedDateTime": "2021-02-11T11:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-biden-administration-taking-strategic-approach-to-china-not-in-a-rush-psaki-says.md",
+      "title": "Biden administration taking 'strategic approach' to China, 'not in a rush,' Psaki says",
+      "excerpt": "President Biden is taking a “strategic approach” to China, White House Press Secretary Jen Psaki said Thursday, adding that the administration is “not in a rush.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TWtPy3NJ9Gc/biden-administration-taking-strategic-approach-china-psaki",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TWtPy3NJ9Gc/biden-administration-taking-strategic-approach-china-psaki",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 207,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-administration-taking-strategic-approach-china-psaki.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-taking-strategic-approach-china-psaki.amp",
+      "publishedDateTime": "2021-02-11T10:50:28-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-12-live-updates-senate-must-convict-trump-to-ensure-no-future-president-incites-insurrection-democrats-say.md",
       "title": "Live updates: Senate must convict Trump to ensure no future president incites insurrection, Democrats say",
       "excerpt": "Day 3 of former President Donald Trump's second impeachment trial has begun. The Democratic impeachment managers will use up to eight hours to wrap up their case against the ex-pr",
@@ -51,62 +159,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-hawley-rips-trump-impeachment-proceedings-as-kangaroo-trial.md",
-      "title": "Hawley rips Trump impeachment proceedings as ‘kangaroo trial’",
-      "excerpt": "Missouri Republican Sen. Josh Hawley tore into the Trump impeachment proceedings in the Senate as a “kangaroo trial” as Democrats continued their case against the former president on Thursday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wyqzk5OkaAY/hawley-rips-trump-impeachment-proceedings-as-kangaroo-trial",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wyqzk5OkaAY/hawley-rips-trump-impeachment-proceedings-as-kangaroo-trial",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 395,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6543d8c3-c5b2-44bb-a344-bb13ad713683/d535c75a-02b5-4857-8437-8ba6267791ee/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/hawley-rips-trump-impeachment-proceedings-as-kangaroo-trial.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hawley-rips-trump-impeachment-proceedings-as-kangaroo-trial.amp",
-      "publishedDateTime": "2021-02-11T10:03:40-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     },
     {
@@ -162,6 +214,62 @@
       ]
     },
     {
+      "path": "_news/2021-02-11-biden-argues-new-videos-in-trump-trial-help-democrats-case-my-guess-is-some-minds-may-be-changed.md",
+      "title": "Biden argues new videos in Trump trial help Democrats' case: ‘My guess is some minds may be changed’",
+      "excerpt": "President Biden on Thursday said “some minds may be changed” in the Senate after House impeachment managers presented a graphic video of the mob attack on the Capitol last month during the impeachment trial for former President Trump.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YFKRAHHwDYQ/biden-argues-new-videos-in-trump-trial-help-democrats-case-my-guess-is-some-minds-may-be-changed",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YFKRAHHwDYQ/biden-argues-new-videos-in-trump-trial-help-democrats-case-my-guess-is-some-minds-may-be-changed",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 275,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-argues-new-videos-in-trump-trial-help-democrats-case-my-guess-is-some-minds-may-be-changed.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-argues-new-videos-in-trump-trial-help-democrats-case-my-guess-is-some-minds-may-be-changed.amp",
+      "publishedDateTime": "2021-02-11T09:13:19-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-11-what-is-incitement-and-what-does-it-mean-for-trumps-impeachment-defense.md",
       "title": "What is 'incitement' -- and what does it mean for Trump's impeachment defense?",
       "excerpt": "The allegation of \"incitement\" is central to the impeachment case House Democrats are making against former President Donald Trump because it ties his words and actions to the January 6 insurrection on Capitol Hill.\n    \n",
@@ -174,7 +282,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 251,
+      "heat": 271,
       "tags": null,
       "images": [
         {
@@ -712,62 +820,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-11-hillary-clinton-if-trump-is-acquitted-its-because-the-jury-includes-his-co-conspirators.md",
-      "title": "Hillary Clinton: If Trump is acquitted, it's 'because the jury includes his co-conspirators'",
-      "excerpt": "Hillary Clinton weighed in on former President Donald Trump's second impeachment trial this week, suggesting in a tweet that if the Senate ultimately votes to acquit him, it will only be because \"the jury includes his co-conspirators.\" ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9OkMP8yOkr8/hillary-clinton-if-senate-acquits-trump-its-because-jury-includes-his-co-conspirators",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9OkMP8yOkr8/hillary-clinton-if-senate-acquits-trump-its-because-jury-includes-his-co-conspirators",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/508b0a2c-ad2f-43ee-8c4d-ee5e92072be4/c090b894-fa1a-458f-ab09-2c770f54a94a/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/hillary-clinton-if-senate-acquits-trump-its-because-jury-includes-his-co-conspirators.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hillary-clinton-if-senate-acquits-trump-its-because-jury-includes-his-co-conspirators.amp",
-      "publishedDateTime": "2021-02-11T06:04:58-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-02-11-biden-may-pick-economist-lisa-cook-to-fill-an-open-fed-seat-she-would-be-the-first-black-woman-to-serve-on-the-board-report.md",
       "title": "Biden may pick economist Lisa Cook to fill an open Fed seat. She would be the first Black woman to serve on the board: report",
       "excerpt": "Currently a professor of economics, Cook previously served as an economic adviser under Obama and was a member of Biden's transition team.",
@@ -1214,7 +1266,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 205,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -1307,62 +1359,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-biden-admin-erects-tent-city-in-texas-to-handle-influx-of-illegal-immigrants.md",
-      "title": "Biden admin erects tent city in Texas to handle influx of illegal immigrants",
-      "excerpt": "The Biden administration announced this week that it opened a soft-sided facility for immigrants in Donna, Texas, as Republican lawmakers warn of a “rising crisis” at the U.S.-Mexico border.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KDVywhq6xKM/biden-admin-tent-city-texas-illegal-immigrants",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KDVywhq6xKM/biden-admin-tent-city-texas-illegal-immigrants",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 212,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/52334b32-16cb-4d2a-b31d-a7d4fdb3a6b1/68c321f8-4a31-4940-9404-549a71453d54/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-admin-tent-city-texas-illegal-immigrants.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-tent-city-texas-illegal-immigrants.amp",
-      "publishedDateTime": "2021-02-10T15:48:18-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

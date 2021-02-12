@@ -31,37 +31,101 @@ images:
     isCached: true
 
 related:
-  - title: "Trump WH sign-language interpreter says Biden administration 'canceled and humiliated' her"
-    excerpt: "The White House sign-language interpreter who was outed as a supporter of former President Donald Trump said Sunday that she hasn’t been offered a return engagement since — and blasted critics who attacked her credibility and professionalism."
-    publishedDateTime: 2021-02-08T13:28:34Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kXDCCGBwpNw/trump-wh-sign-language-interpreter-says-biden-administration-canceled-and-humiliated-her"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-wh-sign-language-interpreter-says-biden-administration-canceled-and-humiliated-her.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-wh-sign-language-interpreter-says-biden-administration-canceled-and-humiliated-her.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 180
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Heather-Mewshaw.png?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "China cool to Biden administration attempt to negotiate nuclear deal"
-    excerpt: "China pushed back Friday on calls from the Biden administration to address growing concerns about Beijing's nuclear stockpile, calling Washington's worries \"groundless\" and a \"vilification.\""
-    publishedDateTime: 2021-02-06T02:42:43Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2FZOK47PeSs/biden-admin-takes-on-nuclear-treaties-with-russia-and-iran-but-china-rejects-nonproliferation-talks"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-takes-on-nuclear-treaties-with-russia-and-iran-but-china-rejects-nonproliferation-talks.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-takes-on-nuclear-treaties-with-russia-and-iran-but-china-rejects-nonproliferation-talks.amp"
+  - title: "Biden administration cites climate change as a 'racial justice issue'"
+    excerpt: "Climate Adviser Gina McCarthy explained that challenges are exacerbated in communities that haven't been invested in."
+    publishedDateTime: 2021-02-01T21:57:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YQjA3MJAeuI/biden-admin-calls-climate-change-is-a-racial-justice-issue"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-calls-climate-change-is-a-racial-justice-issue.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-calls-climate-change-is-a-racial-justice-issue.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1986078c-522a-4d6a-a58f-7367474d50e4/938bb221-54a9-452a-8293-c156892223fb/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2948c6c3-ebed-4fa1-b506-498478699919/13ae4fb4-3aad-4947-bbe5-bd6a698c6e05/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden approval under 50% in new national poll"
+    excerpt: "Biden approval under 50% in new national poll"
+    publishedDateTime: 2021-02-03T21:15:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/C0gV_9EchTo/biden-approval-under-50-in-new-national-poll"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-approval-under-50-in-new-national-poll.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-approval-under-50-in-new-national-poll.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Dem progressives renew anti-ICE push, despite Biden immigration order"
+    excerpt: "Progressive Democrats are renewing their calls to abolish Immigration and Customs Enforcement (ICE) after an illegal immigrant was deported this week -- days after the Biden administration moved to place a moratorium on deportations."
+    publishedDateTime: 2021-02-03T22:41:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3Xzf8ktZhtg/dem-progressives-renew-anti-ice-push-despite-biden-immigration-order"
+    ampWebUrl: "https://www.foxnews.com/politics/dem-progressives-renew-anti-ice-push-despite-biden-immigration-order.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dem-progressives-renew-anti-ice-push-despite-biden-immigration-order.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3e8d82c2-273b-4c5c-a9ad-ccd91dbd9bae/62e14652-1b7c-40c3-b0ea-aac58cd458bd/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden administration must continue defending Taiwan: Rubio"
+    excerpt: "The U.S. Navy’s Seventh Fleet said in a statement this is the first time a U.S. warship has sailed through the strait between mainland China and Taiwan during the Biden administration."
+    publishedDateTime: 2021-02-04T16:19:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_iAE3n624OM/bidens-foreign-policy-taiwan-sen-rubio"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-foreign-policy-taiwan-sen-rubio.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-foreign-policy-taiwan-sen-rubio.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/FOX-headshot-2-1.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden administration vows to free Americans being held hostage abroad"
+    excerpt: "Secretary of State Antony Blinken held a call with the families of Americans held hostage or unlawfully detained overseas."
+    publishedDateTime: 2021-02-04T22:03:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/F6QAxxHs-WA/biden-administration-americans-hostage-abroad-james-foley-paul-whelan"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-americans-hostage-abroad-james-foley-paul-whelan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-americans-hostage-abroad-james-foley-paul-whelan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/James-Foley-Congress.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Biden prepares rules to limit ICE arrests, deportations"
+    excerpt: "U.S. immigration authorities will revise their approach to arrests and deportations under President Biden, according to Homeland Security officials."
+    publishedDateTime: 2021-02-07T22:43:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_kDSfQI7amQ/biden-limit-ice-deportations"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-limit-ice-deportations.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-limit-ice-deportations.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21037480732952-e1612735051617.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "US attorney handling Hunter Biden probe asked to stay on, official says"
     excerpt: "The Biden administration will ask U.S. attorneys appointed by President Trump to resign from their posts, but the prosecutor overseeing the tax probe tied to Hunter Biden, the president’s son, will remain in place, a senior Justice Department official told Fox News late Monday."
@@ -79,21 +143,53 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "House urged to limit presidential pardon power after Trump aided associates"
-    excerpt: "Democratic members of Congress pushing to limit the presidential pardon power called experts to give historical and legal perspectives on such action, with one historian suggesting that \"we must make it more difficult to use or dangle a pardon to cover up a crime by the president or his friends\" on Tuesday."
-    publishedDateTime: 2021-02-09T18:44:50Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/N9qKIGLC1tY/congress-presidential-pardon-power-trump-steve-cohen"
-    ampWebUrl: "https://www.foxnews.com/politics/congress-presidential-pardon-power-trump-steve-cohen.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/congress-presidential-pardon-power-trump-steve-cohen.amp"
+  - title: "Biden administration to open overflow shelter for migrant children in Texas"
+    excerpt: "The Biden administration said it plans on reactivating a “temporary Influx Care Facility” in Carrizo Springs, Texas, to potentially accommodate up to 700 migrant children within the next two weeks."
+    publishedDateTime: 2021-02-03T07:57:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HyZHvwUH0sA/biden-administration-to-open-overflow-shelter-for-migrant-children-in-texas"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-to-open-overflow-shelter-for-migrant-children-in-texas.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-to-open-overflow-shelter-for-migrant-children-in-texas.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 173
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21020179680305.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden administration reopening Texas holding facility for migrant children"
+    excerpt: "The Biden administration plans to reopen a holding center for migrant children detained at the country’s Southwest border, the administration confirmed in a statement to Fox News on Wednesday."
+    publishedDateTime: 2021-02-04T03:15:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pbY3nd4Zi2k/biden-administration-texas-holding-facility-migrant-children"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-texas-holding-facility-migrant-children.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-texas-holding-facility-migrant-children.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1f8d6f71-27fa-4c95-b98e-3089e93344d2/9a7c8817-02ec-4867-8b87-cd65b441d9e6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden administration considering Rahm Emanuel for ambassador role, report says"
+    excerpt: "Former Chicago mayor and ex-Obama chief of staff Rahm Emanuel might still end up in the Biden administration."
+    publishedDateTime: 2021-02-02T15:59:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MddK2eJxG8U/biden-rahm-emanuel-administration-role"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-rahm-emanuel-administration-role.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-rahm-emanuel-administration-role.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Biden administration to remove terrorist designation for Yemen's Houthi militia"
     excerpt: "The Biden administration said Friday that it is removing the terrorist designation for the Iranian-backed Houthi militia in Yemen -- reversing a move made in the final days of the Trump administration and the latest sign of a different approach to the war-torn Middle East. "
@@ -111,21 +207,69 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Top US union boss Richard Trumka disappointed in Biden's Keystone XL cancelation in new interview"
-    excerpt: "The leader on one of the most prominent U.S. labor unions said he wished President Biden hadn’t derailed the Keystone XL pipeline project on his first day in office in a new interview."
-    publishedDateTime: 2021-02-08T02:38:34Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5m4dbjFcDI4/richard-trumka-biden-keystone-xl-pipeline"
-    ampWebUrl: "https://www.foxnews.com/politics/richard-trumka-biden-keystone-xl-pipeline.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/richard-trumka-biden-keystone-xl-pipeline.amp"
+  - title: "Biden administration pushes forward with two state solution with Israel, Palestine"
+    excerpt: "President Biden has taken steps to reverse Trump-era policies in the Middle East by throwing the administration’s support behind finding a two-state solution between Israel and Palestine."
+    publishedDateTime: 2021-01-27T02:21:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KsGRxJuh_TA/biden-administration-pushes-forward-with-two-state-solution-with-israel-palestine"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-pushes-forward-with-two-state-solution-with-israel-palestine.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-pushes-forward-with-two-state-solution-with-israel-palestine.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 162
+    quality: 169
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/GettyImages-1199939087.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7d36f0ae-d23f-4400-8487-102bbb4800d0/2116710c-66fd-4195-a712-62b5ec4a67fc/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biggs introduces bill to bar Biden administration from mandating COVID-19 testing for domestic travel"
+    excerpt: "Rep. Andy Biggs on Monday introduced legislation to bar the Biden administration from introducing a mandate that passengers on domestic flights have a negative COVID-19 test before flying -- warning it would devastate the airline industry."
+    publishedDateTime: 2021-02-08T19:00:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cSfdsTXS7qM/biggs-biden-administration-covid-19-testing-domestic-travel"
+    ampWebUrl: "https://www.foxnews.com/politics/biggs-biden-administration-covid-19-testing-domestic-travel.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biggs-biden-administration-covid-19-testing-domestic-travel.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/06033aca-08b3-48f8-b198-95163a765304/d8e75191-a19d-41d7-b41c-27e56d336a1b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "What about COVID? Biden aide says climate change ‘most significant public health challenge of our time’"
+    excerpt: "White House domestic climate adviser Gina McCarthy said Tuesday that climate change poses the “most significant public health challenge of our time.” "
+    publishedDateTime: 2021-01-27T21:27:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HR-_ThWekQ8/biden-official-climate-change-most-significant-public-health-challenge-of-our-time"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-official-climate-change-most-significant-public-health-challenge-of-our-time.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-official-climate-change-most-significant-public-health-challenge-of-our-time.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/315610d9-582f-4881-a5ac-41962b062276/a07fe9a0-d66c-4947-9b89-c7a2419e8962/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden Must Fire Psaki"
+    excerpt: "Progressives demand that conservatives practice tolerance -- at all times -- and if they dare to say or post anything on social media that strays"
+    publishedDateTime: 2021-02-05T12:15:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/02/05/biden_must_fire_psaki_145190.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/02/05/biden_must_fire_psaki_145190.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/02/05/biden_must_fire_psaki_145190.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/534354_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "hT0tKUWS4iaGHpRf/u2XDVCMYob5bCnbsnJzwSA0Q28co9HQ1yLXzeSNR8Enr+ZmQtuBa3Wd9CIkC9Ryj5yZcjt9iRI8x/CvpGFmWMq1DbTWU4aA5AwUkrAx3iHgtrSmp+omVaSQr/VBH8WDzGSZ8CYatv8u7g7S0482/7b27Uty2t28uGv3TQwsvnNeLCsC/vi+7nN+/gR0xFArKl2AU+bjEAp+mMmN/JOkJxJ0imQxyn5HjKTveU+r/C9DDAHH/IQoWroEQ5/jwtow/VUsr22m0uMS4WynCY9hAaNcZ+6bbqJX8PSM64ctJBViTRXOAkZ2NMtHGhOYVrZJdvWa+lO+jpQmMOFbpl2xDiG7wJI=;L7J88PI2GXnwX+AmUSno9A=="

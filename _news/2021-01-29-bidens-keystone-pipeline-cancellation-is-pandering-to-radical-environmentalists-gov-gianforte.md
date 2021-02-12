@@ -111,6 +111,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Top US union boss Richard Trumka disappointed in Biden's Keystone XL cancelation in new interview"
+    excerpt: "The leader on one of the most prominent U.S. labor unions said he wished President Biden hadn’t derailed the Keystone XL pipeline project on his first day in office in a new interview."
+    publishedDateTime: 2021-02-08T02:38:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5m4dbjFcDI4/richard-trumka-biden-keystone-xl-pipeline"
+    ampWebUrl: "https://www.foxnews.com/politics/richard-trumka-biden-keystone-xl-pipeline.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/richard-trumka-biden-keystone-xl-pipeline.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/GettyImages-1199939087.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "WEUGJoHSWVgDvyJnII9haKIdHOb35HRsL299iQN71rMRqfjlzETf+CTgNJbb+QvImVAV9dPInYAKddTbXWWRA/dLSMbdPAMisyOmRR8NCovUm+xfDKBcrNWuS0zRgNWSRborVHADqdXfsOfNrw6fHTzYkPBLbcM7Qo2H8UF0fSUSNTZm/Be5GzAqfeiuFLhBth3YjZ+QWE1vJ11BLe2yMyn32heTvCf+Eh9W6MX6TBRpPEILsr6V1LKAsuBmR7Bttb4lrrvzossEmNOJ1mA0cKqoJ0rsVnIt5OCm1oD+ompp44UrNGZI6Eow0j0KJuUE4N1XyRojR75oVOZuge/6Hf1tlOrrCsrPJV49m2AWkAo=;A/1Sbv6V/ZQoNDljeC1g1A=="
 ---

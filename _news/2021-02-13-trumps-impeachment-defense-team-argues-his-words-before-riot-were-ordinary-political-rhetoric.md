@@ -94,7 +94,21 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump impeachment defense team shows 9-plus minute compilation of Dems using word 'fight'"
+    excerpt: "House impeachment managers have pointed to Trump’s own words before the Jan. 6 insurrection, when he said supporters would lose the country if they didn't “fight like hell.”"
+    publishedDateTime: 2021-02-12T19:13:00Z
+    webUrl: "https://www.politico.com/news/2021/02/12/trump-impeachment-defense-democrats-fight-468852"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 106
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/5d641925-59d2-4f7b-80e3-518f4dcd0ea2/22afe3dc-ac3e-4ddf-8806-29bc33264432/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
-secured: "FW2gX7dYOOZQNr1V5nQiy/+GUOBQ9nNbGZZP88mzy69mAZyZsRKRd2eBhkV2JuOEnmpH5axRKPab2idZJl84y86Z3khOPoScr8r4yXMPTTxszJZyIetVNDEvtg3QNoPhClLaeYs0Kjhu5oFfKpLqsXuDnoAqTQ5E4hziRwh8Kz2fjQLr9BjB8FD4JJ8uSlVw8CMTT6Y1ktXcUOJ2ewCNZ0UQyna5luNnU3LXdyaCK4GoUBDDpuwAkM3eaS4q+jNQJU55XLmukmiNw+CrgOWjyoHeAsEdoJYA++rIn4oyC8k+PCfW74uyred1payKSJEP1TM712BlaYm42A/FRAFd4hM92fd4hMRDQsFHjasW5QQ=;xKPpO8SI3cLhDy8zKZJxKg=="
+secured: "T+MxnXKXHPrSEQBMz+04+fh6w2wTT/yGl7O59+CAP7+qvagyn5bKN7H/N42o3LS301vop3AFw9+S61XOgOzInEBx8M5ixWixJJzAON3C0QHHa6J7DOpIpjABkfHeH7nXtpYcsIdMV3bJGBuYACNmc9OiHWuQD8Gd9z0/oDETJoYb5TteonP2LnJcZrQlEdTMpcs6gbTv8xCmvdoPoxmm7pmZO2oZP4tzbSyNcokMKSorcXRk4FveYzsnYcA9gVvjOj9SgQ/10BR91C9cwSXb72+GNksvjnnmKbzOsXNcn17Hy8cuEbO7Lwo/15mis75BiRs7fzqBxRLRc2y6uLc6n4r412dFeNs62SNVPaHwZrfBHK/HCbHLZEyd+PJjXYJQaiBrgnI8RN5UonKL9Z6SY+VwRXo/h/9c1RfYfKXzvPZK9NZet46bumvnUe3W463JWw3KIwOf1dhu/UmlzYnnN8t7vRJlFFm+fjI1QD0drtw84lhowOBBI8u/szxB35okiSPnrHH+zwjBAxCRt1jt8Q==;wWcqnkH8UDyiPBNlHly5Rg=="
 ---
 

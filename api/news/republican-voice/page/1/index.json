@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-12-mike-pompeo-urges-biden-to-confront-china-head-on-like-trump-administration.md",
+      "title": "Mike Pompeo urges Biden to 'confront China head-on' like Trump administration",
+      "excerpt": "The Biden administration has to confront China \"head-on\" the same way the previous administration did, former Trump Administration Secretary of State Mike Pompeo said on Friday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/q5n0h6Twqds/mike-pompeo-biden-administration-confront-china-head-on",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/q5n0h6Twqds/mike-pompeo-biden-administration-confront-china-head-on",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 547,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mike-pompeo-biden-administration-confront-china-head-on.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-pompeo-biden-administration-confront-china-head-on.amp",
+      "publishedDateTime": "2021-02-12T11:19:02-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-12-biden-to-get-another-judicial-appointment-to-a-key-federal-appeals-court.md",
       "title": "Biden to get another judicial appointment to a key federal appeals court",
       "excerpt": "President Biden will get another opportunity to make a key judicial appointment on what is considered the second most important federal court.",
@@ -171,25 +227,25 @@
       ]
     },
     {
-      "path": "_news/2021-02-11-dem-impeachment-managers-target-trump-lawyers-first-amendment-argument-calling-it-a-distraction.md",
-      "title": "Dem impeachment managers target Trump lawyers’ First Amendment argument, calling it a ‘distraction’",
-      "excerpt": "Lead House impeachment manager Rep. Jamie Raskin, D-Md., said that former President Trump’s lawyers’ argument that Trump was within his First Amendment rights when he peddled election fraud claims is a “completely irrelevant distraction.” ",
+      "path": "_news/2021-02-12-raskin-trump-like-the-fire-chief-who-sends-the-mob.md",
+      "title": "Raskin: Trump 'Like the Fire Chief Who Sends the Mob'",
+      "excerpt": "Maryland Rep. Jamie Raskin, the lead impeachment manager, countered arguments made by Donald Trump's attorneys that the former president's words in the lead-up to the Jan. 6 assault on the Capitol qualify as protected speech.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/X-1zWuB7Wc8/dem-impeachment-managers-trump-lawyers-first-amendment",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/X-1zWuB7Wc8/dem-impeachment-managers-trump-lawyers-first-amendment",
+      "webUrl": "https://www.wsj.com/livecoverage/trump-second-impeachment-trial-2021-02-11/card/qrR4NJ5q0obo6LnUrbih",
+      "originalUrl": "https://www.wsj.com/livecoverage/trump-second-impeachment-trial-2021-02-11/card/qrR4NJ5q0obo6LnUrbih",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 221,
+      "heat": 115,
       "tags": null,
       "images": [
         {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/91491525-0758-4d76-835a-c083f18134c2/a25638d4-7eb7-4b4b-a3f0-92bf7307c604/1280x720/match/image.jpg",
+          "url": "https://images.wsj.net/im-298259?size=1.5",
           "width": 1280,
-          "height": 720,
+          "height": 853,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -197,16 +253,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/dem-impeachment-managers-trump-lawyers-first-amendment.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dem-impeachment-managers-trump-lawyers-first-amendment.amp",
-      "publishedDateTime": "2021-02-11T14:16:27-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-11T18:04:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -223,6 +279,7 @@
       ],
       "topics": [
         "Election",
+        "Donald Trump",
         "Republican Voice"
       ]
     },
@@ -283,62 +340,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-11-new-york-legislators-advance-bill-to-rename-donald-j-trump-state-park.md",
-      "title": "New York legislators advance bill to rename Donald J. Trump State Park",
-      "excerpt": "The Empire State's tourism committee voted 14-7 to move forward with the legislation.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jKRfSabAKZw/ny-lawmakers-advance-bill-to-rename-donald-j-trump-state-park",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jKRfSabAKZw/ny-lawmakers-advance-bill-to-rename-donald-j-trump-state-park",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21025799392431.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ny-lawmakers-advance-bill-to-rename-donald-j-trump-state-park.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ny-lawmakers-advance-bill-to-rename-donald-j-trump-state-park.amp",
-      "publishedDateTime": "2021-02-11T11:35:13-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-02-11-biden-administration-taking-strategic-approach-to-china-not-in-a-rush-psaki-says.md",
       "title": "Biden administration taking 'strategic approach' to China, 'not in a rush,' Psaki says",
       "excerpt": "President Biden is taking a “strategic approach” to China, White House Press Secretary Jen Psaki said Thursday, adding that the administration is “not in a rush.”",
@@ -351,7 +352,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 187,
+      "heat": 207,
       "tags": null,
       "images": [
         {
@@ -395,25 +396,25 @@
       ]
     },
     {
-      "path": "_news/2021-02-11-hawley-rips-trump-impeachment-proceedings-as-kangaroo-trial.md",
-      "title": "Hawley rips Trump impeachment proceedings as ‘kangaroo trial’",
-      "excerpt": "Missouri Republican Sen. Josh Hawley tore into the Trump impeachment proceedings in the Senate as a “kangaroo trial” as Democrats continued their case against the former president on Thursday.",
+      "path": "_news/2021-02-11-biden-argues-new-videos-in-trump-trial-help-democrats-case-my-guess-is-some-minds-may-be-changed.md",
+      "title": "Biden argues new videos in Trump trial help Democrats' case: ‘My guess is some minds may be changed’",
+      "excerpt": "President Biden on Thursday said “some minds may be changed” in the Senate after House impeachment managers presented a graphic video of the mob attack on the Capitol last month during the impeachment trial for former President Trump.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wyqzk5OkaAY/hawley-rips-trump-impeachment-proceedings-as-kangaroo-trial",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wyqzk5OkaAY/hawley-rips-trump-impeachment-proceedings-as-kangaroo-trial",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YFKRAHHwDYQ/biden-argues-new-videos-in-trump-trial-help-democrats-case-my-guess-is-some-minds-may-be-changed",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YFKRAHHwDYQ/biden-argues-new-videos-in-trump-trial-help-democrats-case-my-guess-is-some-minds-may-be-changed",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 395,
+      "heat": 275,
       "tags": null,
       "images": [
         {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6543d8c3-c5b2-44bb-a344-bb13ad713683/d535c75a-02b5-4857-8437-8ba6267791ee/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -421,9 +422,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/hawley-rips-trump-impeachment-proceedings-as-kangaroo-trial.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hawley-rips-trump-impeachment-proceedings-as-kangaroo-trial.amp",
-      "publishedDateTime": "2021-02-11T10:03:40-08:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-argues-new-videos-in-trump-trial-help-democrats-case-my-guess-is-some-minds-may-be-changed.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-argues-new-videos-in-trump-trial-help-democrats-case-my-guess-is-some-minds-may-be-changed.amp",
+      "publishedDateTime": "2021-02-11T09:13:19-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -676,62 +677,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-11-hillary-clinton-if-trump-is-acquitted-its-because-the-jury-includes-his-co-conspirators.md",
-      "title": "Hillary Clinton: If Trump is acquitted, it's 'because the jury includes his co-conspirators'",
-      "excerpt": "Hillary Clinton weighed in on former President Donald Trump's second impeachment trial this week, suggesting in a tweet that if the Senate ultimately votes to acquit him, it will only be because \"the jury includes his co-conspirators.\" ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9OkMP8yOkr8/hillary-clinton-if-senate-acquits-trump-its-because-jury-includes-his-co-conspirators",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9OkMP8yOkr8/hillary-clinton-if-senate-acquits-trump-its-because-jury-includes-his-co-conspirators",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/508b0a2c-ad2f-43ee-8c4d-ee5e92072be4/c090b894-fa1a-458f-ab09-2c770f54a94a/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/hillary-clinton-if-senate-acquits-trump-its-because-jury-includes-his-co-conspirators.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hillary-clinton-if-senate-acquits-trump-its-because-jury-includes-his-co-conspirators.amp",
-      "publishedDateTime": "2021-02-11T06:04:58-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-02-11-rep-nunes-republicans-could-possibly-face-pressure-to-impeach-biden-if-they-take-back-house-in-2022.md",
       "title": "Rep. Nunes: Republicans could possibly face 'pressure' to impeach Biden if they take back House in 2022",
       "excerpt": "California Rep. Devin Nunes, R-Calif., believes that Republicans might face pressure to impeach President Biden should the party gain control of the House in the 2022 midterms.",
@@ -913,7 +858,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 205,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -1398,25 +1343,25 @@
       ]
     },
     {
-      "path": "_news/2021-02-10-fulton-county-prosecutors-launch-criminal-investigation-into-trump-phone-call-with-georgia-secretary-of-state.md",
-      "title": "Fulton County prosecutors launch criminal investigation into Trump phone call with Georgia secretary of state",
-      "excerpt": "Georgia prosecutors opened a criminal investigation into former President Trump's efforts to overturn the 2020 presidential election in the state, including his phone call with Georgia Secretary of State Brad Raffensperger in which Trump suggested the Republicans \"find\" enough votes to change the results.",
+      "path": "_news/2021-02-10-ken-starr-says-trumps-second-impeachment-unconstitutional-and-sets-dangerous-precedent.md",
+      "title": "Ken Starr says Trump’s second impeachment 'unconstitutional' and sets 'dangerous precedent'",
+      "excerpt": "Former independent counsel Ken Starr says the impeachment trial of former President Donald Trump is an \"unconstitutional process\" and sets a \"very dangerous precedent\" because Trump has already left office.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VEGBregKm7g/fulton-county-prosecutors-criminal-investigation-trump-phone-call-georgia-secretary-of-state",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VEGBregKm7g/fulton-county-prosecutors-criminal-investigation-trump-phone-call-georgia-secretary-of-state",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JoPvlIlvUcI/ken-starr-trumps-second-impeachment-unconstitutional-process",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JoPvlIlvUcI/ken-starr-trumps-second-impeachment-unconstitutional-process",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 156,
+      "heat": 165,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aca0cd36-13d5-400a-a98b-37d1e4bafa56/22e959fc-1526-4be6-ae2b-0ac2f2cc43f4/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1424,9 +1369,65 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/fulton-county-prosecutors-criminal-investigation-trump-phone-call-georgia-secretary-of-state.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fulton-county-prosecutors-criminal-investigation-trump-phone-call-georgia-secretary-of-state.amp",
-      "publishedDateTime": "2021-02-10T10:53:53-08:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/ken-starr-trumps-second-impeachment-unconstitutional-process.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ken-starr-trumps-second-impeachment-unconstitutional-process.amp",
+      "publishedDateTime": "2021-02-10T10:27:46-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-10-gingrich-pans-trump-impeachment-lawyers-absolute-lack-of-a-coherent-defense.md",
+      "title": "Gingrich pans Trump impeachment lawyers' 'absolute lack of a coherent defense'",
+      "excerpt": "Fox News contributor Newt Gingrich roasted former President Donald Trump's impeachment defense team on Wednesday, calling their message \"incoherent\" and adding he had \"no idea\" what Trump's lawyers were doing.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_VTbYHGmu8g/gingrich-pans-trumps-impeachment-lawyers-lack-coherent-defense",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_VTbYHGmu8g/gingrich-pans-trumps-impeachment-lawyers-lack-coherent-defense",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 231,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f7dee7ae-f2e8-44d5-baea-b56d2cdfafdd/87273aea-741f-46d3-af8f-52297c92674a/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/gingrich-pans-trumps-impeachment-lawyers-lack-coherent-defense.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gingrich-pans-trumps-impeachment-lawyers-lack-coherent-defense.amp",
+      "publishedDateTime": "2021-02-10T09:50:22-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/business/democrats-pushing-bidens-cov
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/democrats-pushing-bidens-covid-19-bill-through-house-panels/2021/02/11/021a9cf8-6ce0-11eb-a66e-e27046e9e898_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden: Governors and mayors need $350 billion to fight COVID"
+    excerpt: "President Joe Biden has met with a bipartisan group of governors and mayors at the White House as part of his push to give financial relief from the coronavirus pandemic to state and local governments"
+    publishedDateTime: 2021-02-12T18:06:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/biden-governors-mayors-350-billion-fight-covid-75855930"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-governors-mayors-350-billion-fight-covid-75855930"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-governors-mayors-350-billion-fight-covid-75855930"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_74dcf88107d44ef7a13bec4135641fe7_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden presses for $1.9 trillion COVID relief plan with governors, mayors"
     excerpt: "U.S. President Joe Biden pushed for the first major legislative achievement of his term on Friday, turning to a bipartisan group of local officials for help on his $1.9 trillion coronavirus relief plan."
     publishedDateTime: 2021-02-12T17:56:00Z
@@ -50,9 +66,9 @@ related:
   - title: "Biden to press for $1.9 trillion COVID relief plan with governors, mayors"
     excerpt: "U.S. President Joe Biden will meet with a bipartisan group of mayors and governors on Friday as he continues to push for approval of a $1.9 trillion coronavirus relief plan to bolster economic growth and help millions of unemployed workers."
     publishedDateTime: 2021-02-12T17:14:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-idCAKBN2AC10D"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN2AC10D"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN2AC10D"
+    webUrl: "https://www.reuters.com/article/us-usa-biden-idUSKBN2AC10D"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AC10D"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AC10D"
     type: article
     provider:
       name: Reuters

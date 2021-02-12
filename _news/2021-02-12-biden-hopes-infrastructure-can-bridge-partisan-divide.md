@@ -1,28 +1,34 @@
 ---
 category: news
 title: "Biden hopes infrastructure can bridge partisan divide"
-excerpt: "President Joe Biden is hoping that launching an effort to build roads and bridges can help to unite Democrats and Republicans in a time of sharp partisan divisions."
-publishedDateTime: 2021-02-12T02:18:00Z
-originalUrl: "https://www.businessinsider.com/biden-hopes-infrastructure-can-bridge-partisan-divide-2021-2"
-webUrl: "https://www.businessinsider.com/biden-hopes-infrastructure-can-bridge-partisan-divide-2021-2"
-ampWebUrl: "https://www.businessinsider.com/biden-hopes-infrastructure-can-bridge-partisan-divide-2021-2?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-hopes-infrastructure-can-bridge-partisan-divide-2021-2?amp"
+excerpt: "President Joe Biden is hoping that launching an effort to build roads and bridges can help to unite Democrats and Republicans in a time of sharp partisan divisions"
+publishedDateTime: 2021-02-11T22:55:00Z
+originalUrl: "https://www.washingtonpost.com/politics/biden-hopes-infrastructure-can-bridge-partisan-divide/2021/02/11/50eaf5f6-6c92-11eb-a66e-e27046e9e898_story.html"
+webUrl: "https://www.washingtonpost.com/politics/biden-hopes-infrastructure-can-bridge-partisan-divide/2021/02/11/50eaf5f6-6c92-11eb-a66e-e27046e9e898_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/biden-hopes-infrastructure-can-bridge-partisan-divide/2021/02/11/50eaf5f6-6c92-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-hopes-infrastructure-can-bridge-partisan-divide/2021/02/11/50eaf5f6-6c92-11eb-a66e-e27046e9e898_story.html?outputType=amp"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
+    isCached: true
 
 related:
   - title: "Biden set to accept more refugees after years of Trump restrictions"
@@ -1315,6 +1321,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden views Valentine's Day decorations on WH lawn"
+    excerpt: "First lady Jill Biden had installed before dawn Friday special Valentine’s Day artwork on the north lawn of the White House: giant pink, white and red hearts that resemble the popular candy."
+    publishedDateTime: 2021-02-12T20:55:00Z
+    webUrl: "https://www.businessinsider.com/biden-views-valentines-day-decorations-on-wh-lawn-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/biden-views-valentines-day-decorations-on-wh-lawn-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-views-valentines-day-decorations-on-wh-lawn-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Trump's lawyers will argue impeachment trial is unconstitutional after split with old legal team over voter fraud"
     excerpt: "Donald Trump's attorneys are expected to center his impeachment defense on the Constitution and arguments he didn't incite the Capitol riot."
     publishedDateTime: 2021-02-02T08:26:00Z
@@ -1474,6 +1491,6 @@ related:
         height: 800
         isCached: true
 
-secured: "oj6LU6l7CYYuGJ3n6+rVMypU501sGmQVEcDBZVFAHpt0u3i4IE6oCdciaj1yte+eVy4FkBpap0JJx82IN3095VlyZhuWO/T4ZlgrTafo92FB9x/A/xO31aOFYsHznLOYtaqz79XcRvP6K9yTktRM1L9n9uXhZYclABYL86MvDJL7Ex6XRvSGOnDCjfLjHgkfeRpNeqBBcFjPsfPami8/Z4x8AqQ1qpd8+4r3tk0gB4+rKws0sSBiFwH3UbHj3g7gJrgTY2p6dP0Xu6vpXNoxiofI2K5TYvlzXjUKXNzRHa8AB/ulOnUojt+AZAuWZMkLcafcp9HZ0qhojDROOrmntuCM1Ns68MyhJnwHJAKCVjY=;BFTxUfossSQanPg4GuBw5w=="
+secured: "pDxuuOk35CIF/I6B34xT+NDkJ6oF9OvUThzB5acJVlkGGaYSkCO3ZrXY3bI+lHDB+CxW82ix7swfeIE0O1LsrTceUXYfQuj2OWibQv5o3vIMkXwXSq8vS/sE2dXZoZVUlZ41ztfceIWvkokCDmwPexiOkuz4RfsXdw+rz0yE+yXgfu+KSWL8E2g5WX0Mp3X48Ggb91skRT87j+KMLmpGaMFCEpr16HDqd8lTqo9MqSRFa3gwxmCK0tnL6v0CQlwX0jYhDxIhtJtImfyYcPFIIyASsUDcUAfWzBwKgUOn+xCUlmsF/jvnVW6IiuLdH5GORKT9SLJ3oqfMZEU/0m0y49U/DTmZe5K/gy8osgZBlyE=;Xus7yv+ZgREkihSpyEQvmw=="
 ---
 

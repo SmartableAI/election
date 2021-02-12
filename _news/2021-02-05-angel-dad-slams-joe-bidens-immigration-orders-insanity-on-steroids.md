@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-immigration-insanity-steroids
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-immigration-insanity-steroids-california-angel-dad.amp"
 type: article
 quality: 175
-heat: 315
+heat: 335
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden State Dept scheduled event on racism as a national security threat"
+    excerpt: "The State Department was scheduled to host a Zoom discussion Tuesday on \"Racism Being a Threat to National Security and Democracy.\""
+    publishedDateTime: 2021-02-12T09:13:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/53CC0ySp8rU/state-dept-racism-national-security-threat"
+    ampWebUrl: "https://www.foxnews.com/politics/state-dept-racism-national-security-threat.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/state-dept-racism-national-security-threat.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/946af592-ccb6-41c6-9e14-1d6db1ebc40e/f5dc003e-f510-4d6f-9e1a-8a76b41c6a30/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Angel dad rips Biden's immigration policies: 'I don't know how they can justify it'"
     excerpt: "A man whose son was killed by an illegal immigrant is very upset with President Biden's immigration policies."
     publishedDateTime: 2021-02-02T15:50:21Z

@@ -31,196 +31,63 @@ images:
     isCached: true
 
 related:
-  - title: "North Carolina man charged with threatening President Biden"
-    excerpt: "Prosecutors say Kyle Reeves, 27, contacted the White House switchboard “multiple times” and “made threats against President Biden and others.”"
-    publishedDateTime: 2021-02-11T20:59:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IuP9CaXKTkE/north-carolina-man-charged-threatening-president-biden"
-    ampWebUrl: "https://www.foxnews.com/politics/north-carolina-man-charged-threatening-president-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/north-carolina-man-charged-threatening-president-biden.amp"
+  - title: "Biden says 'no need' for Trump to receive intel briefings: 'What impact does he have?'"
+    excerpt: "President Biden said he didn’t think his predecessor should receive intelligence briefings, as is standard for former presidents. "
+    publishedDateTime: 2021-02-06T00:33:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QZdNwrOOIlY/biden-no-need-trump-intel-briefings"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-no-need-trump-intel-briefings.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-no-need-trump-intel-briefings.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 182
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/445ed9ed-cd0c-41f3-83e6-58a88f7d11ba/8d88fc84-ae2d-47e0-a180-90c427f3db5e/1280x720/match/image.jpg"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/Biden5.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Scandal-plagued blue state bureaucrats get plum posts in Biden admin"
-    excerpt: "President Biden nominated Julie Su Wednesday, as the deputy secretary for the U.S. Department of Labor."
-    publishedDateTime: 2021-02-11T02:49:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2SRay-jD88Q/scandal-plagued-blue-state-bureaucrats-get-plum-posts-in-biden-admin"
-    ampWebUrl: "https://www.foxnews.com/politics/scandal-plagued-blue-state-bureaucrats-get-plum-posts-in-biden-admin.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/scandal-plagued-blue-state-bureaucrats-get-plum-posts-in-biden-admin.amp"
+  - title: "Impeachment managers say Trump 'has no good defense' in reply to president's pre-trial brief"
+    excerpt: "The House Democratic impeachment managers, in their reply to President Trump's pre-trial brief from Monday, slam the former president's legal theories as \"flawed\" and say that he is shirking responsibility for the Capitol riot. "
+    publishedDateTime: 2021-02-09T16:33:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5x8alIvHDvs/impeachment-managers-say-trump-has-no-good-defense-in-reply-to-presidents-pre-trial-brief"
+    ampWebUrl: "https://www.foxnews.com/politics/impeachment-managers-say-trump-has-no-good-defense-in-reply-to-presidents-pre-trial-brief.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/impeachment-managers-say-trump-has-no-good-defense-in-reply-to-presidents-pre-trial-brief.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 164
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4e468e48-daf4-48c9-b172-5e8ae98b3f4a/e9d7c456-73c0-43ba-9de5-5359a023293c/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden indicates that masks will be worn though next year"
-    excerpt: "President Biden visited the National Institutes of Health complex on Thursday and he spoke about the U.S. vaccine supply and his goals for the rollout, but he also indicated that mask-wearing will likely be a reality for the next year. "
-    publishedDateTime: 2021-02-12T05:26:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XrGswKTbJrI/biden-indicates-that-masks-will-be-worn-though-next-year"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-indicates-that-masks-will-be-worn-though-next-year.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-indicates-that-masks-will-be-worn-though-next-year.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Cuomo heads to DC to meet with Biden as NY nursing-home scandal explodes"
-    excerpt: "New York Gov. Andrew Cuomo is getting away from the state, at least for a few hours, as his nursing-home scandal appears to grow wider."
-    publishedDateTime: 2021-02-12T10:00:32Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UBwklVuJr_s/cuomo-heads-to-dc-to-meet-with-biden-as-ny-nursing-home-scandal-explodes"
-    ampWebUrl: "https://www.foxnews.com/politics/cuomo-heads-to-dc-to-meet-with-biden-as-ny-nursing-home-scandal-explodes.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-heads-to-dc-to-meet-with-biden-as-ny-nursing-home-scandal-explodes.amp"
+  - title: "Impeachment managers say Trump 'has no good defense' in reply to president's pre-trial brief"
+    excerpt: "The House Democratic impeachment managers, in their reply to President Trump's pre-trial brief from Monday, slam the former president's legal theories as \"flawed\" and say that he is shirking responsibility for the Capitol riot."
+    publishedDateTime: 2021-02-09T16:37:00Z
+    webUrl: "https://www.foxnews.com/politics/impeachment-managers-say-trump-has-no-good-defense-in-reply-to-presidents-pre-trial-brief"
+    ampWebUrl: "https://www.foxnews.com/politics/impeachment-managers-say-trump-has-no-good-defense-in-reply-to-presidents-pre-trial-brief.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/impeachment-managers-say-trump-has-no-good-defense-in-reply-to-presidents-pre-trial-brief.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 174
+    quality: 124
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4531e58f-ebf5-4c8e-8e5f-8f5d5d449ae0/fcb668d2-694d-4b49-a2ff-02191cdd67d2/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7f69f637-0c95-40e7-bc37-57c7e1df7af2/b983ea9c-8f51-4de1-b6c0-9bcf06eb3a0e/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Psaki pressed on Biden admin not deporting illegal immigrants who drive drunk"
-    excerpt: "White House Press Secretary Jen Psaki was asked on Monday about pending guidance that would spare some illegal immigrants convicted of less serious offenses from deportation"
-    publishedDateTime: 2021-02-09T01:01:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uJjpjK8p-kA/psaki-biden-deporting-illegal-immigrants-drive-drunk"
-    ampWebUrl: "https://www.foxnews.com/politics/psaki-biden-deporting-illegal-immigrants-drive-drunk.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-deporting-illegal-immigrants-drive-drunk.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/98c9f18a-40b4-4c42-a1b2-22fe7d7091a6/c2ad6e60-a0b7-4ef0-8983-5fb23af6b0e5/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden’s new target for reopened schools is behind where U.S. is now, data show"
-    excerpt: "President Biden's new target for reopening schools -- having more than 50% of public schools offering at least one day of in-person classes a week -- is behind where the nation's public schools already are. "
-    publishedDateTime: 2021-02-11T03:28:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kl3yzNpKhGs/bidens-new-target-for-reopened-schools-is-behind-where-u-s-is-now-data-show"
-    ampWebUrl: "https://www.foxnews.com/politics/bidens-new-target-for-reopened-schools-is-behind-where-u-s-is-now-data-show.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-new-target-for-reopened-schools-is-behind-where-u-s-is-now-data-show.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4e468e48-daf4-48c9-b172-5e8ae98b3f4a/e9d7c456-73c0-43ba-9de5-5359a023293c/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden dodges question about punishing China over handling of coronavirus pandemic"
-    excerpt: "Fox News reporter Peter Doocy asked Biden whether he had any interest in punishing for failing to disclose critical information related to the pandemic’s severity."
-    publishedDateTime: 2021-02-11T02:03:42Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rRKjrfUZzlw/biden-sidesteps-question-punishing-china-handling-coronavirus-pandemic"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-sidesteps-question-punishing-china-handling-coronavirus-pandemic.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-sidesteps-question-punishing-china-handling-coronavirus-pandemic.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cfaaa6e4-0f14-44f4-b46a-9fee512596fb/2bafbcb8-cbc3-41a0-ac8a-29d5d0125fad/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden unveils China task force at Pentagon to 'chart a strong path forward' on Beijing"
-    excerpt: "President Biden revealed Wednesday that the Department of Defense has established a wide-ranging task force that will conduct a strategic review of his administration’s strategy toward China amid mounting tensions in the Pacific."
-    publishedDateTime: 2021-02-10T22:58:09Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vSCIRICIVFw/biden-china-task-force-pentagon-strong-path-forward-beijing"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-china-task-force-pentagon-strong-path-forward-beijing.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-china-task-force-pentagon-strong-path-forward-beijing.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6f8ed1a6-fe3a-4544-ba64-ed369cff65e9/5278d9ba-b2d6-4465-b58a-3321e6ae1e1c/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden officials believe China to be 'greatest long-term national security threat' to the US, McCaul says"
-    excerpt: "President Biden’s Secretary of State Tony Blinken and White House national security adviser Jake Sullivan believe that China poses the \"greatest long-term national security threat to the United States,\" Republican Rep. Michael McCaul told Fox News after speaking with the officials, but McCaul said they"
-    publishedDateTime: 2021-02-08T13:55:08Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-r4ctYVB8kU/biden-national-security-officials-believe-china-greatest-long-term-threat-mccaul"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-national-security-officials-believe-china-greatest-long-term-threat-mccaul.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-national-security-officials-believe-china-greatest-long-term-threat-mccaul.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 158
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden lays out 'prescription' for U.S.-China relations in first call with Xi Jinping since taking office"
-    excerpt: "President Biden spoke with Chinese President Xi Jinping for the first time Wednesday night since taking office, outlining his administration’s “core concerns” with China’s “practices, aggressive activities and abuses,” signaling a “clear and consistent subscription to American values,” while discussing"
-    publishedDateTime: 2021-02-11T02:18:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BOtbYHy0cQA/biden-in-first-call-with-xi-jinping-outlines-us-china-policy-core-concerns-of-chinas-abuses"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-in-first-call-with-xi-jinping-outlines-us-china-policy-core-concerns-of-chinas-abuses.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-in-first-call-with-xi-jinping-outlines-us-china-policy-core-concerns-of-chinas-abuses.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 158
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden faces bipartisan backlash after firing prosecutor probing corruption among Illinois Democrats"
-    excerpt: "President Biden triggered outcries from Illinois lawmakers on both sides of the aisle after he fired a prosecutor overseeing corruption probes of Democrats in the state."
-    publishedDateTime: 2021-02-12T03:13:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-backlash-after-firing-prosecutor-running-corruption-investigation-illinois-dems"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-backlash-after-firing-prosecutor-running-corruption-investigation-illinois-dems.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-backlash-after-firing-prosecutor-running-corruption-investigation-illinois-dems.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 121
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/445ed9ed-cd0c-41f3-83e6-58a88f7d11ba/8d88fc84-ae2d-47e0-a180-90c427f3db5e/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "President Biden: \"We're Still In The Teeth Of This Pandemic,\" Congress Must Pass Relief Bill Now"
-    excerpt: "President Biden called on Congress to act quickly to pass his proposal for a $1.9 trillion coronavirus relief package on Friday, in a speech following a weak January jobs report. Biden vowed that he would follow through on his campaign promise to provide Americans with $2,"
-    publishedDateTime: 2021-02-05T20:06:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/02/05/president_biden_were_still_in_the_teeth_of_this_pandemic_congress_must_pass_relief_bill_now.html"
+  - title: "Why It Matters That Biden Restored Regular Press Briefings"
+    excerpt: "Joe Lockharts that the return of press briefings under the new Biden administration is a welcome change. Press briefings are far more than symbolic -- they're an avenue to keep the government quick and accountable."
+    publishedDateTime: 2021-02-04T12:42:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/02/04/why_it_matters_that_biden_restored_regular_press_briefings_535116.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 52
-    images:
-      - url: "https://assets.realclear.com/images/53/534454.jpg"
-        width: 5220
-        height: 3480
-        isCached: true
+    quality: 45
 
 secured: "kdSbenCnVaBD1ZpHzZFle6/cbBCS+K/hevmRbNZ1K01ATHiAuaN99xiJNg/O4k3xqHYj6Z93khNgmdQn1bp3g0wB63/UF94uYZcuv+YOjY4smcNYOAb7Dt4Sp/6w2sPcP6TyKhUtyCIA2R6oztHGJlOYM488CBCqy5O4GBKq9eITRbzvLxAdRte932/JFTO9wOtOLo6qaP3FFFKJ8YuVYFrEGRTMnms8lecyrpgusVhgo4l1Dye+QCA5zblw5OtLEuP2mNekpFdXf864Z5uyB00TprME70hWFHRjcaDaDQDJHu1LsVf7pTKtDh+jyMApC4P12qwHQG7pmijFbIj/dthbASgYs0mEpd5WWN16MGA=;QD2RqHl5KcdWGq9ruE27qw=="
 ---

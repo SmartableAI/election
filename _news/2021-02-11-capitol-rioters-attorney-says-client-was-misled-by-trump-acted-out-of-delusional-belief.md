@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pezzola-delusional-trump-misled-cap
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pezzola-delusional-trump-misled-capitol-rioter.amp"
 type: article
 quality: 165
-heat: 205
+heat: 165
 published: true
 
 provider:
@@ -29,40 +29,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Cruz says there ‘no chance’ Trump is convicted after meeting with his legal team about strategy"
-    excerpt: "Sen. Ted Cruz, R-Texas, told Fox News “@ Night” on Thursday that there is no chance that former President Trump will be convicted for inciting last month’s riot at the Capitol, but laid out how he believes Trump's legal team should present their argument."
-    publishedDateTime: 2021-02-12T08:51:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1RwIsPqG3Gs/cruz-says-there-no-chance-trump-is-convicted-after-meeting-with-his-legal-team-about-strategy"
-    ampWebUrl: "https://www.foxnews.com/politics/cruz-says-there-no-chance-trump-is-convicted-after-meeting-with-his-legal-team-about-strategy.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cruz-says-there-no-chance-trump-is-convicted-after-meeting-with-his-legal-team-about-strategy.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 163
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Democrats Argue Trump ‘Inflamed and Incited’ Capitol Riot"
-    excerpt: "Democrats opened their case by arguing that he “assembled, inflamed and incited” the attack on the Capitol in a last-ditch effort to overturn the result of the election."
-    publishedDateTime: 2021-02-11T00:13:00Z
-    webUrl: "https://www.wsj.com/articles/on-day-two-of-trump-impeachment-trial-democrats-lay-out-their-case-11612953001"
-    ampWebUrl: "https://www.wsj.com/amp/articles/on-day-two-of-trump-impeachment-trial-democrats-lay-out-their-case-11612953001"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/on-day-two-of-trump-impeachment-trial-democrats-lay-out-their-case-11612953001"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-297712/social"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "1z5umCMy9HeH0xkGqynAYUl83E0xbMdq0j87l7JbRZ/PjbPQC8ji18bnoJEIgziLiHcAaiJXstn5ibO7qhB/t944kI91aoxh2KBGAbQ81rQb8qrri0famRIl1sjJ6AlTkshpDaZeAH5x+6olBoF+2zRy+MQbcGSR8vPXkaaBBtnwWt83hr2VDqFAD2r0u88GWPvb559j0LzZbWYyqfkg7aVobqZr3JUlgn3lYUoqsetGQkWsP8rwKKRnbm6suZCA9/02UrRx5rgGfYBp/J+Z7TbGBKPoHsxSp3aSTy6YnVwoV53i3BIdbdcV9rUhRwel7+t+3RKokEiPBSO3hZz4foD8VOl23YxWentqQUeDmsw=;CQl67Kk8VpAo2k2ss/y/3A=="
 ---

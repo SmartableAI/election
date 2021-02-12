@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-flying-to-delaware-despite-cd
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-flying-to-delaware-despite-cdc-warnings-to-avoid-travel.amp"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 160
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21037480732952-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "White House aide remains employed after allegedly demeaning reporter, despite Biden warning of firing"
+    excerpt: "President Biden warned staffers last month that if they weren’t respectful to others their jobs would be on the line – but a press office aide accused of threatening and making misogynistic remarks to a female reporter still has his."
+    publishedDateTime: 2021-02-12T20:32:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4Iow_BHLO98/white-house-aide-ducklo-palmeri-politico"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-aide-ducklo-palmeri-politico.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-aide-ducklo-palmeri-politico.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Tj-Ducklo-Tara-Palmeri.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/kinzinger-pac-take-back-gop-from-tr
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kinzinger-pac-take-back-gop-from-trump.amp"
 type: article
 quality: 175
-heat: 215
+heat: 195
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Michigan GOP Rep. Meijer tries to defend anti-Trump impeachment vote, angers voters"
-    excerpt: "Michigan Rep. Peter Meijer, one of just 10 Republicans who voted to impeach then-President Donald Trump over the deadly attack on the Capitol, defended his decision while taking pointed criticism from voters Wednesday night."
-    publishedDateTime: 2021-02-07T06:27:26Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6z8v64lSdaw/michigan-gop-rep-meijer-tries-to-defend-anti-trump-impeachment-vote-angers-voters"
-    ampWebUrl: "https://www.foxnews.com/politics/michigan-gop-rep-meijer-tries-to-defend-anti-trump-impeachment-vote-angers-voters.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michigan-gop-rep-meijer-tries-to-defend-anti-trump-impeachment-vote-angers-voters.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Meijer2.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Trump Starts 2021 With $31 Million in Cash for New PAC"
     excerpt: "The money, which is in the coffers of a newly formed leadership PAC called Save America, will be key to the former president’s efforts to retain his grip on the Republican Party."
     publishedDateTime: 2021-02-01T05:29:00Z

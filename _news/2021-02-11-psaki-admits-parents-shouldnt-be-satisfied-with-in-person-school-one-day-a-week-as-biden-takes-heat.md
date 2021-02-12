@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Psaki won’t say if Biden has confidence in Cuomo amid nursing home controversy, despite past praise"
+    excerpt: "White House press secretary Jen Psaki on Friday dodged a question about whether President Trump has confidence in New York Gov. Andrew Cuomo amid the controversy surrounding underreported COVID-19 nursing home deaths in the state."
+    publishedDateTime: 2021-02-12T19:37:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DJYVipWGfqw/psaki-dodges-question-on-cuomo-performance-amid-nursing-home-controversy"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-dodges-question-on-cuomo-performance-amid-nursing-home-controversy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-dodges-question-on-cuomo-performance-amid-nursing-home-controversy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "KeyuiMmAEl9bt9ojZkKBjCoh9k39zpE6qBD0FRk+nQiifkMIJzLzowchi2zEy4UdnNxLccxBtqgKaSD4ixZv9AKa4Iu6Nc+2ZZ0ySHS2Wa8UmPHF3AtZ+QnuSwuoutFSjJ0ez7BNiIV5jugtIsLdTicUMCHhzGOwjeosqyil3fIRVii73WC+DSXIs7UpRFbxRJ/hlloiuRSuyvd4vH6Nr0Dt5lgmmSLGoUGNB/GZe2kgDk/1mK1OrDqYcrsp0+L9XBsmLGg2AVCD9JNFRP+SBd0qB7pfAV1LKioWr4E7DdAyrOILHOlJtl/XI7PTjrcZIXXknP5s0+l9lBYONO8HCDabDFZQ4ZmFzZ4YEGInStc=;7UmL9O1ZzbNe4cA4zvU2jg=="
 ---

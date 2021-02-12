@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-wh-sign-language-interpreter-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-wh-sign-language-interpreter-says-biden-administration-canceled-and-humiliated-her.amp"
 type: article
 quality: 180
-heat: 300
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,19 +31,115 @@ images:
     isCached: true
 
 related:
-  - title: "Biden expected to announce dramatic increase in refugee admissions"
-    excerpt: "President Biden on Thursday is expected to announce a dramatic increase in the number of admissions of refugees into the U.S. -- the latest significant shift in immigration policy in his administration."
-    publishedDateTime: 2021-02-04T19:54:40Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3rRgaEGeAT4/biden-dramatic-increase-in-refugee-admissions"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-dramatic-increase-in-refugee-admissions.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-dramatic-increase-in-refugee-admissions.amp"
+  - title: "Mike Pompeo urges Biden to 'confront China head-on' like Trump administration"
+    excerpt: "The Biden administration has to confront China \"head-on\" the same way the previous administration did, former Trump Administration Secretary of State Mike Pompeo said on Friday."
+    publishedDateTime: 2021-02-12T19:19:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/q5n0h6Twqds/mike-pompeo-biden-administration-confront-china-head-on"
+    ampWebUrl: "https://www.foxnews.com/politics/mike-pompeo-biden-administration-confront-china-head-on.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-pompeo-biden-administration-confront-china-head-on.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 187
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ccc80402-1f0f-4951-b077-6701a86ada5f/7714e77c-0770-463b-aa9a-092286513796/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden sidesteps Trump impeachment trial questions: 'Let the Senate work that out’"
+    excerpt: "President Biden sidestepped questions about former President Donald Trump's impeachment trial, which is set to begin Tuesday, saying it is up to the Senate to \"work that out.\""
+    publishedDateTime: 2021-02-08T16:33:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lnJJlr2_LTM/biden-sidesteps-trump-impeachment-trial-questions"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-sidesteps-trump-impeachment-trial-questions.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-sidesteps-trump-impeachment-trial-questions.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Psaki: Biden not weighing in on Trump impeachment trial because 'he's not a pundit’"
+    excerpt: "White House Press Secretary Jen Psaki on Tuesday said President Biden is not weighing in on former President Donald Trump’s Senate impeachment trial because “he’s not a pundit,” while maintaining that he will not watch the proceedings."
+    publishedDateTime: 2021-02-09T19:21:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hba37ubPVXg/psaki-biden-not-weighing-in-trump-impeachment-trial"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-biden-not-weighing-in-trump-impeachment-trial.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-not-weighing-in-trump-impeachment-trial.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 184
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Psaki avoids Trump impeachment trial questions, says of Biden, ‘He's not a pundit'"
+    excerpt: "For the third day in a row, White House press secretary Jen Psaki sidestepped repeated questions about President Biden’s opinion on the Trump impeachment trial. "
+    publishedDateTime: 2021-02-11T19:59:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CQBJlih1GLA/psaki-trump-impeachment-trial-questions"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-trump-impeachment-trial-questions.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-trump-impeachment-trial-questions.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 184
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/AP21040649824674.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Biden 'anxious to see' if Republicans will vote to convict Trump in impeachment trial"
+    excerpt: "President Biden says he’s “anxious” to see how Senate Republicans will vote in the impeachment trial of former President Trump and whether they will “stand up” and support convicting the former president."
+    publishedDateTime: 2021-02-12T15:02:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nNP3A6dqN8I/biden-anxious-republicans-vote-convict-trump-impeachment-trial"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-anxious-republicans-vote-convict-trump-impeachment-trial.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-anxious-republicans-vote-convict-trump-impeachment-trial.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump impeachment trial overshadows hot topics, controversies in early weeks of Biden admin"
+    excerpt: "As the Senate considers for the second time in barely over a year whether to convict former President Donald Trump of an impeachment charge, he continues to dominate the political world even as he's remained mum through the process. "
+    publishedDateTime: 2021-02-12T16:07:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jrIE2evmtkk/trump-impeachment-trial-overshadows-hot-topics-controversies-in-early-weeks-of-biden-admin"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-trial-overshadows-hot-topics-controversies-in-early-weeks-of-biden-admin.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-trial-overshadows-hot-topics-controversies-in-early-weeks-of-biden-admin.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 180
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Law professor who made Barron Trump joke during Ukraine impeachment hearing gets Biden DOJ gig"
+    excerpt: "A former Stanford law professor who poked fun at Barron Trump's name during a 2019 House impeachment hearing now has a job with President Biden's Department of Justice."
+    publishedDateTime: 2021-02-08T13:33:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7O1vvhWowDU/law-professor-barron-trump-joke-impeachment-hearing-biden-doj"
+    ampWebUrl: "https://www.foxnews.com/politics/law-professor-barron-trump-joke-impeachment-hearing-biden-doj.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/law-professor-barron-trump-joke-impeachment-hearing-biden-doj.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 178
+    images:
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2019/12/04/694940094001_6113014915001_6113015661001-vs.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -63,69 +159,165 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "US attorney handling Hunter Biden probe asked to stay on, official says"
-    excerpt: "The Biden administration will ask U.S. attorneys appointed by President Trump to resign from their posts, but the prosecutor overseeing the tax probe tied to Hunter Biden, the president’s son, will remain in place, a senior Justice Department official told Fox News late Monday."
-    publishedDateTime: 2021-02-09T06:03:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/b-G_DErjFvA/us-attorney-handling-hunter-biden-probe-asked-to-stay-on-official-says"
-    ampWebUrl: "https://www.foxnews.com/politics/us-attorney-handling-hunter-biden-probe-asked-to-stay-on-official-says.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/us-attorney-handling-hunter-biden-probe-asked-to-stay-on-official-says.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "House urged to limit presidential pardon power after Trump aided associates"
-    excerpt: "Democratic members of Congress pushing to limit the presidential pardon power called experts to give historical and legal perspectives on such action, with one historian suggesting that \"we must make it more difficult to use or dangle a pardon to cover up a crime by the president or his friends\" on Tuesday."
-    publishedDateTime: 2021-02-09T18:44:50Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/N9qKIGLC1tY/congress-presidential-pardon-power-trump-steve-cohen"
-    ampWebUrl: "https://www.foxnews.com/politics/congress-presidential-pardon-power-trump-steve-cohen.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/congress-presidential-pardon-power-trump-steve-cohen.amp"
+  - title: "Dems block Stefanik amendment barring funds to Confucius Institute partners after Biden nixes Trump rule"
+    excerpt: "Rep. Elise Stefanik, D-N.Y., proposed an amendment to induce transparency among U.S. schools after the Biden administration withdrew a rule that required schools participating in certain federal programs to disclose ties with Confucius Institutes, which have been accused of propagating communist China’s"
+    publishedDateTime: 2021-02-10T15:31:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DNKxjKfbFKk/stefanik-amendment-funds-confucius-institute-biden-trump-rule"
+    ampWebUrl: "https://www.foxnews.com/politics/stefanik-amendment-funds-confucius-institute-biden-trump-rule.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/stefanik-amendment-funds-confucius-institute-biden-trump-rule.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 173
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21020179680305.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f82d77b7-fe6c-4f60-ab9e-a63cff8cef75/1518879f-32d2-4235-8fa1-dcc95e691b26/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Biden administration to remove terrorist designation for Yemen's Houthi militia"
-    excerpt: "The Biden administration said Friday that it is removing the terrorist designation for the Iranian-backed Houthi militia in Yemen -- reversing a move made in the final days of the Trump administration and the latest sign of a different approach to the war-torn Middle East. "
-    publishedDateTime: 2021-02-06T13:54:28Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nsEdB_rfTP0/biden-terrorist-designation-yemens-houthi-militia"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-terrorist-designation-yemens-houthi-militia.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-terrorist-designation-yemens-houthi-militia.amp"
+  - title: "Grassley urges Biden against firing Trump US attorneys amid investigations: 'Take the time and do it right'"
+    excerpt: "Republican Sen. Chuck Grassley on Wednesday asked President Biden not to “fire all of President Trump’s U.S. Attorneys\" amid ongoing investigations, after the Justice Department said this week the Trump-era federal prosecutors would be forced to resign from their posts by the end of the month, urging"
+    publishedDateTime: 2021-02-10T20:53:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Yx_vDpoUoaY/grassley-urges-biden-against-firing-trump-us-attorneys-amid-investigations-take-the-time-to-do-it-right"
+    ampWebUrl: "https://www.foxnews.com/politics/grassley-urges-biden-against-firing-trump-us-attorneys-amid-investigations-take-the-time-to-do-it-right.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/grassley-urges-biden-against-firing-trump-us-attorneys-amid-investigations-take-the-time-to-do-it-right.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden admin tells Supreme Court ObamaCare is constitutional, a reversal of Trump's DOJ stance in pending case"
+    excerpt: "The Biden administration is telling the Supreme Court it believes the Affordable Care Act (ACA) -- or ObamaCare -- is constitutional, a reversal of the Trump Justice Department position."
+    publishedDateTime: 2021-02-11T13:01:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gLqp6fP68E4/biden-admin-tells-supreme-court-obamacare-is-constitutional-a-reversal-of-trumps-doj-stance-in-pending-case"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-tells-supreme-court-obamacare-is-constitutional-a-reversal-of-trumps-doj-stance-in-pending-case.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-tells-supreme-court-obamacare-is-constitutional-a-reversal-of-trumps-doj-stance-in-pending-case.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 171
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/34182903-dc3d-4977-b3ee-815a0114acca/c8832b93-d928-475e-897c-c0dc379f2922/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d9465f71-aae9-4d6a-9da4-b62469e2a29f/581144ee-2119-4e60-aa11-eadabbed4975/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Top US union boss Richard Trumka disappointed in Biden's Keystone XL cancelation in new interview"
-    excerpt: "The leader on one of the most prominent U.S. labor unions said he wished President Biden hadn’t derailed the Keystone XL pipeline project on his first day in office in a new interview."
-    publishedDateTime: 2021-02-08T02:38:34Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5m4dbjFcDI4/richard-trumka-biden-keystone-xl-pipeline"
-    ampWebUrl: "https://www.foxnews.com/politics/richard-trumka-biden-keystone-xl-pipeline.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/richard-trumka-biden-keystone-xl-pipeline.amp"
+  - title: "Biden 'will not spend too much time' watching impeachment trial but finds Trump behavior 'erratic,' Psaki says"
+    excerpt: "White House Press Secretary Jen Psaki said Monday that President Biden “will not spend too much time” watching former President Trump’s Senate impeachment trial."
+    publishedDateTime: 2021-02-08T18:31:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FctAUnEoN_c/biden-will-not-spend-too-much-time-watching-impeachment-trial-calls-trump-behavior-erratic"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-will-not-spend-too-much-time-watching-impeachment-trial-calls-trump-behavior-erratic.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-will-not-spend-too-much-time-watching-impeachment-trial-calls-trump-behavior-erratic.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 162
+    quality: 170
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/GettyImages-1199939087.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "US aircraft carriers train in South China Sea amid tensions early in Biden administration"
+    excerpt: "Two U.S aircraft carrier strike groups trained Tuesday in the South China Sea amid close attention on how the United States will handle threats from China early in the Biden administration. "
+    publishedDateTime: 2021-02-09T12:57:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CmCdra03TPk/us-aircraft-carriers-train-in-south-china-sea-amid-tensions-early-in-biden-administration"
+    ampWebUrl: "https://www.foxnews.com/politics/us-aircraft-carriers-train-in-south-china-sea-amid-tensions-early-in-biden-administration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/us-aircraft-carriers-train-in-south-china-sea-amid-tensions-early-in-biden-administration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden says he didn’t watch Trump Senate trial, monitored coverage"
+    excerpt: "President Biden on Thursday said he “didn’t watch any of the hearing live” but did monitor coverage of former President Donald Trump’s impeachment trial. House impeachment"
+    publishedDateTime: 2021-02-11T16:36:00Z
+    webUrl: "https://nypost.com/2021/02/11/biden-says-he-didnt-watch-trump-senate-trial-monitored-coverage/"
+    ampWebUrl: "https://nypost.com/2021/02/11/biden-says-he-didnt-watch-trump-senate-trial-monitored-coverage/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/11/biden-says-he-didnt-watch-trump-senate-trial-monitored-coverage/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/joe-biden-trump-senate.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Biden administration plans to reengage with UN rights council, reversing Trump"
+    excerpt: "The Biden administration is set to announce this week that it will reengage with the much-maligned U.N. Human Rights Council that former President Donald Trump withdrew from almost three years ago, U."
+    publishedDateTime: 2021-02-08T12:35:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-administration-to-rejoin-un-rights-council-in-reversal-of-trump-withdrawal"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-to-rejoin-un-rights-council-in-reversal-of-trump-withdrawal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-to-rejoin-un-rights-council-in-reversal-of-trump-withdrawal.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 146
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/06033aca-08b3-48f8-b198-95163a765304/d8e75191-a19d-41d7-b41c-27e56d336a1b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Psaki: Biden not weighing in on Trump impeachment trial because 'he's not a pundit’"
+    excerpt: "White House Press Secretary Jen Psaki on Tuesday said President Biden is not weighing in on former President Donald Trump’s Senate impeachment trial because “he’s not a pundit,” while maintaining that he will not watch the proceedings."
+    publishedDateTime: 2021-02-09T19:24:00Z
+    webUrl: "https://www.foxnews.com/politics/psaki-biden-not-weighing-in-trump-impeachment-trial"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-biden-not-weighing-in-trump-impeachment-trial.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-not-weighing-in-trump-impeachment-trial.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 144
+    images:
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump impeachment trial overshadows hot topics, controversies in early weeks of Biden admin"
+    excerpt: "As the Senate considers for the second time in barely over a year whether to convict former President Donald Trump of an impeachment charge, he continues to dominate the political world even as he's remained mum through the process."
+    publishedDateTime: 2021-02-12T16:09:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-impeachment-trial-overshadows-hot-topics-controversies-in-early-weeks-of-biden-admin"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-trial-overshadows-hot-topics-controversies-in-early-weeks-of-biden-admin.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-trial-overshadows-hot-topics-controversies-in-early-weeks-of-biden-admin.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 140
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21041817949151.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Biden 'will not spend too much time' watching impeachment trial but finds Trump behavior 'erratic,' Psaki says"
+    excerpt: "White House Press Secretary Jen Psaki said Monday that President Biden “will not spend too much time” watching former President Trump’s Senate impeachment trial."
+    publishedDateTime: 2021-02-08T18:35:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-will-not-spend-too-much-time-watching-impeachment-trial-calls-trump-behavior-erratic"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-will-not-spend-too-much-time-watching-impeachment-trial-calls-trump-behavior-erratic.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-will-not-spend-too-much-time-watching-impeachment-trial-calls-trump-behavior-erratic.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b1a6865a-e2f6-4ee3-ad0f-046010aee80f/22d16aec-18fa-4a50-85a1-0db6d773b073/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "raiePQLYQDpioQw+U7BxftgWDCLsoIqo/lkFBWejdZUf6I1ppP01SHuS4z6fFXCNJBs7iCObxXJHHUtOKEU/5yosyHueH32/fwj+uJYTY/eMuXr7YvTbLrucPq8ZMpgDfSbnfHSWvbR2PVsLHTsqRA4plFstLHUr/enWrTqp0HMmAPIYmJnHS68mxRs/fmEDDeEj5XROI2/CYlyViDrv02kDgR4+eF7Z8m5LVowZx5dpB0EcEPJ6B8yJZtS5xWAvf39lhw+kFkptA+iGFEpdOuQ/gAU8peEwfUqcQf7cEkSjK6CJEF36n9Lc2nFeyjRS5TgicOCNyfv+j0tRlkxa6yZzvMMemOepw5xeiWg5mAs=;AkfuPAiu2jW3FfjpxSrtag=="

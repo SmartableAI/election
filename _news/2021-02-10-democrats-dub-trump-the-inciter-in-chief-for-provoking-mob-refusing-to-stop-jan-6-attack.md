@@ -31,21 +31,81 @@ images:
     isCached: true
 
 related:
-  - title: "Warren says Republicans who stand with Trump ‘must be stopped’"
-    excerpt: "Sen. Elizabeth Warren, D-Mass, said Wednesday that she believed the Democrat impeachment managers made a compelling case against former President Trump and any Republican who stands with him “must be stopped.”"
-    publishedDateTime: 2021-02-11T06:43:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pcGPrDMtmHU/warren-says-republicans-who-stand-with-trump-must-be-stopped"
-    ampWebUrl: "https://www.foxnews.com/politics/warren-says-republicans-who-stand-with-trump-must-be-stopped.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/warren-says-republicans-who-stand-with-trump-must-be-stopped.amp"
+  - title: "Biden argues new videos in Trump trial help Democrats' case: ‘My guess is some minds may be changed’"
+    excerpt: "President Biden on Thursday said “some minds may be changed” in the Senate after House impeachment managers presented a graphic video of the mob attack on the Capitol last month during the impeachment trial for former President Trump."
+    publishedDateTime: 2021-02-11T17:13:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YFKRAHHwDYQ/biden-argues-new-videos-in-trump-trial-help-democrats-case-my-guess-is-some-minds-may-be-changed"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-argues-new-videos-in-trump-trial-help-democrats-case-my-guess-is-some-minds-may-be-changed.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-argues-new-videos-in-trump-trial-help-democrats-case-my-guess-is-some-minds-may-be-changed.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Cruz says there ‘no chance’ Trump is convicted after meeting with his legal team about strategy"
+    excerpt: "Sen. Ted Cruz, R-Texas, told Fox News “@ Night” on Thursday that there is no chance that former President Trump will be convicted for inciting last month’s riot at the Capitol, but laid out how he believes Trump's legal team should present their argument."
+    publishedDateTime: 2021-02-12T08:51:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1RwIsPqG3Gs/cruz-says-there-no-chance-trump-is-convicted-after-meeting-with-his-legal-team-about-strategy"
+    ampWebUrl: "https://www.foxnews.com/politics/cruz-says-there-no-chance-trump-is-convicted-after-meeting-with-his-legal-team-about-strategy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cruz-says-there-no-chance-trump-is-convicted-after-meeting-with-his-legal-team-about-strategy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Sen. Rand Paul: House managers 'never made their case' that Trump incited Capitol violence"
+    excerpt: "The House Democratic impeachment managers failed to prove that former President Donald Trump incited the deadly riot at the Capitol Jan. 6, Sen. Rand Paul, R-Ky., told \"Your World\" Thursday."
+    publishedDateTime: 2021-02-11T23:11:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2IuF_91bL7M/rand-paul-house-managers-never-made-case-trump-incited-riot"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 145
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dabb19a9-f307-4590-b17b-a9eebe82993d/0fe292e2-0b7f-4cd7-b3df-53033acd5093/1280x720/match/image.jpg"
+        width: 1278
+        height: 720
+        isCached: true
+  - title: "Democrats Argue Trump ‘Inflamed and Incited’ Capitol Riot"
+    excerpt: "Democrats opened their case by arguing that he “assembled, inflamed and incited” the attack on the Capitol in a last-ditch effort to overturn the result of the election."
+    publishedDateTime: 2021-02-11T00:13:00Z
+    webUrl: "https://www.wsj.com/articles/on-day-two-of-trump-impeachment-trial-democrats-lay-out-their-case-11612953001"
+    ampWebUrl: "https://www.wsj.com/amp/articles/on-day-two-of-trump-impeachment-trial-democrats-lay-out-their-case-11612953001"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/on-day-two-of-trump-impeachment-trial-democrats-lay-out-their-case-11612953001"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-297712/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Democrats: Trump ‘Inflamed and Incited’ Capitol Riot"
+    excerpt: "Live analysis of the second impeachment trial of former President Donald Trump."
+    publishedDateTime: 2021-02-12T02:25:00Z
+    webUrl: "https://www.wsj.com/livecoverage/trump-second-impeachment-trial-2021-02-10"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 115
+    images:
+      - url: "https://images.wsj.net/im-297919/social"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "n/Aai8x0wYl3JhkkmZebUyB5sv6SnpRRsUocP0v2sPLZD/2MuR7UxvEU4ApEKEcF86TzGAZiysWHJj+NuWU11aGcW+Z8OQ48TbT7A82MSkKTZl6Y0VMWaAYBCSwL/RiDEwRJQBEBzTGbLF1WdIz3cHECCZM91/Q6HTUJRiCi/kQnAs1lqLkcRr6nPGImAY2lOL0eDA5vixYX8Vqgp1Neb1ByrwCZF/WGBWgXvpwrk80chhYTd7hlO4CZoS9xllGsx34en3R0yxxTXKGQjOaHUmtZEz4+1a0X8/OgpDaXG/GejxL07U7qm+wmidk9szmU+rJv9vPnkcDUNLCALthJ71uu+iVBSDryxfFQvyakaDQ=;Cup/AnMWT+xuNpDXjyNE7w=="

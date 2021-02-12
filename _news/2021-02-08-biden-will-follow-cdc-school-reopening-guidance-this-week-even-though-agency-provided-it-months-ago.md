@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "White House aide remains employed after allegedly demeaning reporter, despite Biden warning of firing"
+    excerpt: "President Biden warned staffers last month that if they weren’t respectful to others their jobs would be on the line – but a press office aide accused of threatening and making misogynistic remarks to a female reporter still has his."
+    publishedDateTime: 2021-02-12T20:32:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4Iow_BHLO98/white-house-aide-ducklo-palmeri-politico"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-aide-ducklo-palmeri-politico.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-aide-ducklo-palmeri-politico.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Tj-Ducklo-Tara-Palmeri.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "PO04VaorUNgMeM8lKI/Oi12MnuWk5LUPauzZJVa1UOo+kYXiQY/Sp7ACDWhb3ecl/4kdSZBRBCY+fy0PlR9ykc+Fl6ahozp4f78UapUN3RXbJeIx9p+su5YAB/SMOSNHOVCCBAlA6R3GxRDKFyYl0+VwjUlC6qyojihVtzrN2hQYigncppmFqpvSoabbZWg3sBBET3GvT8AMAxoJuy3m7q9SKEzc45b7uriFMY4z976Q4PzZK4+amTvJimi7ZxYGLHOfSIDunpUnTA62/RPueCdVAN+xTAh9MXpyixJbLxuQZQ7Je0VMpKrQG8fwqxxRIz6Y/uJaqvmmB46Nd453OlKsXI53mkh2uzN045855qQ=;jQPmW+++32Nnk2eXFSMRLw=="
 ---

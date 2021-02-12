@@ -141,6 +141,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Live Updates: Trump won't testify at impeachment trial"
+    excerpt: "House impeachment managers requested that Trump provide testimony under oath either before or during the Senate impeachment trial about \"his conduct\" on Jan. 6."
+    publishedDateTime: 2021-02-05T05:54:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LSr6xCVGtKY/live-updates-trump-impeachment-2-5-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-impeachment-2-5-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-impeachment-2-5-2021.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/395c1b78-1ac4-4f72-9a64-5329fa2896e3/26d7f438-3030-433c-b7f0-092766e5cdaa/1280x720/match/image.jpg"
+        width: 1279
+        height: 720
+        isCached: true
+  - title: "LIVE UPDATES: Who is presiding over Trump's impeachment trial?"
+    excerpt: "Follow for the latest updates on Trump's impeachment trial. Mobile users click here. "
+    publishedDateTime: 2021-02-06T06:43:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JIoBfOD1z8o/live-updates-trumps-impeachment-trial-2-6-21"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trumps-impeachment-trial-2-6-21.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trumps-impeachment-trial-2-6-21.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f5f90c8b-48e3-4814-a3b9-4148b1943c47/588e19ba-362f-4a1b-87cd-fdc31c2182b8/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Live Updates: House Republican who voted to impeach Trump facing criticism"
     excerpt: "With 10 Republican votes, Trump's second impeachment was the most bipartisan one in history."
     publishedDateTime: 2021-01-18T05:07:11Z
@@ -365,6 +397,38 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "LIVE UPDATES: Who is defending Trump during the impeachment trial?"
+    excerpt: "Former President Donald Trump is preparing for his second Senate impeachment trial, where his team will defend him against the charge that he incited an insurrection at the Capitol on Jan. 6. But Trump is not expected to appear himself,"
+    publishedDateTime: 2021-02-06T21:07:00Z
+    webUrl: "https://www.foxnews.com/politics/live-updates-trumps-impeachment-trial-2-6-21"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trumps-impeachment-trial-2-6-21.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trumps-impeachment-trial-2-6-21.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f5f90c8b-48e3-4814-a3b9-4148b1943c47/588e19ba-362f-4a1b-87cd-fdc31c2182b8/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Live Updates: Trump's impeachment trial starts with opening statements"
+    excerpt: "The Senate impeachment trial of former President Donald Trump began on Tuesday with opening statements and debate between House impeachment managers and Trump's defense lawyers."
+    publishedDateTime: 2021-02-09T20:44:00Z
+    webUrl: "https://www.foxnews.com/politics/live-updates-trump-impeachment-2-9-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-impeachment-2-9-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-impeachment-2-9-2021.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aff142e3-34ee-46df-8f7f-e92976220d66/6d133fea-0a5a-4be6-aaa7-f631defd19fd/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Donald Trump Jr.: ‘We are living Orwell’s 1984’ after dad outed from Twitter"
     excerpt: "Free-speech no longer exists in America. It died with big tech and what’s left is only there for a chosen few. This is absolute insanity!” he tweeted in response to the news."
     publishedDateTime: 2021-01-09T22:42:00Z
@@ -380,6 +444,70 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/donald-trump-jr-twitter.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "LIVE UPDATES: Trump just announced his new impeachment trial legal defense team"
+    excerpt: "Former President Donald Trump on Sunday announced a new legal defense team after he parted ways with five of his impeachment lawyers just over a week before his Senate trial is set to begin, Fox News has confirmed."
+    publishedDateTime: 2021-02-01T22:37:00Z
+    webUrl: "https://www.foxnews.com/politics/live-updates-trump-impeachment-trial-1-31-21"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-impeachment-trial-1-31-21.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-impeachment-trial-1-31-21.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 131
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1280db39-0cc4-4fce-8c70-ebbdd510a556/5b88d5ef-ffb2-4dd2-a4ca-441f12e0a412/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "LIVE UPDATES: Trump impeachment trial Day 2 kicks off with Democrats making their case"
+    excerpt: "Democrats on Wednesday are making their case as to why President Donald Trump should be convicted in his impeachment trial -- a day after the Senate voted to move ahead with the trial."
+    publishedDateTime: 2021-02-10T18:52:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-impeachment-live-updates-2-10-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-live-updates-2-10-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-live-updates-2-10-2021.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 127
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/61a66219-cef7-41be-bf5a-2420fbb38051/157f42b9-2028-471b-81e5-255abc31ee16/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "LIVE UPDATES: Trump lawyers make arguments at impeachment trial, expected to allege Dem hypocrisy"
+    excerpt: "The impeachment trial of former President Donald Trump in the Senate resumed on Friday with Trump's lawyers expected to argue that Democrats are hypocritical for saying that Trump incited the Capitol mob by telling his followers they have to \"fight\" against a \"stolen election."
+    publishedDateTime: 2021-02-12T17:47:00Z
+    webUrl: "https://www.foxnews.com/politics/live-updates-impeachment-trump-2-12-21"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-impeachment-trump-2-12-21.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-impeachment-trump-2-12-21.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 122
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1a891bdd-1bd9-489d-ad5e-0c172a1b45f7/af518998-d3eb-4ed0-84a1-32e41c857d0b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "LIVE UPDATES: Trump lawyers make arguments at impeachment trial, hammer alleged Dem hypocrisy with videos"
+    excerpt: "The impeachment trial of former President Donald Trump in the Senate resumed on Friday with Trump's lawyers expected to argue that Democrats are hypocritical for saying that Trump incited the Capitol mob by telling his followers they have to \"fight\" against a \"stolen election."
+    publishedDateTime: 2021-02-12T19:34:00Z
+    webUrl: "https://www.foxnews.com/politics/live-updates-impeachment-trump-2-12-21"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-impeachment-trump-2-12-21.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-impeachment-trump-2-12-21.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 118
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1a891bdd-1bd9-489d-ad5e-0c172a1b45f7/af518998-d3eb-4ed0-84a1-32e41c857d0b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "IrXnQShw6JWm0HwKmyJXd97q4ra03QvPh2vNpuWUOwrxo2tcA+6G5wKiCOuVjwNtqQ1eDq0U3aUkFoQWhcKof+DIqEyR5COrAPx/6Fga0R4TpFJEOpyZvscgDbgD/wW6FvRLrgvbx8UGZFTHcUU/B0USBUQIEu25z/QD4OGC4vpvT2VfeOPg9vhtPuiW6qUX7aXlE/IXZc8V7B+Pag+kVGLjQBkRMoiKvBigCyP7OPFCHEHCCDI9/5ayf0oZbn13gix+5oKWg+jYfjg0o68XxNng62baXk44mCFSImTiRRC3+MSLyyHRms+V7x2Zzo49ohaRV/K3+3SadUYJ7xdBLwWMuvbWUoqN6UsC0bUw+Lc=;WMwc2gbB2EbGwdC+RtYRng=="

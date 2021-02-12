@@ -2191,6 +2191,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "\"Plainly a distraction\": Democrats react to videos from Trump's attorneys in impeachment trial"
+    excerpt: "Former President Trump's legal team used a spliced video montage of Democrats saying \"fight\" taken out of context."
+    publishedDateTime: 2021-02-12T20:26:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-impeachment-trial-fight-video-democrats-react/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-impeachment-trial-fight-video-democrats-react/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-impeachment-trial-fight-video-democrats-react/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 113
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/02/12/767dc0d8-595e-41c8-9ed5-13048045dde3/thumbnail/1200x630/df2f78484f49b0c688d82e90f1f25dc4/ap21043654601634.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump's shaken up legal team hints it will focus on constitutionality of impeaching a former president"
     excerpt: "Former President Donald Trump announced two new attorneys who will lead his impeachment defense team: David Schoen and Bruce Castor"
     publishedDateTime: 2021-02-01T16:57:00Z
@@ -2709,6 +2725,17 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "The Latest: Trump impeachment trial shifts to his defense"
+    excerpt: "The Latest on former President Donald Trump's second Senate (all times local):"
+    publishedDateTime: 2021-02-12T20:55:00Z
+    webUrl: "https://www.businessinsider.com/the-latest-trump-impeachment-trial-shifts-to-his-defense-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/the-latest-trump-impeachment-trial-shifts-to-his-defense-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/the-latest-trump-impeachment-trial-shifts-to-his-defense-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Impeachment managers lay out case against Trump using unseen footage, audio"
     excerpt: "House impeachment managers on Feb. 10 made the case that former president Donald Trump spent months laying the groundwork for January’s riot at the Capitol."
     publishedDateTime: 2021-02-11T02:08:00Z

@@ -48,22 +48,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Gaetz offers to represent Trump in second impeachment trial, resign House seat 'if the law requires it'"
-    excerpt: "Republican Rep. Matt Gaetz on Wednesday offered to represent former President Trump in his second impeachment trial, telling Fox News he would resign from his seat in the House of Representatives if asked to join the Trump legal team."
-    publishedDateTime: 2021-02-03T18:55:13Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RVYjVR1N858/gaetz-willing-resign-to-defend-trump-impeachment-trial"
-    ampWebUrl: "https://www.foxnews.com/politics/gaetz-willing-resign-to-defend-trump-impeachment-trial.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gaetz-willing-resign-to-defend-trump-impeachment-trial.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 159
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Larry Kudlow, former top economic adviser to Trump, to host Fox Business show"
     excerpt: "Fox is hiring Larry Kudlow, most recently the top economic advisor to Donald Trump in the White House, as contributor and host of a weekday show on its business network. Kudlow, who will start on"
     publishedDateTime: 2021-01-26T20:32:00Z

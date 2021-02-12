@@ -143,22 +143,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Official tasked with briefing Biden reportedly defended CIA’s false intel about torture effectiveness"
-    excerpt: "The CIA official in charge of overseeing President Biden’s daily intelligence briefing reportedly lead a standoff between the CIA and the Senate Intelligence Committee."
-    publishedDateTime: 2021-02-06T22:04:36Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/S4gwWVugYEk/official-briefing-biden-cia-false-intel-torture-effectiveness"
-    ampWebUrl: "https://www.foxnews.com/politics/official-briefing-biden-cia-false-intel-torture-effectiveness.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/official-briefing-biden-cia-false-intel-torture-effectiveness.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 160
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4c1c9f88-8491-4368-aaae-00f24e45654b/7c18c51d-3b0e-47d0-b6e0-deaee4ae7030/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Biden officials believe China to be 'greatest long-term national security threat' to the US, McCaul says"
     excerpt: "President Biden’s Secretary of State Tony Blinken and White House national security adviser Jake Sullivan believe that China poses the \"greatest long-term national security threat to the United States,\" Republican Rep. Michael McCaul told Fox News after speaking with the officials, but McCaul said they"
     publishedDateTime: 2021-02-08T13:55:08Z
@@ -190,6 +174,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "BIDEN WHITE HOUSE LIVE UPDATES: President evades question about taking action against China over COVID-19"
+    excerpt: "President Biden dodged a question Wednesday on whether his administration would punish China over the country's early handling of the coronavirus pandemic."
+    publishedDateTime: 2021-02-11T05:01:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zR1b2ItrfOk/biden-live-updates-2-11-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-live-updates-2-11-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-live-updates-2-11-2021.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/add95066-24d3-4636-bf65-f0f6a9541cf2/56504e56-071b-46ab-9296-dd583496afbe/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Biden faces bipartisan backlash after firing prosecutor probing corruption among Illinois Democrats"
     excerpt: "President Biden triggered outcries from Illinois lawmakers on both sides of the aisle after he fired a prosecutor overseeing corruption probes of Democrats in the state."

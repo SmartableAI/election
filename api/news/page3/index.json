@@ -2,6 +2,62 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-10-biden-admin-erects-tent-city-in-texas-to-handle-influx-of-illegal-immigrants.md",
+      "title": "Biden admin erects tent city in Texas to handle influx of illegal immigrants",
+      "excerpt": "The Biden administration announced this week that it opened a soft-sided facility for immigrants in Donna, Texas, as Republican lawmakers warn of a “rising crisis” at the U.S.-Mexico border.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KDVywhq6xKM/biden-admin-tent-city-texas-illegal-immigrants",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KDVywhq6xKM/biden-admin-tent-city-texas-illegal-immigrants",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 212,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/52334b32-16cb-4d2a-b31d-a7d4fdb3a6b1/68c321f8-4a31-4940-9404-549a71453d54/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-admin-tent-city-texas-illegal-immigrants.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-tent-city-texas-illegal-immigrants.amp",
+      "publishedDateTime": "2021-02-10T15:48:18-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-10-trump-advisers-say-he-hasnt-shown-remorse-for-the-insurrection-and-relationship-with-pence-remains-damaged.md",
       "title": "Trump advisers say he hasn't shown remorse for the insurrection and relationship with Pence remains damaged",
       "excerpt": "Advisers to former President Donald Trump say he still has not expressed remorse for the siege at the US Capitol, which could end up being important for Senate jurors to consider after House impeachment managers on Wednesday released new video of the violent mob's assault on January 6.\n    \n",
@@ -14,7 +70,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 1102,
+      "heat": 1122,
       "tags": null,
       "images": [
         {
@@ -227,7 +283,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 584,
+      "heat": 604,
       "tags": null,
       "images": [
         {
@@ -718,25 +774,25 @@
       ]
     },
     {
-      "path": "_news/2021-02-10-fulton-county-prosecutors-launch-criminal-investigation-into-trump-phone-call-with-georgia-secretary-of-state.md",
-      "title": "Fulton County prosecutors launch criminal investigation into Trump phone call with Georgia secretary of state",
-      "excerpt": "Georgia prosecutors opened a criminal investigation into former President Trump's efforts to overturn the 2020 presidential election in the state, including his phone call with Georgia Secretary of State Brad Raffensperger in which Trump suggested the Republicans \"find\" enough votes to change the results.",
+      "path": "_news/2021-02-10-ken-starr-says-trumps-second-impeachment-unconstitutional-and-sets-dangerous-precedent.md",
+      "title": "Ken Starr says Trump’s second impeachment 'unconstitutional' and sets 'dangerous precedent'",
+      "excerpt": "Former independent counsel Ken Starr says the impeachment trial of former President Donald Trump is an \"unconstitutional process\" and sets a \"very dangerous precedent\" because Trump has already left office.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VEGBregKm7g/fulton-county-prosecutors-criminal-investigation-trump-phone-call-georgia-secretary-of-state",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VEGBregKm7g/fulton-county-prosecutors-criminal-investigation-trump-phone-call-georgia-secretary-of-state",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JoPvlIlvUcI/ken-starr-trumps-second-impeachment-unconstitutional-process",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JoPvlIlvUcI/ken-starr-trumps-second-impeachment-unconstitutional-process",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 156,
+      "heat": 165,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aca0cd36-13d5-400a-a98b-37d1e4bafa56/22e959fc-1526-4be6-ae2b-0ac2f2cc43f4/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -744,9 +800,65 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/fulton-county-prosecutors-criminal-investigation-trump-phone-call-georgia-secretary-of-state.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fulton-county-prosecutors-criminal-investigation-trump-phone-call-georgia-secretary-of-state.amp",
-      "publishedDateTime": "2021-02-10T10:53:53-08:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/ken-starr-trumps-second-impeachment-unconstitutional-process.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ken-starr-trumps-second-impeachment-unconstitutional-process.amp",
+      "publishedDateTime": "2021-02-10T10:27:46-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-10-gingrich-pans-trump-impeachment-lawyers-absolute-lack-of-a-coherent-defense.md",
+      "title": "Gingrich pans Trump impeachment lawyers' 'absolute lack of a coherent defense'",
+      "excerpt": "Fox News contributor Newt Gingrich roasted former President Donald Trump's impeachment defense team on Wednesday, calling their message \"incoherent\" and adding he had \"no idea\" what Trump's lawyers were doing.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_VTbYHGmu8g/gingrich-pans-trumps-impeachment-lawyers-lack-coherent-defense",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_VTbYHGmu8g/gingrich-pans-trumps-impeachment-lawyers-lack-coherent-defense",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 231,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f7dee7ae-f2e8-44d5-baea-b56d2cdfafdd/87273aea-741f-46d3-af8f-52297c92674a/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/gingrich-pans-trumps-impeachment-lawyers-lack-coherent-defense.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gingrich-pans-trumps-impeachment-lawyers-lack-coherent-defense.amp",
+      "publishedDateTime": "2021-02-10T09:50:22-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1250,118 +1362,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-wisconsin-dem-governor-not-sure-hell-attend-biden-event-next-week-report.md",
-      "title": "Wisconsin Dem governor 'not sure' he'll attend Biden event next week: report",
-      "excerpt": "President Biden will travel to Wisconsin next week for his first \"business\" trip since taking office in January -- but the state's Democratic governor says he's \"not sure\" he'll be on hand to greet the president.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Je7HosAu9hY/wisconsin-dem-governor-not-sure-hell-attend-biden-event-next-week-report",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Je7HosAu9hY/wisconsin-dem-governor-not-sure-hell-attend-biden-event-next-week-report",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/tony-evers.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/wisconsin-dem-governor-not-sure-hell-attend-biden-event-next-week-report.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/wisconsin-dem-governor-not-sure-hell-attend-biden-event-next-week-report.amp",
-      "publishedDateTime": "2021-02-09T22:42:22-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-trump-beyond-angry-with-impeachment-defense-teams-showing-sources.md",
-      "title": "Trump ‘beyond angry’ with impeachment defense team’s showing: sources",
-      "excerpt": "Former President Trump was “furious” and “beyond angry” over his defense team’s showing on Day One of his second impeachment trial, two sources told Fox News late Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/u63UL8gUfJI/trump-beyond-angry-with-impeachment-defense-teams-showing-sources",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/u63UL8gUfJI/trump-beyond-angry-with-impeachment-defense-teams-showing-sources",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-beyond-angry-with-impeachment-defense-teams-showing-sources.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-beyond-angry-with-impeachment-defense-teams-showing-sources.amp",
-      "publishedDateTime": "2021-02-09T21:52:51-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

@@ -111,6 +111,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden expected to announce dramatic increase in refugee admissions"
+    excerpt: "President Biden on Thursday is expected to announce a dramatic increase in the number of admissions of refugees into the U.S. -- the latest significant shift in immigration policy in his administration."
+    publishedDateTime: 2021-02-04T19:54:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3rRgaEGeAT4/biden-dramatic-increase-in-refugee-admissions"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-dramatic-increase-in-refugee-admissions.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-dramatic-increase-in-refugee-admissions.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ccc80402-1f0f-4951-b077-6701a86ada5f/7714e77c-0770-463b-aa9a-092286513796/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden prepares rules to limit ICE arrests, deportations"
     excerpt: "U.S. immigration authorities will revise their approach to arrests and deportations under President Biden, according to Homeland Security officials."
     publishedDateTime: 2021-02-07T22:43:15Z
@@ -126,6 +142,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21037480732952-e1612735051617.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "US attorney handling Hunter Biden probe asked to stay on, official says"
+    excerpt: "The Biden administration will ask U.S. attorneys appointed by President Trump to resign from their posts, but the prosecutor overseeing the tax probe tied to Hunter Biden, the president’s son, will remain in place, a senior Justice Department official told Fox News late Monday."
+    publishedDateTime: 2021-02-09T06:03:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/b-G_DErjFvA/us-attorney-handling-hunter-biden-probe-asked-to-stay-on-official-says"
+    ampWebUrl: "https://www.foxnews.com/politics/us-attorney-handling-hunter-biden-probe-asked-to-stay-on-official-says.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/us-attorney-handling-hunter-biden-probe-asked-to-stay-on-official-says.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Biden administration reopening Texas holding facility for migrant children"
     excerpt: "The Biden administration plans to reopen a holding center for migrant children detained at the country’s Southwest border, the administration confirmed in a statement to Fox News on Wednesday."
@@ -158,6 +190,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Biden administration to remove terrorist designation for Yemen's Houthi militia"
+    excerpt: "The Biden administration said Friday that it is removing the terrorist designation for the Iranian-backed Houthi militia in Yemen -- reversing a move made in the final days of the Trump administration and the latest sign of a different approach to the war-torn Middle East. "
+    publishedDateTime: 2021-02-06T13:54:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nsEdB_rfTP0/biden-terrorist-designation-yemens-houthi-militia"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-terrorist-designation-yemens-houthi-militia.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-terrorist-designation-yemens-houthi-militia.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/34182903-dc3d-4977-b3ee-815a0114acca/c8832b93-d928-475e-897c-c0dc379f2922/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Biden administration pushes forward with two state solution with Israel, Palestine"
     excerpt: "President Biden has taken steps to reverse Trump-era policies in the Middle East by throwing the administration’s support behind finding a two-state solution between Israel and Palestine."

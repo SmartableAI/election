@@ -591,6 +591,22 @@ related:
         width: 900
         height: 506
         isCached: true
+  - title: "As the Senate Nears a Verdict on Trump"
+    excerpt: "Readers call on Republicans to vote to convict the former president. “Jan. 6 was a day most of us will never forget,” one reader writes. “And now Donald Trump must be held accountable.”"
+    publishedDateTime: 2021-02-12T20:01:00Z
+    webUrl: "https://www.nytimes.com/2021/02/12/opinion/letters/trump-impeachment-trial.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/12/opinion/letters/trump-impeachment-trial.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/12/opinion/letters/trump-impeachment-trial.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/12/us/politics/12impeachment-briefing-argument/12impeachment-briefing-argument-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Impeachment Updates: New Chilling Video Expected as Trump’s Trial Begins"
     excerpt: "Each side has up to 16 hours over two days to make their cases for and against former President Donald J. Trump. The House impeachment managers, who are acting as prosecutors, will go first, followed by Mr."
     publishedDateTime: 2021-02-10T11:07:00Z

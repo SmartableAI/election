@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/gingrich-pans-trumps-impeachment-la
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gingrich-pans-trumps-impeachment-lawyers-lack-coherent-defense.amp"
 type: article
 quality: 171
-heat: -1
-published: false
+heat: 231
+published: true
 
 provider:
   name: Fox News
@@ -31,37 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "Trump ‘beyond angry’ with impeachment defense team’s showing: sources"
-    excerpt: "Former President Trump was “furious” and “beyond angry” over his defense team’s showing on Day One of his second impeachment trial, two sources told Fox News late Tuesday."
-    publishedDateTime: 2021-02-10T05:52:51Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/u63UL8gUfJI/trump-beyond-angry-with-impeachment-defense-teams-showing-sources"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-beyond-angry-with-impeachment-defense-teams-showing-sources.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-beyond-angry-with-impeachment-defense-teams-showing-sources.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump lawyers expected to allege Dem hypocrisy Friday as defense gets its turn at impeachment trial"
-    excerpt: "The legal team for former President Donald Trump makes their opening arguments in his second impeachment trial on Friday -- and they are expected to allege that Democrats are being hypocritical by saying that Trump incited the Capitol mob by telling his followers they have to \"fight\" against a \"stolen"
-    publishedDateTime: 2021-02-12T12:31:05Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7tI0IPDcXIk/trump-lawyers-expected-to-allege-dem-hypocrisy-friday-as-impeachment-trial-hurtles-toward-close"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-lawyers-expected-to-allege-dem-hypocrisy-friday-as-impeachment-trial-hurtles-toward-close.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-lawyers-expected-to-allege-dem-hypocrisy-friday-as-impeachment-trial-hurtles-toward-close.amp"
+  - title: "Dem impeachment managers target Trump lawyers’ First Amendment argument, calling it a ‘distraction’"
+    excerpt: "Lead House impeachment manager Rep. Jamie Raskin, D-Md., said that former President Trump’s lawyers’ argument that Trump was within his First Amendment rights when he peddled election fraud claims is a “completely irrelevant distraction.” "
+    publishedDateTime: 2021-02-11T22:16:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/X-1zWuB7Wc8/dem-impeachment-managers-trump-lawyers-first-amendment"
+    ampWebUrl: "https://www.foxnews.com/politics/dem-impeachment-managers-trump-lawyers-first-amendment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dem-impeachment-managers-trump-lawyers-first-amendment.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 161
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/91491525-0758-4d76-835a-c083f18134c2/a25638d4-7eb7-4b4b-a3f0-92bf7307c604/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Dem impeachment managers target Trump lawyers’ First Amendment argument, calling it a ‘distraction’"
+    excerpt: "Md., said that former President Trump’s lawyers’ argument that Trump was within his First Amendment rights when he peddled election fraud claims is a “completely irrelevant distraction.”"
+    publishedDateTime: 2021-02-11T22:20:00Z
+    webUrl: "https://www.foxnews.com/politics/dem-impeachment-managers-trump-lawyers-first-amendment"
+    ampWebUrl: "https://www.foxnews.com/politics/dem-impeachment-managers-trump-lawyers-first-amendment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dem-impeachment-managers-trump-lawyers-first-amendment.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 121
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/91491525-0758-4d76-835a-c083f18134c2/a25638d4-7eb7-4b4b-a3f0-92bf7307c604/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump War Room fires back at House Dem impeachment managers who used 'fight like hell' rhetoric in the past"
+    excerpt: "The Trump War Room is firing back at the House Democrat Impeachment Managers who were making their case against former President Donald Trump during the opening arguments of impeachment trial."
+    publishedDateTime: 2021-02-10T22:10:00Z
+    webUrl: "https://www.foxnews.com/media/trump-war-room-house-dem-impeachment-managers-fight-hell-rhetoric-past"
+    ampWebUrl: "https://www.foxnews.com/media/trump-war-room-house-dem-impeachment-managers-fight-hell-rhetoric-past.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/trump-war-room-house-dem-impeachment-managers-fight-hell-rhetoric-past.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 117
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/68d1bea9-00de-4ea6-9ed2-ecec7e6ca8c1/af87bdba-c1d7-4788-8577-5cdd7f2e87a2/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "+DJL+xSdJqWhcJLASqrD1CEVJNst+E1CA9RAqgrP1Cu5EDnUnz0Auar07Bbv20fORja2HG/SFiILASV9j+UbXbgKBYul2ZfIOlsHlkqrpy3nuy0FQIXc3hdIZQGpJ6uHpG536GUCPBU8jIOJsRbt1esv3htvjowW4DJyI6Z6aO0NKDuBjUN1Mj9MHElJ/YUpif1pxi2EnseyTeT8ovPt1S7ZRoz4YwlJY0oZZU/jMLOyN//BFGQ5RMBftweh19kdBug6fG+Z+c4foz6TB+C7h812SCvmlD84PsUnFtdOgv053mf3B2qn86qK5Ee/qA839T6wibK5SLWCAINVy0tUAPtKnF4MQ++7OrhavsW7zso=;xJQJ+nZoFlPiogtRVsXI6A=="

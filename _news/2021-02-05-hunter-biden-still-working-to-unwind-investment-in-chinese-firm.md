@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-still-working-to-unwin
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-still-working-to-unwind-investment-in-chinese-firm.amp"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "White House dismisses questions about Biden son-in-law's COVID-19 investments"
+    excerpt: "The White House dismissed complaints of conflicting interest Tuesday regarding the president’s son-in-law’s investments in the COVID-19 response. "
+    publishedDateTime: 2021-02-09T19:59:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mx-fNJBCVaM/white-house-biden-son-in-laws-covid-19-investments"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-biden-son-in-laws-covid-19-investments.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-biden-son-in-laws-covid-19-investments.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/568b8e9c-Jen-Psaki.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Hunter Biden to release memoir 'Beautiful Things' in April focusing on substance abuse"
     excerpt: "President Biden's son Hunter Biden, 51, will publish a memoir called \"Beautiful Things\" on April 6 through Gallery Books, an imprint of Simon & Schuster. "
     publishedDateTime: 2021-02-04T14:27:09Z

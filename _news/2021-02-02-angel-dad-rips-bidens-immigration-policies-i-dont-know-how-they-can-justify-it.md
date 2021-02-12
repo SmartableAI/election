@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden State Dept scheduled event on racism as a national security threat"
+    excerpt: "The State Department was scheduled to host a Zoom discussion Tuesday on \"Racism Being a Threat to National Security and Democracy.\""
+    publishedDateTime: 2021-02-12T09:13:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/53CC0ySp8rU/state-dept-racism-national-security-threat"
+    ampWebUrl: "https://www.foxnews.com/politics/state-dept-racism-national-security-threat.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/state-dept-racism-national-security-threat.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/946af592-ccb6-41c6-9e14-1d6db1ebc40e/f5dc003e-f510-4d6f-9e1a-8a76b41c6a30/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Migrant numbers increase along US-Mexico border as they await Biden's immigration action"
     excerpt: "The number of migrants along parts of the U.S.-Mexico border is increasing as they await what they hope are dramatic liberalizations in border security and immigration policy from President Biden – who has already taken significant action to reverse Trump-era policies."
     publishedDateTime: 2021-02-02T17:54:36Z

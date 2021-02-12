@@ -47,6 +47,38 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Senate votes Trump impeachment trial is constitutional"
+    excerpt: "The Senate voted Tuesday to move ahead with the unprecedented impeachment trial of former President Trump after listening to nearly four hours of arguments on whether it is constitutional to try a president who is already out of office. "
+    publishedDateTime: 2021-02-09T22:14:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XG3XPp3yLfc/senate-decides-constitutionally-of-trump-impeachment-trial-after-day-one-of-arguments"
+    ampWebUrl: "https://www.foxnews.com/politics/senate-decides-constitutionally-of-trump-impeachment-trial-after-day-one-of-arguments.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-decides-constitutionally-of-trump-impeachment-trial-after-day-one-of-arguments.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aff142e3-34ee-46df-8f7f-e92976220d66/6d133fea-0a5a-4be6-aaa7-f631defd19fd/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Who is paying for Trump impeachment defense lawyers?"
+    excerpt: "The marathon of arguments taking place during the second impeachment trial of former President Donald Trump is resulting in some long hours for Trump attorneys Bruce Castor, David Schoen and Michael van der Veen, which raises the question of who is paying for his representation."
+    publishedDateTime: 2021-02-11T16:52:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BNELrvOMQ1s/who-is-paying-for-trump-impeachment-defense-lawyers"
+    ampWebUrl: "https://www.foxnews.com/politics/who-is-paying-for-trump-impeachment-defense-lawyers.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/who-is-paying-for-trump-impeachment-defense-lawyers.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/bruce-castor.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "How a leading anti-Trump group ignored a crisis in its ranks"
     excerpt: "Last June, the Lincoln Project was on a high. Led by several prominent former Republican consultants, its slickly produced ads attacking President Donald Trump made it perhaps the"
     publishedDateTime: 2021-02-11T20:21:00Z

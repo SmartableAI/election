@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/11/politics/what-is-incitement-defin
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/11/politics/what-is-incitement-definition/index.html"
 type: article
 quality: 171
-heat: 251
+heat: 271
 published: true
 
 provider:
@@ -92,6 +92,20 @@ related:
       - url: "https://static.politico.com/c7/25/c3962b394f1d93105eef2bd2747d/raskin-773-ap.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Trump impeachment defense team shows 9-plus minute compilation of Dems using word 'fight'"
+    excerpt: "House impeachment managers have pointed to Trump’s own words before the Jan. 6 insurrection, when he said supporters would lose the country if they didn't “fight like hell.”"
+    publishedDateTime: 2021-02-12T19:13:00Z
+    webUrl: "https://www.politico.com/news/2021/02/12/trump-impeachment-defense-democrats-fight-468852"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 106
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/5d641925-59d2-4f7b-80e3-518f4dcd0ea2/22afe3dc-ac3e-4ddf-8806-29bc33264432/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "PTPlI4xFl7K5yej2BiFNf/JxmKElZ8fdH1fDnd+MGOYOM+F9UUO88W3M5CFLVXKBKpWfnkzNkZnUhtHg/pw+fswHzXMrKGZ+dvVrkkoVMu+SnGJ6oiroL4swCx2y6kHvpSOBIh4ytPI4FCqh6Pl/rumoFsh8Kpche13njs2nCpsVxT+TviToSwWv7GzJtOLTzlel+LgyORQmxzJxJRiIs3Isq6xqpoopF9FFffJSUq9/Ise/R3VGU0YjT3VxhwrgPQ39Gg9pbphwSkySPgDKNRjtxOHyEVpvort0wxgNc5rM8YTPEiNGP4T8X9GCXM9cnkx+Am9dap4ZFXvbuH5pfDTbYQ5kmk7Mx+urza2igkU=;FDATUzQWB55eQFujhISMKQ=="

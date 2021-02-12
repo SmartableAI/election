@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/democrats-showing-shockingly-bad-ju
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-showing-shockingly-bad-judgment-with-trump-impeachment-focus-cornyn.amp"
 type: article
 quality: 170
-heat: 230
+heat: 210
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dae72535-2dae-40bd-8346-e651ec940af2/ae769b4d-a9d6-41c6-80d1-a158afc32667/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Patrick Leahy Takes Gavel in Second Trump Impeachment Trial"
-    excerpt: "When Sen. Patrick Leahy makes history as the first person to preside over the impeachment trial of a former president, the Vermont Democrat also will be in the thorny position of running the trial and serving as a juror."
-    publishedDateTime: 2021-01-30T14:51:00Z
-    webUrl: "https://www.wsj.com/articles/patrick-leahy-takes-gavel-in-second-trump-impeachment-trial-11612018170"
-    ampWebUrl: "https://www.wsj.com/amp/articles/patrick-leahy-takes-gavel-in-second-trump-impeachment-trial-11612018170"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/patrick-leahy-takes-gavel-in-second-trump-impeachment-trial-11612018170"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-291103/social"
-        width: 1280
-        height: 640
         isCached: true
   - title: "Cruz: Second Trump impeachment was 'exercise in political rage' by Democrats: 'It was their id speaking'"
     excerpt: "Congressional Democrats' push to convicted former President Donald Trump of impeachable offenses is \"driven by the partisan rage and the partisan anger that the Democrats feel,\" Sen. Ted Cruz, R-Texas, told \"Hannity\" Tuesday. \"They hate Donald J."

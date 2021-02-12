@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/florida-palm-beach-legal-review-tru
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/florida-palm-beach-legal-review-trump-residency-mar-a-lago.amp"
 type: article
 quality: 175
-heat: 435
+heat: 335
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Raskin says Trump’s refusal to testify at impeachment supports ‘his guilt’"
-    excerpt: "Rep. Jamie Raskin, D-Md., took former President Trump to task for refusing to testify at his second impeachment trial that many Republicans and Trump’s legal team have called a farce."
-    publishedDateTime: 2021-02-05T09:20:08Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dVW-EPfeaEc/raskin-says-trumps-refusal-to-testify-at-impeachment-supports-his-guilt"
-    ampWebUrl: "https://www.foxnews.com/politics/raskin-says-trumps-refusal-to-testify-at-impeachment-supports-his-guilt.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/raskin-says-trumps-refusal-to-testify-at-impeachment-supports-his-guilt.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Colorado officials want to keep Space Command in state, ask Pentagon to reconsider Trump's relocation"
     excerpt: "Colorado Gov. Jared Polis and a group of bipartisan state officials are urging Defense Secretary Lloyd Austin to reconsider and \"pause\" former President Donald Trump's decision to move U.S. Space Command from Colorado Springs to Alabama, saying it will \"undermine\" the country's ability to respond to"
     publishedDateTime: 2021-02-04T15:41:18Z
@@ -63,53 +47,19 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Trump, legal defense team part ways as Senate impeachment trial looms"
-    excerpt: "Former President Donald Trump and his legal team parted ways a little more than a week before his impeachment trial was scheduled to begin in the Senate on a charge that he incited the riot at the"
-    publishedDateTime: 2021-01-31T13:46:00Z
-    webUrl: "https://nypost.com/2021/01/31/trump-legal-defense-team-part-ways-as-senate-impeachment-trial-looms/"
-    ampWebUrl: "https://nypost.com/2021/01/31/trump-legal-defense-team-part-ways-as-senate-impeachment-trial-looms/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/31/trump-legal-defense-team-part-ways-as-senate-impeachment-trial-looms/amp/"
+  - title: "Trump impeachment managers file pre-trial brief against former president: 'Evidence is overwhelming'"
+    excerpt: "The House impeachment managers on Tuesday morning filed their pre-trial brief in their case against former President Donald Trump, previewing the argument they will make against him in the Senate trial set to start in one week."
+    publishedDateTime: 2021-02-02T15:25:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RSIq7IdJzwI/impeachment-managers-file-pre-trial-brief-against-trump"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
+      name: Fox News
+      domain: foxnews.com
+    quality: 140
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/donald-trump-18.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Trump Adds New Lawyers for Impeachment Trial After Lead Attorneys Exit"
-    excerpt: "David Schoen and Bruce Castor are set to lead former President Donald Trump’s defense at his Senate impeachment trial after his previous attorneys left the team."
-    publishedDateTime: 2021-02-01T06:31:00Z
-    webUrl: "https://www.wsj.com/articles/trump-adds-new-lawyers-for-impeachment-trial-after-lead-attorneys-exit-11612143087"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-adds-new-lawyers-for-impeachment-trial-after-lead-attorneys-exit-11612143087"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-adds-new-lawyers-for-impeachment-trial-after-lead-attorneys-exit-11612143087"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-292978/social"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/AP21012753304432.jpg"
         width: 1280
-        height: 640
-        isCached: true
-  - title: "Trump announces new impeachment legal defense team"
-    excerpt: "Former President Donald Trump announced his new impeachment legal team on Sunday night after parting ways with his previous lawyers due to a disagreement over his defense strategy. Trial lawyers"
-    publishedDateTime: 2021-02-01T01:23:00Z
-    webUrl: "https://nypost.com/2021/01/31/trump-announces-new-impeachment-legal-defense-team/"
-    ampWebUrl: "https://nypost.com/2021/01/31/trump-announces-new-impeachment-legal-defense-team/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/31/trump-announces-new-impeachment-legal-defense-team/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/trump-13.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
+        height: 720
         isCached: true
   - title: "Congress set to override Trump veto for first time in presidency"
     excerpt: "SMITH: OK, Steve Harrigan live from Atlanta for us, thank you. President Trump and President Joe Biden both expected to make appearances in Georgia on the eve of the election. To Peter Doocy now in Augusta, Georgia, for us on that -- Peter. something ..."
@@ -159,19 +109,19 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Matt Gaetz says he’d resign House seat to defend Trump at impeachment trial"
-    excerpt: "Matt Gaetz said he would resign if called on by former President Donald Trump to defend him in his upcoming impeachment trial, saying it’d be the “top priority in my life.” The Florida congressman made the comment in an interview with the Steve Bannon-hosted podcast “War Room Pandemic."
-    publishedDateTime: 2021-02-04T15:31:00Z
-    webUrl: "https://nypost.com/2021/02/04/matt-gaetz-says-hed-resign-to-defend-trump-at-impeachment-trial/"
-    ampWebUrl: "https://nypost.com/2021/02/04/matt-gaetz-says-hed-resign-to-defend-trump-at-impeachment-trial/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/04/matt-gaetz-says-hed-resign-to-defend-trump-at-impeachment-trial/amp/"
+  - title: "Trump trial will run into Sunday, wrap next week, with 16 hours for each side"
+    excerpt: "Former President Donald Trump’s second impeachment trial will begin Tuesday afternoon with arguments on its constitutionality — then almost certainly stretch into next week, under a"
+    publishedDateTime: 2021-02-08T22:49:00Z
+    webUrl: "https://nypost.com/2021/02/08/trump-impeachment-trial-will-run-into-sunday-wrap-next-week/"
+    ampWebUrl: "https://nypost.com/2021/02/08/trump-impeachment-trial-will-run-into-sunday-wrap-next-week/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/08/trump-impeachment-trial-will-run-into-sunday-wrap-next-week/amp/"
     type: article
     provider:
       name: New York Post
       domain: nypost.com
-    quality: 133
+    quality: 132
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/matt-gaetz-trump-01.jpg?quality=90&strip=all&w=1200"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/trump-2.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true
@@ -191,22 +141,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "National Geographic documentary on new Air Force One takes a look at design Trump helped shape"
-    excerpt: "Former President Donald Trump pushed to update and change the planes to make them more modern, both in design and capabilities."
-    publishedDateTime: 2021-02-06T17:50:00Z
-    webUrl: "https://www.foxnews.com/us/national-geographic-documentary-air-force-one-trump"
-    ampWebUrl: "https://www.foxnews.com/us/national-geographic-documentary-air-force-one-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/national-geographic-documentary-air-force-one-trump.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 123
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Air-Force-One-5.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Colorado officials want to keep Space Command in state, ask Pentagon to reconsider Trump's relocation"
     excerpt: "Colorado Gov. Jared Polis and a group of bipartisan state officials are urging Defense Secretary Lloyd Austin to reconsider and \"pause\" former President Donald Trump's decision to move U.S. Space Command from Colorado Springs to Alabama,"
     publishedDateTime: 2021-02-05T00:17:00Z
@@ -222,20 +156,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Space-force.jpg?ve=1&tl=1"
         width: 640
         height: 320
-        isCached: true
-  - title: "House Democratic Impeachment Managers Want Donald Trump To Testify Under Oath At Impeachment Trial Monday"
-    excerpt: "CNN congressional correspondent Manu Raju reports that House Democrats want former President Trump to testify in person, under oath, at his second impeachment trial as early as Monday."
-    publishedDateTime: 2021-02-04T18:57:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/02/04/house_democratic_impeachment_managers_want_donald_trump_to_testify_under_oath_at_impeachment_trial_monday.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 48
-    images:
-      - url: "https://assets.realclear.com/images/53/534301.jpg"
-        width: 5648
-        height: 3765
         isCached: true
 
 secured: "oWiFn5itxgp1n//Pydq6bY1jb6/K8E6n9YUQlg43zgJ/85qikc46ghGvj66CaE1GSLr7FIJPnT7D9M275vDW6Uh3XqHc/SKUYBiWo11h9vScGTzHa6015T/PMJCKu4SL+xZvb7JO0/JM2G3vfc9GpZXeQ6SZd7iULjdRneWP3Jp8s9hyFEJd3D5DesC3iL8Un2cvZvLyr5RR8vSDlqBdonnMKfmsNZfIjR9+ovPEgqDhGvTU82/qYgIkQdc/FNU+wv2/rvGqdMmCXqYOIGrRd/cfAjMM9MfXpUeVSm1cDbd7nOWZGqqpWrgQBovP8EOhXATWoJ9+Ila8dCLzl8oK23gHdq/5l6bU2KvYxmBiQeA=;xHDJ/kxGcLbG28sUmL1ySQ=="
