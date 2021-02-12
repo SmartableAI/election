@@ -3,10 +3,10 @@ category: news
 title: "Budget office expects $2.3T deficit before Biden relief plan"
 excerpt: "The Congressional Budget Office says the federal government is on track for a $2.3 trillion deficit this year, down roughly $900 billion from last year when the coronavirus caused Congress to provide"
 publishedDateTime: 2021-02-11T20:17:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/budget-office-expects-23t-deficit-biden-relief-plan-75834040"
-webUrl: "https://abcnews.go.com/Business/wireStory/budget-office-expects-23t-deficit-biden-relief-plan-75834040"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/budget-office-expects-23t-deficit-biden-relief-plan-75834040"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/budget-office-expects-23t-deficit-biden-relief-plan-75834040"
+originalUrl: "https://abcnews.go.com/Politics/wireStory/cbo-expects-23-trillion-deficit-biden-relief-plan-75832808"
+webUrl: "https://abcnews.go.com/Politics/wireStory/cbo-expects-23-trillion-deficit-biden-relief-plan-75832808"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/cbo-expects-23-trillion-deficit-biden-relief-plan-75832808"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/cbo-expects-23-trillion-deficit-biden-relief-plan-75832808"
 type: article
 quality: 125
 heat: -1
@@ -1384,6 +1384,6 @@ related:
         height: 800
         isCached: true
 
-secured: "FXFQ0n9x9Gywbt0XtjLt9jM++PpZ/25MEJlMUQsCK/DXu3NjxoU+3j+IlO9sZHrXn5+CR5fS/Np8xIPb4ZHPE0BjLI4iLA4kzdDBDtJK6fUW4O8gwH95PrUi+K/xzA8fHks1rxHMtqJV094y670S/vENXgIS8lIOU/5R9377H8+qhPqjZRlWYdLTXO7N2aOW4QgzNhhUu2yAYf8GbKCMFY1dSgMlgwS/PfrEk1miGtm0pamzxngb5/35b1CCRLZ8b6Xk6ohS/GrZfTLWmwHf5rVHK1TTb/V1acFUY6rYj3GlCRTtmDP4z7eYjTm6+aqxjhocApZGA6t90umpzw6QjqmcHuqFaWyeEHyy+l0YJzk=;iTf9D99F5TMxum2Uhyr07w=="
+secured: "jpR0nPtc6jWdFOmJYVstZyonsvmKATB8BE/WOKcp/pRUhOCdtEyd82puDfK5Cyx8QLE0TXGD4kRaz6HmxUk1ACswAOLhrumbRTUjm54doTJqbHVC3pYJruBmwH4INBilhIP4K0hAhWanrFyDT/+CefhcpPpyXGq1Jd/WXLE6t16hAqMMKWDONYmYdrZSNBYSk7ELa6nTPvsYAPgfISSoBYodZwiw8Xf/toxhq7hVzBbmvbbOn7bv75VeO3WQ+5PWT5ORSJ/0nOtVEAw63yOO1SZkbR76zsl1R+2p3XOI1U//HNBbKRHLN+Nk396LJnX8O4+uFDCFMlzFkv8s0TfNZ792vSLm75dEE7yiS7IMJPM=;CvsmY4I5y+YbJ8czEPsT6Q=="
 ---
 

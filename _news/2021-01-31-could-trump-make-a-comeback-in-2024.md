@@ -1357,6 +1357,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Day 3 key takeaways from Trump's 2nd impeachment trial"
+    excerpt: "Democrats, who also warned the Senate about the lasting danger Trump would pose if not convicted, were again praised by Republicans for their performance."
+    publishedDateTime: 2021-02-12T02:33:00Z
+    webUrl: "https://abcnews.go.com/Politics/day-key-takeaways-trumps-2nd-impeachment-trial-democrats/story?id=75828800"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/day-key-takeaways-trumps-2nd-impeachment-trial-democrats/story?id=75828800"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/day-key-takeaways-trumps-2nd-impeachment-trial-democrats/story?id=75828800"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/General/impeachment-donald-trump-04-rt-llr-210210_1612983099279_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Now out of office, Trump may have to face tax questions"
     excerpt: "Whether or not Trump is convicted at his impeachment trial, he faces an IRS decision on a massive refund and may no longer be able to conceal his tax returns."
     publishedDateTime: 2021-02-12T00:38:00Z
@@ -1372,6 +1388,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3G573JC3MEI6XKCJN6KCHJ277U.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "The Trailer: How Trump is still writing the GOP’s story"
+    excerpt: "Trump’s disappearance from public life has not removed him from the center of the Republican Party’s universe."
+    publishedDateTime: 2021-02-12T04:42:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/02/11/trailer-how-trump-is-still-writing-gops-story/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/02/11/trailer-how-trump-is-still-writing-gops-story/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/02/11/trailer-how-trump-is-still-writing-gops-story/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NOTXGUDMSMI6XJTO4JYEN2PITA.jpg&w=1440"
+        width: 1440
+        height: 959
         isCached: true
   - title: "Timeline: How Trump picked the rioters over his vice president"
     excerpt: "So Pence announced that he would do what he had to: preside over the counting of electoral votes that day and, in so doing, finalize his own ouster from the vice presidency. Before he could do that, though,"
@@ -1439,10 +1471,10 @@ related:
         isCached: true
   - title: "If Senate does not convict Trump, 'he can do this again,' Democrats warn"
     excerpt: "Democratic prosecutors making the case that Donald Trump incited a deadly insurrection by encouraging his supporters to march on the U.S. Capitol warned the Senate on Thursday that if it fails to convict the former president,"
-    publishedDateTime: 2021-02-12T02:08:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-idUSKBN2AB15F"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AB15F"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AB15F"
+    publishedDateTime: 2021-02-12T04:11:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump-impeachment-idUKKBN2AB22D"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2AB22D"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2AB22D"
     type: article
     provider:
       name: Reuters

@@ -2,21 +2,21 @@
 category: news
 title: "North Carolina man accused of threatening Biden over phone"
 excerpt: "A federal prosecutor has accused a North Carolina man of threatening President Joe Biden and others through phone calls to the White House"
-publishedDateTime: 2021-02-11T23:50:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/north-carolina-man-accused-threatening-biden-phone-75838181"
-webUrl: "https://abcnews.go.com/Politics/wireStory/north-carolina-man-accused-threatening-biden-phone-75838181"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/north-carolina-man-accused-threatening-biden-phone-75838181"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/north-carolina-man-accused-threatening-biden-phone-75838181"
+publishedDateTime: 2021-02-12T03:58:00Z
+originalUrl: "https://www.washingtonpost.com/national/north-carolina-man-accused-of-threatening-biden-over-phone/2021/02/11/a1fe3ad2-6cbc-11eb-a66e-e27046e9e898_story.html"
+webUrl: "https://www.washingtonpost.com/national/north-carolina-man-accused-of-threatening-biden-over-phone/2021/02/11/a1fe3ad2-6cbc-11eb-a66e-e27046e9e898_story.html"
+ampWebUrl: "https://www.washingtonpost.com/national/north-carolina-man-accused-of-threatening-biden-over-phone/2021/02/11/a1fe3ad2-6cbc-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/north-carolina-man-accused-of-threatening-biden-over-phone/2021/02/11/a1fe3ad2-6cbc-11eb-a66e-e27046e9e898_story.html?outputType=amp"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-    width: 834
-    height: 308
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -123,6 +123,6 @@ related:
       domain: reuters.com
     quality: 103
 
-secured: "mCv2JLYkT2KpHUC/dV3waUY2zeG8dywuS9ewpuHXwhxmB89zGdpplx8lslc83x/iYXjxsKxwKD4rPiRVm6zF1gV5rrCDDtN1JgIqTis5C84ii3BCM++Mf807lIr0CqN9rJFa8s8wOAWGty/xb3C/BRAFFi6tIYV4FKiHunX3qvGUJ/aXqM5/lIapfGL4yUUg7hm+tYyYJJiWpN2kI80fRuWftQsHZjdTkoU8X/acoEleVE9MM2ZwWbupI7XHgyFT233hgAdmhSKXvnPsj4RnCtkjXt8qVGIEj1Axg2Ilz/xwpYZo69My5OdxvPZv3Tej8F+GtX4uUkYNdoLLflRN4qibcM+Ee51kuhUTp0A5Qfw=;ol0c67RqzMVbsmOcyRRz3g=="
+secured: "2m1g6gWb1L6P0XcL0Z3yc6as/mriU/oVIrLZWZNeYbTTYdbkyGX6hJgq/L9bT2oR418MQzstOAQDE0EzHoqVPSMEZ22ViC5wYuBn+ovWJVv+nQHCjLEGIFt3EVSCSEbH8huf8438nzSt4uH2PD6HP5yYAwC+x1ywr9BxeST/LGAvwcYJn3ofLJfAamU9RqBkzGpxaGuf+9XZMZSBtfz3nhDXew/0y7NKpdFdTbiT8XLGbclIOt5Hq4+UVzvJYKiUAzENDONu8aUctSyUfHe3w4tc4y5hq0gxE+oE5EgYrYeUJI5ZIBXK4h6Ycydx9tsZgaHkjqtg+zI0OJp+MewoZvG/c5zCdy8AcnyTJopf86g=;tXY9b5z7pC5jyqGp79Inog=="
 ---
 

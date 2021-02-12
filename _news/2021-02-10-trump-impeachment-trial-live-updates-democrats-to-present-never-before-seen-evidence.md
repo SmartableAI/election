@@ -95,6 +95,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump impeachment trial live updates: Trump attorney signals trial could end Friday"
+    excerpt: "The House impeachment managers have wrapped up their opening arguments. Trump impeachment trial: Day 3 key moments Former President Donald Trump's historic second impeachment trial is taking place in the Senate."
+    publishedDateTime: 2021-02-12T03:17:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/trump-impeachment-trial-live-updates-senate-debate-constitutionality/?id=75741945"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/trump-impeachment-trial-live-updates-senate-debate-constitutionality/?id=75741945"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/trump-impeachment-trial-live-updates-senate-debate-constitutionality/?id=75741945"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 119
+    images:
+      - url: "https://s.abcnews.com/images/Politics/schoen-gty-er-210211_1613092879727_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Power Up: Trump spokesman says move to disqualify him from future office is 'dead on arrival'"
     excerpt: "This is the Power Up newsletter. Thanks for waking up with us. IMPEACHMENT II: Former president Donald Trump won't be testifying in his second Senate impeachment trial starting today. But that doesn't mean Trump won't be tuning in to the proceedings as House impeachment managers argue he is “singularly responsible” for inciting the Jan."
     publishedDateTime: 2021-02-09T16:22:00Z

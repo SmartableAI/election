@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/north-carolina-man-charged-threaten
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/north-carolina-man-charged-threatening-president-biden.amp"
 type: article
 quality: 175
-heat: 355
+heat: 375
 published: true
 
 provider:
@@ -108,6 +108,22 @@ related:
     quality: 167
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6f8ed1a6-fe3a-4544-ba64-ed369cff65e9/5278d9ba-b2d6-4465-b58a-3321e6ae1e1c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden faces bipartisan backlash after firing prosecutor probing corruption among Illinois Democrats"
+    excerpt: "President Biden triggered outcries from Illinois lawmakers on both sides of the aisle after he fired a prosecutor overseeing corruption probes of Democrats in the state. "
+    publishedDateTime: 2021-02-12T03:07:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kpmSC1vnTCQ/biden-backlash-after-firing-prosecutor-running-corruption-investigation-illinois-dems"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-backlash-after-firing-prosecutor-running-corruption-investigation-illinois-dems.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-backlash-after-firing-prosecutor-running-corruption-investigation-illinois-dems.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/445ed9ed-cd0c-41f3-83e6-58a88f7d11ba/8d88fc84-ae2d-47e0-a180-90c427f3db5e/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

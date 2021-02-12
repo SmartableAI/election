@@ -480,6 +480,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden's first big Covid test: Keeping parents of school kids from losing it"
+    excerpt: "President Joe Biden’s vow to reopen most schools during his first 100 days is crashing into demands of one of his party’s most powerful constituencies: teachers’ unions. And the friction is ..."
+    publishedDateTime: 2021-01-28T19:27:00Z
+    webUrl: "https://www.politico.com/news/2021/01/27/joe-biden-covid-teachers-unions-parents-463380"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/27/joe-biden-covid-teachers-unions-parents-463380"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/27/joe-biden-covid-teachers-unions-parents-463380"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 133
+    images:
+      - url: "https://static.politico.com/49/07/fea0f7f6475983500e8f23c45293/ap21027658155757-c.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Covid live updates: Biden raises Covid vaccine goal, UK passes 100,000 deaths"
     excerpt: "President Biden increased his Covid vaccine goal to 1.5 million shots administered a day, deemed more likely due to states ramping up vaccine distribution."
     publishedDateTime: 2021-01-26T20:20:00Z

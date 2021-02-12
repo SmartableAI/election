@@ -1,10 +1,10 @@
 ---
 category: news
 title: "US President Joe Biden and US Vice President Kamala Harris visit the Pentagon"
-excerpt: "Chairman of the Joint Chiefs of Staff Mark Milley (R) and Secretary of Defense Lloyd Austin, tour the African Americans in Service Corridor at the Pentagon in Arlington, Virginia, on Wednesday February 10,"
+excerpt: "Chairman of the Joint Chiefs of Staff Mark Milley and Secretary of Defense Lloyd Austin, tour the African Americans in Service Corridor at the Pentagon in Arlington, Virginia, on Wednesday February 10,"
 publishedDateTime: 2021-02-10T22:03:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/916dd0e9cdb6d76ce340b8817d259f78/US-President-Joe-Biden-and-US-Vice-President-Kamala-Harris-visit-the-Pentagon/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/916dd0e9cdb6d76ce340b8817d259f78/US-President-Joe-Biden-and-US-Vice-President-Kamala-Harris-visit-the-Pentagon/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/9d91eea11b320aa95c9cb58194f8740f/US-President-Joe-Biden-and-US-Vice-President-Kamala-Harris-visit-the-Pentagon/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/9d91eea11b320aa95c9cb58194f8740f/US-President-Joe-Biden-and-US-Vice-President-Kamala-Harris-visit-the-Pentagon/"
 type: article
 quality: 67
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/916dd0e9cdb6d76ce340b8817d259f78/PENTAGON-BIDEN.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/9d91eea11b320aa95c9cb58194f8740f/PENTAGON-BIDEN.jpg"
     width: 650
     height: 433
     isCached: true
@@ -502,6 +502,22 @@ related:
       - url: "https://s.abcnews.com/images/US/MeenaHarris-TheView_1611758373667_hpMain_16x9_992.jpg"
         width: 992
         height: 559
+        isCached: true
+  - title: "Biden brother touts relationship with president in Inauguration Day ad for law firm"
+    excerpt: "President Joe Biden's brother Frank promoted his relationship to the commander-in-chief in an Inauguration Day advertisement for the law firm he advises. Frank Biden is a non-attorney senior ..."
+    publishedDateTime: 2021-01-28T20:49:00Z
+    webUrl: "https://www.cnbc.com/2021/01/27/biden-brother-touts-relationship-with-president-in-inauguration-day-ad-for-law-firm.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/01/27/biden-brother-touts-relationship-with-president-in-inauguration-day-ad-for-law-firm.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/27/biden-brother-touts-relationship-with-president-in-inauguration-day-ad-for-law-firm.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 119
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106830957-1611770400900-gettyimages-127896922-620758500.jpeg?v=1612188525"
+        width: 3000
+        height: 2357
         isCached: true
   - title: "New Biden rules for ICE point to fewer arrests and deportations, and a more restrained agency"
     excerpt: "The latest interim guidelines signal that people convicted of drunken driving, minor drug offenses, tax crimes will not be priorities for deportation."
@@ -1383,6 +1399,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "L0swMgXHFe2kXwwP/ISDtL/IKkvzxq5O8a8FC7kDiTyY1cJuDwGhft5lFOu5m63A77b2nk8UcvPwMElE2gcNJs4eNiXeMRHDq1AYcBmNab4o4r3RWVdg47cjb7cAFBk5p1VRlSs3v3K6jWtLWlS/LIudGNrQCo3aVq38k2Gbss2Ka12LvKvhtNyuFItMMMIwkDIZo7PxHPJKCmMTz6z7RbkuuIFAI6HtswRlmTjJSa8Yq3zUwgqtGVam9Eb2GN5sbeqmXnOSZE+jrFX4CWz1Xe6sMWMyWSN7okbOGm9gCjXvDG6Tv+yCBwsywEl0xVjYz08OeTEIPoa0E4ni9UnKgWlDRnmbrV2/UV4zncbHYV0=;5njJ9K6YSVWGhJBjXpp8nA=="
+secured: "s9oVvNm7rcZ7blKYweGKmmlQW1UQYWhcStc0IaSF7DM5sDUmyU/bx8wFZ2b2rJYOfQWf9N901j4rrA9fEMpLM8eofh7Zf4hHi7S5QRUG9YHixks6Vli8N2Pif3S1GotXo2ZPjrlTJOAGFPkpSRp0A22J5IIRe/C3n61cbwlvptsCcd2FQWUSHtSGJ8fGNL9EZbxX9I11vr9d4ToqNrWAgoXI0/UTI3/Q2+dl8JHob5EC5oKUjKb/PB1GuwsgFk7QYPz3gXKbixaC9zikpzkPVfOXQCFt73iAD05U4vlIwnRCt73MAX3Ldw5HHgPBL6ztam7UiDXWWdW8+UJoMSks8xEwlJDbECw6gfwz5/PP5NU=;hGcxClNdgL7zQ+h8p0PIfg=="
 ---
 

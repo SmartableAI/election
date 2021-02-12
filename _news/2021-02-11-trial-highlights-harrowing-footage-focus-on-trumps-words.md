@@ -89,6 +89,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump impeachment trial live updates: Trump attorney signals trial could end Friday"
+    excerpt: "The House impeachment managers have wrapped up their opening arguments. Trump impeachment trial: Day 3 key moments Former President Donald Trump's historic second impeachment trial is taking place in the Senate."
+    publishedDateTime: 2021-02-12T03:17:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/trump-impeachment-trial-live-updates-senate-debate-constitutionality/?id=75741945"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/trump-impeachment-trial-live-updates-senate-debate-constitutionality/?id=75741945"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/trump-impeachment-trial-live-updates-senate-debate-constitutionality/?id=75741945"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 119
+    images:
+      - url: "https://s.abcnews.com/images/Politics/schoen-gty-er-210211_1613092879727_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Trump impeachment trial live updates: Democrats to present never-before-seen evidence"
     excerpt: "House impeachment managers will use evidence that hasn't been seen before during the imminent trial, according to senior aides on the team. Senate Majority Leader Chuck Schumer re"
     publishedDateTime: 2021-02-09T16:35:00Z

@@ -494,6 +494,22 @@ related:
         width: 992
         height: 559
         isCached: true
+  - title: "Biden brother touts relationship with president in Inauguration Day ad for law firm"
+    excerpt: "President Joe Biden's brother Frank promoted his relationship to the commander-in-chief in an Inauguration Day advertisement for the law firm he advises. Frank Biden is a non-attorney senior ..."
+    publishedDateTime: 2021-01-28T20:49:00Z
+    webUrl: "https://www.cnbc.com/2021/01/27/biden-brother-touts-relationship-with-president-in-inauguration-day-ad-for-law-firm.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/01/27/biden-brother-touts-relationship-with-president-in-inauguration-day-ad-for-law-firm.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/27/biden-brother-touts-relationship-with-president-in-inauguration-day-ad-for-law-firm.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 119
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106830957-1611770400900-gettyimages-127896922-620758500.jpeg?v=1612188525"
+        width: 3000
+        height: 2357
+        isCached: true
   - title: "New Biden rules for ICE point to fewer arrests and deportations, and a more restrained agency"
     excerpt: "The latest interim guidelines signal that people convicted of drunken driving, minor drug offenses, tax crimes will not be priorities for deportation."
     publishedDateTime: 2021-02-07T21:26:00Z
@@ -1068,16 +1084,16 @@ related:
         height: 675
         isCached: true
   - title: "US President Joe Biden and US Vice President Kamala Harris visit the Pentagon"
-    excerpt: "Chairman of the Joint Chiefs of Staff Mark Milley (R) and Secretary of Defense Lloyd Austin, tour the African Americans in Service Corridor at the Pentagon in Arlington, Virginia, on Wednesday February 10,"
+    excerpt: "Chairman of the Joint Chiefs of Staff Mark Milley and Secretary of Defense Lloyd Austin, tour the African Americans in Service Corridor at the Pentagon in Arlington, Virginia, on Wednesday February 10,"
     publishedDateTime: 2021-02-10T22:03:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/916dd0e9cdb6d76ce340b8817d259f78/US-President-Joe-Biden-and-US-Vice-President-Kamala-Harris-visit-the-Pentagon/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/9d91eea11b320aa95c9cb58194f8740f/US-President-Joe-Biden-and-US-Vice-President-Kamala-Harris-visit-the-Pentagon/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 67
     images:
-      - url: "https://cdnph.upi.com/pv/upi/916dd0e9cdb6d76ce340b8817d259f78/PENTAGON-BIDEN.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/9d91eea11b320aa95c9cb58194f8740f/PENTAGON-BIDEN.jpg"
         width: 650
         height: 433
         isCached: true
