@@ -111,21 +111,21 @@
       ]
     },
     {
-      "path": "_news/2021-02-12-live-updates-senate-must-convict-trump-to-ensure-no-future-president-incites-insurrection-democrats-say.md",
-      "title": "Live updates: Senate must convict Trump to ensure no future president incites insurrection, Democrats say",
-      "excerpt": "Day 3 of former President Donald Trump's second impeachment trial has begun. The Democratic impeachment managers will use up to eight hours to wrap up their case against the ex-pr",
+      "path": "_news/2021-02-12-impeachment-trial-mob-believed-they-were-acting-on-trumps-orders.md",
+      "title": "Impeachment trial: mob 'believed they were acting on Trump's orders'",
+      "excerpt": "Congresswoman Diana DeGette says ‘They came because he told them to’ as House managers prepare to conclude their case on Thursday",
       "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/02/11/trump-impeachment-trial-live-updates-day-3.html",
-      "originalUrl": "https://www.cnbc.com/2021/02/11/trump-impeachment-trial-live-updates-day-3.html",
+      "webUrl": "https://www.theguardian.com/us-news/2021/feb/11/trump-impeachment-trial-democrats-senate",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/feb/11/trump-impeachment-trial-democrats-senate",
       "featuredContent": null,
       "highlight": null,
-      "heat": 148,
+      "heat": 305,
       "tags": null,
       "images": [
         {
-          "url": "https://image.cnbcfm.com/api/v1/image/106839426-1613066740937-gettyimages-1231104598-brave_zvrabgh107.jpg?v=1613066758",
-          "width": 1582,
-          "height": 1024,
+          "url": "https://i.guim.co.uk/img/media/935212d9ed8090a7be59ca81594a98629f54dbc6/351_27_2333_1555/master/2333.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c4c555706827b8899c50162cd6bd996c",
+          "width": 600,
+          "height": 400,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -133,16 +133,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/02/11/trump-impeachment-trial-live-updates-day-3.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/02/11/trump-impeachment-trial-live-updates-day-3.html",
-      "publishedDateTime": "2021-02-11T10:45:00-08:00",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/feb/11/trump-impeachment-trial-democrats-senate",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/11/trump-impeachment-trial-democrats-senate",
+      "publishedDateTime": "2021-02-11T11:57:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
+        "name": "The Guardian",
+        "domain": "theguardian.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnbc.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -247,6 +247,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-democrats-use-trump-tweets-new-video-to-argue-full-scope-of-capitol-attack-at-impeachment-trial.md",
+      "title": "Democrats use Trump tweets, new video to argue \"full scope\" of Capitol attack at impeachment trial",
+      "excerpt": "House Democrats leading the prosecution of former President Trump wrapped up the second day of his impeachment trial on Wednesday by calling into question what Mr. Trump was doing while the Capitol was under attack on January 6.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/live-updates/trump-impeachment-trial-video-capitol-attack/",
+      "originalUrl": "https://www.cbsnews.com/live-updates/trump-impeachment-trial-video-capitol-attack/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/10/06393edd-f804-4a64-aa67-f5d55b0b10c2/thumbnail/1200x630/a11b24a137e8555dacc8b56a9297bbd6/screen-shot-2021-02-10-at-3-48-51-pm.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/live-updates/trump-impeachment-trial-video-capitol-attack/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/trump-impeachment-trial-video-capitol-attack/",
+      "publishedDateTime": "2021-02-11T04:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -433,110 +485,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-11-parental-warnings-harrowing-footage-takeaways-from-trumps-impeachment-trial.md",
-      "title": "Parental warnings, harrowing footage: Takeaways from Trump's impeachment trial",
-      "excerpt": "The U.S. Senate's impeachment trial gathered steam on Wednesday, with Democratic lawmakers laying out their evidence that former President Donald Trump incited an insurrection by exhorting thousands of supporters to march on the Capitol last month.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-trump-impeachment-takeaways-factb-idUSKBN2AA2LY",
-      "originalUrl": "https://www.reuters.com/article/us-usa-trump-impeachment-takeaways-factb-idUSKBN2AA2LY",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 361,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210211&t=2&i=1551118285&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH191SS",
-          "width": 968,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2AA2LY",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AA2LY",
-      "publishedDateTime": "2021-02-10T18:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-i-dont-want-to-come-back-as-trump-trial-opens-democrat-recalls-daughters-fear-during-riot.md",
-      "title": "'I don't want to come back:' As Trump trial opens, Democrat recalls daughter's fear during riot",
-      "excerpt": "U.S. House lead impeachment manager Rep. Jamie Raskin (D-MD) becomes emotional as he discusses his and his family's experiences inside the U.S. Capitol building during the siege on Jan. 6 and his daug",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/news/picture/i-dont-want-to-come-back-as-trump-trial-idUSKBN2A92YV",
-      "originalUrl": "https://www.reuters.com/news/picture/i-dont-want-to-come-back-as-trump-trial-idUSKBN2A92YV",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210210&t=2&i=1551085705&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEH181S5",
-          "width": 810,
-          "height": 455,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-10T16:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-02-11-video-of-capitol-riot-shown-at-trump-impeachment-trial-literally-took-my-breath-away-meghan-mccain.md",
       "title": "Video of Capitol riot shown at Trump impeachment trial 'literally took my breath away': Meghan McCain",
       "excerpt": "Conservative \"The View\" co-host Meghan McCain said Wednesday that video of last month's Capitol riot that was played at former President Donald Trump's impeachment trial \"literally took my breath away\".",
@@ -683,6 +631,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-10-explicit-language-in-footage-shown-at-trumps-impeachment-trial-forces-tv-networks-to-make-a-tough-choice.md",
+      "title": "Explicit language in footage shown at Trump's impeachment trial forces TV networks to make a 'tough choice'",
+      "excerpt": "At the start of Donald Trump’s second impeachment trial, TV’s biggest networks aired footage of the US Capitol siege with unusually explicit language.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/entertainment/tv/2021/02/10/trump-impeachment-explicit-language-forces-tv-make-tough-calls/4466103001/",
+      "originalUrl": "https://www.usatoday.com/story/entertainment/tv/2021/02/10/trump-impeachment-explicit-language-forces-tv-make-tough-calls/4466103001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/02/10/USAT/6cdd7c47-123b-40ec-b80f-aa099d402b22-VPC_TUESDAY_SENATE_IMPEACHMENT_WRAP_DESK.00_01_47_27.Still001.jpg?auto=webp&crop=1911,1075,x8,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4466103001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4466103001",
+      "publishedDateTime": "2021-02-10T04:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -916,6 +916,58 @@
       ]
     },
     {
+      "path": "_news/2021-02-09-sen-tim-kaine-says-his-censure-proposal-for-former-president-trump-is-still-a-live-option.md",
+      "title": "Sen. Tim Kaine says his censure proposal for former president Trump is still a ‘live option’",
+      "excerpt": "Sen. Tim Kaine says he’s worried that former president Donald Trump will be acquitted again, but he explained the censure he proposed is still a “live option.” “There has to be accountability for the actions of Jan.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/video/washington-post-live/wplive/sen-tim-kaine-says-his-censure-proposal-for-former-president-trump-is-still-a-live-option/2021/02/08/19b6ce3f-10ad-45da-af18-6ef6b5746211_video.html",
+      "originalUrl": "https://www.washingtonpost.com/video/washington-post-live/wplive/sen-tim-kaine-says-his-censure-proposal-for-former-president-trump-is-still-a-live-option/2021/02/08/19b6ce3f-10ad-45da-af18-6ef6b5746211_video.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/02-08-2021/t_74ebace138074479a8f8a981b0ec7849_name_Screen_Shot_2021_02_08_at_4_27_58_PM.png&w=1080",
+          "width": 1080,
+          "height": 719,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-08T16:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-09-ex-parler-ceo-said-he-didnt-want-the-platform-to-work-with-trump-because-the-president-might-have-bullied-employees-into-doing-what-he-wanted.md",
       "title": "Ex-Parler CEO said he didn't want the platform to work with Trump because the president might have 'bullied' employees into doing what he wanted",
       "excerpt": "The interview aired after BuzzFeed News reported that Parler had offered Trump a 40% stake in exchange for becoming his go-to social-media platform.",
@@ -976,7 +1028,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/live/2021/feb/08/donald-trump-impeachment-trial-senate-covid-coronavirus-joe-biden-live-updates?page=with:block-602169868f080f5eb75b712c",
       "featuredContent": null,
       "highlight": null,
-      "heat": 157,
+      "heat": 177,
       "tags": null,
       "images": [
         {
@@ -1077,6 +1129,58 @@
       ]
     },
     {
+      "path": "_news/2021-02-08-politics-live-updates-a-quick-trial-vs-witnesses-senate-weighs-strategy-on-trump-impeachment-proceedings.md",
+      "title": "Politics live updates - A quick trial vs. witnesses: Senate weighs strategy on Trump impeachment proceedings",
+      "excerpt": "Senators face key decisions on the contours of Trump's second impeachment trial, including the crucial question of whether to call witnesses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/02/08/politics-live-updates-senate-weighs-strategy-trump-impeachment-trial/4433392001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/02/08/politics-live-updates-senate-weighs-strategy-trump-impeachment-trial/4433392001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/01/09/USAT/6aa6963b-4d2b-4679-b15a-6477fc618042-AP21006679639042.jpg?auto=webp&crop=4305,2421,x722,y1081&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4433392001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4433392001",
+      "publishedDateTime": "2021-02-08T06:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-08-tampa-bay-bucs-are-super-bowl-champs-major-turnover-for-desantis-administration-parscale-urges-trump-to-run-again-as-martyr.md",
       "title": "Tampa Bay Bucs are Super Bowl champs — Major turnover for DeSantis administration — Parscale urges Trump to run again as 'martyr'",
       "excerpt": "The Tampa Bay Buccaneers won their second Super Bowl in franchise history, following a dominating performance on both sides of the ball. In the quarterback battle of the aging yet savvy veteran vs. the rising superstar,",
@@ -1142,7 +1246,7 @@
       "originalUrl": "https://www.newsweek.com/qanon-trump-hotel-washington-march-1567489",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -1246,7 +1350,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/feb/06/liz-cheney-censured-by-wyoming-republican-party-for-voting-to-impeach-trump",
       "featuredContent": null,
       "highlight": null,
-      "heat": 263,
+      "heat": 243,
       "tags": null,
       "images": [
         {
@@ -1350,7 +1454,7 @@
       "originalUrl": "https://www.cbsnews.com/news/pences-post-trump-administration-plans-take-shape/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 4150,
+      "heat": 4170,
       "tags": null,
       "images": [
         {
@@ -1479,110 +1583,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-06-fact-check-letter-thanking-president-trump-was-not-written-by-rush-limbaugh.md",
-      "title": "Fact check: Letter thanking President Trump was not written by Rush Limbaugh",
-      "excerpt": "Social media users have been sharing a letter online attributed to conservative radio personality Rush Limbaugh that thanks former President Donald J. Trump for the past four years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/uk-factcheck-letter-limbaugh-trump-idUSKBN2A51RD",
-      "originalUrl": "https://www.reuters.com/article/uk-factcheck-letter-limbaugh-trump-idUSKBN2A51RD",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210205&t=2&i=1550472840&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH14117",
-          "width": 818,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2A51RD",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A51RD",
-      "publishedDateTime": "2021-02-05T11:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-biden-set-to-accept-more-refugees-after-years-of-trump-restrictions.md",
-      "title": "Biden set to accept more refugees after years of Trump restrictions",
-      "excerpt": "U.S. President Joe Biden said on Thursday he plans to raise annual refugee admissions to 125,000 in the coming fiscal year, a more than eight-fold increase after former President Donald Trump slashed levels to historic lows.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-biden-refugees-order/biden-set-to-accept-more-refugees-after-years-of-trump-restrictions-idUSKBN2A42HN",
-      "originalUrl": "https://www.reuters.com/article/us-usa-biden-refugees-order/biden-set-to-accept-more-refugees-after-years-of-trump-restrictions-idUSKBN2A42HN",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1920,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210205&t=2&i=1550411081&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1406U",
-          "width": 818,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2A42HN",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A42HN",
-      "publishedDateTime": "2021-02-05T00:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

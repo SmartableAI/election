@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-06-fact-check-letter-thanking-president-trump-was-not-written-by-rush-limbaugh.md",
+      "title": "Fact check: Letter thanking President Trump was not written by Rush Limbaugh",
+      "excerpt": "Social media users have been sharing a letter online attributed to conservative radio personality Rush Limbaugh that thanks former President Donald J. Trump for the past four years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/uk-factcheck-letter-limbaugh-trump-idUSKBN2A51RD",
+      "originalUrl": "https://www.reuters.com/article/uk-factcheck-letter-limbaugh-trump-idUSKBN2A51RD",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210205&t=2&i=1550472840&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH14117",
+          "width": 818,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2A51RD",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A51RD",
+      "publishedDateTime": "2021-02-05T11:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-05-biden-set-to-accept-more-refugees-after-years-of-trump-restrictions.md",
+      "title": "Biden set to accept more refugees after years of Trump restrictions",
+      "excerpt": "U.S. President Joe Biden said on Thursday he plans to raise annual refugee admissions to 125,000 in the coming fiscal year, a more than eight-fold increase after former President Donald Trump slashed levels to historic lows.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-biden-refugees-order/biden-set-to-accept-more-refugees-after-years-of-trump-restrictions-idUSKBN2A42HN",
+      "originalUrl": "https://www.reuters.com/article/us-usa-biden-refugees-order/biden-set-to-accept-more-refugees-after-years-of-trump-restrictions-idUSKBN2A42HN",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1920,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210205&t=2&i=1550411081&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1406U",
+          "width": 818,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2A42HN",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A42HN",
+      "publishedDateTime": "2021-02-05T00:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-05-sen-ben-sasse-slams-nebraska-gop-committees-plans-to-censure-him-for-criticizing-trump.md",
       "title": "Sen. Ben Sasse slams Nebraska GOP committee’s plans to censure him for criticizing Trump",
       "excerpt": "Sasse is the latest Republican to face censure or the threat of it from a state or local GOP for not supporting Trump.",
@@ -114,7 +218,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/feb/04/smartmatic-sues-fox-rudy-giuliani-sidney-powell-election",
       "featuredContent": null,
       "highlight": null,
-      "heat": 311,
+      "heat": 331,
       "tags": null,
       "images": [
         {
@@ -212,6 +316,58 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-04-us-treasury-says-more-time-needed-to-decide-on-trump-tax-returns-bloomberg-news.md",
+      "title": "U.S. Treasury says more time needed to decide on Trump tax returns - Bloomberg News",
+      "excerpt": "The U.S. Treasury said it needs more time to decide whether to fight House Democrats in their effort to get former President Donald Trump's personal and business tax returns, Bloomberg News reported on Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-trump-taxes/u-s-treasury-says-more-time-needed-to-decide-on-trump-tax-returns-bloomberg-news-idUSKBN2A40H8",
+      "originalUrl": "https://www.reuters.com/article/us-usa-trump-taxes/u-s-treasury-says-more-time-needed-to-decide-on-trump-tax-returns-bloomberg-news-idUSKBN2A40H8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?m=02&d=20210204&t=2&i=1550269013&r=LYNXMPEH130A3&w=800",
+          "width": 800,
+          "height": 547,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-04T01:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -1251,7 +1407,7 @@
       "originalUrl": "https://www.newsweek.com/donald-trump-expects-impeachment-trial-badge-honor-rethinks-2024-run-1564677",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -1406,167 +1562,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-30-politico-reporter-trump-base-is-getting-stronger-since-he-left-office-impeachment-would-only-empower-him.md",
-      "title": "Politico reporter: Trump base is 'getting stronger' since he left office, impeachment would only empower him",
-      "excerpt": "Politico reporter Tara Palmeri suggested on Friday that President Trump may have more political clout among his supporters than the D.C. establishment and the mainstream media assumed he had since he left office.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/politico-tara-palmeri-trump-base-getting-stronger",
-      "originalUrl": "https://www.foxnews.com/media/politico-tara-palmeri-trump-base-getting-stronger",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Tara-Palmeri-GETTY-2.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/politico-tara-palmeri-trump-base-getting-stronger.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/politico-tara-palmeri-trump-base-getting-stronger.amp",
-      "publishedDateTime": "2021-01-29T18:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-30-new-georgia-runoffs-data-finds-that-more-black-voters-than-usual-came-out-trump-voters-stayed-home.md",
-      "title": "New Georgia runoffs data finds that more Black voters than usual came out. Trump voters stayed home.",
-      "excerpt": "Our analysis finds two notable patterns that could account for the wins: high turnout among Black voters and low turnout in the predominantly White and rural precincts that had supported incumbent President Donald Trump — where voters were more likely to believe Trump’s baseless allegations of electoral fraud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2021/01/29/new-georgia-runoffs-data-finds-that-more-black-voters-than-usual-came-out-trump-voters-stayed-home/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2021/01/29/new-georgia-runoffs-data-finds-that-more-black-voters-than-usual-came-out-trump-voters-stayed-home/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2ESU4GC3RQI6XKCJN6KCHJ277U.jpg&w=1440",
-          "width": 1440,
-          "height": 936,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/01/29/new-georgia-runoffs-data-finds-that-more-black-voters-than-usual-came-out-trump-voters-stayed-home/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/29/new-georgia-runoffs-data-finds-that-more-black-voters-than-usual-came-out-trump-voters-stayed-home/?outputType=amp",
-      "publishedDateTime": "2021-01-29T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-the-perfect-target-russia-cultivated-trump-as-asset-for-40-years-ex-kgb-spy.md",
-      "title": "‘The perfect target’: Russia cultivated Trump as asset for 40 years – ex-KGB spy",
-      "excerpt": "The KGB ‘played the game as if they were immensely impressed by his personality’, Yuri Shvets, a key source for a new book, tells the Guardian",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jan/29/trump-russia-asset-claims-former-kgb-spy-new-book",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jan/29/trump-russia-asset-claims-former-kgb-spy-new-book",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/7053743fe13e652fe4d75758b94a846af0f8b57f/0_292_4500_2700/master/4500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=951abe3bec7ba0b1b9e5eb33985c7672",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jan/29/trump-russia-asset-claims-former-kgb-spy-new-book",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/29/trump-russia-asset-claims-former-kgb-spy-new-book",
-      "publishedDateTime": "2021-01-29T03:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/dem-impeachment-managers-trump-lawy
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dem-impeachment-managers-trump-lawyers-first-amendment.amp"
 type: article
 quality: 161
-heat: 201
+heat: 221
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/68d1bea9-00de-4ea6-9ed2-ecec7e6ca8c1/af87bdba-c1d7-4788-8577-5cdd7f2e87a2/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Raskin: Trump 'Like the Fire Chief Who Sends the Mob'"
+    excerpt: "Maryland Rep. Jamie Raskin, the lead impeachment manager, countered arguments made by Donald Trump's attorneys that the former president's words in the lead-up to the Jan. 6 assault on the Capitol qualify as protected speech."
+    publishedDateTime: 2021-02-12T02:04:00Z
+    webUrl: "https://www.wsj.com/livecoverage/trump-second-impeachment-trial-2021-02-11/card/qrR4NJ5q0obo6LnUrbih"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 115
+    images:
+      - url: "https://images.wsj.net/im-298259?size=1.5"
+        width: 1280
+        height: 853
         isCached: true
 
 secured: "66qd5kWJ+vjr26ZakzU4iLF+Nntv9V/zcX8re9ortl6qsvSHcHqqFyhZAhL9yW5Qu2dTWEnJEypLdH2G0K8u52mJKnN8MEuIlVpRwXnPO9u85WTPHVPb8xOsIsRAkP2N+NLscz/ZIHJdgPNC/1g5zH0gjXoyS4Wcf0adThhPHm/Z2IrQnKy7TUPQRiC6WAB3L+KiYNry5obeQ79VkOKm7UhJngifyC4tQiGte5aSIULHRgCzsL4LS44ivM3vgU2oRvQR+kebMkofkS+ICrGaf0AVC2ZaJiAmeU1Jv1xMMG7qvpueCK8Zn8O7J6V2YhmPX9e1mu5FfLegHozmtlG9GDS/e6NwYTVsRFdFNR+o0+w=;zj/UuSiWPiywIbvHlQ+ezA=="

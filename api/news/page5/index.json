@@ -2,6 +2,114 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-02-07-liz-cheney-censured-by-wyoming-republican-party-for-voting-to-impeach-trump.md",
+      "title": "Liz Cheney censured by Wyoming Republican party for voting to impeach Trump",
+      "excerpt": "Cheney, the third ranking member of the House Republican leadership, was censured in a vote Saturday by her state’s Republican party",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/feb/06/liz-cheney-censured-by-wyoming-republican-party-for-voting-to-impeach-trump",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/feb/06/liz-cheney-censured-by-wyoming-republican-party-for-voting-to-impeach-trump",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 243,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/7ad5429ff5a0055cef8af2fe8a17aae778dfa887/0_40_4775_2866/master/4775.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=da3e5b5ded9ac0ca87fea35415042fc0",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/feb/06/liz-cheney-censured-by-wyoming-republican-party-for-voting-to-impeach-trump",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/06/liz-cheney-censured-by-wyoming-republican-party-for-voting-to-impeach-trump",
+      "publishedDateTime": "2021-02-06T15:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-06-ivanka-trumps-political-re-emergence-would-likely-center-on-criminal-justice-reform-work-report.md",
+      "title": "Ivanka Trump’s political re-emergence would likely center on criminal justice reform work: report",
+      "excerpt": "Ivanka Trump helped to secure pardons and commutations for over 140 in her father’s final days in office, and could champion criminal justice reform in a new foray into politics. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/X-u0thTVIaA/ivanka-trumps-likely-political-reemergence-would-center-on-criminal-justice-reform-work-report",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/X-u0thTVIaA/ivanka-trumps-likely-political-reemergence-would-center-on-criminal-justice-reform-work-report",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/Ivanka-resize-.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ivanka-trumps-likely-political-reemergence-would-center-on-criminal-justice-reform-work-report.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ivanka-trumps-likely-political-reemergence-would-center-on-criminal-justice-reform-work-report.amp",
+      "publishedDateTime": "2021-02-06T12:30:05-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-07-biden-gives-calif-woman-pep-talk-in-weekly-address-revival.md",
       "title": "Biden gives Calif. woman pep talk in weekly address revival",
       "excerpt": "President Joe Biden has given a pep talk to a California woman who was laid off because of the coronavirus pandemic",
@@ -10,7 +118,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-calif-woman-pep-talk-weekly-address-revival-75728273",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 245,
       "tags": null,
       "images": [
         {
@@ -387,7 +495,7 @@
       "originalUrl": "https://www.cbsnews.com/news/pences-post-trump-administration-plans-take-shape/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 4150,
+      "heat": 4170,
       "tags": null,
       "images": [
         {
@@ -1239,115 +1347,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-sen-ben-sasse-slams-nebraska-gop-committees-plans-to-censure-him-for-criticizing-trump.md",
-      "title": "Sen. Ben Sasse slams Nebraska GOP committee’s plans to censure him for criticizing Trump",
-      "excerpt": "Sasse is the latest Republican to face censure or the threat of it from a state or local GOP for not supporting Trump.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2021/02/04/sen-ben-sasse-slams-nebraska-gop-committees-plans-censure-him-criticizing-trump/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2021/02/04/sen-ben-sasse-slams-nebraska-gop-committees-plans-censure-him-criticizing-trump/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/02-05-2021/t_614a1cd1b1b745d68f196cbf3dc03d83_name_Screen_Shot_2021_02_04_at_8_10_53_PM_scaled.jpg&w=1440",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/02/04/sen-ben-sasse-slams-nebraska-gop-committees-plans-censure-him-criticizing-trump/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/02/04/sen-ben-sasse-slams-nebraska-gop-committees-plans-censure-him-criticizing-trump/?outputType=amp",
-      "publishedDateTime": "2021-02-04T20:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-biden-to-call-for-protecting-lgbtq-rights-globally-in-memo.md",
-      "title": "Biden to call for protecting LGBTQ rights globally in memo",
-      "excerpt": "It reflects his deep commitment to these issues both here in the United States and everywhere around the world,\" national security adviser Jake Sullivan said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/feature/nbc-out/biden-call-protecting-lgbtq-rights-globally-memo-n1256792",
-      "originalUrl": "https://www.nbcnews.com/feature/nbc-out/biden-call-protecting-lgbtq-rights-globally-memo-n1256792",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2021_05/3447736/210204-lgbtq-supreme-court-jm-1642_5c78556d3c8be10a4f7294ac3d23f414.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1256792",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1256792",
-      "publishedDateTime": "2021-02-04T20:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     }
   ],

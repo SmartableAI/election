@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Impeachment trial: mob 'believed they were acting on Trump's orders'"
+    excerpt: "Congresswoman Diana DeGette says ‘They came because he told them to’ as House managers prepare to conclude their case on Thursday"
+    publishedDateTime: 2021-02-11T19:57:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/feb/11/trump-impeachment-trial-democrats-senate"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/11/trump-impeachment-trial-democrats-senate"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/11/trump-impeachment-trial-democrats-senate"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/935212d9ed8090a7be59ca81594a98629f54dbc6/351_27_2333_1555/master/2333.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c4c555706827b8899c50162cd6bd996c"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Parental warnings, harrowing footage: Takeaways from Trump's impeachment trial"
     excerpt: "The U.S. Senate's impeachment trial gathered steam on Wednesday, with Democratic lawmakers laying out their evidence that former President Donald Trump incited an insurrection by exhorting thousands of supporters to march on the Capitol last month."
     publishedDateTime: 2021-02-11T02:36:00Z
@@ -46,22 +62,6 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210211&t=2&i=1551118285&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH191SS"
         width: 968
         height: 545
-        isCached: true
-  - title: "Trump impeachment: Senate to hear prosecution arguments against former president – live"
-    excerpt: "Senate convenes at noon for impeachment managers to lay out argument to convict Donald Trump of ‘incitement of insurrection’"
-    publishedDateTime: 2021-02-10T11:17:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/10/donald-trump-impeachment-senate-trial-live-news-updates"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/10/donald-trump-impeachment-senate-trial-live-news-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/10/donald-trump-impeachment-senate-trial-live-news-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 117
-    images:
-      - url: "https://i.guim.co.uk/img/media/7d3e06af8edce2c72744e22eed1328dd95be3b46/0_0_3500_2334/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7a954cf6bba0111e0635cae7cace422e"
-        width: 600
-        height: 400
         isCached: true
   - title: "In self-imposed exile, Trump watches with unhappiness as second impeachment trial unfolds"
     excerpt: "Trump has remained sanguine that an evenly divided Senate will acquit him, while one person described him as “bored out of his mind” in Florida."
@@ -95,69 +95,37 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Matt Gaetz Would Resign to Defend Donald Trump in Impeachment Trial—If The Ex-President Asked"
-    excerpt: "\"If the president called me and wanted me to go defend him on the floor of the Senate, that would be the top priority in my life,\" Gaetz told Steve Bannon during a podcast appearance."
-    publishedDateTime: 2021-02-03T18:56:00Z
-    webUrl: "https://www.newsweek.com/matt-gaetz-would-resign-defend-donald-trump-impeachment-trialif-ex-president-asked-1566610"
-    ampWebUrl: "https://www.newsweek.com/matt-gaetz-would-resign-defend-donald-trump-impeachment-trialif-ex-president-asked-1566610?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/matt-gaetz-would-resign-defend-donald-trump-impeachment-trialif-ex-president-asked-1566610?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 114
-    images:
-      - url: "https://d.newsweek.com/en/full/1724301/matt-gaetz-rally-against-liz-cheney.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Democrats use Trump tweets, new video to argue \"full scope\" of Capitol attack at impeachment trial"
-    excerpt: "House Democrats leading the prosecution of former President Trump wrapped up the second day of his impeachment trial on Wednesday by calling into question what Mr. Trump was doing while the Capitol was under attack on January 6."
-    publishedDateTime: 2021-02-11T12:12:00Z
-    webUrl: "https://www.cbsnews.com/live-updates/trump-impeachment-trial-video-capitol-attack/"
-    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/trump-impeachment-trial-video-capitol-attack/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/trump-impeachment-trial-video-capitol-attack/"
+  - title: "Live Updates: Democrats to show unseen footage of Capitol attack on Day 2 of Trump impeachment trial"
+    excerpt: "House impeachment managers plan to use \"extraordinary\" footage from Capitol security cameras that has not been made public, aides said."
+    publishedDateTime: 2021-02-10T16:28:00Z
+    webUrl: "https://www.cbsnews.com/live-updates/trump-impeachment-trial-day-2-2021-02-10/"
+    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/trump-impeachment-trial-day-2-2021-02-10/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/trump-impeachment-trial-day-2-2021-02-10/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 111
+    quality: 110
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/10/06393edd-f804-4a64-aa67-f5d55b0b10c2/thumbnail/1200x630/a11b24a137e8555dacc8b56a9297bbd6/screen-shot-2021-02-10-at-3-48-51-pm.png"
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/02/09/8782f873-40aa-4718-8fb7-79346c72244b/thumbnail/1200x630/444c7b65c03aae5ae32aab252686dc41/gettyimages-1231064604.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Explicit language in footage shown at Trump's impeachment trial forces TV networks to make a 'tough choice'"
-    excerpt: "At the start of Donald Trump’s second impeachment trial, TV’s biggest networks aired footage of the US Capitol siege with unusually explicit language."
-    publishedDateTime: 2021-02-10T12:35:00Z
-    webUrl: "https://www.usatoday.com/story/entertainment/tv/2021/02/10/trump-impeachment-explicit-language-forces-tv-make-tough-calls/4466103001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4466103001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4466103001"
+  - title: "House Democrats conclude Trump impeachment case, warning of potential violence if Republicans refuse to convict"
+    excerpt: "The impeachment managers linked the former president’s long effort to undermine the election with statements of insurrectionists who stormed the Capitol on Jan. 6."
+    publishedDateTime: 2021-02-12T00:51:00Z
+    webUrl: "https://www.washingtonpost.com/politics/senate-impeachment-trial-trump/2021/02/11/33229f7e-6c88-11eb-9f80-3d7646ce1bc0_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/senate-impeachment-trial-trump/2021/02/11/33229f7e-6c88-11eb-9f80-3d7646ce1bc0_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/senate-impeachment-trial-trump/2021/02/11/33229f7e-6c88-11eb-9f80-3d7646ce1bc0_story.html?outputType=amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 107
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/02/10/USAT/6cdd7c47-123b-40ec-b80f-aa099d402b22-VPC_TUESDAY_SENATE_IMPEACHMENT_WRAP_DESK.00_01_47_27.Still001.jpg?auto=webp&crop=1911,1075,x8,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Politics live updates - A quick trial vs. witnesses: Senate weighs strategy on Trump impeachment proceedings"
-    excerpt: "Senators face key decisions on the contours of Trump's second impeachment trial, including the crucial question of whether to call witnesses."
-    publishedDateTime: 2021-02-08T14:35:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/08/politics-live-updates-senate-weighs-strategy-trump-impeachment-trial/4433392001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4433392001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4433392001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 106
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/09/USAT/6aa6963b-4d2b-4679-b15a-6477fc618042-AP21006679639042.jpg?auto=webp&crop=4305,2421,x722,y1081&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ELTAZ2TMXII6XJTO4JYEN2PITA.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Majority of Americans say Trump should be convicted, barred from holding federal office in impeachment trial: POLL"
     excerpt: "In a new ABC News/Ipsos poll, a majority of Americans support the Senate convicting former President Trump in his second impeachment trial, but the partisan gap persists."
@@ -202,17 +170,6 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 86
-  - title: "Trump Accused as 'Inciter in Chief' of Capitol Insurrection"
-    excerpt: "Prosecutors in Donald Trump’s impeachment trial are arguing that he was no “innocent bystander” but the “inciter in chief” of last month's deadly attack at the Capitol."
-    publishedDateTime: 2021-02-10T22:08:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-02-10/senators-to-hear-opening-arguments-as-trump-fumes-over-trial"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-10/senators-to-hear-opening-arguments-as-trump-fumes-over-trial?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-10/senators-to-hear-opening-arguments-as-trump-fumes-over-trial?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "yDsyBKfLR2e2QjcD62Gn3Z2wYomLnbD8i3nE+nSlzBDXxxkGlueddQYQJITvp4UATLf3ZbEr6l0Peza6muLhP7Kh4FYCuQ64DCWxvQsAjbhQxGqqblgKtGi7fYsVfCZ5yWWsfnw2+nsopDJDyoqReeH9zTBJ8nrgSW/7n3OobfRYqeRPRwR8S6mHqhzHjfCtwVT4U3vs72rsok+/AbcbptvrRLKkVH64ovUu1Y+za4a5b3Rn4q8Vju9vkQWXl2tu7NhuOdivrBud2R95M6+W9ywd+12Z5LUf9WzJzbaKTcG6GXufJBt2MzYyosER89VhM4P0tiOQk8nUYc6AVQkgs7E84xGAH1ka/ag/BOuXj2g=;Oe4w9rMv2urOJPETnzi1MQ=="
 ---

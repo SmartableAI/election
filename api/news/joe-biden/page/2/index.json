@@ -2,63 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-02-03-she-was-stunned-by-bidens-inauguration-how-this-south-carolina-mom-escaped-qanon.md",
-      "title": "She was stunned by Biden's inauguration. How this South Carolina mom escaped QAnon",
-      "excerpt": "She was terrified that she would have to go into hiding with her daughter. Many QAnon believers have clear political motives, but Vanderbilt says she is a passive participant in politics. \"I've always been someone that you just tell me what to do and I do it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2021/02/03/tech/qanon-mom-former-believer/index.html",
-      "originalUrl": "https://www.cnn.com/2021/02/03/tech/qanon-mom-former-believer/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210202185142-former-qanon-believer-ashley-3-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/03/tech/qanon-mom-former-believer/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/03/tech/qanon-mom-former-believer/index.html",
-      "publishedDateTime": "2021-02-02T23:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-02-02-joe-biden-threatens-sanctions-following-myanmar-coup-says-us-will-stand-up-for-democracy.md",
       "title": "Joe Biden Threatens Sanctions Following Myanmar Coup, Says U.S. Will 'Stand Up For Democracy'",
       "excerpt": "\"In a democracy, force should never seek to overrule the will of the people or attempt to erase the outcome of a credible election,\" the president said in his first statement on the issue.",
@@ -1561,6 +1504,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-01-22-biden-order-seeks-stronger-workplace-safety-rules-signaling-a-more-worker-friendly-approach.md",
+      "title": "Biden order seeks stronger workplace safety rules, signaling a more worker friendly approach",
+      "excerpt": "The Executive Order could lead to an emergency standard for businesses — a set of a regulations they would have to comply with, like mask-wearing, that advocates say is necessary to combat the pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/business/2021/01/21/biden-executive-order-osha-safety/",
+      "originalUrl": "https://www.washingtonpost.com/business/2021/01/21/biden-executive-order-osha-safety/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KLXVVQCAZ4I6XNMLCYR7MJTZMA.jpg&w=1440",
+          "width": 1440,
+          "height": 1001,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/business/2021/01/21/biden-executive-order-osha-safety/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/01/21/biden-executive-order-osha-safety/?outputType=amp",
+      "publishedDateTime": "2021-01-21T14:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

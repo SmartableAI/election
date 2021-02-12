@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-calif-woman-pep-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-calif-woman-pep-talk-weekly-address-revival-75728273"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/01f22aa063b18ea0226a68234c943a39bb9b373d/0_99_4800_2880/master/4800.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=82c4ed390b0019c05fd641a7b8a8f7ab"
         width: 600
         height: 360
+        isCached: true
+  - title: "Fact check: False claim that President Joe Biden signed executive order legalizing incest"
+    excerpt: "An Instagram post from a parody account claims President Joe Biden signed an executive order legalizing incest. That's false."
+    publishedDateTime: 2021-02-12T01:02:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2021/02/11/fact-check-president-joe-biden-didnt-sign-executive-order-incest/6719826002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6719826002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6719826002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/05/USAT/89c66598-51ef-4fa4-bf50-b772e193cd63-Alejandro_Mayorkas_03.JPG?auto=webp&crop=3599,2024,x1,y130&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Biden taps Julie Su, top Calif. labor official, for deputy labor secretary"
     excerpt: "President Joe Biden on Wednesday nominated Julie Su, the secretary of California's Labor and Workforce Development Agency, for the number-two spot at the U.S. Department of Labor, amid criticism by some Republicans and business groups of her oversight of the state's"

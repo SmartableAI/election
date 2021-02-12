@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-02-05-sen-ben-sasse-slams-nebraska-gop-committees-plans-to-censure-him-for-criticizing-trump.md",
+      "title": "Sen. Ben Sasse slams Nebraska GOP committee’s plans to censure him for criticizing Trump",
+      "excerpt": "Sasse is the latest Republican to face censure or the threat of it from a state or local GOP for not supporting Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2021/02/04/sen-ben-sasse-slams-nebraska-gop-committees-plans-censure-him-criticizing-trump/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2021/02/04/sen-ben-sasse-slams-nebraska-gop-committees-plans-censure-him-criticizing-trump/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/02-05-2021/t_614a1cd1b1b745d68f196cbf3dc03d83_name_Screen_Shot_2021_02_04_at_8_10_53_PM_scaled.jpg&w=1440",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/02/04/sen-ben-sasse-slams-nebraska-gop-committees-plans-censure-him-criticizing-trump/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/02/04/sen-ben-sasse-slams-nebraska-gop-committees-plans-censure-him-criticizing-trump/?outputType=amp",
+      "publishedDateTime": "2021-02-04T20:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-05-chief-of-staff-white-house-hopes-to-revive-trump-plan-to-mail-masks-to-americans.md",
       "title": "Chief of staff: White House hopes to revive Trump plan to mail masks to Americans",
       "excerpt": "The Biden administration is hoping to resurrect a proposal from the Trump administration to mail face masks to every American in an attempt to stop the spread of Covid-19, White House chief of staff Ron Klain said Thursday.\n    \n",
@@ -232,7 +284,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/feb/04/smartmatic-sues-fox-rudy-giuliani-sidney-powell-election",
       "featuredContent": null,
       "highlight": null,
-      "heat": 311,
+      "heat": 331,
       "tags": null,
       "images": [
         {
@@ -822,6 +874,58 @@
       ]
     },
     {
+      "path": "_news/2021-02-04-us-treasury-says-more-time-needed-to-decide-on-trump-tax-returns-bloomberg-news.md",
+      "title": "U.S. Treasury says more time needed to decide on Trump tax returns - Bloomberg News",
+      "excerpt": "The U.S. Treasury said it needs more time to decide whether to fight House Democrats in their effort to get former President Donald Trump's personal and business tax returns, Bloomberg News reported on Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-trump-taxes/u-s-treasury-says-more-time-needed-to-decide-on-trump-tax-returns-bloomberg-news-idUSKBN2A40H8",
+      "originalUrl": "https://www.reuters.com/article/us-usa-trump-taxes/u-s-treasury-says-more-time-needed-to-decide-on-trump-tax-returns-bloomberg-news-idUSKBN2A40H8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?m=02&d=20210204&t=2&i=1550269013&r=LYNXMPEH130A3&w=800",
+          "width": 800,
+          "height": 547,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-04T01:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-04-maxine-waters-says-trump-should-be-charged-with-premeditated-murder.md",
       "title": "Maxine Waters says Trump should be charged with 'premeditated murder'",
       "excerpt": "Democratic Rep. Maxine Waters of California Tuesday said she thinks former President Donald Trump should be charged with \"premeditated murder\" over the deadly riots at the U.S. Capitol on Jan. 6.",
@@ -975,6 +1079,63 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-04-in-bidens-white-house-surprise-visits-with-staff-replace-late-night-tweets-and-unscheduled-phone-calls.md",
+      "title": "In Biden's White House, surprise visits with staff replace late night tweets and unscheduled phone calls",
+      "excerpt": "Trump preferred seemingly aimless days at the White House. Biden has a carefully crafted schedule, but the pandemic has curbed his facetime with people.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2021/02/03/biden-white-house-interactions-465450",
+      "originalUrl": "https://www.politico.com/news/2021/02/03/biden-white-house-interactions-465450",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/22/18/bcd1a54d4885ae18c2b9abd242b3/210203-joe-biden-getty-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-03T16:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
       ]
     },
     {
@@ -1178,170 +1339,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-psakis-resurfaced-tweets-slam-trump-sanders-supporters-severely-undercutting-unity-message.md",
-      "title": "Psaki's resurfaced tweets slam Trump, Sanders supporters, severely undercutting 'unity' message",
-      "excerpt": "President Biden often invoked a message of national unity on the 2020 campaign trail and since taking office last month – but did his top spokesperson get the message?",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/s3ELqsc4c-I/psakis-resurfaced-tweets-trump-sanders-unity-message",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/s3ELqsc4c-I/psakis-resurfaced-tweets-trump-sanders-unity-message",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 183,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21034688188622-e1612386247366.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/psakis-resurfaced-tweets-trump-sanders-unity-message.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psakis-resurfaced-tweets-trump-sanders-unity-message.amp",
-      "publishedDateTime": "2021-02-03T13:44:15-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-iranian-resistance-leader-says-regime-at-its-weakest-point-urges-biden-to-hold-it-to-account.md",
-      "title": "Iranian resistance leader says regime 'at its weakest point,' urges Biden to hold it to account",
-      "excerpt": "EXCLUSIVE: The leader of the main Iranian resistance group tells Fox News that the regime in Tehran is at its \"weakest point\" in its history, and is calling on the Biden administration to hold the regime accountable for its human rights violations.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MIfzpNIjg7Y/iranian-resistance-leader-regime-weakest-point-biden",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MIfzpNIjg7Y/iranian-resistance-leader-regime-weakest-point-biden",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c52d3d03-5b47-4b7b-a81a-36d41b8f487f/29abb516-f723-4a67-a993-03437bed65cf/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/iranian-resistance-leader-regime-weakest-point-biden.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/iranian-resistance-leader-regime-weakest-point-biden.amp",
-      "publishedDateTime": "2021-02-03T11:12:58-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-mitt-romney-points-out-gop-wasnt-concerned-about-debt-spending-massively-under-trump.md",
-      "title": "Mitt Romney Points Out GOP Wasn't Concerned About Debt, 'Spending Massively' Under Trump",
-      "excerpt": "The Utah Republican highlighted that under GOP leadership the U.S. was \"adding almost a trillion dollars a year to the national debt.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/mitt-romney-points-out-gop-wasnt-concerned-about-debt-spending-massively-under-trump-1566553",
-      "originalUrl": "https://www.newsweek.com/mitt-romney-points-out-gop-wasnt-concerned-about-debt-spending-massively-under-trump-1566553",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1724071/mitt-romney.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/mitt-romney-points-out-gop-wasnt-concerned-about-debt-spending-massively-under-trump-1566553?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mitt-romney-points-out-gop-wasnt-concerned-about-debt-spending-massively-under-trump-1566553?amp=1",
-      "publishedDateTime": "2021-02-03T08:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

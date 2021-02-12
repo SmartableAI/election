@@ -170,6 +170,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Democrats: Trump ‘Inflamed and Incited’ Capitol Riot"
+    excerpt: "Live analysis of the second impeachment trial of former President Donald Trump."
+    publishedDateTime: 2021-02-12T02:25:00Z
+    webUrl: "https://www.wsj.com/livecoverage/trump-second-impeachment-trial-2021-02-10"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 115
+    images:
+      - url: "https://images.wsj.net/im-297919/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Five can't-miss moments from Day Three as Democrats concluded their impeachment case against Trump"
     excerpt: "The prosecution's final day of arguments in the Trump impeachment trial drew to a close Thursday, with the defense set to take the stand on Friday and Saturday."
     publishedDateTime: 2021-02-11T23:44:00Z

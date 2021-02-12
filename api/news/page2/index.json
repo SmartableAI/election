@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-11-rep-nunes-republicans-could-possibly-face-pressure-to-impeach-biden-if-they-take-back-house-in-2022.md",
+      "title": "Rep. Nunes: Republicans could possibly face 'pressure' to impeach Biden if they take back House in 2022",
+      "excerpt": "California Rep. Devin Nunes, R-Calif., believes that Republicans might face pressure to impeach President Biden should the party gain control of the House in the 2022 midterms.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xlHLh_q5c6g/nunes-republicans-pressure-impeach-biden-house-2022",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xlHLh_q5c6g/nunes-republicans-pressure-impeach-biden-house-2022",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/devin-nunes.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/nunes-republicans-pressure-impeach-biden-house-2022.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nunes-republicans-pressure-impeach-biden-house-2022.amp",
+      "publishedDateTime": "2021-02-11T05:13:15-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-11-the-biden-administration-is-building-three-new-covid-19-vaccination-sites-in-texas-and-two-in-new-york-to-target-socially-vulnerable-communities.md",
       "title": "The Biden administration is building three new COVID-19 vaccination sites in Texas and two in New York to target socially vulnerable communities",
       "excerpt": "Five new COVID-19 vaccination sites will altogether be able to vaccinate 10,000 people in underserved communities in the US every day.",
@@ -51,6 +107,58 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-democrats-use-trump-tweets-new-video-to-argue-full-scope-of-capitol-attack-at-impeachment-trial.md",
+      "title": "Democrats use Trump tweets, new video to argue \"full scope\" of Capitol attack at impeachment trial",
+      "excerpt": "House Democrats leading the prosecution of former President Trump wrapped up the second day of his impeachment trial on Wednesday by calling into question what Mr. Trump was doing while the Capitol was under attack on January 6.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/live-updates/trump-impeachment-trial-video-capitol-attack/",
+      "originalUrl": "https://www.cbsnews.com/live-updates/trump-impeachment-trial-video-capitol-attack/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/10/06393edd-f804-4a64-aa67-f5d55b0b10c2/thumbnail/1200x630/a11b24a137e8555dacc8b56a9297bbd6/screen-shot-2021-02-10-at-3-48-51-pm.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/live-updates/trump-impeachment-trial-video-capitol-attack/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/trump-impeachment-trial-video-capitol-attack/",
+      "publishedDateTime": "2021-02-11T04:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -380,58 +488,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-11-parental-warnings-harrowing-footage-takeaways-from-trumps-impeachment-trial.md",
-      "title": "Parental warnings, harrowing footage: Takeaways from Trump's impeachment trial",
-      "excerpt": "The U.S. Senate's impeachment trial gathered steam on Wednesday, with Democratic lawmakers laying out their evidence that former President Donald Trump incited an insurrection by exhorting thousands of supporters to march on the Capitol last month.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-trump-impeachment-takeaways-factb-idUSKBN2AA2LY",
-      "originalUrl": "https://www.reuters.com/article/us-usa-trump-impeachment-takeaways-factb-idUSKBN2AA2LY",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 361,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210211&t=2&i=1551118285&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH191SS",
-          "width": 968,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2AA2LY",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AA2LY",
-      "publishedDateTime": "2021-02-10T18:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-02-11-capitol-rioters-attorney-says-client-was-misled-by-trump-acted-out-of-delusional-belief.md",
       "title": "Capitol rioter's attorney says client was misled by Trump, acted out of 'delusional belief'",
       "excerpt": "A Capitol rioter was acting out of the \"delusional belief\" that he was helping his country after being misled by former President Trump, the rioter's attorney argued in a motion filed Wednesday.",
@@ -485,58 +541,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-i-dont-want-to-come-back-as-trump-trial-opens-democrat-recalls-daughters-fear-during-riot.md",
-      "title": "'I don't want to come back:' As Trump trial opens, Democrat recalls daughter's fear during riot",
-      "excerpt": "U.S. House lead impeachment manager Rep. Jamie Raskin (D-MD) becomes emotional as he discusses his and his family's experiences inside the U.S. Capitol building during the siege on Jan. 6 and his daug",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/news/picture/i-dont-want-to-come-back-as-trump-trial-idUSKBN2A92YV",
-      "originalUrl": "https://www.reuters.com/news/picture/i-dont-want-to-come-back-as-trump-trial-idUSKBN2A92YV",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210210&t=2&i=1551085705&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEH181S5",
-          "width": 810,
-          "height": 455,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-10T16:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -608,7 +612,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 1042,
+      "heat": 1062,
       "tags": null,
       "images": [
         {
@@ -1035,63 +1039,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-11-biden-nominee-neera-tanden-describes-double-standards-shes-faced-as-a-woman-of-color.md",
-      "title": "Biden nominee Neera Tanden describes double standards she's faced as a woman of color",
-      "excerpt": "People's perceptions of leadership and who leaders are has not been, to this moment, an Asian American woman,\" Tanden told NBC Asian America.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/asian-america/biden-nominee-neera-tanden-describes-double-standards-she-s-faced-n1257341",
-      "originalUrl": "https://www.nbcnews.com/news/asian-america/biden-nominee-neera-tanden-describes-double-standards-she-s-faced-n1257341",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2021_06/3449175/210210-ONE-TIME-USE-neera-tanden-ew-334p_df6952b110feaac5c80fbf3994c9ebfc.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1257341",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1257341",
-      "publishedDateTime": "2021-02-10T13:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-02-11-biden-budget-nominee-absolutely-backs-us-minimum-wage-hike.md",
       "title": "Biden budget nominee 'absolutely' backs U.S. minimum wage hike",
       "excerpt": "Neera Tanden, Democratic President Joe Biden's nominee to head the U.S. Office of Management and Budget, told U.S. senators on Wednesday she would support raising the federal minimum wage, without giving a target for a higher rate.",
@@ -1342,6 +1289,62 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-great-respect-anthem-respects-peaceful-protest-psaki-says-mavericks.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-great-respect-anthem-respects-peaceful-protest-psaki-says-mavericks.amp",
       "publishedDateTime": "2021-02-10T11:50:01-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-10-fulton-county-prosecutors-launch-criminal-investigation-into-trump-phone-call-with-georgia-secretary-of-state.md",
+      "title": "Fulton County prosecutors launch criminal investigation into Trump phone call with Georgia secretary of state",
+      "excerpt": "Georgia prosecutors opened a criminal investigation into former President Trump's efforts to overturn the 2020 presidential election in the state, including his phone call with Georgia Secretary of State Brad Raffensperger in which Trump suggested the Republicans \"find\" enough votes to change the results.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VEGBregKm7g/fulton-county-prosecutors-criminal-investigation-trump-phone-call-georgia-secretary-of-state",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VEGBregKm7g/fulton-county-prosecutors-criminal-investigation-trump-phone-call-georgia-secretary-of-state",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/fulton-county-prosecutors-criminal-investigation-trump-phone-call-georgia-secretary-of-state.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fulton-county-prosecutors-criminal-investigation-trump-phone-call-georgia-secretary-of-state.amp",
+      "publishedDateTime": "2021-02-10T10:53:53-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

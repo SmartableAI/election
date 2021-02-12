@@ -2,62 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-02-10-fulton-county-prosecutors-launch-criminal-investigation-into-trump-phone-call-with-georgia-secretary-of-state.md",
-      "title": "Fulton County prosecutors launch criminal investigation into Trump phone call with Georgia secretary of state",
-      "excerpt": "Georgia prosecutors opened a criminal investigation into former President Trump's efforts to overturn the 2020 presidential election in the state, including his phone call with Georgia Secretary of State Brad Raffensperger in which Trump suggested the Republicans \"find\" enough votes to change the results.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VEGBregKm7g/fulton-county-prosecutors-criminal-investigation-trump-phone-call-georgia-secretary-of-state",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VEGBregKm7g/fulton-county-prosecutors-criminal-investigation-trump-phone-call-georgia-secretary-of-state",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/fulton-county-prosecutors-criminal-investigation-trump-phone-call-georgia-secretary-of-state.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fulton-county-prosecutors-criminal-investigation-trump-phone-call-georgia-secretary-of-state.amp",
-      "publishedDateTime": "2021-02-10T10:53:53-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-02-11-the-latest-rioters-hunted-vp-at-capitol-hang-mike-pence.md",
       "title": "The Latest: Rioters hunted VP at Capitol: 'Hang Mike Pence!'",
       "excerpt": "The Latest on former President Donald Trump's second Senate impeachment trial (all times local): Rioters at the Capitol were targeting former Vice President Mike Pence, who refused to help his boss, former President Donald Trump,",
@@ -374,6 +318,58 @@
       "topics": [
         "Election",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-10-explicit-language-in-footage-shown-at-trumps-impeachment-trial-forces-tv-networks-to-make-a-tough-choice.md",
+      "title": "Explicit language in footage shown at Trump's impeachment trial forces TV networks to make a 'tough choice'",
+      "excerpt": "At the start of Donald Trump’s second impeachment trial, TV’s biggest networks aired footage of the US Capitol siege with unusually explicit language.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/entertainment/tv/2021/02/10/trump-impeachment-explicit-language-forces-tv-make-tough-calls/4466103001/",
+      "originalUrl": "https://www.usatoday.com/story/entertainment/tv/2021/02/10/trump-impeachment-explicit-language-forces-tv-make-tough-calls/4466103001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/02/10/USAT/6cdd7c47-123b-40ec-b80f-aa099d402b22-VPC_TUESDAY_SENATE_IMPEACHMENT_WRAP_DESK.00_01_47_27.Still001.jpg?auto=webp&crop=1911,1075,x8,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4466103001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4466103001",
+      "publishedDateTime": "2021-02-10T04:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -1255,6 +1251,58 @@
       ]
     },
     {
+      "path": "_news/2021-02-09-sen-tim-kaine-says-his-censure-proposal-for-former-president-trump-is-still-a-live-option.md",
+      "title": "Sen. Tim Kaine says his censure proposal for former president Trump is still a ‘live option’",
+      "excerpt": "Sen. Tim Kaine says he’s worried that former president Donald Trump will be acquitted again, but he explained the censure he proposed is still a “live option.” “There has to be accountability for the actions of Jan.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/video/washington-post-live/wplive/sen-tim-kaine-says-his-censure-proposal-for-former-president-trump-is-still-a-live-option/2021/02/08/19b6ce3f-10ad-45da-af18-6ef6b5746211_video.html",
+      "originalUrl": "https://www.washingtonpost.com/video/washington-post-live/wplive/sen-tim-kaine-says-his-censure-proposal-for-former-president-trump-is-still-a-live-option/2021/02/08/19b6ce3f-10ad-45da-af18-6ef6b5746211_video.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/02-08-2021/t_74ebace138074479a8f8a981b0ec7849_name_Screen_Shot_2021_02_08_at_4_27_58_PM.png&w=1080",
+          "width": 1080,
+          "height": 719,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-08T16:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-08-the-point-how-trumpism-is-on-the-march-in-arkansas.md",
       "title": "The Point: How Trumpism is on the march in Arkansas",
       "excerpt": "On Tuesday, Arkansas Republican Lt. Gov. Tim Griffin abruptly ended his run to be the Natural State's next governor -- choosing instead to run for attorney general in the state next November.\n    \n",
@@ -1308,49 +1356,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-white-house-expects-lawmakers-coronavirus-aid-mark-up-will-track-closely-to-bidens-plan.md",
-      "title": "White House expects lawmakers' coronavirus aid \"mark up\" will track closely to Biden's plan",
-      "excerpt": "The White House expects the House of Representatives to track closely to President Joe Biden's coronavirus relief plan as it marks up its latest round of legislation to blunt the effects of the COVID-19 pandemic,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/health-coronavirus-usa-white-house/white-house-expects-lawmakers-coronavirus-aid-mark-up-will-track-closely-to-bidens-plan-idUSW1N2JA017",
-      "originalUrl": "https://www.reuters.com/article/health-coronavirus-usa-white-house/white-house-expects-lawmakers-coronavirus-aid-mark-up-will-track-closely-to-bidens-plan-idUSW1N2JA017",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2A822O",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A822O",
-      "publishedDateTime": "2021-02-08T14:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

@@ -656,6 +656,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "House Managers Rest Their Case Against Trump, but Most Republicans Are Not Swayed"
+    excerpt: "Their warning that the ex-president remains a danger to democracy and could foment still more violence if not barred from running for office again does not convince his fellow Republicans."
+    publishedDateTime: 2021-02-12T02:09:00Z
+    webUrl: "https://www.nytimes.com/2021/02/11/us/politics/trump-impeachment-trial.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/11/us/politics/trump-impeachment-trial.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/11/us/politics/trump-impeachment-trial.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 130
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/11/us/politics/11dc-impeach1/11dc-impeach1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trump is on trial for inciting an insurrection. What about the 12 people who spoke before him?"
     excerpt: "Rioters heard from others besides Trump on Jan. 6. As the former president confronts a Senate impeachment trial, 12 other notable “Stop the Steal” speakers have faced few, if any, consequences."
     publishedDateTime: 2021-02-10T09:36:00Z
@@ -715,6 +731,6 @@ related:
         height: 773
         isCached: true
 
-secured: "v9bn/wJ2etRmStzKhWZ8A/t4/JinLdpOmP/LSJbidmax6nvQbzvBd6jEneW7fAFswk5eNNn3nu3k58d2r8ntYOk1ibBwyHRud9xRTeMN29hqao/k5lTlDIcOkbaKq/dr2+W6ZVFPqayadyjBqFgCBhW7783wrMJF+lmiGJkxBNgCVpZFfNVazpofpwPzV8JW3fmzsqqkKWcWZDwKQfPxp0ti0TxLGS/TxUZ8ljHrzXr527u0JjxPqY6n3Zi2iYVvvyx3tu4Kepf0o/DG8HLkiUTLz/YMKq6nfihPZsge1523nm2riecF/1LJ+4OQ4Xv0j+So61jSVC4pC6L0zXvgOwOeX7o9aK99DXxv2u5zRLU=;b+runK4uj3waWgkgwBAU1A=="
+secured: "VTm/xRtO0Xstz9zTaP61zIILJxQOIhMbFcr3GB8daP0iN5ASV+Jr+YXUjNLEfKr0JGJU41j3qtLsDHGV7/1guLvx9cmlhLnmj03qjwq3+n1SCOeNvNEg9w7BhhLQfYznSqOMKSejVdrSDpXYKtskANKe2OHxiwarg3YhAsdAmoKgly/gqZHy4mdLVItrApt61gNfzzEebjV9BLVsTkSRcGz3+hZHK3dJKU6UhRT6nNNKC1/+q3ehVC4qY2eido7RulrkBi227o8hpQ8WSpY5QZr753+vOsYPiFs55UpFcr0W4C9q0t1+ZN6jepWZdVup0EFPf4rKlPVluQNdEbcuymNn5YoHUNfO3wUTFAFRYI1g8Pqhb2QES21oxHoYdsuWRiEziu8wwOjBvZH0bmIr17H+JgTkEV+6szKDBNc+QLU/qFKCN2gUVKZaQxwvUJnVpnJuvU0DVx8vVF3uJ8zm6XjT/J97AMbfkYAxDNO7WjLVWdZ/xuGbARh1oKLE/Htv+utFu7kpoixPLDxD2NUhBg==;q+xrC/S5euD4Xe8/h0KYMA=="
 ---
 

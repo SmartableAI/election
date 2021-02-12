@@ -8,7 +8,7 @@ webUrl: "https://www.newsweek.com/donald-trump-tweeted-attack-mike-pence-minutes
 ampWebUrl: "https://www.newsweek.com/donald-trump-tweeted-attack-mike-pence-minutes-capitol-rioters-1568568?amp=1"
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-tweeted-attack-mike-pence-minutes-capitol-rioters-1568568?amp=1"
 type: article
-quality: 128
+quality: 138
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Election
   - Mike Pence
+  - Donald Trump
 
 images:
   - url: "https://d.newsweek.com/en/full/1732364/pence.jpg"
@@ -1420,6 +1421,22 @@ related:
     quality: 124
     images:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210209&t=2&i=1550935763&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH180AC"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "If Senate does not convict Trump, 'he can do this again,' Democrats warn"
+    excerpt: "Democratic prosecutors making the case that Donald Trump incited a deadly insurrection by encouraging his supporters to march on the U.S. Capitol warned the Senate on Thursday that if it fails to convict the former president,"
+    publishedDateTime: 2021-02-12T02:08:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-idUSKBN2AB15F"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AB15F"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AB15F"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210211&t=2&i=1551209010&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1A1EN"
         width: 817
         height: 545
         isCached: true

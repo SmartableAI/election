@@ -2,6 +2,170 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-02-03-psakis-resurfaced-tweets-slam-trump-sanders-supporters-severely-undercutting-unity-message.md",
+      "title": "Psaki's resurfaced tweets slam Trump, Sanders supporters, severely undercutting 'unity' message",
+      "excerpt": "President Biden often invoked a message of national unity on the 2020 campaign trail and since taking office last month – but did his top spokesperson get the message?",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/s3ELqsc4c-I/psakis-resurfaced-tweets-trump-sanders-unity-message",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/s3ELqsc4c-I/psakis-resurfaced-tweets-trump-sanders-unity-message",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 183,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21034688188622-e1612386247366.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/psakis-resurfaced-tweets-trump-sanders-unity-message.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psakis-resurfaced-tweets-trump-sanders-unity-message.amp",
+      "publishedDateTime": "2021-02-03T13:44:15-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-03-iranian-resistance-leader-says-regime-at-its-weakest-point-urges-biden-to-hold-it-to-account.md",
+      "title": "Iranian resistance leader says regime 'at its weakest point,' urges Biden to hold it to account",
+      "excerpt": "EXCLUSIVE: The leader of the main Iranian resistance group tells Fox News that the regime in Tehran is at its \"weakest point\" in its history, and is calling on the Biden administration to hold the regime accountable for its human rights violations.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MIfzpNIjg7Y/iranian-resistance-leader-regime-weakest-point-biden",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MIfzpNIjg7Y/iranian-resistance-leader-regime-weakest-point-biden",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c52d3d03-5b47-4b7b-a81a-36d41b8f487f/29abb516-f723-4a67-a993-03437bed65cf/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/iranian-resistance-leader-regime-weakest-point-biden.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/iranian-resistance-leader-regime-weakest-point-biden.amp",
+      "publishedDateTime": "2021-02-03T11:12:58-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-04-mitt-romney-points-out-gop-wasnt-concerned-about-debt-spending-massively-under-trump.md",
+      "title": "Mitt Romney Points Out GOP Wasn't Concerned About Debt, 'Spending Massively' Under Trump",
+      "excerpt": "The Utah Republican highlighted that under GOP leadership the U.S. was \"adding almost a trillion dollars a year to the national debt.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/mitt-romney-points-out-gop-wasnt-concerned-about-debt-spending-massively-under-trump-1566553",
+      "originalUrl": "https://www.newsweek.com/mitt-romney-points-out-gop-wasnt-concerned-about-debt-spending-massively-under-trump-1566553",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1724071/mitt-romney.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/mitt-romney-points-out-gop-wasnt-concerned-about-debt-spending-massively-under-trump-1566553?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mitt-romney-points-out-gop-wasnt-concerned-about-debt-spending-massively-under-trump-1566553?amp=1",
+      "publishedDateTime": "2021-02-03T08:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-03-biden-harris-pay-respects-to-capitol-officer-killed-in-riot.md",
       "title": "Biden, Harris pay respects to Capitol officer killed in riot",
       "excerpt": "Vice President Kamala Harris and her husband, Doug Emhoff, have paid their respects to slain Capitol Police Officer Brian Sicknick as he lay in honor in the U.S. Capitol",
@@ -1163,174 +1327,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/02/politics/liz-cheney-republican-reaction-lindsey-graham/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/02/politics/liz-cheney-republican-reaction-lindsey-graham/index.html",
       "publishedDateTime": "2021-02-02T08:53:12-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-democrats-impeachment-filing-trump-threatened-the-constitutional-system.md",
-      "title": "Democrats' impeachment filing: Trump 'threatened the constitutional system'",
-      "excerpt": "The House impeachment managers argue former President Donald Trump should be convicted for inciting the insurrection at the Capitol last month and barred from holding future office, charging that his actions \"threatened the constitutional system that protects the fundamental freedoms we cherish.\"\n  ",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/f2KywfJxkLE/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/f2KywfJxkLE/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 293,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210125153359-01-raskin-jan-13-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/02/politics/democratic-impeachment-filing/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/02/politics/democratic-impeachment-filing/index.html",
-      "publishedDateTime": "2021-02-02T08:33:57-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-bidens-keystone-xl-pipeline-cancellation-is-gut-punch-to-small-businesses.md",
-      "title": "Biden's Keystone XL pipeline cancellation is gut punch to small businesses",
-      "excerpt": "While opponents of the long-controversial Keystone XL Pipeline cheered its cancellation by President Biden's administration, others like Nebraska truck driver Chris Olsen shook their heads in dismay.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MbFtZ-Zdamw/biden-keystone-xl-pipeline-cancellation-gut-punch-small-businesses",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MbFtZ-Zdamw/biden-keystone-xl-pipeline-cancellation-gut-punch-small-businesses",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 273,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Biden-keystone-XL.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-keystone-xl-pipeline-cancellation-gut-punch-small-businesses.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-keystone-xl-pipeline-cancellation-gut-punch-small-businesses.amp",
-      "publishedDateTime": "2021-02-02T08:20:02-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-biden-administration-designates-myanmar-military-takeover-as-a-coup.md",
-      "title": "Biden administration designates Myanmar military takeover as a coup",
-      "excerpt": "The Biden administration has formally determined that the military takeover in Myanmar constitutes a coup d'état, a designation that requires the US to cut its foreign assistance to the country.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UNF_PydGXyM/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UNF_PydGXyM/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 355,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210202085225-05-myanmar-coup-0202-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/02/politics/myanmar-state-department-coup-determination/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/02/politics/myanmar-state-department-coup-determination/index.html",
-      "publishedDateTime": "2021-02-02T08:15:20-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

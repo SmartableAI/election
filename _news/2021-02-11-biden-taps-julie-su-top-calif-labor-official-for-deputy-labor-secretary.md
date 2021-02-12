@@ -105,6 +105,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Fact check: False claim that President Joe Biden signed executive order legalizing incest"
+    excerpt: "An Instagram post from a parody account claims President Joe Biden signed an executive order legalizing incest. That's false."
+    publishedDateTime: 2021-02-12T01:02:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2021/02/11/fact-check-president-joe-biden-didnt-sign-executive-order-incest/6719826002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6719826002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6719826002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/05/USAT/89c66598-51ef-4fa4-bf50-b772e193cd63-Alejandro_Mayorkas_03.JPG?auto=webp&crop=3599,2024,x1,y130&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "NCwc2vHac9rqMMepnhihvT0ZRsZgSah9NxpPR3YkNhnQX3oehsla9T4xLOOXJD5SOuE7fi+0d187/4qk1henPdtmKG+nRChw9qpSxOyexSalPUuRFFov4ude2QuTj/EtJMg9tMAvpG/duMCeCFbXiXbUanedc15AKIIMsxvPpH4Tr/4SARPq/ccQq6DV85bsXVj6xSBI11Wd0+bEsQe5f/eEs7FYZC/4mtshd/ICq4kICpUNMmgBxogpWOr9zVxGmk0inSR5JJcalPkF2bcHME7aTAGVkU4b4Aw49TdWkIIJfEE0eEuQPwzmUfF+YTDfML6hcQmjWOri2iGbwfFLukulORA+1mUTBas5UywZV1g=;AS4gvgloEkUrxdtXFH9rJA=="
 ---

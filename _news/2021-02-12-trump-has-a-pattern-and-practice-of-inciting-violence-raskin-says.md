@@ -654,6 +654,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "House Managers Rest Their Case Against Trump, but Most Republicans Are Not Swayed"
+    excerpt: "Their warning that the ex-president remains a danger to democracy and could foment still more violence if not barred from running for office again does not convince his fellow Republicans."
+    publishedDateTime: 2021-02-12T02:09:00Z
+    webUrl: "https://www.nytimes.com/2021/02/11/us/politics/trump-impeachment-trial.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/11/us/politics/trump-impeachment-trial.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/11/us/politics/trump-impeachment-trial.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 130
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/11/us/politics/11dc-impeach1/11dc-impeach1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "If Convicting Trump Is Out of Reach, Managers Seek a Verdict From the Public and History"
     excerpt: "The House Democrats prosecuting former President Donald J. Trump may not win the Senate trial, but they are using it to make the searing images of havoc the inexpungible legacy of the his presidency."
     publishedDateTime: 2021-02-11T17:40:00Z

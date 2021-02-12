@@ -143,6 +143,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Donald Trump Tweeted Attack on Mike Pence Minutes After Hearing VP Was Fleeing Capitol Rioters"
+    excerpt: "Donald Trump was told \"they just took the vice president out\" by Sen. Tommy Tuberville shortly before the then-president posted about Mike Pence."
+    publishedDateTime: 2021-02-11T17:01:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-tweeted-attack-mike-pence-minutes-capitol-rioters-1568568"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-tweeted-attack-mike-pence-minutes-capitol-rioters-1568568?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-tweeted-attack-mike-pence-minutes-capitol-rioters-1568568?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 138
+    images:
+      - url: "https://d.newsweek.com/en/full/1732364/pence.jpg"
+        width: 2992
+        height: 2106
+        isCached: true
   - title: "Biden returns prayer breakfast to lofty tone after disruption of Trump years"
     excerpt: "Biden spoke at the National Prayer Breakfast on Thursday about unity and faith — a year after Trump, at the same event, brandished newspaper headlines and took shots at his adversaries."
     publishedDateTime: 2021-02-05T04:49:00Z
@@ -334,22 +350,6 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/02/10/a1cfd5bf-eb31-49b0-bc34-b2bc8230c056/thumbnail/1200x630/2ed8080ed20d71c447f13bbc8db5ca68/fani-willis.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Donald Trump Tweeted Attack on Mike Pence Minutes After Hearing VP Was Fleeing Capitol Rioters"
-    excerpt: "Donald Trump was told \"they just took the vice president out\" by Sen. Tommy Tuberville shortly before the then-president posted about Mike Pence."
-    publishedDateTime: 2021-02-11T17:01:00Z
-    webUrl: "https://www.newsweek.com/donald-trump-tweeted-attack-mike-pence-minutes-capitol-rioters-1568568"
-    ampWebUrl: "https://www.newsweek.com/donald-trump-tweeted-attack-mike-pence-minutes-capitol-rioters-1568568?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-tweeted-attack-mike-pence-minutes-capitol-rioters-1568568?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 128
-    images:
-      - url: "https://d.newsweek.com/en/full/1732364/pence.jpg"
-        width: 2992
-        height: 2106
         isCached: true
   - title: "Biden rescinds national emergency at U.S. southern border that allowed Trump to fund border wall"
     excerpt: "Biden informs Congress about rescinding the national emergency declaration on the U.S.-Mexico border that was put in place by Trump in February 2019."
@@ -1420,6 +1420,22 @@ related:
     quality: 124
     images:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210209&t=2&i=1550935763&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH180AC"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "If Senate does not convict Trump, 'he can do this again,' Democrats warn"
+    excerpt: "Democratic prosecutors making the case that Donald Trump incited a deadly insurrection by encouraging his supporters to march on the U.S. Capitol warned the Senate on Thursday that if it fails to convict the former president,"
+    publishedDateTime: 2021-02-12T02:08:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-idUSKBN2AB15F"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AB15F"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AB15F"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210211&t=2&i=1551209010&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1A1EN"
         width: 817
         height: 545
         isCached: true

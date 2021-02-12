@@ -362,63 +362,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-11-biden-nominee-neera-tanden-describes-double-standards-shes-faced-as-a-woman-of-color.md",
-      "title": "Biden nominee Neera Tanden describes double standards she's faced as a woman of color",
-      "excerpt": "People's perceptions of leadership and who leaders are has not been, to this moment, an Asian American woman,\" Tanden told NBC Asian America.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/asian-america/biden-nominee-neera-tanden-describes-double-standards-she-s-faced-n1257341",
-      "originalUrl": "https://www.nbcnews.com/news/asian-america/biden-nominee-neera-tanden-describes-double-standards-she-s-faced-n1257341",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2021_06/3449175/210210-ONE-TIME-USE-neera-tanden-ew-334p_df6952b110feaac5c80fbf3994c9ebfc.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1257341",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1257341",
-      "publishedDateTime": "2021-02-10T13:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-02-11-biden-budget-nominee-absolutely-backs-us-minimum-wage-hike.md",
       "title": "Biden budget nominee 'absolutely' backs U.S. minimum wage hike",
       "excerpt": "Neera Tanden, Democratic President Joe Biden's nominee to head the U.S. Office of Management and Budget, told U.S. senators on Wednesday she would support raising the federal minimum wage, without giving a target for a higher rate.",
@@ -792,7 +735,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-calif-woman-pep-talk-weekly-address-revival-75728273",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 245,
       "tags": null,
       "images": [
         {
@@ -1153,63 +1096,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-05-biden-to-call-for-protecting-lgbtq-rights-globally-in-memo.md",
-      "title": "Biden to call for protecting LGBTQ rights globally in memo",
-      "excerpt": "It reflects his deep commitment to these issues both here in the United States and everywhere around the world,\" national security adviser Jake Sullivan said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/feature/nbc-out/biden-call-protecting-lgbtq-rights-globally-memo-n1256792",
-      "originalUrl": "https://www.nbcnews.com/feature/nbc-out/biden-call-protecting-lgbtq-rights-globally-memo-n1256792",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2021_05/3447736/210204-lgbtq-supreme-court-jm-1642_5c78556d3c8be10a4f7294ac3d23f414.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1256792",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1256792",
-      "publishedDateTime": "2021-02-04T20:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-02-05-weve-learned-to-love-the-guy-how-biden-charmed-the-left.md",
       "title": "‘We’ve learned to love the guy:’ How Biden charmed the left",
       "excerpt": "It’s early, but progressive say they’re being included, heard and respected by the Biden White House. But rocky roads are still ahead.",
@@ -1359,6 +1245,63 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-02-04-in-bidens-white-house-surprise-visits-with-staff-replace-late-night-tweets-and-unscheduled-phone-calls.md",
+      "title": "In Biden's White House, surprise visits with staff replace late night tweets and unscheduled phone calls",
+      "excerpt": "Trump preferred seemingly aimless days at the White House. Biden has a carefully crafted schedule, but the pandemic has curbed his facetime with people.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2021/02/03/biden-white-house-interactions-465450",
+      "originalUrl": "https://www.politico.com/news/2021/02/03/biden-white-house-interactions-465450",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/22/18/bcd1a54d4885ae18c2b9abd242b3/210203-joe-biden-getty-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-03T16:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
       ]
     },
     {
@@ -1568,6 +1511,63 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-02-03-she-was-stunned-by-bidens-inauguration-how-this-south-carolina-mom-escaped-qanon.md",
+      "title": "She was stunned by Biden's inauguration. How this South Carolina mom escaped QAnon",
+      "excerpt": "She was terrified that she would have to go into hiding with her daughter. Many QAnon believers have clear political motives, but Vanderbilt says she is a passive participant in politics. \"I've always been someone that you just tell me what to do and I do it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2021/02/03/tech/qanon-mom-former-believer/index.html",
+      "originalUrl": "https://www.cnn.com/2021/02/03/tech/qanon-mom-former-believer/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210202185142-former-qanon-believer-ashley-3-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/03/tech/qanon-mom-former-believer/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/03/tech/qanon-mom-former-believer/index.html",
+      "publishedDateTime": "2021-02-02T23:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
       ]
     }
   ],

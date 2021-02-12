@@ -79,6 +79,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "HBO’s John Oliver says Trump was not good for late-night comedy"
+    excerpt: "During the past tumultuous year, John Oliver has served as comedic diversion, news beacon and improbable therapist for his HBO viewers. At a time when many late-night hosts have struggled to resonate with audiences,"
+    publishedDateTime: 2021-02-12T02:47:00Z
+    webUrl: "https://www.washingtonpost.com/business/2021/02/11/hbo-john-oliver-trump-comedy/"
+    ampWebUrl: "https://www.washingtonpost.com/business/2021/02/11/hbo-john-oliver-trump-comedy/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/02/11/hbo-john-oliver-trump-comedy/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NRM3D5GLLZGINILCR7OEZ6YDPY.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "L. Lin Wood spent months falsely claiming voter fraud cost Trump the election. Now Georgia is investigating whether he voted illegally."
     excerpt: "Conservative attorney L. Lin Wood faces an investigation in Georgia over whether he illegally voted in the Nov. 3 elections after buying a home in South Carolina."
     publishedDateTime: 2021-02-03T17:39:00Z

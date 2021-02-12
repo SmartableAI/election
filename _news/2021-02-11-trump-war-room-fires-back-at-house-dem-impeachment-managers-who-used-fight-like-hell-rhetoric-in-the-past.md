@@ -64,6 +64,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Raskin: Trump 'Like the Fire Chief Who Sends the Mob'"
+    excerpt: "Maryland Rep. Jamie Raskin, the lead impeachment manager, countered arguments made by Donald Trump's attorneys that the former president's words in the lead-up to the Jan. 6 assault on the Capitol qualify as protected speech."
+    publishedDateTime: 2021-02-12T02:04:00Z
+    webUrl: "https://www.wsj.com/livecoverage/trump-second-impeachment-trial-2021-02-11/card/qrR4NJ5q0obo6LnUrbih"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 115
+    images:
+      - url: "https://images.wsj.net/im-298259?size=1.5"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "KkS4jbjt7W3fxxiTkZ8Czr8x6W8IxZ/gMtuwklbrY5oSf9Owl10sVH9/OBNrl5VJ4yZSlJZvMk1Mi+3QjsO3ha5S3SAu7Nv3iRQDlPDbdmcVhXIf7yCg8I5YdRKNwTJBjvmC8xp4Ag+KDjZZkcErY23iDzidEotdwrma47GunWnUOgqBunOxbvSDpAJe7AvJBDIgR5kK5S+2fU9BVylHX2OaoNAtwXx+V827F7S/Ao+56kWJ9MVslhSOdCdsxN3rjgtOdUrXo9TT/dmFEhXyrIHFEpS+uG5KxKDTUll5qS1XAwfQs6oGKJVafTeaBthTYfiByBPnC84E7/E/g5N6DWyYmEeQQBxUhw0jqD1UU/I=;TSxH1RY8qcPYntLsKp/Rag=="
 ---

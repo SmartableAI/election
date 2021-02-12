@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-02-09-white-house-expects-lawmakers-coronavirus-aid-mark-up-will-track-closely-to-bidens-plan.md",
+      "title": "White House expects lawmakers' coronavirus aid \"mark up\" will track closely to Biden's plan",
+      "excerpt": "The White House expects the House of Representatives to track closely to President Joe Biden's coronavirus relief plan as it marks up its latest round of legislation to blunt the effects of the COVID-19 pandemic,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/health-coronavirus-usa-white-house/white-house-expects-lawmakers-coronavirus-aid-mark-up-will-track-closely-to-bidens-plan-idUSW1N2JA017",
+      "originalUrl": "https://www.reuters.com/article/health-coronavirus-usa-white-house/white-house-expects-lawmakers-coronavirus-aid-mark-up-will-track-closely-to-bidens-plan-idUSW1N2JA017",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2A822O",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A822O",
+      "publishedDateTime": "2021-02-08T14:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-02-08-liz-cheney-in-donald-trump-jrs-2022-crosshairs.md",
       "title": "Liz Cheney in Donald Trump Jr.’s 2022 crosshairs",
       "excerpt": "It’s a long way down the road, but it appears Donald Trump Jr.’s already making plans to travel to Wyoming next year to target Rep. Liz Cheney in the Republican primaries as she runs for re-election.",
@@ -118,7 +161,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/live/2021/feb/08/donald-trump-impeachment-trial-senate-covid-coronavirus-joe-biden-live-updates?page=with:block-602169868f080f5eb75b712c",
       "featuredContent": null,
       "highlight": null,
-      "heat": 157,
+      "heat": 177,
       "tags": null,
       "images": [
         {
@@ -557,6 +600,58 @@
       ]
     },
     {
+      "path": "_news/2021-02-08-politics-live-updates-a-quick-trial-vs-witnesses-senate-weighs-strategy-on-trump-impeachment-proceedings.md",
+      "title": "Politics live updates - A quick trial vs. witnesses: Senate weighs strategy on Trump impeachment proceedings",
+      "excerpt": "Senators face key decisions on the contours of Trump's second impeachment trial, including the crucial question of whether to call witnesses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/02/08/politics-live-updates-senate-weighs-strategy-trump-impeachment-trial/4433392001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/02/08/politics-live-updates-senate-weighs-strategy-trump-impeachment-trial/4433392001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/01/09/USAT/6aa6963b-4d2b-4679-b15a-6477fc618042-AP21006679639042.jpg?auto=webp&crop=4305,2421,x722,y1081&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4433392001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4433392001",
+      "publishedDateTime": "2021-02-08T06:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-08-trump-wh-sign-language-interpreter-says-biden-administration-canceled-and-humiliated-her.md",
       "title": "Trump WH sign-language interpreter says Biden administration 'canceled and humiliated' her",
       "excerpt": "The White House sign-language interpreter who was outed as a supporter of former President Donald Trump said Sunday that she hasn’t been offered a return engagement since — and blasted critics who attacked her credibility and professionalism.",
@@ -734,7 +829,7 @@
       "originalUrl": "https://www.newsweek.com/qanon-trump-hotel-washington-march-1567489",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -790,7 +885,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 192,
+      "heat": 172,
       "tags": null,
       "images": [
         {
@@ -1271,114 +1366,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-02-07-liz-cheney-censured-by-wyoming-republican-party-for-voting-to-impeach-trump.md",
-      "title": "Liz Cheney censured by Wyoming Republican party for voting to impeach Trump",
-      "excerpt": "Cheney, the third ranking member of the House Republican leadership, was censured in a vote Saturday by her state’s Republican party",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/feb/06/liz-cheney-censured-by-wyoming-republican-party-for-voting-to-impeach-trump",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/feb/06/liz-cheney-censured-by-wyoming-republican-party-for-voting-to-impeach-trump",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 263,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/7ad5429ff5a0055cef8af2fe8a17aae778dfa887/0_40_4775_2866/master/4775.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=da3e5b5ded9ac0ca87fea35415042fc0",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/feb/06/liz-cheney-censured-by-wyoming-republican-party-for-voting-to-impeach-trump",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/06/liz-cheney-censured-by-wyoming-republican-party-for-voting-to-impeach-trump",
-      "publishedDateTime": "2021-02-06T15:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-06-ivanka-trumps-political-re-emergence-would-likely-center-on-criminal-justice-reform-work-report.md",
-      "title": "Ivanka Trump’s political re-emergence would likely center on criminal justice reform work: report",
-      "excerpt": "Ivanka Trump helped to secure pardons and commutations for over 140 in her father’s final days in office, and could champion criminal justice reform in a new foray into politics. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/X-u0thTVIaA/ivanka-trumps-likely-political-reemergence-would-center-on-criminal-justice-reform-work-report",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/X-u0thTVIaA/ivanka-trumps-likely-political-reemergence-would-center-on-criminal-justice-reform-work-report",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/Ivanka-resize-.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ivanka-trumps-likely-political-reemergence-would-center-on-criminal-justice-reform-work-report.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ivanka-trumps-likely-political-reemergence-would-center-on-criminal-justice-reform-work-report.amp",
-      "publishedDateTime": "2021-02-06T12:30:05-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],
