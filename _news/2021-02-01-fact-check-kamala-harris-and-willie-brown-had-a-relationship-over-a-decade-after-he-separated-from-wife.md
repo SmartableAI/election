@@ -1095,16 +1095,16 @@ related:
         height: 675
         isCached: true
   - title: "US President Joe Biden and US Vice President Kamala Harris visit the Pentagon"
-    excerpt: "Chairman of the Joint Chiefs of Staff Mark Milley and Secretary of Defense Lloyd Austin, tour the African Americans in Service Corridor at the Pentagon in Arlington, Virginia, on Wednesday February 10,"
+    excerpt: "Chairman of the Joint Chiefs of Staff Mark Milley (R) and Secretary of Defense Lloyd Austin, tour the African Americans in Service Corridor at the Pentagon in Arlington, Virginia, on Wednesday February 10,"
     publishedDateTime: 2021-02-10T22:03:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/9d91eea11b320aa95c9cb58194f8740f/US-President-Joe-Biden-and-US-Vice-President-Kamala-Harris-visit-the-Pentagon/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/916dd0e9cdb6d76ce340b8817d259f78/US-President-Joe-Biden-and-US-Vice-President-Kamala-Harris-visit-the-Pentagon/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 67
     images:
-      - url: "https://cdnph.upi.com/pv/upi/9d91eea11b320aa95c9cb58194f8740f/PENTAGON-BIDEN.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/916dd0e9cdb6d76ce340b8817d259f78/PENTAGON-BIDEN.jpg"
         width: 650
         height: 433
         isCached: true

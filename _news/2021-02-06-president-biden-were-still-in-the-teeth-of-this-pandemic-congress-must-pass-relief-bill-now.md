@@ -58,6 +58,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden indicates that masks will be worn though next year"
+    excerpt: "President Biden visited the National Institutes of Health complex on Thursday and he spoke about the U.S. vaccine supply and his goals for the rollout, but he also indicated that mask-wearing will likely be a reality for the next year. "
+    publishedDateTime: 2021-02-12T05:26:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XrGswKTbJrI/biden-indicates-that-masks-will-be-worn-though-next-year"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-indicates-that-masks-will-be-worn-though-next-year.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-indicates-that-masks-will-be-worn-though-next-year.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Psaki pressed on Biden admin not deporting illegal immigrants who drive drunk"
     excerpt: "White House Press Secretary Jen Psaki was asked on Monday about pending guidance that would spare some illegal immigrants convicted of less serious offenses from deportation"
     publishedDateTime: 2021-02-09T01:01:17Z

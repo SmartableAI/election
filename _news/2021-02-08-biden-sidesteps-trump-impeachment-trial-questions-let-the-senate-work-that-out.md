@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-sidesteps-trump-impeachment-t
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-sidesteps-trump-impeachment-trial-questions.amp"
 type: article
 quality: 185
-heat: 2125
+heat: 2145
 published: true
 
 provider:
@@ -1306,6 +1306,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/USA-TRUMP_SAGE-1.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Trump Impeachment Trial: Five Takeaways From the Third Day"
+    excerpt: "Key moments and themes from Thursday’s session as House managers finished making their case."
+    publishedDateTime: 2021-02-12T06:39:00Z
+    webUrl: "https://www.wsj.com/articles/trump-impeachment-trial-five-takeaways-from-the-third-day-11613093954?mod=newsviewer_click"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-impeachment-trial-five-takeaways-from-the-third-day-11613093954"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-impeachment-trial-five-takeaways-from-the-third-day-11613093954"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-298452/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Trump denies inciting Capitol riot, says Senate can’t hold impeachment trial"
     excerpt: "Former President Donald Trump denied Tuesday that he encouraged his supporters to storm the US Capitol last month — and argued that the Senate doesn’t have the authority to hold a"

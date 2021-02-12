@@ -1343,6 +1343,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Anti-Trump Republicans face major challenge in launching third party"
+    excerpt: "A group of former Republican officials considering a new center-right political party to counter former President Donald Trump's influence would face steep challenges in shaking up a U.S. political system that has favored two-party rule throughout its history."
+    publishedDateTime: 2021-02-12T06:37:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump-third-party-insight-idAFKBN2AC051"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN2AC051"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN2AC051"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210212&t=2&i=1551265558&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1B03V"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Day 3 key takeaways from Trump's 2nd impeachment trial"
     excerpt: "Democrats, who also warned the Senate about the lasting danger Trump would pose if not convicted, were again praised by Republicans for their performance."
     publishedDateTime: 2021-02-12T02:33:00Z

@@ -43,6 +43,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Twitter Reacts To Terrence K. Williams Calling VP Kamala Harris A ‘Pole Model’"
+    excerpt: "Terrence K. Williams refused to apologize to Vice President Kamala Harris after calling her a \"pole model\" on social media."
+    publishedDateTime: 2021-02-12T04:56:00Z
+    webUrl: "https://www.ibtimes.com/twitter-reacts-terrence-k-williams-calling-vp-kamala-harris-pole-model-3144020"
+    ampWebUrl: "https://www.ibtimes.com/twitter-reacts-terrence-k-williams-calling-vp-kamala-harris-pole-model-3144020?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-reacts-terrence-k-williams-calling-vp-kamala-harris-pole-model-3144020?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 71
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/04/images-and-soundbitesus-vice-president-elect-kamala-harris.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Columbia’s Benjamin among mayors who met virtually with VP Kamala Harris on Wednesday"
     excerpt: "A group of African American mayors met with the vice president for a talk about the Biden administration’s proposed “Rescue Plan” COVID relief package."
     publishedDateTime: 2021-02-11T15:18:00Z

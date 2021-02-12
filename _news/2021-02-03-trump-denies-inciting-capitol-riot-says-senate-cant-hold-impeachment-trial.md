@@ -1320,6 +1320,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump Impeachment Trial: Five Takeaways From the Third Day"
+    excerpt: "Key moments and themes from Thursday’s session as House managers finished making their case."
+    publishedDateTime: 2021-02-12T06:39:00Z
+    webUrl: "https://www.wsj.com/articles/trump-impeachment-trial-five-takeaways-from-the-third-day-11613093954?mod=newsviewer_click"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-impeachment-trial-five-takeaways-from-the-third-day-11613093954"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-impeachment-trial-five-takeaways-from-the-third-day-11613093954"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-298452/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Trump trial will run into Sunday, wrap next week, with 16 hours for each side"
     excerpt: "Former President Donald Trump’s second impeachment trial will begin Tuesday afternoon with arguments on its constitutionality — then almost certainly stretch into next week, under a"
     publishedDateTime: 2021-02-08T22:49:00Z

@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Twitter Reacts To Terrence K. Williams Calling VP Kamala Harris A ‘Pole Model’"
+    excerpt: "Terrence K. Williams refused to apologize to Vice President Kamala Harris after calling her a \"pole model\" on social media."
+    publishedDateTime: 2021-02-12T04:56:00Z
+    webUrl: "https://www.ibtimes.com/twitter-reacts-terrence-k-williams-calling-vp-kamala-harris-pole-model-3144020"
+    ampWebUrl: "https://www.ibtimes.com/twitter-reacts-terrence-k-williams-calling-vp-kamala-harris-pole-model-3144020?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-reacts-terrence-k-williams-calling-vp-kamala-harris-pole-model-3144020?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 71
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/04/images-and-soundbitesus-vice-president-elect-kamala-harris.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "H/J1KnyAFZQMFJY++65bDcReTVrLNcZ07B78btRBR2QAgWhxB9bEEIpKWD+GiVICElIYOHpnEENR6t9oaz4wb7NOQriwtiuX5oSbDDfwQmkWrKgY7G3XRW+GQ1roxDSxCSOLYO3LeFZF1epmsSTAUVtw9rh5v7wlRaAnhIZe6gjEti0lf656dmjTxMzK+hRNfwihWhfHTPspNgVH5bbsvCjUjqQiA8T2RVqVkApExVxS0IRM6HKbscYZ1hehhQTuVUzebBvSSqCgZeMRTPWb9NnAts8o7BxARj/4rL+A5djAS99eN5/dIDmyVN4keKqZDL/UKKB5iFcA3ig/FGP8QsNwFZ7dOfnNZLyFHgijB4wd5YJUMvy8FzhiNp0eXYz9fZ+517FPdUI2vPQu62+Iyx7M3nOhSH5SEw5cVoPbSUm2NraqtliG62PiRS9jRLca8VdllNoD/kQwB7Avs3m/tMq7bvi7zPLXnCWk5/m7JhsN3qhMQze7ZibINQ+xI2D2QKm94dJV9Hl379LKngNXpQ==;HtV58TQNazQWnxS4acDtLg=="
 ---

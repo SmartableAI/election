@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden indicates that masks will be worn though next year"
+    excerpt: "President Biden visited the National Institutes of Health complex on Thursday and he spoke about the U.S. vaccine supply and his goals for the rollout, but he also indicated that mask-wearing will likely be a reality for the next year. "
+    publishedDateTime: 2021-02-12T05:26:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XrGswKTbJrI/biden-indicates-that-masks-will-be-worn-though-next-year"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-indicates-that-masks-will-be-worn-though-next-year.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-indicates-that-masks-will-be-worn-though-next-year.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden’s new target for reopened schools is behind where U.S. is now, data show"
     excerpt: "President Biden's new target for reopening schools -- having more than 50% of public schools offering at least one day of in-person classes a week -- is behind where the nation's public schools already are. "
     publishedDateTime: 2021-02-11T03:28:17Z

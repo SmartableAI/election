@@ -111,6 +111,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "The Global Problems Biden Can't Avoid"
+    excerpt: "President Joe Biden needs to take urgent action to help ease the world's proliferating humanitarian crises, mired in the triple threat of untended conflict, unmitigated climate change and the scourge of Covid-19,"
+    publishedDateTime: 2021-02-11T19:57:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/02/11/the_global_problems_biden_cant_avoid_535679.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/534985_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "uiX5ZjXPLQ2bZXh4JNb1CAGEyiTDw9bFmGetH2YAUUKdroBFqmoELPORk5uS0SH+bUaHmtbg9XGFHZd7sU1FAcTUZf0HyT1q4dYcqd4g8YBVO9iX3Pp5OhU9b7teoY8FwiPyBX9lVy9NwntNrFklSKzRZaSyeoP3pd+3Ijym4ArPEAyoc31Pohg6fVISeSD9ueHbEyEmAkH1qCgoKFqLxLbCsBoeZLc+VnjWfmQzARb0bChUBInwSQsYe4xIJwuU16/BvNt5kkBPADs9MkwLgwwTd8VaOEQ2Nwmp/Ij5d4FtsQ05VV5DIdtSOKC8FRtlmwI7zrMmdlC2Mor9kVOSCt77cR99GaE5/Jl9MFFPLVs=;668BMjWv3vKSIdGi81/LQQ=="
 ---

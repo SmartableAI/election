@@ -674,9 +674,9 @@ related:
   - title: "Budget office expects $2.3T deficit before Biden relief plan"
     excerpt: "The Congressional Budget Office says the federal government is on track for a $2.3 trillion deficit this year, down roughly $900 billion from last year when the coronavirus caused Congress to provide"
     publishedDateTime: 2021-02-11T20:17:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/cbo-expects-23-trillion-deficit-biden-relief-plan-75832808"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/cbo-expects-23-trillion-deficit-biden-relief-plan-75832808"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/cbo-expects-23-trillion-deficit-biden-relief-plan-75832808"
+    webUrl: "https://abcnews.go.com/Business/wireStory/budget-office-expects-23t-deficit-biden-relief-plan-75834040"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/budget-office-expects-23t-deficit-biden-relief-plan-75834040"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/budget-office-expects-23t-deficit-biden-relief-plan-75834040"
     type: article
     provider:
       name: ABC
@@ -1016,6 +1016,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1730504/rudy-giuliani-michigan-house-oversight-committee.jpg"
         width: 2500
         height: 1746
+        isCached: true
+  - title: "Biden is accused of shifting goal posts on reopening schools as CDC readies new guidelines"
+    excerpt: "Biden entered the White House calling schools closed because of COVID-19 a 'national emergency.' Some parents want him to push harder to fix it."
+    publishedDateTime: 2021-02-12T05:13:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/12/cdc-readies-school-reopening-guidelines-biden-faces-pressure/4450431001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4450431001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4450431001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 115
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/06/USAT/46ee3e15-5b2b-43ad-858b-98c90502e511-AP21036635389025.jpg?auto=webp&crop=5999,3374,x0,y161&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "'I don't want to come back:' As Trump trial opens, Democrat recalls daughter's fear during riot"
     excerpt: "The leader of the Democratic team prosecuting Donald Trump's impeachment trial welled up in tears on Tuesday as he recalled his 24-year-old daughter and son-in-law hiding in fear in the U.S. Capitol during the rampage by the former president's supporters."

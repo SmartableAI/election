@@ -1343,6 +1343,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Anti-Trump Republicans face major challenge in launching third party"
+    excerpt: "A group of former Republican officials considering a new center-right political party to counter former President Donald Trump's influence would face steep challenges in shaking up a U.S. political system that has favored two-party rule throughout its history."
+    publishedDateTime: 2021-02-12T06:37:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump-third-party-insight-idAFKBN2AC051"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN2AC051"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN2AC051"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210212&t=2&i=1551265558&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1B03V"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Barriers at Trump Tower come down after more than 4 years"
     excerpt: "The barriers surrounding Trump Tower in New York came down on Wednesday after more than four years, another moment signalling the end of the Trump presidency."
     publishedDateTime: 2021-02-11T20:51:00Z
@@ -3094,6 +3110,6 @@ related:
       domain: usnews.com
     quality: 46
 
-secured: "4e7xcWWWnx1zj1UFLm7amcase/4BxIeuFRUmy/RPky0XEaLWX9HPiGfER4HPB/gIj3x7Zt7VEWFkvmVDdxUFmFR93QnqlA6GEoHUirOjRKcXwmF0GfnFyUurH+SoYF6wmgaCP73K0IUEjy//Cz8m4Bevu33Y6Axw8Rx4pp5ey038L44rH9xGpYqo0S4GDtPMW/DdgZKoyiGkspJX5VJ5/O6Cu1o/AR01tG25SFhgO7cT7qcT8ULT78dUu3Su3J4iHWZvCiBawmwJtP2SNgnlobatfseRafV5IaLXjpR5MAEBnMkPziZwMpUL9zGSmFJvl20IEl/a+0ur5QuBb37fSyWgY73VaAGjdFMUHmLdmSI=;kvM3kfQEVdaQEvPCj97TaA=="
+secured: "kuDH1kX8JrQe87BFIqxQTKH2Gj9sTisMRgetO7blqeCMeIIwLMrP2xVXTFVi37SUjTjU3XHcdnpm+2kaH7j8MxBLbuxePjZCVmJbZXaGTflo8ou3Ool428PhY7gE/d1a0YkJcdZjmYJznRf1jRKIofwH/V8VhrNgu2RMPXda5jVJgDJL89zq6za9eDdbIHoNmrK4Bx51P8Z3whzkB1pOH/5m1cRQOiDc61Ren0Qwic5W+UvydSICY1Rxw1yQdQvf3a/C9eCGBeSF61C1KHux05gGI1Y59UkztBnaWkM8Vb+eCDGKki+Xh6DI2yH1PRPxNlZX1ggWzW43iI1faeJn7YGW/BmHztkUsTSvaF4sp36ljPchbvASYcGpkt9UA5kcFLPQBn4MAF7qbxYD9eWbLaPZPDSK0YrXyIUXmho8AYHP5oNEKXa9Y78vSOsMCi/OUGvZzHLjbTYU3973K70zwLi/fe3wfpgiozuGwy3JvoRI5yBe9aeHHIIdhZ/7XwdL7lDPU0wAbrrxgRl8P6ZOaw==;XNmdwGPk9KIc6x2XfrTlpw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/politics/story/2021-02-11/meena-branding-bus
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-02-11/meena-branding-business-kamala-harris-niece?_amp=true"
 type: article
 quality: 115
-heat: 155
+heat: 175
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://i.insider.com/601abcf001504a00197fb5b7?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Twitter Reacts To Terrence K. Williams Calling VP Kamala Harris A ‘Pole Model’"
+    excerpt: "Terrence K. Williams refused to apologize to Vice President Kamala Harris after calling her a \"pole model\" on social media."
+    publishedDateTime: 2021-02-12T04:56:00Z
+    webUrl: "https://www.ibtimes.com/twitter-reacts-terrence-k-williams-calling-vp-kamala-harris-pole-model-3144020"
+    ampWebUrl: "https://www.ibtimes.com/twitter-reacts-terrence-k-williams-calling-vp-kamala-harris-pole-model-3144020?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-reacts-terrence-k-williams-calling-vp-kamala-harris-pole-model-3144020?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 71
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/04/images-and-soundbitesus-vice-president-elect-kamala-harris.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Columbia’s Benjamin among mayors who met virtually with VP Kamala Harris on Wednesday"
     excerpt: "A group of African American mayors met with the vice president for a talk about the Biden administration’s proposed “Rescue Plan” COVID relief package."

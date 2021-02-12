@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden indicates that masks will be worn though next year"
+    excerpt: "President Biden visited the National Institutes of Health complex on Thursday and he spoke about the U.S. vaccine supply and his goals for the rollout, but he also indicated that mask-wearing will likely be a reality for the next year. "
+    publishedDateTime: 2021-02-12T05:26:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XrGswKTbJrI/biden-indicates-that-masks-will-be-worn-though-next-year"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-indicates-that-masks-will-be-worn-though-next-year.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-indicates-that-masks-will-be-worn-though-next-year.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Psaki pressed on Biden admin not deporting illegal immigrants who drive drunk"
     excerpt: "White House Press Secretary Jen Psaki was asked on Monday about pending guidance that would spare some illegal immigrants convicted of less serious offenses from deportation"
     publishedDateTime: 2021-02-09T01:01:17Z
@@ -190,6 +206,6 @@ related:
         height: 3480
         isCached: true
 
-secured: "3s9zIsxJA1kEw0mqlI5oCKCIfUynVyg8mJ4KxXAdxD+DUaDim4aYtNMkAs/g+F6IhB3bxdHcTH6nN+TgnPZoOgkywbW5bPelK1sANpVxVHb0JBrWCyzMfN7xnOGx7jZXIViIrLtosLPaautACNWvwsfP8puJxiDd/DS70iNQSM3j1VTItK1AP0y7VHVnS33RUl2G2L6es6y+0HzL8sIAucR6TZjVkfklUs7/WGNYJxxNjVvOq3aRIbare++qiSa6KuJgmYSDhF/xWyXcjwrESdt4Sp0Smecry+asLKXLt61PDktLnUG6YL5jD/Bmgjt/50SYX6kx5UKYYRQuDlUwzPTzU7Y1k8sezcGUBuADOao=;Y+/osnx/4KC70010jpKxVA=="
+secured: "roJGnzSIN9EYEwKE2zyf/bNhB0EaKmBJ4VRo5cawpEfowdlUEOxz6DjUKdqgJJIqFnEi3hiyD0SIDglWpBNOve+7MnjWiV2FluAMNRfk4HokcOpHla4FXgud8b0WSmFJUu6rwYxc2EvPx485kNxgenUthfGoUM7MqMTAL4J92aQIyhaGONhRW7/5riQ5YTL3yQ4Y3Yhd8pLteTcKXhIgDVNwjiXkIGTZdUwHZvdVwTm5depMe3yORVBYaRC1cCxPJOTRQkmvLtLccLZbPWtQBghVsHj5SgsUOE5Q/I3G12mn+buWsK0q1kWxmJmUTl90+aXfzL88CGUXIatxos/d0iKZuCl06RBHeHRH0Of/1ko=;LH+Anajp8PbEWHHKrAE+EA=="
 ---
 
