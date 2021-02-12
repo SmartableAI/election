@@ -607,6 +607,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Lead impeachment manager Raskin reveals questions he would have asked Trump if he testified"
+    excerpt: "Former President Donald Trump will not testify in his own defense during his Senate impeachment trial, but lead House impeachment manager Rep. Jamie Raskin, D-Md., revealed what he would have asked Trump if he had chosen to appear."
+    publishedDateTime: 2021-02-11T23:05:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/c6VpPisr4Nw/lead-impeachment-manager-raskin-questions-he-would-have-asked-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/lead-impeachment-manager-raskin-questions-he-would-have-asked-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lead-impeachment-manager-raskin-questions-he-would-have-asked-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0333c105-c1f6-4aab-be8e-664925fcc3e1/77d38842-62e8-4347-863f-4936d4af227c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden State Dept. spokeswoman called police 'largest threat to US national security': Report"
     excerpt: "Jalina Porter, who has been named deputy spokesperson for the U.S. State Department under President Biden, wrote that U.S. cops posed the largest national security threat because of attacks against Blacks"
     publishedDateTime: 2021-02-01T21:11:12Z

@@ -110,6 +110,50 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Sen. Rand Paul: House managers 'never made their case' that Trump incited Capitol violence"
+    excerpt: "The House Democratic impeachment managers failed to prove that former President Donald Trump incited the deadly riot at the Capitol Jan. 6, Sen. Rand Paul, R-Ky., told \"Your World\" Thursday."
+    publishedDateTime: 2021-02-11T23:11:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2IuF_91bL7M/rand-paul-house-managers-never-made-case-trump-incited-riot"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 145
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dabb19a9-f307-4590-b17b-a9eebe82993d/0fe292e2-0b7f-4cd7-b3df-53033acd5093/1280x720/match/image.jpg"
+        width: 1278
+        height: 720
+        isCached: true
+  - title: "Five can't-miss moments from Day Three as Democrats concluded their impeachment case against Trump"
+    excerpt: "The prosecution's final day of arguments in the Trump impeachment trial drew to a close Thursday, with the defense set to take the stand on Friday and Saturday. "
+    publishedDateTime: 2021-02-11T23:41:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1C128HcT5B0/five-key-moments-impeachment-trial-day-3"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 141
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0333c105-c1f6-4aab-be8e-664925fcc3e1/77d38842-62e8-4347-863f-4936d4af227c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Republican senators largely unmoved by Democrats’ Trump trial prosecution"
+    excerpt: "Several Republican senators said Thursday that House impeachment managers failed to persuade them to convict former President Donald Trump for allegedly inciting the Jan. 6 Capitol riot. The"
+    publishedDateTime: 2021-02-12T00:25:00Z
+    webUrl: "https://nypost.com/2021/02/11/gop-senators-untouched-by-democrats-trump-trial-prosecution/"
+    ampWebUrl: "https://nypost.com/2021/02/11/gop-senators-untouched-by-democrats-trump-trial-prosecution/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/11/gop-senators-untouched-by-democrats-trump-trial-prosecution/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 134
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/trump-impeachment-trial-57.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Democratic impeachment prosecutors use rioters' words against Trump at trial: 'We were invited here'"
     excerpt: "House impeachment managers Thursday sought to directly connect former President Trump to the Jan. 6 violence at the Capitol by playing statements of the rioters who said they were acting on Trump's request."
     publishedDateTime: 2021-02-11T20:31:00Z
@@ -125,6 +169,20 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Diana-DeGette.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Five can't-miss moments from Day Three as Democrats concluded their impeachment case against Trump"
+    excerpt: "The prosecution's final day of arguments in the Trump impeachment trial drew to a close Thursday, with the defense set to take the stand on Friday and Saturday."
+    publishedDateTime: 2021-02-11T23:44:00Z
+    webUrl: "https://www.foxnews.com/politics/five-key-moments-impeachment-trial-day-3"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 101
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0333c105-c1f6-4aab-be8e-664925fcc3e1/77d38842-62e8-4347-863f-4936d4af227c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "kopWDD+/VFxuNNJlrUh2fU2aBwhPzteA0s6s5yY9S7Y/2BRMgOorP5OZcSCgPh+5cdBXiG+BuJVC7jeJXK/NNmZ+ZvVSCo4AM9IyRL3/iWRCnlP8Jo1ycxKpO8dhpK3R60seE+lwsezYPzAmyrffqmyWXcrlDkljw9MNg8RTYHuMZh6zISA2towQ6qG29XLdGd74ZVhMUY/nJn8W+jgqJUBI9qJnHv7uJKzYk17xyVt9ZlQXtvV+SKY+aBfQ52Hn/TR+t4yIvq8IgpjeV4KhJ85xm3t5wTlioZQg83ptSYdJPQcF5jbZUKicfRkT66NyX7UeGmjDppKGJ2VU/h73O6NK4GxlawMVnTcFs4yRYVE=;MKpRixdgXaWuSG1y10xZrQ=="

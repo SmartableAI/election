@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/10/politics/donald-trump-mike-pence-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/10/politics/donald-trump-mike-pence-impeachment/index.html"
 type: article
 quality: 182
-heat: 1002
+heat: 1042
 published: true
 
 provider:
@@ -304,6 +304,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Three GOP senators meet with Trump's lawyers on eve of impeachment defense presentation"
+    excerpt: "A trio of Republican senators allied with former President Donald Trump met with his defense team Thursday evening, in the middle of an impeachment trial in which they will vote on whether to convict Trump and potentially bar him from holding public office again.\n    \n"
+    publishedDateTime: 2021-02-12T00:55:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gWOoWBtkCGw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/11/politics/gop-senators-trump-impeachment-lawyers/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/11/politics/gop-senators-trump-impeachment-lawyers/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210211112754-mike-lee-lindsey-graham-ted-cruz-split-for-video-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "GOP senators signal they plan to acquit Trump despite visceral presentation by House Democrats"
     excerpt: "The House impeachment managers presented senators with videos of their colleagues fleeing a pro-Trump mob, which breached the US Capitol shouting \"stop the steal.\" They showed the rioters searching for then-Vice President Mike Pence and House Speaker Nancy Pelosi, and rummaging through the senators'"
     publishedDateTime: 2021-02-11T02:41:35Z
@@ -317,6 +333,22 @@ related:
     quality: 163
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200128121852-01-mike-braun-senate-trial-0127-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Read lead impeachment manager Jamie Raskin's closing remarks in the House's case against Trump"
+    excerpt: "House impeachment managers on Thursday concluded their case against Donald Trump, urging senators to convict the former President for inciting the insurrectionists that attacked the US Capitol on January 6, with lead manager Jamie Raskin, a Maryland Democrat, delivering the team's closing argument.\n"
+    publishedDateTime: 2021-02-11T23:37:40Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/njSWz5ZxkcM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/11/politics/jamie-raskin-impeachment-closing-statement/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/11/politics/jamie-raskin-impeachment-closing-statement/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210211162539-09-impeachment-trail-0221-raskin-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

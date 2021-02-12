@@ -2059,6 +2059,20 @@ related:
         width: 1440
         height: 914
         isCached: true
+  - title: "How Mike Pence became a villain in Trump world"
+    excerpt: "How Mike Pence became a villain in Trump world Up Next, See how close the mob got to Mike Pence. Video, 00:03:15See how close the mob got to Mike Pence What the Proud Boys did before Trump's speech. Video,"
+    publishedDateTime: 2021-02-11T23:44:00Z
+    webUrl: "https://www.bbc.com/news/av/world-us-canada-56035299"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 120
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p096rdpy.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Trump U-turns to condemn Capitol violence as calls for removal grow – live updates"
     excerpt: "Cabinet resignations as low-key video address accepts there will be a ‘orderly’ transition"
     publishedDateTime: 2021-01-08T09:50:00Z

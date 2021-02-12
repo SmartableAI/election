@@ -112,6 +112,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden declares there will be enough vaccines for 300 million Americans by end of July"
+    excerpt: "President Joe Biden on Thursday announced that the United States will have enough coronavirus vaccines for 300 million Americans by the end of July, underscoring that he believes his administration has made significant progress given that there wasn't a rollout plan in place under the Trump administration.\n"
+    publishedDateTime: 2021-02-11T23:48:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Q0F8eqTdYlg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/11/politics/joe-biden-vaccine-distribution-trump-administration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/11/politics/joe-biden-vaccine-distribution-trump-administration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210211174203-joe-biden-february-11-2021-01-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "More than 80 civil rights organizations call on Biden to abolish the federal death penalty"
     excerpt: "More than 80 nationally recognized criminal justice and civil rights advocacy organizations have joined in the call to President Joe Biden on Tuesday urging him to abolish the federal death penalty and commute the sentences of 49 death row inmates to life in prison.\n    \n"
     publishedDateTime: 2021-02-09T18:48:45Z
@@ -219,6 +235,6 @@ related:
         height: 629
         isCached: true
 
-secured: "AIwJNiAGvkwhCiUMiAeS/lCgN3seWRdJ0X/TCwm8m5owIH+1AnnAg9utvMtK+S1K/vgyR/yLEdLJGj75hIif0RLyXQblQ7cKGLV4uDZ2wIEXXylBnRxezMXBU26QzrcDeeVKDRltnekm45Qyye7kiKsxwICzia4IsTXexKoRYjGQptW7xTmQtIoqc1bshwuO2R4OIu3j686PjrkCFRmNZO06qrXVKR3CwbSALN/M28MviJtEDQAkK2Ghg8WaHN7/ndQ5KYDCKjViBan2FmGBToyHz0e4lWpSofwxb2N0pVUFUpY1utdusbSQPO5lOGXMpcE/8idx6PpZXLHSxCoMDgIKT2ybVRGSA5Z65uAViGM=;FwWoS/JRabwAk/NCpwAXag=="
+secured: "zZsU3/F3JHrL4FDXHhuw8gGYzrMcg8DT+BozMldqQC5uS9ITV25IdT8MZ9JwexDhR8Uj1z5MlP07S2JDzSq1/YbccGU7yvvOv+m1FZrPVVg8PVYw6YIGJGSTXgPpzERF2YaEdVQg11bSufb4Vfjha1ozok/jTBKB4D4GBek713XQo7fn8b+iAqWnwhA+gQgHWB/yzLvsfNfcg364rnvStVgUKHoAGwIWqti6lo1nSD7P0XcottM+Ud1k/froQ+L2ZQmThncAk3shZ+hI8j7gqoeNcKt7ngO3YNMtmY9Zcr5hZBiY+EGiMLDgvAPrjk9X63NkvJYP2I3/wTf1h7q5gncIBMOo4HU9qY4E/AtQdRpd5wyiIAhG08LG9nCqkuWYwrqjZ0STzptqLHeKBf/yUElVIofVWvJMQerRbQyEMAonFxu7v6FRk9f1F27TCfujM87JgagIgOAxjz+aggBYUlUO3t31df29nw76TiWufqGOC5Js8N48DOHKmKPT9kLZfQPyznFBfNLQoOzeUsIvXw==;kJd0YkBNBTG1FMHp/13F5g=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/dem-impeachment-managers-trump-lawy
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dem-impeachment-managers-trump-lawyers-first-amendment.amp"
 type: article
 quality: 161
-heat: 181
+heat: 201
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Dem impeachment managers target Trump lawyers’ First Amendment argument, calling it a ‘distraction’"
+    excerpt: "Md., said that former President Trump’s lawyers’ argument that Trump was within his First Amendment rights when he peddled election fraud claims is a “completely irrelevant distraction.”"
+    publishedDateTime: 2021-02-11T22:20:00Z
+    webUrl: "https://www.foxnews.com/politics/dem-impeachment-managers-trump-lawyers-first-amendment"
+    ampWebUrl: "https://www.foxnews.com/politics/dem-impeachment-managers-trump-lawyers-first-amendment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dem-impeachment-managers-trump-lawyers-first-amendment.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 121
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/91491525-0758-4d76-835a-c083f18134c2/a25638d4-7eb7-4b4b-a3f0-92bf7307c604/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump War Room fires back at House Dem impeachment managers who used 'fight like hell' rhetoric in the past"
     excerpt: "The Trump War Room is firing back at the House Democrat Impeachment Managers who were making their case against former President Donald Trump during the opening arguments of impeachment trial."
     publishedDateTime: 2021-02-10T22:10:00Z

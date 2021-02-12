@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A42HN"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A42HN"
 type: article
 quality: 140
-heat: 1900
+heat: 1920
 published: true
 
 provider:
@@ -702,6 +702,22 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/8a597df/2147483647/strip/true/crop/6720x4389+0+46/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F3c%2F10%2F6ab04cbb497f057c01f636cf42fb%2Fe8d3f06f0ecf43f4b35602873924949f"
         width: 320
         height: 209
+        isCached: true
+  - title: "Experts urge Biden to restore U.S. leadership in global nuclear security"
+    excerpt: "Nearly 30 experts on global nuclear security urged President Joe Biden's administration on Thursday to restore U.S. leadership on fissile materials to reduce the threat that militants will use them to create weapons."
+    publishedDateTime: 2021-02-12T00:00:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-nuclear-proliferation/experts-urge-biden-to-restore-u-s-leadership-in-global-nuclear-security-idUSKBN2AB2UV"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AB2UV"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AB2UV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210211&t=2&i=1551254000&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1A1U7"
+        width: 811
+        height: 545
         isCached: true
   - title: "‘Not a pundit,’ Biden ignores impeachment trial to focus on his priorities"
     excerpt: "Biden avoids commenting on Trump's impeachment trial as the White House, exercising message discipline, talks almost exclusively about its own agenda."

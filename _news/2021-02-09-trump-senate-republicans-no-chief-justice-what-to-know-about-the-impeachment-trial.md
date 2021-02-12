@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "'Damage' control: Key takeaways from Day Three of Trump's second impeachment trial"
+    excerpt: "Republican senators — and even one of Trump's attorneys — seemed to tune the proceedings out. Impeachment managers rested their case on the third day of Trump's trial. Trump's attorneys will offer his defense Friday."
+    publishedDateTime: 2021-02-11T23:41:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/damage-control-key-takeaways-day-three-trump-s-second-impeachment-n1257512"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1257512"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1257512"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 129
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_06/3449503/210211-ONE-TIME-USE-jamie-raskin-ew-514p_a69b0dba058be60afe7fd6d3dcc7d90b.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "wEXD6iWJa3V8bGt1lIuN7AUqDJEIT7fgB2qtM4hOcECkJhP9xmBUWNE1lj4FRR9sd+k1mrH9YD1Xpdf21KZt4BSDqp4Zgy4lz8B42u1edoxtYHIri99tGKnrZOss7/o0hEEpakhnfV1Us/s8QF1ogCmbml4mc+kUPrYLHeGrbf9PcDgGXC315QuUkNDLaMTb/05ZYgY0UmYti9Gq8v+Zr7FFrkPclgdqhDjYQ9tJRQ+RLCTQvdVrqmnHj+oHKPc1oOqIxPlgECkFTfs2GLyLq/z3ykF16DnGAckmZN71TaCxqIUFd3w1XfrKKfQtc6T4vGjn+DaSBhQvWBQumbI17hHSqF7rKmRApJjySijtZno=;csBdiUsj4h+6qYW8KR+clQ=="
 ---

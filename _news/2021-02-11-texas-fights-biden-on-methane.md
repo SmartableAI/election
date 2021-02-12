@@ -110,6 +110,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden declares there will be enough vaccines for 300 million Americans by end of July"
+    excerpt: "President Joe Biden on Thursday announced that the United States will have enough coronavirus vaccines for 300 million Americans by the end of July, underscoring that he believes his administration has made significant progress given that there wasn't a rollout plan in place under the Trump administration.\n"
+    publishedDateTime: 2021-02-11T23:48:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Q0F8eqTdYlg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/11/politics/joe-biden-vaccine-distribution-trump-administration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/11/politics/joe-biden-vaccine-distribution-trump-administration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210211174203-joe-biden-february-11-2021-01-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "More than 80 civil rights organizations call on Biden to abolish the federal death penalty"
     excerpt: "More than 80 nationally recognized criminal justice and civil rights advocacy organizations have joined in the call to President Joe Biden on Tuesday urging him to abolish the federal death penalty and commute the sentences of 49 death row inmates to life in prison.\n    \n"
     publishedDateTime: 2021-02-09T18:48:45Z

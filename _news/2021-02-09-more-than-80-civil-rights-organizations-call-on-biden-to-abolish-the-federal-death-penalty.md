@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden declares there will be enough vaccines for 300 million Americans by end of July"
+    excerpt: "President Joe Biden on Thursday announced that the United States will have enough coronavirus vaccines for 300 million Americans by the end of July, underscoring that he believes his administration has made significant progress given that there wasn't a rollout plan in place under the Trump administration.\n"
+    publishedDateTime: 2021-02-11T23:48:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Q0F8eqTdYlg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/11/politics/joe-biden-vaccine-distribution-trump-administration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/11/politics/joe-biden-vaccine-distribution-trump-administration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210211174203-joe-biden-february-11-2021-01-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Merrick Garland, Biden's pick for attorney general, has confirmation hearing set for February 22 "
     excerpt: "President Joe Biden's nominee for attorney general, Judge Merrick Garland, is scheduled to appear before the Senate Judiciary Committee on February 22 and 23 for his confirmation hearing.\n    \n"
     publishedDateTime: 2021-02-10T01:53:23Z

@@ -111,6 +111,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Live impeachment updates: Prosecutors end arguments; Trump lawyer calls trial 'weaponization' of impeachment"
+    excerpt: "House prosecutors ended their arguments in the impeachment trial of Donald Trump. The former president's legal team starts Friday."
+    publishedDateTime: 2021-02-12T00:18:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/11/trump-impeachment-trial-house-prosecutors-wrap-up-arguments/4422691001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4422691001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4422691001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 106
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/11/USAT/fbd94518-cc77-4c73-b4c5-65ffc5559fd1-AP21042739498943.jpg?auto=webp&crop=3229,1816,x0,y125&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Live impeachment updates: House prosecutors will wrap up arguments at Trump trial after day of Capitol footage"
     excerpt: "The nine managers will resume their arguments at noon in their final day of opening arguments. When they're done, Trump's team will begin."
     publishedDateTime: 2021-02-11T12:10:00Z

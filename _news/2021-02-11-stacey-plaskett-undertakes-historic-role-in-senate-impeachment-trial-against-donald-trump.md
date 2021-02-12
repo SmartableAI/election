@@ -1359,6 +1359,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Now out of office, Trump may have to face tax questions"
+    excerpt: "Whether or not Trump is convicted at his impeachment trial, he faces an IRS decision on a massive refund and may no longer be able to conceal his tax returns."
+    publishedDateTime: 2021-02-12T00:38:00Z
+    webUrl: "https://www.washingtonpost.com/business/2021/02/11/trump-faces-tax-questions/"
+    ampWebUrl: "https://www.washingtonpost.com/business/2021/02/11/trump-faces-tax-questions/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/02/11/trump-faces-tax-questions/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3G573JC3MEI6XKCJN6KCHJ277U.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Timeline: How Trump picked the rioters over his vice president"
     excerpt: "So Pence announced that he would do what he had to: preside over the counting of electoral votes that day and, in so doing, finalize his own ouster from the vice presidency. Before he could do that, though,"
     publishedDateTime: 2021-02-11T16:14:00Z
@@ -1774,6 +1790,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Mounting evidence suggests Trump knew of danger to Pence when he attacked him as lacking ‘courage’ amid Capitol siege"
+    excerpt: "His decision to denigrate the vice president as rioters were marauding through the building underscores how Trump delayed taking action to rein in his supporters."
+    publishedDateTime: 2021-02-12T00:41:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-tweet-pence-capitol/2021/02/11/cc7d9f7e-6c7f-11eb-9f80-3d7646ce1bc0_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-tweet-pence-capitol/2021/02/11/cc7d9f7e-6c7f-11eb-9f80-3d7646ce1bc0_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-tweet-pence-capitol/2021/02/11/cc7d9f7e-6c7f-11eb-9f80-3d7646ce1bc0_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 117
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YAHDG4CUMAI6XLGFSLJIDGQ4ZM.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Multiple attorneys no longer expected on Trump's impeachment defense team as trial nears"
     excerpt: "About a week before his Senate trial, former President Donald Trump has no announced legal team and at least five attorneys who were expected to help lead the team are no longer part of it. The remarkable last-minute shifts add fresh uncertainty over Trump's legal strategy and highlight the struggle the former president has had in corralling a legal team after he became the first president in U."
@@ -2647,6 +2679,15 @@ related:
       name: Washington Post
       domain: washingtonpost.com
     quality: 80
+  - title: "Democrats Warn Trump Could Whip Up Violence Again. Many Republicans Remain Unmoved"
+    excerpt: "The House impeachment managers finished their opening arguments in the case against Donald Trump on Thursday after two days of wrenching presentations about the deadly riot at the Capitol on Jan. 6. They presented Senators — Trump’s jurors — with audio of panicked police calling for backup,"
+    publishedDateTime: 2021-02-12T00:53:00Z
+    webUrl: "https://time.com/5938609/republicans-trump-impeachment-trial/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 79
   - title: "'Bring out Pence': Managers in Trump impeachment trial unveil video that shows threats from rioters"
     excerpt: "House prosecutors wielded former President Donald Trump's words against him in arguing he should be convicted of inciting insurrection at the Capitol."
     publishedDateTime: 2021-02-10T22:48:00Z
@@ -3005,6 +3046,6 @@ related:
       domain: usnews.com
     quality: 46
 
-secured: "ym2PEwpC78w1W1cLoMz/U7ZS1vdd4zyOcz15HTxILfNMXU8wdO4TPpQweIqwmD5sNkONe5YKZkiSnrlM6bZcCsLzpz3s0IHGqPDQ6wqipPFYSX1UzhCiHYETFu1rui9P3wjH3F//i4LlIiu3SA7L8dGHKJNHQL4Y/Fav7FBst7wDc+2g56T3OPLHtqNqly9iBgYLTweFH6vCDg0oYyslYO+3Ym9GySyQQcDGvW+waSYzh7fhQBrx4Fj+aew0OwdXi6dlBXiGpXeu28/Bi56vAl6luDtmwfNiAr6NpDHYmMJYBOrhZg71Jq9cTglrcjPL9/8Uy2sfcS2rpFFjr4raZ8KFA6hcXTK/LED7Fbaa9sA=;FcypMLFFE1pJr+t4AsGC/Q=="
+secured: "8kaTEm+s/aUZVN+BWrfDEy2czwarcD75M/N8PgSNg/vS98WTzsd25WVEQl6vcojE7JZaQMnNI4I3ZUKuVvh2BU5LavaMg/RYNo3l+Bn54P7K7uWY8IebUVbLuUjA9LfA0cvpK6qfkPyFkr8SM7vFtxJejBUFFKLOdQYSZqwGEHVEJQrM21FnT6KNw9HZhMWOwQiLYAI8bHKrHkBI36Q3K/TaCqZr3ALZZNWv3nEA7bBq3oPcsd2VEhBpK6KokBgXF3LSUaLrKe3heH9I4SQ6WGrn06bdqEHAS20ca781YW05zj6nJqseQQSiC1yjqLBjK9HzcqXErKJwn6LBVHO5/T0FIUCYtR/BX/lyOWqNN3Q17afVzoLF4kPpXbwCKXW+CLgzzCYwZlhVhiCjJm/OJ1o7805ZgqyO9XR8ncHCF3kkjAGGz+6Czx7TztRcz4bH2sfpyZESOBInXfOsPsLYJSfyvpOXrdzekOMOKErJwcXj1PWWkM11abzYTgBKgtcV48hVJxzNYonMAVH0gppegw==;cRD3KkeH9d4NzkjQRSniFg=="
 ---
 

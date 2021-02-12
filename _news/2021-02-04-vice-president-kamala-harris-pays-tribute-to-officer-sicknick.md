@@ -885,6 +885,38 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Kamala Harris’s Ascent Doesn’t Mean Progress for Black Women"
+    excerpt: "As a Black woman, I take immense pride in Vice President Kamala Harris’s victory. I beamed as she took her oath of office in a stunning purple dress and coat—a symbol of unity and possible ..."
+    publishedDateTime: 2021-01-28T17:53:00Z
+    webUrl: "https://www.elle.com/culture/career-politics/a35340181/kamala-harris-black-women-progress/"
+    ampWebUrl: "https://www.elle.com/culture/career-politics/amp35340181/kamala-harris-black-women-progress/"
+    cdnAmpWebUrl: "https://www-elle-com.cdn.ampproject.org/c/s/www.elle.com/culture/career-politics/amp35340181/kamala-harris-black-women-progress/"
+    type: article
+    provider:
+      name: ELLE
+      domain: elle.com
+    quality: 75
+    images:
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/kamala-1611854995.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "What Will Kamala Harris’ VP Mandate Be?"
+    excerpt: "But what does Harris’s role look like in practice—other than not like Pence? What is her mandate after shattering one of the highest ceilings in American politics? Harris is widely expected to ..."
+    publishedDateTime: 2021-01-29T00:00:00Z
+    webUrl: "https://www.vanityfair.com/news/2021/01/what-will-kamala-harris-vp-mandate-be"
+    ampWebUrl: "https://www.vanityfair.com/news/2021/01/what-will-kamala-harris-vp-mandate-be/amp"
+    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2021/01/what-will-kamala-harris-vp-mandate-be/amp"
+    type: article
+    provider:
+      name: Vanity Fair
+      domain: vanityfair.com
+    quality: 75
+    images:
+      - url: "https://media.vanityfair.com/photos/60130004782b78edfe7c9d00/master/pass/Harris1.28.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Don’t Send Kamala Harris to Persuade Joe Manchin"
     excerpt: "There are some early indications that Harris may be a liability in negotiations with members of Congress, even with members of her own party."
     publishedDateTime: 2021-02-01T15:48:00Z

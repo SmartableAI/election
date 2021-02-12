@@ -191,6 +191,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Impeachment managers rest their case after calling Trump's conduct 'an assault on the first amendment' - live"
+    excerpt: "Congressman Joe Neguse says Trump’s messages to the insurrectionists prove he is ‘overwhelmingly guilty’ of incitement - follow live"
+    publishedDateTime: 2021-02-12T00:33:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/11/donald-trump-impeachment-senate-trial-live-news-updates?page=with:block-6025b4788f08d7b7c03d07f7"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/11/donald-trump-impeachment-senate-trial-live-news-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/11/donald-trump-impeachment-senate-trial-live-news-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 86
   - title: "Trump Accused as 'Inciter in Chief' of Capitol Insurrection"
     excerpt: "Prosecutors in Donald Trump’s impeachment trial are arguing that he was no “innocent bystander” but the “inciter in chief” of last month's deadly attack at the Capitol."
     publishedDateTime: 2021-02-10T22:08:00Z

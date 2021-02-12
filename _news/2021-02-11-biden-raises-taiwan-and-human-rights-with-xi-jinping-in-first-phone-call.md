@@ -79,6 +79,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "North Carolina man accused of threatening Biden over phone"
+    excerpt: "A federal prosecutor has accused a North Carolina man of threatening President Joe Biden and others through phone calls to the White House"
+    publishedDateTime: 2021-02-11T23:50:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/north-carolina-man-accused-threatening-biden-phone-75838181"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/north-carolina-man-accused-threatening-biden-phone-75838181"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/north-carolina-man-accused-threatening-biden-phone-75838181"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
   - title: "Biden taps Julie Su, top Calif. labor official, for deputy labor secretary"
     excerpt: "President Joe Biden on Wednesday nominated Julie Su, the secretary of California's Labor and Workforce Development Agency, for the number-two spot at the U.S. Department of Labor, amid criticism by some Republicans and business groups of her oversight of the state's"
     publishedDateTime: 2021-02-10T22:18:00Z

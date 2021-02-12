@@ -719,6 +719,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Experts urge Biden to restore U.S. leadership in global nuclear security"
+    excerpt: "Nearly 30 experts on global nuclear security urged President Joe Biden's administration on Thursday to restore U.S. leadership on fissile materials to reduce the threat that militants will use them to create weapons."
+    publishedDateTime: 2021-02-12T00:00:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-nuclear-proliferation/experts-urge-biden-to-restore-u-s-leadership-in-global-nuclear-security-idUSKBN2AB2UV"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AB2UV"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AB2UV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210211&t=2&i=1551254000&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1A1U7"
+        width: 811
+        height: 545
+        isCached: true
   - title: "Biden to meet with Senate Republicans offering covid relief counter-proposal"
     excerpt: "The GOP proposal would significantly narrow eligibility for a new round of $1,400 stimulus checks Biden wants to send to individual Americans."
     publishedDateTime: 2021-01-31T19:03:00Z

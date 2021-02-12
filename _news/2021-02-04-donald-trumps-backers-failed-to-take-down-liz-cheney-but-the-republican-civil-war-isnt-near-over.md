@@ -111,6 +111,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "House Democrats conclude Trump impeachment case, warning of potential violence if Republicans refuse to convict"
+    excerpt: "The impeachment managers linked the former president’s long effort to undermine the election with statements of insurrectionists who stormed the Capitol on Jan. 6."
+    publishedDateTime: 2021-02-12T00:51:00Z
+    webUrl: "https://www.washingtonpost.com/politics/senate-impeachment-trial-trump/2021/02/11/33229f7e-6c88-11eb-9f80-3d7646ce1bc0_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/senate-impeachment-trial-trump/2021/02/11/33229f7e-6c88-11eb-9f80-3d7646ce1bc0_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/senate-impeachment-trial-trump/2021/02/11/33229f7e-6c88-11eb-9f80-3d7646ce1bc0_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ELTAZ2TMXII6XJTO4JYEN2PITA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Illinois GOP says Rep. Adam Kinzinger and other Republicans who voted to impeach Trump ‘created widespread division and anger’ in the party"
     excerpt: "The Illinois Republican Party issued a mild rebuke to Republican U.S. Rep. Adam Kinzinger, saying it disagreed with his vote to impeach former President Donald Trump as it sought to clear its agenda for a Saturday meeting to pick a new chairman who could unify the party."
     publishedDateTime: 2021-02-05T19:50:00Z
