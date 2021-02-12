@@ -207,6 +207,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "LIVE UPDATES: Democratic impeachment prosecutors use rioters' words against Trump"
+    excerpt: "Follow for the latest updates on Trump's impeachment trial."
+    publishedDateTime: 2021-02-12T07:38:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sgsLs17FfAo/live-updates-impeachment-trump-2-12-21"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-impeachment-trump-2-12-21.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-impeachment-trump-2-12-21.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a61e924d-7520-4a41-9b24-9007c02fba12/71255345-3e3e-4d61-825b-4c03700ac31b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Live Updates: Cheney, who voted for Trump impeachment, holds on to GOP leadership position"
     excerpt: "Embattled Rep. Liz Cheney, the third-highest-ranking Republican in the House, held on to her title as House GOP conference chair on Wednesday after easily surviving a push by Trump loyalists to strip her of her leadership position."
     publishedDateTime: 2021-02-04T11:07:51Z

@@ -48,6 +48,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Cruz says there ‘no chance’ Trump is convicted after meeting with his legal team about strategy"
+    excerpt: "Sen. Ted Cruz, R-Texas, told Fox News “@ Night” on Thursday that there is no chance that former President Trump will be convicted for inciting last month’s riot at the Capitol, but laid out how he believes Trump's legal team should present their argument."
+    publishedDateTime: 2021-02-12T08:51:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1RwIsPqG3Gs/cruz-says-there-no-chance-trump-is-convicted-after-meeting-with-his-legal-team-about-strategy"
+    ampWebUrl: "https://www.foxnews.com/politics/cruz-says-there-no-chance-trump-is-convicted-after-meeting-with-his-legal-team-about-strategy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cruz-says-there-no-chance-trump-is-convicted-after-meeting-with-his-legal-team-about-strategy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "BDEl7ENB+021hvdQtYmTtu3fjHfrfXMWHUN3/s8dw9h9GHaOfbqS0MaLabCtp83rur04Y/Kl67gFxxhHWj4TcjSY5U8MoLgLilwVSYCq+IGwWgEdXsHRqkfWmp9wtbt86kKI/iYER9GAjEHkfMgxb+lRHUQAS7OyqUbbjGhZph52WqJv866WCjoCrx4FOQiruxCWw9jUxccEJdlxZkHmN3dWf7PJZBHg5RehPwLSX92HZBlgK/EJ3lNO1NlGwM6omINGC/tEcszg8QGmD4Iy1G8BCvvX8sLhdnNLZuau3/evrIeQ0KMMr/YOlpIFYU9sMGeu7EQmA+0p+Zyjsss9y6wH05zWJY56Pk2uBUUgJG0=;V/j3WK5vOp/QHQAdVxeiyQ=="
 ---

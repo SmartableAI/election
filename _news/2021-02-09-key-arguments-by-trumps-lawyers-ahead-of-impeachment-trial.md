@@ -313,6 +313,22 @@ related:
         width: 968
         height: 545
         isCached: true
+  - title: "'Bring out Pence.' Managers at Trump trial reveal new video of Capitol riot that shows threat to VP, lawmakers"
+    excerpt: "House prosecutors wielded former President Donald Trump's words against him in arguing he should be convicted of inciting insurrection at the Capitol."
+    publishedDateTime: 2021-02-12T08:32:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/02/10/impeachment-trial-managers-trump-fueled-rage-capitol-riot/6702506002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6702506002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6702506002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 130
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/10/USAT/db879cf3-15b4-4ae2-9f1b-4b09cea635dc-raskin_wide.jpg?auto=webp&crop=1911,1075,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden administration to house migrant teens at overflow facility in Texas closed under Trump"
     excerpt: "The Biden administration is reopening an overflow facility to house unaccompanied migrant teens amid a possible surge in apprehensions at the border."
     publishedDateTime: 2021-02-04T09:19:00Z
@@ -1483,10 +1499,10 @@ related:
         isCached: true
   - title: "If Senate does not convict Trump, 'he can do this again,' Democrats warn"
     excerpt: "Democratic prosecutors making the case that Donald Trump incited a deadly insurrection by encouraging his supporters to march on the U.S. Capitol warned the Senate on Thursday that if it fails to convict the former president,"
-    publishedDateTime: 2021-02-12T04:11:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-trump-impeachment-idUKKBN2AB22D"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2AB22D"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2AB22D"
+    publishedDateTime: 2021-02-12T08:16:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-idUSKBN2AB15F"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AB15F"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AB15F"
     type: article
     provider:
       name: Reuters
@@ -2554,6 +2570,20 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/54077668-d457-456c-be79-1d4a12d26dfd_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Rep. DeGette: 'The attack was done for Donald Trump'"
+    excerpt: "The attack was done for Donald Trump' Posted . Democratic congresswoman Diana DeGette told the senators - serving as jurors in the trial - that the rioters"
+    publishedDateTime: 2021-02-11T22:19:00Z
+    webUrl: "https://www.reuters.com/video/watch/rep-degette-the-attack-was-done-for-dona-id725733370?chan=6g5ka85"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210211&i=OVDZCFEU7&r=OVDZCFEU7&t=2"
+        width: 960
+        height: 540
         isCached: true
   - title: "Impeachment managers lay out case against Trump using unseen footage, audio"
     excerpt: "House impeachment managers on Feb. 10 made the case that former president Donald Trump spent months laying the groundwork for January’s riot at the Capitol."

@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-11-suu-kyi-aide-electoral-officials-arrested-in-myanmar-biden-approves-sanctions.md",
+      "title": "Suu Kyi aide, electoral officials arrested in Myanmar, Biden approves sanctions",
+      "excerpt": "A close aide to ousted Myanmar leader Aung San Suu Kyi was detained in a new wave of arrests following last week's military coup, a party official said on Thursday, as Washington moved a step closer to imposing sanctions on the junta.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/uk-myanmar-politics-idAFKBN2AB068",
+      "originalUrl": "https://www.reuters.com/article/uk-myanmar-politics-idAFKBN2AB068",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 181,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210211&t=2&i=1551189130&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1A144",
+          "width": 819,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idAFKBN2AB068",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN2AB068",
+      "publishedDateTime": "2021-02-11T05:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-02-11-rep-nunes-republicans-could-possibly-face-pressure-to-impeach-biden-if-they-take-back-house-in-2022.md",
       "title": "Rep. Nunes: Republicans could possibly face 'pressure' to impeach Biden if they take back House in 2022",
       "excerpt": "California Rep. Devin Nunes, R-Calif., believes that Republicans might face pressure to impeach President Biden should the party gain control of the House in the 2022 midterms.",
@@ -500,7 +552,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 185,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -1289,62 +1341,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-great-respect-anthem-respects-peaceful-protest-psaki-says-mavericks.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-great-respect-anthem-respects-peaceful-protest-psaki-says-mavericks.amp",
       "publishedDateTime": "2021-02-10T11:50:01-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-fulton-county-prosecutors-launch-criminal-investigation-into-trump-phone-call-with-georgia-secretary-of-state.md",
-      "title": "Fulton County prosecutors launch criminal investigation into Trump phone call with Georgia secretary of state",
-      "excerpt": "Georgia prosecutors opened a criminal investigation into former President Trump's efforts to overturn the 2020 presidential election in the state, including his phone call with Georgia Secretary of State Brad Raffensperger in which Trump suggested the Republicans \"find\" enough votes to change the results.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VEGBregKm7g/fulton-county-prosecutors-criminal-investigation-trump-phone-call-georgia-secretary-of-state",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VEGBregKm7g/fulton-county-prosecutors-criminal-investigation-trump-phone-call-georgia-secretary-of-state",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/fulton-county-prosecutors-criminal-investigation-trump-phone-call-georgia-secretary-of-state.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fulton-county-prosecutors-criminal-investigation-trump-phone-call-georgia-secretary-of-state.amp",
-      "publishedDateTime": "2021-02-10T10:53:53-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

@@ -2,9 +2,9 @@
 category: news
 title: "Trump Impeachment Trial: Five Takeaways From the Third Day"
 excerpt: "Key moments and themes from Thursday’s session as House managers finished making their case."
-publishedDateTime: 2021-02-12T06:39:00Z
-originalUrl: "https://www.wsj.com/articles/trump-impeachment-trial-five-takeaways-from-the-third-day-11613093954?mod=newsviewer_click"
-webUrl: "https://www.wsj.com/articles/trump-impeachment-trial-five-takeaways-from-the-third-day-11613093954?mod=newsviewer_click"
+publishedDateTime: 2021-02-12T01:17:00Z
+originalUrl: "https://www.wsj.com/articles/trump-impeachment-trial-five-takeaways-from-the-third-day-11613093954"
+webUrl: "https://www.wsj.com/articles/trump-impeachment-trial-five-takeaways-from-the-third-day-11613093954"
 ampWebUrl: "https://www.wsj.com/amp/articles/trump-impeachment-trial-five-takeaways-from-the-third-day-11613093954"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-impeachment-trial-five-takeaways-from-the-third-day-11613093954"
 type: article
@@ -1585,6 +1585,6 @@ related:
         height: 640
         isCached: true
 
-secured: "oSc/JGii/iM6YShjNwcs3sZiwKmhLKtkiy3TO6h8UafNVaTskALAww79bb/2Bk0mV0fVALFwsXF2kMf10/EC0KEG2koUaBRJpj8wTqlDFRgK37JrveeH2wCYlIykhXlMrc6IgrFg4Qiim1kR+E1pfKDDJh3mA31+s5MmS6IaxYRZ97+/DK3x+g2dY+6AENaCgAdTnuDCFoPutMtlCJBRXQxO6GJphLzxCWl9HLtTlhH+y9d8mZejUt0n+7//Ka4N7qVxi39MB/n8D43USUiOZtL9Ug+JP6xV5q1SjhCUfqzIqkgBEqtkFExSRAn9V0HLLSD2/tO9bdihC+eO35FnHBlIxosErWo0e1A4YzJqx3c=;fAN9+dO38n3lJTTnJNY0tw=="
+secured: "J4iRXXoIiSLlZhH/Edmt2MCNAOaiYpQm0Nm8qJ7QFpXjZEhj4i1yVWaGdkUi5jbzgxDslXVbjmo4OuCgqC8x/kbIYp36wPOSW5BHbr4Q/wHO/llGZ2BUqfiVYdjcWvKpDkArp0wymoFX7lNQVp51KTX5aXfjTSyUdKOVsBbDwJK41RbvJ2td01L1tu5eV4g4DRPgeXoMhYbLXVmm1wsFyXg3YLanF4uQ2KPFMrFetj+Ab2bEBlpgXMATNd+W9DkQ65VKhc+opCwvBRuPpGGcK65CMYSQviZ8JDbo5A9jKUYbeVce9ek2MU501xseGpnySroOqHugj69udAZ7dR8IGoIYGg3DOmPHvMFr0qQ2iEA=;3Bo29GRUaKc3ynjkAOp+zA=="
 ---
 

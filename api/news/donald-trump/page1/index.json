@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-12-accomplice-senators-who-amplified-trumps-lies-now-get-a-say-in-his-fate.md",
+      "title": "'Accomplice' senators who amplified Trump's lies now get a say in his fate",
+      "excerpt": "Republicans Josh Hawley, Ted Cruz and others unabashedly endorsed the former president’s assault on democracy",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/feb/11/republican-senators-accomplices-trump-impeachment-josh-hawley-ted-cruz",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/feb/11/republican-senators-accomplices-trump-impeachment-josh-hawley-ted-cruz",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/e3b0ff465573ffa73301a6d7bb9baf072179fa2a/0_78_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0854e4848b8664358ca6490bb49facd8",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/feb/11/republican-senators-accomplices-trump-impeachment-josh-hawley-ted-cruz",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/11/republican-senators-accomplices-trump-impeachment-josh-hawley-ted-cruz",
+      "publishedDateTime": "2021-02-11T23:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-12-he-can-do-this-again-dems-rest-case-against-trump-warning-of-more-attacks.md",
       "title": "‘He can do this again’: Dems rest case against Trump warning of more attacks",
       "excerpt": "House Democrats rested their case against Donald Trump on Thursday insisting that the Senate’s refusal to punish him for inciting a mob to attack the Capitol would pave the way for a future commander-in-chief to subvert the democratic process,",
@@ -1454,7 +1506,7 @@
       "originalUrl": "https://www.cbsnews.com/news/pences-post-trump-administration-plans-take-shape/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 4230,
+      "heat": 4270,
       "tags": null,
       "images": [
         {
@@ -1524,58 +1576,6 @@
       "ampWebUrl": "https://www.washingtonpost.com/health/pro-trump-gop-chair-steps-down-in-ohio-may-seek-senate-seat/2021/02/05/5508d346-67d9-11eb-bab8-707f8769d785_story.html?outputType=amp",
       "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/pro-trump-gop-chair-steps-down-in-ohio-may-seek-senate-seat/2021/02/05/5508d346-67d9-11eb-bab8-707f8769d785_story.html?outputType=amp",
       "publishedDateTime": "2021-02-05T14:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-06-what-of-individual-1-feds-trump-campaign-case-is-dead.md",
-      "title": "What of ‘Individual-1’? Feds’ Trump campaign case is ‘dead’",
-      "excerpt": "Prosecutors have shown no signs of reopening the campaign finance investigation that sent Donald Trump’s former attorney Michael Cohen to prison even now that Trump has left the White House",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/national/what-of-individual-1-feds-trump-campaign-case-is-dead/2021/02/05/678965ec-67ea-11eb-bab8-707f8769d785_story.html",
-      "originalUrl": "https://www.washingtonpost.com/national/what-of-individual-1-feds-trump-campaign-case-is-dead/2021/02/05/678965ec-67ea-11eb-bab8-707f8769d785_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/national/what-of-individual-1-feds-trump-campaign-case-is-dead/2021/02/05/678965ec-67ea-11eb-bab8-707f8769d785_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/what-of-individual-1-feds-trump-campaign-case-is-dead/2021/02/05/678965ec-67ea-11eb-bab8-707f8769d785_story.html?outputType=amp",
-      "publishedDateTime": "2021-02-05T11:46:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Washington Post",

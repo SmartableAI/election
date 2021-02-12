@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pezzola-delusional-trump-misled-cap
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pezzola-delusional-trump-misled-capitol-rioter.amp"
 type: article
 quality: 165
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Cruz says there ‘no chance’ Trump is convicted after meeting with his legal team about strategy"
+    excerpt: "Sen. Ted Cruz, R-Texas, told Fox News “@ Night” on Thursday that there is no chance that former President Trump will be convicted for inciting last month’s riot at the Capitol, but laid out how he believes Trump's legal team should present their argument."
+    publishedDateTime: 2021-02-12T08:51:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1RwIsPqG3Gs/cruz-says-there-no-chance-trump-is-convicted-after-meeting-with-his-legal-team-about-strategy"
+    ampWebUrl: "https://www.foxnews.com/politics/cruz-says-there-no-chance-trump-is-convicted-after-meeting-with-his-legal-team-about-strategy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cruz-says-there-no-chance-trump-is-convicted-after-meeting-with-his-legal-team-about-strategy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Democrats Argue Trump ‘Inflamed and Incited’ Capitol Riot"
     excerpt: "Democrats opened their case by arguing that he “assembled, inflamed and incited” the attack on the Capitol in a last-ditch effort to overturn the result of the election."
     publishedDateTime: 2021-02-11T00:13:00Z

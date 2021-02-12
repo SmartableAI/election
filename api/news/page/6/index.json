@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-02-05-congressional-democrats-propose-up-to-50000-in-debt-cancelation-biden-not-sold.md",
+      "title": "Congressional Democrats propose up to $50,000 in debt cancelation, Biden not sold",
+      "excerpt": "Congressional Democrats renewed calls Thursday for President Joe Biden to cancel up to $50,000 in federal student loans per individual.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/congressional-democrats-propose-50000-debt-cancelation-biden-sold/story?id=75682608",
+      "originalUrl": "https://abcnews.go.com/Politics/congressional-democrats-propose-50000-debt-cancelation-biden-sold/story?id=75682608",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/Warren-gty-er-210204_1612469502494_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/congressional-democrats-propose-50000-debt-cancelation-biden-sold/story?id=75682608",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/congressional-democrats-propose-50000-debt-cancelation-biden-sold/story?id=75682608",
+      "publishedDateTime": "2021-02-04T20:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-02-05-sen-ben-sasse-slams-nebraska-gop-committees-plans-to-censure-him-for-criticizing-trump.md",
       "title": "Sen. Ben Sasse slams Nebraska GOP committee’s plans to censure him for criticizing Trump",
       "excerpt": "Sasse is the latest Republican to face censure or the threat of it from a state or local GOP for not supporting Trump.",
@@ -1283,62 +1335,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-psaki-defends-bidens-vast-majority-are-decent-comments-about-fbi-agents.md",
-      "title": "Psaki defends Biden's 'vast majority' are 'decent' comments about FBI agents",
-      "excerpt": "The White House doubled down on President Biden’s remarks Tuesday saying that a “vast majority” of law enforcement officers were “decent, honorable people” after two FBI agents were killed in the line of duty. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QHkZ0I_D7uo/psaki-defends-bidens-vast-majority-comments-fbi-agents",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QHkZ0I_D7uo/psaki-defends-bidens-vast-majority-comments-fbi-agents",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 272,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2123699e-fc69-4564-9016-14d730cd1ee6/69071da9-c2b0-4d24-b2be-36afef17e81a/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/psaki-defends-bidens-vast-majority-comments-fbi-agents.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-defends-bidens-vast-majority-comments-fbi-agents.amp",
-      "publishedDateTime": "2021-02-03T13:49:09-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

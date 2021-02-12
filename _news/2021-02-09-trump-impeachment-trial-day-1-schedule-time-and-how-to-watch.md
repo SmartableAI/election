@@ -1306,8 +1306,8 @@ related:
         isCached: true
   - title: "Trump Impeachment Trial: Five Takeaways From the Third Day"
     excerpt: "Key moments and themes from Thursday’s session as House managers finished making their case."
-    publishedDateTime: 2021-02-12T06:39:00Z
-    webUrl: "https://www.wsj.com/articles/trump-impeachment-trial-five-takeaways-from-the-third-day-11613093954?mod=newsviewer_click"
+    publishedDateTime: 2021-02-12T01:17:00Z
+    webUrl: "https://www.wsj.com/articles/trump-impeachment-trial-five-takeaways-from-the-third-day-11613093954"
     ampWebUrl: "https://www.wsj.com/amp/articles/trump-impeachment-trial-five-takeaways-from-the-third-day-11613093954"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-impeachment-trial-five-takeaways-from-the-third-day-11613093954"
     type: article

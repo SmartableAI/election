@@ -2,11 +2,11 @@
 category: news
 title: "If Senate does not convict Trump, 'he can do this again,' Democrats warn"
 excerpt: "Democratic prosecutors making the case that Donald Trump incited a deadly insurrection by encouraging his supporters to march on the U.S. Capitol warned the Senate on Thursday that if it fails to convict the former president,"
-publishedDateTime: 2021-02-12T04:11:00Z
-originalUrl: "https://www.reuters.com/article/uk-usa-trump-impeachment-idUKKBN2AB22D"
-webUrl: "https://www.reuters.com/article/uk-usa-trump-impeachment-idUKKBN2AB22D"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2AB22D"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2AB22D"
+publishedDateTime: 2021-02-12T08:16:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-idUSKBN2AB15F"
+webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-idUSKBN2AB15F"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AB15F"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AB15F"
 type: article
 quality: 124
 heat: -1
@@ -318,6 +318,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210211&t=2&i=1551118285&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH191SS"
         width: 968
         height: 545
+        isCached: true
+  - title: "'Bring out Pence.' Managers at Trump trial reveal new video of Capitol riot that shows threat to VP, lawmakers"
+    excerpt: "House prosecutors wielded former President Donald Trump's words against him in arguing he should be convicted of inciting insurrection at the Capitol."
+    publishedDateTime: 2021-02-12T08:32:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/02/10/impeachment-trial-managers-trump-fueled-rage-capitol-riot/6702506002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6702506002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6702506002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 130
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/10/USAT/db879cf3-15b4-4ae2-9f1b-4b09cea635dc-raskin_wide.jpg?auto=webp&crop=1911,1075,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Biden administration to house migrant teens at overflow facility in Texas closed under Trump"
     excerpt: "The Biden administration is reopening an overflow facility to house unaccompanied migrant teens amid a possible surge in apprehensions at the border."
@@ -2556,6 +2572,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Rep. DeGette: 'The attack was done for Donald Trump'"
+    excerpt: "The attack was done for Donald Trump' Posted . Democratic congresswoman Diana DeGette told the senators - serving as jurors in the trial - that the rioters"
+    publishedDateTime: 2021-02-11T22:19:00Z
+    webUrl: "https://www.reuters.com/video/watch/rep-degette-the-attack-was-done-for-dona-id725733370?chan=6g5ka85"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210211&i=OVDZCFEU7&r=OVDZCFEU7&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Impeachment managers lay out case against Trump using unseen footage, audio"
     excerpt: "House impeachment managers on Feb. 10 made the case that former president Donald Trump spent months laying the groundwork for January’s riot at the Capitol."
     publishedDateTime: 2021-02-11T02:08:00Z
@@ -3110,6 +3140,6 @@ related:
       domain: usnews.com
     quality: 46
 
-secured: "dV4ue2QZfgr9n96iTwiBZr0DmUbbwHGvKxx1fN0zxqx0WLXbF/EQxznrCaEl/xtLMT+Ht/t36NMk21O7yIH5+/d342FG/iGv2hJ8231pq3zMi6Dpqb7YPzT2I0RhvjhOc6U5yg6YWVzXu360r4a3ePq8pA0FmJC06j8AwT7cVGQsiaGGLmgs5J6jG5Aglt7lg1/YLKDhZ6OsQ/SNc0DDPwNFMusfqxKOLA5h2MCWHNhRrilXUlTbhbdGmc25fqEl1Oe2++OWelc0nztmpgl2qQn4Hdp8HjiKbtlgqwz9Zc8h47QgKhVQkuL3WBb/nT6s9NLEovSq4qyozvUQq8E6AoroTeOjJZdeo9mHZnXWkL4=;xuW3kR0mWarEOLF79GSMkA=="
+secured: "Ac4T3tmyRcKDAN1/WPT8jS9puTM/qI9f+baFWrZY11vI4rbmea+niVAd0vN9GWlyGpr6DqQjYJGj1J8hQwLapB+rAlfSguvUEXgnsC3O7+YkDgpejDO8Gbla1Q1akqBz3BkiPII1bU2NGRMGT3ufiOdIzMntTuHQRaOcFZJHm+OmQuag30yi5+RnSUgBCF2R5dAELb+MdSHuZbHXdIz8yKIUQvzGHEAReIoJ7IhyCZT7sOa0wyAKh7jdy2xVDLxGwFoC+OVKC6Z8VslH51X38Wxzc/zGHkTwnD9EEcwvwdp3o5eQP+TKuNLfDKK0icRC1VatKMsPyj8/UoUcxeJUijJnhFBu3kNQwEUPIoTZTbE=;IKnxhBnipX167mpRM+tUeQ=="
 ---
 

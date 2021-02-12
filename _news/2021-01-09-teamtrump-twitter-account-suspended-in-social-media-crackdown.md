@@ -191,6 +191,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "LIVE UPDATES: Democratic impeachment prosecutors use rioters' words against Trump"
+    excerpt: "Follow for the latest updates on Trump's impeachment trial."
+    publishedDateTime: 2021-02-12T07:38:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sgsLs17FfAo/live-updates-impeachment-trump-2-12-21"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-impeachment-trump-2-12-21.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-impeachment-trump-2-12-21.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a61e924d-7520-4a41-9b24-9007c02fba12/71255345-3e3e-4d61-825b-4c03700ac31b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Live Updates: Trump's chances for acquittal in upcoming Senate impeachment trial unclear"
     excerpt: "Fox News contacted every Republican who will be serving as a senator after President-elect Joe Biden's inauguration on January 20, when the trial is likely to begin."
     publishedDateTime: 2021-01-15T06:05:37Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-permanently-bann
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-permanently-banned-twitter-1-9-2021.amp"
 type: article
 quality: 175
-heat: 595
+heat: 615
 published: true
 
 provider:
@@ -188,6 +188,22 @@ related:
     quality: 171
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/219f5b85-85d3-4586-8e42-e015f131035e/05980f72-2d65-4a8d-bcf0-d16c88e6dd3c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "LIVE UPDATES: Democratic impeachment prosecutors use rioters' words against Trump"
+    excerpt: "Follow for the latest updates on Trump's impeachment trial."
+    publishedDateTime: 2021-02-12T07:38:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sgsLs17FfAo/live-updates-impeachment-trump-2-12-21"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-impeachment-trump-2-12-21.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-impeachment-trump-2-12-21.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a61e924d-7520-4a41-9b24-9007c02fba12/71255345-3e3e-4d61-825b-4c03700ac31b/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
