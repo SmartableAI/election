@@ -1453,6 +1453,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Live Updates: Trump's lawyers to make their case in impeachment trial"
+    excerpt: "They plan to conclude their arguments Friday. Both sides will then field questions from senators before lawmakers consider any requests for witnesses or admission of additional evidence."
+    publishedDateTime: 2021-02-12T13:12:00Z
+    webUrl: "https://www.cbsnews.com/live-updates/trump-impeachment-trial-day-4-2021-02-12/"
+    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/trump-impeachment-trial-day-4-2021-02-12/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/trump-impeachment-trial-day-4-2021-02-12/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/12/22d1292e-5da5-44ae-9703-954016457968/thumbnail/1200x630/2087e7d4d65945f61344e9f9de61ab87/gettyimages-1301668315.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Now out of office, Trump may have to face tax questions"
     excerpt: "Whether or not Trump is convicted at his impeachment trial, he faces an IRS decision on a massive refund and may no longer be able to conceal his tax returns."
     publishedDateTime: 2021-02-12T00:38:00Z
@@ -2650,6 +2666,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "After Democrats' visceral presentation, Trump team on stage"
+    excerpt: "After a prosecution case rooted in emotive, violent images from the Capitol siege, Donald Trump's impeachment trial shifts on Friday to defense lawyers prepared to make a fundamental concession: The violence was every bit as traumatic,"
+    publishedDateTime: 2021-02-12T14:10:00Z
+    webUrl: "https://www.businessinsider.com/after-democrats-visceral-presentation-trump-team-on-stage-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/after-democrats-visceral-presentation-trump-team-on-stage-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/after-democrats-visceral-presentation-trump-team-on-stage-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Impeachment managers lay out case against Trump using unseen footage, audio"
     excerpt: "House impeachment managers on Feb. 10 made the case that former president Donald Trump spent months laying the groundwork for January’s riot at the Capitol."
     publishedDateTime: 2021-02-11T02:08:00Z
@@ -3204,6 +3231,6 @@ related:
       domain: usnews.com
     quality: 46
 
-secured: "nKmVzHuFaMruhX9K9FE8MQutnWnLp6by4lZ19ZgeWhNfcltTmJ0wbio4Kl4TF6lKQ9Wfpyk2saoasgn6vE6O2pz1h/6csEXpLRqYj8z70XVhA4RhPIPuP26Vj0p7GJveAvJBdZpkkTD4vWW54pfG02cVDoD0+4BImoC03YdvvZW8W8kIxRbHJsnVCJkJsLPmev1rWJu4YMkUhkOvZT62dMcvFfdcKov18e04fEavjOqgV6rdLOYLg1y0xdyxMRQRRi7cIZBF7Sk50v/d7VWqhJGbV74d9jjeit4P1whNXQD3ULJrNnGP6/zZV82GukM0sD+gkIG2vRmZi7bZ4eIZkT1NX7MTkQdwri5+2JAycso=;PgquGQVLfGg2IBDTHS4cRQ=="
+secured: "qb2xDBhMOuBcGwIYesaiG0y2SjuC9Ks3rn23NnjWpo3f9bpvig9M/WiDaFhgK2J1Qm3stxFUMYa36fCPqQbkTprBw9ALeDOvhi07FEePYlzedBKJUAXDsP1aJc9Nd5SwiIMOd9l6ssm6f2rK4GnBZjXRRLpzmnQt8du8O3l11P6QxVpOTvWSS8LOPc+einrDukuuSC4q8jVgazrygXZrGuaHpuHhDXygpwHCLlbld0t4yk4ncjNzbU2UurGhq5T4N+4tz/SXL+S3jKj01jtaNqzjegD+KAowQYb7zJ2w3Cef1ZYK4LJON2Xx9rYWEjmfD3+9RAdGoCp3NqW5NW6PsfuLCuC4anyG0RpEh9+ttnT7oExlGmYAIdqrpgUSvD+XOUth6HIJ4LSD3LBx+tEdip4XGSgSn8viZ2f/KyDH3oIXGj0gfwLGPeFCtVhQRhP1Rxr9XAeyPI5LMTsvmuWfmAqb0CeiecKivZbca0OfFWNPp4cD9bPT9SnZK0oMeGaF/SIHVjaIlDB286XytgIv8A==;/9z0YMq1d1lpSxnaZmQ2Uw=="
 ---
 

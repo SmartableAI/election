@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/06/politics/kamala-harris-senate-tie
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/06/politics/kamala-harris-senate-tie-breaking-vote/index.html"
 type: article
 quality: 185
-heat: 325
+heat: 345
 published: true
 
 provider:
@@ -111,6 +111,20 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210205062303-screengrab-01-kamala-harris-senate-budget-vote-0205-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "RNC funds NEWSOM recall — SF school woes — DIFI dives, HARRIS soars —— FACEBOOK swamped with TRUMP comments"
+    excerpt: "Two days after the White House came to Newsom’s defense, the Republican National Committee is going on the offensive with a $250,000 contribution to the burgeoning recall effort, POLITICO’s Alex Isenstadt reports."
+    publishedDateTime: 2021-02-12T14:14:00Z
+    webUrl: "https://www.politico.com/newsletters/california-playbook/2021/02/12/rnc-funds-newsom-recall-sf-school-woes-difi-dives-harris-soars-facebook-swamped-with-trump-comments-491737"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 122
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
   - title: "Kamala Harris Breaks Senate Tie"
     excerpt: "Vice President Kamala Harris returned to the Senate, and casted a tiebreaking vote to pass a Covid relief budget measure."

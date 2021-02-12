@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden says he's anxious to see what Republicans do in impeachment trial"
+    excerpt: "President Joe Biden told CNN Friday he is \"anxious\" to see how Senate Republicans will vote in the impeachment trial and whether they will \"stand up.\"\n    \n"
+    publishedDateTime: 2021-02-12T14:27:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VJ9lu9dZ0RM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/12/politics/biden-impeachment-trial/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/12/politics/biden-impeachment-trial/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210212084720-01-joe-biden-0211-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden emphasizes 'urgency' of $1.9T relief after Summers' op-ed on inflation"
     excerpt: "President Joe Biden responded to a new, sluggish jobs report by continuing to press for his $1.9 trillion Covid relief package to be passed with urgency -- even as a leading economist who served in the Obama administration is sounding the alarm on how the White House's plan could have negative economic"
     publishedDateTime: 2021-02-05T16:28:48Z

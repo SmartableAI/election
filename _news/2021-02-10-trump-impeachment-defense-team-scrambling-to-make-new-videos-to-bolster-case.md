@@ -239,6 +239,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Nikki Haley criticizes Trump and says he has no future in the GOP"
+    excerpt: "Former US ambassador to the United Nations Nikki Haley directly criticized former President Donald Trump for his involvement stoking the US Capitol riot in a new interview, a notable condemnation from someone who is widely viewed as harboring presidential hopes in a party that is still in thrall to Trump.\n"
+    publishedDateTime: 2021-02-12T14:21:55Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RODB8-58pbI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/12/politics/nikki-haley-donald-trump-gop/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/12/politics/nikki-haley-donald-trump-gop/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210212083106-file-nikki-haley-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "House impeachment managers request former President Trump's testimony at trial"
     excerpt: "The House impeachment managers are seeking former President Donald Trump's testimony before or during his Senate impeachment trial, making the request in a letter Wednesday that raises the stakes of the trial scheduled to begin next week.\n    \n"
     publishedDateTime: 2021-02-04T18:57:13Z

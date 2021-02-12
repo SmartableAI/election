@@ -1455,6 +1455,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Live Updates: Trump's lawyers to make their case in impeachment trial"
+    excerpt: "They plan to conclude their arguments Friday. Both sides will then field questions from senators before lawmakers consider any requests for witnesses or admission of additional evidence."
+    publishedDateTime: 2021-02-12T13:12:00Z
+    webUrl: "https://www.cbsnews.com/live-updates/trump-impeachment-trial-day-4-2021-02-12/"
+    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/trump-impeachment-trial-day-4-2021-02-12/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/trump-impeachment-trial-day-4-2021-02-12/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/12/22d1292e-5da5-44ae-9703-954016457968/thumbnail/1200x630/2087e7d4d65945f61344e9f9de61ab87/gettyimages-1301668315.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Now out of office, Trump may have to face tax questions"
     excerpt: "Whether or not Trump is convicted at his impeachment trial, he faces an IRS decision on a massive refund and may no longer be able to conceal his tax returns."
     publishedDateTime: 2021-02-12T00:38:00Z
@@ -2636,6 +2652,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "After Democrats' visceral presentation, Trump team on stage"
+    excerpt: "After a prosecution case rooted in emotive, violent images from the Capitol siege, Donald Trump's impeachment trial shifts on Friday to defense lawyers prepared to make a fundamental concession: The violence was every bit as traumatic,"
+    publishedDateTime: 2021-02-12T14:10:00Z
+    webUrl: "https://www.businessinsider.com/after-democrats-visceral-presentation-trump-team-on-stage-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/after-democrats-visceral-presentation-trump-team-on-stage-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/after-democrats-visceral-presentation-trump-team-on-stage-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Rep. DeGette: 'The attack was done for Donald Trump'"
     excerpt: "The attack was done for Donald Trump' Posted . Democratic congresswoman Diana DeGette told the senators - serving as jurors in the trial - that the rioters"
     publishedDateTime: 2021-02-11T22:19:00Z
@@ -3204,6 +3231,6 @@ related:
       domain: usnews.com
     quality: 46
 
-secured: "4vIu+bqgaDZNncE3LlIMgz7aICshCAseA/aHN3iba0W39RvtnTES9+NVAAOBM7bC4FC+38ui0EpPeonuJjSTFxrOz2/rbiniTGKiaIXui6c56Fgx4w54Kgg4uyjKLqFdpnRbTMD8MK3JlmiTsI+0BDnTDBUzdMTHqcmRxTlSdBQGj4s8G/dyA1FdwJ1+bu4USY8caj3krqiDJsQU8j9cEnmkgrY3aSz0l7OK/D9naD4TICRSmbdSa1jJnYAajrrJteRFYg3uWVnPyVYuDOsmbZZyzKJZA2X6ZgdLM7rhVkca4STuPvCz24zH1kUYT7Q5g+FZNhXdIVJotDnQhrAjRO3+vjr36dgXvTEVXcaGjTo=;Cdiy/5DLF8yrsexN/7QMAA=="
+secured: "TiaWmqTLAn98Mzo17iCCtdHMhjCQfNd9mhSKvPHNor181aQyw1CgWdG5XLawuVy75yVItyRR9QrlR52FGBuuO7J//bXGLse9BYxxN5VoXZql3FsiE9ddVGobVsyAVzlsVpCYKVcMtWnBBq8VOnZGZaU1selwLHrNOFVIIhI5KDiRy9BERG79GtIR3ryx0GE+In4tkcqBmjhDk/4N2vvx8QJFfIZXSUBsZjLcn8gppT4T5vENq04QMvbda6i+bEqJd7D+hBkRX1OcHot4OEOHp96l1QovF0qPFb29wsJNTnGk3q643zHeSoxq1XXvrr7Xh/SsMVePa1F5JZ7BwEodzyRZt92B516UlxCUHubZYoyFeGZR81ZnxO7Bs9cXOjD+dsSkJKe9eWxFbBl9LaWORFPJib4RzKkbrWqzHL/czAHnUSDEV2xu4D1jfFeSOggSWCxiY9WolSwQtBuENwHbow9utdRRdEifFBzLv9jf8SMFBoWO876mjV1KMkc8RupriSCZgZv4YLM28RU4V9E+9Q==;H8YI/RkIKmHQ0WYgoV6Ejw=="
 ---
 

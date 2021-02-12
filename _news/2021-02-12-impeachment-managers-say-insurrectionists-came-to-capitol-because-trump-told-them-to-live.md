@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "First Thing: Donald Trump is still a threat to democracy, Democrats warn"
+    excerpt: "House impeachment managers urged senators to prevent Trump from holding office again. Plus, former Republican officials discuss creating a new party"
+    publishedDateTime: 2021-02-12T11:00:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/feb/12/first-thing-donald-trump-is-still-a-threat-to-democracy-democrats-warn"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/12/first-thing-donald-trump-is-still-a-threat-to-democracy-democrats-warn"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/12/first-thing-donald-trump-is-still-a-threat-to-democracy-democrats-warn"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 124
+    images:
+      - url: "https://i.guim.co.uk/img/media/f4bfab89ddac12bbf3dee6a18a09c0b5d9c9f682/0_240_3600_2161/master/3600.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=895a439e7f0467a5b64fd9c0dfbe5df6"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Trump was pictured golfing as Democrats hammered home the case against him at his impeachment trial"
     excerpt: "Mail published photos of Trump golding at his Florida resort during his impeachment trial, and a CNN anchor said he was pictured."
     publishedDateTime: 2021-02-12T10:41:00Z

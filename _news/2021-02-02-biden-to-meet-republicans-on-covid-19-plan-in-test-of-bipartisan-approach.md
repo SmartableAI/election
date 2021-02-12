@@ -671,6 +671,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden views Valentine's Day decorations on WH lawn"
+    excerpt: "First lady Jill Biden had installed before dawn Friday special Valentine’s Day artwork on the north lawn of the White House: giant pink, white and red hearts that resemble the popular candy"
+    publishedDateTime: 2021-02-12T14:48:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-views-valentines-day-decorations-wh-lawn-75851189"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-views-valentines-day-decorations-wh-lawn-75851189"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-views-valentines-day-decorations-wh-lawn-75851189"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_cfbe6f9fe3f945c28a82dc63c4b8aa31_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Budget office expects $2.3T deficit before Biden relief plan"
     excerpt: "The Congressional Budget Office says the federal government is on track for a $2.3 trillion deficit this year, down roughly $900 billion from last year when the coronavirus caused Congress to provide"
     publishedDateTime: 2021-02-11T20:17:00Z
@@ -686,6 +702,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_b8f705ea670d4b33b3bb5d970458a999_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Mexican president hails Biden's border wall freeze"
+    excerpt: "U.S. President Joe Biden's decision to stop new construction of his predecessor's signature wall on the border with Mexico received a vote of confidence from his Mexican counterpart on Friday."
+    publishedDateTime: 2021-02-12T14:48:00Z
+    webUrl: "https://www.reuters.com/article/us-mexico-border/mexican-president-hails-bidens-border-wall-freeze-idUSKBN2AC1M2"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AC1M2"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AC1M2"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210212&t=2&i=1551331807&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1B15O"
+        width: 817
+        height: 545
         isCached: true
   - title: "Jill Biden pushes access to free community college and training programs"
     excerpt: "Jill Biden is pushing access to free community college and training programs, particularly for those struggling during the COVID-19 pandemic."
@@ -718,6 +750,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210211&t=2&i=1551254000&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1A1U7"
         width: 811
         height: 545
+        isCached: true
+  - title: "Trump impeachment trial: Senate to hear former president's defense – live"
+    excerpt: "Senate reconvenes today with Trump’s team expected to push for swift conclusion to second impeachment trial"
+    publishedDateTime: 2021-02-12T14:07:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/12/donald-trump-impeachment-senate-trial-defense-lwayer-republican-senators-coronavirus-covid-live-updates?page=with:block-602681dd8f08b555964bca1f"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/12/donald-trump-impeachment-senate-trial-defense-lwayer-republican-senators-coronavirus-covid-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/12/donald-trump-impeachment-senate-trial-defense-lwayer-republican-senators-coronavirus-covid-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 124
+    images:
+      - url: "https://i.guim.co.uk/img/media/9eea6a6d3d9e68976091bde04aa75914bf066828/0_80_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8ff554ea7b6d50c807da07a344bc5cf5"
+        width: 600
+        height: 360
         isCached: true
   - title: "‘Not a pundit,’ Biden ignores impeachment trial to focus on his priorities"
     excerpt: "Biden avoids commenting on Trump's impeachment trial as the White House, exercising message discipline, talks almost exclusively about its own agenda."
