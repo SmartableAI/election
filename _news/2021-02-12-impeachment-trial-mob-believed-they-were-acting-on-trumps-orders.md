@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/11/trump-impeachment-tr
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/11/trump-impeachment-trial-democrats-senate"
 type: article
 quality: 125
-heat: 305
+heat: 325
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210211&t=2&i=1551209010&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1A1EN"
         width: 817
         height: 545
+        isCached: true
+  - title: "Trevor Noah: Republicans 'acting like bored middle-schoolers' at Trump impeachment"
+    excerpt: "Late-night hosts recap the third day of the trial, as House managers concluded their case before an audience of distracted senators"
+    publishedDateTime: 2021-02-12T16:30:00Z
+    webUrl: "https://www.theguardian.com/culture/2021/feb/12/trevor-noah-republicans-trump-impeachment-trial"
+    ampWebUrl: "https://amp.theguardian.com/culture/2021/feb/12/trevor-noah-republicans-trump-impeachment-trial"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/culture/2021/feb/12/trevor-noah-republicans-trump-impeachment-trial"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 119
+    images:
+      - url: "https://i.guim.co.uk/img/media/64c81b46fa1ead1027270a801fd39451d4d7e3a5/137_136_2543_1526/master/2543.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5f9e8850db9a586c74151d3df85764fb"
+        width: 600
+        height: 360
         isCached: true
   - title: "In self-imposed exile, Trump watches with unhappiness as second impeachment trial unfolds"
     excerpt: "Trump has remained sanguine that an evenly divided Senate will acquit him, while one person described him as “bored out of his mind” in Florida."

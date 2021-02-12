@@ -143,6 +143,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Watch live: Biden meets with governors to discuss COVID relief"
+    excerpt: "President Biden and Vice President Harris on Friday morning are slated to meet with governors and mayors to discuss the America Rescue Plan and other COVID-19 relief.The meeting is scheduled to begin at 11:15 a."
+    publishedDateTime: 2021-02-12T15:02:00Z
+    webUrl: "https://thehill.com/video/administration/538590-watch-live-biden-meets-with-governors-to-discuss-covid-relief"
+    ampWebUrl: "https://thehill.com/video/administration/538590-watch-live-biden-meets-with-governors-to-discuss-covid-relief?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/administration/538590-watch-live-biden-meets-with-governors-to-discuss-covid-relief?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/harriskamala_bidenjoe_02112021getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Biden seeks to speed delivery of coronavirus stimulus checks and food aid"
     excerpt: "U.S. President Joe Biden on Friday will sign orders to speed the issuance of pandemic stimulus checks to needy families and increase food aid for children who normally rely on school meals for nutrition."
     publishedDateTime: 2021-01-23T00:12:00Z

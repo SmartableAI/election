@@ -1565,6 +1565,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Lawyer defending Trump accustomed to political disaster"
+    excerpt: "Bruce L. Castor Jr. had to prepare his arguments in just a few days after former President Trump's legal team quit."
+    publishedDateTime: 2021-02-12T16:52:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-02-12/bruce-castor-impeachment-trial"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-02-12/bruce-castor-impeachment-trial?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-02-12/bruce-castor-impeachment-trial?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/0645b38/2147483647/strip/true/crop/2422x1582+194+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F27%2Fff%2F7f0fd770455bb35ab607ae3c431e%2Ftrump-impeachment-67980.jpg"
+        width: 320
+        height: 209
+        isCached: true
   - title: "UPDATE 1-U.S. DOJ to ask Trump-appointed prosecutors to resign -official"
     excerpt: "The U.S. Department of Justice on Tuesday is expected to ask most federal prosecutors appointed by former President Donald Trump to submit their resignations, a Justice Department official said."
     publishedDateTime: 2021-02-09T20:26:00Z

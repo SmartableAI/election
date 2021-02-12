@@ -224,6 +224,38 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Trump impeachment trial live updates: Defense team begins arguments"
+    excerpt: "Former President Donald Trump's defense team will begin a full day of arguments Friday in his Senate impeachment trial after House Democrats wrapped up two days of presentations that included harrowing footage of last month's Capitol riot."
+    publishedDateTime: 2021-02-12T11:14:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/live-blog/2021-02-12-trump-impeachment-trial-live-updates-n1257530"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1257530"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1257530"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2021_06/3449484/210211-impeachment-live-blog-main-cover-cs_d3bcb993eee673dd6e46566433994158.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
+  - title: "Trump's second impeachment trial: Day 4"
+    excerpt: "Former President Trump's defense team will begin their arguments today against conviction. Follow here for the latest."
+    publishedDateTime: 2021-02-12T16:08:00Z
+    webUrl: "https://www.cnn.com/politics/live-news/trump-impeachment-trial-02-12-2021/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/politics/live-news/trump-impeachment-trial-02-12-2021/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/politics/live-news/trump-impeachment-trial-02-12-2021/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_900,h_506/d037afd9-4621-4f85-a4cf-58c407fd5c10.jpg"
+        width: 900
+        height: 506
+        isCached: true
   - title: "Impeachment Case Aims to Marshal Outrage of Capitol Attack Against Trump"
     excerpt: "Armed with lessons from the last impeachment trial of Donald J. Trump, prosecutors plan a shorter, video-heavy presentation to confront Republicans with the fury they felt around the Capitol riot."
     publishedDateTime: 2021-02-07T20:46:00Z
@@ -255,6 +287,22 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2021_06/3449014/210210-bill-cassidy-al-0809_e584bab88807c642ce6589d2ae28d5d4.jpg"
         width: 2500
         height: 1666
+        isCached: true
+  - title: "Of course Donald Trump's team didn't tell the truth about his Covid-19 illness"
+    excerpt: "Donald Trump was far sicker with Covid-19 than the White House physician or his top aides let on, even to the point where there were concerns that the then-President would have to be put on a ventilator to deal with the illness."
+    publishedDateTime: 2021-02-12T15:57:00Z
+    webUrl: "https://www.cnn.com/2021/02/12/politics/donald-trump-covid-19-sick-new-york-times/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/12/politics/donald-trump-covid-19-sick-new-york-times/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/12/politics/donald-trump-covid-19-sick-new-york-times/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 131
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201216162007-trump-white-house-1005-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Hundreds of Democratic staff plead with senators to convict Trump in impeachment trial"
     excerpt: "The staff members said they hope senators will take their trauma from the Capitol riot seriously when they weigh whether to convict the former president."

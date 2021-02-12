@@ -79,6 +79,38 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Biden 'anxious to see' if Republicans will vote to convict Trump in impeachment trial"
+    excerpt: "President Biden says he’s “anxious” to see how Senate Republicans will vote in the impeachment trial of former President Trump and whether they will “stand up” and support convicting the former president."
+    publishedDateTime: 2021-02-12T15:02:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nNP3A6dqN8I/biden-anxious-republicans-vote-convict-trump-impeachment-trial"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-anxious-republicans-vote-convict-trump-impeachment-trial.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-anxious-republicans-vote-convict-trump-impeachment-trial.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump impeachment trial overshadows hot topics, controversies in early weeks of Biden admin"
+    excerpt: "As the Senate considers for the second time in barely over a year whether to convict former President Donald Trump of an impeachment charge, he continues to dominate the political world even as he's remained mum through the process. "
+    publishedDateTime: 2021-02-12T16:07:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jrIE2evmtkk/trump-impeachment-trial-overshadows-hot-topics-controversies-in-early-weeks-of-biden-admin"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-trial-overshadows-hot-topics-controversies-in-early-weeks-of-biden-admin.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-trial-overshadows-hot-topics-controversies-in-early-weeks-of-biden-admin.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 180
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Law professor who made Barron Trump joke during Ukraine impeachment hearing gets Biden DOJ gig"
     excerpt: "A former Stanford law professor who poked fun at Barron Trump's name during a 2019 House impeachment hearing now has a job with President Biden's Department of Justice."
     publishedDateTime: 2021-02-08T13:33:07Z
@@ -987,6 +1019,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump impeachment trial overshadows hot topics, controversies in early weeks of Biden admin"
+    excerpt: "As the Senate considers for the second time in barely over a year whether to convict former President Donald Trump of an impeachment charge, he continues to dominate the political world even as he's remained mum through the process."
+    publishedDateTime: 2021-02-12T16:09:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-impeachment-trial-overshadows-hot-topics-controversies-in-early-weeks-of-biden-admin"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-trial-overshadows-hot-topics-controversies-in-early-weeks-of-biden-admin.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-trial-overshadows-hot-topics-controversies-in-early-weeks-of-biden-admin.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 140
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21041817949151.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Bruce Castor: What to know about Trump impeachment defense attorney"
     excerpt: "Former President Donald Trump on Sunday announced his new legal team for his upcoming Senate impeachment trial, featuring attorney Bruce Castor."
     publishedDateTime: 2021-02-01T14:02:00Z
@@ -1416,6 +1464,22 @@ related:
     quality: 131
     images:
       - url: "https://images.wsj.net/im-296098/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Donald Trump Impeachment Trial Still Has GOP Sen. Bill Cassidy Asking Questions"
+    excerpt: "The Louisiana Republican has emerged as a wild card and most visible swing vote in the trial over whether former President Donald Trump incited the riot at the Capitol last month."
+    publishedDateTime: 2021-02-12T15:36:00Z
+    webUrl: "https://www.wsj.com/articles/donald-trump-impeachment-trial-still-has-gop-sen-bill-cassidy-asking-questions-11613144064"
+    ampWebUrl: "https://www.wsj.com/amp/articles/donald-trump-impeachment-trial-still-has-gop-sen-bill-cassidy-asking-questions-11613144064"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/donald-trump-impeachment-trial-still-has-gop-sen-bill-cassidy-asking-questions-11613144064"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 131
+    images:
+      - url: "https://images.wsj.net/im-298558/social"
         width: 1280
         height: 640
         isCached: true

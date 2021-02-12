@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.usatoday.com/amp/4419484001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4419484001"
 type: article
 quality: 107
-heat: 107
-published: true
+heat: -1
+published: false
 
 provider:
   name: USA Today
@@ -29,6 +29,62 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Biden to press for $1.9 trillion COVID relief plan with governors, mayors"
+    excerpt: "U.S. President Joe Biden will meet with a bipartisan group of mayors and governors on Friday as he continues to push for approval of a $1.9 trillion coronavirus relief plan to bolster economic growth and help millions of unemployed workers."
+    publishedDateTime: 2021-02-12T16:04:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden/biden-to-press-for-1-9-trillion-covid-relief-plan-with-governors-mayors-idUSKBN2AC10D"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AC10D"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AC10D"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210212&t=2&i=1551340103&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1B0Q3"
+        width: 811
+        height: 545
+        isCached: true
+  - title: "Senate panel clears Biden's nomination of Boston mayor for labor secretary"
+    excerpt: "President Joe Biden's nomination of Boston Mayor Marty Walsh to serve as the next secretary of labor won approval from a Senate committee on Thursday, clearing the way for a vote by the full Senate."
+    publishedDateTime: 2021-02-11T22:38:00Z
+    webUrl: "https://www.reuters.com/article/employment-dol-idUSL1N2KH1S5"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2KH1S5"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2KH1S5"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 103
+  - title: "Joe Biden to visit Milwaukee next week for his first official trip as president"
+    excerpt: "President Joe Biden will visit Wisconsin next week for his first official trip as president beyond his home state of Delaware."
+    publishedDateTime: 2021-02-09T16:16:00Z
+    webUrl: "https://www.chicagotribune.com/politics/ct-aud-nw-joe-biden-wisconsin-visit-20210209-oxt7cvgzhneedf36f3dsfl2fzu-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/politics/ct-aud-nw-joe-biden-wisconsin-visit-20210209-oxt7cvgzhneedf36f3dsfl2fzu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/politics/ct-aud-nw-joe-biden-wisconsin-visit-20210209-oxt7cvgzhneedf36f3dsfl2fzu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 101
+  - title: "The Biden administration is building three new COVID-19 vaccination sites in Texas and two in New York to target socially vulnerable communities"
+    excerpt: "Five new COVID-19 vaccination sites will altogether be able to vaccinate 10,000 people in underserved communities in the US every day."
+    publishedDateTime: 2021-02-11T12:57:00Z
+    webUrl: "https://www.businessinsider.com/joe-biden-administration-five-new-vaccination-sites-new-york-texas-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/joe-biden-administration-five-new-vaccination-sites-new-york-texas-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-biden-administration-five-new-vaccination-sites-new-york-texas-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 88
+    images:
+      - url: "https://i.insider.com/6025170367d1e300113c5762?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "fjs3vay+Zfr2R/tc/ekl9d0Fl09L5sjbeSX9P/c8O7JlH7VscEwyUqRZ3JXYf7uyUzgTwJdmcf3WM+WLlDyZraXuI3We5rwnK5bcTEhG/wOxivdjSdgu2+vlQC1n6tPcawuF2RHi8g09iDPW3gV49X0ucvwWKnd81ZP4+K4pxmta/oiITrRjJ8OmSyXSeLnJTbrHRWIq212/uRllufUJfYs5pwpQjkCqpt/0e/vTOpe13/mBEPiMPlWDPN5rj29Ld/vi0poCO822CCzyIg5fcCQw0bkSYUETxtsfNWVOonwhn876YSlMGOxNoZtLsD5ITMa/Z4hNZHoYUB6NjN1n3TX5FX3KcD2FauEDAIG0KJGa7qV/I0AlJf1Q3v//M3ioDAAm/vFg4fycwxLH0n3/t1cUKtpV9ivU+9yVPGEnyYuD6SKV/VQ9rQkCC0vu5Q410+0ZFJ86rcZfF9moutPLnklYl4dRx1BpXab3Ia0S9p6IuRkul1zcATBlf72g7YH1ELsR1uHZLgZKgO2BMjRunA==;Ln9l4ngr0MxyvO+N06Ki1w=="
 ---

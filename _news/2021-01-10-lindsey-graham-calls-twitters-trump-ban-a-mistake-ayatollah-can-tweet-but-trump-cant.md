@@ -80,6 +80,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Nikki Haley says Trump 'let us down'"
+    excerpt: "Former U.S. Ambassador to the United Nations Nikki Haley said in an interview published Friday that former President Donald Trump let his supporters down."
+    publishedDateTime: 2021-02-12T16:43:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XKt5Nhnycpw/nikki-haley-trump-let-down"
+    ampWebUrl: "https://www.foxnews.com/politics/nikki-haley-trump-let-down.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nikki-haley-trump-let-down.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/10/640/320/ContentBroker_contentid-5e89f1548e7b4be2b516b8d5cd0c96c5.png?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Lindsey Graham calls Twitter's Trump ban a mistake: 'Ayatollah can tweet, but Trump can’t'"
     excerpt: "Sen. Lindsey Graham, R-S.C., lashed out at Twitter after the social media site announced Friday a permanent ban on President Trump's personal account, calling the move a \"serious mistake.\" "
     publishedDateTime: 2021-01-09T20:30:06Z

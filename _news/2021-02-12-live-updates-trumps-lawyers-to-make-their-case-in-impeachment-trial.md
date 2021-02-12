@@ -1551,6 +1551,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Lawyer defending Trump accustomed to political disaster"
+    excerpt: "Bruce L. Castor Jr. had to prepare his arguments in just a few days after former President Trump's legal team quit."
+    publishedDateTime: 2021-02-12T16:52:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-02-12/bruce-castor-impeachment-trial"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-02-12/bruce-castor-impeachment-trial?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-02-12/bruce-castor-impeachment-trial?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/0645b38/2147483647/strip/true/crop/2422x1582+194+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F27%2Fff%2F7f0fd770455bb35ab607ae3c431e%2Ftrump-impeachment-67980.jpg"
+        width: 320
+        height: 209
+        isCached: true
   - title: "UPDATE 1-U.S. DOJ to ask Trump-appointed prosecutors to resign -official"
     excerpt: "The U.S. Department of Justice on Tuesday is expected to ask most federal prosecutors appointed by former President Donald Trump to submit their resignations, a Justice Department official said."
     publishedDateTime: 2021-02-09T20:26:00Z
@@ -3231,6 +3247,6 @@ related:
       domain: usnews.com
     quality: 46
 
-secured: "ksSBEEtGUvS5NM5OBGTTBCpee8d38ySfO9w62N2lT4N4ZWrClzOJu/My6Q2Xt914BazNUAMrURyi8WEXrnGeaIM1vdLUaTaSn/AaH63vtPpz0rU0ZVEaT/Xj51eUyhRPijsw4kJYFtQHd/Pd319vUve2yEK0GRcbGsWWfqjfadYghmF1hCs0euihbgKdZ59IsKLwjr9+Stl8U1IsY5YEykKmVCX4b5mdVe5x0kzc1KVAvO5EjL5m/PkICIqToIodLxd2oYCTI24BcBfkpEr32KRm/6DE8JWSzWf+hm+dBOdNUcM+FqPaPd/yiryoK17aCI8G2LFLwYEk/rtPydmLb4Wt8xmUWLUx/gL+7P2Q1OA=;a+rJ+t/fmqmBlnkYceW+Mw=="
+secured: "CR5qurjAunDrJ35Wgyu5VcBnj7nb86LT9XaAMjheqhxGFtdG+DeAw7pgsdqdYNAeGQ4kkwcx16eF31D5dX3PNGw7NyIJYGXZyV6T8nrdisRyaBHYkEeUqdewhZ1sLIRys6n9ZcizECmspZQu2BXwwlGOQKP//FXfsd8vgg4WF6wcbawSG1cbw9z2OEI1gib/ykky67208XLaO8BskF7b9KBGxP8L7+ZqIAi+3Nlu+H+B3wfao1vzvGPI62wyvLYh8YwdSwJkica8wnfPUQxtkYPgwm64QqvTy0eTzjSm8WJb50kTVapWeVaCH4k4kWxMlhhrAQ4nl4NBPpHUAekfV7gC6B8ihahCzK03dQ6g3XV/V6tpLMMF0qP2nAma38ZXiVCsbZyH4mDIU5IMUtCQOxHs2fZbuDKMMjuIvORcy+ozKSwLzwkJtJpZIZsWttvgpuJ929TrhQKdaVmBcmR6KPljTUW6/hyLtOueRqYCud9kqoD/Dvs2wsTxqMv9pvj+lwMyiVsroCDOBa5KK/6Jrw==;7oVcoNm+p4cEGVwVPP5N4g=="
 ---
 

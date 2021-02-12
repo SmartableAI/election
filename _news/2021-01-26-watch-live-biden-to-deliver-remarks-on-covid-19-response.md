@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/covid-19-biden-speech-watch-live-st
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/covid-19-biden-speech-watch-live-stream-today-2021-01-26/"
 type: article
 quality: 125
-heat: 665
+heat: 685
 published: true
 
 provider:
@@ -142,6 +142,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Watch live: Biden meets with governors to discuss COVID relief"
+    excerpt: "President Biden and Vice President Harris on Friday morning are slated to meet with governors and mayors to discuss the America Rescue Plan and other COVID-19 relief.The meeting is scheduled to begin at 11:15 a."
+    publishedDateTime: 2021-02-12T15:02:00Z
+    webUrl: "https://thehill.com/video/administration/538590-watch-live-biden-meets-with-governors-to-discuss-covid-relief"
+    ampWebUrl: "https://thehill.com/video/administration/538590-watch-live-biden-meets-with-governors-to-discuss-covid-relief?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/administration/538590-watch-live-biden-meets-with-governors-to-discuss-covid-relief?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/harriskamala_bidenjoe_02112021getty.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Biden seeks to speed delivery of coronavirus stimulus checks and food aid"
     excerpt: "U.S. President Joe Biden on Friday will sign orders to speed the issuance of pandemic stimulus checks to needy families and increase food aid for children who normally rely on school meals for nutrition."

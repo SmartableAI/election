@@ -159,6 +159,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Watch live: Biden meets with governors to discuss COVID relief"
+    excerpt: "President Biden and Vice President Harris on Friday morning are slated to meet with governors and mayors to discuss the America Rescue Plan and other COVID-19 relief.The meeting is scheduled to begin at 11:15 a."
+    publishedDateTime: 2021-02-12T15:02:00Z
+    webUrl: "https://thehill.com/video/administration/538590-watch-live-biden-meets-with-governors-to-discuss-covid-relief"
+    ampWebUrl: "https://thehill.com/video/administration/538590-watch-live-biden-meets-with-governors-to-discuss-covid-relief?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/administration/538590-watch-live-biden-meets-with-governors-to-discuss-covid-relief?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/harriskamala_bidenjoe_02112021getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Biden signs order to reopen Obamacare markets for special Covid-19 coverage"
     excerpt: "President expected to sign executive order for special sign-up opportunity amid the coronavirus pandemic"
     publishedDateTime: 2021-01-28T20:13:00Z
