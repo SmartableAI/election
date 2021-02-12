@@ -383,6 +383,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Mounting evidence suggests Trump knew of danger to Pence when he attacked him as lacking ‘courage’ amid Capitol siege"
+    excerpt: "His decision to denigrate the vice president as rioters were marauding through the building underscores how Trump delayed taking action to rein in his supporters."
+    publishedDateTime: 2021-02-12T00:41:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-tweet-pence-capitol/2021/02/11/cc7d9f7e-6c7f-11eb-9f80-3d7646ce1bc0_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-tweet-pence-capitol/2021/02/11/cc7d9f7e-6c7f-11eb-9f80-3d7646ce1bc0_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-tweet-pence-capitol/2021/02/11/cc7d9f7e-6c7f-11eb-9f80-3d7646ce1bc0_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 127
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YAHDG4CUMAI6XLGFSLJIDGQ4ZM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Historians rail against Trump administration's 1776 Commission"
     excerpt: "Experts call report released by former administration a ‘puerile, politically reactionary document’"
     publishedDateTime: 2021-01-22T08:00:00Z
@@ -1407,6 +1423,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Lawyer who defended Trump accustomed to political disaster"
+    excerpt: "Bruce Castor, a onetime rising-star prosecutor from suburban Philadelphia, made something of a comeback earlier this week in heading to the well of the U.S. Senate to defend his client, Donald Trump,"
+    publishedDateTime: 2021-02-12T08:55:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/lawyer-defended-trump-accustomed-political-disaster-75845214"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/lawyer-defended-trump-accustomed-political-disaster-75845214"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/lawyer-defended-trump-accustomed-political-disaster-75845214"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_a48bc8cf2b0340c5952d3a0b7e0978c3_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Now out of office, Trump may have to face tax questions"
     excerpt: "Whether or not Trump is convicted at his impeachment trial, he faces an IRS decision on a massive refund and may no longer be able to conceal his tax returns."
     publishedDateTime: 2021-02-12T00:38:00Z
@@ -1468,6 +1500,22 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/Lifestyle/WireAP_21ccf908b44049c790640240fbf1478c_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "What to watch as Trump's lawyers deliver impeachment defense"
+    excerpt: "Donald Trump’s lawyers have a simple objective as they open their defense at the former president’s impeachment trial: Don’t lose any votes"
+    publishedDateTime: 2021-02-12T08:55:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/watch-trumps-lawyers-deliver-impeachment-defense-75844844"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/watch-trumps-lawyers-deliver-impeachment-defense-75844844"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/watch-trumps-lawyers-deliver-impeachment-defense-75844844"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_ab6f3edeb90e496fa60c035c3c38ca7f_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
@@ -1854,22 +1902,6 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
-        isCached: true
-  - title: "Mounting evidence suggests Trump knew of danger to Pence when he attacked him as lacking ‘courage’ amid Capitol siege"
-    excerpt: "His decision to denigrate the vice president as rioters were marauding through the building underscores how Trump delayed taking action to rein in his supporters."
-    publishedDateTime: 2021-02-12T00:41:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-tweet-pence-capitol/2021/02/11/cc7d9f7e-6c7f-11eb-9f80-3d7646ce1bc0_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-tweet-pence-capitol/2021/02/11/cc7d9f7e-6c7f-11eb-9f80-3d7646ce1bc0_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-tweet-pence-capitol/2021/02/11/cc7d9f7e-6c7f-11eb-9f80-3d7646ce1bc0_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 117
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YAHDG4CUMAI6XLGFSLJIDGQ4ZM.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
   - title: "Multiple attorneys no longer expected on Trump's impeachment defense team as trial nears"
     excerpt: "About a week before his Senate trial, former President Donald Trump has no announced legal team and at least five attorneys who were expected to help lead the team are no longer part of it. The remarkable last-minute shifts add fresh uncertainty over Trump's legal strategy and highlight the struggle the former president has had in corralling a legal team after he became the first president in U."

@@ -8,7 +8,7 @@ webUrl: "https://www.washingtonpost.com/politics/trump-tweet-pence-capitol/2021/
 ampWebUrl: "https://www.washingtonpost.com/politics/trump-tweet-pence-capitol/2021/02/11/cc7d9f7e-6c7f-11eb-9f80-3d7646ce1bc0_story.html?outputType=amp"
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-tweet-pence-capitol/2021/02/11/cc7d9f7e-6c7f-11eb-9f80-3d7646ce1bc0_story.html?outputType=amp"
 type: article
-quality: 117
+quality: 127
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Election
   - Mike Pence
+  - Donald Trump
 
 images:
   - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YAHDG4CUMAI6XLGFSLJIDGQ4ZM.jpg&w=1440"
@@ -1407,6 +1408,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Lawyer who defended Trump accustomed to political disaster"
+    excerpt: "Bruce Castor, a onetime rising-star prosecutor from suburban Philadelphia, made something of a comeback earlier this week in heading to the well of the U.S. Senate to defend his client, Donald Trump,"
+    publishedDateTime: 2021-02-12T08:55:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/lawyer-defended-trump-accustomed-political-disaster-75845214"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/lawyer-defended-trump-accustomed-political-disaster-75845214"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/lawyer-defended-trump-accustomed-political-disaster-75845214"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_a48bc8cf2b0340c5952d3a0b7e0978c3_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Now out of office, Trump may have to face tax questions"
     excerpt: "Whether or not Trump is convicted at his impeachment trial, he faces an IRS decision on a massive refund and may no longer be able to conceal his tax returns."
     publishedDateTime: 2021-02-12T00:38:00Z
@@ -1484,6 +1501,22 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/Business/WireAP_84cece978c684e7d99b78c9d75c480c0_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "What to watch as Trump's lawyers deliver impeachment defense"
+    excerpt: "Donald Trump’s lawyers have a simple objective as they open their defense at the former president’s impeachment trial: Don’t lose any votes"
+    publishedDateTime: 2021-02-12T08:55:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/watch-trumps-lawyers-deliver-impeachment-defense-75844844"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/watch-trumps-lawyers-deliver-impeachment-defense-75844844"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/watch-trumps-lawyers-deliver-impeachment-defense-75844844"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_ab6f3edeb90e496fa60c035c3c38ca7f_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true

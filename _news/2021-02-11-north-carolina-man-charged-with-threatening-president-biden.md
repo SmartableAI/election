@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/north-carolina-man-charged-threaten
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/north-carolina-man-charged-threatening-president-biden.amp"
 type: article
 quality: 175
-heat: 395
+heat: 415
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Cuomo heads to DC to meet with Biden as NY nursing-home scandal explodes"
+    excerpt: "New York Gov. Andrew Cuomo is getting away from the state, at least for a few hours, as his nursing-home scandal appears to grow wider."
+    publishedDateTime: 2021-02-12T10:00:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UBwklVuJr_s/cuomo-heads-to-dc-to-meet-with-biden-as-ny-nursing-home-scandal-explodes"
+    ampWebUrl: "https://www.foxnews.com/politics/cuomo-heads-to-dc-to-meet-with-biden-as-ny-nursing-home-scandal-explodes.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-heads-to-dc-to-meet-with-biden-as-ny-nursing-home-scandal-explodes.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4531e58f-ebf5-4c8e-8e5f-8f5d5d449ae0/fcb668d2-694d-4b49-a2ff-02191cdd67d2/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Psaki pressed on Biden admin not deporting illegal immigrants who drive drunk"
     excerpt: "White House Press Secretary Jen Psaki was asked on Monday about pending guidance that would spare some illegal immigrants convicted of less serious offenses from deportation"
@@ -127,22 +143,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden faces bipartisan backlash after firing prosecutor probing corruption among Illinois Democrats"
-    excerpt: "President Biden triggered outcries from Illinois lawmakers on both sides of the aisle after he fired a prosecutor overseeing corruption probes of Democrats in the state. "
-    publishedDateTime: 2021-02-12T03:07:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kpmSC1vnTCQ/biden-backlash-after-firing-prosecutor-running-corruption-investigation-illinois-dems"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-backlash-after-firing-prosecutor-running-corruption-investigation-illinois-dems.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-backlash-after-firing-prosecutor-running-corruption-investigation-illinois-dems.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 161
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/445ed9ed-cd0c-41f3-83e6-58a88f7d11ba/8d88fc84-ae2d-47e0-a180-90c427f3db5e/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Official tasked with briefing Biden reportedly defended CIA’s false intel about torture effectiveness"
     excerpt: "The CIA official in charge of overseeing President Biden’s daily intelligence briefing reportedly lead a standoff between the CIA and the Senate Intelligence Committee."
     publishedDateTime: 2021-02-06T22:04:36Z
@@ -190,6 +190,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Biden faces bipartisan backlash after firing prosecutor probing corruption among Illinois Democrats"
+    excerpt: "President Biden triggered outcries from Illinois lawmakers on both sides of the aisle after he fired a prosecutor overseeing corruption probes of Democrats in the state."
+    publishedDateTime: 2021-02-12T03:13:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-backlash-after-firing-prosecutor-running-corruption-investigation-illinois-dems"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-backlash-after-firing-prosecutor-running-corruption-investigation-illinois-dems.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-backlash-after-firing-prosecutor-running-corruption-investigation-illinois-dems.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 121
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/445ed9ed-cd0c-41f3-83e6-58a88f7d11ba/8d88fc84-ae2d-47e0-a180-90c427f3db5e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "President Biden: \"We're Still In The Teeth Of This Pandemic,\" Congress Must Pass Relief Bill Now"
     excerpt: "President Biden called on Congress to act quickly to pass his proposal for a $1.9 trillion coronavirus relief package on Friday, in a speech following a weak January jobs report. Biden vowed that he would follow through on his campaign promise to provide Americans with $2,"

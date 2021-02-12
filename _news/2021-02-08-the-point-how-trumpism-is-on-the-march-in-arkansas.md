@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/08/politics/trump-arkansas-governor-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/08/politics/trump-arkansas-governor-sarah-huckabee-sanders/index.html"
 type: article
 quality: 175
-heat: 335
+heat: 355
 published: true
 
 provider:
@@ -142,6 +142,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/02/11/nyregion/11nytoday/11nytoday-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "The post-Trump path of “one dude”"
+    excerpt: "With Donald Trump's impeachment acquittal almost assured, at the moment, the Republicans standing against him are in danger of being run over in the post-Trump GOP. But if the GOP’s fervor for the former president fades to any degree,"
+    publishedDateTime: 2021-02-12T10:00:00Z
+    webUrl: "https://www.politico.com/news/2021/02/12/the-post-trump-path-of-one-dude-468784"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/02/12/the-post-trump-path-of-one-dude-468784"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/02/12/the-post-trump-path-of-one-dude-468784"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/78/52/c629352345e6be4f9041d6c5e202/nerdcast-0212.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "The First Trial Seemed Abstract. This One Is a Visceral Reckoning Over Trump."
     excerpt: "At issue will be many aspects that defined Donald Trump’s presidency: his relentless assaults on truth, his fomenting of divisions, his shattering of norms and his undermining of an election."

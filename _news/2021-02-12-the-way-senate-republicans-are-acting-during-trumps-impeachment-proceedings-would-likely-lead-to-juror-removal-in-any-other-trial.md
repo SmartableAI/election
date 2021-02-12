@@ -79,6 +79,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Trump was pictured golfing as Democrats hammered home the case against him at his impeachment trial"
+    excerpt: "Mail published photos of Trump golding at his Florida resort during his impeachment trial, and a CNN anchor said he was pictured."
+    publishedDateTime: 2021-02-12T10:41:00Z
+    webUrl: "https://www.businessinsider.com/trump-pictured-golfing-during-his-impeachment-trial-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/trump-pictured-golfing-during-his-impeachment-trial-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-pictured-golfing-during-his-impeachment-trial-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
+    images:
+      - url: "https://i.insider.com/60265266b3c2a800183cc858?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "'Fighting for Trump:' Democrats Say Capitol Attackers Were Answering Ex-President's Call"
     excerpt: "Democrats Say Capitol Attackers Were Answering Ex-President's Call WASHINGTON (Reuters) - Democrats making the case for Donald Trump's conviction for inciting the deadly attack on the U.S. Capitol on Jan."
     publishedDateTime: 2021-02-11T20:28:00Z

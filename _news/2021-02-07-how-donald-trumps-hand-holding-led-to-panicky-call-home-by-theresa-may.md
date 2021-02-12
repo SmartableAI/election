@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/07/how-donald-trumps-ha
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/07/how-donald-trumps-hand-holding-led-to-panicky-call-home-by-theresa-may"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/7f5733b1fe59734a9c8909c09045f903174195c1/22_0_5330_3199/master/5330.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e87baa6bac0701cb8fc8341694b623a3"
         width: 600
         height: 360
+        isCached: true
+  - title: "Trump was pictured golfing as Democrats hammered home the case against him at his impeachment trial"
+    excerpt: "Mail published photos of Trump golding at his Florida resort during his impeachment trial, and a CNN anchor said he was pictured."
+    publishedDateTime: 2021-02-12T10:41:00Z
+    webUrl: "https://www.businessinsider.com/trump-pictured-golfing-during-his-impeachment-trial-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/trump-pictured-golfing-during-his-impeachment-trial-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-pictured-golfing-during-his-impeachment-trial-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
+    images:
+      - url: "https://i.insider.com/60265266b3c2a800183cc858?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "The way Senate Republicans are acting during Trump's impeachment proceedings would likely lead to juror removal in any other trial"
     excerpt: "In a regular criminal proceeding, a judge can remove jurors for not paying attention, being absent, or falling asleep, among other infractions."

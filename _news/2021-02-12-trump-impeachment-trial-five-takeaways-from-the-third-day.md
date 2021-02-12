@@ -384,6 +384,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden State Dept scheduled event on racism as a national security threat"
+    excerpt: "The State Department was scheduled to host a Zoom discussion Tuesday on \"Racism Being a Threat to National Security and Democracy.\""
+    publishedDateTime: 2021-02-12T09:13:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/53CC0ySp8rU/state-dept-racism-national-security-threat"
+    ampWebUrl: "https://www.foxnews.com/politics/state-dept-racism-national-security-threat.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/state-dept-racism-national-security-threat.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/946af592-ccb6-41c6-9e14-1d6db1ebc40e/f5dc003e-f510-4d6f-9e1a-8a76b41c6a30/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Michael van der Veen: What to know about Trump impeachment defense attorney"
     excerpt: "The pre-trial brief filed by former President Donald Trump's defense team had one extra name on it besides the two widely-reported attorneys leading his impeachment defense in the Senate: Michael T. van der Veen. "
     publishedDateTime: 2021-02-09T20:00:51Z
@@ -1324,6 +1340,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Donald Trump Impeachment Trial Day Four: Defense to Set Out Case"
+    excerpt: "The legal team representing the former president intends to keep the defense presentation to one day and brief."
+    publishedDateTime: 2021-02-12T10:43:00Z
+    webUrl: "https://www.wsj.com/articles/donald-trump-impeachment-trial-day-four-defense-to-set-out-case-11613125807"
+    ampWebUrl: "https://www.wsj.com/amp/articles/donald-trump-impeachment-trial-day-four-defense-to-set-out-case-11613125807"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/donald-trump-impeachment-trial-day-four-defense-to-set-out-case-11613125807"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-298478/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Trump denies inciting Capitol riot, says Senate can’t hold impeachment trial"
     excerpt: "Former President Donald Trump denied Tuesday that he encouraged his supporters to storm the US Capitol last month — and argued that the Senate doesn’t have the authority to hold a"
     publishedDateTime: 2021-02-02T20:07:00Z
@@ -1585,6 +1617,6 @@ related:
         height: 640
         isCached: true
 
-secured: "J4iRXXoIiSLlZhH/Edmt2MCNAOaiYpQm0Nm8qJ7QFpXjZEhj4i1yVWaGdkUi5jbzgxDslXVbjmo4OuCgqC8x/kbIYp36wPOSW5BHbr4Q/wHO/llGZ2BUqfiVYdjcWvKpDkArp0wymoFX7lNQVp51KTX5aXfjTSyUdKOVsBbDwJK41RbvJ2td01L1tu5eV4g4DRPgeXoMhYbLXVmm1wsFyXg3YLanF4uQ2KPFMrFetj+Ab2bEBlpgXMATNd+W9DkQ65VKhc+opCwvBRuPpGGcK65CMYSQviZ8JDbo5A9jKUYbeVce9ek2MU501xseGpnySroOqHugj69udAZ7dR8IGoIYGg3DOmPHvMFr0qQ2iEA=;3Bo29GRUaKc3ynjkAOp+zA=="
+secured: "7ADhi5OrqZ13Zhzr9ZZ9ixeEaFDWzxUxmN0AuiwVZXEarURHCBy5JKijcqobyje1JGh6rm2jlLTqwDoD28Or1L4pefvYzRoGX/kxctywc522QKfwsFuKj/hiKVUTeL5o7pxGwDVuJuoiFV8M75qHJrd+HSRi/evPY0F/Ot00q3cNjr6pI3RTUVN0wL+BWdAUexH/HQv+qxn7CsJZzqXXU6zqd6eh+Isk4yIqVTamgk/kQnq8Vfc1vedbak94eklUWUZ9WJNgZ3iBZtw/hWzFIgFA2YW5EJ/15jzF9OEiDpkdA5IaULbxaA5K7D+wvPVPj/BzgAur6K2d9LZg6K2CN9BhsXKUj9YF33GPLtwgJkzi9PK2Syss1pohI256d/6sGSCjITvlPgKVfPyfExZaoLNLXa5zVCd21LENncRdpTi8b16DS3XsRKL4n9TIf3/Tlw5Cou3DHvliKX+dITKNEZH+Q+s+QsFhdYjTuKnWTg1+13CNWYU2Xx//efDhX1lXzJnN7uEGAYWmq8d8MhZg9A==;79cim7ota2DJnUu/Di2eqA=="
 ---
 

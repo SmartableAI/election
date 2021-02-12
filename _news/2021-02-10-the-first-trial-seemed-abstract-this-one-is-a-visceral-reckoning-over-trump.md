@@ -160,6 +160,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "The post-Trump path of “one dude”"
+    excerpt: "With Donald Trump's impeachment acquittal almost assured, at the moment, the Republicans standing against him are in danger of being run over in the post-Trump GOP. But if the GOP’s fervor for the former president fades to any degree,"
+    publishedDateTime: 2021-02-12T10:00:00Z
+    webUrl: "https://www.politico.com/news/2021/02/12/the-post-trump-path-of-one-dude-468784"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/02/12/the-post-trump-path-of-one-dude-468784"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/02/12/the-post-trump-path-of-one-dude-468784"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/78/52/c629352345e6be4f9041d6c5e202/nerdcast-0212.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "FGT+JHn7TXXHv0i4fX3jDSeB2lVL3hcqxbVvkfMwesY+o2pN7owcvZsqgsyOX5dOlERMUTt88VlhZzVqYJT0qJiyjI+Om1g0dRnwnc4t6KBeOr7hxdo1rlQh9k3l2UNqNtO+HMK4QJ7PxE4uVEr1hROIkvbw0JKcGSj6gzw9rl0uU8NqTlIlKVHgNCmMOoxae66scD1Iz3uabhsPyJ87HWWvEaXj39e8jDbMQF+7YnqnnNOkHn6XlqZ2jytxNTbmPkFW+kZ71gUyAMEaOG0k/u+3DZYfx3cxGr4/2bVjFLEWKAcLXk55a0Ar3kkE3ktqzyl8Vv9cEWd7VDfPPCZb1xshKHFnQsOMlyVTefl3eIE=;O2B5+WJYWnWczHMBlHG0eQ=="
 ---

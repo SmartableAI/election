@@ -380,6 +380,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden State Dept scheduled event on racism as a national security threat"
+    excerpt: "The State Department was scheduled to host a Zoom discussion Tuesday on \"Racism Being a Threat to National Security and Democracy.\""
+    publishedDateTime: 2021-02-12T09:13:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/53CC0ySp8rU/state-dept-racism-national-security-threat"
+    ampWebUrl: "https://www.foxnews.com/politics/state-dept-racism-national-security-threat.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/state-dept-racism-national-security-threat.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/946af592-ccb6-41c6-9e14-1d6db1ebc40e/f5dc003e-f510-4d6f-9e1a-8a76b41c6a30/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Michael van der Veen: What to know about Trump impeachment defense attorney"
     excerpt: "The pre-trial brief filed by former President Donald Trump's defense team had one extra name on it besides the two widely-reported attorneys leading his impeachment defense in the Senate: Michael T. van der Veen. "
     publishedDateTime: 2021-02-09T20:00:51Z
@@ -1319,6 +1335,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/USA-TRUMP_SAGE-1.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Donald Trump Impeachment Trial Day Four: Defense to Set Out Case"
+    excerpt: "The legal team representing the former president intends to keep the defense presentation to one day and brief."
+    publishedDateTime: 2021-02-12T10:43:00Z
+    webUrl: "https://www.wsj.com/articles/donald-trump-impeachment-trial-day-four-defense-to-set-out-case-11613125807"
+    ampWebUrl: "https://www.wsj.com/amp/articles/donald-trump-impeachment-trial-day-four-defense-to-set-out-case-11613125807"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/donald-trump-impeachment-trial-day-four-defense-to-set-out-case-11613125807"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-298478/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Trump Impeachment Trial: Five Takeaways From the Third Day"
     excerpt: "Key moments and themes from Thursday’s session as House managers finished making their case."

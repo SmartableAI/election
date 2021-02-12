@@ -889,6 +889,22 @@ related:
         width: 1200
         height: 685
         isCached: true
+  - title: "Trump impeachment trial: Senate to hear former president's defense – live updates"
+    excerpt: "Senate reconvenes at noon with Trump’s team expected to push for swift conclusion to second impeachment trial"
+    publishedDateTime: 2021-02-12T10:44:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/12/donald-trump-impeachment-senate-trial-defense-lwayer-republican-senators-coronavirus-covid-live-updates?page=with:block-602658668f08b555964bc6e2"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/12/donald-trump-impeachment-senate-trial-defense-lwayer-republican-senators-coronavirus-covid-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/12/donald-trump-impeachment-senate-trial-defense-lwayer-republican-senators-coronavirus-covid-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
+    images:
+      - url: "https://i.guim.co.uk/img/media/79fba6632541512957dc0b78860b73395af2360a/1312_1940_2758_1655/master/2758.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6095dca49c0da108981df60080c2a9a3"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Donald Trump resigns from SAG-AFTRA: Read his full letter, actors' guild's response"
     excerpt: "Donald Trump is resigning from SAG-AFTRA after facing expulsion from the actors' union for inciting the Capitol riots Jan. 6."
     publishedDateTime: 2021-02-05T04:16:00Z

@@ -95,6 +95,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "U.S. DoJ says man in North Carolina charged with threatening Biden"
+    excerpt: "The U.S. Department of Justice said on Thursday that a man in North Carolina was charged with threatening President Joe Biden."
+    publishedDateTime: 2021-02-12T10:29:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-threat-idUSKBN2AC0D4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AC0D4"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AC0D4"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210212&t=2&i=1551301227&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1B08I"
+        width: 792
+        height: 545
+        isCached: true
   - title: "Biden raises Taiwan and human rights with Xi Jinping in first phone call"
     excerpt: "The conversation came hours after the US president announced a new Pentagon taskforce on China"
     publishedDateTime: 2021-02-11T04:53:00Z
