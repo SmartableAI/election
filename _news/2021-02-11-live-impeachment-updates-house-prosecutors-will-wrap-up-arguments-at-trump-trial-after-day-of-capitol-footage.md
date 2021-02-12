@@ -159,6 +159,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Live impeachment updates: Trump's legal team aims to distance him from Capitol violence in opening arguments"
+    excerpt: "Donald Trump's lawyers say Democratic prosecutors failed to connect the former president to the violence that unfolded at the Capitol on Jan. 6."
+    publishedDateTime: 2021-02-12T12:15:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/12/trump-impeachment-trial-ex-presidents-team-argue-his-innocence/4422711001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4422711001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4422711001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 106
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/11/USAT/45a947a2-e660-4eed-a658-2b1fa67886b2-AFP_92R6UW.jpg?auto=webp&crop=4964,2793,x0,y252&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump impeachment trial: After emotional first day, opening arguments begin today in historic second Senate trial"
     excerpt: "Opening arguments will begin Wednesday in Donald Trump’s impeachment trial after an emotional first day that wrenched senators back to the Jan. 6 attack on the U.S. Capitol."
     publishedDateTime: 2021-02-10T12:56:00Z

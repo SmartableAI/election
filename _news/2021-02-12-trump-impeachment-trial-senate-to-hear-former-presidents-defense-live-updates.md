@@ -2,9 +2,9 @@
 category: news
 title: "Trump impeachment trial: Senate to hear former president's defense – live updates"
 excerpt: "Senate reconvenes at noon with Trump’s team expected to push for swift conclusion to second impeachment trial"
-publishedDateTime: 2021-02-12T10:44:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/feb/12/donald-trump-impeachment-senate-trial-defense-lwayer-republican-senators-coronavirus-covid-live-updates?page=with:block-602658668f08b555964bc6e2"
-webUrl: "https://www.theguardian.com/us-news/live/2021/feb/12/donald-trump-impeachment-senate-trial-defense-lwayer-republican-senators-coronavirus-covid-live-updates?page=with:block-602658668f08b555964bc6e2"
+publishedDateTime: 2021-02-12T12:09:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/feb/12/donald-trump-impeachment-senate-trial-defense-lwayer-republican-senators-coronavirus-covid-live-updates?page=with:block-60266f7c8f0886db2aba76b3"
+webUrl: "https://www.theguardian.com/us-news/live/2021/feb/12/donald-trump-impeachment-senate-trial-defense-lwayer-republican-senators-coronavirus-covid-live-updates?page=with:block-60266f7c8f0886db2aba76b3"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/12/donald-trump-impeachment-senate-trial-defense-lwayer-republican-senators-coronavirus-covid-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/12/donald-trump-impeachment-senate-trial-defense-lwayer-republican-senators-coronavirus-covid-live-updates"
 type: article
@@ -815,6 +815,22 @@ related:
         width: 824
         height: 545
         isCached: true
+  - title: "Biden's push for electric vehicles puts US in international race to electrify"
+    excerpt: "The comedic ad war between General Motors and Norway represents a real race for countries staking a claim in the electric vehicle space."
+    publishedDateTime: 2021-02-12T11:00:00Z
+    webUrl: "https://abcnews.go.com/Politics/bidens-push-electric-vehicles-puts-us-international-race/story?id=75835697"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/bidens-push-electric-vehicles-puts-us-international-race/story?id=75835697"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/bidens-push-electric-vehicles-puts-us-international-race/story?id=75835697"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 122
+    images:
+      - url: "https://s.abcnews.com/images/US/electric-car-oslo-gty-jt-210211_1613078687857_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Graphic riot videos not enough to convict Trump, some Republican senators say"
     excerpt: "Multiple Republican senators found graphic videos of the deadly Jan. 6 attack on the U.S. Capitol upsetting but suggested they would not lead them to convict former President Donald Trump of inciting insurrection."
     publishedDateTime: 2021-02-11T16:13:00Z
@@ -1416,6 +1432,6 @@ related:
         height: 800
         isCached: true
 
-secured: "iBLpl2VuB6tclkI3pN1SrmSIsgsNZZQ/nPwHUeQaGwFfVIIEForKXug2Rn1iDOCPn6LMTu3RLze4rFz343vdnYFohSWtjAkt5UPsB6U2p0I6dt8GEiM7ptxV5EFUReWJ49o9meW8+VgFiMpc2bUAmQbDL85ibfpCN6qI8yFycd968V5zNopw0W42n0z5Kx89tc+wNEipi6GmOwDbzhrX1OT3cTY1LQWGHZFooqLBl8cDh1LcfHSTsoWiAUvT6+QWaBHf890yEYgQiO1H+hPywtv0usHCM/PuFJSxAOgoh+PJJSWMbgY5/VYzn+FDNqRm8tBuxDTwMmdj1CU0htByS3hn5R9MPzTbNrYlVfhtGGM=;FfbIeIKZQU4s74NYy3zCvQ=="
+secured: "3GTc2CnxAZXHia55O9Jw9o5LR9xoKUriKEXULdKSHWR5ZISoWhpyqZRVGVoE600AqGWm2mIBcE+eGJbSv9i/Kj+7zqDZa3mnxUDyNFx9ErU8XZRRI49Rz3+6MB/Ko5xElmCu2eIiR2kom6CSXiPQSXiQQcu9b4ExEijQM6GENXK3r04gm5ZGdmvdaPbwQ+zbZaA0Quy/qX0+EEb+ojEJsQdiXgIjU5Q+jHtBOQq+79ThAz0fqvm51/mOq8ouloOJNueQnBorPJQTJa+87f+qVSY5mb0zR0HM6NwfUljX13p2KF5JXlFEJO3ca+diFu2iQ0vzD9nh0moTCd08KiH1Uhs8X3oicj+kmJDyGfB33iM=;KU/HXqbA3f0NO7SgCa6D+w=="
 ---
 

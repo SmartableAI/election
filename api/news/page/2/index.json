@@ -2,6 +2,114 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-11-wall-street-journal-trump-might-be-acquitted-but-wont-live-down-disgraceful-conduct.md",
+      "title": "Wall Street Journal: Trump might be acquitted, but won't live down 'disgraceful conduct'",
+      "excerpt": "The Wall Street Journal’s editorial board wrote that while the Senate may acquit former President Trump over the deadly riot at the U.S. Capitol, “he won’t live down his disgraceful conduct.”",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/media/538390-wall-street-journal-trump-might-be-acquitted-but-wont-live-down-disgraceful",
+      "originalUrl": "https://thehill.com/homenews/media/538390-wall-street-journal-trump-might-be-acquitted-but-wont-live-down-disgraceful",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/trumpdonald_01202021_getty_1.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/media/538390-wall-street-journal-trump-might-be-acquitted-but-wont-live-down-disgraceful?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/538390-wall-street-journal-trump-might-be-acquitted-but-wont-live-down-disgraceful?amp",
+      "publishedDateTime": "2021-02-11T06:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-hillary-clinton-if-trump-is-acquitted-its-because-the-jury-includes-his-co-conspirators.md",
+      "title": "Hillary Clinton: If Trump is acquitted, it's 'because the jury includes his co-conspirators'",
+      "excerpt": "Hillary Clinton weighed in on former President Donald Trump's second impeachment trial this week, suggesting in a tweet that if the Senate ultimately votes to acquit him, it will only be because \"the jury includes his co-conspirators.\" ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9OkMP8yOkr8/hillary-clinton-if-senate-acquits-trump-its-because-jury-includes-his-co-conspirators",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9OkMP8yOkr8/hillary-clinton-if-senate-acquits-trump-its-because-jury-includes-his-co-conspirators",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/508b0a2c-ad2f-43ee-8c4d-ee5e92072be4/c090b894-fa1a-458f-ab09-2c770f54a94a/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/hillary-clinton-if-senate-acquits-trump-its-because-jury-includes-his-co-conspirators.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hillary-clinton-if-senate-acquits-trump-its-because-jury-includes-his-co-conspirators.amp",
+      "publishedDateTime": "2021-02-11T06:04:58-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-11-biden-may-pick-economist-lisa-cook-to-fill-an-open-fed-seat-she-would-be-the-first-black-woman-to-serve-on-the-board-report.md",
       "title": "Biden may pick economist Lisa Cook to fill an open Fed seat. She would be the first Black woman to serve on the board: report",
       "excerpt": "Currently a professor of economics, Cook previously served as an economic adviser under Obama and was a member of Biden's transition team.",
@@ -716,7 +824,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 1062,
+      "heat": 1082,
       "tags": null,
       "images": [
         {
@@ -929,7 +1037,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 544,
+      "heat": 584,
       "tags": null,
       "images": [
         {
@@ -1249,118 +1357,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-meadows-accuses-house-impeachment-managers-of-conveniently-leaving-out-one-line-from-trumps-jan-6-speech.md",
-      "title": "Meadows accuses House impeachment managers of 'conveniently leaving out' one line from Trump's Jan. 6 speech",
-      "excerpt": "President Trump’s former chief of staff Mark Meadows accused House impeachment managers of “conveniently” leaving out a line from Trump’s pre-Capitol riot speech, where he told supporters to “peacefully and patriotically” make their voices heard. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yS_vxeeeQq0/meadows-accuses-house-impeachment-managers-of-conveniently-leaving-out-one-line-from-trumps-jan-6-speech",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yS_vxeeeQq0/meadows-accuses-house-impeachment-managers-of-conveniently-leaving-out-one-line-from-trumps-jan-6-speech",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/61a66219-cef7-41be-bf5a-2420fbb38051/157f42b9-2028-471b-81e5-255abc31ee16/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/meadows-accuses-house-impeachment-managers-of-conveniently-leaving-out-one-line-from-trumps-jan-6-speech.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/meadows-accuses-house-impeachment-managers-of-conveniently-leaving-out-one-line-from-trumps-jan-6-speech.amp",
-      "publishedDateTime": "2021-02-10T12:30:55-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-chip-roy-slams-bidens-purposeful-and-deplorable-refusal-to-enforce-immigration-laws.md",
-      "title": "Chip Roy slams Biden's 'purposeful' and 'deplorable' refusal to enforce immigration laws",
-      "excerpt": "Rep. Chip Roy, R-Texas, slammed President Biden on Monday for what he described as a \"purposeful\" and \"deplorable\" refusal to enforce U.S. immigration laws.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/y5dhwFPrpz0/roy-bidens-purposeful-refusal-enforce-immigration-laws",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/y5dhwFPrpz0/roy-bidens-purposeful-refusal-enforce-immigration-laws",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/473395ed-38cf-476e-9b26-bcbcb685fb2c/85e0c82b-f0a4-4a7a-af32-149d073900e0/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/roy-bidens-purposeful-refusal-enforce-immigration-laws.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/roy-bidens-purposeful-refusal-enforce-immigration-laws.amp",
-      "publishedDateTime": "2021-02-10T12:26:52-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

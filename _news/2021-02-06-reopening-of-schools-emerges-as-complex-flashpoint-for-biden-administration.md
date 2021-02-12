@@ -143,6 +143,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Melania Trump disengaged from her husband's second impeachment trial and bitter over Jill Biden's publicity"
+    excerpt: "While former President Donald Trump watches his second impeachment trial unfold, Melania Trump spends most of her time post-White House relaxing at the spa and staying out of the fray.\n    \n"
+    publishedDateTime: 2021-02-12T12:26:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ae-0Sb-bqmI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/12/politics/melania-trump-mar-a-lago-impeachment/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/12/politics/melania-trump-mar-a-lago-impeachment/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180514120222-02-melania-trump-0507-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration to propose significant increase in refugees admitted to US"
     excerpt: "The Biden administration is proposing to revise the number of refugees that can be admitted to the United States in fiscal year 2021 to 62,500, a significant increase from the 15,000 cap put in place under former President Donald Trump, according to a report obtained by CNN.\n    \n"
     publishedDateTime: 2021-02-06T00:33:09Z
@@ -172,6 +188,22 @@ related:
     quality: 167
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125153646-02-raskin-jan-6-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration will begin processing migrants forced to stay in Mexico this month"
+    excerpt: "The Biden administration will begin processing migrants forced to stay in Mexico under a Trump-era policy into the United States on February 19, according to administration officials.\n    \n"
+    publishedDateTime: 2021-02-12T11:04:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RxAP_D-6RjI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/12/politics/mexico-migrants-us/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/12/politics/mexico-migrants-us/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210204111459-12-immigration-file-asylum-seekers-mexico-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

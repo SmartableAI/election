@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's defense team faces a heavy burden, but loyalty to former President hangs over trial"
+    excerpt: "Donald Trump's defense lawyers face a daunting mission Friday in refuting a devastating impeachment case that the former President is a dangerous tyrant who turned his mob on his fellow Americans.\n    \n"
+    publishedDateTime: 2021-02-12T11:05:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KqP9abwZUnE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/12/politics/trump-impeachment-defense-senate-trial/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/12/politics/trump-impeachment-defense-senate-trial/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210211173414-106-trump-impeachment-play-button-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump lawyers argue former President did not incite riots by telling supporters to 'fight like hell'"
     excerpt: "Former President Donald Trump's legal team accused House Democrats of engaging in \"political theater\" and argued that the upcoming Senate impeachment trial is unconstitutional because Trump is no longer President.\n    \n"
     publishedDateTime: 2021-02-08T16:37:02Z

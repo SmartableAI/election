@@ -315,6 +315,22 @@ related:
         width: 968
         height: 545
         isCached: true
+  - title: "Trump most likely knew Pence's life was in danger when he tweeted an attack on his VP during the Capitol riot"
+    excerpt: "The then-president had several sources updating him on the vice president's security on January 6, but continued to attack him, The Washington Post."
+    publishedDateTime: 2021-02-12T12:30:00Z
+    webUrl: "https://www.businessinsider.com/trump-likely-knew-pence-danger-when-tweeting-attack-capitol-riot-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/trump-likely-knew-pence-danger-when-tweeting-attack-capitol-riot-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-likely-knew-pence-danger-when-tweeting-attack-capitol-riot-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 131
+    images:
+      - url: "https://i.insider.com/602659722edd0f001a8d5721?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "'Bring out Pence.' Managers at Trump trial reveal new video of Capitol riot that shows threat to VP, lawmakers"
     excerpt: "House prosecutors wielded former President Donald Trump's words against him in arguing he should be convicted of inciting insurrection at the Capitol."
     publishedDateTime: 2021-02-12T08:32:00Z
@@ -1738,6 +1754,22 @@ related:
       - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210208&t=2&i=1550774250&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH171DA"
         width: 817
         height: 545
+        isCached: true
+  - title: "House Democrats rest case in Trump impeachment trial, urging senators to convict"
+    excerpt: "House impeachment managers concluded their arguments by tying the former president to the mob that attacked the Capitol."
+    publishedDateTime: 2021-02-12T12:50:00Z
+    webUrl: "https://www.cbsnews.com/live-updates/trump-impeachment-trial-day-3-house-democrats-rest/"
+    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/trump-impeachment-trial-day-3-house-democrats-rest/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/trump-impeachment-trial-day-3-house-democrats-rest/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/02/11/52a42fe6-53fb-4720-b9f9-4db6f426fe51/thumbnail/1200x630/f65f5f653959ed6eb806cdcbc37b23a9/ap21042734160778.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "They took Donald Trump to task. Now they're ready to reshape the justice department"
     excerpt: "Civil rights lawyers Vanita Gupta and Kristen Clarke are poised for key roles in the Biden administration"

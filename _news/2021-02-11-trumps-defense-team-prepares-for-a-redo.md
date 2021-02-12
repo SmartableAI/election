@@ -334,6 +334,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's lawyers to offer a defense of the former President at impeachment trial Friday"
+    excerpt: "Former President Donald Trump's legal team gets its turn at the Senate impeachment trial Friday, as Trump's lawyers prepare to argue that the trial of a former president is unconstitutional and Trump's speech on January 6 did not incite the rioters who attacked the US Capitol.\n    \n"
+    publishedDateTime: 2021-02-12T10:04:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PBuuZ4oZXls/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/12/politics/senate-impeachment-trial-day-4/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/12/politics/senate-impeachment-trial-day-4/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210211162507-13-impeachment-trial-2021-unf-0211-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "GOP senators signal they plan to acquit Trump despite visceral presentation by House Democrats"
     excerpt: "The House impeachment managers presented senators with videos of their colleagues fleeing a pro-Trump mob, which breached the US Capitol shouting \"stop the steal.\" They showed the rioters searching for then-Vice President Mike Pence and House Speaker Nancy Pelosi, and rummaging through the senators'"
     publishedDateTime: 2021-02-11T02:41:35Z

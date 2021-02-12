@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-beyond-angry-with-impeachment
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-beyond-angry-with-impeachment-defense-teams-showing-sources.amp"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f7dee7ae-f2e8-44d5-baea-b56d2cdfafdd/87273aea-741f-46d3-af8f-52297c92674a/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump lawyers expected to allege Dem hypocrisy Friday as defense gets its turn at impeachment trial"
+    excerpt: "The legal team for former President Donald Trump makes their opening arguments in his second impeachment trial on Friday -- and they are expected to allege that Democrats are being hypocritical by saying that Trump incited the Capitol mob by telling his followers they have to \"fight\" against a \"stolen"
+    publishedDateTime: 2021-02-12T12:31:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7tI0IPDcXIk/trump-lawyers-expected-to-allege-dem-hypocrisy-friday-as-impeachment-trial-hurtles-toward-close"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-lawyers-expected-to-allege-dem-hypocrisy-friday-as-impeachment-trial-hurtles-toward-close.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-lawyers-expected-to-allege-dem-hypocrisy-friday-as-impeachment-trial-hurtles-toward-close.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "NPjaUJEEJ9RvPamGtxRca5JLZBDVEdWD9Kij8UyjXCNiVcPTmwEkcS+82NjKokVdNx+pFTevQgjVcFWMa5r0pW2PCveWNZ4Un4F6mpO5h34mmaVL69jrRgiVKW38CjjUmIysXLDQlytpBLBhmhRfKUh/KFHmAgFnrR7wn6TmdDrJS8quVMQLUZp6W+IoQwZIcKHgbIJ/WDqgHXoT4h9JVd3RaTmgufOl1bHNGVXtA1M0rRk/0jmyBpe6xLN/0LDbmV9/LwvopGI66m5vu8uEsQIQzjK8GBJ65NgHXVgGtPPEZLTns7Uj2Vva1FNpJ8/H/9wbYiOjyKejk7ATHB1+tsl1RPALngPE60scCf2Qi6E=;OTMQG7vYf6VY/KoLEibtsQ=="

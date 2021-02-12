@@ -799,6 +799,22 @@ related:
         width: 824
         height: 545
         isCached: true
+  - title: "Biden's push for electric vehicles puts US in international race to electrify"
+    excerpt: "The comedic ad war between General Motors and Norway represents a real race for countries staking a claim in the electric vehicle space."
+    publishedDateTime: 2021-02-12T11:00:00Z
+    webUrl: "https://abcnews.go.com/Politics/bidens-push-electric-vehicles-puts-us-international-race/story?id=75835697"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/bidens-push-electric-vehicles-puts-us-international-race/story?id=75835697"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/bidens-push-electric-vehicles-puts-us-international-race/story?id=75835697"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 122
+    images:
+      - url: "https://s.abcnews.com/images/US/electric-car-oslo-gty-jt-210211_1613078687857_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Graphic riot videos not enough to convict Trump, some Republican senators say"
     excerpt: "Multiple Republican senators found graphic videos of the deadly Jan. 6 attack on the U.S. Capitol upsetting but suggested they would not lead them to convict former President Donald Trump of inciting insurrection."
     publishedDateTime: 2021-02-11T16:13:00Z
@@ -875,8 +891,8 @@ related:
         isCached: true
   - title: "Trump impeachment trial: Senate to hear former president's defense – live updates"
     excerpt: "Senate reconvenes at noon with Trump’s team expected to push for swift conclusion to second impeachment trial"
-    publishedDateTime: 2021-02-12T10:44:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/12/donald-trump-impeachment-senate-trial-defense-lwayer-republican-senators-coronavirus-covid-live-updates?page=with:block-602658668f08b555964bc6e2"
+    publishedDateTime: 2021-02-12T12:09:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/12/donald-trump-impeachment-senate-trial-defense-lwayer-republican-senators-coronavirus-covid-live-updates?page=with:block-60266f7c8f0886db2aba76b3"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/12/donald-trump-impeachment-senate-trial-defense-lwayer-republican-senators-coronavirus-covid-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/12/donald-trump-impeachment-senate-trial-defense-lwayer-republican-senators-coronavirus-covid-live-updates"
     type: article
