@@ -1021,6 +1021,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Trump lawyer ‘Philly-delphia’ threat sparks laughter, rebuke in Senate"
+    excerpt: "The Senate erupted in rare laughter Saturday when former President Donald Trump’s impeachment trial defense attorney Michael van der Veen threatened to haul Democrats to his law office in"
+    publishedDateTime: 2021-02-13T18:09:00Z
+    webUrl: "https://nypost.com/2021/02/13/trump-lawyer-philly-delphia-threat-sparks-laughter-in-senate/"
+    ampWebUrl: "https://nypost.com/2021/02/13/trump-lawyer-philly-delphia-threat-sparks-laughter-in-senate/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/13/trump-lawyer-philly-delphia-threat-sparks-laughter-in-senate/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/van-der-veen.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Republican senators largely unmoved by Democrats’ Trump trial prosecution"
     excerpt: "Several Republican senators said Thursday that House impeachment managers failed to persuade them to convict former President Donald Trump for allegedly inciting the Jan. 6 Capitol riot. The"
     publishedDateTime: 2021-02-12T00:25:00Z

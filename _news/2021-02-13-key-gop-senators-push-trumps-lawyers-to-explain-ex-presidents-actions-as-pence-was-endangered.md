@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/12/politics/senate-impeachment-trial
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/12/politics/senate-impeachment-trial-day-4/index.html"
 type: article
 quality: 188
-heat: 1888
+heat: 1928
 published: true
 
 provider:
@@ -413,6 +413,22 @@ related:
     quality: 170
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210210155727-01-impeachment-trial-2021-unf-0210-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Here are the Republicans who voted to hear witnesses at Trump's impeachment trial"
+    excerpt: "Five Republicans voted with Democrats on Saturday in favor of allowing witnesses during former President Donald Trump's second impeachment trial, a move that now means it is unclear when the trial will conclude. The final vote tally in the Senate was 55-45.\n    \n"
+    publishedDateTime: 2021-02-13T17:25:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LU88vRxMhLY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/13/politics/republicans-witnesses-trump-impeachment-trial/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/republicans-witnesses-trump-impeachment-trial/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210213121224-split-republicans-witnesses-trump-impeachment-trial-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -1072,6 +1088,22 @@ related:
         width: 2500
         height: 1250
         isCached: true
+  - title: "In surprise move, Senate votes to hear witnesses in Trump's impeachment trial"
+    excerpt: "The former president's trial was expected to conclude Saturday, but may stretch on longer depending on how the Senate agrees to move forward."
+    publishedDateTime: 2021-02-13T17:35:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/surprise-move-senate-votes-hear-witnesses-trump-s-impeachment-trial-n1257846"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1257846"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1257846"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 132
+    images:
+      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202102/1613239148783_ott_now_bruce_raskin_210213_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "'Harsh reminder': Key takeaways from Day Two of Trump's second impeachment trial"
     excerpt: "Democratic impeachment managers used Trump's past words to make him a constant presence as they played raw video of the Jan. 6 attack."
     publishedDateTime: 2021-02-11T03:32:00Z
@@ -1377,6 +1409,6 @@ related:
         height: 773
         isCached: true
 
-secured: "FmpiRQGl1+mTjFFP+xdD9ed5soaBFjNyMgD6XP5E0PVzm5Pb9iDd71cGihFQ2TK8v847VChaai023jor9pDvEQu7/mKZr24hBIJdX36Pv8WeVzcpHwb0gY3FxwYZnw3Z4RQIdBL/gmPCJKlEIn9xiMZLggbynm0k7PY6Z+vXYloBYBiMQMR+3IUcjSJUR0lWiiM2R+TTzygTxM1uugGocY8WhSUffdab9VNgUxseHuvDZ7zE7hu+eNcm/CDeuN08rXTiyQ/xYSaNoIp5zUxPXYr0b30Q1Vk316xKzMqpJGjqnW86u89hy6h+yzUv/mY0fJVeMMCk0DOPpBafi1ZVK/wXSGiKV4pHFGd3AP4VUIA=;zvZNtmSykeErgMxeZm8ptQ=="
+secured: "aU34SNH/9BkfnIhfNnyKzW3JNzdLKv+mJOtpwyEX3wHc3Hx/cLJ1upit8RDpiXkFFEdYpeX/cjblgKrl5v5pYVDJNvFnMWijftHzFfNtZecFh7oVIDq6KyeoE5WZr1HLrYUxqOVplzDnsIHIIzUjw8Elc875nq2Byiid6VSR/Hxz9j8egVo1jiJDlx6MKFbUAiAq+fkXqTMY5B/vu2aK7VYfxtB6VcXAa1fEBln/+lBBrC0hNmU3P4trusTTpmBUNeQI16iPesmzWtS17iQtWDejG4+bENaJJeLWsV7Y2oHnLG0IyM2ZId/w2t/zObmKU6SIrNImYQilqGkIfgmin+cVgOXNxZGBSr5+8P0l37w=;HC+xi65Tg4+ZjPPrCYnyOg=="
 ---
 

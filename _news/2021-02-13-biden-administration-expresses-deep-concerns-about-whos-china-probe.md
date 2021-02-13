@@ -1,0 +1,53 @@
+---
+category: news
+title: "Biden administration expresses 'deep concerns' about WHO's China probe"
+excerpt: "The Biden administration on Saturday expressed \"deep concerns\" about the World Health Organization’s (WHO) probe into the Chinese handling of the coronavirus."
+publishedDateTime: 2021-02-13T17:58:55Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bEZ406eig2M/biden-deep-concerns-about-whos-china-probe"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bEZ406eig2M/biden-deep-concerns-about-whos-china-probe"
+ampWebUrl: "https://www.foxnews.com/politics/biden-deep-concerns-about-whos-china-probe.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-deep-concerns-about-whos-china-probe.amp"
+type: article
+quality: 175
+heat: 195
+published: true
+
+provider:
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Republican Voice
+
+images:
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ba8a532b-33f6-4379-905d-cc188ca9df78/01a49ac8-2cdb-483f-ab27-773439ff2ea7/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
+    isCached: true
+
+related:
+  - title: "Biden administration taking 'strategic approach' to China, 'not in a rush,' Psaki says"
+    excerpt: "President Biden is taking a “strategic approach” to China, White House Press Secretary Jen Psaki said Thursday, adding that the administration is “not in a rush.”"
+    publishedDateTime: 2021-02-11T18:50:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TWtPy3NJ9Gc/biden-administration-taking-strategic-approach-china-psaki"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-taking-strategic-approach-china-psaki.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-taking-strategic-approach-china-psaki.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+
+secured: "L19J8SI3+FvHDVYo7XzuSNhIGPsIKEgFEHUmYho3S80uk0C4iHgcFCL/GBJQzvyvtB16cmKCBX/jfV98oXglOZ4s99uC/qvgrgGUCc8bhFunn7+7MDm//z5GnQMzgfvl8Nh7ELffUtKAA8xmucQQxX1WXG3+3D/sa3reAWrVDZjugW3aHoKTN3oxVdN1gVr6WN8PeFip440O9j6phUu4y8vk9Wz8d+7ys81OvqIo0kwFJ7Oa/NaHeHilDuTj8xXj+0SnMKFVsTHl3S2xkA457wZb1cohBeATZ2XZQzwDXi+FapYPtmCRZCFV8Fjtc6sy4VDGTQLMUjrKKL1AQTdJzHAP1BAPOyLGlSXAx7xvpW4=;bJb1sKWCPdyA77Hj9O80EA=="
+---
+

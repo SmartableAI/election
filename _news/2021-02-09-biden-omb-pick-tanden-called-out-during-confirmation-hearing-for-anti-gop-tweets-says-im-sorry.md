@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-omb-pick-tanden-confirmation-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-omb-pick-tanden-confirmation-hearing-apology-anti-gop-tweets.amp"
 type: article
 quality: 161
-heat: 181
+heat: 201
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Psaki won’t say if Biden has confidence in Cuomo amid nursing home controversy, despite past praise"
+    excerpt: "White House press secretary Jen Psaki on Friday dodged a question about whether President Trump has confidence in New York Gov. Andrew Cuomo amid the controversy surrounding underreported COVID-19 nursing home deaths in the state."
+    publishedDateTime: 2021-02-12T19:37:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DJYVipWGfqw/psaki-dodges-question-on-cuomo-performance-amid-nursing-home-controversy"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-dodges-question-on-cuomo-performance-amid-nursing-home-controversy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-dodges-question-on-cuomo-performance-amid-nursing-home-controversy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Sen. Rubio calls Biden officials hypocritical for considering travel ban during the coronavirus pandemic"
     excerpt: "The Biden administration’s consideration of a travel ban due to the coronavirus pandemic is “hypocritical,” Sen. Marco Rubio, R-Fla., said on Thursday."
     publishedDateTime: 2021-02-11T17:22:02Z

@@ -478,6 +478,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "LIVE UPDATES: Senators avoid witnesses in Trump impeachment trial, amid day of twists"
+    excerpt: "Senators on Saturday initially voted to call witnesses in President Donald Trump's second Senate impeachment trial -- but that was nixed after both sides came to an agreement to enter a key statement into record."
+    publishedDateTime: 2021-02-13T17:58:00Z
+    webUrl: "https://www.foxnews.com/politics/live-updates-trumps-impeachment-2-13-21"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trumps-impeachment-2-13-21.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trumps-impeachment-2-13-21.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 128
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/db8c4e36-b0cc-4a00-9e4a-74cc2b8afb53/aa38912e-f605-4e24-8bc3-6ca4cb8b4870/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "LIVE UPDATES: Trump impeachment trial Day 2 kicks off with Democrats making their case"
     excerpt: "Democrats on Wednesday are making their case as to why President Donald Trump should be convicted in his impeachment trial -- a day after the Senate voted to move ahead with the trial."
     publishedDateTime: 2021-02-10T18:52:00Z

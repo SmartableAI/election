@@ -63,6 +63,22 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Sen. Blumenthal calls Trump's defense an 'insult to all of our intelligence'"
+    excerpt: "Friday evening following the fourth day of former President Trump’s impeachment trial said that the Trump defense team’s response to questions from senators on details surrounding the then-president’s response to the Jan."
+    publishedDateTime: 2021-02-13T18:45:00Z
+    webUrl: "https://thehill.com/homenews/senate/538749-sen-blumenthal-calls-trump-teams-defense-an-insult-to-all-of-our-intelligence"
+    ampWebUrl: "https://thehill.com/homenews/senate/538749-sen-blumenthal-calls-trump-teams-defense-an-insult-to-all-of-our-intelligence?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/538749-sen-blumenthal-calls-trump-teams-defense-an-insult-to-all-of-our-intelligence?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 122
+    images:
+      - url: "https://thehill.com/sites/default/files/blumenthalrichard_111020bc_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
 
 secured: "auI6gcCqs8fg7ATg+Rz0rz0aOQeFzWOLB/3B4uNljgXvLZMB2IFAsupOceA16TnAUxWuWlqd91zrapwsFpfPYv5TeLDIBuzFNcAAIRSQP+1BHJunqnOnVgC4tjKgKVRT8fTksyoJaGs6xEFzK491vWFLzWQkBlpf4zTh3ZNi4XQd910uNnQSLrGIBm3nVsRbPZgrkiZUnUeEWGzBuwlMD1ijpfntmNa3niWBMxFm0ES5yAlLHwxJ8fe+gcf3WRYMQAuCZ80OfxO6iIi+vjORhGCQG4zdb6Wxaa7fe+/GmzjdHLDbN78y0OLxbGWLUJPL+pHOIuHvVnziekGO/SF02kp4Wb5WpvDOY5YWR8c7ysgyoncJtybfMytkE5p0eMSqKZYYwKQpgwpmozhYeUiOkbSWSzR+NBUdnlhk36+bWDixjZfwePaW61/LoRM6rkxNq01C+gDqH8rYUQoKWrLFfCVvSXQjY5ro6+75YGHRhFZhE45N/qcU/6HO5HKK4NLPO4it42rn11K8vFRwUSSxCA==;unV1vr5GX9QHpyLr5zF1Cw=="
 ---
