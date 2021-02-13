@@ -1647,6 +1647,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "No one knows what Trump knew and when he knew it"
+    excerpt: "This is a rather strange response, granted that he and his colleagues are the voice for Trump in the hearing. It is probably safe to assume, though, that if they knew the answer t"
+    publishedDateTime: 2021-02-13T03:58:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/02/12/no-one-knows-what-trump-knew-when-he-knew-it/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/02/12/no-one-knows-what-trump-knew-when-he-knew-it/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/02/12/no-one-knows-what-trump-knew-when-he-knew-it/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LCVHHEC5QEI6XKCJN6KCHJ277U.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Once impeachment is over, the threat to Trump shifts to real courtrooms"
     excerpt: "As the Senate trial judging Donald Trump’s second impeachment got underway on Tuesday, his lead defense attorney, Bruce Castor, offered an unexpected rationale for setting the impeachment aside. “There is no opportunity where the president of the United States can run rampant in January at the end of his term and just go away scot-free,"
     publishedDateTime: 2021-02-13T01:24:00Z
@@ -1694,6 +1710,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210211&t=2&i=1551209010&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1A1EN"
         width: 817
         height: 545
+        isCached: true
+  - title: "Trump changed how the U.S. assigns the label ‘terrorist.’ Can the Biden administration change it back?"
+    excerpt: "This would reverse one of the big decisions of the closing days of the Trump administration, which not only designated the Houthis a Foreign Terrorist Organization (FTO) but also designated Cuba as a State Sponsor of Terrorism."
+    publishedDateTime: 2021-02-12T21:00:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/02/12/trump-changed-how-us-assigns-label-terrorist-can-biden-administration-change-it-back/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/02/12/trump-changed-how-us-assigns-label-terrorist-can-biden-administration-change-it-back/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/02/12/trump-changed-how-us-assigns-label-terrorist-can-biden-administration-change-it-back/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 124
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Y3BMZ4DMRQI6XJTO4JYEN2PITA.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "House Democrats building elaborate, emotionally charged case against Trump"
     excerpt: "House managers are scouring for new video evidence and police witnesses, even as the Senate tries to limit former president Donald Trump’s impeachment trial to a week."
@@ -2348,6 +2380,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2DSI6ODHHUI6XBDIEG6ER4D74U.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Day 4 key takeaways from Trump's 2nd impeachment trial: Trump lawyers make defense of former president"
+    excerpt: "Trump's defense team used just 2 1/2 hours of their allotted 16 hours. Trump impeachment trial: Day 4 key moments Donald Trump's lawyers took to the Senate floor Friday for just under three hours, and aggressively argued that Democrats lacked evidence to link the former president to inciting the Jan."
+    publishedDateTime: 2021-02-13T02:24:00Z
+    webUrl: "https://abcnews.go.com/Politics/day-key-takeaways-trumps-2nd-impeachment-trial-trump/story?id=75863815"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/day-key-takeaways-trumps-2nd-impeachment-trial-trump/story?id=75863815"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/day-key-takeaways-trumps-2nd-impeachment-trial-trump/story?id=75863815"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 109
+    images:
+      - url: "https://s.abcnews.com/images/General/impeachment-president-donald-trump-02-ap-llr-210212_1613172521976_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "It’s not a typical trial. Lawyers in the Trump impeachment case will argue big constitutional questions."
     excerpt: "The arguments by opposing lawyers in the Senate impeachment trial of former president Donald Trump this week are expected to revolve largely around a pair of constitutional questions: A First Amendment defense of his fiery speech ahead of the violent Jan."

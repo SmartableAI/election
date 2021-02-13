@@ -1,34 +1,28 @@
 ---
 category: news
 title: "Biden: Governors and mayors need $350 billion to fight COVID"
-excerpt: "President Joe Biden has met with a bipartisan group of governors and mayors at the White House as part of his push to give financial relief from the coronavirus pandemic to state and local governments"
-publishedDateTime: 2021-02-12T18:06:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/biden-governors-mayors-350-billion-fight-covid-75855930"
-webUrl: "https://abcnews.go.com/Business/wireStory/biden-governors-mayors-350-billion-fight-covid-75855930"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-governors-mayors-350-billion-fight-covid-75855930"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-governors-mayors-350-billion-fight-covid-75855930"
+excerpt: "President Joe Biden met with a bipartisan group of governors and mayors at the White House on Friday as part of his push to give financial relief from the coronavirus pandemic to state and local governments — a clear source of division with Republican lawmakers who view the spending as wasteful."
+publishedDateTime: 2021-02-12T23:55:00Z
+originalUrl: "https://www.businessinsider.com/biden-governors-and-mayors-need-350-billion-to-fight-covid-2021-2"
+webUrl: "https://www.businessinsider.com/biden-governors-and-mayors-need-350-billion-to-fight-covid-2021-2"
+ampWebUrl: "https://www.businessinsider.com/biden-governors-and-mayors-need-350-billion-to-fight-covid-2021-2?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-governors-and-mayors-need-350-billion-to-fight-covid-2021-2?amp"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_74dcf88107d44ef7a13bec4135641fe7_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "Biden: Governors and mayors need $350 billion to fight COVID"
@@ -107,6 +101,6 @@ related:
         height: 600
         isCached: true
 
-secured: "U5gC8zfTLG6JrGzeO0okeWDxBitfsKVqgXxxHaattFJR3nBQb+IvztFGHyHLtzemoYNkgUmy51GJmijLfjoEe7cWaUburmKdAchcliyZORoE9uSsxDfyLksbV1v1CgPMNvkiTJRclrLE7UvvD+5e2o+IC8B4NNpblArO+dMjZY2Dw//ZI/jVPMNwTgU47qPDo2JV8iPGl6jPObgy7daEmCRqRHv1nxlam/4Don+wakl0huJXGcTzgKBBoxxiKAVJ62PN3Z7NEZhNEgvy9pA2EhKZTu4OnSHoRAzeHtfj1N0gRuZObqLFmkDbd/u4ZGhn6GYkP6Q9MGJU/jOMYsRADSBrn/iElFNggbwIATPSfGll2mBVyh9mjicQ6fWUViKegjvl7/UagG9BiNg9xbOsa3uE8UzgYoNrBIP8wuFWk5Gb5CRtNacuz/E8A45ua9EPiVLTXAAgn/IZURV93/rFJxSCBto92I41gSb5iPtURhXc7S+oRI7lntrg5ifBC0Evs2mefeVOMXx3BlV2JQpzYA==;PUKXVRdsKobGJ04VHLhXFw=="
+secured: "ehXUT5LC8FTSNMe2Nqh02Daocgp8kFYq7AbF+JanlbetJHz4F8h13w7uruGez61yWqQ5E0KbBiha4reZ5R1YvFyot7emPwm8DGtl2LnEpaTLvZDHnn0NWhnGInMSD3msF2hnLuTrL0KyAoxHZLcH6XO+44OX9oMcuvHMfWboNhfQh24X8cgvpY3GwTVZyKu34cOnxgcZhCIuBFor54QYEZ462wgAWQUse5mDSd2VVtxuFhapJwimWMRo9oWObJm/e3O0r+Y7GQKdB73sTz8BeZnvMQDdd0Ni+6XYrXa3A2ubUx6PeP+Q+292eNFDKj3/nfdLpbfeiZCLI/pR2cIe5L2a2AtgTUdrf0+PDW80aCA=;s6BMEkNkPDRbBBBjhYKh5g=="
 ---
 

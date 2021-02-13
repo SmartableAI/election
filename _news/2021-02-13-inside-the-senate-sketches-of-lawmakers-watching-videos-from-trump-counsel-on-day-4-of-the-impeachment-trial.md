@@ -34,7 +34,7 @@ images:
 related:
   - title: "Key GOP senators push Trump's lawyers to explain ex-President's actions as Pence was endangered"
     excerpt: "Former President Donald Trump's legal team gets its turn at the Senate impeachment trial Friday, as Trump's lawyers prepare to argue that the trial of a former president is unconstitutional and Trump's speech on January 6 did not incite the rioters who attacked the US Capitol.\n    \n"
-    publishedDateTime: 2021-02-13T02:31:48Z
+    publishedDateTime: 2021-02-13T03:07:48Z
     webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PBuuZ4oZXls/index.html"
     ampWebUrl: "https://amp.cnn.com/cnn/2021/02/12/politics/senate-impeachment-trial-day-4/index.html"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/12/politics/senate-impeachment-trial-day-4/index.html"
@@ -322,7 +322,7 @@ related:
         isCached: true
   - title: "Fact check: Trump lawyers make multiple false claims in impeachment defense"
     excerpt: "Former President Donald Trump's lawyers mounted an aggressive defense Friday in Trump's second impeachment trial -- and made multiple false and misleading claims to bolster their case.\n    \n"
-    publishedDateTime: 2021-02-13T01:29:41Z
+    publishedDateTime: 2021-02-13T03:03:51Z
     webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/l3rPg0b4ug4/index.html"
     ampWebUrl: "https://amp.cnn.com/cnn/2021/02/12/politics/fact-check-trump-defense-impeachment-trial/index.html"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/12/politics/fact-check-trump-defense-impeachment-trial/index.html"
@@ -623,6 +623,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210205160111-01-liz-cheney-0203-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "House Republican pleads for Pence, Trump aides to speak out on Jan. 6 insurrection"
+    excerpt: "\"To the patriots who were standing next to the former president as these conversations were happening, or even to the former Vice President: if you have something to add here, now would be the time,\" Herrera Beutler (R-Wash."
+    publishedDateTime: 2021-02-13T04:15:00Z
+    webUrl: "https://www.politico.com/news/2021/02/12/house-republicans-pence-trump-riot-468983"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/02/12/house-republicans-pence-trump-riot-468983"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/02/12/house-republicans-pence-trump-riot-468983"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 154
+    images:
+      - url: "https://static.politico.com/cd/d1/3b2228f74bf1be43a47b82a76950/gettyimages-1217509180-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Trump tells aides he thinks he'll be acquitted as he remains fixated on 'accountability' for GOP lawmakers who voted to impeach"
     excerpt: "Former President Donald Trump has been reaching out to aides and advisers to discuss his upcoming Senate impeachment trial, sources familiar with the conversations said, with one of those sources saying Trump thinks there won't be enough Republican senators who'll vote to convict him.\n    \n"
@@ -1056,6 +1072,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "McCarthy and Trump got into expletive-filled argument during Capitol riots, sources say"
+    excerpt: "Sources described the call as “not cordial” and borderline incoherent, but it illustrates more than what was publicly available at the time about Trump's real-time reaction to the mob."
+    publishedDateTime: 2021-02-13T04:31:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/mccarthy-trump-got-expletive-filled-argument-during-capitol-riots-sources-n1257805"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1257805"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1257805"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 127
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_06/3449918/210212-kevin-mccarthy-ac-1043p_5d7ae84dedc2cca335f5bf77d333c254.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "If Convicting Trump Is Out of Reach, Managers Seek a Verdict From the Public and History"
     excerpt: "The House Democrats prosecuting former President Donald J. Trump may not win the Senate trial, but they are using it to make the searing images of havoc the inexpungible legacy of the his presidency."
     publishedDateTime: 2021-02-11T17:40:00Z
@@ -1265,6 +1297,6 @@ related:
         height: 773
         isCached: true
 
-secured: "YY3/yf9iANZyTdAfIQDzBm5rexcaVv6jJMo0c4Um+6SSxlKbKJUaYXYD1ubMvtjRiFcGCI7Kv1aPt/0E0qBImuH6u2RXq1pO3M72w4iBLqGmctl3RL4QPCH+7GwFJp5yZ+x5Il6phbdeWPG/y194f1whnGjuJzN+jI18eRkqOJbsMXmlh29rGJMMGVl8gW7UdjtFQBkHGGcpCKst8//vWRY7Q6B6I997d8KXhP35mCzhRHM39wRjT7vqdx1ZyMHdvbeENP0kSbl5bM4UdTXxh/w0+gksUVdljf4/SbN0oX253RwWBS/GJUOHK/+xIxgVN+wUNFYwU8qADwHBhO9dSjoU2kWUD/k4R4en40SpK8Y=;btV1ppZxraWdSYY3kQlF7Q=="
+secured: "IKOgFnP0DZ8JjekFTgv2+HlNGDtMXSmCOCERZMB3Hyh6jgiGtrSxYIbwEEhGI4x3NoGf9SQVBgdg3VAzxWbVqll3VsZC9IrEz4Bf2sBGmVpZVMJTAp6dUAXjM5Qo0Abuz6cLkvlJWGnivoUDprtial4sfrrwvUnvQ2y18B7NHhwaoGPsS6m1RtgijMOrnn3cqLNZgVlQ3QSVtNbt14CcwgPcsJ41IviplOra8BA5YAHWnyMyQ92wPB1mIKBzdXrWVRbIhICuz6aq6Fjc/7jQgufHzouaC6GhdW7SlgcxiHNm/vQsSx76G5ZIK6RkXX7Q2HC6JPeHR3vBe8QuAusRyZLGXaYRpQXfrpY6FSFpyp6uc9rJJZTfRrA/lQPR65iM6b7D7fz4FVwBcNbHKLS8PVAUMTglv/tWOzl2HaiNacVQKZqGCyULHKWd9CLiT2GV1v44FpGx/WXyzbEPHFm87guKoTGxUJZ5nKk5QmA3zrfbubF+xZkoQWydtTiPHBcjF0NOTJYle2JyDdVFp8Q0JA==;DNDDo4G9rcBOzDiAAbpKOA=="
 ---
 

@@ -41,22 +41,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Biden: Governors and mayors need $350 billion to fight COVID"
-    excerpt: "President Joe Biden has met with a bipartisan group of governors and mayors at the White House as part of his push to give financial relief from the coronavirus pandemic to state and local governments"
-    publishedDateTime: 2021-02-12T18:06:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/biden-governors-mayors-350-billion-fight-covid-75855930"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-governors-mayors-350-billion-fight-covid-75855930"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-governors-mayors-350-billion-fight-covid-75855930"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_74dcf88107d44ef7a13bec4135641fe7_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Biden: Governors, mayors need $350 billion to fight COVID-19"
     excerpt: "President Joe Biden has met with a bipartisan group of governors and mayors at the White House as part of his push to give financial relief from the coronavirus pandemic to state and local governments"
     publishedDateTime: 2021-02-12T21:00:00Z
@@ -89,6 +73,17 @@ related:
         width: 811
         height: 545
         isCached: true
+  - title: "Biden: Governors and mayors need $350 billion to fight COVID"
+    excerpt: "President Joe Biden met with a bipartisan group of governors and mayors at the White House on Friday as part of his push to give financial relief from the coronavirus pandemic to state and local governments — a clear source of division with Republican lawmakers who view the spending as wasteful."
+    publishedDateTime: 2021-02-12T23:55:00Z
+    webUrl: "https://www.businessinsider.com/biden-governors-and-mayors-need-350-billion-to-fight-covid-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/biden-governors-and-mayors-need-350-billion-to-fight-covid-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-governors-and-mayors-need-350-billion-to-fight-covid-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "The Biden administration is building three new COVID-19 vaccination sites in Texas and two in New York to target socially vulnerable communities"
     excerpt: "Five new COVID-19 vaccination sites will altogether be able to vaccinate 10,000 people in underserved communities in the US every day."
     publishedDateTime: 2021-02-11T12:57:00Z

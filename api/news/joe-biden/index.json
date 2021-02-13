@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-13-in-a-disorienting-return-to-civility-joe-bidens-doj-backs-up-betsy-devos.md",
+      "title": "In a Disorienting Return to Civility, Joe Biden’s DOJ Backs Up Betsy DeVos",
+      "excerpt": "Joe Biden’s campaign message was all about restoring order to Washington, a return of professionalism to government and an embrace of D.C.’s norms.",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/5938872/in-a-disorienting-return-to-civility-joe-bidens-doj-backs-up-betsy-devos/",
+      "originalUrl": "https://time.com/5938872/in-a-disorienting-return-to-civility-joe-bidens-doj-backs-up-betsy-devos/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-12T20:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-02-13-biden-launches-review-of-guantanamo-prison-aims-to-close-it-before-leaving-office.md",
       "title": "Biden launches review of Guantanamo prison, aims to close it before leaving office",
       "excerpt": "President Joe Biden's aides have launched a formal review of the U.S. military prison at Guantanamo Bay in Cuba, reviving the Obama-era goal of closing the controversial facility with the aim of doing so before he leaves office,",
@@ -1533,63 +1576,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-in-bidens-white-house-surprise-visits-with-staff-replace-late-night-tweets-and-unscheduled-phone-calls.md",
-      "title": "In Biden's White House, surprise visits with staff replace late night tweets and unscheduled phone calls",
-      "excerpt": "Trump preferred seemingly aimless days at the White House. Biden has a carefully crafted schedule, but the pandemic has curbed his facetime with people.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/02/03/biden-white-house-interactions-465450",
-      "originalUrl": "https://www.politico.com/news/2021/02/03/biden-white-house-interactions-465450",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/22/18/bcd1a54d4885ae18c2b9abd242b3/210203-joe-biden-getty-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-03T16:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     }
   ],

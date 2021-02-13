@@ -2,6 +2,105 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-13-in-a-disorienting-return-to-civility-joe-bidens-doj-backs-up-betsy-devos.md",
+      "title": "In a Disorienting Return to Civility, Joe Biden’s DOJ Backs Up Betsy DeVos",
+      "excerpt": "Joe Biden’s campaign message was all about restoring order to Washington, a return of professionalism to government and an embrace of D.C.’s norms.",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/5938872/in-a-disorienting-return-to-civility-joe-bidens-doj-backs-up-betsy-devos/",
+      "originalUrl": "https://time.com/5938872/in-a-disorienting-return-to-civility-joe-bidens-doj-backs-up-betsy-devos/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-12T20:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-02-13-florida-democrat-says-biden-vaccine-distribution-plan-hurts-states-with-high-senior-populations.md",
+      "title": "Florida Democrat says Biden vaccine distribution plan hurts states with high senior populations",
+      "excerpt": "Florida Democratic Rep. Stephanie Murphy urged President Biden to adjust his plan for distributing vaccines nationwide after finding \"obvious flaws\" that could prove detrimental to states with higher rates of seniors.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JOKyv0sPg0A/dem-rep-murphy-says-obvious-flaws-in-biden-vaccine-distribution-plan-hurting-states-with-high-senior-popula",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JOKyv0sPg0A/dem-rep-murphy-says-obvious-flaws-in-biden-vaccine-distribution-plan-hurting-states-with-high-senior-popula",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 183,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/daed92be-3252-43fa-b9e8-da5603edde14/87911f60-2d64-4b3d-9640-48c901ad4264/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/dem-rep-murphy-says-obvious-flaws-in-biden-vaccine-distribution-plan-hurting-states-with-high-senior-popula.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dem-rep-murphy-says-obvious-flaws-in-biden-vaccine-distribution-plan-hurting-states-with-high-senior-popula.amp",
+      "publishedDateTime": "2021-02-12T19:08:49-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-13-key-gop-senators-push-trumps-lawyers-to-explain-ex-presidents-actions-as-pence-was-endangered.md",
       "title": "Key GOP senators push Trump's lawyers to explain ex-President's actions as Pence was endangered",
       "excerpt": "Former President Donald Trump's legal team gets its turn at the Senate impeachment trial Friday, as Trump's lawyers prepare to argue that the trial of a former president is unconstitutional and Trump's speech on January 6 did not incite the rioters who attacked the US Capitol.\n    \n",
@@ -14,7 +113,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 1748,
+      "heat": 1788,
       "tags": null,
       "images": [
         {
@@ -30,7 +129,7 @@
       "type": "article",
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/12/politics/senate-impeachment-trial-day-4/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/12/politics/senate-impeachment-trial-day-4/index.html",
-      "publishedDateTime": "2021-02-12T18:31:48-08:00",
+      "publishedDateTime": "2021-02-12T19:07:48-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -1244,114 +1343,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-accomplice-senators-who-amplified-trumps-lies-now-get-a-say-in-his-fate.md",
-      "title": "'Accomplice' senators who amplified Trump's lies now get a say in his fate",
-      "excerpt": "Republicans Josh Hawley, Ted Cruz and others unabashedly endorsed the former president’s assault on democracy",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/feb/11/republican-senators-accomplices-trump-impeachment-josh-hawley-ted-cruz",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/feb/11/republican-senators-accomplices-trump-impeachment-josh-hawley-ted-cruz",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/e3b0ff465573ffa73301a6d7bb9baf072179fa2a/0_78_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0854e4848b8664358ca6490bb49facd8",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/feb/11/republican-senators-accomplices-trump-impeachment-josh-hawley-ted-cruz",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/11/republican-senators-accomplices-trump-impeachment-josh-hawley-ted-cruz",
-      "publishedDateTime": "2021-02-11T23:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-netanyahus-wait-for-a-call-from-biden-raises-questions-about-us-priorities.md",
-      "title": "Netanyahu's wait for a call from Biden raises questions about US priorities",
-      "excerpt": "The White House insists President Joe Biden will \"soon\" speak with Israel's Prime Minister Benjamin Netanyahu, but the wait, which has now stretched beyond three weeks, is raising questions about whether there is a motive behind the delay.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7Wcs6ap1tek/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7Wcs6ap1tek/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 233,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210201133546-biden-netanyahu-split-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/11/politics/biden-netanyahu-phone-call/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/11/politics/biden-netanyahu-phone-call/index.html",
-      "publishedDateTime": "2021-02-11T18:39:30-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],
