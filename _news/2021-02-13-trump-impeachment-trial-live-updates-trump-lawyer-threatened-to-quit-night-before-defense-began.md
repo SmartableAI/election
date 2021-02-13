@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Trump impeachment trial: After emotional first day, opening arguments begin today in historic second Senate trial"
-excerpt: "Opening arguments will begin Wednesday in Donald Trump’s impeachment trial after an emotional first day that wrenched senators back to the Jan. 6 attack on the U.S. Capitol."
-publishedDateTime: 2021-02-10T12:56:00Z
-originalUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-impeachment-trial-20210210-vvwsnu2gw5bmxpc2ma7rhzr3eu-story.html"
-webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-impeachment-trial-20210210-vvwsnu2gw5bmxpc2ma7rhzr3eu-story.html"
-ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-impeachment-trial-20210210-vvwsnu2gw5bmxpc2ma7rhzr3eu-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-impeachment-trial-20210210-vvwsnu2gw5bmxpc2ma7rhzr3eu-story.html?outputType=amp"
+title: "Trump impeachment trial live updates: Trump lawyer threatened to quit night before defense began"
+excerpt: "Trump himself had to call David Schoen to convince him to stay on the team. Trump impeachment trial: Day 4 key moments Former President Donald Trump's historic second impeachment trial is taking place in the Senate."
+publishedDateTime: 2021-02-13T08:26:00Z
+originalUrl: "https://abcnews.go.com/Politics/live-updates/trump-impeachment-trial-live-updates-senate-debate-constitutionality/?id=75741945"
+webUrl: "https://abcnews.go.com/Politics/live-updates/trump-impeachment-trial-live-updates-senate-debate-constitutionality/?id=75741945"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/trump-impeachment-trial-live-updates-senate-debate-constitutionality/?id=75741945"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/trump-impeachment-trial-live-updates-senate-debate-constitutionality/?id=75741945"
 type: article
-quality: 104
+quality: 112
 heat: -1
 published: false
 
 provider:
-  name: Chicago Tribune
-  domain: chicagotribune.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.chicagotribune.com/resizer/VjqPxpVay4Rtjf9n1-Kum6ELaAg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/CORIAL3QTZH3RM7WDGTYMNE7NY.aspx"
-    width: 1200
-    height: 675
+  - url: "https://s.abcnews.com/images/Politics/david-schoen_hpMain_20210212-222156_16x9_1600.jpg"
+    width: 1600
+    height: 900
     isCached: true
 
 related:
@@ -159,22 +159,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Trump impeachment trial live updates: Trump lawyer threatened to quit night before defense began"
-    excerpt: "Trump himself had to call David Schoen to convince him to stay on the team. Trump impeachment trial: Day 4 key moments Former President Donald Trump's historic second impeachment trial is taking place in the Senate."
-    publishedDateTime: 2021-02-13T08:26:00Z
-    webUrl: "https://abcnews.go.com/Politics/live-updates/trump-impeachment-trial-live-updates-senate-debate-constitutionality/?id=75741945"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/trump-impeachment-trial-live-updates-senate-debate-constitutionality/?id=75741945"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/trump-impeachment-trial-live-updates-senate-debate-constitutionality/?id=75741945"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 112
-    images:
-      - url: "https://s.abcnews.com/images/Politics/david-schoen_hpMain_20210212-222156_16x9_1600.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Trump's defense team used 2 hours and 32 minutes of its 16 allotted hours at his impeachment trial"
     excerpt: "Both sides have wrapped up their arguments and are now taking questions from senators, meaning that a vote on Trump's fate could come on Saturday."
     publishedDateTime: 2021-02-12T15:22:00Z
@@ -255,6 +239,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump impeachment trial: After emotional first day, opening arguments begin today in historic second Senate trial"
+    excerpt: "Opening arguments will begin Wednesday in Donald Trump’s impeachment trial after an emotional first day that wrenched senators back to the Jan. 6 attack on the U.S. Capitol."
+    publishedDateTime: 2021-02-10T12:56:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-impeachment-trial-20210210-vvwsnu2gw5bmxpc2ma7rhzr3eu-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-impeachment-trial-20210210-vvwsnu2gw5bmxpc2ma7rhzr3eu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-impeachment-trial-20210210-vvwsnu2gw5bmxpc2ma7rhzr3eu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 104
+    images:
+      - url: "https://www.chicagotribune.com/resizer/VjqPxpVay4Rtjf9n1-Kum6ELaAg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/CORIAL3QTZH3RM7WDGTYMNE7NY.aspx"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "'This was his state of mind': Impeachment manager highlights Trump's 'pattern and practice' of inciting violence before the Capitol siege"
     excerpt: "\"Time after time, he encouraged violence, his supporters listened and they got the message,\" impeachment manager Jamie Raskin said."
     publishedDateTime: 2021-02-11T19:03:00Z
@@ -299,6 +299,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "QDTSYcwvPNTjo/mDGTCJ0GvkhZ4y/giX1MGlJUk79hH294MyWTopiFZ1bnA7u5dwL7+1zQbRhvVbOkpbl9oDk218YCXnQ0t8g04VrafbFLX4rLpnStOMQudsoYj9abVWOMjGCMYBLHkFla0XtyALIkiBm+OGZETKBDkf22X5w9ahPvKuCTkzPjwUgR4Ih2ZuinxXtQR+f6ISO50eXzfdovDNR0VrSfGYtk2JtBgpK+s5N/ZXKi6V8pWjdEnCSqRw2pKIJw1VSAT/UA7jgaa6kYHbIGsMGmzqQ1QVf7HthNeiWaZwjIJ0c4JzsnTey2tGtqs4wHOfXqNO5PXnz7bxLpZ9hhdNsQPBR4pX02U5+P0=;I2Cl/wn+9ZgEVTBN5TGAJw=="
+secured: "QYpircob5MK0E8tM0upgYdW3/jqOUyEMEOSNq+aHOVtNYq0SKRCBUMBv2ZjdAAIYbr6yAdIV1ISeJV7Nbx4TosEmLVuDAxaw2GCG3hGX98+2/1G4xujWjH05WVM+LlZWqtVuAJMjbMI3ozdFwhNKqJiFDOyuktqXyddzZ3nDRWEKFso7HrrxhwJStRNSLTN4vvLxDe3lsXs//PJ3nhgmkE6yNIYDwiF6yc6P7ubMcbyS0sFszIkTviZfkS2bBeNKS5VDMKgKlyVZ1M2YN5hR8btk+DDOkwE5y1g7k2r4BnUib3zTCOmPYEcSp/RXB+qcxp3Dic3Jk0LkxguPXdmof/1ovpVKagw3qoBMnzmlIi4=;K43dfLPxmhroBErK5LmrkA=="
 ---
 

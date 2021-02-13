@@ -1,33 +1,33 @@
 ---
 category: news
-title: "Biden to raise current U.S. refugee cap from historic lows"
-excerpt: "U.S. President Joe Biden plans to raise the refugee cap for the current fiscal year to 62,500, a sharp increase from the 15,000 set by former President Donald Trump, two people familiar with the move told Reuters on Friday."
-publishedDateTime: 2021-02-06T06:37:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-biden-refugees-idUSKBN2A602W"
-webUrl: "https://www.reuters.com/article/us-usa-biden-refugees-idUSKBN2A602W"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A602W"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A602W"
+title: "Trump lawyers rest case after 3 hours as Senate draws closer to vote"
+excerpt: "President Trump's legal team on Friday rested their case after less than three hours, prompting another two-and-a-half hours of questioning from senators. Mr. Trump's attorneys tried to argue the former president was being hounded by a political vendetta,"
+publishedDateTime: 2021-02-13T07:46:00Z
+originalUrl: "https://www.cbsnews.com/live-updates/trump-impeachment-trial-day-4-2021-02-12/"
+webUrl: "https://www.cbsnews.com/live-updates/trump-impeachment-trial-day-4-2021-02-12/"
+ampWebUrl: "https://www.cbsnews.com/amp/live-updates/trump-impeachment-trial-day-4-2021-02-12/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/trump-impeachment-trial-day-4-2021-02-12/"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: CBS News
+  domain: cbsnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Joe Biden
+  - Donald Trump
 
 images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210206&t=2&i=1550533964&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1501J"
-    width: 817
-    height: 545
+  - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/12/e5de9391-dceb-496f-ab8b-ab32e55c66cf/thumbnail/1200x630/af968a38d7c565a4c4359dfb3b518fe8/ap21043620382406.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -447,6 +447,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden to raise current U.S. refugee cap from historic lows"
+    excerpt: "U.S. President Joe Biden plans to raise the refugee cap for the current fiscal year to 62,500, a sharp increase from the 15,000 set by former President Donald Trump, two people familiar with the move told Reuters on Friday."
+    publishedDateTime: 2021-02-06T06:37:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-refugees-idUSKBN2A602W"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A602W"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A602W"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210206&t=2&i=1550533964&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1501J"
+        width: 817
+        height: 545
+        isCached: true
   - title: "The Biden administration’s muddled message on reopening schools"
     excerpt: "After a year of health officials being muzzled and contradicted during the Trump administration, the rollout of Biden's plan to reopen schools hasn't been terribly confidence-inspiring."
     publishedDateTime: 2021-02-06T02:05:00Z
@@ -702,22 +718,6 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210212&t=2&i=1551331807&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1B15O"
         width: 817
         height: 545
-        isCached: true
-  - title: "Trump lawyers rest case after 3 hours as Senate draws closer to vote"
-    excerpt: "President Trump's legal team on Friday rested their case after less than three hours, prompting another two-and-a-half hours of questioning from senators. Mr. Trump's attorneys tried to argue the former president was being hounded by a political vendetta,"
-    publishedDateTime: 2021-02-13T07:46:00Z
-    webUrl: "https://www.cbsnews.com/live-updates/trump-impeachment-trial-day-4-2021-02-12/"
-    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/trump-impeachment-trial-day-4-2021-02-12/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/trump-impeachment-trial-day-4-2021-02-12/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/12/e5de9391-dceb-496f-ab8b-ab32e55c66cf/thumbnail/1200x630/af968a38d7c565a4c4359dfb3b518fe8/ap21043620382406.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Biden to meet Republicans on COVID-19 plan in test of bipartisan approach"
     excerpt: "President Joe Biden will meet 10 moderate Republican senators on Monday to discuss their proposal to shrink his sweeping $1.9 trillion U.S. COVID-19 relief package, even as Democrats prepare to push legislation through Congress without Republican support."
@@ -1507,6 +1507,6 @@ related:
         height: 800
         isCached: true
 
-secured: "j4BXwD2qXnECzvUqMi1AT4K+mF+EmvDgS+AgwM0y94A781N41aomqHCPbNnZNCZoJLe5Dqi+j5SaE9MroM0RZfbZr83oPn74REDIG6pImASSMlZ/rAA8nVy9WzDkCvRlxRriljCCPl8fMlWeyRVJFzvyhkYx7lcTBBQrqORlTxWFf3l4/vw+bVC/+vuY4CS0aTmtsWVd4DfyHF1CObNEFst5jdreCZVEvBqOMfcK+ikagjwG7zNIjvAUTjsi3GTc81LTBb7EIbLYGvzAyol5A2GIZk3Dp5BPWtXAZQc/42pj38BLkuPmarTIFdrfNcjzGQc7w9XulpxPKt/DuTpRS42TipxaZ+HTaKWSYAKdh7fdmXEQak/em3vXhft8+OVFBs3O3lPpQnrA4zNX9vzk2bQOyXaT/EcV3dVcIPHdUJ86Kg9vOCV4tm6zCNNxYZTGH+/ZBNJKMTTFU0eGKBhNLJ0yrsxfJ6xC9t51EAMvXpXScZj24HgsPxoZ93d30PrIszXO9o+Zd3Ab17k/Rqlibw==;PAzyInHZcU8NVCpOYwiGjQ=="
+secured: "3ZqUmILuM9jSnyx/mvfIeLQIpPyoQxPZ1f26BgNtcCZYWJv/xK9o5xjYerhtA97AAC10vjSg7fZUO6NzW367emrEabQ8rjZZtNLsj4mXFlVh33NvsoUWMwU7LLpWN1jd8dmobCdEFzI4Nud8jR/h9000Us2iEzMkF6opbnByJcI6eyIgYHKRZOhkzAOhKlqRpJjri5IdYA7WXdjPrpXtDpGDKPEGPfs3cr1+BQsobQp5s3BnZ3IIZ5i7CG3bfpf8keFB4Sso+3LsiRUl1+MZPe6DEUm8PS29pea4eAgj12LX501EWh3CiPzBsCCcwdnP8tp5+49Yx3Tsqx2MTNN7Aa2FItV1NHii7U1bRTHl/7c=;WdVID9eh1prfc4BOKo2rAA=="
 ---
 

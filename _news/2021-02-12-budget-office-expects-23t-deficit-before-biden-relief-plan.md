@@ -703,6 +703,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Trump lawyers rest case after 3 hours as Senate draws closer to vote"
+    excerpt: "President Trump's legal team on Friday rested their case after less than three hours, prompting another two-and-a-half hours of questioning from senators. Mr. Trump's attorneys tried to argue the former president was being hounded by a political vendetta,"
+    publishedDateTime: 2021-02-13T07:46:00Z
+    webUrl: "https://www.cbsnews.com/live-updates/trump-impeachment-trial-day-4-2021-02-12/"
+    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/trump-impeachment-trial-day-4-2021-02-12/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/trump-impeachment-trial-day-4-2021-02-12/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/12/e5de9391-dceb-496f-ab8b-ab32e55c66cf/thumbnail/1200x630/af968a38d7c565a4c4359dfb3b518fe8/ap21043620382406.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden to meet Republicans on COVID-19 plan in test of bipartisan approach"
     excerpt: "President Joe Biden will meet 10 moderate Republican senators on Monday to discuss their proposal to shrink his sweeping $1.9 trillion U.S. COVID-19 relief package, even as Democrats prepare to push legislation through Congress without Republican support."
     publishedDateTime: 2021-02-01T20:31:00Z

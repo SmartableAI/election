@@ -153,6 +153,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Trump impeachment trial live updates: Trump lawyer threatened to quit night before defense began"
+    excerpt: "Trump himself had to call David Schoen to convince him to stay on the team. Trump impeachment trial: Day 4 key moments Former President Donald Trump's historic second impeachment trial is taking place in the Senate."
+    publishedDateTime: 2021-02-13T08:26:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/trump-impeachment-trial-live-updates-senate-debate-constitutionality/?id=75741945"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/trump-impeachment-trial-live-updates-senate-debate-constitutionality/?id=75741945"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/trump-impeachment-trial-live-updates-senate-debate-constitutionality/?id=75741945"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 112
+    images:
+      - url: "https://s.abcnews.com/images/Politics/david-schoen_hpMain_20210212-222156_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Trump's defense team used 2 hours and 32 minutes of its 16 allotted hours at his impeachment trial"
     excerpt: "Both sides have wrapped up their arguments and are now taking questions from senators, meaning that a vote on Trump's fate could come on Saturday."
     publishedDateTime: 2021-02-12T15:22:00Z

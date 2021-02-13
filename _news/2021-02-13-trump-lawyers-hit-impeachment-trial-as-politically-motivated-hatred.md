@@ -143,6 +143,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Trump impeachment trial live updates: Trump lawyer threatened to quit night before defense began"
+    excerpt: "Trump himself had to call David Schoen to convince him to stay on the team. Trump impeachment trial: Day 4 key moments Former President Donald Trump's historic second impeachment trial is taking place in the Senate."
+    publishedDateTime: 2021-02-13T08:26:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/trump-impeachment-trial-live-updates-senate-debate-constitutionality/?id=75741945"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/trump-impeachment-trial-live-updates-senate-debate-constitutionality/?id=75741945"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/trump-impeachment-trial-live-updates-senate-debate-constitutionality/?id=75741945"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 112
+    images:
+      - url: "https://s.abcnews.com/images/Politics/david-schoen_hpMain_20210212-222156_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Trump's defense team used 2 hours and 32 minutes of its 16 allotted hours at his impeachment trial"
     excerpt: "Both sides have wrapped up their arguments and are now taking questions from senators, meaning that a vote on Trump's fate could come on Saturday."
     publishedDateTime: 2021-02-12T15:22:00Z
@@ -283,6 +299,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "wONKl9Fbea+KHE9RNMQEJbU4V3TQMleCxkXPSQDrgDSDicGnpobM5+NHGAjpWsNZSP8WS7Gypd8zowPRU4hIvq1rrXkhTRfO5ZK7zYxNdq0blUF0JkHCnKP7moNzF3kqNEKxVt2Y4qJSxUhJ2+UTt522ZQHL2YUk6NPE1wy+yXGsuT5qYGD0T6pfRHhr17d3oOGO4MeeBizCCY+laDiaRlE6+SHdS59Sny2aPYrodulNmga1Mjcj+BfooDzyu0Wuws7zT96iHixenJhA7J8jqGOz3S7OK6/T/cFybBxiw+rU5qHxK5JkGewf4KZuzNkkyek4ncW8ej4nxUwAGlZ1CYHs0usbTG7R9iIIioMRgXo=;2ab3Y4+seUUWUh4/rb/VtA=="
+secured: "sgORQoG3itDdqAozlUStOOmpIFEMgPBYesy/aHb5eBxUuVqn/3vLU6e+ViOkeK6TY1BWkWPsghUh2D7MkVft38795HBBHhUgQh92grJf1GEaSIXDkAw+eztPIoffG0zv0EMQ2TCCX2VNcE3jxRlT1OqelZq45fzgqwKyuoMntnhweEmrmz8eePMHj8mCL+So12ZZQCPFI1r5b0rULGhvBaoX6trwEPFDUIAetMArHUi4bobjkn5rcrWoAEGSbtnB1G/BCCKW5WS7GZCEYlVn1RvLTHS6HM2pYioIiHpAY+vvi7Exti9n4jOyHqfCGEo7olGhrJC+P4HT5smWquTTKf1mMKVC5kaLSh11eO8TcKQ2PLp7pCdqAGpw4I9lBXPUcGG7THWm7WDY2z30IdKJMclsYGTji9syegAOiq2AKjlDyxT6UBtti6hytswbtExYLIeXCGz5UmzwGhYoaQ2MWepbjZZu76FKblz43iUoFEY/qRNhF45MZlAvtkvvnDUEKGjtng+SZr3VEOieTeDwaw==;lmlqcUm94Qx5cM/wN836tA=="
 ---
 
