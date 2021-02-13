@@ -2,33 +2,27 @@
 category: news
 title: "Biden to press for $1.9 trillion COVID relief plan with governors, mayors"
 excerpt: "U.S. President Joe Biden will meet with a bipartisan group of mayors and governors on Friday as he continues to push for approval of a $1.9 trillion coronavirus relief plan to bolster economic growth and help millions of unemployed workers."
-publishedDateTime: 2021-02-12T17:14:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-biden-idUSKBN2AC10D"
-webUrl: "https://www.reuters.com/article/us-usa-biden-idUSKBN2AC10D"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AC10D"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AC10D"
+publishedDateTime: 2021-02-12T23:54:00Z
+originalUrl: "https://www.businessinsider.com/biden-to-press-for-19-trillion-covid-relief-plan-with-governors-mayors-2021-2"
+webUrl: "https://www.businessinsider.com/biden-to-press-for-19-trillion-covid-relief-plan-with-governors-mayors-2021-2"
+ampWebUrl: "https://www.businessinsider.com/biden-to-press-for-19-trillion-covid-relief-plan-with-governors-mayors-2021-2?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-to-press-for-19-trillion-covid-relief-plan-with-governors-mayors-2021-2?amp"
 type: article
-quality: 124
+quality: 104
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210212&t=2&i=1551340103&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1B0Q3"
-    width: 811
-    height: 545
-    isCached: true
 
 related:
   - title: "Biden: Governors and mayors need $350 billion to fight COVID"
@@ -81,10 +75,10 @@ related:
         isCached: true
   - title: "Biden presses for $1.9 trillion COVID relief plan with governors, mayors"
     excerpt: "U.S. President Joe Biden pushed for the first major legislative achievement of his term on Friday, turning to a bipartisan group of local officials for help on his $1.9 trillion coronavirus relief plan."
-    publishedDateTime: 2021-02-12T17:56:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-idUKKBN2AC10D"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2AC10D"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2AC10D"
+    publishedDateTime: 2021-02-12T22:35:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-idUSKBN2AC10D"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AC10D"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AC10D"
     type: article
     provider:
       name: Reuters
@@ -112,6 +106,6 @@ related:
         height: 600
         isCached: true
 
-secured: "6IKWSBEDKUDaQSPGtQbvM7Ye8OIY4WDujOnzJGIGNivyfQ7pB4N96Et0ElyzeXfPXzNT7BCOxN/m6t/rww1d8xAUwU3XeT8BJhk8r0vvVpoF2KkjJocA5Bw8r4VGTfRjZwFXpTGqKgh2QRUEODUogJccvMClhV2/VbVdKs/dbemq3DPJVpxhpjTrvrfVwnuP1asGFabg43gzSqY2tTNZEqFVKoLHJ39n+hsaXI4ObmEi4Am4lfdYKE4ofLqV1/xZLCs+dAzju+ExDqPjAs9GGbYRrm6izdbs1nSq/RgrTGD9WTtwY9Op3g9OHN1TH1egsn7RkYWAc1NS20Qb5oEpmESm4YQsaUDgg4GqjuoSb7A=;XI+NccbA2D531Hr6j6LOkg=="
+secured: "bxA95Z5nzBDGXU3nzfPInyIi2OgwMWnaoQof/rwRfM0BsVnoi86FrgBtxUb+g4a6ov17fwwhzU3APuLT78TUw/Doz/ymCKcy0/UDyujcSnU+N2kCqIkaQuqWRuNHsU+ZtnM753MGJUg8k7qw5NBnJe+R9ttiQxP4O4L/TFusTTd8WqAwFa4VEFxsMzYE4B9oxh6Fs7hlcjxd/PxqPEbqlg3zjkfFrSNDKP3aKSMOuS/K/HDL/mnQwHPXCyWTcb7z72rS2apahkbDVXx46mgIWcLtxFMG2TzAxTcwWnAGoYBD70t+fsYMxQBMrTVQsMhU2sGsq4XCgRcw6PE6kNrI919/yrgbgeHR3VH0hzNoRhA=;hNe8ca7OlpuxQN9SHx7sHg=="
 ---
 

@@ -225,6 +225,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's impeachment defense takes shape"
+    excerpt: "Lawyers for former President Donald Trump filed a 14-page brief Tuesday that previews two main arguments we can expect to hear when the Senate impeachment trial kicks off next week:\n    \n"
+    publishedDateTime: 2021-02-03T13:47:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EqImWNyTRyE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/03/politics/what-matters-february-2/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/03/politics/what-matters-february-2/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210202104727-01-trump-file-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: Trump's 'pro-law enforcement' image crumbles in his final days"
     excerpt: "A President who has repeatedly touted himself as pro-law enforcement is now being accused of fueling a growing threat of extremists that has law enforcement officials across the nation on high alert.\n    \n"
     publishedDateTime: 2021-01-16T16:32:14Z
@@ -480,22 +496,6 @@ related:
       - url: "https://static01.nyt.com/images/2021/01/12/us/politics/12dc-impeach1/12dc-impeach1-facebookJumbo.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "Trump's second impeachment trial starts tomorrow"
-    excerpt: "The second impeachment trial of former President Trump kicks off tomorrow. Follow here for the latest updates from Congress."
-    publishedDateTime: 2021-02-08T13:17:00Z
-    webUrl: "https://www.cnn.com/politics/live-news/trump-impeachment-news-02-08-2021/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/politics/live-news/trump-impeachment-news-02-08-2021/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/politics/live-news/trump-impeachment-news-02-08-2021/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 135
-    images:
-      - url: "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_900,h_600/b1bbdc12-087c-4830-837e-44e28c9cdc7f.jpg"
-        width: 900
-        height: 600
         isCached: true
   - title: "Wall Street Journal Editorial Urges Trump to Resign to Avoid Impeachment"
     excerpt: "With the headline “Donald Trump’s Final Days,” The Journal excoriated the president for “an assault on the constitutional process of transferring power after an election.”"

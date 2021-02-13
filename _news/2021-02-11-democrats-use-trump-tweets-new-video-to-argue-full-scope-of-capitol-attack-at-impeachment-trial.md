@@ -63,6 +63,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump impeachment: defense wraps up, claiming free speech is at stake – live"
+    excerpt: "Lawyers conclude after brief arguments in impeachment trial and insist ‘President Trump did not incite or cause the horrific violence’ – follow live"
+    publishedDateTime: 2021-02-13T00:43:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/12/donald-trump-impeachment-senate-trial-defense-lwayer-republican-senators-coronavirus-covid-live-updates?page=with:block-60270de88f08b555964bd21e"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/12/donald-trump-impeachment-senate-trial-defense-lwayer-republican-senators-coronavirus-covid-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/12/donald-trump-impeachment-senate-trial-defense-lwayer-republican-senators-coronavirus-covid-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 102
 
 secured: "MpTTa5JI0qQ5Uv7IESxuHsoZyESQWrDwqOg4ekcA+vdl6kmDUkcD3I49RnYzn+j/sW5MYwOCSSbrsVujl2mv1KayZa7FeToWu09fwtTEBkNO8ezorYcCg28faHJebuofvVlgKS7pjxLKZPZoypDMUeQDW+q+6J/74A7yIAEhgEECmLy5IkxKGODSoZuzXK2Zd4PiDU4+T+Hr8ndtcjygnQaI34yPaIbzy/m/7hB4cmB2npZHJsUYVXwdT8WyqSEkvGBftMzCNxL2tGVyDm4Zjwn0GLNzLrsiWTygwf+EoujBxVGM+GvEohRXGyHA88TlbgU15AzqTzfIqQC9QjzH56EpnXI2Ke9VxJrXekvK2SKIlkf9SKX8bCYMEtwzx7P3JLGobnx4aiXsdsZVSFChYWCZKQWIQ4jTI8BsCnK0XYcQDzvU/avKJnCmHrEly7DiEi1mJSxL0sDGccFHgkBZjT5cqie5f0evlsZHkKFrztC4tY9d1IjTbCpX5Z2Jm+Hc1KGI2gy2sUYPYT9l36uXgQ==;OoKCTcZHn92jyXNZGvS0oA=="
 ---

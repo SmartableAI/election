@@ -31,101 +31,51 @@ images:
     isCached: true
 
 related:
-  - title: "Democrats' impeachment filing: Trump 'threatened the constitutional system'"
-    excerpt: "The House impeachment managers argue former President Donald Trump should be convicted for inciting the insurrection at the Capitol last month and barred from holding future office, charging that his actions \"threatened the constitutional system that protects the fundamental freedoms we cherish.\"\n  "
-    publishedDateTime: 2021-02-02T16:33:57Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/f2KywfJxkLE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/02/politics/democratic-impeachment-filing/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/02/politics/democratic-impeachment-filing/index.html"
+  - title: "John Roberts ducks the spotlight by skipping the second Trump impeachment trial"
+    excerpt: "Chief Justice John Roberts has long been a student of history, but this is one part of history -- presiding at the second trial of Donald Trump -- he can do without.\n    \n"
+    publishedDateTime: 2021-01-26T01:22:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/u0TQusfQybw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/john-roberts-trump-impeachment/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/john-roberts-trump-impeachment/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 173
+    quality: 171
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125153359-01-raskin-jan-13-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125134312-01-justice-john-roberts-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Ukraine impeachment vs. insurrection impeachment: What to know about Trump's two trials"
-    excerpt: "Here's where we are: A president who survived impeachment for trying to stack the deck against his most-feared election opponent is now facing impeachment again for inciting his supporters to attack Capitol Hill to challenge that same opponent's victory.\n    \n"
-    publishedDateTime: 2021-02-09T15:57:29Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/izbEdxYb6RE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/09/politics/first-trump-impeachment-vs-second/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/09/politics/first-trump-impeachment-vs-second/index.html"
+  - title: "Sen. Patrick Leahy taken to hospital out of abundance of caution after presiding over opening of Trump's impeachment trial"
+    excerpt: "Sen. Patrick Leahy was hospitalized out of an abundance of caution on Wednesday, just hours after presiding over the opening of former President Donald Trump's second impeachment trial.\n    \n"
+    publishedDateTime: 2021-01-27T00:18:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ol2AVzchkEw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/26/politics/patrick-leahy-hospital/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/patrick-leahy-hospital/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 167
+    quality: 149
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200205162637-07-senate-floor-0205-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210126180712-01-patrick-leahy-lead-image-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Lawyers Call Trump's First Amendment Defense 'Legally Frivolous'"
-    excerpt: "Taking aim at a key plank of the former president’s impeachment defense, the lawyers argue that the constitutional protections do not apply to an impeachment proceeding."
-    publishedDateTime: 2021-02-05T17:15:00Z
-    webUrl: "https://www.nytimes.com/2021/02/05/us/trump-defense-first-amendment.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/05/us/trump-defense-first-amendment.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/05/us/trump-defense-first-amendment.amp.html"
+  - title: "Sen. Patrick Leahy, who will preside over Trump impeachment trial, back home after hospital trip"
+    excerpt: "Sen. Patrick Leahy, who will preside over Trump impeachment trial, taken to hospital Leahy, who is third in the line of succession as the President Pro Tempore of the Senate, was just sworn-in to preside over the impeachment trial."
+    publishedDateTime: 2021-01-27T08:12:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/sen-patrick-leahy-who-will-preside-over-trump-impeachment-trial-n1255772"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
+      name: NBC News
+      domain: nbcnews.com
+    quality: 102
     images:
-      - url: "https://static01.nyt.com/images/2021/02/05/world/05new-washington-briefing-impeach-1stamendment-1/05new-washington-briefing-impeach-1stamendment-1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Impeachment Case Argues Trump Was ‘Singularly Responsible’ for Capitol Riot"
-    excerpt: "The House managers cited the Constitution’s framers in urging that Donald J. Trump be convicted and disqualified from holding office. Mr. Trump’s lawyers said the Senate had no jurisdiction."
-    publishedDateTime: 2021-02-03T01:35:00Z
-    webUrl: "https://www.nytimes.com/2021/02/02/us/politics/impeachment-trump-capitol-riot.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/02/us/politics/impeachment-trump-capitol-riot.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/02/us/politics/impeachment-trump-capitol-riot.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 133
-    images:
-      - url: "https://static01.nyt.com/images/2021/02/02/us/politics/02dc-impeach1/02dc-impeach1-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
-  - title: "Read former President Trump's response to the article of impeachment against him"
-    excerpt: "Lawyers for former President Donald Trump filed a 14-page response to the House's impeachment manager's case on Tuesday, in its first filing ahead of next week's Senate impeachment trial."
-    publishedDateTime: 2021-02-02T17:42:00Z
-    webUrl: "https://www.cnn.com/2021/02/02/politics/trump-response-impeachment-article/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/02/politics/trump-response-impeachment-article/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/02/politics/trump-response-impeachment-article/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 130
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201102113042-101b-donald-trump-serious-centered-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "John Dean on Trump's 2nd impeachment: Nixon's offenses didn't threaten democracy"
-    excerpt: "Anderson Cooper discusses the historic second impeachment trial of Donald Trump with Watergate whistleblower John Dean and how President Trump is likely to be viewed historically."
-    publishedDateTime: 2021-02-09T00:16:00Z
-    webUrl: "https://www.cnn.com/videos/us/2021/02/08/john-dean-trump-second-impeachment-sot-acfc-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/us/2021/02/08/john-dean-trump-second-impeachment-sot-acfc-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/us/2021/02/08/john-dean-trump-second-impeachment-sot-acfc-vpx.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 130
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210208164406-desktop-john-dean-acfc-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://media4.s-nbcnews.com/j/newscms/2021_04/3445237/210126-patrick-leahy-ew-607p_1c9f3ed41defa696ee547c532eb1bce0.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "LSY1/0w/pUt6vAafTE5IooUwmqQOvXlsoHe85hwIMFKIgJ/mieJjM1Im7DumKELPbfWi6eT2CxFhxnILpQz7Yaev+P/Ze1Q7jIn1GUk2NXx00WNKF9WUI3Km0bwSeOeAXGfMUpAzGBx2GTx0mvWSOQFvaDJCjUFDZJaPt2nV99oalpsyFpLbRNCxGVYCQpiqHC1SRWrmLbZM8MgVKyfB3B4sFh2XcklrcFTrm5IWmijHApPxbehTW3WOyGZ10bF82NHRaEXbgtID3Lunh7pfKGGeIpCUriHpvDlnt8zYKD7DNNrkIiVV71Dr3+MF7UjjThVAtwqVsdGtP2vQLf8pc7LZvyBIvlJJ9ysqk9/HOUk=;FqS96ZTjAgHMRGOwMB1vqw=="

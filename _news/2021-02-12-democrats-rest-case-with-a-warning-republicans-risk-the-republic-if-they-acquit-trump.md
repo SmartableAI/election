@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1257579"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1257579"
 type: article
 quality: 127
-heat: 147
-published: true
+heat: -1
+published: false
 
 provider:
   name: NBC News
@@ -32,19 +32,53 @@ images:
     isCached: true
 
 related:
-  - title: "‘He can do this again’: Dems rest case against Trump warning of more attacks"
-    excerpt: "House Democrats rested their case against Donald Trump on Thursday insisting that the Senate’s refusal to punish him for inciting a mob to attack the Capitol would pave the way for a future commander-in-chief to subvert the democratic process,"
-    publishedDateTime: 2021-02-12T00:36:00Z
-    webUrl: "https://www.politico.com/news/2021/02/11/trump-impeachment-trial-day-3-468588"
+  - title: "Key Republican breaks with Trump: 'We shouldn't have followed him'"
+    excerpt: "Former ambassador to the UN Nikki Haley weighed in on Trump's legacy during an interview with Politico, saying that he had \"fallen so far\" and was likely out of the picture for 2024 presidential candidates. Former special assistant to President George H.W. Bush and president of the Council on Foreign"
+    publishedDateTime: 2021-02-12T18:35:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sUGrERbuGhY/nikki-haley-trump-election-richard-haass-nr-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/02/12/nikki-haley-trump-election-richard-haass-nr-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/02/12/nikki-haley-trump-election-richard-haass-nr-vpx.cnn"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 112
+      name: CNN
+      domain: cnn.com
+    quality: 175
     images:
-      - url: "https://static.politico.com/d0/c0/3592c01b47b2bf3eed014f9fd90b/210211-neguse-ap-773.jpg"
-        width: 1160
-        height: 773
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/181009111215-18-nikki-haley-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Of course Donald Trump's team didn't tell the truth about his Covid-19 illness"
+    excerpt: "Donald Trump was far sicker with Covid-19 than the White House physician or his top aides let on, even to the point where there were concerns that the then-President would have to be put on a ventilator to deal with the illness."
+    publishedDateTime: 2021-02-12T15:57:00Z
+    webUrl: "https://www.cnn.com/2021/02/12/politics/donald-trump-covid-19-sick-new-york-times/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/12/politics/donald-trump-covid-19-sick-new-york-times/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/12/politics/donald-trump-covid-19-sick-new-york-times/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 131
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201216162007-trump-white-house-1005-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "‘If this happened in the Soviet Union, you would call it a show trial,’ Cassidy of Trump impeachment trial"
+    excerpt: "Sen. Bill Cassidy (R-La.) tells Chuck Todd that the House did an incredibly 'poor job' in building a case against President Trump during his second impeachment trial, during an exclusive interview with Meet the Press."
+    publishedDateTime: 2021-02-07T14:57:00Z
+    webUrl: "https://www.nbcnews.com/meet-the-press/video/-if-this-happened-in-the-soviet-union-you-would-call-it-a-show-trial-cassidy-of-trump-impeachment-trial-100655685848"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo100655685848"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo100655685848"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 117
+    images:
+      - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202102/1612709590167_mtp_clip_cassidyshowtrial_210207_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "xONSNAo+HErh3OEY/FJlcXlB+xvrzrI8OYMPPC4z0wPH+rBDWVcGsqdgM1/ll6RbG4TgUBOIBecbzBKihK9ye18V8YzRI5132vFTpC37BuwCYUDpM49bdqmr3qA/yAYxAyfRhZKb28eI8SgwmpZuvesjzGh1ky+qVkx/dOpVEH+nlxGpbHrvx9GTXW2nf2UcgOaOCvw5qgEhzYeQGBm2EVyhO81KMY68aYBDaI+BSG3rXPA+5yM3in33W5M5UnAoVKbjE4SuidE5HbsX7K6xV5Qx9lB7eg/AEd+bj/2j6FzPh4QkkIHFgzHabEdfpFY1oOL8i6G/sydqXrB82+FJmpqNnd1ythaX0xW7Cs+If+g=;jPiTSZbBeV4wT4/gg+6J+w=="

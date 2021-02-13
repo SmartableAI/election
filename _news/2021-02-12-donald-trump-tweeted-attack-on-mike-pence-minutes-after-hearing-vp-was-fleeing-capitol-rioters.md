@@ -400,6 +400,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Mike Pence Keeps Quiet As His Safety During Capitol Riot Becomes A Focal Point in Trump's Trial"
+    excerpt: "Former Vice President Mike Pence still has a Twitter account—unlike his former boss, Donald Trump—but he's staying away from opining about the ongoing Trump impeachment trial that's taking place in the U."
+    publishedDateTime: 2021-02-13T00:06:00Z
+    webUrl: "https://www.newsweek.com/mike-pence-keeps-quiet-his-safety-during-capitol-riot-becomes-focal-point-trumps-trial-1569057"
+    ampWebUrl: "https://www.newsweek.com/mike-pence-keeps-quiet-his-safety-during-capitol-riot-becomes-focal-point-trumps-trial-1569057?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-keeps-quiet-his-safety-during-capitol-riot-becomes-focal-point-trumps-trial-1569057?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 128
+    images:
+      - url: "https://d.newsweek.com/en/full/1734543/mike-pence.jpg"
+        width: 2429
+        height: 1620
+        isCached: true
   - title: "Biden rescinds national emergency at U.S. southern border that allowed Trump to fund border wall"
     excerpt: "Biden informs Congress about rescinding the national emergency declaration on the U.S.-Mexico border that was put in place by Trump in February 2019."
     publishedDateTime: 2021-02-11T16:52:00Z

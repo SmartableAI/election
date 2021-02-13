@@ -942,6 +942,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Senators Pose Questions to House Managers and Trump Defense Team"
+    excerpt: "Live analysis of the second impeachment trial of former President Donald Trump."
+    publishedDateTime: 2021-02-13T00:43:00Z
+    webUrl: "https://www.wsj.com/livecoverage/trump-second-impeachment-trial-2021-02-12"
+    ampWebUrl: "https://www.wsj.com/amp/livecoverage/trump-second-impeachment-trial-2021-02-12"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/livecoverage/trump-second-impeachment-trial-2021-02-12"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-296338/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Republican senators largely unmoved by Democrats’ Trump trial prosecution"
     excerpt: "Several Republican senators said Thursday that House impeachment managers failed to persuade them to convict former President Donald Trump for allegedly inciting the Jan. 6 Capitol riot. The"
     publishedDateTime: 2021-02-12T00:25:00Z

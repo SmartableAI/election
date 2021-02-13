@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN2AC11K"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN2AC11K"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -63,6 +63,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump impeachment: defense wraps up, claiming free speech is at stake – live"
+    excerpt: "Lawyers conclude after brief arguments in impeachment trial and insist ‘President Trump did not incite or cause the horrific violence’ – follow live"
+    publishedDateTime: 2021-02-13T00:43:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/12/donald-trump-impeachment-senate-trial-defense-lwayer-republican-senators-coronavirus-covid-live-updates?page=with:block-60270de88f08b555964bd21e"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/12/donald-trump-impeachment-senate-trial-defense-lwayer-republican-senators-coronavirus-covid-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/12/donald-trump-impeachment-senate-trial-defense-lwayer-republican-senators-coronavirus-covid-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 102
 
 secured: "+MEz42qsF+nNYGamQqOu7IUgMIqny39S7vL5QGvwk7lHoGk7XnQfJ9hjazGt5FR8qoOQh/16Klqv9X8ahrqfef0PjEAinbJ7uCZuha5ovZEXLuj5o8wBYqrvltm0TkmJe2wvQylr7tkO62nOgPizCwMlSxgL1Qbh6LJlJjEYR0uKVBV43JYMnoclDrD0tzMG8+neLCj564QSuXv96BAhqRaGxlS7RpIz4hYM/sSvQWiS1QBEVnJvAnumGwbFNb7cxY8tmtHB0nbt0E70ByFXKpTOSOBtQeTIgnqGU93harlUz4j0QCBJBFw8VlkiJns85+SkDB9zgfrjqqSABXhsfRpD0PkFPNJx8MQyKW02f6g=;xgbMWPfKxeYLMjpnaEHbtQ=="
 ---

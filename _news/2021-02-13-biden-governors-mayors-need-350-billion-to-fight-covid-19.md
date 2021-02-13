@@ -65,23 +65,7 @@ related:
         isCached: true
   - title: "Biden presses for $1.9 trillion COVID relief plan with governors, mayors"
     excerpt: "U.S. President Joe Biden pushed for the first major legislative achievement of his term on Friday, turning to a bipartisan group of local officials for help on his $1.9 trillion coronavirus relief plan."
-    publishedDateTime: 2021-02-12T17:56:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-idUKKBN2AC10D"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2AC10D"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2AC10D"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 124
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210212&t=2&i=1551340103&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1B0Q3"
-        width: 811
-        height: 545
-        isCached: true
-  - title: "Biden to press for $1.9 trillion COVID relief plan with governors, mayors"
-    excerpt: "U.S. President Joe Biden will meet with a bipartisan group of mayors and governors on Friday as he continues to push for approval of a $1.9 trillion coronavirus relief plan to bolster economic growth and help millions of unemployed workers."
-    publishedDateTime: 2021-02-12T17:14:00Z
+    publishedDateTime: 2021-02-12T22:35:00Z
     webUrl: "https://www.reuters.com/article/us-usa-biden-idUSKBN2AC10D"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AC10D"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AC10D"
@@ -95,6 +79,17 @@ related:
         width: 811
         height: 545
         isCached: true
+  - title: "Biden to press for $1.9 trillion COVID relief plan with governors, mayors"
+    excerpt: "U.S. President Joe Biden will meet with a bipartisan group of mayors and governors on Friday as he continues to push for approval of a $1.9 trillion coronavirus relief plan to bolster economic growth and help millions of unemployed workers."
+    publishedDateTime: 2021-02-12T23:54:00Z
+    webUrl: "https://www.businessinsider.com/biden-to-press-for-19-trillion-covid-relief-plan-with-governors-mayors-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/biden-to-press-for-19-trillion-covid-relief-plan-with-governors-mayors-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-to-press-for-19-trillion-covid-relief-plan-with-governors-mayors-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 104
   - title: "The Biden administration is building three new COVID-19 vaccination sites in Texas and two in New York to target socially vulnerable communities"
     excerpt: "Five new COVID-19 vaccination sites will altogether be able to vaccinate 10,000 people in underserved communities in the US every day."
     publishedDateTime: 2021-02-11T12:57:00Z
@@ -112,6 +107,6 @@ related:
         height: 600
         isCached: true
 
-secured: "mu8OpBYAcdwx0uKsW8jNBHEt4fyANwzzza6un5Gj4EsJpKTf9K94oIVAP2oFNc2IWXlpdu+rcGH0BECh548XVEBoLJpGDPh8KxAlt+5LxGP3t/i/PWiXezqeSfPM84NmzTqAgfeP5IqOxwm71K20nHN3MY6AvgqOKjT7rFGx41S9IKG+38N8+l6uY15xJIXfW475xItTX8qm3SGds1Elm5rXEzUMBvCZ6dM7gDhIvwe1hU4FZO9z9+ofuN850WUb0nMnRkvVWj5lLiso8s763QN11F2V8wZOx3j87HxhfWsPE/388kMetZ0GWKWJCzNA8xq/eBSYZmBC7kWTo3u/r58giNEFS7RzaK8PfO12kwM=;NStUfUqB/2/8QtjTArkdeg=="
+secured: "SkswTKb0vi2VXUXeTOmO8EfxdyPaUyqL8wFvXTuNa3Tk7knXfKrlSY4ASSyFvW2k7heI585isIj/UM1vdPourgamH4Hyisd6SgyHqxJkXK6EwWwXe73C6UEoB8uA5pJOn9XswKzNp2/FG1zS8bhoXHIoztBF3Vm8nNBa83kmrLjBs/HSc0yj/Xpt7gYhXu1Vraqp5nsJqUNo2DufF32DST55rcar2DhFqTsqKHpO5hKUSO7lZEf7bVSSnH2F969SvfSCO2+f9ZrlAm8Rkw47kQ6Si9o+mcqfCOKkB+5awo3bCcREN3KwyfgXtpbe9Td965YYc1WLTTLlVyrnoyz6k+spioXNuc+WRHzL9FllheoQNeMuXksQzcOqKlUrsiBCVmmc35J8y6DlmVUPMRyJyaf1uK3c46B4roGJIBlPaQ/4IFyuN1sPWJP/r6j7NL5MftORFG4TrnmhCrAem6ppnwiDaVedwR1JJqJjwU1AbBpyoiZef3PO9umcvqQ+RBCLdFaRUbjdN8SxKHHHypJ4VA==;28EJS6oz6sCrhQz7/iDZtQ=="
 ---
 

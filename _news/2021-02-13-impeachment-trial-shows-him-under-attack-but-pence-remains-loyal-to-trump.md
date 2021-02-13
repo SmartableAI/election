@@ -400,6 +400,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Mike Pence Keeps Quiet As His Safety During Capitol Riot Becomes A Focal Point in Trump's Trial"
+    excerpt: "Former Vice President Mike Pence still has a Twitter account—unlike his former boss, Donald Trump—but he's staying away from opining about the ongoing Trump impeachment trial that's taking place in the U."
+    publishedDateTime: 2021-02-13T00:06:00Z
+    webUrl: "https://www.newsweek.com/mike-pence-keeps-quiet-his-safety-during-capitol-riot-becomes-focal-point-trumps-trial-1569057"
+    ampWebUrl: "https://www.newsweek.com/mike-pence-keeps-quiet-his-safety-during-capitol-riot-becomes-focal-point-trumps-trial-1569057?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-keeps-quiet-his-safety-during-capitol-riot-becomes-focal-point-trumps-trial-1569057?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 128
+    images:
+      - url: "https://d.newsweek.com/en/full/1734543/mike-pence.jpg"
+        width: 2429
+        height: 1620
+        isCached: true
   - title: "Biden rescinds national emergency at U.S. southern border that allowed Trump to fund border wall"
     excerpt: "Biden informs Congress about rescinding the national emergency declaration on the U.S.-Mexico border that was put in place by Trump in February 2019."
     publishedDateTime: 2021-02-11T16:52:00Z
@@ -3369,6 +3385,6 @@ related:
       domain: usnews.com
     quality: 46
 
-secured: "nsopkQ4c5euPAzHh6a4211yP+ek0/56jjUvGLSq/As/71Knusw82BLmDrZYvyIPyhxxSoNwjTS9E3enT4l+0IZhhZZlYNRxPhndk+zPY/uU46XTO3c0dq7G0sNi1UcEBrzrkYjxH86lYGxYuD07FRAy3ngQHYxYo6UFIkyxI06ksludNb2ZV5tRDasu6TUL5Ix0bnfKn81sRzTBuHA68ZXqvl7AXzsjQQq/XuJcd7wCkh5gdVSqT4RbQQ8Na5iUO7Lq7jKqd9xSIhh5beRzBWpPgI/nX0WrzpBq1KHVd0aOAbITftK4/9Eh4nI6GFPCS0a2ozGYhCIpo5tKewhuDBWFBMkgWE+SBPrPJWHZXW5g=;Uss4mhecc2OggqGp8xdJ/w=="
+secured: "34z1pVINLDhXRySOUvEx5xuXlxXjPW72080uz1ijnqqqlK8LW07162tglTp5CBZgEHKPGXKIfRP6NlV4PjIX27ymtCchs7Sm4AhFOnlmSErIUwqU6Leey7poFivDjlRgUUhgxgtnsUeJGhWFaAS6ttECPAzEtmtLxVInWtrTMJ91uEm4SZ/pwGl+yNpjN02yRRZ+H13GI5MVc/INrVhZiJCeDxsV3GA6c/dNHqd54cJnv5YUp33brBVRN1Nsv223Hdz7rXExGNXOp/KlvM3GFUPufBb6/q1O20ZspRTL7O1mOZGH0QwwrehjxrwXT1VVGv+yYsINgbQ1MFNVclt92ocXKGJG5v1CGFi/ukZm2O71bt3jPdYVxpjaxCkdy6BephYPcoRuWEls2d1xo6PH44RzwV8Zh9THwWsGKu1FX7v4MkF0lmRe0ti4fgZiLgdBkErH4N8IDIywkL7YgG6HFgO484HZ2y3CQEA9OZ0YwRhh4CInLe+MiH86jNWrNGM+/wbkzT/07PKY361tljFHQQ==;151+64OaFhI2VJnhwxI6SQ=="
 ---
 

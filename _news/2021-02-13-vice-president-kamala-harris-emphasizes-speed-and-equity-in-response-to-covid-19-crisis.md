@@ -3,8 +3,8 @@ category: news
 title: "Vice President Kamala Harris Emphasizes Speed and Equity in Response to COVID-19 Crisis"
 excerpt: "In Harris’ first national sit-down interview since becoming vice president, she discusses her focus on an equitable response to the COVID-19 crisis with 19th editor-at-large Errin Haines."
 publishedDateTime: 2021-02-12T17:04:00Z
-originalUrl: "https://www.govexec.com/management/2021/02/vice-president-kamala-harris-emphasizes-speed-and-equity-response-covid-19-crisis/172032/?%3Foref=GovExecTCO"
-webUrl: "https://www.govexec.com/management/2021/02/vice-president-kamala-harris-emphasizes-speed-and-equity-response-covid-19-crisis/172032/?%3Foref=GovExecTCO"
+originalUrl: "https://www.govexec.com/management/2021/02/vice-president-kamala-harris-emphasizes-speed-and-equity-response-covid-19-crisis/172032/"
+webUrl: "https://www.govexec.com/management/2021/02/vice-president-kamala-harris-emphasizes-speed-and-equity-response-covid-19-crisis/172032/"
 type: article
 quality: 47
 heat: -1
@@ -76,13 +76,13 @@ related:
   - title: "Trump impeachment lawyers raise past rhetoric of Kamala Harris. Here are the facts"
     excerpt: "Vice President Kamala Harris engaged in the same sort of strong political rhetoric that prompted President Donald Trump’s impeachment, his attorneys said Friday. Michael van der Veen, a Trump defense attorney,"
     publishedDateTime: 2021-02-12T21:10:00Z
-    webUrl: "https://www.miamiherald.com/news/politics-government/article249217590.html"
-    ampWebUrl: "https://amp.miamiherald.com/news/politics-government/article249217590.html"
-    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/article249217590.html"
+    webUrl: "https://www.sacbee.com/news/politics-government/article249217590.html"
+    ampWebUrl: "https://amp.sacbee.com/news/politics-government/article249217590.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/article249217590.html"
     type: article
     provider:
-      name: Miami Herald
-      domain: miamiherald.com
+      name: Sacramento Bee
+      domain: sacbee.com
     quality: 84
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/8dd160d4-750c-4437-88b7-70c19fe7d0e8/b3af9ac2-cb8d-46d9-bbaa-99e8b7980a99/1280x720/match/image.jpg"
@@ -106,6 +106,6 @@ related:
         height: 600
         isCached: true
 
-secured: "YKZ4hDiSa7DjFqToSF0VQFDNw4Dq6MpO++tENgbYH3S4f77TLUSV9Rm3EImVbNuZ3vYmEOsCjUmDa0efQNLZUZD5xuavuAqBnQcpfXCCpfamfNstsqBXvAXN7wcHFJjVZqZAuzX1mxqTKYmZoiQQMU1ocRlH/MO/Wfz7qCEy1vwuzs1yGR2jkQ83+KZYl12j02JQF0sUbL+IovV/RjkT3ZcnfxxWF+ZC30ZlMBb+AeDuTo0qw0E3E916NaGevWeaclOjyl/rLhnsPbHSCJrMpBTYqEqssqRhQ0AHpscNaBB2TLNV3OH4224KsbLu9RBSuh2kD/EGqajtpTYe97oYmG2v1yWC4QfD2TbDEk9dsZOwO43FD5tzKSxIQ5gGgDbqZvf2gybMcedcy3lF/qN6LltlrAtNWpk9IUQiGPEOzvNuPwp+3dfR2HaCPvaswCcWwaoCLS5IF+qN45sR/VLtied1t255GJfzc2B+ejeSz+IHUSedqsdUqv93L43rExddMq/sSQMsbKgtlasyNH6uqQ==;5IGZwsXDtCqUtj39vssYNQ=="
+secured: "FE8FcPqaKAIAmqptcCBRjf0NKlisZYJTthJcFHtDoOIc9SJGNiYWKBAgP6O64VsYow0oW/EU/jWrYDouBWRwWA7zQScfBZg2iy50c3pZVUBnlvRqFvAkHWsdQ4F/9QvJGgfbgZ1ZgV0IsWz5D8SNQTUAv0lmv8Jy9H0yWawzKXT39gVIordVI3UthYKsndksYsPxAhabdZJ8WrLPzNLFBNtMPI9oNtOESeZ1EcgBHk1r60wOaBVF000NrdTCmhMSRcMNu4YqgRbhBpBcs6KtIZVHryG+K52zyY2H5E+VyxGtnWkPTIk70ZgJLIzygP8WJFaY4sFB2zO3V6HKvYKyXM9fZPmB+i83LPHqhXlI4M0=;8A3NtvV+VJrDqQI/iovdtA=="
 ---
 

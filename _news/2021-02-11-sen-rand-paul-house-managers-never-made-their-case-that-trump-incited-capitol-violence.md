@@ -77,6 +77,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Impeachment manager Stacey Plaskett suggests Trump defense videos homed in on 'people of color'"
+    excerpt: "Stacey Plaskett, one of the House impeachment managers, called out former President Trump's defense team for focusing on \"Black women like myself\" in their video montages during the impeachment trial."
+    publishedDateTime: 2021-02-13T00:36:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vocWARuJDq4/del-stacey-plaskett-calls-out-trump-defense-videos-featuring-black-women-like-myself"
+    ampWebUrl: "https://www.foxnews.com/politics/del-stacey-plaskett-calls-out-trump-defense-videos-featuring-black-women-like-myself.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/del-stacey-plaskett-calls-out-trump-defense-videos-featuring-black-women-like-myself.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Stacey-Plaskett-copy.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Democrats Argue Trump ‘Inflamed and Incited’ Capitol Riot"
     excerpt: "Democrats opened their case by arguing that he “assembled, inflamed and incited” the attack on the Capitol in a last-ditch effort to overturn the result of the election."
     publishedDateTime: 2021-02-11T00:13:00Z

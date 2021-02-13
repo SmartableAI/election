@@ -62,13 +62,13 @@ related:
   - title: "Trump impeachment lawyers raise past rhetoric of Kamala Harris. Here are the facts"
     excerpt: "Vice President Kamala Harris engaged in the same sort of strong political rhetoric that prompted President Donald Trump’s impeachment, his attorneys said Friday. Michael van der Veen, a Trump defense attorney,"
     publishedDateTime: 2021-02-12T21:10:00Z
-    webUrl: "https://www.miamiherald.com/news/politics-government/article249217590.html"
-    ampWebUrl: "https://amp.miamiherald.com/news/politics-government/article249217590.html"
-    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/article249217590.html"
+    webUrl: "https://www.sacbee.com/news/politics-government/article249217590.html"
+    ampWebUrl: "https://amp.sacbee.com/news/politics-government/article249217590.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/article249217590.html"
     type: article
     provider:
-      name: Miami Herald
-      domain: miamiherald.com
+      name: Sacramento Bee
+      domain: sacbee.com
     quality: 84
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/8dd160d4-750c-4437-88b7-70c19fe7d0e8/b3af9ac2-cb8d-46d9-bbaa-99e8b7980a99/1280x720/match/image.jpg"
@@ -94,7 +94,7 @@ related:
   - title: "Vice President Kamala Harris Emphasizes Speed and Equity in Response to COVID-19 Crisis"
     excerpt: "In Harris’ first national sit-down interview since becoming vice president, she discusses her focus on an equitable response to the COVID-19 crisis with 19th editor-at-large Errin Haines."
     publishedDateTime: 2021-02-12T17:04:00Z
-    webUrl: "https://www.govexec.com/management/2021/02/vice-president-kamala-harris-emphasizes-speed-and-equity-response-covid-19-crisis/172032/?%3Foref=GovExecTCO"
+    webUrl: "https://www.govexec.com/management/2021/02/vice-president-kamala-harris-emphasizes-speed-and-equity-response-covid-19-crisis/172032/"
     type: article
     provider:
       name: Government Executive
@@ -106,6 +106,6 @@ related:
         height: 400
         isCached: true
 
-secured: "rO20GiAeuqURW7PoClY5N0bSNzLXXv5eLCu4MW4Y7BH7dQCVg1A8aosAMPHQrBhtg5WAlQHuGjwyCXOwM5APor7addd2WjVtmW07re6U+17/6N4xqTXedKCCBn83OvlVbM7nskriPsfhwuHkRVuDad9O/ZjHNa9+CakPTR1joFzn/hBFaQHYuyycJl1pQt+dEpiHfuO8XhZsyseiT/cOdZTwQy0J/UYw6a2k72eQ1xSfEM4DwMOMfNULZDn/jzLYyYxrP4KzemRJm75XhoXF41fU0avCWG5HqwnaidLZaIN1INSYFzBIQVimHRFeamvBgWyCI2mUFtMifjNBhE5FWaKzOSMeO4omaI0+b98sffI=;PIw2peuVvsdhz65Sdf6O1w=="
+secured: "Ya3FU0+AV1Knpl5xP/G6Wqq0dCea4cfsfFYjqjEoKICb9T/Y0UwnAsNSLTHi1MdvIaq746Fpfw8SfXeXf5HPZqfYU15e3K1S9uJggLzl0Grmjx0lzoiwXoD2scEOCZGzk309jy4d/VkgOTdPSZs9HpvHZIwrLv5Kk98RVuxpD+/GGoZwUIIgWD6mQrVLTe38f4hWY3vbCFUITySVzOhRSz8hC4LLvNdkF2Tu93mxMO+uuvDdcq2k1HfaPXQpYJzqzzzV20iYyrTzhvtRI/p1d4jyBujIIIaPjbnkfABQc+hOMPQ/EfT26El2iDv9Bpb9nNYO13XEwU4DAH1QJm0ZI9+K3kK4YwH40LTCLIiPXkuaeFD3zvxjulu+rVPLjHQNUB/D48sK0K9Z2XzQIqQMSK0ZMmjukxbiRawuhu3Q9I+UauQi1ysagoxGJjeXb9nGS2MIFZ7Fd7KZdBbNtC/C8iRBaKRhEvVMv0fRXC5YOhoWZra77JhHPMJX9GYt4/QdAOhI3Fpzmql+pCRAL3PtBw==;Jp9Q0xHm+dvXdkgJdsGaBg=="
 ---
 

@@ -32,81 +32,53 @@ images:
     isCached: true
 
 related:
-  - title: "What is 'incitement' -- and what does it mean for Trump's impeachment defense?"
-    excerpt: "The allegation of \"incitement\" is central to the impeachment case House Democrats are making against former President Donald Trump because it ties his words and actions to the January 6 insurrection on Capitol Hill.\n    \n"
-    publishedDateTime: 2021-02-11T17:05:07Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IOsOx2p7iAE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/11/politics/what-is-incitement-definition/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/11/politics/what-is-incitement-definition/index.html"
+  - title: "Key Republican breaks with Trump: 'We shouldn't have followed him'"
+    excerpt: "Former ambassador to the UN Nikki Haley weighed in on Trump's legacy during an interview with Politico, saying that he had \"fallen so far\" and was likely out of the picture for 2024 presidential candidates. Former special assistant to President George H.W. Bush and president of the Council on Foreign"
+    publishedDateTime: 2021-02-12T18:35:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sUGrERbuGhY/nikki-haley-trump-election-richard-haass-nr-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/02/12/nikki-haley-trump-election-richard-haass-nr-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/02/12/nikki-haley-trump-election-richard-haass-nr-vpx.cnn"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 171
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106122842-01-trump-speaks-dc-protest-0106-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/181009111215-18-nikki-haley-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump's second impeachment trial set to kick off this week amid questions about what it will look like"
-    excerpt: "The second Senate impeachment trial of former President Donald Trump is scheduled to kick off Tuesday with some of the key questions about the trial itself -- including how long it will go and whether any witnesses will be called -- still unanswered.\n    \n"
-    publishedDateTime: 2021-02-07T11:01:43Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/u_XsOAbs1LY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/07/politics/trump-impeachment-trial-this-week-state-of-play/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/07/politics/trump-impeachment-trial-this-week-state-of-play/index.html"
+  - title: "Of course Donald Trump's team didn't tell the truth about his Covid-19 illness"
+    excerpt: "Donald Trump was far sicker with Covid-19 than the White House physician or his top aides let on, even to the point where there were concerns that the then-President would have to be put on a ventilator to deal with the illness."
+    publishedDateTime: 2021-02-12T15:57:00Z
+    webUrl: "https://www.cnn.com/2021/02/12/politics/donald-trump-covid-19-sick-new-york-times/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/12/politics/donald-trump-covid-19-sick-new-york-times/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/12/politics/donald-trump-covid-19-sick-new-york-times/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 159
+    quality: 131
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210204131911-103-trump-impeachment-centered-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201216162007-trump-white-house-1005-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump's impeachment defense team argues his words before riot were 'ordinary political rhetoric'"
-    excerpt: "Lawyers for former President Donald Trump’s kicked off their defense Friday with a forceful rebuke of the case made by Democratic House impeachment managers, calling it an act of \"political vengeance\" and alleging that Trump's speech preceding the Capitol riot was merely \"ordinary political rhetoric."
-    publishedDateTime: 2021-02-12T18:50:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-defense-present-case-senate-impeachment-trial-n1257601"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1257601"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1257601"
+  - title: "Democrats rest case with a warning: Republicans risk the republic if they acquit Trump"
+    excerpt: "Analysis: House Democratic prosecutors asked Senate Republicans to consider the precedent they would set by approving of Trump's conduct."
+    publishedDateTime: 2021-02-12T14:47:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/democrats-rest-case-warning-republicans-risk-republic-if-they-acquit-n1257579"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1257579"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1257579"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 122
+    quality: 127
     images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2021_06/3449634/210212-donald-trump-mn-0730_1766caa6ab5712ca048af6133531a753.jpg"
+      - url: "https://media2.s-nbcnews.com/i/newscms/2021_06/3449574/210211-jamie-raskin-bw-ac-909p_93b993d3a3f387227e4532af9dd90e0e.jpg"
         width: 2500
-        height: 1667
-        isCached: true
-  - title: "Impeachment managers directly blame ‘inciter-in-chief' Trump for Capitol attack"
-    excerpt: "Prosecutors also will show never-before-seen footage of the chaos during the first day of formal arguments in Trump's second trial."
-    publishedDateTime: 2021-02-10T18:13:00Z
-    webUrl: "https://www.politico.com/news/2021/02/10/trump-impeachment-trial-day-2-468291"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 111
-    images:
-      - url: "https://static.politico.com/c7/25/c3962b394f1d93105eef2bd2747d/raskin-773-ap.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Trump impeachment defense team shows 9-plus minute compilation of Dems using word 'fight'"
-    excerpt: "House impeachment managers have pointed to Trump’s own words before the Jan. 6 insurrection, when he said supporters would lose the country if they didn't “fight like hell.”"
-    publishedDateTime: 2021-02-12T19:13:00Z
-    webUrl: "https://www.politico.com/news/2021/02/12/trump-impeachment-defense-democrats-fight-468852"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 106
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/5d641925-59d2-4f7b-80e3-518f4dcd0ea2/22afe3dc-ac3e-4ddf-8806-29bc33264432/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+        height: 1528
         isCached: true
 
 secured: "saW/q3kga5jwXv2h4XP9UsJbhd6khqcx03N32c9EIC94JJB6C+TmsWNk6+g8BOPK89iu2ybxDVPmbq8fD3Rrn79r98iLaCYFZYg/FC661f/W3pBe7t3PXfq6Wax2kAHUXJyvriassEb8xPvaFNs75P9S7cN19cRrk3HIvSfVVLMhtDTjXOzCncUyme9R1/Ki2tr8W9WUUx0HuC9lVMXRWnikcKrt/w/1o3f5kNFWT757u+PQnS1TSPXWRYeQTjZegjHq7Vlya6id1Nf+eHJX9qVLpPM4apTyPUk4atcSq3M483zxgMXQG9ewb7mX5jLSZyCOPCkTrPS94tJLvsb0WKUPxKybe8oYZjkqYYWAHMY=;go0EPjgQLc9OTTtCnVwUxw=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/31/politics/adam-kinzinger-country-f
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/31/politics/adam-kinzinger-country-first-trump/index.html"
 type: article
 quality: 175
-heat: 515
+heat: 455
 published: true
 
 provider:
@@ -60,22 +60,6 @@ related:
     quality: 171
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125192318-donald-trump-september-2020-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Democrats indicate they don't need Trump's testimony to make case at impeachment trial"
-    excerpt: "House Democrats prosecuting the case against Donald Trump are signaling privately and publicly they will likely avoid a dramatic showdown with the former President and are unlikely to issue a subpoena compelling his testimony.\n    \n"
-    publishedDateTime: 2021-02-05T18:16:54Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/q4jJn6WMdBk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/05/politics/senate-impeachment-trial-trump-witness/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/05/politics/senate-impeachment-trial-trump-witness/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 167
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106122844-02-trump-speaks-dc-protest-0106-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -222,38 +206,6 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2021_05/3447408/210203-2x1-marjorie-taylor-greene-liz-cheney-ew-336p_ecadd80ffda389f9dff9c44761f02ec8.jpg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Full Panel: GOP splits between Trump and establishment wings"
-    excerpt: "David French, María Teresa Kumar, Anna Palmer and Michael Steele join the Meet the Press roundtable to discuss how Republicans and reckoning with party members who repeat disinformation and lies, plus the upcoming impeachment trial of former President Donald Trump."
-    publishedDateTime: 2021-02-07T14:51:00Z
-    webUrl: "https://www.nbcnews.com/meet-the-press/video/full-panel-gop-splits-between-trump-and-establishment-wings-100656197970"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo100656197970"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo100656197970"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202102/1612709173237_mtp_full_panel_210207_1920x1080.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Strong Trump Supporters Picked to Head Michigan Republican Party"
-    excerpt: "The state’s selection of party chair and vice chair hinged in large part on who was most loyal to the former president."
-    publishedDateTime: 2021-02-07T02:36:00Z
-    webUrl: "https://www.nytimes.com/2021/02/06/us/politics/michigan-elections-board.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/06/us/politics/michigan-elections-board.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/06/us/politics/michigan-elections-board.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/02/07/us/politics/06submichigan-gop-print/06michigan-gop-facebookJumbo.jpg"
-        width: 1050
-        height: 550
         isCached: true
   - title: "GOP Rep. Anthony Gonzalez risked his career to impeach Trump. He's not sorry."
     excerpt: "Under fire back home, the Ohio lawmaker may have lost his chance at a Senate seat and could face a House primary challenge next year."

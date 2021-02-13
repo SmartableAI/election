@@ -95,22 +95,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump's defense team expected to finish its arguments in one day"
-    excerpt: "Former President Donald Trump's defense team expects to finish its arguments in the Senate's impeachment trial by Friday night, two sources tell CNN.\n    \n"
-    publishedDateTime: 2021-02-11T16:45:17Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fh23YCpBO_w/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/11/politics/donald-trump-impeachment-defense-team-arguments/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/11/politics/donald-trump-impeachment-defense-team-arguments/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210210160111-03-impeachment-trial-2021-unf-0210-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden administration says it intends to close Guantanamo prison"
     excerpt: "The Biden administration intends to close the Guantánamo Bay detention facility, which houses approximately 40 prisoners, by the end of their term.\n    \n"
     publishedDateTime: 2021-02-12T22:50:03Z
@@ -318,22 +302,6 @@ related:
       - url: "https://static01.nyt.com/images/2021/02/11/world/11virus-briefing-vaccine-doses/11virus-briefing-vaccine-doses-facebookJumbo.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "HUD to pursue gender identity-based discrimination complaints, reversing Trump policy"
-    excerpt: "The policy marks a major shift from HUD’s position under President Donald Trump and his housing secretary, Ben Carson."
-    publishedDateTime: 2021-02-11T12:34:00Z
-    webUrl: "https://www.politico.com/news/2021/02/11/hud-gender-identity-discrimination-468570"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/02/11/hud-gender-identity-discrimination-468570"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/02/11/hud-gender-identity-discrimination-468570"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 128
-    images:
-      - url: "https://static.politico.com/c3/1c/d92bc77e479e8437bde8fc281405/gettyimages-1230855431-1.jpg"
-        width: 1160
-        height: 773
         isCached: true
   - title: "9-year-old boy begs Biden administration to stop his father's deportation to Guatemala"
     excerpt: "\"They're choosing to keep a parent and child separated that they had already separated before and traumatized,\" said the attorney for Fernando Ochoa's dad."

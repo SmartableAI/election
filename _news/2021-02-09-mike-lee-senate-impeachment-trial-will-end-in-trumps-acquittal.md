@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/mike-lee-senate-trial-end-trump-acq
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-lee-senate-trial-end-trump-acquittal-impeachment-capitol-riot.amp"
 type: article
 quality: 175
-heat: 1635
+heat: 1655
 published: true
 
 provider:
@@ -938,6 +938,22 @@ related:
     quality: 135
     images:
       - url: "https://images.wsj.net/im-298452/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Senators Pose Questions to House Managers and Trump Defense Team"
+    excerpt: "Live analysis of the second impeachment trial of former President Donald Trump."
+    publishedDateTime: 2021-02-13T00:43:00Z
+    webUrl: "https://www.wsj.com/livecoverage/trump-second-impeachment-trial-2021-02-12"
+    ampWebUrl: "https://www.wsj.com/amp/livecoverage/trump-second-impeachment-trial-2021-02-12"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/livecoverage/trump-second-impeachment-trial-2021-02-12"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-296338/social"
         width: 1280
         height: 640
         isCached: true

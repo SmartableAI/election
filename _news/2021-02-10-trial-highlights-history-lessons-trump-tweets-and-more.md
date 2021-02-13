@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trial-highlights-histo
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trial-highlights-history-lessons-trump-tweets-75789773"
 type: article
 quality: 125
-heat: 405
+heat: 425
 published: true
 
 provider:
@@ -142,6 +142,22 @@ related:
       - url: "https://i.insider.com/6026ea30b3c2a800183ccb61?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Live impeachment updates: Trump team accuses Democrats of violating due process, threatening free speech"
+    excerpt: "Capitol riots that led to former President Donald Trump’s second impeachment trial, his lawyers took to the floor on Friday to defend him. So far Trump’s legal team, cobbled together less than a week before the Senate trial was set to begin,"
+    publishedDateTime: 2021-02-13T00:55:00Z
+    webUrl: "https://www.cnbc.com/2021/02/12/trump-impeachment-trial-live-updates-video-day-4.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/02/12/trump-impeachment-trial-live-updates-video-day-4.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/02/12/trump-impeachment-trial-live-updates-video-day-4.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 108
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106840137-16131550122021-02-12t183425z_1669069050_rc26rl96hbfp_rtrmadp_0_usa-trump-impeachment.jpeg?v=1613155084"
+        width: 993
+        height: 599
         isCached: true
   - title: "Live impeachment updates: Prosecutors end arguments; Trump lawyer calls trial 'weaponization' of impeachment"
     excerpt: "House prosecutors ended their arguments in the impeachment trial of Donald Trump. The former president's legal team starts Friday."

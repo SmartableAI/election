@@ -3,18 +3,18 @@ category: news
 title: "Trump impeachment lawyers raise past rhetoric of Kamala Harris. Here are the facts"
 excerpt: "Vice President Kamala Harris engaged in the same sort of strong political rhetoric that prompted President Donald Trump’s impeachment, his attorneys said Friday. Michael van der Veen, a Trump defense attorney,"
 publishedDateTime: 2021-02-12T21:10:00Z
-originalUrl: "https://www.miamiherald.com/news/politics-government/article249217590.html"
-webUrl: "https://www.miamiherald.com/news/politics-government/article249217590.html"
-ampWebUrl: "https://amp.miamiherald.com/news/politics-government/article249217590.html"
-cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/article249217590.html"
+originalUrl: "https://www.sacbee.com/news/politics-government/article249217590.html"
+webUrl: "https://www.sacbee.com/news/politics-government/article249217590.html"
+ampWebUrl: "https://amp.sacbee.com/news/politics-government/article249217590.html"
+cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/article249217590.html"
 type: article
 quality: 84
 heat: -1
 published: false
 
 provider:
-  name: Miami Herald
-  domain: miamiherald.com
+  name: Sacramento Bee
+  domain: sacbee.com
 
 topics:
   - Election
@@ -94,7 +94,7 @@ related:
   - title: "Vice President Kamala Harris Emphasizes Speed and Equity in Response to COVID-19 Crisis"
     excerpt: "In Harris’ first national sit-down interview since becoming vice president, she discusses her focus on an equitable response to the COVID-19 crisis with 19th editor-at-large Errin Haines."
     publishedDateTime: 2021-02-12T17:04:00Z
-    webUrl: "https://www.govexec.com/management/2021/02/vice-president-kamala-harris-emphasizes-speed-and-equity-response-covid-19-crisis/172032/?%3Foref=GovExecTCO"
+    webUrl: "https://www.govexec.com/management/2021/02/vice-president-kamala-harris-emphasizes-speed-and-equity-response-covid-19-crisis/172032/"
     type: article
     provider:
       name: Government Executive
@@ -106,6 +106,6 @@ related:
         height: 400
         isCached: true
 
-secured: "JJeklUvcdxRv+uThpcjxkk8SI8wYLF1BUSb/ktugy5Rvzbhw1UVpB47JP0QpSciVuE7EIUWuxM+0Ryh1z8292yhcPmSEoQ3G68+BiQLYix2uepVcWrgeRZeus9kVvAKbOHhcOkcZwziicRIp//Jc+6XB9ZxlGOoL80BRShDfoH+ynOHnrnluYm7bxD64LMYMMvJKJ6Vp+PxHa2MV4LqGlx9kXCFo27H7+hzBijm2dU4misrdBkcDCUMvwGNbGozPspQ5z8/PKunre0MkPjEnIuPu3hOIJNbKrjplPt7a4KS7HT/nc48bb/I+Z57Fq3t3UBe8grB0g/iB5VJl+vWFXTSlksCOmdrxUvGW7Imqy4A=;YVERNiCbBMKCyRi0LdGh3g=="
+secured: "DJ9yLCvuBBM9LXW/ttKjmkokkd8XBIrMjmYwiUwwa6dDr9e5TjoRbbwh3XKC845bvmV294F48p7u7AkdIE2GakV2ij0QGMcGjIkOEaQSnhfahc3fXTRD0F5TmH0DbmtI+ngtVq1TpzFSRosuAvVymDFmvBIQhkR4Iw5i4sqiv2y8QGN9mGkZzZWn3V1vDrDIjihM8R1XXLRCU+3dXKmyr1gJiAamNTSnzeg+je5Zc+HAqYnJqU172VIgSAgtGlK3ypDfRWVyCl0ekEvwfBdIzyZiTpDloG9Er0C3R64vMmCImUKPFmna9Z2tV+9MVaFHeGXP7pO/GLNFgFGa1pAWYvoecPKVBVSrKXMR5Ecerhw=;Yr69UzDIsf53FGRghr8jPw=="
 ---
 

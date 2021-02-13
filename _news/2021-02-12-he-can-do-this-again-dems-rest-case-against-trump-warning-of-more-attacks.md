@@ -30,21 +30,35 @@ images:
     isCached: true
 
 related:
-  - title: "Democrats rest case with a warning: Republicans risk the republic if they acquit Trump"
-    excerpt: "Analysis: House Democratic prosecutors asked Senate Republicans to consider the precedent they would set by approving of Trump's conduct."
-    publishedDateTime: 2021-02-12T14:47:00Z
-    webUrl: "https://www.nbcnews.com/politics/politics-news/democrats-rest-case-warning-republicans-risk-republic-if-they-acquit-n1257579"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1257579"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1257579"
+  - title: "New details about Trump-McCarthy shouting match show Trump refused to call off the rioters"
+    excerpt: "In an expletive-laced phone call with House Republican leader Kevin McCarthy while the Capitol was under attack, then-President Donald Trump said the rioters cared more about the election results than McCarthy did.\n    \n"
+    publishedDateTime: 2021-02-13T00:28:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AGEa26EK70Y/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/12/politics/trump-mccarthy-shouting-match-details/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/12/politics/trump-mccarthy-shouting-match-details/index.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 127
+      name: CNN
+      domain: cnn.com
+    quality: 165
     images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2021_06/3449574/210211-jamie-raskin-bw-ac-909p_93b993d3a3f387227e4532af9dd90e0e.jpg"
-        width: 2500
-        height: 1528
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210128150149-03-kevin-mccarthy-trump-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Day Three: Democrats try to make the Trump link clearer"
+    excerpt: "And Speaker Nancy Pelosi says she will award the Congressional Gold Medal to Capitol Police and other law enforcement who defended the Capitol on Jan. 6."
+    publishedDateTime: 2021-02-11T18:50:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook-pm/2021/02/11/day-three-democrats-try-to-make-the-trump-link-clearer-491726"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/a9/3c/81523a5e4fb583824a567513d7f6/210211-degette-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "OmqFUr/tXcODPElsxSTXzL+4yieC3ag+76eBBdcr2zHhJh37UuPcXSuL7kuw55YD2hg8IuaZOLwKUz4j9UnI2TE5/pRGhzuGb+lqyJW2+/m+/85seRIqnpVU3tep+GwAFyY/Z6n47UkR9Rl369tVyRPOYvQ4vqAOaT1JjvnsgGHy+qBaUpn2Fg0v/WJZCnqWGA98NosEUJyKGi5QHUeEzTpRhOj0qbbON1vq70mzI5p4l+B4hXF2sXTS4KR1mHvgJdPENnT+w2f4OFOnV+Y+YBFCdAnpB6QenmGEWInAXo4oQwz+6A8tz9iSnZS03q7E1oDahfKsVktiFzkOmdX45CEx5sZ99Yl+8vAn5dIrE0ZOxhuOBKUNe10uuOnKj4ffjZacDpFkGf4exb48r1nNUM66j1IWjrM9xtS2IDR3lc6l4LTBDa350LhzIHWAn2U8EasNy7GM9awBI6mwwCg8nJ/edpzEKvA2P/tAlgGLfJdXsIcF4ekK6wMDUU7AA/+5pwSGbCji+lOZAJGWJjonwQ==;XCgVHpxVmVSCcm291gD+Gw=="

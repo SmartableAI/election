@@ -954,6 +954,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Senators Pose Questions to House Managers and Trump Defense Team"
+    excerpt: "Live analysis of the second impeachment trial of former President Donald Trump."
+    publishedDateTime: 2021-02-13T00:43:00Z
+    webUrl: "https://www.wsj.com/livecoverage/trump-second-impeachment-trial-2021-02-12"
+    ampWebUrl: "https://www.wsj.com/amp/livecoverage/trump-second-impeachment-trial-2021-02-12"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/livecoverage/trump-second-impeachment-trial-2021-02-12"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-296338/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Schumer leaves door open to 14th Amendment measure to bar Trump from office"
     excerpt: "Senate Majority Leader Chuck Schumer Thursday did not rule out bringing legislation to bar former President Donald Trump from office if he is not convicted at the ongoing Senate impeachment trial."
     publishedDateTime: 2021-02-11T20:04:00Z
