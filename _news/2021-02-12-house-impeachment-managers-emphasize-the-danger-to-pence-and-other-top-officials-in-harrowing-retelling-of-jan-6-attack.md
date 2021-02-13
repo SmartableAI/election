@@ -47,6 +47,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "See how close the mob got to Mike Pence"
+    excerpt: "See how close the mob got to Mike Pence Up Next, 'I just had to laugh at myself' Video, 00:01:41'I just had to laugh at myself' What's going on in Central African Republic? Video, 00:04:20What's going on in Central African Republic?"
+    publishedDateTime: 2021-02-11T18:43:00Z
+    webUrl: "https://www.bbc.com/news/av/world-us-canada-56033907"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 105
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p01tlf61.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Graphic new video shows rioters looking for Pence"
     excerpt: "Prosecutors in Donald Trump's impeachment trial have unveiled never-before-seen video video showing the mob of rioters breaking into the Capitol and searching menacingly for former Vice President Mike Pence while they chanted,"
     publishedDateTime: 2021-02-11T02:26:00Z
@@ -60,20 +74,6 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/9443ab34-1135-4db3-abd3-d8db0c02923b_poster.jpg?quality=10"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "See how close the mob got to Mike Pence"
-    excerpt: "Newly released security footage shows the peril the vice-president and other lawmakers were in."
-    publishedDateTime: 2021-02-11T20:51:00Z
-    webUrl: "https://www.bbc.co.uk/news/av/world-us-canada-56033907"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 55
-    images:
-      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p01tlf61.jpg"
-        width: 400
-        height: 225
         isCached: true
 
 secured: "1Ha3vWAQUVmABk/sCRpeGP5Yq9iJ60w6Z614sZru+XpETEJt2Lot9c8saiWUme75J63qrcE9Ldabl2mJLg/NqJtJeUXN/RkNowCAXNP9iCnVT9XXVb4EOOdskyDzjAk+KjzI92MlOuwvSgGtNclk17rpc9bFp5p5d1zmZK9dnM5J7xI6twthuX+NMrDWZBClt3wzbl6Z5IV+Aje+WM4xrt5sSdBYxJZUd8JioCTCBPvwgC+bXpM6dZM6VoZfGzZhfMP1X+ScZ4Kp6xUI+thT59mK/9aYLGqv7/Uf4HsABCGMhr4ign2D23WKcuzuu70flEaGWlzVOiAcZ5OVA8BfxY5P95E8GEpouB4khGyhOk0=;ysIkhpm+8kZ8ERNm2wLy9w=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-calls-canadas-tr
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-calls-canadas-trudeau-mexicos-lpez-obrador-75444816"
 type: article
 quality: 125
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210129&t=2&i=1549618256&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0S1PW"
         width: 794
         height: 545
+        isCached: true
+  - title: "What Joe Biden means for Catholics in America"
+    excerpt: "The first Catholic president since JFK, Biden has a liberal faith more aligned with membership of the largest U.S. church, whose leaders skew conservative."
+    publishedDateTime: 2021-02-12T18:04:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2021-02-12/joe-biden-catholic"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-02-12/joe-biden-catholic?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-02-12/joe-biden-catholic?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/3503722/2147483647/strip/true/crop/2400x1568+0+73/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa7%2Fd3%2F4db4b3c44abab5f4667352644f09%2Fla-na-pol-biden-birthday08.JPG"
+        width: 320
+        height: 209
         isCached: true
   - title: "‘Celebrating America’ review: Earnest inauguration special encapsulates President Joe Biden"
     excerpt: "Celebrating America” traded the usual inauguration night balls for socially distanced performances from around the country, spotlights of “everyday heroes,” and solemn acknowledgments of the extraordinarily tough few years the country has muscled through to get to this moment."

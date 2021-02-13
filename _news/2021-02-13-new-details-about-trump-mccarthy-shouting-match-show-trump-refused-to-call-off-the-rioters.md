@@ -2,7 +2,7 @@
 category: news
 title: "New details about Trump-McCarthy shouting match show Trump refused to call off the rioters"
 excerpt: "In an expletive-laced phone call with House Republican leader Kevin McCarthy while the Capitol was under attack, then-President Donald Trump said the rioters cared more about the election results than McCarthy did.\n    \n"
-publishedDateTime: 2021-02-13T00:28:08Z
+publishedDateTime: 2021-02-13T02:28:05Z
 originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AGEa26EK70Y/index.html"
 webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AGEa26EK70Y/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2021/02/12/politics/trump-mccarthy-shouting-match-details/index.html"
@@ -60,6 +60,6 @@ related:
         height: 773
         isCached: true
 
-secured: "ULxBz+66t87sTFiWYRhdsF5F02m3r4yaNuYHkMD19tRyTlQtKNDEfWACUVg47972lK4yt8dGPK1sjv6E4T6SKusmLeiWUy0P+WxFtOlhYKhwAEwRyQAbLWAr7d4TIbmttfAlpNexDwhk7OmZIerRJJwYnFmqjT3XAcA2iy8IcvJIV5HzvhLF5RHuYtGx1MzDwLpb+DMe8FCdnNUGiKnWEmdys7UCMEaoVbx4eGgU1w47lsb8TDrSsFff3Ve7XwoUElTcDL+5560M5vu+AmuF0OVe+aGYd3ZAOQCZMdzi0viXzlWduwA6agXZu9hKWNTYy9Fe7bi/h2D4Fin65/DLScG+QWqvcWkhR1JcPATed6c=;NtQJeKMAtmRrzHHx6EANlg=="
+secured: "dQtrSpCs6gbkeaoC2YNOnsW0Cy2wVqGIJXwUEvoSzYvexiSaDvQRG5zMPY1fPcPho5DJSGD0O9rMt1YB46q1VKaADT3uoQKyZvNNPYoAJ3hakJktruLAQHETx9JFJTJdagllJc1m2Ii/IU49Sg0EcsciZUaK5zF0Y35h3z64FAGjfMGLGo7e4ovoIUmmSAV2GbTjMYDgYxqHCgF34RR5a9zM2vJheY0BiesjTuXo7MQgvZNARfp9PDK3lKPVuaUBcm2jSAMzKcLut7Fm6giXxseGGsJuskCgcVwZcECVD4O99xuQV0dP+R1XiibXdyRzrfOAwwDx3ptY8vLtIMnyHc38cO9iZ08kB3JCUjYjYwQ=;Oc0SD6TBpGbuHgkCYzV0tg=="
 ---
 

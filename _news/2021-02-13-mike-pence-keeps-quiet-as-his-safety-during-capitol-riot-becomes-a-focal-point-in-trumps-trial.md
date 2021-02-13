@@ -1631,6 +1631,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Once impeachment is over, the threat to Trump shifts to real courtrooms"
+    excerpt: "As the Senate trial judging Donald Trump’s second impeachment got underway on Tuesday, his lead defense attorney, Bruce Castor, offered an unexpected rationale for setting the impeachment aside. “There is no opportunity where the president of the United States can run rampant in January at the end of his term and just go away scot-free,"
+    publishedDateTime: 2021-02-13T01:24:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/02/12/once-impeachment-is-over-threat-trump-shifts-real-courtrooms/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/02/12/once-impeachment-is-over-threat-trump-shifts-real-courtrooms/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/02/12/once-impeachment-is-over-threat-trump-shifts-real-courtrooms/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TQSXM3SP6II6RBFAIWFBVKNMBI.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Sanders spars with Trump attorney during trial Q&A"
     excerpt: "Michael Van der Veen, an attorney for former President Trump, got into a verbal scuffle with Sen. Bernie Sanders (I-Vt.), after the progressive lawmaker asked him during Friday's impeachment trial question-and-answer session if he believes Trump won the 2020 election."
     publishedDateTime: 2021-02-12T22:42:00Z
@@ -3384,6 +3400,6 @@ related:
       domain: usnews.com
     quality: 46
 
-secured: "FDWIWW/U5TNkGIEs/upCjKEHNHP2pdNvWgCb4Ruql8Mhujiv1D63T/cvADQTGyzPsQU79agiAjj2d0epQjyDMPgSmiR7E+Li0xpn5xEe/8SfKImgJgztKjq3IM2lilLvwq07WtgiA92hJkTJV/+XCg31UmAnhNO16TgrEJPLuGoEnw/HEXXz+NQX+wgua12X5olc+/6vcHikcPqhqinAxJXZ0bXpVGUsZttLWfc5Ro8ndrHooY8kT0TKRvo9E8kKXVbEbz7PYeWN3dkt+LOFQDLNemfZArWOWWfs4x5F8x9UugJlluN2eiTAbW4xSsXFGWh+jFgGmyInwlnh2TDsNZHUZoHZiq1RTC2WSOodR3A=;Ocg3EpHCD/nd/UGP6E0oZw=="
+secured: "EKsnpslQEYf92vyRmtLYDcPih33rMB3bZvVzYGDuvq+G0PGw9XkJdEZyL6gMlDCfCy43pQjR0FWqHobhTHmA20EMH4+u5uynu2K+ZwfI+YARi2ISRRKv7IQU/70IdCY8JLbjx/7d3EmI6JI6e03wlc9zOWNrrJ+SmcW2nclqX2gZznFJHMeCt992sMm3dVFU5ljjBmSuYGDOSTrFwcgJjcYCu8BTq3D26m4BWfURnLtx93aQhPT1wPIShFJ6k4Xpzh/sRRTr7jz6S9OGsYWTxT0B25OJ0Ebypxp1cb2pdC0g8Zelm7cPX+J7NaIaCSKnXSGqMRT8U48yIsZbRILwHR3QvfJGB/5JSAFXtX3wusZSluclg5BZ0c5wU8PBrcXUsRQmWhB09QZxigqz5u8FlV2Y60Gv6QxbClrCCt9K67TIoRFFKYD9fyT9DSew1VpRmdREfUeju5J+CZIyvgOuyublpyr/tmjXM9nLJe7qJbT/hNBTu4qM70VZa1IPeJX3uKo5TcY/0/eu+YQCyN2z6g==;/Pt9y7afH9MF3AJp/H+7pQ=="
 ---
 

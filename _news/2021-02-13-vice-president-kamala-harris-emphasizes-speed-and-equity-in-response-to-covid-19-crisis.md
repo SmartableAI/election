@@ -3,8 +3,8 @@ category: news
 title: "Vice President Kamala Harris Emphasizes Speed and Equity in Response to COVID-19 Crisis"
 excerpt: "In Harris’ first national sit-down interview since becoming vice president, she discusses her focus on an equitable response to the COVID-19 crisis with 19th editor-at-large Errin Haines."
 publishedDateTime: 2021-02-12T17:04:00Z
-originalUrl: "https://www.govexec.com/management/2021/02/vice-president-kamala-harris-emphasizes-speed-and-equity-response-covid-19-crisis/172032/"
-webUrl: "https://www.govexec.com/management/2021/02/vice-president-kamala-harris-emphasizes-speed-and-equity-response-covid-19-crisis/172032/"
+originalUrl: "https://www.govexec.com/management/2021/02/vice-president-kamala-harris-emphasizes-speed-and-equity-response-covid-19-crisis/172032/?%3Foref=GovExecTCO"
+webUrl: "https://www.govexec.com/management/2021/02/vice-president-kamala-harris-emphasizes-speed-and-equity-response-covid-19-crisis/172032/?%3Foref=GovExecTCO"
 type: article
 quality: 47
 heat: -1
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "How Kamala Harris made wearing pearls cool"
+    excerpt: "As the pearl’s standing increases alongside that of women, a progressive new generation is rediscovering Margaret Thatcher’s one-time trademark"
+    publishedDateTime: 2021-02-12T16:14:00Z
+    webUrl: "https://www.theguardian.com/fashion/2021/feb/12/how-kamala-harris-made-wearing-pearls-cool"
+    ampWebUrl: "https://amp.theguardian.com/fashion/2021/feb/12/how-kamala-harris-made-wearing-pearls-cool"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/fashion/2021/feb/12/how-kamala-harris-made-wearing-pearls-cool"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/bb11ce65ca7bc3d31c1deab990f87472f33d1531/0_0_5000_3000/master/5000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ad4e8d9e8da6990e75475493d8e4324c"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Kamala Harris' late-in-life love story an example of changing trend"
     excerpt: "Vice President Kamala Harris is making history as the first woman and first woman of color to serve in that role. As the country celebrates Valentine's Day on Sunday, experts are pointing to the fact that Harris is also the face of a growing demographic of women marrying later in life,"
     publishedDateTime: 2021-02-12T18:28:00Z
@@ -73,6 +89,22 @@ related:
         width: 1280
         height: 719
         isCached: true
+  - title: "Trump impeachment lawyers cite Kamala Harris comments | Raleigh News & Observer"
+    excerpt: "Vice President Kamala Harris engaged in the same sort of strong political rhetoric that prompted President Donald Trump’s impeachment, his attorneys said Friday. Michael van der Veen, a Trump defense attorney,"
+    publishedDateTime: 2021-02-12T20:10:00Z
+    webUrl: "https://www.newsobserver.com/news/politics-government/article249217590.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/politics-government/article249217590.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/politics-government/article249217590.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 86
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/8dd160d4-750c-4437-88b7-70c19fe7d0e8/b3af9ac2-cb8d-46d9-bbaa-99e8b7980a99/1280x720/match/image.jpg"
+        width: 1280
+        height: 719
+        isCached: true
   - title: "Trump impeachment lawyers raise past rhetoric of Kamala Harris. Here are the facts"
     excerpt: "Vice President Kamala Harris engaged in the same sort of strong political rhetoric that prompted President Donald Trump’s impeachment, his attorneys said Friday. Michael van der Veen, a Trump defense attorney,"
     publishedDateTime: 2021-02-12T21:10:00Z
@@ -105,7 +137,39 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Twitter Reacts To Terrence K. Williams Calling VP Kamala Harris A ‘Pole Model’"
+    excerpt: "Terrence K. Williams refused to apologize to Vice President Kamala Harris after calling her a \"pole model\" on social media."
+    publishedDateTime: 2021-02-12T04:56:00Z
+    webUrl: "https://www.ibtimes.com/twitter-reacts-terrence-k-williams-calling-vp-kamala-harris-pole-model-3144020"
+    ampWebUrl: "https://www.ibtimes.com/twitter-reacts-terrence-k-williams-calling-vp-kamala-harris-pole-model-3144020?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-reacts-terrence-k-williams-calling-vp-kamala-harris-pole-model-3144020?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 71
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/04/images-and-soundbitesus-vice-president-elect-kamala-harris.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Columbia’s Benjamin among mayors who met virtually with VP Kamala Harris on Wednesday"
+    excerpt: "A group of African American mayors met with the vice president for a talk about the Biden administration’s proposed “Rescue Plan” COVID relief package."
+    publishedDateTime: 2021-02-11T15:18:00Z
+    webUrl: "https://www.thestate.com/news/local/article249176060.html"
+    ampWebUrl: "https://amp.thestate.com/news/local/article249176060.html"
+    cdnAmpWebUrl: "https://amp-thestate-com.cdn.ampproject.org/c/s/amp.thestate.com/news/local/article249176060.html"
+    type: article
+    provider:
+      name: The State
+      domain: thestate.com
+    quality: 68
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/ed96842d-4b5e-44ef-9eaf-3b6f0f46c6c2/56dcdf59-6c10-4783-99e6-eee924edb50d/1280x720/match/image.jpg?pubId=5615998031001"
+        width: 1280
+        height: 720
+        isCached: true
 
-secured: "FE8FcPqaKAIAmqptcCBRjf0NKlisZYJTthJcFHtDoOIc9SJGNiYWKBAgP6O64VsYow0oW/EU/jWrYDouBWRwWA7zQScfBZg2iy50c3pZVUBnlvRqFvAkHWsdQ4F/9QvJGgfbgZ1ZgV0IsWz5D8SNQTUAv0lmv8Jy9H0yWawzKXT39gVIordVI3UthYKsndksYsPxAhabdZJ8WrLPzNLFBNtMPI9oNtOESeZ1EcgBHk1r60wOaBVF000NrdTCmhMSRcMNu4YqgRbhBpBcs6KtIZVHryG+K52zyY2H5E+VyxGtnWkPTIk70ZgJLIzygP8WJFaY4sFB2zO3V6HKvYKyXM9fZPmB+i83LPHqhXlI4M0=;8A3NtvV+VJrDqQI/iovdtA=="
+secured: "6/NVCVXKrP0XUYoZfiR/HaywC+1RazlkwEkR2wZzKss2wlNSy3rt5z7nWM7wRKZ9J3wtjzdeLRWzzDHlpoaxJehX38Btpgg9JSjEhSHjVfstIDplsEQ/vTAEs7eNpj28uxNq/3jqyzQe1v2VLFVmRP0G8SAN/NTSS0Lq8tXhvuw7b66N7SCHTfKombm8rC3R02C+FubowRLqnQWZcW3tW8dZcrDfPI8T4E0KEcas2XatlEUi82uIvPcUl2ojpJcW9NVuhJcWBNmAHWYC9xci02+U22c9jLPmU3hMZjTsvx4AjVqZzpDUJgWcHQkSIvQa4qJXAh6MY4t1BJiiccKPhwqYxQHczfptToRaHQp7zfo=;YvVCNe6Qbr8z58TrYmkr2Q=="
 ---
 

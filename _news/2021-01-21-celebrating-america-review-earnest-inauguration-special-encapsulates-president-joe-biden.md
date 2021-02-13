@@ -111,6 +111,22 @@ related:
         width: 794
         height: 545
         isCached: true
+  - title: "What Joe Biden means for Catholics in America"
+    excerpt: "The first Catholic president since JFK, Biden has a liberal faith more aligned with membership of the largest U.S. church, whose leaders skew conservative."
+    publishedDateTime: 2021-02-12T18:04:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2021-02-12/joe-biden-catholic"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-02-12/joe-biden-catholic?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-02-12/joe-biden-catholic?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/3503722/2147483647/strip/true/crop/2400x1568+0+73/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa7%2Fd3%2F4db4b3c44abab5f4667352644f09%2Fla-na-pol-biden-birthday08.JPG"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Live politics updates: 69% of Americans approve of Biden's plan to tackle pandemic, poll finds"
     excerpt: "Fifty-seven percent of Americans believe Biden can follow-through on his promise to unite a divided America, according to a recent ABC News poll."
     publishedDateTime: 2021-01-24T17:48:00Z

@@ -1,18 +1,22 @@
 ---
 category: news
 title: "See how close the mob got to Mike Pence"
-excerpt: "Newly released security footage shows the peril the vice-president and other lawmakers were in."
-publishedDateTime: 2021-02-11T20:51:00Z
-originalUrl: "https://www.bbc.co.uk/news/av/world-us-canada-56033907"
-webUrl: "https://www.bbc.co.uk/news/av/world-us-canada-56033907"
+excerpt: "See how close the mob got to Mike Pence Up Next, 'I just had to laugh at myself' Video, 00:01:41'I just had to laugh at myself' What's going on in Central African Republic? Video, 00:04:20What's going on in Central African Republic?"
+publishedDateTime: 2021-02-11T18:43:00Z
+originalUrl: "https://www.bbc.com/news/av/world-us-canada-56033907"
+webUrl: "https://www.bbc.com/news/av/world-us-canada-56033907"
 type: article
-quality: 55
+quality: 105
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -72,6 +76,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "EwjG/Uu4oND8cfIjBQaK/bGYy9b0CovkNws0qWaZ9utTKUOAN4cSYE1PZKVxvzs8WJeaI4iL67O+iM2KNyKwXdO2kipjoB29Fb6N/8Ol7LvFiai9pKJpa16MPJM8kE7M9itpY5aGc90NZLS9rMNrtAZmXqKCBhKFrR0QQ5/tgjDYxzswNb73oXCwxhRkEc8lKa4AuD8rVAqi5SPJ16vsh0Q7vFD4x+JaoDgRHqTRgd4ScL/rxt4OMp3TP7Vp0i1TZE1+K1YcjcAy7wPqcNnGVzBAsgyslJz5VJcHdZSiesqc5Ur6LN+RHluJmT6+wrlCsC2aM+rrOk8HuE+DLJmHdBukay9ZhJYoPGnHz783BCs=;aPc4HAJw/9FTOmej0c29nw=="
+secured: "rq2730P9QPndclKHxYjZ5jcd3hOdjNjDMm4w5sDI3dvHNKfc+mSKiTsHbFfVbY8NdzM3dokUmyoPuWcwhTCRUXVKKhdUGgiuBs5F7edy3J3bxBXEAgienkQwlu2yTP6RhKwos+TG3DyPPw+OOvaj1LfVcI5cwS3iSeT04SpMcKPLzOYFJktgymZKDbUrFG3UQWxn5c4E2qxIyYku1ZOyCWNK0439HQh4zLnNJHek+vQbhG72VEH5H6mSl+oXUqKstGtDjpsiUgJ7ak7jUfLl+yb4HEDtD9T3bUYV7z6IIrShxoOv+l5syf8AYBusWeI0eEp5/BTWk7Qyre0t12wPfo+uffPt6Xgl6Op6hhQkGVY=;qVkEid9rA97Q4HHxkEZ+Xg=="
 ---
 

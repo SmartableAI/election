@@ -272,6 +272,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "The seven most memorable moments from Friday's session of Trump's impeachment trial"
+    excerpt: "Impeachment proceedings against former President Donald Trump neared their conclusion Friday as his lawyers delivered their closing arguments in his defense."
+    publishedDateTime: 2021-02-13T01:05:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JtvliXLfRZo/7-biggest-moments-trump-impeachment-trial-friday-session"
+    ampWebUrl: "https://www.foxnews.com/politics/7-biggest-moments-trump-impeachment-trial-friday-session.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/7-biggest-moments-trump-impeachment-trial-friday-session.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5330b4dd-351b-4d97-98a0-dc5d22ae78d3/5c7d89f8-cefb-4f14-96aa-9d743f26fa9a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Six GOP senators vote that Trump impeachment trial is constitutional and can proceed"
     excerpt: "The Senate agreed to consider the case against Trump by a 56-44 vote following hours of arguments by the former president’s legal team and House impeachment managers."
     publishedDateTime: 2021-02-09T23:57:43Z
@@ -974,6 +990,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Trump Impeachment Trial: Takeaways From the Fourth Day"
+    excerpt: "Key moments and themes from Friday’s session as Trump’s lawyers mounted their defense."
+    publishedDateTime: 2021-02-13T02:27:00Z
+    webUrl: "https://www.wsj.com/articles/trump-impeachment-trial-takeaways-from-the-fourth-day-11613182431"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-impeachment-trial-takeaways-from-the-fourth-day-11613182431"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-impeachment-trial-takeaways-from-the-fourth-day-11613182431"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-299063/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Republican senators largely unmoved by Democrats’ Trump trial prosecution"
     excerpt: "Several Republican senators said Thursday that House impeachment managers failed to persuade them to convict former President Donald Trump for allegedly inciting the Jan. 6 Capitol riot. The"
     publishedDateTime: 2021-02-12T00:25:00Z
@@ -1201,6 +1233,6 @@ related:
         height: 720
         isCached: true
 
-secured: "AYFZ5frrFcMQfwIBQJni6E04azZ5um9ITugtA/AguVPvDJQ0oZjcRxzE9v5PE/i96idSS0V51Mngdfk0z8ATx8kLz0nNsnEswaCaZPa0tu2nhR/snCV4gMu3xTl672Wcb0nd0zqkrJGZjOdKqoBwCZoIFJAHD29Saul+UEzON+tCBgGZvn7QyJSms4SXuKeYN3btfuX2KysVSNl0mrQiinHTAwUyOria6/RZDu+dcFQYBghInKsOAIdkrW0VIllIFKqatMVdXlF331y0YgKyWs1pQfxsQe4dcKQOTRMZfU9DA0OaC+47Y+LYY2EPV2GklGSYDdV2FAO5sUCkjkqIG+uNsbDYLuyyRXozi9c4i6c=;E0nbhEvkiyhG2H4/+igz3A=="
+secured: "X0NzPJSIJ/7AhXd3dcsdtzSJvJKTPokpLyB0jcqiWuVadyUmMMIQURIqHctNpmuXJwoB/ENz3EcaVuvpnO19wGUA3DSS2+XYBck47Au+JQ3aj0DuKotT+0LTBh0d5PxEvZiF27S2cJNQiIND0+GZqalKB9RrOaUL7bK4RYHZAqZVCj+ucESjQJ+g3SWLVAvjVzKClJrAiJjcq0dR2KEdDteu8MLxOZBZ3HIms4CSUmEgiHgiH1fcXOocfwqEUPamzVc9KnqXl5xqvjpdPGMNve7DywNWtOFo5Q3y3b+cwLQjcbVKL1iUuxMrpbs32fwcnxHmLs8G5SDwo6wCHXV48iJUZEUVL17Li08oe7zMNiPBkFcXyBn/CV/0VshwzMf2VUsbn0Io3Lpfgz3MHBjV3sj2p+UTYgPva77s3zjrsA89869g65I25s2HDdZOqV6OsoLUYADZ53hHRnECTPEt/u3Hfg/zD5wwoI5+9dURH6rC8mFmocj8xbcsrxTEX6ZSh2hf82lvY0mw0l3Dg9MGmw==;apKcMAodebXg1x/m9MzgwA=="
 ---
 

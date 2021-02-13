@@ -1,10 +1,10 @@
 ---
 category: news
 title: "How Mike Pence became a villain in Trump world"
-excerpt: "How Mike Pence became a villain in Trump world Up Next, See how close the mob got to Mike Pence. Video, 00:03:15See how close the mob got to Mike Pence What the Proud Boys did before Trump's speech. Video,"
+excerpt: "How Mike Pence became a villain in Trump world Up Next, See how close the mob got to Mike Pence. Video, 00:03:15See how close the mob got to Mike Pence 'We humbly ask you to convict President Trump' Video,"
 publishedDateTime: 2021-02-11T23:44:00Z
-originalUrl: "https://www.bbc.com/news/av/world-us-canada-56035299"
-webUrl: "https://www.bbc.com/news/av/world-us-canada-56035299"
+originalUrl: "https://www.bbc.com/news/world-us-canada-56035299"
+webUrl: "https://www.bbc.com/news/world-us-canada-56035299"
 type: article
 quality: 120
 heat: -1
@@ -4468,6 +4468,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "+KuhdW91rvNhHAnn8+6H/ixmMhqEZbC36SVvdYbY3uN0/F9Gq7GYXVE1+TafpFNFNJHjLlpopE6kY8gCfVmu9fmmPN6Pm5ZjWT3TZhEIokCXUX745wZFmm+hlLqBQF3MxOqsw4p4PnlFmmo3foEA60LtgLcu2oDhVE/iOXqgf55q4Z+me3CQOtWJMsORlRKkL/fEUePiLkJc4Yyarb0Z9wPD+Vh1MrJRNtH4jljTs6u/6tN2Untmkd/mfmGWK9UNYp5d8p1p+k0yBpRi/D6hN0625DtUrXlv+iomsACn/EfgyUA4b0EMKa/6gLEPJRXkzsjl5TlFdKRDXQPTqlY3GzMt6DrQDt+T4GILkD9fINLNq4YJqv+Wx4zjs7AHdx8w1oY1HTgotnHqNy5PF+PYlKawZKMAixd2oVSiDWV+c002QPMcHB/BPQZY/RLVmtiUBh2SmISorrTqpngyDZoJ4I2B1IohcDGSBptlmdto13Q+1omlKjlWabttFHFPJXJ+ELGEx6b/jGv6eEoYQjkaMg==;lSHa4N8enP7P7NaJNdRg9g=="
+secured: "SGaNF7BPQZzdBdFXhjK8Fx5yXzUPezn13waUjwP+qeJu2vOEBu3I9xfAUPS/NX7FHiuzbstMPGYM2qUER61A6FSlqIzPXrqIfYhsSCnPh00fRnjKLiCN4d2nd8Elxu4ww/O/ZBjRZFIYLN3/5H7/xS4pb9h1HlLzdq9iyXRPVCxRwO8MAN0nFh1gvYJGEiKOPizRHyhnfR9e6CY6JFGzyniMn64Q38HZ9QUOmpyW22+L/Fcd1mJQhmckhKDqQXiyASzuN+7FRwuo/YQFXA0pzw/RNO+jntv+Gyp5nJlN+NiWEzNhZSia6Ki8gn3+PiVrOa8fYoMKquYxO1Zvx0OOE1fnHA38fy7ao4M3eeDGPRw=;edNVnHG0JnoroPU7DBPXgQ=="
 ---
 

@@ -2075,9 +2075,9 @@ related:
         height: 914
         isCached: true
   - title: "How Mike Pence became a villain in Trump world"
-    excerpt: "How Mike Pence became a villain in Trump world Up Next, See how close the mob got to Mike Pence. Video, 00:03:15See how close the mob got to Mike Pence What the Proud Boys did before Trump's speech. Video,"
+    excerpt: "How Mike Pence became a villain in Trump world Up Next, See how close the mob got to Mike Pence. Video, 00:03:15See how close the mob got to Mike Pence 'We humbly ask you to convict President Trump' Video,"
     publishedDateTime: 2021-02-11T23:44:00Z
-    webUrl: "https://www.bbc.com/news/av/world-us-canada-56035299"
+    webUrl: "https://www.bbc.com/news/world-us-canada-56035299"
     type: article
     provider:
       name: BBC

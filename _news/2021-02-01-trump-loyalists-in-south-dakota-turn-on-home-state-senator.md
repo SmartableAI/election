@@ -1641,6 +1641,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Once impeachment is over, the threat to Trump shifts to real courtrooms"
+    excerpt: "As the Senate trial judging Donald Trump’s second impeachment got underway on Tuesday, his lead defense attorney, Bruce Castor, offered an unexpected rationale for setting the impeachment aside. “There is no opportunity where the president of the United States can run rampant in January at the end of his term and just go away scot-free,"
+    publishedDateTime: 2021-02-13T01:24:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/02/12/once-impeachment-is-over-threat-trump-shifts-real-courtrooms/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/02/12/once-impeachment-is-over-threat-trump-shifts-real-courtrooms/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/02/12/once-impeachment-is-over-threat-trump-shifts-real-courtrooms/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TQSXM3SP6II6RBFAIWFBVKNMBI.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Sanders spars with Trump attorney during trial Q&A"
     excerpt: "Michael Van der Veen, an attorney for former President Trump, got into a verbal scuffle with Sen. Bernie Sanders (I-Vt.), after the progressive lawmaker asked him during Friday's impeachment trial question-and-answer session if he believes Trump won the 2020 election."
     publishedDateTime: 2021-02-12T22:42:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/07/how-donald-trumps-ha
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/07/how-donald-trumps-hand-holding-led-to-panicky-call-home-by-theresa-may"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/Politics/WireAP_38f13d7254734aaf8c5adf9e7014bc2a_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "The Latest: Tuberville stands by account of Trump phone call"
+    excerpt: "Republican Sen. Tommy Tuberville of Alabama is standing by his account that he told then-President Donald Trump that Vice President Mike Pence was being evacuated from the Senate during the Capitol ri"
+    publishedDateTime: 2021-02-13T02:23:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/latest-trump-impeachment-trial-shifts-defense-75850044"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/latest-trump-impeachment-trial-shifts-defense-75850044"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/latest-trump-impeachment-trial-shifts-defense-75850044"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_316f47562bd74cccb233813a4bf3a38c_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true

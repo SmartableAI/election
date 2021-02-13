@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "See how close the mob got to Mike Pence"
+    excerpt: "See how close the mob got to Mike Pence Up Next, 'I just had to laugh at myself' Video, 00:01:41'I just had to laugh at myself' What's going on in Central African Republic? Video, 00:04:20What's going on in Central African Republic?"
+    publishedDateTime: 2021-02-11T18:43:00Z
+    webUrl: "https://www.bbc.com/news/av/world-us-canada-56033907"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 105
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p01tlf61.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "House impeachment managers emphasize the danger to Pence and other top officials in harrowing retelling of Jan. 6 attack"
     excerpt: "The powerful presentation commanded the full attention of the Senate Chamber, but it remains unclear whether it would sway enough Republicans to convict former president Donald Trump."
     publishedDateTime: 2021-02-11T20:32:00Z
@@ -56,20 +70,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/H4NB4QTL7QI6XH4AHV3ENTQ3YA.jpg&w=1440"
         width: 1440
         height: 810
-        isCached: true
-  - title: "See how close the mob got to Mike Pence"
-    excerpt: "Newly released security footage shows the peril the vice-president and other lawmakers were in."
-    publishedDateTime: 2021-02-11T20:51:00Z
-    webUrl: "https://www.bbc.co.uk/news/av/world-us-canada-56033907"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 55
-    images:
-      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p01tlf61.jpg"
-        width: 400
-        height: 225
         isCached: true
 
 secured: "hDIbdssj/dRyiiM4PBp0lomwnAV2+QptDZbhWKL6kK9ePG8yynhFC7fSdmEIvsHeAltP7VBsw7bMT4bnv0sqgfKAog6AOYyGNm5fMIUpQBbitKCks2yYUgJUQmiVGJ1pROSruyIDcdvCyaLpdLZ/TxhrNRL3zZw7nwI3GHCC/rgrdC+YkDU0T1h3fWjvt8f1ri8sa5vxB8NRR/UDAlFRr4eBkv0nPuP4AEfkikX0ks0CzahWpUyxUp1SRFLMfebhaAF/WNMRHhl51NsDFdqGBLvIr+mH/NBw5SOcH6h1kcHtrCJ52JuyAkLgWizyEJtqkUOouMeNvGhEYI1S2fTZCYsS69aH13LlmaZHezE/I60=;P1d8gfD1YA6ZZiHIPcBDlw=="

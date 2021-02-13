@@ -32,7 +32,7 @@ images:
 related:
   - title: "Key GOP senators push Trump's lawyers to explain ex-President's actions as Pence was endangered"
     excerpt: "Former President Donald Trump's legal team gets its turn at the Senate impeachment trial Friday, as Trump's lawyers prepare to argue that the trial of a former president is unconstitutional and Trump's speech on January 6 did not incite the rioters who attacked the US Capitol.\n    \n"
-    publishedDateTime: 2021-02-13T00:36:01Z
+    publishedDateTime: 2021-02-13T02:31:48Z
     webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PBuuZ4oZXls/index.html"
     ampWebUrl: "https://amp.cnn.com/cnn/2021/02/12/politics/senate-impeachment-trial-day-4/index.html"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/12/politics/senate-impeachment-trial-day-4/index.html"
@@ -320,7 +320,7 @@ related:
         isCached: true
   - title: "Fact check: Trump lawyers make multiple false claims in impeachment defense"
     excerpt: "Former President Donald Trump's lawyers mounted an aggressive defense Friday in Trump's second impeachment trial -- and made multiple false and misleading claims to bolster their case.\n    \n"
-    publishedDateTime: 2021-02-13T00:36:12Z
+    publishedDateTime: 2021-02-13T01:29:41Z
     webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/l3rPg0b4ug4/index.html"
     ampWebUrl: "https://amp.cnn.com/cnn/2021/02/12/politics/fact-check-trump-defense-impeachment-trial/index.html"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/12/politics/fact-check-trump-defense-impeachment-trial/index.html"
@@ -1070,6 +1070,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "'Constitutional cancel culture': Key takeaways from Day Four of Trump's impeachment trial"
+    excerpt: "Key takeaways from Day Four of Trump's impeachment trial Former President Donald Trump's lawyers put up a pugnacious if brief defense presentation in his impeachment trial Friday, saying his rally speech before the Capitol riot was \"ordinary political rhetoric\" and blasting the proceedings as a \"sham\" fueled by Democrats' \"political hatred\" for the ex-president."
+    publishedDateTime: 2021-02-13T01:09:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/constitutional-cancel-culture-key-takeaways-day-four-trump-s-impeachment-n1257677"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1257677"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1257677"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 126
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_06/3449863/210212-donald-trump-ac-656p_c5d5dac2fcaf8ae3271ab5be359bdcbe.jpg"
+        width: 2500
+        height: 1666
+        isCached: true
   - title: "House managers to unveil never-seen-before video of Capitol riot in Day 2 of Trump's trial"
     excerpt: "House managers argued that Trump's months-long effort to undermine confidence in the election and paint Biden's victory as illegitimate ultimately led to the Capitol attack."
     publishedDateTime: 2021-02-10T20:47:00Z
@@ -1115,6 +1131,22 @@ related:
     quality: 122
     images:
       - url: "https://media2.s-nbcnews.com/i/newscms/2021_06/3449634/210212-donald-trump-mn-0730_1766caa6ab5712ca048af6133531a753.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Trump's impeachment defense team rests, arguing his words before riot were 'ordinary political rhetoric'"
+    excerpt: "Trump's impeachment defense team argues his words before riot were 'ordinary political rhetoric' A final vote on whether to convict the ex-president for inciting the Capitol riot could happen this weekend."
+    publishedDateTime: 2021-02-12T21:34:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-defense-present-case-senate-impeachment-trial-n1257601"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1257601"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1257601"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 118
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_06/3449634/210212-donald-trump-mn-0730_10c3f8b8018c1bcd5ca03624e410509d.jpg"
         width: 2500
         height: 1667
         isCached: true
@@ -1204,6 +1236,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Graham to meet with Trump to talk future of GOP"
+    excerpt: "The South Carolina Republican said Friday evening that he plans to encourage Trump to work with Republicans to ensure that they take back the House and the Senate in 2022."
+    publishedDateTime: 2021-02-13T02:37:00Z
+    webUrl: "https://www.politico.com/news/2021/02/12/graham-trump-gop-468982"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/32/4e/67ed17614f2196ba40286f5b3cf5/gettyimages-1230679512-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Trump defense claims Capitol attack wasn’t an insurrection"
     excerpt: "Donald Trump’s lead impeachment attorney on Friday denied that the violence at the Capitol on Jan. 6 amounted to an insurrection, a novel claim that contradicts the Justice Department and the broadly accepted version of events."
     publishedDateTime: 2021-02-13T00:20:00Z
@@ -1219,6 +1265,6 @@ related:
         height: 773
         isCached: true
 
-secured: "iqbFZjWxL1m59mIKUcCX/sRlMGDh+Juo31vHOG4G3XeUxlDPI6JMHNmlauSTQpgoX17G8wjZpg6Q2hAo8WoVR7zLTu3eRupOi23Fulg1/HgDqSFTR/9H1CugPA3eJpCV/Bfi96JrGU8QmjjKumQRC3Nsjtlfby5NAHEG306JClEkFS+1SXxNGortYfqwDXZDytm5Xv/i1I92RBv8G+aTmGLP3rCSzAr+6Tdy5cD6o8X5eHgJsLf+FsN1+wgCjSlr92DdY/YxH2/446DWf1tuCQTGnvP+T+5putYguuCKfqHSyCI+aqWXmLWrrjkp4fWNYACL6IhRpUNtlfABly+ssn5gVawh6YADXQ1WhRlL0bI=;zADtKXGM4yzsqo32OFTcQA=="
+secured: "Mc5twFNq1yHY+vKgFT49hgyll/9Sow1aKta1g7KQTbpKM1InNydb7t10Gjs4ltIB5qrVDy/jlADk+0enJAyCZ4lBwQ04wkZpcOFW3yW9Ker59pTiNuCFIB0e50P1ozVrVCDj6bZXbFInB+Tw0d52PEgo3wecz80CahIMIorftHn/i0PvA8wjY+UvuExbh+HKTTqDXsry6eFOcKx5bEZPC0MWy2lt1ABMxA3y2Lz7B75gVR6rH6Q6w/e9wc20lW3hVGSbhSUwe1/tAhvyT9tRDUNsnH48p+2SYXFp9N9nRwo8/2QgeKz3E7iVPZz6aFkLG+UIZPqGRl+V7upnZYvbe5ShJgxtIo+1nDgY1D+uvbM2Ytt8B/PSwHLkxrA/t/TnNkHmkycJ8iXFDbDNdbl4fReF289FSvGQUVpHgNUh16UPWqVW6PhlLTZV2Qb+JKuqMYDJvjrEi/sIumDpSpRb7gcYXpgLs2XC1GBBAYHRb9MMMoW9LelZeZpUZlh5N2o5fZ+YQzHvn5e8Bz/Se8k9sw==;sSWbBNFHjc0gaoQMirzseQ=="
 ---
 
