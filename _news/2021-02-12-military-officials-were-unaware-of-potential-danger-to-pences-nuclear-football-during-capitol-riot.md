@@ -41,6 +41,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Impeachment trial video shows Mike Pence rushing from the Capitol with a 'nuclear football' close behind as rioters stormed the building"
+    excerpt: "Any attempted seizure of the critical briefcase would have been a \"massive and unprecedented security breach,\" an expert told Insider."
+    publishedDateTime: 2021-02-12T07:27:00Z
+    webUrl: "https://www.businessinsider.com/nuclear-football-mike-pence-capitol-riots-impeachment-video-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/nuclear-football-mike-pence-capitol-riots-impeachment-video-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nuclear-football-mike-pence-capitol-riots-impeachment-video-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 92
+    images:
+      - url: "https://i.insider.com/602599df2edd0f001a8d559a?width=1200&format=jpeg"
+        width: 1024
+        height: 512
+        isCached: true
 
 secured: "CDJt/nT2pKcDZbT9yMO/+gDqyhBgVs078VZBL0nB+3/IMrFacFB6KMWIxgmCeQt4lbacCNWtA87RyCHnrgUT18tt6MkFn7q0cEJFPztysVRZ19+zLOFKBNAT7KqByG9J2jk69Sa0z/qyHrOcxBaMhFpK9GhDvjv0f8O2M3gZ+r1lwaIF1J0lVKvjqa55fedvDpd0B28o6415nqYEzGglKgs1vfVsdFasQcap87PeuTWLmNT9qE9mhksrpUfg1JgvTtiOkrGFmLGRs4kUTPfXzVXsoJtgqOv8kula+EwV+roBqxyqFUDwzECrqFZhOGz3Vey8PTksXRHnkZ07P6Ka8ysRjobTRQ1xnXgS/G5Kh+Q=;/SBsIFpf+NhvkzSLaq9P0Q=="
 ---

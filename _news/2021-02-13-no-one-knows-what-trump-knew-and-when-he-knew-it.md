@@ -1935,6 +1935,36 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cuomo's office hid nursing home COVID-19 data out of fear of Trump administration"
+    excerpt: "The New York governor's office confirmed the contents of a recording that shows it withheld from state legislators the true number of coronavirus deaths at nursing homes."
+    publishedDateTime: 2021-02-12T21:04:00Z
+    webUrl: "https://abcnews.go.com/US/cuomos-office-hid-nursing-home-covid-19-data/story?id=75853764"
+    ampWebUrl: "https://abcnews.go.com/amp/US/cuomos-office-hid-nursing-home-covid-19-data/story?id=75853764"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/cuomos-office-hid-nursing-home-covid-19-data/story?id=75853764"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 120
+    images:
+      - url: "https://s.abcnews.com/images/US/cuomo-gty-rc-210212_1613147890589_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump 'did nothing' as Pence evacuated -Dems"
+    excerpt: "House Manager Joaquin Castro on Friday argued at Donald Trump's Senate impeachment trial that the former president did not take any measures to protect then-Vice President Mike Pence as insurgents stormed the U."
+    publishedDateTime: 2021-02-13T04:54:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVDZHF93Z"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210212&i=OVDZHF93Z&r=OVDZHF93Z&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "They took Donald Trump to task. Now they're ready to reshape the justice department"
     excerpt: "Civil rights lawyers Vanita Gupta and Kristen Clarke are poised for key roles in the Biden administration"
     publishedDateTime: 2021-02-03T15:15:00Z
@@ -2894,6 +2924,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Trump's free speech impeachment defense open to dispute"
+    excerpt: "A key element of former President Donald Trump's defense is the argument that he can't be convicted by the Senate because the Jan. 6 speech that House prosecutors say incited the attack on the Capitol is protected by the Constitution’s First Amendment."
+    publishedDateTime: 2021-02-13T05:57:00Z
+    webUrl: "https://www.businessinsider.com/trumps-free-speech-impeachment-defense-open-to-dispute-2021-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+    images:
+      - url: "https://www.businessinsider.com/public/assets/BI/US/og-image-logo-social.png"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Impeachment managers lay out case against Trump using unseen footage, audio"
     excerpt: "House impeachment managers on Feb. 10 made the case that former president Donald Trump spent months laying the groundwork for January’s riot at the Capitol."
     publishedDateTime: 2021-02-11T02:08:00Z
@@ -3448,6 +3492,6 @@ related:
       domain: usnews.com
     quality: 46
 
-secured: "3Uwx/6YQMrXxMu+D4k5bGSAPKRH7ITNiwQfWQoLApBhmLJdBlQQJWzW99BDUy1m62v6NWSOEJYHUMw4d93XPxl6EymOlgF7RMVmW3tUfD8xzszigysaqV7mgwWjweJI61PnuCQAdcZKzRnW69tSsIUhkjZR4MMlSKqo83KNaOf2/TR7zIDgMoDjzpQy+yCMzASXcJDHyYWKZY+8/f+uhl9qbHfDzGlvS6aUUTYLtuoPZwynJRqtKoqxpIWdKzd2lCYWe7ZeJ4zmQHdjoRKV2V1uW44ZtjGAmvrSLmeg9efGkgjpCLuP1299QMTvm5m6BxtLjDsE0ypZDLvoXjygcGi10uR+ILLshCHkUx7JqvKA=;+ZdBgllUjt4mYBGiGsR5Rw=="
+secured: "1Mnzw8/wAnRqPRAHWRWdU31VMOoMg+Cpdh6ZQKCJUy+OQEPFggo4vUcA8C0T+P8IbZd9g93e5H4kRl5ZQ4exoy6t4J2jpnIQpjlvptFez2IyeF2kyOFIKj0lUQ3YY4HACbU148Ir8pdTFAfXsjNvzXP+fz8xFlyuY37+HhjM/1vuc1ajoi60xyq7uxPlz1nFa/XyR7NkEXGtsPWhSMVVKdmsbrT4uhtsf3WcKaBiczw3g9XFkARIJtGzVJ5tGfSlINhEVb4slpWX+CzNEotBZFs9dLDskzdZRMBTBsBY5pSdr34nhgONRXR74RkQzTvFQkbyAiHIGlNyStvoMKHLdBmKTm4Z8bxrFbBoKrnYdfA/ZalA7K55Rin1raiPAOk2FJ2BEAy1hxNrU9izXo0LARXP73CLWLcIQK9ZUJgWX0YhJqO1oYsJAjQWwfskPxSXpD0Nmblt4uwBHrcUTu2ydF+y7iES4+/1nLi43ZZ50Lzcu8YQVGhDLl4sA2egywb3yMKa9pgRJZudg2rZI9zOmA==;tJAbJbxYcgeBQ3/sDupEmQ=="
 ---
 

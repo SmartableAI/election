@@ -2,11 +2,11 @@
 category: news
 title: "Biden: Governors, mayors need $350 billion to fight COVID-19"
 excerpt: "President Joe Biden has met with a bipartisan group of governors and mayors at the White House as part of his push to give financial relief from the coronavirus pandemic to state and local governments"
-publishedDateTime: 2021-02-12T21:00:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-governors-mayors-350-billion-fight-covid-75855929"
-webUrl: "https://abcnews.go.com/Politics/wireStory/biden-governors-mayors-350-billion-fight-covid-75855929"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-governors-mayors-350-billion-fight-covid-75855929"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-governors-mayors-350-billion-fight-covid-75855929"
+publishedDateTime: 2021-02-13T01:29:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/biden-governors-mayors-350-billion-fight-covid-75855930"
+webUrl: "https://abcnews.go.com/Business/wireStory/biden-governors-mayors-350-billion-fight-covid-75855930"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-governors-mayors-350-billion-fight-covid-75855930"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-governors-mayors-350-billion-fight-covid-75855930"
 type: article
 quality: 125
 heat: -1
@@ -25,7 +25,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_5d3e3776a81f466c8e13fff72ad210a7_16x9_992.jpg"
+  - url: "https://s.abcnews.com/images/Politics/WireAP_74dcf88107d44ef7a13bec4135641fe7_16x9_992.jpg"
     width: 992
     height: 558
     isCached: true
@@ -102,6 +102,6 @@ related:
         height: 600
         isCached: true
 
-secured: "SkswTKb0vi2VXUXeTOmO8EfxdyPaUyqL8wFvXTuNa3Tk7knXfKrlSY4ASSyFvW2k7heI585isIj/UM1vdPourgamH4Hyisd6SgyHqxJkXK6EwWwXe73C6UEoB8uA5pJOn9XswKzNp2/FG1zS8bhoXHIoztBF3Vm8nNBa83kmrLjBs/HSc0yj/Xpt7gYhXu1Vraqp5nsJqUNo2DufF32DST55rcar2DhFqTsqKHpO5hKUSO7lZEf7bVSSnH2F969SvfSCO2+f9ZrlAm8Rkw47kQ6Si9o+mcqfCOKkB+5awo3bCcREN3KwyfgXtpbe9Td965YYc1WLTTLlVyrnoyz6k+spioXNuc+WRHzL9FllheoQNeMuXksQzcOqKlUrsiBCVmmc35J8y6DlmVUPMRyJyaf1uK3c46B4roGJIBlPaQ/4IFyuN1sPWJP/r6j7NL5MftORFG4TrnmhCrAem6ppnwiDaVedwR1JJqJjwU1AbBpyoiZef3PO9umcvqQ+RBCLdFaRUbjdN8SxKHHHypJ4VA==;28EJS6oz6sCrhQz7/iDZtQ=="
+secured: "yzqUeEK6gw8BmtYvJfegadhfofoaVFDwTHEOJb6oLDmd+2e0UK1oAg+VCf0utUEL5QntGpBIxTKfgtv12zo+buY9ZTb0tbcKjmwxjXO9lCBv1dEY45C2DSgiIC/1THWcL430wsDS4xYu25g9mTQo8NEDWQ8QzQ1c3CZa441ptf5d3Xg2T19Af9kSDDo1bfqudgg924zRvJY6TWNnSgMwZmWC/JDBJDkB8uvOe6jG5lUOXwxewqzqSYSbnjhJRjW38Q3L+zpxQjHgTXm7pzvPxDpU70onCAUQYXrtGlFFiP3T2jUswzknFu3n/LbScdi1FqVM6XxRV3jF4hnMH1KuK9YKdaklRZri+lxX6x+VknY=;PKY4fj2vDJAaZaq+V+dbRQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trial-highlights-histo
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trial-highlights-history-lessons-trump-tweets-75789773"
 type: article
 quality: 125
-heat: 425
+heat: 445
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump lawyers hit impeachment trial as politically motivated ‘hatred’"
+    excerpt: "The defense team, confident that Trump will not be convicted, used up less than three hours in its arguments to the Senate."
+    publishedDateTime: 2021-02-13T06:33:00Z
+    webUrl: "https://www.washingtonpost.com/politics/senate-impeachment-trial-trump/2021/02/12/8f53ceb4-6d3a-11eb-9f80-3d7646ce1bc0_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/senate-impeachment-trial-trump/2021/02/12/8f53ceb4-6d3a-11eb-9f80-3d7646ce1bc0_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/senate-impeachment-trial-trump/2021/02/12/8f53ceb4-6d3a-11eb-9f80-3d7646ce1bc0_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2UZOFMTNOEI6XJTO4JYEN2PITA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Trial Day 3: Democrats to highlight Trump's 'lack of remorse' for Capitol riot"
     excerpt: "House Democrats prosecuting Donald Trump's impeachment case intend to use the third day of the Senate trial to highlight what they cast as the former president's unabashed reaction to last month's deadly rampage at the Capitol."
     publishedDateTime: 2021-02-11T16:08:00Z

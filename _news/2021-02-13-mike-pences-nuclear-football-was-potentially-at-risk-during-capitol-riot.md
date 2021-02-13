@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/12/mike-pence-nuclear-f
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/12/mike-pence-nuclear-football-capitol-riot"
 type: article
 quality: 123
-heat: 143
+heat: 163
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Impeachment trial video shows Mike Pence rushing from the Capitol with a 'nuclear football' close behind as rioters stormed the building"
+    excerpt: "Any attempted seizure of the critical briefcase would have been a \"massive and unprecedented security breach,\" an expert told Insider."
+    publishedDateTime: 2021-02-12T07:27:00Z
+    webUrl: "https://www.businessinsider.com/nuclear-football-mike-pence-capitol-riots-impeachment-video-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/nuclear-football-mike-pence-capitol-riots-impeachment-video-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nuclear-football-mike-pence-capitol-riots-impeachment-video-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 92
+    images:
+      - url: "https://i.insider.com/602599df2edd0f001a8d559a?width=1200&format=jpeg"
+        width: 1024
+        height: 512
+        isCached: true
   - title: "Military officials were unaware of potential danger to Pence's 'nuclear football' during Capitol riot"
     excerpt: "Military officials overseeing the authorization process to launch nuclear weapons were unaware on January 6 that then-Vice President Mike Pence's military aide carrying the \"nuclear football\" was pote"
     publishedDateTime: 2021-02-12T00:54:00Z

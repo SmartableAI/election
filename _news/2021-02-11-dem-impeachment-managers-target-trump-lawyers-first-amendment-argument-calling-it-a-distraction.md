@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump Defense Team Calls Impeachment Case Over Capitol Riot ‘Patently Absurd’"
+    excerpt: "Donald Trump’s lawyers dismissed Democrats’ allegations that he incited the Capitol riot and said his exhortations to supporters to fight were standard political rhetoric, in a compact rebuttal that paved the way for a Senate vote as early as Saturday."
+    publishedDateTime: 2021-02-13T05:06:00Z
+    webUrl: "https://www.wsj.com/articles/donald-trump-impeachment-trial-day-four-defense-to-set-out-case-11613125807"
+    ampWebUrl: "https://www.wsj.com/amp/articles/donald-trump-impeachment-trial-day-four-defense-to-set-out-case-11613125807"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/donald-trump-impeachment-trial-day-four-defense-to-set-out-case-11613125807"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 132
+    images:
+      - url: "https://images.wsj.net/im-299044/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Dem impeachment managers target Trump lawyers’ First Amendment argument, calling it a ‘distraction’"
     excerpt: "Md., said that former President Trump’s lawyers’ argument that Trump was within his First Amendment rights when he peddled election fraud claims is a “completely irrelevant distraction.”"
     publishedDateTime: 2021-02-11T22:20:00Z

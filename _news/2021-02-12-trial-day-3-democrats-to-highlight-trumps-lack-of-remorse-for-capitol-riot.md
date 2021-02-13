@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump lawyers hit impeachment trial as politically motivated ‘hatred’"
+    excerpt: "The defense team, confident that Trump will not be convicted, used up less than three hours in its arguments to the Senate."
+    publishedDateTime: 2021-02-13T06:33:00Z
+    webUrl: "https://www.washingtonpost.com/politics/senate-impeachment-trial-trump/2021/02/12/8f53ceb4-6d3a-11eb-9f80-3d7646ce1bc0_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/senate-impeachment-trial-trump/2021/02/12/8f53ceb4-6d3a-11eb-9f80-3d7646ce1bc0_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/senate-impeachment-trial-trump/2021/02/12/8f53ceb4-6d3a-11eb-9f80-3d7646ce1bc0_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2UZOFMTNOEI6XJTO4JYEN2PITA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Trump impeachment trial live updates: Managers show new security footage of riot"
     excerpt: "Raskin warned that managers would present footage viewers may find disturbing. Trump impeachment trial: Day 2 key moments Former President Donald Trump's historic second impeachment trial is taking place in the Senate."
     publishedDateTime: 2021-02-11T02:05:00Z

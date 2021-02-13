@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/gingrich-pans-trumps-impeachment-la
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gingrich-pans-trumps-impeachment-lawyers-lack-coherent-defense.amp"
 type: article
 quality: 171
-heat: 231
+heat: 251
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/91491525-0758-4d76-835a-c083f18134c2/a25638d4-7eb7-4b4b-a3f0-92bf7307c604/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump Defense Team Calls Impeachment Case Over Capitol Riot ‘Patently Absurd’"
+    excerpt: "Donald Trump’s lawyers dismissed Democrats’ allegations that he incited the Capitol riot and said his exhortations to supporters to fight were standard political rhetoric, in a compact rebuttal that paved the way for a Senate vote as early as Saturday."
+    publishedDateTime: 2021-02-13T05:06:00Z
+    webUrl: "https://www.wsj.com/articles/donald-trump-impeachment-trial-day-four-defense-to-set-out-case-11613125807"
+    ampWebUrl: "https://www.wsj.com/amp/articles/donald-trump-impeachment-trial-day-four-defense-to-set-out-case-11613125807"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/donald-trump-impeachment-trial-day-four-defense-to-set-out-case-11613125807"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 132
+    images:
+      - url: "https://images.wsj.net/im-299044/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Dem impeachment managers target Trump lawyers’ First Amendment argument, calling it a ‘distraction’"
     excerpt: "Md., said that former President Trump’s lawyers’ argument that Trump was within his First Amendment rights when he peddled election fraud claims is a “completely irrelevant distraction.”"
