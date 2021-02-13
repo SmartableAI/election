@@ -249,6 +249,20 @@ related:
         width: 1120
         height: 629
         isCached: true
+  - title: "Biden aims to isolate China on coal — but it could blow back on the U.S."
+    excerpt: "The U.S. wants to stop new coal projects, but risks losing poor countries to Beijing’s \"Belt and Road\" agenda."
+    publishedDateTime: 2021-02-13T12:06:00Z
+    webUrl: "https://www.politico.com/news/2021/02/13/biden-china-coal-fossil-fuels-468903"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 114
+    images:
+      - url: "https://static.politico.com/e8/a8/8f27b47c4e759c128cb96d40eeb6/gettyimages-1300545441.jpg"
+        width: 4000
+        height: 2665
+        isCached: true
 
 secured: "v9jopTLA9kmzSZPsOMzNYfA/ES99s9aG7iZgbZ8grV0noIgNbZsgy6SGehCgjacGNPcmpOWPZ2+3lR2f+i0Rs2Im+WYJEXUtlhBwfZ3nJDR7Qmb+Eu3P28S5PDoyzPaxP6XS75dMCvl8ygEwk+O8jFbi2DUjev4cAHPaimcC0s6iPpFQcSg3gxr2WJbKtWxjmwAU6R3SpyWqF8PBNBUTef1hG3Ir+UlZYTtRBoa1sekF1CCPg/GQ4dqhAQong2zCFfreauXLvtwAh25onruU4Jg9yCiu2/6W9nNYoI7QLTWHREVigrtW/pAXNPq/uiEqsJaIjqVrsjILhet0BZ6KM9mkKQ5WJOlT6nm+nwPifHA=;Otcg0i4Iudl6gr6Qd45HnA=="
 ---

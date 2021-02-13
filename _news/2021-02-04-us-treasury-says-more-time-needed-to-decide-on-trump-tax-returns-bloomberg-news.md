@@ -45,6 +45,22 @@ related:
         width: 1582
         height: 1024
         isCached: true
+  - title: "Live impeachment updates: Trump's legal team, House prosecutors eye closing arguments with witness question unanswered"
+    excerpt: "Both sides are readying themselves for closing arguments in the Trump impeachment trial. But the decision on whether to call witnesses is unresolved."
+    publishedDateTime: 2021-02-13T11:49:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/13/trump-impeachment-trial-senate-readies-closing-arguments/6743661002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6743661002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6743661002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 101
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/13/USAT/df8f68dc-9b25-4a57-99d2-2e20ca5a5fab-AP_Trump_Impeachment_10.jpg?auto=webp&crop=4999,2812,x0,y254&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Sen. Tim Kaine says his censure proposal for former president Trump is still a ‘live option’"
     excerpt: "Sen. Tim Kaine says he’s worried that former president Donald Trump will be acquitted again, but he explained the censure he proposed is still a “live option.” “There has to be accountability for the actions of Jan."
     publishedDateTime: 2021-02-09T00:16:00Z

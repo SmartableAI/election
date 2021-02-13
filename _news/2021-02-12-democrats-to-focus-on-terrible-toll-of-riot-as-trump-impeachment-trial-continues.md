@@ -63,6 +63,22 @@ related:
         width: 968
         height: 545
         isCached: true
+  - title: "Factbox: Six Republicans to keep an eye on during final Trump impeachment vote"
+    excerpt: "Donald Trump's impeachment trial is slated to finish on Saturday with a vote on whether the former president should be convicted on a charge of inciting insurrection in a speech to supporters just before hundreds of them stormed the Capitol."
+    publishedDateTime: 2021-02-13T11:33:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-senators-factbo-idUSKBN2AD0AO"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AD0AO"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AD0AO"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210213&t=2&i=1551418939&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1C07Y"
+        width: 901
+        height: 545
+        isCached: true
   - title: "Trevor Noah: Republicans 'acting like bored middle-schoolers' at Trump impeachment"
     excerpt: "Late-night hosts recap the third day of the trial, as House managers concluded their case before an audience of distracted senators"
     publishedDateTime: 2021-02-12T16:30:00Z
@@ -76,6 +92,22 @@ related:
     quality: 119
     images:
       - url: "https://i.guim.co.uk/img/media/64c81b46fa1ead1027270a801fd39451d4d7e3a5/137_136_2543_1526/master/2543.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5f9e8850db9a586c74151d3df85764fb"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Donald Trump impeachment: Senate trial expected to vote to acquit today – live updates"
+    excerpt: "Each legal team will have two hours to re-state their case before Senate likely votes to acquit Donald Trump"
+    publishedDateTime: 2021-02-13T12:28:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/13/donald-trump-impeachment-senate-trial-vote-verdict-live-updates?page=with:block-6027c2c88f0886db2aba8629"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/13/donald-trump-impeachment-senate-trial-vote-verdict-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/13/donald-trump-impeachment-senate-trial-vote-verdict-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 117
+    images:
+      - url: "https://i.guim.co.uk/img/media/d1ecc6bb6936f3e45fca818c4c66a3c242be9e41/86_0_2635_1582/master/2635.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=91cb2a02d314d1b937d8488aeebcc174"
         width: 600
         height: 360
         isCached: true
@@ -108,6 +140,22 @@ related:
     quality: 116
     images:
       - url: "https://i.guim.co.uk/img/media/46d9743bc2e91cf0102be98cc16b82fd8ecbc739/112_0_2635_1582/master/2635.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4148aa8ba4482f29017832f5602b0a91"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Trump impeachment trial: Senate to reconvene for closing arguments and vote – live updates"
+    excerpt: "Each legal team will have two hours to re-state their case before Senate likely votes to acquit Donald Trump"
+    publishedDateTime: 2021-02-13T11:55:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/13/donald-trump-impeachment-senate-trial-vote-verdict-live-updates"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/13/donald-trump-impeachment-senate-trial-vote-verdict-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/13/donald-trump-impeachment-senate-trial-vote-verdict-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 115
+    images:
+      - url: "https://i.guim.co.uk/img/media/d1ecc6bb6936f3e45fca818c4c66a3c242be9e41/86_0_2635_1582/master/2635.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=91cb2a02d314d1b937d8488aeebcc174"
         width: 600
         height: 360
         isCached: true

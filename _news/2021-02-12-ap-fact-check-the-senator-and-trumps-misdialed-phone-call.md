@@ -79,6 +79,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "For Raskin and the House managers arguing to convict Trump, less was more"
+    excerpt: "House impeachment manager Rep. Joe Neguse (D-Colo.) participates in the impeachment managers’ closing argument in the trial of former The House managers trying the case against Donald Trump on charges of inciting the Jan."
+    publishedDateTime: 2021-02-13T11:11:00Z
+    webUrl: "https://www.washingtonpost.com/powerpost/raskin-house-impeach-trump/2021/02/12/59b1f6d2-6d67-11eb-9f80-3d7646ce1bc0_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/powerpost/raskin-house-impeach-trump/2021/02/12/59b1f6d2-6d67-11eb-9f80-3d7646ce1bc0_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/powerpost/raskin-house-impeach-trump/2021/02/12/59b1f6d2-6d67-11eb-9f80-3d7646ce1bc0_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 124
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5QXAI6DNSAI6XHVNM4YWRVNYOQ.jpg&w=1440"
+        width: 983
+        height: 589
+        isCached: true
   - title: "Impeachment managers say insurrectionists came to Capitol because Trump 'told them to' – live"
     excerpt: "Congresswoman Diana DeGette says insurrectionists even questioned why police tried to block them as they followed Trump’s instructions"
     publishedDateTime: 2021-02-11T20:06:00Z

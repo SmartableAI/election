@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/11/politics/biden-1-9-trillion-bet/i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/11/politics/biden-1-9-trillion-bet/index.html"
 type: article
 quality: 175
-heat: 455
+heat: 475
 published: true
 
 provider:
@@ -248,6 +248,20 @@ related:
       - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
         width: 1120
         height: 629
+        isCached: true
+  - title: "Biden aims to isolate China on coal — but it could blow back on the U.S."
+    excerpt: "The U.S. wants to stop new coal projects, but risks losing poor countries to Beijing’s \"Belt and Road\" agenda."
+    publishedDateTime: 2021-02-13T12:06:00Z
+    webUrl: "https://www.politico.com/news/2021/02/13/biden-china-coal-fossil-fuels-468903"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 114
+    images:
+      - url: "https://static.politico.com/e8/a8/8f27b47c4e759c128cb96d40eeb6/gettyimages-1300545441.jpg"
+        width: 4000
+        height: 2665
         isCached: true
 
 secured: "eMqQ7YyrlLeW2dUzaRZF50Pr/KeJdoF0z8StfLevXeTtSAoERrTDd/tI2wPzMmy8o7ImgNK/l5ZAh8dJ/3EQNLuOFGVAJsINrsgJ6j4KfLQgk4tSOU36xcgCdcZeUhvyKXB7ZBQdZVEbXneL9+vG4Sk+15cqzwlqW5A6Ham6v5Ie6kJPjLrTNwoOExBEN1xCTbuh+EQkQV0O0H9fWFdxfVBVqcfS8j3BNyAo2Fjm7yeEZZF6Qn9imTTHgvUI8Y4LeuLFHaEWQPzwLwVHfLA2xmHk4KzbMDmUcNuG3gK+RbOVLFK1sLvKZTeA3aUYX4O2gZetiQ+EgzIHjbK9Xin61Xk/sasYF9Y3wbw6LxFXvSM=;/qCaXQ6zij+uAjjssfza2Q=="

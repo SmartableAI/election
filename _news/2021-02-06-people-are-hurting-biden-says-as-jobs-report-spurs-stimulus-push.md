@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A529V"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A529V"
 type: article
 quality: 125
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1732393/joe-biden-speaks-state-department.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Biden press staffer suspended following reports he threatened to \"destroy\" female journalist"
+    excerpt: "White House deputy press secretary TJ Ducklo also made misogynistic statements to Politico reporter Tara Palmeri."
+    publishedDateTime: 2021-02-13T03:15:00Z
+    webUrl: "https://www.cbsnews.com/news/white-house-tj-ducklo-threatens-to-destroy-female-reporter/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/white-house-tj-ducklo-threatens-to-destroy-female-reporter/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/white-house-tj-ducklo-threatens-to-destroy-female-reporter/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 114
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/02/13/079d549e-3fd2-48d9-a40e-f9175aeb386e/thumbnail/1200x630/a32fc430b418c16eeb0a92bd98d32e4a/ap-21043658673903.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Senate confirms Mayorkas as Biden's homeland security chief"
     excerpt: "The Senate confirmed Alejandro Mayorkas on Tuesday as President Joe Biden's homeland security secretary, the first Latino to fill a post that will have a central role in the government's response to ,"

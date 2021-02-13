@@ -2,9 +2,9 @@
 category: news
 title: "Senate to Hear Closing Arguments in Trump Impeachment"
 excerpt: "House Democrats and Donald Trump’s defense team will make their closing arguments Saturday on charges he incited last month’s riot at the Capitol, before a final vote on whether to convict the former president."
-publishedDateTime: 2021-02-13T10:42:00Z
-originalUrl: "https://www.wsj.com/articles/senate-to-hear-closing-arguments-in-trump-impeachment-11613212204?mod=business_minor_pos4"
-webUrl: "https://www.wsj.com/articles/senate-to-hear-closing-arguments-in-trump-impeachment-11613212204?mod=business_minor_pos4"
+publishedDateTime: 2021-02-13T09:30:00Z
+originalUrl: "https://www.wsj.com/articles/senate-to-hear-closing-arguments-in-trump-impeachment-11613212204"
+webUrl: "https://www.wsj.com/articles/senate-to-hear-closing-arguments-in-trump-impeachment-11613212204"
 ampWebUrl: "https://www.wsj.com/amp/articles/senate-to-hear-closing-arguments-in-trump-impeachment-11613212204"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/senate-to-hear-closing-arguments-in-trump-impeachment-11613212204"
 type: article
@@ -113,6 +113,6 @@ related:
         height: 800
         isCached: true
 
-secured: "TRmSfGvBJ/9STjjg77tB/WkoRUKCqbBVNZqwlcWC39kI+0qp71c7X5BImExTmoI1mH5UVG5j+MZedTffgHdpzLx+V+f48yypc0KEKCid7R4GtO2JBOkWyOxJymLZrBYdas28Nw1BSUkeOwVWPNm3rDX8BOMbnSwuCsEbCJPKaedLTqaah/BMCDGGfd2rPUcuIcyK8ivgNxvd39uQMGXote1Nzkd9RLSU92moDpBX7YGmv8N/LP0HuqBddJBDPmyfa9dTn1Sg4+hWpejH1DKXkewq9lwtJjSprpLrFTJHdj1RBz/0HoTQ6RruEgcvSi6h3ABeDH6RhzsxXOo5VT48Gg3Azcew4QPzX3UTCb2Sw+Y=;C9Hsdc3mnnEHWIyTFouG0Q=="
+secured: "DkK/zd4DH+OIv1HN1YzdJ2jCQJYbKMgvkN2ndYbGIRr4lLXu6clhlpm0N+BkCtB35lsY9QZ3kiObXF+A3Q8SezpiGqt41s//GECgzJKQu7YwwzZ6AqHFFvxz+AApbxqtZ6ai5MK+/YZ2e6EjOTLFq3D1U4AgB5NPD6xINaKBYP8BTXkvpl9bu97Tqb6qJdPybybnpJ6IzaB6BuAHp7WQOzgyUnYGQoNBVaEuLXEF82R60KDb19i9cW+52CLHY1Wqs++A2V/RncJVQ0JgHUlFrG39n68KGL+dPBROvHN0j2cNAoxnrs1U6uz5pwQZ2/CPzxvOyVHPaFLwlWUppY1eHuYM/dufY1SccNjIezc9YSU=;IUge2sByu1MltN81/QE5iw=="
 ---
 

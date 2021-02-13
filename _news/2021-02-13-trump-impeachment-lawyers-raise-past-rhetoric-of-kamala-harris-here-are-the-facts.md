@@ -3,18 +3,18 @@ category: news
 title: "Trump impeachment lawyers raise past rhetoric of Kamala Harris. Here are the facts"
 excerpt: "Vice President Kamala Harris engaged in the same sort of strong political rhetoric that prompted President Donald Trump’s impeachment, his attorneys said Friday. Michael van der Veen, a Trump defense attorney,"
 publishedDateTime: 2021-02-12T21:10:00Z
-originalUrl: "https://www.sacbee.com/news/politics-government/article249217590.html"
-webUrl: "https://www.sacbee.com/news/politics-government/article249217590.html"
-ampWebUrl: "https://amp.sacbee.com/news/politics-government/article249217590.html"
-cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/article249217590.html"
+originalUrl: "https://www.miamiherald.com/news/politics-government/article249217590.html"
+webUrl: "https://www.miamiherald.com/news/politics-government/article249217590.html"
+ampWebUrl: "https://amp.miamiherald.com/news/politics-government/article249217590.html"
+cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/article249217590.html"
 type: article
 quality: 84
 heat: -1
 published: false
 
 provider:
-  name: Sacramento Bee
-  domain: sacbee.com
+  name: Miami Herald
+  domain: miamiherald.com
 
 topics:
   - Election
@@ -170,6 +170,6 @@ related:
         height: 400
         isCached: true
 
-secured: "Br54w2gEI5WWj0vBDz5a9uAHPhGRHSijxZCA5r7lvSp2cc3g8TN2Jr8jyDbWZre6ZLPUXwBSg0PXgrzOrXgQgfUuff0JgNIScr3srJHnHH6N3bGGLTf7OVHVg8QjUxkloOflK1hm9zHTcl3F4CBHEdkbUuL3tYP2yMClDXpx4Qxj88HUwZNv/4dvFf/UpPXVAgzZlmOsijPSNupgHDqjTyeiQYBw46sEMUJU0CpmlGYTzvjmn5/LZspLLYSTgYWKlhLl/1ZlD5kgnNRVCfy+WO539QOnMq5r0peeMZ0Su+QD5jl8+MHT0XrdrJRPdSc3qd4OlvXvVk6RiJ7LYIIByCGQS7Gvb4DxodPtGBIlFkyotTv1fvpTWNT3WAzWiiaquGX2h5mPdkrvPMrXybcZaenNUMy95a36oWdmbyeV6SU44yNxzhQxnNfkR5FriB2nRj010CVxi+T6kq8aZ+Hw0wYVXkFlF6ul6J7K239BMluuvJt0SAFfD9+fcPegE3wmSzoMoF6zQyX5j4no13aAzA==;ORyI4OVJspUj9tFeBya+nw=="
+secured: "GL3nJ9QGcBzpUYL2/T3aZeXOBX39TfQop0spJ+KW9VYemr6WgHRhA4HzatkdEQ4z+bg09+9KeuDQEkJ1PIt7si4ecaSk4TPVL/3EKhNUNoj8s1eKNnP7ytvAFU3Ns00GBw4NoE8Y1lq+gRGzQjulHlf7KDow8MTLg3TPhs0izIFGCz96RETxAxFY6+mZRgPAjsgEg6UmumYNOj4BbstlQ33vJXOH4wmQQPH/Ysw5sw6UAmkadwhXoW7CQzq9cF3iABfqHiUCO9/eIGceoKXFAcbJlq4AqmkENPTlVX5tXSI9RcmvsbSN3H2vktNMlQhHrwc4JTF1/52/+cyn0az8edzyrX5M0qVcXzKqjNneLfk=;FmUjpikp/Ms/N61TV9P6XA=="
 ---
 

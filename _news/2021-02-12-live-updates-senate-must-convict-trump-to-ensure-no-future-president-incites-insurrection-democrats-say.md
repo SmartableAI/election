@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/02/11/trump-impeachment-trial-live-upd
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/02/11/trump-impeachment-trial-live-updates-day-3.html"
 type: article
 quality: 108
-heat: 168
+heat: 188
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Live impeachment updates: Trump's legal team, House prosecutors eye closing arguments with witness question unanswered"
+    excerpt: "Both sides are readying themselves for closing arguments in the Trump impeachment trial. But the decision on whether to call witnesses is unresolved."
+    publishedDateTime: 2021-02-13T11:49:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/13/trump-impeachment-trial-senate-readies-closing-arguments/6743661002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6743661002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6743661002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 101
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/13/USAT/df8f68dc-9b25-4a57-99d2-2e20ca5a5fab-AP_Trump_Impeachment_10.jpg?auto=webp&crop=4999,2812,x0,y254&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "U.S. Treasury says more time needed to decide on Trump tax returns - Bloomberg News"
     excerpt: "The U.S. Treasury said it needs more time to decide whether to fight House Democrats in their effort to get former President Donald Trump's personal and business tax returns, Bloomberg News reported on Wednesday."
     publishedDateTime: 2021-02-04T09:53:00Z
