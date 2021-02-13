@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-02-10-home-free-florida-town-lets-donald-trump-keep-living-at-mar-a-lago.md",
+      "title": "Home free: Florida town lets Donald Trump keep living at Mar-a-Lago",
+      "excerpt": "Palm Beach town council gave short shrift to a request from neighbors to ban the former president from residing at his resort",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/feb/10/donald-trump-mar-a-lago-florida",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/feb/10/donald-trump-mar-a-lago-florida",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/0bad9c40196a60bad835a1878eb3d7704de96815/0_185_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=91d203e3dfa16a0deb5b6cff894308d6",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/feb/10/donald-trump-mar-a-lago-florida",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/10/donald-trump-mar-a-lago-florida",
+      "publishedDateTime": "2021-02-10T07:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-10-laid-off-keystone-pipeline-workers-slam-job-killing-biden-decision-future-completely-taken-away.md",
       "title": "Laid-off Keystone pipeline workers slam job-killing Biden decision: Future 'completely taken away'",
       "excerpt": "Laid-off Keystone XL pipeline workers in Fouke, Ark., blasted President Biden's order canceling the project.",
@@ -1314,63 +1366,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-politico-playbook-pm-will-the-cbo-help-or-hurt-joe-biden.md",
-      "title": "POLITICO Playbook PM: Will the CBO help or hurt Joe Biden?",
-      "excerpt": "Gary Palmer … Lynda Blanchard THE POWER OF THE CBO — BARACK OBAMA grew so frustrated with the impact of Congressional Budget Office analyses of his health care plan in 2009 that he once banned his senior staffers from mentioning the CBO in meetings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/newsletters/playbook-pm/2021/02/08/will-the-cbo-help-or-hurt-joe-biden-491680",
-      "originalUrl": "https://www.politico.com/newsletters/playbook-pm/2021/02/08/will-the-cbo-help-or-hurt-joe-biden-491680",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/c4/d0/e419049d41c5b8e097e3d0f4bfc9/gettyimages-1301023935.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-08T10:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     }
   ],

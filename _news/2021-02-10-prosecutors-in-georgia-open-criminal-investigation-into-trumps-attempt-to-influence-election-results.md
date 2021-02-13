@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/10/politics/trump-georgia-criminal-i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/10/politics/trump-georgia-criminal-investigation-election/index.html"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2021_06/3449252/210210-analysis-donald-trump-ew-722p_555ca8916001a45874569043999b0715.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "In Georgia, a New District Attorney Starts Circling Trump and His Allies"
+    excerpt: "Fani Willis has opened a criminal investigation into efforts by the Trump camp to overturn the former president’s loss in Georgia. In an interview, Ms. Willis described a wide-ranging inquiry."
+    publishedDateTime: 2021-02-13T10:00:00Z
+    webUrl: "https://www.nytimes.com/2021/02/13/us/politics/fani-willis-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/13/us/politics/fani-willis-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/13/us/politics/fani-willis-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/13/us/politics/13georgia-trump/13georgia-trump-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "tlJXzEA9n+jkzoVthb3V2EkTwNCZ1Wu1BBadLFjox9AQkZfAyPh1u15Nhu2cuc6XM4zbTchYq040JOYBw1xlb7LWXM0Gx1VgQpajSuQJavc9LPWC2mt5djUKrh8sJJj0PQ1mWG6l4kEFyHrUtCAuaIKRhqsR5SwZmpo99xSIJphEancYws/VBugAwtUTxvq5mkEi657xspDIfwsXM5h6DPVYOLmRSUMlSwZdSD32YA/nIlRk2U5VXrnUttAYrROd0Wfj2cyxwodvGBzH7VdpXQvCWtUYvye3+sWZAWwziV964LeIakaK3Ua0B/8Pcb0K+Z7PRQg2igxtt5rpRA1fQlvAogwS658LBTfT0JMrGIY=;Dyh2Qi55KKVr7hcROYb8/g=="

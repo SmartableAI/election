@@ -2,6 +2,62 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-11-rep-nunes-republicans-could-possibly-face-pressure-to-impeach-biden-if-they-take-back-house-in-2022.md",
+      "title": "Rep. Nunes: Republicans could possibly face 'pressure' to impeach Biden if they take back House in 2022",
+      "excerpt": "California Rep. Devin Nunes, R-Calif., believes that Republicans might face pressure to impeach President Biden should the party gain control of the House in the 2022 midterms.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xlHLh_q5c6g/nunes-republicans-pressure-impeach-biden-house-2022",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xlHLh_q5c6g/nunes-republicans-pressure-impeach-biden-house-2022",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/devin-nunes.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/nunes-republicans-pressure-impeach-biden-house-2022.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nunes-republicans-pressure-impeach-biden-house-2022.amp",
+      "publishedDateTime": "2021-02-11T05:13:15-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-11-trump-team-fires-back-at-dems-claims-they-too-have-used-fight-like-hell-rhetoric.md",
       "title": "Trump team fires back at Dems, claims they too have used ‘fight like hell’ rhetoric",
       "excerpt": "The Trump team turned the tables on the Democratic Party’s impeachment managers on Wednesday, after they claimed once again that the former president’s \"fight like hell\" rhetoric at a Jan. 6 rally in Washington helped spark the riot at the U.",
@@ -551,7 +607,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 584,
+      "heat": 604,
       "tags": null,
       "images": [
         {
@@ -1209,7 +1265,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 255,
+      "heat": 275,
       "tags": null,
       "images": [
         {
@@ -1306,58 +1362,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-home-free-florida-town-lets-donald-trump-keep-living-at-mar-a-lago.md",
-      "title": "Home free: Florida town lets Donald Trump keep living at Mar-a-Lago",
-      "excerpt": "Palm Beach town council gave short shrift to a request from neighbors to ban the former president from residing at his resort",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/feb/10/donald-trump-mar-a-lago-florida",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/feb/10/donald-trump-mar-a-lago-florida",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/0bad9c40196a60bad835a1878eb3d7704de96815/0_185_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=91d203e3dfa16a0deb5b6cff894308d6",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/feb/10/donald-trump-mar-a-lago-florida",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/10/donald-trump-mar-a-lago-florida",
-      "publishedDateTime": "2021-02-10T07:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

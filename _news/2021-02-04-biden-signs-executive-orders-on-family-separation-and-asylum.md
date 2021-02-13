@@ -288,6 +288,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Britain courted Trump. The Biden era may be a more 'challenging time.'"
+    excerpt: "Boris Johnson's ability to maintain the U.K.’s close ties with the U.S. has been cause for considerable anxiety in London."
+    publishedDateTime: 2021-02-13T09:33:00Z
+    webUrl: "https://www.nbcnews.com/news/world/britain-courted-trump-biden-era-may-be-more-challenging-time-n1257596"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1257596"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1257596"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_06/3449624/210212-biden-mn-0540_c02d8d418f0f918a8096108ad5f636ef.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "With More Vaccines Secured, Biden Warns of Hurdles to Come"
     excerpt: "The Biden administration has secured more coronavirus vaccines, but the president struck a cautious tone about logistical issues that could keep some Americans from being vaccinated."
     publishedDateTime: 2021-02-12T14:14:00Z

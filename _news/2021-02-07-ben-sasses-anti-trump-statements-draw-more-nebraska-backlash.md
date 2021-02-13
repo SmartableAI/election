@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/ben-sasses-anti-trump-statements-dr
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ben-sasses-anti-trump-statements-draw-more-nebraska-backlash.amp"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/lincoln-2.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Senate to Hear Closing Arguments in Trump Impeachment"
+    excerpt: "House Democrats and Donald Trump’s defense team will make their closing arguments Saturday on charges he incited last month’s riot at the Capitol, before a final vote on whether to convict the former president."
+    publishedDateTime: 2021-02-13T10:42:00Z
+    webUrl: "https://www.wsj.com/articles/senate-to-hear-closing-arguments-in-trump-impeachment-11613212204?mod=business_minor_pos4"
+    ampWebUrl: "https://www.wsj.com/amp/articles/senate-to-hear-closing-arguments-in-trump-impeachment-11613212204"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/senate-to-hear-closing-arguments-in-trump-impeachment-11613212204"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-299072/social"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "JGmhaBeaDpN3DJ5MDAo68DHfoBgSX0jDVUAa3D4YkeAl/t2xVM0/Z9+fj8ynDgbpScI+XL0ca8DPsMo8epnf/Ng1XllftHNJfQZ00pBeHVOzdHnnJ0ty2ukg6m5u+35zWVnLz+OxN+wyHPjyfZ0cuefmeNFwOkNMcpMbF3S8kZDYQle8IpS5rRWLN1i8PZ4ALXk0VTVTKbgWL2BpBbzYDnezxhcqvf3CjAaMkcbHZUXdhMnSYFZ3mssQLhZ2p1uhtmkJbjdoL7Npkj9p/ZQeOxuFcRm10CeKrkEm1jj+fCAqe34seyJ08PEV1xWHjyIrqikS4LofpBnDUtSTPzEbj6cwJ4gGhLaeOT8rN0AzpY4=;8HxcLWS8uU0omptL9sDPIQ=="

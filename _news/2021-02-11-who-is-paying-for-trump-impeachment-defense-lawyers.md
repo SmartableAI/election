@@ -95,6 +95,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Senate to Hear Closing Arguments in Trump Impeachment"
+    excerpt: "House Democrats and Donald Trump’s defense team will make their closing arguments Saturday on charges he incited last month’s riot at the Capitol, before a final vote on whether to convict the former president."
+    publishedDateTime: 2021-02-13T10:42:00Z
+    webUrl: "https://www.wsj.com/articles/senate-to-hear-closing-arguments-in-trump-impeachment-11613212204?mod=business_minor_pos4"
+    ampWebUrl: "https://www.wsj.com/amp/articles/senate-to-hear-closing-arguments-in-trump-impeachment-11613212204"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/senate-to-hear-closing-arguments-in-trump-impeachment-11613212204"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-299072/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "5d5j9v0g9AMW0EDTWNrOjO3mrVkzkGlDtgUP7ROI+iJN318TT1hTFUU3MFWxytIYcVMJNEWtrhMJeSIiW7AabvmF4q3LcSPqrhodEyoYJHVRiGXZno6w6KHwboUhM1d/j4w8HGcL6qIfw9VmKzOXzmxgwOxIv2BrQvk2Uj8IbdTqs0qLOzUFr1NHsQkFOA964G6+aDRmy78frdvVnIEsQNgEgjiaygZPgpVlMziScu7z6vqf8jU8VisDqXwYB+wDj61kJMo6tKrSFlmxT20JM1qcmCi4DI7P80l1wuDc4mh86Mjrx90WIUCWVso6U9ia9TFYaXNFWLzjF0jwF6xEcUSu4JZVuUyH7jy4IbL7dPM=;ky+8zNaqVRwKENXzqOJxFw=="
 ---

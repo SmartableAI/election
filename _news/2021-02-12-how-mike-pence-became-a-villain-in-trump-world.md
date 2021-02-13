@@ -3,8 +3,8 @@ category: news
 title: "How Mike Pence became a villain in Trump world"
 excerpt: "How Mike Pence became a villain in Trump world Up Next, See how close the mob got to Mike Pence. Video, 00:03:15See how close the mob got to Mike Pence 'We humbly ask you to convict President Trump' Video,"
 publishedDateTime: 2021-02-11T23:44:00Z
-originalUrl: "https://www.bbc.com/news/world-us-canada-56035299"
-webUrl: "https://www.bbc.com/news/world-us-canada-56035299"
+originalUrl: "https://www.bbc.com/news/av/world-us-canada-56035299"
+webUrl: "https://www.bbc.com/news/av/world-us-canada-56035299"
 type: article
 quality: 120
 heat: -1
@@ -4468,6 +4468,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "kVB4ekQPq+6mS1MniDcn1N05mKV1ayoJ7t5tLRV7JhUQjeVGU6tGm/Z3oxJthfoDUylxj6TKDOcJEuyl5UJjH/pCRdgNvjFgezDqxzFkpNkD9DP+3AixT5LaTm7Do4vMYClGK++rMz2OxePMxng2X5m1Jc3rIoXNKk7a11xlxppx81rkRowvWL3E8ELJwIwzU2Y1rlsDztmAi+yQBapvOe09vu2KOx97Ui17CFXI6bOgxGYWb9Bti2a0st5gXttGivPOd4/dM2gniShdgNpJoYMJ/w1EcEpxiFsib+sWLT0CsK3IKTZbkXLvIxFn9K51JJ2/w3mBPUkgr2UrSvsF6CnjsOrfTGeCW2Qpqg/2DnXePLtd6X55SIU22X2GCRCRLTX9wVb5tQuKMqZk014QVfe0muz9OfJwd9PKwJxCqInKY0oR+Muokr0LOnH+G2SojOBMEXozjcWre/eex6CLodBaOJZQxpLMbJvgrZr4IUpPVofXArTLMXzbrdS15vxtbnEL8oT59TnPaPc7jGgv2w==;tQJuV2ECOWXiWz15PanWtw=="
+secured: "SwHt0mfCuIrNHAzvnc7EpqfbJZvBTCPNxumaLlfBlJ1IpYqVd66Rm6hdCEY5zp1+FW9o5aKQe57HR99XHG/9KV59ubBP3pmDq3agEuwgITN1u/x98xvLanLNSeWwvEaZvOQQvPHzvFyCSwLEO/hJtGQpPivN2Vcc9Zg9MX3X8q9EnCqMHaeBiLqEukEbCOXYokm8Sbl0xxY//MR5KC+ZcmszKBsKKwaUKSFaTN24pEakcFufmnsTdet4kOgjKfQJstf156KlPuCEGAq2ZqvM8HVROJK13oexn/AvFaZTYf00Rgm++JYWnXQyCNWVqV4cPh7er/o/YibYVnuEBJo5dNEptvVB/Nv6W4nX0GDGFsA=;A/lBZi1oUqYpHTXQClRXyw=="
 ---
 

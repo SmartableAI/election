@@ -96,6 +96,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "In Georgia, a New District Attorney Starts Circling Trump and His Allies"
+    excerpt: "Fani Willis has opened a criminal investigation into efforts by the Trump camp to overturn the former president’s loss in Georgia. In an interview, Ms. Willis described a wide-ranging inquiry."
+    publishedDateTime: 2021-02-13T10:00:00Z
+    webUrl: "https://www.nytimes.com/2021/02/13/us/politics/fani-willis-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/13/us/politics/fani-willis-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/13/us/politics/fani-willis-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/13/us/politics/13georgia-trump/13georgia-trump-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "kSs++2vQC7IHNkVkppYq+VxbEhZBllHRra24hifY4Jk5a/bZwpueX609ruaXYaL15OLnIBH+5nGTjoK204aEKAYzqfQyMWrlfhMJkv3Yup42vgVaiu6FIEyCAQ6g0ZW/rPNkXun8JhWZg+Y+G+cpzfTwypz5nsFvG9Zq0ofMiHKXD8/W4HBRs+1YnmC+npZkGVlUU0x5dU9LZN20TS9QaXkF4MiKaqsiE+/7REvhGiD9GOtZKVA/juFMOYkCFx1pWROcBGQeiGK1iOGM02j1Go9X/KWsEHRWv9mBfpuAeCmnoKT+YPR3vx40doktqNuUaVw+pdT/FyY203ylkHvTti+KYTwOtrtCBlkxgFnYHYMvbva4hLMjNQz0nh6/RyCIuIuzHYvOr8wRrhAO0iiycv9ZX0Ix1CtYHyeJ6P2nr7vM4JNv8k6Ny1hCPk7BoDPWbOzDzpjHjVD8zQ50MvGHLDydsT+4Mjzu6yHVdfL+X9fIhDUcufSB8NErqOd/7r769/vDY4qkjy2QZ/X2+aNqPA==;6cc9dl1l40aeOi8YLiGb2A=="
 ---
