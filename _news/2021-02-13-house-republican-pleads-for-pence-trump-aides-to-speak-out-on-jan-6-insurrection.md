@@ -49,6 +49,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Questions build about Trump's failure to protect Pence as impeachment trial nears its end"
+    excerpt: "Donald Trump's impeachment lawyers failed to offer any real defense of why the former President did not do more to protect his vice president and members of Congress during the January 6 insurrection Friday, while new revelations about a conversation between Trump and House Minority Leader Kevin McCarthy"
+    publishedDateTime: 2021-02-13T06:09:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ugkUk2_gtgg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/13/politics/trump-pence-impeachment-senate-saturday/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/trump-pence-impeachment-senate-saturday/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 186
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210212142954-trump-january-6-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump advisers say he hasn't shown remorse for the insurrection and relationship with Pence remains damaged"
     excerpt: "Advisers to former President Donald Trump say he still has not expressed remorse for the siege at the US Capitol, which could end up being important for Senate jurors to consider after House impeachment managers on Wednesday released new video of the violent mob's assault on January 6.\n    \n"
     publishedDateTime: 2021-02-10T23:39:53Z
@@ -302,6 +318,38 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210210174202-02-impeachment-2021-sketch-0210-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: Trump's many defenses, explained"
+    excerpt: "Former President Donald Trump's defense team used just a few of the 16 hours they were allotted to make their case for his acquittal on Friday, and encouraged senators to use the rest of the time on Covid relief.\n    \n"
+    publishedDateTime: 2021-02-13T13:00:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nb2hKta_2aY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/13/politics/what-matters-february-12/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/what-matters-february-12/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210212194709-senate-floor-0212-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "McConnell will vote to acquit Trump in second impeachment trial"
+    excerpt: "Senate Minority Leader Mitch McConnell has told his colleagues that he will vote to acquit former President Donald Trump of inciting the insurrection at the US Capitol last month, according to a source familiar with the conversations.\n    \n"
+    publishedDateTime: 2021-02-13T14:47:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Rw3HPocqnPw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/13/politics/mitch-mcconnell-acquit-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/mitch-mcconnell-acquit-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106121255-01-mcconnell-0106-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -912,6 +960,22 @@ related:
       - url: "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_900,h_506/d037afd9-4621-4f85-a4cf-58c407fd5c10.jpg"
         width: 900
         height: 506
+        isCached: true
+  - title: "Trump's second impeachment trial: Day 5"
+    excerpt: "The Senate is poised to vote Saturday on whether to convict former President Donald Trump for inciting the Capitol riot. Follow here for the latest."
+    publishedDateTime: 2021-02-13T14:29:00Z
+    webUrl: "https://www.cnn.com/politics/live-news/trump-impeachment-trial-02-13-2021/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/politics/live-news/trump-impeachment-trial-02-13-2021/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/politics/live-news/trump-impeachment-trial-02-13-2021/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_900,h_589/8fd82a16-f5bd-44af-9e3f-d3e8b3d1792d.jpg"
+        width: 900
+        height: 589
         isCached: true
   - title: "Impeachment Case Aims to Marshal Outrage of Capitol Attack Against Trump"
     excerpt: "Armed with lessons from the last impeachment trial of Donald J. Trump, prosecutors plan a shorter, video-heavy presentation to confront Republicans with the fury they felt around the Capitol riot."

@@ -111,6 +111,22 @@ related:
         width: 792
         height: 545
         isCached: true
+  - title: "ICE nearly released sex abuse convicts despite Biden memo"
+    excerpt: "Texas prison officials say U.S. Immigration and Customs Enforcement was prepared to release three men convicted of sex offenses against children in an apparent misapplication by authorities of enforce"
+    publishedDateTime: 2021-02-13T14:49:00Z
+    webUrl: "https://www.washingtonpost.com/national/ice-nearly-released-sex-abuse-convicts-despite-biden-memo/2021/02/13/5afc0782-6e0a-11eb-a66e-e27046e9e898_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/ice-nearly-released-sex-abuse-convicts-despite-biden-memo/2021/02/13/5afc0782-6e0a-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/ice-nearly-released-sex-abuse-convicts-despite-biden-memo/2021/02/13/5afc0782-6e0a-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Fact check: False claim that President Joe Biden signed executive order legalizing incest"
     excerpt: "An Instagram post from a parody account claims President Joe Biden signed an executive order legalizing incest. That's false."
     publishedDateTime: 2021-02-12T01:02:00Z

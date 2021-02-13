@@ -2,9 +2,9 @@
 category: news
 title: "Donald Trump impeachment: Senate trial expected to vote to acquit today – live updates"
 excerpt: "Each legal team will have two hours to re-state their case before Senate likely votes to acquit Donald Trump"
-publishedDateTime: 2021-02-13T12:28:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/feb/13/donald-trump-impeachment-senate-trial-vote-verdict-live-updates?page=with:block-6027c2c88f0886db2aba8629"
-webUrl: "https://www.theguardian.com/us-news/live/2021/feb/13/donald-trump-impeachment-senate-trial-vote-verdict-live-updates?page=with:block-6027c2c88f0886db2aba8629"
+publishedDateTime: 2021-02-13T14:20:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/feb/13/donald-trump-impeachment-senate-trial-vote-verdict-live-updates?page=with:block-6027ce208f0886db2aba86c9"
+webUrl: "https://www.theguardian.com/us-news/live/2021/feb/13/donald-trump-impeachment-senate-trial-vote-verdict-live-updates?page=with:block-6027ce208f0886db2aba86c9"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/13/donald-trump-impeachment-senate-trial-vote-verdict-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/13/donald-trump-impeachment-senate-trial-vote-verdict-live-updates"
 type: article
@@ -207,6 +207,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Senate poised to vote on convicting Trump: ‘It’s more aimed at some president we don’t even know 20 years from now’"
+    excerpt: "Senators are poised to vote on whether Donald Trump will be held accountable for inciting the attack at the Capitol."
+    publishedDateTime: 2021-02-13T14:34:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-trump-impeachment-trial-20210213-o7pq5z4hvrazxiyhwdnhqk22oy-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-trump-impeachment-trial-20210213-o7pq5z4hvrazxiyhwdnhqk22oy-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-trump-impeachment-trial-20210213-o7pq5z4hvrazxiyhwdnhqk22oy-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 103
+    images:
+      - url: "https://www.chicagotribune.com/resizer/cQLYPmu2lYOfJkwdBpPkDrCaifY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/S7Z5CCIGEMEE5JQLWBSDAMYHFQ.jpg"
+        width: 1200
+        height: 801
+        isCached: true
   - title: "Trump's impeachment trial is literally occurring at the scene of the crime, and both the prosecutors and jurors are witnesses"
     excerpt: "There are a whirlwind of emotions and political aspirations steering this historic trial, and Trump's acquittal appears all but guaranteed."
     publishedDateTime: 2021-02-11T22:24:00Z
@@ -235,6 +251,6 @@ related:
       domain: theguardian.com
     quality: 86
 
-secured: "6IWoweWZ9AfRtABpRx2cDweNTXtV7kmd95QgzLwmln28y6xNTr+zRp2sdrQzL1hc//w7PLbnGSq/I/uqlgkeYLNSLwC2iLizoRCtGuknTTc7opYE8WT7g3aQvN2V8bxiCAcuMFkqi6XRzxpLQibcwVqkbFC9PgqdotE4v7PA4I/pSiXZTf8nhBfs8i4XoZJ9AcDP4gncpOhAAydXNyaVNlu14tSB3FHbheZsTQEGzGb64DmamcWvJfSis1ByWl/RfqNNZcjeunQqGYIRBExruO8Nn3D/99MyzDCZ90Dn1U/etasgO9GAFk/Vo2UwYqv2o3xFVu1z7D+6IBUziTnHyZvx1q5Q9DXLZUX85KlZYok=;TIUP8bYIlKcoqsE/MflQDA=="
+secured: "ls2Ws3uUcusYhGZNqzFg2abxneeSO6LenLmebUrCU0LSYYMelRHsOgr1ymanN9w8V2iO22fnp3vTzWaE2dTPdyD+Ipv36ZJ5O0gpBX8j1J94EC/mcQHc4R9Aw2hN9mgjDGnIcHoM9RxbRHaPub1YVI6w9fG+YnijpLXs3g1B0CxDeWtwfn0+Oc91KhPWGhUWciHLfhBhjdmv01aZavHAOYdub+/725Ceirj1sioOkX5H1+jP9seV3YMimvgZTmw1Y01vRcyG7Xht/nnfGBlM6XaV1D/OlekdYxB5+Bu8Q5mfo684/aZxsl7ZeK9bzBOoY147uCktczgoHdpXAZEox0BAGX09JEuw6FQ0iirGbEg=;ea1DdUzB08cQuG5Vz51qWg=="
 ---
 

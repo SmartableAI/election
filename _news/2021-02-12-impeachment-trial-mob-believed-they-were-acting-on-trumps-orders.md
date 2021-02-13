@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/11/trump-impeachment-tr
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/11/trump-impeachment-trial-democrats-senate"
 type: article
 quality: 125
-heat: 385
+heat: 405
 published: true
 
 provider:
@@ -97,8 +97,8 @@ related:
         isCached: true
   - title: "Donald Trump impeachment: Senate trial expected to vote to acquit today – live updates"
     excerpt: "Each legal team will have two hours to re-state their case before Senate likely votes to acquit Donald Trump"
-    publishedDateTime: 2021-02-13T12:28:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/13/donald-trump-impeachment-senate-trial-vote-verdict-live-updates?page=with:block-6027c2c88f0886db2aba8629"
+    publishedDateTime: 2021-02-13T14:20:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/13/donald-trump-impeachment-senate-trial-vote-verdict-live-updates?page=with:block-6027ce208f0886db2aba86c9"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/13/donald-trump-impeachment-senate-trial-vote-verdict-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/13/donald-trump-impeachment-senate-trial-vote-verdict-live-updates"
     type: article
@@ -206,6 +206,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/donald-trump-marjorie-taylor-greene-extremism-02-gty-llr-210206_1612646373841_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Senate poised to vote on convicting Trump: ‘It’s more aimed at some president we don’t even know 20 years from now’"
+    excerpt: "Senators are poised to vote on whether Donald Trump will be held accountable for inciting the attack at the Capitol."
+    publishedDateTime: 2021-02-13T14:34:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-trump-impeachment-trial-20210213-o7pq5z4hvrazxiyhwdnhqk22oy-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-trump-impeachment-trial-20210213-o7pq5z4hvrazxiyhwdnhqk22oy-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-trump-impeachment-trial-20210213-o7pq5z4hvrazxiyhwdnhqk22oy-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 103
+    images:
+      - url: "https://www.chicagotribune.com/resizer/cQLYPmu2lYOfJkwdBpPkDrCaifY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/S7Z5CCIGEMEE5JQLWBSDAMYHFQ.jpg"
+        width: 1200
+        height: 801
         isCached: true
   - title: "Trump's impeachment trial is literally occurring at the scene of the crime, and both the prosecutors and jurors are witnesses"
     excerpt: "There are a whirlwind of emotions and political aspirations steering this historic trial, and Trump's acquittal appears all but guaranteed."

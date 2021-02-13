@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-11-120-anti-trump-republicans-are-in-talks-to-form-a-center-right-3rd-party-that-would-run-on-principled-conservatism-report-says.md",
+      "title": "120 anti-Trump Republicans are in talks to form a center-right 3rd party that would run on 'principled conservatism,' report says",
+      "excerpt": "The group includes former elected officials and people who served in Republican administrations, including Trump's.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/anti-trump-republicans-talks-to-form-third-party-reuters-2021-2",
+      "originalUrl": "https://www.businessinsider.com/anti-trump-republicans-talks-to-form-third-party-reuters-2021-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6024c9e6cca90200129b7a98?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/anti-trump-republicans-talks-to-form-third-party-reuters-2021-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/anti-trump-republicans-talks-to-form-third-party-reuters-2021-2?amp",
+      "publishedDateTime": "2021-02-11T05:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-11-rep-nunes-republicans-could-possibly-face-pressure-to-impeach-biden-if-they-take-back-house-in-2022.md",
       "title": "Rep. Nunes: Republicans could possibly face 'pressure' to impeach Biden if they take back House in 2022",
       "excerpt": "California Rep. Devin Nunes, R-Calif., believes that Republicans might face pressure to impeach President Biden should the party gain control of the House in the 2022 midterms.",
@@ -395,7 +447,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 212,
+      "heat": 232,
       "tags": null,
       "images": [
         {
@@ -1306,62 +1358,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-biden-actions-against-oil-and-gas-industry-producing-chilling-effect-against-energy-workers-george-p-bush.md",
-      "title": "Biden actions against oil and gas industry producing 'chilling effect' against energy workers: George P. Bush",
-      "excerpt": "Texas Land Commissioner George P. Bush said Wednesday that President Biden's immediate moves against the oil and gas industry produced a \"chilling effect\" against energy workers around the country.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dvTOsgwYdwk/biden-actions-oil-gas-industry-chilling-effect-george-p-bush",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dvTOsgwYdwk/biden-actions-oil-gas-industry-chilling-effect-george-p-bush",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d93b9a1e-d5d6-435e-85f0-61fcf7d6b26e/3ed3475a-a543-4d39-a1be-29eb56ae9ddc/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-actions-oil-gas-industry-chilling-effect-george-p-bush.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-actions-oil-gas-industry-chilling-effect-george-p-bush.amp",
-      "publishedDateTime": "2021-02-10T08:25:25-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

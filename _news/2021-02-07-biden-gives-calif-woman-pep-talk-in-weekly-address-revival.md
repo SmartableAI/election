@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-calif-woman-pep-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-calif-woman-pep-talk-weekly-address-revival-75728273"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210212&t=2&i=1551301227&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1B08I"
         width: 792
         height: 545
+        isCached: true
+  - title: "ICE nearly released sex abuse convicts despite Biden memo"
+    excerpt: "Texas prison officials say U.S. Immigration and Customs Enforcement was prepared to release three men convicted of sex offenses against children in an apparent misapplication by authorities of enforce"
+    publishedDateTime: 2021-02-13T14:49:00Z
+    webUrl: "https://www.washingtonpost.com/national/ice-nearly-released-sex-abuse-convicts-despite-biden-memo/2021/02/13/5afc0782-6e0a-11eb-a66e-e27046e9e898_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/ice-nearly-released-sex-abuse-convicts-despite-biden-memo/2021/02/13/5afc0782-6e0a-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/ice-nearly-released-sex-abuse-convicts-despite-biden-memo/2021/02/13/5afc0782-6e0a-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Biden raises Taiwan and human rights with Xi Jinping in first phone call"
     excerpt: "The conversation came hours after the US president announced a new Pentagon taskforce on China"
