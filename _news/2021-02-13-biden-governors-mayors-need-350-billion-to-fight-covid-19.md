@@ -50,9 +50,9 @@ related:
   - title: "Biden presses for $1.9 trillion COVID relief plan with governors, mayors"
     excerpt: "U.S. President Joe Biden pushed for the first major legislative achievement of his term on Friday, turning to a bipartisan group of local officials for help on his $1.9 trillion coronavirus relief plan."
     publishedDateTime: 2021-02-12T22:35:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-idUSKBN2AC10D"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AC10D"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AC10D"
+    webUrl: "https://www.reuters.com/article/us-usa-biden-idINKBN2AC10D"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2AC10D"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2AC10D"
     type: article
     provider:
       name: Reuters

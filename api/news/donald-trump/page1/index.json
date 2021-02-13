@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-14-full-text-on-mitch-mcconnells-email-explaining-why-he-would-vote-to-acquit-trump.md",
+      "title": "Full Text on Mitch McConnell's Email Explaining Why He Would Vote to Acquit Trump",
+      "excerpt": "Senate GOP Leader Mitch McConnell will vote to acquit former President Donald Trump, he told colleagues on Saturday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/full-text-mitch-mcconnells-email-explaining-why-he-would-vote-acquit-trump-1569064",
+      "originalUrl": "https://www.newsweek.com/full-text-mitch-mcconnells-email-explaining-why-he-would-vote-acquit-trump-1569064",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1733464/mitch-mcconnell.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/full-text-mitch-mcconnells-email-explaining-why-he-would-vote-acquit-trump-1569064?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/full-text-mitch-mcconnells-email-explaining-why-he-would-vote-acquit-trump-1569064?amp=1",
+      "publishedDateTime": "2021-02-13T08:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-13-republican-rep-herrera-beutler-highlights-phone-call-as-riot-raged-trump-said-to-have-blamed-antifa-enraging-mccarthy.md",
       "title": "Republican Rep. Herrera Beutler highlights phone call as riot raged: Trump said to have blamed antifa, enraging McCarthy",
       "excerpt": "Keving McCarthy, furious, said “Who the f--k do you think you are talking to?” to the then-president, CNN reported.",
@@ -171,7 +223,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-trump-impeachment-idCAKBN2AC11K",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -195,58 +247,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-13-power-up-mitch-mcconnell-still-isnt-talking-to-trump-but-will-he-vote-to-acquit-him.md",
-      "title": "Power Up: Mitch McConnell still isn't talking to Trump. But will he vote to acquit him?",
-      "excerpt": "This is not the America McConnell grew up in or the Republican Party he's built. This is not the party he wants to leave behind for the next generation,' said longtime McConnell political aide Scott Jennings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2021/02/12/power-up-mitch-mcconnell-still-isnt-talking-trump-will-he-vote-acquit-him/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2021/02/12/power-up-mitch-mcconnell-still-isnt-talking-trump-will-he-vote-acquit-him/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OV4BQHDMZII6XJTO4JYEN2PITA.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/02/12/power-up-mitch-mcconnell-still-isnt-talking-trump-will-he-vote-acquit-him/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/02/12/power-up-mitch-mcconnell-still-isnt-talking-trump-will-he-vote-acquit-him/?outputType=amp",
-      "publishedDateTime": "2021-02-12T08:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

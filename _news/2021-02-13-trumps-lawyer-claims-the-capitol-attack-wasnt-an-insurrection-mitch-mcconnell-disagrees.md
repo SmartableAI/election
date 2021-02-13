@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Full Text on Mitch McConnell's Email Explaining Why He Would Vote to Acquit Trump"
+    excerpt: "Senate GOP Leader Mitch McConnell will vote to acquit former President Donald Trump, he told colleagues on Saturday."
+    publishedDateTime: 2021-02-13T16:37:00Z
+    webUrl: "https://www.newsweek.com/full-text-mitch-mcconnells-email-explaining-why-he-would-vote-acquit-trump-1569064"
+    ampWebUrl: "https://www.newsweek.com/full-text-mitch-mcconnells-email-explaining-why-he-would-vote-acquit-trump-1569064?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/full-text-mitch-mcconnells-email-explaining-why-he-would-vote-acquit-trump-1569064?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 120
+    images:
+      - url: "https://d.newsweek.com/en/full/1733464/mitch-mcconnell.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Power Up: Mitch McConnell still isn't talking to Trump. But will he vote to acquit him?"
     excerpt: "This is not the America McConnell grew up in or the Republican Party he's built. This is not the party he wants to leave behind for the next generation,' said longtime McConnell political aide Scott Jennings."
     publishedDateTime: 2021-02-12T16:57:00Z

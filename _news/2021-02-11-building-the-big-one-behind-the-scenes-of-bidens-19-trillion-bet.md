@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/11/politics/biden-1-9-trillion-bet/i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/11/politics/biden-1-9-trillion-bet/index.html"
 type: article
 quality: 175
-heat: 475
+heat: 495
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 173
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210210134821-03-biden-myanmar-0210-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden grapples with balancing optimism and tough talk on pandemic's outlook"
+    excerpt: "As President Joe Biden strives to take the opposite approach of former President Donald Trump on the coronavirus response, he's leaving most of the details to the scientists -- including the tough talk about what Americans may have to brace for in the coming months.\n    \n"
+    publishedDateTime: 2021-02-13T15:11:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4VgxeRTM9lI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/13/politics/biden-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/biden-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210211174203-joe-biden-february-11-2021-01-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

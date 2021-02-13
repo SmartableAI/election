@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden grapples with balancing optimism and tough talk on pandemic's outlook"
+    excerpt: "As President Joe Biden strives to take the opposite approach of former President Donald Trump on the coronavirus response, he's leaving most of the details to the scientists -- including the tough talk about what Americans may have to brace for in the coming months.\n    \n"
+    publishedDateTime: 2021-02-13T15:11:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4VgxeRTM9lI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/13/politics/biden-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/biden-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210211174203-joe-biden-february-11-2021-01-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden emphasizes 'urgency' of $1.9T relief after Summers' op-ed on inflation"
     excerpt: "President Joe Biden responded to a new, sluggish jobs report by continuing to press for his $1.9 trillion Covid relief package to be passed with urgency -- even as a leading economist who served in the Obama administration is sounding the alarm on how the White House's plan could have negative economic"
     publishedDateTime: 2021-02-05T16:28:48Z

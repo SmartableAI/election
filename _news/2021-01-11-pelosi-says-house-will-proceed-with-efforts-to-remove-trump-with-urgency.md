@@ -555,6 +555,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "The Latest: Senators to Consider Witnesses in Trump Trial"
+    excerpt: "The Latest on former President Donald Trump's second Senate impeachment trial (all times local): Senators have voted to consider witnesses in the impeachment trial of former President Donald Trump. Closing arguments were expected Saturday with no witnesses called."
+    publishedDateTime: 2021-02-13T16:35:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-02-13/the-latest-senators-await-closing-arguments-in-trump-trial"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-13/the-latest-senators-await-closing-arguments-in-trump-trial?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-13/the-latest-senators-await-closing-arguments-in-trump-trial?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "e6zUbvMWdoJ/ZcgCihq7C7zY1w+Bk56k1lR/wkBgmsuMvB1nptrAUZc73C3IHq+ncCNhuT43SfzbxIQyljYj8Zyqd/qPWA88AvxjPdFf+S8UfwDVTSyiwXqGTMr+HPI5UN1Gpb4KghP0YMBnmGuezncoTie35fqOTLfpf51pL5FlOsynRcdYQ+JLxnLyAcc1nCvIA1NlZljbzDmsG3ThxJ4oXf1V0m00kT+NbAlC5qxw74YINNJRLV0uFwQ6Shao+rcmiqBbpPWK5LrhvNv6J1HwuHpxMqSsXn918P7rwligtaILTc3DVGunnnQlkCWUXQIFXjCfzFcB5V7VssTbgx/0BexaeOxEvtgcKQfiYtHnULzm8xz9eTy3PfXtopX/udQDTNTyiqsGTHbptlTDRAtzKxffppAgnG+Lc39nWycNq011OImnxuWe9fYjkdLyBCIlrnKu8lqbfl1RtgyfB/jJsqko7l06lvt+hU8VU8QDkG/XqzEvIEM5rYYF0rBskxHSfqXxXbHnZw3j0nnGaA==;+GNB7r5XQN+jH20+ed2HgA=="
 ---

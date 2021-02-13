@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/12/politics/senate-impeachment-trial
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/12/politics/senate-impeachment-trial-day-4/index.html"
 type: article
 quality: 188
-heat: 1868
+heat: 1888
 published: true
 
 provider:
@@ -944,6 +944,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Trump impeachment trial live updates: Latest news from the Senate"
+    excerpt: "The Senate will convene on Saturday morning for the fifth day of former President Donald Trump’s second impeachment trial following a brief, combative presentation by his defense team on Friday. Trump's lawyers argued that his speech at the rally the preceded the Capitol riot last month was \"ordinary political rhetoric\" and claimed Democrats were motivated by their \"political hatred\" for the president to conduct the \"sham\" proceedings without due process."
+    publishedDateTime: 2021-02-13T13:15:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/live-blog/2021-02-13-trump-impeachment-trial-live-updates-n1257801"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1257801"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1257801"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2021_06/3449806/210212-impeachment-live-blog-weekend-main-cover-cs_b31da3e00e0c13ac20ed4568b9808232.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
   - title: "Trump's second impeachment trial: Day 4"
     excerpt: "Former President Trump's defense team will begin their arguments today against conviction. Follow here for the latest."
     publishedDateTime: 2021-02-12T16:08:00Z
@@ -1361,6 +1377,6 @@ related:
         height: 773
         isCached: true
 
-secured: "tK3sQWw4KGeYl2z/knPiCyTxbiHMCHTT6ah3fJ1LMZgeiAR8uwT4S6hRAKeo4s74hdJawu+ZSWQWPtc55MUczw6sLHZ6Urg18rC3qqBHrCNGR/BizAdTTwUYwhz86LKX0M4PB48TWrGpbZgAL/fHj+ZhGd1Me0FXdTxOPMniiPkkieL8vHZuUTlD4TTQ0Q1tQcW1wUFZxY4/ZEIvci7cDsMeDcvmliNRS3W9MjOrMtjQsva5h9aRLbj6Sij/b/SuuhAspk9CxgShhZkhoRS0rwlaoMXfFyhfBQ8FrabM3ehDTJAzOHzoqvetM05n9aSaBMeIZZdNrcNRsYdyayxEx9XOXwZI7rEDY0GRqHCAM38=;WZqHTfurrmeqgkDHX9VjGw=="
+secured: "FmpiRQGl1+mTjFFP+xdD9ed5soaBFjNyMgD6XP5E0PVzm5Pb9iDd71cGihFQ2TK8v847VChaai023jor9pDvEQu7/mKZr24hBIJdX36Pv8WeVzcpHwb0gY3FxwYZnw3Z4RQIdBL/gmPCJKlEIn9xiMZLggbynm0k7PY6Z+vXYloBYBiMQMR+3IUcjSJUR0lWiiM2R+TTzygTxM1uugGocY8WhSUffdab9VNgUxseHuvDZ7zE7hu+eNcm/CDeuN08rXTiyQ/xYSaNoIp5zUxPXYr0b30Q1Vk316xKzMqpJGjqnW86u89hy6h+yzUv/mY0fJVeMMCk0DOPpBafi1ZVK/wXSGiKV4pHFGd3AP4VUIA=;zvZNtmSykeErgMxeZm8ptQ=="
 ---
 

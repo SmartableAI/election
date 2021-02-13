@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN2AC11K"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN2AC11K"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/01/09/USAT/6aa6963b-4d2b-4679-b15a-6477fc618042-AP21006679639042.jpg?auto=webp&crop=4305,2421,x722,y1081&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump 'loved' it when his defense team called impeachment trial 'constitutional cancel culture,' report says"
+    excerpt: "After a rocky start to the week, Trump was reportedly very pleased with his team's performance on Friday, aides told Politico."
+    publishedDateTime: 2021-02-13T13:38:00Z
+    webUrl: "https://www.businessinsider.com/trump-happy-with-lawyers-calling-trial-constitutional-cancel-culture-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/trump-happy-with-lawyers-calling-trial-constitutional-cancel-culture-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-happy-with-lawyers-calling-trial-constitutional-cancel-culture-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 106
+    images:
+      - url: "https://i.insider.com/602793e8b3c2a800183ccbf5?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Trump impeachment: defense wraps up, claiming free speech is at stake – live"
     excerpt: "Lawyers conclude after brief arguments in impeachment trial and insist ‘President Trump did not incite or cause the horrific violence’ – follow live"

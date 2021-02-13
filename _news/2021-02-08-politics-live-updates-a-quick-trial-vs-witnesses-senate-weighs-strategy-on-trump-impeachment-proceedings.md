@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump 'loved' it when his defense team called impeachment trial 'constitutional cancel culture,' report says"
+    excerpt: "After a rocky start to the week, Trump was reportedly very pleased with his team's performance on Friday, aides told Politico."
+    publishedDateTime: 2021-02-13T13:38:00Z
+    webUrl: "https://www.businessinsider.com/trump-happy-with-lawyers-calling-trial-constitutional-cancel-culture-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/trump-happy-with-lawyers-calling-trial-constitutional-cancel-culture-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-happy-with-lawyers-calling-trial-constitutional-cancel-culture-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 106
+    images:
+      - url: "https://i.insider.com/602793e8b3c2a800183ccbf5?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump impeachment: defense wraps up, claiming free speech is at stake – live"
     excerpt: "Lawyers conclude after brief arguments in impeachment trial and insist ‘President Trump did not incite or cause the horrific violence’ – follow live"
     publishedDateTime: 2021-02-13T00:43:00Z

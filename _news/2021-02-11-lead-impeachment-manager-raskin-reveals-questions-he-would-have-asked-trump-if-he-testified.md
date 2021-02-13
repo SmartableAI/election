@@ -159,6 +159,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump impeachment trial curveball: Senate wants to hear from witnesses"
+    excerpt: "Former President Donald Trump's impeachment trial got an unexpected extension as senators voted Saturday morning to open the door to witnesses in light of new reporting overnight on Trump's state of mind during the Jan. 6 Capitol riot."
+    publishedDateTime: 2021-02-13T16:53:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WFZwLJk-jQU/trump-impeachment-trial-curveball-senate-witnesses"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-trial-curveball-senate-witnesses.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-trial-curveball-senate-witnesses.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/152bd415-4706-48b5-b952-9330dce68d33/d548aec7-b572-4973-9265-de0dd39491bd/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Republican who called on Trump to resign admits conviction ‘very unlikely’"
     excerpt: "Sen. Pat Toomey, R-Pa., who has been a top critic of former President Trump and called for him to resign after last month’s riot at the Capitol, said in an interview Sunday that it is unlikely that the Senate will vote for a conviction on the one count of \"incitement of insurrection.\""
     publishedDateTime: 2021-02-08T09:41:35Z
@@ -382,6 +398,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "McConnell will vote to acquit Trump in second impeachment trial, as day five gets underway"
+    excerpt: "Senate GOP Leader Mitch McConnell will vote to acquit former President Donald Trump in his second impeachment trial, Fox News has learned, as day five of the trial is now underway."
+    publishedDateTime: 2021-02-13T14:52:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KZzIpxKcFZc/mcconnell-vote-acquit-trump-second-impeachment-trial"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-vote-acquit-trump-second-impeachment-trial.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-vote-acquit-trump-second-impeachment-trial.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/db8c4e36-b0cc-4a00-9e4a-74cc2b8afb53/aa38912e-f605-4e24-8bc3-6ca4cb8b4870/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Senate agrees Trump impeachment trial is constitutional: TRUMP IMPEACHMENT TRIAL LIVE UPDATES"
     excerpt: "A handful of GOP senators crossed party lines on Tuesday by voting to affirm the constitutionality of the impeachment trial."

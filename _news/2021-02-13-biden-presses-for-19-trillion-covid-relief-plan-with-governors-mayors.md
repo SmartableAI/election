@@ -3,10 +3,10 @@ category: news
 title: "Biden presses for $1.9 trillion COVID relief plan with governors, mayors"
 excerpt: "U.S. President Joe Biden pushed for the first major legislative achievement of his term on Friday, turning to a bipartisan group of local officials for help on his $1.9 trillion coronavirus relief plan."
 publishedDateTime: 2021-02-12T22:35:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-biden-idUSKBN2AC10D"
-webUrl: "https://www.reuters.com/article/us-usa-biden-idUSKBN2AC10D"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AC10D"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AC10D"
+originalUrl: "https://www.reuters.com/article/us-usa-biden-idINKBN2AC10D"
+webUrl: "https://www.reuters.com/article/us-usa-biden-idINKBN2AC10D"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2AC10D"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2AC10D"
 type: article
 quality: 124
 heat: -1
@@ -102,6 +102,6 @@ related:
         height: 600
         isCached: true
 
-secured: "ErComKqirlrxhyHaGEDhbLWbVwJQDZEmkZmQJ7sasgAsykujD2+XAtZjh18x28FPd7PCTTpjbP9ETdKBnYM+iv6527pYwLSHyZ40i5TJsHtfdVQy1WSH+VjdAiF4NIeaOxAlk8TmgHlZ+2OMD/S0QanNW7vd75eApDI6FFXrOfSyUzt+Iq5gsUE3CGR0Noit4cdBiiEH/JS8DMa6uB/nAJHYcEL4joFSoLNzmMxtLP109goJfoW9/28duTORyJX2V1JpKt5on98pk7oPNNea2rX/sb7hcMIPtpW7+UHZVfyz2HFjyYIthP3NXMIanqj/t3SYFK8pslyMDQqBRQYWyUhMONHcESoZDjwOiMDIWzeTMtl6hLeguyANU/F2uPIb7nCailzeUIrkuD1gfQ0QKm8CrKY9pmDbUS25nG2BUIIV6ifIyhL9hfj7ymovEh9Tc0vm067/SWXQHVnvPyaqWZd9YulJQTF2OyAjt/KvD9Vxu4yvyX1g6KWeKpY+vZ+j1HjbOGePmLaNCMlRkyfIhg==;Cqc1XfkbFbEx4QZQKEcZOg=="
+secured: "F1jiCSEFsjEi0THBbdYYNsSCUAUZfb63IpwoGsSo0WoY3ClVHbUeXr4pSxW5A6IXYNDfuhUsy3BzcOn0NCVBtBqVqMx3oGxPcWcBv+hlqywD7wMHIw3bkzmdJfVsLI5qlMhCBYUV2SE5Yswm7f9pEbDxKqnZoF222Ra/Yk9c2VywD+izzGo0xGGCLNI9eS3+MFPSyx5+XHHc44S6VqekzRq8vlah5VTu0/VDPMLzCue7tKTSstLFaLDvWnuIopkcqtOjYalTQdGMq/yJ4hOTm6GWMYg8N9ebvNgDYfWJqLYZb69wB+1UNuLnIwbp4hYqO0oRAXFQcr+yX0cY5wRGR0jVxeyUPYDJGIOjKKuueyo=;x9srFHiTouxHPJKwnuPW2w=="
 ---
 

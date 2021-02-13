@@ -1506,6 +1506,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "President Joe Biden meets with Governors and Mayors on a Recovery Plan at the White House"
+    excerpt: "President Joe Biden and Vice President Kamala Harris meet with governors and mayors to discuss the American Rescue Plan, which will provide aid to fight against COVID-19, in the Oval Office in Washington,"
+    publishedDateTime: 2021-02-12T17:34:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/21950192881a10313de0614101dbab05/President-Joe-Biden-meets-with-Governors-and-Mayors-on-a-Recovery-Plan-at-the-White-House/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 46
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/21950192881a10313de0614101dbab05/BIDEN-GOVERNORS-MAYORS.jpg"
+        width: 650
+        height: 433
+        isCached: true
 
 secured: "cWH/ZRaMJ7lUUDXjCAYtcbh9wQN2jWE8dOnx1pyNzOXwpZnwyfRrP9zp1m9GHsHuvrJUJ+pRXcQIJ/toleA9NyUrch8K3k5lpryRYZt5T5gF3/WSrXzZCMLUX1MmAxS9C8eNq5TRZVLbY9ZzEL0mPsTAwoXVJXemSdCQHR70IUoCb1rPg6N8CtodiOmDkQkBrXnyl8JDqhaLdOKSkz7UjJ1wo0SNWf1yJ+UTGj4uv/Cy3P2hPeGTlPFY42D8Rz569ykUTDoeneICWyIU/smVz92E57vDpPOaC+1vJzcHw4rKZ1IsFKecKfCL4rcrPsf1ituy84h12/uttBEkLTX3FYlqYDe32fjJ3mFNij6un0I=;x4OwkmoBbLN65z2griejsA=="
 ---

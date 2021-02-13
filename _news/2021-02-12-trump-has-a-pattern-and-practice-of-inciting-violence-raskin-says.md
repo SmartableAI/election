@@ -958,6 +958,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Trump impeachment trial live updates: Latest news from the Senate"
+    excerpt: "The Senate will convene on Saturday morning for the fifth day of former President Donald Trump’s second impeachment trial following a brief, combative presentation by his defense team on Friday. Trump's lawyers argued that his speech at the rally the preceded the Capitol riot last month was \"ordinary political rhetoric\" and claimed Democrats were motivated by their \"political hatred\" for the president to conduct the \"sham\" proceedings without due process."
+    publishedDateTime: 2021-02-13T13:15:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/live-blog/2021-02-13-trump-impeachment-trial-live-updates-n1257801"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1257801"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1257801"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2021_06/3449806/210212-impeachment-live-blog-weekend-main-cover-cs_b31da3e00e0c13ac20ed4568b9808232.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
   - title: "Trump's second impeachment trial: Day 4"
     excerpt: "Former President Trump's defense team will begin their arguments today against conviction. Follow here for the latest."
     publishedDateTime: 2021-02-12T16:08:00Z

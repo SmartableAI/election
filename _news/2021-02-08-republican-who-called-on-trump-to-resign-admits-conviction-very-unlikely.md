@@ -159,6 +159,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump impeachment trial curveball: Senate wants to hear from witnesses"
+    excerpt: "Former President Donald Trump's impeachment trial got an unexpected extension as senators voted Saturday morning to open the door to witnesses in light of new reporting overnight on Trump's state of mind during the Jan. 6 Capitol riot."
+    publishedDateTime: 2021-02-13T16:53:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WFZwLJk-jQU/trump-impeachment-trial-curveball-senate-witnesses"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-trial-curveball-senate-witnesses.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-trial-curveball-senate-witnesses.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/152bd415-4706-48b5-b952-9330dce68d33/d548aec7-b572-4973-9265-de0dd39491bd/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Schumer leaves door open to 14th Amendment measure to bar Trump from office"
     excerpt: "Senate Majority Leader Chuck Schumer Thursday did not rule out bringing legislation to bar former President Donald Trump from office if he is not convicted at the ongoing Senate impeachment trial. "
     publishedDateTime: 2021-02-11T19:56:56Z
@@ -380,6 +396,22 @@ related:
     quality: 165
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0333c105-c1f6-4aab-be8e-664925fcc3e1/77d38842-62e8-4347-863f-4936d4af227c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "McConnell will vote to acquit Trump in second impeachment trial, as day five gets underway"
+    excerpt: "Senate GOP Leader Mitch McConnell will vote to acquit former President Donald Trump in his second impeachment trial, Fox News has learned, as day five of the trial is now underway."
+    publishedDateTime: 2021-02-13T14:52:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KZzIpxKcFZc/mcconnell-vote-acquit-trump-second-impeachment-trial"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-vote-acquit-trump-second-impeachment-trial.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-vote-acquit-trump-second-impeachment-trial.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/db8c4e36-b0cc-4a00-9e4a-74cc2b8afb53/aa38912e-f605-4e24-8bc3-6ca4cb8b4870/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

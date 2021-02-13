@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Donald Trump impeachment: Senate trial expected to vote to acquit today – live updates"
-excerpt: "Each legal team will have two hours to re-state their case before Senate likely votes to acquit Donald Trump"
-publishedDateTime: 2021-02-13T14:20:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/feb/13/donald-trump-impeachment-senate-trial-vote-verdict-live-updates?page=with:block-6027ce208f0886db2aba86c9"
-webUrl: "https://www.theguardian.com/us-news/live/2021/feb/13/donald-trump-impeachment-senate-trial-vote-verdict-live-updates?page=with:block-6027ce208f0886db2aba86c9"
+excerpt: "Each legal team will have two hours to restate their case before Senate likely votes to acquit Donald Trump"
+publishedDateTime: 2021-02-13T15:33:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/feb/13/donald-trump-impeachment-senate-trial-vote-verdict-live-updates?page=with:block-6027f0f48f08d7b7c03d222f"
+webUrl: "https://www.theguardian.com/us-news/live/2021/feb/13/donald-trump-impeachment-senate-trial-vote-verdict-live-updates?page=with:block-6027f0f48f08d7b7c03d222f"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/13/donald-trump-impeachment-senate-trial-vote-verdict-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/13/donald-trump-impeachment-senate-trial-vote-verdict-live-updates"
 type: article
@@ -25,7 +25,7 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://i.guim.co.uk/img/media/d1ecc6bb6936f3e45fca818c4c66a3c242be9e41/86_0_2635_1582/master/2635.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=91cb2a02d314d1b937d8488aeebcc174"
+  - url: "https://i.guim.co.uk/img/media/0d03caf83926a33d4c09261bbb2fcb46379c72e0/87_0_2635_1582/master/2635.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=37f4ae2746c7816f5b3182be8c19ffc5"
     width: 600
     height: 360
     isCached: true
@@ -251,6 +251,6 @@ related:
       domain: theguardian.com
     quality: 86
 
-secured: "ls2Ws3uUcusYhGZNqzFg2abxneeSO6LenLmebUrCU0LSYYMelRHsOgr1ymanN9w8V2iO22fnp3vTzWaE2dTPdyD+Ipv36ZJ5O0gpBX8j1J94EC/mcQHc4R9Aw2hN9mgjDGnIcHoM9RxbRHaPub1YVI6w9fG+YnijpLXs3g1B0CxDeWtwfn0+Oc91KhPWGhUWciHLfhBhjdmv01aZavHAOYdub+/725Ceirj1sioOkX5H1+jP9seV3YMimvgZTmw1Y01vRcyG7Xht/nnfGBlM6XaV1D/OlekdYxB5+Bu8Q5mfo684/aZxsl7ZeK9bzBOoY147uCktczgoHdpXAZEox0BAGX09JEuw6FQ0iirGbEg=;ea1DdUzB08cQuG5Vz51qWg=="
+secured: "tLZJ3SykeD+0mNTY+uoi2htG/uRKZ+On41/lGs4viu+1REgcWqPm3MRetKaZ9Qnw79nPMRSh3fPgaQlm+qCs40MvtJHw3c66EjnjVxz4/b6gea3dob2LW8Aw26pnKdZNWdaUQqypUB+FQaIUX06zsxxxXoZCttgqjheEGFLmIPPZJHt66VhtUpPCZ6DGH4RFKR4XjnL4XKZF5wqV/MoHvIW9z+Tp2U3l79Fb8tpnI1C2MbNehFjA9lmEzxTFe1J84P+xBgdssQEEbkub9unSBjbMjI2unizviLH2lJkUHeg2/Ed07Gvge+sIfyxKPeEV0Xz9FVyyBX6BWBVDB92Hcp0J3G9zxIq7NM3kbq5FZyo=;RgTmyDfK0bFpgbtPMdcRdQ=="
 ---
 

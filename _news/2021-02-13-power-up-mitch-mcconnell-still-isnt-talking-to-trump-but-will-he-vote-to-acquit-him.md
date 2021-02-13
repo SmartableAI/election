@@ -9,8 +9,8 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2021/02/12/power-up-mitch-mc
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/02/12/power-up-mitch-mcconnell-still-isnt-talking-trump-will-he-vote-acquit-him/?outputType=amp"
 type: article
 quality: 117
-heat: 137
-published: true
+heat: -1
+published: false
 
 provider:
   name: Washington Post
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Full Text on Mitch McConnell's Email Explaining Why He Would Vote to Acquit Trump"
+    excerpt: "Senate GOP Leader Mitch McConnell will vote to acquit former President Donald Trump, he told colleagues on Saturday."
+    publishedDateTime: 2021-02-13T16:37:00Z
+    webUrl: "https://www.newsweek.com/full-text-mitch-mcconnells-email-explaining-why-he-would-vote-acquit-trump-1569064"
+    ampWebUrl: "https://www.newsweek.com/full-text-mitch-mcconnells-email-explaining-why-he-would-vote-acquit-trump-1569064?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/full-text-mitch-mcconnells-email-explaining-why-he-would-vote-acquit-trump-1569064?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 120
+    images:
+      - url: "https://d.newsweek.com/en/full/1733464/mitch-mcconnell.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Trump's lawyer claims the Capitol attack wasn't an 'insurrection.' Mitch McConnell disagrees."
     excerpt: "Senate Minority Leader Mitch McConnell disagrees. He's called the Capitol attack a \"failed insurrection.\""
     publishedDateTime: 2021-02-12T21:46:00Z

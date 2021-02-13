@@ -96,9 +96,9 @@ related:
         height: 545
         isCached: true
   - title: "Donald Trump impeachment: Senate trial expected to vote to acquit today – live updates"
-    excerpt: "Each legal team will have two hours to re-state their case before Senate likely votes to acquit Donald Trump"
-    publishedDateTime: 2021-02-13T14:20:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/13/donald-trump-impeachment-senate-trial-vote-verdict-live-updates?page=with:block-6027ce208f0886db2aba86c9"
+    excerpt: "Each legal team will have two hours to restate their case before Senate likely votes to acquit Donald Trump"
+    publishedDateTime: 2021-02-13T15:33:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/13/donald-trump-impeachment-senate-trial-vote-verdict-live-updates?page=with:block-6027f0f48f08d7b7c03d222f"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/13/donald-trump-impeachment-senate-trial-vote-verdict-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/13/donald-trump-impeachment-senate-trial-vote-verdict-live-updates"
     type: article
@@ -107,7 +107,7 @@ related:
       domain: theguardian.com
     quality: 117
     images:
-      - url: "https://i.guim.co.uk/img/media/d1ecc6bb6936f3e45fca818c4c66a3c242be9e41/86_0_2635_1582/master/2635.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=91cb2a02d314d1b937d8488aeebcc174"
+      - url: "https://i.guim.co.uk/img/media/0d03caf83926a33d4c09261bbb2fcb46379c72e0/87_0_2635_1582/master/2635.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=37f4ae2746c7816f5b3182be8c19ffc5"
         width: 600
         height: 360
         isCached: true

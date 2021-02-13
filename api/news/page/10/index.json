@@ -2,6 +2,58 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-01-31-analysis-copying-franklin-d-roosevelt-president-joe-biden-wanted-a-fast-start-now-comes-the-hard-part.md",
+      "title": "Analysis: Copying Franklin D. Roosevelt, President Joe Biden wanted a fast start. Now comes the hard part.",
+      "excerpt": "Biden has now signed about 45 executive orders, memorandums or proclamations enacting or at least initiating major policy shifts on a wide array of issues, including the coronavirus pandemic, racial justice,",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/nation-world/ct-nw-nyt-biden-administration-goals-20210131-hixvijvamfbjlfeszmsqnpzuzm-story.html?outputType=amp",
+      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-nw-nyt-biden-administration-goals-20210131-hixvijvamfbjlfeszmsqnpzuzm-story.html?outputType=amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/AEKdpZTkTf4ZTP15S_R_t6u9pUw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/LBAGKV5X3DALYS5KWOM7AS4B5M.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-nw-nyt-biden-administration-goals-20210131-hixvijvamfbjlfeszmsqnpzuzm-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-nyt-biden-administration-goals-20210131-hixvijvamfbjlfeszmsqnpzuzm-story.html?outputType=amp",
+      "publishedDateTime": "2021-01-30T18:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-01-30-rep-marjorie-taylor-greene-discloses-great-call-with-trump.md",
       "title": "Rep. Marjorie Taylor Greene discloses ‘great call’ with Trump",
       "excerpt": "Rep. Marjorie Taylor Greene announced Saturday she had a \"great call\" with former President Trump and said she'll \"never apologize\" in the face of growing calls that she be removed from office or stripped of committee assignments.",
@@ -1307,63 +1359,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-desantis-florida-deserves-federal-help-governor-proposes-1b-climate-initiative-morgan-biden-gaetz-bashes-cheney-in-wyoming.md",
-      "title": "DeSantis: Florida deserves federal help — Governor proposes $1B climate initiative — Morgan & Biden? — Gaetz bashes Cheney in Wyoming",
-      "excerpt": "When Gov. Ron DeSantis laid out his $96 billion budget plan on Thursday, he was unapologetic that the billions of dollars that came out of Washington, D.C., have helped the state deal with the fallout from an economic collapse.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/newsletters/florida-playbook/2021/01/29/desantis-florida-deserves-federal-help-governor-proposes-1b-climate-initiative-morgan-biden-gaetz-bashes-cheney-in-wyoming-491566",
-      "originalUrl": "https://www.politico.com/newsletters/florida-playbook/2021/01/29/desantis-florida-deserves-federal-help-governor-proposes-1b-climate-initiative-morgan-biden-gaetz-bashes-cheney-in-wyoming-491566",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/d3/05/ba68c9f5400bbef72003544b41ba/fineoutlogo.jpg",
-          "width": 900,
-          "height": 1165,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-29T03:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     }
   ],

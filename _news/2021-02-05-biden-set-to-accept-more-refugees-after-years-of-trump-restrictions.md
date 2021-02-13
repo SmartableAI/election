@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A42HN"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A42HN"
 type: article
 quality: 140
-heat: 2080
+heat: 2100
 published: true
 
 provider:
@@ -1505,6 +1505,20 @@ related:
       - url: "https://www.nydailynews.com/resizer/oQoJJSU_AQgv4pVSh36Q_NNjeJc=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/QW2X67LA45HG7KFBAS6PMPPC3E.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "President Joe Biden meets with Governors and Mayors on a Recovery Plan at the White House"
+    excerpt: "President Joe Biden and Vice President Kamala Harris meet with governors and mayors to discuss the American Rescue Plan, which will provide aid to fight against COVID-19, in the Oval Office in Washington,"
+    publishedDateTime: 2021-02-12T17:34:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/21950192881a10313de0614101dbab05/President-Joe-Biden-meets-with-Governors-and-Mayors-on-a-Recovery-Plan-at-the-White-House/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 46
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/21950192881a10313de0614101dbab05/BIDEN-GOVERNORS-MAYORS.jpg"
+        width: 650
+        height: 433
         isCached: true
 
 secured: "0arVz9erBhcqOIHUA5/Oh+sRzyNI6I2VdIRRogcyc5Jkd0NrGyxQhCB6Ebg0dOTU4c1EuwiWK2ozOHJavWUq7J9fyoUNH0Y3PLv+9hlrR+34aPVIXOxOMlfCOt7uFD/6q9IGwOlSRSZ0KIjFr3qSy8xctaodJV1GNoypxC60Q0C1xqStY0VAi8ZYLFyahL/Hr/RIZ4YnY2mBHDH97GjRKAgq3hNEDNCATj4HBGThWlPp6+N86o3TGkaDoAYoiHrFjCnukGCv6BV/kVhH+JjgOPp3ScS2WbIV7cEsD0nn4ocs48BI9ucPUdV0hehpWult7JFnzriHx5qV83AfHJa0+0LRYgMHvuQD84zAWrQT9Dc=;a9QDWoNy0vwY0tpAZR/N6Q=="

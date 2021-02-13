@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-17-christine-priola-capitol-rioter-seen-at-mike-pences-desk-quits-school-job-in-qanon-rant.md",
+      "title": "Christine Priola, Capitol Rioter Seen At Mike Pence's Desk, Quits School Job In QAnon Rant",
+      "excerpt": "A former schools therapist has been charged with multiple criminal counts over the storming of the U.S. Capitol after she quit her job, citing several conspiracy theories as the reason behind her decision. Holding a placard that read \"THE CHILDREN CRY OUT ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/christine-priola-capitol-rioter-mike-pence-quits-school-job-qanon-1562188",
+      "originalUrl": "https://www.newsweek.com/christine-priola-capitol-rioter-mike-pence-quits-school-job-qanon-1562188",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1710120/us-capitol-riots.jpg",
+          "width": 3422,
+          "height": 2281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/christine-priola-capitol-rioter-mike-pence-quits-school-job-qanon-1562188?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/christine-priola-capitol-rioter-mike-pence-quits-school-job-qanon-1562188?amp=1",
+      "publishedDateTime": "2021-01-17T01:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-01-17-vp-mike-pence-wife-address-crowds-at-nas-lemoore.md",
       "title": "VP Mike Pence, wife address crowds at NAS Lemoore",
       "excerpt": "Second Lady of the United States Karen Pence visited Naval Air Station Lemoore Saturday to honor military spouses and address some of the struggles they",
