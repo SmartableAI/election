@@ -32,85 +32,67 @@ images:
     isCached: true
 
 related:
-  - title: "Prosecutors in Georgia open criminal investigation into Trump's attempt to influence election results"
-    excerpt: "A prosecutor in Fulton County, Georgia, has opened a criminal investigation into former President Donald Trump for his \"attempts to influence the administration of the 2020 Georgia general election.\"\n    \n"
-    publishedDateTime: 2021-02-10T16:39:33Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wcAHrGrjdR8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/10/politics/trump-georgia-criminal-investigation-election/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/10/politics/trump-georgia-criminal-investigation-election/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210202104727-01-trump-file-2020-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Georgia secretary of state's office launches investigation into Trump's phone call "
-    excerpt: "The office of Georgia Secretary of State Brad Raffensperger confirmed to CNN on Monday that it has started an investigation into former President Donald Trump's attempts to overturn the state's election results, including a phone call the former President made to Raffensperger.\n    \n"
-    publishedDateTime: 2021-02-08T23:57:30Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-GS_Gn3iKsk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/08/politics/georgia-secretary-of-state-trump-investigation/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/08/politics/georgia-secretary-of-state-trump-investigation/index.html"
+  - title: "Georgia secretary of state investigating whether pro-Trump attorney voted illegally"
+    excerpt: "Georgia Secretary of State Brad Raffensperger has launched an investigation into whether attorney Lin Wood voted as a legal resident in the November election, a source with Raffensperger's office confirmed to CNN.\n    \n"
+    publishedDateTime: 2021-02-03T01:35:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Nz_oUjeuKmA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/02/politics/lin-wood-georgia-election-2020/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/02/politics/lin-wood-georgia-election-2020/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 169
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210108062936-brad-raffensperger-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210202195002-lin-wood-dec-2020-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Georgia prosecutors launch criminal probe into Trump's efforts to overturn election results"
-    excerpt: "The investigation will look into the phone call Trump made to Georgia Secretary of State Brad Raffensperger in which Trump begged him to reverse Joe Biden's victory."
-    publishedDateTime: 2021-02-10T20:47:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/georgia-prosecutors-launch-criminal-probe-trump-s-efforts-overturn-biden-n1257272"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1257272"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1257272"
+  - title: "Defense Secretary dismisses hundreds of members of Pentagon advisory boards including late Trump picks"
+    excerpt: "Defense Secretary Lloyd Austin has dismissed hundreds of members of 42 Pentagon advisory boards, including controversial late appointments by the Trump administration, as the Pentagon announced a review of the boards' memberships Tuesday.\n    \n"
+    publishedDateTime: 2021-02-02T21:09:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PkpzapWjWXA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/02/politics/lloyd-austin-pentagon-advisory-boards/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/02/politics/lloyd-austin-pentagon-advisory-boards/index.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 140
+      name: CNN
+      domain: cnn.com
+    quality: 159
     images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2020_43/3419416/201012-georgia-early-voting-se-1232p_79c46a105227f1219a0bbeb22bc74a49.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209140912-01-lloyd-austin-secretary-of-defense-announcement-1209-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "Trump conviction rests on Republicans' instinct for self-preservation"
-    excerpt: "Analysis: The Democrats' case asks GOP senators to think of their own interests, as well as the republic's. WASHINGTON — If Republican senators will not put the republic over their party, House impeachment trial managers suggested Wednesday,"
-    publishedDateTime: 2021-02-11T09:31:00Z
-    webUrl: "https://www.nbcnews.com/politics/politics-news/trump-conviction-rests-republicans-instinct-self-preservation-n1257385"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1257385"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1257385"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2021_06/3449252/210210-analysis-donald-trump-ew-722p_555ca8916001a45874569043999b0715.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "In Georgia, a New District Attorney Starts Circling Trump and His Allies"
-    excerpt: "Fani Willis has opened a criminal investigation into efforts by the Trump camp to overturn the former president’s loss in Georgia. In an interview, Ms. Willis described a wide-ranging inquiry."
-    publishedDateTime: 2021-02-13T10:00:00Z
-    webUrl: "https://www.nytimes.com/2021/02/13/us/politics/fani-willis-trump.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/13/us/politics/fani-willis-trump.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/13/us/politics/fani-willis-trump.amp.html"
+  - title: "Manhattan D.A. Is Investigating Bannon, Who Was Pardoned by Trump"
+    excerpt: "Stephen K. Bannon got a last-minute pardon from President Donald J. Trump in a federal fraud case, but now state prosecutors are considering bringing charges."
+    publishedDateTime: 2021-02-03T04:52:00Z
+    webUrl: "https://www.nytimes.com/2021/02/02/nyregion/bannon-vance-fraud-border-wall.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/02/nyregion/bannon-vance-fraud-border-wall.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/02/nyregion/bannon-vance-fraud-border-wall.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 134
+    quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2021/02/13/us/politics/13georgia-trump/13georgia-trump-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2021/02/02/us/politics/02bannon/merlin_175958688_b193b6e4-ee38-428c-a0f6-ce830c7dcc01-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Ex-FBI lawyer spared prison for altering Trump-Russia probe email"
+    excerpt: "The only person charged in the Justice Department's investigation into the origins of the probe President Donald Trump's 2016 campaign and its ties to Russia was spared prison time for altering an email used to support a surveillance application."
+    publishedDateTime: 2021-01-29T17:42:00Z
+    webUrl: "https://www.politico.com/news/2021/01/29/fbi-lawyer-trump-russia-probe-email-463750"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/bd/0f/28877dd44a8cbfedb4c702f85b83/181005-fbi-getty-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "kSs++2vQC7IHNkVkppYq+VxbEhZBllHRra24hifY4Jk5a/bZwpueX609ruaXYaL15OLnIBH+5nGTjoK204aEKAYzqfQyMWrlfhMJkv3Yup42vgVaiu6FIEyCAQ6g0ZW/rPNkXun8JhWZg+Y+G+cpzfTwypz5nsFvG9Zq0ofMiHKXD8/W4HBRs+1YnmC+npZkGVlUU0x5dU9LZN20TS9QaXkF4MiKaqsiE+/7REvhGiD9GOtZKVA/juFMOYkCFx1pWROcBGQeiGK1iOGM02j1Go9X/KWsEHRWv9mBfpuAeCmnoKT+YPR3vx40doktqNuUaVw+pdT/FyY203ylkHvTti+KYTwOtrtCBlkxgFnYHYMvbva4hLMjNQz0nh6/RyCIuIuzHYvOr8wRrhAO0iiycv9ZX0Ix1CtYHyeJ6P2nr7vM4JNv8k6Ny1hCPk7BoDPWbOzDzpjHjVD8zQ50MvGHLDydsT+4Mjzu6yHVdfL+X9fIhDUcufSB8NErqOd/7r769/vDY4qkjy2QZ/X2+aNqPA==;6cc9dl1l40aeOi8YLiGb2A=="

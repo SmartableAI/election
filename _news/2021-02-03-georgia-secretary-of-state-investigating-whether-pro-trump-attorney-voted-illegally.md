@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/02/politics/lin-wood-georgia-electio
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/02/politics/lin-wood-georgia-election-2020/index.html"
 type: article
 quality: 169
-heat: 229
+heat: 249
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2021/02/02/us/politics/02bannon/merlin_175958688_b193b6e4-ee38-428c-a0f6-ce830c7dcc01-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Georgia Officials Review Trump Phone Call as Scrutiny Intensifies"
+    excerpt: "The office of Georgia’s secretary of state, Brad Raffensperger, has initiated a fact-finding inquiry into Donald Trump’s January phone call to Mr. Raffensperger pressuring him to “find” votes."
+    publishedDateTime: 2021-02-08T22:33:00Z
+    webUrl: "https://www.nytimes.com/2021/02/08/us/politics/trump-georgia-election-investigation.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/08/us/politics/trump-georgia-election-investigation.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/08/us/politics/trump-georgia-election-investigation.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/26/us/politics/00HFOTrump-Georgiainvestigate/00HFOTrump-Georgiainvestigate-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

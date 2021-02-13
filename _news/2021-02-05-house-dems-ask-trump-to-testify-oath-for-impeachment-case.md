@@ -566,6 +566,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "The Latest: Trump Trial Resumes With Closing Arguments"
+    excerpt: "Senators have resumed Donald Trump’s impeachment trial without calling witnesses after agreeing to accept new information from a Republican congresswoman about his actions on the day of the deadly Capitol siege."
+    publishedDateTime: 2021-02-13T20:29:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-02-13/the-latest-senators-await-closing-arguments-in-trump-trial"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-13/the-latest-senators-await-closing-arguments-in-trump-trial?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-13/the-latest-senators-await-closing-arguments-in-trump-trial?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "d7FkI/eLDE2wz/yEELTTiovEcvmELmFNUx68hKafK7e7YJcgj8yreGUiiTKtTAvOb7+kyXUG/hN+av/SRW80dyE7eZenxraognUod9+hOu5BqpymqO2v7OfaXQfnaa9U5nKrYYcsWQu9jDZEYTfaaKgMOCzgjuSO/tFOQBNXrw/UQda4F/1T91+8fj7mRK4dVdRqMGqKUsNFvDQyEOszx6aIy3Hd5d5U/OOf++CzUPrPHywUmQMlIzPAGfk0lCpU/EA0vAbmqamn6ddAc62UQ0R7CRWzVdbChbn6IQWsVcRuyyMcGjpQBnhO13bQYfXQT5DarMUfBrivkcZAIjvD3clOKkIHfhbyRCG/Xuq/rxw=;MdAA5gEI4juCLrSAsJVPAQ=="
 ---

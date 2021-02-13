@@ -79,6 +79,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Senate votes 57-43 for Trump acquittal"
+    excerpt: "Senate Republicans handed former President Trump his second impeachment acquittal on Saturday, clearing him of charges that he incited the mob that attacked the Capitol on Jan. 6."
+    publishedDateTime: 2021-02-13T20:49:00Z
+    webUrl: "https://thehill.com/homenews/senate/538750-senate-gop-acquits-trump-for-second-time"
+    ampWebUrl: "https://thehill.com/homenews/senate/538750-senate-gop-acquits-trump-for-second-time?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/538750-senate-gop-acquits-trump-for-second-time?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_012021upi2_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "First Thing: Donald Trump is still a threat to democracy, Democrats warn"
     excerpt: "House impeachment managers urged senators to prevent Trump from holding office again. Plus, former Republican officials discuss creating a new party"
     publishedDateTime: 2021-02-12T11:00:00Z
@@ -111,6 +127,22 @@ related:
         width: 983
         height: 589
         isCached: true
+  - title: "Donald Trump Escapes Conviction a Second Time, Leaving Door Open for 2024 Run"
+    excerpt: "Donald Trump's second acquittal in the Senate raises questions about whether the former president will seek federal office again."
+    publishedDateTime: 2021-02-13T20:53:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-escapes-conviction-second-time-leaving-door-open-2024-run-1569042"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-escapes-conviction-second-time-leaving-door-open-2024-run-1569042?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-escapes-conviction-second-time-leaving-door-open-2024-run-1569042?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 122
+    images:
+      - url: "https://d.newsweek.com/en/full/1734511/trump-acquittal-2024-run.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Impeachment managers say insurrectionists came to Capitol because Trump 'told them to' – live"
     excerpt: "Congresswoman Diana DeGette says insurrectionists even questioned why police tried to block them as they followed Trump’s instructions"
     publishedDateTime: 2021-02-11T20:06:00Z
@@ -142,6 +174,22 @@ related:
       - url: "https://i.insider.com/60255e607fd8c100193133a3?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "New Evidence Shows Trump Used Riot To Pressure Congress to Steal Election"
+    excerpt: "Trump encouraged a public demonstration, promised in advance it would be “wild,” instructed his supporters that extraordinary measures were needed to save the republic from his “landslide” election being stolen,"
+    publishedDateTime: 2021-02-13T20:33:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/02/trump-kevin-mccarthy-phone-call-capitol-riot-insurrection-beutler-impeachment-evidence.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/02/trump-kevin-mccarthy-phone-call-capitol-riot-insurrection-beutler-impeachment-evidence.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/02/trump-kevin-mccarthy-phone-call-capitol-riot-insurrection-beutler-impeachment-evidence.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 89
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/caa/19d/fef718778529089fbfd650e8f94599486d-capitol-rioters.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "'Fighting for Trump:' Democrats Say Capitol Attackers Were Answering Ex-President's Call"
     excerpt: "Democrats Say Capitol Attackers Were Answering Ex-President's Call WASHINGTON (Reuters) - Democrats making the case for Donald Trump's conviction for inciting the deadly attack on the U.S. Capitol on Jan."

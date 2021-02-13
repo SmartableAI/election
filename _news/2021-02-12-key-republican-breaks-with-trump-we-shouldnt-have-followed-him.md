@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/02/12/nikki-haley-trump
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/02/12/nikki-haley-trump-election-richard-haass-nr-vpx.cnn"
 type: article
 quality: 175
-heat: 235
+heat: 275
 published: true
 
 provider:
@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "Nikki Haley criticizes Trump and says he has no future in the GOP"
+    excerpt: "Former US ambassador to the United Nations Nikki Haley directly criticized former President Donald Trump for his involvement stoking the US Capitol riot in a new interview, a notable condemnation from someone who is widely viewed as harboring presidential hopes in a party that is still in thrall to Trump.\n"
+    publishedDateTime: 2021-02-12T14:21:55Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RODB8-58pbI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/12/politics/nikki-haley-donald-trump-gop/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/12/politics/nikki-haley-donald-trump-gop/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210212083106-file-nikki-haley-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump conviction rests on Republicans' instinct for self-preservation"
+    excerpt: "Analysis: The Democrats' case asks GOP senators to think of their own interests, as well as the republic's. WASHINGTON — If Republican senators will not put the republic over their party, House impeachment trial managers suggested Wednesday,"
+    publishedDateTime: 2021-02-11T09:31:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/trump-conviction-rests-republicans-instinct-self-preservation-n1257385"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1257385"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1257385"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_06/3449252/210210-analysis-donald-trump-ew-722p_555ca8916001a45874569043999b0715.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Of course Donald Trump's team didn't tell the truth about his Covid-19 illness"
     excerpt: "Donald Trump was far sicker with Covid-19 than the White House physician or his top aides let on, even to the point where there were concerns that the then-President would have to be put on a ventilator to deal with the illness."
     publishedDateTime: 2021-02-12T15:57:00Z
@@ -63,21 +95,21 @@ related:
         width: 2500
         height: 1528
         isCached: true
-  - title: "‘If this happened in the Soviet Union, you would call it a show trial,’ Cassidy of Trump impeachment trial"
-    excerpt: "Sen. Bill Cassidy (R-La.) tells Chuck Todd that the House did an incredibly 'poor job' in building a case against President Trump during his second impeachment trial, during an exclusive interview with Meet the Press."
-    publishedDateTime: 2021-02-07T14:57:00Z
-    webUrl: "https://www.nbcnews.com/meet-the-press/video/-if-this-happened-in-the-soviet-union-you-would-call-it-a-show-trial-cassidy-of-trump-impeachment-trial-100655685848"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo100655685848"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo100655685848"
+  - title: "'Constitutional cancel culture': Key takeaways from Day Four of Trump's impeachment trial"
+    excerpt: "Key takeaways from Day Four of Trump's impeachment trial Former President Donald Trump's lawyers put up a pugnacious if brief defense presentation in his impeachment trial Friday, saying his rally speech before the Capitol riot was \"ordinary political rhetoric\" and blasting the proceedings as a \"sham\" fueled by Democrats' \"political hatred\" for the ex-president."
+    publishedDateTime: 2021-02-13T01:09:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/constitutional-cancel-culture-key-takeaways-day-four-trump-s-impeachment-n1257677"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1257677"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1257677"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 117
+    quality: 126
     images:
-      - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202102/1612709590167_mtp_clip_cassidyshowtrial_210207_1920x1080.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_06/3449863/210212-donald-trump-ac-656p_c5d5dac2fcaf8ae3271ab5be359bdcbe.jpg"
+        width: 2500
+        height: 1666
         isCached: true
 
 secured: "hmZ8/w9WSI/S5xfCWcoAdQ9tA3ki6o6cVhVuxxaZveGKg3pT2YB2BDU4fHnECMnLU4ynmNtOBFA5pEOGIvvYikx+fgXWgX+7m4Oi8NAaXri9WdQa5mvAUozz29g0qnaAB/pEbx2nZxv5jKpDKhlt2aBFl1P1lBT4ba00X6RG63VV0KEdCmAtm5CT+87LNX5qJlID1QMa14Sdhe1hkhitwe1Lmqm1TaPbImBi63Qbbiy16uLVvohRY5kavdIVarObpXUUteor3jcB3AuDgAvhSriHbEtdOyi63munLK0T9EUHNVbSUROTsfh85yEgFAT6FtfvwmfTgMVOTZOBgQ9I4LkJkSsY/aLynEL6yns5HPg=;5PaR5X1d9Oc9pjvDGXJ7lQ=="

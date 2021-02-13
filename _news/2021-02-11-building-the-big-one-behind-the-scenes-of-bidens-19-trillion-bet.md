@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/11/politics/biden-1-9-trillion-bet/i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/11/politics/biden-1-9-trillion-bet/index.html"
 type: article
 quality: 175
-heat: 495
+heat: 575
 published: true
 
 provider:
@@ -143,6 +143,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration will begin processing migrants forced to stay in Mexico this month"
+    excerpt: "The Biden administration will begin processing migrants forced to stay in Mexico under a Trump-era policy into the United States on February 19, according to administration officials.\n    \n"
+    publishedDateTime: 2021-02-12T11:04:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RxAP_D-6RjI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/12/politics/mexico-migrants-us/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/12/politics/mexico-migrants-us/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210204111459-12-immigration-file-asylum-seekers-mexico-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "More than 80 civil rights organizations call on Biden to abolish the federal death penalty"
     excerpt: "More than 80 nationally recognized criminal justice and civil rights advocacy organizations have joined in the call to President Joe Biden on Tuesday urging him to abolish the federal death penalty and commute the sentences of 49 death row inmates to life in prison.\n    \n"
     publishedDateTime: 2021-02-09T18:48:45Z
@@ -156,6 +172,22 @@ related:
     quality: 165
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210113014621-lisa-montgomery-death-penalty-activists-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration is 'not where we want to be' on genetic sequencing of Covid-19 variants"
+    excerpt: "With coronavirus variants posing a serious threat to President Joe Biden's efforts to contain the pandemic, a Biden official tells CNN that the administration is still simply \"not where we want to be\" on surveillance of mutations in the US -- and simultaneously worried that Americans will grow increasingly"
+    publishedDateTime: 2021-02-11T12:01:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/R34l0yCF2zg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/11/politics/biden-administration-covid-variants/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/11/politics/biden-administration-covid-variants/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210206023014-us-coronavirus-013121-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -190,6 +222,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210211174357-charlotte-federal-courthouse-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "With More Vaccines Secured, Biden Warns of Hurdles to Come"
+    excerpt: "The Biden administration has secured more coronavirus vaccines, but the president struck a cautious tone about logistical issues that could keep some Americans from being vaccinated."
+    publishedDateTime: 2021-02-12T14:14:00Z
+    webUrl: "https://www.nytimes.com/2021/02/11/us/politics/biden-coronavirus-vaccines.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/11/us/politics/biden-coronavirus-vaccines.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/11/us/politics/biden-coronavirus-vaccines.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/11/world/11virus-briefing-vaccine-doses/11virus-briefing-vaccine-doses-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Biden on impact of impeachment trial videos: 'Some minds may have been changed'"
     excerpt: "When asked about former President Donald Trump's Senate impeachment trial, President Joe Biden said that he was focused on \"jobs and infrastructure,\" but he guessed that \"some minds may have been changed\" after seeing the videos that were presented by the House managers yesterday."
@@ -264,6 +312,20 @@ related:
       - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
         width: 1120
         height: 629
+        isCached: true
+  - title: "Biden administration extends housing protections to LGBTQ people"
+    excerpt: "Same-sex couples and transgender individuals disproportionately experience housing discrimination and will now have access to recourse under federal law."
+    publishedDateTime: 2021-02-11T17:01:00Z
+    webUrl: "https://www.nbcnews.com/feature/nbc-out/biden-administration-extends-housing-protections-lgbtq-people-n1257468"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media4.s-nbcnews.com/j/newscms/2021_06/3449368/210211-rainbow-flag-building-mn-1105_ed6e6300827f3cbed200fe7a7b46c75c.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Biden aims to isolate China on coal — but it could blow back on the U.S."
     excerpt: "The U.S. wants to stop new coal projects, but risks losing poor countries to Beijing’s \"Belt and Road\" agenda."

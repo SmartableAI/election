@@ -639,6 +639,22 @@ related:
         width: 1024
         height: 696
         isCached: true
+  - title: "Senate votes to acquit Donald Trump in second impeachment trial"
+    excerpt: "Enough senators have cast “not guilty” votes to acquit Donald Trump of inciting the Jan. 6 attack on the U.S. Capitol. The vote will give the former president an historic second acquittal in an. House Democrats,"
+    publishedDateTime: 2021-02-13T19:56:00Z
+    webUrl: "https://www.nj.com/politics/2021/02/senate-votes-to-acquit-donald-trump-in-second-impeachment.html"
+    ampWebUrl: "https://www.nj.com/politics/2021/02/senate-votes-to-acquit-donald-trump-in-second-impeachment.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/politics/2021/02/senate-votes-to-acquit-donald-trump-in-second-impeachment.html?outputType=amp"
+    type: article
+    provider:
+      name: NJ.com
+      domain: nj.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/PZI32QIMWNHVBNRMW27OKGUDRM.jpg"
+        width: 6000
+        height: 4000
+        isCached: true
   - title: "Trump impeachment trial to begin week of Feb. 8 following Schumer, GOP agreement"
     excerpt: "Under the timeline, the House will transmit the impeachment article against Trump late Monday, with initial proceedings Tuesday."
     publishedDateTime: 2021-01-22T22:40:00Z

@@ -112,6 +112,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Senate votes to acquit Donald Trump in impeachment trial"
+    excerpt: "The Senate on Saturday acquitted former President Donald Trump of an article of impeachment that charged he incited the Jan. 6 Capitol riot. The 57-43 vote fell far short of the"
+    publishedDateTime: 2021-02-13T20:52:00Z
+    webUrl: "https://nypost.com/2021/02/13/senate-votes-to-acquit-donald-trump-in-impeachment-trial/"
+    ampWebUrl: "https://nypost.com/2021/02/13/senate-votes-to-acquit-donald-trump-in-impeachment-trial/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/13/senate-votes-to-acquit-donald-trump-in-impeachment-trial/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/210113-trump-impeach.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "OCwKlJQB/ps1JtIirUEAQTIcrHd8MjQyA+EBDVKgLshdcIKy4EqXULYrOKicB9VAS2TrCb3OIGATSVF2ti5DQVFb52I2UvYTVKXZektwttFjmFMTrxf935Ptm83U9v8kvxDmoEW3+GfdMX8w5O9dJbCVwgTImOnqNw0duobJtePMvNCBO2/ckwr2IW2F8g4jqlzApOoeSjNb59jVkQBpoe2TwghcyR2Yk2TyY7QblJ2TMMd9dI7Ll1qPrHCL7NbbAZhuZ+HAZ/dwB3A5DcvfPazLAIwILw4cs1ynO/CGVHp0QiQCIY00p7NJiO/vRpVvO12mwv3DpOvrac8BZnax7s5wOEia2fsBIgMxNyL/tHw=;6vcERuc2iAlQhQwoH7JaqQ=="
 ---

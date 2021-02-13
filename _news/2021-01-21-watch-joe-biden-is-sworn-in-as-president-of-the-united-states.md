@@ -224,22 +224,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden administration moves to terminate Trump-era migration agreements"
-    excerpt: "Secretary of State Antony Blinken announced Saturday that the Biden administration has suspended and begun the process to terminate Trump-era migration agreements with El Salvador, Guatemala and Honduras.\n    \n"
-    publishedDateTime: 2021-02-07T13:48:27Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FMHUPMCoNqU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/06/politics/biden-administration-asylum-policy-trump-era-migration-agreements/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/06/politics/biden-administration-asylum-policy-trump-era-migration-agreements/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 190
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210204111224-09-immigration-file-honduran-migrants-guatemala-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden hopes Trump's impeachment won't derail agenda"
     excerpt: "As his predecessor is tried in the US Capitol this week for inciting a deadly riot, President Joe Biden will work to keep his first-100-days agenda on track from the other end of Pennsylvania Avenue.\n    \n"
     publishedDateTime: 2021-02-08T19:37:54Z
@@ -365,22 +349,6 @@ related:
     quality: 185
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210120171716-01-biden-executive-order-0120-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden and Democrats prepare to act fast on judges, having learned lesson from Trump"
-    excerpt: "President Joe Biden had been in office less than a week when a federal judge issued a nationwide injunction blocking one of his first immigration-related actions.\n    \n"
-    publishedDateTime: 2021-02-09T12:00:26Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lZ1Nxx-YMRo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/09/politics/judges-biden-democrats-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/09/politics/judges-biden-democrats-trump/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 184
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210208160121-joe-biden-210205-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -1935,22 +1903,6 @@ related:
       - url: "https://static01.nyt.com/images/2021/02/05/business/05Biden-Radio-01/05Biden-Radio-01-facebookJumbo.jpg"
         width: 1050
         height: 549
-        isCached: true
-  - title: "Biden formally ends Trump's national emergency declaration at the border"
-    excerpt: "President Joe Biden on Thursday formally terminated former President Donald Trump's two-year-old declaration of a national emergency at the U.S.-Mexico border, calling the order by his predecessor \"unwarranted."
-    publishedDateTime: 2021-02-11T16:35:00Z
-    webUrl: "https://www.politico.com/news/2021/02/11/biden-trump-national-emergency-border-468603"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/02/11/biden-trump-national-emergency-border-468603"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/02/11/biden-trump-national-emergency-border-468603"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 149
-    images:
-      - url: "https://static.politico.com/1c/77/33e3bd0d457aa1ea7673c376abbe/210211-joe-biden-getty-773.jpg"
-        width: 1160
-        height: 773
         isCached: true
   - title: "Trump Orders Lifting of Virus Travel Ban, but Biden Aides Vow to Block Move"
     excerpt: "The president’s proclamation, which would not take effect until Jan. 26, after Joe Biden assumes office, was part of a flurry of orders that Mr. Biden is likely to reverse."

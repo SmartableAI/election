@@ -169,6 +169,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Vice President Kamala Harris delivers cookies to essential workers"
+    excerpt: "U.S. Vice President Kamala Harris and her husband delivered two baskets of cookies to essential healthcare workers at the VA Medical Center in Washington on Saturday. (Feb. 13)"
+    publishedDateTime: 2021-02-13T20:43:00Z
+    webUrl: "https://www.desmoinesregister.com/videos/news/nation/2021/02/13/vp-harris-delivers-cookies-essential-workers/4475533001/"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 55
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/13/USAT/2eadfb94-3b07-45ae-8292-7ff16c6cb720-ae7b0c28-1b30-4fcd-a11d-3e683655cc83_thumbnail.png?quality=10"
+        width: 852
+        height: 480
+        isCached: true
 
 secured: "i8noE+BbwBtod148qjFMy0XBnaJwTeG3asdXTplIxfkICEWTqltBlUxEw5SocnGIReYCzenDDKWY2TTvhIvRs4Qw7C1d/JHkLRUc+W08R3VBn2L7C1TGb+2B6Oy1OGEdez/UXnSsLhyW3SggJ3zAA5AfkClkfQaFjPPVRtlb8AWSh4GXTiDqdmUqX0lCCnEWEy/mdEtfP02fZxxIxPsy2ZlnpLSEZxMlCyaZhAZ8dTiyIyvxAhmRZeR3orkbiZ0Yrx49tu4MbM+AZdb0vXn12RtekU+vOQRjMQWiBCHwxLoU/C/1l1MIQCPBumhAs7ha8kHoWYmidmW+Nytdqo9CxP2kmZE2sp25zuWhr9M4GtlB5eO78IndH2tCAOdmvTPLtACHCT9+AHR5cmTIwkW0NV/u7Oh4TZlrFW0uxvlt5xZsOrO/7BNcpMw7BbBcBO6Ew3RDRmu0Ff1CGKrzTF0IqlBi+oupU2MwK+c+oTdu3N+4PVLjxTT59Ep4r/FFZ9FySCtAMUEfqtkN8htCAqLDSg==;HiziJCSTRkc7dwrm/xbbpQ=="
 ---

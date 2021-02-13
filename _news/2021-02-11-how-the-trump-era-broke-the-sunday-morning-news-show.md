@@ -48,21 +48,21 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Donald Trump’s Impeachment Legacy: Violent Extremism"
-    excerpt: "Whether or not Mr. Trump is convicted, the extremism that flourished under his administration is embedded in our politics."
+  - title: "In Georgia, a New District Attorney Starts Circling Trump and His Allies"
+    excerpt: "Fani Willis has opened a criminal investigation into efforts by the Trump camp to overturn the former president’s loss in Georgia. In an interview, Ms. Willis described a wide-ranging inquiry."
     publishedDateTime: 2021-02-13T10:00:00Z
-    webUrl: "https://www.nytimes.com/2021/02/13/us/politics/donald-trump-impeachment.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/13/us/politics/donald-trump-impeachment.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/13/us/politics/donald-trump-impeachment.amp.html"
+    webUrl: "https://www.nytimes.com/2021/02/13/us/politics/fani-willis-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/13/us/politics/fani-willis-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/13/us/politics/fani-willis-trump.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 135
+    quality: 134
     images:
-      - url: "https://static01.nyt.com/images/2021/02/13/multimedia/13onpolitics/13onpolitics-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2021/02/13/us/politics/13georgia-trump/13georgia-trump-facebookJumbo.jpg"
         width: 1050
-        height: 549
+        height: 550
         isCached: true
 
 secured: "Qym9qBVKSO7TD0Dd3WDK/bTArQQlwOe4+s5YQIeDSXO945qn+Hlf9MYthvLvbnGJyH9301pHlIiQEzcsZDj20U/VvfcBM7idBHYtrbxc+dsAyL7fgvqowgY/9JYMv6akNRC3Pg/hKH2CU9N6lmBXTFqXP471PzsDE9r6BAJ2EjuEhS6g0syr0GMXY/sSRlq4LtCbJ6abYUvbjhklJkd0GE/wH7Zcha0H9vBYf/n2YUKFB3tOwvREhbZ9cGyumdV+C1sebfdVyk4y6rHk4BV7Q/BKUvfp+zcuFLF4cmHPAHbbIb5p0hYNxlg6u5NV4qDq82yIU8ukU26WzktRzhGVON+lt93TvY99UkPLYX6pcEg=;8wrwHjeAbfbtRjNbSlvCoQ=="

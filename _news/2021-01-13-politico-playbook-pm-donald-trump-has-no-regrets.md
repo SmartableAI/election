@@ -238,6 +238,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Key moments from the second day of Trump's impeachment trial "
+    excerpt: "The second day of former President Donald Trump's Senate impeachment trial brought sobering new security footage and police radio audio of the US Capitol insurrection as Democrats sought to connect the violence to Trump's repeated election fraud claims and his January 6 speech.\n    \n"
+    publishedDateTime: 2021-02-11T02:41:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lEW29qAsmmY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/10/politics/impeachment-key-moments-day-2/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/10/politics/impeachment-key-moments-day-2/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210210155727-01-impeachment-trial-2021-unf-0210-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: Trump's many defenses, explained"
+    excerpt: "Former President Donald Trump's defense team used just a few of the 16 hours they were allotted to make their case for his acquittal on Friday, and encouraged senators to use the rest of the time on Covid relief.\n    \n"
+    publishedDateTime: 2021-02-13T13:00:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nb2hKta_2aY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/13/politics/what-matters-february-12/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/what-matters-february-12/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210212194709-senate-floor-0212-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: Trump's 'pro-law enforcement' image crumbles in his final days"
     excerpt: "A President who has repeatedly touted himself as pro-law enforcement is now being accused of fueling a growing threat of extremists that has law enforcement officials across the nation on high alert.\n    \n"
     publishedDateTime: 2021-01-16T16:32:14Z
@@ -299,22 +331,6 @@ related:
     quality: 171
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106142925-06-trump-rallies-0106-washington-dc-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Analysis: Millions who likely voted for Trump want him barred from future office"
-    excerpt: "It is common that many politicians grow more popular once they leave office. That has not been the case for former President Donald Trump.\n    \n"
-    publishedDateTime: 2021-02-08T01:55:02Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dwSdWpyj-Fw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/07/politics/polls-trump-impeachment-future-office/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/07/politics/polls-trump-impeachment-future-office/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 170
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106122842-01-trump-speaks-dc-protest-0106-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/liz-cheney-donald-trump-jr-wyoming-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/liz-cheney-donald-trump-jr-wyoming-primary.amp"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://images.wsj.net/im-296969/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Senate votes to acquit Donald Trump in impeachment trial"
+    excerpt: "The Senate on Saturday acquitted former President Donald Trump of an article of impeachment that charged he incited the Jan. 6 Capitol riot. The 57-43 vote fell far short of the"
+    publishedDateTime: 2021-02-13T20:52:00Z
+    webUrl: "https://nypost.com/2021/02/13/senate-votes-to-acquit-donald-trump-in-impeachment-trial/"
+    ampWebUrl: "https://nypost.com/2021/02/13/senate-votes-to-acquit-donald-trump-in-impeachment-trial/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/13/senate-votes-to-acquit-donald-trump-in-impeachment-trial/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/210113-trump-impeach.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "McConnell defends GOP Rep. Liz Cheney, who voted to impeach Trump: 'A leader with deep convictions'"
     excerpt: "Cheney has faced calls to resign from her post as House GOP conference chair since she and nine other Republicans crossed party lines to impeach Trump."

@@ -3546,6 +3546,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Kamala Harris visits VA Medical Center in Washington"
+    excerpt: "U.S. Vice President Kamala Harris (C) and second gentleman Doug Emhoff pose for a group photo with health care workers as they visit the VA Center, a veteran's hospital, in Washington, DC on Saturday,"
+    publishedDateTime: 2021-02-13T20:22:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/17be06551a280e0a476d69b521f50115/Kamala-Harris-visits-VA-Medical-Center-in-Washington/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/17be06551a280e0a476d69b521f50115/HARRIS-VETERANS.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "Alert: AP sources: Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
     excerpt: "Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance."
     publishedDateTime: 2021-01-15T18:27:00Z

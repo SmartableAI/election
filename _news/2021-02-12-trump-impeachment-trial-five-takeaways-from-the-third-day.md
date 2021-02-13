@@ -160,6 +160,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "7 Republican senators vote to convict Trump on incitement charge"
+    excerpt: "Former President Trump was acquitted Saturday in the Senate on the impeachment charge of inciting the Jan. 6 Capitol riot – though seven Republican senators still voted with Democrats to convict."
+    publishedDateTime: 2021-02-13T20:54:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_3x6_Q0T9mM/republican-senators-vote-to-convict-trump-on-incitement-charge"
+    ampWebUrl: "https://www.foxnews.com/politics/republican-senators-vote-to-convict-trump-on-incitement-charge.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republican-senators-vote-to-convict-trump-on-incitement-charge.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/340/340/15774946_869011851568_820056121039046290_o-e1585243988433.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump impeachment trial curveball: Senate wants to hear from witnesses"
     excerpt: "Former President Donald Trump's impeachment trial got an unexpected extension as senators voted Saturday morning to open the door to witnesses in light of new reporting overnight on Trump's state of mind during the Jan. 6 Capitol riot."
     publishedDateTime: 2021-02-13T16:53:39Z
@@ -272,6 +288,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "RNC chairwoman rips Trump impeachment, says focus should be on reopening schools"
+    excerpt: "There are better things Congress should be focusing on other than an impeachment of a president after leaving office, Republican National Committee Chairwoman Ronna McDaniel said on Saturday."
+    publishedDateTime: 2021-02-13T19:38:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zJsPmfPrOXQ/rnc-chairwoman-rips-trump-impeachment-says-focus-should-be-on-reopening-schools"
+    ampWebUrl: "https://www.foxnews.com/politics/rnc-chairwoman-rips-trump-impeachment-says-focus-should-be-on-reopening-schools.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rnc-chairwoman-rips-trump-impeachment-says-focus-should-be-on-reopening-schools.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump in a 'great mood' as arguments open in Senate impeachment trial: Jason Miller"
     excerpt: "Former President Donald Trump is \"in a great mood\" as House Democrats present their opening arguments in the Senate impeachment trial, the former president's senior adviser Jason Miller told \"\"America Reports\" Wednesday."
     publishedDateTime: 2021-02-10T21:44:13Z
@@ -317,6 +349,22 @@ related:
     quality: 168
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b016701f-abfc-4703-b1ad-7dd910b4ccf5/30862321-290f-47b6-8601-f74fae38c072/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump acquitted in second impeachment trial on charge of inciting Jan. 6 Capitol riot"
+    excerpt: "Former President Trump was acquitted in an unprecedented second impeachment trial on the charge of inciting an insurrection for the Jan. 6 Capitol riot, making him the first and only president to impeached and acquitted twice in history."
+    publishedDateTime: 2021-02-13T20:50:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9uMwOx2QkHw/trump-acquitted-in-second-impeachment-trial-for-inciting-jan-6-capitol-riot"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-acquitted-in-second-impeachment-trial-for-inciting-jan-6-capitol-riot.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-acquitted-in-second-impeachment-trial-for-inciting-jan-6-capitol-riot.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b4c0770d-995b-4898-a250-7b378ea42fd6/ecdb57ab-8b93-484b-8d25-059de3b87d58/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

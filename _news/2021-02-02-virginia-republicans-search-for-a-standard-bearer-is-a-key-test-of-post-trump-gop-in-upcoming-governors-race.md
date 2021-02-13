@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Democrats indicate they don't need Trump's testimony to make case at impeachment trial"
+    excerpt: "House Democrats prosecuting the case against Donald Trump are signaling privately and publicly they will likely avoid a dramatic showdown with the former President and are unlikely to issue a subpoena compelling his testimony.\n    \n"
+    publishedDateTime: 2021-02-05T18:16:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/q4jJn6WMdBk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/05/politics/senate-impeachment-trial-trump-witness/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/05/politics/senate-impeachment-trial-trump-witness/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106122844-02-trump-speaks-dc-protest-0106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Liz Cheney becomes latest House Republican to be censured by state party for her vote to impeach Trump "
     excerpt: "The Wyoming State Republican Party voted Saturday to formally censure Rep. Liz Cheney, the No. 3 Republican in the House, for her vote to impeach former President Donald Trump in the latest example of a state GOP punishing lawmakers who have bucked the former President.\n    \n"
     publishedDateTime: 2021-02-06T21:23:21Z
@@ -223,6 +239,22 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2021_05/3447408/210203-2x1-marjorie-taylor-greene-liz-cheney-ew-336p_ecadd80ffda389f9dff9c44761f02ec8.jpg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Full Panel: GOP splits between Trump and establishment wings"
+    excerpt: "David French, María Teresa Kumar, Anna Palmer and Michael Steele join the Meet the Press roundtable to discuss how Republicans and reckoning with party members who repeat disinformation and lies, plus the upcoming impeachment trial of former President Donald Trump."
+    publishedDateTime: 2021-02-07T14:51:00Z
+    webUrl: "https://www.nbcnews.com/meet-the-press/video/full-panel-gop-splits-between-trump-and-establishment-wings-100656197970"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo100656197970"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo100656197970"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202102/1612709173237_mtp_full_panel_210207_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "GOP Rep. Anthony Gonzalez risked his career to impeach Trump. He's not sorry."
     excerpt: "Under fire back home, the Ohio lawmaker may have lost his chance at a Senate seat and could face a House primary challenge next year."

@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden's immigration agenda is needed reform for some, 'perfect storm' for others"
+    excerpt: "As early as next week, border officials will begin allowing thousands of asylum seekers to cross the border into the U.S. -- a stark reversal of the Trump administraion policy that led more than 68,000 migrants to stay behind."
+    publishedDateTime: 2021-02-13T19:18:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9bwmJuI0ccs/bidens-immigration-agenda-needed-reform-some-perfect-storm-others"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-immigration-agenda-needed-reform-some-perfect-storm-others.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-immigration-agenda-needed-reform-some-perfect-storm-others.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/152bd415-4706-48b5-b952-9330dce68d33/d548aec7-b572-4973-9265-de0dd39491bd/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden admin erects tent city in Texas to handle influx of illegal immigrants"
     excerpt: "The Biden administration announced this week that it opened a soft-sided facility for immigrants in Donna, Texas, as Republican lawmakers warn of a “rising crisis” at the U.S.-Mexico border."
     publishedDateTime: 2021-02-11T00:00:00Z

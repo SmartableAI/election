@@ -32,85 +32,85 @@ images:
     isCached: true
 
 related:
-  - title: "Prosecutors in Georgia open criminal investigation into Trump's attempt to influence election results"
-    excerpt: "A prosecutor in Fulton County, Georgia, has opened a criminal investigation into former President Donald Trump for his \"attempts to influence the administration of the 2020 Georgia general election.\"\n    \n"
-    publishedDateTime: 2021-02-10T16:39:33Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wcAHrGrjdR8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/10/politics/trump-georgia-criminal-investigation-election/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/10/politics/trump-georgia-criminal-investigation-election/index.html"
+  - title: "Key Republican breaks with Trump: 'We shouldn't have followed him'"
+    excerpt: "Former ambassador to the UN Nikki Haley weighed in on Trump's legacy during an interview with Politico, saying that he had \"fallen so far\" and was likely out of the picture for 2024 presidential candidates. Former special assistant to President George H.W. Bush and president of the Council on Foreign"
+    publishedDateTime: 2021-02-12T18:35:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sUGrERbuGhY/nikki-haley-trump-election-richard-haass-nr-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/02/12/nikki-haley-trump-election-richard-haass-nr-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/02/12/nikki-haley-trump-election-richard-haass-nr-vpx.cnn"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210202104727-01-trump-file-2020-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/181009111215-18-nikki-haley-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Georgia secretary of state's office launches investigation into Trump's phone call "
-    excerpt: "The office of Georgia Secretary of State Brad Raffensperger confirmed to CNN on Monday that it has started an investigation into former President Donald Trump's attempts to overturn the state's election results, including a phone call the former President made to Raffensperger.\n    \n"
-    publishedDateTime: 2021-02-08T23:57:30Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-GS_Gn3iKsk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/08/politics/georgia-secretary-of-state-trump-investigation/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/08/politics/georgia-secretary-of-state-trump-investigation/index.html"
+  - title: "Nikki Haley criticizes Trump and says he has no future in the GOP"
+    excerpt: "Former US ambassador to the United Nations Nikki Haley directly criticized former President Donald Trump for his involvement stoking the US Capitol riot in a new interview, a notable condemnation from someone who is widely viewed as harboring presidential hopes in a party that is still in thrall to Trump.\n"
+    publishedDateTime: 2021-02-12T14:21:55Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RODB8-58pbI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/12/politics/nikki-haley-donald-trump-gop/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/12/politics/nikki-haley-donald-trump-gop/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 169
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210108062936-brad-raffensperger-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210212083106-file-nikki-haley-2020-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Georgia prosecutors launch criminal probe into Trump's efforts to overturn election results"
-    excerpt: "The investigation will look into the phone call Trump made to Georgia Secretary of State Brad Raffensperger in which Trump begged him to reverse Joe Biden's victory."
-    publishedDateTime: 2021-02-10T20:47:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/georgia-prosecutors-launch-criminal-probe-trump-s-efforts-overturn-biden-n1257272"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1257272"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1257272"
+  - title: "Of course Donald Trump's team didn't tell the truth about his Covid-19 illness"
+    excerpt: "Donald Trump was far sicker with Covid-19 than the White House physician or his top aides let on, even to the point where there were concerns that the then-President would have to be put on a ventilator to deal with the illness."
+    publishedDateTime: 2021-02-12T15:57:00Z
+    webUrl: "https://www.cnn.com/2021/02/12/politics/donald-trump-covid-19-sick-new-york-times/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/12/politics/donald-trump-covid-19-sick-new-york-times/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/12/politics/donald-trump-covid-19-sick-new-york-times/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 131
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201216162007-trump-white-house-1005-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Democrats rest case with a warning: Republicans risk the republic if they acquit Trump"
+    excerpt: "Analysis: House Democratic prosecutors asked Senate Republicans to consider the precedent they would set by approving of Trump's conduct."
+    publishedDateTime: 2021-02-12T14:47:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/democrats-rest-case-warning-republicans-risk-republic-if-they-acquit-n1257579"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1257579"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1257579"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 140
+    quality: 127
     images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2020_43/3419416/201012-georgia-early-voting-se-1232p_79c46a105227f1219a0bbeb22bc74a49.jpg"
+      - url: "https://media2.s-nbcnews.com/i/newscms/2021_06/3449574/210211-jamie-raskin-bw-ac-909p_93b993d3a3f387227e4532af9dd90e0e.jpg"
         width: 2500
-        height: 1667
+        height: 1528
         isCached: true
-  - title: "Georgia Officials Review Trump Phone Call as Scrutiny Intensifies"
-    excerpt: "The office of Georgia’s secretary of state, Brad Raffensperger, has initiated a fact-finding inquiry into Donald Trump’s January phone call to Mr. Raffensperger pressuring him to “find” votes."
-    publishedDateTime: 2021-02-08T22:33:00Z
-    webUrl: "https://www.nytimes.com/2021/02/08/us/politics/trump-georgia-election-investigation.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/08/us/politics/trump-georgia-election-investigation.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/08/us/politics/trump-georgia-election-investigation.amp.html"
+  - title: "'Constitutional cancel culture': Key takeaways from Day Four of Trump's impeachment trial"
+    excerpt: "Key takeaways from Day Four of Trump's impeachment trial Former President Donald Trump's lawyers put up a pugnacious if brief defense presentation in his impeachment trial Friday, saying his rally speech before the Capitol riot was \"ordinary political rhetoric\" and blasting the proceedings as a \"sham\" fueled by Democrats' \"political hatred\" for the ex-president."
+    publishedDateTime: 2021-02-13T01:09:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/constitutional-cancel-culture-key-takeaways-day-four-trump-s-impeachment-n1257677"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1257677"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1257677"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
+      name: NBC News
+      domain: nbcnews.com
+    quality: 126
     images:
-      - url: "https://static01.nyt.com/images/2021/01/26/us/politics/00HFOTrump-Georgiainvestigate/00HFOTrump-Georgiainvestigate-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "In Georgia, a New District Attorney Starts Circling Trump and His Allies"
-    excerpt: "Fani Willis has opened a criminal investigation into efforts by the Trump camp to overturn the former president’s loss in Georgia. In an interview, Ms. Willis described a wide-ranging inquiry."
-    publishedDateTime: 2021-02-13T10:00:00Z
-    webUrl: "https://www.nytimes.com/2021/02/13/us/politics/fani-willis-trump.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/13/us/politics/fani-willis-trump.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/13/us/politics/fani-willis-trump.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 134
-    images:
-      - url: "https://static01.nyt.com/images/2021/02/13/us/politics/13georgia-trump/13georgia-trump-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_06/3449863/210212-donald-trump-ac-656p_c5d5dac2fcaf8ae3271ab5be359bdcbe.jpg"
+        width: 2500
+        height: 1666
         isCached: true
 
 secured: "SKARKRB48rkimPQ4PFDbWVVUQ4bXxmzVXu8sm2ZnBYxjDTV1Lf9GLd7xL8S3UssyENz/stp92e2mNciwbfwsNueT9enFu4qCqtrg5XnztE66RJ9BjNYazXRbepe46AM+aMYzYIajmm/vtShQWv/UeV0AVbsz2u7+ED8LbBZWCfGFlCkaoPeQOQhqcBakj2+79L5XQTS+M80c5g7+fvJRaLSZXAHbCdAw28jJZqwk18l9AvEASjLXYAG2uNlq0awmy2FUgwp3G250uMVhW+jpnch9xAnucTiU7mu6iW4q1CprIgVo3ydJInrBEIiijui9PdXiV/Vd0ISnCwREdexuI4Wkyo3BW24dlzEhLRbBQYW/V7pMJwppQRQgq3t5b+Q6Yk3NuZMu3B3WF5O4RpNVnJZExFEO0udf6aqOXz+BrtH4s0UrZsASHfEqBCCLpzVJ5n4zRYAba9Xr5FIx3EZFRm4va+Wg/e26iAZhFPs1Qb8K4LKjcQNtwqSiprStQFPBcoWXd5UT5496UeFfGtOMPQ==;z5Wr7Xrr7HuPb5Qc/qH3Cw=="

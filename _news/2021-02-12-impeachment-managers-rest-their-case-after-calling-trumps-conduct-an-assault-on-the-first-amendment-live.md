@@ -41,6 +41,22 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Trump headed to swift acquittal after Democrats balk on impeachment witnesses"
+    excerpt: "The decision in the end to forego testimony all but ensured Trump’s acquittal without a full accounting of his actions on Jan. 6, revealing his continuing grip on the GOP and well as Democratic ambivalence over extending the trial."
+    publishedDateTime: 2021-02-13T20:41:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-acquitted-impeachment-riot/2021/02/13/dbf6b172-6e12-11eb-ba56-d7e2c8defa31_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-acquitted-impeachment-riot/2021/02/13/dbf6b172-6e12-11eb-ba56-d7e2c8defa31_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-acquitted-impeachment-riot/2021/02/13/dbf6b172-6e12-11eb-ba56-d7e2c8defa31_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 122
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JAIZYVDOG4I6XH4AHV3ENTQ3YA.jpg&w=1440"
+        width: 1106
+        height: 653
+        isCached: true
   - title: "Parental warnings, harrowing footage: Takeaways from Trump's impeachment trial"
     excerpt: "The U.S. Senate's impeachment trial gathered steam on Wednesday, with Democratic lawmakers laying out their evidence that former President Donald Trump incited an insurrection by exhorting thousands of supporters to march on the Capitol last month."
     publishedDateTime: 2021-02-11T02:36:00Z

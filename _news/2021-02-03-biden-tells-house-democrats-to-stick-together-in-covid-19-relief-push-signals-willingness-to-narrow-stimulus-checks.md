@@ -319,6 +319,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration to deploy approximately 1,000 troops to assist with Covid vaccination effort"
+    excerpt: "The Biden administration is expected to announce Friday that it will deploy approximately 1000 troops across the United States to assist with coronavirus vaccination efforts.\n    \n"
+    publishedDateTime: 2021-02-05T16:39:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NWGkydXSapk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/05/politics/pentagon-covid-vaccines/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/05/politics/pentagon-covid-vaccines/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210203202245-administers-a-pfizer-covid-19-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "READ: 10 Senate Republicans lay out concerns in letter to Biden after meeting on Covid-19 relief proposal"
     excerpt: "\n    \n"
     publishedDateTime: 2021-02-04T21:48:15Z
@@ -366,6 +382,22 @@ related:
       - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202102/ott_now_biden_meeting_210201_1920x1080.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Biden signs executive orders on family separation and asylum"
+    excerpt: "The actions, aimed at undoing the Trump immigration legacy, largely call for reviews, planning and recommendations — not necessarily new policies to implement."
+    publishedDateTime: 2021-02-04T01:41:00Z
+    webUrl: "https://www.politico.com/news/2021/02/02/biden-executive-orders-family-separation-464816"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/02/02/biden-executive-orders-family-separation-464816"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/02/02/biden-executive-orders-family-separation-464816"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/c3/1c/d92bc77e479e8437bde8fc281405/gettyimages-1230855431-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Biden White House settles into a rhythm amid pandemic hurdles"
     excerpt: "While Covid-19 precautions have kept many staff members at home, Biden has established a free-ranging style so far."

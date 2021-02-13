@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The Point: 5 takeaways from Day 4 of Donald Trump's impeachment trial"
+    excerpt: "After two days of House impeachment managers making their case for the conviction of Donald Trump on a charge of incitement, the former President's legal team got its chance on Friday.\n    \n"
+    publishedDateTime: 2021-02-12T21:11:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jLivcB9UCgM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/12/politics/donald-trump-impeachment-senate-trial/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/12/politics/donald-trump-impeachment-senate-trial/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210210174202-02-impeachment-2021-sketch-0210-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Arkansas Lt. Gov. Tim Griffin exits governor's race in a sign of Trump-backed Huckabee Sanders' strength"
     excerpt: "Arkansas Lt. Gov. Tim Griffin departed the 2022 governor's race Monday, opting instead to run for attorney general, in a move that signals former White House press secretary Sarah Huckabee Sanders' strength just two weeks after she announced her campaign.\n    \n"
     publishedDateTime: 2021-02-08T18:36:11Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-plans-depart-washington-in
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-plans-depart-washington-inauguration-day-morning-pence/story?id=75280643"
 type: article
 quality: 158
-heat: 5058
+heat: 5078
 published: true
 
 provider:
@@ -3547,6 +3547,20 @@ related:
       - url: "https://www.ajc.com/resizer/SRQzj6K4MUguN56Z2N9ZLF-9bXs=/1200x630/d1fegwn2wjh0cs.cloudfront.net/01-21-2021/t_7e4f7c2f3e414295abc26151b2ec2751_name_db4cec39bce7441c8283051b99b794d7"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Kamala Harris visits VA Medical Center in Washington"
+    excerpt: "U.S. Vice President Kamala Harris (C) and second gentleman Doug Emhoff pose for a group photo with health care workers as they visit the VA Center, a veteran's hospital, in Washington, DC on Saturday,"
+    publishedDateTime: 2021-02-13T20:22:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/17be06551a280e0a476d69b521f50115/Kamala-Harris-visits-VA-Medical-Center-in-Washington/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/17be06551a280e0a476d69b521f50115/HARRIS-VETERANS.jpg"
+        width: 650
+        height: 433
         isCached: true
   - title: "Alert: AP sources: Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
     excerpt: "Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance."

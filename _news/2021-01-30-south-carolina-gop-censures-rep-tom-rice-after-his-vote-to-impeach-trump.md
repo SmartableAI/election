@@ -223,38 +223,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "DOJ to ask Trump-appointed US attorneys to resign"
-    excerpt: "Distrust of Trump-era appointees led the Biden administration to appoint a career Justice Department official as acting attorney general while it waits for the US Senate to confirm Merrick Garland, the President's nominee to lead the department.\n    \n"
-    publishedDateTime: 2021-02-09T02:45:13Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MGBoBmInjaw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/08/politics/leftover-trump-us-attorneys/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/08/politics/leftover-trump-us-attorneys/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125124427-trump-doj-acting-attorney-plot-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump lawyer withdraws request not to have impeachment trial on Sabbath"
-    excerpt: "Former President Donald Trump's lawyer David Schoen is withdrawing his request to not hold the impeachment trial on the Jewish Sabbath, according to a person familiar with trial planning, which had altered the likely schedule for the proceedings.\n    \n"
-    publishedDateTime: 2021-02-09T02:25:40Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lixAyn3RhNA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/08/politics/sabbath-request-withdrawn-david-schoen/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/08/politics/sabbath-request-withdrawn-david-schoen/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191113111541-us-capitol-impeachment-hearing-1113-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Republicans bullish Trump isn't at risk of conviction in impeachment trial"
     excerpt: "Republican Senate leaders are increasingly confident that former President Donald Trump won't be at risk of conviction when his impeachment trial begins next month, expecting the votes to stay largely the same as Tuesday's 55-to-45 test vote over the constitutionality of the trial.\n    \n"
     publishedDateTime: 2021-01-27T18:29:08Z
