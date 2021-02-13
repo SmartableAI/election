@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/12/politics/dc-attorney-trump/index.
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/12/politics/dc-attorney-trump/index.html"
 type: article
 quality: 170
-heat: 210
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,37 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "How the Trump Era Broke the Sunday-Morning News Show"
-    excerpt: "Any number of hallowed political and media institutions fell apart. So why should the most hallowed political-media institution of them all escape unscathed?"
-    publishedDateTime: 2021-02-11T10:00:00Z
-    webUrl: "https://www.nytimes.com/2021/02/11/magazine/how-the-trump-era-broke-the-sunday-morning-news-show.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/11/magazine/how-the-trump-era-broke-the-sunday-morning-news-show.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/11/magazine/how-the-trump-era-broke-the-sunday-morning-news-show.amp.html"
+  - title: "Read Senate Majority Leader Chuck Schumer's speech following Trump's acquittal"
+    excerpt: "Senate Majority Leader Chuck Schumer spoke from the floor of the US Senate on Saturday, immediately following the historic vote to acquit former President Donald Trump at his second impeachment trial.\n    \n"
+    publishedDateTime: 2021-02-13T22:09:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GLjn3XhtNxw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/13/politics/schumer-speech-trump-acquittal/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/schumer-speech-trump-acquittal/index.html"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
+      name: CNN
+      domain: cnn.com
+    quality: 171
     images:
-      - url: "https://static01.nyt.com/images/2021/02/14/magazine/14mag-screenland/14mag-screenland-facebookJumbo-v2.jpg"
-        width: 1050
-        height: 549
-        isCached: true
-  - title: "In Georgia, a New District Attorney Starts Circling Trump and His Allies"
-    excerpt: "Fani Willis has opened a criminal investigation into efforts by the Trump camp to overturn the former president’s loss in Georgia. In an interview, Ms. Willis described a wide-ranging inquiry."
-    publishedDateTime: 2021-02-13T10:00:00Z
-    webUrl: "https://www.nytimes.com/2021/02/13/us/politics/fani-willis-trump.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/13/us/politics/fani-willis-trump.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/13/us/politics/fani-willis-trump.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 134
-    images:
-      - url: "https://static01.nyt.com/images/2021/02/13/us/politics/13georgia-trump/13georgia-trump-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210205121011-07-chuck-schumer-file-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "AqIIYFIXnNpFA8DoV93oU12Br2Z1EYwLidrL3f2tGmFFUG+K+IsIT9gy+ziaVV1cVwgr5eYhPhipaZS38YykkGt/gl+B+NzTKyuRv2v3v8LG8aHwAnEf0ztyImVh9q1a6YpOFfpdkeQad0FmBSD6CWvaNLCTynKHg0JQZVHECTFha3wkY3DtHXSM7uKDMHs47WNKmIcPJJ1cDP2umVkEbprnnOTJI/5HepQTAOizHmiTParlNjds/HO2m45CrfmgbClmFWDCEpM1XmC4JxuXgGmsH8lagwO/4FpwobjKthgXIJTzjWhnPWlFEFE1kjuqBntYPouMu37pe6iQmxtmKBOpznDUIf/5NEdGz4gMo3s=;O+0JMrU3wWNGJhT0Pam05A=="

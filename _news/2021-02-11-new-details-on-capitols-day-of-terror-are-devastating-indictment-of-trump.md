@@ -271,6 +271,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "These Republicans voted to convict Trump in his second impeachment trial"
+    excerpt: "Seven Republican senators joined with Democrats in voting to convict and declare former President Donald Trump guilty at the conclusion of his second impeachment trial.\n    \n"
+    publishedDateTime: 2021-02-13T22:15:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8qsqGqYEMMs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/13/politics/republican-votes-trump-guilty-convict-impeachment/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/republican-votes-trump-guilty-convict-impeachment/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210213162828-20210213-gop-voted-to-convict-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: Millions who likely voted for Trump want him barred from future office"
     excerpt: "It is common that many politicians grow more popular once they leave office. That has not been the case for former President Donald Trump.\n    \n"
     publishedDateTime: 2021-02-08T01:55:02Z

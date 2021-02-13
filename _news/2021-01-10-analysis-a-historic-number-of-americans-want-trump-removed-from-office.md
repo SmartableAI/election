@@ -255,6 +255,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Why most GOP senators are standing by Trump "
+    excerpt: "A lot of critics of former President Donald Trump want GOP senators to \"show some spine.\" They think the big reason they have stayed with Trump through impeachment is because they're scared of him.\n    \n"
+    publishedDateTime: 2021-02-13T22:34:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fmcp4i-YYQc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/13/politics/gop-senators-trump-impeachment/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/gop-senators-trump-impeachment/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210211174740-106-trump-impeachment-centered-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: Trump's 'pro-law enforcement' image crumbles in his final days"
     excerpt: "A President who has repeatedly touted himself as pro-law enforcement is now being accused of fueling a growing threat of extremists that has law enforcement officials across the nation on high alert.\n    \n"
     publishedDateTime: 2021-01-16T16:32:14Z

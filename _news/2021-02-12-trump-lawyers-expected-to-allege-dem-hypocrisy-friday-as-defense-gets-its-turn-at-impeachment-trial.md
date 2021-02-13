@@ -319,6 +319,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "McConnell rips Trump, says actions 'unconscionable' but trial was unconstitutional"
+    excerpt: "Senate Minority Leader Mitch McConnell on Saturday said that former President Donald Trump's actions after the presidential election were \"unconscionable\" despite his vote to acquit the former president of the impeachment charge against him. "
+    publishedDateTime: 2021-02-13T21:50:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7sBFmcOv9v4/mcconnell-rips-trump-says-actions-unconscionable-but-trial-was-unconstitutional"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-rips-trump-says-actions-unconscionable-but-trial-was-unconstitutional.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-rips-trump-says-actions-unconscionable-but-trial-was-unconstitutional.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "The seven most memorable moments from Friday's session of Trump's impeachment trial"
     excerpt: "Impeachment proceedings against former President Donald Trump neared their conclusion Friday as his lawyers delivered their closing arguments in his defense."
     publishedDateTime: 2021-02-13T01:05:07Z
@@ -444,6 +460,22 @@ related:
     quality: 166
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump celebrates acquittal in Senate trial, foreshadows political future: 'Much to share'"
+    excerpt: "Former President Donald Trump on Saturday thanked his lawyers and senators who voted against his impeachment conviction and foreshadowed his political future in a statement following the 57-43 Senate vote to acquit him of inciting an insurrection. "
+    publishedDateTime: 2021-02-13T21:12:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yc4ra3x6ws4/trump-statement-impeachment-acquittal"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-statement-impeachment-acquittal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-statement-impeachment-acquittal.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
@@ -684,6 +716,22 @@ related:
     quality: 159
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8f3cf815-d8c6-4713-841c-e44fee3a2249/d7f9facc-1c08-4b77-a1ed-a2e034084e3c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Pelosi blasts McConnell and 'cowardly group of Republicans' in Senate after Trump impeachment acquittal"
+    excerpt: "House Speaker Nancy Pelosi, D-Calif., blasted Senate Republicans as cowards who refused to stand up to former President Trump and find him guilty in the impeachment trial."
+    publishedDateTime: 2021-02-13T22:31:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Zi5DGZBecbI/pelosi-blasts-mcconnell-and-cowardly-group-of-republicans-in-senate-after-trump-impeachment-acquittal"
+    ampWebUrl: "https://www.foxnews.com/politics/pelosi-blasts-mcconnell-and-cowardly-group-of-republicans-in-senate-after-trump-impeachment-acquittal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-blasts-mcconnell-and-cowardly-group-of-republicans-in-senate-after-trump-impeachment-acquittal.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e707def1-cb02-46ed-8a29-b11cedc07d47/64c77e8b-0a95-4028-ab57-35c0267f98eb/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

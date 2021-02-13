@@ -45,22 +45,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Trump impeachment: Senate to hear prosecution arguments against former president – live"
-    excerpt: "Senate convenes at noon for impeachment managers to lay out argument to convict Donald Trump of ‘incitement of insurrection’"
-    publishedDateTime: 2021-02-10T11:17:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/10/donald-trump-impeachment-senate-trial-live-news-updates"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/10/donald-trump-impeachment-senate-trial-live-news-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/10/donald-trump-impeachment-senate-trial-live-news-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 117
-    images:
-      - url: "https://i.guim.co.uk/img/media/7d3e06af8edce2c72744e22eed1328dd95be3b46/0_0_3500_2334/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7a954cf6bba0111e0635cae7cace422e"
-        width: 600
-        height: 400
-        isCached: true
   - title: "Impeachment managers to demonstrate Trump's 'lack of remorse' over Capitol riot – live"
     excerpt: "Impeachment managers to conclude prosecution, arguing Trump is guilty of ‘most grievous constitutional crime ever committed’ by a US president"
     publishedDateTime: 2021-02-11T16:51:00Z

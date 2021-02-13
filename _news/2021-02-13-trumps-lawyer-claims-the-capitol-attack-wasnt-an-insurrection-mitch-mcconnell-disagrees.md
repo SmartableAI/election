@@ -63,6 +63,38 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "After voting to acquit, McConnell condemns Donald Trump and calls him ‘practically and morally responsible’ for riot"
+    excerpt: "After voting to acquit, McConnell condemns Donald Trump and calls him ‘practically and morally responsible’ for riot"
+    publishedDateTime: 2021-02-13T21:23:00Z
+    webUrl: "https://www.washingtonpost.com/politics/after-voting-to-acquit-mcconnell-condemns-donald-trump-and-calls-him-practically-and-morally-responsible-for-riot/2021/02/13/6928c6f6-6e41-11eb-a66e-e27046e9e898_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/after-voting-to-acquit-mcconnell-condemns-donald-trump-and-calls-him-practically-and-morally-responsible-for-riot/2021/02/13/6928c6f6-6e41-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/after-voting-to-acquit-mcconnell-condemns-donald-trump-and-calls-him-practically-and-morally-responsible-for-riot/2021/02/13/6928c6f6-6e41-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 102
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Sen. Mitch McConnell rips Trump as ‘disgraceful’ but defends his impeachment acquittal vote"
+    excerpt: "The powerful GOP Minority Leader excoriated Trump for “provoking” the violent attack on the Capitol on Jan. 6."
+    publishedDateTime: 2021-02-13T22:56:00Z
+    webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-mitch-mcconnell-trump-impeachment-acquittal-20210213-b7o5iryv5neczksursutiaomim-story.html"
+    ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-mitch-mcconnell-trump-impeachment-acquittal-20210213-b7o5iryv5neczksursutiaomim-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-mitch-mcconnell-trump-impeachment-acquittal-20210213-b7o5iryv5neczksursutiaomim-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 65
+    images:
+      - url: "https://www.nydailynews.com/resizer/98z6t3Xvz8hmRuNjSDr-HhEDeIo=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/4NKZP34GURFBPMCENC45ALPCYY.JPG"
+        width: 1200
+        height: 768
+        isCached: true
 
 secured: "5sac7zJ7F4Zl+HBWOcGcJ+2xrxtttDRlnxxmS46YUgK//P8fLaJlDPA91b2gxku+Ro+vlg3xyggwH5LsIE9THYGLL3rOpfoci0MY3aKQgZyyYaiT+a7OkJECNRjuz7ftsQETmQC8icTONkWWkIQpfzhV9n9oUYLFuUUL7X7qC6Nhg0HhX4SQIu5y+6TAGs422ap5o3BI5jJ4+7hftUOl1ZT8Q3ewtX3JJOJ113CK5wRtJjiJNaZZfhhlISMxDVwmqEmTWWzTSq0Gdqbpu8fxpPf9P90eOOi6PpdfzIJNezECn69d1/GNCJBhQUSwzl66Pyihzzpd3brkVLGdxxL3o0R0Ckuct1+Boez3f8vz4N8Tv1e8EA7KP4hV9sbTUtBt+8Xv3loDlfmsBePBk4f7JO7c2MTjSr/kE1OBfegOtQIQ/BF69fvjkRcE4QfKJoq50HFFU+CmEo/FSbjtV4da7Qx2IUUKN5X8iplHgZNvLIOwi0OR+I1J29OXU6g+J/5F7+bgkOzHkij9B+gZOOMGKQ==;CdbnNjCXbJRqQiAyIdoujQ=="
 ---

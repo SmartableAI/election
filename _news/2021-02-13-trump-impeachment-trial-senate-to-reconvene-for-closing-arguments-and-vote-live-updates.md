@@ -130,7 +130,7 @@ related:
   - title: "Donald Trump impeachment: Senate trial expected to vote to acquit today – live updates"
     excerpt: "Each legal team will have two hours to restate their case before Senate likely votes to acquit Donald Trump"
     publishedDateTime: 2021-02-13T15:33:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/13/donald-trump-impeachment-senate-trial-vote-verdict-live-updates?page=with:block-6027f0f48f08d7b7c03d222f"
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/13/donald-trump-impeachment-senate-trial-vote-verdict-live-updates?page=with:block-6027e8668f08b555964bd970"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/13/donald-trump-impeachment-senate-trial-vote-verdict-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/13/donald-trump-impeachment-senate-trial-vote-verdict-live-updates"
     type: article
@@ -139,7 +139,7 @@ related:
       domain: theguardian.com
     quality: 117
     images:
-      - url: "https://i.guim.co.uk/img/media/0d03caf83926a33d4c09261bbb2fcb46379c72e0/87_0_2635_1582/master/2635.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=37f4ae2746c7816f5b3182be8c19ffc5"
+      - url: "https://i.guim.co.uk/img/media/e1bcc9a299e588df34202fe396e33481b977e6f2/40_0_1200_720/master/1200.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8072fef13e92ed6ee8018856576c0fc1"
         width: 600
         height: 360
         isCached: true
@@ -174,6 +174,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/46d9743bc2e91cf0102be98cc16b82fd8ecbc739/112_0_2635_1582/master/2635.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4148aa8ba4482f29017832f5602b0a91"
         width: 600
         height: 360
+        isCached: true
+  - title: "Senate votes to consider witnesses in Donald Trump’s impeachment case, potentially extending trial"
+    excerpt: "Senate votes to consider witnesses in Donald Trump’s impeachment case, potentially extending trial. Copyright 2021 The Associated Press. All rights reserved. This material may not be published, broadcast,"
+    publishedDateTime: 2021-02-13T20:38:00Z
+    webUrl: "https://www.washingtonpost.com/politics/senate-votes-to-consider-witnesses-in-donald-trumps-impeachment-case-potentially-extending-trial/2021/02/13/7da0c14a-6e11-11eb-a66e-e27046e9e898_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/senate-votes-to-consider-witnesses-in-donald-trumps-impeachment-case-potentially-extending-trial/2021/02/13/7da0c14a-6e11-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/senate-votes-to-consider-witnesses-in-donald-trumps-impeachment-case-potentially-extending-trial/2021/02/13/7da0c14a-6e11-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 111
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Live Updates: Democrats to show unseen footage of Capitol attack on Day 2 of Trump impeachment trial"
     excerpt: "House impeachment managers plan to use \"extraordinary\" footage from Capitol security cameras that has not been made public, aides said."
@@ -266,6 +282,24 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 86
+  - title: "Heinrich, Lujan Vote to Convict Trump in Impeachment Trial"
+    excerpt: "Former President Donald Trump’s second impeachment trial ended Saturday with an acquittal as both of New Mexico’s two Democratic senators voted in a majority that fell short of the two-thirds needed for conviction."
+    publishedDateTime: 2021-02-13T22:57:00Z
+    webUrl: "https://www.usnews.com/news/best-states/new-mexico/articles/2021-02-13/heinrich-lujan-vote-to-convict-trump-in-impeachment-trial"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
+  - title: "Nevada Senators Vote to Convict Trump in Impeachment Trial"
+    excerpt: "Former President Donald Trump’s second impeachment trial ended Saturday with an acquittal as both of Nevada’s two Democratic senators voted in a majority that fell short of the two-thirds needed for conviction."
+    publishedDateTime: 2021-02-13T22:57:00Z
+    webUrl: "https://www.usnews.com/news/best-states/nevada/articles/2021-02-13/nevada-senators-vote-to-convict-trump-in-impeachment-trial"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "zEbXv6tLX27YnwH0wn5FpOiaW+XTiA/Cn6+lYxsNOI168YPg/t8E1BZBmvg0B5+MbHkq3rafzzAHuZs4TGvApdQyBpYjqCodev+RUVcC6eR8GyFQi3jLwpK/2gLbWqqGkwnwzrdsNUFSs+5Ji9SO8QMQY6V6Tgeyy52dUQYtnz4diXi2XpbdO8dUyM61bvHVvU3esfb1oasbjbFQSVbB+D3rMGggIF8bnAH7H16wwVl/EK+8tjIt1nNov84dm4ETEYhghUh7cV7chI27jM5Mrt7dH++T30gHIYiDEVuTKFXsnIDUeNLD35RE3Yc9ucTQkli21SQocaWHJfippT+sOGh4eO/MatXi+ixCiD/XNaNMeCjSjsPJsVJC814CwHV3ja+vRfOGIkH42/gLrtJkQnnYxHi0PsQRWuBLk9IlfeHe1GRCPBiekvNQ8CG8XP11w7oaH1B9QIBlmg/6oV0z7ElKYTCkUe0/agAUzhgw1Gi/diAGOXbh1pcAPhVe5m1dQ0G2w5bZ16kMBlSe9pbJ7Q==;l3YxOWcHK0v9BiqUXG7pzQ=="
 ---

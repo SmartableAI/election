@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "This is Trump's heaping list of legal problems post-impeachment  "
+    excerpt: "After averting a conviction in his second impeachment trial, former President Donald Trump faces significant new legal threats as prosecutors in Georgia have joined those in New York to conduct criminal investigations into his actions.\n    \n"
+    publishedDateTime: 2021-02-13T22:39:53Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BNW1zsEIlHQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/13/politics/trump-legal-problems-post-impeachment/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/trump-legal-problems-post-impeachment/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210211174740-106-trump-impeachment-centered-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Inside the Senate: Sketches from a dramatic Day 5 of the Trump impeachment trial"
     excerpt: "Senators voted on a surprise move by the House managers on Saturday to allow for witnesses in the impeachment trial of former President Donald Trump.\n    \n"
     publishedDateTime: 2021-02-13T20:10:09Z
@@ -397,6 +413,6 @@ related:
         height: 550
         isCached: true
 
-secured: "KZG/Es8BwS6O3wpeDLPqvQaNDCFQ94NCFPMJjvcWeWa3PoHC51hLFLPW9OT3EcDx5qvV9/U/48vHCNt6cW0SKCybXs1tMuC5qbN3uScemA3t1PKyYFie8phgQGw3ye7+aEC6vwidgyxcDDBT/brK0NcLIdzedCTOBCIlWzR3BZlm69qTDF+fSCB5aW/CfCVsHs8b18ROiM9iDn7OrmQlfEsPxPHTnH2hAS9JBxf0bff4RpHUizaS/3Mn3G18DWHW0ERkMWsLEnDAyKPVly2rEEPDjByVLHCEsTIBfm/kDe4UEmLV9vwX7dMRo0SakaPqHhJiyI+ffYNesFstTunzxdRPn5SsOhmrybOeOX6EdWE=;B4X6ccS9o1/1Gc5/PsoM7Q=="
+secured: "79QKbAdjbkhOIG4MDsGaAEWGI4GILpTb27I3ZubBUqQ0cvxAlL3Pns/wli/2lG9o2GnFkE2RyiXwOc+ZKglrlds7fH+lgtKCZeZXLII756GNx4sF+kIVIAeTpjme8jCt6+tHtpCF1OXj8TjX6QIb+b9eVr1b8cWS2SeBKK/e+Ho+kscADD/j5JkuJPaL23qdY/folR1wBV8QLWY3yQ49fwxxBwJW1is0snDBf8yAfXZ5lecgDNwl6tVYkFvl+AvvVvaPah7OMsQzAoz7bBwML8tn5tjXagwfiPxT8qvO0b387gbww1ekdt3lWRW4cIqwxr0GJbUoUjYpXrkCrSpyqwoeRCC1jTHmYN0Yzm+phnv7FJGCjC2bFP8ZvgWOUNF0luyTi3PIAmihrGXqzB3s8uHl3esf2CS8lxacsUNeQbZXFvy9ReHzRvbQ29KQSz45bWumavoBvo81MG51r+o5fRwCHvL0VhWPgFWslrhKQE3uFD1clX6gJydrvbVcYXhKtkkV5kp6/Ag/A0PU8cLm0w==;F4gOAZMG6xsE2VQxoI76ZA=="
 ---
 

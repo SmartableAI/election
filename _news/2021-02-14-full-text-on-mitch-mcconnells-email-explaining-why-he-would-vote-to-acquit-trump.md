@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/full-text-mitch-mcconnells-email-explaining
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/full-text-mitch-mcconnells-email-explaining-why-he-would-vote-acquit-trump-1569064?amp=1"
 type: article
 quality: 120
-heat: 160
+heat: 200
 published: true
 
 provider:
@@ -62,6 +62,38 @@ related:
       - url: "https://i.insider.com/6026e713b3c2a800183ccb49?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "After voting to acquit, McConnell condemns Donald Trump and calls him ‘practically and morally responsible’ for riot"
+    excerpt: "After voting to acquit, McConnell condemns Donald Trump and calls him ‘practically and morally responsible’ for riot"
+    publishedDateTime: 2021-02-13T21:23:00Z
+    webUrl: "https://www.washingtonpost.com/politics/after-voting-to-acquit-mcconnell-condemns-donald-trump-and-calls-him-practically-and-morally-responsible-for-riot/2021/02/13/6928c6f6-6e41-11eb-a66e-e27046e9e898_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/after-voting-to-acquit-mcconnell-condemns-donald-trump-and-calls-him-practically-and-morally-responsible-for-riot/2021/02/13/6928c6f6-6e41-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/after-voting-to-acquit-mcconnell-condemns-donald-trump-and-calls-him-practically-and-morally-responsible-for-riot/2021/02/13/6928c6f6-6e41-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 102
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Sen. Mitch McConnell rips Trump as ‘disgraceful’ but defends his impeachment acquittal vote"
+    excerpt: "The powerful GOP Minority Leader excoriated Trump for “provoking” the violent attack on the Capitol on Jan. 6."
+    publishedDateTime: 2021-02-13T22:56:00Z
+    webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-mitch-mcconnell-trump-impeachment-acquittal-20210213-b7o5iryv5neczksursutiaomim-story.html"
+    ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-mitch-mcconnell-trump-impeachment-acquittal-20210213-b7o5iryv5neczksursutiaomim-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-mitch-mcconnell-trump-impeachment-acquittal-20210213-b7o5iryv5neczksursutiaomim-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 65
+    images:
+      - url: "https://www.nydailynews.com/resizer/98z6t3Xvz8hmRuNjSDr-HhEDeIo=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/4NKZP34GURFBPMCENC45ALPCYY.JPG"
+        width: 1200
+        height: 768
         isCached: true
 
 secured: "29Fuwt0rbatgufafb/A4CpxNZgzoXVo6FKra6frneYLRpNqDytIW60u705aVX25H8utmY8MnpxHNEu38pFrYm8hTClZkhCy5bzTYnsXuX/PT4m4LTCUd5S6egUXUOOdAgcpQtqZkNpPS1Bn6Dat7iICKjF9pbpJOcbkIXQ9ULXH4Obzx/UUhfGdXg6dfLbdpJS4tLd4sFSycWtR9aI8QRmOsWjV3EA+y3EH1tJxyzsCfwbact1wl8IfGRhikx9HhEtaaxgKRYimlPMekcnEU4sY5+K4zs5D2Jx3Uq7j4yBbz1b1kY/v93Jg0gQgXXdsPRWkZPLEFIHZPcdfPzAT4Ayp3SvjDFjGCfpe5dZdhf/8=;hD3ml9BV9ol1sdzdazqKmQ=="
