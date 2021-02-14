@@ -1,0 +1,85 @@
+---
+category: news
+title: "GOP Sen. Cassidy: Trump’s 'force wanes' following Capitol riot"
+excerpt: "Sen. Bill Cassidy, R-La., one of seven Senate Republicans who voted to convict former President Trump in his second impeachment trial, said on Sunday that he believes Trump’s “force wanes,” arguing that the Republican Party wants “a leader who’s accountable and a leader who they can trust.”"
+publishedDateTime: 2021-02-14T21:42:57Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TAKo99kjvHg/gop-sen-cassidy-trumps-force-wanes-following-senate-impeachment-trial"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TAKo99kjvHg/gop-sen-cassidy-trumps-force-wanes-following-senate-impeachment-trial"
+ampWebUrl: "https://www.foxnews.com/politics/gop-sen-cassidy-trumps-force-wanes-following-senate-impeachment-trial.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-sen-cassidy-trumps-force-wanes-following-senate-impeachment-trial.amp"
+type: article
+quality: 175
+heat: 235
+published: true
+
+provider:
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Republican Voice
+
+images:
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+    width: 340
+    height: 340
+    isCached: true
+
+related:
+  - title: "Graham: McConnell 'put a load on Republicans' back' with anti-Trump speech"
+    excerpt: "Sen. Lindsey Graham, R-S.C., called out Senate Minority Leader Mitch McConnell for speaking out against former President Donald Trump after voting to acquit Trump at his impeachment trial."
+    publishedDateTime: 2021-02-14T15:27:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cf1fg_Ao2fQ/graham-mcconnell-anti-trump-speech"
+    ampWebUrl: "https://www.foxnews.com/politics/graham-mcconnell-anti-trump-speech.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/graham-mcconnell-anti-trump-speech.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b66a74cb-363c-4de7-926e-27d09edbeac7/a6fa7d29-9a47-4907-9397-422056e57fe2/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump will 'have a place in history' for Capitol riot but remains 'most popular figure' in GOP: Graham"
+    excerpt: "Former President Donald Trump will \"have a place in history\" for his role leading up to the riot at the U.S. Capitol last month, but he stills remains the \"most popular figure\" in the Republican Party, Sen. Lindsey Graham said Sunday."
+    publishedDateTime: 2021-02-07T19:23:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0ZvgKYTo-L8/trump-impeachment-capitol-riot-most-popular-figure-gop-lindsey-graham"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-capitol-riot-most-popular-figure-gop-lindsey-graham.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-capitol-riot-most-popular-figure-gop-lindsey-graham.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ce0ff8aa-4ebc-4f0a-b188-e29d6303380f/f2169d82-7384-44cf-93f0-ae8b40aab209/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Pence reportedly 'angry' at Trump for not asking about his safety during Capitol riot: Chris Wallace"
+    excerpt: "Former Vice President Mike Pence feels \"residual bitterness\" toward former President Donald Trump over his lack of concern for Pence's safety during the deadly Jan. 6 riot at the Capitol, \"Fox News Sunday\" host Chris Wallace told \"The Story\" on Wednesday."
+    publishedDateTime: 2021-02-10T23:15:00Z
+    webUrl: "https://www.foxnews.com/media/wallace-pence-trump-capitol-riot-safety-impeachment-trial"
+    ampWebUrl: "https://www.foxnews.com/media/wallace-pence-trump-capitol-riot-safety-impeachment-trial.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/wallace-pence-trump-capitol-riot-safety-impeachment-trial.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/09d1af85-4b2e-4ebf-acac-7dba297fe264/cde0ffc2-c0b5-4886-9ef0-8e6de836adaf/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+
+secured: "KXxYRLNW/nJQ72PkhAhw+kFj17suISTGvpfb+B98OxFMvVk5a+R3d8CDxW/m4KVIz/hfkj1DbNRATEfNu5Esy8KyDU9P0iWIybVoQs6hJo9MVRP97v2hKMZil/sxW8HuAPJmWMYgl1eY4Joj2xnoAgpDAvhhfqm1NTn6SL68WlaHrUJP1FFhcoMiiM0YxrLnY88qcSPBzjgygQDEpIkqWzjc7mrZCEm5mb1rI8+nPXatnmoXk69sNw599fbwTeSgbcW/D+WNCv5oB9QFnQUA0P/F0jkMvrY6gsQAyuMoOhU4gNALcwDuGflwQ0xuC9tYbO70EQ9QPYNrB6+VYGSkk6nBWrRG4YRInE94smB0qIA=;RQASfTSygiR5SvGpTL+EIA=="
+---
+

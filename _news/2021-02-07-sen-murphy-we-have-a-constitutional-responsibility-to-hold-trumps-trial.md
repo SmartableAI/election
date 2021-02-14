@@ -223,6 +223,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Eric Swalwell says God is a woman while discussing Trump impeachment trial"
+    excerpt: "Rep. Eric Swalwell, D-Calif., on Sunday suggested that God is a woman while discussing the impeachment trial against former President Donald Trump."
+    publishedDateTime: 2021-02-14T22:35:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yRxTrrXjNrc/eric-swalwell-god-woman-trump-impeachment-trial"
+    ampWebUrl: "https://www.foxnews.com/politics/eric-swalwell-god-woman-trump-impeachment-trial.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/eric-swalwell-god-woman-trump-impeachment-trial.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/12f4f065-AP21041820921336.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "The five biggest moments from Wednesday's session of Trump's impeachment trial"
     excerpt: "House impeachment managers made their case Wednesday for convicting former President Trump Wednesday, bringing up dramatic new security footage to tie Trump’s words to the Jan. 6 Capitol riot and the threat it posed to lawmakers and police. "
     publishedDateTime: 2021-02-11T01:20:00Z

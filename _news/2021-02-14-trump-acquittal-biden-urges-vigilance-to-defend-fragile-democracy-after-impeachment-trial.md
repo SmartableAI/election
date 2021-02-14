@@ -2,9 +2,9 @@
 category: news
 title: "Trump acquittal: Biden urges vigilance to defend 'fragile' democracy after impeachment trial"
 excerpt: "President says the substance of the charge against Donald Trump over the January attack on US Capitol is not in dispute"
-publishedDateTime: 2021-02-14T08:21:00Z
-originalUrl: "https://www.theguardian.com/us-news/2021/feb/14/trump-acquittal-biden-urges-vigilance-to-defend-fragile-democracy-after-impeachment-trial?CMP=oth_b-aplnews_d-1"
-webUrl: "https://www.theguardian.com/us-news/2021/feb/14/trump-acquittal-biden-urges-vigilance-to-defend-fragile-democracy-after-impeachment-trial?CMP=oth_b-aplnews_d-1"
+publishedDateTime: 2021-02-14T10:21:00Z
+originalUrl: "https://www.theguardian.com/us-news/2021/feb/14/trump-acquittal-biden-urges-vigilance-to-defend-fragile-democracy-after-impeachment-trial"
+webUrl: "https://www.theguardian.com/us-news/2021/feb/14/trump-acquittal-biden-urges-vigilance-to-defend-fragile-democracy-after-impeachment-trial"
 ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/14/trump-acquittal-biden-urges-vigilance-to-defend-fragile-democracy-after-impeachment-trial"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/14/trump-acquittal-biden-urges-vigilance-to-defend-fragile-democracy-after-impeachment-trial"
 type: article
@@ -991,6 +991,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Trump impeachment: divided reaction in US after former president acquitted – as it happened"
+    excerpt: "Senate reflects split opinion across US over Capitol attack impeachment"
+    publishedDateTime: 2021-02-14T22:50:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/14/donald-trump-impeachment-acquitted-senate-trial-joe-biden-live-updates?page=with:block-60298fd38f0886db2aba992d"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/14/donald-trump-impeachment-acquitted-senate-trial-joe-biden-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/14/donald-trump-impeachment-acquitted-senate-trial-joe-biden-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 115
+    images:
+      - url: "https://i.guim.co.uk/img/media/f3e62d78d38afd5078732a14b1aa4fa84314cd09/0_248_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=00475ae5fcc1daa1235b59cea71f8ea7"
+        width: 600
+        height: 360
+        isCached: true
   - title: "LIVE: Oral arguments set to kick off in Trump's Senate impeachment trial over the Capitol siege"
     excerpt: "Oral arguments will kick off Wednesday as Trump's defense team regroups from a brutal first day of the Senate impeachment trial."
     publishedDateTime: 2021-02-10T16:47:00Z
@@ -1695,6 +1711,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "With Republican Firewall, U.S. Senate Acquits Trump of Inciting Deadly Capitol Riot"
+    excerpt: "Donald Trump's second impeachment trial could conclude on Saturday, leaving a divided U.S. Senate to decide whether the former president incited his supporters to attack the U.S. Capitol on Jan. 6 in a last-ditch effort to stay in power after his November election defeat."
+    publishedDateTime: 2021-02-14T22:19:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-02-13/trump-impeachment-trial-could-wrap-up-on-saturday-conviction-seen-unlikely"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-02-13/trump-impeachment-trial-could-wrap-up-on-saturday-conviction-seen-unlikely?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-02-13/trump-impeachment-trial-could-wrap-up-on-saturday-conviction-seen-unlikely?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
   - title: "Heinrich, Lujan Vote to Convict Trump in Impeachment Trial"
     excerpt: "Former President Donald Trump’s second impeachment trial ended Saturday with an acquittal as both of New Mexico’s two Democratic senators voted in a majority that fell short of the two-thirds needed for conviction."
     publishedDateTime: 2021-02-13T22:57:00Z
@@ -1714,6 +1741,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "DloAiZiX/coItnlnOurwL/U/sf/EHHtbwGkwZi4z2dFHdu23n3TtoiBsA+qjk2fpgkjwFNqgPXk2/GSdauR514SUOVG0Fzo64Foy3hobnnOT3d2Ni7HmkQKhtrHbR37ruOQ5I0d9HPo4segNEgKh+whMcAz/ZZMMYnK5AM+nPZhh/13UoRHv9jFpYMWUn7ZiPhMXp8nlEH5r0t8NOLkLhFTyUi6ZMKtX0IOj37KiOdpNbjYgD7m85oQFmQdBhntlrjBaODg1b32EWlyuoukvDXvAIBOrpZPRs8hswRtHimsixikL6JxljOjKev0q+oe6D7pu9MfB+UFL2c9gKmrss1rikGSCGI0PSzEw6cznkVE4p42BpK0FqQDkOV6jebreJpTTJ94jjNbBnEnh7KuqXaNFU7nIXKkhP9RAeuCnsbDesAPubm+mDsrgmATfRvU6znyKkkDqmG8p/UDNkN4JFQCcGyl/RLyS0DIQtlqwI45V6kMikaLEb5ky8sfPChldbnOm/IF6bQaKcZs4gH4iPg==;2hBJ702ydeN7wVQVbudutg=="
+secured: "ZXo7ul6SvcTJ8cS10R8lvq85qnbOaeXZobis2iRR8X1N3TwRYZtpXoqHzuYJMbXiLkg6cIcHadLb4WpsytHv+kyUctrZEUJSPukJJELjyb7xGFFGFUaubCf/qQTIUsAGvOt3jUwsBEF1m+WHjMjW9qwl+OVhXCXtDGn5kWdzzsSpdS7GeyuraVWLNSnlbccLgL9aYwNeCfn0baAT+esNKoM2QU7CrYhGyYoCAver4IWuJFwOO60+ZG9AJY44qHfTZbdJpAPfYh7trwgMFUTSJps7PhUkBCuLVEngyALV/ZSxt2uXlnQ9kUk25NaivsCJ5fQiG0OsHyz13TOlxf4t0q8vavRaJqZtXXXkSgg8aF0=;02yTBW0LRE1nBImJg2VimQ=="
 ---
 
