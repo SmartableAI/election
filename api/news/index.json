@@ -2,6 +2,333 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-14-trump-impeachment-trial-biden-warns-democracy-is-fragile.md",
+      "title": "Trump impeachment trial: Biden warns democracy is fragile",
+      "excerpt": "US President Joe Biden has called his predecessor Donald Trump's acquittal for inciting mob violence a reminder that \"democracy is fragile\". A majority of senators voted to convict Mr Trump but the numbers fell short of the two-thirds required to do so.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/world-us-canada-56061100",
+      "originalUrl": "https://www.bbc.com/news/world-us-canada-56061100",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 2180,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/311E/production/_116947521_mediaitem116947520.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/amp/world-us-canada-56061100",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-56061100",
+      "publishedDateTime": "2021-02-14T04:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-14-rep-marjorie-taylor-greene-accused-of-threatening-gop-colleague-with-warning-that-millions-of-trump-supporters-are-watching-her.md",
+      "title": "Rep. Marjorie Taylor Greene accused of threatening GOP colleague with warning that millions of Trump supporters 'are watching' her",
+      "excerpt": "\"The Trump loyal 75 million are watching\" Rep. Greene tweeted about Rep. Herrera Beutler after it emerged she had evidence damaging to Trump's defense.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/impeachment-rep-greene-accused-of-menacing-gop-colleague-in-tweet-2021-2",
+      "originalUrl": "https://www.businessinsider.com/impeachment-rep-greene-accused-of-menacing-gop-colleague-in-tweet-2021-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/602909702edd0f001a8d5ba4?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/impeachment-rep-greene-accused-of-menacing-gop-colleague-in-tweet-2021-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/impeachment-rep-greene-accused-of-menacing-gop-colleague-in-tweet-2021-2?amp",
+      "publishedDateTime": "2021-02-14T04:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-14-white-house-lawyers-tell-meena-harris-to-stop-using-aunt-kamala-to-build-brand-report.md",
+      "title": "White House lawyers tell Meena Harris to stop using aunt Kamala to build brand: report",
+      "excerpt": "Vice President Kamala Harris’ social-media-influencer niece has long used her aunt’s fame to boost her own personal brand — but now that Harris has entered the White House, aides have become increasingly concerned about the ethical implications of the promotional pattern, according to a report. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9U2FVUIPBGI/white-house-lawyers-meena-harris-kamala-harris-niece",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9U2FVUIPBGI/white-house-lawyers-meena-harris-kamala-harris-niece",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Meena-Harris-GETTY.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/white-house-lawyers-meena-harris-kamala-harris-niece.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-lawyers-meena-harris-kamala-harris-niece.amp",
+      "publishedDateTime": "2021-02-14T04:12:43-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-02-14-schiff-ponders-life-beyond-the-house-as-focus-shifts-from-trump.md",
+      "title": "Schiff ponders life beyond the House as focus shifts from Trump",
+      "excerpt": "Speaker Nancy Pelosi, an ally, has lent some muscle to Adam Schiff’s bid to become California's attorney general.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2021/02/14/adam-schiff-future-468949",
+      "originalUrl": "https://www.politico.com/news/2021/02/14/adam-schiff-future-468949",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/b4/04/01342b3c4ef699ea410e681d31e9/20200911-adamschiff-gty-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-14T04:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-14-it-just-symbolizes-everything-in-joe-and-jill-biden-presidential-pda-makes-a-comeback.md",
+      "title": "‘It just symbolizes everything’: In Joe and Jill Biden, presidential PDA makes a comeback",
+      "excerpt": "First lady Jill Biden places her hands on President Joe Biden after he is sworn in as 46th president of the United States on Jan. 20, 2021. | Kevin Dietsch/Pool Photo via AP On a mission to rebuild institutional norms and help heal a hurting nation,",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2021/02/14/joe-biden-jill-pda-468831",
+      "originalUrl": "https://www.politico.com/news/2021/02/14/joe-biden-jill-pda-468831",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/b0/e8/c9ad0a0b4464b57b0b196784eca4/ap21020618014402.JPG",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-14T04:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-14-the-latest-biden-says-all-americans-must-defend-the-truth.md",
+      "title": "The Latest: Biden says all Americans must 'defend the truth'",
+      "excerpt": "President Joe Biden is responding to the acquittal of Donald Trump by stating that all Americans, especially the nation’s leaders, have a duty and responsibility “to defend the truth and to defeat the lies.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/latest-senators-await-closing-arguments-trump-trial-75871314",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/latest-senators-await-closing-arguments-trump-trial-75871314",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_99e21b56053e49638943ddca30fd3b15_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/latest-senators-await-closing-arguments-trump-trial-75871314",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/latest-senators-await-closing-arguments-trump-trial-75871314",
+      "publishedDateTime": "2021-02-14T00:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-02-14-rep-jaime-herrera-beutler-would-have-testified-under-oath-if-subpoenaed-at-trump-impeachment-trial-spokesman-says.md",
       "title": "Rep. Jaime Herrera Beutler would have 'testified under oath' if subpoenaed at Trump impeachment trial, spokesman says",
       "excerpt": "\"She’s already offered all the information she has, and she would have testified under oath,\" Rep. Jaime Herrera Beutler's office said.",
@@ -106,58 +433,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-14-biden-reflecting-on-senate-acquittal-of-trump-says-democracy-is-fragile.md",
-      "title": "Biden, reflecting on Senate acquittal of Trump, says 'democracy is fragile'",
-      "excerpt": "U.S. President Joe Biden said on Saturday that the Senate's acquittal of former President Donald Trump for inciting an insurrection was a reminder that democracy was fragile, and every American had a duty to defend the truth.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-trump-impeachment-biden/biden-reflecting-on-senate-acquittal-of-trump-says-democracy-is-fragile-idUSKBN2AE030",
-      "originalUrl": "https://www.reuters.com/article/us-usa-trump-impeachment-biden/biden-reflecting-on-senate-acquittal-of-trump-says-democracy-is-fragile-idUSKBN2AE030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 858,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210214&t=2&i=1551470848&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1D02W",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2AE030",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AE030",
-      "publishedDateTime": "2021-02-13T20:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-02-14-biden-says-democracy-must-always-be-defended-after-trumps-acquittal-in-second-impeachment-trial.md",
       "title": "Biden says 'democracy must always be defended' after Trump's acquittal in second impeachment trial ",
       "excerpt": "President Joe Biden weighed in late Saturday night on former President Donald Trump's acquittal in his second impeachment trial, saying that democracy is \"fragile\" and \"must always be defended.\"\n    \n",
@@ -211,54 +486,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-14-white-house-lawyers-tell-meena-harris-to-stop-using-aunt-kamala-to-build-brand-report.md",
-      "title": "White House lawyers tell Meena Harris to stop using aunt Kamala to build brand: report",
-      "excerpt": "Vice President Kamala Harris’ social-media-influencer niece has long used her aunt’s fame to boost her own personal brand — but now that Harris has entered the White House, aides have become",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/02/13/white-house-lawyers-tell-meena-harris-to-stop-using-aunt-kamala-for-brand-report/",
-      "originalUrl": "https://nypost.com/2021/02/13/white-house-lawyers-tell-meena-harris-to-stop-using-aunt-kamala-for-brand-report/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/02/Meena-Harris.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/02/13/white-house-lawyers-tell-meena-harris-to-stop-using-aunt-kamala-for-brand-report/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/13/white-house-lawyers-tell-meena-harris-to-stop-using-aunt-kamala-for-brand-report/amp/",
-      "publishedDateTime": "2021-02-13T19:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Republican Voice"
       ]
     },
     {
@@ -330,7 +557,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 195,
+      "heat": 215,
       "tags": null,
       "images": [
         {
@@ -484,58 +711,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-14-pull-of-partisanship-helps-trump-escape-impeachment-conviction-analysis.md",
-      "title": "Pull of partisanship helps Trump escape impeachment conviction: ANALYSIS",
-      "excerpt": "While seven Republicans joined all 50 Democrats in voting for former President Donald Trump 's conviction, the Senate fell 10 votes short of conviction. Trump was spared the ultimate punishment Congress could wield by powerful and familiar forces he has long understood,",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/pull-partisanship-helps-trump-escape-impeachment-conviction-analysis/story?id=75864271",
-      "originalUrl": "https://abcnews.go.com/Politics/pull-partisanship-helps-trump-escape-impeachment-conviction-analysis/story?id=75864271",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/donald-trump_hpMain_20210213-164842_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/pull-partisanship-helps-trump-escape-impeachment-conviction-analysis/story?id=75864271",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/pull-partisanship-helps-trump-escape-impeachment-conviction-analysis/story?id=75864271",
-      "publishedDateTime": "2021-02-13T14:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -769,7 +944,7 @@
       "originalUrl": "https://www.newsweek.com/full-text-mitch-mcconnells-email-explaining-why-he-would-vote-acquit-trump-1569064",
       "featuredContent": null,
       "highlight": null,
-      "heat": 240,
+      "heat": 260,
       "tags": null,
       "images": [
         {
@@ -862,58 +1037,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-02-13-live-impeachment-updates-trumps-legal-team-house-prosecutors-eye-closing-arguments-with-witness-question-unanswered.md",
-      "title": "Live impeachment updates: Trump's legal team, House prosecutors eye closing arguments with witness question unanswered",
-      "excerpt": "Both sides are readying themselves for closing arguments in the Trump impeachment trial. But the decision on whether to call witnesses is unresolved.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/02/13/trump-impeachment-trial-senate-readies-closing-arguments/6743661002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/02/13/trump-impeachment-trial-senate-readies-closing-arguments/6743661002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/02/13/USAT/df8f68dc-9b25-4a57-99d2-2e20ca5a5fab-AP_Trump_Impeachment_10.jpg?auto=webp&crop=4999,2812,x0,y254&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6743661002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6743661002",
-      "publishedDateTime": "2021-02-13T03:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -1205,114 +1328,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/12/politics/biden-guantanamo-bay/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/12/politics/biden-guantanamo-bay/index.html",
       "publishedDateTime": "2021-02-12T14:50:03-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-13-fact-check-is-joe-biden-responsible-for-the-rising-cost-of-insulin.md",
-      "title": "Fact Check: Is Joe Biden Responsible For the Rising Cost of Insulin?",
-      "excerpt": "Recently, many Americans have been expressing their outrage on social media at the rising cost of insulin and wonder who is to blame.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/fact-check-joe-biden-responsible-rising-cost-insulin-1569045",
-      "originalUrl": "https://www.newsweek.com/fact-check-joe-biden-responsible-rising-cost-insulin-1569045",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1733425/president-joe-biden.jpg",
-          "width": 2500,
-          "height": 1665,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/fact-check-joe-biden-responsible-rising-cost-insulin-1569045?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fact-check-joe-biden-responsible-rising-cost-insulin-1569045?amp=1",
-      "publishedDateTime": "2021-02-12T14:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-dc-attorney-general-weighs-legal-viability-of-charging-trump-under-local-statute.md",
-      "title": "DC attorney general weighs legal viability of charging Trump under local statute ",
-      "excerpt": "Lawyers inside the Washington, DC attorney general's office are working to determine if it is legally viable to use district statutes to charge former President Donald Trump for his alleged role in the insurrection.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iPjpB1KnfoA/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iPjpB1KnfoA/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 230,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201225192217-karl-racine-headshot-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/12/politics/dc-attorney-trump/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/12/politics/dc-attorney-trump/index.html",
-      "publishedDateTime": "2021-02-12T12:40:33-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

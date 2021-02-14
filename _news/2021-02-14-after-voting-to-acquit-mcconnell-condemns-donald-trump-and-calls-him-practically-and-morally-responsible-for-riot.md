@@ -1,26 +1,34 @@
 ---
 category: news
-title: "After Voting to Acquit, McConnell Condemns Donald Trump and Calls Him ‘Practically and Morally Responsible’ for Riot"
-excerpt: "After voting to acquit, McConnell condemns Donald Trump and calls him ‘practically and morally responsible’ for riot."
-publishedDateTime: 2021-02-14T00:19:00Z
-originalUrl: "https://www.usnews.com/news/politics/articles/2021-02-13/senate-votes-to-consider-witnesses-in-donald-trumps-impeachment-case-potentially-extending-trial"
-webUrl: "https://www.usnews.com/news/politics/articles/2021-02-13/senate-votes-to-consider-witnesses-in-donald-trumps-impeachment-case-potentially-extending-trial"
+title: "After voting to acquit, McConnell condemns Donald Trump and calls him ‘practically and morally responsible’ for riot"
+excerpt: "After voting to acquit, McConnell condemns Donald Trump and calls him ‘practically and morally responsible’ for riot"
+publishedDateTime: 2021-02-14T02:21:00Z
+originalUrl: "https://www.washingtonpost.com/politics/after-voting-to-acquit-mcconnell-condemns-donald-trump-and-calls-him-practically-and-morally-responsible-for-riot/2021/02/13/6928c6f6-6e41-11eb-a66e-e27046e9e898_story.html"
+webUrl: "https://www.washingtonpost.com/politics/after-voting-to-acquit-mcconnell-condemns-donald-trump-and-calls-him-practically-and-morally-responsible-for-riot/2021/02/13/6928c6f6-6e41-11eb-a66e-e27046e9e898_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/after-voting-to-acquit-mcconnell-condemns-donald-trump-and-calls-him-practically-and-morally-responsible-for-riot/2021/02/13/6928c6f6-6e41-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/after-voting-to-acquit-mcconnell-condemns-donald-trump-and-calls-him-practically-and-morally-responsible-for-riot/2021/02/13/6928c6f6-6e41-11eb-a66e-e27046e9e898_story.html?outputType=amp"
 type: article
-quality: 12
+quality: 102
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
+    isCached: true
 
 related:
   - title: "Full Text on Mitch McConnell's Email Explaining Why He Would Vote to Acquit Trump"
@@ -87,6 +95,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Mitch McConnell lambasts Donald Trump but votes not guilty – video"
+    excerpt: "Nancy Pelosi criticises ‘cowardly’ Republicans and minority leader Mitch McConnell savages Trump but votes not guilty regardless"
+    publishedDateTime: 2021-02-14T04:57:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2021/feb/14/mitch-mcconnell-lambasts-donald-trump-but-votes-not-guilty-video"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
+    images:
+      - url: "https://i.guim.co.uk/img/media/000b3a7759a0dfac651c02902cfdaacf835123b9/0_116_3500_2101/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e17f09fba234a71e986502fc6d821e3a"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Sen. Mitch McConnell rips Trump as ‘disgraceful’ but defends his impeachment acquittal vote"
     excerpt: "The powerful GOP Minority Leader excoriated Trump for “provoking” the violent attack on the Capitol on Jan. 6."
     publishedDateTime: 2021-02-13T22:56:00Z
@@ -120,6 +142,6 @@ related:
         height: 336
         isCached: true
 
-secured: "qV+hAVDpzHNXzmb7xgdloleXYGhcHcS94ae3sOlVVIApq3ZGrn4mY+kupfu86AmbeTWy2QqsmsAGIpwcBG+cdAcrM/p4Zby4rpCgQ5NaOKBSLuW+GOri6AexGvIiTkWV9aqUKLiuMRtcAy7YsxWAqdDR5/DEJtVFBjM4mhu5L0U9sLqFiv2tSbSOsNGyqLv9F95Bj8PJ9PL9KAZ02k4yzGEScQvJixbHo/jYiH6WlXy+CkG0Ht1oYebwxOmmJPDfWarvV/maDICFfjfQ69lp8Y2HvQsIG0LpWWUbiiKcKMXT2ib2/cAhl4JyxUvfh8I6oR+A0Y866Gb4vA9PBZTFtTjKyZ7ElIa+pBu2eX8UVmw=;qs1n+QRqsJABM9l+rZKrXw=="
+secured: "VI+v2awsiMk2lkUd32YY94dpuiPLZVjQc2fDnzsPaPul3C7yHMjxS+6rg98ORj3m2qr3x9ptwG+elpjiuDkgb9/5g51UzInY87TjfJ5NI7VXFVrNMyCv2rHGF01902PnfUVjdkuA+h5yCh7W+GYWepb9q7NK9X1pcie7xtBW3OqTl9YTveJkDkmwwRyq/zY6o+0ABO4OdjZA5GWwNx2cDVg0UhcAHyzWhCd/Onhuv12lY9bXqsYT0E4TvCJRKasLtsf4JKGcOU9lcq3WnMNepAUVrekawxYsTh2zKqWbRRhNFEfgqBfJ1hF6VQcQIJI1bhpmIRZx9Qo5pqeyHdihwUdLqoTKklwAAAP1zDQmlQM=;rP/y1Z2yf+kW4O8gn8I6VQ=="
 ---
 

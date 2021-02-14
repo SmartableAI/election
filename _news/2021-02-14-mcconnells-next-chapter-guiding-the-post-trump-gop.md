@@ -1,0 +1,68 @@
+---
+category: news
+title: "McConnell's next chapter: Guiding the post-Trump GOP"
+excerpt: "The Kentuckian is the GOP's de facto leader for at least the next two years, as Trump remains exiled in Florida with no real public platform."
+publishedDateTime: 2021-02-14T12:05:00Z
+originalUrl: "https://www.politico.com/news/2021/02/14/mcconnells-next-chapter-guiding-the-post-trump-gop-469014"
+webUrl: "https://www.politico.com/news/2021/02/14/mcconnells-next-chapter-guiding-the-post-trump-gop-469014"
+type: article
+quality: 115
+heat: -1
+published: false
+
+provider:
+  name: Politico
+  domain: politico.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Donald Trump
+  - Democratic Voice
+
+images:
+  - url: "https://static.politico.com/ba/49/dfd390ea400cb7bd00c4ff761091/gettyimages-1230449215-1.jpg"
+    width: 1160
+    height: 773
+    isCached: true
+
+related:
+  - title: "McConnell blames Trump but voted not guilty anyway"
+    excerpt: "Senate Minority Leader Mitch McConnell has told his colleagues that he will vote to acquit former President Donald Trump of inciting the insurrection at the US Capitol last month, according to a source familiar with the conversations.\n    \n"
+    publishedDateTime: 2021-02-14T00:42:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Rw3HPocqnPw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/13/politics/mitch-mcconnell-acquit-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/mitch-mcconnell-acquit-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106121255-01-mcconnell-0106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump tells aides he thinks he'll be acquitted as he remains fixated on 'accountability' for GOP lawmakers who voted to impeach"
+    excerpt: "Former President Donald Trump has been reaching out to aides and advisers to discuss his upcoming Senate impeachment trial, sources familiar with the conversations said, with one of those sources saying Trump thinks there won't be enough Republican senators who'll vote to convict him.\n    \n"
+    publishedDateTime: 2021-02-08T22:44:00Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jGuLoMasK2k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/08/politics/trump-impeachment/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/08/politics/trump-impeachment/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 147
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210205160106-01-trumps-florida-0120-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+
+secured: "1pDl+G5SArzrfJJOtaYLxAIohWePD/bXSeJD0yn6DyewLl0ebiTLu7owfmhkjX/FKnQUcoHi1KvfnMG/WFIe7gRp8vQ4nEoug+NpN5+6KkjQcQKRlAC9uwDVZcdBcbMECp0d4jF0S4qFFvgTvSjn8p3O8B5LS6oDVQP7CK3FdOR1pVx7oc+N+KlmpvCYm6aXivYobA4SOw6Gqgi7ALShFTQcEAuwbOruFtGEAqNbAzA+YG4uB+YH2RYweV8P5MQnDWFYiezuWSrwEpVO5XnCQsLkbaukow93jzd86VWwq84qSRCEaLc1UR2gyD1bjOYg68mSJPwhLhntZaLxbROZ/tuAVA1XnD6Kb/NxgAzdFk8=;Gg5GswR3YCpUzMYYW2ELUQ=="
+---
+

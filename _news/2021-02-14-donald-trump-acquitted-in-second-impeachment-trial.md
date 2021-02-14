@@ -1,22 +1,22 @@
 ---
 category: news
 title: "Donald Trump acquitted in second impeachment trial"
-excerpt: "The Senate voted Saturday to acquit former President Trump of inciting insurrection at the Capitol. Follow here for the latest."
-publishedDateTime: 2021-02-13T23:06:00Z
-originalUrl: "https://www.cnn.com/politics/live-news/trump-impeachment-trial-02-13-2021/h_78d3916c2eb213c0bb589487f3df1e98"
-webUrl: "https://www.cnn.com/politics/live-news/trump-impeachment-trial-02-13-2021/h_78d3916c2eb213c0bb589487f3df1e98"
-ampWebUrl: "https://amp.cnn.com/cnn/politics/live-news/trump-impeachment-trial-02-13-2021/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/politics/live-news/trump-impeachment-trial-02-13-2021/index.html"
+excerpt: "In the most bipartisan Senate impeachment vote in history, former President Trump was declared not guilty of the impeachment charge that he incited the Capitol insurrection. Trump released a statement calling the trial a “witch hunt."
+publishedDateTime: 2021-02-14T01:41:00Z
+originalUrl: "https://www.nbcnews.com/nightly-news/video/donald-trump-acquitted-in-second-impeachment-trial-100998213510"
+webUrl: "https://www.nbcnews.com/nightly-news/video/donald-trump-acquitted-in-second-impeachment-trial-100998213510"
+ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo100998213510"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo100998213510"
 type: article
 quality: 135
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: NBC News
+  domain: nbcnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -26,9 +26,9 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210204131913-102-trump-impeachment-centered-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202102/nn_khu_impeachment_trial_trump_acquitted_210213_1613261732532.jpg"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
@@ -775,6 +775,6 @@ related:
         height: 720
         isCached: true
 
-secured: "xFK5Ljp29XsBJ8lTpvX/sp8QwWDnbriPRMdPOUMkf9b+9bxksc/sd9OCusKuTo1uKFd68JABcMNOtfk9GMTVov8wVgtp/EaDMAS5whY555QEnSm85NRswPTLEFhQ5DpB3OpVOdwWeDEje1hWgs7ZKAlXMXTgRD63mDuVfxAjwZwGbDHTXyoDPlu/OAC9zsPJNx1yQW/S/Dx8tKeYiNc6MgkWKrPeR2jToJfvf89RQbJLxsOkCSTKwdXbcn/K6H9mJJMWHZVgzBGS8Np6g9SNuHHpniZVblwxnrvYQ80BXAZMx8HbOpEIApzVrm9PYAwMbhzBGasc0++CiRUyRX0+4eAC24knc/nPze28X8xgooV0CAWpUe5sqg1cL8UqJ/vdbHkI6WzV6KpxaZaRFu54deUCUKVTe2+ypS/8DlcfllHYfBKpPJBlyCc3GCz9RaGsC/qRrhA06k2zx5eVtDJByuCOHK3SnDpPelEPFFi2CFtuWKf5VPwlwCL4z/2Ebk6I4Gw7X+Iqb+wGOCqwLjDzyA==;wEaXkHFOIGxCyPkumBPnRQ=="
+secured: "2kDzpE6qxi2tFbFxwhQeUk8Hra9+aX1tLKjusgx9dT2yLFj91WLp6pb4uWaB0VR+IREZ2QpK3KauaxoKWZ/ukMkR8fS5GGnAhDh3Oehow5lfyQw28+vPq3F3T9OkywbQBlRs8VrcLAKNcBVeZhfxs5yyR4gVDu7WAA3hJ/SbNvln7ARjL2ojTXwl5/8oVHfjfkJUphgfhYSMmLJaCOVWc68BdGn2j/7XSONSw3cyXAV/5VHvbhmDIU2467cwyRF3ZudD2P6Tb6DmnjzX1nTBGsgXgeEDDW4pLmqkIB2r75SXi8PXuaAUiujGy5n/vJnqoJvs/+aQu8tqGPoX1MzZ6x3iZTl8HLM4r6UDdTfEic4=;LqIC23hEO+jU9cWAUqaT6g=="
 ---
 

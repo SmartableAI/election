@@ -2,6 +2,167 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-14-trump-impeachment-trial-biden-warns-democracy-is-fragile.md",
+      "title": "Trump impeachment trial: Biden warns democracy is fragile",
+      "excerpt": "US President Joe Biden has called his predecessor Donald Trump's acquittal for inciting mob violence a reminder that \"democracy is fragile\". A majority of senators voted to convict Mr Trump but the numbers fell short of the two-thirds required to do so.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/world-us-canada-56061100",
+      "originalUrl": "https://www.bbc.com/news/world-us-canada-56061100",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 2180,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/311E/production/_116947521_mediaitem116947520.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/amp/world-us-canada-56061100",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-56061100",
+      "publishedDateTime": "2021-02-14T04:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-14-rep-marjorie-taylor-greene-accused-of-threatening-gop-colleague-with-warning-that-millions-of-trump-supporters-are-watching-her.md",
+      "title": "Rep. Marjorie Taylor Greene accused of threatening GOP colleague with warning that millions of Trump supporters 'are watching' her",
+      "excerpt": "\"The Trump loyal 75 million are watching\" Rep. Greene tweeted about Rep. Herrera Beutler after it emerged she had evidence damaging to Trump's defense.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/impeachment-rep-greene-accused-of-menacing-gop-colleague-in-tweet-2021-2",
+      "originalUrl": "https://www.businessinsider.com/impeachment-rep-greene-accused-of-menacing-gop-colleague-in-tweet-2021-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/602909702edd0f001a8d5ba4?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/impeachment-rep-greene-accused-of-menacing-gop-colleague-in-tweet-2021-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/impeachment-rep-greene-accused-of-menacing-gop-colleague-in-tweet-2021-2?amp",
+      "publishedDateTime": "2021-02-14T04:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-14-schiff-ponders-life-beyond-the-house-as-focus-shifts-from-trump.md",
+      "title": "Schiff ponders life beyond the House as focus shifts from Trump",
+      "excerpt": "Speaker Nancy Pelosi, an ally, has lent some muscle to Adam Schiff’s bid to become California's attorney general.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2021/02/14/adam-schiff-future-468949",
+      "originalUrl": "https://www.politico.com/news/2021/02/14/adam-schiff-future-468949",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/b4/04/01342b3c4ef699ea410e681d31e9/20200911-adamschiff-gty-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-14T04:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-14-rep-jaime-herrera-beutler-would-have-testified-under-oath-if-subpoenaed-at-trump-impeachment-trial-spokesman-says.md",
       "title": "Rep. Jaime Herrera Beutler would have 'testified under oath' if subpoenaed at Trump impeachment trial, spokesman says",
       "excerpt": "\"She’s already offered all the information she has, and she would have testified under oath,\" Rep. Jaime Herrera Beutler's office said.",
@@ -106,58 +267,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-14-biden-reflecting-on-senate-acquittal-of-trump-says-democracy-is-fragile.md",
-      "title": "Biden, reflecting on Senate acquittal of Trump, says 'democracy is fragile'",
-      "excerpt": "U.S. President Joe Biden said on Saturday that the Senate's acquittal of former President Donald Trump for inciting an insurrection was a reminder that democracy was fragile, and every American had a duty to defend the truth.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-trump-impeachment-biden/biden-reflecting-on-senate-acquittal-of-trump-says-democracy-is-fragile-idUSKBN2AE030",
-      "originalUrl": "https://www.reuters.com/article/us-usa-trump-impeachment-biden/biden-reflecting-on-senate-acquittal-of-trump-says-democracy-is-fragile-idUSKBN2AE030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 858,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210214&t=2&i=1551470848&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1D02W",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2AE030",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AE030",
-      "publishedDateTime": "2021-02-13T20:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-02-14-the-disgraceful-acquittal-of-donald-trump.md",
       "title": "The ‘Disgraceful Acquittal’ of Donald Trump",
       "excerpt": "A sad, sad day for democracy,” one reader writes. “It was craven cowardice for Republicans to put Mr. Trump before country,” writes another.",
@@ -212,58 +321,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-14-pull-of-partisanship-helps-trump-escape-impeachment-conviction-analysis.md",
-      "title": "Pull of partisanship helps Trump escape impeachment conviction: ANALYSIS",
-      "excerpt": "While seven Republicans joined all 50 Democrats in voting for former President Donald Trump 's conviction, the Senate fell 10 votes short of conviction. Trump was spared the ultimate punishment Congress could wield by powerful and familiar forces he has long understood,",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/pull-partisanship-helps-trump-escape-impeachment-conviction-analysis/story?id=75864271",
-      "originalUrl": "https://abcnews.go.com/Politics/pull-partisanship-helps-trump-escape-impeachment-conviction-analysis/story?id=75864271",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/donald-trump_hpMain_20210213-164842_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/pull-partisanship-helps-trump-escape-impeachment-conviction-analysis/story?id=75864271",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/pull-partisanship-helps-trump-escape-impeachment-conviction-analysis/story?id=75864271",
-      "publishedDateTime": "2021-02-13T14:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -327,7 +384,7 @@
       "originalUrl": "https://www.newsweek.com/full-text-mitch-mcconnells-email-explaining-why-he-would-vote-acquit-trump-1569064",
       "featuredContent": null,
       "highlight": null,
-      "heat": 240,
+      "heat": 260,
       "tags": null,
       "images": [
         {
@@ -351,58 +408,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-13-live-impeachment-updates-trumps-legal-team-house-prosecutors-eye-closing-arguments-with-witness-question-unanswered.md",
-      "title": "Live impeachment updates: Trump's legal team, House prosecutors eye closing arguments with witness question unanswered",
-      "excerpt": "Both sides are readying themselves for closing arguments in the Trump impeachment trial. But the decision on whether to call witnesses is unresolved.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/02/13/trump-impeachment-trial-senate-readies-closing-arguments/6743661002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/02/13/trump-impeachment-trial-senate-readies-closing-arguments/6743661002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/02/13/USAT/df8f68dc-9b25-4a57-99d2-2e20ca5a5fab-AP_Trump_Impeachment_10.jpg?auto=webp&crop=4999,2812,x0,y254&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6743661002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6743661002",
-      "publishedDateTime": "2021-02-13T03:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -532,58 +537,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-13-trumps-defense-team-calls-impeachment-trial-political-vengeance.md",
-      "title": "Trump's defense team calls impeachment trial 'political vengeance'",
-      "excerpt": "Donald Trump's lawyers on Friday began laying out their case for why the former president should be acquitted of inciting last month's deadly riot at the U.S. Capitol, arguing the impeachment trial was an act of \"political vengeance\" by Democrats.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-trump-impeachment-idCAKBN2AC11K",
-      "originalUrl": "https://www.reuters.com/article/us-usa-trump-impeachment-idCAKBN2AC11K",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210212&t=2&i=1551337067&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1B0QW",
-          "width": 811,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idCAKBN2AC11K",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN2AC11K",
-      "publishedDateTime": "2021-02-12T10:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-02-13-hannity-democrats-never-had-problem-with-violent-rhetoric-towards-trump.md",
       "title": "Hannity: Democrats never had problem with violent rhetoric towards Trump",
       "excerpt": "HANNITY: Welcome to \"Hannity\". Tonight, we are tracking multiple breaking stories. These are huge, including day three of the Senate's impeachment, Schiff charade show that they got going on. We have tonight just breaking,",
@@ -701,7 +654,7 @@
       "originalUrl": "https://www.washingtonpost.com/lifestyle/style/trump-derangement-syndrome-impeachment/2021/02/11/a6ffa7b6-6ca6-11eb-9ead-673168d5b874_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -963,21 +916,21 @@
       ]
     },
     {
-      "path": "_news/2021-02-12-impeachment-trial-mob-believed-they-were-acting-on-trumps-orders.md",
-      "title": "Impeachment trial: mob 'believed they were acting on Trump's orders'",
-      "excerpt": "Congresswoman Diana DeGette says ‘They came because he told them to’ as House managers prepare to conclude their case on Thursday",
+      "path": "_news/2021-02-12-live-updates-senate-must-convict-trump-to-ensure-no-future-president-incites-insurrection-democrats-say.md",
+      "title": "Live updates: Senate must convict Trump to ensure no future president incites insurrection, Democrats say",
+      "excerpt": "Day 3 of former President Donald Trump's second impeachment trial has begun. The Democratic impeachment managers will use up to eight hours to wrap up their case against the ex-pr",
       "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/feb/11/trump-impeachment-trial-democrats-senate",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/feb/11/trump-impeachment-trial-democrats-senate",
+      "webUrl": "https://www.cnbc.com/2021/02/11/trump-impeachment-trial-live-updates-day-3.html",
+      "originalUrl": "https://www.cnbc.com/2021/02/11/trump-impeachment-trial-live-updates-day-3.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 425,
+      "heat": 208,
       "tags": null,
       "images": [
         {
-          "url": "https://i.guim.co.uk/img/media/935212d9ed8090a7be59ca81594a98629f54dbc6/351_27_2333_1555/master/2333.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c4c555706827b8899c50162cd6bd996c",
-          "width": 600,
-          "height": 400,
+          "url": "https://image.cnbcfm.com/api/v1/image/106839426-1613066740937-gettyimages-1231104598-brave_zvrabgh107.jpg?v=1613066758",
+          "width": 1582,
+          "height": 1024,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -985,16 +938,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/feb/11/trump-impeachment-trial-democrats-senate",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/11/trump-impeachment-trial-democrats-senate",
-      "publishedDateTime": "2021-02-11T11:57:00-08:00",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/02/11/trump-impeachment-trial-live-updates-day-3.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/02/11/trump-impeachment-trial-live-updates-day-3.html",
+      "publishedDateTime": "2021-02-11T10:45:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
+        "name": "CNBC",
+        "domain": "cnbc.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1280,58 +1233,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-11-i-dont-want-to-come-back-as-trump-trial-opens-democrat-recalls-daughters-fear-during-riot.md",
-      "title": "'I don't want to come back:' As Trump trial opens, Democrat recalls daughter's fear during riot",
-      "excerpt": "U.S. House lead impeachment manager Rep. Jamie Raskin (D-MD) becomes emotional as he discusses his and his family's experiences inside the U.S. Capitol building during the siege on Jan. 6 and his daug",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/news/picture/i-dont-want-to-come-back-as-trump-trial-idUSKBN2A92YV",
-      "originalUrl": "https://www.reuters.com/news/picture/i-dont-want-to-come-back-as-trump-trial-idUSKBN2A92YV",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210210&t=2&i=1551085705&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEH181S5",
-          "width": 810,
-          "height": 455,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-10T16:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-02-11-video-of-capitol-riot-shown-at-trump-impeachment-trial-literally-took-my-breath-away-meghan-mccain.md",
       "title": "Video of Capitol riot shown at Trump impeachment trial 'literally took my breath away': Meghan McCain",
       "excerpt": "Conservative \"The View\" co-host Meghan McCain said Wednesday that video of last month's Capitol riot that was played at former President Donald Trump's impeachment trial \"literally took my breath away\".",
@@ -1587,6 +1488,110 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-10-trump-tried-to-block-her-now-ngozi-okonjo-iweala-is-about-to-make-history.md",
+      "title": "Trump tried to block her. Now Ngozi Okonjo-Iweala is about to make history.",
+      "excerpt": "The Nigerian economist is set to become the first woman and African national in charge of the World Trade Organization.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/world/africa/ngozi-okonjo-iweala-wto/2021/02/09/99e3b028-67eb-11eb-bab8-707f8769d785_story.html",
+      "originalUrl": "https://www.washingtonpost.com/world/africa/ngozi-okonjo-iweala-wto/2021/02/09/99e3b028-67eb-11eb-bab8-707f8769d785_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/J35WRETKJ4I6XJTO4JYEN2PITA.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/world/africa/ngozi-okonjo-iweala-wto/2021/02/09/99e3b028-67eb-11eb-bab8-707f8769d785_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/africa/ngozi-okonjo-iweala-wto/2021/02/09/99e3b028-67eb-11eb-bab8-707f8769d785_story.html?outputType=amp",
+      "publishedDateTime": "2021-02-10T04:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-10-trial-highlights-history-lessons-trump-tweets-and-more.md",
+      "title": "Trial highlights: history lessons, Trump tweets and more",
+      "excerpt": "Donald Trump will stand trial for impeachment after the Senate rejected arguments from the former president’s lawyers that the chamber cannot move forward because he is no longer in office",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/trial-highlights-history-lessons-trump-tweets-75789773",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/trial-highlights-history-lessons-trump-tweets-75789773",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 245,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_bb4aff58ec284468b4b027215e10659d_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/trial-highlights-history-lessons-trump-tweets-75789773",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trial-highlights-history-lessons-trump-tweets-75789773",
+      "publishedDateTime": "2021-02-09T16:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

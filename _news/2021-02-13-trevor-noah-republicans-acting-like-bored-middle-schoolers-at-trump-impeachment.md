@@ -31,241 +31,150 @@ images:
     isCached: true
 
 related:
-  - title: "Impeachment trial: mob 'believed they were acting on Trump's orders'"
-    excerpt: "Congresswoman Diana DeGette says ‘They came because he told them to’ as House managers prepare to conclude their case on Thursday"
-    publishedDateTime: 2021-02-11T19:57:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/feb/11/trump-impeachment-trial-democrats-senate"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/11/trump-impeachment-trial-democrats-senate"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/11/trump-impeachment-trial-democrats-senate"
+  - title: "Liz Cheney censured by Wyoming Republican party for voting to impeach Trump"
+    excerpt: "Cheney, the third ranking member of the House Republican leadership, was censured in a vote Saturday by her state’s Republican party"
+    publishedDateTime: 2021-02-06T23:01:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/feb/06/liz-cheney-censured-by-wyoming-republican-party-for-voting-to-impeach-trump"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/06/liz-cheney-censured-by-wyoming-republican-party-for-voting-to-impeach-trump"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/06/liz-cheney-censured-by-wyoming-republican-party-for-voting-to-impeach-trump"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 125
+    quality: 123
     images:
-      - url: "https://i.guim.co.uk/img/media/935212d9ed8090a7be59ca81594a98629f54dbc6/351_27_2333_1555/master/2333.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c4c555706827b8899c50162cd6bd996c"
+      - url: "https://i.guim.co.uk/img/media/7ad5429ff5a0055cef8af2fe8a17aae778dfa887/0_40_4775_2866/master/4775.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=da3e5b5ded9ac0ca87fea35415042fc0"
         width: 600
-        height: 400
+        height: 360
         isCached: true
-  - title: "Factbox: Six Republicans to keep an eye on during final Trump impeachment vote"
-    excerpt: "Donald Trump's impeachment trial is slated to finish on Saturday with a vote on whether the former president should be convicted on a charge of inciting insurrection in a speech to supporters just before hundreds of them stormed the Capitol."
-    publishedDateTime: 2021-02-13T11:33:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-senators-factbo-idUSKBN2AD0AO"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AD0AO"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AD0AO"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 121
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210213&t=2&i=1551418939&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1C07Y"
-        width: 901
-        height: 545
-        isCached: true
-  - title: "Democrats to focus on \"terrible toll\" of riot as Trump impeachment trial continues"
-    excerpt: "Democrats making the case that Donald Trump should be convicted of inciting the siege at the U.S. Capitol will focus on Thursday on the damage wrought by the riot and the former president's role in inflaming the rampage."
-    publishedDateTime: 2021-02-11T16:18:00Z
-    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN2AB15F?edition-redirect=in"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AB15F"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AB15F"
+  - title: "With Republican firewall, U.S. Senate acquits Trump of inciting deadly Capitol riot"
+    excerpt: "The U.S. Senate acquitted Donald Trump on Saturday of inciting the mob that stormed the Capitol last month, sparing him from conviction in his second impeachment trial in a year despite broad condemnation of his role in sparking the deadly siege."
+    publishedDateTime: 2021-02-14T06:48:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment/u-s-senate-acquits-trump-as-republicans-save-him-in-impeachment-again-idUSKBN2AD0AE"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AD0AE"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AD0AE"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 119
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210211&t=2&i=1551209010&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1A1EN"
-        width: 817
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210213&t=2&i=1551450590&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1C0JB"
+        width: 968
         height: 545
         isCached: true
-  - title: "Read Democrat Jamie Raskin's closing argument in impeachment trial of Donald Trump"
-    excerpt: "The lead impeachment manager called Trump the \"inciter in chief.\" House managers and Trump's legal team prepare to make closing argument Lead Impeachment Manager Jamie Raskin, D-Md., delivered a searing closing speech on Saturday as the House impeachment managers pushed to convict Despite the speech,"
-    publishedDateTime: 2021-02-14T02:26:00Z
-    webUrl: "https://abcnews.go.com/Politics/read-democrat-jamie-raskins-closing-argument-impeachment-trial/story?id=75878802"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/read-democrat-jamie-raskins-closing-argument-impeachment-trial/story?id=75878802"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/read-democrat-jamie-raskins-closing-argument-impeachment-trial/story?id=75878802"
+  - title: "GOP congressman Gaetz, Trump Jr. urge Wyomingites to oust fellow Republican Liz Cheney"
+    excerpt: "Rep. Matt Gaetz rallied against Rep. Liz Cheney at the Wyoming State Capitol Thursday, escalating the effort among some Republicans to oust her from leadership."
+    publishedDateTime: 2021-01-28T23:34:00Z
+    webUrl: "https://abcnews.go.com/Politics/gop-congressman-gaetz-trump-jr-urge-wyomingites-oust/story?id=75544628"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/gop-congressman-gaetz-trump-jr-urge-wyomingites-oust/story?id=75544628"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/gop-congressman-gaetz-trump-jr-urge-wyomingites-oust/story?id=75544628"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 119
-    images:
-      - url: "https://s.abcnews.com/images/General/impeachment-president-donald-trump-16-ap-llr-210213_1613240356883_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Donald Trump impeachment: Senate trial expected to vote to acquit today – live updates"
-    excerpt: "Each legal team will have two hours to restate their case before Senate likely votes to acquit Donald Trump"
-    publishedDateTime: 2021-02-13T15:33:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/13/donald-trump-impeachment-senate-trial-vote-verdict-live-updates?page=with:block-6027ef138f08d7b7c03d2218"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/13/donald-trump-impeachment-senate-trial-vote-verdict-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/13/donald-trump-impeachment-senate-trial-vote-verdict-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
     quality: 117
     images:
-      - url: "https://i.guim.co.uk/img/media/e1bcc9a299e588df34202fe396e33481b977e6f2/40_0_1200_720/master/1200.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8072fef13e92ed6ee8018856576c0fc1"
-        width: 600
-        height: 360
+      - url: "https://s.abcnews.com/images/General/gop-liz-cheney-matt-gaetz-wyoming-04-gty-210128_1611878359548_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "In self-imposed exile, Trump watches with unhappiness as second impeachment trial unfolds"
-    excerpt: "Trump has remained sanguine that an evenly divided Senate will acquit him, while one person described him as “bored out of his mind” in Florida."
-    publishedDateTime: 2021-02-10T16:55:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-impeachment-trial-florida/2021/02/09/03ccaa72-6a61-11eb-9f80-3d7646ce1bc0_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-impeachment-trial-florida/2021/02/09/03ccaa72-6a61-11eb-9f80-3d7646ce1bc0_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-impeachment-trial-florida/2021/02/09/03ccaa72-6a61-11eb-9f80-3d7646ce1bc0_story.html?outputType=amp"
+  - title: "Exclusive: Dozens of former Republican officials in talks to form anti-Trump third party"
+    excerpt: "Dozens of former Republican officials, who view the party as unwilling to stand up to former President Donald Trump and his attempts to undermine U.S. democracy, are in talks to form a center-right breakaway party,"
+    publishedDateTime: 2021-02-11T08:41:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-party-exclusive-idUSKBN2AB07P"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AB07P"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AB07P"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: Reuters
+      domain: reuters.com
     quality: 116
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PH42VQDLAUI6XJTO4JYEN2PITA.jpg&w=1440"
-        width: 1440
-        height: 932
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210211&t=2&i=1551126039&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1A051"
+        width: 813
+        height: 545
         isCached: true
-  - title: "Trump impeachment: Senate trial to continue after harrowing video evidence – live updates"
-    excerpt: "Senate will reconvene at noon for second day of prosecution evidence"
-    publishedDateTime: 2021-02-11T07:39:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/11/donald-trump-impeachment-senate-trial-live-news-updates"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/11/donald-trump-impeachment-senate-trial-live-news-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/11/donald-trump-impeachment-senate-trial-live-news-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 116
-    images:
-      - url: "https://i.guim.co.uk/img/media/46d9743bc2e91cf0102be98cc16b82fd8ecbc739/112_0_2635_1582/master/2635.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4148aa8ba4482f29017832f5602b0a91"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Trump impeachment trial: Senate to reconvene for closing arguments and vote – live updates"
-    excerpt: "Each legal team will have two hours to re-state their case before Senate likely votes to acquit Donald Trump"
-    publishedDateTime: 2021-02-13T11:55:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/13/donald-trump-impeachment-senate-trial-vote-verdict-live-updates"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/13/donald-trump-impeachment-senate-trial-vote-verdict-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/13/donald-trump-impeachment-senate-trial-vote-verdict-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 115
-    images:
-      - url: "https://i.guim.co.uk/img/media/d1ecc6bb6936f3e45fca818c4c66a3c242be9e41/86_0_2635_1582/master/2635.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=91cb2a02d314d1b937d8488aeebcc174"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Senate votes to consider witnesses in Donald Trump’s impeachment case, potentially extending trial"
-    excerpt: "Senate votes to consider witnesses in Donald Trump’s impeachment case, potentially extending trial. Copyright 2021 The Associated Press. All rights reserved. This material may not be published, broadcast,"
-    publishedDateTime: 2021-02-13T20:38:00Z
-    webUrl: "https://www.washingtonpost.com/politics/senate-votes-to-consider-witnesses-in-donald-trumps-impeachment-case-potentially-extending-trial/2021/02/13/7da0c14a-6e11-11eb-a66e-e27046e9e898_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/senate-votes-to-consider-witnesses-in-donald-trumps-impeachment-case-potentially-extending-trial/2021/02/13/7da0c14a-6e11-11eb-a66e-e27046e9e898_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/senate-votes-to-consider-witnesses-in-donald-trumps-impeachment-case-potentially-extending-trial/2021/02/13/7da0c14a-6e11-11eb-a66e-e27046e9e898_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 111
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Live Updates: Democrats to show unseen footage of Capitol attack on Day 2 of Trump impeachment trial"
-    excerpt: "House impeachment managers plan to use \"extraordinary\" footage from Capitol security cameras that has not been made public, aides said."
-    publishedDateTime: 2021-02-10T16:28:00Z
-    webUrl: "https://www.cbsnews.com/live-updates/trump-impeachment-trial-day-2-2021-02-10/"
-    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/trump-impeachment-trial-day-2-2021-02-10/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/trump-impeachment-trial-day-2-2021-02-10/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 110
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/02/09/8782f873-40aa-4718-8fb7-79346c72244b/thumbnail/1200x630/444c7b65c03aae5ae32aab252686dc41/gettyimages-1231064604.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "House Democrats conclude Trump impeachment case, warning of potential violence if Republicans refuse to convict"
-    excerpt: "The impeachment managers linked the former president’s long effort to undermine the election with statements of insurrectionists who stormed the Capitol on Jan. 6."
-    publishedDateTime: 2021-02-12T00:51:00Z
-    webUrl: "https://www.washingtonpost.com/politics/senate-impeachment-trial-trump/2021/02/11/33229f7e-6c88-11eb-9f80-3d7646ce1bc0_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/senate-impeachment-trial-trump/2021/02/11/33229f7e-6c88-11eb-9f80-3d7646ce1bc0_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/senate-impeachment-trial-trump/2021/02/11/33229f7e-6c88-11eb-9f80-3d7646ce1bc0_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ELTAZ2TMXII6XJTO4JYEN2PITA.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Majority of Americans say Trump should be convicted, barred from holding federal office in impeachment trial: POLL"
-    excerpt: "In a new ABC News/Ipsos poll, a majority of Americans support the Senate convicting former President Trump in his second impeachment trial, but the partisan gap persists."
-    publishedDateTime: 2021-02-07T14:06:00Z
-    webUrl: "https://abcnews.go.com/Politics/majority-americans-trump-convicted-barred-holding-federal-office/story?id=75729878"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/majority-americans-trump-convicted-barred-holding-federal-office/story?id=75729878"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/majority-americans-trump-convicted-barred-holding-federal-office/story?id=75729878"
+  - title: "Video surfaces showing Trump ally Roger Stone flanked by Oath Keepers on morning of Jan. 6"
+    excerpt: "A new video has surfaced showing former President Trump's adviser Roger Stone flanked by members of the Oath Keepers just hours before the deadly riot at the Capitol."
+    publishedDateTime: 2021-02-06T00:42:00Z
+    webUrl: "https://abcnews.go.com/US/video-surfaces-showing-trump-ally-roger-stone-flanked/story?id=75706765"
+    ampWebUrl: "https://abcnews.go.com/amp/US/video-surfaces-showing-trump-ally-roger-stone-flanked/story?id=75706765"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/video-surfaces-showing-trump-ally-roger-stone-flanked/story?id=75706765"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 103
+    quality: 115
     images:
-      - url: "https://s.abcnews.com/images/Politics/donald-trump-marjorie-taylor-greene-extremism-02-gty-llr-210206_1612646373841_hpMain_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/roger-stone1-ht-ml-210205_1612541180760_hpMain_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Senate poised to vote on convicting Trump: ‘It’s more aimed at some president we don’t even know 20 years from now’"
-    excerpt: "Senators are poised to vote on whether Donald Trump will be held accountable for inciting the attack at the Capitol."
-    publishedDateTime: 2021-02-13T14:34:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-trump-impeachment-trial-20210213-o7pq5z4hvrazxiyhwdnhqk22oy-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-trump-impeachment-trial-20210213-o7pq5z4hvrazxiyhwdnhqk22oy-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-trump-impeachment-trial-20210213-o7pq5z4hvrazxiyhwdnhqk22oy-story.html?outputType=amp"
+  - title: "Wyoming GOP censures Rep. Liz Cheney over impeachment vote: ‘We need to honor President Trump.’"
+    excerpt: "The Wyoming Republican Party voted Saturday to censure U.S. Rep. Liz Cheney for voting to impeach President Donald Trump without “formal hearing or due process.”"
+    publishedDateTime: 2021-02-06T22:26:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-liz-cheney-wyoming-gop-censure-20210206-fy3yqaahkjg3fhz3tg65fjnbxu-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-liz-cheney-wyoming-gop-censure-20210206-fy3yqaahkjg3fhz3tg65fjnbxu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-liz-cheney-wyoming-gop-censure-20210206-fy3yqaahkjg3fhz3tg65fjnbxu-story.html?outputType=amp"
     type: article
     provider:
       name: Chicago Tribune
       domain: chicagotribune.com
-    quality: 103
+    quality: 113
     images:
-      - url: "https://www.chicagotribune.com/resizer/cQLYPmu2lYOfJkwdBpPkDrCaifY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/S7Z5CCIGEMEE5JQLWBSDAMYHFQ.jpg"
+      - url: "https://www.chicagotribune.com/resizer/CnYdZnSLBosT4gqWRmMqUGpBSaM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7PF5NSWMSWRXVGVWTBTJCCUYOQ.aspx"
         width: 1200
-        height: 801
+        height: 800
         isCached: true
-  - title: "Trump's impeachment trial is literally occurring at the scene of the crime, and both the prosecutors and jurors are witnesses"
-    excerpt: "There are a whirlwind of emotions and political aspirations steering this historic trial, and Trump's acquittal appears all but guaranteed."
-    publishedDateTime: 2021-02-11T22:24:00Z
-    webUrl: "https://www.businessinsider.com/trump-trial-occurring-site-of-crime-prosecutors-jurors-are-witnesses-2021-2"
-    ampWebUrl: "https://www.businessinsider.com/trump-trial-occurring-site-of-crime-prosecutors-jurors-are-witnesses-2021-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-trial-occurring-site-of-crime-prosecutors-jurors-are-witnesses-2021-2?amp"
+  - title: "Donald Trump's backers failed to take down Liz Cheney, but the Republican 'civil war' isn't near over"
+    excerpt: "House Republicans vote to keep Liz Cheney in leadership role, despite her impeachment vote; Trump backers vowed to defeat her in a 2022 GOP primary."
+    publishedDateTime: 2021-02-04T11:13:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/04/donald-trump-backers-didnt-oust-liz-cheney-but-republican-civil-war-goes/4362276001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4362276001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4362276001"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 98
+      name: USA Today
+      domain: usatoday.com
+    quality: 110
     images:
-      - url: "https://i.insider.com/6025a8e9b3c2a800183cc775?width=1200&format=jpeg"
+      - url: "https://www.gannett-cdn.com/presto/2021/02/04/USAT/c504d799-03af-495e-b0b4-98042333bc1c-Liz_Cheney_1.jpg?auto=webp&crop=5087,2862,x0,y0&format=pjpg&width=1200"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
-  - title: "Impeachment managers rest their case after calling Trump's conduct 'an assault on the first amendment' - live"
-    excerpt: "Congressman Joe Neguse says Trump’s messages to the insurrectionists prove he is ‘overwhelmingly guilty’ of incitement - follow live"
-    publishedDateTime: 2021-02-12T00:33:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/11/donald-trump-impeachment-senate-trial-live-news-updates?page=with:block-6025b4788f08d7b7c03d07f7"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/11/donald-trump-impeachment-senate-trial-live-news-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/11/donald-trump-impeachment-senate-trial-live-news-updates"
+  - title: "Illinois GOP says Rep. Adam Kinzinger and other Republicans who voted to impeach Trump ‘created widespread division and anger’ in the party"
+    excerpt: "The Illinois Republican Party issued a mild rebuke to Republican U.S. Rep. Adam Kinzinger, saying it disagreed with his vote to impeach former President Donald Trump as it sought to clear its agenda for a Saturday meeting to pick a new chairman who could unify the party."
+    publishedDateTime: 2021-02-05T19:50:00Z
+    webUrl: "https://www.chicagotribune.com/politics/ct-adam-kinzinger-illinois-republicans-20210205-7cwxhciinzcmvjyaue6ohenc2y-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/politics/ct-adam-kinzinger-illinois-republicans-20210205-7cwxhciinzcmvjyaue6ohenc2y-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/politics/ct-adam-kinzinger-illinois-republicans-20210205-7cwxhciinzcmvjyaue6ohenc2y-story.html?outputType=amp"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 86
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 91
+    images:
+      - url: "https://www.chicagotribune.com/resizer/kCqS5P5WC39bSue-e9RXnprCOTQ=/1200x0/center/bottom/cloudfront-us-east-1.images.arcpublishing.com/tronc/MT27UL6PIVCNVJGKREWOTHUM3E.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Senate Acquits Trump With Seven Republicans Joining All 50 Democrats in Voting ‘Guilty’"
+    excerpt: "Mitch McConnell spoke after the verdict to denounce Trump’s conduct while insisting his trial was unconstitutional."
+    publishedDateTime: 2021-02-14T02:38:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/02/senate-acquits-trump-with-seven-republicans-defecting.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/02/senate-acquits-trump-with-seven-republicans-defecting.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/02/senate-acquits-trump-with-seven-republicans-defecting.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 67
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/4f7/742/f99a5a8f182f257ba6fe3100462802bb5d-impeachment-trial-verdict-screencap.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "dPWMmruoKNBgcDJU5PDeK31+ML8OQg9A7PM2qArNZCLfp2G4tOFYsTa3JCGEoV9Fw39pm+kptuCj02xz9GfCyFEaQ1rNB3Vb+BsO7cuxr8dM81dXA67B5cS9xQbGqg4b/i7bwh5z2oKKOcQeY79FE/voVUsCyVM9EZ0xce0RQ04CJB/vvA9/Qay0XplXI0NyE01krird8iUMjopJjT7U6M4a4xauYxTiooo0xtszTAEvRJ1OWc66lJg1NyMk+QKWUKjy9XNV11SUdeGKR/vN0/G7wBsK0SD/LQwgBZ/e8C/Q5AEZL1T5qObCR8Vl1lE2+HYMtF+zBuRISRyJB1N13ecvDoZWj/M7FumI9L2WUpseHLMjH68QweKscatXlTguTzh5PtdXce6oVIhjpWEePJ3oC6+g+j2Kt3X+hxRCUVyMpGAZ++n9aiAH2jmI2FVQB1sFYxOTsx2hCBiFHfJHtR6Zgh51L5+5mDkugkVitaZLMdJBDxaNgwz8kYirDOn4SxDlg3nPexg6NE3g8v1ixg==;8YVHSGySzzDRxkCKfTXGsQ=="
 ---

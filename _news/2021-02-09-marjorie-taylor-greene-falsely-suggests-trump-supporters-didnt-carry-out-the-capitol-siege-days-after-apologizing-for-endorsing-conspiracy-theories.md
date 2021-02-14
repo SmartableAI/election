@@ -47,117 +47,37 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Trump lawyers hit impeachment trial as politically motivated ‘hatred’"
-    excerpt: "The defense team, confident that Trump will not be convicted, used up less than three hours in its arguments to the Senate."
-    publishedDateTime: 2021-02-13T06:33:00Z
-    webUrl: "https://www.washingtonpost.com/politics/senate-impeachment-trial-trump/2021/02/12/8f53ceb4-6d3a-11eb-9f80-3d7646ce1bc0_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/senate-impeachment-trial-trump/2021/02/12/8f53ceb4-6d3a-11eb-9f80-3d7646ce1bc0_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/senate-impeachment-trial-trump/2021/02/12/8f53ceb4-6d3a-11eb-9f80-3d7646ce1bc0_story.html?outputType=amp"
+  - title: "Trump remains dominant force in GOP following acquittal"
+    excerpt: "For Trump’s loyalists, the acquittal offers a vindication of sorts and a fresh connection to the former president's fiery base. And for Trump’s GOP antagonists, it marks anoth"
+    publishedDateTime: 2021-02-14T04:47:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-remains-dominant-force-gop-acquittal-75881676"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-remains-dominant-force-gop-acquittal-75881676"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-remains-dominant-force-gop-acquittal-75881676"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_4cc8f27fc0334b39a230321c35412005_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Power Up: Trump spokesman says move to disqualify him from future office is 'dead on arrival'"
+    excerpt: "This is the Power Up newsletter. Thanks for waking up with us. IMPEACHMENT II: Former president Donald Trump won't be testifying in his second Senate impeachment trial starting today. But that doesn't mean Trump won't be tuning in to the proceedings as House impeachment managers argue he is “singularly responsible” for inciting the Jan."
+    publishedDateTime: 2021-02-09T16:22:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/02/09/power-up-trump-spokesman-says-move-disqualify-him-future-office-is-dead-arrival/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/02/09/power-up-trump-spokesman-says-move-disqualify-him-future-office-is-dead-arrival/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/02/09/power-up-trump-spokesman-says-move-disqualify-him-future-office-is-dead-arrival/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 125
+    quality: 114
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2UZOFMTNOEI6XJTO4JYEN2PITA.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2CAUKOTKJII6XJTO4JYEN2PITA.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "Trump impeachment trial live updates: Managers show new security footage of riot"
-    excerpt: "Raskin warned that managers would present footage viewers may find disturbing. Trump impeachment trial: Day 2 key moments Former President Donald Trump's historic second impeachment trial is taking place in the Senate."
-    publishedDateTime: 2021-02-11T02:05:00Z
-    webUrl: "https://abcnews.go.com/Politics/live-updates/trump-impeachment-trial-live-updates-senate-debate-constitutionality/?id=75741945"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/trump-impeachment-trial-live-updates-senate-debate-constitutionality/?id=75741945"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/trump-impeachment-trial-live-updates-senate-debate-constitutionality/?id=75741945"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 120
-    images:
-      - url: "https://s.abcnews.com/images/General/impeachment-donald-trump-25-ap-llr-210210_1612998847095_hpMain_16x9_1600.jpg"
-        width: 1600
-        height: 901
-        isCached: true
-  - title: "New video, withdrawn comments: 6 takeaways from Day 2 of Trump's impeachment trial"
-    excerpt: "House impeachment managers proceeded with their arguments for convicting former President Donald Trump on the charge of inciting the Capitol riot."
-    publishedDateTime: 2021-02-11T02:14:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/10/top-takeaways-day-2-donald-trump-impeachment-trial/4459682001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4459682001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4459682001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 119
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/02/11/USAT/4d9df8b2-c3b1-4595-9989-d82b70132cac-AP21042008403854.jpg?auto=webp&crop=2800,1575,x5,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump impeachment trial live updates: Trump attorney signals trial could end Friday"
-    excerpt: "The House impeachment managers have wrapped up their opening arguments. Trump impeachment trial: Day 3 key moments Former President Donald Trump's historic second impeachment trial is taking place in the Senate."
-    publishedDateTime: 2021-02-12T03:17:00Z
-    webUrl: "https://abcnews.go.com/Politics/live-updates/trump-impeachment-trial-live-updates-senate-debate-constitutionality/?id=75741945"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/trump-impeachment-trial-live-updates-senate-debate-constitutionality/?id=75741945"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/trump-impeachment-trial-live-updates-senate-debate-constitutionality/?id=75741945"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 119
-    images:
-      - url: "https://s.abcnews.com/images/Politics/schoen-gty-er-210211_1613092879727_hpMain_16x9_1600.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Trump impeachment trial live updates: Democrats to present never-before-seen evidence"
-    excerpt: "House impeachment managers will use evidence that hasn't been seen before during the imminent trial, according to senior aides on the team. Senate Majority Leader Chuck Schumer re"
-    publishedDateTime: 2021-02-09T16:35:00Z
-    webUrl: "https://abcnews.go.com/Politics/live-updates/trump-impeachment-trial-live-updates-senate-debate-constitutionality/?id=75741945"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/trump-impeachment-trial-live-updates-senate-debate-constitutionality/?id=75741945"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/trump-impeachment-trial-live-updates-senate-debate-constitutionality/?id=75741945"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 118
-    images:
-      - url: "https://s.abcnews.com/images/General/donald-trump-self-pardon-03-gty-llr-210107_1610059083613_hpMain_16x9_1600.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Trump impeachment trial live updates: Trump lawyer threatened to quit night before defense began"
-    excerpt: "Trump himself had to call David Schoen to convince him to stay on the team. Trump impeachment trial: Day 4 key moments Former President Donald Trump's historic second impeachment trial is taking place in the Senate."
-    publishedDateTime: 2021-02-13T08:26:00Z
-    webUrl: "https://abcnews.go.com/Politics/live-updates/trump-impeachment-trial-live-updates-senate-debate-constitutionality/?id=75741945"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/trump-impeachment-trial-live-updates-senate-debate-constitutionality/?id=75741945"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/trump-impeachment-trial-live-updates-senate-debate-constitutionality/?id=75741945"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 112
-    images:
-      - url: "https://s.abcnews.com/images/Politics/david-schoen_hpMain_20210212-222156_16x9_1600.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Trump's defense team used 2 hours and 32 minutes of its 16 allotted hours at his impeachment trial"
-    excerpt: "Both sides have wrapped up their arguments and are now taking questions from senators, meaning that a vote on Trump's fate could come on Saturday."
-    publishedDateTime: 2021-02-12T15:22:00Z
-    webUrl: "https://www.businessinsider.com/trump-lawyers-present-defense-under-3-hours-impeachment-trial-2021-2"
-    ampWebUrl: "https://www.businessinsider.com/trump-lawyers-present-defense-under-3-hours-impeachment-trial-2021-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-lawyers-present-defense-under-3-hours-impeachment-trial-2021-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 111
-    images:
-      - url: "https://i.insider.com/6026ea30b3c2a800183ccb61?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Live impeachment updates: Prosecutors end arguments; Trump lawyer calls trial 'weaponization' of impeachment"
     excerpt: "House prosecutors ended their arguments in the impeachment trial of Donald Trump. The former president's legal team starts Friday."
@@ -172,54 +92,6 @@ related:
     quality: 106
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/02/11/USAT/fbd94518-cc77-4c73-b4c5-65ffc5559fd1-AP21042739498943.jpg?auto=webp&crop=3229,1816,x0,y125&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Live impeachment updates: Trump's legal team aims to distance him from Capitol violence in opening arguments"
-    excerpt: "Donald Trump's lawyers say Democratic prosecutors failed to connect the former president to the violence that unfolded at the Capitol on Jan. 6."
-    publishedDateTime: 2021-02-12T12:15:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/12/trump-impeachment-trial-ex-presidents-team-argue-his-innocence/4422711001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4422711001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4422711001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 106
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/02/11/USAT/45a947a2-e660-4eed-a658-2b1fa67886b2-AFP_92R6UW.jpg?auto=webp&crop=4964,2793,x0,y252&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Live impeachment updates: House prosecutors will wrap up arguments at Trump trial after day of Capitol footage"
-    excerpt: "The nine managers will resume their arguments at noon in their final day of opening arguments. When they're done, Trump's team will begin."
-    publishedDateTime: 2021-02-11T12:10:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/11/trump-impeachment-trial-house-prosecutors-wrap-up-arguments/4422691001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4422691001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4422691001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/02/10/USAT/81357ca9-76f8-4a30-8f24-92b1493b443a-AP_Trump_Impeachment_8.jpg?auto=webp&crop=3647,2052,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump impeachment trial: After emotional first day, opening arguments begin today in historic second Senate trial"
-    excerpt: "Opening arguments will begin Wednesday in Donald Trump’s impeachment trial after an emotional first day that wrenched senators back to the Jan. 6 attack on the U.S. Capitol."
-    publishedDateTime: 2021-02-10T12:56:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-impeachment-trial-20210210-vvwsnu2gw5bmxpc2ma7rhzr3eu-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-impeachment-trial-20210210-vvwsnu2gw5bmxpc2ma7rhzr3eu-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-impeachment-trial-20210210-vvwsnu2gw5bmxpc2ma7rhzr3eu-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 104
-    images:
-      - url: "https://www.chicagotribune.com/resizer/VjqPxpVay4Rtjf9n1-Kum6ELaAg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/CORIAL3QTZH3RM7WDGTYMNE7NY.aspx"
         width: 1200
         height: 675
         isCached: true

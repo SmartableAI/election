@@ -79,22 +79,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "The Latest: Biden says minds may change at impeachment trial"
-    excerpt: "President Joe Biden says he believes “some minds may be changed” in former President Donald Trump’s impeachment trial after the display of graphic videos of the assault on the U.S. Capitol"
-    publishedDateTime: 2021-02-11T05:03:00Z
-    webUrl: "https://www.washingtonpost.com/politics/the-latest-democrats-focus-on-trumps-silence-during-riot/2021/02/10/a0b33de6-6bfc-11eb-a66e-e27046e9e898_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-democrats-focus-on-trumps-silence-during-riot/2021/02/10/a0b33de6-6bfc-11eb-a66e-e27046e9e898_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-democrats-focus-on-trumps-silence-during-riot/2021/02/10/a0b33de6-6bfc-11eb-a66e-e27046e9e898_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "Everything Joe Biden Has Said About Reopening Schools"
     excerpt: "According to a school reopening tracking map from EdWeek, a majority of states have left the decision to reopen schools to local school districts and their health departments."
     publishedDateTime: 2021-02-12T15:51:00Z
@@ -149,17 +133,6 @@ related:
     webUrl: "https://www.businessinsider.com/senate-confirms-mayorkas-as-bidens-homeland-security-chief-2021-2"
     ampWebUrl: "https://www.businessinsider.com/senate-confirms-mayorkas-as-bidens-homeland-security-chief-2021-2?amp"
     cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/senate-confirms-mayorkas-as-bidens-homeland-security-chief-2021-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "The Latest: Biden says minds may change at impeachment trial"
-    excerpt: "The Latest on former President Donald Trump's second Senate (all times local):"
-    publishedDateTime: 2021-02-11T21:58:00Z
-    webUrl: "https://www.businessinsider.com/the-latest-biden-says-minds-may-change-at-impeachment-trial-2021-2"
-    ampWebUrl: "https://www.businessinsider.com/the-latest-biden-says-minds-may-change-at-impeachment-trial-2021-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/the-latest-biden-says-minds-may-change-at-impeachment-trial-2021-2?amp"
     type: article
     provider:
       name: Business Insider

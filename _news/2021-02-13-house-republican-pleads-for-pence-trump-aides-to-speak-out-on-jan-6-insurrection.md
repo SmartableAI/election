@@ -622,20 +622,20 @@ related:
         height: 550
         isCached: true
   - title: "Donald Trump acquitted in second impeachment trial"
-    excerpt: "The Senate voted Saturday to acquit former President Trump of inciting insurrection at the Capitol. Follow here for the latest."
-    publishedDateTime: 2021-02-13T23:06:00Z
-    webUrl: "https://www.cnn.com/politics/live-news/trump-impeachment-trial-02-13-2021/h_78d3916c2eb213c0bb589487f3df1e98"
-    ampWebUrl: "https://amp.cnn.com/cnn/politics/live-news/trump-impeachment-trial-02-13-2021/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/politics/live-news/trump-impeachment-trial-02-13-2021/index.html"
+    excerpt: "In the most bipartisan Senate impeachment vote in history, former President Trump was declared not guilty of the impeachment charge that he incited the Capitol insurrection. Trump released a statement calling the trial a “witch hunt."
+    publishedDateTime: 2021-02-14T01:41:00Z
+    webUrl: "https://www.nbcnews.com/nightly-news/video/donald-trump-acquitted-in-second-impeachment-trial-100998213510"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo100998213510"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo100998213510"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
+      name: NBC News
+      domain: nbcnews.com
     quality: 135
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210204131913-102-trump-impeachment-centered-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202102/nn_khu_impeachment_trial_trump_acquitted_210213_1613261732532.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Party leaders rip Republicans who voted to convict Trump"
     excerpt: "The seven Republican senators who voted to convict former President Donald Trump of inciting the deadly Jan. 6 insurrection are already feeling the heat back home. Several state Republican parties moved quickly to discipline or criticize home-state senators for breaking with the 43 other Senate Republicans who voted to acquit Trump in his second impeachment trial."

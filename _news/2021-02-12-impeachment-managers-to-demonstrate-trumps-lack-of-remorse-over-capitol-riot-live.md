@@ -55,6 +55,17 @@ related:
         width: 1400
         height: 787
         isCached: true
+  - title: "Impeachment managers rest their case after calling Trump's conduct 'an assault on the first amendment' - live"
+    excerpt: "Congressman Joe Neguse says Trump’s messages to the insurrectionists prove he is ‘overwhelmingly guilty’ of incitement - follow live"
+    publishedDateTime: 2021-02-12T00:33:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/11/donald-trump-impeachment-senate-trial-live-news-updates?page=with:block-6025b4788f08d7b7c03d07f7"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/11/donald-trump-impeachment-senate-trial-live-news-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/11/donald-trump-impeachment-senate-trial-live-news-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 86
 
 secured: "93MRxgqn/+nZX2j5t3qgyE19sqeT6EE7Iou1lG5NkdEyBunXjNuvPVgFJC7oqUPH3g9qeWatE9sOnh+w8dqqvJrXyRObP9YADRBWPRFBqDmEJ7ND5ShCSeJmN3CzFLp4+c917Pp4Wp1EB2mxnuetF6NsNpGln29nfDFUYDUmCk3nYlfXoZ3l1RF4ElwNplvW3qabEilOhPMHekqmoCR8Yk3LJOHw5Zi7FBokMs6k4beV4UDHisaJQ2hpeeSZJYH5P1nWgWXVWJoJkpnRcn89j1gwQb7uV9+CqvzgYL+OeunZvf7LqAcDRxkk33YVuTxHH7M2B6dyIvMHQvZbD0GHX1T1jrcsAqrQzzbcDTA1jEKtcTLp6Tbz3E+VQEpIn24gDwURR/hrNLZeAh7TCsQAFm8QFqnNOkaWSaavbDW7gAAJXESETS9ueIXOjh1BvsFn29p2VXXbD2M93I4Eu8es/SGMfPkmTs7ImbHe0byT5bjBBiYJBlcRbo0PVJ4ZLfQ7/XR+rbOosbaa+8oonUVBuQ==;n6JykrJry1V8kuFsVfgDeQ=="
 ---

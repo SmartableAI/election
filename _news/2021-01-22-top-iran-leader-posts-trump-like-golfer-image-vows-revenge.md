@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29R0DE"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29R0DE"
 type: article
 quality: 125
-heat: 565
+heat: 545
 published: true
 
 provider:
@@ -279,22 +279,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/01/19/NCOD/ab823e34-7c14-402b-8182-209be57029dd-Election_2020_Trump_57553.j.JPG?auto=webp&crop=5102,2870,x0,y259&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "What happens next for Donald Trump’s impeachment trial?"
-    excerpt: "Former US president Donald Trump’s historic second impeachment trial starts in February, but the process really begins January 25, when the House sends the article of impeachment to the Senate ..."
-    publishedDateTime: 2021-01-25T05:43:00Z
-    webUrl: "https://www.scmp.com/news/world/united-states-canada/article/3119099/what-happens-next-donald-trumps-impeachment-trial"
-    ampWebUrl: "https://amp.scmp.com/news/world/united-states-canada/article/3119099/what-happens-next-donald-trumps-impeachment-trial"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/united-states-canada/article/3119099/what-happens-next-donald-trumps-impeachment-trial"
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 75
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_explainer/public/d8/images/methode/2021/01/25/dc65f5ea-5ec8-11eb-9099-aaa38b7b3943_image_hires_170902.jpg?itok=OwKn4PLR&v=1611565752"
-        width: 1200
-        height: 630
         isCached: true
   - title: "QAnon Shaman willing to testify at Trump impeachment trial"
     excerpt: "Lawyer Albert Watkins said he hasn’t spoken to any member in the Senate since announcing his offer to have Jacob Chansley testify at Trump’s trial."

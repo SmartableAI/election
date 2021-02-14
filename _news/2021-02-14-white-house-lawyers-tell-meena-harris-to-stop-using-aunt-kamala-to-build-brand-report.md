@@ -1,32 +1,36 @@
 ---
 category: news
 title: "White House lawyers tell Meena Harris to stop using aunt Kamala to build brand: report"
-excerpt: "Vice President Kamala Harris’ social-media-influencer niece has long used her aunt’s fame to boost her own personal brand — but now that Harris has entered the White House, aides have become"
-publishedDateTime: 2021-02-14T03:26:00Z
-originalUrl: "https://nypost.com/2021/02/13/white-house-lawyers-tell-meena-harris-to-stop-using-aunt-kamala-for-brand-report/"
-webUrl: "https://nypost.com/2021/02/13/white-house-lawyers-tell-meena-harris-to-stop-using-aunt-kamala-for-brand-report/"
-ampWebUrl: "https://nypost.com/2021/02/13/white-house-lawyers-tell-meena-harris-to-stop-using-aunt-kamala-for-brand-report/amp/"
-cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/13/white-house-lawyers-tell-meena-harris-to-stop-using-aunt-kamala-for-brand-report/amp/"
+excerpt: "Vice President Kamala Harris’ social-media-influencer niece has long used her aunt’s fame to boost her own personal brand — but now that Harris has entered the White House, aides have become increasingly concerned about the ethical implications of the promotional pattern, according to a report. "
+publishedDateTime: 2021-02-14T12:12:43Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9U2FVUIPBGI/white-house-lawyers-meena-harris-kamala-harris-niece"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9U2FVUIPBGI/white-house-lawyers-meena-harris-kamala-harris-niece"
+ampWebUrl: "https://www.foxnews.com/politics/white-house-lawyers-meena-harris-kamala-harris-niece.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-lawyers-meena-harris-kamala-harris-niece.amp"
 type: article
-quality: 127
-heat: 127
+quality: 177
+heat: 177
 published: true
 
 provider:
-  name: New York Post
-  domain: nypost.com
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Kamala Harris
   - Republican Voice
+  - Kamala Harris
 
 images:
-  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/Meena-Harris.jpg?quality=90&strip=all&w=1200"
-    width: 1200
-    height: 800
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Meena-Harris-GETTY.jpg?ve=1&tl=1"
+    width: 640
+    height: 320
     isCached: true
 
-secured: "Ynr0a6iaUrGYGtB0choQoCyrQjtg+MAmP8tjbd5Cy1BiAYztMJ4QJt8cyph9X0p2jtWGWRMaipAYPTrYDkLX9V846wnoyXf7NLygsutzDcBjJxG6+dHUfYyf525GH9QVd40XFs5iUqnhLCWIIMeexRAnbHVhtjur572Y2C1o2zY5e0kKN3HctvCUllNr4+x+q2wkzdZtOjlL1alDJr6DcOMOzaHQi2LEqaR2HHD6yNIuxADMNNjGdPVnnJPeo209Kp3agzlRvOOnq0QYpsiWO8fG/y3piKv2+noSBZPL+D9GgzhSV/SVCR1qzfApTz4+E9wmZZ82GYWaaf/w2RXygSAFJlTKwx+SXxYf3in6Hyp9HjvaGD0qePQr48jnBpJCZjWA7fXQF4fKoNZfiwaMcMOyF8PBd8ZATAv6S5h4mTg7r8xNEzHTU9DbIkSMDjTK1uFnt08Uc6S+k6DgGixohScH8YZWAxTiARNmglZxBfoxU9pyac8VSwA4t4TNJUlaByS273mvLiHu3IicrqV+Jw==;ksloqkOUfH5WmldLAcwGSQ=="
+secured: "z7cfdZzwDaPkDsk8PtRoaRjt7NZVPOtoHunwXiGa7ObEjcN5ozNkwA2L6TSpcWiku7INTpmwNtDY0ZxGzT59CfLa6qghBE0hkN1u8op24m87kWNRhSu0P+55Kujx3fBahe+zVEw/DlQYqrzH379ilSTXcoaYB9rboNWGVLPYMIqiGcyjrdQNIgVgOzRedNVRzMP/SsaMn/gwYyvHYdAtZYhCteM5T/z4uCCek/1k5RIzjc7JZb795DPsVCpmrg21O3WSCs/kavr9KgmKpavatm3BiGRsnchdTGLSsSPI1ucRG64LYivrL3/i+0JMF/3NSIrLz/sUKEsSxU6KrHdrHbof4MZhrA3IZUUEeXAnXss=;zPq5d9JoBC/BVfqM5Nd0Yw=="
 ---
 

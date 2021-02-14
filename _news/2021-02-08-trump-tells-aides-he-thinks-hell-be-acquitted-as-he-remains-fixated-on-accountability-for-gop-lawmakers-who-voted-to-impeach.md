@@ -47,6 +47,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "McConnell's next chapter: Guiding the post-Trump GOP"
+    excerpt: "The Kentuckian is the GOP's de facto leader for at least the next two years, as Trump remains exiled in Florida with no real public platform."
+    publishedDateTime: 2021-02-14T12:05:00Z
+    webUrl: "https://www.politico.com/news/2021/02/14/mcconnells-next-chapter-guiding-the-post-trump-gop-469014"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/ba/49/dfd390ea400cb7bd00c4ff761091/gettyimages-1230449215-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "o4XHVjJ2kqTJo/hnZhKy2WrNLYXvSdfKKZRIyTPr9ZyPKMW1WicNh/kU2inwhTullD4/amPxPPhdDndsN2NH30eQGi581pFBpXLgqx3sKWIqN5lgraFOZaCobDqfQ/gZbP/CIci4p3KhYtROVhZTUJ6PZEIyWdOJ4+SouwpnApmWc1qC7b88znl7h2kqaufUuEHAn6IMwq9sm38zQ4oGyBjI2UGT0tiyixp9qwd3gVS9cvT9mI1TjXvDnwPLdTHXSt3qnAo+AVISDUveFh74FJC64H+H5IJLCL4u3l4mJPxKGVSvZe1BXyGxVQYEvPFJYwZLfkg8xTfWNLaRpjxuMQiZHrdnWj3r3n181kvrTUM=;Jp3ADeQINR71+925sAq2WQ=="
 ---

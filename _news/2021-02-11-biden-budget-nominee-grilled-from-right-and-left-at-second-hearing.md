@@ -185,22 +185,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "White House says Biden is committed to an independent Justice Department"
-    excerpt: "White House Press Secretary Jen Psaki said on Tuesday the decision to leave two U.S. prosecutors in their posts reflects President Joe Biden's commitment to an independent Justice Department."
-    publishedDateTime: 2021-02-09T18:42:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-doj-biden-psaki-idUSKBN2A92NQ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A92NQ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A92NQ"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 124
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210209&t=2&i=1550925382&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH181M8"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Biden brother’s role in Florida law firm complicates White House ethics message"
     excerpt: "Frank Biden, the president’s younger brother, is working as a senior adviser to a Florida law firm that has sought to attract business by touting the brothers’ connection and the president’s policies."
     publishedDateTime: 2021-02-03T11:08:00Z
@@ -308,20 +292,6 @@ related:
       - url: "https://static.reuters.com/resources/r/?d=20210208&i=OVDYNGOV3&r=OVDYNGOV3&t=2"
         width: 960
         height: 540
-        isCached: true
-  - title: "Psaki: Biden won't watch much of impeachment trial"
-    excerpt: "White House press secretary Jen Psaki says President Joe Biden won't \"spend too much time watching\" Donald Trump's Senate impeachment trial this week. Psaki told reporters Monday Biden will leave the pace,"
-    publishedDateTime: 2021-02-08T18:50:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/02/08/psaki-biden-wont-watch-much-impeachment-trial/4438382001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/28fbc8c6-cb04-46f4-a66c-ee07a5ba23e2_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
         isCached: true
 
 secured: "qIwD3uB5c1r6VHGbYTjeZ/CWPJ/peut/loG0lcYlm5SYl68z/1ne5t8yskYVcj+mSVFmy9Em+ZDWR6bdPhCAyQ0V1XPmvylbT7Jojnq7YXepFzfvIYodH3IoEmny9o+wKJ7BPwMoTCie4tSC+LvZm5Fl3uvZPwkxuExLEnG5tqzdJuIGCr5HN5WgyLgA/+nVNwv91dNwPCawNlPJXLAp9XrXg5oaDTZ/BUH01/q4Pbc4CrkTZfQDaBx0GMchCVvD/15uE6S3ImLPNdjjdSY+/LZ2OeiqXgjL6WOjBIXUEhper2nTT5Dv+Gkf5VubK/unEJDAT/vAzvj6b5je4HmGx19UULndFnYWmZaUMjwdULI=;uq+eC/JNJRfoAHhkioyOkg=="

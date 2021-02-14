@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-lawyer-impea
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-lawyer-impeachment-case-undemocratic-20210202-gkgp2lqf7fbxzidwhnmm7htxky-story.html?outputType=amp"
 type: article
 quality: 125
-heat: 405
+heat: 285
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Impeachment expert says Trump's lawyers distorted his work 'quite badly'"
-    excerpt: "A U.S. law professor who studies impeachment says former President Donald Trump's lawyers misrepresented his research in a brief laying out arguments they will make at his U.S. Senate impeachment trial that starts on Tuesday."
-    publishedDateTime: 2021-02-09T00:44:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-expert-idUSKBN2A82AE"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A82AE"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A82AE"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 124
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210208&t=2&i=1550805194&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH171HF"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Steve Bannon believes the Democrats have a 'compelling' case for impeaching Trump"
     excerpt: "Steve Bannon, Trump's ex-chief strategist, told Politico that the former president would be smeared 'in the eyes of the American people.'"
     publishedDateTime: 2021-02-06T17:33:00Z
@@ -62,38 +46,6 @@ related:
       - url: "https://i.insider.com/601eb9aa67d1e300113c4a75?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Trump impeachment: final day of preparations as Senate trial looms – live updates"
-    excerpt: "Polling shows slim majority of Americans want Trump convicted and barred from office"
-    publishedDateTime: 2021-02-08T12:08:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/08/donald-trump-impeachment-trial-senate-covid-coronavirus-joe-biden-live-updates?page=with:block-60211ebe8f0898d76fa132bc"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/08/donald-trump-impeachment-trial-senate-covid-coronavirus-joe-biden-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/08/donald-trump-impeachment-trial-senate-covid-coronavirus-joe-biden-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 120
-    images:
-      - url: "https://i.guim.co.uk/img/media/f53e10ada477be2183e26f567e2cac2af4414528/271_94_5297_3178/master/5297.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=fb527600bf70b7acda51a2517a391f50"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Trump lawyers blast Democrats before impeachment trial, deny he incited Capitol riot"
-    excerpt: "Lawyers for Donald Trump in a legal memo denied that he incited the deadly riot at the U.S. Capitol and accused Democrats of \"political opportunism.\" The brief came a day before Trump's historic second impeachment trial was set to begin in the Senate."
-    publishedDateTime: 2021-02-09T02:22:00Z
-    webUrl: "https://www.cnbc.com/2021/02/08/trump-lawyers-blast-democrats-before-impeachment-trial-deny-he-incited-capitol-riot.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/02/08/trump-lawyers-blast-democrats-before-impeachment-trial-deny-he-incited-capitol-riot.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/02/08/trump-lawyers-blast-democrats-before-impeachment-trial-deny-he-incited-capitol-riot.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 118
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106825621-1610754561730-zzz.jpg?v=1612800139"
-        width: 3000
-        height: 2000
         isCached: true
   - title: "Trump lawyers to file pretrial documents with U.S. Senate in preview of impeachment defense"
     excerpt: "Former President Donald Trump faces a deadline on Tuesday to respond to the U.S. House of Representatives' impeachment charging him with inciting insurrection in a fiery speech to supporters before last month's deadly assault on the Capitol."
@@ -185,22 +137,6 @@ related:
         width: 1400
         height: 787
         isCached: true
-  - title: "Trump Impeachment: Legal Team Says Trial Is A 'Selfish' Act By Democrats"
-    excerpt: "President Donald Trump's legal team on Monday lashed out against his Senate impeachment trial, arguing the case brought forth by Democrats seized on the nation's angered mood after the Capitol riots on Jan."
-    publishedDateTime: 2021-02-08T18:28:00Z
-    webUrl: "https://www.ibtimes.com/trump-impeachment-legal-team-says-trial-selfish-act-democrats-3140502"
-    ampWebUrl: "https://www.ibtimes.com/trump-impeachment-legal-team-says-trial-selfish-act-democrats-3140502?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-impeachment-legal-team-says-trial-selfish-act-democrats-3140502?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 74
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/06/donald-trump-is-the-only-us-president-ever.jpg"
-        width: 1024
-        height: 658
-        isCached: true
   - title: "Trump Impeachment Lawyers Quit, Who Will Be Part Of His New Legal Team?"
     excerpt: "Former President Donald Trump’s second impeachment trial is set to begin on Feb. 9 and he will need a new legal team after five attorneys on Saturday left over a disagreement in his legal strategy. The legal team included attorneys Butch Bowers,"
     publishedDateTime: 2021-01-31T14:53:00Z
@@ -215,31 +151,6 @@ related:
         width: 1024
         height: 696
         isCached: true
-  - title: "Trump Defense Urges Dismissal Of 'Absurd' Impeachment Trial"
-    excerpt: "Donald Trump's legal team argued Monday on the eve of his impeachment trial that the case is constitutionally flawed and it was \"absurd\" to hold the former president responsible for the US Capitol riot."
-    publishedDateTime: 2021-02-08T18:03:00Z
-    webUrl: "https://www.ibtimes.com/trump-defense-urges-dismissal-absurd-impeachment-trial-3140523"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/04/former-us-president-donald-trump-goes-on-trial.jpg"
-        width: 1024
-        height: 649
-        isCached: true
-  - title: "Trump Lawyers Blast Impeachment Trial as 'Political Theater'"
-    excerpt: "Lawyers for Donald Trump are blasting the impeachment case against him as an act of “political theater” by Democrats."
-    publishedDateTime: 2021-02-08T16:45:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-02-08/trump-impeachment-trial-to-open-with-sense-of-urgency-speed"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-08/trump-impeachment-trial-to-open-with-sense-of-urgency-speed?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-08/trump-impeachment-trial-to-open-with-sense-of-urgency-speed?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "fZrA/D60/s7pglwqvHsFOjsV6bAj8r1amWds04ZRPkXs/VZAgJmXNSaujC1xOnBMg0xg8WhTxOM05r59Gd063URSRym0NgCCl/KUJ+yCb1C46+QdmJKpoIXdkVhStKCatvSZaqmGLRxnzc/jzf0Jbh5dVyfIrCcvTcpuh2jOwYUieXP2zyJ2ezJMAs5SUmrdJqyMReZGv7b0q+lZAR3hewgmaXWTFDaJhDwwgH5onsBaaXXjqgEaX+D0NWyKyezciJRkxLOZjySGhmhAMym4QbAsLqo/fRL6bmMbOwAqasD4Nvvfaq9gQWHrW6RSaClFANbyg1Giqrd8YmIwnVbK4AsZDO0+nM2dAPs3ekTfekI=;sUSCtoJbz1dxTF6Ol/jCQQ=="
 ---

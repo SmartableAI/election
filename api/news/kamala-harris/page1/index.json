@@ -4,23 +4,23 @@
     {
       "path": "_news/2021-02-14-white-house-lawyers-tell-meena-harris-to-stop-using-aunt-kamala-to-build-brand-report.md",
       "title": "White House lawyers tell Meena Harris to stop using aunt Kamala to build brand: report",
-      "excerpt": "Vice President Kamala Harris’ social-media-influencer niece has long used her aunt’s fame to boost her own personal brand — but now that Harris has entered the White House, aides have become",
+      "excerpt": "Vice President Kamala Harris’ social-media-influencer niece has long used her aunt’s fame to boost her own personal brand — but now that Harris has entered the White House, aides have become increasingly concerned about the ethical implications of the promotional pattern, according to a report. ",
       "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/02/13/white-house-lawyers-tell-meena-harris-to-stop-using-aunt-kamala-for-brand-report/",
-      "originalUrl": "https://nypost.com/2021/02/13/white-house-lawyers-tell-meena-harris-to-stop-using-aunt-kamala-for-brand-report/",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9U2FVUIPBGI/white-house-lawyers-meena-harris-kamala-harris-niece",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9U2FVUIPBGI/white-house-lawyers-meena-harris-kamala-harris-niece",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 127,
+      "heat": 177,
       "tags": null,
       "images": [
         {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/02/Meena-Harris.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Meena-Harris-GETTY.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -28,14 +28,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/02/13/white-house-lawyers-tell-meena-harris-to-stop-using-aunt-kamala-for-brand-report/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/13/white-house-lawyers-tell-meena-harris-to-stop-using-aunt-kamala-for-brand-report/amp/",
-      "publishedDateTime": "2021-02-13T19:26:00-08:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/white-house-lawyers-meena-harris-kamala-harris-niece.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-lawyers-meena-harris-kamala-harris-niece.amp",
+      "publishedDateTime": "2021-02-14T04:12:43-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -45,8 +54,8 @@
       ],
       "topics": [
         "Election",
-        "Kamala Harris",
-        "Republican Voice"
+        "Republican Voice",
+        "Kamala Harris"
       ]
     },
     {

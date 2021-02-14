@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/national-security/douglass-mackey-ric
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/douglass-mackey-ricky-vaughn-donald-trump-hillary-clinton/2021/01/27/78a37940-60c8-11eb-afbe-9a11a127d146_story.html?outputType=amp"
 type: article
 quality: 123
-heat: 123
+heat: 143
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1440
     height: 958
     isCached: true
+
+related:
+  - title: "Marco Rubio Suggests Senate Could Try Hillary Clinton if Donald Trump is Convicted"
+    excerpt: "Senator Marco Rubio (R-FL) has suggested that f Hillary Clinton could be impeached and put on trial in the Senate if former President Donald Trump is convi"
+    publishedDateTime: 2021-02-13T12:22:00Z
+    webUrl: "https://www.newsweek.com/marco-rubio-suggests-senate-could-try-hillary-clinton-donald-trump-convicted-1569095"
+    ampWebUrl: "https://www.newsweek.com/marco-rubio-suggests-senate-could-try-hillary-clinton-donald-trump-convicted-1569095?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/marco-rubio-suggests-senate-could-try-hillary-clinton-donald-trump-convicted-1569095?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 119
+    images:
+      - url: "https://d.newsweek.com/en/full/1734630/former-secretary-state-hillary-clinton.jpg"
+        width: 2560
+        height: 1704
+        isCached: true
 
 secured: "9nlfkLegEL5Ebbohh0jNOCPjqNUVBDfiEaJSS1O+nmeyd/1ISwkC7wDd03tgfxRmH5GnCWJHB7y5MmtU/9YY2mbs4q/+ByWNs92+Qc26L5gptw5cYjHTmv0Ekhdkt/mGb1Cqm9KSlFRdY+NSHnO5X/mFZIw+JxP8y7So5uU2UrZb9ixNe/jK2CIYO3F/erGV4ajOSMWrmz2SAuDcq33zRSSkET8MD4nyoFHQqLcc3GDZ9mVI+n7CZGER6QM0titjMrVJ5fYcFrdLLmT9uzl1XKg6Ydrz8lDgngiA6VJ2bL5Jv6T2Q4OUAhWBg+hKm/l5gwEoRl/oX5rEOwZQlKtGlkv/nqGvLQCbcsWSSJqpOSyLxzOAkc+4koTEabBr4WxbbeQvYtFoIFHhD0ZQkQEIE+jYweSpamOpjJGqkTXO1LxmxGg2kyc32o8fzMhRSxoIXpPsJs/RQnP/9zET+BhAmiY6qeVCdD7zuWphYQgH2vZYG6MWsN+prHabzKRXd5JmERU+yqnDQBNVLjMwnMUpjw==;8mm54IjmPD83ujBevoiN3w=="
 ---

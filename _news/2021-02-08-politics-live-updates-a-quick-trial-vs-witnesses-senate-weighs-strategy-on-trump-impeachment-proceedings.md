@@ -31,65 +31,77 @@ images:
     isCached: true
 
 related:
-  - title: "Trump's defense team calls impeachment trial 'political vengeance'"
-    excerpt: "Donald Trump's lawyers on Friday began laying out their case for why the former president should be acquitted of inciting last month's deadly riot at the U.S. Capitol, arguing the impeachment trial was an act of \"political vengeance\" by Democrats."
-    publishedDateTime: 2021-02-12T18:47:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-idCAKBN2AC11K"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN2AC11K"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN2AC11K"
+  - title: "Live updates: Senate must convict Trump to ensure no future president incites insurrection, Democrats say"
+    excerpt: "Day 3 of former President Donald Trump's second impeachment trial has begun. The Democratic impeachment managers will use up to eight hours to wrap up their case against the ex-pr"
+    publishedDateTime: 2021-02-11T18:45:00Z
+    webUrl: "https://www.cnbc.com/2021/02/11/trump-impeachment-trial-live-updates-day-3.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/02/11/trump-impeachment-trial-live-updates-day-3.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/02/11/trump-impeachment-trial-live-updates-day-3.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 108
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106839426-1613066740937-gettyimages-1231104598-brave_zvrabgh107.jpg?v=1613066758"
+        width: 1582
+        height: 1024
+        isCached: true
+  - title: "Live impeachment updates: Trump's legal team, House prosecutors eye closing arguments with witness question unanswered"
+    excerpt: "Both sides are readying themselves for closing arguments in the Trump impeachment trial. But the decision on whether to call witnesses is unresolved."
+    publishedDateTime: 2021-02-13T11:49:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/13/trump-impeachment-trial-senate-readies-closing-arguments/6743661002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6743661002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6743661002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 101
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/13/USAT/df8f68dc-9b25-4a57-99d2-2e20ca5a5fab-AP_Trump_Impeachment_10.jpg?auto=webp&crop=4999,2812,x0,y254&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "U.S. Treasury says more time needed to decide on Trump tax returns - Bloomberg News"
+    excerpt: "The U.S. Treasury said it needs more time to decide whether to fight House Democrats in their effort to get former President Donald Trump's personal and business tax returns, Bloomberg News reported on Wednesday."
+    publishedDateTime: 2021-02-04T09:53:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-taxes/u-s-treasury-says-more-time-needed-to-decide-on-trump-tax-returns-bloomberg-news-idUSKBN2A40H8"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 125
+    quality: 99
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210212&t=2&i=1551337067&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1B0QW"
-        width: 811
-        height: 545
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210204&t=2&i=1550269013&r=LYNXMPEH130A3&w=800"
+        width: 800
+        height: 547
         isCached: true
-  - title: "Democrats use Trump tweets, new video to argue \"full scope\" of Capitol attack at impeachment trial"
-    excerpt: "House Democrats leading the prosecution of former President Trump wrapped up the second day of his impeachment trial on Wednesday by calling into question what Mr. Trump was doing while the Capitol was under attack on January 6."
-    publishedDateTime: 2021-02-11T12:12:00Z
-    webUrl: "https://www.cbsnews.com/live-updates/trump-impeachment-trial-video-capitol-attack/"
-    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/trump-impeachment-trial-video-capitol-attack/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/trump-impeachment-trial-video-capitol-attack/"
+  - title: "Sen. Tim Kaine says his censure proposal for former president Trump is still a ‘live option’"
+    excerpt: "Sen. Tim Kaine says he’s worried that former president Donald Trump will be acquitted again, but he explained the censure he proposed is still a “live option.” “There has to be accountability for the actions of Jan."
+    publishedDateTime: 2021-02-09T00:16:00Z
+    webUrl: "https://www.washingtonpost.com/video/washington-post-live/wplive/sen-tim-kaine-says-his-censure-proposal-for-former-president-trump-is-still-a-live-option/2021/02/08/19b6ce3f-10ad-45da-af18-6ef6b5746211_video.html"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 111
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 94
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/10/06393edd-f804-4a64-aa67-f5d55b0b10c2/thumbnail/1200x630/a11b24a137e8555dacc8b56a9297bbd6/screen-shot-2021-02-10-at-3-48-51-pm.png"
-        width: 1200
-        height: 630
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/02-08-2021/t_74ebace138074479a8f8a981b0ec7849_name_Screen_Shot_2021_02_08_at_4_27_58_PM.png&w=1080"
+        width: 1080
+        height: 719
         isCached: true
-  - title: "Trump 'loved' it when his defense team called impeachment trial 'constitutional cancel culture,' report says"
-    excerpt: "After a rocky start to the week, Trump was reportedly very pleased with his team's performance on Friday, aides told Politico."
-    publishedDateTime: 2021-02-13T13:38:00Z
-    webUrl: "https://www.businessinsider.com/trump-happy-with-lawyers-calling-trial-constitutional-cancel-culture-2021-2"
-    ampWebUrl: "https://www.businessinsider.com/trump-happy-with-lawyers-calling-trial-constitutional-cancel-culture-2021-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-happy-with-lawyers-calling-trial-constitutional-cancel-culture-2021-2?amp"
+  - title: "Trump Accused as 'Inciter in Chief' of Capitol Insurrection"
+    excerpt: "Prosecutors in Donald Trump’s impeachment trial are arguing that he was no “innocent bystander” but the “inciter in chief” of last month's deadly attack at the Capitol."
+    publishedDateTime: 2021-02-10T22:08:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-02-10/senators-to-hear-opening-arguments-as-trump-fumes-over-trial"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-10/senators-to-hear-opening-arguments-as-trump-fumes-over-trial?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-10/senators-to-hear-opening-arguments-as-trump-fumes-over-trial?context=amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 106
-    images:
-      - url: "https://i.insider.com/602793e8b3c2a800183ccbf5?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Trump impeachment: defense wraps up, claiming free speech is at stake – live"
-    excerpt: "Lawyers conclude after brief arguments in impeachment trial and insist ‘President Trump did not incite or cause the horrific violence’ – follow live"
-    publishedDateTime: 2021-02-13T00:43:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/12/donald-trump-impeachment-senate-trial-defense-lwayer-republican-senators-coronavirus-covid-live-updates?page=with:block-60270de88f08b555964bd21e"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/12/donald-trump-impeachment-senate-trial-defense-lwayer-republican-senators-coronavirus-covid-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/12/donald-trump-impeachment-senate-trial-defense-lwayer-republican-senators-coronavirus-covid-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 102
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "0+SDIRlOx3Pck7P4hvS3JpDsB0KhOqL2wiH4f6UnSP2MoAnKNDoUEVau5hVPaznTHCV/Cb8I3WuvdMiX+scXlUJWLOADrI5xWt8uobB3/XVaL9ONs7FouYKDecQq8TPD0D6zD+mXMVSqBhKu31qM0Cw/RRsZQVbfOFzx+6nr3G2rbPUTSNb6yD5N64kSO0YOBioFJRE1KktaI1HxDWCaOmJ0yKdW+CN5T+sKsxkDc7R8+lhB3oushW0fq6o1q8VQ+gGzVd4PiaIDuvt5w/360HPN3eC/aPkxWvdlr42QOzlIcFn6iFrRxqI9yrYr/GODAuPOHmGPn6BnIrohOXPLWpdfLlJkfsWNMe0AIJTLpyTl0Lxu0zYCeRmd7WhZSdDwkLWBGjoQeLg30Oc3RE0cWtbDMBrOC0HwbF/bC3i8sOCl4Cvd69pikYyf8fVJXFkpOhfTzRVbRrDr4Y4b7HoQSsLN4FNPtiiTJpj95BaUPJ9OktCgy6v0UPcgT02muwcOY3AW9sGvFKXcqSJXFvRwuQ==;yuwJai75vnBldRQVGgdC0A=="
 ---

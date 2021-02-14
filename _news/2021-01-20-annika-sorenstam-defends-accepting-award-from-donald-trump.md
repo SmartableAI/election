@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/sport/2021/jan/19/annika-sorenstam-defen
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/sport/2021/jan/19/annika-sorenstam-defends-accepting-award-from-donald-trump"
 type: article
 quality: 125
-heat: 145
+heat: 125
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 600
     height: 360
     isCached: true
-
-related:
-  - title: "Legal analysis of Trump impeachment trial"
-    excerpt: "The House delivered its article of impeachment against former President Trump on Monday. He's charged with inciting the deadly insurrection at the Capitol earlier this month. Jessica Levinson, Loyola Law School professor,"
-    publishedDateTime: 2021-01-26T04:38:00Z
-    webUrl: "https://www.cbsnews.com/video/trump-impeachment-trial-jessica-levinson-analysis-2021-01-25/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/26/870ea0d8-9185-41f6-bbf5-fc75ad2736d2/thumbnail/1200x630/ead47aa2d8d46155a20fe2c8ae8548f4/cbsn-fusion-trump-impeachment-trial-jessica-levinson-analysis-2021-01-25-thumbnail-633279-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "Ca7t+QP/eZv30xZ3JNTSuEbCwhXT2sPpDkFIUtsCsuY3wFWS4yHORQvqkVg5sAKMO+KT0fTN431RU4UwQjIJteUHfjnzzS8hIQVH2NQG2VUElfXJyiCefBMT9bB6qnpXbjCUM7Vctl7x07AaRYHJZcbvKVce7JBP6rQltAQNsAaXnDvYME1lXKQQi4VAEjwKn7lTnvUlAy8QbnkDXWjb7IlthaXDLyNYN06PBS5pUOsXcy9MYPDeK+i+VCEL7LoflDKJi5ioMDzuA0Yz7YgRvJXpGEZePBHxdV0aGrcEeLG+Yivqcivqb9tWVEiXOxCjSl0ozNyU0KLR3LTpSV/hevbvTw8uwkl/U/7SpqWvSVs=;jJ0psft9pz6HyhlovPAPww=="
 ---

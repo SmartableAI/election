@@ -47,6 +47,38 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Trevor Noah: Republicans 'acting like bored middle-schoolers' at Trump impeachment"
+    excerpt: "Late-night hosts recap the third day of the trial, as House managers concluded their case before an audience of distracted senators"
+    publishedDateTime: 2021-02-12T16:30:00Z
+    webUrl: "https://www.theguardian.com/culture/2021/feb/12/trevor-noah-republicans-trump-impeachment-trial"
+    ampWebUrl: "https://amp.theguardian.com/culture/2021/feb/12/trevor-noah-republicans-trump-impeachment-trial"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/culture/2021/feb/12/trevor-noah-republicans-trump-impeachment-trial"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 119
+    images:
+      - url: "https://i.guim.co.uk/img/media/64c81b46fa1ead1027270a801fd39451d4d7e3a5/137_136_2543_1526/master/2543.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5f9e8850db9a586c74151d3df85764fb"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "With Republican firewall, U.S. Senate acquits Trump of inciting deadly Capitol riot"
+    excerpt: "The U.S. Senate acquitted Donald Trump on Saturday of inciting the mob that stormed the Capitol last month, sparing him from conviction in his second impeachment trial in a year despite broad condemnation of his role in sparking the deadly siege."
+    publishedDateTime: 2021-02-14T06:48:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment/u-s-senate-acquits-trump-as-republicans-save-him-in-impeachment-again-idUSKBN2AD0AE"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AD0AE"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AD0AE"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 119
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210213&t=2&i=1551450590&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1C0JB"
+        width: 968
+        height: 545
+        isCached: true
   - title: "Exclusive: Dozens of former Republican officials in talks to form anti-Trump third party"
     excerpt: "Dozens of former Republican officials, who view the party as unwilling to stand up to former President Donald Trump and his attempts to undermine U.S. democracy, are in talks to form a center-right breakaway party,"
     publishedDateTime: 2021-02-11T08:41:00Z
@@ -126,6 +158,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/kCqS5P5WC39bSue-e9RXnprCOTQ=/1200x0/center/bottom/cloudfront-us-east-1.images.arcpublishing.com/tronc/MT27UL6PIVCNVJGKREWOTHUM3E.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Senate Acquits Trump With Seven Republicans Joining All 50 Democrats in Voting ‘Guilty’"
+    excerpt: "Mitch McConnell spoke after the verdict to denounce Trump’s conduct while insisting his trial was unconstitutional."
+    publishedDateTime: 2021-02-14T02:38:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/02/senate-acquits-trump-with-seven-republicans-defecting.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/02/senate-acquits-trump-with-seven-republicans-defecting.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/02/senate-acquits-trump-with-seven-republicans-defecting.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 67
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/4f7/742/f99a5a8f182f257ba6fe3100462802bb5d-impeachment-trial-verdict-screencap.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "s7zggSNz9sNGIgSC9cnpqyytd6GdkTvAdbP2c7c9O9NIW9YLruSbZF+sw3AbRiXQcs34Qx1V2pCCm3vTA/d3WR2Dn2sQOk2ftQspe2ckWOzWX8R+SIm1icDVFxjy+2Xy0S984Zn0x4NeO6edSCgsgXGUGJ/a6ANNXsN9L9cbmO7X6kChs2ZKL4jaltvoRVh7jlBlSWYWUuGTuwu7nOb/A+nA6EXci9+pm4qBpczsg17eJaKRXVQgBXcMSQviqagZKc244e2KH0nneO5dwNaIS7aVHxVgkDD5gJ7hXDhO/A8x8r6xjLhMDwOe2a/dSUig/SSc2XblWwgN6VXZPOjBSYB/friqTqNIJoqpwZlg40w=;O9/xvL34aW9IddwCuCR1YA=="

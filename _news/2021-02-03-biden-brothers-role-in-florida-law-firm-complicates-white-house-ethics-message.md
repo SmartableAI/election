@@ -191,22 +191,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "White House says Biden is committed to an independent Justice Department"
-    excerpt: "White House Press Secretary Jen Psaki said on Tuesday the decision to leave two U.S. prosecutors in their posts reflects President Joe Biden's commitment to an independent Justice Department."
-    publishedDateTime: 2021-02-09T18:42:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-doj-biden-psaki-idUSKBN2A92NQ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A92NQ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A92NQ"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 124
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210209&t=2&i=1550925382&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH181M8"
-        width: 817
-        height: 545
-        isCached: true
   - title: "U.S. Senate passes budget plan to advance Biden's $1.9 trillion COVID aid package"
     excerpt: "President Joe Biden's drive to enact a $1.9 trillion coronavirus aid bill gained momentum early on Friday as the U.S. Senate narrowly approved a budget blueprint allowing Democrats to push the legislation through Congress in coming weeks with or without Republican support."
     publishedDateTime: 2021-02-05T15:59:00Z
@@ -298,20 +282,6 @@ related:
       - url: "https://static.reuters.com/resources/r/?d=20210208&i=OVDYNGOV3&r=OVDYNGOV3&t=2"
         width: 960
         height: 540
-        isCached: true
-  - title: "Psaki: Biden won't watch much of impeachment trial"
-    excerpt: "White House press secretary Jen Psaki says President Joe Biden won't \"spend too much time watching\" Donald Trump's Senate impeachment trial this week. Psaki told reporters Monday Biden will leave the pace,"
-    publishedDateTime: 2021-02-08T18:50:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/02/08/psaki-biden-wont-watch-much-impeachment-trial/4438382001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/28fbc8c6-cb04-46f4-a66c-ee07a5ba23e2_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Biden budget nominee grilled from right and left at second hearing"
     excerpt: "Neera Tanden, President Joe Biden's nominee to head the U.S. Office of Management and Budget, was skewered from both the right and left at a second confirmation hearing on Wednesday."

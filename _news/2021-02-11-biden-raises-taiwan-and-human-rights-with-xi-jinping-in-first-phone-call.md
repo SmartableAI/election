@@ -111,22 +111,6 @@ related:
         width: 792
         height: 545
         isCached: true
-  - title: "ICE nearly released sex abuse convicts despite Biden memo"
-    excerpt: "Texas prison officials say U.S. Immigration and Customs Enforcement was prepared to release three men convicted of sex offenses against children in an apparent misapplication by authorities of enforce"
-    publishedDateTime: 2021-02-13T14:49:00Z
-    webUrl: "https://www.washingtonpost.com/national/ice-nearly-released-sex-abuse-convicts-despite-biden-memo/2021/02/13/5afc0782-6e0a-11eb-a66e-e27046e9e898_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national/ice-nearly-released-sex-abuse-convicts-despite-biden-memo/2021/02/13/5afc0782-6e0a-11eb-a66e-e27046e9e898_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/ice-nearly-released-sex-abuse-convicts-despite-biden-memo/2021/02/13/5afc0782-6e0a-11eb-a66e-e27046e9e898_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "U.S. governor calls on Biden to overturn trade ruling against SK Innovation"
     excerpt: "The governor of Georgia on Friday called on President Joe Biden to overturn a trade ruling made against SK Innovation, saying the decision would hurt the electric vehicle battery maker's plant being built in the southern state."
     publishedDateTime: 2021-02-13T09:58:00Z

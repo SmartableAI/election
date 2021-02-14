@@ -47,38 +47,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "AP FACT CHECK: The senator and Trump's misdialed phone call"
-    excerpt: "Donald Trump’s Senate impeachment trial hit a temporary snag this week when a Republican senator objected to how Democrats characterized a phone call from the president during the Capitol insurrection"
-    publishedDateTime: 2021-02-11T20:37:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-senator-trumps-misdialed-phone-call-75834176"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-senator-trumps-misdialed-phone-call-75834176"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-senator-trumps-misdialed-phone-call-75834176"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_38f13d7254734aaf8c5adf9e7014bc2a_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Dem retreat on witnesses brings messy end to Trump trial"
-    excerpt: "The Democrats who prosecuted Donald Trump’s impeachment trial are facing criticism from some senators over an attempt to call witnesses"
-    publishedDateTime: 2021-02-14T06:36:00Z
-    webUrl: "https://www.washingtonpost.com/politics/dem-retreat-on-witnesses-brings-messy-end-to-trump-trial/2021/02/13/11063642-6e65-11eb-a66e-e27046e9e898_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/dem-retreat-on-witnesses-brings-messy-end-to-trump-trial/2021/02/13/11063642-6e65-11eb-a66e-e27046e9e898_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/dem-retreat-on-witnesses-brings-messy-end-to-trump-trial/2021/02/13/11063642-6e65-11eb-a66e-e27046e9e898_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "For Raskin and the House managers arguing to convict Trump, less was more"
     excerpt: "House impeachment manager Rep. Joe Neguse (D-Colo.) participates in the impeachment managers’ closing argument in the trial of former The House managers trying the case against Donald Trump on charges of inciting the Jan."
     publishedDateTime: 2021-02-13T11:11:00Z
@@ -127,38 +95,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Trump was pictured golfing as Democrats hammered home the case against him at his impeachment trial"
-    excerpt: "Mail published photos of Trump golding at his Florida resort during his impeachment trial, and a CNN anchor said he was pictured."
-    publishedDateTime: 2021-02-12T10:41:00Z
-    webUrl: "https://www.businessinsider.com/trump-pictured-golfing-during-his-impeachment-trial-2021-2"
-    ampWebUrl: "https://www.businessinsider.com/trump-pictured-golfing-during-his-impeachment-trial-2021-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-pictured-golfing-during-his-impeachment-trial-2021-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 111
-    images:
-      - url: "https://i.insider.com/60265266b3c2a800183cc858?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "The way Senate Republicans are acting during Trump's impeachment proceedings would likely lead to juror removal in any other trial"
-    excerpt: "In a regular criminal proceeding, a judge can remove jurors for not paying attention, being absent, or falling asleep, among other infractions."
-    publishedDateTime: 2021-02-11T17:09:00Z
-    webUrl: "https://www.businessinsider.com/senators-who-fell-asleep-doodled-during-impeachment-regular-trial-rules-2021-2"
-    ampWebUrl: "https://www.businessinsider.com/senators-who-fell-asleep-doodled-during-impeachment-regular-trial-rules-2021-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/senators-who-fell-asleep-doodled-during-impeachment-regular-trial-rules-2021-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 95
-    images:
-      - url: "https://i.insider.com/60255e607fd8c100193133a3?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "New Evidence Shows Trump Used Riot To Pressure Congress to Steal Election"
     excerpt: "Trump encouraged a public demonstration, promised in advance it would be “wild,” instructed his supporters that extraordinary measures were needed to save the republic from his “landslide” election being stolen,"
     publishedDateTime: 2021-02-13T20:33:00Z
@@ -175,6 +111,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "'Fighting for Trump:' Democrats Say Capitol Attackers Were Answering Ex-President's Call"
+    excerpt: "Democrats Say Capitol Attackers Were Answering Ex-President's Call WASHINGTON (Reuters) - Democrats making the case for Donald Trump's conviction for inciting the deadly attack on the U.S. Capitol on Jan."
+    publishedDateTime: 2021-02-11T20:28:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-02-11/democrats-to-focus-on-terrible-toll-of-riot-as-trump-impeachment-trial-continues"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-02-11/democrats-to-focus-on-terrible-toll-of-riot-as-trump-impeachment-trial-continues?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-02-11/democrats-to-focus-on-terrible-toll-of-riot-as-trump-impeachment-trial-continues?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 46
 
 secured: "9adUnwdAcbVLyAJWZbu3mK92KiK/prqBmzhyB3vN6PbpgrrRNYBn2X6U//EpalRvF9nGUd8VbrImCqpsnXK78Y5eUtjh9NUl/10flv3JaKj+l+nijTO776c3Xt8qLEY1OwMHZuRXHtzCpLmwhrwqGerg/eYi78Jeyna5HSQR845enKIRbOOc9PPz7ufhUl3VNxIyvEFQ/uv8qBc7dyGlO6qzfaC1yStIhIt2jaYew2I0RE2RwZoXs5UYAnBCoTwsemOhqL5bCo+RoCJ2z8mG5SFDm48MwWPuKKu+VhR3aX2jkPJ+Pc5FKT81jjDYt8TiVV8cCAr3EWmJnUh06GLIeRfAmK2S72DueBeonwIZFBh85svnmDpos3HrYg7nFVhlBB1ZZGu4kQo+AzLpCzVftMCXaxEMg/yakgd+KLDMoHUtvy0p9CiFg8N9KcFksYnIVxt3PdqMsnxj2CglvA/CspPAJVdGbsk4KrPCI+zLTBETzDYM+VAIutsMIUWRuq2X8Wwdi+u1bkxlmYTV39Qhdg==;cPT+e8OTBHCMYedZjypKBw=="
 ---

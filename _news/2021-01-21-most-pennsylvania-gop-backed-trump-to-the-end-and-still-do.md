@@ -341,20 +341,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Democrats agree to delay Trump impeachment trial"
-    excerpt: "Senate Majority Leader Chuck Schumer announced Friday that the impeachment trial for former president Donald Trump will begin February 8th, even though the article of impeachment will be delivered to the Senate on Monday."
-    publishedDateTime: 2021-01-23T02:06:00Z
-    webUrl: "https://www.cbsnews.com/video/democrats-agree-to-delay-trump-impeachment-trial/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/23/77f694f7-f76e-44d9-90c4-cc9f4642476e/thumbnail/1200x630/4a106b603296320ab48f3d4f63d69310/cbsn-fusion-democrats-agree-to-delay-trump-impeachment-trial-thumbnail-631908-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Arizona Republicans Censure Party Leaders At Odds With Trump"
     excerpt: "State GOP members passed resolutions at a meeting on Saturday to condemn three party leaders who they said failed to support President Trump: Gov. Doug Ducey, former Sen. Jeff Flake and Cindy McCain."
     publishedDateTime: 2021-01-24T03:10:00Z

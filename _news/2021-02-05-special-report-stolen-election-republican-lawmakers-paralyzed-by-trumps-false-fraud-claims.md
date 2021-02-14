@@ -127,22 +127,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Lawyers representing Capitol rioters blame Trump for the insurrection. His impeachment trial could help their criminal cases."
-    excerpt: "The \"public authority defense\" could help Capitol rioters shift blame to Trump instead of themselves."
-    publishedDateTime: 2021-02-11T18:12:00Z
-    webUrl: "https://www.businessinsider.com/trump-impeachment-could-help-capitol-rioters-legal-defense-2021-2"
-    ampWebUrl: "https://www.businessinsider.com/trump-impeachment-could-help-capitol-rioters-legal-defense-2021-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-impeachment-could-help-capitol-rioters-legal-defense-2021-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 98
-    images:
-      - url: "https://i.insider.com/6022b8c2cca90200129b7387?width=1200&format=jpeg"
-        width: 1200
-        height: 599
-        isCached: true
   - title: "Watchdog group accuses the Trump campaign and family members of engaging in 'schemes' that hid massive election spending and likely broke federal law"
     excerpt: "The updated complaint to the FEC cited Insider's reporting that Donald Trump's son-in-law, Jared Kushner, helped create a secretive shell company that spent hundreds of millions of dollars from the campaign's coffers."
     publishedDateTime: 2021-01-28T14:02:00Z
