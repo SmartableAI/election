@@ -75,22 +75,31 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "After voting to acquit, McConnell condemns Donald Trump and calls him ‘practically and morally responsible’ for riot"
-    excerpt: "After voting to acquit, McConnell condemns Donald Trump and calls him ‘practically and morally responsible’ for riot"
-    publishedDateTime: 2021-02-13T21:23:00Z
-    webUrl: "https://www.washingtonpost.com/politics/after-voting-to-acquit-mcconnell-condemns-donald-trump-and-calls-him-practically-and-morally-responsible-for-riot/2021/02/13/6928c6f6-6e41-11eb-a66e-e27046e9e898_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/after-voting-to-acquit-mcconnell-condemns-donald-trump-and-calls-him-practically-and-morally-responsible-for-riot/2021/02/13/6928c6f6-6e41-11eb-a66e-e27046e9e898_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/after-voting-to-acquit-mcconnell-condemns-donald-trump-and-calls-him-practically-and-morally-responsible-for-riot/2021/02/13/6928c6f6-6e41-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+  - title: "Alert: After voting to acquit, McConnell condemns Donald Trump and calls him 'practically and morally responsible' for riot"
+    excerpt: "After voting to acquit, McConnell condemns Donald Trump and calls him ‘practically and morally responsible’ for riot."
+    publishedDateTime: 2021-02-13T15:21:00Z
+    webUrl: "https://www.chron.com/news/article/Alert-After-voting-to-acquit-McConnell-condemns-15949162.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Alert-After-voting-to-acquit-McConnell-condemns-15949162.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Alert-After-voting-to-acquit-McConnell-condemns-15949162.php"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 102
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 49
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
+  - title: "After Voting to Acquit, McConnell Condemns Donald Trump and Calls Him ‘Practically and Morally Responsible’ for Riot"
+    excerpt: "After voting to acquit, McConnell condemns Donald Trump and calls him ‘practically and morally responsible’ for riot."
+    publishedDateTime: 2021-02-14T00:19:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-02-13/senate-votes-to-consider-witnesses-in-donald-trumps-impeachment-case-potentially-extending-trial"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 12
 
 secured: "AxSc/fmCNI1BSNSmtMH3XaQn7ql21fiLD4/+66ixBUpEKCuIQp/zs12x/Xd+WteyO2ViWBC+/KBIHKz+ZOZnaIbd8fArHNCQajQeselI9Wp2hQWzzgncLvYBV4UEhBh9Z20NF+phwVUDMZoaKeXDpXnc+7cw9GJhCrbhyn9Rslhj19o92pAvKX9q7lBIy6ugIofolZcczJLXlgYqYIvI/wb/7nVWPNZAN3WFxA/+sTZFCuXnLCyR0u1gnDpJKC6CnF8yuVX+kN7kYqOL0PlKOMTUmz9XLJwUY4lX/4jL0lNqIweqsb/VKxX26NqwRcApBwZf3+tJ0GErSaVriqhknP/YPHSFSYGGsMOoOWszMLo=;xGRo/fsgiukpGLrXe2g+bA=="
 ---

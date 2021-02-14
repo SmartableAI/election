@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-pauses-trump-pol
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-pauses-trump-policies-blinken-takes-diplomatic-helm-75531721"
 type: article
 quality: 150
-heat: 2390
+heat: 2410
 published: true
 
 provider:
@@ -1654,6 +1654,17 @@ related:
     webUrl: "https://www.usnews.com/news/us/articles/2021-02-02/biden-to-issue-executive-orders-on-asylum-legal-immigration-separated-families"
     ampWebUrl: "https://www.usnews.com/news/us/articles/2021-02-02/biden-to-issue-executive-orders-on-asylum-legal-immigration-separated-families?context=amp"
     cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2021-02-02/biden-to-issue-executive-orders-on-asylum-legal-immigration-separated-families?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
+  - title: "Biden White House Seeks to Turn Page on Trump"
+    excerpt: "The end of former President Donald Trump’s impeachment trial opens a new chapter for his successor in the White House."
+    publishedDateTime: 2021-02-14T00:41:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-02-13/biden-white-house-seeks-to-turn-page-on-trump"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-13/biden-white-house-seeks-to-turn-page-on-trump?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-13/biden-white-house-seeks-to-turn-page-on-trump?context=amp"
     type: article
     provider:
       name: U.S. News & World Report

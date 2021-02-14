@@ -1672,6 +1672,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
+  - title: "Biden White House Seeks to Turn Page on Trump"
+    excerpt: "The end of former President Donald Trump’s impeachment trial opens a new chapter for his successor in the White House."
+    publishedDateTime: 2021-02-14T00:41:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-02-13/biden-white-house-seeks-to-turn-page-on-trump"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-13/biden-white-house-seeks-to-turn-page-on-trump?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-13/biden-white-house-seeks-to-turn-page-on-trump?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
   - title: "In Pentagon Debut, Biden Promises Break From Trump-Era Politicization of Military"
     excerpt: "President Joe Biden promised he would never politicize the U.S. military as he made his first visit to the Pentagon as commander-in-chief on Wednesday, seeking to draw a contrast with the Trump-era in a far-reaching speech that emphasized diversity in the armed forces."
     publishedDateTime: 2021-02-10T22:49:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.usatoday.com/videos/news/politics/2021/02/11/capitol-r
 webUrl: "https://www.usatoday.com/videos/news/politics/2021/02/11/capitol-riot-footage-mike-pence-sheltering-insurrectionists-near/6728485002/"
 type: article
 quality: 95
-heat: 95
+heat: 115
 published: true
 
 provider:
@@ -27,6 +27,17 @@ images:
     width: 854
     height: 530
     isCached: true
+
+related:
+  - title: "Vice President Mike Pence is led from the Senate chamber during the January 6 insurrection at the U.S. Capitol"
+    excerpt: "Rep. Stacey Plaskett, Congressional Delegate, [D] Virgin Islands, speaks during the impeachment trial of former President Donald Trump, on February 10, 2021."
+    publishedDateTime: 2021-02-13T23:54:00Z
+    webUrl: "https://www.miamiherald.com/news/politics-government/article249242945.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 15
 
 secured: "oOgvRuwElEkSZgXD6qZapMn6Bh/WD+g0aHf+DaKZG5sJbiTVRgPQkMXHAEnPz+OmrHP3FcbvK//ygZVPdHlUmdvaVelxohwwELjG2A/gdOvqP4BOQLyZM8GJxtte/j1guwz0OPrx0lHuMmZKEVkIn+T85FWLHV2JwYyMQNQBiCauPOLQZ2QrIyexpZzbOSaLV/Wb0B4eHsiYWkEygCwFqgi57+wsmDboo7q1kjCbb0BnyRRmBL+Vpo3FL/Qs2CYL4G3IdCxFjrR8zZ1Z0pRa2tr+tkSean+JdkBLV6yDpFk5lXhgufGils7AJUxJUitxS3RwfuQ/TF7ApCYzukMcNqCptOO7zaniKmsYmqo/kHj95FGcW3tTrOGDWVPGhBr1ZTrmzY3tkOSwT7GTwVn5sgZvzo3ax/XGH958P2VzfdswDfRuELsQZz6h3dgDl9iHOHM3RPMXFcP4zX2Pd9zQstJkyr9z2wFMZ6UujhHGQlymdDpt4JYw2NcM0uBMtl2Qc+6VnPYbBuAHHo99JLjEgA==;ag4AzrvuEGnlMXp//Vj+JA=="
 ---

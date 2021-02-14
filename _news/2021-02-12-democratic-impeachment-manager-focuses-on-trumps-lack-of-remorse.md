@@ -622,6 +622,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Dems 'caved' on witnesses in Trump impeachment trial, drawing condemnation from left and right"
+    excerpt: "Democrat impeachment managers on Saturday drew harsh criticism from both the left and the right after their stark reversal on whether to call witnesses in the Senate trial of former President Donald Trump."
+    publishedDateTime: 2021-02-13T23:46:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ieJ0K1UU4W8/dems-caved-on-witnesses-in-trump-impeachment-trial-drawing-condemnation-from-left-and-right"
+    ampWebUrl: "https://www.foxnews.com/politics/dems-caved-on-witnesses-in-trump-impeachment-trial-drawing-condemnation-from-left-and-right.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dems-caved-on-witnesses-in-trump-impeachment-trial-drawing-condemnation-from-left-and-right.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Democratic impeachment managers allege Trump would incite future violence if allowed to run again"
     excerpt: "Democratic House impeachment managers warned that convicting former President Donald Trump and disqualifying him from running again was not just a necessary consequence for the role they say he played in the Jan. 6 Capitol riot, but as a means of preventing such an event from occurring again."
     publishedDateTime: 2021-02-11T20:10:04Z

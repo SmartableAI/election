@@ -1,34 +1,26 @@
 ---
 category: news
-title: "After voting to acquit, McConnell condemns Donald Trump and calls him ‘practically and morally responsible’ for riot"
-excerpt: "After voting to acquit, McConnell condemns Donald Trump and calls him ‘practically and morally responsible’ for riot"
-publishedDateTime: 2021-02-13T21:23:00Z
-originalUrl: "https://www.washingtonpost.com/politics/after-voting-to-acquit-mcconnell-condemns-donald-trump-and-calls-him-practically-and-morally-responsible-for-riot/2021/02/13/6928c6f6-6e41-11eb-a66e-e27046e9e898_story.html"
-webUrl: "https://www.washingtonpost.com/politics/after-voting-to-acquit-mcconnell-condemns-donald-trump-and-calls-him-practically-and-morally-responsible-for-riot/2021/02/13/6928c6f6-6e41-11eb-a66e-e27046e9e898_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/after-voting-to-acquit-mcconnell-condemns-donald-trump-and-calls-him-practically-and-morally-responsible-for-riot/2021/02/13/6928c6f6-6e41-11eb-a66e-e27046e9e898_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/after-voting-to-acquit-mcconnell-condemns-donald-trump-and-calls-him-practically-and-morally-responsible-for-riot/2021/02/13/6928c6f6-6e41-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+title: "After Voting to Acquit, McConnell Condemns Donald Trump and Calls Him ‘Practically and Morally Responsible’ for Riot"
+excerpt: "After voting to acquit, McConnell condemns Donald Trump and calls him ‘practically and morally responsible’ for riot."
+publishedDateTime: 2021-02-14T00:19:00Z
+originalUrl: "https://www.usnews.com/news/politics/articles/2021-02-13/senate-votes-to-consider-witnesses-in-donald-trumps-impeachment-case-potentially-extending-trial"
+webUrl: "https://www.usnews.com/news/politics/articles/2021-02-13/senate-votes-to-consider-witnesses-in-donald-trumps-impeachment-case-potentially-extending-trial"
 type: article
-quality: 102
+quality: 12
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
-    isCached: true
 
 related:
   - title: "Full Text on Mitch McConnell's Email Explaining Why He Would Vote to Acquit Trump"
@@ -95,7 +87,23 @@ related:
         width: 1200
         height: 768
         isCached: true
+  - title: "Alert: After voting to acquit, McConnell condemns Donald Trump and calls him 'practically and morally responsible' for riot"
+    excerpt: "After voting to acquit, McConnell condemns Donald Trump and calls him ‘practically and morally responsible’ for riot."
+    publishedDateTime: 2021-02-13T15:21:00Z
+    webUrl: "https://www.chron.com/news/article/Alert-After-voting-to-acquit-McConnell-condemns-15949162.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Alert-After-voting-to-acquit-McConnell-condemns-15949162.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Alert-After-voting-to-acquit-McConnell-condemns-15949162.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 49
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
 
-secured: "xAmyLbpaTkE6SFspG1t6vhOq/kh/r+gtGR3v0LPzr4ZqrXgSWq7qDK16jrgq3SyC3UFlrrd3/HqeWASFoY3gfO4bLdAbw7IPmRDjwEP042rnaKkEgRrs4Wq+YZfej75CizE2nCT0j69lkpxkqKDu8CR/XvjuFZSaqZHcmT9M2Dd489pQbJ64deYAdXhubfgjW4FuGIj9SxGYB/bXXmZ1zVw5I+fEMuNf9ekQMD0p7i/fgW/nnSuMT12SzmvmQNTotpQTOvFTklHYJ5QZEWq2luFwVdxPuqynP0VO/ujfalPBLpneklKy30i5Vb9SPNenY69ibZew/Py36bY48bvxT5uSJcm2jGmgqhdh4PlKR1c=;yjqbsQj+4wkdvGDex+Q2Nw=="
+secured: "qV+hAVDpzHNXzmb7xgdloleXYGhcHcS94ae3sOlVVIApq3ZGrn4mY+kupfu86AmbeTWy2QqsmsAGIpwcBG+cdAcrM/p4Zby4rpCgQ5NaOKBSLuW+GOri6AexGvIiTkWV9aqUKLiuMRtcAy7YsxWAqdDR5/DEJtVFBjM4mhu5L0U9sLqFiv2tSbSOsNGyqLv9F95Bj8PJ9PL9KAZ02k4yzGEScQvJixbHo/jYiH6WlXy+CkG0Ht1oYebwxOmmJPDfWarvV/maDICFfjfQ69lp8Y2HvQsIG0LpWWUbiiKcKMXT2ib2/cAhl4JyxUvfh8I6oR+A0Y866Gb4vA9PBZTFtTjKyZ7ElIa+pBu2eX8UVmw=;qs1n+QRqsJABM9l+rZKrXw=="
 ---
 

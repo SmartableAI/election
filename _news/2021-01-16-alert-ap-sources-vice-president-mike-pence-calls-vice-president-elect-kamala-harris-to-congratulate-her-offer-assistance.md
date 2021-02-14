@@ -3557,14 +3557,14 @@ related:
   - title: "Kamala Harris visits VA Medical Center in Washington"
     excerpt: "U.S. Vice President Kamala Harris (C) and second gentleman Doug Emhoff pose for a group photo with health care workers as they visit the VA Center, a veteran's hospital, in Washington, DC on Saturday,"
     publishedDateTime: 2021-02-13T20:22:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/17be06551a280e0a476d69b521f50115/Kamala-Harris-visits-VA-Medical-Center-in-Washington/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/dfab6c2553b5fb9db2fc996971dd9e4a/Kamala-Harris-visits-VA-Medical-Center-in-Washington/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/17be06551a280e0a476d69b521f50115/HARRIS-VETERANS.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/dfab6c2553b5fb9db2fc996971dd9e4a/HARRIS-VETERANS.jpg"
         width: 650
         height: 433
         isCached: true

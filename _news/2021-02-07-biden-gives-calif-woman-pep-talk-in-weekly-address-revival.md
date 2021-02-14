@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-calif-woman-pep-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-calif-woman-pep-talk-weekly-address-revival-75728273"
 type: article
 quality: 125
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/01f22aa063b18ea0226a68234c943a39bb9b373d/0_99_4800_2880/master/4800.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=82c4ed390b0019c05fd641a7b8a8f7ab"
         width: 600
         height: 360
+        isCached: true
+  - title: "U.S. governor calls on Biden to overturn trade ruling against SK Innovation"
+    excerpt: "The governor of Georgia on Friday called on President Joe Biden to overturn a trade ruling made against SK Innovation, saying the decision would hurt the electric vehicle battery maker's plant being built in the southern state."
+    publishedDateTime: 2021-02-13T04:58:00Z
+    webUrl: "https://www.reuters.com/article/us-lg-chem-sk-innovation-idUSKBN2AC2I1"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AC2I1"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AC2I1"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210212&t=2&i=1551384083&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1B1SW"
+        width: 817
+        height: 545
         isCached: true
   - title: "Fact check: False claim that President Joe Biden signed executive order legalizing incest"
     excerpt: "An Instagram post from a parody account claims President Joe Biden signed an executive order legalizing incest. That's false."

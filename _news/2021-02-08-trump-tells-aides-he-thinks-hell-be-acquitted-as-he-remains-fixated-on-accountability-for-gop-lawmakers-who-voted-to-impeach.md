@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/08/politics/trump-impeachment/index.
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/08/politics/trump-impeachment/index.html"
 type: article
 quality: 147
-heat: 147
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -29,6 +29,56 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "McConnell blames Trump but voted not guilty anyway"
+    excerpt: "Senate Minority Leader Mitch McConnell has told his colleagues that he will vote to acquit former President Donald Trump of inciting the insurrection at the US Capitol last month, according to a source familiar with the conversations.\n    \n"
+    publishedDateTime: 2021-02-14T00:42:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Rw3HPocqnPw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/13/politics/mitch-mcconnell-acquit-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/mitch-mcconnell-acquit-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106121255-01-mcconnell-0106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Read McConnell's remarks on the Senate floor following Trump's acquittal"
+    excerpt: "Senate Minority Leader Mitch McConnell delivered remarks from the Senate floor on Saturday after a historic vote to acquit former President Donald Trump in his second impeachment trial.\n    \n"
+    publishedDateTime: 2021-02-13T22:50:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RnHEm4cCYNg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/13/politics/mcconnell-remarks-trump-acquittal/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/mcconnell-remarks-trump-acquittal/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210213165012-mitch-mcconnell-february-13-2021-02-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Read Senate Majority Leader Chuck Schumer's speech following Trump's acquittal"
+    excerpt: "Senate Majority Leader Chuck Schumer spoke from the floor of the US Senate on Saturday, immediately following the historic vote to acquit former President Donald Trump at his second impeachment trial.\n    \n"
+    publishedDateTime: 2021-02-13T22:09:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GLjn3XhtNxw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/13/politics/schumer-speech-trump-acquittal/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/schumer-speech-trump-acquittal/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210205121011-07-chuck-schumer-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "o4XHVjJ2kqTJo/hnZhKy2WrNLYXvSdfKKZRIyTPr9ZyPKMW1WicNh/kU2inwhTullD4/amPxPPhdDndsN2NH30eQGi581pFBpXLgqx3sKWIqN5lgraFOZaCobDqfQ/gZbP/CIci4p3KhYtROVhZTUJ6PZEIyWdOJ4+SouwpnApmWc1qC7b88znl7h2kqaufUuEHAn6IMwq9sm38zQ4oGyBjI2UGT0tiyixp9qwd3gVS9cvT9mI1TjXvDnwPLdTHXSt3qnAo+AVISDUveFh74FJC64H+H5IJLCL4u3l4mJPxKGVSvZe1BXyGxVQYEvPFJYwZLfkg8xTfWNLaRpjxuMQiZHrdnWj3r3n181kvrTUM=;Jp3ADeQINR71+925sAq2WQ=="
 ---

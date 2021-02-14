@@ -3,8 +3,8 @@ category: news
 title: "Kamala Harris visits VA Medical Center in Washington"
 excerpt: "U.S. Vice President Kamala Harris (C) and second gentleman Doug Emhoff pose for a group photo with health care workers as they visit the VA Center, a veteran's hospital, in Washington, DC on Saturday,"
 publishedDateTime: 2021-02-13T20:22:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/17be06551a280e0a476d69b521f50115/Kamala-Harris-visits-VA-Medical-Center-in-Washington/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/17be06551a280e0a476d69b521f50115/Kamala-Harris-visits-VA-Medical-Center-in-Washington/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/dfab6c2553b5fb9db2fc996971dd9e4a/Kamala-Harris-visits-VA-Medical-Center-in-Washington/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/dfab6c2553b5fb9db2fc996971dd9e4a/Kamala-Harris-visits-VA-Medical-Center-in-Washington/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/17be06551a280e0a476d69b521f50115/HARRIS-VETERANS.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/dfab6c2553b5fb9db2fc996971dd9e4a/HARRIS-VETERANS.jpg"
     width: 650
     height: 433
     isCached: true
@@ -3744,6 +3744,6 @@ related:
       domain: seattletimes.com
     quality: 25
 
-secured: "jifkgtl9azGUA76wJvQbfv1A3oBzE8Q3RQD5Bt8hPtP6Wl8RbQmpiElOJ6G76khRJBx4xxX6W3G3AOTrtD2er0Cxq0iIaJdHUocn3PpUDCDW+OS3BeX5lZwOBEvXFPja5IYXSnu5w4ET/VrhX0D22yly6kNOPInPH7tHAJCv5HZKbbMWmN6IEkxW+sY4dNYQnDpNdY2VqF+1mJ8XcCFulHTYVLQDYw7BUGBkGqx8HgVtwv6T1K3xSpNdTmdFOnGdn8r/EVA/TCLuzu/P744nP5W0UtxvueHAueDQBdf5hG9kXBh4InBEP6rCAF51PH3TIbD0Kq/T/hEZYrL3E6IXGlzWuF8jSgq1j3Sk6sJJv7C3mQA9/Bz+JLGXSg0d3PS8PwSJ7rYsPec9dhpqFFTfhveQPBJdPkPs+HLRLmX7byQmDNvkq+A8MEV/eaL9E5f1vLDJGS4X0W9ttOnY5tFf+OAEXDxTMiaPnv9CC+QWXb6hq291hvu77rnC530L1R5ZqizZrobDqyKcOPvlQizaDg==;dJ66QfXCoCHc3u+4uX4Qfg=="
+secured: "/OxDUPyz/KiI80azKvu7gNPsobiFoA9SX2xa8wAr07n37tBdPU0cH9VbwSQCw88IW5PAkDBQhKhIOciQ61GeC88ulHG2VqXIgGyYz1Tcm8s48mIuF1bMjC1B2JYVFRjzCH8V9pbBSjTzis49fe/r0UdB67XpEgprVDnfuloVA7vvY29p+J1WlnHURbte9w/3xCZ4fOp4Xr/AZl72HdytKuNOkjdxetbJnKTguQCK1ci/3jMdgcMiTHoRx40ZhgkxepMd32sSPmvmAmuegBP892s2RdWCOdZJWLRVusgYqE7nXXQ3ZUcoiE0Kvft7y+IgPOg3G8m/AnnHAuGXrwcOF2GFXjuLhhEvDN7SyeC5sMo=;L3h4IZ2MUKii2ZyQfCsgKw=="
 ---
 

@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Republican Acquittal of Trump Is a Defining Moment for Party"
+    excerpt: "Even off-line and off camera at his Palm Beach, Fla., estate, and offering only a feeble impeachment defense through his legal team in Washington, Donald J. Trump remains a dominant force in right-wing politics."
+    publishedDateTime: 2021-02-13T21:46:00Z
+    webUrl: "https://www.nytimes.com/2021/02/13/us/politics/trump-impeachment-republicans.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/13/us/politics/trump-impeachment-republicans.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/13/us/politics/trump-impeachment-republicans.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/13/us/13GOP-TRUMP-0120/13GOP-TRUMP-0120-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Of course Donald Trump's team didn't tell the truth about his Covid-19 illness"
     excerpt: "Donald Trump was far sicker with Covid-19 than the White House physician or his top aides let on, even to the point where there were concerns that the then-President would have to be put on a ventilator to deal with the illness."
     publishedDateTime: 2021-02-12T15:57:00Z

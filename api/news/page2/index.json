@@ -2,6 +2,223 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-13-first-lady-jill-biden-decorates-white-house-lawn-with-giant-hearts-for-valentines-day.md",
+      "title": "First lady Jill Biden decorates White House lawn with giant hearts for Valentine's Day",
+      "excerpt": "First lady Jill Biden and President Joe Biden strolled the North Lawn to see the Valentine signs she put there to help boost spirits.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/entertainment/celebrities/2021/02/12/jill-biden-white-house-valentines-hearts-joe-biden-love-story/6737502002/",
+      "originalUrl": "https://www.usatoday.com/story/entertainment/celebrities/2021/02/12/jill-biden-white-house-valentines-hearts-joe-biden-love-story/6737502002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/02/12/USAT/bd123f0c-9b6f-4da3-8d6e-74a989ac34f1-5bc25c16-21ae-42e4-88d9-7bb7431198d2_thumbnail.png?auto=webp&crop=849,478,x1,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6737502002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6737502002",
+      "publishedDateTime": "2021-02-12T09:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-02-12-biden-to-get-another-judicial-appointment-to-a-key-federal-appeals-court.md",
+      "title": "Biden to get another judicial appointment to a key federal appeals court",
+      "excerpt": "President Biden will get another opportunity to make a key judicial appointment on what is considered the second most important federal court.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/d06VaoBxLzA/biden-to-get-another-judicial-appointment-to-a-key-federal-appeals-court",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/d06VaoBxLzA/biden-to-get-another-judicial-appointment-to-a-key-federal-appeals-court",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/acdfe773-2342-4e03-86f0-af48ae93a0fb/de44e5ec-8943-4b86-8e01-6092c29e3016/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-to-get-another-judicial-appointment-to-a-key-federal-appeals-court.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-get-another-judicial-appointment-to-a-key-federal-appeals-court.amp",
+      "publishedDateTime": "2021-02-12T09:53:05-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-13-joe-biden-would-give-in-to-nuclear-blackmail-by-re-entering-iran-deal-reza-pahlavi-says.md",
+      "title": "Joe Biden Would Give In to 'Nuclear Blackmail' by Re-Entering Iran Deal, Reza Pahlavi Says",
+      "excerpt": "The son of the former shah of Iran is among the dissidents urging the president to break away from what they say is a flawed agreement that favors Tehran.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/joe-biden-give-nuclear-blackmail-re-entering-iran-deal-reza-pahlavi-1568951",
+      "originalUrl": "https://www.newsweek.com/joe-biden-give-nuclear-blackmail-re-entering-iran-deal-reza-pahlavi-1568951",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1733515/irans-reza-pahlavi-pictured-washington-dc.jpg",
+          "width": 3600,
+          "height": 2400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/joe-biden-give-nuclear-blackmail-re-entering-iran-deal-reza-pahlavi-1568951?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-give-nuclear-blackmail-re-entering-iran-deal-reza-pahlavi-1568951?amp=1",
+      "publishedDateTime": "2021-02-12T09:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-02-13-hannity-democrats-never-had-problem-with-violent-rhetoric-towards-trump.md",
+      "title": "Hannity: Democrats never had problem with violent rhetoric towards Trump",
+      "excerpt": "HANNITY: Welcome to \"Hannity\". Tonight, we are tracking multiple breaking stories. These are huge, including day three of the Senate's impeachment, Schiff charade show that they got going on. We have tonight just breaking,",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/transcript/hannity-democrats-never-had-problem-with-violent-rhetoric-towards-trump",
+      "originalUrl": "https://www.foxnews.com/transcript/hannity-democrats-never-had-problem-with-violent-rhetoric-towards-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b74aca57-89b4-4917-be5d-9cda2a808143/d2443711-cc03-478d-8929-2163d8c15843/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/transcript/hannity-democrats-never-had-problem-with-violent-rhetoric-towards-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/hannity-democrats-never-had-problem-with-violent-rhetoric-towards-trump.amp",
+      "publishedDateTime": "2021-02-12T08:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-13-the-daily-202-trump-said-the-system-is-rigged-democrats-say-his-acquittal-will-prove-it.md",
       "title": "The Daily 202: Trump said the system is ‘rigged.’ Democrats say his acquittal will prove it.",
       "excerpt": "Donald Trump used popular resentment against elites as political rocket fuel to propel his unlikely 2016 presidential campaign, describing America’s economy and politics as “rigged” against the middle class and railing against a “rigged system” of justice in favor of the powerful.",
@@ -662,7 +879,7 @@
       "originalUrl": "https://www.usatoday.com/videos/news/politics/2021/02/11/capitol-riot-footage-mike-pence-sheltering-insurrectionists-near/6728485002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -775,7 +992,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 415,
+      "heat": 435,
       "tags": null,
       "images": [
         {
@@ -1132,232 +1349,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-loujain-al-hathloul-saudi-activists-family-thanks-biden-after-release-from-jail.md",
-      "title": "Loujain al-Hathloul: Saudi activist's family thanks Biden after release from jail",
-      "excerpt": "The women's rights activist's incarceration had led to growing international pressure and further scrutiny of Saudi Arabia's human rights record.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/world/loujain-al-hathloul-saudi-activist-s-family-thanks-biden-after-n1257446",
-      "originalUrl": "https://www.nbcnews.com/news/world/loujain-al-hathloul-saudi-activist-s-family-thanks-biden-after-n1257446",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media4.s-nbcnews.com/i/newscms/2021_06/3449354/210211-loujain-al-hathlou-al-0853_5469535b6fde1d6348486b15c860fe9b.jpg",
-          "width": 1024,
-          "height": 609,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1257446",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1257446",
-      "publishedDateTime": "2021-02-11T07:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-building-the-big-one-behind-the-scenes-of-bidens-19-trillion-bet.md",
-      "title": "Building the big one: Behind the scenes of Biden's $1.9 trillion bet  ",
-      "excerpt": "On January 5, as results came in from the Senate runoff election in Georgia, the texts between President-elect Joe Biden's senior staff went late into the night and into the next morning. With the Senate majority on the line, and full control of Washington in their grasp, the outcome of the two Georgia",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/e4brB_NVZgk/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/e4brB_NVZgk/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 575,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210210153022-20210210-biden-relief-package-illustration-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/11/politics/biden-1-9-trillion-bet/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/11/politics/biden-1-9-trillion-bet/index.html",
-      "publishedDateTime": "2021-02-11T07:10:01-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-house-impeachment-managers-gush-over-pences-patriotism-after-years-of-criticism-stood-his-ground.md",
-      "title": "House impeachment managers gush over Pence's 'patriotism' after years of criticism: 'Stood his ground'",
-      "excerpt": "House impeachment managers on Wednesday repeatedly praised former Vice President Mike Pence for his actions during the Jan. 6 Capitol riot, putting aside past criticism of Pence as they tried to convince Senate Republicans to convict former President Donald Trump.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ynrVeGZ6mnE/house-impeachment-managers-pence-praise",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ynrVeGZ6mnE/house-impeachment-managers-pence-praise",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21041828624506-1.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/house-impeachment-managers-pence-praise.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-impeachment-managers-pence-praise.amp",
-      "publishedDateTime": "2021-02-11T07:03:54-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-anti-trump-lincoln-project-ignored-john-weaver-misconduct-crisis-heres-how-it-happened.md",
-      "title": "Anti-Trump Lincoln Project ignored John Weaver misconduct crisis: Here's how it happened",
-      "excerpt": "In June 2020, members of the Lincoln Project's leadership were informed in writing and in subsequent phone calls of at least 10 specific allegations of harassment against co-founder John Weaver, including two involving Lincoln Project employees, according to multiple people with direct knowledge of the",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZOty6HfbqWc/anti-trump-lincoln-project-ignored-john-weaver-misconduct-crisis-heres-how-it-happened",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZOty6HfbqWc/anti-trump-lincoln-project-ignored-john-weaver-misconduct-crisis-heres-how-it-happened",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Lincoln-Project.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/anti-trump-lincoln-project-ignored-john-weaver-misconduct-crisis-heres-how-it-happened.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/anti-trump-lincoln-project-ignored-john-weaver-misconduct-crisis-heres-how-it-happened.amp",
-      "publishedDateTime": "2021-02-11T06:53:23-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

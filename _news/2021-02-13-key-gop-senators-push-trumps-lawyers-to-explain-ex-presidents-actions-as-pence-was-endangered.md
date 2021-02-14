@@ -336,6 +336,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump has privately voiced concern about being charged related to January 6 riot"
+    excerpt: "Former President Donald Trump has privately voiced concern in the last two weeks about whether he could face charges as a result of the January 6 riot he's accused of inciting, according to multiple people.\n    \n"
+    publishedDateTime: 2021-02-13T23:52:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WPuolBSajpk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/13/politics/trump-concern-charges-january-6/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/trump-concern-charges-january-6/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210213170644-trump-impeachment-acquittal-mcconnell-speech-gangel-vpx-00000213-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Impeachment trial kicks off this week as Democrats seek to tie Trump to Capitol riots"
     excerpt: "The second impeachment trial of former President Donald Trump begins this week as the House impeachment managers prepare to make their case to the public -- and the 100 senators who are jurors for the trial -- that Trump is responsible for last month's deadly riots at the US Capitol.\n    \n"
     publishedDateTime: 2021-02-08T10:00:27Z
@@ -477,6 +493,20 @@ related:
       - url: "https://static.politico.com/cd/d1/3b2228f74bf1be43a47b82a76950/gettyimages-1217509180-1.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Trump acquitted for second time following historic Senate impeachment trial"
+    excerpt: "The Senate is poised to vote Saturday on whether to convict former President Donald Trump for inciting the insurrection at the Capitol last month in the culmination of the first impeachment trial of an ex-president in US history.\n    \n"
+    publishedDateTime: 2021-02-14T00:38:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/v03ApFPOmhk/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 153
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210213153843-centered-politics-main-bar-trump-impeachment-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Biden formally ends Trump's national emergency declaration at the border"
     excerpt: "President Joe Biden on Thursday formally terminated former President Donald Trump's two-year-old declaration of a national emergency at the U.S.-Mexico border, calling the order by his predecessor \"unwarranted."
