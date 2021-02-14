@@ -2,11 +2,11 @@
 category: news
 title: "U.S. governor calls on Biden to overturn trade ruling against SK Innovation"
 excerpt: "The governor of Georgia on Friday called on President Joe Biden to overturn a trade ruling made against SK Innovation, saying the decision would hurt the electric vehicle battery maker's plant being built in the southern state."
-publishedDateTime: 2021-02-13T04:58:00Z
-originalUrl: "https://www.reuters.com/article/us-lg-chem-sk-innovation-idUSKBN2AC2I1"
-webUrl: "https://www.reuters.com/article/us-lg-chem-sk-innovation-idUSKBN2AC2I1"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AC2I1"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AC2I1"
+publishedDateTime: 2021-02-13T09:58:00Z
+originalUrl: "https://www.reuters.com/article/us-lg-chem-sk-innovation-idINKBN2AC2I1"
+webUrl: "https://www.reuters.com/article/us-lg-chem-sk-innovation-idINKBN2AC2I1"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2AC2I1"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2AC2I1"
 type: article
 quality: 123
 heat: -1
@@ -171,6 +171,6 @@ related:
       domain: reuters.com
     quality: 103
 
-secured: "ogzLiIjA0skjmFP+h+oMYuN16+euuMZgVX9ib1OnZMGZirbOoUWTzwHichRw2RENDGFjtY/4VEU2gezGEn+RU0rTvkNeisowlFezBUlLTuY4GBI6snHmIYxBoRdh1sGidXBEwezofyUVUF/ePsVp7xmEzIg+GzN1x0a16i6yVz9QvpdEsA8RUAkjiONFioZKN+4MagTfX6BeovtDK0zv9J9+3eeT2AoutYWYTtPBuLrAHMUfB7LY1qQyfCh9Ynb3WPQ/K3nxPkZsiDUKEi/40PqYDfKT8XlWSzCqeer795/2Qm9cr217Ei9K0QmeCJBbHgfiOBPCtCmiFdtxIMsamXL4X/Te5RSmnNRuLWPa7hI=;aKG61VeQ8AxXt3gsrQuKkQ=="
+secured: "IGblbiU3DG6NA+JsxRZOEjfMH3hJXNBwqgbSWfeSt0QpvKJwvTiKJyNxJhBqkdL4uUE02uQ19l/TVAZD0BljBoJIm3s4zciyz3a59bMgesi60oanHEEkrBbaDtDLvkPiQjEGfGeTjFcL/GAz89Mz3VXaOrftx4AbH61cn7mz4dxRNuQeQFfj/9+e7oiZQigJuZ/4PVJHD6gEXW6PfranCQPDXYve5vvPmjX3NQK7GwMD5zZ16d9+oDBBGQ1UgqTGPBgleNdvkThyn7PwFtAM9mj+eTmobULnzEcxM1KJRMb0alSdghWAjGrRODJv6NONjPSPf1kRTG6b8CpNn2kzCF9SEFmstHRutJzMPiIDFQY=;b9MqwHWFHpSYaL4s4f014g=="
 ---
 

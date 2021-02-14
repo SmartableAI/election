@@ -47,6 +47,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "After not-guilty vote, McConnell says Trump 'morally responsible' for Capitol riot"
+    excerpt: "U.S. Senate Minority Leader Mitch McConnell called Donald Trump \"practically and morally responsible\" for his supporters' deadly attack on the Capitol, only moments after voting to acquit the Republican former president on an impeachment charge of inciting the melee."
+    publishedDateTime: 2021-02-14T02:57:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-republicans-idUSKBN2AD0OG"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AD0OG"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AD0OG"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 119
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210213&t=2&i=1551455575&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1C0LN"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump's lawyer claims the Capitol attack wasn't an 'insurrection.' Mitch McConnell disagrees."
     excerpt: "Senate Minority Leader Mitch McConnell disagrees. He's called the Capitol attack a \"failed insurrection.\""
     publishedDateTime: 2021-02-12T21:46:00Z

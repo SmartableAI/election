@@ -255,6 +255,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Senate Reaches Deal to Skip Witnesses in Trump Impeachment Trial"
+    excerpt: "WASHINGTON — House Democrats began wrapping up their impeachment case against Donald Trump on Saturday after a chaotic morning in which they gave up a last-minute plan for witness testimony that could have significantly prolonged the trial and delayed a vote on whether the former president incited the deadly Capitol insurrection."
+    publishedDateTime: 2021-02-14T02:22:00Z
+    webUrl: "https://time.com/5939200/trump-impeachment-trial/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 105
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2021/02/Impeachment-Trial.jpg"
+        width: 2811
+        height: 1582
+        isCached: true
   - title: "'This was his state of mind': Impeachment manager highlights Trump's 'pattern and practice' of inciting violence before the Capitol siege"
     excerpt: "\"Time after time, he encouraged violence, his supporters listened and they got the message,\" impeachment manager Jamie Raskin said."
     publishedDateTime: 2021-02-11T19:03:00Z

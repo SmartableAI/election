@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Even after acquittal, GOP senators and Democratic managers hope rebuke of Trump has lasting impact"
+    excerpt: "In the moments after former President Donald Trump was acquitted by the Senate for a second time in a little more than a year, Senate Minority Leader Mitch McConnell rose to speak.\n    \n"
+    publishedDateTime: 2021-02-14T02:03:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KYmzNoWkfYI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/13/politics/trump-acquittal-gop-rebuke-lasting-impact/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/trump-acquittal-gop-rebuke-lasting-impact/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 156
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210213202046-trump-impeachment-vote-acquittal-day-5-wrap-trial-two-nobles-nr-vpx-00021619-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "o4XHVjJ2kqTJo/hnZhKy2WrNLYXvSdfKKZRIyTPr9ZyPKMW1WicNh/kU2inwhTullD4/amPxPPhdDndsN2NH30eQGi581pFBpXLgqx3sKWIqN5lgraFOZaCobDqfQ/gZbP/CIci4p3KhYtROVhZTUJ6PZEIyWdOJ4+SouwpnApmWc1qC7b88znl7h2kqaufUuEHAn6IMwq9sm38zQ4oGyBjI2UGT0tiyixp9qwd3gVS9cvT9mI1TjXvDnwPLdTHXSt3qnAo+AVISDUveFh74FJC64H+H5IJLCL4u3l4mJPxKGVSvZe1BXyGxVQYEvPFJYwZLfkg8xTfWNLaRpjxuMQiZHrdnWj3r3n181kvrTUM=;Jp3ADeQINR71+925sAq2WQ=="
 ---

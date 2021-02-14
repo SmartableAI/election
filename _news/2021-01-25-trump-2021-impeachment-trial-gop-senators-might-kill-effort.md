@@ -203,6 +203,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "7 Republicans vote to convict Trump in impeachment trial"
+    excerpt: "Seven Republicans voted Saturday to convict former President Donald Trump in his Senate trial, easily the largest number of lawmakers to ever vote to find a president of their own party guilty at impeachment proceedings."
+    publishedDateTime: 2021-02-14T02:28:00Z
+    webUrl: "https://www.washingtonpost.com/politics/7-republicans-vote-to-convict-trump-in-impeachment-trial/2021/02/13/7bd44d24-6e42-11eb-a66e-e27046e9e898_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/7-republicans-vote-to-convict-trump-in-impeachment-trial/2021/02/13/7bd44d24-6e42-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/7-republicans-vote-to-convict-trump-in-impeachment-trial/2021/02/13/7bd44d24-6e42-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "House to send Trump impeachment article to Senate on Monday, Schumer says"
     excerpt: "House Speaker Nancy Pelosi plans to send the article of impeachment against Donald Trump to the Senate on Monday."
     publishedDateTime: 2021-01-22T15:58:00Z

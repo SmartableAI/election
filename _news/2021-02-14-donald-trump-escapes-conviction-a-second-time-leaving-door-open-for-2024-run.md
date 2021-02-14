@@ -95,6 +95,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Senate votes to acquit Trump in historic second impeachment trial"
+    excerpt: "The Senate voted to acquit former President Trump of inciting the January 6 riot at the Capitol in hi. Seven Republicans joined all Democrats in voting \"Guilty\" for a majority of 57 votes – but Democrats failed to get the two-thirds majority needed to convict."
+    publishedDateTime: 2021-02-14T02:09:00Z
+    webUrl: "https://www.cbsnews.com/live-updates/trump-impeachment-trial-day-5-2021-02-13/"
+    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/trump-impeachment-trial-day-5-2021-02-13/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/trump-impeachment-trial-day-5-2021-02-13/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/13/54f165d0-9a50-4b4e-8127-7e01ff235b09/thumbnail/1200x630/800784316ca0c1fceac7fc2535853681/gettyimages-1301970317.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "First Thing: Donald Trump is still a threat to democracy, Democrats warn"
     excerpt: "House impeachment managers urged senators to prevent Trump from holding office again. Plus, former Republican officials discuss creating a new party"
     publishedDateTime: 2021-02-12T11:00:00Z

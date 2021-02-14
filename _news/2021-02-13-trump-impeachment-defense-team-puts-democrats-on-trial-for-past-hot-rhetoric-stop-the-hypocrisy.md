@@ -1262,6 +1262,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Another Trump impeachment twist: Senate sidesteps witnesses despite vote allowing them"
+    excerpt: "In another wild plot twist, there won't be witnesses called in former President Donald Trump's impeachment trial after all -- even though the Senate voted Saturday morning to hear from them."
+    publishedDateTime: 2021-02-14T02:18:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-impeachment-trial-curveball-senate-witnesses"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-trial-curveball-senate-witnesses.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-trial-curveball-senate-witnesses.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 127
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/db8c4e36-b0cc-4a00-9e4a-74cc2b8afb53/aa38912e-f605-4e24-8bc3-6ca4cb8b4870/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Democratic impeachment prosecutors use rioters' words against Trump at trial: 'We were invited here'"
     excerpt: "House impeachment managers Thursday sought to directly connect former President Trump to the Jan. 6 violence at the Capitol by playing statements of the rioters who said they were acting on Trump's request."
     publishedDateTime: 2021-02-11T20:31:00Z

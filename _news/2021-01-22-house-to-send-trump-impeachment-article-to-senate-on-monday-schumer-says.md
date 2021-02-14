@@ -207,6 +207,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "7 Republicans vote to convict Trump in impeachment trial"
+    excerpt: "Seven Republicans voted Saturday to convict former President Donald Trump in his Senate trial, easily the largest number of lawmakers to ever vote to find a president of their own party guilty at impeachment proceedings."
+    publishedDateTime: 2021-02-14T02:28:00Z
+    webUrl: "https://www.washingtonpost.com/politics/7-republicans-vote-to-convict-trump-in-impeachment-trial/2021/02/13/7bd44d24-6e42-11eb-a66e-e27046e9e898_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/7-republicans-vote-to-convict-trump-in-impeachment-trial/2021/02/13/7bd44d24-6e42-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/7-republicans-vote-to-convict-trump-in-impeachment-trial/2021/02/13/7bd44d24-6e42-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "U.S. House lawmakers carry article of impeachment against Trump to Senate"
     excerpt: "U.S. House of Representatives officials and lawmakers on Monday hand-carried an article of impeachment against former President Donald Trump to the Senate for trial on accusations of inciting the deadly Jan."
     publishedDateTime: 2021-01-26T00:41:00Z

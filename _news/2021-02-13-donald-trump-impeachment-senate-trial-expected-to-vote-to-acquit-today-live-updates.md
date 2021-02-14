@@ -3,8 +3,8 @@ category: news
 title: "Donald Trump impeachment: Senate trial expected to vote to acquit today – live updates"
 excerpt: "Each legal team will have two hours to restate their case before Senate likely votes to acquit Donald Trump"
 publishedDateTime: 2021-02-13T15:33:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/feb/13/donald-trump-impeachment-senate-trial-vote-verdict-live-updates?page=with:block-6027e8668f08b555964bd970"
-webUrl: "https://www.theguardian.com/us-news/live/2021/feb/13/donald-trump-impeachment-senate-trial-vote-verdict-live-updates?page=with:block-6027e8668f08b555964bd970"
+originalUrl: "https://www.theguardian.com/us-news/live/2021/feb/13/donald-trump-impeachment-senate-trial-vote-verdict-live-updates?page=with:block-6027ef138f08d7b7c03d2218"
+webUrl: "https://www.theguardian.com/us-news/live/2021/feb/13/donald-trump-impeachment-senate-trial-vote-verdict-live-updates?page=with:block-6027ef138f08d7b7c03d2218"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/13/donald-trump-impeachment-senate-trial-vote-verdict-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/13/donald-trump-impeachment-senate-trial-vote-verdict-live-updates"
 type: article
@@ -46,6 +46,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/935212d9ed8090a7be59ca81594a98629f54dbc6/351_27_2333_1555/master/2333.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c4c555706827b8899c50162cd6bd996c"
         width: 600
         height: 400
+        isCached: true
+  - title: "U.S. Senate acquits Trump as Republicans save him in impeachment again"
+    excerpt: "The U.S. Senate acquitted Donald Trump on Saturday of inciting the mob that stormed the Capitol last month, sparing him from conviction in his second impeachment trial in a year despite broad condemnation of his role in sparking the deadly siege."
+    publishedDateTime: 2021-02-14T02:51:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-idUSKBN2AD0AE"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AD0AE"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AD0AE"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210213&t=2&i=1551450590&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1C0JB"
+        width: 968
+        height: 545
         isCached: true
   - title: "Trump headed to swift acquittal after Democrats balk on impeachment witnesses"
     excerpt: "The decision in the end to forego testimony all but ensured Trump’s acquittal without a full accounting of his actions on Jan. 6, revealing his continuing grip on the GOP and well as Democratic ambivalence over extending the trial."
@@ -126,6 +142,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/64c81b46fa1ead1027270a801fd39451d4d7e3a5/137_136_2543_1526/master/2543.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5f9e8850db9a586c74151d3df85764fb"
         width: 600
         height: 360
+        isCached: true
+  - title: "Read Democrat Jamie Raskin's closing argument in impeachment trial of Donald Trump"
+    excerpt: "The lead impeachment manager called Trump the \"inciter in chief.\" House managers and Trump's legal team prepare to make closing argument Lead Impeachment Manager Jamie Raskin, D-Md., delivered a searing closing speech on Saturday as the House impeachment managers pushed to convict Despite the speech,"
+    publishedDateTime: 2021-02-14T02:26:00Z
+    webUrl: "https://abcnews.go.com/Politics/read-democrat-jamie-raskins-closing-argument-impeachment-trial/story?id=75878802"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/read-democrat-jamie-raskins-closing-argument-impeachment-trial/story?id=75878802"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/read-democrat-jamie-raskins-closing-argument-impeachment-trial/story?id=75878802"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 119
+    images:
+      - url: "https://s.abcnews.com/images/General/impeachment-president-donald-trump-16-ap-llr-210213_1613240356883_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "In self-imposed exile, Trump watches with unhappiness as second impeachment trial unfolds"
     excerpt: "Trump has remained sanguine that an evenly divided Senate will acquit him, while one person described him as “bored out of his mind” in Florida."
@@ -301,6 +333,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "sHmXQNg612d1NULJNUablIDPquianTP9126nJueB4Ns972VxWnf98aHPhGQ2OdAE7mJRXgu2DQfWVyzUjTB87yA7BQvZLwYO9sduoWId6RyAvSmRopyqHaT87bMsl8Gnj6JQ77S9enofzaKz12V5oQwnczKnm48wZP3fQr1KK2OBa4JQVRIH7vUVe5X71O3n1yKplyPAXT5/lm/mARDLX3QRQbdqEGnA0PfQgGYHWei7W318VcUouODDb9l9jn7Dn0Tf1GHm4ooURfk1H5LpKbvv5Koi6NI5Gbp3Ufej6zicQA5TvOT4mYmbES2ynNcVuNXz9NZgt6KxzU8xpZb5X4Uk+BPUAzC5ZASM/SNZIZ56UUysSwZPJL4iM7BLyFDPsBrT8tg7NbGe5FaMZwBHgzsGlZy7Th0L8QYfHvGg48lF3rla4Si/dPjo3z1oXWNLBec4kOgkScORoFw846wNLKvTV2LPnoEUT2IkHwgK/pjFYVVoloSL9aiiASTS7ZgxDHmA7GjVD2BoCbVEEK8SOQ==;P6HQ5PXkFx47tIyCMNgVdQ=="
+secured: "TQVUX9VrvTQcCdyTeqBkd4g07vksIkuackRniV9XJg0HotvB0KWX2ABUsaa2klJpjrbJgy7T0iAEW5oi8lBdR7GZ5gb9/lWd5wDUe0tBNIShzSi1Woym5Mt0GH3Z2+bdeJswJRDfe1OP3hz3CtVMoEnc3UtO4Ab+cMZ3Q1AT0ZZmF7v+blKVsK4XJHmRd/XJvQR0SJc9BdAYW/D/2mNiRHoJDWR448tr98GVVkF+Mdki44cMYU+/0V0B3zQhJ/0bC4NxBqcg/i5UA0DKspSiYXI8eKE1VmtUT0qSrLKLvohyN6LCFib1kSlBkXnHJxqdk6Dn3uyeNjACQadj8dIyxYiu04EtzcXbjILKlipeWXk=;ZSd8GtAeC0F0zDX1J2fKyg=="
 ---
 

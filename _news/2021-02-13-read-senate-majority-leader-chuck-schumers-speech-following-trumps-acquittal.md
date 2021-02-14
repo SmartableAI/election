@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Even after acquittal, GOP senators and Democratic managers hope rebuke of Trump has lasting impact"
+    excerpt: "In the moments after former President Donald Trump was acquitted by the Senate for a second time in a little more than a year, Senate Minority Leader Mitch McConnell rose to speak.\n    \n"
+    publishedDateTime: 2021-02-14T02:03:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KYmzNoWkfYI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/13/politics/trump-acquittal-gop-rebuke-lasting-impact/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/trump-acquittal-gop-rebuke-lasting-impact/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 156
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210213202046-trump-impeachment-vote-acquittal-day-5-wrap-trial-two-nobles-nr-vpx-00021619-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump tells aides he thinks he'll be acquitted as he remains fixated on 'accountability' for GOP lawmakers who voted to impeach"
     excerpt: "Former President Donald Trump has been reaching out to aides and advisers to discuss his upcoming Senate impeachment trial, sources familiar with the conversations said, with one of those sources saying Trump thinks there won't be enough Republican senators who'll vote to convict him.\n    \n"
     publishedDateTime: 2021-02-08T22:44:00Z

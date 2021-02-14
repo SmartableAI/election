@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Louisiana Republican Party censures Cassidy following vote to convict Trump "
+    excerpt: "The Louisiana Republican Party swiftly moved Saturday to censure GOP Sen. Bill Cassidy after he voted earlier in the day to convict former President Donald Trump in his second impeachment trial.\n    \n"
+    publishedDateTime: 2021-02-14T01:53:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zD6dOqGI-jM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/13/politics/bill-cassidy-louisiana-republican-party-censure/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/bill-cassidy-louisiana-republican-party-censure/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210213164219-02-gop-vote-cassidy-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump conviction rests on Republicans' instinct for self-preservation"
     excerpt: "Analysis: The Democrats' case asks GOP senators to think of their own interests, as well as the republic's. WASHINGTON — If Republican senators will not put the republic over their party, House impeachment trial managers suggested Wednesday,"
     publishedDateTime: 2021-02-11T09:31:00Z

@@ -129,10 +129,10 @@ related:
         isCached: true
   - title: "U.S. governor calls on Biden to overturn trade ruling against SK Innovation"
     excerpt: "The governor of Georgia on Friday called on President Joe Biden to overturn a trade ruling made against SK Innovation, saying the decision would hurt the electric vehicle battery maker's plant being built in the southern state."
-    publishedDateTime: 2021-02-13T04:58:00Z
-    webUrl: "https://www.reuters.com/article/us-lg-chem-sk-innovation-idUSKBN2AC2I1"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AC2I1"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AC2I1"
+    publishedDateTime: 2021-02-13T09:58:00Z
+    webUrl: "https://www.reuters.com/article/us-lg-chem-sk-innovation-idINKBN2AC2I1"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2AC2I1"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2AC2I1"
     type: article
     provider:
       name: Reuters

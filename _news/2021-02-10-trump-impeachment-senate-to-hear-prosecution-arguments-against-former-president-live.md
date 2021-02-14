@@ -79,6 +79,22 @@ related:
         width: 1582
         height: 1024
         isCached: true
+  - title: "Senate Acquits Trump With Seven Republicans Joining All 50 Democrats in Voting ‘Guilty’"
+    excerpt: "Mitch McConnell spoke after the verdict to denounce Trump’s conduct while insisting his trial was unconstitutional."
+    publishedDateTime: 2021-02-14T02:38:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/02/senate-acquits-trump-with-seven-republicans-defecting.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/02/senate-acquits-trump-with-seven-republicans-defecting.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/02/senate-acquits-trump-with-seven-republicans-defecting.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 67
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/4f7/742/f99a5a8f182f257ba6fe3100462802bb5d-impeachment-trial-verdict-screencap.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "yxH7m0Lx/VcUKr9052e0I6f9ydqNCuP/xGRvWMLOZ6JnHglfpS4lvfBB0/tcwGyXMAQMQM9fSgOMzAX/LfoPd9rDJAdXg9e44j+IJKbIsZX9QCaCU+XpWlG6CtIlpiMNyVGcw3AF14bDtyniG/ccvpsghmZfzKhyiBPkAtDOpLq52gw0AqUHokafc/SeSEqgJxMsmSdbkL4nBRY63yfD1VT27rIebEbTcXPC/q1StJw+tLpWqARhfVmnatjoWEb/FXQXaF2qyT9yrd6H3h3LJJZD1fxF7bktXJQJHEhD2EH6HT9JwUCFv9+5QRGKkXgx2qGLC6wb1CgNYty9ImlHqcPqpYiOFeW50l01bbGw+OG37KjY1u6wsHJPUhIDAL6SWuHPGs+4BXHwDsB4nKTBckGgthAZw/4Tw61vq2aRNha7QKWuU/Irdrk0HzQ4LrGejuiQagmBVxWvrosDp+6DOYpyq7UU+M/XgsuWIh/lopOIP5FxRpLb4/7DftYp3B1G+DiOtuybxiCGRynCTcEbPg==;NbxzDwaKgf4aEmxg2owfdA=="
 ---

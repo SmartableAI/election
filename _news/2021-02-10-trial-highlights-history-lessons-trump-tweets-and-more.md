@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trial-highlights-histo
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trial-highlights-history-lessons-trump-tweets-75789773"
 type: article
 quality: 125
-heat: 465
+heat: 485
 published: true
 
 provider:
@@ -238,6 +238,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/02/10/USAT/81357ca9-76f8-4a30-8f24-92b1493b443a-AP_Trump_Impeachment_8.jpg?auto=webp&crop=3647,2052,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Senate Reaches Deal to Skip Witnesses in Trump Impeachment Trial"
+    excerpt: "WASHINGTON — House Democrats began wrapping up their impeachment case against Donald Trump on Saturday after a chaotic morning in which they gave up a last-minute plan for witness testimony that could have significantly prolonged the trial and delayed a vote on whether the former president incited the deadly Capitol insurrection."
+    publishedDateTime: 2021-02-14T02:22:00Z
+    webUrl: "https://time.com/5939200/trump-impeachment-trial/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 105
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2021/02/Impeachment-Trial.jpg"
+        width: 2811
+        height: 1582
         isCached: true
   - title: "Trump impeachment trial: After emotional first day, opening arguments begin today in historic second Senate trial"
     excerpt: "Opening arguments will begin Wednesday in Donald Trump’s impeachment trial after an emotional first day that wrenched senators back to the Jan. 6 attack on the U.S. Capitol."

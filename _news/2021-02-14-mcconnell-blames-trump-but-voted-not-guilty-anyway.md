@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/13/politics/mitch-mcconnell-acquit-t
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/mitch-mcconnell-acquit-trump/index.html"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Even after acquittal, GOP senators and Democratic managers hope rebuke of Trump has lasting impact"
+    excerpt: "In the moments after former President Donald Trump was acquitted by the Senate for a second time in a little more than a year, Senate Minority Leader Mitch McConnell rose to speak.\n    \n"
+    publishedDateTime: 2021-02-14T02:03:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KYmzNoWkfYI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/13/politics/trump-acquittal-gop-rebuke-lasting-impact/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/trump-acquittal-gop-rebuke-lasting-impact/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 156
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210213202046-trump-impeachment-vote-acquittal-day-5-wrap-trial-two-nobles-nr-vpx-00021619-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump tells aides he thinks he'll be acquitted as he remains fixated on 'accountability' for GOP lawmakers who voted to impeach"
     excerpt: "Former President Donald Trump has been reaching out to aides and advisers to discuss his upcoming Senate impeachment trial, sources familiar with the conversations said, with one of those sources saying Trump thinks there won't be enough Republican senators who'll vote to convict him.\n    \n"
     publishedDateTime: 2021-02-08T22:44:00Z
@@ -80,6 +96,6 @@ related:
         height: 619
         isCached: true
 
-secured: "E9XT/auvbWqQ/9giKZQLJFSmyUhFvgoKpSv6gsxj8NdFI62Q3Rtk2xYXeMgKTlVnBceTlFWoYcAM7Xo43w8csDF+er2mYMo6ItPknozXB/+71XEcBAUwA6McKTUzoIp36cEtN3ApZcWFpe4DB84rcCJOJD5LCJ5c50tRal6HwEl2Z3xTX8VKtcOafhyD+pYdbAQUE+mrGdZfstQTxRqtKMRiKo0B6cNZPkPljEh+id11pi28G0UWpf1ASY6qNI4QMMXoTd0BMBM/Xlq6dYCh3/a9SzDveu7/4iKQoOCKl/GyzthaX2AL6bqTA4l9OzygyZBIr59JEq9SQwCTz9Ne9OIQCaMDT8hcdcBl2HpvSnY=;sYlN7XTeST/tU1Q7sp0vXQ=="
+secured: "F2tVlaYoHb1I6wUTDQisY/IrnjfzxpLqgSXhol8/ZqtThAFzUvDkz25Ax1iAJdNgE74cHGPGkdhRHpvJ80BxFhdUqh8g0m0OX5Ac2Zs/2DW17Sv9EOdlq627x8HTiONBRar/NilKdMeHER8ZrKByNvCw9xz8LOzzzprKKO4r5xopWWYWYQB8VgD/nG4kOEieJDXb//2SddH6lpnXTltbyoG/w50taPCGrZp4BouInwd8CvomZ7l/Be/CW0IVlBEl6bAp6ial+nGs1NxCZWurxCHYOfg93jL1lAfhsWwdSeEYqUaNsjsm4Sy8e6hMjcPoeGbrN03BGFliH5RG9IORZwOEmhy0HNeH0zFDaVKIrjs=;Oon6zOrYQbyfMv7c9dLhpQ=="
 ---
 

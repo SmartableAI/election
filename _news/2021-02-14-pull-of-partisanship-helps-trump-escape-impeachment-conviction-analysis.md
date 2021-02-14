@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/pull-partisanship-helps-trump-es
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/pull-partisanship-helps-trump-escape-impeachment-conviction-analysis/story?id=75864271"
 type: article
 quality: 124
-heat: 184
+heat: 204
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106839426-1613066740937-gettyimages-1231104598-brave_zvrabgh107.jpg?v=1613066758"
         width: 1582
         height: 1024
+        isCached: true
+  - title: "Senate Acquits Trump With Seven Republicans Joining All 50 Democrats in Voting ‘Guilty’"
+    excerpt: "Mitch McConnell spoke after the verdict to denounce Trump’s conduct while insisting his trial was unconstitutional."
+    publishedDateTime: 2021-02-14T02:38:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/02/senate-acquits-trump-with-seven-republicans-defecting.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/02/senate-acquits-trump-with-seven-republicans-defecting.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/02/senate-acquits-trump-with-seven-republicans-defecting.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 67
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/4f7/742/f99a5a8f182f257ba6fe3100462802bb5d-impeachment-trial-verdict-screencap.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "lrccXI6xIslGZ3k5FySeHCvEaBenkcalwtIU+by18xO0ygkemrLphg/lCZiC+9ho6AulMwc4/AVrzQMkuXQhCYo1pmt1Ly7zuja5QQoLHk2v+eAsVLscpVYqshapE+yRq2uy1roydGoyHg45yW/uDcMLIVISzwX9OhQczDsGnVcyIAxOYxUXGIS4C0u7q0aD6aUyLEsE3Fy+ysqKyHmkk6eCjBcAVz7qqOjURa0bK1ZY6uJMQpyRTH5K7rvimJx3u6WfVs+um243ov0wIauuaEbl27q4R4lGVAqYMEX5BdiWxDkvxqmXOeNhrb/Rc6Iq/RzKfhlAUZYqewyNE7i+amxNHuP2Zd5eYFWWZqMYvvs=;sTAWeICUiOUyqyhRBBrvTA=="
