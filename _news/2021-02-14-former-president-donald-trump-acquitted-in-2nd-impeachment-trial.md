@@ -1,26 +1,34 @@
 ---
 category: news
-title: "Nevada Senators Vote to Convict Trump in Impeachment Trial"
-excerpt: "Former President Donald Trump’s second impeachment trial ended Saturday with an acquittal as both of Nevada’s two Democratic senators voted in a majority that fell short of the two-thirds needed for conviction."
-publishedDateTime: 2021-02-13T22:57:00Z
-originalUrl: "https://www.usnews.com/news/best-states/nevada/articles/2021-02-13/nevada-senators-vote-to-convict-trump-in-impeachment-trial"
-webUrl: "https://www.usnews.com/news/best-states/nevada/articles/2021-02-13/nevada-senators-vote-to-convict-trump-in-impeachment-trial"
+title: "Former President Donald Trump acquitted in 2nd impeachment trial"
+excerpt: "President Donald Trump 's second impeachment trial came to a climactic end on Saturday afternoon, with Trump being acquitted for his alleged role of inciting the deadly event. A majority of senators voted to convict the former president,"
+publishedDateTime: 2021-02-14T04:49:00Z
+originalUrl: "https://abcnews.go.com/Politics/president-donald-trump-acquitted/story?id=75853994"
+webUrl: "https://abcnews.go.com/Politics/president-donald-trump-acquitted/story?id=75853994"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/president-donald-trump-acquitted/story?id=75853994"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/president-donald-trump-acquitted/story?id=75853994"
 type: article
-quality: 35
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://s.abcnews.com/images/Politics/lawyers-bump-gty-ps-210213_1613252499591_hpMain_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "Biden, reflecting on Senate acquittal of Trump, says 'democracy is fragile'"
@@ -102,22 +110,6 @@ related:
       - url: "https://thehill.com/sites/default/files/mcconnellmitch_020821gn2_lead.jpg"
         width: 980
         height: 551
-        isCached: true
-  - title: "Former President Donald Trump acquitted in 2nd impeachment trial"
-    excerpt: "President Donald Trump 's second impeachment trial came to a climactic end on Saturday afternoon, with Trump being acquitted for his alleged role of inciting the deadly event. A majority of senators voted to convict the former president,"
-    publishedDateTime: 2021-02-14T04:49:00Z
-    webUrl: "https://abcnews.go.com/Politics/president-donald-trump-acquitted/story?id=75853994"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/president-donald-trump-acquitted/story?id=75853994"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/president-donald-trump-acquitted/story?id=75853994"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/lawyers-bump-gty-ps-210213_1613252499591_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Key takeaways from final day of Trump's 2nd impeachment trial"
     excerpt: "Senate votes to acquit former President Donald Trump Despite a surprise vote to consider witnesses that blindsided both parties, the fifth day of Donald Trump's second impeachment trial ended as expected: with Trump's acquittal,"
@@ -517,7 +509,16 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 35
+  - title: "Nevada Senators Vote to Convict Trump in Impeachment Trial"
+    excerpt: "Former President Donald Trump’s second impeachment trial ended Saturday with an acquittal as both of Nevada’s two Democratic senators voted in a majority that fell short of the two-thirds needed for conviction."
+    publishedDateTime: 2021-02-13T22:57:00Z
+    webUrl: "https://www.usnews.com/news/best-states/nevada/articles/2021-02-13/nevada-senators-vote-to-convict-trump-in-impeachment-trial"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
-secured: "YTh2L6spqNuRvgpfrgzd1Dwen8l6Nztgv3ff9KaUGP6+LGq8uOE9MtvYpSY2y/TrFDF7O4JKaHJTC4T9AKcXLWOM97vCq9Y0Hi9MfegUZ82gT8PG1UZ+Y5GUadq8gVaf+UWHiXX4lNuqpd9dXGNxHyAQpebGpYu4FE7z4plwTE7p5uLqY8H876tsnYxN6YHD0FIVhLfZyhQcIzWqqNk+j2ouG5dBhlQE67M52HbQgFNoW+5x68VtQeA2R0QucKmxk1taBGgdfyiklgJk7MtqRQraGWy05tH+5gfpN2GckVqw3YHnsLB9wQh26WX/6Wtw2cfkhc0OF7RJW6NmibpcMIc9q9OKqFNJ25OfnojA9y8=;ZQYDDAVo3zm8EHfx6urS2Q=="
+secured: "4sk6aENqr5awJpsfeLmBW3UYBWYjgCLBZNEq2ALSm+yCGZaLgnocCfwozVpY9SOPJ6QqETXm2DNky8zHY/p793wFysXu+E0nY6Emc3kG6mmw6i342OEcixDdIBbDM8kj/3459NcsKlyOdxKW2WmQOVy/7rItL4o7MOCxMMxJfrQMs4iCp1+DNU5GTR+zSEfuPpny1rS+FHMlFJ0m4446st09+P5pVjgtSB+H8o10bGkXgFZIAXbe3dA3Y29VPrmT0DXFRoLXi9YFAWC9vF6vQNd6a56IJMkAnZWMTA9Bpev3LVwRd9iAi6Vn6PCLXcrKEx/w+8QBjKONzJ5nlyY4a/S35pCXDVP0CPBwUBMbVuQ=;xmQAUTdJGf9tOodyyhsumQ=="
 ---
 

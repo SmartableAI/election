@@ -1,10 +1,10 @@
 ---
 category: news
-title: "Graham to meet with Trump to talk future of GOP"
-excerpt: "The South Carolina Republican said Friday evening that he plans to encourage Trump to work with Republicans to ensure that they take back the House and the Senate in 2022."
-publishedDateTime: 2021-02-13T02:37:00Z
-originalUrl: "https://www.politico.com/news/2021/02/12/graham-trump-gop-468982"
-webUrl: "https://www.politico.com/news/2021/02/12/graham-trump-gop-468982"
+title: "Trump escapes conviction but even his allies say he’s damaged"
+excerpt: "Donald Trump was acquitted in his second impeachment trial on Saturday. What comes next for the 45th president is anybody’s guess. Uncertainty looms over nearly every aspect of the former president’s post-impeachment political future — from the causes he will embrace,"
+publishedDateTime: 2021-02-14T06:19:00Z
+originalUrl: "https://www.politico.com/news/2021/02/13/trump-impeachment-witch-hunt-469001"
+webUrl: "https://www.politico.com/news/2021/02/13/trump-impeachment-witch-hunt-469001"
 type: article
 quality: 115
 heat: -1
@@ -24,9 +24,9 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://static.politico.com/32/4e/67ed17614f2196ba40286f5b3cf5/gettyimages-1230679512-1.jpg"
-    width: 1160
-    height: 773
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/3958f2f0-6f0e-4fe2-bd60-aba613f31b42/b477caa0-9be7-45cc-97d1-5ee053590be6/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -730,6 +730,20 @@ related:
         width: 2500
         height: 1569
         isCached: true
+  - title: "Graham to meet with Trump to talk future of GOP"
+    excerpt: "The South Carolina Republican said Friday evening that he plans to encourage Trump to work with Republicans to ensure that they take back the House and the Senate in 2022."
+    publishedDateTime: 2021-02-13T02:37:00Z
+    webUrl: "https://www.politico.com/news/2021/02/12/graham-trump-gop-468982"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/32/4e/67ed17614f2196ba40286f5b3cf5/gettyimages-1230679512-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Trump defense claims Capitol attack wasn’t an insurrection"
     excerpt: "Donald Trump’s lead impeachment attorney on Friday denied that the violence at the Capitol on Jan. 6 amounted to an insurrection, a novel claim that contradicts the Justice Department and the broadly accepted version of events."
     publishedDateTime: 2021-02-13T00:20:00Z
@@ -744,21 +758,7 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "Trump escapes conviction but even his allies say he’s damaged"
-    excerpt: "Donald Trump was acquitted in his second impeachment trial on Saturday. What comes next for the 45th president is anybody’s guess. Uncertainty looms over nearly every aspect of the former president’s post-impeachment political future — from the causes he will embrace,"
-    publishedDateTime: 2021-02-14T06:19:00Z
-    webUrl: "https://www.politico.com/news/2021/02/13/trump-impeachment-witch-hunt-469001"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/3958f2f0-6f0e-4fe2-bd60-aba613f31b42/b477caa0-9be7-45cc-97d1-5ee053590be6/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
-secured: "n3KWrFR3G/ew4UU6x0GjYl5r1x4myNiADOzE+hykKZ+FP0HRBrFBEvzwW/jwLIMwTW+q3jYldzuF9HTNPdiabj78NnvZSYjpEjJ/yq1RLfS6hP6GIp5AYcIAOZTWAKYsCDt7K4z7XtAine3SqGr8rPZn+T4j+uftYTvEBQ+W6q7c77AIj1/CBgOF0xKn3DymOFEv3eHdWH4k4m4NdAfAFsiqDI+dNc/Y5yBgDd2AJdlM0Lx5rz1jsovXPSWgFeMz07Y1+3zSm6rOu4x0+jRdoemdeFh+6kttlS6r/Mx2oOObOSLXM0j5ala3VXfUdzoESRxMcyYxvDM7sgQION9Q8nHYIniX5RnRScC8qzbF5qWLOJDVm/bupmJrFja0zCfQvrk/ymHum+Jkqa/3IgX8OAJzJSnBdv+Qj66EHUIjXQhe5JvQWklfwUH1pysUXpnJ6MeZALDbg44zN52NNYWBYfpqALX2GUL8B45p8F5tlTAlvevAdExTvn69qAIHx4Z+3bMuPfAPWe7sUa3QBlfc3A==;Rozz0hLkzL7v6xogRtjIYA=="
+secured: "1o9luKc7QP/yyFqlgjJrRgC7PMm/dpeJ5v+sH8zeu/Ax08r9lJIb4etkVIT1llqNEZkzAbnappPYT8NVrakqi71N5ZhEBEEqEFmEaaJi2YAZN97IxrimhZxIJyKD8dvx7tnUFeN/H2rwgO2RnYOaLRhBdLhO00yyy99e2yItvMf36Ginr7hf50ksy8Ujl6DEsl2pIOyEaoxJZls3CRjfEhIAiMosa09ZyuY6OyJwv/2Sef4gGUtWBCDxEC7xin9QyTAVssmazXpFgGiFl0E97vNq6QuLC7utivFy6pDzdcg4pxK6/WGlGmI7n5pAw0PifCGpB9Z3A/7rqb491oZOIaDwf7nmYWbJXaDz10Ek/w4=;hwrUre9xrV3JnO3rUu1fhQ=="
 ---
 

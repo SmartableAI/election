@@ -79,6 +79,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Dem retreat on witnesses brings messy end to Trump trial"
+    excerpt: "The Democrats who prosecuted Donald Trump’s impeachment trial are facing criticism from some senators over an attempt to call witnesses"
+    publishedDateTime: 2021-02-14T06:36:00Z
+    webUrl: "https://www.washingtonpost.com/politics/dem-retreat-on-witnesses-brings-messy-end-to-trump-trial/2021/02/13/11063642-6e65-11eb-a66e-e27046e9e898_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/dem-retreat-on-witnesses-brings-messy-end-to-trump-trial/2021/02/13/11063642-6e65-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/dem-retreat-on-witnesses-brings-messy-end-to-trump-trial/2021/02/13/11063642-6e65-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Donald Trump Escapes Conviction a Second Time, Leaving Door Open for 2024 Run"
     excerpt: "Donald Trump's second acquittal in the Senate raises questions about whether the former president will seek federal office again."
     publishedDateTime: 2021-02-13T20:53:00Z

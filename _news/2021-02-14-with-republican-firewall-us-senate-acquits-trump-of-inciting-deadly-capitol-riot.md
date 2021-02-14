@@ -1,26 +1,34 @@
 ---
 category: news
-title: "Nevada Senators Vote to Convict Trump in Impeachment Trial"
-excerpt: "Former President Donald Trump’s second impeachment trial ended Saturday with an acquittal as both of Nevada’s two Democratic senators voted in a majority that fell short of the two-thirds needed for conviction."
-publishedDateTime: 2021-02-13T22:57:00Z
-originalUrl: "https://www.usnews.com/news/best-states/nevada/articles/2021-02-13/nevada-senators-vote-to-convict-trump-in-impeachment-trial"
-webUrl: "https://www.usnews.com/news/best-states/nevada/articles/2021-02-13/nevada-senators-vote-to-convict-trump-in-impeachment-trial"
+title: "With Republican firewall, U.S. Senate acquits Trump of inciting deadly Capitol riot"
+excerpt: "The U.S. Senate acquitted Donald Trump on Saturday of inciting the mob that stormed the Capitol last month, sparing him from conviction in his second impeachment trial in a year despite broad condemnation of his role in sparking the deadly siege."
+publishedDateTime: 2021-02-14T06:48:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-trump-impeachment/u-s-senate-acquits-trump-as-republicans-save-him-in-impeachment-again-idUSKBN2AD0AE"
+webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment/u-s-senate-acquits-trump-as-republicans-save-him-in-impeachment-again-idUSKBN2AD0AE"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AD0AE"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AD0AE"
 type: article
-quality: 35
+quality: 119
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210213&t=2&i=1551450590&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1C0JB"
+    width: 968
+    height: 545
+    isCached: true
 
 related:
   - title: "Biden, reflecting on Senate acquittal of Trump, says 'democracy is fragile'"
@@ -311,22 +319,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "With Republican firewall, U.S. Senate acquits Trump of inciting deadly Capitol riot"
-    excerpt: "The U.S. Senate acquitted Donald Trump on Saturday of inciting the mob that stormed the Capitol last month, sparing him from conviction in his second impeachment trial in a year despite broad condemnation of his role in sparking the deadly siege."
-    publishedDateTime: 2021-02-14T06:48:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment/u-s-senate-acquits-trump-as-republicans-save-him-in-impeachment-again-idUSKBN2AD0AE"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AD0AE"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AD0AE"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 119
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210213&t=2&i=1551450590&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1C0JB"
-        width: 968
-        height: 545
-        isCached: true
   - title: "Most GOP Senators Would Convict Trump Via Secret Ballot, Hawaii Sen. Mazie Hirono Says"
     excerpt: "Senator Mazie Hirono, a Hawaii Democrat, said that \"most\" Republican senators would vote to convict former President Donald Trump of inciting the attack on the U.S. Capitol if they were given the opportunity to use a secret ballot."
     publishedDateTime: 2021-02-09T16:45:00Z
@@ -517,7 +509,16 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 35
+  - title: "Nevada Senators Vote to Convict Trump in Impeachment Trial"
+    excerpt: "Former President Donald Trump’s second impeachment trial ended Saturday with an acquittal as both of Nevada’s two Democratic senators voted in a majority that fell short of the two-thirds needed for conviction."
+    publishedDateTime: 2021-02-13T22:57:00Z
+    webUrl: "https://www.usnews.com/news/best-states/nevada/articles/2021-02-13/nevada-senators-vote-to-convict-trump-in-impeachment-trial"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
-secured: "YTh2L6spqNuRvgpfrgzd1Dwen8l6Nztgv3ff9KaUGP6+LGq8uOE9MtvYpSY2y/TrFDF7O4JKaHJTC4T9AKcXLWOM97vCq9Y0Hi9MfegUZ82gT8PG1UZ+Y5GUadq8gVaf+UWHiXX4lNuqpd9dXGNxHyAQpebGpYu4FE7z4plwTE7p5uLqY8H876tsnYxN6YHD0FIVhLfZyhQcIzWqqNk+j2ouG5dBhlQE67M52HbQgFNoW+5x68VtQeA2R0QucKmxk1taBGgdfyiklgJk7MtqRQraGWy05tH+5gfpN2GckVqw3YHnsLB9wQh26WX/6Wtw2cfkhc0OF7RJW6NmibpcMIc9q9OKqFNJ25OfnojA9y8=;ZQYDDAVo3zm8EHfx6urS2Q=="
+secured: "ZgLNaDj3MM/i2yEfiBjaXE9aQugNF1z2kGVehCQ+tAUF8wQZBMBfSedt88hdEMV8dfQqrJDVJvM+MZxLqHjBVgbZS5kkbqzyrbOShFhQt/9YpeWHMx8VffDLZ2eyhJi60f4I/ZTDIuZzVq1VfzZOvqLhR0iVPidQDfQ8Fo39CY3P/f94FpJwMWs59DYdY1ake/zxHFnDMtrqSaMNF++VqOVI6s6W7NRPre5pIOkxuVR0RkfOpGDD9XKCWrtz4q1+18AGsU9AbxZb4qIGoS/MflNfoZIr8k4P7NAkDZSnhDPDcapIfEAXmLjOE6qU/lHlEyw8Chg8mqM+YR9b/VYhITTlLCPA8C6tKOgtf9EUsi0=;M/yrqkDHwAyfLUjeYA1uMA=="
 ---
 

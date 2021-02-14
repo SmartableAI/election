@@ -107,6 +107,38 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Former President Donald Trump acquitted in 2nd impeachment trial"
+    excerpt: "President Donald Trump 's second impeachment trial came to a climactic end on Saturday afternoon, with Trump being acquitted for his alleged role of inciting the deadly event. A majority of senators voted to convict the former president,"
+    publishedDateTime: 2021-02-14T04:49:00Z
+    webUrl: "https://abcnews.go.com/Politics/president-donald-trump-acquitted/story?id=75853994"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/president-donald-trump-acquitted/story?id=75853994"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/president-donald-trump-acquitted/story?id=75853994"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/lawyers-bump-gty-ps-210213_1613252499591_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Key takeaways from final day of Trump's 2nd impeachment trial"
+    excerpt: "Senate votes to acquit former President Donald Trump Despite a surprise vote to consider witnesses that blindsided both parties, the fifth day of Donald Trump's second impeachment trial ended as expected: with Trump's acquittal,"
+    publishedDateTime: 2021-02-14T06:15:00Z
+    webUrl: "https://abcnews.go.com/Politics/key-takeaways-final-day-trumps-2nd-impeachment-trial/story?id=75856333"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/key-takeaways-final-day-trumps-2nd-impeachment-trial/story?id=75856333"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/key-takeaways-final-day-trumps-2nd-impeachment-trial/story?id=75856333"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/jamie-raskin_hpMain_20210213-201119_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Senate votes 57-43 for Trump acquittal"
     excerpt: "Senate Republicans handed former President Trump his second impeachment acquittal on Saturday, clearing him of charges that he incited the mob that attacked the Capitol on Jan. 6."
     publishedDateTime: 2021-02-13T20:49:00Z
@@ -282,6 +314,22 @@ related:
       - url: "https://thehill.com/sites/default/files/senateimpeachmenttrialraskin_020921getty.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "With Republican firewall, U.S. Senate acquits Trump of inciting deadly Capitol riot"
+    excerpt: "The U.S. Senate acquitted Donald Trump on Saturday of inciting the mob that stormed the Capitol last month, sparing him from conviction in his second impeachment trial in a year despite broad condemnation of his role in sparking the deadly siege."
+    publishedDateTime: 2021-02-14T06:48:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment/u-s-senate-acquits-trump-as-republicans-save-him-in-impeachment-again-idUSKBN2AD0AE"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AD0AE"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AD0AE"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 119
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210213&t=2&i=1551450590&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1C0JB"
+        width: 968
+        height: 545
         isCached: true
   - title: "Most GOP Senators Would Convict Trump Via Secret Ballot, Hawaii Sen. Mazie Hirono Says"
     excerpt: "Senator Mazie Hirono, a Hawaii Democrat, said that \"most\" Republican senators would vote to convict former President Donald Trump of inciting the attack on the U.S. Capitol if they were given the opportunity to use a secret ballot."

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/13/politics/trump-pence-capitol-riot
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/trump-pence-capitol-riot/index.html"
 type: article
 quality: 192
-heat: 1092
+heat: 1112
 published: true
 
 provider:
@@ -743,6 +743,20 @@ related:
       - url: "https://static.politico.com/bb/3d/083c9ea94427955bb4b4892ac4da/210212-bruce-castor-david-schoen-ap-773.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Trump escapes conviction but even his allies say he’s damaged"
+    excerpt: "Donald Trump was acquitted in his second impeachment trial on Saturday. What comes next for the 45th president is anybody’s guess. Uncertainty looms over nearly every aspect of the former president’s post-impeachment political future — from the causes he will embrace,"
+    publishedDateTime: 2021-02-14T06:19:00Z
+    webUrl: "https://www.politico.com/news/2021/02/13/trump-impeachment-witch-hunt-469001"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/3958f2f0-6f0e-4fe2-bd60-aba613f31b42/b477caa0-9be7-45cc-97d1-5ee053590be6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "3s9jeR2nrKosrMQ+K1R7N1WU/wH6vjBojwcVFsRu+GvC757Jz0CEGiDad8VfQtnFiZ93SMLzynPMJjjgf4j2jZl9+UykXqWKm2TnsJsMzTjxLnEkPiCthXWF4p87vesS92PPrzMdYsKHfPJAKxPLJMNbWpyMYuDxTHf3UCFX10i3N+M7teRgxPFaIyUBI4EANkvtXbxiZXxkNg3apJWFyFvKKKedtQ2FExING3oTqxuYY8L+8vhfsbKi9Ut4RnqAWsVi0ePxNuT/fhYmB8C1VmZLGyt6cdNLHJu5fKiKtfS7IYD/jDAfK/vrB0rrS7wiFCieqJrZCAVf82Il0ESgoTVs+r6r0rslNu6VBZNPiS0=;w8JDmX6IrPtG7MzSccwMWA=="

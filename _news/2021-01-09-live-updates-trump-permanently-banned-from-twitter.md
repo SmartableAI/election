@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-permanently-bann
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-permanently-banned-twitter-1-9-2021.amp"
 type: article
 quality: 175
-heat: 815
+heat: 835
 published: true
 
 provider:
@@ -172,6 +172,22 @@ related:
     quality: 175
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7ae4662b-33c4-45f0-a774-57e25caeaf94/c58932c9-358b-4117-a8dd-b0178e48b8c8/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "LIVE UPDATES: Trump acquitted in second impeachment trial"
+    excerpt: "Follow for the latest updates on Trump's impeachment"
+    publishedDateTime: 2021-02-14T06:13:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/W6bsJl_zU0Y/live-updates-trump-acquitted-impeachment-2-14-21"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-acquitted-impeachment-2-14-21.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-acquitted-impeachment-2-14-21.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/071f1d37-4a3e-4737-9116-daa4093f0f0b/045aa0b1-e137-4f38-b83e-3887abc19c69/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

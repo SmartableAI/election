@@ -175,6 +175,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "LIVE UPDATES: Trump acquitted in second impeachment trial"
+    excerpt: "Follow for the latest updates on Trump's impeachment"
+    publishedDateTime: 2021-02-14T06:13:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/W6bsJl_zU0Y/live-updates-trump-acquitted-impeachment-2-14-21"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-acquitted-impeachment-2-14-21.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-acquitted-impeachment-2-14-21.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/071f1d37-4a3e-4737-9116-daa4093f0f0b/045aa0b1-e137-4f38-b83e-3887abc19c69/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Live Updates: House Republican who voted to impeach Trump facing criticism"
     excerpt: "With 10 Republican votes, Trump's second impeachment was the most bipartisan one in history."
     publishedDateTime: 2021-01-18T05:07:11Z

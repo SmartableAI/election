@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Donald Trump Escapes Conviction a Second Time, Leaving Door Open for 2024 Run"
-excerpt: "Donald Trump's second acquittal in the Senate raises questions about whether the former president will seek federal office again."
-publishedDateTime: 2021-02-13T20:53:00Z
-originalUrl: "https://www.newsweek.com/donald-trump-escapes-conviction-second-time-leaving-door-open-2024-run-1569042"
-webUrl: "https://www.newsweek.com/donald-trump-escapes-conviction-second-time-leaving-door-open-2024-run-1569042"
-ampWebUrl: "https://www.newsweek.com/donald-trump-escapes-conviction-second-time-leaving-door-open-2024-run-1569042?amp=1"
-cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-escapes-conviction-second-time-leaving-door-open-2024-run-1569042?amp=1"
+title: "Dem retreat on witnesses brings messy end to Trump trial"
+excerpt: "The Democrats who prosecuted Donald Trump’s impeachment trial are facing criticism from some senators over an attempt to call witnesses"
+publishedDateTime: 2021-02-14T06:36:00Z
+originalUrl: "https://www.washingtonpost.com/politics/dem-retreat-on-witnesses-brings-messy-end-to-trump-trial/2021/02/13/11063642-6e65-11eb-a66e-e27046e9e898_story.html"
+webUrl: "https://www.washingtonpost.com/politics/dem-retreat-on-witnesses-brings-messy-end-to-trump-trial/2021/02/13/11063642-6e65-11eb-a66e-e27046e9e898_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/dem-retreat-on-witnesses-brings-messy-end-to-trump-trial/2021/02/13/11063642-6e65-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/dem-retreat-on-witnesses-brings-messy-end-to-trump-trial/2021/02/13/11063642-6e65-11eb-a66e-e27046e9e898_story.html?outputType=amp"
 type: article
-quality: 122
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Newsweek
-  domain: newsweek.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://d.newsweek.com/en/full/1734511/trump-acquittal-2024-run.jpg"
-    width: 2500
-    height: 1667
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -79,22 +79,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Dem retreat on witnesses brings messy end to Trump trial"
-    excerpt: "The Democrats who prosecuted Donald Trump’s impeachment trial are facing criticism from some senators over an attempt to call witnesses"
-    publishedDateTime: 2021-02-14T06:36:00Z
-    webUrl: "https://www.washingtonpost.com/politics/dem-retreat-on-witnesses-brings-messy-end-to-trump-trial/2021/02/13/11063642-6e65-11eb-a66e-e27046e9e898_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/dem-retreat-on-witnesses-brings-messy-end-to-trump-trial/2021/02/13/11063642-6e65-11eb-a66e-e27046e9e898_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/dem-retreat-on-witnesses-brings-messy-end-to-trump-trial/2021/02/13/11063642-6e65-11eb-a66e-e27046e9e898_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "For Raskin and the House managers arguing to convict Trump, less was more"
     excerpt: "House impeachment manager Rep. Joe Neguse (D-Colo.) participates in the impeachment managers’ closing argument in the trial of former The House managers trying the case against Donald Trump on charges of inciting the Jan."
     publishedDateTime: 2021-02-13T11:11:00Z
@@ -110,6 +94,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5QXAI6DNSAI6XHVNM4YWRVNYOQ.jpg&w=1440"
         width: 983
         height: 589
+        isCached: true
+  - title: "Donald Trump Escapes Conviction a Second Time, Leaving Door Open for 2024 Run"
+    excerpt: "Donald Trump's second acquittal in the Senate raises questions about whether the former president will seek federal office again."
+    publishedDateTime: 2021-02-13T20:53:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-escapes-conviction-second-time-leaving-door-open-2024-run-1569042"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-escapes-conviction-second-time-leaving-door-open-2024-run-1569042?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-escapes-conviction-second-time-leaving-door-open-2024-run-1569042?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 122
+    images:
+      - url: "https://d.newsweek.com/en/full/1734511/trump-acquittal-2024-run.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Impeachment managers say insurrectionists came to Capitol because Trump 'told them to' – live"
     excerpt: "Congresswoman Diana DeGette says insurrectionists even questioned why police tried to block them as they followed Trump’s instructions"
@@ -176,6 +176,6 @@ related:
         height: 630
         isCached: true
 
-secured: "IOJKWtP3TwcQoIRngyFs3GgU02iLIKeydHzPyl1tnBWyEK9Ml99+NNijaaK8Qxixl+T2VTuTlz7Ewf41panKSNlYveSHnUlerkx8k3ixpY7JAfF0USeAx1xaw8Bs9VONB20oiBKXZ8Slq+Ha8KnABOMzF4u3l4qUCovoiPrbgHygnNRUsMg4Pa2lKqUehy29zwYHa7EhdfIIbziQCjGzVwgliBQb2udRtbPuTJ45M+SjiJ6dk1RGIfHDogdFG7QebQhP+dl9VXQGk3Hj17G+n6XK3ya6+RlUGRiVVoVgPKryRXcyfxXDqvevOnb2abNbSYDqnT86NQ8uoHkQCKB6jfhZZzMqNMP/7gVrvoETa64=;YYNOE1ClIAqVraRieJ5U3A=="
+secured: "aQqnTbEqu+5rEDCOi+xv53nQE78Y54fyjq+l3kS5j78A4jPJu6xQQ/pqbC8zfP71a3liVrk58+7UVnse0aQYN+Dy0Jtgr5JJQHchnrrrTwui8EVgE99MhO6F0+VyPvvht78ho7lzNC56ood9A+b1ub3vmIwjYUFPrGqKG2gfPCrH1YDdXPO1/XxZD01wUTgNVfuAfWYczlpw/8d2t5cA6dzlW792aR5XrWr+m4vaIZzyro4CK0BV5DGRx42x0UWLQJSgcZTnZsCpw4u6Rxws2klZeKz7rVr0C1QMtf0Ai1f/SzxzDohbHBfmBh0VJRN8JarhaPH8Oe19XT415hnzPE85Urv0fWVxLMWSa9daL7Y=;xKEAhEHYC/R5J48sjhGL9g=="
 ---
 

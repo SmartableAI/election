@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Twitter locks Trump account, warns further violations will result in 'permanent suspension' from the platform"
-excerpt: "Twitter locked President Trump’s account on Wednesday night claiming he violated Twitter rules, and warned the president that further violations of their Civic Integrity or Violent Threat policies would result in a “permanent suspension” of his account."
-publishedDateTime: 2021-01-07T00:30:20Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RimxOYD-Uoo/twitter-locks-trump-account-threatens-permanent-suspension"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RimxOYD-Uoo/twitter-locks-trump-account-threatens-permanent-suspension"
-ampWebUrl: "https://www.foxnews.com/politics/twitter-locks-trump-account-threatens-permanent-suspension.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-locks-trump-account-threatens-permanent-suspension.amp"
+title: "LIVE UPDATES: Trump acquitted in second impeachment trial"
+excerpt: "Follow for the latest updates on Trump's impeachment"
+publishedDateTime: 2021-02-14T06:13:13Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/W6bsJl_zU0Y/live-updates-trump-acquitted-impeachment-2-14-21"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/W6bsJl_zU0Y/live-updates-trump-acquitted-impeachment-2-14-21"
+ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-acquitted-impeachment-2-14-21.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-acquitted-impeachment-2-14-21.amp"
 type: article
-quality: 156
+quality: 175
 heat: -1
 published: false
 
@@ -25,9 +25,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/071f1d37-4a3e-4737-9116-daa4093f0f0b/045aa0b1-e137-4f38-b83e-3887abc19c69/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -191,22 +191,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "LIVE UPDATES: Trump acquitted in second impeachment trial"
-    excerpt: "Follow for the latest updates on Trump's impeachment"
-    publishedDateTime: 2021-02-14T06:13:13Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/W6bsJl_zU0Y/live-updates-trump-acquitted-impeachment-2-14-21"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-acquitted-impeachment-2-14-21.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-acquitted-impeachment-2-14-21.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/071f1d37-4a3e-4737-9116-daa4093f0f0b/045aa0b1-e137-4f38-b83e-3887abc19c69/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Live Updates: House Republican who voted to impeach Trump facing criticism"
     excerpt: "With 10 Republican votes, Trump's second impeachment was the most bipartisan one in history."
     publishedDateTime: 2021-01-18T05:07:11Z
@@ -350,6 +334,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9afddc93-7228-4852-850b-9711102bbb72/4053956a-dce6-43cc-b729-c596965e4d2f/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Twitter locks Trump account, warns further violations will result in 'permanent suspension' from the platform"
+    excerpt: "Twitter locked President Trump’s account on Wednesday night claiming he violated Twitter rules, and warned the president that further violations of their Civic Integrity or Violent Threat policies would result in a “permanent suspension” of his account."
+    publishedDateTime: 2021-01-07T00:30:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RimxOYD-Uoo/twitter-locks-trump-account-threatens-permanent-suspension"
+    ampWebUrl: "https://www.foxnews.com/politics/twitter-locks-trump-account-threatens-permanent-suspension.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-locks-trump-account-threatens-permanent-suspension.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Trump a Twitter rival? After ban, president says he's in talks with other platforms -- or may launch his own"
     excerpt: "President Trump on Friday said he is considering other social media platforms and may even create his own after he was banned from Twitter in the wake of Wednesday's U.S. Capitol riot."
@@ -558,6 +558,6 @@ related:
         height: 720
         isCached: true
 
-secured: "9VQa2Q6Vy9pk8sdFOp/ylWMXLSIX9tHw5DlHf7YECZ8yY54vq4IuEcy/o6xDg5ZiVabRqQZWUeK47uC2ZFUx4Flcu6W0ynorX0+LcW671oCJq0gAyalKHvqWXfHLVzQT8YSNdDrS0AfYYJeUwoODl4eVfTzGmzNPxkQC9KPsW4IFpUFyk5F4R3zToHt9WNi6afckdm0ZUAxmo/ti/XQV+Kr06ibTIbBhUDwLp4hZaBM7nKyvv3EVf5lbpmhFalzKmKaE80PPQuHw5Mjl8izUioYeMEw8yHnhXMrkl1kf/psDtgQ0Brp0jJg3jBNIzMiZPCkUZCRC/Ov6LQCEXnjUf8XrCLfyRzG20yTWC6k9UQE=;99x7EFP9TCGZfNMrGYyRuA=="
+secured: "hDbPPRO1Adwy43Sa/2IS+8f7wo+b6UoUVKzh/EOpLiiJ+zYRk25ZYvjsOCc/rRudrHRlrjSsW1GRAv8/TPlI32R8/r9qBaiZsxb/MULFMH+s6bWcl8Q7VjxH4oS1kmfSai+MPmgDXJRzSoXWDscaAAwk/UnaZhPvg4yfYeFObLZbTN4LDfCKUXJn/mT9jqzLrEvoY7yp6orM+RTOUpFDpbMaTOqdXiFxc9EisDTEuYnCJauAm45X4/7/h34mh9h3OilZXLX00FVXyksBDP8UXSFLXSESi3o9+1SWl+kIkTnS4QQu3gYO56O8lyOe1RRmjJ1YKQBnVFO/V7mzEm7h1bJg4yWxp7+7SC9rjYBw4co=;Cm/3Qb3Kp7kC6dEJg+IZlA=="
 ---
 

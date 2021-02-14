@@ -744,6 +744,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump escapes conviction but even his allies say he’s damaged"
+    excerpt: "Donald Trump was acquitted in his second impeachment trial on Saturday. What comes next for the 45th president is anybody’s guess. Uncertainty looms over nearly every aspect of the former president’s post-impeachment political future — from the causes he will embrace,"
+    publishedDateTime: 2021-02-14T06:19:00Z
+    webUrl: "https://www.politico.com/news/2021/02/13/trump-impeachment-witch-hunt-469001"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/3958f2f0-6f0e-4fe2-bd60-aba613f31b42/b477caa0-9be7-45cc-97d1-5ee053590be6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "gQuPvdaysE6/Lac50lMeDjfxtRdgGuL56S/sAc3hfxRCXUznRzEPc9U7qaUL/GhEQnzFWFk3+Y5IQtkSrnFLvuObxR9dRZaTrTHDNjZKarZrPPMl1ifwXs8NF/a1BxGxLsRZkae3AxPa5rXTYMxG/NZXqFuo7pITS96Dzn2KRLTqLs4dwQoLwS3/jYOMrwasi6RO7uIxdfatd/mFLah60t5sNlm8k4UFLci8ypFVRvWcs4obfq3iyK9PbZ+rtdMrjoT+eJE8ReNiKZjEi5c4Q7aFP+FOBljjxDLqGF0QUo1SBCnqA+8XoBPxZW3htGpRHjFBlEtOFaaAYrgr8x245j4aT/D33c0uAJEyUcNHoW2h9mbHfAGMGuaXn1rTYYDzw6yCVUz6SQQ0ve6UVA8MfsQiKGl7FfYbiP3doxmWdLb0k7R5fQ2/Yi1NEsvRK9pQtioRN3AotSHc/8K4FLT5pk49IkwZJ/5Kq+YD5hHJQ4QMdQR9m3d06tssGKOLSkju8sEehCUfdnF78ejLCaWirA==;qfcaVXOgbKc8rwdxe5mung=="
 ---
