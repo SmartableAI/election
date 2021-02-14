@@ -652,6 +652,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Party leaders rip Republicans who voted to convict Trump"
+    excerpt: "The seven Republican senators who voted to convict former President Donald Trump of inciting the deadly Jan. 6 insurrection are already feeling the heat back home. Several state Republican parties moved quickly to discipline or criticize home-state senators for breaking with the 43 other Senate Republicans who voted to acquit Trump in his second impeachment trial."
+    publishedDateTime: 2021-02-14T10:13:00Z
+    webUrl: "https://www.politico.com/news/2021/02/13/republican-senators-convicted-trump-backlash-469008"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/02/13/republican-senators-convicted-trump-backlash-469008"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/02/13/republican-senators-convicted-trump-backlash-469008"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/36/60/b473bbcb4ce0b7856c7e1854475d/ap21044029714696.jpg"
+        width: 3500
+        height: 2333
+        isCached: true
   - title: "Impeachment Case Aims to Marshal Outrage of Capitol Attack Against Trump"
     excerpt: "Armed with lessons from the last impeachment trial of Donald J. Trump, prosecutors plan a shorter, video-heavy presentation to confront Republicans with the fury they felt around the Capitol riot."
     publishedDateTime: 2021-02-07T20:46:00Z

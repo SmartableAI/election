@@ -47,6 +47,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Joe Biden Calls Donald Trump's Final Days As President 'A Sad Chapter' After Acquittal"
+    excerpt: "In his first public response to Trump's acquittal, President Biden said his predecessor's actions and the Capitol riot had been a reminder that \"democracy is fragile.\""
+    publishedDateTime: 2021-02-14T10:31:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-calls-donald-trump-president-sad-chapter-acquittal-1569179"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-calls-donald-trump-president-sad-chapter-acquittal-1569179?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-calls-donald-trump-president-sad-chapter-acquittal-1569179?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 132
+    images:
+      - url: "https://d.newsweek.com/en/full/1734708/joe-biden-leaving-white-house.jpg"
+        width: 2500
+        height: 1663
+        isCached: true
   - title: "Trump acquittal: Biden urges vigilance to defend 'fragile' democracy after impeachment trial"
     excerpt: "President says the substance of the charge against Donald Trump over the January attack on US Capitol is not in dispute"
     publishedDateTime: 2021-02-14T04:33:00Z
@@ -110,6 +126,22 @@ related:
       - url: "https://thehill.com/sites/default/files/mcconnellmitch_020821gn2_lead.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "After impeachment acquittal, Trump remains dominant in GOP"
+    excerpt: "After he incited a deadly riot at the U.S. Capitol last month, the GOP considered purging the norm-shattering former president. But in the end, only seven of 50 Senate Republicans voted to convict Trump in his historic second impeachment trial on Saturday."
+    publishedDateTime: 2021-02-14T10:34:00Z
+    webUrl: "https://www.washingtonpost.com/politics/after-impeachment-acquittal-trump-remains-dominant-in-gop/2021/02/14/48b0dd4c-6e86-11eb-a66e-e27046e9e898_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/after-impeachment-acquittal-trump-remains-dominant-in-gop/2021/02/14/48b0dd4c-6e86-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/after-impeachment-acquittal-trump-remains-dominant-in-gop/2021/02/14/48b0dd4c-6e86-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Former President Donald Trump acquitted in 2nd impeachment trial"
     excerpt: "President Donald Trump 's second impeachment trial came to a climactic end on Saturday afternoon, with Trump being acquitted for his alleged role of inciting the deadly event. A majority of senators voted to convict the former president,"
@@ -367,6 +399,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Biden ally advised against calling witnesses in Trump's impeachment trial because many senators wanted to get home for Valentine's Day, says report"
+    excerpt: "Sen. Chris Coons told colleagues that GOP senators wanted to go home so witnesses should not be called, reported The Washington Post."
+    publishedDateTime: 2021-02-14T10:52:00Z
+    webUrl: "https://www.businessinsider.com/impeachment-senators-wanted-to-get-home-for-valentines-day-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/impeachment-senators-wanted-to-get-home-for-valentines-day-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/impeachment-senators-wanted-to-get-home-for-valentines-day-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 112
+    images:
+      - url: "https://i.insider.com/6028f4842edd0f001a8d5b9d?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Senate votes that Trump impeachment trial is constitutional, 6 GOP side with Dems voting to proceed"
     excerpt: "WASHINGTON — House prosecutors on Tuesday wrenched senators and the nation back to the deadly attack on Congress as they opened Donald Trump’s historic second impeachment trial with graphic video of the insurrection and Trump’s own calls for a rally crowd to march to the iconic building and “fight like hell” against his reelection defeat."
     publishedDateTime: 2021-02-10T04:43:00Z
@@ -382,6 +430,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/Ty5rGEcxhtsmZVuhq0Yc1jA4OkA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/34RAWO46JBS4WHHGWAGAHOKUBU.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Senate acquits former President Donald Trump of inciting riot at US Capitol, ending impeachment trial"
+    excerpt: "Senate acquits former President Donald Trump of inciting riot at US Capitol, ending impeachment trial. Copyright 2021 The Associated Press. All rights reserved. This material may not be published, broadcast,"
+    publishedDateTime: 2021-02-14T01:54:00Z
+    webUrl: "https://www.washingtonpost.com/politics/senate-acquits-former-president-donald-trump-of-inciting-riot-at-us-capitol-ending-impeachment-trial/2021/02/13/9e6664bc-6e3d-11eb-a66e-e27046e9e898_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/senate-acquits-former-president-donald-trump-of-inciting-riot-at-us-capitol-ending-impeachment-trial/2021/02/13/9e6664bc-6e3d-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/senate-acquits-former-president-donald-trump-of-inciting-riot-at-us-capitol-ending-impeachment-trial/2021/02/13/9e6664bc-6e3d-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 110
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Live updates: Senate must convict Trump to ensure no future president incites insurrection, Democrats say"
     excerpt: "Day 3 of former President Donald Trump's second impeachment trial has begun. The Democratic impeachment managers will use up to eight hours to wrap up their case against the ex-pr"
@@ -519,6 +583,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "JcovZhCRuxawo0GVyxzW1D3EjLPQzA+qw2yq/N6zkQn6k7ZozcUsEYFGjaVF/0tWJ/KMx1Xu21SPLiBa7Lznvc/J+dz7ubOSUBIPH9NPtiK3Lfl2xvUiExbWTrUQ6mhX4qobfHYM8Ymw4Ss3CpA+ODfxTPuyheVs4uCElS5Fh5hdtPdmPruGK0fWonom+lNpXTM7P0s8IwditR7XREhOhKYd/l32HYXpgx4Fdhu01hYHC7e/F/bLPiVtHs0vdRXm51yBAB9/5vdxQRgOtR3AZJ63NnzjrlLT18V5qba4zHIpEyOxlnqAKISm854OFjtI1b2ZPiLZSASWuRIjB9qnOHvB1ZyQSww64J07zAoNzhU=;JTKZkroxLO9yiK/+vW4hCw=="
+secured: "OVVTLnOH2c3m/+ryr7DXzv+06wvPDtQ6AF6fCKigLrMOfLwKuHInrK8QEXWJ8Kutz2veFqvliHKvulmD23yeo2x0IZz/9Mk5mSk/jd30UKTCkrlg59jSG7r4W4olr4UCRIQT4yIDU0pmTSc/q+YM7Rootl+5zbr4kAcOPmsN+fy2l/TqOYdcEfXxWRlxgup1f4PvNa7CmI1iT0KzX/U6lcFiMn2Fw6e+EIqFEbj/393nvl4YQeR2vRBa3wuknf7EAOvr6mRn6z8bemUif11rEHVqmp8RaBrRQLi6zZEeTSpFtid7SV8wwseVCGdkWNY6xseoCFzvILpk/5QPnZnPJCV2oM9qERidY1xPyR5z46YBZ7d9utxPc2ILKDidncmLvq8AbrVOYtIBpMNEv+EF57YiayWyMWTEBHMWtwDoumZC12u0Pg+XDUiO2YEsFzvM9TTQE28EAmSSUi/cl6lPBplFsSJWOHC4h71dLsOHOsviL9PSFLgzQf4r8PQHpE88P8xvVtM3lihCrTdx5kc8MA==;qML0UITwfMu/D0Md37bjhQ=="
 ---
 

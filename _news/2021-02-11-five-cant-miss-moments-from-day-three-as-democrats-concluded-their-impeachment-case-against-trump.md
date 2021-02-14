@@ -1261,6 +1261,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Dems 'caved' on witnesses in Trump impeachment trial, drawing condemnation from left and right"
+    excerpt: "Democrat impeachment managers on Saturday drew harsh criticism from both the left and the right after their stark reversal on whether to call witnesses in the Senate trial of former President Donald Trump."
+    publishedDateTime: 2021-02-13T23:48:00Z
+    webUrl: "https://www.foxnews.com/politics/dems-caved-on-witnesses-in-trump-impeachment-trial-drawing-condemnation-from-left-and-right"
+    ampWebUrl: "https://www.foxnews.com/politics/dems-caved-on-witnesses-in-trump-impeachment-trial-drawing-condemnation-from-left-and-right.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dems-caved-on-witnesses-in-trump-impeachment-trial-drawing-condemnation-from-left-and-right.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 123
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Jamie-Raskin-Trump-Impeachment-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Trump impeachment defense team puts Democrats on trial for past hot rhetoric: 'Stop the hypocrisy'"
     excerpt: "Former President Trump's legal team tried to put Democrats on trial Friday by repeatedly playing clips of their past hot rhetoric and accusing liberals of setting a new \"dangerous double standard\" when it comes to Trump."
     publishedDateTime: 2021-02-12T19:56:00Z

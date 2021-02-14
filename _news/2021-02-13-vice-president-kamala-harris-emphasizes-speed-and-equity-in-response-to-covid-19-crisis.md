@@ -3,8 +3,8 @@ category: news
 title: "Vice President Kamala Harris Emphasizes Speed and Equity in Response to COVID-19 Crisis"
 excerpt: "In Harris’ first national sit-down interview since becoming vice president, she discusses her focus on an equitable response to the COVID-19 crisis with 19th editor-at-large Errin Haines."
 publishedDateTime: 2021-02-12T17:04:00Z
-originalUrl: "https://www.govexec.com/management/2021/02/vice-president-kamala-harris-emphasizes-speed-and-equity-response-covid-19-crisis/172032/?%3Foref=GovExecTCO"
-webUrl: "https://www.govexec.com/management/2021/02/vice-president-kamala-harris-emphasizes-speed-and-equity-response-covid-19-crisis/172032/?%3Foref=GovExecTCO"
+originalUrl: "https://www.govexec.com/management/2021/02/vice-president-kamala-harris-emphasizes-speed-and-equity-response-covid-19-crisis/172032/"
+webUrl: "https://www.govexec.com/management/2021/02/vice-president-kamala-harris-emphasizes-speed-and-equity-response-covid-19-crisis/172032/"
 type: article
 quality: 47
 heat: -1
@@ -200,6 +200,6 @@ related:
         height: 480
         isCached: true
 
-secured: "i8noE+BbwBtod148qjFMy0XBnaJwTeG3asdXTplIxfkICEWTqltBlUxEw5SocnGIReYCzenDDKWY2TTvhIvRs4Qw7C1d/JHkLRUc+W08R3VBn2L7C1TGb+2B6Oy1OGEdez/UXnSsLhyW3SggJ3zAA5AfkClkfQaFjPPVRtlb8AWSh4GXTiDqdmUqX0lCCnEWEy/mdEtfP02fZxxIxPsy2ZlnpLSEZxMlCyaZhAZ8dTiyIyvxAhmRZeR3orkbiZ0Yrx49tu4MbM+AZdb0vXn12RtekU+vOQRjMQWiBCHwxLoU/C/1l1MIQCPBumhAs7ha8kHoWYmidmW+Nytdqo9CxP2kmZE2sp25zuWhr9M4GtlB5eO78IndH2tCAOdmvTPLtACHCT9+AHR5cmTIwkW0NV/u7Oh4TZlrFW0uxvlt5xZsOrO/7BNcpMw7BbBcBO6Ew3RDRmu0Ff1CGKrzTF0IqlBi+oupU2MwK+c+oTdu3N+4PVLjxTT59Ep4r/FFZ9FySCtAMUEfqtkN8htCAqLDSg==;HiziJCSTRkc7dwrm/xbbpQ=="
+secured: "t/eM+zofRk0/66n2J/U6kS3/iqE5UYf5JZfxBoJJ7/L1IJxCW88yDChG3lCETz9Oj47OFXMsTnFeOGRky2c/n28SxT3bN3yPTRrtgh14mpJYanfvgmWnbVobKfJdwq2fX3QOsjUqSahqZt5vcMUPOYcAIGWZjQPDgxA+/4fs5Y9W0kDXlv+RHH/W9xa+/tDCDQJpHr7VRvTD9WrKNWoo1YW3EcYsN32prJiglnNZJEUipZexHJ96C54xEv9qIe3OSxA2ofIsdpa6Iv2uwV8iFjowv0kar8EAVHunPGDcMvpl0/xrYS83gQTkxVg7lOS/YIwLxVPwzMy0btpYISBDm6k3eGDq1LsOf55naQtnCBg=;RSld4QcIs8Xonb4l4rIU1g=="
 ---
 
