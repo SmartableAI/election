@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/haley-illegal-immigration-biden-pol
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/haley-illegal-immigration-biden-policies.amp"
 type: article
 quality: 171
-heat: 211
+heat: 231
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Gov. DeSantis blasts 'hypocrisy' of Biden's reported domestic travel bans amid immigration orders"
+    excerpt: "Florida Gov. Ron DeSantis called President Biden's reported consideration for domestic travel bans during the coronavirus pandemic amid his immigration executive orders “a huge contradiction.”"
+    publishedDateTime: 2021-02-14T20:31:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pDdJ7r92uaM/desantis-bidens-reported-consideration-for-domestic-travel-bans-amid-immigration-orders-hypocritical"
+    ampWebUrl: "https://www.foxnews.com/politics/desantis-bidens-reported-consideration-for-domestic-travel-bans-amid-immigration-orders-hypocritical.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/desantis-bidens-reported-consideration-for-domestic-travel-bans-amid-immigration-orders-hypocritical.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Nikki Haley calls Biden's executive order about transgender athletics an 'attack on women's rights'"
     excerpt: "Nikki Haley has joined voices in opposition of President Biden’s executive order calling on schools to allow transgender athletes to participate in the sport of their gender identity, arguing in a column published Monday that it’s an “attack on women’s rights.” "
     publishedDateTime: 2021-02-08T19:27:11Z

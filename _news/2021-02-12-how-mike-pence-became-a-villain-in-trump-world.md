@@ -1,22 +1,18 @@
 ---
 category: news
 title: "How Mike Pence became a villain in Trump world"
-excerpt: "How Mike Pence became a villain in Trump world Up Next, See how close the mob got to Mike Pence. Video, 00:03:15See how close the mob got to Mike Pence 'We humbly ask you to convict President Trump' Video,"
-publishedDateTime: 2021-02-11T23:44:00Z
-originalUrl: "https://www.bbc.com/news/av/world-us-canada-56035299"
-webUrl: "https://www.bbc.com/news/av/world-us-canada-56035299"
+excerpt: "A pro-Trump mob called the loyal former vice-president a traitor who should be hanged. What changed?"
+publishedDateTime: 2021-02-11T23:43:00Z
+originalUrl: "https://www.bbc.co.uk/news/av/world-us-canada-56035299"
+webUrl: "https://www.bbc.co.uk/news/av/world-us-canada-56035299"
 type: article
-quality: 120
+quality: 70
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - Election
@@ -4468,6 +4464,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "ozV2kPwT8mzi5775ggTEt5hSCfkkMmeqSOibIMGbog3nhxcoxExmgTlBhwrPK47IcRhTLS9Qyh0IWBHQ4alOOjlIfUVE4dnUfc6B6a9aHyKJg+cnMM7F5mgk0rxAlOssvRESodg62/1pEcE2PskrmabVuZYL9bBHJiJm4NobmYrDVo16mKdPfgktTgGgSZRWJLTvpw49ZODiePJOVrboNGKhU/D/6bY9BdyyrVB7MSXhv+K1OwWOPyoMU66Y21wGHcwofKguQxhJJhLANA/9RF27C50oiFwkVacJFVV5GNTr0BXPDGKB6sad225Yr17z0NtI+tXeQxHIeNtsCcBFzz6Ox5PxnBQLBHCf7r10XT4H2g+6ES/vjbKK485lxrycXUG+79vM3+gKZQ5eEV4T3vUSAaii419vhH0tHWNDN3rTZyQpUE13NGz3jfs7+HT44RTd88FFv6njn93Mkz86+C5wMl1q9RomTCrVbK8SM2yIbmXWOiEqOyaPLSSMXcshNQ6k4B0Jx0XMJEVY1Yd1Lg==;5VV8UWxRknzqVuV3hEi0tQ=="
+secured: "tkwBuD4b/Vq737NWowbvHlshSgNGbWMixO3vIcOVHqsBAZkXHbwiKr3D4go5WCKd9xrhILHdvmw/Mj0rQXTLzqMlimXbiB0S5Qr0c9QSR2sIZocc+2Z8M5rzo+4xX5EaXoFZGE609xzBubUMS7pRmFSdw5EU8yRxXbUJd9aiY/43HsTFpF1zwzR0VcZMpNz69xu5Sx5T5zMUV7hKQnxuM2kAyVz/HFSXnEXDhXjY9rkriE6Y2JA0UUVqtzJp0sZqN4q5qILBWzJmgj0pcI0C19SD0S1JYrtmNJSkC2wVoHaWQHZ3I7RUuchlmZFPSvX45rc6/k1pVL1H7u8kw+Gff3/9G8wk8gccjTUTmsRvTGA=;QgR8KmaUKbNiJk8j4GwIbQ=="
 ---
 

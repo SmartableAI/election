@@ -1024,6 +1024,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump, emboldened by Senate impeachment acquittal, seeking ways to reassert his political power"
+    excerpt: "Trump is expected to reemerge from a self-imposed hibernation at his club in Palm Beach, Florida, and is eyeing ways to reassert his power."
+    publishedDateTime: 2021-02-14T20:06:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-political-comeback-20210214-cz6flq4hyvfizcfnco6qzn54ba-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-political-comeback-20210214-cz6flq4hyvfizcfnco6qzn54ba-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-political-comeback-20210214-cz6flq4hyvfizcfnco6qzn54ba-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 113
+    images:
+      - url: "https://www.chicagotribune.com/resizer/oPFj4U2ZXfKUnMfLZNsJ4eb-OME=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/FKWWZVUZM5E4JOZSOEWGYHDNNM.aspx"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump impeachment trial live updates: Trump lawyer threatened to quit night before defense began"
     excerpt: "Trump himself had to call David Schoen to convince him to stay on the team. Trump impeachment trial: Day 4 key moments Former President Donald Trump's historic second impeachment trial is taking place in the Senate."
     publishedDateTime: 2021-02-13T08:26:00Z
@@ -1039,6 +1055,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/david-schoen_hpMain_20210212-222156_16x9_1600.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "'I made the call': Jamie Raskin stands by decision to forgo witnesses in Trump impeachment trial"
+    excerpt: "\"We could have had 5,000 witnesses, and Mitch McConnell would be making the same speech,\" Raskin said of the GOP opposition to a Trump conviction."
+    publishedDateTime: 2021-02-14T19:54:00Z
+    webUrl: "https://www.businessinsider.com/jamie-raskin-witness-testimony-trump-impeachment-trial-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/jamie-raskin-witness-testimony-trump-impeachment-trial-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/jamie-raskin-witness-testimony-trump-impeachment-trial-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 112
+    images:
+      - url: "https://i.insider.com/6022eaf567d1e300113c519e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Senate votes that Trump impeachment trial is constitutional, 6 GOP side with Dems voting to proceed"
     excerpt: "WASHINGTON — House prosecutors on Tuesday wrenched senators and the nation back to the deadly attack on Congress as they opened Donald Trump’s historic second impeachment trial with graphic video of the insurrection and Trump’s own calls for a rally crowd to march to the iconic building and “fight like hell” against his reelection defeat."

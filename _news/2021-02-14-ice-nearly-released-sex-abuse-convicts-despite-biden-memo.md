@@ -79,6 +79,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Gowdy: Biden's unity push should start with Cuomo nursing home victims"
+    excerpt: "President Biden has been preaching about unifying the country, and former South Carolina Rep. Trey Gowdy suggested the best place to start is in the state of New York."
+    publishedDateTime: 2021-02-14T20:12:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zjyAU5kfyGQ/gowdy-biden-unity-new-york-nursing-home-victims"
+    ampWebUrl: "https://www.foxnews.com/politics/gowdy-biden-unity-new-york-nursing-home-victims.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gowdy-biden-unity-new-york-nursing-home-victims.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5de77806-653f-4ed3-9819-12d356d93682/a2b2f43e-400f-4480-964f-7922f265f08a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Cuomo heads to DC to meet with Biden as NY nursing-home scandal explodes"
     excerpt: "New York Gov. Andrew Cuomo is getting away from the state, at least for a few hours, as his nursing-home scandal appears to grow wider."
     publishedDateTime: 2021-02-12T10:00:32Z

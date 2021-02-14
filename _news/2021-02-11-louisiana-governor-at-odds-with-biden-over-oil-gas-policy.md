@@ -79,6 +79,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden's 1st 100 days live updates: Biden wants Congress to take action on gun reform"
+    excerpt: "In a statement marking the 3 year anniversary of the Parkland Shooting, Biden is calling on Congress to take action on gun control reform. \"This Administration will not"
+    publishedDateTime: 2021-02-14T20:47:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/biden-100-days-president-white-house/?id=75597849"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/biden-100-days-president-white-house/?id=75597849"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/biden-100-days-president-white-house/?id=75597849"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 118
+    images:
+      - url: "https://s.abcnews.com/images/Politics/president-biden-ap-jef-210214_1613317059152_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Maryland Senators See Joe Biden's Immigration Policy as Key To Grant Citizenship To TPS Holders"
     excerpt: "The SECURE Act would provide a pathway to permanent resident status for over 400,000 immigrants who have Temporary Protected Status after fleeing natural disasters and civil unrest in their home countries."
     publishedDateTime: 2021-02-09T02:44:00Z

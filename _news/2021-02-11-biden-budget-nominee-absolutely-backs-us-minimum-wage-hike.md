@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AA24G"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AA24G"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "China central to GOP efforts to push back on Biden"
+    excerpt: "Republicans are digging in on their efforts to paint President Biden as soft on China, laying the groundwork for a midterm elections attack line and shoring up positions for the 2024 presidential contest."
+    publishedDateTime: 2021-02-14T20:52:00Z
+    webUrl: "https://thehill.com/policy/international/538671-china-central-to-gop-efforts-to-push-back-on-biden"
+    ampWebUrl: "https://thehill.com/policy/international/538671-china-central-to-gop-efforts-to-push-back-on-biden?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/international/538671-china-central-to-gop-efforts-to-push-back-on-biden?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/jinpingxi_bidenjoe_021221getty_split_biden-china.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Sen. Joe Manchin says he'd 'absolutely' oppose Biden's stimulus checks, then swiftly walks it back after stocks tank"
     excerpt: "Sen. Joe Manchin says he’d 'absolutely' oppose Biden’s stimulus checks, then swiftly walks it back after stocks tank President-elect Joe Biden announced some economic priorities on Friday, but Sen. Joe Manchin (D-W."
     publishedDateTime: 2021-01-09T06:19:00Z

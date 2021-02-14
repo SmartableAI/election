@@ -34,7 +34,7 @@ images:
 related:
   - title: "Trump was aware Pence had been evacuated to secure location as rioters stormed Capitol"
     excerpt: "President Donald Trump was aware his vice president had been evacuated to a secure location as rioters stormed the US Capitol, according to a person who was with Trump on January 6.\n    \n"
-    publishedDateTime: 2021-02-13T20:34:35Z
+    publishedDateTime: 2021-02-13T21:32:48Z
     webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/l55o4XAav2g/index.html"
     ampWebUrl: "https://amp.cnn.com/cnn/2021/02/13/politics/trump-pence-capitol-riot/index.html"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/trump-pence-capitol-riot/index.html"

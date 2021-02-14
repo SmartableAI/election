@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/07/how-donald-trumps-ha
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/07/how-donald-trumps-hand-holding-led-to-panicky-call-home-by-theresa-may"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/7f5733b1fe59734a9c8909c09045f903174195c1/22_0_5330_3199/master/5330.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e87baa6bac0701cb8fc8341694b623a3"
         width: 600
         height: 360
+        isCached: true
+  - title: "McConnell would have happily considered finding Trump guilty, were it not for Mitch McConnell"
+    excerpt: "There’s no question, none, that President Trump is practically and morally responsible for provoking” the attack on the U.S. Capitol on Jan. 6, Senate Minority Leader Mitch McConnell (R-Ky.) said Saturday,"
+    publishedDateTime: 2021-02-14T20:23:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/02/13/mcconnell-would-have-happily-considered-finding-trump-guilty-were-it-not-mitch-mcconnell/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/02/13/mcconnell-would-have-happily-considered-finding-trump-guilty-were-it-not-mitch-mcconnell/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/02/13/mcconnell-would-have-happily-considered-finding-trump-guilty-were-it-not-mitch-mcconnell/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 114
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/02-13-2021/t_ed8daf3ec7794d9486c5ced0b3c93c00_name_McConnell.jpg&w=1440"
+        width: 1280
+        height: 720
         isCached: true
   - title: "New Evidence Shows Trump Used Riot To Pressure Congress to Steal Election"
     excerpt: "Trump encouraged a public demonstration, promised in advance it would be “wild,” instructed his supporters that extraordinary measures were needed to save the republic from his “landslide” election being stolen,"

@@ -1,15 +1,15 @@
 ---
 category: news
 title: "White House lawyers tell Meena Harris to stop using aunt Kamala to build brand: report"
-excerpt: "Vice President Kamala Harris’ social-media-influencer niece has long used her aunt’s fame to boost her own personal brand — but now that Harris has entered the White House, aides have become increasingly concerned about the ethical implications of the promotional pattern, according to a report. "
-publishedDateTime: 2021-02-14T12:12:43Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9U2FVUIPBGI/white-house-lawyers-meena-harris-kamala-harris-niece"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9U2FVUIPBGI/white-house-lawyers-meena-harris-kamala-harris-niece"
+excerpt: "Vice President Kamala Harris’ social-media-influencer niece has long used her aunt’s fame to boost her own personal brand — but now that Harris has entered the White House, aides have become increasingly concerned about the ethical implications of the promotional pattern,"
+publishedDateTime: 2021-02-14T12:27:00Z
+originalUrl: "https://www.foxnews.com/politics/white-house-lawyers-meena-harris-kamala-harris-niece"
+webUrl: "https://www.foxnews.com/politics/white-house-lawyers-meena-harris-kamala-harris-niece"
 ampWebUrl: "https://www.foxnews.com/politics/white-house-lawyers-meena-harris-kamala-harris-niece.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-lawyers-meena-harris-kamala-harris-niece.amp"
 type: article
-quality: 177
-heat: 177
+quality: 127
+heat: 127
 published: true
 
 provider:
@@ -22,8 +22,8 @@ provider:
 
 topics:
   - Election
-  - Republican Voice
   - Kamala Harris
+  - Republican Voice
 
 images:
   - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Meena-Harris-GETTY.jpg?ve=1&tl=1"
@@ -31,6 +31,6 @@ images:
     height: 320
     isCached: true
 
-secured: "8/+IK1+IUGWDoSLaa8d0T8VWJ2sGfAnu0fOX8vJnr69tKq56Lhvpc5RslOi6WZHv1CAhCgzUTkbA0+bOXSmPJPrLnyapzgsvQY1Ei7Ko4dDbLE9P0w+/Y2lN/70zWAiXABRlHfIqACkSw8EQmwN5x6qN+MYMyW6yGv829jFiKt9jz5wl7Cy4PBR36Nx4e//JYR/Ik38OULNj4aYmQJ6gIVOIzDMv7PjzzpoyE3gkIgjMkNA99amPXC0IzE5nqME0E/Rnd3/5RUYB+oHQ63aTLamC2b5iagy6xpEsflVItjbIy7wAvAgpaQwZlyLlmpBi+o6LwZ2NQsOf4ONf1ERJjQpnGIVKFcGJ6K7o6DTnjWA=;2iX/tBFyTRSolQjHyj5XlA=="
+secured: "6UA/v7lr/uFuj19eyGbB693uTfPQ9aT0JG8qanEhEuoDfgleyDUA0BVgh6x775EMGbACr8GCfAtZBg7x0dE7xvVKclZm0PyApkRbqNxwEa0jUQuKFdqfB7lWDvidnrhXON6+dS0ho/AwhU7HpAQ7z+NuXbHXrW6aWJwaLKoiciFIRqJZdC4s/ybah46C0EYkci4KNYTPRLVsNHizNcvgNAjlmi0ghVVbq0bRU3cQkvaFfcKihsNlNshX6mn+Me9EM7aS2k3Us8H9Rggg+knibbU02Eh0EC4XhJrITOJyUA9R66Xe6+ERq42gQzwOFbCZXv1jEPaf7DztF4bjjfPhcqa8yoChBOcdokNDwBcbbjU=;SBB6VA/QOJvpahu2Ols09w=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/north-carolina-man-charged-threaten
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/north-carolina-man-charged-threatening-president-biden.amp"
 type: article
 quality: 175
-heat: 475
+heat: 495
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Gowdy: Biden's unity push should start with Cuomo nursing home victims"
+    excerpt: "President Biden has been preaching about unifying the country, and former South Carolina Rep. Trey Gowdy suggested the best place to start is in the state of New York."
+    publishedDateTime: 2021-02-14T20:12:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zjyAU5kfyGQ/gowdy-biden-unity-new-york-nursing-home-victims"
+    ampWebUrl: "https://www.foxnews.com/politics/gowdy-biden-unity-new-york-nursing-home-victims.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gowdy-biden-unity-new-york-nursing-home-victims.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5de77806-653f-4ed3-9819-12d356d93682/a2b2f43e-400f-4480-964f-7922f265f08a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "ICE nearly released sex abuse convicts despite Biden memo"
     excerpt: "U.S. Immigration and Customs Enforcement was prepared to release three men convicted of sex offenses against children, Texas officials said, in an apparent misapplication by authorities of enforcement directives from President Joe Biden's administration."

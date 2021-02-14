@@ -2075,20 +2075,6 @@ related:
         width: 1440
         height: 914
         isCached: true
-  - title: "How Mike Pence became a villain in Trump world"
-    excerpt: "How Mike Pence became a villain in Trump world Up Next, See how close the mob got to Mike Pence. Video, 00:03:15See how close the mob got to Mike Pence 'We humbly ask you to convict President Trump' Video,"
-    publishedDateTime: 2021-02-11T23:44:00Z
-    webUrl: "https://www.bbc.com/news/av/world-us-canada-56035299"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 120
-    images:
-      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p096rdpy.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "Trump U-turns to condemn Capitol violence as calls for removal grow – live updates"
     excerpt: "Cabinet resignations as low-key video address accepts there will be a ‘orderly’ transition"
     publishedDateTime: 2021-01-08T09:50:00Z
@@ -3928,6 +3914,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
+  - title: "How Mike Pence became a villain in Trump world"
+    excerpt: "A pro-Trump mob called the loyal former vice-president a traitor who should be hanged. What changed?"
+    publishedDateTime: 2021-02-11T23:43:00Z
+    webUrl: "https://www.bbc.co.uk/news/av/world-us-canada-56035299"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 70
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p096rdpy.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "The NBA responded to Donald Trump-fueled Capitol rebellion with continued conformity"
     excerpt: "In the aftermath of Wednesday’s seditious riots in Washington, D.C., two moments embodied the shortcomings of the nation’s response to the moment, and the limitations of polite reproach."
     publishedDateTime: 2021-01-09T16:41:00Z

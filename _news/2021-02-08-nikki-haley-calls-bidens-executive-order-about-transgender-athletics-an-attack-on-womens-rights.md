@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Gov. DeSantis blasts 'hypocrisy' of Biden's reported domestic travel bans amid immigration orders"
+    excerpt: "Florida Gov. Ron DeSantis called President Biden's reported consideration for domestic travel bans during the coronavirus pandemic amid his immigration executive orders “a huge contradiction.”"
+    publishedDateTime: 2021-02-14T20:31:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pDdJ7r92uaM/desantis-bidens-reported-consideration-for-domestic-travel-bans-amid-immigration-orders-hypocritical"
+    ampWebUrl: "https://www.foxnews.com/politics/desantis-bidens-reported-consideration-for-domestic-travel-bans-amid-immigration-orders-hypocritical.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/desantis-bidens-reported-consideration-for-domestic-travel-bans-amid-immigration-orders-hypocritical.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Nikki Haley accuses Biden of 'snubbing' Israel, 'cozying up' to Iran: 'I really don't understand the logic'"
     excerpt: "Former U.S. Ambassador to the United Nations Nikki Haley accused the Biden administration Wednesday of \"snubbing Israel\" and \"cozying up to Iran\" in the two weeks the 46th president has been in office."
     publishedDateTime: 2021-02-04T02:40:02Z

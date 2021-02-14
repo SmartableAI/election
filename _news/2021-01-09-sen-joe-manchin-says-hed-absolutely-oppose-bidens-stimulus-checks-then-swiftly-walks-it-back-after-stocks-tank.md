@@ -43,6 +43,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "China central to GOP efforts to push back on Biden"
+    excerpt: "Republicans are digging in on their efforts to paint President Biden as soft on China, laying the groundwork for a midterm elections attack line and shoring up positions for the 2024 presidential contest."
+    publishedDateTime: 2021-02-14T20:52:00Z
+    webUrl: "https://thehill.com/policy/international/538671-china-central-to-gop-efforts-to-push-back-on-biden"
+    ampWebUrl: "https://thehill.com/policy/international/538671-china-central-to-gop-efforts-to-push-back-on-biden?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/international/538671-china-central-to-gop-efforts-to-push-back-on-biden?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/jinpingxi_bidenjoe_021221getty_split_biden-china.jpg"
+        width: 980
+        height: 551
+        isCached: true
 
 secured: "fRYFpfnXMlaNtipOOdJf2pC9LwC9q8+M7h3gtYP1RtSVYJAfsvbP1SxlJ4EiwpSvWuPxOfbj5PpOTL4jKgOmVJaIlG+1Z+tPHikxkeH/f11zNAd/g6mAt2QehGNsITsn24ObLlVuKeuptaPAJ8LZ6JSzf7UG3qNYfIgZiL5bsGkqse20kkmMG6CJvTxDzVcQg9O97vLjN9Hx9ZLxsMjFQQBDO2pOqkws2yzmHK4EsXBnsPhguRfbXRykZkYSEAmg6Q00tUiXDh22QVxvKKahpKAdimrvmhCMX6B9i3F6IKvW1j7lnHR7BsbbyDMma4/mw3pZxLoWmJ4j2eXY+PwZYFRnUiMndGMRpGPFni+pf7c=;gT92/MbTYEjmwqPt9Y/hPw=="
 ---

@@ -1194,6 +1194,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Sen. Graham: Impeach vote will boost Lara Trump in possible Senate run"
+    excerpt: "Sen. Lindsey Graham predicted on Sunday that GOP votes to convict former President Trump in his Senate impeachment trial will give his daughter-in-law Lara Trump a leg up in the North Carolina"
+    publishedDateTime: 2021-02-14T20:27:00Z
+    webUrl: "https://nypost.com/2021/02/14/graham-impeachment-will-boost-lara-trump-in-senate-run/"
+    ampWebUrl: "https://nypost.com/2021/02/14/graham-impeachment-will-boost-lara-trump-in-senate-run/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/14/graham-impeachment-will-boost-lara-trump-in-senate-run/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/lindsey-graham-1.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Schumer leaves door open to 14th Amendment measure to bar Trump from office"
     excerpt: "Senate Majority Leader Chuck Schumer Thursday did not rule out bringing legislation to bar former President Donald Trump from office if he is not convicted at the ongoing Senate impeachment trial."
     publishedDateTime: 2021-02-11T20:04:00Z
