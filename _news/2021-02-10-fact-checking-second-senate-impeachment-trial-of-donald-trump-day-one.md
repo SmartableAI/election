@@ -304,6 +304,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Plaskett on Trump's acquittal: 'We didn't need more witnesses, we needed more senators with spines'"
+    excerpt: "Del. Stacey Plaskett on Sunday defended the Democratic House managers' decision not to call witnesses in former President Donald Trump's Senate impeachment trial, saying a day after Trump's acquittal that they \"needed more senators with spines\" in order to convict him.\n    \n"
+    publishedDateTime: 2021-02-14T16:19:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/z4xheFGrgQw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/14/politics/stacey-plaskett-impeachment-trump-witnesses-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/14/politics/stacey-plaskett-impeachment-trump-witnesses-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210214093518-sotu-stacey-plaskett-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Democrats debate whether to move on from Trump or seek another form of punishment after impeachment trial"
     excerpt: "Congressional Democrats are torn over whether to try to punish Donald Trump by censure or move on completely from the former President after the Senate likely acquits him on a charge of inciting the January 6 Capitol riot, possibly as soon as this weekend.\n    \n"
     publishedDateTime: 2021-02-12T17:39:18Z
@@ -559,6 +575,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/02/13/us/13GOP-TRUMP-0120/13GOP-TRUMP-0120-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Senate acquits Trump in impeachment trial, but GOP split over future"
+    excerpt: "Lead House impeachment manager Rep. Jamie Raskin (D-Md.) and Senate Majority Whip Dick Durbin (D-Ill.) joined Chuck Todd for exclusive interviews following this week’s Senate impeachment trial of Donald Trump."
+    publishedDateTime: 2021-02-14T16:31:00Z
+    webUrl: "https://www.nbcnews.com/meet-the-press/video/senate-acquits-trump-in-impeachment-trial-but-gop-split-over-future-101015109795"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo101015109795"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo101015109795"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202102/mtp_clip_compressed_210214.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Trump impeachment live updates: Democrats deliver arguments in Senate trial"
     excerpt: "House Democrats are set to begin arguments on Wednesday in the second impeachment trial of former President Donald Trump, the only president in U.S. history to face impeachment twice. The Senate voted to proceed with the trial on Tuesday after hearing around four hours of debate around the constitutionality of impeaching a former official."

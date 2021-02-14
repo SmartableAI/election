@@ -45,6 +45,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Analysis: Biden threatened Myanmar sanctions. What are his options?"
+    excerpt: "Myanmar's military checkpoint is seen on the way to the congress compound in Naypyitaw, Myanmar 1, 2021. REUTERS/Stringer"
+    publishedDateTime: 2021-02-02T10:07:00Z
+    webUrl: "https://www.reuters.com/news/picture/analysis-biden-threatened-myanmar-sancti-idUSKBN2A20ES"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210202&t=2&i=1549938362&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEH11085"
+        width: 810
+        height: 532
+        isCached: true
 
 secured: "+CBxv5w2jyzDxCiFwmwlEpUBQlGBbpRbFdS/i4SbhA+4wUODUFv5oIyWvdjoB1kXyHch3Yz8EUZjzy9BTDPwIr8MlNO3d2cPeB7ACJx9VApQHXpk8+UzdwvNLM3AhVzqSivDL8o9pX57oSXT762WtNWqyNbzOkZZb8bzZSv9cu/BXRD/6IQ1dRvtcyG79GBBm+oMbBv8GeyoNXsl/biVQYsi5cQ1pUlafmpDHTRp+e0FV9tajPMiZ2mbukYbGRiAYaZYMbpVl8y4Z0Ke8Wpreipush+31B6mVv/ibZQCu9cNJ8QSh5/fmSFHpcWFN+ZdjIIVtVmLFodoWxyV2lU28BmCUNYZzq0VK7nn44eqBQY=;S1jO1/wVpqW5w3BR1bg1qw=="
 ---

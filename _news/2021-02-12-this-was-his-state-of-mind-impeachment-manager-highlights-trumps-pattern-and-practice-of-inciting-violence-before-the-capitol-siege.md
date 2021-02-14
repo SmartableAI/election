@@ -95,6 +95,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Stacey Plaskett: Trump Trial Needed 'More Senators With Spines, Not More Witnesses'"
+    excerpt: "Plaskett, a House manager in former President Trump's Senate trial, defends the decision not to call witnesses. \"As all Americans believed at that moment, the evidence was overwhelming,\" she says."
+    publishedDateTime: 2021-02-14T16:29:00Z
+    webUrl: "https://www.npr.org/sections/trump-impeachment-trial-live-updates/2021/02/14/967827857/stacey-plaskett-trump-trial-needed-more-senators-with-spines-not-more-witnesses"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 99
+    images:
+      - url: "https://media.npr.org/assets/img/2021/02/14/gettyimages-1302002799_wide-4930a5a178ab0d227da0928eff16e717b75d1d16.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "Marjorie Taylor Greene falsely suggests Trump supporters didn't carry out the Capitol siege days after apologizing for endorsing conspiracy theories"
     excerpt: "she tweeted. \"The attack RUINED our objection that we spent weeks preparing for, which devastated our efforts on behalf of Trump and his voters.\" Greene's tweet was part of a longer thread about the siege and former President Donald Trump's Senate ..."
     publishedDateTime: 2021-02-09T14:56:00Z

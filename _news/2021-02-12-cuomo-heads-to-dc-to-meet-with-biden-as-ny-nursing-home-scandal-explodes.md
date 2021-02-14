@@ -79,6 +79,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "ICE nearly released sex abuse convicts despite Biden memo"
+    excerpt: "U.S. Immigration and Customs Enforcement was prepared to release three men convicted of sex offenses against children, Texas officials said, in an apparent misapplication by authorities of enforcement directives from President Joe Biden's administration."
+    publishedDateTime: 2021-02-14T16:08:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-tGqnY4RjtY/ice-nearly-released-sex-abuse-convicts-biden-memo"
+    ampWebUrl: "https://www.foxnews.com/politics/ice-nearly-released-sex-abuse-convicts-biden-memo.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ice-nearly-released-sex-abuse-convicts-biden-memo.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/US-Mexico-Border-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Psaki pressed on Biden admin not deporting illegal immigrants who drive drunk"
     excerpt: "White House Press Secretary Jen Psaki was asked on Monday about pending guidance that would spare some illegal immigrants convicted of less serious offenses from deportation"
     publishedDateTime: 2021-02-09T01:01:17Z
@@ -133,22 +149,6 @@ related:
     webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/H6fBJ1SFWyk/wh-aide-resigns-after-allegedly-demeaning-reporter-despite-bidens-warning-of-firing"
     ampWebUrl: "https://www.foxnews.com/politics/wh-aide-resigns-after-allegedly-demeaning-reporter-despite-bidens-warning-of-firing.amp"
     cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/wh-aide-resigns-after-allegedly-demeaning-reporter-despite-bidens-warning-of-firing.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Tj-Ducklo-Tara-Palmeri.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "WH aide TJ Ducklo resigns after demeaning reporter despite Biden's warning of firing"
-    excerpt: "Deputy White House press secretary TJ Ducklo on Saturday said he was resigning amid allegations that he made \"derogatory and misogynistic\" remarks to Politico reporter Tara Palmeri nearly a month ago."
-    publishedDateTime: 2021-02-14T00:45:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mMZYWfptJVQ/wh-aide-tj-ducklo-resigns-after-allegedly-demeaning-reporter-despite-bidens-warning-of-firing"
-    ampWebUrl: "https://www.foxnews.com/politics/wh-aide-tj-ducklo-resigns-after-allegedly-demeaning-reporter-despite-bidens-warning-of-firing.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/wh-aide-tj-ducklo-resigns-after-allegedly-demeaning-reporter-despite-bidens-warning-of-firing.amp"
     type: article
     provider:
       name: Fox News
@@ -222,6 +222,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/add95066-24d3-4636-bf65-f0f6a9541cf2/56504e56-071b-46ab-9296-dd583496afbe/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "WH aide TJ Ducklo resigns after demeaning reporter despite Biden's warning of firing"
+    excerpt: "Deputy White House press secretary TJ Ducklo on Saturday said he was resigning amid allegations that he made \"derogatory and misogynistic\" remarks to Politico reporter Tara Palmeri nearly a month ago."
+    publishedDateTime: 2021-02-14T03:21:00Z
+    webUrl: "https://www.foxnews.com/politics/wh-aide-tj-ducklo-resigns-after-allegedly-demeaning-reporter-despite-bidens-warning-of-firing"
+    ampWebUrl: "https://www.foxnews.com/politics/wh-aide-tj-ducklo-resigns-after-allegedly-demeaning-reporter-despite-bidens-warning-of-firing.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/wh-aide-tj-ducklo-resigns-after-allegedly-demeaning-reporter-despite-bidens-warning-of-firing.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 128
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Tj-Ducklo-Tara-Palmeri.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Biden faces bipartisan backlash after firing prosecutor probing corruption among Illinois Democrats"
     excerpt: "President Biden triggered outcries from Illinois lawmakers on both sides of the aisle after he fired a prosecutor overseeing corruption probes of Democrats in the state."

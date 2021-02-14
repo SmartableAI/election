@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.usatoday.com/amp/6737502002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6737502002"
 type: article
 quality: 117
-heat: 177
-published: true
+heat: -1
+published: false
 
 provider:
   name: USA Today
@@ -31,6 +31,70 @@ images:
     isCached: true
 
 related:
+  - title: "Biden order reestablishes faith-focused White House office"
+    excerpt: "President Joe Biden has signed an executive order relaunching a White House office aimed at fostering cooperation between the federal government and faith-based and secular community organizations"
+    publishedDateTime: 2021-02-14T16:21:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-order-reestablishes-faith-focused-white-house-office/2021/02/14/17fe6700-6ee0-11eb-8651-6d3091eac63f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-order-reestablishes-faith-focused-white-house-office/2021/02/14/17fe6700-6ee0-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-order-reestablishes-faith-focused-white-house-office/2021/02/14/17fe6700-6ee0-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Suu Kyi aide, electoral officials arrested in Myanmar, Biden approves sanctions"
+    excerpt: "A close aide to ousted Myanmar leader Aung San Suu Kyi was detained in a new wave of arrests following last week's military coup, a party official said on Thursday, as Washington moved a step closer to imposing sanctions on the junta."
+    publishedDateTime: 2021-02-11T13:34:00Z
+    webUrl: "https://www.reuters.com/article/uk-myanmar-politics-idAFKBN2AB068"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN2AB068"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN2AB068"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210211&t=2&i=1551189130&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1A144"
+        width: 819
+        height: 545
+        isCached: true
+  - title: "Biden launches review of Guantanamo prison, aims to close it before leaving office"
+    excerpt: "President Joe Biden's aides have launched a formal review of the U.S. military prison at Guantanamo Bay in Cuba, reviving the Obama-era goal of closing the controversial facility with the aim of doing so before he leaves office,"
+    publishedDateTime: 2021-02-13T05:18:00Z
+    webUrl: "https://www.reuters.com/article/BigStory12/idUSKBN2AC1Q4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AC1Q4"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AC1Q4"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 119
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210212&t=2&i=1551335847&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1B18C"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Biden launches review of Guantanamo prison, aims to close it before leaving office"
+    excerpt: "President Joe Biden's aides have launched a formal review of the U.S. military prison at Guantanamo Bay in Cuba, reviving the Obama-era goal of closing the controversial facility with the aim of doing so before he leaves office,"
+    publishedDateTime: 2021-02-13T21:04:00Z
+    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN2AC1Q4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AC1Q4"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AC1Q4"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 119
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210212&t=2&i=1551335847&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1B18C"
+        width: 817
+        height: 545
+        isCached: true
   - title: "First lady Jill Biden surprises with giant cutout Valentine’s Day hearts on White House lawn"
     excerpt: "First lady Jill Biden surprised the country with a Valentine's Day message Friday. Biden unveiled at least half a dozen giant cutout hearts on the White House north lawn ahead of Valentine's Day this Sunday."
     publishedDateTime: 2021-02-12T14:59:00Z
@@ -47,17 +111,28 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "White House expects lawmakers' coronavirus aid \"mark up\" will track closely to Biden's plan"
-    excerpt: "The White House expects the House of Representatives to track closely to President Joe Biden's coronavirus relief plan as it marks up its latest round of legislation to blunt the effects of the COVID-19 pandemic,"
-    publishedDateTime: 2021-02-08T22:22:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-white-house/white-house-expects-lawmakers-coronavirus-aid-mark-up-will-track-closely-to-bidens-plan-idUSW1N2JA017"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A822O"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A822O"
+  - title: "Biden aims to close Guantanamo Bay prison by the time he leaves office"
+    excerpt: "The White House said on Friday that U.S. President Joe Biden aims to close the Guantanamo Bay prison by the time he leaves office, press secretary Jen Psaki told reporters in a daily briefing."
+    publishedDateTime: 2021-02-12T19:27:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-guantanamo-white-house-idUSKBN2AC2BG"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AC2BG"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AC2BG"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 95
+    quality: 105
+  - title: "Senate panel clears Biden's nomination of Boston mayor for labor secretary"
+    excerpt: "President Joe Biden's nomination of Boston Mayor Marty Walsh to serve as the next secretary of labor won approval from a Senate committee on Thursday, clearing the way for a vote by the full Senate."
+    publishedDateTime: 2021-02-11T22:38:00Z
+    webUrl: "https://www.reuters.com/article/employment-dol-idUSL1N2KH1S5"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2KH1S5"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2KH1S5"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 103
   - title: "Washington moves of the week: Here's who's landing at the Biden White House, federal agencies, and Capitol Hill"
     excerpt: "It's hiring season in Washington, D.C. Here are this week's personnel moves in the Biden White House, in agencies, and in Congress."
     publishedDateTime: 2021-02-12T10:03:00Z

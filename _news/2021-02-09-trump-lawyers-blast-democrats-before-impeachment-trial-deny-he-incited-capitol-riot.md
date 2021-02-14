@@ -479,6 +479,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "With Trump impeachment trial over, wary Washington seeks to move forward"
+    excerpt: "Former President Donald Trump's acquittal on charges of inciting a deadly attack on the U.S Capitol left Democrats and Republicans deeply divided on Sunday even as Washington seeks to move on with Democratic President Joe Biden's political agenda."
+    publishedDateTime: 2021-02-14T16:01:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump-impeachment-idUKKBN2AE0BG"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2AE0BG"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2AE0BG"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210214&t=2&i=1551489662&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1D09O"
+        width: 819
+        height: 545
+        isCached: true
   - title: "Trump impeachment: Schumer says agreement reached on rules for trial – live"
     excerpt: "Polling shows slim majority of Americans want Trump convicted and barred from office"
     publishedDateTime: 2021-02-08T22:14:00Z
@@ -750,6 +766,22 @@ related:
       - url: "https://s.abcnews.com/images/General/impeachment-president-donald-trump-16-ap-llr-210213_1613240356883_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Neguse says witnesses \"would not have made a difference\" in Trump impeachment trial"
+    excerpt: "Neguse pointed to Senate Minority Leader Mitch McConnell's condemnation of Mr. Trump after he voted to acquit him on the impeachment charge."
+    publishedDateTime: 2021-02-14T16:43:00Z
+    webUrl: "https://www.cbsnews.com/news/house-impeachment-manager-joe-neguse-donald-trump-acquittal-face-the-nation/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/house-impeachment-manager-joe-neguse-donald-trump-acquittal-face-the-nation/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/house-impeachment-manager-joe-neguse-donald-trump-acquittal-face-the-nation/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 119
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/02/14/f98eb050-f739-4aa7-8aa5-d74f6651a20f/thumbnail/1200x630/389a8e435e66a00219756fbaa4fa43ea/screen-shot-2021-02-14-at-10-36-00-am.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Trump impeachment trial live updates: Democrats to present never-before-seen evidence"
     excerpt: "House impeachment managers will use evidence that hasn't been seen before during the imminent trial, according to senior aides on the team. Senate Majority Leader Chuck Schumer re"
@@ -1599,6 +1631,17 @@ related:
     webUrl: "https://www.usnews.com/news/politics/articles/2021-02-13/the-latest-senators-await-closing-arguments-in-trump-trial"
     ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-13/the-latest-senators-await-closing-arguments-in-trump-trial?context=amp"
     cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-13/the-latest-senators-await-closing-arguments-in-trump-trial?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "READ: McConnell Speech After Trump's Impeachment Trial Acquittal"
+    excerpt: "Senate Minority Leader Mitch McConnell delivered a blistering condemnation of former President Donald Trump after Trump was acquitted in his impeachment trial."
+    publishedDateTime: 2021-02-14T16:39:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-02-14/read-mcconnell-speech-after-trumps-impeachment-trial-acquittal"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-14/read-mcconnell-speech-after-trumps-impeachment-trial-acquittal?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-14/read-mcconnell-speech-after-trumps-impeachment-trial-acquittal?context=amp"
     type: article
     provider:
       name: U.S. News & World Report

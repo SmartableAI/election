@@ -25,21 +25,126 @@ topics:
   - Joe Biden
 
 related:
-  - title: "Biden's infrastructure plan renews interest in NYC-Boston rail tunnel under Long Island Sound"
-    excerpt: "The estimated cost of the 20-year project is over $100 billion, a figure proponents say is not outrageous, given Biden’s promise to invest $2 trillion on clean energy infrastructure."
-    publishedDateTime: 2021-02-12T13:49:00Z
-    webUrl: "https://www.usatoday.com/story/travel/news/2021/02/12/bidens-focus-infrastructure-could-put-rail-tunnel-under-long-island-sound/6735315002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6735315002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6735315002"
+  - title: "Biden order reestablishes faith-focused White House office"
+    excerpt: "President Joe Biden has signed an executive order relaunching a White House office aimed at fostering cooperation between the federal government and faith-based and secular community organizations"
+    publishedDateTime: 2021-02-14T16:21:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-order-reestablishes-faith-focused-white-house-office/2021/02/14/17fe6700-6ee0-11eb-8651-6d3091eac63f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-order-reestablishes-faith-focused-white-house-office/2021/02/14/17fe6700-6ee0-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-order-reestablishes-faith-focused-white-house-office/2021/02/14/17fe6700-6ee0-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Suu Kyi aide, electoral officials arrested in Myanmar, Biden approves sanctions"
+    excerpt: "A close aide to ousted Myanmar leader Aung San Suu Kyi was detained in a new wave of arrests following last week's military coup, a party official said on Thursday, as Washington moved a step closer to imposing sanctions on the junta."
+    publishedDateTime: 2021-02-11T13:34:00Z
+    webUrl: "https://www.reuters.com/article/uk-myanmar-politics-idAFKBN2AB068"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN2AB068"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN2AB068"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210211&t=2&i=1551189130&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1A144"
+        width: 819
+        height: 545
+        isCached: true
+  - title: "Biden launches review of Guantanamo prison, aims to close it before leaving office"
+    excerpt: "President Joe Biden's aides have launched a formal review of the U.S. military prison at Guantanamo Bay in Cuba, reviving the Obama-era goal of closing the controversial facility with the aim of doing so before he leaves office,"
+    publishedDateTime: 2021-02-13T05:18:00Z
+    webUrl: "https://www.reuters.com/article/BigStory12/idUSKBN2AC1Q4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AC1Q4"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AC1Q4"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 119
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210212&t=2&i=1551335847&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1B18C"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Biden launches review of Guantanamo prison, aims to close it before leaving office"
+    excerpt: "President Joe Biden's aides have launched a formal review of the U.S. military prison at Guantanamo Bay in Cuba, reviving the Obama-era goal of closing the controversial facility with the aim of doing so before he leaves office,"
+    publishedDateTime: 2021-02-13T21:04:00Z
+    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN2AC1Q4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AC1Q4"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AC1Q4"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 119
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210212&t=2&i=1551335847&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1B18C"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "First lady Jill Biden decorates White House lawn with giant hearts for Valentine's Day"
+    excerpt: "First lady Jill Biden and President Joe Biden strolled the North Lawn to see the Valentine signs she put there to help boost spirits."
+    publishedDateTime: 2021-02-12T17:56:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/celebrities/2021/02/12/jill-biden-white-house-valentines-hearts-joe-biden-love-story/6737502002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6737502002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6737502002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
+    quality: 117
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/12/USAT/bd123f0c-9b6f-4da3-8d6e-74a989ac34f1-5bc25c16-21ae-42e4-88d9-7bb7431198d2_thumbnail.png?auto=webp&crop=849,478,x1,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "First lady Jill Biden surprises with giant cutout Valentine’s Day hearts on White House lawn"
+    excerpt: "First lady Jill Biden surprised the country with a Valentine's Day message Friday. Biden unveiled at least half a dozen giant cutout hearts on the White House north lawn ahead of Valentine's Day this Sunday."
+    publishedDateTime: 2021-02-12T14:59:00Z
+    webUrl: "https://abcnews.go.com/GMA/News/lady-jill-biden-surprises-giant-cutout-valentines-day/story?id=75850625"
+    ampWebUrl: "https://goodmorningamerica.com/amp/news/story/lady-jill-biden-surprises-giant-cutout-valentines-day-75850625"
+    cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/news/story/lady-jill-biden-surprises-giant-cutout-valentines-day-75850625"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
     quality: 114
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/02/11/USAT/45466196-210e-4a98-93ee-62ad0151bd59-AP21041777544333.jpg?auto=webp&crop=5999,3374,x1,y580&format=pjpg&width=1200"
+      - url: "https://s.abcnews.com/images/GMA/heart-whitehouse-2-gty-rc-210212_1613138866944_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden aims to close Guantanamo Bay prison by the time he leaves office"
+    excerpt: "The White House said on Friday that U.S. President Joe Biden aims to close the Guantanamo Bay prison by the time he leaves office, press secretary Jen Psaki told reporters in a daily briefing."
+    publishedDateTime: 2021-02-12T19:27:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-guantanamo-white-house-idUSKBN2AC2BG"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AC2BG"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AC2BG"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+  - title: "Washington moves of the week: Here's who's landing at the Biden White House, federal agencies, and Capitol Hill"
+    excerpt: "It's hiring season in Washington, D.C. Here are this week's personnel moves in the Biden White House, in agencies, and in Congress."
+    publishedDateTime: 2021-02-12T10:03:00Z
+    webUrl: "https://www.businessinsider.com/biden-hiring-staff-white-house-agencies-congress-washington-capitol-2021-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 85
+    images:
+      - url: "https://i.insider.com/6025a9632edd0f001a8d564e?width=1200&format=jpeg"
         width: 1200
-        height: 675
+        height: 600
         isCached: true
 
 secured: "vevglOWZQJ4bEl/cVfUJFT/Ev6n7osMBJoKecX/GD4Q14vJY9qRhRAZxhKdc6KVFrA/J+TJT/+YcNEoCFFKA99nsQ1WfYM7y5vAEKhlDU5EORbr2o6uX8nK58ShNIUK0ISRSuKLHiGRjDF1ookuHtop01BR5M6Z5kvRlrboJv9JUbfjj04ZTKLKGbfxkdJe0kBwwFa9W4PDwxqJsRorSJYhS8RNxqU5Ufaloko0zdYfkh62e76Xd8ukFC4toYP+v1hOhSgvpcHxwfPgsVjF3PLB349zpPCSVeelkgqUB/Hy45f0S3h76hxUs7s7l5yrf4Erz7jyixw6zW893s8G5lrWL5GhQVu1h97hKTNY7bdA=;CNMQnV9RDcyfcBMNGyRutA=="

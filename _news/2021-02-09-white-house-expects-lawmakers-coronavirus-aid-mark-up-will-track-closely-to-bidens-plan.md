@@ -9,8 +9,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A822O"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A822O"
 type: article
 quality: 95
-heat: -1
-published: false
+heat: 95
+published: true
 
 provider:
   name: Reuters
@@ -23,54 +23,6 @@ provider:
 topics:
   - Election
   - Joe Biden
-
-related:
-  - title: "First lady Jill Biden decorates White House lawn with giant hearts for Valentine's Day"
-    excerpt: "First lady Jill Biden and President Joe Biden strolled the North Lawn to see the Valentine signs she put there to help boost spirits."
-    publishedDateTime: 2021-02-12T17:56:00Z
-    webUrl: "https://www.usatoday.com/story/entertainment/celebrities/2021/02/12/jill-biden-white-house-valentines-hearts-joe-biden-love-story/6737502002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6737502002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6737502002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 117
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/02/12/USAT/bd123f0c-9b6f-4da3-8d6e-74a989ac34f1-5bc25c16-21ae-42e4-88d9-7bb7431198d2_thumbnail.png?auto=webp&crop=849,478,x1,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "First lady Jill Biden surprises with giant cutout Valentine’s Day hearts on White House lawn"
-    excerpt: "First lady Jill Biden surprised the country with a Valentine's Day message Friday. Biden unveiled at least half a dozen giant cutout hearts on the White House north lawn ahead of Valentine's Day this Sunday."
-    publishedDateTime: 2021-02-12T14:59:00Z
-    webUrl: "https://abcnews.go.com/GMA/News/lady-jill-biden-surprises-giant-cutout-valentines-day/story?id=75850625"
-    ampWebUrl: "https://goodmorningamerica.com/amp/news/story/lady-jill-biden-surprises-giant-cutout-valentines-day-75850625"
-    cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/news/story/lady-jill-biden-surprises-giant-cutout-valentines-day-75850625"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 114
-    images:
-      - url: "https://s.abcnews.com/images/GMA/heart-whitehouse-2-gty-rc-210212_1613138866944_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Washington moves of the week: Here's who's landing at the Biden White House, federal agencies, and Capitol Hill"
-    excerpt: "It's hiring season in Washington, D.C. Here are this week's personnel moves in the Biden White House, in agencies, and in Congress."
-    publishedDateTime: 2021-02-12T10:03:00Z
-    webUrl: "https://www.businessinsider.com/biden-hiring-staff-white-house-agencies-congress-washington-capitol-2021-2"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 85
-    images:
-      - url: "https://i.insider.com/6025a9632edd0f001a8d564e?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "+iaKGT94ObzUpmtGQEJ7E1qxHbsENV6AbOc7eQM2lgrrwbO6MM4hHc4c7en74kiEqPMlIhM7Qdnxgn8hMuzIZh6qOxlZGmPsd4e5wgB2s2NFRglfEnGFrf3fBJHkJhbDJGMNNzyRsZj8qmgbcs7c9CZib8iWkiPZ38rF45S3QPYxuMaP8Ug56X7Tqz09rf4uAmblBOxIk+nSJdSJzu5IPSsqciP2ZwU5xA48jmIZVeIc0Gbwo1yA/NkgupGUCK+Nu+fMSJinZW4sP6RxRJfwfWxembKnsgWbt5mmy3setwqt4BmnbeiQszWUM+5oaPQN9nm33UTjX1+ZWE82AycwN8elSA3Ghsr9Yu8rUiHShHM=;VGhgCMtxNZJAAUqs4hKg5A=="
 ---

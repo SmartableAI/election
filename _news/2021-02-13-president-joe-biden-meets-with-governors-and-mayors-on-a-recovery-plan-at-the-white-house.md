@@ -3,8 +3,8 @@ category: news
 title: "President Joe Biden meets with Governors and Mayors on a Recovery Plan at the White House"
 excerpt: "President Joe Biden and Vice President Kamala Harris meet with governors and mayors to discuss the American Rescue Plan, which will provide aid to fight against COVID-19, in the Oval Office in Washington,"
 publishedDateTime: 2021-02-12T17:34:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/21950192881a10313de0614101dbab05/President-Joe-Biden-meets-with-Governors-and-Mayors-on-a-Recovery-Plan-at-the-White-House/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/21950192881a10313de0614101dbab05/President-Joe-Biden-meets-with-Governors-and-Mayors-on-a-Recovery-Plan-at-the-White-House/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/2eef78bfc6d571d73af7ddca5a06e8b5/President-Joe-Biden-meets-with-Governors-and-Mayors-on-a-Recovery-Plan-at-the-White-House/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/2eef78bfc6d571d73af7ddca5a06e8b5/President-Joe-Biden-meets-with-Governors-and-Mayors-on-a-Recovery-Plan-at-the-White-House/"
 type: article
 quality: 46
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/21950192881a10313de0614101dbab05/BIDEN-GOVERNORS-MAYORS.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/2eef78bfc6d571d73af7ddca5a06e8b5/BIDEN-GOVERNORS-MAYORS.jpg"
     width: 650
     height: 433
     isCached: true
@@ -1517,6 +1517,6 @@ related:
         height: 800
         isCached: true
 
-secured: "WvqvyOrdxPCAgQEGbUrSGOFxI27kVVPjSJ6wygGnUFNEmiXP2DgqLxwMpehAYc1D/Ga0vYUQC/94k4uVGHHUUpZC6HWu9oaEUiooxSQ1uvTfKwBEledfELDBUzjPKx9ow9G2sT7APyHDLo10qyXHvI3ItsvITGobdCxzON2jocQUbjeWg/Kd8Nq3t6ThPt+j6He3ugyjhzbCpBTX4GiaO7o2G6AHbQucRtgHdhtg/+EHnV2fBh8LRCHO1F1WRGIfdAkyOAFN+ZCoWyVjwiylG5j2Th8QK4TFMHeDHkaWn92oaeNp8izStpTkAvnGCA8NXCNSbJBo/icQm0M6919qqUF9vFfUuTXse4vq9aD2YSkF9XPAoOs/dvvStG2rxkfFyjUCoeufY82CYV3MVvDr0gG5PwBUkfsvQTv0ZuAXA00+aC82FzEzsrj4o7nZPnxtipUK9JutKSKy5lwuxvqIJvPfCXm5LBd74DAkSctSuOkCb92BVHOYmP4fxVvuhbSSrKppMdkG5gPrffznJJJStA==;pzOhiz5P/40MSiEZ2CQMuQ=="
+secured: "KNvZ6di77Md4UJqEnJm9Yl9jLqVpJyCh1ILPS6KZW8sVj/h8SVCPQIyZraL06+Z/JGZhi/0mRT744FNKF2sfXGoljheI9m6qb+9f7gPvOXu140n3yq4ob+fqT5D/Q+qz4gDKHDWPDP0Tnp+D2NcSdaL0ph2A/2L6bdlsvInMETwMIFiurec/3MTmFF0v1FfTjOtf8nuNlLLHwT9i0Ont4c3vLqxH1mU8IJ8ZPCnRZ8e+Vhqwq+sXl17O9dlJ6n71shga5gmqr3NrzhwANsJIOFHSp+E5nTiKRcZrX5jNg/txdfrmfNtpd5S1YPtjox1CtI2PDufJLJvEudr/bfV45TLZOzwEmSINu9MlvkG6xzg=;OfhdYcgevgnnPyK2V9rL9g=="
 ---
 

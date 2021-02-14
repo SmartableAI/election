@@ -255,6 +255,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Senate impeachment trial was 'dramatic success' despite Trump acquittal: Raskin"
+    excerpt: "Democrats touted the Senate impeachment trial of former President Donald Trump as a big win despite his acquittal."
+    publishedDateTime: 2021-02-14T16:46:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UIEQ8nBEADY/senate-impeachment-democrats-success-trump-jamie-raskin"
+    ampWebUrl: "https://www.foxnews.com/politics/senate-impeachment-democrats-success-trump-jamie-raskin.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-impeachment-democrats-success-trump-jamie-raskin.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Mitch-McConnell-Trump-Impeachment-Vote-Speech-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Trump's impeachment defense rests after three hours: 'There was no insurrection'"
     excerpt: "Former President Trump's legal team took just about three hours Friday of their 16-hour allotted time to mount a defense for his impeachment charge of \"incitement of insurrection\" for the Jan. 6 Capitol riot."
     publishedDateTime: 2021-02-12T21:54:55Z
@@ -462,6 +478,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Klobuchar on possibility of Trump's political future after Senate acquittal: 'He is done'"
+    excerpt: "Sen. Amy Klobuchar, D-Minn., said former President Donald Trump's political career was \"done\" despite his acquittal in the Senate impeachment trial on Saturday."
+    publishedDateTime: 2021-02-14T15:36:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VVOLoDvQM5k/klobuchar-trump-president-2024-senate-acquittal-republican-party"
+    ampWebUrl: "https://www.foxnews.com/politics/klobuchar-trump-president-2024-senate-acquittal-republican-party.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/klobuchar-trump-president-2024-senate-acquittal-republican-party.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21040528541279.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Lead impeachment manager Raskin reveals questions he would have asked Trump if he testified"
     excerpt: "Former President Donald Trump will not testify in his own defense during his Senate impeachment trial, but lead House impeachment manager Rep. Jamie Raskin, D-Md., revealed what he would have asked Trump if he had chosen to appear."

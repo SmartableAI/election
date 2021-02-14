@@ -63,6 +63,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "On Parkland anniversary, Biden calls for tougher gun laws"
+    excerpt: "Sorrow is reverberating across the country Sunday as Americans joined a Florida community in remembering the 17 lives lost three years ago in the Parkland school shooting massacre"
+    publishedDateTime: 2021-02-14T16:53:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/parkland-anniversary-biden-calls-tougher-gun-laws-75891867"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/parkland-anniversary-biden-calls-tougher-gun-laws-75891867"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/parkland-anniversary-biden-calls-tougher-gun-laws-75891867"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
   - title: "Maryland Senators See Joe Biden's Immigration Policy as Key To Grant Citizenship To TPS Holders"
     excerpt: "The SECURE Act would provide a pathway to permanent resident status for over 400,000 immigrants who have Temporary Protected Status after fleeing natural disasters and civil unrest in their home countries."
     publishedDateTime: 2021-02-09T02:44:00Z

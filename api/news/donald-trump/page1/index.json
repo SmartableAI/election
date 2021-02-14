@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-15-gop-gov-larry-hogan-urges-party-to-leave-cult-of-donald-trump-hails-conviction-votes.md",
+      "title": "GOP Gov. Larry Hogan Urges Party to Leave 'Cult of Donald Trump,' Hails Conviction Votes",
+      "excerpt": "\"I was very proud of some of the folks who stood up and did the right thing,\" the Maryland governor said Sunday of senators who voted to convict Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/gop-gov-larry-hogan-urges-party-leave-cult-donald-trump-hails-conviction-votes-1569213",
+      "originalUrl": "https://www.newsweek.com/gop-gov-larry-hogan-urges-party-leave-cult-donald-trump-hails-conviction-votes-1569213",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1734741/larry-hogan.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/gop-gov-larry-hogan-urges-party-leave-cult-donald-trump-hails-conviction-votes-1569213?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/gop-gov-larry-hogan-urges-party-leave-cult-donald-trump-hails-conviction-votes-1569213?amp=1",
+      "publishedDateTime": "2021-02-14T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-14-trump-impeachment-trial-biden-warns-democracy-is-fragile.md",
       "title": "Trump impeachment trial: Biden warns democracy is fragile",
       "excerpt": "US President Joe Biden has called his predecessor Donald Trump's acquittal for inciting mob violence a reminder that \"democracy is fragile\". A majority of senators voted to convict Mr Trump but the numbers fell short of the two-thirds required to do so.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.bbc.com/news/world-us-canada-56061100",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2220,
+      "heat": 2280,
       "tags": null,
       "images": [
         {
@@ -384,7 +436,7 @@
       "originalUrl": "https://www.newsweek.com/full-text-mitch-mcconnells-email-explaining-why-he-would-vote-acquit-trump-1569064",
       "featuredContent": null,
       "highlight": null,
-      "heat": 280,
+      "heat": 300,
       "tags": null,
       "images": [
         {
@@ -1540,58 +1592,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-trial-highlights-history-lessons-trump-tweets-and-more.md",
-      "title": "Trial highlights: history lessons, Trump tweets and more",
-      "excerpt": "Donald Trump will stand trial for impeachment after the Senate rejected arguments from the former president’s lawyers that the chamber cannot move forward because he is no longer in office",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/trial-highlights-history-lessons-trump-tweets-75789773",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/trial-highlights-history-lessons-trump-tweets-75789773",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 245,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_bb4aff58ec284468b4b027215e10659d_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/trial-highlights-history-lessons-trump-tweets-75789773",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trial-highlights-history-lessons-trump-tweets-75789773",
-      "publishedDateTime": "2021-02-09T16:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

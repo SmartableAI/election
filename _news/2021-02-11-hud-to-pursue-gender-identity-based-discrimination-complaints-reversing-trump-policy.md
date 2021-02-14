@@ -732,6 +732,22 @@ related:
         width: 2500
         height: 1569
         isCached: true
+  - title: "Hogan says he would have voted to convict Trump in Senate trial and looks to future of GOP"
+    excerpt: "Maryland GOP Gov. Larry Hogan on Sunday praised Senate Republicans who broke with the party ranks and voted against former President Donald Trump in his second impeachment trial, saying if he were a senator,"
+    publishedDateTime: 2021-02-14T16:03:00Z
+    webUrl: "https://www.cnn.com/2021/02/14/politics/larry-hogan-republican-party-cnntv/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/14/politics/larry-hogan-republican-party-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/14/politics/larry-hogan-republican-party-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 125
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210214100602-screengrab-larry-hogan-cnn-0214-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Graham to meet with Trump to talk future of GOP"
     excerpt: "The South Carolina Republican said Friday evening that he plans to encourage Trump to work with Republicans to ensure that they take back the House and the Senate in 2022."
     publishedDateTime: 2021-02-13T02:37:00Z

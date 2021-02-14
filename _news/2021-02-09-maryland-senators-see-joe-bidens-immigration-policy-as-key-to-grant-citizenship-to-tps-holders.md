@@ -63,6 +63,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "On Parkland anniversary, Biden calls for tougher gun laws"
+    excerpt: "Sorrow is reverberating across the country Sunday as Americans joined a Florida community in remembering the 17 lives lost three years ago in the Parkland school shooting massacre"
+    publishedDateTime: 2021-02-14T16:53:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/parkland-anniversary-biden-calls-tougher-gun-laws-75891867"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/parkland-anniversary-biden-calls-tougher-gun-laws-75891867"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/parkland-anniversary-biden-calls-tougher-gun-laws-75891867"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
   - title: "Biden administration to begin admitting migrants forced to wait in Mexico"
     excerpt: "The Biden administration plans to begin processing and admitting migrants forced to wait in Mexico under Trump administration's \"Migrant Protection Protocols\""
     publishedDateTime: 2021-02-12T16:00:00Z

@@ -89,6 +89,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Stacey Plaskett: Trump Trial Needed 'More Senators With Spines, Not More Witnesses'"
+    excerpt: "Plaskett, a House manager in former President Trump's Senate trial, defends the decision not to call witnesses. \"As all Americans believed at that moment, the evidence was overwhelming,\" she says."
+    publishedDateTime: 2021-02-14T16:29:00Z
+    webUrl: "https://www.npr.org/sections/trump-impeachment-trial-live-updates/2021/02/14/967827857/stacey-plaskett-trump-trial-needed-more-senators-with-spines-not-more-witnesses"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 99
+    images:
+      - url: "https://media.npr.org/assets/img/2021/02/14/gettyimages-1302002799_wide-4930a5a178ab0d227da0928eff16e717b75d1d16.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "'This was his state of mind': Impeachment manager highlights Trump's 'pattern and practice' of inciting violence before the Capitol siege"
     excerpt: "\"Time after time, he encouraged violence, his supporters listened and they got the message,\" impeachment manager Jamie Raskin said."
     publishedDateTime: 2021-02-11T19:03:00Z

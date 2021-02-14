@@ -2,13 +2,13 @@
 category: news
 title: "WH aide TJ Ducklo resigns after demeaning reporter despite Biden's warning of firing"
 excerpt: "Deputy White House press secretary TJ Ducklo on Saturday said he was resigning amid allegations that he made \"derogatory and misogynistic\" remarks to Politico reporter Tara Palmeri nearly a month ago."
-publishedDateTime: 2021-02-14T00:45:10Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mMZYWfptJVQ/wh-aide-tj-ducklo-resigns-after-allegedly-demeaning-reporter-despite-bidens-warning-of-firing"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mMZYWfptJVQ/wh-aide-tj-ducklo-resigns-after-allegedly-demeaning-reporter-despite-bidens-warning-of-firing"
+publishedDateTime: 2021-02-14T03:21:00Z
+originalUrl: "https://www.foxnews.com/politics/wh-aide-tj-ducklo-resigns-after-allegedly-demeaning-reporter-despite-bidens-warning-of-firing"
+webUrl: "https://www.foxnews.com/politics/wh-aide-tj-ducklo-resigns-after-allegedly-demeaning-reporter-despite-bidens-warning-of-firing"
 ampWebUrl: "https://www.foxnews.com/politics/wh-aide-tj-ducklo-resigns-after-allegedly-demeaning-reporter-despite-bidens-warning-of-firing.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/wh-aide-tj-ducklo-resigns-after-allegedly-demeaning-reporter-despite-bidens-warning-of-firing.amp"
 type: article
-quality: 168
+quality: 128
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
@@ -78,6 +79,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "ICE nearly released sex abuse convicts despite Biden memo"
+    excerpt: "U.S. Immigration and Customs Enforcement was prepared to release three men convicted of sex offenses against children, Texas officials said, in an apparent misapplication by authorities of enforcement directives from President Joe Biden's administration."
+    publishedDateTime: 2021-02-14T16:08:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-tGqnY4RjtY/ice-nearly-released-sex-abuse-convicts-biden-memo"
+    ampWebUrl: "https://www.foxnews.com/politics/ice-nearly-released-sex-abuse-convicts-biden-memo.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ice-nearly-released-sex-abuse-convicts-biden-memo.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/US-Mexico-Border-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Cuomo heads to DC to meet with Biden as NY nursing-home scandal explodes"
     excerpt: "New York Gov. Andrew Cuomo is getting away from the state, at least for a few hours, as his nursing-home scandal appears to grow wider."
@@ -254,6 +271,6 @@ related:
         height: 3480
         isCached: true
 
-secured: "E2Y0iQlhWnbEsL7CvQN/0griXFv1TKUFa0uBLf/KMTek44xNDCZAZ6dEd301qipwxpaPtankMroyjDUY5Mxvt8YbDtKVIZaaZb55+FmnirZBrkkIOv1FyJwKPp1gdC0nBx89cnVqdDfiJTj1FdPt/KBQUT/sxbkFN2uVDiU5yzFs+Enq6f0yYzO/s//JCtmT8kIWScpzVwQ0Of/kZwRAtrdssuaO58bUElQJq5IF+cPVUeAO/g6IyxXS69OMVfhE+drkBXsGZGE/tA6SkKP+AOhO3X2dmLyjM2eP1JSGzuFbQpu9TK3AnnIoefxUoE3uJkQnRZul0U4ZUx/rRhfR8gheGuwxu0DrdWctRWyf+uo=;efCD13HYzv7Z6pKc3ATUkQ=="
+secured: "80zcLHg/IBjEr2WryHh19JoTJK0mbJvSS32dNr2zJTW3lw3a8Txe+bua3g1uIG855mJMKwykaGewmo7yJrq6yD9vnRpM9BlCx4JmHk4PlaH/qAErpP7eD9H5WBM765Rgkuv8b24R4hiMfaEamMFuuByWvtnk9w0NltvXB1tzzBtCUz06sBYfxjmorFMhCiIhQ3hCidJbpPXaYxcNZJwwVndW+TrHwbozVgDDq64HkfmGuqlayPIxkdffh3DvE82FlG6YW92jEHhPoSzGYmC6qyh0xdyVnNNlV9pFeY7h2CanRY+7X6XWKuYqiOiRb1xgXsdZsh9LIg77gB7B1m+KqK5MuVK0xyfv7VmtqSQ0ZeA=;PA1TYoq593mo8eGekFXOAw=="
 ---
 

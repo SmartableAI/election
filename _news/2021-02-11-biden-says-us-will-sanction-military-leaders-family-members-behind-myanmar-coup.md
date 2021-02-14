@@ -9,8 +9,8 @@ ampWebUrl: "https://www.washingtonpost.com/world/national-security/biden-says-us
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/biden-says-us-will-sanction-military-leaders-family-members-behind-myanmar-coup/2021/02/10/2637ede2-6bce-11eb-a66e-e27046e9e898_story.html?outputType=amp"
 type: article
 quality: 120
-heat: -1
-published: false
+heat: 180
+published: true
 
 provider:
   name: Washington Post
@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Suu Kyi aide, electoral officials arrested in Myanmar, Biden approves sanctions"
-    excerpt: "A close aide to ousted Myanmar leader Aung San Suu Kyi was detained in a new wave of arrests following last week's military coup, a party official said on Thursday, as Washington moved a step closer to imposing sanctions on the junta."
-    publishedDateTime: 2021-02-11T13:34:00Z
-    webUrl: "https://www.reuters.com/article/uk-myanmar-politics-idAFKBN2AB068"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN2AB068"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN2AB068"
+  - title: "Joe Biden Threatens Sanctions Following Myanmar Coup, Says U.S. Will 'Stand Up For Democracy'"
+    excerpt: "\"In a democracy, force should never seek to overrule the will of the people or attempt to erase the outcome of a credible election,\" the president said in his first statement on the issue."
+    publishedDateTime: 2021-02-01T18:17:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-threatens-sanctions-following-myanmar-coup-says-us-will-stand-democracy-1565870"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-threatens-sanctions-following-myanmar-coup-says-us-will-stand-democracy-1565870?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-threatens-sanctions-following-myanmar-coup-says-us-will-stand-democracy-1565870?amp=1"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 121
+      name: Newsweek
+      domain: newsweek.com
+    quality: 114
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210211&t=2&i=1551189130&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1A144"
-        width: 819
-        height: 545
+      - url: "https://d.newsweek.com/en/full/1721873/joe-biden-statement-myanmar-coup.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Biden authorizes sanctions on Myanmar over 'coup'"
     excerpt: "President Joe Biden also said the U.S. would try to prevent generals from accessing $1 billion held in the United States."
