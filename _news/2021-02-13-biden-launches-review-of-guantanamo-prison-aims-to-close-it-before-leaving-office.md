@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AC1Q4"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AC1Q4"
 type: article
 quality: 119
-heat: 139
+heat: 159
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden launches review of Guantanamo prison, aims to close it before leaving office"
+    excerpt: "President Joe Biden's aides have launched a formal review of the U.S. military prison at Guantanamo Bay in Cuba, reviving the Obama-era goal of closing the controversial facility with the aim of doing so before he leaves office,"
+    publishedDateTime: 2021-02-13T21:04:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-guantanamo-exclusive-idUSKBN2AC1Q4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AC1Q4"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AC1Q4"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 119
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210212&t=2&i=1551335847&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1B18C"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden aims to close Guantanamo Bay prison by the time he leaves office"
     excerpt: "The White House said on Friday that U.S. President Joe Biden aims to close the Guantanamo Bay prison by the time he leaves office, press secretary Jen Psaki told reporters in a daily briefing."
     publishedDateTime: 2021-02-12T19:27:00Z

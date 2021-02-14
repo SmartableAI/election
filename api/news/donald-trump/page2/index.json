@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-10-trump-tried-to-block-her-now-ngozi-okonjo-iweala-is-about-to-make-history.md",
+      "title": "Trump tried to block her. Now Ngozi Okonjo-Iweala is about to make history.",
+      "excerpt": "The Nigerian economist is set to become the first woman and African national in charge of the World Trade Organization.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/world/africa/ngozi-okonjo-iweala-wto/2021/02/09/99e3b028-67eb-11eb-bab8-707f8769d785_story.html",
+      "originalUrl": "https://www.washingtonpost.com/world/africa/ngozi-okonjo-iweala-wto/2021/02/09/99e3b028-67eb-11eb-bab8-707f8769d785_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/J35WRETKJ4I6XJTO4JYEN2PITA.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/world/africa/ngozi-okonjo-iweala-wto/2021/02/09/99e3b028-67eb-11eb-bab8-707f8769d785_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/africa/ngozi-okonjo-iweala-wto/2021/02/09/99e3b028-67eb-11eb-bab8-707f8769d785_story.html?outputType=amp",
+      "publishedDateTime": "2021-02-10T04:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-10-trial-highlights-history-lessons-trump-tweets-and-more.md",
       "title": "Trial highlights: history lessons, Trump tweets and more",
       "excerpt": "Donald Trump will stand trial for impeachment after the Senate rejected arguments from the former president’s lawyers that the chamber cannot move forward because he is no longer in office",
@@ -1515,63 +1567,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-doj-asks-supreme-court-to-cancel-arguments-over-trump-border-wall-and-remain-in-mexico-policy.md",
-      "title": "DOJ asks Supreme Court to cancel arguments over Trump border wall and 'remain in Mexico' policy",
-      "excerpt": "The Justice Department asked the Supreme Court Monday to cancel courtroom arguments scheduled for later this month over two aspects of Donald Trump's immigration policy, a reflection of the new administration's reversal on both issues.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/white-house/doj-asks-supreme-court-cancel-arguments-over-trump-border-wall-n1256463",
-      "originalUrl": "https://www.nbcnews.com/politics/white-house/doj-asks-supreme-court-cancel-arguments-over-trump-border-wall-n1256463",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2021_05/3446938/210202-trump-wall-jm-1027_7f984ea11556f96bb8fb324294448b65.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1256463",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1256463",
-      "publishedDateTime": "2021-02-02T07:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

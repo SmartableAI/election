@@ -2,6 +2,62 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-01-28-pro-trump-social-media-influencer-charged-in-2016-scheme-to-suppress-votes-for-hillary-clinton.md",
+      "title": "Pro-Trump social media influencer charged in 2016 scheme to suppress votes for Hillary Clinton",
+      "excerpt": "A pro-Trump social media influencer was arrested in Florida Wednesday after prosecutors say he purposely spread disinformation online in an effort to suppress votes for Hillary Clinton in the 2016 presidential election.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LIyuVcI6Fec/trump-social-media-influencer-2016-disinformation-scheme-hillary-clinton-votes-florida-new-york",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LIyuVcI6Fec/trump-social-media-influencer-2016-disinformation-scheme-hillary-clinton-votes-florida-new-york",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 183,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-social-media-influencer-2016-disinformation-scheme-hillary-clinton-votes-florida-new-york.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-social-media-influencer-2016-disinformation-scheme-hillary-clinton-votes-florida-new-york.amp",
+      "publishedDateTime": "2021-01-28T13:40:17-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-28-trump-meets-with-mccarthy-in-florida-to-plan-gop-house-takeover-in-2022.md",
       "title": "Trump meets with McCarthy in Florida to plan GOP House takeover in 2022",
       "excerpt": "House GOP Leader Kevin McCarthy met with former President Trump at Mar-a-lago Thursday where the two agreed to work together on Republicans taking back the House in 2022.",
@@ -283,7 +339,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-pauses-trump-policies-blinken-takes-diplomatic-helm-75531721",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2410,
+      "heat": 2390,
       "tags": null,
       "images": [
         {
@@ -1285,62 +1341,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-mcdaniel-says-rnc-pushing-back-against-bidens-extreme-policies.md",
-      "title": "McDaniel says RNC 'pushing back' against Biden's 'extreme policies'",
-      "excerpt": "EXCLUSIVE – With Democrats in control of the White House and holding fragile majorities in the Senate and House of Representatives, the Republican National Committee (RNC) has a new mission.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hi1DgE_MUt4/mcdaniel-rncs-pushing-back-biden-policies",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hi1DgE_MUt4/mcdaniel-rncs-pushing-back-biden-policies",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/mcdaniel-rncs-pushing-back-biden-policies.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcdaniel-rncs-pushing-back-biden-policies.amp",
-      "publishedDateTime": "2021-01-27T03:11:35-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

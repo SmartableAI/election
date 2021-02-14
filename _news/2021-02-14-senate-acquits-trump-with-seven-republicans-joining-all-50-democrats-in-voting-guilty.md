@@ -171,21 +171,21 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The Latest: Biden says all Americans must ‘defend the truth’"
+  - title: "The Latest: Biden says all Americans must 'defend the truth'"
     excerpt: "President Joe Biden is responding to the acquittal of Donald Trump by stating that all Americans, especially the nation’s leaders, have a duty and responsibility “to defend the truth and to defeat the lies."
-    publishedDateTime: 2021-02-14T04:05:00Z
-    webUrl: "https://www.washingtonpost.com/politics/the-latest-biden-says-all-americans-must-defend-the-truth/2021/02/13/d3daeb4a-6e79-11eb-a66e-e27046e9e898_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-biden-says-all-americans-must-defend-the-truth/2021/02/13/d3daeb4a-6e79-11eb-a66e-e27046e9e898_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-biden-says-all-americans-must-defend-the-truth/2021/02/13/d3daeb4a-6e79-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+    publishedDateTime: 2021-02-14T08:55:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/latest-senators-await-closing-arguments-trump-trial-75871314"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/latest-senators-await-closing-arguments-trump-trial-75871314"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/latest-senators-await-closing-arguments-trump-trial-75871314"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/Politics/WireAP_99e21b56053e49638943ddca30fd3b15_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Trump remains dominant force in GOP following acquittal"
     excerpt: "For Trump’s loyalists, the acquittal offers a vindication of sorts and a fresh connection to the former president's fiery base. And for Trump’s GOP antagonists, it marks anoth"

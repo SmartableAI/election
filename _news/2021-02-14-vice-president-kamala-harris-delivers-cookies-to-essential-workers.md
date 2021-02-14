@@ -169,6 +169,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Kamala Harris, Husband Doug Emhoff Give Healthcare Workers A Valentine's Day Surprise"
+    excerpt: "Kamala Harris and her husband, Doug Emhoff, handed out cookies to essential healthcare workers for Valentine's Day."
+    publishedDateTime: 2021-02-14T07:27:00Z
+    webUrl: "https://www.ibtimes.com/kamala-harris-husband-doug-emhoff-give-healthcare-workers-valentines-day-surprise-3145199"
+    ampWebUrl: "https://www.ibtimes.com/kamala-harris-husband-doug-emhoff-give-healthcare-workers-valentines-day-surprise-3145199?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/kamala-harris-husband-doug-emhoff-give-healthcare-workers-valentines-day-surprise-3145199?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 68
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/26/kamala-harris.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Vice President Kamala Harris Emphasizes Speed and Equity in Response to COVID-19 Crisis"
     excerpt: "In Harris’ first national sit-down interview since becoming vice president, she discusses her focus on an equitable response to the COVID-19 crisis with 19th editor-at-large Errin Haines."
     publishedDateTime: 2021-02-12T17:04:00Z

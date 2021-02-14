@@ -1,22 +1,22 @@
 ---
 category: news
-title: "The Latest: Biden says all Americans must ‘defend the truth’"
+title: "The Latest: Biden says all Americans must 'defend the truth'"
 excerpt: "President Joe Biden is responding to the acquittal of Donald Trump by stating that all Americans, especially the nation’s leaders, have a duty and responsibility “to defend the truth and to defeat the lies."
-publishedDateTime: 2021-02-14T04:05:00Z
-originalUrl: "https://www.washingtonpost.com/politics/the-latest-biden-says-all-americans-must-defend-the-truth/2021/02/13/d3daeb4a-6e79-11eb-a66e-e27046e9e898_story.html"
-webUrl: "https://www.washingtonpost.com/politics/the-latest-biden-says-all-americans-must-defend-the-truth/2021/02/13/d3daeb4a-6e79-11eb-a66e-e27046e9e898_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-biden-says-all-americans-must-defend-the-truth/2021/02/13/d3daeb4a-6e79-11eb-a66e-e27046e9e898_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-biden-says-all-americans-must-defend-the-truth/2021/02/13/d3daeb4a-6e79-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+publishedDateTime: 2021-02-14T08:55:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/latest-senators-await-closing-arguments-trump-trial-75871314"
+webUrl: "https://abcnews.go.com/Politics/wireStory/latest-senators-await-closing-arguments-trump-trial-75871314"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/latest-senators-await-closing-arguments-trump-trial-75871314"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/latest-senators-await-closing-arguments-trump-trial-75871314"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://s.abcnews.com/images/Politics/WireAP_99e21b56053e49638943ddca30fd3b15_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -519,6 +519,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "JOgehWvwV/iePdgjNxhhwuGXZ8NSoAyzVP5PvypWlczvi9IuxovpFrRaJKZCwqcJUAKYuKRu+6NF04npWc1fuT/4Mr/I5/OV0yFz5ZEYnUS7uMij/uZmrML+MgxGmriO3319eujKo7yRm850dmtZYJynrsZtRT/HuZSOeInItrmLdR1RpHLGIyOTImKk4aLjtUfelUXMGuPytAd9R9wyPUjeF/58liefm1ycyXM9r0rgCFNqj7d1zuIHv2/jKpJYCG3KW37hJ+TEHpwDX8yuf3Yp9hJGj2UHtqjG8+W+eSWuJsg7GI5yMS29Oa2Kq01Xq8bQzPnw0yQ26XYToAg0v8OYEwy7q5hDI+1vZatDsdg=;iCp539arYmxoUtHrA3iaRg=="
+secured: "JcovZhCRuxawo0GVyxzW1D3EjLPQzA+qw2yq/N6zkQn6k7ZozcUsEYFGjaVF/0tWJ/KMx1Xu21SPLiBa7Lznvc/J+dz7ubOSUBIPH9NPtiK3Lfl2xvUiExbWTrUQ6mhX4qobfHYM8Ymw4Ss3CpA+ODfxTPuyheVs4uCElS5Fh5hdtPdmPruGK0fWonom+lNpXTM7P0s8IwditR7XREhOhKYd/l32HYXpgx4Fdhu01hYHC7e/F/bLPiVtHs0vdRXm51yBAB9/5vdxQRgOtR3AZJ63NnzjrlLT18V5qba4zHIpEyOxlnqAKISm854OFjtI1b2ZPiLZSASWuRIjB9qnOHvB1ZyQSww64J07zAoNzhU=;JTKZkroxLO9yiK/+vW4hCw=="
 ---
 

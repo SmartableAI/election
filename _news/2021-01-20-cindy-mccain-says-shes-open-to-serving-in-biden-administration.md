@@ -447,6 +447,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden White House seeks to turn page on Trump"
+    excerpt: "The end of former President Donald Trump’s impeachment trial opens a new chapter for his successor in the White House."
+    publishedDateTime: 2021-02-14T07:13:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1esrw6tU6nw/biden-white-house-seeks-to-turn-page-on-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-white-house-seeks-to-turn-page-on-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-white-house-seeks-to-turn-page-on-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/071f1d37-4a3e-4737-9116-daa4093f0f0b/045aa0b1-e137-4f38-b83e-3887abc19c69/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden fires Trump-appointed labor board attorney in break with precedent"
     excerpt: "President Biden in a break with precedent fired the general counsel of the National Labor Relations Board, a Senate-confirmed position, on his first day in the White House. "
     publishedDateTime: 2021-01-21T09:24:25Z

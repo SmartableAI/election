@@ -2,6 +2,62 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-02-07-gop-senator-very-unlikely-senate-votes-to-convict-trump-in-impeachment-trial.md",
+      "title": "GOP senator: 'Very unlikely' Senate votes to convict Trump in impeachment trial ",
+      "excerpt": "Republican Sen. Pat Toomey of Pennsylvania said Sunday it's \"very unlikely\" the Senate votes to convict former President Donald Trump in the impeachment trial set to begin Tuesday.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Y2hBmRC8mvY/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Y2hBmRC8mvY/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210207100723-screengrab-pat-toomey-cnn-0207-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/07/politics/pat-toomey-senate-impeachment-trial-cnntv/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/07/politics/pat-toomey-senate-impeachment-trial-cnntv/index.html",
+      "publishedDateTime": "2021-02-07T10:11:41-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-07-rand-paul-kids-missing-school-is-disaster-says-biden-beholden-to-teachers-unions.md",
       "title": "Rand Paul: Kids missing school is 'disaster,' says Biden 'beholden' to teachers unions",
       "excerpt": "President Biden's hands-off approach to reopening schools amid the coronavirus pandemic is hurting America's children, Sen. Rand Paul, R-Ky., told \"Justice with Judge Jeanine\" Saturday.",
@@ -1294,62 +1350,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-biden-administrations-cbp-revives-catch-and-release-policy-at-border-amid-covid-concerns.md",
-      "title": "Biden administration’s CBP revives ‘catch and release’ policy at border amid COVID concerns",
-      "excerpt": "A perfect storm of events has the Biden administration’s Customs and Border Protection on its heels in parts of Texas.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QZS9KoQBMj8/biden-administrations-cbp-revives-catch-and-release-policy-at-border-amid-covid-concerns",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QZS9KoQBMj8/biden-administrations-cbp-revives-catch-and-release-policy-at-border-amid-covid-concerns",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/william-la-jeunesse.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-administrations-cbp-revives-catch-and-release-policy-at-border-amid-covid-concerns.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administrations-cbp-revives-catch-and-release-policy-at-border-amid-covid-concerns.amp",
-      "publishedDateTime": "2021-02-05T07:51:44-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

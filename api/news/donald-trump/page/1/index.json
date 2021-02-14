@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-14-rep-jaime-herrera-beutler-would-have-testified-under-oath-if-subpoenaed-at-trump-impeachment-trial-spokesman-says.md",
+      "title": "Rep. Jaime Herrera Beutler would have 'testified under oath' if subpoenaed at Trump impeachment trial, spokesman says",
+      "excerpt": "\"She’s already offered all the information she has, and she would have testified under oath,\" Rep. Jaime Herrera Beutler's office said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/02/13/herrera-beutler-would-have-testified-trump-trial-spokesman-says/4477859001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/02/13/herrera-beutler-would-have-testified-trump-trial-spokesman-says/4477859001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/02/13/USAT/dba8a0f4-281d-44ed-bc91-f2660c2a5b4b-AP_Trump_Impeachment_Herrera_Beutler.jpg?auto=webp&crop=5930,3336,x0,y301&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4477859001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4477859001",
+      "publishedDateTime": "2021-02-14T00:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-14-trump-attorney-rips-off-mic-after-questioning-from-cbsn-anchor.md",
+      "title": "Trump attorney rips off mic after questioning from CBSN anchor",
+      "excerpt": "The Senate voted Saturday to acquit former President Donald Trump on a charge of inciting the January 6th insurrection at the Capitol. Following the vote, defense attorney Michael van der Veen joined CBSN's Lana Zak to discuss the trial in a sometimes contentious interview.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/video/senate-acquits-trump-impeachment-lawyer-michael-van-der-veen/",
+      "originalUrl": "https://www.cbsnews.com/video/senate-acquits-trump-impeachment-lawyer-michael-van-der-veen/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/02/13/a8c0f061-b32b-435f-92a1-8a38b8db46e2/thumbnail/1200x630/f61b31ee01e950b6826672066705431f/cbsn-fusion-senate-acquits-trump-impeachment-lawyer-michael-van-der-veen-thumbnail-645843-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-14T00:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-14-biden-reflecting-on-senate-acquittal-of-trump-says-democracy-is-fragile.md",
       "title": "Biden, reflecting on Senate acquittal of Trump, says 'democracy is fragile'",
       "excerpt": "U.S. President Joe Biden said on Saturday that the Senate's acquittal of former President Donald Trump for inciting an insurrection was a reminder that democracy was fragile, and every American had a duty to defend the truth.",
@@ -247,58 +351,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-13-republican-rep-herrera-beutler-highlights-phone-call-as-riot-raged-trump-said-to-have-blamed-antifa-enraging-mccarthy.md",
-      "title": "Republican Rep. Herrera Beutler highlights phone call as riot raged: Trump said to have blamed antifa, enraging McCarthy",
-      "excerpt": "Keving McCarthy, furious, said “Who the f--k do you think you are talking to?” to the then-president, CNN reported.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/nation-world/ct-trump-phone-call-kevin-mccarthy-20210213-2q5dervymndo3kgmwmwmjlrkzi-story.html",
-      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-trump-phone-call-kevin-mccarthy-20210213-2q5dervymndo3kgmwmwmjlrkzi-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/5SwIHvloPZBz-TTj_NseYGcvf_M=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/AX7GGDRINNYE7TN7GWQWEDYTZU.aspx",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-trump-phone-call-kevin-mccarthy-20210213-2q5dervymndo3kgmwmwmjlrkzi-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-trump-phone-call-kevin-mccarthy-20210213-2q5dervymndo3kgmwmwmjlrkzi-story.html?outputType=amp",
-      "publishedDateTime": "2021-02-13T06:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1535,58 +1587,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-trump-tried-to-block-her-now-ngozi-okonjo-iweala-is-about-to-make-history.md",
-      "title": "Trump tried to block her. Now Ngozi Okonjo-Iweala is about to make history.",
-      "excerpt": "The Nigerian economist is set to become the first woman and African national in charge of the World Trade Organization.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/world/africa/ngozi-okonjo-iweala-wto/2021/02/09/99e3b028-67eb-11eb-bab8-707f8769d785_story.html",
-      "originalUrl": "https://www.washingtonpost.com/world/africa/ngozi-okonjo-iweala-wto/2021/02/09/99e3b028-67eb-11eb-bab8-707f8769d785_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/J35WRETKJ4I6XJTO4JYEN2PITA.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/world/africa/ngozi-okonjo-iweala-wto/2021/02/09/99e3b028-67eb-11eb-bab8-707f8769d785_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/africa/ngozi-okonjo-iweala-wto/2021/02/09/99e3b028-67eb-11eb-bab8-707f8769d785_story.html?outputType=amp",
-      "publishedDateTime": "2021-02-10T04:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

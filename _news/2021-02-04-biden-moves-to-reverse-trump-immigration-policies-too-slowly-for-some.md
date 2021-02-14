@@ -1657,17 +1657,6 @@ related:
         width: 864
         height: 768
         isCached: true
-  - title: "Biden White House Seeks to Turn Page on Trump"
-    excerpt: "The end of former President Donald Trump’s impeachment trial opens a new chapter for his successor in the White House."
-    publishedDateTime: 2021-02-14T00:41:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-02-13/biden-white-house-seeks-to-turn-page-on-trump"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-13/biden-white-house-seeks-to-turn-page-on-trump?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-13/biden-white-house-seeks-to-turn-page-on-trump?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 70
   - title: "Trump Makes Last-ditch Bid To Block Biden Win As Congress Goes Democratic"
     excerpt: "Donald Trump on Wednesday launched a furious last-minute bid on the streets of Washington to reverse his election defeat, as Joe Biden was set to be certified president with an added triumph of his Democratic Party on track to win full control of Congress."
     publishedDateTime: 2021-01-06T18:26:00Z
