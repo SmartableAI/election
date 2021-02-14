@@ -79,6 +79,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Republicans who voted to convict Trump face backlash at home"
+    excerpt: "Republican senators who voted to convict former President Donald Trump on Saturday are already facing backlash in their home states."
+    publishedDateTime: 2021-02-14T13:54:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_MI2u2Exv4E/republicans-vote-convict-trump-backlash-cassidy-burr-sasse"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-vote-convict-trump-backlash-cassidy-burr-sasse.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-vote-convict-trump-backlash-cassidy-burr-sasse.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21003769913842.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "How a leading anti-Trump group ignored a crisis in its ranks"
     excerpt: "Last June, the Lincoln Project was on a high. Led by several prominent former Republican consultants, its slickly produced ads attacking President Donald Trump made it perhaps the"
     publishedDateTime: 2021-02-11T20:21:00Z
@@ -110,6 +126,22 @@ related:
       - url: "https://images.wsj.net/im-299072/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Celebrities react to Trump being acquitted in second impeachment trial"
+    excerpt: "On Saturday, the U.S. Senate voted to acquit former President Donald Trump in his historic second impeachment trial, prompting his critics in Hollywood to react on social media."
+    publishedDateTime: 2021-02-14T14:44:00Z
+    webUrl: "https://www.foxnews.com/entertainment/celebrities-react-donald-trump-acquitted-impeachment-trial"
+    ampWebUrl: "https://www.foxnews.com/entertainment/celebrities-react-donald-trump-acquitted-impeachment-trial.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/celebrities-react-donald-trump-acquitted-impeachment-trial.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/trumpraid031018.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "BLldO+APnUFudZ4UP0r8Mq8NzyUVFNF6Dr/mvFiZBtU/S9vgLel6XpH1NXNgr3/I4wwuucjRbssdhLs6sn/Np1f/0F0npwLXZJOyvISlQ8rLTnX6a7pVkagwvUhJqYCVNd2T5Kq0Rrxq1oetyi7hVtfaRVF7/ZM100t2xv7RbkkwbiHJ327lXWkZHw8WHzZ9PPdRAmILNMuv9M7d4Q5MZE/hsgrwJQMYyQhaLyRLtwKz3c6jHbl7XJcXREnF0NLxgYnjhL0k02+S7WwluALjI8Z0YOxMIlVC+7T1vMyfM3yIClJ0IbRwsPdnGuwYktSdoeK+MN7BBEfoAFVEI6bbBF7Q0NcbKr53RZIUHLmLDeo=;q77+/RgK5iE0O4hoPCGpuQ=="

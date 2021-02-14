@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden has no good options on Afghanistan with deadline for troop withdrawal looming"
+    excerpt: "The Biden administration is just weeks away from having to make a decision whether to end the nearly 20-year military deployment in Afghanistan that has claimed nearly 2,400 American lives, as experts and US officials told CNN there are no good options available and the best hope is to avert \"catastrophe.\"\n"
+    publishedDateTime: 2021-02-14T05:00:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oXIx_jx_-Cs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/14/politics/biden-afghanistan-deadline-looming/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/14/politics/biden-afghanistan-deadline-looming/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/160706103928-05-us-afghanistan-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "9J7a7jgy8K7XoU4dmBjX5/7X+70sGiw+dBzDNqlUbZkAI+YalljcATaegB+1TiWTX/0j/dEzNJ8+QwohCfq3pAc9qNTmLQtNeHu+EWpayGH3Exk1TTgsj3SIbk7sbCR8akOIFwYVUAhS9jkZKlHJVwl3w3FHQGy3kdNXe5llSoUh9Xw9P27YOkGinSLS1CbXyVsMT/SS/fLbmhtu7jxCAN9dXidflDrQIhGr2epm0lCgK9Ps1S23GZchQewv0SnwqrWjCPad9jhSYRbSS4hJivUbQW0oGRRQukFOl0hzka5bs82UoK5RCFwFTrRunzmgLp+MjcJacfpd4wnaJSeJDkwpoKf6gIbo6E7wlBXvrKw=;WM89xiUCl1ZUBXxXSpIXaQ=="
 ---

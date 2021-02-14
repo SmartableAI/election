@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/02/12/nikki-haley-trump
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/02/12/nikki-haley-trump-election-richard-haass-nr-vpx.cnn"
 type: article
 quality: 175
-heat: 275
+heat: 315
 published: true
 
 provider:
@@ -79,6 +79,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "With acquittal, GOP sticks with Trump, wherever that leads"
+    excerpt: "On Saturday, 43 of 50 Republican senators voted to absolve former President Trump of responsibility for the deadly January 6th riot at the Capitol."
+    publishedDateTime: 2021-02-14T14:10:00Z
+    webUrl: "https://www.nbcnews.com/meet-the-press/video/with-acquittal-gop-sticks-with-trump-wherever-that-leads-101012549719"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo101012549719"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo101012549719"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202102/1613311501132_mtp_clip_a2_210214_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Of course Donald Trump's team didn't tell the truth about his Covid-19 illness"
     excerpt: "Donald Trump was far sicker with Covid-19 than the White House physician or his top aides let on, even to the point where there were concerns that the then-President would have to be put on a ventilator to deal with the illness."
     publishedDateTime: 2021-02-12T15:57:00Z
@@ -110,6 +126,20 @@ related:
       - url: "https://media2.s-nbcnews.com/i/newscms/2021_06/3449574/210211-jamie-raskin-bw-ac-909p_93b993d3a3f387227e4532af9dd90e0e.jpg"
         width: 2500
         height: 1528
+        isCached: true
+  - title: "Post-Impeachment Live Updates: Fallout Begins for Republicans Who Voted to Convict Trump"
+    excerpt: "Trump’s conviction in his impeachment trial has begun. In Louisiana, the state Republican Party’s executive committee voted unanimously on Saturday to censure Senator Bill Cassidy, who was just re-elected in November and was among those who voted to find Mr."
+    publishedDateTime: 2021-02-14T14:10:00Z
+    webUrl: "https://www.nytimes.com/live/2021/02/14/us/trump-impeachment/a-backlash-against-the-7-republicans-who-voted-to-convict-trump-has-begun"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 106
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/14/us/politics/14impeachment-briefing-republican-backlash/14impeachment-briefing-republican-backlash-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "hmZ8/w9WSI/S5xfCWcoAdQ9tA3ki6o6cVhVuxxaZveGKg3pT2YB2BDU4fHnECMnLU4ynmNtOBFA5pEOGIvvYikx+fgXWgX+7m4Oi8NAaXri9WdQa5mvAUozz29g0qnaAB/pEbx2nZxv5jKpDKhlt2aBFl1P1lBT4ba00X6RG63VV0KEdCmAtm5CT+87LNX5qJlID1QMa14Sdhe1hkhitwe1Lmqm1TaPbImBi63Qbbiy16uLVvohRY5kavdIVarObpXUUteor3jcB3AuDgAvhSriHbEtdOyi63munLK0T9EUHNVbSUROTsfh85yEgFAT6FtfvwmfTgMVOTZOBgQ9I4LkJkSsY/aLynEL6yns5HPg=;5PaR5X1d9Oc9pjvDGXJ7lQ=="

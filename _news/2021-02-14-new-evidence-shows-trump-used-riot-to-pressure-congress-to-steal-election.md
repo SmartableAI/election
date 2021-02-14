@@ -59,6 +59,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Loyalty to Trump remains the fault line for Republicans"
+    excerpt: "Seven Republicans voted to convict Trump, several more condemned him, but the party, overall remains loyal to the former president."
+    publishedDateTime: 2021-02-14T14:26:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-02-14/loyalty-to-trump-remains-the-fault-line-for-republicans"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-02-14/loyalty-to-trump-remains-the-fault-line-for-republicans?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-02-14/loyalty-to-trump-remains-the-fault-line-for-republicans?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/e7614f7/2147483647/strip/true/crop/840x549+0+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F11%2Ff4%2F678a93204bfd860e526e5986ae1c%2Fvaccine.jpg"
+        width: 320
+        height: 209
+        isCached: true
   - title: "For Raskin and the House managers arguing to convict Trump, less was more"
     excerpt: "House impeachment manager Rep. Joe Neguse (D-Colo.) participates in the impeachment managers’ closing argument in the trial of former The House managers trying the case against Donald Trump on charges of inciting the Jan."
     publishedDateTime: 2021-02-13T11:11:00Z

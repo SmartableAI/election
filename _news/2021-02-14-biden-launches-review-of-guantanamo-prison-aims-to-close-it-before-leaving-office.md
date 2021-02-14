@@ -3,8 +3,8 @@ category: news
 title: "Biden launches review of Guantanamo prison, aims to close it before leaving office"
 excerpt: "President Joe Biden's aides have launched a formal review of the U.S. military prison at Guantanamo Bay in Cuba, reviving the Obama-era goal of closing the controversial facility with the aim of doing so before he leaves office,"
 publishedDateTime: 2021-02-13T21:04:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-biden-guantanamo-exclusive-idUSKBN2AC1Q4"
-webUrl: "https://www.reuters.com/article/us-usa-biden-guantanamo-exclusive-idUSKBN2AC1Q4"
+originalUrl: "https://www.reuters.com/article/politicsNews/idUSKBN2AC1Q4"
+webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN2AC1Q4"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AC1Q4"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AC1Q4"
 type: article
@@ -59,6 +59,6 @@ related:
       domain: reuters.com
     quality: 105
 
-secured: "RBuNKwJa5tI/TGvCHrei9QdgVBlErf1OfbnjbFuLBozzNJWcZTl5E+KqcSuIHxRWmtu/Drlfz4+THKYhg/0oI75blvwQUfssSmufH05riHaM5UK+YjWpHL04z6k1ertAZlm2sHo8xYvVdJIrd8PAJXbJVE5WC79SfqWtrk/6+0AJJrU5qN83Ms33XG8FhS3aQORRJaz4WS8/lGPnmAjG4h4C5TeH6gMsgbVYSOoJzh/qYpOUDeHtEysQh4hXDEUNkeY24C9o6h+tjNtehkkHWwR/ZVr3j5iB/XeDoyfv6eMcGmaiV3DZlJuCkPrN75jJ7ElC0aNOxOLIjUtB1tFshNqVZ5XfEtT4mvoftkj2dOLbD8w8hgzL4T8z1672Zovqmo+1TVDRXhYGM38+BZsSGNymF73aA53VXAC5kNewTYQyDIAJZnSinLh516TSiH3s99R3YGDNbg4TIdQKxr74Plcwa3rs8NrDbH/lrxlYU6qaFq1vCGqp53j7k9qnA6yHqrPrT/scBPlgjyzep8MnKQ==;lSe+IRplPDnuqN7T5kV+1g=="
+secured: "3W+U4jbvzXxOTxanl66r2Sehiiq+FlnYqMgbG5B69ivcdLtOLb1p2qb3OfXl0i/IBcy/HbewSzmv8WlyxNGoh/vV0wIEu+JI1parrAAbW7clvMmqbzcFz9zpGvAb9g9cznqpzfQLVUTA5Z7YOit0e4ZjFeBB1xDCev3OgkAoQwQBipalGjhIO6hdkBd/HSfljQ+ZLakf1FDIi0j7OqvR67gqxI97p6vCLDxDy/MIEAqEOYjz37vPQDRHlPV1XH2GLQ8PLu0WcesREBa+7bSMJrBptdQg8WCTfpSEtgi/cjJYFE+Lkj26wcgkKx9IA6Gm0/SAHDEznC2tfxxf56KTXfzdzToLtt6cc8e+PTJAyjM=;QLJtasBE8wPKBv0FTSxw3w=="
 ---
 

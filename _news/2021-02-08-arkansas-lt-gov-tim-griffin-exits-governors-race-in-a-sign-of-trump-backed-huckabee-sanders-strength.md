@@ -79,6 +79,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Full Hogan Interview: 'We need to move on from the cult of Donald Trump'"
+    excerpt: "In an interview with Meet the Press, Gov. Larry Hogan (R-Md.) talks about how he believes the Republican party can rebuild itself after former President Trump."
+    publishedDateTime: 2021-02-14T13:52:00Z
+    webUrl: "https://www.nbcnews.com/meet-the-press/video/full-hogan-interview-we-need-to-move-on-from-the-cult-of-donald-trump-101011013896"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo101011013896"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo101011013896"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 134
+    images:
+      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202102/mtp_full_hogan_210214.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "0PJ9HQ6XfEXTaYJL2dH0XPbgzNRa2yEw2VLMGvvI5f2mrBVIe0zsmQtIF037v098+CaqxHmSz0n4scsbOYBohPhT4iZJHZHJBgvAghmEv9ihifquN1kfSDOuXe+gDJ2G+Drjo1AzZ4/fPPK/rSVnYSm4ognClfLPkXJvV6G2tnfGm8xOfmTM7pKe+cISd9C5i3wMANkhYW42b6baOhWFddZ1J05YwC/1/0zVXyY+e47LZP/fzmC5aRC9aNTPbGeavX3DuxzmBi7qy1MQ294+oCorWDDfXpSlfasG0B6fbdfqOY90NsJ/qawwjzj0osReroBnHb+OQk5/yRlkPphxs/6N4i9o7Hc7oJkcZgbxP64=;kEtTedbX6ATtp8Dpkg0++g=="
 ---

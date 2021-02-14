@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/13/politics/biden-trump-second-impea
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/biden-trump-second-impeachment-trial/index.html"
 type: article
 quality: 176
-heat: 1156
+heat: 1176
 published: true
 
 provider:
@@ -140,6 +140,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106121255-01-mcconnell-0106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Republicans acquitted Trump again, but this time is different"
+    excerpt: "Former President Donald Trump's second acquittal by the US Senate proved the enduring power he holds over the Republican Party, with the results Saturday setting the dangerous precedent that even an autocratic leader who violates his oath of office can escape punishment if he bullies enough senators"
+    publishedDateTime: 2021-02-14T05:21:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kmdl4bQX1R4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/14/politics/donald-trump-impeachment-republican-vote/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/14/politics/donald-trump-impeachment-republican-vote/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210211173412-104-trump-impeachment-centered-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

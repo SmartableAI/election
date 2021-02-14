@@ -91,6 +91,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Pelosi called McConnell 'pathetic' after he said he wouldn't vote to convict Trump for inciting Capitol riot"
+    excerpt: "Pelosi said McConnell postponed Trump's impeachment trial, and then voted for his acquittal because the trial occurred after Trump left office."
+    publishedDateTime: 2021-02-14T14:11:00Z
+    webUrl: "https://www.businessinsider.com/pelosi-called-mcconnell-pathetic-after-vote-to-not-convict-trump-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/pelosi-called-mcconnell-pathetic-after-vote-to-not-convict-trump-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pelosi-called-mcconnell-pathetic-after-vote-to-not-convict-trump-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 106
+    images:
+      - url: "https://i.insider.com/602924a42edd0f001a8d5bae?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Mitch McConnell lambasts Donald Trump but votes not guilty – video"
     excerpt: "Nancy Pelosi criticises ‘cowardly’ Republicans and minority leader Mitch McConnell savages Trump but votes not guilty regardless"
     publishedDateTime: 2021-02-14T04:57:00Z

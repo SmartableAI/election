@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/08/politics/trump-arkansas-governor-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/08/politics/trump-arkansas-governor-sarah-huckabee-sanders/index.html"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://static.politico.com/78/52/c629352345e6be4f9041d6c5e202/nerdcast-0212.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Full Hogan Interview: 'We need to move on from the cult of Donald Trump'"
+    excerpt: "In an interview with Meet the Press, Gov. Larry Hogan (R-Md.) talks about how he believes the Republican party can rebuild itself after former President Trump."
+    publishedDateTime: 2021-02-14T13:52:00Z
+    webUrl: "https://www.nbcnews.com/meet-the-press/video/full-hogan-interview-we-need-to-move-on-from-the-cult-of-donald-trump-101011013896"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo101011013896"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo101011013896"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 134
+    images:
+      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202102/mtp_full_hogan_210214.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "8Bmkv+Dw0RschDMlZlgOyA5osovRGTrUWT+ycpc6rpcup3iDsG7qQKn29O50ay+TOil42ZNzcr5Si0YHKi2ENvlQ+0uKLmhASo5Bry4sT5mazJskk89ChXeVdaiaNKyZc8Zn4ybw35MsMBH1PwgfMPzx9wjs1Durx+2wzGBgXixvU4MvbHiWYGHZ6JOGzIE1vFbq08lJ5Y/hOwM8DUyYrZ0bOWsSLQ+v0R7wESMh9jve59Kk6DAX2cfH+RNA+bqyINekBwF9q6XKC+ATBUCdYV5naZHygcB0yqVptgdVlGW5nw4RTdbC5otw73z5KbQFw7kLOe8CYXAj3ukL7CscMfWw2r9MqTYo/5XBXylKF58=;LwOPpOq0DbwkuuA3UHLH9Q=="

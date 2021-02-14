@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/12/politics/biden-guantanamo-bay/ind
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/12/politics/biden-guantanamo-bay/index.html"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 174
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/180227114420-rainbow-flag-white-house-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden has no good options on Afghanistan with deadline for troop withdrawal looming"
+    excerpt: "The Biden administration is just weeks away from having to make a decision whether to end the nearly 20-year military deployment in Afghanistan that has claimed nearly 2,400 American lives, as experts and US officials told CNN there are no good options available and the best hope is to avert \"catastrophe.\"\n"
+    publishedDateTime: 2021-02-14T05:00:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oXIx_jx_-Cs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/14/politics/biden-afghanistan-deadline-looming/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/14/politics/biden-afghanistan-deadline-looming/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/160706103928-05-us-afghanistan-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

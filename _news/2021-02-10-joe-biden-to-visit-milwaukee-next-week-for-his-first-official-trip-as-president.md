@@ -1366,6 +1366,20 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "'Saturday Night Live' spoofs Trump's impeachment just hours after acquittal"
+    excerpt: "Live\" opened by mocking former President Trump's historic second impeachment trial that had ended just hours earlier."
+    publishedDateTime: 2021-02-14T14:57:00Z
+    webUrl: "https://www.usatoday.com/videos/entertainment/tv/2021/02/14/snl-spoofs-trumps-impeachment-acquittal-cold-open-sketch/4481688001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 103
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/14/USAT/55c4d5af-5228-4359-b976-6ae18072f494-SNLTHUMB.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Biden laser-focused on pushing his agenda as Senate starts impeachment trial"
     excerpt: "The president has urged the Senate to walk and chew gum at the same time. Biden works to gain support for COVID-19 relief bill As the historic, second Senate impeachment trial of former President Donald Trump gets underway,"
     publishedDateTime: 2021-02-10T01:27:00Z
@@ -1391,6 +1405,20 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 102
+  - title: "Senate acquits Trump for second time after week-long trial | Impeachment This Week"
+    excerpt: "House managers argue former president Trump incited an insurrection in a dramatic and swift Senate impeachment trial. Come inside the proceedings with The Washington Post."
+    publishedDateTime: 2021-02-14T14:53:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/senate-acquits-trump-for-second-time-after-week-long-trial-impeachment-this-week/2021/02/14/cc1c1e64-93f5-4792-92a8-5bb39eb0635b_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 99
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/02-11-2021/t_3663950b3bda48959ae2d8edf9d83996_name_ImpeachmentThisWeek_Week3_2021_Thumb_v01.png&w=1080"
+        width: 1080
+        height: 608
+        isCached: true
   - title: "Lawyers representing Capitol rioters blame Trump for the insurrection. His impeachment trial could help their criminal cases."
     excerpt: "The \"public authority defense\" could help Capitol rioters shift blame to Trump instead of themselves."
     publishedDateTime: 2021-02-11T18:12:00Z

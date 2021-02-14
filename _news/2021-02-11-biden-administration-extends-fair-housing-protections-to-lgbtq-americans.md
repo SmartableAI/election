@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden has no good options on Afghanistan with deadline for troop withdrawal looming"
+    excerpt: "The Biden administration is just weeks away from having to make a decision whether to end the nearly 20-year military deployment in Afghanistan that has claimed nearly 2,400 American lives, as experts and US officials told CNN there are no good options available and the best hope is to avert \"catastrophe.\"\n"
+    publishedDateTime: 2021-02-14T05:00:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oXIx_jx_-Cs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/14/politics/biden-afghanistan-deadline-looming/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/14/politics/biden-afghanistan-deadline-looming/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/160706103928-05-us-afghanistan-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration continues vaccination push with five new mass vaccination sites in Texas and New York"
     excerpt: "The Biden administration is partnering with Texas and New York to open additional vaccination centers as it continues its push to vaccinate every American amid the coronavirus pandemic.\n    \n"
     publishedDateTime: 2021-02-10T18:36:41Z
