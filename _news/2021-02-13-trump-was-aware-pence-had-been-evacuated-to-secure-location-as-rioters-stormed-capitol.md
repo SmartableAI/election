@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/13/politics/trump-pence-capitol-riot
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/trump-pence-capitol-riot/index.html"
 type: article
 quality: 192
-heat: 1072
+heat: 1092
 published: true
 
 provider:
@@ -619,6 +619,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/02/12/us/politics/12impeachment-briefing-argument/12impeachment-briefing-argument-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Donald Trump acquitted in second impeachment trial"
+    excerpt: "The Senate voted Saturday to acquit former President Trump of inciting insurrection at the Capitol. Follow here for the latest."
+    publishedDateTime: 2021-02-13T23:06:00Z
+    webUrl: "https://www.cnn.com/politics/live-news/trump-impeachment-trial-02-13-2021/h_78d3916c2eb213c0bb589487f3df1e98"
+    ampWebUrl: "https://amp.cnn.com/cnn/politics/live-news/trump-impeachment-trial-02-13-2021/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/politics/live-news/trump-impeachment-trial-02-13-2021/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210204131913-102-trump-impeachment-centered-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Impeachment Case Aims to Marshal Outrage of Capitol Attack Against Trump"
     excerpt: "Armed with lessons from the last impeachment trial of Donald J. Trump, prosecutors plan a shorter, video-heavy presentation to confront Republicans with the fury they felt around the Capitol riot."

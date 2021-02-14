@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/lifestyle/style/trump-derangement-syn
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/style/trump-derangement-syndrome-impeachment/2021/02/11/a6ffa7b6-6ca6-11eb-9ead-673168d5b874_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 185
+heat: 165
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/e8489cef29e9ca7ea26f955b844a0d9aac6455eb/0_0_3500_2333/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=eef6c204d5e042edd592154eb7c8a298"
         width: 600
         height: 400
-        isCached: true
-  - title: "Sen. Blumenthal calls Trump's defense an 'insult to all of our intelligence'"
-    excerpt: "Friday evening following the fourth day of former President Trump’s impeachment trial said that the Trump defense team’s response to questions from senators on details surrounding the then-president’s response to the Jan."
-    publishedDateTime: 2021-02-13T18:45:00Z
-    webUrl: "https://thehill.com/homenews/senate/538749-sen-blumenthal-calls-trump-teams-defense-an-insult-to-all-of-our-intelligence"
-    ampWebUrl: "https://thehill.com/homenews/senate/538749-sen-blumenthal-calls-trump-teams-defense-an-insult-to-all-of-our-intelligence?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/538749-sen-blumenthal-calls-trump-teams-defense-an-insult-to-all-of-our-intelligence?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 122
-    images:
-      - url: "https://thehill.com/sites/default/files/blumenthalrichard_111020bc_lead.jpg"
-        width: 980
-        height: 551
         isCached: true
   - title: "Consequences of both impeachment and acquittal loom over Trump defense: The Note"
     excerpt: "As Jan. 6 made clear, there are more than simple political consequences to consider when senators decide how to vote in Trump's second impeachment trial."

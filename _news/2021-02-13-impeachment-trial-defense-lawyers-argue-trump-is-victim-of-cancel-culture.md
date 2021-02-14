@@ -47,22 +47,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Sen. Blumenthal calls Trump's defense an 'insult to all of our intelligence'"
-    excerpt: "Friday evening following the fourth day of former President Trump’s impeachment trial said that the Trump defense team’s response to questions from senators on details surrounding the then-president’s response to the Jan."
-    publishedDateTime: 2021-02-13T18:45:00Z
-    webUrl: "https://thehill.com/homenews/senate/538749-sen-blumenthal-calls-trump-teams-defense-an-insult-to-all-of-our-intelligence"
-    ampWebUrl: "https://thehill.com/homenews/senate/538749-sen-blumenthal-calls-trump-teams-defense-an-insult-to-all-of-our-intelligence?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/538749-sen-blumenthal-calls-trump-teams-defense-an-insult-to-all-of-our-intelligence?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 122
-    images:
-      - url: "https://thehill.com/sites/default/files/blumenthalrichard_111020bc_lead.jpg"
-        width: 980
-        height: 551
-        isCached: true
   - title: "Consequences of both impeachment and acquittal loom over Trump defense: The Note"
     excerpt: "As Jan. 6 made clear, there are more than simple political consequences to consider when senators decide how to vote in Trump's second impeachment trial."
     publishedDateTime: 2021-02-12T16:00:00Z

@@ -241,22 +241,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Key moments from the second day of Trump's impeachment trial "
-    excerpt: "The second day of former President Donald Trump's Senate impeachment trial brought sobering new security footage and police radio audio of the US Capitol insurrection as Democrats sought to connect the violence to Trump's repeated election fraud claims and his January 6 speech.\n    \n"
-    publishedDateTime: 2021-02-11T02:41:16Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lEW29qAsmmY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/10/politics/impeachment-key-moments-day-2/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/10/politics/impeachment-key-moments-day-2/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210210155727-01-impeachment-trial-2021-unf-0210-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Analysis: Trump's many defenses, explained"
     excerpt: "Former President Donald Trump's defense team used just a few of the 16 hours they were allotted to make their case for his acquittal on Friday, and encouraged senators to use the rest of the time on Covid relief.\n    \n"
     publishedDateTime: 2021-02-13T13:00:54Z
@@ -712,20 +696,6 @@ related:
     quality: 115
     images:
       - url: "https://static01.nyt.com/images/2021/01/13/us/trump-second-impeachment-vote-promo-1610558373191/trump-second-impeachment-vote-promo-1610558373191-facebookJumbo-v3.jpg"
-        width: 1050
-        height: 549
-        isCached: true
-  - title: "A Step-by-Step Guide to the Second Impeachment of Donald J. Trump"
-    excerpt: "Here’s how Mr. Trump’s second impeachment has unfolded so far. The House passed the article of impeachment, impeaching Mr. Trump for the second time. Mr. Trump’s impeachment last month by the House was not the quickest in U."
-    publishedDateTime: 2021-02-08T15:22:00Z
-    webUrl: "https://www.nytimes.com/interactive/2021/02/08/us/politics/trump-second-impeachment-timeline.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 115
-    images:
-      - url: "https://static01.nyt.com/images/2021/02/08/us/trump-second-impeachment-timeline-promo-1612812465076/trump-second-impeachment-timeline-promo-1612812465076-facebookJumbo-v8.png"
         width: 1050
         height: 549
         isCached: true

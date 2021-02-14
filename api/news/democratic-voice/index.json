@@ -2,6 +2,118 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-14-biden-says-democracy-must-always-be-defended-after-trumps-acquittal-in-second-impeachment-trial.md",
+      "title": "Biden says 'democracy must always be defended' after Trump's acquittal in second impeachment trial ",
+      "excerpt": "President Joe Biden weighed in late Saturday night on former President Donald Trump's acquittal in his second impeachment trial, saying that democracy is \"fragile\" and \"must always be defended.\"\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vvITbpH56no/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vvITbpH56no/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 1156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210208160121-joe-biden-210205-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/13/politics/biden-trump-second-impeachment-trial/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/biden-trump-second-impeachment-trial/index.html",
+      "publishedDateTime": "2021-02-13T19:52:57-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-14-fact-check-trump-lawyer-closes-impeachment-defense-with-a-barrage-of-dishonesty.md",
+      "title": "Fact check: Trump lawyer closes impeachment defense with a barrage of dishonesty ",
+      "excerpt": "Former President Donald Trump's impeachment defense was dishonest from start to finish.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6Bv7gQMkesM/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6Bv7gQMkesM/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 190,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210213210145-michael-van-der-veen-abogado-trump-sot-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/13/politics/fact-check-trump-impeachment-van-der-veen-closing-argument/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/fact-check-trump-impeachment-van-der-veen-closing-argument/index.html",
+      "publishedDateTime": "2021-02-13T16:47:54-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-14-mcconnell-blames-trump-but-voted-not-guilty-anyway.md",
       "title": "McConnell blames Trump but voted not guilty anyway",
       "excerpt": "Senate Minority Leader Mitch McConnell has told his colleagues that he will vote to acquit former President Donald Trump of inciting the insurrection at the US Capitol last month, according to a source familiar with the conversations.\n    \n",
@@ -14,7 +126,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 255,
+      "heat": 195,
       "tags": null,
       "images": [
         {
@@ -127,7 +239,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 1072,
+      "heat": 1092,
       "tags": null,
       "images": [
         {
@@ -229,62 +341,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-13-fact-check-trump-lawyers-make-multiple-false-claims-in-impeachment-defense.md",
-      "title": "Fact check: Trump lawyers make multiple false claims in impeachment defense",
-      "excerpt": "Former President Donald Trump's lawyers mounted an aggressive defense Friday in Trump's second impeachment trial -- and made multiple false and misleading claims to bolster their case.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/l3rPg0b4ug4/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/l3rPg0b4ug4/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 293,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210212161208-06-impeachment-trial-2021-van-der-veen-0212-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/12/politics/fact-check-trump-defense-impeachment-trial/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/12/politics/fact-check-trump-defense-impeachment-trial/index.html",
-      "publishedDateTime": "2021-02-12T19:03:51-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-02-12-biden-administration-says-it-intends-to-close-guantanamo-prison.md",
       "title": "Biden administration says it intends to close Guantanamo prison",
       "excerpt": "The Biden administration intends to close the Guantánamo Bay detention facility, which houses approximately 40 prisoners, by the end of their term.\n    \n",
@@ -341,63 +397,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-13-trumps-impeachment-defense-team-rests-arguing-his-words-before-riot-were-ordinary-political-rhetoric.md",
-      "title": "Trump's impeachment defense team rests, arguing his words before riot were 'ordinary political rhetoric'",
-      "excerpt": "Trump's impeachment defense team argues his words before riot were 'ordinary political rhetoric' A final vote on whether to convict the ex-president for inciting the Capitol riot could happen this weekend.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/donald-trump/trump-defense-present-case-senate-impeachment-trial-n1257601",
-      "originalUrl": "https://www.nbcnews.com/politics/donald-trump/trump-defense-present-case-senate-impeachment-trial-n1257601",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media3.s-nbcnews.com/i/newscms/2021_06/3449634/210212-donald-trump-mn-0730_10c3f8b8018c1bcd5ca03624e410509d.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1257601",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1257601",
-      "publishedDateTime": "2021-02-12T13:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-02-12-dc-attorney-general-weighs-legal-viability-of-charging-trump-under-local-statute.md",
       "title": "DC attorney general weighs legal viability of charging Trump under local statute ",
       "excerpt": "Lawyers inside the Washington, DC attorney general's office are working to determine if it is legally viable to use district statutes to charge former President Donald Trump for his alleged role in the insurrection.\n    \n",
@@ -410,7 +409,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 210,
+      "heat": 230,
       "tags": null,
       "images": [
         {
@@ -454,6 +453,63 @@
       ]
     },
     {
+      "path": "_news/2021-02-13-trumps-impeachment-defense-team-argues-his-words-before-riot-were-ordinary-political-rhetoric.md",
+      "title": "Trump's impeachment defense team argues his words before riot were 'ordinary political rhetoric'",
+      "excerpt": "Lawyers for former President Donald Trump’s kicked off their defense Friday with a forceful rebuke of the case made by Democratic House impeachment managers, calling it an act of \"political vengeance\" and alleging that Trump's speech preceding the Capitol riot was merely \"ordinary political rhetoric.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/donald-trump/trump-defense-present-case-senate-impeachment-trial-n1257601",
+      "originalUrl": "https://www.nbcnews.com/politics/donald-trump/trump-defense-present-case-senate-impeachment-trial-n1257601",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2021_06/3449634/210212-donald-trump-mn-0730_1766caa6ab5712ca048af6133531a753.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1257601",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1257601",
+      "publishedDateTime": "2021-02-12T10:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-12-key-republican-breaks-with-trump-we-shouldnt-have-followed-him.md",
       "title": "Key Republican breaks with Trump: 'We shouldn't have followed him'",
       "excerpt": "Former ambassador to the UN Nikki Haley weighed in on Trump's legacy during an interview with Politico, saying that he had \"fallen so far\" and was likely out of the picture for 2024 presidential candidates. Former special assistant to President George H.W. Bush and president of the Council on Foreign",
@@ -466,7 +522,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 315,
+      "heat": 275,
       "tags": null,
       "images": [
         {
@@ -863,7 +919,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 575,
+      "heat": 555,
       "tags": null,
       "images": [
         {
@@ -1203,7 +1259,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 655,
+      "heat": 375,
       "tags": null,
       "images": [
         {
@@ -1259,7 +1315,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 255,
+      "heat": 235,
       "tags": null,
       "images": [
         {
@@ -1638,63 +1694,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-06-harris-flexes-power-as-senate-tiebreaker.md",
-      "title": "Harris flexes power as Senate tiebreaker",
-      "excerpt": "Early Friday morning, Vice President Kamala Harris did something Joe Biden never did in his eight years as vice president -- cast a tie-breaking vote.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Wz-Iz1Zy3xE/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Wz-Iz1Zy3xE/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 345,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210205191617-harris-breaks-tie-screengrab-0205-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/06/politics/kamala-harris-senate-tie-breaking-vote/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/06/politics/kamala-harris-senate-tie-breaking-vote/index.html",
-      "publishedDateTime": "2021-02-06T06:58:27-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Kamala Harris"
       ]
     }
   ],

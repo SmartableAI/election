@@ -2,6 +2,62 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-01-19-biden-dni-nominee-haines-says-aim-should-be-to-out-compete-china.md",
+      "title": "Biden DNI nominee Haines says aim should be to 'out-compete China'",
+      "excerpt": "President-elect Joe Biden's nominee for Director of National Intelligence Avril Haines said, if confirmed, she would focus on providing intelligence to support efforts to \"out-compete China,\" while committing to doing more training to educate Americans on the country's malign foreign influence.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wE5mXGXtiuM/biden-director-national-intelligence-haines-china",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wE5mXGXtiuM/biden-director-national-intelligence-haines-china",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 315,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-director-national-intelligence-haines-china.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-director-national-intelligence-haines-china.amp",
+      "publishedDateTime": "2021-01-19T11:33:34-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-19-tiffany-trump-announces-engagement-to-michael-boulos-with-white-house-photo-hours-before-father-leaves-office.md",
       "title": "Tiffany Trump announces engagement to Michael Boulos with White House photo, hours before father leaves office",
       "excerpt": "President Trump's youngest daughter Tiffany Trump and her beau Michael Boulos announced their engagement with a photo taken at the White House on the president's last day in office.",
@@ -1597,62 +1653,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-campaign-bundlers-score-senior-wh-positions.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-campaign-bundlers-score-senior-wh-positions.amp",
       "publishedDateTime": "2021-01-12T17:01:54-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-rep-kevin-mccarthy-is-open-to-censuring-trump-source.md",
-      "title": "Rep. Kevin McCarthy is open to censuring Trump: source",
-      "excerpt": "House Minority Leader Kevin McCarthy is open to censuring President Trump, a source familiar with his thinking told Fox News Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TJ8hTccq63A/mccarthy-censuring-trump-capitol-riots",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TJ8hTccq63A/mccarthy-censuring-trump-capitol-riots",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 275,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/mccarthy-censuring-trump-capitol-riots.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccarthy-censuring-trump-capitol-riots.amp",
-      "publishedDateTime": "2021-01-12T16:24:22-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

@@ -63,22 +63,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Trial Day 3: Democrats to highlight Trump's 'lack of remorse' for Capitol riot"
-    excerpt: "House Democrats prosecuting Donald Trump's impeachment case intend to use the third day of the Senate trial to highlight what they cast as the former president's unabashed reaction to last month's deadly rampage at the Capitol."
-    publishedDateTime: 2021-02-11T16:08:00Z
-    webUrl: "https://thehill.com/homenews/senate/538413-trial-day-3-democrats-to-highlight-trumps-lack-of-remorse-for-capitol-riot"
-    ampWebUrl: "https://thehill.com/homenews/senate/538413-trial-day-3-democrats-to-highlight-trumps-lack-of-remorse-for-capitol-riot?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/538413-trial-day-3-democrats-to-highlight-trumps-lack-of-remorse-for-capitol-riot?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 121
-    images:
-      - url: "https://thehill.com/sites/default/files/senateimpeachmenttrialraskin_020921getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
   - title: "Trump impeachment trial live updates: Managers show new security footage of riot"
     excerpt: "Raskin warned that managers would present footage viewers may find disturbing. Trump impeachment trial: Day 2 key moments Former President Donald Trump's historic second impeachment trial is taking place in the Senate."
     publishedDateTime: 2021-02-11T02:05:00Z
@@ -143,22 +127,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Power Up: Trump spokesman says move to disqualify him from future office is 'dead on arrival'"
-    excerpt: "This is the Power Up newsletter. Thanks for waking up with us. IMPEACHMENT II: Former president Donald Trump won't be testifying in his second Senate impeachment trial starting today. But that doesn't mean Trump won't be tuning in to the proceedings as House impeachment managers argue he is “singularly responsible” for inciting the Jan."
-    publishedDateTime: 2021-02-09T16:22:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/02/09/power-up-trump-spokesman-says-move-disqualify-him-future-office-is-dead-arrival/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/02/09/power-up-trump-spokesman-says-move-disqualify-him-future-office-is-dead-arrival/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/02/09/power-up-trump-spokesman-says-move-disqualify-him-future-office-is-dead-arrival/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 114
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2CAUKOTKJII6XJTO4JYEN2PITA.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Trump impeachment trial live updates: Trump lawyer threatened to quit night before defense began"
     excerpt: "Trump himself had to call David Schoen to convince him to stay on the team. Trump impeachment trial: Day 4 key moments Former President Donald Trump's historic second impeachment trial is taking place in the Senate."
     publishedDateTime: 2021-02-13T08:26:00Z
@@ -191,22 +159,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Live impeachment updates: Trump team accuses Democrats of violating due process, threatening free speech"
-    excerpt: "Capitol riots that led to former President Donald Trump’s second impeachment trial, his lawyers took to the floor on Friday to defend him. So far Trump’s legal team, cobbled together less than a week before the Senate trial was set to begin,"
-    publishedDateTime: 2021-02-13T00:55:00Z
-    webUrl: "https://www.cnbc.com/2021/02/12/trump-impeachment-trial-live-updates-video-day-4.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/02/12/trump-impeachment-trial-live-updates-video-day-4.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/02/12/trump-impeachment-trial-live-updates-video-day-4.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 108
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106840137-16131550122021-02-12t183425z_1669069050_rc26rl96hbfp_rtrmadp_0_usa-trump-impeachment.jpeg?v=1613155084"
-        width: 993
-        height: 599
-        isCached: true
   - title: "Live impeachment updates: Prosecutors end arguments; Trump lawyer calls trial 'weaponization' of impeachment"
     excerpt: "House prosecutors ended their arguments in the impeachment trial of Donald Trump. The former president's legal team starts Friday."
     publishedDateTime: 2021-02-12T00:18:00Z
@@ -238,20 +190,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/02/11/USAT/45a947a2-e660-4eed-a658-2b1fa67886b2-AFP_92R6UW.jpg?auto=webp&crop=4964,2793,x0,y252&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Senate Reaches Deal to Skip Witnesses in Trump Impeachment Trial"
-    excerpt: "WASHINGTON — House Democrats began wrapping up their impeachment case against Donald Trump on Saturday after a chaotic morning in which they gave up a last-minute plan for witness testimony that could have significantly prolonged the trial and delayed a vote on whether the former president incited the deadly Capitol insurrection."
-    publishedDateTime: 2021-02-14T02:22:00Z
-    webUrl: "https://time.com/5939200/trump-impeachment-trial/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 105
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2021/02/Impeachment-Trial.jpg"
-        width: 2811
-        height: 1582
         isCached: true
   - title: "Trump impeachment trial: After emotional first day, opening arguments begin today in historic second Senate trial"
     excerpt: "Opening arguments will begin Wednesday in Donald Trump’s impeachment trial after an emotional first day that wrenched senators back to the Jan. 6 attack on the U.S. Capitol."

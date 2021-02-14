@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/pull-partisanship-helps-trump-es
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/pull-partisanship-helps-trump-escape-impeachment-conviction-analysis/story?id=75864271"
 type: article
 quality: 124
-heat: 204
+heat: 164
 published: true
 
 provider:
@@ -62,38 +62,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/7d3e06af8edce2c72744e22eed1328dd95be3b46/0_0_3500_2334/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7a954cf6bba0111e0635cae7cace422e"
         width: 600
         height: 400
-        isCached: true
-  - title: "Live updates: Senate must convict Trump to ensure no future president incites insurrection, Democrats say"
-    excerpt: "Day 3 of former President Donald Trump's second impeachment trial has begun. The Democratic impeachment managers will use up to eight hours to wrap up their case against the ex-pr"
-    publishedDateTime: 2021-02-11T18:45:00Z
-    webUrl: "https://www.cnbc.com/2021/02/11/trump-impeachment-trial-live-updates-day-3.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/02/11/trump-impeachment-trial-live-updates-day-3.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/02/11/trump-impeachment-trial-live-updates-day-3.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 108
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106839426-1613066740937-gettyimages-1231104598-brave_zvrabgh107.jpg?v=1613066758"
-        width: 1582
-        height: 1024
-        isCached: true
-  - title: "Senate Acquits Trump With Seven Republicans Joining All 50 Democrats in Voting ‘Guilty’"
-    excerpt: "Mitch McConnell spoke after the verdict to denounce Trump’s conduct while insisting his trial was unconstitutional."
-    publishedDateTime: 2021-02-14T02:38:00Z
-    webUrl: "https://nymag.com/intelligencer/2021/02/senate-acquits-trump-with-seven-republicans-defecting.html"
-    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/02/senate-acquits-trump-with-seven-republicans-defecting.html"
-    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/02/senate-acquits-trump-with-seven-republicans-defecting.html"
-    type: article
-    provider:
-      name: New York Magazine
-      domain: nymag.com
-    quality: 67
-    images:
-      - url: "https://pyxis.nymag.com/v1/imgs/4f7/742/f99a5a8f182f257ba6fe3100462802bb5d-impeachment-trial-verdict-screencap.1x.rsocial.w1200.jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "lrccXI6xIslGZ3k5FySeHCvEaBenkcalwtIU+by18xO0ygkemrLphg/lCZiC+9ho6AulMwc4/AVrzQMkuXQhCYo1pmt1Ly7zuja5QQoLHk2v+eAsVLscpVYqshapE+yRq2uy1roydGoyHg45yW/uDcMLIVISzwX9OhQczDsGnVcyIAxOYxUXGIS4C0u7q0aD6aUyLEsE3Fy+ysqKyHmkk6eCjBcAVz7qqOjURa0bK1ZY6uJMQpyRTH5K7rvimJx3u6WfVs+um243ov0wIauuaEbl27q4R4lGVAqYMEX5BdiWxDkvxqmXOeNhrb/Rc6Iq/RzKfhlAUZYqewyNE7i+amxNHuP2Zd5eYFWWZqMYvvs=;sTAWeICUiOUyqyhRBBrvTA=="

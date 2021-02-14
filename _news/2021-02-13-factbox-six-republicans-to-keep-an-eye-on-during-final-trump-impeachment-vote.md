@@ -47,54 +47,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "U.S. Senate acquits Trump as Republicans save him in impeachment again"
-    excerpt: "The U.S. Senate acquitted Donald Trump on Saturday of inciting the mob that stormed the Capitol last month, sparing him from conviction in his second impeachment trial in a year despite broad condemnation of his role in sparking the deadly siege."
-    publishedDateTime: 2021-02-14T02:51:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-idUSKBN2AD0AE"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AD0AE"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AD0AE"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210213&t=2&i=1551450590&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1C0JB"
-        width: 968
-        height: 545
-        isCached: true
-  - title: "Trump headed to swift acquittal after Democrats balk on impeachment witnesses"
-    excerpt: "The decision in the end to forego testimony all but ensured Trump’s acquittal without a full accounting of his actions on Jan. 6, revealing his continuing grip on the GOP and well as Democratic ambivalence over extending the trial."
-    publishedDateTime: 2021-02-13T20:41:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-acquitted-impeachment-riot/2021/02/13/dbf6b172-6e12-11eb-ba56-d7e2c8defa31_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-acquitted-impeachment-riot/2021/02/13/dbf6b172-6e12-11eb-ba56-d7e2c8defa31_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-acquitted-impeachment-riot/2021/02/13/dbf6b172-6e12-11eb-ba56-d7e2c8defa31_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 122
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JAIZYVDOG4I6XH4AHV3ENTQ3YA.jpg&w=1440"
-        width: 1106
-        height: 653
-        isCached: true
-  - title: "Parental warnings, harrowing footage: Takeaways from Trump's impeachment trial"
-    excerpt: "The U.S. Senate's impeachment trial gathered steam on Wednesday, with Democratic lawmakers laying out their evidence that former President Donald Trump incited an insurrection by exhorting thousands of supporters to march on the Capitol last month."
-    publishedDateTime: 2021-02-11T02:36:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-takeaways-factb-idUSKBN2AA2LY"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AA2LY"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AA2LY"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 121
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210211&t=2&i=1551118285&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH191SS"
-        width: 968
-        height: 545
-        isCached: true
   - title: "Democrats to focus on \"terrible toll\" of riot as Trump impeachment trial continues"
     excerpt: "Democrats making the case that Donald Trump should be convicted of inciting the siege at the U.S. Capitol will focus on Thursday on the damage wrought by the riot and the former president's role in inflaming the rampage."
     publishedDateTime: 2021-02-11T16:18:00Z
@@ -314,24 +266,6 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 86
-  - title: "Heinrich, Lujan Vote to Convict Trump in Impeachment Trial"
-    excerpt: "Former President Donald Trump’s second impeachment trial ended Saturday with an acquittal as both of New Mexico’s two Democratic senators voted in a majority that fell short of the two-thirds needed for conviction."
-    publishedDateTime: 2021-02-13T22:57:00Z
-    webUrl: "https://www.usnews.com/news/best-states/new-mexico/articles/2021-02-13/heinrich-lujan-vote-to-convict-trump-in-impeachment-trial"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
-  - title: "Nevada Senators Vote to Convict Trump in Impeachment Trial"
-    excerpt: "Former President Donald Trump’s second impeachment trial ended Saturday with an acquittal as both of Nevada’s two Democratic senators voted in a majority that fell short of the two-thirds needed for conviction."
-    publishedDateTime: 2021-02-13T22:57:00Z
-    webUrl: "https://www.usnews.com/news/best-states/nevada/articles/2021-02-13/nevada-senators-vote-to-convict-trump-in-impeachment-trial"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
 secured: "dgDgSw5QBnlo1bIRBGlOL7ILmuAjYBIoRuTJDMOu+OD5hNsrrZPNeG1sVrGuHgY6ckd1/HuXAyI9znSCEzzMUTOFgysXt3Ggik0vx4+OKv4ScmhRirHK0EsvwnSG+52GpfnkCbh3e2fJm5Mnr83vZH0CNvtQEKmhzz7wr9P/17KNfulCV/ApaRnWGlDrPmYWZ2tjowNuvt3w9WAQ/PgdoTeGlDP3aGuRPJJorPxFz9uYp7B6jWKU+m678DKnMqjnI3nsriJIxjKt1f7Vz1ADgnLw0/eaR5QeeAtzIpNemqEjIvUcWpRJEyEtJe+A+7aGQ0bZpY4lLEvriOhyrUfdtQUke7wEAkCx9DEsf7PdCC0=;G+qpTKzyZT4etQRcfVUh7Q=="
 ---

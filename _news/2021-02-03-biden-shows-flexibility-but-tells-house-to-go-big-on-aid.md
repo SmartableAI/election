@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/business/biden-yellen-say-gop-virus-a
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/biden-yellen-say-gop-virus-aid-too-small-democrats-push-on/2021/02/03/bddcc6da-65df-11eb-bab8-707f8769d785_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 525
+heat: 505
 published: true
 
 provider:
@@ -324,20 +324,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
-  - title: "Biden laser-focused on pushing his agenda as Senate starts impeachment trial"
-    excerpt: "The president has urged the Senate to walk and chew gum at the same time. Biden works to gain support for COVID-19 relief bill As the historic, second Senate impeachment trial of former President Donald Trump gets underway,"
-    publishedDateTime: 2021-02-10T01:27:00Z
-    webUrl: "https://abcnews.go.com/Politics/biden-laser-focused-pushing-agenda-senate-starts-impeachment/story?id=75776612"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 102
-    images:
-      - url: "https://s.abcnews.com/images/Politics/biden-harris-rt-rc-210209_1612901217476_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
 
 secured: "KZr0dizAZi9M/cYpLtTndmoVmDjSB/Ioxv8UtLRwTwrJGihNDEtWSORvLPPNs0EsGWa8y+r4r2fbW6DUAn6S61Zozj8Creg87EXU0XRLMzu510TXyrOX8eBk8trNJck0WroD/zx/LhPX9QewFux7yiGLQooMeUNMYeMRkOZc/aIZL97OlonIpt2ZRyAbhA1NFJQRowYJjcVzHLf7qOG/5XCLSgo3+QEC5hUu+aZPzkS5AyhASBppQS58W2THj9o8WHicmqqL3b9O7HFrlwd9yc0+Vjz2ghUUr/b7Iz4C2Pz4DCEqQpaszMgTnO6xvrhuWbYg55CIOXMwiyNQhPcnUrknMUOMC/C/EztIYag1bHQ=;aVCPpsasC+YPGcQt3Ywh9g=="
 ---

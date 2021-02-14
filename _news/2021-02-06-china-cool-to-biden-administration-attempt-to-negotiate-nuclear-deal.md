@@ -143,6 +143,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden issues statement on Trump impeachment acquittal: Substance of charge 'not in dispute'"
+    excerpt: "President Joe Biden issued a statement late Saturday, hours after the U.S. Senate voted to acquit former President Donald Trump on an article of impeachment for \"inciting an insurrection\" in connection with the Jan. 6 riot at the U.S. Capitol."
+    publishedDateTime: 2021-02-14T03:50:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tOGnFk_ARrg/biden-issues-statement-on-trump-impeachment-acquittal-substance-of-charge-not-in-dispute"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-issues-statement-on-trump-impeachment-acquittal-substance-of-charge-not-in-dispute.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-issues-statement-on-trump-impeachment-acquittal-substance-of-charge-not-in-dispute.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 180
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/071f1d37-4a3e-4737-9116-daa4093f0f0b/045aa0b1-e137-4f38-b83e-3887abc19c69/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Law professor who made Barron Trump joke during Ukraine impeachment hearing gets Biden DOJ gig"
     excerpt: "A former Stanford law professor who poked fun at Barron Trump's name during a 2019 House impeachment hearing now has a job with President Biden's Department of Justice."
     publishedDateTime: 2021-02-08T13:33:07Z

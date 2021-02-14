@@ -159,6 +159,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "WH aide TJ Ducklo resigns after demeaning reporter despite Biden's warning of firing"
+    excerpt: "Deputy White House press secretary TJ Ducklo on Saturday said he was resigning amid allegations that he made \"derogatory and misogynistic\" remarks to Politico reporter Tara Palmeri nearly a month ago."
+    publishedDateTime: 2021-02-14T00:45:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mMZYWfptJVQ/wh-aide-tj-ducklo-resigns-after-allegedly-demeaning-reporter-despite-bidens-warning-of-firing"
+    ampWebUrl: "https://www.foxnews.com/politics/wh-aide-tj-ducklo-resigns-after-allegedly-demeaning-reporter-despite-bidens-warning-of-firing.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/wh-aide-tj-ducklo-resigns-after-allegedly-demeaning-reporter-despite-bidens-warning-of-firing.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Tj-Ducklo-Tara-Palmeri.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden officials believe China to be 'greatest long-term national security threat' to the US, McCaul says"
     excerpt: "President Biden’s Secretary of State Tony Blinken and White House national security adviser Jake Sullivan believe that China poses the \"greatest long-term national security threat to the United States,\" Republican Rep. Michael McCaul told Fox News after speaking with the officials, but McCaul said they"
     publishedDateTime: 2021-02-08T13:55:08Z

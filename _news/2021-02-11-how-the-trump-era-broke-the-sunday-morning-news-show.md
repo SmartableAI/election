@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Donald Trump’s Impeachment Legacy: Violent Extremism"
+    excerpt: "Whether or not Mr. Trump is convicted, the extremism that flourished under his administration is embedded in our politics."
+    publishedDateTime: 2021-02-13T10:00:00Z
+    webUrl: "https://www.nytimes.com/2021/02/13/us/politics/donald-trump-impeachment.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/13/us/politics/donald-trump-impeachment.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/13/us/politics/donald-trump-impeachment.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/13/multimedia/13onpolitics/13onpolitics-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "In Georgia, a New District Attorney Starts Circling Trump and His Allies"
     excerpt: "Fani Willis has opened a criminal investigation into efforts by the Trump camp to overturn the former president’s loss in Georgia. In an interview, Ms. Willis described a wide-ranging inquiry."
     publishedDateTime: 2021-02-13T10:00:00Z

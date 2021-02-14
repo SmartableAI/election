@@ -2,11 +2,11 @@
 category: news
 title: "After not-guilty vote, McConnell says Trump 'morally responsible' for Capitol riot"
 excerpt: "U.S. Senate Minority Leader Mitch McConnell called Donald Trump \"practically and morally responsible\" for his supporters' deadly attack on the Capitol, only moments after voting to acquit the Republican former president on an impeachment charge of inciting the melee."
-publishedDateTime: 2021-02-14T02:57:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-republicans-idUSKBN2AD0OG"
-webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-republicans-idUSKBN2AD0OG"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AD0OG"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AD0OG"
+publishedDateTime: 2021-02-14T04:43:00Z
+originalUrl: "https://www.reuters.com/article/uk-usa-trump-impeachment-republicans-idUKKBN2AD0P3"
+webUrl: "https://www.reuters.com/article/uk-usa-trump-impeachment-republicans-idUKKBN2AD0P3"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2AD0P3"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2AD0P3"
 type: article
 quality: 119
 heat: -1
@@ -25,8 +25,8 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210213&t=2&i=1551455575&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1C0LN"
-    width: 817
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210213&t=2&i=1551455565&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1C0K3"
+    width: 875
     height: 545
     isCached: true
 
@@ -121,6 +121,6 @@ related:
       domain: usnews.com
     quality: 12
 
-secured: "QnTJ+KSPPGwtlqGf9mc9nmEiOjD8rcyZEEHKms2fIEOGABUlJseLdVY8RynW6rBHUqjqnfUwucjlhcmFRl2G4xmzWawRKmhKlBOKdF3Fp9njbILY75h/YXs6OMqhRWtVUCoHxSl/Y2mNCRt1Aqh1WPSthcAbM81bw9ifPtb4/PrGh8ps9dP79ab8eYf/QZDAIqFxbNUjXaPidLKocoI1lGHaoOVd0OXZy7nmK/BPTuaDf7Eqz6mB3Sgj3IAceFiJD2UJh59fkCEIrQYJ1xwEj6SFuCJXqJv+nIcee0gxk6fwT7XgqEOWNyh8E9QS6XNXDZiEBgSd4L9B8JpgtUSvDsrF0pEvNaxcNZ2s3RAMt80=;i/2MefI6aIFDDJzNwFwcNg=="
+secured: "5xdw2Px1oc1XWeDt56P2gkvgC9KxcEysVdWxaW6Z15cOMrb3ElTiHmPqQSPKTTcAvyYCGE6c4XgyIY8rdk+0k/cNg2V5EL68PSC1QpfLWceHQk4+FLPB+KLojj+aQI5kAhFXhYTdfOvV5lCwZldtOrMxC/e0q3VDj9d6cE+8owqKgJEl9X1RwWkatNZmg+SGvC+MgfRghZ9N+UB13yOc/hIk39eVIe98XAh2joui7DCTlMtDoaQ0vzRfZ6t508G2er+bie/FoqQ0ozWhI8XiuZdvdGPXt/hLwc+GU/amhdkYONxNLdr8hg14F1MycYzdkc2Wqlgt2ZPplkx3UAoXsEb7ctuNAwfppR6wP+iKBbM=;BPeDgD60sdz0taADSUnViw=="
 ---
 

@@ -47,22 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "The Point: 5 takeaways from Day 4 of Donald Trump's impeachment trial"
-    excerpt: "After two days of House impeachment managers making their case for the conviction of Donald Trump on a charge of incitement, the former President's legal team got its chance on Friday.\n    \n"
-    publishedDateTime: 2021-02-12T21:11:58Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jLivcB9UCgM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/12/politics/donald-trump-impeachment-senate-trial/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/12/politics/donald-trump-impeachment-senate-trial/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210210174202-02-impeachment-2021-sketch-0210-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Trump Isn’t the Only One on Trial. The Conservative Media Is, Too."
     excerpt: "The former president’s second impeachment trial begins oral arguments tomorrow. But conservative media organizations face an even more consequential test in the weeks and months ahead."
     publishedDateTime: 2021-02-09T00:39:00Z

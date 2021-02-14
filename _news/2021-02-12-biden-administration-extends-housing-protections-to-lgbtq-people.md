@@ -62,22 +62,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden says he's anxious to see what Republicans do in impeachment trial"
-    excerpt: "President Joe Biden told CNN Friday he is \"anxious\" to see how Senate Republicans will vote in the impeachment trial and whether they will \"stand up.\"\n    \n"
-    publishedDateTime: 2021-02-12T14:27:39Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VJ9lu9dZ0RM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/12/politics/biden-impeachment-trial/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/12/politics/biden-impeachment-trial/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210212084720-01-joe-biden-0211-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden speaks with Chinese President Xi Jinping for first time as President"
     excerpt: "President Joe Biden spoke with China's President Xi Jinping late Wednesday, according to a senior administration official, their first call since Biden took office.\n    \n"
     publishedDateTime: 2021-02-11T02:39:57Z
@@ -222,6 +206,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "How Joe Biden's Cabinet picks are making history"
+    excerpt: "Being nominated to serve in a presidential Cabinet is, obviously, a huge honor. It's also been decidedly perilous in recent years."
+    publishedDateTime: 2021-02-11T15:11:00Z
+    webUrl: "https://www.cnn.com/2021/02/11/politics/biden-cabinet-nominations-approval/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/11/politics/biden-cabinet-nominations-approval/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/11/politics/biden-cabinet-nominations-approval/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210127133810-20210128-biden-interactive-cabinet-tracker-card-image-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "North Carolina man charged with threatening to kill President Biden"
     excerpt: "A North Carolina man has been charged with making threats to kill President Joe Biden, according to a federal criminal complaint unsealed in court Thursday."
     publishedDateTime: 2021-02-11T22:51:00Z
@@ -253,22 +253,6 @@ related:
       - url: "https://static01.nyt.com/images/2021/02/11/world/11virus-briefing-vaccine-doses/11virus-briefing-vaccine-doses-facebookJumbo.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "Biden on impact of impeachment trial videos: 'Some minds may have been changed'"
-    excerpt: "When asked about former President Donald Trump's Senate impeachment trial, President Joe Biden said that he was focused on \"jobs and infrastructure,\" but he guessed that \"some minds may have been changed\" after seeing the videos that were presented by the House managers yesterday."
-    publishedDateTime: 2021-02-11T16:32:00Z
-    webUrl: "https://www.nbcnews.com/video/biden-on-impact-of-impeachment-trial-videos-some-minds-may-have-been-changed-100864069658"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo100864069658"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo100864069658"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 131
-    images:
-      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202102/f_mo_biden_impeachment_210211.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Biden's meeting with CEOs focused on equalizing economic recovery, skills training, wage gap"
     excerpt: "President Joe Biden met with the heads of some of America's biggest companies on Tuesday as part of his push for a $1.9 trillion economic relief package. The Oval Office meeting included Vice President Kamala Harris and Treasury Secretary Janet Yellen,"

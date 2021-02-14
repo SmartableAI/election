@@ -47,54 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump's second impeachment trial begins Tuesday"
-    excerpt: "The second impeachment trial of former President Donald Trump begins in the Senate on Tuesday, where senators will be confronted with the violent events of the January 6 riots and whether Trump is culpable for inciting the insurrectionists that attacked the Capitol and placed their lives in danger.\n"
-    publishedDateTime: 2021-02-09T11:53:06Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1VKObfEVhz8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/09/politics/senate-impeachment-trial-day-1/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/09/politics/senate-impeachment-trial-day-1/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210205103300-102-trump-january-6-rally-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "What we know about how Trump's second impeachment trial will go"
-    excerpt: "When former President Donald Trump's second impeachment trial kicks off Tuesday afternoon, Americans will relive -- through the eyes of the senators sitting in judgment of his actions -- the assault on the Capitol we all witnessed in real time just a little more than a month ago.\n    \n"
-    publishedDateTime: 2021-02-09T01:47:19Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZK_l-NEY-ho/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/08/politics/impeachment-trial-schedule-what-matters/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/08/politics/impeachment-trial-schedule-what-matters/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210208091309-us-capitol-0208-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Horrific mob scenes dominate Trump's impeachment trial"
-    excerpt: "Chilling video evidence on the first day of Donald Trump's second impeachment trial, showing his frenzied supporters smashing their way into the US Capitol, revived a national trauma.\n    \n"
-    publishedDateTime: 2021-02-10T11:55:14Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9dLwUucDhJM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/10/politics/donald-trump-impeachment-trial-congress-lawyers/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/10/politics/donald-trump-impeachment-trial-congress-lawyers/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210209153322-12-impeachment-2021-managers-0209-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Trump unhappy with his impeachment attorney's performance, sources say"
     excerpt: "Former President Donald Trump was unhappy with his impeachment lawyer Bruce Castor's opening argument on the Senate floor Tuesday, two people familiar with his reaction told CNN.\n    \n"
     publishedDateTime: 2021-02-10T00:44:38Z
@@ -175,22 +127,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump impeachment defense team scrambling to make new videos to bolster case"
-    excerpt: "President Donald Trump's legal team is scrambling to collect and produce more videos to bolster their impeachment trial arguments after a rambling debut performance that enraged the former president and dismayed Republicans, according to a person familiar with the discussions.\n    \n"
-    publishedDateTime: 2021-02-10T16:20:38Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ukB1WApEg2A/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/10/politics/trump-impeachment-defense/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/10/politics/trump-impeachment-defense/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 172
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170410121034-trump-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "House impeachment managers request former President Trump's testimony at trial"
     excerpt: "The House impeachment managers are seeking former President Donald Trump's testimony before or during his Senate impeachment trial, making the request in a letter Wednesday that raises the stakes of the trial scheduled to begin next week.\n    \n"
     publishedDateTime: 2021-02-04T18:57:13Z
@@ -204,22 +140,6 @@ related:
     quality: 171
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210202104727-01-trump-file-2020-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "What is 'incitement' -- and what does it mean for Trump's impeachment defense?"
-    excerpt: "The allegation of \"incitement\" is central to the impeachment case House Democrats are making against former President Donald Trump because it ties his words and actions to the January 6 insurrection on Capitol Hill.\n    \n"
-    publishedDateTime: 2021-02-11T17:05:07Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IOsOx2p7iAE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/11/politics/what-is-incitement-definition/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/11/politics/what-is-incitement-definition/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 171
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106122842-01-trump-speaks-dc-protest-0106-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -367,22 +287,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Schumer's office says it will accommodate Trump attorney request to delay impeachment trial during Sabbath"
-    excerpt: "Senate Majority Leader Chuck Schumer's office said the Senate will accommodate a request from one of former President Donald Trump's impeachment attorneys to halt Trump's impeachment trial during the Jewish Sabbath.\n    \n"
-    publishedDateTime: 2021-02-07T03:57:05Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gtclVhlE9GY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/06/politics/trump-impeachment-lawyer-pause-trial-for-jewish-sabbath/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/06/politics/trump-impeachment-lawyer-pause-trial-for-jewish-sabbath/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 157
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210205121011-07-chuck-schumer-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "House Republicans who backed impeaching Trump have no regrets as Senate GOP reckons with former President's role"
     excerpt: "They've faced sharp backlash from former President Donald Trump and his supporters and been censured by their state parties, all the while facing new threats of primary challenges from the right.\n    \n"
     publishedDateTime: 2021-02-09T02:01:48Z
@@ -431,102 +335,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Read: Former President Donald Trump's defense team's legal brief"
-    excerpt: "In a pretrial brief ahead of former President Donald Trump's impeachment trial in the Senate, Trump's legal team accused House Democrats of engaging in \"political theater\" and argued that the upcoming trial is unconstitutional because Trump is no longer president."
-    publishedDateTime: 2021-02-08T11:30:00Z
-    webUrl: "https://www.cnn.com/2021/02/08/politics/trump-defense-team-impeachment-brief/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/08/politics/trump-defense-team-impeachment-brief/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/08/politics/trump-defense-team-impeachment-brief/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 135
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210202104727-01-trump-file-2020-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Denying Incitement, Trump Impeachment Team Says He Cannot Be Tried"
-    excerpt: "The lengthy legal brief provided the first extended defense of former President Donald J. Trump’s conduct since the Jan. 6 assault on the Capitol. It arrived as senators locked in rules for an exceedingly fast trial."
-    publishedDateTime: 2021-02-09T01:15:00Z
-    webUrl: "https://www.nytimes.com/2021/02/08/us/politics/trump-impeachment-legal-brief.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/08/us/politics/trump-impeachment-legal-brief.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/08/us/politics/trump-impeachment-legal-brief.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/02/08/us/politics/08dc-impeach1/08dc-impeach1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Watch live: Donald Trump impeachment trial in Senate"
-    excerpt: "Watch live coverage of former President Donald Trump's impeachment trial as the Senate considers whether he can be held responsible for the Capitol riots."
-    publishedDateTime: 2021-02-08T21:46:00Z
-    webUrl: "https://www.nbcnews.com/video/watch-live-donald-trump-impeachment-trial-in-senate-100601925692"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo100601925692"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo100601925692"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202102/210205-impeachment-livestream-16x9-cs.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Fact checking second Senate impeachment trial of Donald Trump Day One"
-    excerpt: "The debate at Donald Trump’s second Senate impeachment trial centered around the constitutionality of trying a president for impeachment after leaving office. NBC News’ Jane Time separates fact from fiction."
-    publishedDateTime: 2021-02-10T02:56:00Z
-    webUrl: "https://www.nbcnews.com/now/video/fact-checking-second-senate-impeachment-trial-of-donald-trump-day-one-100779077891"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo100779077891"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo100779077891"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202102/1612925665829_ott_now_fc_timm_impeach_210209_1920x1080.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Trump's second impeachment trial: Day 1"
-    excerpt: "The second impeachment trial of former President Trump has just begun in the Senate. Senators will vote shortly on the rules agreed upon by leadership to govern the trial. Trump is the only US President to have ever been impeached twice."
-    publishedDateTime: 2021-02-09T17:12:00Z
-    webUrl: "https://www.cnn.com/politics/live-news/trump-impeachment-trial-02-09-2021/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/politics/live-news/trump-impeachment-trial-02-09-2021/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/politics/live-news/trump-impeachment-trial-02-09-2021/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 135
-    images:
-      - url: "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_900,h_506/95938029-2cc8-4a98-86cf-2cea1f699e6c.jpg"
-        width: 900
-        height: 506
-        isCached: true
-  - title: "Trump's second impeachment trial: Day 2"
-    excerpt: "The House impeachment managers present their case against former President Trump in the second day of the Senate trial. Follow here for the latest."
-    publishedDateTime: 2021-02-10T14:53:00Z
-    webUrl: "https://www.cnn.com/politics/live-news/trump-impeachment-trial-02-10-2021/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/politics/live-news/trump-impeachment-trial-02-10-2021/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/politics/live-news/trump-impeachment-trial-02-10-2021/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 135
-    images:
-      - url: "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_900,h_506/40b7fbac-3fa3-4611-ba0d-e766e49876b6.jpg"
-        width: 900
-        height: 506
-        isCached: true
   - title: "House Lays Out Case Against Trump, Branding Him the ‘Inciter in Chief’"
     excerpt: "The Democratic House impeachment managers opened their case against the former president with a narrative of his monthslong effort to overturn the election and raw footage of the Jan. 6 Capitol attack."
     publishedDateTime: 2021-02-11T01:25:00Z
@@ -542,22 +350,6 @@ related:
       - url: "https://static01.nyt.com/images/2021/02/10/us/10DC-IMPEACH/10DC-IMPEACH-facebookJumbo.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "Trump's second impeachment trial: Day 3"
-    excerpt: "The House impeachment managers will continue to present their case today against former President Trump. Follow here for the latest."
-    publishedDateTime: 2021-02-11T14:52:00Z
-    webUrl: "https://www.cnn.com/politics/live-news/trump-impeachment-trial-02-11-2021/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/politics/live-news/trump-impeachment-trial-02-11-2021/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/politics/live-news/trump-impeachment-trial-02-11-2021/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 135
-    images:
-      - url: "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_900,h_506/20fd9411-8528-4211-9103-b2889c8272d9.jpg"
-        width: 900
-        height: 506
         isCached: true
   - title: "Impeachment Updates: New Chilling Video Expected as Trump’s Trial Begins"
     excerpt: "Each side has up to 16 hours over two days to make their cases for and against former President Donald J. Trump. The House impeachment managers, who are acting as prosecutors, will go first, followed by Mr."
@@ -607,38 +399,6 @@ related:
         width: 1050
         height: 549
         isCached: true
-  - title: "Trump impeachment live updates: Democrats deliver arguments in Senate trial"
-    excerpt: "House Democrats are set to begin arguments on Wednesday in the second impeachment trial of former President Donald Trump, the only president in U.S. history to face impeachment twice. The Senate voted to proceed with the trial on Tuesday after hearing around four hours of debate around the constitutionality of impeaching a former official."
-    publishedDateTime: 2021-02-10T11:03:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/live-blog/trump-impeachment-live-updates-democrats-deliver-arguments-senate-trial-n1256974"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1256974"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1256974"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 133
-    images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2021_05/3448058/210205-impeachment-live-blog-main-cover-cs_8dc2fda2a14bcda357e69a3eef869efb.jpg"
-        width: 2500
-        height: 1250
-        isCached: true
-  - title: "Trump's second impeachment trial is underway and the verdict is already in"
-    excerpt: "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter."
-    publishedDateTime: 2021-02-10T14:12:00Z
-    webUrl: "https://www.nbcnews.com/politics/meet-the-press/trump-s-second-impeachment-trial-underway-verdict-already-n1257254"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1257254"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1257254"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 133
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2021_06/3449014/210210-bill-cassidy-al-0809_e584bab88807c642ce6589d2ae28d5d4.jpg"
-        width: 2500
-        height: 1666
-        isCached: true
   - title: "The First Trial Seemed Abstract. This One Is a Visceral Reckoning Over Trump."
     excerpt: "At issue will be many aspects that defined Donald Trump’s presidency: his relentless assaults on truth, his fomenting of divisions, his shattering of norms and his undermining of an election."
     publishedDateTime: 2021-02-10T01:26:00Z
@@ -654,22 +414,6 @@ related:
       - url: "https://static01.nyt.com/images/2021/02/09/us/politics/09dc-assess1/09dc-assess1-facebookJumbo.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "Trump impeachment trial live updates: Impeachment managers deliver arguments"
-    excerpt: "House Democrats will launch into their second full day of arguments Thursday in the impeachment trial of former President Donald Trump after presenting senators with jarring footage of the Capitol riot."
-    publishedDateTime: 2021-02-11T11:04:00Z
-    webUrl: "https://www.nbcnews.com/politics/congress/live-blog/2021-02-11-trump-impeachment-trial-live-updates-n1257308"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1257308"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1257308"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 132
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2021_06/3449142/210210-impeachment-live-blog-main-cover-cs_08392ad9f0758c11eb5656fe0d5aa66b.jpg"
-        width: 2500
-        height: 1250
         isCached: true
   - title: "Live Updates: Impeachment Managers Call Trump ‘Singularly Responsible’ for Riot"
     excerpt: "The nine House impeachment managers presented their case against former President Donald J. Trump in a filing. Mr. Trump has a noon deadline to outline his defense. President Biden will sign executive orders on immigration."
@@ -703,38 +447,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "John Dean on Trump's 2nd impeachment: Nixon's offenses didn't threaten democracy"
-    excerpt: "Anderson Cooper discusses the historic second impeachment trial of Donald Trump with Watergate whistleblower John Dean and how President Trump is likely to be viewed historically."
-    publishedDateTime: 2021-02-09T00:16:00Z
-    webUrl: "https://www.cnn.com/videos/us/2021/02/08/john-dean-trump-second-impeachment-sot-acfc-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/us/2021/02/08/john-dean-trump-second-impeachment-sot-acfc-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/us/2021/02/08/john-dean-trump-second-impeachment-sot-acfc-vpx.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 130
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210208164406-desktop-john-dean-acfc-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "'Harsh reminder': Key takeaways from Day Two of Trump's second impeachment trial"
-    excerpt: "Democratic impeachment managers used Trump's past words to make him a constant presence as they played raw video of the Jan. 6 attack."
-    publishedDateTime: 2021-02-11T03:32:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/harsh-reminder-key-takeaways-day-two-trump-s-second-impeachment-n1257347"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1257347"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1257347"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 130
-    images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2021_06/3449251/210210-takeaways-capitol-riot-ew-715p_1fe7f7a91d0c072dd5dadcc38b6edac2.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "Trump Impeachment Trial Live Updates: Final Day of Arguments for the Prosecution"
     excerpt: "The Democrats have about eight hours left to make their case for convicting former President Donald J. Trump. House managers are urging the Senate to hold Mr. Trump to a higher standard, not a legal definition of incitement."
     publishedDateTime: 2021-02-11T08:27:00Z
@@ -766,22 +478,6 @@ related:
       - url: "https://static01.nyt.com/images/2021/02/11/us/politics/11dc-impeach1/11dc-impeach1-facebookJumbo.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "'Damage' control: Key takeaways from Day Three of Trump's second impeachment trial"
-    excerpt: "Republican senators — and even one of Trump's attorneys — seemed to tune the proceedings out. Impeachment managers rested their case on the third day of Trump's trial. Trump's attorneys will offer his defense Friday."
-    publishedDateTime: 2021-02-11T23:41:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/damage-control-key-takeaways-day-three-trump-s-second-impeachment-n1257512"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1257512"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1257512"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 129
-    images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2021_06/3449503/210211-ONE-TIME-USE-jamie-raskin-ew-514p_a69b0dba058be60afe7fd6d3dcc7d90b.jpg"
-        width: 2500
-        height: 1667
         isCached: true
   - title: "Trump, Senate Republicans, no chief justice: What to know about the impeachment trial"
     excerpt: "Which Republicans could vote to convict and what we'll hear from Trump are two key questions as the trial begins."
@@ -831,22 +527,6 @@ related:
         width: 1050
         height: 549
         isCached: true
-  - title: "Trump's second impeachment trial, Democrats embrace big spending and saying goodbye to a Supreme trailblazer"
-    excerpt: "There is evidence that Covid-19 may have emerged outside of Wuhan, China, WHO team says after long-awaited fact-finding mission."
-    publishedDateTime: 2021-02-09T14:43:00Z
-    webUrl: "https://www.nbcnews.com/news/morning-briefing/trump-s-second-impeachment-trial-democrats-embrace-big-spending-saying-n1257127"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1257127"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1257127"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 116
-    images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2021_06/3448692/210209-impeachment-mc-1146_31329143d6a8b3ce563beb58e6ca970a.JPG"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "Greene admits 9/11 ‘happened,’ Dems seek Trump under oath"
     excerpt: "JAMIE RASKIN (D-Md.), the lead House impeachment manager, sent a letter to former President DONALD TRUMP “requesting that he provide testimony under oath, either before or during the Senate impeachment trial,"
     publishedDateTime: 2021-02-04T18:23:00Z
@@ -860,34 +540,6 @@ related:
       - url: "https://static.politico.com/b0/2f/26b3ac3a4fda823db3ce22fa28ce/210204-greene-ap-773.jpg"
         width: 1160
         height: 773
-        isCached: true
-  - title: "Democrats' big shift in Trump's second impeachment"
-    excerpt: "Democrats made a push for witnesses central to President Donald Trump’s first impeachment trial. But not this time. Senate Democrats are making it clear they’re taking a different approach than they did for Trump’s infamous Ukraine call."
-    publishedDateTime: 2021-02-07T12:06:00Z
-    webUrl: "https://www.politico.com/news/2021/02/07/democrats-trump-second-impeachment-466152"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/35/62/ec905c2e47ddb53142efc00f6531/ap21021750258411.png"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Live updates: Trump impeachment trial"
-    excerpt: "Donald Trump is staring down the threat of being barred from public office as the Senate embarks on an unprecedented second impeachment trial for the former president. Trump’s l"
-    publishedDateTime: 2021-02-09T14:28:00Z
-    webUrl: "https://www.politico.com/live-news-updates/2021/02/09/trump-impeachment-trial-live-updates-online-coverage-highlights-210209"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
         isCached: true
   - title: "Trump's defense team prepares for a redo"
     excerpt: "Donald Trump’s defense team is waiting for another chance after their first presentation flopped, making public assurances that their arguments will be more organized. But they have some ground to cover after Republican senators described being “disgusted” upon seeing horrific new video footage on Wednesday."
@@ -916,20 +568,6 @@ related:
       - url: "https://static01.nyt.com/images/2021/02/11/us/politics/11impeachment-briefing-new-lede2/11impeachment-briefing-new-lede2-facebookJumbo.jpg?video-overlay"
         width: 1050
         height: 549
-        isCached: true
-  - title: "Trump's impeachment legal defense will wrap up its case Friday"
-    excerpt: "That means Trump’s defense team will use just one day to defend the former president, who has been impeached for inciting an insurrection."
-    publishedDateTime: 2021-02-11T18:45:00Z
-    webUrl: "https://www.politico.com/news/2021/02/11/trump-impeachment-defense-friday-468694"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/c7/25/97e209f54a13bcf4f1eaf9e5919b/210211-castor-impeachment-getty-773.jpg"
-        width: 1160
-        height: 773
         isCached: true
   - title: "Impeachment managers directly blame ‘inciter-in-chief' Trump for Capitol attack"
     excerpt: "Prosecutors also will show never-before-seen footage of the chaos during the first day of formal arguments in Trump's second trial."

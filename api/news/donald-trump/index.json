@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-14-biden-reflecting-on-senate-acquittal-of-trump-says-democracy-is-fragile.md",
+      "title": "Biden, reflecting on Senate acquittal of Trump, says 'democracy is fragile'",
+      "excerpt": "U.S. President Joe Biden said on Saturday that the Senate's acquittal of former President Donald Trump for inciting an insurrection was a reminder that democracy was fragile, and every American had a duty to defend the truth.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-trump-impeachment-biden/biden-reflecting-on-senate-acquittal-of-trump-says-democracy-is-fragile-idUSKBN2AE030",
+      "originalUrl": "https://www.reuters.com/article/us-usa-trump-impeachment-biden/biden-reflecting-on-senate-acquittal-of-trump-says-democracy-is-fragile-idUSKBN2AE030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 718,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210214&t=2&i=1551470848&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1D02W",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2AE030",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AE030",
+      "publishedDateTime": "2021-02-13T20:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-14-the-disgraceful-acquittal-of-donald-trump.md",
       "title": "The ‘Disgraceful Acquittal’ of Donald Trump",
       "excerpt": "A sad, sad day for democracy,” one reader writes. “It was craven cowardice for Republicans to put Mr. Trump before country,” writes another.",
@@ -67,7 +119,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/pull-partisanship-helps-trump-escape-impeachment-conviction-analysis/story?id=75864271",
       "featuredContent": null,
       "highlight": null,
-      "heat": 204,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -91,6 +143,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-14-donald-trump-says-new-maga-plans-to-come-in-months-ahead-after-senate-impeachment-acquittal.md",
+      "title": "Donald Trump Says New MAGA Plans to Come in 'Months Ahead' After Senate Impeachment Acquittal",
+      "excerpt": "After the vote, Trump thanked the senators or the acquittal, railed against Democrats, and vowed to continue his MAGA movement this year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/donald-trump-says-new-maga-plans-come-months-ahead-after-senate-impeachment-acquittal-1569151",
+      "originalUrl": "https://www.newsweek.com/donald-trump-says-new-maga-plans-come-months-ahead-after-senate-impeachment-acquittal-1569151",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1734691/donald-trump-trial.jpg",
+          "width": 1024,
+          "height": 559,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/donald-trump-says-new-maga-plans-come-months-ahead-after-senate-impeachment-acquittal-1569151?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-says-new-maga-plans-come-months-ahead-after-senate-impeachment-acquittal-1569151?amp=1",
+      "publishedDateTime": "2021-02-13T13:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -319,9 +423,9 @@
       ]
     },
     {
-      "path": "_news/2021-02-13-trumps-impeachment-defense-team-rests-arguing-his-words-before-riot-were-ordinary-political-rhetoric.md",
-      "title": "Trump's impeachment defense team rests, arguing his words before riot were 'ordinary political rhetoric'",
-      "excerpt": "Trump's impeachment defense team argues his words before riot were 'ordinary political rhetoric' A final vote on whether to convict the ex-president for inciting the Capitol riot could happen this weekend.",
+      "path": "_news/2021-02-13-trumps-impeachment-defense-team-argues-his-words-before-riot-were-ordinary-political-rhetoric.md",
+      "title": "Trump's impeachment defense team argues his words before riot were 'ordinary political rhetoric'",
+      "excerpt": "Lawyers for former President Donald Trump’s kicked off their defense Friday with a forceful rebuke of the case made by Democratic House impeachment managers, calling it an act of \"political vengeance\" and alleging that Trump's speech preceding the Capitol riot was merely \"ordinary political rhetoric.",
       "sourceUrl": null,
       "webUrl": "https://www.nbcnews.com/politics/donald-trump/trump-defense-present-case-senate-impeachment-trial-n1257601",
       "originalUrl": "https://www.nbcnews.com/politics/donald-trump/trump-defense-present-case-senate-impeachment-trial-n1257601",
@@ -331,11 +435,11 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 118,
+      "heat": 142,
       "tags": null,
       "images": [
         {
-          "url": "https://media3.s-nbcnews.com/i/newscms/2021_06/3449634/210212-donald-trump-mn-0730_10c3f8b8018c1bcd5ca03624e410509d.jpg",
+          "url": "https://media2.s-nbcnews.com/i/newscms/2021_06/3449634/210212-donald-trump-mn-0730_1766caa6ab5712ca048af6133531a753.jpg",
           "width": 2500,
           "height": 1667,
           "title": null,
@@ -347,7 +451,7 @@
       "type": "article",
       "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1257601",
       "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1257601",
-      "publishedDateTime": "2021-02-12T13:34:00-08:00",
+      "publishedDateTime": "2021-02-12T10:50:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "NBC News",
@@ -545,7 +649,7 @@
       "originalUrl": "https://www.washingtonpost.com/lifestyle/style/trump-derangement-syndrome-impeachment/2021/02/11/a6ffa7b6-6ca6-11eb-9ead-673168d5b874_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -815,7 +919,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/feb/11/trump-impeachment-trial-democrats-senate",
       "featuredContent": null,
       "highlight": null,
-      "heat": 525,
+      "heat": 425,
       "tags": null,
       "images": [
         {
@@ -1483,110 +1587,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-trial-highlights-history-lessons-trump-tweets-and-more.md",
-      "title": "Trial highlights: history lessons, Trump tweets and more",
-      "excerpt": "Donald Trump will stand trial for impeachment after the Senate rejected arguments from the former president’s lawyers that the chamber cannot move forward because he is no longer in office",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/trial-highlights-history-lessons-trump-tweets-75789773",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/trial-highlights-history-lessons-trump-tweets-75789773",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 485,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_bb4aff58ec284468b4b027215e10659d_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/trial-highlights-history-lessons-trump-tweets-75789773",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trial-highlights-history-lessons-trump-tweets-75789773",
-      "publishedDateTime": "2021-02-09T16:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-blinken-stops-short-of-endorsing-trump-recognition-of-golan-heights-as-israel.md",
-      "title": "Blinken stops short of endorsing Trump recognition of Golan Heights as Israel",
-      "excerpt": "U.S. Secretary of State Antony Blinken on Monday stopped short of endorsing the Trump administration's recognition of the occupied Golan Heights as part of Israel, instead noting that the territory was important for Israel's security.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-israel-blinken/blinken-stops-short-of-endorsing-trump-recognition-of-golan-heights-as-israel-idUSKBN2A82N5?edition-redirect=uk",
-      "originalUrl": "https://www.reuters.com/article/us-usa-israel-blinken/blinken-stops-short-of-endorsing-trump-recognition-of-golan-heights-as-israel-idUSKBN2A82N5?edition-redirect=uk",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210209&t=2&i=1550814646&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH171OU",
-          "width": 794,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2A82N5",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A82N5",
-      "publishedDateTime": "2021-02-08T20:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

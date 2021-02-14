@@ -79,54 +79,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Senate votes 57-43 for Trump acquittal"
-    excerpt: "Senate Republicans handed former President Trump his second impeachment acquittal on Saturday, clearing him of charges that he incited the mob that attacked the Capitol on Jan. 6."
-    publishedDateTime: 2021-02-13T20:49:00Z
-    webUrl: "https://thehill.com/homenews/senate/538750-senate-gop-acquits-trump-for-second-time"
-    ampWebUrl: "https://thehill.com/homenews/senate/538750-senate-gop-acquits-trump-for-second-time?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/538750-senate-gop-acquits-trump-for-second-time?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/trumpdonald_012021upi2_lead.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Senate votes to acquit Trump in historic second impeachment trial"
-    excerpt: "The Senate voted to acquit former President Trump of inciting the January 6 riot at the Capitol in hi. Seven Republicans joined all Democrats in voting \"Guilty\" for a majority of 57 votes – but Democrats failed to get the two-thirds majority needed to convict."
-    publishedDateTime: 2021-02-14T02:09:00Z
-    webUrl: "https://www.cbsnews.com/live-updates/trump-impeachment-trial-day-5-2021-02-13/"
-    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/trump-impeachment-trial-day-5-2021-02-13/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/trump-impeachment-trial-day-5-2021-02-13/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/13/54f165d0-9a50-4b4e-8127-7e01ff235b09/thumbnail/1200x630/800784316ca0c1fceac7fc2535853681/gettyimages-1301970317.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "First Thing: Donald Trump is still a threat to democracy, Democrats warn"
-    excerpt: "House impeachment managers urged senators to prevent Trump from holding office again. Plus, former Republican officials discuss creating a new party"
-    publishedDateTime: 2021-02-12T11:00:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/feb/12/first-thing-donald-trump-is-still-a-threat-to-democracy-democrats-warn"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/12/first-thing-donald-trump-is-still-a-threat-to-democracy-democrats-warn"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/12/first-thing-donald-trump-is-still-a-threat-to-democracy-democrats-warn"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 124
-    images:
-      - url: "https://i.guim.co.uk/img/media/f4bfab89ddac12bbf3dee6a18a09c0b5d9c9f682/0_240_3600_2161/master/3600.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=895a439e7f0467a5b64fd9c0dfbe5df6"
-        width: 600
-        height: 360
-        isCached: true
   - title: "For Raskin and the House managers arguing to convict Trump, less was more"
     excerpt: "House impeachment manager Rep. Joe Neguse (D-Colo.) participates in the impeachment managers’ closing argument in the trial of former The House managers trying the case against Donald Trump on charges of inciting the Jan."
     publishedDateTime: 2021-02-13T11:11:00Z
@@ -207,17 +159,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "'Fighting for Trump:' Democrats Say Capitol Attackers Were Answering Ex-President's Call"
-    excerpt: "Democrats Say Capitol Attackers Were Answering Ex-President's Call WASHINGTON (Reuters) - Democrats making the case for Donald Trump's conviction for inciting the deadly attack on the U.S. Capitol on Jan."
-    publishedDateTime: 2021-02-11T20:28:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-02-11/democrats-to-focus-on-terrible-toll-of-riot-as-trump-impeachment-trial-continues"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-02-11/democrats-to-focus-on-terrible-toll-of-riot-as-trump-impeachment-trial-continues?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-02-11/democrats-to-focus-on-terrible-toll-of-riot-as-trump-impeachment-trial-continues?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 46
 
 secured: "IOJKWtP3TwcQoIRngyFs3GgU02iLIKeydHzPyl1tnBWyEK9Ml99+NNijaaK8Qxixl+T2VTuTlz7Ewf41panKSNlYveSHnUlerkx8k3ixpY7JAfF0USeAx1xaw8Bs9VONB20oiBKXZ8Slq+Ha8KnABOMzF4u3l4qUCovoiPrbgHygnNRUsMg4Pa2lKqUehy29zwYHa7EhdfIIbziQCjGzVwgliBQb2udRtbPuTJ45M+SjiJ6dk1RGIfHDogdFG7QebQhP+dl9VXQGk3Hj17G+n6XK3ya6+RlUGRiVVoVgPKryRXcyfxXDqvevOnb2abNbSYDqnT86NQ8uoHkQCKB6jfhZZzMqNMP/7gVrvoETa64=;YYNOE1ClIAqVraRieJ5U3A=="
 ---

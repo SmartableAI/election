@@ -80,22 +80,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Republican Acquittal of Trump Is a Defining Moment for Party"
-    excerpt: "Even off-line and off camera at his Palm Beach, Fla., estate, and offering only a feeble impeachment defense through his legal team in Washington, Donald J. Trump remains a dominant force in right-wing politics."
-    publishedDateTime: 2021-02-13T21:46:00Z
-    webUrl: "https://www.nytimes.com/2021/02/13/us/politics/trump-impeachment-republicans.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/13/us/politics/trump-impeachment-republicans.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/13/us/politics/trump-impeachment-republicans.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/02/13/us/13GOP-TRUMP-0120/13GOP-TRUMP-0120-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Of course Donald Trump's team didn't tell the truth about his Covid-19 illness"
     excerpt: "Donald Trump was far sicker with Covid-19 than the White House physician or his top aides let on, even to the point where there were concerns that the then-President would have to be put on a ventilator to deal with the illness."
     publishedDateTime: 2021-02-12T15:57:00Z
@@ -127,22 +111,6 @@ related:
       - url: "https://media2.s-nbcnews.com/i/newscms/2021_06/3449574/210211-jamie-raskin-bw-ac-909p_93b993d3a3f387227e4532af9dd90e0e.jpg"
         width: 2500
         height: 1528
-        isCached: true
-  - title: "'Constitutional cancel culture': Key takeaways from Day Four of Trump's impeachment trial"
-    excerpt: "Key takeaways from Day Four of Trump's impeachment trial Former President Donald Trump's lawyers put up a pugnacious if brief defense presentation in his impeachment trial Friday, saying his rally speech before the Capitol riot was \"ordinary political rhetoric\" and blasting the proceedings as a \"sham\" fueled by Democrats' \"political hatred\" for the ex-president."
-    publishedDateTime: 2021-02-13T01:09:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/constitutional-cancel-culture-key-takeaways-day-four-trump-s-impeachment-n1257677"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1257677"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1257677"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 126
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2021_06/3449863/210212-donald-trump-ac-656p_c5d5dac2fcaf8ae3271ab5be359bdcbe.jpg"
-        width: 2500
-        height: 1666
         isCached: true
 
 secured: "SKARKRB48rkimPQ4PFDbWVVUQ4bXxmzVXu8sm2ZnBYxjDTV1Lf9GLd7xL8S3UssyENz/stp92e2mNciwbfwsNueT9enFu4qCqtrg5XnztE66RJ9BjNYazXRbepe46AM+aMYzYIajmm/vtShQWv/UeV0AVbsz2u7+ED8LbBZWCfGFlCkaoPeQOQhqcBakj2+79L5XQTS+M80c5g7+fvJRaLSZXAHbCdAw28jJZqwk18l9AvEASjLXYAG2uNlq0awmy2FUgwp3G250uMVhW+jpnch9xAnucTiU7mu6iW4q1CprIgVo3ydJInrBEIiijui9PdXiV/Vd0ISnCwREdexuI4Wkyo3BW24dlzEhLRbBQYW/V7pMJwppQRQgq3t5b+Q6Yk3NuZMu3B3WF5O4RpNVnJZExFEO0udf6aqOXz+BrtH4s0UrZsASHfEqBCCLpzVJ5n4zRYAba9Xr5FIx3EZFRm4va+Wg/e26iAZhFPs1Qb8K4LKjcQNtwqSiprStQFPBcoWXd5UT5496UeFfGtOMPQ==;z5Wr7Xrr7HuPb5Qc/qH3Cw=="

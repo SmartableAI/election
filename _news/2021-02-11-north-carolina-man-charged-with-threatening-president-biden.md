@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/north-carolina-man-charged-threaten
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/north-carolina-man-charged-threatening-president-biden.amp"
 type: article
 quality: 175
-heat: 435
+heat: 455
 published: true
 
 provider:
@@ -133,6 +133,22 @@ related:
     webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/H6fBJ1SFWyk/wh-aide-resigns-after-allegedly-demeaning-reporter-despite-bidens-warning-of-firing"
     ampWebUrl: "https://www.foxnews.com/politics/wh-aide-resigns-after-allegedly-demeaning-reporter-despite-bidens-warning-of-firing.amp"
     cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/wh-aide-resigns-after-allegedly-demeaning-reporter-despite-bidens-warning-of-firing.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Tj-Ducklo-Tara-Palmeri.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "WH aide TJ Ducklo resigns after demeaning reporter despite Biden's warning of firing"
+    excerpt: "Deputy White House press secretary TJ Ducklo on Saturday said he was resigning amid allegations that he made \"derogatory and misogynistic\" remarks to Politico reporter Tara Palmeri nearly a month ago."
+    publishedDateTime: 2021-02-14T00:45:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mMZYWfptJVQ/wh-aide-tj-ducklo-resigns-after-allegedly-demeaning-reporter-despite-bidens-warning-of-firing"
+    ampWebUrl: "https://www.foxnews.com/politics/wh-aide-tj-ducklo-resigns-after-allegedly-demeaning-reporter-despite-bidens-warning-of-firing.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/wh-aide-tj-ducklo-resigns-after-allegedly-demeaning-reporter-despite-bidens-warning-of-firing.amp"
     type: article
     provider:
       name: Fox News

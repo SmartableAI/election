@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/02/trump-capitol-riot-p
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/02/trump-capitol-riot-powder-keg-impeachment-prosecutors"
 type: article
 quality: 125
-heat: 485
+heat: 465
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Graham says outcome of Trump impeachment trial \"is really not in doubt\""
-    excerpt: "Republican Senator Lindsey Graham of South Carolina said Sunday that the outcome of former President Donald Trump's upcoming impeachment trial is \"really not in doubt\" as many Republicans believe the Senate lacks the authority to try a president who is no longer in office and will likely vote to acquit him."
-    publishedDateTime: 2021-02-08T12:03:00Z
-    webUrl: "https://www.cbsnews.com/news/trump-impeachment-trial-lindsey-graham-face-the-nation/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-impeachment-trial-lindsey-graham-face-the-nation/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-impeachment-trial-lindsey-graham-face-the-nation/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/02/07/1c35ae02-c984-4ff8-83cf-c065258831f8/thumbnail/1200x630g2/7d4b889649bfdc77603d1990c2b51506/screen-shot-2021-02-07-at-10-39-28-am.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Live Updates: Trump impeachment trial set to get underway in Senate"
     excerpt: "The Senate is convening at noon to begin the trial for former President Donald Trump, the only president to be impeached twice."
     publishedDateTime: 2021-02-09T12:36:00Z

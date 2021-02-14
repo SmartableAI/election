@@ -64,6 +64,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Donald Trump’s Impeachment Legacy: Violent Extremism"
+    excerpt: "Whether or not Mr. Trump is convicted, the extremism that flourished under his administration is embedded in our politics."
+    publishedDateTime: 2021-02-13T10:00:00Z
+    webUrl: "https://www.nytimes.com/2021/02/13/us/politics/donald-trump-impeachment.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/13/us/politics/donald-trump-impeachment.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/13/us/politics/donald-trump-impeachment.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/13/multimedia/13onpolitics/13onpolitics-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
 
 secured: "ESpHRcIYUzyjL/UGWFhAsO7rmWOvuG++wTKR1Ny2sXtQknKqlpyK4DpWF0xUkj+uXrPi/PqT0EXqJEpm1gaDvGuY8i6EjB3o9mgV7kHkKR76sjNedAWfOEkh+rloh4qdnp2Ggl3stTKyC4GjapJoPM9oeHAx/jOD+YaSwZn25AY4gEyodejEP3FeLYQ+hG9BbA+jCJ+FNrz53xhmRNcuUNBeXyeyhfGLH8EFIBwaSj63jomYduoQlHIrSuldJ8XAQXjbW+QqN/F3Hm5QDdN+9+4sLVg30rIVLKoLOWjxHxgoknHLcUwP3s0kw+j5oi+1JFY9YMTpjlx9/3CkeTvD1fU6qyIjGeFqy+T15kK9qRI=;g1FMFKnF5NlQuDFXy5jA2w=="
 ---

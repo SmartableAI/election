@@ -2,6 +2,274 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-01-15-as-new-york-dumps-trump-a-trump-exodus-to-florida-is-underway.md",
+      "title": "As New York dumps Trump, a Trump exodus to Florida is underway",
+      "excerpt": "As New York officials make aggressive moves to cut ties with President Trump, planning has been underway for Trump and some of his children to ditch the Empire State.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/US/york-dumps-trump-trump-exodus-florida-underway/story?id=75253713",
+      "originalUrl": "https://abcnews.go.com/US/york-dumps-trump-trump-exodus-florida-underway/story?id=75253713",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 325,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/US/trump-family-gty-ml-210114_1610647078401_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/US/york-dumps-trump-trump-exodus-florida-underway/story?id=75253713",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/york-dumps-trump-trump-exodus-florida-underway/story?id=75253713",
+      "publishedDateTime": "2021-01-14T15:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-15-fact-check-was-a-biden-campaign-official-arrested.md",
+      "title": "Fact Check: Was a Biden Campaign Official Arrested?",
+      "excerpt": "A woman was arrested in Texas on multiple counts of voter fraud, causing social media users to make claims about who she was working for.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/fact-check-was-biden-campaign-official-arrested-1561777",
+      "originalUrl": "https://www.newsweek.com/fact-check-was-biden-campaign-official-arrested-1561777",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1683033/ken-paxton-files-election-lawsuit-supreme-court.jpg",
+          "width": 1800,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/fact-check-was-biden-campaign-official-arrested-1561777?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fact-check-was-biden-campaign-official-arrested-1561777?amp=1",
+      "publishedDateTime": "2021-01-14T14:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-01-14-georgia-republicans-reassign-gop-lawmakers-who-supported-trumps-election-fraud-claims.md",
+      "title": "Georgia Republicans reassign GOP lawmakers who supported Trump's election fraud claims",
+      "excerpt": "Georgia Republicans have reassigned three fellow GOP lawmakers who backed baseless allegations of voter fraud related to the November presidential election.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bQk1jeke6AA/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bQk1jeke6AA/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 282,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190312141705-georgia-state-capitol-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/14/politics/georgia-republicans-election-fraud-claims-reassigned/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/14/politics/georgia-republicans-election-fraud-claims-reassigned/index.html",
+      "publishedDateTime": "2021-01-14T14:24:12-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-15-i-support-him-more-than-i-ever-did-no-regrets-as-trump-loyalists-gather-at-ohio-movie-theater-to-discuss-jan-6.md",
+      "title": "'I support him more than I ever did.' No regrets as Trump loyalists gather at Ohio movie theater to discuss Jan. 6",
+      "excerpt": "A group of Republicans gathered at a suburban Cincinnati movie theater to hear firsthand from six Trump loyalists who attended the Jan. 6 rally.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/01/14/capitol-riot-trump-loyalists-ohio-relive-jan-6-no-regrets/4156313001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/01/14/capitol-riot-trump-loyalists-ohio-relive-jan-6-no-regrets/4156313001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/01/14/PCIN/fe3ba51d-da5e-456a-b04c-8073d2f33284-trump_clermont_poll.jpg?auto=webp&crop=4031,2268,x0,y373&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4156313001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4156313001",
+      "publishedDateTime": "2021-01-14T14:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-14-senate-gop-torn-over-convicting-trump-theres-no-love-lost.md",
+      "title": "Senate GOP torn over convicting Trump: 'There's no love lost'",
+      "excerpt": "To many Senate Republicans, including Senate Majority Leader Mitch McConnell, there's no question in their minds: President Donald Trump committed impeachable offenses.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/r1vWzdUQ28I/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/r1vWzdUQ28I/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 295,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210106121255-01-mcconnell-0106-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/14/politics/mitch-mcconnell-republican-senator-plans/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/14/politics/mitch-mcconnell-republican-senator-plans/index.html",
+      "publishedDateTime": "2021-01-14T14:09:13-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-15-pence-receives-inauguration-security-briefing.md",
       "title": "Pence receives Inauguration security briefing...",
       "excerpt": "Watch \"Vice President Mike Pence receives Inauguration security briefing\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting.",
@@ -1087,276 +1355,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-youtube-ban-google-blocks-new-uploads-to-donald-trumps-channel-after-capitol-riots-citing-potential-for-violence.md",
-      "title": "YouTube ban: Google blocks new uploads to Donald Trump's channel after Capitol riots, citing potential for violence",
-      "excerpt": "Google's YouTube is blocking new uploads to Trump's channel. It's also being threatened with a national ad boycott if it does not ban Trump.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/tech/2021/01/12/trump-youtube-ban-capitol-riots-civil-rights-groups/6649933002/",
-      "originalUrl": "https://www.usatoday.com/story/tech/2021/01/12/trump-youtube-ban-capitol-riots-civil-rights-groups/6649933002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/01/12/USAT/d9fcae70-ecb3-4fa7-ba54-bd90bcd378e0-AP21012563654909.jpg?auto=webp&crop=5999,3374,x1,y626&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6649933002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6649933002",
-      "publishedDateTime": "2021-01-13T04:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-trump-administration-nixes-plans-for-controversial-last-minute-foreign-trips-to-europe-and-taiwan.md",
-      "title": "Trump administration nixes plans for controversial last-minute foreign trips to Europe and Taiwan",
-      "excerpt": "Facing reported snubs by EU allies, Mike Pompeo's staying home, and Ambassador Kelly Craft won't visit Taiwan – a trip that would have infuriated China.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/trump-biden-transition-mike-pompeo-kelly-craft-europe-taiwan-travel-cancelled/",
-      "originalUrl": "https://www.cbsnews.com/news/trump-biden-transition-mike-pompeo-kelly-craft-europe-taiwan-travel-cancelled/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/11/f52e32c5-77b7-4e21-8af8-83be52dd5b8f/thumbnail/1200x630/ea79939e1c64abe7361b6638bd745954/gettyimages-1290714664.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/trump-biden-transition-mike-pompeo-kelly-craft-europe-taiwan-travel-cancelled/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-biden-transition-mike-pompeo-kelly-craft-europe-taiwan-travel-cancelled/",
-      "publishedDateTime": "2021-01-13T02:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-hogan-calls-gop-delegate-who-attacked-pence-a-q-anon-conspiracy-theorist.md",
-      "title": "Hogan calls GOP delegate who attacked Pence a ‘Q-Anon conspiracy theorist’",
-      "excerpt": "Larry Hogan (R) said Tuesday that a Republican state delegate who organized buses to the #stopthesteal rally in Washington — and called Vice President Pence a traitor during the breach of the Capitol — was a “Q-Anon conspiracy theorist.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/local/md-politics/dan-cox-hogan-qanon/2021/01/12/7d9a3fb8-550d-11eb-a817-e5e7f8a406d6_story.html",
-      "originalUrl": "https://www.washingtonpost.com/local/md-politics/dan-cox-hogan-qanon/2021/01/12/7d9a3fb8-550d-11eb-a817-e5e7f8a406d6_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YKBUGEEW5UI6VB5DELJSII2WGY.jpg&w=1440",
-          "width": 1440,
-          "height": 983,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/local/md-politics/dan-cox-hogan-qanon/2021/01/12/7d9a3fb8-550d-11eb-a817-e5e7f8a406d6_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/md-politics/dan-cox-hogan-qanon/2021/01/12/7d9a3fb8-550d-11eb-a817-e5e7f8a406d6_story.html?outputType=amp",
-      "publishedDateTime": "2021-01-12T19:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-pence-uses-pelosis-own-words-to-justify-not-invoking-the-25th-amendment.md",
-      "title": "Pence uses Pelosi's own words to justify not invoking the 25th Amendment",
-      "excerpt": "Vice President Mike Pence told Speaker of the House Nancy Pelosi that he will not invoke the 25th Amendment, as lawmakers flooded into the House chamber for a vote Tuesday night on a resolution calling for him to do so.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SZvObX8e7Wk/pence-echoes-pelosis-words-in-explaining-why-he-will-not-invoke-the-25th-amendment",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SZvObX8e7Wk/pence-echoes-pelosis-words-in-explaining-why-he-will-not-invoke-the-25th-amendment",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 244,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/927d176b-21c3-43cd-93dd-13312fed5937/dea40182-fa8f-47b1-9184-fc98ec627628/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pence-echoes-pelosis-words-in-explaining-why-he-will-not-invoke-the-25th-amendment.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-echoes-pelosis-words-in-explaining-why-he-will-not-invoke-the-25th-amendment.amp",
-      "publishedDateTime": "2021-01-12T18:24:07-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-kamala-harris-vogue-cover-defended-by-anna-wintour-amid-controversy.md",
-      "title": "Kamala Harris' Vogue cover defended by Anna Wintour amid controversy",
-      "excerpt": "Vogue editor-in-chief Anna Wintour has spoken out after the magazine's cover shoot featuring Vice President-elect Kamala Harris received backlash.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/entertainment/kamala-harris-vogue-cover-defended-anna-wintour-controversy",
-      "originalUrl": "https://www.foxnews.com/entertainment/kamala-harris-vogue-cover-defended-anna-wintour-controversy",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Kamala-Harris-Anna-Wintour.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/entertainment/kamala-harris-vogue-cover-defended-anna-wintour-controversy.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/kamala-harris-vogue-cover-defended-anna-wintour-controversy.amp",
-      "publishedDateTime": "2021-01-12T17:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
         "Republican Voice"
       ]
     }

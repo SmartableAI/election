@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/health/pro-trump-gop-chair-steps-down
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/pro-trump-gop-chair-steps-down-in-ohio-may-seek-senate-seat/2021/02/05/5508d346-67d9-11eb-bab8-707f8769d785_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 425
+heat: 345
 published: true
 
 provider:
@@ -47,22 +47,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "GOP senators send clear signal: Trump's getting acquitted"
-    excerpt: "Republicans are signaling where the impeachment trial is heading just as it’s getting underway: a second acquittal for former President Trump."
-    publishedDateTime: 2021-02-10T00:52:00Z
-    webUrl: "https://thehill.com/homenews/senate/538124-gop-senators-send-clear-signal-trumps-getting-acquitted"
-    ampWebUrl: "https://thehill.com/homenews/senate/538124-gop-senators-send-clear-signal-trumps-getting-acquitted?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/538124-gop-senators-send-clear-signal-trumps-getting-acquitted?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/trumpdonlad_010521upi_lead.jpg"
-        width: 980
-        height: 551
-        isCached: true
   - title: "Live Updates: Senate convenes for Day 2 of Trump impeachment trial"
     excerpt: "House impeachment managers plan to use \"extraordinary\" footage from Capitol security cameras that has not been made public, aides said."
     publishedDateTime: 2021-02-10T20:47:00Z
@@ -78,22 +62,6 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/10/06393edd-f804-4a64-aa67-f5d55b0b10c2/thumbnail/1200x630/a11b24a137e8555dacc8b56a9297bbd6/screen-shot-2021-02-10-at-3-48-51-pm.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "GOP Sen. Kevin Cramer Says He Expects He Will Vote to Acquit Donald Trump"
-    excerpt: "Before the trial of the former president, the North Dakota lawmaker said in a video message \"Welcome to the stupidest week in the Senate.\""
-    publishedDateTime: 2021-02-11T13:09:00Z
-    webUrl: "https://www.newsweek.com/kevin-cramer-donald-trump-impeachment-acquit-1568565"
-    ampWebUrl: "https://www.newsweek.com/kevin-cramer-donald-trump-impeachment-acquit-1568565?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kevin-cramer-donald-trump-impeachment-acquit-1568565?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 124
-    images:
-      - url: "https://d.newsweek.com/en/full/1732353/senator-kevin-cramer.jpg"
-        width: 2500
-        height: 1667
         isCached: true
   - title: "Republican enthusiasm for second Trump term lags as impeachment trial nears end"
     excerpt: "Senate Republicans, while likely to acquit former President Donald Trump at his impeachment trial, showed little enthusiasm this week for a possible second White House bid in 2024 after reliving his supporters' deadly storming of the U."
@@ -159,22 +127,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Most GOP Senators Would Convict Trump Via Secret Ballot, Hawaii Sen. Mazie Hirono Says"
-    excerpt: "Senator Mazie Hirono, a Hawaii Democrat, said that \"most\" Republican senators would vote to convict former President Donald Trump of inciting the attack on the U.S. Capitol if they were given the opportunity to use a secret ballot."
-    publishedDateTime: 2021-02-09T16:45:00Z
-    webUrl: "https://www.newsweek.com/most-gop-senators-would-convict-trump-via-secret-ballot-hawaii-sen-mazie-hirono-says-1567943"
-    ampWebUrl: "https://www.newsweek.com/most-gop-senators-would-convict-trump-via-secret-ballot-hawaii-sen-mazie-hirono-says-1567943?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/most-gop-senators-would-convict-trump-via-secret-ballot-hawaii-sen-mazie-hirono-says-1567943?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 117
-    images:
-      - url: "https://d.newsweek.com/en/full/1729725/senator-mazie-hirono.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Former GOP Officials Warn of 'Permanent Stain' on Republicans if Trump's Not Held Accountable"
     excerpt: "\"Donald Trump blatantly violated his oath to protect and defend the Constitution,\" the group of Republicans and conservatives said."
     publishedDateTime: 2021-02-02T18:56:00Z
@@ -206,22 +158,6 @@ related:
       - url: "https://i.insider.com/6010718e1d2df20018b70f64?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Senate votes that Trump impeachment trial is constitutional, 6 GOP side with Dems voting to proceed"
-    excerpt: "WASHINGTON — House prosecutors on Tuesday wrenched senators and the nation back to the deadly attack on Congress as they opened Donald Trump’s historic second impeachment trial with graphic video of the insurrection and Trump’s own calls for a rally crowd to march to the iconic building and “fight like hell” against his reelection defeat."
-    publishedDateTime: 2021-02-10T04:43:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-impeachment-trial-20210209-nvwsphq3inepfnxy7potq57niu-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-impeachment-trial-20210209-nvwsphq3inepfnxy7potq57niu-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-impeachment-trial-20210209-nvwsphq3inepfnxy7potq57niu-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 111
-    images:
-      - url: "https://www.chicagotribune.com/resizer/Ty5rGEcxhtsmZVuhq0Yc1jA4OkA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/34RAWO46JBS4WHHGWAGAHOKUBU.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "GOP Sen. Tommy Tuberville told Trump that he couldn't talk during the Capitol siege because security had just evacuated Pence from the Senate chamber"
     excerpt: "Tuberville's brief conversation with Trump came around the same time Trump tweeted an attack against Pence."

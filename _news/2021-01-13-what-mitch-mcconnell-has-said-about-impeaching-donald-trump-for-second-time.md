@@ -79,22 +79,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "McConnell says he'll vote to acquit Trump"
-    excerpt: "Senate GOP Leader Mitch McConnell (Ky.) said Saturday that he will vote to acquit former President Trump, ending weeks of speculation about what he would do."
-    publishedDateTime: 2021-02-13T14:56:00Z
-    webUrl: "https://thehill.com/homenews/senate/538730-mcconnell-says-hell-vote-to-acquit-trump"
-    ampWebUrl: "https://thehill.com/homenews/senate/538730-mcconnell-says-hell-vote-to-acquit-trump?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/538730-mcconnell-says-hell-vote-to-acquit-trump?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/mcconnellmitch_020821gn2_lead.jpg"
-        width: 980
-        height: 551
-        isCached: true
   - title: "Senate Minority Leader Mitch McConnell to propose delay of Trump impeachment trial"
     excerpt: "House Speaker Nancy Pelosi said Thursday that she is \"ready\" to send the Trump impeachment article to the Senate, but is waiting for answers on how a trial would work."
     publishedDateTime: 2021-01-22T04:32:00Z
