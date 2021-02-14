@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/13/politics/mitch-mcconnell-acquit-t
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/mitch-mcconnell-acquit-trump/index.html"
 type: article
 quality: 175
-heat: 215
+heat: 195
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210205160106-01-trumps-florida-0120-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "McConnell's next chapter: Guiding the post-Trump GOP"
-    excerpt: "The Kentuckian is the GOP's de facto leader for at least the next two years, as Trump remains exiled in Florida with no real public platform."
-    publishedDateTime: 2021-02-14T12:05:00Z
-    webUrl: "https://www.politico.com/news/2021/02/14/mcconnells-next-chapter-guiding-the-post-trump-gop-469014"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/ba/49/dfd390ea400cb7bd00c4ff761091/gettyimages-1230449215-1.jpg"
-        width: 1160
-        height: 773
         isCached: true
 
 secured: "F2tVlaYoHb1I6wUTDQisY/IrnjfzxpLqgSXhol8/ZqtThAFzUvDkz25Ax1iAJdNgE74cHGPGkdhRHpvJ80BxFhdUqh8g0m0OX5Ac2Zs/2DW17Sv9EOdlq627x8HTiONBRar/NilKdMeHER8ZrKByNvCw9xz8LOzzzprKKO4r5xopWWYWYQB8VgD/nG4kOEieJDXb//2SddH6lpnXTltbyoG/w50taPCGrZp4BouInwd8CvomZ7l/Be/CW0IVlBEl6bAp6ial+nGs1NxCZWurxCHYOfg93jL1lAfhsWwdSeEYqUaNsjsm4Sy8e6hMjcPoeGbrN03BGFliH5RG9IORZwOEmhy0HNeH0zFDaVKIrjs=;Oon6zOrYQbyfMv7c9dLhpQ=="

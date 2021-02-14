@@ -287,6 +287,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Cassidy says Trump's 'force wanes' and defends guilty vote after Louisiana GOP censure"
+    excerpt: "Louisiana Sen. Bill Cassidy on Sunday stood by his vote to convict Donald Trump during the former President's second impeachment trial, defending his decision against a censure from his state's GOP and arguing that Trump's power within the larger party will weaken.\n    \n"
+    publishedDateTime: 2021-02-14T18:02:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/esUyIKfEcXU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/14/politics/cassidy-trump-impeachment-louisiana-gop-censure/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/14/politics/cassidy-trump-impeachment-louisiana-gop-censure/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210209173836-sen-bill-cassidy-0209-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Graham says he spoke to Trump after his acquittal and the former President is 'excited' about 2022"
+    excerpt: "Republican Sen. Lindsey Graham said Sunday that he spoke to former President Donald Trump after his acquittal in his second impeachment trial and that Trump is \"excited\" about the midterms in 2022.\n    \n"
+    publishedDateTime: 2021-02-14T17:12:53Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Es7Wk43Bh2M/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/14/politics/lindsey-graham-trump-acquittal-2022/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/14/politics/lindsey-graham-trump-acquittal-2022/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210214103249-lindsey-graham-0213-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Plaskett on Trump's acquittal: 'We didn't need more witnesses, we needed more senators with spines'"
     excerpt: "Del. Stacey Plaskett on Sunday defended the Democratic House managers' decision not to call witnesses in former President Donald Trump's Senate impeachment trial, saying a day after Trump's acquittal that they \"needed more senators with spines\" in order to convict him.\n    \n"
     publishedDateTime: 2021-02-14T16:19:16Z

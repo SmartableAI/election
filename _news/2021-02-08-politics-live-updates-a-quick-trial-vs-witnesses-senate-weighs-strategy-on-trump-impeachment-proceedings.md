@@ -31,6 +31,134 @@ images:
     isCached: true
 
 related:
+  - title: "Trump triumphant – but senior Republicans still see battles ahead"
+    excerpt: "Former president celebrates second impeachment acquittal as supporters and moderates prepare to contest party direction"
+    publishedDateTime: 2021-02-14T18:19:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/feb/14/donald-trump-impeachment-republican-party-cornyn-hogan-graham-mcconnell"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/14/donald-trump-impeachment-republican-party-cornyn-hogan-graham-mcconnell"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/14/donald-trump-impeachment-republican-party-cornyn-hogan-graham-mcconnell"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/b09aaef858886f4fa0b19c990a60565bc8ffbcd7/0_99_4729_2838/master/4729.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7054ca77cdfe83aad2194ca18e75b250"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Acquitted again by Senate, Trump still a powerful force in Republican politics"
+    excerpt: "It is still Donald Trump’s Republican Party - at least for now. The vote by 43 of the 50 Republican senators to acquit Trump on the charge of inciting last month’s deadly riot at the U.S. Capitol, with only seven voting for conviction,"
+    publishedDateTime: 2021-02-14T18:11:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-future-idUSKBN2AE04T"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AE04T"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AE04T"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210214&t=2&i=1551476359&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1D04B"
+        width: 813
+        height: 545
+        isCached: true
+  - title: "With Republican firewall, U.S. Senate acquits Trump of inciting deadly Capitol riot"
+    excerpt: "The U.S. Senate acquitted Donald Trump on Saturday of inciting the mob that stormed the Capitol last month, sparing him from conviction in his second impeachment trial in a year despite broad condemnation of his role in sparking the deadly siege."
+    publishedDateTime: 2021-02-14T06:48:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment/u-s-senate-acquits-trump-as-republicans-save-him-in-impeachment-again-idUSKBN2AD0AE"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AD0AE"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AD0AE"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 119
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210213&t=2&i=1551450590&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1C0JB"
+        width: 968
+        height: 545
+        isCached: true
+  - title: "Exclusive: Dozens of former Republican officials in talks to form anti-Trump third party"
+    excerpt: "Dozens of former Republican officials, who view the party as unwilling to stand up to former President Donald Trump and his attempts to undermine U.S. democracy, are in talks to form a center-right breakaway party,"
+    publishedDateTime: 2021-02-11T08:41:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-party-exclusive-idUSKBN2AB07P"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AB07P"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AB07P"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 116
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210211&t=2&i=1551126039&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1A051"
+        width: 813
+        height: 545
+        isCached: true
+  - title: "Lindsey Graham says Mitch McConnell speech slamming Trump could haunt Republicans in 2022"
+    excerpt: "Sen. Lindsey Graham said Minority Leader Mitch McConnell's speech against former President Donald Trump could be used against GOP candidates in 2022."
+    publishedDateTime: 2021-02-14T18:31:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/02/14/lindsey-graham-says-mitch-mcconnells-trump-speech-may-haunt-gop/4481763001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4481763001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4481763001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/13/USAT/33eafa06-bd6b-49c7-a53d-f976c1de5b92-AP_Election_2020_South_Carolina.jpg?auto=webp&crop=3835,2157,x309,y110&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Donald Trump Says New MAGA Plans to Come in 'Months Ahead' After Senate Impeachment Acquittal"
+    excerpt: "After the vote, Trump thanked the senators or the acquittal, railed against Democrats, and vowed to continue his MAGA movement this year."
+    publishedDateTime: 2021-02-13T21:40:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-says-new-maga-plans-come-months-ahead-after-senate-impeachment-acquittal-1569151"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-says-new-maga-plans-come-months-ahead-after-senate-impeachment-acquittal-1569151?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-says-new-maga-plans-come-months-ahead-after-senate-impeachment-acquittal-1569151?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 114
+    images:
+      - url: "https://d.newsweek.com/en/full/1734691/donald-trump-trial.jpg"
+        width: 1024
+        height: 559
+        isCached: true
+  - title: "Durbin: 'We were never going to reach 67 votes' to convict Trump without McConnell's backing"
+    excerpt: "Sen. Dick Durbin (D-Ill.) said on Sunday that former President Trump’s acquittal in his second Senate impeachment was a foregone conclusion without Minority Leader Mitch McConnell (R-Ky.) backing conviction."
+    publishedDateTime: 2021-02-14T16:19:00Z
+    webUrl: "https://thehill.com/homenews/sunday-talk-shows/538816-durbin-we-were-never-going-to-reach-67-votes-for-conviction"
+    ampWebUrl: "https://thehill.com/homenews/sunday-talk-shows/538816-durbin-we-were-never-going-to-reach-67-votes-for-conviction?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/sunday-talk-shows/538816-durbin-we-were-never-going-to-reach-67-votes-for-conviction?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 114
+    images:
+      - url: "https://thehill.com/sites/default/files/durbinrichard_101220bc_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "After second impeachment acquittal, Donald Trump still firmly in control of the Republican party"
+    excerpt: "Republicans voted against Donald Trump in his impeachment, but by most objective measures, Trump’s grasp on the GOP and its future remains airtight."
+    publishedDateTime: 2021-02-14T18:24:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-impeachment-acquittal-republicans-20210214-usl73vi23zdnhjtbp5oczwqs3u-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-impeachment-acquittal-republicans-20210214-usl73vi23zdnhjtbp5oczwqs3u-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-impeachment-acquittal-republicans-20210214-usl73vi23zdnhjtbp5oczwqs3u-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 112
+    images:
+      - url: "https://www.chicagotribune.com/resizer/5x5IAwrJKINXsdBlQ3wxPxkej6I=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/DLV5XFJ6IFHWHGX6UTLFBD2TL4.aspx"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Live updates: Senate must convict Trump to ensure no future president incites insurrection, Democrats say"
     excerpt: "Day 3 of former President Donald Trump's second impeachment trial has begun. The Democratic impeachment managers will use up to eight hours to wrap up their case against the ex-pr"
     publishedDateTime: 2021-02-11T18:45:00Z
@@ -47,61 +175,52 @@ related:
         width: 1582
         height: 1024
         isCached: true
-  - title: "Live impeachment updates: Trump's legal team, House prosecutors eye closing arguments with witness question unanswered"
-    excerpt: "Both sides are readying themselves for closing arguments in the Trump impeachment trial. But the decision on whether to call witnesses is unresolved."
-    publishedDateTime: 2021-02-13T11:49:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/13/trump-impeachment-trial-senate-readies-closing-arguments/6743661002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6743661002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6743661002"
+  - title: "120 anti-Trump Republicans are in talks to form a center-right 3rd party that would run on 'principled conservatism,' report says"
+    excerpt: "The group includes former elected officials and people who served in Republican administrations, including Trump's."
+    publishedDateTime: 2021-02-11T13:16:00Z
+    webUrl: "https://www.businessinsider.com/anti-trump-republicans-talks-to-form-third-party-reuters-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/anti-trump-republicans-talks-to-form-third-party-reuters-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/anti-trump-republicans-talks-to-form-third-party-reuters-2021-2?amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 101
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 96
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/02/13/USAT/df8f68dc-9b25-4a57-99d2-2e20ca5a5fab-AP_Trump_Impeachment_10.jpg?auto=webp&crop=4999,2812,x0,y254&format=pjpg&width=1200"
+      - url: "https://i.insider.com/6024c9e6cca90200129b7a98?width=1200&format=jpeg"
         width: 1200
-        height: 675
+        height: 600
         isCached: true
-  - title: "U.S. Treasury says more time needed to decide on Trump tax returns - Bloomberg News"
-    excerpt: "The U.S. Treasury said it needs more time to decide whether to fight House Democrats in their effort to get former President Donald Trump's personal and business tax returns, Bloomberg News reported on Wednesday."
-    publishedDateTime: 2021-02-04T09:53:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-taxes/u-s-treasury-says-more-time-needed-to-decide-on-trump-tax-returns-bloomberg-news-idUSKBN2A40H8"
+  - title: "Trump just beat his 2nd impeachment conviction, but a massive tsunami of legal peril still awaits"
+    excerpt: "Trump impeachment trial No. 2 ended with acquittal. But federal, state, and local investigations continue into his presidency, campaign, business interests, and taxes."
+    publishedDateTime: 2021-02-14T18:48:00Z
+    webUrl: "https://www.businessinsider.com/trump-federal-state-local-investigation-prosecution-georgia-call-2021-1"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 99
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 92
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210204&t=2&i=1550269013&r=LYNXMPEH130A3&w=800"
-        width: 800
-        height: 547
+      - url: "https://i.insider.com/60284292b3c2a800183ccc73?width=700"
+        width: 700
+        height: 525
         isCached: true
-  - title: "Sen. Tim Kaine says his censure proposal for former president Trump is still a ‘live option’"
-    excerpt: "Sen. Tim Kaine says he’s worried that former president Donald Trump will be acquitted again, but he explained the censure he proposed is still a “live option.” “There has to be accountability for the actions of Jan."
-    publishedDateTime: 2021-02-09T00:16:00Z
-    webUrl: "https://www.washingtonpost.com/video/washington-post-live/wplive/sen-tim-kaine-says-his-censure-proposal-for-former-president-trump-is-still-a-live-option/2021/02/08/19b6ce3f-10ad-45da-af18-6ef6b5746211_video.html"
+  - title: "Senate Acquits Trump With Seven Republicans Joining All 50 Democrats in Voting ‘Guilty’"
+    excerpt: "Mitch McConnell spoke after the verdict to denounce Trump’s conduct while insisting his trial was unconstitutional."
+    publishedDateTime: 2021-02-14T02:38:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/02/senate-acquits-trump-with-seven-republicans-defecting.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/02/senate-acquits-trump-with-seven-republicans-defecting.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/02/senate-acquits-trump-with-seven-republicans-defecting.html"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 94
+      name: New York Magazine
+      domain: nymag.com
+    quality: 67
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/02-08-2021/t_74ebace138074479a8f8a981b0ec7849_name_Screen_Shot_2021_02_08_at_4_27_58_PM.png&w=1080"
-        width: 1080
-        height: 719
+      - url: "https://pyxis.nymag.com/v1/imgs/4f7/742/f99a5a8f182f257ba6fe3100462802bb5d-impeachment-trial-verdict-screencap.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Trump Accused as 'Inciter in Chief' of Capitol Insurrection"
-    excerpt: "Prosecutors in Donald Trump’s impeachment trial are arguing that he was no “innocent bystander” but the “inciter in chief” of last month's deadly attack at the Capitol."
-    publishedDateTime: 2021-02-10T22:08:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-02-10/senators-to-hear-opening-arguments-as-trump-fumes-over-trial"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-10/senators-to-hear-opening-arguments-as-trump-fumes-over-trial?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-10/senators-to-hear-opening-arguments-as-trump-fumes-over-trial?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "0+SDIRlOx3Pck7P4hvS3JpDsB0KhOqL2wiH4f6UnSP2MoAnKNDoUEVau5hVPaznTHCV/Cb8I3WuvdMiX+scXlUJWLOADrI5xWt8uobB3/XVaL9ONs7FouYKDecQq8TPD0D6zD+mXMVSqBhKu31qM0Cw/RRsZQVbfOFzx+6nr3G2rbPUTSNb6yD5N64kSO0YOBioFJRE1KktaI1HxDWCaOmJ0yKdW+CN5T+sKsxkDc7R8+lhB3oushW0fq6o1q8VQ+gGzVd4PiaIDuvt5w/360HPN3eC/aPkxWvdlr42QOzlIcFn6iFrRxqI9yrYr/GODAuPOHmGPn6BnIrohOXPLWpdfLlJkfsWNMe0AIJTLpyTl0Lxu0zYCeRmd7WhZSdDwkLWBGjoQeLg30Oc3RE0cWtbDMBrOC0HwbF/bC3i8sOCl4Cvd69pikYyf8fVJXFkpOhfTzRVbRrDr4Y4b7HoQSsLN4FNPtiiTJpj95BaUPJ9OktCgy6v0UPcgT02muwcOY3AW9sGvFKXcqSJXFvRwuQ==;yuwJai75vnBldRQVGgdC0A=="
 ---

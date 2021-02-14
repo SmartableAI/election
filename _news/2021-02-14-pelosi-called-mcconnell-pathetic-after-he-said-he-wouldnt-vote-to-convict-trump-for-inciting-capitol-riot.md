@@ -95,22 +95,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Durbin: 'We were never going to reach 67 votes' to convict Trump without McConnell's backing"
-    excerpt: "Sen. Dick Durbin (D-Ill.) said on Sunday that former President Trump’s acquittal in his second Senate impeachment was a foregone conclusion without Minority Leader Mitch McConnell (R-Ky.) backing conviction."
-    publishedDateTime: 2021-02-14T16:19:00Z
-    webUrl: "https://thehill.com/homenews/sunday-talk-shows/538816-durbin-we-were-never-going-to-reach-67-votes-for-conviction"
-    ampWebUrl: "https://thehill.com/homenews/sunday-talk-shows/538816-durbin-we-were-never-going-to-reach-67-votes-for-conviction?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/sunday-talk-shows/538816-durbin-we-were-never-going-to-reach-67-votes-for-conviction?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 114
-    images:
-      - url: "https://thehill.com/sites/default/files/durbinrichard_101220bc_lead.jpg"
-        width: 980
-        height: 551
-        isCached: true
   - title: "Mitch McConnell lambasts Donald Trump but votes not guilty – video"
     excerpt: "Nancy Pelosi criticises ‘cowardly’ Republicans and minority leader Mitch McConnell savages Trump but votes not guilty regardless"
     publishedDateTime: 2021-02-14T04:57:00Z

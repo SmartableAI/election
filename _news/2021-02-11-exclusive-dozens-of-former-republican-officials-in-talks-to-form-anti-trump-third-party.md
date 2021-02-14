@@ -31,37 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Liz Cheney censured by Wyoming Republican party for voting to impeach Trump"
-    excerpt: "Cheney, the third ranking member of the House Republican leadership, was censured in a vote Saturday by her state’s Republican party"
-    publishedDateTime: 2021-02-06T23:01:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/feb/06/liz-cheney-censured-by-wyoming-republican-party-for-voting-to-impeach-trump"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/06/liz-cheney-censured-by-wyoming-republican-party-for-voting-to-impeach-trump"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/06/liz-cheney-censured-by-wyoming-republican-party-for-voting-to-impeach-trump"
+  - title: "Trump triumphant – but senior Republicans still see battles ahead"
+    excerpt: "Former president celebrates second impeachment acquittal as supporters and moderates prepare to contest party direction"
+    publishedDateTime: 2021-02-14T18:19:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/feb/14/donald-trump-impeachment-republican-party-cornyn-hogan-graham-mcconnell"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/14/donald-trump-impeachment-republican-party-cornyn-hogan-graham-mcconnell"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/14/donald-trump-impeachment-republican-party-cornyn-hogan-graham-mcconnell"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 123
+    quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/7ad5429ff5a0055cef8af2fe8a17aae778dfa887/0_40_4775_2866/master/4775.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=da3e5b5ded9ac0ca87fea35415042fc0"
+      - url: "https://i.guim.co.uk/img/media/b09aaef858886f4fa0b19c990a60565bc8ffbcd7/0_99_4729_2838/master/4729.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7054ca77cdfe83aad2194ca18e75b250"
         width: 600
         height: 360
         isCached: true
-  - title: "Trevor Noah: Republicans 'acting like bored middle-schoolers' at Trump impeachment"
-    excerpt: "Late-night hosts recap the third day of the trial, as House managers concluded their case before an audience of distracted senators"
-    publishedDateTime: 2021-02-12T16:30:00Z
-    webUrl: "https://www.theguardian.com/culture/2021/feb/12/trevor-noah-republicans-trump-impeachment-trial"
-    ampWebUrl: "https://amp.theguardian.com/culture/2021/feb/12/trevor-noah-republicans-trump-impeachment-trial"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/culture/2021/feb/12/trevor-noah-republicans-trump-impeachment-trial"
+  - title: "Acquitted again by Senate, Trump still a powerful force in Republican politics"
+    excerpt: "It is still Donald Trump’s Republican Party - at least for now. The vote by 43 of the 50 Republican senators to acquit Trump on the charge of inciting last month’s deadly riot at the U.S. Capitol, with only seven voting for conviction,"
+    publishedDateTime: 2021-02-14T18:11:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-future-idUSKBN2AE04T"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AE04T"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AE04T"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 119
+      name: Reuters
+      domain: reuters.com
+    quality: 121
     images:
-      - url: "https://i.guim.co.uk/img/media/64c81b46fa1ead1027270a801fd39451d4d7e3a5/137_136_2543_1526/master/2543.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5f9e8850db9a586c74151d3df85764fb"
-        width: 600
-        height: 360
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210214&t=2&i=1551476359&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1D04B"
+        width: 813
+        height: 545
         isCached: true
   - title: "With Republican firewall, U.S. Senate acquits Trump of inciting deadly Capitol riot"
     excerpt: "The U.S. Senate acquitted Donald Trump on Saturday of inciting the mob that stormed the Capitol last month, sparing him from conviction in his second impeachment trial in a year despite broad condemnation of his role in sparking the deadly siege."
@@ -79,85 +79,131 @@ related:
         width: 968
         height: 545
         isCached: true
-  - title: "GOP congressman Gaetz, Trump Jr. urge Wyomingites to oust fellow Republican Liz Cheney"
-    excerpt: "Rep. Matt Gaetz rallied against Rep. Liz Cheney at the Wyoming State Capitol Thursday, escalating the effort among some Republicans to oust her from leadership."
-    publishedDateTime: 2021-01-28T23:34:00Z
-    webUrl: "https://abcnews.go.com/Politics/gop-congressman-gaetz-trump-jr-urge-wyomingites-oust/story?id=75544628"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/gop-congressman-gaetz-trump-jr-urge-wyomingites-oust/story?id=75544628"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/gop-congressman-gaetz-trump-jr-urge-wyomingites-oust/story?id=75544628"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 117
-    images:
-      - url: "https://s.abcnews.com/images/General/gop-liz-cheney-matt-gaetz-wyoming-04-gty-210128_1611878359548_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Video surfaces showing Trump ally Roger Stone flanked by Oath Keepers on morning of Jan. 6"
-    excerpt: "A new video has surfaced showing former President Trump's adviser Roger Stone flanked by members of the Oath Keepers just hours before the deadly riot at the Capitol."
-    publishedDateTime: 2021-02-06T00:42:00Z
-    webUrl: "https://abcnews.go.com/US/video-surfaces-showing-trump-ally-roger-stone-flanked/story?id=75706765"
-    ampWebUrl: "https://abcnews.go.com/amp/US/video-surfaces-showing-trump-ally-roger-stone-flanked/story?id=75706765"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/video-surfaces-showing-trump-ally-roger-stone-flanked/story?id=75706765"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 115
-    images:
-      - url: "https://s.abcnews.com/images/Politics/roger-stone1-ht-ml-210205_1612541180760_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Wyoming GOP censures Rep. Liz Cheney over impeachment vote: ‘We need to honor President Trump.’"
-    excerpt: "The Wyoming Republican Party voted Saturday to censure U.S. Rep. Liz Cheney for voting to impeach President Donald Trump without “formal hearing or due process.”"
-    publishedDateTime: 2021-02-06T22:26:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-liz-cheney-wyoming-gop-censure-20210206-fy3yqaahkjg3fhz3tg65fjnbxu-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-liz-cheney-wyoming-gop-censure-20210206-fy3yqaahkjg3fhz3tg65fjnbxu-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-liz-cheney-wyoming-gop-censure-20210206-fy3yqaahkjg3fhz3tg65fjnbxu-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 113
-    images:
-      - url: "https://www.chicagotribune.com/resizer/CnYdZnSLBosT4gqWRmMqUGpBSaM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7PF5NSWMSWRXVGVWTBTJCCUYOQ.aspx"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Donald Trump's backers failed to take down Liz Cheney, but the Republican 'civil war' isn't near over"
-    excerpt: "House Republicans vote to keep Liz Cheney in leadership role, despite her impeachment vote; Trump backers vowed to defeat her in a 2022 GOP primary."
-    publishedDateTime: 2021-02-04T11:13:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/04/donald-trump-backers-didnt-oust-liz-cheney-but-republican-civil-war-goes/4362276001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4362276001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4362276001"
+  - title: "Lindsey Graham says Mitch McConnell speech slamming Trump could haunt Republicans in 2022"
+    excerpt: "Sen. Lindsey Graham said Minority Leader Mitch McConnell's speech against former President Donald Trump could be used against GOP candidates in 2022."
+    publishedDateTime: 2021-02-14T18:31:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/02/14/lindsey-graham-says-mitch-mcconnells-trump-speech-may-haunt-gop/4481763001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4481763001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4481763001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 110
+    quality: 116
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/02/04/USAT/c504d799-03af-495e-b0b4-98042333bc1c-Liz_Cheney_1.jpg?auto=webp&crop=5087,2862,x0,y0&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2021/02/13/USAT/33eafa06-bd6b-49c7-a53d-f976c1de5b92-AP_Election_2020_South_Carolina.jpg?auto=webp&crop=3835,2157,x309,y110&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Illinois GOP says Rep. Adam Kinzinger and other Republicans who voted to impeach Trump ‘created widespread division and anger’ in the party"
-    excerpt: "The Illinois Republican Party issued a mild rebuke to Republican U.S. Rep. Adam Kinzinger, saying it disagreed with his vote to impeach former President Donald Trump as it sought to clear its agenda for a Saturday meeting to pick a new chairman who could unify the party."
-    publishedDateTime: 2021-02-05T19:50:00Z
-    webUrl: "https://www.chicagotribune.com/politics/ct-adam-kinzinger-illinois-republicans-20210205-7cwxhciinzcmvjyaue6ohenc2y-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/politics/ct-adam-kinzinger-illinois-republicans-20210205-7cwxhciinzcmvjyaue6ohenc2y-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/politics/ct-adam-kinzinger-illinois-republicans-20210205-7cwxhciinzcmvjyaue6ohenc2y-story.html?outputType=amp"
+  - title: "Donald Trump Says New MAGA Plans to Come in 'Months Ahead' After Senate Impeachment Acquittal"
+    excerpt: "After the vote, Trump thanked the senators or the acquittal, railed against Democrats, and vowed to continue his MAGA movement this year."
+    publishedDateTime: 2021-02-13T21:40:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-says-new-maga-plans-come-months-ahead-after-senate-impeachment-acquittal-1569151"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-says-new-maga-plans-come-months-ahead-after-senate-impeachment-acquittal-1569151?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-says-new-maga-plans-come-months-ahead-after-senate-impeachment-acquittal-1569151?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 114
+    images:
+      - url: "https://d.newsweek.com/en/full/1734691/donald-trump-trial.jpg"
+        width: 1024
+        height: 559
+        isCached: true
+  - title: "Durbin: 'We were never going to reach 67 votes' to convict Trump without McConnell's backing"
+    excerpt: "Sen. Dick Durbin (D-Ill.) said on Sunday that former President Trump’s acquittal in his second Senate impeachment was a foregone conclusion without Minority Leader Mitch McConnell (R-Ky.) backing conviction."
+    publishedDateTime: 2021-02-14T16:19:00Z
+    webUrl: "https://thehill.com/homenews/sunday-talk-shows/538816-durbin-we-were-never-going-to-reach-67-votes-for-conviction"
+    ampWebUrl: "https://thehill.com/homenews/sunday-talk-shows/538816-durbin-we-were-never-going-to-reach-67-votes-for-conviction?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/sunday-talk-shows/538816-durbin-we-were-never-going-to-reach-67-votes-for-conviction?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 114
+    images:
+      - url: "https://thehill.com/sites/default/files/durbinrichard_101220bc_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "After second impeachment acquittal, Donald Trump still firmly in control of the Republican party"
+    excerpt: "Republicans voted against Donald Trump in his impeachment, but by most objective measures, Trump’s grasp on the GOP and its future remains airtight."
+    publishedDateTime: 2021-02-14T18:24:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-impeachment-acquittal-republicans-20210214-usl73vi23zdnhjtbp5oczwqs3u-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-impeachment-acquittal-republicans-20210214-usl73vi23zdnhjtbp5oczwqs3u-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-impeachment-acquittal-republicans-20210214-usl73vi23zdnhjtbp5oczwqs3u-story.html?outputType=amp"
     type: article
     provider:
       name: Chicago Tribune
       domain: chicagotribune.com
-    quality: 91
+    quality: 112
     images:
-      - url: "https://www.chicagotribune.com/resizer/kCqS5P5WC39bSue-e9RXnprCOTQ=/1200x0/center/bottom/cloudfront-us-east-1.images.arcpublishing.com/tronc/MT27UL6PIVCNVJGKREWOTHUM3E.jpg"
+      - url: "https://www.chicagotribune.com/resizer/5x5IAwrJKINXsdBlQ3wxPxkej6I=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/DLV5XFJ6IFHWHGX6UTLFBD2TL4.aspx"
         width: 1200
-        height: 800
+        height: 675
+        isCached: true
+  - title: "Live updates: Senate must convict Trump to ensure no future president incites insurrection, Democrats say"
+    excerpt: "Day 3 of former President Donald Trump's second impeachment trial has begun. The Democratic impeachment managers will use up to eight hours to wrap up their case against the ex-pr"
+    publishedDateTime: 2021-02-11T18:45:00Z
+    webUrl: "https://www.cnbc.com/2021/02/11/trump-impeachment-trial-live-updates-day-3.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/02/11/trump-impeachment-trial-live-updates-day-3.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/02/11/trump-impeachment-trial-live-updates-day-3.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 108
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106839426-1613066740937-gettyimages-1231104598-brave_zvrabgh107.jpg?v=1613066758"
+        width: 1582
+        height: 1024
+        isCached: true
+  - title: "Politics live updates - A quick trial vs. witnesses: Senate weighs strategy on Trump impeachment proceedings"
+    excerpt: "Senators face key decisions on the contours of Trump's second impeachment trial, including the crucial question of whether to call witnesses."
+    publishedDateTime: 2021-02-08T14:35:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/08/politics-live-updates-senate-weighs-strategy-trump-impeachment-trial/4433392001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4433392001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4433392001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 106
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/09/USAT/6aa6963b-4d2b-4679-b15a-6477fc618042-AP21006679639042.jpg?auto=webp&crop=4305,2421,x722,y1081&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "120 anti-Trump Republicans are in talks to form a center-right 3rd party that would run on 'principled conservatism,' report says"
+    excerpt: "The group includes former elected officials and people who served in Republican administrations, including Trump's."
+    publishedDateTime: 2021-02-11T13:16:00Z
+    webUrl: "https://www.businessinsider.com/anti-trump-republicans-talks-to-form-third-party-reuters-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/anti-trump-republicans-talks-to-form-third-party-reuters-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/anti-trump-republicans-talks-to-form-third-party-reuters-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 96
+    images:
+      - url: "https://i.insider.com/6024c9e6cca90200129b7a98?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump just beat his 2nd impeachment conviction, but a massive tsunami of legal peril still awaits"
+    excerpt: "Trump impeachment trial No. 2 ended with acquittal. But federal, state, and local investigations continue into his presidency, campaign, business interests, and taxes."
+    publishedDateTime: 2021-02-14T18:48:00Z
+    webUrl: "https://www.businessinsider.com/trump-federal-state-local-investigation-prosecution-georgia-call-2021-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 92
+    images:
+      - url: "https://i.insider.com/60284292b3c2a800183ccc73?width=700"
+        width: 700
+        height: 525
         isCached: true
   - title: "Senate Acquits Trump With Seven Republicans Joining All 50 Democrats in Voting ‘Guilty’"
     excerpt: "Mitch McConnell spoke after the verdict to denounce Trump’s conduct while insisting his trial was unconstitutional."

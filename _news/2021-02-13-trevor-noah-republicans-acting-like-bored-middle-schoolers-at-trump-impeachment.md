@@ -47,22 +47,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "With Republican firewall, U.S. Senate acquits Trump of inciting deadly Capitol riot"
-    excerpt: "The U.S. Senate acquitted Donald Trump on Saturday of inciting the mob that stormed the Capitol last month, sparing him from conviction in his second impeachment trial in a year despite broad condemnation of his role in sparking the deadly siege."
-    publishedDateTime: 2021-02-14T06:48:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment/u-s-senate-acquits-trump-as-republicans-save-him-in-impeachment-again-idUSKBN2AD0AE"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AD0AE"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AD0AE"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 119
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210213&t=2&i=1551450590&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1C0JB"
-        width: 968
-        height: 545
-        isCached: true
   - title: "GOP congressman Gaetz, Trump Jr. urge Wyomingites to oust fellow Republican Liz Cheney"
     excerpt: "Rep. Matt Gaetz rallied against Rep. Liz Cheney at the Wyoming State Capitol Thursday, escalating the effort among some Republicans to oust her from leadership."
     publishedDateTime: 2021-01-28T23:34:00Z
@@ -78,22 +62,6 @@ related:
       - url: "https://s.abcnews.com/images/General/gop-liz-cheney-matt-gaetz-wyoming-04-gty-210128_1611878359548_hpMain_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Exclusive: Dozens of former Republican officials in talks to form anti-Trump third party"
-    excerpt: "Dozens of former Republican officials, who view the party as unwilling to stand up to former President Donald Trump and his attempts to undermine U.S. democracy, are in talks to form a center-right breakaway party,"
-    publishedDateTime: 2021-02-11T08:41:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-party-exclusive-idUSKBN2AB07P"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AB07P"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AB07P"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 116
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210211&t=2&i=1551126039&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1A051"
-        width: 813
-        height: 545
         isCached: true
   - title: "Video surfaces showing Trump ally Roger Stone flanked by Oath Keepers on morning of Jan. 6"
     excerpt: "A new video has surfaced showing former President Trump's adviser Roger Stone flanked by members of the Oath Keepers just hours before the deadly riot at the Capitol."
@@ -158,22 +126,6 @@ related:
       - url: "https://www.chicagotribune.com/resizer/kCqS5P5WC39bSue-e9RXnprCOTQ=/1200x0/center/bottom/cloudfront-us-east-1.images.arcpublishing.com/tronc/MT27UL6PIVCNVJGKREWOTHUM3E.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Senate Acquits Trump With Seven Republicans Joining All 50 Democrats in Voting ‘Guilty’"
-    excerpt: "Mitch McConnell spoke after the verdict to denounce Trump’s conduct while insisting his trial was unconstitutional."
-    publishedDateTime: 2021-02-14T02:38:00Z
-    webUrl: "https://nymag.com/intelligencer/2021/02/senate-acquits-trump-with-seven-republicans-defecting.html"
-    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/02/senate-acquits-trump-with-seven-republicans-defecting.html"
-    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/02/senate-acquits-trump-with-seven-republicans-defecting.html"
-    type: article
-    provider:
-      name: New York Magazine
-      domain: nymag.com
-    quality: 67
-    images:
-      - url: "https://pyxis.nymag.com/v1/imgs/4f7/742/f99a5a8f182f257ba6fe3100462802bb5d-impeachment-trial-verdict-screencap.1x.rsocial.w1200.jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "dPWMmruoKNBgcDJU5PDeK31+ML8OQg9A7PM2qArNZCLfp2G4tOFYsTa3JCGEoV9Fw39pm+kptuCj02xz9GfCyFEaQ1rNB3Vb+BsO7cuxr8dM81dXA67B5cS9xQbGqg4b/i7bwh5z2oKKOcQeY79FE/voVUsCyVM9EZ0xce0RQ04CJB/vvA9/Qay0XplXI0NyE01krird8iUMjopJjT7U6M4a4xauYxTiooo0xtszTAEvRJ1OWc66lJg1NyMk+QKWUKjy9XNV11SUdeGKR/vN0/G7wBsK0SD/LQwgBZ/e8C/Q5AEZL1T5qObCR8Vl1lE2+HYMtF+zBuRISRyJB1N13ecvDoZWj/M7FumI9L2WUpseHLMjH68QweKscatXlTguTzh5PtdXce6oVIhjpWEePJ3oC6+g+j2Kt3X+hxRCUVyMpGAZ++n9aiAH2jmI2FVQB1sFYxOTsx2hCBiFHfJHtR6Zgh51L5+5mDkugkVitaZLMdJBDxaNgwz8kYirDOn4SxDlg3nPexg6NE3g8v1ixg==;8YVHSGySzzDRxkCKfTXGsQ=="

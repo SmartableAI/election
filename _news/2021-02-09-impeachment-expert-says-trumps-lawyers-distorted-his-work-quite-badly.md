@@ -81,8 +81,8 @@ related:
         isCached: true
   - title: "Trump acquittal: Biden urges vigilance to defend 'fragile' democracy after impeachment trial"
     excerpt: "President says the substance of the charge against Donald Trump over the January attack on US Capitol is not in dispute"
-    publishedDateTime: 2021-02-14T04:33:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/feb/14/trump-acquittal-biden-urges-vigilance-to-defend-fragile-democracy-after-impeachment-trial"
+    publishedDateTime: 2021-02-14T08:21:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/feb/14/trump-acquittal-biden-urges-vigilance-to-defend-fragile-democracy-after-impeachment-trial?CMP=oth_b-aplnews_d-1"
     ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/14/trump-acquittal-biden-urges-vigilance-to-defend-fragile-democracy-after-impeachment-trial"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/14/trump-acquittal-biden-urges-vigilance-to-defend-fragile-democracy-after-impeachment-trial"
     type: article
@@ -414,6 +414,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210213&t=2&i=1551450590&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1C0JB"
         width: 968
         height: 545
+        isCached: true
+  - title: "Impeachment isn’t the final word on Capitol riot for Trump"
+    excerpt: "Donald Trump’s acquittal at his second impeachment trial may not be the final word on whether he’s to blame for the deadly Capitol riot"
+    publishedDateTime: 2021-02-14T18:52:00Z
+    webUrl: "https://www.washingtonpost.com/politics/impeachment-isnt-the-final-word-on-capitol-riot-for-trump/2021/02/14/3f87dd00-6ef5-11eb-8651-6d3091eac63f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/impeachment-isnt-the-final-word-on-capitol-riot-for-trump/2021/02/14/3f87dd00-6ef5-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/impeachment-isnt-the-final-word-on-capitol-riot-for-trump/2021/02/14/3f87dd00-6ef5-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "White House says Biden is committed to an independent Justice Department"
     excerpt: "White House Press Secretary Jen Psaki said on Tuesday the decision to leave two U.S. prosecutors in their posts reflects President Joe Biden's commitment to an independent Justice Department."

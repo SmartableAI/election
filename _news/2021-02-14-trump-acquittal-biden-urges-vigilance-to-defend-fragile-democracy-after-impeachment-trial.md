@@ -2,9 +2,9 @@
 category: news
 title: "Trump acquittal: Biden urges vigilance to defend 'fragile' democracy after impeachment trial"
 excerpt: "President says the substance of the charge against Donald Trump over the January attack on US Capitol is not in dispute"
-publishedDateTime: 2021-02-14T04:33:00Z
-originalUrl: "https://www.theguardian.com/us-news/2021/feb/14/trump-acquittal-biden-urges-vigilance-to-defend-fragile-democracy-after-impeachment-trial"
-webUrl: "https://www.theguardian.com/us-news/2021/feb/14/trump-acquittal-biden-urges-vigilance-to-defend-fragile-democracy-after-impeachment-trial"
+publishedDateTime: 2021-02-14T08:21:00Z
+originalUrl: "https://www.theguardian.com/us-news/2021/feb/14/trump-acquittal-biden-urges-vigilance-to-defend-fragile-democracy-after-impeachment-trial?CMP=oth_b-aplnews_d-1"
+webUrl: "https://www.theguardian.com/us-news/2021/feb/14/trump-acquittal-biden-urges-vigilance-to-defend-fragile-democracy-after-impeachment-trial?CMP=oth_b-aplnews_d-1"
 ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/14/trump-acquittal-biden-urges-vigilance-to-defend-fragile-democracy-after-impeachment-trial"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/14/trump-acquittal-biden-urges-vigilance-to-defend-fragile-democracy-after-impeachment-trial"
 type: article
@@ -398,6 +398,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210213&t=2&i=1551450590&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1C0JB"
         width: 968
         height: 545
+        isCached: true
+  - title: "Impeachment isn’t the final word on Capitol riot for Trump"
+    excerpt: "Donald Trump’s acquittal at his second impeachment trial may not be the final word on whether he’s to blame for the deadly Capitol riot"
+    publishedDateTime: 2021-02-14T18:52:00Z
+    webUrl: "https://www.washingtonpost.com/politics/impeachment-isnt-the-final-word-on-capitol-riot-for-trump/2021/02/14/3f87dd00-6ef5-11eb-8651-6d3091eac63f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/impeachment-isnt-the-final-word-on-capitol-riot-for-trump/2021/02/14/3f87dd00-6ef5-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/impeachment-isnt-the-final-word-on-capitol-riot-for-trump/2021/02/14/3f87dd00-6ef5-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Impeachment expert says Trump's lawyers distorted his work 'quite badly'"
     excerpt: "A U.S. law professor who studies impeachment says former President Donald Trump's lawyers misrepresented his research in a brief laying out arguments they will make at his U.S. Senate impeachment trial that starts on Tuesday."
@@ -1666,6 +1682,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "qFVCA7PoaiykjsSho81AZJZhlQ4A+evemdgpNX3bt90ul7X+vXRVwsZrwnQxsPJ+rYkSKJgBx36Vre00L8DdytY771L/E9vP21zs8wfPbgd8LT6hEHC8MYhJkLEnefqklHyHUlTpvel8Um4TCh8UXdq3QqS1kWmZILjfWbmuAtrjayW8dzdKDMIIOWrfs8aDlK5UvQS27Dzw5MPKQvj769K91uw4Ube76auJUeVPngOLvaIOGAQ03kG5baa2I7pvm0iq9scQ3yjuwW0egVicS+4U2y2EE9fp2sCOPr/MU0cBf+RTxeVZf5TtY9BriSNjU6oBFSemT8P223b6BKpa0ITzTeVwtiG4EJeBMk658hF5WqCj5WMYM8K9D4TCYv4zMPY/tTWhCwRIwXRf7/1aXV4iQkncJ3trIMY9cafJ9j1Xf4n+Xdt5LZGBXb+oXR+iDLbL0Kq8CcAXObcykZ13hrF4b8N1vbmbGFlg9756Y565/cmW3cVlQ9vo9Kn5VvUyV0UlEgBNAkt9SIrL0TK8NA==;4Fpo4s5yJYMpRs1iKWpabg=="
+secured: "4MDOxk+PXjBK4fySHJlhiLDRFe1DZT8/PmUPDduK9NdcmjSjwB/wG6R/QvSJgmT05yd4Rm9XDA79sECQTJ0AAbsw02OShOjNc+ib6qy5mKjzFSOwZVX8eWUTcVxy/PlAnnNvNhx0uPq/G52ODGW4mQrFkNtjz5fjm7kzoJ8GZW0zM1Da8B5MCIS8BDluvi6CbtJLKFAb15k3iZiEC8RmSFeZ3bsIUwTtYau8zIlpeSrHrjPmW4nWDEje18nohUjVacDSB6AKdMTT7AgCV/mhcI3NqmU0gfh13daPD+kmJ9HRjWimCHsxrwlex5bW+T5I9LA2itR4Hzge1/qDh8s/2QHzTD/lZEj/eQ4lq7t483g=;rxWi109YLbWUF3PB3aeLCA=="
 ---
 

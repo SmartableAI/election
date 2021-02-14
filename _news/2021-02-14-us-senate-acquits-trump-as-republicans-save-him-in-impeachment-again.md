@@ -81,8 +81,8 @@ related:
         isCached: true
   - title: "Trump acquittal: Biden urges vigilance to defend 'fragile' democracy after impeachment trial"
     excerpt: "President says the substance of the charge against Donald Trump over the January attack on US Capitol is not in dispute"
-    publishedDateTime: 2021-02-14T04:33:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/feb/14/trump-acquittal-biden-urges-vigilance-to-defend-fragile-democracy-after-impeachment-trial"
+    publishedDateTime: 2021-02-14T08:21:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/feb/14/trump-acquittal-biden-urges-vigilance-to-defend-fragile-democracy-after-impeachment-trial?CMP=oth_b-aplnews_d-1"
     ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/14/trump-acquittal-biden-urges-vigilance-to-defend-fragile-democracy-after-impeachment-trial"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/14/trump-acquittal-biden-urges-vigilance-to-defend-fragile-democracy-after-impeachment-trial"
     type: article
@@ -398,6 +398,22 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/13/54f165d0-9a50-4b4e-8127-7e01ff235b09/thumbnail/1200x630/800784316ca0c1fceac7fc2535853681/gettyimages-1301970317.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Impeachment isn’t the final word on Capitol riot for Trump"
+    excerpt: "Donald Trump’s acquittal at his second impeachment trial may not be the final word on whether he’s to blame for the deadly Capitol riot"
+    publishedDateTime: 2021-02-14T18:52:00Z
+    webUrl: "https://www.washingtonpost.com/politics/impeachment-isnt-the-final-word-on-capitol-riot-for-trump/2021/02/14/3f87dd00-6ef5-11eb-8651-6d3091eac63f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/impeachment-isnt-the-final-word-on-capitol-riot-for-trump/2021/02/14/3f87dd00-6ef5-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/impeachment-isnt-the-final-word-on-capitol-riot-for-trump/2021/02/14/3f87dd00-6ef5-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Impeachment expert says Trump's lawyers distorted his work 'quite badly'"
     excerpt: "A U.S. law professor who studies impeachment says former President Donald Trump's lawyers misrepresented his research in a brief laying out arguments they will make at his U.S. Senate impeachment trial that starts on Tuesday."

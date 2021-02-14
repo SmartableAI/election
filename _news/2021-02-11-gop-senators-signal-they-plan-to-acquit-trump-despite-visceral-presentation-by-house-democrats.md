@@ -271,6 +271,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The Point: Decoding Donald Trump's statement on his Senate acquittal"
+    excerpt: "In the wake of the Senate's decision Saturday to acquit Donald Trump of a charge of incitement of the January 6 insurrection at the US Capitol, the former President released a celebratory -- and, at times, cryptic -- statement.\n    \n"
+    publishedDateTime: 2021-02-14T15:52:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BS0o6jN-tJk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/14/politics/donald-trump-acquittal-statement/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/14/politics/donald-trump-acquittal-statement/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210213202046-trump-impeachment-vote-acquittal-day-5-wrap-trial-two-nobles-nr-vpx-00021619-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "These Republicans voted to convict Trump in his second impeachment trial"
     excerpt: "Seven Republican senators joined with Democrats in voting to convict and declare former President Donald Trump guilty at the conclusion of his second impeachment trial.\n    \n"
     publishedDateTime: 2021-02-13T22:15:52Z
@@ -412,6 +428,22 @@ related:
     quality: 165
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210128150149-03-kevin-mccarthy-trump-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Hogan says he would have voted to convict Trump in Senate trial and looks to future of GOP"
+    excerpt: "Maryland GOP Gov. Larry Hogan on Sunday praised Senate Republicans who broke with the party ranks and voted against former President Donald Trump in his second impeachment trial, saying if he were a senator, he would have done the same.\n    \n"
+    publishedDateTime: 2021-02-14T16:03:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/U3yyfNCfUjw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/14/politics/larry-hogan-republican-party-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/14/politics/larry-hogan-republican-party-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210214100602-screengrab-larry-hogan-cnn-0214-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -618,6 +650,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/02/12/us/politics/12impeachment-briefing-argument/12impeachment-briefing-argument-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Decoding Donald Trump's statement on his Senate acquittal"
+    excerpt: "In the wake of the Senate's decision Saturday to acquit Donald Trump of a charge of incitement of the January 6 insurrection at the US Capitol, the former President released a celebratory -- and, at times,"
+    publishedDateTime: 2021-02-14T10:52:00Z
+    webUrl: "https://www.cnn.com/2021/02/14/politics/donald-trump-acquittal-statement/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/14/politics/donald-trump-acquittal-statement/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/14/politics/donald-trump-acquittal-statement/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210213202046-trump-impeachment-vote-acquittal-day-5-wrap-trial-two-nobles-nr-vpx-00021619-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Donald Trump acquitted in second impeachment trial"
     excerpt: "In the most bipartisan Senate impeachment vote in history, former President Trump was declared not guilty of the impeachment charge that he incited the Capitol insurrection. Trump released a statement calling the trial a “witch hunt."

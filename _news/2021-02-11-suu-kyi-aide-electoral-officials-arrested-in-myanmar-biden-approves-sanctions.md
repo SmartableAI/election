@@ -47,6 +47,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Keir Starmer can learn much from Joe Biden’s first weeks"
+    excerpt: "Letters: Judith A Daniels urges the Labour leader to take a leaf out of the US president’s book, while Prof Roger Brown says the real lesson from the US is the way in which the existing political system handicaps parties of the centre-left."
+    publishedDateTime: 2021-02-14T17:19:00Z
+    webUrl: "https://www.theguardian.com/politics/2021/feb/14/keir-starmer-can-learn-much-from-joe-bidens-first-weeks"
+    ampWebUrl: "https://amp.theguardian.com/politics/2021/feb/14/keir-starmer-can-learn-much-from-joe-bidens-first-weeks"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/politics/2021/feb/14/keir-starmer-can-learn-much-from-joe-bidens-first-weeks"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/a122384157b1a45c480aaa7f172ae26b85684ac7/0_346_5184_3110/master/5184.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=125dfaa203fcd745263e6528ece9b660"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Biden launches review of Guantanamo prison, aims to close it before leaving office"
     excerpt: "President Joe Biden's aides have launched a formal review of the U.S. military prison at Guantanamo Bay in Cuba, reviving the Obama-era goal of closing the controversial facility with the aim of doing so before he leaves office,"
     publishedDateTime: 2021-02-13T05:18:00Z
