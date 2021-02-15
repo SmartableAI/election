@@ -557,6 +557,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump was aware Pence had been evacuated to secure location as rioters stormed Capitol"
+    excerpt: "President Donald Trump was aware his vice president had been evacuated to a secure location as rioters stormed the US Capitol, according to a person who was with Trump on January 6."
+    publishedDateTime: 2021-02-13T16:32:00Z
+    webUrl: "https://www.cnn.com/2021/02/13/politics/trump-pence-capitol-riot/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/13/politics/trump-pence-capitol-riot/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/trump-pence-capitol-riot/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 142
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210213203745-donald-trump-mike-pence-sot-rep-impeachment-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Strong Trump Supporters Picked to Head Michigan Republican Party"
     excerpt: "The state’s selection of party chair and vice chair hinged in large part on who was most loyal to the former president."
     publishedDateTime: 2021-02-07T02:36:00Z

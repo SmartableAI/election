@@ -2,21 +2,21 @@
 category: news
 title: "On Parkland anniversary, Biden calls for tougher gun laws"
 excerpt: "Sorrow is reverberating across the country Sunday as Americans joined a Florida community in remembering the 17 lives lost three years ago in the Parkland school shooting massacre"
-publishedDateTime: 2021-02-14T16:53:00Z
-originalUrl: "https://abcnews.go.com/US/wireStory/parkland-anniversary-biden-calls-tougher-gun-laws-75891867"
-webUrl: "https://abcnews.go.com/US/wireStory/parkland-anniversary-biden-calls-tougher-gun-laws-75891867"
-ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/parkland-anniversary-biden-calls-tougher-gun-laws-75891867"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/parkland-anniversary-biden-calls-tougher-gun-laws-75891867"
+publishedDateTime: 2021-02-15T08:25:00Z
+originalUrl: "https://www.washingtonpost.com/national/on-parkland-anniversary-biden-calls-for-tougher-gun-laws/2021/02/14/73d7f200-6f3d-11eb-8651-6d3091eac63f_story.html"
+webUrl: "https://www.washingtonpost.com/national/on-parkland-anniversary-biden-calls-for-tougher-gun-laws/2021/02/14/73d7f200-6f3d-11eb-8651-6d3091eac63f_story.html"
+ampWebUrl: "https://www.washingtonpost.com/national/on-parkland-anniversary-biden-calls-for-tougher-gun-laws/2021/02/14/73d7f200-6f3d-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/on-parkland-anniversary-biden-calls-for-tougher-gun-laws/2021/02/14/73d7f200-6f3d-11eb-8651-6d3091eac63f_story.html?outputType=amp"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/US/WireAP_a22ebcdb243146ab8fdfdbe3ffc3006e_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -112,6 +112,6 @@ related:
         height: 2333
         isCached: true
 
-secured: "QJHAW1BIX9vj66ibPXZE1hq5MCBTkQpRNRi0qDyaYoYZaSxDpYYczhxTa4Dy4qlX3qluMcaAwW8brUFhQVZjvEBkExHYaYUtJREbDN6yM082WrzA+9Jc3a7f/pVKJGZJRyT9NKA95xwz2zlruIcM7j30ZVx6Fn084KnUkRNef2ZdY+wmGdDHbtXQAPnwnzLO3vkDyJg3cmM8e/EyiG6W5c7+8PtZVfp8QjBM02ES5/20ogKsvX6elhVpM5MSF1ICwwsX09KAC9Zp+0K3igdNbtXOjD7uvtxChw6yb+ytvvJy6pgQG4gg3N4Nn0a2DiWBczlXqRP6LiLysSPfNzaIjjn6sVJO3/MjSDKpyChQO8YediXfqpGMgACXLzz1MzUgoPsx7V9FNTFsL1kNUEMr5w6ve93Zx6mJC8kwtE1vCx+KUIkSf9nkpg6tlP1XONs7SNPrgQntlKF517uH2Pc+86MB3gALtwmge+1R4Ipr2pRzPL/ssvOTgyJI+D8Dn7PWkleYzyXao/LMwY4OIiIWew==;xZ4KrgZBptpVuV6uf1vYAQ=="
+secured: "DMAdywHBajCaTIAismDvc1rV3mj2ijfyEaoKGt/3aD5n7dqhtg60As3pSZ1iYRBzToBUuqqchA9ZZAx4uTjmWWcmWTUVUj3FKjIL17KDU8vvmZfhihjTZ2lWyvZhVoqM2VefqMOQ1hDS+ECDmW/ZNgx4qdKhfnlmeaNynG9yGEbNpySn8RmPKF9nStPu3vQwfYCWemnHNbtiZEvqgfbtf0NOIBHp6ROSuge9wQ7i2cKZH05lyyZEGwQoz5sNkTIPgk4J0sNtc78SmSuLb5T4i1WGZ0cC9GEGK3zC2xiXuWarNxtDzILZSJx5px/Ic3gS6Fpwbepd7pLd29pcMYPUlgGHRETwuifhbdNzxZZ240s=;JF2weIxkrLnL61lrhjaJ2w=="
 ---
 

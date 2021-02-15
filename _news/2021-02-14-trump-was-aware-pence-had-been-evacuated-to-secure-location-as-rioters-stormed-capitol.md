@@ -1,34 +1,34 @@
 ---
 category: news
-title: "As the Senate Nears a Verdict on Trump"
-excerpt: "Readers call on Republicans to vote to convict the former president. “Jan. 6 was a day most of us will never forget,” one reader writes. “And now Donald Trump must be held accountable.”"
-publishedDateTime: 2021-02-12T20:01:00Z
-originalUrl: "https://www.nytimes.com/2021/02/12/opinion/letters/trump-impeachment-trial.html"
-webUrl: "https://www.nytimes.com/2021/02/12/opinion/letters/trump-impeachment-trial.html"
-ampWebUrl: "https://www.nytimes.com/2021/02/12/opinion/letters/trump-impeachment-trial.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/12/opinion/letters/trump-impeachment-trial.amp.html"
+title: "Trump was aware Pence had been evacuated to secure location as rioters stormed Capitol"
+excerpt: "President Donald Trump was aware his vice president had been evacuated to a secure location as rioters stormed the US Capitol, according to a person who was with Trump on January 6."
+publishedDateTime: 2021-02-13T16:32:00Z
+originalUrl: "https://www.cnn.com/2021/02/13/politics/trump-pence-capitol-riot/index.html"
+webUrl: "https://www.cnn.com/2021/02/13/politics/trump-pence-capitol-riot/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/02/13/politics/trump-pence-capitol-riot/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/trump-pence-capitol-riot/index.html"
 type: article
-quality: 135
+quality: 142
 heat: -1
 published: false
 
 provider:
-  name: New York Times
-  domain: nytimes.com
+  name: CNN
+  domain: cnn.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Donald Trump
+  - Mike Pence
   - Democratic Voice
 
 images:
-  - url: "https://static01.nyt.com/images/2021/02/12/us/politics/12impeachment-briefing-argument/12impeachment-briefing-argument-facebookJumbo.jpg"
-    width: 1050
-    height: 550
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210213203745-donald-trump-mike-pence-sot-rep-impeachment-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -572,22 +572,6 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "Trump was aware Pence had been evacuated to secure location as rioters stormed Capitol"
-    excerpt: "President Donald Trump was aware his vice president had been evacuated to a secure location as rioters stormed the US Capitol, according to a person who was with Trump on January 6."
-    publishedDateTime: 2021-02-13T16:32:00Z
-    webUrl: "https://www.cnn.com/2021/02/13/politics/trump-pence-capitol-riot/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/13/politics/trump-pence-capitol-riot/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/trump-pence-capitol-riot/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 142
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210213203745-donald-trump-mike-pence-sot-rep-impeachment-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Strong Trump Supporters Picked to Head Michigan Republican Party"
     excerpt: "The state’s selection of party chair and vice chair hinged in large part on who was most loyal to the former president."
     publishedDateTime: 2021-02-07T02:36:00Z
@@ -665,6 +649,22 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2021/02/11/nyregion/11nytoday/11nytoday-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "As the Senate Nears a Verdict on Trump"
+    excerpt: "Readers call on Republicans to vote to convict the former president. “Jan. 6 was a day most of us will never forget,” one reader writes. “And now Donald Trump must be held accountable.”"
+    publishedDateTime: 2021-02-12T20:01:00Z
+    webUrl: "https://www.nytimes.com/2021/02/12/opinion/letters/trump-impeachment-trial.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/12/opinion/letters/trump-impeachment-trial.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/12/opinion/letters/trump-impeachment-trial.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/12/us/politics/12impeachment-briefing-argument/12impeachment-briefing-argument-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true
@@ -887,6 +887,6 @@ related:
         height: 720
         isCached: true
 
-secured: "UKoJDfjUObjdslKD/k3+WenOyhRfUOF8NmbZdZPD9Z3L2GPkqbhC/jnusM4TNlGmMN0yGtWDkjm9WT8ElRhCQ9ErUN8HMbkl4ub+yixbHxpGo2Fk8FmXM5BUs+KgQLfH/Be64C4S8TqR/hAFH9R58Hn42hl0HOugFKoxdFRoJy5Z5GbwC5RH8ac6X0hOX3Luj9hnGZwdxWz/tQ4dVsFsDXeEeXBWlMValsDdr3dt78uPafkwsMp9E11gYnccwn/Eq4baeDgH4MrqQm5I8DoOXFvYfbOdjf5Jvn5BjNjAXjDk4ZZKHSMpMgyayDrM20pAhUhZgyX0/dLqu+O+kn5ADOolN3pV/wufpR0b3yDlTtY=;TL227HK0oE+JgW0tu5zHuw=="
+secured: "NVZGqxgcgANbMx+mnuP7ZqAm803EPUtrcL3uncPlX0DLdaHOm3jz2KaQ0DbcvPXr7iwWnHSbN+yigSsPjioEpMIkCHd0jx/5eFkK3AlvWwyKW18V5eSTsuscaQGYqHmeD3Cx3M13RfhjZAv9F7+psbxqYnYvwKqvh7kuvlxZRxVt0kvZrcpS9hMk4hJRvGAuo3ah/vDiXw38mHJuW3dyT9uklm0n20FMT5N6Mhb+J1AFM47wA/g/niiUatE4HKWZXSq7mQnNWuzMm1KI24ApqKcsgRQCQBLLSqF1OufESCU5hBPcrCnK5S1lbi6vOzn4oa/OZ/V37slO6jr3ROPDRYo+dcC1vVsO58GOJF6otHo=;t6qmdjYEh/xFnGHxRumInQ=="
 ---
 

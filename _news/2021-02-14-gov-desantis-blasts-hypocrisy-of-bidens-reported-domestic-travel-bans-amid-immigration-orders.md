@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "DeSantis cites hypocrisy of Biden's reported domestic travel bans amid immigration orders: LIVE UPDATES"
+    excerpt: "Florida Gov. Ron DeSantis called President Biden's reported consideration of domestic travel bans during the coronavirus pandemic amid signing immigration executive orders \"a huge contradiction.\""
+    publishedDateTime: 2021-02-15T08:55:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6eZgSouoGCk/biden-live-updates-2-15-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-live-updates-2-15-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-live-updates-2-15-2021.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/acf50ad6-1b0a-4fb3-a73b-98e36eaf1c0f/ed36a3fd-1c83-4e36-b28d-2c34f7cd93a1/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Nikki Haley accuses Biden of 'snubbing' Israel, 'cozying up' to Iran: 'I really don't understand the logic'"
     excerpt: "Former U.S. Ambassador to the United Nations Nikki Haley accused the Biden administration Wednesday of \"snubbing Israel\" and \"cozying up to Iran\" in the two weeks the 46th president has been in office."
     publishedDateTime: 2021-02-04T02:40:02Z

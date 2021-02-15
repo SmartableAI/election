@@ -2,21 +2,21 @@
 category: news
 title: "Biden order reestablishes faith-focused White House office"
 excerpt: "President Joe Biden has signed an executive order relaunching a White House office aimed at fostering cooperation between the federal government and faith-based and secular community organizations"
-publishedDateTime: 2021-02-14T16:21:00Z
-originalUrl: "https://www.washingtonpost.com/politics/biden-order-reestablishes-faith-focused-white-house-office/2021/02/14/17fe6700-6ee0-11eb-8651-6d3091eac63f_story.html"
-webUrl: "https://www.washingtonpost.com/politics/biden-order-reestablishes-faith-focused-white-house-office/2021/02/14/17fe6700-6ee0-11eb-8651-6d3091eac63f_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/biden-order-reestablishes-faith-focused-white-house-office/2021/02/14/17fe6700-6ee0-11eb-8651-6d3091eac63f_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-order-reestablishes-faith-focused-white-house-office/2021/02/14/17fe6700-6ee0-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+publishedDateTime: 2021-02-14T18:47:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-order-reestablishes-faith-focused-white-house-office-75891444"
+webUrl: "https://abcnews.go.com/Politics/wireStory/biden-order-reestablishes-faith-focused-white-house-office-75891444"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-order-reestablishes-faith-focused-white-house-office-75891444"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-order-reestablishes-faith-focused-white-house-office-75891444"
 type: article
 quality: 125
 heat: 305
 published: true
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://s.abcnews.com/images/Politics/WireAP_c133cceddc084d249d201a326a8438cd_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -164,6 +164,6 @@ related:
         height: 600
         isCached: true
 
-secured: "fUiWbALPR7DAhxMmO7AvsZiJmlq0UOpbXsXA8YFMu3I8/IkzZJ6BVa6wMBF73ewOk7HOg5flWMdnVi3m23vBqZhozH8YNHSUH6FrqG2CuMuF3Qfz1gM03Gs+kboQuwKDiT1BMZGXyiCkd7P6TlIPUBVZL/FCUQo7I82Rsq87y6baiElpJPTHFJcZKWqreXaNnkT7slLyJLbZzy1G5OIM6tT4azCH8cdVjrJjweMWnZv30/ssWNIv7P50GJKUJAeTWDD3bLCCjmiWBRiKn71kw34uzioiSQ1KtXwQRzHdybj64nIlzmKArzh7YOJZ0fzrqCVo/tp30cHRhgpAyZOTfa1j7bYMTyvFXc92oTDGHXc=;86SSjUA68Yx5YCj3xprHIA=="
+secured: "rv+PX0w2HaESDWWvXf7nTtyeMOYqpSb2BC/iDcCkBVyGt3AWzrW95iVex+mMHspOYVANvkZpqvSJrZHjLLRzFVMuSsBc0ZIog0FWowJcaChMUDZM/Ksl1t3QsJVIbWtdn1r38VoX5DY05V5x9AZm7y8BCjt6oAn1BC74XU7/eXb9Yko6BI6kf7k6EkTPuOZ+S2RCDm8x+c0vk5c2Rd1cEkfVJjl3tSBAusmeBf5y5bE8jXX1CDNr+gg14pfaatBCP7/fbsGt6O0ACp2wWkD1CUAPderA/XdXmlo/06MEn2imkaO+PYgLGhJCwlWd4EbEDOcPD6uLW4RatfZRmDPXvTQMJB56UbDZCXk28YeYUmo=;XLUAUFvSmkVjiuHmI/14+Q=="
 ---
 

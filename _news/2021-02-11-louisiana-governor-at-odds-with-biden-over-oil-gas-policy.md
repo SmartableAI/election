@@ -49,19 +49,19 @@ related:
         isCached: true
   - title: "On Parkland anniversary, Biden calls for tougher gun laws"
     excerpt: "Sorrow is reverberating across the country Sunday as Americans joined a Florida community in remembering the 17 lives lost three years ago in the Parkland school shooting massacre"
-    publishedDateTime: 2021-02-14T16:53:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/parkland-anniversary-biden-calls-tougher-gun-laws-75891867"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/parkland-anniversary-biden-calls-tougher-gun-laws-75891867"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/parkland-anniversary-biden-calls-tougher-gun-laws-75891867"
+    publishedDateTime: 2021-02-15T08:25:00Z
+    webUrl: "https://www.washingtonpost.com/national/on-parkland-anniversary-biden-calls-for-tougher-gun-laws/2021/02/14/73d7f200-6f3d-11eb-8651-6d3091eac63f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/on-parkland-anniversary-biden-calls-for-tougher-gun-laws/2021/02/14/73d7f200-6f3d-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/on-parkland-anniversary-biden-calls-for-tougher-gun-laws/2021/02/14/73d7f200-6f3d-11eb-8651-6d3091eac63f_story.html?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/US/WireAP_a22ebcdb243146ab8fdfdbe3ffc3006e_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Biden administration to begin admitting migrants forced to wait in Mexico"
     excerpt: "The Biden administration plans to begin processing and admitting migrants forced to wait in Mexico under Trump administration's \"Migrant Protection Protocols\""
