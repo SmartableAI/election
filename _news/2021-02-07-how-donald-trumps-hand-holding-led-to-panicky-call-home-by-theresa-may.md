@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/07/how-donald-trumps-ha
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/07/how-donald-trumps-hand-holding-led-to-panicky-call-home-by-theresa-may"
 type: article
 quality: 125
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -126,6 +126,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/02-13-2021/t_ed8daf3ec7794d9486c5ced0b3c93c00_name_McConnell.jpg&w=1440"
         width: 1280
         height: 720
+        isCached: true
+  - title: "7 yuuge reasons Donald Trump isn't going away"
+    excerpt: "Insider identified seven weapons in Trump's arsenal — like political committees, government facilities, and media platforms — for staging a comeback."
+    publishedDateTime: 2021-02-15T02:25:00Z
+    webUrl: "https://www.businessinsider.com/where-is-donald-trump-new-2024-campaign-committee-2021-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+    images:
+      - url: "https://i.insider.com/60149ab66dfbe10018e00e73?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "New Evidence Shows Trump Used Riot To Pressure Congress to Steal Election"
     excerpt: "Trump encouraged a public demonstration, promised in advance it would be “wild,” instructed his supporters that extraordinary measures were needed to save the republic from his “landslide” election being stolen,"

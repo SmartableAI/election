@@ -1,22 +1,20 @@
 ---
 category: news
-title: "The Latest: Tuberville stands by account of Trump phone call"
-excerpt: "Republican Sen. Tommy Tuberville of Alabama is standing by his account that he told then-President Donald Trump that Vice President Mike Pence was being evacuated from the Senate during the Capitol ri"
-publishedDateTime: 2021-02-13T02:23:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/latest-trump-impeachment-trial-shifts-defense-75850044"
-webUrl: "https://abcnews.go.com/Politics/wireStory/latest-trump-impeachment-trial-shifts-defense-75850044"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/latest-trump-impeachment-trial-shifts-defense-75850044"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/latest-trump-impeachment-trial-shifts-defense-75850044"
+title: "7 yuuge reasons Donald Trump isn't going away"
+excerpt: "Insider identified seven weapons in Trump's arsenal — like political committees, government facilities, and media platforms — for staging a comeback."
+publishedDateTime: 2021-02-15T02:25:00Z
+originalUrl: "https://www.businessinsider.com/where-is-donald-trump-new-2024-campaign-committee-2021-2"
+webUrl: "https://www.businessinsider.com/where-is-donald-trump-new-2024-campaign-committee-2021-2"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_316f47562bd74cccb233813a4bf3a38c_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://i.insider.com/60149ab66dfbe10018e00e73?width=1200&format=jpeg"
+    width: 1200
+    height: 600
     isCached: true
 
 related:
@@ -46,6 +44,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/52c9efc5eb94b4ad66f48b556fdd3110f713e776/194_189_3962_2377/master/3962.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=61685925b23d35c19fcfba70c1e4b138"
         width: 600
         height: 360
+        isCached: true
+  - title: "The Latest: Tuberville stands by account of Trump phone call"
+    excerpt: "Republican Sen. Tommy Tuberville of Alabama is standing by his account that he told then-President Donald Trump that Vice President Mike Pence was being evacuated from the Senate during the Capitol ri"
+    publishedDateTime: 2021-02-13T02:23:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/latest-trump-impeachment-trial-shifts-defense-75850044"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/latest-trump-impeachment-trial-shifts-defense-75850044"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/latest-trump-impeachment-trial-shifts-defense-75850044"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_316f47562bd74cccb233813a4bf3a38c_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Loyalty to Trump remains the fault line for Republicans"
     excerpt: "Seven Republicans voted to convict Trump, several more condemned him, but the party, overall remains loyal to the former president."
@@ -127,20 +141,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "7 yuuge reasons Donald Trump isn't going away"
-    excerpt: "Insider identified seven weapons in Trump's arsenal — like political committees, government facilities, and media platforms — for staging a comeback."
-    publishedDateTime: 2021-02-15T02:25:00Z
-    webUrl: "https://www.businessinsider.com/where-is-donald-trump-new-2024-campaign-committee-2021-2"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-    images:
-      - url: "https://i.insider.com/60149ab66dfbe10018e00e73?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "New Evidence Shows Trump Used Riot To Pressure Congress to Steal Election"
     excerpt: "Trump encouraged a public demonstration, promised in advance it would be “wild,” instructed his supporters that extraordinary measures were needed to save the republic from his “landslide” election being stolen,"
     publishedDateTime: 2021-02-13T20:33:00Z
@@ -169,6 +169,6 @@ related:
       domain: usnews.com
     quality: 46
 
-secured: "9adUnwdAcbVLyAJWZbu3mK92KiK/prqBmzhyB3vN6PbpgrrRNYBn2X6U//EpalRvF9nGUd8VbrImCqpsnXK78Y5eUtjh9NUl/10flv3JaKj+l+nijTO776c3Xt8qLEY1OwMHZuRXHtzCpLmwhrwqGerg/eYi78Jeyna5HSQR845enKIRbOOc9PPz7ufhUl3VNxIyvEFQ/uv8qBc7dyGlO6qzfaC1yStIhIt2jaYew2I0RE2RwZoXs5UYAnBCoTwsemOhqL5bCo+RoCJ2z8mG5SFDm48MwWPuKKu+VhR3aX2jkPJ+Pc5FKT81jjDYt8TiVV8cCAr3EWmJnUh06GLIeRfAmK2S72DueBeonwIZFBh85svnmDpos3HrYg7nFVhlBB1ZZGu4kQo+AzLpCzVftMCXaxEMg/yakgd+KLDMoHUtvy0p9CiFg8N9KcFksYnIVxt3PdqMsnxj2CglvA/CspPAJVdGbsk4KrPCI+zLTBETzDYM+VAIutsMIUWRuq2X8Wwdi+u1bkxlmYTV39Qhdg==;cPT+e8OTBHCMYedZjypKBw=="
+secured: "zWEKK2efHXAaqyVedrKLMt20PhPg7ppPF/AGoreHXKFYAvxKVD3oxsvZUwRBAZ7kjqCon7bBrsZilxc4wgYvfQmwX6/CoruXQcaJQEsZC6J/Sq1KvU26NmH7lmg5YaOyk39pDz3CpBhISof+U8UfaYZeL09AUnlGbJGOPoMR3l/wZOfsxTiD5okN6SHcjuLfcPthgxEYOIx3FX90lBjEjAyytV0ld5wMj8bFJV8dWP3JlIkd5AfF5o+d819txgY3hPiqfChUJTsULW97BbH0ff+xaOSUbmH5ZS0B3qsDeejNJIaxdAgO1RmDloz9lDThBceJcS6zcqTS7dp1SsBiW+Zk/CB59hzvcZCQRBWE1pc=;/DbROSGWRe0V4fHyp4P4jg=="
 ---
 

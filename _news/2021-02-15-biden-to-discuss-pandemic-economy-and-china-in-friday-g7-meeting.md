@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden presses for $1.9 trillion COVID relief plan with governors, mayors"
-excerpt: "U.S. President Joe Biden pushed for the first major legislative achievement of his term on Friday, turning to a bipartisan group of local officials for help on his $1.9 trillion coronavirus relief plan."
-publishedDateTime: 2021-02-12T22:35:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-biden-idINKBN2AC10D"
-webUrl: "https://www.reuters.com/article/us-usa-biden-idINKBN2AC10D"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2AC10D"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2AC10D"
+title: "Biden to discuss pandemic, economy and China in Friday G7 meeting"
+excerpt: "President Joe Biden will hold his first event with leaders from the Group of Seven nations in a virtual meeting on Friday to discuss the coronavirus pandemic, the world economy and dealing with China as a group,"
+publishedDateTime: 2021-02-15T00:57:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-biden-g7-idUSKBN2AE0T6"
+webUrl: "https://www.reuters.com/article/us-usa-biden-g7-idUSKBN2AE0T6"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AE0T6"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AE0T6"
 type: article
-quality: 124
+quality: 125
 heat: -1
 published: false
 
@@ -25,8 +25,8 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210212&t=2&i=1551340103&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1B0Q3"
-    width: 811
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210214&t=2&i=1551529725&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1D0OH"
+    width: 800
     height: 545
     isCached: true
 
@@ -63,20 +63,20 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Biden to discuss pandemic, economy and China in Friday G7 meeting"
-    excerpt: "President Joe Biden will hold his first event with leaders from the Group of Seven nations in a virtual meeting on Friday to discuss the coronavirus pandemic, the world economy and dealing with China as a group,"
-    publishedDateTime: 2021-02-15T00:57:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-g7-idUSKBN2AE0T6"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AE0T6"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AE0T6"
+  - title: "Biden presses for $1.9 trillion COVID relief plan with governors, mayors"
+    excerpt: "U.S. President Joe Biden pushed for the first major legislative achievement of his term on Friday, turning to a bipartisan group of local officials for help on his $1.9 trillion coronavirus relief plan."
+    publishedDateTime: 2021-02-12T22:35:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-idINKBN2AC10D"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2AC10D"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2AC10D"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 125
+    quality: 124
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210214&t=2&i=1551529725&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1D0OH"
-        width: 800
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210212&t=2&i=1551340103&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1B0Q3"
+        width: 811
         height: 545
         isCached: true
   - title: "Biden: Governors and mayors need $350 billion to fight COVID"
@@ -118,6 +118,6 @@ related:
         height: 600
         isCached: true
 
-secured: "FpwcL6gHOh7DZDlF4iDK/wbjtmfB+7Wf3S+X1z8ui/r8U3y2YsxBrOTlxeQ8ufK1WufOJU+hpPO9b6FxD4brdp+wmdUK8FiHeY6aMCSakzA633i7fSO6+nucOg9uCGgCm5r01vhg7tD+vLjNb5NCePJp9mEh+ij9YK8TCkKa5RenhqKrTvHPif21c6SvnNtCo5ueamWFEC4srzjZkBfbXrjc8YznlzJYP352gbe80J3UCKQgTos2Ixr//12XLuGHiQX+sxNajiTUv0MYnpxN2MP9AEn+PMO3ZDVDped4y8CanWy++3JHOuLToB4CsVxoMXSvKaoeSg3p6JPyIsNYqUDiOWSZ95lxhgqO7Otv+saE09UWMA4o4rfP9OaI6ALkoFwjBDEXvMf/IyBp90l3Nj1uQZ9HjaBMF9pip1VERRlnHuE0faAaQGStHzDGIXH/HZjlyfYpiFUDLbSiu+DzwfiYy1zFVOZ5JBFL/9O07HMpNxhsnCepIE9WuDzWckk/hH6kFDZBuHhfoUihSGQC6g==;Jl3P5ghUK3UQP82SPj2YaA=="
+secured: "BFIFpTRXkft6mCjw7qAHh/7in19uoyNbrW2tItr5CmCaLL+GvK3wELxvsK0ir8POSdvCGXfhnQOvGIccttpfqUvwtyLF/cuN9qGUlQ7ZQ237apapBMYQ3LoKPnH4SzR3CxxwhdHCPx/OKcYMmJLsCF/D/k5Dm6gMeBIWOVWNPpGIqPCZ/cGweKZlpnnEYMFwGzk0hchEGdrxe/QK6vJyu0yOfPJlGRIIbRHBMS6shRNmzf8PEkSVmje/xhL7djTOwUw/K3FYV8ibgrE00d6yh+DRLQ6i68vYKF+YKvkBmcuQFqaxx0fDYOVTtHF7KUi/o6FdltxfLSROHry4J4j82GG7lBR6LWGjKs+aGnRPDQs=;8GCIVp4w3HeqZTSPRoXd9w=="
 ---
 

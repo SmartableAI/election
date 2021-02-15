@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden to discuss pandemic, economy and China in Friday G7 meeting"
+    excerpt: "President Joe Biden will hold his first event with leaders from the Group of Seven nations in a virtual meeting on Friday to discuss the coronavirus pandemic, the world economy and dealing with China as a group,"
+    publishedDateTime: 2021-02-15T00:57:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-g7-idUSKBN2AE0T6"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AE0T6"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AE0T6"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210214&t=2&i=1551529725&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1D0OH"
+        width: 800
+        height: 545
+        isCached: true
   - title: "Biden presses for $1.9 trillion COVID relief plan with governors, mayors"
     excerpt: "U.S. President Joe Biden pushed for the first major legislative achievement of his term on Friday, turning to a bipartisan group of local officials for help on his $1.9 trillion coronavirus relief plan."
     publishedDateTime: 2021-02-12T22:35:00Z

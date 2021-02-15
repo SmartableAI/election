@@ -2,11 +2,11 @@
 category: news
 title: "With Trump impeachment trial over, wounded Washington grapples with divisions"
 excerpt: "Former President Donald Trump's acquittal on charges of inciting a deadly attack on the U.S. Capitol left Democrats and Republicans deeply divided on Sunday even as his Democratic successor, Joe Biden,"
-publishedDateTime: 2021-02-15T00:10:00Z
-originalUrl: "https://www.reuters.com/article/usa-trump-impeachment-idINKBN2AE0BK"
-webUrl: "https://www.reuters.com/article/usa-trump-impeachment-idINKBN2AE0BK"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2AE0BK"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2AE0BK"
+publishedDateTime: 2021-02-15T02:10:00Z
+originalUrl: "https://www.reuters.com/article/uk-usa-trump-impeachment-idUSKBN2AE0BG"
+webUrl: "https://www.reuters.com/article/uk-usa-trump-impeachment-idUSKBN2AE0BG"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AE0BG"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AE0BG"
 type: article
 quality: 122
 heat: -1
@@ -81,8 +81,8 @@ related:
         isCached: true
   - title: "Trump acquittal: Biden urges vigilance to defend 'fragile' democracy after impeachment trial"
     excerpt: "President says the substance of the charge against Donald Trump over the January attack on US Capitol is not in dispute"
-    publishedDateTime: 2021-02-14T08:21:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/feb/14/trump-acquittal-biden-urges-vigilance-to-defend-fragile-democracy-after-impeachment-trial?CMP=oth_b-aplnews_d-1"
+    publishedDateTime: 2021-02-14T10:21:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/feb/14/trump-acquittal-biden-urges-vigilance-to-defend-fragile-democracy-after-impeachment-trial"
     ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/14/trump-acquittal-biden-urges-vigilance-to-defend-fragile-democracy-after-impeachment-trial"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/14/trump-acquittal-biden-urges-vigilance-to-defend-fragile-democracy-after-impeachment-trial"
     type: article
@@ -1773,6 +1773,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "gwNjnQw15fQhQNNyy6RGxiNewqb3e1xLwvcRG0uswq8iK/iVPaSDQW75O93vp70siRv+9P0ZcVam6yjVhfEzD7Hb7ex7G/ftMKpGsBc9vsPaBLkRrqL+M4UhRgKgfR2Kq66njHn2bHrs6JTL10bpnMuRBzltvzh9NJEJXxa2W+qouUOsQKJ/Ff4gpKcBDeiOeIce/X8xIJs5/3Pial91+3O/NmKEf79URwEQsjNpXadhH88FbXayJSxJo5rv2nIhsrCY45/HSFXgnzgA48TnVid85xjoUxNoCux7gIL+1arocQUjCMzbEzCPInsppeepuW1lRUVhTzP2/UNMnOF1XJijZ6F7EBpxd+oOAGQr4cQ=;kDe7jVjn9wP9fhTSLENCww=="
+secured: "QlbxqhooxGqjPpM9mW6jx49PxBE5nvETG4As4BTMmJwxPLNuFX6TYxNxLaDdcB+3MSFofJGyGDc9xGb4fotJGdLqqxQcjUHXQ+o9GyLR1YLJNIrxeXqgOsld4weHB/WEJoZw5Y2axZo1v7J/6oHYve0q5OdurGMA0W30kef7cA5spVxRHh3926Y3j/D8pdEP0UkqjzJBwRXxb2btsHbk47hinh79FJXwhLMRuSIbHxict1sfShB7WWiZ+2z1J7nrtHI2VDcLQe8PZ25/64o0N0VBEyWmAEmzfPB+bGxGWVzw5vFUfFNJ/JsA8V7iW/b61XHZ3dBERiL///iKVLDsD1YMjHs1jmwwcgS1JkEk1gw=;NHZrw0hmwaPC+uiaA4W0hw=="
 ---
 

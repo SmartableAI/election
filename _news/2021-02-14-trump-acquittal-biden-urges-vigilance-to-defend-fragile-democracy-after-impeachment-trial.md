@@ -2,9 +2,9 @@
 category: news
 title: "Trump acquittal: Biden urges vigilance to defend 'fragile' democracy after impeachment trial"
 excerpt: "President says the substance of the charge against Donald Trump over the January attack on US Capitol is not in dispute"
-publishedDateTime: 2021-02-14T08:21:00Z
-originalUrl: "https://www.theguardian.com/us-news/2021/feb/14/trump-acquittal-biden-urges-vigilance-to-defend-fragile-democracy-after-impeachment-trial?CMP=oth_b-aplnews_d-1"
-webUrl: "https://www.theguardian.com/us-news/2021/feb/14/trump-acquittal-biden-urges-vigilance-to-defend-fragile-democracy-after-impeachment-trial?CMP=oth_b-aplnews_d-1"
+publishedDateTime: 2021-02-14T10:21:00Z
+originalUrl: "https://www.theguardian.com/us-news/2021/feb/14/trump-acquittal-biden-urges-vigilance-to-defend-fragile-democracy-after-impeachment-trial"
+webUrl: "https://www.theguardian.com/us-news/2021/feb/14/trump-acquittal-biden-urges-vigilance-to-defend-fragile-democracy-after-impeachment-trial"
 ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/14/trump-acquittal-biden-urges-vigilance-to-defend-fragile-democracy-after-impeachment-trial"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/14/trump-acquittal-biden-urges-vigilance-to-defend-fragile-democracy-after-impeachment-trial"
 type: article
@@ -593,10 +593,10 @@ related:
         isCached: true
   - title: "With Trump impeachment trial over, wounded Washington grapples with divisions"
     excerpt: "Former President Donald Trump's acquittal on charges of inciting a deadly attack on the U.S. Capitol left Democrats and Republicans deeply divided on Sunday even as his Democratic successor, Joe Biden,"
-    publishedDateTime: 2021-02-15T00:10:00Z
-    webUrl: "https://www.reuters.com/article/usa-trump-impeachment-idINKBN2AE0BK"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2AE0BK"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2AE0BK"
+    publishedDateTime: 2021-02-15T02:10:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump-impeachment-idUSKBN2AE0BG"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AE0BG"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AE0BG"
     type: article
     provider:
       name: Reuters
@@ -1773,6 +1773,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "O4E0pcVsCb480aioSAGiOIjYkTAp34tUqn16zse3MOSWDFCnxt4Mw1k/jOBB33znO4vUZkfTxz3vjZEgboXZ7ksYOBlhYZ4gJtanmhMo0AtU1uLGA7Ek5PM0bDyN1O/yuNW4AmOIrg/qfXKiE10S3gmo6Df8gJneLyCSvxREW2zGrbp5yksbQG2jE9GvSqpM0QQPAcWX+JT+OLHYSjxX06VSyjsjiB2dwoFQ+JOoPzKn8c/JBMutqf8l4KlQg2u2uPukUvsOaRxXwhG+0iv7bsm8rK+wTn8i8lzhLL0a1akn006J+xJC59Np6GdHq3iUV5k5FrtmE9zCXbLtrSsjNxIqD3pD44BSvIduWb0RUJQ=;f94d2ScSQwz0o3G1cDozhA=="
+secured: "Ng6KJ/u/jlN17pgvwvnRKV1rn9jJLu9YqDx4IkhQOqeTrnr1t/SDCx1lnFAHFFFMLUBaz9dIgUJpYj/iEqbcrPg1sUd5AJVoi7wHPCYNO2y294GuRUN2KWCIRm0JmxLZVn9QgM7koE88QvvtLt/jNbwkWy5PAj4ZwrLNOc4Ro4RzODeBQ+gKEB+s9KVYBlH+cCZVeM91RIr/NncSmaGh709YUi2jYVEWS6LP4CatmwISPijCosjnvXb9RRGU58C+0PqZMnF4UzJtvwyXus9z6nzT9Zd6WJJVDBLFegF/LEt++ubIpVjZ7vZx6Lj7H44vLDYXHoZ+rcbGZCYeCAAlVNvFWGGQX1A3YbR8LVue0gI=;sLtNfhbEzeYXnerYxdAlnQ=="
 ---
 

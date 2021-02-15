@@ -139,6 +139,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "7 yuuge reasons Donald Trump isn't going away"
+    excerpt: "Insider identified seven weapons in Trump's arsenal — like political committees, government facilities, and media platforms — for staging a comeback."
+    publishedDateTime: 2021-02-15T02:25:00Z
+    webUrl: "https://www.businessinsider.com/where-is-donald-trump-new-2024-campaign-committee-2021-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+    images:
+      - url: "https://i.insider.com/60149ab66dfbe10018e00e73?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "'Fighting for Trump:' Democrats Say Capitol Attackers Were Answering Ex-President's Call"
     excerpt: "Democrats Say Capitol Attackers Were Answering Ex-President's Call WASHINGTON (Reuters) - Democrats making the case for Donald Trump's conviction for inciting the deadly attack on the U.S. Capitol on Jan."
     publishedDateTime: 2021-02-11T20:28:00Z
