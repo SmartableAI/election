@@ -975,6 +975,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Democrats say calling witnesses in Trump impeachment trial could have cost them GOP votes"
+    excerpt: "\"Listen, we didn't need more witnesses. We needed more senators with spines,\" Del. Stacey Plaskett said Sunday."
+    publishedDateTime: 2021-02-15T04:12:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/14/trump-impeachment-witnesses-may-have-cost-republican-votes/4481602001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4481602001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4481602001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/14/USAT/c4adb8f0-dc41-4614-a642-5f87d176664b-GTY_1302002799.jpg?auto=webp&crop=5104,2871,x1277,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump impeachment: trial to open with debate on whether it is constitutional – live updates"
     excerpt: "Senate sets aside up to four hours for arguments on whether a former president can be tried"
     publishedDateTime: 2021-02-09T12:09:00Z
@@ -1773,6 +1789,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "Ng6KJ/u/jlN17pgvwvnRKV1rn9jJLu9YqDx4IkhQOqeTrnr1t/SDCx1lnFAHFFFMLUBaz9dIgUJpYj/iEqbcrPg1sUd5AJVoi7wHPCYNO2y294GuRUN2KWCIRm0JmxLZVn9QgM7koE88QvvtLt/jNbwkWy5PAj4ZwrLNOc4Ro4RzODeBQ+gKEB+s9KVYBlH+cCZVeM91RIr/NncSmaGh709YUi2jYVEWS6LP4CatmwISPijCosjnvXb9RRGU58C+0PqZMnF4UzJtvwyXus9z6nzT9Zd6WJJVDBLFegF/LEt++ubIpVjZ7vZx6Lj7H44vLDYXHoZ+rcbGZCYeCAAlVNvFWGGQX1A3YbR8LVue0gI=;sLtNfhbEzeYXnerYxdAlnQ=="
+secured: "jrEPXChlAB7n8z8YBgAN2F6cXkSjICnvrNOj6/aKo4m5yc7tGW8mVSqTCm6GvF4K3dlon48YkQzuPE2WzGbTMhu/t5n+HWamaP6bFx0P9wP2I0sVNSvF3GRzlIeyTjZGuX/rKGoentprLGrfVs+LCjjqYZ+lCewLizl5kGA8rlLSD+MkHMSZoD0cTNg+kNpzrmJSSHh6Ptt6BsRzU0SPCkNrlQU1X67KvG6TCbkRuT9jxDbxCyYI/kUS69Xhbrmxim/e3CwfgPfqYdnOvG9dMt8RbFSjstmL687ydoLOsN8703QrRzclvSIyDIGvEsm8cqRbEy/MVeFRAo63/AdjlbAz0A5VJ/MsnuC6wEsXV3VinBqS/IMgxzJ0+/plmvA38LmPrEgg1TqQO1lAqWP5HMGjG77GEQUhWQbVVmSfcmvbdqHCGtUTmQIJuCFwwCfe/ZsLmkxDkBd0Ar+UVZdzXdeFk19B1BamGKxmC8MfxkAZtgSP8hhGewWt+IKhQlczoKB/NlsF0y+2fRGMjucQrg==;SHceQyYGfmG+oNBw3qxXLA=="
 ---
 

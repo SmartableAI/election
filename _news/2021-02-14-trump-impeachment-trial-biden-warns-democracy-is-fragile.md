@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-56061100"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-56061100"
 type: article
 quality: 140
-heat: 2420
+heat: 2440
 published: true
 
 provider:
@@ -974,6 +974,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/5526fba0e5796a3427dd749f7f128a6e99b4cf81/529_144_1839_1104/master/1839.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1731f021896513b07ff08a5a9f726a83"
         width: 600
         height: 360
+        isCached: true
+  - title: "Democrats say calling witnesses in Trump impeachment trial could have cost them GOP votes"
+    excerpt: "\"Listen, we didn't need more witnesses. We needed more senators with spines,\" Del. Stacey Plaskett said Sunday."
+    publishedDateTime: 2021-02-15T04:12:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/14/trump-impeachment-witnesses-may-have-cost-republican-votes/4481602001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4481602001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4481602001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/14/USAT/c4adb8f0-dc41-4614-a642-5f87d176664b-GTY_1302002799.jpg?auto=webp&crop=5104,2871,x1277,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Trump impeachment: trial to open with debate on whether it is constitutional – live updates"
     excerpt: "Senate sets aside up to four hours for arguments on whether a former president can be tried"

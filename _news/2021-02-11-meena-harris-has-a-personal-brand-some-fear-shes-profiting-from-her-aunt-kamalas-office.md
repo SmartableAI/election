@@ -127,6 +127,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "GOP Senator Warns VP Kamala Harris Could Be Impeached If This Happens"
+    excerpt: "A South Carolina Republican lawmaker accused Vice President Harris of inciting violence after she \"bailed out\" George Floyd rioters."
+    publishedDateTime: 2021-02-15T03:12:00Z
+    webUrl: "https://www.ibtimes.com/gop-senator-warns-vp-kamala-harris-could-be-impeached-if-happens-3145502"
+    ampWebUrl: "https://www.ibtimes.com/gop-senator-warns-vp-kamala-harris-could-be-impeached-if-happens-3145502?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/gop-senator-warns-vp-kamala-harris-could-be-impeached-if-happens-3145502?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/21/kamala-harris-is-sworn-in-as-vice-president.jpg"
+        width: 1024
+        height: 736
+        isCached: true
   - title: "Twitter Reacts To Terrence K. Williams Calling VP Kamala Harris A ‘Pole Model’"
     excerpt: "Terrence K. Williams refused to apologize to Vice President Kamala Harris after calling her a \"pole model\" on social media."
     publishedDateTime: 2021-02-12T04:56:00Z
@@ -192,7 +208,7 @@ related:
   - title: "Vice President Kamala Harris Emphasizes Speed and Equity in Response to COVID-19 Crisis"
     excerpt: "In Harris’ first national sit-down interview since becoming vice president, she discusses her focus on an equitable response to the COVID-19 crisis with 19th editor-at-large Errin Haines."
     publishedDateTime: 2021-02-12T17:04:00Z
-    webUrl: "https://www.govexec.com/management/2021/02/vice-president-kamala-harris-emphasizes-speed-and-equity-response-covid-19-crisis/172032/?%3Foref=GovExecTCO"
+    webUrl: "https://www.govexec.com/management/2021/02/vice-president-kamala-harris-emphasizes-speed-and-equity-response-covid-19-crisis/172032/"
     type: article
     provider:
       name: Government Executive

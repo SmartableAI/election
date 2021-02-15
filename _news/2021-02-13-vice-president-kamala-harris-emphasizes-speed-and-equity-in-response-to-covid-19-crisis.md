@@ -3,8 +3,8 @@ category: news
 title: "Vice President Kamala Harris Emphasizes Speed and Equity in Response to COVID-19 Crisis"
 excerpt: "In Harris’ first national sit-down interview since becoming vice president, she discusses her focus on an equitable response to the COVID-19 crisis with 19th editor-at-large Errin Haines."
 publishedDateTime: 2021-02-12T17:04:00Z
-originalUrl: "https://www.govexec.com/management/2021/02/vice-president-kamala-harris-emphasizes-speed-and-equity-response-covid-19-crisis/172032/?%3Foref=GovExecTCO"
-webUrl: "https://www.govexec.com/management/2021/02/vice-president-kamala-harris-emphasizes-speed-and-equity-response-covid-19-crisis/172032/?%3Foref=GovExecTCO"
+originalUrl: "https://www.govexec.com/management/2021/02/vice-president-kamala-harris-emphasizes-speed-and-equity-response-covid-19-crisis/172032/"
+webUrl: "https://www.govexec.com/management/2021/02/vice-president-kamala-harris-emphasizes-speed-and-equity-response-covid-19-crisis/172032/"
 type: article
 quality: 47
 heat: -1
@@ -137,6 +137,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "GOP Senator Warns VP Kamala Harris Could Be Impeached If This Happens"
+    excerpt: "A South Carolina Republican lawmaker accused Vice President Harris of inciting violence after she \"bailed out\" George Floyd rioters."
+    publishedDateTime: 2021-02-15T03:12:00Z
+    webUrl: "https://www.ibtimes.com/gop-senator-warns-vp-kamala-harris-could-be-impeached-if-happens-3145502"
+    ampWebUrl: "https://www.ibtimes.com/gop-senator-warns-vp-kamala-harris-could-be-impeached-if-happens-3145502?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/gop-senator-warns-vp-kamala-harris-could-be-impeached-if-happens-3145502?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/21/kamala-harris-is-sworn-in-as-vice-president.jpg"
+        width: 1024
+        height: 736
+        isCached: true
   - title: "Twitter Reacts To Terrence K. Williams Calling VP Kamala Harris A ‘Pole Model’"
     excerpt: "Terrence K. Williams refused to apologize to Vice President Kamala Harris after calling her a \"pole model\" on social media."
     publishedDateTime: 2021-02-12T04:56:00Z
@@ -200,6 +216,6 @@ related:
         height: 480
         isCached: true
 
-secured: "78hsi+JA8YcnlD/vGIqHaFKlulcFc48H4SKzouRPyNi+8zSZghDIZDM4oGFuhcGaXoDC/WLYwWyB9MA7MxQ6kBO4XeF1/HIZ1WWe87YSq9adiDTm4XWKyJySt6tynpbuTPmFLDydJDXUFGp5XZKCtxEE461AQWpzKXVLAHeqTAQOVsIFBg557+WBLC3d/nxFupE2jg9bbb0d5u7s1Dm3GeMIrFrFNJyxHfHGIeW4hQ6IBBM+znxq6cSzVTjoVRKcx8LLIgl9z6diHFw55q7yrfXq+j6G/w29ITVmLDblX1lZe94QrzYhm7PAqfr06L7BUQzdBatVEvI9M4N6D4MsTFhLQtCJKHc5moog8ftIOXE=;84hUMehbzAvDmnrK3g8MrA=="
+secured: "5E0zhxDw//2YZgNhI6DyIe6xjEqBIQDzsNViRQvM2ZHCimEyFZ6pFPIQs/tnzw7xJIEp793M1BL42Io/QuSQXs3RksG8pGoTg+J0o8LwWPRDXvw0o66bi/qffZnpJqSo4gFRyTh91vo62vxbe+5RcBoU/tlkBmtVrRonE69juC13d9LEsEgVJGzwMALBTUjNk84ZI3ewj9ncuGI9ij3EMEzRq6Z6H8ADfRBd+mPZCgqes3NwhtQ9i8jR1cHaCIQJt5J4TS0dktUt1PtIevCCyB4nv3rjJQ98D7yfoTyg9A0ooKXSBHDuFimfOKTDi44yiXSKfxpQG6yDCQo+AHBZxsmyxQbKSr9nq7WeIgq4VWc=;7cHI467buaFX+KubiUr0ew=="
 ---
 

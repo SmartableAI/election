@@ -79,6 +79,22 @@ related:
         width: 800
         height: 545
         isCached: true
+  - title: "Biden to hold virtual event with G7 leaders on Friday: White House"
+    excerpt: "President Joe Biden will hold his first event with leaders from the Group of Seven nations on Friday in a virtual meeting to discuss the coronavirus pandemic and the world economy, the White House said on Sunday."
+    publishedDateTime: 2021-02-15T04:02:00Z
+    webUrl: "https://www.reuters.com/article/worldNews/idUSKBN2AE0T6"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AE0T6"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AE0T6"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210214&t=2&i=1551529725&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1D0OH"
+        width: 800
+        height: 545
+        isCached: true
   - title: "Biden: Governors and mayors need $350 billion to fight COVID"
     excerpt: "President Joe Biden met with a bipartisan group of governors and mayors at the White House on Friday as part of his push to give financial relief from the coronavirus pandemic to state and local governments — a clear source of division with Republican lawmakers who view the spending as wasteful."
     publishedDateTime: 2021-02-12T23:55:00Z

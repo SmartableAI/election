@@ -191,6 +191,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump’s impeachment attorney goes viral after exchange with CBS reporter"
+    excerpt: "Michael van der Veen, one of former President Trump’s lawyers at the impeachment trial, went viral Saturday after an interview with CBS News’ streaming service called CBSN."
+    publishedDateTime: 2021-02-15T04:30:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wKYDoa9P0BA/trumps-impeachment-attorney-goes-viral-after-exchange-with-cbs-reporter"
+    ampWebUrl: "https://www.foxnews.com/politics/trumps-impeachment-attorney-goes-viral-after-exchange-with-cbs-reporter.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-impeachment-attorney-goes-viral-after-exchange-with-cbs-reporter.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Schumer leaves door open to 14th Amendment measure to bar Trump from office"
     excerpt: "Senate Majority Leader Chuck Schumer Thursday did not rule out bringing legislation to bar former President Donald Trump from office if he is not convicted at the ongoing Senate impeachment trial. "
     publishedDateTime: 2021-02-11T19:56:56Z

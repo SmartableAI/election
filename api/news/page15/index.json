@@ -2,6 +2,58 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-01-25-the-new-york-times-says-it-didnt-part-ways-with-editor-over-biden-chills-tweet.md",
+      "title": "The New York Times says it didn’t part ways with editor over Biden ‘chills’ tweet",
+      "excerpt": "After a firestorm of criticism, the paper sought to clear up “inaccurate information circulating on Twitter\" about freelancer Lauren Wolfe.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/media/2021/01/24/lauren-wolfe-new-york-times-biden-tweet/",
+      "originalUrl": "https://www.washingtonpost.com/media/2021/01/24/lauren-wolfe-new-york-times-biden-tweet/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AGXCMIEPWEI6VEZCUKPHL374SM.jpg&w=1440",
+          "width": 1440,
+          "height": 966,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/media/2021/01/24/lauren-wolfe-new-york-times-biden-tweet/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/media/2021/01/24/lauren-wolfe-new-york-times-biden-tweet/?outputType=amp",
+      "publishedDateTime": "2021-01-24T17:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-01-25-trump-wants-back-on-facebook-this-star-studded-jury-might-let-him.md",
       "title": "Trump Wants Back on Facebook. This Star-Studded Jury Might Let Him.",
       "excerpt": "Trump be permitted to return to Facebook and reconnect with his millions of followers? The decision has major consequences not just for American politics, but also for the way in which social media is regulated,",
@@ -1281,62 +1333,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/rep-ilhan-omar-biden-recurring-cash-payments-until-economy-recovers.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-ilhan-omar-biden-recurring-cash-payments-until-economy-recovers.amp",
       "publishedDateTime": "2021-01-22T17:45:59-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-trump-impeachment-trial-delayed-until-week-of-feb-8-schumer-says.md",
-      "title": "Trump impeachment trial delayed until week of Feb. 8, Schumer says",
-      "excerpt": "Senate Majority Leader Chuck Schumer, D-N.Y., said on Friday lawmakers will wait to carry out President Donald Trump’s impeachment hearings for several weeks, following a brief standoff on Capitol Hill over timing.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_evwvTdGK2U/schumer-delay-donald-trump-impeachment-hearing",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_evwvTdGK2U/schumer-delay-donald-trump-impeachment-hearing",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 655,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4551bbe2-cfd4-453d-bdfb-46b43c640ba9/3da10210-5367-4f1e-9ec6-39be45d1a096/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/schumer-delay-donald-trump-impeachment-hearing.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schumer-delay-donald-trump-impeachment-hearing.amp",
-      "publishedDateTime": "2021-01-22T15:53:47-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

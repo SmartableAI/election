@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/latest-senators-await-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/latest-senators-await-closing-arguments-trump-trial-75871314"
 type: article
 quality: 125
-heat: 125
+heat: 145
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 992
     height: 558
     isCached: true
+
+related:
+  - title: "Joe Biden Will Discuss $1,400 Stimulus Checks With Americans This Week, Says Jen Psaki"
+    excerpt: "\"The president is looking forward to getting out in the country, engaging with people about his plans to get relief, direct checks into their hands,\" said White House Press Secretary Jen Psaki on Sunday."
+    publishedDateTime: 2021-02-15T04:41:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-will-discuss-1400-stimulus-checks-americans-this-week-says-jen-psaki-1569259"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-will-discuss-1400-stimulus-checks-americans-this-week-says-jen-psaki-1569259?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-will-discuss-1400-stimulus-checks-americans-this-week-says-jen-psaki-1569259?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 117
+    images:
+      - url: "https://d.newsweek.com/en/full/1734786/jen-psaki-white-house-press-briefing.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "OVVTLnOH2c3m/+ryr7DXzv+06wvPDtQ6AF6fCKigLrMOfLwKuHInrK8QEXWJ8Kutz2veFqvliHKvulmD23yeo2x0IZz/9Mk5mSk/jd30UKTCkrlg59jSG7r4W4olr4UCRIQT4yIDU0pmTSc/q+YM7Rootl+5zbr4kAcOPmsN+fy2l/TqOYdcEfXxWRlxgup1f4PvNa7CmI1iT0KzX/U6lcFiMn2Fw6e+EIqFEbj/393nvl4YQeR2vRBa3wuknf7EAOvr6mRn6z8bemUif11rEHVqmp8RaBrRQLi6zZEeTSpFtid7SV8wwseVCGdkWNY6xseoCFzvILpk/5QPnZnPJCV2oM9qERidY1xPyR5z46YBZ7d9utxPc2ILKDidncmLvq8AbrVOYtIBpMNEv+EF57YiayWyMWTEBHMWtwDoumZC12u0Pg+XDUiO2YEsFzvM9TTQE28EAmSSUi/cl6lPBplFsSJWOHC4h71dLsOHOsviL9PSFLgzQf4r8PQHpE88P8xvVtM3lihCrTdx5kc8MA==;qML0UITwfMu/D0Md37bjhQ=="
 ---

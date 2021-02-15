@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/business/democrats-pushing-bidens-cov
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/democrats-pushing-bidens-covid-19-bill-through-house-panels/2021/02/11/021a9cf8-6ce0-11eb-a66e-e27046e9e898_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -51,6 +51,22 @@ related:
     excerpt: "President Joe Biden will hold his first event with leaders from the Group of Seven nations in a virtual meeting on Friday to discuss the coronavirus pandemic, the world economy and dealing with China as a group,"
     publishedDateTime: 2021-02-15T00:57:00Z
     webUrl: "https://www.reuters.com/article/us-usa-biden-g7-idUSKBN2AE0T6"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AE0T6"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AE0T6"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210214&t=2&i=1551529725&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1D0OH"
+        width: 800
+        height: 545
+        isCached: true
+  - title: "Biden to hold virtual event with G7 leaders on Friday: White House"
+    excerpt: "President Joe Biden will hold his first event with leaders from the Group of Seven nations on Friday in a virtual meeting to discuss the coronavirus pandemic and the world economy, the White House said on Sunday."
+    publishedDateTime: 2021-02-15T04:02:00Z
+    webUrl: "https://www.reuters.com/article/worldNews/idUSKBN2AE0T6"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AE0T6"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AE0T6"
     type: article

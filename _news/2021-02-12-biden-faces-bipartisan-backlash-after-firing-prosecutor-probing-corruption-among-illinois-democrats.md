@@ -288,6 +288,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Secret Service arrests woman with loaded gun near White House, claims she had letter for Biden"
+    excerpt: "D.C. Police on Saturday arrested a 66-year-old woman on charges that she was carrying a loaded near the , Fox News has confirmed."
+    publishedDateTime: 2021-02-14T23:28:00Z
+    webUrl: "https://www.foxnews.com/politics/secret-service-arrests-woman-loaded-gun-near-white-house-letter-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/secret-service-arrests-woman-loaded-gun-near-white-house-letter-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/secret-service-arrests-woman-loaded-gun-near-white-house-letter-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 123
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6554f8d4-65cb-4edb-bf38-d438ab82a7bc/83c50f56-1be3-4049-8b93-4a4d75b030fa/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "President Biden: \"We're Still In The Teeth Of This Pandemic,\" Congress Must Pass Relief Bill Now"
     excerpt: "President Biden called on Congress to act quickly to pass his proposal for a $1.9 trillion coronavirus relief package on Friday, in a speech following a weak January jobs report. Biden vowed that he would follow through on his campaign promise to provide Americans with $2,"
     publishedDateTime: 2021-02-05T20:06:00Z

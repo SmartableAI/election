@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden to hold virtual event with G7 leaders on Friday: White House"
+    excerpt: "President Joe Biden will hold his first event with leaders from the Group of Seven nations on Friday in a virtual meeting to discuss the coronavirus pandemic and the world economy, the White House said on Sunday."
+    publishedDateTime: 2021-02-15T04:02:00Z
+    webUrl: "https://www.reuters.com/article/worldNews/idUSKBN2AE0T6"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AE0T6"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AE0T6"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210214&t=2&i=1551529725&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1D0OH"
+        width: 800
+        height: 545
+        isCached: true
   - title: "Biden presses for $1.9 trillion COVID relief plan with governors, mayors"
     excerpt: "U.S. President Joe Biden pushed for the first major legislative achievement of his term on Friday, turning to a bipartisan group of local officials for help on his $1.9 trillion coronavirus relief plan."
     publishedDateTime: 2021-02-12T22:35:00Z
@@ -118,6 +134,6 @@ related:
         height: 600
         isCached: true
 
-secured: "BFIFpTRXkft6mCjw7qAHh/7in19uoyNbrW2tItr5CmCaLL+GvK3wELxvsK0ir8POSdvCGXfhnQOvGIccttpfqUvwtyLF/cuN9qGUlQ7ZQ237apapBMYQ3LoKPnH4SzR3CxxwhdHCPx/OKcYMmJLsCF/D/k5Dm6gMeBIWOVWNPpGIqPCZ/cGweKZlpnnEYMFwGzk0hchEGdrxe/QK6vJyu0yOfPJlGRIIbRHBMS6shRNmzf8PEkSVmje/xhL7djTOwUw/K3FYV8ibgrE00d6yh+DRLQ6i68vYKF+YKvkBmcuQFqaxx0fDYOVTtHF7KUi/o6FdltxfLSROHry4J4j82GG7lBR6LWGjKs+aGnRPDQs=;8GCIVp4w3HeqZTSPRoXd9w=="
+secured: "4cg8lY1qT0Kpy8sdgjjiLewBranrXNop9R8nhwxgiRWBHl7NOp9Rw+vwieFCImrHUH5wz9U7Hz7GUvO0TSfqL5+pud0I+i5FldI7UzGhptyjGVX9hYxE5ziV6epd5TLX4eu7yn0jUXFue3L4dkTgT0JYpPStBfB7eYWhrqhmomW5v1lc7nyE90jqtalxCOalZaZnhjwQWDVJu3BRi7PysBn1ky/Gl4Z7Hn6YSZzRQdhQWsohMx7b08vaZILuYd7e5R+PM3k/BpFevvohhZXF6CWDBuWuv6KSNNsfVVoVe0dtJlpQ1VqU5x6l69b3PDO644yYxys+Pe5xFBhvDc3zutT+u+XQaC2vH9JnSdBOUh8Fw1OF+CWZOqRrQ9WIN5jg0UuSw4ueo7Rgjd/j9B/7NLUayBaQyAb1rysUzMhEr0YslifKkWVzihY6QK6AaS8gyQ1dgzDBPgjZRlpIpiMxMoN+5K0wPTPQfcrujU+tBEUZ6jelNQ5ti72t6UAHQDeAVM1vzuqGCVnwRFVfFcEpCQ==;n6raChjrzq5NeVc4UQ4DTQ=="
 ---
 

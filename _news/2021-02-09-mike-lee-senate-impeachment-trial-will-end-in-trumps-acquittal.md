@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/mike-lee-senate-trial-end-trump-acq
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-lee-senate-trial-end-trump-acquittal-impeachment-capitol-riot.amp"
 type: article
 quality: 175
-heat: 2015
+heat: 2035
 published: true
 
 provider:
@@ -174,6 +174,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/152bd415-4706-48b5-b952-9330dce68d33/d548aec7-b572-4973-9265-de0dd39491bd/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump’s impeachment attorney goes viral after exchange with CBS reporter"
+    excerpt: "Michael van der Veen, one of former President Trump’s lawyers at the impeachment trial, went viral Saturday after an interview with CBS News’ streaming service called CBSN."
+    publishedDateTime: 2021-02-15T04:30:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wKYDoa9P0BA/trumps-impeachment-attorney-goes-viral-after-exchange-with-cbs-reporter"
+    ampWebUrl: "https://www.foxnews.com/politics/trumps-impeachment-attorney-goes-viral-after-exchange-with-cbs-reporter.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-impeachment-attorney-goes-viral-after-exchange-with-cbs-reporter.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Republican who called on Trump to resign admits conviction ‘very unlikely’"
     excerpt: "Sen. Pat Toomey, R-Pa., who has been a top critic of former President Trump and called for him to resign after last month’s riot at the Capitol, said in an interview Sunday that it is unlikely that the Senate will vote for a conviction on the one count of \"incitement of insurrection.\""

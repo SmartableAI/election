@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-inauguration-coronavirus/index.html"
 type: article
 quality: 190
-heat: 3670
+heat: 3690
 published: true
 
 provider:
@@ -220,6 +220,22 @@ related:
     quality: 190
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210205193502-trump-biden-split-0205-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden moves on after Trump's second impeachment acquittal"
+    excerpt: "With the Senate impeachment trial behind us, Covid-19 relief is set to become the dominant issue in Washington again as Democrats work to advance key parts of President Joe Biden's $1.9 trillion stimulus proposal.\n    \n"
+    publishedDateTime: 2021-02-15T01:59:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/koaO7Z0BqVc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/14/politics/what-matters-for-february-14/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/14/politics/what-matters-for-february-14/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210212084540-01-joe-biden-0210-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -983,6 +983,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Democrats say calling witnesses in Trump impeachment trial could have cost them GOP votes"
+    excerpt: "\"Listen, we didn't need more witnesses. We needed more senators with spines,\" Del. Stacey Plaskett said Sunday."
+    publishedDateTime: 2021-02-15T04:12:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/14/trump-impeachment-witnesses-may-have-cost-republican-votes/4481602001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4481602001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4481602001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/14/USAT/c4adb8f0-dc41-4614-a642-5f87d176664b-GTY_1302002799.jpg?auto=webp&crop=5104,2871,x1277,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump impeachment: trial to open with debate on whether it is constitutional – live updates"
     excerpt: "Senate sets aside up to four hours for arguments on whether a former president can be tried"
     publishedDateTime: 2021-02-09T12:09:00Z
