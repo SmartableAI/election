@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Georgia secretary of state's office launches investigation into Trump's phone call "
-excerpt: "The office of Georgia Secretary of State Brad Raffensperger confirmed to CNN on Monday that it has started an investigation into former President Donald Trump's attempts to overturn the state's election results, including a phone call the former President made to Raffensperger.\n    \n"
-publishedDateTime: 2021-02-08T23:57:30Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-GS_Gn3iKsk/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-GS_Gn3iKsk/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/02/08/politics/georgia-secretary-of-state-trump-investigation/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/08/politics/georgia-secretary-of-state-trump-investigation/index.html"
+title: "Burr faces censure by North Carolina GOP for voting to convict Trump"
+excerpt: "The North Carolina Republican Party will meet Monday to vote on whether to censure Sen. Richard Burr for his vote to convict former President Donald Trump during his second impeachment trial -- a move that would make him the latest GOP senator to be reprimanded by his state party for siding with Democrats"
+publishedDateTime: 2021-02-15T12:35:28Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rljBjo1-TfU/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rljBjo1-TfU/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/02/15/politics/richard-burr-north-carolina-gop-censure-impeachment/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/15/politics/richard-burr-north-carolina-gop-censure-impeachment/index.html"
 type: article
-quality: 169
+quality: 175
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210108062936-brad-raffensperger-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/200320161313-01-richard-burr-file-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -63,22 +63,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Burr faces censure by North Carolina GOP for voting to convict Trump"
-    excerpt: "The North Carolina Republican Party will meet Monday to vote on whether to censure Sen. Richard Burr for his vote to convict former President Donald Trump during his second impeachment trial -- a move that would make him the latest GOP senator to be reprimanded by his state party for siding with Democrats"
-    publishedDateTime: 2021-02-15T12:35:28Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rljBjo1-TfU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/15/politics/richard-burr-north-carolina-gop-censure-impeachment/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/15/politics/richard-burr-north-carolina-gop-censure-impeachment/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200320161313-01-richard-burr-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "The end of Trump's trial lifts an oppressive cloud from Washington"
     excerpt: "The conclusion of Donald Trump's impeachment trial finally ends the ex-President's stranglehold on Washington's every waking moment and offers President Joe Biden a first chance to fully exercise his influence and power.\n    \n"
     publishedDateTime: 2021-02-15T09:32:11Z
@@ -108,6 +92,22 @@ related:
     quality: 170
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210213140031-05-impeachment-sketch-2021-saturday-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Georgia secretary of state's office launches investigation into Trump's phone call "
+    excerpt: "The office of Georgia Secretary of State Brad Raffensperger confirmed to CNN on Monday that it has started an investigation into former President Donald Trump's attempts to overturn the state's election results, including a phone call the former President made to Raffensperger.\n    \n"
+    publishedDateTime: 2021-02-08T23:57:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-GS_Gn3iKsk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/08/politics/georgia-secretary-of-state-trump-investigation/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/08/politics/georgia-secretary-of-state-trump-investigation/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210108062936-brad-raffensperger-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -220,6 +220,6 @@ related:
         height: 550
         isCached: true
 
-secured: "nSEO453PIYuA23T72SZ3qcJcm94+amgyag7TmnBTr9jaWfz2QiDUZsER86JA1abWn2ueS/rNBgEkClM99mmHs0ZCZWkJ1Ulfeb8cDHiD8ot2YCrcaSE539xZMyGWD78AuyMRm0tBUMRTJ3neUMYUlj+dVCtEIj1PVPgH5VG1xqohKpSdOoT5Ewoc5PUma3QA0jV+7dKYNcCj+eHANJuOGKEzZKtD2huNPFjcsA4t5FVTFR+rPalwaqknnWgpR9CS7Q8YlKdMNrZTVeYaeqwBJGWoubt2PA+L9I6qN8y85f6j/DBRS+SiAJbrXKcJ24/Fq7PMB9CJPbsb+Q5rZ0Uo9Av/okbLYAsLRRmeNnnKDHs=;kLux4E/XZhfupqFk2uMVTg=="
+secured: "T9bEYSk4oEezL46xROs5ykwtrHVzNyjKBNWt0X35HmzqZYMfgbeu7EAx0CwvTXxZFnhzAf8LRYdH4BvDBQmGLWEmPtsjmKztt5zzEmfHdD26cEpojOCM7EO8DgjPckK09mSaYR9TpV9V5F/VIKMouRWIZ06qOWWlBmVimswXxr6Y7mbl+jgxj/xtdLlKJcRX+KaE4Tlb3ZcZ86Yd2Nix5DffvFVJX0/wKKCeLKM13hgR1NUnF/XMJqPPWUu/5yhcfojpRmOqIJcawAfXR/0zGUbDtV8n3F4dD2uVmFGwYbLgg1HqDhn4sBohysjlaN+BUEr4FoTY4S8MPuRZ9RyRrhCOAR6dI7uDfRPZfWPcfqc=;5MenFEuOodAjWigDk99Hog=="
 ---
 

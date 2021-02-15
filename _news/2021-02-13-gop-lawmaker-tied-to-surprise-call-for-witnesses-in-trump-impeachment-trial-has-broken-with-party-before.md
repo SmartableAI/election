@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Burr faces censure by North Carolina GOP for voting to convict Trump"
+    excerpt: "The North Carolina Republican Party will meet Monday to vote on whether to censure Sen. Richard Burr for his vote to convict former President Donald Trump during his second impeachment trial -- a move that would make him the latest GOP senator to be reprimanded by his state party for siding with Democrats"
+    publishedDateTime: 2021-02-15T12:35:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rljBjo1-TfU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/15/politics/richard-burr-north-carolina-gop-censure-impeachment/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/15/politics/richard-burr-north-carolina-gop-censure-impeachment/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200320161313-01-richard-burr-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "The end of Trump's trial lifts an oppressive cloud from Washington"
     excerpt: "The conclusion of Donald Trump's impeachment trial finally ends the ex-President's stranglehold on Washington's every waking moment and offers President Joe Biden a first chance to fully exercise his influence and power.\n    \n"
     publishedDateTime: 2021-02-15T09:32:11Z

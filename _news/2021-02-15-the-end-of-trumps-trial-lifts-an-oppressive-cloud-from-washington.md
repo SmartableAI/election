@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Burr faces censure by North Carolina GOP for voting to convict Trump"
+    excerpt: "The North Carolina Republican Party will meet Monday to vote on whether to censure Sen. Richard Burr for his vote to convict former President Donald Trump during his second impeachment trial -- a move that would make him the latest GOP senator to be reprimanded by his state party for siding with Democrats"
+    publishedDateTime: 2021-02-15T12:35:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rljBjo1-TfU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/15/politics/richard-burr-north-carolina-gop-censure-impeachment/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/15/politics/richard-burr-north-carolina-gop-censure-impeachment/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200320161313-01-richard-burr-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Inside the Senate: Sketches from a dramatic Day 5 of the Trump impeachment trial"
     excerpt: "Senators voted on a surprise move by the House managers on Saturday to allow for witnesses in the impeachment trial of former President Donald Trump.\n    \n"
     publishedDateTime: 2021-02-13T20:10:09Z

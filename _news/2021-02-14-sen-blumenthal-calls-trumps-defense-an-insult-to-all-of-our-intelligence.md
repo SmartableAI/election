@@ -47,6 +47,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Contradicting defense lawyers, sources say Trump put Pence's life in danger and didn't check in after the riot"
+    excerpt: "\"At no point was the president informed the vice president was in any danger,\" Trump's lawyer Michael van der Veen said."
+    publishedDateTime: 2021-02-13T13:12:00Z
+    webUrl: "https://www.businessinsider.com/trumps-lawyer-pence-team-capitol-riot-life-danger-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/trumps-lawyer-pence-team-capitol-riot-life-danger-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-lawyer-pence-team-capitol-riot-life-danger-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
+    images:
+      - url: "https://i.insider.com/5ffd1f0ad184b30018aae383?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "sHX6V/jq4b04L46cZcn00+D9uvrZaoGMJLuEwpdiMxxhDy5wJSNwH5pyxtXEU5o5SSozemPNESGgWfYkRalFHR4UHR2pPItFSyeSbrePzsi0Gfj3CCQj5LdKf/LE/rOooTzsT1c4Sk4gthc7n8z+GGvd3AH8AqS+ShPWmsnCvS0JUMGbQBdxvojSHdpcm5N4hzzyGKo8YZ6SvgOzQxjoBUNaWY1hbqmMKephNEaCqTQN4ryvD6fKNEGZvOaSb6c6WbCOEE1mc+SmIPd54JOxO3zRVtKZsTFBprVLxHmjJyc3tWbw6c8kAaY+ESXHIGXG7abZMTttEuZln6x33wMt1bAfUarFmj/+EmLd6Vzv6dQ=;AMuSv6UxObYRPizFgxUiSw=="
 ---

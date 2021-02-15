@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/lifestyle/style/trump-derangement-syn
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/style/trump-derangement-syndrome-impeachment/2021/02/11/a6ffa7b6-6ca6-11eb-9ead-673168d5b874_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://thehill.com/sites/default/files/blumenthalrichard_111020bc_lead.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Contradicting defense lawyers, sources say Trump put Pence's life in danger and didn't check in after the riot"
+    excerpt: "\"At no point was the president informed the vice president was in any danger,\" Trump's lawyer Michael van der Veen said."
+    publishedDateTime: 2021-02-13T13:12:00Z
+    webUrl: "https://www.businessinsider.com/trumps-lawyer-pence-team-capitol-riot-life-danger-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/trumps-lawyer-pence-team-capitol-riot-life-danger-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-lawyer-pence-team-capitol-riot-life-danger-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
+    images:
+      - url: "https://i.insider.com/5ffd1f0ad184b30018aae383?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "zC8BpIvuFoFj1NXaKUcy6XrYzaTnL87XrmnFXPrcYXtarR3o2akTtPoMPedMBQ+MQIG8NKIAySPVvMhwvisfADqaXEepMmd+ika3+tN19z08+vmmjp9p2BQ6Pa34hzU7gRT4n1rPX1K2HoLv/T/WUa1HzAijX3Z30jYF1Sj9dwqzh9VE7OdWAwr7pgy0gCLIQ5tHm9fs+AKCGCU3XG21fF0ptsYkqGuSk60dw8fQfqavNrBF1O41TAv5W7ibv+2R0asxLESziPX2t+pjhrz+upp+RPga4IxnhQOz6FBKEVa/0D1nm56Wl42kO2WhM8JTqIHS9gBjYpUcvTQ93m+Q2yE5pKdwgMT86yT6hNIguTNpjq+U1s90BUP3m0b1e/vHeXV1CnByJTNBKMc2nCkgIOBk+ORicULbqBFR1B7R5cbg0401d5SR5/kz1uuMpxNxHbqgI01RdVHtDZkQ8jxfJNfIbM6Pq9WGybXWlA7icgVgGP02ZeKMU7xgMm3DAsBnEoc5iWYTVIUf0+ddguJLXg==;knxuQA8kFJEk16t4bfSLaw=="
