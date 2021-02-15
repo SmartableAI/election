@@ -208,7 +208,7 @@ related:
   - title: "Vice President Kamala Harris Emphasizes Speed and Equity in Response to COVID-19 Crisis"
     excerpt: "In Harris’ first national sit-down interview since becoming vice president, she discusses her focus on an equitable response to the COVID-19 crisis with 19th editor-at-large Errin Haines."
     publishedDateTime: 2021-02-12T17:04:00Z
-    webUrl: "https://www.govexec.com/management/2021/02/vice-president-kamala-harris-emphasizes-speed-and-equity-response-covid-19-crisis/172032/"
+    webUrl: "https://www.govexec.com/management/2021/02/vice-president-kamala-harris-emphasizes-speed-and-equity-response-covid-19-crisis/172032/?%3Foref=GovExecTCO"
     type: article
     provider:
       name: Government Executive
@@ -220,6 +220,6 @@ related:
         height: 400
         isCached: true
 
-secured: "6jgg6MXchHNSU/l6uc+oO/S3TJB8p6c2t7pcuw3VxXRMrVGZ9fT6fzsAH0JZCh27vSt+eLavV7Sw5NTymFdJ5i9WTbuq+gaPQse+u1bbr6jG1TnlAxRwck0u7/NaGmzuRJH9oK8lqbTJuceWWUWCejEuJ0C7JS8c0dCmeOu3rpsdRIwILDEE64LlOJnqertGVpAyA6VBhVu72fK1bAb6WCNnGF14PuTDS6c1oHujgbE2KdcrNDrsUOEYoVE5Iuwd+rJGJtf40cFKuDhGw6mNHCAZWd9hBnruJullpceq1crvau5EPh3bAgLTrwdf7dUQtGURTaqksHbMOSIqlZS68op2WDgWArmRUuR6iXTQvbs=;ahUohuUy6FJD/SVugJBhfg=="
+secured: "RVd25thZLy2JyFq6gI9rMMGB4EF56/L1za8c1CizqNf9E0Svl6Rej83mTkVzfURF3NDrptMLL0d6N5Dv/+IEUGORmVWOomoqbfEy2xoV+7rh+zu7kAq4st7MH03gefavaqLf0CBEMPpXqkP88ENqGbNhFFBxOcf7oSqCaXhfImoZt40V+TC1y9W+46qWQUnJMF/TINYsQvTANyhUIpqe9L6yGZuValkHcR+deS1MeuQUSQ1SyQufG0ASpR158iMwWOSAX+mIpmMXJEvJF1e+z/KOA9cm/wKl2qutVI/I2jgZVuqCUiTE1h/iLeQvu7JpOQ25v+SaBWCuQYRmj8VJhMj+87K/ke/pqqdHaEpZ+JddzigwnMAPF6YRStkxxI4bCSQ6nWyvnWOn0fATvFFy0dFyZlN2e/FeSnuJUYG7V1iqvz/dBfCvEGL+JeU06nFn1sD0+ZOewbUZzXB0XAC+Jer9r1u03TItOeFqn+DpDiG6oBCuOiNla9C7uewZDq+aleOatNYLovE0s/n+96RZsA==;ed5R+pfhUFw/kidkhQpL4g=="
 ---
 

@@ -431,6 +431,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Support grows for Capitol riot inquiry after Trump acquittal"
+    excerpt: "A day after former President Donald Trump won his second Senate impeachment trial, bipartisan support appeared to be growing for an independent Sept. 11-style commission into the deadly insurrection that took place at the U."
+    publishedDateTime: 2021-02-15T06:06:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/support-grows-capitol-riot-inquiry-trump-acquittal-75898872"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/support-grows-capitol-riot-inquiry-trump-acquittal-75898872"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/support-grows-capitol-riot-inquiry-trump-acquittal-75898872"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_62536ff3a2054235a369c24b9ecea904_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Impeachment expert says Trump's lawyers distorted his work 'quite badly'"
     excerpt: "A U.S. law professor who studies impeachment says former President Donald Trump's lawyers misrepresented his research in a brief laying out arguments they will make at his U.S. Senate impeachment trial that starts on Tuesday."
     publishedDateTime: 2021-02-09T00:44:00Z

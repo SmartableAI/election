@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Trump impeachment trial live updates: Trump lawyer threatened to quit night before defense began"
-excerpt: "Trump himself had to call David Schoen to convince him to stay on the team. Trump impeachment trial: Day 4 key moments Former President Donald Trump's historic second impeachment trial is taking place in the Senate."
-publishedDateTime: 2021-02-13T08:26:00Z
-originalUrl: "https://abcnews.go.com/Politics/live-updates/trump-impeachment-trial-live-updates-senate-debate-constitutionality/?id=75741945"
-webUrl: "https://abcnews.go.com/Politics/live-updates/trump-impeachment-trial-live-updates-senate-debate-constitutionality/?id=75741945"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/trump-impeachment-trial-live-updates-senate-debate-constitutionality/?id=75741945"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/trump-impeachment-trial-live-updates-senate-debate-constitutionality/?id=75741945"
+title: "Support grows for Capitol riot inquiry after Trump acquittal"
+excerpt: "A day after former President Donald Trump won his second Senate impeachment trial, bipartisan support appeared to be growing for an independent Sept. 11-style commission into the deadly insurrection that took place at the U."
+publishedDateTime: 2021-02-15T06:06:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/support-grows-capitol-riot-inquiry-trump-acquittal-75898872"
+webUrl: "https://abcnews.go.com/Politics/wireStory/support-grows-capitol-riot-inquiry-trump-acquittal-75898872"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/support-grows-capitol-riot-inquiry-trump-acquittal-75898872"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/support-grows-capitol-riot-inquiry-trump-acquittal-75898872"
 type: article
-quality: 112
+quality: 125
 heat: -1
 published: false
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/david-schoen_hpMain_20210212-222156_16x9_1600.jpg"
-    width: 1600
-    height: 900
+  - url: "https://s.abcnews.com/images/Politics/WireAP_62536ff3a2054235a369c24b9ecea904_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -430,22 +430,6 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
-        isCached: true
-  - title: "Support grows for Capitol riot inquiry after Trump acquittal"
-    excerpt: "A day after former President Donald Trump won his second Senate impeachment trial, bipartisan support appeared to be growing for an independent Sept. 11-style commission into the deadly insurrection that took place at the U."
-    publishedDateTime: 2021-02-15T06:06:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/support-grows-capitol-riot-inquiry-trump-acquittal-75898872"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/support-grows-capitol-riot-inquiry-trump-acquittal-75898872"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/support-grows-capitol-riot-inquiry-trump-acquittal-75898872"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_62536ff3a2054235a369c24b9ecea904_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Trump got off on a technicality"
     excerpt: "Republicans mostly cited the alleged unconstitutionality of the trial in voting to acquit. But their statements suggest we might have come close to 67 votes on the merits."
@@ -1118,6 +1102,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/oPFj4U2ZXfKUnMfLZNsJ4eb-OME=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/FKWWZVUZM5E4JOZSOEWGYHDNNM.aspx"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump impeachment trial live updates: Trump lawyer threatened to quit night before defense began"
+    excerpt: "Trump himself had to call David Schoen to convince him to stay on the team. Trump impeachment trial: Day 4 key moments Former President Donald Trump's historic second impeachment trial is taking place in the Senate."
+    publishedDateTime: 2021-02-13T08:26:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/trump-impeachment-trial-live-updates-senate-debate-constitutionality/?id=75741945"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/trump-impeachment-trial-live-updates-senate-debate-constitutionality/?id=75741945"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/trump-impeachment-trial-live-updates-senate-debate-constitutionality/?id=75741945"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 112
+    images:
+      - url: "https://s.abcnews.com/images/Politics/david-schoen_hpMain_20210212-222156_16x9_1600.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Biden ally advised against calling witnesses in Trump's impeachment trial because many senators wanted to get home for Valentine's Day, says report"
     excerpt: "Sen. Chris Coons told colleagues that GOP senators wanted to go home so witnesses should not be called, reported The Washington Post."
@@ -1805,6 +1805,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "QyjRigfCzfacusAsAt3AbvreM+bEqM5va2/l4nS11g82ZlppwLSs1voB6COf98DK9rTbdJrqtb28uVdNfD3zePc04yObFFASLxc4HrqlI9jYbzDbKTKG0GPZvcJSsjmQ/AENIoqxOSFjO/gWnMTz/wQ7HIxl9XnamBTNzqpy1E7XSq3gh13m5jQU9HMYr0bYItbsFic7eWlW4xeTVB+ahDqt8snSaucp09AsovuD0IzLqkNIeLQ7M8WS4FDkC5YjrWR64EBvtmMIuHJL47u0G0sF8GQGXC2oaluNX2jY6IV1rpNxQi5vBaIB1oG1S9lUybpv13etcx0OdYst2B5U7Lxqy+Tblq67oDn1/mKPRr5mQCimM7Rd7H55A020ozOZXGC/MBjaQsPEKrbG5qz4S8DwY6u84h+Gvr8feAG9FiThqbCOIGJPqQtg/9wxr0MQKPJWwOVByDoEpYVDuiLC2XTSqDmej7ym23t1aMINQokQgEPUUU9rz8Kd3wzxRdsSOK7OzQICUOvHqOrS9a27RA==;PNGHCBYJXniWg7vExQWZVg=="
+secured: "9lsJcC7YgqVcV2puR1/1imzDnhdcYmQMV2cN7m5ePzgAhTReu5TvKtkR2G8NbVKVcAKiURkpYmvLt7chj7kga27ERQxmXyNAN7FsHWPuBBCLYW2sAWEsnlpC+xyYuL3E9zgilCvzrUuto6MesQPLNQ3cHXltyQlvzwed8CxXgY4EttU7z+RpOrkS938Szuq4zQOyHw7UN/piEs+Ara6ASwloPSrabcv9FG4NMF4QRNMmRE+pBBmNo929SBE0OnIFTTgGqjd8zHU4OQkBlCox//f71ASrodz17ouKLHbX3+e6jQ7fQHsWjBQCFaa8h2qvonpYy5ZshBFIhAnJ6aF+RxIIxEHfpoaEMkxyVa3Gtzg=;+rWg+8whSGSb6KAFqxZuqQ=="
 ---
 
