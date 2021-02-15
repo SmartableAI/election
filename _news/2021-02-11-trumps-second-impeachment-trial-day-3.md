@@ -704,6 +704,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Feb. 13 highlights: Trump acquitted in Senate impeachment trial for second time"
+    excerpt: "The House impeached Trump last month for his role in the Jan. 6 Capitol riot. Seven Republican senators voted to convict him."
+    publishedDateTime: 2021-02-14T23:20:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/live-blog/2021-02-13-trump-impeachment-trial-live-updates-n1257801"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1257801"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1257801"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 131
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2021_06/3449806/210212-impeachment-live-blog-weekend-main-cover-cs_b31da3e00e0c13ac20ed4568b9808232.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
   - title: "John Dean on Trump's 2nd impeachment: Nixon's offenses didn't threaten democracy"
     excerpt: "Anderson Cooper discusses the historic second impeachment trial of Donald Trump with Watergate whistleblower John Dean and how President Trump is likely to be viewed historically."
     publishedDateTime: 2021-02-09T00:16:00Z

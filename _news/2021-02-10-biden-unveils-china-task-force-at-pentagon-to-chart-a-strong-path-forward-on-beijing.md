@@ -191,6 +191,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Secret Service arrests woman with loaded gun near White House, claims she had letter for Biden"
+    excerpt: "D.C. Police on Saturday arrested a 66-year-old woman on charges that she was carrying a loaded near the White House, Fox News has confirmed."
+    publishedDateTime: 2021-02-14T23:24:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IsnSGm4ZR8A/secret-service-arrests-woman-loaded-gun-near-white-house-letter-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/secret-service-arrests-woman-loaded-gun-near-white-house-letter-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/secret-service-arrests-woman-loaded-gun-near-white-house-letter-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6554f8d4-65cb-4edb-bf38-d438ab82a7bc/83c50f56-1be3-4049-8b93-4a4d75b030fa/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden officials believe China to be 'greatest long-term national security threat' to the US, McCaul says"
     excerpt: "President Biden’s Secretary of State Tony Blinken and White House national security adviser Jake Sullivan believe that China poses the \"greatest long-term national security threat to the United States,\" Republican Rep. Michael McCaul told Fox News after speaking with the officials, but McCaul said they"
     publishedDateTime: 2021-02-08T13:55:08Z

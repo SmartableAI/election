@@ -79,8 +79,8 @@ related:
         isCached: true
   - title: "Trump acquittal: Biden urges vigilance to defend 'fragile' democracy after impeachment trial"
     excerpt: "President says the substance of the charge against Donald Trump over the January attack on US Capitol is not in dispute"
-    publishedDateTime: 2021-02-14T10:21:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/feb/14/trump-acquittal-biden-urges-vigilance-to-defend-fragile-democracy-after-impeachment-trial"
+    publishedDateTime: 2021-02-14T08:21:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/feb/14/trump-acquittal-biden-urges-vigilance-to-defend-fragile-democracy-after-impeachment-trial?CMP=oth_b-aplnews_d-1"
     ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/14/trump-acquittal-biden-urges-vigilance-to-defend-fragile-democracy-after-impeachment-trial"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/14/trump-acquittal-biden-urges-vigilance-to-defend-fragile-democracy-after-impeachment-trial"
     type: article
@@ -429,6 +429,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Trump got off on a technicality"
+    excerpt: "Republicans mostly cited the alleged unconstitutionality of the trial in voting to acquit. But their statements suggest we might have come close to 67 votes on the merits."
+    publishedDateTime: 2021-02-14T23:16:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/02/14/trump-got-off-technicality/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/02/14/trump-got-off-technicality/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/02/14/trump-got-off-technicality/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/02-11-2021/t_3663950b3bda48959ae2d8edf9d83996_name_ImpeachmentThisWeek_Week3_2021_Thumb_v01.png&w=1440"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "Impeachment expert says Trump's lawyers distorted his work 'quite badly'"
     excerpt: "A U.S. law professor who studies impeachment says former President Donald Trump's lawyers misrepresented his research in a brief laying out arguments they will make at his U.S. Senate impeachment trial that starts on Tuesday."
     publishedDateTime: 2021-02-09T00:44:00Z
@@ -588,6 +604,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JAIZYVDOG4I6XH4AHV3ENTQ3YA.jpg&w=1440"
         width: 1106
         height: 653
+        isCached: true
+  - title: "With Trump impeachment trial over, wounded Washington grapples with divisions"
+    excerpt: "Former President Donald Trump's acquittal on charges of inciting a deadly attack on the U.S. Capitol left Democrats and Republicans deeply divided on Sunday even as his Democratic successor, Joe Biden,"
+    publishedDateTime: 2021-02-15T00:10:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-impeachment-idINKBN2AE0BK"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2AE0BK"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2AE0BK"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210214&t=2&i=1551527234&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1D0AC"
+        width: 819
+        height: 545
         isCached: true
   - title: "Parental warnings, harrowing footage: Takeaways from Trump's impeachment trial"
     excerpt: "The U.S. Senate's impeachment trial gathered steam on Wednesday, with Democratic lawmakers laying out their evidence that former President Donald Trump incited an insurrection by exhorting thousands of supporters to march on the Capitol last month."

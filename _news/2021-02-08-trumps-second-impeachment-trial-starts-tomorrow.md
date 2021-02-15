@@ -700,6 +700,38 @@ related:
         width: 3500
         height: 2333
         isCached: true
+  - title: "Impeachment Trial: Trump Is Acquitted by the Senate"
+    excerpt: "All 50 Democrats and seven Republicans voted “guilty,” falling 10 votes short of the two-thirds necessary for conviction. Senator Mitch McConnell followed his own vote to acquit with a surprisingly harsh speech calling Donald J."
+    publishedDateTime: 2021-02-14T17:03:00Z
+    webUrl: "https://www.nytimes.com/live/2021/02/13/us/impeachment-trial"
+    ampWebUrl: "https://www.nytimes.com/live/2021/02/13/us/impeachment-trial.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/02/13/us/impeachment-trial.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/13/us/politics/13impeachment-briefing-promo4/13impeachment-briefing-promo4-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Why Seven Republican Senators Voted to Convict Trump"
+    excerpt: "The Republicans who broke with their party to find Donald J. Trump guilty were an eclectic group, bound by their shared lack of concern about retribution from the former president or his followers."
+    publishedDateTime: 2021-02-14T23:57:00Z
+    webUrl: "https://www.nytimes.com/2021/02/14/us/politics/republican-senators-impeachment-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/14/us/politics/republican-senators-impeachment-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/14/us/politics/republican-senators-impeachment-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/14/us/politics/14dc-defectors1/14dc-defectors1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Impeachment Case Aims to Marshal Outrage of Capitol Attack Against Trump"
     excerpt: "Armed with lessons from the last impeachment trial of Donald J. Trump, prosecutors plan a shorter, video-heavy presentation to confront Republicans with the fury they felt around the Capitol riot."
     publishedDateTime: 2021-02-07T20:46:00Z

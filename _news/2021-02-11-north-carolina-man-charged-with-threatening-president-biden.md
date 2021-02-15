@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/north-carolina-man-charged-threaten
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/north-carolina-man-charged-threatening-president-biden.amp"
 type: article
 quality: 175
-heat: 495
+heat: 515
 published: true
 
 provider:
@@ -188,6 +188,22 @@ related:
     quality: 167
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6f8ed1a6-fe3a-4544-ba64-ed369cff65e9/5278d9ba-b2d6-4465-b58a-3321e6ae1e1c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Secret Service arrests woman with loaded gun near White House, claims she had letter for Biden"
+    excerpt: "D.C. Police on Saturday arrested a 66-year-old woman on charges that she was carrying a loaded near the White House, Fox News has confirmed."
+    publishedDateTime: 2021-02-14T23:24:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IsnSGm4ZR8A/secret-service-arrests-woman-loaded-gun-near-white-house-letter-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/secret-service-arrests-woman-loaded-gun-near-white-house-letter-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/secret-service-arrests-woman-loaded-gun-near-white-house-letter-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6554f8d4-65cb-4edb-bf38-d438ab82a7bc/83c50f56-1be3-4049-8b93-4a4d75b030fa/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

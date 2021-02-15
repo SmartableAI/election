@@ -95,6 +95,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Mitch McConnell votes to acquit but says Trump's actions were a 'disgraceful dereliction of duty'"
+    excerpt: "McConnell's decision not call the Senate back from recess last month meant Joe Biden would be sworn in as president before Trump's trial could begin."
+    publishedDateTime: 2021-02-15T00:54:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/13/mitch-mcconnell-says-trump-caused-capitol-riot-but-votes-acquit/4476982001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4476982001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4476982001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 112
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/19/USAT/165c032b-fc9d-4737-800c-1631e49e8f9a-VPC_MCCONNELL_SOT_DESK.00_00_08_10.Still010.jpg?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Mitch McConnell lambasts Donald Trump but votes not guilty – video"
     excerpt: "Nancy Pelosi criticises ‘cowardly’ Republicans and minority leader Mitch McConnell savages Trump but votes not guilty regardless"
     publishedDateTime: 2021-02-14T04:57:00Z
