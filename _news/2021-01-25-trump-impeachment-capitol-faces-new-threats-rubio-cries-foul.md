@@ -143,6 +143,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Trump's second impeachment trial: the key players"
+    excerpt: "House charged Trump with ‘incitement of insurrection’"
+    publishedDateTime: 2021-01-25T08:03:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/25/trumps-second-impeachment-trial-key-players"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/25/trumps-second-impeachment-trial-key-players"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/25/trumps-second-impeachment-trial-key-players"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/a532de0afb04181abd9a25cda0dcf991957441ca/0_400_5388_3233/master/5388.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d21f86f37352f4a80e66672d0ed3244d"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Lawyer group: Trump adds ex-prosecutor to impeachment team"
     excerpt: "Donald Trump is adding another attorney from South Carolina to his impeachment legal team: a former federal prosecutor-turned-defense attorney who specializes in white-collar crime"
     publishedDateTime: 2021-01-26T08:07:00Z
@@ -238,6 +254,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/12/29/NGCT/92163326-189a-4575-861a-7c419df0f18b-SCHUMER.jpg?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Impeachment: five Republicans join vote for witnesses in Trump Senate trial"
+    excerpt: "Romney, Collins, Murkowski, Sasse and Graham vote for witnesses after GOP congresswoman’s statement about Trump-McCarthy call"
+    publishedDateTime: 2021-02-13T16:15:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/feb/13/impeachment-five-republicans-vote-witnesses-trump-senate-trial"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/13/impeachment-five-republicans-vote-witnesses-trump-senate-trial"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/13/impeachment-five-republicans-vote-witnesses-trump-senate-trial"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 123
+    images:
+      - url: "https://i.guim.co.uk/img/media/3a013eae8bda52e500c89cfd7ab69908166e7a3d/0_65_3132_1879/master/3132.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=af2beeaf14bcb64ec860a5c7104b044e"
+        width: 600
+        height: 360
         isCached: true
   - title: "‘Not going to lose my son and my republic’: Jamie Raskin on Trump impeachment"
     excerpt: "Last modified on Sun 17 Jan 2021 11.07 EST Jamie Raskin, the House Democrat leading the impeachment of Donald Trump, remembered his son Tommy on Sunday and said: “I’m not going to lose my son at the end of 2020 and lose my country and my republic in 2021."
@@ -578,6 +610,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/UTKT4Z2AMJAPJNKSBTSOYVVLSE.jpg"
         width: 4500
         height: 3000
+        isCached: true
+  - title: "Trump 2021 impeachment trial: GOP senators might kill effort"
+    excerpt: "I think the trial is stupid, I think it’s counterproductive,” said Sen. Marco Rubio, R-Fla.. He said that “the first chance I get to vote to end this trial, I’ll do it” because he believes it would be bad for the country and further inflame partisan divisions."
+    publishedDateTime: 2021-01-25T12:10:00Z
+    webUrl: "https://www.al.com/news/2021/01/trump-2021-impeachment-trial-gop-senators-might-kill-effort.html"
+    ampWebUrl: "https://www.al.com/news/2021/01/trump-2021-impeachment-trial-gop-senators-might-kill-effort.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/trump-2021-impeachment-trial-gop-senators-might-kill-effort.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/76K3ONR6JZCVVE5Z4TXB3YGDRY.jpg"
+        width: 4516
+        height: 3011
         isCached: true
   - title: "What’s Next For Trump? His Plans As Impeachment Article Hits Senate"
     excerpt: "Former President Donald Trump is opening a new office in Florida on Monday that will carry on his admininstration's administration, an announcement he made as the House delivered a single article of impeachment to the Senate."

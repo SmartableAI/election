@@ -95,22 +95,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Everything Joe Biden Has Said About Reopening Schools"
-    excerpt: "According to a school reopening tracking map from EdWeek, a majority of states have left the decision to reopen schools to local school districts and their health departments."
-    publishedDateTime: 2021-02-12T15:51:00Z
-    webUrl: "https://www.newsweek.com/everything-joe-biden-has-said-about-reopening-schools-1568924"
-    ampWebUrl: "https://www.newsweek.com/everything-joe-biden-has-said-about-reopening-schools-1568924?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/everything-joe-biden-has-said-about-reopening-schools-1568924?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 125
-    images:
-      - url: "https://d.newsweek.com/en/full/1733425/president-joe-biden.jpg"
-        width: 2500
-        height: 1665
-        isCached: true
   - title: "Biden press staffer suspended following reports he threatened to \"destroy\" female journalist"
     excerpt: "White House deputy press secretary TJ Ducklo also made misogynistic statements to Politico reporter Tara Palmeri."
     publishedDateTime: 2021-02-13T03:15:00Z

@@ -732,6 +732,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Trump admin a cautionary tale of nepotism for future generations"
+    excerpt: "Rachel Maddow highlights Donald Trump's tendency to hire people he knows or is related to for White House jobs, and the conflict that creates, particularly in the case of Ivanka Trump and Jared Kushner who continue in senior White House roles despite being unable to to earn a full security clearance."
+    publishedDateTime: 2021-02-15T09:32:00Z
+    webUrl: "https://www.nbcnews.com/video/trump-admin-a-cautionary-tale-of-nepotism-for-future-generations-1171297859780"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo44286533637"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo44286533637"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media1.s-nbcnews.com/i/MSNBC/Components/Video/201802/n_maddow_a2nepotism_180226_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Why Seven Republican Senators Voted to Convict Trump"
     excerpt: "The Republicans who broke with their party to find Donald J. Trump guilty were an eclectic group, bound by their shared lack of concern about retribution from the former president or his followers."
     publishedDateTime: 2021-02-14T23:57:00Z
@@ -887,6 +903,6 @@ related:
         height: 720
         isCached: true
 
-secured: "NVZGqxgcgANbMx+mnuP7ZqAm803EPUtrcL3uncPlX0DLdaHOm3jz2KaQ0DbcvPXr7iwWnHSbN+yigSsPjioEpMIkCHd0jx/5eFkK3AlvWwyKW18V5eSTsuscaQGYqHmeD3Cx3M13RfhjZAv9F7+psbxqYnYvwKqvh7kuvlxZRxVt0kvZrcpS9hMk4hJRvGAuo3ah/vDiXw38mHJuW3dyT9uklm0n20FMT5N6Mhb+J1AFM47wA/g/niiUatE4HKWZXSq7mQnNWuzMm1KI24ApqKcsgRQCQBLLSqF1OufESCU5hBPcrCnK5S1lbi6vOzn4oa/OZ/V37slO6jr3ROPDRYo+dcC1vVsO58GOJF6otHo=;t6qmdjYEh/xFnGHxRumInQ=="
+secured: "K3DsfbaS7EoJZABtc0ljvMCCdkEL9VT2NbnyrB0cqeCO4utQKCrmDFYTRwWJprYaXxmY6LWN2F1r5v0e6JGcKlMpHsbT2zjYqv8lvQ8HufbtF7CbYsuYmU5uOJ32I1hNfV9TRXsgfdj3BYQYQYAq4D+28pZgIvKhR6Cx4/5jdsfonDow4iKMX0JGR+7mX6vrhDEeDdjWdJib0AOmAQ9Hl0LgULTucBMlfKeQYPN8SZ0Gws9WmoFx3lRdvH8TMew4PDUpiRaVLQpzHuhPh9dl98O7v/iqL+tN6GuwN4ZqwXHI52JoGcbDZ9zfH38JkP/+dF4HB3b9M1lgDk8Sp9EEriEDxck+Y6eAIbLvOpUU5KVoC+1TZxzN1HAR/uVXJDxj3LbASua4fXc5Lmd3g9rTpCc9vOSz+4ckXAAMrZl+GoIYpb9clwi2pOqHbtPSqpbXi9otly0ohOmNq08zqOE81s9O5qOlXfZWcsBWrAng8Z+VmSMRf2vHPcxsQCf9nCw3VhTuYycG68D0DwfGbK0Ddg==;ntYd/02NEkDlgmXcz/HRzA=="
 ---
 

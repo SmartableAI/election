@@ -31,113 +31,333 @@ images:
     isCached: true
 
 related:
-  - title: "'People are hurting,' Biden says as jobs report spurs stimulus push"
-    excerpt: "After weak jobs data showed the U.S. labor market recovery is stalling, President Joe Biden and his economic team on Friday hammered home the same message in meetings, interviews and television appearances: It's time to get more money out to the economy."
-    publishedDateTime: 2021-02-05T22:52:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-economy-idUSKBN2A529V"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A529V"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A529V"
+  - title: "Kamala Harris said parts of the Trump administration's pandemic response left Biden 'starting from scratch'"
+    excerpt: "Harris told \"Axios on HBO\" that the Trump administration left the country with no vaccine stockpile and no national strategy."
+    publishedDateTime: 2021-02-15T10:48:00Z
+    webUrl: "https://www.businessinsider.com/kamala-harris-biden-starting-from-scratch-covid-19-after-trump-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/kamala-harris-biden-starting-from-scratch-covid-19-after-trump-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kamala-harris-biden-starting-from-scratch-covid-19-after-trump-2021-2?amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 147
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210205&t=2&i=1550496943&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH141CZ"
-        width: 849
-        height: 545
+      - url: "https://i.insider.com/602a48982edd0f001a8d5c4c?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Dems propose $1,400 payments as part of Biden virus relief"
-    excerpt: "Democrats on the House Ways and Means Committee are proposing an additional $1,400 in direct payments to individuals, bolstered unemployment benefits and more generous tax breaks for families with chi"
-    publishedDateTime: 2021-02-09T05:27:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/dems-propose-1400-payments-part-biden-virus-relief-75769191"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/dems-propose-1400-payments-part-biden-virus-relief-75769191"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/dems-propose-1400-payments-part-biden-virus-relief-75769191"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_c5d7958f7d844df8ab38fd7848616b66_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Senate panel advances Biden's education and labor secretary picks"
-    excerpt: "Committee advanced President Biden’s picks to lead the Education Department and Labor Department on Thursday with broad bipartisan votes."
-    publishedDateTime: 2021-02-11T15:48:00Z
-    webUrl: "https://thehill.com/homenews/senate/538407-senate-panel-advances-bidens-education-and-labor-secretary-picks"
-    ampWebUrl: "https://thehill.com/homenews/senate/538407-senate-panel-advances-bidens-education-and-labor-secretary-picks?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/538407-senate-panel-advances-bidens-education-and-labor-secretary-picks?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/cardonamiguel_020321pool_lead.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Biden to slowly allow 25,000 people seeking asylum into US"
-    excerpt: "The Biden administration says an estimated 25,000 people who are seeking asylum and have been forced to wait in Mexico will be allowed into the U.S. while their cases wind through immigration courts"
-    publishedDateTime: 2021-02-12T11:04:00Z
-    webUrl: "https://www.washingtonpost.com/health/some-asylum-seekers-waiting-in-mexico-to-be-allowed-in-us/2021/02/12/09d16e3a-6d22-11eb-a66e-e27046e9e898_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/health/some-asylum-seekers-waiting-in-mexico-to-be-allowed-in-us/2021/02/12/09d16e3a-6d22-11eb-a66e-e27046e9e898_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/some-asylum-seekers-waiting-in-mexico-to-be-allowed-in-us/2021/02/12/09d16e3a-6d22-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+  - title: "Immigrants, activists worry Biden won’t end Trump barriers"
+    excerpt: "President Joe Biden rushed to send the most ambitious overhaul of the nation’s immigration system in a generation to Congress"
+    publishedDateTime: 2021-02-08T10:42:00Z
+    webUrl: "https://www.washingtonpost.com/politics/immigrants-activists-worry-biden-wont-end-trump-barriers/2021/02/08/69be6190-69d0-11eb-a66e-e27046e9e898_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/immigrants-activists-worry-biden-wont-end-trump-barriers/2021/02/08/69be6190-69d0-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/immigrants-activists-worry-biden-wont-end-trump-barriers/2021/02/08/69be6190-69d0-11eb-a66e-e27046e9e898_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 125
+    quality: 140
     images:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
         isCached: true
-  - title: "Joe Biden-Xi Jinping Call Shows President's Respect for China, State Media Says"
-    excerpt: "Biden said he raised several contentious topics with his Chinese counterpart, including human rights abuses and the coronavirus pandemic."
-    publishedDateTime: 2021-02-11T15:44:00Z
-    webUrl: "https://www.newsweek.com/biden-xi-call-shows-us-president-respect-china-state-media-1568588"
-    ampWebUrl: "https://www.newsweek.com/biden-xi-call-shows-us-president-respect-china-state-media-1568588?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-xi-call-shows-us-president-respect-china-state-media-1568588?amp=1"
+  - title: "In Biden’s early days, signs of Trump-era problems at border"
+    excerpt: "Larger numbers of immigrant families have been crossing the U.S.-Mexico border in the first weeks of President Joe Biden’s administration"
+    publishedDateTime: 2021-02-10T10:04:00Z
+    webUrl: "https://www.washingtonpost.com/health/in-bidens-early-days-signs-of-trump-era-problems-at-border/2021/02/10/69ac4cce-6b5d-11eb-a66e-e27046e9e898_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/in-bidens-early-days-signs-of-trump-era-problems-at-border/2021/02/10/69ac4cce-6b5d-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/in-bidens-early-days-signs-of-trump-era-problems-at-border/2021/02/10/69ac4cce-6b5d-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Biden decree ends 'emergency' that Trump used to build wall"
+    excerpt: "President Joe Biden has officially ended the “national emergency” that President Donald Trump declared in order to take money from the Pentagon to build a wall along the U.S.-Mexico border"
+    publishedDateTime: 2021-02-11T20:36:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-decree-ends-emergency-trump-build-wall-75833943"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-decree-ends-emergency-trump-build-wall-75833943"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-decree-ends-emergency-trump-build-wall-75833943"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_67a71bccfa5846c0b971c4076a135886_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump impeachment trial: Biden warns democracy is fragile"
+    excerpt: "US President Joe Biden has called his predecessor Donald Trump's acquittal for inciting mob violence a reminder that \"democracy is fragile\". A majority of senators voted to convict Mr Trump but the numbers fell short of the two-thirds required to do so."
+    publishedDateTime: 2021-02-14T12:47:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-56061100"
+    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-56061100"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-56061100"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 140
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/311E/production/_116947521_mediaitem116947520.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Biden, reflecting on Senate acquittal of Trump, says 'democracy is fragile'"
+    excerpt: "U.S. President Joe Biden said on Saturday that the Senate's acquittal of former President Donald Trump for inciting an insurrection was a reminder that democracy was fragile, and every American had a duty to defend the truth."
+    publishedDateTime: 2021-02-14T04:02:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-biden/biden-reflecting-on-senate-acquittal-of-trump-says-democracy-is-fragile-idUSKBN2AE030"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AE030"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AE030"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 138
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210214&t=2&i=1551470848&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1D02W"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Biden says 'some minds' may be changed by video from Trump impeachment trial"
+    excerpt: "President Biden on Thursday said he believed “some minds” may have been changed on whether to convict former President Trump after House impeachment managers presented harrowing video of the Jan. 6 Capitol attack."
+    publishedDateTime: 2021-02-11T16:26:00Z
+    webUrl: "https://thehill.com/homenews/administration/538420-biden-says-some-minds-may-be-changed-by-video-from-trump-impeachment"
+    ampWebUrl: "https://thehill.com/homenews/administration/538420-biden-says-some-minds-may-be-changed-by-video-from-trump-impeachment?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/538420-biden-says-some-minds-may-be-changed-by-video-from-trump-impeachment?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 137
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_02112021getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "White House says Biden is too busy to pay much attention to Trump impeachment trial"
+    excerpt: "As Washington is consumed with the impeachment trial of the last president, the current one tries to look too busy to care."
+    publishedDateTime: 2021-02-09T18:46:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-trump-trial/2021/02/08/e3d2ad9e-6a2d-11eb-9f80-3d7646ce1bc0_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-trump-trial/2021/02/08/e3d2ad9e-6a2d-11eb-9f80-3d7646ce1bc0_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-trump-trial/2021/02/08/e3d2ad9e-6a2d-11eb-9f80-3d7646ce1bc0_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 134
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GXJYH2DKEQI6XJTO4JYEN2PITA.jpg&w=1440"
+        width: 1440
+        height: 1133
+        isCached: true
+  - title: "Neera Tanden, Biden's Contentious Budget Chief Pick, Tweeted 30K More than Donald Trump"
+    excerpt: "Tanden has come under fire in recent weeks for her combative Twitter history that included targeting Republicans and progressive Democrats."
+    publishedDateTime: 2021-02-11T17:51:00Z
+    webUrl: "https://www.newsweek.com/neera-tanden-bidens-contentious-budget-chief-pick-tweeted-30k-more-donald-trump-1568685"
+    ampWebUrl: "https://www.newsweek.com/neera-tanden-bidens-contentious-budget-chief-pick-tweeted-30k-more-donald-trump-1568685?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/neera-tanden-bidens-contentious-budget-chief-pick-tweeted-30k-more-donald-trump-1568685?amp=1"
     type: article
     provider:
       name: Newsweek
       domain: newsweek.com
-    quality: 121
+    quality: 132
     images:
-      - url: "https://d.newsweek.com/en/full/1732393/joe-biden-speaks-state-department.jpg"
+      - url: "https://d.newsweek.com/en/full/1732629/neera-tanden.jpg"
         width: 2500
         height: 1667
         isCached: true
-  - title: "Biden press staffer suspended following reports he threatened to \"destroy\" female journalist"
-    excerpt: "White House deputy press secretary TJ Ducklo also made misogynistic statements to Politico reporter Tara Palmeri."
-    publishedDateTime: 2021-02-13T03:15:00Z
-    webUrl: "https://www.cbsnews.com/news/white-house-tj-ducklo-threatens-to-destroy-female-reporter/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/white-house-tj-ducklo-threatens-to-destroy-female-reporter/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/white-house-tj-ducklo-threatens-to-destroy-female-reporter/"
+  - title: "Joe Biden Calls Donald Trump's Final Days As President 'A Sad Chapter' After Acquittal"
+    excerpt: "In his first public response to Trump's acquittal, President Biden said his predecessor's actions and the Capitol riot had been a reminder that \"democracy is fragile.\""
+    publishedDateTime: 2021-02-14T10:31:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-calls-donald-trump-president-sad-chapter-acquittal-1569179"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-calls-donald-trump-president-sad-chapter-acquittal-1569179?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-calls-donald-trump-president-sad-chapter-acquittal-1569179?amp=1"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 114
+      name: Newsweek
+      domain: newsweek.com
+    quality: 132
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/02/13/079d549e-3fd2-48d9-a40e-f9175aeb386e/thumbnail/1200x630/a32fc430b418c16eeb0a92bd98d32e4a/ap-21043658673903.jpg"
-        width: 1200
-        height: 630
+      - url: "https://d.newsweek.com/en/full/1734708/joe-biden-leaving-white-house.jpg"
+        width: 2500
+        height: 1663
         isCached: true
-  - title: "Senate confirms Mayorkas as Biden's homeland security chief"
-    excerpt: "The Senate confirmed Alejandro Mayorkas on Tuesday as President Joe Biden's homeland security secretary, the first Latino to fill a post that will have a central role in the government's response to ,"
-    publishedDateTime: 2021-02-03T02:15:00Z
-    webUrl: "https://www.businessinsider.com/senate-confirms-mayorkas-as-bidens-homeland-security-chief-2021-2"
-    ampWebUrl: "https://www.businessinsider.com/senate-confirms-mayorkas-as-bidens-homeland-security-chief-2021-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/senate-confirms-mayorkas-as-bidens-homeland-security-chief-2021-2?amp"
+  - title: "How Kamala Harris made wearing pearls cool"
+    excerpt: "As the pearl’s standing increases alongside that of women, a progressive new generation is rediscovering Margaret Thatcher’s one-time trademark"
+    publishedDateTime: 2021-02-12T16:14:00Z
+    webUrl: "https://www.theguardian.com/fashion/2021/feb/12/how-kamala-harris-made-wearing-pearls-cool"
+    ampWebUrl: "https://amp.theguardian.com/fashion/2021/feb/12/how-kamala-harris-made-wearing-pearls-cool"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/fashion/2021/feb/12/how-kamala-harris-made-wearing-pearls-cool"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/bb11ce65ca7bc3d31c1deab990f87472f33d1531/0_0_5000_3000/master/5000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ad4e8d9e8da6990e75475493d8e4324c"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Biden administration to begin admitting migrants forced to wait in Mexico"
+    excerpt: "The Biden administration plans to begin processing and admitting migrants forced to wait in Mexico under Trump administration's \"Migrant Protection Protocols\""
+    publishedDateTime: 2021-02-12T16:00:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-administration-begin-admitting-migrants-forced-wait-mexico/story?id=75840727"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-administration-begin-admitting-migrants-forced-wait-mexico/story?id=75840727"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-administration-begin-admitting-migrants-forced-wait-mexico/story?id=75840727"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 124
+    images:
+      - url: "https://s.abcnews.com/images/Politics/mexico-gty-er-210211_1613094822667_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden administration tells Supreme Court Obamacare is constitutional, should be saved"
+    excerpt: "In letter to the court, government lawyers disavowed the view the Trump administration argued just months ago."
+    publishedDateTime: 2021-02-11T04:20:00Z
+    webUrl: "https://www.washingtonpost.com/politics/courts_law/biden-supreme-court-obamacare/2021/02/10/21dbfcac-6be7-11eb-ba56-d7e2c8defa31_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/biden-supreme-court-obamacare/2021/02/10/21dbfcac-6be7-11eb-ba56-d7e2c8defa31_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/biden-supreme-court-obamacare/2021/02/10/21dbfcac-6be7-11eb-ba56-d7e2c8defa31_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 118
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GTKWHNTL6EI6XOSW27RMRXX2GE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Meena Harris has a personal brand. Some fear she’s profiting from her Aunt Kamala’s office"
+    excerpt: "The White House and others fear scrutiny over the personal branding efforts of the vice president's niece, which have grown with Kamala Harris' career."
+    publishedDateTime: 2021-02-11T12:00:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-02-11/meena-branding-business-kamala-harris-niece"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-02-11/meena-branding-business-kamala-harris-niece?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-02-11/meena-branding-business-kamala-harris-niece?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 115
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/651769e/2147483647/strip/true/crop/4500x2939+0+48/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F85%2Fe9%2F1c5ad06c42b89c8d0cc826df1046%2Ftrump-impeachment-08666.jpg"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "Trump impeachment lawyers cite Kamala Harris comments | Charlotte Observer"
+    excerpt: "Vice President Kamala Harris engaged in the same sort of strong political rhetoric that prompted President Donald Trump’s impeachment, his attorneys said Friday. Michael van der Veen, a Trump defense attorney,"
+    publishedDateTime: 2021-02-12T21:10:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/article249217590.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/article249217590.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article249217590.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 88
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/8dd160d4-750c-4437-88b7-70c19fe7d0e8/b3af9ac2-cb8d-46d9-bbaa-99e8b7980a99/1280x720/match/image.jpg"
+        width: 1280
+        height: 719
+        isCached: true
+  - title: "Trump impeachment lawyers cite Kamala Harris comments | Raleigh News & Observer"
+    excerpt: "Vice President Kamala Harris engaged in the same sort of strong political rhetoric that prompted President Donald Trump’s impeachment, his attorneys said Friday. Michael van der Veen, a Trump defense attorney,"
+    publishedDateTime: 2021-02-12T20:10:00Z
+    webUrl: "https://www.newsobserver.com/news/politics-government/article249217590.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/politics-government/article249217590.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/politics-government/article249217590.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 86
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/8dd160d4-750c-4437-88b7-70c19fe7d0e8/b3af9ac2-cb8d-46d9-bbaa-99e8b7980a99/1280x720/match/image.jpg"
+        width: 1280
+        height: 719
+        isCached: true
+  - title: "Trump impeachment lawyers raise past rhetoric of Kamala Harris. Here are the facts"
+    excerpt: "Vice President Kamala Harris engaged in the same sort of strong political rhetoric that prompted President Donald Trump’s impeachment, his attorneys said Friday. Michael van der Veen, a Trump defense attorney,"
+    publishedDateTime: 2021-02-12T21:10:00Z
+    webUrl: "https://www.sacbee.com/news/politics-government/article249217590.html"
+    ampWebUrl: "https://amp.sacbee.com/news/politics-government/article249217590.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/article249217590.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 84
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/8dd160d4-750c-4437-88b7-70c19fe7d0e8/b3af9ac2-cb8d-46d9-bbaa-99e8b7980a99/1280x720/match/image.jpg"
+        width: 1280
+        height: 719
+        isCached: true
+  - title: "She's the powerful yet little-known referee with the 'hardest job' on Capitol Hill, and she's shaping Trump's impeachment trial and Biden's agenda"
+    excerpt: "In the coming days and weeks, MacDonough will advise senators on the complex rules of an impeachment trial and on reconciliation as Democrats push Biden's agenda."
+    publishedDateTime: 2021-02-10T10:02:00Z
+    webUrl: "https://www.businessinsider.com/senate-parliamentarian-elizabeth-macdonough-trump-impeachment-trial-stimulus-minimum-wage-2021-2"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 105
+    quality: 82
+    images:
+      - url: "https://i.insider.com/60234db767d1e300113c52c7?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Kamala Harris brings a new meaning to power-dressing"
+    excerpt: "Vice President Kamala Harris is harnessing interest in her style by spotlighting Black fashion designers and brands owned by immigrants."
+    publishedDateTime: 2021-02-11T22:42:00Z
+    webUrl: "https://www.insider.com/kamala-harris-meaning-behind-her-style-as-vice-president-2021-1"
+    ampWebUrl: "https://www.insider.com/kamala-harris-meaning-behind-her-style-as-vice-president-2021-1?amp"
+    cdnAmpWebUrl: "https://www-insider-com.cdn.ampproject.org/c/s/www.insider.com/kamala-harris-meaning-behind-her-style-as-vice-president-2021-1?amp"
+    type: article
+    provider:
+      name: insider
+      domain: insider.com
+    quality: 75
+    images:
+      - url: "https://i.insider.com/601abcf001504a00197fb5b7?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Biden on Trump Trial: 'Some Minds May Have Been Changed'"
+    excerpt: "The president said he did not watch Donald Trump’s Senate trial but has seen news coverage and suspects that 'some minds may have been changed.'"
+    publishedDateTime: 2021-02-11T16:51:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-02-11/biden-on-trump-trial-some-minds-may-have-been-changed"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-11/biden-on-trump-trial-some-minds-may-have-been-changed?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-11/biden-on-trump-trial-some-minds-may-have-been-changed?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
+  - title: "Vice President Kamala Harris Emphasizes Speed and Equity in Response to COVID-19 Crisis"
+    excerpt: "In Harris’ first national sit-down interview since becoming vice president, she discusses her focus on an equitable response to the COVID-19 crisis with 19th editor-at-large Errin Haines."
+    publishedDateTime: 2021-02-12T17:04:00Z
+    webUrl: "https://www.govexec.com/management/2021/02/vice-president-kamala-harris-emphasizes-speed-and-equity-response-covid-19-crisis/172032/"
+    type: article
+    provider:
+      name: Government Executive
+      domain: govexec.com
+    quality: 47
+    images:
+      - url: "https://cdn.govexec.com/media/img/upload/2021/02/12/021221harris/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "u0CGSM2OMwlNjxWjFxWapS0vt8s4nlDQDw5CfjrAfyBKniMCfb+urnBxWmw/58BFi53Fn9v60J7YKRq4f66zs3vPmfyaJzt/cMYKXPs62ROvl9upDODceV+xHJSZp8nkSRhfPiJF5/tzMwGnbdYdDiuK6vbSbV8jy/oZOyIj4DMcTBcsxbPVpKYIVMtABWH0x31WeGfpAPBJjq51Tw/zP4wMw4ZIR7fwAHytP07UjTL4rBQcnvV9TETL971oaeib5HufmrRQ70Pjg8R2f/mTsnACXQddUZZbinOT0ViUF9diHMgXDSpmwi+7i55wx2o29cxAPyxyHIe/OXxRFeerbBHEDN9dkmeMZg+LEOWdUGwXN2OJyMHyeikl1+kPPvpQYi2bvQ0QJuIjQR0ejzrADjhMz0cwdTu+gzZ3nqNk9FCRIsMW7lGyd0KrEHZuJdid8JOjqoeRlnyMfdl+PPv+JlIIMMg/cR5PDELZ5ZPk3g3Ld8U8fZfL4HMjrsrqlbGRR2fjecrSPEZ1NWHZOlrtPA==;xhkqYa125451nEKrrT9CGg=="
 ---

@@ -2,6 +2,115 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-12-bidens-infrastructure-plan-renews-interest-in-nyc-boston-rail-tunnel-under-long-island-sound.md",
+      "title": "Biden's infrastructure plan renews interest in NYC-Boston rail tunnel under Long Island Sound",
+      "excerpt": "The estimated cost of the 20-year project is over $100 billion, a figure proponents say is not outrageous, given Biden’s promise to invest $2 trillion on clean energy infrastructure.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/travel/news/2021/02/12/bidens-focus-infrastructure-could-put-rail-tunnel-under-long-island-sound/6735315002/",
+      "originalUrl": "https://www.usatoday.com/story/travel/news/2021/02/12/bidens-focus-infrastructure-could-put-rail-tunnel-under-long-island-sound/6735315002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/02/11/USAT/45466196-210e-4a98-93ee-62ad0151bd59-AP21041777544333.jpg?auto=webp&crop=5999,3374,x1,y580&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6735315002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6735315002",
+      "publishedDateTime": "2021-02-12T05:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-02-12-remembering-parkland-defiant-desantis-lashes-out-at-biden-administration-sprowls-warns-schools-over-enrollment-drops.md",
+      "title": "Remembering Parkland — Defiant DeSantis lashes out at Biden administration — Sprowls warns schools over enrollment drops",
+      "excerpt": "Between Wednesday and Thursday, the number of Florida coronavirus cases increased by 8,525 (nearly 0.5 percent), to 1,806,805; active hospitalizations went down by 220 (nearly 4.3 percent). to 4,906;",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/newsletters/florida-playbook/2021/02/12/remembering-parkland-defiant-desantis-lashes-out-at-biden-administration-sprowls-warns-schools-over-enrollment-drops-491735",
+      "originalUrl": "https://www.politico.com/newsletters/florida-playbook/2021/02/12/remembering-parkland-defiant-desantis-lashes-out-at-biden-administration-sprowls-warns-schools-over-enrollment-drops-491735",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/d3/05/ba68c9f5400bbef72003544b41ba/fineoutlogo.jpg",
+          "width": 900,
+          "height": 1165,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-12T03:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-12-donald-trumps-version-of-an-insanity-defense-his-critics-are-insane.md",
       "title": "Donald Trump’s version of an insanity defense: His critics are insane",
       "excerpt": "In the summer of 2015, two months after Donald Trump announced he was running for president, a blogger named Esther Goldberg read a Washington Post column by the conservative commentator George F. Will that accused Trump of being phony,",
@@ -155,6 +264,58 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-12-twitter-reacts-to-terrence-k-williams-calling-vp-kamala-harris-a-pole-model.md",
+      "title": "Twitter Reacts To Terrence K. Williams Calling VP Kamala Harris A ‘Pole Model’",
+      "excerpt": "Terrence K. Williams refused to apologize to Vice President Kamala Harris after calling her a \"pole model\" on social media.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/twitter-reacts-terrence-k-williams-calling-vp-kamala-harris-pole-model-3144020",
+      "originalUrl": "https://www.ibtimes.com/twitter-reacts-terrence-k-williams-calling-vp-kamala-harris-pole-model-3144020",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/04/images-and-soundbitesus-vice-president-elect-kamala-harris.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/twitter-reacts-terrence-k-williams-calling-vp-kamala-harris-pole-model-3144020?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-reacts-terrence-k-williams-calling-vp-kamala-harris-pole-model-3144020?amp=1",
+      "publishedDateTime": "2021-02-11T20:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
       ]
     },
     {
@@ -518,6 +679,58 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-02-11T12:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-12-impeachment-trial-mob-believed-they-were-acting-on-trumps-orders.md",
+      "title": "Impeachment trial: mob 'believed they were acting on Trump's orders'",
+      "excerpt": "Congresswoman Diana DeGette says ‘They came because he told them to’ as House managers prepare to conclude their case on Thursday",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/feb/11/trump-impeachment-trial-democrats-senate",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/feb/11/trump-impeachment-trial-democrats-senate",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 385,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/935212d9ed8090a7be59ca81594a98629f54dbc6/351_27_2333_1555/master/2333.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c4c555706827b8899c50162cd6bd996c",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/feb/11/trump-impeachment-trial-democrats-senate",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/11/trump-impeachment-trial-democrats-senate",
+      "publishedDateTime": "2021-02-11T11:57:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Guardian",
@@ -1144,223 +1357,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-biden-may-pick-economist-lisa-cook-to-fill-an-open-fed-seat-she-would-be-the-first-black-woman-to-serve-on-the-board-report.md",
-      "title": "Biden may pick economist Lisa Cook to fill an open Fed seat. She would be the first Black woman to serve on the board: report",
-      "excerpt": "Currently a professor of economics, Cook previously served as an economic adviser under Obama and was a member of Biden's transition team.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/biden-lisa-cook-economist-nomination-first-black-woman-fed-board-2021-2",
-      "originalUrl": "https://www.businessinsider.com/biden-lisa-cook-economist-nomination-first-black-woman-fed-board-2021-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60252b3067d1e300113c5787?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/biden-lisa-cook-economist-nomination-first-black-woman-fed-board-2021-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-lisa-cook-economist-nomination-first-black-woman-fed-board-2021-2?amp",
-      "publishedDateTime": "2021-02-11T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-rep-nunes-republicans-could-possibly-face-pressure-to-impeach-biden-if-they-take-back-house-in-2022.md",
-      "title": "Rep. Nunes: Republicans could possibly face 'pressure' to impeach Biden if they take back House in 2022",
-      "excerpt": "California Rep. Devin Nunes, R-Calif., believes that Republicans might face pressure to impeach President Biden should the party gain control of the House in the 2022 midterms.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xlHLh_q5c6g/nunes-republicans-pressure-impeach-biden-house-2022",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xlHLh_q5c6g/nunes-republicans-pressure-impeach-biden-house-2022",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/devin-nunes.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/nunes-republicans-pressure-impeach-biden-house-2022.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nunes-republicans-pressure-impeach-biden-house-2022.amp",
-      "publishedDateTime": "2021-02-11T05:13:15-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-trump-team-fires-back-at-dems-claims-they-too-have-used-fight-like-hell-rhetoric.md",
-      "title": "Trump team fires back at Dems, claims they too have used ‘fight like hell’ rhetoric",
-      "excerpt": "The Trump team turned the tables on the Democratic Party’s impeachment managers on Wednesday, after they claimed once again that the former president’s \"fight like hell\" rhetoric at a Jan. 6 rally in Washington helped spark the riot at the U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/trump-team-fires-back-at-dems-claims-they-too-have-used-fight-like-hell-rhetoric",
-      "originalUrl": "https://www.foxnews.com/us/trump-team-fires-back-at-dems-claims-they-too-have-used-fight-like-hell-rhetoric",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Raskin-Neguse-Swallwell-Lieu-AP.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/trump-team-fires-back-at-dems-claims-they-too-have-used-fight-like-hell-rhetoric.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/trump-team-fires-back-at-dems-claims-they-too-have-used-fight-like-hell-rhetoric.amp",
-      "publishedDateTime": "2021-02-11T02:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-harrowing-new-footage-shows-how-close-the-mob-got-to-pence-congress-and-staff-during-jan-6-assault.md",
-      "title": "Harrowing new footage shows how close the mob got to Pence, Congress and staff during Jan. 6 assault",
-      "excerpt": "Previously unseen footage at Trump's impeachment trial showed in vivid detail how close the mob came to lawmakers, staffers and Mike Pence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/02/10/trump-impeachment-trial-capitol-mob-videos-show-violence-jan-6/6712324002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/02/10/trump-impeachment-trial-capitol-mob-videos-show-violence-jan-6/6712324002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/02/09/USAT/728f2a02-9d16-43e1-8386-e68430035a42-GettyImages-1230462786.jpg?auto=webp&crop=2999,1687,x0,y300&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6712324002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6712324002",
-      "publishedDateTime": "2021-02-11T00:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

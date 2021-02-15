@@ -554,6 +554,28 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "The Latest: Senators to Consider Witnesses in Trump Trial"
+    excerpt: "The Latest on former President Donald Trump's second Senate impeachment trial (all times local): Senators have voted to consider witnesses in the impeachment trial of former President Donald Trump. Closing arguments were expected Saturday with no witnesses called."
+    publishedDateTime: 2021-02-13T16:35:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-02-13/the-latest-senators-await-closing-arguments-in-trump-trial"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-13/the-latest-senators-await-closing-arguments-in-trump-trial?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-13/the-latest-senators-await-closing-arguments-in-trump-trial?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "The Latest: Trump Trial Resumes With Closing Arguments"
+    excerpt: "Senators have resumed Donald Trump’s impeachment trial without calling witnesses after agreeing to accept new information from a Republican congresswoman about his actions on the day of the deadly Capitol siege."
+    publishedDateTime: 2021-02-13T20:29:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-02-13/the-latest-senators-await-closing-arguments-in-trump-trial"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-13/the-latest-senators-await-closing-arguments-in-trump-trial?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-13/the-latest-senators-await-closing-arguments-in-trump-trial?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "UKLg8jFwLT/HAP1k/Ot7XP0v404pZKX1g7vztONzp/6OPsVVqeWI48SHGrgq05eRrZtMvqbGtiauzg5SMsCQCPuvn3bLa1BeZ6QxnAYyvzl2fBp0ORrRF3nIW0MQ33FSjPckurc8IVv5CZTxpdeWsshD+o/fyqKA9NwXGhbwO91GtbZG2F1nanh5tZ41EFHyTp3Vq0hA/E7vkFLvEL0IsTu4BlpMEqoalCbBVjEBDt4aR4JmXriwsRkMPZDFbnz2Zuyrax4nI7hh5ppDdMDybAc96DZm8YKbJ1dKB2OGynadvdUxX3baQMUcgjxiA7FkgUdXVIOwch+gLtp/v7AQnSPMWRHMO3CMe4Rtpuhl62fksvTj+9fdR8g5QvdX4MsqOyf69pwKBlCHZwFHCCPucvMe/oibEAaIfR/IfUiEP1oP97Z9KWzGxcpuW0G9MppioFHVtsvIKqbsX2cBDTtrlutbwNsT9ZIn/2IYV4s/sYFnOSr3CY7+t4fNAIuR9MXXHE4WNHAjb4iGOCPAz4eNsg==;mmVxh1bb4rDzalKegmLGCA=="
 ---

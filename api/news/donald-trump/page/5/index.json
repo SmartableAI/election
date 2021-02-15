@@ -2,6 +2,115 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-01-21-are-you-qanon-one-trump-officials-brush-with-an-internet-cult-gone-horribly-wrong.md",
+      "title": "‘Are you QAnon?’: One Trump official’s brush with an internet cult gone horribly wrong",
+      "excerpt": "Some believed he was “Q,” the mythical figure behind an intricate and sprawling conspiracy theory. Here Ezra Cohen-Watnick, a senior Trump intelligence official, shares the story of his ordeal for the first time.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2021/01/19/qanon-trump-ezra-cohen-watnick-460520",
+      "originalUrl": "https://www.politico.com/news/2021/01/19/qanon-trump-ezra-cohen-watnick-460520",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/b8/1b/96060a344ea9a033e49cc31eddfa/210119-ezra-cohen-ap-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-20T14:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-21-donald-trump-grants-clemency-to-legendary-las-vegas-gambler-billy-walters.md",
+      "title": "Donald Trump grants clemency to legendary Las Vegas gambler Billy Walters",
+      "excerpt": "Famed sports gambler Billy Walters was among the 143 people to which outgoing President Donald Trump granted clemency in his final day in office.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/gambling/sns-actnet-donald-trump-clemency-las-vegas-gambler-billy-walters-20210120-5gdsjalegjbsdjbtizyqf6c7qq-story.html",
+      "originalUrl": "https://www.chicagotribune.com/gambling/sns-actnet-donald-trump-clemency-las-vegas-gambler-billy-walters-20210120-5gdsjalegjbsdjbtizyqf6c7qq-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/2t16n8Mz9CcYaGATnLGU-glOYJs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KOZBWRJWBJHHPENSR4ZSMVOI4M.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/gambling/sns-actnet-donald-trump-clemency-las-vegas-gambler-billy-walters-20210120-5gdsjalegjbsdjbtizyqf6c7qq-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/gambling/sns-actnet-donald-trump-clemency-las-vegas-gambler-billy-walters-20210120-5gdsjalegjbsdjbtizyqf6c7qq-story.html?outputType=amp",
+      "publishedDateTime": "2021-01-20T09:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-21-how-the-government-will-thoroughly-clean-and-disinfect-white-house-furniture-door-knobs-and-light-switches-after-trump-leaves.md",
       "title": "How the government will 'thoroughly clean and disinfect' White House furniture, door knobs, and light switches after Trump leaves",
       "excerpt": "The Trump White House has been a hot spot for coronavirus infections. Joe Biden and his team will want to clean up before moving in.",
@@ -323,7 +432,7 @@
       "originalUrl": "https://www.theguardian.com/sport/2021/jan/19/annika-sorenstam-defends-accepting-award-from-donald-trump",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -1442,115 +1551,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-16-rose-mcgowan-calls-trumps-second-impeachment-cult-propaganda-a-theater-of-mass-distraction.md",
-      "title": "Rose McGowan calls Trump's second impeachment 'cult propaganda,' 'a theater of mass distraction'",
-      "excerpt": "In a scathing tweet, McGowan called the actions against Trump cultlike which is something she's said numerous times in the past about Hollywood. \"This impeachment is Cult propaganda. A theater of mass distraction.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/entertainment/rose-mcgowan-trump-impeachment-cult-propaganda-mass-distraction",
-      "originalUrl": "https://www.foxnews.com/entertainment/rose-mcgowan-trump-impeachment-cult-propaganda-mass-distraction",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Rose-McGowan.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/entertainment/rose-mcgowan-trump-impeachment-cult-propaganda-mass-distraction.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/rose-mcgowan-trump-impeachment-cult-propaganda-mass-distraction.amp",
-      "publishedDateTime": "2021-01-15T08:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-16-sarah-cooper-im-moving-on-from-lip-syncing-trump.md",
-      "title": "Sarah Cooper: I'm moving on from lip-syncing Trump",
-      "excerpt": "The comedian talks with \"Sunday Morning\" about life after becoming a social media phenomenon lampooning the president.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/sarah-cooper-im-moving-on-from-lip-syncing-trump/",
-      "originalUrl": "https://www.cbsnews.com/news/sarah-cooper-im-moving-on-from-lip-syncing-trump/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/15/01c3b17d-14d5-41de-8659-67633b1d8911/thumbnail/1200x630/2e851058003a646ab459885bf00088f4/sarah-cooper-interview-1280.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/sarah-cooper-im-moving-on-from-lip-syncing-trump/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/sarah-cooper-im-moving-on-from-lip-syncing-trump/",
-      "publishedDateTime": "2021-01-15T08:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

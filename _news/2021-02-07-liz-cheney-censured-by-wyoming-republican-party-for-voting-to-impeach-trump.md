@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/06/liz-cheney-censured-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/06/liz-cheney-censured-by-wyoming-republican-party-for-voting-to-impeach-trump"
 type: article
 quality: 123
-heat: 243
+heat: 223
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trevor Noah: Republicans 'acting like bored middle-schoolers' at Trump impeachment"
-    excerpt: "Late-night hosts recap the third day of the trial, as House managers concluded their case before an audience of distracted senators"
-    publishedDateTime: 2021-02-12T16:30:00Z
-    webUrl: "https://www.theguardian.com/culture/2021/feb/12/trevor-noah-republicans-trump-impeachment-trial"
-    ampWebUrl: "https://amp.theguardian.com/culture/2021/feb/12/trevor-noah-republicans-trump-impeachment-trial"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/culture/2021/feb/12/trevor-noah-republicans-trump-impeachment-trial"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 119
-    images:
-      - url: "https://i.guim.co.uk/img/media/64c81b46fa1ead1027270a801fd39451d4d7e3a5/137_136_2543_1526/master/2543.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5f9e8850db9a586c74151d3df85764fb"
-        width: 600
-        height: 360
-        isCached: true
   - title: "GOP congressman Gaetz, Trump Jr. urge Wyomingites to oust fellow Republican Liz Cheney"
     excerpt: "Rep. Matt Gaetz rallied against Rep. Liz Cheney at the Wyoming State Capitol Thursday, escalating the effort among some Republicans to oust her from leadership."
     publishedDateTime: 2021-01-28T23:34:00Z

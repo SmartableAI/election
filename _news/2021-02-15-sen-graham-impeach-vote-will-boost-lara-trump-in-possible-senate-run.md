@@ -1226,6 +1226,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Pro-Trump Candidates Launch Early Senate, Governor Bids"
+    excerpt: "Republican hopefuls are betting that former President Donald Trump’s enduring popularity with the GOP base can help propel them into office."
+    publishedDateTime: 2021-02-15T10:35:00Z
+    webUrl: "https://www.wsj.com/articles/pro-trump-candidates-launch-early-senate-governor-bids-11613385001"
+    ampWebUrl: "https://www.wsj.com/amp/articles/pro-trump-candidates-launch-early-senate-governor-bids-11613385001"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pro-trump-candidates-launch-early-senate-governor-bids-11613385001"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-299053/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Republican senators largely unmoved by Democrats’ Trump trial prosecution"
     excerpt: "Several Republican senators said Thursday that House impeachment managers failed to persuade them to convict former President Donald Trump for allegedly inciting the Jan. 6 Capitol riot. The"
     publishedDateTime: 2021-02-12T00:25:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A90AY"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A90AY"
 type: article
 quality: 125
-heat: 225
+heat: 205
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
-        isCached: true
-  - title: "Biden administration to begin admitting migrants forced to wait in Mexico"
-    excerpt: "The Biden administration plans to begin processing and admitting migrants forced to wait in Mexico under Trump administration's \"Migrant Protection Protocols\""
-    publishedDateTime: 2021-02-12T16:00:00Z
-    webUrl: "https://abcnews.go.com/Politics/biden-administration-begin-admitting-migrants-forced-wait-mexico/story?id=75840727"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-administration-begin-admitting-migrants-forced-wait-mexico/story?id=75840727"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-administration-begin-admitting-migrants-forced-wait-mexico/story?id=75840727"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 124
-    images:
-      - url: "https://s.abcnews.com/images/Politics/mexico-gty-er-210211_1613094822667_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Biden's 1st 100 days live updates: Biden wants Congress to take action on gun reform"
     excerpt: "In a statement marking the 3 year anniversary of the Parkland Shooting, Biden is calling on Congress to take action on gun control reform. \"This Administration will not"

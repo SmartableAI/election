@@ -748,6 +748,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Trump admin a cautionary tale of nepotism for future generations"
+    excerpt: "Rachel Maddow highlights Donald Trump's tendency to hire people he knows or is related to for White House jobs, and the conflict that creates, particularly in the case of Ivanka Trump and Jared Kushner who continue in senior White House roles despite being unable to to earn a full security clearance."
+    publishedDateTime: 2021-02-15T09:32:00Z
+    webUrl: "https://www.nbcnews.com/video/trump-admin-a-cautionary-tale-of-nepotism-for-future-generations-1171297859780"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo44286533637"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo44286533637"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media1.s-nbcnews.com/i/MSNBC/Components/Video/201802/n_maddow_a2nepotism_180226_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Impeachment Case Aims to Marshal Outrage of Capitol Attack Against Trump"
     excerpt: "Armed with lessons from the last impeachment trial of Donald J. Trump, prosecutors plan a shorter, video-heavy presentation to confront Republicans with the fury they felt around the Capitol riot."
     publishedDateTime: 2021-02-07T20:46:00Z

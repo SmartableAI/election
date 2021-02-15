@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/mike-lee-senate-trial-end-trump-acq
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-lee-senate-trial-end-trump-acquittal-impeachment-capitol-riot.amp"
 type: article
 quality: 175
-heat: 2035
+heat: 2055
 published: true
 
 provider:
@@ -1212,6 +1212,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/van-der-veen.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Pro-Trump Candidates Launch Early Senate, Governor Bids"
+    excerpt: "Republican hopefuls are betting that former President Donald Trump’s enduring popularity with the GOP base can help propel them into office."
+    publishedDateTime: 2021-02-15T10:35:00Z
+    webUrl: "https://www.wsj.com/articles/pro-trump-candidates-launch-early-senate-governor-bids-11613385001"
+    ampWebUrl: "https://www.wsj.com/amp/articles/pro-trump-candidates-launch-early-senate-governor-bids-11613385001"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pro-trump-candidates-launch-early-senate-governor-bids-11613385001"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-299053/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Sen. Graham: Impeach vote will boost Lara Trump in possible Senate run"
     excerpt: "Sen. Lindsey Graham predicted on Sunday that GOP votes to convict former President Trump in his Senate impeachment trial will give his daughter-in-law Lara Trump a leg up in the North Carolina"

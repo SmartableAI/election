@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/trump-transfer-power-biden-congress
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-transfer-power-biden-congress-electoral-college-win/"
 type: article
 quality: 140
-heat: 680
+heat: 660
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/08/64ee0df8-b49f-43e9-a58b-c45102a99889/thumbnail/1200x630/0615066b524bbd10cc9174075ba7db6f/gettyimages-1295319912.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "In Biden’s early days, signs of Trump-era problems at border"
-    excerpt: "Larger numbers of immigrant families have been crossing the U.S.-Mexico border in the first weeks of President Joe Biden’s administration"
-    publishedDateTime: 2021-02-10T10:04:00Z
-    webUrl: "https://www.washingtonpost.com/health/in-bidens-early-days-signs-of-trump-era-problems-at-border/2021/02/10/69ac4cce-6b5d-11eb-a66e-e27046e9e898_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/health/in-bidens-early-days-signs-of-trump-era-problems-at-border/2021/02/10/69ac4cce-6b5d-11eb-a66e-e27046e9e898_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/in-bidens-early-days-signs-of-trump-era-problems-at-border/2021/02/10/69ac4cce-6b5d-11eb-a66e-e27046e9e898_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 140
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
         isCached: true
   - title: "Trump allies to challenge his election loss in showdown in U.S. Congress"
     excerpt: "Donald Trump's flailing effort to overturn President-elect Joe Biden's victory comes down to the U.S. Congress on Wednesday in a showdown led by a band of Republican lawmakers that could stretch proceedings past midnight but is almost certain to fail."

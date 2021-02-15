@@ -47,6 +47,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Pull of partisanship helps Trump escape impeachment conviction: ANALYSIS"
+    excerpt: "While seven Republicans joined all 50 Democrats in voting for former President Donald Trump 's conviction, the Senate fell 10 votes short of conviction. Trump was spared the ultimate punishment Congress could wield by powerful and familiar forces he has long understood,"
+    publishedDateTime: 2021-02-13T22:04:00Z
+    webUrl: "https://abcnews.go.com/Politics/pull-partisanship-helps-trump-escape-impeachment-conviction-analysis/story?id=75864271"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/pull-partisanship-helps-trump-escape-impeachment-conviction-analysis/story?id=75864271"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/pull-partisanship-helps-trump-escape-impeachment-conviction-analysis/story?id=75864271"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 124
+    images:
+      - url: "https://s.abcnews.com/images/Politics/donald-trump_hpMain_20210213-164842_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Acquitted again by Senate, Trump still a powerful force in Republican politics"
     excerpt: "It is still Donald Trump’s Republican Party - at least for now. The vote by 43 of the 50 Republican senators to acquit Trump on the charge of inciting last month’s deadly riot at the U.S. Capitol, with only seven voting for conviction,"
     publishedDateTime: 2021-02-14T18:11:00Z
@@ -78,6 +94,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210213&t=2&i=1551450590&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1C0JB"
         width: 968
         height: 545
+        isCached: true
+  - title: "Trump impeachment: Senate to hear prosecution arguments against former president – live"
+    excerpt: "Senate convenes at noon for impeachment managers to lay out argument to convict Donald Trump of ‘incitement of insurrection’"
+    publishedDateTime: 2021-02-10T11:17:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/10/donald-trump-impeachment-senate-trial-live-news-updates"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/10/donald-trump-impeachment-senate-trial-live-news-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/10/donald-trump-impeachment-senate-trial-live-news-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 117
+    images:
+      - url: "https://i.guim.co.uk/img/media/7d3e06af8edce2c72744e22eed1328dd95be3b46/0_0_3500_2334/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7a954cf6bba0111e0635cae7cace422e"
+        width: 600
+        height: 400
         isCached: true
   - title: "Exclusive: Dozens of former Republican officials in talks to form anti-Trump third party"
     excerpt: "Dozens of former Republican officials, who view the party as unwilling to stand up to former President Donald Trump and his attempts to undermine U.S. democracy, are in talks to form a center-right breakaway party,"
@@ -111,22 +143,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Donald Trump Says New MAGA Plans to Come in 'Months Ahead' After Senate Impeachment Acquittal"
-    excerpt: "After the vote, Trump thanked the senators or the acquittal, railed against Democrats, and vowed to continue his MAGA movement this year."
-    publishedDateTime: 2021-02-13T21:40:00Z
-    webUrl: "https://www.newsweek.com/donald-trump-says-new-maga-plans-come-months-ahead-after-senate-impeachment-acquittal-1569151"
-    ampWebUrl: "https://www.newsweek.com/donald-trump-says-new-maga-plans-come-months-ahead-after-senate-impeachment-acquittal-1569151?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-says-new-maga-plans-come-months-ahead-after-senate-impeachment-acquittal-1569151?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 114
-    images:
-      - url: "https://d.newsweek.com/en/full/1734691/donald-trump-trial.jpg"
-        width: 1024
-        height: 559
-        isCached: true
   - title: "Durbin: 'We were never going to reach 67 votes' to convict Trump without McConnell's backing"
     excerpt: "Sen. Dick Durbin (D-Ill.) said on Sunday that former President Trump’s acquittal in his second Senate impeachment was a foregone conclusion without Minority Leader Mitch McConnell (R-Ky.) backing conviction."
     publishedDateTime: 2021-02-14T16:19:00Z
@@ -142,22 +158,6 @@ related:
       - url: "https://thehill.com/sites/default/files/durbinrichard_101220bc_lead.jpg"
         width: 980
         height: 551
-        isCached: true
-  - title: "After second impeachment acquittal, Donald Trump still firmly in control of the Republican party"
-    excerpt: "Republicans voted against Donald Trump in his impeachment, but by most objective measures, Trump’s grasp on the GOP and its future remains airtight."
-    publishedDateTime: 2021-02-14T18:24:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-impeachment-acquittal-republicans-20210214-usl73vi23zdnhjtbp5oczwqs3u-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-impeachment-acquittal-republicans-20210214-usl73vi23zdnhjtbp5oczwqs3u-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-impeachment-acquittal-republicans-20210214-usl73vi23zdnhjtbp5oczwqs3u-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 112
-    images:
-      - url: "https://www.chicagotribune.com/resizer/5x5IAwrJKINXsdBlQ3wxPxkej6I=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/DLV5XFJ6IFHWHGX6UTLFBD2TL4.aspx"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Live updates: Senate must convict Trump to ensure no future president incites insurrection, Democrats say"
     excerpt: "Day 3 of former President Donald Trump's second impeachment trial has begun. The Democratic impeachment managers will use up to eight hours to wrap up their case against the ex-pr"
@@ -190,6 +190,20 @@ related:
       - url: "https://i.insider.com/6024c9e6cca90200129b7a98?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "'I don't want to come back:' As Trump trial opens, Democrat recalls daughter's fear during riot"
+    excerpt: "U.S. House lead impeachment manager Rep. Jamie Raskin (D-MD) becomes emotional as he discusses his and his family's experiences inside the U.S. Capitol building during the siege on Jan. 6 and his daug"
+    publishedDateTime: 2021-02-11T00:25:00Z
+    webUrl: "https://www.reuters.com/news/picture/i-dont-want-to-come-back-as-trump-trial-idUSKBN2A92YV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 93
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210210&t=2&i=1551085705&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEH181S5"
+        width: 810
+        height: 455
         isCached: true
   - title: "Trump just beat his 2nd impeachment conviction, but a massive tsunami of legal peril still awaits"
     excerpt: "Trump impeachment trial No. 2 ended with acquittal. But federal, state, and local investigations continue into his presidency, campaign, business interests, and taxes."

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/08/donald-trump-im
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/08/donald-trump-impeachment-trial-senate-covid-coronavirus-joe-biden-live-updates"
 type: article
 quality: 117
-heat: 177
+heat: 157
 published: true
 
 provider:
@@ -56,17 +56,6 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 97
-  - title: "Impeachment managers rest their case after calling Trump's conduct 'an assault on the first amendment' - live"
-    excerpt: "Congressman Joe Neguse says Trump’s messages to the insurrectionists prove he is ‘overwhelmingly guilty’ of incitement - follow live"
-    publishedDateTime: 2021-02-12T00:33:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/11/donald-trump-impeachment-senate-trial-live-news-updates?page=with:block-6025b4788f08d7b7c03d07f7"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/11/donald-trump-impeachment-senate-trial-live-news-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/11/donald-trump-impeachment-senate-trial-live-news-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 86
 
 secured: "tJwPQGaHalyox7+s2CcfKlx66zPN72nUzn80vYidhMYO590GbeEqWJkbDVG8PInymZmQd3qY1N7Z/CHNxeFYl4qXgWPwseT+rFf2rpQclFaQyldp3T13sh2aHnxBjRMWtjNlIzF4qSGErUzP5t7gievrCDNkHvr0arRD5YSXExQAIGgMhyMi2nv55SNcfW3Fd7PVmbOkMnGZrpMCRRk7RsiBjNV9mXNLIsqQOZhgxHs1MGXTdvUgaJErN9uBYt9TLKG9p9mFtWiuXOe3pBLbPQ45vHSSdP4cTLadh6eFOGmtZx8ND7FBwUgsvnarVIORjIX38owTph2B23VAoyahh4zPhYRbsaN6AMmpOPfLyWTbucgnlfvOsHA020llT/Kq9oYsDVuAyIuk7LUfzuZySG/0i+GgWgsJe6le1TdlpO69Bjgk570rXrZQ37LW+TBOJm+lQSjmU5wRoJxGDXR3ofBD1S7VTvcm49xrzZjCiiwcVj3OZvXz3SVE4qX1toamoXFJxH3yoUhIzkDqUkFqJQ==;zm44GC1sxcAJmfz6X6xyvA=="
 ---

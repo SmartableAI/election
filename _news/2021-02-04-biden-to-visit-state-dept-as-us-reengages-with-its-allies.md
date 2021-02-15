@@ -105,22 +105,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Immigrants, activists worry Biden won’t end Trump barriers"
-    excerpt: "President Joe Biden rushed to send the most ambitious overhaul of the nation’s immigration system in a generation to Congress"
-    publishedDateTime: 2021-02-08T10:42:00Z
-    webUrl: "https://www.washingtonpost.com/politics/immigrants-activists-worry-biden-wont-end-trump-barriers/2021/02/08/69be6190-69d0-11eb-a66e-e27046e9e898_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/immigrants-activists-worry-biden-wont-end-trump-barriers/2021/02/08/69be6190-69d0-11eb-a66e-e27046e9e898_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/immigrants-activists-worry-biden-wont-end-trump-barriers/2021/02/08/69be6190-69d0-11eb-a66e-e27046e9e898_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 140
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "Americans Agree With Joe Biden That Donald Trump Shouldn't Get Intelligence Briefings—Poll"
     excerpt: "Most Americans believe former President Donald Trump should not receive intelligence briefings on national security matters after President Joe Biden said he would not be sharing classified intel with his predecessor."
     publishedDateTime: 2021-02-11T12:16:00Z
@@ -136,22 +120,6 @@ related:
       - url: "https://d.newsweek.com/en/full/1732295/donald-trump-boards-marine-one.jpg"
         width: 1024
         height: 641
-        isCached: true
-  - title: "Biden decree ends 'emergency' that Trump used to build wall"
-    excerpt: "President Joe Biden has officially ended the “national emergency” that President Donald Trump declared in order to take money from the Pentagon to build a wall along the U.S.-Mexico border"
-    publishedDateTime: 2021-02-11T20:36:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-decree-ends-emergency-trump-build-wall-75833943"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-decree-ends-emergency-trump-build-wall-75833943"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-decree-ends-emergency-trump-build-wall-75833943"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
-    images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_67a71bccfa5846c0b971c4076a135886_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Biden says Trump should not receive intelligence briefings: CBS interview"
     excerpt: "U.S. President Joe Biden does not believe his predecessor Donald Trump should have access to intelligence briefings because of his \"erratic behavior\" and the concern he might share information, the Democrat said in an interview on Friday."
@@ -169,38 +137,6 @@ related:
         width: 867
         height: 545
         isCached: true
-  - title: "Biden says 'some minds' may be changed by video from Trump impeachment trial"
-    excerpt: "President Biden on Thursday said he believed “some minds” may have been changed on whether to convict former President Trump after House impeachment managers presented harrowing video of the Jan. 6 Capitol attack."
-    publishedDateTime: 2021-02-11T16:26:00Z
-    webUrl: "https://thehill.com/homenews/administration/538420-biden-says-some-minds-may-be-changed-by-video-from-trump-impeachment"
-    ampWebUrl: "https://thehill.com/homenews/administration/538420-biden-says-some-minds-may-be-changed-by-video-from-trump-impeachment?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/538420-biden-says-some-minds-may-be-changed-by-video-from-trump-impeachment?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 137
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_02112021getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "White House says Biden is too busy to pay much attention to Trump impeachment trial"
-    excerpt: "As Washington is consumed with the impeachment trial of the last president, the current one tries to look too busy to care."
-    publishedDateTime: 2021-02-09T18:46:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-trump-trial/2021/02/08/e3d2ad9e-6a2d-11eb-9f80-3d7646ce1bc0_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-trump-trial/2021/02/08/e3d2ad9e-6a2d-11eb-9f80-3d7646ce1bc0_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-trump-trial/2021/02/08/e3d2ad9e-6a2d-11eb-9f80-3d7646ce1bc0_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 134
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GXJYH2DKEQI6XJTO4JYEN2PITA.jpg&w=1440"
-        width: 1440
-        height: 1133
-        isCached: true
   - title: "Biden: Trump should not receive intelligence briefings due to his 'erratic behavior'"
     excerpt: "Biden says predecessor shouldn’t have access to briefings, which are traditionally offered to presidents even after leaving office"
     publishedDateTime: 2021-02-06T01:34:00Z
@@ -216,22 +152,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/0c62bd0c2e1cf5df8c5a11d9dcba4bb0f73cf035/0_0_4325_2594/master/4325.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=b7b5bc628e54a9b51e5d464c0473d97d"
         width: 600
         height: 360
-        isCached: true
-  - title: "Neera Tanden, Biden's Contentious Budget Chief Pick, Tweeted 30K More than Donald Trump"
-    excerpt: "Tanden has come under fire in recent weeks for her combative Twitter history that included targeting Republicans and progressive Democrats."
-    publishedDateTime: 2021-02-11T17:51:00Z
-    webUrl: "https://www.newsweek.com/neera-tanden-bidens-contentious-budget-chief-pick-tweeted-30k-more-donald-trump-1568685"
-    ampWebUrl: "https://www.newsweek.com/neera-tanden-bidens-contentious-budget-chief-pick-tweeted-30k-more-donald-trump-1568685?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/neera-tanden-bidens-contentious-budget-chief-pick-tweeted-30k-more-donald-trump-1568685?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 132
-    images:
-      - url: "https://d.newsweek.com/en/full/1732629/neera-tanden.jpg"
-        width: 2500
-        height: 1667
         isCached: true
   - title: "Biden to visit wounded soldiers at Walter Reed Hospital"
     excerpt: "President Joe Biden is making his first major foray outside the White House, to visit wounded soldiers at Walter Reed Hospital, just outside Washington"
@@ -1432,20 +1352,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "She's the powerful yet little-known referee with the 'hardest job' on Capitol Hill, and she's shaping Trump's impeachment trial and Biden's agenda"
-    excerpt: "In the coming days and weeks, MacDonough will advise senators on the complex rules of an impeachment trial and on reconciliation as Democrats push Biden's agenda."
-    publishedDateTime: 2021-02-10T10:02:00Z
-    webUrl: "https://www.businessinsider.com/senate-parliamentarian-elizabeth-macdonough-trump-impeachment-trial-stimulus-minimum-wage-2021-2"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 82
-    images:
-      - url: "https://i.insider.com/60234db767d1e300113c52c7?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Trump Impeachment Lawyers Named After 5 Members Of Defense Team Quit"
     excerpt: "Five of Trump's impeachment lawyers had left his legal team after he refused to steer away from using mass election fraud as his defense strategy."
     publishedDateTime: 2021-02-01T02:36:00Z
@@ -1462,17 +1368,6 @@ related:
         width: 1024
         height: 716
         isCached: true
-  - title: "Biden on Trump Trial: 'Some Minds May Have Been Changed'"
-    excerpt: "The president said he did not watch Donald Trump’s Senate trial but has seen news coverage and suspects that 'some minds may have been changed.'"
-    publishedDateTime: 2021-02-11T16:51:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-02-11/biden-on-trump-trial-some-minds-may-have-been-changed"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-11/biden-on-trump-trial-some-minds-may-have-been-changed?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-11/biden-on-trump-trial-some-minds-may-have-been-changed?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 70
   - title: "Publix Supermarkets Under Fire After Heiress Reportedly Donates $300,000 To Trump Rally"
     excerpt: "The Publix supermarket chain is facing backlash after a bombshell report revealed the chain's heiress donated money to the infamous Trump rally that preceded the Capitol riots."
     publishedDateTime: 2021-01-30T17:38:00Z

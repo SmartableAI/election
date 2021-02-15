@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The end of Trump's trial lifts an oppressive cloud from Washington"
+    excerpt: "The conclusion of Donald Trump's impeachment trial finally ends the ex-President's stranglehold on Washington's every waking moment and offers President Joe Biden a first chance to fully exercise his influence and power.\n    \n"
+    publishedDateTime: 2021-02-15T09:32:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vljNRrDnMoI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/15/politics/donald-trump-president-joe-biden-coronavirus-congress-stimulus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/15/politics/donald-trump-president-joe-biden-coronavirus-congress-stimulus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210213174450-trump-acquittal-axelrod-oped-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Georgia secretary of state's office launches investigation into Trump's phone call "
     excerpt: "The office of Georgia Secretary of State Brad Raffensperger confirmed to CNN on Monday that it has started an investigation into former President Donald Trump's attempts to overturn the state's election results, including a phone call the former President made to Raffensperger.\n    \n"
     publishedDateTime: 2021-02-08T23:57:30Z

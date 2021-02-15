@@ -95,6 +95,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Impeachment trial forcing ultimate Trump loyalty test for GOP: The Note"
+    excerpt: "It’s clear that for all the talk of impeachment as a partisan exercise, the insurrectionists who invaded the Capitol didn’t think along purely party lines."
+    publishedDateTime: 2021-02-11T11:11:00Z
+    webUrl: "https://abcnews.go.com/Politics/impeachment-trial-forcing-ultimate-trump-loyalty-test-gop/story?id=75804804"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/impeachment-trial-forcing-ultimate-trump-loyalty-test-gop/story?id=75804804"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/impeachment-trial-forcing-ultimate-trump-loyalty-test-gop/story?id=75804804"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/Impeachment-ap-er-210210_1613005651768_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "GOP Rep. Kinzinger to start new PAC to challenge party’s embrace of Trump"
     excerpt: "Rep. Adam Kinzinger (R-Ill.), one of 10 Republicans to vote to impeach Donald Trump earlier this month, has launched a new political action committee that is designed to become a financial engine to challenge the former president’s wing of the GOP caucus and stand up against a leadership team still aligned with him."
     publishedDateTime: 2021-01-31T21:40:00Z

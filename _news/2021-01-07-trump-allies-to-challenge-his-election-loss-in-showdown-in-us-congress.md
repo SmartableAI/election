@@ -79,22 +79,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "In Biden’s early days, signs of Trump-era problems at border"
-    excerpt: "Larger numbers of immigrant families have been crossing the U.S.-Mexico border in the first weeks of President Joe Biden’s administration"
-    publishedDateTime: 2021-02-10T10:04:00Z
-    webUrl: "https://www.washingtonpost.com/health/in-bidens-early-days-signs-of-trump-era-problems-at-border/2021/02/10/69ac4cce-6b5d-11eb-a66e-e27046e9e898_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/health/in-bidens-early-days-signs-of-trump-era-problems-at-border/2021/02/10/69ac4cce-6b5d-11eb-a66e-e27046e9e898_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/in-bidens-early-days-signs-of-trump-era-problems-at-border/2021/02/10/69ac4cce-6b5d-11eb-a66e-e27046e9e898_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 140
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "Trump promises ‘orderly transition’ but continues election lies as Biden certified US president – live"
     excerpt: "Congress certifies Joe Biden as the 46th president of the US after day and night of pro-Trump unrest"
     publishedDateTime: 2021-01-07T11:31:00Z

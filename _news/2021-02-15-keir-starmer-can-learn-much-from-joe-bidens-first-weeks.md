@@ -149,6 +149,17 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 103
+  - title: "Joe Biden to visit Milwaukee next week for his first official trip as president"
+    excerpt: "President Joe Biden will visit Wisconsin next week for his first official trip as president beyond his home state of Delaware."
+    publishedDateTime: 2021-02-09T16:16:00Z
+    webUrl: "https://www.chicagotribune.com/politics/ct-aud-nw-joe-biden-wisconsin-visit-20210209-oxt7cvgzhneedf36f3dsfl2fzu-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/politics/ct-aud-nw-joe-biden-wisconsin-visit-20210209-oxt7cvgzhneedf36f3dsfl2fzu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/politics/ct-aud-nw-joe-biden-wisconsin-visit-20210209-oxt7cvgzhneedf36f3dsfl2fzu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 101
   - title: "Washington moves of the week: Here's who's landing at the Biden White House, federal agencies, and Capitol Hill"
     excerpt: "It's hiring season in Washington, D.C. Here are this week's personnel moves in the Biden White House, in agencies, and in Congress."
     publishedDateTime: 2021-02-12T10:03:00Z

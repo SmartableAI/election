@@ -191,6 +191,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "White House says Biden is committed to an independent Justice Department"
+    excerpt: "White House Press Secretary Jen Psaki said on Tuesday the decision to leave two U.S. prosecutors in their posts reflects President Joe Biden's commitment to an independent Justice Department."
+    publishedDateTime: 2021-02-09T18:42:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-doj-biden-psaki-idUSKBN2A92NQ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A92NQ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A92NQ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210209&t=2&i=1550925382&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH181M8"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden brother’s role in Florida law firm complicates White House ethics message"
     excerpt: "Frank Biden, the president’s younger brother, is working as a senior adviser to a Florida law firm that has sought to attract business by touting the brothers’ connection and the president’s policies."
     publishedDateTime: 2021-02-03T11:08:00Z
@@ -222,22 +238,6 @@ related:
       - url: "https://i.insider.com/60146dfdd6c5e60019c6e03e?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Biden administration tells Supreme Court Obamacare is constitutional, should be saved"
-    excerpt: "In letter to the court, government lawyers disavowed the view the Trump administration argued just months ago."
-    publishedDateTime: 2021-02-11T04:20:00Z
-    webUrl: "https://www.washingtonpost.com/politics/courts_law/biden-supreme-court-obamacare/2021/02/10/21dbfcac-6be7-11eb-ba56-d7e2c8defa31_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/biden-supreme-court-obamacare/2021/02/10/21dbfcac-6be7-11eb-ba56-d7e2c8defa31_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/biden-supreme-court-obamacare/2021/02/10/21dbfcac-6be7-11eb-ba56-d7e2c8defa31_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 118
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GTKWHNTL6EI6XOSW27RMRXX2GE.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
   - title: "Politics live updates: $15 minimum wage unlikely to be in COVID relief bill, Biden says"
     excerpt: "President Joe Biden said a proposal to raise the federal minimum wage to $15 an hour is unlikely to remain in the $1.9 trillion COVID relief package."

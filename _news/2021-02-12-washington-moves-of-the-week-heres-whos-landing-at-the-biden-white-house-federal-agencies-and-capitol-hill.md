@@ -163,6 +163,17 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 103
+  - title: "Joe Biden to visit Milwaukee next week for his first official trip as president"
+    excerpt: "President Joe Biden will visit Wisconsin next week for his first official trip as president beyond his home state of Delaware."
+    publishedDateTime: 2021-02-09T16:16:00Z
+    webUrl: "https://www.chicagotribune.com/politics/ct-aud-nw-joe-biden-wisconsin-visit-20210209-oxt7cvgzhneedf36f3dsfl2fzu-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/politics/ct-aud-nw-joe-biden-wisconsin-visit-20210209-oxt7cvgzhneedf36f3dsfl2fzu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/politics/ct-aud-nw-joe-biden-wisconsin-visit-20210209-oxt7cvgzhneedf36f3dsfl2fzu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 101
 
 secured: "Pk4GCXt86SzVndVSQOACnm6yrgFfvXlmJfqyN908lw0kxKDsqXQFzmQwab71K8UUVrjYjciYbJa0FqUfkjbS2RUnS99O12/oM9iEvG6M8U9vPQXXVRJLZONMWA0MOOOFV5jhDaag0FWPo+xs5LcLPQHwtQPTa4q84oCDS1YPszB7vToqlmj1tkmibMUTzomtTkLpzfXESWhYmpnj0kChJedAaA2GIN2FQDwxUCYjmd26CA5MXQ6bAmNFoKd4X3oyZQEHdwZ0nnj3pMbTVjl67Is/nGUf/W687Jf2prwDEn187f6kFz1kMtSQw+Bx1pOSSeoCd6qNs82+dyvhVNetsJLbwDjHzCR+XzoMBQgdGirEdwiiVgi+mWgnXXlKwGXjbVTkkTOsL/sQ6qjPyyQrH4kVZhVdY6WcUPKSE3UUStsW1BiwOfPehApev/2n44ZrA4R0wgxL+t9hVLH57cM1cHR9albHlBo3M7Sylc+N00YQPv/lv3iUrv1StV5M1TcL/1l9Rn2V0K8ll1HiNgdtyQ==;UfuTidHOXmACS2f/EEeZow=="
 ---

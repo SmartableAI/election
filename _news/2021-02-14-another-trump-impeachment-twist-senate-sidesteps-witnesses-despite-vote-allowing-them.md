@@ -1230,6 +1230,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Pro-Trump Candidates Launch Early Senate, Governor Bids"
+    excerpt: "Republican hopefuls are betting that former President Donald Trump’s enduring popularity with the GOP base can help propel them into office."
+    publishedDateTime: 2021-02-15T10:35:00Z
+    webUrl: "https://www.wsj.com/articles/pro-trump-candidates-launch-early-senate-governor-bids-11613385001"
+    ampWebUrl: "https://www.wsj.com/amp/articles/pro-trump-candidates-launch-early-senate-governor-bids-11613385001"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pro-trump-candidates-launch-early-senate-governor-bids-11613385001"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-299053/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Sen. Graham: Impeach vote will boost Lara Trump in possible Senate run"
     excerpt: "Sen. Lindsey Graham predicted on Sunday that GOP votes to convict former President Trump in his Senate impeachment trial will give his daughter-in-law Lara Trump a leg up in the North Carolina"
     publishedDateTime: 2021-02-14T20:27:00Z
