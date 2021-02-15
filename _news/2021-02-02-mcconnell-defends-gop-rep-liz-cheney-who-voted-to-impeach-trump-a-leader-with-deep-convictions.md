@@ -48,6 +48,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "High-profile ex-Trump aides eye political office in 2022"
+    excerpt: "Former President Donald Trump is not on the ballot in next year’s elections, but some of his closest advisers and aides in the White House and on his 2020 reelection team are mulling bids of their own in what could be a test run of the clout of the Trump brand going forward."
+    publishedDateTime: 2021-02-15T18:44:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SPBovWxvhVk/ex-trump-aides-eye-political-office-2022"
+    ampWebUrl: "https://www.foxnews.com/politics/ex-trump-aides-eye-political-office-2022.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ex-trump-aides-eye-political-office-2022.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Live Updates: Graham follows McConnell in defending Cheney after her Trump impeachment vote"
     excerpt: "Sen. Lindsey Graham, R-S.C., defended Wyoming Rep. Liz Cheney on Tuesday following criticism of her decision to vote in favor of former President Donald Trump’s impeachment, saying that her experience and leadership are \"invaluable to the Republican Party.\""
     publishedDateTime: 2021-02-03T05:04:24Z
@@ -127,6 +143,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/210113-trump-impeach.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "High-profile ex-Trump aides eye political office in 2022"
+    excerpt: "Former President Donald Trump is not on the ballot in next year’s elections, but some of his closest advisers and aides in the White House and on his 2020 reelection team are mulling bids of their own in what could be a test run of the clout of the Trump brand going forward."
+    publishedDateTime: 2021-02-15T18:47:00Z
+    webUrl: "https://www.foxnews.com/politics/ex-trump-aides-eye-political-office-2022"
+    ampWebUrl: "https://www.foxnews.com/politics/ex-trump-aides-eye-political-office-2022.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ex-trump-aides-eye-political-office-2022.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/ap17199673761309.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "OCwKlJQB/ps1JtIirUEAQTIcrHd8MjQyA+EBDVKgLshdcIKy4EqXULYrOKicB9VAS2TrCb3OIGATSVF2ti5DQVFb52I2UvYTVKXZektwttFjmFMTrxf935Ptm83U9v8kvxDmoEW3+GfdMX8w5O9dJbCVwgTImOnqNw0duobJtePMvNCBO2/ckwr2IW2F8g4jqlzApOoeSjNb59jVkQBpoe2TwghcyR2Yk2TyY7QblJ2TMMd9dI7Ll1qPrHCL7NbbAZhuZ+HAZ/dwB3A5DcvfPazLAIwILw4cs1ynO/CGVHp0QiQCIY00p7NJiO/vRpVvO12mwv3DpOvrac8BZnax7s5wOEia2fsBIgMxNyL/tHw=;6vcERuc2iAlQhQwoH7JaqQ=="

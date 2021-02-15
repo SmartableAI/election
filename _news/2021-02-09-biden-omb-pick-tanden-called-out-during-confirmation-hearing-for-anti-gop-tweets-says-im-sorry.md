@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-omb-pick-tanden-confirmation-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-omb-pick-tanden-confirmation-hearing-apology-anti-gop-tweets.amp"
 type: article
 quality: 161
-heat: 201
+heat: 181
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
     quality: 161
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Sen. Rubio calls Biden officials hypocritical for considering travel ban during the coronavirus pandemic"
-    excerpt: "The Biden administration’s consideration of a travel ban due to the coronavirus pandemic is “hypocritical,” Sen. Marco Rubio, R-Fla., said on Thursday."
-    publishedDateTime: 2021-02-11T17:22:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oRuyS5IctLk/rubio-biden-travel-ban-coronavirus-pandemic"
-    ampWebUrl: "https://www.foxnews.com/politics/rubio-biden-travel-ban-coronavirus-pandemic.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rubio-biden-travel-ban-coronavirus-pandemic.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 158
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true

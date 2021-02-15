@@ -223,6 +223,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "NC GOP expected to censure Sen. Burr over Trump impeachment vote"
+    excerpt: "The North Carolina GOP Central Committee is expected to censure Sen. Richard Burr, R-N.C., on Monday night over his impeachment vote — making him the latest Republican to face home state backlash after breaking with former President Donald Trump."
+    publishedDateTime: 2021-02-15T17:18:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-dSgHnncL3Y/nc-gop-censure-richard-burr-impeachment-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/nc-gop-censure-richard-burr-impeachment-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nc-gop-censure-richard-burr-impeachment-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/05/640/320/Richard-Burr-2.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Republican who called on Trump to resign admits conviction ‘very unlikely’"
     excerpt: "Sen. Pat Toomey, R-Pa., who has been a top critic of former President Trump and called for him to resign after last month’s riot at the Capitol, said in an interview Sunday that it is unlikely that the Senate will vote for a conviction on the one count of \"incitement of insurrection.\""
     publishedDateTime: 2021-02-08T09:41:35Z

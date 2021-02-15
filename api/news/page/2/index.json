@@ -2,6 +2,170 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-14-rep-jaime-herrera-beutler-would-have-testified-under-oath-if-subpoenaed-at-trump-impeachment-trial-spokesman-says.md",
+      "title": "Rep. Jaime Herrera Beutler would have 'testified under oath' if subpoenaed at Trump impeachment trial, spokesman says",
+      "excerpt": "\"She’s already offered all the information she has, and she would have testified under oath,\" Rep. Jaime Herrera Beutler's office said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/02/13/herrera-beutler-would-have-testified-trump-trial-spokesman-says/4477859001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/02/13/herrera-beutler-would-have-testified-trump-trial-spokesman-says/4477859001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/02/13/USAT/dba8a0f4-281d-44ed-bc91-f2660c2a5b4b-AP_Trump_Impeachment_Herrera_Beutler.jpg?auto=webp&crop=5930,3336,x0,y301&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4477859001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4477859001",
+      "publishedDateTime": "2021-02-14T00:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-14-biden-says-democracy-must-always-be-defended-after-trumps-acquittal-in-second-impeachment-trial.md",
+      "title": "Biden says 'democracy must always be defended' after Trump's acquittal in second impeachment trial ",
+      "excerpt": "President Joe Biden weighed in late Saturday night on former President Donald Trump's acquittal in his second impeachment trial, saying that democracy is \"fragile\" and \"must always be defended.\"\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vvITbpH56no/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vvITbpH56no/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 1296,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210208160121-joe-biden-210205-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/13/politics/biden-trump-second-impeachment-trial/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/biden-trump-second-impeachment-trial/index.html",
+      "publishedDateTime": "2021-02-13T19:52:57-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-14-fact-check-trump-lawyer-closes-impeachment-defense-with-a-barrage-of-dishonesty.md",
+      "title": "Fact check: Trump lawyer closes impeachment defense with a barrage of dishonesty ",
+      "excerpt": "Former President Donald Trump's impeachment defense was dishonest from start to finish.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6Bv7gQMkesM/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6Bv7gQMkesM/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 190,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210213210145-michael-van-der-veen-abogado-trump-sot-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/13/politics/fact-check-trump-impeachment-van-der-veen-closing-argument/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/fact-check-trump-impeachment-van-der-veen-closing-argument/index.html",
+      "publishedDateTime": "2021-02-13T16:47:54-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-14-mcconnell-blames-trump-but-voted-not-guilty-anyway.md",
       "title": "McConnell blames Trump but voted not guilty anyway",
       "excerpt": "Senate Minority Leader Mitch McConnell has told his colleagues that he will vote to acquit former President Donald Trump of inciting the insurrection at the US Capitol last month, according to a source familiar with the conversations.\n    \n",
@@ -1194,167 +1358,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-13-joe-biden-would-give-in-to-nuclear-blackmail-by-re-entering-iran-deal-reza-pahlavi-says.md",
-      "title": "Joe Biden Would Give In to 'Nuclear Blackmail' by Re-Entering Iran Deal, Reza Pahlavi Says",
-      "excerpt": "The son of the former shah of Iran is among the dissidents urging the president to break away from what they say is a flawed agreement that favors Tehran.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/joe-biden-give-nuclear-blackmail-re-entering-iran-deal-reza-pahlavi-1568951",
-      "originalUrl": "https://www.newsweek.com/joe-biden-give-nuclear-blackmail-re-entering-iran-deal-reza-pahlavi-1568951",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1733515/irans-reza-pahlavi-pictured-washington-dc.jpg",
-          "width": 3600,
-          "height": 2400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/joe-biden-give-nuclear-blackmail-re-entering-iran-deal-reza-pahlavi-1568951?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-give-nuclear-blackmail-re-entering-iran-deal-reza-pahlavi-1568951?amp=1",
-      "publishedDateTime": "2021-02-12T09:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-02-13-hannity-democrats-never-had-problem-with-violent-rhetoric-towards-trump.md",
-      "title": "Hannity: Democrats never had problem with violent rhetoric towards Trump",
-      "excerpt": "HANNITY: Welcome to \"Hannity\". Tonight, we are tracking multiple breaking stories. These are huge, including day three of the Senate's impeachment, Schiff charade show that they got going on. We have tonight just breaking,",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/transcript/hannity-democrats-never-had-problem-with-violent-rhetoric-towards-trump",
-      "originalUrl": "https://www.foxnews.com/transcript/hannity-democrats-never-had-problem-with-violent-rhetoric-towards-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b74aca57-89b4-4917-be5d-9cda2a808143/d2443711-cc03-478d-8929-2163d8c15843/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/transcript/hannity-democrats-never-had-problem-with-violent-rhetoric-towards-trump.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/hannity-democrats-never-had-problem-with-violent-rhetoric-towards-trump.amp",
-      "publishedDateTime": "2021-02-12T08:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-13-the-daily-202-trump-said-the-system-is-rigged-democrats-say-his-acquittal-will-prove-it.md",
-      "title": "The Daily 202: Trump said the system is ‘rigged.’ Democrats say his acquittal will prove it.",
-      "excerpt": "Donald Trump used popular resentment against elites as political rocket fuel to propel his unlikely 2016 presidential campaign, describing America’s economy and politics as “rigged” against the middle class and railing against a “rigged system” of justice in favor of the powerful.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2021/02/12/daily-202-trump-said-system-is-rigged-democrats-say-his-acquittal-will-prove-it/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2021/02/12/daily-202-trump-said-system-is-rigged-democrats-say-his-acquittal-will-prove-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZREF5QDNH4I6XJTO4JYEN2PITA.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/02/12/daily-202-trump-said-system-is-rigged-democrats-say-his-acquittal-will-prove-it/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/02/12/daily-202-trump-said-system-is-rigged-democrats-say-his-acquittal-will-prove-it/?outputType=amp",
-      "publishedDateTime": "2021-02-12T08:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -29,21 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "Trump's Indonesia partner to build movie studio after securing tax breaks"
-    excerpt: "Indonesian tycoon Hary Tanoesoedibjo, a business partner of former U.S. president Donald Trump, launched on Monday construction on a movie studio as part of a tourism complex on Java island that is set to receive tax breaks."
-    publishedDateTime: 2021-02-15T14:07:00Z
-    webUrl: "https://www.reuters.com/article/us-indonesia-trump-idUSKBN2AF0MZ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AF0MZ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AF0MZ"
+  - title: "Investigating Trump a big early move for Atlanta’s new DA"
+    excerpt: "A Georgia district attorney who took office barely a month ago is leading an investigation that could bring charges against former President Trump."
+    publishedDateTime: 2021-02-15T18:15:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2021-02-15/investigating-trump-a-big-early-move-for-atlantas-new-da"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-02-15/investigating-trump-a-big-early-move-for-atlantas-new-da?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-02-15/investigating-trump-a-big-early-move-for-atlantas-new-da?_amp=true"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 124
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210215&t=2&i=1551570211&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1E0CB"
-        width: 749
-        height: 545
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/7256e58/2147483647/strip/true/crop/4740x3096+0+75/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe4%2Fc6%2F15d8761a5d68b5bcf400b9a1668c%2F77cd140b3ef44640b8cad1fecac995aa"
+        width: 320
+        height: 209
         isCached: true
 
 secured: "TPlLDVgdE8MXOZHRLX2jeOtGCjZY0+hjqZ1qsIAC9TQVTx5N9uM74PdGAz2BmfYhaggJmhYliX9uHW1sVYw86Nu1m5jDDtDBJcRg8EhIb/DEiRgXEWatMkVPPiZc3vSS883SDfo8CYkcEja7eqNelY7b8tmi4kQqOZknaA02S2mBMShGUGgHA+m04NUwUKLPPsmtUNEG54LNVYDI/6ivBxN3GTPwXLHTUiZCpKCquj8fooXRM/ILe63lPwzSR3sHOr15YOqZNdJ9NgWVbUaHqPwgwSOqfJObkAw6MrVhVBAtkDUAKsqMOoMiySh8vH2BKxsDBKqvHBOofdkIYFox2RpTTsO7J34+760L/qoFha8=;j0ojUCrnXN2VwNWED1IH5A=="

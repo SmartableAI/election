@@ -252,20 +252,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "WSJ Opinion: Joe Biden's Coronavirus Schooling"
-    excerpt: "Potomac Watch: As Senators Joe Manchin and Kyrsten Sinema vow never to bust the filibuster, their Democratic colleagues plot instead to bust the Byrd rule. Images: Getty Images Composite: Mark Kelly Potomac Watch: Democrats rely on unions to get elected ..."
-    publishedDateTime: 2021-02-12T22:25:00Z
-    webUrl: "https://www.wsj.com/video/series/potomac-watch-strassel/wsj-opinion-joe-biden-coronavirus-schooling/92B5FEAD-9C77-4D57-B687-31DABF22330A"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 115
-    images:
-      - url: "http://m.wsj.net/video/20210211/021121opvidpw/021121opvidpw_1280x720.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "+gtiwWyqs+J4ABdPDRyfv97OTbY/6RQhrqv2EWAVy7Qw3zgV3P6RqKvKNaYNk1qZ4+GaE2A9vOMxILnWeXagwDrvis/OqcVrkGZS/4cEENA77hLFczOcW2RkOjnLE5XbgJe0S37t7KMY8VrXAC0htvdkbBtELqJ6z3c5F1wg3HIWw84qwAQHK606gfNV6Mz3KSELBuTALuPl1JDjfDMKdkCkOWEVLWKUs42NjsH3TjzdpVeArponloTOrnEPpcLT0ZU0aI8/i9s5mTU6eQwu5RaRxhK1SiwDyGHWF9HbNHvmIvPUn94I0ppKp/UMX+VXljPBqQfj/7k3TKkwCd9evVWn0CRaupLylOwbRsTHzNKQzrRwcBJJsoIdwNti3Lr/QxM6apaGfX3lb2q5jBDDT8V5LGNoU+vNFC3jaBrdhfVQafmSgzu/H+BB6lap94nA95UN3yGlx/hO38l17BJ1GjdlHnnMU+fDaiVeUgaLCGKxu2YnlAuoIzvNyRFo+k5hCS4EjtLxfkO8c/jUtv52Ng==;+CRFoW3KkoevfBxw1RIuGg=="
 ---

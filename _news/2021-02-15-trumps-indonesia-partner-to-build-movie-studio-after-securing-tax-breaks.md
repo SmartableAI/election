@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AF0MZ"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AF0MZ"
 type: article
 quality: 124
-heat: 144
+heat: 124
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 749
     height: 545
     isCached: true
-
-related:
-  - title: "Trump attorney rips off mic after questioning from CBSN anchor"
-    excerpt: "The Senate voted Saturday to acquit former President Donald Trump on a charge of inciting the January 6th insurrection at the Capitol. Following the vote, defense attorney Michael van der Veen joined CBSN's Lana Zak to discuss the trial in a sometimes contentious interview."
-    publishedDateTime: 2021-02-14T08:12:00Z
-    webUrl: "https://www.cbsnews.com/video/senate-acquits-trump-impeachment-lawyer-michael-van-der-veen/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/02/13/a8c0f061-b32b-435f-92a1-8a38b8db46e2/thumbnail/1200x630/f61b31ee01e950b6826672066705431f/cbsn-fusion-senate-acquits-trump-impeachment-lawyer-michael-van-der-veen-thumbnail-645843-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "DzsZLb0GSgZPiRMZ/vYc0mfwbtrsMLGk9KPm5/J/AdGAndxXs1EWKWTEqIDQJG5ZxKcdlCDCVvXhgbZ7Tyw9uLe+fd6q2K1lg7OWT9bJvsEX3DTGHn6/AFiRtl+i7DxPItj9DxdihlslXT7bd7bVVGvYCkykQ3EC8EG5GJbhXY/aXzXMCIcP967J5tTc4mrBB2WKco2vmLPJA8elAD07QBWSR9217vQKNu+EfLK0MZL/7Za+kMRh0dD3+bHFrbpihLJK4Q3MJ5Z7WSH60dl6qhoeh5ZEAs7QDWoeTvOBIU00wSsXVyRdJUm2GSNar0BRlYEQ44M47cV7X/lQBgsMF0Iz/mbIzpTAl4JPRF2/jAo=;pmy/lTRY5p6ZeI4+lf++cA=="
 ---

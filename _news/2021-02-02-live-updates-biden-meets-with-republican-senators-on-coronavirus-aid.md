@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-2-2-2021.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-2-2-2021.amp"
 type: article
 quality: 175
-heat: 475
+heat: 455
 published: true
 
 provider:
@@ -238,20 +238,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Joe-Biden-Oval-Office-AP.jpg?ve=1&tl=1"
         width: 640
         height: 320
-        isCached: true
-  - title: "WSJ Opinion: Joe Biden's Coronavirus Schooling"
-    excerpt: "Potomac Watch: As Senators Joe Manchin and Kyrsten Sinema vow never to bust the filibuster, their Democratic colleagues plot instead to bust the Byrd rule. Images: Getty Images Composite: Mark Kelly Potomac Watch: Democrats rely on unions to get elected ..."
-    publishedDateTime: 2021-02-12T22:25:00Z
-    webUrl: "https://www.wsj.com/video/series/potomac-watch-strassel/wsj-opinion-joe-biden-coronavirus-schooling/92B5FEAD-9C77-4D57-B687-31DABF22330A"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 115
-    images:
-      - url: "http://m.wsj.net/video/20210211/021121opvidpw/021121opvidpw_1280x720.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Uighur Advocates: Will Biden Actions Match Words on 'Genocide'?"
     excerpt: "One day before President Bidens inauguration, Secretary of State Mike Pompeo made the determination that Chinas treatment of Muslim Uighurs and"

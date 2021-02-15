@@ -160,22 +160,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden dodges question about punishing China over handling of coronavirus pandemic"
-    excerpt: "Fox News reporter Peter Doocy asked Biden whether he had any interest in punishing for failing to disclose critical information related to the pandemic’s severity."
-    publishedDateTime: 2021-02-11T02:03:42Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rRKjrfUZzlw/biden-sidesteps-question-punishing-china-handling-coronavirus-pandemic"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-sidesteps-question-punishing-china-handling-coronavirus-pandemic.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-sidesteps-question-punishing-china-handling-coronavirus-pandemic.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cfaaa6e4-0f14-44f4-b46a-9fee512596fb/2bafbcb8-cbc3-41a0-ac8a-29d5d0125fad/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "WH aide resigns after allegedly demeaning reporter despite Biden's warning of firing"
     excerpt: "Deputy White House press secretary TJ Ducklo on Saturday said he was resigning amid allegations that he made \"derogatory and misogynistic\" remarks to Politico reporter Tara Palmeri nearly a month ago."
     publishedDateTime: 2021-02-14T00:45:10Z
@@ -191,22 +175,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Tj-Ducklo-Tara-Palmeri.jpg?ve=1&tl=1"
         width: 640
         height: 320
-        isCached: true
-  - title: "Biden unveils China task force at Pentagon to 'chart a strong path forward' on Beijing"
-    excerpt: "President Biden revealed Wednesday that the Department of Defense has established a wide-ranging task force that will conduct a strategic review of his administration’s strategy toward China amid mounting tensions in the Pacific."
-    publishedDateTime: 2021-02-10T22:58:09Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vSCIRICIVFw/biden-china-task-force-pentagon-strong-path-forward-beijing"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-china-task-force-pentagon-strong-path-forward-beijing.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-china-task-force-pentagon-strong-path-forward-beijing.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6f8ed1a6-fe3a-4544-ba64-ed369cff65e9/5278d9ba-b2d6-4465-b58a-3321e6ae1e1c/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Secret Service arrests woman with loaded gun near White House, claims she had letter for Biden"
     excerpt: "D.C. Police on Saturday arrested a 66-year-old woman on charges that she was carrying a loaded near the White House, Fox News has confirmed."
@@ -285,22 +253,6 @@ related:
     quality: 123
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6554f8d4-65cb-4edb-bf38-d438ab82a7bc/83c50f56-1be3-4049-8b93-4a4d75b030fa/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden faces bipartisan backlash after firing prosecutor probing corruption among Illinois Democrats"
-    excerpt: "President Biden triggered outcries from Illinois lawmakers on both sides of the aisle after he fired a prosecutor overseeing corruption probes of Democrats in the state."
-    publishedDateTime: 2021-02-12T03:13:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-backlash-after-firing-prosecutor-running-corruption-investigation-illinois-dems"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-backlash-after-firing-prosecutor-running-corruption-investigation-illinois-dems.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-backlash-after-firing-prosecutor-running-corruption-investigation-illinois-dems.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 121
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/445ed9ed-cd0c-41f3-83e6-58a88f7d11ba/8d88fc84-ae2d-47e0-a180-90c427f3db5e/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

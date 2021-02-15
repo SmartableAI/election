@@ -122,20 +122,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "House Republicans caution Biden administration against weakening vetting of refugees"
-    excerpt: "EXCLUSIVE: More than two dozen House Republicans on Wednesday urged the Biden administration to oppose efforts to weaken screening for immigrants and refugees coming to the U.S. over national security concerns."
-    publishedDateTime: 2021-02-10T22:38:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/J04VIY6rmnA/house-republicans-biden-administration-vetting-for-refugees"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 148
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3e8d82c2-273b-4c5c-a9ad-ccd91dbd9bae/62e14652-1b7c-40c3-b0ea-aac58cd458bd/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Mark Meadows: Biden administration policies put 'America last'"
     excerpt: "Today: Spend, tax and cancel, the Biden agenda. The former White House Chief of Staff under President Trump Mark Meadows is here on the new administration's big plans, including that $1.9 trillion spending package,"
     publishedDateTime: 2021-02-07T19:26:00Z

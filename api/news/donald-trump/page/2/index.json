@@ -2,6 +2,63 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-11-new-york-assembly-advances-bill-to-rename-donald-j-trump-state-park.md",
+      "title": "New York Assembly advances bill to rename Donald J. Trump State Park",
+      "excerpt": "Democratic legislators have been seeking to rename the park, located about eight miles east of Peekskill, since 2015.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/states/new-york/albany/story/2021/02/10/new-york-assembly-advances-bill-to-rename-donald-j-trump-state-park-1362627",
+      "originalUrl": "https://www.politico.com/states/new-york/albany/story/2021/02/10/new-york-assembly-advances-bill-to-rename-donald-j-trump-state-park-1362627",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/4d/b5/fd0100994ff7843b0989949e7679/ap21029066846233.png",
+          "width": 1161,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-10T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-10-home-free-florida-town-lets-donald-trump-keep-living-at-mar-a-lago.md",
       "title": "Home free: Florida town lets Donald Trump keep living at Mar-a-Lago",
       "excerpt": "Palm Beach town council gave short shrift to a request from neighbors to ban the former president from residing at his resort",
@@ -1521,58 +1578,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-us-will-not-expel-unaccompanied-migrant-children-under-trump-era-policy-now-being-reviewed.md",
-      "title": "U.S. will not expel unaccompanied migrant children under Trump-era policy now being reviewed",
-      "excerpt": "President Biden ordered his administration to review a CDC order that allows U.S. border officials to swiftly expel migrants without a court hearing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/migrant-children-biden-administration-will-not-expel-trump-policy/",
-      "originalUrl": "https://www.cbsnews.com/news/migrant-children-biden-administration-will-not-expel-trump-policy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/03/2dbd5416-7ea2-4822-b01b-fc1c2a06e5eb/thumbnail/1200x630/0fce3e81e3bc33b285288b90be4dd94b/gettyimages-1228909458.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/migrant-children-biden-administration-will-not-expel-trump-policy/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/migrant-children-biden-administration-will-not-expel-trump-policy/",
-      "publishedDateTime": "2021-02-03T04:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
