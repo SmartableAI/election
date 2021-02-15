@@ -1,14 +1,14 @@
 ---
 category: news
-title: "In Georgia, a New District Attorney Starts Circling Trump and His Allies"
-excerpt: "Fani Willis has opened a criminal investigation into efforts by the Trump camp to overturn the former president’s loss in Georgia. In an interview, Ms. Willis described a wide-ranging inquiry."
-publishedDateTime: 2021-02-13T10:00:00Z
-originalUrl: "https://www.nytimes.com/2021/02/13/us/politics/fani-willis-trump.html"
-webUrl: "https://www.nytimes.com/2021/02/13/us/politics/fani-willis-trump.html"
-ampWebUrl: "https://www.nytimes.com/2021/02/13/us/politics/fani-willis-trump.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/13/us/politics/fani-willis-trump.amp.html"
+title: "Parler, a Social Network That Attracted Trump Fans, Returns Online"
+excerpt: "After being cut off by Amazon and other tech giants, Parler worked for weeks to find a way to get back on the internet."
+publishedDateTime: 2021-02-15T19:29:00Z
+originalUrl: "https://www.nytimes.com/2021/02/15/technology/parler-back-online.html"
+webUrl: "https://www.nytimes.com/2021/02/15/technology/parler-back-online.html"
+ampWebUrl: "https://www.nytimes.com/2021/02/15/technology/parler-back-online.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/15/technology/parler-back-online.amp.html"
 type: article
-quality: 134
+quality: 135
 heat: -1
 published: false
 
@@ -26,7 +26,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://static01.nyt.com/images/2021/02/13/us/politics/13georgia-trump/13georgia-trump-facebookJumbo.jpg"
+  - url: "https://static01.nyt.com/images/2021/02/15/business/15parler1/merlin_182226063_a7a3368d-45c0-4f5c-a7f9-7fc23bfc40d4-facebookJumbo.jpg"
     width: 1050
     height: 550
     isCached: true
@@ -80,23 +80,23 @@ related:
         width: 1050
         height: 549
         isCached: true
-  - title: "Parler, a Social Network That Attracted Trump Fans, Returns Online"
-    excerpt: "After being cut off by Amazon and other tech giants, Parler worked for weeks to find a way to get back on the internet."
-    publishedDateTime: 2021-02-15T19:29:00Z
-    webUrl: "https://www.nytimes.com/2021/02/15/technology/parler-back-online.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/15/technology/parler-back-online.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/15/technology/parler-back-online.amp.html"
+  - title: "In Georgia, a New District Attorney Starts Circling Trump and His Allies"
+    excerpt: "Fani Willis has opened a criminal investigation into efforts by the Trump camp to overturn the former president’s loss in Georgia. In an interview, Ms. Willis described a wide-ranging inquiry."
+    publishedDateTime: 2021-02-13T10:00:00Z
+    webUrl: "https://www.nytimes.com/2021/02/13/us/politics/fani-willis-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/13/us/politics/fani-willis-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/13/us/politics/fani-willis-trump.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 135
+    quality: 134
     images:
-      - url: "https://static01.nyt.com/images/2021/02/15/business/15parler1/merlin_182226063_a7a3368d-45c0-4f5c-a7f9-7fc23bfc40d4-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2021/02/13/us/politics/13georgia-trump/13georgia-trump-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true
 
-secured: "ESpHRcIYUzyjL/UGWFhAsO7rmWOvuG++wTKR1Ny2sXtQknKqlpyK4DpWF0xUkj+uXrPi/PqT0EXqJEpm1gaDvGuY8i6EjB3o9mgV7kHkKR76sjNedAWfOEkh+rloh4qdnp2Ggl3stTKyC4GjapJoPM9oeHAx/jOD+YaSwZn25AY4gEyodejEP3FeLYQ+hG9BbA+jCJ+FNrz53xhmRNcuUNBeXyeyhfGLH8EFIBwaSj63jomYduoQlHIrSuldJ8XAQXjbW+QqN/F3Hm5QDdN+9+4sLVg30rIVLKoLOWjxHxgoknHLcUwP3s0kw+j5oi+1JFY9YMTpjlx9/3CkeTvD1fU6qyIjGeFqy+T15kK9qRI=;g1FMFKnF5NlQuDFXy5jA2w=="
+secured: "yN9FyV2H3UrL6T6f2ajrrkSQxoDAfrY6nAJZtiy2xkynKxrfX1N7RsEI4FF0PyWcZ9zELNTYUHRgUeI9cGYmGGgKsy+ugBUo1XvnqIYRjlMCQQTi2sQJ4Hnbx9/zdjGkhnhvJ3Na1fTFcQznS0MsvIFzJapwIbrs6R0qZeI9mhB2358uHJmz8b3hW4veupFxzKe1Ru9UtQZB3qvVW9KLRAVQMlEJmJZn4pXvXQQ4y34Gd/ACXxqUtHDkj5tjqYsTy7gFIghISXixfukqYf+RoviWcbx8AMV9HjfKhfITu2+t0ChoIyE6B8HrX8tbtnQCACjbo1gIh1XZmxuUXujipJdafF0W/M6OUAkyZbkMZms=;+Nvxu5+P2Dk04i5GtvL9AQ=="
 ---
 

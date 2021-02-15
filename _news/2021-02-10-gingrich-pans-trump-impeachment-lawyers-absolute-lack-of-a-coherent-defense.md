@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/gingrich-pans-trumps-impeachment-la
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gingrich-pans-trumps-impeachment-lawyers-lack-coherent-defense.amp"
 type: article
 quality: 171
-heat: 251
+heat: 231
 published: true
 
 provider:
@@ -76,22 +76,6 @@ related:
     quality: 121
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/91491525-0758-4d76-835a-c083f18134c2/a25638d4-7eb7-4b4b-a3f0-92bf7307c604/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump War Room fires back at House Dem impeachment managers who used 'fight like hell' rhetoric in the past"
-    excerpt: "The Trump War Room is firing back at the House Democrat Impeachment Managers who were making their case against former President Donald Trump during the opening arguments of impeachment trial."
-    publishedDateTime: 2021-02-10T22:10:00Z
-    webUrl: "https://www.foxnews.com/media/trump-war-room-house-dem-impeachment-managers-fight-hell-rhetoric-past"
-    ampWebUrl: "https://www.foxnews.com/media/trump-war-room-house-dem-impeachment-managers-fight-hell-rhetoric-past.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/trump-war-room-house-dem-impeachment-managers-fight-hell-rhetoric-past.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 117
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/68d1bea9-00de-4ea6-9ed2-ecec7e6ca8c1/af87bdba-c1d7-4788-8577-5cdd7f2e87a2/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

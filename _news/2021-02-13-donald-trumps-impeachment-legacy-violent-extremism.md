@@ -64,6 +64,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Parler, a Social Network That Attracted Trump Fans, Returns Online"
+    excerpt: "After being cut off by Amazon and other tech giants, Parler worked for weeks to find a way to get back on the internet."
+    publishedDateTime: 2021-02-15T19:29:00Z
+    webUrl: "https://www.nytimes.com/2021/02/15/technology/parler-back-online.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/15/technology/parler-back-online.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/15/technology/parler-back-online.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/15/business/15parler1/merlin_182226063_a7a3368d-45c0-4f5c-a7f9-7fc23bfc40d4-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "In Georgia, a New District Attorney Starts Circling Trump and His Allies"
     excerpt: "Fani Willis has opened a criminal investigation into efforts by the Trump camp to overturn the former president’s loss in Georgia. In an interview, Ms. Willis described a wide-ranging inquiry."
     publishedDateTime: 2021-02-13T10:00:00Z

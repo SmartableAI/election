@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Biden's 1st 100 days live updates: Biden wants Congress to take action on gun reform"
-excerpt: "In a statement marking the 3 year anniversary of the Parkland Shooting, Biden is calling on Congress to take action on gun control reform. \"This Administration will not"
-publishedDateTime: 2021-02-14T20:47:00Z
-originalUrl: "https://abcnews.go.com/Politics/live-updates/biden-100-days-president-white-house/?id=75597849"
-webUrl: "https://abcnews.go.com/Politics/live-updates/biden-100-days-president-white-house/?id=75597849"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/biden-100-days-president-white-house/?id=75597849"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/biden-100-days-president-white-house/?id=75597849"
+title: "Biden faces questions about commitment to minimum wage hike"
+excerpt: "President Joe Biden campaigned on raising the national minimum wage to $15 per hour and attached a proposal doing just that to the $1.9 trillion coronavirus pandemic relief bill"
+publishedDateTime: 2021-02-15T13:37:00Z
+originalUrl: "https://www.washingtonpost.com/business/activists-fear-bidens-commitment-to-higher-minimum-wage/2021/02/15/ea27db0a-6f92-11eb-8651-6d3091eac63f_story.html"
+webUrl: "https://www.washingtonpost.com/business/activists-fear-bidens-commitment-to-higher-minimum-wage/2021/02/15/ea27db0a-6f92-11eb-8651-6d3091eac63f_story.html"
+ampWebUrl: "https://www.washingtonpost.com/business/activists-fear-bidens-commitment-to-higher-minimum-wage/2021/02/15/ea27db0a-6f92-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/activists-fear-bidens-commitment-to-higher-minimum-wage/2021/02/15/ea27db0a-6f92-11eb-8651-6d3091eac63f_story.html?outputType=amp"
 type: article
-quality: 118
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/president-biden-ap-jef-210214_1613317059152_hpMain_16x9_1600.jpg"
-    width: 1600
-    height: 900
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -79,22 +79,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Biden faces questions about commitment to minimum wage hike"
-    excerpt: "President Joe Biden campaigned on raising the national minimum wage to $15 per hour and attached a proposal doing just that to the $1.9 trillion coronavirus pandemic relief bill"
-    publishedDateTime: 2021-02-15T13:37:00Z
-    webUrl: "https://www.washingtonpost.com/business/activists-fear-bidens-commitment-to-higher-minimum-wage/2021/02/15/ea27db0a-6f92-11eb-8651-6d3091eac63f_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/business/activists-fear-bidens-commitment-to-higher-minimum-wage/2021/02/15/ea27db0a-6f92-11eb-8651-6d3091eac63f_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/activists-fear-bidens-commitment-to-higher-minimum-wage/2021/02/15/ea27db0a-6f92-11eb-8651-6d3091eac63f_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "On Parkland anniversary, Biden calls for tougher gun laws"
     excerpt: "Sorrow is reverberating across the country Sunday as Americans joined a Florida community in remembering the 17 lives lost three years ago in the Parkland school shooting massacre"
     publishedDateTime: 2021-02-15T08:25:00Z
@@ -110,6 +94,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Biden's 1st 100 days live updates: Biden wants Congress to take action on gun reform"
+    excerpt: "In a statement marking the 3 year anniversary of the Parkland Shooting, Biden is calling on Congress to take action on gun control reform. \"This Administration will not"
+    publishedDateTime: 2021-02-14T20:47:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/biden-100-days-president-white-house/?id=75597849"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/biden-100-days-president-white-house/?id=75597849"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/biden-100-days-president-white-house/?id=75597849"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 118
+    images:
+      - url: "https://s.abcnews.com/images/Politics/president-biden-ap-jef-210214_1613317059152_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Maryland Senators See Joe Biden's Immigration Policy as Key To Grant Citizenship To TPS Holders"
     excerpt: "The SECURE Act would provide a pathway to permanent resident status for over 400,000 immigrants who have Temporary Protected Status after fleeing natural disasters and civil unrest in their home countries."
@@ -142,6 +142,6 @@ related:
         height: 337
         isCached: true
 
-secured: "PF3ey2ktsGIr+fFDgnkb0v7MNBtyvULvn8ovGM/Hq1JcybtvKuaFRWdg2JynoQWYT8d2N4Auw6uDw2Ot9WKXVycoCCT5mp1HHtRMfYzmZtfmvT4ZZu0HWynGqs4YtfihbzurPitBpNX+oZrrm5IWHHwe2W+2lf8FqWofM9714zFyKCXLJq6t0BKcoMXM+cg4gbNAEfx5l6WgjyBu1r8/S6AR8vBPJ4tE9Kv6UeT7Bd6Oqx9REWh+F5gXhp65zu1SsO0OiLcOsy/CizSpeZsPCiJiphV8SremR+6Rvh0Dsk06vtXA+D2wV820VDktEHqDReSu1/NTXuJn1/owhprzCobK0nvu8FsdihVS2fEIoqqgcuWuePVifq8Nr5kXIHvmjJ/L93H7wtVnY17/QemAeurtujKyAPvHx/Im2GV7+0RnYLxk6Ev93AD8Ffy5A0W1xsdXFERTht8iKgfEXD6qVZ7UUyRNP8KqZByP9lAmXxEP4JDCpRIsJwKVY4KrtiDrIe4qhxFSKQl/rnT0tSoZGQ==;ccplhItLd/XZrwQPufy8bA=="
+secured: "5u+wb9G/AsAep0OJVwNx87bdeyiyA8V8QDRs2WTUYRdcOPfqYxMXOWR4buFH+1zR996TuRbHcuuVss7IwhYJQSN8PDON+V4nnzCQs0Oea6U1eoQDCq8A4Qr8yyrXFHUZArNDRKuVoW61hZySMcliAjQnsXSFG1cZg7JvjJqjXWHylBI5hOzf9wDNadZkqMXadIunxda4bVOHGk6M2QgcQPAZOtCG0aNsxPS+41URpLOfXHvk6YA8XrxXG8Wf9JrDvY6d7qsa74cTHJ3qqrprRQg8YvPLVWOXFTPwvJAX3xBYN8BghJRaWpbJ1/QhbfnfRYLgcZDU8NvsEoBLoqMwznUMpqjRiZ0U0l4PpNeMq6A=;nQzvO09FuLzcRByZPDWTAg=="
 ---
 

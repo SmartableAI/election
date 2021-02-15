@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/11/politics/biden-1-9-trillion-bet/i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/11/politics/biden-1-9-trillion-bet/index.html"
 type: article
 quality: 175
-heat: 555
+heat: 575
 published: true
 
 provider:
@@ -156,6 +156,22 @@ related:
     quality: 165
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210113014621-lisa-montgomery-death-penalty-activists-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Governors tell Biden in letter some vaccine efforts are creating confusion and inefficiency"
+    excerpt: "A bipartisan group of governors expressed concern Monday at the Biden administration's vaccine rollout, writing in a letter to the White House that better coordination is needed between the federal government and states on distributing doses to prevent confusion and duplicative efforts.\n    \n"
+    publishedDateTime: 2021-02-15T22:12:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dPqDyrWZyM0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/15/politics/governors-biden-vaccine-distribution/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/15/politics/governors-biden-vaccine-distribution/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210128222731-02-johnson-and-johnson-vaccine-trial-121520-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

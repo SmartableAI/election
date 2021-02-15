@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Biden's 1st 100 days live updates: Biden wants Congress to take action on gun reform"
-excerpt: "In a statement marking the 3 year anniversary of the Parkland Shooting, Biden is calling on Congress to take action on gun control reform. \"This Administration will not"
-publishedDateTime: 2021-02-14T20:47:00Z
-originalUrl: "https://abcnews.go.com/Politics/live-updates/biden-100-days-president-white-house/?id=75597849"
-webUrl: "https://abcnews.go.com/Politics/live-updates/biden-100-days-president-white-house/?id=75597849"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/biden-100-days-president-white-house/?id=75597849"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/biden-100-days-president-white-house/?id=75597849"
+title: "Pres. Biden urging Congress for stricter gun ..."
+excerpt: "Watch \"Pres. Biden urging Congress for stricter gun laws as Sunday marks 3 years since the deadly mass shooting in Parkland, Florida\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN,"
+publishedDateTime: 2021-02-15T22:47:00Z
+originalUrl: "https://www.cbsnews.com/live/video/20210215224025-pres-biden-urging-congress-for-stricter-gun-laws-as-sunday-marks-3-years-since-the-deadly-mass-shooting-in-parkland-florida/"
+webUrl: "https://www.cbsnews.com/live/video/20210215224025-pres-biden-urging-congress-for-stricter-gun-laws-as-sunday-marks-3-years-since-the-deadly-mass-shooting-in-parkland-florida/"
 type: article
-quality: 118
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: CBS News
+  domain: cbsnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/president-biden-ap-jef-210214_1613317059152_hpMain_16x9_1600.jpg"
-    width: 1600
-    height: 900
+  - url: "https://cbsnews2.cbsistatic.com/hub/i/2014/10/24/81f260db-0e27-4cf7-83ac-a190dca0b384/slatedvr600x337.jpg"
+    width: 600
+    height: 337
     isCached: true
 
 related:
@@ -111,6 +109,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden's 1st 100 days live updates: Biden wants Congress to take action on gun reform"
+    excerpt: "In a statement marking the 3 year anniversary of the Parkland Shooting, Biden is calling on Congress to take action on gun control reform. \"This Administration will not"
+    publishedDateTime: 2021-02-14T20:47:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/biden-100-days-president-white-house/?id=75597849"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/biden-100-days-president-white-house/?id=75597849"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/biden-100-days-president-white-house/?id=75597849"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 118
+    images:
+      - url: "https://s.abcnews.com/images/Politics/president-biden-ap-jef-210214_1613317059152_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Maryland Senators See Joe Biden's Immigration Policy as Key To Grant Citizenship To TPS Holders"
     excerpt: "The SECURE Act would provide a pathway to permanent resident status for over 400,000 immigrants who have Temporary Protected Status after fleeing natural disasters and civil unrest in their home countries."
     publishedDateTime: 2021-02-09T02:44:00Z
@@ -127,21 +141,7 @@ related:
         width: 3000
         height: 2333
         isCached: true
-  - title: "Pres. Biden urging Congress for stricter gun ..."
-    excerpt: "Watch \"Pres. Biden urging Congress for stricter gun laws as Sunday marks 3 years since the deadly mass shooting in Parkland, Florida\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN,"
-    publishedDateTime: 2021-02-15T22:47:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20210215224025-pres-biden-urging-congress-for-stricter-gun-laws-as-sunday-marks-3-years-since-the-deadly-mass-shooting-in-parkland-florida/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/2014/10/24/81f260db-0e27-4cf7-83ac-a190dca0b384/slatedvr600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
-secured: "PF3ey2ktsGIr+fFDgnkb0v7MNBtyvULvn8ovGM/Hq1JcybtvKuaFRWdg2JynoQWYT8d2N4Auw6uDw2Ot9WKXVycoCCT5mp1HHtRMfYzmZtfmvT4ZZu0HWynGqs4YtfihbzurPitBpNX+oZrrm5IWHHwe2W+2lf8FqWofM9714zFyKCXLJq6t0BKcoMXM+cg4gbNAEfx5l6WgjyBu1r8/S6AR8vBPJ4tE9Kv6UeT7Bd6Oqx9REWh+F5gXhp65zu1SsO0OiLcOsy/CizSpeZsPCiJiphV8SremR+6Rvh0Dsk06vtXA+D2wV820VDktEHqDReSu1/NTXuJn1/owhprzCobK0nvu8FsdihVS2fEIoqqgcuWuePVifq8Nr5kXIHvmjJ/L93H7wtVnY17/QemAeurtujKyAPvHx/Im2GV7+0RnYLxk6Ev93AD8Ffy5A0W1xsdXFERTht8iKgfEXD6qVZ7UUyRNP8KqZByP9lAmXxEP4JDCpRIsJwKVY4KrtiDrIe4qhxFSKQl/rnT0tSoZGQ==;ccplhItLd/XZrwQPufy8bA=="
+secured: "qJGhIl95hhKZB8azPpM1m0KFi/H022Pv0lWwhX2XYzz4CmgHyYhHCWA0589pHwIqKQoosnJboPn+tNXaOeDH1+rKLgjUFCieG9J78mpxhxH/l0J57K25/XOO6DIwp53j9cDz/Ep8oaBMLtnLunDqNsI6ULxz+jl/eGVaL8+dt8Dq1jztoqYNVfK3Fqd5QEKXwNFUx9YbZALRjGovrNvstOs1fl1SRf1k5XPHaMwLnXLwgPpVpVcGG41NnjbduvplSLdbAtCcsP9NwWpGk3krJHNDJ0iA7j0nm4CdnRT7b6ND19DSNpdxwrotMqynba7aOScnzWhaqW4AWnE1LT0vCga9BtiC+AivhfUvgUCCjGc=;FL2NOUyPuyIZWH+Xt7PGnw=="
 ---
 

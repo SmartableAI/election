@@ -80,22 +80,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump War Room fires back at House Dem impeachment managers who used 'fight like hell' rhetoric in the past"
-    excerpt: "The Trump War Room is firing back at the House Democrat Impeachment Managers who were making their case against former President Donald Trump during the opening arguments of impeachment trial."
-    publishedDateTime: 2021-02-10T22:10:00Z
-    webUrl: "https://www.foxnews.com/media/trump-war-room-house-dem-impeachment-managers-fight-hell-rhetoric-past"
-    ampWebUrl: "https://www.foxnews.com/media/trump-war-room-house-dem-impeachment-managers-fight-hell-rhetoric-past.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/trump-war-room-house-dem-impeachment-managers-fight-hell-rhetoric-past.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 117
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/68d1bea9-00de-4ea6-9ed2-ecec7e6ca8c1/af87bdba-c1d7-4788-8577-5cdd7f2e87a2/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "D3IOS/IhwhpucwRrTfG7EepjDIMeHBEqQCdEtIvV3srdkoVE/Bf7iT49zWHjhG+V1x1iAgLrCrExh+Ek+W6bJXfpHXjPI9qUngNNGp0E8hfW6U+STE3gVre1Dqzn0KULiTmpl50smD4oVLdh1ngiyxogvbKI4HZk6xfnzHx1Rq1l+wjSPD6N6nka229G1rB8bd95/b0ayYyEEhST4u/SZKnHHKpIXe6M0ujXxSeQ2+nQjwmjUdxcorsTAsS2M7fMcrl+fTQO/jisXuU71P+Zg9jZagM4V01hH8p+sAm/NNrZ6NfcvGTG/bDOhWATn2Rot3F8tEUclnkQ1D0wEBLfyMb6ex1Z07AKiEjhLydH+Tzpi16gH7iZa53SP+v5atGHHD0ak7w72oBBMlzkAgIIdrD97AZTP5KWV4KUUCzPgC6BuQiHgppcoABQXG8vyOZXuTMBBZY7miXvyz5GTbMB5ftB/mVjJBck6I4Tp3Zx71PUPqetCIsJwzbvqCIfao4j0F5bDcEv7N2uvy7fX1lshA==;NrJEWi3sT1go37vSHjGzpQ=="
 ---

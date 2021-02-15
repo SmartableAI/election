@@ -79,6 +79,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden faces questions about commitment to minimum wage hike"
+    excerpt: "President Joe Biden campaigned on raising the national minimum wage to $15 per hour and attached a proposal doing just that to the $1.9 trillion coronavirus pandemic relief bill"
+    publishedDateTime: 2021-02-15T13:37:00Z
+    webUrl: "https://www.washingtonpost.com/business/activists-fear-bidens-commitment-to-higher-minimum-wage/2021/02/15/ea27db0a-6f92-11eb-8651-6d3091eac63f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/business/activists-fear-bidens-commitment-to-higher-minimum-wage/2021/02/15/ea27db0a-6f92-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/activists-fear-bidens-commitment-to-higher-minimum-wage/2021/02/15/ea27db0a-6f92-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Biden's 1st 100 days live updates: Biden wants Congress to take action on gun reform"
     excerpt: "In a statement marking the 3 year anniversary of the Parkland Shooting, Biden is calling on Congress to take action on gun control reform. \"This Administration will not"
     publishedDateTime: 2021-02-14T20:47:00Z
@@ -110,6 +126,20 @@ related:
       - url: "https://d.newsweek.com/en/full/1728926/maryland-senators-hollen-cardin-immigration-citizenship-bill.jpg"
         width: 3000
         height: 2333
+        isCached: true
+  - title: "Pres. Biden urging Congress for stricter gun ..."
+    excerpt: "Watch \"Pres. Biden urging Congress for stricter gun laws as Sunday marks 3 years since the deadly mass shooting in Parkland, Florida\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN,"
+    publishedDateTime: 2021-02-15T22:47:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210215224025-pres-biden-urging-congress-for-stricter-gun-laws-as-sunday-marks-3-years-since-the-deadly-mass-shooting-in-parkland-florida/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/2014/10/24/81f260db-0e27-4cf7-83ac-a190dca0b384/slatedvr600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "PG9aBek8qCwLLMU/grPMuclmbo8h/L9Pmhy3cAcrYdzN10ferlkMgqkIbTftn5mJMgz81ifG72d7lZ0g699apV4af/UwCcPV5dBljGJrPzHlqHDHQfsKaO2FLKNps5v/iAzMOBc/ohX83Yn6/BlVmxcTxPNn4Uo9xccRXVkL3Cif+zwR1Q19z6/Wqd1ymwx3sL+IhWECQkxoxhDD7N4kOLG+wI0fJQhhFrl01OjNcPJ6AT17HN3ETnmBgdYyq3IH55CRtSHXmr8w4gckb/LPVkYonyyjwHs7ITd0GOANfSThZnQLuMp57sMpqgBKYUb3s9m1un9/+0UyGYxqweA+SyCuoeDkQ21scCoic87TOk0=;bp/ALV7b63yRFaqFoa2+0w=="

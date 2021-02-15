@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-14-the-latest-biden-says-all-americans-must-defend-the-truth.md",
+      "title": "The Latest: Biden says all Americans must 'defend the truth'",
+      "excerpt": "President Joe Biden is responding to the acquittal of Donald Trump by stating that all Americans, especially the nation’s leaders, have a duty and responsibility “to defend the truth and to defeat the lies.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/latest-senators-await-closing-arguments-trump-trial-75871314",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/latest-senators-await-closing-arguments-trump-trial-75871314",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_99e21b56053e49638943ddca30fd3b15_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/latest-senators-await-closing-arguments-trump-trial-75871314",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/latest-senators-await-closing-arguments-trump-trial-75871314",
+      "publishedDateTime": "2021-02-14T00:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-02-14-rep-jaime-herrera-beutler-would-have-testified-under-oath-if-subpoenaed-at-trump-impeachment-trial-spokesman-says.md",
+      "title": "Rep. Jaime Herrera Beutler would have 'testified under oath' if subpoenaed at Trump impeachment trial, spokesman says",
+      "excerpt": "\"She’s already offered all the information she has, and she would have testified under oath,\" Rep. Jaime Herrera Beutler's office said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/02/13/herrera-beutler-would-have-testified-trump-trial-spokesman-says/4477859001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/02/13/herrera-beutler-would-have-testified-trump-trial-spokesman-says/4477859001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/02/13/USAT/dba8a0f4-281d-44ed-bc91-f2660c2a5b4b-AP_Trump_Impeachment_Herrera_Beutler.jpg?auto=webp&crop=5930,3336,x0,y301&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4477859001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4477859001",
+      "publishedDateTime": "2021-02-14T00:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-14-biden-says-democracy-must-always-be-defended-after-trumps-acquittal-in-second-impeachment-trial.md",
       "title": "Biden says 'democracy must always be defended' after Trump's acquittal in second impeachment trial ",
       "excerpt": "President Joe Biden weighed in late Saturday night on former President Donald Trump's acquittal in his second impeachment trial, saying that democracy is \"fragile\" and \"must always be defended.\"\n    \n",
@@ -936,7 +1040,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 230,
+      "heat": 250,
       "tags": null,
       "images": [
         {
@@ -992,7 +1096,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 567,
+      "heat": 587,
       "tags": null,
       "images": [
         {
@@ -1250,114 +1354,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-biden-to-get-another-judicial-appointment-to-a-key-federal-appeals-court.md",
-      "title": "Biden to get another judicial appointment to a key federal appeals court",
-      "excerpt": "President Biden will get another opportunity to make a key judicial appointment on what is considered the second most important federal court.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/d06VaoBxLzA/biden-to-get-another-judicial-appointment-to-a-key-federal-appeals-court",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/d06VaoBxLzA/biden-to-get-another-judicial-appointment-to-a-key-federal-appeals-court",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/acdfe773-2342-4e03-86f0-af48ae93a0fb/de44e5ec-8943-4b86-8e01-6092c29e3016/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-to-get-another-judicial-appointment-to-a-key-federal-appeals-court.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-get-another-judicial-appointment-to-a-key-federal-appeals-court.amp",
-      "publishedDateTime": "2021-02-12T09:53:05-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-13-joe-biden-would-give-in-to-nuclear-blackmail-by-re-entering-iran-deal-reza-pahlavi-says.md",
-      "title": "Joe Biden Would Give In to 'Nuclear Blackmail' by Re-Entering Iran Deal, Reza Pahlavi Says",
-      "excerpt": "The son of the former shah of Iran is among the dissidents urging the president to break away from what they say is a flawed agreement that favors Tehran.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/joe-biden-give-nuclear-blackmail-re-entering-iran-deal-reza-pahlavi-1568951",
-      "originalUrl": "https://www.newsweek.com/joe-biden-give-nuclear-blackmail-re-entering-iran-deal-reza-pahlavi-1568951",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1733515/irans-reza-pahlavi-pictured-washington-dc.jpg",
-          "width": 3600,
-          "height": 2400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/joe-biden-give-nuclear-blackmail-re-entering-iran-deal-reza-pahlavi-1568951?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-give-nuclear-blackmail-re-entering-iran-deal-reza-pahlavi-1568951?amp=1",
-      "publishedDateTime": "2021-02-12T09:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

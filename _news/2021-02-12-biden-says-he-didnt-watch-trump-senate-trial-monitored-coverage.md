@@ -268,6 +268,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden Agenda Faces GOP Seeking to Unify in Opposition After Trump Impeachment"
+    excerpt: "Democrats are turning to cabinet nominees and pandemic relief, but some Republicans are already signaling their opposition to the president’s plans."
+    publishedDateTime: 2021-02-15T21:51:00Z
+    webUrl: "https://www.wsj.com/articles/impeachment-over-biden-agenda-faces-congressional-gop-seeking-to-unify-in-opposition-11613336802?mod=newsviewer_click"
+    ampWebUrl: "https://www.wsj.com/amp/articles/impeachment-over-biden-agenda-faces-congressional-gop-seeking-to-unify-in-opposition-11613336802"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/impeachment-over-biden-agenda-faces-congressional-gop-seeking-to-unify-in-opposition-11613336802"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 147
+    images:
+      - url: "https://images.wsj.net/im-299229/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Biden administration plans to reengage with UN rights council, reversing Trump"
     excerpt: "The Biden administration is set to announce this week that it will reengage with the much-maligned U.N. Human Rights Council that former President Donald Trump withdrew from almost three years ago, U."
     publishedDateTime: 2021-02-08T12:35:00Z

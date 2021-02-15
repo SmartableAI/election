@@ -1,33 +1,34 @@
 ---
 category: news
-title: "US aircraft carriers train in South China Sea amid tensions early in Biden administration"
-excerpt: "Two U.S aircraft carrier strike groups trained Tuesday in the South China Sea amid close attention on how the United States will handle threats from China early in the Biden administration. "
-publishedDateTime: 2021-02-09T12:57:27Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CmCdra03TPk/us-aircraft-carriers-train-in-south-china-sea-amid-tensions-early-in-biden-administration"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CmCdra03TPk/us-aircraft-carriers-train-in-south-china-sea-amid-tensions-early-in-biden-administration"
-ampWebUrl: "https://www.foxnews.com/politics/us-aircraft-carriers-train-in-south-china-sea-amid-tensions-early-in-biden-administration.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/us-aircraft-carriers-train-in-south-china-sea-amid-tensions-early-in-biden-administration.amp"
+title: "Biden Agenda Faces GOP Seeking to Unify in Opposition After Trump Impeachment"
+excerpt: "Democrats are turning to cabinet nominees and pandemic relief, but some Republicans are already signaling their opposition to the president’s plans."
+publishedDateTime: 2021-02-15T21:51:00Z
+originalUrl: "https://www.wsj.com/articles/impeachment-over-biden-agenda-faces-congressional-gop-seeking-to-unify-in-opposition-11613336802?mod=newsviewer_click"
+webUrl: "https://www.wsj.com/articles/impeachment-over-biden-agenda-faces-congressional-gop-seeking-to-unify-in-opposition-11613336802?mod=newsviewer_click"
+ampWebUrl: "https://www.wsj.com/amp/articles/impeachment-over-biden-agenda-faces-congressional-gop-seeking-to-unify-in-opposition-11613336802"
+cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/impeachment-over-biden-agenda-faces-congressional-gop-seeking-to-unify-in-opposition-11613336802"
 type: article
-quality: 166
+quality: 147
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
+  name: Wall Street Journal
+  domain: wsj.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://images.wsj.net/im-299229/social"
+    width: 1280
+    height: 640
     isCached: true
 
 related:
@@ -255,6 +256,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "US aircraft carriers train in South China Sea amid tensions early in Biden administration"
+    excerpt: "Two U.S aircraft carrier strike groups trained Tuesday in the South China Sea amid close attention on how the United States will handle threats from China early in the Biden administration. "
+    publishedDateTime: 2021-02-09T12:57:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CmCdra03TPk/us-aircraft-carriers-train-in-south-china-sea-amid-tensions-early-in-biden-administration"
+    ampWebUrl: "https://www.foxnews.com/politics/us-aircraft-carriers-train-in-south-china-sea-amid-tensions-early-in-biden-administration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/us-aircraft-carriers-train-in-south-china-sea-amid-tensions-early-in-biden-administration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden says he didn’t watch Trump Senate trial, monitored coverage"
     excerpt: "President Biden on Thursday said he “didn’t watch any of the hearing live” but did monitor coverage of former President Donald Trump’s impeachment trial. House impeachment"
     publishedDateTime: 2021-02-11T16:36:00Z
@@ -270,22 +287,6 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/joe-biden-trump-senate.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Biden Agenda Faces GOP Seeking to Unify in Opposition After Trump Impeachment"
-    excerpt: "Democrats are turning to cabinet nominees and pandemic relief, but some Republicans are already signaling their opposition to the president’s plans."
-    publishedDateTime: 2021-02-15T21:51:00Z
-    webUrl: "https://www.wsj.com/articles/impeachment-over-biden-agenda-faces-congressional-gop-seeking-to-unify-in-opposition-11613336802?mod=newsviewer_click"
-    ampWebUrl: "https://www.wsj.com/amp/articles/impeachment-over-biden-agenda-faces-congressional-gop-seeking-to-unify-in-opposition-11613336802"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/impeachment-over-biden-agenda-faces-congressional-gop-seeking-to-unify-in-opposition-11613336802"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 147
-    images:
-      - url: "https://images.wsj.net/im-299229/social"
-        width: 1280
-        height: 640
         isCached: true
   - title: "Biden administration plans to reengage with UN rights council, reversing Trump"
     excerpt: "The Biden administration is set to announce this week that it will reengage with the much-maligned U.N. Human Rights Council that former President Donald Trump withdrew from almost three years ago, U."
@@ -352,6 +353,6 @@ related:
         height: 720
         isCached: true
 
-secured: "8M5tTSC8pihXNBACSAYA65o3IanFJhuraoiPnzkV3BdTNgsYc2zvNJ9kjkQgSbyySF2IXGvKQ9bD+CVbMO6p13/LfS+cn5ijVtgY4LZoW5cnc6WDT5eh56A3JVgXpT8bmX93DeWzOjKa5cCIsPx6gu2D8gJ+ULDpaEDQVz3p3ftnyjfuG8IA9lVnnOpVyo/jAhP3Xpk66no7yRbj2+g/k2gtpton0uWpZx9SkbZJpASP1p+OYJrXF3jV1By0BBjE1jfwGsi0a97v5AAUJgzycUKBQPlNZxUwmc0UbCBftpp3sJu4/8p1rgx9v94lamnoknbHqHA6JR1qGWFmTRLiBYLKxIkR1rRQd7bLno90I60=;QdABlxozRokt/+YR7/3yKg=="
+secured: "4eKfTg55tXTLJ+iQV3VIdLQ8E/zsIiDi+YrVmtEroZARXbo6OdzsL2HCYgPv2gyJvyfZG82HHo3Pc5rdpi8R2CsV0z4pjTTseo2jWsdpfjf3H/R3g05BJLNb8fGJEWxQwZwesMM3yxaj+WDtoGFZsir9P9dgx8sSHguDNNstRS2TbyehZo1IA51VWig7XRaEo7oU/rQnc2qSy1QutvPUDECCRcv5Ry1NKGwNwZ9Kp2NczZAzWHzFpB4n17OE6qSmZ0dWWSCVuQW+E2yaHcZjj6YG0oHabOsOE8pOhjDEjH6zzR6vFN8IrKxlTmuZ+UVR3h+IWdJzeBZ2cGuA+31I51Cf1Tm9RohrU8XJwKlGPIc=;PU3YV8VLntb/oiiJ+vOSpQ=="
 ---
 

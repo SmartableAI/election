@@ -32,69 +32,21 @@ images:
     isCached: true
 
 related:
-  - title: "Gingrich pans Trump impeachment lawyers' 'absolute lack of a coherent defense'"
-    excerpt: "Fox News contributor Newt Gingrich roasted former President Donald Trump's impeachment defense team on Wednesday, calling their message \"incoherent\" and adding he had \"no idea\" what Trump's lawyers were doing."
-    publishedDateTime: 2021-02-10T17:50:22Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_VTbYHGmu8g/gingrich-pans-trumps-impeachment-lawyers-lack-coherent-defense"
-    ampWebUrl: "https://www.foxnews.com/politics/gingrich-pans-trumps-impeachment-lawyers-lack-coherent-defense.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gingrich-pans-trumps-impeachment-lawyers-lack-coherent-defense.amp"
+  - title: "Trump drives past jubilant supporters at impromptu rally in Florida"
+    excerpt: "Former President Trump marked President’s Day by waiving to a throng of supporters gathered near his south Florida residence."
+    publishedDateTime: 2021-02-15T22:24:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NtN08aCAz_o/trump-drives-past-jubilant-supporters-at-impromptu-rally-in-florida"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-drives-past-jubilant-supporters-at-impromptu-rally-in-florida.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-drives-past-jubilant-supporters-at-impromptu-rally-in-florida.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 171
+    quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f7dee7ae-f2e8-44d5-baea-b56d2cdfafdd/87273aea-741f-46d3-af8f-52297c92674a/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Dem impeachment managers target Trump lawyers’ First Amendment argument, calling it a ‘distraction’"
-    excerpt: "Lead House impeachment manager Rep. Jamie Raskin, D-Md., said that former President Trump’s lawyers’ argument that Trump was within his First Amendment rights when he peddled election fraud claims is a “completely irrelevant distraction.” "
-    publishedDateTime: 2021-02-11T22:16:27Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/X-1zWuB7Wc8/dem-impeachment-managers-trump-lawyers-first-amendment"
-    ampWebUrl: "https://www.foxnews.com/politics/dem-impeachment-managers-trump-lawyers-first-amendment.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dem-impeachment-managers-trump-lawyers-first-amendment.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 161
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/91491525-0758-4d76-835a-c083f18134c2/a25638d4-7eb7-4b4b-a3f0-92bf7307c604/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump Defense Team Calls Impeachment Case Over Capitol Riot ‘Patently Absurd’"
-    excerpt: "Donald Trump’s lawyers dismissed Democrats’ allegations that he incited the Capitol riot and said his exhortations to supporters to fight were standard political rhetoric, in a compact rebuttal that paved the way for a Senate vote as early as Saturday."
-    publishedDateTime: 2021-02-13T05:06:00Z
-    webUrl: "https://www.wsj.com/articles/donald-trump-impeachment-trial-day-four-defense-to-set-out-case-11613125807"
-    ampWebUrl: "https://www.wsj.com/amp/articles/donald-trump-impeachment-trial-day-four-defense-to-set-out-case-11613125807"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/donald-trump-impeachment-trial-day-four-defense-to-set-out-case-11613125807"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 132
-    images:
-      - url: "https://images.wsj.net/im-299044/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Dem impeachment managers target Trump lawyers’ First Amendment argument, calling it a ‘distraction’"
-    excerpt: "Md., said that former President Trump’s lawyers’ argument that Trump was within his First Amendment rights when he peddled election fraud claims is a “completely irrelevant distraction.”"
-    publishedDateTime: 2021-02-11T22:20:00Z
-    webUrl: "https://www.foxnews.com/politics/dem-impeachment-managers-trump-lawyers-first-amendment"
-    ampWebUrl: "https://www.foxnews.com/politics/dem-impeachment-managers-trump-lawyers-first-amendment.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dem-impeachment-managers-trump-lawyers-first-amendment.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 121
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/91491525-0758-4d76-835a-c083f18134c2/a25638d4-7eb7-4b4b-a3f0-92bf7307c604/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "KkS4jbjt7W3fxxiTkZ8Czr8x6W8IxZ/gMtuwklbrY5oSf9Owl10sVH9/OBNrl5VJ4yZSlJZvMk1Mi+3QjsO3ha5S3SAu7Nv3iRQDlPDbdmcVhXIf7yCg8I5YdRKNwTJBjvmC8xp4Ag+KDjZZkcErY23iDzidEotdwrma47GunWnUOgqBunOxbvSDpAJe7AvJBDIgR5kK5S+2fU9BVylHX2OaoNAtwXx+V827F7S/Ao+56kWJ9MVslhSOdCdsxN3rjgtOdUrXo9TT/dmFEhXyrIHFEpS+uG5KxKDTUll5qS1XAwfQs6oGKJVafTeaBthTYfiByBPnC84E7/E/g5N6DWyYmEeQQBxUhw0jqD1UU/I=;TSxH1RY8qcPYntLsKp/Rag=="

@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden faces questions about commitment to minimum wage hike"
+    excerpt: "President Joe Biden campaigned on raising the national minimum wage to $15 per hour and attached a proposal doing just that to the $1.9 trillion coronavirus pandemic relief bill"
+    publishedDateTime: 2021-02-15T13:37:00Z
+    webUrl: "https://www.washingtonpost.com/business/activists-fear-bidens-commitment-to-higher-minimum-wage/2021/02/15/ea27db0a-6f92-11eb-8651-6d3091eac63f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/business/activists-fear-bidens-commitment-to-higher-minimum-wage/2021/02/15/ea27db0a-6f92-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/activists-fear-bidens-commitment-to-higher-minimum-wage/2021/02/15/ea27db0a-6f92-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "On Parkland anniversary, Biden calls for tougher gun laws"
     excerpt: "Sorrow is reverberating across the country Sunday as Americans joined a Florida community in remembering the 17 lives lost three years ago in the Parkland school shooting massacre"
     publishedDateTime: 2021-02-15T08:25:00Z
@@ -110,6 +126,20 @@ related:
       - url: "https://d.newsweek.com/en/full/1728926/maryland-senators-hollen-cardin-immigration-citizenship-bill.jpg"
         width: 3000
         height: 2333
+        isCached: true
+  - title: "Pres. Biden urging Congress for stricter gun ..."
+    excerpt: "Watch \"Pres. Biden urging Congress for stricter gun laws as Sunday marks 3 years since the deadly mass shooting in Parkland, Florida\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN,"
+    publishedDateTime: 2021-02-15T22:47:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210215224025-pres-biden-urging-congress-for-stricter-gun-laws-as-sunday-marks-3-years-since-the-deadly-mass-shooting-in-parkland-florida/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/2014/10/24/81f260db-0e27-4cf7-83ac-a190dca0b384/slatedvr600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "+BVad7E2ooyi+7yimhsGjqXLJe20cPE0Z7ZXWTv4PDZzj+fAf0SaJx1AKQyY8EVNn0OL4+9F/V9NzPMDZrhaJhOib++4puvb3tw7nc+8+ZCDgukVwVFvOiODoUR7Mp9Uwl+wWSNgEBEnhnyk6awYzHe/gNFtVnnV/pBBPOj6O6vdiXbqXG9U8BnfCxusF/fA0v3i/XdMaOMiVKCJrscuQlajHToz9nc1o0DWWvbNcYueJPraL9CY/yg5YH/zD/0AABoiBUFLf8WZ/j6ZObMlklspKHQ5iBRD5CB3TkOH4SiZnSt/1S5ClsLaTze7Ss8sQaG8U30l4/QpxBF1QP2Vh6kCjx2riEgAkScEPqp/CVA=;zoFMJO4BWPct9oyCqubePg=="

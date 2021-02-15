@@ -175,6 +175,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Governors tell Biden in letter some vaccine efforts are creating confusion and inefficiency"
+    excerpt: "A bipartisan group of governors expressed concern Monday at the Biden administration's vaccine rollout, writing in a letter to the White House that better coordination is needed between the federal government and states on distributing doses to prevent confusion and duplicative efforts.\n    \n"
+    publishedDateTime: 2021-02-15T22:12:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dPqDyrWZyM0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/15/politics/governors-biden-vaccine-distribution/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/15/politics/governors-biden-vaccine-distribution/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210128222731-02-johnson-and-johnson-vaccine-trial-121520-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration is 'not where we want to be' on genetic sequencing of Covid-19 variants"
     excerpt: "With coronavirus variants posing a serious threat to President Joe Biden's efforts to contain the pandemic, a Biden official tells CNN that the administration is still simply \"not where we want to be\" on surveillance of mutations in the US -- and simultaneously worried that Americans will grow increasingly"
     publishedDateTime: 2021-02-11T12:01:41Z

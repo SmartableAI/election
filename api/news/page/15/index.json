@@ -2,6 +2,118 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-01-25-democrats-showing-shockingly-bad-judgment-with-trump-impeachment-focus-cornyn.md",
+      "title": "Democrats showing 'shockingly bad judgment' with Trump impeachment focus: Cornyn",
+      "excerpt": "Sen. John Cornyn, R-Texas, admonished Democrats against pursuing another impeachment trial against former President Donald Trump, saying Monday it shows \"shockingly bad judgment.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UZXB0EGTKm0/democrats-showing-shockingly-bad-judgment-with-trump-impeachment-focus-cornyn",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UZXB0EGTKm0/democrats-showing-shockingly-bad-judgment-with-trump-impeachment-focus-cornyn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 210,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6df6e525-5569-4d10-9efc-e2e13414355d/5ad2f01c-aceb-44c0-8ea1-25f2ec90acd4/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/democrats-showing-shockingly-bad-judgment-with-trump-impeachment-focus-cornyn.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-showing-shockingly-bad-judgment-with-trump-impeachment-focus-cornyn.amp",
+      "publishedDateTime": "2021-01-25T13:27:01-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-25-white-house-recommits-to-getting-harriet-tubman-on-20-bill-after-trump-delay.md",
+      "title": "White House recommits to getting Harriet Tubman on $20 bill after Trump delay",
+      "excerpt": "The Biden administration says it is \"exploring ways to speed up\" release of $20 bills featuring Harriet Tubman after the Trump administration delayed the move first initiated by President Barack Obama.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Cyd-ihpMsnw/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Cyd-ihpMsnw/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200220173132-harriet-tubman-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/25/politics/harriet-tubman-20-biden-trump-obama/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/harriet-tubman-20-biden-trump-obama/index.html",
+      "publishedDateTime": "2021-01-25T11:16:55-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-26-trump-is-threatening-to-form-the-patriot-party-that-name-has-already-been-used-by-hillbilly-socialists.md",
       "title": "Trump is threatening to form the Patriot Party. That name has already been used — by ‘hillbilly’ socialists.",
       "excerpt": "The original Patriot Party was a group of socialist radicals who sought to stoke revolutionary fervor among poor and working-class White people, decking themselves out in Confederate flags while taking their political inspiration from the Black Panthers.",
@@ -1232,119 +1344,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-24-biden-uks-boris-johnson-discuss-paris-accord-trade-coronavirus.md",
-      "title": "Biden, UK's Boris Johnson discuss Paris accord, trade, coronavirus",
-      "excerpt": "President Biden had his first phone call with British Prime Minister Boris Johnson on Saturday, where Johnson pressed the new president for a U.S.-U.K. trade deal. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zc_6kiHuKl8/biden-uks-boris-johnson-discuss-paris-accord-trade-coronavirus",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zc_6kiHuKl8/biden-uks-boris-johnson-discuss-paris-accord-trade-coronavirus",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 415,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/Joe-Biden-Oval-Office-2.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-uks-boris-johnson-discuss-paris-accord-trade-coronavirus.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-uks-boris-johnson-discuss-paris-accord-trade-coronavirus.amp",
-      "publishedDateTime": "2021-01-23T17:20:26-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-24-biden-to-mayors-things-are-going-to-get-worse.md",
-      "title": "Biden to mayors: “Things are going to get worse”",
-      "excerpt": "President Joe Biden warned the pandemic will get worse in the next several months, and he urged more personal responsibility. NBC News confirmed former President Trump engaged in a plan to upend the Justice Department to overturn the election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/nightly-news/video/biden-to-mayors-things-are-going-to-get-worse-99925573654",
-      "originalUrl": "https://www.nbcnews.com/nightly-news/video/biden-to-mayors-things-are-going-to-get-worse-99925573654",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202101/nn_kod_biden_agenda_trump_impeachment_210123_1611447127689.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo99925573654",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo99925573654",
-      "publishedDateTime": "2021-01-23T16:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     }
   ],

@@ -288,6 +288,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Biden Agenda Faces GOP Seeking to Unify in Opposition After Trump Impeachment"
+    excerpt: "Democrats are turning to cabinet nominees and pandemic relief, but some Republicans are already signaling their opposition to the president’s plans."
+    publishedDateTime: 2021-02-15T21:51:00Z
+    webUrl: "https://www.wsj.com/articles/impeachment-over-biden-agenda-faces-congressional-gop-seeking-to-unify-in-opposition-11613336802?mod=newsviewer_click"
+    ampWebUrl: "https://www.wsj.com/amp/articles/impeachment-over-biden-agenda-faces-congressional-gop-seeking-to-unify-in-opposition-11613336802"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/impeachment-over-biden-agenda-faces-congressional-gop-seeking-to-unify-in-opposition-11613336802"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 147
+    images:
+      - url: "https://images.wsj.net/im-299229/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Psaki: Biden not weighing in on Trump impeachment trial because 'he's not a pundit’"
     excerpt: "White House Press Secretary Jen Psaki on Tuesday said President Biden is not weighing in on former President Donald Trump’s Senate impeachment trial because “he’s not a pundit,” while maintaining that he will not watch the proceedings."
     publishedDateTime: 2021-02-09T19:24:00Z
