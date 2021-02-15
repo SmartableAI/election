@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/14/trump-acquittal-bide
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/14/trump-acquittal-biden-urges-vigilance-to-defend-fragile-democracy-after-impeachment-trial"
 type: article
 quality: 129
-heat: 1269
+heat: 1289
 published: true
 
 provider:
@@ -703,6 +703,20 @@ related:
     quality: 105
     images:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/02/15/ee63b39e-e578-45b0-be2b-1dd09d8fcab2/thumbnail/1200x630/9dfa1666f7e9232acb232a89271996ff/cbsn-fusion-the-impact-of-trumps-second-acquittal-on-both-parties-moving-forward-thumbnail-646438-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Former President Trump's legal problems continue after acquittal"
+    excerpt: "The Senate may have acquitted President Trump in his second impeachment trial, but his legal problems are far from over. CBS News legal expert and analyst Rikki Klieman joined CBSN to break down the issues the former president is likely to face."
+    publishedDateTime: 2021-02-15T20:15:00Z
+    webUrl: "https://www.cbsnews.com/video/former-president-trumps-legal-problems-continue-after-acquittal/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/02/15/acdcb853-ccbe-46f4-8074-eb5565593091/thumbnail/1200x630/a3e05c62bdbc5cc32afe428208b78e00/cbsn-fusion-former-president-trumps-legal-problems-continue-after-acquittal-thumbnail-646642-640x360.jpg"
         width: 1200
         height: 630
         isCached: true

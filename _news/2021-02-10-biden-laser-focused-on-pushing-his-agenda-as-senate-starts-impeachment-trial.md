@@ -720,6 +720,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Former President Trump's legal problems continue after acquittal"
+    excerpt: "The Senate may have acquitted President Trump in his second impeachment trial, but his legal problems are far from over. CBS News legal expert and analyst Rikki Klieman joined CBSN to break down the issues the former president is likely to face."
+    publishedDateTime: 2021-02-15T20:15:00Z
+    webUrl: "https://www.cbsnews.com/video/former-president-trumps-legal-problems-continue-after-acquittal/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/02/15/acdcb853-ccbe-46f4-8074-eb5565593091/thumbnail/1200x630/a3e05c62bdbc5cc32afe428208b78e00/cbsn-fusion-former-president-trumps-legal-problems-continue-after-acquittal-thumbnail-646642-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump impeachment trial: After emotional first day, opening arguments begin today in historic second Senate trial"
     excerpt: "Opening arguments will begin Wednesday in Donald Trump’s impeachment trial after an emotional first day that wrenched senators back to the Jan. 6 attack on the U.S. Capitol."
     publishedDateTime: 2021-02-10T12:56:00Z

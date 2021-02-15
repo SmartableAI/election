@@ -128,6 +128,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "House Republicans caution Biden administration against weakening vetting of refugees"
+    excerpt: "EXCLUSIVE: More than two dozen House Republicans on Wednesday urged the Biden administration to oppose efforts to weaken screening for immigrants and refugees coming to the U.S. over national security concerns."
+    publishedDateTime: 2021-02-10T22:38:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/J04VIY6rmnA/house-republicans-biden-administration-vetting-for-refugees"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 148
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3e8d82c2-273b-4c5c-a9ad-ccd91dbd9bae/62e14652-1b7c-40c3-b0ea-aac58cd458bd/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "President Biden Outlines Foreign Policy Of \"Restoring America's Place In The World,\" Promises \"America Is Back\""
     excerpt: "President Joe Biden plans to deliver his first speech outlining his foreign policy goals as president during a visit to the State Department on Thursday afternoon at 2:45 p.m. He is expected to speak on the theme of \"restoring America's place in the world\" and outline how he plans to reverse isolationist Trump policies by rejoining the Paris climate agreement and renewing the New START nuclear treaty with Russia."
     publishedDateTime: 2021-02-05T01:37:00Z

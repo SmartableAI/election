@@ -239,6 +239,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump impeachment poll: 58% say he should have been convicted"
+    excerpt: "Nearly six in 10 Americans say that former President Trump should have been convicted in his Senate impeachment trial, according to a new national poll conducted after Saturday’s acquittal of the former president."
+    publishedDateTime: 2021-02-15T19:28:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zfDDERqVUIs/trump-impeachment-poll-majority-conviction"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-poll-majority-conviction.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-poll-majority-conviction.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Republican who called on Trump to resign admits conviction ‘very unlikely’"
     excerpt: "Sen. Pat Toomey, R-Pa., who has been a top critic of former President Trump and called for him to resign after last month’s riot at the Capitol, said in an interview Sunday that it is unlikely that the Senate will vote for a conviction on the one count of \"incitement of insurrection.\""
     publishedDateTime: 2021-02-08T09:41:35Z

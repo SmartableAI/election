@@ -239,6 +239,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump impeachment poll: 58% say he should have been convicted"
+    excerpt: "Nearly six in 10 Americans say that former President Trump should have been convicted in his Senate impeachment trial, according to a new national poll conducted after Saturday’s acquittal of the former president."
+    publishedDateTime: 2021-02-15T19:28:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zfDDERqVUIs/trump-impeachment-poll-majority-conviction"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-poll-majority-conviction.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-poll-majority-conviction.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump’s impeachment attorney goes viral after exchange with CBS reporter"
     excerpt: "Michael van der Veen, one of former President Trump’s lawyers at the impeachment trial, went viral Saturday after an interview with CBS News’ streaming service called CBSN."
     publishedDateTime: 2021-02-15T04:30:23Z

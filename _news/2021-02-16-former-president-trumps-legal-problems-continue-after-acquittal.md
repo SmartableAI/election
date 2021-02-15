@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Trump Impeachment: Legal Team Says Trial Is A 'Selfish' Act By Democrats"
-excerpt: "President Donald Trump's legal team on Monday lashed out against his Senate impeachment trial, arguing the case brought forth by Democrats seized on the nation's angered mood after the Capitol riots on Jan."
-publishedDateTime: 2021-02-08T18:28:00Z
-originalUrl: "https://www.ibtimes.com/trump-impeachment-legal-team-says-trial-selfish-act-democrats-3140502"
-webUrl: "https://www.ibtimes.com/trump-impeachment-legal-team-says-trial-selfish-act-democrats-3140502"
-ampWebUrl: "https://www.ibtimes.com/trump-impeachment-legal-team-says-trial-selfish-act-democrats-3140502?amp=1"
-cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-impeachment-legal-team-says-trial-selfish-act-democrats-3140502?amp=1"
+title: "Former President Trump's legal problems continue after acquittal"
+excerpt: "The Senate may have acquitted President Trump in his second impeachment trial, but his legal problems are far from over. CBS News legal expert and analyst Rikki Klieman joined CBSN to break down the issues the former president is likely to face."
+publishedDateTime: 2021-02-15T20:15:00Z
+originalUrl: "https://www.cbsnews.com/video/former-president-trumps-legal-problems-continue-after-acquittal/"
+webUrl: "https://www.cbsnews.com/video/former-president-trumps-legal-problems-continue-after-acquittal/"
 type: article
-quality: 74
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: CBS News
+  domain: cbsnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/06/donald-trump-is-the-only-us-president-ever.jpg"
-    width: 1024
-    height: 658
+  - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/02/15/acdcb853-ccbe-46f4-8074-eb5565593091/thumbnail/1200x630/a3e05c62bdbc5cc32afe428208b78e00/cbsn-fusion-former-president-trumps-legal-problems-continue-after-acquittal-thumbnail-646642-640x360.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -722,20 +720,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Former President Trump's legal problems continue after acquittal"
-    excerpt: "The Senate may have acquitted President Trump in his second impeachment trial, but his legal problems are far from over. CBS News legal expert and analyst Rikki Klieman joined CBSN to break down the issues the former president is likely to face."
-    publishedDateTime: 2021-02-15T20:15:00Z
-    webUrl: "https://www.cbsnews.com/video/former-president-trumps-legal-problems-continue-after-acquittal/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/02/15/acdcb853-ccbe-46f4-8074-eb5565593091/thumbnail/1200x630/a3e05c62bdbc5cc32afe428208b78e00/cbsn-fusion-former-president-trumps-legal-problems-continue-after-acquittal-thumbnail-646642-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Trump impeachment trial: After emotional first day, opening arguments begin today in historic second Senate trial"
     excerpt: "Opening arguments will begin Wednesday in Donald Trump’s impeachment trial after an emotional first day that wrenched senators back to the Jan. 6 attack on the U.S. Capitol."
     publishedDateTime: 2021-02-10T12:56:00Z
@@ -851,6 +835,22 @@ related:
         width: 6000
         height: 4000
         isCached: true
+  - title: "Trump Impeachment: Legal Team Says Trial Is A 'Selfish' Act By Democrats"
+    excerpt: "President Donald Trump's legal team on Monday lashed out against his Senate impeachment trial, arguing the case brought forth by Democrats seized on the nation's angered mood after the Capitol riots on Jan."
+    publishedDateTime: 2021-02-08T18:28:00Z
+    webUrl: "https://www.ibtimes.com/trump-impeachment-legal-team-says-trial-selfish-act-democrats-3140502"
+    ampWebUrl: "https://www.ibtimes.com/trump-impeachment-legal-team-says-trial-selfish-act-democrats-3140502?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-impeachment-legal-team-says-trial-selfish-act-democrats-3140502?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 74
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/06/donald-trump-is-the-only-us-president-ever.jpg"
+        width: 1024
+        height: 658
+        isCached: true
   - title: "Trump Defense Urges Dismissal Of 'Absurd' Impeachment Trial"
     excerpt: "Donald Trump's legal team argued Monday on the eve of his impeachment trial that the case is constitutionally flawed and it was \"absurd\" to hold the former president responsible for the US Capitol riot."
     publishedDateTime: 2021-02-08T18:03:00Z
@@ -908,6 +908,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "k9r/kMkQS5/CG+52zDzq4FCdg7bLNM+rmtEf3v+77QpaOmQNXnwl83bP8Qs0zqz1gYBAYoM5GVGnTXV7zQXCXZ0pEWKxBC+ae7tLact9yC8dguqk4iTXdgighz1zxJyfHecd1ixb4WdoyflRuyaGS5p7XNnVmGLLAbM3b7BlFLJiyzaBdkR4o6bBMg7b9Sh/yicLxcbFIejAQtPYWN/fMPyLk58RtafTHWjI4X8nqOiC4w13+S8BYUxK/rS2+gzctUxgpaKgcsSsIp5Y0vUc9b2TcfHDoMTLeSsHYOIUAkqRNrkysmN/h8RHdPsaQ2sDwV4YQ11ESEK3WdmmNEw34g55Au+Lf4N7p8Y4OJf6nQc=;LMVJS9TamjA8i/lX4vlAEg=="
+secured: "+jhcAmpbJDUUcWvteKWQjWbEl2/u2VtAYv5+Upm7TihkyC9ofIiBPSi1RAx+2EGOVGDFulKuyBxMJSTMbFJmGKzjl6oDYrDsIdRi7YMl71TVGnu5OG/UROlvnKD9UIEKg7UTeTmdePacfjjFLwyXoGRX/DOWzh3JiljXytim4mBo9qEgq83BibVXQJpjbW3xFDgk7CAJzM40Z8toQs4FbsVh13CcVGsaZYKqKZLP9jpM+Xwq9zRJEZaf/Pvee1xXWrRcDyZ2aG2m8z7zGV6qGIe4izIYp9nNVUD9AsFrYIbCk/uyplejPcUrchMYVCIAosooxHbxjAsgvvlUzjH89g5KJKwIeyENfoujeNP+jS4=;XW15YlQffF1oEZ6/0FWCLw=="
 ---
 

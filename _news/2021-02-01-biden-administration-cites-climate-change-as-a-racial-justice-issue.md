@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-admin-calls-climate-change-is
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-calls-climate-change-is-a-racial-justice-issue.amp"
 type: article
 quality: 175
-heat: 455
+heat: 475
 published: true
 
 provider:
@@ -220,6 +220,22 @@ related:
     quality: 169
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7d36f0ae-d23f-4400-8487-102bbb4800d0/2116710c-66fd-4195-a712-62b5ec4a67fc/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biggs introduces bill to bar Biden administration from mandating COVID-19 testing for domestic travel"
+    excerpt: "Rep. Andy Biggs on Monday introduced legislation to bar the Biden administration from introducing a mandate that passengers on domestic flights have a negative COVID-19 test before flying -- warning it would devastate the airline industry."
+    publishedDateTime: 2021-02-08T19:00:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cSfdsTXS7qM/biggs-biden-administration-covid-19-testing-domestic-travel"
+    ampWebUrl: "https://www.foxnews.com/politics/biggs-biden-administration-covid-19-testing-domestic-travel.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biggs-biden-administration-covid-19-testing-domestic-travel.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/06033aca-08b3-48f8-b198-95163a765304/d8e75191-a19d-41d7-b41c-27e56d336a1b/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

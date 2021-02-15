@@ -63,22 +63,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden budget nominee Neera Tanden could face testy hearings amid scrutiny of inflammatory tweets"
-    excerpt: "President Biden's pick for director of the White House Office of Management and Budget could find herself in unfriendly territory when she sits for two confirmation hearings this week after a history of enmity with lawmakers on both sides of the aisle."
-    publishedDateTime: 2021-02-08T17:23:37Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sdI3mwgwmzI/biden-budget-nominee-neera-tanden-confirmation-hearings-tweets"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-budget-nominee-neera-tanden-confirmation-hearings-tweets.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-budget-nominee-neera-tanden-confirmation-hearings-tweets.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ecb90e26-1a7c-435c-9c19-1954f1794e4a/6028a03c-dc91-4110-b09d-e04c086c1e52/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Biden DHS nominee Mayorkas says ICE should not be defunded, despite liberal calls"
     excerpt: "Alejandro Mayorkas, President-elect Joe Biden’s pick to lead the Department of Homeland Security, said Tuesday that Immigration and Customs Enforcement (ICE) should not be defunded -- while punting on whether parts of the border wall should be dismantled."
     publishedDateTime: 2021-01-19T18:53:00Z

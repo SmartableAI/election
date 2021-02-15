@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Harris claims Biden admin ‘starting from scratch’ on fighting coronavirus despite Fauci saying otherwise"
-excerpt: "Vice President Kamala Harris claimed in a new interview that the Biden administration is \"starting from scratch\" on a national vaccination strategy amid the coronavirus pandemic, despite Dr. Anthony Fauci saying otherwise last month."
-publishedDateTime: 2021-02-15T18:42:06Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zSxDWVAVBBY/harris-claims-biden-admin-starting-fighting-covid-fauci"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zSxDWVAVBBY/harris-claims-biden-admin-starting-fighting-covid-fauci"
-ampWebUrl: "https://www.foxnews.com/politics/harris-claims-biden-admin-starting-fighting-covid-fauci.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-claims-biden-admin-starting-fighting-covid-fauci.amp"
+title: "Meena Harris latest Biden, Harris family member to face scrutiny over business ventures"
+excerpt: "The White House has come out and stated that Vice President Kamala Harris' name will not be permitted to be used in conjunction with any commercial endeavors that could be seen as having her support, after a report said lawyers told her niece Meena Harris to stop using her name to help her brand."
+publishedDateTime: 2021-02-15T19:04:38Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4XliRfY34gU/meena-harris-latest-biden-harris-family-member-scrutiny-business-ventures"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4XliRfY34gU/meena-harris-latest-biden-harris-family-member-scrutiny-business-ventures"
+ampWebUrl: "https://www.foxnews.com/politics/meena-harris-latest-biden-harris-family-member-scrutiny-business-ventures.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/meena-harris-latest-biden-harris-family-member-scrutiny-business-ventures.amp"
 type: article
-quality: 183
-heat: -1
-published: false
+quality: 192
+heat: 272
+published: true
 
 provider:
   name: Fox News
@@ -26,27 +26,27 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Meena-Harris.jpg?ve=1&tl=1"
+    width: 640
+    height: 320
     isCached: true
 
 related:
-  - title: "Meena Harris latest Biden, Harris family member to face scrutiny over business ventures"
-    excerpt: "The White House has come out and stated that Vice President Kamala Harris' name will not be permitted to be used in conjunction with any commercial endeavors that could be seen as having her support, after a report said lawyers told her niece Meena Harris to stop using her name to help her brand."
-    publishedDateTime: 2021-02-15T19:04:38Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4XliRfY34gU/meena-harris-latest-biden-harris-family-member-scrutiny-business-ventures"
-    ampWebUrl: "https://www.foxnews.com/politics/meena-harris-latest-biden-harris-family-member-scrutiny-business-ventures.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/meena-harris-latest-biden-harris-family-member-scrutiny-business-ventures.amp"
+  - title: "Harris claims Biden admin ‘starting from scratch’ on fighting coronavirus despite Fauci saying otherwise"
+    excerpt: "Vice President Kamala Harris claimed in a new interview that the Biden administration is \"starting from scratch\" on a national vaccination strategy amid the coronavirus pandemic, despite Dr. Anthony Fauci saying otherwise last month."
+    publishedDateTime: 2021-02-15T18:42:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zSxDWVAVBBY/harris-claims-biden-admin-starting-fighting-covid-fauci"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-claims-biden-admin-starting-fighting-covid-fauci.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-claims-biden-admin-starting-fighting-covid-fauci.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 192
+    quality: 183
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Meena-Harris.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Biden budget nominee Neera Tanden could face testy hearings amid scrutiny of inflammatory tweets"
     excerpt: "President Biden's pick for director of the White House Office of Management and Budget could find herself in unfriendly territory when she sits for two confirmation hearings this week after a history of enmity with lawmakers on both sides of the aisle."
@@ -97,6 +97,6 @@ related:
         height: 320
         isCached: true
 
-secured: "injyUJuuZOxrFlgGNy/El6cG8uKXQCRvtSK6AdU6GLg/CucnpDZcJmgustsVZRfKC5CWypR6Uafn6KzvIdZAS2U4hOEEtfA0O3tkqqkLDOW4BUNuP79rMkYsRBGCJ8zEXfnE07lXv49bSagptwxSb5BMkeBAHzJATr1XAbSsmxGdzm753qPZ7bQKybaqrpgtrPOVut739xhRw8n9itONjsxMN9riHEI7n48lu3IXYtydGFHNs9CvUBWV+nv+NchUo9L69Cq/S6n1M9CnWX5SNSE6CCUvc4Fiyn6bhl8is/zsEjp4xPSod7r95kFpJY2JPrTxVrH/90WzMr/YgK7ebxya9OmmqxnNxYMvQQEpP0o=;mpGbLJkFOIZGcJ7VuF2D3g=="
+secured: "6A/BJMSPeQxdRCiyxwe7P9gBIF9Pa42Wu3g7lhlbCSrDz9bEc8StpXPyIMzJUglkYbLYgpKMzgqqKILqJiLvKsZkQflkLSE/jGsJ7j+wpOGBB6U+DVgRLSxL6n0bSOWD+n/HVYcF56rz3CQwxwHMvCJ1adhjLDtGlyw+gsN5HmaSfLDlvgE5Nf4A5cvFUhgI90B0PJ3EPhENDBI6wL5be5lXsKYpiVqeNzmyMou6y+JSCoCMKrW+tNMVid3jidV0DnnEcxn1bqYNr+938PRsocs/pBJ9K66S92zltZxunbRk2MLHzjL2ak+hZUyblAtLfe6uiQX12utggtnST74BtodIDtcTLtUBpA8wx3YXhYg=;qdGIO5//M8G9eLv+to1laQ=="
 ---
 

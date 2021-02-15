@@ -236,6 +236,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biggs introduces bill to bar Biden administration from mandating COVID-19 testing for domestic travel"
+    excerpt: "Rep. Andy Biggs on Monday introduced legislation to bar the Biden administration from introducing a mandate that passengers on domestic flights have a negative COVID-19 test before flying -- warning it would devastate the airline industry."
+    publishedDateTime: 2021-02-08T19:00:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cSfdsTXS7qM/biggs-biden-administration-covid-19-testing-domestic-travel"
+    ampWebUrl: "https://www.foxnews.com/politics/biggs-biden-administration-covid-19-testing-domestic-travel.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biggs-biden-administration-covid-19-testing-domestic-travel.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/06033aca-08b3-48f8-b198-95163a765304/d8e75191-a19d-41d7-b41c-27e56d336a1b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "What about COVID? Biden aide says climate change ‘most significant public health challenge of our time’"
     excerpt: "White House domestic climate adviser Gina McCarthy said Tuesday that climate change poses the “most significant public health challenge of our time.” "
     publishedDateTime: 2021-01-27T21:27:02Z

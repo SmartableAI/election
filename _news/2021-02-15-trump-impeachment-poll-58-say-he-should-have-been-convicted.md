@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Democratic impeachment prosecutors use rioters' words against Trump at trial: 'We were invited here'"
-excerpt: "House impeachment managers Thursday sought to directly connect former President Trump to the Jan. 6 violence at the Capitol by playing statements of the rioters who said they were acting on Trump's request."
-publishedDateTime: 2021-02-11T20:31:00Z
-originalUrl: "https://www.foxnews.com/politics/democratic-impeachment-prosecutors-use-trumps-rioters-words-against-him-we-were-invited-here"
-webUrl: "https://www.foxnews.com/politics/democratic-impeachment-prosecutors-use-trumps-rioters-words-against-him-we-were-invited-here"
-ampWebUrl: "https://www.foxnews.com/politics/democratic-impeachment-prosecutors-use-trumps-rioters-words-against-him-we-were-invited-here.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democratic-impeachment-prosecutors-use-trumps-rioters-words-against-him-we-were-invited-here.amp"
+title: "Trump impeachment poll: 58% say he should have been convicted"
+excerpt: "Nearly six in 10 Americans say that former President Trump should have been convicted in his Senate impeachment trial, according to a new national poll conducted after Saturday’s acquittal of the former president."
+publishedDateTime: 2021-02-15T19:28:26Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zfDDERqVUIs/trump-impeachment-poll-majority-conviction"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zfDDERqVUIs/trump-impeachment-poll-majority-conviction"
+ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-poll-majority-conviction.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-poll-majority-conviction.amp"
 type: article
-quality: 120
+quality: 175
 heat: -1
 published: false
 
@@ -22,13 +22,12 @@ provider:
 
 topics:
   - Election
-  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Diana-DeGette.jpg?ve=1&tl=1"
-    width: 640
-    height: 320
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+    width: 340
+    height: 340
     isCached: true
 
 related:
@@ -239,22 +238,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/05/640/320/Richard-Burr-2.jpg?ve=1&tl=1"
         width: 640
         height: 320
-        isCached: true
-  - title: "Trump impeachment poll: 58% say he should have been convicted"
-    excerpt: "Nearly six in 10 Americans say that former President Trump should have been convicted in his Senate impeachment trial, according to a new national poll conducted after Saturday’s acquittal of the former president."
-    publishedDateTime: 2021-02-15T19:28:26Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zfDDERqVUIs/trump-impeachment-poll-majority-conviction"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-poll-majority-conviction.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-poll-majority-conviction.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
   - title: "Trump’s impeachment attorney goes viral after exchange with CBS reporter"
     excerpt: "Michael van der Veen, one of former President Trump’s lawyers at the impeachment trial, went viral Saturday after an interview with CBS News’ streaming service called CBSN."
@@ -1518,6 +1501,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Democratic impeachment prosecutors use rioters' words against Trump at trial: 'We were invited here'"
+    excerpt: "House impeachment managers Thursday sought to directly connect former President Trump to the Jan. 6 violence at the Capitol by playing statements of the rioters who said they were acting on Trump's request."
+    publishedDateTime: 2021-02-11T20:31:00Z
+    webUrl: "https://www.foxnews.com/politics/democratic-impeachment-prosecutors-use-trumps-rioters-words-against-him-we-were-invited-here"
+    ampWebUrl: "https://www.foxnews.com/politics/democratic-impeachment-prosecutors-use-trumps-rioters-words-against-him-we-were-invited-here.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democratic-impeachment-prosecutors-use-trumps-rioters-words-against-him-we-were-invited-here.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 120
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Diana-DeGette.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "ABC's Terry Moran compares 'personalized power' Trump has over GOP to a 'Führer' amid impeachment trial"
     excerpt: "During ABC News' coverage of the impeachment trial of former President Donald Trump, senior national correspondent Terry Moran compared the power the 45th president has over the GOP to that of a \"Fuhrer."
     publishedDateTime: 2021-02-11T09:13:00Z
@@ -1633,6 +1632,6 @@ related:
         height: 720
         isCached: true
 
-secured: "zvz+VFg74V3cUJUjZgh+c2Ndo4G85VBBhMQQ2FYWGQwXrDUf90iHwpSG9uFnBNDLjBqjnxLT65aDCZ2/lY24ZAeFa3lieUckMy4Q1WW4EMaJtqrGc5umuftNpkAiXgfKx/KkFbjwyD/YiyRiPgcy4XkcOw95QkGRycrGt3e2OtYb8W3JtAtgK6S6l5Ab6bmnpYb2Dq+1hUNcx1s6YZ74/mXvUnNtGj9PvigQMYeTmCVzpT/QfOwpv0OyP4aKFU5diwIYM+HS0OHu1BqlEUqp3K4zHA1RSjREX3yKz9WSXQzx8/feEfwU+2K3TJM1SQziPhP8rTEcojwAC27V6jmWXpBaFNyX5NlWOrXkKmKhgA+3KuLSWlFXsTdwxyfYYk4tYrvtK6A9rLbQQ2eAjfssYuERd/Sngcc/AO7LgGwirovnBENvFzKfSGEIxxEqfyQmJFKvWXshEvgppBQQ/7tnaV/+xdtFN4Y93ijOf/YP0jgxIeHjMpVnmK1rPvjPCLhFQA7pYdybQwZQPzSlBoAyZw==;KRf4L/U4CFJW/+zofp3puQ=="
+secured: "lhrn8qmMnng/o+PTnNvNZkRdK2gYTUVNzTup1w1SoPatM4WBSNW5uMtzBNKOxkr23nSGteh33q5b+yMTMX0OWM6tdqrE0VB/Sd7D4ItSXyvaCrufP6yxYRas48cwFSE/hXU/ix4PV2U0s7vTD5tF2Wl3dBxNrOtjKMRdCgzxFO+8VfvpvPohh+WcLLhuUcNayz/JLQraj/u1MnD6BnmHAB+osm5/KGRQtvv9+AzSrAg3fmGnStpFAL6I12iM79IwPsf/4KMNAZ+QnX1Q1Ieqxecns65EsKx5I/EIt1up9P6b4HKmO1uydwuTOBclHSgJDwX75arz8DQDSpOOxTRVou99CJ+jeSTYtI9/9iT8xKU=;wDMkGmaTzMrI2ZjsRt+uKA=="
 ---
 

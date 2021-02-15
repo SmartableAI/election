@@ -31,85 +31,69 @@ images:
     isCached: true
 
 related:
-  - title: "Biden OMB nominee Neera Tanden received $731G salary from liberal nonprofit"
-    excerpt: "One of President-elect Biden's top Cabinet appointees earned more than $700,000 as the head of a leading liberal nonprofit, her financial disclosures reveal."
-    publishedDateTime: 2021-01-12T12:42:27Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/N9aSYGkiKDI/neera-tanden-salary-center-for-american-progress"
-    ampWebUrl: "https://www.foxnews.com/politics/neera-tanden-salary-center-for-american-progress.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/neera-tanden-salary-center-for-american-progress.amp"
+  - title: "Meena Harris latest Biden, Harris family member to face scrutiny over business ventures"
+    excerpt: "The White House has come out and stated that Vice President Kamala Harris' name will not be permitted to be used in conjunction with any commercial endeavors that could be seen as having her support, after a report said lawyers told her niece Meena Harris to stop using her name to help her brand."
+    publishedDateTime: 2021-02-15T19:04:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4XliRfY34gU/meena-harris-latest-biden-harris-family-member-scrutiny-business-ventures"
+    ampWebUrl: "https://www.foxnews.com/politics/meena-harris-latest-biden-harris-family-member-scrutiny-business-ventures.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/meena-harris-latest-biden-harris-family-member-scrutiny-business-ventures.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 173
+    quality: 192
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ecb90e26-1a7c-435c-9c19-1954f1794e4a/6028a03c-dc91-4110-b09d-e04c086c1e52/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Meena-Harris.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Biden DHS nominee Mayorkas says ICE should not be defunded, despite liberal calls"
-    excerpt: "Alejandro Mayorkas, President-elect Joe Biden’s pick to lead the Department of Homeland Security, said Tuesday that Immigration and Customs Enforcement (ICE) should not be defunded -- while punting on whether parts of the border wall should be dismantled."
-    publishedDateTime: 2021-01-19T18:47:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/d8CARCqXwKI/biden-dhs-nominee-mayorkas-ice-border-wall"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-dhs-nominee-mayorkas-ice-border-wall.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-dhs-nominee-mayorkas-ice-border-wall.amp"
+  - title: "Harris claims Biden admin ‘starting from scratch’ on fighting coronavirus despite Fauci saying otherwise"
+    excerpt: "Vice President Kamala Harris claimed in a new interview that the Biden administration is \"starting from scratch\" on a national vaccination strategy amid the coronavirus pandemic, despite Dr. Anthony Fauci saying otherwise last month."
+    publishedDateTime: 2021-02-15T18:42:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zSxDWVAVBBY/harris-claims-biden-admin-starting-fighting-covid-fauci"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-claims-biden-admin-starting-fighting-covid-fauci.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-claims-biden-admin-starting-fighting-covid-fauci.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 170
+    quality: 183
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7baa239c-c9dc-4831-889a-81c96eec5853/f9d51ab7-a9dd-45a8-887e-17b573376bce/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Biden labor secretary nominee once linked to federal probe of union strong-arm tactics"
-    excerpt: "Walsh faced scrutiny in 2016 after the Boston Globe reported that his name had surfaced during a federal investigation into allegations that unions had improperly pressured developers and businesses to hire union workers for their projects."
-    publishedDateTime: 2021-01-11T21:16:33Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aqSc8hUqhxM/biden-labor-secretary-nominee-federal-probe-union-strong-arm-tactics"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-labor-secretary-nominee-federal-probe-union-strong-arm-tactics.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-labor-secretary-nominee-federal-probe-union-strong-arm-tactics.amp"
+  - title: "Dozens of celebrities call on Joe Biden, Kamala Harris to shut down the Dakota Access Pipeline"
+    excerpt: "Dozens of celebrities signed a letter to President Joe Biden and Vice President Kamala Harris calling on their administration to shut down the Dakota Access Pipeline for good."
+    publishedDateTime: 2021-02-10T15:21:00Z
+    webUrl: "https://www.foxnews.com/entertainment/dozens-of-celebrities-call-on-joe-biden-kamala-harris-to-shut-down-the-dakota-access-pipeline"
+    ampWebUrl: "https://www.foxnews.com/entertainment/dozens-of-celebrities-call-on-joe-biden-kamala-harris-to-shut-down-the-dakota-access-pipeline.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/dozens-of-celebrities-call-on-joe-biden-kamala-harris-to-shut-down-the-dakota-access-pipeline.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 167
+    quality: 138
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/202402d4-6106-46ae-a764-2c7fa6dc8963/4f9b4123-49d8-41a5-af1a-c3c229485753/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/CelebsReact21.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Biden DHS nominee Mayorkas says ICE should not be defunded, despite liberal calls"
-    excerpt: "Alejandro Mayorkas, President-elect Joe Biden’s pick to lead the Department of Homeland Security, said Tuesday that Immigration and Customs Enforcement (ICE) should not be defunded -- while punting on whether parts of the border wall should be dismantled."
-    publishedDateTime: 2021-01-19T18:53:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-dhs-nominee-mayorkas-ice-border-wall"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-dhs-nominee-mayorkas-ice-border-wall.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-dhs-nominee-mayorkas-ice-border-wall.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 130
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7baa239c-c9dc-4831-889a-81c96eec5853/f9d51ab7-a9dd-45a8-887e-17b573376bce/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden labor secretary nominee once linked to federal probe of union strong-arm tactics"
-    excerpt: "Walsh faced scrutiny in 2016 after the Boston Globe reported that his name had surfaced during a federal investigation into allegations that unions had improperly pressured developers and businesses to hire union workers for their projects."
-    publishedDateTime: 2021-01-11T21:29:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-labor-secretary-nominee-federal-probe-union-strong-arm-tactics"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-labor-secretary-nominee-federal-probe-union-strong-arm-tactics.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-labor-secretary-nominee-federal-probe-union-strong-arm-tactics.amp"
+  - title: "White House lawyers tell Meena Harris to stop using aunt Kamala to build brand: report"
+    excerpt: "Vice President Kamala Harris’ social-media-influencer niece has long used her aunt’s fame to boost her own personal brand — but now that Harris has entered the White House, aides have become increasingly concerned about the ethical implications of the promotional pattern,"
+    publishedDateTime: 2021-02-14T12:27:00Z
+    webUrl: "https://www.foxnews.com/politics/white-house-lawyers-meena-harris-kamala-harris-niece"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-lawyers-meena-harris-kamala-harris-niece.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-lawyers-meena-harris-kamala-harris-niece.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 127
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/202402d4-6106-46ae-a764-2c7fa6dc8963/4f9b4123-49d8-41a5-af1a-c3c229485753/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Meena-Harris-GETTY.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "bocVg72w/vv4tH2piWUZc07rdKR1juEhPo73JRqbaV+4gTRpQ0Q9iXA1ISsb6z+tFJPHGkhsYusfx7/SntjFOln7ECmXAQtNHuLqdU+dV0wdgrGnCo43VVBQbhIoqvWRl6SAYzkFN5crBt/1IfWiISlNl0ZVq8I107kszD4zFYsDDQxpcvpsOpPpkSKs+P+cDF9AiGh8i7hYYahC3WSRpsvmR5A4rgnP7HGNLOIbBPWMd3YHOfHukohIMsSghlEwVOoB8Asz8WvE30VyOsKHjthsbCLBRzyeFTJj3Ttif0ZDyiBf0zLxITMopdEUBCYkSj2gCyV8Gfa1HyEaGrXYb5H/MFMouRAAuXKV+cHdj7I=;Jc+ccV3iz3fZWGG3liEmjg=="
