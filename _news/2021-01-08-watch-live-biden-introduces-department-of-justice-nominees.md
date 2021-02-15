@@ -1512,6 +1512,20 @@ related:
         width: 1120
         height: 629
         isCached: true
+  - title: "The Biden presidency starts today"
+    excerpt: "JOE BIDEN has been president for 26 days, but today is the unofficial start of his presidency. It’s the first day of the post-Trump era. Biden’s November and December transition period was dominated by DONALD TRUMP,"
+    publishedDateTime: 2021-02-15T15:38:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook/2021/02/15/the-biden-presidency-starts-today-491750"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/0d/09/043dca8a403aa9956dd0210ab404/gettyimages-1231087536.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "‘They should be flat beaten’: Biden blasts Cruz, Hawley after Capitol attack"
     excerpt: "President-elect Joe Biden said on Friday that Sens. Ted Cruz and Josh Hawley should be \"flat beaten\" in their next elections for their roles in contesting the 2020 election results. Biden made the remarks following calls from members of Congress for Cruz and Hawley to resign after rioters heeding President Donald Trump's call to contest the election results raided the Capitol."
     publishedDateTime: 2021-01-08T21:07:00Z

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-16-fact-check-courts-have-dismissed-multiple-lawsuits-of-alleged-electoral-fraud-presented-by-trump-campaign.md",
+      "title": "Fact check: Courts have dismissed multiple lawsuits of alleged electoral fraud presented by Trump campaign",
+      "excerpt": "Following President Joe Biden’s swearing in on Jan. 20, a Facebook post shared over 6,140 times has said: “Not one court has looked at the evidence and said that Biden legally won. Not one”. This is false: state and federal judges dismissed more than 50 lawsuits",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/uk-factcheck-courts-election-idUSKBN2AF1G1",
+      "originalUrl": "https://www.reuters.com/article/uk-factcheck-courts-election-idUSKBN2AF1G1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210215&t=2&i=1551606644&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1E0T8",
+          "width": 818,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2AF1G1",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AF1G1",
+      "publishedDateTime": "2021-02-15T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-15-trumps-indonesia-partner-to-build-movie-studio-after-securing-tax-breaks.md",
       "title": "Trump's Indonesia partner to build movie studio after securing tax breaks",
       "excerpt": "Indonesian tycoon Hary Tanoesoedibjo, a business partner of former U.S. president Donald Trump, launched on Monday construction on a movie studio as part of a tourism complex on Java island that is set to receive tax breaks.",
@@ -412,63 +464,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-14-schiff-ponders-life-beyond-the-house-as-focus-shifts-from-trump.md",
-      "title": "Schiff ponders life beyond the House as focus shifts from Trump",
-      "excerpt": "Speaker Nancy Pelosi, an ally, has lent some muscle to Adam Schiff’s bid to become California's attorney general.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/02/14/adam-schiff-future-468949",
-      "originalUrl": "https://www.politico.com/news/2021/02/14/adam-schiff-future-468949",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/b4/04/01342b3c4ef699ea410e681d31e9/20200911-adamschiff-gty-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-14T04:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     },
     {

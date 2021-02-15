@@ -191,6 +191,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Group of Republicans look to form anti-Trump party"
+    excerpt: "After former President Trump was acquitted at his second impeachment trial, some conservatives are looking to form a separate political party to distance themselves from those loyal to Mr. Trump. Evan McMullin,"
+    publishedDateTime: 2021-02-15T16:58:00Z
+    webUrl: "https://www.cbsnews.com/video/group-of-republicans-look-to-form-anti-trump-party/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/02/15/cb6aab64-2cd0-41f2-9c6c-6f324a479901/thumbnail/1200x630/cfee6a8b83d99468a12d071db3ec9ef0/0215-cbsn-qen-repantitrumpparty-646566-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Stacey Plaskett: Trump Trial Needed 'More Senators With Spines, Not More Witnesses'"
     excerpt: "Plaskett, a House manager in former President Trump's Senate trial, defends the decision not to call witnesses. \"As all Americans believed at that moment, the evidence was overwhelming,\" she says."
     publishedDateTime: 2021-02-14T16:29:00Z

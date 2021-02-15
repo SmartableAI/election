@@ -789,6 +789,22 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 102
+  - title: "Trump prepares for the next phase of his post-presidency life, looks to reassert himself after impeachment acquittal"
+    excerpt: "Lago, surrounded by friends and family. His lawyers celebrated with hugs and smiles. One joked, “We’re going to Disney World!”"
+    publishedDateTime: 2021-02-15T15:06:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-impeachment-acquittal-20210215-gqpkoojekvfirnztcfwy2elruy-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-impeachment-acquittal-20210215-gqpkoojekvfirnztcfwy2elruy-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-impeachment-acquittal-20210215-gqpkoojekvfirnztcfwy2elruy-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 102
+    images:
+      - url: "https://www.chicagotribune.com/resizer/RmA11gNSM9Sq1OtVEPCyc_trZas=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/FC4JH6NDGKFFCD6C3CFWSEH7VM.aspx"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Senate votes to acquit Donald Trump in second impeachment trial"
     excerpt: "Enough senators have cast “not guilty” votes to acquit Donald Trump of inciting the Jan. 6 attack on the U.S. Capitol. The vote will give the former president an historic second acquittal in an. House Democrats,"
     publishedDateTime: 2021-02-13T19:56:00Z

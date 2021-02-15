@@ -207,6 +207,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Graham backs Lara Trump for Senate in NC, as Walker hits back"
+    excerpt: "Republican Senate candidate Mark Walker is pushing back against a prediction by Sen. Lindsey Graham that former President Trump's daughter-in-law Lara Trump is now a shoe-in to win the 2022 GOP primary in North Carolina."
+    publishedDateTime: 2021-02-15T16:16:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bLDH-WxyArU/graham-lara-trump-nc-senate-mark-walker"
+    ampWebUrl: "https://www.foxnews.com/politics/graham-lara-trump-nc-senate-mark-walker.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/graham-lara-trump-nc-senate-mark-walker.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Republican who called on Trump to resign admits conviction ‘very unlikely’"
     excerpt: "Sen. Pat Toomey, R-Pa., who has been a top critic of former President Trump and called for him to resign after last month’s riot at the Capitol, said in an interview Sunday that it is unlikely that the Senate will vote for a conviction on the one count of \"incitement of insurrection.\""
     publishedDateTime: 2021-02-08T09:41:35Z
@@ -1274,6 +1290,38 @@ related:
     quality: 135
     images:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/lindsey-graham-1.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Graham backs Lara Trump for Senate in NC, as Walker hits back"
+    excerpt: "Republican Senate candidate Mark Walker is pushing back against a prediction by Sen. Lindsey Graham that former President Trump's daughter-in-law Lara Trump is now a shoe-in to win the 2022 GOP primary in North Carolina."
+    publishedDateTime: 2021-02-15T16:20:00Z
+    webUrl: "https://www.foxnews.com/politics/graham-lara-trump-nc-senate-mark-walker"
+    ampWebUrl: "https://www.foxnews.com/politics/graham-lara-trump-nc-senate-mark-walker.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/graham-lara-trump-nc-senate-mark-walker.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "State GOP may censure Sen. Richard Burr over Trump vote"
+    excerpt: "The North Carolina Republican Party is saying it will vote later Monday on whether to censure GOP Sen. Richard Burr for voting to convict former President Donald Trump at his Senate impeachment"
+    publishedDateTime: 2021-02-15T16:39:00Z
+    webUrl: "https://nypost.com/2021/02/15/state-gop-may-censure-sen-richard-burr-over-trump-vote/"
+    ampWebUrl: "https://nypost.com/2021/02/15/state-gop-may-censure-sen-richard-burr-over-trump-vote/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/15/state-gop-may-censure-sen-richard-burr-over-trump-vote/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/646324458.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true

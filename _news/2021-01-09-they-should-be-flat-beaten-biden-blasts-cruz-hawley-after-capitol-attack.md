@@ -1526,6 +1526,20 @@ related:
         width: 1120
         height: 629
         isCached: true
+  - title: "The Biden presidency starts today"
+    excerpt: "JOE BIDEN has been president for 26 days, but today is the unofficial start of his presidency. It’s the first day of the post-Trump era. Biden’s November and December transition period was dominated by DONALD TRUMP,"
+    publishedDateTime: 2021-02-15T15:38:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook/2021/02/15/the-biden-presidency-starts-today-491750"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/0d/09/043dca8a403aa9956dd0210ab404/gettyimages-1231087536.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Biden eyeing ways to prevent impeachment from derailing Senate confirmations"
     excerpt: "A Trump trial in the early days of the new administration would throw a wrench into the battle to confirm nominees."
     publishedDateTime: 2021-01-11T21:46:00Z

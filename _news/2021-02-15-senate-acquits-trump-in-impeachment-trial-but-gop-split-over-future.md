@@ -624,6 +624,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Analyzing Trump's legal challenges after Senate impeachment acquittal"
+    excerpt: "After former President Donald Trump was acquitted by the Senate in his second impeachment trial, NBC News' Danny Cevallos analyzes the criminal probes and legal challenges that the president could still face."
+    publishedDateTime: 2021-02-15T15:59:00Z
+    webUrl: "https://www.nbcnews.com/now/video/analyzing-trump-s-legal-challenges-after-senate-impeachment-acquittal-101047877860"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo101047877860"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo101047877860"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202102/1613404655658_ott_now_am_trump_legal_challenges_210215_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Trump impeachment live updates: Democrats deliver arguments in Senate trial"
     excerpt: "House Democrats are set to begin arguments on Wednesday in the second impeachment trial of former President Donald Trump, the only president in U.S. history to face impeachment twice. The Senate voted to proceed with the trial on Tuesday after hearing around four hours of debate around the constitutionality of impeaching a former official."
     publishedDateTime: 2021-02-10T11:03:00Z
