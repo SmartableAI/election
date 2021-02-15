@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/14/trump-acquittal-bide
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/14/trump-acquittal-biden-urges-vigilance-to-defend-fragile-democracy-after-impeachment-trial"
 type: article
 quality: 129
-heat: 1229
+heat: 1249
 published: true
 
 provider:
@@ -689,6 +689,20 @@ related:
     quality: 105
     images:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/7844f7d/2147483647/strip/true/crop/480x252+0+54/resize/1200x630!/quality/90/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F9lc6Sl1WwXY%2Fhqdefault.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "The impact of Trump's second acquittal on both parties"
+    excerpt: "The Senate acquitted former President Trump of charges he incited the deadly insurrection at the U.S. Capitol. CBSN's Vladimir Duthiers spoke with Antjuan Seawright, a CBS News political contributor and a Democratic strategist,"
+    publishedDateTime: 2021-02-15T14:14:00Z
+    webUrl: "https://www.cbsnews.com/video/the-impact-of-trumps-second-acquittal-on-both-parties/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/02/15/ee63b39e-e578-45b0-be2b-1dd09d8fcab2/thumbnail/1200x630/9dfa1666f7e9232acb232a89271996ff/cbsn-fusion-the-impact-of-trumps-second-acquittal-on-both-parties-moving-forward-thumbnail-646438-640x360.jpg"
         width: 1200
         height: 630
         isCached: true

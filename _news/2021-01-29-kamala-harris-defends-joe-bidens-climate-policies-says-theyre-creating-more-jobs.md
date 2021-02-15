@@ -1188,6 +1188,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 120
+  - title: "Biden forges ahead after Trump's trial ends"
+    excerpt: "Watch \"President Biden forges ahead with agenda after Trump's second impeachment trial ends\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-02-15T14:20:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210215140342-president-biden-forges-ahead-with-agenda-after-trumps-second-impeachment-trial-ends/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/2014/10/24/81f260db-0e27-4cf7-83ac-a190dca0b384/slatedvr600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Birx both exemplifies and blames the cherry-picking that shaped the Trump presidency"
     excerpt: "Birx offered then-President Donald Trump an unusual compliment in an interview last March. “He’s been so attentive to the scientific literature and the details and the data,” the coordinator of the White House's coronavirus pandemic response said in an interview with the conservative network CBN."
     publishedDateTime: 2021-01-25T22:17:00Z

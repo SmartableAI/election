@@ -708,6 +708,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The impact of Trump's second acquittal on both parties"
+    excerpt: "The Senate acquitted former President Trump of charges he incited the deadly insurrection at the U.S. Capitol. CBSN's Vladimir Duthiers spoke with Antjuan Seawright, a CBS News political contributor and a Democratic strategist,"
+    publishedDateTime: 2021-02-15T14:14:00Z
+    webUrl: "https://www.cbsnews.com/video/the-impact-of-trumps-second-acquittal-on-both-parties/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/02/15/ee63b39e-e578-45b0-be2b-1dd09d8fcab2/thumbnail/1200x630/9dfa1666f7e9232acb232a89271996ff/cbsn-fusion-the-impact-of-trumps-second-acquittal-on-both-parties-moving-forward-thumbnail-646438-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump's second impeachment trial threatens to overshadow Covid relief talks"
     excerpt: "The second Senate impeachment trial of former President Donald Trump is set to begin tomorrow on Capitol Hill. This comes as President Joe Biden urges Congress to pass his $1.9 trillion COVID-19 relief package."
     publishedDateTime: 2021-02-08T14:54:00Z

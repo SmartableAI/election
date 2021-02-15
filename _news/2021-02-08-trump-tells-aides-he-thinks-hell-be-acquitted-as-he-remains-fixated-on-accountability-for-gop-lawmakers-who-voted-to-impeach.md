@@ -47,6 +47,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Acquittal means Trump will loom large in upcoming election contests"
+    excerpt: "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter."
+    publishedDateTime: 2021-02-15T14:07:00Z
+    webUrl: "https://www.nbcnews.com/politics/meet-the-press/acquittal-means-trump-will-loom-large-upcoming-election-contests-n1257938"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
+    images:
+      - url: "https://media1.s-nbcnews.com/j/newscms/2021_07/3450196/210215-donald-trump-mc-12382_e59fc92ce31ccb96d8a2bcdab73f03a0.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "o4XHVjJ2kqTJo/hnZhKy2WrNLYXvSdfKKZRIyTPr9ZyPKMW1WicNh/kU2inwhTullD4/amPxPPhdDndsN2NH30eQGi581pFBpXLgqx3sKWIqN5lgraFOZaCobDqfQ/gZbP/CIci4p3KhYtROVhZTUJ6PZEIyWdOJ4+SouwpnApmWc1qC7b88znl7h2kqaufUuEHAn6IMwq9sm38zQ4oGyBjI2UGT0tiyixp9qwd3gVS9cvT9mI1TjXvDnwPLdTHXSt3qnAo+AVISDUveFh74FJC64H+H5IJLCL4u3l4mJPxKGVSvZe1BXyGxVQYEvPFJYwZLfkg8xTfWNLaRpjxuMQiZHrdnWj3r3n181kvrTUM=;Jp3ADeQINR71+925sAq2WQ=="
 ---

@@ -128,6 +128,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Remote students report anxiety & Trump wins fight for Republican soul: The Morning Rundown"
+    excerpt: "Moments after voting to acquit Donald Trump, Senate Minority Leader Mitch McConnell slammed the former president for a \"disgraceful dereliction of duty.\""
+    publishedDateTime: 2021-02-15T13:37:00Z
+    webUrl: "https://www.nbcnews.com/news/morning-briefing/remote-students-report-anxiety-trump-wins-fight-republican-soul-morning-n1257936"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1257936"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1257936"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 125
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_06/3450135/210214-mitch-mcconnell-jm-1703_c0bf19f41e894b1eea9af61d47b71d4a.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Post-Impeachment Live Updates: Fallout Begins for Republicans Who Voted to Convict Trump"
     excerpt: "Trump’s conviction in his impeachment trial has begun. In Louisiana, the state Republican Party’s executive committee voted unanimously on Saturday to censure Senator Bill Cassidy, who was just re-elected in November and was among those who voted to find Mr."
     publishedDateTime: 2021-02-14T14:10:00Z

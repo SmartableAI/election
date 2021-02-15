@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/13/politics/mitch-mcconnell-acquit-t
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/mitch-mcconnell-acquit-trump/index.html"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210205160106-01-trumps-florida-0120-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Acquittal means Trump will loom large in upcoming election contests"
+    excerpt: "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter."
+    publishedDateTime: 2021-02-15T14:07:00Z
+    webUrl: "https://www.nbcnews.com/politics/meet-the-press/acquittal-means-trump-will-loom-large-upcoming-election-contests-n1257938"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
+    images:
+      - url: "https://media1.s-nbcnews.com/j/newscms/2021_07/3450196/210215-donald-trump-mc-12382_e59fc92ce31ccb96d8a2bcdab73f03a0.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "F2tVlaYoHb1I6wUTDQisY/IrnjfzxpLqgSXhol8/ZqtThAFzUvDkz25Ax1iAJdNgE74cHGPGkdhRHpvJ80BxFhdUqh8g0m0OX5Ac2Zs/2DW17Sv9EOdlq627x8HTiONBRar/NilKdMeHER8ZrKByNvCw9xz8LOzzzprKKO4r5xopWWYWYQB8VgD/nG4kOEieJDXb//2SddH6lpnXTltbyoG/w50taPCGrZp4BouInwd8CvomZ7l/Be/CW0IVlBEl6bAp6ial+nGs1NxCZWurxCHYOfg93jL1lAfhsWwdSeEYqUaNsjsm4Sy8e6hMjcPoeGbrN03BGFliH5RG9IORZwOEmhy0HNeH0zFDaVKIrjs=;Oon6zOrYQbyfMv7c9dLhpQ=="

@@ -2,21 +2,21 @@
 category: news
 title: "On Parkland anniversary, Biden calls for tougher gun laws"
 excerpt: "Sorrow is reverberating across the country Sunday as Americans joined a Florida community in remembering the 17 lives lost three years ago in the Parkland school shooting massacre"
-publishedDateTime: 2021-02-15T08:25:00Z
-originalUrl: "https://www.washingtonpost.com/national/on-parkland-anniversary-biden-calls-for-tougher-gun-laws/2021/02/14/73d7f200-6f3d-11eb-8651-6d3091eac63f_story.html"
-webUrl: "https://www.washingtonpost.com/national/on-parkland-anniversary-biden-calls-for-tougher-gun-laws/2021/02/14/73d7f200-6f3d-11eb-8651-6d3091eac63f_story.html"
-ampWebUrl: "https://www.washingtonpost.com/national/on-parkland-anniversary-biden-calls-for-tougher-gun-laws/2021/02/14/73d7f200-6f3d-11eb-8651-6d3091eac63f_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/on-parkland-anniversary-biden-calls-for-tougher-gun-laws/2021/02/14/73d7f200-6f3d-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+publishedDateTime: 2021-02-14T16:53:00Z
+originalUrl: "https://abcnews.go.com/US/wireStory/parkland-anniversary-biden-calls-tougher-gun-laws-75891867"
+webUrl: "https://abcnews.go.com/US/wireStory/parkland-anniversary-biden-calls-tougher-gun-laws-75891867"
+ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/parkland-anniversary-biden-calls-tougher-gun-laws-75891867"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/parkland-anniversary-biden-calls-tougher-gun-laws-75891867"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://s.abcnews.com/images/US/WireAP_a22ebcdb243146ab8fdfdbe3ffc3006e_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -63,6 +63,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Activists fear Biden's commitment to higher minimum wage"
+    excerpt: "President Joe Biden campaigned on raising the national minimum wage to $15 per hour and attached a proposal doing just that to the $1.9 trillion coronavirus pandemic relief bill"
+    publishedDateTime: 2021-02-15T14:05:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/activists-fear-bidens-commitment-higher-minimum-wage-75903511"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/activists-fear-bidens-commitment-higher-minimum-wage-75903511"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/activists-fear-bidens-commitment-higher-minimum-wage-75903511"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_d81b3879bfd9430a9155b21ede88112c_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden's 1st 100 days live updates: Biden wants Congress to take action on gun reform"
     excerpt: "In a statement marking the 3 year anniversary of the Parkland Shooting, Biden is calling on Congress to take action on gun control reform. \"This Administration will not"
     publishedDateTime: 2021-02-14T20:47:00Z
@@ -96,6 +112,6 @@ related:
         height: 2333
         isCached: true
 
-secured: "DMAdywHBajCaTIAismDvc1rV3mj2ijfyEaoKGt/3aD5n7dqhtg60As3pSZ1iYRBzToBUuqqchA9ZZAx4uTjmWWcmWTUVUj3FKjIL17KDU8vvmZfhihjTZ2lWyvZhVoqM2VefqMOQ1hDS+ECDmW/ZNgx4qdKhfnlmeaNynG9yGEbNpySn8RmPKF9nStPu3vQwfYCWemnHNbtiZEvqgfbtf0NOIBHp6ROSuge9wQ7i2cKZH05lyyZEGwQoz5sNkTIPgk4J0sNtc78SmSuLb5T4i1WGZ0cC9GEGK3zC2xiXuWarNxtDzILZSJx5px/Ic3gS6Fpwbepd7pLd29pcMYPUlgGHRETwuifhbdNzxZZ240s=;JF2weIxkrLnL61lrhjaJ2w=="
+secured: "N7SK4KHMlVRUksHMqXpmgc723ifdgjn3j4huBbTHb6tpkUSVDU/RECW1ua+LZpf4SVXCiclNmTfrWPYC9A6zjViQuczp6fokd9zb45YFVfT4uh66oVaJd4eLcHKDVAAo5v141fbTkAAOfib1qFIYfMAtqbCYlS9F3gnLLj7o32epCpRUzVDQ/GqQxa72uytNzByEW5uE7Kz0nul0j91MSgbPFcwxlssZj1uO/9qz0S2Twvq0qKNFQbAr8taWJBrezQrPahzWiWB2+fJ4/E7pu0Kxa59BMA5VrkoBoUqZoSHcKhqO5SJDqxwjQYMQI8Wldo0pRAKgHcQ+fr0qh2TRAMxg4mKR/lcKUYbhJ0+V/vw=;P1tA8Ahu5TDGrD1rMQTtJw=="
 ---
 

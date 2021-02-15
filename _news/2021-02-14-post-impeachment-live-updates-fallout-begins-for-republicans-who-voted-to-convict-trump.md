@@ -142,6 +142,22 @@ related:
         width: 2500
         height: 1528
         isCached: true
+  - title: "Remote students report anxiety & Trump wins fight for Republican soul: The Morning Rundown"
+    excerpt: "Moments after voting to acquit Donald Trump, Senate Minority Leader Mitch McConnell slammed the former president for a \"disgraceful dereliction of duty.\""
+    publishedDateTime: 2021-02-15T13:37:00Z
+    webUrl: "https://www.nbcnews.com/news/morning-briefing/remote-students-report-anxiety-trump-wins-fight-republican-soul-morning-n1257936"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1257936"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1257936"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 125
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_06/3450135/210214-mitch-mcconnell-jm-1703_c0bf19f41e894b1eea9af61d47b71d4a.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "XomEyzIeIWq5SLcUWxxFq2F+nGRoX4UTAZYVNjC/b/qPzRqf06TppvRI0yCshPj3oQqKZ1XZxDm/Pv+qr5cu6SF/fwbOjdgLygWtwOKKj7zurjSsLJm+r14YtfPnm7AQsddWzdHOb8Y7Scv7u3qh2CQ0G1bpdtgegx8nIRm3MUXR+dJxgMbPkUYq4qIQeGB5VvxOZeHaHcNG0fmaik7Ul5URIwTxNj4dozM0HQ59YjOogeh+WN+30R8pXurORw0la3+ebd35gBM5ApFGVWLEFZZ4zLr4eOoabLIQRdfmGaQeMnw5LKDa7NMsDEEN7gKifcJa0+iUWAZBCO7ySoCkalIM3sK96TC42hdbyDSHBXk=;A9EZintMd0aKw+rCcirR3w=="
 ---

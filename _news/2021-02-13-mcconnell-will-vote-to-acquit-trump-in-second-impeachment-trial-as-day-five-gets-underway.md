@@ -191,6 +191,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "For Trump's impeachment team, it’s always sunny in Philadelphia"
+    excerpt: "An ice storm gripped Washington Saturday. Sleet pelted the capital city, sealing cars and glazing sidewalks."
+    publishedDateTime: 2021-02-15T05:50:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Cs5hZJKuJkI/its-always-sunny-in-philadelphia"
+    ampWebUrl: "https://www.foxnews.com/politics/its-always-sunny-in-philadelphia.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/its-always-sunny-in-philadelphia.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump’s impeachment attorney goes viral after exchange with CBS reporter"
     excerpt: "Michael van der Veen, one of former President Trump’s lawyers at the impeachment trial, went viral Saturday after an interview with CBS News’ streaming service called CBSN."
     publishedDateTime: 2021-02-15T04:30:23Z
@@ -558,6 +574,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0333c105-c1f6-4aab-be8e-664925fcc3e1/77d38842-62e8-4347-863f-4936d4af227c/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump still might face punishment for Capitol riot even after Senate impeachment acquittal"
+    excerpt: "Former President Donald Trump on Saturday, after the Senate acquitted him of the impeachment charge against him, teased a return to the political arena in his post-presidency -- but he may still face efforts to punish him for the Jan. 6 attack on the Capitol by his supporters."
+    publishedDateTime: 2021-02-15T13:16:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nmejBvcM5yo/trump-still-might-face-punishment-for-capitol-riot-even-after-senate-impeachment-acquittal"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-still-might-face-punishment-for-capitol-riot-even-after-senate-impeachment-acquittal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-still-might-face-punishment-for-capitol-riot-even-after-senate-impeachment-acquittal.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Senate agrees Trump impeachment trial is constitutional: TRUMP IMPEACHMENT TRIAL LIVE UPDATES"
     excerpt: "A handful of GOP senators crossed party lines on Tuesday by voting to affirm the constitutionality of the impeachment trial."
