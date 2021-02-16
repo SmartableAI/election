@@ -48,7 +48,7 @@ related:
   - title: "North Carolina Republicans to meet on Burr's vote to convict Trump"
     excerpt: "North Carolina Republican leaders will meet on Monday to discuss Senator Richard Burr's vote to convict former U.S. President Donald Trump during his impeachment trial, after he was acquitted of a charge of inciting the deadly Capitol riot,"
     publishedDateTime: 2021-02-15T23:06:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-burr-idUSKBN2AF1P3"
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-burr/north-carolina-republicans-to-meet-on-burrs-vote-to-convict-trump-idUSKBN2AF1P3?edition-redirect=in"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AF1P3"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AF1P3"
     type: article

@@ -2,6 +2,58 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-01-30-biden-visits-wounded-soldiers-at-walter-reed-where-son-died.md",
+      "title": "Biden visits wounded soldiers at Walter Reed, where son died",
+      "excerpt": "President Joe Biden has made his first major foray outside the White House with a visit to Walter Reed National Military Medical Center to meet with wounded soldiers",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Health/wireStory/biden-visit-wounded-soldiers-walter-reed-hospital-75564601",
+      "originalUrl": "https://abcnews.go.com/Health/wireStory/biden-visit-wounded-soldiers-walter-reed-hospital-75564601",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Health/WireAP_1fb006fe7b104c96a50132cb5ffdcdcf_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Health/wireStory/biden-visit-wounded-soldiers-walter-reed-hospital-75564601",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-visit-wounded-soldiers-walter-reed-hospital-75564601",
+      "publishedDateTime": "2021-01-29T16:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-01-30-facebooks-sandberg-praises-biden-abortion-policy-criticizes-south-carolina-partial-ban.md",
       "title": "Facebook's Sandberg praises Biden abortion policy, criticizes South Carolina partial ban",
       "excerpt": "Facebook Chief Operating Officer Sheryl Sandberg is praising President Bident's recent executive order on overseas abortion providers and criticizing South Carolina's legislation banning most abortions.",
@@ -1286,63 +1338,6 @@
         "name": "RealClearPolitics",
         "domain": "realclearpolitics.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-cnn-reporter-gushes-over-bidens-impressively-productive-call-with-putin.md",
-      "title": "CNN reporter gushes over Biden's 'impressively productive' call with Putin",
-      "excerpt": "A CNN correspondent lauded the \"impressively productive\" call President Biden had with Russian President Vladimir Putin this week.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/cnn-reporter-gushes-biden-impressively-productive-call-putin",
-      "originalUrl": "https://www.foxnews.com/media/cnn-reporter-gushes-biden-impressively-productive-call-putin",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/879000b0-71d5-46c8-a7e6-62869b968341/198598de-4190-4d11-9710-6c5ec405133d/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/cnn-reporter-gushes-biden-impressively-productive-call-putin.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-reporter-gushes-biden-impressively-productive-call-putin.amp",
-      "publishedDateTime": "2021-01-28T06:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

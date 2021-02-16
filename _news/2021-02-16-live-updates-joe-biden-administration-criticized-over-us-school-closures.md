@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Sen. Capito: Meeting with Biden, Senate Republicans on coronavirus relief was ‘productive’"
-excerpt: "Sen. Shelley Moore Capito said her two-hour meeting with President Biden and fellow Republican senators on coronavirus relief was “productive” and may lead to additional bipartisan discussions on other topics moving forward."
-publishedDateTime: 2021-02-02T16:03:10Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LMjL-WgDF-o/capito-meeting-biden-senate-republicans-coronavirus-relief-productive"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LMjL-WgDF-o/capito-meeting-biden-senate-republicans-coronavirus-relief-productive"
-ampWebUrl: "https://www.foxnews.com/politics/capito-meeting-biden-senate-republicans-coronavirus-relief-productive.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/capito-meeting-biden-senate-republicans-coronavirus-relief-productive.amp"
+title: "LIVE UPDATES: Joe Biden administration criticized over US school closures"
+excerpt: "Bennett asserted that the U.S. could have a \"lost generation\" of children who will suffer academically, socially, and morally if a plan to return them to the classroom is not created soon."
+publishedDateTime: 2021-02-16T05:01:19Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xnid5RqtUKM/joe-biden-live-updates-2-16-2021"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xnid5RqtUKM/joe-biden-live-updates-2-16-2021"
+ampWebUrl: "https://www.foxnews.com/politics/joe-biden-live-updates-2-16-2021.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-live-updates-2-16-2021.amp"
 type: article
-quality: 165
+quality: 174
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/34c223e4-521e-40a3-9ab1-30674135471e/03c763d4-c22e-4efa-a06f-8deaa059f778/1280x720/match/image.jpg"
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2d188969-ee03-4425-9b0f-38e2311976a3/879e3e97-56d8-4f7e-8ad7-534d8e030d84/1280x720/match/image.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -127,19 +127,19 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "LIVE UPDATES: Joe Biden administration criticized over US school closures"
-    excerpt: "Bennett asserted that the U.S. could have a \"lost generation\" of children who will suffer academically, socially, and morally if a plan to return them to the classroom is not created soon."
-    publishedDateTime: 2021-02-16T05:01:19Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xnid5RqtUKM/joe-biden-live-updates-2-16-2021"
-    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-live-updates-2-16-2021.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-live-updates-2-16-2021.amp"
+  - title: "Sen. Capito: Meeting with Biden, Senate Republicans on coronavirus relief was ‘productive’"
+    excerpt: "Sen. Shelley Moore Capito said her two-hour meeting with President Biden and fellow Republican senators on coronavirus relief was “productive” and may lead to additional bipartisan discussions on other topics moving forward."
+    publishedDateTime: 2021-02-02T16:03:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LMjL-WgDF-o/capito-meeting-biden-senate-republicans-coronavirus-relief-productive"
+    ampWebUrl: "https://www.foxnews.com/politics/capito-meeting-biden-senate-republicans-coronavirus-relief-productive.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/capito-meeting-biden-senate-republicans-coronavirus-relief-productive.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 174
+    quality: 165
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2d188969-ee03-4425-9b0f-38e2311976a3/879e3e97-56d8-4f7e-8ad7-534d8e030d84/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/34c223e4-521e-40a3-9ab1-30674135471e/03c763d4-c22e-4efa-a06f-8deaa059f778/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -286,6 +286,6 @@ related:
         height: 500
         isCached: true
 
-secured: "pwWvUwpyVJo1oAB857Jg1Oh8JyWbVpftkg9ahJPcJCYM55q48NaUxr6rhWUw0NYuDlzRKhLDCf9ayPRLyrTC5nw/vyRM6iCG2HT/ZBB8M6/1zl5vPXG/X+wQRANIvV6VLTE0LqmLJvYwN16tD6zNnbZAf/DuZdDtzqL/a+vzdSZWPJUUVMSC6fiMqB1uSOZX/zhz3Y+uu2ST/OYllo+c4gho7QY4Ei730ZHpB8SOgJt7JWpewBbHVKY8aqh6MKhsTejTX5KDOP/qD+QQYKVtM/yReUCh7N1zjcGQIvguKsCBpP4yR483Ov+BQ7V0PElISRgqsIYMtrnV6ExTtFktq61+YW02k62y14MFnx9Eg8s=;/fz7n9XrVMq9eRM/mwUImg=="
+secured: "PYXThtftzajc/5obzRASUwbHnH+8K88g2h9z5a5Vqnfi6SHgH9NiEqmY6OU7Ik3v0XwSsIz/3EFbx3UTWZyOgq1EJhDbdrkWq+1dtCQK135TEHjTdTDrfxsFnGIjZcNyWJSYjNgFYrQo87Si3qTQU5CSXqAFgjaonQtVOSO3Pr1wJnF4wgZO+g+gotZ3RwRPjye2cs1Zhvvgrx2ZVesX43qC8AKuBZpOTaBNsuqcDTOsTkQfGSgqBB/xPDG8koUiSiNy32kkuKR+01l6Q3PE48eW25lv7kWFXPe8bNPO+EGBWvrjlkKz/v+6+eOQ9+yN4TOpugBZble6S7JTGLHugfTWKAsLE01K0qt4mM6Hmss=;v8j5YFr3QRHGuMBpFZG6vQ=="
 ---
 

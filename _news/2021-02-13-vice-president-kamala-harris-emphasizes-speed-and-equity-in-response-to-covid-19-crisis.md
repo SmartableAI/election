@@ -105,6 +105,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "In NATO debut, Biden's Pentagon aims to rebuild trust damaged by Trump"
+    excerpt: "President Joe Biden's administration will use a NATO defense gathering this week to begin what is expected to be a years-long effort to rebuild trust with European allies shaken by Donald Trump's \"America First\" foreign policy."
+    publishedDateTime: 2021-02-16T01:59:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-nato-idUSKBN2AF1MX"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AF1MX"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AF1MX"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210215&t=2&i=1551615679&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1E0XR"
+        width: 816
+        height: 545
+        isCached: true
   - title: "Biden, reflecting on Senate acquittal of Trump, says 'democracy is fragile'"
     excerpt: "U.S. President Joe Biden said on Saturday that the Senate's acquittal of former President Donald Trump for inciting an insurrection was a reminder that democracy was fragile, and every American had a duty to defend the truth."
     publishedDateTime: 2021-02-14T04:02:00Z

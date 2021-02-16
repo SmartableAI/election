@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-16-biden-has-reopened-obamacare-enrollment-but-how-fast-you-need-to-act-depends-on-where-you-live.md",
+      "title": "Biden has reopened Obamacare enrollment, but how fast you need to act depends on where you live",
+      "excerpt": "Residents of one state don't know whether they can participate in a special enrollment period for federally subsidized health insurance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/02/15/bidens-special-health-insurance-enrollment-varies-state/6745781002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/02/15/bidens-special-health-insurance-enrollment-varies-state/6745781002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/-mm-/2f3822947b6a8f8aa6a183e96e64d71752a99d03/c=0-89-2998-1783/local/-/media/2016/09/22/USATODAY/USATODAY/636101585701576984-BLM-OBAMA-HEALTHCARE-58839458.JPG?auto=webp&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6745781002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6745781002",
+      "publishedDateTime": "2021-02-15T22:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-02-16-comey-email-reveals-fbi-doj-made-premeditated-effort-to-dislodge-trump-from-office-gaetz.md",
       "title": "Comey email reveals FBI, DOJ made 'premeditated effort to dislodge' Trump from office: Gaetz",
       "excerpt": "The Justice Department and FBI engaged in a \"premeditated effort to dislodge the duly elected president of the United States,\" Rep. Matt Gaetz, R-Fla., charged Monday on \"Hannity.\"",
@@ -607,7 +659,7 @@
       "originalUrl": "https://www.businessinsider.com/kamala-harris-biden-starting-from-scratch-covid-19-after-trump-2021-2",
       "featuredContent": null,
       "highlight": null,
-      "heat": 607,
+      "heat": 627,
       "tags": null,
       "images": [
         {
@@ -1289,58 +1341,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-14-rep-marjorie-taylor-greene-accused-of-threatening-gop-colleague-with-warning-that-millions-of-trump-supporters-are-watching-her.md",
-      "title": "Rep. Marjorie Taylor Greene accused of threatening GOP colleague with warning that millions of Trump supporters 'are watching' her",
-      "excerpt": "\"The Trump loyal 75 million are watching\" Rep. Greene tweeted about Rep. Herrera Beutler after it emerged she had evidence damaging to Trump's defense.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/impeachment-rep-greene-accused-of-menacing-gop-colleague-in-tweet-2021-2",
-      "originalUrl": "https://www.businessinsider.com/impeachment-rep-greene-accused-of-menacing-gop-colleague-in-tweet-2021-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/602909702edd0f001a8d5ba4?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/impeachment-rep-greene-accused-of-menacing-gop-colleague-in-tweet-2021-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/impeachment-rep-greene-accused-of-menacing-gop-colleague-in-tweet-2021-2?amp",
-      "publishedDateTime": "2021-02-14T04:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

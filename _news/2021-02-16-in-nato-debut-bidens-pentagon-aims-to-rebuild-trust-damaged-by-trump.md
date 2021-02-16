@@ -1,33 +1,33 @@
 ---
 category: news
-title: "Biden administration tells Supreme Court Obamacare is constitutional, should be saved"
-excerpt: "In letter to the court, government lawyers disavowed the view the Trump administration argued just months ago."
-publishedDateTime: 2021-02-11T04:20:00Z
-originalUrl: "https://www.washingtonpost.com/politics/courts_law/biden-supreme-court-obamacare/2021/02/10/21dbfcac-6be7-11eb-ba56-d7e2c8defa31_story.html"
-webUrl: "https://www.washingtonpost.com/politics/courts_law/biden-supreme-court-obamacare/2021/02/10/21dbfcac-6be7-11eb-ba56-d7e2c8defa31_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/biden-supreme-court-obamacare/2021/02/10/21dbfcac-6be7-11eb-ba56-d7e2c8defa31_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/biden-supreme-court-obamacare/2021/02/10/21dbfcac-6be7-11eb-ba56-d7e2c8defa31_story.html?outputType=amp"
+title: "In NATO debut, Biden's Pentagon aims to rebuild trust damaged by Trump"
+excerpt: "President Joe Biden's administration will use a NATO defense gathering this week to begin what is expected to be a years-long effort to rebuild trust with European allies shaken by Donald Trump's \"America First\" foreign policy."
+publishedDateTime: 2021-02-16T01:59:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-biden-nato-idUSKBN2AF1MX"
+webUrl: "https://www.reuters.com/article/us-usa-biden-nato-idUSKBN2AF1MX"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AF1MX"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AF1MX"
 type: article
-quality: 118
+quality: 140
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Joe Biden
+  - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GTKWHNTL6EI6XOSW27RMRXX2GE.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210215&t=2&i=1551615679&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1E0XR"
+    width: 816
+    height: 545
     isCached: true
 
 related:
@@ -110,22 +110,6 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/311E/production/_116947521_mediaitem116947520.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "In NATO debut, Biden's Pentagon aims to rebuild trust damaged by Trump"
-    excerpt: "President Joe Biden's administration will use a NATO defense gathering this week to begin what is expected to be a years-long effort to rebuild trust with European allies shaken by Donald Trump's \"America First\" foreign policy."
-    publishedDateTime: 2021-02-16T01:59:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-nato-idUSKBN2AF1MX"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AF1MX"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AF1MX"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 140
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210215&t=2&i=1551615679&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1E0XR"
-        width: 816
-        height: 545
         isCached: true
   - title: "Biden, reflecting on Senate acquittal of Trump, says 'democracy is fragile'"
     excerpt: "U.S. President Joe Biden said on Saturday that the Senate's acquittal of former President Donald Trump for inciting an insurrection was a reminder that democracy was fragile, and every American had a duty to defend the truth."
@@ -287,6 +271,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden administration tells Supreme Court Obamacare is constitutional, should be saved"
+    excerpt: "In letter to the court, government lawyers disavowed the view the Trump administration argued just months ago."
+    publishedDateTime: 2021-02-11T04:20:00Z
+    webUrl: "https://www.washingtonpost.com/politics/courts_law/biden-supreme-court-obamacare/2021/02/10/21dbfcac-6be7-11eb-ba56-d7e2c8defa31_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/biden-supreme-court-obamacare/2021/02/10/21dbfcac-6be7-11eb-ba56-d7e2c8defa31_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/biden-supreme-court-obamacare/2021/02/10/21dbfcac-6be7-11eb-ba56-d7e2c8defa31_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 118
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GTKWHNTL6EI6XOSW27RMRXX2GE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Meena Harris has a personal brand. Some fear she’s profiting from her Aunt Kamala’s office"
     excerpt: "The White House and others fear scrutiny over the personal branding efforts of the vice president's niece, which have grown with Kamala Harris' career."
     publishedDateTime: 2021-02-11T12:00:00Z
@@ -407,6 +407,6 @@ related:
         height: 400
         isCached: true
 
-secured: "aJKOXtt8NF3JDh4LqV1jlYRbGhwiJQ42NB0eT1ALnXn1DisCXBNSONiOgGiqjFKy9j/T1d2kgPPNtED5I2lemmMDz/E+uyzzFQS85OrFXgcuL7kkg3bIKrGvBKg9P3AQuzGh/6f1TbxvZsWBgP2exXSeQe6R7SVh/DFZYckBPtt6CC+k/zp1iwKYNLMnEi0a5CdYjy/yb/eB7VHC18LPjMbiDnHuh+xFH1TpkWnGWlGB4mHpJH7jjpLPiib2eLCLgm/Xr2eInKeWM1xtgFGQTOg5KsSGxFfvWpADv/xKimjnP8J0Vqi6d7f8ZxyM/dEUbvxKDUrNZP/d0YvgDPysQeio1qYvc9EgbREnOaXvfsm8wT4FrUMOTk1CmoAwHPS/P3OiOAAfoyxzVBYesFsrAYyHa9ZTxui3vR6HDchqDWbxXbsinOGDNl/Ox4HI2KCKVRKJuwomJIbpAQezh1vqV6vwf1I5QmuZUN6WFFEHlXSJG8SW9cXAw+CzjNsO1/ZaD0afH3JgpZV1G7KT3f+EHg==;eLe/eA+Q5djFFvB1sgkhgQ=="
+secured: "VfrWNa8NBIvSHtjTuHfI6K7E9Gbt8kFFwohBccc2yzbCbjinfHWv37ZZRMHh8Msv2Z6IuE7+jOuYYmx7RZEnaUpO1822C1IsbEG3KjGk220p6QcsYZBy5YhE8VSqVIbIwUA8e4OkOxirF9X7JMrhoE+c8W+bf0G/xIZ7g9Hzj9GGpDvRCAJpeefGqBTqRoULxa2omWIrJtKgaDCaZGKqUY4d9TCKmkegHNvXvjHyZpxbI6F8t8AHIoZnnLRJd8m0g1OaUSdQH4qFGgJGDNjum58ws3XIeNPOgXwd3E/QzN+rbB8sMyjbge02kW7Eenyb5F2pe2wVWJPO/WdyagnLTPi4P2pKIGyEFMTI590aAA8=;DBAk+b8hQJl4Ftf4qyV1WQ=="
 ---
 

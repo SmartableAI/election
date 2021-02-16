@@ -3,8 +3,8 @@ category: news
 title: "North Carolina Republicans to meet on Burr's vote to convict Trump"
 excerpt: "North Carolina Republican leaders will meet on Monday to discuss Senator Richard Burr's vote to convict former U.S. President Donald Trump during his impeachment trial, after he was acquitted of a charge of inciting the deadly Capitol riot,"
 publishedDateTime: 2021-02-15T23:06:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-burr-idUSKBN2AF1P3"
-webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-burr-idUSKBN2AF1P3"
+originalUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-burr/north-carolina-republicans-to-meet-on-burrs-vote-to-convict-trump-idUSKBN2AF1P3?edition-redirect=in"
+webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-burr/north-carolina-republicans-to-meet-on-burrs-vote-to-convict-trump-idUSKBN2AF1P3?edition-redirect=in"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AF1P3"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AF1P3"
 type: article
@@ -252,6 +252,6 @@ related:
         height: 630
         isCached: true
 
-secured: "fsMMfsQ7xSe4/BSqOpl2L170in2vj6yFdswZ391Gv31Tx5Zk+Q3WN5Tdse8dHxFew6Ks/s9QOc83Dn8lAdcOn9TeCU1dmGWJ7WrrRx6uLeY7ln6w0IFbsgkIwF3Tml/PRTSk6ZHOb44I+8c+MSrtUaao5ESyHvVXHVTiA0FuuE4NG78u0LQvcCHBcr6lSx6HF0U61iSMNKrZJZI5WRPtZ28T8QiHD0n12+5Hyxx1kPb0MxCk4fHzjJXvh0ZGWN478L+ulfY3S5bRm8H7syfvxKCotgQyk1aIVlWv6MjHTn4AXbaCXqNSA0Ooq16Kc6eN4sxJMKffc5I6XXquPKlbW++1VyFlAxV2RmBbsk+EH0l/vo1nOa5CD9v/MQ8eYub2Hx+Tw7ewH0/TywI0/Zu7m1WghEjb57E5FN7qMb5cJHu9UhRo8asFQlFm7FhmQtAUha99Y1McJ91m51rheaAkdrmnEcp1dUc2v0oSaW1q20d6pb32dGcDtpaMBaJV21BDuMJD9zqDtu6JzNibPn9tUQ==;PVna3SruAETvPRYglCjYcw=="
+secured: "7KMOaiyr/iKcZRUtgJ8ExIeSzVCOVnNgTmZxxKja3p2xlH0B/KMBEOG/pI0jylOTe5MKHa4stvlOHBnECodK1iHSIjBrmZDEiMu7JvjX58rDiFXA0v3aYsoF3cyNi3yj+CWd4zTs0iWIZ8HI86LFiZctHcrN1AXDbOXgD/cZXDwUR3cj7FbTc841ZjKPtYf6f8PE+KgsqqqnrWrfIfYKpEmJxJfFToK3RaDu11hBhlxZsX3wd5nPFd39vvIEIuK0Z13N9UGNR7Xz/EgvRm3Rnh6jAINsk/sl+MJ34LZ8yA3FCgKooJE0dfyIu12LMPdM6TQtT6QRLl0294MVEO+RF7gbbUR0JgVx+gBPeeCfrT8=;e45qjzYWncWT5BJu/YFudQ=="
 ---
 

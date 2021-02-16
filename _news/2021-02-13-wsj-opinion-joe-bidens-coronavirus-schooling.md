@@ -126,6 +126,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "LIVE UPDATES: Joe Biden administration criticized over US school closures"
+    excerpt: "Bennett asserted that the U.S. could have a \"lost generation\" of children who will suffer academically, socially, and morally if a plan to return them to the classroom is not created soon."
+    publishedDateTime: 2021-02-16T05:01:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xnid5RqtUKM/joe-biden-live-updates-2-16-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-live-updates-2-16-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-live-updates-2-16-2021.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2d188969-ee03-4425-9b0f-38e2311976a3/879e3e97-56d8-4f7e-8ad7-534d8e030d84/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Sen. Capito: Meeting with Biden, Senate Republicans on coronavirus relief was ‘productive’"
     excerpt: "Sen. Shelley Moore Capito said her two-hour meeting with President Biden and fellow Republican senators on coronavirus relief was “productive” and may lead to additional bipartisan discussions on other topics moving forward."
     publishedDateTime: 2021-02-02T16:03:10Z

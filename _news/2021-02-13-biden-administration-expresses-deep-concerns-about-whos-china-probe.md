@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-deep-concerns-about-whos-chin
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-deep-concerns-about-whos-china-probe.amp"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Joe Biden administration criticized over US school closures: LIVE UPDATES"
+    excerpt: "Bennett asserted that the U.S. could have a \"lost generation\" of children who will suffer academically, socially, and morally if a plan to return them to the classroom is not created soon."
+    publishedDateTime: 2021-02-16T05:06:00Z
+    webUrl: "https://www.foxnews.com/politics/joe-biden-live-updates-2-16-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-live-updates-2-16-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-live-updates-2-16-2021.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 134
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2d188969-ee03-4425-9b0f-38e2311976a3/879e3e97-56d8-4f7e-8ad7-534d8e030d84/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "L19J8SI3+FvHDVYo7XzuSNhIGPsIKEgFEHUmYho3S80uk0C4iHgcFCL/GBJQzvyvtB16cmKCBX/jfV98oXglOZ4s99uC/qvgrgGUCc8bhFunn7+7MDm//z5GnQMzgfvl8Nh7ELffUtKAA8xmucQQxX1WXG3+3D/sa3reAWrVDZjugW3aHoKTN3oxVdN1gVr6WN8PeFip440O9j6phUu4y8vk9Wz8d+7ys81OvqIo0kwFJ7Oa/NaHeHilDuTj8xXj+0SnMKFVsTHl3S2xkA457wZb1cohBeATZ2XZQzwDXi+FapYPtmCRZCFV8Fjtc6sy4VDGTQLMUjrKKL1AQTdJzHAP1BAPOyLGlSXAx7xvpW4=;bJb1sKWCPdyA77Hj9O80EA=="

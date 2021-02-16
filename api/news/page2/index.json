@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-14-rep-marjorie-taylor-greene-accused-of-threatening-gop-colleague-with-warning-that-millions-of-trump-supporters-are-watching-her.md",
+      "title": "Rep. Marjorie Taylor Greene accused of threatening GOP colleague with warning that millions of Trump supporters 'are watching' her",
+      "excerpt": "\"The Trump loyal 75 million are watching\" Rep. Greene tweeted about Rep. Herrera Beutler after it emerged she had evidence damaging to Trump's defense.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/impeachment-rep-greene-accused-of-menacing-gop-colleague-in-tweet-2021-2",
+      "originalUrl": "https://www.businessinsider.com/impeachment-rep-greene-accused-of-menacing-gop-colleague-in-tweet-2021-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/602909702edd0f001a8d5ba4?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/impeachment-rep-greene-accused-of-menacing-gop-colleague-in-tweet-2021-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/impeachment-rep-greene-accused-of-menacing-gop-colleague-in-tweet-2021-2?amp",
+      "publishedDateTime": "2021-02-14T04:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-14-it-just-symbolizes-everything-in-joe-and-jill-biden-presidential-pda-makes-a-comeback.md",
       "title": "‘It just symbolizes everything’: In Joe and Jill Biden, presidential PDA makes a comeback",
       "excerpt": "First lady Jill Biden places her hands on President Joe Biden after he is sworn in as 46th president of the United States on Jan. 20, 2021. | Kevin Dietsch/Pool Photo via AP On a mission to rebuild institutional norms and help heal a hurting nation,",
@@ -622,7 +674,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 195,
+      "heat": 215,
       "tags": null,
       "images": [
         {
@@ -1302,62 +1354,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-key-republican-breaks-with-trump-we-shouldnt-have-followed-him.md",
-      "title": "Key Republican breaks with Trump: 'We shouldn't have followed him'",
-      "excerpt": "Former ambassador to the UN Nikki Haley weighed in on Trump's legacy during an interview with Politico, saying that he had \"fallen so far\" and was likely out of the picture for 2024 presidential candidates. Former special assistant to President George H.W. Bush and president of the Council on Foreign",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sUGrERbuGhY/nikki-haley-trump-election-richard-haass-nr-vpx.cnn",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sUGrERbuGhY/nikki-haley-trump-election-richard-haass-nr-vpx.cnn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 335,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/181009111215-18-nikki-haley-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2021/02/12/nikki-haley-trump-election-richard-haass-nr-vpx.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/02/12/nikki-haley-trump-election-richard-haass-nr-vpx.cnn",
-      "publishedDateTime": "2021-02-12T10:35:03-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Democratic Voice"
       ]
     }
