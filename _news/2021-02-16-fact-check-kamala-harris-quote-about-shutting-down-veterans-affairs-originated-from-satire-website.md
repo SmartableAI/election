@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Fact check: Fabricated Kamala Harris quote about white people being racist"
+    excerpt: "Social media users have recently been resharing a post from 2019 showing a quote falsely attributed to U.S. Vice President Kamala Harris, where she purportedly says white people are racist. The Vice President’s press secretary confirmed to Reuters that the quotation"
+    publishedDateTime: 2021-02-16T17:25:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-harris-racist-quote-idUSKBN2AG26C"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AG26C"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AG26C"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210216&t=2&i=1551741067&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1F1CI"
+        width: 816
+        height: 545
+        isCached: true
   - title: "GOP Senator Warns VP Kamala Harris Could Be Impeached If This Happens"
     excerpt: "A South Carolina Republican lawmaker accused Vice President Harris of inciting violence after she \"bailed out\" George Floyd rioters."
     publishedDateTime: 2021-02-15T03:12:00Z

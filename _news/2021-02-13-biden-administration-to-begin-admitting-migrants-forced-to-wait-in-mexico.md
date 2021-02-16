@@ -255,6 +255,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "The Latest: Biden administration increasing vaccine supplies"
+    excerpt: "President Joe Biden’s administration is increasing coronavirus vaccine supplies sent to states to 13.5 million doses per week"
+    publishedDateTime: 2021-02-16T11:51:00Z
+    webUrl: "https://www.washingtonpost.com/health/the-latest-australia-approves-astrazeneca-vaccine-for-use/2021/02/16/6ba20490-7023-11eb-8651-6d3091eac63f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/the-latest-australia-approves-astrazeneca-vaccine-for-use/2021/02/16/6ba20490-7023-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/the-latest-australia-approves-astrazeneca-vaccine-for-use/2021/02/16/6ba20490-7023-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Boris Johnson calls Trump's impeachment a 'kerfuffle' and suggests Biden copied his Build Back Better slogan"
     excerpt: "Boris Johnson described impeachment proceedings against Trump as 'toings and froings' and a 'kerfuffle.'"
     publishedDateTime: 2021-02-15T13:43:00Z

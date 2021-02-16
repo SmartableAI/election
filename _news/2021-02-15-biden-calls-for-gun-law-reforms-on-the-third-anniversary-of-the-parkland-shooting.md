@@ -47,6 +47,22 @@ related:
         width: 2500
         height: 1665
         isCached: true
+  - title: "President Biden extends mortgage relief, ban on home foreclosures through June"
+    excerpt: "The foreclosure moratorium for homeowners was set to expire March 31. It will now continue for three more months."
+    publishedDateTime: 2021-02-16T18:11:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/16/mortgage-relief-ban-home-foreclosures-extended-joe-biden/6755036002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6755036002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6755036002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 121
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/12/USAT/6290abb9-3610-442e-8bdf-08426e54335f-Biden-pic.jpg?auto=webp&crop=5567,3131,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "LAj30PSsqy8kZwfFAJHHqB5zE9yIOEIRpYiPOWjz7yh9ME5/yup9Z7qpQjeVJwNURaqTR7RxYpOLnkA3+Irff1v3CqPU+1ekRm10WeU5bwHbwgk0z5DunlloGHysovM45vk0MMo7kFsOiIpDd0pnJwZCIh35s0xeOT/Fm9HmVKcjjOu4Q7oGh8zWY1rCjjsM5Zo8oE6WfprDME847VkJWwEmOav8h+loOU2sFeh0R1nxvs1h60iYBKHboWMgk8fQ3699+reiRvRB0zi+gxwwOhFX1xTArtF4V2VvPmuS8AFYeJbarRLBe4ncLNd45kbYWT8l3/cCLwCu80sRMgfedoYXEl4HOhfaY9qPrlHmduU=;wEAupYHsPyC+E1562eVLKQ=="
 ---

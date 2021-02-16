@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/fact-check-joe-biden-responsible-rising-cos
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fact-check-joe-biden-responsible-rising-cost-insulin-1569045?amp=1"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "President Biden extends mortgage relief, ban on home foreclosures through June"
+    excerpt: "The foreclosure moratorium for homeowners was set to expire March 31. It will now continue for three more months."
+    publishedDateTime: 2021-02-16T18:11:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/16/mortgage-relief-ban-home-foreclosures-extended-joe-biden/6755036002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6755036002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6755036002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 121
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/12/USAT/6290abb9-3610-442e-8bdf-08426e54335f-Biden-pic.jpg?auto=webp&crop=5567,3131,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden calls for gun law reforms on the third anniversary of the Parkland shooting"
     excerpt: "\"We will take action to end our epidemic of gun violence and make our schools and communities safer,\" Biden said."
     publishedDateTime: 2021-02-14T16:40:00Z

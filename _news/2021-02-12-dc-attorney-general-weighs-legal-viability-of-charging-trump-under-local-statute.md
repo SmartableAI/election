@@ -31,69 +31,83 @@ images:
     isCached: true
 
 related:
-  - title: "Georgia state bar proceeding with inquiry into pro-Trump attorney Lin Wood "
-    excerpt: "The State Bar of Georgia is \"proceeding with an inquiry\" into attorney Lin Wood, one of the lawyers who unsuccessfully pushed a handful of suits to block Georgia's election results after alleging unfounded claims of fraud, the organization told CNN in a statement Tuesday.\n    \n"
-    publishedDateTime: 2021-02-16T16:25:58Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uLHT6ZN9Bjk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/16/politics/lin-wood-georgia-state-bar-inquiry/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/16/politics/lin-wood-georgia-state-bar-inquiry/index.html"
+  - title: "Federal judge blocks last-minute Trump rule limiting asylum claims"
+    excerpt: "A federal judge in California blocked a Trump-era rule that went into effect just a day before Joe Biden took office and sought to dramatically limit the ability of Central American migrants to claim asylum in the United States\n    \n"
+    publishedDateTime: 2021-02-16T18:38:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9DkBccKpUVI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/16/politics/immigration-asylum-trump-rule/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/16/politics/immigration-asylum-trump-rule/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 173
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210202195002-lin-wood-dec-2020-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210204111218-05-immigration-file-asylum-seekers-mexico-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Georgia secretary of state investigating whether pro-Trump attorney voted illegally"
-    excerpt: "Georgia Secretary of State Brad Raffensperger has launched an investigation into whether attorney Lin Wood voted as a legal resident in the November election, a source with Raffensperger's office confirmed to CNN.\n    \n"
-    publishedDateTime: 2021-02-03T01:35:24Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Nz_oUjeuKmA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/02/politics/lin-wood-georgia-election-2020/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/02/politics/lin-wood-georgia-election-2020/index.html"
+  - title: "Federal judge blocks Trump administration asylum rule from taking effect"
+    excerpt: "A federal judge on Friday blocked a sweeping asylum rule that had been scheduled to take effect nationwide in a matter of days, issuing yet another legal blow to the Trump administration.\n    \n"
+    publishedDateTime: 2021-01-09T02:50:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-rb2CMYeyGs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/08/politics/judge-blocks-us-asylum-rule/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/judge-blocks-us-asylum-rule/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 169
+    quality: 174
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210202195002-lin-wood-dec-2020-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201210215838-panorama-nuevas-restricciones-asilo-eeuu-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Georgia prosecutors launch criminal probe into Trump's efforts to overturn election results"
-    excerpt: "The investigation will look into the phone call Trump made to Georgia Secretary of State Brad Raffensperger in which Trump begged him to reverse Joe Biden's victory."
-    publishedDateTime: 2021-02-10T20:47:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/georgia-prosecutors-launch-criminal-probe-trump-s-efforts-overturn-biden-n1257272"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1257272"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1257272"
+  - title: "These GOP lawmakers are facing backlash from state parties for not backing Trump"
+    excerpt: "State Republican parties are taking action against former President Donald Trump.\n    \n"
+    publishedDateTime: 2021-02-15T16:14:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/elKhVCx4XWc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/15/politics/republicans-facing-censure-trump-impeachment/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/15/politics/republicans-facing-censure-trump-impeachment/index.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 140
+      name: CNN
+      domain: cnn.com
+    quality: 170
     images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2020_43/3419416/201012-georgia-early-voting-se-1232p_79c46a105227f1219a0bbeb22bc74a49.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210215102959-sasse-burr-cassidy-rice-cheney-split-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "In Georgia, a New District Attorney Starts Circling Trump and His Allies"
-    excerpt: "Fani Willis has opened a criminal investigation into efforts by the Trump camp to overturn the former president’s loss in Georgia. In an interview, Ms. Willis described a wide-ranging inquiry."
-    publishedDateTime: 2021-02-13T10:00:00Z
-    webUrl: "https://www.nytimes.com/2021/02/13/us/politics/fani-willis-trump.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/13/us/politics/fani-willis-trump.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/13/us/politics/fani-willis-trump.amp.html"
+  - title: "How the Trump Era Broke the Sunday-Morning News Show"
+    excerpt: "Any number of hallowed political and media institutions fell apart. So why should the most hallowed political-media institution of them all escape unscathed?"
+    publishedDateTime: 2021-02-11T10:00:00Z
+    webUrl: "https://www.nytimes.com/2021/02/11/magazine/how-the-trump-era-broke-the-sunday-morning-news-show.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/11/magazine/how-the-trump-era-broke-the-sunday-morning-news-show.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/11/magazine/how-the-trump-era-broke-the-sunday-morning-news-show.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 134
+    quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2021/02/13/us/politics/13georgia-trump/13georgia-trump-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2021/02/14/magazine/14mag-screenland/14mag-screenland-facebookJumbo-v2.jpg"
         width: 1050
-        height: 550
+        height: 549
+        isCached: true
+  - title: "Schiff ponders life beyond the House as focus shifts from Trump"
+    excerpt: "Speaker Nancy Pelosi, an ally, has lent some muscle to Adam Schiff’s bid to become California's attorney general."
+    publishedDateTime: 2021-02-14T12:10:00Z
+    webUrl: "https://www.politico.com/news/2021/02/14/adam-schiff-future-468949"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/b4/04/01342b3c4ef699ea410e681d31e9/20200911-adamschiff-gty-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "AqIIYFIXnNpFA8DoV93oU12Br2Z1EYwLidrL3f2tGmFFUG+K+IsIT9gy+ziaVV1cVwgr5eYhPhipaZS38YykkGt/gl+B+NzTKyuRv2v3v8LG8aHwAnEf0ztyImVh9q1a6YpOFfpdkeQad0FmBSD6CWvaNLCTynKHg0JQZVHECTFha3wkY3DtHXSM7uKDMHs47WNKmIcPJJ1cDP2umVkEbprnnOTJI/5HepQTAOizHmiTParlNjds/HO2m45CrfmgbClmFWDCEpM1XmC4JxuXgGmsH8lagwO/4FpwobjKthgXIJTzjWhnPWlFEFE1kjuqBntYPouMu37pe6iQmxtmKBOpznDUIf/5NEdGz4gMo3s=;O+0JMrU3wWNGJhT0Pam05A=="

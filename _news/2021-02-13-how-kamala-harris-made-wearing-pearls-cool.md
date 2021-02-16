@@ -239,6 +239,22 @@ related:
         width: 2500
         height: 1665
         isCached: true
+  - title: "The Latest: Biden administration increasing vaccine supplies"
+    excerpt: "President Joe Biden’s administration is increasing coronavirus vaccine supplies sent to states to 13.5 million doses per week"
+    publishedDateTime: 2021-02-16T11:51:00Z
+    webUrl: "https://www.washingtonpost.com/health/the-latest-australia-approves-astrazeneca-vaccine-for-use/2021/02/16/6ba20490-7023-11eb-8651-6d3091eac63f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/the-latest-australia-approves-astrazeneca-vaccine-for-use/2021/02/16/6ba20490-7023-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/the-latest-australia-approves-astrazeneca-vaccine-for-use/2021/02/16/6ba20490-7023-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Biden administration to begin admitting migrants forced to wait in Mexico"
     excerpt: "The Biden administration plans to begin processing and admitting migrants forced to wait in Mexico under Trump administration's \"Migrant Protection Protocols\""
     publishedDateTime: 2021-02-12T16:00:00Z

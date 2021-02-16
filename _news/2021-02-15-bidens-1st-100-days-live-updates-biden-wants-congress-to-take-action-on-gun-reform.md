@@ -143,6 +143,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "White House says Netanyahu call will be Biden's first to region"
+    excerpt: "White House press secretary Jen Psaki said Tuesday that President Biden will speak with Israeli Prime Minister Benjamin Netanyahu “soon” and that the phone call would be the new president’s first to a leader in the Middle East ."
+    publishedDateTime: 2021-02-16T18:39:00Z
+    webUrl: "https://thehill.com/policy/national-security/539018-white-house-says-netanyahu-call-will-be-bidens-first-to-region"
+    ampWebUrl: "https://thehill.com/policy/national-security/539018-white-house-says-netanyahu-call-will-be-bidens-first-to-region?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/national-security/539018-white-house-says-netanyahu-call-will-be-bidens-first-to-region?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/netanyahubenjamin_05252020getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Maryland Senators See Joe Biden's Immigration Policy as Key To Grant Citizenship To TPS Holders"
     excerpt: "The SECURE Act would provide a pathway to permanent resident status for over 400,000 immigrants who have Temporary Protected Status after fleeing natural disasters and civil unrest in their home countries."
     publishedDateTime: 2021-02-09T02:44:00Z

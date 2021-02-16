@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration extends ban on foreclosures and mortgage relief"
+    excerpt: "On Tuesday, the Biden administration announced it is extending the federal ban on foreclosures and mortgage forbearance programs through June, offering relief to millions of homeowners who are struggling financially as a result of the pandemic.\n    \n"
+    publishedDateTime: 2021-02-16T17:28:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RgwBgGk3YQQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/16/success/foreclosure-ban-mortgage-forbearance-extensions-feseries/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/16/success/foreclosure-ban-mortgage-forbearance-extensions-feseries/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210216095114-us-homes-neighborhood-0126-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden zeroes in on policy: Here are 6 top priorities"
     excerpt: "Joe Biden has been President of the United States for nearly a month, but his political agenda is only just coming into focus in Washington, now that the impeachment proceedings against Donald Trump are over.\n    \n"
     publishedDateTime: 2021-02-16T13:00:21Z

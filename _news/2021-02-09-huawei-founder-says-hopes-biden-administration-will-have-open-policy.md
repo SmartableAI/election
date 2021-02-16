@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A90AY"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A90AY"
 type: article
 quality: 125
-heat: 305
+heat: 325
 published: true
 
 provider:
@@ -124,6 +124,22 @@ related:
     quality: 125
     images:
       - url: "https://thehill.com/sites/default/files/bidenjoe_getty100220.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "White House says Netanyahu call will be Biden's first to region"
+    excerpt: "White House press secretary Jen Psaki said Tuesday that President Biden will speak with Israeli Prime Minister Benjamin Netanyahu “soon” and that the phone call would be the new president’s first to a leader in the Middle East ."
+    publishedDateTime: 2021-02-16T18:39:00Z
+    webUrl: "https://thehill.com/policy/national-security/539018-white-house-says-netanyahu-call-will-be-bidens-first-to-region"
+    ampWebUrl: "https://thehill.com/policy/national-security/539018-white-house-says-netanyahu-call-will-be-bidens-first-to-region?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/national-security/539018-white-house-says-netanyahu-call-will-be-bidens-first-to-region?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/netanyahubenjamin_05252020getty.jpg"
         width: 980
         height: 551
         isCached: true

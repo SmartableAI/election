@@ -239,6 +239,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "The Latest: Biden administration increasing vaccine supplies"
+    excerpt: "President Joe Biden’s administration is increasing coronavirus vaccine supplies sent to states to 13.5 million doses per week"
+    publishedDateTime: 2021-02-16T11:51:00Z
+    webUrl: "https://www.washingtonpost.com/health/the-latest-australia-approves-astrazeneca-vaccine-for-use/2021/02/16/6ba20490-7023-11eb-8651-6d3091eac63f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/the-latest-australia-approves-astrazeneca-vaccine-for-use/2021/02/16/6ba20490-7023-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/the-latest-australia-approves-astrazeneca-vaccine-for-use/2021/02/16/6ba20490-7023-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Biden administration to begin admitting migrants forced to wait in Mexico"
     excerpt: "The Biden administration plans to begin processing and admitting migrants forced to wait in Mexico under Trump administration's \"Migrant Protection Protocols\""
     publishedDateTime: 2021-02-12T16:00:00Z
@@ -437,6 +453,6 @@ related:
         height: 400
         isCached: true
 
-secured: "lkuXRvuzO6hWDNNkg655r8DNp292ogvMDj4nrmYi7kS/xOl6C/0uHj2swi8mOSlNa8xJCIY+x13Jv849CfkKAUoP6/DzB7Xv/pEhywczctzgOb76PP3k3n65S76eoO7azhTkeH3EZfxeB0fF6jHPJN4VucwCq6uPAMfT1HOzQIFLPKcD6+6dGvuZWBtsmLo3eWyxnWGZpiXRVhA2l5SI5QWBbaFEXTaGmy9WxTMgrqDPbB66ks7A7k/ALgZwebyROPjFFgkKPU61AipiuPqC29dgQcSSozMnlJUBmK1savCiOw1r5n7wnmKcIEp0gPftlUynR06PD58vSMud+0GS4VIWeznSjKdtOgpW3c5rQxU=;eTXtG9ECKPIxbd/9BtboGA=="
+secured: "2zX4C9bO+nhnCzveiAOhhl+erAvUb834RLMYLObvRBiofItUEJE6cx4iefwtv1YRkNQjyn0l2JocAnQG/0grW6FupBt5ezRnUG1PuDxWzV1MnF4OL+VuBBJ7b0b0fYllHqr/VN4nhPuR+rmuVJPqYL18/kFLICp+mp1N0fyWAVDIQUTrRb9yqNHnwyv9+iWMvfGtIcqDTh+Tg0avDeE1en4TIH510CW13ryu6GiGZHSZIn9+2l3fU6jHZJRqc2d810s5waSLEB7p+FKYFa5bCgOeKYhBHCLKREJzR5DXIYnXBIXGNIoac3njMmsj1UFv0lFiSWYMtEWCP4jFssiZ2wQWH9rD7pnH5ZivVvrZu6aaQtle88+H4ZLJBbrlz5jGqC3dabsK0l8URskHpxLP/nXw5S1JwXaIXQBf7jG/6k2blL7UJNvn+p/vw4++pBVNdyJKSxhsU9J198uQvMUeMrZHIj/48B18F9CBAJID0O2PehxbBBAOz/j1Gz6NFO3rAdPodyT4lX2HmKkbBfwQ3g==;gxa3cOmMKC650P9DeaSRVQ=="
 ---
 

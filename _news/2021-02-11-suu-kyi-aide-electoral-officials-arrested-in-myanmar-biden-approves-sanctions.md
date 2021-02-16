@@ -79,6 +79,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "After rocket attack, Biden faces first real test in Iran"
+    excerpt: "Analysis: Fiery rhetoric of Trump era is gone, but flare-up in northern Iraq is a microcosm of tension to come"
+    publishedDateTime: 2021-02-16T18:36:00Z
+    webUrl: "https://www.theguardian.com/world/2021/feb/16/middle-east-biden-resumption-traditional-diplomacy-analysis"
+    ampWebUrl: "https://amp.theguardian.com/world/2021/feb/16/middle-east-biden-resumption-traditional-diplomacy-analysis"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/feb/16/middle-east-biden-resumption-traditional-diplomacy-analysis"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/0b615e4b0cd8ce4dad16685b60f9e2f230f4bedf/0_233_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c26e0484f413ac1c8065871643b5da35"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Biden launches review of Guantanamo prison, aims to close it before leaving office"
     excerpt: "President Joe Biden's aides have launched a formal review of the U.S. military prison at Guantanamo Bay in Cuba, reviving the Obama-era goal of closing the controversial facility with the aim of doing so before he leaves office,"
     publishedDateTime: 2021-02-13T05:18:00Z

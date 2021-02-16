@@ -348,6 +348,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump stays mostly quiet after impeachment acquittal, sticks to tight script"
+    excerpt: "Since Donald Trump was acquitted on Saturday in his Senate impeachment trial, he’s stayed mostly under the radar."
+    publishedDateTime: 2021-02-16T17:37:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pv5qolUQto8/trump-quiet-after-impeachment-acquittal-tight-script"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-quiet-after-impeachment-acquittal-tight-script.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-quiet-after-impeachment-acquittal-tight-script.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "The five biggest moments from Wednesday's session of Trump's impeachment trial"
     excerpt: "House impeachment managers made their case Wednesday for convicting former President Trump Wednesday, bringing up dramatic new security footage to tie Trump’s words to the Jan. 6 Capitol riot and the threat it posed to lawmakers and police. "
     publishedDateTime: 2021-02-11T01:20:00Z
@@ -1447,6 +1463,22 @@ related:
     quality: 133
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/GettyImages-1230970311.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump stays mostly quiet after impeachment acquittal, sticks to tight script"
+    excerpt: "Since Donald Trump was acquitted on Saturday in his Senate impeachment trial, he’s stayed mostly under the radar."
+    publishedDateTime: 2021-02-16T17:42:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-quiet-after-impeachment-acquittal-tight-script"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-quiet-after-impeachment-acquittal-tight-script.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-quiet-after-impeachment-acquittal-tight-script.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 132
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Trump-departs-BT.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true

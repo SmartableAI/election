@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/mike-lee-senate-trial-end-trump-acq
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-lee-senate-trial-end-trump-acquittal-impeachment-capitol-riot.amp"
 type: article
 quality: 175
-heat: 2295
+heat: 2335
 published: true
 
 provider:
@@ -332,6 +332,22 @@ related:
     quality: 172
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump stays mostly quiet after impeachment acquittal, sticks to tight script"
+    excerpt: "Since Donald Trump was acquitted on Saturday in his Senate impeachment trial, he’s stayed mostly under the radar."
+    publishedDateTime: 2021-02-16T17:37:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pv5qolUQto8/trump-quiet-after-impeachment-acquittal-tight-script"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-quiet-after-impeachment-acquittal-tight-script.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-quiet-after-impeachment-acquittal-tight-script.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
@@ -1452,6 +1468,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/kinzinger-impeachment-80.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Trump stays mostly quiet after impeachment acquittal, sticks to tight script"
+    excerpt: "Since Donald Trump was acquitted on Saturday in his Senate impeachment trial, he’s stayed mostly under the radar."
+    publishedDateTime: 2021-02-16T17:42:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-quiet-after-impeachment-acquittal-tight-script"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-quiet-after-impeachment-acquittal-tight-script.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-quiet-after-impeachment-acquittal-tight-script.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 132
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Trump-departs-BT.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Donald Trump Impeachment Trial Still Has GOP Sen. Bill Cassidy Asking Questions"
     excerpt: "The Louisiana Republican has emerged as a wild card and most visible swing vote in the trial over whether former President Donald Trump incited the riot at the Capitol last month."

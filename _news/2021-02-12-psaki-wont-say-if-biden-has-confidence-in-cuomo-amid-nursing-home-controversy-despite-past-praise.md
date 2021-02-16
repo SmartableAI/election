@@ -31,35 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Biden OMB pick Tanden called out during confirmation hearing for anti-GOP tweets, says 'I'm sorry'"
-    excerpt: "Minutes into her confirmation hearing, President Biden's nominee for director of the White House Office of Management and Budget Neera Tanden had to address concerns over hostile tweets she has posted against various Republican lawmakers."
-    publishedDateTime: 2021-02-09T16:33:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vo_05fBHJPI/biden-omb-pick-tanden-confirmation-hearing-apology-anti-gop-tweets"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-omb-pick-tanden-confirmation-hearing-apology-anti-gop-tweets.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-omb-pick-tanden-confirmation-hearing-apology-anti-gop-tweets.amp"
+  - title: "Psaki: Gun control a 'priority,' Biden 'not afraid of standing up' to the NRA"
+    excerpt: "White House press secretary Jen Psaki on Tuesday said gun control is a \"priority\" for President Biden – and said he is \"not afraid of standing up\" to the National Rifle Association."
+    publishedDateTime: 2021-02-16T18:27:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KNMXNPtCCYA/psaki-gun-control-a-priority-biden-not-afraid-of-standing-up-to-the-nra"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-gun-control-a-priority-biden-not-afraid-of-standing-up-to-the-nra.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-gun-control-a-priority-biden-not-afraid-of-standing-up-to-the-nra.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 161
+    quality: 172
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Neera-Tanden-Biden-OMB-AP.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Sen. Rubio calls Biden officials hypocritical for considering travel ban during the coronavirus pandemic"
-    excerpt: "The Biden administration’s consideration of a travel ban due to the coronavirus pandemic is “hypocritical,” Sen. Marco Rubio, R-Fla., said on Thursday."
-    publishedDateTime: 2021-02-11T17:22:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oRuyS5IctLk/rubio-biden-travel-ban-coronavirus-pandemic"
-    ampWebUrl: "https://www.foxnews.com/politics/rubio-biden-travel-ban-coronavirus-pandemic.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rubio-biden-travel-ban-coronavirus-pandemic.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 158
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true

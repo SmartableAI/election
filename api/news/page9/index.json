@@ -2,6 +2,120 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-02-04-usa-today-column-argues-tom-brady-has-gotten-undeserved-pass-for-supporting-trump-cites-white-privilege.md",
+      "title": "USA Today column argues Tom Brady has gotten 'undeserved pass' for supporting Trump, cites 'white privilege'",
+      "excerpt": "With Tom Brady days away from playing in his tenth Super Bowl, a USA Today sports columnist has taken aim at the NFL superstar over his past support of former President Donald Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/usa-today-column-tom-brady-undeserved-pass-for-supporting-trump",
+      "originalUrl": "https://www.foxnews.com/media/usa-today-column-tom-brady-undeserved-pass-for-supporting-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e7512a7c-8dd6-4e81-afc9-f7fec4e57256/cbb85a7a-e3a4-4ca4-8ffe-d9c46f5ddf97/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/usa-today-column-tom-brady-undeserved-pass-for-supporting-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/usa-today-column-tom-brady-undeserved-pass-for-supporting-trump.amp",
+      "publishedDateTime": "2021-02-03T20:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-04-in-bidens-white-house-surprise-visits-with-staff-replace-late-night-tweets-and-unscheduled-phone-calls.md",
+      "title": "In Biden's White House, surprise visits with staff replace late night tweets and unscheduled phone calls",
+      "excerpt": "Trump preferred seemingly aimless days at the White House. Biden has a carefully crafted schedule, but the pandemic has curbed his facetime with people.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2021/02/03/biden-white-house-interactions-465450",
+      "originalUrl": "https://www.politico.com/news/2021/02/03/biden-white-house-interactions-465450",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/22/18/bcd1a54d4885ae18c2b9abd242b3/210203-joe-biden-getty-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-03T16:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-04-biden-epa-nominee-vows-sense-of-urgency-on-climate-change.md",
       "title": "Biden EPA nominee vows ‘sense of urgency’ on climate change",
       "excerpt": "President Joe Biden’s nominee to run the Environmental Protection Agency has pledged to act with “a sense of urgency” on climate change and other priorities, while working with lawmakers from both par",
@@ -1232,105 +1346,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-trump-previews-impeachment-defense-it-wasnt-incitement-it-was-free-speech.md",
-      "title": "Trump Previews Impeachment Defense: It Wasn’t Incitement, It Was Free Speech",
-      "excerpt": "Donald Trump’s lawyers on Tuesday previewed their defense of the ex-president during next week’s impeachment trial, responding to pre-trial brief filed by House managers accusing him of a “grievous betrayal” of his oath of office for inciting last month’s attack on the Capitol.",
-      "sourceUrl": null,
-      "webUrl": "https://nymag.com/intelligencer/2021/02/trump-impeachment-violates-my-right-to-free-speech.html",
-      "originalUrl": "https://nymag.com/intelligencer/2021/02/trump-impeachment-violates-my-right-to-free-speech.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pyxis.nymag.com/v1/imgs/296/878/25434125e8951267e3143453e27a549073-trump-jan-6.1x.rsocial.w1200.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nymag.com/intelligencer/amp/2021/02/trump-impeachment-violates-my-right-to-free-speech.html",
-      "cdnAmpWebUrl": "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/02/trump-impeachment-violates-my-right-to-free-speech.html",
-      "publishedDateTime": "2021-02-02T10:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Magazine",
-        "domain": "nymag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-whistleblower-accuses-former-trump-official-of-abuse-of-authority-for-last-day-deal-with-ice-union.md",
-      "title": "Whistleblower accuses former Trump official of 'abuse of authority' for last day deal with ICE union",
-      "excerpt": "Former senior Department of Homeland Security official Ken Cuccinelli is accused in a new whistleblower complaint of mismanagement, waste and abuse of authority over a deal he signed with a union representing Immigration and Customs Enforcement officers that endorsed President Donald Trump.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZEV6se8mq9Y/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZEV6se8mq9Y/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190813111158-ken-cuccinelli-presser-uscis-081219-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/02/politics/cuccinelli-whistleblower-complaint-ice-union/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/02/politics/cuccinelli-whistleblower-complaint-ice-union/index.html",
-      "publishedDateTime": "2021-02-02T10:41:25-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],
