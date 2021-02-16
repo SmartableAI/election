@@ -1,14 +1,12 @@
 ---
 category: news
 title: "In NATO debut, Biden's Pentagon aims to rebuild trust damaged by Trump"
-excerpt: "President Joe Biden's administration will use a NATO defense gathering this week to begin what is expected to be a years-long effort to rebuild trust with European allies shaken by Donald Trump's \"America First\" foreign policy."
+excerpt: "U.S. President Joe Biden delivers remarks to Defense Department personnel during a visit to the Pentagon in Arlington, Virginia, U.S.0, 2021. REUTERS/Carlos Barria/File Photo"
 publishedDateTime: 2021-02-16T01:59:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-biden-nato-idUSKBN2AF1MX"
-webUrl: "https://www.reuters.com/article/us-usa-biden-nato-idUSKBN2AF1MX"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AF1MX"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AF1MX"
+originalUrl: "https://www.reuters.com/news/picture/in-nato-debut-bidens-pentagon-aims-to-re-idUSKBN2AF1MX"
+webUrl: "https://www.reuters.com/news/picture/in-nato-debut-bidens-pentagon-aims-to-re-idUSKBN2AF1MX"
 type: article
-quality: 140
+quality: 120
 heat: -1
 published: false
 
@@ -25,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210215&t=2&i=1551615679&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1E0XR"
-    width: 816
-    height: 545
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210215&t=2&i=1551615679&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEH1E0XR"
+    width: 810
+    height: 540
     isCached: true
 
 related:
@@ -407,6 +405,6 @@ related:
         height: 400
         isCached: true
 
-secured: "VfrWNa8NBIvSHtjTuHfI6K7E9Gbt8kFFwohBccc2yzbCbjinfHWv37ZZRMHh8Msv2Z6IuE7+jOuYYmx7RZEnaUpO1822C1IsbEG3KjGk220p6QcsYZBy5YhE8VSqVIbIwUA8e4OkOxirF9X7JMrhoE+c8W+bf0G/xIZ7g9Hzj9GGpDvRCAJpeefGqBTqRoULxa2omWIrJtKgaDCaZGKqUY4d9TCKmkegHNvXvjHyZpxbI6F8t8AHIoZnnLRJd8m0g1OaUSdQH4qFGgJGDNjum58ws3XIeNPOgXwd3E/QzN+rbB8sMyjbge02kW7Eenyb5F2pe2wVWJPO/WdyagnLTPi4P2pKIGyEFMTI590aAA8=;DBAk+b8hQJl4Ftf4qyV1WQ=="
+secured: "Zaa4YsccV6u+JzhxuV7AZA23qgzZwUXX3I+o09MtTV8EGOgjV/jdfVhUaxKlUJLKtoQj3SXa4QwnhQb/QMRMj5gVGnXDwV9JQg+KujVuRbkoqi0Xwkj9p90grDz7YTlOkkcGpwxIdxtcPGQbB+Zi/aUt0RHgcGvEsK2By3hEN9MJDH4NNoLvNYG8t1Nezt3gsWpXm+iM/3dfWVAGZtndfbDVFNk0okYsXHKz5v8vU6T5s1ocCZHqu6tdxROnAGZ+yZz+jmy6mRkP3EXtR7HbCpPFnzsMHCfzFiw491uraYa6EtLcUdyZMh6hDYFPFqIj1YGGqwBMEbOFdjbxlq4GdNPcdeujVYd0KwQOfe+/C1A=;JnIGr0GXexnn9rJ2SKe3hQ=="
 ---
 

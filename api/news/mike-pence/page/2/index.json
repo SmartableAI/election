@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-18-pence-tried-to-contact-capitol-officer-eugene-goodman-to-thank-him.md",
+      "title": "Pence tried to contact Capitol officer Eugene Goodman to thank him",
+      "excerpt": "The cop hailed as a hero for leading a crowd of insurrectionists away from the Senate floor and potentially saving... View Article",
+      "sourceUrl": null,
+      "webUrl": "https://thegrio.com/2021/01/18/officer-goodman-pence-thanks/",
+      "originalUrl": "https://thegrio.com/2021/01/18/officer-goodman-pence-thanks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thegrio.com/wp-content/uploads/2021/01/PenceGoodman-scaled.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thegrio.com/2021/01/18/officer-goodman-pence-thanks/amp/",
+      "cdnAmpWebUrl": "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2021/01/18/officer-goodman-pence-thanks/amp/",
+      "publishedDateTime": "2021-01-18T06:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Grio",
+        "domain": "thegrio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-01-18-pence-has-tried-to-reach-capitol-police-officer-who-led-rioters-away-from-senate-chambers-to-offer-thanks.md",
       "title": "Pence has tried to reach Capitol Police officer who led rioters away from Senate chambers to offer thanks",
       "excerpt": "Vice President Mike Pence reached out to Capitol Police officer Eugene Goodman late last week to thank him for his efforts during the attack on the US Capitol, a person close to Pence told CNN, but they haven't connected yet.\n    \n",
@@ -1563,63 +1606,6 @@
       "topics": [
         "Election",
         "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-trump-pressured-pence-to-engineer-a-coup-then-put-the-vp-in-danger-source-says.md",
-      "title": "Trump pressured Pence to engineer a coup, then put the VP in danger, source says",
-      "excerpt": "President Donald Trump and top White House officials did little to check in on Vice President Mike Pence while he and members of his family were inside the US Capitol when Trump-backed rioters stormed the halls of Congress on Wednesday, a source close to the vice president tells CNN.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gxFu2v2gDUA/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gxFu2v2gDUA/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 1215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210105143554-01-trump-pence-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/07/politics/trump-pence-riot/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/trump-pence-riot/index.html",
-      "publishedDateTime": "2021-01-07T10:31:53-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
         "Mike Pence"
       ]
     }

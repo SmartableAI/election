@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-16-op-ed-pence-was-a-potential-victim-on-jan-6-that-doesnt-make-him-a-hero.md",
+      "title": "OP-ED: Pence was a potential victim on Jan. 6. That doesn't make him a hero",
+      "excerpt": "When he issued a statement early on Jan. 6 indicating that he lacked the unilateral authority to determine which electoral votes should be counted, Vice President Mike Pence was stating the obvious. It was a \"Profiles in Courage\" moment only by the low standards of the Trump administration.",
+      "sourceUrl": null,
+      "webUrl": "https://www.yorkdispatch.com/story/opinion/contributors/2021/02/16/op-ed-pence-potential-victim-jan-6-doesnt-make-him-hero/6750644002/",
+      "originalUrl": "https://www.yorkdispatch.com/story/opinion/contributors/2021/02/16/op-ed-pence-potential-victim-jan-6-doesnt-make-him-hero/6750644002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/01/07/PPYD/406e2975-3b2f-4c1b-ba71-f98b02f86423-AP21007314794320.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.yorkdispatch.com/amp/6750644002",
+      "cdnAmpWebUrl": "https://amp-yorkdispatch-com.cdn.ampproject.org/c/s/amp.yorkdispatch.com/amp/6750644002",
+      "publishedDateTime": "2021-02-16T00:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The York Dispatch",
+        "domain": "yorkdispatch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-02-16-biden-has-reopened-obamacare-enrollment-but-how-fast-you-need-to-act-depends-on-where-you-live.md",
       "title": "Biden has reopened Obamacare enrollment, but how fast you need to act depends on where you live",
       "excerpt": "Residents of one state don't know whether they can participate in a special enrollment period for federally subsidized health insurance.",
@@ -1285,62 +1328,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-02-14-gov-governor-trumps-final-chapter-hasnt-been-written.md",
-      "title": "Gov. governor: Trump's final chapter hasn't been written",
-      "excerpt": "Republican Gov. Larry Hogan of Maryland tells CNN's Jake Tapper he thinks the final chapter of Donald Trump and where the Republican party goes hasn't been written yet.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FtFySg0deX8/trump-gop-future-hogan-sotu-tapper-vpx.cnn",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FtFySg0deX8/trump-gop-future-hogan-sotu-tapper-vpx.cnn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210214100839-gov-hogan-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2021/02/14/trump-gop-future-hogan-sotu-tapper-vpx.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/02/14/trump-gop-future-hogan-sotu-tapper-vpx.cnn",
-      "publishedDateTime": "2021-02-14T07:46:28-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/14/trump-acquittal-bide
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/14/trump-acquittal-biden-urges-vigilance-to-defend-fragile-democracy-after-impeachment-trial"
 type: article
 quality: 129
-heat: 1349
+heat: 1369
 published: true
 
 provider:
@@ -254,6 +254,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/trump-supporters-motorcade-florida-01-gty-jc-210215_1613422932600_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Trump impeachment trial live updates: Biden says charge 'not in dispute' in 1st comments on acquittal"
+    excerpt: "Biden remembered those who were killed and called for unity going forward. Senate votes Former President Donald Trump's historic second impeachment trial ended with a 57-43 vote to acquit in the Senate."
+    publishedDateTime: 2021-02-16T02:10:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/trump-impeachment-trial-live-updates-senate-debate-constitutionality/?id=75741945"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/trump-impeachment-trial-live-updates-senate-debate-constitutionality/?id=75741945"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/trump-impeachment-trial-live-updates-senate-debate-constitutionality/?id=75741945"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/joe-biden-plane_hpMain_20210213-225327_16x9_1600.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "With Trump impeachment trial over, wary Washington seeks to move forward"
     excerpt: "Former President Donald Trump's acquittal on charges of inciting a deadly attack on the U.S Capitol left Democrats and Republicans deeply divided on Sunday even as Washington seeks to move on with Democratic President Joe Biden's political agenda."

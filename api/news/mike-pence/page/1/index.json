@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-16-op-ed-pence-was-a-potential-victim-on-jan-6-that-doesnt-make-him-a-hero.md",
+      "title": "OP-ED: Pence was a potential victim on Jan. 6. That doesn't make him a hero",
+      "excerpt": "When he issued a statement early on Jan. 6 indicating that he lacked the unilateral authority to determine which electoral votes should be counted, Vice President Mike Pence was stating the obvious. It was a \"Profiles in Courage\" moment only by the low standards of the Trump administration.",
+      "sourceUrl": null,
+      "webUrl": "https://www.yorkdispatch.com/story/opinion/contributors/2021/02/16/op-ed-pence-potential-victim-jan-6-doesnt-make-him-hero/6750644002/",
+      "originalUrl": "https://www.yorkdispatch.com/story/opinion/contributors/2021/02/16/op-ed-pence-potential-victim-jan-6-doesnt-make-him-hero/6750644002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/01/07/PPYD/406e2975-3b2f-4c1b-ba71-f98b02f86423-AP21007314794320.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.yorkdispatch.com/amp/6750644002",
+      "cdnAmpWebUrl": "https://amp-yorkdispatch-com.cdn.ampproject.org/c/s/amp.yorkdispatch.com/amp/6750644002",
+      "publishedDateTime": "2021-02-16T00:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The York Dispatch",
+        "domain": "yorkdispatch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-02-13-trump-was-aware-pence-had-been-evacuated-to-secure-location-as-rioters-stormed-capitol.md",
       "title": "Trump was aware Pence had been evacuated to secure location as rioters stormed Capitol",
       "excerpt": "President Donald Trump was aware his vice president had been evacuated to a secure location as rioters stormed the US Capitol, according to a person who was with Trump on January 6.\n    \n",
@@ -1506,49 +1549,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-01-18-pence-tried-to-contact-capitol-officer-eugene-goodman-to-thank-him.md",
-      "title": "Pence tried to contact Capitol officer Eugene Goodman to thank him",
-      "excerpt": "The cop hailed as a hero for leading a crowd of insurrectionists away from the Senate floor and potentially saving... View Article",
-      "sourceUrl": null,
-      "webUrl": "https://thegrio.com/2021/01/18/officer-goodman-pence-thanks/",
-      "originalUrl": "https://thegrio.com/2021/01/18/officer-goodman-pence-thanks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thegrio.com/wp-content/uploads/2021/01/PenceGoodman-scaled.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thegrio.com/2021/01/18/officer-goodman-pence-thanks/amp/",
-      "cdnAmpWebUrl": "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2021/01/18/officer-goodman-pence-thanks/amp/",
-      "publishedDateTime": "2021-01-18T06:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Grio",
-        "domain": "thegrio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Mike Pence"
       ]
     }

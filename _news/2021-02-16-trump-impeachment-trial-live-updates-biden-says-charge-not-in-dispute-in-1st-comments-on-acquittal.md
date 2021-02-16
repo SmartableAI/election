@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Former President Trump's legal problems continue after acquittal"
-excerpt: "The Senate may have acquitted President Trump in his second impeachment trial, but his legal problems are far from over. CBS News legal expert and analyst Rikki Klieman joined CBSN to break down the issues the former president is likely to face."
-publishedDateTime: 2021-02-15T20:15:00Z
-originalUrl: "https://www.cbsnews.com/video/former-president-trumps-legal-problems-continue-after-acquittal/"
-webUrl: "https://www.cbsnews.com/video/former-president-trumps-legal-problems-continue-after-acquittal/"
+title: "Trump impeachment trial live updates: Biden says charge 'not in dispute' in 1st comments on acquittal"
+excerpt: "Biden remembered those who were killed and called for unity going forward. Senate votes Former President Donald Trump's historic second impeachment trial ended with a 57-43 vote to acquit in the Senate."
+publishedDateTime: 2021-02-16T02:10:00Z
+originalUrl: "https://abcnews.go.com/Politics/live-updates/trump-impeachment-trial-live-updates-senate-debate-constitutionality/?id=75741945"
+webUrl: "https://abcnews.go.com/Politics/live-updates/trump-impeachment-trial-live-updates-senate-debate-constitutionality/?id=75741945"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/trump-impeachment-trial-live-updates-senate-debate-constitutionality/?id=75741945"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/trump-impeachment-trial-live-updates-senate-debate-constitutionality/?id=75741945"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: CBS News
-  domain: cbsnews.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/02/15/acdcb853-ccbe-46f4-8074-eb5565593091/thumbnail/1200x630/a3e05c62bdbc5cc32afe428208b78e00/cbsn-fusion-former-president-trumps-legal-problems-continue-after-acquittal-thumbnail-646642-640x360.jpg"
-    width: 1200
-    height: 630
+  - url: "https://s.abcnews.com/images/Politics/joe-biden-plane_hpMain_20210213-225327_16x9_1600.jpg"
+    width: 1600
+    height: 900
     isCached: true
 
 related:
@@ -268,22 +270,6 @@ related:
       - url: "https://s.abcnews.com/images/Politics/trump-supporters-motorcade-florida-01-gty-jc-210215_1613422932600_hpMain_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Trump impeachment trial live updates: Biden says charge 'not in dispute' in 1st comments on acquittal"
-    excerpt: "Biden remembered those who were killed and called for unity going forward. Senate votes Former President Donald Trump's historic second impeachment trial ended with a 57-43 vote to acquit in the Senate."
-    publishedDateTime: 2021-02-16T02:10:00Z
-    webUrl: "https://abcnews.go.com/Politics/live-updates/trump-impeachment-trial-live-updates-senate-debate-constitutionality/?id=75741945"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/trump-impeachment-trial-live-updates-senate-debate-constitutionality/?id=75741945"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/trump-impeachment-trial-live-updates-senate-debate-constitutionality/?id=75741945"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/joe-biden-plane_hpMain_20210213-225327_16x9_1600.jpg"
-        width: 1600
-        height: 900
         isCached: true
   - title: "With Trump impeachment trial over, wary Washington seeks to move forward"
     excerpt: "Former President Donald Trump's acquittal on charges of inciting a deadly attack on the U.S Capitol left Democrats and Republicans deeply divided on Sunday even as Washington seeks to move on with Democratic President Joe Biden's political agenda."
@@ -768,6 +754,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Former President Trump's legal problems continue after acquittal"
+    excerpt: "The Senate may have acquitted President Trump in his second impeachment trial, but his legal problems are far from over. CBS News legal expert and analyst Rikki Klieman joined CBSN to break down the issues the former president is likely to face."
+    publishedDateTime: 2021-02-15T20:15:00Z
+    webUrl: "https://www.cbsnews.com/video/former-president-trumps-legal-problems-continue-after-acquittal/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/02/15/acdcb853-ccbe-46f4-8074-eb5565593091/thumbnail/1200x630/a3e05c62bdbc5cc32afe428208b78e00/cbsn-fusion-former-president-trumps-legal-problems-continue-after-acquittal-thumbnail-646642-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "What's next in Washington after Trump's second impeachment acquittal"
     excerpt: "President Biden and Congress are moving forward after the Senate voted to acquit former President Trump in his second impeachment trial on Saturday. CBS News congressional correspondent Nikole Killion and Associated Press White House reporter Zeke Miller spoke to \"Red and Blue\" host Elaine Quijano about where Washington heads next."
     publishedDateTime: 2021-02-16T00:26:00Z
@@ -970,6 +970,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "+jhcAmpbJDUUcWvteKWQjWbEl2/u2VtAYv5+Upm7TihkyC9ofIiBPSi1RAx+2EGOVGDFulKuyBxMJSTMbFJmGKzjl6oDYrDsIdRi7YMl71TVGnu5OG/UROlvnKD9UIEKg7UTeTmdePacfjjFLwyXoGRX/DOWzh3JiljXytim4mBo9qEgq83BibVXQJpjbW3xFDgk7CAJzM40Z8toQs4FbsVh13CcVGsaZYKqKZLP9jpM+Xwq9zRJEZaf/Pvee1xXWrRcDyZ2aG2m8z7zGV6qGIe4izIYp9nNVUD9AsFrYIbCk/uyplejPcUrchMYVCIAosooxHbxjAsgvvlUzjH89g5KJKwIeyENfoujeNP+jS4=;XW15YlQffF1oEZ6/0FWCLw=="
+secured: "qt63I2lM7z4fyMrrrh00RoP0XJyKdkZWDQHXZo8LuOXegMMM03foFiDs0kSzn4yCDMEaLIAQ9pH6asvVLQ4FHm1aHswwx2woR1H6Z1cIorM7w/Jcs0SYtMz/gec1AjEsuF2ccWm8ID/vou67P4i0/zBxyPPHdhYqs7mkw7z7CTdap6eVdACfq8GXjAKEqRzzV8jhFXXF930r47pRRavOp6N0J8vYI7a1VkMVWzLjw81i64yvKyH9ORtG4ucHXgavBYrRqgsRBZrvK9xUNBdIvxE2/0j5JsN/P4pP6waSk6DlxJqMWZ9l+BId4LSUIoOhx8W/ab1JtPcA8Rk6+spXNpwI+uhbmJidlqcFTs/x7k0=;ECK/qG7tKjgF+7V3ef9kww=="
 ---
 

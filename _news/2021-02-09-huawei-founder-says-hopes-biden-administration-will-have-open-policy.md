@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A90AY"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A90AY"
 type: article
 quality: 125
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Biden faces questions about commitment to minimum wage hike"
+    excerpt: "President Joe Biden campaigned on raising the national minimum wage to $15 per hour and attached a proposal doing just that to the $1.9 trillion coronavirus pandemic relief bill"
+    publishedDateTime: 2021-02-16T07:05:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/activists-fear-bidens-commitment-higher-minimum-wage-75903511"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/activists-fear-bidens-commitment-higher-minimum-wage-75903511"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/activists-fear-bidens-commitment-higher-minimum-wage-75903511"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_d81b3879bfd9430a9155b21ede88112c_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Biden pledges action on guns amid resistance"
     excerpt: "White House officials met last week with several gun violence prevention groups as they weigh how to move forward on an issue that has stymied Democrats for years."

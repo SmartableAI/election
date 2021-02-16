@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Pres. Biden urging Congress for stricter gun ..."
-excerpt: "Watch \"Pres. Biden urging Congress for stricter gun laws as Sunday marks 3 years since the deadly mass shooting in Parkland, Florida\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN,"
-publishedDateTime: 2021-02-15T22:47:00Z
-originalUrl: "https://www.cbsnews.com/live/video/20210215234020-pres-biden-urging-congress-for-stricter-gun-laws-as-sunday-marks-3-years-since-the-deadly-mass-shooting-in-parkland-florida/"
-webUrl: "https://www.cbsnews.com/live/video/20210215234020-pres-biden-urging-congress-for-stricter-gun-laws-as-sunday-marks-3-years-since-the-deadly-mass-shooting-in-parkland-florida/"
+title: "Biden faces questions about commitment to minimum wage hike"
+excerpt: "President Joe Biden campaigned on raising the national minimum wage to $15 per hour and attached a proposal doing just that to the $1.9 trillion coronavirus pandemic relief bill"
+publishedDateTime: 2021-02-16T07:05:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/activists-fear-bidens-commitment-higher-minimum-wage-75903511"
+webUrl: "https://abcnews.go.com/Politics/wireStory/activists-fear-bidens-commitment-higher-minimum-wage-75903511"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/activists-fear-bidens-commitment-higher-minimum-wage-75903511"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/activists-fear-bidens-commitment-higher-minimum-wage-75903511"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: CBS News
-  domain: cbsnews.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cbsnews2.cbsistatic.com/hub/i/2014/10/24/81f260db-0e27-4cf7-83ac-a190dca0b384/slatedvr600x337.jpg"
-    width: 600
-    height: 337
+  - url: "https://s.abcnews.com/images/Politics/WireAP_d81b3879bfd9430a9155b21ede88112c_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -109,22 +111,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Biden faces questions about commitment to minimum wage hike"
-    excerpt: "President Joe Biden campaigned on raising the national minimum wage to $15 per hour and attached a proposal doing just that to the $1.9 trillion coronavirus pandemic relief bill"
-    publishedDateTime: 2021-02-16T07:05:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/activists-fear-bidens-commitment-higher-minimum-wage-75903511"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/activists-fear-bidens-commitment-higher-minimum-wage-75903511"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/activists-fear-bidens-commitment-higher-minimum-wage-75903511"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_d81b3879bfd9430a9155b21ede88112c_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Biden pledges action on guns amid resistance"
     excerpt: "White House officials met last week with several gun violence prevention groups as they weigh how to move forward on an issue that has stymied Democrats for years."
     publishedDateTime: 2021-02-15T22:44:00Z
@@ -173,7 +159,21 @@ related:
         width: 3000
         height: 2333
         isCached: true
+  - title: "Pres. Biden urging Congress for stricter gun ..."
+    excerpt: "Watch \"Pres. Biden urging Congress for stricter gun laws as Sunday marks 3 years since the deadly mass shooting in Parkland, Florida\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN,"
+    publishedDateTime: 2021-02-15T22:47:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210215234020-pres-biden-urging-congress-for-stricter-gun-laws-as-sunday-marks-3-years-since-the-deadly-mass-shooting-in-parkland-florida/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/2014/10/24/81f260db-0e27-4cf7-83ac-a190dca0b384/slatedvr600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
-secured: "DaR2wq0qZTMECqdpIZMrAxDdt73RNgTdbspOHvXoS2xKTF9ZllUQbIlj8qFr9PkLKeOgrquiXn1iqQ1bMY7pqfa49JMlyRdZjjjHswZnbWD3auCQQXkzmgj+di5ISIBysQ7Tyn+KMex5gDUkSPWuHVJdM1RgxOJMkBEQ9Cmo3cWfkst/6yDcpTGdlcHTnay7al7C6k9qSr/xzkbmnuD9dahtNDTxvfRBjxe7ZKoP43COxUyyXw+9YBtnx6dvs/VfR95iqQgD2R88wK+Rv2FVuMeJ1IIQq+lHbDkgmo9WXmHiJ1JyxCkNxD/w90T4UJN5+ciilD1TLn4sa0crVjc4rP/XuGYmueqZJ9h4UXMUHzs=;W0FR1DHe4d7NYKGW1U5VJA=="
+secured: "xyHwJRu8fGxV9M3OjL6bqQGbZ7Wj3nM/Xyn0WLXaDQAUmXXRRY48fQ1yf95msx8A3qurrXFPPWJAxK/PNnLz48N8A7bDnb4LDrSaTbALwEmw2mmbfqQoijRmfeffHUf1gCgvw1uoS3aQ8MnyEF4URqDDzh+M6rUeU4HvOpdGzI+wGFyRkftVnxn5DmT02/ELz4qgP1ZKw9aDoXeQ7jRvVL3l4GuSDU5BChEPYKzgh9m/oLKNV4doM6PNe1aYTajDAUKpfOnISEvcuTpbk4RS+OcmlxEES2MKrjHjkXTfED8cBVvvizi4zRWU48Q7Vi8ZT30Ns+tV4VqHqYjduZQ3ix4C+wj2v7IBTpgzYeisMqI=;UwZWxj9tIis0eNz4x5VBLA=="
 ---
 

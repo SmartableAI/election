@@ -255,6 +255,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump impeachment trial live updates: Biden says charge 'not in dispute' in 1st comments on acquittal"
+    excerpt: "Biden remembered those who were killed and called for unity going forward. Senate votes Former President Donald Trump's historic second impeachment trial ended with a 57-43 vote to acquit in the Senate."
+    publishedDateTime: 2021-02-16T02:10:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/trump-impeachment-trial-live-updates-senate-debate-constitutionality/?id=75741945"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/trump-impeachment-trial-live-updates-senate-debate-constitutionality/?id=75741945"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/trump-impeachment-trial-live-updates-senate-debate-constitutionality/?id=75741945"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/joe-biden-plane_hpMain_20210213-225327_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "With Trump impeachment trial over, wary Washington seeks to move forward"
     excerpt: "Former President Donald Trump's acquittal on charges of inciting a deadly attack on the U.S Capitol left Democrats and Republicans deeply divided on Sunday even as Washington seeks to move on with Democratic President Joe Biden's political agenda."
     publishedDateTime: 2021-02-14T16:01:00Z
@@ -954,6 +970,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "GoaaT2ekk/AIUsyMXtOjb2D2wptO/UJ0vC0dfEZLMAYNbu9qMkduWTmr1AY2po+hI4zwl/kSNEldOj3ZTFzJ394dzsQemyJIovxWRTPlzFNchJWcnatOR87WRDRbIYnVPHzy1rJT3mX0NDPpRpvMGQZZj8jClW+MfgYRrZIHP1Qcw/W3wzC4wJel9Ah1RaKEfH70morLx4uqYNFmkoCcGVmAhc1bXhXkkHKRTqgz4ipSkVEHPG9nfI1i+JjGo3d6iSy67DmNrCCEo42mSbh8dXsNJ/u/gjQViSELoraKFQv0uyaOhYp5T5LjpIAiiGIteXKjcP5Fag9rfxkFfZbqMDncQ208DH/Crd1oca+kqo4=;RBVdJf7z/CyiX1FJIfe55w=="
+secured: "doPbxdzav0jeToDgocwrg901JHok1CvPF5NeWamG2x6xq1j99Dk7l6hTxihcX/j4paiErT8n9XbvbAeqnYLTMytrTr++dufWdu+F5q3jCO8Qfk/l6vVCwzvJvfqrt1lDxIwoxXQuJNx2/97FvMqFlesAh4lhV2j4K/1BYoOdBCSO/pYQaXmWeKSpWUw3SnYDgYEVvuV4ewmlZG8sCl7INO2Enx48bIuwKtPA+XqED2L74+ltS3v5191Pht+a74Fktn+0r0XaKgCOctB+zalW/n3QNw0bbBDxbH0X6oX9uyUBrLkWR33dLZmP0LBOiTqZF51O9uHZ5oPv4knAgifFP6QiCzZPZJFcwbRXBmJPOofrhVC3bkhGWBVs2iycEVNsAjdSTH/hk9hhyu/fGgroh7+Gm2oDO+DJnLgJqvgNmTj7gYLvMAKEbBF21NCG4zN4YArpjA7BuWgywPfEjWlFc6kSrtLle35egolQjScONqMrkmTbr2Q3ZS8s+D7PYErX2081v8zmXP74FbWI6j879A==;jt/GKtgdTPs2k2f0EN/WHw=="
 ---
 
