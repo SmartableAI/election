@@ -255,6 +255,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "COVID-19 stimulus gets new focus after Trump impeachment trial"
+    excerpt: "Members of Congress have signaled a renewed focus on President Biden’s $1.9 trillion coronavirus stimulus plan after the conclusion of last weekend's impeachment trial of former President Trump."
+    publishedDateTime: 2021-02-16T09:18:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ur14gIUS3BI/covid-19-stimulus-gets-new-focus-after-trump-impeachment-trial"
+    ampWebUrl: "https://www.foxnews.com/politics/covid-19-stimulus-gets-new-focus-after-trump-impeachment-trial.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/covid-19-stimulus-gets-new-focus-after-trump-impeachment-trial.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Republican who called on Trump to resign admits conviction ‘very unlikely’"
     excerpt: "Sen. Pat Toomey, R-Pa., who has been a top critic of former President Trump and called for him to resign after last month’s riot at the Capitol, said in an interview Sunday that it is unlikely that the Senate will vote for a conviction on the one count of \"incitement of insurrection.\""
     publishedDateTime: 2021-02-08T09:41:35Z

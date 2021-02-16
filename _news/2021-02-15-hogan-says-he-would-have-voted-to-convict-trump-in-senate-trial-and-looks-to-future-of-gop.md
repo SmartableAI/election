@@ -780,6 +780,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Trump Tower’s Neighbors Are Relieved as Barricades Come Down"
+    excerpt: "Donald J. Trump’s presidency meant snarled traffic, blocked sidewalks and frequent protests outside his Manhattan home."
+    publishedDateTime: 2021-02-16T10:00:00Z
+    webUrl: "https://www.nytimes.com/2021/02/16/nyregion/trump-tower-traffic.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/16/nyregion/trump-tower-traffic.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/16/nyregion/trump-tower-traffic.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/15/nyregion/00nytrump-tower1/00nytrump-tower1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Impeachment Case Aims to Marshal Outrage of Capitol Attack Against Trump"
     excerpt: "Armed with lessons from the last impeachment trial of Donald J. Trump, prosecutors plan a shorter, video-heavy presentation to confront Republicans with the fury they felt around the Capitol riot."
     publishedDateTime: 2021-02-07T20:46:00Z

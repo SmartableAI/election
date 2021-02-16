@@ -1,34 +1,34 @@
 ---
 category: news
-title: "Analysis: Questions build about Trump's failure to protect Pence as impeachment trial nears its end"
-excerpt: "Donald Trump's impeachment lawyers failed to offer any real defense of why the former President did not do more to protect his vice president and members of Congress during the January 6 insurrection Friday, while new revelations about a conversation between Trump and House Minority Leader Kevin McCarthy"
-publishedDateTime: 2021-02-13T06:09:57Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ugkUk2_gtgg/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ugkUk2_gtgg/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/02/13/politics/trump-pence-impeachment-senate-saturday/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/trump-pence-impeachment-senate-saturday/index.html"
+title: "Trump Tower’s Neighbors Are Relieved as Barricades Come Down"
+excerpt: "Donald J. Trump’s presidency meant snarled traffic, blocked sidewalks and frequent protests outside his Manhattan home."
+publishedDateTime: 2021-02-16T10:00:00Z
+originalUrl: "https://www.nytimes.com/2021/02/16/nyregion/trump-tower-traffic.html"
+webUrl: "https://www.nytimes.com/2021/02/16/nyregion/trump-tower-traffic.html"
+ampWebUrl: "https://www.nytimes.com/2021/02/16/nyregion/trump-tower-traffic.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/16/nyregion/trump-tower-traffic.amp.html"
 type: article
-quality: 186
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: New York Times
+  domain: nytimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Donald Trump
   - Democratic Voice
-  - Mike Pence
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210212142954-trump-january-6-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://static01.nyt.com/images/2021/02/15/nyregion/00nytrump-tower1/00nytrump-tower1-facebookJumbo.jpg"
+    width: 1050
+    height: 550
     isCached: true
 
 related:
@@ -77,6 +77,22 @@ related:
     quality: 188
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210212164710-01-schumer-trump-impeachment-trial-0212-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: Questions build about Trump's failure to protect Pence as impeachment trial nears its end"
+    excerpt: "Donald Trump's impeachment lawyers failed to offer any real defense of why the former President did not do more to protect his vice president and members of Congress during the January 6 insurrection Friday, while new revelations about a conversation between Trump and House Minority Leader Kevin McCarthy"
+    publishedDateTime: 2021-02-13T06:09:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ugkUk2_gtgg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/13/politics/trump-pence-impeachment-senate-saturday/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/trump-pence-impeachment-senate-saturday/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 186
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210212142954-trump-january-6-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -764,22 +780,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Trump Tower’s Neighbors Are Relieved as Barricades Come Down"
-    excerpt: "Donald J. Trump’s presidency meant snarled traffic, blocked sidewalks and frequent protests outside his Manhattan home."
-    publishedDateTime: 2021-02-16T10:00:00Z
-    webUrl: "https://www.nytimes.com/2021/02/16/nyregion/trump-tower-traffic.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/16/nyregion/trump-tower-traffic.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/16/nyregion/trump-tower-traffic.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/02/15/nyregion/00nytrump-tower1/00nytrump-tower1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Impeachment Case Aims to Marshal Outrage of Capitol Attack Against Trump"
     excerpt: "Armed with lessons from the last impeachment trial of Donald J. Trump, prosecutors plan a shorter, video-heavy presentation to confront Republicans with the fury they felt around the Capitol riot."
     publishedDateTime: 2021-02-07T20:46:00Z
@@ -919,6 +919,6 @@ related:
         height: 720
         isCached: true
 
-secured: "x+yGV3IjiHmjfyx39SGQP9b6WyxuLzNXnq4fEZuIioP6XxypnMbmbDTZlHm0LeNUOSWmL71BICHCM9Lq807lc8EGi0F/DhJEKa/zAPVPJecaxfveXeqcy9rAAmMvawVcDE++YvHar97xYNDz04TQdpPAGgUtQ83kNe/qDueqTV4Rkv+98AgafyHYa9HFnwrCEZqfcI505bj+2iQuc06unZFOp7d8DbbIqDpsMjc28Kf3Zsv2+DpfHMAV2kM+15tMGWUpix7EfYqSChBsgUuvDJXAeg57Pvj0PgyWHMgHPapFS3xhwjo5Qr3nj/JiPI6JZQ+ZARnIwoxbsC1njYkL9dFak9oYa/nZiJcSDm2xpuU=;X3C8ycsM0FQTpOR7YR0vAg=="
+secured: "xlDZefYjiv9L3ifcSc//1OdZYzXvS//qnDUhR/OscRlzOCBwRZRgMpBu1LwgGNbD46zA01AxVRWQIbubmMEIPMjXNpE64/hDi0LxKFRqhO1ZY9CBrEHNWwC3FxLT2uOQnVc/5A1s5WEcXUcuN8zEvkg4XiPqq1A2SeHyq1n1/ybCi649YS4LKchYiWIG5Vabd6Sc/g3Smy7ZfdeH9+IqqWrMLntVB82CmOC2meFD8hPzy3ZZDSSkDRTBj/D4dFFdLr+0mqAP9RNzSfxdJxBkh0BBGc2U+DNPooQM90zNLFWIo1LHz8ywhLbsLewtfyNwY64GEHK5JJYzgT4ob5Qaq6fr6oRC9rrstsGFB07yD3c=;KqDSEFgjmhiuJG4RFS/6WA=="
 ---
 

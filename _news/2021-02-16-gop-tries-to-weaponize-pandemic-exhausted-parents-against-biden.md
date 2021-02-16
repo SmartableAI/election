@@ -1,33 +1,32 @@
 ---
 category: news
-title: "Biden emphasizes 'urgency' of $1.9T relief after Summers' op-ed on inflation"
-excerpt: "President Joe Biden responded to a new, sluggish jobs report by continuing to press for his $1.9 trillion Covid relief package to be passed with urgency -- even as a leading economist who served in the Obama administration is sounding the alarm on how the White House's plan could have negative economic"
-publishedDateTime: 2021-02-05T16:28:48Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/R8TKNxpGN2I/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/R8TKNxpGN2I/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/02/05/politics/joe-biden-jobs-numbers-relief-package/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/05/politics/joe-biden-jobs-numbers-relief-package/index.html"
+title: "GOP tries to weaponize pandemic-exhausted parents against Biden"
+excerpt: "Aware of this emerging voter demo, the White House is hoping its agenda and relief bill will inoculate it against frustrations."
+publishedDateTime: 2021-02-16T09:30:00Z
+originalUrl: "https://www.politico.com/states/california/story/2021/02/16/gop-tries-to-weaponize-pandemic-exhausted-parents-against-biden-1363697"
+webUrl: "https://www.politico.com/states/california/story/2021/02/16/gop-tries-to-weaponize-pandemic-exhausted-parents-against-biden-1363697"
 type: article
-quality: 172
+quality: 115
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: Politico
+  domain: politico.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210205103040-biden-harris-schumer-stimulus-meeting-0203-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://static.politico.com/af/a7/b3f1e03b4d75978fef5320564ed6/ap21021585963114-1.jpg"
+    width: 1160
+    height: 773
     isCached: true
 
 related:
@@ -108,6 +107,22 @@ related:
     quality: 173
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210211174203-joe-biden-february-11-2021-01-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden emphasizes 'urgency' of $1.9T relief after Summers' op-ed on inflation"
+    excerpt: "President Joe Biden responded to a new, sluggish jobs report by continuing to press for his $1.9 trillion Covid relief package to be passed with urgency -- even as a leading economist who served in the Obama administration is sounding the alarm on how the White House's plan could have negative economic"
+    publishedDateTime: 2021-02-05T16:28:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/R8TKNxpGN2I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/05/politics/joe-biden-jobs-numbers-relief-package/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/05/politics/joe-biden-jobs-numbers-relief-package/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210205103040-biden-harris-schumer-stimulus-meeting-0203-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -343,20 +358,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "GOP tries to weaponize pandemic-exhausted parents against Biden"
-    excerpt: "Aware of this emerging voter demo, the White House is hoping its agenda and relief bill will inoculate it against frustrations."
-    publishedDateTime: 2021-02-16T09:30:00Z
-    webUrl: "https://www.politico.com/states/california/story/2021/02/16/gop-tries-to-weaponize-pandemic-exhausted-parents-against-biden-1363697"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/af/a7/b3f1e03b4d75978fef5320564ed6/ap21021585963114-1.jpg"
-        width: 1160
-        height: 773
-        isCached: true
   - title: "Biden aims to isolate China on coal — but it could blow back on the U.S."
     excerpt: "The U.S. wants to stop new coal projects, but risks losing poor countries to Beijing’s \"Belt and Road\" agenda."
     publishedDateTime: 2021-02-13T12:06:00Z
@@ -372,6 +373,6 @@ related:
         height: 2665
         isCached: true
 
-secured: "KzFC/YBeYw2+f8NCG7WMVYxPFVHBFZ5h7fA+mMqcFVoAbb6eDDqxin+HzKlS8kJ1djVdV8ahlcQ3X8dsxXMwh4PlMVvGqmYKoKDUHWSmZdKAy4ChNKHMZnkLP1/RyYPbkbQY02fkubQqDyhCMLtSIxA6+OqUX/owSwaWG6Uc417/ehgFGoP+E/uMQtm7Dnbo2KAQ64QZqfFMfuXumIydcHLOPS7YWLkRnl51rTzU20cIaVrgAumPeY+bNUyE/MjlC9n0J34xh9qtcTsH6QMq2mpPV7gIrfpE26t8g8tYKbnR1ti/50KgsvzzEg7DrRynB/h6khIbck9FgG18VUY1dnVDnWnJglxt155c0G9GSco=;uyBy7CerhPujcn4ia0kNXA=="
+secured: "y43ol43UsrntJnpLfU6R4WNgPAhs8KUIDQDVWSb8kuu3tihzwJWpyI8t30bj3LHX/7V8mvNV2/VA9RcCRHV+BxqhGi/te0M4iU1BmCEJ1HxPKbT4ef+afa8/PTUyfvlh/XsJOiufNPNHVGBKCUz4NNu5kqfHhPDVXzTX9gVgFlmDOs+hsUAUGfYOaVvxoRFmvUaXDNp+HGM6Db/m/tN1gg5nvcP5uZNY1P9KCOGI9LzaUlBsyJQ25my+kYu2/RE73xAe7CYzOO85y4b0VaCUNZ5EhxLvnRCYlsU92+TSIouYMvKu4hggOgVPKmNGIRTMJX1LDqF5Ysse0v5RjgtIHtcprt6TOxiV3ZW/C2T7p1c=;E9Gzcpf9kdUI/CzkGfLjfA=="
 ---
 

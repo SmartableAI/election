@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/13/politics/trump-pence-capitol-riot
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/trump-pence-capitol-riot/index.html"
 type: article
 quality: 192
-heat: 1292
+heat: 1312
 published: true
 
 provider:
@@ -761,6 +761,22 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2021/02/14/us/politics/14dc-defectors1/14dc-defectors1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Trump Tower’s Neighbors Are Relieved as Barricades Come Down"
+    excerpt: "Donald J. Trump’s presidency meant snarled traffic, blocked sidewalks and frequent protests outside his Manhattan home."
+    publishedDateTime: 2021-02-16T10:00:00Z
+    webUrl: "https://www.nytimes.com/2021/02/16/nyregion/trump-tower-traffic.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/16/nyregion/trump-tower-traffic.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/16/nyregion/trump-tower-traffic.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/15/nyregion/00nytrump-tower1/00nytrump-tower1-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

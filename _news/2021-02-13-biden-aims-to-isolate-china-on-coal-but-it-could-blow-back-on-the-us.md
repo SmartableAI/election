@@ -358,6 +358,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "GOP tries to weaponize pandemic-exhausted parents against Biden"
+    excerpt: "Aware of this emerging voter demo, the White House is hoping its agenda and relief bill will inoculate it against frustrations."
+    publishedDateTime: 2021-02-16T09:30:00Z
+    webUrl: "https://www.politico.com/states/california/story/2021/02/16/gop-tries-to-weaponize-pandemic-exhausted-parents-against-biden-1363697"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/af/a7/b3f1e03b4d75978fef5320564ed6/ap21021585963114-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "otP4sJMsflRXWwRaLz25loHeq2ie7fEFyd3xpVhGXwh20ssNByUcGHyHv3RV1GeU37jgF7X+IDHic4GENoBWgNxgDSy3R/V8vknkBuMi0OMCmZlNx2iun0FH/FKQ18upjpN6Ra0i7i2YDfBfJwy0cfEWP2Lnl2HUESqQ+Iuc2cXGKfhnWjRF5YiYIkAkebJWYdliVLyMRznujcuwLdKAG5hWD9kl0Ms3Caryy4FPcFgN3e+1bB/C2sA5AlgGzsL2yx5oh0xqNIVJrl+E4ZebDSQWsXLWzOKbGqxskB4PJ12ve48K6avgmlGBUF9I/coQ8GdMD68bETRQHoUOpyZJygv/VDH1eFh0HiTwgZWhPMTubPdGmJjpBaYaN/vQSTmMqCV2J8mv+xv36+Ges1jlEaojeC5oRZc5YVDrcsvcVPEfq9s8us3A2WokOU7xuSbY7IoD/t85969PUwKe9TcSPaG5wlPI3Jg7OSmv4/XSVLxwD8WTDCj5LVBuRGdEprWE2jagdX25A659n426hEED2Q==;hq8IT+5qOCf+2Jcgx+oyMA=="
 ---

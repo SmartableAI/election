@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/11/politics/biden-1-9-trillion-bet/i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/11/politics/biden-1-9-trillion-bet/index.html"
 type: article
 quality: 175
-heat: 595
+heat: 615
 published: true
 
 provider:
@@ -342,6 +342,20 @@ related:
       - url: "https://media4.s-nbcnews.com/j/newscms/2021_06/3449368/210211-rainbow-flag-building-mn-1105_ed6e6300827f3cbed200fe7a7b46c75c.nbcnews-fp-1200-630.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "GOP tries to weaponize pandemic-exhausted parents against Biden"
+    excerpt: "Aware of this emerging voter demo, the White House is hoping its agenda and relief bill will inoculate it against frustrations."
+    publishedDateTime: 2021-02-16T09:30:00Z
+    webUrl: "https://www.politico.com/states/california/story/2021/02/16/gop-tries-to-weaponize-pandemic-exhausted-parents-against-biden-1363697"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/af/a7/b3f1e03b4d75978fef5320564ed6/ap21021585963114-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Biden aims to isolate China on coal — but it could blow back on the U.S."
     excerpt: "The U.S. wants to stop new coal projects, but risks losing poor countries to Beijing’s \"Belt and Road\" agenda."

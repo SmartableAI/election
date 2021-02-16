@@ -256,6 +256,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "COVID-19 stimulus gets new focus after Trump impeachment trial"
+    excerpt: "Members of Congress have signaled a renewed focus on President Biden’s $1.9 trillion coronavirus stimulus plan after the conclusion of last weekend's impeachment trial of former President Trump."
+    publishedDateTime: 2021-02-16T09:18:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ur14gIUS3BI/covid-19-stimulus-gets-new-focus-after-trump-impeachment-trial"
+    ampWebUrl: "https://www.foxnews.com/politics/covid-19-stimulus-gets-new-focus-after-trump-impeachment-trial.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/covid-19-stimulus-gets-new-focus-after-trump-impeachment-trial.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump’s impeachment attorney goes viral after exchange with CBS reporter"
     excerpt: "Michael van der Veen, one of former President Trump’s lawyers at the impeachment trial, went viral Saturday after an interview with CBS News’ streaming service called CBSN."
     publishedDateTime: 2021-02-15T04:30:23Z

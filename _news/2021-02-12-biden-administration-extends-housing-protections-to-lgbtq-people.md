@@ -344,6 +344,20 @@ related:
         width: 1120
         height: 629
         isCached: true
+  - title: "GOP tries to weaponize pandemic-exhausted parents against Biden"
+    excerpt: "Aware of this emerging voter demo, the White House is hoping its agenda and relief bill will inoculate it against frustrations."
+    publishedDateTime: 2021-02-16T09:30:00Z
+    webUrl: "https://www.politico.com/states/california/story/2021/02/16/gop-tries-to-weaponize-pandemic-exhausted-parents-against-biden-1363697"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/af/a7/b3f1e03b4d75978fef5320564ed6/ap21021585963114-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Biden aims to isolate China on coal — but it could blow back on the U.S."
     excerpt: "The U.S. wants to stop new coal projects, but risks losing poor countries to Beijing’s \"Belt and Road\" agenda."
     publishedDateTime: 2021-02-13T12:06:00Z

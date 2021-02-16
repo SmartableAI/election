@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Donald Trump's impeachment attorney draw comparisons to 'My Cousin Vinny' character"
-excerpt: "Defense attorney Bruce Castor was compared to the inept lawyer from the movie “My Cousin Vinny” following his opening argument in Donald Trump’s second impeachment trial before the U.S. Senate."
-publishedDateTime: 2021-02-10T21:03:00Z
-originalUrl: "https://www.foxnews.com/entertainment/donald-trump-impeachment-attorney-my-cousin-vinny"
-webUrl: "https://www.foxnews.com/entertainment/donald-trump-impeachment-attorney-my-cousin-vinny"
-ampWebUrl: "https://www.foxnews.com/entertainment/donald-trump-impeachment-attorney-my-cousin-vinny.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/donald-trump-impeachment-attorney-my-cousin-vinny.amp"
+title: "COVID-19 stimulus gets new focus after Trump impeachment trial"
+excerpt: "Members of Congress have signaled a renewed focus on President Biden’s $1.9 trillion coronavirus stimulus plan after the conclusion of last weekend's impeachment trial of former President Trump."
+publishedDateTime: 2021-02-16T09:18:04Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ur14gIUS3BI/covid-19-stimulus-gets-new-focus-after-trump-impeachment-trial"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ur14gIUS3BI/covid-19-stimulus-gets-new-focus-after-trump-impeachment-trial"
+ampWebUrl: "https://www.foxnews.com/politics/covid-19-stimulus-gets-new-focus-after-trump-impeachment-trial.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/covid-19-stimulus-gets-new-focus-after-trump-impeachment-trial.amp"
 type: article
-quality: 129
+quality: 175
 heat: -1
 published: false
 
@@ -22,13 +22,12 @@ provider:
 
 topics:
   - Election
-  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/02/640/320/JoePesci4.jpg?ve=1&tl=1"
-    width: 640
-    height: 320
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+    width: 340
+    height: 340
     isCached: true
 
 related:
@@ -253,22 +252,6 @@ related:
     quality: 175
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "COVID-19 stimulus gets new focus after Trump impeachment trial"
-    excerpt: "Members of Congress have signaled a renewed focus on President Biden’s $1.9 trillion coronavirus stimulus plan after the conclusion of last weekend's impeachment trial of former President Trump."
-    publishedDateTime: 2021-02-16T09:18:04Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ur14gIUS3BI/covid-19-stimulus-gets-new-focus-after-trump-impeachment-trial"
-    ampWebUrl: "https://www.foxnews.com/politics/covid-19-stimulus-gets-new-focus-after-trump-impeachment-trial.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/covid-19-stimulus-gets-new-focus-after-trump-impeachment-trial.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
@@ -1470,6 +1453,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Donald Trump's impeachment attorney draw comparisons to 'My Cousin Vinny' character"
+    excerpt: "Defense attorney Bruce Castor was compared to the inept lawyer from the movie “My Cousin Vinny” following his opening argument in Donald Trump’s second impeachment trial before the U.S. Senate."
+    publishedDateTime: 2021-02-10T21:03:00Z
+    webUrl: "https://www.foxnews.com/entertainment/donald-trump-impeachment-attorney-my-cousin-vinny"
+    ampWebUrl: "https://www.foxnews.com/entertainment/donald-trump-impeachment-attorney-my-cousin-vinny.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/donald-trump-impeachment-attorney-my-cousin-vinny.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 129
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/02/640/320/JoePesci4.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "GOP Sen. Portman cites 'serious constitutional questions' with Trump impeachment trial"
     excerpt: "Portman asserted that Trump “bears some responsibility” for the events of Jan. 6, when his supporters stormed the Capitol complex as lawmakers met to confirm President Biden’s election victory. However,"
     publishedDateTime: 2021-02-10T23:51:00Z
@@ -1665,6 +1664,6 @@ related:
         height: 720
         isCached: true
 
-secured: "gurpkWaBWoL8qsEEza6qJNYy3SW6rWgY2xH/KQrXp2VjLI2y7APvYG9nVDq7Q/jEul308HUhIzWqe2ezdkh6DCX++3NIOkITavkIg2d7FjTjTZ9rZY8dD+SpZO4Za7nMZlFdpk6S7wME9lmDVEbghtMg2jM6s92MBsKsZ+Xrouk3Q8ehPCiP3s4+aEvvpi2taoAXohX9A1lq/gDGVt0XNxULRSnH7B/WWSA8PPY3nphqa5qHTrzxEn3Mb4GIWPJljoU8eWXdT73JxUyMVB6rRfJKdF0Z0E2UHJl/tpSaSEjj84cNCt+I6cTgQlnBygD0Ox6SsktC2S9Tp/i5bkYDUOCi8mK20AGkPCWYxIzCiU90ulUmBalbG9KwjmDge+xKaThapAqN3qOhFo4M9PPktIKnxFY/gUyV2L3+7Dar6bWsxkzz9aICOHRyvNNWno6mrYVtVP3OI2sabbm8RSc6SmXJjKz3PyaqdgpgFAT0SY0uqbWD0uvl51VQmIzC3F5xENVy4byKeAIRiyB7lrkicQ==;4WOIrpKoazJbAUCPM93/Xg=="
+secured: "28/QC6bVIkq8GXqpOKLsOsF3Mfa20ZdwUPmIzEwaMIo/CBfNZ7rKWdE1/+Lbve4T7tEZqGIVlN2K3ndLry1gi4SrDFMFiJBvTyRzWWbsDfE6LyMvTPLc0ipbhi3nhu4cNg0l5vfLWiuAk5xjhXuWkDMkjSEjIrJDtqtrRIGPJ2IUAv+b6WVAUOH05yG/3KDfzJjpDSuiGEQNqcMn0ixj/W5yqhWfQq0LB5ub0F0/YOStqX/1E5ElGHRAvgXqMiZs4g7qGSvPbMBW8E5Ph29fhtKBVICypoy89kciQ+bzscXdgi4UyDQBvshwOq8saS8To6uBLMsHfdb5Jga2LS8DRXiygQ/SZ/LCJl2oijFNTCY=;R0IgY+Fn8xPZf5MGdSDL5Q=="
 ---
 

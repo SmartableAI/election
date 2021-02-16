@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/mike-lee-senate-trial-end-trump-acq
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-lee-senate-trial-end-trump-acquittal-impeachment-capitol-riot.amp"
 type: article
 quality: 175
-heat: 2215
+heat: 2235
 published: true
 
 provider:
@@ -236,6 +236,22 @@ related:
     quality: 175
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "COVID-19 stimulus gets new focus after Trump impeachment trial"
+    excerpt: "Members of Congress have signaled a renewed focus on President Biden’s $1.9 trillion coronavirus stimulus plan after the conclusion of last weekend's impeachment trial of former President Trump."
+    publishedDateTime: 2021-02-16T09:18:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ur14gIUS3BI/covid-19-stimulus-gets-new-focus-after-trump-impeachment-trial"
+    ampWebUrl: "https://www.foxnews.com/politics/covid-19-stimulus-gets-new-focus-after-trump-impeachment-trial.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/covid-19-stimulus-gets-new-focus-after-trump-impeachment-trial.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
