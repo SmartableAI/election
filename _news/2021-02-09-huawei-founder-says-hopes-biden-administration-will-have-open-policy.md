@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A90AY"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A90AY"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Biden pledges action on guns amid resistance"
+    excerpt: "White House officials met last week with several gun violence prevention groups as they weigh how to move forward on an issue that has stymied Democrats for years."
+    publishedDateTime: 2021-02-15T22:44:00Z
+    webUrl: "https://thehill.com/homenews/administration/538672-biden-pledges-action-on-guns-amid-resistance"
+    ampWebUrl: "https://thehill.com/homenews/administration/538672-biden-pledges-action-on-guns-amid-resistance?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/538672-biden-pledges-action-on-guns-amid-resistance?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_getty100220.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Biden's 1st 100 days live updates: Biden wants Congress to take action on gun reform"
     excerpt: "In a statement marking the 3 year anniversary of the Parkland Shooting, Biden is calling on Congress to take action on gun control reform. \"This Administration will not"

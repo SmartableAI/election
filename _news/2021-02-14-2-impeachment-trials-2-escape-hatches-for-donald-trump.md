@@ -217,6 +217,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Proud Boys Gleeful Over Donald Trump Acquittal, Look Ahead to 2024"
+    excerpt: "Proud Boys members rejoiced online after former President Donald Trump was acquitted for a second time, with members praising the firebrand politician in Telegram channels."
+    publishedDateTime: 2021-02-15T14:57:00Z
+    webUrl: "https://www.newsweek.com/proud-boys-gleeful-donald-trump-acquitted-look-2024-1569356"
+    ampWebUrl: "https://www.newsweek.com/proud-boys-gleeful-donald-trump-acquitted-look-2024-1569356?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/proud-boys-gleeful-donald-trump-acquitted-look-2024-1569356?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1735011/proud-boys-gleeful-after-trump-acquitted.jpg"
+        width: 3200
+        height: 2133
+        isCached: true
   - title: "Support grows for Capitol riot inquiry after Trump acquittal"
     excerpt: "A day after former President Donald Trump won his second Senate impeachment trial, bipartisan support appeared to be growing for an independent Sept. 11-style commission into the deadly insurrection that took place at the U."
     publishedDateTime: 2021-02-15T06:06:00Z

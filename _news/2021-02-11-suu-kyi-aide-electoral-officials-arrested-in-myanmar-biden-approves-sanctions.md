@@ -63,6 +63,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Netanyahu acknowledges differences with Biden, but confident he'll call"
+    excerpt: "Israeli Prime Minister Benjamin Netanyahu on Monday acknowledged differences with U.S. President Joe Biden over Iranian and Palestinian issues, but said they enjoy a \"very strong\" working relationship."
+    publishedDateTime: 2021-02-16T01:30:00Z
+    webUrl: "https://www.reuters.com/article/us-israel-usa/netanyahu-acknowledges-differences-with-biden-but-confident-hell-call-idUSKBN2AF1US"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AF1US"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AF1US"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210215&t=2&i=1551630976&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1E13E"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden launches review of Guantanamo prison, aims to close it before leaving office"
     excerpt: "President Joe Biden's aides have launched a formal review of the U.S. military prison at Guantanamo Bay in Cuba, reviving the Obama-era goal of closing the controversial facility with the aim of doing so before he leaves office,"
     publishedDateTime: 2021-02-13T05:18:00Z

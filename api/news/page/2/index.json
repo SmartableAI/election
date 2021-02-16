@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-14-trump-acquittal-biden-urges-vigilance-to-defend-fragile-democracy-after-impeachment-trial.md",
+      "title": "Trump acquittal: Biden urges vigilance to defend 'fragile' democracy after impeachment trial",
+      "excerpt": "President says the substance of the charge against Donald Trump over the January attack on US Capitol is not in dispute",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/feb/14/trump-acquittal-biden-urges-vigilance-to-defend-fragile-democracy-after-impeachment-trial",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/feb/14/trump-acquittal-biden-urges-vigilance-to-defend-fragile-democracy-after-impeachment-trial",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1329,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/c680f2571d7f60e33c3235b84bc24d5e5c969590/0_84_5472_3283/master/5472.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9ca49357272737d2ff54874ce241fed9",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/feb/14/trump-acquittal-biden-urges-vigilance-to-defend-fragile-democracy-after-impeachment-trial",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/14/trump-acquittal-biden-urges-vigilance-to-defend-fragile-democracy-after-impeachment-trial",
+      "publishedDateTime": "2021-02-14T02:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-02-14-the-latest-biden-says-all-americans-must-defend-the-truth.md",
       "title": "The Latest: Biden says all Americans must 'defend the truth'",
       "excerpt": "President Joe Biden is responding to the acquittal of Donald Trump by stating that all Americans, especially the nation’s leaders, have a duty and responsibility “to defend the truth and to defeat the lies.",
@@ -1302,58 +1354,6 @@
       "topics": [
         "Election",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-02-13-mike-pences-nuclear-football-was-potentially-at-risk-during-capitol-riot.md",
-      "title": "Mike Pence's 'nuclear football' was potentially at risk during Capitol riot",
-      "excerpt": "Footage from 6 January shows mob was within 30 metres of Pence and air force officer carrying briefcase with nuclear codes",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/feb/12/mike-pence-nuclear-football-capitol-riot",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/feb/12/mike-pence-nuclear-football-capitol-riot",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/aa570c715fe508074fa860f143bc11e882931278/0_103_3277_1966/master/3277.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=55d5ec64a57c06a57b87f6d8c091f553",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/feb/12/mike-pence-nuclear-football-capitol-riot",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/12/mike-pence-nuclear-football-capitol-riot",
-      "publishedDateTime": "2021-02-12T10:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/biden-order-reestablishes-fa
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-order-reestablishes-faith-focused-white-house-office/2021/02/14/17fe6700-6ee0-11eb-8651-6d3091eac63f_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 325
+heat: 345
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/a122384157b1a45c480aaa7f172ae26b85684ac7/0_346_5184_3110/master/5184.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=125dfaa203fcd745263e6528ece9b660"
         width: 600
         height: 360
+        isCached: true
+  - title: "Netanyahu acknowledges differences with Biden, but confident he'll call"
+    excerpt: "Israeli Prime Minister Benjamin Netanyahu on Monday acknowledged differences with U.S. President Joe Biden over Iranian and Palestinian issues, but said they enjoy a \"very strong\" working relationship."
+    publishedDateTime: 2021-02-16T01:30:00Z
+    webUrl: "https://www.reuters.com/article/us-israel-usa/netanyahu-acknowledges-differences-with-biden-but-confident-hell-call-idUSKBN2AF1US"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AF1US"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AF1US"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210215&t=2&i=1551630976&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1E13E"
+        width: 817
+        height: 545
         isCached: true
   - title: "Suu Kyi aide, electoral officials arrested in Myanmar, Biden approves sanctions"
     excerpt: "A close aide to ousted Myanmar leader Aung San Suu Kyi was detained in a new wave of arrests following last week's military coup, a party official said on Thursday, as Washington moved a step closer to imposing sanctions on the junta."

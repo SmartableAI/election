@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/gop-sen-cassidy-trumps-force-wanes-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-sen-cassidy-trumps-force-wanes-following-senate-impeachment-trial.amp"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b66a74cb-363c-4de7-926e-27d09edbeac7/a6fa7d29-9a47-4907-9397-422056e57fe2/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "North Carolina Republicans censure Senator Richard Burr over vote to convict Trump"
+    excerpt: "The North Carolina GOP Central Committee on Monday night censured home state Sen. Richard Burr over his vote his impeachment vote in the Senate trial of former President Donald Trump."
+    publishedDateTime: 2021-02-16T01:55:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/R_KUZlRZ2gA/north-carolina-republican-censure-burr-over-trump-impeachment"
+    ampWebUrl: "https://www.foxnews.com/politics/north-carolina-republican-censure-burr-over-trump-impeachment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/north-carolina-republican-censure-burr-over-trump-impeachment.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Trump will 'have a place in history' for Capitol riot but remains 'most popular figure' in GOP: Graham"
     excerpt: "Former President Donald Trump will \"have a place in history\" for his role leading up to the riot at the U.S. Capitol last month, but he stills remains the \"most popular figure\" in the Republican Party, Sen. Lindsey Graham said Sunday."

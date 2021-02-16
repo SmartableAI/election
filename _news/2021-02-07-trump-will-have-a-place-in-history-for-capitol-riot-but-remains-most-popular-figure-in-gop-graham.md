@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "North Carolina Republicans censure Senator Richard Burr over vote to convict Trump"
+    excerpt: "The North Carolina GOP Central Committee on Monday night censured home state Sen. Richard Burr over his vote his impeachment vote in the Senate trial of former President Donald Trump."
+    publishedDateTime: 2021-02-16T01:55:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/R_KUZlRZ2gA/north-carolina-republican-censure-burr-over-trump-impeachment"
+    ampWebUrl: "https://www.foxnews.com/politics/north-carolina-republican-censure-burr-over-trump-impeachment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/north-carolina-republican-censure-burr-over-trump-impeachment.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Pence reportedly 'angry' at Trump for not asking about his safety during Capitol riot: Chris Wallace"
     excerpt: "Former Vice President Mike Pence feels \"residual bitterness\" toward former President Donald Trump over his lack of concern for Pence's safety during the deadly Jan. 6 riot at the Capitol, \"Fox News Sunday\" host Chris Wallace told \"The Story\" on Wednesday."
     publishedDateTime: 2021-02-10T23:15:00Z

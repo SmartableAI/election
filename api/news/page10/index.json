@@ -2,6 +2,58 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-02-02-trump-set-off-capitol-riot-powder-keg-impeachment-prosecutors-say.md",
+      "title": "Trump set off Capitol riot 'powder keg', impeachment prosecutors say",
+      "excerpt": "House of Representatives officials submit 80-page memo and say ‘Trump’s responsibility for the events of 6 January is unmistakable’",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/feb/02/trump-capitol-riot-powder-keg-impeachment-prosecutors",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/feb/02/trump-capitol-riot-powder-keg-impeachment-prosecutors",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 425,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/fc581ba97fb85a55916e5b6217dc5e92089cf157/0_133_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=acb5922d739dacae4a012197426171a6",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/feb/02/trump-capitol-riot-powder-keg-impeachment-prosecutors",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/02/trump-capitol-riot-powder-keg-impeachment-prosecutors",
+      "publishedDateTime": "2021-02-02T07:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-02-new-doj-hire-is-former-colleague-of-hunter-biden-defense-attorney.md",
       "title": "New DOJ hire is former colleague of Hunter Biden defense attorney",
       "excerpt": "The newly selected acting head of the Justice Department's criminal division is a former colleague of the attorney now representing Hunter Biden in the face of a DOJ investigation.",
@@ -1307,58 +1359,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-gamestop-robinhood-revolution-stock-frenzy-echoes-anti-establishment-anger-behind-trumps-rise-analysts-say.md",
-      "title": "GameStop-Robinhood revolution: Stock frenzy echoes anti-establishment anger behind Trump's rise, analysts say",
-      "excerpt": "Robinhood investors running up GameStop stock price parallels anti-establishment anger and populist fervor behind Trump's rise to the presidency.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/01/29/gamestop-stock-robinhood-revolution-trump-mob-reddit/4297906001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/01/29/gamestop-stock-robinhood-revolution-trump-mob-reddit/4297906001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/media/2021/01/28/USATODAY/usatsports/247WallSt.com-247WS-834613-gamestop-store.jpg?auto=webp&crop=1365,768,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/4297906001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4297906001",
-      "publishedDateTime": "2021-01-31T12:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

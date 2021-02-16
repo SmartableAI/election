@@ -46,6 +46,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Burr censured by North Carolina GOP for voting to convict Trump"
+    excerpt: "The North Carolina Republican Party will meet Monday to vote on whether to censure Sen. Richard Burr for his vote to convict former President Donald Trump during his second impeachment trial -- a move that would make him the latest GOP senator to be reprimanded by his state party for siding with Democrats"
+    publishedDateTime: 2021-02-16T02:15:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rljBjo1-TfU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/15/politics/richard-burr-north-carolina-gop-censure-impeachment/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/15/politics/richard-burr-north-carolina-gop-censure-impeachment/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200320161313-01-richard-burr-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "1pDl+G5SArzrfJJOtaYLxAIohWePD/bXSeJD0yn6DyewLl0ebiTLu7owfmhkjX/FKnQUcoHi1KvfnMG/WFIe7gRp8vQ4nEoug+NpN5+6KkjQcQKRlAC9uwDVZcdBcbMECp0d4jF0S4qFFvgTvSjn8p3O8B5LS6oDVQP7CK3FdOR1pVx7oc+N+KlmpvCYm6aXivYobA4SOw6Gqgi7ALShFTQcEAuwbOruFtGEAqNbAzA+YG4uB+YH2RYweV8P5MQnDWFYiezuWSrwEpVO5XnCQsLkbaukow93jzd86VWwq84qSRCEaLc1UR2gyD1bjOYg68mSJPwhLhntZaLxbROZ/tuAVA1XnD6Kb/NxgAzdFk8=;Gg5GswR3YCpUzMYYW2ELUQ=="
 ---

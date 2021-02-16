@@ -111,6 +111,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden pledges action on guns amid resistance"
+    excerpt: "White House officials met last week with several gun violence prevention groups as they weigh how to move forward on an issue that has stymied Democrats for years."
+    publishedDateTime: 2021-02-15T22:44:00Z
+    webUrl: "https://thehill.com/homenews/administration/538672-biden-pledges-action-on-guns-amid-resistance"
+    ampWebUrl: "https://thehill.com/homenews/administration/538672-biden-pledges-action-on-guns-amid-resistance?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/538672-biden-pledges-action-on-guns-amid-resistance?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_getty100220.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Maryland Senators See Joe Biden's Immigration Policy as Key To Grant Citizenship To TPS Holders"
     excerpt: "The SECURE Act would provide a pathway to permanent resident status for over 400,000 immigrants who have Temporary Protected Status after fleeing natural disasters and civil unrest in their home countries."
     publishedDateTime: 2021-02-09T02:44:00Z
