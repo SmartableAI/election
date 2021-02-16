@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Lincoln Project's Rick Wilson raised $64G for anti-Trump film that was never released"
+    excerpt: "Rick Wilson, co-founder of the anti-Trump Lincoln Project PAC, raised nearly $65,000 for an in-production film called \"Everything Trump Touches Dies\" that has yet to be released."
+    publishedDateTime: 2021-02-16T15:28:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MMh8b_NuMDI/lincoln-project-rick-wilson-anti-trump-film-donations"
+    ampWebUrl: "https://www.foxnews.com/politics/lincoln-project-rick-wilson-anti-trump-film-donations.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lincoln-project-rick-wilson-anti-trump-film-donations.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Capture2.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Anti-Trump Lincoln Project ignored John Weaver misconduct crisis: Here's how it happened"
     excerpt: "In June 2020, members of the Lincoln Project's leadership were informed in writing and in subsequent phone calls of at least 10 specific allegations of harassment against co-founder John Weaver, including two involving Lincoln Project employees, according to multiple people with direct knowledge of the"
     publishedDateTime: 2021-02-11T14:53:23Z

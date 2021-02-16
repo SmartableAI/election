@@ -63,7 +63,23 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Nearly 60% of Republican voters think Trump should continue to play 'a major role' in the GOP going forward, new poll shows"
+    excerpt: "The new Politico/Morning Consult poll also found that Trump's support in a hypothetical 2024 GOP primary had returned to pre-insurrection levels."
+    publishedDateTime: 2021-02-16T15:42:00Z
+    webUrl: "https://www.businessinsider.com/59-percent-gop-voters-think-trump-major-role-in-gop-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/59-percent-gop-voters-think-trump-major-role-in-gop-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/59-percent-gop-voters-think-trump-major-role-in-gop-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 99
+    images:
+      - url: "https://i.insider.com/6018d8c1d6c5e60019c6e5f4?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
-secured: "IUgap2KnZpXlr437nRMyXR+Vtggv2jbl/VMebBd/hwI6cFLOLrHZh6f4YWZ+8J3z18jZMrharokHKs3puizViWec+rQrBJlW6N3Aavz7PP14tMT4/aIIxfpnadnGyPg5Myl/vTEYPhXwwfeZjl3ZrmwlS7RXNSgJrpBnYj4IoGH62VFRASqLYLbclD5e+ztze0beXfaYDu7xCnqTiXiCcWl7GRgjEn3QVrrCalVUirz7HUoxc/qVAJjUUTVIt6Gne5pwI+nzIZLo+aqaFGt61fc+ux31vdghpGS+B18nHZsAfjxD9EX18AmsQqlD++BSo3goeUztxgxNOJyXZ6duEs4qnwvLAVIoX6AVMc7N4v4=;KoJibt0rSQsQhmE17VwqZg=="
+secured: "td99gn+Fbnz8AdHnX8Xl3QA/VH10+Gz1Zx0XjL9JmuazNP+oTgbTVVQ9waDxaMauXIzvG02nYPRSCIUQGpDIN4VZbw0QBGtaMxulqnGRlHEvLWexSEJdLK2wNZfUwR2PdIl86W9lsIAV1z3/EmxNOaRRCVtvviTOqa8DCgRVUdpIujbx5JkLUabxMnU/eMnRR5x2FWLdPpNV9YNUNi2A9vzGqUMpKW14JBs/fzxwcS24mtSGGfBHXw7ojG3bhdTe+/mq6d27cIMUcPZiNZiP9iVdleaesGlQqCsM2kGd0kR2Ebxby30mSmVkwYiBwfRY7U/4i3Hbb5Ruq0Vb5WaVD5YNT/2u2ITKfPoxrm1A6cR7CAKqCVzU5BbZTn90kKYCfZ/MPgRuMOV1ZHihFbvp+Wlb8VGgEf9yveuGh+CuX4XnWfL8GAWj+VbwWy3pVS2DzAj273PiZMqvZEnz9VzosxP38CaonB9WFOGeT1MizhL+CZ6XjLo6UOf6lGr0VpilRzXxRi2phThBagfJg82SoQ==;leAs0HenXK2tJBQ8tXIfAg=="
 ---
 

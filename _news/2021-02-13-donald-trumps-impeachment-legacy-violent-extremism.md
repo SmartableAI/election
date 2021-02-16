@@ -32,69 +32,35 @@ images:
     isCached: true
 
 related:
-  - title: "DC attorney general weighs legal viability of charging Trump under local statute "
-    excerpt: "Lawyers inside the Washington, DC attorney general's office are working to determine if it is legally viable to use district statutes to charge former President Donald Trump for his alleged role in the insurrection.\n    \n"
-    publishedDateTime: 2021-02-12T20:40:33Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iPjpB1KnfoA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/12/politics/dc-attorney-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/12/politics/dc-attorney-trump/index.html"
+  - title: "Fact check: Trump lawyer closes impeachment defense with a barrage of dishonesty "
+    excerpt: "Former President Donald Trump's impeachment defense was dishonest from start to finish.\n    \n"
+    publishedDateTime: 2021-02-14T00:47:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6Bv7gQMkesM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/13/politics/fact-check-trump-impeachment-van-der-veen-closing-argument/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/fact-check-trump-impeachment-van-der-veen-closing-argument/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 170
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201225192217-karl-racine-headshot-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210213210145-michael-van-der-veen-abogado-trump-sot-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "How the Trump Era Broke the Sunday-Morning News Show"
-    excerpt: "Any number of hallowed political and media institutions fell apart. So why should the most hallowed political-media institution of them all escape unscathed?"
-    publishedDateTime: 2021-02-11T10:00:00Z
-    webUrl: "https://www.nytimes.com/2021/02/11/magazine/how-the-trump-era-broke-the-sunday-morning-news-show.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/11/magazine/how-the-trump-era-broke-the-sunday-morning-news-show.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/11/magazine/how-the-trump-era-broke-the-sunday-morning-news-show.amp.html"
+  - title: "Trump impeachment defense team shows 9-plus minute compilation of Dems using word 'fight'"
+    excerpt: "House impeachment managers have pointed to Trump’s own words before the Jan. 6 insurrection, when he said supporters would lose the country if they didn't “fight like hell.”"
+    publishedDateTime: 2021-02-12T19:13:00Z
+    webUrl: "https://www.politico.com/news/2021/02/12/trump-impeachment-defense-democrats-fight-468852"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
+      name: Politico
+      domain: politico.com
+    quality: 106
     images:
-      - url: "https://static01.nyt.com/images/2021/02/14/magazine/14mag-screenland/14mag-screenland-facebookJumbo-v2.jpg"
-        width: 1050
-        height: 549
-        isCached: true
-  - title: "Parler, a Social Network That Attracted Trump Fans, Returns Online"
-    excerpt: "After being cut off by Amazon and other tech giants, Parler worked for weeks to find a way to get back on the internet."
-    publishedDateTime: 2021-02-15T19:29:00Z
-    webUrl: "https://www.nytimes.com/2021/02/15/technology/parler-back-online.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/15/technology/parler-back-online.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/15/technology/parler-back-online.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/02/15/business/15parler1/merlin_182226063_a7a3368d-45c0-4f5c-a7f9-7fc23bfc40d4-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "In Georgia, a New District Attorney Starts Circling Trump and His Allies"
-    excerpt: "Fani Willis has opened a criminal investigation into efforts by the Trump camp to overturn the former president’s loss in Georgia. In an interview, Ms. Willis described a wide-ranging inquiry."
-    publishedDateTime: 2021-02-13T10:00:00Z
-    webUrl: "https://www.nytimes.com/2021/02/13/us/politics/fani-willis-trump.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/13/us/politics/fani-willis-trump.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/13/us/politics/fani-willis-trump.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 134
-    images:
-      - url: "https://static01.nyt.com/images/2021/02/13/us/politics/13georgia-trump/13georgia-trump-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/5d641925-59d2-4f7b-80e3-518f4dcd0ea2/22afe3dc-ac3e-4ddf-8806-29bc33264432/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "tRJbIIcloAkNaQMQCHaRxVA8c6NqjOchXsJhKZ+chWVoFAQDUJSPTONG2a4puTaK1SVHyP0zymyxgiStcnSUwfA7dkALDnR0vywgWDcm+a0pUF2CZzi0hTWIF8CNDpKMtSgfCltw+fSf7/evntP4ebt8SHu9VcmgPMl++d83hDPR597bk6Q/7ZzWxDkoQq2nhvFDoHqhmjg+WyvkHyunAAukosX7EPOlRvtVSRfathJ2CyHiwd/r+rjtxdPFa/MqruWvnLRShOVvL4pew0dTx+YRIsTdIiTxpUOOqtS9XdrXkobRda3bADtS/L73I76Khva7BVSoe5FS2fdXvrWJ58hFtLXtCJeVbHx7//k15Sd49KMT7ucDwapWTsjQ25OXN/fOugOfqgXE3pWZJQavzGgFoonUsM6OcOXHeku2LVwFjVm15iiZJ3aFGZzC7z4Vqbha/aOdXqFOARN91nNyNXjucbHCM8adIdvgWWi6KMIeHyX1ksI808uzRodcHkkjAuXtFKH5IUw2aY+IiDP8fw==;DvtlmTBX5egEf2oGN3W6og=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/14/donald-trump-impeach
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/14/donald-trump-impeachment-republican-party-cornyn-hogan-graham-mcconnell"
 type: article
 quality: 125
-heat: 425
+heat: 445
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210213&t=2&i=1551450590&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1C0JB"
         width: 968
         height: 545
+        isCached: true
+  - title: "3 charts show where young Republicans are splitting from GOP elders — and from Trump"
+    excerpt: "On some foreign policy issues, young Republicans are closer to the Democratic mainstream than to their Republican elders."
+    publishedDateTime: 2021-02-16T16:48:00Z
+    webUrl: "https://www.businessinsider.com/young-republicans-split-from-gop-elders-trump-on-foreign-policy-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/young-republicans-split-from-gop-elders-trump-on-foreign-policy-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/young-republicans-split-from-gop-elders-trump-on-foreign-policy-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 118
+    images:
+      - url: "https://i.insider.com/602bf686b3c2a800183ccf0c?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Trump impeachment: Senate to hear prosecution arguments against former president – live"
     excerpt: "Senate convenes at noon for impeachment managers to lay out argument to convict Donald Trump of ‘incitement of insurrection’"

@@ -45,17 +45,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Impeachment managers to demonstrate Trump's 'lack of remorse' over Capitol riot – live"
-    excerpt: "Impeachment managers to conclude prosecution, arguing Trump is guilty of ‘most grievous constitutional crime ever committed’ by a US president"
-    publishedDateTime: 2021-02-11T16:51:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/11/donald-trump-impeachment-senate-trial-live-news-updates?page=with:block-60255bc28f08b555964bbae3"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/11/donald-trump-impeachment-senate-trial-live-news-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/11/donald-trump-impeachment-senate-trial-live-news-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 97
 
 secured: "oNePQxSPrLl24jcsFCvSg/avQvpbbSTbSFgvr9iQz9iX6ienvy+np0HnD8n3V9PsTbNkUiSnEZHz2ssSQ8mrTVUqOgtYIIT+T2HR2VDzXwLcTIf+pbS/bsw4ZUcxc0ZtAzsM5SLee1wdMr9QjuFkiRTnAX4Ob0lEgBtfjRLxRyaRc+TVZV4ifo5K/B3XkbEWp+MvEqhCoo40WVUpwc24t22p53HcHllSVlQHdOEmSLNK4TpzO433kJjOdJVJg7JhspvMcg7u4CvfizmAiTB1qbkM3wBYNxDdbckiwRBJemrOXqklBQ126SpRvl08dqTFI4vaOhstmxAL0GDhi376IJpNeErdN3uvIsSGWaarrfI=;2HE7nnO1TDuXEsUy/Z6UAg=="
 ---

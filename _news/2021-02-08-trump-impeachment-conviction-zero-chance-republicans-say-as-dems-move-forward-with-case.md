@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Most Republicans want to see Trump play big role in GOP going forward: polls"
+    excerpt: "Three out of four Republicans want to see former President Trump play big role in GOP going forward, according to a new national poll."
+    publishedDateTime: 2021-02-16T16:00:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cPJl45RtmjU/republicans-trump-play-big-role-gop-going-forward-polls"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-trump-play-big-role-gop-going-forward-polls.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-trump-play-big-role-gop-going-forward-polls.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "xaa5B3W6GyftvUn4bDmYNLR0vyIqNQc2A88AjsuvhjVRc5I/1hiLbmICmjYlCaA3qVVntJhCLtewbeA7jrelO5CCAu00aNmIQudcSqNf2DeFktpBEN/sjbQxFADsLu15Lg5Xc8s8nYv9b+3kolASNtQR402E8E4RNmnMl1areqshMvw+sQ7sgBhR4+oAaq000LiZrjDs0PevXtnLuWM8/YEA3bgsw7z4gcXoZZ4MgPl76N7Kvd4HsfGbN8IqVS2Y6ivAM5LDhJkcI6ORy7ci4Vu/er0PP3s4ObkokopfRhiic0H0w03qGoIprvXQzoXvfNQpxXlCkaHw/VE3M+jfIUB6+U/kUAZgtsMvrPQ8eV4=;sciOl132F7b6vXtVkvVDSQ=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/anti-trump-lincoln-project-ignored-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/anti-trump-lincoln-project-ignored-john-weaver-misconduct-crisis-heres-how-it-happened.amp"
 type: article
 quality: 166
-heat: 186
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Lincoln Project's Rick Wilson raised $64G for anti-Trump film that was never released"
+    excerpt: "Rick Wilson, co-founder of the anti-Trump Lincoln Project PAC, raised nearly $65,000 for an in-production film called \"Everything Trump Touches Dies\" that has yet to be released."
+    publishedDateTime: 2021-02-16T15:28:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MMh8b_NuMDI/lincoln-project-rick-wilson-anti-trump-film-donations"
+    ampWebUrl: "https://www.foxnews.com/politics/lincoln-project-rick-wilson-anti-trump-film-donations.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lincoln-project-rick-wilson-anti-trump-film-donations.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Capture2.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Top advisers ditch anti-Trump Lincoln Project as implosion gains steam over sexual harassment scandal"
     excerpt: "Tom Nichols, a “Never-Trump Conservative” foreign policy expert, announced Friday that he’s leaving his role as an unpaid adviser to the Lincoln Project group as it continues to struggle with allegations that one of its co-founders sexually harassed young men."
     publishedDateTime: 2021-02-12T22:51:20Z

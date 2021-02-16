@@ -621,6 +621,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "McConnell says he was defending Constitution, not Trump, with impeachment acquittal vote"
+    excerpt: "Senate Minority Leader Mitch McConnell on Tuesday said he was defending the U.S. Constitution, and not Donald Trump, by voting to acquit the former president of an impeachment charge of inciting an insurrection."
+    publishedDateTime: 2021-02-16T15:59:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/W2f_gghO7YM/mcconnell-op-ed-trump-impeachment-acquittal-vote"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-op-ed-trump-impeachment-acquittal-vote.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-op-ed-trump-impeachment-acquittal-vote.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Lead impeachment manager Raskin reveals questions he would have asked Trump if he testified"
     excerpt: "Former President Donald Trump will not testify in his own defense during his Senate impeachment trial, but lead House impeachment manager Rep. Jamie Raskin, D-Md., revealed what he would have asked Trump if he had chosen to appear."
     publishedDateTime: 2021-02-11T23:05:50Z

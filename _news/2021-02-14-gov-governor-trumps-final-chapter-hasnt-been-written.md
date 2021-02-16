@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/02/14/trump-gop-future-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/02/14/trump-gop-future-hogan-sotu-tapper-vpx.cnn"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200320161313-01-richard-burr-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "READ: Democrat's lawsuit against Donald Trump over US Capitol attack"
+    excerpt: "Former President Donald Trump and attorney Rudy Giuliani are being accused of conspiring with the far-right groups Proud Boys and Oath Keepers to incite the January 6 insurrection in a civil lawsuit filed Tuesday in federal court by the Democratic chairman of the House Homeland Security Committee and backed by the NAACP."
+    publishedDateTime: 2021-02-16T15:26:00Z
+    webUrl: "https://www.cnn.com/2021/02/16/politics/dem-lawsuit-against-trump-naacp/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/16/politics/dem-lawsuit-against-trump-naacp/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/16/politics/dem-lawsuit-against-trump-naacp/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201120165627-giuliani-trump-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

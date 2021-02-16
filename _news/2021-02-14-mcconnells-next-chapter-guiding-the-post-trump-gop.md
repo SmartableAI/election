@@ -62,6 +62,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "READ: Democrat's lawsuit against Donald Trump over US Capitol attack"
+    excerpt: "Former President Donald Trump and attorney Rudy Giuliani are being accused of conspiring with the far-right groups Proud Boys and Oath Keepers to incite the January 6 insurrection in a civil lawsuit filed Tuesday in federal court by the Democratic chairman of the House Homeland Security Committee and backed by the NAACP."
+    publishedDateTime: 2021-02-16T15:26:00Z
+    webUrl: "https://www.cnn.com/2021/02/16/politics/dem-lawsuit-against-trump-naacp/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/16/politics/dem-lawsuit-against-trump-naacp/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/16/politics/dem-lawsuit-against-trump-naacp/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201120165627-giuliani-trump-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "1pDl+G5SArzrfJJOtaYLxAIohWePD/bXSeJD0yn6DyewLl0ebiTLu7owfmhkjX/FKnQUcoHi1KvfnMG/WFIe7gRp8vQ4nEoug+NpN5+6KkjQcQKRlAC9uwDVZcdBcbMECp0d4jF0S4qFFvgTvSjn8p3O8B5LS6oDVQP7CK3FdOR1pVx7oc+N+KlmpvCYm6aXivYobA4SOw6Gqgi7ALShFTQcEAuwbOruFtGEAqNbAzA+YG4uB+YH2RYweV8P5MQnDWFYiezuWSrwEpVO5XnCQsLkbaukow93jzd86VWwq84qSRCEaLc1UR2gyD1bjOYg68mSJPwhLhntZaLxbROZ/tuAVA1XnD6Kb/NxgAzdFk8=;Gg5GswR3YCpUzMYYW2ELUQ=="
 ---

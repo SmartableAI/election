@@ -111,6 +111,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Biden seeks to reclaim presidency as Trump's shadow looms: The Note"
+    excerpt: "President Joe Biden wants no more out of this week of Presidents Day than to get back to the work of his presidency."
+    publishedDateTime: 2021-02-16T16:01:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-seeks-reclaim-presidency-trumps-shadow-looms-note/story?id=75853774"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-seeks-reclaim-presidency-trumps-shadow-looms-note/story?id=75853774"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-seeks-reclaim-presidency-trumps-shadow-looms-note/story?id=75853774"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/biden-air-force-one-ap-jt-210215_1613432640413_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden says 'some minds' may be changed by video from Trump impeachment trial"
     excerpt: "President Biden on Thursday said he believed “some minds” may have been changed on whether to convict former President Trump after House impeachment managers presented harrowing video of the Jan. 6 Capitol attack."
     publishedDateTime: 2021-02-11T16:26:00Z
@@ -378,6 +394,22 @@ related:
       - url: "https://i.insider.com/601abcf001504a00197fb5b7?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Kamala Harris Disputes Dr. Fauci, Insists Biden Administration Is ‘Starting from Scratch’ on Coronavirus"
+    excerpt: "Kamala Harris is the biggest liability of the Biden administration because she lies, obviously and clumsily, even when she doesn’t need to lie."
+    publishedDateTime: 2021-02-16T15:08:00Z
+    webUrl: "https://www.nationalreview.com/corner/kamala-harris-disputes-dr-fauci-insists-biden-administration-is-starting-from-scratch-on-coronavirus/"
+    ampWebUrl: "https://www.nationalreview.com/corner/kamala-harris-disputes-dr-fauci-insists-biden-administration-is-starting-from-scratch-on-coronavirus/amp/"
+    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/corner/kamala-harris-disputes-dr-fauci-insists-biden-administration-is-starting-from-scratch-on-coronavirus/amp/"
+    type: article
+    provider:
+      name: National Review
+      domain: nationalreview.com
+    quality: 73
+    images:
+      - url: "https://i2.wp.com/www.nationalreview.com/wp-content/uploads/2020/10/kamala-harris-raleigh-nc.jpg?fit=1200%2C700&ssl=1"
+        width: 1200
+        height: 700
         isCached: true
   - title: "Biden on Trump Trial: 'Some Minds May Have Been Changed'"
     excerpt: "The president said he did not watch Donald Trump’s Senate trial but has seen news coverage and suspects that 'some minds may have been changed.'"

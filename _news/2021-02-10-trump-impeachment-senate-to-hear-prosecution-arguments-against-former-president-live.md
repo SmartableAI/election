@@ -127,6 +127,22 @@ related:
         width: 968
         height: 545
         isCached: true
+  - title: "3 charts show where young Republicans are splitting from GOP elders — and from Trump"
+    excerpt: "On some foreign policy issues, young Republicans are closer to the Democratic mainstream than to their Republican elders."
+    publishedDateTime: 2021-02-16T16:48:00Z
+    webUrl: "https://www.businessinsider.com/young-republicans-split-from-gop-elders-trump-on-foreign-policy-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/young-republicans-split-from-gop-elders-trump-on-foreign-policy-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/young-republicans-split-from-gop-elders-trump-on-foreign-policy-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 118
+    images:
+      - url: "https://i.insider.com/602bf686b3c2a800183ccf0c?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Exclusive: Dozens of former Republican officials in talks to form anti-Trump third party"
     excerpt: "Dozens of former Republican officials, who view the party as unwilling to stand up to former President Donald Trump and his attempts to undermine U.S. democracy, are in talks to form a center-right breakaway party,"
     publishedDateTime: 2021-02-11T08:41:00Z

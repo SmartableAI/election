@@ -623,6 +623,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "McConnell says he was defending Constitution, not Trump, with impeachment acquittal vote"
+    excerpt: "Senate Minority Leader Mitch McConnell on Tuesday said he was defending the U.S. Constitution, and not Donald Trump, by voting to acquit the former president of an impeachment charge of inciting an insurrection."
+    publishedDateTime: 2021-02-16T15:59:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/W2f_gghO7YM/mcconnell-op-ed-trump-impeachment-acquittal-vote"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-op-ed-trump-impeachment-acquittal-vote.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-op-ed-trump-impeachment-acquittal-vote.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "McConnell will vote to acquit Trump in second impeachment trial, as day five gets underway"
     excerpt: "Senate GOP Leader Mitch McConnell will vote to acquit former President Donald Trump in his second impeachment trial, Fox News has learned, as day five of the trial is now underway."
     publishedDateTime: 2021-02-13T14:52:29Z

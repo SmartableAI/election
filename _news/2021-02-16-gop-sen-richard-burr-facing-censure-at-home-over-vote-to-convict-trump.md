@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/gop-sen-richard-burr-facing-cens
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/gop-sen-richard-burr-facing-censure-home-vote/story?id=75905127"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/A7RO4YTEB4I6XOVYOB7YO2OXQU.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Nearly 60% of Republican voters think Trump should continue to play 'a major role' in the GOP going forward, new poll shows"
+    excerpt: "The new Politico/Morning Consult poll also found that Trump's support in a hypothetical 2024 GOP primary had returned to pre-insurrection levels."
+    publishedDateTime: 2021-02-16T15:42:00Z
+    webUrl: "https://www.businessinsider.com/59-percent-gop-voters-think-trump-major-role-in-gop-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/59-percent-gop-voters-think-trump-major-role-in-gop-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/59-percent-gop-voters-think-trump-major-role-in-gop-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 99
+    images:
+      - url: "https://i.insider.com/6018d8c1d6c5e60019c6e5f4?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "uMU7rD5DwM4bczKWEhrmeAfVMePl4BsNUUv/7IVKQRcm4KgFLILhmx8t3tywTQ/vHxfFUTIGtkcUUVc+Q0S2rjLabw+S80oDtAPyOgaxoQZYqBKIDLi0lnn3BclB4cNNthLCbNWb0xZxO3UFEMlvgZf/e1fdQ4zebCUpxifc66okOvhZEk7pn0yIwe+focPQ7GoRiCCp/What1w//grMaii4hfEXokUK1ucRYaDBKFsSvDoM+OLCvPMg0LqbxD+xZ0bpoQzoWp8i2B4VaNoME5isK4oy77AsSgdLB9vuP0b+IzZb086DdTNYuGl9Ks4SszluWtyUN9w7ey7t+MZpugRnVEFSQwp9LZyjxbTiSDgPkT3PtpBfKCA8UWMjzxjp1Q1gFOOIcRKRj13MCuxGCx3fc79VeXseJden6sQItiCWOaD3Z4jq9+88H7AsqX6vziRhJILC/w9E3pmi7oA2JUs60tMO3yPYzQaFt77x46LltSVmhStvcwTfBq6N67ZGlfKcTd+WCZpDcBM4O1D5wg==;BEMhLXeW1yASO0EB7kO0sQ=="

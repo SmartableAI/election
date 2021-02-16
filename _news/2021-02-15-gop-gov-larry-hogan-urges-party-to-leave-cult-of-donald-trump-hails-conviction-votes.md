@@ -63,6 +63,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Nearly 60% of Republican voters think Trump should continue to play 'a major role' in the GOP going forward, new poll shows"
+    excerpt: "The new Politico/Morning Consult poll also found that Trump's support in a hypothetical 2024 GOP primary had returned to pre-insurrection levels."
+    publishedDateTime: 2021-02-16T15:42:00Z
+    webUrl: "https://www.businessinsider.com/59-percent-gop-voters-think-trump-major-role-in-gop-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/59-percent-gop-voters-think-trump-major-role-in-gop-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/59-percent-gop-voters-think-trump-major-role-in-gop-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 99
+    images:
+      - url: "https://i.insider.com/6018d8c1d6c5e60019c6e5f4?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "nK2jQaeBRz5z93hT7RMejUfAcB46i/WhkruQgCqOIG8CBGqDklvwovdhpyny7KskAYAhyCgynMSUPdfzpg02BOLWqYsAxWvq5UeG2zbxmEbdbKUC4Xx19EZfLgClr7DyNEt3ESN/cFJFfYbWBKubkdZKdxhXpZN2/EFtdINTI6yB+vM9For9ISmcmXyrCnHMoRfQGXyM72C84C+y+/3s1inMTMNc/t6VfXNMGdTk1f/opvwJ9W+QCf8tEgTBm2qBcn9pmcPupYrn+3GtoB4BNT6C/K59aYYBTsZFMF+8EESTnaoOlg5jhLakCs5yLHwyh99m7QtxHI05VpEbvSzG6GNrCSzwKSsPAT0K8tN5y5A=;mxBX/O7Hz8OhlnJt20WToQ=="
 ---
