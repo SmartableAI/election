@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/14/trump-acquittal-bide
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/14/trump-acquittal-biden-urges-vigilance-to-defend-fragile-democracy-after-impeachment-trial"
 type: article
 quality: 129
-heat: 1289
+heat: 1309
 published: true
 
 provider:
@@ -717,6 +717,20 @@ related:
     quality: 105
     images:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/02/15/acdcb853-ccbe-46f4-8074-eb5565593091/thumbnail/1200x630/a3e05c62bdbc5cc32afe428208b78e00/cbsn-fusion-former-president-trumps-legal-problems-continue-after-acquittal-thumbnail-646642-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "What's next in Washington after Trump's second impeachment acquittal"
+    excerpt: "President Biden and Congress are moving forward after the Senate voted to acquit former President Trump in his second impeachment trial on Saturday. CBS News congressional correspondent Nikole Killion and Associated Press White House reporter Zeke Miller spoke to \"Red and Blue\" host Elaine Quijano about where Washington heads next."
+    publishedDateTime: 2021-02-16T00:26:00Z
+    webUrl: "https://www.cbsnews.com/video/whats-next-in-washington-after-trumps-second-impeachment-acquittal/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/02/16/bdfe75d7-c0a3-4726-bd1f-132098d08c49/thumbnail/1200x630/a4adc51381f03995d2816bb04e008e71/0215-rb-trumpwhatsnext-646776-640x360.jpg"
         width: 1200
         height: 630
         isCached: true

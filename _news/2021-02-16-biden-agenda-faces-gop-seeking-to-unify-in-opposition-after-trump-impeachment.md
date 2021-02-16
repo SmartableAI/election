@@ -2,9 +2,9 @@
 category: news
 title: "Biden Agenda Faces GOP Seeking to Unify in Opposition After Trump Impeachment"
 excerpt: "Democrats are turning to cabinet nominees and pandemic relief, but some Republicans are already signaling their opposition to the president’s plans."
-publishedDateTime: 2021-02-15T21:51:00Z
-originalUrl: "https://www.wsj.com/articles/impeachment-over-biden-agenda-faces-congressional-gop-seeking-to-unify-in-opposition-11613336802?mod=newsviewer_click"
-webUrl: "https://www.wsj.com/articles/impeachment-over-biden-agenda-faces-congressional-gop-seeking-to-unify-in-opposition-11613336802?mod=newsviewer_click"
+publishedDateTime: 2021-02-15T19:08:00Z
+originalUrl: "https://www.wsj.com/articles/impeachment-over-biden-agenda-faces-congressional-gop-seeking-to-unify-in-opposition-11613336802"
+webUrl: "https://www.wsj.com/articles/impeachment-over-biden-agenda-faces-congressional-gop-seeking-to-unify-in-opposition-11613336802"
 ampWebUrl: "https://www.wsj.com/amp/articles/impeachment-over-biden-agenda-faces-congressional-gop-seeking-to-unify-in-opposition-11613336802"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/impeachment-over-biden-agenda-faces-congressional-gop-seeking-to-unify-in-opposition-11613336802"
 type: article
@@ -353,6 +353,6 @@ related:
         height: 720
         isCached: true
 
-secured: "4eKfTg55tXTLJ+iQV3VIdLQ8E/zsIiDi+YrVmtEroZARXbo6OdzsL2HCYgPv2gyJvyfZG82HHo3Pc5rdpi8R2CsV0z4pjTTseo2jWsdpfjf3H/R3g05BJLNb8fGJEWxQwZwesMM3yxaj+WDtoGFZsir9P9dgx8sSHguDNNstRS2TbyehZo1IA51VWig7XRaEo7oU/rQnc2qSy1QutvPUDECCRcv5Ry1NKGwNwZ9Kp2NczZAzWHzFpB4n17OE6qSmZ0dWWSCVuQW+E2yaHcZjj6YG0oHabOsOE8pOhjDEjH6zzR6vFN8IrKxlTmuZ+UVR3h+IWdJzeBZ2cGuA+31I51Cf1Tm9RohrU8XJwKlGPIc=;PU3YV8VLntb/oiiJ+vOSpQ=="
+secured: "OtcUFD/umqT5TTyh4iTBll5RXUasKbnG4cs6sxzfl9kb0ZvAaPaB/9NswQSVVHSkxeiuMaFY1qXEVYuECBacQ520NFB3R7VmbkUMDFWT8J6aI2gmYH9YbLtzurdqTQA+4pH1dmPmjg2zu+d2kZVcNNsZh3j2LDK5Bp6VFqVgQS0oOlvfG8U+canu8GUUpgDyZbsh59o9iiYQ4qVa941djQeUTZUFaIcmUeqbWKKTaOX6uQXIf15OphS+G4ZNJ2QJhgvhTOn2GIz6Ipy1Y/6JWUEYJJ8ssx5I+RXebqXOGpMUPLQ10TdBQZDlOXqoSSjq4Sm+wzgVgmU51eWxOBD/9BAWiCmReSRH5PA0kXSQcL8=;/9fMAaxObxDiumfqevuvvQ=="
 ---
 

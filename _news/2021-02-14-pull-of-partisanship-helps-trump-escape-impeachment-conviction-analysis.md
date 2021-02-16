@@ -47,6 +47,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "North Carolina Republicans to meet on Burr's vote to convict Trump"
+    excerpt: "North Carolina Republican leaders will meet on Monday to discuss Senator Richard Burr's vote to convict former U.S. President Donald Trump during his impeachment trial, after he was acquitted of a charge of inciting the deadly Capitol riot,"
+    publishedDateTime: 2021-02-15T23:06:00Z
+    webUrl: "https://www.reuters.com/article/BigStory12/idUSKBN2AF1P3?edition-redirect=in"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AF1P3"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AF1P3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210215&t=2&i=1551619993&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1E0Z3"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Acquitted again by Senate, Trump still a powerful force in Republican politics"
     excerpt: "It is still Donald Trump’s Republican Party - at least for now. The vote by 43 of the 50 Republican senators to acquit Trump on the charge of inciting last month’s deadly riot at the U.S. Capitol, with only seven voting for conviction,"
     publishedDateTime: 2021-02-14T18:11:00Z

@@ -290,8 +290,8 @@ related:
         isCached: true
   - title: "Biden Agenda Faces GOP Seeking to Unify in Opposition After Trump Impeachment"
     excerpt: "Democrats are turning to cabinet nominees and pandemic relief, but some Republicans are already signaling their opposition to the president’s plans."
-    publishedDateTime: 2021-02-15T21:51:00Z
-    webUrl: "https://www.wsj.com/articles/impeachment-over-biden-agenda-faces-congressional-gop-seeking-to-unify-in-opposition-11613336802?mod=newsviewer_click"
+    publishedDateTime: 2021-02-15T19:08:00Z
+    webUrl: "https://www.wsj.com/articles/impeachment-over-biden-agenda-faces-congressional-gop-seeking-to-unify-in-opposition-11613336802"
     ampWebUrl: "https://www.wsj.com/amp/articles/impeachment-over-biden-agenda-faces-congressional-gop-seeking-to-unify-in-opposition-11613336802"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/impeachment-over-biden-agenda-faces-congressional-gop-seeking-to-unify-in-opposition-11613336802"
     type: article

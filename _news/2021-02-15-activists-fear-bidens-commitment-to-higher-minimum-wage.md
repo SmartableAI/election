@@ -130,7 +130,7 @@ related:
   - title: "Pres. Biden urging Congress for stricter gun ..."
     excerpt: "Watch \"Pres. Biden urging Congress for stricter gun laws as Sunday marks 3 years since the deadly mass shooting in Parkland, Florida\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN,"
     publishedDateTime: 2021-02-15T22:47:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20210215224025-pres-biden-urging-congress-for-stricter-gun-laws-as-sunday-marks-3-years-since-the-deadly-mass-shooting-in-parkland-florida/"
+    webUrl: "https://www.cbsnews.com/live/video/20210215234020-pres-biden-urging-congress-for-stricter-gun-laws-as-sunday-marks-3-years-since-the-deadly-mass-shooting-in-parkland-florida/"
     type: article
     provider:
       name: CBS News

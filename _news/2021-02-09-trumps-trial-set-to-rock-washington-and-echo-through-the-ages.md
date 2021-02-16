@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/09/politics/donald-trump-impeachment
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/09/politics/donald-trump-impeachment-trial/index.html"
 type: article
 quality: 175
-heat: 415
+heat: 435
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210213174450-trump-acquittal-axelrod-oped-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Fallout from Trump's acquittal exposes deepening rift within GOP "
+    excerpt: "Donald Trump's acquittal in the Senate's impeachment trial -- and the backlash now facing Republicans who voted to convict him -- have exposed the deepening rift within the GOP over whether to continue to fully embrace the former President or seek to move past his divisive brand of politics.\n    \n"
+    publishedDateTime: 2021-02-16T00:26:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NR_sytNWH2E/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/15/politics/republican-party-trump-midterms/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/15/politics/republican-party-trump-midterms/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210213202046-trump-impeachment-vote-acquittal-day-5-wrap-trial-two-nobles-nr-vpx-00021619-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

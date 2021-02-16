@@ -732,6 +732,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "What's next in Washington after Trump's second impeachment acquittal"
+    excerpt: "President Biden and Congress are moving forward after the Senate voted to acquit former President Trump in his second impeachment trial on Saturday. CBS News congressional correspondent Nikole Killion and Associated Press White House reporter Zeke Miller spoke to \"Red and Blue\" host Elaine Quijano about where Washington heads next."
+    publishedDateTime: 2021-02-16T00:26:00Z
+    webUrl: "https://www.cbsnews.com/video/whats-next-in-washington-after-trumps-second-impeachment-acquittal/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/02/16/bdfe75d7-c0a3-4726-bd1f-132098d08c49/thumbnail/1200x630/a4adc51381f03995d2816bb04e008e71/0215-rb-trumpwhatsnext-646776-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump impeachment trial: After emotional first day, opening arguments begin today in historic second Senate trial"
     excerpt: "Opening arguments will begin Wednesday in Donald Trump’s impeachment trial after an emotional first day that wrenched senators back to the Jan. 6 attack on the U.S. Capitol."
     publishedDateTime: 2021-02-10T12:56:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/kamala-harris-biden-starting-from-sc
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kamala-harris-biden-starting-from-scratch-covid-19-after-trump-2021-2?amp"
 type: article
 quality: 147
-heat: 567
+heat: 587
 published: true
 
 provider:
@@ -223,6 +223,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/mexico-gty-er-210211_1613094822667_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Boris Johnson calls Trump's impeachment a 'kerfuffle' and suggests Biden copied his Build Back Better slogan"
+    excerpt: "Boris Johnson described impeachment proceedings against Trump as 'toings and froings' and a 'kerfuffle.'"
+    publishedDateTime: 2021-02-15T13:43:00Z
+    webUrl: "https://www.businessinsider.com/boris-johnson-calls-trump-impeachment-trial-a-kerfuffle-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/boris-johnson-calls-trump-impeachment-trial-a-kerfuffle-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/boris-johnson-calls-trump-impeachment-trial-a-kerfuffle-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 121
+    images:
+      - url: "https://i.insider.com/602a62c4b3c2a800183ccd62?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Biden administration tells Supreme Court Obamacare is constitutional, should be saved"
     excerpt: "In letter to the court, government lawyers disavowed the view the Trump administration argued just months ago."

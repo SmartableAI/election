@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/home-of-trump-attorney-michael-van-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/home-of-trump-attorney-michael-van-der-veen-vandalized.amp"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 165
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4e468e48-daf4-48c9-b172-5e8ae98b3f4a/e9d7c456-73c0-43ba-9de5-5359a023293c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Concha: Lincoln Project founders became 'media darlings' by bashing Trump just like Michael Avenatti"
+    excerpt: "Joe Concha is slamming mainstream media outlets for how they have covered the Lincoln Project, which he says is “now dead” in the wake of sexual harassment allegations against the group’s co-founder John Weaver."
+    publishedDateTime: 2021-02-16T00:07:00Z
+    webUrl: "https://www.foxnews.com/media/concha-lincoln-project-founders-media-darlings-weaver-allegations"
+    ampWebUrl: "https://www.foxnews.com/media/concha-lincoln-project-founders-media-darlings-weaver-allegations.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/concha-lincoln-project-founders-media-darlings-weaver-allegations.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 120
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/95e4264a-eb3d-4508-aada-70a7648929fb/345be2ec-35d2-4536-a05f-6e303c49fd16/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

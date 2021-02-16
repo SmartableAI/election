@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Concha: Lincoln Project founders became 'media darlings' by bashing Trump just like Michael Avenatti"
+    excerpt: "Joe Concha is slamming mainstream media outlets for how they have covered the Lincoln Project, which he says is “now dead” in the wake of sexual harassment allegations against the group’s co-founder John Weaver."
+    publishedDateTime: 2021-02-16T00:07:00Z
+    webUrl: "https://www.foxnews.com/media/concha-lincoln-project-founders-media-darlings-weaver-allegations"
+    ampWebUrl: "https://www.foxnews.com/media/concha-lincoln-project-founders-media-darlings-weaver-allegations.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/concha-lincoln-project-founders-media-darlings-weaver-allegations.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 120
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/95e4264a-eb3d-4508-aada-70a7648929fb/345be2ec-35d2-4536-a05f-6e303c49fd16/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "1z5umCMy9HeH0xkGqynAYUl83E0xbMdq0j87l7JbRZ/PjbPQC8ji18bnoJEIgziLiHcAaiJXstn5ibO7qhB/t944kI91aoxh2KBGAbQ81rQb8qrri0famRIl1sjJ6AlTkshpDaZeAH5x+6olBoF+2zRy+MQbcGSR8vPXkaaBBtnwWt83hr2VDqFAD2r0u88GWPvb559j0LzZbWYyqfkg7aVobqZr3JUlgn3lYUoqsetGQkWsP8rwKKRnbm6suZCA9/02UrRx5rgGfYBp/J+Z7TbGBKPoHsxSp3aSTy6YnVwoV53i3BIdbdcV9rUhRwel7+t+3RKokEiPBSO3hZz4foD8VOl23YxWentqQUeDmsw=;CQl67Kk8VpAo2k2ss/y/3A=="
 ---

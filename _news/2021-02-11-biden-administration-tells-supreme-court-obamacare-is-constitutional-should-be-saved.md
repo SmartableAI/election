@@ -239,6 +239,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Boris Johnson calls Trump's impeachment a 'kerfuffle' and suggests Biden copied his Build Back Better slogan"
+    excerpt: "Boris Johnson described impeachment proceedings against Trump as 'toings and froings' and a 'kerfuffle.'"
+    publishedDateTime: 2021-02-15T13:43:00Z
+    webUrl: "https://www.businessinsider.com/boris-johnson-calls-trump-impeachment-trial-a-kerfuffle-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/boris-johnson-calls-trump-impeachment-trial-a-kerfuffle-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/boris-johnson-calls-trump-impeachment-trial-a-kerfuffle-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 121
+    images:
+      - url: "https://i.insider.com/602a62c4b3c2a800183ccd62?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Meena Harris has a personal brand. Some fear she’s profiting from her Aunt Kamala’s office"
     excerpt: "The White House and others fear scrutiny over the personal branding efforts of the vice president's niece, which have grown with Kamala Harris' career."
     publishedDateTime: 2021-02-11T12:00:00Z
