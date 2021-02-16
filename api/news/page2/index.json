@@ -2,6 +2,63 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-14-it-just-symbolizes-everything-in-joe-and-jill-biden-presidential-pda-makes-a-comeback.md",
+      "title": "‘It just symbolizes everything’: In Joe and Jill Biden, presidential PDA makes a comeback",
+      "excerpt": "First lady Jill Biden places her hands on President Joe Biden after he is sworn in as 46th president of the United States on Jan. 20, 2021. | Kevin Dietsch/Pool Photo via AP On a mission to rebuild institutional norms and help heal a hurting nation,",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2021/02/14/joe-biden-jill-pda-468831",
+      "originalUrl": "https://www.politico.com/news/2021/02/14/joe-biden-jill-pda-468831",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/b0/e8/c9ad0a0b4464b57b0b196784eca4/ap21020618014402.JPG",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-14T04:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-14-trump-acquittal-biden-urges-vigilance-to-defend-fragile-democracy-after-impeachment-trial.md",
       "title": "Trump acquittal: Biden urges vigilance to defend 'fragile' democracy after impeachment trial",
       "excerpt": "President says the substance of the charge against Donald Trump over the January attack on US Capitol is not in dispute",
@@ -10,7 +67,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/feb/14/trump-acquittal-biden-urges-vigilance-to-defend-fragile-democracy-after-impeachment-trial",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1329,
+      "heat": 1349,
       "tags": null,
       "images": [
         {
@@ -1302,58 +1359,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-13-kamala-harris-late-in-life-love-story-an-example-of-changing-trend.md",
-      "title": "Kamala Harris' late-in-life love story an example of changing trend",
-      "excerpt": "Vice President Kamala Harris is making history as the first woman and first woman of color to serve in that role. As the country celebrates Valentine's Day on Sunday, experts are pointing to the fact that Harris is also the face of a growing demographic of women marrying later in life,",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/GMA/Living/kamala-harris-late-life-love-story-changing-trend/story?id=75819461",
-      "originalUrl": "https://abcnews.go.com/GMA/Living/kamala-harris-late-life-love-story-changing-trend/story?id=75819461",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/GMA/kamala-harris-swearing-in-gty-jt-210211_1613067168367_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://goodmorningamerica.com/amp/living/story/kamala-harris-late-life-love-story-changing-trend-75819461",
-      "cdnAmpWebUrl": "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/living/story/kamala-harris-late-life-love-story-changing-trend-75819461",
-      "publishedDateTime": "2021-02-12T10:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     }
   ],

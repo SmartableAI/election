@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/mike-lee-senate-trial-end-trump-acq
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-lee-senate-trial-end-trump-acquittal-impeachment-capitol-riot.amp"
 type: article
 quality: 175
-heat: 2195
+heat: 2215
 published: true
 
 provider:
@@ -766,6 +766,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Trump Jr. vows father will 'keep pushing that America First agenda' after impeachment acquittal"
+    excerpt: "Following former President Donald Trump’s second impeachment acquittal, his future will be dedicated to preserving his brand of conservatism and supporting the American people, Donald Trump Jr. told Fox News’ \"Hannity\" on Monday."
+    publishedDateTime: 2021-02-16T04:34:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dnnEvkqQbr8/donald-trump-jr-paints-motive-to-bring-fathers-brand-of-conservatism-back-from-the-dead"
+    ampWebUrl: "https://www.foxnews.com/politics/donald-trump-jr-paints-motive-to-bring-fathers-brand-of-conservatism-back-from-the-dead.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/donald-trump-jr-paints-motive-to-bring-fathers-brand-of-conservatism-back-from-the-dead.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/44598e4e-98ff-49f7-9fae-9a61f8d10c04/d46f6b6e-3feb-4403-832a-0b8c61cf8b87/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Democratic impeachment managers allege Trump would incite future violence if allowed to run again"
     excerpt: "Democratic House impeachment managers warned that convicting former President Donald Trump and disqualifying him from running again was not just a necessary consequence for the role they say he played in the Jan. 6 Capitol riot, but as a means of preventing such an event from occurring again."

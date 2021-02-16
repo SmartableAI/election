@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/14/trump-acquittal-bide
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/14/trump-acquittal-biden-urges-vigilance-to-defend-fragile-democracy-after-impeachment-trial"
 type: article
 quality: 129
-heat: 1329
+heat: 1349
 published: true
 
 provider:
@@ -236,6 +236,22 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/Politics/WireAP_62536ff3a2054235a369c24b9ecea904_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump greets supporters in 1st public appearance since Senate acquittal"
+    excerpt: "Former President Donald Trump greeted supporters on Presidents Day in his first public appearance since his Senate acquittal and one of the first since leaving office."
+    publishedDateTime: 2021-02-16T02:54:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-greets-supporters-1st-public-appearance-senate-acquittal/story?id=75910437"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-greets-supporters-1st-public-appearance-senate-acquittal/story?id=75910437"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-greets-supporters-1st-public-appearance-senate-acquittal/story?id=75910437"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-supporters-motorcade-florida-01-gty-jc-210215_1613422932600_hpMain_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true

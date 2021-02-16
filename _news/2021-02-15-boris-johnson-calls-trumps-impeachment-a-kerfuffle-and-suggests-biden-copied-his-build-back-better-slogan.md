@@ -191,6 +191,22 @@ related:
         width: 2500
         height: 1663
         isCached: true
+  - title: "Donald Trump Jr. Says Chinese 'Investment in Hunter Biden' Driving Biden's China Policy"
+    excerpt: "Hunter Biden is currently under investigation by federal investigators in Delaware, but so far no proof of wrongdoing has been uncovered by Congress."
+    publishedDateTime: 2021-02-16T04:34:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-jr-says-chinese-investment-hunter-biden-driving-bidens-china-policy-1569459"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-jr-says-chinese-investment-hunter-biden-driving-bidens-china-policy-1569459?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-jr-says-chinese-investment-hunter-biden-driving-bidens-china-policy-1569459?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 132
+    images:
+      - url: "https://d.newsweek.com/en/full/1735300/donald-trump-jr-hunter-biden-china-policy.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Everything Joe Biden Has Said About Reopening Schools"
     excerpt: "According to a school reopening tracking map from EdWeek, a majority of states have left the decision to reopen schools to local school districts and their health departments."
     publishedDateTime: 2021-02-12T15:51:00Z

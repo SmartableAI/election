@@ -255,6 +255,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump greets supporters in 1st public appearance since Senate acquittal"
+    excerpt: "Former President Donald Trump greeted supporters on Presidents Day in his first public appearance since his Senate acquittal and one of the first since leaving office."
+    publishedDateTime: 2021-02-16T02:54:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-greets-supporters-1st-public-appearance-senate-acquittal/story?id=75910437"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-greets-supporters-1st-public-appearance-senate-acquittal/story?id=75910437"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-greets-supporters-1st-public-appearance-senate-acquittal/story?id=75910437"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-supporters-motorcade-florida-01-gty-jc-210215_1613422932600_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Impeachment trial: defense lawyers argue Trump is victim of 'cancel culture'"
     excerpt: "Lawyers argue Trump’s ‘fight like hell’ rhetoric on 6 January was no different than the language politicians frequently use"
     publishedDateTime: 2021-02-12T22:10:00Z

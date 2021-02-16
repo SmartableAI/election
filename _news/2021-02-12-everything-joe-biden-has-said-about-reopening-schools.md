@@ -191,6 +191,22 @@ related:
         width: 2500
         height: 1663
         isCached: true
+  - title: "Donald Trump Jr. Says Chinese 'Investment in Hunter Biden' Driving Biden's China Policy"
+    excerpt: "Hunter Biden is currently under investigation by federal investigators in Delaware, but so far no proof of wrongdoing has been uncovered by Congress."
+    publishedDateTime: 2021-02-16T04:34:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-jr-says-chinese-investment-hunter-biden-driving-bidens-china-policy-1569459"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-jr-says-chinese-investment-hunter-biden-driving-bidens-china-policy-1569459?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-jr-says-chinese-investment-hunter-biden-driving-bidens-china-policy-1569459?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 132
+    images:
+      - url: "https://d.newsweek.com/en/full/1735300/donald-trump-jr-hunter-biden-china-policy.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "How Kamala Harris made wearing pearls cool"
     excerpt: "As the pearl’s standing increases alongside that of women, a progressive new generation is rediscovering Margaret Thatcher’s one-time trademark"
     publishedDateTime: 2021-02-12T16:14:00Z

@@ -143,6 +143,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "McConnell defends vote to acquit Trump: 'Our job was to defend the Constitution and respect its limits'"
+    excerpt: "Senate Republican leader Mitch McConnell on Monday rebuked Donald Trump's incitement of the January 6 insurrection at the US Capitol while doubling down on his vote to acquit the former President of the charge.\n    \n"
+    publishedDateTime: 2021-02-16T02:22:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PQ_8PZyjsXo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/15/politics/mcconnell-trump-acquit-op-ed-wall-street-journal/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/15/politics/mcconnell-trump-acquit-op-ed-wall-street-journal/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 159
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210215202426-mcconnell-210213-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "GOP lawmaker tied to surprise call for witnesses in Trump impeachment trial has broken with party before"
     excerpt: "The Republican congresswoman who triggered a surprise call for witnesses in the waning hours of former President Donald Trump's second impeachment trial has logged a decade in Congress -- at times breaking from her party and standing up to Trump.\n    \n"
     publishedDateTime: 2021-02-13T19:55:13Z
