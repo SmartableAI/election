@@ -143,6 +143,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "White House says Biden believes Nord Stream 2 bad deal for Europe"
+    excerpt: "U.S. President Joe Biden the Nord Stream 2 pipeline is a bad deal for Europe and will make determine whether sanctions are in order to stop the project from Russia to Germany, White House spokeswoman Jen Psaki told reporters on Tuesday."
+    publishedDateTime: 2021-02-16T22:40:00Z
+    webUrl: "https://www.reuters.com/article/us-nordstream-usa-biden-idUSKBN2AG29A"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AG29A"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AG29A"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210216&t=2&i=1551744910&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1F1E2"
+        width: 806
+        height: 545
+        isCached: true
   - title: "Biden's 1st 100 days live updates: Biden wants Congress to take action on gun reform"
     excerpt: "In a statement marking the 3 year anniversary of the Parkland Shooting, Biden is calling on Congress to take action on gun control reform. \"This Administration will not"
     publishedDateTime: 2021-02-14T20:47:00Z

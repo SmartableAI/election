@@ -271,6 +271,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump rips McConnell in lengthy statement after being acquitted in impeachment trial"
+    excerpt: "Former President Donald Trump went after Senate Minority Leader Mitch McConnell on Tuesday, calling him \"a dour, sullen, and unsmiling political hack\" in a broadside attack just days after the Kentucky Republican voted to acquit Trump in his second impeachment trial.\n    \n"
+    publishedDateTime: 2021-02-16T22:55:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/96Kw5LyuNZk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/16/politics/trump-mcconnell/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/16/politics/trump-mcconnell/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201230094039-split-donald-trump-mitch-mcconnell-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Cassidy says Trump's 'force wanes' and defends guilty vote after Louisiana GOP censure"
     excerpt: "Louisiana Sen. Bill Cassidy on Sunday stood by his vote to convict Donald Trump during the former President's second impeachment trial, defending his decision against a censure from his state's GOP and arguing that Trump's power within the larger party will weaken.\n    \n"
     publishedDateTime: 2021-02-14T18:02:16Z

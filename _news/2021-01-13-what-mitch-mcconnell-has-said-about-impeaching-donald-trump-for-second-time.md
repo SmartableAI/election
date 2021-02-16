@@ -95,6 +95,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Trump targets Republican leader McConnell"
+    excerpt: "\"Mitch is a dour, sullen, and unsmiling political hack,\" said Mr Trump, \"and if Republican Senators are going to stay with him, they will not win again.\" Mr McConnell, who led the Senate for years, voted to acquit Mr Trump in his impeachment trial last week."
+    publishedDateTime: 2021-02-16T22:41:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-56092781"
+    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-56092781"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-56092781"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/151A8/production/_117004468_mm.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Senate Minority Leader Mitch McConnell to propose delay of Trump impeachment trial"
     excerpt: "House Speaker Nancy Pelosi said Thursday that she is \"ready\" to send the Trump impeachment article to the Senate, but is waiting for answers on how a trial would work."
     publishedDateTime: 2021-01-22T04:32:00Z

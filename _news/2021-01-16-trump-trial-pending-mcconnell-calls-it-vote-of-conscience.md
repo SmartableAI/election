@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/trump-trial-pending-mcconnel
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-trial-pending-mcconnell-calls-it-vote-of-conscience/2021/01/16/793bebec-57ba-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 565
+heat: 585
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://thehill.com/sites/default/files/mcconnellmitch_020821gn2_lead.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Trump targets Republican leader McConnell"
+    excerpt: "\"Mitch is a dour, sullen, and unsmiling political hack,\" said Mr Trump, \"and if Republican Senators are going to stay with him, they will not win again.\" Mr McConnell, who led the Senate for years, voted to acquit Mr Trump in his impeachment trial last week."
+    publishedDateTime: 2021-02-16T22:41:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-56092781"
+    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-56092781"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-56092781"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/151A8/production/_117004468_mm.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "What Mitch McConnell Has Said About Impeaching Donald Trump for Second Time"
     excerpt: "The article of impeachment accuses Trump of \"incitement of insurrection\" for the riots at the Capitol building on January 6, and according to a recent report from The New York Times, Senate Majority Leader Mitch McConnell may be leaning toward voting in favor of impeachment."

@@ -44,6 +44,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Fraction of Biden's $128B education relief plan would go toward schools in 2021, CBO estimates"
+    excerpt: "President Biden's COVID-19 relief package would put $128 billion toward helping K-12 public schools deal with the coronavirus pandemic, but the nonpartisan Congressional Budget Office estimates that just $6 billion would flow to schools in 2021."
+    publishedDateTime: 2021-02-16T22:26:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Lo9GaNGcS94/biden-education-relief-2021-cbo-cost-estimate"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-education-relief-2021-cbo-cost-estimate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-education-relief-2021-cbo-cost-estimate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/GettyImages-1229643858.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "+2NvFv7bhojQB3hEwS9a82b+7WWyWqNxAdsrwyyL5gAbyaP4kUQzctM6Yld4Wr/zCl8b8EUwjWMhaSdKN6xo4ix67nfia8X3shrdt1lNADknvd168P6W2AGOSDroL1LsoRchvSuqRLs3cyz0e2Wo/rMeTP/Y82Tjv/hilgvCtjo9Th1PF/d0pnq1chTkvG72OjvHhicXkvnF48Di0xwf5uTtB0MUixbmMWv0U++Ee99mh1WAS28FoJQ9RNNj8sH8XB4v/YTP1Zq3rXVkMg5aJQCLXROoGux+qXoG78R2w9AfZ0IHqM2IPno7sAFkGMbL5JIE/1Ahm52E0E+dnwGySz7E7uujp1oe+jJfwcxBvPQ=;7CmB2ghuoSkHvFvrpy/KUw=="
 ---

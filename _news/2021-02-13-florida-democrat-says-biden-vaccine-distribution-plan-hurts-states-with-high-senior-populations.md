@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/dem-rep-murphy-says-obvious-flaws-i
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dem-rep-murphy-says-obvious-flaws-in-biden-vaccine-distribution-plan-hurting-states-with-high-senior-popula.amp"
 type: article
 quality: 163
-heat: 183
+heat: 203
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Fraction of Biden's $128B education relief plan would go toward schools in 2021, CBO estimates"
+    excerpt: "President Biden's COVID-19 relief package would put $128 billion toward helping K-12 public schools deal with the coronavirus pandemic, but the nonpartisan Congressional Budget Office estimates that just $6 billion would flow to schools in 2021."
+    publishedDateTime: 2021-02-16T22:26:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Lo9GaNGcS94/biden-education-relief-2021-cbo-cost-estimate"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-education-relief-2021-cbo-cost-estimate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-education-relief-2021-cbo-cost-estimate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/GettyImages-1229643858.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Rubio: Biden Administration \"Trying To Punish Florida\" With \"Clearly Unconstitutional\" COVID Travel Ban Proposal"
     excerpt: "Sen. Marco Rubio told FOX News Channel's 'Tucker Carlson Tonight' on Thursday that a proposed Biden administration plan to restrict travel to Florida during the COVID pandemic is an \"attack\" on his state."
     publishedDateTime: 2021-02-12T13:21:00Z

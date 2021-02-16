@@ -48,6 +48,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "VP Kamala Harris holds calls with foreign leaders without Biden"
+    excerpt: "Vice President Kamala Harris is proving that she will play an important role in the White House as she hosts calls with foreign leaders without President Biden."
+    publishedDateTime: 2021-02-16T21:03:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BPrYtiFBB_o/kamala-harris-calls-foreign-leaders-without-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-calls-foreign-leaders-without-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-calls-foreign-leaders-without-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 200
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ec8afdd6-cb78-46b9-8092-b13d4027cd82/e08a3fca-f5fc-4fbd-be75-497015133a56/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Vice President-elect Harris will be sworn in by Justice Sonia Sotomayor"
     excerpt: "The swearing-in of Vice President-elect Kamala Harris Wednesday, will acknowledge historical milestones as the first Latina Supreme Court justice oversees the ceremony."
     publishedDateTime: 2021-01-16T22:04:53Z

@@ -2,24 +2,24 @@
 category: news
 title: "VP Kamala Harris Shared an Old Prank Jill Biden Pulled on then-VP Biden for Valentine's Day"
 excerpt: "First Lady Jill Biden once played a Valentine's Day prank to president Joe Biden in Vice President Kamala Harris' office. Buzz60's Maria Mercedes Galuppo has the story."
-publishedDateTime: 2021-02-16T19:13:00Z
-originalUrl: "https://www.khou.com/video/entertainment/buzz60/vp-kamala-harris-shared-an-old-prank-jill-biden-pulled-on-then-vp-biden-for-valentines-day/600-2a76aaec-529f-4403-b3e4-8674bce34c90"
-webUrl: "https://www.khou.com/video/entertainment/buzz60/vp-kamala-harris-shared-an-old-prank-jill-biden-pulled-on-then-vp-biden-for-valentines-day/600-2a76aaec-529f-4403-b3e4-8674bce34c90"
+publishedDateTime: 2021-02-16T21:06:00Z
+originalUrl: "https://www.11alive.com/video/entertainment/buzz60/vp-kamala-harris-shared-an-old-prank-jill-biden-pulled-on-then-vp-biden-for-valentines-day/600-2a76aaec-529f-4403-b3e4-8674bce34c90"
+webUrl: "https://www.11alive.com/video/entertainment/buzz60/vp-kamala-harris-shared-an-old-prank-jill-biden-pulled-on-then-vp-biden-for-valentines-day/600-2a76aaec-529f-4403-b3e4-8674bce34c90"
 type: article
 quality: 60
 heat: -1
 published: false
 
 provider:
-  name: KHOU 11
-  domain: khou.com
+  name: 11Alive
+  domain: 11alive.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://media.khou.com/assets/BUZZ60/images/4cd4620f-e6f8-46a2-aa2e-968d0c3584ec/4cd4620f-e6f8-46a2-aa2e-968d0c3584ec_1140x641.jpeg"
+  - url: "https://media.11alive.com/assets/BUZZ60/images/4cd4620f-e6f8-46a2-aa2e-968d0c3584ec/4cd4620f-e6f8-46a2-aa2e-968d0c3584ec_1140x641.jpeg"
     width: 1140
     height: 641
     isCached: true
@@ -1413,6 +1413,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "Dee53LRkug8Zm/2DszDyviSq1Hp9EftRvoSlG7mIfW1VbSY5NYmy7fno/R3Jgm2WEWNxv1z7dOIBgnDnX4psmMfVjxTCX6joiKXsHRAt0enJgAAUaCjaTVd6mycouIhJWqrZlX1kWqxdw5Ixi65iV4fplMVJs9XRwRtHnmlyH9QAg69APDNRg/E1CdKGDhXdxuODTaiGGbGuslXeG8+J5pa6r80TO9fz++wnEuoLIugqqSk/ZyJCyNXer6esroABYT3TIJXTjK+CD3NfxzftVmT/oHKXA90+1/TAYoV4w4W4Mv3ezR5VKv7H3Z4ThY+8TJ8JQcN7f9mGA3DcL27YymVdXCZu/AECfbnTBBznNAQ=;++4jAEq9huer1/Skn9N6SA=="
+secured: "4gppEwyX0mPX5/OmcauQd5aiRm6QE8WxIQwt4JbfnrK73xYbvGI7T0Adb4LhD/4C60FB3z92IRNUTNoGRnRPoeZ7zhAuqlxL/+Roo5GkrioP6m48TqpLGJcKT8/UEDzZP0vY4nIeIH/CPpvbgfN0WT/pCTOt5H8BibJ1yKSrGqtIoTMiaqBTVIVEGAK3ueXYNz/fvrVW3PHnxKLWeZVhiChJiejR8QT8SrDlGw61Ds1wycuNyhBSPXoGFYDcVpgAY0Oev8yiF8jrGw+BMKNT/Z24wJ6rsDPgQLxVsrhXDL7VkmiFUxOlK9EK6EXCneG32zmc4b009dz/DGPQGDgaINFYeqYURnA7wG+jq24u7XU=;EZw98R3MD7+aPvQz6K42/A=="
 ---
 

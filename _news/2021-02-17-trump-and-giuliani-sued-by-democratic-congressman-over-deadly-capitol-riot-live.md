@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Giuliani not currently representing Trump in legal matters - Trump spokesman"
+    excerpt: "Former President Donald Trump's long-time lawyer and confidant Rudy Giuliani is not representing Trump in legal matters at this time, Trump spokesman Jason Miller said on Tuesday."
+    publishedDateTime: 2021-02-16T22:10:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-giuliani/giuliani-not-currently-representing-trump-in-legal-matters-trump-spokesman-idUSKBN2AG2KU?edition-redirect=uk"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AG2KU"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AG2KU"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210216&t=2&i=1551768478&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1F1JO"
+        width: 823
+        height: 545
+        isCached: true
   - title: "House Homeland Security chairman sues Trump and Giuliani, accusing them of inciting Capitol riot"
     excerpt: "The lawsuit marks latest legal action challenging former president and invokes the 1871 Ku Klux Klan Act, which bars interference in Congress’ constitutional duties."
     publishedDateTime: 2021-02-16T20:29:00Z

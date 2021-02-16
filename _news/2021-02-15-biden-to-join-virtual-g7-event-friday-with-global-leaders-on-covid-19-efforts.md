@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/14/politics/biden-g7-summit-virtual-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/14/politics/biden-g7-summit-virtual-covid-19/index.html"
 type: article
 quality: 172
-heat: 172
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -29,6 +29,24 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "Biden to press for Covid-19 relief package during CNN's Wisconsin town hall"
+    excerpt: "President Joe Biden, no longer encumbered by his predecessor's impeachment trial and eager to seize the national spotlight, will bring the case for his massive coronavirus relief plan to the country on Tuesday when he participates in a CNN town hall at 9 p.m. ET in Milwaukee.\n    \n"
+    publishedDateTime: 2021-02-16T22:35:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BZxNyEn6k4k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/16/politics/biden-town-hall-february/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/16/politics/biden-town-hall-february/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210205130625-joe-biden-february-5-2021-01-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "fStIo4VhETcIpJNW10xM3ccS2tHKTZgO+o/XY0b0dYCpM526PjHnFXADulZvaBsVimIKWmb2pBlSYIJd+/14H4dhcO8heIES3hU8edCwIf+00w9aV2/FIW+ie4sTxONfzWFxAqaP6nPRtIIUSb35ZrclFAznJh0bdQjrdC2fjEIeNkOL0ZGWBm9G5aYCn/d4jpFl8yfKh0PNdFDvsjz43ILdsrvmvA2DOGm3EN/FUHzXYWvtVSQEU8vSwgapqOpjzlyMyzDZrJwYckhTPG2QrhafEEXyHbLpVCkv8vRwGJr1sOnm5ihbQ+x6ceorl/W8F//J45pi3vDWS1AQL6tn9v9fkrQdz+PhLix+FS6qPNA=;9iW8jV6A886U+a6fZVb7Qw=="
 ---

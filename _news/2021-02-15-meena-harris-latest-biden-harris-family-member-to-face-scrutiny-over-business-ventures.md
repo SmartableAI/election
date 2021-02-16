@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/meena-harris-latest-biden-harris-fa
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/meena-harris-latest-biden-harris-family-member-scrutiny-business-ventures.amp"
 type: article
 quality: 192
-heat: 272
+heat: 252
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Harris claims Biden admin ‘starting from scratch’ on fighting coronavirus despite Fauci saying otherwise"
-    excerpt: "Vice President Kamala Harris claimed in a new interview that the Biden administration is \"starting from scratch\" on a national vaccination strategy amid the coronavirus pandemic, despite Dr. Anthony Fauci saying otherwise last month."
-    publishedDateTime: 2021-02-15T18:42:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zSxDWVAVBBY/harris-claims-biden-admin-starting-fighting-covid-fauci"
-    ampWebUrl: "https://www.foxnews.com/politics/harris-claims-biden-admin-starting-fighting-covid-fauci.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-claims-biden-admin-starting-fighting-covid-fauci.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 183
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Biden budget nominee Neera Tanden could face testy hearings amid scrutiny of inflammatory tweets"
     excerpt: "President Biden's pick for director of the White House Office of Management and Budget could find herself in unfriendly territory when she sits for two confirmation hearings this week after a history of enmity with lawmakers on both sides of the aisle."
     publishedDateTime: 2021-02-08T17:23:37Z

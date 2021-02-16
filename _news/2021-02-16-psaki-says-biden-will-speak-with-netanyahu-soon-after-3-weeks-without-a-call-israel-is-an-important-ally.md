@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/psaki-biden-netanyahu-israel-import
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-netanyahu-israel-important-ally.amp"
 type: article
 quality: 156
-heat: 156
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -30,6 +30,24 @@ images:
     height: 720
     isCached: true
 
-secured: "Q7aLdDXau0gLbjnAskhF46cYPJFKnF1vQonE9g/1BAOLJ12klJb8s0d6gOsfExnn2rnVFmfJfFcEL2T6cgKug99DIBAcXU18PktSn9iKavQtRn6IjhCzWZzaoTT0j9rEDgX5bsTC/r1JIrh0K9Dtxo6j8csBnx0gwf7uCJ5kzPLDmMaU5aP3Ha2Fdm5jQL82bipAahoAfPNjuR5F+bn7NHkJm7zGmWIC7wIV0b+SFF2+R7sKt7A0ly8myUF9va0dCT0A8ic6LPaBLJj3Ee/SMABSNAJTqHDUJTUDx/aMrTO0ukRMYJPMkg0rnRJM7laWfs4/KTw2dKponR82ak3OE+00UMwiT0JfRt1HMC7TWw0=;vz86tAOU3fFSB2/BhY1zTg=="
+related:
+  - title: "Psaki admits parents shouldn't be 'satisfied' with in-person school one day a week as Biden takes heat"
+    excerpt: "White House press secretary Jen Psaki said parents shouldn’t be satisfied with schools reopening one day a week, after doubling down on that as the White House goal for the 100th day in office. "
+    publishedDateTime: 2021-02-11T19:05:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PDVMZRSczY0/psaki-parents-shouldnt-be-satisfied-in-person-school-one-day-a-week"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-parents-shouldnt-be-satisfied-in-person-school-one-day-a-week.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-parents-shouldnt-be-satisfied-in-person-school-one-day-a-week.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/AP21034688188622-e1612386247366.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+
+secured: "nMpHH07toEOXaxr+CgMC3BzF/GFEZ+Vy+3yIVZfMZ1TyX0rnf12T7hW7B0Mce//5MDZ1c3uumkbx0i7R0p1A0JCu9buPthiBNGujLf4j2Gl2sBSWjndoQoeEbsHgPCyrFC+vQMdcgY0Rl5nlSPgC57BUwzHVBYx7BIRI536bfUY0DS0HIirLcPJOiVPAflLIUHX5FMhQANbgteonMRTckuPD3Esky8qUkXcQL7yvQDBCAJdsz4W3vaJBmMOmCrL/VJyFm//JwNmY1gfpScvG1ruNju3voJb0CTdXF0RVfmvoguZwHn8eAHAP3/YokS21ZLUxp6XpvXf0mZSWOkXgfEdFerRjjY0jsw3zA/PxrK8=;zl6hd+fpzacm02o+omg96A=="
 ---
 

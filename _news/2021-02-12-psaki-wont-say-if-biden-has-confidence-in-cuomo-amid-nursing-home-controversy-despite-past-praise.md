@@ -31,21 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Psaki: Gun control a 'priority,' Biden 'not afraid of standing up' to the NRA"
-    excerpt: "White House press secretary Jen Psaki on Tuesday said gun control is a \"priority\" for President Biden – and said he is \"not afraid of standing up\" to the National Rifle Association."
-    publishedDateTime: 2021-02-16T18:27:01Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KNMXNPtCCYA/psaki-gun-control-a-priority-biden-not-afraid-of-standing-up-to-the-nra"
-    ampWebUrl: "https://www.foxnews.com/politics/psaki-gun-control-a-priority-biden-not-afraid-of-standing-up-to-the-nra.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-gun-control-a-priority-biden-not-afraid-of-standing-up-to-the-nra.amp"
+  - title: "Biden, Cuomo didn’t discuss COVID nursing home scandal, Psaki says"
+    excerpt: "It was the elephant in the Oval Office, but somehow, President Biden and Gov. Andrew Cuomo didn’t discuss his COVID-19 nursing home scandal when they met last week."
+    publishedDateTime: 2021-02-16T21:37:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/srKMzc1VH-Y/biden-cuomo-didnt-discuss-covid-nursing-home-scandal-psaki-says"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-cuomo-didnt-discuss-covid-nursing-home-scandal-psaki-says.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cuomo-didnt-discuss-covid-nursing-home-scandal-psaki-says.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 172
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Oval2.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Psaki says Biden 'respects this kind of protest' as Mark Cuban stops playing anthem at Mavericks games"
+    excerpt: "White House press secretary Jen Psaki said she hadn’t spoken to President Biden about Mark Cuban’s decision to stop playing the national anthem before Mavericks’ games, but believes he respects this kind of peaceful protest at sporting events.  "
+    publishedDateTime: 2021-02-10T19:50:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GekeFAYbQE4/biden-great-respect-anthem-respects-peaceful-protest-psaki-says-mavericks"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-great-respect-anthem-respects-peaceful-protest-psaki-says-mavericks.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-great-respect-anthem-respects-peaceful-protest-psaki-says-mavericks.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/Psaki2.jpg"
+        width: 1280
+        height: 721
         isCached: true
 
 secured: "ZjJMi+sUOcH/eOSj/FMhaKmqLIqF0QEM1VhzS1pLR8M3CHN1Ifiu/Ms9e4gOy2AtQDWb2KYm+0P0ykYHT5rqZAS+EefXZ+vk/5dzM5jBZSEnkuzrWob5o7fdj7cms1AJYsTK7FvlbIBCaunP7pK/xTJaYs2GsdulBRDzpRYieyEKJtUwDrUKU6UIYD+ao8p61niCBtxkq8Cp3xH6atpNPT+rLQi2xhuVviao7BgN4nhg2LfU2OVibUT96CTfchFe1oJP8NJrMNk3Wha+SgHYI63AuNu5Bbnsa9OEqSK68/osOAC9gex335jgbbB3kYEIvcWv2XJ7m9CcOTIw5q2v9Lv+rqAa1zkxU/ED3y5YZsU=;g60kEVjw/XEfFrCQ7WXMhQ=="

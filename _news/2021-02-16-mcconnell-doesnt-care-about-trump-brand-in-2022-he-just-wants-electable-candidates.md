@@ -48,6 +48,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump urges ouster of ‘unsmiling political hack’ Mitch McConnell"
+    excerpt: "Former President Donald Trump on Tuesday issued a blistering attack on the most powerful Republican in post-Trump Washington, calling Senate Minority Leader Mitch McConnell an “unsmiling political"
+    publishedDateTime: 2021-02-16T22:29:00Z
+    webUrl: "https://nypost.com/2021/02/16/trump-urges-ouster-of-unsmiling-political-hack-mcconnell/"
+    ampWebUrl: "https://nypost.com/2021/02/16/trump-urges-ouster-of-unsmiling-political-hack-mcconnell/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/16/trump-urges-ouster-of-unsmiling-political-hack-mcconnell/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/trump-mcconnell.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Mitch McConnell says Trump could play ‘constructive’ role for Republicans"
     excerpt: "Senate Minority Leader Mitch McConnell said Monday that former President Donald Trump could play a “constructive” role for Republicans after his acquittal for allegedly inciting the"
     publishedDateTime: 2021-02-15T23:34:00Z
@@ -63,6 +79,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/mitch.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Trump Criticizes McConnell in Lengthy Statement, Calling Him a ‘Political Hack’"
+    excerpt: "Former President Donald Trump criticized Mitch McConnell following the Senate minority leader’s blistering condemnation of Mr. Trump’s actions leading up to the Jan. 6 Capitol riot."
+    publishedDateTime: 2021-02-16T22:33:00Z
+    webUrl: "https://www.wsj.com/articles/trump-criticizes-mcconnell-in-lengthy-statement-calling-him-a-political-hack-11613513959?mod=breakingnews"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-criticizes-mcconnell-in-lengthy-statement-calling-him-a-political-hack-11613513959"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-criticizes-mcconnell-in-lengthy-statement-calling-him-a-political-hack-11613513959"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 131
+    images:
+      - url: "https://images.wsj.net/im-299929/social"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "LsTa77dxdjcTmFcL8ia9qmJ9rT9cNL9ZIUd9PxZ+YxCrWfkQvPZe6l3AHA8KmubOZfSIpNZkPychJbV8v6V6Wif1GjoKErvAHtByPyDzBeJrqFR1e69sN77WxOounMcV+Lx8vlj6UAmcV0eM5xy1p9pQfV+WvpKuI1Lq12qodRzEahe120t1Cwxgspd2JEDcoOneTmeqKURY/mQecBMkyf5bvrc9vZ1/T4bIXIXD54OAlQOunQ9eCr6HT2kOF32RV/nisJcwdrHyNPQeJqyWP2jE/AAskaKWpYxJL4CnWOGsfG8O05ZGrPHPZEU315c4e1UQKjrSHGxdNv/5ChiiW42zLgVTpWa6Yfv66f+DvFzStTaHvjNeWsbtQS1j/rP43BR3sMoaLadnINFGCArjDQPKgeW3yA9TUFS+DWZD0lXdVghdM4dxe1P1tPOC7zeWQ/42izjapRYqe9e3NGWMD9Wp4j4UQ+IFdB5qpUPPjG2HiZY9kC0X8DRe8g2q/RCok2u3b+nZDb2Owshytdlocw==;+R5QNl6keI1OVrxCHXixsQ=="

@@ -223,6 +223,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "White House says Biden backs citizenship for 11 million illegal immigrants, ahead of bill unveiling"
+    excerpt: "The White House on Tuesday reaffirmed that President Biden backs a controversial plan to create a pathway to citizenship to at least 11 million illegal immigrants -- as the White House and congressional Democrats are expected to formally unveil a sweeping immigration bill as soon as this week."
+    publishedDateTime: 2021-02-16T21:28:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/noG64YCPU1c/white-house-biden-citizenship-illegal-immigrants"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-biden-citizenship-illegal-immigrants.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-biden-citizenship-illegal-immigrants.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/445ed9ed-cd0c-41f3-83e6-58a88f7d11ba/8d88fc84-ae2d-47e0-a180-90c427f3db5e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden lays out 'prescription' for U.S.-China relations in first call with Xi Jinping since taking office"
     excerpt: "President Biden spoke with Chinese President Xi Jinping for the first time Wednesday night since taking office, outlining his administration’s “core concerns” with China’s “practices, aggressive activities and abuses,” signaling a “clear and consistent subscription to American values,” while discussing"
     publishedDateTime: 2021-02-11T02:18:39Z

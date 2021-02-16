@@ -271,6 +271,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump trashes Mitch McConnell in searing new statement"
+    excerpt: "Former President Trump released a scathing statement Tuesday afternoon targeting Senate Minority leader Mitch McConnell. "
+    publishedDateTime: 2021-02-16T22:06:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ROwtXHYB3cM/trump-trashes-mitch-mcconnell-in-searing-new-statement"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-trashes-mitch-mcconnell-in-searing-new-statement.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-trashes-mitch-mcconnell-in-searing-new-statement.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/12705019-b2cd-4cc2-8acd-3a31ff1520a0/4af5124e-0b28-456d-a628-83df78e1dc43/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Republican who called on Trump to resign admits conviction ‘very unlikely’"
     excerpt: "Sen. Pat Toomey, R-Pa., who has been a top critic of former President Trump and called for him to resign after last month’s riot at the Capitol, said in an interview Sunday that it is unlikely that the Senate will vote for a conviction on the one count of \"incitement of insurrection.\""
     publishedDateTime: 2021-02-08T09:41:35Z

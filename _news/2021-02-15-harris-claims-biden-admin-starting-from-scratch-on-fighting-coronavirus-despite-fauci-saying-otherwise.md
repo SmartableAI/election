@@ -32,69 +32,21 @@ images:
     isCached: true
 
 related:
-  - title: "Meena Harris latest Biden, Harris family member to face scrutiny over business ventures"
-    excerpt: "The White House has come out and stated that Vice President Kamala Harris' name will not be permitted to be used in conjunction with any commercial endeavors that could be seen as having her support, after a report said lawyers told her niece Meena Harris to stop using her name to help her brand."
-    publishedDateTime: 2021-02-15T19:04:38Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4XliRfY34gU/meena-harris-latest-biden-harris-family-member-scrutiny-business-ventures"
-    ampWebUrl: "https://www.foxnews.com/politics/meena-harris-latest-biden-harris-family-member-scrutiny-business-ventures.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/meena-harris-latest-biden-harris-family-member-scrutiny-business-ventures.amp"
+  - title: "Fauci defends Harris 'starting from scratch' claim, now knocks Trump vaccine rollout"
+    excerpt: "White House chief medical adviser Dr. Anthony Fauci reversed his previous rejection Tuesday of claims that the Biden administration was \"starting from scratch\" with the rollout of the coronavirus vaccine."
+    publishedDateTime: 2021-02-16T22:03:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/57KtG5YlgyA/anthony-fauci-kamala-harris-starting-from-scratch-covid-vaccine-rollout"
+    ampWebUrl: "https://www.foxnews.com/politics/anthony-fauci-kamala-harris-starting-from-scratch-covid-vaccine-rollout.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/anthony-fauci-kamala-harris-starting-from-scratch-covid-vaccine-rollout.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 192
+    quality: 193
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Meena-Harris.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Biden budget nominee Neera Tanden could face testy hearings amid scrutiny of inflammatory tweets"
-    excerpt: "President Biden's pick for director of the White House Office of Management and Budget could find herself in unfriendly territory when she sits for two confirmation hearings this week after a history of enmity with lawmakers on both sides of the aisle."
-    publishedDateTime: 2021-02-08T17:23:37Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sdI3mwgwmzI/biden-budget-nominee-neera-tanden-confirmation-hearings-tweets"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-budget-nominee-neera-tanden-confirmation-hearings-tweets.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-budget-nominee-neera-tanden-confirmation-hearings-tweets.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ecb90e26-1a7c-435c-9c19-1954f1794e4a/6028a03c-dc91-4110-b09d-e04c086c1e52/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ad71656b-2875-49eb-84fa-d680c5cbc2f2/3169cfb5-6a85-407b-9d32-61d055c27ff9/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Dozens of celebrities call on Joe Biden, Kamala Harris to shut down the Dakota Access Pipeline"
-    excerpt: "Dozens of celebrities signed a letter to President Joe Biden and Vice President Kamala Harris calling on their administration to shut down the Dakota Access Pipeline for good."
-    publishedDateTime: 2021-02-10T15:21:00Z
-    webUrl: "https://www.foxnews.com/entertainment/dozens-of-celebrities-call-on-joe-biden-kamala-harris-to-shut-down-the-dakota-access-pipeline"
-    ampWebUrl: "https://www.foxnews.com/entertainment/dozens-of-celebrities-call-on-joe-biden-kamala-harris-to-shut-down-the-dakota-access-pipeline.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/dozens-of-celebrities-call-on-joe-biden-kamala-harris-to-shut-down-the-dakota-access-pipeline.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 138
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/CelebsReact21.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "White House lawyers tell Meena Harris to stop using aunt Kamala to build brand: report"
-    excerpt: "Vice President Kamala Harris’ social-media-influencer niece has long used her aunt’s fame to boost her own personal brand — but now that Harris has entered the White House, aides have become increasingly concerned about the ethical implications of the promotional pattern,"
-    publishedDateTime: 2021-02-14T12:27:00Z
-    webUrl: "https://www.foxnews.com/politics/white-house-lawyers-meena-harris-kamala-harris-niece"
-    ampWebUrl: "https://www.foxnews.com/politics/white-house-lawyers-meena-harris-kamala-harris-niece.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-lawyers-meena-harris-kamala-harris-niece.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 127
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Meena-Harris-GETTY.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
         isCached: true
 
 secured: "injyUJuuZOxrFlgGNy/El6cG8uKXQCRvtSK6AdU6GLg/CucnpDZcJmgustsVZRfKC5CWypR6Uafn6KzvIdZAS2U4hOEEtfA0O3tkqqkLDOW4BUNuP79rMkYsRBGCJ8zEXfnE07lXv49bSagptwxSb5BMkeBAHzJATr1XAbSsmxGdzm753qPZ7bQKybaqrpgtrPOVut739xhRw8n9itONjsxMN9riHEI7n48lu3IXYtydGFHNs9CvUBWV+nv+NchUo9L69Cq/S6n1M9CnWX5SNSE6CCUvc4Fiyn6bhl8is/zsEjp4xPSod7r95kFpJY2JPrTxVrH/90WzMr/YgK7ebxya9OmmqxnNxYMvQQEpP0o=;mpGbLJkFOIZGcJ7VuF2D3g=="

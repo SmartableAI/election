@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration approves arms sale to Egypt despite human rights concerns"
+    excerpt: "The Biden administration on Tuesday announced it had approved a possible $197 million sale of missiles to Egypt, just days after the Egyptian government is said to have detained family members of a US-based Egyptian American human rights activist.\n    \n"
+    publishedDateTime: 2021-02-16T22:34:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/coGbblJHf8I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/16/politics/egypt-missile-sale/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/16/politics/egypt-missile-sale/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170222175840-state-department-building-sign-photo-illustration-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden has no good options on Afghanistan with deadline for troop withdrawal looming"
     excerpt: "The Biden administration is just weeks away from having to make a decision whether to end the nearly 20-year military deployment in Afghanistan that has claimed nearly 2,400 American lives, as experts and US officials told CNN there are no good options available and the best hope is to avert \"catastrophe.\"\n"
     publishedDateTime: 2021-02-14T05:00:21Z

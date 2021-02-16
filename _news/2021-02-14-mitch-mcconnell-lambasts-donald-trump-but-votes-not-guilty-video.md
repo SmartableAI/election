@@ -61,6 +61,22 @@ related:
         width: 875
         height: 545
         isCached: true
+  - title: "Read Donald Trump's Full Statement on Mitch McConnell, His First Since Impeachment"
+    excerpt: "In his first full statement since being impeached by the House, former President Donald Trump said Senate Minority Leader Mitch McConnell was \"seriously hurting our Country.\""
+    publishedDateTime: 2021-02-16T22:43:00Z
+    webUrl: "https://www.newsweek.com/read-donald-trumps-full-statement-mitch-mcconnell-his-first-since-impeachment-1569753"
+    ampWebUrl: "https://www.newsweek.com/read-donald-trumps-full-statement-mitch-mcconnell-his-first-since-impeachment-1569753?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/read-donald-trumps-full-statement-mitch-mcconnell-his-first-since-impeachment-1569753?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 119
+    images:
+      - url: "https://d.newsweek.com/en/full/1737290/mitch-mcconnell-donald-trump-statement-impeachment.jpg"
+        width: 2474
+        height: 1392
+        isCached: true
   - title: "Power Up: Mitch McConnell still isn't talking to Trump. But will he vote to acquit him?"
     excerpt: "This is not the America McConnell grew up in or the Republican Party he's built. This is not the party he wants to leave behind for the next generation,' said longtime McConnell political aide Scott Jennings."
     publishedDateTime: 2021-02-12T16:57:00Z

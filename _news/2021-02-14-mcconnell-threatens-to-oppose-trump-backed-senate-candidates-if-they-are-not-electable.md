@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/mcconnell-trump-2022-senate-electio
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-trump-2022-senate-elections-republicans.amp"
 type: article
 quality: 167
-heat: 207
+heat: 247
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump urges ouster of ‘unsmiling political hack’ Mitch McConnell"
+    excerpt: "Former President Donald Trump on Tuesday issued a blistering attack on the most powerful Republican in post-Trump Washington, calling Senate Minority Leader Mitch McConnell an “unsmiling political"
+    publishedDateTime: 2021-02-16T22:29:00Z
+    webUrl: "https://nypost.com/2021/02/16/trump-urges-ouster-of-unsmiling-political-hack-mcconnell/"
+    ampWebUrl: "https://nypost.com/2021/02/16/trump-urges-ouster-of-unsmiling-political-hack-mcconnell/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/16/trump-urges-ouster-of-unsmiling-political-hack-mcconnell/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/trump-mcconnell.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Mitch McConnell says Trump could play ‘constructive’ role for Republicans"
     excerpt: "Senate Minority Leader Mitch McConnell said Monday that former President Donald Trump could play a “constructive” role for Republicans after his acquittal for allegedly inciting the"
     publishedDateTime: 2021-02-15T23:34:00Z
@@ -46,6 +62,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/mitch.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Trump Criticizes McConnell in Lengthy Statement, Calling Him a ‘Political Hack’"
+    excerpt: "Former President Donald Trump criticized Mitch McConnell following the Senate minority leader’s blistering condemnation of Mr. Trump’s actions leading up to the Jan. 6 Capitol riot."
+    publishedDateTime: 2021-02-16T22:33:00Z
+    webUrl: "https://www.wsj.com/articles/trump-criticizes-mcconnell-in-lengthy-statement-calling-him-a-political-hack-11613513959?mod=breakingnews"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-criticizes-mcconnell-in-lengthy-statement-calling-him-a-political-hack-11613513959"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-criticizes-mcconnell-in-lengthy-statement-calling-him-a-political-hack-11613513959"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 131
+    images:
+      - url: "https://images.wsj.net/im-299929/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "McConnell Doesn’t Care About Trump Brand in 2022, He Just Wants Electable Candidates"
     excerpt: "Senate Minority Leader Mitch McConnell hopes to regain Republican control of the Senate by channeling the energy among Trump supporters while limiting extreme elements in the party."
