@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/gop-sen-cassidy-trumps-force-wanes-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-sen-cassidy-trumps-force-wanes-following-senate-impeachment-trial.amp"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/09d1af85-4b2e-4ebf-acac-7dba297fe264/cde0ffc2-c0b5-4886-9ef0-8e6de836adaf/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "North Carolina GOP censures Sen. Richard Burr over vote to convict Trump"
+    excerpt: "The Central Committee of the North Carolina Republican Party on Monday night censured Sen. Richard Burr for voting to convict former President Donald Trump at his Senate impeachment trial. The"
+    publishedDateTime: 2021-02-16T13:57:00Z
+    webUrl: "https://nypost.com/2021/02/16/nc-gop-censures-sen-richard-burr-over-vote-to-convict-trump/"
+    ampWebUrl: "https://nypost.com/2021/02/16/nc-gop-censures-sen-richard-burr-over-vote-to-convict-trump/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/16/nc-gop-censures-sen-richard-burr-over-vote-to-convict-trump/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 134
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/richard-burr-01.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "KXxYRLNW/nJQ72PkhAhw+kFj17suISTGvpfb+B98OxFMvVk5a+R3d8CDxW/m4KVIz/hfkj1DbNRATEfNu5Esy8KyDU9P0iWIybVoQs6hJo9MVRP97v2hKMZil/sxW8HuAPJmWMYgl1eY4Joj2xnoAgpDAvhhfqm1NTn6SL68WlaHrUJP1FFhcoMiiM0YxrLnY88qcSPBzjgygQDEpIkqWzjc7mrZCEm5mb1rI8+nPXatnmoXk69sNw599fbwTeSgbcW/D+WNCv5oB9QFnQUA0P/F0jkMvrY6gsQAyuMoOhU4gNALcwDuGflwQ0xuC9tYbO70EQ9QPYNrB6+VYGSkk6nBWrRG4YRInE94smB0qIA=;RQASfTSygiR5SvGpTL+EIA=="

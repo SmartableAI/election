@@ -1,33 +1,30 @@
 ---
 category: news
-title: "The five biggest moments from Wednesday's session of Trump's impeachment trial"
-excerpt: "House impeachment managers made their case Wednesday for convicting former President Trump Wednesday, bringing up dramatic new security footage to tie Trump’s words to the Jan. 6 Capitol riot and the threat it posed to lawmakers and police. "
-publishedDateTime: 2021-02-11T01:20:00Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xZMFqk2nuCY/trump-impeachment-trials-5-most-notable-moments-wednesday-as-prosecution-argued-case"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xZMFqk2nuCY/trump-impeachment-trials-5-most-notable-moments-wednesday-as-prosecution-argued-case"
-ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-trials-5-most-notable-moments-wednesday-as-prosecution-argued-case.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-trials-5-most-notable-moments-wednesday-as-prosecution-argued-case.amp"
+title: "GOP Rep. Adam Kinzinger claims family shunned him for Trump impeachment vote"
+excerpt: "Rep. Adam Kinzinger has released a letter he alleges was sent to him by nearly a dozen family members shunning him over his vote to impeach former President Donald Trump for the second time."
+publishedDateTime: 2021-02-16T13:10:00Z
+originalUrl: "https://nypost.com/2021/02/16/kinzinger-claims-family-shunned-him-for-trump-impeachment-vote/"
+webUrl: "https://nypost.com/2021/02/16/kinzinger-claims-family-shunned-him-for-trump-impeachment-vote/"
+ampWebUrl: "https://nypost.com/2021/02/16/kinzinger-claims-family-shunned-him-for-trump-impeachment-vote/amp/"
+cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/16/kinzinger-claims-family-shunned-him-for-trump-impeachment-vote/amp/"
 type: article
-quality: 171
+quality: 132
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: New York Post
+  domain: nypost.com
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e89b35a2-6206-4c42-8a5e-abcd05142976/aea6e48e-edaf-4e9d-a582-2305916ecee6/1280x720/match/image.jpg"
-    width: 1280
-    height: 720
+  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/kinzinger-impeachment-80.jpg?quality=90&strip=all&w=1200"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -350,6 +347,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "The five biggest moments from Wednesday's session of Trump's impeachment trial"
+    excerpt: "House impeachment managers made their case Wednesday for convicting former President Trump Wednesday, bringing up dramatic new security footage to tie Trump’s words to the Jan. 6 Capitol riot and the threat it posed to lawmakers and police. "
+    publishedDateTime: 2021-02-11T01:20:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xZMFqk2nuCY/trump-impeachment-trials-5-most-notable-moments-wednesday-as-prosecution-argued-case"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-trials-5-most-notable-moments-wednesday-as-prosecution-argued-case.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-trials-5-most-notable-moments-wednesday-as-prosecution-argued-case.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e89b35a2-6206-4c42-8a5e-abcd05142976/aea6e48e-edaf-4e9d-a582-2305916ecee6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Senate impeachment trial was 'dramatic success' despite Trump acquittal: Raskin"
     excerpt: "Democrats touted the Senate impeachment trial of former President Donald Trump as a big win despite his acquittal."
@@ -1421,22 +1434,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "GOP Rep. Adam Kinzinger claims family shunned him for Trump impeachment vote"
-    excerpt: "Rep. Adam Kinzinger has released a letter he alleges was sent to him by nearly a dozen family members shunning him over his vote to impeach former President Donald Trump for the second time."
-    publishedDateTime: 2021-02-16T13:10:00Z
-    webUrl: "https://nypost.com/2021/02/16/kinzinger-claims-family-shunned-him-for-trump-impeachment-vote/"
-    ampWebUrl: "https://nypost.com/2021/02/16/kinzinger-claims-family-shunned-him-for-trump-impeachment-vote/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/16/kinzinger-claims-family-shunned-him-for-trump-impeachment-vote/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 132
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/kinzinger-impeachment-80.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Donald Trump Impeachment Trial Still Has GOP Sen. Bill Cassidy Asking Questions"
     excerpt: "The Louisiana Republican has emerged as a wild card and most visible swing vote in the trial over whether former President Donald Trump incited the riot at the Capitol last month."
     publishedDateTime: 2021-02-12T15:36:00Z
@@ -1696,6 +1693,6 @@ related:
         height: 720
         isCached: true
 
-secured: "w8snri9uW1STqJDQA1xsiHBqh9PqxwtVLkkQSIQO9uaZDT7Xps3im5onPEI0l5Mky9e4KLcjH1etS6Fd8RTG/P5lhYfX+dSFlRr6/ue2AHoDRBcNXt7AxJ1BfEalFNjck1BuBhpEEebXeIGkH3o5wzQjR8fZMDhyGqdGW1fX7x64iC49LbCY3o/iBuVpUzJMZoIAa1esE1S24dFIiRQEIuP69AMIg1GiEawnvHq+VyzS3xuenqRgThjlaqChFzMCUuah2+fM85cGntTnRVSViCsBHd3jR8GZWE2Qr/VbWX7S40MjOj/ep6J8UJ3zG+GdUXYdOP4nu1ZXmBs9ndc2faz7SfF44xXRuco/dEIHzXQ=;QwZTgZyeLhcGUn7tAaoSEQ=="
+secured: "SR3KCnfwjzhDHGt3K5EOtbAfGVUgii1aj0H1oVoVE7yUhiz/1pXlLTYk6NULJk+Sf6gsXNzEaf9DSEBZZywGHS8JSNiu5r2ImzNdMpRgTSt7kTKD54EIhdaoVnMspWdTJcMSdPwu9WHwm3cFtjOnJX9yUplygmgEnbhqqIOQDCGU5GrtGe1d36ZJ9MDDLYOq1r5MkX1Jgy1IPY2YmISVO7it4trzE/Mb3ZFM2kC5lwGNsJoXG38Niy991oyurbt3tQEhpYH/vyWi0x0X4QMYyaYTWOihzBeFRtRQquyGtVcx7YoueMO+bPf6vVDSs5GKHZYRBNGk/VXlNt9jxPEMqQ1IgOVD9tCt68CYBxWE0mg=;Qv6qBEy0K3GPpId6x8Oi7A=="
 ---
 

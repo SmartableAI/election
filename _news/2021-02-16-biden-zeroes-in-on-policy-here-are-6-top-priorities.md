@@ -1,14 +1,14 @@
 ---
 category: news
-title: "How Joe Biden's Cabinet picks are making history"
-excerpt: "Being nominated to serve in a presidential Cabinet is, obviously, a huge honor. It's also been decidedly perilous in recent years."
-publishedDateTime: 2021-02-11T15:11:00Z
-originalUrl: "https://www.cnn.com/2021/02/11/politics/biden-cabinet-nominations-approval/index.html"
-webUrl: "https://www.cnn.com/2021/02/11/politics/biden-cabinet-nominations-approval/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/02/11/politics/biden-cabinet-nominations-approval/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/11/politics/biden-cabinet-nominations-approval/index.html"
+title: "Biden zeroes in on policy: Here are 6 top priorities"
+excerpt: "Joe Biden has been President of the United States for nearly a month, but his political agenda is only just coming into focus in Washington, now that the impeachment proceedings against Donald Trump are over.\n    \n"
+publishedDateTime: 2021-02-16T13:00:21Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PwzOgsKjdso/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PwzOgsKjdso/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/02/16/politics/president-biden-top-agenda-priorities/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/16/politics/president-biden-top-agenda-priorities/index.html"
 type: article
-quality: 135
+quality: 175
 heat: -1
 published: false
 
@@ -22,11 +22,10 @@ provider:
 
 topics:
   - Election
-  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210127133810-20210128-biden-interactive-cabinet-tracker-card-image-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210129183519-01-joe-biden-eo-lifts-transgender-ban-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -77,22 +76,6 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210215153718-01-biden-wh-colonnade-0128-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden zeroes in on policy: Here are 6 top priorities"
-    excerpt: "Joe Biden has been President of the United States for nearly a month, but his political agenda is only just coming into focus in Washington, now that the impeachment proceedings against Donald Trump are over.\n    \n"
-    publishedDateTime: 2021-02-16T13:00:21Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PwzOgsKjdso/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/16/politics/president-biden-top-agenda-priorities/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/16/politics/president-biden-top-agenda-priorities/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210129183519-01-joe-biden-eo-lifts-transgender-ban-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -288,6 +271,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "How Joe Biden's Cabinet picks are making history"
+    excerpt: "Being nominated to serve in a presidential Cabinet is, obviously, a huge honor. It's also been decidedly perilous in recent years."
+    publishedDateTime: 2021-02-11T15:11:00Z
+    webUrl: "https://www.cnn.com/2021/02/11/politics/biden-cabinet-nominations-approval/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/11/politics/biden-cabinet-nominations-approval/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/11/politics/biden-cabinet-nominations-approval/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210127133810-20210128-biden-interactive-cabinet-tracker-card-image-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "North Carolina man charged with threatening to kill President Biden"
     excerpt: "A North Carolina man has been charged with making threats to kill President Joe Biden, according to a federal criminal complaint unsealed in court Thursday."
     publishedDateTime: 2021-02-11T22:51:00Z
@@ -421,6 +420,6 @@ related:
         height: 2665
         isCached: true
 
-secured: "0hOsR8ggrRTUYo7jsATSAXRO5qAr34WNEMDplAoD57WH5K7klAyvpJwoXRQeAbzEajK6ZqE4JJ1DdbCxmD0lXU6AHldOVkthBd0i+PainTokvMgc6gPaD3RcJ7n57zmJWQq3cwBIMf5oEtlhBrAjGyI/Fesr+ulCEWgRPvhrbctdUJi2h/+i6N0qeAVFvHvpYqtfTvVstZNEmkbjMkZVXkFeWd74o8i9Y/aJ30u9SRPZq3eo3ug5oGwPQIY2gwChVAdMWBvSMl+pYY1KOB8/CPT+4nJhgWqQ56ifei3rnrESyNuqRrSkk/22vpBNcfS0APsmZQjoDSRBWcRt2lsZhR4GlQuM3p67/UCU3i4b1ZJO4B9y4gkCv6HYYpJzyOezzmVO6KTsLhjT2yJ6ZQOjNaYFr2xZi+/6sHU9MSAh1PmJinBZ6FeuU6Vpy4mKagoNCW3bEruuvyoKSHdV9OYX/W/6FAalYGQ0GVLIAOTH7NHQnMaTrJUdiJFB7DWp5TMHbFv0SZMYXcKL9ito7AtX5Q==;b3E6MdaMG0qO1mgaE+WxcA=="
+secured: "lrPg5nLtcbGRFHqW8eDOOMmHsTkOo0xSYSvOdhdTA+R1sI/BEET6HtBS914l7jLbkUV2wbPtmBBbZo8RTianpUwfcFVOV5maOg3bn3+U+e1UqYmkNkl2edb0zI3WaW4pBp5Vc2v3R0/7OXlM5JL7+0645efqXs5Hz4otEfNoDIBtu/wpcw1GFxSIYMl4N0ItsdrJ+8kpJXMfWMjFlxvhPfVxstjwJn4ZHioBShU9TXWd6uIzyJXGm2GUaD7xQPYkR1uHp6x9ovAda12gTm/+1w3/sCRN5Uzjyv003oG3bBjDtE9vf2p/xi7+hSOG69Tl06IocZ1IlCd7DA27NxmyOzR0Y3cgEtmlGkjdu7G8IOI=;HfWesuqy0X1LQT7d9cwWYA=="
 ---
 

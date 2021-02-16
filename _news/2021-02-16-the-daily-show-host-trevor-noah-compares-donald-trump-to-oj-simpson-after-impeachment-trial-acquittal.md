@@ -1,14 +1,14 @@
 ---
 category: news
-title: "The five biggest moments from Wednesday's session of Trump's impeachment trial"
-excerpt: "House impeachment managers made their case Wednesday for convicting former President Trump Wednesday, bringing up dramatic new security footage to tie Trump’s words to the Jan. 6 Capitol riot and the threat it posed to lawmakers and police. "
-publishedDateTime: 2021-02-11T01:20:00Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xZMFqk2nuCY/trump-impeachment-trials-5-most-notable-moments-wednesday-as-prosecution-argued-case"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xZMFqk2nuCY/trump-impeachment-trials-5-most-notable-moments-wednesday-as-prosecution-argued-case"
-ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-trials-5-most-notable-moments-wednesday-as-prosecution-argued-case.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-trials-5-most-notable-moments-wednesday-as-prosecution-argued-case.amp"
+title: "'The Daily Show' host Trevor Noah compares Donald Trump to O.J. Simpson after impeachment trial acquittal"
+excerpt: "Show” host Trevor Noah bashed Donald Trump, Mitch McConnell and Senate Republicans following the acquittal of the former president in his second impeachment trial."
+publishedDateTime: 2021-02-16T13:33:00Z
+originalUrl: "https://www.foxnews.com/entertainment/daily-show-trevor-noah-donald-trump-oj-simpson-impeachment-acquittal"
+webUrl: "https://www.foxnews.com/entertainment/daily-show-trevor-noah-donald-trump-oj-simpson-impeachment-acquittal"
+ampWebUrl: "https://www.foxnews.com/entertainment/daily-show-trevor-noah-donald-trump-oj-simpson-impeachment-acquittal.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/daily-show-trevor-noah-donald-trump-oj-simpson-impeachment-acquittal.amp"
 type: article
-quality: 171
+quality: 118
 heat: -1
 published: false
 
@@ -22,12 +22,13 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e89b35a2-6206-4c42-8a5e-abcd05142976/aea6e48e-edaf-4e9d-a582-2305916ecee6/1280x720/match/image.jpg"
-    width: 1280
-    height: 720
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Trevor-Noah-AP.jpg?ve=1&tl=1"
+    width: 640
+    height: 320
     isCached: true
 
 related:
@@ -350,6 +351,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "The five biggest moments from Wednesday's session of Trump's impeachment trial"
+    excerpt: "House impeachment managers made their case Wednesday for convicting former President Trump Wednesday, bringing up dramatic new security footage to tie Trump’s words to the Jan. 6 Capitol riot and the threat it posed to lawmakers and police. "
+    publishedDateTime: 2021-02-11T01:20:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xZMFqk2nuCY/trump-impeachment-trials-5-most-notable-moments-wednesday-as-prosecution-argued-case"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-trials-5-most-notable-moments-wednesday-as-prosecution-argued-case.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-trials-5-most-notable-moments-wednesday-as-prosecution-argued-case.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e89b35a2-6206-4c42-8a5e-abcd05142976/aea6e48e-edaf-4e9d-a582-2305916ecee6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Senate impeachment trial was 'dramatic success' despite Trump acquittal: Raskin"
     excerpt: "Democrats touted the Senate impeachment trial of former President Donald Trump as a big win despite his acquittal."
@@ -1581,22 +1598,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "'The Daily Show' host Trevor Noah compares Donald Trump to O.J. Simpson after impeachment trial acquittal"
-    excerpt: "Show” host Trevor Noah bashed Donald Trump, Mitch McConnell and Senate Republicans following the acquittal of the former president in his second impeachment trial."
-    publishedDateTime: 2021-02-16T13:33:00Z
-    webUrl: "https://www.foxnews.com/entertainment/daily-show-trevor-noah-donald-trump-oj-simpson-impeachment-acquittal"
-    ampWebUrl: "https://www.foxnews.com/entertainment/daily-show-trevor-noah-donald-trump-oj-simpson-impeachment-acquittal.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/daily-show-trevor-noah-donald-trump-oj-simpson-impeachment-acquittal.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 118
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Trevor-Noah-AP.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Trump's Second Impeachment Trial — Live Updates"
     excerpt: "Live analysis of the second impeachment trial of former President Donald Trump."
     publishedDateTime: 2021-02-09T12:48:00Z
@@ -1696,6 +1697,6 @@ related:
         height: 720
         isCached: true
 
-secured: "w8snri9uW1STqJDQA1xsiHBqh9PqxwtVLkkQSIQO9uaZDT7Xps3im5onPEI0l5Mky9e4KLcjH1etS6Fd8RTG/P5lhYfX+dSFlRr6/ue2AHoDRBcNXt7AxJ1BfEalFNjck1BuBhpEEebXeIGkH3o5wzQjR8fZMDhyGqdGW1fX7x64iC49LbCY3o/iBuVpUzJMZoIAa1esE1S24dFIiRQEIuP69AMIg1GiEawnvHq+VyzS3xuenqRgThjlaqChFzMCUuah2+fM85cGntTnRVSViCsBHd3jR8GZWE2Qr/VbWX7S40MjOj/ep6J8UJ3zG+GdUXYdOP4nu1ZXmBs9ndc2faz7SfF44xXRuco/dEIHzXQ=;QwZTgZyeLhcGUn7tAaoSEQ=="
+secured: "V/j8dxl9khHCbAmLiYuoygmUGYdsjEebgtuh+/FX2Vu4jfPdX5M0aGklNiv2rJ0FPkuCs1ay+bITj8D+Ta1vm+uSfysmcLvCKxGZgxsB9NE2cbNkDjsxUcocyTCpnrFWDhGVS7wZX4hCc0k+cn9tzCnrDY1qAi41QllaVS/ixdyL0tTXSx4o2t9Wv5VDU2m5e+Ho/zb6JoFLVQ1lCVWFwFRTpCK8OE7XvIZgRLvtTGQkRdjR3QXmJ6blCIhPE9w0SSV+eyYwlW755vjclYKLvdq+xUNw08tPHX1Y4aDWmORy7+CL+Qg8+10Ctq1+reA5g/7hiY0HudhTkDCySo5+jvg97rKM1PxCbZDjhxzuWeE=;x0eGejciT1IuBDcgiLi/Qw=="
 ---
 

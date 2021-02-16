@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/mike-lee-senate-trial-end-trump-acq
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-lee-senate-trial-end-trump-acquittal-impeachment-capitol-riot.amp"
 type: article
 quality: 175
-heat: 2235
+heat: 2275
 published: true
 
 provider:
@@ -1421,6 +1421,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "GOP Rep. Adam Kinzinger claims family shunned him for Trump impeachment vote"
+    excerpt: "Rep. Adam Kinzinger has released a letter he alleges was sent to him by nearly a dozen family members shunning him over his vote to impeach former President Donald Trump for the second time."
+    publishedDateTime: 2021-02-16T13:10:00Z
+    webUrl: "https://nypost.com/2021/02/16/kinzinger-claims-family-shunned-him-for-trump-impeachment-vote/"
+    ampWebUrl: "https://nypost.com/2021/02/16/kinzinger-claims-family-shunned-him-for-trump-impeachment-vote/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/16/kinzinger-claims-family-shunned-him-for-trump-impeachment-vote/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 132
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/kinzinger-impeachment-80.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Donald Trump Impeachment Trial Still Has GOP Sen. Bill Cassidy Asking Questions"
     excerpt: "The Louisiana Republican has emerged as a wild card and most visible swing vote in the trial over whether former President Donald Trump incited the riot at the Capitol last month."
     publishedDateTime: 2021-02-12T15:36:00Z
@@ -1564,6 +1580,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4e468e48-daf4-48c9-b172-5e8ae98b3f4a/e9d7c456-73c0-43ba-9de5-5359a023293c/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "'The Daily Show' host Trevor Noah compares Donald Trump to O.J. Simpson after impeachment trial acquittal"
+    excerpt: "Show” host Trevor Noah bashed Donald Trump, Mitch McConnell and Senate Republicans following the acquittal of the former president in his second impeachment trial."
+    publishedDateTime: 2021-02-16T13:33:00Z
+    webUrl: "https://www.foxnews.com/entertainment/daily-show-trevor-noah-donald-trump-oj-simpson-impeachment-acquittal"
+    ampWebUrl: "https://www.foxnews.com/entertainment/daily-show-trevor-noah-donald-trump-oj-simpson-impeachment-acquittal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/daily-show-trevor-noah-donald-trump-oj-simpson-impeachment-acquittal.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 118
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Trevor-Noah-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Trump's Second Impeachment Trial — Live Updates"
     excerpt: "Live analysis of the second impeachment trial of former President Donald Trump."

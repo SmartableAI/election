@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "GOP Rep. Adam Kinzinger’s family lashed out at him for voting to impeach Trump: ‘We are thoroughly disgusted with you!’"
+    excerpt: "Rep. Adam Kinzinger faces censure and his family's ire over his vote to impeach former president Donald Trump."
+    publishedDateTime: 2021-02-16T14:47:00Z
+    webUrl: "https://www.washingtonpost.com/nation/2021/02/16/adam-kinzinger-family-impeachment-trump/"
+    ampWebUrl: "https://www.washingtonpost.com/nation/2021/02/16/adam-kinzinger-family-impeachment-trump/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2021/02/16/adam-kinzinger-family-impeachment-trump/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 101
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/A7RO4YTEB4I6XOVYOB7YO2OXQU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
 
 secured: "nK2jQaeBRz5z93hT7RMejUfAcB46i/WhkruQgCqOIG8CBGqDklvwovdhpyny7KskAYAhyCgynMSUPdfzpg02BOLWqYsAxWvq5UeG2zbxmEbdbKUC4Xx19EZfLgClr7DyNEt3ESN/cFJFfYbWBKubkdZKdxhXpZN2/EFtdINTI6yB+vM9For9ISmcmXyrCnHMoRfQGXyM72C84C+y+/3s1inMTMNc/t6VfXNMGdTk1f/opvwJ9W+QCf8tEgTBm2qBcn9pmcPupYrn+3GtoB4BNT6C/K59aYYBTsZFMF+8EESTnaoOlg5jhLakCs5yLHwyh99m7QtxHI05VpEbvSzG6GNrCSzwKSsPAT0K8tN5y5A=;mxBX/O7Hz8OhlnJt20WToQ=="
 ---

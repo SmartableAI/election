@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/11/politics/biden-1-9-trillion-bet/i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/11/politics/biden-1-9-trillion-bet/index.html"
 type: article
 quality: 175
-heat: 655
+heat: 675
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210215153718-01-biden-wh-colonnade-0128-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden zeroes in on policy: Here are 6 top priorities"
+    excerpt: "Joe Biden has been President of the United States for nearly a month, but his political agenda is only just coming into focus in Washington, now that the impeachment proceedings against Donald Trump are over.\n    \n"
+    publishedDateTime: 2021-02-16T13:00:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PwzOgsKjdso/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/16/politics/president-biden-top-agenda-priorities/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/16/politics/president-biden-top-agenda-priorities/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210129183519-01-joe-biden-eo-lifts-transgender-ban-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

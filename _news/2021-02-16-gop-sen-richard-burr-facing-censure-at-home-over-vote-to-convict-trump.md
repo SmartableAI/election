@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/gop-sen-richard-burr-facing-cens
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/gop-sen-richard-burr-facing-censure-home-vote/story?id=75905127"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1734741/larry-hogan.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "GOP Rep. Adam Kinzinger’s family lashed out at him for voting to impeach Trump: ‘We are thoroughly disgusted with you!’"
+    excerpt: "Rep. Adam Kinzinger faces censure and his family's ire over his vote to impeach former president Donald Trump."
+    publishedDateTime: 2021-02-16T14:47:00Z
+    webUrl: "https://www.washingtonpost.com/nation/2021/02/16/adam-kinzinger-family-impeachment-trump/"
+    ampWebUrl: "https://www.washingtonpost.com/nation/2021/02/16/adam-kinzinger-family-impeachment-trump/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2021/02/16/adam-kinzinger-family-impeachment-trump/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 101
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/A7RO4YTEB4I6XOVYOB7YO2OXQU.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
 
 secured: "uMU7rD5DwM4bczKWEhrmeAfVMePl4BsNUUv/7IVKQRcm4KgFLILhmx8t3tywTQ/vHxfFUTIGtkcUUVc+Q0S2rjLabw+S80oDtAPyOgaxoQZYqBKIDLi0lnn3BclB4cNNthLCbNWb0xZxO3UFEMlvgZf/e1fdQ4zebCUpxifc66okOvhZEk7pn0yIwe+focPQ7GoRiCCp/What1w//grMaii4hfEXokUK1ucRYaDBKFsSvDoM+OLCvPMg0LqbxD+xZ0bpoQzoWp8i2B4VaNoME5isK4oy77AsSgdLB9vuP0b+IzZb086DdTNYuGl9Ks4SszluWtyUN9w7ey7t+MZpugRnVEFSQwp9LZyjxbTiSDgPkT3PtpBfKCA8UWMjzxjp1Q1gFOOIcRKRj13MCuxGCx3fc79VeXseJden6sQItiCWOaD3Z4jq9+88H7AsqX6vziRhJILC/w9E3pmi7oA2JUs60tMO3yPYzQaFt77x46LltSVmhStvcwTfBq6N67ZGlfKcTd+WCZpDcBM4O1D5wg==;BEMhLXeW1yASO0EB7kO0sQ=="

@@ -95,6 +95,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "North Carolina GOP censures Sen. Richard Burr over vote to convict Trump"
+    excerpt: "The Central Committee of the North Carolina Republican Party on Monday night censured Sen. Richard Burr for voting to convict former President Donald Trump at his Senate impeachment trial. The"
+    publishedDateTime: 2021-02-16T13:57:00Z
+    webUrl: "https://nypost.com/2021/02/16/nc-gop-censures-sen-richard-burr-over-vote-to-convict-trump/"
+    ampWebUrl: "https://nypost.com/2021/02/16/nc-gop-censures-sen-richard-burr-over-vote-to-convict-trump/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/16/nc-gop-censures-sen-richard-burr-over-vote-to-convict-trump/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 134
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/richard-burr-01.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "CmgKHBgGLavpAA5RDu/cclQBvbR5pzu9nyQkN+GEGH6CZfYxUYwEoEkwRG9w5aieSoScbc6pskQR4t9x0cYEwQB4IWwCxM6Qd2Xc7ZVZfIVjp50ZFBEcyscc6aUjB4+aSbxFw/vkSDDDrNBRuzVDX2ynEQxZ85cNOs0RbjWoyU/4yiVScaNGF+aH0WyJjcmypsg9PJEPuJfKFL4F0FZ/lAzb1gDSAF2oMQ7Spv6eUVjG9Ms5z9q3FoHn1YrEalDLDRO6IDnEZlFyS0AfJh8CyV0YhLDSz6fOJxDiiEdhEfzOAv8lGeHFgBihxudRxFPr3fBRooRrAv8pV6xUBvVyJqEFeq9z4ZewOjSOS0jCpc4=;483KboDepa8o2hu7cxsdVw=="
 ---

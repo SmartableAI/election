@@ -1,33 +1,30 @@
 ---
 category: news
-title: "Trump will 'have a place in history' for Capitol riot but remains 'most popular figure' in GOP: Graham"
-excerpt: "Former President Donald Trump will \"have a place in history\" for his role leading up to the riot at the U.S. Capitol last month, but he stills remains the \"most popular figure\" in the Republican Party, Sen. Lindsey Graham said Sunday."
-publishedDateTime: 2021-02-07T19:23:27Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0ZvgKYTo-L8/trump-impeachment-capitol-riot-most-popular-figure-gop-lindsey-graham"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0ZvgKYTo-L8/trump-impeachment-capitol-riot-most-popular-figure-gop-lindsey-graham"
-ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-capitol-riot-most-popular-figure-gop-lindsey-graham.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-capitol-riot-most-popular-figure-gop-lindsey-graham.amp"
+title: "North Carolina GOP censures Sen. Richard Burr over vote to convict Trump"
+excerpt: "The Central Committee of the North Carolina Republican Party on Monday night censured Sen. Richard Burr for voting to convict former President Donald Trump at his Senate impeachment trial. The"
+publishedDateTime: 2021-02-16T13:57:00Z
+originalUrl: "https://nypost.com/2021/02/16/nc-gop-censures-sen-richard-burr-over-vote-to-convict-trump/"
+webUrl: "https://nypost.com/2021/02/16/nc-gop-censures-sen-richard-burr-over-vote-to-convict-trump/"
+ampWebUrl: "https://nypost.com/2021/02/16/nc-gop-censures-sen-richard-burr-over-vote-to-convict-trump/amp/"
+cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/16/nc-gop-censures-sen-richard-burr-over-vote-to-convict-trump/amp/"
 type: article
-quality: 159
+quality: 134
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: New York Post
+  domain: nypost.com
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ce0ff8aa-4ebc-4f0a-b188-e29d6303380f/f2169d82-7384-44cf-93f0-ae8b40aab209/1280x720/match/image.jpg"
-    width: 1280
-    height: 720
+  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/richard-burr-01.jpg?quality=90&strip=all&w=1200"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -79,6 +76,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump will 'have a place in history' for Capitol riot but remains 'most popular figure' in GOP: Graham"
+    excerpt: "Former President Donald Trump will \"have a place in history\" for his role leading up to the riot at the U.S. Capitol last month, but he stills remains the \"most popular figure\" in the Republican Party, Sen. Lindsey Graham said Sunday."
+    publishedDateTime: 2021-02-07T19:23:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0ZvgKYTo-L8/trump-impeachment-capitol-riot-most-popular-figure-gop-lindsey-graham"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-capitol-riot-most-popular-figure-gop-lindsey-graham.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-capitol-riot-most-popular-figure-gop-lindsey-graham.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ce0ff8aa-4ebc-4f0a-b188-e29d6303380f/f2169d82-7384-44cf-93f0-ae8b40aab209/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Pence reportedly 'angry' at Trump for not asking about his safety during Capitol riot: Chris Wallace"
     excerpt: "Former Vice President Mike Pence feels \"residual bitterness\" toward former President Donald Trump over his lack of concern for Pence's safety during the deadly Jan. 6 riot at the Capitol, \"Fox News Sunday\" host Chris Wallace told \"The Story\" on Wednesday."
     publishedDateTime: 2021-02-10T23:15:00Z
@@ -95,23 +108,7 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "North Carolina GOP censures Sen. Richard Burr over vote to convict Trump"
-    excerpt: "The Central Committee of the North Carolina Republican Party on Monday night censured Sen. Richard Burr for voting to convict former President Donald Trump at his Senate impeachment trial. The"
-    publishedDateTime: 2021-02-16T13:57:00Z
-    webUrl: "https://nypost.com/2021/02/16/nc-gop-censures-sen-richard-burr-over-vote-to-convict-trump/"
-    ampWebUrl: "https://nypost.com/2021/02/16/nc-gop-censures-sen-richard-burr-over-vote-to-convict-trump/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/16/nc-gop-censures-sen-richard-burr-over-vote-to-convict-trump/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 134
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/richard-burr-01.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
 
-secured: "p4zGY5LNOUT6PhwA+YkfZKhJxdW+VzqgP/u3aJXT0y/nWtnGuptLg2j2rmd5i+0w1RzoQwkhD6NJYcEBW1bawbOgqHP5LCvJ99YBmI66yxc0Dy15SFlxImiDQpwwUl7/2HxLkb+++rxuH/wllQZLmhpTiGYcuALywKftr6yT2LqlikY2V3cOQyS3QCPXCo+K8x4KMwByaLTrlLyM6aeKeQb5JJlBQ8ycqgkBagiBd3EngOnnOpfp/Y6zgXWBrXUOqfYG8X2IjP6rHxvmHKTv/kPnTiwjJtBxxCjAbqZMbaIg4AHvlUw9dNgO6V341aO9KyxUY3nb2BWRi/yAJw9d3o9/u65QHJiHow2wWuQ/HwA=;Zi1QgjKB/33TQafXEvh7Gw=="
+secured: "LkneeakWfyRI6xmd/On7aN1CubUOHe7sLc4iMcSk40f9qFqTu7H38Wi6uJ9QibCVx0V3F63/yU/Vn3aRqKFyP1QqLFbsNIE3UGQMkXLgs1XEPY9Q2NNeYiGcUxt4vztij8hsIThgQ44+4CmQRYhXR4okSBTK/6tIqm4YHeIxsjJdl0DiCX7vQb1lCTbdgwrWMV4RUAVXLl+zmrLokGeH7y0Ow9xDC/nMqWaj4pJwbz68BuzxL8AL9MmPAiPlvIi+PnesuSGQSWR3h8F+FHdSRnk5C0jRm6sTLZ+XjUYObq0+HbxZOi7QNH1ibt7km+VXcv+CGn+Bmi/G6T/4vhfjSxIdF4QYG1Qm2WMvQKglNq8=;zLgoNZt2557GIxC3iQGIUg=="
 ---
 
