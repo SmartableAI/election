@@ -78,6 +78,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "New York Times: House Republican shunned by family members over Trump criticism"
+    excerpt: "Eleven members of Republican Rep. Adam Kinzinger's family sent him a vitriolic letter accusing him of being a member of the \"devil's army\" in light of his criticism of then-President Donald Trump after the January 6 insurrection, The New York Times reported Monday.\n    \n"
+    publishedDateTime: 2021-02-16T04:56:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/g6RoeVFiZz4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/15/politics/kinzinger-impeachment-family-letter/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/15/politics/kinzinger-impeachment-family-letter/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210112182127-rep-adam-kinzinger-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump conviction rests on Republicans' instinct for self-preservation"
     excerpt: "Analysis: The Democrats' case asks GOP senators to think of their own interests, as well as the republic's. WASHINGTON — If Republican senators will not put the republic over their party, House impeachment trial managers suggested Wednesday,"
     publishedDateTime: 2021-02-11T09:31:00Z
@@ -157,6 +173,20 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2021_06/3450135/210214-mitch-mcconnell-jm-1703_c0bf19f41e894b1eea9af61d47b71d4a.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "POLITICO Playbook: Republicans can’t quit Trump"
+    excerpt: "While the rest of the country wants less DONALD TRUMP, Republicans just can’t quit him. Our flash POLITICO/Morning Consult poll conducted in the days following the Senate trial shows that despite the impeachment managers’ gripping presentation and video laying out Trump’s role in the Jan."
+    publishedDateTime: 2021-02-16T11:16:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook/2021/02/16/republicans-cant-quit-trump-491756"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/b8/40/58b869924d40ac85937f7550bd56/gettyimages-1302327045.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "XomEyzIeIWq5SLcUWxxFq2F+nGRoX4UTAZYVNjC/b/qPzRqf06TppvRI0yCshPj3oQqKZ1XZxDm/Pv+qr5cu6SF/fwbOjdgLygWtwOKKj7zurjSsLJm+r14YtfPnm7AQsddWzdHOb8Y7Scv7u3qh2CQ0G1bpdtgegx8nIRm3MUXR+dJxgMbPkUYq4qIQeGB5VvxOZeHaHcNG0fmaik7Ul5URIwTxNj4dozM0HQ59YjOogeh+WN+30R8pXurORw0la3+ebd35gBM5ApFGVWLEFZZ4zLr4eOoabLIQRdfmGaQeMnw5LKDa7NMsDEEN7gKifcJa0+iUWAZBCO7ySoCkalIM3sK96TC42hdbyDSHBXk=;A9EZintMd0aKw+rCcirR3w=="

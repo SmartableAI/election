@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Kamala Harris visits VA Medical Center in Washington"
-excerpt: "U.S. Vice President Kamala Harris (C) and second gentleman Doug Emhoff pose for a group photo with health care workers as they visit the VA Center, a veteran's hospital, in Washington, DC on Saturday,"
+excerpt: "U.S. Vice President Kamala Harris (R) greets essential health care workers at the VA Medical Center, a veteran's hospital, in Washington, DC on Saturday, February 13, 2021. Photo by Yuri Gripas/UPI"
 publishedDateTime: 2021-02-13T20:22:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/dfab6c2553b5fb9db2fc996971dd9e4a/Kamala-Harris-visits-VA-Medical-Center-in-Washington/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/dfab6c2553b5fb9db2fc996971dd9e4a/Kamala-Harris-visits-VA-Medical-Center-in-Washington/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/332fc0b73bd30b39f31518123c0a2bdf/Kamala-Harris-visits-VA-Medical-Center-in-Washington/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/332fc0b73bd30b39f31518123c0a2bdf/Kamala-Harris-visits-VA-Medical-Center-in-Washington/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/dfab6c2553b5fb9db2fc996971dd9e4a/HARRIS-VETERANS.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/332fc0b73bd30b39f31518123c0a2bdf/HARRIS-VETERANS.jpg"
     width: 650
     height: 433
     isCached: true
@@ -3744,6 +3744,6 @@ related:
       domain: seattletimes.com
     quality: 25
 
-secured: "KcPsgO7EKTx+bueneHubGwJJwFKK4T8qAT1DxhCAYeKSdZ/XZjdbLlNDxR1TguMPl+PtBSc376u2lkx7ztQApyXkmXDCZjmZvM9BR7OQcVChvZAKzDNfVJI4xHO11R7gXL4TypFcE+5BsnaMIF7MlawAKvzTj4EVD2ppq9AT2x1sacLC7n6vqH+YGOU2rcXofV3kXgTullkUrSTVv/sM8RUXC53T8YQjz6k+OSYW72bj9u1zmt6aJATf1zUOKBEFde7KqolDLRSOyl3oT2ixvxIgWxweneI+qSY0n4/0L78cmR3p7KwzElZhLfI+SCwyeUKN/3G2tC05dKX2RxHI9m2Bs8QRA3h9O5gLfiJ28Z2S8k62sstrv1VVk7ogo/sNrRwBPx+7o8j/KbpskFNYPuxp31RIpMJh3CtUMqlPYOL2UN/cPrDYqO3F7bATZjoLWdmmVzxsjJVL9N8Aq7tYPCvYpjSsXpx5VWvMl92ZQ596wOEd0w6Y+TOfYOlNsorpdspGh52FReWs+s6PH5tpHQ==;V+oR61SCmyLgS8JV5TOTNA=="
+secured: "hdynDAEORnYl5X6jhkKVVSM5CU6EtN329B9mOmnxsmlYVEjRxV80tXgw40IbEC2TS6x9cioqMq2ov/hR386xVgUjQ7dTpkKAVTFew6rNrUbvz3WsqF47N2szyBtMUnNaLhCzghsTIcU4rpq/kyvkMHHCRqL3JB+hP+3CdjRY8NulAIXFHq7JMnuRxtllrnbXP+275xpy1RIru9EckWicrC2nT+SONlNDyVcaCZwem1G4sfKxFZ4bdmv3mLv/UHK/Nmv98BwnwBqVpUeNN0OV/blBrYzUnSDhbv+WSOhNhqryU/UeQBCTkunn2CF8qTxeOElaatWv4C6bI9I0C8wcQZDUKCLvBQwqvi6EEq/5aGA=;bqeOjlbs+W9KiCqAKk1uCg=="
 ---
 

@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "New York Times: House Republican shunned by family members over Trump criticism"
+    excerpt: "Eleven members of Republican Rep. Adam Kinzinger's family sent him a vitriolic letter accusing him of being a member of the \"devil's army\" in light of his criticism of then-President Donald Trump after the January 6 insurrection, The New York Times reported Monday.\n    \n"
+    publishedDateTime: 2021-02-16T04:56:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/g6RoeVFiZz4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/15/politics/kinzinger-impeachment-family-letter/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/15/politics/kinzinger-impeachment-family-letter/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210112182127-rep-adam-kinzinger-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump conviction rests on Republicans' instinct for self-preservation"
     excerpt: "Analysis: The Democrats' case asks GOP senators to think of their own interests, as well as the republic's. WASHINGTON — If Republican senators will not put the republic over their party, House impeachment trial managers suggested Wednesday,"
     publishedDateTime: 2021-02-11T09:31:00Z
@@ -143,6 +159,20 @@ related:
       - url: "https://media2.s-nbcnews.com/i/newscms/2021_06/3449574/210211-jamie-raskin-bw-ac-909p_93b993d3a3f387227e4532af9dd90e0e.jpg"
         width: 2500
         height: 1528
+        isCached: true
+  - title: "POLITICO Playbook: Republicans can’t quit Trump"
+    excerpt: "While the rest of the country wants less DONALD TRUMP, Republicans just can’t quit him. Our flash POLITICO/Morning Consult poll conducted in the days following the Senate trial shows that despite the impeachment managers’ gripping presentation and video laying out Trump’s role in the Jan."
+    publishedDateTime: 2021-02-16T11:16:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook/2021/02/16/republicans-cant-quit-trump-491756"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/b8/40/58b869924d40ac85937f7550bd56/gettyimages-1302327045.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Post-Impeachment Live Updates: Fallout Begins for Republicans Who Voted to Convict Trump"
     excerpt: "Trump’s conviction in his impeachment trial has begun. In Louisiana, the state Republican Party’s executive committee voted unanimously on Saturday to censure Senator Bill Cassidy, who was just re-elected in November and was among those who voted to find Mr."

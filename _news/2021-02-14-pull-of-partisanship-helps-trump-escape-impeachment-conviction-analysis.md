@@ -63,6 +63,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Trump drives by supporters' rally in West Palm Beach"
+    excerpt: "Former President Trump drove by supporters at a rally in Florida on Monday, CBS West Palm affiliate WPEC reported. It's the first time he has been spotted in public since Saturday, when the Senate acquitted him in his second impeachment trial."
+    publishedDateTime: 2021-02-16T12:23:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-supporter-rally-west-palm-beach/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-supporter-rally-west-palm-beach/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-supporter-rally-west-palm-beach/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/02/15/375bd093-35fa-4e88-a1af-dd9a5600c990/thumbnail/1200x630/9c506a9295e6c9ac43a1cfde0b08983e/trump-west-palm.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Acquitted again by Senate, Trump still a powerful force in Republican politics"
     excerpt: "It is still Donald Trump’s Republican Party - at least for now. The vote by 43 of the 50 Republican senators to acquit Trump on the charge of inciting last month’s deadly riot at the U.S. Capitol, with only seven voting for conviction,"
     publishedDateTime: 2021-02-14T18:11:00Z

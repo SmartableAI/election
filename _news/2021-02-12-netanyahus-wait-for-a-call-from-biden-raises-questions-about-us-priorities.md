@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/11/politics/biden-netanyahu-phone-ca
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/11/politics/biden-netanyahu-phone-call/index.html"
 type: article
 quality: 173
-heat: 233
+heat: 253
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Joe Biden returns to Wisconsin, testing a new President's promise to unify and govern"
+    excerpt: "Caroline Quinlan didn't vote for Joe Biden, but she's praying for his success and hoping he can deliver on his pledge to unite a deeply divided country.\n    \n"
+    publishedDateTime: 2021-02-16T12:00:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/axxeK57M5WU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/16/politics/wisconsin-biden-town-hall/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/16/politics/wisconsin-biden-town-hall/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/121026104222-joe-biden-wisconsin-story-top.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Biden son-in-law faces conflicts of interest concerns following coronavirus response investments"
     excerpt: "The White House has pledged to bar President Joe Biden's family from using the office for personal gain, but questions are being raised by good governance groups and news outlets about whether an investment firm co-founded by Biden's son-in-law could present a new set of ethical challenges for the administration.\n"
     publishedDateTime: 2021-02-10T17:54:47Z
