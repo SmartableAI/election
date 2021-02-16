@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Utah GOP accepts Romney's vote to convict Trump"
+    excerpt: "Utah's Republican Party on Tuesday accepted Sen. Mitt Romney's vote to convict former President Donald Trump, saying there is \"power\" in difference of opinions."
+    publishedDateTime: 2021-02-16T18:44:00Z
+    webUrl: "https://abcnews.go.com/Politics/utah-gop-accepts-romneys-vote-convict-trump/story?id=75925858"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/utah-gop-accepts-romneys-vote-convict-trump/story?id=75925858"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/utah-gop-accepts-romneys-vote-convict-trump/story?id=75925858"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/romney-impeachment-5-ap-ps-210213_1613251011089_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "GOP Gov. Larry Hogan Urges Party to Leave 'Cult of Donald Trump,' Hails Conviction Votes"
     excerpt: "\"I was very proud of some of the folks who stood up and did the right thing,\" the Maryland governor said Sunday of senators who voted to convict Trump."
     publishedDateTime: 2021-02-14T16:00:00Z
@@ -62,6 +78,20 @@ related:
       - url: "https://d.newsweek.com/en/full/1734741/larry-hogan.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Sen. Ben Sasse: GOP Must Persuade Voters It Has A Vision Beyond Donald Trump"
+    excerpt: "The Republican from Nebraska speaks with NPR's Steve Inskeep about the impeachment of former President Donald Trump, the future of the GOP and working with the Biden administration."
+    publishedDateTime: 2021-02-16T19:03:00Z
+    webUrl: "https://www.npr.org/2021/02/16/968252516/sen-sasse-votes-to-convict-trump-says-he-voted-his-conscience"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 102
+    images:
+      - url: "https://media.npr.org/assets/img/2021/02/16/gettyimages-1230674721_wide-fcb3d3d610097722a3671aa863340ec9571a9cd2.jpg?s=1400"
+        width: 1400
+        height: 787
         isCached: true
   - title: "GOP Rep. Adam Kinzinger’s family lashed out at him for voting to impeach Trump: ‘We are thoroughly disgusted with you!’"
     excerpt: "Rep. Adam Kinzinger faces censure and his family's ire over his vote to impeach former president Donald Trump."

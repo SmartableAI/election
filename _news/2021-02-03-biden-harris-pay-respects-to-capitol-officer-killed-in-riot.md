@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/capitol-police-of
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/capitol-police-officer-who-died-after-riot-to-lie-in-honor/2021/02/02/8f908fb8-65b8-11eb-bab8-707f8769d785_story.html?outputType=amp"
 type: article
 quality: 150
-heat: 1990
+heat: 2010
 published: true
 
 provider:
@@ -1160,6 +1160,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/21/kamala-harris-is-sworn-in-as-vice-president.jpg"
         width: 1024
         height: 736
+        isCached: true
+  - title: "VP Kamala Harris Shared an Old Prank Jill Biden Pulled on then-VP Biden for Valentine's Day"
+    excerpt: "First Lady Jill Biden once played a Valentine's Day prank to president Joe Biden in Vice President Kamala Harris' office. Buzz60's Maria Mercedes Galuppo has the story."
+    publishedDateTime: 2021-02-16T19:13:00Z
+    webUrl: "https://www.khou.com/video/entertainment/buzz60/vp-kamala-harris-shared-an-old-prank-jill-biden-pulled-on-then-vp-biden-for-valentines-day/600-2a76aaec-529f-4403-b3e4-8674bce34c90"
+    type: article
+    provider:
+      name: KHOU 11
+      domain: khou.com
+    quality: 60
+    images:
+      - url: "https://media.khou.com/assets/BUZZ60/images/4cd4620f-e6f8-46a2-aa2e-968d0c3584ec/4cd4620f-e6f8-46a2-aa2e-968d0c3584ec_1140x641.jpeg"
+        width: 1140
+        height: 641
         isCached: true
   - title: "Meet the Bay Area publisher who has spent her career elevating Black voices - including Kamala Harris'"
     excerpt: "I was just shocked, because she must have been with her family, her husband and (President-elect Biden), but she hit me right back and thanked me and told me she loved me,” said Ashley-Ward, the 63-year-old publisher of San Francisco’s oldest Black newspaper,"

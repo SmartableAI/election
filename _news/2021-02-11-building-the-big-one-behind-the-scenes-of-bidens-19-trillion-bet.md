@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/11/politics/biden-1-9-trillion-bet/i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/11/politics/biden-1-9-trillion-bet/index.html"
 type: article
 quality: 175
-heat: 695
+heat: 735
 published: true
 
 provider:
@@ -175,6 +175,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Senate committee to hold confirmation hearing for Biden's HHS nominee next week"
+    excerpt: "President Joe Biden's pick to lead the Department of Health and Human Services will appear before a Senate committee next week for his confirmation hearing, giving the nominee a chance to field questions about how he will help lead the administration's response to the coronavirus pandemic.\n    \n"
+    publishedDateTime: 2021-02-16T19:39:40Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LoZDKAO73nc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/16/politics/xavier-becerra-hearing-scheduled-hhs-secretary/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/16/politics/xavier-becerra-hearing-scheduled-hhs-secretary/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/160619120157-xavier-becerra-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden says he won't lift sanctions on Iran to bring country back to negotiating table"
     excerpt: "President Joe Biden said the US will not lift sanctions to get Iran back to the negotiating table, suggesting the measure would only happen if Tehran stops enriching uranium.\n    \n"
     publishedDateTime: 2021-02-07T19:20:13Z
@@ -332,6 +348,22 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2021/02/11/world/11virus-briefing-vaccine-doses/11virus-briefing-vaccine-doses-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Biden Works to Leverage Senate Ties to Power His Agenda"
+    excerpt: "The president has made clear in his first weeks in office that he plans to try to capitalize on his experience and relationships on Capitol Hill to get things done, though deep divisions remain."
+    publishedDateTime: 2021-02-16T19:03:00Z
+    webUrl: "https://www.nytimes.com/2021/02/16/us/politics/biden-congress-senate.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/16/us/politics/biden-congress-senate.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/16/us/politics/biden-congress-senate.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/07/us/politics/00DC-Biden-Senate1/00DC-Biden-Senate1-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

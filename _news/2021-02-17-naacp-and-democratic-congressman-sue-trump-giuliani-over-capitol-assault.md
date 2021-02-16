@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/naacp-sues-trump-giuliani-capitol-r
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/naacp-sues-trump-giuliani-capitol-riot/"
 type: article
 quality: 124
-heat: 184
+heat: 204
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/af1d76d3db59aaf37cdf030c990b71e6d58dc183/0_39_4393_2635/master/4393.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=506d4603234fc6be44766f4013f3d6ce"
         width: 600
         height: 360
+        isCached: true
+  - title: "House Homeland Security chairman sues Trump and Giuliani, accusing them of inciting Capitol riot"
+    excerpt: "The lawsuit marks latest legal action challenging former president and invokes the 1871 Ku Klux Klan Act, which bars interference in Congress’ constitutional duties."
+    publishedDateTime: 2021-02-16T20:29:00Z
+    webUrl: "https://www.washingtonpost.com/local/legal-issues/lawsuit-trump-capitol-riot/2021/02/16/1695b6b0-6fd6-11eb-b8a9-b9467510f0fe_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/legal-issues/lawsuit-trump-capitol-riot/2021/02/16/1695b6b0-6fd6-11eb-b8a9-b9467510f0fe_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/legal-issues/lawsuit-trump-capitol-riot/2021/02/16/1695b6b0-6fd6-11eb-b8a9-b9467510f0fe_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 112
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/C6E3Y7SRBYI6XPNEMFNK57IFKU.jpg&w=1440"
+        width: 1440
+        height: 1853
         isCached: true
   - title: "Democratic Rep. Bennie Thompson sues Donald Trump, accusing him of inciting riot at US Capitol, conspiring with extremists"
     excerpt: "The lawsuit from Mississippi’s Rep. Bennie Thompson, chairman of the House Homeland Security Committee, is part of an expected wave of litigation over the Jan. 6 riot."

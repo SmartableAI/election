@@ -79,6 +79,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "VIRUS TODAY: President Biden extends ban on foreclosures"
+    excerpt: "President Joe Biden is extending a ban on housing foreclosures to June 30 to help homeowners struggling during the coronavirus pandemic"
+    publishedDateTime: 2021-02-16T18:48:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/virus-today-president-biden-extends-ban-foreclosures-75928183"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/virus-today-president-biden-extends-ban-foreclosures-75928183"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/virus-today-president-biden-extends-ban-foreclosures-75928183"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Technology/WireAP_7997b49226c948e7b488f8e419fcca71_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Suu Kyi aide, electoral officials arrested in Myanmar, Biden approves sanctions"
     excerpt: "A close aide to ousted Myanmar leader Aung San Suu Kyi was detained in a new wave of arrests following last week's military coup, a party official said on Thursday, as Washington moved a step closer to imposing sanctions on the junta."
     publishedDateTime: 2021-02-11T13:34:00Z
