@@ -1,16 +1,16 @@
 ---
 category: news
-title: "North Carolina man charged with threatening President Biden"
-excerpt: "Prosecutors say Kyle Reeves, 27, contacted the White House switchboard “multiple times” and “made threats against President Biden and others.”"
-publishedDateTime: 2021-02-11T20:59:06Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IuP9CaXKTkE/north-carolina-man-charged-threatening-president-biden"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IuP9CaXKTkE/north-carolina-man-charged-threatening-president-biden"
-ampWebUrl: "https://www.foxnews.com/politics/north-carolina-man-charged-threatening-president-biden.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/north-carolina-man-charged-threatening-president-biden.amp"
+title: "Biden still misses VP residence pool in which he reportedly skinny dipped"
+excerpt: "President Joe Biden made wistful remarks about the freedom of the vice president’s residence — including the swimming pool in which he reportedly skinny dipped — when asked how he was settling into the White House on Tuesday."
+publishedDateTime: 2021-02-17T09:15:37Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/D4d7tKXJ4hg/biden-still-misses-vp-residence-pool-in-which-he-reportedly-skinny-dipped"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/D4d7tKXJ4hg/biden-still-misses-vp-residence-pool-in-which-he-reportedly-skinny-dipped"
+ampWebUrl: "https://www.foxnews.com/politics/biden-still-misses-vp-residence-pool-in-which-he-reportedly-skinny-dipped.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-still-misses-vp-residence-pool-in-which-he-reportedly-skinny-dipped.amp"
 type: article
-quality: 175
-heat: 635
-published: true
+quality: 174
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -25,12 +25,28 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/445ed9ed-cd0c-41f3-83e6-58a88f7d11ba/8d88fc84-ae2d-47e0-a180-90c427f3db5e/1280x720/match/image.jpg"
-    width: 1280
-    height: 720
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/istock-486343416.jpg?ve=1&tl=1"
+    width: 640
+    height: 320
     isCached: true
 
 related:
+  - title: "North Carolina man charged with threatening President Biden"
+    excerpt: "Prosecutors say Kyle Reeves, 27, contacted the White House switchboard “multiple times” and “made threats against President Biden and others.”"
+    publishedDateTime: 2021-02-11T20:59:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IuP9CaXKTkE/north-carolina-man-charged-threatening-president-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/north-carolina-man-charged-threatening-president-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/north-carolina-man-charged-threatening-president-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/445ed9ed-cd0c-41f3-83e6-58a88f7d11ba/8d88fc84-ae2d-47e0-a180-90c427f3db5e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Scandal-plagued blue state bureaucrats get plum posts in Biden admin"
     excerpt: "President Biden nominated Julie Su Wednesday, as the deputy secretary for the U.S. Department of Labor."
     publishedDateTime: 2021-02-11T02:49:11Z
@@ -110,22 +126,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4531e58f-ebf5-4c8e-8e5f-8f5d5d449ae0/fcb668d2-694d-4b49-a2ff-02191cdd67d2/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Biden still misses VP residence pool in which he reportedly skinny dipped"
-    excerpt: "President Joe Biden made wistful remarks about the freedom of the vice president’s residence — including the swimming pool in which he reportedly skinny dipped — when asked how he was settling into the White House on Tuesday."
-    publishedDateTime: 2021-02-17T09:15:37Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/D4d7tKXJ4hg/biden-still-misses-vp-residence-pool-in-which-he-reportedly-skinny-dipped"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-still-misses-vp-residence-pool-in-which-he-reportedly-skinny-dipped.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-still-misses-vp-residence-pool-in-which-he-reportedly-skinny-dipped.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/istock-486343416.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
         isCached: true
   - title: "Psaki pressed on Biden admin not deporting illegal immigrants who drive drunk"
     excerpt: "White House Press Secretary Jen Psaki was asked on Monday about pending guidance that would spare some illegal immigrants convicted of less serious offenses from deportation"
@@ -398,6 +398,6 @@ related:
         height: 3480
         isCached: true
 
-secured: "uvJ2RQXav3uT/MblA2MM7v0wqeiZCpdQLKbzFqNl/a2tJ6zaYypowdTm8OC9A0D5SYJ2tmGmZrkIHaxextmar4TPQOeDs85wGmp4FEMwuJOtAI5rRufOv30s6Rd5X/Y1olDfy+szCp0h15CfPOcDZTDLhK2bRPgcy10Bg6aBubomCOU/sS7mwghcqrDMOYOXFGssUQyScgwJPSzbatAo9yLeuo7Yv7JZ31bHosdJpaRNGwkUt+szw3TKffQ27JDNqQqJ94AZqo+OgyLeL9FiQb3QPrrY6fn8Fn013Z6WK2BdP2RvdJhPy8XjYyFQDBM7httu2uBmyB4WqZwvIpmEbw87QQEX00IXOq3EvUePcRk=;zQFF2ukH8mA8AsMY0cYVtQ=="
+secured: "8Yd1WTZdXuSTJR/D/Zu6qBc8cSFkB6+S2/6REEz1NXTBgwekLYXYrF4sjnEOUKIEKC0jPtob+Ggs4ndW+6kepJHy1M9/kAdS286w/ucftFjrAq5EzcHfE7/ot2JTHGK43HgeIlp0f8Y9Vxf5D3quQPecaRQnMZ9Q4CsNdTEtV8ErU6cXFZf+HIA7P34BqhPHC8Ta9sVvgMf1A31/8i0B4f57uYQe4Ei1Jc1Ya6xMEXOxmTdv9cRd57BG9iElz+ICkvUB6wkPCh64cm0TP9/NPoD0X+e6QNU/nf63CPAVQ62PuuezbYN9xv7O3Klq/M57SkOLTzwfvtstJuy3dysr573HDLWZMfxVW46u0ihSeYE=;4bhXJ+bgNUigHiOg5DMQPw=="
 ---
 

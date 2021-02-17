@@ -1,28 +1,34 @@
 ---
 category: news
-title: "Joe Biden to visit Milwaukee next week for his first official trip as president"
-excerpt: "President Joe Biden will visit Wisconsin next week for his first official trip as president beyond his home state of Delaware."
-publishedDateTime: 2021-02-09T16:16:00Z
-originalUrl: "https://www.chicagotribune.com/politics/ct-aud-nw-joe-biden-wisconsin-visit-20210209-oxt7cvgzhneedf36f3dsfl2fzu-story.html"
-webUrl: "https://www.chicagotribune.com/politics/ct-aud-nw-joe-biden-wisconsin-visit-20210209-oxt7cvgzhneedf36f3dsfl2fzu-story.html"
-ampWebUrl: "https://www.chicagotribune.com/politics/ct-aud-nw-joe-biden-wisconsin-visit-20210209-oxt7cvgzhneedf36f3dsfl2fzu-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/politics/ct-aud-nw-joe-biden-wisconsin-visit-20210209-oxt7cvgzhneedf36f3dsfl2fzu-story.html?outputType=amp"
+title: "Biden reframes his goal on reopening of elementary schools"
+excerpt: "President Joe Biden is promising a majority of elementary schools will be open five days a week by the end of his first 100 days in office"
+publishedDateTime: 2021-02-17T10:31:00Z
+originalUrl: "https://www.washingtonpost.com/health/biden-rallies-public-to-pressure-republicans-on-virus-aid/2021/02/16/8d887502-70ba-11eb-8651-6d3091eac63f_story.html"
+webUrl: "https://www.washingtonpost.com/health/biden-rallies-public-to-pressure-republicans-on-virus-aid/2021/02/16/8d887502-70ba-11eb-8651-6d3091eac63f_story.html"
+ampWebUrl: "https://www.washingtonpost.com/health/biden-rallies-public-to-pressure-republicans-on-virus-aid/2021/02/16/8d887502-70ba-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/biden-rallies-public-to-pressure-republicans-on-virus-aid/2021/02/16/8d887502-70ba-11eb-8651-6d3091eac63f_story.html?outputType=amp"
 type: article
-quality: 101
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Chicago Tribune
-  domain: chicagotribune.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
+    isCached: true
 
 related:
   - title: "Biden order reestablishes faith-focused White House office"
@@ -120,22 +126,6 @@ related:
       - url: "https://s.abcnews.com/images/US/WireAP_a5f552c932dc494e992e5f6e05d4884a_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Biden reframes his goal on reopening of elementary schools"
-    excerpt: "President Joe Biden is promising a majority of elementary schools will be open five days a week by the end of his first 100 days in office"
-    publishedDateTime: 2021-02-17T10:31:00Z
-    webUrl: "https://www.washingtonpost.com/health/biden-rallies-public-to-pressure-republicans-on-virus-aid/2021/02/16/8d887502-70ba-11eb-8651-6d3091eac63f_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/health/biden-rallies-public-to-pressure-republicans-on-virus-aid/2021/02/16/8d887502-70ba-11eb-8651-6d3091eac63f_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/biden-rallies-public-to-pressure-republicans-on-virus-aid/2021/02/16/8d887502-70ba-11eb-8651-6d3091eac63f_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
         isCached: true
   - title: "Biden vows to make 600m vaccine doses available by end of July"
     excerpt: "President calls for teachers to be vaccinated sooner as he describes plans for tackling Covid-19 in televised town hall"
@@ -303,6 +293,17 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 103
+  - title: "Joe Biden to visit Milwaukee next week for his first official trip as president"
+    excerpt: "President Joe Biden will visit Wisconsin next week for his first official trip as president beyond his home state of Delaware."
+    publishedDateTime: 2021-02-09T16:16:00Z
+    webUrl: "https://www.chicagotribune.com/politics/ct-aud-nw-joe-biden-wisconsin-visit-20210209-oxt7cvgzhneedf36f3dsfl2fzu-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/politics/ct-aud-nw-joe-biden-wisconsin-visit-20210209-oxt7cvgzhneedf36f3dsfl2fzu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/politics/ct-aud-nw-joe-biden-wisconsin-visit-20210209-oxt7cvgzhneedf36f3dsfl2fzu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 101
   - title: "Washington moves of the week: Here's who's landing at the Biden White House, federal agencies, and Capitol Hill"
     excerpt: "It's hiring season in Washington, D.C. Here are this week's personnel moves in the Biden White House, in agencies, and in Congress."
     publishedDateTime: 2021-02-12T10:03:00Z
@@ -318,6 +319,6 @@ related:
         height: 600
         isCached: true
 
-secured: "nrSv/sJ782Glo3jCfDUlJ4C/Z74QuTujoAClkwNAimfDsC/5JJK0m+DVoOZCIxVz1xbbnV0sJKGa79Wv10Anftk891IJeZTlDX2VDHeqB1RjxtTPmt/TOfeNm/W4OvMef2pXfpSAQeYstxvyXE4OmFcued181SFgUijna1pRxzQf/raV1qmkI20zx/a7fRIS/Tjq1r0ywRc9+u78veX2XfWdEmMAvu9tGBO+e683JG6f4E33HIg32m4OpP6sG8olHP7hiogHNdpPDBEyogoBc8KQ0SAKP/PiJ8NQ2rpIp3FTYrpOuEuFAhRBjdKJRg6B9BShFpDBs9bEyeUuryHzfAzyU4jW2YtD4/ANNs7CzKHmmDaZtj6XHhUTsQN56cWuMK6BPhN1zWm4JUv4XBosqbOCikGGRZpORTOk6RilLRPLNKKmxT3+2C+5ArrnOKp5nbLH7yAr78gzrxXChZmtaxBMnZpIPjssUoh2ATT2E2iDWr0D9zcaAxXLvKmlVk7om0W0Ci33y05H80uhXWBDMQ==;tSYcL3TY9WXoj6/8fbONlw=="
+secured: "fciL73T6dVF6CzBeDzN7sbOuXTMQC2nSTD3Gb7Fxe6gKStK3Yy13vmfzTaqsP0iA009PKyPcIoaXUQX1hH6h8uYrGcd+/hVeQ5vfOFHJ+NsqAcH6imUJaghP9h3DSqfHKiVX2NzEIv+v2knDu5NwL2sop5qZUHz4brqHZhI8269n5xv2UNo9+yHJ1Q+Tz5ErNVe8hQV/phwBuB6nlWtPr7RS7W5vJKEsXVtoY309+Fmh6JqfDhNudB7+KcDlYxoGePxxVqZd4KFnKRsZ7oehgorPuMJZG8zRc4SR2J3aeup7TS7HnA3PTgs3zbnchkHKZb4pnAcgsADTy0NEIHd0pAU/tGiFhEeC8TRzx+ZpCgY=;YfypxjgUn1WKfflbz8uhvg=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Trump's lawyer claims the Capitol attack wasn't an 'insurrection.' Mitch McConnell disagrees."
-excerpt: "Senate Minority Leader Mitch McConnell disagrees. He's called the Capitol attack a \"failed insurrection.\""
-publishedDateTime: 2021-02-12T21:46:00Z
-originalUrl: "https://www.businessinsider.com/trumps-lawyer-claims-capitol-attack-wasnt-an-insurrection-despite-evidence-2021-2"
-webUrl: "https://www.businessinsider.com/trumps-lawyer-claims-capitol-attack-wasnt-an-insurrection-despite-evidence-2021-2"
-ampWebUrl: "https://www.businessinsider.com/trumps-lawyer-claims-capitol-attack-wasnt-an-insurrection-despite-evidence-2021-2?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-lawyer-claims-capitol-attack-wasnt-an-insurrection-despite-evidence-2021-2?amp"
+title: "Trump's scathing letter attacking Mitch McConnell could have been nastier, according to a new report"
+excerpt: "A person familiar with crafting the statement said there was \"definitely something about [McConnell] having too many chins but not enough smarts.\""
+publishedDateTime: 2021-02-17T10:24:00Z
+originalUrl: "https://www.businessinsider.com/trump-scathing-letter-to-mcconnell-could-have-been-nastier-report-2021-2"
+webUrl: "https://www.businessinsider.com/trump-scathing-letter-to-mcconnell-could-have-been-nastier-report-2021-2"
+ampWebUrl: "https://www.businessinsider.com/trump-scathing-letter-to-mcconnell-could-have-been-nastier-report-2021-2?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-scathing-letter-to-mcconnell-could-have-been-nastier-report-2021-2?amp"
 type: article
-quality: 114
+quality: 110
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://i.insider.com/6026e713b3c2a800183ccb49?width=1200&format=jpeg"
+  - url: "https://i.insider.com/602c54bb5847630018323640?width=1200&format=jpeg"
     width: 1200
     height: 600
     isCached: true
@@ -127,6 +127,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump's lawyer claims the Capitol attack wasn't an 'insurrection.' Mitch McConnell disagrees."
+    excerpt: "Senate Minority Leader Mitch McConnell disagrees. He's called the Capitol attack a \"failed insurrection.\""
+    publishedDateTime: 2021-02-12T21:46:00Z
+    webUrl: "https://www.businessinsider.com/trumps-lawyer-claims-capitol-attack-wasnt-an-insurrection-despite-evidence-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/trumps-lawyer-claims-capitol-attack-wasnt-an-insurrection-despite-evidence-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-lawyer-claims-capitol-attack-wasnt-an-insurrection-despite-evidence-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 114
+    images:
+      - url: "https://i.insider.com/6026e713b3c2a800183ccb49?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Fact check: Yes, McConnell said Trump was 'practically and morally responsible' for Capitol riot"
     excerpt: "Posts are accurate in claiming that Sen. Mitch McConnell blamed former President Donald Trump for the Capitol riot but voted for acquittal."
     publishedDateTime: 2021-02-17T03:16:00Z
@@ -142,22 +158,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/02/14/USAT/6019584a-0da2-45ab-a03a-6bdba186c1ed-GTY_1301995912.jpg?auto=webp&crop=1969,1108,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Trump's scathing letter attacking Mitch McConnell could have been nastier, according to a new report"
-    excerpt: "A person familiar with crafting the statement said there was \"definitely something about [McConnell] having too many chins but not enough smarts.\""
-    publishedDateTime: 2021-02-17T10:24:00Z
-    webUrl: "https://www.businessinsider.com/trump-scathing-letter-to-mcconnell-could-have-been-nastier-report-2021-2"
-    ampWebUrl: "https://www.businessinsider.com/trump-scathing-letter-to-mcconnell-could-have-been-nastier-report-2021-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-scathing-letter-to-mcconnell-could-have-been-nastier-report-2021-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 110
-    images:
-      - url: "https://i.insider.com/602c54bb5847630018323640?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Pelosi called McConnell 'pathetic' after he said he wouldn't vote to convict Trump for inciting Capitol riot"
     excerpt: "Pelosi said McConnell postponed Trump's impeachment trial, and then voted for his acquittal because the trial occurred after Trump left office."
@@ -238,6 +238,6 @@ related:
         height: 336
         isCached: true
 
-secured: "5sac7zJ7F4Zl+HBWOcGcJ+2xrxtttDRlnxxmS46YUgK//P8fLaJlDPA91b2gxku+Ro+vlg3xyggwH5LsIE9THYGLL3rOpfoci0MY3aKQgZyyYaiT+a7OkJECNRjuz7ftsQETmQC8icTONkWWkIQpfzhV9n9oUYLFuUUL7X7qC6Nhg0HhX4SQIu5y+6TAGs422ap5o3BI5jJ4+7hftUOl1ZT8Q3ewtX3JJOJ113CK5wRtJjiJNaZZfhhlISMxDVwmqEmTWWzTSq0Gdqbpu8fxpPf9P90eOOi6PpdfzIJNezECn69d1/GNCJBhQUSwzl66Pyihzzpd3brkVLGdxxL3o0R0Ckuct1+Boez3f8vz4N8Tv1e8EA7KP4hV9sbTUtBt+8Xv3loDlfmsBePBk4f7JO7c2MTjSr/kE1OBfegOtQIQ/BF69fvjkRcE4QfKJoq50HFFU+CmEo/FSbjtV4da7Qx2IUUKN5X8iplHgZNvLIOwi0OR+I1J29OXU6g+J/5F7+bgkOzHkij9B+gZOOMGKQ==;CdbnNjCXbJRqQiAyIdoujQ=="
+secured: "dtiMWoFq0e4nj1kFiaLQg+uITm6HOHEp0ul9ygT3T+5V3iIYBRZQj0e9Q36ztPcnXeHnCPEsm+Y7jXt+gKjlqN3CDv32R95tHJpR9Egq0pHK2tPnDhg4XEfLnkj6fVnaj/vuPJkSu5dvVPxG9T8N1NpPve/J0f3euagmUdU+hZEqoOYZcgi3khJehfLwJun6U1LJ7N4aS2jwSJiFR7rcu8hsRhbcgp4dRDGQjDv5ZzitljYzsn2pIznuQ91lCC9K+JpBUXy6xlwfiLsKnCyuwnqHMCgr9N5JdT2iBfPoevPr8gWztKvhQtjmsRL7SVVXNPhS4CyW1lqSTkoyiX+YAq2G7shvRHqZzP115MjM6Ko=;vbcZd/zgJoEtyL/RrG6beg=="
 ---
 

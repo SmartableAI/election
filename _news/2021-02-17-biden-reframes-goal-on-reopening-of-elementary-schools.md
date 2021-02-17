@@ -111,6 +111,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden reframes his goal on reopening of elementary schools"
+    excerpt: "President Joe Biden is promising a majority of elementary schools will be open five days a week by the end of his first 100 days in office"
+    publishedDateTime: 2021-02-17T10:31:00Z
+    webUrl: "https://www.washingtonpost.com/health/biden-rallies-public-to-pressure-republicans-on-virus-aid/2021/02/16/8d887502-70ba-11eb-8651-6d3091eac63f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/biden-rallies-public-to-pressure-republicans-on-virus-aid/2021/02/16/8d887502-70ba-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/biden-rallies-public-to-pressure-republicans-on-virus-aid/2021/02/16/8d887502-70ba-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Biden vows to make 600m vaccine doses available by end of July"
     excerpt: "President calls for teachers to be vaccinated sooner as he describes plans for tackling Covid-19 in televised town hall"
     publishedDateTime: 2021-02-17T04:14:00Z
@@ -303,6 +319,6 @@ related:
         height: 600
         isCached: true
 
-secured: "ddEYWBPbqEqNTyf4WSGUnEBpC5X3+qSrr/w7ZfZtS52EI4ge1Za6Esj4iKwHKUhOKA59BUfL68zBz5eHJZHv3Yn+Kp8R2PneSVsERJZOV7PLGg1D/KDaXpW6XQIdnq+hBmGq6lZ9jXB8wdgz2Je6h7wzHTujaxCpDH348zj9PU/FBEJEBFD0q1URT80oSfNhkd9CfM6k1mZzBijx3/JBGM4XKrrTEQYQALsB6BQSoSJ50orUEtDBZ6GZvWvQfDIB2hLpIZV6sWHCwGQ5naQpQLPFiJee3GJXHB4pUtOSDtjHuAYI1k24nf6jOMetv/VrdK2rpmMsJl3lpj/4aK7Gwi99o704aJaULVj0K39A8DQ=;QzuBFUsieYJt+aZkvJiXWw=="
+secured: "dhqpGi4lFp3RoRO7cKrTrU1ZH9/zFzDEHgVbyuAJ0ri8/mdiHkrOaXk1aOUPSKvKibN2LtM8tVFoFSB4uNANYY0dgTLS9Lnn0Z3GIiLLqF3wr38Y5vDS0w1jiOOBomSSvFROQmmIZcDbvPtBsZsNTsuwzKG5oP5FBuq9ZtCs/aS4HWHQTwniibeA0Ip15qD+dBE+AfSY5Sy1EnLcd3+Mur5AsGPZKWGeoK+gGqFBu0OwR7D7Hb+HeAKP+k/tycvMj26LIeLOqz+yIJLB12v20T0yI3EDgj+TYsavnXOhApQGBr+6mZafwpTRAxFSTi1RkpxrfLBAnvZBgenJjidje8ArP98+R//apQg3jQX9F1fXbDAjtNANgEZctadFzqfAKkc6249YPyyqB5Lsyeot4BfqzUjNWw0RI/9FUrP2thS2ugUszLxjeoQ30uUteU1eJC90SZ94iH98uL/Rcro9OW0rcQ4wXX129/HaJfhC5hFrnHNsI8YjQjI3O18jzp1rhcQX+NBa43h+VgvOWsWpbg==;GQegIvI4zzaWSgABHdFYhA=="
 ---
 

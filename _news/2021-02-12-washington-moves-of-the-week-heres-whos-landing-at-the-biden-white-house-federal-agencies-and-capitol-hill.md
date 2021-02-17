@@ -125,6 +125,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden reframes his goal on reopening of elementary schools"
+    excerpt: "President Joe Biden is promising a majority of elementary schools will be open five days a week by the end of his first 100 days in office"
+    publishedDateTime: 2021-02-17T10:31:00Z
+    webUrl: "https://www.washingtonpost.com/health/biden-rallies-public-to-pressure-republicans-on-virus-aid/2021/02/16/8d887502-70ba-11eb-8651-6d3091eac63f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/biden-rallies-public-to-pressure-republicans-on-virus-aid/2021/02/16/8d887502-70ba-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/biden-rallies-public-to-pressure-republicans-on-virus-aid/2021/02/16/8d887502-70ba-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Biden vows to make 600m vaccine doses available by end of July"
     excerpt: "President calls for teachers to be vaccinated sooner as he describes plans for tackling Covid-19 in televised town hall"
     publishedDateTime: 2021-02-17T04:14:00Z

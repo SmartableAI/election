@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-mcconnel
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-mcconnell-gop-divide-20210217-yttnnj67wreb3lraurreksn2jy-story.html?outputType=amp"
 type: article
 quality: 121
-heat: 361
+heat: 381
 published: true
 
 provider:
@@ -142,6 +142,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/02/14/USAT/6019584a-0da2-45ab-a03a-6bdba186c1ed-GTY_1301995912.jpg?auto=webp&crop=1969,1108,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump's scathing letter attacking Mitch McConnell could have been nastier, according to a new report"
+    excerpt: "A person familiar with crafting the statement said there was \"definitely something about [McConnell] having too many chins but not enough smarts.\""
+    publishedDateTime: 2021-02-17T10:24:00Z
+    webUrl: "https://www.businessinsider.com/trump-scathing-letter-to-mcconnell-could-have-been-nastier-report-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/trump-scathing-letter-to-mcconnell-could-have-been-nastier-report-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-scathing-letter-to-mcconnell-could-have-been-nastier-report-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 110
+    images:
+      - url: "https://i.insider.com/602c54bb5847630018323640?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Pelosi called McConnell 'pathetic' after he said he wouldn't vote to convict Trump for inciting Capitol riot"
     excerpt: "Pelosi said McConnell postponed Trump's impeachment trial, and then voted for his acquittal because the trial occurred after Trump left office."

@@ -1,14 +1,14 @@
 ---
 category: news
-title: "UPDATE 1-Biden pushes for pandemic relief in first official trip as president"
-excerpt: "President Joe Biden vowed during a prime-time televised town hall on Tuesday to accelerate the country's vaccination program and said teachers should be moved closer to the front of the line for inoculations to allow more schools to reopen."
-publishedDateTime: 2021-02-17T02:56:00Z
-originalUrl: "https://www.reuters.com/article/usa-biden/update-1-biden-pushes-for-pandemic-relief-in-first-official-trip-as-president-idUSL1N2KM2OI"
-webUrl: "https://www.reuters.com/article/usa-biden/update-1-biden-pushes-for-pandemic-relief-in-first-official-trip-as-president-idUSL1N2KM2OI"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AG13B"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AG13B"
+title: "Biden suggests more police funding, no jail for drug offenders"
+excerpt: "President Joe Biden outlined changes he hopes to make to criminal justice and policing in the United States during a town hall Tuesday night, highlighting issues that his administration may tackle after COVID-19 relief."
+publishedDateTime: 2021-02-17T09:37:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-biden-police/biden-suggests-more-police-funding-no-jail-for-drug-offenders-idUSKBN2AH0C6"
+webUrl: "https://www.reuters.com/article/us-usa-biden-police/biden-suggests-more-police-funding-no-jail-for-drug-offenders-idUSKBN2AH0C6"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AH0C6"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AH0C6"
 type: article
-quality: 122
+quality: 125
 heat: -1
 published: false
 
@@ -25,8 +25,8 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210217&t=2&i=1551800579&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1G071"
-    width: 777
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210217&t=2&i=1551800910&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1G074"
+    width: 793
     height: 545
     isCached: true
 
@@ -47,20 +47,20 @@ related:
         width: 2500
         height: 1665
         isCached: true
-  - title: "Biden suggests more police funding, no jail for drug offenders"
-    excerpt: "President Joe Biden outlined changes he hopes to make to criminal justice and policing in the United States during a town hall Tuesday night, highlighting issues that his administration may tackle after COVID-19 relief."
-    publishedDateTime: 2021-02-17T09:37:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-police/biden-suggests-more-police-funding-no-jail-for-drug-offenders-idUSKBN2AH0C6"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AH0C6"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AH0C6"
+  - title: "UPDATE 1-Biden pushes for pandemic relief in first official trip as president"
+    excerpt: "President Joe Biden vowed during a prime-time televised town hall on Tuesday to accelerate the country's vaccination program and said teachers should be moved closer to the front of the line for inoculations to allow more schools to reopen."
+    publishedDateTime: 2021-02-17T02:56:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden/update-1-biden-pushes-for-pandemic-relief-in-first-official-trip-as-president-idUSL1N2KM2OI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AG13B"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AG13B"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 125
+    quality: 122
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210217&t=2&i=1551800910&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1G074"
-        width: 793
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210217&t=2&i=1551800579&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1G071"
+        width: 777
         height: 545
         isCached: true
   - title: "President Biden extends mortgage relief, ban on home foreclosures through June"
@@ -107,6 +107,6 @@ related:
       domain: businessinsider.com
     quality: 105
 
-secured: "JtSribmBNb2QpDbfH4FXJS9J7CNPF2+rvHkdE1xf0jc0c0aXfiNyZCva/eJhYaPcPPJm+g5AB04e+oBM5JZLmtv8n01TH/wESN7HQcbZVCgX8uXo1V7AATWrND37+McSO+OVXE7Lvzu0DUrRAEITtH7sVhDG+DF5SqnjiligYGMR27hqjNlWPX3KjQarGE9m+E6lhHvuuLQ2slXq3b5DWvXSjbF7UwrwZkHTmBLYtu6NR4c0bzkxqh8ClOf0YpV6mFoEGdSeGNsXOlySyKyMrd+VJQCGWsXnSsslptG5vFnXucN2p8tbD6zOIC+IpYb+F3x8wVp72rwo9obKvAmMxATu+WIYKI2ttqoX8Q8uOa0=;vdYQXOEGYN4TK36vZf8G7A=="
+secured: "n0phaVeqDj7c2qgAP5ckudEt5+HvWbXnu9YLucNCylT6J7UnWfLB8aCJPNuwBhrkQk9WG+qN4Gz2tIEhGPu953igiIZpKKFeYIJt7ZytpMWmJMbn2Qd437zmCCOkTwc/ed1GYiYuC1BfE2MjmsOzM7poN0Dt4VW0CTzZSUoaeGIerOc+aOUpgxk0mWQXUW+xiKH5nJa8yNYo+7/4P/HHqroIZGo+c7U8nQVkrhWIFCPkwS3GU40Uitp1NVThweenq7Ax28uCM9QE1UB8gnL2c6U1+fLKnCMgoG3/NlLEzCZNXMKNiXmcWCcdiYlIGfRmT2BueVUB7ocJ6HCWjafKk54n71QwoC8MgzNonRVt4uU=;A6icgF7fWtHlDseN/nEy5w=="
 ---
 

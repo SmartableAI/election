@@ -1,22 +1,20 @@
 ---
 category: news
-title: "White House says Biden is too busy to pay much attention to Trump impeachment trial"
-excerpt: "As Washington is consumed with the impeachment trial of the last president, the current one tries to look too busy to care."
-publishedDateTime: 2021-02-09T18:46:00Z
-originalUrl: "https://www.washingtonpost.com/politics/biden-trump-trial/2021/02/08/e3d2ad9e-6a2d-11eb-9f80-3d7646ce1bc0_story.html"
-webUrl: "https://www.washingtonpost.com/politics/biden-trump-trial/2021/02/08/e3d2ad9e-6a2d-11eb-9f80-3d7646ce1bc0_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/biden-trump-trial/2021/02/08/e3d2ad9e-6a2d-11eb-9f80-3d7646ce1bc0_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-trump-trial/2021/02/08/e3d2ad9e-6a2d-11eb-9f80-3d7646ce1bc0_story.html?outputType=amp"
+title: "Biden makes first presidential trip as Trump attacks McConnell"
+excerpt: "President Biden is making the first official trip of his presidency to take part in a Wisconsin town hall on the government's COVID-19 pandemic response. CBS News chief White House correspondent Nancy Cordes and Boston Globe deputy Washington bureau chief Liz Goodwin join CBSN's \"Red & Blue\" host Elaine Quijano to discuss the future of Mr."
+publishedDateTime: 2021-02-16T23:48:00Z
+originalUrl: "https://www.cbsnews.com/video/biden-makes-first-presidential-trip-as-trump-attacks-mcconnell/"
+webUrl: "https://www.cbsnews.com/video/biden-makes-first-presidential-trip-as-trump-attacks-mcconnell/"
 type: article
-quality: 134
+quality: 120
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: CBS News
+  domain: cbsnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GXJYH2DKEQI6XJTO4JYEN2PITA.jpg&w=1440"
-    width: 1440
-    height: 1133
+  - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/16/e2c9e3c3-4a1c-407b-b89f-a24530895753/thumbnail/1200x630/b722b764084c48b944f8deb7c8416c01/0216-rb-bidenfirsttrip-rjp-rjq-647416-640x360.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -158,6 +156,22 @@ related:
       - url: "https://thehill.com/sites/default/files/bidenjoe_02112021getty.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "White House says Biden is too busy to pay much attention to Trump impeachment trial"
+    excerpt: "As Washington is consumed with the impeachment trial of the last president, the current one tries to look too busy to care."
+    publishedDateTime: 2021-02-09T18:46:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-trump-trial/2021/02/08/e3d2ad9e-6a2d-11eb-9f80-3d7646ce1bc0_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-trump-trial/2021/02/08/e3d2ad9e-6a2d-11eb-9f80-3d7646ce1bc0_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-trump-trial/2021/02/08/e3d2ad9e-6a2d-11eb-9f80-3d7646ce1bc0_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 134
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GXJYH2DKEQI6XJTO4JYEN2PITA.jpg&w=1440"
+        width: 1440
+        height: 1133
         isCached: true
   - title: "Neera Tanden, Biden's Contentious Budget Chief Pick, Tweeted 30K More than Donald Trump"
     excerpt: "Tanden has come under fire in recent weeks for her combative Twitter history that included targeting Republicans and progressive Democrats."
@@ -316,20 +330,6 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210215&t=2&i=1551615679&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEH1E0XR"
         width: 810
         height: 540
-        isCached: true
-  - title: "Biden makes first presidential trip as Trump attacks McConnell"
-    excerpt: "President Biden is making the first official trip of his presidency to take part in a Wisconsin town hall on the government's COVID-19 pandemic response. CBS News chief White House correspondent Nancy Cordes and Boston Globe deputy Washington bureau chief Liz Goodwin join CBSN's \"Red & Blue\" host Elaine Quijano to discuss the future of Mr."
-    publishedDateTime: 2021-02-16T23:48:00Z
-    webUrl: "https://www.cbsnews.com/video/biden-makes-first-presidential-trip-as-trump-attacks-mcconnell/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 120
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/16/e2c9e3c3-4a1c-407b-b89f-a24530895753/thumbnail/1200x630/b722b764084c48b944f8deb7c8416c01/0216-rb-bidenfirsttrip-rjp-rjq-647416-640x360.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Biden administration tells Supreme Court Obamacare is constitutional, should be saved"
     excerpt: "In letter to the court, government lawyers disavowed the view the Trump administration argued just months ago."
@@ -499,6 +499,6 @@ related:
         height: 400
         isCached: true
 
-secured: "70nn13wq4dnOEcuyacr+KNjNuLHKBMmVN5rzXbbgVP+Wv2eq1pRDLAxd0QmMTdyR8C6Kn3hoX2NWAJw0CZB6CsZHk9FwZdLs81G/kcARP+XWHrsn2xcSDQzWDq/RoU0vU+tLzJ6r6J8lVwVurnO8EDomOOFoHp8tEwWdwwq7RBALBZ7ovkSxJLrMOpi8BEZpj0qLQtTcvK1Czsrb/KCRCx/fGjuBl9EZTZpFOATD9Q2kU2clu5yrzfKYziisNTdKVGoeG+6jV55K76V+LWgz4bTWgMr7EP+bLTx4kCbTf2tAL2fxwz4XV0TUSSX685TrA05DXD5rb53NK6L1J3kC63pD5sVx+9e22bF3DMqRbhzPdfZg2K2AJB1WhMdo4hbfX1TtOGDdv2kkzNZN6AiMCf+hAn9VHtHWgnaZQX74mhWNl9EHV4r0N+UnTAF4WvJzHEX49bpS/SkiFCxDk/xuW52OaokkvO8xpPX6HXx+cd9aq7x6du9H/skNb9b9FAlsbaoz3Q9fMscu9jrigBZyug==;1bq7qP8kTEAOMuMnw48uzQ=="
+secured: "d/veGs8VQ5j/gvZNABu6V0Jp1xQZyWHJimphlufOeY1IYTWVJHvetFMECAmftfd0ULcR3Ce6UBKPbtXJUvA/zIaxnh/MrKMGJTU7xTLzaPdg0Y9XKp2Y3Dkc+Juq0kraAOFa5UOi7L7cqByi2fUeDLpEGc5RJRQeyivcNNJQVWrszYf6HI4Ufk8j9mt0jFqZmaB9+cv04MWd7wALpY0dkY1DI+o8pR76tmjyZuz5HMILEjv28EVj90lny/a1nUh+uM2TwB0Re1zt9KwUYr4RAHyQrUWp5AAhRkwbGQAzpI9QrfBVHW5wvRjI3e47X5Yp8cmI3EzSjl0Y6fWXqa+g2K1APPzebEzxGFwDK3rt7VQ=;mOclXiZ4n8K7xpdO6eXM1Q=="
 ---
 

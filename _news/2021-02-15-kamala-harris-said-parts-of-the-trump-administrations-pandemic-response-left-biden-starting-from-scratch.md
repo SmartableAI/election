@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/kamala-harris-biden-starting-from-sc
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kamala-harris-biden-starting-from-scratch-covid-19-after-trump-2021-2?amp"
 type: article
 quality: 147
-heat: 727
+heat: 747
 published: true
 
 provider:
@@ -317,6 +317,20 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210215&t=2&i=1551615679&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEH1E0XR"
         width: 810
         height: 540
+        isCached: true
+  - title: "Biden makes first presidential trip as Trump attacks McConnell"
+    excerpt: "President Biden is making the first official trip of his presidency to take part in a Wisconsin town hall on the government's COVID-19 pandemic response. CBS News chief White House correspondent Nancy Cordes and Boston Globe deputy Washington bureau chief Liz Goodwin join CBSN's \"Red & Blue\" host Elaine Quijano to discuss the future of Mr."
+    publishedDateTime: 2021-02-16T23:48:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-makes-first-presidential-trip-as-trump-attacks-mcconnell/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/16/e2c9e3c3-4a1c-407b-b89f-a24530895753/thumbnail/1200x630/b722b764084c48b944f8deb7c8416c01/0216-rb-bidenfirsttrip-rjp-rjq-647416-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Biden administration tells Supreme Court Obamacare is constitutional, should be saved"
     excerpt: "In letter to the court, government lawyers disavowed the view the Trump administration argued just months ago."

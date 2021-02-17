@@ -122,6 +122,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden still misses VP residence pool in which he reportedly skinny dipped"
+    excerpt: "President Joe Biden made wistful remarks about the freedom of the vice president’s residence — including the swimming pool in which he reportedly skinny dipped — when asked how he was settling into the White House on Tuesday."
+    publishedDateTime: 2021-02-17T09:15:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/D4d7tKXJ4hg/biden-still-misses-vp-residence-pool-in-which-he-reportedly-skinny-dipped"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-still-misses-vp-residence-pool-in-which-he-reportedly-skinny-dipped.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-still-misses-vp-residence-pool-in-which-he-reportedly-skinny-dipped.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/istock-486343416.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Psaki pressed on Biden admin not deporting illegal immigrants who drive drunk"
     excerpt: "White House Press Secretary Jen Psaki was asked on Monday about pending guidance that would spare some illegal immigrants convicted of less serious offenses from deportation"
     publishedDateTime: 2021-02-09T01:01:17Z
