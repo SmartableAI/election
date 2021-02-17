@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-16-biden-has-reopened-obamacare-enrollment-but-how-fast-you-need-to-act-depends-on-where-you-live.md",
+      "title": "Biden has reopened Obamacare enrollment, but how fast you need to act depends on where you live",
+      "excerpt": "Residents of one state don't know whether they can participate in a special enrollment period for federally subsidized health insurance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/02/15/bidens-special-health-insurance-enrollment-varies-state/6745781002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/02/15/bidens-special-health-insurance-enrollment-varies-state/6745781002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/-mm-/2f3822947b6a8f8aa6a183e96e64d71752a99d03/c=0-89-2998-1783/local/-/media/2016/09/22/USATODAY/USATODAY/636101585701576984-BLM-OBAMA-HEALTHCARE-58839458.JPG?auto=webp&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6745781002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6745781002",
+      "publishedDateTime": "2021-02-15T22:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-02-16-comey-email-reveals-fbi-doj-made-premeditated-effort-to-dislodge-trump-from-office-gaetz.md",
       "title": "Comey email reveals FBI, DOJ made 'premeditated effort to dislodge' Trump from office: Gaetz",
       "excerpt": "The Justice Department and FBI engaged in a \"premeditated effort to dislodge the duly elected president of the United States,\" Rep. Matt Gaetz, R-Fla., charged Monday on \"Hannity.\"",
@@ -1033,7 +1085,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 287,
+      "heat": 307,
       "tags": null,
       "images": [
         {
@@ -1085,7 +1137,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/feb/14/donald-trump-impeachment-republican-party-cornyn-hogan-graham-mcconnell",
       "featuredContent": null,
       "highlight": null,
-      "heat": 505,
+      "heat": 525,
       "tags": null,
       "images": [
         {
@@ -1286,58 +1338,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-14-trump-acquittal-biden-urges-vigilance-to-defend-fragile-democracy-after-impeachment-trial.md",
-      "title": "Trump acquittal: Biden urges vigilance to defend 'fragile' democracy after impeachment trial",
-      "excerpt": "President says the substance of the charge against Donald Trump over the January attack on US Capitol is not in dispute",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/feb/14/trump-acquittal-biden-urges-vigilance-to-defend-fragile-democracy-after-impeachment-trial",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/feb/14/trump-acquittal-biden-urges-vigilance-to-defend-fragile-democracy-after-impeachment-trial",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1409,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/c680f2571d7f60e33c3235b84bc24d5e5c969590/0_84_5472_3283/master/5472.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9ca49357272737d2ff54874ce241fed9",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/feb/14/trump-acquittal-biden-urges-vigilance-to-defend-fragile-democracy-after-impeachment-trial",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/14/trump-acquittal-biden-urges-vigilance-to-defend-fragile-democracy-after-impeachment-trial",
-      "publishedDateTime": "2021-02-14T02:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

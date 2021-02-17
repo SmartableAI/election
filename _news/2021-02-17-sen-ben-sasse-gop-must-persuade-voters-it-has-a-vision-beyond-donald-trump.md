@@ -45,22 +45,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Trump rips McConnell as GOP divide deepens post-Capitol riot"
-    excerpt: "Former President Donald Trump has issued a blistering statement denouncing the top Republican in the Senate, Mitch McConnell, as a “political hack” who will make sure the party “will not win again.\""
-    publishedDateTime: 2021-02-17T08:31:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-slams-mcconnell-gop-divide-deepens-post-impeachment-75935032"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-slams-mcconnell-gop-divide-deepens-post-impeachment-75935032"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-slams-mcconnell-gop-divide-deepens-post-impeachment-75935032"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_6116e03690dd4b53a93d6e2b3dfc7239_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Utah GOP accepts Romney's vote to convict Trump"
     excerpt: "Utah's Republican Party on Tuesday accepted Sen. Mitt Romney's vote to convict former President Donald Trump, saying there is \"power\" in difference of opinions."
     publishedDateTime: 2021-02-16T18:44:00Z
@@ -125,6 +109,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump Rips McConnell as GOP Divide Deepens Post-Capitol Riot"
+    excerpt: "Former President Donald Trump has issued a blistering statement denouncing the top Republican in the Senate, Mitch McConnell, as a “political hack” who will make sure the party “will not win again.\"."
+    publishedDateTime: 2021-02-17T09:10:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-02-16/trump-slams-mcconnell-as-gop-divide-deepens-post-impeachment"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-16/trump-slams-mcconnell-as-gop-divide-deepens-post-impeachment?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-16/trump-slams-mcconnell-as-gop-divide-deepens-post-impeachment?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "GULi1IkP/q2N8pdU1nSrbBephgPGPFa/r0dYp/Vq3MGnfj4hOrsXdhXAjevpGs7ufI4WFJ5rxB6g1mc3I1Vm3aFhaZgKxRJzw+ONmKEi6sQu4UlWM8W9V626p/dh2MPm3QAzQg4OFaGcd7UaETZ1xhzO3P+w95eLUXevQkz0gZu/i2FD834+zSrcQ8uNVwAQ4kw084wzRbYTf/AsVcEz0tfrCLc7DxMjul3oz9kC1VE8IpOyazY7Yp6iW0hn4tMslfj9Zf609H+ZIbOQXBT8YMAYbz9DVNbXjYmRqfXbR0gg9BaYtFyT8dBzfPrmwVHkxEZcfPsiKT9tHYYsBv2GAkvvKfrGfJ1k8MztJto+PhgnKlZhxgqOmNahpO3pCTo8Kh5hYhM3eEmWCgRmlIahmFrQ49cRVejxmJv98LwW4yquWzmJ0Ve5nGpOS6O4hvtT5YCPOvoqCZUrkRqQ7O4fGg5+vNMh8L/IuqiByNzP/C/PdqvqFKdcuR0patBSbHISGSzdclOm2YX90ZIA48zomQ==;oH1wcfC/cF4Dkx6oM7reVA=="
 ---

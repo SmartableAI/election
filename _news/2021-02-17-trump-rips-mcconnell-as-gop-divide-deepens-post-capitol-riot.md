@@ -1,34 +1,28 @@
 ---
 category: news
-title: "Trump rips McConnell as GOP divide deepens post-Capitol riot"
-excerpt: "Former President Donald Trump has issued a blistering statement denouncing the top Republican in the Senate, Mitch McConnell, as a “political hack” who will make sure the party “will not win again.\""
-publishedDateTime: 2021-02-17T08:31:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/trump-slams-mcconnell-gop-divide-deepens-post-impeachment-75935032"
-webUrl: "https://abcnews.go.com/Politics/wireStory/trump-slams-mcconnell-gop-divide-deepens-post-impeachment-75935032"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-slams-mcconnell-gop-divide-deepens-post-impeachment-75935032"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-slams-mcconnell-gop-divide-deepens-post-impeachment-75935032"
+title: "Trump Rips McConnell as GOP Divide Deepens Post-Capitol Riot"
+excerpt: "Former President Donald Trump has issued a blistering statement denouncing the top Republican in the Senate, Mitch McConnell, as a “political hack” who will make sure the party “will not win again.\"."
+publishedDateTime: 2021-02-17T09:10:00Z
+originalUrl: "https://www.usnews.com/news/politics/articles/2021-02-16/trump-slams-mcconnell-as-gop-divide-deepens-post-impeachment"
+webUrl: "https://www.usnews.com/news/politics/articles/2021-02-16/trump-slams-mcconnell-as-gop-divide-deepens-post-impeachment"
+ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-16/trump-slams-mcconnell-as-gop-divide-deepens-post-impeachment?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-16/trump-slams-mcconnell-as-gop-divide-deepens-post-impeachment?context=amp"
 type: article
-quality: 125
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_6116e03690dd4b53a93d6e2b3dfc7239_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "GOP Sen. Richard Burr facing censure at home over vote to convict Trump"
@@ -126,6 +120,6 @@ related:
         height: 600
         isCached: true
 
-secured: "3Jc6N4TqZqYSF9lUqTR7jTrGSmEDlVXHnoxwWejlOUOQIwFdyX72X7CIUMxlRdwb4xg6boJ/RfrLWdBQXBW/nca/1lfQD+PaHLl5VsU8RZj1S8jfvnTyaRx0/YrNkNM0yRKhb9FH6ECB3lxeom3QBt2upOzFym27JOG5GvL5NzooZu20O9PPsJc89K52Qq0NPTN5suUSyUcSBZP6FfSImVjOtAlieQ64trxPC3pzeh6gmP3IQAK4TwZbGvEfo1wjs44nPci8DMj5NCFAVZHIlXsYtcfZIntsbwBPOKew0MWWhIN7D8PzEDPQjxguoFGhnvKBEJykkExTZYeSwwUt/vwUS9we2Fzyav4JwBaUxX0=;3ruyTf87d0T075R782zsrw=="
+secured: "+p5QqMLEsot4TL+xkUTAU0QKOw8+evp07q0XBYA40zmu9n5nE6OLp9t/uZjDYgaYTB5OK5kLtWzRVIC7Fx/6kgprl4ngDNXpDBuNIfggqltAGsOibRloZqdHzFTgvd2eEUQPE2jXeJWROAeHp95n3uNBuJKMf1qPVOX9AWYPqftqztIJhCR1m0g+nWAC8IuhTJcmmY+sflWGATk8qJJLP4OzldUiCKiOyeP3ODNo6iYPy2yd/b8zPLteI33IoGWAm2Or/UkdzKjnQIA44nmVrGoD8kWh7WazZMp+JfQvc4BFX8V27y3NldUFg8G9HPoEvYpvGFzqs0rZZL90+zfedhCJjhmZKcXgX4hvnXItMS+jzaVwsr13fahSEnj960Nhn4sNzKyGo2oPLOeSfCLwJ4xgveHU943MlD7kI4z7nHo0khtQxW1qNllBjGOwDAbTUlUCwPIc1Z3ylyU3zHrG7/OEWIlCcM/1a7LgNXZ78998Q4D27N79S6Obk+D/mJIvzdfDvhvGviwftdyhRD3cAw==;rKbeQN9OwhxNh1iLQDjWMA=="
 ---
 

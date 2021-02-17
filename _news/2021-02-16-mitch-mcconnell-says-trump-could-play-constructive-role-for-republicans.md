@@ -44,21 +44,21 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Graham weighs in on McConnell-Trump feud, says he's 'more worried’ about 2022 than ever"
-    excerpt: "Sen. Lindsey Graham, R-S.C., voiced Mitch McConnell and Donald Trump have got to knock off the arguing for the future of the Republican Party."
-    publishedDateTime: 2021-02-17T04:20:23Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GzFk8jDMefk/lindsey-graham-trump-mitch-mcconnell-feud"
-    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-trump-mitch-mcconnell-feud.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-trump-mitch-mcconnell-feud.amp"
+  - title: "McConnell silent in aftermath of Trump broadside as ex-president threatens to get involved in GOP primaries"
+    excerpt: "Senate Minority Leader Mitch McConnell was silent Tuesday night into Wednesday morning after former President Donald Trump lit into him in a lengthy statement calling on Republican senators to abandon McConnell and threatening primary challenges to incumbents."
+    publishedDateTime: 2021-02-17T12:30:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JvuXcG5r3-c/mcconnell-silent-in-aftermath-of-trump-broadside-as-gop-divisions-deepen"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-silent-in-aftermath-of-trump-broadside-as-gop-divisions-deepen.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-silent-in-aftermath-of-trump-broadside-as-gop-divisions-deepen.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 167
+    quality: 157
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/da97c52a-4bb1-48f9-b5cc-73cd7389b02d/ec27e3c1-79f8-44e2-b407-53aa5269e3fc/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Trump Criticizes McConnell, Calling Him a ‘Political Hack’"
     excerpt: "Former President Donald Trump criticized Mitch McConnell following the Senate minority leader’s blistering condemnation of Mr. Trump’s actions leading up to the Jan. 6 Capitol riot."
@@ -123,6 +123,22 @@ related:
       - url: "https://images.wsj.net/im-299178/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Graham weighs in on McConnell-Trump feud, says he's 'more worried’ about 2022 than ever"
+    excerpt: "S.C., voiced Mitch McConnell and Donald Trump have got to knock off the arguing for the future of the Republican Party."
+    publishedDateTime: 2021-02-17T04:26:00Z
+    webUrl: "https://www.foxnews.com/politics/lindsey-graham-trump-mitch-mcconnell-feud"
+    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-trump-mitch-mcconnell-feud.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-trump-mitch-mcconnell-feud.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 127
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/da97c52a-4bb1-48f9-b5cc-73cd7389b02d/ec27e3c1-79f8-44e2-b407-53aa5269e3fc/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "Lrr5ZbQRkY+jzOd+ZpqTXks6s8i+z8h2eTwV1zIqhzTXddaJGzKLUX7AdP38pLZAUWB0UUgZU3Ci5DvCl3tmjN1FZtccqyCyELTv8e8e7XFIB0mpvny2d5nPcq/bNIlYL6yaKtfG16aVm6asiECuljH/hfeYpbT3YzTvBCRK4fOMMd8lb3e8lYlUkjAyw6ylSP94Y/3nje+ZJ/bRJA/NB8YzyoVC/7LmbWXAVirqX75pxEHaQofXb6bKljo2sBR+q4ESbKA4SHRwZAfjsisj9SOkrLFCV5soAk7h8MPobt/BTbwSQQ4q7bp1Bx2MYGPq69TjJ/Yc3wBBpA66QRe37wn0FhAIC0vdVYOxxmeeYQk=;WyoioS0crGDhnuc8xB0udw=="

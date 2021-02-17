@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/16/politics/biden-trump-presidency/i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/16/politics/biden-trump-presidency/index.html"
 type: article
 quality: 174
-heat: 214
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden says he feels 'a sense of history' living at White House"
+    excerpt: "President Joe Biden on Tuesday described the \"sense of history\" he feels residing at the White House and all the ways living in the historic building is an adjustment, including being waited on by White House staff.\n    \n"
+    publishedDateTime: 2021-02-17T05:37:42Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vW-UB_0SL3M/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/17/politics/biden-life-white-house/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/17/politics/biden-life-white-house/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210216220131-15-biden-town-hall-0216-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "White House now says Biden 'will not rest until every school is open five days a week' "
     excerpt: "White House press secretary Jen Psaki said Thursday that President Joe Biden's goal is to have schools open five days a week in-person, but stressed the administration would follow the guidance of science and medical experts on how to safely reopen.\n    \n"
     publishedDateTime: 2021-02-11T19:15:54Z
@@ -47,19 +63,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden says he feels 'a sense of history' living at White House"
-    excerpt: "President Joe Biden on Tuesday described the \"sense of history\" he feels residing at the White House and all the ways living in the historic building is an adjustment, including being waited on by White House staff."
-    publishedDateTime: 2021-02-17T05:37:00Z
-    webUrl: "https://www.cnn.com/2021/02/17/politics/biden-life-white-house/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/17/politics/biden-life-white-house/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/17/politics/biden-life-white-house/index.html"
+  - title: "Former Biden coronavirus advisers push White House to more widely recommend use of N95 masks"
+    excerpt: "Several members of President Joe Biden's former coronavirus advisory board are urging his administration to more widely recommend and mandate the use of N95 masks, citing a \"pressing and urgent need for action\" driven by the threat of new coronavirus variants.\n    \n"
+    publishedDateTime: 2021-02-17T12:48:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/svdc99aRyrM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/17/politics/biden-coronavirus-n95-masks/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/17/politics/biden-coronavirus-n95-masks/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 135
+    quality: 164
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210216220131-15-biden-town-hall-0216-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210208202631-n-95-masks-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-17-duped-and-egged-on-capitol-rioters-use-trump-as-excuse-in-court.md",
+      "title": "\"Duped\" and \"egged on\": Capitol rioters use Trump as excuse in court",
+      "excerpt": "The Senate may have acquitted Donald Trump of inciting an insurrection, but the former president still faces accusations of incitement from another source: Capitol rioters themselves. Attorneys for at least seven accused rioters have referenced Mr.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/capitol-riot-suspects-trump-blame-court/",
+      "originalUrl": "https://www.cbsnews.com/news/capitol-riot-suspects-trump-blame-court/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/12/3e6f9a6f-18a2-4923-a631-b37c00cdf2c9/thumbnail/1200x630/5ac73579cc0dceac91f59467b903d91a/gettyimages-1230453213.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/capitol-riot-suspects-trump-blame-court/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/capitol-riot-suspects-trump-blame-court/",
+      "publishedDateTime": "2021-02-17T04:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-17-donald-trump-shows-nixons-pardon-was-what-america-needed.md",
       "title": "Donald Trump Shows Nixon’s Pardon Was What America Needed",
       "excerpt": "This article is part of the The DC Brief, TIME’s politics newsletter. Sign up here to get stories like this sent to your inbox",
@@ -323,7 +375,7 @@
       "originalUrl": "https://www.cbsnews.com/news/naacp-sues-trump-giuliani-capitol-riot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 244,
+      "heat": 224,
       "tags": null,
       "images": [
         {
@@ -845,7 +897,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/feb/14/donald-trump-impeachment-republican-party-cornyn-hogan-graham-mcconnell",
       "featuredContent": null,
       "highlight": null,
-      "heat": 505,
+      "heat": 525,
       "tags": null,
       "images": [
         {
@@ -1535,58 +1587,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-morning-mail-melbourne-cluster-grows-trumps-message-to-insurrectionists-crown-resignations.md",
-      "title": "Morning mail: Melbourne cluster grows, Trump's message to insurrectionists, Crown resignations",
-      "excerpt": "Two more Covid cases linked to the Holiday Inn quarantine hotel. Plus: simple strategies to cope with bluebottles",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/australia-news/2021/feb/12/morning-mail-melbourne-cluster-grows-trumps-message-to-insurrectionists-crown-resignations",
-      "originalUrl": "https://www.theguardian.com/australia-news/2021/feb/12/morning-mail-melbourne-cluster-grows-trumps-message-to-insurrectionists-crown-resignations",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/86ee9ba605ed24237a4240114b1c07ca658de675/0_16_5000_3002/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8bb20fc08e05a5fb94a1856adfffad43",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-11T12:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

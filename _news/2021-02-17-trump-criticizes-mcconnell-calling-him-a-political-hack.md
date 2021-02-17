@@ -48,21 +48,21 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Graham weighs in on McConnell-Trump feud, says he's 'more worried’ about 2022 than ever"
-    excerpt: "Sen. Lindsey Graham, R-S.C., voiced Mitch McConnell and Donald Trump have got to knock off the arguing for the future of the Republican Party."
-    publishedDateTime: 2021-02-17T04:20:23Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GzFk8jDMefk/lindsey-graham-trump-mitch-mcconnell-feud"
-    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-trump-mitch-mcconnell-feud.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-trump-mitch-mcconnell-feud.amp"
+  - title: "McConnell silent in aftermath of Trump broadside as ex-president threatens to get involved in GOP primaries"
+    excerpt: "Senate Minority Leader Mitch McConnell was silent Tuesday night into Wednesday morning after former President Donald Trump lit into him in a lengthy statement calling on Republican senators to abandon McConnell and threatening primary challenges to incumbents."
+    publishedDateTime: 2021-02-17T12:30:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JvuXcG5r3-c/mcconnell-silent-in-aftermath-of-trump-broadside-as-gop-divisions-deepen"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-silent-in-aftermath-of-trump-broadside-as-gop-divisions-deepen.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-silent-in-aftermath-of-trump-broadside-as-gop-divisions-deepen.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 167
+    quality: 157
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/da97c52a-4bb1-48f9-b5cc-73cd7389b02d/ec27e3c1-79f8-44e2-b407-53aa5269e3fc/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Trump urges ouster of ‘unsmiling political hack’ Mitch McConnell"
     excerpt: "Former President Donald Trump on Tuesday issued a blistering attack on the most powerful Republican in post-Trump Washington, calling Senate Minority Leader Mitch McConnell an “unsmiling political"
@@ -127,6 +127,22 @@ related:
       - url: "https://images.wsj.net/im-299178/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Graham weighs in on McConnell-Trump feud, says he's 'more worried’ about 2022 than ever"
+    excerpt: "S.C., voiced Mitch McConnell and Donald Trump have got to knock off the arguing for the future of the Republican Party."
+    publishedDateTime: 2021-02-17T04:26:00Z
+    webUrl: "https://www.foxnews.com/politics/lindsey-graham-trump-mitch-mcconnell-feud"
+    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-trump-mitch-mcconnell-feud.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-trump-mitch-mcconnell-feud.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 127
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/da97c52a-4bb1-48f9-b5cc-73cd7389b02d/ec27e3c1-79f8-44e2-b407-53aa5269e3fc/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "C9CelluHudqa9WmtpL9YxhSLEzrKywJkFTe7AadfMyfjmhrPyONlY6K5eoZ0jYyhDa8ifYM+VnOX3dcoHRY/phYoz5x/D7WiAKKBd77g3TLdJnGSgXX7ceu2XoLBO1BUUZMJ3m+EYnmp3sZzlVieRvETFHBHiSQXt2yuehzEfcuqCQ/nJslgk49aIZflKVwtUtKNcgoRRkU2Gf2YN+E31gFkB13R4Of+/JzwK0ei3Q2xyfjM5cUeU8A8cQJtFbFfCCKOX2QKu1bFMD7EKLPnmKuefqi3fKRWn399wGOIvXZ52PBp40ALBhxWPiSLS26KnYeCniRoOVTpIpE9invsDZVlRsLpwCMij4X+9+ekP3TsV9GlxBvSdVG1jT2AhA4zTZ41riNMxaJvJllyC2ExA491q/mT2UnoVpUTSBzGGsI1W4RFl9racLfYrM30H5btWjiryDA+PKuEFDRG/arUPofXZY4zMtAH1ovXSHa2oSLm9qtyPxq9Q2Xq5i8oLlDaHgVX+VjUhv/7AIG8FCjyzg==;WLICifBY/WS+3FKhUdJxtw=="

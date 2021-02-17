@@ -1,16 +1,16 @@
 ---
 category: news
 title: "Biden says he feels 'a sense of history' living at White House"
-excerpt: "President Joe Biden on Tuesday described the \"sense of history\" he feels residing at the White House and all the ways living in the historic building is an adjustment, including being waited on by White House staff."
-publishedDateTime: 2021-02-17T05:37:00Z
-originalUrl: "https://www.cnn.com/2021/02/17/politics/biden-life-white-house/index.html"
-webUrl: "https://www.cnn.com/2021/02/17/politics/biden-life-white-house/index.html"
+excerpt: "President Joe Biden on Tuesday described the \"sense of history\" he feels residing at the White House and all the ways living in the historic building is an adjustment, including being waited on by White House staff.\n    \n"
+publishedDateTime: 2021-02-17T05:37:42Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vW-UB_0SL3M/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vW-UB_0SL3M/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2021/02/17/politics/biden-life-white-house/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/17/politics/biden-life-white-house/index.html"
 type: article
-quality: 135
-heat: -1
-published: false
+quality: 175
+heat: 235
+published: true
 
 provider:
   name: CNN
@@ -22,7 +22,6 @@ provider:
 
 topics:
   - Election
-  - Joe Biden
   - Democratic Voice
 
 images:
@@ -64,7 +63,23 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Former Biden coronavirus advisers push White House to more widely recommend use of N95 masks"
+    excerpt: "Several members of President Joe Biden's former coronavirus advisory board are urging his administration to more widely recommend and mandate the use of N95 masks, citing a \"pressing and urgent need for action\" driven by the threat of new coronavirus variants.\n    \n"
+    publishedDateTime: 2021-02-17T12:48:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/svdc99aRyrM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/17/politics/biden-coronavirus-n95-masks/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/17/politics/biden-coronavirus-n95-masks/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210208202631-n-95-masks-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
-secured: "YTwVU6wTptddDLHwZ831X7Lh+pAnxzTR7KzYapKJCH2EIih2mv+he7oTJAkVXXaGHBetmvAf0hQGX89a13BRUJw/+3CcFYYO72lIhvcoG3a+058cWwaCpFjXMcX3heS9G/eJPX8X1rG/0WTToVDBCVERUOpf85WiJ+O3cJenTtMLTuGhUaxvBNuF5ZTVzdkGBIBVY/ZbqqaEnFX9V5CuNiJt/ovpoK+gyxQLdCCAb1veVpdipZSXQ1eT4C5iQ6cPPJlkPldazC8im7IcslPwm/dDf931xCMrKtUTy4wrIqR/ujEPyZEHovQzM/EtI4EGjQi2p/C7Az6CXcnbotEXwVmkO6mdlPcVGUeObrD6rS1V2AMfebfq2hd2f0TSEd2hzZorLsxuVtTSKg/xuOpJ4UH4STE1TGl8LZbWY+VAOqUqUN6VGPVxYIiHKIeMfzwgynqIOvdmIPt0/sWmMFqASOKt5fm7Dhm7Da+CvBKvVi0qx29WcQt9RFFZtvV+d5kDD67fEgFzGk46nobyBzyfaQ==;hn8E08sPGRC5LpW3MPLwdg=="
+secured: "UDsG3XygsEplwpbAqzOik4n0b/+LelymGq80+B6Ih0aBgELjwSth6Mz9euEQoGV4V1w355bwrxf4lOqebEByL52RJ4CC87sfShLpG/cVQsG71Inl7HzwwFVbPXTqFqnXVxGRhMFy5fLdKCzSy4H11QsekaTv5XQffIz5CEzLkvODYSphtF1kt2hLBOXVHviQ5mGsQD7tfd0jzkErNZIozNKudjYL2bDzKGGSJY0iU+EN9j6erCG/Jv9sjsX3wKQOlooFJP2DlNIQt0izqXSdK6rpIm5aRQnRM9ATkqZj/wgWXBQYNaEYACZ8teP8uOQBNUwfiJaPMUj09WvlFEXwnq1PsmkIfEmePe789fX5S98=;chP849zqxpXWNhqcCFCT8Q=="
 ---
 

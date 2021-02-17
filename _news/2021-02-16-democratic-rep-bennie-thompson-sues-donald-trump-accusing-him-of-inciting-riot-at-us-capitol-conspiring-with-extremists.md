@@ -95,22 +95,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "House Homeland Security chairman sues Trump and Giuliani, accusing them of inciting Capitol riot"
-    excerpt: "The lawsuit marks latest legal action challenging former president and invokes the 1871 Ku Klux Klan Act, which bars interference in Congress’ constitutional duties."
-    publishedDateTime: 2021-02-16T20:29:00Z
-    webUrl: "https://www.washingtonpost.com/local/legal-issues/lawsuit-trump-capitol-riot/2021/02/16/1695b6b0-6fd6-11eb-b8a9-b9467510f0fe_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/local/legal-issues/lawsuit-trump-capitol-riot/2021/02/16/1695b6b0-6fd6-11eb-b8a9-b9467510f0fe_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/legal-issues/lawsuit-trump-capitol-riot/2021/02/16/1695b6b0-6fd6-11eb-b8a9-b9467510f0fe_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 112
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/C6E3Y7SRBYI6XPNEMFNK57IFKU.jpg&w=1440"
-        width: 1440
-        height: 1853
-        isCached: true
   - title: "Impeachment managers to demonstrate Trump's 'lack of remorse' over Capitol riot – live"
     excerpt: "Impeachment managers to conclude prosecution, arguing Trump is guilty of ‘most grievous constitutional crime ever committed’ by a US president"
     publishedDateTime: 2021-02-11T16:51:00Z

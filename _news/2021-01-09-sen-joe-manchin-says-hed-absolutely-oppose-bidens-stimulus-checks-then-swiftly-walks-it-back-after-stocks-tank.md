@@ -59,6 +59,20 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Biden extends ban on home foreclosures"
+    excerpt: "Watch \"Biden extends ban on home foreclosures; White House says move will help over 10 million\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-02-17T12:17:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210217120807-biden-extends-ban-on-home-foreclosures-white-house-says-move-will-help-over-10-million/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/2014/10/24/81f260db-0e27-4cf7-83ac-a190dca0b384/slatedvr600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "fRYFpfnXMlaNtipOOdJf2pC9LwC9q8+M7h3gtYP1RtSVYJAfsvbP1SxlJ4EiwpSvWuPxOfbj5PpOTL4jKgOmVJaIlG+1Z+tPHikxkeH/f11zNAd/g6mAt2QehGNsITsn24ObLlVuKeuptaPAJ8LZ6JSzf7UG3qNYfIgZiL5bsGkqse20kkmMG6CJvTxDzVcQg9O97vLjN9Hx9ZLxsMjFQQBDO2pOqkws2yzmHK4EsXBnsPhguRfbXRykZkYSEAmg6Q00tUiXDh22QVxvKKahpKAdimrvmhCMX6B9i3F6IKvW1j7lnHR7BsbbyDMma4/mw3pZxLoWmJ4j2eXY+PwZYFRnUiMndGMRpGPFni+pf7c=;gT92/MbTYEjmwqPt9Y/hPw=="
 ---

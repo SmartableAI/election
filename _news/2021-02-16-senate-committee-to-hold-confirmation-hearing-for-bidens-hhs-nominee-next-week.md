@@ -159,6 +159,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden continues $15 federal minimum wage push"
+    excerpt: "President Joe Biden reaffirmed his support for raising the federal minimum wage -- gradually -- to $15 an hour at CNN's town hall on Tuesday.\n    \n"
+    publishedDateTime: 2021-02-17T05:04:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lf518bjJqMw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/17/politics/15-dollar-minimum-wage-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/17/politics/15-dollar-minimum-wage-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210208115626-01-minimum-wage-cbo-wages-deficit-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden opposes defunding the police. Here's what that means"
+    excerpt: "President Joe Biden said at a CNN town hall on Tuesday that he remains opposed to calls for \"defunding the police\" -- a rallying cry for activists seeking reforms in law enforcement.\n    \n"
+    publishedDateTime: 2021-02-17T05:29:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/M18rti5FCE8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/17/politics/defunding-police-biden-town-hall-trnd/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/17/politics/defunding-police-biden-town-hall-trnd/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210216230759-03-biden-town-hall-selects-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden says teachers should move up in vaccination line"
     excerpt: "President Joe Biden, no longer encumbered by his predecessor's impeachment trial and eager to seize the national spotlight, will bring the case for his massive coronavirus relief plan to the country on Tuesday when he participates in a CNN town hall at 9 p.m. ET in Milwaukee.\n    \n"
     publishedDateTime: 2021-02-17T02:54:04Z
@@ -220,6 +252,38 @@ related:
     quality: 172
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210205103040-biden-harris-schumer-stimulus-meeting-0203-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden brings compassion, centrism and big-time vaccine promise at CNN town hall"
+    excerpt: "As he gently told a traumatized 8-year-old girl, \"Don't be scared, honey. Don't be scared,\" Joe Biden showed that the days of presidential pandemic denial and indifference to America's suffering are over.\n    \n"
+    publishedDateTime: 2021-02-17T12:24:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hNZ-LsP30kU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/17/politics/biden-cnn-town-hall-vaccine/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/17/politics/biden-cnn-town-hall-vaccine/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210216230609-01-biden-town-hall-selects-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "These voters pressed Biden on key issues. Here's what they said about his answers."
+    excerpt: "President Joe Biden was pressed on a range of issues Tuesday evening as he fielded questions from voters during a CNN town hall in Milwaukee.\n    \n"
+    publishedDateTime: 2021-02-17T12:10:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YzHU21X6aBQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/17/politics/biden-town-hall-voters-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/17/politics/biden-town-hall-voters-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210114132612-file-02-joe-biden-november-2020-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -332,6 +396,22 @@ related:
     quality: 162
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106123403-04-merrick-garland-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "The first Biden-era vaccine against Covid-19 is moving toward market, but new bumps could trip up the big launch"
+    excerpt: "The Biden administration is relishing the chance to put its new-and-improved distribution program on display with the release of the forthcoming Johnson & Johnson vaccine, but problems are threatening a smooth rollout -- including a slower-than-expected production timeline and a lack of information about"
+    publishedDateTime: 2021-02-17T05:40:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OpuqNNO1ao8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/17/health/biden-jj-vaccine-bumps-in-the-road/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/17/health/biden-jj-vaccine-bumps-in-the-road/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 154
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210128222731-02-johnson-and-johnson-vaccine-trial-121520-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

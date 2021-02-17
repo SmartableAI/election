@@ -1,28 +1,34 @@
 ---
 category: news
-title: "Trump Lashes Out at McConnell in Deepening Feud Between Top Republicans"
+title: "Trump lashes out at McConnell in deepening feud between top Republicans"
 excerpt: "Former President Donald Trump lashed out at Senate Minority Leader Mitch McConnell on Tuesday, signaling a growing feud between the two most senior Republican voices after the party lost the White House and control of the Senate."
-publishedDateTime: 2021-02-17T07:23:00Z
-originalUrl: "https://www.usnews.com/news/top-news/articles/2021-02-16/trump-says-republicans-will-not-win-again-if-they-stick-with-hack-mcconnell"
-webUrl: "https://www.usnews.com/news/top-news/articles/2021-02-16/trump-says-republicans-will-not-win-again-if-they-stick-with-hack-mcconnell"
-ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-02-16/trump-says-republicans-will-not-win-again-if-they-stick-with-hack-mcconnell?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-02-16/trump-says-republicans-will-not-win-again-if-they-stick-with-hack-mcconnell?context=amp"
+publishedDateTime: 2021-02-17T11:07:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-trump-mcconnell-idUSKBN2AG2LL"
+webUrl: "https://www.reuters.com/article/us-usa-trump-mcconnell-idUSKBN2AG2LL"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AG2LL"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AG2LL"
 type: article
-quality: 55
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210216&t=2&i=1551774169&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1F1KA"
+    width: 900
+    height: 545
+    isCached: true
 
 related:
   - title: "Trump triumphant – but senior Republicans still see battles ahead"
@@ -265,6 +271,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Former Trump casino where stars played going out with a bang"
+    excerpt: "By mid-morning Wednesday, a spot on the Atlantic City Boardwalk where movie stars, athletes and rock stars used to party and a future president honed his instincts for bravado and hype will be reduced"
+    publishedDateTime: 2021-02-17T11:18:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/trump-casino-stars-played-bang-75939909"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/Lifestyle/WireAP_49778b8120a944ae8db449620e6ec9bc_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "120 anti-Trump Republicans are in talks to form a center-right 3rd party that would run on 'principled conservatism,' report says"
     excerpt: "The group includes former elected officials and people who served in Republican administrations, including Trump's."
     publishedDateTime: 2021-02-11T13:16:00Z
@@ -326,6 +346,6 @@ related:
         height: 630
         isCached: true
 
-secured: "fvzXtFKF5U2Oscvgn6fVRrjeYKCItGZBwtgXoCrUs1Qcazny+MfX/EVvf7njZs9hhxSKp0akj05NnCkOQEwp48ybw6KLkHbMseMGLSGKcDhXq7gUfh3TYtPTAQDkQBhZMR3tpBgYSbkiFMGQMtDvgvPQVVgKaHqPKLPS24sM/D1foMeHSzLdZGd1F0+VjwsdrMleM3Ta1vg8mIucdgnaozgoMSAcUVmqrUNP45e8bhqY0kARXTgxv+sdzUs1ikQ1gpsClZakcc/OhRrbl7KJ/I8mlIfwEcDzDrgf1O+5Xhjk6u7ayNIpNO1EDLY900AZV5hCm+RvIfZ9hLED8tmunMdrvbufY7jCa+IScz/+Ej9Y8ZTxjwwzPrwATjF0FJjzVbfr7W0VCmzd/1jSrm48dRIwUfFbXzSPh5mhyuycB5W3qT5tKaD+c/GieMR0JF5zOJ7SNvATKGcjV3Tj8QtuwWSAbBxbcw2N2Gj87/SUv90zRGdE0PO0eA32N2NVtemdBDPs6BWXgu9hBxLjgTtzyw==;8zT95NqYcFpG8qmxGghDZg=="
+secured: "uIF1miJueChDMqiSeSOr5iNuu8DzYt9TE3QAkH4AGSaOR7ZV1ZvgDinYRkZhwj3WQzaHV4v79cgYdxxC+p75upwPkqxPEqhUU8C+Esmw+Cqi5ba2hikn3EI35Gl9U2i1ivjn6GPhhmmjm1TLI8m9npjRVdsv7NH3NJKWxbLGCaBgJ4nc6jDnCg/4ACiYWOBNzUGyJui6NzXBPL2UPP+7khokNbBtBChF0feZ0uzcU+cFWAr/8NzN1npGoHUmiOps+ZnD3WKXfX+7Zx7qloJEbFz6/kQjMZhUnb0yF80UUbJFMO4wB5tSO40piudWf0sqOsheejWLMZOYoAjK58PnAYm3Vkhl8001mltUNgEddnw=;I1MhaheIRBSnCLKolg9Taw=="
 ---
 

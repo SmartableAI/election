@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/16/politics/biden-town-hall-february
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/16/politics/biden-town-hall-february/index.html"
 type: article
 quality: 173
-heat: 253
+heat: 273
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 171
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210216214118-11-biden-town-hall-0216-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden again rejects $50,000 student loan debt forgiveness plan pushed by other top Democrats"
+    excerpt: "President Joe Biden made it clear during Tuesday night's CNN town hall that he disagrees with other members of his party who want to cancel $50,000 of student debt per borrower.\n    \n"
+    publishedDateTime: 2021-02-17T05:04:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nQc6dADRbS4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/16/politics/student-loan-forgiveness-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/16/politics/student-loan-forgiveness-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210216213824-10-biden-town-hall-0216-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
