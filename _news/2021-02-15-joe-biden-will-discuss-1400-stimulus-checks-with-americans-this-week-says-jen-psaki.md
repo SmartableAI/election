@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "The Latest: Biden says Milwaukee is 'cold as the devil'"
+    excerpt: "President Joe Biden offered his administration’s assistance Tuesday in a call with at least seven governors of states impacted by severe winter weather this week"
+    publishedDateTime: 2021-02-17T01:09:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/latest-chicago-area-hit-foot-snow-75925210"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/latest-chicago-area-hit-foot-snow-75925210"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/latest-chicago-area-hit-foot-snow-75925210"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/WireAP_fec0c33ce3b34fcd99cb52a97f8c5648_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
 
 secured: "b6BRwLuInLEAm48gxPlzbPvuvDbcTLnCNdo04VLKmb4lI5EIcim1x7l2R4aCRoDAkxnUlflgmk1zZEWb4rNV/GjZ2DFn0nQoixYjY9RZFGcSmGVdwYaRSvH7H2Hm+au3VnkCDloP0wHi+aYGkLIhB8fDATmNXmNxBkUItkGXCH/L4xWBvZFbnl7FAI2DwD2yzUwwwKljVCa7h6a5rh6AuAXc/TKZSCNaWMmGRner/1Dk4Y6MPE3/+zs6xrVeQsEsw8dP6QiwNiKUWoKJjKtPRGAgY0KsBKDbc7RkYCeSAz7HW4kDY4sCQBZlS61LxxvMJ8priqSHh7tTbwNjQLd2qgtBf3JQIFtyNucexDdm+D0=;ipXjtNZMYRTcJcIl0E/E+Q=="
 ---

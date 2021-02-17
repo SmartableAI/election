@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/mcconnell-trump-2022-senate-electio
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-trump-2022-senate-elections-republicans.amp"
 type: article
 quality: 167
-heat: 267
+heat: 287
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Graham weighs in on McConnell-Trump feud, says he's 'more worried’ about 2022 than ever"
+    excerpt: "Sen. Lindsey Graham, R-S.C., voiced Mitch McConnell and Donald Trump have got to knock off the arguing for the future of the Republican Party."
+    publishedDateTime: 2021-02-17T04:20:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GzFk8jDMefk/lindsey-graham-trump-mitch-mcconnell-feud"
+    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-trump-mitch-mcconnell-feud.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-trump-mitch-mcconnell-feud.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/da97c52a-4bb1-48f9-b5cc-73cd7389b02d/ec27e3c1-79f8-44e2-b407-53aa5269e3fc/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump Criticizes McConnell, Calling Him a ‘Political Hack’"
     excerpt: "Former President Donald Trump criticized Mitch McConnell following the Senate minority leader’s blistering condemnation of Mr. Trump’s actions leading up to the Jan. 6 Capitol riot."
     publishedDateTime: 2021-02-16T22:29:00Z

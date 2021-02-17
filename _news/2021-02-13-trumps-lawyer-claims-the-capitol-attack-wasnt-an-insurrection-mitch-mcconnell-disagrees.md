@@ -111,6 +111,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Fact check: Yes, McConnell said Trump was 'practically and morally responsible' for Capitol riot"
+    excerpt: "Posts are accurate in claiming that Sen. Mitch McConnell blamed former President Donald Trump for the Capitol riot but voted for acquittal."
+    publishedDateTime: 2021-02-17T03:16:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2021/02/16/fact-check-mcconnell-said-trump-was-responsible-for-capitol-riot/6767311002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6767311002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6767311002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 112
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/14/USAT/6019584a-0da2-45ab-a03a-6bdba186c1ed-GTY_1301995912.jpg?auto=webp&crop=1969,1108,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Pelosi called McConnell 'pathetic' after he said he wouldn't vote to convict Trump for inciting Capitol riot"
     excerpt: "Pelosi said McConnell postponed Trump's impeachment trial, and then voted for his acquittal because the trial occurred after Trump left office."
     publishedDateTime: 2021-02-14T14:11:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/anthony-fauci-kamala-harris-startin
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/anthony-fauci-kamala-harris-starting-from-scratch-covid-vaccine-rollout.amp"
 type: article
 quality: 193
-heat: 213
+heat: 233
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Kamala Harris On COVID Response: \"In Many Ways, We Are Starting From Scratch\""
+    excerpt: "Vice President Kamala Harris discusses the current administration's approach to the COVID-19 crisis in an interview with Mike Allen on \"Axios\" on HBO: \"There was no national strategy or plan for vaccinations,"
+    publishedDateTime: 2021-02-16T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/02/16/kamala_harris_on_covid_response_in_many_ways_we_are_starting_from_scratch.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/02/16/kamala_harris_on_covid_response_in_many_ways_we_are_starting_from_scratch.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/02/16/kamala_harris_on_covid_response_in_many_ways_we_are_starting_from_scratch.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 82
+    images:
+      - url: "https://assets.realclear.com/images/53/535412.jpg"
+        width: 1370
+        height: 1026
         isCached: true
 
 secured: "nZ7XiH37ECTv7VcjxCZt7XXSX/AT+7W7jVBbnNl4opUPohanaSBKRfpM0LkEeqPurF3fr2KDbdALDzsPTkBZs2Kga7R326wt5VrWKckIAQnOtvdn35ha6e3d5+f75h87lqCXA6zcrqu2nPnY5Nt/AMnVpvAFspA9Dh5jfY7dY9etf7n74JGXY7GZtmr8+vORqDPTDOs097uuTQapac7jJ+VVZsDRJFxYyppVYaSINCUj0tBX58trGDte0xTX5cegbXRIw1UW5MYL5yAFV1epbGTg9DTDErgvTyEiY+9o1OvwtgM/3TMycPkGoXU6KmKlaZy6YGkuSmu8Yh9AQV6MLWqfMIYyEgU2d+Ux+7L6Qq8=;ceLmdBcAsRsYt9RaqRBijg=="

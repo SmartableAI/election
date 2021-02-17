@@ -2,6 +2,110 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-01-31-deal-or-no-deal-virus-aid-tests-biden-work-together-plea.md",
+      "title": "Deal or no deal: Virus aid tests Biden 'work together' plea",
+      "excerpt": "Joe Biden pitched himself during the presidential campaign as someone who could “get people working together” and lower the temperature in a Washington overheated by Donald Trump",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/deal-deal-virus-aid-tests-biden-work-plea-75594577",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/deal-deal-virus-aid-tests-biden-work-plea-75594577",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_978237717c6d4baba3ceefba96afa20d_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/deal-deal-virus-aid-tests-biden-work-plea-75594577",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/deal-deal-virus-aid-tests-biden-work-plea-75594577",
+      "publishedDateTime": "2021-01-31T05:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-01-31-grow-a-pair-marjorie-taylor-greene-and-mitt-romney-spar-over-trump-call.md",
+      "title": "'Grow a Pair': Marjorie Taylor Greene and Mitt Romney Spar Over Trump Call",
+      "excerpt": "Embattled Congresswoman Marjorie Taylor Greene of Georgia and Senator Mitt Romney of Utah traded jabs on Twitter Saturday after Greene said that former President Donald Trump voiced his support for her during a phone call.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/grow-pair-marjorie-taylor-greene-mitt-romney-spar-over-trump-call-1565614",
+      "originalUrl": "https://www.newsweek.com/grow-pair-marjorie-taylor-greene-mitt-romney-spar-over-trump-call-1565614",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1720911/marjorie-taylor-green-capitol-hill.jpg",
+          "width": 2500,
+          "height": 1822,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/grow-pair-marjorie-taylor-greene-mitt-romney-spar-over-trump-call-1565614?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/grow-pair-marjorie-taylor-greene-mitt-romney-spar-over-trump-call-1565614?amp=1",
+      "publishedDateTime": "2021-01-30T18:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-31-analysis-copying-franklin-d-roosevelt-president-joe-biden-wanted-a-fast-start-now-comes-the-hard-part.md",
       "title": "Analysis: Copying Franklin D. Roosevelt, President Joe Biden wanted a fast start. Now comes the hard part.",
       "excerpt": "Biden has now signed about 45 executive orders, memorandums or proclamations enacting or at least initiating major policy shifts on a wide array of issues, including the coronavirus pandemic, racial justice,",
@@ -1256,114 +1360,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-biden-taps-iran-envoy-to-face-challenges-of-confronting-both-tehran-and-polarized-views-at-home.md",
-      "title": "Biden taps Iran envoy to face challenges of confronting both Tehran and polarized views at home",
-      "excerpt": "The Biden administration has tapped Robert Malley, a progressive foreign policy expert who served on the Obama administration's negotiating team for the Iran nuclear deal, as its new top envoy for Iran.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JXxUB8oA6-w/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JXxUB8oA6-w/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 223,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210129111003-restricted-file-robert-malley-2017-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/29/politics/rob-malley-iran-envoy/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/29/politics/rob-malley-iran-envoy/index.html",
-      "publishedDateTime": "2021-01-29T08:24:43-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-30-new-georgia-runoffs-data-finds-that-more-black-voters-than-usual-came-out-trump-voters-stayed-home.md",
-      "title": "New Georgia runoffs data finds that more Black voters than usual came out. Trump voters stayed home.",
-      "excerpt": "Our analysis finds two notable patterns that could account for the wins: high turnout among Black voters and low turnout in the predominantly White and rural precincts that had supported incumbent President Donald Trump — where voters were more likely to believe Trump’s baseless allegations of electoral fraud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2021/01/29/new-georgia-runoffs-data-finds-that-more-black-voters-than-usual-came-out-trump-voters-stayed-home/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2021/01/29/new-georgia-runoffs-data-finds-that-more-black-voters-than-usual-came-out-trump-voters-stayed-home/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2ESU4GC3RQI6XKCJN6KCHJ277U.jpg&w=1440",
-          "width": 1440,
-          "height": 936,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/01/29/new-georgia-runoffs-data-finds-that-more-black-voters-than-usual-came-out-trump-voters-stayed-home/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/29/new-georgia-runoffs-data-finds-that-more-black-voters-than-usual-came-out-trump-voters-stayed-home/?outputType=amp",
-      "publishedDateTime": "2021-01-29T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

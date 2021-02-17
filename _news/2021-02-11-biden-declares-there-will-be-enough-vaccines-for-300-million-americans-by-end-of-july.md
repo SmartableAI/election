@@ -143,6 +143,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "6 takeaways from Joe Biden's CNN town hall"
+    excerpt: "President Joe Biden took part in his first town hall since entering the White House last month, answering questions from CNN's Anderson Cooper (and audience members) in Milwaukee, Wisconsin.\n    \n"
+    publishedDateTime: 2021-02-17T04:14:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wLNxlOJCNUo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/16/politics/joe-biden-town-hall-takeaways/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/16/politics/joe-biden-town-hall-takeaways/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210216213824-10-biden-town-hall-0216-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden says teachers should move up in vaccination line"
     excerpt: "President Joe Biden, no longer encumbered by his predecessor's impeachment trial and eager to seize the national spotlight, will bring the case for his massive coronavirus relief plan to the country on Tuesday when he participates in a CNN town hall at 9 p.m. ET in Milwaukee.\n    \n"
     publishedDateTime: 2021-02-17T02:54:04Z

@@ -47,22 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "White House now says Biden 'will not rest until every school is open five days a week' "
-    excerpt: "White House press secretary Jen Psaki said Thursday that President Joe Biden's goal is to have schools open five days a week in-person, but stressed the administration would follow the guidance of science and medical experts on how to safely reopen.\n    \n"
-    publishedDateTime: 2021-02-11T19:15:54Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HmWWuAHjODM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/11/politics/biden-schools-five-days-a-week/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/11/politics/biden-schools-five-days-a-week/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 167
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210208120046-02-wh-briefing-0208-psaki-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
 
 secured: "6BfrRYzWgNMzxahoG7UBmvFElASZPBWpDnmw5ubCoqF3B3AOB0ixKnRrCl6SvEm6rxSq2Xopt1PzTD0fylLvWjuiU3sZ6fI/U96jLCJ04qnJGUQyWIDzP4XwrLUKNt4LU6tGdPXDmSgovNn8+W7OvP2vJpTauoOkznjcIFwf4HwhD8gFuJZH1bDB454iolQ2QTqwrxU6laDrRvHm66ubJDIi7BxYyWcKWMbf7NYbFb77GTJN0qRWEAAOjbFKCYdMJ55v/ArTPCD1k/0erAbSgWk00eVvVA+KwxyaR7guXNy6YpJTYbtjZfshNwe5vNsrnfqjdNvQdiWZmNyRS15LSE7j6DchRhZ5pRXjRLaKFlw=;0dIXI9HK6rP07K6NYGX0ug=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/biden-order-reestablishes-fa
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-order-reestablishes-faith-focused-white-house-office/2021/02/14/17fe6700-6ee0-11eb-8651-6d3091eac63f_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 445
+heat: 465
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_d81b3879bfd9430a9155b21ede88112c_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Biden vows to make 600m vaccine doses available by end of July"
+    excerpt: "President calls for teachers to be vaccinated sooner as he describes plans for tackling Covid-19 in televised town hall"
+    publishedDateTime: 2021-02-17T04:14:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/feb/16/joe-biden-coronavirus-town-hall-stimulus"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/16/joe-biden-coronavirus-town-hall-stimulus"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/16/joe-biden-coronavirus-town-hall-stimulus"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/f73513ffb17743b06f977868a906464f109e377e/0_0_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1bea28b6a7a57c6b9368042221a016b7"
+        width: 600
+        height: 360
         isCached: true
   - title: "VIRUS TODAY: President Biden extends ban on foreclosures"
     excerpt: "President Joe Biden is extending a ban on housing foreclosures to June 30 to help homeowners struggling during the coronavirus pandemic"

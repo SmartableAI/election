@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/13/politics/trump-pence-capitol-riot
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/trump-pence-capitol-riot/index.html"
 type: article
 quality: 192
-heat: 1332
+heat: 1352
 published: true
 
 provider:
@@ -933,6 +933,20 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/3958f2f0-6f0e-4fe2-bd60-aba613f31b42/b477caa0-9be7-45cc-97d1-5ee053590be6/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Leading House Democrat sues Donald Trump under a post-Civil War law for conspiracy to incite US Capitol riot"
+    excerpt: "Former President Donald Trump and attorney Rudy Giuliani are being accused of conspiring with the far-right groups Proud Boys and Oath Keepers to incite the January 6 insurrection in a civil lawsuit filed Tuesday in federal court by the Democratic chairman of the House Homeland Security Committee."
+    publishedDateTime: 2021-02-16T21:35:00Z
+    webUrl: "https://www.cnn.com/2021/02/16/politics/capitol-lawsuit-trump-giuliani-proud-boys-oath-keepers/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 96
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210113114115-03-trump-dc-rally-0106-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "JhYfMmvL4owbzcMzsnlMS+I2MwaXZNl7no0iU6q4AqiKpiTOLDyGVPcQKST0Q4lOaPEPkaMv15/Koz8pkWhZC0n5as58hAcdo6dTyK6b8Ai0IGm3cctrtwRUqcBgd7HwHM3UiThXJouoTv0KnSxarJVKhVOlUg/rz5wfuKnZ8Tp/YL40etvwoImJlwTI36m38aTCNBQdnZ5SLnczH8olMWo+h8oHgeJ/Knl9Yumn9ES89lq4KkX3anp7+DNZbUPjkmD1G2f4Vg5I31S65Q2EkLP0kRDv4dtxh60dQ4ys2lOJUFlbc+YwDy8r+bST5Cu+9mDYz5pi2PBsF+CCZfTXumv/KpTa1pcdHEoV55BIo0g=;mer02xlXHeV8WPnTwYKNHg=="

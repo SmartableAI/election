@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-mcconnel
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-mcconnell-gop-divide-20210217-yttnnj67wreb3lraurreksn2jy-story.html?outputType=amp"
 type: article
 quality: 121
-heat: 321
+heat: 341
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://i.insider.com/6026e713b3c2a800183ccb49?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Fact check: Yes, McConnell said Trump was 'practically and morally responsible' for Capitol riot"
+    excerpt: "Posts are accurate in claiming that Sen. Mitch McConnell blamed former President Donald Trump for the Capitol riot but voted for acquittal."
+    publishedDateTime: 2021-02-17T03:16:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2021/02/16/fact-check-mcconnell-said-trump-was-responsible-for-capitol-riot/6767311002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6767311002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6767311002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 112
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/14/USAT/6019584a-0da2-45ab-a03a-6bdba186c1ed-GTY_1301995912.jpg?auto=webp&crop=1969,1108,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Pelosi called McConnell 'pathetic' after he said he wouldn't vote to convict Trump for inciting Capitol riot"
     excerpt: "Pelosi said McConnell postponed Trump's impeachment trial, and then voted for his acquittal because the trial occurred after Trump left office."

@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden reassures 2nd grader afraid of getting Covid-19: 'Don't be scared, honey'"
+    excerpt: "President Joe Biden at a Tuesday CNN town hall sought to reassure a second grader worried about getting Covid-19, telling her that young children are the \"safest group of people in the whole world.\"\n    \n"
+    publishedDateTime: 2021-02-17T04:02:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ETLhksVqyzw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/16/politics/biden-town-hall-coronavirus-second-grader/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/16/politics/biden-town-hall-coronavirus-second-grader/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210216214118-11-biden-town-hall-0216-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "White House relaunches Snapchat account with a Covid-focused message from Biden and Fauci"
     excerpt: "The White House is relaunching its official Snapchat account on Tuesday, featuring a message from President Joe Biden focused on Covid-19.\n    \n"
     publishedDateTime: 2021-02-16T23:17:13Z

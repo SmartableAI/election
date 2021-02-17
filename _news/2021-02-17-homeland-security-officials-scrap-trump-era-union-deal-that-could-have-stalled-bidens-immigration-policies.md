@@ -443,6 +443,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Twitter Reacts To Kamala Harris 'Starting From Scratch' Vaccine Comment: 'Liar'"
+    excerpt: "Twitter users called out Vice President Kamala Harris for saying the Biden administration is \"starting from scratch\" on COVID-19 vaccinations."
+    publishedDateTime: 2021-02-17T02:50:00Z
+    webUrl: "https://www.ibtimes.com/twitter-reacts-kamala-harris-starting-scratch-vaccine-comment-liar-3146574"
+    ampWebUrl: "https://www.ibtimes.com/twitter-reacts-kamala-harris-starting-scratch-vaccine-comment-liar-3146574?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-reacts-kamala-harris-starting-scratch-vaccine-comment-liar-3146574?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 71
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/21/kamala-harris-is-sworn-in-as-vice-president.jpg"
+        width: 1024
+        height: 736
+        isCached: true
   - title: "Biden on Trump Trial: 'Some Minds May Have Been Changed'"
     excerpt: "The president said he did not watch Donald Trump’s Senate trial but has seen news coverage and suspects that 'some minds may have been changed.'"
     publishedDateTime: 2021-02-11T16:51:00Z
@@ -469,6 +485,6 @@ related:
         height: 400
         isCached: true
 
-secured: "syXK40auXrEOg/I4mPUsWyq+ifkJtxCfS6oBgGLlYQC0Y+pLPpZP1JpHpqs2kTnbnwjnxf2tDtSy+bUfnngCclLEWY/XTUnV7KLCMIIANMKdFczNRECTt/Vvct5CLQ/nJsinrxBQZwHMPY1Pu4i13yrCOjsIRrSbAsglCzKKpNubl+OlDfLxBSb/AOk1euyFdKOidUAMPwGlveoUcrfOPVacntu00lEXKFsT4zB6llUzhUT505lRvQ36xAttjmkpPkfs1ac2WxDV58d9nTmW5Z9Yv0INvLf/qPvRPRSe8MCnAkBGcd2G3y+b6JIOAKafsfhvetSDb/qE9Z6NI8pPpveOdFoQrOpuvNH54Fo0cuM=;Ke3tWo17mOfiR71f5Tar5A=="
+secured: "Km9/Kt/017Olfo6UznXBkfIoRRtFZKfbKFU08tQm7DpEWDpgSPFGSNT66uphb/tnxeVHDbmJmShX3uN8RY778ImmMt+gCop//TSqUQoqhMFX/4KH27kl5mHcgMG9YRqRghJKrgAEA1BQv4aTnwcPaGy05cw+e52PH0J3O2yVxnmorFImrK4z7Sevw3wiqtUh6CYLmfNe3ypdQ3xt4wr8aDmFrILeWbvHdh4Tt971Y41CRKLmeIcP2a3mwSweJkeONig4kzmtJr1VETppNXC5GDIaGgelbw4ZVuyrZqfu0AD0lPJEycHxK8shSDxXI0jro3td0Y3ubZdc3p0lEh9L+pmiRRHOfZzH0lqo8WqsJ2yBnm1EJHs3CPr2DwRlqdkJS6EUw1bAfKK0wepF/CvEMO6sICa/6YCC46KLszjCieLya244033IDmS3l7rrL5nC5zjG+CCFvpb7BS4cTdzbtk+ljPBatrYdCHVGM2dFhycEzj98CFxWc48v5uNTY7zpIDGWSd7+xhf8+KTSxVdhHw==;fjwKlfEZBAt9EkynogiL6Q=="
 ---
 

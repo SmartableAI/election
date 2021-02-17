@@ -48,6 +48,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Kamala Harris On COVID Response: \"In Many Ways, We Are Starting From Scratch\""
+    excerpt: "Vice President Kamala Harris discusses the current administration's approach to the COVID-19 crisis in an interview with Mike Allen on \"Axios\" on HBO: \"There was no national strategy or plan for vaccinations,"
+    publishedDateTime: 2021-02-16T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/02/16/kamala_harris_on_covid_response_in_many_ways_we_are_starting_from_scratch.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/02/16/kamala_harris_on_covid_response_in_many_ways_we_are_starting_from_scratch.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/02/16/kamala_harris_on_covid_response_in_many_ways_we_are_starting_from_scratch.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 82
+    images:
+      - url: "https://assets.realclear.com/images/53/535412.jpg"
+        width: 1370
+        height: 1026
+        isCached: true
 
 secured: "injyUJuuZOxrFlgGNy/El6cG8uKXQCRvtSK6AdU6GLg/CucnpDZcJmgustsVZRfKC5CWypR6Uafn6KzvIdZAS2U4hOEEtfA0O3tkqqkLDOW4BUNuP79rMkYsRBGCJ8zEXfnE07lXv49bSagptwxSb5BMkeBAHzJATr1XAbSsmxGdzm753qPZ7bQKybaqrpgtrPOVut739xhRw8n9itONjsxMN9riHEI7n48lu3IXYtydGFHNs9CvUBWV+nv+NchUo9L69Cq/S6n1M9CnWX5SNSE6CCUvc4Fiyn6bhl8is/zsEjp4xPSod7r95kFpJY2JPrTxVrH/90WzMr/YgK7ebxya9OmmqxnNxYMvQQEpP0o=;mpGbLJkFOIZGcJ7VuF2D3g=="
 ---

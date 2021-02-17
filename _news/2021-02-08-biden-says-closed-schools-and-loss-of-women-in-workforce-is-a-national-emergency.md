@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/08/politics/biden-schools-women-work
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/08/politics/biden-schools-women-workforce-emergency/index.html"
 type: article
 quality: 169
-heat: 209
+heat: 189
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "White House now says Biden 'will not rest until every school is open five days a week' "
-    excerpt: "White House press secretary Jen Psaki said Thursday that President Joe Biden's goal is to have schools open five days a week in-person, but stressed the administration would follow the guidance of science and medical experts on how to safely reopen.\n    \n"
-    publishedDateTime: 2021-02-11T19:15:54Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HmWWuAHjODM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/11/politics/biden-schools-five-days-a-week/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/11/politics/biden-schools-five-days-a-week/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 167
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210208120046-02-wh-briefing-0208-psaki-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Sanders, Ocasio-Cortez, and Blumenauer unveil bill pushing Biden to declare national climate emergency: 'We are out of time'"
     excerpt: "Three progressive lawmakers introduced legislation Thursday that would require President Joe Biden to declare a national climate emergency, arguing that the US is \"out of time and excuses\" to deal with the climate crisis.\n    \n"
     publishedDateTime: 2021-02-04T18:05:15Z

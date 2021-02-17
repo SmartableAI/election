@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/fact-check-joe-biden-responsible-rising-cos
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fact-check-joe-biden-responsible-rising-cost-insulin-1569045?amp=1"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "UPDATE 1-Biden pushes for pandemic relief in first official trip as president"
+    excerpt: "President Joe Biden vowed during a prime-time televised town hall on Tuesday to accelerate the country's vaccination program and said teachers should be moved closer to the front of the line for inoculations to allow more schools to reopen."
+    publishedDateTime: 2021-02-17T02:56:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden/update-1-biden-pushes-for-pandemic-relief-in-first-official-trip-as-president-idUSL1N2KM2OI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AG13B"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AG13B"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210217&t=2&i=1551800579&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1G071"
+        width: 777
+        height: 545
+        isCached: true
   - title: "President Biden extends mortgage relief, ban on home foreclosures through June"
     excerpt: "The foreclosure moratorium for homeowners was set to expire March 31. It will now continue for three more months."
     publishedDateTime: 2021-02-16T18:11:00Z

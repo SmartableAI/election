@@ -143,6 +143,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "6 takeaways from Joe Biden's CNN town hall"
+    excerpt: "President Joe Biden took part in his first town hall since entering the White House last month, answering questions from CNN's Anderson Cooper (and audience members) in Milwaukee, Wisconsin.\n    \n"
+    publishedDateTime: 2021-02-17T04:14:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wLNxlOJCNUo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/16/politics/joe-biden-town-hall-takeaways/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/16/politics/joe-biden-town-hall-takeaways/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210216213824-10-biden-town-hall-0216-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden speaks with Chinese President Xi Jinping for first time as President"
     excerpt: "President Joe Biden spoke with China's President Xi Jinping late Wednesday, according to a senior administration official, their first call since Biden took office.\n    \n"
     publishedDateTime: 2021-02-11T02:39:57Z

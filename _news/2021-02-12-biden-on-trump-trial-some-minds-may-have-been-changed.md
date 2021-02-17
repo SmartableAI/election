@@ -453,6 +453,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Twitter Reacts To Kamala Harris 'Starting From Scratch' Vaccine Comment: 'Liar'"
+    excerpt: "Twitter users called out Vice President Kamala Harris for saying the Biden administration is \"starting from scratch\" on COVID-19 vaccinations."
+    publishedDateTime: 2021-02-17T02:50:00Z
+    webUrl: "https://www.ibtimes.com/twitter-reacts-kamala-harris-starting-scratch-vaccine-comment-liar-3146574"
+    ampWebUrl: "https://www.ibtimes.com/twitter-reacts-kamala-harris-starting-scratch-vaccine-comment-liar-3146574?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-reacts-kamala-harris-starting-scratch-vaccine-comment-liar-3146574?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 71
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/21/kamala-harris-is-sworn-in-as-vice-president.jpg"
+        width: 1024
+        height: 736
+        isCached: true
   - title: "Vice President Kamala Harris Emphasizes Speed and Equity in Response to COVID-19 Crisis"
     excerpt: "In Harris’ first national sit-down interview since becoming vice president, she discusses her focus on an equitable response to the COVID-19 crisis with 19th editor-at-large Errin Haines."
     publishedDateTime: 2021-02-12T17:04:00Z

@@ -31,35 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Biden says closed schools and loss of women in workforce is a 'national emergency'"
-    excerpt: "President Joe Biden said in an interview aired Sunday it was a \"national emergency\" that many students have been kept out of classrooms and that there has been a staggering loss of women in the workforce because of the coronavirus pandemic.\n    \n"
-    publishedDateTime: 2021-02-08T16:46:42Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/x1bznthlNf4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/08/politics/biden-schools-women-workforce-emergency/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/08/politics/biden-schools-women-workforce-emergency/index.html"
+  - title: "Biden says he's spoken with all of his predecessors 'with one exception'"
+    excerpt: "President Joe Biden on Tuesday reflected on the \"sense of history\" he feels as a new resident of the White House and suggested he has spoken with his predecessors, but cited one notable exception.\n    \n"
+    publishedDateTime: 2021-02-17T03:45:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/e9Yv3eOwbgg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/16/politics/biden-trump-presidency/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/16/politics/biden-trump-presidency/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 169
+    quality: 174
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210205214008-02-biden-0205-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Sanders, Ocasio-Cortez, and Blumenauer unveil bill pushing Biden to declare national climate emergency: 'We are out of time'"
-    excerpt: "Three progressive lawmakers introduced legislation Thursday that would require President Joe Biden to declare a national climate emergency, arguing that the US is \"out of time and excuses\" to deal with the climate crisis.\n    \n"
-    publishedDateTime: 2021-02-04T18:05:15Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AzSqYukDp3M/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/04/politics/sanders-aoc-climate-change-emergency-bill/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/04/politics/sanders-aoc-climate-change-emergency-bill/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 148
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210204113752-bernie-sanders-aoc-2019-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210216220131-15-biden-town-hall-0216-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

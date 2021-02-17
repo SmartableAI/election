@@ -453,6 +453,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Twitter Reacts To Kamala Harris 'Starting From Scratch' Vaccine Comment: 'Liar'"
+    excerpt: "Twitter users called out Vice President Kamala Harris for saying the Biden administration is \"starting from scratch\" on COVID-19 vaccinations."
+    publishedDateTime: 2021-02-17T02:50:00Z
+    webUrl: "https://www.ibtimes.com/twitter-reacts-kamala-harris-starting-scratch-vaccine-comment-liar-3146574"
+    ampWebUrl: "https://www.ibtimes.com/twitter-reacts-kamala-harris-starting-scratch-vaccine-comment-liar-3146574?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-reacts-kamala-harris-starting-scratch-vaccine-comment-liar-3146574?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 71
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/21/kamala-harris-is-sworn-in-as-vice-president.jpg"
+        width: 1024
+        height: 736
+        isCached: true
   - title: "Biden on Trump Trial: 'Some Minds May Have Been Changed'"
     excerpt: "The president said he did not watch Donald Trump’s Senate trial but has seen news coverage and suspects that 'some minds may have been changed.'"
     publishedDateTime: 2021-02-11T16:51:00Z

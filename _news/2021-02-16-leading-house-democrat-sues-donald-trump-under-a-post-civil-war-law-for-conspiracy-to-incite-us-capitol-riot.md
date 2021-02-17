@@ -933,6 +933,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Leading House Democrat sues Donald Trump under a post-Civil War law for conspiracy to incite US Capitol riot"
+    excerpt: "Former President Donald Trump and attorney Rudy Giuliani are being accused of conspiring with the far-right groups Proud Boys and Oath Keepers to incite the January 6 insurrection in a civil lawsuit filed Tuesday in federal court by the Democratic chairman of the House Homeland Security Committee."
+    publishedDateTime: 2021-02-16T21:35:00Z
+    webUrl: "https://www.cnn.com/2021/02/16/politics/capitol-lawsuit-trump-giuliani-proud-boys-oath-keepers/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 96
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210113114115-03-trump-dc-rally-0106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "jB3h5Zw9HTOBFaJfxVO7mn40c6CAR5nP/7Uwy6w+sXllI0hL+3OO3nJyD2iMhj1ys8mYsxemVpW4yNyBrIMLxAk5aOI3wL9QT/P4nSfAtWK0kJEuQ6Pc4UStglFC4F1/zj7rNzJYVDLG/++VPhitYcANPESLPD9bZP3eCuIGpZR/eMb4gy3TQoBH2/9wSL519yaGy4FLi2IAgRzmU7VK1DxXcLkF5uBZwl1AFgZhJryxLXQ2gcyzJ7PM8dsXnLcpq+qWu7P0EljFm+H7h03ybZ0g8j5oaO++iVDPRzAE/y6omZkqbC1jHYq5iyajD+K+UYmDr/06X01BiuSfMHzlOxtMz3xFYUUzTVlbAheVTQU=;+tUfKIcMx8eGD0yzEblEWQ=="
 ---
