@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "McConnell's plan to deal with Trump: Ignore him"
+    excerpt: "Senate Minority Leader Mitch McConnell had an instant reaction when seeing the lengthy attack he endured from former President Donald Trump.\n    \n"
+    publishedDateTime: 2021-02-17T22:02:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/x6t1KTdznyo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/17/politics/mitch-mcconnell-donald-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/17/politics/mitch-mcconnell-donald-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201216121723-02-mcconnell-trump-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Louisiana Republican Party censures Cassidy following vote to convict Trump "
     excerpt: "The Louisiana Republican Party swiftly moved Saturday to censure GOP Sen. Bill Cassidy after he voted earlier in the day to convict former President Donald Trump in his second impeachment trial.\n    \n"
     publishedDateTime: 2021-02-14T01:53:27Z

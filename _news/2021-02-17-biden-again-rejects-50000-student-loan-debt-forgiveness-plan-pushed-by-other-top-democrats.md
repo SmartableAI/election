@@ -79,6 +79,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact check: Biden makes at least four false statistical claims at CNN town hall"
+    excerpt: "President Joe Biden took questions from Wisconsin residents and from Anderson Cooper at a CNN town hall event in Milwaukee on Tuesday night.\n    \n"
+    publishedDateTime: 2021-02-17T21:10:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cRO9cUbdtzw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/17/politics/fact-check-biden-cnn-town-hall-anderson-cooper-milwaukee/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/17/politics/fact-check-biden-cnn-town-hall-anderson-cooper-milwaukee/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210216213824-10-biden-town-hall-0216-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden son-in-law faces conflicts of interest concerns following coronavirus response investments"
+    excerpt: "The White House has pledged to bar President Joe Biden's family from using the office for personal gain, but questions are being raised by good governance groups and news outlets about whether an investment firm co-founded by Biden's son-in-law could present a new set of ethical challenges for the administration.\n"
+    publishedDateTime: 2021-02-10T17:54:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7inrCkSsNj0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/10/politics/joe-biden-howard-krein-startup-health/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/10/politics/joe-biden-howard-krein-startup-health/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210205130625-joe-biden-february-5-2021-01-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "White House relaunches Snapchat account with a Covid-focused message from Biden and Fauci"
     excerpt: "The White House is relaunching its official Snapchat account on Tuesday, featuring a message from President Joe Biden focused on Covid-19.\n    \n"
     publishedDateTime: 2021-02-16T23:17:13Z

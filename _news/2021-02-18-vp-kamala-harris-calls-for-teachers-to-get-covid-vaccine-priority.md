@@ -2,26 +2,30 @@
 category: news
 title: "V.P. Kamala Harris calls for teachers to get COVID vaccine priority"
 excerpt: "We all want schools to reopen… All of us with children in our lives, they want to back to school…Teachers want to teach,” Harris said."
-publishedDateTime: 2021-02-17T18:04:00Z
-originalUrl: "https://www.baltimoresun.com/news/nation-world/ny-covid-schools-vp-kamala-harris-20210217-gtekyx3b2vhj7k26hqz3uiscce-story.html"
-webUrl: "https://www.baltimoresun.com/news/nation-world/ny-covid-schools-vp-kamala-harris-20210217-gtekyx3b2vhj7k26hqz3uiscce-story.html"
-ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ny-covid-schools-vp-kamala-harris-20210217-gtekyx3b2vhj7k26hqz3uiscce-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ny-covid-schools-vp-kamala-harris-20210217-gtekyx3b2vhj7k26hqz3uiscce-story.html?outputType=amp"
+publishedDateTime: 2021-02-17T17:02:00Z
+originalUrl: "https://www.chicagotribune.com/nation-world/ny-covid-schools-vp-kamala-harris-20210217-gtekyx3b2vhj7k26hqz3uiscce-story.html"
+webUrl: "https://www.chicagotribune.com/nation-world/ny-covid-schools-vp-kamala-harris-20210217-gtekyx3b2vhj7k26hqz3uiscce-story.html"
+ampWebUrl: "https://www.chicagotribune.com/nation-world/ny-covid-schools-vp-kamala-harris-20210217-gtekyx3b2vhj7k26hqz3uiscce-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ny-covid-schools-vp-kamala-harris-20210217-gtekyx3b2vhj7k26hqz3uiscce-story.html?outputType=amp"
 type: article
-quality: 75
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: The Baltimore Sun
-  domain: baltimoresun.com
+  name: Chicago Tribune
+  domain: chicagotribune.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.baltimoresun.com/resizer/_CKfnM14SWqOHfUIcEXyXw3v5bU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/27GFWB6K2FFIVPBFL7BCBYGV74.jpg"
+  - url: "https://www.chicagotribune.com/resizer/_CKfnM14SWqOHfUIcEXyXw3v5bU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/27GFWB6K2FFIVPBFL7BCBYGV74.jpg"
     width: 1200
     height: 774
     isCached: true
@@ -196,6 +200,6 @@ related:
         height: 1365
         isCached: true
 
-secured: "WV9FBjXqH7Rb6oXZl1SehktBcmhdiJ6rKdtE7ZVTNwi5iJ3k1YkmoYDlffS4Z2Tx2NmgBrVWC5y7/U0ANCF26rsADjSIItr3UWXYpbUNuFRPcWYngDhZ590cqKQz/avoQ05+n3tqZCFIPv9sTSvpWeo6o/MamcjE1njvnn7tO6rfee4m4IJl13NE23eA7V6XQq4hk0ALJR9hIL87QbJqNIA7jdKcxLxVZ31pPTqmvozLA4hcmqV5LVc5U2UXz37Tn5nFFeqV72IqsNknlRKAPXVnG2390JjJnewIV+F8ze5eCWXh+hKus8Det09AfiZ9x4pWa04flKUXuUbmkYt4qWl74Qe3AmRKPHsQAH0hXH8=;I7GN6M1145w7x5suXqcQtg=="
+secured: "bAbQbTHfwpAP50Z8JqKJhu0aBwuJKw7i/8xFdAmt9p7OWVlrh05nBQOSOO1autU3joRjbiZLg8bajsIW6yu4wrHQV3f6AxhsINq7j2Eascf/gKSgCrOLih6Ci7bRyd/OHdd3W0tqzpsrCAilEAaNd95iG87mk0UzEfADta0Le6O7y80dTjKBQirafUGRAXZzzdl30d0tAVGuTgrHenEGT+1FtHq40TFSeyVUaBBfLwuniql47EaBua7TAZOhc3letKR4idQyOqdb0yGQU/XOHUW1Ujz4hKzyLrxSZj6DtN2NxAe9Y+C0h0txT7A2hoiqkQmkT6TxXtNxloS3jS/qkYj8rId4KVvaTj+22YJzPDo=;hyaUalOMa52e8r5tVM0u+g=="
 ---
 

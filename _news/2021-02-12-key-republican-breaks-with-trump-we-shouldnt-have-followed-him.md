@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/02/12/nikki-haley-trump
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/02/12/nikki-haley-trump-election-richard-haass-nr-vpx.cnn"
 type: article
 quality: 175
-heat: 375
+heat: 395
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210212083106-file-nikki-haley-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "McConnell's plan to deal with Trump: Ignore him"
+    excerpt: "Senate Minority Leader Mitch McConnell had an instant reaction when seeing the lengthy attack he endured from former President Donald Trump.\n    \n"
+    publishedDateTime: 2021-02-17T22:02:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/x6t1KTdznyo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/17/politics/mitch-mcconnell-donald-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/17/politics/mitch-mcconnell-donald-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201216121723-02-mcconnell-trump-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

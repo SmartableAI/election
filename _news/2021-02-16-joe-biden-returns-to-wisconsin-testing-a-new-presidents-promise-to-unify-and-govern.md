@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden speaks with Netanyahu after delay raised questions"
+    excerpt: "President Joe Biden spoke Wednesday with his Israeli counterpart Benjamin Netanyahu, ending what had been a lengthy stretch without a call after Biden took office.\n    \n"
+    publishedDateTime: 2021-02-17T21:44:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8Z8tgIZe_lE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/17/politics/joe-biden-benjamin-netanyahu-israel-us-call/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/17/politics/joe-biden-benjamin-netanyahu-israel-us-call/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210201133546-biden-netanyahu-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Netanyahu's wait for a call from Biden raises questions about US priorities"
     excerpt: "The White House insists President Joe Biden will \"soon\" speak with Israel's Prime Minister Benjamin Netanyahu, but the wait, which has now stretched beyond three weeks, is raising questions about whether there is a motive behind the delay.\n    \n"
     publishedDateTime: 2021-02-12T02:39:30Z
@@ -46,38 +62,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210201133546-biden-netanyahu-split-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Biden son-in-law faces conflicts of interest concerns following coronavirus response investments"
-    excerpt: "The White House has pledged to bar President Joe Biden's family from using the office for personal gain, but questions are being raised by good governance groups and news outlets about whether an investment firm co-founded by Biden's son-in-law could present a new set of ethical challenges for the administration.\n"
-    publishedDateTime: 2021-02-10T17:54:47Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7inrCkSsNj0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/10/politics/joe-biden-howard-krein-startup-health/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/10/politics/joe-biden-howard-krein-startup-health/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 162
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210205130625-joe-biden-february-5-2021-01-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden to call for protecting LGBTQ rights globally in memo"
-    excerpt: "It reflects his deep commitment to these issues both here in the United States and everywhere around the world,\" national security adviser Jake Sullivan said."
-    publishedDateTime: 2021-02-05T04:12:00Z
-    webUrl: "https://www.nbcnews.com/feature/nbc-out/biden-call-protecting-lgbtq-rights-globally-memo-n1256792"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1256792"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1256792"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2021_05/3447736/210204-lgbtq-supreme-court-jm-1642_5c78556d3c8be10a4f7294ac3d23f414.jpg"
-        width: 2500
-        height: 1667
         isCached: true
   - title: "Biden nominee Neera Tanden describes double standards she's faced as a woman of color"
     excerpt: "People's perceptions of leadership and who leaders are has not been, to this moment, an Asian American woman,\" Tanden told NBC Asian America."

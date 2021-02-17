@@ -79,6 +79,22 @@ related:
         width: 777
         height: 545
         isCached: true
+  - title: "The Daily 202: Biden builds back boring in town hall. That’s not a bad thing"
+    excerpt: "An absence of incendiary tweets doesn’t make a young presidency boring when the administration is facing a once-in-a-lifetime pandemic, the resulting economic devastation, the climate crisis and a host of other problems."
+    publishedDateTime: 2021-02-17T22:05:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/02/17/daily-202-biden-builds-back-boring-town-hall-thats-not-bad-thing/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/02/17/daily-202-biden-builds-back-boring-town-hall-thats-not-bad-thing/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/02/17/daily-202-biden-builds-back-boring-town-hall-thats-not-bad-thing/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 122
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QG4BBZTQ7AI6XBSRNUYJD2WGH4.jpg&w=1440"
+        width: 1440
+        height: 941
+        isCached: true
   - title: "Biden calls for gun law reforms on the third anniversary of the Parkland shooting"
     excerpt: "\"We will take action to end our epidemic of gun violence and make our schools and communities safer,\" Biden said."
     publishedDateTime: 2021-02-14T16:40:00Z

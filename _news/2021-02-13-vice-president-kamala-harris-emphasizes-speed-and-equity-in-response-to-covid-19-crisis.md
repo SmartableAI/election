@@ -526,6 +526,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
+  - title: "Biden Scraps Trump Plan to Weaken Environmental Rules to Build Renewables in California"
+    excerpt: "The Biden administration on Wednesday said it would scrap a Trump-era proposal to weaken environmental protections for millions of acres of California desert to ease development of wind and solar energy projects."
+    publishedDateTime: 2021-02-17T22:00:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-02-17/biden-scraps-trump-plan-to-weaken-environmental-rules-to-build-renewables-in-california"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-02-17/biden-scraps-trump-plan-to-weaken-environmental-rules-to-build-renewables-in-california?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-02-17/biden-scraps-trump-plan-to-weaken-environmental-rules-to-build-renewables-in-california?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 62
 
 secured: "7vbzUElPAKmEaEkzBT/u9aEWvkPQlMBMt8e8U3EYB5nwuufSr3kuCmejip9pp2ElckL7Fph4gqQ00WaysgoX2e1yqM1jQNJW43yvDZsUWxpq3IzasU1l9HxLN3ayqlXYevtHSEkwFVjh4anDd1HSMxkxo0gbzSC3vO+E8VEAOGKqAHywxwZhTFNHz1ghw560wg5Xt63EbbcV8Y3CY1qVUyAH1JRWhYEfRfPhLdhI/RBhKQN7PfIEdjCayd36Hcoqid3YnAZBZRbSIVZt44SKPFJwKm1NWYjxg8GkxAPvj0M5r+dFUqr8ubMBxGenwEKCUpwpWhDOI4qvet/aNMn7xxtIIno92Tq2H8ObV9CgRFVenF/c1MWjcMY3OUKiOLSJhUpaJA8jyAnPeq/A/XH71pR2yEo74oPPCVC8yKdJ2b7j8iocKY/cbrqjbQo0ezl5wPySFxKiKI568s34hnxI8H4LNtKNR02u7dBKioLeGlyr+T3M4KNl6nH/+NjhBliV45HZ+wzBA7MH2XyOvYZXig==;OXwb4hiylH0eAetKyQ132Q=="
 ---

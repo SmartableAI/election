@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/naacp-sues-trump-giuliani-capitol-r
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/naacp-sues-trump-giuliani-capitol-riot/"
 type: article
 quality: 124
-heat: 224
+heat: 244
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/af1d76d3db59aaf37cdf030c990b71e6d58dc183/0_39_4393_2635/master/4393.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=506d4603234fc6be44766f4013f3d6ce"
         width: 600
         height: 360
+        isCached: true
+  - title: "NAACP lawsuit will put Trump \"out of business,\" Congressman Bennie Thompson says"
+    excerpt: "Congressman Bennie Thompson and NAACP President Derrick Johnson talk to CBSN about their legal case over the Capitol riot."
+    publishedDateTime: 2021-02-17T20:57:00Z
+    webUrl: "https://www.cbsnews.com/news/naacp-lawsuit-trump-bennie-thompson/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/naacp-lawsuit-trump-bennie-thompson/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/naacp-lawsuit-trump-bennie-thompson/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/15/bda0094f-3972-4a53-92a9-5bf0231922dc/thumbnail/1200x630/2b9fee1e9f9f82a75d51d98f34a1e475/cbsn-fusion-trump-acquitted-in-second-impeachment-trial-seven-republicans-join-democrats-to-convict-thumbnail-646404-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Democratic Rep. Bennie Thompson sues Donald Trump, accusing him of inciting riot at US Capitol, conspiring with extremists"
     excerpt: "The lawsuit from Mississippi’s Rep. Bennie Thompson, chairman of the House Homeland Security Committee, is part of an expected wave of litigation over the Jan. 6 riot."

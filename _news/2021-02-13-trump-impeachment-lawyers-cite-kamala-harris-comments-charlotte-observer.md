@@ -512,6 +512,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
+  - title: "Biden Scraps Trump Plan to Weaken Environmental Rules to Build Renewables in California"
+    excerpt: "The Biden administration on Wednesday said it would scrap a Trump-era proposal to weaken environmental protections for millions of acres of California desert to ease development of wind and solar energy projects."
+    publishedDateTime: 2021-02-17T22:00:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-02-17/biden-scraps-trump-plan-to-weaken-environmental-rules-to-build-renewables-in-california"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-02-17/biden-scraps-trump-plan-to-weaken-environmental-rules-to-build-renewables-in-california?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-02-17/biden-scraps-trump-plan-to-weaken-environmental-rules-to-build-renewables-in-california?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 62
   - title: "Vice President Kamala Harris Emphasizes Speed and Equity in Response to COVID-19 Crisis"
     excerpt: "In Harris’ first national sit-down interview since becoming vice president, she discusses her focus on an equitable response to the COVID-19 crisis with 19th editor-at-large Errin Haines."
     publishedDateTime: 2021-02-12T17:04:00Z

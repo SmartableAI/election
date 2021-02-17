@@ -572,6 +572,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Guns, knives, bombs and bear spray: Here are the weapons Trump supporters brought to DC on the day of the Capitol attack"
+    excerpt: "Supporters of then-President Donald Trump brought dozens of weapons to Washington on the day of the insurrection, according to the Justice Department, undermining claims from at least one Republican senator who said the attack wasn't an \"armed insurrection,\" according to a CNN review of court records.\n"
+    publishedDateTime: 2021-02-17T21:31:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ldx8MSx4Z14/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/17/politics/capitol-insurrection-weapons-ron-johnson/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/17/politics/capitol-insurrection-weapons-ron-johnson/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 150
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210217144346-06-doj-weapons-capitol-riots-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump was aware Pence had been evacuated to secure location as rioters stormed Capitol"
     excerpt: "President Donald Trump was aware his vice president had been evacuated to a secure location as rioters stormed the US Capitol, according to a person who was with Trump on January 6."
     publishedDateTime: 2021-02-13T16:32:00Z

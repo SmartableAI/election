@@ -89,6 +89,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "NAACP lawsuit will put Trump \"out of business,\" Congressman Bennie Thompson says"
+    excerpt: "Congressman Bennie Thompson and NAACP President Derrick Johnson talk to CBSN about their legal case over the Capitol riot."
+    publishedDateTime: 2021-02-17T20:57:00Z
+    webUrl: "https://www.cbsnews.com/news/naacp-lawsuit-trump-bennie-thompson/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/naacp-lawsuit-trump-bennie-thompson/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/naacp-lawsuit-trump-bennie-thompson/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/15/bda0094f-3972-4a53-92a9-5bf0231922dc/thumbnail/1200x630/2b9fee1e9f9f82a75d51d98f34a1e475/cbsn-fusion-trump-acquitted-in-second-impeachment-trial-seven-republicans-join-democrats-to-convict-thumbnail-646404-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Democratic Rep. Bennie Thompson sues Donald Trump, accusing him of inciting riot at US Capitol, conspiring with extremists"
     excerpt: "The lawsuit from Mississippi’s Rep. Bennie Thompson, chairman of the House Homeland Security Committee, is part of an expected wave of litigation over the Jan. 6 riot."
     publishedDateTime: 2021-02-16T15:21:00Z
