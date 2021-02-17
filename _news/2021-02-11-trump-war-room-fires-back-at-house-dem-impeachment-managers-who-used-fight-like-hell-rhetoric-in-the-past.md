@@ -48,6 +48,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump Plaza Casino Demolished in Atlantic City"
+    excerpt: "The new mayor of Atlantic City had made it a priority to destroy the vacant building, once owned by the former president."
+    publishedDateTime: 2021-02-17T15:43:00Z
+    webUrl: "https://www.wsj.com/articles/trump-plaza-casino-demolished-in-atlantic-city-11613575836?mod=lead_feature_below_a_pos1"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-plaza-casino-demolished-in-atlantic-city-11613575836"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-plaza-casino-demolished-in-atlantic-city-11613575836"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-300215/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "KkS4jbjt7W3fxxiTkZ8Czr8x6W8IxZ/gMtuwklbrY5oSf9Owl10sVH9/OBNrl5VJ4yZSlJZvMk1Mi+3QjsO3ha5S3SAu7Nv3iRQDlPDbdmcVhXIf7yCg8I5YdRKNwTJBjvmC8xp4Ag+KDjZZkcErY23iDzidEotdwrma47GunWnUOgqBunOxbvSDpAJe7AvJBDIgR5kK5S+2fU9BVylHX2OaoNAtwXx+V827F7S/Ao+56kWJ9MVslhSOdCdsxN3rjgtOdUrXo9TT/dmFEhXyrIHFEpS+uG5KxKDTUll5qS1XAwfQs6oGKJVafTeaBthTYfiByBPnC84E7/E/g5N6DWyYmEeQQBxUhw0jqD1UU/I=;TSxH1RY8qcPYntLsKp/Rag=="
 ---

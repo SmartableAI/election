@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-drives-past-jubilant-supporte
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-drives-past-jubilant-supporters-at-impromptu-rally-in-florida.amp"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump Plaza Casino Demolished in Atlantic City"
+    excerpt: "The new mayor of Atlantic City had made it a priority to destroy the vacant building, once owned by the former president."
+    publishedDateTime: 2021-02-17T15:43:00Z
+    webUrl: "https://www.wsj.com/articles/trump-plaza-casino-demolished-in-atlantic-city-11613575836?mod=lead_feature_below_a_pos1"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-plaza-casino-demolished-in-atlantic-city-11613575836"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-plaza-casino-demolished-in-atlantic-city-11613575836"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-300215/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Trump War Room fires back at House Dem impeachment managers who used 'fight like hell' rhetoric in the past"
     excerpt: "The Trump War Room is firing back at the House Democrat Impeachment Managers who were making their case against former President Donald Trump during the opening arguments of impeachment trial."
     publishedDateTime: 2021-02-10T22:10:00Z

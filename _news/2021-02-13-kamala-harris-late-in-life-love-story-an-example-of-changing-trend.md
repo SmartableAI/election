@@ -9,7 +9,7 @@ ampWebUrl: "https://goodmorningamerica.com/amp/living/story/kamala-harris-late-l
 cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/living/story/kamala-harris-late-life-love-story-changing-trend-75819461"
 type: article
 quality: 125
-heat: 285
+heat: 325
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Kamala Harris' stepdaughter Ella Emhoff makes NYFW debut"
+    excerpt: "Ella Emhoff is making a name for herself in fashion. The 21-year-old daughter of Second Gentleman Doug Emhoff and stepdaughter of Vice President Kamala Harris made her New York Fashion Week debut while attending a panel discussion with Proenza Schoulder."
+    publishedDateTime: 2021-02-17T15:52:00Z
+    webUrl: "https://abcnews.go.com/GMA/Style/kamala-harris-stepdaughter-ella-emhoff-makes-nyfw-debut/story?id=75944676"
+    ampWebUrl: "https://goodmorningamerica.com/amp/style/story/kamala-harris-stepdaughter-ella-emhoff-makes-nyfw-debut-75944676"
+    cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/style/story/kamala-harris-stepdaughter-ella-emhoff-makes-nyfw-debut-75944676"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/GMA/ella-emhoff-01-gty-jef-210217_1613573875891_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Fact check: Fabricated Kamala Harris quote about white people being racist"
     excerpt: "Social media users have recently been resharing a post from 2019 showing a quote falsely attributed to U.S. Vice President Kamala Harris, where she purportedly says white people are racist. The Vice President’s press secretary confirmed to Reuters that the quotation"
     publishedDateTime: 2021-02-16T17:25:00Z
@@ -51,6 +67,22 @@ related:
     excerpt: "Social media users have been sharing a quotation falsely attributed to U.S. Vice President Kamala Harris, saying that veterans should learn to support themselves and she plans to shut down the Department of Veterans Affairs (VA) and take away soldier welfare,"
     publishedDateTime: 2021-02-16T15:48:00Z
     webUrl: "https://www.reuters.com/article/uk-factcheck-harris-va-quote-idUSKBN2AG1XL"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AG1XL"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AG1XL"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 111
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210216&t=2&i=1551730882&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1F172"
+        width: 816
+        height: 545
+        isCached: true
+  - title: "Fact check: Kamala Harris quote about shutting down Veterans Affairs originated from satire website"
+    excerpt: "Social media users have been sharing a quotation falsely attributed to U.S. Vice President Kamala Harris, saying that veterans should learn to support themselves and she plans to shut down the Department of Veterans Affairs (VA) and take away soldier welfare,"
+    publishedDateTime: 2021-02-16T20:48:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-harris-va-quote/fact-check-kamala-harris-quote-about-shutting-down-veterans-affairs-originated-from-satire-website-idUSKBN2AG1XL"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AG1XL"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AG1XL"
     type: article

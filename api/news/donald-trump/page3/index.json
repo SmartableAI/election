@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-05-biden-set-to-accept-more-refugees-after-years-of-trump-restrictions.md",
+      "title": "Biden set to accept more refugees after years of Trump restrictions",
+      "excerpt": "U.S. President Joe Biden said on Thursday he plans to raise annual refugee admissions to 125,000 in the coming fiscal year, a more than eight-fold increase after former President Donald Trump slashed levels to historic lows.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-biden-refugees-order/biden-set-to-accept-more-refugees-after-years-of-trump-restrictions-idUSKBN2A42HN",
+      "originalUrl": "https://www.reuters.com/article/us-usa-biden-refugees-order/biden-set-to-accept-more-refugees-after-years-of-trump-restrictions-idUSKBN2A42HN",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1960,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210205&t=2&i=1550411081&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1406U",
+          "width": 818,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2A42HN",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A42HN",
+      "publishedDateTime": "2021-02-05T00:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-05-sen-ben-sasse-slams-nebraska-gop-committees-plans-to-censure-him-for-criticizing-trump.md",
       "title": "Sen. Ben Sasse slams Nebraska GOP committee’s plans to censure him for criticizing Trump",
       "excerpt": "Sasse is the latest Republican to face censure or the threat of it from a state or local GOP for not supporting Trump.",
@@ -1515,58 +1567,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-30-new-georgia-runoffs-data-finds-that-more-black-voters-than-usual-came-out-trump-voters-stayed-home.md",
-      "title": "New Georgia runoffs data finds that more Black voters than usual came out. Trump voters stayed home.",
-      "excerpt": "Our analysis finds two notable patterns that could account for the wins: high turnout among Black voters and low turnout in the predominantly White and rural precincts that had supported incumbent President Donald Trump — where voters were more likely to believe Trump’s baseless allegations of electoral fraud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2021/01/29/new-georgia-runoffs-data-finds-that-more-black-voters-than-usual-came-out-trump-voters-stayed-home/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2021/01/29/new-georgia-runoffs-data-finds-that-more-black-voters-than-usual-came-out-trump-voters-stayed-home/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2ESU4GC3RQI6XKCJN6KCHJ277U.jpg&w=1440",
-          "width": 1440,
-          "height": 936,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/01/29/new-georgia-runoffs-data-finds-that-more-black-voters-than-usual-came-out-trump-voters-stayed-home/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/29/new-georgia-runoffs-data-finds-that-more-black-voters-than-usual-came-out-trump-voters-stayed-home/?outputType=amp",
-      "publishedDateTime": "2021-01-29T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

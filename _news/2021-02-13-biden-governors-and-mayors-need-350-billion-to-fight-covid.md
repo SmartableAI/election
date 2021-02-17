@@ -121,6 +121,20 @@ related:
         width: 811
         height: 545
         isCached: true
+  - title: "Biden addresses COVID-19 relief bill, vaccines at Wisconsin town hall"
+    excerpt: "President Joe Biden focused on the coronavirus pandemic during a town hall in Wisconsin Tuesday night. He discussed ramping up vaccination efforts and why he's pushing for a $1.9 trillion relief bill."
+    publishedDateTime: 2021-02-17T15:27:00Z
+    webUrl: "https://www.cbsnews.com/video/president-biden-covid-19-relief-bill-vaccineswisconsin-town-hall/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/17/5ef4b908-1ca4-4535-b614-70178cbe126c/thumbnail/1200x630/674600dda4b03fc2f6f7f6c79b2195bb/cbsn-fusion-president-biden-addresses-covid-19-relief-bill-vaccines-at-wisconsin-town-hall-thumbnail-647793-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden to press for $1.9 trillion COVID relief plan with governors, mayors"
     excerpt: "U.S. President Joe Biden will meet with a bipartisan group of mayors and governors on Friday as he continues to push for approval of a $1.9 trillion coronavirus relief plan to bolster economic growth and help millions of unemployed workers."
     publishedDateTime: 2021-02-12T23:54:00Z

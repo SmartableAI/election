@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/capitol-police-of
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/capitol-police-officer-who-died-after-riot-to-lie-in-honor/2021/02/02/8f908fb8-65b8-11eb-bab8-707f8769d785_story.html?outputType=amp"
 type: article
 quality: 150
-heat: 2010
+heat: 2030
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6OOE3CDL24I6XOSW27RMRXX2GE.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Biden and Harris call for teachers to be vaccine priority – US politics live"
+    excerpt: "Vice-president says ‘teachers should be a priority along with other frontline workers’ for Covid vaccine – follow all the latest politics news"
+    publishedDateTime: 2021-02-17T16:43:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/17/biden-harris-coronavirus-teachers-vaccine-us-politics-live-latest?page=with:block-602d43c48f08ad21ea5fe1a4"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/17/biden-harris-coronavirus-teachers-vaccine-us-politics-live-latest"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/17/biden-harris-coronavirus-teachers-vaccine-us-politics-live-latest"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 147
+    images:
+      - url: "https://i.guim.co.uk/img/media/47b0b5181453cc4d3e2d0a983c82b67fc2f8ea46/0_44_5814_3488/master/5814.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=93e2b331646d8aacc4e42d48cc2a33d7"
+        width: 600
+        height: 360
         isCached: true
   - title: "Biden and Harris to meet Republican senators to push for Covid aid package – live updates"
     excerpt: "lawmakers have offered across the aisle agreement on a much-reduced economic package"

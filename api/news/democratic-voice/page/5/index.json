@@ -2,6 +2,62 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-01-17-acting-secretary-of-defense-orders-nsa-chief-to-install-trump-loyalist-as-agencys-general-counsel.md",
+      "title": "Acting secretary of defense orders NSA chief to install Trump loyalist as agency's general counsel",
+      "excerpt": "The acting secretary of defense is trying to install a Trump loyalist as the top lawyer at the National Security Agency, according to three sources familiar.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cnGOPz3S3Rc/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cnGOPz3S3Rc/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210116213644-nsa-file-2018-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/16/politics/nsa-counsel-michael-ellis-christopher-miller/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/16/politics/nsa-counsel-michael-ellis-christopher-miller/index.html",
+      "publishedDateTime": "2021-01-16T20:37:10-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-16-trumps-regulators-ok-partnership-that-could-squeeze-air-passengers-in-dc-and-nyc.md",
       "title": "Trump's regulators OK 'partnership' that could squeeze air passengers in D.C. and NYC",
       "excerpt": "OK'd on Elaine Chao's final day as transportation secretary — is generating complaints it will harm competition and raise fares.",
@@ -1640,63 +1696,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-09-pelosi-asks-joint-chiefs-about-preventing-trump-from-launching-nukes.md",
-      "title": "Pelosi asks Joint Chiefs about preventing Trump from launching nukes",
-      "excerpt": "House Speaker Nancy Pelosi spoke with the nation's top military officer on Friday about precautions in place to prevent President Donald Trump from ordering a nuclear strike or conducting other military hostilities as Democrats seek his removal from office.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/01/08/pelosi-trump-take-away-nuclear-codes-456529",
-      "originalUrl": "https://www.politico.com/news/2021/01/08/pelosi-trump-take-away-nuclear-codes-456529",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/fd/0c/d4119b0a47de86d75b1f36341ac8/gettyimages-1230470231-1.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-08T10:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Democratic Voice"
       ]
     }

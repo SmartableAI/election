@@ -127,22 +127,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden still misses VP residence pool in which he reportedly skinny dipped"
-    excerpt: "President Joe Biden made wistful remarks about the freedom of the vice president’s residence — including the swimming pool in which he reportedly skinny dipped — when asked how he was settling into the White House on Tuesday."
-    publishedDateTime: 2021-02-17T09:15:37Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/D4d7tKXJ4hg/biden-still-misses-vp-residence-pool-in-which-he-reportedly-skinny-dipped"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-still-misses-vp-residence-pool-in-which-he-reportedly-skinny-dipped.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-still-misses-vp-residence-pool-in-which-he-reportedly-skinny-dipped.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/istock-486343416.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Psaki pressed on Biden admin not deporting illegal immigrants who drive drunk"
     excerpt: "White House Press Secretary Jen Psaki was asked on Monday about pending guidance that would spare some illegal immigrants convicted of less serious offenses from deportation"
     publishedDateTime: 2021-02-09T01:01:17Z
@@ -287,6 +271,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden's town hall comments on defunding police, student loans, minimum wage could upset left wing"
+    excerpt: "President Biden's comments on the issues of student loan forgiveness, defunding the police, and how quickly to raise the minimum wage made during a Wisconsin town hall Tuesday are anything but welcome signals for progressives."
+    publishedDateTime: 2021-02-17T16:49:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QPL--ucKyaI/biden-town-hall-defunding-police-student-loans-minimum-wage-left-wing"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-town-hall-defunding-police-student-loans-minimum-wage-left-wing.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-town-hall-defunding-police-student-loans-minimum-wage-left-wing.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden officials believe China to be 'greatest long-term national security threat' to the US, McCaul says"
     excerpt: "President Biden’s Secretary of State Tony Blinken and White House national security adviser Jake Sullivan believe that China poses the \"greatest long-term national security threat to the United States,\" Republican Rep. Michael McCaul told Fox News after speaking with the officials, but McCaul said they"
     publishedDateTime: 2021-02-08T13:55:08Z
@@ -334,6 +334,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/add95066-24d3-4636-bf65-f0f6a9541cf2/56504e56-071b-46ab-9296-dd583496afbe/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden still misses VP residence pool in which he reportedly skinny dipped"
+    excerpt: "President Joe Biden made wistful remarks about the freedom of the vice president’s residence — including the swimming pool in which he reportedly skinny dipped — when asked how he was settling into the White House on Tuesday."
+    publishedDateTime: 2021-02-17T09:21:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-still-misses-vp-residence-pool-in-which-he-reportedly-skinny-dipped"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-still-misses-vp-residence-pool-in-which-he-reportedly-skinny-dipped.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-still-misses-vp-residence-pool-in-which-he-reportedly-skinny-dipped.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 134
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/istock-486343416.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "WH aide TJ Ducklo resigns after demeaning reporter despite Biden's warning of firing"
     excerpt: "Deputy White House press secretary TJ Ducklo on Saturday said he was resigning amid allegations that he made \"derogatory and misogynistic\" remarks to Politico reporter Tara Palmeri nearly a month ago."

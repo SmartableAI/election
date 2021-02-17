@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/kamala-harris-biden-starting-from-sc
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kamala-harris-biden-starting-from-scratch-covid-19-after-trump-2021-2?amp"
 type: article
 quality: 147
-heat: 767
+heat: 787
 published: true
 
 provider:
@@ -223,6 +223,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1735300/donald-trump-jr-hunter-biden-china-policy.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Biden’s new VA chief inherits oversight office from Trump viewed as abetting corruption"
+    excerpt: "The Office of Accountability and Whistleblower Protection represents an unkept promise from a president who said he would drain the swamp of corruption — especially at VA."
+    publishedDateTime: 2021-02-17T16:29:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-mcdonough-va-whistleblower-trump-/2021/02/16/072bab0e-5ced-11eb-b8bd-ee36b1cd18bf_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-mcdonough-va-whistleblower-trump-/2021/02/16/072bab0e-5ced-11eb-b8bd-ee36b1cd18bf_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-mcdonough-va-whistleblower-trump-/2021/02/16/072bab0e-5ced-11eb-b8bd-ee36b1cd18bf_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 132
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JCLOPBTBAAI6XL56TII2CJ6RIY.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Everything Joe Biden Has Said About Reopening Schools"
     excerpt: "According to a school reopening tracking map from EdWeek, a majority of states have left the decision to reopen schools to local school districts and their health departments."

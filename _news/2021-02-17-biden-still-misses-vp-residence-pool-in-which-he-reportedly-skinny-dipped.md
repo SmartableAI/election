@@ -2,13 +2,13 @@
 category: news
 title: "Biden still misses VP residence pool in which he reportedly skinny dipped"
 excerpt: "President Joe Biden made wistful remarks about the freedom of the vice president’s residence — including the swimming pool in which he reportedly skinny dipped — when asked how he was settling into the White House on Tuesday."
-publishedDateTime: 2021-02-17T09:15:37Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/D4d7tKXJ4hg/biden-still-misses-vp-residence-pool-in-which-he-reportedly-skinny-dipped"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/D4d7tKXJ4hg/biden-still-misses-vp-residence-pool-in-which-he-reportedly-skinny-dipped"
+publishedDateTime: 2021-02-17T09:21:00Z
+originalUrl: "https://www.foxnews.com/politics/biden-still-misses-vp-residence-pool-in-which-he-reportedly-skinny-dipped"
+webUrl: "https://www.foxnews.com/politics/biden-still-misses-vp-residence-pool-in-which-he-reportedly-skinny-dipped"
 ampWebUrl: "https://www.foxnews.com/politics/biden-still-misses-vp-residence-pool-in-which-he-reportedly-skinny-dipped.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-still-misses-vp-residence-pool-in-which-he-reportedly-skinny-dipped.amp"
 type: article
-quality: 174
+quality: 134
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
@@ -271,6 +272,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden's town hall comments on defunding police, student loans, minimum wage could upset left wing"
+    excerpt: "President Biden's comments on the issues of student loan forgiveness, defunding the police, and how quickly to raise the minimum wage made during a Wisconsin town hall Tuesday are anything but welcome signals for progressives."
+    publishedDateTime: 2021-02-17T16:49:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QPL--ucKyaI/biden-town-hall-defunding-police-student-loans-minimum-wage-left-wing"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-town-hall-defunding-police-student-loans-minimum-wage-left-wing.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-town-hall-defunding-police-student-loans-minimum-wage-left-wing.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "White House says Biden backs citizenship for 11 million illegal immigrants, ahead of bill unveiling"
     excerpt: "The White House on Tuesday reaffirmed that President Biden backs a controversial plan to create a pathway to citizenship to at least 11 million illegal immigrants -- as the White House and congressional Democrats are expected to formally unveil a sweeping immigration bill as soon as this week."
     publishedDateTime: 2021-02-16T21:28:39Z
@@ -398,6 +415,6 @@ related:
         height: 3480
         isCached: true
 
-secured: "knPNfwN3orJnAasPwxd+A2JqZSDSnkC7JuS/U5BzPC5TVTYMDnkW5wNCvTAhxJrL/PWRtAP+hPYz1Crs1kwQbKB07XUZBECYuXsfuJ7i99RXQEqQqkH57csrwFnXENJei2Hv9cZ2IZw0m3AA+ztXXIzH47/rplIps5G/7zY4QUKyncVf+9Z1KAlBPxtLvqKU3tCVSmqLqXJ3CMyJ4nG5lJOCGL/mScHrcwGxaagh9eoxHd/S42wfzoyYvBhYAz0yCOefYCSyhG2hv+5bR2Q90FcM7XNFcWRSvrQWHVMy2SZ5PmlW/KYwFqXm6l0IOfkWPB0xR8O2E1CJb/A2lXTIk21lZx6gz4mvITk5s9P6koc=;MMhMbuhAWr5p992oewy0xQ=="
+secured: "5HXABgT1rqaTHdAtqehucPnOECKF2JkzkhuZPaStDMH/nNEWswXqPaIJbv1ugChR7Rg6RV+r2PijcrvOskllr9Fza3aO0Hb7bjclhDrpTXeJwMkIbFqBXwStPlDQGjO+IhivQxsUwafNXkk8Ltpmj5JRt72nNbRF1brS0DPTeFyiOjV+VbdqjxAcNjzJgkXCfkKleNeoDwz1ZdKsZTBYoht1JkKZSTPXsMUmO0DFpZa5OqoFpHXktcqrQWD3htDaBMDr9zVEsSbiALrWB+9j1FsVV0ffcigmlPicurdynYpsKeIG+wVo9J59ysJUpTyXaQ4QBDs7AFA6IFQeQzalbKAbUMdJbxS8c2dOiW0OhrY=;3soesTx6od9mMw/fvq/xGw=="
 ---
 
