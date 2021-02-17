@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/fact-check-joe-biden-responsible-rising-cos
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fact-check-joe-biden-responsible-rising-cost-insulin-1569045?amp=1"
 type: article
 quality: 125
-heat: 225
+heat: 205
 published: true
 
 provider:
@@ -85,17 +85,6 @@ related:
     webUrl: "https://www.businessinsider.com/biden-heads-to-wisconsin-to-rally-support-for-virus-relief-2021-2"
     ampWebUrl: "https://www.businessinsider.com/biden-heads-to-wisconsin-to-rally-support-for-virus-relief-2021-2?amp"
     cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-heads-to-wisconsin-to-rally-support-for-virus-relief-2021-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "Biden reframes goal on reopening of elementary schools"
-    excerpt: "President Joe Biden is promising a majority of elementary schools will be open five days a week by the end of his first 100 days in office, restating his goal after his administration came under fire when aides said schools would be considered open if they held in-person learning just one day a week."
-    publishedDateTime: 2021-02-17T05:40:00Z
-    webUrl: "https://www.businessinsider.com/biden-reframes-goal-on-reopening-of-elementary-schools-2021-2"
-    ampWebUrl: "https://www.businessinsider.com/biden-reframes-goal-on-reopening-of-elementary-schools-2021-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-reframes-goal-on-reopening-of-elementary-schools-2021-2?amp"
     type: article
     provider:
       name: Business Insider

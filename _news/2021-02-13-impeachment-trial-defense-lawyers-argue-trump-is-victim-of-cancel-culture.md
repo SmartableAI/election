@@ -303,6 +303,22 @@ related:
         width: 819
         height: 545
         isCached: true
+  - title: "Explainer: Trump's acts as president are 'fair game' for criminal charges"
+    excerpt: "Donald Trump's legal troubles are far from over, despite his acquittal in the U.S. Senate impeachment trial that ended on Saturday."
+    publishedDateTime: 2021-02-17T08:13:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-charges-explainer-idUSKBN2AG208"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AG208"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AG208"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210217&t=2&i=1551795349&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1G059"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump headed to swift acquittal after Democrats balk on impeachment witnesses"
     excerpt: "The decision in the end to forego testimony all but ensured Trump’s acquittal without a full accounting of his actions on Jan. 6, revealing his continuing grip on the GOP and well as Democratic ambivalence over extending the trial."
     publishedDateTime: 2021-02-13T20:41:00Z

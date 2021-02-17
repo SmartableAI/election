@@ -111,6 +111,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden reframes goal on reopening of elementary schools"
+    excerpt: "President Joe Biden is promising a majority of elementary schools will be open five days a week by the end of his first 100 days in office"
+    publishedDateTime: 2021-02-17T07:04:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/biden-heads-wis-rally-support-virus-relief-bill-75931069"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/biden-heads-wis-rally-support-virus-relief-bill-75931069"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/biden-heads-wis-rally-support-virus-relief-bill-75931069"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/WireAP_a5f552c932dc494e992e5f6e05d4884a_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "VIRUS TODAY: President Biden extends ban on foreclosures"
     excerpt: "President Joe Biden is extending a ban on housing foreclosures to June 30 to help homeowners struggling during the coronavirus pandemic"
     publishedDateTime: 2021-02-16T18:48:00Z

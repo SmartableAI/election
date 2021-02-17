@@ -79,22 +79,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Trump lashes out at McConnell in deepening feud between top Republicans"
-    excerpt: "Former President Donald Trump lashed out at Senate Minority Leader Mitch McConnell on Tuesday, signaling a growing feud between the two most senior Republican voices after the party lost the White House and control of the Senate."
-    publishedDateTime: 2021-02-17T00:11:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-mcconnell-idUSKBN2AG2LL"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AG2LL"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AG2LL"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210216&t=2&i=1551774169&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1F1KA"
-        width: 900
-        height: 545
-        isCached: true
   - title: "Trump slams McConnell as GOP divide deepens post-impeachment"
     excerpt: "Former President Donald Trump has issued a blistering statement denouncing the top Republican in the Senate, Mitch McConnell, as a “political hack” who will make sure the party “will not win again.”"
     publishedDateTime: 2021-02-17T00:51:00Z
@@ -331,6 +315,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump Lashes Out at McConnell in Deepening Feud Between Top Republicans"
+    excerpt: "Former President Donald Trump lashed out at Senate Minority Leader Mitch McConnell on Tuesday, signaling a growing feud between the two most senior Republican voices after the party lost the White House and control of the Senate."
+    publishedDateTime: 2021-02-17T07:23:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-02-16/trump-says-republicans-will-not-win-again-if-they-stick-with-hack-mcconnell"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-02-16/trump-says-republicans-will-not-win-again-if-they-stick-with-hack-mcconnell?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-02-16/trump-says-republicans-will-not-win-again-if-they-stick-with-hack-mcconnell?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "lrccXI6xIslGZ3k5FySeHCvEaBenkcalwtIU+by18xO0ygkemrLphg/lCZiC+9ho6AulMwc4/AVrzQMkuXQhCYo1pmt1Ly7zuja5QQoLHk2v+eAsVLscpVYqshapE+yRq2uy1roydGoyHg45yW/uDcMLIVISzwX9OhQczDsGnVcyIAxOYxUXGIS4C0u7q0aD6aUyLEsE3Fy+ysqKyHmkk6eCjBcAVz7qqOjURa0bK1ZY6uJMQpyRTH5K7rvimJx3u6WfVs+um243ov0wIauuaEbl27q4R4lGVAqYMEX5BdiWxDkvxqmXOeNhrb/Rc6Iq/RzKfhlAUZYqewyNE7i+amxNHuP2Zd5eYFWWZqMYvvs=;sTAWeICUiOUyqyhRBBrvTA=="
 ---

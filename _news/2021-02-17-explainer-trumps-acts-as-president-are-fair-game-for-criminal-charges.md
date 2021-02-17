@@ -1,22 +1,22 @@
 ---
 category: news
-title: "After second impeachment acquittal, Donald Trump still firmly in control of the Republican party"
-excerpt: "Republicans voted against Donald Trump in his impeachment, but by most objective measures, Trump’s grasp on the GOP and its future remains airtight."
-publishedDateTime: 2021-02-14T18:24:00Z
-originalUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-impeachment-acquittal-republicans-20210214-usl73vi23zdnhjtbp5oczwqs3u-story.html"
-webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-impeachment-acquittal-republicans-20210214-usl73vi23zdnhjtbp5oczwqs3u-story.html"
-ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-impeachment-acquittal-republicans-20210214-usl73vi23zdnhjtbp5oczwqs3u-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-impeachment-acquittal-republicans-20210214-usl73vi23zdnhjtbp5oczwqs3u-story.html?outputType=amp"
+title: "Explainer: Trump's acts as president are 'fair game' for criminal charges"
+excerpt: "Donald Trump's legal troubles are far from over, despite his acquittal in the U.S. Senate impeachment trial that ended on Saturday."
+publishedDateTime: 2021-02-17T08:13:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-trump-charges-explainer-idUSKBN2AG208"
+webUrl: "https://www.reuters.com/article/us-usa-trump-charges-explainer-idUSKBN2AG208"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AG208"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AG208"
 type: article
-quality: 112
+quality: 124
 heat: -1
 published: false
 
 provider:
-  name: Chicago Tribune
-  domain: chicagotribune.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.chicagotribune.com/resizer/5x5IAwrJKINXsdBlQ3wxPxkej6I=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/DLV5XFJ6IFHWHGX6UTLFBD2TL4.aspx"
-    width: 1200
-    height: 675
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210217&t=2&i=1551795349&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1G059"
+    width: 817
+    height: 545
     isCached: true
 
 related:
@@ -301,22 +301,6 @@ related:
     images:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210214&t=2&i=1551489662&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1D09O"
         width: 819
-        height: 545
-        isCached: true
-  - title: "Explainer: Trump's acts as president are 'fair game' for criminal charges"
-    excerpt: "Donald Trump's legal troubles are far from over, despite his acquittal in the U.S. Senate impeachment trial that ended on Saturday."
-    publishedDateTime: 2021-02-17T08:13:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-charges-explainer-idUSKBN2AG208"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AG208"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AG208"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 124
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210217&t=2&i=1551795349&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1G059"
-        width: 817
         height: 545
         isCached: true
   - title: "Impeachment trial: defense lawyers argue Trump is victim of 'cancel culture'"
@@ -622,6 +606,22 @@ related:
       - url: "https://i.insider.com/6028f4842edd0f001a8d5b9d?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "After second impeachment acquittal, Donald Trump still firmly in control of the Republican party"
+    excerpt: "Republicans voted against Donald Trump in his impeachment, but by most objective measures, Trump’s grasp on the GOP and its future remains airtight."
+    publishedDateTime: 2021-02-14T18:24:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-impeachment-acquittal-republicans-20210214-usl73vi23zdnhjtbp5oczwqs3u-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-impeachment-acquittal-republicans-20210214-usl73vi23zdnhjtbp5oczwqs3u-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-impeachment-acquittal-republicans-20210214-usl73vi23zdnhjtbp5oczwqs3u-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 112
+    images:
+      - url: "https://www.chicagotribune.com/resizer/5x5IAwrJKINXsdBlQ3wxPxkej6I=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/DLV5XFJ6IFHWHGX6UTLFBD2TL4.aspx"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Senate votes that Trump impeachment trial is constitutional, 6 GOP side with Dems voting to proceed"
     excerpt: "WASHINGTON — House prosecutors on Tuesday wrenched senators and the nation back to the deadly attack on Congress as they opened Donald Trump’s historic second impeachment trial with graphic video of the insurrection and Trump’s own calls for a rally crowd to march to the iconic building and “fight like hell” against his reelection defeat."
@@ -1002,6 +1002,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "3fkLsIiMCjoC99JCd5N1pbGQOR4YFSnE8I3bFmExy7Ryj6CxBU3G0uXvrcZvXGWJlFJxSGjqiHc0FOhQYpv6GC4V1VKPhUxT+7nIJFH6oWC7faxmTD06+RK6V/SJp/ccRa0ZCczZBWMsphSiUKsv/PxFudvU/eSxjE3JIONuC3py94A97YF4hZVx584Jrg74l1l1rKH3E6J33grRksW8lLQ6IDdpQxdm9JOc0E1kCp2Av1lE6T5XmaeoyhbWXpkvdGlk2NZmOPLkK39n1Cj5tXrPPtQeRtRnpEoGaU50U41SUhcAOHcAdhTMZqv3zCAf6rzNBVlTK05TWeBlnWJkU0/FxEyz9ZdvkeYhjiJpiz8sDY+sENEVwPnaumCb20y+1hLvNvpKe9cl5jKm7HE+DpDTTr5upR+RmFbsCVXtslyrOCOIZABokIp1CfK7USlw/7yvPmmHW8F1GJdwqBN9ll0Wp75KG+AU8z1Q0okEiW0qn1dABu8A2AY863A1vVXdPSFybC+a8qv4gc2a2+igfQ==;fJzlVJJe5G1gXTDUOT9WaA=="
+secured: "Do1C3K9x7Oq6QOeQD7Iiao2q26cI0B8wrPP3DNJksftKGIHs+LszbjCCmpWurA/4eDjKWaI+K3sea3SVSiLi9YictGe5PMp2K/cScL3Gyh9WVSrraEaQTd53KxDa8YbHvQTPKEx7E87CpG1vu80Hd9LaIvOL60Um8Iaj2qcw7rLl8G/3FhwUtrVQhdJg8dboYwTS7e+xE11n3dsgecfjfS39GoTsM/F+W5getRGUs0lfyJUzhf1xYTP7tQGHscst8Hm5xLFtXYQBTc+5UBQ5gayXM/cMgPQDU0qnC47sqqYC64FsQaULTKlNwPNtNsk8MlJwue7a/7OqnKK13pXrUBiLB8EwzjjRnDXXyTfqg70=;fJ5m57DKCOMBSIwdclXJHA=="
 ---
 

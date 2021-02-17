@@ -1,16 +1,16 @@
 ---
 category: news
-title: "North Carolina man charged with threatening President Biden"
-excerpt: "Prosecutors say Kyle Reeves, 27, contacted the White House switchboard “multiple times” and “made threats against President Biden and others.”"
-publishedDateTime: 2021-02-11T20:59:06Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IuP9CaXKTkE/north-carolina-man-charged-threatening-president-biden"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IuP9CaXKTkE/north-carolina-man-charged-threatening-president-biden"
-ampWebUrl: "https://www.foxnews.com/politics/north-carolina-man-charged-threatening-president-biden.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/north-carolina-man-charged-threatening-president-biden.amp"
+title: "Snubbed by Obama? Joe Biden says White House ‘residence’ was unseen by him – until he moved in"
+excerpt: "President Joe Biden served in the U.S. Senate for more than 30 years, and then served eight years as Barack Obama’s vice president. But until he moved in last month, he said Tuesday night, he’d never been inside the presidential \"residence\" area of the White House."
+publishedDateTime: 2021-02-17T06:05:35Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6Mk4fARJE9c/snubbed-by-obama-joe-biden-says-white-house-residence-was-unseen-by-him-until-he-moved-in"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6Mk4fARJE9c/snubbed-by-obama-joe-biden-says-white-house-residence-was-unseen-by-him-until-he-moved-in"
+ampWebUrl: "https://www.foxnews.com/politics/snubbed-by-obama-joe-biden-says-white-house-residence-was-unseen-by-him-until-he-moved-in.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/snubbed-by-obama-joe-biden-says-white-house-residence-was-unseen-by-him-until-he-moved-in.amp"
 type: article
-quality: 175
-heat: 615
-published: true
+quality: 163
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -25,12 +25,28 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/445ed9ed-cd0c-41f3-83e6-58a88f7d11ba/8d88fc84-ae2d-47e0-a180-90c427f3db5e/1280x720/match/image.jpg"
-    width: 1280
-    height: 720
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/640/320/biden-obama-AP.jpg?ve=1&tl=1"
+    width: 640
+    height: 320
     isCached: true
 
 related:
+  - title: "North Carolina man charged with threatening President Biden"
+    excerpt: "Prosecutors say Kyle Reeves, 27, contacted the White House switchboard “multiple times” and “made threats against President Biden and others.”"
+    publishedDateTime: 2021-02-11T20:59:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IuP9CaXKTkE/north-carolina-man-charged-threatening-president-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/north-carolina-man-charged-threatening-president-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/north-carolina-man-charged-threatening-president-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/445ed9ed-cd0c-41f3-83e6-58a88f7d11ba/8d88fc84-ae2d-47e0-a180-90c427f3db5e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Scandal-plagued blue state bureaucrats get plum posts in Biden admin"
     excerpt: "President Biden nominated Julie Su Wednesday, as the deputy secretary for the U.S. Department of Labor."
     publishedDateTime: 2021-02-11T02:49:11Z
@@ -239,22 +255,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Snubbed by Obama? Joe Biden says White House ‘residence’ was unseen by him – until he moved in"
-    excerpt: "President Joe Biden served in the U.S. Senate for more than 30 years, and then served eight years as Barack Obama’s vice president. But until he moved in last month, he said Tuesday night, he’d never been inside the presidential \"residence\" area of the White House."
-    publishedDateTime: 2021-02-17T06:05:35Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6Mk4fARJE9c/snubbed-by-obama-joe-biden-says-white-house-residence-was-unseen-by-him-until-he-moved-in"
-    ampWebUrl: "https://www.foxnews.com/politics/snubbed-by-obama-joe-biden-says-white-house-residence-was-unseen-by-him-until-he-moved-in.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/snubbed-by-obama-joe-biden-says-white-house-residence-was-unseen-by-him-until-he-moved-in.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 163
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/640/320/biden-obama-AP.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "White House says Biden backs citizenship for 11 million illegal immigrants, ahead of bill unveiling"
     excerpt: "The White House on Tuesday reaffirmed that President Biden backs a controversial plan to create a pathway to citizenship to at least 11 million illegal immigrants -- as the White House and congressional Democrats are expected to formally unveil a sweeping immigration bill as soon as this week."
     publishedDateTime: 2021-02-16T21:28:39Z
@@ -382,6 +382,6 @@ related:
         height: 3480
         isCached: true
 
-secured: "uvJ2RQXav3uT/MblA2MM7v0wqeiZCpdQLKbzFqNl/a2tJ6zaYypowdTm8OC9A0D5SYJ2tmGmZrkIHaxextmar4TPQOeDs85wGmp4FEMwuJOtAI5rRufOv30s6Rd5X/Y1olDfy+szCp0h15CfPOcDZTDLhK2bRPgcy10Bg6aBubomCOU/sS7mwghcqrDMOYOXFGssUQyScgwJPSzbatAo9yLeuo7Yv7JZ31bHosdJpaRNGwkUt+szw3TKffQ27JDNqQqJ94AZqo+OgyLeL9FiQb3QPrrY6fn8Fn013Z6WK2BdP2RvdJhPy8XjYyFQDBM7httu2uBmyB4WqZwvIpmEbw87QQEX00IXOq3EvUePcRk=;zQFF2ukH8mA8AsMY0cYVtQ=="
+secured: "2ryuwpCcFJGgbyxBK7nsjavk/Ecx/oK2Xc3LZwuUWEvebY47MNeThb71eVJngfBurQ/gMZqEaR4aiDGooHwZB2Wc44yz/FxB9qwslk0OVUK/t7utSVAVz+gv1DY3zUOBxryNxEFqEndrens4eOvSingPZ0X3PT7gEv7DwlxCN8GJifbQ//MpiIe7ylx1mNS0uUePazSeVjLaGutZ2ZINmhRfL8J/JfnluP5YFV6dNG1bCAeF2WA5MgEjbpN48r5t/wmH2/rKw9V3NCV+jOi/mk3IG9e7zbKLJ8Q7SnSIWu2S0bwAnAzlXQzI/1fbmDiYDMe1gqUHl499s1k8S+odztASXOOA/tDTvFS256NY14E=;Eu6+gDM9fIOYXtSmZqvHFQ=="
 ---
 

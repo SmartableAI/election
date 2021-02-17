@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/biden-order-reestablishes-fa
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-order-reestablishes-faith-focused-white-house-office/2021/02/14/17fe6700-6ee0-11eb-8651-6d3091eac63f_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 465
+heat: 485
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/Politics/WireAP_d81b3879bfd9430a9155b21ede88112c_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden reframes goal on reopening of elementary schools"
+    excerpt: "President Joe Biden is promising a majority of elementary schools will be open five days a week by the end of his first 100 days in office"
+    publishedDateTime: 2021-02-17T07:04:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/biden-heads-wis-rally-support-virus-relief-bill-75931069"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/biden-heads-wis-rally-support-virus-relief-bill-75931069"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/biden-heads-wis-rally-support-virus-relief-bill-75931069"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/WireAP_a5f552c932dc494e992e5f6e05d4884a_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true

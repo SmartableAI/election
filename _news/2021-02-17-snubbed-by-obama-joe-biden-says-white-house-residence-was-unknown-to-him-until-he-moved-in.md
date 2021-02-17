@@ -175,6 +175,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden takes heat for ‘different norms’ remark while discussing China, human rights"
+    excerpt: "President Biden faced swift criticism Tuesday night for remarks on how he plans to approach human rights abuses in China."
+    publishedDateTime: 2021-02-17T08:02:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FPyBiCyUuf0/biden-takes-heat-for-different-norms-remark-while-discussing-china-human-rights"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-takes-heat-for-different-norms-remark-while-discussing-china-human-rights.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-takes-heat-for-different-norms-remark-while-discussing-china-human-rights.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "WH aide resigns after allegedly demeaning reporter despite Biden's warning of firing"
     excerpt: "Deputy White House press secretary TJ Ducklo on Saturday said he was resigning amid allegations that he made \"derogatory and misogynistic\" remarks to Politico reporter Tara Palmeri nearly a month ago."
     publishedDateTime: 2021-02-14T00:45:10Z
@@ -222,6 +238,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6554f8d4-65cb-4edb-bf38-d438ab82a7bc/83c50f56-1be3-4049-8b93-4a4d75b030fa/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Snubbed by Obama? Joe Biden says White House ‘residence’ was unseen by him – until he moved in"
+    excerpt: "President Joe Biden served in the U.S. Senate for more than 30 years, and then served eight years as Barack Obama’s vice president. But until he moved in last month, he said Tuesday night, he’d never been inside the presidential \"residence\" area of the White House."
+    publishedDateTime: 2021-02-17T06:05:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6Mk4fARJE9c/snubbed-by-obama-joe-biden-says-white-house-residence-was-unseen-by-him-until-he-moved-in"
+    ampWebUrl: "https://www.foxnews.com/politics/snubbed-by-obama-joe-biden-says-white-house-residence-was-unseen-by-him-until-he-moved-in.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/snubbed-by-obama-joe-biden-says-white-house-residence-was-unseen-by-him-until-he-moved-in.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/640/320/biden-obama-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "White House says Biden backs citizenship for 11 million illegal immigrants, ahead of bill unveiling"
     excerpt: "The White House on Tuesday reaffirmed that President Biden backs a controversial plan to create a pathway to citizenship to at least 11 million illegal immigrants -- as the White House and congressional Democrats are expected to formally unveil a sweeping immigration bill as soon as this week."

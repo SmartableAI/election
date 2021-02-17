@@ -1,22 +1,22 @@
 ---
 category: news
-title: "After not-guilty vote, McConnell says Trump 'morally responsible' for Capitol riot"
-excerpt: "U.S. Senate Minority Leader Mitch McConnell called Donald Trump \"practically and morally responsible\" for his supporters' deadly attack on the Capitol, only moments after voting to acquit the Republican former president on an impeachment charge of inciting the melee."
-publishedDateTime: 2021-02-14T04:43:00Z
-originalUrl: "https://www.reuters.com/article/uk-usa-trump-impeachment-republicans-idUKKBN2AD0P3"
-webUrl: "https://www.reuters.com/article/uk-usa-trump-impeachment-republicans-idUKKBN2AD0P3"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2AD0P3"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2AD0P3"
+title: "Trump attacks his former ally Mitch McConnell as a 'dour, sullen, unsmiling political hack'"
+excerpt: "\"He doesn't have what it takes, and never will,\" Trump said on Tuesday in response to McConnell's harsh floor speech about the Capitol riots."
+publishedDateTime: 2021-02-17T07:20:00Z
+originalUrl: "https://www.businessinsider.com/trump-breaks-with-mcconnell-calls-him-dour-sullen-unsmiling-hack-2021-2"
+webUrl: "https://www.businessinsider.com/trump-breaks-with-mcconnell-calls-him-dour-sullen-unsmiling-hack-2021-2"
+ampWebUrl: "https://www.businessinsider.com/trump-breaks-with-mcconnell-calls-him-dour-sullen-unsmiling-hack-2021-2?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-breaks-with-mcconnell-calls-him-dour-sullen-unsmiling-hack-2021-2?amp"
 type: article
-quality: 119
+quality: 115
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210213&t=2&i=1551455565&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1C0K3"
-    width: 875
-    height: 545
+  - url: "https://i.insider.com/5fd120c1240ebd00126bdfc7?width=1200&format=jpeg"
+    width: 1200
+    height: 600
     isCached: true
 
 related:
@@ -63,6 +63,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "After not-guilty vote, McConnell says Trump 'morally responsible' for Capitol riot"
+    excerpt: "U.S. Senate Minority Leader Mitch McConnell called Donald Trump \"practically and morally responsible\" for his supporters' deadly attack on the Capitol, only moments after voting to acquit the Republican former president on an impeachment charge of inciting the melee."
+    publishedDateTime: 2021-02-14T04:43:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump-impeachment-republicans-idUKKBN2AD0P3"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2AD0P3"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2AD0P3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 119
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210213&t=2&i=1551455565&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1C0K3"
+        width: 875
+        height: 545
+        isCached: true
   - title: "Read Donald Trump's Full Statement on Mitch McConnell, His First Since Impeachment"
     excerpt: "In his first full statement since being impeached by the House, former President Donald Trump said Senate Minority Leader Mitch McConnell was \"seriously hurting our Country.\""
     publishedDateTime: 2021-02-16T22:43:00Z
@@ -94,22 +110,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OV4BQHDMZII6XJTO4JYEN2PITA.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "Trump attacks his former ally Mitch McConnell as a 'dour, sullen, unsmiling political hack'"
-    excerpt: "\"He doesn't have what it takes, and never will,\" Trump said on Tuesday in response to McConnell's harsh floor speech about the Capitol riots."
-    publishedDateTime: 2021-02-17T07:20:00Z
-    webUrl: "https://www.businessinsider.com/trump-breaks-with-mcconnell-calls-him-dour-sullen-unsmiling-hack-2021-2"
-    ampWebUrl: "https://www.businessinsider.com/trump-breaks-with-mcconnell-calls-him-dour-sullen-unsmiling-hack-2021-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-breaks-with-mcconnell-calls-him-dour-sullen-unsmiling-hack-2021-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 115
-    images:
-      - url: "https://i.insider.com/5fd120c1240ebd00126bdfc7?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Trump's lawyer claims the Capitol attack wasn't an 'insurrection.' Mitch McConnell disagrees."
     excerpt: "Senate Minority Leader Mitch McConnell disagrees. He's called the Capitol attack a \"failed insurrection.\""
@@ -222,6 +222,6 @@ related:
         height: 336
         isCached: true
 
-secured: "5xdw2Px1oc1XWeDt56P2gkvgC9KxcEysVdWxaW6Z15cOMrb3ElTiHmPqQSPKTTcAvyYCGE6c4XgyIY8rdk+0k/cNg2V5EL68PSC1QpfLWceHQk4+FLPB+KLojj+aQI5kAhFXhYTdfOvV5lCwZldtOrMxC/e0q3VDj9d6cE+8owqKgJEl9X1RwWkatNZmg+SGvC+MgfRghZ9N+UB13yOc/hIk39eVIe98XAh2joui7DCTlMtDoaQ0vzRfZ6t508G2er+bie/FoqQ0ozWhI8XiuZdvdGPXt/hLwc+GU/amhdkYONxNLdr8hg14F1MycYzdkc2Wqlgt2ZPplkx3UAoXsEb7ctuNAwfppR6wP+iKBbM=;BPeDgD60sdz0taADSUnViw=="
+secured: "gPFR+ImjgEt7AZ0Gpmvbxv2TYdHBRiODhhwMo+Dnt3eD74lkozneIYIpPZraTmkdIOetLBLKQR/EvU1OoDPBrX/pZHA++j3XgNDhzlpLG4XEKrPbKpTO1/V/M5uxLh4DRuQFrmILJgOl+CNJwaTkf52BcE9CZNxhVj5Q2C4Y7pR05Ca0qIGda7M02nodbH+bX5bzC13rDnb1pPw99xizpaKzt0rDPiScVhTZ9nIXPpczFZXp9ouDakt/7EaYCGhY70LdWRwHl4GJMunXQWWe3g9PPt0MNvJlG4MyBWaOh/KXfcmuScnEroOvczE932S8L7a9V/xNNjxaOFw/E/mSrP1OWm7CqW+NEHRwhuexUxM=;Q96dSiuKKIM+/7j01m0+2Q=="
 ---
 

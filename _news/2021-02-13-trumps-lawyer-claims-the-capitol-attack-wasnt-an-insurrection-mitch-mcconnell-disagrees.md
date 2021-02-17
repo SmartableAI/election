@@ -111,6 +111,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Trump attacks his former ally Mitch McConnell as a 'dour, sullen, unsmiling political hack'"
+    excerpt: "\"He doesn't have what it takes, and never will,\" Trump said on Tuesday in response to McConnell's harsh floor speech about the Capitol riots."
+    publishedDateTime: 2021-02-17T07:20:00Z
+    webUrl: "https://www.businessinsider.com/trump-breaks-with-mcconnell-calls-him-dour-sullen-unsmiling-hack-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/trump-breaks-with-mcconnell-calls-him-dour-sullen-unsmiling-hack-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-breaks-with-mcconnell-calls-him-dour-sullen-unsmiling-hack-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 115
+    images:
+      - url: "https://i.insider.com/5fd120c1240ebd00126bdfc7?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Fact check: Yes, McConnell said Trump was 'practically and morally responsible' for Capitol riot"
     excerpt: "Posts are accurate in claiming that Sen. Mitch McConnell blamed former President Donald Trump for the Capitol riot but voted for acquittal."
     publishedDateTime: 2021-02-17T03:16:00Z

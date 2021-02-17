@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/14/trump-acquittal-bide
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/14/trump-acquittal-biden-urges-vigilance-to-defend-fragile-democracy-after-impeachment-trial"
 type: article
 quality: 129
-heat: 1389
+heat: 1409
 published: true
 
 provider:
@@ -285,6 +285,22 @@ related:
     images:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210214&t=2&i=1551489662&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1D09O"
         width: 819
+        height: 545
+        isCached: true
+  - title: "Explainer: Trump's acts as president are 'fair game' for criminal charges"
+    excerpt: "Donald Trump's legal troubles are far from over, despite his acquittal in the U.S. Senate impeachment trial that ended on Saturday."
+    publishedDateTime: 2021-02-17T08:13:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-charges-explainer-idUSKBN2AG208"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AG208"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AG208"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210217&t=2&i=1551795349&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1G059"
+        width: 817
         height: 545
         isCached: true
   - title: "Impeachment trial: defense lawyers argue Trump is victim of 'cancel culture'"

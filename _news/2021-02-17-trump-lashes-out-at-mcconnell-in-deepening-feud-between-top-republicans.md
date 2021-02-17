@@ -1,34 +1,28 @@
 ---
 category: news
-title: "Trump lashes out at McConnell in deepening feud between top Republicans"
+title: "Trump Lashes Out at McConnell in Deepening Feud Between Top Republicans"
 excerpt: "Former President Donald Trump lashed out at Senate Minority Leader Mitch McConnell on Tuesday, signaling a growing feud between the two most senior Republican voices after the party lost the White House and control of the Senate."
-publishedDateTime: 2021-02-17T00:11:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-trump-mcconnell-idUSKBN2AG2LL"
-webUrl: "https://www.reuters.com/article/us-usa-trump-mcconnell-idUSKBN2AG2LL"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AG2LL"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AG2LL"
+publishedDateTime: 2021-02-17T07:23:00Z
+originalUrl: "https://www.usnews.com/news/top-news/articles/2021-02-16/trump-says-republicans-will-not-win-again-if-they-stick-with-hack-mcconnell"
+webUrl: "https://www.usnews.com/news/top-news/articles/2021-02-16/trump-says-republicans-will-not-win-again-if-they-stick-with-hack-mcconnell"
+ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-02-16/trump-says-republicans-will-not-win-again-if-they-stick-with-hack-mcconnell?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-02-16/trump-says-republicans-will-not-win-again-if-they-stick-with-hack-mcconnell?context=amp"
 type: article
-quality: 125
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210216&t=2&i=1551774169&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1F1KA"
-    width: 900
-    height: 545
-    isCached: true
 
 related:
   - title: "Trump triumphant – but senior Republicans still see battles ahead"
@@ -332,6 +326,6 @@ related:
         height: 630
         isCached: true
 
-secured: "uoh8QqZbWhqqWztJqE/UFN75DKqGAH0EOhFC4eR0BfJy5uTgoO8TatM1sGkYlN5MhBJEbJSOepW6XCnmJEozCv45/YaeU85+v+ROIUjAXajDV9q9diZteGN67ta6CKhaNM7kfmaa3Uy8Io6a+UTbs1EnpmUJ48RSP5HRnizhKLufXqUJJxGG92xM3dxAzGHlD+RXq606LUuEW4OQOVOmuBIsGH/xepNLO45KxsBUhMd4ZjEqieSqf9iX7UL1r4o4LEhtt/srAQ5Cp0MIZAXTeCy8KCZvD4j8rB7Z6zdTWpNUogt9jOIkOv03zqce0y/5JhvVOMz/MvEnboxatSatN3pmGrvMrMmJ2t+p+nJYdb5bHuPLFlo4s+0b4P9ZsQG5k8pdtozaJTdjqZwJwXA4LCR3bNNiILULMJviGCdJDGksJqltLmBWbThptjm0SO9yyXItf+EM0wfIl24EcXj1jk20BWANNJkcYw/o6ZAXVQ6iO8Snkd35AhalG9IlZn4GR+eFpscflmeqz3BoBFxcTQ==;unUUDtLvFpGqflsrr3ugkA=="
+secured: "fvzXtFKF5U2Oscvgn6fVRrjeYKCItGZBwtgXoCrUs1Qcazny+MfX/EVvf7njZs9hhxSKp0akj05NnCkOQEwp48ybw6KLkHbMseMGLSGKcDhXq7gUfh3TYtPTAQDkQBhZMR3tpBgYSbkiFMGQMtDvgvPQVVgKaHqPKLPS24sM/D1foMeHSzLdZGd1F0+VjwsdrMleM3Ta1vg8mIucdgnaozgoMSAcUVmqrUNP45e8bhqY0kARXTgxv+sdzUs1ikQ1gpsClZakcc/OhRrbl7KJ/I8mlIfwEcDzDrgf1O+5Xhjk6u7ayNIpNO1EDLY900AZV5hCm+RvIfZ9hLED8tmunMdrvbufY7jCa+IScz/+Ej9Y8ZTxjwwzPrwATjF0FJjzVbfr7W0VCmzd/1jSrm48dRIwUfFbXzSPh5mhyuycB5W3qT5tKaD+c/GieMR0JF5zOJ7SNvATKGcjV3Tj8QtuwWSAbBxbcw2N2Gj87/SUv90zRGdE0PO0eA32N2NVtemdBDPs6BWXgu9hBxLjgTtzyw==;8zT95NqYcFpG8qmxGghDZg=="
 ---
 
