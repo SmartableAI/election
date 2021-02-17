@@ -173,6 +173,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden aims to get vaccines to every American"
+    excerpt: "Watch \"Biden administration aims to get COVID-19 vaccines to every American by end of July\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-02-17T14:41:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210217142402-biden-administration-aims-to-get-covid-19-vaccines-to-every-american-by-end-of-july/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/2014/10/24/81f260db-0e27-4cf7-83ac-a190dca0b384/slatedvr600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "Z1VKj7zb8Md71YtYK3386NjLHJgQdHG+E0v3PjgqUSz3+ncGGBVA1ZdEcxFvpi24WzVi4qC60UYtaem1LVhIbM6EVcWi7uEf0HY6PA375voZW+VZ/+ei83LH5Wfm3N2jRouRzeVMYm8szeLWH0l3HZrbxkmxYkuJOK9R/4qIE4zrDj+AMQjghLjZIldMPdh43b1D4bvYm55FUalIU2y25WkahINfR/Y6fiukwalqDXLrnNBN5Rj47/43gcDOoK+Th7r7o91s5w632OlsAg4OKiF3cU7uEnIWB6GS/aOuMClsugRDvU/OsJY0ANHmpOfpLwEzlzcMaktvoRTj+48yao7BMsnqWcEAvbjcrNpGIwI=;gWlJxLL7ulNl8yy0TJP4+w=="
 ---

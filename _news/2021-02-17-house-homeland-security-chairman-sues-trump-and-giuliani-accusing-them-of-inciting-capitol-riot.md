@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Lawsuit accuses Donald Trump, Giuliani and others of conspiring to incite Capitol riot"
+    excerpt: "Former Trump, his attorney Rudy Giuliani, the Proud Boys and Oath Keepers conspired to violate the 1871 Ku Klux Klan Act, which prohibits any actions designed to prevent"
+    publishedDateTime: 2021-02-16T20:00:00Z
+    webUrl: "https://abcnews.go.com/Politics/lawsuit-accuses-donald-trump-giuliani-conspiring-incite-capitol/story?id=75921776"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/lawsuit-accuses-donald-trump-giuliani-conspiring-incite-capitol/story?id=75921776"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/lawsuit-accuses-donald-trump-giuliani-conspiring-incite-capitol/story?id=75921776"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 117
+    images:
+      - url: "https://s.abcnews.com/images/Politics/capitol-siege-ap-ps-210216_1613484545937_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump Accused as 'Inciter in Chief' of Capitol Insurrection"
     excerpt: "Prosecutors in Donald Trump’s impeachment trial are arguing that he was no “innocent bystander” but the “inciter in chief” of last month's deadly attack at the Capitol."
     publishedDateTime: 2021-02-10T22:08:00Z

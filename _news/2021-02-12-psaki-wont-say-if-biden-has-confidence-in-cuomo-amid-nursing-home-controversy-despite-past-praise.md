@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 721
         isCached: true
+  - title: "Biden distances from Psaki comments on schools being open 1 day a week: ‘A mistake in the communication’"
+    excerpt: "President Biden on Tuesday night distanced himself from previous comments by White House press secretary Jen Psaki that the administration's goal for its first 100 days was to have more than 50% of schools open at least one day per week."
+    publishedDateTime: 2021-02-17T14:21:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PnxxNnO4wWg/biden-distances-from-psaki-comments-on-schools-being-open-one-day-a-week-a-mistake-in-the-communication"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-distances-from-psaki-comments-on-schools-being-open-one-day-a-week-a-mistake-in-the-communication.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-distances-from-psaki-comments-on-schools-being-open-one-day-a-week-a-mistake-in-the-communication.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "ZjJMi+sUOcH/eOSj/FMhaKmqLIqF0QEM1VhzS1pLR8M3CHN1Ifiu/Ms9e4gOy2AtQDWb2KYm+0P0ykYHT5rqZAS+EefXZ+vk/5dzM5jBZSEnkuzrWob5o7fdj7cms1AJYsTK7FvlbIBCaunP7pK/xTJaYs2GsdulBRDzpRYieyEKJtUwDrUKU6UIYD+ao8p61niCBtxkq8Cp3xH6atpNPT+rLQi2xhuVviao7BgN4nhg2LfU2OVibUT96CTfchFe1oJP8NJrMNk3Wha+SgHYI63AuNu5Bbnsa9OEqSK68/osOAC9gex335jgbbB3kYEIvcWv2XJ7m9CcOTIw5q2v9Lv+rqAa1zkxU/ED3y5YZsU=;g60kEVjw/XEfFrCQ7WXMhQ=="
 ---

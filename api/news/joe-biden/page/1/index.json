@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-17-irans-khamenei-demands-action-not-words-from-biden-to-revive-nuclear-deal.md",
+      "title": "Iran's Khamenei demands 'action, not words' from Biden to revive nuclear deal",
+      "excerpt": "Iran's Supreme Leader Ayatollah Ali Khamenei demanded \"action, not words\" from the United States if it wants to revive Tehran's 2015 nuclear deal with world powers, the latest challenge to new President Joe Biden to take the first step towards a thaw.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/iran-nuclear-usa-int/irans-khamenei-says-tehran-wants-action-not-words-from-parties-to-2015-deal-idUSKBN2AH0V9",
+      "originalUrl": "https://www.reuters.com/article/iran-nuclear-usa-int/irans-khamenei-says-tehran-wants-action-not-words-from-parties-to-2015-deal-idUSKBN2AH0V9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210217&t=2&i=1551828453&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1G0M8",
+          "width": 898,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2AH0UQ",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AH0UQ",
+      "publishedDateTime": "2021-02-17T04:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-02-17-biden-dismisses-a-democratic-plan-to-wipe-out-50000-in-federal-student-loan-debt.md",
       "title": "Biden dismisses a Democratic plan to wipe out $50,000 in federal student-loan debt",
       "excerpt": "President Joe Biden supports $10,000 in loan forgiveness, far less than Sens. Elizabeth Warren and Chuck Schumer proposed earlier this year.",
@@ -522,58 +574,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-13-joe-biden-would-give-in-to-nuclear-blackmail-by-re-entering-iran-deal-reza-pahlavi-says.md",
-      "title": "Joe Biden Would Give In to 'Nuclear Blackmail' by Re-Entering Iran Deal, Reza Pahlavi Says",
-      "excerpt": "The son of the former shah of Iran is among the dissidents urging the president to break away from what they say is a flawed agreement that favors Tehran.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/joe-biden-give-nuclear-blackmail-re-entering-iran-deal-reza-pahlavi-1568951",
-      "originalUrl": "https://www.newsweek.com/joe-biden-give-nuclear-blackmail-re-entering-iran-deal-reza-pahlavi-1568951",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1733515/irans-reza-pahlavi-pictured-washington-dc.jpg",
-          "width": 3600,
-          "height": 2400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/joe-biden-give-nuclear-blackmail-re-entering-iran-deal-reza-pahlavi-1568951?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-give-nuclear-blackmail-re-entering-iran-deal-reza-pahlavi-1568951?amp=1",
-      "publishedDateTime": "2021-02-12T09:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2021-02-12-biden-anxious-to-see-if-gop-senators-stand-up-on-impeachment-vote.md",
       "title": "Biden ‘anxious to see’ if GOP senators ‘stand up’ on impeachment vote",
       "excerpt": "Biden has commented only sparingly on the trial in recent days, repeatedly declining to say whether he believes Trump should be convicted of inciting an insurrection.",
@@ -748,7 +748,7 @@
       "originalUrl": "https://www.washingtonpost.com/business/democrats-pushing-bidens-covid-19-bill-through-house-panels/2021/02/11/021a9cf8-6ce0-11eb-a66e-e27046e9e898_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 265,
+      "heat": 285,
       "tags": null,
       "images": [
         {

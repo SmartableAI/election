@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/world-nation/story/2021-02-15/investigating-
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-02-15/investigating-trump-a-big-early-move-for-atlantas-new-da?_amp=true"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Wednesday's Trump Plaza implosion signals end of an era in Atlantic City"
+    excerpt: "The tower of the abandoned Trump Plaza Hotel and Casino on the Atlantic City Boardwalk is set to fall Wednesday morning around 8:30 a.m. EST."
+    publishedDateTime: 2021-02-17T12:15:00Z
+    webUrl: "https://www.usatoday.com/story/travel/news/2021/02/17/watch-trump-casino-tower-atlantic-city-implosion/6778261002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6778261002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6778261002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 124
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/17/USAT/2eea21a0-c5a4-4f9a-9598-fccc4182ab95-AP_Ex_Trump_Casino_Implosion.jpg?auto=webp&crop=5999,3374,x0,y305&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump attorney rips off mic after questioning from CBSN anchor"
     excerpt: "The Senate voted Saturday to acquit former President Donald Trump on a charge of inciting the January 6th insurrection at the Capitol. Following the vote, defense attorney Michael van der Veen joined CBSN's Lana Zak to discuss the trial in a sometimes contentious interview."
     publishedDateTime: 2021-02-14T08:12:00Z

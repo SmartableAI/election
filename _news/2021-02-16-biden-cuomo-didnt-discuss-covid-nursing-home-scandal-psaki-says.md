@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-cuomo-didnt-discuss-covid-nur
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cuomo-didnt-discuss-covid-nursing-home-scandal-psaki-says.amp"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/Psaki2.jpg"
         width: 1280
         height: 721
+        isCached: true
+  - title: "Biden distances from Psaki comments on schools being open 1 day a week: ‘A mistake in the communication’"
+    excerpt: "President Biden on Tuesday night distanced himself from previous comments by White House press secretary Jen Psaki that the administration's goal for its first 100 days was to have more than 50% of schools open at least one day per week."
+    publishedDateTime: 2021-02-17T14:21:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PnxxNnO4wWg/biden-distances-from-psaki-comments-on-schools-being-open-one-day-a-week-a-mistake-in-the-communication"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-distances-from-psaki-comments-on-schools-being-open-one-day-a-week-a-mistake-in-the-communication.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-distances-from-psaki-comments-on-schools-being-open-one-day-a-week-a-mistake-in-the-communication.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "xMtY+QarvSBaAQXe4/U+orpvSVZM80Wm6zb9GZTaZZOkm5EZAnCVn6HSZxukpH7WGODcDU0HFFLf5A951S1xkutUONuOavI7B66xjh6WwEvxs4ivzg8dvKQbH3ebMD785PEMhqectOQcowWujqk+XD1Gf/qa4ffSzZ4C12JPN1uxswo9IVGlwFJeb8ku/6TzfHRJmbGmd+c3nuqqisJ76I5jX+CpZ6ymEs8KEg9ttjHz68V5bAK5VPix3W+hgOhzNRwT0Efj5q1zOmN+AL5J+uLZU8GWz32OHclVgrGUSafFpQi3EG1T/b5D1aT45PiNBL45FG8GGnwy0AHeqg1cRHN2eK/jSjyaAqo1xvwn0Fw=;qZRNn5/NLqNK3+VTMLJgwA=="

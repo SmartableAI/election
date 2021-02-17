@@ -73,6 +73,20 @@ related:
         width: 816
         height: 545
         isCached: true
+  - title: "Essential Politics: Kamala Harris makes some long-distance calls"
+    excerpt: "Kamala Harris' call with French President Emmanuel Macron teases her potential role as a player in foreign policy, filling a gap in her presidential resume."
+    publishedDateTime: 2021-02-17T14:45:00Z
+    webUrl: "https://www.latimes.com/politics/newsletter/2021-02-17/kamala-harris-foreign-policy-macron-trudeau-essential-politics"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 105
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/c58dafd/2147483647/strip/true/crop/1600x840+0+113/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F0d%2Fab%2Fbc2d96924e768536e3bad840386e%2Fla-na-pol-vp-harris-18.JPG"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "GOP Senator Warns VP Kamala Harris Could Be Impeached If This Happens"
     excerpt: "A South Carolina Republican lawmaker accused Vice President Harris of inciting violence after she \"bailed out\" George Floyd rioters."
     publishedDateTime: 2021-02-15T03:12:00Z

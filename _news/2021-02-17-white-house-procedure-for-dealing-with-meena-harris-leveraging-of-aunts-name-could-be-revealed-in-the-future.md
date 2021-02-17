@@ -48,6 +48,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden has not yet scheduled a date for first address to a joint session of Congress"
+    excerpt: "The White House has not yet scheduled a date for President Biden to deliver his first address to a joint session of Congress -- even though the president had suggested it would take place this month."
+    publishedDateTime: 2021-02-17T13:21:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0GbLxqCqg1I/biden-first-address-joint-session-congress"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-first-address-joint-session-congress.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-first-address-joint-session-congress.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden budget nominee Neera Tanden could face testy hearings amid scrutiny of inflammatory tweets"
     excerpt: "President Biden's pick for director of the White House Office of Management and Budget could find herself in unfriendly territory when she sits for two confirmation hearings this week after a history of enmity with lawmakers on both sides of the aisle."
     publishedDateTime: 2021-02-08T17:23:37Z

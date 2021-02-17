@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-calls-canadas-tr
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-calls-canadas-trudeau-mexicos-lpez-obrador-75444816"
 type: article
 quality: 125
-heat: 305
+heat: 325
 published: true
 
 provider:
@@ -172,6 +172,20 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/20/ac9c1308-2b58-40b0-811d-30ad5e8701b1/thumbnail/1200x630/b4d05d42f91a2fb247c1197479de4347/cbsn-fusion-joe-biden-inauguration-speech-thumbnail-630010-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Biden aims to get vaccines to every American"
+    excerpt: "Watch \"Biden administration aims to get COVID-19 vaccines to every American by end of July\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-02-17T14:41:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210217142402-biden-administration-aims-to-get-covid-19-vaccines-to-every-american-by-end-of-july/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/2014/10/24/81f260db-0e27-4cf7-83ac-a190dca0b384/slatedvr600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "LwSP7wqKv+mATid31RfHkvsMdai6Hvhi/YPZ31Qwsu0h26gzkIcAfqosRzZjcQrxAXz5uL3nbCB6yDYWk1PP4HHvbIgf9isRS+YHo9Qzy6uxD9Y5ycCEq83XOSizZ2WeAJw4mB/tX3P/nCt2ISWG8rHUjZ/Zu2nxZ9HJvJLYYhbqUr6Z6XO60BBik+a4HX1jDKTzv69cUHaO2pJiQBTJZ/ddwbIcEqmdEkBff12/d2wetzPW2Uq8Oi063dM1cggLZYcS4Yn9afSDPIL/lfyttDeDpoDblJLQQRFuQXYSVxlWfL99KA1GlDkPt0C/Z5HKOtHpgTNwMEXKD+JA+DCd82QKw8lchmAm2E68r57RysE=;Ibj6tf8TyLyuXHxq9JtGfg=="

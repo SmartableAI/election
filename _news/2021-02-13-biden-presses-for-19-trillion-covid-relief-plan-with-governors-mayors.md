@@ -95,6 +95,22 @@ related:
         width: 800
         height: 545
         isCached: true
+  - title: "Biden heads out of D.C. for town hall and first major presidential trip"
+    excerpt: "President Biden took his message to Milwaukee, attempting to move past former president Donald Trump’s impeachment and sell his own agenda. But even as he tries a return to normalcy, Biden’s events are heavily restricted by the pandemic."
+    publishedDateTime: 2021-02-17T14:12:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-milwaukee-town-hall/2021/02/16/e9113236-7067-11eb-85fa-e0ccb3660358_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-milwaukee-town-hall/2021/02/16/e9113236-7067-11eb-85fa-e0ccb3660358_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-milwaukee-town-hall/2021/02/16/e9113236-7067-11eb-85fa-e0ccb3660358_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FVFCOEDQVAI6XOFJXFDHKEHQ7Y.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Biden: Governors and mayors need $350 billion to fight COVID"
     excerpt: "President Joe Biden met with a bipartisan group of governors and mayors at the White House on Friday as part of his push to give financial relief from the coronavirus pandemic to state and local governments — a clear source of division with Republican lawmakers who view the spending as wasteful."
     publishedDateTime: 2021-02-12T23:55:00Z

@@ -159,6 +159,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Kamala Harris echoes Biden promise to get vaccine to 'all Americans' by July"
+    excerpt: "Vice-president touts speed with which government is sending Covid-19 vaccines to states, a 57% increase since the inauguration"
+    publishedDateTime: 2021-02-17T13:53:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/feb/17/kamala-harris-covid-vaccine-all-americans-july"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/17/kamala-harris-covid-vaccine-all-americans-july"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/17/kamala-harris-covid-vaccine-all-americans-july"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 137
+    images:
+      - url: "https://i.guim.co.uk/img/media/7080271c4672fde6611b453044c07e26cb01a4f1/0_215_3500_2102/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4326dbd22ff0acde66d92f9666493f27"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Neera Tanden, Biden's Contentious Budget Chief Pick, Tweeted 30K More than Donald Trump"
     excerpt: "Tanden has come under fire in recent weeks for her combative Twitter history that included targeting Republicans and progressive Democrats."
     publishedDateTime: 2021-02-11T17:51:00Z

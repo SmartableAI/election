@@ -45,6 +45,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Wednesday's Trump Plaza implosion signals end of an era in Atlantic City"
+    excerpt: "The tower of the abandoned Trump Plaza Hotel and Casino on the Atlantic City Boardwalk is set to fall Wednesday morning around 8:30 a.m. EST."
+    publishedDateTime: 2021-02-17T12:15:00Z
+    webUrl: "https://www.usatoday.com/story/travel/news/2021/02/17/watch-trump-casino-tower-atlantic-city-implosion/6778261002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6778261002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6778261002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 124
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/17/USAT/2eea21a0-c5a4-4f9a-9598-fccc4182ab95-AP_Ex_Trump_Casino_Implosion.jpg?auto=webp&crop=5999,3374,x0,y305&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "TPlLDVgdE8MXOZHRLX2jeOtGCjZY0+hjqZ1qsIAC9TQVTx5N9uM74PdGAz2BmfYhaggJmhYliX9uHW1sVYw86Nu1m5jDDtDBJcRg8EhIb/DEiRgXEWatMkVPPiZc3vSS883SDfo8CYkcEja7eqNelY7b8tmi4kQqOZknaA02S2mBMShGUGgHA+m04NUwUKLPPsmtUNEG54LNVYDI/6ivBxN3GTPwXLHTUiZCpKCquj8fooXRM/ILe63lPwzSR3sHOr15YOqZNdJ9NgWVbUaHqPwgwSOqfJObkAw6MrVhVBAtkDUAKsqMOoMiySh8vH2BKxsDBKqvHBOofdkIYFox2RpTTsO7J34+760L/qoFha8=;j0ojUCrnXN2VwNWED1IH5A=="
 ---

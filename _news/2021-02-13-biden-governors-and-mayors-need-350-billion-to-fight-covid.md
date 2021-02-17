@@ -89,6 +89,22 @@ related:
         width: 800
         height: 545
         isCached: true
+  - title: "Biden heads out of D.C. for town hall and first major presidential trip"
+    excerpt: "President Biden took his message to Milwaukee, attempting to move past former president Donald Trump’s impeachment and sell his own agenda. But even as he tries a return to normalcy, Biden’s events are heavily restricted by the pandemic."
+    publishedDateTime: 2021-02-17T14:12:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-milwaukee-town-hall/2021/02/16/e9113236-7067-11eb-85fa-e0ccb3660358_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-milwaukee-town-hall/2021/02/16/e9113236-7067-11eb-85fa-e0ccb3660358_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-milwaukee-town-hall/2021/02/16/e9113236-7067-11eb-85fa-e0ccb3660358_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FVFCOEDQVAI6XOFJXFDHKEHQ7Y.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Biden presses for $1.9 trillion COVID relief plan with governors, mayors"
     excerpt: "U.S. President Joe Biden pushed for the first major legislative achievement of his term on Friday, turning to a bipartisan group of local officials for help on his $1.9 trillion coronavirus relief plan."
     publishedDateTime: 2021-02-12T22:35:00Z

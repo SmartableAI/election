@@ -79,6 +79,20 @@ related:
         width: 816
         height: 545
         isCached: true
+  - title: "Essential Politics: Kamala Harris makes some long-distance calls"
+    excerpt: "Kamala Harris' call with French President Emmanuel Macron teases her potential role as a player in foreign policy, filling a gap in her presidential resume."
+    publishedDateTime: 2021-02-17T14:45:00Z
+    webUrl: "https://www.latimes.com/politics/newsletter/2021-02-17/kamala-harris-foreign-policy-macron-trudeau-essential-politics"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 105
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/c58dafd/2147483647/strip/true/crop/1600x840+0+113/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F0d%2Fab%2Fbc2d96924e768536e3bad840386e%2Fla-na-pol-vp-harris-18.JPG"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Kamala Harris, Husband Doug Emhoff Give Healthcare Workers A Valentine's Day Surprise"
     excerpt: "Kamala Harris and her husband, Doug Emhoff, handed out cookies to essential healthcare workers for Valentine's Day."
     publishedDateTime: 2021-02-14T07:27:00Z

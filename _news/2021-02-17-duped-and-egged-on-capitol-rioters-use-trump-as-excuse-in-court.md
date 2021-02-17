@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/capitol-riot-suspects-trump-blame-c
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/capitol-riot-suspects-trump-blame-court/"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Lawsuit accuses Donald Trump, Giuliani and others of conspiring to incite Capitol riot"
+    excerpt: "Former Trump, his attorney Rudy Giuliani, the Proud Boys and Oath Keepers conspired to violate the 1871 Ku Klux Klan Act, which prohibits any actions designed to prevent"
+    publishedDateTime: 2021-02-16T20:00:00Z
+    webUrl: "https://abcnews.go.com/Politics/lawsuit-accuses-donald-trump-giuliani-conspiring-incite-capitol/story?id=75921776"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/lawsuit-accuses-donald-trump-giuliani-conspiring-incite-capitol/story?id=75921776"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/lawsuit-accuses-donald-trump-giuliani-conspiring-incite-capitol/story?id=75921776"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 117
+    images:
+      - url: "https://s.abcnews.com/images/Politics/capitol-siege-ap-ps-210216_1613484545937_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "House Homeland Security chairman sues Trump and Giuliani, accusing them of inciting Capitol riot"
     excerpt: "The lawsuit marks latest legal action challenging former president and invokes the 1871 Ku Klux Klan Act, which bars interference in Congress’ constitutional duties."
     publishedDateTime: 2021-02-16T20:29:00Z
@@ -59,6 +75,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "K0QOLPqtMrypo8HO4I7iAHMCOYB/mZHj5Meh7nU+i8sECS7UjGkkozmnXKJsxaeULhZ+BZ0/32cfHDPqXLbadG5zt8Cj5c3r6LFkodSklm9DCm+BIh7BWeJjm0Wx817ITHMt2YtY0ANASda3z6jpLfh+mzry8KRIIfrMLFr+LPEbOCi0KA8jcD6K9i49BoplqPnHX2Kv5BS0eFclt3+KM9CMqWbG6VSEBAb7YTyY+WPDhOerWsMqsg0N6cA5+wdWrB0VFdNe1ZDqVInyUvOr4O/coCmXrtPtuGRaG+07iU646k7wClYlTcqDiDkDACHxCptmi7u/62/1C+U0clCRNJqzHl9cbdxEwtxjB/y/2cI=;tBEcjqc3UvSaNhxUpGcp5A=="
+secured: "Mr0YynNYQ0T6lcGlDeTZc3XleOlGRaqnHay0DAPbn1lQjgF5K0IAdcRIBxtTXwUgnVdxoIpwyvIwV5ofS65Jy8bapM1orYcVvCoZ5SBSzXDtbSLHr4TM4Z03uIy2x9U70Bf5bjh+Q3nknJMns11LC+iuxudR5tgomgkwDRilVjqXI2wvcw9X/Czkzyg5Gb0sCZYuNN4tZxy6S4nXJZ5oeWlKRF9ydzOMqVPjYqFxOp9uxjUys8XwcAUft1/sFfz8ldJJBLf5ORyRZInTec0rBuC+2Gn8qN2dPtNXjZxNUGjIG+gXgUDKi29SMVG7+LiWDRlRPKasJyyxbafDsZWipgu9WrlBoOujrMePI6ZiYd/Kzzlu397GK0bTi9Jy/LpRxMb/WHo8J8XN3RWFJWIxZPK9dTevS5TwYzAyIega92whwZNPmf1ME+sF19K6L1mgUKIJO/LfxwmkrNVlneiRaFyUl5O0RwlGvqCoXR7xXvz7xk6CK+YTGVI6S3RIJ089s0zahCoCoIJPaNkiJTKEFg==;wUwCji/TM2AEzuvcKrCf5w=="
 ---
 

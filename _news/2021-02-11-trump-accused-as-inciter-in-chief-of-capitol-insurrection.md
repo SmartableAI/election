@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Lawsuit accuses Donald Trump, Giuliani and others of conspiring to incite Capitol riot"
+    excerpt: "Former Trump, his attorney Rudy Giuliani, the Proud Boys and Oath Keepers conspired to violate the 1871 Ku Klux Klan Act, which prohibits any actions designed to prevent"
+    publishedDateTime: 2021-02-16T20:00:00Z
+    webUrl: "https://abcnews.go.com/Politics/lawsuit-accuses-donald-trump-giuliani-conspiring-incite-capitol/story?id=75921776"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/lawsuit-accuses-donald-trump-giuliani-conspiring-incite-capitol/story?id=75921776"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/lawsuit-accuses-donald-trump-giuliani-conspiring-incite-capitol/story?id=75921776"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 117
+    images:
+      - url: "https://s.abcnews.com/images/Politics/capitol-siege-ap-ps-210216_1613484545937_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "House Homeland Security chairman sues Trump and Giuliani, accusing them of inciting Capitol riot"
     excerpt: "The lawsuit marks latest legal action challenging former president and invokes the 1871 Ku Klux Klan Act, which bars interference in Congress’ constitutional duties."
     publishedDateTime: 2021-02-16T20:29:00Z
