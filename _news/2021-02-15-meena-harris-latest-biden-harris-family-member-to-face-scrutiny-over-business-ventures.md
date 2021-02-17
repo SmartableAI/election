@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/meena-harris-latest-biden-harris-fa
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/meena-harris-latest-biden-harris-family-member-scrutiny-business-ventures.amp"
 type: article
 quality: 192
-heat: 252
+heat: 272
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "White House procedure for dealing with Meena Harris’ leveraging of aunt's name could be revealed in the future"
+    excerpt: "The process by which the White House addresses potential conflicts of interest like Vice President Kamala Harris’ niece using her aunt’s name to boost her brand has not been made public, but it possibly could be in the future, Fox News has learned.    "
+    publishedDateTime: 2021-02-17T02:31:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HXMqiw9ABXo/white-house-procedure-meena-harris-leveraging-aunts-revealed-in-future"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-procedure-meena-harris-leveraging-aunts-revealed-in-future.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-procedure-meena-harris-leveraging-aunts-revealed-in-future.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Meena-Harris.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden budget nominee Neera Tanden could face testy hearings amid scrutiny of inflammatory tweets"
     excerpt: "President Biden's pick for director of the White House Office of Management and Budget could find herself in unfriendly territory when she sits for two confirmation hearings this week after a history of enmity with lawmakers on both sides of the aisle."
     publishedDateTime: 2021-02-08T17:23:37Z

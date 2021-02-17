@@ -191,6 +191,22 @@ related:
         width: 3000
         height: 2333
         isCached: true
+  - title: "Biden's 1st 100 days live updates: Biden using 1st trip as president to make case for COVID relief plan"
+    excerpt: "Biden is visiting Wisconsin on Tuesday and Michigan on Thursday. Coronavirus and the economy This is Day 28 of the administration of President Joe Biden and Vice President Kamala Harris. Biden traveled to Milwaukee Tuesday evening and is participating in a televised CNN town hall where he's answering questions from Americans."
+    publishedDateTime: 2021-02-17T02:44:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/joe-biden-white-house-administration/?id=75890872"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/joe-biden-white-house-administration/?id=75890872"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/joe-biden-white-house-administration/?id=75890872"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 109
+    images:
+      - url: "https://s.abcnews.com/images/Politics/biden-town-hall-milwaukee-ge_hpMain_20210216-213546_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Pres. Biden urging Congress for stricter gun ..."
     excerpt: "Watch \"Pres. Biden urging Congress for stricter gun laws as Sunday marks 3 years since the deadly mass shooting in Parkland, Florida\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN,"
     publishedDateTime: 2021-02-15T22:47:00Z

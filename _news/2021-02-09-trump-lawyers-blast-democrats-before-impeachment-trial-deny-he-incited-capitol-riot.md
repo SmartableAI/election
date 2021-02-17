@@ -367,6 +367,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Impeachment Manager Lists All the Criminal Charges Trump Could Face After Acquittal"
+    excerpt: "Delegate Stacey Plaskett said that state-level criminal investigations against former President Donald Trump \"will continue to move forward.\""
+    publishedDateTime: 2021-02-17T02:21:00Z
+    webUrl: "https://www.newsweek.com/impeachment-manager-lists-all-criminal-charges-trump-could-face-after-acquittal-1569785"
+    ampWebUrl: "https://www.newsweek.com/impeachment-manager-lists-all-criminal-charges-trump-could-face-after-acquittal-1569785?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/impeachment-manager-lists-all-criminal-charges-trump-could-face-after-acquittal-1569785?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 119
+    images:
+      - url: "https://d.newsweek.com/en/full/1737326/donald-trump-potential-criminal-investigations-state-level.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Trump impeachment trial live updates: Democrats to present never-before-seen evidence"
     excerpt: "House impeachment managers will use evidence that hasn't been seen before during the imminent trial, according to senior aides on the team. Senate Majority Leader Chuck Schumer re"
     publishedDateTime: 2021-02-09T16:35:00Z

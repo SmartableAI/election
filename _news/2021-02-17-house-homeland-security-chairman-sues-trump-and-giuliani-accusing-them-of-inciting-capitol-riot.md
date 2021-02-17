@@ -63,6 +63,22 @@ related:
         width: 823
         height: 545
         isCached: true
+  - title: "Democratic Rep. Bennie Thompson sues Donald Trump over role in U.S. Capitol riot"
+    excerpt: "The lawsuit from the Mississippi Democrat is part of an expected wave of litigation over the Jan. 6 riot at the U.S. Capitol."
+    publishedDateTime: 2021-02-16T16:05:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/16/bennie-thompson-sues-trump-giuliani-capitol-riot-ku-klux-klan-act/6763594002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6763594002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6763594002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/16/USAT/4e37de16-1458-45f7-82d0-cdb80204b6c4-AP21047435262826.jpg?auto=webp&crop=1023,576,x0,y74&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Trump and Giuliani sued by Democratic congressman over deadly Capitol riot – live"
     excerpt: "Bennie Thompson accuses Trump and allies of violating 1871 act that prohibits violence that disrupts work of Congress – follow all the latest"
     publishedDateTime: 2021-02-16T16:15:00Z
@@ -107,6 +123,6 @@ related:
       domain: theguardian.com
     quality: 97
 
-secured: "3LOPaw7/k6Ia0B+PwTQJZpiGQEqme88c4XfICm4WTdbjs/qLvS3x1sC0C1g3oZXF48b47D/EQeB90Cw7+WsSTErRGXRVDz2Q4/JQQNUdI8r/acL1M+OhQEzUeyy8lyCLOWvc0YnWap3y+d12luNjMI2a7HWBxnclPpF049GUjiFWzqDsQ388aow68IaRPNWNi/GgYGspbrpdum0TzwWb+Rm/j3xo6aUNrfDTePR6xXwS5IkdVkCXtXiOkQaSv/5kG478t5XOsTyirhrZf8xAC/8dt9vv1RMl90TJgRCf87eE1wgBlpQisJcuXL3YxKVzBl/jqUX2hrLiwOAWhQigq7QR+pnZg4+43iDIxdEt02M=;46IvERUDK8O+vaW//xZMpQ=="
+secured: "lTfR/Vfr/ZRHKz1/0J06KwaOTWGFz57fYCxV7HlQKYETp3vnTcESlkaXMANjOjSjBgRDsHyLxYHCenZIzFFjVaTRApk8BtlKkpDJMsYEeJ2IOG7AtpBYunAk38v+SHQXwHlK7CKwrrXSDOWSP3sd/+weZyL+xuKg5DtaawDKacHdufpfQ2kUbHQaZTU+G9Mk4UMkewYYndY/mQGsHzYYdZgYp3JDah0W3FUIayPrn/94zdvRLMS3t741TBhnv/zb6Kgm4/sNK6Gg4OJcG8Tx5Qo+9//D83d6r2rIrjFLrnh8cfGYIuQnzuzJlMWEtZFQdUvbR9n90LYs+OrF38kHTPZXDA/eAMPlk3DS8KMiQ6//Rl9daqdCBms1xSxGiFNbs5l4weAgounfIefS9yR5YaHudUpXCxqzRZ1MBUUlPKUAB7c0cQAyaZqq7O5Kt52/frDIgX537UWvBjk/tAPXde3La0AZBJ8KLHRJmCPIAhZtwpXEhuuiejv1Fq5LiB5PUIWmZgbMXIUasDTteLpNXg==;93umPMK2dF5wHcRiSOZkgQ=="
 ---
 

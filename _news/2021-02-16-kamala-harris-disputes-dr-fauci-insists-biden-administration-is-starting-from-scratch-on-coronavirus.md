@@ -283,6 +283,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Homeland Security officials scrap Trump-era union deal that could have stalled Biden's immigration policies"
+    excerpt: "The Biden administration has sought to change policies at ICE, the agency in charge of immigration arrests and deportations."
+    publishedDateTime: 2021-02-16T22:41:00Z
+    webUrl: "https://www.cbsnews.com/news/ice-officers-union-agreement-trump-homeland-security/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/ice-officers-union-agreement-trump-homeland-security/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/ice-officers-union-agreement-trump-homeland-security/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 122
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/23/6d8b519f-1815-483b-b05e-b6fbdb633e55/thumbnail/1200x630/13cce356ed65724e248875025fa45339/gettyimages-987106496.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Boris Johnson calls Trump's impeachment a 'kerfuffle' and suggests Biden copied his Build Back Better slogan"
     excerpt: "Boris Johnson described impeachment proceedings against Trump as 'toings and froings' and a 'kerfuffle.'"
     publishedDateTime: 2021-02-15T13:43:00Z

@@ -63,6 +63,22 @@ related:
         width: 823
         height: 545
         isCached: true
+  - title: "Democratic Rep. Bennie Thompson sues Donald Trump over role in U.S. Capitol riot"
+    excerpt: "The lawsuit from the Mississippi Democrat is part of an expected wave of litigation over the Jan. 6 riot at the U.S. Capitol."
+    publishedDateTime: 2021-02-16T16:05:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/16/bennie-thompson-sues-trump-giuliani-capitol-riot-ku-klux-klan-act/6763594002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6763594002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6763594002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/16/USAT/4e37de16-1458-45f7-82d0-cdb80204b6c4-AP21047435262826.jpg?auto=webp&crop=1023,576,x0,y74&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Trump and Giuliani sued by Democratic congressman over deadly Capitol riot – live"
     excerpt: "Bennie Thompson accuses Trump and allies of violating 1871 act that prohibits violence that disrupts work of Congress – follow all the latest"
     publishedDateTime: 2021-02-16T16:15:00Z

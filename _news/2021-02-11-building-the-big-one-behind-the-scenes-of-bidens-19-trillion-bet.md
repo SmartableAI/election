@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/11/politics/biden-1-9-trillion-bet/i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/11/politics/biden-1-9-trillion-bet/index.html"
 type: article
 quality: 175
-heat: 755
+heat: 775
 published: true
 
 provider:
@@ -124,6 +124,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210212084720-01-joe-biden-0211-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden says teachers should move up in vaccination line"
+    excerpt: "President Joe Biden, no longer encumbered by his predecessor's impeachment trial and eager to seize the national spotlight, will bring the case for his massive coronavirus relief plan to the country on Tuesday when he participates in a CNN town hall at 9 p.m. ET in Milwaukee.\n    \n"
+    publishedDateTime: 2021-02-17T02:54:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BZxNyEn6k4k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/16/politics/biden-town-hall-february/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/16/politics/biden-town-hall-february/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210216214433-12-biden-town-hall-0216-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

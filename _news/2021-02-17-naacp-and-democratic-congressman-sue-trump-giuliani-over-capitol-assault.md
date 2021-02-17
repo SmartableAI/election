@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/naacp-sues-trump-giuliani-capitol-r
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/naacp-sues-trump-giuliani-capitol-riot/"
 type: article
 quality: 124
-heat: 224
+heat: 244
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210216&t=2&i=1551768478&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1F1JO"
         width: 823
         height: 545
+        isCached: true
+  - title: "Democratic Rep. Bennie Thompson sues Donald Trump over role in U.S. Capitol riot"
+    excerpt: "The lawsuit from the Mississippi Democrat is part of an expected wave of litigation over the Jan. 6 riot at the U.S. Capitol."
+    publishedDateTime: 2021-02-16T16:05:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/16/bennie-thompson-sues-trump-giuliani-capitol-riot-ku-klux-klan-act/6763594002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6763594002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6763594002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/16/USAT/4e37de16-1458-45f7-82d0-cdb80204b6c4-AP21047435262826.jpg?auto=webp&crop=1023,576,x0,y74&format=pjpg&width=1200"
+        width: 1200
+        height: 676
         isCached: true
   - title: "Trump and Giuliani sued by Democratic congressman over deadly Capitol riot – live"
     excerpt: "Bennie Thompson accuses Trump and allies of violating 1871 act that prohibits violence that disrupts work of Congress – follow all the latest"
@@ -107,6 +123,6 @@ related:
       domain: theguardian.com
     quality: 97
 
-secured: "qDskdUFe9BBD5nrQJ/90EqQCztWMEzJBRp4+3y39ENXGcEAE2zpzBu6uHgNuDYkt4nD79bvGH878JQ9nq6RB9GWp5sS1i36sjgzDBoQvxDO65zuVeX3+azGya8u2ySi13k6i6E3cjUji/cGYLBDOKfENySQLYtarCQF4MfSjwS1Vn4uNMee4UlKwY5CENOBxaGD5L5FZNQJIg8FbxE6EF8/b4h9AE5Qkb07qe9lVJ7A3fGSgS+BWNm1/kuW/dwy+KlbwpiPHeOV4dhmDpy3ZF9W250P3nDqjWEcX4Wua3A3UMNIpuCZLdjg9+vsFz0ntIe6Rfsp9aD9dPhRR2vyJ6TxEe1Fm/4Tja8wnTGVFk1s=;bxzA+sDiqXaB7hJ9kQatrg=="
+secured: "nUvPnxqc1IpbjTKnk5g0LfmdnaRz6QFnFth3aVUgVxPPkDFlbB/fxCY4RqyAJ6ReyjEkPBZ2RY5+pPDKSoUNERZabmBZuQMPkSqZf/cFdhD480kHTCMrSn00wIPurQIv+yCq9pjL0vjPJ9saD4sRprL6phgYp75O2NlpYdvabqX/BQmg6i8/8wF2ycVSh7ApZ5DpQluTwngtc9cck6HldjpSl9hHyFhD8VB+3Mf5cfBrQ9E+s25nLcUyEQvTsLjRf4xzYgAQECqP1cqnrEqSw1OsXEUhYZwV+3nYKeGkdkThsIRxSnDZRJ0a5GjbzlajdicTuZTytJVB4WAgDahjydM+ZAOTiuAPi8gIGqWOfEjq//FGoov9xQu39QCwrIt0o1XSCVIzU1OGuaSjvWuUGpPNgy3IsXgq7aKzw6lkr308GriV3PZYnTCPGL3NhPBTaKoxOy9AQw79Sc0ZYEGkq46ADeNpqBbzwsIwiG9eGWEIzhPjJBrBZNYEaprj0RVRJgO0ul+T3T5jDpAgY57GAQ==;hDRbeabmv0Utb2iIeps9dw=="
 ---
 

@@ -123,6 +123,20 @@ related:
         width: 852
         height: 480
         isCached: true
+  - title: "Lindsey Graham threatens impeachment of Kamala Harris on Fox News appearance"
+    excerpt: "Lindsey Graham (R-S.C.) threatened Vice President Kamala Harris with a potential impeachment trial in an appearance on \"Fox News Sunday.\" The interview, conducted one day after President Donald Trump was acquitted by the Senate in his second impeachment proceedings,"
+    publishedDateTime: 2021-02-15T19:13:00Z
+    webUrl: "https://www.timesunion.com/politics/article/Lindsey-Graham-threatens-impeachment-Trump-15952106.php?IPID=Times-Union-HP-Editors-Picks"
+    type: article
+    provider:
+      name: Times Union
+      domain: timesunion.com
+    quality: 52
+    images:
+      - url: "https://s.hdnux.com/photos/01/16/43/05/20590964/15/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
 
 secured: "Xd4LjGWl7Vsir91oqadrpBRJALbg3rdVKy0h6N6ZhHnhEWq9mO+Y3eDQpflLatI+aZEloImoQGW9jcnFxrsy6E0JBqHjapYm+7YZIdO5y1Zu/zj5QGHp0pCiqnV7VDKvAbRA6XqQIVVU9BhIGN9A4lmsLDRUW9P19sMO2bJtG5inH8EB2j8xiQ2hUaP3ciKlNL69Y2IzmlbAVnuMxjeY6nNp34/bLR3bdG70BVcnPCDLBU8cqpaVgoL+qKeq7xRou7ahiO12te6Z4R5bAfdqtkzydpPYfW5b4Ol52p3TFBhZtnUNshSqLnRhijn6ByhW4ylX3xjrWG/qxRZlM2dNS0mjRXdLPSvvzzga/GW+mA2P5HSMv3YNwYF+vRzF3fw9ggurZTS8B6MbFP/O3TW5kwaCQkjIdHLwJyLGWBPhCnJwsE+HsLHWPFTP1n52PWvzdLYaNTFfET5hZBXIieE3roFsm5M13MkALIT2P0VtAW2VAwS3/7Hw6LsER7w7+ZKspWcYQc+r+ic3Q9vBEo6B+w==;DDBGWHPRHyTfcPp/kV6TDw=="
 ---

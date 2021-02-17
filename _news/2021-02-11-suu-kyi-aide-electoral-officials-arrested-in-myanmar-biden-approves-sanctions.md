@@ -143,6 +143,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden says teachers and support staff should move up on vaccine priority list"
+    excerpt: "President Biden said Tuesday night that teachers should move up in priority for getting vaccines, although he didn't say whether he thinks teachers should be vaccinated before returning to the classroom."
+    publishedDateTime: 2021-02-17T02:50:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-teachers-move-up-vaccine-priority/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-teachers-move-up-vaccine-priority/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-teachers-move-up-vaccine-priority/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 122
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/02/16/eb52657a-4095-4af8-9ec6-e362d741d22a/thumbnail/1200x630/6d451f843c10e32da56463a0c7ead880/biden-gettyimages-1231108069.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden launches review of Guantanamo prison, aims to close it before leaving office"
     excerpt: "President Joe Biden's aides have launched a formal review of the U.S. military prison at Guantanamo Bay in Cuba, reviving the Obama-era goal of closing the controversial facility with the aim of doing so before he leaves office,"
     publishedDateTime: 2021-02-13T05:18:00Z

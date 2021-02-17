@@ -47,6 +47,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "White House procedure for dealing with Meena Harris’ leveraging of aunt's name could be revealed in the future"
+    excerpt: "The process by which the White House addresses potential conflicts of interest like Vice President Kamala Harris’ niece using her aunt’s name to boost her brand has not been made public, but it possibly could be in the future, Fox News has learned.    "
+    publishedDateTime: 2021-02-17T02:31:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HXMqiw9ABXo/white-house-procedure-meena-harris-leveraging-aunts-revealed-in-future"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-procedure-meena-harris-leveraging-aunts-revealed-in-future.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-procedure-meena-harris-leveraging-aunts-revealed-in-future.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Meena-Harris.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Dozens of celebrities call on Joe Biden, Kamala Harris to shut down the Dakota Access Pipeline"
     excerpt: "Dozens of celebrities signed a letter to President Joe Biden and Vice President Kamala Harris calling on their administration to shut down the Dakota Access Pipeline for good."
     publishedDateTime: 2021-02-10T15:21:00Z

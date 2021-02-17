@@ -62,6 +62,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Johnson: McConnell doesn't 'speak for the conference' on Trump's culpability for riot"
+    excerpt: "In remarks on the Senate floor, the minority leader called Trump \"practically and morally responsible\" for the riot."
+    publishedDateTime: 2021-02-16T19:02:00Z
+    webUrl: "https://www.politico.com/news/2021/02/16/johnson-attacks-mcconnell-trump-impeachment-469126"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 108
+    images:
+      - url: "https://static.politico.com/3e/f1/4f2909a140839abeb1e06d17f924/20210216-ron-johnson-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "dOcj9vsfZmRsVnzSu8HWOX1AzjFPmO5RL5jgg946805REiyLA2JWhXpns+6MsoJOKi58yqsZpN6iotm2+iHoNzQ2N8Qw473Fx3EmJMv8zLJ7brh2FP4J7IGh2itqSy/3dLSNZaTrUS4pROyLZD2Bx34gfPCfsxvVFZ3GUh8mkzvTwUE4kuCwb7xFr9yFrGgErp9591qbWp1ex2KDQEEf1u/NO2siuIyij3Tuhw/ZeFHz0uJAbi6pCJntFCoTqRzZ2Eow0Zt79Zh8o8qX5X2/Oh4QDIJym7GV281hGVyKXlyITbXbti+8g4TADTXZ1F48vHInY4V//pr9FRSMYoCW4dknvNCbF4ZGtVtAnhLrKQM=;RWZ4oAlHNjNYgJ/7hf/Yhw=="
 ---

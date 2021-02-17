@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/14/trump-acquittal-bide
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/14/trump-acquittal-biden-urges-vigilance-to-defend-fragile-democracy-after-impeachment-trial"
 type: article
 quality: 129
-heat: 1369
+heat: 1389
 published: true
 
 provider:
@@ -350,6 +350,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/capitol-wire-01-ap-iwb-210211_1613078408327_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Impeachment Manager Lists All the Criminal Charges Trump Could Face After Acquittal"
+    excerpt: "Delegate Stacey Plaskett said that state-level criminal investigations against former President Donald Trump \"will continue to move forward.\""
+    publishedDateTime: 2021-02-17T02:21:00Z
+    webUrl: "https://www.newsweek.com/impeachment-manager-lists-all-criminal-charges-trump-could-face-after-acquittal-1569785"
+    ampWebUrl: "https://www.newsweek.com/impeachment-manager-lists-all-criminal-charges-trump-could-face-after-acquittal-1569785?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/impeachment-manager-lists-all-criminal-charges-trump-could-face-after-acquittal-1569785?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 119
+    images:
+      - url: "https://d.newsweek.com/en/full/1737326/donald-trump-potential-criminal-investigations-state-level.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Trump lawyers blast Democrats before impeachment trial, deny he incited Capitol riot"
     excerpt: "Lawyers for Donald Trump in a legal memo denied that he incited the deadly riot at the U.S. Capitol and accused Democrats of \"political opportunism.\" The brief came a day before Trump's historic second impeachment trial was set to begin in the Senate."

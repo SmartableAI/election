@@ -9,7 +9,7 @@ ampWebUrl: "https://goodmorningamerica.com/amp/living/story/kamala-harris-late-l
 cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/living/story/kamala-harris-late-life-love-story-changing-trend-75819461"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -122,6 +122,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/02/13/USAT/2eadfb94-3b07-45ae-8292-7ff16c6cb720-ae7b0c28-1b30-4fcd-a11d-3e683655cc83_thumbnail.png?quality=10"
         width: 852
         height: 480
+        isCached: true
+  - title: "Lindsey Graham threatens impeachment of Kamala Harris on Fox News appearance"
+    excerpt: "Lindsey Graham (R-S.C.) threatened Vice President Kamala Harris with a potential impeachment trial in an appearance on \"Fox News Sunday.\" The interview, conducted one day after President Donald Trump was acquitted by the Senate in his second impeachment proceedings,"
+    publishedDateTime: 2021-02-15T19:13:00Z
+    webUrl: "https://www.timesunion.com/politics/article/Lindsey-Graham-threatens-impeachment-Trump-15952106.php?IPID=Times-Union-HP-Editors-Picks"
+    type: article
+    provider:
+      name: Times Union
+      domain: timesunion.com
+    quality: 52
+    images:
+      - url: "https://s.hdnux.com/photos/01/16/43/05/20590964/15/rawImage.jpg"
+        width: 2048
+        height: 1365
         isCached: true
 
 secured: "597Sfuj++5T2GBeaqSIJ1eh1xRJ6ZQORIBGjT3FCNOrCeGCJf5my0Nd6L4lxVBJkaQMjWOvSZ/XTeiP7KfEOpkLqgqael1rM3vWhJ4VfWlM7pZRi/0L3KepMN8n+sVKR/vOdyUHY6m79nDz3j6MYk3G6BduxUrYOEkmaoV7bPWfl3Uy8lWFEXL4tCzLsXXcpLnfLGxu00P0eFc1rfLurHwHHIw9F0xFLxgasGMU3oQiErN053poJWTgAlWb+z+Zy/bt5mp4Z6Ixi7z44ckvR2deSllDNMkX5q4aHU3o9qu4/IR8gpF1UJ5IA1UQS+zdCdrSkcZYkfbSjrgW734jXH4o8QzUupOOz8QvGv6Mm7+n5KBA281gKfi2VvfpDjSDuPuw7R29iOFp8EjyQbYhOWIAs6K1RA9vL1buP5SKxV9wdC/laVYyuUJEm6nO/QFciDmT1w3pkN5cZYNgB/cYI/PpdcyON9AtyM/kX6GBSxOiHu1FrIj01EqUrjTypTl6yQzSC6DOmCO0RcfzCq/OFIA==;K+jbNlfwleu/DsX/9n1zcA=="

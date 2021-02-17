@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/13/politics/mitch-mcconnell-acquit-t
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/mitch-mcconnell-acquit-trump/index.html"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://media1.s-nbcnews.com/j/newscms/2021_07/3450196/210215-donald-trump-mc-12382_e59fc92ce31ccb96d8a2bcdab73f03a0.nbcnews-fp-1200-630.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Johnson: McConnell doesn't 'speak for the conference' on Trump's culpability for riot"
+    excerpt: "In remarks on the Senate floor, the minority leader called Trump \"practically and morally responsible\" for the riot."
+    publishedDateTime: 2021-02-16T19:02:00Z
+    webUrl: "https://www.politico.com/news/2021/02/16/johnson-attacks-mcconnell-trump-impeachment-469126"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 108
+    images:
+      - url: "https://static.politico.com/3e/f1/4f2909a140839abeb1e06d17f924/20210216-ron-johnson-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "F2tVlaYoHb1I6wUTDQisY/IrnjfzxpLqgSXhol8/ZqtThAFzUvDkz25Ax1iAJdNgE74cHGPGkdhRHpvJ80BxFhdUqh8g0m0OX5Ac2Zs/2DW17Sv9EOdlq627x8HTiONBRar/NilKdMeHER8ZrKByNvCw9xz8LOzzzprKKO4r5xopWWYWYQB8VgD/nG4kOEieJDXb//2SddH6lpnXTltbyoG/w50taPCGrZp4BouInwd8CvomZ7l/Be/CW0IVlBEl6bAp6ial+nGs1NxCZWurxCHYOfg93jL1lAfhsWwdSeEYqUaNsjsm4Sy8e6hMjcPoeGbrN03BGFliH5RG9IORZwOEmhy0HNeH0zFDaVKIrjs=;Oon6zOrYQbyfMv7c9dLhpQ=="

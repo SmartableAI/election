@@ -127,6 +127,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden says teachers and support staff should move up on vaccine priority list"
+    excerpt: "President Biden said Tuesday night that teachers should move up in priority for getting vaccines, although he didn't say whether he thinks teachers should be vaccinated before returning to the classroom."
+    publishedDateTime: 2021-02-17T02:50:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-teachers-move-up-vaccine-priority/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-teachers-move-up-vaccine-priority/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-teachers-move-up-vaccine-priority/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 122
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/02/16/eb52657a-4095-4af8-9ec6-e362d741d22a/thumbnail/1200x630/6d451f843c10e32da56463a0c7ead880/biden-gettyimages-1231108069.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Suu Kyi aide, electoral officials arrested in Myanmar, Biden approves sanctions"
     excerpt: "A close aide to ousted Myanmar leader Aung San Suu Kyi was detained in a new wave of arrests following last week's military coup, a party official said on Thursday, as Washington moved a step closer to imposing sanctions on the junta."
     publishedDateTime: 2021-02-11T13:34:00Z
@@ -255,6 +271,6 @@ related:
         height: 600
         isCached: true
 
-secured: "fUdjWk2STkegUaA7StWX54IjX6XDhT0VYRzSdHnpS7B+3mPhmc/o0xlLzRQrvC+v++RWCoT97HR23i1je4o0URUjWjuw9s7KRd+Su40NFEvg0bgXS1ST9XVO2G9TNnXediCs9GU1rVqBxB/wJyPsFqCAqKl2PYd1pHEu6WMp0ExLWPQrO3ipThymhRJCPaShwOesB+EXes9lFEU45xkvAVROVIbg3UL9EeqvdZzk4XXjQzH2NquQxATcpWDjmQFY6/oOE22YmSAqteJzXXsPekdQ4B/CQO735QkBcDsVoBqziIMSADQUjfsv+ElanbkcIYrU1iohnuLNbNMyTZxHWh6QJvN3MJj6zGecuwEv05I=;AGGjpBGvkAtAey9W0wGNGQ=="
+secured: "OU8FKExxIit8cgAYd6WF9xKtkFOQMlqvTEPYFHZpAa+AMmHhzQvT+ZXm2zrj7MVRFY8U1Rn7bb6bBfg821Zn9QHx0uQ+UqiwlFoHgqnRpmIzBaB9c1ELhgKUFiKWDRv8CorDiGWIxH5Bb7kLRB4Td6K1C8JN/9c11LAXSAfJFiAEH6rlSfj8ZO+i+mD1/KRQYaHVp8BItw3AAI2BQoFl/yxyQbPfB2F6z5cRY01/7mTKnK3lg66YQSFARyzle2siAFRKuryyDOboU7VOPl7vRd62PiVBB4t7i0jt+pnQBgG89RdIrYToYAX7B6oBGdW2t4LWiKp0UaJ/e4bMryKiV/okvRskCyh/YAny4FVBEHVyggq4XaBibPrx/byYmCAS3ClizlicX6MWNzQWEvYC4rCEXHngvub3knpCvwJl8T3RK/SOynYzNHDeDZgqHltxWm3SlSywXfFUmaLHHUXPNzSqJnIedxCvJbPGxOeorsEtz0ZaYODxP+rvV9r+2KeSVhkNYWRAN4MVTp8GHdGVrg==;n47bRTVhwNmpV2lv9iW2yQ=="
 ---
 

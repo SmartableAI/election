@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/11/trump-impeachment-tr
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/11/trump-impeachment-trial-democrats-senate"
 type: article
 quality: 125
-heat: 385
+heat: 405
 published: true
 
 provider:
@@ -142,6 +142,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PH42VQDLAUI6XJTO4JYEN2PITA.jpg&w=1440"
         width: 1440
         height: 932
+        isCached: true
+  - title: "Donald Trump rips Mitch McConnell as each seeks to exert leadership after impeachment trial"
+    excerpt: "Trump described McConnell as a \"hack\" who will not be able to lead the Republicans back to victory; McConnell supporters have also denounced Trump."
+    publishedDateTime: 2021-02-16T22:41:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/16/donald-trump-rips-mitch-mcconnell-each-seeks-exert-leadership/6772181002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6772181002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6772181002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 115
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/13/USAT/dd93fcf1-0c6c-43ed-810a-f49b16f0cb2c-AP_Trump_3.jpg?auto=webp&crop=3779,2126,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "House Democrats conclude Trump impeachment case, warning of potential violence if Republicans refuse to convict"
     excerpt: "The impeachment managers linked the former president’s long effort to undermine the election with statements of insurrectionists who stormed the Capitol on Jan. 6."
