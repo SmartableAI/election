@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Donald Trump’s version of an insanity defense: His critics are insane"
-excerpt: "In the summer of 2015, two months after Donald Trump announced he was running for president, a blogger named Esther Goldberg read a Washington Post column by the conservative commentator George F. Will that accused Trump of being phony,"
-publishedDateTime: 2021-02-12T11:07:00Z
-originalUrl: "https://www.washingtonpost.com/lifestyle/style/trump-derangement-syndrome-impeachment/2021/02/11/a6ffa7b6-6ca6-11eb-9ead-673168d5b874_story.html"
-webUrl: "https://www.washingtonpost.com/lifestyle/style/trump-derangement-syndrome-impeachment/2021/02/11/a6ffa7b6-6ca6-11eb-9ead-673168d5b874_story.html"
-ampWebUrl: "https://www.washingtonpost.com/lifestyle/style/trump-derangement-syndrome-impeachment/2021/02/11/a6ffa7b6-6ca6-11eb-9ead-673168d5b874_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/style/trump-derangement-syndrome-impeachment/2021/02/11/a6ffa7b6-6ca6-11eb-9ead-673168d5b874_story.html?outputType=amp"
+title: "On Jersey Shore, Crumbling Trump Plaza Hotel Is Demolished"
+excerpt: "Crowds cheered as the Trump Plaza Hotel and Casino in Atlantic City was demolished on Wednesday, the oceanfront eyesore bearing the name of the former U.S. president disappearing in a cascading collapse."
+publishedDateTime: 2021-02-17T20:46:00Z
+originalUrl: "https://www.usnews.com/news/us/articles/2021-02-17/on-jersey-shore-crumbling-trump-plaza-hotel-is-demolished"
+webUrl: "https://www.usnews.com/news/us/articles/2021-02-17/on-jersey-shore-crumbling-trump-plaza-hotel-is-demolished"
+ampWebUrl: "https://www.usnews.com/news/us/articles/2021-02-17/on-jersey-shore-crumbling-trump-plaza-hotel-is-demolished?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2021-02-17/on-jersey-shore-crumbling-trump-plaza-hotel-is-demolished?context=amp"
 type: article
-quality: 125
-heat: 205
-published: true
+quality: 55
+heat: -1
+published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,13 +24,23 @@ topics:
   - Election
   - Donald Trump
 
-images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/36HVADTMXII6XOSW27RMRXX2GE.jpg&w=1440"
-    width: 1440
-    height: 960
-    isCached: true
-
 related:
+  - title: "Donald Trump’s version of an insanity defense: His critics are insane"
+    excerpt: "In the summer of 2015, two months after Donald Trump announced he was running for president, a blogger named Esther Goldberg read a Washington Post column by the conservative commentator George F. Will that accused Trump of being phony,"
+    publishedDateTime: 2021-02-12T11:07:00Z
+    webUrl: "https://www.washingtonpost.com/lifestyle/style/trump-derangement-syndrome-impeachment/2021/02/11/a6ffa7b6-6ca6-11eb-9ead-673168d5b874_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/lifestyle/style/trump-derangement-syndrome-impeachment/2021/02/11/a6ffa7b6-6ca6-11eb-9ead-673168d5b874_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/style/trump-derangement-syndrome-impeachment/2021/02/11/a6ffa7b6-6ca6-11eb-9ead-673168d5b874_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/36HVADTMXII6XOSW27RMRXX2GE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Dem’s lawsuit accuses Trump of inciting deadly Capitol riot"
     excerpt: "The House Homeland Security chairman has sued Donald Trump, accusing him of inciting the  deadly insurrection at the Capitol"
     publishedDateTime: 2021-02-17T06:48:00Z
@@ -79,18 +89,7 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "On Jersey Shore, Crumbling Trump Plaza Hotel Is Demolished"
-    excerpt: "Crowds cheered as the Trump Plaza Hotel and Casino in Atlantic City was demolished on Wednesday, the oceanfront eyesore bearing the name of the former U.S. president disappearing in a cascading collapse."
-    publishedDateTime: 2021-02-17T20:46:00Z
-    webUrl: "https://www.usnews.com/news/us/articles/2021-02-17/on-jersey-shore-crumbling-trump-plaza-hotel-is-demolished"
-    ampWebUrl: "https://www.usnews.com/news/us/articles/2021-02-17/on-jersey-shore-crumbling-trump-plaza-hotel-is-demolished?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2021-02-17/on-jersey-shore-crumbling-trump-plaza-hotel-is-demolished?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
-secured: "zC8BpIvuFoFj1NXaKUcy6XrYzaTnL87XrmnFXPrcYXtarR3o2akTtPoMPedMBQ+MQIG8NKIAySPVvMhwvisfADqaXEepMmd+ika3+tN19z08+vmmjp9p2BQ6Pa34hzU7gRT4n1rPX1K2HoLv/T/WUa1HzAijX3Z30jYF1Sj9dwqzh9VE7OdWAwr7pgy0gCLIQ5tHm9fs+AKCGCU3XG21fF0ptsYkqGuSk60dw8fQfqavNrBF1O41TAv5W7ibv+2R0asxLESziPX2t+pjhrz+upp+RPga4IxnhQOz6FBKEVa/0D1nm56Wl42kO2WhM8JTqIHS9gBjYpUcvTQ93m+Q2yE5pKdwgMT86yT6hNIguTNpjq+U1s90BUP3m0b1e/vHeXV1CnByJTNBKMc2nCkgIOBk+ORicULbqBFR1B7R5cbg0401d5SR5/kz1uuMpxNxHbqgI01RdVHtDZkQ8jxfJNfIbM6Pq9WGybXWlA7icgVgGP02ZeKMU7xgMm3DAsBnEoc5iWYTVIUf0+ddguJLXg==;knxuQA8kFJEk16t4bfSLaw=="
+secured: "GMu+CQruN8Xos0/F+LHF6tHnK/i3gDuhpPflRqhVVeFxOS0ywesQyze0eqDbO3JDXZjINJbjU+xIailZGqp3B5HIIowxEySjRuPg15wfgSsmtruNiT/d/SDxCve4KxmGJTvDaeKyWVDjtnmKuIzl3LGhU/uSp7si9JjlKx10Sncs6rOJewBgOLmZGQnG4QHOmZ5dJ1hu8nYTKoKCqEZpMDR61o3+CDGLWkJDS2PVeGfQSs4XpQij+6UF5yE65Gjhrm/FTe1X/Vgn/JJawQNsi4EjLt+ii0CDXJN5FgAgToOwx9SeO+yT8o+RjhLLUO8E+W8pb1aYNwfH61vi+xWO/AjXtn2qVStPMl8T0IP96B2rmNOca5htQgOZKD6VwmhZ5vST1FAWD4G5d1aIYUqJJl3J20M40PyETr7Usr14tpqAuGXTPV5w+XfS+To9fD8z0TiOowhVv1w8WUfO7HNQeLoBk6dkiJWJKBEf5z2nddeEYVON82iwNLyvhpM2AZX6fXfGUgvYCIC+1bVRpHgPgA==;lYB8UGvsBIRponFCM7tDDA=="
 ---
 

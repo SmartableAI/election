@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden administration extends fair housing protections to LGBTQ Americans"
-excerpt: "Protections under the Fair Housing Act will now cover LGBTQ Americans, the Biden administration announced Thursday, a move that allows the federal government to investigate complaints of housing discrimination based on sexual orientation or gender identity.\n    \n"
-publishedDateTime: 2021-02-11T17:19:29Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-QWaIdeXwMU/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-QWaIdeXwMU/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/02/11/politics/biden-administration-lgbtq-housing-protections/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/11/politics/biden-administration-lgbtq-housing-protections/index.html"
+title: "Biden administration says investigation into SolarWinds hack is likely to take \"several months\""
+excerpt: "The US government's probe into the devastating SolarWinds breach is likely to take \"several months\" at least, according to the top White House cybersecurity official, speaking to reporters Wednesday in the Biden administration's first public assessment of the gravity of the suspected Russian spying campaign.\n"
+publishedDateTime: 2021-02-17T19:37:15Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6dzcn08k9d8/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6dzcn08k9d8/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/02/17/politics/solarwinds-hack-investigation/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/17/politics/solarwinds-hack-investigation/index.html"
 type: article
-quality: 174
+quality: 163
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/180227114420-rainbow-flag-white-house-file-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/190219200658-computer-hacking-stock-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/190306104052-guantanamo-bay-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration extends fair housing protections to LGBTQ Americans"
+    excerpt: "Protections under the Fair Housing Act will now cover LGBTQ Americans, the Biden administration announced Thursday, a move that allows the federal government to investigate complaints of housing discrimination based on sexual orientation or gender identity.\n    \n"
+    publishedDateTime: 2021-02-11T17:19:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-QWaIdeXwMU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/11/politics/biden-administration-lgbtq-housing-protections/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/11/politics/biden-administration-lgbtq-housing-protections/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180227114420-rainbow-flag-white-house-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -79,22 +95,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden administration says investigation into SolarWinds hack is likely to take \"several months\""
-    excerpt: "The US government's probe into the devastating SolarWinds breach is likely to take \"several months\" at least, according to the top White House cybersecurity official, speaking to reporters Wednesday in the Biden administration's first public assessment of the gravity of the suspected Russian spying campaign.\n"
-    publishedDateTime: 2021-02-17T19:37:15Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6dzcn08k9d8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/17/politics/solarwinds-hack-investigation/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/17/politics/solarwinds-hack-investigation/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 163
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190219200658-computer-hacking-stock-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden administration continues vaccination push with five new mass vaccination sites in Texas and New York"
     excerpt: "The Biden administration is partnering with Texas and New York to open additional vaccination centers as it continues its push to vaccinate every American amid the coronavirus pandemic.\n    \n"
     publishedDateTime: 2021-02-10T18:36:41Z
@@ -112,6 +112,6 @@ related:
         height: 619
         isCached: true
 
-secured: "uZRFH9xrbPjiq2QF/bOU6h5ddYMUN5oRO3asakhLqo76nXrcbQ9b/OwJ+/glF6STrPLKbRQ/MljLtzmyzp+3zSStd2ygmYZQDc5EvvQqXdYhmhVxAcT6d2py2rMt4L9CGlhNvjUPANlFmtBD8bHM+jDVz+QqyOBIYPzY/gdHokQcNrL9+sYm+hNizNBw104QJuJ/7s4fm6ZzLIz52OQ3JTR62EVToWkUrfVZLora4sWqotm/C2n208YqxP2eTNH9EDVLzfRzDo0KWEZU2MY5bHcLLrqmKOiIPGliNKHUKU1mjBgEguCymIjjPsVdJ4K4xuCC5kIEE9LYNqZfac/ekq6EgndcDL/a9ibFXeDaxj0=;e3BTKJMopz33A9YkzwCTQw=="
+secured: "OLVY0UlMZf4gCNCpxJ5VY7wNExfuJNTETbwzrOqMmduTiiBfPOG4m0/aa4ceBVB7kDioYihZXx5oiKVtZJsRDknWvXXIPQYeQAp3fvYaWSVjJ7Jd/8o1THed/V9LrQwiREXiPXScv3y/S3Yn1JT15wl4U2HR1u/lQmYP/M1W7T4qFLsk613iMXPZWLfhnI0a4tvNyIaOUbzvlUvBNzLQ+epvxaXtuJZbtzP6StSCzqtVf72AH44i0Tyn/kR7jUTWGA3Xw7ApqArO0v9cjTGjTFNLi/2ZRmryeee6NkZ4hq4PVgGoXtnc1YAEpo2YgGaOIDZ9cyMnJ8RrZnLjbBHNDE8G8skcjL+5sZhXCfkM3tQ=;wKBaXxWYcfzDx5xmCuzn1A=="
 ---
 

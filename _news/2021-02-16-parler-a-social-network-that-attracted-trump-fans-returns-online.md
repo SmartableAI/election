@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nytimes.com/2021/02/15/technology/parler-back-online.amp
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/15/technology/parler-back-online.amp.html"
 type: article
 quality: 135
-heat: 155
-published: true
+heat: -1
+published: false
 
 provider:
   name: New York Times
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "New York Times: Trump Pentagon officials delayed promotions of female generals due to fear over Trump's reaction"
+    excerpt: "Promotions of two female generals were delayed by Pentagon officials until after the 2020 presidential election out of fear of \"turmoil\" from President Donald Trump's White House, The New York Times reported Wednesday.\n    \n"
+    publishedDateTime: 2021-02-17T20:20:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wqnJmokEy3o/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/17/politics/pentagon-delayed-female-nominations/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/17/politics/pentagon-delayed-female-nominations/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 154
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210217123321-us-army-gen-laura-richardson-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "New York Assembly advances bill to rename Donald J. Trump State Park"
     excerpt: "Democratic legislators have been seeking to rename the park, located about eight miles east of Peekskill, since 2015."
     publishedDateTime: 2021-02-10T17:00:00Z

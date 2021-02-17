@@ -63,22 +63,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "V.P. Kamala Harris calls for teachers to get COVID vaccine priority"
-    excerpt: "We all want schools to reopen… All of us with children in our lives, they want to back to school…Teachers want to teach,” Harris said."
-    publishedDateTime: 2021-02-17T17:02:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ny-covid-schools-vp-kamala-harris-20210217-gtekyx3b2vhj7k26hqz3uiscce-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ny-covid-schools-vp-kamala-harris-20210217-gtekyx3b2vhj7k26hqz3uiscce-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ny-covid-schools-vp-kamala-harris-20210217-gtekyx3b2vhj7k26hqz3uiscce-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 125
-    images:
-      - url: "https://www.chicagotribune.com/resizer/_CKfnM14SWqOHfUIcEXyXw3v5bU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/27GFWB6K2FFIVPBFL7BCBYGV74.jpg"
-        width: 1200
-        height: 774
-        isCached: true
   - title: "Fact check: Fabricated Kamala Harris quote about white people being racist"
     excerpt: "Social media users have recently been resharing a post from 2019 showing a quote falsely attributed to U.S. Vice President Kamala Harris, where she purportedly says white people are racist. The Vice President’s press secretary confirmed to Reuters that the quotation"
     publishedDateTime: 2021-02-16T17:25:00Z
@@ -156,6 +140,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/21/kamala-harris-is-sworn-in-as-vice-president.jpg"
         width: 1024
         height: 736
+        isCached: true
+  - title: "V.P. Kamala Harris calls for teachers to get COVID vaccine priority"
+    excerpt: "We all want schools to reopen… All of us with children in our lives, they want to back to school…Teachers want to teach,” Harris said."
+    publishedDateTime: 2021-02-17T18:04:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ny-covid-schools-vp-kamala-harris-20210217-gtekyx3b2vhj7k26hqz3uiscce-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ny-covid-schools-vp-kamala-harris-20210217-gtekyx3b2vhj7k26hqz3uiscce-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ny-covid-schools-vp-kamala-harris-20210217-gtekyx3b2vhj7k26hqz3uiscce-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 75
+    images:
+      - url: "https://www.baltimoresun.com/resizer/_CKfnM14SWqOHfUIcEXyXw3v5bU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/27GFWB6K2FFIVPBFL7BCBYGV74.jpg"
+        width: 1200
+        height: 774
         isCached: true
   - title: "Vice President Kamala Harris delivers cookies to essential workers"
     excerpt: "U.S. Vice President Kamala Harris and her husband delivered two baskets of cookies to essential healthcare workers at the VA Medical Center in Washington on Saturday. (Feb. 13)"

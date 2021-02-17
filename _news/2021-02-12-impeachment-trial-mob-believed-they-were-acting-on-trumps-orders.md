@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/11/trump-impeachment-tr
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/11/trump-impeachment-trial-democrats-senate"
 type: article
 quality: 125
-heat: 405
+heat: 425
 published: true
 
 provider:
@@ -234,6 +234,17 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 86
+  - title: "Explainer: the Legal Questions Left Unanswered by Trump's Impeachment Trial"
+    excerpt: "The impeachment trial of Donald Trump took the U.S. government into new legal territory, highlighting unresolved questions about how to address allegations of misconduct by a president about to leave office."
+    publishedDateTime: 2021-02-17T20:36:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-02-17/explainer-the-legal-questions-left-unanswered-by-trumps-impeachment-trial"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-02-17/explainer-the-legal-questions-left-unanswered-by-trumps-impeachment-trial?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-02-17/explainer-the-legal-questions-left-unanswered-by-trumps-impeachment-trial?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 53
   - title: "Heinrich, Lujan Vote to Convict Trump in Impeachment Trial"
     excerpt: "Former President Donald Trump’s second impeachment trial ended Saturday with an acquittal as both of New Mexico’s two Democratic senators voted in a majority that fell short of the two-thirds needed for conviction."
     publishedDateTime: 2021-02-13T22:57:00Z

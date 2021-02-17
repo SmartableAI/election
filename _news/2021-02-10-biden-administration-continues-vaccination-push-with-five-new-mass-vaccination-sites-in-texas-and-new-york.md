@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration says investigation into SolarWinds hack is likely to take \"several months\""
+    excerpt: "The US government's probe into the devastating SolarWinds breach is likely to take \"several months\" at least, according to the top White House cybersecurity official, speaking to reporters Wednesday in the Biden administration's first public assessment of the gravity of the suspected Russian spying campaign.\n"
+    publishedDateTime: 2021-02-17T19:37:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6dzcn08k9d8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/17/politics/solarwinds-hack-investigation/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/17/politics/solarwinds-hack-investigation/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190219200658-computer-hacking-stock-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "9J7a7jgy8K7XoU4dmBjX5/7X+70sGiw+dBzDNqlUbZkAI+YalljcATaegB+1TiWTX/0j/dEzNJ8+QwohCfq3pAc9qNTmLQtNeHu+EWpayGH3Exk1TTgsj3SIbk7sbCR8akOIFwYVUAhS9jkZKlHJVwl3w3FHQGy3kdNXe5llSoUh9Xw9P27YOkGinSLS1CbXyVsMT/SS/fLbmhtu7jxCAN9dXidflDrQIhGr2epm0lCgK9Ps1S23GZchQewv0SnwqrWjCPad9jhSYRbSS4hJivUbQW0oGRRQukFOl0hzka5bs82UoK5RCFwFTrRunzmgLp+MjcJacfpd4wnaJSeJDkwpoKf6gIbo6E7wlBXvrKw=;WM89xiUCl1ZUBXxXSpIXaQ=="
 ---

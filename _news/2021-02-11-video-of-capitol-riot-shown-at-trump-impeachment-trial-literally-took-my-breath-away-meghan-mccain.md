@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/media/capitol-riot-video-at-impeachment-tria
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/capitol-riot-video-at-impeachment-trial-breath-away-meghan-mccain.amp"
 type: article
 quality: 120
-heat: 120
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -30,6 +30,40 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Trump impeachment manager says she's filled with 'glee' at prospect of questioning McCarthy about Capitol riot"
+    excerpt: "Del. Stacey Plaskett said she is filled with \"glee\" at the prospect of questioning House Minority Leader Kevin McCarthy regarding a phone call between him and former President Donald Trump during the Capitol riot in January."
+    publishedDateTime: 2021-02-17T19:57:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vuq7MKJnsmw/trump-impeachment-manager-says-shes-filled-with-glee-at-prospect-of-questioning-mccarthy-about-capitol-riot"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-manager-says-shes-filled-with-glee-at-prospect-of-questioning-mccarthy-about-capitol-riot.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-manager-says-shes-filled-with-glee-at-prospect-of-questioning-mccarthy-about-capitol-riot.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump impeachment manager says she's filled with 'glee' at prospect of questioning McCarthy about Capitol riot"
+    excerpt: "Del. Stacey Plaskett said she is filled with \"glee\" at the prospect of questioning House Minority Leader Kevin McCarthy regarding a phone call between him and former President Donald Trump during the Capitol riot in January."
+    publishedDateTime: 2021-02-17T20:00:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-impeachment-manager-says-shes-filled-with-glee-at-prospect-of-questioning-mccarthy-about-capitol-riot"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-manager-says-shes-filled-with-glee-at-prospect-of-questioning-mccarthy-about-capitol-riot.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-manager-says-shes-filled-with-glee-at-prospect-of-questioning-mccarthy-about-capitol-riot.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 115
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "us7ao9hGqY4knPInmO3sEvfzwp+UnRbiVLfp6d/TayAwRH1Ql1KjDv+mWw2+qldD0/WTfLEJ59AHVWXA9S92QPCONOukHI3X+d0MEBsXeSPkX58DqTFgshvJswjJ6D8J65WnLDfSSbZHBZfpgu08Lauv0p1D3fO1iUUvKCno4udiQTKWscO7OLsP4HFju2fRQcesgmRk6twlkQiF9aCyIDIPq8/WvC2uOgv2BdTeimmAr2StJDEE4zULliJfNvEIEQoa2DhecUbarzcqaPl8cRJVu8BBnct1kQ79bZe6ejvvp2rY1+AnwGJ+zrCTIhRjGoir+1epuLDCcTyyGlFGfpli3z+VquEFFaxC1HAaqyw=;rYamZsGzroCNRiYSqOmYAQ=="
 ---

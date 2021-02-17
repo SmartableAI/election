@@ -79,6 +79,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "On Jersey Shore, Crumbling Trump Plaza Hotel Is Demolished"
+    excerpt: "Crowds cheered as the Trump Plaza Hotel and Casino in Atlantic City was demolished on Wednesday, the oceanfront eyesore bearing the name of the former U.S. president disappearing in a cascading collapse."
+    publishedDateTime: 2021-02-17T20:46:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-02-17/on-jersey-shore-crumbling-trump-plaza-hotel-is-demolished"
+    ampWebUrl: "https://www.usnews.com/news/us/articles/2021-02-17/on-jersey-shore-crumbling-trump-plaza-hotel-is-demolished?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2021-02-17/on-jersey-shore-crumbling-trump-plaza-hotel-is-demolished?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "sHX6V/jq4b04L46cZcn00+D9uvrZaoGMJLuEwpdiMxxhDy5wJSNwH5pyxtXEU5o5SSozemPNESGgWfYkRalFHR4UHR2pPItFSyeSbrePzsi0Gfj3CCQj5LdKf/LE/rOooTzsT1c4Sk4gthc7n8z+GGvd3AH8AqS+ShPWmsnCvS0JUMGbQBdxvojSHdpcm5N4hzzyGKo8YZ6SvgOzQxjoBUNaWY1hbqmMKephNEaCqTQN4ryvD6fKNEGZvOaSb6c6WbCOEE1mc+SmIPd54JOxO3zRVtKZsTFBprVLxHmjJyc3tWbw6c8kAaY+ESXHIGXG7abZMTttEuZln6x33wMt1bAfUarFmj/+EmLd6Vzv6dQ=;AMuSv6UxObYRPizFgxUiSw=="
 ---

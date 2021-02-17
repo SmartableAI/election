@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/12/politics/biden-guantanamo-bay/ind
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/12/politics/biden-guantanamo-bay/index.html"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 169
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/160706103928-05-us-afghanistan-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration says investigation into SolarWinds hack is likely to take \"several months\""
+    excerpt: "The US government's probe into the devastating SolarWinds breach is likely to take \"several months\" at least, according to the top White House cybersecurity official, speaking to reporters Wednesday in the Biden administration's first public assessment of the gravity of the suspected Russian spying campaign.\n"
+    publishedDateTime: 2021-02-17T19:37:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6dzcn08k9d8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/17/politics/solarwinds-hack-investigation/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/17/politics/solarwinds-hack-investigation/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190219200658-computer-hacking-stock-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
