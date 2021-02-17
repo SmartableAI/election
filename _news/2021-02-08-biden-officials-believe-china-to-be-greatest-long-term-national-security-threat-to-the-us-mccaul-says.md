@@ -335,6 +335,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Hunter Biden probe: AG nominee Garland pressed by GOP lawmaker to keep US attorney handling case"
+    excerpt: "Rep. Ken Buck on Wednesday sent a letter to President Biden's attorney general pick Judge Merrick Garland asking him to keep on the federal prosecutor who is in charge of the probe into Hunter Biden -- or otherwise appoint a special counsel."
+    publishedDateTime: 2021-02-17T17:47:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SNt27DENG3k/hunter-biden-probe-ag-nominee-garland-pressed-by-gop-lawmaker-to-keep-us-attorney-handling-case"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 142
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/GettyImages-1230697183.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden still misses VP residence pool in which he reportedly skinny dipped"
     excerpt: "President Joe Biden made wistful remarks about the freedom of the vice president’s residence — including the swimming pool in which he reportedly skinny dipped — when asked how he was settling into the White House on Tuesday."
     publishedDateTime: 2021-02-17T09:21:00Z

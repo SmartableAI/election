@@ -2,6 +2,62 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-01-21-ex-obama-adviser-calls-trump-supporters-an-issue-of-homeland-security.md",
+      "title": "Ex-Obama adviser calls Trump supporters an ‘issue of Homeland Security’",
+      "excerpt": "An Obama-era national security adviser painted Trump supporters as an “issue of Homeland Security” and called for government and Big Tech to regulate information on social media in a televised interview Wednesday afternoon.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MDJlXhC06Tc/ex-obama-adviser-trump-supporters-homeland-security",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MDJlXhC06Tc/ex-obama-adviser-trump-supporters-homeland-security",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/Ben-Rhodes-GETTY.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ex-obama-adviser-trump-supporters-homeland-security.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ex-obama-adviser-trump-supporters-homeland-security.amp",
+      "publishedDateTime": "2021-01-20T16:14:25-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-20-bidens-inaugural-address-was-heartfelt-appeal-for-unity-karl-rove.md",
       "title": "Biden’s inaugural address was ‘heartfelt appeal for unity’: Karl Rove",
       "excerpt": "Fox News contributor Karl Rove said Wednesday, President Joe Biden’s inaugural address was a “heartfelt appeal for unity.” Biden was sworn in as the 46th president of the United States and called for unity in his inaugural address amid a nation of political divide.",
@@ -1623,62 +1679,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-twitter-introduces-secondgentleman-handle-for-incoming-biden-administration.md",
-      "title": "Twitter introduces @SecondGentleman handle for incoming Biden administration",
-      "excerpt": "Twitter is introducing a new handle for the first-ever husband of a vice president as it begins transferring official White House social media accounts to the incoming Biden administration.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YqXf6WqX8VM/twitter-to-transfer-official-accounts-to-biden-administration-introduces-new-handle-secondgentleman",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YqXf6WqX8VM/twitter-to-transfer-official-accounts-to-biden-administration-introduces-new-handle-secondgentleman",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 232,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/Vandana-Rambaran.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/twitter-to-transfer-official-accounts-to-biden-administration-introduces-new-handle-secondgentleman.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-to-transfer-official-accounts-to-biden-administration-introduces-new-handle-secondgentleman.amp",
-      "publishedDateTime": "2021-01-15T07:22:43-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

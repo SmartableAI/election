@@ -50,8 +50,8 @@ related:
         isCached: true
   - title: "Trump Plaza Casino Demolished in Atlantic City"
     excerpt: "The new mayor of Atlantic City had made it a priority to destroy the vacant building, once owned by the former president."
-    publishedDateTime: 2021-02-17T15:43:00Z
-    webUrl: "https://www.wsj.com/articles/trump-plaza-casino-demolished-in-atlantic-city-11613575836?mod=lead_feature_below_a_pos1"
+    publishedDateTime: 2021-02-17T14:30:00Z
+    webUrl: "https://www.wsj.com/articles/trump-plaza-casino-demolished-in-atlantic-city-11613575836"
     ampWebUrl: "https://www.wsj.com/amp/articles/trump-plaza-casino-demolished-in-atlantic-city-11613575836"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-plaza-casino-demolished-in-atlantic-city-11613575836"
     type: article

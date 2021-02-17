@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "V.P. Kamala Harris calls for teachers to get COVID vaccine priority"
+    excerpt: "We all want schools to reopen… All of us with children in our lives, they want to back to school…Teachers want to teach,” Harris said."
+    publishedDateTime: 2021-02-17T17:02:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ny-covid-schools-vp-kamala-harris-20210217-gtekyx3b2vhj7k26hqz3uiscce-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ny-covid-schools-vp-kamala-harris-20210217-gtekyx3b2vhj7k26hqz3uiscce-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ny-covid-schools-vp-kamala-harris-20210217-gtekyx3b2vhj7k26hqz3uiscce-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 125
+    images:
+      - url: "https://www.chicagotribune.com/resizer/_CKfnM14SWqOHfUIcEXyXw3v5bU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/27GFWB6K2FFIVPBFL7BCBYGV74.jpg"
+        width: 1200
+        height: 774
+        isCached: true
   - title: "Fact check: Kamala Harris quote about shutting down Veterans Affairs originated from satire website"
     excerpt: "Social media users have been sharing a quotation falsely attributed to U.S. Vice President Kamala Harris, saying that veterans should learn to support themselves and she plans to shut down the Department of Veterans Affairs (VA) and take away soldier welfare,"
     publishedDateTime: 2021-02-16T15:48:00Z

@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-18-donald-trump-mourns-passing-of-rush-limbaugh-he-is-a-legend-he-loved-this-country-so-much.md",
+      "title": "Donald Trump mourns passing of Rush Limbaugh: ‘He is a legend, he loved this country so much'",
+      "excerpt": "Former President Donald Trump joined Fox News to remember conservative radio host Rush Limbaugh, who died at age 70 following a lung cancer battle.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/rush-limbaugh-death-donald-trump-legend-loved-america",
+      "originalUrl": "https://www.foxnews.com/media/rush-limbaugh-death-donald-trump-legend-loved-america",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f2a45f01-9afd-40d7-8f19-bedc3a947ff8/f1cf8d3e-0a81-431d-9d82-f768a578f49d/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/rush-limbaugh-death-donald-trump-legend-loved-america.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/rush-limbaugh-death-donald-trump-legend-loved-america.amp",
+      "publishedDateTime": "2021-02-17T10:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-17-trump-plaza-casino-in-atlantic-city-to-be-demolished.md",
       "title": "Trump Plaza casino in Atlantic City to be demolished",
       "excerpt": "The long-vacant Trump Plaza casino in Atlantic City, N.J., once a symbol of the glitz and glamor of the high-rolling lifestyle, was slated to be reduced to a pile of rubble on Wednesday.",
@@ -1477,7 +1534,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 655,
+      "heat": 675,
       "tags": null,
       "images": [
         {
@@ -1630,63 +1687,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-house-impeachment-managers-gush-over-pences-patriotism-after-years-of-criticism-stood-his-ground.md",
-      "title": "House impeachment managers gush over Pence's 'patriotism' after years of criticism: 'Stood his ground'",
-      "excerpt": "House impeachment managers on Wednesday repeatedly praised former Vice President Mike Pence for his actions during the Jan. 6 Capitol riot, putting aside past criticism of Pence as they tried to convince Senate Republicans to convict former President Donald Trump.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ynrVeGZ6mnE/house-impeachment-managers-pence-praise",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ynrVeGZ6mnE/house-impeachment-managers-pence-praise",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21041828624506-1.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/house-impeachment-managers-pence-praise.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-impeachment-managers-pence-praise.amp",
-      "publishedDateTime": "2021-02-11T07:03:54-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
       ]
     }
   ],

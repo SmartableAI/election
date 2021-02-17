@@ -352,6 +352,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Hunter Biden probe: AG nominee Garland pressed by GOP lawmaker to keep US attorney handling case"
+    excerpt: "Rep. Ken Buck on Wednesday sent a letter to President Biden's attorney general pick Judge Merrick Garland asking him to keep on the federal prosecutor who is in charge of the probe into Hunter Biden -- or otherwise appoint a special counsel."
+    publishedDateTime: 2021-02-17T17:47:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SNt27DENG3k/hunter-biden-probe-ag-nominee-garland-pressed-by-gop-lawmaker-to-keep-us-attorney-handling-case"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 142
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/GettyImages-1230697183.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "WH aide TJ Ducklo resigns after demeaning reporter despite Biden's warning of firing"
     excerpt: "Deputy White House press secretary TJ Ducklo on Saturday said he was resigning amid allegations that he made \"derogatory and misogynistic\" remarks to Politico reporter Tara Palmeri nearly a month ago."
     publishedDateTime: 2021-02-14T03:21:00Z
@@ -415,6 +429,6 @@ related:
         height: 3480
         isCached: true
 
-secured: "5HXABgT1rqaTHdAtqehucPnOECKF2JkzkhuZPaStDMH/nNEWswXqPaIJbv1ugChR7Rg6RV+r2PijcrvOskllr9Fza3aO0Hb7bjclhDrpTXeJwMkIbFqBXwStPlDQGjO+IhivQxsUwafNXkk8Ltpmj5JRt72nNbRF1brS0DPTeFyiOjV+VbdqjxAcNjzJgkXCfkKleNeoDwz1ZdKsZTBYoht1JkKZSTPXsMUmO0DFpZa5OqoFpHXktcqrQWD3htDaBMDr9zVEsSbiALrWB+9j1FsVV0ffcigmlPicurdynYpsKeIG+wVo9J59ysJUpTyXaQ4QBDs7AFA6IFQeQzalbKAbUMdJbxS8c2dOiW0OhrY=;3soesTx6od9mMw/fvq/xGw=="
+secured: "+VEySCL0/10AGOt5odcYkR4dqb3pBRGudcOP7f0FpUtj1yv/gan3kwWqn8biOmbNKyv3eIqulq7XXZZ5ybD6sbxZ2h2XTyGIleUI7QbyYjRHzBr47tTn+qgtHaM8qt13zNrWTolEnxetiYFhTHozgPD1RvKhVQ6AwY50NgjbasHdLeORowa6aQ2NwhfkA1n3LB2FqoAuVl5cflgU7EZRa8RT5bSa4DlWsDS13sqgQ5EOqf2FI6ZlWPmsG4yUEHJ3vpUdvoriC83qV1T9MtY2WfKfO3GlKUGdjjGfb9LDWjkF3CMoIMKwq3amIMD10lLeD+FzGk3uv6j551bVvQKvQLA4U/ytGvyY6unX7Gq5bHjP4R48vwyCTdZbQ4RN5bX6kfCu9g8W8LHExFAtZYQVbDkjotgMXAercifHRS63R+OkgTxirMX1r7bSxCoUOg9GIZU+a38nRs0UB/Kp5/O61F4quc16bVpT8wU19ISKf2A8+5ipY1ZXxn2AnlkrI+IhrLgeNghZvmVldyZv320qeQ==;2dj5tSQ0+MtLcHSpOPHOcA=="
 ---
 

@@ -2,6 +2,118 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-16-federal-judge-blocks-last-minute-trump-rule-limiting-asylum-claims.md",
+      "title": "Federal judge blocks last-minute Trump rule limiting asylum claims",
+      "excerpt": "A federal judge in California blocked a Trump-era rule that went into effect just a day before Joe Biden took office and sought to dramatically limit the ability of Central American migrants to claim asylum in the United States\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9DkBccKpUVI/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9DkBccKpUVI/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 275,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210204111218-05-immigration-file-asylum-seekers-mexico-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/16/politics/immigration-asylum-trump-rule/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/16/politics/immigration-asylum-trump-rule/index.html",
+      "publishedDateTime": "2021-02-16T10:38:14-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-16-psaki-gun-control-a-priority-biden-not-afraid-of-standing-up-to-the-nra.md",
+      "title": "Psaki: Gun control a 'priority,' Biden 'not afraid of standing up' to the NRA",
+      "excerpt": "White House press secretary Jen Psaki on Tuesday said gun control is a \"priority\" for President Biden – and said he is \"not afraid of standing up\" to the National Rifle Association.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KNMXNPtCCYA/psaki-gun-control-a-priority-biden-not-afraid-of-standing-up-to-the-nra",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KNMXNPtCCYA/psaki-gun-control-a-priority-biden-not-afraid-of-standing-up-to-the-nra",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/psaki-gun-control-a-priority-biden-not-afraid-of-standing-up-to-the-nra.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-gun-control-a-priority-biden-not-afraid-of-standing-up-to-the-nra.amp",
+      "publishedDateTime": "2021-02-16T10:27:01-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-16-rep-bennie-thompson-files-civil-lawsuit-against-trump-for-jan-6-riot-we-must-hold-him-accountable.md",
       "title": "Rep. Bennie Thompson files civil lawsuit against Trump for Jan. 6 riot: 'We must hold him accountable'",
       "excerpt": "Rep. Bennie Thompson, D-Miss., on Tuesday filed a civil lawsuit against former President Trump, accusing him of inciting the deadly Jan. 6 Capitol riot and conspiring with attorney Rudy Giuliani and extremist groups to stop Congress from certifying President Biden's Electoral College win.",
@@ -1212,110 +1324,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-02-15-i-made-the-call-jamie-raskin-stands-by-decision-to-forgo-witnesses-in-trump-impeachment-trial.md",
-      "title": "'I made the call': Jamie Raskin stands by decision to forgo witnesses in Trump impeachment trial",
-      "excerpt": "\"We could have had 5,000 witnesses, and Mitch McConnell would be making the same speech,\" Raskin said of the GOP opposition to a Trump conviction.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/jamie-raskin-witness-testimony-trump-impeachment-trial-2021-2",
-      "originalUrl": "https://www.businessinsider.com/jamie-raskin-witness-testimony-trump-impeachment-trial-2021-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6022eaf567d1e300113c519e?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/jamie-raskin-witness-testimony-trump-impeachment-trial-2021-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/jamie-raskin-witness-testimony-trump-impeachment-trial-2021-2?amp",
-      "publishedDateTime": "2021-02-14T11:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-15-biden-calls-for-commonsense-gun-law-reforms-on-anniversary-of-parkland-shooting.md",
-      "title": "Biden calls for 'commonsense gun law reforms' on anniversary of Parkland shooting",
-      "excerpt": "President Biden called on Congress to pass \"commonsense gun law reforms\" on Sunday in a message marking the third anniversary of the shooting at Marjory Stoneman Douglas High School in Parkland, Fla.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/administration/538825-biden-calls-for-commonsense-gun-law-reforms-on-anniversary-of",
-      "originalUrl": "https://thehill.com/homenews/administration/538825-biden-calls-for-commonsense-gun-law-reforms-on-anniversary-of",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/bidenjoe_020521getty_stocks.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/administration/538825-biden-calls-for-commonsense-gun-law-reforms-on-anniversary-of?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/538825-biden-calls-for-commonsense-gun-law-reforms-on-anniversary-of?amp",
-      "publishedDateTime": "2021-02-14T10:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

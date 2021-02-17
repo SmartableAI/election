@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo101146182002"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo101146182002"
 type: article
 quality: 135
-heat: 135
+heat: 155
 published: true
 
 provider:
@@ -31,6 +31,24 @@ images:
     height: 1080
     isCached: true
 
-secured: "TidsmTcIKRjJYURvVOxydoEX1MQSbp8GnkAkcpP7tzsiG7eceKo4M5HGk/TP1W5axFwvFFQ+Tk6g07hlrUOv06+OLqhxTxqbIyb3jsUxFV/JiotKeqk3lbqJW3XqZpIZu0AwNeoivYaYhjYxss4sSfJTvdzBDRj1RKIkHBHuEEHQQSDMrtDnPgXNbl+ewzBdXFzBwPKt/8dRYc8EcbhDCSpp9bXPXyNbnw54MV/b8QY7deR6aJiJBxZnGYXCgju59mA051luoFd+fUHm7oT85yPoC4pwG2LHnmEL2nqxhYVMJRTp54ZImXBWLV978U0xd4LLMLcwox9Cll2yCurCd/n2Sm07PMyT8uAtMaRqzY0=;VLyX7rOSy0iT/etrqh4lLQ=="
+related:
+  - title: "Former Trump Plaza Hotel and Casino in Atlantic City demolished"
+    excerpt: "A hotel and casino in Atlantic City, New Jersey, that was once owned by former President Donald Trump was demolished Wednesday morning. The former Trump Plaza Hotel and Casino has been closed since 2014."
+    publishedDateTime: 2021-02-17T17:18:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/trump-plaza-hotel-casino-atlantic-city-scheduled-demolition-n1258090"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1258090"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1258090"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_07/3450604/210217-trump-atlantic-city-jm-0815_8712fd5f2d019752be5d6c99363c504b.jpg"
+        width: 2500
+        height: 1666
+        isCached: true
+
+secured: "LN5GFlZhXiKpd+h8HlSFZX4tyOQHjV9KVlIVK/aP+HMdOCykB9r0z2yDUaHYxL4W5RXACkfgmhpuu8qVB+xvqLIug/3naXfh4/XPmHPbkhqSpt7OW39wtbK7/qDaU9du0RszcU2uMVkz6g8EvR6mDGEXmreA6HlncObLHb8+dCFcaMHrW6nF7eFXc6UOpRpAjps+aifviWB/0AHR5MEarXaREJzEbGzRFcuDDqG4bZbvKL1PRUfVMkFLuc+BF2fjeP4VpRGH8LMaJfWAud7WqnpS5byXAm7MXg29bRRcf023tM8Cc209uXT0aTAgK4tTxh7l6aU8qEfg4ivhpPVEXC5radwCwsLbDkYu6KSkDUjcehcTXcnfCBgbARPP0bSATYLhhdYC6TVbOTQZU8LMJYfZB55k0QayzyDHGB1bq61hijFug3KUB4EP5R8HAXTMsIQc1HVsg4YtOUFO2y9HYOfBMrRVhVvHyOPm4IgkcvHfRHP3RtboaLrWTuzY+0qiigPIm2hslGAIJQ9j2Ht/lA==;tbLl+sUkvK4MmrmbBYLQiw=="
 ---
 

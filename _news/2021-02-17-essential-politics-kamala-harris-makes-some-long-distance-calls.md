@@ -61,6 +61,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "V.P. Kamala Harris calls for teachers to get COVID vaccine priority"
+    excerpt: "We all want schools to reopen… All of us with children in our lives, they want to back to school…Teachers want to teach,” Harris said."
+    publishedDateTime: 2021-02-17T17:02:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ny-covid-schools-vp-kamala-harris-20210217-gtekyx3b2vhj7k26hqz3uiscce-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ny-covid-schools-vp-kamala-harris-20210217-gtekyx3b2vhj7k26hqz3uiscce-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ny-covid-schools-vp-kamala-harris-20210217-gtekyx3b2vhj7k26hqz3uiscce-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 125
+    images:
+      - url: "https://www.chicagotribune.com/resizer/_CKfnM14SWqOHfUIcEXyXw3v5bU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/27GFWB6K2FFIVPBFL7BCBYGV74.jpg"
+        width: 1200
+        height: 774
+        isCached: true
   - title: "Fact check: Fabricated Kamala Harris quote about white people being racist"
     excerpt: "Social media users have recently been resharing a post from 2019 showing a quote falsely attributed to U.S. Vice President Kamala Harris, where she purportedly says white people are racist. The Vice President’s press secretary confirmed to Reuters that the quotation"
     publishedDateTime: 2021-02-16T17:25:00Z
@@ -184,6 +200,6 @@ related:
         height: 1365
         isCached: true
 
-secured: "tU8hWUJ0pvyXLX5evDjtnj3kcwEfVAtBDesetWo9IGK57ah57t/rWtB1y3WWNGO+p9OXbq9/0lAuSQnT1XsxHM350A4c5w+fZcVeYarWk/b7+fIDUhApiR4tBVJ+cKVvEtu6Rud080FCUfG8xtTXcnsr5PcsqdYD4/13omN20LkssEBg5YG7bjGQDDxUB1cq8DKRxlXG8tJmRpsOQWBlInefdt0/i5DfmnfsvIdB1T+g1AA2AX5i0s4EO7POqRNA0Q7VNzi0M3IqxF6qV883QhnlDccgqi0sjyBpA7TqChwBVeb64ptu0Ms5iIQFT1U1IJS8CFEXxNRHCU5X8VbliOrOXNOE6I/aCC1OnWrwS3I=;xVHBMHEmUJk5OE/z4t+/Uw=="
+secured: "W1/Q/t9bu+lAlPW8ij9VFPUsu2ksrUUaMFHvjiyYKj5zkzCmmhtB9fUaoM2P2gOBfBxl4Tdx6bIJqptcfkovCQoPbxQkTVyFxKrrmN7qGzEJIV4hvJJkX27xkQuskVAtDzNggHK4xD5qo2HAYkAmJniTox37V8d46bOosnabltW3gQ7DSeXF69abNi47i56uxe1yyuvUHB0YCnU6D8/2dtmPnDwuXcEfM0Ov9sPJHjBbOnP1b3F71rst0iboSWTqiKzXFg6el3WS3K0aKOV/uhPeH9GLAy+EvDQQCb2NhBpoj0fJtnyearRwFfMj3X8Ssyp3TrLx7PHCcDzNN+fYMpyDvs6PIzIeN/awFYnqKMA5mmOLxCXWyC1A7Zd4RqkT9m1heREbjuxjXuz/bJCLslDdkRrHx5t1/LLqQLhJL18QaSzuW3j+TtM5DkpGYV18t7qGQ9XS3phaN5EwtEG/QcH9dKI8gU+GI7ZNx7OsT3+IoPYSXlTI/PPLhsSqQrqMsCEFNELgJMYqQb/b4tU69w==;vHeiERkn1reQzOjiS5q40A=="
 ---
 

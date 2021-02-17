@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/north-carolina-man-charged-threaten
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/north-carolina-man-charged-threatening-president-biden.amp"
 type: article
 quality: 175
-heat: 655
+heat: 675
 published: true
 
 provider:
@@ -332,6 +332,20 @@ related:
     quality: 158
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/add95066-24d3-4636-bf65-f0f6a9541cf2/56504e56-071b-46ab-9296-dd583496afbe/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Hunter Biden probe: AG nominee Garland pressed by GOP lawmaker to keep US attorney handling case"
+    excerpt: "Rep. Ken Buck on Wednesday sent a letter to President Biden's attorney general pick Judge Merrick Garland asking him to keep on the federal prosecutor who is in charge of the probe into Hunter Biden -- or otherwise appoint a special counsel."
+    publishedDateTime: 2021-02-17T17:47:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SNt27DENG3k/hunter-biden-probe-ag-nominee-garland-pressed-by-gop-lawmaker-to-keep-us-attorney-handling-case"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 142
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/GettyImages-1230697183.jpg"
         width: 1280
         height: 720
         isCached: true

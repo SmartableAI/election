@@ -2,6 +2,114 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-01-30-facebooks-sandberg-praises-biden-abortion-policy-criticizes-south-carolina-partial-ban.md",
+      "title": "Facebook's Sandberg praises Biden abortion policy, criticizes South Carolina partial ban",
+      "excerpt": "Facebook Chief Operating Officer Sheryl Sandberg is praising President Bident's recent executive order on overseas abortion providers and criticizing South Carolina's legislation banning most abortions.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VkhXXSz3npI/facebook-sandberg-biden-abortion",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VkhXXSz3npI/facebook-sandberg-biden-abortion",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 206,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.foxnews.com/BrightCove/694940094001/2018/11/30/694940094001_5973634959001_5973636138001-vs.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/facebook-sandberg-biden-abortion.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-sandberg-biden-abortion.amp",
+      "publishedDateTime": "2021-01-29T16:13:55-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-30-biden-renews-deportation-relief-for-syrians-in-the-united-states.md",
+      "title": "Biden renews deportation relief for Syrians in the United States",
+      "excerpt": "The administration of President Joe Biden on Friday extended deportation relief for several thousand Syrian immigrants living in the United States, an early move that aligns with his broader pro-immigrant platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/politicsNews/idUSKBN29Y28E?edition-redirect=uk",
+      "originalUrl": "https://www.reuters.com/article/politicsNews/idUSKBN29Y28E?edition-redirect=uk",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 425,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210129&t=2&i=1549573106&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0S1AD",
+          "width": 818,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29Y28W",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Y28W",
+      "publishedDateTime": "2021-01-29T13:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-01-29-aoc-green-new-dealers-rejoice-over-bidens-climate-plan-its-almost-as-if-we-helped-shape-the-platform.md",
       "title": "AOC, Green New Dealers rejoice over Biden’s climate plan: ‘It’s almost as if we helped shape the platform’",
       "excerpt": "Advocates for the Green New Deal have praised the Biden administration for its early moves to address climate change, taking a victory lap after the president signed a slew of sweeping executive orders targeting the environment.",
@@ -1246,116 +1354,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-cnn-reporter-gushes-over-bidens-impressively-productive-call-with-putin.md",
-      "title": "CNN reporter gushes over Biden's 'impressively productive' call with Putin",
-      "excerpt": "A CNN correspondent lauded the \"impressively productive\" call President Biden had with Russian President Vladimir Putin this week.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/cnn-reporter-gushes-biden-impressively-productive-call-putin",
-      "originalUrl": "https://www.foxnews.com/media/cnn-reporter-gushes-biden-impressively-productive-call-putin",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/879000b0-71d5-46c8-a7e6-62869b968341/198598de-4190-4d11-9710-6c5ec405133d/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/cnn-reporter-gushes-biden-impressively-productive-call-putin.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-reporter-gushes-biden-impressively-productive-call-putin.amp",
-      "publishedDateTime": "2021-01-28T06:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-biden-pauses-trump-policies-as-blinken-takes-diplomatic-helm.md",
-      "title": "Biden pauses Trump policies as Blinken takes diplomatic helm",
-      "excerpt": "The Biden administration has paused or put under review a wide swath of Trump-era foreign policies as America's new top diplomat takes the helm of the State Department",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/biden-pauses-trump-policies-blinken-takes-diplomatic-helm-75531721",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-pauses-trump-policies-blinken-takes-diplomatic-helm-75531721",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 2410,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_422b8d5714fc41d48d28e76caf1444a1_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/biden-pauses-trump-policies-blinken-takes-diplomatic-helm-75531721",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-pauses-trump-policies-blinken-takes-diplomatic-helm-75531721",
-      "publishedDateTime": "2021-01-27T22:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Joe Biden"
       ]
     }
   ],
