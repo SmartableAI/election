@@ -60,6 +60,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "LIVE UPDATES: Joe Biden's education relief plan would see fraction go toward schools this year, CBO estimates"
+    excerpt: "The CBO estimates that the number would increase to $32 billion in 2022 and 2023, respectively."
+    publishedDateTime: 2021-02-17T05:06:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AdfzSDNhWqw/joe-biden-live-updates-2-17-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-live-updates-2-17-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-live-updates-2-17-2021.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/31b5266e-00b9-4c8a-a711-4d3bc3ec3a8a/8a4f160d-8e38-48f5-a218-58889c598c66/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "+2NvFv7bhojQB3hEwS9a82b+7WWyWqNxAdsrwyyL5gAbyaP4kUQzctM6Yld4Wr/zCl8b8EUwjWMhaSdKN6xo4ix67nfia8X3shrdt1lNADknvd168P6W2AGOSDroL1LsoRchvSuqRLs3cyz0e2Wo/rMeTP/Y82Tjv/hilgvCtjo9Th1PF/d0pnq1chTkvG72OjvHhicXkvnF48Di0xwf5uTtB0MUixbmMWv0U++Ee99mh1WAS28FoJQ9RNNj8sH8XB4v/YTP1Zq3rXVkMg5aJQCLXROoGux+qXoG78R2w9AfZ0IHqM2IPno7sAFkGMbL5JIE/1Ahm52E0E+dnwGySz7E7uujp1oe+jJfwcxBvPQ=;7CmB2ghuoSkHvFvrpy/KUw=="
 ---

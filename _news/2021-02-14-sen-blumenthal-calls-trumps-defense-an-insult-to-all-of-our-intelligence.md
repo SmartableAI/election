@@ -47,6 +47,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Dem’s lawsuit accuses Trump of inciting deadly Capitol riot"
+    excerpt: "The House Homeland Security chairman has sued Donald Trump, accusing him of inciting the  deadly insurrection at the Capitol"
+    publishedDateTime: 2021-02-17T06:48:00Z
+    webUrl: "https://www.washingtonpost.com/politics/dems-lawsuit-accuses-trump-of-inciting-deadly-capitol-riot/2021/02/16/37741c68-70c2-11eb-8651-6d3091eac63f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/dems-lawsuit-accuses-trump-of-inciting-deadly-capitol-riot/2021/02/16/37741c68-70c2-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/dems-lawsuit-accuses-trump-of-inciting-deadly-capitol-riot/2021/02/16/37741c68-70c2-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Contradicting defense lawyers, sources say Trump put Pence's life in danger and didn't check in after the riot"
     excerpt: "\"At no point was the president informed the vice president was in any danger,\" Trump's lawyer Michael van der Veen said."
     publishedDateTime: 2021-02-13T13:12:00Z

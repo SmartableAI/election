@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden separates self from Dem call to erase $50G in student loan debt"
+    excerpt: "President Biden indicated on Tuesday that writing off $50,000 in student debt is not something that he believes can be “done with presidential action,” but said he is prepared to eliminate $10,000 for students."
+    publishedDateTime: 2021-02-17T05:30:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/C8evm3IhIYM/biden-separates-self-from-dem-call-to-erase-50g-in-student-loan-debt"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-separates-self-from-dem-call-to-erase-50g-in-student-loan-debt.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-separates-self-from-dem-call-to-erase-50g-in-student-loan-debt.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Cruz says there ‘no chance’ Trump is convicted after meeting with his legal team about strategy"
     excerpt: "Sen. Ted Cruz, R-Texas, told Fox News “@ Night” on Thursday that there is no chance that former President Trump will be convicted for inciting last month’s riot at the Capitol, but laid out how he believes Trump's legal team should present their argument."
     publishedDateTime: 2021-02-12T08:51:20Z

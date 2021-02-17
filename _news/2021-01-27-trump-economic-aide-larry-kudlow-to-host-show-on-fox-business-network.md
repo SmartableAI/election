@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29V2K3"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29V2K3"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Larry Kudlow debuts new Fox Business show after leaving Trump White House"
+    excerpt: "The cable news host-turned presidential adviser returned to his roots Tuesday, debuting a Fox Business show in which he made much of his insider status."
+    publishedDateTime: 2021-02-17T06:25:00Z
+    webUrl: "https://www.washingtonpost.com/media/2021/02/16/larry-kudlow-fox/"
+    ampWebUrl: "https://www.washingtonpost.com/media/2021/02/16/larry-kudlow-fox/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/media/2021/02/16/larry-kudlow-fox/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 124
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5ELBFYTADUI6XILXO5S7FGUVEQ.jpg&w=1440"
+        width: 1440
+        height: 1111
+        isCached: true
   - title: "Fox News hires Trump administration alum Larry Kudlow; press secretary Kayleigh McEnany may be next"
     excerpt: "Trump administration alum Larry Kudlow is joining Fox News amid reports that former White House press secretary Kayleigh McEnany will soon join."
     publishedDateTime: 2021-01-27T11:33:00Z

@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden says he feels 'a sense of history' living at White House"
+    excerpt: "President Joe Biden on Tuesday described the \"sense of history\" he feels residing at the White House and all the ways living in the historic building is an adjustment, including being waited on by White House staff."
+    publishedDateTime: 2021-02-17T05:37:00Z
+    webUrl: "https://www.cnn.com/2021/02/17/politics/biden-life-white-house/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/17/politics/biden-life-white-house/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/17/politics/biden-life-white-house/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210216220131-15-biden-town-hall-0216-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "g6crmYeyMCRtG6qCnHY2vdbpMTQlLm03A3IqWvktoUUHeFuV1hKKH9/Jwr2+6AifgoGX2lZzCzV3ulNa7FK+0UiCRT9FmWfvmKL8bkrztHoOCWzgrsiAe1AmiYLvhHsOKYDGE4krQQqs1ztMVdV2R/mnxj3WCJ7N4rl9FNHc+W3kVq2eIPWcWb3jZpMYtNpLLWgI3lH5vy2vcQisbEgERNVwHgMvhkYUUYLOLCDxjc51079LuG0pff5nvcfU786vPOow/dmW7CfLDHYMD4SallAkUtRtY+GUD1OXnxwUoMRRGojyEFQXN0FHPyB+b3FAgWIWOdsR0Kfk7sd9oZ3hmtRzZ8cAtvMxeHqdsYAepoY=;FiIinlS1HFWUIF9wq0jzzg=="
 ---

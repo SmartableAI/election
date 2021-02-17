@@ -223,6 +223,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Snubbed by Obama? Joe Biden says White House ‘residence’ was unknown to him – until he moved in"
+    excerpt: "President Joe Biden served in the U.S. Senate for more than 30 years, and then served eight years as Barack Obama’s vice president. But until he moved in last month, he said Tuesday night, he’d never been inside the presidential \"residence\" area of the White House."
+    publishedDateTime: 2021-02-17T06:05:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nwAgLYwO0SU/snubbed-by-obama-joe-biden-says-white-house-residence-was-unknown-to-him-until-he-moved-in"
+    ampWebUrl: "https://www.foxnews.com/politics/snubbed-by-obama-joe-biden-says-white-house-residence-was-unknown-to-him-until-he-moved-in.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/snubbed-by-obama-joe-biden-says-white-house-residence-was-unknown-to-him-until-he-moved-in.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/640/320/biden-obama-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden officials believe China to be 'greatest long-term national security threat' to the US, McCaul says"
     excerpt: "President Biden’s Secretary of State Tony Blinken and White House national security adviser Jake Sullivan believe that China poses the \"greatest long-term national security threat to the United States,\" Republican Rep. Michael McCaul told Fox News after speaking with the officials, but McCaul said they"
     publishedDateTime: 2021-02-08T13:55:08Z

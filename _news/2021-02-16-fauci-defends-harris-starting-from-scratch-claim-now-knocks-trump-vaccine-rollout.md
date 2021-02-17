@@ -51,7 +51,7 @@ related:
   - title: "Kamala Harris On COVID Response: \"In Many Ways, We Are Starting From Scratch\""
     excerpt: "Vice President Kamala Harris discusses the current administration's approach to the COVID-19 crisis in an interview with Mike Allen on \"Axios\" on HBO: \"There was no national strategy or plan for vaccinations,"
     publishedDateTime: 2021-02-16T00:00:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/02/16/kamala_harris_on_covid_response_in_many_ways_we_are_starting_from_scratch.html"
+    webUrl: "https://www.realclearpolitics.com/video/2021/02/16/kamala_harris_on_covid_response_in_many_ways_we_are_starting_from_scratch.html#!"
     ampWebUrl: "http://www.realclearpolitics.com/video/2021/02/16/kamala_harris_on_covid_response_in_many_ways_we_are_starting_from_scratch.amp.html"
     cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/02/16/kamala_harris_on_covid_response_in_many_ways_we_are_starting_from_scratch.amp.html"
     type: article

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/16/politics/biden-trump-presidency/i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/16/politics/biden-trump-presidency/index.html"
 type: article
 quality: 174
-heat: 194
+heat: 214
 published: true
 
 provider:
@@ -47,7 +47,23 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden says he feels 'a sense of history' living at White House"
+    excerpt: "President Joe Biden on Tuesday described the \"sense of history\" he feels residing at the White House and all the ways living in the historic building is an adjustment, including being waited on by White House staff."
+    publishedDateTime: 2021-02-17T05:37:00Z
+    webUrl: "https://www.cnn.com/2021/02/17/politics/biden-life-white-house/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/17/politics/biden-life-white-house/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/17/politics/biden-life-white-house/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210216220131-15-biden-town-hall-0216-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
-secured: "Yu7OHJMO48VLz5q5aOq4/CymAA8SUs36nHNPfxMPMHFp3maQ4gOJr7y1nJbTLspFq+QAsrNx0unWw6SmFJILfetGmai4Otz4v1Qd4WGwio1bH4fd6+kte5LVurdarmbVAuceihpwv23n5wqPThVLF/CgB78DhQE2Io8sH6eIX5wRertNI2/pa0et8+KQglKtqgVGjagEXgFMF8I46UhYXyoGs42hE0jhluk2DHWkIG4jbgbxqvwuneQ97QIxHDhmkzmwokLvfh6mQbmUhbvqmOM0+fd6/RXwkNCel+xSCrxm92vFULcg4mikRxIAnikrPSEWFLXoBup5eQgC+eoI/9zanCTOLnStp75GWsp4pvA=;tjO59iuxpewMo/DK85b9iA=="
+secured: "CzjP5PI/pOdV/dOnyzZBuoXf49sUsaKqRNWXUIo1NX/EL7t/dqE3db7DXw6V9RizVR8Ny/s6HVmlY2bIdJh6n+9bSSpPjXt7rDm5Gs8IkehsLM9rbzP+OFQvdqnDtv0AkhLs3/bjU4OWHzzT7NfDNWrDDFpf4LiMdbjbDDxjTlQEALb8yzFOa4xKFOVQP+T8UpJrgKI1fN9df/4qZSQ+DE66sVA9a2RkETBtGEddtEhYKhKHRlAlyuX/Grzgk41Px9+4hdW/yXGh8ibAf6OdA5wS/2k73+RAl7dBR9lvs1OZ1BuIo2w6RnG/ix8uULGIzyY8On212It4pEWS0oA0CE9xHGtRVZw1Kc9rMWoDx6E=;MLezboPWU2rwDPGFClQosA=="
 ---
 

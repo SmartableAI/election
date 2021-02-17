@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/lifestyle/style/trump-derangement-syn
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/style/trump-derangement-syndrome-impeachment/2021/02/11/a6ffa7b6-6ca6-11eb-9ead-673168d5b874_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Dem’s lawsuit accuses Trump of inciting deadly Capitol riot"
+    excerpt: "The House Homeland Security chairman has sued Donald Trump, accusing him of inciting the  deadly insurrection at the Capitol"
+    publishedDateTime: 2021-02-17T06:48:00Z
+    webUrl: "https://www.washingtonpost.com/politics/dems-lawsuit-accuses-trump-of-inciting-deadly-capitol-riot/2021/02/16/37741c68-70c2-11eb-8651-6d3091eac63f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/dems-lawsuit-accuses-trump-of-inciting-deadly-capitol-riot/2021/02/16/37741c68-70c2-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/dems-lawsuit-accuses-trump-of-inciting-deadly-capitol-riot/2021/02/16/37741c68-70c2-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Sen. Blumenthal calls Trump's defense an 'insult to all of our intelligence'"
     excerpt: "Friday evening following the fourth day of former President Trump’s impeachment trial said that the Trump defense team’s response to questions from senators on details surrounding the then-president’s response to the Jan."
     publishedDateTime: 2021-02-13T18:45:00Z

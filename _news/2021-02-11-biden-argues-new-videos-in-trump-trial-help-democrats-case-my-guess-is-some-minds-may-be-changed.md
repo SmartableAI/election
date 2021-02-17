@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-argues-new-videos-in-trump-tr
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-argues-new-videos-in-trump-trial-help-democrats-case-my-guess-is-some-minds-may-be-changed.amp"
 type: article
 quality: 175
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden separates self from Dem call to erase $50G in student loan debt"
+    excerpt: "President Biden indicated on Tuesday that writing off $50,000 in student debt is not something that he believes can be “done with presidential action,” but said he is prepared to eliminate $10,000 for students."
+    publishedDateTime: 2021-02-17T05:30:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/C8evm3IhIYM/biden-separates-self-from-dem-call-to-erase-50g-in-student-loan-debt"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-separates-self-from-dem-call-to-erase-50g-in-student-loan-debt.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-separates-self-from-dem-call-to-erase-50g-in-student-loan-debt.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Democrats dub Trump the 'inciter-in-chief' for provoking mob, refusing to stop Jan. 6 attack"
     excerpt: "Democratic impeachment managers made the case Wednesday that the Jan. 6 attack on the Capitol was no accident but rather a \"premeditated\" and \"foreseeable\" outcome"
     publishedDateTime: 2021-02-10T19:35:31Z

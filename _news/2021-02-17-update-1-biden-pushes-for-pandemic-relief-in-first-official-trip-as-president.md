@@ -90,6 +90,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Biden reframes goal on reopening of elementary schools"
+    excerpt: "President Joe Biden is promising a majority of elementary schools will be open five days a week by the end of his first 100 days in office, restating his goal after his administration came under fire when aides said schools would be considered open if they held in-person learning just one day a week."
+    publishedDateTime: 2021-02-17T05:40:00Z
+    webUrl: "https://www.businessinsider.com/biden-reframes-goal-on-reopening-of-elementary-schools-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/biden-reframes-goal-on-reopening-of-elementary-schools-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-reframes-goal-on-reopening-of-elementary-schools-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
 
 secured: "JtSribmBNb2QpDbfH4FXJS9J7CNPF2+rvHkdE1xf0jc0c0aXfiNyZCva/eJhYaPcPPJm+g5AB04e+oBM5JZLmtv8n01TH/wESN7HQcbZVCgX8uXo1V7AATWrND37+McSO+OVXE7Lvzu0DUrRAEITtH7sVhDG+DF5SqnjiligYGMR27hqjNlWPX3KjQarGE9m+E6lhHvuuLQ2slXq3b5DWvXSjbF7UwrwZkHTmBLYtu6NR4c0bzkxqh8ClOf0YpV6mFoEGdSeGNsXOlySyKyMrd+VJQCGWsXnSsslptG5vFnXucN2p8tbD6zOIC+IpYb+F3x8wVp72rwo9obKvAmMxATu+WIYKI2ttqoX8Q8uOa0=;vdYQXOEGYN4TK36vZf8G7A=="
 ---

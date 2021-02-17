@@ -207,6 +207,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Snubbed by Obama? Joe Biden says White House ‘residence’ was unknown to him – until he moved in"
+    excerpt: "President Joe Biden served in the U.S. Senate for more than 30 years, and then served eight years as Barack Obama’s vice president. But until he moved in last month, he said Tuesday night, he’d never been inside the presidential \"residence\" area of the White House."
+    publishedDateTime: 2021-02-17T06:05:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nwAgLYwO0SU/snubbed-by-obama-joe-biden-says-white-house-residence-was-unknown-to-him-until-he-moved-in"
+    ampWebUrl: "https://www.foxnews.com/politics/snubbed-by-obama-joe-biden-says-white-house-residence-was-unknown-to-him-until-he-moved-in.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/snubbed-by-obama-joe-biden-says-white-house-residence-was-unknown-to-him-until-he-moved-in.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/640/320/biden-obama-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "White House says Biden backs citizenship for 11 million illegal immigrants, ahead of bill unveiling"
     excerpt: "The White House on Tuesday reaffirmed that President Biden backs a controversial plan to create a pathway to citizenship to at least 11 million illegal immigrants -- as the White House and congressional Democrats are expected to formally unveil a sweeping immigration bill as soon as this week."
     publishedDateTime: 2021-02-16T21:28:39Z

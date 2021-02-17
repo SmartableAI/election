@@ -3,8 +3,8 @@ category: news
 title: "Kamala Harris On COVID Response: \"In Many Ways, We Are Starting From Scratch\""
 excerpt: "Vice President Kamala Harris discusses the current administration's approach to the COVID-19 crisis in an interview with Mike Allen on \"Axios\" on HBO: \"There was no national strategy or plan for vaccinations,"
 publishedDateTime: 2021-02-16T00:00:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/02/16/kamala_harris_on_covid_response_in_many_ways_we_are_starting_from_scratch.html"
-webUrl: "https://www.realclearpolitics.com/video/2021/02/16/kamala_harris_on_covid_response_in_many_ways_we_are_starting_from_scratch.html"
+originalUrl: "https://www.realclearpolitics.com/video/2021/02/16/kamala_harris_on_covid_response_in_many_ways_we_are_starting_from_scratch.html#!"
+webUrl: "https://www.realclearpolitics.com/video/2021/02/16/kamala_harris_on_covid_response_in_many_ways_we_are_starting_from_scratch.html#!"
 ampWebUrl: "http://www.realclearpolitics.com/video/2021/02/16/kamala_harris_on_covid_response_in_many_ways_we_are_starting_from_scratch.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/02/16/kamala_harris_on_covid_response_in_many_ways_we_are_starting_from_scratch.amp.html"
 type: article
@@ -61,6 +61,6 @@ related:
         height: 340
         isCached: true
 
-secured: "NkKOW1RYPqWg044JxFEskmnnaypm3PB/I6vvmP9zuRmYuzmkRyz0fKoNMvCDGxAMYVdC8jqkSid/Gth0OAi0wpzJiTQj01BEe2CzZYWf2FA0TLkEeIUMaTxsje6/p2nNcmKCnPamYivX5qrFvGfSor8Kwuz8CejP9mCYJaA1vDV4q4U0m0xD1T9lTtaWu3H9isB50bLzlJhnnDAGewH4pbW/Rr1rBxW5Iu+StZA/VuXSvjSMQY3gThDxZTmo0nxWnl6cM/GXlbyjd8q/pygqKTtwhRbBJ1W24OVqa3ewUsfLrQKsIxAp6qKr3BQBQm5+Mdh7Gp/yfDM50nyYVHrXUSVWuINeLkWbDJIohkoOPT8=;UhhEroAcE4cGato1jsisWw=="
+secured: "IkLs6cisGg4+weIIYIBWfNDaGP/9rrrB5RKg5Rl3lwjSI3WpOFUOrpcQotCHt4nCcINCeSTdiutRtGlJv5GlqTd6VOV5NgvtLnHpmP0A2+Yv57bS0bhB+FmwrAH71ZwkNf+XjhFSZRIPzHyqetuFZk7Sy+OHKwB3HuMlGmJ9NdYwfgk+G1Nat/iJMLSeXSRR1NOQjDiL+KMHBzSY7Kp4o4peBZw/7SWDHtZ6fqMrXivv7T3cHY7oSAhgYJXWj7LsY8Z8ywfuDAUDjNDU8a/aD3RHvWQMuCJ2hgIiEpecMQLOY/oTedMhmThOFU/n32rdTGA3ATNFTkwduGDosO6o78HdhKspQApEz2kCQUzfjQc=;abU7jk2X+sWhSCUKly5rNw=="
 ---
 
