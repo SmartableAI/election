@@ -44,6 +44,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump Criticizes McConnell, Calling Him a ‘Political Hack’"
+    excerpt: "Former President Donald Trump criticized Mitch McConnell following the Senate minority leader’s blistering condemnation of Mr. Trump’s actions leading up to the Jan. 6 Capitol riot."
+    publishedDateTime: 2021-02-16T22:29:00Z
+    webUrl: "https://www.wsj.com/articles/trump-criticizes-mcconnell-in-lengthy-statement-calling-him-a-political-hack-11613513959"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-criticizes-mcconnell-in-lengthy-statement-calling-him-a-political-hack-11613513959"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-criticizes-mcconnell-in-lengthy-statement-calling-him-a-political-hack-11613513959"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-299929/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Mitch McConnell says Trump could play ‘constructive’ role for Republicans"
     excerpt: "Senate Minority Leader Mitch McConnell said Monday that former President Donald Trump could play a “constructive” role for Republicans after his acquittal for allegedly inciting the"
     publishedDateTime: 2021-02-15T23:34:00Z

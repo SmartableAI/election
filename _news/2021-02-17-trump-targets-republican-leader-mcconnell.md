@@ -95,6 +95,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "McConnell responds to critics after voting to acquit Trump"
+    excerpt: "Ky., is defending his decision to acquit former President Donald Trump and hitting back at criticisms he stalled the trial."
+    publishedDateTime: 2021-02-16T23:08:00Z
+    webUrl: "https://abcnews.go.com/Politics/mcconnell-responds-critics-voting-acquit-trump/story?id=75924352"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/mcconnell-responds-critics-voting-acquit-trump/story?id=75924352"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/mcconnell-responds-critics-voting-acquit-trump/story?id=75924352"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/General/impeachment-president-donald-trump-07-gty-llr-210212_1613173401641_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "What Mitch McConnell Has Said About Impeaching Donald Trump for Second Time"
     excerpt: "The article of impeachment accuses Trump of \"incitement of insurrection\" for the riots at the Capitol building on January 6, and according to a recent report from The New York Times, Senate Majority Leader Mitch McConnell may be leaning toward voting in favor of impeachment."
     publishedDateTime: 2021-01-13T15:44:00Z

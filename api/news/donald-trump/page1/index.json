@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-17-trump-calls-mcconnell-a-political-hack-as-gop-divide-deepens-post-impeachment.md",
+      "title": "Trump calls McConnell a ‘political hack’ as GOP divide deepens post-impeachment",
+      "excerpt": "Former President Donald Trump blistered Mitch McConnell as a “political hack,\" following McConnell’s speech calling Trump responsible Capitol riot.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-mcconnell-gop-divide-20210217-yttnnj67wreb3lraurreksn2jy-story.html",
+      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-mcconnell-gop-divide-20210217-yttnnj67wreb3lraurreksn2jy-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 321,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/5x5IAwrJKINXsdBlQ3wxPxkej6I=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/DLV5XFJ6IFHWHGX6UTLFBD2TL4.aspx",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-mcconnell-gop-divide-20210217-yttnnj67wreb3lraurreksn2jy-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-mcconnell-gop-divide-20210217-yttnnj67wreb3lraurreksn2jy-story.html?outputType=amp",
+      "publishedDateTime": "2021-02-16T16:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-17-plaskett-insists-trump-will-never-be-elected-again-despite-impeachment-acquittal.md",
+      "title": "Plaskett insists Trump will 'never be elected again' despite impeachment acquittal",
+      "excerpt": "Rep. Stacey Plaskett says Republicans made a calculation to save their political futures rather than convict Donald Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/plaskett-insists-trump-elected-impeachment-acquittal/story?id=75923392",
+      "originalUrl": "https://abcnews.go.com/Politics/plaskett-insists-trump-elected-impeachment-acquittal/story?id=75923392",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/Plaskett-ap-er-210216_1613499656957_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/plaskett-insists-trump-elected-impeachment-acquittal/story?id=75923392",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/plaskett-insists-trump-elected-impeachment-acquittal/story?id=75923392",
+      "publishedDateTime": "2021-02-16T16:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-17-naacp-and-democratic-congressman-sue-trump-giuliani-over-capitol-assault.md",
       "title": "NAACP and Democratic congressman sue Trump, Giuliani over Capitol assault",
       "excerpt": "The lawsuit accuses Trump, Giuliani and two extremist groups of violating a federal Reconstruction-era law known as the Ku Klux Klan Act.",
@@ -532,7 +636,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/feb/14/donald-trump-impeachment-republican-party-cornyn-hogan-graham-mcconnell",
       "featuredContent": null,
       "highlight": null,
-      "heat": 445,
+      "heat": 505,
       "tags": null,
       "images": [
         {
@@ -734,58 +838,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-14-full-text-on-mitch-mcconnells-email-explaining-why-he-would-vote-to-acquit-trump.md",
-      "title": "Full Text on Mitch McConnell's Email Explaining Why He Would Vote to Acquit Trump",
-      "excerpt": "Senate GOP Leader Mitch McConnell will vote to acquit former President Donald Trump, he told colleagues on Saturday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/full-text-mitch-mcconnells-email-explaining-why-he-would-vote-acquit-trump-1569064",
-      "originalUrl": "https://www.newsweek.com/full-text-mitch-mcconnells-email-explaining-why-he-would-vote-acquit-trump-1569064",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 320,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1733464/mitch-mcconnell.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/full-text-mitch-mcconnells-email-explaining-why-he-would-vote-acquit-trump-1569064?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/full-text-mitch-mcconnells-email-explaining-why-he-would-vote-acquit-trump-1569064?amp=1",
-      "publishedDateTime": "2021-02-13T08:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -1441,7 +1493,7 @@
       "originalUrl": "https://thehill.com/homenews/media/538390-wall-street-journal-trump-might-be-acquitted-but-wont-live-down-disgraceful",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -1539,58 +1591,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-adviser-says-donald-trump-in-great-mood-thinks-bruce-castor-made-some-good-points.md",
-      "title": "Adviser Says Donald Trump In 'Great Mood,' Thinks Bruce Castor Made 'Some Good Points'",
-      "excerpt": "\"There are a few things that we need to tighten up,\" Donald Trump's adviser Jason Miller said of Trump's defense team in the Senate impeachment trial.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/adviser-says-donald-trump-great-mood-thinks-bruce-castor-made-some-good-points-1568455",
-      "originalUrl": "https://www.newsweek.com/adviser-says-donald-trump-great-mood-thinks-bruce-castor-made-some-good-points-1568455",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1732059/jason-miller-donald-trump-impeachment-bruce-castor.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/adviser-says-donald-trump-great-mood-thinks-bruce-castor-made-some-good-points-1568455?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/adviser-says-donald-trump-great-mood-thinks-bruce-castor-made-some-good-points-1568455?amp=1",
-      "publishedDateTime": "2021-02-10T20:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

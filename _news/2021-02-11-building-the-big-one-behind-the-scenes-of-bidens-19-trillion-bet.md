@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/11/politics/biden-1-9-trillion-bet/i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/11/politics/biden-1-9-trillion-bet/index.html"
 type: article
 quality: 175
-heat: 735
+heat: 755
 published: true
 
 provider:
@@ -300,6 +300,20 @@ related:
     quality: 162
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106123403-04-merrick-garland-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "'Hell or high water:' Manchin tells Biden he won't back push to skirt Senate rules on relief bill"
+    excerpt: "West Virginia Sen. Joe Manchin has privately informed President Joe Biden that he won't join any Democratic efforts to force through provisions in his economic rescue package if they are ruled in violation of strict Senate budget restrictions, the latest warning sign for Biden's push for a hike to the"
+    publishedDateTime: 2021-02-17T00:33:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/w4F6wpIC9u4/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 142
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180124131356-joe-manchin-06-27-2017-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

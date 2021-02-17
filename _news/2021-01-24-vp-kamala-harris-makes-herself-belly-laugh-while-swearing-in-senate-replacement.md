@@ -188,6 +188,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Veep Kamala Harris takes foreign calls on behalf of Biden"
+    excerpt: "Vice President Kamala Harris on Monday held her second call with a foreign leader — speaking with French President Emmanuel Macron after a talk earlier this month with Canadian Prime Minister"
+    publishedDateTime: 2021-02-16T23:56:00Z
+    webUrl: "https://nypost.com/2021/02/16/kamala-harris-takes-foreign-calls-on-behalf-of-biden/"
+    ampWebUrl: "https://nypost.com/2021/02/16/kamala-harris-takes-foreign-calls-on-behalf-of-biden/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/16/kamala-harris-takes-foreign-calls-on-behalf-of-biden/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/vp-kamala-harris-phone.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Black Women Ready to Virtually Cheer On Kamala Harris’s Inauguration"
     excerpt: "President-elect Joe Biden and Ms. Harris will be sworn into office during a scaled-back inauguration in a heavily fortified Washington."
     publishedDateTime: 2021-01-17T14:00:00Z

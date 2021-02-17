@@ -77,6 +77,38 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump lashes out at McConnell in deepening feud between top Republicans"
+    excerpt: "Former President Donald Trump lashed out at Senate Minority Leader Mitch McConnell on Tuesday, signaling a growing feud between the two most senior Republican voices after the party lost the White House and control of the Senate."
+    publishedDateTime: 2021-02-17T00:11:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-mcconnell-idUSKBN2AG2LL"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AG2LL"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AG2LL"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210216&t=2&i=1551774169&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1F1KA"
+        width: 900
+        height: 545
+        isCached: true
+  - title: "Trump slams McConnell as GOP divide deepens post-impeachment"
+    excerpt: "Former President Donald Trump has issued a blistering statement denouncing the top Republican in the Senate, Mitch McConnell, as a “political hack” who will make sure the party “will not win again.”"
+    publishedDateTime: 2021-02-17T00:51:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-slams-mcconnell-as-gop-divide-deepens-post-impeachment/2021/02/16/451fa99e-70b9-11eb-8651-6d3091eac63f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-slams-mcconnell-as-gop-divide-deepens-post-impeachment/2021/02/16/451fa99e-70b9-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-slams-mcconnell-as-gop-divide-deepens-post-impeachment/2021/02/16/451fa99e-70b9-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Pull of partisanship helps Trump escape impeachment conviction: ANALYSIS"
     excerpt: "While seven Republicans joined all 50 Democrats in voting for former President Donald Trump 's conviction, the Senate fell 10 votes short of conviction. Trump was spared the ultimate punishment Congress could wield by powerful and familiar forces he has long understood,"
     publishedDateTime: 2021-02-13T22:04:00Z
@@ -92,6 +124,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/donald-trump_hpMain_20210213-164842_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Trump lashes out after McConnell blames him for Capitol insurrection – live"
+    excerpt: "Senate minority leader has said Trump is ‘practically and morally’ responsible for US Capitol attack"
+    publishedDateTime: 2021-02-17T00:37:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/16/joe-biden-covid-coronavirus-economy-andrew-cuomo-donald-trump-live-updates?page=with:block-602c3e0f8f08cafb5cc2b40f"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/16/joe-biden-covid-coronavirus-economy-andrew-cuomo-donald-trump-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/16/joe-biden-covid-coronavirus-economy-andrew-cuomo-donald-trump-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 123
+    images:
+      - url: "https://i.guim.co.uk/img/media/475dbe7596faf3929ebdabf81ba12067019b7079/0_178_5416_3248/master/5416.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4d09134bff3768078bd89a05f64340d5"
+        width: 600
+        height: 360
         isCached: true
   - title: "Acquitted again by Senate, Trump still a powerful force in Republican politics"
     excerpt: "It is still Donald Trump’s Republican Party - at least for now. The vote by 43 of the 50 Republican senators to acquit Trump on the charge of inciting last month’s deadly riot at the U.S. Capitol, with only seven voting for conviction,"

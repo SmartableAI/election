@@ -47,6 +47,36 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "White House relaunches Snapchat account with a Covid-focused message from Biden and Fauci"
+    excerpt: "The White House is relaunching its official Snapchat account on Tuesday, featuring a message from President Joe Biden focused on Covid-19.\n    \n"
+    publishedDateTime: 2021-02-16T23:17:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0h9RX_MYX_E/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 146
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210216171151-01-white-house-snapchat-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Milwaukee voters want Biden to focus on ‘small business assistance’ amid Covid"
+    excerpt: "President Joe Biden will be in Milwaukee, Wis., for his first town hall since taking office. NBC News’ Shaquille Brewster spoke with voters in the state about what they want to see Biden accomplish."
+    publishedDateTime: 2021-02-16T23:16:00Z
+    webUrl: "https://www.nbcnews.com/now/video/milwaukee-voters-want-biden-to-focus-on-small-business-assistance-amid-covid-101111365795"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo101111365795"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo101111365795"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 131
+    images:
+      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202102/ott_now_brewster_3p_milwa_210216_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "fStIo4VhETcIpJNW10xM3ccS2tHKTZgO+o/XY0b0dYCpM526PjHnFXADulZvaBsVimIKWmb2pBlSYIJd+/14H4dhcO8heIES3hU8edCwIf+00w9aV2/FIW+ie4sTxONfzWFxAqaP6nPRtIIUSb35ZrclFAznJh0bdQjrdC2fjEIeNkOL0ZGWBm9G5aYCn/d4jpFl8yfKh0PNdFDvsjz43ILdsrvmvA2DOGm3EN/FUHzXYWvtVSQEU8vSwgapqOpjzlyMyzDZrJwYckhTPG2QrhafEEXyHbLpVCkv8vRwGJr1sOnm5ihbQ+x6ceorl/W8F//J45pi3vDWS1AQL6tn9v9fkrQdz+PhLix+FS6qPNA=;9iW8jV6A886U+a6fZVb7Qw=="
 ---

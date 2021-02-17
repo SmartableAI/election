@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/bennie-thompson-civil-lawsuit-trump
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bennie-thompson-civil-lawsuit-trump-capitol-riot-giuliani.amp"
 type: article
 quality: 159
-heat: 159
+heat: 179
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 640
     height: 320
     isCached: true
+
+related:
+  - title: "Trump, Giuliani Accused of Conspiring to Incite U.S. Capitol Riot in New Lawsuit"
+    excerpt: "The suit, filed in federal court by NAACP and Rep. Bennie Thompson (D., Miss.), also names the Proud Boys and Oath Keepers."
+    publishedDateTime: 2021-02-16T19:11:00Z
+    webUrl: "https://www.wsj.com/articles/trump-giuliani-accused-of-conspiring-to-incite-a-riot-in-new-lawsuit-11613491170"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-giuliani-accused-of-conspiring-to-incite-a-riot-in-new-lawsuit-11613491170"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-giuliani-accused-of-conspiring-to-incite-a-riot-in-new-lawsuit-11613491170"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 130
+    images:
+      - url: "https://images.wsj.net/im-299591/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "pyZ/FyvOUtEFoKyAGbli9pvF/WddET03UGtQKpkh0RsbOyYq8x9VnTQr8MT7O86Yt3hdaEnf3HMddH7ZtZjlGo3ONVwWWCgymLZa3//n1t11U8cGH2igb4Xchrz8x2tVFxW+lpTekUAA56o9URqovbKip0N0H8YtVaum+PVFCa6wd88nL6m7vhetch9IMIECcOflR20DkPqw74yqJrdIxYt5AAkS7icT6ay+phUJhLwWL9zEi0omAjIz2gvOFPQ/rzGYlpdWW9eJV2dIeSV7oKr1wPOUPW4SkEMTxIWGEinpLJUooV9GPXIlae3tE8V8veGXFiuYO06dUCN2r2KpJiXaCVdba5w5tkKp8/y6ahc=;EF9LDZT2luV0ze4/0s/pUw=="
 ---

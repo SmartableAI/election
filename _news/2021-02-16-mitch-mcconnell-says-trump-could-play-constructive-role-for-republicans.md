@@ -44,6 +44,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump Criticizes McConnell, Calling Him a ‘Political Hack’"
+    excerpt: "Former President Donald Trump criticized Mitch McConnell following the Senate minority leader’s blistering condemnation of Mr. Trump’s actions leading up to the Jan. 6 Capitol riot."
+    publishedDateTime: 2021-02-16T22:29:00Z
+    webUrl: "https://www.wsj.com/articles/trump-criticizes-mcconnell-in-lengthy-statement-calling-him-a-political-hack-11613513959"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-criticizes-mcconnell-in-lengthy-statement-calling-him-a-political-hack-11613513959"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-criticizes-mcconnell-in-lengthy-statement-calling-him-a-political-hack-11613513959"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-299929/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Trump urges ouster of ‘unsmiling political hack’ Mitch McConnell"
     excerpt: "Former President Donald Trump on Tuesday issued a blistering attack on the most powerful Republican in post-Trump Washington, calling Senate Minority Leader Mitch McConnell an “unsmiling political"
     publishedDateTime: 2021-02-16T22:29:00Z

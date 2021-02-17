@@ -320,6 +320,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "'Hell or high water:' Manchin tells Biden he won't back push to skirt Senate rules on relief bill"
+    excerpt: "West Virginia Sen. Joe Manchin has privately informed President Joe Biden that he won't join any Democratic efforts to force through provisions in his economic rescue package if they are ruled in violation of strict Senate budget restrictions, the latest warning sign for Biden's push for a hike to the"
+    publishedDateTime: 2021-02-17T00:33:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/w4F6wpIC9u4/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 142
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180124131356-joe-manchin-06-27-2017-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "North Carolina man charged with threatening to kill President Biden"
     excerpt: "A North Carolina man has been charged with making threats to kill President Joe Biden, according to a federal criminal complaint unsealed in court Thursday."
     publishedDateTime: 2021-02-11T22:51:00Z

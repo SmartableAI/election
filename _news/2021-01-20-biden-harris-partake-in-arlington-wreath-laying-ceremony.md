@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-harris-arlington-wreath-layin
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-arlington-wreath-laying-ceremony.amp"
 type: article
 quality: 200
-heat: 660
+heat: 680
 published: true
 
 provider:
@@ -175,6 +175,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/Frank20Miles20HEADSHOT.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Veep Kamala Harris takes foreign calls on behalf of Biden"
+    excerpt: "Vice President Kamala Harris on Monday held her second call with a foreign leader — speaking with French President Emmanuel Macron after a talk earlier this month with Canadian Prime Minister"
+    publishedDateTime: 2021-02-16T23:56:00Z
+    webUrl: "https://nypost.com/2021/02/16/kamala-harris-takes-foreign-calls-on-behalf-of-biden/"
+    ampWebUrl: "https://nypost.com/2021/02/16/kamala-harris-takes-foreign-calls-on-behalf-of-biden/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/16/kamala-harris-takes-foreign-calls-on-behalf-of-biden/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/vp-kamala-harris-phone.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Black Women Ready to Virtually Cheer On Kamala Harris’s Inauguration"
     excerpt: "President-elect Joe Biden and Ms. Harris will be sworn into office during a scaled-back inauguration in a heavily fortified Washington."

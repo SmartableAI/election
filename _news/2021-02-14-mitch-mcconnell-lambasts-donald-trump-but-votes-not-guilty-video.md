@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump calls McConnell a ‘political hack’ as GOP divide deepens post-impeachment"
+    excerpt: "Former President Donald Trump blistered Mitch McConnell as a “political hack,\" following McConnell’s speech calling Trump responsible Capitol riot."
+    publishedDateTime: 2021-02-17T00:57:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-mcconnell-gop-divide-20210217-yttnnj67wreb3lraurreksn2jy-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-mcconnell-gop-divide-20210217-yttnnj67wreb3lraurreksn2jy-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-mcconnell-gop-divide-20210217-yttnnj67wreb3lraurreksn2jy-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 121
+    images:
+      - url: "https://www.chicagotribune.com/resizer/5x5IAwrJKINXsdBlQ3wxPxkej6I=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/DLV5XFJ6IFHWHGX6UTLFBD2TL4.aspx"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Full Text on Mitch McConnell's Email Explaining Why He Would Vote to Acquit Trump"
     excerpt: "Senate GOP Leader Mitch McConnell will vote to acquit former President Donald Trump, he told colleagues on Saturday."
     publishedDateTime: 2021-02-13T16:37:00Z
@@ -108,22 +124,6 @@ related:
       - url: "https://i.insider.com/6026e713b3c2a800183ccb49?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Mitch McConnell votes to acquit but says Trump's actions were a 'disgraceful dereliction of duty'"
-    excerpt: "McConnell's decision not call the Senate back from recess last month meant Joe Biden would be sworn in as president before Trump's trial could begin."
-    publishedDateTime: 2021-02-15T00:54:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/13/mitch-mcconnell-says-trump-caused-capitol-riot-but-votes-acquit/4476982001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4476982001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4476982001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 112
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/19/USAT/165c032b-fc9d-4737-800c-1631e49e8f9a-VPC_MCCONNELL_SOT_DESK.00_00_08_10.Still010.jpg?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Pelosi called McConnell 'pathetic' after he said he wouldn't vote to convict Trump for inciting Capitol riot"
     excerpt: "Pelosi said McConnell postponed Trump's impeachment trial, and then voted for his acquittal because the trial occurred after Trump left office."

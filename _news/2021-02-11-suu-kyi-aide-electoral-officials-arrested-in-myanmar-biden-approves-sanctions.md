@@ -127,6 +127,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden plans to 'recalibrate' Saudi relations in shot at MbS - White House"
+    excerpt: "President Joe Biden plans to shift U.S. relations with Saudi Arabia and will conduct diplomacy through Saudi King Salman bin Abdulaziz rather than his powerful son, Crown Prince Mohammed bin Salman, the White House said on Tuesday."
+    publishedDateTime: 2021-02-16T19:52:00Z
+    webUrl: "https://www.reuters.com/article/us-mideast-usa-biden-idUSKBN2AG2AR"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AG2AR"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AG2AR"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210216&t=2&i=1551758997&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1F1ET"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden launches review of Guantanamo prison, aims to close it before leaving office"
     excerpt: "President Joe Biden's aides have launched a formal review of the U.S. military prison at Guantanamo Bay in Cuba, reviving the Obama-era goal of closing the controversial facility with the aim of doing so before he leaves office,"
     publishedDateTime: 2021-02-13T05:18:00Z

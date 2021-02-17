@@ -2,6 +2,63 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-01-22-facebook-refers-trump-account-suspension-to-oversight-board.md",
+      "title": "Facebook Refers Trump Account Suspension to Oversight Board",
+      "excerpt": "The social-media company said a decision from its independent panel on the matter—the biggest issue it has tackled since being set up last year—would be binding.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/facebook-refers-trump-account-suspension-to-oversight-board-11611251506",
+      "originalUrl": "https://www.wsj.com/articles/facebook-refers-trump-account-suspension-to-oversight-board-11611251506",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-282048/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/facebook-refers-trump-account-suspension-to-oversight-board-11611251506",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facebook-refers-trump-account-suspension-to-oversight-board-11611251506",
+      "publishedDateTime": "2021-01-21T18:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-22-nato-secretary-general-jens-stoltenberg-says-need-to-rebuild-trust-after-trump.md",
       "title": "NATO Secretary General Jens Stoltenberg says ‘need to rebuild trust’ after Trump",
       "excerpt": "After four long years of Donald Trump’s attacks on NATO, Secretary General Jens Stoltenberg said Thursday that the defense alliance had survived the challenge — and that he looked forward to rebuilding the transatlantic relationship with President Biden.",
@@ -1516,63 +1573,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-16-trumps-regulators-ok-partnership-that-could-squeeze-air-passengers-in-dc-and-nyc.md",
-      "title": "Trump's regulators OK 'partnership' that could squeeze air passengers in D.C. and NYC",
-      "excerpt": "OK'd on Elaine Chao's final day as transportation secretary — is generating complaints it will harm competition and raise fares.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/01/16/trump-administration-american-airlines-jetblue-459824",
-      "originalUrl": "https://www.politico.com/news/2021/01/16/trump-administration-american-airlines-jetblue-459824",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/68/f6/73732ffa40ed8657bdce24ed7285/20210115-elaine-chao-gty-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-16T06:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

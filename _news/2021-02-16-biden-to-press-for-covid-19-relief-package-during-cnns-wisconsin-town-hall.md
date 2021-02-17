@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/16/politics/biden-town-hall-february
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/16/politics/biden-town-hall-february/index.html"
 type: article
 quality: 173
-heat: 193
+heat: 233
 published: true
 
 provider:
@@ -46,6 +46,36 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210212084720-01-joe-biden-0211-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "White House relaunches Snapchat account with a Covid-focused message from Biden and Fauci"
+    excerpt: "The White House is relaunching its official Snapchat account on Tuesday, featuring a message from President Joe Biden focused on Covid-19.\n    \n"
+    publishedDateTime: 2021-02-16T23:17:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0h9RX_MYX_E/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 146
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210216171151-01-white-house-snapchat-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Milwaukee voters want Biden to focus on ‘small business assistance’ amid Covid"
+    excerpt: "President Joe Biden will be in Milwaukee, Wis., for his first town hall since taking office. NBC News’ Shaquille Brewster spoke with voters in the state about what they want to see Biden accomplish."
+    publishedDateTime: 2021-02-16T23:16:00Z
+    webUrl: "https://www.nbcnews.com/now/video/milwaukee-voters-want-biden-to-focus-on-small-business-assistance-amid-covid-101111365795"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo101111365795"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo101111365795"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 131
+    images:
+      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202102/ott_now_brewster_3p_milwa_210216_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "33U+egh4+zIgIenXKBSDqxixMjiiorUwf29927Vif+VDHyTmSIneTuuxuuEB8dF5OjRdH/kHU5zY6TogbL22p217oCAq8JOHD7ITLMPmJwHuKt+8cftJ4Ni9LFzWr08smOPOTZtwaeiZJqDnQMMUtNu/hO2tjTVn/V5mYbkZTp2K3FiVh3yYCDiPtCPtcHXW7+8JSRrFZjKHxxp0BC/1xHnBiYfFmQQT0bxCWBXdquMuICH6rAEzFkd7geflTRkLkyEhqgpJ1M0Di48HsAOFTcIl8WFqti+Rj/LvpR6sB+ELmo8FUy6rAPbe31QHMgyUXRB1Kkr80WmPWSA7K7XxwxYunZK/IB6U52AV/Al6OWM=;+JqJlm4JmjIiHFmn6l4IzA=="
