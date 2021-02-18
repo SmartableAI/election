@@ -207,6 +207,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden postponing Michigan trip due to weather "
+    excerpt: "President Joe Biden is postponing his trip to Michigan on Thursday due to weather, including pending issues in the Washington area, a White House official confirmed to CNN on Wednesday.\n    \n"
+    publishedDateTime: 2021-02-18T00:37:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2MLLPnJoBPI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/17/politics/biden-michigan-trip-postponed-weather/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/17/politics/biden-michigan-trip-postponed-weather/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210216213824-10-biden-town-hall-0216-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden speaks with Chinese President Xi Jinping for first time as President"
     excerpt: "President Joe Biden spoke with China's President Xi Jinping late Wednesday, according to a senior administration official, their first call since Biden took office.\n    \n"
     publishedDateTime: 2021-02-11T02:39:57Z
@@ -447,6 +463,33 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration begins negotiating over Don McGahn testimony to House, new court filing says"
+    excerpt: "The Biden administration says it is talking with the US House of Representatives about a possible compromise over the Judiciary Committee's long-standing request to interview former White House counsel Don McGahn under subpoena about former President Donald Trump's attempts to obstruct the Russia investigation,"
+    publishedDateTime: 2021-02-18T02:13:42Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TGcjH5Qk1pY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/17/politics/biden-administration-don-mcgahn-house-testimony/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/17/politics/biden-administration-don-mcgahn-house-testimony/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191125183648-03-don-mcgahn-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Pro-Biden outside group launching with White House's blessing"
+    excerpt: "President Joe Biden is getting outside reinforcements to help promote and build support for his policy agenda in the form of a new nonprofit advocacy group, a senior administration official and a person familiar with the matter told CNN.\n    \n"
+    publishedDateTime: 2021-02-18T00:47:17Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3aOQbfBS9L0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/17/politics/biden-outside-group/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/17/politics/biden-outside-group/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 155
   - title: "'Hell or high water:' Manchin tells Biden he won't back push to skirt Senate rules on relief bill"
     excerpt: "West Virginia Sen. Joe Manchin has privately informed President Joe Biden that he won't join any Democratic efforts to force through provisions in his economic rescue package if they are ruled in violation of strict Senate budget restrictions, the latest warning sign for Biden's push for a hike to the"
     publishedDateTime: 2021-02-17T00:33:52Z

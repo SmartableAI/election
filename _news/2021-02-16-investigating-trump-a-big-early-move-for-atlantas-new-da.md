@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/world-nation/story/2021-02-15/investigating-
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-02-15/investigating-trump-a-big-early-move-for-atlantas-new-da?_amp=true"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/02/13/a8c0f061-b32b-435f-92a1-8a38b8db46e2/thumbnail/1200x630/f61b31ee01e950b6826672066705431f/cbsn-fusion-senate-acquits-trump-impeachment-lawyer-michael-van-der-veen-thumbnail-645843-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "In Seconds, Atlantic City's Trump Plaza Hotel And Casino Is Reduced To Rubble"
+    excerpt: "The Trump Plaza had stood along the boardwalk since 1984. The shell of the former president's failed business, which closed in 2014, came crumbling down Wednesday morning."
+    publishedDateTime: 2021-02-18T02:37:00Z
+    webUrl: "https://www.npr.org/2021/02/17/968656595/in-seconds-atlantic-citys-trump-plaza-and-casino-is-reduced-to-rubble"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 102
+    images:
+      - url: "https://media.npr.org/assets/img/2021/02/17/ap_21048535426936_wide-afb44df801b20b7121060c26f5723828e441d155.jpg?s=1400"
+        width: 1400
+        height: 786
         isCached: true
 
 secured: "sbzEcOVVHJgyxN0vROmPSWLZkeCITIQayuA4+mUYR6lzJb4CCyqr8PWeXHdS+KWTpbdMiF4V2cVR28F5JjyLwAjpRl/TrDxN0GF1BW9UR14tiZWpBC1cIy2X1nCv/Id4/9s2RoFphs8xAe4rBf3769wqpsdGVBUm3QxErqyNF5zgFuzdYr4KArM8TAJUKr5NpX3KrlI7fdPJrGaMsAKH85jFOiMLDeh5FZh9uMJK+doXSR69pQ1DSsANw8bdLz5gbZagRTsr+9EkCtpidqef9a6Xt8BDsbRh3WHLBrTgeYHDHYHEz6/IomSxKp8Z8/EKEMVmxTfWQgK/D0aOuykONwkMnSg0fqYUepSZphh+YHI=;UoGPOic7NA6t64p9kFTcJA=="

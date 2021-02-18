@@ -1,0 +1,48 @@
+---
+category: news
+title: "Rush Limbaugh created the politics that Trump used to win the White House"
+excerpt: "The first time I remember hearing Rush Limbaugh’s radio show, I was in high school. It was 1991, and I was in the district office of then-Rep. Jim Traficant (D-Ohio), for whom I’d earned the dubious honor of interning."
+publishedDateTime: 2021-02-18T00:36:00Z
+originalUrl: "https://www.washingtonpost.com/politics/2021/02/17/rush-limbaugh-created-politics-that-trump-used-win-white-house/"
+webUrl: "https://www.washingtonpost.com/politics/2021/02/17/rush-limbaugh-created-politics-that-trump-used-win-white-house/"
+ampWebUrl: "https://www.washingtonpost.com/politics/2021/02/17/rush-limbaugh-created-politics-that-trump-used-win-white-house/?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/02/17/rush-limbaugh-created-politics-that-trump-used-win-white-house/?outputType=amp"
+type: article
+quality: 124
+heat: 144
+published: true
+
+provider:
+  name: Washington Post
+  domain: washingtonpost.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Donald Trump
+
+images:
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/USUFFNDRJAI6XBSRNUYJD2WGH4.jpg&w=1440"
+    width: 1440
+    height: 991
+    isCached: true
+
+related:
+  - title: "U.S. Conservative Radio Provocateur and Trump Ally Rush Limbaugh Dies"
+    excerpt: "Provocative and polarizing U.S. talk radio luminary Rush Limbaugh, a leading voice on the American political right since the 1980s who boosted, and was honored by, former President Donald Trump, has died at age 70 after suffering from lung cancer,"
+    publishedDateTime: 2021-02-18T02:25:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-02-17/us-conservative-radio-host-rush-limbaugh-has-died-fox-news"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-02-17/us-conservative-radio-host-rush-limbaugh-has-died-fox-news?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-02-17/us-conservative-radio-host-rush-limbaugh-has-died-fox-news?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+
+secured: "Sy+i1uqwu6tu1iRDLz0qLxk6Um0smDAlPUqFC7dfmOJfr4095LXXlJ16oGe8oAujSQ6bBTbC8A2k9hmhVUE2cwvy45Ort+mIVEW1DYtXL3kfgqj8KnW0wwA/aY28zeqmMVjeQ2hqfu0Lqyg+YjFdTenJynqbrCno3GfevchBcvQKDUwHT8Uj6agGFmFYLDaCZIk3Biyi6fr+zkyN+bTqLr5kSo3TLXPdluDqrK+79R8gB87PgAv3kvuWkhpFYB7vcEHILaJMBLsKShA23SjPzzljVZ/C44hWI4lHLmLPqqBjHXsUk02piY5Op8mS92DH/VsAlq8iH9HhocGeuXwcVI9mF+CgnpCJrL+ps6/oAQI=;XAJUwGivILi1H259Hs3gEw=="
+---
+

@@ -175,6 +175,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden describes new life in the White House as being in a 'gilded cage'"
+    excerpt: "President Joe Biden, after one month of living in perhaps the most exclusive residence in the country, says staying in the White House is like being in a \"gilded cage.\" He discussed details of his new daily life inside the White House during a CNN town hall in Milwaukee,"
+    publishedDateTime: 2021-02-18T00:51:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-describes-life-white-house-gilded-cage/story?id=75949479"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-describes-life-white-house-gilded-cage/story?id=75949479"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-describes-life-white-house-gilded-cage/story?id=75949479"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/joe-jill-biden-white-house-gty-jc-210217_1613586297763_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden plans to 'recalibrate' Saudi relations in shot at MbS - White House"
     excerpt: "President Joe Biden plans to shift U.S. relations with Saudi Arabia and will conduct diplomacy through Saudi King Salman bin Abdulaziz rather than his powerful son, Crown Prince Mohammed bin Salman, the White House said on Tuesday."
     publishedDateTime: 2021-02-16T19:52:00Z
@@ -255,6 +271,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden will ask DOJ to review his authority to cancel student loan debt - White House"
+    excerpt: "President Joe Biden will ask the Department of Justice to review his legal authority to cancel student loan debt, the White House said on Wednesday, adding the president does not favor $50,000 in student loan relief without limitation."
+    publishedDateTime: 2021-02-18T00:29:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-doj-student-loan-idUSKBN2AH2KB"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AH2KB"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AH2KB"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 118
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210217&t=2&i=1551916537&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1G1JD"
+        width: 817
+        height: 545
+        isCached: true
   - title: "First lady Jill Biden decorates White House lawn with giant hearts for Valentine's Day"
     excerpt: "First lady Jill Biden and President Joe Biden strolled the North Lawn to see the Valentine signs she put there to help boost spirits."
     publishedDateTime: 2021-02-12T17:56:00Z
@@ -270,6 +302,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/02/12/USAT/bd123f0c-9b6f-4da3-8d6e-74a989ac34f1-5bc25c16-21ae-42e4-88d9-7bb7431198d2_thumbnail.png?auto=webp&crop=849,478,x1,y0&format=pjpg&width=1200"
         width: 1200
         height: 676
+        isCached: true
+  - title: "Biden administration pledges to expand vaccinations as winter storms cause delays – live"
+    excerpt: "CDC warns of ‘widespread delays’ in vaccine deliveries due to weather"
+    publishedDateTime: 2021-02-18T00:36:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/17/biden-harris-coronavirus-teachers-vaccine-us-politics-live-latest?page=with:block-602d76908f08bdbed2839bbe"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/17/biden-harris-coronavirus-teachers-vaccine-us-politics-live-latest"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/17/biden-harris-coronavirus-teachers-vaccine-us-politics-live-latest"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 116
+    images:
+      - url: "https://i.guim.co.uk/img/media/397e9c81d30a0858d4af27de891e6279de7dadc8/0_0_6720_4032/master/6720.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4a0ac585526f1b234ccafd9a8a69d93b"
+        width: 600
+        height: 360
         isCached: true
   - title: "First lady Jill Biden surprises with giant cutout Valentine’s Day hearts on White House lawn"
     excerpt: "First lady Jill Biden surprised the country with a Valentine's Day message Friday. Biden unveiled at least half a dozen giant cutout hearts on the White House north lawn ahead of Valentine's Day this Sunday."
@@ -298,6 +346,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "WH: Biden would 'support' study on reparations"
+    excerpt: "Biden would 'support' study on reparations. Posted . President Joe Biden supports a study on whether descendants of enslaved people in the United States should receiv"
+    publishedDateTime: 2021-02-17T23:08:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVE01ERQ7"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210217&i=OVE01ERQ7&r=OVE01ERQ7&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Senate panel clears Biden's nomination of Boston mayor for labor secretary"
     excerpt: "President Joe Biden's nomination of Boston Mayor Marty Walsh to serve as the next secretary of labor won approval from a Senate committee on Thursday, clearing the way for a vote by the full Senate."
     publishedDateTime: 2021-02-11T22:38:00Z

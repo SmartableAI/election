@@ -1,0 +1,101 @@
+---
+category: news
+title: "Biden COVID adviser can't explain why closed California isn't doing better than open Florida"
+excerpt: "White House COVID-19 adviser Andy Slavitt appeared stumped Wednesday when asked on MSNBC to explain California and Florida’s similar COVID-19 trends, despite having wildly different responses to the pandemic."
+publishedDateTime: 2021-02-18T01:03:56Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Yl5oqK3rHHE/biden-coronavirus-california-floridas-similar-covid-numbers-beyond-explanation"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Yl5oqK3rHHE/biden-coronavirus-california-floridas-similar-covid-numbers-beyond-explanation"
+ampWebUrl: "https://www.foxnews.com/politics/biden-coronavirus-california-floridas-similar-covid-numbers-beyond-explanation.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-coronavirus-california-floridas-similar-covid-numbers-beyond-explanation.amp"
+type: article
+quality: 164
+heat: -1
+published: false
+
+provider:
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Republican Voice
+
+images:
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/92e33c48-a88b-4023-8a75-9948aa3420a8/e2ac6695-f16c-45b7-93aa-f7b786b163e9/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
+    isCached: true
+
+related:
+  - title: "Biden, Cuomo didn’t discuss COVID nursing home scandal, Psaki says"
+    excerpt: "It was the elephant in the Oval Office, but somehow, President Biden and Gov. Andrew Cuomo didn’t discuss his COVID-19 nursing home scandal when they met last week."
+    publishedDateTime: 2021-02-16T21:37:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/srKMzc1VH-Y/biden-cuomo-didnt-discuss-covid-nursing-home-scandal-psaki-says"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-cuomo-didnt-discuss-covid-nursing-home-scandal-psaki-says.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cuomo-didnt-discuss-covid-nursing-home-scandal-psaki-says.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Oval2.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Psaki won’t say if Biden has confidence in Cuomo amid nursing home controversy, despite past praise"
+    excerpt: "White House press secretary Jen Psaki on Friday dodged a question about whether President Trump has confidence in New York Gov. Andrew Cuomo amid the controversy surrounding underreported COVID-19 nursing home deaths in the state."
+    publishedDateTime: 2021-02-12T19:37:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DJYVipWGfqw/psaki-dodges-question-on-cuomo-performance-amid-nursing-home-controversy"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-dodges-question-on-cuomo-performance-amid-nursing-home-controversy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-dodges-question-on-cuomo-performance-amid-nursing-home-controversy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Psaki says Biden 'respects this kind of protest' as Mark Cuban stops playing anthem at Mavericks games"
+    excerpt: "White House press secretary Jen Psaki said she hadn’t spoken to President Biden about Mark Cuban’s decision to stop playing the national anthem before Mavericks’ games, but believes he respects this kind of peaceful protest at sporting events.  "
+    publishedDateTime: 2021-02-10T19:50:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GekeFAYbQE4/biden-great-respect-anthem-respects-peaceful-protest-psaki-says-mavericks"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-great-respect-anthem-respects-peaceful-protest-psaki-says-mavericks.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-great-respect-anthem-respects-peaceful-protest-psaki-says-mavericks.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/Psaki2.jpg"
+        width: 1280
+        height: 721
+        isCached: true
+  - title: "Biden distances from Psaki comments on schools being open 1 day a week: ‘A mistake in the communication’"
+    excerpt: "President Biden on Tuesday night distanced himself from previous comments by White House press secretary Jen Psaki that the administration's goal for its first 100 days was to have more than 50% of schools open at least one day per week."
+    publishedDateTime: 2021-02-17T14:21:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PnxxNnO4wWg/biden-distances-from-psaki-comments-on-schools-being-open-one-day-a-week-a-mistake-in-the-communication"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-distances-from-psaki-comments-on-schools-being-open-one-day-a-week-a-mistake-in-the-communication.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-distances-from-psaki-comments-on-schools-being-open-one-day-a-week-a-mistake-in-the-communication.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+
+secured: "iKqBRt46ghPv69zdQxQsC2P2M3zr2OuXkhrHp15ZnBqqKx8k9V3VI2gQ0L/DDx+Xv9HSQXodGSNN2dw3uYLOgidKMuZzzic+mqdHvmGmalOcg/1WKOfwDHs9VIxwBb55Plrq7+SZ3w7S3R4Nq+NR53dtoxQDGzjmqCUqcUFDY53/nNN6Ycj1/+hNCcSN3wJ2LXDVPPlXGOEoq49C8Ihq+cn0r/ecP36XCDVtqc9leGaj5SRFIo/QDPjHUkLLdlmja2OC+gELBJEJZU58MNonIBEMYUAjmWVOB/ZAe1RkyZ0KtEqw+mJEfV2X6zcBPvuoMrYAajeLWCLrM742m1kAVDa8fZHIX/Msn5fOwIrH0fU=;RcuBwoj/oMWVSlWmLKqYFg=="
+---
+

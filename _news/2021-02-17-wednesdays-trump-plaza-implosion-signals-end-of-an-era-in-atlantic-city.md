@@ -61,6 +61,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "In Seconds, Atlantic City's Trump Plaza Hotel And Casino Is Reduced To Rubble"
+    excerpt: "The Trump Plaza had stood along the boardwalk since 1984. The shell of the former president's failed business, which closed in 2014, came crumbling down Wednesday morning."
+    publishedDateTime: 2021-02-18T02:37:00Z
+    webUrl: "https://www.npr.org/2021/02/17/968656595/in-seconds-atlantic-citys-trump-plaza-and-casino-is-reduced-to-rubble"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 102
+    images:
+      - url: "https://media.npr.org/assets/img/2021/02/17/ap_21048535426936_wide-afb44df801b20b7121060c26f5723828e441d155.jpg?s=1400"
+        width: 1400
+        height: 786
+        isCached: true
 
 secured: "NQu/VgYLFkjrhmrIZ+xhBhpx6D78zAAPtCVSBizBYRpUoin0L7IpK1q5zptnURZFkC/NqjzpyCFzaXom9TbwKvc55GKGLUlL8u5DK2n5wgY4lZknb0sHn2EXrLF1JVF5Kxwz93WSV7BK4sol4qzuUQFNotPEX0MhL0fYuO+fxP34hQq5ONPdmSqGlPA2fbOmEzxWckFgyFR1/nMKqNTM/nuzLmLq9lThYfcapkaQ9SxboMMzsgXILgP3nxOOwQwHKpVJYyiuZ7Pmr59uTNHJmoqKEijZV10jrbELhZ7FTs0HScEdJ538ojJEw+X0OHgv0BBQxq2bVjlsH35UH+tIxeY8+u3OhTXSOUMak0yG1Ys=;w73WRRISRtuBxYPgR+rGSw=="
 ---

@@ -207,6 +207,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden postponing Michigan trip due to weather "
+    excerpt: "President Joe Biden is postponing his trip to Michigan on Thursday due to weather, including pending issues in the Washington area, a White House official confirmed to CNN on Wednesday.\n    \n"
+    publishedDateTime: 2021-02-18T00:37:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2MLLPnJoBPI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/17/politics/biden-michigan-trip-postponed-weather/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/17/politics/biden-michigan-trip-postponed-weather/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210216213824-10-biden-town-hall-0216-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden speaks with Chinese President Xi Jinping for first time as President"
     excerpt: "President Joe Biden spoke with China's President Xi Jinping late Wednesday, according to a senior administration official, their first call since Biden took office.\n    \n"
     publishedDateTime: 2021-02-11T02:39:57Z
@@ -431,6 +447,33 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration begins negotiating over Don McGahn testimony to House, new court filing says"
+    excerpt: "The Biden administration says it is talking with the US House of Representatives about a possible compromise over the Judiciary Committee's long-standing request to interview former White House counsel Don McGahn under subpoena about former President Donald Trump's attempts to obstruct the Russia investigation,"
+    publishedDateTime: 2021-02-18T02:13:42Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TGcjH5Qk1pY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/17/politics/biden-administration-don-mcgahn-house-testimony/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/17/politics/biden-administration-don-mcgahn-house-testimony/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191125183648-03-don-mcgahn-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Pro-Biden outside group launching with White House's blessing"
+    excerpt: "President Joe Biden is getting outside reinforcements to help promote and build support for his policy agenda in the form of a new nonprofit advocacy group, a senior administration official and a person familiar with the matter told CNN.\n    \n"
+    publishedDateTime: 2021-02-18T00:47:17Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3aOQbfBS9L0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/17/politics/biden-outside-group/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/17/politics/biden-outside-group/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 155
   - title: "The first Biden-era vaccine against Covid-19 is moving toward market, but new bumps could trip up the big launch"
     excerpt: "The Biden administration is relishing the chance to put its new-and-improved distribution program on display with the release of the forthcoming Johnson & Johnson vaccine, but problems are threatening a smooth rollout -- including a slower-than-expected production timeline and a lack of information about"
     publishedDateTime: 2021-02-17T05:40:05Z

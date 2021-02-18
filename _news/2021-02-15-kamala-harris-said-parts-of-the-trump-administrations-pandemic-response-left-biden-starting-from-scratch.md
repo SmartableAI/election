@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/kamala-harris-biden-starting-from-sc
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kamala-harris-biden-starting-from-scratch-covid-19-after-trump-2021-2?amp"
 type: article
 quality: 147
-heat: 807
+heat: 827
 published: true
 
 provider:
@@ -175,6 +175,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GXJYH2DKEQI6XJTO4JYEN2PITA.jpg&w=1440"
         width: 1440
         height: 1133
+        isCached: true
+  - title: "Biden's Interior Department halts Trump's attempt to change desert conservation plan"
+    excerpt: "In his term's 11th hour, then-President Donald Trump took aim at the Desert Renewable Energy Conservation Plan and began a rollback of key conservation protections in the framework that aims to balance clean energy and conservation on federal land in the Southern California desert."
+    publishedDateTime: 2021-02-18T02:28:00Z
+    webUrl: "https://www.usatoday.com/story/news/environment/2021/02/17/biden-halts-trumps-effort-change-dcrep-conservation-plan/6787244002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6787244002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6787244002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 133
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/12/21/PPAS/57fbdeb0-f399-489b-b598-e17675865d95-solar_development_27.jpg?auto=webp&crop=3999,2250,x0,y203&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Neera Tanden, Biden's Contentious Budget Chief Pick, Tweeted 30K More than Donald Trump"
     excerpt: "Tanden has come under fire in recent weeks for her combative Twitter history that included targeting Republicans and progressive Democrats."

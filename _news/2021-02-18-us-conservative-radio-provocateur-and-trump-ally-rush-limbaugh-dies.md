@@ -1,22 +1,22 @@
 ---
 category: news
-title: "U.S. conservative radio provocateur and Trump ally Rush Limbaugh dies"
+title: "U.S. Conservative Radio Provocateur and Trump Ally Rush Limbaugh Dies"
 excerpt: "Provocative and polarizing U.S. talk radio luminary Rush Limbaugh, a leading voice on the American political right since the 1980s who boosted, and was honored by, former President Donald Trump, has died at age 70 after suffering from lung cancer,"
-publishedDateTime: 2021-02-17T18:37:00Z
-originalUrl: "https://www.reuters.com/article/us-people-limbaugh-idUSKBN2AH2G5"
-webUrl: "https://www.reuters.com/article/us-people-limbaugh-idUSKBN2AH2G5"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AH2G5"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AH2G5"
+publishedDateTime: 2021-02-18T02:25:00Z
+originalUrl: "https://www.usnews.com/news/top-news/articles/2021-02-17/us-conservative-radio-host-rush-limbaugh-has-died-fox-news"
+webUrl: "https://www.usnews.com/news/top-news/articles/2021-02-17/us-conservative-radio-host-rush-limbaugh-has-died-fox-news"
+ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-02-17/us-conservative-radio-host-rush-limbaugh-has-died-fox-news?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-02-17/us-conservative-radio-host-rush-limbaugh-has-died-fox-news?context=amp"
 type: article
-quality: 125
-heat: 125
-published: true
+quality: 55
+heat: -1
+published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,12 +24,24 @@ topics:
   - Election
   - Donald Trump
 
-images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210217&t=2&i=1551883036&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1G1GP"
-    width: 794
-    height: 545
-    isCached: true
+related:
+  - title: "Rush Limbaugh created the politics that Trump used to win the White House"
+    excerpt: "The first time I remember hearing Rush Limbaugh’s radio show, I was in high school. It was 1991, and I was in the district office of then-Rep. Jim Traficant (D-Ohio), for whom I’d earned the dubious honor of interning."
+    publishedDateTime: 2021-02-18T00:36:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/02/17/rush-limbaugh-created-politics-that-trump-used-win-white-house/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/02/17/rush-limbaugh-created-politics-that-trump-used-win-white-house/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/02/17/rush-limbaugh-created-politics-that-trump-used-win-white-house/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 124
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/USUFFNDRJAI6XBSRNUYJD2WGH4.jpg&w=1440"
+        width: 1440
+        height: 991
+        isCached: true
 
-secured: "c/N3y4goDwB9gnYHv6j62T9KcE5OxQoM0GbxFDZ/vRDolS/AIg2sq5zJewp/BfF4aYwk5V30eWQ8ovyNwYrWkEaWsBEH/FpAFWxkmhGwlTx4HAfWVCa+FGUhYdAJb4ev2LDGXQZm5EHVDsfY9MX065f9sC89EHWe3GrECZKVugiRYuL3srFjdhKQ0poL3mIsl5dqHvLYMtULa+Mv4zW5hV4pW8GzyCNaJSzSMFgbqp3/XMgc0MIgA6LVNjsNzK8JK4VTkNi9IFk4gmIOpp41VO8MUo6fJxn+tVreLmOgXxcYJg5MqHgXjuG6lSxGbBVBLFbFILzr9CxEq6m4PeRmt4nCIp+A/gN9CFDd30eCblY=;jxZP50HzJGzfeFsD9k5FCA=="
+secured: "4jjezVJqn0DoDiybWAxZhlY3pO3GcrXKDUwS7BiTzoGpnoxA9ejZyHKW8wtY8O3dyPDyxHqL7jVZ+4GcvAIcD6430tQUOG4uIkM5D2jRrC8fub+3n4MFjclAE/N8wlTdz+xWCuu8hdXEPj/W4ME7uECuboPHVXukEVJcGIsDbOaEsrkfFs7bC4HghXNGgB5VqKNBBlAUcE5nQcrWKJvhSLYGm8L8MUvtgsVFEwEd/WotllMzEW1Wzpb8Sb+rYEjjpyTSCNOwMMBhqsNXSxLCMwSzwadfOeUNp4h+ZTSntNHUmthNEWIl2De1VL79Cuaw2Uw85gBH4hV9YMREeVBJ0+rZDqqu04N3vOTKJDfScIIbYSzd+8nTWcB5qoOp207yRuJ97BfnoMqkAFgr551eo+K1Q3FdCD3ZtZcTf43OvjdxorM/yu/SCaPpGMm01j4A8MjCpQcjeVCiFHka4NVUQJiVzg3CbvayBVkqborc2hig9plxYpEhJ7A4pdbV+4KuJ4JOf63AUwEUeiALBPEQWw==;yos23Tw1XyGCV6tWfldIvQ=="
 ---
 

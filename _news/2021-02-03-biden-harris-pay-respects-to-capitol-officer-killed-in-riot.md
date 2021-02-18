@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/capitol-police-of
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/capitol-police-officer-who-died-after-riot-to-lie-in-honor/2021/02/02/8f908fb8-65b8-11eb-bab8-707f8769d785_story.html?outputType=amp"
 type: article
 quality: 150
-heat: 2030
+heat: 2070
 published: true
 
 provider:
@@ -111,6 +111,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210208&t=2&i=1550766715&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH171A6"
         width: 818
         height: 545
+        isCached: true
+  - title: "Kamala Harris slowly starts to carve out role beyond 'making sure Joe Biden is a success'"
+    excerpt: "Vice President Kamala Harris has said her signature issue would be \"making sure Joe Biden is a success,\" but a friend noted \"nothing about Kamala Harris is number two.\""
+    publishedDateTime: 2021-02-17T23:44:00Z
+    webUrl: "https://abcnews.go.com/Politics/kamala-harris-slowly-starts-carve-role-making-joe/story?id=75932866"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/kamala-harris-slowly-starts-carve-role-making-joe/story?id=75932866"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/kamala-harris-slowly-starts-carve-role-making-joe/story?id=75932866"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 131
+    images:
+      - url: "https://s.abcnews.com/images/Politics/kamala-gty-er-210216_1613518240506_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Teacher and her kindergartners stunned to receive response letters from Joe Biden, Kamala Harris"
     excerpt: "Kindergarten teacher Martha Tavarez of Barron Elementary School in El Paso, Texas, said she and her students were thrilled to receive letters from President Joe Biden and Vice President Kamala Harris."
@@ -1032,6 +1048,20 @@ related:
     quality: 70
     images:
       - url: "https://cdnph.upi.com/pv/upi/53e5fe89d059e581a1a251c650f7b682/PENTAGON-BIDEN.jpg"
+        width: 650
+        height: 433
+        isCached: true
+  - title: "President Biden and Kamala Harris Meet with Labor Leaders"
+    excerpt: "President Joe Biden and Vice President Kamala Harris meet with a group of labor leaders to discuss the American Rescue Plan and to get input on the President's infrastructure plan at the White house in Washington,"
+    publishedDateTime: 2021-02-18T00:50:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/0b2ba5ec6ea53ae96b71de6d31b0f783/President-Biden-and-Kamala-Harris-Meet-with-Labor-Leaders/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 70
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/0b2ba5ec6ea53ae96b71de6d31b0f783/BIDEN-LABOR-MEETING.jpg"
         width: 650
         height: 433
         isCached: true
