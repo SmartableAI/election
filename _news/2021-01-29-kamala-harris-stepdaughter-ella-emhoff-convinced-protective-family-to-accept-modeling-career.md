@@ -63,6 +63,22 @@ related:
         width: 1024
         height: 736
         isCached: true
+  - title: "Kamala Harris’ stepdaughter Ella Emhoff makes her New York digital runway debut — in another stylish coat"
+    excerpt: "Designers Lazaro Hernandez and Jack McCollough said the fashion world took quick notice when Emhoff appeared at the inauguration in January, dressed in a quirky Miu Miu coat with bejeweled shoulders along with a starchy white collar."
+    publishedDateTime: 2021-02-18T18:35:00Z
+    webUrl: "https://chicago.suntimes.com/entertainment-and-culture/2021/2/18/22289690/ella-emhoff-kamala-harris-stepdaughter-makes-runway-debut-in-a-coat-inauguration-day-fashion"
+    ampWebUrl: "https://chicago.suntimes.com/platform/amp/entertainment-and-culture/2021/2/18/22289690/ella-emhoff-kamala-harris-stepdaughter-makes-runway-debut-in-a-coat-inauguration-day-fashion"
+    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/entertainment-and-culture/2021/2/18/22289690/ella-emhoff-kamala-harris-stepdaughter-makes-runway-debut-in-a-coat-inauguration-day-fashion"
+    type: article
+    provider:
+      name: Chicago Sun-Times
+      domain: suntimes.com
+    quality: 58
+    images:
+      - url: "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
 
 secured: "u8zdHsIII9+ATWRX188kXNMWrxhNmRB+dmxa6gy/vkJF9O5tPNhIex2t/lTQKKyYX+36Q7yUH4Acg9WAg4z9AOi1BaFzrEsDM6L/kCg4dotybQOj3wRPy1DQuZR6cVhxNOCzC6ZiX+k1r93kr5YBidJ7RuIbPkQAlAC81FWgZWIgB0rBCzlsenxgUcMyCVjhoyanSBBgD25sDfOhPI2svMbg7qQWbEZmcuzWsd4kGOX/GYuywtaBtgSHY7jse4vFTLUxS41fNonz0culDcIpXoFVHilkh8/kjC+GivOVaebx27xpfwb33pawS2PpqTLifYxd6Z4ZvKKtLOmc0EtP97m+160cyArEpdFw0GowlwDilUahChL4JJO4luODoEgHW41K+EjnSUwhz93geYpcQvtEzpmeYEMFT59UMJLN5i/TVMbPbjJE1W99lYOyu0SCt3oGTFIAYeAkGBSB2PPn8UoGY2b0nWMtUKZh54ZigTe7zQaHxp96zzqJpx3wD7zgKeGIkJWSpbW3gbbLgkDKpA==;TJAEmAxMLN6TsX2mobfv4g=="
 ---

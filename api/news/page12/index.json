@@ -2,6 +2,153 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-02-02-trump-lawyer-impeachment-case-undemocratic-ill-advised.md",
+      "title": "Trump lawyer: Impeachment case ‘undemocratic,’ ill-advised",
+      "excerpt": "Democrats are using the upcoming Senate impeachment trial of Donald Trump as a political “weapon” to bar the former president from seeking office again, and are pursuing a case that is “undemocratic” and unconstitutional,",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/nation-world/ct-nw-trump-lawyer-impeachment-case-undemocratic-20210202-gkgp2lqf7fbxzidwhnmm7htxky-story.html",
+      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-nw-trump-lawyer-impeachment-case-undemocratic-20210202-gkgp2lqf7fbxzidwhnmm7htxky-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 345,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/P4EW9jjAnf4pV_GJYksLauHHIco=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/QWUMU6JWTDKSHAPSV64S3TOOAA.aspx",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-nw-trump-lawyer-impeachment-case-undemocratic-20210202-gkgp2lqf7fbxzidwhnmm7htxky-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-lawyer-impeachment-case-undemocratic-20210202-gkgp2lqf7fbxzidwhnmm7htxky-story.html?outputType=amp",
+      "publishedDateTime": "2021-02-01T19:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-02-trump-campaigns-post-election-legal-spending-topped-7m-with-kasowitz-in-the-lead.md",
+      "title": "Trump campaign's post-election legal spending topped $7M, with Kasowitz in the lead",
+      "excerpt": "The Trump campaign paid law firms and other legal providers more than $7 million from Nov. 4 through the end of last year, a Reuters analysis of Federal Election Commission records shows.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/lawyer-trump-spend-idUSL1N2K8025",
+      "originalUrl": "https://www.reuters.com/article/lawyer-trump-spend-idUSL1N2K8025",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2K8025",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2K8025",
+      "publishedDateTime": "2021-02-01T18:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-02-mypillow-twitter-account-permanently-suspended-following-trump-ally-ceo-mike-lindells-ban-from-platform.md",
+      "title": "MyPillow Twitter account permanently suspended following Trump ally, CEO Mike Lindell's ban from platform",
+      "excerpt": "Twitter has suspended the MyPillow account after banning CEO Mike Lindell's account for perpetuating claims that Trump won the presidential election.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/tech/2021/02/01/mypillow-twitter-account-suspended-ban-evasion-mike-lindell-trump/4348778001/",
+      "originalUrl": "https://www.usatoday.com/story/tech/2021/02/01/mypillow-twitter-account-suspended-ban-evasion-mike-lindell-trump/4348778001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/02/01/USAT/9489a161-ccda-4a4e-baba-f3b727211612-mypillow.jpg?auto=webp&crop=4031,2267,x1,y587&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4348778001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4348778001",
+      "publishedDateTime": "2021-02-01T16:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-01-ex-nfl-star-marcellus-wiley-calls-for-separate-transgender-category-in-school-sports-after-biden-order.md",
       "title": "Ex-NFL star Marcellus Wiley calls for 'separate transgender category' in school sports after Biden order",
       "excerpt": "Former NFL star and current Fox Sports 1 host Marcellus Wiley called last week for the creation of a \"separate transgender category\" for youth athletics.",
@@ -1199,166 +1346,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-01-31-twitter-employees-heavily-favored-biden-over-trump-ahead-of-priceless-ban.md",
-      "title": "Twitter employees heavily favored Biden over Trump ahead of 'priceless' ban",
-      "excerpt": "President Biden was the clear favorite of Twitter employees when it came to campaign donations during the 2020 election cycle.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/D9wq-8x5938/twitter-biden-trump-ban-2020-election-donations",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/D9wq-8x5938/twitter-biden-trump-ban-2020-election-donations",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 668,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20322568207291-e1605632911601.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/twitter-biden-trump-ban-2020-election-donations.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-biden-trump-ban-2020-election-donations.amp",
-      "publishedDateTime": "2021-01-31T05:45:13-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-31-deal-or-no-deal-virus-aid-tests-biden-work-together-plea.md",
-      "title": "Deal or no deal: Virus aid tests Biden 'work together' plea",
-      "excerpt": "Joe Biden pitched himself during the presidential campaign as someone who could “get people working together” and lower the temperature in a Washington overheated by Donald Trump",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/deal-deal-virus-aid-tests-biden-work-plea-75594577",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/deal-deal-virus-aid-tests-biden-work-plea-75594577",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_978237717c6d4baba3ceefba96afa20d_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/deal-deal-virus-aid-tests-biden-work-plea-75594577",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/deal-deal-virus-aid-tests-biden-work-plea-75594577",
-      "publishedDateTime": "2021-01-31T05:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-31-grow-a-pair-marjorie-taylor-greene-and-mitt-romney-spar-over-trump-call.md",
-      "title": "'Grow a Pair': Marjorie Taylor Greene and Mitt Romney Spar Over Trump Call",
-      "excerpt": "Embattled Congresswoman Marjorie Taylor Greene of Georgia and Senator Mitt Romney of Utah traded jabs on Twitter Saturday after Greene said that former President Donald Trump voiced his support for her during a phone call.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/grow-pair-marjorie-taylor-greene-mitt-romney-spar-over-trump-call-1565614",
-      "originalUrl": "https://www.newsweek.com/grow-pair-marjorie-taylor-greene-mitt-romney-spar-over-trump-call-1565614",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1720911/marjorie-taylor-green-capitol-hill.jpg",
-          "width": 2500,
-          "height": 1822,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/grow-pair-marjorie-taylor-greene-mitt-romney-spar-over-trump-call-1565614?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/grow-pair-marjorie-taylor-greene-mitt-romney-spar-over-trump-call-1565614?amp=1",
-      "publishedDateTime": "2021-01-30T18:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

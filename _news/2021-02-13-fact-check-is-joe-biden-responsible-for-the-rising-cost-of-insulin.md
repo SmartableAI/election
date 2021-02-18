@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/fact-check-joe-biden-responsible-rising-cos
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fact-check-joe-biden-responsible-rising-cost-insulin-1569045?amp=1"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
     images:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210217&t=2&i=1551800910&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1G074"
         width: 793
+        height: 545
+        isCached: true
+  - title: "Fact check: Biden approved emergency measures in response to Texas freeze"
+    excerpt: "Social media users have been sharing content online that claims President Joe Biden took no action in response to the unusually low temperatures in Texas. While Biden has not publicly spoken about Texas as of February 18,"
+    publishedDateTime: 2021-02-18T16:04:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-biden-emergency-texas-respo-idUSKBN2AI293"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AI293"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AI293"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210218&t=2&i=1552020884&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1H18D"
+        width: 818
         height: 545
         isCached: true
   - title: "UPDATE 1-Biden pushes for pandemic relief in first official trip as president"

@@ -432,6 +432,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Native Americans ‘Left Out in the Cold’ Under Trump Press Biden for Action"
+    excerpt: "Having shown some political clout in the 2020 election, tribal communities are hopeful of more attention and money to address their long-running problems with poverty, health care and other issues."
+    publishedDateTime: 2021-02-18T15:19:00Z
+    webUrl: "https://www.nytimes.com/2021/02/18/us/politics/native-americans-biden.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/18/us/politics/native-americans-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/18/us/politics/native-americans-biden.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 148
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/18/us/politics/18dc-tribal1/18dc-tribal1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Read: Former President Donald Trump's defense team's legal brief"
     excerpt: "In a pretrial brief ahead of former President Donald Trump's impeachment trial in the Senate, Trump's legal team accused House Democrats of engaging in \"political theater\" and argued that the upcoming trial is unconstitutional because Trump is no longer president."
     publishedDateTime: 2021-02-08T11:30:00Z

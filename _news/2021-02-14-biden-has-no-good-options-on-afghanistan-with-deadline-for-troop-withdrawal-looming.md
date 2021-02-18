@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration looks to FEMA to help combat domestic terrorism in wake of Capitol attack"
+    excerpt: "The Biden administration is leaning on the Federal Emergency Management Agency to help state and local authorities combat domestic extremism in the United States.\n    \n"
+    publishedDateTime: 2021-02-18T18:01:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fgzJC2UY-pk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/18/politics/dhs-fema-domestic-terrorism-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/18/politics/dhs-fema-domestic-terrorism-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/181102165132-dhs-logo-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration continues vaccination push with five new mass vaccination sites in Texas and New York"
     excerpt: "The Biden administration is partnering with Texas and New York to open additional vaccination centers as it continues its push to vaccinate every American amid the coronavirus pandemic.\n    \n"
     publishedDateTime: 2021-02-10T18:36:41Z

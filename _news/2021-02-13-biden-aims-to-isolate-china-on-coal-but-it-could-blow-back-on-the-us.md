@@ -701,6 +701,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "A trio of conservative groups tries to torpedo two top Biden nominees"
+    excerpt: "A trio of conservative organizations are launching a multimillion dollar advertising blitz aimed at undermining two of President Joe Biden’s high-profile nominees. The ad buy, first reported by POLITICO,"
+    publishedDateTime: 2021-02-18T17:21:00Z
+    webUrl: "https://www.politico.com/states/california/story/2021/02/18/a-trio-of-conservative-groups-tries-to-torpedo-two-top-biden-nominees-1364241"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/b9/dd/fddcc7eb4af1b15ee8e89c7b5f87/gettyimages-1175529475-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "otP4sJMsflRXWwRaLz25loHeq2ie7fEFyd3xpVhGXwh20ssNByUcGHyHv3RV1GeU37jgF7X+IDHic4GENoBWgNxgDSy3R/V8vknkBuMi0OMCmZlNx2iun0FH/FKQ18upjpN6Ra0i7i2YDfBfJwy0cfEWP2Lnl2HUESqQ+Iuc2cXGKfhnWjRF5YiYIkAkebJWYdliVLyMRznujcuwLdKAG5hWD9kl0Ms3Caryy4FPcFgN3e+1bB/C2sA5AlgGzsL2yx5oh0xqNIVJrl+E4ZebDSQWsXLWzOKbGqxskB4PJ12ve48K6avgmlGBUF9I/coQ8GdMD68bETRQHoUOpyZJygv/VDH1eFh0HiTwgZWhPMTubPdGmJjpBaYaN/vQSTmMqCV2J8mv+xv36+Ges1jlEaojeC5oRZc5YVDrcsvcVPEfq9s8us3A2WokOU7xuSbY7IoD/t85969PUwKe9TcSPaG5wlPI3Jg7OSmv4/XSVLxwD8WTDCj5LVBuRGdEprWE2jagdX25A659n426hEED2Q==;hq8IT+5qOCf+2Jcgx+oyMA=="
 ---

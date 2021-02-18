@@ -460,6 +460,20 @@ related:
       name: Chicago Tribune
       domain: chicagotribune.com
     quality: 101
+  - title: "Biden to order review of U.S. reliance on overseas supply chains for semiconductors, rare earths - CNBC"
+    excerpt: "U.S. President Joe Biden participates in a CNN town hall in Milwaukee, Wisconsin, U.S., February 16, 2021. REUTERS/Leah Millis"
+    publishedDateTime: 2021-02-18T18:48:00Z
+    webUrl: "https://www.reuters.com/news/picture/biden-to-order-review-of-us-reliance-on-idUSKBN2AI2HJ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 89
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210218&t=2&i=1552040907&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEH1H1FV"
+        width: 810
+        height: 544
+        isCached: true
 
 secured: "Pk4GCXt86SzVndVSQOACnm6yrgFfvXlmJfqyN908lw0kxKDsqXQFzmQwab71K8UUVrjYjciYbJa0FqUfkjbS2RUnS99O12/oM9iEvG6M8U9vPQXXVRJLZONMWA0MOOOFV5jhDaag0FWPo+xs5LcLPQHwtQPTa4q84oCDS1YPszB7vToqlmj1tkmibMUTzomtTkLpzfXESWhYmpnj0kChJedAaA2GIN2FQDwxUCYjmd26CA5MXQ6bAmNFoKd4X3oyZQEHdwZ0nnj3pMbTVjl67Is/nGUf/W687Jf2prwDEn187f6kFz1kMtSQw+Bx1pOSSeoCd6qNs82+dyvhVNetsJLbwDjHzCR+XzoMBQgdGirEdwiiVgi+mWgnXXlKwGXjbVTkkTOsL/sQ6qjPyyQrH4kVZhVdY6WcUPKSE3UUStsW1BiwOfPehApev/2n44ZrA4R0wgxL+t9hVLH57cM1cHR9albHlBo3M7Sylc+N00YQPv/lv3iUrv1StV5M1TcL/1l9Rn2V0K8ll1HiNgdtyQ==;UfuTidHOXmACS2f/EEeZow=="
 ---

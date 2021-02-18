@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/11/politics/biden-1-9-trillion-bet/i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/11/politics/biden-1-9-trillion-bet/index.html"
 type: article
 quality: 175
-heat: 1035
+heat: 1055
 published: true
 
 provider:
@@ -683,6 +683,20 @@ related:
     quality: 115
     images:
       - url: "https://static.politico.com/af/a7/b3f1e03b4d75978fef5320564ed6/ap21021585963114-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "A trio of conservative groups tries to torpedo two top Biden nominees"
+    excerpt: "A trio of conservative organizations are launching a multimillion dollar advertising blitz aimed at undermining two of President Joe Biden’s high-profile nominees. The ad buy, first reported by POLITICO,"
+    publishedDateTime: 2021-02-18T17:21:00Z
+    webUrl: "https://www.politico.com/states/california/story/2021/02/18/a-trio-of-conservative-groups-tries-to-torpedo-two-top-biden-nominees-1364241"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/b9/dd/fddcc7eb4af1b15ee8e89c7b5f87/gettyimages-1175529475-1.jpg"
         width: 1160
         height: 773
         isCached: true

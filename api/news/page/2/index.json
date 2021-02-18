@@ -2,6 +2,172 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-17-the-overwhelming-lesson-of-the-trump-era-republicans-often-rebuke-trump-when-they-have-latitude.md",
+      "title": "The overwhelming lesson of the Trump era: Republicans often rebuke Trump -- when they have latitude",
+      "excerpt": "Of Republicans who have retired or lost primaries during the Trump era, half have rebuked him in significant ways. About one-third have made big breaks with him.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2021/02/17/overwhelming-lesson-trump-era-republicans-rebuke-trump-when-its-convenient/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2021/02/17/overwhelming-lesson-trump-era-republicans-rebuke-trump-when-its-convenient/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HKNBETSRPII6TCFB5U2G6DWJJ4.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/02/17/overwhelming-lesson-trump-era-republicans-rebuke-trump-when-its-convenient/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/02/17/overwhelming-lesson-trump-era-republicans-rebuke-trump-when-its-convenient/?outputType=amp",
+      "publishedDateTime": "2021-02-17T07:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-17-watch-trump-plaza-in-atlantic-city-is-demolished.md",
+      "title": "WATCH: Trump Plaza in Atlantic City is demolished",
+      "excerpt": "Videos show the moment former President Donald Trump's long-standing Trump Plaza in Atlantic City is destroyed in a controlled demolition. The casino and hotel were closed in 2014.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/video/watch-trump-plaza-in-atlantic-city-is-demolished-101146182002",
+      "originalUrl": "https://www.nbcnews.com/video/watch-trump-plaza-in-atlantic-city-is-demolished-101146182002",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202102/f_mo_trump_demolish_210217.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo101146182002",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo101146182002",
+      "publishedDateTime": "2021-02-17T07:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-17-trump-plaza-casino-in-atlantic-city-to-be-demolished.md",
+      "title": "Trump Plaza casino in Atlantic City to be demolished",
+      "excerpt": "The long-vacant Trump Plaza casino in Atlantic City, N.J., once a symbol of the glitz and glamor of the high-rolling lifestyle, was slated to be reduced to a pile of rubble on Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/us/trump-plaza-casino-atlantic-city-demolished",
+      "originalUrl": "https://www.foxnews.com/us/trump-plaza-casino-atlantic-city-demolished",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/TrumpPlaza-crop.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/us/trump-plaza-casino-atlantic-city-demolished.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/trump-plaza-casino-atlantic-city-demolished.amp",
+      "publishedDateTime": "2021-02-17T06:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-17-kamala-harris-pressed-on-school-reopenings-says-teachers-should-be-a-priority-in-receiving-covid-vacccine.md",
       "title": "Kamala Harris pressed on school reopenings, says teachers 'should be a priority' in receiving COVID vacccine",
       "excerpt": "Vice President Kamala Harris said the Biden administration believes teachers \"should be a priority\" in receiving the coronavirus vaccine as parents and educators clash over whether it is safe for teachers to return to the classroom without inoculations against COVID-19.",
@@ -1178,170 +1344,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/bennie-thompson-civil-lawsuit-trump-capitol-riot-giuliani.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bennie-thompson-civil-lawsuit-trump-capitol-riot-giuliani.amp",
       "publishedDateTime": "2021-02-16T08:49:28-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-naacp-and-democratic-congressman-sue-trump-giuliani-over-capitol-assault.md",
-      "title": "NAACP and Democratic congressman sue Trump, Giuliani over Capitol assault",
-      "excerpt": "The lawsuit accuses Trump, Giuliani and two extremist groups of violating a federal Reconstruction-era law known as the Ku Klux Klan Act.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/naacp-sues-trump-giuliani-capitol-riot/",
-      "originalUrl": "https://www.cbsnews.com/news/naacp-sues-trump-giuliani-capitol-riot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 244,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/16/0543b3d7-c32a-4b6c-be77-cf5195d911cc/thumbnail/1200x630/e22992a93d9d17f355b7e72a7ada3a8d/gettyimages-1230465123.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/naacp-sues-trump-giuliani-capitol-riot/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/naacp-sues-trump-giuliani-capitol-riot/",
-      "publishedDateTime": "2021-02-16T08:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-16-georgia-state-bar-proceeding-with-inquiry-into-pro-trump-attorney-lin-wood.md",
-      "title": "Georgia state bar proceeding with inquiry into pro-Trump attorney Lin Wood ",
-      "excerpt": "The State Bar of Georgia is \"proceeding with an inquiry\" into attorney Lin Wood, one of the lawyers who unsuccessfully pushed a handful of suits to block Georgia's election results after alleging unfounded claims of fraud, the organization told CNN in a statement Tuesday.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uLHT6ZN9Bjk/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uLHT6ZN9Bjk/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 233,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210202195002-lin-wood-dec-2020-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/16/politics/lin-wood-georgia-state-bar-inquiry/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/16/politics/lin-wood-georgia-state-bar-inquiry/index.html",
-      "publishedDateTime": "2021-02-16T08:25:58-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-16-lincoln-projects-rick-wilson-raised-64g-for-anti-trump-film-that-was-never-released.md",
-      "title": "Lincoln Project's Rick Wilson raised $64G for anti-Trump film that was never released",
-      "excerpt": "Rick Wilson, co-founder of the anti-Trump Lincoln Project PAC, raised nearly $65,000 for an in-production film called \"Everything Trump Touches Dies\" that has yet to be released.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MMh8b_NuMDI/lincoln-project-rick-wilson-anti-trump-film-donations",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MMh8b_NuMDI/lincoln-project-rick-wilson-anti-trump-film-donations",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 208,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Capture2.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/lincoln-project-rick-wilson-anti-trump-film-donations.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lincoln-project-rick-wilson-anti-trump-film-donations.amp",
-      "publishedDateTime": "2021-02-16T07:28:07-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

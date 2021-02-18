@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/12/politics/biden-guantanamo-bay/ind
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/12/politics/biden-guantanamo-bay/index.html"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
     quality: 163
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/190219200658-computer-hacking-stock-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration looks to FEMA to help combat domestic terrorism in wake of Capitol attack"
+    excerpt: "The Biden administration is leaning on the Federal Emergency Management Agency to help state and local authorities combat domestic extremism in the United States.\n    \n"
+    publishedDateTime: 2021-02-18T18:01:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fgzJC2UY-pk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/18/politics/dhs-fema-domestic-terrorism-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/18/politics/dhs-fema-domestic-terrorism-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/181102165132-dhs-logo-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

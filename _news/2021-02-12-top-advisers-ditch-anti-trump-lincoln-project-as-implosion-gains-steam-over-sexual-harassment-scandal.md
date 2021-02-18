@@ -63,6 +63,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Lincoln Project acknowledges need for new 'structures' as embattled anti-Trump group resists calls to disband"
+    excerpt: "The executive director of The Lincoln Project on Thursday acknowledged the need for new \"structures\" as the embattled anti-Trump group resists calls from critics to disband."
+    publishedDateTime: 2021-02-18T17:19:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SMcDGYKHNyY/lincoln-project-new-structures-resists-calls-to-disband"
+    ampWebUrl: "https://www.foxnews.com/politics/lincoln-project-new-structures-resists-calls-to-disband.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lincoln-project-new-structures-resists-calls-to-disband.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "OdzArmDBfhapFrlB8TOzRWjghxMYIpkUBe7fGmlKKT27mSqv6SMK8smK47a1xZ0xUIx9fx5O4R82aLTDW4IXmpYzoEuWXszxdH/l4EGtgfFQC4XTSsZHoH5oO6DFlUR2ajLh6hW3zzVf8jcd7zzD07m0gMVASsd3lnHry1PaedYHXEKoC2CJQYnRBTRKA00CcCbEin+FouYOwF3+idlOY28lvOavHCikyY5E/9fMXtVT8NtlX+RcodMZ/LAhkoZ34ge/+bpGBTZ44CFwwOa6jdslgAXoGTs5fL5grrsaLaCYHNRzRxCHkR1i7rhVRZ326NQTs44udGfoZerPgLsmBiVCY4TIXSZGIuGlNmj4BK4=;pZheqQ0LaKFrvIMbqolcOw=="
 ---

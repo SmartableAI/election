@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/14/trump-acquittal-bide
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/14/trump-acquittal-biden-urges-vigilance-to-defend-fragile-democracy-after-impeachment-trial"
 type: article
 quality: 129
-heat: 1369
+heat: 1389
 published: true
 
 provider:
@@ -254,6 +254,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/joe-biden-plane_hpMain_20210213-225327_16x9_1600.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "EXPLAINER: After acquittal, Trump 2024? Maybe not so fast"
+    excerpt: "Donald Trump’s Senate impeachment trial acquittal may not be the end of efforts to keep him from seeking the presidency again"
+    publishedDateTime: 2021-02-18T18:03:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/explainer-acquittal-trump-2024-fast-75973907"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/explainer-acquittal-trump-2024-fast-75973907"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/explainer-acquittal-trump-2024-fast-75973907"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_c93ffce95bfd4e01b0d1a60b4bee0f6a_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "With Trump impeachment trial over, wary Washington seeks to move forward"
     excerpt: "Former President Donald Trump's acquittal on charges of inciting a deadly attack on the U.S Capitol left Democrats and Republicans deeply divided on Sunday even as Washington seeks to move on with Democratic President Joe Biden's political agenda."

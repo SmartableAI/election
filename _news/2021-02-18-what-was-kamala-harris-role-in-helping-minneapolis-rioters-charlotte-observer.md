@@ -197,6 +197,20 @@ related:
         width: 852
         height: 480
         isCached: true
+  - title: "Kamala Harris' stepdaughter steps onto the catwalk"
+    excerpt: "Fashion house Proenza Schouler shows off its fall collection in a show which features the modelling debut of U.S. Vice President Kamala Harris' stepdaughter, Ella Emhoff. (Feb. 18)"
+    publishedDateTime: 2021-02-18T17:28:00Z
+    webUrl: "https://www.azcentral.com/videos/news/nation/2021/02/18/kamala-harris-stepdaughter-steps-onto-catwalk/4490632001/"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 55
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/18/USAT/03ebffe9-40bc-4235-9784-132de753c87b-f8ca4ada-22db-4aa8-86df-f683448936bc_thumbnail.png?quality=10"
+        width: 852
+        height: 480
+        isCached: true
   - title: "Lindsey Graham threatens impeachment of Kamala Harris on Fox News appearance"
     excerpt: "Lindsey Graham (R-S.C.) threatened Vice President Kamala Harris with a potential impeachment trial in an appearance on \"Fox News Sunday.\" The interview, conducted one day after President Donald Trump was acquitted by the Senate in his second impeachment proceedings,"
     publishedDateTime: 2021-02-15T19:13:00Z
@@ -212,6 +226,6 @@ related:
         height: 1365
         isCached: true
 
-secured: "PznEJpGQM01G48J/qNCQdyKI+2KxD8w4tZm/YDmTrcffvLDBDoJBiAX+IKeEA/jcKHiyd2wmtlLcm7S5jH0BxnVs84b1H/JGfoqGftzUQJkyyibxlglj2oL+XcIoL6e84mB6k8YI1Z4rR6UB8RsQ9fvNKaPIMWI1pjvFv+Ba7FDWqVyEZH14GlDSBi8pjutM1a5L7ttqkmDQ8XOK4srD+kmy48E0fwOnDomCq+vtfw1tp7Os/Kf0zht2qIS9VU+raZECTHq3c1KkqyXWB0P2eKzJsoNoXQPi4C/mN85nmn4isAoii6AV52/5CGzEAAlHi+6as3u3pCVo8UVQhUlBCyOXxzpA7ddC/aAUODf3dfI=;642inNSbQJBEdiO2UHPGdw=="
+secured: "lc2gMDFRP96dnMZnfU+3JfXXN856uzpYb5c/5SVnVbBlMc+kSRMZg1msJbuz9esrl2h3TQZ5+XUo139OYDuXIxUnegnSiCVnsvcHYdJSdEQgRbqXaDoy9hiSzYcCZVGor1Ywt/cS4csn6Wa+dfKdG7pC3LcXn/wxqfd3UMSU4gkVfMOyuEV42V0nDqb7V38Bd6WdOO4UPUKaY9BVBozcqnDlI0aD4C676aAekLXjvDEHPfvpdmfZinTnRwHGzt3lPMSHAGofecZ+KefjQdKWkSSzJuoJaqss/Ut1sjdN7giNbjRX7gqBrLSBM5NN+lVOAODdIPsPgH1NZTRh9vnw1Vxlncn8D1fl/pBOdkSBrsIh0msKsaC38EDHHevc1Tj9GD4YNyTHaKgZRZrcol4+i18jgrsYhOdTfFrW3A6fIR0leckxPueWdVEbZstTo0i2I7nF9D/gBSERuup/WS6X5PqmDvG1hZ8ZR825zRhXG56eOlb9ZoeAxSY7eApFW7ccc5GHtjofGVyuLjQGvQP1AA==;DvXng4ENz2oWg4x2nWqKuw=="
 ---
 

@@ -111,6 +111,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Biden backs studying reparations as Congress considers bill"
+    excerpt: "President Joe Biden's White House is giving its support to studying reparations for Black Americans, boosting Democratic lawmakers who are renewing efforts to create a commission on the issue amid the stark racial disparities highlighted by the COVID-19 pandemic."
+    publishedDateTime: 2021-02-18T15:12:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-backs-studying-reparations-congress-considers-bill-75957256"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-backs-studying-reparations-congress-considers-bill-75957256"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-backs-studying-reparations-congress-considers-bill-75957256"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_672fa3c86d684a248ccc43634309f88a_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden: Governors and mayors need $350 billion to fight COVID"
     excerpt: "President Joe Biden met with a bipartisan group of governors and mayors at the White House on Friday as part of his push to give financial relief from the coronavirus pandemic to state and local governments — a clear source of division with Republican lawmakers who view the spending as wasteful."
     publishedDateTime: 2021-02-12T23:55:00Z

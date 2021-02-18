@@ -9,7 +9,7 @@ ampWebUrl: "https://goodmorningamerica.com/amp/living/story/kamala-harris-late-l
 cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/living/story/kamala-harris-late-life-love-story-changing-trend-75819461"
 type: article
 quality: 125
-heat: 365
+heat: 385
 published: true
 
 provider:
@@ -198,6 +198,20 @@ related:
     quality: 55
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/02/13/USAT/2eadfb94-3b07-45ae-8292-7ff16c6cb720-ae7b0c28-1b30-4fcd-a11d-3e683655cc83_thumbnail.png?quality=10"
+        width: 852
+        height: 480
+        isCached: true
+  - title: "Kamala Harris' stepdaughter steps onto the catwalk"
+    excerpt: "Fashion house Proenza Schouler shows off its fall collection in a show which features the modelling debut of U.S. Vice President Kamala Harris' stepdaughter, Ella Emhoff. (Feb. 18)"
+    publishedDateTime: 2021-02-18T17:28:00Z
+    webUrl: "https://www.azcentral.com/videos/news/nation/2021/02/18/kamala-harris-stepdaughter-steps-onto-catwalk/4490632001/"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 55
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/18/USAT/03ebffe9-40bc-4235-9784-132de753c87b-f8ca4ada-22db-4aa8-86df-f683448936bc_thumbnail.png?quality=10"
         width: 852
         height: 480
         isCached: true

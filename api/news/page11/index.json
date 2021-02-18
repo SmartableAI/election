@@ -2,6 +2,167 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-02-03-biden-shows-flexibility-but-tells-house-to-go-big-on-aid.md",
+      "title": "Biden shows flexibility but tells House to ‘go big’ on aid",
+      "excerpt": "President Joe Biden is telling House Democrats he’s not married to all the specifics of the $1.9 trillion COVID rescue plan",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/business/biden-yellen-say-gop-virus-aid-too-small-democrats-push-on/2021/02/03/bddcc6da-65df-11eb-bab8-707f8769d785_story.html",
+      "originalUrl": "https://www.washingtonpost.com/business/biden-yellen-say-gop-virus-aid-too-small-democrats-push-on/2021/02/03/bddcc6da-65df-11eb-bab8-707f8769d785_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 465,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/business/biden-yellen-say-gop-virus-aid-too-small-democrats-push-on/2021/02/03/bddcc6da-65df-11eb-bab8-707f8769d785_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/biden-yellen-say-gop-virus-aid-too-small-democrats-push-on/2021/02/03/bddcc6da-65df-11eb-bab8-707f8769d785_story.html?outputType=amp",
+      "publishedDateTime": "2021-02-03T02:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-02-03-trade-to-be-part-of-bidens-china-strategy-not-driving-force-ex-ustr-official.md",
+      "title": "Trade to be part of Biden's China strategy, not driving force: ex-USTR official",
+      "excerpt": "Trade will be a part of President Joe Biden's overall negotiation policy with China, but it won't be the driving force in Sino-U.S. relations, as it was under former President Donald Trump, a former official at the Office of the U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-trade-rcep-gmf-idUKKBN2A30GV",
+      "originalUrl": "https://www.reuters.com/article/us-usa-trade-rcep-gmf-idUKKBN2A30GV",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210203&t=2&i=1550105113&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1209M",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN2A30GV",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2A30GV",
+      "publishedDateTime": "2021-02-03T01:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-02-03-she-was-stunned-by-bidens-inauguration-how-this-south-carolina-mom-escaped-qanon.md",
+      "title": "She was stunned by Biden's inauguration. How this South Carolina mom escaped QAnon",
+      "excerpt": "She was terrified that she would have to go into hiding with her daughter. Many QAnon believers have clear political motives, but Vanderbilt says she is a passive participant in politics. \"I've always been someone that you just tell me what to do and I do it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2021/02/03/tech/qanon-mom-former-believer/index.html",
+      "originalUrl": "https://www.cnn.com/2021/02/03/tech/qanon-mom-former-believer/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210202185142-former-qanon-believer-ashley-3-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/03/tech/qanon-mom-former-believer/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/03/tech/qanon-mom-former-believer/index.html",
+      "publishedDateTime": "2021-02-02T23:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-03-manhattan-da-is-investigating-bannon-who-was-pardoned-by-trump.md",
       "title": "Manhattan D.A. Is Investigating Bannon, Who Was Pardoned by Trump",
       "excerpt": "Stephen K. Bannon got a last-minute pardon from President Donald J. Trump in a federal fraud case, but now state prosecutors are considering bringing charges.",
@@ -1195,153 +1356,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-trump-lawyer-impeachment-case-undemocratic-ill-advised.md",
-      "title": "Trump lawyer: Impeachment case ‘undemocratic,’ ill-advised",
-      "excerpt": "Democrats are using the upcoming Senate impeachment trial of Donald Trump as a political “weapon” to bar the former president from seeking office again, and are pursuing a case that is “undemocratic” and unconstitutional,",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/nation-world/ct-nw-trump-lawyer-impeachment-case-undemocratic-20210202-gkgp2lqf7fbxzidwhnmm7htxky-story.html",
-      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-nw-trump-lawyer-impeachment-case-undemocratic-20210202-gkgp2lqf7fbxzidwhnmm7htxky-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 345,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/P4EW9jjAnf4pV_GJYksLauHHIco=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/QWUMU6JWTDKSHAPSV64S3TOOAA.aspx",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-nw-trump-lawyer-impeachment-case-undemocratic-20210202-gkgp2lqf7fbxzidwhnmm7htxky-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-lawyer-impeachment-case-undemocratic-20210202-gkgp2lqf7fbxzidwhnmm7htxky-story.html?outputType=amp",
-      "publishedDateTime": "2021-02-01T19:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-trump-campaigns-post-election-legal-spending-topped-7m-with-kasowitz-in-the-lead.md",
-      "title": "Trump campaign's post-election legal spending topped $7M, with Kasowitz in the lead",
-      "excerpt": "The Trump campaign paid law firms and other legal providers more than $7 million from Nov. 4 through the end of last year, a Reuters analysis of Federal Election Commission records shows.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/lawyer-trump-spend-idUSL1N2K8025",
-      "originalUrl": "https://www.reuters.com/article/lawyer-trump-spend-idUSL1N2K8025",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2K8025",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2K8025",
-      "publishedDateTime": "2021-02-01T18:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-mypillow-twitter-account-permanently-suspended-following-trump-ally-ceo-mike-lindells-ban-from-platform.md",
-      "title": "MyPillow Twitter account permanently suspended following Trump ally, CEO Mike Lindell's ban from platform",
-      "excerpt": "Twitter has suspended the MyPillow account after banning CEO Mike Lindell's account for perpetuating claims that Trump won the presidential election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/tech/2021/02/01/mypillow-twitter-account-suspended-ban-evasion-mike-lindell-trump/4348778001/",
-      "originalUrl": "https://www.usatoday.com/story/tech/2021/02/01/mypillow-twitter-account-suspended-ban-evasion-mike-lindell-trump/4348778001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/02/01/USAT/9489a161-ccda-4a4e-baba-f3b727211612-mypillow.jpg?auto=webp&crop=4031,2267,x1,y587&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/4348778001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4348778001",
-      "publishedDateTime": "2021-02-01T16:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/lincoln-project-rick-wilson-anti-tr
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lincoln-project-rick-wilson-anti-trump-film-donations.amp"
 type: article
 quality: 168
-heat: 208
+heat: 228
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21042209040667-e1613168284127.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Lincoln Project acknowledges need for new 'structures' as embattled anti-Trump group resists calls to disband"
+    excerpt: "The executive director of The Lincoln Project on Thursday acknowledged the need for new \"structures\" as the embattled anti-Trump group resists calls from critics to disband."
+    publishedDateTime: 2021-02-18T17:19:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SMcDGYKHNyY/lincoln-project-new-structures-resists-calls-to-disband"
+    ampWebUrl: "https://www.foxnews.com/politics/lincoln-project-new-structures-resists-calls-to-disband.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lincoln-project-new-structures-resists-calls-to-disband.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "qiFEYgsMdx8CtaTfCc4qbqDb0w6jXO4yrrFXXksWHtitv+M43HwTaetvGDZyRZ10HBUwD9uQeOnaJQyy2H7bd8Zhbxf5GCDndamy9IalhJfoWmUSy4EaXq8PvLEyJ4geQR3yssu9lz440VRy/AQidY3sK8wyYTvMFj6dOdCEqAfa4gdRocNRAbVkSTKrInD5/TUmKNQlxxZUABMi3F0qVWsS+dDO8/L1w89MVehuh8T5hf/O+B2KfrZm9eMOOYKfFp0HBFzupUMcfqe67oNNd6gCXjpGKK+r7WDgiu+VDHPvObAFmt5t45B/cDjt4g7OrLuUx2ylC2vDDSRMgP3LIZ9H+czIJ1Rk+5TYm8KV+Ac=;nEsxmjP93vJRf5iRGEeJdA=="

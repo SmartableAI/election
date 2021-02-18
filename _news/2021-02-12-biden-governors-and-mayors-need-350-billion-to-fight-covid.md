@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/business/democrats-pushing-bidens-cov
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/democrats-pushing-bidens-covid-19-bill-through-house-panels/2021/02/11/021a9cf8-6ce0-11eb-a66e-e27046e9e898_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 305
+heat: 325
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FVFCOEDQVAI6XOFJXFDHKEHQ7Y.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Biden backs studying reparations as Congress considers bill"
+    excerpt: "President Joe Biden's White House is giving its support to studying reparations for Black Americans, boosting Democratic lawmakers who are renewing efforts to create a commission on the issue amid the stark racial disparities highlighted by the COVID-19 pandemic."
+    publishedDateTime: 2021-02-18T15:12:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-backs-studying-reparations-congress-considers-bill-75957256"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-backs-studying-reparations-congress-considers-bill-75957256"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-backs-studying-reparations-congress-considers-bill-75957256"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_672fa3c86d684a248ccc43634309f88a_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Biden presses for $1.9 trillion COVID relief plan with governors, mayors"
     excerpt: "U.S. President Joe Biden pushed for the first major legislative achievement of his term on Friday, turning to a bipartisan group of local officials for help on his $1.9 trillion coronavirus relief plan."

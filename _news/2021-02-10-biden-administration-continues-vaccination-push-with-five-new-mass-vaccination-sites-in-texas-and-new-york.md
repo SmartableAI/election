@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration looks to FEMA to help combat domestic terrorism in wake of Capitol attack"
+    excerpt: "The Biden administration is leaning on the Federal Emergency Management Agency to help state and local authorities combat domestic extremism in the United States.\n    \n"
+    publishedDateTime: 2021-02-18T18:01:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fgzJC2UY-pk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/18/politics/dhs-fema-domestic-terrorism-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/18/politics/dhs-fema-domestic-terrorism-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/181102165132-dhs-logo-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "9J7a7jgy8K7XoU4dmBjX5/7X+70sGiw+dBzDNqlUbZkAI+YalljcATaegB+1TiWTX/0j/dEzNJ8+QwohCfq3pAc9qNTmLQtNeHu+EWpayGH3Exk1TTgsj3SIbk7sbCR8akOIFwYVUAhS9jkZKlHJVwl3w3FHQGy3kdNXe5llSoUh9Xw9P27YOkGinSLS1CbXyVsMT/SS/fLbmhtu7jxCAN9dXidflDrQIhGr2epm0lCgK9Ps1S23GZchQewv0SnwqrWjCPad9jhSYRbSS4hJivUbQW0oGRRQukFOl0hzka5bs82UoK5RCFwFTrRunzmgLp+MjcJacfpd4wnaJSeJDkwpoKf6gIbo6E7wlBXvrKw=;WM89xiUCl1ZUBXxXSpIXaQ=="
 ---

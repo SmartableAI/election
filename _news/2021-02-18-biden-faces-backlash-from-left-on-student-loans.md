@@ -63,22 +63,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Biden backs studying reparations as Congress considers bill"
-    excerpt: "Biden backs the idea of studying the issue, White House press secretary Jen Psaki said Wednesday, though she stopped short of saying he would sign the bill if it clears Congress. “He certainly would support a study of reparations,"
-    publishedDateTime: 2021-02-17T22:35:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-backs-studying-reparations-as-congress-considers-bill/2021/02/17/b75e2920-716f-11eb-8651-6d3091eac63f_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-backs-studying-reparations-as-congress-considers-bill/2021/02/17/b75e2920-716f-11eb-8651-6d3091eac63f_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-backs-studying-reparations-as-congress-considers-bill/2021/02/17/b75e2920-716f-11eb-8651-6d3091eac63f_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "Biden extends ban on home foreclosures"
     excerpt: "Watch \"Biden extends ban on home foreclosures; White House says move will help over 10 million\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2021-02-17T12:17:00Z

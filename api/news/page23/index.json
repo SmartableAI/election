@@ -2,6 +2,162 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2021-01-17-biden-well-manage-the-hell-out-of-feds-covid-response.md",
+      "title": "Biden: We'll 'manage the hell' out of feds' COVID response",
+      "excerpt": "President-elect Joe Biden is pledging to boost supplies of coronavirus vaccine and set up new vaccination sites to meet his goal of 100 million shots in 100 days",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Health/wireStory/biden-unveils-19t-plan-stem-covid-19-steady-75269503",
+      "originalUrl": "https://abcnews.go.com/Health/wireStory/biden-unveils-19t-plan-stem-covid-19-steady-75269503",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 305,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Health/WireAP_8fe513d6b6cd49e6ae4f13509231de33_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Health/wireStory/biden-unveils-19t-plan-stem-covid-19-steady-75269503",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-unveils-19t-plan-stem-covid-19-steady-75269503",
+      "publishedDateTime": "2021-01-16T16:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-01-17-harold-bornstein-trumps-former-doctor-who-said-hed-be-the-healthiest-president-of-all-time-dies-at-73.md",
+      "title": "Harold Bornstein, Trump's former doctor who said he'd be the 'healthiest' president of all time, dies at 73",
+      "excerpt": "Bornstein rose to global fame after he declared Trump \"the healthiest individual ever elected to the presidency.\" But Trump still cast him aside.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trumps-former-doctor-harold-bornstein-dies-at-73-2021-1",
+      "originalUrl": "https://www.businessinsider.com/trumps-former-doctor-harold-bornstein-dies-at-73-2021-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60005bc6a8de7700187d3d2d?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trumps-former-doctor-harold-bornstein-dies-at-73-2021-1?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-former-doctor-harold-bornstein-dies-at-73-2021-1?amp",
+      "publishedDateTime": "2021-01-16T11:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-17-its-not-their-party-any-more-trump-leaves-republicans-deeply-fractured.md",
+      "title": "'It's not their party any more': Trump leaves Republicans deeply fractured",
+      "excerpt": "The president has ignited a civil war in his own party, creating bitter divides that will be felt for years to come",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/jan/16/donald-trump-republican-party-divided-impeachment-capitol-attack",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/jan/16/donald-trump-republican-party-divided-impeachment-capitol-attack",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/db9762e40c1133a39c297fa5bcc3d7607af074a7/0_150_4500_2700/master/4500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=fcac560390630cc3adc836f4d2425be5",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jan/16/donald-trump-republican-party-divided-impeachment-capitol-attack",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/16/donald-trump-republican-party-divided-impeachment-capitol-attack",
+      "publishedDateTime": "2021-01-16T09:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-16-key-witness-in-first-trump-impeachment-says-were-not-out-of-the-woods-yet-after-january-6-capitol-attack.md",
       "title": "Key witness in first Trump impeachment says 'we're not out of the woods yet' after January 6 Capitol attack",
       "excerpt": "\"Just because it didn't have a high likelihood of succeeding in a classic coup fashion doesn't mean it wasn't an attempt,\" Fiona Hill says.",
@@ -1170,172 +1326,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-pence-front-and-center-in-capitol-siege-aftermath.md",
-      "title": "Pence front and center in Capitol siege aftermath",
-      "excerpt": "Vice President Mike Pence flew to West Virginia on Friday to attend and speak at a public celebration for the late Air Force Brig. Gen. Chuck Yeager.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fH_dCOaJjso/pence-front-and-center-in-capitol-siege-aftermath",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fH_dCOaJjso/pence-front-and-center-in-capitol-siege-aftermath",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pence-front-and-center-in-capitol-siege-aftermath.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-front-and-center-in-capitol-siege-aftermath.amp",
-      "publishedDateTime": "2021-01-15T09:31:05-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-01-16-rose-mcgowan-calls-trumps-second-impeachment-cult-propaganda-a-theater-of-mass-distraction.md",
-      "title": "Rose McGowan calls Trump's second impeachment 'cult propaganda,' 'a theater of mass distraction'",
-      "excerpt": "In a scathing tweet, McGowan called the actions against Trump cultlike which is something she's said numerous times in the past about Hollywood. \"This impeachment is Cult propaganda. A theater of mass distraction.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/entertainment/rose-mcgowan-trump-impeachment-cult-propaganda-mass-distraction",
-      "originalUrl": "https://www.foxnews.com/entertainment/rose-mcgowan-trump-impeachment-cult-propaganda-mass-distraction",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Rose-McGowan.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/entertainment/rose-mcgowan-trump-impeachment-cult-propaganda-mass-distraction.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/rose-mcgowan-trump-impeachment-cult-propaganda-mass-distraction.amp",
-      "publishedDateTime": "2021-01-15T08:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-16-sarah-cooper-im-moving-on-from-lip-syncing-trump.md",
-      "title": "Sarah Cooper: I'm moving on from lip-syncing Trump",
-      "excerpt": "The comedian talks with \"Sunday Morning\" about life after becoming a social media phenomenon lampooning the president.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/sarah-cooper-im-moving-on-from-lip-syncing-trump/",
-      "originalUrl": "https://www.cbsnews.com/news/sarah-cooper-im-moving-on-from-lip-syncing-trump/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/15/01c3b17d-14d5-41de-8659-67633b1d8911/thumbnail/1200x630/2e851058003a646ab459885bf00088f4/sarah-cooper-interview-1280.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/sarah-cooper-im-moving-on-from-lip-syncing-trump/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/sarah-cooper-im-moving-on-from-lip-syncing-trump/",
-      "publishedDateTime": "2021-01-15T08:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

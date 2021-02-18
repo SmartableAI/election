@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Maine GOP scolds Susan Collins for her vote to convict Trump on impeachment charge"
+    excerpt: "Maine's GOP condemned \"in the strongest possible terms\" Collins' vote to hold Trump responsible for inciting the deadly insurrection at the Capitol."
+    publishedDateTime: 2021-02-18T18:38:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/18/maine-gop-condemn-republican-susan-collins-vote-convict-trump-impeachment/4492688001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4492688001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4492688001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/13/USAT/23a2d96f-3584-498c-9691-06a03f4f38d8-AP21044789087213.jpg?auto=webp&crop=3193,1797,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "GOP Gov. Larry Hogan Urges Party to Leave 'Cult of Donald Trump,' Hails Conviction Votes"
     excerpt: "\"I was very proud of some of the folks who stood up and did the right thing,\" the Maryland governor said Sunday of senators who voted to convict Trump."
     publishedDateTime: 2021-02-14T16:00:00Z

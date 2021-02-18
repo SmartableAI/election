@@ -271,6 +271,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "EXPLAINER: After acquittal, Trump 2024? Maybe not so fast"
+    excerpt: "Donald Trump’s Senate impeachment trial acquittal may not be the end of efforts to keep him from seeking the presidency again"
+    publishedDateTime: 2021-02-18T18:03:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/explainer-acquittal-trump-2024-fast-75973907"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/explainer-acquittal-trump-2024-fast-75973907"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/explainer-acquittal-trump-2024-fast-75973907"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_c93ffce95bfd4e01b0d1a60b4bee0f6a_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Explainer: Trump's acts as president are 'fair game' for criminal charges"
     excerpt: "Donald Trump's legal troubles are far from over, despite his acquittal in the U.S. Senate impeachment trial that ended on Saturday."
     publishedDateTime: 2021-02-17T08:13:00Z

@@ -63,6 +63,22 @@ related:
         width: 793
         height: 545
         isCached: true
+  - title: "Fact check: Biden approved emergency measures in response to Texas freeze"
+    excerpt: "Social media users have been sharing content online that claims President Joe Biden took no action in response to the unusually low temperatures in Texas. While Biden has not publicly spoken about Texas as of February 18,"
+    publishedDateTime: 2021-02-18T16:04:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-biden-emergency-texas-respo-idUSKBN2AI293"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AI293"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AI293"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210218&t=2&i=1552020884&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1H18D"
+        width: 818
+        height: 545
+        isCached: true
   - title: "The Daily 202: Biden builds back boring in town hall. That’s not a bad thing"
     excerpt: "An absence of incendiary tweets doesn’t make a young presidency boring when the administration is facing a once-in-a-lifetime pandemic, the resulting economic devastation, the climate crisis and a host of other problems."
     publishedDateTime: 2021-02-17T22:05:00Z
