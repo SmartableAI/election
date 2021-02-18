@@ -143,6 +143,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Black, Latino Groups See Ally In Kamala Harris As Biden Administration Navigates First 100 Days"
+    excerpt: "Harris has leaned into being the first woman and first woman of color in the role to connect with groups that will be key to the administration's success as the recovery unfolds."
+    publishedDateTime: 2021-02-18T20:15:00Z
+    webUrl: "https://www.newsweek.com/black-latino-groups-see-ally-kamala-harris-biden-administration-navigates-first-100-days-1570260"
+    ampWebUrl: "https://www.newsweek.com/black-latino-groups-see-ally-kamala-harris-biden-administration-navigates-first-100-days-1570260?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/black-latino-groups-see-ally-kamala-harris-biden-administration-navigates-first-100-days-1570260?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 128
+    images:
+      - url: "https://d.newsweek.com/en/full/1738584/harris-outreach.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "U.S. private prison revenue under pressure from new Biden rules"
     excerpt: "CoreCivic and the GEO Group, two of the largest U.S. private prison companies, could lose as much as a quarter of their revenue, about $1 billion a year between them, under new limits on the sector from President Joe Biden."
     publishedDateTime: 2021-01-27T16:10:00Z

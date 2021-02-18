@@ -366,6 +366,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "House Democrats plan to push Biden's Covid relief plan through the chamber next week"
+    excerpt: "House Democrats are taking a major step forward to push through President Joe Biden's massive $1.9 trillion Covid relief bill by the end of next week.\n    \n"
+    publishedDateTime: 2021-02-18T19:41:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FgHRyfyJYJM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/18/politics/house-democrats-covid-bill-vote/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/18/politics/house-democrats-covid-bill-vote/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210118014238-nancy-pelosi-0115-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration will begin processing migrants forced to stay in Mexico this month"
     excerpt: "The Biden administration will begin processing migrants forced to stay in Mexico under a Trump-era policy into the United States on February 19, according to administration officials.\n    \n"
     publishedDateTime: 2021-02-12T11:04:13Z
@@ -715,7 +731,21 @@ related:
         width: 4000
         height: 2665
         isCached: true
+  - title: "POLITICO Playbook: Biden-blessed immigration bill drops today — but even he’s not sold"
+    excerpt: "He’s hosting a call with grassroots organizations today to push for the return of full-time in-person education. Republicans see the schools issue — and the Biden administration’s lowering of expectations for reopening — as an opportunity to put Democrats on their heels."
+    publishedDateTime: 2021-02-18T11:18:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook/2021/02/18/biden-blessed-immigration-bill-drops-today-but-even-hes-not-sold-491798"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 107
+    images:
+      - url: "https://static.politico.com/17/a7/2ac808f74e01a0f22559f04beb5b/gettyimages-1231224215.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
-secured: "ndWcMXd4sPTrSJvUShLTo0DFCTtM+Q4K0qhq8ler6h10PIzJaT6i2Pn0SB+MuwUGYH3sMQkDl91PIeW7O9l0UhMTVruV6BBwfV7lwSQLl1xO5bNJ9ukiZLToEtdFnn+7fGyNFiylg+wBl+j75F0A+25C964D4W7Lno2FkVEHN8HiUQvJvYueF1IvvCfe3pHc+uSDPdkd/p8qyjlJWY8WQSgPTJ7Nu9AYAL9rrwsX6x0ayfAHEYD+ZMqqHRqaKr1gwQnWTfgTl10+SdGXZpmkiHtJWxeb7e0VQePdFqcf2vBK2BiW76+dWIzgZyUZ323cEbEKSKlPQMdNCAoCXL0goUqsZZ/qbLwtIXy80myr2yY=;2q3pgUs8/MCNF3Nh6xBdOg=="
+secured: "Ilp8QZnfMtIBTL7aYJapKX/1bRhHi3tjpGlWjUVa+UmD/c1pvoUqHzOCrpXlJDz2iyfQPy3Reb5OsAO3Gdc+7CH0PAeTK7qtYGRkVyIIho43HSHM5Ywwt1S4CM7i8gOp6Xuv496kZWpaXmSIojwaWAcietA+X4Pg5/xEvPTXArZrtFPPsmEO6XCw8Q71cNm9/PIQVEAc46Hu+e7foK8Bx/7ZI7siMme3eKdVnWmfWX42Pm10aDrb6vq7q6yBsXtDGO5LFBzRrm1uXbFyeWdf7thyCLjYI4lT1iat6X3Sax5MNX6XsslUwIWdFX4yD6JUOZLZ70pTiHCogybAikRQeUxFaM92BVrq/j+qUkvCLXk8gXJqTlNLcqg9eYiBDS95XSv3Muq+xpLq7ToiWPR+O2IKRJ+8YvayiXIvJmHB+xwp9T7NGc+vxfMB4szveanRB5VnmtIneHxxY+b0lzbnmMreiL4foH2aMn8qbj45Dzia4Bu8+N3aF9YveX75ecuI/b7Dq4t5c/Sy3VkUxFRTIw==;UFbh7NbwPlKASvwwqWydeg=="
 ---
 

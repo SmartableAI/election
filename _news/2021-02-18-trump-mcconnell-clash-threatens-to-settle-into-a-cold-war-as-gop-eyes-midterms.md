@@ -415,6 +415,22 @@ related:
         width: 1072
         height: 667
         isCached: true
+  - title: "Analysis: Exodus of Republican voters tired of Trump could push party further right"
+    excerpt: "A surge of Republicans quitting the party to renounce Donald Trump after the deadly Capitol riot could hurt moderates in next year's primaries, adding a capstone to Trump's legacy as president: A potentially lasting rightward push on the party."
+    publishedDateTime: 2021-02-18T19:09:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-politics-republicans-defections-a-idUSKBN2AI1XC"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AI1XC"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AI1XC"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 119
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210218&t=2&i=1552040557&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1H11R"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Power Up: Mitch McConnell still isn't talking to Trump. But will he vote to acquit him?"
     excerpt: "This is not the America McConnell grew up in or the Republican Party he's built. This is not the party he wants to leave behind for the next generation,' said longtime McConnell political aide Scott Jennings."
     publishedDateTime: 2021-02-12T16:57:00Z
@@ -747,6 +763,6 @@ related:
         height: 336
         isCached: true
 
-secured: "nzZ0VYAXaOZIr1jGccdBCM6n6b4JaDEJ7Qj73DI+dSI3K0h7PCMbtlFOSa9gxCcggIB5au77R0YyJsSIUORXe0oPSLYlb+fyCT4rU55uGgB87nRp1pqXEVuIPj6Ikrf8ErdGo8jQb5tJXXOpkyHFb4cf55kd0mTAakDj2QEcFXNjCX/xD69aaBQv7G3r53hGnKF2LUDYG8a0RKUR8Ynn3ynZxezEc21rT02GysnuUd7BBk07EmZhIzmYUykZHGthiKgH6mVY5MhYH2hnGy3A+AFGiKWJL03zajfDArrznWfHEWW8mxXBvsjRYmZM6WY8pfU8ZhqwJ2yhEq437uT0HfTUigRYZTuKqdD8G90QtmM=;lcnFDmnm+aSLs0xcCdRe6g=="
+secured: "dMcVn92vKStNzTOkj4whFMPqaE/LXUIV5wa91lPMxxVWvnWBOP7smDW+Gp0ETYeS4eXT1eQR9CzaqkZLxql2CMrdjBAQhHMkyj/z3HPuuylFfqF2ERCLbcSAlMB224CNK33xKKMRXl+TAue2CcmlLO+z+e7FDdUFilZY0OjkwbjAqyi0aWQv+GKcnR8bMSHD22Z2moFGBv0lC3gnRSx53HJoJbddUjUqu880IqcoVtzjYH6HYEl4ElutvSavSsWcdrY/jcnYN6ZzHgYUB5nJley8M1W7HJAxqtairo1Ff7bbbXneu397jxK0S3pXWiZivjPQ4OK8JHb4mgno31GL81V4hHR9fYiOex2DR+0pIP0JX5J+dQSYNBqPEgEH/YjI5iDThT9kcRqbW/QgkcBAhoUO/TUURyvGnxK3zdMG3+uMbi3TIozaFRI4e7marPP6XoJXd6mvQIt2qdRUSfod/j+oqmiTOqqv9h9JuVLd6UYVRejlJom+qHcVRSjJ4JC6s64sj0TggMLNjJlttrjBng==;b73Fg6+M7ajMYmuo6Ya11g=="
 ---
 

@@ -95,6 +95,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Pro-Trump former GOP chair joins US Senate race in Ohio"
+    excerpt: "An ally of former President Donald Trump who recently stepped down as chair of the Ohio Republican Party is joining the race for the U.S. Senate seat that the GOP’s Rob Portman is vacating"
+    publishedDateTime: 2021-02-18T19:06:00Z
+    webUrl: "https://www.washingtonpost.com/politics/pro-trump-former-gop-chair-joins-us-senate-race-in-ohio/2021/02/18/79f8f014-71f2-11eb-8651-6d3091eac63f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/pro-trump-former-gop-chair-joins-us-senate-race-in-ohio/2021/02/18/79f8f014-71f2-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pro-trump-former-gop-chair-joins-us-senate-race-in-ohio/2021/02/18/79f8f014-71f2-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "GOP Sen. Kevin Cramer Says He Expects He Will Vote to Acquit Donald Trump"
     excerpt: "Before the trial of the former president, the North Dakota lawmaker said in a video message \"Welcome to the stupidest week in the Senate.\""
     publishedDateTime: 2021-02-11T13:09:00Z

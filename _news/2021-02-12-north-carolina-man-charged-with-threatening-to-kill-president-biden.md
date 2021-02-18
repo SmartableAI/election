@@ -368,6 +368,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "House Democrats plan to push Biden's Covid relief plan through the chamber next week"
+    excerpt: "House Democrats are taking a major step forward to push through President Joe Biden's massive $1.9 trillion Covid relief bill by the end of next week.\n    \n"
+    publishedDateTime: 2021-02-18T19:41:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FgHRyfyJYJM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/18/politics/house-democrats-covid-bill-vote/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/18/politics/house-democrats-covid-bill-vote/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210118014238-nancy-pelosi-0115-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration will begin processing migrants forced to stay in Mexico this month"
     excerpt: "The Biden administration will begin processing migrants forced to stay in Mexico under a Trump-era policy into the United States on February 19, according to administration officials.\n    \n"
     publishedDateTime: 2021-02-12T11:04:13Z
@@ -714,6 +730,20 @@ related:
       - url: "https://static.politico.com/e8/a8/8f27b47c4e759c128cb96d40eeb6/gettyimages-1300545441.jpg"
         width: 4000
         height: 2665
+        isCached: true
+  - title: "POLITICO Playbook: Biden-blessed immigration bill drops today — but even he’s not sold"
+    excerpt: "He’s hosting a call with grassroots organizations today to push for the return of full-time in-person education. Republicans see the schools issue — and the Biden administration’s lowering of expectations for reopening — as an opportunity to put Democrats on their heels."
+    publishedDateTime: 2021-02-18T11:18:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook/2021/02/18/biden-blessed-immigration-bill-drops-today-but-even-hes-not-sold-491798"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 107
+    images:
+      - url: "https://static.politico.com/17/a7/2ac808f74e01a0f22559f04beb5b/gettyimages-1231224215.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "zZsU3/F3JHrL4FDXHhuw8gGYzrMcg8DT+BozMldqQC5uS9ITV25IdT8MZ9JwexDhR8Uj1z5MlP07S2JDzSq1/YbccGU7yvvOv+m1FZrPVVg8PVYw6YIGJGSTXgPpzERF2YaEdVQg11bSufb4Vfjha1ozok/jTBKB4D4GBek713XQo7fn8b+iAqWnwhA+gQgHWB/yzLvsfNfcg364rnvStVgUKHoAGwIWqti6lo1nSD7P0XcottM+Ud1k/froQ+L2ZQmThncAk3shZ+hI8j7gqoeNcKt7ngO3YNMtmY9Zcr5hZBiY+EGiMLDgvAPrjk9X63NkvJYP2I3/wTf1h7q5gncIBMOo4HU9qY4E/AtQdRpd5wyiIAhG08LG9nCqkuWYwrqjZ0STzptqLHeKBf/yUElVIofVWvJMQerRbQyEMAonFxu7v6FRk9f1F27TCfujM87JgagIgOAxjz+aggBYUlUO3t31df29nw76TiWufqGOC5Js8N48DOHKmKPT9kLZfQPyznFBfNLQoOzeUsIvXw==;kJd0YkBNBTG1FMHp/13F5g=="

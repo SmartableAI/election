@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/grow-pair-marjorie-taylor-greene-mitt-romne
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/grow-pair-marjorie-taylor-greene-mitt-romney-spar-over-trump-call-1565614?amp=1"
 type: article
 quality: 123
-heat: 143
+heat: 163
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1721247/marjorie-taylor-green-pictured-dc-november.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "'Around here, Trump is king': How Marjorie Taylor Greene got to Congress by running as the MAGA candidate"
+    excerpt: "Constituents say Marjorie Taylor Greene embodies conservative values: Anti-taxes, pro-religion, pro-guns, pro-Trump. Conspiracy theories? Not so much."
+    publishedDateTime: 2021-02-18T20:32:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/18/marjorie-taylor-greene-won-conservative-views-and-donald-trump/4411352001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4411352001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4411352001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 108
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/07/USAT/65c1fc74-8388-4787-b9ff-831cb4215285-AP_Trump_6.jpg?auto=webp&crop=4172,2347,x0,y212&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "OobuZ2jvPpRaRmJzOtoPkddw3bD+6Qf7EUlOvV7SolWAcK2oAKu1MajVar9RHSk8g+HPnzmunW6KTegC8enThzxBumwpdVfzTerqMq2s5raIiSW0Ig0/KglXYbJ49z26xU69ploypxBBMUgmUoJPGRTqCsXmKLoJIchD4/D1pMJIBmCaRWYtR9QKLdeTfTZqzSnECeSjI3xam3zEnchzKHebh6hc/wit/A8sWqoTUqFVhO2aIdvq5QbEsdMAEyxWeT0T+aZxLs2BUK4nyh0yVcl7vvBkd4dJvAMnkr5RN9y2+rBY2DZDqBxr4q/IQq13U//8D/rwsnyXaYCc0UCsWE3qngCq53Mu4haOj8u9lpw=;gLt/zTip6jbxIF7e2GqQlA=="

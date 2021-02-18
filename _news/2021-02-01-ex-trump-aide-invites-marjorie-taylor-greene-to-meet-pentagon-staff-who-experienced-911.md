@@ -47,6 +47,22 @@ related:
         width: 2500
         height: 1822
         isCached: true
+  - title: "'Around here, Trump is king': How Marjorie Taylor Greene got to Congress by running as the MAGA candidate"
+    excerpt: "Constituents say Marjorie Taylor Greene embodies conservative values: Anti-taxes, pro-religion, pro-guns, pro-Trump. Conspiracy theories? Not so much."
+    publishedDateTime: 2021-02-18T20:32:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/18/marjorie-taylor-greene-won-conservative-views-and-donald-trump/4411352001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4411352001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4411352001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 108
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/07/USAT/65c1fc74-8388-4787-b9ff-831cb4215285-AP_Trump_6.jpg?auto=webp&crop=4172,2347,x0,y212&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "wU3IUSGZ3QXEe/bo92YEn9zBMdgM/IQ0qVlD5XDz86SYpdcJDiWV4Gw8iEmVi4mrDMoLrLYmJNAx9f6gNqvSG3cpQ11Pqj7gKOujWzgkHW2TH7dQJKLont1EpY0JTxYp3WNzoRMX1H4smJrauleFI4Ts14deH8pNYNxNstm/IjMT/OZr42C4FIdYfceTJDTfUCqZL97EQaveu28qsrsGTFUjXsKmEpFSBG5RMWJiYmGRpSHu7TVRuLZQdPAV3SLNaAxtzvG19Aajiwb9ZGlIyEzR0qd8e9Dbb0Kx+/5DZaWpJg4NWrDPIpEfe9U4EfGH3OwfToR89lVFe0nm9QrCvxymfutF1atdnyjPjdtLudg=;bp8eU03leDmo8dXxV/RARQ=="
 ---

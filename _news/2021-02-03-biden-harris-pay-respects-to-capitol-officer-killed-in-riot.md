@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/capitol-police-of
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/capitol-police-officer-who-died-after-riot-to-lie-in-honor/2021/02/02/8f908fb8-65b8-11eb-bab8-707f8769d785_story.html?outputType=amp"
 type: article
 quality: 150
-heat: 2070
+heat: 2090
 published: true
 
 provider:
@@ -127,6 +127,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/kamala-gty-er-210216_1613518240506_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Black, Latino Groups See Ally In Kamala Harris As Biden Administration Navigates First 100 Days"
+    excerpt: "Harris has leaned into being the first woman and first woman of color in the role to connect with groups that will be key to the administration's success as the recovery unfolds."
+    publishedDateTime: 2021-02-18T20:15:00Z
+    webUrl: "https://www.newsweek.com/black-latino-groups-see-ally-kamala-harris-biden-administration-navigates-first-100-days-1570260"
+    ampWebUrl: "https://www.newsweek.com/black-latino-groups-see-ally-kamala-harris-biden-administration-navigates-first-100-days-1570260?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/black-latino-groups-see-ally-kamala-harris-biden-administration-navigates-first-100-days-1570260?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 128
+    images:
+      - url: "https://d.newsweek.com/en/full/1738584/harris-outreach.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Teacher and her kindergartners stunned to receive response letters from Joe Biden, Kamala Harris"
     excerpt: "Kindergarten teacher Martha Tavarez of Barron Elementary School in El Paso, Texas, said she and her students were thrilled to receive letters from President Joe Biden and Vice President Kamala Harris."

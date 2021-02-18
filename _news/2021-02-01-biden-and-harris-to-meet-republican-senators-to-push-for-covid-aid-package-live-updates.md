@@ -128,6 +128,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Black, Latino Groups See Ally In Kamala Harris As Biden Administration Navigates First 100 Days"
+    excerpt: "Harris has leaned into being the first woman and first woman of color in the role to connect with groups that will be key to the administration's success as the recovery unfolds."
+    publishedDateTime: 2021-02-18T20:15:00Z
+    webUrl: "https://www.newsweek.com/black-latino-groups-see-ally-kamala-harris-biden-administration-navigates-first-100-days-1570260"
+    ampWebUrl: "https://www.newsweek.com/black-latino-groups-see-ally-kamala-harris-biden-administration-navigates-first-100-days-1570260?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/black-latino-groups-see-ally-kamala-harris-biden-administration-navigates-first-100-days-1570260?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 128
+    images:
+      - url: "https://d.newsweek.com/en/full/1738584/harris-outreach.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Teacher and her kindergartners stunned to receive response letters from Joe Biden, Kamala Harris"
     excerpt: "Kindergarten teacher Martha Tavarez of Barron Elementary School in El Paso, Texas, said she and her students were thrilled to receive letters from President Joe Biden and Vice President Kamala Harris."
     publishedDateTime: 2021-01-27T13:21:00Z

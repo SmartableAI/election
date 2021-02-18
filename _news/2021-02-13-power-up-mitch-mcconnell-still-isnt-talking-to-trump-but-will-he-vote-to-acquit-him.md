@@ -431,6 +431,22 @@ related:
         width: 1072
         height: 667
         isCached: true
+  - title: "Analysis: Exodus of Republican voters tired of Trump could push party further right"
+    excerpt: "A surge of Republicans quitting the party to renounce Donald Trump after the deadly Capitol riot could hurt moderates in next year's primaries, adding a capstone to Trump's legacy as president: A potentially lasting rightward push on the party."
+    publishedDateTime: 2021-02-18T19:09:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-politics-republicans-defections-a-idUSKBN2AI1XC"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AI1XC"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AI1XC"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 119
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210218&t=2&i=1552040557&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1H11R"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Lindsey Graham says Mitch McConnell speech slamming Trump could haunt Republicans in 2022"
     excerpt: "Sen. Lindsey Graham said Minority Leader Mitch McConnell's speech against former President Donald Trump could be used against GOP candidates in 2022."
     publishedDateTime: 2021-02-14T18:31:00Z

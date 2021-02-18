@@ -415,6 +415,22 @@ related:
         width: 2474
         height: 1392
         isCached: true
+  - title: "Analysis: Exodus of Republican voters tired of Trump could push party further right"
+    excerpt: "A surge of Republicans quitting the party to renounce Donald Trump after the deadly Capitol riot could hurt moderates in next year's primaries, adding a capstone to Trump's legacy as president: A potentially lasting rightward push on the party."
+    publishedDateTime: 2021-02-18T19:09:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-politics-republicans-defections-a-idUSKBN2AI1XC"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AI1XC"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AI1XC"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 119
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210218&t=2&i=1552040557&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1H11R"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Power Up: Mitch McConnell still isn't talking to Trump. But will he vote to acquit him?"
     excerpt: "This is not the America McConnell grew up in or the Republican Party he's built. This is not the party he wants to leave behind for the next generation,' said longtime McConnell political aide Scott Jennings."
     publishedDateTime: 2021-02-12T16:57:00Z
