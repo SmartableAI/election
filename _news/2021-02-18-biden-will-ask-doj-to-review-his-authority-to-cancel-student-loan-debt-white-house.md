@@ -2,9 +2,9 @@
 category: news
 title: "Biden will ask DOJ to review his authority to cancel student loan debt - White House"
 excerpt: "President Joe Biden will ask the Department of Justice to review his legal authority to cancel student loan debt, the White House said on Wednesday, adding the president does not favor $50,000 in student loan relief without limitation."
-publishedDateTime: 2021-02-18T04:21:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-biden-doj-student-loan/biden-will-ask-doj-to-review-his-authority-to-cancel-student-loan-debt-white-house-idUSKBN2AH2KB"
-webUrl: "https://www.reuters.com/article/us-usa-biden-doj-student-loan/biden-will-ask-doj-to-review-his-authority-to-cancel-student-loan-debt-white-house-idUSKBN2AH2KB"
+publishedDateTime: 2021-02-18T00:20:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-biden-doj-student-loan-idUSKBN2AH2KB"
+webUrl: "https://www.reuters.com/article/us-usa-biden-doj-student-loan-idUSKBN2AH2KB"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AH2KB"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AH2KB"
 type: article
@@ -445,6 +445,6 @@ related:
         height: 600
         isCached: true
 
-secured: "mW+vT9xtJO9GwvG11Z37VsL/kh8y/gQrqTjX+O4eF23+D1/8kpQTS0eRVo3WieMKKPjXCjPWEc//YL5ZR5O4WrGoj16pZ0D+oQjFzIypGM6R5cF8KTeEnH1h6mSI98jirN0mu/volAXNlgUQIw9mvMHVtakrFoMkIj05Yq2yNfCDY1q2shVV1Ov05kqoVTz1GQRdUxQRS0+/gbXXj5wNspDv6A1cyXDM2F0A2C931Iw62GftGGK+BNH2xQs6t6Jrqzp6iwSJFA9Ih95w2c11fOhvj3NuH03TWkxczpStRzMiBSEz9KLTLIdl8Ptwon1ZFjQ9JZzrWudIJxh9iuT+hyy2ONeEcs3z6bFdMInLvVM=;UAEqGfsdBU3o0Nl1fopbwA=="
+secured: "r8mjadyEASYgrYr9t+Bp4NTzZwcBG+dhEEz+76d1xCKsAGNO1gj+9eltRTgQZTy6ngmYL1oiY9PiJfSbdZ8Y+aL6vO09fsRwDY5ngLlGP5kTy4SWzXwlKLr66HgvCNikPNJuN+G5xd0hIfyMzlYIMeUHBHX8jc27j9lT8si0x9VitICX7mAmVp4l2OH341pFEC7kdnEvwKloBSNXHHY7ewcF0S0BCj3z2OhSKimgf00AWUcR9aePgFYVXxQ87a8yKL7NvH29u8OAHoFPTGb3mugG4kuFQ+m93nVwtWLuhZbFNhLR5kl7wiFWDoHQsMzIpHO5hguPfOAjgZmKcR1T1c43YGmijw+JD7OOH+hy6P8=;CVl6JF2uH9WAjzUkve9w1w=="
 ---
 

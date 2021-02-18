@@ -828,6 +828,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "How a Hardcore Liberal Lawyer Joined the Pro-Trump Mob"
+    excerpt: "W. McCall Calhoun Jr., who ran for office in Georgia as a Democrat, is a walking embodiment of his state’s political contradictions."
+    publishedDateTime: 2021-02-18T10:00:00Z
+    webUrl: "https://www.nytimes.com/2021/02/18/us/W-McCall-Calhoun-Jr-georgia-capitol-riot.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/18/us/W-McCall-Calhoun-Jr-georgia-capitol-riot.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/18/us/W-McCall-Calhoun-Jr-georgia-capitol-riot.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/10/us/00georgia/merlin_183430803_2af6c473-21c0-4c8a-95c3-ae784ea3dcc0-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "House managers rest case, argue Trump could stoke more violence if not convicted"
     excerpt: "The former president's defense is set to begin Friday after methodical and at times emotionally wrenching presentations from Democrats."
     publishedDateTime: 2021-02-13T00:30:00Z

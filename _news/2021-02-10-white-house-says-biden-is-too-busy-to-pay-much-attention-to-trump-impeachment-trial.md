@@ -175,6 +175,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Trump 'decimated' refugee program hampering Biden's historic goal: Advocates"
+    excerpt: "Those fleeing conflict and oppression will not feel the impact right away after the Trump administration all but dismantled the refugee admissions process, advocates said"
+    publishedDateTime: 2021-02-18T10:01:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-decimated-refugee-program-hampering-bidens-historic-goal/story?id=75911102"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-decimated-refugee-program-hampering-bidens-historic-goal/story?id=75911102"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-decimated-refugee-program-hampering-bidens-historic-goal/story?id=75911102"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 137
+    images:
+      - url: "https://s.abcnews.com/images/Politics/Darfur-gty-er-210217_1613612239317_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden's Interior Department halts Trump's attempt to change desert conservation plan"
     excerpt: "In his term's 11th hour, then-President Donald Trump took aim at the Desert Renewable Energy Conservation Plan and began a rollback of key conservation protections in the framework that aims to balance clean energy and conservation on federal land in the Southern California desert."
     publishedDateTime: 2021-02-18T02:28:00Z

@@ -1,33 +1,34 @@
 ---
 category: news
-title: "GOP senators signal they plan to acquit Trump despite visceral presentation by House Democrats"
-excerpt: "The House impeachment managers presented senators with videos of their colleagues fleeing a pro-Trump mob, which breached the US Capitol shouting \"stop the steal.\" They showed the rioters searching for then-Vice President Mike Pence and House Speaker Nancy Pelosi, and rummaging through the senators'"
-publishedDateTime: 2021-02-11T02:41:35Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/b3GHp4OCyyg/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/b3GHp4OCyyg/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/02/10/politics/republican-senators-trump-impeachment/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/10/politics/republican-senators-trump-impeachment/index.html"
+title: "How a Hardcore Liberal Lawyer Joined the Pro-Trump Mob"
+excerpt: "W. McCall Calhoun Jr., who ran for office in Georgia as a Democrat, is a walking embodiment of his state’s political contradictions."
+publishedDateTime: 2021-02-18T10:00:00Z
+originalUrl: "https://www.nytimes.com/2021/02/18/us/W-McCall-Calhoun-Jr-georgia-capitol-riot.html"
+webUrl: "https://www.nytimes.com/2021/02/18/us/W-McCall-Calhoun-Jr-georgia-capitol-riot.html"
+ampWebUrl: "https://www.nytimes.com/2021/02/18/us/W-McCall-Calhoun-Jr-georgia-capitol-riot.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/18/us/W-McCall-Calhoun-Jr-georgia-capitol-riot.amp.html"
 type: article
-quality: 163
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: New York Times
+  domain: nytimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/200128121852-01-mike-braun-senate-trial-0127-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://static01.nyt.com/images/2021/02/10/us/00georgia/merlin_183430803_2af6c473-21c0-4c8a-95c3-ae784ea3dcc0-facebookJumbo.jpg"
+    width: 1050
+    height: 550
     isCached: true
 
 related:
@@ -463,6 +464,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "GOP senators signal they plan to acquit Trump despite visceral presentation by House Democrats"
+    excerpt: "The House impeachment managers presented senators with videos of their colleagues fleeing a pro-Trump mob, which breached the US Capitol shouting \"stop the steal.\" They showed the rioters searching for then-Vice President Mike Pence and House Speaker Nancy Pelosi, and rummaging through the senators'"
+    publishedDateTime: 2021-02-11T02:41:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/b3GHp4OCyyg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/10/politics/republican-senators-trump-impeachment/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/10/politics/republican-senators-trump-impeachment/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200128121852-01-mike-braun-senate-trial-0127-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Justice Department says an Oath Keepers leader waited for Trump's direction before Capitol attack"
     excerpt: "The Justice Department is now making clear that a leader among the Oath Keepers paramilitary group -- who planned and led others in the Capitol siege to attempt to stop the Biden presidency -- believed she was responding to the call from then-President Donald Trump himself.\n    \n"
     publishedDateTime: 2021-02-11T15:45:46Z
@@ -811,22 +828,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "How a Hardcore Liberal Lawyer Joined the Pro-Trump Mob"
-    excerpt: "W. McCall Calhoun Jr., who ran for office in Georgia as a Democrat, is a walking embodiment of his state’s political contradictions."
-    publishedDateTime: 2021-02-18T10:00:00Z
-    webUrl: "https://www.nytimes.com/2021/02/18/us/W-McCall-Calhoun-Jr-georgia-capitol-riot.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/18/us/W-McCall-Calhoun-Jr-georgia-capitol-riot.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/18/us/W-McCall-Calhoun-Jr-georgia-capitol-riot.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/02/10/us/00georgia/merlin_183430803_2af6c473-21c0-4c8a-95c3-ae784ea3dcc0-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Impeachment Case Aims to Marshal Outrage of Capitol Attack Against Trump"
     excerpt: "Armed with lessons from the last impeachment trial of Donald J. Trump, prosecutors plan a shorter, video-heavy presentation to confront Republicans with the fury they felt around the Capitol riot."
     publishedDateTime: 2021-02-07T20:46:00Z
@@ -980,6 +981,6 @@ related:
         height: 619
         isCached: true
 
-secured: "/QtdvgHoJ1vpSItLhrulRL8hQkuBGwaMeKFu0jzRkZfSYslNVILba4Pxl2g8BDNLBqcBQFJP9I4GDQK3+0YGphf3Naq9j28dwrszHYEyx2WOQx7GvSO9fOPeGFUSgx7ZHsFdl1FL4A+bWVUg2KPQ+6kBjOEABUwA5CUPHu66OUMyV3DbR1tav3cxVa1dGIB7g0T/kB3E5J+yjOfv1/lLh9EeAiV5Mm1cbicQauiEe0E1gfU1JDaa+Oa5souLG4qJ6e+rCpQerd6m+hv+GBJnh5EM/yK0TPTHeqGdUeqy8A1RV9kheGEh7dy7Ky3kmuVrFBvqZ19VyfE8ZaWkeJfOH6gGBc4fox95BWwxsIjNCy8=;c+793q7HWkjW+ymzZNLWHg=="
+secured: "vUKmsm73N0pPvB9pJCX/TCpgij4n5l8/rYYDbIOj6A5hC2DUD4e7ZBPhFp20Owhqxye0u7PgpXKXk+QzCBgZ7+/iaPUCbSe0IfBEh85COP+Ga1Aygj/ND7rPS2cdGijZselzjhj5vddBwGezBU7hmr2qY3vw7tuPMWkKdbobGekT/O9mHngCHotaSZiKzuz7TyODkFdCEFTrKDsFtdFm7EFYB0iKDMVjjvkTQou44k2tqnfaNButLZAx2MxYCkc+pj+8FYfetXQd5UafOClAQMlccG6Se+z7DtR9Is++9f05k9XjxPXDNFRIUBIOvNrACLoYlOiKbt8iM+zqYiniO/HtASxJUmCFJUMosH7fTRU=;an0+D7Lq6vP8EmTtIfGWEg=="
 ---
 

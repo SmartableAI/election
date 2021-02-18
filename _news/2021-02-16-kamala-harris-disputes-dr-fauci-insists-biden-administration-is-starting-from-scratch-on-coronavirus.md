@@ -171,6 +171,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Trump 'decimated' refugee program hampering Biden's historic goal: Advocates"
+    excerpt: "Those fleeing conflict and oppression will not feel the impact right away after the Trump administration all but dismantled the refugee admissions process, advocates said"
+    publishedDateTime: 2021-02-18T10:01:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-decimated-refugee-program-hampering-bidens-historic-goal/story?id=75911102"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-decimated-refugee-program-hampering-bidens-historic-goal/story?id=75911102"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-decimated-refugee-program-hampering-bidens-historic-goal/story?id=75911102"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 137
+    images:
+      - url: "https://s.abcnews.com/images/Politics/Darfur-gty-er-210217_1613612239317_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "White House says Biden is too busy to pay much attention to Trump impeachment trial"
     excerpt: "As Washington is consumed with the impeachment trial of the last president, the current one tries to look too busy to care."
     publishedDateTime: 2021-02-09T18:46:00Z

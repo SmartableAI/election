@@ -1,29 +1,33 @@
 ---
 category: news
-title: "Trump impeachment lawyers cite Kamala Harris comments | Charlotte Observer"
-excerpt: "Vice President Kamala Harris engaged in the same sort of strong political rhetoric that prompted President Donald Trump’s impeachment, his attorneys said Friday. Michael van der Veen, a Trump defense attorney,"
-publishedDateTime: 2021-02-12T21:10:00Z
-originalUrl: "https://www.charlotteobserver.com/news/politics-government/article249217590.html"
-webUrl: "https://www.charlotteobserver.com/news/politics-government/article249217590.html"
-ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/article249217590.html"
-cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article249217590.html"
+title: "Trump 'decimated' refugee program hampering Biden's historic goal: Advocates"
+excerpt: "Those fleeing conflict and oppression will not feel the impact right away after the Trump administration all but dismantled the refugee admissions process, advocates said"
+publishedDateTime: 2021-02-18T10:01:00Z
+originalUrl: "https://abcnews.go.com/Politics/trump-decimated-refugee-program-hampering-bidens-historic-goal/story?id=75911102"
+webUrl: "https://abcnews.go.com/Politics/trump-decimated-refugee-program-hampering-bidens-historic-goal/story?id=75911102"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-decimated-refugee-program-hampering-bidens-historic-goal/story?id=75911102"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-decimated-refugee-program-hampering-bidens-historic-goal/story?id=75911102"
 type: article
-quality: 88
+quality: 137
 heat: -1
 published: false
 
 provider:
-  name: Charlotte Observer
-  domain: charlotteobserver.com
+  name: ABC
+  domain: abcnews.go.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Kamala Harris
+  - Joe Biden
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/8dd160d4-750c-4437-88b7-70c19fe7d0e8/b3af9ac2-cb8d-46d9-bbaa-99e8b7980a99/1280x720/match/image.jpg"
-    width: 1280
-    height: 719
+  - url: "https://s.abcnews.com/images/Politics/Darfur-gty-er-210217_1613612239317_hpMain_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -170,22 +174,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/7080271c4672fde6611b453044c07e26cb01a4f1/0_215_3500_2102/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4326dbd22ff0acde66d92f9666493f27"
         width: 600
         height: 360
-        isCached: true
-  - title: "Trump 'decimated' refugee program hampering Biden's historic goal: Advocates"
-    excerpt: "Those fleeing conflict and oppression will not feel the impact right away after the Trump administration all but dismantled the refugee admissions process, advocates said"
-    publishedDateTime: 2021-02-18T10:01:00Z
-    webUrl: "https://abcnews.go.com/Politics/trump-decimated-refugee-program-hampering-bidens-historic-goal/story?id=75911102"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-decimated-refugee-program-hampering-bidens-historic-goal/story?id=75911102"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-decimated-refugee-program-hampering-bidens-historic-goal/story?id=75911102"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 137
-    images:
-      - url: "https://s.abcnews.com/images/Politics/Darfur-gty-er-210217_1613612239317_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "White House says Biden is too busy to pay much attention to Trump impeachment trial"
     excerpt: "As Washington is consumed with the impeachment trial of the last president, the current one tries to look too busy to care."
@@ -439,6 +427,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Trump impeachment lawyers cite Kamala Harris comments | Charlotte Observer"
+    excerpt: "Vice President Kamala Harris engaged in the same sort of strong political rhetoric that prompted President Donald Trump’s impeachment, his attorneys said Friday. Michael van der Veen, a Trump defense attorney,"
+    publishedDateTime: 2021-02-12T21:10:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/article249217590.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/article249217590.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article249217590.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 88
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/8dd160d4-750c-4437-88b7-70c19fe7d0e8/b3af9ac2-cb8d-46d9-bbaa-99e8b7980a99/1280x720/match/image.jpg"
+        width: 1280
+        height: 719
+        isCached: true
   - title: "Trump impeachment lawyers cite Kamala Harris comments | Raleigh News & Observer"
     excerpt: "Vice President Kamala Harris engaged in the same sort of strong political rhetoric that prompted President Donald Trump’s impeachment, his attorneys said Friday. Michael van der Veen, a Trump defense attorney,"
     publishedDateTime: 2021-02-12T20:10:00Z
@@ -570,6 +574,6 @@ related:
         height: 400
         isCached: true
 
-secured: "Ya3FU0+AV1Knpl5xP/G6Wqq0dCea4cfsfFYjqjEoKICb9T/Y0UwnAsNSLTHi1MdvIaq746Fpfw8SfXeXf5HPZqfYU15e3K1S9uJggLzl0Grmjx0lzoiwXoD2scEOCZGzk309jy4d/VkgOTdPSZs9HpvHZIwrLv5Kk98RVuxpD+/GGoZwUIIgWD6mQrVLTe38f4hWY3vbCFUITySVzOhRSz8hC4LLvNdkF2Tu93mxMO+uuvDdcq2k1HfaPXQpYJzqzzzV20iYyrTzhvtRI/p1d4jyBujIIIaPjbnkfABQc+hOMPQ/EfT26El2iDv9Bpb9nNYO13XEwU4DAH1QJm0ZI9+K3kK4YwH40LTCLIiPXkuaeFD3zvxjulu+rVPLjHQNUB/D48sK0K9Z2XzQIqQMSK0ZMmjukxbiRawuhu3Q9I+UauQi1ysagoxGJjeXb9nGS2MIFZ7Fd7KZdBbNtC/C8iRBaKRhEvVMv0fRXC5YOhoWZra77JhHPMJX9GYt4/QdAOhI3Fpzmql+pCRAL3PtBw==;Jp9Q0xHm+dvXdkgJdsGaBg=="
+secured: "xy93YKZd4E61KluduE79t6z2d4Mwec4rgboLBVZ41/KSH5oTpz8gRIHo462nfvb1ryiMpfPYAW9jr4Z6EV7D/G0oJYZ1sj+Xz+MWi8nO8jZKrORQnZgxrNgdY5xejgKUNfwiJpCJQ2DStOYF+KTy2yjByoz8SkPcgPTWFBnQB74FMKkkXSPwOSedaAfNhYwqbQPktVtJxZSJPYcaOCglRbdN6+TfTJC9EkxZMuweom5dHISWHksdtZ41ERpqZdOjBmvoqqX0E9JJEE1GcM2TiP6RbgjDatW1UDQH48h3pO8ec59NNnktv9c61hkOAzF6YQr+ioMZdzA6x+wmoOD1MWE2LrfDPXdL2vdt1V6b79E=;2AanwV/jbiegUnF9DT7lkw=="
 ---
 

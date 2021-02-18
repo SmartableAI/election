@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump hails Rush Limbaugh on 'Hannity': 'They all respected Rush'"
+    excerpt: "They all respected Rush' Former President Donald Trump joined \" Hannity \" on Wednesday night to remember conservative radio host Rush Limbaugh, who died at age 70 after a long battle with lung cancer ."
+    publishedDateTime: 2021-02-18T10:09:00Z
+    webUrl: "https://www.foxnews.com/us/trump-hails-rush-limbaugh-on-hannity-they-all-respected-rush"
+    ampWebUrl: "https://www.foxnews.com/us/trump-hails-rush-limbaugh-on-hannity-they-all-respected-rush.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/trump-hails-rush-limbaugh-on-hannity-they-all-respected-rush.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/GettyImages-1189876914.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Trump reveals story behind Rush Limbaugh's Presidential Medal of Freedom honor"
     excerpt: "Former President Donald Trump joined \"Hannity\" on Wednesday to remember conservative radio host Rush Limbaugh, who passed away at age 70 after a long battle with lung cancer."
     publishedDateTime: 2021-02-18T03:32:00Z

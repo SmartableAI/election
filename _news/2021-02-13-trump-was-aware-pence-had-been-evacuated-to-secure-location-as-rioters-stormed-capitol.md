@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/13/politics/trump-pence-capitol-riot
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/trump-pence-capitol-riot/index.html"
 type: article
 quality: 192
-heat: 1372
+heat: 1392
 published: true
 
 provider:
@@ -809,6 +809,22 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2021/02/15/nyregion/00nytrump-tower1/00nytrump-tower1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "How a Hardcore Liberal Lawyer Joined the Pro-Trump Mob"
+    excerpt: "W. McCall Calhoun Jr., who ran for office in Georgia as a Democrat, is a walking embodiment of his state’s political contradictions."
+    publishedDateTime: 2021-02-18T10:00:00Z
+    webUrl: "https://www.nytimes.com/2021/02/18/us/W-McCall-Calhoun-Jr-georgia-capitol-riot.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/18/us/W-McCall-Calhoun-Jr-georgia-capitol-riot.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/18/us/W-McCall-Calhoun-Jr-georgia-capitol-riot.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/10/us/00georgia/merlin_183430803_2af6c473-21c0-4c8a-95c3-ae784ea3dcc0-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true
