@@ -222,6 +222,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to announce billions in aid for global vaccine effort at G7"
+    excerpt: "President Joe Biden will unveil a $2 billion US contribution to a global coronavirus vaccine initiative when he speaks with the leaders of the world's leading market economies on Friday, according to senior administration officials, boosting efforts to distribute shots to low- and middle-income countries"
+    publishedDateTime: 2021-02-18T22:13:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hofBAqHSn-E/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/18/politics/joe-biden-coronavirus-vaccine-covax-g7/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/18/politics/joe-biden-coronavirus-vaccine-covax-g7/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210217211554-02-biden-immigration-legislation-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden speaks with Chinese President Xi Jinping for first time as President"
     excerpt: "President Joe Biden spoke with China's President Xi Jinping late Wednesday, according to a senior administration official, their first call since Biden took office.\n    \n"
     publishedDateTime: 2021-02-11T02:39:57Z
@@ -746,6 +762,6 @@ related:
         height: 2665
         isCached: true
 
-secured: "PiE9H5BnRo658HgXKWS+V18HpkRUv8ZG8qqja0UMUHNLrYjyjw3VBEkqDvmDt8bsD7I/LUDsAjnGlEjg+SWTO0Wr1gTOWcV4136NtXPLwI/W3jSlke8eWMOm/WfwdXyN3wQqS1Z2+3XcrQgYfdJDngV7ULmrvP437FEdTHn2HkiAt9Zud5lOcVLO3PQNDmZKobVm54AP01YpiEm2HBOVKZc9P/GoW9I7wQQrAnEbnfSZhmN/I2mn3lTigGU5CVJoqw94ZF3tcKN7/7QkMdqY3njwtjANYitiNv/8mP52fAnuG4BEp1o6nv5aWPgtNKvoTDGhLaMW1SzZkrlmiY9FLX0RRSJA1mrs/jUAj6Z7zBw=;mu5Dxw/MKYmCEDgLEufwgQ=="
+secured: "aEJ3Vu2xowSU1N7k2PpWTfe7egIv6/2CsSxoT7onyYRGJ6dFGfn+D9oEPMr/LpcNC8kDEOftCu9gUuXl3P7Ay5PaheXay9mgdo/h+D0VYpJvX4D/oeu865k6zHTvocY/cxZbgRmz2z5rAnXr7dSCQRjXBJL7dAvLgxNFNI5HMscZRpmWJOFBYPp8WvY6oZAWoaGew5SCzF6wkLSbfntxZvyoURjkJbAOxq9D/ofYT6C+63iDpDkgKpkReSFbB9WxQ+a/bqNKLIrg4LF/7VFGsJLk4iYBcWlrtirjgcZ38oZGk3V4rJCZlm28VZp/wWGJgzQ2glp2NUEHSgiU/uOkL4p0OuVjcMPo1AGKcfCup8bmLxqZBlmHFE7+LQNqYZKNkx58GswApWRKWKhm9wBJ1PmKr/L2YV7IVBuAMFR8RLIZmkChNZZ+yi2IvCUA6zMv1sDkwzYpzGJ+TzUo4gHf+6AbayoRO7y/BFmdtRVquizL/Ssz6/4QNhuP/GDnZ5WaqU4ZiR/AdUoAGH7w28xF2A==;iJVttkhV0wxc80wa5Atk0w=="
 ---
 

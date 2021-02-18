@@ -1,12 +1,14 @@
 ---
 category: news
-title: "Biden to order review of U.S. reliance on overseas supply chains for semiconductors, rare earths - CNBC"
-excerpt: "U.S. President Joe Biden participates in a CNN town hall in Milwaukee, Wisconsin, U.S., February 16, 2021. REUTERS/Leah Millis"
-publishedDateTime: 2021-02-18T18:48:00Z
-originalUrl: "https://www.reuters.com/news/picture/biden-to-order-review-of-us-reliance-on-idUSKBN2AI2HJ"
-webUrl: "https://www.reuters.com/news/picture/biden-to-order-review-of-us-reliance-on-idUSKBN2AI2HJ"
+title: "Biden to order review of U.S. reliance on overseas supply chains for semiconductors, rare earths: CNBC"
+excerpt: "U.S. President Joe Biden will direct his administration to conduct a review of key U.S. supply chains including semiconductors, high-capacity batteries, medical supplies and rare earth metals, CNBC reported on Thursday."
+publishedDateTime: 2021-02-18T22:08:00Z
+originalUrl: "https://www.reuters.com/article/us-autos-semiconductors-biden-order/biden-to-order-review-of-u-s-reliance-on-overseas-supply-chains-for-semiconductors-rare-earths-cnbc-idUSKBN2AI2HJ"
+webUrl: "https://www.reuters.com/article/us-autos-semiconductors-biden-order/biden-to-order-review-of-u-s-reliance-on-overseas-supply-chains-for-semiconductors-rare-earths-cnbc-idUSKBN2AI2HJ"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AI2HJ"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AI2HJ"
 type: article
-quality: 89
+quality: 109
 heat: -1
 published: false
 
@@ -23,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210218&t=2&i=1552040907&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEH1H1FV"
-    width: 810
-    height: 544
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210218&t=2&i=1552040907&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1H1FV"
+    width: 811
+    height: 545
     isCached: true
 
 related:
@@ -475,6 +477,6 @@ related:
         height: 600
         isCached: true
 
-secured: "4EdFte1jMtBfDYilQxwwOzv+xJ0IXMA+NTrkFsGl2M13zJS0YdNnlscaozPztricl2rZsIy7NUDSRawsuJ7aiaPB2StcDIK2bR3x4dWsoNjH2exHheFBJh1q4OSHF9xQHms9dOdSmlWtyoGQGiBY3npaCymR30KfZUux1sERuhr6zmqgbPzNICmIXpcc6zQZXPDt+S40yvriYToJjp3soFeaV9tcyHicJ5jcEDQONIK4gnuLjExQMThm/l33ovnq1uWml86ipOnBUEc6WJtgb5Ty961Gbq5ECYE1/nv/RZS6wxUV+ldQNtl7wgqzSV1vB5UEoaQnAlVW3JapEFwGTEPVIUhT/yE/0wu6h8O3wg/Htwm04T1Oum5Q2Bg/jX2MmT+RG8lQ7s5YIPKEWCUizQ4idBjD7bD1ITs3bkTGx5as98vhjz8da1JxzrEDYfITRiwgHn5kJmcwuZCUpazYnOUbGJoJs4bmWtlM2QJI6uELAfLEayDMNjmxWGozheJyEZ6X5d5EKOkMIqkxUFz4Lg==;glg5OGExZEwWnGhmMCMrVw=="
+secured: "ihp7z1Y/jcy/yGIaQBCXruKcCPcVUxgsNuHzv/4EfG/kuhWXNS65vPA6i5biuq9dkfYqNLoBqUZb14Qut4sqBf94fuYd3CG4peLnwdT0xh1HmazTP8iOJeM1AfZ4swdi0voAD7zG23aBU1/wwXvh9tXQtsfZ9f5XOVHO7ULgEBHUqwshLwtX3DJYgMo8uXSo7QoXjMQtjU0h71KbZRxnY7+FHQjaoxI8lHMpafJuMU7sZmduyYDYX6Of2uRrEhDwGHE+1wD0p0/vH+xXtlztJf9Rrgd5peW5SDH4nv3r0cSJLvpQ1WfrA7Pyw8+nA28pazghn0tnciA2XldqKTugoHnONtDKJqEnCIwAcHP+l5s=;eQX6sKku9zpPqgl0N7eQsg=="
 ---
 

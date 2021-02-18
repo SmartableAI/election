@@ -47,22 +47,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Graham: McConnell 'put a load on Republicans' back' with anti-Trump speech"
-    excerpt: "Sen. Lindsey Graham, R-S.C., called out Senate Minority Leader Mitch McConnell for speaking out against former President Donald Trump after voting to acquit Trump at his impeachment trial."
-    publishedDateTime: 2021-02-14T15:27:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cf1fg_Ao2fQ/graham-mcconnell-anti-trump-speech"
-    ampWebUrl: "https://www.foxnews.com/politics/graham-mcconnell-anti-trump-speech.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/graham-mcconnell-anti-trump-speech.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b66a74cb-363c-4de7-926e-27d09edbeac7/a6fa7d29-9a47-4907-9397-422056e57fe2/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Trump will 'have a place in history' for Capitol riot but remains 'most popular figure' in GOP: Graham"
     excerpt: "Former President Donald Trump will \"have a place in history\" for his role leading up to the riot at the U.S. Capitol last month, but he stills remains the \"most popular figure\" in the Republican Party, Sen. Lindsey Graham said Sunday."
     publishedDateTime: 2021-02-07T19:23:27Z
@@ -94,22 +78,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/09d1af85-4b2e-4ebf-acac-7dba297fe264/cde0ffc2-c0b5-4886-9ef0-8e6de836adaf/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "North Carolina GOP censures Sen. Richard Burr over vote to convict Trump"
-    excerpt: "The Central Committee of the North Carolina Republican Party on Monday night censured Sen. Richard Burr for voting to convict former President Donald Trump at his Senate impeachment trial. The"
-    publishedDateTime: 2021-02-16T13:57:00Z
-    webUrl: "https://nypost.com/2021/02/16/nc-gop-censures-sen-richard-burr-over-vote-to-convict-trump/"
-    ampWebUrl: "https://nypost.com/2021/02/16/nc-gop-censures-sen-richard-burr-over-vote-to-convict-trump/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/16/nc-gop-censures-sen-richard-burr-over-vote-to-convict-trump/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 134
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/richard-burr-01.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
         isCached: true
 
 secured: "2G+qMpqm2sLGEQcUxPi4CFH/oMZ3MVYghhWO3uavg4psFaYIlJ2srCsiUHw/zosA8LcK9diAYsdTVFleffaAox4vejZ/YOgzu6a0Hg6g0IRVAPGlgmA2yTHP2iRn8Hu6b8isvYZ5/FBu46YfhYwIeV+bRKkHW6lWPn0xKZzrC9gGhfFqrWOr2tP3H5rEUcV/U8WU4rvH1vKrTu6YMnx4A2jrmUSZOoqsCyYM0mBVVCWiTo22ygVZWNdXgYRVB4IUMZqnbogpm2knPtNdA7s485CmyQOOZGH/hpejQjegkSSENfqNB69c9sbZTv1cLCkyxNva8SKKIPLWE3z1OcpNgX+TiuPUq5hQ3G9SCu+xbfA=;AYAJWhgqSLakrvz5X1PBJg=="

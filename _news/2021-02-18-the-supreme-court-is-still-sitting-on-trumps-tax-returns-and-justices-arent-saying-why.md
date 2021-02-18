@@ -79,22 +79,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "These GOP lawmakers are facing backlash from state parties for not backing Trump"
-    excerpt: "State Republican parties are taking action against former President Donald Trump.\n    \n"
-    publishedDateTime: 2021-02-15T16:14:38Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/elKhVCx4XWc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/15/politics/republicans-facing-censure-trump-impeachment/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/15/politics/republicans-facing-censure-trump-impeachment/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 170
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210215102959-sasse-burr-cassidy-rice-cheney-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "How the Trump Era Broke the Sunday-Morning News Show"
     excerpt: "Any number of hallowed political and media institutions fell apart. So why should the most hallowed political-media institution of them all escape unscathed?"
     publishedDateTime: 2021-02-11T10:00:00Z

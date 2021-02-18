@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/16/politics/immigration-asylum-trump
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/16/politics/immigration-asylum-trump-rule/index.html"
 type: article
 quality: 175
-heat: 295
+heat: 275
 published: true
 
 provider:
@@ -60,22 +60,6 @@ related:
     quality: 170
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201225192217-karl-racine-headshot-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "These GOP lawmakers are facing backlash from state parties for not backing Trump"
-    excerpt: "State Republican parties are taking action against former President Donald Trump.\n    \n"
-    publishedDateTime: 2021-02-15T16:14:38Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/elKhVCx4XWc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/15/politics/republicans-facing-censure-trump-impeachment/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/15/politics/republicans-facing-censure-trump-impeachment/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 170
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210215102959-sasse-burr-cassidy-rice-cheney-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

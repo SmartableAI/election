@@ -63,38 +63,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Burr faces censure by North Carolina GOP for voting to convict Trump"
-    excerpt: "The North Carolina Republican Party will meet Monday to vote on whether to censure Sen. Richard Burr for his vote to convict former President Donald Trump during his second impeachment trial -- a move that would make him the latest GOP senator to be reprimanded by his state party for siding with Democrats"
-    publishedDateTime: 2021-02-15T12:35:28Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rljBjo1-TfU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/15/politics/richard-burr-north-carolina-gop-censure-impeachment/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/15/politics/richard-burr-north-carolina-gop-censure-impeachment/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200320161313-01-richard-burr-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Fallout from Trump's acquittal exposes deepening rift within GOP "
-    excerpt: "Donald Trump's acquittal in the Senate's impeachment trial -- and the backlash now facing Republicans who voted to convict him -- have exposed the deepening rift within the GOP over whether to continue to fully embrace the former President or seek to move past his divisive brand of politics.\n    \n"
-    publishedDateTime: 2021-02-16T00:26:52Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NR_sytNWH2E/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/15/politics/republican-party-trump-midterms/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/15/politics/republican-party-trump-midterms/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210213202046-trump-impeachment-vote-acquittal-day-5-wrap-trial-two-nobles-nr-vpx-00021619-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Inside the Senate: Sketches from a dramatic Day 5 of the Trump impeachment trial"
     excerpt: "Senators voted on a surprise move by the House managers on Saturday to allow for witnesses in the impeachment trial of former President Donald Trump.\n    \n"
     publishedDateTime: 2021-02-13T20:10:09Z
@@ -140,38 +108,6 @@ related:
     quality: 168
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210203063618-file-steve-bannon-2020-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "McConnell defends vote to acquit Trump: 'Our job was to defend the Constitution and respect its limits'"
-    excerpt: "Senate Republican leader Mitch McConnell on Monday rebuked Donald Trump's incitement of the January 6 insurrection at the US Capitol while doubling down on his vote to acquit the former President of the charge.\n    \n"
-    publishedDateTime: 2021-02-16T02:22:37Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PQ_8PZyjsXo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/15/politics/mcconnell-trump-acquit-op-ed-wall-street-journal/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/15/politics/mcconnell-trump-acquit-op-ed-wall-street-journal/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 159
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210215202426-mcconnell-210213-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "GOP lawmaker tied to surprise call for witnesses in Trump impeachment trial has broken with party before"
-    excerpt: "The Republican congresswoman who triggered a surprise call for witnesses in the waning hours of former President Donald Trump's second impeachment trial has logged a decade in Congress -- at times breaking from her party and standing up to Trump.\n    \n"
-    publishedDateTime: 2021-02-13T19:55:13Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/odi26vg7RcI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/13/politics/jaime-herrera-beutler-senate-impeachment-trial/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/jaime-herrera-beutler-senate-impeachment-trial/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 158
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210213112620-01-rep-jaime-herrera-beutler-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

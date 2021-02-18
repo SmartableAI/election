@@ -28,21 +28,69 @@ images:
     isCached: true
 
 related:
-  - title: "GOP Sen. Cassidy: Trump’s 'force wanes' following Capitol riot"
-    excerpt: "Sen. Bill Cassidy, R-La., one of seven Senate Republicans who voted to convict former President Trump in his second impeachment trial, said on Sunday that he believes Trump’s “force wanes,” arguing that the Republican Party wants “a leader who’s accountable and a leader who they can trust.”"
-    publishedDateTime: 2021-02-14T21:42:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TAKo99kjvHg/gop-sen-cassidy-trumps-force-wanes-following-senate-impeachment-trial"
-    ampWebUrl: "https://www.foxnews.com/politics/gop-sen-cassidy-trumps-force-wanes-following-senate-impeachment-trial.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-sen-cassidy-trumps-force-wanes-following-senate-impeachment-trial.amp"
+  - title: "Trump-McConnell spat leads Rick Scott, Senate GOP reelection chair, to seek unity"
+    excerpt: "Amid a very vocal war of words between the most powerful GOP leader in Congress and the most popular and influential Republican politician among the party’s base, the chair of the reelection arm of the Senate GOP is calling for unity as Republicans aim to win back the chamber’s majority next year."
+    publishedDateTime: 2021-02-18T21:08:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4qkQ8V032UE/trump-mcconnell-spat-rick-scott-seeks-unity"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-mcconnell-spat-rick-scott-seeks-unity.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-mcconnell-spat-rick-scott-seeks-unity.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "7 Republican senators vote to convict Trump on incitement charge"
+    excerpt: "Former President Trump was acquitted Saturday in the Senate on the impeachment charge of inciting the Jan. 6 Capitol riot – though seven Republican senators still voted with Democrats to convict."
+    publishedDateTime: 2021-02-13T20:54:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_3x6_Q0T9mM/republican-senators-vote-to-convict-trump-on-incitement-charge"
+    ampWebUrl: "https://www.foxnews.com/politics/republican-senators-vote-to-convict-trump-on-incitement-charge.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republican-senators-vote-to-convict-trump-on-incitement-charge.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/340/340/15774946_869011851568_820056121039046290_o-e1585243988433.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "NC GOP expected to censure Sen. Burr over Trump impeachment vote"
+    excerpt: "The North Carolina GOP Central Committee is expected to censure Sen. Richard Burr, R-N.C., on Monday night over his impeachment vote — making him the latest Republican to face home state backlash after breaking with former President Donald Trump."
+    publishedDateTime: 2021-02-15T17:18:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-dSgHnncL3Y/nc-gop-censure-richard-burr-impeachment-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/nc-gop-censure-richard-burr-impeachment-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nc-gop-censure-richard-burr-impeachment-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/05/640/320/Richard-Burr-2.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump trashes Mitch McConnell in searing new statement"
+    excerpt: "Former President Trump released a scathing statement Tuesday afternoon targeting Senate Minority leader Mitch McConnell. "
+    publishedDateTime: 2021-02-16T22:06:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ROwtXHYB3cM/trump-trashes-mitch-mcconnell-in-searing-new-statement"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-trashes-mitch-mcconnell-in-searing-new-statement.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-trashes-mitch-mcconnell-in-searing-new-statement.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/12705019-b2cd-4cc2-8acd-3a31ff1520a0/4af5124e-0b28-456d-a628-83df78e1dc43/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Graham: McConnell 'put a load on Republicans' back' with anti-Trump speech"
     excerpt: "Sen. Lindsey Graham, R-S.C., called out Senate Minority Leader Mitch McConnell for speaking out against former President Donald Trump after voting to acquit Trump at his impeachment trial."
@@ -60,53 +108,275 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "North Carolina Republicans censure Senator Richard Burr over vote to convict Trump"
-    excerpt: "The North Carolina GOP Central Committee on Monday night censured home state Sen. Richard Burr over his vote his impeachment vote in the Senate trial of former President Donald Trump."
-    publishedDateTime: 2021-02-16T01:55:07Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/R_KUZlRZ2gA/north-carolina-republican-censure-burr-over-trump-impeachment"
-    ampWebUrl: "https://www.foxnews.com/politics/north-carolina-republican-censure-burr-over-trump-impeachment.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/north-carolina-republican-censure-burr-over-trump-impeachment.amp"
+  - title: "McConnell rips Trump, says actions 'unconscionable' but trial was unconstitutional"
+    excerpt: "Senate Minority Leader Mitch McConnell on Saturday said that former President Donald Trump's actions after the presidential election were \"unconscionable\" despite his vote to acquit the former president of the impeachment charge against him. "
+    publishedDateTime: 2021-02-13T21:50:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7sBFmcOv9v4/mcconnell-rips-trump-says-actions-unconscionable-but-trial-was-unconstitutional"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-rips-trump-says-actions-unconscionable-but-trial-was-unconstitutional.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-rips-trump-says-actions-unconscionable-but-trial-was-unconstitutional.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 169
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Trump will 'have a place in history' for Capitol riot but remains 'most popular figure' in GOP: Graham"
-    excerpt: "Former President Donald Trump will \"have a place in history\" for his role leading up to the riot at the U.S. Capitol last month, but he stills remains the \"most popular figure\" in the Republican Party, Sen. Lindsey Graham said Sunday."
-    publishedDateTime: 2021-02-07T19:23:27Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0ZvgKYTo-L8/trump-impeachment-capitol-riot-most-popular-figure-gop-lindsey-graham"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-capitol-riot-most-popular-figure-gop-lindsey-graham.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-capitol-riot-most-popular-figure-gop-lindsey-graham.amp"
+  - title: "McConnell threatens to oppose Trump-backed Senate candidates if they are not electable"
+    excerpt: "Senate Minority Leader Mitch McConnell is taking flak from former President Donald Trump's closest allies."
+    publishedDateTime: 2021-02-14T18:21:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_huSjInpKGg/mcconnell-trump-2022-senate-elections-republicans"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-trump-2022-senate-elections-republicans.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-trump-2022-senate-elections-republicans.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/13877d8a-AP20365749407878-e1609436276614.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "McConnell says he was defending Constitution, not Trump, with impeachment acquittal vote"
+    excerpt: "Senate Minority Leader Mitch McConnell on Tuesday said he was defending the U.S. Constitution, and not Donald Trump, by voting to acquit the former president of an impeachment charge of inciting an insurrection."
+    publishedDateTime: 2021-02-16T15:59:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/W2f_gghO7YM/mcconnell-op-ed-trump-impeachment-acquittal-vote"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-op-ed-trump-impeachment-acquittal-vote.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-op-ed-trump-impeachment-acquittal-vote.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "McConnell will vote to acquit Trump in second impeachment trial, as day five gets underway"
+    excerpt: "Senate GOP Leader Mitch McConnell will vote to acquit former President Donald Trump in his second impeachment trial, Fox News has learned, as day five of the trial is now underway."
+    publishedDateTime: 2021-02-13T14:52:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KZzIpxKcFZc/mcconnell-vote-acquit-trump-second-impeachment-trial"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-vote-acquit-trump-second-impeachment-trial.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-vote-acquit-trump-second-impeachment-trial.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/db8c4e36-b0cc-4a00-9e4a-74cc2b8afb53/aa38912e-f605-4e24-8bc3-6ca4cb8b4870/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Pelosi blasts McConnell and 'cowardly group of Republicans' in Senate after Trump impeachment acquittal"
+    excerpt: "House Speaker Nancy Pelosi, D-Calif., blasted Senate Republicans as cowards who refused to stand up to former President Trump and find him guilty in the impeachment trial."
+    publishedDateTime: 2021-02-13T22:31:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Zi5DGZBecbI/pelosi-blasts-mcconnell-and-cowardly-group-of-republicans-in-senate-after-trump-impeachment-acquittal"
+    ampWebUrl: "https://www.foxnews.com/politics/pelosi-blasts-mcconnell-and-cowardly-group-of-republicans-in-senate-after-trump-impeachment-acquittal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-blasts-mcconnell-and-cowardly-group-of-republicans-in-senate-after-trump-impeachment-acquittal.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 159
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ce0ff8aa-4ebc-4f0a-b188-e29d6303380f/f2169d82-7384-44cf-93f0-ae8b40aab209/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e707def1-cb02-46ed-8a29-b11cedc07d47/64c77e8b-0a95-4028-ab57-35c0267f98eb/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Pence reportedly 'angry' at Trump for not asking about his safety during Capitol riot: Chris Wallace"
-    excerpt: "Former Vice President Mike Pence feels \"residual bitterness\" toward former President Donald Trump over his lack of concern for Pence's safety during the deadly Jan. 6 riot at the Capitol, \"Fox News Sunday\" host Chris Wallace told \"The Story\" on Wednesday."
-    publishedDateTime: 2021-02-10T23:15:00Z
-    webUrl: "https://www.foxnews.com/media/wallace-pence-trump-capitol-riot-safety-impeachment-trial"
-    ampWebUrl: "https://www.foxnews.com/media/wallace-pence-trump-capitol-riot-safety-impeachment-trial.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/wallace-pence-trump-capitol-riot-safety-impeachment-trial.amp"
+  - title: "McConnell silent in aftermath of Trump broadside as ex-president threatens to get involved in GOP primaries"
+    excerpt: "Senate Minority Leader Mitch McConnell was silent Tuesday night into Wednesday morning after former President Donald Trump lit into him in a lengthy statement calling on Republican senators to abandon McConnell and threatening primary challenges to incumbents."
+    publishedDateTime: 2021-02-17T12:30:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JvuXcG5r3-c/mcconnell-silent-in-aftermath-of-trump-broadside-as-gop-divisions-deepen"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-silent-in-aftermath-of-trump-broadside-as-gop-divisions-deepen.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-silent-in-aftermath-of-trump-broadside-as-gop-divisions-deepen.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 135
+    quality: 157
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/09d1af85-4b2e-4ebf-acac-7dba297fe264/cde0ffc2-c0b5-4886-9ef0-8e6de836adaf/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump-McConnell spat leads Rick Scott, Senate GOP reelection chair, to seek unity"
+    excerpt: "Amid a very vocal war of words between the most powerful GOP leader in Congress and the most popular and influential Republican politician among the party’s base, the chair of the reelection arm of the Senate GOP is calling for unity as Republicans aim to win back the chamber’s majority next year."
+    publishedDateTime: 2021-02-18T21:12:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-mcconnell-spat-rick-scott-seeks-unity"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-mcconnell-spat-rick-scott-seeks-unity.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-mcconnell-spat-rick-scott-seeks-unity.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 145
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c6e47dd9-961d-4e8f-aecb-65b9d3667835/0afb7e7e-f5e0-482d-a0d1-73f67d8bcd30/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Pro-Trump Candidates Launch Early Senate, Governor Bids"
+    excerpt: "Republican hopefuls are betting that former President Donald Trump’s enduring popularity with the GOP base can help propel them into office."
+    publishedDateTime: 2021-02-15T10:35:00Z
+    webUrl: "https://www.wsj.com/articles/pro-trump-candidates-launch-early-senate-governor-bids-11613385001"
+    ampWebUrl: "https://www.wsj.com/amp/articles/pro-trump-candidates-launch-early-senate-governor-bids-11613385001"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pro-trump-candidates-launch-early-senate-governor-bids-11613385001"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-299053/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "State GOP may censure Sen. Richard Burr over Trump vote"
+    excerpt: "The North Carolina Republican Party is saying it will vote later Monday on whether to censure GOP Sen. Richard Burr for voting to convict former President Donald Trump at his Senate impeachment"
+    publishedDateTime: 2021-02-15T16:39:00Z
+    webUrl: "https://nypost.com/2021/02/15/state-gop-may-censure-sen-richard-burr-over-trump-vote/"
+    ampWebUrl: "https://nypost.com/2021/02/15/state-gop-may-censure-sen-richard-burr-over-trump-vote/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/15/state-gop-may-censure-sen-richard-burr-over-trump-vote/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/646324458.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump Criticizes McConnell, Calling Him a ‘Political Hack’"
+    excerpt: "Former President Donald Trump criticized Mitch McConnell following the Senate minority leader’s blistering condemnation of Mr. Trump’s actions leading up to the Jan. 6 Capitol riot."
+    publishedDateTime: 2021-02-16T22:29:00Z
+    webUrl: "https://www.wsj.com/articles/trump-criticizes-mcconnell-in-lengthy-statement-calling-him-a-political-hack-11613513959"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-criticizes-mcconnell-in-lengthy-statement-calling-him-a-political-hack-11613513959"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-criticizes-mcconnell-in-lengthy-statement-calling-him-a-political-hack-11613513959"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-299929/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Trump urges ouster of ‘unsmiling political hack’ Mitch McConnell"
+    excerpt: "Former President Donald Trump on Tuesday issued a blistering attack on the most powerful Republican in post-Trump Washington, calling Senate Minority Leader Mitch McConnell an “unsmiling political"
+    publishedDateTime: 2021-02-16T22:29:00Z
+    webUrl: "https://nypost.com/2021/02/16/trump-urges-ouster-of-unsmiling-political-hack-mcconnell/"
+    ampWebUrl: "https://nypost.com/2021/02/16/trump-urges-ouster-of-unsmiling-political-hack-mcconnell/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/16/trump-urges-ouster-of-unsmiling-political-hack-mcconnell/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/trump-mcconnell.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Mitch McConnell says Trump could play ‘constructive’ role for Republicans"
+    excerpt: "Senate Minority Leader Mitch McConnell said Monday that former President Donald Trump could play a “constructive” role for Republicans after his acquittal for allegedly inciting the"
+    publishedDateTime: 2021-02-15T23:34:00Z
+    webUrl: "https://nypost.com/2021/02/15/mcconnell-trump-could-play-constructive-role-for-republicans/"
+    ampWebUrl: "https://nypost.com/2021/02/15/mcconnell-trump-could-play-constructive-role-for-republicans/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/15/mcconnell-trump-could-play-constructive-role-for-republicans/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 134
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/mitch.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Donald Trump Impeachment Trial Still Has GOP Sen. Bill Cassidy Asking Questions"
+    excerpt: "The Louisiana Republican has emerged as a wild card and most visible swing vote in the trial over whether former President Donald Trump incited the riot at the Capitol last month."
+    publishedDateTime: 2021-02-12T15:36:00Z
+    webUrl: "https://www.wsj.com/articles/donald-trump-impeachment-trial-still-has-gop-sen-bill-cassidy-asking-questions-11613144064"
+    ampWebUrl: "https://www.wsj.com/amp/articles/donald-trump-impeachment-trial-still-has-gop-sen-bill-cassidy-asking-questions-11613144064"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/donald-trump-impeachment-trial-still-has-gop-sen-bill-cassidy-asking-questions-11613144064"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 131
+    images:
+      - url: "https://images.wsj.net/im-298558/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Trump Criticizes McConnell in Lengthy Statement, Calling Him a ‘Political Hack’"
+    excerpt: "Former President Donald Trump criticized Mitch McConnell following the Senate minority leader’s blistering condemnation of Mr. Trump’s actions leading up to the Jan. 6 Capitol riot."
+    publishedDateTime: 2021-02-16T22:33:00Z
+    webUrl: "https://www.wsj.com/articles/trump-criticizes-mcconnell-in-lengthy-statement-calling-him-a-political-hack-11613513959?mod=breakingnews"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-criticizes-mcconnell-in-lengthy-statement-calling-him-a-political-hack-11613513959"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-criticizes-mcconnell-in-lengthy-statement-calling-him-a-political-hack-11613513959"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 131
+    images:
+      - url: "https://images.wsj.net/im-299929/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "McConnell Doesn’t Care About Trump Brand in 2022, He Just Wants Electable Candidates"
+    excerpt: "Senate Minority Leader Mitch McConnell hopes to regain Republican control of the Senate by channeling the energy among Trump supporters while limiting extreme elements in the party."
+    publishedDateTime: 2021-02-15T23:25:00Z
+    webUrl: "https://www.wsj.com/articles/mcconnell-atop-a-fractious-party-is-open-to-jumping-into-primary-races-11613423935"
+    ampWebUrl: "https://www.wsj.com/amp/articles/mcconnell-atop-a-fractious-party-is-open-to-jumping-into-primary-races-11613423935"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/mcconnell-atop-a-fractious-party-is-open-to-jumping-into-primary-races-11613423935"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 128
+    images:
+      - url: "https://images.wsj.net/im-299178/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Graham weighs in on McConnell-Trump feud, says he's 'more worried’ about 2022 than ever"
+    excerpt: "S.C., voiced Mitch McConnell and Donald Trump have got to knock off the arguing for the future of the Republican Party."
+    publishedDateTime: 2021-02-17T04:26:00Z
+    webUrl: "https://www.foxnews.com/politics/lindsey-graham-trump-mitch-mcconnell-feud"
+    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-trump-mitch-mcconnell-feud.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-trump-mitch-mcconnell-feud.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 127
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/da97c52a-4bb1-48f9-b5cc-73cd7389b02d/ec27e3c1-79f8-44e2-b407-53aa5269e3fc/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump Legal Team Weighs Recasting Its Defense at Senate Trial"
+    excerpt: "Former President Donald Trump's defense team is considering changing its planned lineup to give David Schoen a larger role, after the team's presentation earlier this week [drew harsh criticism]( from"
+    publishedDateTime: 2021-02-11T16:49:00Z
+    webUrl: "https://www.wsj.com/livecoverage/trump-second-impeachment-trial-2021-02-11/card/ltOYroszjBeHa8lJ3CNF"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 115
+    images:
+      - url: "https://images.wsj.net/im-298019?size=1.5"
+        width: 1280
+        height: 853
         isCached: true
 
 secured: "LkneeakWfyRI6xmd/On7aN1CubUOHe7sLc4iMcSk40f9qFqTu7H38Wi6uJ9QibCVx0V3F63/yU/Vn3aRqKFyP1QqLFbsNIE3UGQMkXLgs1XEPY9Q2NNeYiGcUxt4vztij8hsIThgQ44+4CmQRYhXR4okSBTK/6tIqm4YHeIxsjJdl0DiCX7vQb1lCTbdgwrWMV4RUAVXLl+zmrLokGeH7y0Ow9xDC/nMqWaj4pJwbz68BuzxL8AL9MmPAiPlvIi+PnesuSGQSWR3h8F+FHdSRnk5C0jRm6sTLZ+XjUYObq0+HbxZOi7QNH1ibt7km+VXcv+CGn+Bmi/G6T/4vhfjSxIdF4QYG1Qm2WMvQKglNq8=;zLgoNZt2557GIxC3iQGIUg=="

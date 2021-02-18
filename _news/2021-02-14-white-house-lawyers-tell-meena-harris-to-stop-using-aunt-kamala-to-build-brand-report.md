@@ -112,6 +112,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Kamala Harris Is Selling Her San Francisco Apartment"
+    excerpt: "The Vice President’s property in the city’s SOMA neighborhood had been asking $799,000."
+    publishedDateTime: 2021-02-18T22:38:00Z
+    webUrl: "https://www.wsj.com/articles/kamala-harris-is-selling-her-san-francisco-apartment-11613687756"
+    ampWebUrl: "https://www.wsj.com/amp/articles/kamala-harris-is-selling-her-san-francisco-apartment-11613687756"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/kamala-harris-is-selling-her-san-francisco-apartment-11613687756"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-301237/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "MhfmTFK9YTf/1Yxm3fi0OY4hSFqZR5J3JaXYCD6ukuZ1+PRbIRr8BhPei3VznnOUhOUBdA3x1IXVe9x8TTAC7aHvk/78UT8LyeAjdxJeU3+I83xM1wWehPfTuUM9gve8CYmwhrJpn1cMIVyVQgBR/mXXKIkC1x0pTVz/3vaeou/Wr/COdr36yPUB33bJ6hpg8S/HVHIjDNjlZGoTu0bPh29kcqeqFWPnF3ix/KZeM1cf9ssBNsSrEpIEkrP48tm/OuGETmCh5xP2EQrlPg40ZRFEIrWiEBcZ8kk/bIBvu01R3+Ds4+YWRTHV+9qWhHKYLZUgg2iOIBU1zlvYToKwf19cIV76KEVPle0tiaJGLF1mNp32JY5vvO0BfX+Pg7vu0oT6nizRHioUn4yiibgyHkshv+c48nnlW6Sh0BBbxw0FYSaahMp97Z9o0vtpaic4SJIXah1RFEuBMFfDPLYpUtRWEomCkRRd2/fH/5rbSyUqN1vCja5MToXkdf6two2bQKflg710QGfm/j7etVHOsg==;pBYXWe0mDbDBDZUtG2PKrg=="
 ---

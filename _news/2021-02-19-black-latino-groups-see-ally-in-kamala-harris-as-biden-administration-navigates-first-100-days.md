@@ -1069,14 +1069,14 @@ related:
   - title: "President Biden and Kamala Harris Meet with Labor Leaders"
     excerpt: "President Joe Biden and Vice President Kamala Harris meet with a group of labor leaders to discuss the American Rescue Plan and to get input on the President's infrastructure plan at the White house in Washington,"
     publishedDateTime: 2021-02-18T00:50:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/0b2ba5ec6ea53ae96b71de6d31b0f783/President-Biden-and-Kamala-Harris-Meet-with-Labor-Leaders/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/5a438cca0920ce2da51daf73da9213e7/President-Biden-and-Kamala-Harris-Meet-with-Labor-Leaders/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 70
     images:
-      - url: "https://cdnph.upi.com/pv/upi/0b2ba5ec6ea53ae96b71de6d31b0f783/BIDEN-LABOR-MEETING.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/5a438cca0920ce2da51daf73da9213e7/BIDEN-LABOR-MEETING.jpg"
         width: 650
         height: 433
         isCached: true
@@ -1479,6 +1479,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "NOPQQ+sXCRKuATXZhh/f9okgz8ClKaqbVqv7VdUglhK23UfvtihgiDhHIr7W8tSGpEInUgPDvIrz0kbKtpvnY9N268r54jH9fPF9h3E8vwPoYHjw7gmU+OE6OEMUkQBrdwyzvnzU41CcxODgRVHPqPcauydL48t2a7W/htBYKhdff040pqOJbGMK/yc1Vk3nfGZV1XnVnmMw9eWiZ7pWa2N71EEPGM9zfrsmSqO0EToegL3WNIeftSv8p+FP4nSOfMpZ9TBLhkhDVkcS1tJoX283wKJ4y6UAnRg+43BcYwelGr5WUD2QUO/vL/2TPY0kvEnoS6dRR+eCwabGl0j4bijnwSgHVf2SbBQrd3+qvj0=;Q+ASf3Huf2NYi0wASy9Wtw=="
+secured: "cUGf60jdbqruBII8BGgqmtQgTolF71tqlg3yZ8IRsxxH8kr3MfXTK3s+B8tCEBj3RCBHGjba8euNIx3uvSqjUNTiQ5+u4Mydar7NC+AshVZbpVo9mdWMMkqkBZqVCATSx2BX4TJbhw9YMaBh4rO7ZcEQ/SwdpH3Mrd/QBssr4uy85ZkRFkFoNWgRpicMtRmdg1Eab4csbUyqEb5AYEtpkSjdRuFzAH7Zt076c1rlWzzkgScEGNPvBsD8ohAN+34uxQ6hOfg3cwcBMsVJnIp5cAEZw36EdWDcfGIheG/TZqXNDzIYmhYxP/wR7mw0XUpVRoBSTlaJwCz1rzKOu+FksTuhv/Ev7/Zd9mTvDjUOonTPBzKiId+Z52Bme8UECUJiihaH2kRmorevuhfrecrErmIy8lkgWpfsMULZCMkx7NPSRhBCOCE9b+XlAu2tQZa2ZZQqfSMCL5HKUeZZq8l4855Qc3BKv+XnmIC69VBptTBQXdoC/zBniR7zTrnKhqetBQwbMl4dZI1Q6KHnVK4s8Q==;YoNduJgUka3bCwJBpOiw2g=="
 ---
 

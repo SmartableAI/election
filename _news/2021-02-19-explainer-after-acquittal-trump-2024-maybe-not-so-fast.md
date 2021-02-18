@@ -1,22 +1,22 @@
 ---
 category: news
 title: "EXPLAINER: After acquittal, Trump 2024? Maybe not so fast"
-excerpt: "Donald Trump’s Senate impeachment trial acquittal may not be the end of efforts to keep him from seeking the presidency again"
-publishedDateTime: 2021-02-18T18:03:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/explainer-acquittal-trump-2024-fast-75973907"
-webUrl: "https://abcnews.go.com/Politics/wireStory/explainer-acquittal-trump-2024-fast-75973907"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/explainer-acquittal-trump-2024-fast-75973907"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/explainer-acquittal-trump-2024-fast-75973907"
+excerpt: "Donald Trump’s acquittal in his Senate impeachment trial may not be the end of the line for efforts to keep him from seeking the presidency again"
+publishedDateTime: 2021-02-18T22:24:00Z
+originalUrl: "https://www.washingtonpost.com/politics/explainer-after-acquittal-trump-2024-maybe-not-so-fast/2021/02/18/24fe0c36-720e-11eb-8651-6d3091eac63f_story.html"
+webUrl: "https://www.washingtonpost.com/politics/explainer-after-acquittal-trump-2024-maybe-not-so-fast/2021/02/18/24fe0c36-720e-11eb-8651-6d3091eac63f_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/explainer-after-acquittal-trump-2024-maybe-not-so-fast/2021/02/18/24fe0c36-720e-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/explainer-after-acquittal-trump-2024-maybe-not-so-fast/2021/02/18/24fe0c36-720e-11eb-8651-6d3091eac63f_story.html?outputType=amp"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_c93ffce95bfd4e01b0d1a60b4bee0f6a_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -991,6 +991,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "XuykMBF07ywRtgr47Xs8JrxY87U3ugfDSHLZxnrsr7HBZVA0G5+OYe7LoxShWZZgrBOHFD9PQZH8rUOo7+rc6OLd14NZX6jd0K6pPqazzwK5TDI1S6Vxvbmp6j5gZ2+WArcLgj2c7KA4zy6bLNJVRoZhnisPGuofxTBGMIVtnXLWF1j+d0KgpVb+3y37YNzWt3+dVc94Odzq0teT+qxnqrrBYI5m/DXTOYzTSK0142NbJVpmFPtdRd1Paz5wuj0ogo1d4zRDd6lBXWacDbvmbnX5wn1frmfjAyiOYjpRYaxz26LKBXVU60R4n81ezWe1Hupn7lFHTRaHGgHuEKcrts5mvA6sy4S8A3lgmked9dJVnAsNnp+iqkCWa9WthFrn9yYA2Ud6tEsPriK7xpdcwIUGDlKFu26ne2D9CEaSvLtRzxnZtXzacM9YIB363s0481zdj3djQqOBchRY+Ilo7+ZPCPq3tlO126Co+OVShQvP5t8uwIm7/08JNqAtiORNyn6q9xiXhBYbzpTA3nqPjA==;46hFi5YptsK6yiagg4whaw=="
+secured: "UTwtyWGtVKXdz7t5EO+AF+ge53I1uJIA8riCi+3zkYW4/diUsigtftMHvW1HEQg+Zm1NVfXohH/dz1UIEZZzgMOgHG9QhMUeUSIXcMhJwFp/pJnghgLNyMfWWfe4R66YjUHpL85cXiZlKO3mYmLQJJRQKLiLwEQ6eF4IYjgsJtwhiLP5bqafasCNi2zzXCMmG1uxZU1SLrIPvn48edBD6cZVqNH53vId4QVtBrkm2cqOojiL1l1eYQPiT+nr6hlgJjesh7OsbYg1Zime4T+a/bQAof+jVyREmc7UH4GoqiM5065gwHfJ0/iMFrhuNXLR5KjHJRhhnbMwo2zhvvNRdre5uZZqVWhzdHOPEeQkkFw=;S5IQzNcoeVwI0NoZeK6s0g=="
 ---
 

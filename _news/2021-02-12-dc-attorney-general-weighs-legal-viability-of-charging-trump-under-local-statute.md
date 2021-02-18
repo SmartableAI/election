@@ -63,22 +63,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "These GOP lawmakers are facing backlash from state parties for not backing Trump"
-    excerpt: "State Republican parties are taking action against former President Donald Trump.\n    \n"
-    publishedDateTime: 2021-02-15T16:14:38Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/elKhVCx4XWc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/15/politics/republicans-facing-censure-trump-impeachment/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/15/politics/republicans-facing-censure-trump-impeachment/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 170
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210215102959-sasse-burr-cassidy-rice-cheney-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "The Supreme Court is still sitting on Trump's tax returns, and justices aren't saying why"
     excerpt: "Lawsuits involving Donald Trump tore apart the Supreme Court while he was president, and the justices apparently remain riven by him.\n    \n"
     publishedDateTime: 2021-02-18T11:40:15Z

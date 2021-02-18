@@ -396,22 +396,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "McConnell Was Done With Trump. His Party Said Not So Fast."
-    excerpt: "After four years, the minority leader had finally had enough. But with most Republicans rallying around Donald J. Trump, he sided with his colleagues trying to throw out the impeachment case."
-    publishedDateTime: 2021-01-28T01:29:00Z
-    webUrl: "https://www.nytimes.com/2021/01/27/us/politics/mcconnell-trump-impeachment.html"
-    ampWebUrl: "https://www.nytimes.com/2021/01/27/us/politics/mcconnell-trump-impeachment.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/27/us/politics/mcconnell-trump-impeachment.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/01/27/us/politics/27dc-mcconnell/27dc-mcconnell-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Republicans’ Reluctance to Convict Trump"
     excerpt: "Re “Rallying Against Trial, G.O.P. Senators Signal a 2nd Trump Acquittal” (front page, Jan. 27): The vote by Republican senators against holding an impeachment trial doesn’t necessarily mean they plan to vote to acquit Donald Trump."
     publishedDateTime: 2021-01-27T18:46:00Z
@@ -597,20 +581,6 @@ related:
     quality: 115
     images:
       - url: "https://static.politico.com/08/a8/392ef9a94eed8c8874a63a6dfb6d/20210124-donald-trump-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "McConnell retreats as Trump dominates the GOP civil war"
-    excerpt: "Mitch McConnell! — suggested he’d finally had enough when, in his words, a “mob” of protesters that “was fed lies” stormed Congress after “they were provoked by the president.” McConnell, the NYT reported,"
-    publishedDateTime: 2021-01-27T11:14:00Z
-    webUrl: "https://www.politico.com/newsletters/playbook/2021/01/27/mcconnell-retreats-as-trump-dominates-the-gop-civil-war-491540"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/58/de/b0653d484332b42ce97b3255aab1/210127-mcconnell-ap-773.jpg"
         width: 1160
         height: 773
         isCached: true

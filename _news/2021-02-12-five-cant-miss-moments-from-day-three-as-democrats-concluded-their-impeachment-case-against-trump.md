@@ -158,22 +158,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "7 Republican senators vote to convict Trump on incitement charge"
-    excerpt: "Former President Trump was acquitted Saturday in the Senate on the impeachment charge of inciting the Jan. 6 Capitol riot – though seven Republican senators still voted with Democrats to convict."
-    publishedDateTime: 2021-02-13T20:54:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_3x6_Q0T9mM/republican-senators-vote-to-convict-trump-on-incitement-charge"
-    ampWebUrl: "https://www.foxnews.com/politics/republican-senators-vote-to-convict-trump-on-incitement-charge.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republican-senators-vote-to-convict-trump-on-incitement-charge.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/340/340/15774946_869011851568_820056121039046290_o-e1585243988433.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Trump impeachment trial curveball: Senate wants to hear from witnesses"
     excerpt: "Former President Donald Trump's impeachment trial got an unexpected extension as senators voted Saturday morning to open the door to witnesses in light of new reporting overnight on Trump's state of mind during the Jan. 6 Capitol riot."
     publishedDateTime: 2021-02-13T16:53:39Z
@@ -222,22 +206,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "NC GOP expected to censure Sen. Burr over Trump impeachment vote"
-    excerpt: "The North Carolina GOP Central Committee is expected to censure Sen. Richard Burr, R-N.C., on Monday night over his impeachment vote — making him the latest Republican to face home state backlash after breaking with former President Donald Trump."
-    publishedDateTime: 2021-02-15T17:18:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-dSgHnncL3Y/nc-gop-censure-richard-burr-impeachment-trump"
-    ampWebUrl: "https://www.foxnews.com/politics/nc-gop-censure-richard-burr-impeachment-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nc-gop-censure-richard-burr-impeachment-trump.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/05/640/320/Richard-Burr-2.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Trump impeachment poll: 58% say he should have been convicted"
     excerpt: "Nearly six in 10 Americans say that former President Trump should have been convicted in his Senate impeachment trial, according to a new national poll conducted after Saturday’s acquittal of the former president."
     publishedDateTime: 2021-02-15T19:28:26Z
@@ -269,22 +237,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Trump trashes Mitch McConnell in searing new statement"
-    excerpt: "Former President Trump released a scathing statement Tuesday afternoon targeting Senate Minority leader Mitch McConnell. "
-    publishedDateTime: 2021-02-16T22:06:45Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ROwtXHYB3cM/trump-trashes-mitch-mcconnell-in-searing-new-statement"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-trashes-mitch-mcconnell-in-searing-new-statement.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-trashes-mitch-mcconnell-in-searing-new-statement.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/12705019-b2cd-4cc2-8acd-3a31ff1520a0/4af5124e-0b28-456d-a628-83df78e1dc43/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Trump’s impeachment attorney goes viral after exchange with CBS reporter"
     excerpt: "Michael van der Veen, one of former President Trump’s lawyers at the impeachment trial, went viral Saturday after an interview with CBS News’ streaming service called CBSN."
@@ -478,22 +430,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "McConnell rips Trump, says actions 'unconscionable' but trial was unconstitutional"
-    excerpt: "Senate Minority Leader Mitch McConnell on Saturday said that former President Donald Trump's actions after the presidential election were \"unconscionable\" despite his vote to acquit the former president of the impeachment charge against him. "
-    publishedDateTime: 2021-02-13T21:50:27Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7sBFmcOv9v4/mcconnell-rips-trump-says-actions-unconscionable-but-trial-was-unconstitutional"
-    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-rips-trump-says-actions-unconscionable-but-trial-was-unconstitutional.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-rips-trump-says-actions-unconscionable-but-trial-was-unconstitutional.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "The seven most memorable moments from Friday's session of Trump's impeachment trial"
     excerpt: "Impeachment proceedings against former President Donald Trump neared their conclusion Friday as his lawyers delivered their closing arguments in his defense."
     publishedDateTime: 2021-02-13T01:05:07Z
@@ -654,22 +590,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "McConnell says he was defending Constitution, not Trump, with impeachment acquittal vote"
-    excerpt: "Senate Minority Leader Mitch McConnell on Tuesday said he was defending the U.S. Constitution, and not Donald Trump, by voting to acquit the former president of an impeachment charge of inciting an insurrection."
-    publishedDateTime: 2021-02-16T15:59:00Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/W2f_gghO7YM/mcconnell-op-ed-trump-impeachment-acquittal-vote"
-    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-op-ed-trump-impeachment-acquittal-vote.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-op-ed-trump-impeachment-acquittal-vote.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Lead impeachment manager Raskin reveals questions he would have asked Trump if he testified"
     excerpt: "Former President Donald Trump will not testify in his own defense during his Senate impeachment trial, but lead House impeachment manager Rep. Jamie Raskin, D-Md., revealed what he would have asked Trump if he had chosen to appear."
     publishedDateTime: 2021-02-11T23:05:50Z
@@ -683,22 +603,6 @@ related:
     quality: 165
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0333c105-c1f6-4aab-be8e-664925fcc3e1/77d38842-62e8-4347-863f-4936d4af227c/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "McConnell will vote to acquit Trump in second impeachment trial, as day five gets underway"
-    excerpt: "Senate GOP Leader Mitch McConnell will vote to acquit former President Donald Trump in his second impeachment trial, Fox News has learned, as day five of the trial is now underway."
-    publishedDateTime: 2021-02-13T14:52:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KZzIpxKcFZc/mcconnell-vote-acquit-trump-second-impeachment-trial"
-    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-vote-acquit-trump-second-impeachment-trial.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-vote-acquit-trump-second-impeachment-trial.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/db8c4e36-b0cc-4a00-9e4a-74cc2b8afb53/aa38912e-f605-4e24-8bc3-6ca4cb8b4870/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -971,22 +875,6 @@ related:
     quality: 159
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8f3cf815-d8c6-4713-841c-e44fee3a2249/d7f9facc-1c08-4b77-a1ed-a2e034084e3c/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Pelosi blasts McConnell and 'cowardly group of Republicans' in Senate after Trump impeachment acquittal"
-    excerpt: "House Speaker Nancy Pelosi, D-Calif., blasted Senate Republicans as cowards who refused to stand up to former President Trump and find him guilty in the impeachment trial."
-    publishedDateTime: 2021-02-13T22:31:45Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Zi5DGZBecbI/pelosi-blasts-mcconnell-and-cowardly-group-of-republicans-in-senate-after-trump-impeachment-acquittal"
-    ampWebUrl: "https://www.foxnews.com/politics/pelosi-blasts-mcconnell-and-cowardly-group-of-republicans-in-senate-after-trump-impeachment-acquittal.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-blasts-mcconnell-and-cowardly-group-of-republicans-in-senate-after-trump-impeachment-acquittal.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 159
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e707def1-cb02-46ed-8a29-b11cedc07d47/64c77e8b-0a95-4028-ab57-35c0267f98eb/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -1388,22 +1276,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Pro-Trump Candidates Launch Early Senate, Governor Bids"
-    excerpt: "Republican hopefuls are betting that former President Donald Trump’s enduring popularity with the GOP base can help propel them into office."
-    publishedDateTime: 2021-02-15T10:35:00Z
-    webUrl: "https://www.wsj.com/articles/pro-trump-candidates-launch-early-senate-governor-bids-11613385001"
-    ampWebUrl: "https://www.wsj.com/amp/articles/pro-trump-candidates-launch-early-senate-governor-bids-11613385001"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pro-trump-candidates-launch-early-senate-governor-bids-11613385001"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-299053/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Sen. Graham: Impeach vote will boost Lara Trump in possible Senate run"
     excerpt: "Sen. Lindsey Graham predicted on Sunday that GOP votes to convict former President Trump in his Senate impeachment trial will give his daughter-in-law Lara Trump a leg up in the North Carolina"
     publishedDateTime: 2021-02-14T20:27:00Z
@@ -1435,22 +1307,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "State GOP may censure Sen. Richard Burr over Trump vote"
-    excerpt: "The North Carolina Republican Party is saying it will vote later Monday on whether to censure GOP Sen. Richard Burr for voting to convict former President Donald Trump at his Senate impeachment"
-    publishedDateTime: 2021-02-15T16:39:00Z
-    webUrl: "https://nypost.com/2021/02/15/state-gop-may-censure-sen-richard-burr-over-trump-vote/"
-    ampWebUrl: "https://nypost.com/2021/02/15/state-gop-may-censure-sen-richard-burr-over-trump-vote/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/15/state-gop-may-censure-sen-richard-burr-over-trump-vote/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/646324458.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Republican senators largely unmoved by Democrats’ Trump trial prosecution"
     excerpt: "Several Republican senators said Thursday that House impeachment managers failed to persuade them to convict former President Donald Trump for allegedly inciting the Jan. 6 Capitol riot. The"
@@ -1515,22 +1371,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Trump-departs-BT.jpg?ve=1&tl=1"
         width: 640
         height: 320
-        isCached: true
-  - title: "Donald Trump Impeachment Trial Still Has GOP Sen. Bill Cassidy Asking Questions"
-    excerpt: "The Louisiana Republican has emerged as a wild card and most visible swing vote in the trial over whether former President Donald Trump incited the riot at the Capitol last month."
-    publishedDateTime: 2021-02-12T15:36:00Z
-    webUrl: "https://www.wsj.com/articles/donald-trump-impeachment-trial-still-has-gop-sen-bill-cassidy-asking-questions-11613144064"
-    ampWebUrl: "https://www.wsj.com/amp/articles/donald-trump-impeachment-trial-still-has-gop-sen-bill-cassidy-asking-questions-11613144064"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/donald-trump-impeachment-trial-still-has-gop-sen-bill-cassidy-asking-questions-11613144064"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 131
-    images:
-      - url: "https://images.wsj.net/im-298558/social"
-        width: 1280
-        height: 640
         isCached: true
   - title: "Trump steers clear of impeachment trial rapid response without Twitter megaphone"
     excerpt: "Former President Donald Trump has been extremely quiet as his impeachment trial got underway in earnest this week, in contrast to his ubiquitous Twitter presence during his impeachment trial last year,"
@@ -1729,20 +1569,6 @@ related:
     quality: 115
     images:
       - url: "https://images.wsj.net/im-298161?size=1.5"
-        width: 1280
-        height: 853
-        isCached: true
-  - title: "Trump Legal Team Weighs Recasting Its Defense at Senate Trial"
-    excerpt: "Former President Donald Trump's defense team is considering changing its planned lineup to give David Schoen a larger role, after the team's presentation earlier this week [drew harsh criticism]( from"
-    publishedDateTime: 2021-02-11T16:49:00Z
-    webUrl: "https://www.wsj.com/livecoverage/trump-second-impeachment-trial-2021-02-11/card/ltOYroszjBeHa8lJ3CNF"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 115
-    images:
-      - url: "https://images.wsj.net/im-298019?size=1.5"
         width: 1280
         height: 853
         isCached: true

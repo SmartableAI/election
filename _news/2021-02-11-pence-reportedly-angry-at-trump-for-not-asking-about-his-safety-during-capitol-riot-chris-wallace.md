@@ -48,22 +48,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Graham: McConnell 'put a load on Republicans' back' with anti-Trump speech"
-    excerpt: "Sen. Lindsey Graham, R-S.C., called out Senate Minority Leader Mitch McConnell for speaking out against former President Donald Trump after voting to acquit Trump at his impeachment trial."
-    publishedDateTime: 2021-02-14T15:27:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cf1fg_Ao2fQ/graham-mcconnell-anti-trump-speech"
-    ampWebUrl: "https://www.foxnews.com/politics/graham-mcconnell-anti-trump-speech.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/graham-mcconnell-anti-trump-speech.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b66a74cb-363c-4de7-926e-27d09edbeac7/a6fa7d29-9a47-4907-9397-422056e57fe2/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "North Carolina Republicans censure Senator Richard Burr over vote to convict Trump"
     excerpt: "The North Carolina GOP Central Committee on Monday night censured home state Sen. Richard Burr over his vote his impeachment vote in the Senate trial of former President Donald Trump."
     publishedDateTime: 2021-02-16T01:55:07Z
@@ -95,22 +79,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ce0ff8aa-4ebc-4f0a-b188-e29d6303380f/f2169d82-7384-44cf-93f0-ae8b40aab209/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "North Carolina GOP censures Sen. Richard Burr over vote to convict Trump"
-    excerpt: "The Central Committee of the North Carolina Republican Party on Monday night censured Sen. Richard Burr for voting to convict former President Donald Trump at his Senate impeachment trial. The"
-    publishedDateTime: 2021-02-16T13:57:00Z
-    webUrl: "https://nypost.com/2021/02/16/nc-gop-censures-sen-richard-burr-over-vote-to-convict-trump/"
-    ampWebUrl: "https://nypost.com/2021/02/16/nc-gop-censures-sen-richard-burr-over-vote-to-convict-trump/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/16/nc-gop-censures-sen-richard-burr-over-vote-to-convict-trump/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 134
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/richard-burr-01.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
         isCached: true
 
 secured: "smUVCA/9yrZWYLr3phiLvlLBpNmEnfQ63K8XaB06wN9I/4bZJVRQ/uUmqFfZVkIubXjno8LI9p2o3B7CJvnmp2A0C2DJeSb6fsq0oxaafTDSWDT3eBUZv+AJhDSjk24OtvgOvaYLxilQLfOGzXpVrxII12aMWQSqUBwTgsNfFal+uUxwk1iy44GMIc2jpbHekJgtLaJYz94XFYEoayxdiRpgT7kol4UhNyMZdbmPPaXKl1lal5xa6tnfTnm5phUuwa5UtrdQpHUo/h472oolTkf9kiC4GUy1hyaJPw2qgtFKN5vSwr519s5rMRvLIphsmQ3mrN6U0L4aFJ0hjaprz4316rb3YIADOK2xYDaKGpPMaORjZDhE0J6dc2+nAjdToatlkAOMDmDCE4M+y91bhSbb/FeegaSrwORAOmxFsv2BhV55CwzhEovEWSfnGI7Ix/egr6USrghJCoEo5XVsIzkj5Do4wPRQtiEDcFCYS/J2FCDeOakNvbCYADDLfXE7c4GkS6gMvmdDNdCMFSTv6Q==;JPvEo3VzhadBhXNFXNNa0Q=="

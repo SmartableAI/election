@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/08/politics/trump-arkansas-governor-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/08/politics/trump-arkansas-governor-sarah-huckabee-sanders/index.html"
 type: article
 quality: 175
-heat: 275
+heat: 255
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Point: This Trump could be on the ballot in 2022"
-    excerpt: "The Senate's impeachment proceedings just put a big spotlight on the 2022 North Carolina US Senate race. GOP Sen. Richard Burr's surprise vote to convict former President Donald Trump isn't sitting well with the Republicans in his home state.\n    \n"
-    publishedDateTime: 2021-02-15T23:53:33Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NaH1-4jOShU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/15/politics/lara-trump-north-carolina-senate-gop/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/15/politics/lara-trump-north-carolina-senate-gop/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200827171557-laura-trump-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Arkansas Lt. Gov. Tim Griffin exits governor's race in a sign of Trump-backed Huckabee Sanders' strength"
     excerpt: "Arkansas Lt. Gov. Tim Griffin departed the 2022 governor's race Monday, opting instead to run for attorney general, in a move that signals former White House press secretary Sarah Huckabee Sanders' strength just two weeks after she announced her campaign.\n    \n"
     publishedDateTime: 2021-02-08T18:36:11Z

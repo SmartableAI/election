@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/22/politics/birx-quitting-white-hous
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/22/politics/birx-quitting-white-house-covid-task-force/index.html"
 type: article
 quality: 175
-heat: 395
+heat: 375
 published: true
 
 provider:
@@ -108,22 +108,6 @@ related:
     quality: 155
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210121171843-fauci-biden-administration-coronavirus-honesty-whpb-bts-lead-vpx-00000113-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump's Covid-19 condition was so concerning that doctors considered putting him on a ventilator, source confirms"
-    excerpt: "Former President Donald Trump's condition after testing positive for Covid-19 became so concerning last October that there was talk of putting him on a ventilator, according to what Trump told one person at the time.\n    \n"
-    publishedDateTime: 2021-02-11T22:54:41Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QJouhAqxc5s/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/11/politics/donald-trump-covid-19-ventilator/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/11/politics/donald-trump-covid-19-ventilator/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 154
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201003084500-07-trump-walter-reed-arrival-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -223,6 +223,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to announce billions in aid for global vaccine effort at G7"
+    excerpt: "President Joe Biden will unveil a $2 billion US contribution to a global coronavirus vaccine initiative when he speaks with the leaders of the world's leading market economies on Friday, according to senior administration officials, boosting efforts to distribute shots to low- and middle-income countries"
+    publishedDateTime: 2021-02-18T22:13:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hofBAqHSn-E/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/18/politics/joe-biden-coronavirus-vaccine-covax-g7/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/18/politics/joe-biden-coronavirus-vaccine-covax-g7/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210217211554-02-biden-immigration-legislation-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden grapples with balancing optimism and tough talk on pandemic's outlook"
     excerpt: "As President Joe Biden strives to take the opposite approach of former President Donald Trump on the coronavirus response, he's leaving most of the details to the scientists -- including the tough talk about what Americans may have to brace for in the coming months.\n    \n"
     publishedDateTime: 2021-02-13T15:11:08Z

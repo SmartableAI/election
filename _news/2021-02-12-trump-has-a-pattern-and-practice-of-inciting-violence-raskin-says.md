@@ -526,22 +526,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "If Convicting Trump Is Out of Reach, Managers Seek a Verdict From the Public and History"
-    excerpt: "The House Democrats prosecuting former President Donald J. Trump may not win the Senate trial, but they are using it to make the searing images of havoc the inexpungible legacy of the his presidency."
-    publishedDateTime: 2021-02-11T17:40:00Z
-    webUrl: "https://www.nytimes.com/2021/02/11/us/politics/trump-impeachment-trial-legacy.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/11/us/politics/trump-impeachment-trial-legacy.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/11/us/politics/trump-impeachment-trial-legacy.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 126
-    images:
-      - url: "https://static01.nyt.com/images/2021/02/11/us/politics/11dc-assess1/11dc-assess1-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
   - title: "Greene admits 9/11 ‘happened,’ Dems seek Trump under oath"
     excerpt: "JAMIE RASKIN (D-Md.), the lead House impeachment manager, sent a letter to former President DONALD TRUMP “requesting that he provide testimony under oath, either before or during the Senate impeachment trial,"
     publishedDateTime: 2021-02-04T18:23:00Z
@@ -555,20 +539,6 @@ related:
       - url: "https://static.politico.com/b0/2f/26b3ac3a4fda823db3ce22fa28ce/210204-greene-ap-773.jpg"
         width: 1160
         height: 773
-        isCached: true
-  - title: "Trump's defense team prepares for a redo"
-    excerpt: "Donald Trump’s defense team is waiting for another chance after their first presentation flopped, making public assurances that their arguments will be more organized. But they have some ground to cover after Republican senators described being “disgusted” upon seeing horrific new video footage on Wednesday."
-    publishedDateTime: 2021-02-11T12:54:00Z
-    webUrl: "https://www.politico.com/newsletters/huddle/2021/02/11/trumps-defense-team-prepares-for-a-redo-491725"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
         isCached: true
   - title: "Impeachment managers directly blame ‘inciter-in-chief' Trump for Capitol attack"
     excerpt: "Prosecutors also will show never-before-seen footage of the chaos during the first day of formal arguments in Trump's second trial."

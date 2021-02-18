@@ -48,22 +48,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Burr censured by North Carolina GOP for voting to convict Trump"
-    excerpt: "The North Carolina Republican Party will meet Monday to vote on whether to censure Sen. Richard Burr for his vote to convict former President Donald Trump during his second impeachment trial -- a move that would make him the latest GOP senator to be reprimanded by his state party for siding with Democrats"
-    publishedDateTime: 2021-02-16T02:15:30Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rljBjo1-TfU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/15/politics/richard-burr-north-carolina-gop-censure-impeachment/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/15/politics/richard-burr-north-carolina-gop-censure-impeachment/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200320161313-01-richard-burr-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Trump's gone, but China, U.S. still at odds over WHO Covid report"
     excerpt: "\"It's kind of disappointing that it's come to controversy already — the report is not even out,\" one of the members of the WHO-led team said."
     publishedDateTime: 2021-02-18T06:47:00Z
@@ -80,19 +64,21 @@ related:
         width: 2500
         height: 1663
         isCached: true
-  - title: "McConnell's next chapter: Guiding the post-Trump GOP"
-    excerpt: "The Kentuckian is the GOP's de facto leader for at least the next two years, as Trump remains exiled in Florida with no real public platform."
-    publishedDateTime: 2021-02-14T12:05:00Z
-    webUrl: "https://www.politico.com/news/2021/02/14/mcconnells-next-chapter-guiding-the-post-trump-gop-469014"
+  - title: "House Democrats and White House Split Over Lawsuit for Ex-Trump Aide’s Testimony"
+    excerpt: "President Biden has inherited litigation over a subpoena to Donald F. McGahn II, President Donald J. Trump’s former lawyer, about the Russia investigation."
+    publishedDateTime: 2021-02-18T22:35:00Z
+    webUrl: "https://www.nytimes.com/2021/02/18/us/politics/mcgahn-lawsuit-democrats.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/18/us/politics/mcgahn-lawsuit-democrats.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/18/us/politics/mcgahn-lawsuit-democrats.amp.html"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
+      name: New York Times
+      domain: nytimes.com
+    quality: 130
     images:
-      - url: "https://static.politico.com/ba/49/dfd390ea400cb7bd00c4ff761091/gettyimages-1230449215-1.jpg"
-        width: 1160
-        height: 773
+      - url: "https://static01.nyt.com/images/2021/02/18/us/politics/18dc-mcgahn/18dc-mcgahn-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
 
 secured: "uR4JoCOLZd6TC1u6VrLriQdk9KZmdm6bauRlIXZDIUd2TjHcfAss07yP1Xd0l6lo5xO0rbyympzTdLzbVGD2016seidbhbjVf3hgKpRXHrCd0nDPzWdfRhZ3MXbuhIMH2cyLeL9GW5IjxnC31MKAZ+AJpiyI56yzeGKiIPxybR9yu2TxOkKu84lpNYYSsXg8rKloHCQ1ROMc9s1l/YZqYrjxOEfzvFEptMRkHBIAPQ5zA3FtYHfPJQzM0QBTxKuDc29RuIwUsBm7MDhyMHiKWuPCIcNo5eMSPaYyS4MVAiQdXd4Ybl9oF970qVBc2rYOUA2+7+rw6UFQI6zqVMZND6MSiuMCFwQKW6wu6x9d4vHRL4TImQKg9DS+azE2MlqlBpuwUsXdDgmc2obe2bGmeupbPCokuLGS9rCTZ8/iO7wsjM8+F2jEvfPyryIAwV5FnQhc2jofYLqB41g9QiZe6MGP5Hv5Qx1WYNcI/eBqfbdFk+hv2EPuPtc/OipcDrWPiRL9BRgOlbwwkm0Ovl5gvg==;B0ZAviY4pZ6hGp2hp57p7Q=="

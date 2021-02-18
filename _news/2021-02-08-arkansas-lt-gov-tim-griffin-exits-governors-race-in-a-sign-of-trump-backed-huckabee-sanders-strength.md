@@ -47,22 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "The Point: This Trump could be on the ballot in 2022"
-    excerpt: "The Senate's impeachment proceedings just put a big spotlight on the 2022 North Carolina US Senate race. GOP Sen. Richard Burr's surprise vote to convict former President Donald Trump isn't sitting well with the Republicans in his home state.\n    \n"
-    publishedDateTime: 2021-02-15T23:53:33Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NaH1-4jOShU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/15/politics/lara-trump-north-carolina-senate-gop/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/15/politics/lara-trump-north-carolina-senate-gop/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200827171557-laura-trump-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Trump Isn’t the Only One on Trial. The Conservative Media Is, Too."
     excerpt: "The former president’s second impeachment trial begins oral arguments tomorrow. But conservative media organizations face an even more consequential test in the weeks and months ahead."
     publishedDateTime: 2021-02-09T00:39:00Z

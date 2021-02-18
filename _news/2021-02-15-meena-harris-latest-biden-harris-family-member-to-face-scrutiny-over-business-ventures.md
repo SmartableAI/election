@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/meena-harris-latest-biden-harris-fa
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/meena-harris-latest-biden-harris-family-member-scrutiny-business-ventures.amp"
 type: article
 quality: 192
-heat: 292
+heat: 312
 published: true
 
 provider:
@@ -95,6 +95,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/CelebsReact21.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Kamala Harris Is Selling Her San Francisco Apartment"
+    excerpt: "The Vice President’s property in the city’s SOMA neighborhood had been asking $799,000."
+    publishedDateTime: 2021-02-18T22:38:00Z
+    webUrl: "https://www.wsj.com/articles/kamala-harris-is-selling-her-san-francisco-apartment-11613687756"
+    ampWebUrl: "https://www.wsj.com/amp/articles/kamala-harris-is-selling-her-san-francisco-apartment-11613687756"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/kamala-harris-is-selling-her-san-francisco-apartment-11613687756"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-301237/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "White House lawyers tell Meena Harris to stop using aunt Kamala to build brand: report"
     excerpt: "Vice President Kamala Harris’ social-media-influencer niece has long used her aunt’s fame to boost her own personal brand — but now that Harris has entered the White House, aides have become increasingly concerned about the ethical implications of the promotional pattern,"

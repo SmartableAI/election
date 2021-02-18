@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/08/politics/trump-impeachment/index.
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/08/politics/trump-impeachment/index.html"
 type: article
 quality: 147
-heat: -1
-published: false
+heat: 147
+published: true
 
 provider:
   name: CNN
@@ -29,52 +29,6 @@ images:
     width: 1100
     height: 619
     isCached: true
-
-related:
-  - title: "McConnell blames Trump but voted not guilty anyway"
-    excerpt: "Senate Minority Leader Mitch McConnell has told his colleagues that he will vote to acquit former President Donald Trump of inciting the insurrection at the US Capitol last month, according to a source familiar with the conversations.\n    \n"
-    publishedDateTime: 2021-02-14T00:42:34Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Rw3HPocqnPw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/13/politics/mitch-mcconnell-acquit-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/mitch-mcconnell-acquit-trump/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106121255-01-mcconnell-0106-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Acquittal means Trump will loom large in upcoming election contests"
-    excerpt: "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter."
-    publishedDateTime: 2021-02-15T14:07:00Z
-    webUrl: "https://www.nbcnews.com/politics/meet-the-press/acquittal-means-trump-will-loom-large-upcoming-election-contests-n1257938"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 130
-    images:
-      - url: "https://media1.s-nbcnews.com/j/newscms/2021_07/3450196/210215-donald-trump-mc-12382_e59fc92ce31ccb96d8a2bcdab73f03a0.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Johnson: McConnell doesn't 'speak for the conference' on Trump's culpability for riot"
-    excerpt: "In remarks on the Senate floor, the minority leader called Trump \"practically and morally responsible\" for the riot."
-    publishedDateTime: 2021-02-16T19:02:00Z
-    webUrl: "https://www.politico.com/news/2021/02/16/johnson-attacks-mcconnell-trump-impeachment-469126"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 108
-    images:
-      - url: "https://static.politico.com/3e/f1/4f2909a140839abeb1e06d17f924/20210216-ron-johnson-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
 
 secured: "o4XHVjJ2kqTJo/hnZhKy2WrNLYXvSdfKKZRIyTPr9ZyPKMW1WicNh/kU2inwhTullD4/amPxPPhdDndsN2NH30eQGi581pFBpXLgqx3sKWIqN5lgraFOZaCobDqfQ/gZbP/CIci4p3KhYtROVhZTUJ6PZEIyWdOJ4+SouwpnApmWc1qC7b88znl7h2kqaufUuEHAn6IMwq9sm38zQ4oGyBjI2UGT0tiyixp9qwd3gVS9cvT9mI1TjXvDnwPLdTHXSt3qnAo+AVISDUveFh74FJC64H+H5IJLCL4u3l4mJPxKGVSvZe1BXyGxVQYEvPFJYwZLfkg8xTfWNLaRpjxuMQiZHrdnWj3r3n181kvrTUM=;Jp3ADeQINR71+925sAq2WQ=="
 ---

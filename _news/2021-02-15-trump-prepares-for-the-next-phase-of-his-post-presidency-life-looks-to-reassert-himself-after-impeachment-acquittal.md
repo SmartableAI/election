@@ -272,20 +272,20 @@ related:
         height: 900
         isCached: true
   - title: "EXPLAINER: After acquittal, Trump 2024? Maybe not so fast"
-    excerpt: "Donald Trump’s Senate impeachment trial acquittal may not be the end of efforts to keep him from seeking the presidency again"
-    publishedDateTime: 2021-02-18T18:03:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/explainer-acquittal-trump-2024-fast-75973907"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/explainer-acquittal-trump-2024-fast-75973907"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/explainer-acquittal-trump-2024-fast-75973907"
+    excerpt: "Donald Trump’s acquittal in his Senate impeachment trial may not be the end of the line for efforts to keep him from seeking the presidency again"
+    publishedDateTime: 2021-02-18T22:24:00Z
+    webUrl: "https://www.washingtonpost.com/politics/explainer-after-acquittal-trump-2024-maybe-not-so-fast/2021/02/18/24fe0c36-720e-11eb-8651-6d3091eac63f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/explainer-after-acquittal-trump-2024-maybe-not-so-fast/2021/02/18/24fe0c36-720e-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/explainer-after-acquittal-trump-2024-maybe-not-so-fast/2021/02/18/24fe0c36-720e-11eb-8651-6d3091eac63f_story.html?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_c93ffce95bfd4e01b0d1a60b4bee0f6a_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "With Trump impeachment trial over, wary Washington seeks to move forward"
     excerpt: "Former President Donald Trump's acquittal on charges of inciting a deadly attack on the U.S Capitol left Democrats and Republicans deeply divided on Sunday even as Washington seeks to move on with Democratic President Joe Biden's political agenda."
