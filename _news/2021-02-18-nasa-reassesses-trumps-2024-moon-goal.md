@@ -1,12 +1,14 @@
 ---
 category: news
-title: "POLITICO Playbook: Republicans can’t quit Trump"
-excerpt: "While the rest of the country wants less DONALD TRUMP, Republicans just can’t quit him. Our flash POLITICO/Morning Consult poll conducted in the days following the Senate trial shows that despite the impeachment managers’ gripping presentation and video laying out Trump’s role in the Jan."
-publishedDateTime: 2021-02-16T11:16:00Z
-originalUrl: "https://www.politico.com/newsletters/playbook/2021/02/16/republicans-cant-quit-trump-491756"
-webUrl: "https://www.politico.com/newsletters/playbook/2021/02/16/republicans-cant-quit-trump-491756"
+title: "NASA reassesses Trump's 2024 moon goal"
+excerpt: "It has been widely anticipated that the 2024 goal would be impossible to meet given that a new rocket, capsule, lunar lander, and other components still need to be developed and fully tested."
+publishedDateTime: 2021-02-18T08:32:00Z
+originalUrl: "https://www.politico.com/news/2021/02/16/nasa-trump-2024-moon-landing-goal-469135"
+webUrl: "https://www.politico.com/news/2021/02/16/nasa-trump-2024-moon-landing-goal-469135"
+ampWebUrl: "https://www.politico.com/amp/news/2021/02/16/nasa-trump-2024-moon-landing-goal-469135"
+cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/02/16/nasa-trump-2024-moon-landing-goal-469135"
 type: article
-quality: 115
+quality: 135
 heat: -1
 published: false
 
@@ -24,7 +26,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://static.politico.com/b8/40/58b869924d40ac85937f7550bd56/gettyimages-1302327045.jpg"
+  - url: "https://static.politico.com/d4/f4/59894d424c609506f8af3a8065fb/ap20121624457519-1.jpg"
     width: 1160
     height: 773
     isCached: true
@@ -142,22 +144,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "NASA reassesses Trump's 2024 moon goal"
-    excerpt: "It has been widely anticipated that the 2024 goal would be impossible to meet given that a new rocket, capsule, lunar lander, and other components still need to be developed and fully tested."
-    publishedDateTime: 2021-02-18T08:32:00Z
-    webUrl: "https://www.politico.com/news/2021/02/16/nasa-trump-2024-moon-landing-goal-469135"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/02/16/nasa-trump-2024-moon-landing-goal-469135"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/02/16/nasa-trump-2024-moon-landing-goal-469135"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/d4/f4/59894d424c609506f8af3a8065fb/ap20121624457519-1.jpg"
-        width: 1160
-        height: 773
-        isCached: true
   - title: "Of course Donald Trump's team didn't tell the truth about his Covid-19 illness"
     excerpt: "Donald Trump was far sicker with Covid-19 than the White House physician or his top aides let on, even to the point where there were concerns that the then-President would have to be put on a ventilator to deal with the illness."
     publishedDateTime: 2021-02-12T15:57:00Z
@@ -206,6 +192,20 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "POLITICO Playbook: Republicans can’t quit Trump"
+    excerpt: "While the rest of the country wants less DONALD TRUMP, Republicans just can’t quit him. Our flash POLITICO/Morning Consult poll conducted in the days following the Senate trial shows that despite the impeachment managers’ gripping presentation and video laying out Trump’s role in the Jan."
+    publishedDateTime: 2021-02-16T11:16:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook/2021/02/16/republicans-cant-quit-trump-491756"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/b8/40/58b869924d40ac85937f7550bd56/gettyimages-1302327045.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Post-Impeachment Live Updates: Fallout Begins for Republicans Who Voted to Convict Trump"
     excerpt: "Trump’s conviction in his impeachment trial has begun. In Louisiana, the state Republican Party’s executive committee voted unanimously on Saturday to censure Senator Bill Cassidy, who was just re-elected in November and was among those who voted to find Mr."
     publishedDateTime: 2021-02-14T14:10:00Z
@@ -221,6 +221,6 @@ related:
         height: 550
         isCached: true
 
-secured: "MWSFBKzcbEaupm48UraFFS4TY1tySvd+ehYsAJ7tCd5XFrywCFa+rn1aCo5LRDX8Zw7qUJUgTRIoCZJqcXJpPy8avQc/pWnRR+ppjZbqHoqPrrr13E0eWKIjZUEVTOKoHOPrnQoc4umH/N2M/5/IwVZBeYQvmUxe5Dz/USNFtRfLGa1it6FAsx3XWeuII9mp4jECNVycBpW42yxXi44k82un/vrnqfkSYXedKizMjFt7pF5NGvOSF6d7AN45EPH2vN9WpYD+OUyHZwxRbQCRkrbdOEIefuVFXrR9rZxXWXugsmD5GUlGGgEpLKeFogBIqQECN1F/MXTGMk5i7w1A2yXUDivumpO6VQvvzYLg9+k=;Wz0T242S8p4UrEcnssj7bA=="
+secured: "z5NdaxsViB/MMJ82sTmlkI3BnNMczX3D2jxbE3uzoN03J1EXJBeCDYVrBChD+82GUEAU8QXzM7VDQgPyJliJA+15e7KLzwm9jjMZh0FTCnDjGG9AisowbXvwJ42Kcj4y2AkxB17QZvy55XNYPmcGwbfMyXJng1NIOT41eySvKJTaNSqd+9OHkTe+CC5oWjWP8AyFGUoDFuGyuFFrzVEPeTywR33ek6efaJxGDHrFSXfXJYVylpt7uLJZZUJw0jszGZtPMrS7WSIc79+1zBxO2XvIVlQLDNTFzaReLGKrHajdd4TrFNMnL/wigeWKrKXxup4Qmf9ClXo8CxeYfw9tqFkZMVAr3NjzZvIn2eLV1WY=;PUGWhsgIY0kSA3eO/PaJeg=="
 ---
 

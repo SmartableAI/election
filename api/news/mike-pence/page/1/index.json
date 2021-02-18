@@ -3,44 +3,26 @@
   "value": [
     {
       "path": "_news/2021-02-18-feds-arrest-ucla-student-accused-of-sitting-in-pences-chair.md",
-      "title": "Feds arrest UCLA student accused of sitting in Pence's chair",
+      "title": "Feds arrest UCLA student accused of sitting in Pence’s chair",
       "excerpt": "Authorities say a Los Angeles college student and self-described fascist has been arrested after sitting in former Vice President Mike Pence’s chair in the Senate chambers during the insurrection at the U.",
       "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/US/wireStory/feds-arrest-ucla-student-accused-sitting-pences-chair-75958077",
-      "originalUrl": "https://abcnews.go.com/US/wireStory/feds-arrest-ucla-student-accused-sitting-pences-chair-75958077",
+      "webUrl": "https://www.idahostatesman.com/news/nation-world/national/article249324250.html",
+      "originalUrl": "https://www.idahostatesman.com/news/nation-world/national/article249324250.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 265,
+      "heat": 155,
       "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
-          "width": 834,
-          "height": 308,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/US/wireStory/feds-arrest-ucla-student-accused-sitting-pences-chair-75958077",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/feds-arrest-ucla-student-accused-sitting-pences-chair-75958077",
-      "publishedDateTime": "2021-02-17T15:39:00-08:00",
+      "ampWebUrl": "https://amp.idahostatesman.com/news/nation-world/national/article249324250.html",
+      "cdnAmpWebUrl": "https://amp-idahostatesman-com.cdn.ampproject.org/c/s/amp.idahostatesman.com/news/nation-world/national/article249324250.html",
+      "publishedDateTime": "2021-02-17T22:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Idaho Statesman",
+        "domain": "idahostatesman.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -380,7 +362,7 @@
       "originalUrl": "https://www.usatoday.com/videos/news/politics/2021/02/11/capitol-riot-footage-mike-pence-sheltering-insurrectionists-near/6728485002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -598,7 +580,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/video/2021/feb/10/impeachment-video-shows-mike-pence-and-mitt-romney-fleeing-capitol-attack-video",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 120,
       "tags": null,
       "images": [
         {

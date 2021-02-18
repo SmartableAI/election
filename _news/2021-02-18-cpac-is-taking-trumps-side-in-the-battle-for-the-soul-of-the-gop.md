@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Trump slams McConnell as GOP divide deepens post-impeachment"
-excerpt: "Former President Donald Trump has issued a blistering statement denouncing the top Republican in the Senate, Mitch McConnell, as a “political hack” who will make sure the party “will not win again.”"
-publishedDateTime: 2021-02-17T00:51:00Z
-originalUrl: "https://www.washingtonpost.com/politics/trump-slams-mcconnell-as-gop-divide-deepens-post-impeachment/2021/02/16/451fa99e-70b9-11eb-8651-6d3091eac63f_story.html"
-webUrl: "https://www.washingtonpost.com/politics/trump-slams-mcconnell-as-gop-divide-deepens-post-impeachment/2021/02/16/451fa99e-70b9-11eb-8651-6d3091eac63f_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/trump-slams-mcconnell-as-gop-divide-deepens-post-impeachment/2021/02/16/451fa99e-70b9-11eb-8651-6d3091eac63f_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-slams-mcconnell-as-gop-divide-deepens-post-impeachment/2021/02/16/451fa99e-70b9-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+title: "CPAC is taking Trump's side in the battle for the soul of the GOP"
+excerpt: "This year's flagship conservative event is also notable for who is not showing up. Establishment GOP leaders like Mitch McConnell, Kevin McCarthy and Mike Pence are so far not listed as speakers."
+publishedDateTime: 2021-02-18T08:29:00Z
+originalUrl: "https://www.businessinsider.com/cpac-2021-speakers-trump-pence-orlando-republican-conservative-2021-2"
+webUrl: "https://www.businessinsider.com/cpac-2021-speakers-trump-pence-orlando-republican-conservative-2021-2"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://i.insider.com/602c67945847630018323658?width=1200&format=jpeg"
+    width: 1200
+    height: 600
     isCached: true
 
 related:
@@ -94,6 +92,22 @@ related:
       - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210216&t=2&i=1551774169&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1F1KA"
         width: 900
         height: 545
+        isCached: true
+  - title: "Trump slams McConnell as GOP divide deepens post-impeachment"
+    excerpt: "Former President Donald Trump has issued a blistering statement denouncing the top Republican in the Senate, Mitch McConnell, as a “political hack” who will make sure the party “will not win again.”"
+    publishedDateTime: 2021-02-17T00:51:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-slams-mcconnell-as-gop-divide-deepens-post-impeachment/2021/02/16/451fa99e-70b9-11eb-8651-6d3091eac63f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-slams-mcconnell-as-gop-divide-deepens-post-impeachment/2021/02/16/451fa99e-70b9-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-slams-mcconnell-as-gop-divide-deepens-post-impeachment/2021/02/16/451fa99e-70b9-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Former Trump casino where stars played goes out with a bang"
     excerpt: "A spot on the Atlantic City Boardwalk where movie stars, athletes and rock stars used to party and a future president honed his instincts for bravado and hype has been reduced to a dusty pile of rubbl"
@@ -363,20 +377,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "CPAC is taking Trump's side in the battle for the soul of the GOP"
-    excerpt: "This year's flagship conservative event is also notable for who is not showing up. Establishment GOP leaders like Mitch McConnell, Kevin McCarthy and Mike Pence are so far not listed as speakers."
-    publishedDateTime: 2021-02-18T08:29:00Z
-    webUrl: "https://www.businessinsider.com/cpac-2021-speakers-trump-pence-orlando-republican-conservative-2021-2"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-    images:
-      - url: "https://i.insider.com/602c67945847630018323658?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "120 anti-Trump Republicans are in talks to form a center-right 3rd party that would run on 'principled conservatism,' report says"
     excerpt: "The group includes former elected officials and people who served in Republican administrations, including Trump's."
     publishedDateTime: 2021-02-11T13:16:00Z
@@ -438,6 +438,6 @@ related:
         height: 630
         isCached: true
 
-secured: "sOKfEkc3foerak+8vRiFEHwhefkZNrGAF+3Ijy81ab53sHr19mvAr9AnakVZGluu4yKHBFuZzEyxO2fkEQAVEUm1hUgMX5qy2ATZQ6VIrOjiN0gqL2/IT/LtPd4PqSJ6q5hRtBpzGOyobz0llMtMf+TeChVAF5EANrzaqQnK42F4+4l9rbZhvidHnnFq0zE9PDZAvL32tORdcP+1g/L+DV9AO5UYqC1Q5y1jHmq6OdHi7z4vhbFruDnzc6uOy37Qp+hmtOQm+m1ZNBz2kG4Ylov6UZaaoD/OWJ1cexUsjwvoe6eLjB4Hn1ntdLt3ZigGlWaJwCMFAVN0cO40XoTpX16vBeeHwfUItR+G0Y7eBMc=;Wkx0XM9k3YsER6PDB3Zzeg=="
+secured: "CyTTR6x2bGz980oK6sHefX8up4E25y9y0Zw6i8TNPHuQjSOA9xancUq/7jkK1pYui/w0EDneyUsNiKYwAkkGCW0hczARHMGDODdifBkja2ddBXZ1YtQkZO/5bdD76FAD3gFtHv6jOeqswx03cATwHXx7u/8hforvaChLJlwgDP62BcvvXBb40VQ09RIKvKrn73N8d8QeVyTG7WlUTbn14Z6TqZ6Zgf33umaHcUCNoCkFVwW5b3jxzZPQYZd1Ig12jypPC2ZBi7pm0ACQjfY6LRDNdQxuSzTYYxMXWCCaIgsMfSclBZKI+yYwaQMzQRScxlUGCRF5GUpAa4auo9KthYdhWcOVQ5JFTw2EMrxbEwA=;5PxTOxjctRCbucoYdnOcMA=="
 ---
 

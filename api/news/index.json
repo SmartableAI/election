@@ -2,6 +2,40 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-18-feds-arrest-ucla-student-accused-of-sitting-in-pences-chair.md",
+      "title": "Feds arrest UCLA student accused of sitting in Pence’s chair",
+      "excerpt": "Authorities say a Los Angeles college student and self-described fascist has been arrested after sitting in former Vice President Mike Pence’s chair in the Senate chambers during the insurrection at the U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.idahostatesman.com/news/nation-world/national/article249324250.html",
+      "originalUrl": "https://www.idahostatesman.com/news/nation-world/national/article249324250.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 155,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.idahostatesman.com/news/nation-world/national/article249324250.html",
+      "cdnAmpWebUrl": "https://amp-idahostatesman-com.cdn.ampproject.org/c/s/amp.idahostatesman.com/news/nation-world/national/article249324250.html",
+      "publishedDateTime": "2021-02-17T22:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Idaho Statesman",
+        "domain": "idahostatesman.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-02-18-teachers-should-be-prioritized-for-coronavirus-vaccine-vp-kamala-harris.md",
       "title": "Teachers should be prioritized for coronavirus vaccine: VP Kamala Harris",
       "excerpt": "Today show host Savannah Guthrie talked to Vice President Kamala Harris about reopening schools and prioritizing teachers to get the coronavirus vaccine, in spite of the fact the CDC said is wasn't necessary.",
@@ -442,58 +476,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-feds-arrest-ucla-student-accused-of-sitting-in-pences-chair.md",
-      "title": "Feds arrest UCLA student accused of sitting in Pence's chair",
-      "excerpt": "Authorities say a Los Angeles college student and self-described fascist has been arrested after sitting in former Vice President Mike Pence’s chair in the Senate chambers during the insurrection at the U.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/US/wireStory/feds-arrest-ucla-student-accused-sitting-pences-chair-75958077",
-      "originalUrl": "https://abcnews.go.com/US/wireStory/feds-arrest-ucla-student-accused-sitting-pences-chair-75958077",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 265,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
-          "width": 834,
-          "height": 308,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/US/wireStory/feds-arrest-ucla-student-accused-sitting-pences-chair-75958077",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/feds-arrest-ucla-student-accused-sitting-pences-chair-75958077",
-      "publishedDateTime": "2021-02-17T15:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     },
     {

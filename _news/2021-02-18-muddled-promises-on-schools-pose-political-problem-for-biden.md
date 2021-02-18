@@ -2,21 +2,21 @@
 category: news
 title: "Muddled promises on schools pose political problem for Biden"
 excerpt: "Republicans have seized on confusion surrounding President Joe Biden’s goal to reopen a majority of schools within his first 100 days, painting the president as beholden to teachers’ unions at the exp"
-publishedDateTime: 2021-02-17T23:53:00Z
-originalUrl: "https://abcnews.go.com/Health/wireStory/muddled-promises-schools-pose-political-problem-biden-75964236"
-webUrl: "https://abcnews.go.com/Health/wireStory/muddled-promises-schools-pose-political-problem-biden-75964236"
-ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/muddled-promises-schools-pose-political-problem-biden-75964236"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/muddled-promises-schools-pose-political-problem-biden-75964236"
+publishedDateTime: 2021-02-18T06:11:00Z
+originalUrl: "https://www.washingtonpost.com/politics/muddled-promises-on-schools-pose-political-problem-for-biden/2021/02/17/385b88a4-7186-11eb-8651-6d3091eac63f_story.html"
+webUrl: "https://www.washingtonpost.com/politics/muddled-promises-on-schools-pose-political-problem-for-biden/2021/02/17/385b88a4-7186-11eb-8651-6d3091eac63f_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/muddled-promises-on-schools-pose-political-problem-for-biden/2021/02/17/385b88a4-7186-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/muddled-promises-on-schools-pose-political-problem-for-biden/2021/02/17/385b88a4-7186-11eb-8651-6d3091eac63f_story.html?outputType=amp"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_672fa3c86d684a248ccc43634309f88a_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -271,6 +271,22 @@ related:
         width: 819
         height: 545
         isCached: true
+  - title: "Biden's 1st 100 days live updates: WH offers no timeline for return to normalcy"
+    excerpt: "Biden's trip to Kalamazoo, Michigan, has been rescheduled to Friday. The visit -- in addition to his Tuesday town hall in Milwaukee -- will give Biden an opportunity to make his case for COVID-19 relief to every day Americans since taking office."
+    publishedDateTime: 2021-02-18T07:58:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/joe-biden-white-house-administration/?id=75890872"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/joe-biden-white-house-administration/?id=75890872"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/joe-biden-white-house-administration/?id=75890872"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 121
+    images:
+      - url: "https://s.abcnews.com/images/General/biden100-jen-psaki-solarwinds-04-ap-llr-210217_1613592456209_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Biden launches review of Guantanamo prison, aims to close it before leaving office"
     excerpt: "President Joe Biden's aides have launched a formal review of the U.S. military prison at Guantanamo Bay in Cuba, reviving the Obama-era goal of closing the controversial facility with the aim of doing so before he leaves office,"
     publishedDateTime: 2021-02-13T05:18:00Z
@@ -429,6 +445,6 @@ related:
         height: 600
         isCached: true
 
-secured: "SaLbPyVd6pDTuj1L2POb/8AhNE9mPjSW8scSH/BYHD+pIlkS8N1cLN2aMLAlJzKQ1UEt1qya2p00aDhQGFQNExzmWd9W+SKjvyUahI1AcQTmC/C2sOuOq8N5qMB3Kj6XayaSTpPvx2HHVqHYAPBFGX9GW+NLT1QUrIVrGlB1Jcc5uAkbk8caAo2LLI18Q3zIrfUFP/ELdR73O/XTkPOuvzXEoxKMtykn6xi57lMG7Cex7APQVGswBzY45KPiys7Chvt0LMmYzXK1vTvjYqbI+Z82MHKJwNMzkW0nThsxyEft8r52Dpe2H2ERWz3hnQTgNhMz//qiAS2FhJDTi58sJZPAS9qoaJEhG7VXh3aHVis=;xqcYwgCftZyG9L9xZ9Xh6Q=="
+secured: "bQuUAXbC5wvFm7dvTod7dBSoJlfNHOgEq4elxqFZ809IMTgJMvpwQEl+qBTOtIH48KqLSlBeNUcvTzFjiOVqhjniOeaDMxFfQQm8w5Gs0V7PvWmYi1CneaoGBdqEU/ACNUvAoorxfPqbOg5PxD4GMBdKgu3YI3HfhbFbeszRR8jQU1QoRb3IFVuIBnwCB9hZskkn34R/JLFVWxSjisQmM0rHQz4/+GaNHSIJ3S+9WdJK9m48BOTT+SSOSzq2eIQomJmCHf9jaSH4lvChfFg/r5prXpCtM47+lqR8PEPd22tNckOK05+l+ASbn9wyDOHAIkr6OtsugLGoVPaFDGWWtt47JbkJI1eHZE0qoYiW/Yk=;+x4rSaE9s/fHzjnFX1mrnw=="
 ---
 

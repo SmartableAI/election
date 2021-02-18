@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Trump slams McConnell as GOP divide deepens post-impeachment"
-excerpt: "Former President Donald Trump has issued a blistering statement denouncing the top Republican in the Senate, Mitch McConnell, as a “political hack” who will make sure the party “will not win again.”"
-publishedDateTime: 2021-02-17T00:51:00Z
-originalUrl: "https://www.washingtonpost.com/politics/trump-slams-mcconnell-as-gop-divide-deepens-post-impeachment/2021/02/16/451fa99e-70b9-11eb-8651-6d3091eac63f_story.html"
-webUrl: "https://www.washingtonpost.com/politics/trump-slams-mcconnell-as-gop-divide-deepens-post-impeachment/2021/02/16/451fa99e-70b9-11eb-8651-6d3091eac63f_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/trump-slams-mcconnell-as-gop-divide-deepens-post-impeachment/2021/02/16/451fa99e-70b9-11eb-8651-6d3091eac63f_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-slams-mcconnell-as-gop-divide-deepens-post-impeachment/2021/02/16/451fa99e-70b9-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+title: "Trump-McConnell feud threatens Republicans' path to power"
+excerpt: "Former President Donald Trump is stepping up a political war within the Republican Party that could undermine the GOP’s ability to fight President Joe Biden’s agenda and ultimately return the party to"
+publishedDateTime: 2021-02-18T07:25:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/trump-mcconnell-feud-threatens-republicans-path-power-75964237"
+webUrl: "https://abcnews.go.com/Politics/wireStory/trump-mcconnell-feud-threatens-republicans-path-power-75964237"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-mcconnell-feud-threatens-republicans-path-power-75964237"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-mcconnell-feud-threatens-republicans-path-power-75964237"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://s.abcnews.com/images/Politics/WireAP_6116e03690dd4b53a93d6e2b3dfc7239_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -95,6 +95,22 @@ related:
         width: 900
         height: 545
         isCached: true
+  - title: "Trump slams McConnell as GOP divide deepens post-impeachment"
+    excerpt: "Former President Donald Trump has issued a blistering statement denouncing the top Republican in the Senate, Mitch McConnell, as a “political hack” who will make sure the party “will not win again.”"
+    publishedDateTime: 2021-02-17T00:51:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-slams-mcconnell-as-gop-divide-deepens-post-impeachment/2021/02/16/451fa99e-70b9-11eb-8651-6d3091eac63f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-slams-mcconnell-as-gop-divide-deepens-post-impeachment/2021/02/16/451fa99e-70b9-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-slams-mcconnell-as-gop-divide-deepens-post-impeachment/2021/02/16/451fa99e-70b9-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Former Trump casino where stars played goes out with a bang"
     excerpt: "A spot on the Atlantic City Boardwalk where movie stars, athletes and rock stars used to party and a future president honed his instincts for bravado and hype has been reduced to a dusty pile of rubbl"
     publishedDateTime: 2021-02-17T16:32:00Z
@@ -108,22 +124,6 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/Lifestyle/WireAP_108db10c88804d9f905cfac5913a7a21_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump-McConnell feud threatens Republicans' path to power"
-    excerpt: "Former President Donald Trump is stepping up a political war within the Republican Party that could undermine the GOP’s ability to fight President Joe Biden’s agenda and ultimately return the party to"
-    publishedDateTime: 2021-02-18T07:25:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-mcconnell-feud-threatens-republicans-path-power-75964237"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-mcconnell-feud-threatens-republicans-path-power-75964237"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-mcconnell-feud-threatens-republicans-path-power-75964237"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_6116e03690dd4b53a93d6e2b3dfc7239_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
@@ -438,6 +438,6 @@ related:
         height: 630
         isCached: true
 
-secured: "sOKfEkc3foerak+8vRiFEHwhefkZNrGAF+3Ijy81ab53sHr19mvAr9AnakVZGluu4yKHBFuZzEyxO2fkEQAVEUm1hUgMX5qy2ATZQ6VIrOjiN0gqL2/IT/LtPd4PqSJ6q5hRtBpzGOyobz0llMtMf+TeChVAF5EANrzaqQnK42F4+4l9rbZhvidHnnFq0zE9PDZAvL32tORdcP+1g/L+DV9AO5UYqC1Q5y1jHmq6OdHi7z4vhbFruDnzc6uOy37Qp+hmtOQm+m1ZNBz2kG4Ylov6UZaaoD/OWJ1cexUsjwvoe6eLjB4Hn1ntdLt3ZigGlWaJwCMFAVN0cO40XoTpX16vBeeHwfUItR+G0Y7eBMc=;Wkx0XM9k3YsER6PDB3Zzeg=="
+secured: "8A93iLm2L7n0PpoVOzDekZJsimnYbgrEuGacgS1YUdHBmBsnfEb0lfPvl9Yey60ey7zPvu5SN2oySdqFKMwb5Ue3N1eo7C6f7c68doYoAZDXJm7HBT7HFlJPNW7UhP6hnYtEnnJd75hhilB1DKoZicgn+rUel18jhVSm8e9t+51OVeeVpA1I+E2/nDGuwgfP6Ovnpe2UwmO9RE0xltcCavMQ/gZqPEZ8UTYjKoiiXF7N34FkxTJjynqhwUTjmN/9N50bAeocJrDrz6jG/FBZKlzDP07VWfvsxWk61fku3zk3D5ErUkmcLPNhPu9WpF8H4KYrNY8whk+IESOG6NiRWk7quGmakjmYwDNvAHdGqNE=;I/xy6HDKxMVwt3g9rGFYxA=="
 ---
 

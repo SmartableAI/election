@@ -144,6 +144,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "NASA reassesses Trump's 2024 moon goal"
+    excerpt: "It has been widely anticipated that the 2024 goal would be impossible to meet given that a new rocket, capsule, lunar lander, and other components still need to be developed and fully tested."
+    publishedDateTime: 2021-02-18T08:32:00Z
+    webUrl: "https://www.politico.com/news/2021/02/16/nasa-trump-2024-moon-landing-goal-469135"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/02/16/nasa-trump-2024-moon-landing-goal-469135"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/02/16/nasa-trump-2024-moon-landing-goal-469135"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/d4/f4/59894d424c609506f8af3a8065fb/ap20121624457519-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Democrats rest case with a warning: Republicans risk the republic if they acquit Trump"
     excerpt: "Analysis: House Democratic prosecutors asked Senate Republicans to consider the precedent they would set by approving of Trump's conduct."
     publishedDateTime: 2021-02-12T14:47:00Z

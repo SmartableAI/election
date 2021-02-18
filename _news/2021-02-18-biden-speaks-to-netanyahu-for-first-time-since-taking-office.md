@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Biden invites GOP lawmakers to White House virus relief talk"
-excerpt: "President Joe Biden is inviting to the White House a group of 10 Republican senators who have proposed spending about one-third of what he is seeking in coronavirus aid"
-publishedDateTime: 2021-02-01T03:03:00Z
-originalUrl: "https://www.washingtonpost.com/politics/biden-invites-gop-lawmakers-to-white-house-virus-relief-talk/2021/01/31/60714afe-6439-11eb-bab8-707f8769d785_story.html"
-webUrl: "https://www.washingtonpost.com/politics/biden-invites-gop-lawmakers-to-white-house-virus-relief-talk/2021/01/31/60714afe-6439-11eb-bab8-707f8769d785_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/biden-invites-gop-lawmakers-to-white-house-virus-relief-talk/2021/01/31/60714afe-6439-11eb-bab8-707f8769d785_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-invites-gop-lawmakers-to-white-house-virus-relief-talk/2021/01/31/60714afe-6439-11eb-bab8-707f8769d785_story.html?outputType=amp"
+title: "Biden speaks to Netanyahu for first time since taking office"
+excerpt: "President Biden spoke with Israeli Prime Minister Benjamin Netanyahu on Wednesday, marking the first conversation between the two leaders since Biden took office a month ago."
+publishedDateTime: 2021-02-17T22:58:00Z
+originalUrl: "https://thehill.com/homenews/administration/539281-biden-speaks-to-netanyahu-for-first-time-since-taking-office"
+webUrl: "https://thehill.com/homenews/administration/539281-biden-speaks-to-netanyahu-for-first-time-since-taking-office"
+ampWebUrl: "https://thehill.com/homenews/administration/539281-biden-speaks-to-netanyahu-for-first-time-since-taking-office?amp"
+cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/539281-biden-speaks-to-netanyahu-for-first-time-since-taking-office?amp"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: The Hill
+  domain: thehill.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://thehill.com/sites/default/files/netanyahu_1_0.jpg"
+    width: 980
+    height: 551
     isCached: true
 
 related:
@@ -47,21 +47,21 @@ related:
         width: 844
         height: 545
         isCached: true
-  - title: "Biden speaks to Netanyahu for first time since taking office"
-    excerpt: "President Biden spoke with Israeli Prime Minister Benjamin Netanyahu on Wednesday, marking the first conversation between the two leaders since Biden took office a month ago."
-    publishedDateTime: 2021-02-17T22:58:00Z
-    webUrl: "https://thehill.com/homenews/administration/539281-biden-speaks-to-netanyahu-for-first-time-since-taking-office"
-    ampWebUrl: "https://thehill.com/homenews/administration/539281-biden-speaks-to-netanyahu-for-first-time-since-taking-office?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/539281-biden-speaks-to-netanyahu-for-first-time-since-taking-office?amp"
+  - title: "Biden invites GOP lawmakers to White House virus relief talk"
+    excerpt: "President Joe Biden is inviting to the White House a group of 10 Republican senators who have proposed spending about one-third of what he is seeking in coronavirus aid"
+    publishedDateTime: 2021-02-01T03:03:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-invites-gop-lawmakers-to-white-house-virus-relief-talk/2021/01/31/60714afe-6439-11eb-bab8-707f8769d785_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-invites-gop-lawmakers-to-white-house-virus-relief-talk/2021/01/31/60714afe-6439-11eb-bab8-707f8769d785_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-invites-gop-lawmakers-to-white-house-virus-relief-talk/2021/01/31/60714afe-6439-11eb-bab8-707f8769d785_story.html?outputType=amp"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/netanyahu_1_0.jpg"
-        width: 980
-        height: 551
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Biden HUD, economist nominees pledge to fight inequality, spar with Republicans"
     excerpt: "President Joe Biden's nominees for a key White House economic post and to lead the Department of Housing and Urban Development called on Thursday for more action to reduce inequities in the U.S. economy,"
@@ -202,6 +202,6 @@ related:
         height: 800
         isCached: true
 
-secured: "0gpf8LN9hxb4EFUlheoYlJJmUs4BtErtf1gMMGWgRGgqz8Y8WxYWtm5vf9lw3waG92tQC+EMfiMuNK4MWgG2tsSzenGoKhi6O6WlTg+a9FqItaqhYqB8dF9iY+01LgY92+Dq8ePAAsxE0h6lTB0iAl2qSqmHhKjHqXS/AbBvGKXjINv6ywe5FD6gvv2SgFexkmUh9iRNdj3099U1Qd6Dg/4TMGqm9IH3CL6YqSsE88tvHb3uQthSx3EOxI3NA1wPGAMYI0/IDthfwLMYnm536L1q1TKkolD7U81Q4NTqxn9p3h5z3XnvITFA3z4AxKyacLXVaacjRaDubp1XgIXYcGK6W89ZEIjJ20xdIOKu4rc=;JH3SBRKq1WWF8Tu3AosI9A=="
+secured: "P0dTrmhN6RswgMtknPa1XFiePtAT/+/ilIawdRQMlIyruJgaB8Th4pfGZYgcHFzeP2UUJla1584JCaX2MHO94l/P7LJnRQW/pAG0d/y4QlYVvEAAPHW02GP6xO/n2qaiNvOPSJBUHGcPMZ+8euEeK6mjS8A2qgQPEnkrUFvjuTDxtkdE5piVJPvIhLBz1yVSWIBKZ36ms5AochfiFs6iZURRq0zSDLaIhNQuRgJ+8tLfSTWAzjioGLQ4GrUBByF69uDhQwNEJDASSCHGR59T7QnBZGy70mJBNGnXipSGdrn1qhlB+w7FqUzw+RJd2YWyKE+yCyWAqtoT63uYODbyMOMD+gR3i4wF5t0U2uIc3n8=;WVKPV6CATi3hNiznc2vCxA=="
 ---
 

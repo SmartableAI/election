@@ -27,94 +27,29 @@ images:
     isCached: true
 
 related:
-  - title: "Feds arrest UCLA student accused of sitting in Pence's chair"
-    excerpt: "Authorities say a Los Angeles college student and self-described fascist has been arrested after sitting in former Vice President Mike Pence’s chair in the Senate chambers during the insurrection at the U."
-    publishedDateTime: 2021-02-17T23:39:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/feds-arrest-ucla-student-accused-sitting-pences-chair-75958077"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/feds-arrest-ucla-student-accused-sitting-pences-chair-75958077"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/feds-arrest-ucla-student-accused-sitting-pences-chair-75958077"
+  - title: "Mike Pence seen sheltering only 100 feet from insurrectionists in video from Capitol riots"
+    excerpt: "Video from the riots in Washington, D.C. shows Vice President Mike Pence evacuating with his family as insurrectionists were 100 feet away."
+    publishedDateTime: 2021-02-12T00:09:00Z
+    webUrl: "https://www.usatoday.com/videos/news/politics/2021/02/11/capitol-riot-footage-mike-pence-sheltering-insurrectionists-near/6728485002/"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
+      name: USA Today
+      domain: usatoday.com
+    quality: 95
     images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
+      - url: "https://www.gannett-cdn.com/presto/2021/02/11/USAT/4b88c8b2-1b2a-4058-953b-bc7bfef5f91b-Screen_Shot_2021-02-11_at_6.54.35_PM.jpg?quality=10"
+        width: 854
+        height: 530
         isCached: true
-  - title: "UCLA student from OC, who is charged in Capitol attack, sat in Pence’s chair, documents allege"
-    excerpt: "reached the outskirts of House Speaker Nancy Pelosi’s office during the vicious Jan. 6 attack and sat for a time in Vice President Mike Pence’s chair in the Senate chambers, according to court documents and reviews of security camera footage."
-    publishedDateTime: 2021-02-18T02:21:00Z
-    webUrl: "https://www.dailynews.com/2021/02/17/oc-resident-ucla-student-who-is-charged-in-capitol-riot-sat-in-pences-chair-came-close-to-pelosis-office-documents-allege/"
-    ampWebUrl: "https://www.dailynews.com/2021/02/17/oc-resident-ucla-student-who-is-charged-in-capitol-riot-sat-in-pences-chair-came-close-to-pelosis-office-documents-allege/amp/"
-    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2021/02/17/oc-resident-ucla-student-who-is-charged-in-capitol-riot-sat-in-pences-chair-came-close-to-pelosis-office-documents-allege/amp/"
+  - title: "Vice President Mike Pence is led from the Senate chamber during the January 6 insurrection at the U.S. Capitol"
+    excerpt: "Rep. Stacey Plaskett, Congressional Delegate, [D] Virgin Islands, speaks during the impeachment trial of former President Donald Trump, on February 10, 2021."
+    publishedDateTime: 2021-02-13T23:54:00Z
+    webUrl: "https://www.miamiherald.com/news/politics-government/article249242945.html"
     type: article
     provider:
-      name: Los Angeles Daily News
-      domain: dailynews.com
-    quality: 63
-    images:
-      - url: "https://www.dailynews.com/wp-content/uploads/2021/02/OCR-L-CMCAPITOL-0217-02-3.jpg?w=621&h=372"
-        width: 621
-        height: 372
-        isCached: true
-  - title: "Feds arrest UCLA student accused of sitting in Pence’s chair | Charlotte Observer"
-    excerpt: "Authorities say a Los Angeles college student and self-described fascist has been arrested after sitting in former Vice President Mike Pence’s chair in the Senate chambers during the insurrection at the U."
-    publishedDateTime: 2021-02-18T00:52:00Z
-    webUrl: "https://www.charlotteobserver.com/news/nation-world/national/article249324250.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/national/article249324250.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article249324250.html"
-    type: article
-    provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 50
-  - title: "Feds arrest UCLA student accused of sitting in Pence’s chair | Raleigh News & Observer"
-    excerpt: "A Los Angeles college student and self-described fascist was arrested after he sat in former Vice President Mike Pence's chair in the Senate chambers during the insurrection at the U.S. Capitol, authorities said. Officials say Christian Secor — a 22-year ..."
-    publishedDateTime: 2021-02-17T22:39:00Z
-    webUrl: "https://www.newsobserver.com/news/nation-world/national/article249324250.html"
-    ampWebUrl: "https://amp.newsobserver.com/news/nation-world/national/article249324250.html"
-    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/nation-world/national/article249324250.html"
-    type: article
-    provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
-    quality: 47
-  - title: "OC resident, UCLA student who is charged in Capitol riot sat in Pence’s chair, came close to Pelosi’s office, documents allege"
-    excerpt: "FBI documents appear to show the 22-year-old Costa Mesa resident carrying a flag as he walks through different areas of the Capitol during the Jan. 6 riot"
-    publishedDateTime: 2021-02-18T02:21:00Z
-    webUrl: "https://www.ocregister.com/2021/02/17/oc-resident-ucla-student-who-is-charged-in-capitol-riot-sat-in-pences-chair-came-close-to-pelosis-office-documents-allege/"
-    ampWebUrl: "https://www.ocregister.com/2021/02/17/oc-resident-ucla-student-who-is-charged-in-capitol-riot-sat-in-pences-chair-came-close-to-pelosis-office-documents-allege/amp/"
-    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2021/02/17/oc-resident-ucla-student-who-is-charged-in-capitol-riot-sat-in-pences-chair-came-close-to-pelosis-office-documents-allege/amp/"
-    type: article
-    provider:
-      name: Orange County Register
-      domain: ocregister.com
-    quality: 47
-    images:
-      - url: "https://www.ocregister.com/wp-content/uploads/2021/02/OCR-L-CMCAPITOL-0217-02-3.jpg?w=621&h=372"
-        width: 621
-        height: 372
-        isCached: true
-  - title: "Feds arrest student accused of sitting in Pence’s chair"
-    excerpt: "A Los Angeles college student was arrested after he sat in former Vice President Mike Pence’s chair in the Senate chambers during the insurrection at the U."
-    publishedDateTime: 2021-02-18T06:12:00Z
-    webUrl: "https://www.newstribune.com/news/national/story/2021/feb/18/feds-arrest-student-accused-of-sitting-in-pences-chair/860542/"
-    type: article
-    provider:
-      name: News Tribune
-      domain: newstribune.com
-    quality: 35
-  - title: "Feds arrest UCLA student accused of sitting in Mike Pence’s chair"
-    excerpt: "A Los Angeles college student and self-described fascist was arrested after he sat in former Vice President Mike Pence’s chair in the Senate chambers during the insurrection at the U.S. Capitol, authorities said."
-    publishedDateTime: 2021-02-18T01:59:00Z
-    webUrl: "https://triblive.com/news/world/feds-arrest-ucla-student-accused-of-sitting-in-mike-pences-chair/"
-    type: article
-    provider:
-      name: TribLIVE.com
-      domain: triblive.com
-    quality: 35
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 15
 
 secured: "5rzEznJ4RUsErUMrTXqUk7FvC8JE5zXyTt8tw6aeSqiZQUc9/+XF4Obww1s2XCi9XLjr9Dl7NGKRszXJuS8nw4zJKatHKr8ujghg4u1YwqW/ldr69d5uuGP54PTpTmLdjNlp4Q9/Mb0WkSiQQtXzuMNT40EXnd/Xi6KkkxvZnDX6q6M1Y9cxHwfv/y1LV4iLZk/PBo6TKQbejREYsIzxrwV6eEyoXVu/9pgCDQ870WhdHaZXcKh63bqmVA4Vf99LXucaICoMWuFTmKQuiDT+Jq1mFQKcM69QKQYC/yVFMRv3dZOQ29HbJK9bSAe7VKJmY+/N2ca7/k1EFy0Hi5owuk/E0uf6rltmkI6gDt9KwVE=;XQb7fW2hLwlkYE9+BFSLug=="
 ---

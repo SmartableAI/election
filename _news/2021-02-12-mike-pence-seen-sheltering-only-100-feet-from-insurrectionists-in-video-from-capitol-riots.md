@@ -7,7 +7,7 @@ originalUrl: "https://www.usatoday.com/videos/news/politics/2021/02/11/capitol-r
 webUrl: "https://www.usatoday.com/videos/news/politics/2021/02/11/capitol-riot-footage-mike-pence-sheltering-insurrectionists-near/6728485002/"
 type: article
 quality: 95
-heat: 115
+heat: 135
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Feds arrest UCLA student accused of sitting in Pence's chair during Capitol insurrection"
+    excerpt: "Authorities say a Los Angeles college student and self-described fascist has been arrested after sitting in former Vice President Mike Pence’s chair in the Senate chambers during the insurrection at the U."
+    publishedDateTime: 2021-02-18T01:46:00Z
+    webUrl: "https://www.turnto23.com/news/national/feds-arrest-ucla-student-accused-of-sitting-in-pences-chair-during-capitol-insurrection"
+    ampWebUrl: "https://www.turnto23.com/news/national/feds-arrest-ucla-student-accused-of-sitting-in-pences-chair-during-capitol-insurrection?_amp=true"
+    cdnAmpWebUrl: "https://www-turnto23-com.cdn.ampproject.org/c/s/www.turnto23.com/news/national/feds-arrest-ucla-student-accused-of-sitting-in-pences-chair-during-capitol-insurrection?_amp=true"
+    type: article
+    provider:
+      name: KERO-TV
+      domain: turnto23.com
+    quality: 66
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/8a5c2bc/2147483647/strip/true/crop/1092x614+0+73/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F19%2F40%2Ff2994f50462b84fa39423cb0926f%2Fsecor.png"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Vice President Mike Pence is led from the Senate chamber during the January 6 insurrection at the U.S. Capitol"
     excerpt: "Rep. Stacey Plaskett, Congressional Delegate, [D] Virgin Islands, speaks during the impeachment trial of former President Donald Trump, on February 10, 2021."
     publishedDateTime: 2021-02-13T23:54:00Z

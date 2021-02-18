@@ -63,6 +63,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden speaks to Netanyahu for first time since taking office"
+    excerpt: "President Biden spoke with Israeli Prime Minister Benjamin Netanyahu on Wednesday, marking the first conversation between the two leaders since Biden took office a month ago."
+    publishedDateTime: 2021-02-17T22:58:00Z
+    webUrl: "https://thehill.com/homenews/administration/539281-biden-speaks-to-netanyahu-for-first-time-since-taking-office"
+    ampWebUrl: "https://thehill.com/homenews/administration/539281-biden-speaks-to-netanyahu-for-first-time-since-taking-office?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/539281-biden-speaks-to-netanyahu-for-first-time-since-taking-office?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/netanyahu_1_0.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Biden HUD, economist nominees pledge to fight inequality, spar with Republicans"
     excerpt: "President Joe Biden's nominees for a key White House economic post and to lead the Department of Housing and Urban Development called on Thursday for more action to reduce inequities in the U.S. economy,"
     publishedDateTime: 2021-01-29T01:13:00Z

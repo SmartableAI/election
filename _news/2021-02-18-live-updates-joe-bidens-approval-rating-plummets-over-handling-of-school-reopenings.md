@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Snubbed by Obama? Joe Biden says White House ‘residence’ was unseen by him – until he moved in"
-excerpt: "President Joe Biden served in the U.S. Senate for more than 30 years, and then served eight years as Barack Obama’s vice president. But until he moved in last month, he said Tuesday night, he’d never been inside the presidential \"residence\" area of the White House."
-publishedDateTime: 2021-02-17T06:05:35Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6Mk4fARJE9c/snubbed-by-obama-joe-biden-says-white-house-residence-was-unseen-by-him-until-he-moved-in"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6Mk4fARJE9c/snubbed-by-obama-joe-biden-says-white-house-residence-was-unseen-by-him-until-he-moved-in"
-ampWebUrl: "https://www.foxnews.com/politics/snubbed-by-obama-joe-biden-says-white-house-residence-was-unseen-by-him-until-he-moved-in.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/snubbed-by-obama-joe-biden-says-white-house-residence-was-unseen-by-him-until-he-moved-in.amp"
+title: "LIVE UPDATES: Joe Biden’s approval rating plummets over handling of school reopenings"
+excerpt: "A survey from Quinnipiac University shows that when it comes to the president’s handling of the reopening of schools amid the COVID crisis, Biden’s approval rating plummets."
+publishedDateTime: 2021-02-18T07:19:06Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jnMzUHf26v4/live-updates-biden-2-18-2021"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jnMzUHf26v4/live-updates-biden-2-18-2021"
+ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-2-18-2021.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-2-18-2021.amp"
 type: article
-quality: 163
+quality: 168
 heat: -1
 published: false
 
@@ -25,9 +25,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/640/320/biden-obama-AP.jpg?ve=1&tl=1"
-    width: 640
-    height: 320
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/92e33c48-a88b-4023-8a75-9948aa3420a8/e2ac6695-f16c-45b7-93aa-f7b786b163e9/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -207,22 +207,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "LIVE UPDATES: Joe Biden’s approval rating plummets over handling of school reopenings"
-    excerpt: "A survey from Quinnipiac University shows that when it comes to the president’s handling of the reopening of schools amid the COVID crisis, Biden’s approval rating plummets."
-    publishedDateTime: 2021-02-18T07:19:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jnMzUHf26v4/live-updates-biden-2-18-2021"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-2-18-2021.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-2-18-2021.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/92e33c48-a88b-4023-8a75-9948aa3420a8/e2ac6695-f16c-45b7-93aa-f7b786b163e9/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Biden unveils China task force at Pentagon to 'chart a strong path forward' on Beijing"
     excerpt: "President Biden revealed Wednesday that the Department of Defense has established a wide-ranging task force that will conduct a strategic review of his administration’s strategy toward China amid mounting tensions in the Pacific."
     publishedDateTime: 2021-02-10T22:58:09Z
@@ -261,6 +245,22 @@ related:
     webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nwAgLYwO0SU/snubbed-by-obama-joe-biden-says-white-house-residence-was-unknown-to-him-until-he-moved-in"
     ampWebUrl: "https://www.foxnews.com/politics/snubbed-by-obama-joe-biden-says-white-house-residence-was-unknown-to-him-until-he-moved-in.amp"
     cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/snubbed-by-obama-joe-biden-says-white-house-residence-was-unknown-to-him-until-he-moved-in.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/640/320/biden-obama-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Snubbed by Obama? Joe Biden says White House ‘residence’ was unseen by him – until he moved in"
+    excerpt: "President Joe Biden served in the U.S. Senate for more than 30 years, and then served eight years as Barack Obama’s vice president. But until he moved in last month, he said Tuesday night, he’d never been inside the presidential \"residence\" area of the White House."
+    publishedDateTime: 2021-02-17T06:05:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6Mk4fARJE9c/snubbed-by-obama-joe-biden-says-white-house-residence-was-unseen-by-him-until-he-moved-in"
+    ampWebUrl: "https://www.foxnews.com/politics/snubbed-by-obama-joe-biden-says-white-house-residence-was-unseen-by-him-until-he-moved-in.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/snubbed-by-obama-joe-biden-says-white-house-residence-was-unseen-by-him-until-he-moved-in.amp"
     type: article
     provider:
       name: Fox News
@@ -444,6 +444,6 @@ related:
         height: 3480
         isCached: true
 
-secured: "2ryuwpCcFJGgbyxBK7nsjavk/Ecx/oK2Xc3LZwuUWEvebY47MNeThb71eVJngfBurQ/gMZqEaR4aiDGooHwZB2Wc44yz/FxB9qwslk0OVUK/t7utSVAVz+gv1DY3zUOBxryNxEFqEndrens4eOvSingPZ0X3PT7gEv7DwlxCN8GJifbQ//MpiIe7ylx1mNS0uUePazSeVjLaGutZ2ZINmhRfL8J/JfnluP5YFV6dNG1bCAeF2WA5MgEjbpN48r5t/wmH2/rKw9V3NCV+jOi/mk3IG9e7zbKLJ8Q7SnSIWu2S0bwAnAzlXQzI/1fbmDiYDMe1gqUHl499s1k8S+odztASXOOA/tDTvFS256NY14E=;Eu6+gDM9fIOYXtSmZqvHFQ=="
+secured: "+cNoW7G4k6GQcUOMD3fctnS2r6V2BktRJqsDhdzO1rv2mD6SzoIuPxpWpPj/i6opdEBnlYEkLuZTbnT+F3hE9L77tcDOKXO4rBAz9+mV+jGmOi6YXnLp3qLZz3RNjUqjOgDl/tAfdRuK47+QyRH5ZYFA+Pc8Rrysqj+UoP4kmkz6ls7T4GTrueyNfne7Qgpm9iuH92NHP/6QNDQDSGFGhcxWoYNC2MNcpYBzPDf/WkMVIHeRFsoI62J00qsLJghQk8RdOBVRZnP64n5JbPndrNWhYMyvyA9bB+DdQwSO+mXgaT2uJUIF/WjECYTshlsv7DrBWjcFCs7ppqk+0ZmViMK0qVHMayezm7INq1Quo20=;JiL9EfG9fwUFRfdLuD61LA=="
 ---
 

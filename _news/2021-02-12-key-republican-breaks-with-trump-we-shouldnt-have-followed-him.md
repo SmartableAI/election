@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/02/12/nikki-haley-trump
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/02/12/nikki-haley-trump-election-richard-haass-nr-vpx.cnn"
 type: article
 quality: 175
-heat: 395
+heat: 415
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202102/1613311501132_mtp_clip_a2_210214_1920x1080.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "NASA reassesses Trump's 2024 moon goal"
+    excerpt: "It has been widely anticipated that the 2024 goal would be impossible to meet given that a new rocket, capsule, lunar lander, and other components still need to be developed and fully tested."
+    publishedDateTime: 2021-02-18T08:32:00Z
+    webUrl: "https://www.politico.com/news/2021/02/16/nasa-trump-2024-moon-landing-goal-469135"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/02/16/nasa-trump-2024-moon-landing-goal-469135"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/02/16/nasa-trump-2024-moon-landing-goal-469135"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/d4/f4/59894d424c609506f8af3a8065fb/ap20121624457519-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Of course Donald Trump's team didn't tell the truth about his Covid-19 illness"
     excerpt: "Donald Trump was far sicker with Covid-19 than the White House physician or his top aides let on, even to the point where there were concerns that the then-President would have to be put on a ventilator to deal with the illness."

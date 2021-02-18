@@ -207,6 +207,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "LIVE UPDATES: Joe Biden’s approval rating plummets over handling of school reopenings"
+    excerpt: "A survey from Quinnipiac University shows that when it comes to the president’s handling of the reopening of schools amid the COVID crisis, Biden’s approval rating plummets."
+    publishedDateTime: 2021-02-18T07:19:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jnMzUHf26v4/live-updates-biden-2-18-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-2-18-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-2-18-2021.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/92e33c48-a88b-4023-8a75-9948aa3420a8/e2ac6695-f16c-45b7-93aa-f7b786b163e9/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Secret Service arrests woman with loaded gun near White House, claims she had letter for Biden"
     excerpt: "D.C. Police on Saturday arrested a 66-year-old woman on charges that she was carrying a loaded near the White House, Fox News has confirmed."
     publishedDateTime: 2021-02-14T23:24:19Z
