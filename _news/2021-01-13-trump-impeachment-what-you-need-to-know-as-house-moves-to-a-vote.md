@@ -47,22 +47,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Democrats Urge Mitch McConnell to Publicly Back Removing Donald Trump"
-    excerpt: "The president's adversaries continue to push his impeachment as part of a sustained backlash against him following the events of January 6."
-    publishedDateTime: 2021-01-13T09:41:00Z
-    webUrl: "https://www.newsweek.com/mitch-mcconnell-donald-trump-impeachment-democrats-1561079"
-    ampWebUrl: "https://www.newsweek.com/mitch-mcconnell-donald-trump-impeachment-democrats-1561079?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mitch-mcconnell-donald-trump-impeachment-democrats-1561079?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 125
-    images:
-      - url: "https://d.newsweek.com/en/full/1705259/mitch-mcconnell-capitol.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "House Democrats deliver Trump impeachment charge to Senate"
     excerpt: "The U.S. House of Representatives delivered to the Senate on Monday a charge that former President Donald Trump incited insurrection in a speech to supporters before the deadly attack on the Capitol,"
     publishedDateTime: 2021-01-26T06:51:00Z

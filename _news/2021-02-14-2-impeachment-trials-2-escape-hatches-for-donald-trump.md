@@ -73,22 +73,6 @@ related:
         width: 811
         height: 545
         isCached: true
-  - title: "7 Republicans vote to convict Trump in impeachment trial"
-    excerpt: "Seven Republicans voted Saturday to convict former President Donald Trump in his Senate trial, easily the largest number of lawmakers to ever vote to find a president of their own party guilty at impeachment proceedings."
-    publishedDateTime: 2021-02-14T02:28:00Z
-    webUrl: "https://www.washingtonpost.com/politics/7-republicans-vote-to-convict-trump-in-impeachment-trial/2021/02/13/7bd44d24-6e42-11eb-a66e-e27046e9e898_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/7-republicans-vote-to-convict-trump-in-impeachment-trial/2021/02/13/7bd44d24-6e42-11eb-a66e-e27046e9e898_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/7-republicans-vote-to-convict-trump-in-impeachment-trial/2021/02/13/7bd44d24-6e42-11eb-a66e-e27046e9e898_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "After impeachment acquittal, Trump remains dominant in GOP"
     excerpt: "After he incited a deadly riot at the U.S. Capitol last month, the GOP considered purging the norm-shattering former president. But in the end, only seven of 50 Senate Republicans voted to convict Trump in his historic second impeachment trial on Saturday."
     publishedDateTime: 2021-02-14T10:34:00Z
@@ -969,17 +953,6 @@ related:
         width: 1024
         height: 649
         isCached: true
-  - title: "READ: McConnell Speech After Trump's Impeachment Trial Acquittal"
-    excerpt: "Senate Minority Leader Mitch McConnell delivered a blistering condemnation of former President Donald Trump after Trump was acquitted in his impeachment trial."
-    publishedDateTime: 2021-02-14T16:39:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-02-14/read-mcconnell-speech-after-trumps-impeachment-trial-acquittal"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-14/read-mcconnell-speech-after-trumps-impeachment-trial-acquittal?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-14/read-mcconnell-speech-after-trumps-impeachment-trial-acquittal?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
   - title: "With Republican Firewall, U.S. Senate Acquits Trump of Inciting Deadly Capitol Riot"
     excerpt: "Donald Trump's second impeachment trial could conclude on Saturday, leaving a divided U.S. Senate to decide whether the former president incited his supporters to attack the U.S. Capitol on Jan. 6 in a last-ditch effort to stay in power after his November election defeat."
     publishedDateTime: 2021-02-14T22:19:00Z

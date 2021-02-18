@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/06/liz-cheney-censured-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/06/liz-cheney-censured-by-wyoming-republican-party-for-voting-to-impeach-trump"
 type: article
 quality: 123
-heat: 223
+heat: 263
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://s.abcnews.com/images/General/gop-liz-cheney-matt-gaetz-wyoming-04-gty-210128_1611878359548_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Exclusive: Dozens of former Republican officials in talks to form anti-Trump third party"
+    excerpt: "Dozens of former Republican officials, who view the party as unwilling to stand up to former President Donald Trump and his attempts to undermine U.S. democracy, are in talks to form a center-right breakaway party,"
+    publishedDateTime: 2021-02-11T08:41:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-party-exclusive-idUSKBN2AB07P"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AB07P"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AB07P"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 116
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210211&t=2&i=1551126039&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1A051"
+        width: 813
+        height: 545
         isCached: true
   - title: "Video surfaces showing Trump ally Roger Stone flanked by Oath Keepers on morning of Jan. 6"
     excerpt: "A new video has surfaced showing former President Trump's adviser Roger Stone flanked by members of the Oath Keepers just hours before the deadly riot at the Capitol."
@@ -110,6 +126,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/kCqS5P5WC39bSue-e9RXnprCOTQ=/1200x0/center/bottom/cloudfront-us-east-1.images.arcpublishing.com/tronc/MT27UL6PIVCNVJGKREWOTHUM3E.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Senate Acquits Trump With Seven Republicans Joining All 50 Democrats in Voting ‘Guilty’"
+    excerpt: "Mitch McConnell spoke after the verdict to denounce Trump’s conduct while insisting his trial was unconstitutional."
+    publishedDateTime: 2021-02-14T02:38:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/02/senate-acquits-trump-with-seven-republicans-defecting.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/02/senate-acquits-trump-with-seven-republicans-defecting.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/02/senate-acquits-trump-with-seven-republicans-defecting.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 67
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/4f7/742/f99a5a8f182f257ba6fe3100462802bb5d-impeachment-trial-verdict-screencap.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "Hzi+c1uM5KOaXOm6dPHXuey4aiVxI727rt2DIVY9HjGfbiY2Ztz58ICOjwA7xCTo3EQyShZIv2+ymC4Zt8JsZoTq3OMpjluVeSKKSJrorNUWDMPA+kLc5JR91EBpRNEIMVOk0B/SbIPw8rlwE3Y4u8q5G/qgyYC+mGn5LsHlSxFSUF9l1JmjvGMZ5l/AAGMZ4mENeGDtcx44rc4QecjGN4uPKZ9Omicx5rZSvpQe5oQhQKFAPPbp0SX0hZ1g7cz7Qqrfr102g3LzZ/KL3ftjlh/VrXF1OQa8D9lo27qPaBKqvXaa6ZkBCnx+3D91I+MlQVkrUVVvIc8LMjBbhI0nAjtvti05FiO9HKryvRvu6tPAsa44BD3vouMQrorcjNq4H6QCB8Sg3bM8gOGdZa1/i+ec4LEfK9wv3LADupXQBfOvxkVMhmIfCI/v5tQnddJezNloBF2Z1iLFHpH0jugaigUpVoDCzW3GNYZoLoXUCTWEtT2okx6bL3dVpwL+wI4Gp+a90owQ4TLX2cJYBAkDMQ==;xQhqL+jSzjOiMNSoPbQOwQ=="

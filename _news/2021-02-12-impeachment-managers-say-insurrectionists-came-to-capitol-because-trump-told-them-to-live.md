@@ -95,38 +95,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Loyalty to Trump remains the fault line for Republicans"
-    excerpt: "Seven Republicans voted to convict Trump, several more condemned him, but the party, overall remains loyal to the former president."
-    publishedDateTime: 2021-02-14T14:26:00Z
-    webUrl: "https://www.latimes.com/politics/story/2021-02-14/loyalty-to-trump-remains-the-fault-line-for-republicans"
-    ampWebUrl: "https://www.latimes.com/politics/story/2021-02-14/loyalty-to-trump-remains-the-fault-line-for-republicans?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-02-14/loyalty-to-trump-remains-the-fault-line-for-republicans?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 125
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/e7614f7/2147483647/strip/true/crop/840x549+0+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F11%2Ff4%2F678a93204bfd860e526e5986ae1c%2Fvaccine.jpg"
-        width: 320
-        height: 209
-        isCached: true
-  - title: "Trump got off on a technicality"
-    excerpt: "Republicans mostly cited the alleged unconstitutionality of the trial in voting to acquit. But their statements suggest we might have come close to 67 votes on the merits."
-    publishedDateTime: 2021-02-14T23:16:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/02/14/trump-got-off-technicality/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/02/14/trump-got-off-technicality/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/02/14/trump-got-off-technicality/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/02-11-2021/t_3663950b3bda48959ae2d8edf9d83996_name_ImpeachmentThisWeek_Week3_2021_Thumb_v01.png&w=1440"
-        width: 1440
-        height: 810
-        isCached: true
   - title: "First Thing: Donald Trump is still a threat to democracy, Democrats warn"
     excerpt: "House impeachment managers urged senators to prevent Trump from holding office again. Plus, former Republican officials discuss creating a new party"
     publishedDateTime: 2021-02-12T11:00:00Z
@@ -159,22 +127,6 @@ related:
         width: 983
         height: 589
         isCached: true
-  - title: "Donald Trump Escapes Conviction a Second Time, Leaving Door Open for 2024 Run"
-    excerpt: "Donald Trump's second acquittal in the Senate raises questions about whether the former president will seek federal office again."
-    publishedDateTime: 2021-02-13T20:53:00Z
-    webUrl: "https://www.newsweek.com/donald-trump-escapes-conviction-second-time-leaving-door-open-2024-run-1569042"
-    ampWebUrl: "https://www.newsweek.com/donald-trump-escapes-conviction-second-time-leaving-door-open-2024-run-1569042?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-escapes-conviction-second-time-leaving-door-open-2024-run-1569042?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 122
-    images:
-      - url: "https://d.newsweek.com/en/full/1734511/trump-acquittal-2024-run.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "Democrats say calling witnesses in Trump impeachment trial could have cost them GOP votes"
     excerpt: "\"Listen, we didn't need more witnesses. We needed more senators with spines,\" Del. Stacey Plaskett said Sunday."
     publishedDateTime: 2021-02-15T04:12:00Z
@@ -190,22 +142,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/02/14/USAT/c4adb8f0-dc41-4614-a642-5f87d176664b-GTY_1302002799.jpg?auto=webp&crop=5104,2871,x1277,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "McConnell would have happily considered finding Trump guilty, were it not for Mitch McConnell"
-    excerpt: "There’s no question, none, that President Trump is practically and morally responsible for provoking” the attack on the U.S. Capitol on Jan. 6, Senate Minority Leader Mitch McConnell (R-Ky.) said Saturday,"
-    publishedDateTime: 2021-02-14T20:23:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/02/13/mcconnell-would-have-happily-considered-finding-trump-guilty-were-it-not-mitch-mcconnell/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/02/13/mcconnell-would-have-happily-considered-finding-trump-guilty-were-it-not-mitch-mcconnell/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/02/13/mcconnell-would-have-happily-considered-finding-trump-guilty-were-it-not-mitch-mcconnell/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 114
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/02-13-2021/t_ed8daf3ec7794d9486c5ced0b3c93c00_name_McConnell.jpg&w=1440"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Trump was pictured golfing as Democrats hammered home the case against him at his impeachment trial"
     excerpt: "Mail published photos of Trump golding at his Florida resort during his impeachment trial, and a CNN anchor said he was pictured."
@@ -252,22 +188,6 @@ related:
       - url: "https://i.insider.com/60255e607fd8c100193133a3?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "New Evidence Shows Trump Used Riot To Pressure Congress to Steal Election"
-    excerpt: "Trump encouraged a public demonstration, promised in advance it would be “wild,” instructed his supporters that extraordinary measures were needed to save the republic from his “landslide” election being stolen,"
-    publishedDateTime: 2021-02-13T20:33:00Z
-    webUrl: "https://nymag.com/intelligencer/2021/02/trump-kevin-mccarthy-phone-call-capitol-riot-insurrection-beutler-impeachment-evidence.html"
-    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/02/trump-kevin-mccarthy-phone-call-capitol-riot-insurrection-beutler-impeachment-evidence.html"
-    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/02/trump-kevin-mccarthy-phone-call-capitol-riot-insurrection-beutler-impeachment-evidence.html"
-    type: article
-    provider:
-      name: New York Magazine
-      domain: nymag.com
-    quality: 89
-    images:
-      - url: "https://pyxis.nymag.com/v1/imgs/caa/19d/fef718778529089fbfd650e8f94599486d-capitol-rioters.1x.rsocial.w1200.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "'Fighting for Trump:' Democrats Say Capitol Attackers Were Answering Ex-President's Call"
     excerpt: "Democrats Say Capitol Attackers Were Answering Ex-President's Call WASHINGTON (Reuters) - Democrats making the case for Donald Trump's conviction for inciting the deadly attack on the U.S. Capitol on Jan."

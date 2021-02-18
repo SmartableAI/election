@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "House's No. 2 Republican drops by Mar-a-Lago amid GOP divide over Trump"
+    excerpt: "Rep. Steve Scalise, the No. 2 House Republican, privately met with former President Donald Trump in Florida earlier this week, the latest example of the splintering views among leading congressional Republicans on the role Trump plays in the party going forward.\n    \n"
+    publishedDateTime: 2021-02-18T14:32:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8g9C6wxwoU0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/18/politics/steve-scalise-donald-trump-mar-a-lago/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/18/politics/steve-scalise-donald-trump-mar-a-lago/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180228175126-rep-steve-scalise-trump-concealed-carry-bill-sot-00001829-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Louisiana Republican Party censures Cassidy following vote to convict Trump "
     excerpt: "The Louisiana Republican Party swiftly moved Saturday to censure GOP Sen. Bill Cassidy after he voted earlier in the day to convict former President Donald Trump in his second impeachment trial.\n    \n"
     publishedDateTime: 2021-02-14T01:53:27Z

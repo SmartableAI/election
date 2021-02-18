@@ -141,6 +141,22 @@ related:
         width: 1024
         height: 736
         isCached: true
+  - title: "What was Kamala Harris’ role in helping Minneapolis rioters? | Charlotte Observer"
+    excerpt: "If you use this model, I don’t know how Kamala Harris doesn’t get impeached if the Republicans take over the House, because she actually bailed out rioters, and one of the rioters went back to the streets and broke somebody’s head open,"
+    publishedDateTime: 2021-02-18T13:00:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/article249293135.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/article249293135.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article249293135.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 70
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/7c958e2a-8609-4d9d-819e-605abd03947c/22a0d5a2-2296-4a79-a350-caed77e40c72/1280x720/match/image.jpg?pubId=5615998035001"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Kamala Harris, Husband Doug Emhoff Give Healthcare Workers A Valentine's Day Surprise"
     excerpt: "Kamala Harris and her husband, Doug Emhoff, handed out cookies to essential healthcare workers for Valentine's Day."
     publishedDateTime: 2021-02-14T07:27:00Z

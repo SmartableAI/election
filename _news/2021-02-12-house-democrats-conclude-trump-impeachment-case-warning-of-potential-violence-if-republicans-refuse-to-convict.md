@@ -159,22 +159,6 @@ related:
         width: 1440
         height: 932
         isCached: true
-  - title: "Donald Trump rips Mitch McConnell as each seeks to exert leadership after impeachment trial"
-    excerpt: "Trump described McConnell as a \"hack\" who will not be able to lead the Republicans back to victory; McConnell supporters have also denounced Trump."
-    publishedDateTime: 2021-02-16T22:41:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/16/donald-trump-rips-mitch-mcconnell-each-seeks-exert-leadership/6772181002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6772181002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6772181002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 115
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/02/13/USAT/dd93fcf1-0c6c-43ed-810a-f49b16f0cb2c-AP_Trump_3.jpg?auto=webp&crop=3779,2126,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Majority of Americans say Trump should be convicted, barred from holding federal office in impeachment trial: POLL"
     excerpt: "In a new ABC News/Ipsos poll, a majority of Americans support the Senate convicting former President Trump in his second impeachment trial, but the partisan gap persists."
     publishedDateTime: 2021-02-07T14:06:00Z

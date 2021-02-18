@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Trump attacks McConnell as ‘political hack,’ says he will back pro-Trump candidates"
-    excerpt: "The lengthy and personal diatribe escalated a growing rift in the GOP about whether it will be controlled by pro-Trump forces or those viewed as more traditional Republicans."
-    publishedDateTime: 2021-02-17T07:51:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-mcconnell-republican-primaries/2021/02/16/2e37b07e-7072-11eb-93be-c10813e358a2_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-mcconnell-republican-primaries/2021/02/16/2e37b07e-7072-11eb-93be-c10813e358a2_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-mcconnell-republican-primaries/2021/02/16/2e37b07e-7072-11eb-93be-c10813e358a2_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 119
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/55AQ3LDOJMI6XHVNM4YWRVNYOQ.jpg&w=1440"
-        width: 1072
-        height: 667
-        isCached: true
 
 secured: "KUOxvgifdQd1wI8G/K0liW5jEeh///AsWvc8YKGSIdB/aqBtI/HvDCtyo2A8rrVnUAbbO4wrSSE+rouKXT/tp4WNM2q529XmIJ3NaRdO8LL3StYUqWhiFKPtn4Fj05aJRNNomF3MeP/+yxdsCJxoYqU6Xr3aHZURuzfdQTA0Ocne0Fy3/5Pqw1ya6m4T3Cqf4nf7dSii/12q9nS2+5YSCaNpCGMItAvLi1O0i5hQ0QVwbOjcnpORa6P11qK89cDjn2RpABmK/koVsEDP1Si3oYt0eEeifrnpFvhmewoNSBDoCZ05BCoY1TsclxnBcPVGcj0WMWViOE8njlt+paSi10720944fDERiKvsmn1ZH7G/uVc2/6SG8YedqbryU7waVEQj3IyGYmFOU0TxHznEsig8AlABpwM2EtbwkqviwPPcXbFMvijQTvViijKwqmLQPpOR3bLU28QcbzW3grwFXqcKVUWrNLGbvk/1ocZaBmeKvzKXNs/rWQV3QT74tnYlPOKLsc4jSTOToVBhllPh/A==;cGF/V+u96JHRP/33zDuUsQ=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/us/bowe-bergdahl-names-trump-mccain-as-defen
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/bowe-bergdahl-names-trump-mccain-as-defendants-in-lawsuit-challenging-court-martial.amp"
 type: article
 quality: 128
-heat: 128
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -30,6 +30,24 @@ images:
     width: 640
     height: 320
     isCached: true
+
+related:
+  - title: "Bowe Bergdahl targets Trump, McCain comments in lawsuit challenging court-martial"
+    excerpt: "Former U.S. Army Sgt. Robert \"Bowe\" Bergdahl, who was court-martialed in 2017 after being accused of abandoning his post in Afghanistan and endangering fellow service members, has filed a civil lawsuit in a bid to overturn his conviction."
+    publishedDateTime: 2021-02-18T13:17:00Z
+    webUrl: "https://www.foxnews.com/us/bowe-bergdahl-targets-trump-mccain-comments-in-lawsuit-challenging-court-martial"
+    ampWebUrl: "https://www.foxnews.com/us/bowe-bergdahl-targets-trump-mccain-comments-in-lawsuit-challenging-court-martial.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/bowe-bergdahl-targets-trump-mccain-comments-in-lawsuit-challenging-court-martial.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/05/640/320/Bergdahl053119.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "TbhcjugVm0oVWm6HHFlT0n5C+vJeDzx9ocy9Y8VsLhPiIZVrH5gJb6Ekr/O4RK9djvEiSRRbmQMD9eV/wp4gCuAQqFWhEkIR/kGTatGR0Bds4cyBIXJ4syO1QbuDm7ek1i9fe3FzpQyPQPDnIbT1azR/wADWuAZbtc3C9ceBLrgoFBnx+GQNpozEVxoMLjlNJ08OjbWmGBWumvZD8W1iSClEJEr4Ix75exvuZgdKBcC31mKc9A1uT1DhrgdI9LBRq4LqYQ0lQNlr1FKyvKrcwtGQLJCiSzxeiRNDs+FafSPOqVcIg6XlQ0GhyIgdMeKctiYXGqIuA7z9OXBuT7uPY7aXQXAc/acAP6TU6T/HUd4=;+a+TB5GHT0yVnMUGjmONaw=="
 ---

@@ -45,6 +45,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Former Trump casino where stars played goes out with a bang"
+    excerpt: "A spot on the Atlantic City Boardwalk where movie stars, athletes and rock stars used to party and a future president honed his instincts for bravado and hype has been reduced to a dusty pile of rubbl"
+    publishedDateTime: 2021-02-17T16:32:00Z
+    webUrl: "https://abcnews.go.com/Lifestyle/wireStory/trump-casino-stars-played-bang-75939905"
+    ampWebUrl: "https://abcnews.go.com/amp/Lifestyle/wireStory/trump-casino-stars-played-bang-75939905"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Lifestyle/wireStory/trump-casino-stars-played-bang-75939905"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Lifestyle/WireAP_108db10c88804d9f905cfac5913a7a21_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Wednesday's Trump Plaza implosion signals end of an era in Atlantic City"
     excerpt: "The tower of the abandoned Trump Plaza Hotel and Casino on the Atlantic City Boardwalk is set to fall Wednesday morning around 8:30 a.m. EST."
     publishedDateTime: 2021-02-17T12:15:00Z
@@ -72,6 +88,20 @@ related:
     quality: 105
     images:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/02/13/a8c0f061-b32b-435f-92a1-8a38b8db46e2/thumbnail/1200x630/f61b31ee01e950b6826672066705431f/cbsn-fusion-senate-acquits-trump-impeachment-lawyer-michael-van-der-veen-thumbnail-645843-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Donald Trump's former casino in Atlantic City demolished – video"
+    excerpt: "Trump, who opened the building on the oceanfront boardwalk in 1984, lost control of it in a 2009 bankruptcy"
+    publishedDateTime: 2021-02-17T10:31:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2021/feb/17/donald-trumps-former-casino-in-atlantic-city-demolished-video"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
+    images:
+      - url: "https://i.guim.co.uk/img/media/7d6c324dfade67e4e9e038ca4361f81174254402/295_0_2636_1583/master/2636.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d9702bf15f1f06d4d84aba6a887f1398"
         width: 1200
         height: 630
         isCached: true

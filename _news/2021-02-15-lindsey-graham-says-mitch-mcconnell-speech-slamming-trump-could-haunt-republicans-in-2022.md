@@ -31,6 +31,118 @@ images:
     isCached: true
 
 related:
+  - title: "Donald Trump versus Mitch McConnell: Tension could make 2022 election messy for Republicans"
+    excerpt: "The divide between the former allies presents an uncomfortable possibility for Republicans and a delightful one for Democrats."
+    publishedDateTime: 2021-02-18T14:10:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/18/trump-mcconnell-tension-could-make-2022-election-messy-republicans/6797680002/?scrolla=5eb6d68b7fedc32c19ef33b4"
+    ampWebUrl: "https://amp.usatoday.com/amp/6797680002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6797680002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 130
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/06/USAT/34db0524-c125-4e4e-aeac-1070347db23a-AFP_AFP_1N660V.JPG?auto=webp&crop=3020,1699,x0,y151&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Democrats Urge Mitch McConnell to Publicly Back Removing Donald Trump"
+    excerpt: "The president's adversaries continue to push his impeachment as part of a sustained backlash against him following the events of January 6."
+    publishedDateTime: 2021-01-13T09:41:00Z
+    webUrl: "https://www.newsweek.com/mitch-mcconnell-donald-trump-impeachment-democrats-1561079"
+    ampWebUrl: "https://www.newsweek.com/mitch-mcconnell-donald-trump-impeachment-democrats-1561079?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mitch-mcconnell-donald-trump-impeachment-democrats-1561079?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1705259/mitch-mcconnell-capitol.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Mitch McConnell proposes delaying Trump's impeachment trial"
+    excerpt: "Senate Republican leader says former president needs time to prepare"
+    publishedDateTime: 2021-01-22T00:19:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/21/mitch-mcconnell-trump-impeachment-senate-trial-delay"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/21/mitch-mcconnell-trump-impeachment-senate-trial-delay"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/21/mitch-mcconnell-trump-impeachment-senate-trial-delay"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/8b72e7241aaeecaf29c5194317f27355410a48fa/93_407_4251_2551/master/4251.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cb217671c784e955adc5effb3f4a0690"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "McConnell says he'll vote to acquit Trump"
+    excerpt: "Senate GOP Leader Mitch McConnell (Ky.) said Saturday that he will vote to acquit former President Trump, ending weeks of speculation about what he would do."
+    publishedDateTime: 2021-02-13T14:56:00Z
+    webUrl: "https://thehill.com/homenews/senate/538730-mcconnell-says-hell-vote-to-acquit-trump"
+    ampWebUrl: "https://thehill.com/homenews/senate/538730-mcconnell-says-hell-vote-to-acquit-trump?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/538730-mcconnell-says-hell-vote-to-acquit-trump?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/mcconnellmitch_020821gn2_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "7 Republicans vote to convict Trump in impeachment trial"
+    excerpt: "Seven Republicans voted Saturday to convict former President Donald Trump in his Senate trial, easily the largest number of lawmakers to ever vote to find a president of their own party guilty at impeachment proceedings."
+    publishedDateTime: 2021-02-14T02:28:00Z
+    webUrl: "https://www.washingtonpost.com/politics/7-republicans-vote-to-convict-trump-in-impeachment-trial/2021/02/13/7bd44d24-6e42-11eb-a66e-e27046e9e898_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/7-republicans-vote-to-convict-trump-in-impeachment-trial/2021/02/13/7bd44d24-6e42-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/7-republicans-vote-to-convict-trump-in-impeachment-trial/2021/02/13/7bd44d24-6e42-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Loyalty to Trump remains the fault line for Republicans"
+    excerpt: "Seven Republicans voted to convict Trump, several more condemned him, but the party, overall remains loyal to the former president."
+    publishedDateTime: 2021-02-14T14:26:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-02-14/loyalty-to-trump-remains-the-fault-line-for-republicans"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-02-14/loyalty-to-trump-remains-the-fault-line-for-republicans?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-02-14/loyalty-to-trump-remains-the-fault-line-for-republicans?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/e7614f7/2147483647/strip/true/crop/840x549+0+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F11%2Ff4%2F678a93204bfd860e526e5986ae1c%2Fvaccine.jpg"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "Trump got off on a technicality"
+    excerpt: "Republicans mostly cited the alleged unconstitutionality of the trial in voting to acquit. But their statements suggest we might have come close to 67 votes on the merits."
+    publishedDateTime: 2021-02-14T23:16:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/02/14/trump-got-off-technicality/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/02/14/trump-got-off-technicality/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/02/14/trump-got-off-technicality/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/02-11-2021/t_3663950b3bda48959ae2d8edf9d83996_name_ImpeachmentThisWeek_Week3_2021_Thumb_v01.png&w=1440"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "Trump triumphant – but senior Republicans still see battles ahead"
     excerpt: "Former president celebrates second impeachment acquittal as supporters and moderates prepare to contest party direction"
     publishedDateTime: 2021-02-14T18:19:00Z
@@ -63,21 +175,21 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Trump drives by supporters' rally in West Palm Beach"
-    excerpt: "Former President Trump drove by supporters at a rally in Florida on Monday, CBS West Palm affiliate WPEC reported. It's the first time he has been spotted in public since Saturday, when the Senate acquitted him in his second impeachment trial."
-    publishedDateTime: 2021-02-16T12:23:00Z
-    webUrl: "https://www.cbsnews.com/news/trump-supporter-rally-west-palm-beach/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-supporter-rally-west-palm-beach/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-supporter-rally-west-palm-beach/"
+  - title: "McConnell responds to critics after voting to acquit Trump"
+    excerpt: "Ky., is defending his decision to acquit former President Donald Trump and hitting back at criticisms he stalled the trial."
+    publishedDateTime: 2021-02-16T23:08:00Z
+    webUrl: "https://abcnews.go.com/Politics/mcconnell-responds-critics-voting-acquit-trump/story?id=75924352"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/mcconnell-responds-critics-voting-acquit-trump/story?id=75924352"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/mcconnell-responds-critics-voting-acquit-trump/story?id=75924352"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/02/15/375bd093-35fa-4e88-a1af-dd9a5600c990/thumbnail/1200x630/9c506a9295e6c9ac43a1cfde0b08983e/trump-west-palm.png"
-        width: 1200
-        height: 630
+      - url: "https://s.abcnews.com/images/General/impeachment-president-donald-trump-07-gty-llr-210212_1613173401641_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Trump lashes out at McConnell in deepening feud between top Republicans"
     excerpt: "Former President Donald Trump lashed out at Senate Minority Leader Mitch McConnell on Tuesday, signaling a growing feud between the two most senior Republican voices after the party lost the White House and control of the Senate."
@@ -111,21 +223,21 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Former Trump casino where stars played goes out with a bang"
-    excerpt: "A spot on the Atlantic City Boardwalk where movie stars, athletes and rock stars used to party and a future president honed his instincts for bravado and hype has been reduced to a dusty pile of rubbl"
-    publishedDateTime: 2021-02-17T16:32:00Z
-    webUrl: "https://abcnews.go.com/Lifestyle/wireStory/trump-casino-stars-played-bang-75939905"
-    ampWebUrl: "https://abcnews.go.com/amp/Lifestyle/wireStory/trump-casino-stars-played-bang-75939905"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Lifestyle/wireStory/trump-casino-stars-played-bang-75939905"
+  - title: "Trump targets Republican leader McConnell"
+    excerpt: "\"Mitch is a dour, sullen, and unsmiling political hack,\" said Mr Trump, \"and if Republican Senators are going to stay with him, they will not win again.\" Mr McConnell, who led the Senate for years, voted to acquit Mr Trump in his impeachment trial last week."
+    publishedDateTime: 2021-02-16T22:41:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-56092781"
+    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-56092781"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-56092781"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: BBC
+      domain: bbc.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Lifestyle/WireAP_108db10c88804d9f905cfac5913a7a21_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/151A8/production/_117004468_mm.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Trump-McConnell feud threatens Republicans' path to power"
     excerpt: "Former President Donald Trump is stepping up a political war within the Republican Party that could undermine the GOP’s ability to fight President Joe Biden’s agenda and ultimately return the party to"
@@ -159,6 +271,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "What Mitch McConnell Has Said About Impeaching Donald Trump for Second Time"
+    excerpt: "The article of impeachment accuses Trump of \"incitement of insurrection\" for the riots at the Capitol building on January 6, and according to a recent report from The New York Times, Senate Majority Leader Mitch McConnell may be leaning toward voting in favor of impeachment."
+    publishedDateTime: 2021-01-13T15:44:00Z
+    webUrl: "https://www.newsweek.com/what-mitch-mcconnell-has-said-about-impeaching-donald-trump-second-time-1561200"
+    ampWebUrl: "https://www.newsweek.com/what-mitch-mcconnell-has-said-about-impeaching-donald-trump-second-time-1561200?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/what-mitch-mcconnell-has-said-about-impeaching-donald-trump-second-time-1561200?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 123
+    images:
+      - url: "https://d.newsweek.com/en/full/1705612/mitch-mcconnell.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Trump lashes out after McConnell blames him for Capitol insurrection – live"
     excerpt: "Senate minority leader has said Trump is ‘practically and morally’ responsible for US Capitol attack"
     publishedDateTime: 2021-02-17T00:37:00Z
@@ -175,85 +303,197 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Acquitted again by Senate, Trump still a powerful force in Republican politics"
-    excerpt: "It is still Donald Trump’s Republican Party - at least for now. The vote by 43 of the 50 Republican senators to acquit Trump on the charge of inciting last month’s deadly riot at the U.S. Capitol, with only seven voting for conviction,"
-    publishedDateTime: 2021-02-14T18:11:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-future-idUSKBN2AE04T"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AE04T"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AE04T"
+  - title: "Donald Trump Escapes Conviction a Second Time, Leaving Door Open for 2024 Run"
+    excerpt: "Donald Trump's second acquittal in the Senate raises questions about whether the former president will seek federal office again."
+    publishedDateTime: 2021-02-13T20:53:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-escapes-conviction-second-time-leaving-door-open-2024-run-1569042"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-escapes-conviction-second-time-leaving-door-open-2024-run-1569042?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-escapes-conviction-second-time-leaving-door-open-2024-run-1569042?amp=1"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: Newsweek
+      domain: newsweek.com
+    quality: 122
+    images:
+      - url: "https://d.newsweek.com/en/full/1734511/trump-acquittal-2024-run.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Trump calls McConnell a ‘political hack’ as GOP divide deepens post-impeachment"
+    excerpt: "Former President Donald Trump blistered Mitch McConnell as a “political hack,\" following McConnell’s speech calling Trump responsible Capitol riot."
+    publishedDateTime: 2021-02-17T00:57:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-mcconnell-gop-divide-20210217-yttnnj67wreb3lraurreksn2jy-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-mcconnell-gop-divide-20210217-yttnnj67wreb3lraurreksn2jy-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-mcconnell-gop-divide-20210217-yttnnj67wreb3lraurreksn2jy-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
     quality: 121
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210214&t=2&i=1551476359&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1D04B"
-        width: 813
-        height: 545
+      - url: "https://www.chicagotribune.com/resizer/5x5IAwrJKINXsdBlQ3wxPxkej6I=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/DLV5XFJ6IFHWHGX6UTLFBD2TL4.aspx"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "With Republican firewall, U.S. Senate acquits Trump of inciting deadly Capitol riot"
-    excerpt: "The U.S. Senate acquitted Donald Trump on Saturday of inciting the mob that stormed the Capitol last month, sparing him from conviction in his second impeachment trial in a year despite broad condemnation of his role in sparking the deadly siege."
-    publishedDateTime: 2021-02-14T06:48:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment/u-s-senate-acquits-trump-as-republicans-save-him-in-impeachment-again-idUSKBN2AD0AE"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AD0AE"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AD0AE"
+  - title: "Trump-McConnell clash threatens to settle into a cold war as GOP eyes midterms"
+    excerpt: "Republicans said the veteran Senate leader is unlikely to carry on in a back-and-forth with the former president. However, it’s unclear how far Trump will pursue his vendetta."
+    publishedDateTime: 2021-02-18T05:41:00Z
+    webUrl: "https://www.washingtonpost.com/powerpost/trump-mcconnell-clash-threatens-to-settle-into-a-cold-war-as-gop-eyes-midterms/2021/02/17/3c156db6-7136-11eb-b8a9-b9467510f0fe_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/powerpost/trump-mcconnell-clash-threatens-to-settle-into-a-cold-war-as-gop-eyes-midterms/2021/02/17/3c156db6-7136-11eb-b8a9-b9467510f0fe_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/powerpost/trump-mcconnell-clash-threatens-to-settle-into-a-cold-war-as-gop-eyes-midterms/2021/02/17/3c156db6-7136-11eb-b8a9-b9467510f0fe_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 121
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4MBZFJTOF4I6XJTO4JYEN2PITA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Full Text on Mitch McConnell's Email Explaining Why He Would Vote to Acquit Trump"
+    excerpt: "Senate GOP Leader Mitch McConnell will vote to acquit former President Donald Trump, he told colleagues on Saturday."
+    publishedDateTime: 2021-02-13T16:37:00Z
+    webUrl: "https://www.newsweek.com/full-text-mitch-mcconnells-email-explaining-why-he-would-vote-acquit-trump-1569064"
+    ampWebUrl: "https://www.newsweek.com/full-text-mitch-mcconnells-email-explaining-why-he-would-vote-acquit-trump-1569064?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/full-text-mitch-mcconnells-email-explaining-why-he-would-vote-acquit-trump-1569064?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 120
+    images:
+      - url: "https://d.newsweek.com/en/full/1733464/mitch-mcconnell.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Senate Minority Leader Mitch McConnell to propose delay of Trump impeachment trial"
+    excerpt: "House Speaker Nancy Pelosi said Thursday that she is \"ready\" to send the Trump impeachment article to the Senate, but is waiting for answers on how a trial would work."
+    publishedDateTime: 2021-01-22T04:32:00Z
+    webUrl: "https://abcnews.go.com/Politics/pelosi-ready-send-trump-impeachment-article-answers-senate/story?id=75403030"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/pelosi-ready-send-trump-impeachment-article-answers-senate/story?id=75403030"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/pelosi-ready-send-trump-impeachment-article-answers-senate/story?id=75403030"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 119
+    images:
+      - url: "https://s.abcnews.com/images/Politics/mitch-mcconnell_hpMain_20210121-174756_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "After not-guilty vote, McConnell says Trump 'morally responsible' for Capitol riot"
+    excerpt: "U.S. Senate Minority Leader Mitch McConnell called Donald Trump \"practically and morally responsible\" for his supporters' deadly attack on the Capitol, only moments after voting to acquit the Republican former president on an impeachment charge of inciting the melee."
+    publishedDateTime: 2021-02-14T04:43:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump-impeachment-republicans-idUKKBN2AD0P3"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2AD0P3"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2AD0P3"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 119
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210213&t=2&i=1551450590&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1C0JB"
-        width: 968
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210213&t=2&i=1551455565&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1C0K3"
+        width: 875
         height: 545
         isCached: true
-  - title: "3 charts show where young Republicans are splitting from GOP elders — and from Trump"
-    excerpt: "On some foreign policy issues, young Republicans are closer to the Democratic mainstream than to their Republican elders."
-    publishedDateTime: 2021-02-16T16:48:00Z
-    webUrl: "https://www.businessinsider.com/young-republicans-split-from-gop-elders-trump-on-foreign-policy-2021-2"
-    ampWebUrl: "https://www.businessinsider.com/young-republicans-split-from-gop-elders-trump-on-foreign-policy-2021-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/young-republicans-split-from-gop-elders-trump-on-foreign-policy-2021-2?amp"
+  - title: "Read Donald Trump's Full Statement on Mitch McConnell, His First Since Impeachment"
+    excerpt: "In his first full statement since being impeached by the House, former President Donald Trump said Senate Minority Leader Mitch McConnell was \"seriously hurting our Country.\""
+    publishedDateTime: 2021-02-16T22:43:00Z
+    webUrl: "https://www.newsweek.com/read-donald-trumps-full-statement-mitch-mcconnell-his-first-since-impeachment-1569753"
+    ampWebUrl: "https://www.newsweek.com/read-donald-trumps-full-statement-mitch-mcconnell-his-first-since-impeachment-1569753?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/read-donald-trumps-full-statement-mitch-mcconnell-his-first-since-impeachment-1569753?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 119
+    images:
+      - url: "https://d.newsweek.com/en/full/1737290/mitch-mcconnell-donald-trump-statement-impeachment.jpg"
+        width: 2474
+        height: 1392
+        isCached: true
+  - title: "Trump attacks McConnell as ‘political hack,’ says he will back pro-Trump candidates"
+    excerpt: "The lengthy and personal diatribe escalated a growing rift in the GOP about whether it will be controlled by pro-Trump forces or those viewed as more traditional Republicans."
+    publishedDateTime: 2021-02-17T07:51:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-mcconnell-republican-primaries/2021/02/16/2e37b07e-7072-11eb-93be-c10813e358a2_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-mcconnell-republican-primaries/2021/02/16/2e37b07e-7072-11eb-93be-c10813e358a2_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-mcconnell-republican-primaries/2021/02/16/2e37b07e-7072-11eb-93be-c10813e358a2_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 119
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/55AQ3LDOJMI6XHVNM4YWRVNYOQ.jpg&w=1440"
+        width: 1072
+        height: 667
+        isCached: true
+  - title: "Power Up: Mitch McConnell still isn't talking to Trump. But will he vote to acquit him?"
+    excerpt: "This is not the America McConnell grew up in or the Republican Party he's built. This is not the party he wants to leave behind for the next generation,' said longtime McConnell political aide Scott Jennings."
+    publishedDateTime: 2021-02-12T16:57:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/02/12/power-up-mitch-mcconnell-still-isnt-talking-trump-will-he-vote-acquit-him/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/02/12/power-up-mitch-mcconnell-still-isnt-talking-trump-will-he-vote-acquit-him/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/02/12/power-up-mitch-mcconnell-still-isnt-talking-trump-will-he-vote-acquit-him/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 117
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OV4BQHDMZII6XJTO4JYEN2PITA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Donald Trump rips Mitch McConnell as each seeks to exert leadership after impeachment trial"
+    excerpt: "Trump described McConnell as a \"hack\" who will not be able to lead the Republicans back to victory; McConnell supporters have also denounced Trump."
+    publishedDateTime: 2021-02-16T22:41:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/16/donald-trump-rips-mitch-mcconnell-each-seeks-exert-leadership/6772181002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6772181002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6772181002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 115
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/13/USAT/dd93fcf1-0c6c-43ed-810a-f49b16f0cb2c-AP_Trump_3.jpg?auto=webp&crop=3779,2126,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump attacks his former ally Mitch McConnell as a 'dour, sullen, unsmiling political hack'"
+    excerpt: "\"He doesn't have what it takes, and never will,\" Trump said on Tuesday in response to McConnell's harsh floor speech about the Capitol riots."
+    publishedDateTime: 2021-02-17T07:20:00Z
+    webUrl: "https://www.businessinsider.com/trump-breaks-with-mcconnell-calls-him-dour-sullen-unsmiling-hack-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/trump-breaks-with-mcconnell-calls-him-dour-sullen-unsmiling-hack-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-breaks-with-mcconnell-calls-him-dour-sullen-unsmiling-hack-2021-2?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 118
+    quality: 115
     images:
-      - url: "https://i.insider.com/602bf686b3c2a800183ccf0c?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5fd120c1240ebd00126bdfc7?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump impeachment: Senate to hear prosecution arguments against former president – live"
-    excerpt: "Senate convenes at noon for impeachment managers to lay out argument to convict Donald Trump of ‘incitement of insurrection’"
-    publishedDateTime: 2021-02-10T11:17:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/10/donald-trump-impeachment-senate-trial-live-news-updates"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/10/donald-trump-impeachment-senate-trial-live-news-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/10/donald-trump-impeachment-senate-trial-live-news-updates"
+  - title: "Trump's lawyer claims the Capitol attack wasn't an 'insurrection.' Mitch McConnell disagrees."
+    excerpt: "Senate Minority Leader Mitch McConnell disagrees. He's called the Capitol attack a \"failed insurrection.\""
+    publishedDateTime: 2021-02-12T21:46:00Z
+    webUrl: "https://www.businessinsider.com/trumps-lawyer-claims-capitol-attack-wasnt-an-insurrection-despite-evidence-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/trumps-lawyer-claims-capitol-attack-wasnt-an-insurrection-despite-evidence-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-lawyer-claims-capitol-attack-wasnt-an-insurrection-despite-evidence-2021-2?amp"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 117
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 114
     images:
-      - url: "https://i.guim.co.uk/img/media/7d3e06af8edce2c72744e22eed1328dd95be3b46/0_0_3500_2334/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7a954cf6bba0111e0635cae7cace422e"
-        width: 600
-        height: 400
-        isCached: true
-  - title: "Exclusive: Dozens of former Republican officials in talks to form anti-Trump third party"
-    excerpt: "Dozens of former Republican officials, who view the party as unwilling to stand up to former President Donald Trump and his attempts to undermine U.S. democracy, are in talks to form a center-right breakaway party,"
-    publishedDateTime: 2021-02-11T08:41:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-party-exclusive-idUSKBN2AB07P"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AB07P"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AB07P"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 116
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210211&t=2&i=1551126039&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1A051"
-        width: 813
-        height: 545
+      - url: "https://i.insider.com/6026e713b3c2a800183ccb49?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Durbin: 'We were never going to reach 67 votes' to convict Trump without McConnell's backing"
     excerpt: "Sen. Dick Durbin (D-Ill.) said on Sunday that former President Trump’s acquittal in his second Senate impeachment was a foregone conclusion without Minority Leader Mitch McConnell (R-Ky.) backing conviction."
@@ -271,171 +511,240 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Trump and other top Republicans pay tribute to the late conservative radio star Rush Limbaugh"
-    excerpt: "Former President George W. Bush said in a statement that Limbaugh had an \"indomitable spirit with a big heart, and he will be missed.\""
-    publishedDateTime: 2021-02-17T18:56:00Z
-    webUrl: "https://www.businessinsider.com/trump-top-republicans-pay-tribute-to-conservative-rush-limbaugh-2021-2"
-    ampWebUrl: "https://www.businessinsider.com/trump-top-republicans-pay-tribute-to-conservative-rush-limbaugh-2021-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-top-republicans-pay-tribute-to-conservative-rush-limbaugh-2021-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 114
-    images:
-      - url: "https://i.insider.com/602d56770bbc6c001824bd58?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "The overwhelming lesson of the Trump era: Republicans often rebuke Trump -- when they have latitude"
-    excerpt: "Of Republicans who have retired or lost primaries during the Trump era, half have rebuked him in significant ways. About one-third have made big breaks with him."
-    publishedDateTime: 2021-02-17T15:59:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/02/17/overwhelming-lesson-trump-era-republicans-rebuke-trump-when-its-convenient/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/02/17/overwhelming-lesson-trump-era-republicans-rebuke-trump-when-its-convenient/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/02/17/overwhelming-lesson-trump-era-republicans-rebuke-trump-when-its-convenient/?outputType=amp"
+  - title: "McConnell would have happily considered finding Trump guilty, were it not for Mitch McConnell"
+    excerpt: "There’s no question, none, that President Trump is practically and morally responsible for provoking” the attack on the U.S. Capitol on Jan. 6, Senate Minority Leader Mitch McConnell (R-Ky.) said Saturday,"
+    publishedDateTime: 2021-02-14T20:23:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/02/13/mcconnell-would-have-happily-considered-finding-trump-guilty-were-it-not-mitch-mcconnell/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/02/13/mcconnell-would-have-happily-considered-finding-trump-guilty-were-it-not-mitch-mcconnell/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/02/13/mcconnell-would-have-happily-considered-finding-trump-guilty-were-it-not-mitch-mcconnell/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 111
+    quality: 114
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HKNBETSRPII6TCFB5U2G6DWJJ4.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/02-13-2021/t_ed8daf3ec7794d9486c5ced0b3c93c00_name_McConnell.jpg&w=1440"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Live updates: Senate must convict Trump to ensure no future president incites insurrection, Democrats say"
-    excerpt: "Day 3 of former President Donald Trump's second impeachment trial has begun. The Democratic impeachment managers will use up to eight hours to wrap up their case against the ex-pr"
-    publishedDateTime: 2021-02-11T18:45:00Z
-    webUrl: "https://www.cnbc.com/2021/02/11/trump-impeachment-trial-live-updates-day-3.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/02/11/trump-impeachment-trial-live-updates-day-3.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/02/11/trump-impeachment-trial-live-updates-day-3.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 108
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106839426-1613066740937-gettyimages-1231104598-brave_zvrabgh107.jpg?v=1613066758"
-        width: 1582
-        height: 1024
-        isCached: true
-  - title: "Politics live updates - A quick trial vs. witnesses: Senate weighs strategy on Trump impeachment proceedings"
-    excerpt: "Senators face key decisions on the contours of Trump's second impeachment trial, including the crucial question of whether to call witnesses."
-    publishedDateTime: 2021-02-08T14:35:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/08/politics-live-updates-senate-weighs-strategy-trump-impeachment-trial/4433392001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4433392001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4433392001"
+  - title: "Mitch McConnell votes to acquit but says Trump's actions were a 'disgraceful dereliction of duty'"
+    excerpt: "McConnell's decision not call the Senate back from recess last month meant Joe Biden would be sworn in as president before Trump's trial could begin."
+    publishedDateTime: 2021-02-15T00:54:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/13/mitch-mcconnell-says-trump-caused-capitol-riot-but-votes-acquit/4476982001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4476982001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4476982001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 106
+    quality: 112
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/09/USAT/6aa6963b-4d2b-4679-b15a-6477fc618042-AP21006679639042.jpg?auto=webp&crop=4305,2421,x722,y1081&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2021/01/19/USAT/165c032b-fc9d-4737-800c-1631e49e8f9a-VPC_MCCONNELL_SOT_DESK.00_00_08_10.Still010.jpg?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Donald Trump's former casino in Atlantic City demolished – video"
-    excerpt: "Trump, who opened the building on the oceanfront boardwalk in 1984, lost control of it in a 2009 bankruptcy"
-    publishedDateTime: 2021-02-17T10:31:00Z
-    webUrl: "https://www.theguardian.com/us-news/video/2021/feb/17/donald-trumps-former-casino-in-atlantic-city-demolished-video"
+  - title: "Fact check: Yes, McConnell said Trump was 'practically and morally responsible' for Capitol riot"
+    excerpt: "Posts are accurate in claiming that Sen. Mitch McConnell blamed former President Donald Trump for the Capitol riot but voted for acquittal."
+    publishedDateTime: 2021-02-17T03:16:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2021/02/16/fact-check-mcconnell-said-trump-was-responsible-for-capitol-riot/6767311002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6767311002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6767311002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 112
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/14/USAT/6019584a-0da2-45ab-a03a-6bdba186c1ed-GTY_1301995912.jpg?auto=webp&crop=1969,1108,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump's scathing letter attacking Mitch McConnell could have been nastier, according to a new report"
+    excerpt: "A person familiar with crafting the statement said there was \"definitely something about [McConnell] having too many chins but not enough smarts.\""
+    publishedDateTime: 2021-02-17T10:24:00Z
+    webUrl: "https://www.businessinsider.com/trump-scathing-letter-to-mcconnell-could-have-been-nastier-report-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/trump-scathing-letter-to-mcconnell-could-have-been-nastier-report-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-scathing-letter-to-mcconnell-could-have-been-nastier-report-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 110
+    images:
+      - url: "https://i.insider.com/602c54bb5847630018323640?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Pelosi called McConnell 'pathetic' after he said he wouldn't vote to convict Trump for inciting Capitol riot"
+    excerpt: "Pelosi said McConnell postponed Trump's impeachment trial, and then voted for his acquittal because the trial occurred after Trump left office."
+    publishedDateTime: 2021-02-14T14:11:00Z
+    webUrl: "https://www.businessinsider.com/pelosi-called-mcconnell-pathetic-after-vote-to-not-convict-trump-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/pelosi-called-mcconnell-pathetic-after-vote-to-not-convict-trump-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pelosi-called-mcconnell-pathetic-after-vote-to-not-convict-trump-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 106
+    images:
+      - url: "https://i.insider.com/602924a42edd0f001a8d5bae?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Mitch McConnell lambasts Donald Trump but votes not guilty – video"
+    excerpt: "Nancy Pelosi criticises ‘cowardly’ Republicans and minority leader Mitch McConnell savages Trump but votes not guilty regardless"
+    publishedDateTime: 2021-02-14T04:57:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2021/feb/14/mitch-mcconnell-lambasts-donald-trump-but-votes-not-guilty-video"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
     quality: 105
     images:
-      - url: "https://i.guim.co.uk/img/media/7d6c324dfade67e4e9e038ca4361f81174254402/295_0_2636_1583/master/2636.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d9702bf15f1f06d4d84aba6a887f1398"
+      - url: "https://i.guim.co.uk/img/media/000b3a7759a0dfac651c02902cfdaacf835123b9/0_116_3500_2101/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e17f09fba234a71e986502fc6d821e3a"
         width: 1200
         height: 630
         isCached: true
-  - title: "Former Trump casino where stars played going out with a bang"
-    excerpt: "By mid-morning Wednesday, a spot on the Atlantic City Boardwalk where movie stars, athletes and rock stars used to party and a future president honed his instincts for bravado and hype will be reduced"
-    publishedDateTime: 2021-02-17T11:18:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/trump-casino-stars-played-bang-75939909"
+  - title: "Group of Republicans look to form anti-Trump party"
+    excerpt: "After former President Trump was acquitted at his second impeachment trial, some conservatives are looking to form a separate political party to distance themselves from those loyal to Mr. Trump. Evan McMullin,"
+    publishedDateTime: 2021-02-15T16:58:00Z
+    webUrl: "https://www.cbsnews.com/video/group-of-republicans-look-to-form-anti-trump-party/"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: CBS News
+      domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://s.abcnews.com/images/Lifestyle/WireAP_49778b8120a944ae8db449620e6ec9bc_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "CPAC is taking Trump's side in the battle for the soul of the GOP"
-    excerpt: "This year's flagship conservative event is also notable for who is not showing up. Establishment GOP leaders like Mitch McConnell, Kevin McCarthy and Mike Pence are so far not listed as speakers."
-    publishedDateTime: 2021-02-18T08:29:00Z
-    webUrl: "https://www.businessinsider.com/cpac-2021-speakers-trump-pence-orlando-republican-conservative-2021-2"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-    images:
-      - url: "https://i.insider.com/602c67945847630018323658?width=1200&format=jpeg"
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/02/15/cb6aab64-2cd0-41f2-9c6c-6f324a479901/thumbnail/1200x630/cfee6a8b83d99468a12d071db3ec9ef0/0215-cbsn-qen-repantitrumpparty-646566-640x360.jpg"
         width: 1200
-        height: 600
+        height: 630
         isCached: true
-  - title: "120 anti-Trump Republicans are in talks to form a center-right 3rd party that would run on 'principled conservatism,' report says"
-    excerpt: "The group includes former elected officials and people who served in Republican administrations, including Trump's."
-    publishedDateTime: 2021-02-11T13:16:00Z
-    webUrl: "https://www.businessinsider.com/anti-trump-republicans-talks-to-form-third-party-reuters-2021-2"
-    ampWebUrl: "https://www.businessinsider.com/anti-trump-republicans-talks-to-form-third-party-reuters-2021-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/anti-trump-republicans-talks-to-form-third-party-reuters-2021-2?amp"
+  - title: "After voting to acquit, McConnell condemns Donald Trump and calls him ‘practically and morally responsible’ for riot"
+    excerpt: "After voting to acquit, McConnell condemns Donald Trump and calls him ‘practically and morally responsible’ for riot"
+    publishedDateTime: 2021-02-14T02:21:00Z
+    webUrl: "https://www.washingtonpost.com/politics/after-voting-to-acquit-mcconnell-condemns-donald-trump-and-calls-him-practically-and-morally-responsible-for-riot/2021/02/13/6928c6f6-6e41-11eb-a66e-e27046e9e898_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/after-voting-to-acquit-mcconnell-condemns-donald-trump-and-calls-him-practically-and-morally-responsible-for-riot/2021/02/13/6928c6f6-6e41-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/after-voting-to-acquit-mcconnell-condemns-donald-trump-and-calls-him-practically-and-morally-responsible-for-riot/2021/02/13/6928c6f6-6e41-11eb-a66e-e27046e9e898_story.html?outputType=amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 96
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 102
     images:
-      - url: "https://i.insider.com/6024c9e6cca90200129b7a98?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
-  - title: "'I don't want to come back:' As Trump trial opens, Democrat recalls daughter's fear during riot"
-    excerpt: "U.S. House lead impeachment manager Rep. Jamie Raskin (D-MD) becomes emotional as he discusses his and his family's experiences inside the U.S. Capitol building during the siege on Jan. 6 and his daug"
-    publishedDateTime: 2021-02-11T00:25:00Z
-    webUrl: "https://www.reuters.com/news/picture/i-dont-want-to-come-back-as-trump-trial-idUSKBN2A92YV"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 93
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210210&t=2&i=1551085705&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEH181S5"
-        width: 810
-        height: 455
-        isCached: true
-  - title: "Trump just beat his 2nd impeachment conviction, but a massive tsunami of legal peril still awaits"
-    excerpt: "Trump impeachment trial No. 2 ended with acquittal. But federal, state, and local investigations continue into his presidency, campaign, business interests, and taxes."
-    publishedDateTime: 2021-02-14T18:48:00Z
-    webUrl: "https://www.businessinsider.com/trump-federal-state-local-investigation-prosecution-georgia-call-2021-1"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 92
-    images:
-      - url: "https://i.insider.com/60284292b3c2a800183ccc73?width=700"
-        width: 700
-        height: 525
-        isCached: true
-  - title: "Senate Acquits Trump With Seven Republicans Joining All 50 Democrats in Voting ‘Guilty’"
-    excerpt: "Mitch McConnell spoke after the verdict to denounce Trump’s conduct while insisting his trial was unconstitutional."
-    publishedDateTime: 2021-02-14T02:38:00Z
-    webUrl: "https://nymag.com/intelligencer/2021/02/senate-acquits-trump-with-seven-republicans-defecting.html"
-    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/02/senate-acquits-trump-with-seven-republicans-defecting.html"
-    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/02/senate-acquits-trump-with-seven-republicans-defecting.html"
+  - title: "New Evidence Shows Trump Used Riot To Pressure Congress to Steal Election"
+    excerpt: "Trump encouraged a public demonstration, promised in advance it would be “wild,” instructed his supporters that extraordinary measures were needed to save the republic from his “landslide” election being stolen,"
+    publishedDateTime: 2021-02-13T20:33:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/02/trump-kevin-mccarthy-phone-call-capitol-riot-insurrection-beutler-impeachment-evidence.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/02/trump-kevin-mccarthy-phone-call-capitol-riot-insurrection-beutler-impeachment-evidence.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/02/trump-kevin-mccarthy-phone-call-capitol-riot-insurrection-beutler-impeachment-evidence.html"
     type: article
     provider:
       name: New York Magazine
       domain: nymag.com
-    quality: 67
+    quality: 89
     images:
-      - url: "https://pyxis.nymag.com/v1/imgs/4f7/742/f99a5a8f182f257ba6fe3100462802bb5d-impeachment-trial-verdict-screencap.1x.rsocial.w1200.jpg"
+      - url: "https://pyxis.nymag.com/v1/imgs/caa/19d/fef718778529089fbfd650e8f94599486d-capitol-rioters.1x.rsocial.w1200.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Joe Biden and Mitch McConnell Could End Up in a Truce, Thanks to Myanmar"
+    excerpt: "This article is part of the The DC Brief, TIME’s politics newsletter. Sign up here to get stories like this sent to your inbox"
+    publishedDateTime: 2021-02-11T20:07:00Z
+    webUrl: "https://time.com/5938518/biden-mcconnell-myanmar-sanctions/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 84
+  - title: "Mitch McConnell: Trump ‘fed lies’ to mob that stormed Capitol"
+    excerpt: "They were provoked by the president and other powerful people, and they tried to use fear and violence to stop a specific proceeding of branch of the federal government.”"
+    publishedDateTime: 2021-01-19T18:01:00Z
+    webUrl: "https://www.al.com/news/2021/01/mitch-mcconnell-trump-fed-lies-to-mob-that-stormed-capitol.html"
+    ampWebUrl: "https://www.al.com/news/2021/01/mitch-mcconnell-trump-fed-lies-to-mob-that-stormed-capitol.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/mitch-mcconnell-trump-fed-lies-to-mob-that-stormed-capitol.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/TJIIVGNITJGIRJC6M4SJLB74IQ.jpg"
+        width: 8192
+        height: 5464
+        isCached: true
+  - title: "A McConnell-Backed Trump Conviction Is Just Fantasy"
+    excerpt: "Conviction in Trump’s impeachment trial was always a long shot. Now momentum is waning, as GOP senators aren’t onboard and McConnell won’t herd them."
+    publishedDateTime: 2021-01-21T18:57:00Z
+    webUrl: "https://nymag.com/intelligencer/article/mcconnell-trump-conviction-just-fantasy.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/article/mcconnell-trump-conviction-just-fantasy.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/article/mcconnell-trump-conviction-just-fantasy.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/dde/038/bd4c60c0dce402fd6be1a0dac9e2e8e396-Mitch-McConnell.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 632
+        isCached: true
+  - title: "Sen. Mitch McConnell rips Trump as ‘disgraceful’ but defends his impeachment acquittal vote"
+    excerpt: "The powerful GOP Minority Leader excoriated Trump for “provoking” the violent attack on the Capitol on Jan. 6."
+    publishedDateTime: 2021-02-13T22:56:00Z
+    webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-mitch-mcconnell-trump-impeachment-acquittal-20210213-b7o5iryv5neczksursutiaomim-story.html"
+    ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-mitch-mcconnell-trump-impeachment-acquittal-20210213-b7o5iryv5neczksursutiaomim-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-mitch-mcconnell-trump-impeachment-acquittal-20210213-b7o5iryv5neczksursutiaomim-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 65
+    images:
+      - url: "https://www.nydailynews.com/resizer/98z6t3Xvz8hmRuNjSDr-HhEDeIo=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/4NKZP34GURFBPMCENC45ALPCYY.JPG"
+        width: 1200
+        height: 768
+        isCached: true
+  - title: "READ: McConnell Speech After Trump's Impeachment Trial Acquittal"
+    excerpt: "Senate Minority Leader Mitch McConnell delivered a blistering condemnation of former President Donald Trump after Trump was acquitted in his impeachment trial."
+    publishedDateTime: 2021-02-14T16:39:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-02-14/read-mcconnell-speech-after-trumps-impeachment-trial-acquittal"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-14/read-mcconnell-speech-after-trumps-impeachment-trial-acquittal?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-14/read-mcconnell-speech-after-trumps-impeachment-trial-acquittal?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Trump Rips McConnell as GOP Divide Deepens Post-Capitol Riot"
+    excerpt: "Former President Donald Trump has issued a blistering statement denouncing the top Republican in the Senate, Mitch McConnell, as a “political hack” who will make sure the party “will not win again.\"."
+    publishedDateTime: 2021-02-17T09:10:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-02-16/trump-slams-mcconnell-as-gop-divide-deepens-post-impeachment"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-16/trump-slams-mcconnell-as-gop-divide-deepens-post-impeachment?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-16/trump-slams-mcconnell-as-gop-divide-deepens-post-impeachment?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Alert: After voting to acquit, McConnell condemns Donald Trump and calls him 'practically and morally responsible' for riot"
+    excerpt: "After voting to acquit, McConnell condemns Donald Trump and calls him ‘practically and morally responsible’ for riot."
+    publishedDateTime: 2021-02-13T15:21:00Z
+    webUrl: "https://www.chron.com/news/article/Alert-After-voting-to-acquit-McConnell-condemns-15949162.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Alert-After-voting-to-acquit-McConnell-condemns-15949162.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Alert-After-voting-to-acquit-McConnell-condemns-15949162.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 49
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
 
 secured: "C9lBUOEN2hUt+CW3x2YjRY42AiglkXMGgBd8OEMEtH8IjiOAimWTgKqswmkqLfKGSCAxsgeOW/sUtNVDlj5jew6zCMf/2rljM9sDtWVe63JklZZtxHwhcpjUIM7KwUerjgLSk7sY6IYgP5UfoCLbVEd8z57uxRuE7iSvSpdTkVNMAhQjs7lcgOWW2X+G3F8uGN4hV/mXaA7++pLlnMbRSd+ZnzdN9LSYExPVkavUGDjupCcqG8HDLnuqBdBmXFNJSyBjYpzIAwqTdZ2AuSifFjDH/JNW0nd9qH+vsVQJEQrGzCLuqCizZ1nEBalh5mu/hCSxvlUU9u90eOwz5pPQKeStyATbtwxkPQmHzxgEbNE=;THbdyZzEl6Wo3Xktjmzg2g=="
