@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/feds-arrest-ucla-student-acc
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/feds-arrest-ucla-student-accused-sitting-pences-chair-75958077"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -101,6 +101,15 @@ related:
         width: 621
         height: 372
         isCached: true
+  - title: "Feds arrest student accused of sitting in Pence’s chair"
+    excerpt: "A Los Angeles college student was arrested after he sat in former Vice President Mike Pence’s chair in the Senate chambers during the insurrection at the U."
+    publishedDateTime: 2021-02-18T06:12:00Z
+    webUrl: "https://www.newstribune.com/news/national/story/2021/feb/18/feds-arrest-student-accused-of-sitting-in-pences-chair/860542/"
+    type: article
+    provider:
+      name: News Tribune
+      domain: newstribune.com
+    quality: 35
   - title: "Feds arrest UCLA student accused of sitting in Mike Pence’s chair"
     excerpt: "A Los Angeles college student and self-described fascist was arrested after he sat in former Vice President Mike Pence’s chair in the Senate chambers during the insurrection at the U.S. Capitol, authorities said."
     publishedDateTime: 2021-02-18T01:59:00Z

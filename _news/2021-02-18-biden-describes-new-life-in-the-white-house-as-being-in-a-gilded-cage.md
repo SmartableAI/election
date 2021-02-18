@@ -191,6 +191,38 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Muddled promises on schools pose political problem for Biden"
+    excerpt: "Republicans have seized on confusion surrounding President Joe Biden’s goal to reopen a majority of schools within his first 100 days, painting the president as beholden to teachers’ unions at the exp"
+    publishedDateTime: 2021-02-17T23:53:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/muddled-promises-schools-pose-political-problem-biden-75964236"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/muddled-promises-schools-pose-political-problem-biden-75964236"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/muddled-promises-schools-pose-political-problem-biden-75964236"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_672fa3c86d684a248ccc43634309f88a_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "White House pushes back Biden trip to Michigan because of weather"
+    excerpt: "President Joe Biden will travel to Michigan on Friday to visit a Pfizer Inc plant, postponing the trip by a day because of inclement weather, a White House official said."
+    publishedDateTime: 2021-02-18T06:40:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-pfizer-idUSKBN2AI052"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AI052"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AI052"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210218&t=2&i=1551928057&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1H01Y"
+        width: 782
+        height: 545
+        isCached: true
   - title: "Biden plans to 'recalibrate' Saudi relations in shot at MbS - White House"
     excerpt: "President Joe Biden plans to shift U.S. relations with Saudi Arabia and will conduct diplomacy through Saudi King Salman bin Abdulaziz rather than his powerful son, Crown Prince Mohammed bin Salman, the White House said on Tuesday."
     publishedDateTime: 2021-02-16T19:52:00Z

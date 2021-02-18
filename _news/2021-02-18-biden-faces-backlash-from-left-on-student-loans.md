@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Biden backs studying reparations as Congress considers bill"
-excerpt: "Biden backs the idea of studying the issue, White House press secretary Jen Psaki said Wednesday, though she stopped short of saying he would sign the bill if it clears Congress. “He certainly would support a study of reparations,"
-publishedDateTime: 2021-02-17T22:35:00Z
-originalUrl: "https://www.washingtonpost.com/politics/biden-backs-studying-reparations-as-congress-considers-bill/2021/02/17/b75e2920-716f-11eb-8651-6d3091eac63f_story.html"
-webUrl: "https://www.washingtonpost.com/politics/biden-backs-studying-reparations-as-congress-considers-bill/2021/02/17/b75e2920-716f-11eb-8651-6d3091eac63f_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/biden-backs-studying-reparations-as-congress-considers-bill/2021/02/17/b75e2920-716f-11eb-8651-6d3091eac63f_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-backs-studying-reparations-as-congress-considers-bill/2021/02/17/b75e2920-716f-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+title: "Biden faces backlash from left on student loans"
+excerpt: "President Biden is facing intense backlash from progressive lawmakers after saying Tuesday he would not sign a measure to forgive up to $50,000 in federally held student debt per borrower through executive action."
+publishedDateTime: 2021-02-18T00:33:00Z
+originalUrl: "https://thehill.com/homenews/administration/539279-biden-faces-backlash-from-left-on-student-loans"
+webUrl: "https://thehill.com/homenews/administration/539279-biden-faces-backlash-from-left-on-student-loans"
+ampWebUrl: "https://thehill.com/homenews/administration/539279-biden-faces-backlash-from-left-on-student-loans?amp"
+cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/539279-biden-faces-backlash-from-left-on-student-loans?amp"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: The Hill
+  domain: thehill.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://thehill.com/sites/default/files/bidenjoe_021621_student-loans.jpg"
+    width: 980
+    height: 551
     isCached: true
 
 related:
@@ -63,21 +63,21 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Biden faces backlash from left on student loans"
-    excerpt: "President Biden is facing intense backlash from progressive lawmakers after saying Tuesday he would not sign a measure to forgive up to $50,000 in federally held student debt per borrower through executive action."
-    publishedDateTime: 2021-02-18T00:33:00Z
-    webUrl: "https://thehill.com/homenews/administration/539279-biden-faces-backlash-from-left-on-student-loans"
-    ampWebUrl: "https://thehill.com/homenews/administration/539279-biden-faces-backlash-from-left-on-student-loans?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/539279-biden-faces-backlash-from-left-on-student-loans?amp"
+  - title: "Biden backs studying reparations as Congress considers bill"
+    excerpt: "Biden backs the idea of studying the issue, White House press secretary Jen Psaki said Wednesday, though she stopped short of saying he would sign the bill if it clears Congress. “He certainly would support a study of reparations,"
+    publishedDateTime: 2021-02-17T22:35:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-backs-studying-reparations-as-congress-considers-bill/2021/02/17/b75e2920-716f-11eb-8651-6d3091eac63f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-backs-studying-reparations-as-congress-considers-bill/2021/02/17/b75e2920-716f-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-backs-studying-reparations-as-congress-considers-bill/2021/02/17/b75e2920-716f-11eb-8651-6d3091eac63f_story.html?outputType=amp"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_021621_student-loans.jpg"
-        width: 980
-        height: 551
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Biden extends ban on home foreclosures"
     excerpt: "Watch \"Biden extends ban on home foreclosures; White House says move will help over 10 million\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
@@ -110,6 +110,6 @@ related:
         height: 560
         isCached: true
 
-secured: "li0Z6dYHxd/eMkLPJRpx6cP84Ai4WZJgQr9IqnblvkNAmWGgfCDWb/bl/UowmI164ULOo4sxN52vCE9N1+7s5NSyoT7ZTP36TsrzQAY7ju7pqYKnNNltFQwe9rv2slPPxobe2HRH2tCQET0lz2Li8dhIbsIyr4fqC/bBY7w9TYwY+e9WQ+Ah3TaCR6IZ4D1WfpkOScHQ0Ma+PkIL9VX38/0a7BoGd5st378JBe6UK0d3LXas6xGgj8qnGsnwT5W4lTNyT9zyvlGSeiG+JsliogafiCtnJhci9si8lk7U9spBX2E8RKocsJ7po4mmVV6UG6YRm9BX1dHRkUg4Pprw4apZEB5L22/QMfzA2/J5lro=;f0Wt82H1jhzqN6bWgJ4vRw=="
+secured: "GO7PwjBLyW+kAYGSDrU6Rqf8g3rHVqXYL7CU8PO6xz9dHAAmJKI0TtWEjCSugIxiCLzI5GJmFuRZXT+j4LIEaWpV/Zu1r7gKoL4ottbBc2TqibCbRyN11LVnQOUlAU9L530PKz47YKQz5AhA4nwBCGVOaGUhzTSjOfY7PsSY7Oz6Spr7qkXasczkj6jdbDb5LOnQ2NYu6gTVt7w043i2mdYuzmOagNSghf3q52X2VFwYU6+TNAqhtmjgvwTLcMFutbAWlYaUw8puTzdVGuYN/OzQwUuxlPAP7ONXQPYOpCR34sp8gd8oZPrjgJsIcibURqFt8LL4qKb/ctnipnWmefUf3wZUbkHMTA+fxVWrwCw=;EZBU/auH+SGycmiDt6m2pQ=="
 ---
 

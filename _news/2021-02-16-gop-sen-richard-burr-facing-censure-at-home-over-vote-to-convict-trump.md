@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/gop-sen-richard-burr-facing-cens
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/gop-sen-richard-burr-facing-censure-home-vote/story?id=75905127"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/romney-impeachment-5-ap-ps-210213_1613251011089_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Trump-McConnell clash threatens to settle into a cold war as GOP eyes midterms"
+    excerpt: "Republicans said the veteran Senate leader is unlikely to carry on in a back-and-forth with the former president. However, it’s unclear how far Trump will pursue his vendetta."
+    publishedDateTime: 2021-02-18T05:41:00Z
+    webUrl: "https://www.washingtonpost.com/powerpost/trump-mcconnell-clash-threatens-to-settle-into-a-cold-war-as-gop-eyes-midterms/2021/02/17/3c156db6-7136-11eb-b8a9-b9467510f0fe_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/powerpost/trump-mcconnell-clash-threatens-to-settle-into-a-cold-war-as-gop-eyes-midterms/2021/02/17/3c156db6-7136-11eb-b8a9-b9467510f0fe_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/powerpost/trump-mcconnell-clash-threatens-to-settle-into-a-cold-war-as-gop-eyes-midterms/2021/02/17/3c156db6-7136-11eb-b8a9-b9467510f0fe_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 121
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4MBZFJTOF4I6XJTO4JYEN2PITA.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "GOP Gov. Larry Hogan Urges Party to Leave 'Cult of Donald Trump,' Hails Conviction Votes"
     excerpt: "\"I was very proud of some of the folks who stood up and did the right thing,\" the Maryland governor said Sunday of senators who voted to convict Trump."

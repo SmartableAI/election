@@ -105,6 +105,15 @@ related:
         width: 621
         height: 372
         isCached: true
+  - title: "Feds arrest student accused of sitting in Pence’s chair"
+    excerpt: "A Los Angeles college student was arrested after he sat in former Vice President Mike Pence’s chair in the Senate chambers during the insurrection at the U."
+    publishedDateTime: 2021-02-18T06:12:00Z
+    webUrl: "https://www.newstribune.com/news/national/story/2021/feb/18/feds-arrest-student-accused-of-sitting-in-pences-chair/860542/"
+    type: article
+    provider:
+      name: News Tribune
+      domain: newstribune.com
+    quality: 35
 
 secured: "GgsKGtx5u6hf8efq5FLibo84yR9a3pMJHI24jzPKIAl/ksubBLSDIsXDqtvZwP61fC3kCjw2HhqxqDow2u0YL6l2cEEaKydjrEr+a9gCYNFRV/CYRGabK4oEJ75+icD7GgQiw9qj515myLX/A7wAArxFErieq9T+19oybrqo8/5QKmI/FVbqIB55cshZ47+hMYgjo8u0rb0MSkDCicCESL9rfseFdtHrYV6TXVJWBRZlA7bd55upJ8C8ggSJi+WTCcawBcLye1qKn0wwb7H2HpM49fn8xIl+UD3Ol1we96FSJ9SY/fcBbBuGhB5bNmpNT4aCZId2iWEsj9MMBEk/zuyCvzvpHev9rH8VuIPMGzKGO1Yi36tsIOfG1o0RSnEGBVcf1ClNbuad1zuj29KoSEvv3/dvTXgqeDsPJ95zhaUmbbl5q+yomi306DfOCMW/CVo/8f4FsYzsq1mgYs87qRR7ZZ+kYSsoGI75fBC9gIlXtTwA8zwXyOqJ7e/2V12J1HIFHeQMiOYpx6NK241W6A==;Catt1aSpLAdZsXnTg1iN/g=="
 ---

@@ -77,6 +77,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden faces backlash from left on student loans"
+    excerpt: "President Biden is facing intense backlash from progressive lawmakers after saying Tuesday he would not sign a measure to forgive up to $50,000 in federally held student debt per borrower through executive action."
+    publishedDateTime: 2021-02-18T00:33:00Z
+    webUrl: "https://thehill.com/homenews/administration/539279-biden-faces-backlash-from-left-on-student-loans"
+    ampWebUrl: "https://thehill.com/homenews/administration/539279-biden-faces-backlash-from-left-on-student-loans?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/539279-biden-faces-backlash-from-left-on-student-loans?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_021621_student-loans.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Sen. Joe Manchin says he'd 'absolutely' oppose Biden's stimulus checks, then swiftly walks it back after stocks tank"
     excerpt: "Sen. Joe Manchin says he’d 'absolutely' oppose Biden’s stimulus checks, then swiftly walks it back after stocks tank President-elect Joe Biden announced some economic priorities on Friday, but Sen. Joe Manchin (D-W."
     publishedDateTime: 2021-01-09T06:19:00Z

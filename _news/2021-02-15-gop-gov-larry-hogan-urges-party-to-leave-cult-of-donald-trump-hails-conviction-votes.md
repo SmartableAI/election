@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump-McConnell clash threatens to settle into a cold war as GOP eyes midterms"
+    excerpt: "Republicans said the veteran Senate leader is unlikely to carry on in a back-and-forth with the former president. However, it’s unclear how far Trump will pursue his vendetta."
+    publishedDateTime: 2021-02-18T05:41:00Z
+    webUrl: "https://www.washingtonpost.com/powerpost/trump-mcconnell-clash-threatens-to-settle-into-a-cold-war-as-gop-eyes-midterms/2021/02/17/3c156db6-7136-11eb-b8a9-b9467510f0fe_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/powerpost/trump-mcconnell-clash-threatens-to-settle-into-a-cold-war-as-gop-eyes-midterms/2021/02/17/3c156db6-7136-11eb-b8a9-b9467510f0fe_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/powerpost/trump-mcconnell-clash-threatens-to-settle-into-a-cold-war-as-gop-eyes-midterms/2021/02/17/3c156db6-7136-11eb-b8a9-b9467510f0fe_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 121
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4MBZFJTOF4I6XJTO4JYEN2PITA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Sen. Ben Sasse: GOP Must Persuade Voters It Has A Vision Beyond Donald Trump"
     excerpt: "The Republican from Nebraska speaks with NPR's Steve Inskeep about the impeachment of former President Donald Trump, the future of the GOP and working with the Biden administration."
     publishedDateTime: 2021-02-16T19:03:00Z

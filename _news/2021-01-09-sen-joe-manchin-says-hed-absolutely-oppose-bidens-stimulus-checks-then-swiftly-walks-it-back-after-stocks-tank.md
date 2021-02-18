@@ -75,6 +75,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden faces backlash from left on student loans"
+    excerpt: "President Biden is facing intense backlash from progressive lawmakers after saying Tuesday he would not sign a measure to forgive up to $50,000 in federally held student debt per borrower through executive action."
+    publishedDateTime: 2021-02-18T00:33:00Z
+    webUrl: "https://thehill.com/homenews/administration/539279-biden-faces-backlash-from-left-on-student-loans"
+    ampWebUrl: "https://thehill.com/homenews/administration/539279-biden-faces-backlash-from-left-on-student-loans?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/539279-biden-faces-backlash-from-left-on-student-loans?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_021621_student-loans.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Biden extends ban on home foreclosures"
     excerpt: "Watch \"Biden extends ban on home foreclosures; White House says move will help over 10 million\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2021-02-17T12:17:00Z

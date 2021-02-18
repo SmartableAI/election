@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden launches review of Guantanamo prison, aims to close it before leaving office"
-excerpt: "President Joe Biden's aides have launched a formal review of the U.S. military prison at Guantanamo Bay in Cuba, reviving the Obama-era goal of closing the controversial facility with the aim of doing so before he leaves office,"
-publishedDateTime: 2021-02-13T05:18:00Z
-originalUrl: "https://www.reuters.com/article/BigStory12/idUSKBN2AC1Q4"
-webUrl: "https://www.reuters.com/article/BigStory12/idUSKBN2AC1Q4"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AC1Q4"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AC1Q4"
+title: "White House pushes back Biden trip to Michigan because of weather"
+excerpt: "President Joe Biden will travel to Michigan on Friday to visit a Pfizer Inc plant, postponing the trip by a day because of inclement weather, a White House official said."
+publishedDateTime: 2021-02-18T06:40:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-biden-pfizer-idUSKBN2AI052"
+webUrl: "https://www.reuters.com/article/us-usa-biden-pfizer-idUSKBN2AI052"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AI052"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AI052"
 type: article
-quality: 119
+quality: 125
 heat: -1
 published: false
 
@@ -25,8 +25,8 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210212&t=2&i=1551335847&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1B18C"
-    width: 817
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210218&t=2&i=1551928057&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1H01Y"
+    width: 782
     height: 545
     isCached: true
 
@@ -223,22 +223,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "White House pushes back Biden trip to Michigan because of weather"
-    excerpt: "President Joe Biden will travel to Michigan on Friday to visit a Pfizer Inc plant, postponing the trip by a day because of inclement weather, a White House official said."
-    publishedDateTime: 2021-02-18T06:40:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-pfizer-idUSKBN2AI052"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AI052"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AI052"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210218&t=2&i=1551928057&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1H01Y"
-        width: 782
-        height: 545
-        isCached: true
   - title: "Biden plans to 'recalibrate' Saudi relations in shot at MbS - White House"
     excerpt: "President Joe Biden plans to shift U.S. relations with Saudi Arabia and will conduct diplomacy through Saudi King Salman bin Abdulaziz rather than his powerful son, Crown Prince Mohammed bin Salman, the White House said on Tuesday."
     publishedDateTime: 2021-02-16T19:52:00Z
@@ -285,6 +269,22 @@ related:
     images:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210211&t=2&i=1551189130&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1A144"
         width: 819
+        height: 545
+        isCached: true
+  - title: "Biden launches review of Guantanamo prison, aims to close it before leaving office"
+    excerpt: "President Joe Biden's aides have launched a formal review of the U.S. military prison at Guantanamo Bay in Cuba, reviving the Obama-era goal of closing the controversial facility with the aim of doing so before he leaves office,"
+    publishedDateTime: 2021-02-13T05:18:00Z
+    webUrl: "https://www.reuters.com/article/BigStory12/idUSKBN2AC1Q4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AC1Q4"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AC1Q4"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 119
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210212&t=2&i=1551335847&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1B18C"
+        width: 817
         height: 545
         isCached: true
   - title: "Biden launches review of Guantanamo prison, aims to close it before leaving office"
@@ -429,6 +429,6 @@ related:
         height: 600
         isCached: true
 
-secured: "pmbVx2IvLu0H95+BZGJ+yeFhWklNYGITQswSUgBJ2f5L62UcXI9jeH0NVVJBTO/oqW8b0L4JCyZGe5O3VWq93qmSsb85ahjx4xlSHRsiy/0WmpiQ3ym5dYvl0HKpdHOFKDWL5h+U01tlMTiteGSXYyCQjj3auYt9JDbm5topNBJihFm32/RQztw+lx9INw1ZT6bb0X62hqiqev9Gnv2WZAbIu3ZqRrJW0cVfWn2A1YhrSEtJGckS2wT0kePvrfYLTv7ipIfI5x8jQGFA1ZZMIAS0xrrhhXXoREUCtPwIty/TnRipb2wvkXj45hm9FaumkqVj/VjPNpmnqYEsew0yEYaYWSsx87+u73PONVI6Z1s=;oJ1+pPYHSoOXsoDcuLgEJQ=="
+secured: "5j/xYe20FGW+uPuaWQOMqiR+NSK/wF1kwOOzXYVL5STQcN5awDa2c3p/krz9KpJq2DUXPT5qyxoeijTzsesUnPc4BEu12YeMduWSZPAv0C/od2OceCFl1JQNxiSfAaO3X6sG/XMznheIzBDT+6Ed6nmbAdA81WtDw/Bt6G/OHh73Aa01P3R6B/arNgdYt4vsA30OWnRtpBMrPS8HXuQ4ECWtFtFr/CtvjuqufJ/FQMa2BJAxnZDSYNLfF8nBNuyIimprsEx92PcrBe2Xvco5H2BvVoum6ObR10GXGqjh8ruoo8eAqi3BlaEmyCTPZsJ18xO6LBHnUrUh83mQHn8ZctyaA0ixHZ3pHjvL0qTB1Yg=;ydE5ajb8a1p/6mc5jVBziQ=="
 ---
 

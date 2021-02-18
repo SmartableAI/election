@@ -111,22 +111,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Muddled promises on schools pose political problem for Biden"
-    excerpt: "President Joe Biden is in a political firestorm over how and when to get more schools open amid the coronavirus pandemic, with Republicans seizing on confusion surrounding Biden's goal to reopen a majority of schools within his first 100 days to paint the president as beholden to teachers’ unions at the expense of American families."
-    publishedDateTime: 2021-02-17T23:53:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/muddled-promises-schools-pose-political-problem-biden-75958313"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/muddled-promises-schools-pose-political-problem-biden-75958313"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/muddled-promises-schools-pose-political-problem-biden-75958313"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_672fa3c86d684a248ccc43634309f88a_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Biden: Governors and mayors need $350 billion to fight COVID"
     excerpt: "President Joe Biden met with a bipartisan group of governors and mayors at the White House on Friday as part of his push to give financial relief from the coronavirus pandemic to state and local governments — a clear source of division with Republican lawmakers who view the spending as wasteful."
     publishedDateTime: 2021-02-12T23:55:00Z

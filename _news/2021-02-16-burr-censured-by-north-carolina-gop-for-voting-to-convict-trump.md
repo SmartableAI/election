@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's gone, but China, U.S. still at odds over WHO Covid report"
+    excerpt: "\"It's kind of disappointing that it's come to controversy already — the report is not even out,\" one of the members of the WHO-led team said."
+    publishedDateTime: 2021-02-18T06:47:00Z
+    webUrl: "https://www.nbcnews.com/news/world/trump-s-gone-china-u-s-still-odds-over-who-n1257968"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1257968"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1257968"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_07/3450200/210215-who-wuhan-mc-1348_11d6c16fb8a6fd3f955274e4c684419f.jpg"
+        width: 2500
+        height: 1663
+        isCached: true
   - title: "McConnell's next chapter: Guiding the post-Trump GOP"
     excerpt: "The Kentuckian is the GOP's de facto leader for at least the next two years, as Trump remains exiled in Florida with no real public platform."
     publishedDateTime: 2021-02-14T12:05:00Z

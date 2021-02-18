@@ -109,22 +109,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Muddled promises on schools pose political problem for Biden"
-    excerpt: "President Joe Biden is in a political firestorm over how and when to get more schools open amid the coronavirus pandemic, with Republicans seizing on confusion surrounding Biden's goal to reopen a majority of schools within his first 100 days to paint the president as beholden to teachers’ unions at the expense of American families."
-    publishedDateTime: 2021-02-17T23:53:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/muddled-promises-schools-pose-political-problem-biden-75958313"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/muddled-promises-schools-pose-political-problem-biden-75958313"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/muddled-promises-schools-pose-political-problem-biden-75958313"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_672fa3c86d684a248ccc43634309f88a_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Biden presses for $1.9 trillion COVID relief plan with governors, mayors"
     excerpt: "U.S. President Joe Biden pushed for the first major legislative achievement of his term on Friday, turning to a bipartisan group of local officials for help on his $1.9 trillion coronavirus relief plan."
     publishedDateTime: 2021-02-12T22:35:00Z

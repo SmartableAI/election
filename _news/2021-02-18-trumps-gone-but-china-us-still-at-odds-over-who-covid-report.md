@@ -1,22 +1,22 @@
 ---
 category: news
-title: "READ: Democrat's lawsuit against Donald Trump over US Capitol attack"
-excerpt: "Former President Donald Trump and attorney Rudy Giuliani are being accused of conspiring with the far-right groups Proud Boys and Oath Keepers to incite the January 6 insurrection in a civil lawsuit filed Tuesday in federal court by the Democratic chairman of the House Homeland Security Committee and backed by the NAACP."
-publishedDateTime: 2021-02-16T15:26:00Z
-originalUrl: "https://www.cnn.com/2021/02/16/politics/dem-lawsuit-against-trump-naacp/index.html"
-webUrl: "https://www.cnn.com/2021/02/16/politics/dem-lawsuit-against-trump-naacp/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/02/16/politics/dem-lawsuit-against-trump-naacp/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/16/politics/dem-lawsuit-against-trump-naacp/index.html"
+title: "Trump's gone, but China, U.S. still at odds over WHO Covid report"
+excerpt: "\"It's kind of disappointing that it's come to controversy already — the report is not even out,\" one of the members of the WHO-led team said."
+publishedDateTime: 2021-02-18T06:47:00Z
+originalUrl: "https://www.nbcnews.com/news/world/trump-s-gone-china-u-s-still-odds-over-who-n1257968"
+webUrl: "https://www.nbcnews.com/news/world/trump-s-gone-china-u-s-still-odds-over-who-n1257968"
+ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1257968"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1257968"
 type: article
 quality: 135
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: NBC News
+  domain: nbcnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -26,9 +26,9 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/201120165627-giuliani-trump-file-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://media1.s-nbcnews.com/i/newscms/2021_07/3450200/210215-who-wuhan-mc-1348_11d6c16fb8a6fd3f955274e4c684419f.jpg"
+    width: 2500
+    height: 1663
     isCached: true
 
 related:
@@ -64,21 +64,21 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump's gone, but China, U.S. still at odds over WHO Covid report"
-    excerpt: "\"It's kind of disappointing that it's come to controversy already — the report is not even out,\" one of the members of the WHO-led team said."
-    publishedDateTime: 2021-02-18T06:47:00Z
-    webUrl: "https://www.nbcnews.com/news/world/trump-s-gone-china-u-s-still-odds-over-who-n1257968"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1257968"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1257968"
+  - title: "READ: Democrat's lawsuit against Donald Trump over US Capitol attack"
+    excerpt: "Former President Donald Trump and attorney Rudy Giuliani are being accused of conspiring with the far-right groups Proud Boys and Oath Keepers to incite the January 6 insurrection in a civil lawsuit filed Tuesday in federal court by the Democratic chairman of the House Homeland Security Committee and backed by the NAACP."
+    publishedDateTime: 2021-02-16T15:26:00Z
+    webUrl: "https://www.cnn.com/2021/02/16/politics/dem-lawsuit-against-trump-naacp/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/16/politics/dem-lawsuit-against-trump-naacp/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/16/politics/dem-lawsuit-against-trump-naacp/index.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
+      name: CNN
+      domain: cnn.com
     quality: 135
     images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2021_07/3450200/210215-who-wuhan-mc-1348_11d6c16fb8a6fd3f955274e4c684419f.jpg"
-        width: 2500
-        height: 1663
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201120165627-giuliani-trump-file-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "McConnell's next chapter: Guiding the post-Trump GOP"
     excerpt: "The Kentuckian is the GOP's de facto leader for at least the next two years, as Trump remains exiled in Florida with no real public platform."
@@ -95,6 +95,6 @@ related:
         height: 773
         isCached: true
 
-secured: "uR4JoCOLZd6TC1u6VrLriQdk9KZmdm6bauRlIXZDIUd2TjHcfAss07yP1Xd0l6lo5xO0rbyympzTdLzbVGD2016seidbhbjVf3hgKpRXHrCd0nDPzWdfRhZ3MXbuhIMH2cyLeL9GW5IjxnC31MKAZ+AJpiyI56yzeGKiIPxybR9yu2TxOkKu84lpNYYSsXg8rKloHCQ1ROMc9s1l/YZqYrjxOEfzvFEptMRkHBIAPQ5zA3FtYHfPJQzM0QBTxKuDc29RuIwUsBm7MDhyMHiKWuPCIcNo5eMSPaYyS4MVAiQdXd4Ybl9oF970qVBc2rYOUA2+7+rw6UFQI6zqVMZND6MSiuMCFwQKW6wu6x9d4vHRL4TImQKg9DS+azE2MlqlBpuwUsXdDgmc2obe2bGmeupbPCokuLGS9rCTZ8/iO7wsjM8+F2jEvfPyryIAwV5FnQhc2jofYLqB41g9QiZe6MGP5Hv5Qx1WYNcI/eBqfbdFk+hv2EPuPtc/OipcDrWPiRL9BRgOlbwwkm0Ovl5gvg==;B0ZAviY4pZ6hGp2hp57p7Q=="
+secured: "3MWf3Y1+uHCFVUI744TToFOb9gh9S+xt/6YyAskyBN25GksgwGg7c3Frj2BNQBGKWfJU0CJ0tTRBeO84dnMHfMFZrNYYvtUFc2KJQv7HXNAUfiDkdSKJu933/EbNDE1RbZ+//7aoYjJNjK18icm/yrlxmJQTkZZQLB0HPGNpkfty4yAdkr8sL0WCVG3p1iFXmIgx4UFkGS1LX4nFmgzimAukVikRMq2auy0diwQCP925mf07ooiPjMYIsE+aV0Fh6I3BDMN0C54Cw6nj0fESNILtW3GL4aH893J0V20L9UpKKoUtqSXK0WIAe8VlAWFCQJl+OhoIBjrNtVsrofwf3v5o+frocs1HxKtcpm8a/mU=;C80izR+5jzfybt3B2AZUPQ=="
 ---
 

@@ -1,20 +1,18 @@
 ---
 category: news
-title: "Feds arrest UCLA student accused of sitting in Pence’s chair | Charlotte Observer"
-excerpt: "Authorities say a Los Angeles college student and self-described fascist has been arrested after sitting in former Vice President Mike Pence’s chair in the Senate chambers during the insurrection at the U."
-publishedDateTime: 2021-02-18T00:52:00Z
-originalUrl: "https://www.charlotteobserver.com/news/nation-world/national/article249324250.html"
-webUrl: "https://www.charlotteobserver.com/news/nation-world/national/article249324250.html"
-ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/national/article249324250.html"
-cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article249324250.html"
+title: "Feds arrest student accused of sitting in Pence’s chair"
+excerpt: "A Los Angeles college student was arrested after he sat in former Vice President Mike Pence’s chair in the Senate chambers during the insurrection at the U."
+publishedDateTime: 2021-02-18T06:12:00Z
+originalUrl: "https://www.newstribune.com/news/national/story/2021/feb/18/feds-arrest-student-accused-of-sitting-in-pences-chair/860542/"
+webUrl: "https://www.newstribune.com/news/national/story/2021/feb/18/feds-arrest-student-accused-of-sitting-in-pences-chair/860542/"
 type: article
-quality: 50
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: Charlotte Observer
-  domain: charlotteobserver.com
+  name: News Tribune
+  domain: newstribune.com
 
 topics:
   - Election
@@ -69,6 +67,17 @@ related:
         width: 621
         height: 372
         isCached: true
+  - title: "Feds arrest UCLA student accused of sitting in Pence’s chair | Charlotte Observer"
+    excerpt: "Authorities say a Los Angeles college student and self-described fascist has been arrested after sitting in former Vice President Mike Pence’s chair in the Senate chambers during the insurrection at the U."
+    publishedDateTime: 2021-02-18T00:52:00Z
+    webUrl: "https://www.charlotteobserver.com/news/nation-world/national/article249324250.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/national/article249324250.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article249324250.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 50
   - title: "Feds arrest UCLA student accused of sitting in Pence’s chair | Raleigh News & Observer"
     excerpt: "A Los Angeles college student and self-described fascist was arrested after he sat in former Vice President Mike Pence's chair in the Senate chambers during the insurrection at the U.S. Capitol, authorities said. Officials say Christian Secor — a 22-year ..."
     publishedDateTime: 2021-02-17T22:39:00Z
@@ -96,15 +105,6 @@ related:
         width: 621
         height: 372
         isCached: true
-  - title: "Feds arrest student accused of sitting in Pence’s chair"
-    excerpt: "A Los Angeles college student was arrested after he sat in former Vice President Mike Pence’s chair in the Senate chambers during the insurrection at the U."
-    publishedDateTime: 2021-02-18T06:12:00Z
-    webUrl: "https://www.newstribune.com/news/national/story/2021/feb/18/feds-arrest-student-accused-of-sitting-in-pences-chair/860542/"
-    type: article
-    provider:
-      name: News Tribune
-      domain: newstribune.com
-    quality: 35
   - title: "Feds arrest UCLA student accused of sitting in Mike Pence’s chair"
     excerpt: "A Los Angeles college student and self-described fascist was arrested after he sat in former Vice President Mike Pence’s chair in the Senate chambers during the insurrection at the U.S. Capitol, authorities said."
     publishedDateTime: 2021-02-18T01:59:00Z
@@ -115,6 +115,6 @@ related:
       domain: triblive.com
     quality: 35
 
-secured: "homyBL0Wn9T4LMO6oRA385dq8zalHH2psnoZmkS9l9qnjdwX2hqjBrIWMF8cWzasiJ1n2DulgMBcnaQ/ZwN8Z2QPcu4BKCjv+dTgoRErtZkGF24MowxVwRwTBtHkXteWoSW9v+IbazTOCitsFwTk8ajmuEa/otSZPJGh1UiKJ/3NSVA50y2U9ivKlthUNveltZ3Hp2kd49taj0oNDcUcvGvpj4gx6OWJmNr6L9iX4Le1/ohpJeMkob7APLU3K0B3OypOh6a0flEx05ApbjmwnRgTly+1c63TlVtpew26DLYgbswr4EvoXDq4PIjKT6qZCBatQJIDCYBsmuag9RZOfXfXwasNv5VR91ITrjMual15hjpRx0hKYVrdOJG3JCe0WiOSX2VLpvrNreW8AZXswdzVqEhK4MZWXMjKrg8HlrP5M25MghZa4nMzaUrk99acyjJfbHOYzJzrxKx/UGguBljqzrGgRuxviA8WqqJJfZNEq1RTApOasgqnP1aFc9pqFz91V+43OgNXnsoB38pKsw==;HprT5CJfdZp0EatyI/GdPw=="
+secured: "aSeKHZJAmslPF4axBuwbImsTj0drztjZv5I2seWMQRiFNpmLpicXYSW7Vm8eQ1oKYjE3oP8oIu/wB9SywBDirdhnfmALnQ6849EEXPOq8Oa+CXjm/v8mllxJrg4BEM5NDSen3oo79PUmSlq2DvtXGwGwBE8rgvzayiY9SA9DEK5hjNkzxGbEaz/kt9CGHxcBHvD33qd359pLpGuyCcP1JKkeEpmWI6FQolR7Cz2P0gZjF+W+FvB7qi8VMDqoh27FfOqxdoRYnoKwKP0A4i5sS+7A2EubpFvwnw4OPIh8CKXFRw4dS8Z0xzZUScIMWZnqRsipQp1uelPQZYBsz9mKBGs2eUMTDEZegFuBsLKabVY=;XBUxh6NVIBB0euZe23lBFQ=="
 ---
 
