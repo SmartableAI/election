@@ -2,6 +2,63 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-02-09-politico-playbook-pm-will-the-cbo-help-or-hurt-joe-biden.md",
+      "title": "POLITICO Playbook PM: Will the CBO help or hurt Joe Biden?",
+      "excerpt": "Gary Palmer … Lynda Blanchard THE POWER OF THE CBO — BARACK OBAMA grew so frustrated with the impact of Congressional Budget Office analyses of his health care plan in 2009 that he once banned his senior staffers from mentioning the CBO in meetings.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/newsletters/playbook-pm/2021/02/08/will-the-cbo-help-or-hurt-joe-biden-491680",
+      "originalUrl": "https://www.politico.com/newsletters/playbook-pm/2021/02/08/will-the-cbo-help-or-hurt-joe-biden-491680",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/c4/d0/e419049d41c5b8e097e3d0f4bfc9/gettyimages-1301023935.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-08T10:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-08-bidens-ban-on-oil-and-gas-leases-on-federal-lands-a-direct-attack-on-wyoming-says-governor.md",
       "title": "Biden’s ban on oil and gas leases on federal lands a 'direct attack' on Wyoming, says governor",
       "excerpt": "Wyoming Governor Mark Gordon called President Joe Biden’s executive order restricting the oil and gas industry a \"direct attack\" on Wyoming that will lead to a significant revenue loss for his state.",
@@ -1315,59 +1372,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-06-pences-plans-post-trump-administration-take-shape.md",
-      "title": "Pence's plans post-Trump administration take shape",
-      "excerpt": "Former Vice President Mike Pence's post-Trump administration life is now starting to take shape. He's planning to host a new podcast and will be joining two conservative think tanks. Pence will be launching a podcast with Young America's Foundation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/pences-post-trump-administration-plans-take-shape/",
-      "originalUrl": "https://www.cbsnews.com/news/pences-post-trump-administration-plans-take-shape/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 4730,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/26/2f065a4b-c323-4b75-a050-9741f82fa8c7/thumbnail/1200x630/9a39ef2588570d3035fb1e97f02eb586/gettyimages-1229222282.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/pences-post-trump-administration-plans-take-shape/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/pences-post-trump-administration-plans-take-shape/",
-      "publishedDateTime": "2021-02-05T14:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Mike Pence"
       ]
     }
   ],

@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-16-trump-drives-by-supporters-rally-in-west-palm-beach.md",
+      "title": "Trump drives by supporters' rally in West Palm Beach",
+      "excerpt": "Former President Trump drove by supporters at a rally in Florida on Monday, CBS West Palm affiliate WPEC reported. It's the first time he has been spotted in public since Saturday, when the Senate acquitted him in his second impeachment trial.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/trump-supporter-rally-west-palm-beach/",
+      "originalUrl": "https://www.cbsnews.com/news/trump-supporter-rally-west-palm-beach/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/02/15/375bd093-35fa-4e88-a1af-dd9a5600c990/thumbnail/1200x630/9c506a9295e6c9ac43a1cfde0b08983e/trump-west-palm.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/trump-supporter-rally-west-palm-beach/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-supporter-rally-west-palm-beach/",
+      "publishedDateTime": "2021-02-16T04:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-16-op-ed-pence-was-a-potential-victim-on-jan-6-that-doesnt-make-him-a-hero.md",
       "title": "OP-ED: Pence was a potential victim on Jan. 6. That doesn't make him a hero",
       "excerpt": "When he issued a statement early on Jan. 6 indicating that he lacked the unilateral authority to determine which electoral votes should be counted, Vice President Mike Pence was stating the obvious. It was a \"Profiles in Courage\" moment only by the low standards of the Trump administration.",
@@ -1272,58 +1324,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-14-trump-acquittal-biden-urges-vigilance-to-defend-fragile-democracy-after-impeachment-trial.md",
-      "title": "Trump acquittal: Biden urges vigilance to defend 'fragile' democracy after impeachment trial",
-      "excerpt": "President says the substance of the charge against Donald Trump over the January attack on US Capitol is not in dispute",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/feb/14/trump-acquittal-biden-urges-vigilance-to-defend-fragile-democracy-after-impeachment-trial",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/feb/14/trump-acquittal-biden-urges-vigilance-to-defend-fragile-democracy-after-impeachment-trial",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1369,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/c680f2571d7f60e33c3235b84bc24d5e5c969590/0_84_5472_3283/master/5472.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9ca49357272737d2ff54874ce241fed9",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/feb/14/trump-acquittal-biden-urges-vigilance-to-defend-fragile-democracy-after-impeachment-trial",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/14/trump-acquittal-biden-urges-vigilance-to-defend-fragile-democracy-after-impeachment-trial",
-      "publishedDateTime": "2021-02-14T02:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

@@ -2,6 +2,63 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-17-kamala-harris-pressed-on-school-reopenings-says-teachers-should-be-a-priority-in-receiving-covid-vacccine.md",
+      "title": "Kamala Harris pressed on school reopenings, says teachers 'should be a priority' in receiving COVID vacccine",
+      "excerpt": "Vice President Kamala Harris said the Biden administration believes teachers \"should be a priority\" in receiving the coronavirus vaccine as parents and educators clash over whether it is safe for teachers to return to the classroom without inoculations against COVID-19.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7uVaVOHoVtc/kamala-harris-teachers-priority-coronavirus-vaccines",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7uVaVOHoVtc/kamala-harris-teachers-priority-coronavirus-vaccines",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 186,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-teachers-priority-coronavirus-vaccines.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-teachers-priority-coronavirus-vaccines.amp",
+      "publishedDateTime": "2021-02-17T06:08:31-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-02-17-explainer-what-is-the-ku-klux-klan-act-cited-in-lawsuit-against-trump.md",
       "title": "Explainer: What is the Ku Klux Klan Act cited in lawsuit against Trump ",
       "excerpt": "The Democratic chairman of the House Homeland Security Committee has filed a lawsuit against former President Donald Trump that cites a little-known federal statute that was first passed after the Civil War.\n    \n",
@@ -1309,58 +1366,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-16-trump-drives-by-supporters-rally-in-west-palm-beach.md",
-      "title": "Trump drives by supporters' rally in West Palm Beach",
-      "excerpt": "Former President Trump drove by supporters at a rally in Florida on Monday, CBS West Palm affiliate WPEC reported. It's the first time he has been spotted in public since Saturday, when the Senate acquitted him in his second impeachment trial.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/trump-supporter-rally-west-palm-beach/",
-      "originalUrl": "https://www.cbsnews.com/news/trump-supporter-rally-west-palm-beach/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/02/15/375bd093-35fa-4e88-a1af-dd9a5600c990/thumbnail/1200x630/9c506a9295e6c9ac43a1cfde0b08983e/trump-west-palm.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/trump-supporter-rally-west-palm-beach/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-supporter-rally-west-palm-beach/",
-      "publishedDateTime": "2021-02-16T04:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],
