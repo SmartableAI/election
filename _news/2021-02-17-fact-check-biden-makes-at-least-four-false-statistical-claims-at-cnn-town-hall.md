@@ -141,6 +141,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "WARREN presses BIDEN for DEBT RELIEF — NEW GROUPS eligible for COVID SHOTS — BEACON HILL to probe VAX rollout"
+    excerpt: "President Joe Biden is pretty blunt about where he stands on canceling $50,000 per borrower in student loan debt. “I will not make that happen,” Biden said during a CNN town hall earlier this week. But Sen."
+    publishedDateTime: 2021-02-18T12:23:00Z
+    webUrl: "https://www.politico.com/newsletters/massachusetts-playbook/2021/02/18/warren-presses-biden-for-debt-relief-new-groups-eligible-for-covid-shots-beacon-hill-to-probe-vax-rollout-491796"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 96
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
 
 secured: "BINbNNApXElbpus6vhOFEQXlfdQaIuB2PtO+uga+fLf9Q+3nIj5Vk5KPrFhxra7YYFCvRiLfeu3hA7gLeMGZIK74zxhEcg2VPyqpO9Orj8zQ1U+y5i2qFoRJPQ9J5XdpIhSHPfM0coJrDotE4qaSDpR8pKPx8pMH6JrLg7yJ8HiedUC/tzGqQDse2RRcgp2NMIj+zaLrI0CyXK6cPh+F4T1o0eYUKx5600DWSzAhB88rH5uOCcB9j3Ds+AQw5gHntqFZEcMokkWFqxJDLsalez0XBlSvqINICrLQldGJuR1WiHEO+vRqXHqSrxE3lpTMpqzOc7LVCK+tuxQmb3dP6HL7oMDmVjXGZEbZQNtGOiM=;sDdthHKwGX1Xg0Hb4fnA3Q=="
 ---

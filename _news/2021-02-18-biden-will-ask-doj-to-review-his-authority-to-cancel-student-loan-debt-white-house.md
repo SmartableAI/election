@@ -383,6 +383,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden administration pledges to expand vaccinations as winter storms cause delays – as it happened"
+    excerpt: "CDC warns of ‘widespread delays’ in vaccine deliveries due to weather"
+    publishedDateTime: 2021-02-18T01:13:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/17/biden-harris-coronavirus-teachers-vaccine-us-politics-live-latest?page=with:block-602d81068f08ad21ea5fe5af"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/17/biden-harris-coronavirus-teachers-vaccine-us-politics-live-latest"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/17/biden-harris-coronavirus-teachers-vaccine-us-politics-live-latest"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 111
+    images:
+      - url: "https://i.guim.co.uk/img/media/397e9c81d30a0858d4af27de891e6279de7dadc8/0_0_6720_4032/master/6720.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4a0ac585526f1b234ccafd9a8a69d93b"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Biden aims to close Guantanamo Bay prison by the time he leaves office"
     excerpt: "The White House said on Friday that U.S. President Joe Biden aims to close the Guantanamo Bay prison by the time he leaves office, press secretary Jen Psaki told reporters in a daily briefing."
     publishedDateTime: 2021-02-12T19:27:00Z
@@ -445,6 +461,6 @@ related:
         height: 600
         isCached: true
 
-secured: "r8mjadyEASYgrYr9t+Bp4NTzZwcBG+dhEEz+76d1xCKsAGNO1gj+9eltRTgQZTy6ngmYL1oiY9PiJfSbdZ8Y+aL6vO09fsRwDY5ngLlGP5kTy4SWzXwlKLr66HgvCNikPNJuN+G5xd0hIfyMzlYIMeUHBHX8jc27j9lT8si0x9VitICX7mAmVp4l2OH341pFEC7kdnEvwKloBSNXHHY7ewcF0S0BCj3z2OhSKimgf00AWUcR9aePgFYVXxQ87a8yKL7NvH29u8OAHoFPTGb3mugG4kuFQ+m93nVwtWLuhZbFNhLR5kl7wiFWDoHQsMzIpHO5hguPfOAjgZmKcR1T1c43YGmijw+JD7OOH+hy6P8=;CVl6JF2uH9WAjzUkve9w1w=="
+secured: "mwmJFeVabIciToZgzksgDguep/POKd0VfZI4WMKPa2xUw6aFvrZh3D9dnRCWsowcivr4yj2emAHS8K06Mq/Sex9QPywd6d/U/1XPjWkrB/ycO0pU110HOdXlYKunJrjdgMxha78GIvF73/Xz2leIpSgBaizKG+WDo9GdlBpE4J2tPJqnI+hzdj423phymx2cMXppmAj5dsxHCeYA646IOpLmLXScPcIvd6esR/w7Dzgc4m+PpK38UWo0TVK9/mu5vN6LOUpaOGxGPHrpf4Qd3s/Ckc+TQTAdyXYvnw7y2gl5BWjt5yjlTmMvxCPBjpK4VtInuTB+w2INRJfIuybV1STl2+D5i1189vBo7+ujf5YBe5ouRyRj9srTIqNa0rmivAtBn2k4U14N8hlVpwCtZaYSOB5vJlR+6uJD1VnFkvVl6WhlLjvixY9kI8pRStzwqXYtNRj5cpWsL4pP6htq53+xO3c/g5N1NlPYC3M7CmYEAzHJIEckhVF5OTg2YS8HDhucqXuYxYQ6aaf2LGXSAw==;DkWaNN8MVhFRCTc8NwwxVA=="
 ---
 

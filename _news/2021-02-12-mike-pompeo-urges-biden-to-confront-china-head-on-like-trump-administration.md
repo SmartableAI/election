@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/mike-pompeo-biden-administration-co
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-pompeo-biden-administration-confront-china-head-on.amp"
 type: article
 quality: 187
-heat: 587
+heat: 607
 published: true
 
 provider:
@@ -302,6 +302,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/06033aca-08b3-48f8-b198-95163a765304/d8e75191-a19d-41d7-b41c-27e56d336a1b/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump slams Biden for comment on vaccine distribution, won’t rule out 2024 run"
+    excerpt: "Former President Trump blasted President Biden for claiming that he left the White House without a vaccine distribution plan — calling it a “very dumb statement,” late Wednesday"
+    publishedDateTime: 2021-02-18T12:31:00Z
+    webUrl: "https://nypost.com/2021/02/18/trump-slams-biden-wont-rule-out-2024-presidential-run/"
+    ampWebUrl: "https://nypost.com/2021/02/18/trump-slams-biden-wont-rule-out-2024-presidential-run/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/18/trump-slams-biden-wont-rule-out-2024-presidential-run/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 146
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/trump-running.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Psaki: Biden not weighing in on Trump impeachment trial because 'he's not a pundit’"
     excerpt: "White House Press Secretary Jen Psaki on Tuesday said President Biden is not weighing in on former President Donald Trump’s Senate impeachment trial because “he’s not a pundit,” while maintaining that he will not watch the proceedings."

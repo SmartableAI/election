@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/16/politics/immigration-asylum-trump
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/16/politics/immigration-asylum-trump-rule/index.html"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 170
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210215102959-sasse-burr-cassidy-rice-cheney-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "The Supreme Court is still sitting on Trump's tax returns, and justices aren't saying why"
+    excerpt: "Lawsuits involving Donald Trump tore apart the Supreme Court while he was president, and the justices apparently remain riven by him.\n    \n"
+    publishedDateTime: 2021-02-18T11:40:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7C5vReI_alE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/18/politics/supreme-court-trump-taxes-vance/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/18/politics/supreme-court-trump-taxes-vance/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190919130022-20190918-trump-tax-forms-generic-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

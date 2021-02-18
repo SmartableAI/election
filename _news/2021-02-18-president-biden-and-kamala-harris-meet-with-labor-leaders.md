@@ -3,8 +3,8 @@ category: news
 title: "President Biden and Kamala Harris Meet with Labor Leaders"
 excerpt: "President Joe Biden and Vice President Kamala Harris meet with a group of labor leaders to discuss the American Rescue Plan and to get input on the President's infrastructure plan at the White house in Washington,"
 publishedDateTime: 2021-02-18T00:50:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/0b2ba5ec6ea53ae96b71de6d31b0f783/President-Biden-and-Kamala-Harris-Meet-with-Labor-Leaders/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/0b2ba5ec6ea53ae96b71de6d31b0f783/President-Biden-and-Kamala-Harris-Meet-with-Labor-Leaders/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/3e1db8eb3d611a303172c0f15f6858b4/President-Biden-and-Kamala-Harris-Meet-with-Labor-Leaders/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/3e1db8eb3d611a303172c0f15f6858b4/President-Biden-and-Kamala-Harris-Meet-with-Labor-Leaders/"
 type: article
 quality: 70
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/0b2ba5ec6ea53ae96b71de6d31b0f783/BIDEN-LABOR-MEETING.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/3e1db8eb3d611a303172c0f15f6858b4/BIDEN-LABOR-MEETING.jpg"
     width: 650
     height: 433
     isCached: true
@@ -1459,6 +1459,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "7IAoASXtKtYRZ7aw0eoi6McvnF8vaUu4hV+ifkx8esPByIaCJEgwh1HPOD5Q54vjfiEKRgILM0EcJv8jhwm346MkF0DP3EZueaZ/dNu/7FVV9KnsuYF4sM0OMW2mecA0gRueYFbN4KkmJfkO6KwANKt9JKomT8G3saHPl5UbabapivTJEBfJVbyuYgEdHpSGD6n6xFNCCBRc3PmQ4xLo/6HblAA/J1Dug9leh5eCbwBtIgznFvVsVp6N9Ms1M0kBK48GMWDHqzemgVNxAjuI1EvpaZHcKpp+G+toSpW1lI+02gKWPtao8HfU6MsgdEa3eylupBDSWhBN4F5HEHTpAKUuh2cY3r9MnT0sFO2V9MI=;E18RMJCDeASPHjVocrjmAg=="
+secured: "fDqlhZnU3xrW9si69Yi2ZMas1kLJcl69UOS437irx0QLg+VX5o+gcSExt1z1sZRKyLhvERYcd9wOrucAo/4nSiPZlnl/9ToOKEUEF4VZ7CjceYfnLi6VqXhQfWGm/R+2TpjLmao+JLg0H1WuwilHQxCMkLujKNyGuA2Z9oZICeyB3twKIDsNRMp2HOdO8HbF20sEAqdswaXAKItx58hIqtbwT9OED+rJzL2A7pOnNDJG9oIVxcJN96DAopUg0nUfq3JDKkRPIqGtnZdKOmBkVw+u9F5VdfLwQoKaSkt9y8AyfQvGsHA3dNc1XyGKkrhuGsql0wGzJIbkbecMeXKD0KfwFXniA7sXUFlk6U9Ivt4=;xdO3GAahiyoMN63qfqE0/A=="
 ---
 

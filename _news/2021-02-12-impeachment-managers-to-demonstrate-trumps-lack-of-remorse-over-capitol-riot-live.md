@@ -91,17 +91,17 @@ related:
         isCached: true
   - title: "NAACP lawsuit will put Trump \"out of business,\" Congressman Bennie Thompson says"
     excerpt: "Congressman Bennie Thompson and NAACP President Derrick Johnson talk to CBSN about their legal case over the Capitol riot."
-    publishedDateTime: 2021-02-17T20:57:00Z
-    webUrl: "https://www.cbsnews.com/news/naacp-lawsuit-trump-bennie-thompson/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/naacp-lawsuit-trump-bennie-thompson/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/naacp-lawsuit-trump-bennie-thompson/"
+    publishedDateTime: 2021-02-18T11:58:00Z
+    webUrl: "https://www.cbsnews.com/news/naacp-trump-lawsuit-bennie-thompson/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/naacp-trump-lawsuit-bennie-thompson/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/naacp-trump-lawsuit-bennie-thompson/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 120
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/15/bda0094f-3972-4a53-92a9-5bf0231922dc/thumbnail/1200x630/2b9fee1e9f9f82a75d51d98f34a1e475/cbsn-fusion-trump-acquitted-in-second-impeachment-trial-seven-republicans-join-democrats-to-convict-thumbnail-646404-640x360.jpg"
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/03/11/4919888d-d71c-4945-b12e-61536282e8dc/thumbnail/1200x630/0ea5fbfc8c1175126f3ad66fa9f1cd69/30-polarizing-trump.jpg"
         width: 1200
         height: 630
         isCached: true

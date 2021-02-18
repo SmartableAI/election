@@ -2,6 +2,62 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-02-02-sen-kaine-sets-aside-trump-censure-resolution-theres-not-enough-support-on-either-side.md",
+      "title": "Sen. Kaine sets aside Trump censure resolution: 'There's not enough support on either side'",
+      "excerpt": "Sens. Tim Kaine and Susan Collins have set aside the bipartisan effort to censure former President Trump for his role in the Jan. 6 Capitol riot for lack of support from both Democrats and Republicans. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RvY2CA5b2j4/sen-kaine-tables-trump-reasonable-censure-resolution-for-lack-of-support",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RvY2CA5b2j4/sen-kaine-tables-trump-reasonable-censure-resolution-for-lack-of-support",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/COLLINS-KAINE-SPLIT.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/sen-kaine-tables-trump-reasonable-censure-resolution-for-lack-of-support.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-kaine-tables-trump-reasonable-censure-resolution-for-lack-of-support.amp",
+      "publishedDateTime": "2021-02-02T11:48:29-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-02-graham-urges-acting-ag-to-refrain-from-interfering-in-durham-hunter-biden-probes-amid-garland-confirmation.md",
       "title": "Graham urges acting AG to 'refrain from interfering' in Durham, Hunter Biden probes amid Garland confirmation",
       "excerpt": "Sen. Lindsey Graham, the top Republican on the Senate Judiciary Committee, on Tuesday urged acting Attorney General Monty Wilkinson to \"refrain from interfering\" in Special Counsel John Durham’s investigation and the federal investigation into Hunter Biden’s \"tax affairs\" while the Senate works to confirm",
@@ -1604,62 +1660,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/aoc-green-new-dealers-rejoice-over-bidens-climate-plan-its-almost-as-if-we-helped-shape-the-platform.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-green-new-dealers-rejoice-over-bidens-climate-plan-its-almost-as-if-we-helped-shape-the-platform.amp",
       "publishedDateTime": "2021-01-29T12:59:01-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-cuomo-blames-nursing-home-scandal-on-political-attack-by-trump-admin.md",
-      "title": "Cuomo blames nursing home scandal on 'political attack' by Trump admin",
-      "excerpt": "In his first public comments since a scathing attorney general report finding New York Gov. Andrew Cuomo’s administration undercounted nursing home deaths, the governor on Friday argued criticisms of him were a \"political attack\" that began with the Trump administration. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/262Ph4N8eJ8/cuomo-blames-nursing-home-scandal-on-political-attack-by-trump-admin",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/262Ph4N8eJ8/cuomo-blames-nursing-home-scandal-on-political-attack-by-trump-admin",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8026521c-9bdb-469e-89f3-e20f16b14ada/867e4894-5263-4683-bb40-4b9492ddefc6/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/cuomo-blames-nursing-home-scandal-on-political-attack-by-trump-admin.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-blames-nursing-home-scandal-on-political-attack-by-trump-admin.amp",
-      "publishedDateTime": "2021-01-29T10:51:59-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

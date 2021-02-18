@@ -95,6 +95,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Big lies and little lies still flow in post-Trump GOP: The Note"
+    excerpt: "The \" big lie \" of a stolen election lives on post-impeachment, as Trump made clear in his media appearances to mark Limbaugh's passing. Trump's pull in the party remains strong, as new congressional candidates and censure measures against impeachment-supporting Republicans make clear."
+    publishedDateTime: 2021-02-18T11:12:00Z
+    webUrl: "https://abcnews.go.com/Politics/big-lies-lies-flow-post-trump-gop-note/story?id=75951644"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/big-lies-lies-flow-post-trump-gop-note/story?id=75951644"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/big-lies-lies-flow-post-trump-gop-note/story?id=75951644"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/Trump-Limbaugh-gty-er-210217_1613607529658_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump has talked to associates about forming new political party: report"
     excerpt: "President Trump has reportedly floated the possibility of starting a new political party as he prepares to leave the White House amid internal struggles within the Republican Party."
     publishedDateTime: 2021-01-20T02:46:00Z

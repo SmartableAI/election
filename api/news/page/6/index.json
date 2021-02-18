@@ -2,6 +2,114 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-02-11-warren-says-republicans-who-stand-with-trump-must-be-stopped.md",
+      "title": "Warren says Republicans who stand with Trump ‘must be stopped’",
+      "excerpt": "Sen. Elizabeth Warren, D-Mass, said Wednesday that she believed the Democrat impeachment managers made a compelling case against former President Trump and any Republican who stands with him “must be stopped.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pcGPrDMtmHU/warren-says-republicans-who-stand-with-trump-must-be-stopped",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pcGPrDMtmHU/warren-says-republicans-who-stand-with-trump-must-be-stopped",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/warren-says-republicans-who-stand-with-trump-must-be-stopped.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/warren-says-republicans-who-stand-with-trump-must-be-stopped.amp",
+      "publishedDateTime": "2021-02-10T22:43:11-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-adviser-says-donald-trump-in-great-mood-thinks-bruce-castor-made-some-good-points.md",
+      "title": "Adviser Says Donald Trump In 'Great Mood,' Thinks Bruce Castor Made 'Some Good Points'",
+      "excerpt": "\"There are a few things that we need to tighten up,\" Donald Trump's adviser Jason Miller said of Trump's defense team in the Senate impeachment trial.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/adviser-says-donald-trump-great-mood-thinks-bruce-castor-made-some-good-points-1568455",
+      "originalUrl": "https://www.newsweek.com/adviser-says-donald-trump-great-mood-thinks-bruce-castor-made-some-good-points-1568455",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1732059/jason-miller-donald-trump-impeachment-bruce-castor.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/adviser-says-donald-trump-great-mood-thinks-bruce-castor-made-some-good-points-1568455?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/adviser-says-donald-trump-great-mood-thinks-bruce-castor-made-some-good-points-1568455?amp=1",
+      "publishedDateTime": "2021-02-10T20:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-10-biden-admin-erects-tent-city-in-texas-to-handle-influx-of-illegal-immigrants.md",
       "title": "Biden admin erects tent city in Texas to handle influx of illegal immigrants",
       "excerpt": "The Biden administration announced this week that it opened a soft-sided facility for immigrants in Donna, Texas, as Republican lawmakers warn of a “rising crisis” at the U.S.-Mexico border.",
@@ -1243,110 +1351,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-trial-highlights-history-lessons-trump-tweets-and-more.md",
-      "title": "Trial highlights: history lessons, Trump tweets and more",
-      "excerpt": "Donald Trump will stand trial for impeachment after the Senate rejected arguments from the former president’s lawyers that the chamber cannot move forward because he is no longer in office",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/trial-highlights-history-lessons-trump-tweets-75789773",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/trial-highlights-history-lessons-trump-tweets-75789773",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 425,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_bb4aff58ec284468b4b027215e10659d_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/trial-highlights-history-lessons-trump-tweets-75789773",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trial-highlights-history-lessons-trump-tweets-75789773",
-      "publishedDateTime": "2021-02-09T16:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-radioactive-neera-tanden-bidens-pick-for-budget-chief-tries-to-win-over-critics-on-left-and-right.md",
-      "title": "'Radioactive'? Neera Tanden, Biden's pick for budget chief, tries to win over critics on left and right",
-      "excerpt": "Neera Tanden has waged war against the GOP on Twitter, setting up an awkward confrontation during her confirmation hearings as Biden's budget director",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/02/09/neera-tanden-office-management-budget-nominee-set-senate-grilling/4413702001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/02/09/neera-tanden-office-management-budget-nominee-set-senate-grilling/4413702001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/02/08/USAT/b3375d8e-4ef3-44c7-8bb9-6cb14aa1d030-GTY_1288892607.jpg?auto=webp&crop=3104,1746,x0,y158&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/4413702001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4413702001",
-      "publishedDateTime": "2021-02-09T14:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

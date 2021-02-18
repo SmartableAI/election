@@ -383,6 +383,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration prepares new rules placing stricter enforcement parameters on ICE"
+    excerpt: "US Immigration and Customs Enforcement is preparing to roll out new guidelines that would curtail enforcement measures, focusing more narrowly on immigrants who pose a national security, border security or public safety risk, according to draft interim guidance obtained by CNN.\n    \n"
+    publishedDateTime: 2021-02-18T04:22:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CzP0_ARfX4I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/17/politics/immigration-enforcement-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/17/politics/immigration-enforcement-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201203221426-conclu-ice-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Governors tell Biden in letter some vaccine efforts are creating confusion and inefficiency"
     excerpt: "A bipartisan group of governors expressed concern Monday at the Biden administration's vaccine rollout, writing in a letter to the White House that better coordination is needed between the federal government and states on distributing doses to prevent confusion and duplicative efforts.\n    \n"
     publishedDateTime: 2021-02-15T22:12:39Z
@@ -396,6 +412,22 @@ related:
     quality: 165
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210128222731-02-johnson-and-johnson-vaccine-trial-121520-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration confronts regulatory maze and hazy messaging in push to reopen schools"
+    excerpt: "President Joe Biden's promise to try to open schools within his first 100 days has become one of most vexing puzzles facing the new administration, leading to confusion and anger among parents who still aren't getting clear answers.\n    \n"
+    publishedDateTime: 2021-02-18T11:42:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UwljpaBJuuo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/18/politics/joe-biden-schools-reopening-teacher-vaccine/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/18/politics/joe-biden-schools-reopening-teacher-vaccine/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210211174203-joe-biden-february-11-2021-01-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

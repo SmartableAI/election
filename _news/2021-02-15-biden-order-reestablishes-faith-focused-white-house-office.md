@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/biden-order-reestablishes-fa
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-order-reestablishes-faith-focused-white-house-office/2021/02/14/17fe6700-6ee0-11eb-8651-6d3091eac63f_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 665
+heat: 685
 published: true
 
 provider:
@@ -382,6 +382,22 @@ related:
       - url: "https://s.abcnews.com/images/GMA/heart-whitehouse-2-gty-rc-210212_1613138866944_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Biden administration pledges to expand vaccinations as winter storms cause delays – as it happened"
+    excerpt: "CDC warns of ‘widespread delays’ in vaccine deliveries due to weather"
+    publishedDateTime: 2021-02-18T01:13:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/17/biden-harris-coronavirus-teachers-vaccine-us-politics-live-latest?page=with:block-602d81068f08ad21ea5fe5af"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/17/biden-harris-coronavirus-teachers-vaccine-us-politics-live-latest"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/17/biden-harris-coronavirus-teachers-vaccine-us-politics-live-latest"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 111
+    images:
+      - url: "https://i.guim.co.uk/img/media/397e9c81d30a0858d4af27de891e6279de7dadc8/0_0_6720_4032/master/6720.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4a0ac585526f1b234ccafd9a8a69d93b"
+        width: 600
+        height: 360
         isCached: true
   - title: "Biden aims to close Guantanamo Bay prison by the time he leaves office"
     excerpt: "The White House said on Friday that U.S. President Joe Biden aims to close the Guantanamo Bay prison by the time he leaves office, press secretary Jen Psaki told reporters in a daily briefing."

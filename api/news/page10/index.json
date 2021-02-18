@@ -2,6 +2,114 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-02-04-biden-addresses-national-prayer-breakfast-says-we-need-to-defeat-political-extremism.md",
+      "title": "Biden addresses National Prayer Breakfast, says 'we need to defeat political extremism'",
+      "excerpt": "President Biden addressed the National Prayer Breakfast on Thursday, saying the country needs to \"defeat political extremism\" and rely on \"faith to guide us out of the darkness and into the light\" amid the coronavirus pandemic.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nCrIDa9-o9U/biden-addresses-national-prayer-breakfast",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nCrIDa9-o9U/biden-addresses-national-prayer-breakfast",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-addresses-national-prayer-breakfast.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-addresses-national-prayer-breakfast.amp",
+      "publishedDateTime": "2021-02-04T06:35:01-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-04-biden-at-prayer-breakfast-calls-out-political-extremism.md",
+      "title": "Biden, at prayer breakfast, calls out ‘political extremism’",
+      "excerpt": "President Joe Biden has called for a confrontation of the “political extremism” that inspired the U.S. Capitol riot in remarks at the National Prayer Breakfast",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/prayer-breakfast-gives-biden-fresh-chance-to-call-for-unity/2021/02/04/b2ac0596-66a7-11eb-bab8-707f8769d785_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/prayer-breakfast-gives-biden-fresh-chance-to-call-for-unity/2021/02/04/b2ac0596-66a7-11eb-bab8-707f8769d785_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/prayer-breakfast-gives-biden-fresh-chance-to-call-for-unity/2021/02/04/b2ac0596-66a7-11eb-bab8-707f8769d785_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/prayer-breakfast-gives-biden-fresh-chance-to-call-for-unity/2021/02/04/b2ac0596-66a7-11eb-bab8-707f8769d785_story.html?outputType=amp",
+      "publishedDateTime": "2021-02-04T02:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-02-04-us-treasury-says-more-time-needed-to-decide-on-trump-tax-returns-bloomberg-news.md",
       "title": "U.S. Treasury says more time needed to decide on Trump tax returns - Bloomberg News",
       "excerpt": "The U.S. Treasury said it needs more time to decide whether to fight House Democrats in their effort to get former President Donald Trump's personal and business tax returns, Bloomberg News reported on Wednesday.",
@@ -1233,101 +1341,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-jan-6-rally-organizer-planning-maga-sellout-tour-targeting-republicans-who-betrayed-trump.md",
-      "title": "Jan. 6 rally organizer planning 'MAGA Sellout' tour targeting Republicans who 'betrayed' Trump",
-      "excerpt": "Pro-Trump organizers are planning a cross-country recruiting effort to attract primary challengers targeting Republicans who they say \"betrayed\" former President Trump.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/US/jan-rally-organizer-planning-maga-sellout-tour-targeting/story?id=75620438",
-      "originalUrl": "https://abcnews.go.com/US/jan-rally-organizer-planning-maga-sellout-tour-targeting/story?id=75620438",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/US/trump-bus-tour-rt-jt-210201_1612224255123_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/US/jan-rally-organizer-planning-maga-sellout-tour-targeting/story?id=75620438",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/jan-rally-organizer-planning-maga-sellout-tour-targeting/story?id=75620438",
-      "publishedDateTime": "2021-02-02T12:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-dems-trump-aimed-loaded-cannon-of-supporters-at-capitol.md",
-      "title": "Dems: Trump aimed 'loaded cannon' of supporters at Capitol",
-      "excerpt": "Donald Trump endangered the lives of all members of Congress when he aimed a mob of supporters “like a loaded cannon” at the U.S. Capitol, House Democrats said Tuesday in making their most detailed case yet for why the former president should be convicted and permanently barred from office.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/dems-trump-aimed-loaded-cannon-of-supporters-at-capitol-2021-2",
-      "originalUrl": "https://www.businessinsider.com/dems-trump-aimed-loaded-cannon-of-supporters-at-capitol-2021-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/dems-trump-aimed-loaded-cannon-of-supporters-at-capitol-2021-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/dems-trump-aimed-loaded-cannon-of-supporters-at-capitol-2021-2?amp",
-      "publishedDateTime": "2021-02-02T12:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -59,6 +59,63 @@
       ]
     },
     {
+      "path": "_news/2021-02-18-bowe-bergdahl-names-trump-mccain-as-defendants-in-lawsuit-challenging-court-martial.md",
+      "title": "Bowe Bergdahl names Trump, McCain as defendants in lawsuit challenging court-martial",
+      "excerpt": "Former U.S. Army Sgt. Robert \"Bowe\" Bergdahl, who was court-martialed in 2017 after being accused of abandoning his post in Afghanistan and endangering fellow service members, has filed a civil lawsuit in a bid to overturn his conviction.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/us/bowe-bergdahl-names-trump-mccain-as-defendants-in-lawsuit-challenging-court-martial",
+      "originalUrl": "https://www.foxnews.com/us/bowe-bergdahl-names-trump-mccain-as-defendants-in-lawsuit-challenging-court-martial",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/05/640/320/Bergdahl053119.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/us/bowe-bergdahl-names-trump-mccain-as-defendants-in-lawsuit-challenging-court-martial.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/bowe-bergdahl-names-trump-mccain-as-defendants-in-lawsuit-challenging-court-martial.amp",
+      "publishedDateTime": "2021-02-18T00:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-18-top-biden-economic-aide-deese-had-leading-role-at-blackrock-termed-the-largest-investor-in-deforestation.md",
       "title": "Top Biden economic aide Deese had leading role at BlackRock, termed the ‘largest investor in deforestation’",
       "excerpt": "President Biden’s top economic advisor Brian Deese has promised to give environmentalism a front-and-center focus in his agenda to spur job growth, but Deese’s record with BlackRock drew bitter outcries from environmentalists. ",
@@ -1533,7 +1590,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 587,
+      "heat": 607,
       "tags": null,
       "images": [
         {
@@ -1629,63 +1686,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-13-hannity-democrats-never-had-problem-with-violent-rhetoric-towards-trump.md",
-      "title": "Hannity: Democrats never had problem with violent rhetoric towards Trump",
-      "excerpt": "HANNITY: Welcome to \"Hannity\". Tonight, we are tracking multiple breaking stories. These are huge, including day three of the Senate's impeachment, Schiff charade show that they got going on. We have tonight just breaking,",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/transcript/hannity-democrats-never-had-problem-with-violent-rhetoric-towards-trump",
-      "originalUrl": "https://www.foxnews.com/transcript/hannity-democrats-never-had-problem-with-violent-rhetoric-towards-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b74aca57-89b4-4917-be5d-9cda2a808143/d2443711-cc03-478d-8929-2163d8c15843/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/transcript/hannity-democrats-never-had-problem-with-violent-rhetoric-towards-trump.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/hannity-democrats-never-had-problem-with-violent-rhetoric-towards-trump.amp",
-      "publishedDateTime": "2021-02-12T08:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     }

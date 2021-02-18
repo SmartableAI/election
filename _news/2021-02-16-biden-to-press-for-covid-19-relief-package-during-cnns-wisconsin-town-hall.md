@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/16/politics/biden-town-hall-february
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/16/politics/biden-town-hall-february/index.html"
 type: article
 quality: 173
-heat: 313
+heat: 333
 published: true
 
 provider:
@@ -140,6 +140,20 @@ related:
       - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202102/ott_now_brewster_3p_milwa_210216_1920x1080.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "WARREN presses BIDEN for DEBT RELIEF — NEW GROUPS eligible for COVID SHOTS — BEACON HILL to probe VAX rollout"
+    excerpt: "President Joe Biden is pretty blunt about where he stands on canceling $50,000 per borrower in student loan debt. “I will not make that happen,” Biden said during a CNN town hall earlier this week. But Sen."
+    publishedDateTime: 2021-02-18T12:23:00Z
+    webUrl: "https://www.politico.com/newsletters/massachusetts-playbook/2021/02/18/warren-presses-biden-for-debt-relief-new-groups-eligible-for-covid-shots-beacon-hill-to-probe-vax-rollout-491796"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 96
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
 
 secured: "33U+egh4+zIgIenXKBSDqxixMjiiorUwf29927Vif+VDHyTmSIneTuuxuuEB8dF5OjRdH/kHU5zY6TogbL22p217oCAq8JOHD7ITLMPmJwHuKt+8cftJ4Ni9LFzWr08smOPOTZtwaeiZJqDnQMMUtNu/hO2tjTVn/V5mYbkZTp2K3FiVh3yYCDiPtCPtcHXW7+8JSRrFZjKHxxp0BC/1xHnBiYfFmQQT0bxCWBXdquMuICH6rAEzFkd7geflTRkLkyEhqgpJ1M0Di48HsAOFTcIl8WFqti+Rj/LvpR6sB+ELmo8FUy6rAPbe31QHMgyUXRB1Kkr80WmPWSA7K7XxwxYunZK/IB6U52AV/Al6OWM=;+JqJlm4JmjIiHFmn6l4IzA=="

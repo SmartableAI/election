@@ -320,6 +320,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump slams Biden for comment on vaccine distribution, won’t rule out 2024 run"
+    excerpt: "Former President Trump blasted President Biden for claiming that he left the White House without a vaccine distribution plan — calling it a “very dumb statement,” late Wednesday"
+    publishedDateTime: 2021-02-18T12:31:00Z
+    webUrl: "https://nypost.com/2021/02/18/trump-slams-biden-wont-rule-out-2024-presidential-run/"
+    ampWebUrl: "https://nypost.com/2021/02/18/trump-slams-biden-wont-rule-out-2024-presidential-run/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/18/trump-slams-biden-wont-rule-out-2024-presidential-run/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 146
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/trump-running.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump impeachment trial overshadows hot topics, controversies in early weeks of Biden admin"
     excerpt: "As the Senate considers for the second time in barely over a year whether to convict former President Donald Trump of an impeachment charge, he continues to dominate the political world even as he's remained mum through the process."
     publishedDateTime: 2021-02-12T16:09:00Z
