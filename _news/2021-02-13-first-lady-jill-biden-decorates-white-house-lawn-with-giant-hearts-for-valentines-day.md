@@ -289,8 +289,8 @@ related:
         isCached: true
   - title: "Biden will ask DOJ to review his authority to cancel student loan debt - White House"
     excerpt: "President Joe Biden will ask the Department of Justice to review his legal authority to cancel student loan debt, the White House said on Wednesday, adding the president does not favor $50,000 in student loan relief without limitation."
-    publishedDateTime: 2021-02-18T00:29:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-doj-student-loan-idUSKBN2AH2KB"
+    publishedDateTime: 2021-02-18T04:21:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-doj-student-loan/biden-will-ask-doj-to-review-his-authority-to-cancel-student-loan-debt-white-house-idUSKBN2AH2KB"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AH2KB"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AH2KB"
     type: article

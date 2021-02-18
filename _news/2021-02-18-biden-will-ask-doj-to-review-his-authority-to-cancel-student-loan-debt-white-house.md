@@ -2,9 +2,9 @@
 category: news
 title: "Biden will ask DOJ to review his authority to cancel student loan debt - White House"
 excerpt: "President Joe Biden will ask the Department of Justice to review his legal authority to cancel student loan debt, the White House said on Wednesday, adding the president does not favor $50,000 in student loan relief without limitation."
-publishedDateTime: 2021-02-18T00:29:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-biden-doj-student-loan-idUSKBN2AH2KB"
-webUrl: "https://www.reuters.com/article/us-usa-biden-doj-student-loan-idUSKBN2AH2KB"
+publishedDateTime: 2021-02-18T04:21:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-biden-doj-student-loan/biden-will-ask-doj-to-review-his-authority-to-cancel-student-loan-debt-white-house-idUSKBN2AH2KB"
+webUrl: "https://www.reuters.com/article/us-usa-biden-doj-student-loan/biden-will-ask-doj-to-review-his-authority-to-cancel-student-loan-debt-white-house-idUSKBN2AH2KB"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AH2KB"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AH2KB"
 type: article
@@ -397,6 +397,6 @@ related:
         height: 600
         isCached: true
 
-secured: "Jh5ZY4XRn+5qO7YP8i90u+sIzdX5fznqa/0EjXIDJ8lwzOqNfwknwuC5aHsvOnENsUN2PqAAEAjr2rYeDJLuo8juD2ENXXmXhF1eoMZNhIBblykm209Lv+xHjStEPMyjYQlEWSVPI9OGW6kLtIn9i+UZwcz7e57X+jdzQh4pt+S6ZVPwG4KWXPvdaf2SJKucYOyNDil2cgiViTewgLgg/KmtN/LMHIWfjg56GBseU1ODldFjtvRnRpX5tTWv6z154Njs2caIAMulQyj0sPJ3dmpeveMHrJlXFzjXrz1fmhC0kLTMpRJvL4s2H5iAVfyEpQp1woH6h2n0o91eOpZV7ipJ54ykJ0+T18BdJ7VmNg5PGWSuqIpNAtCyrfUppeq6ab0e3+v63QUSCdIJTkd5CRYzG0UxLYpp/Lq+XrO3xs/M3hmJYgVMAzpHK3jnmrYGOO2goOUh30p2dEWQ2rFNrsRw01Fqj7EgaGo4KEEhqrsrxGpdILbqpkRJsSPZIdQYHm/umqGAwWb2BorMmhjWSg==;JGzGMUqMwNxDdS9414AeyA=="
+secured: "mW+vT9xtJO9GwvG11Z37VsL/kh8y/gQrqTjX+O4eF23+D1/8kpQTS0eRVo3WieMKKPjXCjPWEc//YL5ZR5O4WrGoj16pZ0D+oQjFzIypGM6R5cF8KTeEnH1h6mSI98jirN0mu/volAXNlgUQIw9mvMHVtakrFoMkIj05Yq2yNfCDY1q2shVV1Ov05kqoVTz1GQRdUxQRS0+/gbXXj5wNspDv6A1cyXDM2F0A2C931Iw62GftGGK+BNH2xQs6t6Jrqzp6iwSJFA9Ih95w2c11fOhvj3NuH03TWkxczpStRzMiBSEz9KLTLIdl8Ptwon1ZFjQ9JZzrWudIJxh9iuT+hyy2ONeEcs3z6bFdMInLvVM=;UAEqGfsdBU3o0Nl1fopbwA=="
 ---
 

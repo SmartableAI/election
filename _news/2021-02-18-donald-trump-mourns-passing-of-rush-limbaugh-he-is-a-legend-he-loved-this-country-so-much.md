@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/media/rush-limbaugh-death-donald-trump-legen
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/rush-limbaugh-death-donald-trump-legend-loved-america.amp"
 type: article
 quality: 124
-heat: 124
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -30,6 +30,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Trump reveals story behind Rush Limbaugh's Presidential Medal of Freedom honor"
+    excerpt: "Former President Donald Trump joined \"Hannity\" on Wednesday to remember conservative radio host Rush Limbaugh, who passed away at age 70 after a long battle with lung cancer."
+    publishedDateTime: 2021-02-18T03:32:00Z
+    webUrl: "https://www.foxnews.com/media/trump-rush-limbaugh-medal-of-freedom-lung-cancer"
+    ampWebUrl: "https://www.foxnews.com/media/trump-rush-limbaugh-medal-of-freedom-lung-cancer.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/trump-rush-limbaugh-medal-of-freedom-lung-cancer.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 131
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/92214969-2ed8-4652-abbf-25abb5a4c35d/230c7f0f-55bc-4f80-84a5-1a6341629932/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "qAJOGVaOO57soCEgh10vAvpwvZxxRJAiVRXQzPsa4R8WkWzP5uFW6MWXHUEEOWxd5dWEB4GAkqkuu94mI5pG3KcNtK4BRF7RAK94aDlis1YC5g/Cb6HmEqTyszs+M9Ck46kuxmkinlwAqNtXFsBtiE6NyKP9aLcYxbhhZdc3nb0xN7mkmdU3HPXSmUE3vTKkcgFXthllV2F9oeMidChOoOeANrbdJ9RMJgky5QfFOu3oOBlpKuA3cFAu+uVLj4ojhf0FzxxbKvKVNXK88JlooNnoyxAYgtCdjhhtGhHuTpzYEe9BWemrvHH0uP2fwetIhHLQ7M3OC8GnceyPuxfs5TjcVEBhTqkzLvUxGvtTM1w=;Vy17r+mIuD+otQrTllly0w=="
 ---

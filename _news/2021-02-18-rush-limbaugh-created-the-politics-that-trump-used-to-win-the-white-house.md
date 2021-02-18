@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2021/02/17/rush-limbaugh-cre
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/02/17/rush-limbaugh-created-politics-that-trump-used-win-white-house/?outputType=amp"
 type: article
 quality: 124
-heat: 144
+heat: 164
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "'A true American legend': Donald Trump, Bill O'Reilly, more mourn Rush Limbaugh's death"
+    excerpt: "Following Rush Limbaugh's death Wednesday, many paid tribute and expressed their thoughts about the conservative radio host on social media."
+    publishedDateTime: 2021-02-18T03:17:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/celebrities/2021/02/17/rush-limbaugh-dead-celebrities-react-trump-bill-oreilly/6782639002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6782639002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6782639002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/f2f98dd2e1eb6d62b1e3711a8d1fd2dc0e79c882/c=0-0-2924-1652/local/-/media/2017/09/13/USATODAY/USATODAY/636409176515272786-B02-RUSH-LIMBAUGH-93562293.JPG?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 678
+        isCached: true
   - title: "U.S. Conservative Radio Provocateur and Trump Ally Rush Limbaugh Dies"
     excerpt: "Provocative and polarizing U.S. talk radio luminary Rush Limbaugh, a leading voice on the American political right since the 1980s who boosted, and was honored by, former President Donald Trump, has died at age 70 after suffering from lung cancer,"
     publishedDateTime: 2021-02-18T02:25:00Z

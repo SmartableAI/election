@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-18-trump-reveals-story-behind-rush-limbaughs-presidential-medal-of-freedom-honor.md",
+      "title": "Trump reveals story behind Rush Limbaugh's Presidential Medal of Freedom honor",
+      "excerpt": "Former President Donald Trump joined \"Hannity\" on Wednesday to remember conservative radio host Rush Limbaugh, who passed away at age 70 after a long battle with lung cancer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/trump-rush-limbaugh-medal-of-freedom-lung-cancer",
+      "originalUrl": "https://www.foxnews.com/media/trump-rush-limbaugh-medal-of-freedom-lung-cancer",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/92214969-2ed8-4652-abbf-25abb5a4c35d/230c7f0f-55bc-4f80-84a5-1a6341629932/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/trump-rush-limbaugh-medal-of-freedom-lung-cancer.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/trump-rush-limbaugh-medal-of-freedom-lung-cancer.amp",
+      "publishedDateTime": "2021-02-17T19:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-18-top-biden-economic-aide-deese-had-leading-role-at-blackrock-termed-the-largest-investor-in-deforestation.md",
       "title": "Top Biden economic aide Deese had leading role at BlackRock, termed the ‘largest investor in deforestation’",
       "excerpt": "President Biden’s top economic advisor Brian Deese has promised to give environmentalism a front-and-center focus in his agenda to spur job growth, but Deese’s record with BlackRock drew bitter outcries from environmentalists. ",
@@ -114,40 +171,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-18-feds-arrest-ucla-student-accused-of-sitting-in-pences-chair-charlotte-observer.md",
-      "title": "Feds arrest UCLA student accused of sitting in Pence’s chair | Charlotte Observer",
-      "excerpt": "Authorities say a Los Angeles college student and self-described fascist has been arrested after sitting in former Vice President Mike Pence’s chair in the Senate chambers during the insurrection at the U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.charlotteobserver.com/news/nation-world/national/article249324250.html",
-      "originalUrl": "https://www.charlotteobserver.com/news/nation-world/national/article249324250.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.charlotteobserver.com/news/nation-world/national/article249324250.html",
-      "cdnAmpWebUrl": "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article249324250.html",
-      "publishedDateTime": "2021-02-17T16:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Charlotte Observer",
-        "domain": "charlotteobserver.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
       "path": "_news/2021-02-18-vp-kamala-harris-on-battle-to-reopen-schools-amid-pandemic.md",
       "title": "VP Kamala Harris on battle to reopen schools amid pandemic",
       "excerpt": "Vice President Kamala Harris speaks with Savannah Guthrie about the CDC’s guidance for reopening schools and stresses that teachers should be given priority for receiving the Covid-19 vaccine.",
@@ -213,7 +236,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/2021/02/17/rush-limbaugh-created-politics-that-trump-used-win-white-house/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -367,6 +390,58 @@
       "topics": [
         "Election",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-18-feds-arrest-ucla-student-accused-of-sitting-in-pences-chair.md",
+      "title": "Feds arrest UCLA student accused of sitting in Pence's chair",
+      "excerpt": "Authorities say a Los Angeles college student and self-described fascist has been arrested after sitting in former Vice President Mike Pence’s chair in the Senate chambers during the insurrection at the U.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/US/wireStory/feds-arrest-ucla-student-accused-sitting-pences-chair-75958077",
+      "originalUrl": "https://abcnews.go.com/US/wireStory/feds-arrest-ucla-student-accused-sitting-pences-chair-75958077",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 245,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
+          "width": 834,
+          "height": 308,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/US/wireStory/feds-arrest-ucla-student-accused-sitting-pences-chair-75958077",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/feds-arrest-ucla-student-accused-sitting-pences-chair-75958077",
+      "publishedDateTime": "2021-02-17T15:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
       ]
     },
     {
@@ -699,63 +774,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-donald-trump-mourns-passing-of-rush-limbaugh-he-is-a-legend-he-loved-this-country-so-much.md",
-      "title": "Donald Trump mourns passing of Rush Limbaugh: ‘He is a legend, he loved this country so much'",
-      "excerpt": "Former President Donald Trump joined Fox News to remember conservative radio host Rush Limbaugh, who died at age 70 following a lung cancer battle.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/rush-limbaugh-death-donald-trump-legend-loved-america",
-      "originalUrl": "https://www.foxnews.com/media/rush-limbaugh-death-donald-trump-legend-loved-america",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f2a45f01-9afd-40d7-8f19-bedc3a947ff8/f1cf8d3e-0a81-431d-9d82-f768a578f49d/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/rush-limbaugh-death-donald-trump-legend-loved-america.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/rush-limbaugh-death-donald-trump-legend-loved-america.amp",
-      "publishedDateTime": "2021-02-17T10:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     },

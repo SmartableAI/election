@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-cuomo-didnt-discuss-covid-nur
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cuomo-didnt-discuss-covid-nursing-home-scandal-psaki-says.amp"
 type: article
 quality: 175
-heat: 255
+heat: 295
 published: true
 
 provider:
@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "Haley slams media, Biden for Cuomo praise amid nursing home scandal"
+    excerpt: "Nikki Haley on Wednesday ripped into media outlets and President Biden for praising New York Gov. Andrew Cuomo’s handling of the pandemic response -- as the Democratic governor faces renewed scrutiny of his nursing home policies."
+    publishedDateTime: 2021-02-18T03:23:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ts94TZbx29E/haley-media-biden-cuomo-praise"
+    ampWebUrl: "https://www.foxnews.com/politics/haley-media-biden-cuomo-praise.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/haley-media-biden-cuomo-praise.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4f8e7427-4d69-4533-a736-d7151e217b10/5054fe18-4741-4167-8a75-983f033a5534/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden's positive poll numbers on combating COVID nosedive over school reopenings"
+    excerpt: "Fifty-eight percent of Americans approve of the job President Biden’s doing handling the federal government’s response to the coronavirus pandemic. But the same survey from Quinnipiac University also shows that when it comes to the president’s handling of the reopening of schools amid the COVID crisis,"
+    publishedDateTime: 2021-02-18T03:19:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CcAapVAvT0k/bidens-positive-poll-numbers-on-combating-covid-nosedive-on-school-reopenings"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-positive-poll-numbers-on-combating-covid-nosedive-on-school-reopenings.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-positive-poll-numbers-on-combating-covid-nosedive-on-school-reopenings.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden COVID adviser can't explain why closed California isn't doing better than open Florida"
     excerpt: "White House COVID-19 adviser Andy Slavitt appeared stumped Wednesday when asked on MSNBC to explain California and Florida’s similar COVID-19 trends, despite having wildly different responses to the pandemic."
     publishedDateTime: 2021-02-18T01:03:56Z

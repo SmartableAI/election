@@ -1,40 +1,36 @@
 ---
 category: news
-title: "Feds arrest UCLA student accused of sitting in Mike Pence’s chair"
-excerpt: "A Los Angeles college student and self-described fascist was arrested after he sat in former Vice President Mike Pence’s chair in the Senate chambers during the insurrection at the U.S. Capitol, authorities said."
-publishedDateTime: 2021-02-18T01:59:00Z
-originalUrl: "https://triblive.com/news/world/feds-arrest-ucla-student-accused-of-sitting-in-mike-pences-chair/"
-webUrl: "https://triblive.com/news/world/feds-arrest-ucla-student-accused-of-sitting-in-mike-pences-chair/"
+title: "Feds arrest UCLA student accused of sitting in Pence's chair"
+excerpt: "Authorities say a Los Angeles college student and self-described fascist has been arrested after sitting in former Vice President Mike Pence’s chair in the Senate chambers during the insurrection at the U."
+publishedDateTime: 2021-02-17T23:39:00Z
+originalUrl: "https://abcnews.go.com/US/wireStory/feds-arrest-ucla-student-accused-sitting-pences-chair-75958077"
+webUrl: "https://abcnews.go.com/US/wireStory/feds-arrest-ucla-student-accused-sitting-pences-chair-75958077"
+ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/feds-arrest-ucla-student-accused-sitting-pences-chair-75958077"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/feds-arrest-ucla-student-accused-sitting-pences-chair-75958077"
 type: article
-quality: 35
-heat: -1
-published: false
+quality: 125
+heat: 245
+published: true
 
 provider:
-  name: TribLIVE.com
-  domain: triblive.com
+  name: ABC
+  domain: abcnews.go.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Mike Pence
 
+images:
+  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+    width: 834
+    height: 308
+    isCached: true
+
 related:
-  - title: "Feds arrest UCLA student accused of sitting in Pence's chair"
-    excerpt: "Authorities say a Los Angeles college student and self-described fascist has been arrested after sitting in former Vice President Mike Pence’s chair in the Senate chambers during the insurrection at the U."
-    publishedDateTime: 2021-02-17T23:39:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/feds-arrest-ucla-student-accused-sitting-pences-chair-75958077"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/feds-arrest-ucla-student-accused-sitting-pences-chair-75958077"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/feds-arrest-ucla-student-accused-sitting-pences-chair-75958077"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
-        isCached: true
   - title: "Feds arrest UCLA student accused of sitting in Pence's chair during Capitol insurrection"
     excerpt: "Authorities say a Los Angeles college student and self-described fascist has been arrested after sitting in former Vice President Mike Pence’s chair in the Senate chambers during the insurrection at the U."
     publishedDateTime: 2021-02-18T01:46:00Z
@@ -105,7 +101,16 @@ related:
         width: 621
         height: 372
         isCached: true
+  - title: "Feds arrest UCLA student accused of sitting in Mike Pence’s chair"
+    excerpt: "A Los Angeles college student and self-described fascist was arrested after he sat in former Vice President Mike Pence’s chair in the Senate chambers during the insurrection at the U.S. Capitol, authorities said."
+    publishedDateTime: 2021-02-18T01:59:00Z
+    webUrl: "https://triblive.com/news/world/feds-arrest-ucla-student-accused-of-sitting-in-mike-pences-chair/"
+    type: article
+    provider:
+      name: TribLIVE.com
+      domain: triblive.com
+    quality: 35
 
-secured: "GgsKGtx5u6hf8efq5FLibo84yR9a3pMJHI24jzPKIAl/ksubBLSDIsXDqtvZwP61fC3kCjw2HhqxqDow2u0YL6l2cEEaKydjrEr+a9gCYNFRV/CYRGabK4oEJ75+icD7GgQiw9qj515myLX/A7wAArxFErieq9T+19oybrqo8/5QKmI/FVbqIB55cshZ47+hMYgjo8u0rb0MSkDCicCESL9rfseFdtHrYV6TXVJWBRZlA7bd55upJ8C8ggSJi+WTCcawBcLye1qKn0wwb7H2HpM49fn8xIl+UD3Ol1we96FSJ9SY/fcBbBuGhB5bNmpNT4aCZId2iWEsj9MMBEk/zuyCvzvpHev9rH8VuIPMGzKGO1Yi36tsIOfG1o0RSnEGBVcf1ClNbuad1zuj29KoSEvv3/dvTXgqeDsPJ95zhaUmbbl5q+yomi306DfOCMW/CVo/8f4FsYzsq1mgYs87qRR7ZZ+kYSsoGI75fBC9gIlXtTwA8zwXyOqJ7e/2V12J1HIFHeQMiOYpx6NK241W6A==;Catt1aSpLAdZsXnTg1iN/g=="
+secured: "t5obVP5Z7J7vSFpV6leDIYaYy9BBp4nZTQqvWra9I0IHQni0G1/KCBIADAynUSfbbT5Tw3Pvy6qvQG+V6ZWFy5ub7FrxnVkSb7F3xYBrF0zO8NatAjzwzoIjMzkun3rTs8rKpqMt0eQ52Fd5g9sHT9Hco4RJZ5tW5Dw0ClkymZmCHvjNUXOzFnZkD0yqtVaX6yZTuk4TsWIvk9uGItyZmmCU6urI0KHoQpPtsT8gDLzBn3RvboUdkVGPRpZwRVkZiLuG0l43B+Hiz/glzYvxehMJcYaq+JSeNnUsA0hvl2L9sq2CYSMgCodCTm9GdeQGT78wBlXXaGAvtOKPx0u2BwRQEeEIcINoUUL9O+7nf/g=;awjhw8G3edbN9YLGH3fN/A=="
 ---
 

@@ -41,6 +41,22 @@ related:
         width: 1440
         height: 991
         isCached: true
+  - title: "'A true American legend': Donald Trump, Bill O'Reilly, more mourn Rush Limbaugh's death"
+    excerpt: "Following Rush Limbaugh's death Wednesday, many paid tribute and expressed their thoughts about the conservative radio host on social media."
+    publishedDateTime: 2021-02-18T03:17:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/celebrities/2021/02/17/rush-limbaugh-dead-celebrities-react-trump-bill-oreilly/6782639002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6782639002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6782639002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/f2f98dd2e1eb6d62b1e3711a8d1fd2dc0e79c882/c=0-0-2924-1652/local/-/media/2017/09/13/USATODAY/USATODAY/636409176515272786-B02-RUSH-LIMBAUGH-93562293.JPG?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 678
+        isCached: true
 
 secured: "4jjezVJqn0DoDiybWAxZhlY3pO3GcrXKDUwS7BiTzoGpnoxA9ejZyHKW8wtY8O3dyPDyxHqL7jVZ+4GcvAIcD6430tQUOG4uIkM5D2jRrC8fub+3n4MFjclAE/N8wlTdz+xWCuu8hdXEPj/W4ME7uECuboPHVXukEVJcGIsDbOaEsrkfFs7bC4HghXNGgB5VqKNBBlAUcE5nQcrWKJvhSLYGm8L8MUvtgsVFEwEd/WotllMzEW1Wzpb8Sb+rYEjjpyTSCNOwMMBhqsNXSxLCMwSzwadfOeUNp4h+ZTSntNHUmthNEWIl2De1VL79Cuaw2Uw85gBH4hV9YMREeVBJ0+rZDqqu04N3vOTKJDfScIIbYSzd+8nTWcB5qoOp207yRuJ97BfnoMqkAFgr551eo+K1Q3FdCD3ZtZcTf43OvjdxorM/yu/SCaPpGMm01j4A8MjCpQcjeVCiFHka4NVUQJiVzg3CbvayBVkqborc2hig9plxYpEhJ7A4pdbV+4KuJ4JOf63AUwEUeiALBPEQWw==;yos23Tw1XyGCV6tWfldIvQ=="
 ---

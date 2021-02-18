@@ -1,22 +1,30 @@
 ---
 category: news
-title: "Feds arrest UCLA student accused of sitting in Mike Pence’s chair"
-excerpt: "A Los Angeles college student and self-described fascist was arrested after he sat in former Vice President Mike Pence’s chair in the Senate chambers during the insurrection at the U.S. Capitol, authorities said."
-publishedDateTime: 2021-02-18T01:59:00Z
-originalUrl: "https://triblive.com/news/world/feds-arrest-ucla-student-accused-of-sitting-in-mike-pences-chair/"
-webUrl: "https://triblive.com/news/world/feds-arrest-ucla-student-accused-of-sitting-in-mike-pences-chair/"
+title: "Feds arrest UCLA student accused of sitting in Pence's chair during Capitol insurrection"
+excerpt: "Authorities say a Los Angeles college student and self-described fascist has been arrested after sitting in former Vice President Mike Pence’s chair in the Senate chambers during the insurrection at the U."
+publishedDateTime: 2021-02-18T01:46:00Z
+originalUrl: "https://www.turnto23.com/news/national/feds-arrest-ucla-student-accused-of-sitting-in-pences-chair-during-capitol-insurrection"
+webUrl: "https://www.turnto23.com/news/national/feds-arrest-ucla-student-accused-of-sitting-in-pences-chair-during-capitol-insurrection"
+ampWebUrl: "https://www.turnto23.com/news/national/feds-arrest-ucla-student-accused-of-sitting-in-pences-chair-during-capitol-insurrection?_amp=true"
+cdnAmpWebUrl: "https://www-turnto23-com.cdn.ampproject.org/c/s/www.turnto23.com/news/national/feds-arrest-ucla-student-accused-of-sitting-in-pences-chair-during-capitol-insurrection?_amp=true"
 type: article
-quality: 35
+quality: 66
 heat: -1
 published: false
 
 provider:
-  name: TribLIVE.com
-  domain: triblive.com
+  name: KERO-TV
+  domain: turnto23.com
 
 topics:
   - Election
   - Mike Pence
+
+images:
+  - url: "https://ewscripps.brightspotcdn.com/dims4/default/8a5c2bc/2147483647/strip/true/crop/1092x614+0+73/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F19%2F40%2Ff2994f50462b84fa39423cb0926f%2Fsecor.png"
+    width: 1280
+    height: 720
+    isCached: true
 
 related:
   - title: "Feds arrest UCLA student accused of sitting in Pence's chair"
@@ -34,22 +42,6 @@ related:
       - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
         width: 834
         height: 308
-        isCached: true
-  - title: "Feds arrest UCLA student accused of sitting in Pence's chair during Capitol insurrection"
-    excerpt: "Authorities say a Los Angeles college student and self-described fascist has been arrested after sitting in former Vice President Mike Pence’s chair in the Senate chambers during the insurrection at the U."
-    publishedDateTime: 2021-02-18T01:46:00Z
-    webUrl: "https://www.turnto23.com/news/national/feds-arrest-ucla-student-accused-of-sitting-in-pences-chair-during-capitol-insurrection"
-    ampWebUrl: "https://www.turnto23.com/news/national/feds-arrest-ucla-student-accused-of-sitting-in-pences-chair-during-capitol-insurrection?_amp=true"
-    cdnAmpWebUrl: "https://www-turnto23-com.cdn.ampproject.org/c/s/www.turnto23.com/news/national/feds-arrest-ucla-student-accused-of-sitting-in-pences-chair-during-capitol-insurrection?_amp=true"
-    type: article
-    provider:
-      name: KERO-TV
-      domain: turnto23.com
-    quality: 66
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/8a5c2bc/2147483647/strip/true/crop/1092x614+0+73/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F19%2F40%2Ff2994f50462b84fa39423cb0926f%2Fsecor.png"
-        width: 1280
-        height: 720
         isCached: true
   - title: "UCLA student from OC, who is charged in Capitol attack, sat in Pence’s chair, documents allege"
     excerpt: "reached the outskirts of House Speaker Nancy Pelosi’s office during the vicious Jan. 6 attack and sat for a time in Vice President Mike Pence’s chair in the Senate chambers, according to court documents and reviews of security camera footage."
@@ -105,7 +97,16 @@ related:
         width: 621
         height: 372
         isCached: true
+  - title: "Feds arrest UCLA student accused of sitting in Mike Pence’s chair"
+    excerpt: "A Los Angeles college student and self-described fascist was arrested after he sat in former Vice President Mike Pence’s chair in the Senate chambers during the insurrection at the U.S. Capitol, authorities said."
+    publishedDateTime: 2021-02-18T01:59:00Z
+    webUrl: "https://triblive.com/news/world/feds-arrest-ucla-student-accused-of-sitting-in-mike-pences-chair/"
+    type: article
+    provider:
+      name: TribLIVE.com
+      domain: triblive.com
+    quality: 35
 
-secured: "GgsKGtx5u6hf8efq5FLibo84yR9a3pMJHI24jzPKIAl/ksubBLSDIsXDqtvZwP61fC3kCjw2HhqxqDow2u0YL6l2cEEaKydjrEr+a9gCYNFRV/CYRGabK4oEJ75+icD7GgQiw9qj515myLX/A7wAArxFErieq9T+19oybrqo8/5QKmI/FVbqIB55cshZ47+hMYgjo8u0rb0MSkDCicCESL9rfseFdtHrYV6TXVJWBRZlA7bd55upJ8C8ggSJi+WTCcawBcLye1qKn0wwb7H2HpM49fn8xIl+UD3Ol1we96FSJ9SY/fcBbBuGhB5bNmpNT4aCZId2iWEsj9MMBEk/zuyCvzvpHev9rH8VuIPMGzKGO1Yi36tsIOfG1o0RSnEGBVcf1ClNbuad1zuj29KoSEvv3/dvTXgqeDsPJ95zhaUmbbl5q+yomi306DfOCMW/CVo/8f4FsYzsq1mgYs87qRR7ZZ+kYSsoGI75fBC9gIlXtTwA8zwXyOqJ7e/2V12J1HIFHeQMiOYpx6NK241W6A==;Catt1aSpLAdZsXnTg1iN/g=="
+secured: "5rzEznJ4RUsErUMrTXqUk7FvC8JE5zXyTt8tw6aeSqiZQUc9/+XF4Obww1s2XCi9XLjr9Dl7NGKRszXJuS8nw4zJKatHKr8ujghg4u1YwqW/ldr69d5uuGP54PTpTmLdjNlp4Q9/Mb0WkSiQQtXzuMNT40EXnd/Xi6KkkxvZnDX6q6M1Y9cxHwfv/y1LV4iLZk/PBo6TKQbejREYsIzxrwV6eEyoXVu/9pgCDQ870WhdHaZXcKh63bqmVA4Vf99LXucaICoMWuFTmKQuiDT+Jq1mFQKcM69QKQYC/yVFMRv3dZOQ29HbJK9bSAe7VKJmY+/N2ca7/k1EFy0Hi5owuk/E0uf6rltmkI6gDt9KwVE=;XQb7fW2hLwlkYE9+BFSLug=="
 ---
 

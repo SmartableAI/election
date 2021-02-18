@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden COVID adviser can't explain why closed California isn't doing better than open Florida"
-excerpt: "White House COVID-19 adviser Andy Slavitt appeared stumped Wednesday when asked on MSNBC to explain California and Florida’s similar COVID-19 trends, despite having wildly different responses to the pandemic."
-publishedDateTime: 2021-02-18T01:03:56Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Yl5oqK3rHHE/biden-coronavirus-california-floridas-similar-covid-numbers-beyond-explanation"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Yl5oqK3rHHE/biden-coronavirus-california-floridas-similar-covid-numbers-beyond-explanation"
-ampWebUrl: "https://www.foxnews.com/politics/biden-coronavirus-california-floridas-similar-covid-numbers-beyond-explanation.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-coronavirus-california-floridas-similar-covid-numbers-beyond-explanation.amp"
+title: "Haley slams media, Biden for Cuomo praise amid nursing home scandal"
+excerpt: "Nikki Haley on Wednesday ripped into media outlets and President Biden for praising New York Gov. Andrew Cuomo’s handling of the pandemic response -- as the Democratic governor faces renewed scrutiny of his nursing home policies."
+publishedDateTime: 2021-02-18T03:23:46Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ts94TZbx29E/haley-media-biden-cuomo-praise"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ts94TZbx29E/haley-media-biden-cuomo-praise"
+ampWebUrl: "https://www.foxnews.com/politics/haley-media-biden-cuomo-praise.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/haley-media-biden-cuomo-praise.amp"
 type: article
-quality: 164
+quality: 175
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/92e33c48-a88b-4023-8a75-9948aa3420a8/e2ac6695-f16c-45b7-93aa-f7b786b163e9/1280x720/match/image.jpg"
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4f8e7427-4d69-4533-a736-d7151e217b10/5054fe18-4741-4167-8a75-983f033a5534/1280x720/match/image.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -47,22 +47,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Haley slams media, Biden for Cuomo praise amid nursing home scandal"
-    excerpt: "Nikki Haley on Wednesday ripped into media outlets and President Biden for praising New York Gov. Andrew Cuomo’s handling of the pandemic response -- as the Democratic governor faces renewed scrutiny of his nursing home policies."
-    publishedDateTime: 2021-02-18T03:23:46Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ts94TZbx29E/haley-media-biden-cuomo-praise"
-    ampWebUrl: "https://www.foxnews.com/politics/haley-media-biden-cuomo-praise.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/haley-media-biden-cuomo-praise.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4f8e7427-4d69-4533-a736-d7151e217b10/5054fe18-4741-4167-8a75-983f033a5534/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Biden's positive poll numbers on combating COVID nosedive over school reopenings"
     excerpt: "Fifty-eight percent of Americans approve of the job President Biden’s doing handling the federal government’s response to the coronavirus pandemic. But the same survey from Quinnipiac University also shows that when it comes to the president’s handling of the reopening of schools amid the COVID crisis,"
     publishedDateTime: 2021-02-18T03:19:17Z
@@ -78,6 +62,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Biden COVID adviser can't explain why closed California isn't doing better than open Florida"
+    excerpt: "White House COVID-19 adviser Andy Slavitt appeared stumped Wednesday when asked on MSNBC to explain California and Florida’s similar COVID-19 trends, despite having wildly different responses to the pandemic."
+    publishedDateTime: 2021-02-18T01:03:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Yl5oqK3rHHE/biden-coronavirus-california-floridas-similar-covid-numbers-beyond-explanation"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-coronavirus-california-floridas-similar-covid-numbers-beyond-explanation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-coronavirus-california-floridas-similar-covid-numbers-beyond-explanation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/92e33c48-a88b-4023-8a75-9948aa3420a8/e2ac6695-f16c-45b7-93aa-f7b786b163e9/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Psaki won’t say if Biden has confidence in Cuomo amid nursing home controversy, despite past praise"
     excerpt: "White House press secretary Jen Psaki on Friday dodged a question about whether President Trump has confidence in New York Gov. Andrew Cuomo amid the controversy surrounding underreported COVID-19 nursing home deaths in the state."
@@ -128,6 +128,6 @@ related:
         height: 340
         isCached: true
 
-secured: "iKqBRt46ghPv69zdQxQsC2P2M3zr2OuXkhrHp15ZnBqqKx8k9V3VI2gQ0L/DDx+Xv9HSQXodGSNN2dw3uYLOgidKMuZzzic+mqdHvmGmalOcg/1WKOfwDHs9VIxwBb55Plrq7+SZ3w7S3R4Nq+NR53dtoxQDGzjmqCUqcUFDY53/nNN6Ycj1/+hNCcSN3wJ2LXDVPPlXGOEoq49C8Ihq+cn0r/ecP36XCDVtqc9leGaj5SRFIo/QDPjHUkLLdlmja2OC+gELBJEJZU58MNonIBEMYUAjmWVOB/ZAe1RkyZ0KtEqw+mJEfV2X6zcBPvuoMrYAajeLWCLrM742m1kAVDa8fZHIX/Msn5fOwIrH0fU=;RcuBwoj/oMWVSlWmLKqYFg=="
+secured: "Tc1VNAOwBIFv8ew7bpZdT6zEa7TAaEid0lG7JWNVSBI6MdDi9J63yJyYn7grKAng3FnA8ySH2sjTQwpbiPoLuyinMT9MbNoYNluI/NFbuUlv6laGDdPV4JZpdUsG9gDh4atvqU4J12gIorO71OEV0uvLeQ3ODbUQ6++c/uGva8nOKm795+oRlzhXlz7+51EY/W/lMN33y+yIOm+mv2f1NlPCROY8Qf+s25w0OXNQ8nD8FVBgobXgxgBA1UrCylO26E4TCBySv935H8EVfR91dYLONKGmfrHw1WUrmjrB50JBo0WKHEt9a5SHXNWS3TEP+02JSsUa9GGiaPc/492fPg8Oq7SAxXrDkhEmtdClVgQ=;EOAsrYB1DayQbc4fAnvCuw=="
 ---
 
