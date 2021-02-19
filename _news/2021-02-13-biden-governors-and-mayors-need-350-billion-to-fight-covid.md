@@ -137,6 +137,22 @@ related:
         width: 811
         height: 545
         isCached: true
+  - title: "Biden memo for ICE officers points to fewer deportations and strict oversight"
+    excerpt: "U.S. Immigration and Customs Enforcement officers will need preapproval from a senior manager before trying to deport anyone who is not a recent border crosser, a national security threat or a criminal offender with an aggravated-felony conviction,"
+    publishedDateTime: 2021-02-19T03:25:00Z
+    webUrl: "https://www.washingtonpost.com/national/biden-memo-for-ice-officers-points-to-fewer-deportations/2021/02/18/1d6ca98e-71fd-11eb-a4eb-44012a612cf9_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/biden-memo-for-ice-officers-points-to-fewer-deportations/2021/02/18/1d6ca98e-71fd-11eb-a4eb-44012a612cf9_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/biden-memo-for-ice-officers-points-to-fewer-deportations/2021/02/18/1d6ca98e-71fd-11eb-a4eb-44012a612cf9_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 122
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JZA3FKDADAI6XL56TII2CJ6RIY.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Biden addresses COVID-19 relief bill, vaccines at Wisconsin town hall"
     excerpt: "President Joe Biden focused on the coronavirus pandemic during a town hall in Wisconsin Tuesday night. He discussed ramping up vaccination efforts and why he's pushing for a $1.9 trillion relief bill."
     publishedDateTime: 2021-02-17T15:27:00Z

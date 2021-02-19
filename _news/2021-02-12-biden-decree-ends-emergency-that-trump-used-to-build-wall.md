@@ -443,6 +443,20 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Trump's Twitter had the whole world on edge. Here's how the Biden White House plans to make @POTUS sane again."
+    excerpt: "The Biden White House has a social media strategy that is clearly the anti-Trump. There also might be \"more to come\" on an official Instagram for Champ and Major, the president's dogs."
+    publishedDateTime: 2021-02-19T04:11:00Z
+    webUrl: "https://www.businessinsider.com/joe-biden-twitter-social-media-white-house-clubhouse-facebook-2021-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 100
+    images:
+      - url: "https://i.insider.com/602ea8c731eb0600197c401b?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump impeachment lawyers cite Kamala Harris comments | Charlotte Observer"
     excerpt: "Vice President Kamala Harris engaged in the same sort of strong political rhetoric that prompted President Donald Trump’s impeachment, his attorneys said Friday. Michael van der Veen, a Trump defense attorney,"
     publishedDateTime: 2021-02-12T21:10:00Z

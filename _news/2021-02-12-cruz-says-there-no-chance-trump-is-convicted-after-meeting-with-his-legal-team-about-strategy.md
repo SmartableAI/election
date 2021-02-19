@@ -125,6 +125,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Sean Hannity rips Democrats for ongoing obsession with Donald Trump: He lives in their ‘sick brains’"
+    excerpt: "Nearly one month into Joe Biden’s presidency, Democrats are still fixated on former President Donald Trump, \"Hannity\" host Sean Hannity pointed out Thursday."
+    publishedDateTime: 2021-02-19T04:11:00Z
+    webUrl: "https://www.foxnews.com/media/sean-hannity-rips-democrats-for-ongoing-obsession-with-donald-trump-he-lives-in-their-sick-brains"
+    ampWebUrl: "https://www.foxnews.com/media/sean-hannity-rips-democrats-for-ongoing-obsession-with-donald-trump-he-lives-in-their-sick-brains.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/sean-hannity-rips-democrats-for-ongoing-obsession-with-donald-trump-he-lives-in-their-sick-brains.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 120
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0a71f9b2-2f63-4a79-9831-3752a33992b9/3af2c1fa-c48f-4578-baad-875905c9a278/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Democrats: Trump ‘Inflamed and Incited’ Capitol Riot"
     excerpt: "Live analysis of the second impeachment trial of former President Donald Trump."
     publishedDateTime: 2021-02-12T02:25:00Z

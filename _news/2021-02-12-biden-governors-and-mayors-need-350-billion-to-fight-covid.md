@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/business/democrats-pushing-bidens-cov
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/democrats-pushing-bidens-covid-19-bill-through-house-panels/2021/02/11/021a9cf8-6ce0-11eb-a66e-e27046e9e898_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 325
+heat: 345
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210212&t=2&i=1551340103&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1B0Q3"
         width: 811
         height: 545
+        isCached: true
+  - title: "Biden memo for ICE officers points to fewer deportations and strict oversight"
+    excerpt: "U.S. Immigration and Customs Enforcement officers will need preapproval from a senior manager before trying to deport anyone who is not a recent border crosser, a national security threat or a criminal offender with an aggravated-felony conviction,"
+    publishedDateTime: 2021-02-19T03:25:00Z
+    webUrl: "https://www.washingtonpost.com/national/biden-memo-for-ice-officers-points-to-fewer-deportations/2021/02/18/1d6ca98e-71fd-11eb-a4eb-44012a612cf9_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/biden-memo-for-ice-officers-points-to-fewer-deportations/2021/02/18/1d6ca98e-71fd-11eb-a4eb-44012a612cf9_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/biden-memo-for-ice-officers-points-to-fewer-deportations/2021/02/18/1d6ca98e-71fd-11eb-a4eb-44012a612cf9_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 122
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JZA3FKDADAI6XL56TII2CJ6RIY.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Biden: Governors and mayors need $350 billion to fight COVID"
     excerpt: "President Joe Biden met with a bipartisan group of governors and mayors at the White House on Friday as part of his push to give financial relief from the coronavirus pandemic to state and local governments — a clear source of division with Republican lawmakers who view the spending as wasteful."

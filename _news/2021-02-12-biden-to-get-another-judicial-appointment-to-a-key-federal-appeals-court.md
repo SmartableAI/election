@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-to-get-another-judicial-appoi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-get-another-judicial-appointment-to-a-key-federal-appeals-court.amp"
 type: article
 quality: 174
-heat: 174
+heat: 194
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Border mayor begs Biden to stop releasing illegal immigrants into his city amid winter storm"
+    excerpt: "A Texas border mayor is begging President Biden to help his town struggling under extreme weather conditions, the coronavirus pandemic, and an influx of undocumented migrants crossing the border."
+    publishedDateTime: 2021-02-19T03:38:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TYydiBPk9GM/border-mayor-begs-biden-to-stop-releasing-illegal-immigrants-into-his-city-amid-winter-storm"
+    ampWebUrl: "https://www.foxnews.com/politics/border-mayor-begs-biden-to-stop-releasing-illegal-immigrants-into-his-city-amid-winter-storm.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/border-mayor-begs-biden-to-stop-releasing-illegal-immigrants-into-his-city-amid-winter-storm.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4ab71ec7-6f54-4382-8f6d-33f7053e5337/1b6fc5be-d65d-4ac1-9c73-adfc4e89846b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "i1YqNS01MBwMB2DV9r1dFyn7EsiwFmkpiOdJqcSbTRWILLhCOvjyRq7gDk74KTOSZ1jahSwhMbttSr551jTZ/CLZothwOl/SodhO0jmrJOKuGJbXcEYTBHn1Jf2BSdoyhna6D5Mn3ZBKnNdfQyR2WVerj1wXK+4WKMscr2d9BIni2+7ogg2lMO59jB38vm2eWIyPNcU8P5EFggRt9xRUOAUOf56vme02LBFXtWggwNAZQ6je9rl1ToM6fGf9cG9kfyXVxZC75VNHnqdJrl0vF45Vaqi6eM61xhIfkGmywnfMRzX4VMufrol+Vkp9z6JNCRgoESZ5B2lA3xHtuMvDfMYokQzaUUwHWCCTfe/0vIE=;0REUtpwrEmbmwRBVcNstYw=="
 ---

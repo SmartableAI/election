@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-02-19-us-labor-department-seen-saying-it-will-not-enforce-trump-era-investment-rules-sources.md",
-      "title": "U.S. labor department seen saying it will not enforce Trump-era investment rules - sources",
-      "excerpt": "The U.S. Department of Labor is expected to announce that it will not enforce Trump administration rules that curb investments based on environmental and social factors, and which limit shareholder voting in corporate meetings,",
+      "path": "_news/2021-02-19-literary-group-trump-suit-settlement-protects-journalists.md",
+      "title": "Literary group: Trump suit settlement protects journalists",
+      "excerpt": "A literary group that sued then-President Donald Trump with claims that he repeatedly violated the First Amendment in dealing with the media says a settlement it reached will protect journalists",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-labor-esg-idUSKBN2AI2XP",
-      "originalUrl": "https://www.reuters.com/article/us-usa-labor-esg-idUSKBN2AI2XP",
+      "webUrl": "https://www.washingtonpost.com/national/literary-group-trump-suit-settlement-protects-journalists/2021/02/18/28f1d0a8-723f-11eb-8651-6d3091eac63f_story.html",
+      "originalUrl": "https://www.washingtonpost.com/national/literary-group-trump-suit-settlement-protects-journalists/2021/02/18/28f1d0a8-723f-11eb-8651-6d3091eac63f_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 155,
+      "heat": 225,
       "tags": null,
       "images": [
         {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210218&t=2&i=1552065519&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1H1RP",
-          "width": 817,
-          "height": 545,
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2AI2XP",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AI2XP",
-      "publishedDateTime": "2021-02-18T18:51:00-08:00",
+      "ampWebUrl": "https://www.washingtonpost.com/national/literary-group-trump-suit-settlement-protects-journalists/2021/02/18/28f1d0a8-723f-11eb-8651-6d3091eac63f_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/literary-group-trump-suit-settlement-protects-journalists/2021/02/18/28f1d0a8-723f-11eb-8651-6d3091eac63f_story.html?outputType=amp",
+      "publishedDateTime": "2021-02-18T20:15:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1100,7 +1100,7 @@
       "originalUrl": "https://www.kansascity.com/news/politics-government/article249293135.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 112,
       "tags": null,
       "images": [
         {

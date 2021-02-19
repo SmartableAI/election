@@ -1,22 +1,22 @@
 ---
 category: news
 title: "US reverts to targeted immigration enforcement under Biden"
-excerpt: "Immigration enforcement in the U.S. would be more targeted under President Joe Biden than under his predecessor, with authorities directed to focus on people in the country illegally who pose a threat,"
-publishedDateTime: 2021-02-19T00:15:00Z
-originalUrl: "https://www.washingtonpost.com/politics/courts_law/us-reverts-to-targeted-immigration-enforcement-under-biden/2021/02/18/a2d11b76-721d-11eb-8651-6d3091eac63f_story.html"
-webUrl: "https://www.washingtonpost.com/politics/courts_law/us-reverts-to-targeted-immigration-enforcement-under-biden/2021/02/18/a2d11b76-721d-11eb-8651-6d3091eac63f_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/us-reverts-to-targeted-immigration-enforcement-under-biden/2021/02/18/a2d11b76-721d-11eb-8651-6d3091eac63f_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/us-reverts-to-targeted-immigration-enforcement-under-biden/2021/02/18/a2d11b76-721d-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+excerpt: "The Biden administration is giving new marching orders to the U.S. immigration enforcement agency WASHINGTON -- Immigration enforcement in the U.S. would be more targeted under President Joe Biden than under his predecessor,"
+publishedDateTime: 2021-02-18T19:28:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/us-reverts-targeted-immigration-enforcement-biden-75976981"
+webUrl: "https://abcnews.go.com/Politics/wireStory/us-reverts-targeted-immigration-enforcement-biden-75976981"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/us-reverts-targeted-immigration-enforcement-biden-75976981"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/us-reverts-targeted-immigration-enforcement-biden-75976981"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://s.abcnews.com/images/Politics/WireAP_ad8fa977c6d84129883beced5e00dd94_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -491,6 +491,6 @@ related:
         height: 600
         isCached: true
 
-secured: "jAxkSXrfK2T1IVu9A8s8PWJmL9QLrkykyet7hHmLmGR61XJXgJCME+TnPGxTRhO1Om0SzE6uTZedbxEM6a/ZbtEwEKl6qfpQkMJ8EO03KhVxJkt0LH4LQ4WRusrrNhkFdJZu4ovR2EYScorzsyxohlxLyg5PrlL3nbzz3ARlYYEk24a7+xld6CmJBB9rIyIUUZCf33N35fza7SlxK6uK06SbY4d9tV7Hgomt0JrOCmGWrGM2Lhro8s6wkWRBEJQLpMI8yzeNDRAmp4yOiF/slZOIf/EZ4L1Zlrto5DktwmalQFozRzLPNAMN2cLQwZSn8u2Cb1mek7DEtO10QJtdYRN/1gaFLEeaSl5erSvSF0A=;ci9NJ+szyDw37MtxCr5yvA=="
+secured: "UdaHO4FGs0dc3/romMFx+rTcWr3+7RarsbV7uPwT1Uirxm+vgnbJzcz2Vtcz7/w4M/PC98SHzP0LkvChM6NcUXY+/iqrTMzWjjYI+hwxObd5fsTgfMLGjA00ojoG6ecaF/ldBG1zMWSxtR445yLBQdPkO1Vw/LvGhPbuUwTseYJqXlutnhyqppJkdDjZhUvLNP+MOigKnjgCMqV2feOSLR8UaaBEwyRf5POxbwQccYosEtjU/pfbDH+S9Jp0djKRcTfVagWbax8/V+XwlUGQ0onjl1YYbFeQ4bZb+5jVYUwENmPiSpGetHc3GpR2wvF3Ae9gct5NbtfHQAnIloW/sUl7NVNblYZUqaf7RcQ+WAQ=;IHmN2lgnbwbzMA/NyNIikQ=="
 ---
 
