@@ -2717,6 +2717,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden (mostly) breaks with Trump in vaccinating the world"
+    excerpt: "The White House today announced that the U.S. will do more to help vaccinate the rest of the world — the latest reversal from the Trump era. But it won’t be everything global health advocates wanted."
+    publishedDateTime: 2021-02-19T01:00:00Z
+    webUrl: "https://www.politico.com/newsletters/politico-nightly/2021/02/18/biden-mostly-breaks-with-trump-in-vaccinating-the-world-491803"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
   - title: "New Jersey Playbook Q&A: Phil Murphy on Joe Biden, the pandemic and Trump"
     excerpt: "New Jersey Playbook writer Matt Friedman spoke to Murphy briefly over the phone about his relationship with the new administration, former President Donald Trump and how vaccine distribution is going in New Jersey."
     publishedDateTime: 2021-01-21T12:01:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/world-nation/story/2021-02-15/investigating-
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-02-15/investigating-trump-a-big-early-move-for-atlantas-new-da?_amp=true"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -105,6 +105,17 @@ related:
         width: 1400
         height: 786
         isCached: true
+  - title: "U.S. labor dept seen saying it will not enforce Trump-era investment rules -sources"
+    excerpt: "The U.S. Department of Labor is expected to announce that it will not enforce Trump administration rules that curb investments based on environmental and social factors, and which limit shareholder voting in corporate meetings,"
+    publishedDateTime: 2021-02-19T02:47:00Z
+    webUrl: "https://www.reuters.com/article/usa-labor-esg/u-s-labor-dept-seen-saying-it-will-not-enforce-trump-era-investment-rules-sources-idUSL1N2KN2FK"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2KN2FK"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2KN2FK"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 99
 
 secured: "sbzEcOVVHJgyxN0vROmPSWLZkeCITIQayuA4+mUYR6lzJb4CCyqr8PWeXHdS+KWTpbdMiF4V2cVR28F5JjyLwAjpRl/TrDxN0GF1BW9UR14tiZWpBC1cIy2X1nCv/Id4/9s2RoFphs8xAe4rBf3769wqpsdGVBUm3QxErqyNF5zgFuzdYr4KArM8TAJUKr5NpX3KrlI7fdPJrGaMsAKH85jFOiMLDeh5FZh9uMJK+doXSR69pQ1DSsANw8bdLz5gbZagRTsr+9EkCtpidqef9a6Xt8BDsbRh3WHLBrTgeYHDHYHEz6/IomSxKp8Z8/EKEMVmxTfWQgK/D0aOuykONwkMnSg0fqYUepSZphh+YHI=;UoGPOic7NA6t64p9kFTcJA=="
 ---

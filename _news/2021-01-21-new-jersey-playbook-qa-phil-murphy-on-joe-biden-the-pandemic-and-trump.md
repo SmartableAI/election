@@ -2730,6 +2730,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden (mostly) breaks with Trump in vaccinating the world"
+    excerpt: "The White House today announced that the U.S. will do more to help vaccinate the rest of the world — the latest reversal from the Trump era. But it won’t be everything global health advocates wanted."
+    publishedDateTime: 2021-02-19T01:00:00Z
+    webUrl: "https://www.politico.com/newsletters/politico-nightly/2021/02/18/biden-mostly-breaks-with-trump-in-vaccinating-the-world-491803"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
   - title: "Palm Beach County, Girl Scouts are latest organizations seeking to end leases with Trump"
     excerpt: "The list of companies and organizations looking to cut business ties with President Donald Trump after last week’s attack on the Capitol is getting longer. Palm Beach County in Florida said Thursday that it is exploring ending its lease with the president's prized West Palm Beach."
     publishedDateTime: 2021-01-15T21:55:00Z

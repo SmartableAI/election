@@ -105,6 +105,17 @@ related:
         width: 1400
         height: 786
         isCached: true
+  - title: "U.S. labor dept seen saying it will not enforce Trump-era investment rules -sources"
+    excerpt: "The U.S. Department of Labor is expected to announce that it will not enforce Trump administration rules that curb investments based on environmental and social factors, and which limit shareholder voting in corporate meetings,"
+    publishedDateTime: 2021-02-19T02:47:00Z
+    webUrl: "https://www.reuters.com/article/usa-labor-esg/u-s-labor-dept-seen-saying-it-will-not-enforce-trump-era-investment-rules-sources-idUSL1N2KN2FK"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2KN2FK"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2KN2FK"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 99
 
 secured: "TumzkkvL1jIvzT2h/62cGdMGlOIEzOkC5iMNHfv6vIFBsBOwkmKF1c1tf8Zc/ph0lZqLBfXqsBPqRzSstraPlBS/o3LRdwXPVqxPTSN55NsUs4yyYdBueLrWuKCL25FXAH3sfbxYLs5hXtv4jZ4Eic7u05hjF2BVqP0S7LZDIZeRHz6BoStaYi4h4SVI763bB5cAv8pbt2FQB2u7b+cVqC0G98QvUCMl1dv0QaKxPWlbgKpPwkSdN92Y3dAekaLDgHxwS9m+052jl5o/9WFoofxAxxaUaoP6uaM2Ce3VTE85UP7RXO3XE8g7bd0zUeEvULUNg/fHDVFlw4rnYAp1LfTLNDSh/ERzV7VJ4E62uFL05OMaAOrmOeKdo6IwNYQtrEW8rveMzuzwIBmz0xAFHdxggDpV0NlILXSOOGtSz16jNwor6VZTOCsWCzJqN+snofkumdpeP/gTUJNQd/vMIgPw7zwRgN6H8bKpV9R7MF4qlzDeA9ETv+mgJ7+c1+NQHehOmaiC8aCwyOj9GrNabw==;NzLKvqRgM7JSNA8Bt9TOVw=="
 ---

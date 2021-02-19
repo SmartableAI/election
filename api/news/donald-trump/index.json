@@ -2,15 +2,15 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-02-19-update-1-us-labor-dept-expected-to-say-it-will-not-enforce-trump-era-investment-rules-sources.md",
-      "title": "UPDATE 1-U.S. labor dept expected to say it will not enforce Trump-era investment rules -sources",
+      "path": "_news/2021-02-19-us-labor-department-seen-saying-it-will-not-enforce-trump-era-investment-rules-sources.md",
+      "title": "U.S. labor department seen saying it will not enforce Trump-era investment rules - sources",
       "excerpt": "The U.S. Department of Labor is expected to announce that it will not enforce Trump administration rules that curb investments based on environmental and social factors, and which limit shareholder voting in corporate meetings,",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/usa-labor-esg-idUSL1N2KO3G1",
-      "originalUrl": "https://www.reuters.com/article/usa-labor-esg-idUSL1N2KO3G1",
+      "webUrl": "https://www.reuters.com/article/us-usa-labor-esg-idUSKBN2AI2XP",
+      "originalUrl": "https://www.reuters.com/article/us-usa-labor-esg-idUSKBN2AI2XP",
       "featuredContent": null,
       "highlight": null,
-      "heat": 132,
+      "heat": 155,
       "tags": null,
       "images": [
         {
@@ -24,9 +24,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2KO3G1",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2KO3G1",
-      "publishedDateTime": "2021-02-18T14:32:00-08:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2AI2XP",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AI2XP",
+      "publishedDateTime": "2021-02-18T18:51:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Reuters",
@@ -972,7 +972,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/gop-sen-richard-burr-facing-censure-home-vote/story?id=75905127",
       "featuredContent": null,
       "highlight": null,
-      "heat": 345,
+      "heat": 365,
       "tags": null,
       "images": [
         {
@@ -1024,7 +1024,7 @@
       "originalUrl": "https://www.latimes.com/world-nation/story/2021-02-15/investigating-trump-a-big-early-move-for-atlantas-new-da",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 245,
       "tags": null,
       "images": [
         {

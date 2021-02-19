@@ -199,6 +199,17 @@ related:
         width: 810
         height: 455
         isCached: true
+  - title: "GOP's Thune Says Trump Allies Engaging in 'Cancel Culture'"
+    excerpt: "Republican Sen. John Thune is criticizing activists and party leaders for engaging in “cancel culture” by rushing to censure GOP senators for voting to convict former President Donald Trump at his impeachment trial."
+    publishedDateTime: 2021-02-19T01:50:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-02-18/gops-thune-says-trump-allies-engaging-in-cancel-culture"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-18/gops-thune-says-trump-allies-engaging-in-cancel-culture?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-18/gops-thune-says-trump-allies-engaging-in-cancel-culture?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "C1UBmopsV9VXqbBENfbTkHdWhlcnzchV2FX1D4VvNkAq4Y9O9uAAUs8/jdMgS4gfIKlgs3MYi/wvEgPNvXLrYrrt4PvwGwu0HajOXL+gmsPfHQZUqTSCpXkYAutmqokVVi/CuY1WMwVdtJeiidH4OdJfyKGpRuQnoFNm7JvV+xMuW8WTlxcwgCmJyr7k4MxFiHEZ3NhVWoGtdAOd+s4JBTo2reQdGGNxUJwppArQkWYYx06p0MzeOSOfpifF07vrah4efdiRlkIf9Yq0S11DG8EYnDlOTNW7jEk2Y3EOBC5y17O9nydfJA3XyyD3gO4rDCn9jbU0/kLulrBz06qdricZCxLtUThMDXBzUARHW7M=;Y8tFDC1LNZyUbdu0BHW/EA=="
 ---

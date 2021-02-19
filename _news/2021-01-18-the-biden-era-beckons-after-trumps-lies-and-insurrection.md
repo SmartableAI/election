@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-inauguration-coronavirus/index.html"
 type: article
 quality: 190
-heat: 3690
+heat: 3710
 published: true
 
 provider:
@@ -2714,6 +2714,20 @@ related:
       - url: "https://media3.s-nbcnews.com/j/newscms/2021_04/3445623/210128-joe-biden-mc-1152_4e064fd1b3e5e41a89bd92851da6f792.nbcnews-fp-1200-630.JPG"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Biden (mostly) breaks with Trump in vaccinating the world"
+    excerpt: "The White House today announced that the U.S. will do more to help vaccinate the rest of the world — the latest reversal from the Trump era. But it won’t be everything global health advocates wanted."
+    publishedDateTime: 2021-02-19T01:00:00Z
+    webUrl: "https://www.politico.com/newsletters/politico-nightly/2021/02/18/biden-mostly-breaks-with-trump-in-vaccinating-the-world-491803"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
   - title: "New Jersey Playbook Q&A: Phil Murphy on Joe Biden, the pandemic and Trump"
     excerpt: "New Jersey Playbook writer Matt Friedman spoke to Murphy briefly over the phone about his relationship with the new administration, former President Donald Trump and how vaccine distribution is going in New Jersey."

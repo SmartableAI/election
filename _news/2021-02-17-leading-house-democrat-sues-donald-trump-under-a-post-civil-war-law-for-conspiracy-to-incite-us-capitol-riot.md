@@ -842,6 +842,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "How a Hard-Core Liberal Lawyer Joined the Pro-Trump Mob"
+    excerpt: "W. McCall Calhoun Jr., who ran for office in Georgia as a Democrat, is a walking embodiment of his state’s political contradictions."
+    publishedDateTime: 2021-02-19T02:20:00Z
+    webUrl: "https://www.nytimes.com/2021/02/18/us/W-McCall-Calhoun-Jr-georgia-capitol-riot.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/18/us/W-McCall-Calhoun-Jr-georgia-capitol-riot.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/18/us/W-McCall-Calhoun-Jr-georgia-capitol-riot.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/10/us/00georgia/merlin_183430803_2af6c473-21c0-4c8a-95c3-ae784ea3dcc0-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Impeachment Case Aims to Marshal Outrage of Capitol Attack Against Trump"
     excerpt: "Armed with lessons from the last impeachment trial of Donald J. Trump, prosecutors plan a shorter, video-heavy presentation to confront Republicans with the fury they felt around the Capitol riot."
     publishedDateTime: 2021-02-07T20:46:00Z
@@ -979,6 +995,20 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/3958f2f0-6f0e-4fe2-bd60-aba613f31b42/b477caa0-9be7-45cc-97d1-5ee053590be6/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Proud Boy cited in Trump impeachment trial poised to plead guilty"
+    excerpt: "Dominic Pezzola of Rochester, New York, would become the first target of the nationwide investigation of participants in the Capitol riot to plead guilty."
+    publishedDateTime: 2021-02-19T02:56:00Z
+    webUrl: "https://www.politico.com/news/2021/02/18/proud-boy-trump-impeachment-guilty-470046"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/7f/e4/494e207144a48aae9fd14162fcad/ap21006578293876-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "A1atZo+kBpvf1xBBJBJaMPPhZNENMo/jzHW3LRC7x4V8aXdAyBOQ7vumaU4vFmqKgF+IqTGJJ6dVKl9lh6ydaK3g16vIwDyEvGaPvr8PFNRX5zMCKBtzdKWaz5N0+eu9iHAGCBQh0G1gi5K74Crj24ZHEuQ+LJB0FXmOCrx2e1NFwdbsUZWWBA9OcTH5brQJVQTtVm5XpqFsJ+xBAo7PGIeiCIsW4OZD2ONPq4+zx8cAfD/iqMw8TS+Tf6+3B4UeNwrz9dDbPdr1MKiy/Lhk1zZaLoImagPWfRd58iDUPlfU8xk1s2lCXNfXttCOZDZnNQ3+y81EllD6xskyJElSEtM4DKxbw2luEG9Te7n36rWrCjbosziMAg6JRqnneFXVPNNVqHqUqvixj/7atdSVtIg/c70+Vobqq993LipD5C8jxu63kDlE+jW+T3ZAeLFRZmWDQ7X2KhC2PtuCza1KowTETGjRHDnb7q87GbpG8TLmCLT3PywKHHvLTuHwpwWKbK9xUMs+PRBAMMWV/GhLaw==;5NjS8a74pbInBoDzilptdA=="

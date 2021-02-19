@@ -287,6 +287,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Eighteen state AGs urge Biden to reverse cancellation of ICE operation targeting sex offenders"
+    excerpt: "Eighteen state attorney generals pleaded with President Biden Thursday, to reverse a recent decision by Immigration and Customs Enforcement (ICE) to shelve an operation that targeted illegal immigrants with sex crime convictions."
+    publishedDateTime: 2021-02-19T01:35:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HjN2xWR4PQ8/18-state-ags-urge-biden-to-reverse-decision-to-cancel-ice-operation-targeting-sex-offenders"
+    ampWebUrl: "https://www.foxnews.com/politics/18-state-ags-urge-biden-to-reverse-decision-to-cancel-ice-operation-targeting-sex-offenders.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/18-state-ags-urge-biden-to-reverse-decision-to-cancel-ice-operation-targeting-sex-offenders.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4ab71ec7-6f54-4382-8f6d-33f7053e5337/1b6fc5be-d65d-4ac1-9c73-adfc4e89846b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "White House says Biden backs citizenship for 11 million illegal immigrants, ahead of bill unveiling"
     excerpt: "The White House on Tuesday reaffirmed that President Biden backs a controversial plan to create a pathway to citizenship to at least 11 million illegal immigrants -- as the White House and congressional Democrats are expected to formally unveil a sweeping immigration bill as soon as this week."
     publishedDateTime: 2021-02-16T21:28:39Z
