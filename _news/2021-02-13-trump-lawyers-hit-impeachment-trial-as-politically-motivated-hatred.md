@@ -127,22 +127,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Trump's defense team used 2 hours and 32 minutes of its 16 allotted hours at his impeachment trial"
-    excerpt: "Both sides have wrapped up their arguments and are now taking questions from senators, meaning that a vote on Trump's fate could come on Saturday."
-    publishedDateTime: 2021-02-12T15:22:00Z
-    webUrl: "https://www.businessinsider.com/trump-lawyers-present-defense-under-3-hours-impeachment-trial-2021-2"
-    ampWebUrl: "https://www.businessinsider.com/trump-lawyers-present-defense-under-3-hours-impeachment-trial-2021-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-lawyers-present-defense-under-3-hours-impeachment-trial-2021-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 111
-    images:
-      - url: "https://i.insider.com/6026ea30b3c2a800183ccb61?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Live impeachment updates: Trump team accuses Democrats of violating due process, threatening free speech"
     excerpt: "Capitol riots that led to former President Donald Trump’s second impeachment trial, his lawyers took to the floor on Friday to defend him. So far Trump’s legal team, cobbled together less than a week before the Senate trial was set to begin,"
     publishedDateTime: 2021-02-13T00:55:00Z

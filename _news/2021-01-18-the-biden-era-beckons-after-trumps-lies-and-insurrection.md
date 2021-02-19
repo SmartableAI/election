@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-inauguration-coronavirus/index.html"
 type: article
 quality: 190
-heat: 3710
+heat: 3730
 published: true
 
 provider:
@@ -2804,6 +2804,20 @@ related:
       - url: "https://static.politico.com/72/4e/41eac7394847ac4de7421290a136/210129-vilsack-ap-773.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Biden admin targets Trump's let-the-water-flow legacy and other energy efficiency rules"
+    excerpt: "Former President Donald Trump's effort to loosen regulations dictating the water-flow levels of many household appliances and fixtures is under threat with the Biden administration announcing it will launch a federal review of several Trump-era rules and regulations governing the topic,"
+    publishedDateTime: 2021-02-19T19:29:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/biden-administration-targets-trump-s-water-flow-legacy-other-energy-n1258343"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 122
+    images:
+      - url: "https://media1.s-nbcnews.com/j/newscms/2021_07/3451346/210219-donald-trump-al-1441_d9ef4324f03a3941bd52547ee22e4372.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Will There Be a Trump Presidential Library? Don’t Count On It."
     excerpt: "For months, as the end of Donald Trump’s term approached, historians and journalists have been playing a speculation game: What will Donald Trump’s presidential library be like? “A shrine to his ego,” predicted a historian in the Washington Post."

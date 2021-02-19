@@ -47,6 +47,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Mitch McConnell proposes delaying Trump's impeachment trial"
+    excerpt: "Senate Republican leader says former president needs time to prepare"
+    publishedDateTime: 2021-01-22T00:19:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/21/mitch-mcconnell-trump-impeachment-senate-trial-delay"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/21/mitch-mcconnell-trump-impeachment-senate-trial-delay"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/21/mitch-mcconnell-trump-impeachment-senate-trial-delay"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/8b72e7241aaeecaf29c5194317f27355410a48fa/93_407_4251_2551/master/4251.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cb217671c784e955adc5effb3f4a0690"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Trump's impeachment trial to begin week of February 8"
     excerpt: "Former President Donald Trump's impeachment trial will begin the week of February 8, Senate Majority Leader Chuck Schumer announced Friday evening on the Senate floor, with pre-trial proceedings beginning on Monday evening,"
     publishedDateTime: 2021-01-23T12:00:00Z
@@ -62,6 +78,86 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/20/8504b1a6-f128-468e-986b-604e4a3b90fd/thumbnail/1200x630g3/00fd6474a7af79cef700a3c5f09f89de/ap21020506415429.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "McConnell says he'll vote to acquit Trump"
+    excerpt: "Senate GOP Leader Mitch McConnell (Ky.) said Saturday that he will vote to acquit former President Trump, ending weeks of speculation about what he would do."
+    publishedDateTime: 2021-02-13T14:56:00Z
+    webUrl: "https://thehill.com/homenews/senate/538730-mcconnell-says-hell-vote-to-acquit-trump"
+    ampWebUrl: "https://thehill.com/homenews/senate/538730-mcconnell-says-hell-vote-to-acquit-trump?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/538730-mcconnell-says-hell-vote-to-acquit-trump?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/mcconnellmitch_020821gn2_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "McConnell responds to critics after voting to acquit Trump"
+    excerpt: "Ky., is defending his decision to acquit former President Donald Trump and hitting back at criticisms he stalled the trial."
+    publishedDateTime: 2021-02-16T23:08:00Z
+    webUrl: "https://abcnews.go.com/Politics/mcconnell-responds-critics-voting-acquit-trump/story?id=75924352"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/mcconnell-responds-critics-voting-acquit-trump/story?id=75924352"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/mcconnell-responds-critics-voting-acquit-trump/story?id=75924352"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/General/impeachment-president-donald-trump-07-gty-llr-210212_1613173401641_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump targets Republican leader McConnell"
+    excerpt: "\"Mitch is a dour, sullen, and unsmiling political hack,\" said Mr Trump, \"and if Republican Senators are going to stay with him, they will not win again.\" Mr McConnell, who led the Senate for years, voted to acquit Mr Trump in his impeachment trial last week."
+    publishedDateTime: 2021-02-16T22:41:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-56092781"
+    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-56092781"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-56092781"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/151A8/production/_117004468_mm.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "What Mitch McConnell Has Said About Impeaching Donald Trump for Second Time"
+    excerpt: "The article of impeachment accuses Trump of \"incitement of insurrection\" for the riots at the Capitol building on January 6, and according to a recent report from The New York Times, Senate Majority Leader Mitch McConnell may be leaning toward voting in favor of impeachment."
+    publishedDateTime: 2021-01-13T15:44:00Z
+    webUrl: "https://www.newsweek.com/what-mitch-mcconnell-has-said-about-impeaching-donald-trump-second-time-1561200"
+    ampWebUrl: "https://www.newsweek.com/what-mitch-mcconnell-has-said-about-impeaching-donald-trump-second-time-1561200?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/what-mitch-mcconnell-has-said-about-impeaching-donald-trump-second-time-1561200?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 123
+    images:
+      - url: "https://d.newsweek.com/en/full/1705612/mitch-mcconnell.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Senate Minority Leader Mitch McConnell to propose delay of Trump impeachment trial"
+    excerpt: "House Speaker Nancy Pelosi said Thursday that she is \"ready\" to send the Trump impeachment article to the Senate, but is waiting for answers on how a trial would work."
+    publishedDateTime: 2021-01-22T04:32:00Z
+    webUrl: "https://abcnews.go.com/Politics/pelosi-ready-send-trump-impeachment-article-answers-senate/story?id=75403030"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/pelosi-ready-send-trump-impeachment-article-answers-senate/story?id=75403030"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/pelosi-ready-send-trump-impeachment-article-answers-senate/story?id=75403030"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 119
+    images:
+      - url: "https://s.abcnews.com/images/Politics/mitch-mcconnell_hpMain_20210121-174756_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Republican McConnell proposes Trump get two weeks to prepare for Senate impeachment trial"
     excerpt: "U.S. Senate Republican leader Mitch McConnell on Thursday proposed a timeline that would delay the start of the Senate impeachment trial of former President Donald Trump until mid-February."
@@ -191,6 +287,38 @@ related:
       name: Time
       domain: time.com
     quality: 78
+  - title: "Mitch McConnell: Trump ‘fed lies’ to mob that stormed Capitol"
+    excerpt: "They were provoked by the president and other powerful people, and they tried to use fear and violence to stop a specific proceeding of branch of the federal government.”"
+    publishedDateTime: 2021-01-19T18:01:00Z
+    webUrl: "https://www.al.com/news/2021/01/mitch-mcconnell-trump-fed-lies-to-mob-that-stormed-capitol.html"
+    ampWebUrl: "https://www.al.com/news/2021/01/mitch-mcconnell-trump-fed-lies-to-mob-that-stormed-capitol.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/mitch-mcconnell-trump-fed-lies-to-mob-that-stormed-capitol.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/TJIIVGNITJGIRJC6M4SJLB74IQ.jpg"
+        width: 8192
+        height: 5464
+        isCached: true
+  - title: "A McConnell-Backed Trump Conviction Is Just Fantasy"
+    excerpt: "Conviction in Trump’s impeachment trial was always a long shot. Now momentum is waning, as GOP senators aren’t onboard and McConnell won’t herd them."
+    publishedDateTime: 2021-01-21T18:57:00Z
+    webUrl: "https://nymag.com/intelligencer/article/mcconnell-trump-conviction-just-fantasy.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/article/mcconnell-trump-conviction-just-fantasy.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/article/mcconnell-trump-conviction-just-fantasy.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/dde/038/bd4c60c0dce402fd6be1a0dac9e2e8e396-Mitch-McConnell.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 632
+        isCached: true
   - title: "A ‘vote of conscience’: McConnell sets stage for Trump impeachment trial"
     excerpt: "President Donald Trump’s impeachment trial is likely to start after Joe Biden’s inauguration, and the Republican leader, Mitch McConnell, is telling senators their decision on whether to convict the outgoing president over the Capitol riot will be a “vote of conscience."
     publishedDateTime: 2021-01-16T18:28:00Z

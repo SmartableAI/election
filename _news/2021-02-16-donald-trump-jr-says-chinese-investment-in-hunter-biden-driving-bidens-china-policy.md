@@ -605,6 +605,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
+  - title: "Biden Draws Sharp Contrast With Trump in Presidential Debut on World Stage"
+    excerpt: "U.S. President Joe Biden on Friday drew a sharp contrast with the foreign policy of his much-derided predecessor, Donald Trump, and urged democracies to work together to challenge abuses by autocratic states such as China and Russia."
+    publishedDateTime: 2021-02-19T19:14:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2021-02-19/bidens-message-to-g7-munich-events-allies-should-work-together-on-china-challenge"
+    ampWebUrl: "https://www.usnews.com/news/world/articles/2021-02-19/bidens-message-to-g7-munich-events-allies-should-work-together-on-china-challenge?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2021-02-19/bidens-message-to-g7-munich-events-allies-should-work-together-on-china-challenge?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 68
   - title: "Biden Scraps Trump Plan to Weaken Environmental Rules to Build Renewables in California"
     excerpt: "The Biden administration on Wednesday said it would scrap a Trump-era proposal to weaken environmental protections for millions of acres of California desert to ease development of wind and solar energy projects."
     publishedDateTime: 2021-02-17T22:00:00Z

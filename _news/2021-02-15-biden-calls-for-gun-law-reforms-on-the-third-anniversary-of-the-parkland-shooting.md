@@ -127,6 +127,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Fact check: Joe Biden did not predict or manipulate the weather that caused the Texas freeze"
+    excerpt: "A post circulating on Facebook claims that President Joe Biden “manipulated” and “controlled” the weather to cause the Texas deep freeze in mid-February 2021 that has left millions without power and at least 21 people dead."
+    publishedDateTime: 2021-02-19T20:54:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-biden-not-control-weather-idUSKBN2AJ1VU"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AJ1VU"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AJ1VU"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 114
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210219&t=2&i=1552173574&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1I12Z"
+        width: 818
+        height: 545
+        isCached: true
   - title: "Biden heads to Wisconsin to rally support for virus relief"
     excerpt: "Leaving Donald Trump and his impeachment in the rearview mirror, Joe Biden is embarking on his first official trip as president to refocus Congress on coronavirus relief and to cement public support for his $1."
     publishedDateTime: 2021-02-17T00:32:00Z

@@ -95,22 +95,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Read Democrat Jamie Raskin's closing argument in impeachment trial of Donald Trump"
-    excerpt: "The lead impeachment manager called Trump the \"inciter in chief.\" House managers and Trump's legal team prepare to make closing argument Lead Impeachment Manager Jamie Raskin, D-Md., delivered a searing closing speech on Saturday as the House impeachment managers pushed to convict Despite the speech,"
-    publishedDateTime: 2021-02-14T02:26:00Z
-    webUrl: "https://abcnews.go.com/Politics/read-democrat-jamie-raskins-closing-argument-impeachment-trial/story?id=75878802"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/read-democrat-jamie-raskins-closing-argument-impeachment-trial/story?id=75878802"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/read-democrat-jamie-raskins-closing-argument-impeachment-trial/story?id=75878802"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 119
-    images:
-      - url: "https://s.abcnews.com/images/General/impeachment-president-donald-trump-16-ap-llr-210213_1613240356883_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Neguse says witnesses \"would not have made a difference\" in Trump impeachment trial"
     excerpt: "Neguse pointed to Senate Minority Leader Mitch McConnell's condemnation of Mr. Trump after he voted to acquit him on the impeachment charge."
     publishedDateTime: 2021-02-14T16:43:00Z
@@ -142,6 +126,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PH42VQDLAUI6XJTO4JYEN2PITA.jpg&w=1440"
         width: 1440
         height: 932
+        isCached: true
+  - title: "Donald Trump rips Mitch McConnell as each seeks to exert leadership after impeachment trial"
+    excerpt: "Trump described McConnell as a \"hack\" who will not be able to lead the Republicans back to victory; McConnell supporters have also denounced Trump."
+    publishedDateTime: 2021-02-16T22:41:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/16/donald-trump-rips-mitch-mcconnell-each-seeks-exert-leadership/6772181002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6772181002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6772181002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 115
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/13/USAT/dd93fcf1-0c6c-43ed-810a-f49b16f0cb2c-AP_Trump_3.jpg?auto=webp&crop=3779,2126,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "House Democrats conclude Trump impeachment case, warning of potential violence if Republicans refuse to convict"
     excerpt: "The impeachment managers linked the former president’s long effort to undermine the election with statements of insurrectionists who stormed the Capitol on Jan. 6."

@@ -255,22 +255,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Impeachment: five Republicans join vote for witnesses in Trump Senate trial"
-    excerpt: "Romney, Collins, Murkowski, Sasse and Graham vote for witnesses after GOP congresswoman’s statement about Trump-McCarthy call"
-    publishedDateTime: 2021-02-13T16:15:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/feb/13/impeachment-five-republicans-vote-witnesses-trump-senate-trial"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/13/impeachment-five-republicans-vote-witnesses-trump-senate-trial"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/13/impeachment-five-republicans-vote-witnesses-trump-senate-trial"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 123
-    images:
-      - url: "https://i.guim.co.uk/img/media/3a013eae8bda52e500c89cfd7ab69908166e7a3d/0_65_3132_1879/master/3132.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=af2beeaf14bcb64ec860a5c7104b044e"
-        width: 600
-        height: 360
-        isCached: true
   - title: "How Donald Trump's Second Impeachment Trial Will Be Different From His First"
     excerpt: "Donald Trump made history in the days before his White House departure by becoming the only president to ever be impeached twice. Now, his upcoming trial in the Senate will be just as unprecedented."
     publishedDateTime: 2021-01-25T22:24:00Z

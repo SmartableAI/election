@@ -31,668 +31,1008 @@ images:
     isCached: true
 
 related:
-  - title: "Trump impeachment trial likely in mid-February: Republican senator"
-    excerpt: "Former President Donald Trump's U.S. Senate impeachment trial is likely to begin sometime around mid-February in order to give his defense team time to prepare, Republican Senator Mike Braun told reporters on Thursday."
-    publishedDateTime: 2021-01-21T22:43:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-trial/trump-impeachment-trial-likely-in-mid-february-republican-senator-idUSKBN29Q30X"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Q30X"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Q30X"
+  - title: "Trump repeats election claims in interviews, is unchallenged"
+    excerpt: "Former President Donald Trump repeated false claims that the election was stolen from him 10 times during interviews this week on Fox News Channel, Newsmax and One America News Networks"
+    publishedDateTime: 2021-02-19T19:25:00Z
+    webUrl: "https://abcnews.go.com/Entertainment/wireStory/trump-repeats-election-claims-interviews-unchallenged-76002370"
+    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/trump-repeats-election-claims-interviews-unchallenged-76002370"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/trump-repeats-election-claims-interviews-unchallenged-76002370"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Entertainment/WireAP_797a515557004f9aae322fd80b74b431_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Donald Trump versus Mitch McConnell: Tension could make 2022 election messy for Republicans"
+    excerpt: "The divide between the former allies presents an uncomfortable possibility for Republicans and a delightful one for Democrats."
+    publishedDateTime: 2021-02-18T14:10:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/18/trump-mcconnell-tension-could-make-2022-election-messy-republicans/6797680002/?scrolla=5eb6d68b7fedc32c19ef33b4"
+    ampWebUrl: "https://amp.usatoday.com/amp/6797680002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6797680002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 130
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/06/USAT/34db0524-c125-4e4e-aeac-1070347db23a-AFP_AFP_1N660V.JPG?auto=webp&crop=3020,1699,x0,y151&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Donald Trump’s version of an insanity defense: His critics are insane"
+    excerpt: "In the summer of 2015, two months after Donald Trump announced he was running for president, a blogger named Esther Goldberg read a Washington Post column by the conservative commentator George F. Will that accused Trump of being phony,"
+    publishedDateTime: 2021-02-12T11:07:00Z
+    webUrl: "https://www.washingtonpost.com/lifestyle/style/trump-derangement-syndrome-impeachment/2021/02/11/a6ffa7b6-6ca6-11eb-9ead-673168d5b874_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/lifestyle/style/trump-derangement-syndrome-impeachment/2021/02/11/a6ffa7b6-6ca6-11eb-9ead-673168d5b874_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/style/trump-derangement-syndrome-impeachment/2021/02/11/a6ffa7b6-6ca6-11eb-9ead-673168d5b874_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210121&t=2&i=1548638815&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0K1PW"
-        width: 818
-        height: 545
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/36HVADTMXII6XOSW27RMRXX2GE.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "Democrats say impeachment trial of Trump to begin week of Feb. 8"
-    excerpt: "House Democrats will send the article of impeachment against former President Trump to the Senate on Monday and the trial will start the week of Feb. 8 to allow time for the House and the former president to prepare,"
-    publishedDateTime: 2021-01-22T23:13:00Z
-    webUrl: "https://www.latimes.com/politics/story/2021-01-22/article-of-impeachment-senate-trump"
-    ampWebUrl: "https://www.latimes.com/politics/story/2021-01-22/article-of-impeachment-senate-trump?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-01-22/article-of-impeachment-senate-trump?_amp=true"
+  - title: "7 Republicans vote to convict Trump in impeachment trial"
+    excerpt: "Seven Republicans voted Saturday to convict former President Donald Trump in his Senate trial, easily the largest number of lawmakers to ever vote to find a president of their own party guilty at impeachment proceedings."
+    publishedDateTime: 2021-02-14T02:28:00Z
+    webUrl: "https://www.washingtonpost.com/politics/7-republicans-vote-to-convict-trump-in-impeachment-trial/2021/02/13/7bd44d24-6e42-11eb-a66e-e27046e9e898_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/7-republicans-vote-to-convict-trump-in-impeachment-trial/2021/02/13/7bd44d24-6e42-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/7-republicans-vote-to-convict-trump-in-impeachment-trial/2021/02/13/7bd44d24-6e42-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "After impeachment acquittal, Trump remains dominant in GOP"
+    excerpt: "After he incited a deadly riot at the U.S. Capitol last month, the GOP considered purging the norm-shattering former president. But in the end, only seven of 50 Senate Republicans voted to convict Trump in his historic second impeachment trial on Saturday."
+    publishedDateTime: 2021-02-14T10:34:00Z
+    webUrl: "https://www.washingtonpost.com/politics/after-impeachment-acquittal-trump-remains-dominant-in-gop/2021/02/14/48b0dd4c-6e86-11eb-a66e-e27046e9e898_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/after-impeachment-acquittal-trump-remains-dominant-in-gop/2021/02/14/48b0dd4c-6e86-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/after-impeachment-acquittal-trump-remains-dominant-in-gop/2021/02/14/48b0dd4c-6e86-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Dem retreat on witnesses brings messy end to Trump trial"
+    excerpt: "The Democrats who prosecuted Donald Trump’s impeachment trial are facing criticism from some senators over an attempt to call witnesses"
+    publishedDateTime: 2021-02-14T06:36:00Z
+    webUrl: "https://www.washingtonpost.com/politics/dem-retreat-on-witnesses-brings-messy-end-to-trump-trial/2021/02/13/11063642-6e65-11eb-a66e-e27046e9e898_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/dem-retreat-on-witnesses-brings-messy-end-to-trump-trial/2021/02/13/11063642-6e65-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/dem-retreat-on-witnesses-brings-messy-end-to-trump-trial/2021/02/13/11063642-6e65-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Former President Donald Trump acquitted in 2nd impeachment trial"
+    excerpt: "President Donald Trump 's second impeachment trial came to a climactic end on Saturday afternoon, with Trump being acquitted for his alleged role of inciting the deadly event. A majority of senators voted to convict the former president,"
+    publishedDateTime: 2021-02-14T04:49:00Z
+    webUrl: "https://abcnews.go.com/Politics/president-donald-trump-acquitted/story?id=75853994"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/president-donald-trump-acquitted/story?id=75853994"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/president-donald-trump-acquitted/story?id=75853994"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/lawyers-bump-gty-ps-210213_1613252499591_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Key takeaways from final day of Trump's 2nd impeachment trial"
+    excerpt: "Senate votes to acquit former President Donald Trump Despite a surprise vote to consider witnesses that blindsided both parties, the fifth day of Donald Trump's second impeachment trial ended as expected: with Trump's acquittal,"
+    publishedDateTime: 2021-02-14T06:15:00Z
+    webUrl: "https://abcnews.go.com/Politics/key-takeaways-final-day-trumps-2nd-impeachment-trial/story?id=75856333"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/key-takeaways-final-day-trumps-2nd-impeachment-trial/story?id=75856333"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/key-takeaways-final-day-trumps-2nd-impeachment-trial/story?id=75856333"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/jamie-raskin_hpMain_20210213-201119_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Loyalty to Trump remains the fault line for Republicans"
+    excerpt: "Seven Republicans voted to convict Trump, several more condemned him, but the party, overall remains loyal to the former president."
+    publishedDateTime: 2021-02-14T14:26:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-02-14/loyalty-to-trump-remains-the-fault-line-for-republicans"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-02-14/loyalty-to-trump-remains-the-fault-line-for-republicans?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-02-14/loyalty-to-trump-remains-the-fault-line-for-republicans?_amp=true"
     type: article
     provider:
       name: Los Angeles Times
       domain: latimes.com
     quality: 125
     images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/1b2877e/2147483647/strip/true/crop/5318x3473+0+36/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F13%2F16%2F7baa1b780dc35a86ecac46f2901c%2F1ad03d94fba34dd58484e1f115dd3518"
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/e7614f7/2147483647/strip/true/crop/840x549+0+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F11%2Ff4%2F678a93204bfd860e526e5986ae1c%2Fvaccine.jpg"
         width: 320
         height: 209
         isCached: true
-  - title: "In Senate deal, Trump impeachment trial put off until early February"
-    excerpt: "The leaders of the U.S. Senate agreed on Friday to push back former President Donald Trump's impeachment trial by two weeks, giving the chamber more time to focus on President Joe Biden's legislative agenda and Cabinet nominees before turning to the contentious"
-    publishedDateTime: 2021-01-23T06:08:00Z
-    webUrl: "https://www.reuters.com/article/usa-trump-impeachment-idINKBN29R27D"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN29R27D"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN29R27D"
+  - title: "Senate votes 57-43 for Trump acquittal"
+    excerpt: "Senate Republicans handed former President Trump his second impeachment acquittal on Saturday, clearing him of charges that he incited the mob that attacked the Capitol on Jan. 6."
+    publishedDateTime: 2021-02-13T20:49:00Z
+    webUrl: "https://thehill.com/homenews/senate/538750-senate-gop-acquits-trump-for-second-time"
+    ampWebUrl: "https://thehill.com/homenews/senate/538750-senate-gop-acquits-trump-for-second-time?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/538750-senate-gop-acquits-trump-for-second-time?amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: The Hill
+      domain: thehill.com
     quality: 125
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210122&t=2&i=1548735957&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0L17I"
-        width: 819
-        height: 545
+      - url: "https://thehill.com/sites/default/files/trumpdonald_012021upi2_lead.jpg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "Live Updates: Pelosi to send Trump article of impeachment on Monday"
-    excerpt: "The delivery of the article will trigger the beginning of former President Trump's impeachment trial in the Senate."
-    publishedDateTime: 2021-01-22T16:26:00Z
-    webUrl: "https://www.cbsnews.com/live-updates/senate-confirmation-hearings-watch-live-stream-today-2021-01-22/"
-    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/senate-confirmation-hearings-watch-live-stream-today-2021-01-22/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/senate-confirmation-hearings-watch-live-stream-today-2021-01-22/"
+  - title: "Senate votes to acquit Trump in historic second impeachment trial"
+    excerpt: "The Senate voted to acquit former President Trump of inciting the January 6 riot at the Capitol in hi. Seven Republicans joined all Democrats in voting \"Guilty\" for a majority of 57 votes – but Democrats failed to get the two-thirds majority needed to convict."
+    publishedDateTime: 2021-02-14T12:31:00Z
+    webUrl: "https://www.cbsnews.com/live-updates/trump-impeachment-trial-senate-acquittal/"
+    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/trump-impeachment-trial-senate-acquittal/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/trump-impeachment-trial-senate-acquittal/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 125
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/09/28c75523-7c0e-44a2-8971-bf4afe7887b0/thumbnail/1200x630g3/9e8b8267d102e561f9ef68978f56e700/gettyimages-1229699676.jpg"
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/13/54f165d0-9a50-4b4e-8127-7e01ff235b09/thumbnail/1200x630/800784316ca0c1fceac7fc2535853681/gettyimages-1301970317.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Schumer: Trump impeachment trial to begin week of Feb. 8"
-    excerpt: "Opening arguments in the Senate impeachment trial for Donald Trump on the charge of incitement of insurrection will begin the week of Feb. 8."
-    publishedDateTime: 2021-01-22T23:31:00Z
-    webUrl: "https://www.businessinsider.com/schumer-trump-impeachment-trial-to-begin-week-of-feb-8-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/schumer-trump-impeachment-trial-to-begin-week-of-feb-8-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/schumer-trump-impeachment-trial-to-begin-week-of-feb-8-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
-    images:
-      - url: "https://i.insider.com/600b5eea7e47190011cb8ddc?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Supporters' words may haunt Trump at impeachment trial"
-    excerpt: "The words of Donald Trump supporters who are accused of participating in the deadly U.S. Capitol riot may end up being used against him in his Senate impeachment trial as he faces the charge of inciti"
-    publishedDateTime: 2021-01-23T13:56:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/supporters-words-haunt-trump-impeachment-trial-75443663"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/supporters-words-haunt-trump-impeachment-trial-75443663"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/supporters-words-haunt-trump-impeachment-trial-75443663"
+  - title: "Trump remains dominant force in GOP following acquittal"
+    excerpt: "For Trump’s loyalists, the acquittal offers a vindication of sorts and a fresh connection to the former president's fiery base. And for Trump’s GOP antagonists, it marks anoth"
+    publishedDateTime: 2021-02-14T04:47:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-remains-dominant-force-gop-acquittal-75881676"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-remains-dominant-force-gop-acquittal-75881676"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-remains-dominant-force-gop-acquittal-75881676"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_b180c281679643a2a82a4f9d6c63f1ef_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_4cc8f27fc0334b39a230321c35412005_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Impeachment guide: how will Donald Trump's second Senate trial unfold?"
-    excerpt: "If the trial is successful it would allow the Senate to bar the former president from holding office in the future"
-    publishedDateTime: 2021-01-25T06:55:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jan/25/trump-impeachment-explained-what-happens-how-does-it-work-senate-trial-guide"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/25/trump-impeachment-explained-what-happens-how-does-it-work-senate-trial-guide"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/25/trump-impeachment-explained-what-happens-how-does-it-work-senate-trial-guide"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/ffeef918a0039227abd2626c7b6eed4ffe0d8d2d/0_186_5568_3341/master/5568.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ff8f9bea775fc88b7549ec396d789354"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Trump's second impeachment trial: the key players"
-    excerpt: "House charged Trump with ‘incitement of insurrection’"
-    publishedDateTime: 2021-01-25T08:03:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jan/25/trumps-second-impeachment-trial-key-players"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/25/trumps-second-impeachment-trial-key-players"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/25/trumps-second-impeachment-trial-key-players"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/a532de0afb04181abd9a25cda0dcf991957441ca/0_400_5388_3233/master/5388.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d21f86f37352f4a80e66672d0ed3244d"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Lawyer group: Trump adds ex-prosecutor to impeachment team"
-    excerpt: "Donald Trump is adding another attorney from South Carolina to his impeachment legal team: a former federal prosecutor-turned-defense attorney who specializes in white-collar crime"
-    publishedDateTime: 2021-01-26T08:07:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/lawyer-group-trump-adds-prosecutor-impeachment-team-75481369"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/lawyer-group-trump-adds-prosecutor-impeachment-team-75481369"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/lawyer-group-trump-adds-prosecutor-impeachment-team-75481369"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_d5306b2cfcd64cb696a6ddf36ddcb3b2_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "US House delivers article of impeachment against Donald Trump to Senate"
-    excerpt: "Senate trial will be the first-ever of a former US president but the chances that Republicans will convict him are slim"
-    publishedDateTime: 2021-01-26T16:05:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jan/25/us-house-delivers-article-of-impeachment-trump-2021"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/25/us-house-delivers-article-of-impeachment-trump-2021"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/25/us-house-delivers-article-of-impeachment-trump-2021"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/8d55da59570e9ef8017c1331f45ab84178384f4e/0_105_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2d51d0099ca0a657b355310551ab1848"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Donald Trump and the verdict of history: ANALYSIS"
-    excerpt: "Not yet out of office for a week and still a political force, Donald Trump’s place in history, let alone his sentence, is bound to be debated for years to come."
-    publishedDateTime: 2021-01-28T16:00:00Z
-    webUrl: "https://abcnews.go.com/Politics/donald-trump-verdict-history-analysis/story?id=75496916"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/donald-trump-verdict-history-analysis/story?id=75496916"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/donald-trump-verdict-history-analysis/story?id=75496916"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/trump-fla-20-rt-ml-210120_1611159652714_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "House to send Trump impeachment article to Senate on Monday, Schumer says"
-    excerpt: "House Speaker Nancy Pelosi plans to send the article of impeachment against Donald Trump to the Senate on Monday."
-    publishedDateTime: 2021-01-22T15:58:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-impeachment-20210122-5zbdjqlyxvc7rat65nnnpd64bm-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-impeachment-20210122-5zbdjqlyxvc7rat65nnnpd64bm-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-impeachment-20210122-5zbdjqlyxvc7rat65nnnpd64bm-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 124
-    images:
-      - url: "https://www.chicagotribune.com/resizer/txtVMfQsBEOT3_vC_uaHadgkG8E=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/QC2KMDNQQZCKVRKGAESVM5FG2U.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "U.S. House lawmakers carry article of impeachment against Trump to Senate"
-    excerpt: "U.S. House of Representatives officials and lawmakers on Monday hand-carried an article of impeachment against former President Donald Trump to the Senate for trial on accusations of inciting the deadly Jan."
-    publishedDateTime: 2021-01-26T00:41:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-procession-idUSKBN29V00J"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29V00J"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29V00J"
+  - title: "U.S. Senate acquits Trump as Republicans save him in impeachment again"
+    excerpt: "The U.S. Senate acquitted Donald Trump on Saturday of inciting the mob that stormed the Capitol last month, sparing him from conviction in his second impeachment trial in a year despite broad condemnation of his role in sparking the deadly siege."
+    publishedDateTime: 2021-02-14T02:51:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-idUSKBN2AD0AE"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AD0AE"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AD0AE"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 124
+    quality: 125
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210126&t=2&i=1549036656&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0P006"
-        width: 817
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210213&t=2&i=1551450590&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1C0JB"
+        width: 968
         height: 545
         isCached: true
-  - title: "The second Trump impeachment trial is set for February. What happens next?"
-    excerpt: "WASHINGTON – Former President Donald Trump's historic second impeachment trial starts next month, but the process really started Monday, when the House sent the article of impeachment to the ..."
-    publishedDateTime: 2021-01-26T08:46:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/24/trump-impeachment-heres-what-happens-next-senate-trial/6672582002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6672582002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6672582002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 123
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/29/NGCT/92163326-189a-4575-861a-7c419df0f18b-SCHUMER.jpg?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "‘Not going to lose my son and my republic’: Jamie Raskin on Trump impeachment"
-    excerpt: "Last modified on Sun 17 Jan 2021 11.07 EST Jamie Raskin, the House Democrat leading the impeachment of Donald Trump, remembered his son Tommy on Sunday and said: “I’m not going to lose my son at the end of 2020 and lose my country and my republic in 2021."
-    publishedDateTime: 2021-01-17T15:07:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jan/17/jamie-raskin-democrat-trump-impeachment"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/17/jamie-raskin-democrat-trump-impeachment"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/17/jamie-raskin-democrat-trump-impeachment"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 122
-    images:
-      - url: "https://i.guim.co.uk/img/media/b0fa70e3c8b787c34bc4ffccd3192bf1e7672acf/0_157_4696_2818/master/4696.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7a28c5a60f82540b2216f7405711c84d"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "How Donald Trump's Second Impeachment Trial Will Be Different From His First"
-    excerpt: "Donald Trump made history in the days before his White House departure by becoming the only president to ever be impeached twice. Now, his upcoming trial in the Senate will be just as unprecedented."
-    publishedDateTime: 2021-01-25T22:24:00Z
-    webUrl: "https://www.newsweek.com/how-donald-trumps-second-impeachment-trial-will-different-his-first-1564269"
-    ampWebUrl: "https://www.newsweek.com/how-donald-trumps-second-impeachment-trial-will-different-his-first-1564269?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/how-donald-trumps-second-impeachment-trial-will-different-his-first-1564269?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 122
-    images:
-      - url: "https://d.newsweek.com/en/full/1715660/ex-president-donald-trump-air-force-one.jpg"
-        width: 2500
-        height: 1494
-        isCached: true
-  - title: "House Speaker Nancy Pelosi says she'll send Trump impeachment to Senate 'soon'"
-    excerpt: "House Speaker Nancy Pelosi said Thursday she would \"soon\" send the Senate the impeachment of President Donald Trump, setting the stage for a trial."
-    publishedDateTime: 2021-01-21T18:34:00Z
-    webUrl: "https://www.usatoday.com/story/news/2021/01/21/nancy-pelosi-send-trump-impeachment-senate-soon-trial/6656415002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6656415002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6656415002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 121
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/21/USAT/71646ee1-4545-45d6-bc02-6c60f77778ab-pelosi_1.jpg?auto=webp&crop=5525,3108,x0,y280&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Impeachment needed to bar Trump from running for federal office: Rep. Joaquin Castro"
-    excerpt: "House impeachment managers are prepared to chase every single Senate vote in an attempt to convict President Donald Trump for inciting insurrection, Rep. Joaquin Castro, D-Texas, said on ABC's \"This Week\" Sunday."
-    publishedDateTime: 2021-01-17T16:03:00Z
-    webUrl: "https://abcnews.go.com/Politics/impeachment-needed-bar-trump-running-federal-office-rep/story?id=75296965"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/impeachment-needed-bar-trump-running-federal-office-rep/story?id=75296965"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/impeachment-needed-bar-trump-running-federal-office-rep/story?id=75296965"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 118
-    images:
-      - url: "https://s.abcnews.com/images/Politics/Joacquin-Castro-Peter-Meijer-split-01-gty-llr-210116_1610823952116_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Politics live updates: Trump impeachment trial begins in earnest Feb. 8, Schumer says"
-    excerpt: "Senate Majority Leader Chuck Schumer announced House impeachment prosecutors will present the charge against former President Donald Trump on Monday."
-    publishedDateTime: 2021-01-23T09:25:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/22/politics-live-updates-senate-wrestles-trump-impeachment-trial/6666302002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6666302002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6666302002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 118
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/17/USAT/1ec764c4-8b59-4a29-b63d-54da88bc3e55-GTY_1290155881.jpg?auto=webp&crop=7826,4403,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Donald Trump Gives First Public Remarks Since Leaving Office as Impeachment Trial Delayed"
-    excerpt: "Former President Donald Trump gave nothing away about his future plans in his first public remarks since leaving the White House on Friday, as Senate leadership delayed his impeachment trial for two weeks."
-    publishedDateTime: 2021-01-23T23:51:00Z
-    webUrl: "https://www.newsweek.com/donald-trump-gives-first-public-remarks-since-leaving-office-impeachment-trial-delayed-1563945"
-    ampWebUrl: "https://www.newsweek.com/donald-trump-gives-first-public-remarks-since-leaving-office-impeachment-trial-delayed-1563945?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-gives-first-public-remarks-since-leaving-office-impeachment-trial-delayed-1563945?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 116
-    images:
-      - url: "https://d.newsweek.com/en/full/1714811/trump-arriving-florida-january-20.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Politics live updates: House members deliver Trump impeachment charge to Senate for trial"
-    excerpt: "House prosecutors walked the article of impeachment against former President Donald Trump to the Senate on Monday night, setting the stage for a trial to begin Feb. 9. Nine House members led by Rep."
-    publishedDateTime: 2021-01-25T18:42:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/25/politics-live-updates-trump-impeachment-article-goes-senate/6698416002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6698416002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6698416002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 116
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/26/USAT/64cd4e1d-775b-497f-9721-1a08ed5c3881-XXX_USATODAY_446699_jmg_30543.JPG?auto=webp&crop=1999,1124,x0,y125&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "U.S. House to bring Trump incitement charge to Senate, launching second impeachment trial"
-    excerpt: "The U.S. House of Representatives on Monday will formally charge ex-President Donald Trump with inciting insurrection in a fiery speech to his followers before this month's deadly attack on the Capitol,"
-    publishedDateTime: 2021-01-25T16:07:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-trump-impeachment-idUKKBN29U13E"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN29U13E"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN29U13E"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 116
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210125&t=2&i=1548995262&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0O0YF"
-        width: 851
-        height: 545
-        isCached: true
-  - title: "Live Updates: Senate rejects GOP motion to declare Trump impeachment trial unconstitutional"
-    excerpt: "Senators were sworn in as jurors on Tuesday in the second impeachment trial of former President Donald Trump for inciting an insurrection, with proceedings scheduled to get underway in two weeks. Senator Patrick Leahy,"
-    publishedDateTime: 2021-01-26T22:06:00Z
-    webUrl: "https://www.cbsnews.com/live-updates/senate-cabinet-confirmation-impeachment-2021-01-26/"
-    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/senate-cabinet-confirmation-impeachment-2021-01-26/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/senate-cabinet-confirmation-impeachment-2021-01-26/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 115
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/26/d8c6009b-1a41-4bf2-9d5d-627b79829356/thumbnail/1200x630/ed7731eecbd029ac99de9fcf4c3abfeb/screen-shot-2021-01-26-at-2-48-36-pm.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "U.S. House Speaker Pelosi says seeks clarity on Senate readiness for Trump impeachment trial"
-    excerpt: "U.S. House of Representatives Speaker Nancy Pelosi said on Thursday she will consult with fellow Democrats in coming days about the Senate's readiness to begin an impeachment trial of former President Donald Trump for his alleged role in the Jan."
-    publishedDateTime: 2021-01-21T22:31:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-idUSKBN29Q2C3"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Q2C3"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Q2C3"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 114
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210121&t=2&i=1548626984&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0K1EA"
-        width: 855
-        height: 545
-        isCached: true
-  - title: "As the numbers suggest a Trump acquittal, Senators explore censure and brace for impeachment trial"
-    excerpt: "Senate Democrats explored how to make their impeachment case against former President Donald Trump a day after a vote suggested he will be acquitted."
-    publishedDateTime: 2021-01-27T22:05:00Z
-    webUrl: "https://www.usatoday.com/story/news/2021/01/27/trump-impeachment-senators-floating-censure-after-rand-paul-motion/4280256001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4280256001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4280256001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 111
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/27/USAT/062d1fae-0a45-404c-8dda-c62f7a87ee96-durbin.jpg?auto=webp&crop=4499,2531,x0,y228&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Power Up: And then there were five. Republicans, that is, willing to hold a Trump impeachment trial"
-    excerpt: "Mitch McConnell isn't breaking with Trump, after all, as he voted to dismiss the impeachment trial because, 45 Republicans say, it's unconstitutional to convict a former president."
-    publishedDateTime: 2021-01-27T16:21:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/01/27/power-up-then-there-were-five-republicans-that-is-willing-hold-trump-impeachment-trial/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/27/power-up-then-there-were-five-republicans-that-is-willing-hold-trump-impeachment-trial/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/27/power-up-then-there-were-five-republicans-that-is-willing-hold-trump-impeachment-trial/?outputType=amp"
+  - title: "Impeachment isn’t the final word on Capitol riot for Trump"
+    excerpt: "Donald Trump’s acquittal at his second impeachment trial may not be the final word on whether he’s to blame for the deadly Capitol riot"
+    publishedDateTime: 2021-02-14T18:52:00Z
+    webUrl: "https://www.washingtonpost.com/politics/impeachment-isnt-the-final-word-on-capitol-riot-for-trump/2021/02/14/3f87dd00-6ef5-11eb-8651-6d3091eac63f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/impeachment-isnt-the-final-word-on-capitol-riot-for-trump/2021/02/14/3f87dd00-6ef5-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/impeachment-isnt-the-final-word-on-capitol-riot-for-trump/2021/02/14/3f87dd00-6ef5-11eb-8651-6d3091eac63f_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 111
+    quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GO2IDXDAIQI6XILXO5S7FGUVEQ.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Proud Boys Gleeful Over Donald Trump Acquittal, Look Ahead to 2024"
+    excerpt: "Proud Boys members rejoiced online after former President Donald Trump was acquitted for a second time, with members praising the firebrand politician in Telegram channels."
+    publishedDateTime: 2021-02-15T14:57:00Z
+    webUrl: "https://www.newsweek.com/proud-boys-gleeful-donald-trump-acquitted-look-2024-1569356"
+    ampWebUrl: "https://www.newsweek.com/proud-boys-gleeful-donald-trump-acquitted-look-2024-1569356?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/proud-boys-gleeful-donald-trump-acquitted-look-2024-1569356?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1735011/proud-boys-gleeful-after-trump-acquitted.jpg"
+        width: 3200
+        height: 2133
+        isCached: true
+  - title: "Support grows for Capitol riot inquiry after Trump acquittal"
+    excerpt: "A day after former President Donald Trump won his second Senate impeachment trial, bipartisan support appeared to be growing for an independent Sept. 11-style commission into the deadly insurrection that took place at the U."
+    publishedDateTime: 2021-02-15T06:06:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/support-grows-capitol-riot-inquiry-trump-acquittal-75898872"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/support-grows-capitol-riot-inquiry-trump-acquittal-75898872"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/support-grows-capitol-riot-inquiry-trump-acquittal-75898872"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_62536ff3a2054235a369c24b9ecea904_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump got off on a technicality"
+    excerpt: "Republicans mostly cited the alleged unconstitutionality of the trial in voting to acquit. But their statements suggest we might have come close to 67 votes on the merits."
+    publishedDateTime: 2021-02-14T23:16:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/02/14/trump-got-off-technicality/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/02/14/trump-got-off-technicality/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/02/14/trump-got-off-technicality/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/02-11-2021/t_3663950b3bda48959ae2d8edf9d83996_name_ImpeachmentThisWeek_Week3_2021_Thumb_v01.png&w=1440"
         width: 1440
         height: 810
         isCached: true
-  - title: "Donald Trump impeached again – now what? Politics Weekly Extra"
-    excerpt: "Jonathan Freedland speaks to Harvard law professor Noah Feldman about the potential next steps after Donald Trump was impeached for a second time"
-    publishedDateTime: 2021-01-14T13:30:00Z
-    webUrl: "https://www.theguardian.com/politics/audio/2021/jan/14/trump-impeached-again-now-what-politics-weekly-extra-podcast"
+  - title: "Trump drives by supporters' rally in West Palm Beach"
+    excerpt: "Former President Trump drove by supporters at a rally in Florida on Monday, CBS West Palm affiliate WPEC reported. It's the first time he has been spotted in public since Saturday, when the Senate acquitted him in his second impeachment trial."
+    publishedDateTime: 2021-02-16T12:23:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-supporter-rally-west-palm-beach/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-supporter-rally-west-palm-beach/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-supporter-rally-west-palm-beach/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 105
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/e7312bd7247e01664df8b351f781442da05a6914/0_0_5568_3341/master/5568.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=54638ea0819c8b43a6e052df1ca1f58b"
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/02/15/375bd093-35fa-4e88-a1af-dd9a5600c990/thumbnail/1200x630/9c506a9295e6c9ac43a1cfde0b08983e/trump-west-palm.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Rand Paul: Impeaching Trump 'antithesis of unity'"
-    excerpt: "Republican Sen. Rand Paul of Kentucky is challenging the legitimacy of Donald Trump's second impeachment trial and forced a Senate vote on whether the impeachment trial of a former president is Constitutional."
-    publishedDateTime: 2021-01-26T20:39:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/01/26/rand-paul-impeaching-trump-antithesis-unity/4265609001/"
+  - title: "Trump greets supporters in 1st public appearance since Senate acquittal"
+    excerpt: "Former President Donald Trump greeted supporters on Presidents Day in his first public appearance since his Senate acquittal and one of the first since leaving office."
+    publishedDateTime: 2021-02-16T02:54:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-greets-supporters-1st-public-appearance-senate-acquittal/story?id=75910437"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-greets-supporters-1st-public-appearance-senate-acquittal/story?id=75910437"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-greets-supporters-1st-public-appearance-senate-acquittal/story?id=75910437"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/4599d219-51e2-4534-9bab-abd1898b1797_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://s.abcnews.com/images/Politics/trump-supporters-motorcade-florida-01-gty-jc-210215_1613422932600_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Chuck Schumer: Donald Trump impeachment trial will be full and fair – video"
-    excerpt: "The US Senate majority leader has said Nancy Pelosi would transmit the article of impeachment on Monday"
-    publishedDateTime: 2021-01-22T15:36:00Z
-    webUrl: "https://www.theguardian.com/us-news/video/2021/jan/22/chuck-schumer-donald-trump-impeachment-trial-full-and-fair-video"
+  - title: "\"Duped\" and \"egged on\": Capitol rioters use Trump as excuse in court"
+    excerpt: "The Senate may have acquitted Donald Trump of inciting an insurrection, but the former president still faces accusations of incitement from another source: Capitol rioters themselves. Attorneys for at least seven accused rioters have referenced Mr."
+    publishedDateTime: 2021-02-17T12:15:00Z
+    webUrl: "https://www.cbsnews.com/news/capitol-riot-suspects-trump-blame-court/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/capitol-riot-suspects-trump-blame-court/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/capitol-riot-suspects-trump-blame-court/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 103
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/5de4eb5cac671949cb78b93803332093363763bf/295_30_1390_834/master/1390.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ecec2513e006d5e11260678a3b5bb2a1"
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/12/3e6f9a6f-18a2-4923-a631-b37c00cdf2c9/thumbnail/1200x630/5ac73579cc0dceac91f59467b903d91a/gettyimages-1230453213.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "House to deliver Trump impeachment charge today to Senate, where more Republicans say they are opposed to the trial"
-    excerpt: "House Democrats will carry the sole impeachment charge of “incitement of insurrection” across the Capitol late Monday evening."
-    publishedDateTime: 2021-01-25T18:50:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-impeachment-senate-trial-20210125-uowfdmbv4bchfc42bi5tcwh2g4-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-impeachment-senate-trial-20210125-uowfdmbv4bchfc42bi5tcwh2g4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-impeachment-senate-trial-20210125-uowfdmbv4bchfc42bi5tcwh2g4-story.html?outputType=amp"
+  - title: "Former Trump casino where stars played goes out with a bang"
+    excerpt: "A spot on the Atlantic City Boardwalk where movie stars, athletes and rock stars used to party and a future president honed his instincts for bravado and hype has been reduced to a dusty pile of rubbl"
+    publishedDateTime: 2021-02-17T16:32:00Z
+    webUrl: "https://abcnews.go.com/Lifestyle/wireStory/trump-casino-stars-played-bang-75939905"
+    ampWebUrl: "https://abcnews.go.com/amp/Lifestyle/wireStory/trump-casino-stars-played-bang-75939905"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Lifestyle/wireStory/trump-casino-stars-played-bang-75939905"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 103
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://www.chicagotribune.com/resizer/k0RMIpwA1Jl7Du9qu6rRR7J80To=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PLWSBM34ZZFKRAIQ3OFFSUT3T4.JPG"
-        width: 1200
-        height: 675
+      - url: "https://s.abcnews.com/images/Lifestyle/WireAP_108db10c88804d9f905cfac5913a7a21_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "House sends Senate second Trump impeachment for 'gravely' endangering security of US"
-    excerpt: "House Democrats have sent the impeachment charge of “incitement of insurrection” to the Senate, kicking off the trial process."
-    publishedDateTime: 2021-01-27T04:24:00Z
-    webUrl: "https://www.usatoday.com/videos/news/politics/2021/01/26/house-sends-trump-impeachment-senate-second-time/4254384001/"
+  - title: "Pro-Trump former GOP chair joins US Senate race in Ohio"
+    excerpt: "An ally of former President Donald Trump who recently stepped down as chair of the Ohio Republican Party is joining the race for the U.S. Senate seat that the GOP’s Rob Portman is leaving"
+    publishedDateTime: 2021-02-18T14:20:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/pro-trump-gop-chair-joins-us-senate-race-75970360"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pro-trump-gop-chair-joins-us-senate-race-75970360"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pro-trump-gop-chair-joins-us-senate-race-75970360"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 98
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/26/USAT/b5bb04cf-de38-4aa8-aa89-4e4241e23d11-VPC_IMPEACHMENT_HANDOFF_DESK.00_00_39_27.Still001.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://s.abcnews.com/images/Politics/WireAP_7daf9715d089424f81d11996e2fcc146_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "To fight impeachment, Trump turns to ‘Butch’ Bowers, a South Carolina lawyer at a small firm who has defended state Republicans"
-    excerpt: "Bowers is taking on his biggest case yet: defending former president Donald Trump in his second impeachment trial, this time against a charge that he incited a mob to attack the U.S. Capitol. The longtime GOP attorney is little known outside of South Carolina and has no powerhouse law firm behind him."
-    publishedDateTime: 2021-01-23T00:57:00Z
-    webUrl: "https://www.washingtonpost.com/politics/butch-bowers-trump-attorney/2021/01/22/c1b58dd0-5cd6-11eb-a976-bad6431e03e2_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/butch-bowers-trump-attorney/2021/01/22/c1b58dd0-5cd6-11eb-a976-bad6431e03e2_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/butch-bowers-trump-attorney/2021/01/22/c1b58dd0-5cd6-11eb-a976-bad6431e03e2_story.html?outputType=amp"
+  - title: "Literary group: Trump suit settlement protects journalists"
+    excerpt: "A literary group that sued then-President Donald Trump with claims that he repeatedly violated the First Amendment in dealing with the media says a settlement it reached will protect journalists"
+    publishedDateTime: 2021-02-19T04:15:00Z
+    webUrl: "https://www.washingtonpost.com/national/literary-group-trump-suit-settlement-protects-journalists/2021/02/18/28f1d0a8-723f-11eb-8651-6d3091eac63f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/literary-group-trump-suit-settlement-protects-journalists/2021/02/18/28f1d0a8-723f-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/literary-group-trump-suit-settlement-protects-journalists/2021/02/18/28f1d0a8-723f-11eb-8651-6d3091eac63f_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 97
+    quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XEEPABS45EI6XKCJN6KCHJ277U.jpg&w=1440"
-        width: 1440
-        height: 1100
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
-  - title: "Senators are working on a bipartisan resolution to censure Trump as it becomes more likely he'll be acquitted in impeachment trial"
-    excerpt: "Kaine told reporters that there \"maybe a little more interest now\" in the move after an overwhelming majority of Republicans on Tuesday hinted they likely won't convict Trump. The Virginia Democrat argued that a censure resolution could be a better use of the Senate 's time."
-    publishedDateTime: 2021-01-27T18:47:00Z
-    webUrl: "https://www.businessinsider.com/senators-aim-to-censure-trump-as-he-likely-faces-acquittal-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/senators-aim-to-censure-trump-as-he-likely-faces-acquittal-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/senators-aim-to-censure-trump-as-he-likely-faces-acquittal-2021-1?amp"
+  - title: "Pro-Trump former GOP chair joins US Senate race in Ohio"
+    excerpt: "An ally of former President Donald Trump who recently stepped down as chair of the Ohio Republican Party is joining the race for the U.S. Senate seat that the GOP’s Rob Portman is vacating"
+    publishedDateTime: 2021-02-18T19:06:00Z
+    webUrl: "https://www.washingtonpost.com/politics/pro-trump-former-gop-chair-joins-us-senate-race-in-ohio/2021/02/18/79f8f014-71f2-11eb-8651-6d3091eac63f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/pro-trump-former-gop-chair-joins-us-senate-race-in-ohio/2021/02/18/79f8f014-71f2-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pro-trump-former-gop-chair-joins-us-senate-race-in-ohio/2021/02/18/79f8f014-71f2-11eb-8651-6d3091eac63f_story.html?outputType=amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 95
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
     images:
-      - url: "https://i.insider.com/601196896dfbe10018e0040c?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
-  - title: "Historians worry a Trump library will be an airbrushed 'MAGA' tribute to a twice-impeached president"
-    excerpt: "It's not hard to image Trump's presidential library will burnish his tarnished legacy after he leaves office. Don't expect that to go smoothly."
-    publishedDateTime: 2021-01-15T16:03:00Z
-    webUrl: "https://www.businessinsider.com/trump-presidential-library-museum-location-national-archives-records-documents-2021-1"
+  - title: "US lets in asylum-seekers stuck in Mexico, ends Trump policy"
+    excerpt: "After waiting months and sometimes years in Mexico, people seeking asylum in the United States are starting to be allowed into the country as they wait for courts to decide on their cases"
+    publishedDateTime: 2021-02-19T05:20:00Z
+    webUrl: "https://www.washingtonpost.com/health/us-lets-in-asylum-seekers-stuck-in-mexico-ends-trump-policy/2021/02/19/76106eda-7271-11eb-8651-6d3091eac63f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/us-lets-in-asylum-seekers-stuck-in-mexico-ends-trump-policy/2021/02/19/76106eda-7271-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/us-lets-in-asylum-seekers-stuck-in-mexico-ends-trump-policy/2021/02/19/76106eda-7271-11eb-8651-6d3091eac63f_story.html?outputType=amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 90
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
     images:
-      - url: "https://i.insider.com/6000cf5aa81ea100188db5a2?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
-  - title: "This day in history, January 16: The impeachment trial of President Donald Trump opens in the Senate"
-    excerpt: "Almanacs are full of lists of global and national historic events. But “This Day in History” feature invites you to not just peruse a list, but to take a trip back in time to see how a significant event originally was reported in the Chicago Tribune."
-    publishedDateTime: 2021-01-16T13:10:00Z
-    webUrl: "https://www.chicagotribune.com/history/ct-sns-today-history-almanac-january-16-20210116-bj5ofx7u4bai7kee7utmmiswvq-story.html"
+  - title: "Pull of partisanship helps Trump escape impeachment conviction: ANALYSIS"
+    excerpt: "While seven Republicans joined all 50 Democrats in voting for former President Donald Trump 's conviction, the Senate fell 10 votes short of conviction. Trump was spared the ultimate punishment Congress could wield by powerful and familiar forces he has long understood,"
+    publishedDateTime: 2021-02-13T22:04:00Z
+    webUrl: "https://abcnews.go.com/Politics/pull-partisanship-helps-trump-escape-impeachment-conviction-analysis/story?id=75864271"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/pull-partisanship-helps-trump-escape-impeachment-conviction-analysis/story?id=75864271"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/pull-partisanship-helps-trump-escape-impeachment-conviction-analysis/story?id=75864271"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 124
+    images:
+      - url: "https://s.abcnews.com/images/Politics/donald-trump_hpMain_20210213-164842_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump's Indonesia partner to build movie studio after securing tax breaks"
+    excerpt: "Indonesian tycoon Hary Tanoesoedibjo, a business partner of former U.S. president Donald Trump, launched on Monday construction on a movie studio as part of a tourism complex on Java island that is set to receive tax breaks."
+    publishedDateTime: 2021-02-15T14:07:00Z
+    webUrl: "https://www.reuters.com/article/us-indonesia-trump-idUSKBN2AF0MZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AF0MZ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AF0MZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210215&t=2&i=1551570211&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1E0CB"
+        width: 749
+        height: 545
+        isCached: true
+  - title: "Donald Trump Escapes Conviction a Second Time, Leaving Door Open for 2024 Run"
+    excerpt: "Donald Trump's second acquittal in the Senate raises questions about whether the former president will seek federal office again."
+    publishedDateTime: 2021-02-13T20:53:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-escapes-conviction-second-time-leaving-door-open-2024-run-1569042"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-escapes-conviction-second-time-leaving-door-open-2024-run-1569042?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-escapes-conviction-second-time-leaving-door-open-2024-run-1569042?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 122
+    images:
+      - url: "https://d.newsweek.com/en/full/1734511/trump-acquittal-2024-run.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Trump headed to swift acquittal after Democrats balk on impeachment witnesses"
+    excerpt: "The decision in the end to forego testimony all but ensured Trump’s acquittal without a full accounting of his actions on Jan. 6, revealing his continuing grip on the GOP and well as Democratic ambivalence over extending the trial."
+    publishedDateTime: 2021-02-13T20:41:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-acquitted-impeachment-riot/2021/02/13/dbf6b172-6e12-11eb-ba56-d7e2c8defa31_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-acquitted-impeachment-riot/2021/02/13/dbf6b172-6e12-11eb-ba56-d7e2c8defa31_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-acquitted-impeachment-riot/2021/02/13/dbf6b172-6e12-11eb-ba56-d7e2c8defa31_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 122
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JAIZYVDOG4I6XH4AHV3ENTQ3YA.jpg&w=1440"
+        width: 1106
+        height: 653
+        isCached: true
+  - title: "Giuliani not currently representing Trump in legal matters - Trump spokesman"
+    excerpt: "Former President Donald Trump's long-time lawyer and confidant Rudy Giuliani is not representing Trump in legal matters at this time, Trump spokesman Jason Miller said on Tuesday."
+    publishedDateTime: 2021-02-16T22:10:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-giuliani/giuliani-not-currently-representing-trump-in-legal-matters-trump-spokesman-idUSKBN2AG2KU?edition-redirect=uk"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AG2KU"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AG2KU"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210216&t=2&i=1551768478&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1F1JO"
+        width: 823
+        height: 545
+        isCached: true
+  - title: "Republican enthusiasm for second Trump term lags as impeachment trial nears end"
+    excerpt: "Senate Republicans, while likely to acquit former President Donald Trump at his impeachment trial, showed little enthusiasm this week for a possible second White House bid in 2024 after reliving his supporters' deadly storming of the U."
+    publishedDateTime: 2021-02-12T22:43:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-republicans-idUSKBN2AC2L6"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AC2L6"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AC2L6"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210212&t=2&i=1551379744&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1B1S5"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Acquitted again by Senate, Trump still a powerful force in Republican politics"
+    excerpt: "It is still Donald Trump’s Republican Party - at least for now. The vote by 43 of the 50 Republican senators to acquit Trump on the charge of inciting last month’s deadly riot at the U.S. Capitol, with only seven voting for conviction,"
+    publishedDateTime: 2021-02-14T18:11:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-future-idUSKBN2AE04T"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AE04T"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AE04T"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210214&t=2&i=1551476359&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1D04B"
+        width: 813
+        height: 545
+        isCached: true
+  - title: "Marco Rubio Suggests Senate Could Try Hillary Clinton if Donald Trump is Convicted"
+    excerpt: "Senator Marco Rubio (R-FL) has suggested that f Hillary Clinton could be impeached and put on trial in the Senate if former President Donald Trump is convi"
+    publishedDateTime: 2021-02-13T12:22:00Z
+    webUrl: "https://www.newsweek.com/marco-rubio-suggests-senate-could-try-hillary-clinton-donald-trump-convicted-1569095"
+    ampWebUrl: "https://www.newsweek.com/marco-rubio-suggests-senate-could-try-hillary-clinton-donald-trump-convicted-1569095?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/marco-rubio-suggests-senate-could-try-hillary-clinton-donald-trump-convicted-1569095?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 119
+    images:
+      - url: "https://d.newsweek.com/en/full/1734630/former-secretary-state-hillary-clinton.jpg"
+        width: 2560
+        height: 1704
+        isCached: true
+  - title: "Read Democrat Jamie Raskin's closing argument in impeachment trial of Donald Trump"
+    excerpt: "The lead impeachment manager called Trump the \"inciter in chief.\" House managers and Trump's legal team prepare to make closing argument Lead Impeachment Manager Jamie Raskin, D-Md., delivered a searing closing speech on Saturday as the House impeachment managers pushed to convict Despite the speech,"
+    publishedDateTime: 2021-02-14T02:26:00Z
+    webUrl: "https://abcnews.go.com/Politics/read-democrat-jamie-raskins-closing-argument-impeachment-trial/story?id=75878802"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/read-democrat-jamie-raskins-closing-argument-impeachment-trial/story?id=75878802"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/read-democrat-jamie-raskins-closing-argument-impeachment-trial/story?id=75878802"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 119
+    images:
+      - url: "https://s.abcnews.com/images/General/impeachment-president-donald-trump-16-ap-llr-210213_1613240356883_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "With Republican firewall, U.S. Senate acquits Trump of inciting deadly Capitol riot"
+    excerpt: "The U.S. Senate acquitted Donald Trump on Saturday of inciting the mob that stormed the Capitol last month, sparing him from conviction in his second impeachment trial in a year despite broad condemnation of his role in sparking the deadly siege."
+    publishedDateTime: 2021-02-14T06:48:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment/u-s-senate-acquits-trump-as-republicans-save-him-in-impeachment-again-idUSKBN2AD0AE"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AD0AE"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AD0AE"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 119
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210213&t=2&i=1551450590&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1C0JB"
+        width: 968
+        height: 545
+        isCached: true
+  - title: "Impeachment Manager Lists All the Criminal Charges Trump Could Face After Acquittal"
+    excerpt: "Delegate Stacey Plaskett said that state-level criminal investigations against former President Donald Trump \"will continue to move forward.\""
+    publishedDateTime: 2021-02-17T02:21:00Z
+    webUrl: "https://www.newsweek.com/impeachment-manager-lists-all-criminal-charges-trump-could-face-after-acquittal-1569785"
+    ampWebUrl: "https://www.newsweek.com/impeachment-manager-lists-all-criminal-charges-trump-could-face-after-acquittal-1569785?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/impeachment-manager-lists-all-criminal-charges-trump-could-face-after-acquittal-1569785?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 119
+    images:
+      - url: "https://d.newsweek.com/en/full/1737326/donald-trump-potential-criminal-investigations-state-level.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Analysis: Exodus of Republican voters tired of Trump could push party further right"
+    excerpt: "A surge of Republicans quitting the party to renounce Donald Trump after the deadly Capitol riot could hurt moderates in next year's primaries, adding a capstone to Trump's legacy as president: A potentially lasting rightward push on the party."
+    publishedDateTime: 2021-02-18T19:09:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-politics-republicans-defections-a-idUSKBN2AI1XC"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AI1XC"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AI1XC"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 119
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210218&t=2&i=1552040557&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1H11R"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Canada says alleged Trump interference in extradition case of Huawei's Meng 'moot'"
+    excerpt: "Canada's attorney general says accusations that former U.S. President Donald Trump's interfered in Huawei chief financial officer Meng Wanzhou's extradition trial is irrelevant because he is no longer in office."
+    publishedDateTime: 2021-02-19T08:47:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-huawei-tech-canada-idCAKBN2AJ09S"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN2AJ09S"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN2AJ09S"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 119
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210219&t=2&i=1552099907&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1I04N"
+        width: 818
+        height: 545
+        isCached: true
+  - title: "Trump impeachment: divided reaction in US after former president acquitted – live updates"
+    excerpt: "Senate reflects split opinion across US over Capitol attack impeachment"
+    publishedDateTime: 2021-02-14T12:18:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/14/donald-trump-impeachment-acquitted-senate-trial-joe-biden-live-updates"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/14/donald-trump-impeachment-acquitted-senate-trial-joe-biden-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/14/donald-trump-impeachment-acquitted-senate-trial-joe-biden-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 116
+    images:
+      - url: "https://i.guim.co.uk/img/media/5526fba0e5796a3427dd749f7f128a6e99b4cf81/529_144_1839_1104/master/1839.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1731f021896513b07ff08a5a9f726a83"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Democrats say calling witnesses in Trump impeachment trial could have cost them GOP votes"
+    excerpt: "\"Listen, we didn't need more witnesses. We needed more senators with spines,\" Del. Stacey Plaskett said Sunday."
+    publishedDateTime: 2021-02-15T04:12:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/14/trump-impeachment-witnesses-may-have-cost-republican-votes/4481602001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4481602001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4481602001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/14/USAT/c4adb8f0-dc41-4614-a642-5f87d176664b-GTY_1302002799.jpg?auto=webp&crop=5104,2871,x1277,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "As QAnon Predicts Donald Trump Reinstatement on March 4, D.C. Police Prepare for Threats"
+    excerpt: "The conspiracy theorists believe that Donald Trump will somehow be inaugurated as president next month and have widely discussed the date online."
+    publishedDateTime: 2021-02-16T13:19:00Z
+    webUrl: "https://www.newsweek.com/qanon-donald-trump-reinstatement-march-4-dc-police-threats-1569534"
+    ampWebUrl: "https://www.newsweek.com/qanon-donald-trump-reinstatement-march-4-dc-police-threats-1569534?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/qanon-donald-trump-reinstatement-march-4-dc-police-threats-1569534?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 116
+    images:
+      - url: "https://d.newsweek.com/en/full/1735536/march.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Trump impeachment: divided reaction in US after former president acquitted – as it happened"
+    excerpt: "Senate reflects split opinion across US over Capitol attack impeachment"
+    publishedDateTime: 2021-02-14T22:50:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/14/donald-trump-impeachment-acquitted-senate-trial-joe-biden-live-updates?page=with:block-60298fd38f0886db2aba992d"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/14/donald-trump-impeachment-acquitted-senate-trial-joe-biden-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/14/donald-trump-impeachment-acquitted-senate-trial-joe-biden-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 115
+    images:
+      - url: "https://i.guim.co.uk/img/media/f3e62d78d38afd5078732a14b1aa4fa84314cd09/0_248_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=00475ae5fcc1daa1235b59cea71f8ea7"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "After second impeachment acquittal, Donald Trump still firmly in control of the Republican party"
+    excerpt: "Republicans voted against Donald Trump in his impeachment, but by most objective measures, Trump’s grasp on the GOP and its future remains airtight."
+    publishedDateTime: 2021-02-14T18:24:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-impeachment-acquittal-republicans-20210214-usl73vi23zdnhjtbp5oczwqs3u-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-impeachment-acquittal-republicans-20210214-usl73vi23zdnhjtbp5oczwqs3u-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-impeachment-acquittal-republicans-20210214-usl73vi23zdnhjtbp5oczwqs3u-story.html?outputType=amp"
     type: article
     provider:
       name: Chicago Tribune
       domain: chicagotribune.com
-    quality: 90
+    quality: 112
     images:
-      - url: "https://www.chicagotribune.com/resizer/RCbFb8gR4Z4Tx8yS-kfISBHX_Qw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/4HA5W4BHEBEBTMQQHY5ZH4DI64.jpg"
+      - url: "https://www.chicagotribune.com/resizer/5x5IAwrJKINXsdBlQ3wxPxkej6I=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/DLV5XFJ6IFHWHGX6UTLFBD2TL4.aspx"
         width: 1200
-        height: 674
+        height: 675
         isCached: true
-  - title: "Liz Cheney faces Wyoming backlash for Trump impeachment vote"
-    excerpt: "Just before a mob unleashed a deadly rampage on the U.S. Capitol, President Donald Trump told tens of thousands of supporters that “we got to get rid” of Rep. Liz Cheney. The Wyoming congresswoman and No."
-    publishedDateTime: 2021-01-19T03:26:00Z
-    webUrl: "https://www.al.com/news/2021/01/liz-cheney-faces-wyoming-backlash-for-trump-impeachment-vote.html"
-    ampWebUrl: "https://www.al.com/news/2021/01/liz-cheney-faces-wyoming-backlash-for-trump-impeachment-vote.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/liz-cheney-faces-wyoming-backlash-for-trump-impeachment-vote.html?outputType=amp"
+  - title: "Trump's defense team used 2 hours and 32 minutes of its 16 allotted hours at his impeachment trial"
+    excerpt: "Both sides have wrapped up their arguments and are now taking questions from senators, meaning that a vote on Trump's fate could come on Saturday."
+    publishedDateTime: 2021-02-12T15:22:00Z
+    webUrl: "https://www.businessinsider.com/trump-lawyers-present-defense-under-3-hours-impeachment-trial-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/trump-lawyers-present-defense-under-3-hours-impeachment-trial-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-lawyers-present-defense-under-3-hours-impeachment-trial-2021-2?amp"
     type: article
     provider:
-      name: al.com
-      domain: al.com
-    quality: 75
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/UTKT4Z2AMJAPJNKSBTSOYVVLSE.jpg"
-        width: 4500
-        height: 3000
+      - url: "https://i.insider.com/6026ea30b3c2a800183ccb61?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Trump 2021 impeachment trial: GOP senators might kill effort"
-    excerpt: "I think the trial is stupid, I think it’s counterproductive,” said Sen. Marco Rubio, R-Fla.. He said that “the first chance I get to vote to end this trial, I’ll do it” because he believes it would be bad for the country and further inflame partisan divisions."
-    publishedDateTime: 2021-01-25T12:10:00Z
-    webUrl: "https://www.al.com/news/2021/01/trump-2021-impeachment-trial-gop-senators-might-kill-effort.html"
-    ampWebUrl: "https://www.al.com/news/2021/01/trump-2021-impeachment-trial-gop-senators-might-kill-effort.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/trump-2021-impeachment-trial-gop-senators-might-kill-effort.html?outputType=amp"
+  - title: "Senate votes to consider witnesses in Donald Trump’s impeachment case, potentially extending trial"
+    excerpt: "Senate votes to consider witnesses in Donald Trump’s impeachment case, potentially extending trial. Copyright 2021 The Associated Press. All rights reserved. This material may not be published, broadcast,"
+    publishedDateTime: 2021-02-13T20:38:00Z
+    webUrl: "https://www.washingtonpost.com/politics/senate-votes-to-consider-witnesses-in-donald-trumps-impeachment-case-potentially-extending-trial/2021/02/13/7da0c14a-6e11-11eb-a66e-e27046e9e898_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/senate-votes-to-consider-witnesses-in-donald-trumps-impeachment-case-potentially-extending-trial/2021/02/13/7da0c14a-6e11-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/senate-votes-to-consider-witnesses-in-donald-trumps-impeachment-case-potentially-extending-trial/2021/02/13/7da0c14a-6e11-11eb-a66e-e27046e9e898_story.html?outputType=amp"
     type: article
     provider:
-      name: al.com
-      domain: al.com
-    quality: 75
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 111
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/76K3ONR6JZCVVE5Z4TXB3YGDRY.jpg"
-        width: 4516
-        height: 3011
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
-  - title: "Trump Impeachment: Capitol Faces New Threats, Rubio Cries Foul"
-    excerpt: "Law enforcement is prepping for possible violence in Washington D.C. on Feb. 8, when the Senate trial is expected to begin."
-    publishedDateTime: 2021-01-25T11:52:00Z
-    webUrl: "https://www.ibtimes.com/trump-impeachment-capitol-faces-new-threats-rubio-cries-foul-3129944"
-    ampWebUrl: "https://www.ibtimes.com/trump-impeachment-capitol-faces-new-threats-rubio-cries-foul-3129944?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-impeachment-capitol-faces-new-threats-rubio-cries-foul-3129944?amp=1"
+  - title: "Fact check: Courts have dismissed multiple lawsuits of alleged electoral fraud presented by Trump campaign"
+    excerpt: "Following President Joe Biden’s swearing in on Jan. 20, a Facebook post shared over 6,140 times has said: “Not one court has looked at the evidence and said that Biden legally won. Not one”. This is false: state and federal judges dismissed more than 50 lawsuits"
+    publishedDateTime: 2021-02-15T16:00:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-courts-election-idUSKBN2AF1G1"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AF1G1"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AF1G1"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
+      name: Reuters
+      domain: reuters.com
+    quality: 107
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/10/a-protester-carries-a-sign-calling-for-congress-AFP_8YH99R-2.jpg"
-        width: 1024
-        height: 732
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210215&t=2&i=1551606644&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1E0T8"
+        width: 818
+        height: 545
         isCached: true
-  - title: "What’s Next For Trump? His Plans As Impeachment Article Hits Senate"
-    excerpt: "Former President Donald Trump is opening a new office in Florida on Monday that will carry on his admininstration's administration, an announcement he made as the House delivered a single article of impeachment to the Senate."
-    publishedDateTime: 2021-01-26T12:26:00Z
-    webUrl: "https://www.ibtimes.com/whats-next-trump-his-plans-impeachment-article-hits-senate-3130886"
-    ampWebUrl: "https://www.ibtimes.com/whats-next-trump-his-plans-impeachment-article-hits-senate-3130886?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/whats-next-trump-his-plans-impeachment-article-hits-senate-3130886?amp=1"
+  - title: "Senate Reaches Deal to Skip Witnesses in Trump Impeachment Trial"
+    excerpt: "WASHINGTON — House Democrats began wrapping up their impeachment case against Donald Trump on Saturday after a chaotic morning in which they gave up a last-minute plan for witness testimony that could have significantly prolonged the trial and delayed a vote on whether the former president incited the deadly Capitol insurrection."
+    publishedDateTime: 2021-02-14T02:22:00Z
+    webUrl: "https://time.com/5939200/trump-impeachment-trial/"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
+      name: Time
+      domain: time.com
+    quality: 105
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/25/former-president-donald-trump-faces-an-impeachment-trial.jpg"
-        width: 1024
-        height: 696
+      - url: "https://api.time.com/wp-content/uploads/2021/02/Impeachment-Trial.jpg"
+        width: 2811
+        height: 1582
         isCached: true
-  - title: "Trump impeachment trial to begin week of Feb. 8 following Schumer, GOP agreement"
-    excerpt: "Under the timeline, the House will transmit the impeachment article against Trump late Monday, with initial proceedings Tuesday."
-    publishedDateTime: 2021-01-22T22:40:00Z
-    webUrl: "https://www.al.com/politics/2021/01/trump-impeachment-trial-to-begin-week-of-feb-8-following-schumer-gop-agreement.html"
-    ampWebUrl: "https://www.al.com/politics/2021/01/trump-impeachment-trial-to-begin-week-of-feb-8-following-schumer-gop-agreement.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/politics/2021/01/trump-impeachment-trial-to-begin-week-of-feb-8-following-schumer-gop-agreement.html?outputType=amp"
+  - title: "Trump acquitted in second impeachment trial"
+    excerpt: "The Senate voted Saturday to acquit former President Trump of inciting the insurrection at the U.S. Capitol last month, marking the end of his second impeachment trial. Seven Republican senators broke ranks to support conviction."
+    publishedDateTime: 2021-02-14T04:10:00Z
+    webUrl: "https://www.latimes.com/politics/9lc6sl1wwxy-123"
     type: article
     provider:
-      name: al.com
-      domain: al.com
-    quality: 70
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 105
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/HXOMJQPUVZDCBJLGYXGICGVH2I.jpg"
-        width: 5472
-        height: 3648
-        isCached: true
-  - title: "Trump’s impeachment trial to begin on February 8, says US Senate majority leader Chuck Schumer"
-    excerpt: "Opening arguments in the US Senate impeachment trial for Donald Trump over the Capitol riot will begin the week of February 8, the first time a former president will face such charges after ..."
-    publishedDateTime: 2021-01-22T17:33:00Z
-    webUrl: "https://www.scmp.com/news/world/united-states-canada/article/3118926/nancy-pelosi-send-donald-trump-impeachment-article"
-    ampWebUrl: "https://amp.scmp.com/news/world/united-states-canada/article/3118926/nancy-pelosi-send-donald-trump-impeachment-article"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/united-states-canada/article/3118926/nancy-pelosi-send-donald-trump-impeachment-article"
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 63
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/01/24/e73786e8-5cd7-11eb-a99a-beae699a1a1d_image_hires_033723.jpg?itok=5Q7pwkmI&v=1611430654"
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/7844f7d/2147483647/strip/true/crop/480x252+0+54/resize/1200x630!/quality/90/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F9lc6Sl1WwXY%2Fhqdefault.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Trump Impeachment Trial To Begin Week Of February 8: Schumer"
-    excerpt: "Donald Trump's US Senate trial will begin in the second week of February, days after a fresh impeachment case against the former president is transmitted by the House, Senate Majority Leader Chuck Schumer said Friday."
-    publishedDateTime: 2021-01-23T00:34:00Z
-    webUrl: "https://www.ibtimes.com/trump-impeachment-trial-begin-week-february-8-schumer-3128675"
+  - title: "Trump attorney rips off mic after questioning from CBSN anchor"
+    excerpt: "The Senate voted Saturday to acquit former President Donald Trump on a charge of inciting the January 6th insurrection at the Capitol. Following the vote, defense attorney Michael van der Veen joined CBSN's Lana Zak to discuss the trial in a sometimes contentious interview."
+    publishedDateTime: 2021-02-14T08:12:00Z
+    webUrl: "https://www.cbsnews.com/video/senate-acquits-trump-impeachment-lawyer-michael-van-der-veen/"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/22/former-us-president-donald-trump-seen-here-leaving.jpg"
-        width: 1024
-        height: 696
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/02/13/a8c0f061-b32b-435f-92a1-8a38b8db46e2/thumbnail/1200x630/f61b31ee01e950b6826672066705431f/cbsn-fusion-senate-acquits-trump-impeachment-lawyer-michael-van-der-veen-thumbnail-645843-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Louisiana's Cassidy and Kennedy Diverge on Trump Impeachment"
-    excerpt: "Louisiana’s two Republican U.S. senators are taking different approaches to the second impeachment trial against former President Donald Trump."
-    publishedDateTime: 2021-01-26T22:54:00Z
-    webUrl: "https://www.usnews.com/news/best-states/louisiana/articles/2021-01-26/louisianas-cassidy-and-kennedy-diverge-on-trump-impeachment"
+  - title: "7 yuuge reasons Donald Trump isn't going away"
+    excerpt: "Insider identified seven weapons in Trump's arsenal — like political committees, government facilities, and media platforms — for staging a comeback."
+    publishedDateTime: 2021-02-15T02:25:00Z
+    webUrl: "https://www.businessinsider.com/where-is-donald-trump-new-2024-campaign-committee-2021-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+    images:
+      - url: "https://i.insider.com/60149ab66dfbe10018e00e73?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "The impact of Trump's second acquittal on both parties"
+    excerpt: "The Senate acquitted former President Trump of charges he incited the deadly insurrection at the U.S. Capitol. CBSN's Vladimir Duthiers spoke with Antjuan Seawright, a CBS News political contributor and a Democratic strategist,"
+    publishedDateTime: 2021-02-15T14:14:00Z
+    webUrl: "https://www.cbsnews.com/video/the-impact-of-trumps-second-acquittal-on-both-parties/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/02/15/ee63b39e-e578-45b0-be2b-1dd09d8fcab2/thumbnail/1200x630/9dfa1666f7e9232acb232a89271996ff/cbsn-fusion-the-impact-of-trumps-second-acquittal-on-both-parties-moving-forward-thumbnail-646438-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Group of Republicans look to form anti-Trump party"
+    excerpt: "After former President Trump was acquitted at his second impeachment trial, some conservatives are looking to form a separate political party to distance themselves from those loyal to Mr. Trump. Evan McMullin,"
+    publishedDateTime: 2021-02-15T16:58:00Z
+    webUrl: "https://www.cbsnews.com/video/group-of-republicans-look-to-form-anti-trump-party/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/02/15/cb6aab64-2cd0-41f2-9c6c-6f324a479901/thumbnail/1200x630/cfee6a8b83d99468a12d071db3ec9ef0/0215-cbsn-qen-repantitrumpparty-646566-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "What's next in Washington after Trump's second impeachment acquittal"
+    excerpt: "President Biden and Congress are moving forward after the Senate voted to acquit former President Trump in his second impeachment trial on Saturday. CBS News congressional correspondent Nikole Killion and Associated Press White House reporter Zeke Miller spoke to \"Red and Blue\" host Elaine Quijano about where Washington heads next."
+    publishedDateTime: 2021-02-16T00:26:00Z
+    webUrl: "https://www.cbsnews.com/video/whats-next-in-washington-after-trumps-second-impeachment-acquittal/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/02/16/bdfe75d7-c0a3-4726-bd1f-132098d08c49/thumbnail/1200x630/a4adc51381f03995d2816bb04e008e71/0215-rb-trumpwhatsnext-646776-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "CPAC is taking Trump's side in the battle for the soul of the GOP"
+    excerpt: "This year's flagship conservative event is also notable for who is not showing up. Establishment GOP leaders like Mitch McConnell, Kevin McCarthy and Mike Pence are so far not listed as speakers."
+    publishedDateTime: 2021-02-18T08:29:00Z
+    webUrl: "https://www.businessinsider.com/cpac-2021-speakers-trump-pence-orlando-republican-conservative-2021-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+    images:
+      - url: "https://i.insider.com/602c67945847630018323658?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Readers React: Trump misrepresented Pence’s role in election process"
+    excerpt: "Since in past presidential elections all those who had lost conceded well before the state governors certified the results and both houses of Congress accepted them, I was a bit confused when Trump insisted that Mike Pence could help change the outcome of the election."
+    publishedDateTime: 2021-02-19T13:32:00Z
+    webUrl: "https://www.mcall.com/opinion/readers-react/mc-opi-let-jayson-vice-president-moderator-20210219-hqzqmfilu5bcdd5qa5sob4bjuu-story.html"
+    ampWebUrl: "https://www.mcall.com/opinion/readers-react/mc-opi-let-jayson-vice-president-moderator-20210219-hqzqmfilu5bcdd5qa5sob4bjuu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mcall-com.cdn.ampproject.org/c/s/www.mcall.com/opinion/readers-react/mc-opi-let-jayson-vice-president-moderator-20210219-hqzqmfilu5bcdd5qa5sob4bjuu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Morning Call PA
+      domain: mcall.com
+    quality: 105
+    images:
+      - url: "https://www.mcall.com/resizer/lpsnfBJUJUtTvbOYrIUC88Bam8w=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/O3PGN7WAJBQNHWEBIAZALJ3FXI.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "With Trump out of office, U.S. rejoins Paris climate accord"
+    excerpt: "The United States formally rejoins the Paris Agreement today, after former President Trump withdrew from the treaty. President Biden has called climate change the \"number one issue facing humanity,\" CBS News climate and energy reporter Cara Korte joins \"CBSN AM\" to talk about the significance of the world's second-biggest carbon emitter rejoining the global effort to address the climate crisis."
+    publishedDateTime: 2021-02-19T14:25:00Z
+    webUrl: "https://www.cbsnews.com/video/us-rejoins-paris-climate-accord/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/19/939fdc15-b76d-48f5-93ee-d443aa1c7d3d/thumbnail/1200x630/86d4c708335368c59f9902348a1b01f6/cbsn-fusion-with-donald-trump-out-of-office-us-rejoins-paris-climate-accord-thumbnail-649487-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Senate acquits Trump for second time after week-long trial | Impeachment This Week"
+    excerpt: "House managers argue former president Trump incited an insurrection in a dramatic and swift Senate impeachment trial. Come inside the proceedings with The Washington Post."
+    publishedDateTime: 2021-02-14T14:53:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/senate-acquits-trump-for-second-time-after-week-long-trial-impeachment-this-week/2021/02/14/cc1c1e64-93f5-4792-92a8-5bb39eb0635b_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 99
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/02-11-2021/t_3663950b3bda48959ae2d8edf9d83996_name_ImpeachmentThisWeek_Week3_2021_Thumb_v01.png&w=1080"
+        width: 1080
+        height: 608
+        isCached: true
+  - title: "Trump just beat his 2nd impeachment conviction, but a massive tsunami of legal peril still awaits"
+    excerpt: "Trump impeachment trial No. 2 ended with acquittal. But federal, state, and local investigations continue into his presidency, campaign, business interests, and taxes."
+    publishedDateTime: 2021-02-14T18:48:00Z
+    webUrl: "https://www.businessinsider.com/trump-federal-state-local-investigation-prosecution-georgia-call-2021-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 92
+    images:
+      - url: "https://i.insider.com/60284292b3c2a800183ccc73?width=700"
+        width: 700
+        height: 525
+        isCached: true
+  - title: "New Evidence Shows Trump Used Riot To Pressure Congress to Steal Election"
+    excerpt: "Trump encouraged a public demonstration, promised in advance it would be “wild,” instructed his supporters that extraordinary measures were needed to save the republic from his “landslide” election being stolen,"
+    publishedDateTime: 2021-02-13T20:33:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/02/trump-kevin-mccarthy-phone-call-capitol-riot-insurrection-beutler-impeachment-evidence.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/02/trump-kevin-mccarthy-phone-call-capitol-riot-insurrection-beutler-impeachment-evidence.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/02/trump-kevin-mccarthy-phone-call-capitol-riot-insurrection-beutler-impeachment-evidence.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 89
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/caa/19d/fef718778529089fbfd650e8f94599486d-capitol-rioters.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Senate votes to acquit Donald Trump in second impeachment trial"
+    excerpt: "Enough senators have cast “not guilty” votes to acquit Donald Trump of inciting the Jan. 6 attack on the U.S. Capitol. The vote will give the former president an historic second acquittal in an. House Democrats,"
+    publishedDateTime: 2021-02-13T19:56:00Z
+    webUrl: "https://www.nj.com/politics/2021/02/senate-votes-to-acquit-donald-trump-in-second-impeachment.html"
+    ampWebUrl: "https://www.nj.com/politics/2021/02/senate-votes-to-acquit-donald-trump-in-second-impeachment.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/politics/2021/02/senate-votes-to-acquit-donald-trump-in-second-impeachment.html?outputType=amp"
+    type: article
+    provider:
+      name: NJ.com
+      domain: nj.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/PZI32QIMWNHVBNRMW27OKGUDRM.jpg"
+        width: 6000
+        height: 4000
+        isCached: true
+  - title: "Senate Acquits Trump With Seven Republicans Joining All 50 Democrats in Voting ‘Guilty’"
+    excerpt: "Mitch McConnell spoke after the verdict to denounce Trump’s conduct while insisting his trial was unconstitutional."
+    publishedDateTime: 2021-02-14T02:38:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/02/senate-acquits-trump-with-seven-republicans-defecting.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/02/senate-acquits-trump-with-seven-republicans-defecting.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/02/senate-acquits-trump-with-seven-republicans-defecting.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 67
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/4f7/742/f99a5a8f182f257ba6fe3100462802bb5d-impeachment-trial-verdict-screencap.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "2 Impeachment Trials, 2 Escape Hatches for Donald Trump"
+    excerpt: "Donald Trump’s first impeachment trial centered on a phone call that Americans never heard with the leader of a country far away, Ukraine."
+    publishedDateTime: 2021-02-14T05:41:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-02-14/2-impeachment-trials-2-escape-hatches-for-donald-trump"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-14/2-impeachment-trials-2-escape-hatches-for-donald-trump?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-14/2-impeachment-trials-2-escape-hatches-for-donald-trump?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "The Latest: Senators to Consider Witnesses in Trump Trial"
+    excerpt: "The Latest on former President Donald Trump's second Senate impeachment trial (all times local): Senators have voted to consider witnesses in the impeachment trial of former President Donald Trump. Closing arguments were expected Saturday with no witnesses called."
+    publishedDateTime: 2021-02-13T16:35:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-02-13/the-latest-senators-await-closing-arguments-in-trump-trial"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-13/the-latest-senators-await-closing-arguments-in-trump-trial?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-13/the-latest-senators-await-closing-arguments-in-trump-trial?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "On Jersey Shore, Crumbling Trump Plaza Hotel Is Demolished"
+    excerpt: "Crowds cheered as the Trump Plaza Hotel and Casino in Atlantic City was demolished on Wednesday, the oceanfront eyesore bearing the name of the former U.S. president disappearing in a cascading collapse."
+    publishedDateTime: 2021-02-17T20:46:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-02-17/on-jersey-shore-crumbling-trump-plaza-hotel-is-demolished"
+    ampWebUrl: "https://www.usnews.com/news/us/articles/2021-02-17/on-jersey-shore-crumbling-trump-plaza-hotel-is-demolished?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2021-02-17/on-jersey-shore-crumbling-trump-plaza-hotel-is-demolished?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "With Republican Firewall, U.S. Senate Acquits Trump of Inciting Deadly Capitol Riot"
+    excerpt: "Donald Trump's second impeachment trial could conclude on Saturday, leaving a divided U.S. Senate to decide whether the former president incited his supporters to attack the U.S. Capitol on Jan. 6 in a last-ditch effort to stay in power after his November election defeat."
+    publishedDateTime: 2021-02-14T22:19:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-02-13/trump-impeachment-trial-could-wrap-up-on-saturday-conviction-seen-unlikely"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-02-13/trump-impeachment-trial-could-wrap-up-on-saturday-conviction-seen-unlikely?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-02-13/trump-impeachment-trial-could-wrap-up-on-saturday-conviction-seen-unlikely?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
+  - title: "Nevada Senators Vote to Convict Trump in Impeachment Trial"
+    excerpt: "Former President Donald Trump’s second impeachment trial ended Saturday with an acquittal as both of Nevada’s two Democratic senators voted in a majority that fell short of the two-thirds needed for conviction."
+    publishedDateTime: 2021-02-13T22:57:00Z
+    webUrl: "https://www.usnews.com/news/best-states/nevada/articles/2021-02-13/nevada-senators-vote-to-convict-trump-in-impeachment-trial"
     type: article
     provider:
       name: U.S. News & World Report

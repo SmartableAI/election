@@ -137,6 +137,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Fact check: Joe Biden did not predict or manipulate the weather that caused the Texas freeze"
+    excerpt: "A post circulating on Facebook claims that President Joe Biden “manipulated” and “controlled” the weather to cause the Texas deep freeze in mid-February 2021 that has left millions without power and at least 21 people dead."
+    publishedDateTime: 2021-02-19T20:54:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-biden-not-control-weather-idUSKBN2AJ1VU"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AJ1VU"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AJ1VU"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 114
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210219&t=2&i=1552173574&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1I12Z"
+        width: 818
+        height: 545
+        isCached: true
 
 secured: "U11EFWju0plmnQySYQ3BRJS9Sl5Vg8NN7S8++AcmcoRxwb+5KHQYYjGcog15YMtQOUlG3d3vo874WlzCcC+3duljn1lvvyUiioBd5rOv3PoeoOjW4dIG2NDewf/Tnbt5MWdRCR8AWAovPr2bIC0ITbrT/xTjF/TuSamObBeR2qJaIYtelG9TmsEBv8+2P380ChiUtxMQI0k+vNx8HBeAf2/O1Yh1xj8Ao789mqyPPDqTJi8xVhlJkJJlCuVo14/eRNVyrY8tGiMD/Xyb0pYvYLGWp4lh6OkpUK07GkCavITpMbd7kMj1D3ld0bikfHZ9LwRY3PtuzywIpB28jv6tm+y/hFTuNNB4B8EIrsuSnLk=;HiTX6ve3sA0cRFiKP9qs/A=="
 ---

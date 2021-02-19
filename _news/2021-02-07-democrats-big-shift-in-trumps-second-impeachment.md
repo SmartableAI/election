@@ -46,6 +46,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration admits first group of migrants forced to stay in Mexico under Trump-era policy"
+    excerpt: "Twenty-five migrants who had been forced to stay in Mexico crossed the US border in San Diego on Friday, the first group to arrive in the country as part of the Biden administration's roll back of a controversial Trump-era policy, according to a source with knowledge of the process.\n    \n"
+    publishedDateTime: 2021-02-19T20:35:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Y1SnQOoP2D4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/19/politics/immigration-us-mexico-border/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/19/politics/immigration-us-mexico-border/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 176
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200722131340-commuters-show-their-ids-as-entering-to-the-united-states-at-the-san-ysidro-crossing-port-in-tijuana-baja-california-state-mexico-on-june-16-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump's second impeachment trial begins Tuesday"
     excerpt: "The second impeachment trial of former President Donald Trump begins in the Senate on Tuesday, where senators will be confronted with the violent events of the January 6 riots and whether Trump is culpable for inciting the insurrectionists that attacked the Capitol and placed their lives in danger.\n"
     publishedDateTime: 2021-02-09T11:53:06Z

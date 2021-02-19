@@ -79,6 +79,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "GOP candidates in Ohio Senate race compete over who is more pro-Trump"
+    excerpt: "GOP candidates in Ohio Senate race try to out-Trump each other"
+    publishedDateTime: 2021-02-19T19:39:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Zncyd5N32MM/ohio-senate-republicans-trump-support"
+    ampWebUrl: "https://www.foxnews.com/politics/ohio-senate-republicans-trump-support.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ohio-senate-republicans-trump-support.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Graham: McConnell 'put a load on Republicans' back' with anti-Trump speech"
     excerpt: "Sen. Lindsey Graham, R-S.C., called out Senate Minority Leader Mitch McConnell for speaking out against former President Donald Trump after voting to acquit Trump at his impeachment trial."
     publishedDateTime: 2021-02-14T15:27:21Z

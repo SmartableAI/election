@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Q30X"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Q30X"
 type: article
 quality: 125
-heat: 985
+heat: 965
 published: true
 
 provider:
@@ -238,22 +238,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/12/29/NGCT/92163326-189a-4575-861a-7c419df0f18b-SCHUMER.jpg?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Impeachment: five Republicans join vote for witnesses in Trump Senate trial"
-    excerpt: "Romney, Collins, Murkowski, Sasse and Graham vote for witnesses after GOP congresswoman’s statement about Trump-McCarthy call"
-    publishedDateTime: 2021-02-13T16:15:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/feb/13/impeachment-five-republicans-vote-witnesses-trump-senate-trial"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/13/impeachment-five-republicans-vote-witnesses-trump-senate-trial"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/13/impeachment-five-republicans-vote-witnesses-trump-senate-trial"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 123
-    images:
-      - url: "https://i.guim.co.uk/img/media/3a013eae8bda52e500c89cfd7ab69908166e7a3d/0_65_3132_1879/master/3132.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=af2beeaf14bcb64ec860a5c7104b044e"
-        width: 600
-        height: 360
         isCached: true
   - title: "‘Not going to lose my son and my republic’: Jamie Raskin on Trump impeachment"
     excerpt: "Last modified on Sun 17 Jan 2021 11.07 EST Jamie Raskin, the House Democrat leading the impeachment of Donald Trump, remembered his son Tommy on Sunday and said: “I’m not going to lose my son at the end of 2020 and lose my country and my republic in 2021."

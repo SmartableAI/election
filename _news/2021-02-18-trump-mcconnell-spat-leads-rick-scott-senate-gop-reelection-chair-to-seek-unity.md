@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-mcconnell-spat-rick-scott-see
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-mcconnell-spat-rick-scott-seeks-unity.amp"
 type: article
 quality: 185
-heat: 625
+heat: 645
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/12705019-b2cd-4cc2-8acd-3a31ff1520a0/4af5124e-0b28-456d-a628-83df78e1dc43/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "GOP candidates in Ohio Senate race compete over who is more pro-Trump"
+    excerpt: "GOP candidates in Ohio Senate race try to out-Trump each other"
+    publishedDateTime: 2021-02-19T19:39:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Zncyd5N32MM/ohio-senate-republicans-trump-support"
+    ampWebUrl: "https://www.foxnews.com/politics/ohio-senate-republicans-trump-support.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ohio-senate-republicans-trump-support.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Graham: McConnell 'put a load on Republicans' back' with anti-Trump speech"
     excerpt: "Sen. Lindsey Graham, R-S.C., called out Senate Minority Leader Mitch McConnell for speaking out against former President Donald Trump after voting to acquit Trump at his impeachment trial."

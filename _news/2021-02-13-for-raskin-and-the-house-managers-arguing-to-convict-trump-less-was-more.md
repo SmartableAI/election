@@ -79,22 +79,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Dem retreat on witnesses brings messy end to Trump trial"
-    excerpt: "The Democrats who prosecuted Donald Trump’s impeachment trial are facing criticism from some senators over an attempt to call witnesses"
-    publishedDateTime: 2021-02-14T06:36:00Z
-    webUrl: "https://www.washingtonpost.com/politics/dem-retreat-on-witnesses-brings-messy-end-to-trump-trial/2021/02/13/11063642-6e65-11eb-a66e-e27046e9e898_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/dem-retreat-on-witnesses-brings-messy-end-to-trump-trial/2021/02/13/11063642-6e65-11eb-a66e-e27046e9e898_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/dem-retreat-on-witnesses-brings-messy-end-to-trump-trial/2021/02/13/11063642-6e65-11eb-a66e-e27046e9e898_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "First Thing: Donald Trump is still a threat to democracy, Democrats warn"
     excerpt: "House impeachment managers urged senators to prevent Trump from holding office again. Plus, former Republican officials discuss creating a new party"
     publishedDateTime: 2021-02-12T11:00:00Z
@@ -110,22 +94,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/f4bfab89ddac12bbf3dee6a18a09c0b5d9c9f682/0_240_3600_2161/master/3600.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=895a439e7f0467a5b64fd9c0dfbe5df6"
         width: 600
         height: 360
-        isCached: true
-  - title: "Democrats say calling witnesses in Trump impeachment trial could have cost them GOP votes"
-    excerpt: "\"Listen, we didn't need more witnesses. We needed more senators with spines,\" Del. Stacey Plaskett said Sunday."
-    publishedDateTime: 2021-02-15T04:12:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/14/trump-impeachment-witnesses-may-have-cost-republican-votes/4481602001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4481602001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4481602001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 116
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/02/14/USAT/c4adb8f0-dc41-4614-a642-5f87d176664b-GTY_1302002799.jpg?auto=webp&crop=5104,2871,x1277,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Impeachment managers say insurrectionists came to Capitol because Trump 'told them to' – live"
     excerpt: "Congresswoman Diana DeGette says insurrectionists even questioned why police tried to block them as they followed Trump’s instructions"
@@ -143,6 +111,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "McConnell would have happily considered finding Trump guilty, were it not for Mitch McConnell"
+    excerpt: "There’s no question, none, that President Trump is practically and morally responsible for provoking” the attack on the U.S. Capitol on Jan. 6, Senate Minority Leader Mitch McConnell (R-Ky.) said Saturday,"
+    publishedDateTime: 2021-02-14T20:23:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/02/13/mcconnell-would-have-happily-considered-finding-trump-guilty-were-it-not-mitch-mcconnell/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/02/13/mcconnell-would-have-happily-considered-finding-trump-guilty-were-it-not-mitch-mcconnell/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/02/13/mcconnell-would-have-happily-considered-finding-trump-guilty-were-it-not-mitch-mcconnell/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 114
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/02-13-2021/t_ed8daf3ec7794d9486c5ced0b3c93c00_name_McConnell.jpg&w=1440"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump was pictured golfing as Democrats hammered home the case against him at his impeachment trial"
     excerpt: "Mail published photos of Trump golding at his Florida resort during his impeachment trial, and a CNN anchor said he was pictured."
     publishedDateTime: 2021-02-12T10:41:00Z
@@ -156,20 +140,6 @@ related:
     quality: 111
     images:
       - url: "https://i.insider.com/60265266b3c2a800183cc858?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "7 yuuge reasons Donald Trump isn't going away"
-    excerpt: "Insider identified seven weapons in Trump's arsenal — like political committees, government facilities, and media platforms — for staging a comeback."
-    publishedDateTime: 2021-02-15T02:25:00Z
-    webUrl: "https://www.businessinsider.com/where-is-donald-trump-new-2024-campaign-committee-2021-2"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-    images:
-      - url: "https://i.insider.com/60149ab66dfbe10018e00e73?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

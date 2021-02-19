@@ -95,21 +95,21 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Toomey, who once unified the GOP, now on the outs over Trump"
-    excerpt: "Before he became the object of fury of Republicans for voting to convict Donald Trump during the former president’s second impeachment trial, U.S. Sen. Pat Toomey of Pennsylvania was once the insurgen"
-    publishedDateTime: 2021-02-19T18:16:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/toomey-unified-gop-now-outs-trump-75999311"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/toomey-unified-gop-now-outs-trump-75999311"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/toomey-unified-gop-now-outs-trump-75999311"
+  - title: "Trump-McConnell clash threatens to settle into a cold war as GOP eyes midterms"
+    excerpt: "Republicans said the veteran Senate leader is unlikely to carry on in a back-and-forth with the former president. However, it’s unclear how far Trump will pursue his vendetta."
+    publishedDateTime: 2021-02-18T05:41:00Z
+    webUrl: "https://www.washingtonpost.com/powerpost/trump-mcconnell-clash-threatens-to-settle-into-a-cold-war-as-gop-eyes-midterms/2021/02/17/3c156db6-7136-11eb-b8a9-b9467510f0fe_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/powerpost/trump-mcconnell-clash-threatens-to-settle-into-a-cold-war-as-gop-eyes-midterms/2021/02/17/3c156db6-7136-11eb-b8a9-b9467510f0fe_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/powerpost/trump-mcconnell-clash-threatens-to-settle-into-a-cold-war-as-gop-eyes-midterms/2021/02/17/3c156db6-7136-11eb-b8a9-b9467510f0fe_story.html?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 121
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_bb6ab5e111f7413bbf33688d4f738d46_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4MBZFJTOF4I6XJTO4JYEN2PITA.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Maine GOP scolds Susan Collins for her vote to convict Trump on impeachment charge"
     excerpt: "Maine's GOP condemned \"in the strongest possible terms\" Collins' vote to hold Trump responsible for inciting the deadly insurrection at the Capitol."
@@ -127,22 +127,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "3 charts show where young Republicans are splitting from GOP elders — and from Trump"
-    excerpt: "On some foreign policy issues, young Republicans are closer to the Democratic mainstream than to their Republican elders."
-    publishedDateTime: 2021-02-16T16:48:00Z
-    webUrl: "https://www.businessinsider.com/young-republicans-split-from-gop-elders-trump-on-foreign-policy-2021-2"
-    ampWebUrl: "https://www.businessinsider.com/young-republicans-split-from-gop-elders-trump-on-foreign-policy-2021-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/young-republicans-split-from-gop-elders-trump-on-foreign-policy-2021-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 118
-    images:
-      - url: "https://i.insider.com/602bf686b3c2a800183ccf0c?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "GOP Gov. Larry Hogan Urges Party to Leave 'Cult of Donald Trump,' Hails Conviction Votes"
     excerpt: "\"I was very proud of some of the folks who stood up and did the right thing,\" the Maryland governor said Sunday of senators who voted to convict Trump."
     publishedDateTime: 2021-02-14T16:00:00Z
@@ -158,50 +142,6 @@ related:
       - url: "https://d.newsweek.com/en/full/1734741/larry-hogan.jpg"
         width: 1024
         height: 683
-        isCached: true
-  - title: "Live updates: Senate must convict Trump to ensure no future president incites insurrection, Democrats say"
-    excerpt: "Day 3 of former President Donald Trump's second impeachment trial has begun. The Democratic impeachment managers will use up to eight hours to wrap up their case against the ex-pr"
-    publishedDateTime: 2021-02-11T18:45:00Z
-    webUrl: "https://www.cnbc.com/2021/02/11/trump-impeachment-trial-live-updates-day-3.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/02/11/trump-impeachment-trial-live-updates-day-3.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/02/11/trump-impeachment-trial-live-updates-day-3.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 108
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106839426-1613066740937-gettyimages-1231104598-brave_zvrabgh107.jpg?v=1613066758"
-        width: 1582
-        height: 1024
-        isCached: true
-  - title: "Former Trump casino where stars played going out with a bang"
-    excerpt: "By mid-morning Wednesday, a spot on the Atlantic City Boardwalk where movie stars, athletes and rock stars used to party and a future president honed his instincts for bravado and hype will be reduced"
-    publishedDateTime: 2021-02-17T11:18:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/trump-casino-stars-played-bang-75939909"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 105
-    images:
-      - url: "https://s.abcnews.com/images/Lifestyle/WireAP_49778b8120a944ae8db449620e6ec9bc_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "CPAC is taking Trump's side in the battle for the soul of the GOP"
-    excerpt: "This year's flagship conservative event is also notable for who is not showing up. Establishment GOP leaders like Mitch McConnell, Kevin McCarthy and Mike Pence are so far not listed as speakers."
-    publishedDateTime: 2021-02-18T08:29:00Z
-    webUrl: "https://www.businessinsider.com/cpac-2021-speakers-trump-pence-orlando-republican-conservative-2021-2"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-    images:
-      - url: "https://i.insider.com/602c67945847630018323658?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Sen. Ben Sasse: GOP Must Persuade Voters It Has A Vision Beyond Donald Trump"
     excerpt: "The Republican from Nebraska speaks with NPR's Steve Inskeep about the impeachment of former President Donald Trump, the future of the GOP and working with the Biden administration."
@@ -233,20 +173,17 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "'I don't want to come back:' As Trump trial opens, Democrat recalls daughter's fear during riot"
-    excerpt: "U.S. House lead impeachment manager Rep. Jamie Raskin (D-MD) becomes emotional as he discusses his and his family's experiences inside the U.S. Capitol building during the siege on Jan. 6 and his daug"
-    publishedDateTime: 2021-02-11T00:25:00Z
-    webUrl: "https://www.reuters.com/news/picture/i-dont-want-to-come-back-as-trump-trial-idUSKBN2A92YV"
+  - title: "Trump Rips McConnell as GOP Divide Deepens Post-Capitol Riot"
+    excerpt: "Former President Donald Trump has issued a blistering statement denouncing the top Republican in the Senate, Mitch McConnell, as a “political hack” who will make sure the party “will not win again.\"."
+    publishedDateTime: 2021-02-17T09:10:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-02-16/trump-slams-mcconnell-as-gop-divide-deepens-post-impeachment"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-16/trump-slams-mcconnell-as-gop-divide-deepens-post-impeachment?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-16/trump-slams-mcconnell-as-gop-divide-deepens-post-impeachment?context=amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 93
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210210&t=2&i=1551085705&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEH181S5"
-        width: 810
-        height: 455
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "td99gn+Fbnz8AdHnX8Xl3QA/VH10+Gz1Zx0XjL9JmuazNP+oTgbTVVQ9waDxaMauXIzvG02nYPRSCIUQGpDIN4VZbw0QBGtaMxulqnGRlHEvLWexSEJdLK2wNZfUwR2PdIl86W9lsIAV1z3/EmxNOaRRCVtvviTOqa8DCgRVUdpIujbx5JkLUabxMnU/eMnRR5x2FWLdPpNV9YNUNi2A9vzGqUMpKW14JBs/fzxwcS24mtSGGfBHXw7ojG3bhdTe+/mq6d27cIMUcPZiNZiP9iVdleaesGlQqCsM2kGd0kR2Ebxby30mSmVkwYiBwfRY7U/4i3Hbb5Ruq0Vb5WaVD5YNT/2u2ITKfPoxrm1A6cR7CAKqCVzU5BbZTn90kKYCfZ/MPgRuMOV1ZHihFbvp+Wlb8VGgEf9yveuGh+CuX4XnWfL8GAWj+VbwWy3pVS2DzAj273PiZMqvZEnz9VzosxP38CaonB9WFOGeT1MizhL+CZ6XjLo6UOf6lGr0VpilRzXxRi2phThBagfJg82SoQ==;leAs0HenXK2tJBQ8tXIfAg=="
 ---

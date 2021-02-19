@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/trump-happy-with-lawyers-calling-tri
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-happy-with-lawyers-calling-trial-constitutional-cancel-culture-2021-2?amp"
 type: article
 quality: 106
-heat: 126
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -31,19 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Trump just beat his 2nd impeachment conviction, but a massive tsunami of legal peril still awaits"
-    excerpt: "Trump impeachment trial No. 2 ended with acquittal. But federal, state, and local investigations continue into his presidency, campaign, business interests, and taxes."
-    publishedDateTime: 2021-02-14T18:48:00Z
-    webUrl: "https://www.businessinsider.com/trump-federal-state-local-investigation-prosecution-georgia-call-2021-1"
+  - title: "Sen. Blumenthal calls Trump's defense an 'insult to all of our intelligence'"
+    excerpt: "Friday evening following the fourth day of former President Trump’s impeachment trial said that the Trump defense team’s response to questions from senators on details surrounding the then-president’s response to the Jan."
+    publishedDateTime: 2021-02-13T18:45:00Z
+    webUrl: "https://thehill.com/homenews/senate/538749-sen-blumenthal-calls-trump-teams-defense-an-insult-to-all-of-our-intelligence"
+    ampWebUrl: "https://thehill.com/homenews/senate/538749-sen-blumenthal-calls-trump-teams-defense-an-insult-to-all-of-our-intelligence?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/538749-sen-blumenthal-calls-trump-teams-defense-an-insult-to-all-of-our-intelligence?amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 92
+      name: The Hill
+      domain: thehill.com
+    quality: 122
     images:
-      - url: "https://i.insider.com/60284292b3c2a800183ccc73?width=700"
-        width: 700
-        height: 525
+      - url: "https://thehill.com/sites/default/files/blumenthalrichard_111020bc_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Read Donald Trump's Full Statement on Mitch McConnell, His First Since Impeachment"
+    excerpt: "In his first full statement since being impeached by the House, former President Donald Trump said Senate Minority Leader Mitch McConnell was \"seriously hurting our Country.\""
+    publishedDateTime: 2021-02-16T22:43:00Z
+    webUrl: "https://www.newsweek.com/read-donald-trumps-full-statement-mitch-mcconnell-his-first-since-impeachment-1569753"
+    ampWebUrl: "https://www.newsweek.com/read-donald-trumps-full-statement-mitch-mcconnell-his-first-since-impeachment-1569753?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/read-donald-trumps-full-statement-mitch-mcconnell-his-first-since-impeachment-1569753?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 119
+    images:
+      - url: "https://d.newsweek.com/en/full/1737290/mitch-mcconnell-donald-trump-statement-impeachment.jpg"
+        width: 2474
+        height: 1392
         isCached: true
 
 secured: "VwCKXVg1dFWqyTKia+HiqO7EOjnmF43sKcErBy8zxoniU0XwRpUMBZ4GGoKA1V7n9l8du74h/JKE/AdVhNy+XEwlbR5/bVirjUraoMiDg/xFI+gD3xXTX0jTblBMwhz14OkLIX6grw29VifuWGSL6YWVNkJFBVzD1fDqRreD8ZBXnvW1fcgS4aAqFUNmHL+787udsqyUsl6rFPVX2Tpm5Y7AlbxbJmZ5t75EJJBrtN2nyRuEPy+p/W+non+PSFYY3JnYqyiBSQ3BgCBv2DCkQDPGjaFq7a16JWcl/3HW3WU1YrtpKBnxvxM2WeF3SlFGiHTyJz4NT+96Gu8bCatGCPrUjJbydT/OM96zAmOrRMs=;KFiNsTF/qDn01E3WMLRCzw=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/qanon-march4-trump-president-proud-boys-157
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/qanon-march4-trump-president-proud-boys-1570274?amp=1"
 type: article
 quality: 117
-heat: 157
+heat: 137
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "The overwhelming lesson of the Trump era: Republicans often rebuke Trump -- when they have latitude"
-    excerpt: "Of Republicans who have retired or lost primaries during the Trump era, half have rebuked him in significant ways. About one-third have made big breaks with him."
-    publishedDateTime: 2021-02-17T15:59:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/02/17/overwhelming-lesson-trump-era-republicans-rebuke-trump-when-its-convenient/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/02/17/overwhelming-lesson-trump-era-republicans-rebuke-trump-when-its-convenient/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/02/17/overwhelming-lesson-trump-era-republicans-rebuke-trump-when-its-convenient/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 111
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HKNBETSRPII6TCFB5U2G6DWJJ4.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Donald Trump Shows Nixon’s Pardon Was What America Needed"
     excerpt: "This article is part of the The DC Brief, TIME’s politics newsletter. Sign up here to get stories like this sent to your inbox"
     publishedDateTime: 2021-02-17T04:04:00Z

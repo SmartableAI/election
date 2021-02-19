@@ -2820,6 +2820,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Biden admin targets Trump's let-the-water-flow legacy and other energy efficiency rules"
+    excerpt: "Former President Donald Trump's effort to loosen regulations dictating the water-flow levels of many household appliances and fixtures is under threat with the Biden administration announcing it will launch a federal review of several Trump-era rules and regulations governing the topic,"
+    publishedDateTime: 2021-02-19T19:29:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/biden-administration-targets-trump-s-water-flow-legacy-other-energy-n1258343"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 122
+    images:
+      - url: "https://media1.s-nbcnews.com/j/newscms/2021_07/3451346/210219-donald-trump-al-1441_d9ef4324f03a3941bd52547ee22e4372.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "How the First Day of the Trump Presidency Foreshadowed The Four Years to Come"
     excerpt: "President Donald Trump and first lady Melania Trump walk along the inauguration day parade route on Pennsylvania Avenue after he was sworn in as the 45th President of the United States in Washington."
     publishedDateTime: 2021-01-19T09:30:00Z

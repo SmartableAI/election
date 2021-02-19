@@ -31,65 +31,52 @@ images:
     isCached: true
 
 related:
-  - title: "Donald Trump’s version of an insanity defense: His critics are insane"
-    excerpt: "In the summer of 2015, two months after Donald Trump announced he was running for president, a blogger named Esther Goldberg read a Washington Post column by the conservative commentator George F. Will that accused Trump of being phony,"
-    publishedDateTime: 2021-02-12T11:07:00Z
-    webUrl: "https://www.washingtonpost.com/lifestyle/style/trump-derangement-syndrome-impeachment/2021/02/11/a6ffa7b6-6ca6-11eb-9ead-673168d5b874_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/lifestyle/style/trump-derangement-syndrome-impeachment/2021/02/11/a6ffa7b6-6ca6-11eb-9ead-673168d5b874_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/style/trump-derangement-syndrome-impeachment/2021/02/11/a6ffa7b6-6ca6-11eb-9ead-673168d5b874_story.html?outputType=amp"
+  - title: "Investigating Trump a big early move for Atlanta’s new DA"
+    excerpt: "A Georgia district attorney who took office barely a month ago is leading an investigation that could bring charges against former President Trump."
+    publishedDateTime: 2021-02-15T18:15:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2021-02-15/investigating-trump-a-big-early-move-for-atlantas-new-da"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-02-15/investigating-trump-a-big-early-move-for-atlantas-new-da?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-02-15/investigating-trump-a-big-early-move-for-atlantas-new-da?_amp=true"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: Los Angeles Times
+      domain: latimes.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/36HVADTMXII6XOSW27RMRXX2GE.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/7256e58/2147483647/strip/true/crop/4740x3096+0+75/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe4%2Fc6%2F15d8761a5d68b5bcf400b9a1668c%2F77cd140b3ef44640b8cad1fecac995aa"
+        width: 320
+        height: 209
         isCached: true
-  - title: "Sen. Blumenthal calls Trump's defense an 'insult to all of our intelligence'"
-    excerpt: "Friday evening following the fourth day of former President Trump’s impeachment trial said that the Trump defense team’s response to questions from senators on details surrounding the then-president’s response to the Jan."
-    publishedDateTime: 2021-02-13T18:45:00Z
-    webUrl: "https://thehill.com/homenews/senate/538749-sen-blumenthal-calls-trump-teams-defense-an-insult-to-all-of-our-intelligence"
-    ampWebUrl: "https://thehill.com/homenews/senate/538749-sen-blumenthal-calls-trump-teams-defense-an-insult-to-all-of-our-intelligence?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/538749-sen-blumenthal-calls-trump-teams-defense-an-insult-to-all-of-our-intelligence?amp"
+  - title: "Wednesday's Trump Plaza implosion signals end of an era in Atlantic City"
+    excerpt: "The tower of the abandoned Trump Plaza Hotel and Casino on the Atlantic City Boardwalk is set to fall Wednesday morning around 8:30 a.m. EST."
+    publishedDateTime: 2021-02-17T12:15:00Z
+    webUrl: "https://www.usatoday.com/story/travel/news/2021/02/17/watch-trump-casino-tower-atlantic-city-implosion/6778261002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6778261002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6778261002"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 122
+      name: USA Today
+      domain: usatoday.com
+    quality: 124
     images:
-      - url: "https://thehill.com/sites/default/files/blumenthalrichard_111020bc_lead.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Contradicting defense lawyers, sources say Trump put Pence's life in danger and didn't check in after the riot"
-    excerpt: "\"At no point was the president informed the vice president was in any danger,\" Trump's lawyer Michael van der Veen said."
-    publishedDateTime: 2021-02-13T13:12:00Z
-    webUrl: "https://www.businessinsider.com/trumps-lawyer-pence-team-capitol-riot-life-danger-2021-2"
-    ampWebUrl: "https://www.businessinsider.com/trumps-lawyer-pence-team-capitol-riot-life-danger-2021-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-lawyer-pence-team-capitol-riot-life-danger-2021-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 120
-    images:
-      - url: "https://i.insider.com/5ffd1f0ad184b30018aae383?width=1200&format=jpeg"
+      - url: "https://www.gannett-cdn.com/presto/2021/02/17/USAT/2eea21a0-c5a4-4f9a-9598-fccc4182ab95-AP_Ex_Trump_Casino_Implosion.jpg?auto=webp&crop=5999,3374,x0,y305&format=pjpg&width=1200"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
-  - title: "On Jersey Shore, Crumbling Trump Plaza Hotel Is Demolished"
-    excerpt: "Crowds cheered as the Trump Plaza Hotel and Casino in Atlantic City was demolished on Wednesday, the oceanfront eyesore bearing the name of the former U.S. president disappearing in a cascading collapse."
-    publishedDateTime: 2021-02-17T20:46:00Z
-    webUrl: "https://www.usnews.com/news/us/articles/2021-02-17/on-jersey-shore-crumbling-trump-plaza-hotel-is-demolished"
-    ampWebUrl: "https://www.usnews.com/news/us/articles/2021-02-17/on-jersey-shore-crumbling-trump-plaza-hotel-is-demolished?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2021-02-17/on-jersey-shore-crumbling-trump-plaza-hotel-is-demolished?context=amp"
+  - title: "In Seconds, Atlantic City's Trump Plaza Hotel And Casino Is Reduced To Rubble"
+    excerpt: "The Trump Plaza had stood along the boardwalk since 1984. The shell of the former president's failed business, which closed in 2014, came crumbling down Wednesday morning."
+    publishedDateTime: 2021-02-18T02:37:00Z
+    webUrl: "https://www.npr.org/2021/02/17/968656595/in-seconds-atlantic-citys-trump-plaza-and-casino-is-reduced-to-rubble"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
+      name: NPR
+      domain: npr.org
+    quality: 102
+    images:
+      - url: "https://media.npr.org/assets/img/2021/02/17/ap_21048535426936_wide-afb44df801b20b7121060c26f5723828e441d155.jpg?s=1400"
+        width: 1400
+        height: 786
+        isCached: true
 
 secured: "C7VUjJSaXGtjWluhL3jsX8uKop5luHrZJ+H7ldh2zfB3nZLHnuIq1q2asxwREN776kH0riocPjJW4kE1Q6gfOlRCT8yj0b+v6p+MmcLqrvkQjs79nB8YmMqow3dIkOVpHEi0eKkHLfZrZGwpA8fb07JrxB4eYSsKBh4ltYiEKhgFScbVJPQj+76BEBWB51wZ/7hx+Ig1PY4c/R0brDt9tMeyP9RzUX8mFkNZOMKAUDRBqa9meHdyrrcfbddjo9nb+yhtaoe5BzKRTMLsfJG/0dqhHlY7ZxauG0p16TEAPvGrgGPKaEmaUfp6PwnsfA4JuvzwVa7NaMn0BjSKS6jylrNhNPNah+3CuoH5pgPkRpA=;yz60AXajtuP/QHlB3tw/Iw=="
 ---

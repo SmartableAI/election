@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/plaskett-insists-trump-elected-i
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/plaskett-insists-trump-elected-impeachment-acquittal/story?id=75923392"
 type: article
 quality: 119
-heat: 139
+heat: 119
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 992
     height: 558
     isCached: true
-
-related:
-  - title: "Trump impeachment: Senate to hear prosecution arguments against former president – live"
-    excerpt: "Senate convenes at noon for impeachment managers to lay out argument to convict Donald Trump of ‘incitement of insurrection’"
-    publishedDateTime: 2021-02-10T11:17:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/10/donald-trump-impeachment-senate-trial-live-news-updates"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/10/donald-trump-impeachment-senate-trial-live-news-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/10/donald-trump-impeachment-senate-trial-live-news-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 117
-    images:
-      - url: "https://i.guim.co.uk/img/media/7d3e06af8edce2c72744e22eed1328dd95be3b46/0_0_3500_2334/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7a954cf6bba0111e0635cae7cace422e"
-        width: 600
-        height: 400
-        isCached: true
 
 secured: "gNq7hBI3m6WZAEv3vRME6jkuDJ4mhAFrtmwxYQp+sqAynzAlBGUF81WlBNzd8Zn80n6Q6OurP6JWmTVGmIOzGKC8hVMfBsZBZBd3+X3v0/CXcKtqceW3fTsd60oSguL8LTKfToqcD6exUV77nODba5YG1hvH5rCNCOEdpIk1KqNoNX3wOZdv47uVAd61JQu00TUedbV4JBn3qMd3qftf79FWDtLPdN0X0ktnXf3+5+om7WBQPIEKvombKd3ZGjfL/5UlhkHUDwmJ/E2IQaVT2+CRD7vv0EvrIV9gxXWQ0GGu2shPsjPikfAuzB7DhARh1Xcg0D5DZGgAOvr8KJFym2k8cpn303IEk9Lrjzq9hNFRpg92eQpObC4TeTb/0ly/B44EEof9nslhyUdV3zuPaFXJUvCCN1b3noawwAoS4npQKXSE7MN0u1l3/YlESC2VvBmDNRagADd8Y6m0oLM+zbOcTaP6xA5on1kEyRHJC9LKWDDGgcZcffeqJeSQ4dD6Wo7DemsqOwOzlUTcJF/reA==;DtBdkC1UzC2e002GkVIAvA=="
 ---

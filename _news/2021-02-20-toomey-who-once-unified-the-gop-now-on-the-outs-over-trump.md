@@ -31,44 +31,60 @@ images:
     isCached: true
 
 related:
-  - title: "GOP Sen. Richard Burr facing censure at home over vote to convict Trump"
-    excerpt: "The North Carolina GOP is set to vote on a censure on retiring Sen. Richard Burr in an emergency meeting Monday."
-    publishedDateTime: 2021-02-16T02:56:00Z
-    webUrl: "https://abcnews.go.com/Politics/gop-sen-richard-burr-facing-censure-home-vote/story?id=75905127"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/gop-sen-richard-burr-facing-censure-home-vote/story?id=75905127"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/gop-sen-richard-burr-facing-censure-home-vote/story?id=75905127"
+  - title: "Trump triumphant – but senior Republicans still see battles ahead"
+    excerpt: "Former president celebrates second impeachment acquittal as supporters and moderates prepare to contest party direction"
+    publishedDateTime: 2021-02-14T18:19:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/feb/14/donald-trump-impeachment-republican-party-cornyn-hogan-graham-mcconnell"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/14/donald-trump-impeachment-republican-party-cornyn-hogan-graham-mcconnell"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/14/donald-trump-impeachment-republican-party-cornyn-hogan-graham-mcconnell"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: The Guardian
+      domain: theguardian.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/burr-impeachment-5-ap-ps-210213_1613251643612_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://i.guim.co.uk/img/media/b09aaef858886f4fa0b19c990a60565bc8ffbcd7/0_99_4729_2838/master/4729.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7054ca77cdfe83aad2194ca18e75b250"
+        width: 600
+        height: 360
         isCached: true
-  - title: "Utah GOP accepts Romney's vote to convict Trump"
-    excerpt: "Utah's Republican Party on Tuesday accepted Sen. Mitt Romney's vote to convict former President Donald Trump, saying there is \"power\" in difference of opinions."
-    publishedDateTime: 2021-02-16T18:44:00Z
-    webUrl: "https://abcnews.go.com/Politics/utah-gop-accepts-romneys-vote-convict-trump/story?id=75925858"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/utah-gop-accepts-romneys-vote-convict-trump/story?id=75925858"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/utah-gop-accepts-romneys-vote-convict-trump/story?id=75925858"
+  - title: "North Carolina Republicans to meet on Burr's vote to convict Trump"
+    excerpt: "North Carolina Republican leaders will meet on Monday to discuss Senator Richard Burr's vote to convict former U.S. President Donald Trump during his impeachment trial, after he was acquitted of a charge of inciting the deadly Capitol riot,"
+    publishedDateTime: 2021-02-15T23:06:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-burr/north-carolina-republicans-to-meet-on-burrs-vote-to-convict-trump-idUSKBN2AF1P3?edition-redirect=in"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AF1P3"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AF1P3"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Reuters
+      domain: reuters.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/romney-impeachment-5-ap-ps-210213_1613251011089_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210215&t=2&i=1551619993&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1E0Z3"
+        width: 817
+        height: 545
         isCached: true
-  - title: "GOP’s Thune says Trump allies engaging in ‘cancel culture’"
-    excerpt: "Republican Sen. John Thune is criticizing activists and party leaders for engaging in “cancel culture” by rushing to censure GOP senators for voting to convict former President Donald Trump at his imp"
-    publishedDateTime: 2021-02-19T06:45:00Z
-    webUrl: "https://www.washingtonpost.com/politics/gops-thune-says-trump-allies-engaging-in-cancel-culture/2021/02/18/1be89eae-7254-11eb-8651-6d3091eac63f_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/gops-thune-says-trump-allies-engaging-in-cancel-culture/2021/02/18/1be89eae-7254-11eb-8651-6d3091eac63f_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/gops-thune-says-trump-allies-engaging-in-cancel-culture/2021/02/18/1be89eae-7254-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+  - title: "Trump lashes out at McConnell in deepening feud between top Republicans"
+    excerpt: "Former President Donald Trump lashed out at Senate Minority Leader Mitch McConnell on Tuesday, signaling a growing feud between the two most senior Republican voices after the party lost the White House and control of the Senate."
+    publishedDateTime: 2021-02-17T11:07:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-mcconnell-idUSKBN2AG2LL"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AG2LL"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AG2LL"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210216&t=2&i=1551774169&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1F1KA"
+        width: 900
+        height: 545
+        isCached: true
+  - title: "Trump slams McConnell as GOP divide deepens post-impeachment"
+    excerpt: "Former President Donald Trump has issued a blistering statement denouncing the top Republican in the Senate, Mitch McConnell, as a “political hack” who will make sure the party “will not win again.”"
+    publishedDateTime: 2021-02-17T00:51:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-slams-mcconnell-as-gop-divide-deepens-post-impeachment/2021/02/16/451fa99e-70b9-11eb-8651-6d3091eac63f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-slams-mcconnell-as-gop-divide-deepens-post-impeachment/2021/02/16/451fa99e-70b9-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-slams-mcconnell-as-gop-divide-deepens-post-impeachment/2021/02/16/451fa99e-70b9-11eb-8651-6d3091eac63f_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
@@ -79,37 +95,69 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "GOP infighting in post-Trump era threatens California recall"
-    excerpt: "Republican hopes of ousting Democratic Gov. Gavin Newsom in California could be threatened by bitter infighting within the state GOP"
-    publishedDateTime: 2021-02-19T16:16:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/republican-infighting-rattles-bid-oust-democrat-newsom-75988518"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/republican-infighting-rattles-bid-oust-democrat-newsom-75988518"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/republican-infighting-rattles-bid-oust-democrat-newsom-75988518"
+  - title: "Trump-McConnell feud threatens Republicans' path to power"
+    excerpt: "Former President Donald Trump is stepping up a political war within the Republican Party that could undermine the GOP’s ability to fight President Joe Biden’s agenda and ultimately return the party to"
+    publishedDateTime: 2021-02-18T07:25:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-mcconnell-feud-threatens-republicans-path-power-75964237"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-mcconnell-feud-threatens-republicans-path-power-75964237"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-mcconnell-feud-threatens-republicans-path-power-75964237"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_c675bfc3c964454fb6184036974f39ae_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_6116e03690dd4b53a93d6e2b3dfc7239_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Maine GOP scolds Susan Collins for her vote to convict Trump on impeachment charge"
-    excerpt: "Maine's GOP condemned \"in the strongest possible terms\" Collins' vote to hold Trump responsible for inciting the deadly insurrection at the Capitol."
-    publishedDateTime: 2021-02-18T18:38:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/18/maine-gop-condemn-republican-susan-collins-vote-convict-trump-impeachment/4492688001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4492688001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4492688001"
+  - title: "Ivanka Trump tells Rubio she won't run for his Senate seat"
+    excerpt: "Ivanka Trump will not be running for Florida Sen. Marco Rubio’s U.S. Senate seat in 2022 as she settles into life after Washington"
+    publishedDateTime: 2021-02-18T19:27:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ivanka-trump-tells-rubio-run-senate-seat-75976845"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ivanka-trump-tells-rubio-run-senate-seat-75976845"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ivanka-trump-tells-rubio-run-senate-seat-75976845"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 119
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/02/13/USAT/23a2d96f-3584-498c-9691-06a03f4f38d8-AP21044789087213.jpg?auto=webp&crop=3193,1797,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://s.abcnews.com/images/Politics/WireAP_10e1889d7f5942b58ca37f3fa5e9c9f4_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Pro-Trump women's group cannot paint mural on NYC streets, judge rules"
+    excerpt: "A conservative women's group cannot paint its own mural on New York City streets even after Mayor Bill de Blasio allowed a yellow \"Black Lives Matter\" mural to be painted outside Trump Tower, a federal judge in Manhattan ruled on Thursday."
+    publishedDateTime: 2021-02-19T02:08:00Z
+    webUrl: "https://www.reuters.com/article/us-new-york-mural-lawsuit-idUSKBN2AI2TR"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AI2TR"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AI2TR"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210218&t=2&i=1552057883&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1H1P9"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Trump lashes out after McConnell blames him for Capitol insurrection – live"
+    excerpt: "Senate minority leader has said Trump is ‘practically and morally’ responsible for US Capitol attack"
+    publishedDateTime: 2021-02-17T00:37:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/16/joe-biden-covid-coronavirus-economy-andrew-cuomo-donald-trump-live-updates?page=with:block-602c3e0f8f08cafb5cc2b40f"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/16/joe-biden-covid-coronavirus-economy-andrew-cuomo-donald-trump-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/16/joe-biden-covid-coronavirus-economy-andrew-cuomo-donald-trump-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 123
+    images:
+      - url: "https://i.guim.co.uk/img/media/475dbe7596faf3929ebdabf81ba12067019b7079/0_178_5416_3248/master/5416.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4d09134bff3768078bd89a05f64340d5"
+        width: 600
+        height: 360
         isCached: true
   - title: "3 charts show where young Republicans are splitting from GOP elders — and from Trump"
     excerpt: "On some foreign policy issues, young Republicans are closer to the Democratic mainstream than to their Republican elders."
@@ -127,21 +175,133 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "GOP Gov. Larry Hogan Urges Party to Leave 'Cult of Donald Trump,' Hails Conviction Votes"
-    excerpt: "\"I was very proud of some of the folks who stood up and did the right thing,\" the Maryland governor said Sunday of senators who voted to convict Trump."
-    publishedDateTime: 2021-02-14T16:00:00Z
-    webUrl: "https://www.newsweek.com/gop-gov-larry-hogan-urges-party-leave-cult-donald-trump-hails-conviction-votes-1569213"
-    ampWebUrl: "https://www.newsweek.com/gop-gov-larry-hogan-urges-party-leave-cult-donald-trump-hails-conviction-votes-1569213?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/gop-gov-larry-hogan-urges-party-leave-cult-donald-trump-hails-conviction-votes-1569213?amp=1"
+  - title: "Trump impeachment: Senate to hear prosecution arguments against former president – live"
+    excerpt: "Senate convenes at noon for impeachment managers to lay out argument to convict Donald Trump of ‘incitement of insurrection’"
+    publishedDateTime: 2021-02-10T11:17:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/10/donald-trump-impeachment-senate-trial-live-news-updates"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/10/donald-trump-impeachment-senate-trial-live-news-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/10/donald-trump-impeachment-senate-trial-live-news-updates"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
+      name: The Guardian
+      domain: theguardian.com
+    quality: 117
+    images:
+      - url: "https://i.guim.co.uk/img/media/7d3e06af8edce2c72744e22eed1328dd95be3b46/0_0_3500_2334/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7a954cf6bba0111e0635cae7cace422e"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "Exclusive: Dozens of former Republican officials in talks to form anti-Trump third party"
+    excerpt: "Dozens of former Republican officials, who view the party as unwilling to stand up to former President Donald Trump and his attempts to undermine U.S. democracy, are in talks to form a center-right breakaway party,"
+    publishedDateTime: 2021-02-11T08:41:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-party-exclusive-idUSKBN2AB07P"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AB07P"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AB07P"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
     quality: 116
     images:
-      - url: "https://d.newsweek.com/en/full/1734741/larry-hogan.jpg"
-        width: 1024
-        height: 683
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210211&t=2&i=1551126039&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1A051"
+        width: 813
+        height: 545
+        isCached: true
+  - title: "Lindsey Graham says Mitch McConnell speech slamming Trump could haunt Republicans in 2022"
+    excerpt: "Sen. Lindsey Graham said Minority Leader Mitch McConnell's speech against former President Donald Trump could be used against GOP candidates in 2022."
+    publishedDateTime: 2021-02-14T18:31:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/02/14/lindsey-graham-says-mitch-mcconnells-trump-speech-may-haunt-gop/4481763001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4481763001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4481763001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/13/USAT/33eafa06-bd6b-49c7-a53d-f976c1de5b92-AP_Election_2020_South_Carolina.jpg?auto=webp&crop=3835,2157,x309,y110&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "U.S. labor department seen saying it will not enforce Trump-era investment rules - sources"
+    excerpt: "The U.S. Department of Labor is expected to announce that it will not enforce Trump administration rules that curb investments based on environmental and social factors, and which limit shareholder voting in corporate meetings,"
+    publishedDateTime: 2021-02-19T02:51:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-labor-esg-idUSKBN2AI2XP"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AI2XP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AI2XP"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 115
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210218&t=2&i=1552065519&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1H1RP"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Durbin: 'We were never going to reach 67 votes' to convict Trump without McConnell's backing"
+    excerpt: "Sen. Dick Durbin (D-Ill.) said on Sunday that former President Trump’s acquittal in his second Senate impeachment was a foregone conclusion without Minority Leader Mitch McConnell (R-Ky.) backing conviction."
+    publishedDateTime: 2021-02-14T16:19:00Z
+    webUrl: "https://thehill.com/homenews/sunday-talk-shows/538816-durbin-we-were-never-going-to-reach-67-votes-for-conviction"
+    ampWebUrl: "https://thehill.com/homenews/sunday-talk-shows/538816-durbin-we-were-never-going-to-reach-67-votes-for-conviction?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/sunday-talk-shows/538816-durbin-we-were-never-going-to-reach-67-votes-for-conviction?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 114
+    images:
+      - url: "https://thehill.com/sites/default/files/durbinrichard_101220bc_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Trump and other top Republicans pay tribute to the late conservative radio star Rush Limbaugh"
+    excerpt: "Former President George W. Bush said in a statement that Limbaugh had an \"indomitable spirit with a big heart, and he will be missed.\""
+    publishedDateTime: 2021-02-17T18:56:00Z
+    webUrl: "https://www.businessinsider.com/trump-top-republicans-pay-tribute-to-conservative-rush-limbaugh-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/trump-top-republicans-pay-tribute-to-conservative-rush-limbaugh-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-top-republicans-pay-tribute-to-conservative-rush-limbaugh-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 114
+    images:
+      - url: "https://i.insider.com/602d56770bbc6c001824bd58?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "UPDATE 1-U.S. labor dept expected to say it will not enforce Trump-era investment rules -sources"
+    excerpt: "The U.S. Department of Labor is expected to announce that it will not enforce Trump administration rules that curb investments based on environmental and social factors, and which limit shareholder voting in corporate meetings,"
+    publishedDateTime: 2021-02-19T03:16:00Z
+    webUrl: "https://www.reuters.com/article/usa-labor-esg/update-1-u-s-labor-dept-expected-to-say-it-will-not-enforce-trump-era-investment-rules-sources-idUSL1N2KO3G1"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AI2XP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AI2XP"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 112
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210218&t=2&i=1552065519&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1H1RP"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "The overwhelming lesson of the Trump era: Republicans often rebuke Trump -- when they have latitude"
+    excerpt: "Of Republicans who have retired or lost primaries during the Trump era, half have rebuked him in significant ways. About one-third have made big breaks with him."
+    publishedDateTime: 2021-02-17T15:59:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/02/17/overwhelming-lesson-trump-era-republicans-rebuke-trump-when-its-convenient/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/02/17/overwhelming-lesson-trump-era-republicans-rebuke-trump-when-its-convenient/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/02/17/overwhelming-lesson-trump-era-republicans-rebuke-trump-when-its-convenient/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 111
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HKNBETSRPII6TCFB5U2G6DWJJ4.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Live updates: Senate must convict Trump to ensure no future president incites insurrection, Democrats say"
     excerpt: "Day 3 of former President Donald Trump's second impeachment trial has begun. The Democratic impeachment managers will use up to eight hours to wrap up their case against the ex-pr"
@@ -159,6 +319,36 @@ related:
         width: 1582
         height: 1024
         isCached: true
+  - title: "Politics live updates - A quick trial vs. witnesses: Senate weighs strategy on Trump impeachment proceedings"
+    excerpt: "Senators face key decisions on the contours of Trump's second impeachment trial, including the crucial question of whether to call witnesses."
+    publishedDateTime: 2021-02-08T14:35:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/08/politics-live-updates-senate-weighs-strategy-trump-impeachment-trial/4433392001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4433392001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4433392001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 106
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/09/USAT/6aa6963b-4d2b-4679-b15a-6477fc618042-AP21006679639042.jpg?auto=webp&crop=4305,2421,x722,y1081&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Donald Trump's former casino in Atlantic City demolished – video"
+    excerpt: "Trump, who opened the building on the oceanfront boardwalk in 1984, lost control of it in a 2009 bankruptcy"
+    publishedDateTime: 2021-02-17T10:31:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2021/feb/17/donald-trumps-former-casino-in-atlantic-city-demolished-video"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
+    images:
+      - url: "https://i.guim.co.uk/img/media/7d6c324dfade67e4e9e038ca4361f81174254402/295_0_2636_1583/master/2636.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d9702bf15f1f06d4d84aba6a887f1398"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Former Trump casino where stars played going out with a bang"
     excerpt: "By mid-morning Wednesday, a spot on the Atlantic City Boardwalk where movie stars, athletes and rock stars used to party and a future president honed his instincts for bravado and hype will be reduced"
     publishedDateTime: 2021-02-17T11:18:00Z
@@ -173,63 +363,30 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "CPAC is taking Trump's side in the battle for the soul of the GOP"
-    excerpt: "This year's flagship conservative event is also notable for who is not showing up. Establishment GOP leaders like Mitch McConnell, Kevin McCarthy and Mike Pence are so far not listed as speakers."
-    publishedDateTime: 2021-02-18T08:29:00Z
-    webUrl: "https://www.businessinsider.com/cpac-2021-speakers-trump-pence-orlando-republican-conservative-2021-2"
+  - title: "U.S. labor dept seen saying it will not enforce Trump-era investment rules -sources"
+    excerpt: "The U.S. Department of Labor is expected to announce that it will not enforce Trump administration rules that curb investments based on environmental and social factors, and which limit shareholder voting in corporate meetings,"
+    publishedDateTime: 2021-02-19T02:47:00Z
+    webUrl: "https://www.reuters.com/article/usa-labor-esg/u-s-labor-dept-seen-saying-it-will-not-enforce-trump-era-investment-rules-sources-idUSL1N2KN2FK"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2KN2FK"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2KN2FK"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-    images:
-      - url: "https://i.insider.com/602c67945847630018323658?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Sen. Ben Sasse: GOP Must Persuade Voters It Has A Vision Beyond Donald Trump"
-    excerpt: "The Republican from Nebraska speaks with NPR's Steve Inskeep about the impeachment of former President Donald Trump, the future of the GOP and working with the Biden administration."
-    publishedDateTime: 2021-02-16T19:03:00Z
-    webUrl: "https://www.npr.org/2021/02/16/968252516/sen-sasse-votes-to-convict-trump-says-he-voted-his-conscience"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 102
-    images:
-      - url: "https://media.npr.org/assets/img/2021/02/16/gettyimages-1230674721_wide-fcb3d3d610097722a3671aa863340ec9571a9cd2.jpg?s=1400"
-        width: 1400
-        height: 787
-        isCached: true
-  - title: "GOP Rep. Adam Kinzinger’s family lashed out at him for voting to impeach Trump: ‘We are thoroughly disgusted with you!’"
-    excerpt: "Rep. Adam Kinzinger faces censure and his family's ire over his vote to impeach former president Donald Trump."
-    publishedDateTime: 2021-02-16T14:47:00Z
-    webUrl: "https://www.washingtonpost.com/nation/2021/02/16/adam-kinzinger-family-impeachment-trump/"
-    ampWebUrl: "https://www.washingtonpost.com/nation/2021/02/16/adam-kinzinger-family-impeachment-trump/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2021/02/16/adam-kinzinger-family-impeachment-trump/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 101
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/A7RO4YTEB4I6XOVYOB7YO2OXQU.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Nearly 60% of Republican voters think Trump should continue to play 'a major role' in the GOP going forward, new poll shows"
-    excerpt: "The new Politico/Morning Consult poll also found that Trump's support in a hypothetical 2024 GOP primary had returned to pre-insurrection levels."
-    publishedDateTime: 2021-02-16T15:42:00Z
-    webUrl: "https://www.businessinsider.com/59-percent-gop-voters-think-trump-major-role-in-gop-2021-2"
-    ampWebUrl: "https://www.businessinsider.com/59-percent-gop-voters-think-trump-major-role-in-gop-2021-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/59-percent-gop-voters-think-trump-major-role-in-gop-2021-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Reuters
+      domain: reuters.com
     quality: 99
+  - title: "120 anti-Trump Republicans are in talks to form a center-right 3rd party that would run on 'principled conservatism,' report says"
+    excerpt: "The group includes former elected officials and people who served in Republican administrations, including Trump's."
+    publishedDateTime: 2021-02-11T13:16:00Z
+    webUrl: "https://www.businessinsider.com/anti-trump-republicans-talks-to-form-third-party-reuters-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/anti-trump-republicans-talks-to-form-third-party-reuters-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/anti-trump-republicans-talks-to-form-third-party-reuters-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 96
     images:
-      - url: "https://i.insider.com/6018d8c1d6c5e60019c6e5f4?width=1200&format=jpeg"
+      - url: "https://i.insider.com/6024c9e6cca90200129b7a98?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
@@ -248,6 +405,6 @@ related:
         height: 455
         isCached: true
 
-secured: "lqjUcnzHe+7tWKsntx4WoceFyYVzu34cSb6G4xgxTJYM97DCWUqJVVHIAukc+51LVhZgYrtfiAcXtvJ62OXKc51v/DS9VU/zCBgqloWSh0GBgTHXjuhCPM3M/JjGczaSjgIVfS3EXRrQi2Tk9PGZGJI+HBAIu8tdfdCdXdjQnrmCKwQr+BNjt0fd7JoUvmlff2JYuyLrwwaVxpQjxA8GKtBzTTSK6CGOX6S/LYlPFNLZ3c84sSNv1h91a+fg78ywYWStSxRpCDnnBCsMDcVTWOlbw9ve7ADZis3wYVa3QAamcq3KRk/idC88XaeRZKv4xG1JGGQXiYCjLrWViLEtCwzy2r510DNKz6RLDnImvgc=;uH7huotjSIlwgIwClVCftA=="
+secured: "TFPeZJYlq7MhzebEquSx439UxL3AHRjjDwqotsIUyvmndL45s2Sg/GtgB+1uSj+VvBtuSvq22ufBkB4TGZlcBmngsEk2WkToy5kOvM2Umumcb1qgQUgQwsbu9q87qqBTXrlA7cn/5tPbthzZCPHus3JNvmK2gAatYAzRJnZt0/EqnsZIyqzggKWac+BQRskpYCvaiudncl0O+YwGj2QC1CeSVLCmMHGnO0yVkKVTl/lLhA2z1bGcFkJ1D5GUtNtZuN4tWYsgmU1vRtIKE9TAVE43wJrvvcTgyURUWYaFqURQVQLUZRioBw0z5BGyXZHWAyVpIgzM+6xNmquOFwhuUT9BGZrQ+OyuEG+C4+ELFe+GfgsofOTK/CyuSRKj43zIBjBbrJtlwhJjeshRMBU+HB/UieNisDt/P7lePKioV912p2/hncZKrEN3VuFYcG8lzMJinnUu6TeZmNcwZzquOv23S7N5sunpTt/KLo1Y5jK5/1S7O9/qozpWrGgaZj2zvuIY2XQgoqwmYMHhQluQdQ==;GoEAVcy5UREnWeX12nYr5w=="
 ---
 

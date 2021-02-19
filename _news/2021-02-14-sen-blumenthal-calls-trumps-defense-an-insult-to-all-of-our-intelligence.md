@@ -9,8 +9,8 @@ ampWebUrl: "https://thehill.com/homenews/senate/538749-sen-blumenthal-calls-trum
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/538749-sen-blumenthal-calls-trump-teams-defense-an-insult-to-all-of-our-intelligence?amp"
 type: article
 quality: 122
-heat: -1
-published: false
+heat: 162
+published: true
 
 provider:
   name: The Hill
@@ -31,65 +31,38 @@ images:
     isCached: true
 
 related:
-  - title: "Donald Trump’s version of an insanity defense: His critics are insane"
-    excerpt: "In the summer of 2015, two months after Donald Trump announced he was running for president, a blogger named Esther Goldberg read a Washington Post column by the conservative commentator George F. Will that accused Trump of being phony,"
-    publishedDateTime: 2021-02-12T11:07:00Z
-    webUrl: "https://www.washingtonpost.com/lifestyle/style/trump-derangement-syndrome-impeachment/2021/02/11/a6ffa7b6-6ca6-11eb-9ead-673168d5b874_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/lifestyle/style/trump-derangement-syndrome-impeachment/2021/02/11/a6ffa7b6-6ca6-11eb-9ead-673168d5b874_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/style/trump-derangement-syndrome-impeachment/2021/02/11/a6ffa7b6-6ca6-11eb-9ead-673168d5b874_story.html?outputType=amp"
+  - title: "Read Donald Trump's Full Statement on Mitch McConnell, His First Since Impeachment"
+    excerpt: "In his first full statement since being impeached by the House, former President Donald Trump said Senate Minority Leader Mitch McConnell was \"seriously hurting our Country.\""
+    publishedDateTime: 2021-02-16T22:43:00Z
+    webUrl: "https://www.newsweek.com/read-donald-trumps-full-statement-mitch-mcconnell-his-first-since-impeachment-1569753"
+    ampWebUrl: "https://www.newsweek.com/read-donald-trumps-full-statement-mitch-mcconnell-his-first-since-impeachment-1569753?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/read-donald-trumps-full-statement-mitch-mcconnell-his-first-since-impeachment-1569753?amp=1"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
+      name: Newsweek
+      domain: newsweek.com
+    quality: 119
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/36HVADTMXII6XOSW27RMRXX2GE.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://d.newsweek.com/en/full/1737290/mitch-mcconnell-donald-trump-statement-impeachment.jpg"
+        width: 2474
+        height: 1392
         isCached: true
-  - title: "Dem’s lawsuit accuses Trump of inciting deadly Capitol riot"
-    excerpt: "The House Homeland Security chairman has sued Donald Trump, accusing him of inciting the  deadly insurrection at the Capitol"
-    publishedDateTime: 2021-02-17T06:48:00Z
-    webUrl: "https://www.washingtonpost.com/politics/dems-lawsuit-accuses-trump-of-inciting-deadly-capitol-riot/2021/02/16/37741c68-70c2-11eb-8651-6d3091eac63f_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/dems-lawsuit-accuses-trump-of-inciting-deadly-capitol-riot/2021/02/16/37741c68-70c2-11eb-8651-6d3091eac63f_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/dems-lawsuit-accuses-trump-of-inciting-deadly-capitol-riot/2021/02/16/37741c68-70c2-11eb-8651-6d3091eac63f_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Contradicting defense lawyers, sources say Trump put Pence's life in danger and didn't check in after the riot"
-    excerpt: "\"At no point was the president informed the vice president was in any danger,\" Trump's lawyer Michael van der Veen said."
-    publishedDateTime: 2021-02-13T13:12:00Z
-    webUrl: "https://www.businessinsider.com/trumps-lawyer-pence-team-capitol-riot-life-danger-2021-2"
-    ampWebUrl: "https://www.businessinsider.com/trumps-lawyer-pence-team-capitol-riot-life-danger-2021-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-lawyer-pence-team-capitol-riot-life-danger-2021-2?amp"
+  - title: "Trump 'loved' it when his defense team called impeachment trial 'constitutional cancel culture,' report says"
+    excerpt: "After a rocky start to the week, Trump was reportedly very pleased with his team's performance on Friday, aides told Politico."
+    publishedDateTime: 2021-02-13T13:38:00Z
+    webUrl: "https://www.businessinsider.com/trump-happy-with-lawyers-calling-trial-constitutional-cancel-culture-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/trump-happy-with-lawyers-calling-trial-constitutional-cancel-culture-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-happy-with-lawyers-calling-trial-constitutional-cancel-culture-2021-2?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 120
+    quality: 106
     images:
-      - url: "https://i.insider.com/5ffd1f0ad184b30018aae383?width=1200&format=jpeg"
+      - url: "https://i.insider.com/602793e8b3c2a800183ccbf5?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "On Jersey Shore, Crumbling Trump Plaza Hotel Is Demolished"
-    excerpt: "Crowds cheered as the Trump Plaza Hotel and Casino in Atlantic City was demolished on Wednesday, the oceanfront eyesore bearing the name of the former U.S. president disappearing in a cascading collapse."
-    publishedDateTime: 2021-02-17T20:46:00Z
-    webUrl: "https://www.usnews.com/news/us/articles/2021-02-17/on-jersey-shore-crumbling-trump-plaza-hotel-is-demolished"
-    ampWebUrl: "https://www.usnews.com/news/us/articles/2021-02-17/on-jersey-shore-crumbling-trump-plaza-hotel-is-demolished?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2021-02-17/on-jersey-shore-crumbling-trump-plaza-hotel-is-demolished?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "sHX6V/jq4b04L46cZcn00+D9uvrZaoGMJLuEwpdiMxxhDy5wJSNwH5pyxtXEU5o5SSozemPNESGgWfYkRalFHR4UHR2pPItFSyeSbrePzsi0Gfj3CCQj5LdKf/LE/rOooTzsT1c4Sk4gthc7n8z+GGvd3AH8AqS+ShPWmsnCvS0JUMGbQBdxvojSHdpcm5N4hzzyGKo8YZ6SvgOzQxjoBUNaWY1hbqmMKephNEaCqTQN4ryvD6fKNEGZvOaSb6c6WbCOEE1mc+SmIPd54JOxO3zRVtKZsTFBprVLxHmjJyc3tWbw6c8kAaY+ESXHIGXG7abZMTttEuZln6x33wMt1bAfUarFmj/+EmLd6Vzv6dQ=;AMuSv6UxObYRPizFgxUiSw=="
 ---

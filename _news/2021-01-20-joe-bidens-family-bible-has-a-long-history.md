@@ -2806,6 +2806,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Biden admin targets Trump's let-the-water-flow legacy and other energy efficiency rules"
+    excerpt: "Former President Donald Trump's effort to loosen regulations dictating the water-flow levels of many household appliances and fixtures is under threat with the Biden administration announcing it will launch a federal review of several Trump-era rules and regulations governing the topic,"
+    publishedDateTime: 2021-02-19T19:29:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/biden-administration-targets-trump-s-water-flow-legacy-other-energy-n1258343"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 122
+    images:
+      - url: "https://media1.s-nbcnews.com/j/newscms/2021_07/3451346/210219-donald-trump-al-1441_d9ef4324f03a3941bd52547ee22e4372.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Will There Be a Trump Presidential Library? Don’t Count On It."
     excerpt: "For months, as the end of Donald Trump’s term approached, historians and journalists have been playing a speculation game: What will Donald Trump’s presidential library be like? “A shrine to his ego,” predicted a historian in the Washington Post."
     publishedDateTime: 2021-01-23T00:19:00Z

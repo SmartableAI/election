@@ -45,21 +45,21 @@ related:
         width: 320
         height: 209
         isCached: true
-  - title: "Former Trump casino where stars played goes out with a bang"
-    excerpt: "A spot on the Atlantic City Boardwalk where movie stars, athletes and rock stars used to party and a future president honed his instincts for bravado and hype has been reduced to a dusty pile of rubbl"
-    publishedDateTime: 2021-02-17T16:32:00Z
-    webUrl: "https://abcnews.go.com/Lifestyle/wireStory/trump-casino-stars-played-bang-75939905"
-    ampWebUrl: "https://abcnews.go.com/amp/Lifestyle/wireStory/trump-casino-stars-played-bang-75939905"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Lifestyle/wireStory/trump-casino-stars-played-bang-75939905"
+  - title: "Dem’s lawsuit accuses Trump of inciting deadly Capitol riot"
+    excerpt: "The House Homeland Security chairman has sued Donald Trump, accusing him of inciting the  deadly insurrection at the Capitol"
+    publishedDateTime: 2021-02-17T06:48:00Z
+    webUrl: "https://www.washingtonpost.com/politics/dems-lawsuit-accuses-trump-of-inciting-deadly-capitol-riot/2021/02/16/37741c68-70c2-11eb-8651-6d3091eac63f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/dems-lawsuit-accuses-trump-of-inciting-deadly-capitol-riot/2021/02/16/37741c68-70c2-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/dems-lawsuit-accuses-trump-of-inciting-deadly-capitol-riot/2021/02/16/37741c68-70c2-11eb-8651-6d3091eac63f_story.html?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Lifestyle/WireAP_108db10c88804d9f905cfac5913a7a21_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Wednesday's Trump Plaza implosion signals end of an era in Atlantic City"
     excerpt: "The tower of the abandoned Trump Plaza Hotel and Casino on the Atlantic City Boardwalk is set to fall Wednesday morning around 8:30 a.m. EST."
@@ -77,45 +77,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump attorney rips off mic after questioning from CBSN anchor"
-    excerpt: "The Senate voted Saturday to acquit former President Donald Trump on a charge of inciting the January 6th insurrection at the Capitol. Following the vote, defense attorney Michael van der Veen joined CBSN's Lana Zak to discuss the trial in a sometimes contentious interview."
-    publishedDateTime: 2021-02-14T08:12:00Z
-    webUrl: "https://www.cbsnews.com/video/senate-acquits-trump-impeachment-lawyer-michael-van-der-veen/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/02/13/a8c0f061-b32b-435f-92a1-8a38b8db46e2/thumbnail/1200x630/f61b31ee01e950b6826672066705431f/cbsn-fusion-senate-acquits-trump-impeachment-lawyer-michael-van-der-veen-thumbnail-645843-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Donald Trump's former casino in Atlantic City demolished – video"
-    excerpt: "Trump, who opened the building on the oceanfront boardwalk in 1984, lost control of it in a 2009 bankruptcy"
-    publishedDateTime: 2021-02-17T10:31:00Z
-    webUrl: "https://www.theguardian.com/us-news/video/2021/feb/17/donald-trumps-former-casino-in-atlantic-city-demolished-video"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 105
-    images:
-      - url: "https://i.guim.co.uk/img/media/7d6c324dfade67e4e9e038ca4361f81174254402/295_0_2636_1583/master/2636.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d9702bf15f1f06d4d84aba6a887f1398"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "U.S. labor dept seen saying it will not enforce Trump-era investment rules -sources"
-    excerpt: "The U.S. Department of Labor is expected to announce that it will not enforce Trump administration rules that curb investments based on environmental and social factors, and which limit shareholder voting in corporate meetings,"
-    publishedDateTime: 2021-02-19T02:47:00Z
-    webUrl: "https://www.reuters.com/article/usa-labor-esg/u-s-labor-dept-seen-saying-it-will-not-enforce-trump-era-investment-rules-sources-idUSL1N2KN2FK"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2KN2FK"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2KN2FK"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 99
 
 secured: "EieDXXwE8B+8KP+sz3dlR212lioit0zV3/l5NDVbxyjZTfy5n0sgR0VAAQdKjd9+vprK+wTcOtvPcLlsOqacmi58P4D03atwNOXd6l3y4/U3VcpzNJF4PwAAduc4S40qXa6d1pf3NKWGXR9OVCYhCwFq7QMans6IeaazJ4aduTGbWndClyMrEMdpB3uXHqAz0lmnW8lxURydGh5J+0A1JnNhiCv5sJfoMvdgwKAlFsx5LUpBgJ4Rko3AnSA9Irl4TGcWGfiXR8DdPB+63upU1i8mLWiNPFYju/MkBQvLU+k1RFJRg2LFogGjyMWpvhcKIB3tW9p3CkPTNaio3srhw06o791ny/uQ4G5JYlXhDMg=;+Q8yo+7KCXh94P8RFGSdeg=="
 ---
