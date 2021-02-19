@@ -1,14 +1,12 @@
 ---
 category: news
-title: "Biden to order review of U.S. reliance on overseas supply chains for semiconductors, rare earths: CNBC"
-excerpt: "U.S. President Joe Biden will direct his administration to conduct a review of key U.S. supply chains including semiconductors, high-capacity batteries, medical supplies and rare earth metals, CNBC reported on Thursday."
-publishedDateTime: 2021-02-18T22:08:00Z
-originalUrl: "https://www.reuters.com/article/us-autos-semiconductors-biden-order/biden-to-order-review-of-u-s-reliance-on-overseas-supply-chains-for-semiconductors-rare-earths-cnbc-idUSKBN2AI2HJ"
-webUrl: "https://www.reuters.com/article/us-autos-semiconductors-biden-order/biden-to-order-review-of-u-s-reliance-on-overseas-supply-chains-for-semiconductors-rare-earths-cnbc-idUSKBN2AI2HJ"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AI2HJ"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AI2HJ"
+title: "Biden to order review of U.S. reliance on overseas supply chains for semiconductors, rare earths - CNBC"
+excerpt: "U.S. President Joe Biden participates in a CNN town hall in Milwaukee, Wisconsin, U.S., February 16, 2021. REUTERS/Leah Millis"
+publishedDateTime: 2021-02-18T23:14:00Z
+originalUrl: "https://www.reuters.com/news/picture/biden-to-order-review-of-us-reliance-on-idUSKBN2AI2HJ"
+webUrl: "https://www.reuters.com/news/picture/biden-to-order-review-of-us-reliance-on-idUSKBN2AI2HJ"
 type: article
-quality: 109
+quality: 89
 heat: -1
 published: false
 
@@ -25,9 +23,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210218&t=2&i=1552040907&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1H1FV"
-    width: 811
-    height: 545
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210218&t=2&i=1552040907&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEH1H1FV"
+    width: 810
+    height: 544
     isCached: true
 
 related:
@@ -238,6 +236,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210218&t=2&i=1551928057&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1H01Y"
         width: 782
         height: 545
+        isCached: true
+  - title: "US reverts to targeted immigration enforcement under Biden"
+    excerpt: "Immigration enforcement in the U.S. would be more targeted under President Joe Biden than under his predecessor, with authorities directed to focus on people in the country illegally who pose a threat,"
+    publishedDateTime: 2021-02-19T00:15:00Z
+    webUrl: "https://www.washingtonpost.com/politics/courts_law/us-reverts-to-targeted-immigration-enforcement-under-biden/2021/02/18/a2d11b76-721d-11eb-8651-6d3091eac63f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/us-reverts-to-targeted-immigration-enforcement-under-biden/2021/02/18/a2d11b76-721d-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/us-reverts-to-targeted-immigration-enforcement-under-biden/2021/02/18/a2d11b76-721d-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Biden plans to 'recalibrate' Saudi relations in shot at MbS - White House"
     excerpt: "President Joe Biden plans to shift U.S. relations with Saudi Arabia and will conduct diplomacy through Saudi King Salman bin Abdulaziz rather than his powerful son, Crown Prince Mohammed bin Salman, the White House said on Tuesday."
@@ -477,6 +491,6 @@ related:
         height: 600
         isCached: true
 
-secured: "ihp7z1Y/jcy/yGIaQBCXruKcCPcVUxgsNuHzv/4EfG/kuhWXNS65vPA6i5biuq9dkfYqNLoBqUZb14Qut4sqBf94fuYd3CG4peLnwdT0xh1HmazTP8iOJeM1AfZ4swdi0voAD7zG23aBU1/wwXvh9tXQtsfZ9f5XOVHO7ULgEBHUqwshLwtX3DJYgMo8uXSo7QoXjMQtjU0h71KbZRxnY7+FHQjaoxI8lHMpafJuMU7sZmduyYDYX6Of2uRrEhDwGHE+1wD0p0/vH+xXtlztJf9Rrgd5peW5SDH4nv3r0cSJLvpQ1WfrA7Pyw8+nA28pazghn0tnciA2XldqKTugoHnONtDKJqEnCIwAcHP+l5s=;eQX6sKku9zpPqgl0N7eQsg=="
+secured: "0Q6SSdt180ptFaVIko7ZB2sokmtYKd6CcLgnoeefri1VBEuX1J9VoD3TjU9qBC8T3M7Gbz+9a4HZjLGgj4n0XDwy6195wGeClIKAOnwMsYs/CsuU9PAPLbcqdYLs7C++iWiolwcOJQ2QDGbZze4OP4I6lqtjI9ot1mIvudp3/yuM1zojL0y3z5m96r3p2kPBw3apQi36wCUyUN6R0cBfgl0XDtJRBKcWD/1w4H0baj8/GfJc9Vpp7fYxx1M9d02dG/ya4Vej9af9txpxdxJaqZQxTr/oa2OYaBcWPsqlloUpv6Amf9VonaBgLU0xtPbnc7Xd9vbKqvlpobHiWptmEv/nfGp1Wx5otzI1aoZa43Q=;XAFzzqqOW7TivNeuA2a3Uw=="
 ---
 

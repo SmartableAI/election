@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-18-scalise-rips-biden-school-reopening-goal-youre-afraid-of-standing-up-to-the-teachers-union.md",
+      "title": "Scalise rips Biden school-reopening goal: 'You're afraid of standing up to the teachers union'",
+      "excerpt": "Rep. Steve Scalise, R-La., said President Biden's goal to open the majority of K-8 schools by April 30 falls way short of what school children need, and the Republican Whip urged Biden to choose science over teacher unions.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/p_vSPVbXqeo/rep-scalise-rips-bidens-school-reopening-goal",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/p_vSPVbXqeo/rep-scalise-rips-bidens-school-reopening-goal",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Steve-Scalise-headshot.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/rep-scalise-rips-bidens-school-reopening-goal.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-scalise-rips-bidens-school-reopening-goal.amp",
+      "publishedDateTime": "2021-02-18T15:43:12-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-18-trump-mcconnell-spat-leads-rick-scott-senate-gop-reelection-chair-to-seek-unity.md",
       "title": "Trump-McConnell spat leads Rick Scott, Senate GOP reelection chair, to seek unity",
       "excerpt": "Amid a very vocal war of words between the most powerful GOP leader in Congress and the most popular and influential Republican politician among the party’s base, the chair of the reelection arm of the Senate GOP is calling for unity as Republicans aim to win back the chamber’s majority next year.",
@@ -1623,62 +1679,6 @@
         "Election",
         "Republican Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-02-14-gop-sen-cassidy-trumps-force-wanes-following-capitol-riot.md",
-      "title": "GOP Sen. Cassidy: Trump’s 'force wanes' following Capitol riot",
-      "excerpt": "Sen. Bill Cassidy, R-La., one of seven Senate Republicans who voted to convict former President Trump in his second impeachment trial, said on Sunday that he believes Trump’s “force wanes,” arguing that the Republican Party wants “a leader who’s accountable and a leader who they can trust.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TAKo99kjvHg/gop-sen-cassidy-trumps-force-wanes-following-senate-impeachment-trial",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TAKo99kjvHg/gop-sen-cassidy-trumps-force-wanes-following-senate-impeachment-trial",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/gop-sen-cassidy-trumps-force-wanes-following-senate-impeachment-trial.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-sen-cassidy-trumps-force-wanes-following-senate-impeachment-trial.amp",
-      "publishedDateTime": "2021-02-14T13:42:57-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

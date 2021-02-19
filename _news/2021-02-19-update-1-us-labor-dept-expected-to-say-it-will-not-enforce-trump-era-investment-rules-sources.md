@@ -3,10 +3,10 @@ category: news
 title: "UPDATE 1-U.S. labor dept expected to say it will not enforce Trump-era investment rules -sources"
 excerpt: "The U.S. Department of Labor is expected to announce that it will not enforce Trump administration rules that curb investments based on environmental and social factors, and which limit shareholder voting in corporate meetings,"
 publishedDateTime: 2021-02-18T22:32:00Z
-originalUrl: "https://www.reuters.com/article/usa-labor-esg/update-1-u-s-labor-dept-expected-to-say-it-will-not-enforce-trump-era-investment-rules-sources-idUSL1N2KO3G1"
-webUrl: "https://www.reuters.com/article/usa-labor-esg/update-1-u-s-labor-dept-expected-to-say-it-will-not-enforce-trump-era-investment-rules-sources-idUSL1N2KO3G1"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AI2XP"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AI2XP"
+originalUrl: "https://www.reuters.com/article/usa-labor-esg-idUSL1N2KO3G1"
+webUrl: "https://www.reuters.com/article/usa-labor-esg-idUSL1N2KO3G1"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2KO3G1"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2KO3G1"
 type: article
 quality: 112
 heat: 132
@@ -43,6 +43,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "ejbhdX4LIppsQmeacNlPf0j3OaxSLuS5IDYA3NMP3Jo0IXOlAj306MZhzBZkEzwyrXA4eQvv5iTHoVnWA5aMAL1Azdv39laI9/r2/45WaRvHwiUt0f75GRHn3ouqnmHQtY4Veb00STLCn06CyYVaDFycpnzyp5FQVEk2MtSpngwBxrdzj9e00M/IJhe3q6d0FPzRQscFHaOGU6TPDIbaLrPW7OQVTrx25t3BedWs6p0nwqZbUch7wwoWIMQjATzf2XE0jW7AwYcJc0zviCR0qcOG5kGGmOacFUX1iEzJsHRirLEjL32yKKFxmbPrq4cfXxflEMsH9VmRNFkN95EnJTF9oSb8fiX2sTVjpjsdDeU=;u4ZxgfZYTsRlQc50g9qDsg=="
+secured: "3fMH8LzIatA/tmnyWBaxzw58mdyopBv5efrZvWGg0I5MRXU/8Qb5fSWZ1UUmpIany8zkWTBULeW3lgP0B/Z1YbPNd0Rf1VUFd3YLBop2h85aVKTZCwuq4kum70yYI9A0t1uxdbfQqVaoeIDN97lj9vhti0K97gaakmeTkD1g4qEgAZ35gIugCIOP0+L6RJkQ2jyvEdpYif25gjFn5K28ZLOhmj6E+VFkqORgAPzoQ5NTQOzaTB180pa31XtlrhZiILcvrSPcP+2QqLYvWfxL+udPWNJuAOZzNQIBWQ//J9bdS6XX8kMqIHIwPvvuBp+Oi3F3S3TPt44GThVh6aIWlEVLd/m9DZ7qMx7p+2LCTtI=;7ciJX384x81l+ZwFEnykoQ=="
 ---
 

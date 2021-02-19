@@ -733,6 +733,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Republicans squeeze Biden on schools"
+    excerpt: "Republicans are pressing ahead against the Biden administration as they seek to contrast their party’s calls for schools to reopening against that of a reluctant White House. More on that in a minute,"
+    publishedDateTime: 2021-02-18T13:06:00Z
+    webUrl: "https://www.politico.com/newsletters/huddle/2021/02/18/republicans-squeeze-biden-on-schools-491801"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
   - title: "Biden aims to isolate China on coal — but it could blow back on the U.S."
     excerpt: "The U.S. wants to stop new coal projects, but risks losing poor countries to Beijing’s \"Belt and Road\" agenda."
     publishedDateTime: 2021-02-13T12:06:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nytimes.com/2021/02/02/nyregion/bannon-vance-fraud-borde
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/02/nyregion/bannon-vance-fraud-border-wall.amp.html"
 type: article
 quality: 135
-heat: 135
-published: true
+heat: -1
+published: false
 
 provider:
   name: New York Times
@@ -30,6 +30,24 @@ images:
     width: 1050
     height: 550
     isCached: true
+
+related:
+  - title: "Manhattan district attorney bolsters team investigating possible fraud claims by Trump and his company"
+    excerpt: "The Manhattan District Attorney's Office has added a prominent former prosecutor to bolster its team investigating possible fraud claims by former President Donald Trump and his company.\n    \n"
+    publishedDateTime: 2021-02-19T00:24:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WtHosy67ua0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/18/politics/manhattan-district-attorney-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/18/politics/manhattan-district-attorney-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 159
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210116005758-trump-seven-springs-estate-file-2020-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "5c33siQshz4mukXEbxNUfEfH1bi8ud5bcfzYZ1yJd6gBqM2fknPAs7i+FITP0tzbnO97JKMZ31CdNtjyAHh0qgO1TuuONIz+staJ0ymratNfvzosI54Kxp+bvcLsdsvI/cAlJQ1OEFUdkEBlUaW8ai1v7zUBnBs2VqgqfRRL8bDOWsYcokGVfms5mzw7Vu4fLwJ8kWakczRhZjRcKKFIuf8LeaTtvqZThBrmvZb/MYxc22zUtw6o/NZjB/X82iyADs3OhAImhiUl36Zq7yxglL33FEwc+YIV6MaWb3AQPku90v1uUACRNopj2xE4HNAXPvdz8j61ZL2krS+6nzf13TX46Pp8SXj9sPQSvELfZpY=;dWdjy47fEbOahtWJUkIqSA=="
 ---

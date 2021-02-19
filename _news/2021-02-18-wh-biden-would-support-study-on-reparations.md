@@ -237,6 +237,22 @@ related:
         width: 782
         height: 545
         isCached: true
+  - title: "US reverts to targeted immigration enforcement under Biden"
+    excerpt: "Immigration enforcement in the U.S. would be more targeted under President Joe Biden than under his predecessor, with authorities directed to focus on people in the country illegally who pose a threat,"
+    publishedDateTime: 2021-02-19T00:15:00Z
+    webUrl: "https://www.washingtonpost.com/politics/courts_law/us-reverts-to-targeted-immigration-enforcement-under-biden/2021/02/18/a2d11b76-721d-11eb-8651-6d3091eac63f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/us-reverts-to-targeted-immigration-enforcement-under-biden/2021/02/18/a2d11b76-721d-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/us-reverts-to-targeted-immigration-enforcement-under-biden/2021/02/18/a2d11b76-721d-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Biden plans to 'recalibrate' Saudi relations in shot at MbS - White House"
     excerpt: "President Joe Biden plans to shift U.S. relations with Saudi Arabia and will conduct diplomacy through Saudi King Salman bin Abdulaziz rather than his powerful son, Crown Prince Mohammed bin Salman, the White House said on Tuesday."
     publishedDateTime: 2021-02-16T19:52:00Z
@@ -413,22 +429,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Biden to order review of U.S. reliance on overseas supply chains for semiconductors, rare earths: CNBC"
-    excerpt: "U.S. President Joe Biden will direct his administration to conduct a review of key U.S. supply chains including semiconductors, high-capacity batteries, medical supplies and rare earth metals, CNBC reported on Thursday."
-    publishedDateTime: 2021-02-18T22:08:00Z
-    webUrl: "https://www.reuters.com/article/us-autos-semiconductors-biden-order/biden-to-order-review-of-u-s-reliance-on-overseas-supply-chains-for-semiconductors-rare-earths-cnbc-idUSKBN2AI2HJ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AI2HJ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AI2HJ"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 109
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210218&t=2&i=1552040907&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1H1FV"
-        width: 811
-        height: 545
-        isCached: true
   - title: "Biden aims to close Guantanamo Bay prison by the time he leaves office"
     excerpt: "The White House said on Friday that U.S. President Joe Biden aims to close the Guantanamo Bay prison by the time he leaves office, press secretary Jen Psaki told reporters in a daily briefing."
     publishedDateTime: 2021-02-12T19:27:00Z
@@ -462,6 +462,20 @@ related:
       name: Chicago Tribune
       domain: chicagotribune.com
     quality: 101
+  - title: "Biden to order review of U.S. reliance on overseas supply chains for semiconductors, rare earths - CNBC"
+    excerpt: "U.S. President Joe Biden participates in a CNN town hall in Milwaukee, Wisconsin, U.S., February 16, 2021. REUTERS/Leah Millis"
+    publishedDateTime: 2021-02-18T23:14:00Z
+    webUrl: "https://www.reuters.com/news/picture/biden-to-order-review-of-us-reliance-on-idUSKBN2AI2HJ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 89
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210218&t=2&i=1552040907&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEH1H1FV"
+        width: 810
+        height: 544
+        isCached: true
   - title: "Washington moves of the week: Here's who's landing at the Biden White House, federal agencies, and Capitol Hill"
     excerpt: "It's hiring season in Washington, D.C. Here are this week's personnel moves in the Biden White House, in agencies, and in Congress."
     publishedDateTime: 2021-02-12T10:03:00Z

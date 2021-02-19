@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/11/politics/biden-1-9-trillion-bet/i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/11/politics/biden-1-9-trillion-bet/index.html"
 type: article
 quality: 175
-heat: 1115
+heat: 1135
 published: true
 
 provider:
@@ -717,6 +717,20 @@ related:
       - url: "https://static.politico.com/af/a7/b3f1e03b4d75978fef5320564ed6/ap21021585963114-1.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Republicans squeeze Biden on schools"
+    excerpt: "Republicans are pressing ahead against the Biden administration as they seek to contrast their party’s calls for schools to reopening against that of a reluctant White House. More on that in a minute,"
+    publishedDateTime: 2021-02-18T13:06:00Z
+    webUrl: "https://www.politico.com/newsletters/huddle/2021/02/18/republicans-squeeze-biden-on-schools-491801"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
   - title: "A trio of conservative groups tries to torpedo two top Biden nominees"
     excerpt: "A trio of conservative organizations are launching a multimillion dollar advertising blitz aimed at undermining two of President Joe Biden’s high-profile nominees. The ad buy, first reported by POLITICO,"

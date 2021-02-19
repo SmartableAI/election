@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-harris-arlington-wreath-layin
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-arlington-wreath-laying-ceremony.amp"
 type: article
 quality: 200
-heat: 680
+heat: 700
 published: true
 
 provider:
@@ -191,6 +191,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/vp-kamala-harris-phone.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "VP Kamala Harris holds calls with foreign leaders without Biden"
+    excerpt: "Vice President Kamala Harris is proving that she will play an important role in the White House as she hosts calls with foreign leaders without President Biden."
+    publishedDateTime: 2021-02-16T21:12:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-calls-foreign-leaders-without-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-calls-foreign-leaders-without-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-calls-foreign-leaders-without-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 150
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ec8afdd6-cb78-46b9-8092-b13d4027cd82/e08a3fca-f5fc-4fbd-be75-497015133a56/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Black Women Ready to Virtually Cheer On Kamala Harris’s Inauguration"
     excerpt: "President-elect Joe Biden and Ms. Harris will be sworn into office during a scaled-back inauguration in a heavily fortified Washington."
