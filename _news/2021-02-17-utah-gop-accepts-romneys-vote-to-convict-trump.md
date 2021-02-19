@@ -79,6 +79,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Toomey, who once unified the GOP, now on the outs over Trump"
+    excerpt: "Before he became the object of fury of Republicans for voting to convict Donald Trump during the former president’s second impeachment trial, U.S. Sen. Pat Toomey of Pennsylvania was once the insurgen"
+    publishedDateTime: 2021-02-19T18:16:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/toomey-unified-gop-now-outs-trump-75999311"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/toomey-unified-gop-now-outs-trump-75999311"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/toomey-unified-gop-now-outs-trump-75999311"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_bb6ab5e111f7413bbf33688d4f738d46_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Maine GOP scolds Susan Collins for her vote to convict Trump on impeachment charge"
     excerpt: "Maine's GOP condemned \"in the strongest possible terms\" Collins' vote to hold Trump responsible for inciting the deadly insurrection at the Capitol."
     publishedDateTime: 2021-02-18T18:38:00Z

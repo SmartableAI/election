@@ -96,22 +96,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Former Texas sheriff: US ‘basically reopening the border’ to illegal immigrants with Biden agenda"
-    excerpt: "The Biden administration's immigration policies amount to \"reopening the border\" to illegal aliens and creating the conditions for an illegal immigration spike, a retired Texas sheriff warned on \"Fox & Friends\" Tuesday."
-    publishedDateTime: 2021-02-16T20:09:19Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VbKHGbDMdoc/biden-immigration-agenda-open-borders-texas-sheriff-harold-eavenson"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-immigration-agenda-open-borders-texas-sheriff-harold-eavenson.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-immigration-agenda-open-borders-texas-sheriff-harold-eavenson.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4f6ae5a3-36be-41fd-97b0-f9e68056de11/7d329f70-fa0c-4a43-adad-8b43060d8792/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "sAku2OmHRl5sA/G4Dk7VYQfq0MkhWCekwjJXhWoFiLJp42Wjq+KDjS6apaSD+S/k/Anu+NEvqWHfP5mABSZ4eUxx4ZSsEJYTn7YQo2mCh1hvvyTSpaZ4K8wjYmahPZkZ5uSleORLegFP45nr4aESlTQVC4KF5GavYhdF4VnEEvT65iNJrdQs582jA5/aKsv1Uy9iCjU9Xm9lZeWQeCoLMpZG1P5qDIZAtpiTN2UYe2Peu2OEfHT1c6CESGAzpHlci2PJNTaa5j4usuDaC9p+GmEVZzj5nvcrEERVANRewd/URPsXU5nCMkh6/N8OnxyHrB3Fd5fWKwM9/LbUi3ekmcLoLrOlf904qDT0vbxgzNc=;mzaqwP56Hy0C0n+tyjHhSg=="
 ---

@@ -167,6 +167,22 @@ related:
         width: 1024
         height: 736
         isCached: true
+  - title: "Kamala Harris selling condo in San Francisco's SOMA neighborhood, report says"
+    excerpt: "Vice President Kamala Harris is giving up her San Francisco home, according to a new report. Harris has sold the South of Market condominium that she bought in 2004, the year she became the San Francisco district attorney."
+    publishedDateTime: 2021-02-19T09:41:00Z
+    webUrl: "https://www.sfchronicle.com/politics/article/Kamala-Harris-selling-condo-in-San-Francisco-s-15963608.php"
+    ampWebUrl: "https://www.sfchronicle.com/politics/amp/Kamala-Harris-selling-condo-in-San-Francisco-s-15963608.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/Kamala-Harris-selling-condo-in-San-Francisco-s-15963608.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 72
+    images:
+      - url: "https://s.hdnux.com/photos/01/16/15/60/20503554/7/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "What was Kamala Harris’ role in helping Minneapolis rioters? | Charlotte Observer"
     excerpt: "If you use this model, I don’t know how Kamala Harris doesn’t get impeached if the Republicans take over the House, because she actually bailed out rioters, and one of the rioters went back to the streets and broke somebody’s head open,"
     publishedDateTime: 2021-02-18T13:00:00Z

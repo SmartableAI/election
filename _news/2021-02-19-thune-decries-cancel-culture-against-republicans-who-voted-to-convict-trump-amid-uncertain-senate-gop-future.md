@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Thune decries ‘cancel culture’ against Republicans who voted to convict Trump amid uncertain Senate GOP future"
-excerpt: "Sen. John Thune, a top ally to Senate Minority Leader Mitch McConnell, said that those aiming to punish senators who voted to convict former President Donald Trump at his impeachment trial are engaging in \"cancel culture.\""
-publishedDateTime: 2021-02-19T12:09:43Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SeYUIvxKk3o/thune-decries-cancel-culture-against-republicans-who-voted-to-convict-trump-amid-uncertain-senate-gop-future"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SeYUIvxKk3o/thune-decries-cancel-culture-against-republicans-who-voted-to-convict-trump-amid-uncertain-senate-gop-future"
+excerpt: "Sen. John Thune, a top ally to Senate Minority Leader Mitch McConnell, said that those aiming to punish senators who voted to convict former President Donald Trump at his impeachment trial are engaging in \"cancel culture."
+publishedDateTime: 2021-02-19T12:11:00Z
+originalUrl: "https://www.foxnews.com/politics/thune-decries-cancel-culture-against-republicans-who-voted-to-convict-trump-amid-uncertain-senate-gop-future"
+webUrl: "https://www.foxnews.com/politics/thune-decries-cancel-culture-against-republicans-who-voted-to-convict-trump-amid-uncertain-senate-gop-future"
 ampWebUrl: "https://www.foxnews.com/politics/thune-decries-cancel-culture-against-republicans-who-voted-to-convict-trump-amid-uncertain-senate-gop-future.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/thune-decries-cancel-culture-against-republicans-who-voted-to-convict-trump-amid-uncertain-senate-gop-future.amp"
 type: article
-quality: 155
+quality: 115
 heat: -1
 published: false
 
@@ -22,12 +22,13 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20345602979352.jpg?ve=1&tl=1"
+    width: 640
+    height: 320
     isCached: true
 
 related:
@@ -96,6 +97,6 @@ related:
         height: 720
         isCached: true
 
-secured: "EwRwobxrSZ3Uv/s767fHOo3POhc3056c4y+8NepjCA4j96bfySrmEifpjqCWF4DSAUezizJEsV+A1hlxdYl4unIKFbLl9gd86WvzmSaZFRIpoC4sZ0FDxdqd9CPq6L/8WM86ebU18XeaNad0XlmCYbztYkDdVH5oUJKVl00jJAKEiRsl/KKFplwO2p99VFFy5KCmKFhIHGsE7Y+e80JbkuVKSQA4o68xMDkCkdCx2Gz6SUcbVg/Zgs5D/ubHpbYMJE8y5Ecve8MYKnOQl54MvAUf7cMZ3KUZ8vRPU15MxOU+0BtaGLKnReq0I7RfhRExEaEuwygImovqPFXvwcvTQgjhaPDak1dRajKN2QMpWuY=;lRelnycRuibUHafhz1a/Vg=="
+secured: "mfQz4PG3No2YwtRMGVP9X0U0Ci5ico+sCQg9e0g7y0H2k12HSE7WnhSC2DhRP37ER6TGhpOapToGKM4iyN750fyO6e9SoZ5yM1QpvjBuROb5sF6ffwrb8nd36Nbx1iNoE231QXagi68+UvHjwGzehjxrQeaTpi9dqdmnqu55zGEfYp50j48aRRtK0CPN1/bBjRIUFeOxKoOLHrgGSE3JT94AddggU0iKDHeqWwTbTmcenjftmimi1qKwtat1lxxzi6hDz4MDyyiLKfNoZUnWLUNoP6f90UWEvCH6gUi4ZBk5IR4g2HD+35qzNJ9rpThLczIqJPIHs2DWq4cAO1WYawInbtQEWw9amy0U/0Oo31g=;Eq5viWOuVgIyX+Rxy+7ePA=="
 ---
 

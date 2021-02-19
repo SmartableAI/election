@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/12/politics/biden-guantanamo-bay/ind
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/12/politics/biden-guantanamo-bay/index.html"
 type: article
 quality: 175
-heat: 355
+heat: 375
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 174
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/180227114420-rainbow-flag-white-house-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden says he may travel to Texas next week in wake of devastating storms"
+    excerpt: "President Joe Biden said on Friday that he plans to travel to Texas but does not want a presidential trip to put any additional strain on a state grappling with an extreme weather crisis.\n    \n"
+    publishedDateTime: 2021-02-19T18:31:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/G38EnHjPLIg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/19/politics/biden-texas-trip/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/19/politics/biden-texas-trip/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210219122005-01-us-winter-weather-austin-0219-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -96,6 +96,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden says he may travel to Texas next week in wake of devastating storms"
+    excerpt: "President Joe Biden said on Friday that he plans to travel to Texas but does not want a presidential trip to put any additional strain on a state grappling with an extreme weather crisis.\n    \n"
+    publishedDateTime: 2021-02-19T18:31:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/G38EnHjPLIg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/19/politics/biden-texas-trip/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/19/politics/biden-texas-trip/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210219122005-01-us-winter-weather-austin-0219-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration approves arms sale to Egypt despite human rights concerns"
     excerpt: "The Biden administration on Tuesday announced it had approved a possible $197 million sale of missiles to Egypt, just days after the Egyptian government is said to have detained family members of a US-based Egyptian American human rights activist.\n    \n"
     publishedDateTime: 2021-02-16T22:34:37Z

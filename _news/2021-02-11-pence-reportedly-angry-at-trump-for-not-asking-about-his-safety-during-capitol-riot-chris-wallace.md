@@ -81,20 +81,20 @@ related:
         height: 720
         isCached: true
   - title: "Thune decries ‘cancel culture’ against Republicans who voted to convict Trump amid uncertain Senate GOP future"
-    excerpt: "Sen. John Thune, a top ally to Senate Minority Leader Mitch McConnell, said that those aiming to punish senators who voted to convict former President Donald Trump at his impeachment trial are engaging in \"cancel culture.\""
-    publishedDateTime: 2021-02-19T12:09:43Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SeYUIvxKk3o/thune-decries-cancel-culture-against-republicans-who-voted-to-convict-trump-amid-uncertain-senate-gop-future"
+    excerpt: "Sen. John Thune, a top ally to Senate Minority Leader Mitch McConnell, said that those aiming to punish senators who voted to convict former President Donald Trump at his impeachment trial are engaging in \"cancel culture."
+    publishedDateTime: 2021-02-19T12:11:00Z
+    webUrl: "https://www.foxnews.com/politics/thune-decries-cancel-culture-against-republicans-who-voted-to-convict-trump-amid-uncertain-senate-gop-future"
     ampWebUrl: "https://www.foxnews.com/politics/thune-decries-cancel-culture-against-republicans-who-voted-to-convict-trump-amid-uncertain-senate-gop-future.amp"
     cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/thune-decries-cancel-culture-against-republicans-who-voted-to-convict-trump-amid-uncertain-senate-gop-future.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 155
+    quality: 115
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20345602979352.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "smUVCA/9yrZWYLr3phiLvlLBpNmEnfQ63K8XaB06wN9I/4bZJVRQ/uUmqFfZVkIubXjno8LI9p2o3B7CJvnmp2A0C2DJeSb6fsq0oxaafTDSWDT3eBUZv+AJhDSjk24OtvgOvaYLxilQLfOGzXpVrxII12aMWQSqUBwTgsNfFal+uUxwk1iy44GMIc2jpbHekJgtLaJYz94XFYEoayxdiRpgT7kol4UhNyMZdbmPPaXKl1lal5xa6tnfTnm5phUuwa5UtrdQpHUo/h472oolTkf9kiC4GUy1hyaJPw2qgtFKN5vSwr519s5rMRvLIphsmQ3mrN6U0L4aFJ0hjaprz4316rb3YIADOK2xYDaKGpPMaORjZDhE0J6dc2+nAjdToatlkAOMDmDCE4M+y91bhSbb/FeegaSrwORAOmxFsv2BhV55CwzhEovEWSfnGI7Ix/egr6USrghJCoEo5XVsIzkj5Do4wPRQtiEDcFCYS/J2FCDeOakNvbCYADDLfXE7c4GkS6gMvmdDNdCMFSTv6Q==;JPvEo3VzhadBhXNFXNNa0Q=="

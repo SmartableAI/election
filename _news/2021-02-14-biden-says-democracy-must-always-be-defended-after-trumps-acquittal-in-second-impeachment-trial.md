@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/13/politics/biden-trump-second-impea
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/biden-trump-second-impeachment-trial/index.html"
 type: article
 quality: 176
-heat: 1156
+heat: 1176
 published: true
 
 provider:
@@ -334,6 +334,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210212164715-03-impeachment-trial-2021-sketch-0212-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Biden declares the era of Trump-style ‘America First’ diplomacy over."
+    excerpt: "America is back, the trans-Atlantic alliance is back,” Mr. Biden declared. Trying to expunge the last four years without ever once naming his predecessor, Donald J. Trump, Mr. Biden said “we are not looking backward."
+    publishedDateTime: 2021-02-19T17:29:00Z
+    webUrl: "https://www.nytimes.com/2021/02/19/world/biden-speech-munich-security-conference.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/19/world/biden-speech-munich-security-conference.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/19/world/biden-speech-munich-security-conference.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/19/world/19WORLD-LEADERS-biden2/19WORLD-LEADERS-biden2-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Read: Former President Donald Trump's defense team's legal brief"
     excerpt: "In a pretrial brief ahead of former President Donald Trump's impeachment trial in the Senate, Trump's legal team accused House Democrats of engaging in \"political theater\" and argued that the upcoming trial is unconstitutional because Trump is no longer president."

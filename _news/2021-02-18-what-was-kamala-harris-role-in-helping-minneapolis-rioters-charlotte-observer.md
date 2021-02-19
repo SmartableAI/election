@@ -169,6 +169,22 @@ related:
         width: 1024
         height: 736
         isCached: true
+  - title: "Kamala Harris selling condo in San Francisco's SOMA neighborhood, report says"
+    excerpt: "Vice President Kamala Harris is giving up her San Francisco home, according to a new report. Harris has sold the South of Market condominium that she bought in 2004, the year she became the San Francisco district attorney."
+    publishedDateTime: 2021-02-19T09:41:00Z
+    webUrl: "https://www.sfchronicle.com/politics/article/Kamala-Harris-selling-condo-in-San-Francisco-s-15963608.php"
+    ampWebUrl: "https://www.sfchronicle.com/politics/amp/Kamala-Harris-selling-condo-in-San-Francisco-s-15963608.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/Kamala-Harris-selling-condo-in-San-Francisco-s-15963608.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 72
+    images:
+      - url: "https://s.hdnux.com/photos/01/16/15/60/20503554/7/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "Kamala Harris, Husband Doug Emhoff Give Healthcare Workers A Valentine's Day Surprise"
     excerpt: "Kamala Harris and her husband, Doug Emhoff, handed out cookies to essential healthcare workers for Valentine's Day."
     publishedDateTime: 2021-02-14T07:27:00Z

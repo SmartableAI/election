@@ -431,6 +431,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden assures US allies he will reverse Trump's policies and legacy"
+    excerpt: "President says US will have to work to earn back the trust of its allies in video remarks to the G7 and Munich Security Conference"
+    publishedDateTime: 2021-02-19T18:36:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/feb/19/biden-munich-speech-g7-trump-legacy-allies"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/19/biden-munich-speech-g7-trump-legacy-allies"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/19/biden-munich-speech-g7-trump-legacy-allies"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 140
+    images:
+      - url: "https://i.guim.co.uk/img/media/049b1aace61ea807e4c0c4bcfff2011fff9f6b18/0_242_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=65cb50708536f15bbaf727e0b7fae6e2"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Biden revokes Trump's ban on transgender Americans serving in the military"
     excerpt: "\"President Biden believes that gender identity should not be a bar to military service,\" the White House said."
     publishedDateTime: 2021-01-25T16:52:00Z

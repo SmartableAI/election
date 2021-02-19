@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/13/politics/trump-pence-capitol-riot
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/trump-pence-capitol-riot/index.html"
 type: article
 quality: 192
-heat: 1452
+heat: 1472
 published: true
 
 provider:
@@ -859,6 +859,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200204220157-29-sotu-2020-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Donor to Trump Inauguration Sentenced to 12 Years in Federal Inquiry"
+    excerpt: "Imaad Zuberi, who donated heavily to Democrats before former President Donald J. Trump’s election, had pleaded guilty to charges related to a $900,000 donation to Mr. Trump’s inaugural committee."
+    publishedDateTime: 2021-02-19T18:50:00Z
+    webUrl: "https://www.nytimes.com/2021/02/19/us/politics/imaad-zuberi-sentence.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/19/us/politics/imaad-zuberi-sentence.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/19/us/politics/imaad-zuberi-sentence.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/19/world/19new-washingtong-briefing-Imaad-Zuberi-1/19new-washingtong-briefing-Imaad-Zuberi-1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Impeachment Case Aims to Marshal Outrage of Capitol Attack Against Trump"
     excerpt: "Armed with lessons from the last impeachment trial of Donald J. Trump, prosecutors plan a shorter, video-heavy presentation to confront Republicans with the fury they felt around the Capitol riot."

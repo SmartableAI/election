@@ -79,22 +79,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Former Texas sheriff: US ‘basically reopening the border’ to illegal immigrants with Biden agenda"
-    excerpt: "The Biden administration's immigration policies amount to \"reopening the border\" to illegal aliens and creating the conditions for an illegal immigration spike, a retired Texas sheriff warned on \"Fox & Friends\" Tuesday."
-    publishedDateTime: 2021-02-16T20:09:19Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VbKHGbDMdoc/biden-immigration-agenda-open-borders-texas-sheriff-harold-eavenson"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-immigration-agenda-open-borders-texas-sheriff-harold-eavenson.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-immigration-agenda-open-borders-texas-sheriff-harold-eavenson.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4f6ae5a3-36be-41fd-97b0-f9e68056de11/7d329f70-fa0c-4a43-adad-8b43060d8792/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Biden admin erects tent city in Texas to handle influx of illegal immigrants"
     excerpt: "The Biden administration announced this week that it opened a soft-sided facility for immigrants in Donna, Texas, as Republican lawmakers warn of a “rising crisis” at the U.S.-Mexico border."
     publishedDateTime: 2021-02-11T00:00:00Z

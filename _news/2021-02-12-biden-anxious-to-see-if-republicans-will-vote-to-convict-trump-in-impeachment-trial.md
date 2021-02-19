@@ -95,6 +95,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "US formally rejoins Paris climate accord as Biden seeks to reverse Trump energy policies"
+    excerpt: "Secretary of State Tony Blinken announced Friday that the United States formally rejoined the Paris climate agreement, arguing it will \"help us all avoid catastrophic planetary warming\" and \"build resilience\" around the world."
+    publishedDateTime: 2021-02-19T17:39:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Zrjomhb6AW4/us-formally-rejoins-paris-climate-accords-blinken-announces"
+    ampWebUrl: "https://www.foxnews.com/politics/us-formally-rejoins-paris-climate-accords-blinken-announces.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/us-formally-rejoins-paris-climate-accords-blinken-announces.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 181
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump WH sign-language interpreter says Biden administration 'canceled and humiliated' her"
     excerpt: "The White House sign-language interpreter who was outed as a supporter of former President Donald Trump said Sunday that she hasn’t been offered a return engagement since — and blasted critics who attacked her credibility and professionalism."
     publishedDateTime: 2021-02-08T13:28:34Z
@@ -140,6 +156,22 @@ related:
     quality: 180
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/071f1d37-4a3e-4737-9116-daa4093f0f0b/045aa0b1-e137-4f38-b83e-3887abc19c69/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "US begins admitting migrants from Mexico, as Biden administration winds down Trump-era policy"
+    excerpt: "The U.S. on Friday began admitting migrants waiting in Mexico for their immigration cases to be processed -- as the Biden administration moves to wind down the Trump-era Migrant Protection Protocols (MPP), a move critics say could fuel a new border crisis."
+    publishedDateTime: 2021-02-19T18:36:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8MmfV0ontqw/us-migrants-from-mexico-as-biden-trump-policy"
+    ampWebUrl: "https://www.foxnews.com/politics/us-migrants-from-mexico-as-biden-trump-policy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/us-migrants-from-mexico-as-biden-trump-policy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 179
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e575dda5-88ce-410a-89d1-2e633c078351/84aa2f82-8a71-4b1d-8d63-e3489546f015/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/gop-sen-richard-burr-facing-cens
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/gop-sen-richard-burr-facing-censure-home-vote/story?id=75905127"
 type: article
 quality: 125
-heat: 385
+heat: 405
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/Politics/WireAP_c675bfc3c964454fb6184036974f39ae_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Toomey, who once unified the GOP, now on the outs over Trump"
+    excerpt: "Before he became the object of fury of Republicans for voting to convict Donald Trump during the former president’s second impeachment trial, U.S. Sen. Pat Toomey of Pennsylvania was once the insurgen"
+    publishedDateTime: 2021-02-19T18:16:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/toomey-unified-gop-now-outs-trump-75999311"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/toomey-unified-gop-now-outs-trump-75999311"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/toomey-unified-gop-now-outs-trump-75999311"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_bb6ab5e111f7413bbf33688d4f738d46_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true

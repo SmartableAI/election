@@ -47,22 +47,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Border mayor begs Biden to stop releasing illegal immigrants into his city amid winter storm"
-    excerpt: "A Texas border mayor is begging President Biden to help his town struggling under extreme weather conditions, the coronavirus pandemic, and an influx of undocumented migrants crossing the border."
-    publishedDateTime: 2021-02-19T03:38:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TYydiBPk9GM/border-mayor-begs-biden-to-stop-releasing-illegal-immigrants-into-his-city-amid-winter-storm"
-    ampWebUrl: "https://www.foxnews.com/politics/border-mayor-begs-biden-to-stop-releasing-illegal-immigrants-into-his-city-amid-winter-storm.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/border-mayor-begs-biden-to-stop-releasing-illegal-immigrants-into-his-city-amid-winter-storm.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 164
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4ab71ec7-6f54-4382-8f6d-33f7053e5337/1b6fc5be-d65d-4ac1-9c73-adfc4e89846b/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "KcLdAtlu+h3zS9sECFPhFLM6GGR/wDNJDGk8/gO5CTvfWakTBfN4YKL5Vb5kKLQS6fpepqVOiC8YFy3fOA26B8fS+uQTeANPgEeXjJFn+Y3B3guEHS/UhX5pJeHKAjYxgT9sn2iyWD2H3trNWnmEeFuU/nBv/mvP4lWzU2XHeJrfRkY0x8i7YRuJugMo5oQkXFQLWsxFWpBDyuHHMNpXy11FpwWrDBSnFhDe1UY0G/VI4vg3o4ze0xIi8ce3bScWttJnhcdD68J7cHXu6rGbDczyQGttuC2D3OKCjzkOu8rvdNCzqRJqkzX8GLrn+tgn9SNQwd99gG1OG9LvQkYHkXOtrXxySky4NoLxl+pWyl8=;9cAyPLN7SCiI/FLaBmvQQg=="
 ---

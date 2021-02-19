@@ -2,25 +2,25 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-02-19-oversight-republicans-warn-dhs-of-impending-border-health-crisis-blame-reckless-biden-policies.md",
-      "title": "Oversight Republicans warn DHS of impending border health crisis, blame ‘reckless’ Biden policies",
-      "excerpt": "Republicans on the House Oversight Committee are sounding the alarm to the Biden administration about an impending health crisis at the southern border -- warning that \"reckless\" policies and rhetoric from President Biden are fueling it.",
+      "path": "_news/2021-02-19-biden-says-he-is-planning-on-visiting-texas-amid-weather-crisis.md",
+      "title": "Biden says he is planning on visiting Texas amid weather crisis",
+      "excerpt": "President Biden on Friday said he is planning to visit Texas as the state grapples with a weather crisis that has left hundreds of thousands of residents without power, prompting him to declare an emergency declaration.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/aGoFPZP-tj0/oversight-republicans-dhs-border-health-crisis-biden",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/aGoFPZP-tj0/oversight-republicans-dhs-border-health-crisis-biden",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CYVbyvXJ2KQ/biden-planning-on-visiting-texas-weather-crisis",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CYVbyvXJ2KQ/biden-planning-on-visiting-texas-weather-crisis",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 142,
+      "heat": 255,
       "tags": null,
       "images": [
         {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/29ad43be-ef82-4891-814c-c63e8428c1be/341602a7-fa65-4e5f-aed0-8d066037eff0/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -28,9 +28,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-19T07:01:21-08:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-planning-on-visiting-texas-weather-crisis.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-planning-on-visiting-texas-weather-crisis.amp",
+      "publishedDateTime": "2021-02-19T09:51:42-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -58,25 +58,25 @@
       ]
     },
     {
-      "path": "_news/2021-02-19-biden-reiterates-support-for-texas-in-call-with-gov-abbott-over-winter-storm-crisis-white-house-says.md",
-      "title": "Biden reiterates support for Texas in call with Gov. Abbott over winter storm crisis, White House says",
-      "excerpt": "President Biden spoke to Texas Gov. Greg Abbott Thursday about the ongoing winter storm crisis that had left millions without power for days.",
+      "path": "_news/2021-02-19-mark-morgan-blasts-bidens-new-guidelines-on-ice-arrests-defies-law-and-order-common-sense.md",
+      "title": "Mark Morgan blasts Biden's new guidelines on ICE arrests: 'Defies law and order, common sense'",
+      "excerpt": "The Biden administration's immigration reform \"defies law and order and common sense,\" former acting DHS Secretary Mark Morgan said on Friday.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VrX0aoRNt6E/biden-reiterates-support-for-texas-in-call-with-gov-abbott-over-winter-storm-crisis-white-house-says",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VrX0aoRNt6E/biden-reiterates-support-for-texas-in-call-with-gov-abbott-over-winter-storm-crisis-white-house-says",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Cg4x5MHCXCk/mark-morgan-joe-biden-ice-arrests-drop",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Cg4x5MHCXCk/mark-morgan-joe-biden-ice-arrests-drop",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 159,
+      "heat": 163,
       "tags": null,
       "images": [
         {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/11665ff5-341f-4d44-9ffc-514372608862/28df6f02-0427-4c6b-8612-78db21c2fd30/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -84,9 +84,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-reiterates-support-for-texas-in-call-with-gov-abbott-over-winter-storm-crisis-white-house-says.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-reiterates-support-for-texas-in-call-with-gov-abbott-over-winter-storm-crisis-white-house-says.amp",
-      "publishedDateTime": "2021-02-19T01:33:54-08:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/mark-morgan-joe-biden-ice-arrests-drop.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mark-morgan-joe-biden-ice-arrests-drop.amp",
+      "publishedDateTime": "2021-02-19T09:46:57-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

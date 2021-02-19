@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-reiterates-support-for-texas-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-reiterates-support-for-texas-in-call-with-gov-abbott-over-winter-storm-crisis-white-house-says.amp"
 type: article
 quality: 159
-heat: 159
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -29,6 +29,70 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Biden says he is planning on visiting Texas amid weather crisis"
+    excerpt: "President Biden on Friday said he is planning to visit Texas as the state grapples with a weather crisis that has left hundreds of thousands of residents without power, prompting him to declare an emergency declaration."
+    publishedDateTime: 2021-02-19T17:51:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CYVbyvXJ2KQ/biden-planning-on-visiting-texas-weather-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-planning-on-visiting-texas-weather-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-planning-on-visiting-texas-weather-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Border mayor begs Biden to stop releasing illegal immigrants into his city amid winter storm"
+    excerpt: "A Texas border mayor is begging President Biden to help his town struggling under extreme weather conditions, the coronavirus pandemic, and an influx of undocumented migrants crossing the border."
+    publishedDateTime: 2021-02-19T03:38:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TYydiBPk9GM/border-mayor-begs-biden-to-stop-releasing-illegal-immigrants-into-his-city-amid-winter-storm"
+    ampWebUrl: "https://www.foxnews.com/politics/border-mayor-begs-biden-to-stop-releasing-illegal-immigrants-into-his-city-amid-winter-storm.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/border-mayor-begs-biden-to-stop-releasing-illegal-immigrants-into-his-city-amid-winter-storm.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4ab71ec7-6f54-4382-8f6d-33f7053e5337/1b6fc5be-d65d-4ac1-9c73-adfc4e89846b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Former Texas sheriff: US ‘basically reopening the border’ to illegal immigrants with Biden agenda"
+    excerpt: "The Biden administration's immigration policies amount to \"reopening the border\" to illegal aliens and creating the conditions for an illegal immigration spike, a retired Texas sheriff warned on \"Fox & Friends\" Tuesday."
+    publishedDateTime: 2021-02-16T20:09:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VbKHGbDMdoc/biden-immigration-agenda-open-borders-texas-sheriff-harold-eavenson"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-immigration-agenda-open-borders-texas-sheriff-harold-eavenson.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-immigration-agenda-open-borders-texas-sheriff-harold-eavenson.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4f6ae5a3-36be-41fd-97b0-f9e68056de11/7d329f70-fa0c-4a43-adad-8b43060d8792/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Oversight Republicans warn DHS of impending border health crisis, blame ‘reckless’ Biden policies"
+    excerpt: "Republicans on the House Oversight Committee are sounding the alarm to the Biden administration about an impending health crisis at the southern border -- warning that \"reckless\" policies and rhetoric from President Biden are fueling it."
+    publishedDateTime: 2021-02-19T15:01:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aGoFPZP-tj0/oversight-republicans-dhs-border-health-crisis-biden"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 142
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/29ad43be-ef82-4891-814c-c63e8428c1be/341602a7-fa65-4e5f-aed0-8d066037eff0/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "AtvYq5BdTQ0ifpZucpFX8MWuDA4OK0fGDu2O7JTU24f5U28E17dpnxMdcoed3XNf6Z3ksKML7J5GjdmUpYpW/U5fohNMiONJOJextpjRnMEfqA2XeS14dkfMlF+3mbA4aAAe2SqRcmvVQK7l3Vgv0DmYyQ+0jys6wKWYR2ld/1rfKoJhmodg+95+KHQXRvyx7W0SKWoHmzfO8yK+MIHhJ8YnzG71XYruGExjm+IzLcdQ2QUsdvdYqwbqs3HhrdEx3LB3JlWqQgBgbloyV2LcnRFgMynMth140L5lv4iYZPGa+Ql1TlxTornVvQuxhIFV1Za02NBEjLnsRmWSIHRH0nozaAQ5GF+JR2Wo1+GbYf0=;XFxWDJojHuo+cQqbyQM+Jg=="
 ---

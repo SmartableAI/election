@@ -352,6 +352,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden declares the era of Trump-style ‘America First’ diplomacy over."
+    excerpt: "America is back, the trans-Atlantic alliance is back,” Mr. Biden declared. Trying to expunge the last four years without ever once naming his predecessor, Donald J. Trump, Mr. Biden said “we are not looking backward."
+    publishedDateTime: 2021-02-19T17:29:00Z
+    webUrl: "https://www.nytimes.com/2021/02/19/world/biden-speech-munich-security-conference.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/19/world/biden-speech-munich-security-conference.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/19/world/biden-speech-munich-security-conference.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/19/world/19WORLD-LEADERS-biden2/19WORLD-LEADERS-biden2-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Denying Incitement, Trump Impeachment Team Says He Cannot Be Tried"
     excerpt: "The lengthy legal brief provided the first extended defense of former President Donald J. Trump’s conduct since the Jan. 6 assault on the Capitol. It arrived as senators locked in rules for an exceedingly fast trial."
     publishedDateTime: 2021-02-09T01:15:00Z
