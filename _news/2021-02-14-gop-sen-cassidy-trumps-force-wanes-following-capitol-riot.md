@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/gop-sen-cassidy-trumps-force-wanes-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-sen-cassidy-trumps-force-wanes-following-senate-impeachment-trial.amp"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ce0ff8aa-4ebc-4f0a-b188-e29d6303380f/f2169d82-7384-44cf-93f0-ae8b40aab209/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Thune decries ‘cancel culture’ against Republicans who voted to convict Trump amid uncertain Senate GOP future"
+    excerpt: "Sen. John Thune, a top ally to Senate Minority Leader Mitch McConnell, said that those aiming to punish senators who voted to convict former President Donald Trump at his impeachment trial are engaging in \"cancel culture.\""
+    publishedDateTime: 2021-02-19T12:09:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SeYUIvxKk3o/thune-decries-cancel-culture-against-republicans-who-voted-to-convict-trump-amid-uncertain-senate-gop-future"
+    ampWebUrl: "https://www.foxnews.com/politics/thune-decries-cancel-culture-against-republicans-who-voted-to-convict-trump-amid-uncertain-senate-gop-future.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/thune-decries-cancel-culture-against-republicans-who-voted-to-convict-trump-amid-uncertain-senate-gop-future.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Pence reportedly 'angry' at Trump for not asking about his safety during Capitol riot: Chris Wallace"
     excerpt: "Former Vice President Mike Pence feels \"residual bitterness\" toward former President Donald Trump over his lack of concern for Pence's safety during the deadly Jan. 6 riot at the Capitol, \"Fox News Sunday\" host Chris Wallace told \"The Story\" on Wednesday."

@@ -9,7 +9,7 @@ ampWebUrl: "https://goodmorningamerica.com/amp/living/story/kamala-harris-late-l
 cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/living/story/kamala-harris-late-life-love-story-changing-trend-75819461"
 type: article
 quality: 125
-heat: 385
+heat: 405
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/_CKfnM14SWqOHfUIcEXyXw3v5bU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/27GFWB6K2FFIVPBFL7BCBYGV74.jpg"
         width: 1200
         height: 774
+        isCached: true
+  - title: "Kamala Harris promises federal relief for Texas victims of winter storms"
+    excerpt: "Vice-president also touts speed with which government is sending Covid-19 vaccines to states, a 57% increase since the inauguration"
+    publishedDateTime: 2021-02-17T16:31:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/feb/17/kamala-harris-covid-vaccine-all-americans-july?CMP=twt_gu"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/17/kamala-harris-covid-vaccine-all-americans-july"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/17/kamala-harris-covid-vaccine-all-americans-july"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 124
+    images:
+      - url: "https://i.guim.co.uk/img/media/7080271c4672fde6611b453044c07e26cb01a4f1/0_215_3500_2102/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4326dbd22ff0acde66d92f9666493f27"
+        width: 600
+        height: 360
         isCached: true
   - title: "Fact check: Fabricated Kamala Harris quote about white people being racist"
     excerpt: "Social media users have recently been resharing a post from 2019 showing a quote falsely attributed to U.S. Vice President Kamala Harris, where she purportedly says white people are racist. The Vice President’s press secretary confirmed to Reuters that the quotation"

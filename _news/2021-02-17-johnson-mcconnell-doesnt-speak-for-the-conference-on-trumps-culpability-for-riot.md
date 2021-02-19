@@ -286,6 +286,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Senior Republicans split over how to treat Trump: Pay homage at Mar-a-Lago or refuse to 'bend the knee'"
+    excerpt: "Senior Republicans are split over how to treat former President Donald Trump, with the No. 2 House Republican making a personal pilgrimage to visit him on the same day that the top Senate Republican vowed never to \"bend the knee\" in that way.\n    \n"
+    publishedDateTime: 2021-02-19T00:25:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RGWr8IUjOaU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/18/politics/republicans-scalise-mcconnell-bend-the-knee-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/18/politics/republicans-scalise-mcconnell-bend-the-knee-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 159
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210213165012-mitch-mcconnell-february-13-2021-02-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "GOP lawmaker tied to surprise call for witnesses in Trump impeachment trial has broken with party before"
     excerpt: "The Republican congresswoman who triggered a surprise call for witnesses in the waning hours of former President Donald Trump's second impeachment trial has logged a decade in Congress -- at times breaking from her party and standing up to Trump.\n    \n"
     publishedDateTime: 2021-02-13T19:55:13Z

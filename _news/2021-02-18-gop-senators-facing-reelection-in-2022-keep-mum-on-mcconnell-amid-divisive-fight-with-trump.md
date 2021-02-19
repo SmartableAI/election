@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/18/politics/senate-republicans-2022-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/18/politics/senate-republicans-2022-mcconnell-trump/index.html"
 type: article
 quality: 180
-heat: 900
+heat: 920
 published: true
 
 provider:
@@ -268,6 +268,22 @@ related:
     quality: 159
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210215202426-mcconnell-210213-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Senior Republicans split over how to treat Trump: Pay homage at Mar-a-Lago or refuse to 'bend the knee'"
+    excerpt: "Senior Republicans are split over how to treat former President Donald Trump, with the No. 2 House Republican making a personal pilgrimage to visit him on the same day that the top Senate Republican vowed never to \"bend the knee\" in that way.\n    \n"
+    publishedDateTime: 2021-02-19T00:25:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RGWr8IUjOaU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/18/politics/republicans-scalise-mcconnell-bend-the-knee-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/18/politics/republicans-scalise-mcconnell-bend-the-knee-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 159
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210213165012-mitch-mcconnell-february-13-2021-02-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

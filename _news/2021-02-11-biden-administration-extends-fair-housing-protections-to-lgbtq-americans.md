@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to affirm transatlantic ties in first major foreign policy outing"
+    excerpt: "When Joe Biden last addressed the Munich Security Conference two years ago, he made a promise to a packed-in crowd at the Hotel Bayerischer Hof.\n    \n"
+    publishedDateTime: 2021-02-19T10:00:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZnZ92VY9VzY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/19/politics/joe-biden-foreign-policy-speech/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/19/politics/joe-biden-foreign-policy-speech/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210216214433-12-biden-town-hall-0216-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration approves arms sale to Egypt despite human rights concerns"
     excerpt: "The Biden administration on Tuesday announced it had approved a possible $197 million sale of missiles to Egypt, just days after the Egyptian government is said to have detained family members of a US-based Egyptian American human rights activist.\n    \n"
     publishedDateTime: 2021-02-16T22:34:37Z

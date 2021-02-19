@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/12/politics/biden-guantanamo-bay/ind
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/12/politics/biden-guantanamo-bay/index.html"
 type: article
 quality: 175
-heat: 315
+heat: 335
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden to affirm transatlantic ties in first major foreign policy outing"
+    excerpt: "When Joe Biden last addressed the Munich Security Conference two years ago, he made a promise to a packed-in crowd at the Hotel Bayerischer Hof.\n    \n"
+    publishedDateTime: 2021-02-19T10:00:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZnZ92VY9VzY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/19/politics/joe-biden-foreign-policy-speech/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/19/politics/joe-biden-foreign-policy-speech/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210216214433-12-biden-town-hall-0216-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration extends fair housing protections to LGBTQ Americans"
     excerpt: "Protections under the Fair Housing Act will now cover LGBTQ Americans, the Biden administration announced Thursday, a move that allows the federal government to investigate complaints of housing discrimination based on sexual orientation or gender identity.\n    \n"
     publishedDateTime: 2021-02-11T17:19:29Z

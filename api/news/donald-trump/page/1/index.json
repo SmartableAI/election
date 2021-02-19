@@ -215,6 +215,58 @@
       ]
     },
     {
+      "path": "_news/2021-02-19-bill-gates-wants-trump-back-on-facebook-its-a-shame.md",
+      "title": "Bill Gates Wants Trump Back On Facebook: It's 'A Shame'",
+      "excerpt": "Facebook had indefinitely suspended Trump's account after the former president used it to incite his supporters the day of the bloody Capitol insurrection.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/bill-gates-wants-trump-back-facebook-its-shame-3148140",
+      "originalUrl": "https://www.ibtimes.com/bill-gates-wants-trump-back-facebook-its-shame-3148140",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/08/05/microsoft-founder-and-philanthropist-bill-gates-seen-here.jpg",
+          "width": 1024,
+          "height": 681,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/bill-gates-wants-trump-back-facebook-its-shame-3148140?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/bill-gates-wants-trump-back-facebook-its-shame-3148140?amp=1",
+      "publishedDateTime": "2021-02-18T19:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-19-ivanka-trump-tells-rubio-she-wont-run-for-his-senate-seat.md",
       "title": "Ivanka Trump tells Rubio she won't run for his Senate seat",
       "excerpt": "Ivanka Trump will not be running for Florida Sen. Marco Rubio’s U.S. Senate seat in 2022 as she settles into life after Washington",
@@ -1544,63 +1596,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-14-the-disgraceful-acquittal-of-donald-trump.md",
-      "title": "The ‘Disgraceful Acquittal’ of Donald Trump",
-      "excerpt": "A sad, sad day for democracy,” one reader writes. “It was craven cowardice for Republicans to put Mr. Trump before country,” writes another.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/02/13/opinion/letters/trump-impeachment-trial.html",
-      "originalUrl": "https://www.nytimes.com/2021/02/13/opinion/letters/trump-impeachment-trial.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/02/13/us/politics/13impeachment-briefing-acquital-defining-moment2/13impeachment-briefing-acquital-defining-moment2-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/02/13/opinion/letters/trump-impeachment-trial.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/13/opinion/letters/trump-impeachment-trial.amp.html",
-      "publishedDateTime": "2021-02-13T15:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

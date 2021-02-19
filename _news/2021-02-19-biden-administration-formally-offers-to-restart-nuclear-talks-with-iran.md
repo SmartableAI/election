@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to affirm transatlantic ties in first major foreign policy outing"
+    excerpt: "When Joe Biden last addressed the Munich Security Conference two years ago, he made a promise to a packed-in crowd at the Hotel Bayerischer Hof.\n    \n"
+    publishedDateTime: 2021-02-19T10:00:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZnZ92VY9VzY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/19/politics/joe-biden-foreign-policy-speech/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/19/politics/joe-biden-foreign-policy-speech/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210216214433-12-biden-town-hall-0216-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration extends fair housing protections to LGBTQ Americans"
     excerpt: "Protections under the Fair Housing Act will now cover LGBTQ Americans, the Biden administration announced Thursday, a move that allows the federal government to investigate complaints of housing discrimination based on sexual orientation or gender identity.\n    \n"
     publishedDateTime: 2021-02-11T17:19:29Z
@@ -145,6 +161,6 @@ related:
         height: 619
         isCached: true
 
-secured: "o4/Dtm5WU1tdLz9+R4IcuFQg9OnSOwCB0DVfJkXxFDDY2qW7StAqpPJImVy3a7Z8Zp5P2SdGZEYfYVn9ckQvvKBKzGzTzfS5V6AhISw0iufojV8rid9kBl+UsRxt8cm6wfWtjINnXzc1Hfxx/TLUpF6Q1QL6f0FetPx6aLvW005VseEPiYrN762XBlwFF2FzvEfo9tBCjQTXBwtNbKEtCVczW2o8q12V9ds7fjKz6ThSUBay+qYk0im1AxFNynwE8YPkG2I/XaNyQ4rnpUqYB7/zEmbNUL8eoiPpFXbJc/iTVUjGQrQbNoXRnxa8zx43/XnRs3wQ/ZdlncP3YWWu9SEbKkHGR6xWdNWWkK6KATk=;Ljob4mtK2PbwmUtClFsZCg=="
+secured: "FhYomQ7duds9w0JEaNpKcgm3vWiNCVEFivuZQT7MNiNyHLN6Lc6BqT7cGEQtgzjTIOAwPvBxARwIDrub9EZazh6EDLmrWTp8UipzR4SPN9cDVhuT2kqlkQwnvkBLldGQj28A92bFNbiz4UtGcw4hJt+Y85W8sTvg7/IgI0YDmpU2piTJSqnZiJf5Di4jWt9sUP9/oteRMC1F3QsQivvjxwZ6zv8d14j2881EArERAX4xHWK+zz7BYpWlGwetOlDxOyUgRk+k2JXTbHw4IhXTUtZq/DEFldVZAwJtETxpgL9UHDpbOb1AA4iAuQXDZT6jZKWXsVmsTVU1BqS/A+QjQVuWg63+6DPwQRZ+FlN+4sq0Jw3ke67gO3A2y53Pu5BnfXG1UVw8ioe0BPkYOhe+fx+2VI+QsKi0f/Ze3Ux3N77dUCMFVPmzHU9ahSure/lm+wbj8FRohvkSog7Ic2ClZNRQwn+/se59cBrpPfgOxt+zlNnw84lNnodAfohcQQdHpEIyybe8X3HzBVDDyu12tg==;tzR7wxCpRI2OVnxG22CYew=="
 ---
 

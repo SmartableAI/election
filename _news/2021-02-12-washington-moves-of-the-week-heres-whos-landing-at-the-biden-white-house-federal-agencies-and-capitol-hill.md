@@ -473,7 +473,7 @@ related:
   - title: "Biden tackles white supremacy in town hall: Politics Weekly Extra"
     excerpt: "As Joe Biden visited Milwaukee, Wisconsin this week, our guest presenter Kenya Evelyn spoke to the state representative David Bowen about the administration’s early obligations to Black voters"
     publishedDateTime: 2021-02-19T05:00:00Z
-    webUrl: "https://www.theguardian.com/politics/audio/2021/feb/19/biden-tackles-white-supremacy-in-town-hall-politics-weekly-extra?share=twitter"
+    webUrl: "https://www.theguardian.com/politics/audio/2021/feb/19/biden-tackles-white-supremacy-in-town-hall-politics-weekly-extra"
     type: article
     provider:
       name: The Guardian
