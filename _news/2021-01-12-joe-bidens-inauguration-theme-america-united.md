@@ -139,6 +139,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Biden's attorney general pick Garland to prioritize civil rights, combating domestic terror"
+    excerpt: "Merrick Garland was tasked with supervising a sprawling U.S. Justice Department criminal investigation into the bombing of a federal office building in Oklahoma City that killed 168 people."
+    publishedDateTime: 2021-02-19T16:03:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-senate-justice-garland-idUSKBN2AJ16S"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AJ16S"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AJ16S"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 115
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210219&t=2&i=1552142019&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1I0NJ"
+        width: 812
+        height: 545
+        isCached: true
   - title: "Biden's last major hire is career diplomat Burns to run CIA"
     excerpt: "U.S. President-elect Joe Biden on Monday tapped a former career diplomat in William Burns to lead the CIA as the Democrat raced to put a national security team in place days before his inauguration."
     publishedDateTime: 2021-01-12T01:39:00Z

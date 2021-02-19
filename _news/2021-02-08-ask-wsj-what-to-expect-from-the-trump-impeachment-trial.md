@@ -588,6 +588,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "David Schoen ‘canceled’ for representing Trump in impeachment trial"
+    excerpt: "David Schoen said representing former President Donald Trump at his second impeachment trial turned him into the latest victim of cancel culture. The veteran Alabama attorney claimed an offer to"
+    publishedDateTime: 2021-02-19T15:44:00Z
+    webUrl: "https://nypost.com/2021/02/19/david-schoen-canceled-by-law-school-for-representing-trump/"
+    ampWebUrl: "https://nypost.com/2021/02/19/david-schoen-canceled-by-law-school-for-representing-trump/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/19/david-schoen-canceled-by-law-school-for-representing-trump/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/schoen-3.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Matt Gaetz says he’d resign House seat to defend Trump at impeachment trial"
     excerpt: "Matt Gaetz said he would resign if called on by former President Donald Trump to defend him in his upcoming impeachment trial, saying it’d be the “top priority in my life.” The Florida congressman made the comment in an interview with the Steve Bannon-hosted podcast “War Room Pandemic."
     publishedDateTime: 2021-02-04T15:31:00Z

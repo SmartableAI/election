@@ -303,6 +303,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Drawing contrast with Trump, Biden promises U.S. allies a partnership that's not transactional"
+    excerpt: "U.S. President Joe Biden on Friday planned to draw a sharp contrast with the foreign policy of his much-derided predecessor, Donald Trump, vowing to end transactional diplomacy and promote democracy over autocracies."
+    publishedDateTime: 2021-02-19T16:26:00Z
+    webUrl: "https://www.reuters.com/article/uk-g7-meeting-biden-idAFKBN2AJ11I"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN2AJ11I"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN2AJ11I"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 128
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210219&t=2&i=1552172310&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1I0KA"
+        width: 817
+        height: 545
+        isCached: true
   - title: "How Kamala Harris made wearing pearls cool"
     excerpt: "As the pearl’s standing increases alongside that of women, a progressive new generation is rediscovering Margaret Thatcher’s one-time trademark"
     publishedDateTime: 2021-02-12T16:14:00Z

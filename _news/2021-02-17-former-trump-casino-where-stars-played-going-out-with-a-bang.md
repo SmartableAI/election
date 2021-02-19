@@ -77,6 +77,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "GOP infighting in post-Trump era threatens California recall"
+    excerpt: "Republican hopes of ousting Democratic Gov. Gavin Newsom in California could be threatened by bitter infighting within the state GOP"
+    publishedDateTime: 2021-02-19T16:16:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/republican-infighting-rattles-bid-oust-democrat-newsom-75988518"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/republican-infighting-rattles-bid-oust-democrat-newsom-75988518"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/republican-infighting-rattles-bid-oust-democrat-newsom-75988518"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_c675bfc3c964454fb6184036974f39ae_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Maine GOP scolds Susan Collins for her vote to convict Trump on impeachment charge"
     excerpt: "Maine's GOP condemned \"in the strongest possible terms\" Collins' vote to hold Trump responsible for inciting the deadly insurrection at the Capitol."
     publishedDateTime: 2021-02-18T18:38:00Z

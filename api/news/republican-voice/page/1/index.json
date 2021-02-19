@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-19-oversight-republicans-warn-dhs-of-impending-border-health-crisis-blame-reckless-biden-policies.md",
+      "title": "Oversight Republicans warn DHS of impending border health crisis, blame ‘reckless’ Biden policies",
+      "excerpt": "Republicans on the House Oversight Committee are sounding the alarm to the Biden administration about an impending health crisis at the southern border -- warning that \"reckless\" policies and rhetoric from President Biden are fueling it.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/aGoFPZP-tj0/oversight-republicans-dhs-border-health-crisis-biden",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/aGoFPZP-tj0/oversight-republicans-dhs-border-health-crisis-biden",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/29ad43be-ef82-4891-814c-c63e8428c1be/341602a7-fa65-4e5f-aed0-8d066037eff0/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-19T07:01:21-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-19-biden-reiterates-support-for-texas-in-call-with-gov-abbott-over-winter-storm-crisis-white-house-says.md",
       "title": "Biden reiterates support for Texas in call with Gov. Abbott over winter storm crisis, White House says",
       "excerpt": "President Biden spoke to Texas Gov. Greg Abbott Thursday about the ongoing winter storm crisis that had left millions without power for days.",
@@ -1599,62 +1655,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/comey-email-reveals-fbi-couldnt-sufficiently-corroborate-steele-dossier.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/comey-email-reveals-fbi-couldnt-sufficiently-corroborate-steele-dossier.amp",
       "publishedDateTime": "2021-02-15T20:54:54-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-15-trump-drives-past-jubilant-supporters-at-impromptu-rally-in-florida.md",
-      "title": "Trump drives past jubilant supporters at impromptu rally in Florida",
-      "excerpt": "Former President Trump marked President’s Day by waiving to a throng of supporters gathered near his south Florida residence.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NtN08aCAz_o/trump-drives-past-jubilant-supporters-at-impromptu-rally-in-florida",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NtN08aCAz_o/trump-drives-past-jubilant-supporters-at-impromptu-rally-in-florida",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-drives-past-jubilant-supporters-at-impromptu-rally-in-florida.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-drives-past-jubilant-supporters-at-impromptu-rally-in-florida.amp",
-      "publishedDateTime": "2021-02-15T14:24:49-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

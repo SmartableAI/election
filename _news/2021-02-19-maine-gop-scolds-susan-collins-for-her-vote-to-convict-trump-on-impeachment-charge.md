@@ -79,6 +79,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "GOP infighting in post-Trump era threatens California recall"
+    excerpt: "Republican hopes of ousting Democratic Gov. Gavin Newsom in California could be threatened by bitter infighting within the state GOP"
+    publishedDateTime: 2021-02-19T16:16:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/republican-infighting-rattles-bid-oust-democrat-newsom-75988518"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/republican-infighting-rattles-bid-oust-democrat-newsom-75988518"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/republican-infighting-rattles-bid-oust-democrat-newsom-75988518"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_c675bfc3c964454fb6184036974f39ae_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "3 charts show where young Republicans are splitting from GOP elders — and from Trump"
     excerpt: "On some foreign policy issues, young Republicans are closer to the Democratic mainstream than to their Republican elders."
     publishedDateTime: 2021-02-16T16:48:00Z

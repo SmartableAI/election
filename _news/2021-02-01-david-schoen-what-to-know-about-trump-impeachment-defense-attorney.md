@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/david-schoen-what-to-know-about-tru
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/david-schoen-what-to-know-about-trump-impeachment-defense-attorney.amp"
 type: article
 quality: 175
-heat: 1055
+heat: 1075
 published: true
 
 provider:
@@ -570,6 +570,22 @@ related:
     quality: 135
     images:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/Trump-Impeachment-Analysis.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "David Schoen ‘canceled’ for representing Trump in impeachment trial"
+    excerpt: "David Schoen said representing former President Donald Trump at his second impeachment trial turned him into the latest victim of cancel culture. The veteran Alabama attorney claimed an offer to"
+    publishedDateTime: 2021-02-19T15:44:00Z
+    webUrl: "https://nypost.com/2021/02/19/david-schoen-canceled-by-law-school-for-representing-trump/"
+    ampWebUrl: "https://nypost.com/2021/02/19/david-schoen-canceled-by-law-school-for-representing-trump/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/19/david-schoen-canceled-by-law-school-for-representing-trump/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/schoen-3.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true
