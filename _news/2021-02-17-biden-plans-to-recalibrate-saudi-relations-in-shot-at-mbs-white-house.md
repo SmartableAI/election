@@ -271,6 +271,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Manchin’s opposition threatens to sink Biden budget nominee"
+    excerpt: "The nomination of Neera Tanden to lead the White House Office of Management and Budget was thrown in doubt Friday as Sen. Joe Manchin of West Virginia became the first Democratic lawmaker to oppose her confirmation."
+    publishedDateTime: 2021-02-19T22:26:00Z
+    webUrl: "https://www.washingtonpost.com/politics/manchins-opposition-threatens-to-sink-biden-budget-nominee/2021/02/19/80447402-7300-11eb-8651-6d3091eac63f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/manchins-opposition-threatens-to-sink-biden-budget-nominee/2021/02/19/80447402-7300-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/manchins-opposition-threatens-to-sink-biden-budget-nominee/2021/02/19/80447402-7300-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Biden says teachers and support staff should move up on vaccine priority list"
     excerpt: "President Biden said Tuesday night that teachers should move up in priority for getting vaccines, although he didn't say whether he thinks teachers should be vaccinated before returning to the classroom."
     publishedDateTime: 2021-02-17T02:50:00Z

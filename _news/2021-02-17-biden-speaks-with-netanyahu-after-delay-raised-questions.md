@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/17/politics/joe-biden-benjamin-netan
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/17/politics/joe-biden-benjamin-netanyahu-israel-us-call/index.html"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Manchin says he'll vote against Biden OMB nominee Neera Tanden"
+    excerpt: "Democratic Sen. Joe Manchin of West Virginia announced Friday he will vote against Neera Tanden, President Joe Biden's nominee for the director of the Office of Management and Budget, which will make it difficult for her to be confirmed given Republican resistance to her nomination.\n    \n"
+    publishedDateTime: 2021-02-19T22:41:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/c_7lUk4Q8YU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/19/politics/joe-manchin-neera-tanden-confirmation-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/19/politics/joe-manchin-neera-tanden-confirmation-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210126203100-joe-manchin-at-inauguration-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Netanyahu's wait for a call from Biden raises questions about US priorities"
     excerpt: "The White House insists President Joe Biden will \"soon\" speak with Israel's Prime Minister Benjamin Netanyahu, but the wait, which has now stretched beyond three weeks, is raising questions about whether there is a motive behind the delay.\n    \n"
     publishedDateTime: 2021-02-12T02:39:30Z

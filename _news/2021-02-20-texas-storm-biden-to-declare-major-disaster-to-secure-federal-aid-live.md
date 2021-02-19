@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Texas storm: Biden to declare major disaster to secure federal aid – live"
-excerpt: "Biden says declaration could be signed this afternoon and would open up aid for immediate and long-term recovery efforts"
-publishedDateTime: 2021-02-19T20:20:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/feb/19/texas-storm-latest-news-today-power-outages-ted-cruz-cancun-trip-backlash?page=with:block-60300dd88f08bdbed283be9f"
-webUrl: "https://www.theguardian.com/us-news/live/2021/feb/19/texas-storm-latest-news-today-power-outages-ted-cruz-cancun-trip-backlash?page=with:block-60300dd88f08bdbed283be9f"
+excerpt: "Biden says declaration could be signed this afternoon and would open up aid for immediate and long-term recovery efforts – follow all the latest news"
+publishedDateTime: 2021-02-19T22:08:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/feb/19/texas-storm-latest-news-today-power-outages-ted-cruz-cancun-trip-backlash?page=with:block-60301e698f08ad21ea6007ec"
+webUrl: "https://www.theguardian.com/us-news/live/2021/feb/19/texas-storm-latest-news-today-power-outages-ted-cruz-cancun-trip-backlash?page=with:block-60301e698f08ad21ea6007ec"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/19/texas-storm-latest-news-today-power-outages-ted-cruz-cancun-trip-backlash"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/19/texas-storm-latest-news-today-power-outages-ted-cruz-cancun-trip-backlash"
 type: article
 quality: 124
-heat: 204
+heat: 224
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/991a3bf3c58ddcf8119fd59c981d4115167e26ee/0_52_3000_1799/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=812dc92f6ce154b3a04bb6604a4f11fd"
         width: 600
         height: 360
+        isCached: true
+  - title: "President Joe Biden planning trip to storm-ravaged Texas, but 'I don't want to be a burden'"
+    excerpt: "President Joe Biden said \"I don’t want to be a burden\" and will go next week when a presidential visit won't get in the way of Texas recovery."
+    publishedDateTime: 2021-02-19T22:41:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/19/president-joe-biden-planning-trip-storm-ravaged-texas-next-week/4508040001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4508040001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4508040001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 115
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/19/USAT/f188392a-9a26-456a-82d7-f1fb619253ab-AP_Biden.JPG?auto=webp&crop=5999,3374,x0,y189&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Biden has reopened Obamacare enrollment, but how fast you need to act depends on where you live"
     excerpt: "Residents of one state don't know whether they can participate in a special enrollment period for federally subsidized health insurance."
@@ -94,6 +110,6 @@ related:
         height: 600
         isCached: true
 
-secured: "aeuKoWxyWggEHsMJ2p4BqpO1xLZXLbXd8CwZprWjworzjq7nRbwEOKwFYa5jraNy5oawALEa1jUnb/++srk/mMgn08DuIn/LpLNuoeKDnP2xzUBQ2dJX4FUMuK9fqnG1VnHPHoUX7PdWDFEHm9YAATJUuikrSi3fydQPh3aABFLD6ivDQX3goYaZy7IA1fJZlD1GgZCPIcv9WptvN5ApsotuWNDOCdmt1uq9zf34BjJzEnds9jV8n6MC8SJyfb9ZkADxMzW02v9q2IVyQgbK1/kKDrLxEWmo8zrxDb1FblUVHlGMPV8O0xqSaU6oujwE3+N7hsyGBShXav3QrZ6F5t4A6i4vOdlPGXvjU3qr/iw=;JAqtjEb/TeGAiv7syfd0mg=="
+secured: "kO36RjRG7o4bTNifGOK0uMARLtB5WujE8Lyf+OxGn5rRUXjj/z1bidpQP33cRKV8CUDmV5uRZ054WT42HX1vu5qVJ3CzWBpfPjoZ4QLW1TNHMMgvKEzcZgU9gqRDcBk/X7pTlRZTI7FabdQ+jUJ8+TmIYK2NEWtnMfGsHeIEIacFeg6Q44eQu6GxRSmKvdoPEoCLR1yo3kPaDx7ZzZ8Rys7rNxq4FSXm7As5zDYXSq5oU6SX1IevBU43xUYbmO6aa0wDJeZ/BL0YEyD+Y+hukRV2X0YWyeY9Yqas76K5XCO9v2Fi+lzzu2b/B2EMzntzJBzdpkpQpC9o2rFpiS4ChkWwYrz2dggEm9huxpZ6kv8=;UW9/qasrbxTgFj4n65KyJw=="
 ---
 

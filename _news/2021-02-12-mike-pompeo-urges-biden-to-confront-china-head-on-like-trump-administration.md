@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/mike-pompeo-biden-administration-co
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-pompeo-biden-administration-confront-china-head-on.amp"
 type: article
 quality: 187
-heat: 667
+heat: 687
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden tells European allies ‘America is back,’ seeks to turn page on Trump era"
+    excerpt: "President Biden on Friday hailed the importance of the alliance between the U.S. and Europe, while also taking a number of thinly-veiled shots at his predecessor."
+    publishedDateTime: 2021-02-19T22:08:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HHe3ihsg54s/biden-european-allies-america-is-back-trump-era"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-european-allies-america-is-back-trump-era.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-european-allies-america-is-back-trump-era.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 186
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fb3ea36b-8ddf-4bf9-962e-95ccdac9293a/db70fa60-ab05-4327-b026-dbd89869e341/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden sidesteps Trump impeachment trial questions: 'Let the Senate work that out’"
     excerpt: "President Biden sidestepped questions about former President Donald Trump's impeachment trial, which is set to begin Tuesday, saying it is up to the Senate to \"work that out.\""
     publishedDateTime: 2021-02-08T16:33:51Z

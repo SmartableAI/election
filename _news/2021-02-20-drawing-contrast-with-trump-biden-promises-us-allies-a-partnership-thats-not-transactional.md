@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Drawing contrast with Trump, Biden promises U.S. allies a partnership that's not transactional"
-excerpt: "U.S. President Joe Biden on Friday planned to draw a sharp contrast with the foreign policy of his much-derided predecessor, Donald Trump, vowing to end transactional diplomacy and promote democracy over autocracies."
-publishedDateTime: 2021-02-19T16:26:00Z
-originalUrl: "https://www.reuters.com/article/uk-g7-meeting-biden-idAFKBN2AJ11I"
-webUrl: "https://www.reuters.com/article/uk-g7-meeting-biden-idAFKBN2AJ11I"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN2AJ11I"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN2AJ11I"
+excerpt: "U.S. President Joe Biden on Friday drew a sharp contrast with the foreign policy of his much-derided predecessor, Donald Trump, vowing to end transactional diplomacy and promote democracy over autocracies."
+publishedDateTime: 2021-02-19T22:11:00Z
+originalUrl: "https://www.reuters.com/article/us-g7-meeting-biden-idCAKBN2AJ11Y"
+webUrl: "https://www.reuters.com/article/us-g7-meeting-biden-idCAKBN2AJ11Y"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN2AJ11Y"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN2AJ11Y"
 type: article
 quality: 128
 heat: -1
@@ -25,7 +25,7 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210219&t=2&i=1552172310&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1I0KA"
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210219&t=2&i=1552180114&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1I15C"
     width: 817
     height: 545
     isCached: true
@@ -642,6 +642,6 @@ related:
         height: 400
         isCached: true
 
-secured: "Fj76NCTtAGqRlcxqabESdoj23pgCiRj+jIhptsG7hfXmNNVBf9HdxP+bckg82e3iFLdyEpJH7gLg5KmBt2foeyfKFBJaoHnMxcQ9HhXmLGhO2IHyb/k2kU9ZXmFiBcCboQDq6ibsVExJBDikRox/mmD99fEdjwZFIzzAMEUxQG1c2QrwsN70dcyWkF0NmByTrhpglk5KsSvrPW6YN73JhzTAU1CPUZvDS2XjOE0j3Tb4csbclSJEGDBtp0+CY2p4rtyb/1s/BhDFgRijmqIfGSjFmYkz2PCtZNIhYRd0jTn+CjPupHnLSHnfPChkX4XASJDnECuFDMKR39Q0dFdWT+pyImOWnxCtvv4YxmWOrAk=;aBHZfCK2che5cudmVlsEaA=="
+secured: "iISLFgadlDWuKt9kFaoelBauAKGuO80Bpw9+8v/TGU+UwQyNFaLDXdd7CVJV3I0ITc8+QlZn3rksUXZzAx5pUQPXoX5c02SvPyVvAX13r2+KNDQqEYfNtxLorZhBV1HNOWAaW1bTAwwHXrVWCfIiV1zHCVPBUJGGhjQ8pYvXe3Q0gIXIh7l8vumh1rxfRJqudA0cOSbETPkmBJ/LiLLIUJiRqsFXVvRSpggUCHmtP5BV4goug/ikDnuwUmpxvdeh6ZxGJHsGKZA66ypbMGliW2+goSkORRUBsucGSX70ucgDNBQCS55qY105ABdJhBZ8xBflxq+ewmM7TTX4jnZF2qH8SFPM/ISn2s2i762AlXU=;UEYe0Xm4i68tqwJxz/iXYw=="
 ---
 

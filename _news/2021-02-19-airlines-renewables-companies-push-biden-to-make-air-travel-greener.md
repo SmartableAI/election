@@ -255,6 +255,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Manchin’s opposition threatens to sink Biden budget nominee"
+    excerpt: "The nomination of Neera Tanden to lead the White House Office of Management and Budget was thrown in doubt Friday as Sen. Joe Manchin of West Virginia became the first Democratic lawmaker to oppose her confirmation."
+    publishedDateTime: 2021-02-19T22:26:00Z
+    webUrl: "https://www.washingtonpost.com/politics/manchins-opposition-threatens-to-sink-biden-budget-nominee/2021/02/19/80447402-7300-11eb-8651-6d3091eac63f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/manchins-opposition-threatens-to-sink-biden-budget-nominee/2021/02/19/80447402-7300-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/manchins-opposition-threatens-to-sink-biden-budget-nominee/2021/02/19/80447402-7300-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Biden plans to 'recalibrate' Saudi relations in shot at MbS - White House"
     excerpt: "President Joe Biden plans to shift U.S. relations with Saudi Arabia and will conduct diplomacy through Saudi King Salman bin Abdulaziz rather than his powerful son, Crown Prince Mohammed bin Salman, the White House said on Tuesday."
     publishedDateTime: 2021-02-16T19:52:00Z

@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Attorney General nominee Merrick Garland to face challenges that include links to Biden and Trump"
+    excerpt: "Barring any surprises at his Senate confirmation hearing next week, Judge Merrick Garland appears poised to become President Joe Biden's first attorney general, bringing a longtime jurist with a steadying hand to a department that's teetering between crises.\n    \n"
+    publishedDateTime: 2021-02-19T22:39:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XPnBO7ZI3vk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/19/politics/garland-challenges-attorney-general-hearing/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/19/politics/garland-challenges-attorney-general-hearing/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 177
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210107142027-03-biden-announcement-0107-garland-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: Trump's bipartisan impeachment is historic"
     excerpt: "The House voted on Wednesday to impeach President Donald Trump for a second time. This impeachment, unlike his first, was bipartisan. All told, 10 Republican representatives cast their vote to impeach Trump.\n    \n"
     publishedDateTime: 2021-01-14T15:44:39Z

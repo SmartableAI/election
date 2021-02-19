@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden says once he defeats COVID, cancer is next"
+    excerpt: "President Biden said Friday that ending cancer will be his next big scientific endeavor after overcoming the coronavirus pandemic. "
+    publishedDateTime: 2021-02-19T22:28:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BdI0wFSSHOM/curing-cancer-up-next-for-biden-after-defeating-coronavirus"
+    ampWebUrl: "https://www.foxnews.com/politics/curing-cancer-up-next-for-biden-after-defeating-coronavirus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/curing-cancer-up-next-for-biden-after-defeating-coronavirus.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Biden-Michigan-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden administration taking 'strategic approach' to China, 'not in a rush,' Psaki says"
     excerpt: "President Biden is taking a “strategic approach” to China, White House Press Secretary Jen Psaki said Thursday, adding that the administration is “not in a rush.”"
     publishedDateTime: 2021-02-11T18:50:28Z

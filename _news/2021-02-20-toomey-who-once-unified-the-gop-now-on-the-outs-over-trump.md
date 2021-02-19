@@ -1,34 +1,28 @@
 ---
 category: news
 title: "Toomey, who once unified the GOP, now on the outs over Trump"
-excerpt: "Before he became the object of fury of Republicans for voting to convict Donald Trump during the former president’s second impeachment trial, U.S. Sen. Pat Toomey of Pennsylvania was once the insurgen"
-publishedDateTime: 2021-02-19T18:16:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/toomey-unified-gop-now-outs-trump-75999311"
-webUrl: "https://abcnews.go.com/Politics/wireStory/toomey-unified-gop-now-outs-trump-75999311"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/toomey-unified-gop-now-outs-trump-75999311"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/toomey-unified-gop-now-outs-trump-75999311"
+excerpt: "Before he became the object of fury of Republicans for voting to convict Donald Trump during the former president’s second impeachment trial, U.S. Sen. Pat Toomey of Pennsylvania was once the insurgent from the right."
+publishedDateTime: 2021-02-19T22:51:00Z
+originalUrl: "https://www.businessinsider.com/toomey-who-once-unified-the-gop-now-on-the-outs-over-trump-2021-2"
+webUrl: "https://www.businessinsider.com/toomey-who-once-unified-the-gop-now-on-the-outs-over-trump-2021-2"
+ampWebUrl: "https://www.businessinsider.com/toomey-who-once-unified-the-gop-now-on-the-outs-over-trump-2021-2?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/toomey-who-once-unified-the-gop-now-on-the-outs-over-trump-2021-2?amp"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_bb6ab5e111f7413bbf33688d4f738d46_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "Trump triumphant – but senior Republicans still see battles ahead"
@@ -405,6 +399,6 @@ related:
         height: 455
         isCached: true
 
-secured: "TFPeZJYlq7MhzebEquSx439UxL3AHRjjDwqotsIUyvmndL45s2Sg/GtgB+1uSj+VvBtuSvq22ufBkB4TGZlcBmngsEk2WkToy5kOvM2Umumcb1qgQUgQwsbu9q87qqBTXrlA7cn/5tPbthzZCPHus3JNvmK2gAatYAzRJnZt0/EqnsZIyqzggKWac+BQRskpYCvaiudncl0O+YwGj2QC1CeSVLCmMHGnO0yVkKVTl/lLhA2z1bGcFkJ1D5GUtNtZuN4tWYsgmU1vRtIKE9TAVE43wJrvvcTgyURUWYaFqURQVQLUZRioBw0z5BGyXZHWAyVpIgzM+6xNmquOFwhuUT9BGZrQ+OyuEG+C4+ELFe+GfgsofOTK/CyuSRKj43zIBjBbrJtlwhJjeshRMBU+HB/UieNisDt/P7lePKioV912p2/hncZKrEN3VuFYcG8lzMJinnUu6TeZmNcwZzquOv23S7N5sunpTt/KLo1Y5jK5/1S7O9/qozpWrGgaZj2zvuIY2XQgoqwmYMHhQluQdQ==;GoEAVcy5UREnWeX12nYr5w=="
+secured: "NSejlVI33C25vJ076422kWlW6KhGXNgzC35EvIBUJEG5qTeV7JS60w0f8+vFxKouubLqEk6i4nd8j3bDgym14UQp+Uw8boQ2S7wxV6BLtsVImf2HHCXTkbkBNk+LNsQrp45RWmdo+WiqnbzBpbzFxOaYWWYywUSbIVkpbA7bvb+aOQM+xnz8fWgRJQAJY/tIFu7VQWYLLv1NXYP5S/7Jv4OiplP2hHxyIU69e2cEFmfUQ254O96JHcgSAxBdfHuD/caICzhXgyeKd91Jcdy4ZWrnPTbOigwGfpPqWon75pvF6U6VNL0LX8Xz+g7RSZhi7/yXmkFk3jVwWSq30b6rWTM06QoaJHwitppa3+fw924=;RIcIeKK/by7YnY69kSjavw=="
 ---
 

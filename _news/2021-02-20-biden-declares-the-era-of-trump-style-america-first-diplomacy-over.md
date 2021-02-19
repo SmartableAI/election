@@ -368,6 +368,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "One month into his term, Biden aims to move past Trump and gain some momentum of his own."
+    excerpt: "History will judge whether Mr. Biden will have succeeded in delivering the country from these multiple maelstroms. He has already been a very active new president — approaching his job as a kind of national to-do list,"
+    publishedDateTime: 2021-02-19T22:26:00Z
+    webUrl: "https://www.nytimes.com/2021/02/19/us/one-month-into-his-term-biden-aims-to-move-past-trump-and-gain-some-momentum-of-his-own.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/19/us/one-month-into-his-term-biden-aims-to-move-past-trump-and-gain-some-momentum-of-his-own.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/19/us/one-month-into-his-term-biden-aims-to-move-past-trump-and-gain-some-momentum-of-his-own.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 141
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/19/world/19WORLD-LEADERS-biden2/19WORLD-LEADERS-biden2-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Read: Former President Donald Trump's defense team's legal brief"
     excerpt: "In a pretrial brief ahead of former President Donald Trump's impeachment trial in the Senate, Trump's legal team accused House Democrats of engaging in \"political theater\" and argued that the upcoming trial is unconstitutional because Trump is no longer president."
     publishedDateTime: 2021-02-08T11:30:00Z

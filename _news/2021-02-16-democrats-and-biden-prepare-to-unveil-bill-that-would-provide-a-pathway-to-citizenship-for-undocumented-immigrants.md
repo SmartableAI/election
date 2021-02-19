@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/16/politics/biden-immigration-legisl
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/16/politics/biden-immigration-legislation-pathway-to-citizenship/index.html"
 type: article
 quality: 153
-heat: 173
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,19 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "‘It just symbolizes everything’: In Joe and Jill Biden, presidential PDA makes a comeback"
-    excerpt: "First lady Jill Biden places her hands on President Joe Biden after he is sworn in as 46th president of the United States on Jan. 20, 2021. | Kevin Dietsch/Pool Photo via AP On a mission to rebuild institutional norms and help heal a hurting nation,"
-    publishedDateTime: 2021-02-14T12:02:00Z
-    webUrl: "https://www.politico.com/news/2021/02/14/joe-biden-jill-pda-468831"
+  - title: "Biden used 3 key stats to make a point. Except they weren't true"
+    excerpt: "During President Joe Biden's CNN town hall, he made several false statistical claims. Here's what you need to know.\n    \n"
+    publishedDateTime: 2021-02-19T19:49:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BXHccdyeTw0/fact-check-minimum-wage-immigration-china-joe-biden-orig-me.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/02/19/fact-check-minimum-wage-immigration-china-joe-biden-orig-me.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/02/19/fact-check-minimum-wage-immigration-china-joe-biden-orig-me.cnn"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 106
+      name: CNN
+      domain: cnn.com
+    quality: 175
     images:
-      - url: "https://static.politico.com/b0/e8/c9ad0a0b4464b57b0b196784eca4/ap21020618014402.JPG"
-        width: 1200
-        height: 800
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210216230847-05-biden-town-hall-selects-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Fact check: Biden makes at least four false statistical claims at CNN town hall"
+    excerpt: "President Joe Biden took questions from Wisconsin residents and from Anderson Cooper at a CNN town hall event in Milwaukee on Tuesday night.\n    \n"
+    publishedDateTime: 2021-02-17T21:10:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cRO9cUbdtzw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/17/politics/fact-check-biden-cnn-town-hall-anderson-cooper-milwaukee/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/17/politics/fact-check-biden-cnn-town-hall-anderson-cooper-milwaukee/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210216213824-10-biden-town-hall-0216-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden again rejects $50,000 student loan debt forgiveness plan pushed by other top Democrats"
+    excerpt: "President Joe Biden made it clear during Tuesday night's CNN town hall that he disagrees with other members of his party who want to cancel $50,000 of student debt per borrower.\n    \n"
+    publishedDateTime: 2021-02-17T05:04:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nQc6dADRbS4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/16/politics/student-loan-forgiveness-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/16/politics/student-loan-forgiveness-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210216213824-10-biden-town-hall-0216-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "AZsXdut0tDfL7QtF2UschvRsqcbdxecLe9A7HKWCMLS+cWRUHcsIFMSbjil0CBVM9xwDmg6KawMTUkBd+kGKx+9MzL3TkR+Xgdreit00/lxbOLFWqHeXzC08BJ4jTiGdbQRq8MZwv9+jUGk8zWIzKoY/+Dkl8HNILO25n0qs4wBwme92QTZF/fdi2WxBrYAdt4zUh//RRw/ZDLg3htOxXSbMpDj8LPlJI0ZIZ8RuZbE8tz0bXvgo1n2LVsj9pgnJgrkvpNngWsPM7kV64bWrLjY0QHuAgFRYMe/rncgBL0Cn7PJUX63uMLizu04E2rOukTannExiZ+7FCIkLgXWd+y5fYbQrRVjm/fLRsfrMHOw=;lcS97sClg4yIF7UKG2IRcA=="

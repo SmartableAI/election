@@ -257,6 +257,20 @@ related:
         width: 852
         height: 480
         isCached: true
+  - title: "Vice President Kamala Harris Sells Her San Francisco Condo for a Big Profit"
+    excerpt: "The nation's newest vice president is unloading her San Francisco condo—and she's getting a very good price. Vice President Kamala Harris signed a deal to sell her 1,069-square-foot loft for $799,000,"
+    publishedDateTime: 2021-02-19T22:47:00Z
+    webUrl: "https://www.chron.com/realestate/article/Vice-President-Kamala-Harris-Sells-Her-San-15964506.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 53
+    images:
+      - url: "https://s.hdnux.com/photos/01/16/24/75/20533103/5/rawImage.jpg"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "r1qG5L/61a/DnR6T3DviAZUVWhr9OHJR72J2Zpztz5xH3C9BSrgu0URUoOcy01AD3EnH1fpfVC/jim6L0vECN42m57u2I8jVJ+uojAi1SrUq97yERNuQArzy6iiX3ASBkAQX98fEuILNgFt7IvrU7Y7Pbvqbk5mV0xMyafynDIcQp4hSzrzM73pNJzhzU+03sK+TeISXrKiMZrT2IheijBDqR5i5CnL4F3H6J7T4/I3AztMHoDlkMoLoJitM2f7uw7IuM9F95rezK7b0yEse2tBjDKUXTisMv5fQtX0Hg7H+XI0T3O3DgwME4w6OhNkwIMqrPCcx2yC7UZ+x061wFHPeShi8bTSNzHitigcQc+o4i4/R2FXK64zGTSRJ0M077qKKvbMP/CI5IKUH6QJqZsjWCRzAOawwbzQs9FtJn4W5ipGHdMwf+AYDxn02orKkDG3z9ldDW1LlxKHYg5snjV2EbOz/QJmTe8zBR1KUlDr+j3ku9LhJOBIiiiOn5goTIxLI10RymZ2RJcO4xcxiAQ==;Hfmj7yBWPzyivsjlBu3YWQ=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://www.politico.com/news/2021/02/14/joe-biden-jill-pda-468831
 webUrl: "https://www.politico.com/news/2021/02/14/joe-biden-jill-pda-468831"
 type: article
 quality: 106
-heat: -1
-published: false
+heat: 106
+published: true
 
 provider:
   name: Politico
@@ -28,24 +28,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Democrats and Biden prepare to unveil bill that would provide a pathway to citizenship for undocumented immigrants"
-    excerpt: "The Biden administration, in concert with Hill Democrats, is preparing to unveil legislation this week that seeks to provide a pathway to citizenship to the 11 million undocumented immigrants living in the United States.\n    \n"
-    publishedDateTime: 2021-02-16T22:40:14Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1f-h65J2jeU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/16/politics/biden-immigration-legislation-pathway-to-citizenship/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/16/politics/biden-immigration-legislation-pathway-to-citizenship/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 153
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201114182513-01-daca-protests-file-june-2020-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
 
 secured: "xRnL+q7qy+tEzqU3a06jErBgHWxUV4rbr1tN0XKnxS1WrKQQ8MBEuncpy+VU81pGtG30aOOycl+aQoxKFGNrQbPyqvjjx0tnFTj7JUUBJW9ajCCIc7arO+Njsd1NCQvUapgA6sjvwUILYYFX18vklFtIMKD5mNguWDmvBPi3mIOmeRWSpH/C3BNubUwNuPACJaGRJKHfXQvLKwGC5iGYL85Fm6iSFakEokwrzIqIA50uvTmzUXsSB2jG94bjZP+fUiXaiAc5w0EsaZmq1Yn68YP07mInWTOf2tRHDAhgk41HadRSn4Bf+KXvjphXDU1UgjL7+ScDhcn19UwFWzXBE7nq45YasjNcgkkGEviH04whsMmN8F9C0fw4zrMWUquoOoDAk8/hSjPDsnigDXmWYofUS0WcuEwHn/n85FreLGZZPcRcn3gD3GXFznYGSAjG4Ry0VqB+JhbYWcpb8DuWDR7BWG4F8YVjwJh1d4S5ucp8yIKQMbG/tGe37Jfjx3KUZ//EjWBZY3ryUYDROGzgSg==;IcOhIzcRlHKPm0bvzjsXmA=="
 ---

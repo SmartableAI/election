@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/13/politics/biden-trump-second-impea
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/biden-trump-second-impeachment-trial/index.html"
 type: article
 quality: 176
-heat: 1196
+heat: 1216
 published: true
 
 provider:
@@ -362,6 +362,22 @@ related:
       name: New York Times
       domain: nytimes.com
     quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/19/world/19WORLD-LEADERS-biden2/19WORLD-LEADERS-biden2-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "One month into his term, Biden aims to move past Trump and gain some momentum of his own."
+    excerpt: "History will judge whether Mr. Biden will have succeeded in delivering the country from these multiple maelstroms. He has already been a very active new president — approaching his job as a kind of national to-do list,"
+    publishedDateTime: 2021-02-19T22:26:00Z
+    webUrl: "https://www.nytimes.com/2021/02/19/us/one-month-into-his-term-biden-aims-to-move-past-trump-and-gain-some-momentum-of-his-own.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/19/us/one-month-into-his-term-biden-aims-to-move-past-trump-and-gain-some-momentum-of-his-own.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/19/us/one-month-into-his-term-biden-aims-to-move-past-trump-and-gain-some-momentum-of-his-own.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 141
     images:
       - url: "https://static01.nyt.com/images/2021/02/19/world/19WORLD-LEADERS-biden2/19WORLD-LEADERS-biden2-facebookJumbo.jpg"
         width: 1050

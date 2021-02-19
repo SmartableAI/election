@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Manchin says he'll vote against Biden OMB nominee Neera Tanden"
+    excerpt: "Democratic Sen. Joe Manchin of West Virginia announced Friday he will vote against Neera Tanden, President Joe Biden's nominee for the director of the Office of Management and Budget, which will make it difficult for her to be confirmed given Republican resistance to her nomination.\n    \n"
+    publishedDateTime: 2021-02-19T22:41:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/c_7lUk4Q8YU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/19/politics/joe-manchin-neera-tanden-confirmation-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/19/politics/joe-manchin-neera-tanden-confirmation-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210126203100-joe-manchin-at-inauguration-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Joe Biden returns to Wisconsin, testing a new President's promise to unify and govern"
     excerpt: "Caroline Quinlan didn't vote for Joe Biden, but she's praying for his success and hoping he can deliver on his pledge to unite a deeply divided country.\n    \n"
     publishedDateTime: 2021-02-16T12:00:51Z

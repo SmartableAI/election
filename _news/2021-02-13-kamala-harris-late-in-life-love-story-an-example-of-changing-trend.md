@@ -9,7 +9,7 @@ ampWebUrl: "https://goodmorningamerica.com/amp/living/story/kamala-harris-late-l
 cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/living/story/kamala-harris-late-life-love-story-changing-trend-75819461"
 type: article
 quality: 125
-heat: 425
+heat: 445
 published: true
 
 provider:
@@ -246,6 +246,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/02/18/USAT/03ebffe9-40bc-4235-9784-132de753c87b-f8ca4ada-22db-4aa8-86df-f683448936bc_thumbnail.png?quality=10"
         width: 852
         height: 480
+        isCached: true
+  - title: "Vice President Kamala Harris Sells Her San Francisco Condo for a Big Profit"
+    excerpt: "The nation's newest vice president is unloading her San Francisco condo—and she's getting a very good price. Vice President Kamala Harris signed a deal to sell her 1,069-square-foot loft for $799,000,"
+    publishedDateTime: 2021-02-19T22:47:00Z
+    webUrl: "https://www.chron.com/realestate/article/Vice-President-Kamala-Harris-Sells-Her-San-15964506.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 53
+    images:
+      - url: "https://s.hdnux.com/photos/01/16/24/75/20533103/5/rawImage.jpg"
+        width: 640
+        height: 360
         isCached: true
   - title: "Lindsey Graham threatens impeachment of Kamala Harris on Fox News appearance"
     excerpt: "Lindsey Graham (R-S.C.) threatened Vice President Kamala Harris with a potential impeachment trial in an appearance on \"Fox News Sunday.\" The interview, conducted one day after President Donald Trump was acquitted by the Senate in his second impeachment proceedings,"
