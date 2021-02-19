@@ -2,6 +2,214 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-18-did-kamala-harris-bail-out-minneapolis-rioters-last-year-here-are-the-facts.md",
+      "title": "Did Kamala Harris bail out Minneapolis rioters last year? Here are the facts",
+      "excerpt": "If you use this model, I don’t know how Kamala Harris doesn’t get impeached if the Republicans take over the House, because she actually bailed out rioters, and one of the rioters went back to the streets and broke somebody’s head open,",
+      "sourceUrl": null,
+      "webUrl": "https://www.kansascity.com/news/politics-government/article249293135.html",
+      "originalUrl": "https://www.kansascity.com/news/politics-government/article249293135.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/7c958e2a-8609-4d9d-819e-605abd03947c/22a0d5a2-2296-4a79-a350-caed77e40c72/1280x720/match/image.jpg?pubId=5615998035001",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.kansascity.com/news/politics-government/article249293135.html",
+      "cdnAmpWebUrl": "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/politics-government/article249293135.html",
+      "publishedDateTime": "2021-02-18T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kansas City Star",
+        "domain": "kansascity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-02-18-trump-hails-rush-limbaugh-on-hannity-they-all-respected-rush.md",
+      "title": "Trump hails Rush Limbaugh on 'Hannity': 'They all respected Rush'",
+      "excerpt": "They all respected Rush' Former President Donald Trump joined \" Hannity \" on Wednesday night to remember conservative radio host Rush Limbaugh, who died at age 70 after a long battle with lung cancer .",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/us/trump-hails-rush-limbaugh-on-hannity-they-all-respected-rush",
+      "originalUrl": "https://www.foxnews.com/us/trump-hails-rush-limbaugh-on-hannity-they-all-respected-rush",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/GettyImages-1189876914.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/us/trump-hails-rush-limbaugh-on-hannity-they-all-respected-rush.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/trump-hails-rush-limbaugh-on-hannity-they-all-respected-rush.amp",
+      "publishedDateTime": "2021-02-18T02:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-18-teachers-should-be-prioritized-for-coronavirus-vaccine-vp-kamala-harris.md",
+      "title": "Teachers should be prioritized for coronavirus vaccine: VP Kamala Harris",
+      "excerpt": "Today show host Savannah Guthrie talked to Vice President Kamala Harris about reopening schools and prioritizing teachers to get the coronavirus vaccine, in spite of the fact the CDC said is wasn't necessary.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/video/2021/02/17/teachers-should-be-prioritized-for-coronavirus-vaccine-vp-kamala-harris.html",
+      "originalUrl": "https://www.cnbc.com/video/2021/02/17/teachers-should-be-prioritized-for-coronavirus-vaccine-vp-kamala-harris.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106841889-16136076081613607604-14206248673-1080pnbcnews.jpg?v=1613607608",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-17T21:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-02-18-top-biden-economic-aide-deese-had-leading-role-at-blackrock-termed-the-largest-investor-in-deforestation.md",
+      "title": "Top Biden economic aide Deese had leading role at BlackRock, termed the ‘largest investor in deforestation’",
+      "excerpt": "President Biden’s top economic advisor Brian Deese has promised to give environmentalism a front-and-center focus in his agenda to spur job growth, but Deese’s record with BlackRock drew bitter outcries from environmentalists. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_O3TpkOUKXM/bidens-economic-advise-climate-crisis-blackrock-deforestation",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_O3TpkOUKXM/bidens-economic-advise-climate-crisis-blackrock-deforestation",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/42062da5-16e0-4037-a730-e3584328ccb1/18454cad-9594-4df4-929b-9de43f9366d1/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/bidens-economic-advise-climate-crisis-blackrock-deforestation.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-economic-advise-climate-crisis-blackrock-deforestation.amp",
+      "publishedDateTime": "2021-02-17T17:55:07-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-18-gop-sen-hagerty-presses-biden-on-remain-in-mexico-rollback-warns-it-will-endanger-communities.md",
       "title": "GOP Sen. Hagerty presses Biden on ‘Remain in Mexico’ rollback, warns it will ‘endanger’ communities",
       "excerpt": "EXCLUSIVE: Sen. Bill Hagerty, R-Tenn., on Wednesday wrote to President Biden over his administration’s rollback of the Migrant Protection Protocols (MPP), warning that it could lead to tens of thousands of migrants flowing into the country and endanger U.S. communities.",
@@ -651,58 +859,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-17-the-overwhelming-lesson-of-the-trump-era-republicans-often-rebuke-trump-when-they-have-latitude.md",
-      "title": "The overwhelming lesson of the Trump era: Republicans often rebuke Trump -- when they have latitude",
-      "excerpt": "Of Republicans who have retired or lost primaries during the Trump era, half have rebuked him in significant ways. About one-third have made big breaks with him.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2021/02/17/overwhelming-lesson-trump-era-republicans-rebuke-trump-when-its-convenient/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2021/02/17/overwhelming-lesson-trump-era-republicans-rebuke-trump-when-its-convenient/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HKNBETSRPII6TCFB5U2G6DWJJ4.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/02/17/overwhelming-lesson-trump-era-republicans-rebuke-trump-when-its-convenient/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/02/17/overwhelming-lesson-trump-era-republicans-rebuke-trump-when-its-convenient/?outputType=amp",
-      "publishedDateTime": "2021-02-17T07:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-02-17-watch-trump-plaza-in-atlantic-city-is-demolished.md",
       "title": "WATCH: Trump Plaza in Atlantic City is demolished",
       "excerpt": "Videos show the moment former President Donald Trump's long-standing Trump Plaza in Atlantic City is destroyed in a controlled demolition. The casino and hotel were closed in 2014.",
@@ -1090,49 +1246,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-17-donald-trump-shows-nixons-pardon-was-what-america-needed.md",
-      "title": "Donald Trump Shows Nixon’s Pardon Was What America Needed",
-      "excerpt": "This article is part of the The DC Brief, TIME’s politics newsletter. Sign up here to get stories like this sent to your inbox",
-      "sourceUrl": null,
-      "webUrl": "https://time.com/5939763/donald-trump-shows-nixons-pardon-was-what-america-needed/",
-      "originalUrl": "https://time.com/5939763/donald-trump-shows-nixons-pardon-was-what-america-needed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-16T20:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Time",
-        "domain": "time.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/time.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-02-17-white-house-to-freeze-out-mohammed-bin-salman-saudi-prince-who-was-close-to-trump-white-house.md",
       "title": "White House to freeze out Mohammed bin Salman, Saudi prince who was close to Trump White House",
       "excerpt": "President Joe Biden is recalibrating U.S. diplomatic relations with Saudi Arabia, deploying a new approach that includes sidestepping Crown Prince Mohammed bin Salman, who had a close relationship with the Trump administration.",
@@ -1243,114 +1356,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-biden-administration-urges-dhs-officials-to-stop-using-illegal-alien-in-favor-of-inclusive-language.md",
-      "title": "Biden administration urges DHS officials to stop using ‘illegal alien’ in favor of ‘inclusive’ language",
-      "excerpt": "The Biden administration is urging officials at the Department of Homeland Security to stop using phrases like “illegal alien” in favor of what it says are more “inclusive” terms -- part of a broader effort by the administration to change language use on immigration.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ujGB8wO0Qkg/biden-dhs-officials-illegal-alien-inclusive-language",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ujGB8wO0Qkg/biden-dhs-officials-illegal-alien-inclusive-language",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/445ed9ed-cd0c-41f3-83e6-58a88f7d11ba/8d88fc84-ae2d-47e0-a180-90c427f3db5e/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-dhs-officials-illegal-alien-inclusive-language.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-dhs-officials-illegal-alien-inclusive-language.amp",
-      "publishedDateTime": "2021-02-16T16:38:42-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-plaskett-insists-trump-will-never-be-elected-again-despite-impeachment-acquittal.md",
-      "title": "Plaskett insists Trump will 'never be elected again' despite impeachment acquittal",
-      "excerpt": "Rep. Stacey Plaskett says Republicans made a calculation to save their political futures rather than convict Donald Trump.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/plaskett-insists-trump-elected-impeachment-acquittal/story?id=75923392",
-      "originalUrl": "https://abcnews.go.com/Politics/plaskett-insists-trump-elected-impeachment-acquittal/story?id=75923392",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/Plaskett-ap-er-210216_1613499656957_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/plaskett-insists-trump-elected-impeachment-acquittal/story?id=75923392",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/plaskett-insists-trump-elected-impeachment-acquittal/story?id=75923392",
-      "publishedDateTime": "2021-02-16T16:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

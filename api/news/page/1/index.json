@@ -2,6 +2,218 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-19-qanon-hardliners-are-doubling-down-on-theory-donald-trump-will-be-reinstated-on-march-4.md",
+      "title": "QAnon Hardliners Are Doubling Down on Theory Donald Trump Will Be Reinstated on March 4",
+      "excerpt": "There are fears of potential violence as QAnon supporters say Donald Trump will somehow be inaugurated on March 4.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/qanon-march4-trump-president-proud-boys-1570274",
+      "originalUrl": "https://www.newsweek.com/qanon-march4-trump-president-proud-boys-1570274",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1738534/qanon.jpg",
+          "width": 3000,
+          "height": 2001,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/qanon-march4-trump-president-proud-boys-1570274?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/qanon-march4-trump-president-proud-boys-1570274?amp=1",
+      "publishedDateTime": "2021-02-19T02:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-bidens-message-to-g7-munich-events-allies-should-work-together-on-china-challenge.md",
+      "title": "Biden's message to G7, Munich events: Allies should work together on China challenge",
+      "excerpt": "President Joe Biden will seek on Friday to rally global democracies and European allies to work together to address a range of concerns about China, but is not looking for a \"new Cold War,\" a senior administration official said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-g7-meeting-biden/bidens-message-to-g7-munich-events-allies-should-work-together-on-china-challenge-idUSKBN2AJ11Y",
+      "originalUrl": "https://www.reuters.com/article/us-g7-meeting-biden/bidens-message-to-g7-munich-events-allies-should-work-together-on-china-challenge-idUSKBN2AJ11Y",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210219&t=2&i=1552136171&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1I0KK",
+          "width": 816,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2AJ11Y",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AJ11Y",
+      "publishedDateTime": "2021-02-19T02:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-biden-reiterates-support-for-texas-in-call-with-gov-abbott-over-winter-storm-crisis-white-house-says.md",
+      "title": "Biden reiterates support for Texas in call with Gov. Abbott over winter storm crisis, White House says",
+      "excerpt": "President Biden spoke to Texas Gov. Greg Abbott Thursday about the ongoing winter storm crisis that had left millions without power for days.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VrX0aoRNt6E/biden-reiterates-support-for-texas-in-call-with-gov-abbott-over-winter-storm-crisis-white-house-says",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VrX0aoRNt6E/biden-reiterates-support-for-texas-in-call-with-gov-abbott-over-winter-storm-crisis-white-house-says",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/11665ff5-341f-4d44-9ffc-514372608862/28df6f02-0427-4c6b-8612-78db21c2fd30/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-reiterates-support-for-texas-in-call-with-gov-abbott-over-winter-storm-crisis-white-house-says.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-reiterates-support-for-texas-in-call-with-gov-abbott-over-winter-storm-crisis-white-house-says.amp",
+      "publishedDateTime": "2021-02-19T01:33:54-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-canada-says-alleged-trump-interference-in-extradition-case-of-huaweis-meng-moot.md",
+      "title": "Canada says alleged Trump interference in extradition case of Huawei's Meng 'moot'",
+      "excerpt": "Canada's attorney general says accusations that former U.S. President Donald Trump's interfered in Huawei chief financial officer Meng Wanzhou's extradition trial is irrelevant because he is no longer in office.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-huawei-tech-canada-idINKBN2AJ09S",
+      "originalUrl": "https://www.reuters.com/article/us-usa-huawei-tech-canada-idINKBN2AJ09S",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210219&t=2&i=1552099907&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1I04N",
+          "width": 818,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN2AJ09S",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2AJ09S",
+      "publishedDateTime": "2021-02-19T00:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-19-trump-praising-rush-revives-his-stolen-election-claims-on-tv.md",
       "title": "Trump, praising Rush, revives his ‘stolen election’ claims on TV",
       "excerpt": "Donald Trump has taken to the airwaves to praise the late Rush Limbaugh and declare that he still believes the election was stolen.",
@@ -63,8 +275,8 @@
       "title": "Coronavirus live news: global weekly cases lowest since October; Biden to pledge $4bn to Covax scheme",
       "excerpt": "WHO urges against letting guard down; fifth of Australians say they are unlikely to get vaccine; Israel extends coronavirus border closure",
       "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/world/live/2021/feb/19/coronavirus-live-news-global-weekly-cases-lowest-since-october-biden-to-pledge-4bn-to-covax-scheme?page=with:block-602f3b7e8f08ad21ea5ffb55",
-      "originalUrl": "https://www.theguardian.com/world/live/2021/feb/19/coronavirus-live-news-global-weekly-cases-lowest-since-october-biden-to-pledge-4bn-to-covax-scheme?page=with:block-602f3b7e8f08ad21ea5ffb55",
+      "webUrl": "https://www.theguardian.com/world/live/2021/feb/19/coronavirus-live-news-global-weekly-cases-lowest-since-october-biden-to-pledge-4bn-to-covax-scheme?page=with:block-602f495e8f08bdbed283b299",
+      "originalUrl": "https://www.theguardian.com/world/live/2021/feb/19/coronavirus-live-news-global-weekly-cases-lowest-since-october-biden-to-pledge-4bn-to-covax-scheme?page=with:block-602f495e8f08bdbed283b299",
       "featuredContent": null,
       "highlight": null,
       "heat": 110,
@@ -1145,214 +1357,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-did-kamala-harris-bail-out-minneapolis-rioters-last-year-here-are-the-facts.md",
-      "title": "Did Kamala Harris bail out Minneapolis rioters last year? Here are the facts",
-      "excerpt": "If you use this model, I don’t know how Kamala Harris doesn’t get impeached if the Republicans take over the House, because she actually bailed out rioters, and one of the rioters went back to the streets and broke somebody’s head open,",
-      "sourceUrl": null,
-      "webUrl": "https://www.kansascity.com/news/politics-government/article249293135.html",
-      "originalUrl": "https://www.kansascity.com/news/politics-government/article249293135.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/7c958e2a-8609-4d9d-819e-605abd03947c/22a0d5a2-2296-4a79-a350-caed77e40c72/1280x720/match/image.jpg?pubId=5615998035001",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.kansascity.com/news/politics-government/article249293135.html",
-      "cdnAmpWebUrl": "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/politics-government/article249293135.html",
-      "publishedDateTime": "2021-02-18T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kansas City Star",
-        "domain": "kansascity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-trump-hails-rush-limbaugh-on-hannity-they-all-respected-rush.md",
-      "title": "Trump hails Rush Limbaugh on 'Hannity': 'They all respected Rush'",
-      "excerpt": "They all respected Rush' Former President Donald Trump joined \" Hannity \" on Wednesday night to remember conservative radio host Rush Limbaugh, who died at age 70 after a long battle with lung cancer .",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/trump-hails-rush-limbaugh-on-hannity-they-all-respected-rush",
-      "originalUrl": "https://www.foxnews.com/us/trump-hails-rush-limbaugh-on-hannity-they-all-respected-rush",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/GettyImages-1189876914.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/trump-hails-rush-limbaugh-on-hannity-they-all-respected-rush.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/trump-hails-rush-limbaugh-on-hannity-they-all-respected-rush.amp",
-      "publishedDateTime": "2021-02-18T02:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-teachers-should-be-prioritized-for-coronavirus-vaccine-vp-kamala-harris.md",
-      "title": "Teachers should be prioritized for coronavirus vaccine: VP Kamala Harris",
-      "excerpt": "Today show host Savannah Guthrie talked to Vice President Kamala Harris about reopening schools and prioritizing teachers to get the coronavirus vaccine, in spite of the fact the CDC said is wasn't necessary.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/video/2021/02/17/teachers-should-be-prioritized-for-coronavirus-vaccine-vp-kamala-harris.html",
-      "originalUrl": "https://www.cnbc.com/video/2021/02/17/teachers-should-be-prioritized-for-coronavirus-vaccine-vp-kamala-harris.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106841889-16136076081613607604-14206248673-1080pnbcnews.jpg?v=1613607608",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-17T21:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-top-biden-economic-aide-deese-had-leading-role-at-blackrock-termed-the-largest-investor-in-deforestation.md",
-      "title": "Top Biden economic aide Deese had leading role at BlackRock, termed the ‘largest investor in deforestation’",
-      "excerpt": "President Biden’s top economic advisor Brian Deese has promised to give environmentalism a front-and-center focus in his agenda to spur job growth, but Deese’s record with BlackRock drew bitter outcries from environmentalists. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_O3TpkOUKXM/bidens-economic-advise-climate-crisis-blackrock-deforestation",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_O3TpkOUKXM/bidens-economic-advise-climate-crisis-blackrock-deforestation",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/42062da5-16e0-4037-a730-e3584328ccb1/18454cad-9594-4df4-929b-9de43f9366d1/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/bidens-economic-advise-climate-crisis-blackrock-deforestation.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-economic-advise-climate-crisis-blackrock-deforestation.amp",
-      "publishedDateTime": "2021-02-17T17:55:07-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

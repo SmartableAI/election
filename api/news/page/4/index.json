@@ -2,6 +2,115 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-02-15-meena-harris-latest-biden-harris-family-member-to-face-scrutiny-over-business-ventures.md",
+      "title": "Meena Harris latest Biden, Harris family member to face scrutiny over business ventures",
+      "excerpt": "The White House has come out and stated that Vice President Kamala Harris' name will not be permitted to be used in conjunction with any commercial endeavors that could be seen as having her support, after a report said lawyers told her niece Meena Harris to stop using her name to help her brand.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4XliRfY34gU/meena-harris-latest-biden-harris-family-member-scrutiny-business-ventures",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4XliRfY34gU/meena-harris-latest-biden-harris-family-member-scrutiny-business-ventures",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 312,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Meena-Harris.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/meena-harris-latest-biden-harris-family-member-scrutiny-business-ventures.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/meena-harris-latest-biden-harris-family-member-scrutiny-business-ventures.amp",
+      "publishedDateTime": "2021-02-15T11:04:38-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-02-16-investigating-trump-a-big-early-move-for-atlantas-new-da.md",
+      "title": "Investigating Trump a big early move for Atlanta’s new DA",
+      "excerpt": "A Georgia district attorney who took office barely a month ago is leading an investigation that could bring charges against former President Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/world-nation/story/2021-02-15/investigating-trump-a-big-early-move-for-atlantas-new-da",
+      "originalUrl": "https://www.latimes.com/world-nation/story/2021-02-15/investigating-trump-a-big-early-move-for-atlantas-new-da",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 245,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/7256e58/2147483647/strip/true/crop/4740x3096+0+75/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe4%2Fc6%2F15d8761a5d68b5bcf400b9a1668c%2F77cd140b3ef44640b8cad1fecac995aa",
+          "width": 320,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.latimes.com/world-nation/story/2021-02-15/investigating-trump-a-big-early-move-for-atlantas-new-da?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-02-15/investigating-trump-a-big-early-move-for-atlantas-new-da?_amp=true",
+      "publishedDateTime": "2021-02-15T10:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-16-fact-check-courts-have-dismissed-multiple-lawsuits-of-alleged-electoral-fraud-presented-by-trump-campaign.md",
       "title": "Fact check: Courts have dismissed multiple lawsuits of alleged electoral fraud presented by Trump campaign",
       "excerpt": "Following President Joe Biden’s swearing in on Jan. 20, a Facebook post shared over 6,140 times has said: “Not one court has looked at the evidence and said that Biden legally won. Not one”. This is false: state and federal judges dismissed more than 50 lawsuits",
@@ -435,7 +544,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/biden-order-reestablishes-faith-focused-white-house-office/2021/02/14/17fe6700-6ee0-11eb-8651-6d3091eac63f_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 765,
+      "heat": 785,
       "tags": null,
       "images": [
         {
@@ -1235,114 +1344,6 @@
         "Election",
         "Democratic Voice",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-02-13-biden-administration-expresses-deep-concerns-about-whos-china-probe.md",
-      "title": "Biden administration expresses 'deep concerns' about WHO's China probe",
-      "excerpt": "The Biden administration on Saturday expressed \"deep concerns\" about the World Health Organization’s (WHO) probe into the Chinese handling of the coronavirus.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bEZ406eig2M/biden-deep-concerns-about-whos-china-probe",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bEZ406eig2M/biden-deep-concerns-about-whos-china-probe",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ba8a532b-33f6-4379-905d-cc188ca9df78/01a49ac8-2cdb-483f-ab27-773439ff2ea7/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-deep-concerns-about-whos-china-probe.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-deep-concerns-about-whos-china-probe.amp",
-      "publishedDateTime": "2021-02-13T09:58:55-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-13-trump-loved-it-when-his-defense-team-called-impeachment-trial-constitutional-cancel-culture-report-says.md",
-      "title": "Trump 'loved' it when his defense team called impeachment trial 'constitutional cancel culture,' report says",
-      "excerpt": "After a rocky start to the week, Trump was reportedly very pleased with his team's performance on Friday, aides told Politico.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-happy-with-lawyers-calling-trial-constitutional-cancel-culture-2021-2",
-      "originalUrl": "https://www.businessinsider.com/trump-happy-with-lawyers-calling-trial-constitutional-cancel-culture-2021-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/602793e8b3c2a800183ccbf5?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-happy-with-lawyers-calling-trial-constitutional-cancel-culture-2021-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-happy-with-lawyers-calling-trial-constitutional-cancel-culture-2021-2?amp",
-      "publishedDateTime": "2021-02-13T05:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

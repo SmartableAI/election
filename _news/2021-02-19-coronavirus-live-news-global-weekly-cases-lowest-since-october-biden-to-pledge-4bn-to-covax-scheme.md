@@ -3,8 +3,8 @@ category: news
 title: "Coronavirus live news: global weekly cases lowest since October; Biden to pledge $4bn to Covax scheme"
 excerpt: "WHO urges against letting guard down; fifth of Australians say they are unlikely to get vaccine; Israel extends coronavirus border closure"
 publishedDateTime: 2021-02-19T06:18:00Z
-originalUrl: "https://www.theguardian.com/world/live/2021/feb/19/coronavirus-live-news-global-weekly-cases-lowest-since-october-biden-to-pledge-4bn-to-covax-scheme?page=with:block-602f3b7e8f08ad21ea5ffb55"
-webUrl: "https://www.theguardian.com/world/live/2021/feb/19/coronavirus-live-news-global-weekly-cases-lowest-since-october-biden-to-pledge-4bn-to-covax-scheme?page=with:block-602f3b7e8f08ad21ea5ffb55"
+originalUrl: "https://www.theguardian.com/world/live/2021/feb/19/coronavirus-live-news-global-weekly-cases-lowest-since-october-biden-to-pledge-4bn-to-covax-scheme?page=with:block-602f495e8f08bdbed283b299"
+webUrl: "https://www.theguardian.com/world/live/2021/feb/19/coronavirus-live-news-global-weekly-cases-lowest-since-october-biden-to-pledge-4bn-to-covax-scheme?page=with:block-602f495e8f08bdbed283b299"
 ampWebUrl: "https://amp.theguardian.com/world/live/2021/feb/19/coronavirus-live-news-global-weekly-cases-lowest-since-october-biden-to-pledge-4bn-to-covax-scheme"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2021/feb/19/coronavirus-live-news-global-weekly-cases-lowest-since-october-biden-to-pledge-4bn-to-covax-scheme"
 type: article
@@ -30,6 +30,6 @@ images:
     height: 360
     isCached: true
 
-secured: "mdRi0KHAZIVKnDfQ/Ct3Ssf20Y2+/C3qKffgM7XRtOLlWIs8WzOk/Fb7Zm1fEmruvfClBqAGvmyKC1HRePN0O1l0wp6RTfa+1PGemiluiZxuHgZcjtq7kFJ6H2Qf+EsycXAJH1YS0bRGh7mYdWfgi9ay8Kee3Yp13ed1nhve5TUnwqI61KQQ/ekpPsd/YQeZKt/KWD+351F3WhFJYctlObqnEv9tH00sJnQB3zh95aP81OnfBHXbfdV4qthluoCWYvYTB9uJXmfIMHDpzLxPOmuhRGhExY9GKb1CnMa6IwooEg6eDzVs+qrdqhCXY3Y2oKBRbnQr//BRBX7L/lE8octCKkqNN2g2T0HFtZ/ZDrU=;pqFyWRqL9dvMGzFeXVRKyA=="
+secured: "NBBmgPD3HEUr+lK2rQbIyS8BaB6rRQFOSR4d7T+O0edPXoPcPqGSwVUAtGGbTzi7O/prx4lLw3NTgTVAjYLA0FPM0OGuO9mj+oxn/PbHpEv6YiID+kWetRVrZgKjJmGSN7dWuzsPMtXBEEhMuYule3Qk1kD6qj3BmRyHhQ6DRgsk4RZKAoLXm4u7WJr4/AqhhAR/3dRoWc51p+kZmfhh0v6SKlBj/pdiVG80wktsUMl5JisEL0or5yyjYan28C8IqG3g01rbaixinYzz3yuwhUP2mhgwKpaM7AeDJJJa/EJUqzzbzBzuZ9Q1hurWwd2YfDa5vEZbHYq4pEvyeSOQf5YI/y7GxaOg5gxdfa1c+4I=;KDJF424ohNdKSAYeTTgQxQ=="
 ---
 

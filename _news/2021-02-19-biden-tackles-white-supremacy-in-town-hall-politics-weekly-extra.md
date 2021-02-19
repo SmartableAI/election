@@ -3,8 +3,8 @@ category: news
 title: "Biden tackles white supremacy in town hall: Politics Weekly Extra"
 excerpt: "As Joe Biden visited Milwaukee, Wisconsin this week, our guest presenter Kenya Evelyn spoke to the state representative David Bowen about the administration’s early obligations to Black voters"
 publishedDateTime: 2021-02-19T05:00:00Z
-originalUrl: "https://www.theguardian.com/politics/audio/2021/feb/19/biden-tackles-white-supremacy-in-town-hall-politics-weekly-extra"
-webUrl: "https://www.theguardian.com/politics/audio/2021/feb/19/biden-tackles-white-supremacy-in-town-hall-politics-weekly-extra"
+originalUrl: "https://www.theguardian.com/politics/audio/2021/feb/19/biden-tackles-white-supremacy-in-town-hall-politics-weekly-extra?share=twitter"
+webUrl: "https://www.theguardian.com/politics/audio/2021/feb/19/biden-tackles-white-supremacy-in-town-hall-politics-weekly-extra?share=twitter"
 type: article
 quality: 105
 heat: -1
@@ -520,7 +520,21 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Washington moves of the week: Here's who's landing at the Biden White House, federal agencies, Capitol Hill and elsewhere in Washington"
+    excerpt: "Joe Biden made a ton of healthcare hires this week, a former top government ethics official has a new gig, and Capitol Hill staffers are making moves."
+    publishedDateTime: 2021-02-19T09:01:00Z
+    webUrl: "https://www.businessinsider.com/heres-who-got-hired-in-congress-house-biden-administration-this-week-2021-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 73
+    images:
+      - url: "https://i.insider.com/6025a9632edd0f001a8d564e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
-secured: "5nq7AR8rtGKBZQIHDBBZ/5h8cAeIvDgy5EQ9frKld3bujkQQNlghF4ZTkeBpG5rzFCWIlIFcaPXIY+stV7dZF4WmLbQTNH2zdIqWjzTC8tD6z3RxgHq/lPymupLaV2LiJxeW2U46Qfi8Fn8Qpj67q9an9isXyGqb4AOquAccps72pyj1/8mAxGJ14oYvA7Ock9aZDwlIjwFeZrLOZzDFApVQ0CxqgiPun4BqvhKeO/ZFwZWWB2fbdRPF+nz8QqN7owChUvXyhHCtJY8fNPrw0OEEWBlViX764Z6zbQ966lPYXqGGCmqXH9z+m1YTa2vQ/Av0enWQDrjhRAL/01rz4m6iweuVXQPN/C9iVzYus0nICoRcuhylNojbd3PUHMVhOMvYhz47/p8hdJRTDjyiEo3EzfRBKbfvTLdiljQY8DbaM5XgEpPXbwSWuYD+NO78NeD9okXzDaLauTccUbYMqcTwNdWqEmcKe0RtTJamdjp3TWs4U/kUHYToKcqmUGPerU3R46owj0gisDvvQ8vzcw==;tMKK9mIWLqVE9DIKTmBdAw=="
+secured: "94EDOaZB/HMYhr2eR/TRtHn8692uBaztMaVUmF6P+/pT53OfNGIVsZ/zmAjrFn8SSWT7cL0cs1PFC7CN7r+8m6VcGc2t1wM5zeBquTQxpQlpFHLmj9J2ae3TmgNaX25H2fzTXOyFbAXa2JSCi4hZv6J8pt4lZGZxP45DYrRROJmpJYLt2TSNM+6cTVb4eHeS5UtrG3MD31HZX9RU3OkKSAK68e10ihDzCO80bHgYSqotVP+mxxT+ppIotaPLw4ypGxABI+eJbhEvNKcPvbSbEUJg45PehzLxNn2olcNxET/1/iTVUTBZWgvid2/9vsxrFtJ74YuQm0udkwo+M5FRcF8ykREemZQHYJ92lZbYVR8=;OboLGTa1X5h3ckbRBHoumQ=="
 ---
 

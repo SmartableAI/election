@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden at G7 will pledge $4B for global vaccines, stress US commitment to multilateralism"
+    excerpt: "President Biden on Friday plans to reinforce a U.S. commitment to engaging with the international community during virtual meetings of the G7 and the Munich Security Conference."
+    publishedDateTime: 2021-02-19T10:01:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cAeeC1YWa4g/biden-at-g7-will-pledge-4b-for-global-vaccines-stress-us-commitment-to-multilateralism"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-at-g7-will-pledge-4b-for-global-vaccines-stress-us-commitment-to-multilateralism.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-at-g7-will-pledge-4b-for-global-vaccines-stress-us-commitment-to-multilateralism.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4ab71ec7-6f54-4382-8f6d-33f7053e5337/1b6fc5be-d65d-4ac1-9c73-adfc4e89846b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "c9YR4nl0cc8DNYJ55BjCJTevImD0JLi9hkornbqdT4RYpOmxgT8Kl5ipuX5plHp1mvL1yTxXCgsE+aUkG4MAEJoA786fkjyskWulZrkyvjPdwKxvK+8xf1LqQ60nhzuHtv1MAF2tbTMInhxDPXHhyU7+9KivZFCxS8Lt6K9wwlnETjkL71lLKgauCwOWiuGIjbyQUFU/XTbnyI/duHzGK1J3IDzOJYVagVeAu7R98M7lfFqXt8n0JM6tPHIUVzd+E7/QpIqP5+T1KxyK9YHB/a5+COdeGIQGq6Z8Ezpr5U3izn1ZWLiB2uREwnnDJtqk/ZPSMvaY7+q0V78P8AwHb6KgRc4OsyOIn1zhyZYLk3w=;IRR941hE2xL9uHFRYTd8LA=="
 ---

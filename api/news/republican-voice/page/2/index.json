@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-15-it-is-a-scandal-former-secretary-of-education-blasts-biden-administration-over-school-closures.md",
+      "title": "‘It is a scandal’: Former Secretary of Education blasts Biden administration over school closures",
+      "excerpt": "Former Secretary of Education Dr. Bill Bennet said Monday \"it is a scandal\" for many major public schools in the U.S. to continue to be shut down under President Joe Biden’s administration.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CSXpsGoqjgc/scandal-former-secretary-education-biden-administration-school-reopening-covid-remote-learning",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CSXpsGoqjgc/scandal-former-secretary-education-biden-administration-school-reopening-covid-remote-learning",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2d188969-ee03-4425-9b0f-38e2311976a3/879e3e97-56d8-4f7e-8ad7-534d8e030d84/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/scandal-former-secretary-education-biden-administration-school-reopening-covid-remote-learning.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/scandal-former-secretary-education-biden-administration-school-reopening-covid-remote-learning.amp",
+      "publishedDateTime": "2021-02-15T13:32:24-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-15-meena-harris-latest-biden-harris-family-member-to-face-scrutiny-over-business-ventures.md",
       "title": "Meena Harris latest Biden, Harris family member to face scrutiny over business ventures",
       "excerpt": "The White House has come out and stated that Vice President Kamala Harris' name will not be permitted to be used in conjunction with any commercial endeavors that could be seen as having her support, after a report said lawyers told her niece Meena Harris to stop using her name to help her brand.",
@@ -407,7 +463,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 194,
+      "heat": 214,
       "tags": null,
       "images": [
         {
@@ -1596,62 +1652,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-actions-oil-gas-industry-chilling-effect-george-p-bush.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-actions-oil-gas-industry-chilling-effect-george-p-bush.amp",
       "publishedDateTime": "2021-02-10T08:25:25-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-laid-off-keystone-pipeline-workers-slam-job-killing-biden-decision-future-completely-taken-away.md",
-      "title": "Laid-off Keystone pipeline workers slam job-killing Biden decision: Future 'completely taken away'",
-      "excerpt": "Laid-off Keystone XL pipeline workers in Fouke, Ark., blasted President Biden's order canceling the project.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0606VR9cvBM/laid-off-keystone-pipeline-workers-biden-order-jobs",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0606VR9cvBM/laid-off-keystone-pipeline-workers-biden-order-jobs",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21029731365092.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/laid-off-keystone-pipeline-workers-biden-order-jobs.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/laid-off-keystone-pipeline-workers-biden-order-jobs.amp",
-      "publishedDateTime": "2021-02-10T06:58:28-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
