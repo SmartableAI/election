@@ -45,6 +45,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "US lets in asylum-seekers stuck in Mexico, ends Trump policy"
+    excerpt: "After waiting months and sometimes years in Mexico, people seeking asylum in the United States are starting to be allowed into the country as they wait for courts to decide on their cases"
+    publishedDateTime: 2021-02-19T05:20:00Z
+    webUrl: "https://www.washingtonpost.com/health/us-lets-in-asylum-seekers-stuck-in-mexico-ends-trump-policy/2021/02/19/76106eda-7271-11eb-8651-6d3091eac63f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/us-lets-in-asylum-seekers-stuck-in-mexico-ends-trump-policy/2021/02/19/76106eda-7271-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/us-lets-in-asylum-seekers-stuck-in-mexico-ends-trump-policy/2021/02/19/76106eda-7271-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Internet Reacts To Twitter's Donald Trump Ban With Memes; Netizens Watching Melania Trump's Account"
     excerpt: "Memes immediately followed Twitter's announcement that it has banned President Donald Trump's personal account permanently."
     publishedDateTime: 2021-01-09T04:58:00Z

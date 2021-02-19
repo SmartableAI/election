@@ -191,6 +191,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Pompeo, other critics pan Biden WH offer to restart Iran nuclear talks"
+    excerpt: "Former Secretary of State Mike Pompeo and others slammed the Biden administration Thursday after the White House signaled it was ready to restart diplomacy with Tehran over a nuclear deal."
+    publishedDateTime: 2021-02-19T07:34:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/O5KJ-bbcihs/pompeo-other-critics-pan-biden-wh-offer-to-restart-iran-nuclear-talks"
+    ampWebUrl: "https://www.foxnews.com/politics/pompeo-other-critics-pan-biden-wh-offer-to-restart-iran-nuclear-talks.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pompeo-other-critics-pan-biden-wh-offer-to-restart-iran-nuclear-talks.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Biden-Pompeo-Split-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Grassley urges Biden against firing Trump US attorneys amid investigations: 'Take the time and do it right'"
     excerpt: "Republican Sen. Chuck Grassley on Wednesday asked President Biden not to “fire all of President Trump’s U.S. Attorneys\" amid ongoing investigations, after the Justice Department said this week the Trump-era federal prosecutors would be forced to resign from their posts by the end of the month, urging"
     publishedDateTime: 2021-02-10T20:53:07Z

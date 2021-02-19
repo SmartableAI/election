@@ -175,6 +175,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Pompeo, other critics pan Biden WH offer to restart Iran nuclear talks"
+    excerpt: "Former Secretary of State Mike Pompeo and others slammed the Biden administration Thursday after the White House signaled it was ready to restart diplomacy with Tehran over a nuclear deal."
+    publishedDateTime: 2021-02-19T07:34:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/O5KJ-bbcihs/pompeo-other-critics-pan-biden-wh-offer-to-restart-iran-nuclear-talks"
+    ampWebUrl: "https://www.foxnews.com/politics/pompeo-other-critics-pan-biden-wh-offer-to-restart-iran-nuclear-talks.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pompeo-other-critics-pan-biden-wh-offer-to-restart-iran-nuclear-talks.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Biden-Pompeo-Split-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Dems block Stefanik amendment barring funds to Confucius Institute partners after Biden nixes Trump rule"
     excerpt: "Rep. Elise Stefanik, D-N.Y., proposed an amendment to induce transparency among U.S. schools after the Biden administration withdrew a rule that required schools participating in certain federal programs to disclose ties with Confucius Institutes, which have been accused of propagating communist China’s"
     publishedDateTime: 2021-02-10T15:31:06Z

@@ -2,6 +2,62 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-02-09-texas-sheriff-claims-biden-defunding-ice-by-memo-we-have-a-full-nullification-of-the-law-going-on-here.md",
+      "title": "Texas sheriff claims Biden 'defunding ICE by memo': 'We have a full nullification of the law going on here'",
+      "excerpt": "Reports that illegal aliens are being released from custody into the United States without being tested for COVID-19 are \"absolutely true,\" Jackson County, Texas Sheriff A.J. Louderback told \"Tucker Carlson Tonight\" Monday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eS6uAAgCgHg/biden-defunding-ice-by-memo-texas-aj-louderback",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eS6uAAgCgHg/biden-defunding-ice-by-memo-texas-aj-louderback",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/942fc061-952b-47e0-a29e-ec6167c1bc89/754ac3fd-3e1c-45cf-83d0-0ece730bc6e9/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-defunding-ice-by-memo-texas-aj-louderback.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-defunding-ice-by-memo-texas-aj-louderback.amp",
+      "publishedDateTime": "2021-02-08T19:26:23-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-09-paul-manafort-cant-be-tried-in-ny-after-trumps-pardon-says-state-court.md",
       "title": "Paul Manafort can't be tried in NY after Trump's pardon says state court",
       "excerpt": "Paul Manafort cannot be prosecuted in New York, highest court rules  The New York Court of Appeals has rejected the Manhattan DA's bid to review the lower courts’ rulings on denying Paul Manafort's prosecution. ",
@@ -1317,62 +1373,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-07-ben-sasses-anti-trump-statements-draw-more-nebraska-backlash.md",
-      "title": "Ben Sasse's anti-Trump statements draw more Nebraska backlash",
-      "excerpt": "Republican U.S. Sen. Ben Sasse is facing more opposition in his home state of Nebraska for criticizing former President Trump.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/t4yZLcp-xwE/ben-sasses-anti-trump-statements-draw-more-nebraska-backlash",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/t4yZLcp-xwE/ben-sasses-anti-trump-statements-draw-more-nebraska-backlash",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 315,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21036581973148.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ben-sasses-anti-trump-statements-draw-more-nebraska-backlash.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ben-sasses-anti-trump-statements-draw-more-nebraska-backlash.amp",
-      "publishedDateTime": "2021-02-07T01:35:28-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

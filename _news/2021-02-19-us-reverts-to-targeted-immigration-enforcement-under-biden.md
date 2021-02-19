@@ -1,22 +1,22 @@
 ---
 category: news
 title: "US reverts to targeted immigration enforcement under Biden"
-excerpt: "The Biden administration is giving new marching orders to the U.S. immigration enforcement agency WASHINGTON -- Immigration enforcement in the U.S. would be more targeted under President Joe Biden than under his predecessor,"
-publishedDateTime: 2021-02-18T19:28:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/us-reverts-targeted-immigration-enforcement-biden-75976981"
-webUrl: "https://abcnews.go.com/Politics/wireStory/us-reverts-targeted-immigration-enforcement-biden-75976981"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/us-reverts-targeted-immigration-enforcement-biden-75976981"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/us-reverts-targeted-immigration-enforcement-biden-75976981"
+excerpt: "Immigration enforcement in the U.S. would be more targeted under President Joe Biden than under his predecessor, with authorities directed to focus on people in the country illegally who pose a threat,"
+publishedDateTime: 2021-02-19T00:15:00Z
+originalUrl: "https://www.washingtonpost.com/politics/courts_law/us-reverts-to-targeted-immigration-enforcement-under-biden/2021/02/18/a2d11b76-721d-11eb-8651-6d3091eac63f_story.html"
+webUrl: "https://www.washingtonpost.com/politics/courts_law/us-reverts-to-targeted-immigration-enforcement-under-biden/2021/02/18/a2d11b76-721d-11eb-8651-6d3091eac63f_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/us-reverts-to-targeted-immigration-enforcement-under-biden/2021/02/18/a2d11b76-721d-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/us-reverts-to-targeted-immigration-enforcement-under-biden/2021/02/18/a2d11b76-721d-11eb-8651-6d3091eac63f_story.html?outputType=amp"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_ad8fa977c6d84129883beced5e00dd94_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -237,6 +237,22 @@ related:
     images:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210218&t=2&i=1551928057&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1H01Y"
         width: 782
+        height: 545
+        isCached: true
+  - title: "Airlines, renewables companies push Biden to make air travel greener"
+    excerpt: "U.S airlines and renewables companies are lobbying the Biden administration to back a big increase in subsidies for lower-carbon aviation fuel, arguing new incentives are needed to help fight climate change and will also make their recovery from the pandemic much"
+    publishedDateTime: 2021-02-19T07:19:00Z
+    webUrl: "https://www.reuters.com/article/usa-energy-aviation/airlines-renewables-companies-push-biden-to-make-air-travel-greener-idUSL1N2KG2PV"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2KG2PV"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2KG2PV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210219&t=2&i=1552115788&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1I0AB"
+        width: 818
         height: 545
         isCached: true
   - title: "Biden plans to 'recalibrate' Saudi relations in shot at MbS - White House"
@@ -505,6 +521,6 @@ related:
         height: 600
         isCached: true
 
-secured: "jXZORnX05e/zEchejQcu+NWJqZmZjMjGSU9V4QL7iFOuEpiiOC83cz2fkeeNUSxKOxmnp1x1ChqHxVIo2NkweiHF6fkfXefXGiYZzR/GFM1jdYmq88ouaE3oX9bnDnvR/BLQpd9IPwa4LyzojWjhrugIkD+VJ5SFd6gXwNIN6ZT9WC8okkTseyrRL2RXbBMyRsXtVkwLEmCn26+PNRsL2LjdYQAA4NUowL93sI3ki1YFLPXSLPHR4nKqQe7JaoFEzroU0w2MNVwbGYu8UxPD7UareVG0sA0nKkxV8fm+WElt5LN/v/uhnC+L2euMNJ8LCJOt/PBJbO2BM2U75+EyiX6QM8BwqasqLhl/9vs96KE2w7FMc9j/H8n0mjH3kIsHbILfVrQaJzzKmZvjYqfwZUeXnUdNn7fyryQ08USitgH28HFr295J7CaFgJS4tBvruOE2EHGbj0S9S1d4JLNex5ZE4tZ11N1hF64rO1ULJaA5bja20WxmxmAI9to+OgM/Uq9rBOp/DsynwmebhsOjRQ==;ZZwvubhs014h+9qMWAn2rw=="
+secured: "0wG/sZb3ECKRcsjfzOzQf16AvCdt9ccFtvvFD/DqBNWEKA/MdGA20Ty4a9fAiOGwv3RGk8HNZxjUOWDY37r1TNEVNdk5b4u9pK7awmvwp35ub4i13cQ+N7tEuMWoro4n3tKwd4mQRkH5gHYbxp3f6v1VxyIfuv8QgP6/2PtIWn4RG7+jTPXtZ+xeFxF9OSOtXqBSaoRKTBLiaQ3nh3/AoW1azyc+MLxgZ4Bvcy6LujveqDYRvVCyshxMyr6jvNeNDSmq/FrInO0+tQKUabYVp/6eyyro0N38pkcfvRGlHbMVjIuiNFGQOfdqsTbViJS7j4HZLKquNjaqkY+VFzOx/GN4J7+M6yYb6xDIFzUdMNE=;7eud2M9jRhC4J35g3ArAnw=="
 ---
 
