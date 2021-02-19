@@ -1,20 +1,20 @@
 ---
 category: news
-title: "Biden to order review of U.S. reliance on overseas supply chains for semiconductors, rare earths - CNBC"
-excerpt: "U.S. President Joe Biden participates in a CNN town hall in Milwaukee, Wisconsin, U.S., February 16, 2021. REUTERS/Leah Millis"
-publishedDateTime: 2021-02-18T23:14:00Z
-originalUrl: "https://www.reuters.com/news/picture/biden-to-order-review-of-us-reliance-on-idUSKBN2AI2HJ"
-webUrl: "https://www.reuters.com/news/picture/biden-to-order-review-of-us-reliance-on-idUSKBN2AI2HJ"
+title: "Biden tackles white supremacy in town hall: Politics Weekly Extra"
+excerpt: "As Joe Biden visited Milwaukee, Wisconsin this week, our guest presenter Kenya Evelyn spoke to the state representative David Bowen about the administration’s early obligations to Black voters"
+publishedDateTime: 2021-02-19T05:00:00Z
+originalUrl: "https://www.theguardian.com/politics/audio/2021/feb/19/biden-tackles-white-supremacy-in-town-hall-politics-weekly-extra"
+webUrl: "https://www.theguardian.com/politics/audio/2021/feb/19/biden-tackles-white-supremacy-in-town-hall-politics-weekly-extra"
 type: article
-quality: 89
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: The Guardian
+  domain: theguardian.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +23,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210218&t=2&i=1552040907&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEH1H1FV"
-    width: 810
-    height: 544
+  - url: "https://i.guim.co.uk/img/media/2a325fc9fbd40349f1d51910eb86f5f2cf92b5a0/0_0_3500_2099/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fd3391c8f554ce0c1acb9af9dfcb1b09"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -454,20 +454,6 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "Biden tackles white supremacy in town hall: Politics Weekly Extra"
-    excerpt: "As Joe Biden visited Milwaukee, Wisconsin this week, our guest presenter Kenya Evelyn spoke to the state representative David Bowen about the administration’s early obligations to Black voters"
-    publishedDateTime: 2021-02-19T05:00:00Z
-    webUrl: "https://www.theguardian.com/politics/audio/2021/feb/19/biden-tackles-white-supremacy-in-town-hall-politics-weekly-extra"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 105
-    images:
-      - url: "https://i.guim.co.uk/img/media/2a325fc9fbd40349f1d51910eb86f5f2cf92b5a0/0_0_3500_2099/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fd3391c8f554ce0c1acb9af9dfcb1b09"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Senate panel clears Biden's nomination of Boston mayor for labor secretary"
     excerpt: "President Joe Biden's nomination of Boston Mayor Marty Walsh to serve as the next secretary of labor won approval from a Senate committee on Thursday, clearing the way for a vote by the full Senate."
     publishedDateTime: 2021-02-11T22:38:00Z
@@ -490,6 +476,20 @@ related:
       name: Chicago Tribune
       domain: chicagotribune.com
     quality: 101
+  - title: "Biden to order review of U.S. reliance on overseas supply chains for semiconductors, rare earths - CNBC"
+    excerpt: "U.S. President Joe Biden participates in a CNN town hall in Milwaukee, Wisconsin, U.S., February 16, 2021. REUTERS/Leah Millis"
+    publishedDateTime: 2021-02-18T23:14:00Z
+    webUrl: "https://www.reuters.com/news/picture/biden-to-order-review-of-us-reliance-on-idUSKBN2AI2HJ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 89
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210218&t=2&i=1552040907&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEH1H1FV"
+        width: 810
+        height: 544
+        isCached: true
   - title: "Washington moves of the week: Here's who's landing at the Biden White House, federal agencies, and Capitol Hill"
     excerpt: "It's hiring season in Washington, D.C. Here are this week's personnel moves in the Biden White House, in agencies, and in Congress."
     publishedDateTime: 2021-02-12T10:03:00Z
@@ -505,6 +505,6 @@ related:
         height: 600
         isCached: true
 
-secured: "JitmLsz6fFiviLb46u3nLHMRXhwhfSMwri4aiibqg78g3t7RI/keCiKGWi4hMggU3lEn/Wr+dInTWxcfM04evDSDnmfHqOBVNE16L+LpbW5Zg0vYxoRXVvCQRp6BLs/7YosjT6NWIUMBsagmy6Llzshyy1AnDvycX2868wzSArFMWEH9hwP9yMrauxA4R6D6wsr5COvdzPHLdN+1dFFTY7Irs0/AlHzGNePq98gvgHopQU/fKOFquhU5kBazY6C7SOahmjFj9iU2tEhAmShBQ9IqQQl0WYQhK1rPjyjfPcCwQsFb7Ci2dg8rvOJ9haps5dPbY9rPiLR2IRgCvXJX2e9jhUoVl6v6AY1me9utEtnJjcq9YVddAvCZ9UntjuA5UTN3EXCK4//Vf5Tt5HVfMzccHgrjYRxdD939v4eNjHUlRu3eNZ5EPbcl9XXzp9KZUURtL+43rDCD3xlxQcU7uft3BPvqGm3Vr1Ww5YgzLBbya0XFYrMAB/YMp1XgQr+nQHxi9fZOK4S0hNuZXaexQw==;1Fvo+t7nQ4JQ+bQO6FmTjg=="
+secured: "/Bhmefqkhyg4GCtK4q1KzvKKy0Fev4FVBBTA1Res/UYqUYz/AyDIW1NQuLYIu3A6Z65xMCcRwl3lcFPMfbVNSWoyzFsvxsR4C/WfmaCNN5OjzLVcSXQXohH9coDWH7xO/6Oikp8RdofXw0kJY0sL66aLlClujfixWCDPUz6JK0OeIXiokYj7vi+X7t2mTBCuMS9Xf0lw1JkpnbRLPfJRbzPM6ix9JmqHqJ1amCDWoJB8cLtpAK47Ox9nz2NBezkxGkbXfSrjQyKt0D+ZMl8wCZ+uPEgeAnzMBBT1pPYXkkJjH2Ty4M2/6yITAPLKvpsQSpdjxoxR3NxaWmPh7Z3vVeGbvabUK7g0SATZM0s6VlY=;ogXuwZ2ZCrfdvoiRFwJ1mA=="
 ---
 

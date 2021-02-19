@@ -860,6 +860,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Rush Limbaugh was Trump before Trump"
+    excerpt: "Millions of Americans who grew old with Limbaugh will mourn the self-described \"America's Anchorman.\" Millions more will bemoan a legacy that has much to do with America's current political estrangement."
+    publishedDateTime: 2021-02-19T05:48:00Z
+    webUrl: "https://www.cnn.com/2021/02/19/world/meanwhile-in-america-february-18-intl/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/19/world/meanwhile-in-america-february-18-intl/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/19/world/meanwhile-in-america-february-18-intl/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200204220157-29-sotu-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "House managers rest case, argue Trump could stoke more violence if not convicted"
     excerpt: "The former president's defense is set to begin Friday after methodical and at times emotionally wrenching presentations from Democrats."
     publishedDateTime: 2021-02-13T00:30:00Z

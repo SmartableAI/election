@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Leading House Democrat sues Donald Trump under a post-Civil War law for conspiracy to incite US Capitol riot"
-excerpt: "Former President Donald Trump and attorney Rudy Giuliani are being accused of conspiring with the far-right groups Proud Boys and Oath Keepers to incite the January 6 insurrection in a civil lawsuit filed Tuesday in federal court by the Democratic chairman of the House Homeland Security Committee that"
-publishedDateTime: 2021-02-16T17:56:28Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PXP21kcDt6Y/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PXP21kcDt6Y/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/02/16/politics/capitol-lawsuit-trump-giuliani-proud-boys-oath-keepers/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/16/politics/capitol-lawsuit-trump-giuliani-proud-boys-oath-keepers/index.html"
+title: "Rush Limbaugh was Trump before Trump"
+excerpt: "Millions of Americans who grew old with Limbaugh will mourn the self-described \"America's Anchorman.\" Millions more will bemoan a legacy that has much to do with America's current political estrangement."
+publishedDateTime: 2021-02-19T05:48:00Z
+originalUrl: "https://www.cnn.com/2021/02/19/world/meanwhile-in-america-february-18-intl/index.html"
+webUrl: "https://www.cnn.com/2021/02/19/world/meanwhile-in-america-february-18-intl/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/02/19/world/meanwhile-in-america-february-18-intl/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/19/world/meanwhile-in-america-february-18-intl/index.html"
 type: article
-quality: 156
+quality: 135
 heat: -1
 published: false
 
@@ -22,10 +22,11 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210113114115-03-trump-dc-rally-0106-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/200204220157-29-sotu-2020-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -511,6 +512,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Leading House Democrat sues Donald Trump under a post-Civil War law for conspiracy to incite US Capitol riot"
+    excerpt: "Former President Donald Trump and attorney Rudy Giuliani are being accused of conspiring with the far-right groups Proud Boys and Oath Keepers to incite the January 6 insurrection in a civil lawsuit filed Tuesday in federal court by the Democratic chairman of the House Homeland Security Committee that"
+    publishedDateTime: 2021-02-16T17:56:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PXP21kcDt6Y/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/16/politics/capitol-lawsuit-trump-giuliani-proud-boys-oath-keepers/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/16/politics/capitol-lawsuit-trump-giuliani-proud-boys-oath-keepers/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 156
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210113114115-03-trump-dc-rally-0106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Senators vote to acquit Trump in impeachment trial"
     excerpt: "The Senate is poised to vote Saturday on whether to convict former President Donald Trump for inciting the insurrection at the Capitol last month in the culmination of the first impeachment trial of an ex-president in US history.\n    \n"
     publishedDateTime: 2021-02-13T20:53:23Z
@@ -843,22 +860,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Rush Limbaugh was Trump before Trump"
-    excerpt: "Millions of Americans who grew old with Limbaugh will mourn the self-described \"America's Anchorman.\" Millions more will bemoan a legacy that has much to do with America's current political estrangement."
-    publishedDateTime: 2021-02-19T05:48:00Z
-    webUrl: "https://www.cnn.com/2021/02/19/world/meanwhile-in-america-february-18-intl/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/19/world/meanwhile-in-america-february-18-intl/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/19/world/meanwhile-in-america-february-18-intl/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 135
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200204220157-29-sotu-2020-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Impeachment Case Aims to Marshal Outrage of Capitol Attack Against Trump"
     excerpt: "Armed with lessons from the last impeachment trial of Donald J. Trump, prosecutors plan a shorter, video-heavy presentation to confront Republicans with the fury they felt around the Capitol riot."
     publishedDateTime: 2021-02-07T20:46:00Z
@@ -1026,6 +1027,6 @@ related:
         height: 619
         isCached: true
 
-secured: "jB3h5Zw9HTOBFaJfxVO7mn40c6CAR5nP/7Uwy6w+sXllI0hL+3OO3nJyD2iMhj1ys8mYsxemVpW4yNyBrIMLxAk5aOI3wL9QT/P4nSfAtWK0kJEuQ6Pc4UStglFC4F1/zj7rNzJYVDLG/++VPhitYcANPESLPD9bZP3eCuIGpZR/eMb4gy3TQoBH2/9wSL519yaGy4FLi2IAgRzmU7VK1DxXcLkF5uBZwl1AFgZhJryxLXQ2gcyzJ7PM8dsXnLcpq+qWu7P0EljFm+H7h03ybZ0g8j5oaO++iVDPRzAE/y6omZkqbC1jHYq5iyajD+K+UYmDr/06X01BiuSfMHzlOxtMz3xFYUUzTVlbAheVTQU=;+tUfKIcMx8eGD0yzEblEWQ=="
+secured: "+opOf1Vw4VG8iSkVR+uJyDqbzasTZRpk9yjuGZCFKzx6EFr/GygCaDWNbsqJgwMq2RYyox9gHyB7nCJ3zHSPEkeZ5Gal1UYl9mNvKsVvpaDHIs/FlQjgRFiYJYAx9BG5lg6O8lkCW1mWrd6FCuYIrXUH6qJl2QoYdMztSlcaq/IrAaeOKMQG2KjtKczEMOJIRbJqXFnzNDc612jBvYBefNPFYbdH43qsQTRba5zdmu15vZR8E6cbASVZq22gjdlHG3ssPpOLj1565/eXWmAU7zoRtk0f8o8VGD0eFwyTJeX83tWn7LrJLL6qgilYVUtGs9GHrpc81tpVzAxpI5biCqx9TapfiZKL4tnJDg3u/rc=;7CNXRIFwhxKnvCcSTgFHKA=="
 ---
 

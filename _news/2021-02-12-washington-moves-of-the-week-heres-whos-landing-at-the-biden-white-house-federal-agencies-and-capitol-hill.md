@@ -454,6 +454,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Biden tackles white supremacy in town hall: Politics Weekly Extra"
+    excerpt: "As Joe Biden visited Milwaukee, Wisconsin this week, our guest presenter Kenya Evelyn spoke to the state representative David Bowen about the administration’s early obligations to Black voters"
+    publishedDateTime: 2021-02-19T05:00:00Z
+    webUrl: "https://www.theguardian.com/politics/audio/2021/feb/19/biden-tackles-white-supremacy-in-town-hall-politics-weekly-extra"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
+    images:
+      - url: "https://i.guim.co.uk/img/media/2a325fc9fbd40349f1d51910eb86f5f2cf92b5a0/0_0_3500_2099/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fd3391c8f554ce0c1acb9af9dfcb1b09"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Senate panel clears Biden's nomination of Boston mayor for labor secretary"
     excerpt: "President Joe Biden's nomination of Boston Mayor Marty Walsh to serve as the next secretary of labor won approval from a Senate committee on Thursday, clearing the way for a vote by the full Senate."
     publishedDateTime: 2021-02-11T22:38:00Z

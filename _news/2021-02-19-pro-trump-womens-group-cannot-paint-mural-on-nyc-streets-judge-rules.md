@@ -1,28 +1,34 @@
 ---
 category: news
-title: "Pro-Trump Women's Group Cannot Paint Mural on NYC Streets, Judge Rules"
+title: "Pro-Trump women's group cannot paint mural on NYC streets, judge rules"
 excerpt: "A conservative women's group cannot paint its own mural on New York City streets even after Mayor Bill de Blasio allowed a yellow \"Black Lives Matter\" mural to be painted outside Trump Tower, a federal judge in Manhattan ruled on Thursday."
-publishedDateTime: 2021-02-18T20:45:00Z
-originalUrl: "https://www.usnews.com/news/us/articles/2021-02-18/pro-trump-womens-group-cannot-paint-mural-on-nyc-streets-judge-rules"
-webUrl: "https://www.usnews.com/news/us/articles/2021-02-18/pro-trump-womens-group-cannot-paint-mural-on-nyc-streets-judge-rules"
-ampWebUrl: "https://www.usnews.com/news/us/articles/2021-02-18/pro-trump-womens-group-cannot-paint-mural-on-nyc-streets-judge-rules?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2021-02-18/pro-trump-womens-group-cannot-paint-mural-on-nyc-streets-judge-rules?context=amp"
+publishedDateTime: 2021-02-19T02:08:00Z
+originalUrl: "https://www.reuters.com/article/us-new-york-mural-lawsuit-idUSKBN2AI2TR"
+webUrl: "https://www.reuters.com/article/us-new-york-mural-lawsuit-idUSKBN2AI2TR"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AI2TR"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AI2TR"
 type: article
-quality: 55
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210218&t=2&i=1552057883&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1H1P9"
+    width: 817
+    height: 545
+    isCached: true
 
 related:
   - title: "Literary group: Trump suit settlement protects journalists"
@@ -106,6 +112,6 @@ related:
         height: 545
         isCached: true
 
-secured: "0DwCk7G52hSVjHt/fTZSEPK8zxFbDvNWhi65wzW1DqnmYtB2b0Fq1woMtXQlQZQM/P/4bd8+Dsf/fp85YN0gwf7nhykQHekuZyaYylvLXnl6OsQhyZAscj3kHpyodpLcjXGxn9Y6wWcE3P746XjTqWjDhYCFInLd83DEP3Hyfmh967/wNsLHUK5plTb2LHurN/uYOF54aO96+z6llOWxEe8cgc3WViJ/eEPb1hTvHP032XEl4Uq/bq80OCdyV+lZ1PtgmuCFq0SwINfz0eyiJxrarU84gRYJGD/pu8n1sRkzIZ1sXdfKkXalxsvjkBj9vwKSjhXNNLVbbRjjVqRxDQVQmQwFrqbBirZsoV7BkvcZCGdEd7ZA0LTYQibmUqoW1a/6TxnZvuOIb6cUGifnQuvl9zC37SBY4qBQweVjH+Jr4MvspeeclFOc9taWXML45CE0hek3VITJxCjRsi7IxQ/TZfAw/WmDzrOGc+5rNg/tkN43L8PV0BBvrEYEylWSHouHNqNxELzwj9FsGcrR0Q==;mq+bsZR5ZiMF2QrI7Tw+wA=="
+secured: "isBxS757GohENBxp7tfl2t0gr9pGUQVMOA/EQZ6XqPBxyakAKp0vuXOBuG478HknmJUwOWBhpNjqhAD2O4S2ZCQUrpQnyBAIP8d1fYi9bwhP/MPAA92/vGSSY5vY2Wvw1YS1Dc7vy0mwm/eyHBBLpUxYL8NAAV8aL3BBABVqwDYqHQhKgTCsZ+7FWdeUxTHWYt8jH8IjVp8kSGCpKy2FHUcuXA/ZHJrKQbMMvWSPgxGt1IGVINjhmRVBw4iqbcOlDdDotZJZ1b6j12WO8KG7ReWSP1S6xPvccd6CZPOUGFhqZlvZqDWqpjNgO1waoqNytXwmzfcvmjcdTp7XSS6/XdgB5O1BcSKCEU81zitR1b8=;2PzSNd2pSFmAldFEQySutw=="
 ---
 

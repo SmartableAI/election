@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/north-carolina-man-charged-threaten
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/north-carolina-man-charged-threatening-president-biden.amp"
 type: article
 quality: 175
-heat: 715
+heat: 735
 published: true
 
 provider:
@@ -284,6 +284,22 @@ related:
     quality: 163
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4ab71ec7-6f54-4382-8f6d-33f7053e5337/1b6fc5be-d65d-4ac1-9c73-adfc4e89846b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "LIVE UPDATES: Joe Biden urged to reverse cancellation of ICE operation targeting sex offenders"
+    excerpt: "Missouri Attorney General Eric Schmitt along with 17 other state attorneys general, requested that Biden, as well as leading officials in the Department of Homeland Security and ICE, reactivate Operation Talon."
+    publishedDateTime: 2021-02-19T06:15:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AASuH6kNR5o/joe-biden-live-updates-2-19-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-live-updates-2-19-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-live-updates-2-19-2021.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9690c08d-ef87-4a3c-8223-995e8a92f08a/3ae50e48-73e0-4b09-ba92-9ee6e9b17eb0/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

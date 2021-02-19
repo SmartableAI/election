@@ -1,28 +1,34 @@
 ---
 category: news
-title: "GOP's Thune Says Trump Allies Engaging in 'Cancel Culture'"
-excerpt: "Republican Sen. John Thune is criticizing activists and party leaders for engaging in “cancel culture” by rushing to censure GOP senators for voting to convict former President Donald Trump at his impeachment trial."
-publishedDateTime: 2021-02-19T01:50:00Z
-originalUrl: "https://www.usnews.com/news/politics/articles/2021-02-18/gops-thune-says-trump-allies-engaging-in-cancel-culture"
-webUrl: "https://www.usnews.com/news/politics/articles/2021-02-18/gops-thune-says-trump-allies-engaging-in-cancel-culture"
-ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-18/gops-thune-says-trump-allies-engaging-in-cancel-culture?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-18/gops-thune-says-trump-allies-engaging-in-cancel-culture?context=amp"
+title: "GOP’s Thune says Trump allies engaging in ‘cancel culture’"
+excerpt: "Republican Sen. John Thune is criticizing activists and party leaders for engaging in “cancel culture” by rushing to censure GOP senators for voting to convict former President Donald Trump at his imp"
+publishedDateTime: 2021-02-19T06:45:00Z
+originalUrl: "https://www.washingtonpost.com/politics/gops-thune-says-trump-allies-engaging-in-cancel-culture/2021/02/18/1be89eae-7254-11eb-8651-6d3091eac63f_story.html"
+webUrl: "https://www.washingtonpost.com/politics/gops-thune-says-trump-allies-engaging-in-cancel-culture/2021/02/18/1be89eae-7254-11eb-8651-6d3091eac63f_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/gops-thune-says-trump-allies-engaging-in-cancel-culture/2021/02/18/1be89eae-7254-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/gops-thune-says-trump-allies-engaging-in-cancel-culture/2021/02/18/1be89eae-7254-11eb-8651-6d3091eac63f_story.html?outputType=amp"
 type: article
-quality: 55
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
+    isCached: true
 
 related:
   - title: "GOP Sen. Richard Burr facing censure at home over vote to convict Trump"
@@ -210,6 +216,6 @@ related:
         height: 455
         isCached: true
 
-secured: "yA7Ut8n/9RaekKxySJJ+rzv+av/B3kdXiGsLp3Mr825VnrthlJp23kK/QcDz69aJZKjY+tTmwzN/MaX8//q4D3bIMOUKHHlFyq5NpzV5LUob5YZ2tSVui/W+05JJCb3pdbLcK1HTmVO3Pam3NG6d2gHZA2mNjENg8VCA3eM522M17cOfjnprJXfovYOeyc72/8th1koOfbvSka57MTVm1FvB2Mnk4TysZaUO+26RLrAp/A+T/4VYwp+amv3HCFE8/b+PUgzAGNYNB/OvPAUbeGCTzNwW52C2B4GiQCxjBNUH0QDchc5oyi4u1oGcmjTDTU9A26iKM5beJZp0VoklenpX7U+gqvWWwcWwJjt72AmHoC5Xkeg58V0CRsPX4qrkC6DSTqpzaXHw1dJkF0x9hifaFTMwrMqMVfqUkfLAkouQ5fRk7xg4DiTgYK5vGNJAK9gOSZ3nd2ltg9VrusC3uxZwawUsHLpzDk9bZWITI8rwCE6ooU/3mMdELey+mFkrWP+O6rl3NNsZEQSUbCwKEA==;wcXGXZSnvdTu/wldVewprQ=="
+secured: "en4+e83kuoZVoRk9ckIZptRL/1UUDwQktXlMDXxFjJ20bOqE4wha601ff8+VgobPVYjqcwqkIcWCD2Q8lr2JI+3R8j+HxF3SmRjvt4v3wmoG7twRY10RSt3lax6V+jKB7RKqNGBzbio4g8zNIa4jBFQD7FdLdMLrI+KzZ1pldCTT2qgwGZXOr1212BJ895BhJzvx12qUsxmhcane1dQ4colonXRORUYbB3WdDCw2QkoycQGorLlIi5rDZN0nRob0ULceuUYVCVQH5KYd5VdJkOE5p5doFII8dP2WWidJRsPaz9jxShX1RDtM7TTFTG4Z1t7adPmHM1yf0j5lBr6efNEN7G4umo5EOu3uEMrL6Q8=;8aVF86oQHqufgCMmfA71Bw=="
 ---
 

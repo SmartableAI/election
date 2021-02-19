@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/13/politics/trump-pence-capitol-riot
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/trump-pence-capitol-riot/index.html"
 type: article
 quality: 192
-heat: 1432
+heat: 1452
 published: true
 
 provider:
@@ -843,6 +843,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/02/10/us/00georgia/merlin_183430803_2af6c473-21c0-4c8a-95c3-ae784ea3dcc0-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Rush Limbaugh was Trump before Trump"
+    excerpt: "Millions of Americans who grew old with Limbaugh will mourn the self-described \"America's Anchorman.\" Millions more will bemoan a legacy that has much to do with America's current political estrangement."
+    publishedDateTime: 2021-02-19T05:48:00Z
+    webUrl: "https://www.cnn.com/2021/02/19/world/meanwhile-in-america-february-18-intl/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/19/world/meanwhile-in-america-february-18-intl/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/19/world/meanwhile-in-america-february-18-intl/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200204220157-29-sotu-2020-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Impeachment Case Aims to Marshal Outrage of Capitol Attack Against Trump"
     excerpt: "Armed with lessons from the last impeachment trial of Donald J. Trump, prosecutors plan a shorter, video-heavy presentation to confront Republicans with the fury they felt around the Capitol riot."

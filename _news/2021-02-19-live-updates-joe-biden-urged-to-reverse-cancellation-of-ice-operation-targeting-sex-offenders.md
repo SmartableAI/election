@@ -1,14 +1,14 @@
 ---
 category: news
-title: "WH aide resigns after allegedly demeaning reporter despite Biden's warning of firing"
-excerpt: "Deputy White House press secretary TJ Ducklo on Saturday said he was resigning amid allegations that he made \"derogatory and misogynistic\" remarks to Politico reporter Tara Palmeri nearly a month ago."
-publishedDateTime: 2021-02-14T00:45:10Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/H6fBJ1SFWyk/wh-aide-resigns-after-allegedly-demeaning-reporter-despite-bidens-warning-of-firing"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/H6fBJ1SFWyk/wh-aide-resigns-after-allegedly-demeaning-reporter-despite-bidens-warning-of-firing"
-ampWebUrl: "https://www.foxnews.com/politics/wh-aide-resigns-after-allegedly-demeaning-reporter-despite-bidens-warning-of-firing.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/wh-aide-resigns-after-allegedly-demeaning-reporter-despite-bidens-warning-of-firing.amp"
+title: "LIVE UPDATES: Joe Biden urged to reverse cancellation of ICE operation targeting sex offenders"
+excerpt: "Missouri Attorney General Eric Schmitt along with 17 other state attorneys general, requested that Biden, as well as leading officials in the Department of Homeland Security and ICE, reactivate Operation Talon."
+publishedDateTime: 2021-02-19T06:15:23Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AASuH6kNR5o/joe-biden-live-updates-2-19-2021"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AASuH6kNR5o/joe-biden-live-updates-2-19-2021"
+ampWebUrl: "https://www.foxnews.com/politics/joe-biden-live-updates-2-19-2021.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-live-updates-2-19-2021.amp"
 type: article
-quality: 168
+quality: 163
 heat: -1
 published: false
 
@@ -25,9 +25,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Tj-Ducklo-Tara-Palmeri.jpg?ve=1&tl=1"
-    width: 640
-    height: 320
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9690c08d-ef87-4a3c-8223-995e8a92f08a/3ae50e48-73e0-4b09-ba92-9ee6e9b17eb0/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -191,6 +191,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "WH aide resigns after allegedly demeaning reporter despite Biden's warning of firing"
+    excerpt: "Deputy White House press secretary TJ Ducklo on Saturday said he was resigning amid allegations that he made \"derogatory and misogynistic\" remarks to Politico reporter Tara Palmeri nearly a month ago."
+    publishedDateTime: 2021-02-14T00:45:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/H6fBJ1SFWyk/wh-aide-resigns-after-allegedly-demeaning-reporter-despite-bidens-warning-of-firing"
+    ampWebUrl: "https://www.foxnews.com/politics/wh-aide-resigns-after-allegedly-demeaning-reporter-despite-bidens-warning-of-firing.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/wh-aide-resigns-after-allegedly-demeaning-reporter-despite-bidens-warning-of-firing.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Tj-Ducklo-Tara-Palmeri.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "LIVE UPDATES: Joe Biden’s approval rating plummets over handling of school reopenings"
     excerpt: "A survey from Quinnipiac University shows that when it comes to the president’s handling of the reopening of schools amid the COVID crisis, Biden’s approval rating plummets."
     publishedDateTime: 2021-02-18T07:19:06Z
@@ -284,22 +300,6 @@ related:
     quality: 163
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4ab71ec7-6f54-4382-8f6d-33f7053e5337/1b6fc5be-d65d-4ac1-9c73-adfc4e89846b/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "LIVE UPDATES: Joe Biden urged to reverse cancellation of ICE operation targeting sex offenders"
-    excerpt: "Missouri Attorney General Eric Schmitt along with 17 other state attorneys general, requested that Biden, as well as leading officials in the Department of Homeland Security and ICE, reactivate Operation Talon."
-    publishedDateTime: 2021-02-19T06:15:23Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AASuH6kNR5o/joe-biden-live-updates-2-19-2021"
-    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-live-updates-2-19-2021.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-live-updates-2-19-2021.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 163
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9690c08d-ef87-4a3c-8223-995e8a92f08a/3ae50e48-73e0-4b09-ba92-9ee6e9b17eb0/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -476,6 +476,6 @@ related:
         height: 3480
         isCached: true
 
-secured: "l8aiVJuJSyAYN2LC/4aLLH+LRNubDWOceU/B2gGGpICoOQQPnRP6JXNnQKreElt5Yz1cWjg8+PL9GSUZ3NjBt+Vu8ERq7saQrkC0IPUJcFWY4IbaF3p2CYV8tXlUdu+8DrdyV6ugHSWIya7RY05eVrDeDkNAlTYqEPgOe5ItmrNy0ztmQjiGHdD71nlC+Ld9ioImscK4/KXVxiBUTLCqtgkurxcgv941MgvavzjwO3grvhmy1c93BuHHnoO8BvnsrUfWNbD1pdN4t2z+mLmTsvAwhKBPC24ZrSRXRAqk91pYno5LJXhg0K2EAI6TZX8cYhtpFDIlXSRvE2Gm/H/XB19xsNX+QUN6yppQKtRY9y4=;9/XAJqVJWqwJwWQzn7jJuA=="
+secured: "p/UPhx1pEPc3fMEDrrzRwWyXw1O78r1yoFcUUurxQxGvd6jiAo+oT+zfg5Ox0uUSLinzO3GHmo8/cfnjXe9ojE2r2JlafmtgdVt/UiZnw4mk0pqc/asseYN+5yGCRVOY3VqJeMLsAjSow2ZmSC9lspbP9/SilHVE3K5eIBu+BysH1EBIz5oRKIXeE3/l+nbDF9GFHKT2WHZGrKbdrTANppKeA+EilDUgybZ5AYn+O1OB2UQzUcIrZ5NYO6GhhPNOs3THdm/RphIUhfOAQ0PfkJW3S1xWfBmo4vcSjCc19IAh6WEsTTQQbYBek9Yh8E9pLV+FJP+vVXzPFLpxspj/ffCMxcBMJJzkPCENCSK96r4=;n+fmlde5ZZhr5RLYDsmKug=="
 ---
 

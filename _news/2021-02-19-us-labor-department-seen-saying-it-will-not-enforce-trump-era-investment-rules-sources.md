@@ -47,6 +47,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Pro-Trump women's group cannot paint mural on NYC streets, judge rules"
+    excerpt: "A conservative women's group cannot paint its own mural on New York City streets even after Mayor Bill de Blasio allowed a yellow \"Black Lives Matter\" mural to be painted outside Trump Tower, a federal judge in Manhattan ruled on Thursday."
+    publishedDateTime: 2021-02-19T02:08:00Z
+    webUrl: "https://www.reuters.com/article/us-new-york-mural-lawsuit-idUSKBN2AI2TR"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AI2TR"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AI2TR"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210218&t=2&i=1552057883&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1H1P9"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Wall Street Journal: Trump might be acquitted, but won't live down 'disgraceful conduct'"
     excerpt: "The Wall Street Journal’s editorial board wrote that while the Senate may acquit former President Trump over the deadly riot at the U.S. Capitol, “he won’t live down his disgraceful conduct.”"
     publishedDateTime: 2021-02-11T14:40:00Z
@@ -95,17 +111,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Pro-Trump Women's Group Cannot Paint Mural on NYC Streets, Judge Rules"
-    excerpt: "A conservative women's group cannot paint its own mural on New York City streets even after Mayor Bill de Blasio allowed a yellow \"Black Lives Matter\" mural to be painted outside Trump Tower, a federal judge in Manhattan ruled on Thursday."
-    publishedDateTime: 2021-02-18T20:45:00Z
-    webUrl: "https://www.usnews.com/news/us/articles/2021-02-18/pro-trump-womens-group-cannot-paint-mural-on-nyc-streets-judge-rules"
-    ampWebUrl: "https://www.usnews.com/news/us/articles/2021-02-18/pro-trump-womens-group-cannot-paint-mural-on-nyc-streets-judge-rules?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2021-02-18/pro-trump-womens-group-cannot-paint-mural-on-nyc-streets-judge-rules?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "csRjLnCTTkRS6clif2eB5RZod8jE+XTg52rHJCW0Vn3nDtu1V8wCbwLC194rm4p7/LamrJuxyWJRYKuvmc2GvSCDACj7yEtESUHn/ukaYFg3O43BASshKRBiOlTCxRFtK3EgnSylNo3+d/VtKfV6177rSY3uasGvcBoSY5BP7M80ENqmNo3a5FyhShpetp7gQZaABngkK5abf/sAaGdWoePaeGuBQ4jlLbOYr05Yoj8kEc628pG6EllDOFlUO8kRh2BHik8Q9MkoM5pL7AX46SrOQm3w5N4hHoQp6ZKrnSfb9qXuJUd4Ng2t0vo3pWP8JXi1t0YIdpNjLGajzYtroDV7vJVYZCfi1gTbBqlq7LY=;vB7eOl7/BW3nHk9+pFlAFw=="
 ---

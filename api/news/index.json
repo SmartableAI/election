@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-19-coronavirus-live-news-global-weekly-cases-lowest-since-october-biden-to-pledge-4bn-to-covax-scheme.md",
+      "title": "Coronavirus live news: global weekly cases lowest since October; Biden to pledge $4bn to Covax scheme",
+      "excerpt": "WHO urges against letting guard down; fifth of Australians say they are unlikely to get vaccine; Israel extends coronavirus border closure",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/world/live/2021/feb/19/coronavirus-live-news-global-weekly-cases-lowest-since-october-biden-to-pledge-4bn-to-covax-scheme?page=with:block-602f495e8f08bdbed283b299",
+      "originalUrl": "https://www.theguardian.com/world/live/2021/feb/19/coronavirus-live-news-global-weekly-cases-lowest-since-october-biden-to-pledge-4bn-to-covax-scheme?page=with:block-602f495e8f08bdbed283b299",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/bb7584dc2f409c32d7eac1aa6bac7fbbf30d7435/0_0_4260_2555/master/4260.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=63cc726ab04c98357830a8a02e6bc49b",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/world/live/2021/feb/19/coronavirus-live-news-global-weekly-cases-lowest-since-october-biden-to-pledge-4bn-to-covax-scheme",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2021/feb/19/coronavirus-live-news-global-weekly-cases-lowest-since-october-biden-to-pledge-4bn-to-covax-scheme",
+      "publishedDateTime": "2021-02-18T22:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-02-19-literary-group-trump-suit-settlement-protects-journalists.md",
       "title": "Literary group: Trump suit settlement protects journalists",
       "excerpt": "A literary group that sued then-President Donald Trump with claims that he repeatedly violated the First Amendment in dealing with the media says a settlement it reached will protect journalists",
@@ -51,58 +103,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-coronavirus-live-news-global-weekly-cases-lowest-since-october-biden-to-pledge-4bn-to-covax-scheme.md",
-      "title": "Coronavirus live news: global weekly cases lowest since October; Biden to pledge $4bn to Covax scheme",
-      "excerpt": "WHO urges against letting guard down; fifth of Australians say they are unlikely to get vaccine; Israel extends coronavirus border closure",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/world/live/2021/feb/19/coronavirus-live-news-global-weekly-cases-lowest-since-october-biden-to-pledge-4bn-to-covax-scheme?page=with:block-602f1c4d8f08ad21ea5ffa1b",
-      "originalUrl": "https://www.theguardian.com/world/live/2021/feb/19/coronavirus-live-news-global-weekly-cases-lowest-since-october-biden-to-pledge-4bn-to-covax-scheme?page=with:block-602f1c4d8f08ad21ea5ffa1b",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/bb7584dc2f409c32d7eac1aa6bac7fbbf30d7435/0_0_4260_2555/master/4260.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=63cc726ab04c98357830a8a02e6bc49b",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/world/live/2021/feb/19/coronavirus-live-news-global-weekly-cases-lowest-since-october-biden-to-pledge-4bn-to-covax-scheme",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2021/feb/19/coronavirus-live-news-global-weekly-cases-lowest-since-october-biden-to-pledge-4bn-to-covax-scheme",
-      "publishedDateTime": "2021-02-18T18:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     },
     {

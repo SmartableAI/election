@@ -440,6 +440,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Biden tackles white supremacy in town hall: Politics Weekly Extra"
+    excerpt: "As Joe Biden visited Milwaukee, Wisconsin this week, our guest presenter Kenya Evelyn spoke to the state representative David Bowen about the administration’s early obligations to Black voters"
+    publishedDateTime: 2021-02-19T05:00:00Z
+    webUrl: "https://www.theguardian.com/politics/audio/2021/feb/19/biden-tackles-white-supremacy-in-town-hall-politics-weekly-extra"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
+    images:
+      - url: "https://i.guim.co.uk/img/media/2a325fc9fbd40349f1d51910eb86f5f2cf92b5a0/0_0_3500_2099/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fd3391c8f554ce0c1acb9af9dfcb1b09"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Senate panel clears Biden's nomination of Boston mayor for labor secretary"
     excerpt: "President Joe Biden's nomination of Boston Mayor Marty Walsh to serve as the next secretary of labor won approval from a Senate committee on Thursday, clearing the way for a vote by the full Senate."
     publishedDateTime: 2021-02-11T22:38:00Z
@@ -491,6 +505,6 @@ related:
         height: 600
         isCached: true
 
-secured: "UdaHO4FGs0dc3/romMFx+rTcWr3+7RarsbV7uPwT1Uirxm+vgnbJzcz2Vtcz7/w4M/PC98SHzP0LkvChM6NcUXY+/iqrTMzWjjYI+hwxObd5fsTgfMLGjA00ojoG6ecaF/ldBG1zMWSxtR445yLBQdPkO1Vw/LvGhPbuUwTseYJqXlutnhyqppJkdDjZhUvLNP+MOigKnjgCMqV2feOSLR8UaaBEwyRf5POxbwQccYosEtjU/pfbDH+S9Jp0djKRcTfVagWbax8/V+XwlUGQ0onjl1YYbFeQ4bZb+5jVYUwENmPiSpGetHc3GpR2wvF3Ae9gct5NbtfHQAnIloW/sUl7NVNblYZUqaf7RcQ+WAQ=;IHmN2lgnbwbzMA/NyNIikQ=="
+secured: "jXZORnX05e/zEchejQcu+NWJqZmZjMjGSU9V4QL7iFOuEpiiOC83cz2fkeeNUSxKOxmnp1x1ChqHxVIo2NkweiHF6fkfXefXGiYZzR/GFM1jdYmq88ouaE3oX9bnDnvR/BLQpd9IPwa4LyzojWjhrugIkD+VJ5SFd6gXwNIN6ZT9WC8okkTseyrRL2RXbBMyRsXtVkwLEmCn26+PNRsL2LjdYQAA4NUowL93sI3ki1YFLPXSLPHR4nKqQe7JaoFEzroU0w2MNVwbGYu8UxPD7UareVG0sA0nKkxV8fm+WElt5LN/v/uhnC+L2euMNJ8LCJOt/PBJbO2BM2U75+EyiX6QM8BwqasqLhl/9vs96KE2w7FMc9j/H8n0mjH3kIsHbILfVrQaJzzKmZvjYqfwZUeXnUdNn7fyryQ08USitgH28HFr295J7CaFgJS4tBvruOE2EHGbj0S9S1d4JLNex5ZE4tZ11N1hF64rO1ULJaA5bja20WxmxmAI9to+OgM/Uq9rBOp/DsynwmebhsOjRQ==;ZZwvubhs014h+9qMWAn2rw=="
 ---
 
