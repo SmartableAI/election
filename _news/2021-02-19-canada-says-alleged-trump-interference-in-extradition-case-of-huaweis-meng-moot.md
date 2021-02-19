@@ -3,10 +3,10 @@ category: news
 title: "Canada says alleged Trump interference in extradition case of Huawei's Meng 'moot'"
 excerpt: "Canada's attorney general says accusations that former U.S. President Donald Trump's interfered in Huawei chief financial officer Meng Wanzhou's extradition trial is irrelevant because he is no longer in office."
 publishedDateTime: 2021-02-19T08:47:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-huawei-tech-canada-idINKBN2AJ09S"
-webUrl: "https://www.reuters.com/article/us-usa-huawei-tech-canada-idINKBN2AJ09S"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2AJ09S"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2AJ09S"
+originalUrl: "https://www.reuters.com/article/us-usa-huawei-tech-canada-idCAKBN2AJ09S"
+webUrl: "https://www.reuters.com/article/us-usa-huawei-tech-canada-idCAKBN2AJ09S"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN2AJ09S"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN2AJ09S"
 type: article
 quality: 119
 heat: 119
@@ -30,6 +30,6 @@ images:
     height: 545
     isCached: true
 
-secured: "Drjfx+hd5d9IbKKrG7Ffo07gOdfvHrhMI7W8BoVTnQRSF03i9c9ClGflPtl9Dr3JSX3nahyGdceO2n0H1vN7VlhoXZkzXnRehg+TNDEqAGyXGbF0Q8YCKsr/szHNWJZ24wRqONwa+2oYGfTgwacttffAwkG6cyOjD1Dspeigk0ksK4f3+9TF84CGWvvg5EHBHFKFsx3SEPSd/8sm+BbV9/3XqKLCZFz0vnpExk2P6ogow5JDmUt4Qlghdq5Lxkdy1sPJRULqAugXcyUesRdeDEbgs4Y3cbskj3CVrD+dh42iWktDsyRR7PGtRcjvCNfVOkFI8AKI3I1gode7DAhWWc8f6/YQPUYYzzROuJIFLz4=;1nUUIHatOZYdySC9jcho/A=="
+secured: "kydO+26PnEvL4huBIg4H1GVit8pd1m7T2Qo1mpTeFBAbPOQZMyIp85oKLuB7cMs7LUxltP6IqhrWtHLYOkpWTXZYvwst1fi5LViEaFERN5rAYokRu3lgDEBoTg6SDBkETuwUc2F+1fSfblwS8eVjzd7FrSyExpvdMzLnDGlQCcYt/n86sCxsZ63iSBv4PCOogc6EG/ghUPpPLElqzMWr8kb/6yW/bkbnVMHL6O4Uvl2ei3o/qLoVohY7YcE0be1Rse0Gj8ikaPkSjU0hGsAM4AC5Q5kB2PlwDZZucPtaz7IymhTD3uQ1r6JVM4YLk+cH6S6ZzeiIkQO3MPLgGYWX9lr6jEFnmfa8/P9dfNZHmZs=;WR5rIDjTbSkxP+1B5tTOmA=="
 ---
 

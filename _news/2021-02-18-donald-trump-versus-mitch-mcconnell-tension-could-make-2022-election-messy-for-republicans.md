@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6797680002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6797680002"
 type: article
 quality: 130
-heat: 1070
+heat: 1090
 published: true
 
 provider:
@@ -634,6 +634,22 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/02/15/cb6aab64-2cd0-41f2-9c6c-6f324a479901/thumbnail/1200x630/cfee6a8b83d99468a12d071db3ec9ef0/0215-cbsn-qen-repantitrumpparty-646566-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Readers React: Trump misrepresented Pence’s role in election process"
+    excerpt: "Since in past presidential elections all those who had lost conceded well before the state governors certified the results and both houses of Congress accepted them, I was a bit confused when Trump insisted that Mike Pence could help change the outcome of the election."
+    publishedDateTime: 2021-02-19T13:32:00Z
+    webUrl: "https://www.mcall.com/opinion/readers-react/mc-opi-let-jayson-vice-president-moderator-20210219-hqzqmfilu5bcdd5qa5sob4bjuu-story.html"
+    ampWebUrl: "https://www.mcall.com/opinion/readers-react/mc-opi-let-jayson-vice-president-moderator-20210219-hqzqmfilu5bcdd5qa5sob4bjuu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mcall-com.cdn.ampproject.org/c/s/www.mcall.com/opinion/readers-react/mc-opi-let-jayson-vice-president-moderator-20210219-hqzqmfilu5bcdd5qa5sob4bjuu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Morning Call PA
+      domain: mcall.com
+    quality: 105
+    images:
+      - url: "https://www.mcall.com/resizer/lpsnfBJUJUtTvbOYrIUC88Bam8w=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/O3PGN7WAJBQNHWEBIAZALJ3FXI.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "After voting to acquit, McConnell condemns Donald Trump and calls him ‘practically and morally responsible’ for riot"
     excerpt: "After voting to acquit, McConnell condemns Donald Trump and calls him ‘practically and morally responsible’ for riot"

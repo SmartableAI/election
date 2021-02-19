@@ -175,6 +175,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Watch live: Biden speaks at Munich Security Conference"
+    excerpt: "President Biden is set to deliver remarks to the Munich Security Conference Friday morning.The president will address the importance of transatlantic alliances virtually from the East Room of the White House."
+    publishedDateTime: 2021-02-19T14:36:00Z
+    webUrl: "https://thehill.com/video/administration/539549-watch-live-biden-speaks-at-munich-security-conference"
+    ampWebUrl: "https://thehill.com/video/administration/539549-watch-live-biden-speaks-at-munich-security-conference?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/administration/539549-watch-live-biden-speaks-at-munich-security-conference?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/gettyimages-1231087245.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Biden signs order to reopen Obamacare markets for special Covid-19 coverage"
     excerpt: "President expected to sign executive order for special sign-up opportunity amid the coronavirus pandemic"
     publishedDateTime: 2021-01-28T20:13:00Z

@@ -635,6 +635,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Readers React: Trump misrepresented Pence’s role in election process"
+    excerpt: "Since in past presidential elections all those who had lost conceded well before the state governors certified the results and both houses of Congress accepted them, I was a bit confused when Trump insisted that Mike Pence could help change the outcome of the election."
+    publishedDateTime: 2021-02-19T13:32:00Z
+    webUrl: "https://www.mcall.com/opinion/readers-react/mc-opi-let-jayson-vice-president-moderator-20210219-hqzqmfilu5bcdd5qa5sob4bjuu-story.html"
+    ampWebUrl: "https://www.mcall.com/opinion/readers-react/mc-opi-let-jayson-vice-president-moderator-20210219-hqzqmfilu5bcdd5qa5sob4bjuu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mcall-com.cdn.ampproject.org/c/s/www.mcall.com/opinion/readers-react/mc-opi-let-jayson-vice-president-moderator-20210219-hqzqmfilu5bcdd5qa5sob4bjuu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Morning Call PA
+      domain: mcall.com
+    quality: 105
+    images:
+      - url: "https://www.mcall.com/resizer/lpsnfBJUJUtTvbOYrIUC88Bam8w=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/O3PGN7WAJBQNHWEBIAZALJ3FXI.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "After voting to acquit, McConnell condemns Donald Trump and calls him ‘practically and morally responsible’ for riot"
     excerpt: "After voting to acquit, McConnell condemns Donald Trump and calls him ‘practically and morally responsible’ for riot"
     publishedDateTime: 2021-02-14T02:21:00Z

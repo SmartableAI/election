@@ -2,6 +2,166 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-19-biden-to-acknowledge-democracy-under-stress-in-us-as-he-tries-to-restore-place-on-global-stage-official.md",
+      "title": "Biden to 'acknowledge' democracy 'under stress' in US, as he tries to restore place on global stage: Official",
+      "excerpt": "President Joe Biden will aim to restore the United States' place as a world leader, the official said, following four years of President Donald Trump in office.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/biden-acknowledge-democracy-stress-us-restore-place-global/story?id=75982189",
+      "originalUrl": "https://abcnews.go.com/Politics/biden-acknowledge-democracy-stress-us-restore-place-global/story?id=75982189",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/joe-biden-anthony-blinken-ap-jc-210218_1613689623584_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 559,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/biden-acknowledge-democracy-stress-us-restore-place-global/story?id=75982189",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-acknowledge-democracy-stress-us-restore-place-global/story?id=75982189",
+      "publishedDateTime": "2021-02-19T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-with-trump-out-of-office-us-rejoins-paris-climate-accord.md",
+      "title": "With Trump out of office, U.S. rejoins Paris climate accord",
+      "excerpt": "The United States formally rejoins the Paris Agreement today, after former President Trump withdrew from the treaty. President Biden has called climate change the \"number one issue facing humanity,\" CBS News climate and energy reporter Cara Korte joins \"CBSN AM\" to talk about the significance of the world's second-biggest carbon emitter rejoining the global effort to address the climate crisis.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/video/us-rejoins-paris-climate-accord/",
+      "originalUrl": "https://www.cbsnews.com/video/us-rejoins-paris-climate-accord/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/19/939fdc15-b76d-48f5-93ee-d443aa1c7d3d/thumbnail/1200x630/86d4c708335368c59f9902348a1b01f6/cbsn-fusion-with-donald-trump-out-of-office-us-rejoins-paris-climate-accord-thumbnail-649487-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-19T06:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-as-trumps-latest-intra-party-feud-rages-graham-heads-to-mar-a-lago-on-a-peace-mission.md",
+      "title": "As Trump's latest intra-party feud rages, Graham heads to Mar-a-Lago on a peace mission",
+      "excerpt": "Sen. Lindsey Graham is heading to Mar-a-Lago this weekend to meet with Donald Trump in hopes of bridging a growing rift in the top echelon of the Republican Party, CNN has learned.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9N17SFn70hs/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9N17SFn70hs/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210212211855-lindsey-graham-0107-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/19/politics/lindsey-graham-mar-a-lago-trump-gop-feud/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/19/politics/lindsey-graham-mar-a-lago-trump-gop-feud/index.html",
+      "publishedDateTime": "2021-02-19T05:20:28-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-19-north-carolina-emerges-as-battleground-for-post-trump-gop.md",
       "title": "North Carolina emerges as battleground for post-Trump GOP",
       "excerpt": "Former North Carolina Gov. Pat McCrory dissected the state of the GOP on his radio show Thursday for over an hour without mentioning the name of its standard-bearer, former President Donald Trump.\n    \n",
@@ -222,8 +382,8 @@
       "title": "Canada says alleged Trump interference in extradition case of Huawei's Meng 'moot'",
       "excerpt": "Canada's attorney general says accusations that former U.S. President Donald Trump's interfered in Huawei chief financial officer Meng Wanzhou's extradition trial is irrelevant because he is no longer in office.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-huawei-tech-canada-idINKBN2AJ09S",
-      "originalUrl": "https://www.reuters.com/article/us-usa-huawei-tech-canada-idINKBN2AJ09S",
+      "webUrl": "https://www.reuters.com/article/us-usa-huawei-tech-canada-idCAKBN2AJ09S",
+      "originalUrl": "https://www.reuters.com/article/us-usa-huawei-tech-canada-idCAKBN2AJ09S",
       "featuredContent": null,
       "highlight": null,
       "heat": 119,
@@ -240,8 +400,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN2AJ09S",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2AJ09S",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idCAKBN2AJ09S",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN2AJ09S",
       "publishedDateTime": "2021-02-19T00:47:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -1192,171 +1352,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-beto-orourke-says-us-could-become-like-nazi-germany-in-10-years-despite-bidens-win.md",
-      "title": "Beto O'Rourke says U.S. could become like Nazi Germany in 10 years, despite Biden's win",
-      "excerpt": "Democratic politician Beto O'Rourke fretted Thursday on MSNBC that the United States could become Nazi Germany within 10 years, in spite of full Democratic control of the White House and Congress.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7XmFAeiQFiA/beto-orourke-us-nazi-germany-10-years-bidens-win",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7XmFAeiQFiA/beto-orourke-us-nazi-germany-10-years-bidens-win",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6868c53f-020a-448d-b028-4cfb1cec889b/15e23bff-0ea4-4ec4-82e8-1b6805ddc164/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/beto-orourke-us-nazi-germany-10-years-bidens-win.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/beto-orourke-us-nazi-germany-10-years-bidens-win.amp",
-      "publishedDateTime": "2021-02-18T08:36:52-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-mike-pence-on-rush-limbaughs-impact-america-lost-a-giant-today.md",
-      "title": "Mike Pence on Rush Limbaugh's impact: 'America lost a giant today'",
-      "excerpt": "Well, we're mournful because we lost a giant today, a great and unparalleled radio icon, of course, Rush Limbaugh. But we're also grateful for having heard his voice and wisdom for as long as we did.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/transcript/mike-pence-on-rush-limbaughs-impact-america-lost-a-giant-today",
-      "originalUrl": "https://www.foxnews.com/transcript/mike-pence-on-rush-limbaughs-impact-america-lost-a-giant-today",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7a29c2a4-7100-4203-8ca1-de0202648473/ea288b70-6978-4fe5-a888-523c7aab4ed9/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/transcript/mike-pence-on-rush-limbaughs-impact-america-lost-a-giant-today.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/mike-pence-on-rush-limbaughs-impact-america-lost-a-giant-today.amp",
-      "publishedDateTime": "2021-02-18T06:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-donald-trump-versus-mitch-mcconnell-tension-could-make-2022-election-messy-for-republicans.md",
-      "title": "Donald Trump versus Mitch McConnell: Tension could make 2022 election messy for Republicans",
-      "excerpt": "The divide between the former allies presents an uncomfortable possibility for Republicans and a delightful one for Democrats.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/02/18/trump-mcconnell-tension-could-make-2022-election-messy-republicans/6797680002/?scrolla=5eb6d68b7fedc32c19ef33b4",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/02/18/trump-mcconnell-tension-could-make-2022-election-messy-republicans/6797680002/?scrolla=5eb6d68b7fedc32c19ef33b4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1070,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/01/06/USAT/34db0524-c125-4e4e-aeac-1070347db23a-AFP_AFP_1N660V.JPG?auto=webp&crop=3020,1699,x0,y151&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6797680002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6797680002",
-      "publishedDateTime": "2021-02-18T06:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

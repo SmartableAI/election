@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-19-with-trump-out-of-office-us-rejoins-paris-climate-accord.md",
+      "title": "With Trump out of office, U.S. rejoins Paris climate accord",
+      "excerpt": "The United States formally rejoins the Paris Agreement today, after former President Trump withdrew from the treaty. President Biden has called climate change the \"number one issue facing humanity,\" CBS News climate and energy reporter Cara Korte joins \"CBSN AM\" to talk about the significance of the world's second-biggest carbon emitter rejoining the global effort to address the climate crisis.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/video/us-rejoins-paris-climate-accord/",
+      "originalUrl": "https://www.cbsnews.com/video/us-rejoins-paris-climate-accord/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/19/939fdc15-b76d-48f5-93ee-d443aa1c7d3d/thumbnail/1200x630/86d4c708335368c59f9902348a1b01f6/cbsn-fusion-with-donald-trump-out-of-office-us-rejoins-paris-climate-accord-thumbnail-649487-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-19T06:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-19-qanon-hardliners-are-doubling-down-on-theory-donald-trump-will-be-reinstated-on-march-4.md",
       "title": "QAnon Hardliners Are Doubling Down on Theory Donald Trump Will Be Reinstated on March 4",
       "excerpt": "There are fears of potential violence as QAnon supporters say Donald Trump will somehow be inaugurated on March 4.",
@@ -58,8 +110,8 @@
       "title": "Canada says alleged Trump interference in extradition case of Huawei's Meng 'moot'",
       "excerpt": "Canada's attorney general says accusations that former U.S. President Donald Trump's interfered in Huawei chief financial officer Meng Wanzhou's extradition trial is irrelevant because he is no longer in office.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-huawei-tech-canada-idINKBN2AJ09S",
-      "originalUrl": "https://www.reuters.com/article/us-usa-huawei-tech-canada-idINKBN2AJ09S",
+      "webUrl": "https://www.reuters.com/article/us-usa-huawei-tech-canada-idCAKBN2AJ09S",
+      "originalUrl": "https://www.reuters.com/article/us-usa-huawei-tech-canada-idCAKBN2AJ09S",
       "featuredContent": null,
       "highlight": null,
       "heat": 119,
@@ -76,8 +128,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN2AJ09S",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2AJ09S",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idCAKBN2AJ09S",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN2AJ09S",
       "publishedDateTime": "2021-02-19T00:47:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -327,7 +379,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/2021/02/18/trump-mcconnell-tension-could-make-2022-election-messy-republicans/6797680002/?scrolla=5eb6d68b7fedc32c19ef33b4",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1070,
+      "heat": 1090,
       "tags": null,
       "images": [
         {
@@ -1527,58 +1579,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-14-rep-jaime-herrera-beutler-would-have-testified-under-oath-if-subpoenaed-at-trump-impeachment-trial-spokesman-says.md",
-      "title": "Rep. Jaime Herrera Beutler would have 'testified under oath' if subpoenaed at Trump impeachment trial, spokesman says",
-      "excerpt": "\"She’s already offered all the information she has, and she would have testified under oath,\" Rep. Jaime Herrera Beutler's office said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/02/13/herrera-beutler-would-have-testified-trump-trial-spokesman-says/4477859001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/02/13/herrera-beutler-would-have-testified-trump-trial-spokesman-says/4477859001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/02/13/USAT/dba8a0f4-281d-44ed-bc91-f2660c2a5b4b-AP_Trump_Impeachment_Herrera_Beutler.jpg?auto=webp&crop=5930,3336,x0,y301&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/4477859001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4477859001",
-      "publishedDateTime": "2021-02-14T00:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

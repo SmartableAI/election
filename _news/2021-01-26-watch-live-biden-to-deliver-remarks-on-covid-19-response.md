@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/covid-19-biden-speech-watch-live-st
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/covid-19-biden-speech-watch-live-stream-today-2021-01-26/"
 type: article
 quality: 125
-heat: 685
+heat: 705
 published: true
 
 provider:
@@ -158,6 +158,22 @@ related:
       - url: "https://thehill.com/sites/default/files/harriskamala_bidenjoe_02112021getty.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Watch live: Biden speaks at Munich Security Conference"
+    excerpt: "President Biden is set to deliver remarks to the Munich Security Conference Friday morning.The president will address the importance of transatlantic alliances virtually from the East Room of the White House."
+    publishedDateTime: 2021-02-19T14:36:00Z
+    webUrl: "https://thehill.com/video/administration/539549-watch-live-biden-speaks-at-munich-security-conference"
+    ampWebUrl: "https://thehill.com/video/administration/539549-watch-live-biden-speaks-at-munich-security-conference?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/administration/539549-watch-live-biden-speaks-at-munich-security-conference?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/gettyimages-1231087245.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Biden seeks to speed delivery of coronavirus stimulus checks and food aid"
     excerpt: "U.S. President Joe Biden on Friday will sign orders to speed the issuance of pandemic stimulus checks to needy families and increase food aid for children who normally rely on school meals for nutrition."

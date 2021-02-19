@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden team finds promises hard to make -- let alone keep"
+    excerpt: "Speaking on television last week, Dr. Anthony Fauci predicted April would be \"open season\" for receiving the coronavirus vaccine, welcome news for a nation entering its second year under pandemic-forced lockdowns and ever-lingering fear of disease.\n    \n"
+    publishedDateTime: 2021-02-19T14:47:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gQ1JT-IF73M/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/19/politics/biden-promises-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/19/politics/biden-promises-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210216213824-10-biden-town-hall-0216-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration extends fair housing protections to LGBTQ Americans"
     excerpt: "Protections under the Fair Housing Act will now cover LGBTQ Americans, the Biden administration announced Thursday, a move that allows the federal government to investigate complaints of housing discrimination based on sexual orientation or gender identity.\n    \n"
     publishedDateTime: 2021-02-11T17:19:29Z

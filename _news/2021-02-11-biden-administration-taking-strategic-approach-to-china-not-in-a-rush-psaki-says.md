@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden administration created new border crisis 'out of whole cloth' : Chad Wolf"
+    excerpt: "The Biden administration is created a \"border crisis\" in Texas with their immigration policies, former Acting DHS Secretary Chad Wolf said on Friday."
+    publishedDateTime: 2021-02-19T14:34:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-mkMo9xDY20/biden-border-crisis-chad-wolf"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-border-crisis-chad-wolf.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-crisis-chad-wolf.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Joe Biden administration criticized over US school closures: LIVE UPDATES"
     excerpt: "Bennett asserted that the U.S. could have a \"lost generation\" of children who will suffer academically, socially, and morally if a plan to return them to the classroom is not created soon."
     publishedDateTime: 2021-02-16T05:06:00Z

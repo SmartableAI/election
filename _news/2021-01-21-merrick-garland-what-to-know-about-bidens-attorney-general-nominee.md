@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/merrick-garland-what-to-know-biden-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/merrick-garland-what-to-know-biden-attorney-general.amp"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3e6cc050-5e3c-4af3-8996-40045a053ee5/ebbce464-9ae9-4185-a4e5-9485df9d3e95/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Cuomo scandal will be hot topic as hearings for Biden AG nominee Merrick Garland kick off next week"
+    excerpt: "Senate Republicans plan to ask President Biden's pick for attorney general, Judge Merrick Garland, at his confirmation hearing about whether he'll investigate the alleged cover-up of nursing home coronavirus deaths by New York Gov. Andrew Cuomo. The hearing is scheduled to begin Monday and run into Tuesday. "
+    publishedDateTime: 2021-02-19T13:56:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tWd8JDEz2LE/cuomo-scandal-hearings-biden-ag-nominee-merrick-garland"
+    ampWebUrl: "https://www.foxnews.com/politics/cuomo-scandal-hearings-biden-ag-nominee-merrick-garland.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-scandal-hearings-biden-ag-nominee-merrick-garland.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "m35xOdaXtXJmvh/Xq/rBH3qOlgjlbn+A4bTl3uk2a1tILuK3uTCNcF7y8C93+wZisiBeT8rxnv2eNejudRFkSg5wZwAsrecNZuLlKaSP5gXcBEyxIWNMRldnJZ5TcOhln2FrWwLBMcT5AGOBRhaCj1d/V6lLj0D3CMxPU9qTCoU7ZHlS+JLbvHLUI7/LWdGtdafko8Z2+uxFjy/MOa9Hh/AuZkid+N1fgXnScGBG+2iyzguoENWvm2G7jAMuKNh4+o7+zRKc2bzL/hePw5xyneICpLyJ5KTFZN3gJb9rR86jvwxGufEE8Vh53IcCpgIH5kJijOiOdj3XeFYEOOCeu9VNOAXCr5YM+FeTBlQvicA=;xst0x/qZ5rH7/PMf+2uhKA=="

@@ -95,6 +95,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Cuomo scandal will be hot topic as hearings for Biden AG nominee Merrick Garland kick off next week"
+    excerpt: "Senate Republicans plan to ask President Biden's pick for attorney general, Judge Merrick Garland, at his confirmation hearing about whether he'll investigate the alleged cover-up of nursing home coronavirus deaths by New York Gov. Andrew Cuomo. The hearing is scheduled to begin Monday and run into Tuesday. "
+    publishedDateTime: 2021-02-19T13:56:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tWd8JDEz2LE/cuomo-scandal-hearings-biden-ag-nominee-merrick-garland"
+    ampWebUrl: "https://www.foxnews.com/politics/cuomo-scandal-hearings-biden-ag-nominee-merrick-garland.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-scandal-hearings-biden-ag-nominee-merrick-garland.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "mHenDPlLvv+KEgVdhJ35vXpFB58X172o1r4Smp6Rc8K8QK4OxmX1UoGBRVT08M9OV7S2rzKawsDD3Wzoi34TyNl9R6W7NkC0zRIQS0bcZnO+9vkLHYk72CUJ1xWoGMHzm9zf/aiL9h/UtKMERGZRXJGgVyai3O0XRINMV2SDwYShzuH6t9t1+gVlUOsoI//3RTtkwaj1u0qPYhDJDl72+fa4htzFhrmAT50cIDzXUdy5tsxEGjaM68662ySfjB0V6d+t6DIrwWfnpmaAcWiyqr65ico9sfDvmXKM1BhQEhDIKThZtEADSsVU8SQfcIaHYzPxjbm1vox5308Jf2yWNSFW7UPWEBx9TZcGj0R7v8Y=;9SzDZyzdG2++MekLNrvEZg=="
 ---
