@@ -461,6 +461,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The Relationship Between McConnell and Trump Was Good for Both — Until It Wasn’t"
+    excerpt: "The unlikely alliance delivered results they both wanted but fell apart after the election once their political interests diverged."
+    publishedDateTime: 2021-02-19T23:06:00Z
+    webUrl: "https://www.nytimes.com/2021/02/19/us/trump-mcconnell-republicans.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/19/us/trump-mcconnell-republicans.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/19/us/trump-mcconnell-republicans.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 130
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/19/us/politics/19dc-hulse/19dc-hulse-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trump conviction faces uphill climb in Senate. It could all come down to McConnell."
     excerpt: "Senators are not expected to consider the House impeachment resolution until Tuesday, the day before President-elect Joe Biden takes office."
     publishedDateTime: 2021-01-14T08:22:00Z

@@ -1698,6 +1698,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
+  - title: "Two Dozen Asylum Seekers Enter U.S. as Biden Unwinds Trump Program"
+    excerpt: "The United States will on Friday begin rolling back one of former President Donald Trump's strictest immigration policies, allowing in the first of thousands of asylum seekers who have been forced to wait in Mexico for their cases to be heard."
+    publishedDateTime: 2021-02-19T23:07:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-02-19/us-begins-admitting-asylum-seekers-blocked-by-trump-with-thousands-more-waiting"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-02-19/us-begins-admitting-asylum-seekers-blocked-by-trump-with-thousands-more-waiting?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-02-19/us-begins-admitting-asylum-seekers-blocked-by-trump-with-thousands-more-waiting?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
   - title: "Trump Makes Last-ditch Bid To Block Biden Win As Congress Goes Democratic"
     excerpt: "Donald Trump on Wednesday launched a furious last-minute bid on the streets of Washington to reverse his election defeat, as Joe Biden was set to be certified president with an added triumph of his Democratic Party on track to win full control of Congress."
     publishedDateTime: 2021-01-06T18:26:00Z

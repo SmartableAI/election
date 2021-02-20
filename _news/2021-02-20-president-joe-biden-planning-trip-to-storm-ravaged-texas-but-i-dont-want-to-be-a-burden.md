@@ -33,8 +33,8 @@ images:
 related:
   - title: "Texas storm: Biden to declare major disaster to secure federal aid – live"
     excerpt: "Biden says declaration could be signed this afternoon and would open up aid for immediate and long-term recovery efforts – follow all the latest news"
-    publishedDateTime: 2021-02-19T22:08:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/19/texas-storm-latest-news-today-power-outages-ted-cruz-cancun-trip-backlash?page=with:block-60301e698f08ad21ea6007ec"
+    publishedDateTime: 2021-02-20T00:17:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/19/texas-storm-latest-news-today-power-outages-ted-cruz-cancun-trip-backlash"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/19/texas-storm-latest-news-today-power-outages-ted-cruz-cancun-trip-backlash"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/19/texas-storm-latest-news-today-power-outages-ted-cruz-cancun-trip-backlash"
     type: article
@@ -110,6 +110,6 @@ related:
         height: 600
         isCached: true
 
-secured: "fiK9junru383XtXHfPli/baJioi59T3vaC9F41xBZ70WtPyMw7SA+wa0tXLIMuKoxv+zjtofHLnGeQ3jGMAAOOsecD2H+Tiyw3IYpUFjTA2S7sRh4svLGRtVOW3dI9+oO9Tv7J72Payf04inhbu9eFlYVnegTn2vDRax+xsC/YCxjpl+BlZ+k16fZpAspbpWj0nOBJheVHhxnsvdTuwNiZPcgAQuN7UhrUyC3HHRGJAT6ZX8wQLCn3bEksoYfaA7xWMwDdPfuFlcWjnuQQh5A+WM6bI1gazbpAplzlmkLCpaAXTMAzW5Ti/X8YBy5DZTOrZcAuPWNYZ7mkqOTZuzCr8icyOf+D12FSenrlSyiOY=;0sQq6QUTChXt0pateN1qNg=="
+secured: "7ygjl5xeY81+JMfo2WoGnlz6HOJ1Mv/l9B0KAhIUrImXKTM4sRYjw4GLWZ3GrG0hQ52XuUQrJtQ7Ma7GsvhKN2Wfv2O6YoFkt0JH46sqzYnZty3Oz5phnujfRsNngxE/KJeBeLnI0JloVrjOHCAgHdWix3X3O2qte22WHm2QUUgTyJpostIr2G40pYPZc5RcebqgW9adJwsH4760SODvY+1aNnuuH3MH2RXKK6N01SZenNMJcutrjbzPi8BSky3hi2Qpq+oRGvrT9sWMJgBNwXoHtPkQvCAlpBVZCQ1EKHCttbVV1je+4mrBC93crVU7lXw218Vchs6bsXTfpPX3/z/Fg/ms8xZEr7wBA7ZvRceA/UaEpHYn2uNHyWEOrq5N1SOLP8u7jQkVYjz/qmlT480XbeAqe1Chfcyp69EeIgYx0Pg3Mabd8gHskOoWlcbv5+48rctihVge/D7xqPS1DT3R8WmgWAzCx2KS7AgPQgxyvlA3bEvoqvbkSZnYl2Kcaf7gaF2eNb2EuH+lWijyXw==;6BVHuqCeTUmzh6n/uk42ug=="
 ---
 

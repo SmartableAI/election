@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-pauses-trump-pol
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-pauses-trump-policies-blinken-takes-diplomatic-helm-75531721"
 type: article
 quality: 150
-heat: 2430
+heat: 2450
 published: true
 
 provider:
@@ -1684,6 +1684,17 @@ related:
     webUrl: "https://www.usnews.com/news/us/articles/2021-02-02/biden-to-issue-executive-orders-on-asylum-legal-immigration-separated-families"
     ampWebUrl: "https://www.usnews.com/news/us/articles/2021-02-02/biden-to-issue-executive-orders-on-asylum-legal-immigration-separated-families?context=amp"
     cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2021-02-02/biden-to-issue-executive-orders-on-asylum-legal-immigration-separated-families?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
+  - title: "Two Dozen Asylum Seekers Enter U.S. as Biden Unwinds Trump Program"
+    excerpt: "The United States will on Friday begin rolling back one of former President Donald Trump's strictest immigration policies, allowing in the first of thousands of asylum seekers who have been forced to wait in Mexico for their cases to be heard."
+    publishedDateTime: 2021-02-19T23:07:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-02-19/us-begins-admitting-asylum-seekers-blocked-by-trump-with-thousands-more-waiting"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-02-19/us-begins-admitting-asylum-seekers-blocked-by-trump-with-thousands-more-waiting?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-02-19/us-begins-admitting-asylum-seekers-blocked-by-trump-with-thousands-more-waiting?context=amp"
     type: article
     provider:
       name: U.S. News & World Report

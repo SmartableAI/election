@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/17/politics/joe-biden-benjamin-netan
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/17/politics/joe-biden-benjamin-netanyahu-israel-us-call/index.html"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -94,6 +94,20 @@ related:
       - url: "https://media2.s-nbcnews.com/i/newscms/2021_06/3449175/210210-ONE-TIME-USE-neera-tanden-ew-334p_df6952b110feaac5c80fbf3994c9ebfc.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Biden's foreign foray masks an ocean of doubt"
+    excerpt: "In successive virtual addresses today to the G-7 summit and, Biden announced that “America was back” — presumably to a collective sigh of relief from the foreign dignitaries in attendance that they weren’t being hectored by Donald Trump."
+    publishedDateTime: 2021-02-20T00:00:00Z
+    webUrl: "https://www.politico.com/newsletters/politico-nightly/2021/02/19/bidens-foreign-foray-masks-an-ocean-of-doubt-491818"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
 
 secured: "xqBKzKTofQriAtRb5ZS8pIca5syuc1MRI3uG96LrQ7A3fmiIqMnC1/jHCyyfxN8gdEEQYPO0uM068M54U0b1FQ2xiBsmdJPIVTWCExGbM+3lzzIJGUCwYAXC4QUyFXnpnQR5BZE8WTSr2vaUjad/cjObM8leP80m4H7SyWDh9TP6ZyWsM3hgJWTaCRtdP6uu4yjgZMur5NjtLq4giFYXxyopxmyO3uaY0LqglcTLiwzxYgNIdTda10MLSTwY+rpLtqhyf3cjxIiRzQIXTgJ2E71Uu9SWEktTTD6x0qmKvmc2VNc/rQgVsmEO3B10TrcRwROrOE+epAP3AvbDLaqYIU2OLO98ethescGI3dSTURg=;IPTiEIWve7iK29jO0g7cOQ=="

@@ -154,6 +154,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "At vaccine plant, Biden hopes for year end normalcy"
+    excerpt: "President Joe Biden toured a state-of-the-art coronavirus vaccine plant Friday and said while he can't predict when the crisis will end, he's optimistic the nation will approach 'normalcy' by the end of the year if Americans get their vaccines."
+    publishedDateTime: 2021-02-20T00:00:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/02/19/vaccine-plant-biden-hopes-year-end-normalcy/4516298001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/b6d1f09f-56ee-4cd0-aeef-f93d71dc0904_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "A/XyExCOLHAH8AHUiJIYefM14p4wd6rLFNbzARO/O1d4fWGZk0i/YLPbkdg3L1q9MDSEfN/xuASXdPC8KVyF91HhzUV5wR/8EBGl0zjKeUKeVfHg2UhwL3+pwOJmVNwLruJ1t3VB2JTymx8mA2PFzYl943/YiVCZvFcaTkyKFCTX/ePJOVzcjywRXzbubO7kW5sNSwtL4rXQDKSv+sUZDWC/XfRMY040G48YGIi11f+Mjd3KMlZHMb9l3xNun8b6nSEshBsBJsrYDiyvrV/jBtGeNSD3Ag4U8EzDzsNH+5lq7qDJP79RRKqpcAVSD6taOKeLOMvrfHxG2V4x2jkha03CGRIUUuo1qFp/6b6TEy0=;zgsh2iQK/zdQfOIFOfzvKA=="
 ---

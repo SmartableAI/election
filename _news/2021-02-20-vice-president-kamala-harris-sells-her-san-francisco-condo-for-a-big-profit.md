@@ -271,7 +271,18 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Black, female and high-profile, Kamala Harris is a top target in online fever swamps"
+    excerpt: "Research shows that Kamala Harris may be the most targeted American politician on the internet, one who checks every box for the haters of the fever swamps: She's a woman, she's a person of color and she holds power."
+    publishedDateTime: 2021-02-20T00:50:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/nation-politics/black-female-and-high-profile-kamala-harris-is-a-top-target-in-online-fever-swamps/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/nation-politics/black-female-and-high-profile-kamala-harris-is-a-top-target-in-online-fever-swamps/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation-politics/black-female-and-high-profile-kamala-harris-is-a-top-target-in-online-fever-swamps/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 48
 
-secured: "WjQlASRpT/uKnOT9a5FPbXXORCUAb4hs+FcM0vsWe+5jxVj7ppvKi7QGNqiJZzUtgQzGbduIJdmyBHZ8OAgDNk0hClDDhb7wBHTeql3B8dGbsFFNa1FlKD9Y138LsuAyyDpZ4PbJ5S+upD/dO592neweA6XzwjySzJD/yJziK06ECzz+v9KL7r95xuQK/48EcMMw12VT56wkwFhU6CYVLCe+6F7zHUnDTP6UywDrENpAMQXq680IveJLTNwtMggQvaqDIwK8i5/9aUkPYEQhuF5CEjLWgpiDwXN9LHbfObMnTWz6ecYCHeKcS8Vcr4n1EGWjmi1QHbwGcbd5a7O9nyV6XSdPHADOc0/eVLAHJJw=;KGpavumEXM5lExDjARk2jg=="
+secured: "7TxxWEF0qBENkta2OuBKYuOHNTIO7rEpcoxMeaA13+qRpNhCk01RJSDGdkganHb2N0Fs5oJ83mhfhNPBT/1ttsLPlMiAmFO+TpNCWe9H1vYoGgYDTrLNYNO1jBMDA/0R/TQsSx4jaRnUyFYd19xdhqwYv1NPF4AJeyXOlfKqqdumRLjujZ+R/Kojn9iVWp2rmrhzoor06t2BIoI3itL6rCPkP/z/KWXPzbajfUs4r/oz3eugckPLUbhTWuiOFC/n4d9S0My6UPIigkj7acTx3iLgIxkoqJpiotukFQ5MZO6v+dQgxBbnt7JJgEVq6kWC4fkSE2RilLcKnfwFTcxZHyOwIAyQ7Yd2Ug0ooINjLrkI1RNRqOF5ULDBZ+PLFD5t9MRkJHXG5BMoCM0vhNEZA+nHTl/1uJLxuSAA5ltdGS+ltuFbqEM2HIUeqwZr8kb36LhYXpUdkH1fZW2puNfEfGMyjPzBhVV5v8wYwBZkJ0G605OoIEp12TkUI2T+131MPd4HQcOzrVDn+IHkNirdpQ==;JM3kz0sKD/0Kevpvu6fecQ=="
 ---
 

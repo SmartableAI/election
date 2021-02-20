@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-planning-on-visiting-texas-we
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-planning-on-visiting-texas-weather-crisis.amp"
 type: article
 quality: 175
-heat: 255
+heat: 295
 published: true
 
 provider:
@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "Biden’s promise to open half the schools in 100 days: Here is how it's going"
+    excerpt: "Progress has been made in the president’s first month in office, but a little less than 60 percent are still not going to school full-time."
+    publishedDateTime: 2021-02-19T23:09:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vrW_jmbM9uk/bidens-100-days-promise-how-many-schools-reopened"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-100-days-promise-how-many-schools-reopened.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-100-days-promise-how-many-schools-reopened.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/Biden3.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Thinking about 2024? Biden’s first trips as president are to two battleground states"
+    excerpt: "President Biden’s hitting the road again – getting out of Washington for the second time this week as he makes the case for his top priority in the early days of his administration – a $1.9 trillion COVID relief package."
+    publishedDateTime: 2021-02-19T23:15:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FPQiQhnae-M/already-thinking-about-2024-bidens-first-two-trips-as-president-are-to-two-crucial-battleground-states"
+    ampWebUrl: "https://www.foxnews.com/politics/already-thinking-about-2024-bidens-first-two-trips-as-president-are-to-two-crucial-battleground-states.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/already-thinking-about-2024-bidens-first-two-trips-as-president-are-to-two-crucial-battleground-states.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Border mayor begs Biden to stop releasing illegal immigrants into his city amid winter storm"
     excerpt: "A Texas border mayor is begging President Biden to help his town struggling under extreme weather conditions, the coronavirus pandemic, and an influx of undocumented migrants crossing the border."
     publishedDateTime: 2021-02-19T03:38:52Z

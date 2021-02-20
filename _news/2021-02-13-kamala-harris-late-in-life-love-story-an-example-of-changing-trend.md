@@ -9,7 +9,7 @@ ampWebUrl: "https://goodmorningamerica.com/amp/living/story/kamala-harris-late-l
 cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/living/story/kamala-harris-late-life-love-story-changing-trend-75819461"
 type: article
 quality: 125
-heat: 445
+heat: 465
 published: true
 
 provider:
@@ -275,6 +275,17 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Black, female and high-profile, Kamala Harris is a top target in online fever swamps"
+    excerpt: "Research shows that Kamala Harris may be the most targeted American politician on the internet, one who checks every box for the haters of the fever swamps: She's a woman, she's a person of color and she holds power."
+    publishedDateTime: 2021-02-20T00:50:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/nation-politics/black-female-and-high-profile-kamala-harris-is-a-top-target-in-online-fever-swamps/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/nation-politics/black-female-and-high-profile-kamala-harris-is-a-top-target-in-online-fever-swamps/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation-politics/black-female-and-high-profile-kamala-harris-is-a-top-target-in-online-fever-swamps/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 48
 
 secured: "597Sfuj++5T2GBeaqSIJ1eh1xRJ6ZQORIBGjT3FCNOrCeGCJf5my0Nd6L4lxVBJkaQMjWOvSZ/XTeiP7KfEOpkLqgqael1rM3vWhJ4VfWlM7pZRi/0L3KepMN8n+sVKR/vOdyUHY6m79nDz3j6MYk3G6BduxUrYOEkmaoV7bPWfl3Uy8lWFEXL4tCzLsXXcpLnfLGxu00P0eFc1rfLurHwHHIw9F0xFLxgasGMU3oQiErN053poJWTgAlWb+z+Zy/bt5mp4Z6Ixi7z44ckvR2deSllDNMkX5q4aHU3o9qu4/IR8gpF1UJ5IA1UQS+zdCdrSkcZYkfbSjrgW734jXH4o8QzUupOOz8QvGv6Mm7+n5KBA281gKfi2VvfpDjSDuPuw7R29iOFp8EjyQbYhOWIAs6K1RA9vL1buP5SKxV9wdC/laVYyuUJEm6nO/QFciDmT1w3pkN5cZYNgB/cYI/PpdcyON9AtyM/kX6GBSxOiHu1FrIj01EqUrjTypTl6yQzSC6DOmCO0RcfzCq/OFIA==;K+jbNlfwleu/DsX/9n1zcA=="
 ---

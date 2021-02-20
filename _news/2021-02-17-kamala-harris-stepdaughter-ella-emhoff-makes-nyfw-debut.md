@@ -275,6 +275,17 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Black, female and high-profile, Kamala Harris is a top target in online fever swamps"
+    excerpt: "Research shows that Kamala Harris may be the most targeted American politician on the internet, one who checks every box for the haters of the fever swamps: She's a woman, she's a person of color and she holds power."
+    publishedDateTime: 2021-02-20T00:50:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/nation-politics/black-female-and-high-profile-kamala-harris-is-a-top-target-in-online-fever-swamps/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/nation-politics/black-female-and-high-profile-kamala-harris-is-a-top-target-in-online-fever-swamps/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation-politics/black-female-and-high-profile-kamala-harris-is-a-top-target-in-online-fever-swamps/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 48
 
 secured: "OW+xBErQhyj2SovlN1oqFLSfGdAHtOR+VBl7Zogcj+x8lonyam9Olqpgs89WDPy0r/zg32DQfGxXW7D3+RrqsWmi1m82Dqx8f0CsGNI2X75HIkMgAIALnxdwfIYaSLy6PzBEZ6I2KdzmivCpKIcGTEu37NkS5mcPFPUMljQrSKGCy+EBXJzoezNWuhgP37W9Oayi6T5ucWe8lWSW6a31pjdqtf24MDzeJMvUtzVga3YL0SEisio8NF5b237Mb86ritiAYla/ntbZVypTBWtKfHLv5kCAmLMZbYTnjlXBqJg0XOchHhKZnIpKAn18kreN2ThLu9ZjoXun2dBx6lOoJ1CIBXOhvvfdix6Wok2mjdaCoec8NPNubqXZ7WJTASu31eLZA9Y81q1s1zuTm0ScCFM0w4Ew0dV4JBwa9Dkcl7piNUkhgbqJFBxiPcoYzaQRYB0+llOLeStXJoiHFbBJCUn92Kc9ycade68sAfMpZitnBL5RfksLYsqjX7CzWWOpkzDePiKB7t4+pj/xOH+I+Q==;mbehr4nKn5DciKS0iGjkXQ=="
 ---

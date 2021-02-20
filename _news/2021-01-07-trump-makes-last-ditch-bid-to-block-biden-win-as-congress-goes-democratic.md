@@ -1702,6 +1702,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
+  - title: "Two Dozen Asylum Seekers Enter U.S. as Biden Unwinds Trump Program"
+    excerpt: "The United States will on Friday begin rolling back one of former President Donald Trump's strictest immigration policies, allowing in the first of thousands of asylum seekers who have been forced to wait in Mexico for their cases to be heard."
+    publishedDateTime: 2021-02-19T23:07:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-02-19/us-begins-admitting-asylum-seekers-blocked-by-trump-with-thousands-more-waiting"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-02-19/us-begins-admitting-asylum-seekers-blocked-by-trump-with-thousands-more-waiting?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-02-19/us-begins-admitting-asylum-seekers-blocked-by-trump-with-thousands-more-waiting?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
   - title: "In Pentagon Debut, Biden Promises Break From Trump-Era Politicization of Military"
     excerpt: "President Joe Biden promised he would never politicize the U.S. military as he made his first visit to the Pentagon as commander-in-chief on Wednesday, seeking to draw a contrast with the Trump-era in a far-reaching speech that emphasized diversity in the armed forces."
     publishedDateTime: 2021-02-10T22:49:00Z

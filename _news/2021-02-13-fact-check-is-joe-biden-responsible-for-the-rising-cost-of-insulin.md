@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/fact-check-joe-biden-responsible-rising-cos
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fact-check-joe-biden-responsible-rising-cost-insulin-1569045?amp=1"
 type: article
 quality: 125
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -154,6 +154,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "At vaccine plant, Biden hopes for year end normalcy"
+    excerpt: "President Joe Biden toured a state-of-the-art coronavirus vaccine plant Friday and said while he can't predict when the crisis will end, he's optimistic the nation will approach 'normalcy' by the end of the year if Americans get their vaccines."
+    publishedDateTime: 2021-02-20T00:00:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/02/19/vaccine-plant-biden-hopes-year-end-normalcy/4516298001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/b6d1f09f-56ee-4cd0-aeef-f93d71dc0904_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "tCMFSZgX6YHB1UuAz6B1AqkcT0qy79onXGysSWs2vyNZtJfRTGYf/0yWVdNCLoMEfqM661iw8ScNIe+MkggqtthDayS6sAP4FAvtDkiAcD3igtGg9UemRT+bp+OuVcYiMqNLAZgmeg4BHVjM6dfJ3P9grGpu7KRwGywbcrLSgX73y2tlvFVPYyVzLrURGHtu2VOnMndJ8PAGGSYaAKFpq9MpDtix2C9d6YFjjdGh7zfOofknmc2kz/nHntOyt6fp850qtVA/Z9bPCq0mYpjgtmSXm+dkBdo4R63ruvOyT+8G1vF+vsCnCUYW3MGxg65njiju3tbleWG3B7fPWNC8Wp/Qd/++DAcrWUR9YDnq7Ao=;X74ndCPkCY2qrFenDHbFIA=="
 ---

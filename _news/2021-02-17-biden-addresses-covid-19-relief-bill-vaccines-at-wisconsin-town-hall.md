@@ -127,8 +127,8 @@ related:
         isCached: true
   - title: "At Biden's G7 debut, leaders look beyond COVID to trade and China"
     excerpt: "Group of Seven leaders, who control a little under half of the world's economy, on Friday sought to look beyond the COVID-19 pandemic towards rebuilding their battered economies with free trade and to countering China's \"non-market oriented\" policies."
-    publishedDateTime: 2021-02-19T22:37:00Z
-    webUrl: "https://www.reuters.com/article/us-g7-meeting/biden-to-debut-at-g7-with-vaccines-economy-and-china-in-focus-idUSKBN2AJ0F5"
+    publishedDateTime: 2021-02-19T23:27:00Z
+    webUrl: "https://www.reuters.com/article/us-g7-meeting-idUSKBN2AJ0F5"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AJ0F5"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AJ0F5"
     type: article
@@ -140,6 +140,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210219&t=2&i=1552169493&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1I11D"
         width: 756
         height: 545
+        isCached: true
+  - title: "Biden defends progress on COVID as weather delays 6M shots"
+    excerpt: "While acknowledging the weather is “slowing up the distribution,” Biden said at the Pfizer plant in Michigan that he believes “we’ll be approaching normalcy by the end of this year.” His speech melded a recitation of his administration’s accomplishments in its first month confronting the pandemic,"
+    publishedDateTime: 2021-02-19T22:26:00Z
+    webUrl: "https://www.washingtonpost.com/health/biden-defends-progress-on-covid-as-weather-delays-6m-shots/2021/02/19/2aaa6ec8-7311-11eb-8651-6d3091eac63f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/biden-defends-progress-on-covid-as-weather-delays-6m-shots/2021/02/19/2aaa6ec8-7311-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/biden-defends-progress-on-covid-as-weather-delays-6m-shots/2021/02/19/2aaa6ec8-7311-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Biden presses for $1.9 trillion COVID relief plan with governors, mayors"
     excerpt: "U.S. President Joe Biden pushed for the first major legislative achievement of his term on Friday, turning to a bipartisan group of local officials for help on his $1.9 trillion coronavirus relief plan."

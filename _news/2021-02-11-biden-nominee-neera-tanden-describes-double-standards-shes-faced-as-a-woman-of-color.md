@@ -96,6 +96,20 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Biden's foreign foray masks an ocean of doubt"
+    excerpt: "In successive virtual addresses today to the G-7 summit and, Biden announced that “America was back” — presumably to a collective sigh of relief from the foreign dignitaries in attendance that they weren’t being hectored by Donald Trump."
+    publishedDateTime: 2021-02-20T00:00:00Z
+    webUrl: "https://www.politico.com/newsletters/politico-nightly/2021/02/19/bidens-foreign-foray-masks-an-ocean-of-doubt-491818"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
 
 secured: "8W61QGlzcpWVLdkfysg6oL9YomWn1Oqp8CGvt+pyC51bx3XmOg/9uQ1pNlsNyU49G7CB/PeWGlvbvdF0LSXf8XjXhngeH0r48uzNWSKt9w9rTRPxC1AlSyNWto/rBMGeKxlKzf23xOmVgye2THGXPgRjAPgXmR+qzPDeUuaQDQ7FMl0TdhhxRRxC/cgVE4KHaZLTXHS87MKZ3guObEelCYk7Fv2PXahzI9NhE9gvFxUEcGfA5SdFhnlNbCVnZtDeO5TwLRxBmnBw/L7sUFX7QFgprtIJDcUYdZbgLrgnjC7xdzpxQ/1YwnW/5Lcr5XVYySKictP0Qwj0eT7JtoDcW9OkPBI7cueh0kDaoukFd3WDPNAIiLoKHmmJLHEAGfWAbrGhMRDUE//D3+5H/ENdyueotgTAULcsKyz/AFfmouI9NM9Tx90gEnzr+q7d3dHgBO4T46/zsgZ0snOByp6/Eqa8Uwtw/qOCNO5Qjfi145AXZkCu2Q5+PenrdMk9aOdWoQy6g9smIO2LsxGKU7cpvQ==;ZSMXxisqVnsoeKY/AbVvuA=="
 ---
