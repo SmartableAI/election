@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/16/politics/lin-wood-georgia-state-b
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/16/politics/lin-wood-georgia-state-bar-inquiry/index.html"
 type: article
 quality: 173
-heat: 233
+heat: 253
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 169
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210202195002-lin-wood-dec-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Manhattan district attorney subpoenas NYC property tax agency in Trump Organization probe "
+    excerpt: "The Manhattan District Attorney's Office has subpoenaed the New York City Tax Commission as part of a criminal investigation into former President Donald Trump's real estate company, according to a spokesperson for the New York City mayor.\n    \n"
+    publishedDateTime: 2021-02-20T20:25:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OO0SMrKKY_w/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/20/politics/new-york-trump-organization-probe/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/20/politics/new-york-trump-organization-probe/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210220132616-trump-tower-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

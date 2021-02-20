@@ -47,22 +47,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Manchin to oppose Biden OMB pick Neera Tanden over controversial Twitter posts"
-    excerpt: "West Virginia Democrat Sen. Joe Manchin said on Friday that he would oppose President Biden’s nominee to lead the Office of Management and Budget over her Twitter history."
-    publishedDateTime: 2021-02-19T22:52:51Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/I2naip0Be5E/manchin-oppose-neera-tanden"
-    ampWebUrl: "https://www.foxnews.com/politics/manchin-oppose-neera-tanden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/manchin-oppose-neera-tanden.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d5e4207d-6c8d-49c6-908c-4cc998501216/cc487d03-bd7f-493d-b774-4c8a14a98aa7/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "KcLdAtlu+h3zS9sECFPhFLM6GGR/wDNJDGk8/gO5CTvfWakTBfN4YKL5Vb5kKLQS6fpepqVOiC8YFy3fOA26B8fS+uQTeANPgEeXjJFn+Y3B3guEHS/UhX5pJeHKAjYxgT9sn2iyWD2H3trNWnmEeFuU/nBv/mvP4lWzU2XHeJrfRkY0x8i7YRuJugMo5oQkXFQLWsxFWpBDyuHHMNpXy11FpwWrDBSnFhDe1UY0G/VI4vg3o4ze0xIi8ce3bScWttJnhcdD68J7cHXu6rGbDczyQGttuC2D3OKCjzkOu8rvdNCzqRJqkzX8GLrn+tgn9SNQwd99gG1OG9LvQkYHkXOtrXxySky4NoLxl+pWyl8=;9cAyPLN7SCiI/FLaBmvQQg=="
 ---

@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Dems to introduce Biden-backed immigration bill, includes citizenship path for millions of illegal immigrants"
-excerpt: "Congressional Democrats on Thursday will unveil a sweeping immigration bill, backed by President Biden, that includes a path to citizenship for millions of illegal immigrants -- although the plan faces tough odds in the Senate."
-publishedDateTime: 2021-02-18T13:35:51Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_6If0yJSWC0/dems-biden-immigration-bill-citizenship-path-illegal-immigrants"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_6If0yJSWC0/dems-biden-immigration-bill-citizenship-path-illegal-immigrants"
-ampWebUrl: "https://www.foxnews.com/politics/dems-biden-immigration-bill-citizenship-path-illegal-immigrants.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dems-biden-immigration-bill-citizenship-path-illegal-immigrants.amp"
+title: "Republicans slam Biden's move to drop Iran sanctions push"
+excerpt: "Republicans are criticizing President Biden’s move to give up on a Trump-era push to reimpose United Nations sanctions on Iran, as the administration takes a warmer tone toward Tehran."
+publishedDateTime: 2021-02-20T19:13:58Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/q-59mCMXHkM/republicans-bidens-move-iran-sanctions-push"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/q-59mCMXHkM/republicans-bidens-move-iran-sanctions-push"
+ampWebUrl: "https://www.foxnews.com/politics/republicans-bidens-move-iran-sanctions-push.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-bidens-move-iran-sanctions-push.amp"
 type: article
-quality: 156
-heat: -1
-published: false
+quality: 175
+heat: 395
+published: true
 
 provider:
   name: Fox News
@@ -25,28 +25,12 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3c304f65-5ab7-4479-956c-7e98494b3a80/f388db24-0b09-46dd-9026-61c04741124e/1280x720/match/image.jpg"
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/73890ca3-5697-4aa9-af7c-57fc0b3d00aa/99dc6f9c-1665-4bbb-9566-91c08c604cd7/1280x720/match/image.jpg"
     width: 1280
     height: 720
     isCached: true
 
 related:
-  - title: "Republicans slam Biden's move to drop Iran sanctions push"
-    excerpt: "Republicans are criticizing President Biden’s move to give up on a Trump-era push to reimpose United Nations sanctions on Iran, as the administration takes a warmer tone toward Tehran."
-    publishedDateTime: 2021-02-20T19:13:58Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/q-59mCMXHkM/republicans-bidens-move-iran-sanctions-push"
-    ampWebUrl: "https://www.foxnews.com/politics/republicans-bidens-move-iran-sanctions-push.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-bidens-move-iran-sanctions-push.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/73890ca3-5697-4aa9-af7c-57fc0b3d00aa/99dc6f9c-1665-4bbb-9566-91c08c604cd7/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Manchin to oppose Biden OMB pick Neera Tanden over controversial Twitter posts"
     excerpt: "West Virginia Democrat Sen. Joe Manchin said on Friday that he would oppose President Biden’s nominee to lead the Office of Management and Budget over her Twitter history."
     publishedDateTime: 2021-02-19T22:52:51Z
@@ -191,6 +175,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Dems to introduce Biden-backed immigration bill, includes citizenship path for millions of illegal immigrants"
+    excerpt: "Congressional Democrats on Thursday will unveil a sweeping immigration bill, backed by President Biden, that includes a path to citizenship for millions of illegal immigrants -- although the plan faces tough odds in the Senate."
+    publishedDateTime: 2021-02-18T13:35:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_6If0yJSWC0/dems-biden-immigration-bill-citizenship-path-illegal-immigrants"
+    ampWebUrl: "https://www.foxnews.com/politics/dems-biden-immigration-bill-citizenship-path-illegal-immigrants.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dems-biden-immigration-bill-citizenship-path-illegal-immigrants.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3c304f65-5ab7-4479-956c-7e98494b3a80/f388db24-0b09-46dd-9026-61c04741124e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden Says U.S. Will Not Lift Sanctions On Iran Until They Stop Enriching Uranium"
     excerpt: "President Biden clarifies his position on the Iran nuclear crisis Sunday during an interview with CBS's \"Face the Nation\" host Norah O'Donnell which will air in full during the Super Bowl. \"Will the U."
     publishedDateTime: 2021-02-07T16:04:00Z
@@ -206,6 +206,6 @@ related:
         height: 562
         isCached: true
 
-secured: "z1NR/TaRAyphn6inHIzK6GnvzJNc0jzjAZLQBVbzjx6BoDZfy/sdvheLPrqtVnGNnS6yQgVRXJbinwDWeyj6EY28c6azh2ynalgmep6TCPGM6QlvDcRXtru8iOyRpRLhG1J+Z57wGWPHfbss4u+XFiJwTvXQAfzF/nmGWHohaOGSQIBX7zuCfqsazWAnjEvxNX2diy64pMO34pgkKYotLhiwrmLvhTXb2ieaXdoBJCnvAPJGF4BuW4hSzugTRGm8JImteah2WkvmUUauykmBMyry/gALKml6qzqvQ92pErvuN0p+x+aBuI7sH1+VUaW8hWmj8izNjPZZQd7aHJ3lZknc2zCn5odOygGxsWcLMBQ=;2jd/lIT7+4C7hCoTE88JuA=="
+secured: "5vsOcpwE0YD2mkQB3JsT/Ov8IXyYbU6Dp4EjxxB4CSNWcc2FTc2nGlpmczya0/1B3UigPnohp5MaSXCMeSYUDCCckcOjJDjQ4eocvG4dFy6cmyD6xcjyE8UZkAeqB9yPSLqz+AsX3Gl4SdGLO2irs2FXQIhZXVjqkUlldPZKyz1GKnq56FWJQpAHXXfYLyYj7lZCSfR29HS8+tfKMamrzPKFy4en4sNnJkxt4WYvzWqsksTt8TN5l9W4W5YI+fsF47tvNZPAPrAWDv1ydMQEegFZFVR03tfTR5fti+fqVfsgfZ3TzuL5+uCFxc5lvJipotRfhCE7Klqs/CCWO5tZVmEK/ibfdMaoL/1hrIBP95g=;q6DFXrfB8C+gSi17lWCM8g=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/mark-morgan-joe-biden-ice-arrests-d
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mark-morgan-joe-biden-ice-arrests-drop.amp"
 type: article
 quality: 163
-heat: 163
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -29,6 +29,24 @@ images:
     width: 340
     height: 340
     isCached: true
+
+related:
+  - title: "ACLU calls Biden guidance on ICE arrests, deportations 'disappointing step backward'"
+    excerpt: "The American Civil Liberties Union (ACLU) is criticizing the Biden administration’s new guidance for arrests and deportations under Immigration and Customs Enforcement (ICE) -- calling it a “disappointing step backward” and telling the new administration it expects “better.”"
+    publishedDateTime: 2021-02-20T20:48:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yxwD2nTBCB0/aclu-biden-era-ice-guidance-arrests"
+    ampWebUrl: "https://www.foxnews.com/politics/aclu-biden-era-ice-guidance-arrests.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aclu-biden-era-ice-guidance-arrests.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1afb723c-6431-4ce5-bea8-c93398d5b403/6ac0fdd4-ffcc-4654-840f-4ac9bc82d527/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "35zVd5Q/100L+Melgf/vceR/9uw9D7T5FL95T6ZxntFkbzwHDHf7Mtky4xNXmwgeIj4Qhmi+LFlJtNIlx5OhQZsG4BVjvlwwv4flGiaY1zj3nrj8BkclcyAUnG1z3s6TCYJ7zV85NHvlnBz0LNKtRRh7+H/F2QXXsoGwD4OX6X9CLQm74y1z+jBSe4b1QD0SgWAPDZZYH4YX/09+Tg1pJaJWb4iatLYuX20g3hKFO7W8SAlyPrSIWFxmOq9q0uh5FeGAy4GIDJfFChKfSPGcYJvBl67tNWFDxvZNjO+Q7TMs6dexF694gIWHQE8PU94DOvDLLtM0ezMoYdP+fuX6ACSPm5ODERT3IPD/TZ5kqwQ=;UV76kWPdnh0bBR6Xhji+5Q=="
 ---

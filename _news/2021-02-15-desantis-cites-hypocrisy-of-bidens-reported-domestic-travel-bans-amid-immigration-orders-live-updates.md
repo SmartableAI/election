@@ -31,21 +31,85 @@ images:
     isCached: true
 
 related:
-  - title: "Nikki Haley warns illegal immigration hitting ‘crisis levels,’ amid Biden moves"
-    excerpt: "Nikki Haley on Wednesday warned that illegal immigration is hitting “crisis levels” in the wake of a number of reversals of key Trump-era policies by President Joe Biden -- with the former U.N. ambassador arguing that the U.S. needs to take care of “Americans first.”"
-    publishedDateTime: 2021-02-10T23:36:04Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ybEWnpLo3uA/haley-illegal-immigration-biden-policies"
-    ampWebUrl: "https://www.foxnews.com/politics/haley-illegal-immigration-biden-policies.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/haley-illegal-immigration-biden-policies.amp"
+  - title: "Republicans slam Biden's move to drop Iran sanctions push"
+    excerpt: "Republicans are criticizing President Biden’s move to give up on a Trump-era push to reimpose United Nations sanctions on Iran, as the administration takes a warmer tone toward Tehran."
+    publishedDateTime: 2021-02-20T19:13:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/q-59mCMXHkM/republicans-bidens-move-iran-sanctions-push"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-bidens-move-iran-sanctions-push.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-bidens-move-iran-sanctions-push.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/73890ca3-5697-4aa9-af7c-57fc0b3d00aa/99dc6f9c-1665-4bbb-9566-91c08c604cd7/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Manchin to oppose Biden OMB pick Neera Tanden over controversial Twitter posts"
+    excerpt: "West Virginia Democrat Sen. Joe Manchin said on Friday that he would oppose President Biden’s nominee to lead the Office of Management and Budget over her Twitter history."
+    publishedDateTime: 2021-02-19T22:52:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/I2naip0Be5E/manchin-oppose-neera-tanden"
+    ampWebUrl: "https://www.foxnews.com/politics/manchin-oppose-neera-tanden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/manchin-oppose-neera-tanden.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 171
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/29ad43be-ef82-4891-814c-c63e8428c1be/341602a7-fa65-4e5f-aed0-8d066037eff0/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d5e4207d-6c8d-49c6-908c-4cc998501216/cc487d03-bd7f-493d-b774-4c8a14a98aa7/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Iran learning it can threaten Biden to get its way on nuclear talks: Ric Grenell"
+    excerpt: "Iran has already shown it can pressure the Biden administration into granting concessions related to its nuclear weapons program, former Acting Director of National Intelligence Richard Grenell told \"Your World\" Friday."
+    publishedDateTime: 2021-02-19T22:58:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xE8-btjy02c/iran-learning-threaten-biden-way-nuclear-talks-grenell"
+    ampWebUrl: "https://www.foxnews.com/politics/iran-learning-threaten-biden-way-nuclear-talks-grenell.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/iran-learning-threaten-biden-way-nuclear-talks-grenell.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dd154628-c42a-42cb-829c-9a04557dc5a5/869775b1-e778-487c-a2ef-b385b0432f76/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Republicans slam Biden move to admit 25,000 migrants from Mexico amid border surge fears"
+    excerpt: "Republicans are criticizing the Biden administration’s move to begin admitting 25,000 migrants held in Mexico as part of a Trump-era policy that was a key plank in the former administration’s efforts to end \"catch-and-release.\""
+    publishedDateTime: 2021-02-13T13:53:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/a80J5m1qPr4/republicans-biden-25000-migrants-mexico-border-surge-fears"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-biden-25000-migrants-mexico-border-surge-fears.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-biden-25000-migrants-mexico-border-surge-fears.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e02b244a-f175-4a58-b166-b6d817ade852/a6f6e95d-56dd-42b2-a08b-b2fd48234bbc/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Fraction of Biden's $128B education relief plan would go toward schools in 2021, CBO estimates"
+    excerpt: "President Biden's COVID-19 relief package would put $128 billion toward helping K-12 public schools deal with the coronavirus pandemic, but the nonpartisan Congressional Budget Office estimates that just $6 billion would flow to schools in 2021."
+    publishedDateTime: 2021-02-16T22:26:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Lo9GaNGcS94/biden-education-relief-2021-cbo-cost-estimate"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-education-relief-2021-cbo-cost-estimate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-education-relief-2021-cbo-cost-estimate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/GettyImages-1229643858.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Gov. DeSantis blasts 'hypocrisy' of Biden's reported domestic travel bans amid immigration orders"
     excerpt: "Florida Gov. Ron DeSantis called President Biden's reported consideration for domestic travel bans during the coronavirus pandemic amid his immigration executive orders “a huge contradiction.”"
@@ -63,37 +127,83 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Nikki Haley calls Biden's executive order about transgender athletics an 'attack on women's rights'"
-    excerpt: "Nikki Haley has joined voices in opposition of President Biden’s executive order calling on schools to allow transgender athletes to participate in the sport of their gender identity, arguing in a column published Monday that it’s an “attack on women’s rights.” "
-    publishedDateTime: 2021-02-08T19:27:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/L6c-w3VdN4M/nikki-haley-criticizes-biden-executive-order-transgender-athletics"
-    ampWebUrl: "https://www.foxnews.com/politics/nikki-haley-criticizes-biden-executive-order-transgender-athletics.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nikki-haley-criticizes-biden-executive-order-transgender-athletics.amp"
+  - title: "‘It is a scandal’: Former Secretary of Education blasts Biden administration over school closures"
+    excerpt: "Former Secretary of Education Dr. Bill Bennet said Monday \"it is a scandal\" for many major public schools in the U.S. to continue to be shut down under President Joe Biden’s administration."
+    publishedDateTime: 2021-02-15T21:32:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CSXpsGoqjgc/scandal-former-secretary-education-biden-administration-school-reopening-covid-remote-learning"
+    ampWebUrl: "https://www.foxnews.com/politics/scandal-former-secretary-education-biden-administration-school-reopening-covid-remote-learning.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/scandal-former-secretary-education-biden-administration-school-reopening-covid-remote-learning.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 161
+    quality: 162
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-zxjs75c-xl.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Nikki Haley accuses Biden of 'snubbing' Israel, 'cozying up' to Iran: 'I really don't understand the logic'"
-    excerpt: "Former U.S. Ambassador to the United Nations Nikki Haley accused the Biden administration Wednesday of \"snubbing Israel\" and \"cozying up to Iran\" in the two weeks the 46th president has been in office."
-    publishedDateTime: 2021-02-04T02:40:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YE_zsV2rMDo/nikki-haley-biden-israel-iran-nuclear-deal"
-    ampWebUrl: "https://www.foxnews.com/politics/nikki-haley-biden-israel-iran-nuclear-deal.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nikki-haley-biden-israel-iran-nuclear-deal.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 157
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4f8e7427-4d69-4533-a736-d7151e217b10/5054fe18-4741-4167-8a75-983f033a5534/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2d188969-ee03-4425-9b0f-38e2311976a3/879e3e97-56d8-4f7e-8ad7-534d8e030d84/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden immigration push will 'defeat the dream of Americans to live the American dream': Burgess Owens"
+    excerpt: "The Biden immigration agenda is the latest example of the left pushing policies that harm Black Americans while posing as their allies, Rep. Burgess Owens told \"Tucker Carlson Tonight\" Tuesday."
+    publishedDateTime: 2021-02-17T03:47:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xPMnzkBhWcU/burgess-owens-biden-immigration-push-defeat-middle-class-american-dream"
+    ampWebUrl: "https://www.foxnews.com/politics/burgess-owens-biden-immigration-push-defeat-middle-class-american-dream.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/burgess-owens-biden-immigration-push-defeat-middle-class-american-dream.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3c304f65-5ab7-4479-956c-7e98494b3a80/f388db24-0b09-46dd-9026-61c04741124e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden White House's planned $200M WHO payment slammed by Republicans: 'Their credibility has been tarnished'"
+    excerpt: "Republicans hit the White House’s plan to shell out $200 million to the World Health Organization (WHO) by the end of the month, arguing the organization should first take steps to commit to greater transparency.  "
+    publishedDateTime: 2021-02-18T19:16:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rm4CgY6c5zQ/republicans-slam-biden-white-house-who-payment"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-slam-biden-white-house-who-payment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-slam-biden-white-house-who-payment.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b509c58d-cd7c-4c3e-ad52-badc066167de/7a8a83b5-9b0c-4f02-973a-5c2dcebf170b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Dems to introduce Biden-backed immigration bill, includes citizenship path for millions of illegal immigrants"
+    excerpt: "Congressional Democrats on Thursday will unveil a sweeping immigration bill, backed by President Biden, that includes a path to citizenship for millions of illegal immigrants -- although the plan faces tough odds in the Senate."
+    publishedDateTime: 2021-02-18T13:35:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_6If0yJSWC0/dems-biden-immigration-bill-citizenship-path-illegal-immigrants"
+    ampWebUrl: "https://www.foxnews.com/politics/dems-biden-immigration-bill-citizenship-path-illegal-immigrants.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dems-biden-immigration-bill-citizenship-path-illegal-immigrants.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3c304f65-5ab7-4479-956c-7e98494b3a80/f388db24-0b09-46dd-9026-61c04741124e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden Says U.S. Will Not Lift Sanctions On Iran Until They Stop Enriching Uranium"
+    excerpt: "President Biden clarifies his position on the Iran nuclear crisis Sunday during an interview with CBS's \"Face the Nation\" host Norah O'Donnell which will air in full during the Super Bowl. \"Will the U."
+    publishedDateTime: 2021-02-07T16:04:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/02/07/biden_says_us_will_not_lift_sanctions_on_iran_until_they_stop_enriching_uranium.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 60
+    images:
+      - url: "https://assets.realclear.com/images/53/534517.jpg"
+        width: 750
+        height: 562
         isCached: true
 
 secured: "Ogeub19a2SBLP7s9CfB5ICpceQOl3VX6oUEQPj40/x+6Dzm7B7bG+cFEEisN+ScsrKBeDujBTRSkcN+mzzub+feUOhDzrTQI8w+tDwMZs1UHtCEPhNsUch8h6LhuEG9jDfyZXiyopTvrtBx/riLm0SL1bh+LLMzFMvbG4rl47kRLeypW6R51q8xTfOFmJuojguyrqJrE3Liso/2FHkmDdgNIpu10NlW4MxrKR4mAhOwaiLWM+wJU00c5yZnvsZJO4J/KFcRENX2llSURaRRyy19kqa7BmpAbG6d/zV/MrHKv1ORe8gCQJZdRJWIgnwzy68IoMMWw/FQIvw49bokYNlUCtp52ohfXOmStvIvJnYc=;vYqiE/F49qn98zxY1lLIBA=="

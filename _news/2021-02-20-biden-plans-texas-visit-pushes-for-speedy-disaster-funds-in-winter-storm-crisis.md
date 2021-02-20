@@ -2,11 +2,11 @@
 category: news
 title: "Biden plans Texas visit, pushes for speedy disaster funds in winter storm crisis"
 excerpt: "U.S. President Joe Biden said on Friday he will approve a disaster declaration for Texas, clearing the way for more aid in a crippling winter storm as he weighed a trip to survey the federal response."
-publishedDateTime: 2021-02-20T02:29:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-weather-texas-biden-idUSKBN2AJ20A"
-webUrl: "https://www.reuters.com/article/us-usa-weather-texas-biden-idUSKBN2AJ20A"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AJ20A"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AJ20A"
+publishedDateTime: 2021-02-20T00:00:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-weather-texas-biden-idUKKBN2AJ20A"
+webUrl: "https://www.reuters.com/article/us-usa-weather-texas-biden-idUKKBN2AJ20A"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2AJ20A"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2AJ20A"
 type: article
 quality: 120
 heat: -1
@@ -615,6 +615,6 @@ related:
         height: 600
         isCached: true
 
-secured: "N6LfCGRpPTlMMJIsFfRnuhNC4EY27+IP9bLyemwlpZXstBqoncOt0DN4Ss6gPKKcWJ8ZbwLIPBGHP33cOD/RWZ+SL1ioJAYuBbhsa7TkW6GJKl3S8dvADC7B/JjWbUcozAdf9/ngxf5IIqDpeV9is7rmUJP7zcd9zG82x2xSZzVw7ExXcP9XWmHUt7CzAqDoEum7LC0HYdeQQsc2ge/gO6LgqHdL7l/1RdeoDzAB0sPBB4hzboMBUf3d+xfS5lBVPOxeKM8LUpbU7csEADhTLlsJHz3YPUmM5XZw8uACAs/QivNnHDxuLMxH53UbY3qYzZkKpHwOymQ0OpsxpDnJqXPjXjpByIWThKYLIuC095A=;uiqwzVSLAHrGVXSdoCVkpA=="
+secured: "MSo9T3hT4EcTHLXRiC2poX/P6ULqTzAbciZphEiThZddVl0T6olWZ9suEeF17z27V5lSXq+gL9PyXorbJVa7uwmq8eMA9xLOsO0hdKU1HTTpJmPD7qPJgrOvi8hgRdsZk8fj/t0gurdItUVPmZ3xpSHOrab+u0JbcJR65OeLyUZ7p92ERtgdZLhBOuzwXpiLOBTN8UxdKamecMI0GkfFFpQ15JgDE84e5zhRA+Aomp5wkyCyqHvJ8MP9Z3X3aggq65UfSYRNmmPqBkAmw9rIh/XKFpbmEZdoDNNVjLw9O12angetz6N/BKH8P4fqODwI3PzNQBEGdkpnkdGrRIZT65twA8Sktqa8ZTp+22Q36fQ=;FIrbOl9g+RvyY91Pe15Jxw=="
 ---
 

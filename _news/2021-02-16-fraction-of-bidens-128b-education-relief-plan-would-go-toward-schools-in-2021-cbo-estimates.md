@@ -31,35 +31,147 @@ images:
     isCached: true
 
 related:
-  - title: "Florida Democrat says Biden vaccine distribution plan hurts states with high senior populations"
-    excerpt: "Florida Democratic Rep. Stephanie Murphy urged President Biden to adjust his plan for distributing vaccines nationwide after finding \"obvious flaws\" that could prove detrimental to states with higher rates of seniors."
-    publishedDateTime: 2021-02-13T03:08:49Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JOKyv0sPg0A/dem-rep-murphy-says-obvious-flaws-in-biden-vaccine-distribution-plan-hurting-states-with-high-senior-popula"
-    ampWebUrl: "https://www.foxnews.com/politics/dem-rep-murphy-says-obvious-flaws-in-biden-vaccine-distribution-plan-hurting-states-with-high-senior-popula.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dem-rep-murphy-says-obvious-flaws-in-biden-vaccine-distribution-plan-hurting-states-with-high-senior-popula.amp"
+  - title: "Republicans slam Biden's move to drop Iran sanctions push"
+    excerpt: "Republicans are criticizing President Biden’s move to give up on a Trump-era push to reimpose United Nations sanctions on Iran, as the administration takes a warmer tone toward Tehran."
+    publishedDateTime: 2021-02-20T19:13:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/q-59mCMXHkM/republicans-bidens-move-iran-sanctions-push"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-bidens-move-iran-sanctions-push.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-bidens-move-iran-sanctions-push.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 163
+    quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/daed92be-3252-43fa-b9e8-da5603edde14/87911f60-2d64-4b3d-9640-48c901ad4264/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/73890ca3-5697-4aa9-af7c-57fc0b3d00aa/99dc6f9c-1665-4bbb-9566-91c08c604cd7/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "LIVE UPDATES: Joe Biden's education relief plan would see fraction go toward schools this year, CBO estimates"
-    excerpt: "The CBO estimates that the number would increase to $32 billion in 2022 and 2023, respectively."
-    publishedDateTime: 2021-02-17T05:06:55Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AdfzSDNhWqw/joe-biden-live-updates-2-17-2021"
-    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-live-updates-2-17-2021.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-live-updates-2-17-2021.amp"
+  - title: "Manchin to oppose Biden OMB pick Neera Tanden over controversial Twitter posts"
+    excerpt: "West Virginia Democrat Sen. Joe Manchin said on Friday that he would oppose President Biden’s nominee to lead the Office of Management and Budget over her Twitter history."
+    publishedDateTime: 2021-02-19T22:52:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/I2naip0Be5E/manchin-oppose-neera-tanden"
+    ampWebUrl: "https://www.foxnews.com/politics/manchin-oppose-neera-tanden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/manchin-oppose-neera-tanden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d5e4207d-6c8d-49c6-908c-4cc998501216/cc487d03-bd7f-493d-b774-4c8a14a98aa7/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Iran learning it can threaten Biden to get its way on nuclear talks: Ric Grenell"
+    excerpt: "Iran has already shown it can pressure the Biden administration into granting concessions related to its nuclear weapons program, former Acting Director of National Intelligence Richard Grenell told \"Your World\" Friday."
+    publishedDateTime: 2021-02-19T22:58:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xE8-btjy02c/iran-learning-threaten-biden-way-nuclear-talks-grenell"
+    ampWebUrl: "https://www.foxnews.com/politics/iran-learning-threaten-biden-way-nuclear-talks-grenell.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/iran-learning-threaten-biden-way-nuclear-talks-grenell.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dd154628-c42a-42cb-829c-9a04557dc5a5/869775b1-e778-487c-a2ef-b385b0432f76/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Republicans slam Biden move to admit 25,000 migrants from Mexico amid border surge fears"
+    excerpt: "Republicans are criticizing the Biden administration’s move to begin admitting 25,000 migrants held in Mexico as part of a Trump-era policy that was a key plank in the former administration’s efforts to end \"catch-and-release.\""
+    publishedDateTime: 2021-02-13T13:53:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/a80J5m1qPr4/republicans-biden-25000-migrants-mexico-border-surge-fears"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-biden-25000-migrants-mexico-border-surge-fears.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-biden-25000-migrants-mexico-border-surge-fears.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e02b244a-f175-4a58-b166-b6d817ade852/a6f6e95d-56dd-42b2-a08b-b2fd48234bbc/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Gov. DeSantis blasts 'hypocrisy' of Biden's reported domestic travel bans amid immigration orders"
+    excerpt: "Florida Gov. Ron DeSantis called President Biden's reported consideration for domestic travel bans during the coronavirus pandemic amid his immigration executive orders “a huge contradiction.”"
+    publishedDateTime: 2021-02-14T20:31:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pDdJ7r92uaM/desantis-bidens-reported-consideration-for-domestic-travel-bans-amid-immigration-orders-hypocritical"
+    ampWebUrl: "https://www.foxnews.com/politics/desantis-bidens-reported-consideration-for-domestic-travel-bans-amid-immigration-orders-hypocritical.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/desantis-bidens-reported-consideration-for-domestic-travel-bans-amid-immigration-orders-hypocritical.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "‘It is a scandal’: Former Secretary of Education blasts Biden administration over school closures"
+    excerpt: "Former Secretary of Education Dr. Bill Bennet said Monday \"it is a scandal\" for many major public schools in the U.S. to continue to be shut down under President Joe Biden’s administration."
+    publishedDateTime: 2021-02-15T21:32:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CSXpsGoqjgc/scandal-former-secretary-education-biden-administration-school-reopening-covid-remote-learning"
+    ampWebUrl: "https://www.foxnews.com/politics/scandal-former-secretary-education-biden-administration-school-reopening-covid-remote-learning.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/scandal-former-secretary-education-biden-administration-school-reopening-covid-remote-learning.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2d188969-ee03-4425-9b0f-38e2311976a3/879e3e97-56d8-4f7e-8ad7-534d8e030d84/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden immigration push will 'defeat the dream of Americans to live the American dream': Burgess Owens"
+    excerpt: "The Biden immigration agenda is the latest example of the left pushing policies that harm Black Americans while posing as their allies, Rep. Burgess Owens told \"Tucker Carlson Tonight\" Tuesday."
+    publishedDateTime: 2021-02-17T03:47:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xPMnzkBhWcU/burgess-owens-biden-immigration-push-defeat-middle-class-american-dream"
+    ampWebUrl: "https://www.foxnews.com/politics/burgess-owens-biden-immigration-push-defeat-middle-class-american-dream.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/burgess-owens-biden-immigration-push-defeat-middle-class-american-dream.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3c304f65-5ab7-4479-956c-7e98494b3a80/f388db24-0b09-46dd-9026-61c04741124e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "DeSantis cites hypocrisy of Biden's reported domestic travel bans amid immigration orders: LIVE UPDATES"
+    excerpt: "Florida Gov. Ron DeSantis called President Biden's reported consideration of domestic travel bans during the coronavirus pandemic amid signing immigration executive orders \"a huge contradiction.\""
+    publishedDateTime: 2021-02-15T08:55:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6eZgSouoGCk/biden-live-updates-2-15-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-live-updates-2-15-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-live-updates-2-15-2021.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/acf50ad6-1b0a-4fb3-a73b-98e36eaf1c0f/ed36a3fd-1c83-4e36-b28d-2c34f7cd93a1/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden White House's planned $200M WHO payment slammed by Republicans: 'Their credibility has been tarnished'"
+    excerpt: "Republicans hit the White House’s plan to shell out $200 million to the World Health Organization (WHO) by the end of the month, arguing the organization should first take steps to commit to greater transparency.  "
+    publishedDateTime: 2021-02-18T19:16:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rm4CgY6c5zQ/republicans-slam-biden-white-house-who-payment"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-slam-biden-white-house-who-payment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-slam-biden-white-house-who-payment.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 156
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/31b5266e-00b9-4c8a-a711-4d3bc3ec3a8a/8a4f160d-8e38-48f5-a218-58889c598c66/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b509c58d-cd7c-4c3e-ad52-badc066167de/7a8a83b5-9b0c-4f02-973a-5c2dcebf170b/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -79,21 +191,19 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Rubio: Biden Administration \"Trying To Punish Florida\" With \"Clearly Unconstitutional\" COVID Travel Ban Proposal"
-    excerpt: "Sen. Marco Rubio told FOX News Channel's 'Tucker Carlson Tonight' on Thursday that a proposed Biden administration plan to restrict travel to Florida during the COVID pandemic is an \"attack\" on his state."
-    publishedDateTime: 2021-02-12T13:21:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/02/12/rubio_biden_administration_trying_to_punish_florida_with_clearly_unconstitutional_covid_travel_ban_proposal.html"
-    ampWebUrl: "http://www.realclearpolitics.com/video/2021/02/12/rubio_biden_administration_trying_to_punish_florida_with_clearly_unconstitutional_covid_travel_ban_proposal.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/02/12/rubio_biden_administration_trying_to_punish_florida_with_clearly_unconstitutional_covid_travel_ban_proposal.amp.html"
+  - title: "Biden Says U.S. Will Not Lift Sanctions On Iran Until They Stop Enriching Uranium"
+    excerpt: "President Biden clarifies his position on the Iran nuclear crisis Sunday during an interview with CBS's \"Face the Nation\" host Norah O'Donnell which will air in full during the Super Bowl. \"Will the U."
+    publishedDateTime: 2021-02-07T16:04:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/02/07/biden_says_us_will_not_lift_sanctions_on_iran_until_they_stop_enriching_uranium.html#!"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 64
+    quality: 60
     images:
-      - url: "https://assets.realclear.com/images/47/471791.jpg"
-        width: 800
-        height: 599
+      - url: "https://assets.realclear.com/images/53/534517.jpg"
+        width: 750
+        height: 562
         isCached: true
 
 secured: "Hdyk8q43dbxYkdTwiHeuUR/QcDY1PuAwdEQjEvkDWhNYpo1q0y46LuI+NKrOpx8kC+CC/7OKTq4PKJ/0iNcCZCiwTAM8cTXW8Gno1fmGG5VYhM37HUBPsgHXFb7o2sPEl1k2iX3jgbVcMC2I76opTmxdknSV2mTMAyEsSFRB26RjpyLkFcghilhwl+Sf8XCRLxtnsZM6+NCAhJtcbCHH9ts98nnAMCKL7/oz0yiWU9JqPyWXDh1B7CsOjgQiuOjeZTKkec9yhu4CmnqkjDZ0eJNd5B8h7O+L+E+/jEqF/ngBM7lXQ82ZyXRpIaaGyKARNEsw0DwBDBdFVEzPlMYbyvUW9vrniCYyfgBqARl6sSc=;SHpn1YhstN5NIuNvc0RGXg=="

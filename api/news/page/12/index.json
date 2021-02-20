@@ -2,58 +2,6 @@
   "page": 12,
   "value": [
     {
-      "path": "_news/2021-02-03-us-will-not-expel-unaccompanied-migrant-children-under-trump-era-policy-now-being-reviewed.md",
-      "title": "U.S. will not expel unaccompanied migrant children under Trump-era policy now being reviewed",
-      "excerpt": "President Biden ordered his administration to review a CDC order that allows U.S. border officials to swiftly expel migrants without a court hearing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/migrant-children-biden-administration-will-not-expel-trump-policy/",
-      "originalUrl": "https://www.cbsnews.com/news/migrant-children-biden-administration-will-not-expel-trump-policy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/03/2dbd5416-7ea2-4822-b01b-fc1c2a06e5eb/thumbnail/1200x630/0fce3e81e3bc33b285288b90be4dd94b/gettyimages-1228909458.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/migrant-children-biden-administration-will-not-expel-trump-policy/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/migrant-children-biden-administration-will-not-expel-trump-policy/",
-      "publishedDateTime": "2021-02-03T04:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-02-03-biden-no-family-members-will-be-involved-in-any-government-decisions.md",
       "title": "Biden: No family members will be involved in any government decisions",
       "excerpt": "President Joe Biden vowed that no one in his extended family will have sway over government decisions in an interview with People magazine published Wednesday.\n    \n",
@@ -1351,6 +1299,62 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-02-live-updates-biden-meets-with-republican-senators-on-coronavirus-aid.md",
+      "title": "Live Updates: Biden meets with Republican senators on coronavirus aid",
+      "excerpt": "President Joe Biden on Monday night said that he's unwilling to settle on an insufficient coronavirus aid package.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6z8Pf8Cya2s/live-updates-biden-2-2-2021",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6z8Pf8Cya2s/live-updates-biden-2-2-2021",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 495,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6ee85791-b1c2-4b3e-9f69-c5782ed6f4dc/031107ab-fd5f-4504-b7b8-bb97e033f264/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/live-updates-biden-2-2-2021.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-2-2-2021.amp",
+      "publishedDateTime": "2021-02-01T23:01:09-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
       ]
     }
   ],

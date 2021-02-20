@@ -2,6 +2,118 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-20-aclu-calls-biden-guidance-on-ice-arrests-deportations-disappointing-step-backward.md",
+      "title": "ACLU calls Biden guidance on ICE arrests, deportations 'disappointing step backward'",
+      "excerpt": "The American Civil Liberties Union (ACLU) is criticizing the Biden administration’s new guidance for arrests and deportations under Immigration and Customs Enforcement (ICE) -- calling it a “disappointing step backward” and telling the new administration it expects “better.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yxwD2nTBCB0/aclu-biden-era-ice-guidance-arrests",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yxwD2nTBCB0/aclu-biden-era-ice-guidance-arrests",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 188,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1afb723c-6431-4ce5-bea8-c93398d5b403/6ac0fdd4-ffcc-4654-840f-4ac9bc82d527/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/aclu-biden-era-ice-guidance-arrests.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aclu-biden-era-ice-guidance-arrests.amp",
+      "publishedDateTime": "2021-02-20T12:48:51-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-20-republicans-slam-bidens-move-to-drop-iran-sanctions-push.md",
+      "title": "Republicans slam Biden's move to drop Iran sanctions push",
+      "excerpt": "Republicans are criticizing President Biden’s move to give up on a Trump-era push to reimpose United Nations sanctions on Iran, as the administration takes a warmer tone toward Tehran.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/q-59mCMXHkM/republicans-bidens-move-iran-sanctions-push",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/q-59mCMXHkM/republicans-bidens-move-iran-sanctions-push",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 395,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/73890ca3-5697-4aa9-af7c-57fc0b3d00aa/99dc6f9c-1665-4bbb-9566-91c08c604cd7/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/republicans-bidens-move-iran-sanctions-push.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-bidens-move-iran-sanctions-push.amp",
+      "publishedDateTime": "2021-02-20T11:13:58-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-20-trump-freeze-out-de-blasio-puts-former-presidents-nyc-rink-contracts-on-ice.md",
       "title": "Trump freeze-out: De Blasio puts former president's NYC rink contracts on ice",
       "excerpt": "The Trump Organization says its last day of operating Central Park's ice rinks will be Sunday.",
@@ -226,62 +338,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-19-iran-learning-it-can-threaten-biden-to-get-its-way-on-nuclear-talks-ric-grenell.md",
-      "title": "Iran learning it can threaten Biden to get its way on nuclear talks: Ric Grenell",
-      "excerpt": "Iran has already shown it can pressure the Biden administration into granting concessions related to its nuclear weapons program, former Acting Director of National Intelligence Richard Grenell told \"Your World\" Friday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xE8-btjy02c/iran-learning-threaten-biden-way-nuclear-talks-grenell",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xE8-btjy02c/iran-learning-threaten-biden-way-nuclear-talks-grenell",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dd154628-c42a-42cb-829c-9a04557dc5a5/869775b1-e778-487c-a2ef-b385b0432f76/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/iran-learning-threaten-biden-way-nuclear-talks-grenell.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/iran-learning-threaten-biden-way-nuclear-talks-grenell.amp",
-      "publishedDateTime": "2021-02-19T14:58:54-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-02-19-biden-says-he-is-planning-on-visiting-texas-amid-weather-crisis.md",
       "title": "Biden says he is planning on visiting Texas amid weather crisis",
       "excerpt": "President Biden on Friday said he is planning to visit Texas as the state grapples with a weather crisis that has left hundreds of thousands of residents without power, prompting him to declare an emergency declaration.",
@@ -311,62 +367,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-planning-on-visiting-texas-weather-crisis.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-planning-on-visiting-texas-weather-crisis.amp",
       "publishedDateTime": "2021-02-19T09:51:42-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-mark-morgan-blasts-bidens-new-guidelines-on-ice-arrests-defies-law-and-order-common-sense.md",
-      "title": "Mark Morgan blasts Biden's new guidelines on ICE arrests: 'Defies law and order, common sense'",
-      "excerpt": "The Biden administration's immigration reform \"defies law and order and common sense,\" former acting DHS Secretary Mark Morgan said on Friday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Cg4x5MHCXCk/mark-morgan-joe-biden-ice-arrests-drop",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Cg4x5MHCXCk/mark-morgan-joe-biden-ice-arrests-drop",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/mark-morgan-joe-biden-ice-arrests-drop.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mark-morgan-joe-biden-ice-arrests-drop.amp",
-      "publishedDateTime": "2021-02-19T09:46:57-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -592,62 +592,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/bill-gates-says-trump-should-probably-be-allowed-to-return-to-social-media.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bill-gates-says-trump-should-probably-be-allowed-to-return-to-social-media.amp",
       "publishedDateTime": "2021-02-18T11:39:31-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-biden-white-houses-planned-200m-who-payment-slammed-by-republicans-their-credibility-has-been-tarnished.md",
-      "title": "Biden White House's planned $200M WHO payment slammed by Republicans: 'Their credibility has been tarnished'",
-      "excerpt": "Republicans hit the White House’s plan to shell out $200 million to the World Health Organization (WHO) by the end of the month, arguing the organization should first take steps to commit to greater transparency.  ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rm4CgY6c5zQ/republicans-slam-biden-white-house-who-payment",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rm4CgY6c5zQ/republicans-slam-biden-white-house-who-payment",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b509c58d-cd7c-4c3e-ad52-badc066167de/7a8a83b5-9b0c-4f02-973a-5c2dcebf170b/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/republicans-slam-biden-white-house-who-payment.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-slam-biden-white-house-who-payment.amp",
-      "publishedDateTime": "2021-02-18T11:16:20-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1298,7 +1242,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 135,
+      "heat": 155,
       "tags": null,
       "images": [
         {
@@ -1655,6 +1599,62 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-cuomo-didnt-discuss-covid-nursing-home-scandal-psaki-says.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cuomo-didnt-discuss-covid-nursing-home-scandal-psaki-says.amp",
       "publishedDateTime": "2021-02-16T13:37:34-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-16-gop-rep-adam-kinzinger-receives-letter-from-11-family-members-disowning-him-over-trump-opposition.md",
+      "title": "GOP Rep. Adam Kinzinger receives letter from 11 family members disowning him over Trump opposition",
+      "excerpt": "Rep. Adam Kinzinger, a six-term Republican congressman representing Illinois, received a hand-written letter from 11 family members disowning him over his opposition of former President Donald Trump, Fox News has confirmed.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4mNSAAX_7ZY/gop-rep-adam-kinzinger-letter-11-family-disowning-him-trump-opposition",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4mNSAAX_7ZY/gop-rep-adam-kinzinger-letter-11-family-disowning-him-trump-opposition",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/gop-rep-adam-kinzinger-letter-11-family-disowning-him-trump-opposition.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-rep-adam-kinzinger-letter-11-family-disowning-him-trump-opposition.amp",
+      "publishedDateTime": "2021-02-16T10:47:25-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

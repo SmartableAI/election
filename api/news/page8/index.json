@@ -2,58 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2021-02-10-home-free-florida-town-lets-donald-trump-keep-living-at-mar-a-lago.md",
-      "title": "Home free: Florida town lets Donald Trump keep living at Mar-a-Lago",
-      "excerpt": "Palm Beach town council gave short shrift to a request from neighbors to ban the former president from residing at his resort",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/feb/10/donald-trump-mar-a-lago-florida",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/feb/10/donald-trump-mar-a-lago-florida",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/0bad9c40196a60bad835a1878eb3d7704de96815/0_185_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=91d203e3dfa16a0deb5b6cff894308d6",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/feb/10/donald-trump-mar-a-lago-florida",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/10/donald-trump-mar-a-lago-florida",
-      "publishedDateTime": "2021-02-10T07:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-02-10-laid-off-keystone-pipeline-workers-slam-job-killing-biden-decision-future-completely-taken-away.md",
       "title": "Laid-off Keystone pipeline workers slam job-killing Biden decision: Future 'completely taken away'",
       "excerpt": "Laid-off Keystone XL pipeline workers in Fouke, Ark., blasted President Biden's order canceling the project.",
@@ -1356,6 +1304,62 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-02-08-liz-cheney-in-donald-trump-jrs-2022-crosshairs.md",
+      "title": "Liz Cheney in Donald Trump Jr.’s 2022 crosshairs",
+      "excerpt": "It’s a long way down the road, but it appears Donald Trump Jr.’s already making plans to travel to Wyoming next year to target Rep. Liz Cheney in the Republican primaries as she runs for re-election.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zwM-ulT5P9g/liz-cheney-donald-trump-jr-wyoming-primary",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zwM-ulT5P9g/liz-cheney-donald-trump-jr-wyoming-primary",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 335,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/liz-cheney-donald-trump-jr-wyoming-primary.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/liz-cheney-donald-trump-jr-wyoming-primary.amp",
+      "publishedDateTime": "2021-02-08T14:15:10-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
       ]
     }
   ],

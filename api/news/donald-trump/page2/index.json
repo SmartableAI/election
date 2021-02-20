@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-15-i-made-the-call-jamie-raskin-stands-by-decision-to-forgo-witnesses-in-trump-impeachment-trial.md",
+      "title": "'I made the call': Jamie Raskin stands by decision to forgo witnesses in Trump impeachment trial",
+      "excerpt": "\"We could have had 5,000 witnesses, and Mitch McConnell would be making the same speech,\" Raskin said of the GOP opposition to a Trump conviction.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/jamie-raskin-witness-testimony-trump-impeachment-trial-2021-2",
+      "originalUrl": "https://www.businessinsider.com/jamie-raskin-witness-testimony-trump-impeachment-trial-2021-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6022eaf567d1e300113c519e?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/jamie-raskin-witness-testimony-trump-impeachment-trial-2021-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/jamie-raskin-witness-testimony-trump-impeachment-trial-2021-2?amp",
+      "publishedDateTime": "2021-02-14T11:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-15-trump-triumphant-but-senior-republicans-still-see-battles-ahead.md",
       "title": "Trump triumphant – but senior Republicans still see battles ahead",
       "excerpt": "Former president celebrates second impeachment acquittal as supporters and moderates prepare to contest party direction",
@@ -1552,58 +1604,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-08-trump-hotel-in-dc-hikes-up-price-for-significant-qanon-date-of-march-4.md",
-      "title": "Trump Hotel in D.C. Hikes up Price for Significant QAnon Date of March 4",
-      "excerpt": "The cost to rent a room at Trump's hotel in early March is currently $1,331 and is the only one in the area to have raised prices.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/qanon-trump-hotel-washington-march-1567489",
-      "originalUrl": "https://www.newsweek.com/qanon-trump-hotel-washington-march-1567489",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1727794/q.jpg",
-          "width": 2500,
-          "height": 1685,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/qanon-trump-hotel-washington-march-1567489?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/qanon-trump-hotel-washington-march-1567489?amp=1",
-      "publishedDateTime": "2021-02-08T01:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

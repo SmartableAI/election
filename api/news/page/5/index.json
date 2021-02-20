@@ -2,58 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2021-02-15-biden-calls-for-commonsense-gun-law-reforms-on-anniversary-of-parkland-shooting.md",
-      "title": "Biden calls for 'commonsense gun law reforms' on anniversary of Parkland shooting",
-      "excerpt": "President Biden called on Congress to pass \"commonsense gun law reforms\" on Sunday in a message marking the third anniversary of the shooting at Marjory Stoneman Douglas High School in Parkland, Fla.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/administration/538825-biden-calls-for-commonsense-gun-law-reforms-on-anniversary-of",
-      "originalUrl": "https://thehill.com/homenews/administration/538825-biden-calls-for-commonsense-gun-law-reforms-on-anniversary-of",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/bidenjoe_020521getty_stocks.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/administration/538825-biden-calls-for-commonsense-gun-law-reforms-on-anniversary-of?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/538825-biden-calls-for-commonsense-gun-law-reforms-on-anniversary-of?amp",
-      "publishedDateTime": "2021-02-14T10:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2021-02-15-trump-triumphant-but-senior-republicans-still-see-battles-ahead.md",
       "title": "Trump triumphant – but senior Republicans still see battles ahead",
       "excerpt": "Former president celebrates second impeachment acquittal as supporters and moderates prepare to contest party direction",
@@ -1141,7 +1089,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 243,
+      "heat": 203,
       "tags": null,
       "images": [
         {
@@ -1346,6 +1294,63 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-13-trumps-impeachment-defense-team-argues-his-words-before-riot-were-ordinary-political-rhetoric.md",
+      "title": "Trump's impeachment defense team argues his words before riot were 'ordinary political rhetoric'",
+      "excerpt": "Lawyers for former President Donald Trump’s kicked off their defense Friday with a forceful rebuke of the case made by Democratic House impeachment managers, calling it an act of \"political vengeance\" and alleging that Trump's speech preceding the Capitol riot was merely \"ordinary political rhetoric.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/donald-trump/trump-defense-present-case-senate-impeachment-trial-n1257601",
+      "originalUrl": "https://www.nbcnews.com/politics/donald-trump/trump-defense-present-case-senate-impeachment-trial-n1257601",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2021_06/3449634/210212-donald-trump-mn-0730_1766caa6ab5712ca048af6133531a753.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1257601",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1257601",
+      "publishedDateTime": "2021-02-12T10:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
       ]
     }
   ],

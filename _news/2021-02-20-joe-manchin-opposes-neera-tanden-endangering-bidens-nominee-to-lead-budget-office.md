@@ -369,10 +369,10 @@ related:
         isCached: true
   - title: "Biden plans Texas visit, pushes for speedy disaster funds in winter storm crisis"
     excerpt: "U.S. President Joe Biden said on Friday he will approve a disaster declaration for Texas, clearing the way for more aid in a crippling winter storm as he weighed a trip to survey the federal response."
-    publishedDateTime: 2021-02-20T02:29:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-weather-texas-biden-idUSKBN2AJ20A"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AJ20A"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AJ20A"
+    publishedDateTime: 2021-02-20T00:00:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-weather-texas-biden-idUKKBN2AJ20A"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2AJ20A"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2AJ20A"
     type: article
     provider:
       name: Reuters

@@ -1,34 +1,33 @@
 ---
 category: news
-title: "In Georgia, a New District Attorney Starts Circling Trump and His Allies"
-excerpt: "Fani Willis has opened a criminal investigation into efforts by the Trump camp to overturn the former president’s loss in Georgia. In an interview, Ms. Willis described a wide-ranging inquiry."
-publishedDateTime: 2021-02-13T10:00:00Z
-originalUrl: "https://www.nytimes.com/2021/02/13/us/politics/fani-willis-trump.html"
-webUrl: "https://www.nytimes.com/2021/02/13/us/politics/fani-willis-trump.html"
-ampWebUrl: "https://www.nytimes.com/2021/02/13/us/politics/fani-willis-trump.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/13/us/politics/fani-willis-trump.amp.html"
+title: "Manhattan district attorney subpoenas NYC property tax agency in Trump Organization probe "
+excerpt: "The Manhattan District Attorney's Office has subpoenaed the New York City Tax Commission as part of a criminal investigation into former President Donald Trump's real estate company, according to a spokesperson for the New York City mayor.\n    \n"
+publishedDateTime: 2021-02-20T20:25:15Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OO0SMrKKY_w/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OO0SMrKKY_w/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/02/20/politics/new-york-trump-organization-probe/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/20/politics/new-york-trump-organization-probe/index.html"
 type: article
-quality: 134
+quality: 165
 heat: -1
 published: false
 
 provider:
-  name: New York Times
-  domain: nytimes.com
+  name: CNN
+  domain: cnn.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://static01.nyt.com/images/2021/02/13/us/politics/13georgia-trump/13georgia-trump-facebookJumbo.jpg"
-    width: 1050
-    height: 550
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210220132616-trump-tower-file-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -64,22 +63,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Manhattan district attorney subpoenas NYC property tax agency in Trump Organization probe "
-    excerpt: "The Manhattan District Attorney's Office has subpoenaed the New York City Tax Commission as part of a criminal investigation into former President Donald Trump's real estate company, according to a spokesperson for the New York City mayor.\n    \n"
-    publishedDateTime: 2021-02-20T20:25:15Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OO0SMrKKY_w/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/20/politics/new-york-trump-organization-probe/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/20/politics/new-york-trump-organization-probe/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 165
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210220132616-trump-tower-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Georgia prosecutors launch criminal probe into Trump's efforts to overturn election results"
     excerpt: "The investigation will look into the phone call Trump made to Georgia Secretary of State Brad Raffensperger in which Trump begged him to reverse Joe Biden's victory."
     publishedDateTime: 2021-02-10T20:47:00Z
@@ -96,7 +79,23 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "In Georgia, a New District Attorney Starts Circling Trump and His Allies"
+    excerpt: "Fani Willis has opened a criminal investigation into efforts by the Trump camp to overturn the former president’s loss in Georgia. In an interview, Ms. Willis described a wide-ranging inquiry."
+    publishedDateTime: 2021-02-13T10:00:00Z
+    webUrl: "https://www.nytimes.com/2021/02/13/us/politics/fani-willis-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/13/us/politics/fani-willis-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/13/us/politics/fani-willis-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/13/us/politics/13georgia-trump/13georgia-trump-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
-secured: "ESpHRcIYUzyjL/UGWFhAsO7rmWOvuG++wTKR1Ny2sXtQknKqlpyK4DpWF0xUkj+uXrPi/PqT0EXqJEpm1gaDvGuY8i6EjB3o9mgV7kHkKR76sjNedAWfOEkh+rloh4qdnp2Ggl3stTKyC4GjapJoPM9oeHAx/jOD+YaSwZn25AY4gEyodejEP3FeLYQ+hG9BbA+jCJ+FNrz53xhmRNcuUNBeXyeyhfGLH8EFIBwaSj63jomYduoQlHIrSuldJ8XAQXjbW+QqN/F3Hm5QDdN+9+4sLVg30rIVLKoLOWjxHxgoknHLcUwP3s0kw+j5oi+1JFY9YMTpjlx9/3CkeTvD1fU6qyIjGeFqy+T15kK9qRI=;g1FMFKnF5NlQuDFXy5jA2w=="
+secured: "oD7BkfxJBx3+VpVHMyNtRI3TMFJTLMkBxpqGRzTH4+dEFNqN3KsgDJKaoq83TlIjr0o9rMfwVTEtYPCW245ldW65kYLrTx8HlJbIChxFSZtSBUl/37wCrBNYHiFk0YuJhq5DbbETBRpplvW16U/5lB0r3RRfkmHeOSORObKqfhn3DCFm4zHWciX4LZruiQWkcq53fGVh3gBZ0FlnQxUUIaUdnYrUseI5eUYUY5YRYDGNviuIQlDDGbDcpJftRQL/BQghDIBIR3ttRk0JVKGwygcCX02k0TSS8+F4IH4j3r59KlwOMjnkd5z/f8n7X5WPpI08ixsvVSmCxi4fflkBIsX5mRS52Z2da+L/yvrxYks=;2oNu/uKmO6BJ6xvpvTCixA=="
 ---
 

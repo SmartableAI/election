@@ -399,7 +399,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 233,
+      "heat": 253,
       "tags": null,
       "images": [
         {
@@ -731,62 +731,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-drives-past-jubilant-supporters-at-impromptu-rally-in-florida.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-drives-past-jubilant-supporters-at-impromptu-rally-in-florida.amp",
       "publishedDateTime": "2021-02-15T14:24:49-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-15-it-is-a-scandal-former-secretary-of-education-blasts-biden-administration-over-school-closures.md",
-      "title": "‘It is a scandal’: Former Secretary of Education blasts Biden administration over school closures",
-      "excerpt": "Former Secretary of Education Dr. Bill Bennet said Monday \"it is a scandal\" for many major public schools in the U.S. to continue to be shut down under President Joe Biden’s administration.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CSXpsGoqjgc/scandal-former-secretary-education-biden-administration-school-reopening-covid-remote-learning",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CSXpsGoqjgc/scandal-former-secretary-education-biden-administration-school-reopening-covid-remote-learning",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2d188969-ee03-4425-9b0f-38e2311976a3/879e3e97-56d8-4f7e-8ad7-534d8e030d84/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/scandal-former-secretary-education-biden-administration-school-reopening-covid-remote-learning.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/scandal-former-secretary-education-biden-administration-school-reopening-covid-remote-learning.amp",
-      "publishedDateTime": "2021-02-15T13:32:24-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1345,6 +1289,58 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-15-biden-calls-for-commonsense-gun-law-reforms-on-anniversary-of-parkland-shooting.md",
+      "title": "Biden calls for 'commonsense gun law reforms' on anniversary of Parkland shooting",
+      "excerpt": "President Biden called on Congress to pass \"commonsense gun law reforms\" on Sunday in a message marking the third anniversary of the shooting at Marjory Stoneman Douglas High School in Parkland, Fla.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/administration/538825-biden-calls-for-commonsense-gun-law-reforms-on-anniversary-of",
+      "originalUrl": "https://thehill.com/homenews/administration/538825-biden-calls-for-commonsense-gun-law-reforms-on-anniversary-of",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/bidenjoe_020521getty_stocks.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/administration/538825-biden-calls-for-commonsense-gun-law-reforms-on-anniversary-of?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/538825-biden-calls-for-commonsense-gun-law-reforms-on-anniversary-of?amp",
+      "publishedDateTime": "2021-02-14T10:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/us/trump-plaza-casino-atlantic-city-demolish
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/trump-plaza-casino-atlantic-city-demolished.amp"
 type: article
 quality: 135
-heat: 135
+heat: 155
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     width: 640
     height: 320
     isCached: true
+
+related:
+  - title: "Trump to speak at CPAC in first public appearance after leaving office"
+    excerpt: "Former President Trump will be a keynote speaker at the Conservative Political Action Conference in Orlando, Fla., a spokesman for the organization confirmed to The Post on Saturday. Trump is"
+    publishedDateTime: 2021-02-20T20:42:00Z
+    webUrl: "https://nypost.com/2021/02/20/trump-to-speak-at-cpac-in-first-public-appearance-after-leaving-office/"
+    ampWebUrl: "https://nypost.com/2021/02/20/trump-to-speak-at-cpac-in-first-public-appearance-after-leaving-office/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/20/trump-to-speak-at-cpac-in-first-public-appearance-after-leaving-office/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/trump-cpac.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "gB1Sc0nhIYw1WUVi15ZI61kAW+/HeyKMlMhlBXzmz3ikHhHY/obTs2Z9fgQVECsJ0IJ1ob8+7UD59lSsZvHhXkq2n2Pj0Qda37GPxasSrqY1McuGzaDKjA3uaMAijZ2zBs6kEuyb/yKGktxsYmdxKdbfQB7qz63r6ot9ETJEMvjMQcUijfErcQzy8TrhScm9DLRXoDLIbpq3lUlMFZNDo/+BDiie0SfwU8p3ieAao0Ln/ke/sUoMc6oXRoRG8jPYaoayCCo0OjDyrRRVpw+uk9fJyv16UT3xVjA9+PwSJWYAXboT/zc5DzpVLCC/xWLBjzPWYcI3bRKq9hvUT3xyfufwh4PwSboFvSw+gpwO1X+gpQZKPpMTXNh2T/gGHmiB36QqnLKsgQ+uRb+Nj6EK7X3h4j5XApe8JvYHzGEviwRIcaMrQhvdOS448lybTanRnH76hnVAgcGo+2Bc454GO2gmNpqIr/W2usnodL4Gn3bNxkXAaVFkpF8zBcJHpXeQL7NWkAQhHinYYwTtNZUa0w==;HfO4OfItZqL7XgmRAKA8aQ=="
 ---

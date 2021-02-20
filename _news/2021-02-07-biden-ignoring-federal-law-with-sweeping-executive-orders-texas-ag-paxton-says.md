@@ -63,22 +63,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Republicans slam Biden move to admit 25,000 migrants from Mexico amid border surge fears"
-    excerpt: "Republicans are criticizing the Biden administration’s move to begin admitting 25,000 migrants held in Mexico as part of a Trump-era policy that was a key plank in the former administration’s efforts to end \"catch-and-release.\""
-    publishedDateTime: 2021-02-13T13:53:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/a80J5m1qPr4/republicans-biden-25000-migrants-mexico-border-surge-fears"
-    ampWebUrl: "https://www.foxnews.com/politics/republicans-biden-25000-migrants-mexico-border-surge-fears.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-biden-25000-migrants-mexico-border-surge-fears.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e02b244a-f175-4a58-b166-b6d817ade852/a6f6e95d-56dd-42b2-a08b-b2fd48234bbc/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Biden admin erects tent city in Texas to handle influx of illegal immigrants"
     excerpt: "The Biden administration announced this week that it opened a soft-sided facility for immigrants in Donna, Texas, as Republican lawmakers warn of a “rising crisis” at the U.S.-Mexico border."
     publishedDateTime: 2021-02-11T00:00:00Z

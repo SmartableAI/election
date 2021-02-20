@@ -26,101 +26,181 @@ images:
     isCached: true
 
 related:
-  - title: "Biden says ‘no one in our family’ will be involved in government decisions"
-    excerpt: "President Biden said he intends to keep his family and his administration separate as reports surrounding the business dealings of his son and brother raised questions of potential impropriety."
-    publishedDateTime: 2021-02-03T14:07:19Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Fo13sqIj8mU/biden-says-no-one-in-our-family-involved-government-decisions"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-says-no-one-in-our-family-involved-government-decisions.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-no-one-in-our-family-involved-government-decisions.amp"
+  - title: "Republicans slam Biden's move to drop Iran sanctions push"
+    excerpt: "Republicans are criticizing President Biden’s move to give up on a Trump-era push to reimpose United Nations sanctions on Iran, as the administration takes a warmer tone toward Tehran."
+    publishedDateTime: 2021-02-20T19:13:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/q-59mCMXHkM/republicans-bidens-move-iran-sanctions-push"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-bidens-move-iran-sanctions-push.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-bidens-move-iran-sanctions-push.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 173
+    quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/314f29b6-b9c9-4c05-b3d2-ae7a2ac645a0/68c889cf-b668-4b8c-a9f0-a272442f7d6f/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/73890ca3-5697-4aa9-af7c-57fc0b3d00aa/99dc6f9c-1665-4bbb-9566-91c08c604cd7/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden reportedly warned family about business dealings before election: 'For Christ’s sake, watch yourself’"
-    excerpt: "President Biden, before the presidential election, reportedly told his family to \"watch yourself\" about their business dealings, Politico reported, as their various financial entanglements came under scrutiny."
-    publishedDateTime: 2021-01-29T16:28:30Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ssYWolxvQ3U/biden-reportedly-warned-family-about-business-dealings-before-election-for-christs-sake-watch-yourself"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-reportedly-warned-family-about-business-dealings-before-election-for-christs-sake-watch-yourself.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-reportedly-warned-family-about-business-dealings-before-election-for-christs-sake-watch-yourself.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden says team 'exceeding' goal of 100 million vaccine doses in first 100 days"
-    excerpt: "Biden provided the update as he and Vice President Kamala Harris spoke to Arizona health care officials during a virtual tour of the vaccination site at State Farm Stadium in Glendale."
-    publishedDateTime: 2021-02-08T21:19:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Us2qvKnkpAE/biden-says-team-exceeding-goal-of-100-million-vaccine-doses-in-first-100-days"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-says-team-exceeding-goal-of-100-million-vaccine-doses-in-first-100-days.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-team-exceeding-goal-of-100-million-vaccine-doses-in-first-100-days.amp"
+  - title: "Manchin to oppose Biden OMB pick Neera Tanden over controversial Twitter posts"
+    excerpt: "West Virginia Democrat Sen. Joe Manchin said on Friday that he would oppose President Biden’s nominee to lead the Office of Management and Budget over her Twitter history."
+    publishedDateTime: 2021-02-19T22:52:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/I2naip0Be5E/manchin-oppose-neera-tanden"
+    ampWebUrl: "https://www.foxnews.com/politics/manchin-oppose-neera-tanden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/manchin-oppose-neera-tanden.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 171
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f62f0b17-9ceb-457d-bb9b-5cb174d019e8/7404b95a-227a-479d-b3b6-a2919aee39f5/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d5e4207d-6c8d-49c6-908c-4cc998501216/cc487d03-bd7f-493d-b774-4c8a14a98aa7/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Recall Newsom campaign organizer says Biden’s opposition shows governor knows he’s in trouble"
-    excerpt: "The White House for the first time weighed in this week on the recall campaign to oust California Gov. Gavin Newsom over his handling of the Covid-19 pandemic."
-    publishedDateTime: 2021-02-10T20:36:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hXIQPnG1V1I/recall-newsom-campaign-organizer-bidens-opposition-governor-in-trouble"
-    ampWebUrl: "https://www.foxnews.com/politics/recall-newsom-campaign-organizer-bidens-opposition-governor-in-trouble.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/recall-newsom-campaign-organizer-bidens-opposition-governor-in-trouble.amp"
+  - title: "Iran learning it can threaten Biden to get its way on nuclear talks: Ric Grenell"
+    excerpt: "Iran has already shown it can pressure the Biden administration into granting concessions related to its nuclear weapons program, former Acting Director of National Intelligence Richard Grenell told \"Your World\" Friday."
+    publishedDateTime: 2021-02-19T22:58:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xE8-btjy02c/iran-learning-threaten-biden-way-nuclear-talks-grenell"
+    ampWebUrl: "https://www.foxnews.com/politics/iran-learning-threaten-biden-way-nuclear-talks-grenell.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/iran-learning-threaten-biden-way-nuclear-talks-grenell.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 164
+    quality: 170
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21039862377802-1.jpg?ve=1&tl=1"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dd154628-c42a-42cb-829c-9a04557dc5a5/869775b1-e778-487c-a2ef-b385b0432f76/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Republicans slam Biden move to admit 25,000 migrants from Mexico amid border surge fears"
+    excerpt: "Republicans are criticizing the Biden administration’s move to begin admitting 25,000 migrants held in Mexico as part of a Trump-era policy that was a key plank in the former administration’s efforts to end \"catch-and-release.\""
+    publishedDateTime: 2021-02-13T13:53:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/a80J5m1qPr4/republicans-biden-25000-migrants-mexico-border-surge-fears"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-biden-25000-migrants-mexico-border-surge-fears.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-biden-25000-migrants-mexico-border-surge-fears.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e02b244a-f175-4a58-b166-b6d817ade852/a6f6e95d-56dd-42b2-a08b-b2fd48234bbc/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Fraction of Biden's $128B education relief plan would go toward schools in 2021, CBO estimates"
+    excerpt: "President Biden's COVID-19 relief package would put $128 billion toward helping K-12 public schools deal with the coronavirus pandemic, but the nonpartisan Congressional Budget Office estimates that just $6 billion would flow to schools in 2021."
+    publishedDateTime: 2021-02-16T22:26:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Lo9GaNGcS94/biden-education-relief-2021-cbo-cost-estimate"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-education-relief-2021-cbo-cost-estimate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-education-relief-2021-cbo-cost-estimate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/GettyImages-1229643858.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Teachers unions' political support for Biden paying off as he takes their side in reopening battle"
-    excerpt: "After spending millions to support President Biden and other Democrats in the 2020 election cycle, teachers unions are finding Biden to be a reliable ally."
-    publishedDateTime: 2021-02-03T20:14:48Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eD7KOHhlFyM/teachers-unions-support-biden-reopening-schools-political"
-    ampWebUrl: "https://www.foxnews.com/politics/teachers-unions-support-biden-reopening-schools-political.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/teachers-unions-support-biden-reopening-schools-political.amp"
+  - title: "Gov. DeSantis blasts 'hypocrisy' of Biden's reported domestic travel bans amid immigration orders"
+    excerpt: "Florida Gov. Ron DeSantis called President Biden's reported consideration for domestic travel bans during the coronavirus pandemic amid his immigration executive orders “a huge contradiction.”"
+    publishedDateTime: 2021-02-14T20:31:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pDdJ7r92uaM/desantis-bidens-reported-consideration-for-domestic-travel-bans-amid-immigration-orders-hypocritical"
+    ampWebUrl: "https://www.foxnews.com/politics/desantis-bidens-reported-consideration-for-domestic-travel-bans-amid-immigration-orders-hypocritical.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/desantis-bidens-reported-consideration-for-domestic-travel-bans-amid-immigration-orders-hypocritical.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 161
+    quality: 162
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Joe-Biden-Executive-Orders-AP.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Biden's 'radical left agenda' with no focus on jobs will 'hurt family after family': Scott"
-    excerpt: "President Biden showed that he is merely a \"puppet for the radical left\" after ending the Keystone pipeline project, Sen. Rick Scott, R-Fla., told \"The Faulkner Focus\" on Thursday."
-    publishedDateTime: 2021-01-28T19:21:00Z
-    webUrl: "https://www.foxnews.com/politics/bidens-radical-left-agenda-jobs-hurt-family-scott"
-    ampWebUrl: "https://www.foxnews.com/politics/bidens-radical-left-agenda-jobs-hurt-family-scott.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-radical-left-agenda-jobs-hurt-family-scott.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 125
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "‘It is a scandal’: Former Secretary of Education blasts Biden administration over school closures"
+    excerpt: "Former Secretary of Education Dr. Bill Bennet said Monday \"it is a scandal\" for many major public schools in the U.S. to continue to be shut down under President Joe Biden’s administration."
+    publishedDateTime: 2021-02-15T21:32:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CSXpsGoqjgc/scandal-former-secretary-education-biden-administration-school-reopening-covid-remote-learning"
+    ampWebUrl: "https://www.foxnews.com/politics/scandal-former-secretary-education-biden-administration-school-reopening-covid-remote-learning.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/scandal-former-secretary-education-biden-administration-school-reopening-covid-remote-learning.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2d188969-ee03-4425-9b0f-38e2311976a3/879e3e97-56d8-4f7e-8ad7-534d8e030d84/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden immigration push will 'defeat the dream of Americans to live the American dream': Burgess Owens"
+    excerpt: "The Biden immigration agenda is the latest example of the left pushing policies that harm Black Americans while posing as their allies, Rep. Burgess Owens told \"Tucker Carlson Tonight\" Tuesday."
+    publishedDateTime: 2021-02-17T03:47:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xPMnzkBhWcU/burgess-owens-biden-immigration-push-defeat-middle-class-american-dream"
+    ampWebUrl: "https://www.foxnews.com/politics/burgess-owens-biden-immigration-push-defeat-middle-class-american-dream.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/burgess-owens-biden-immigration-push-defeat-middle-class-american-dream.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3c304f65-5ab7-4479-956c-7e98494b3a80/f388db24-0b09-46dd-9026-61c04741124e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "DeSantis cites hypocrisy of Biden's reported domestic travel bans amid immigration orders: LIVE UPDATES"
+    excerpt: "Florida Gov. Ron DeSantis called President Biden's reported consideration of domestic travel bans during the coronavirus pandemic amid signing immigration executive orders \"a huge contradiction.\""
+    publishedDateTime: 2021-02-15T08:55:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6eZgSouoGCk/biden-live-updates-2-15-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-live-updates-2-15-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-live-updates-2-15-2021.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/acf50ad6-1b0a-4fb3-a73b-98e36eaf1c0f/ed36a3fd-1c83-4e36-b28d-2c34f7cd93a1/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden White House's planned $200M WHO payment slammed by Republicans: 'Their credibility has been tarnished'"
+    excerpt: "Republicans hit the White House’s plan to shell out $200 million to the World Health Organization (WHO) by the end of the month, arguing the organization should first take steps to commit to greater transparency.  "
+    publishedDateTime: 2021-02-18T19:16:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rm4CgY6c5zQ/republicans-slam-biden-white-house-who-payment"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-slam-biden-white-house-who-payment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-slam-biden-white-house-who-payment.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b509c58d-cd7c-4c3e-ad52-badc066167de/7a8a83b5-9b0c-4f02-973a-5c2dcebf170b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Dems to introduce Biden-backed immigration bill, includes citizenship path for millions of illegal immigrants"
+    excerpt: "Congressional Democrats on Thursday will unveil a sweeping immigration bill, backed by President Biden, that includes a path to citizenship for millions of illegal immigrants -- although the plan faces tough odds in the Senate."
+    publishedDateTime: 2021-02-18T13:35:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_6If0yJSWC0/dems-biden-immigration-bill-citizenship-path-illegal-immigrants"
+    ampWebUrl: "https://www.foxnews.com/politics/dems-biden-immigration-bill-citizenship-path-illegal-immigrants.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dems-biden-immigration-bill-citizenship-path-illegal-immigrants.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3c304f65-5ab7-4479-956c-7e98494b3a80/f388db24-0b09-46dd-9026-61c04741124e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "ZcOfK3udivU+ITnvIcF+coGM8IWzBj/SrItUSDDWcMAcxRc7RKgDiUbXoO4pcwiEsidZdNGOSGA9lSsH+hvwtWzCTadUrVXoyjeiw7XJK4YuKIji5ROij7zG8dP7FkOGJtL1tu9VaxzgXEWisxeUpA3+SuL+7MlD4HmuDk1LfbUleFLqWIf6bULL2HCjw6BT8U1EYDLUrgtZwZ/frIKE0vJSVS/Xb1PRS+MtsMzKJrUtVmmiTOXcAgOOxQxHorwGwMvMaZGWYbtkqhGs6gZQgxK/zB4z7sooJs15hez3t9u0EyG+OGEguS0WeIZhzsnfNCmtwSLVOGHNTjtu2+EJAEOzQ+n1qVygoC7zqaOLa3EG7WgfKp15MN7zdDOCzTYhYsMlpamE9Af6Eky619nIyf/n5soWg3MTplc9JYEoZ3fSo+0gMxY1VYQjfRmFlsns158ce4zPD0cFIiZGEEjztKo00HMA+aa5arj2btY3k7afA94h9z0Np6U57VU1LpwvwGMfyOBQ1oIgn9PfRrgUzA==;JCFW05at4vQLLsM2EEWiFQ=="
