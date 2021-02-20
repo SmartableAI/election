@@ -2,6 +2,58 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-01-29-the-perfect-target-russia-cultivated-trump-as-asset-for-40-years-ex-kgb-spy.md",
+      "title": "‘The perfect target’: Russia cultivated Trump as asset for 40 years – ex-KGB spy",
+      "excerpt": "The KGB ‘played the game as if they were immensely impressed by his personality’, Yuri Shvets, a key source for a new book, tells the Guardian",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/jan/29/trump-russia-asset-claims-former-kgb-spy-new-book",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/jan/29/trump-russia-asset-claims-former-kgb-spy-new-book",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/7053743fe13e652fe4d75758b94a846af0f8b57f/0_292_4500_2700/master/4500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=951abe3bec7ba0b1b9e5eb33985c7672",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jan/29/trump-russia-asset-claims-former-kgb-spy-new-book",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/29/trump-russia-asset-claims-former-kgb-spy-new-book",
+      "publishedDateTime": "2021-01-29T03:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-29-trump-just-used-us-and-our-fear-one-womans-journey-out-of-qanon.md",
       "title": "‘Trump Just Used Us and Our Fear’: One Woman’s Journey Out of QAnon",
       "excerpt": "During the political fallout after four years of Donald J. Trump, one question is what will happen with the followers of conspiracy theories that bend Americans’ perceptions of reality.",
@@ -1291,63 +1343,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-biden-wont-budge-on-the-senate-filibuster-why-arent-progressives-pushing-him.md",
-      "title": "Biden Won’t Budge on the Senate Filibuster. Why Aren’t Progressives Pushing Him?",
-      "excerpt": "The president doesn’t want to eliminate the Senate’s 60-vote threshold, an impediment to major legislation. Left-leaning Democrats disagree, but they’re holding their fire for now.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/01/27/us/politics/biden-filibuster.html",
-      "originalUrl": "https://www.nytimes.com/2021/01/27/us/politics/biden-filibuster.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/02/21/us/politics/21progressives-filibuster1/21progressives-filibuster1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/01/27/us/politics/biden-filibuster.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/27/us/politics/biden-filibuster.amp.html",
-      "publishedDateTime": "2021-01-27T14:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     }
   ],

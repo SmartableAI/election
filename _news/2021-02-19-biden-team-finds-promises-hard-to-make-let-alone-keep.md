@@ -191,6 +191,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Sen. Manchin opposes Neera Tanden as Biden's budget chief, imperiling nomination"
+    excerpt: "The Democrat's opposition is a significant blow to her prospects of confirmation to head the Office of Management and Budget"
+    publishedDateTime: 2021-02-20T06:23:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/joe-manchin-comes-out-against-neera-tanden-biden-s-omb-n1258387"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1258387"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1258387"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_07/3451367/210219-joe-manchin-ew-412p_28f75b929bc229001afc3e348fb12d4a.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "6XvXUUVFI8DSo09G/0IaRvzx05B5YkRSm9J/A2G20Hwk0//w8zLIgVkp3AXS8OcUDCcGlBgytBEwsbpfuVUT6WfdrDlH94u/rN+EWWScSLUhInosmYIimubOXdyK9EpncEDUYkrVWAdqQikpuf2xcTsoaQtecOdk3tbQEglxZjYejWLrwnbFwqMZTaQ96dH+JcxGsO84ogMOOJCuO3R91GvpsiTLTUTOpGoyRzixC8RSetyWrcreCGWqThZxx2B8swq5JjnwLuDqU6tPny2vh7WreZcawSYKfR4+8ix4dDcKyFSH8bPM3hsjwkkO0nsgBRQ/DTInz7I2wOq7myN79AwogV35QWeDUtPdIAJAWwc=;3wQXwHL9QfZT6jJNttpR8Q=="
 ---

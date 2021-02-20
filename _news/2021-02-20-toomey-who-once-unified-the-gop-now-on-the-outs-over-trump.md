@@ -1,34 +1,28 @@
 ---
 category: news
 title: "Toomey, who once unified the GOP, now on the outs over Trump"
-excerpt: "Before he became the object of fury of Republicans for voting to convict Donald Trump during the former president’s second impeachment trial, U.S. Sen. Pat Toomey of Pennsylvania was once the insurgen"
-publishedDateTime: 2021-02-19T21:51:00Z
-originalUrl: "https://www.washingtonpost.com/national/toomey-who-once-unified-the-gop-now-on-the-outs-over-trump/2021/02/19/b39874a8-72d2-11eb-8651-6d3091eac63f_story.html"
-webUrl: "https://www.washingtonpost.com/national/toomey-who-once-unified-the-gop-now-on-the-outs-over-trump/2021/02/19/b39874a8-72d2-11eb-8651-6d3091eac63f_story.html"
-ampWebUrl: "https://www.washingtonpost.com/national/toomey-who-once-unified-the-gop-now-on-the-outs-over-trump/2021/02/19/b39874a8-72d2-11eb-8651-6d3091eac63f_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/toomey-who-once-unified-the-gop-now-on-the-outs-over-trump/2021/02/19/b39874a8-72d2-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+excerpt: "Before he became the object of fury of Republicans for voting to convict Donald Trump during the former president’s second impeachment trial, U.S. Sen. Pat Toomey of Pennsylvania was once the insurgent from the right."
+publishedDateTime: 2021-02-19T22:51:00Z
+originalUrl: "https://www.businessinsider.com/toomey-who-once-unified-the-gop-now-on-the-outs-over-trump-2021-2"
+webUrl: "https://www.businessinsider.com/toomey-who-once-unified-the-gop-now-on-the-outs-over-trump-2021-2"
+ampWebUrl: "https://www.businessinsider.com/toomey-who-once-unified-the-gop-now-on-the-outs-over-trump-2021-2?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/toomey-who-once-unified-the-gop-now-on-the-outs-over-trump-2021-2?amp"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
-    isCached: true
 
 related:
   - title: "Trump triumphant – but senior Republicans still see battles ahead"
@@ -405,6 +399,6 @@ related:
         height: 455
         isCached: true
 
-secured: "U6AGmdP5tohP9PzP2BYhIq2QVWqqFglwDHzMU9acIoivR/MVzp5KrtYHBRjYQ6U6Szj3HjMwXT8Cx5KcuTgV+trQjqCDX4BgpJwQh7xzc3sPtVJoa0a7BTYe3LoKioYTn68SjUR8C/uwJf6fnmoMWRRRlkOdI9nERCzmhfGnuCtxf7w3CgWVBokim1Gzu7p2FvS5YtWjzsyoJSvGd/8q/WQbD8XbcSpmcUeYVFAOAl0g8VNyaKuRS3SMwLAdQmsYEYt5EL5MRFK0YN89IOfjGd+re2rlyTpbTAFHieMQn21q5OaiSLlgvnC777yGhsrJv5tuVXUxsoJotjZ6FoH/JFXbjxVw19IsQDBpoeKTykA=;vq6YDvOYvcMoGeaSezUzJw=="
+secured: "zV4Ow1VKNmN3g+kMpjiKo2NQI3o5982ykwLgrJtxWyOn75nBokC8FuPsZxtnR94hVzDFdPProCZSbK5FiOP1YwdFQKQr/2xE8+Bs7NBoKKJEiToJjMykMkvZKjq5e3i1h7CmV/ajoZs73g9G9QXIgwHXMNsQVSAPl45ym/3bswbXiA/ljEjOeDVoctxiIuB9kFyuBekPs/mwuGVNcaumfT6ZVP+zI6ooR2SboJ2npgm/uYWykvty6XDYRsyqrwdpD+HPLYuBUIYVudTcotVUMk1GvM3Yk0l+K1fsjqUJ0suT8h2ODeAM2zxyjTIFQEqg00CFKK5Ad1r09yTzaqTo0bNGt1CRKzaotrBKNzYn5lE=;5g23PkX9TW+ENd8F7GXz5g=="
 ---
 

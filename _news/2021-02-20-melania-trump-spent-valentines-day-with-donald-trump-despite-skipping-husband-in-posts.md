@@ -1,20 +1,22 @@
 ---
 category: news
-title: "In Seconds, Atlantic City's Trump Plaza Hotel And Casino Is Reduced To Rubble"
-excerpt: "The Trump Plaza had stood along the boardwalk since 1984. The shell of the former president's failed business, which closed in 2014, came crumbling down Wednesday morning."
-publishedDateTime: 2021-02-18T02:37:00Z
-originalUrl: "https://www.npr.org/2021/02/17/968656595/in-seconds-atlantic-citys-trump-plaza-and-casino-is-reduced-to-rubble"
-webUrl: "https://www.npr.org/2021/02/17/968656595/in-seconds-atlantic-citys-trump-plaza-and-casino-is-reduced-to-rubble"
+title: "Melania Trump Spent Valentine’s Day With Donald Trump Despite Skipping Husband In Posts"
+excerpt: "Melania Trump may not have posted a Valentine's Day tribute for husband Donald Trump, but the couple apparently celebrated the occasion together. On Sunday, Trump and Melania pose"
+publishedDateTime: 2021-02-20T06:04:00Z
+originalUrl: "https://www.ibtimes.com/melania-trump-spent-valentines-day-donald-trump-despite-skipping-husband-posts-3148882"
+webUrl: "https://www.ibtimes.com/melania-trump-spent-valentines-day-donald-trump-despite-skipping-husband-posts-3148882"
+ampWebUrl: "https://www.ibtimes.com/melania-trump-spent-valentines-day-donald-trump-despite-skipping-husband-posts-3148882?amp=1"
+cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trump-spent-valentines-day-donald-trump-despite-skipping-husband-posts-3148882?amp=1"
 type: article
-quality: 102
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: NPR
-  domain: npr.org
+  name: International Business Times
+  domain: ibtimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/npr.org-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://media.npr.org/assets/img/2021/02/17/ap_21048535426936_wide-afb44df801b20b7121060c26f5723828e441d155.jpg?s=1400"
-    width: 1400
-    height: 786
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/24/donald-trump-melania-trump.jpg"
+    width: 1024
+    height: 683
     isCached: true
 
 related:
@@ -77,23 +79,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Melania Trump Spent Valentine’s Day With Donald Trump Despite Skipping Husband In Posts"
-    excerpt: "Melania Trump may not have posted a Valentine's Day tribute for husband Donald Trump, but the couple apparently celebrated the occasion together. On Sunday, Trump and Melania pose"
-    publishedDateTime: 2021-02-20T06:04:00Z
-    webUrl: "https://www.ibtimes.com/melania-trump-spent-valentines-day-donald-trump-despite-skipping-husband-posts-3148882"
-    ampWebUrl: "https://www.ibtimes.com/melania-trump-spent-valentines-day-donald-trump-despite-skipping-husband-posts-3148882?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trump-spent-valentines-day-donald-trump-despite-skipping-husband-posts-3148882?amp=1"
+  - title: "In Seconds, Atlantic City's Trump Plaza Hotel And Casino Is Reduced To Rubble"
+    excerpt: "The Trump Plaza had stood along the boardwalk since 1984. The shell of the former president's failed business, which closed in 2014, came crumbling down Wednesday morning."
+    publishedDateTime: 2021-02-18T02:37:00Z
+    webUrl: "https://www.npr.org/2021/02/17/968656595/in-seconds-atlantic-citys-trump-plaza-and-casino-is-reduced-to-rubble"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 67
+      name: NPR
+      domain: npr.org
+    quality: 102
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/24/donald-trump-melania-trump.jpg"
-        width: 1024
-        height: 683
+      - url: "https://media.npr.org/assets/img/2021/02/17/ap_21048535426936_wide-afb44df801b20b7121060c26f5723828e441d155.jpg?s=1400"
+        width: 1400
+        height: 786
         isCached: true
 
-secured: "EieDXXwE8B+8KP+sz3dlR212lioit0zV3/l5NDVbxyjZTfy5n0sgR0VAAQdKjd9+vprK+wTcOtvPcLlsOqacmi58P4D03atwNOXd6l3y4/U3VcpzNJF4PwAAduc4S40qXa6d1pf3NKWGXR9OVCYhCwFq7QMans6IeaazJ4aduTGbWndClyMrEMdpB3uXHqAz0lmnW8lxURydGh5J+0A1JnNhiCv5sJfoMvdgwKAlFsx5LUpBgJ4Rko3AnSA9Irl4TGcWGfiXR8DdPB+63upU1i8mLWiNPFYju/MkBQvLU+k1RFJRg2LFogGjyMWpvhcKIB3tW9p3CkPTNaio3srhw06o791ny/uQ4G5JYlXhDMg=;+Q8yo+7KCXh94P8RFGSdeg=="
+secured: "HftOlqVtTmr7DbeqnFCBhHX8ncafB5IotXqOf0zDrg8S/tzarXmsvhTlskrqxacLytvk/htb5+qFQg83RzEy6qufuHymqHDO4h+dzmWdK7HJFbbMu6lO/g3dBhSB+7wn51nRVVP/p4gE+0VOgbxLS04qwfUQeWBZWVbQHYkMdycxm33YrOgqtpPXT3r+OkdhzP7HGP89ENfyYemb7NSGkuZ6/DvU7CLVS/fA6fbf1tQFU44e0uo4Qx1wq5t8ajvKkKKsrdYNFPRCeeT60C3gLp+Qcn4WFhNb+gx9iSeMb0CUG+RHpSiZ5k6iNwYAKSaBILarQMyRdpXbfvpklAuZvGgE477TNpE0Fr77WdD4/EA=;IJwpnwXpxyP8RL3qY6ko7Q=="
 ---
 

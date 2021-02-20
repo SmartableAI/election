@@ -77,6 +77,22 @@ related:
         width: 1400
         height: 786
         isCached: true
+  - title: "Melania Trump Spent Valentine’s Day With Donald Trump Despite Skipping Husband In Posts"
+    excerpt: "Melania Trump may not have posted a Valentine's Day tribute for husband Donald Trump, but the couple apparently celebrated the occasion together. On Sunday, Trump and Melania pose"
+    publishedDateTime: 2021-02-20T06:04:00Z
+    webUrl: "https://www.ibtimes.com/melania-trump-spent-valentines-day-donald-trump-despite-skipping-husband-posts-3148882"
+    ampWebUrl: "https://www.ibtimes.com/melania-trump-spent-valentines-day-donald-trump-despite-skipping-husband-posts-3148882?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trump-spent-valentines-day-donald-trump-despite-skipping-husband-posts-3148882?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 67
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/24/donald-trump-melania-trump.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "NQu/VgYLFkjrhmrIZ+xhBhpx6D78zAAPtCVSBizBYRpUoin0L7IpK1q5zptnURZFkC/NqjzpyCFzaXom9TbwKvc55GKGLUlL8u5DK2n5wgY4lZknb0sHn2EXrLF1JVF5Kxwz93WSV7BK4sol4qzuUQFNotPEX0MhL0fYuO+fxP34hQq5ONPdmSqGlPA2fbOmEzxWckFgyFR1/nMKqNTM/nuzLmLq9lThYfcapkaQ9SxboMMzsgXILgP3nxOOwQwHKpVJYyiuZ7Pmr59uTNHJmoqKEijZV10jrbELhZ7FTs0HScEdJ538ojJEw+X0OHgv0BBQxq2bVjlsH35UH+tIxeY8+u3OhTXSOUMak0yG1Ys=;w73WRRISRtuBxYPgR+rGSw=="
 ---

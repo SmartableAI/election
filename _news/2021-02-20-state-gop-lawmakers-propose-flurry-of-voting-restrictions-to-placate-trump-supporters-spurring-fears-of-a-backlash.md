@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Utah GOP accepts Romney's vote to convict Trump"
-excerpt: "Utah's Republican Party on Tuesday accepted Sen. Mitt Romney's vote to convict former President Donald Trump, saying there is \"power\" in difference of opinions."
-publishedDateTime: 2021-02-16T18:44:00Z
-originalUrl: "https://abcnews.go.com/Politics/utah-gop-accepts-romneys-vote-convict-trump/story?id=75925858"
-webUrl: "https://abcnews.go.com/Politics/utah-gop-accepts-romneys-vote-convict-trump/story?id=75925858"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/utah-gop-accepts-romneys-vote-convict-trump/story?id=75925858"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/utah-gop-accepts-romneys-vote-convict-trump/story?id=75925858"
+title: "State GOP lawmakers propose flurry of voting restrictions to placate Trump supporters, spurring fears of a backlash"
+excerpt: "The effort is dividing Republicans, some of whom are trying to head off the measures to prevent being labeled the party of voter suppression."
+publishedDateTime: 2021-02-20T06:36:00Z
+originalUrl: "https://www.washingtonpost.com/politics/gop-voting-restrictions/2021/02/19/d1fab224-72ca-11eb-85fa-e0ccb3660358_story.html"
+webUrl: "https://www.washingtonpost.com/politics/gop-voting-restrictions/2021/02/19/d1fab224-72ca-11eb-85fa-e0ccb3660358_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/gop-voting-restrictions/2021/02/19/d1fab224-72ca-11eb-85fa-e0ccb3660358_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/gop-voting-restrictions/2021/02/19/d1fab224-72ca-11eb-85fa-e0ccb3660358_story.html?outputType=amp"
 type: article
-quality: 125
+quality: 103
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/romney-impeachment-5-ap-ps-210213_1613251011089_hpMain_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UTJS2GBMHUI6XHBBHTCQDUEYD4.jpg&w=1440"
+    width: 1440
+    height: 960
     isCached: true
 
 related:
@@ -44,6 +44,22 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/Politics/burr-impeachment-5-ap-ps-210213_1613251643612_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Utah GOP accepts Romney's vote to convict Trump"
+    excerpt: "Utah's Republican Party on Tuesday accepted Sen. Mitt Romney's vote to convict former President Donald Trump, saying there is \"power\" in difference of opinions."
+    publishedDateTime: 2021-02-16T18:44:00Z
+    webUrl: "https://abcnews.go.com/Politics/utah-gop-accepts-romneys-vote-convict-trump/story?id=75925858"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/utah-gop-accepts-romneys-vote-convict-trump/story?id=75925858"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/utah-gop-accepts-romneys-vote-convict-trump/story?id=75925858"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/romney-impeachment-5-ap-ps-210213_1613251011089_hpMain_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
@@ -127,22 +143,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "State GOP lawmakers propose flurry of voting restrictions to placate Trump supporters, spurring fears of a backlash"
-    excerpt: "The effort is dividing Republicans, some of whom are trying to head off the measures to prevent being labeled the party of voter suppression."
-    publishedDateTime: 2021-02-20T06:36:00Z
-    webUrl: "https://www.washingtonpost.com/politics/gop-voting-restrictions/2021/02/19/d1fab224-72ca-11eb-85fa-e0ccb3660358_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/gop-voting-restrictions/2021/02/19/d1fab224-72ca-11eb-85fa-e0ccb3660358_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/gop-voting-restrictions/2021/02/19/d1fab224-72ca-11eb-85fa-e0ccb3660358_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 103
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UTJS2GBMHUI6XHBBHTCQDUEYD4.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Sen. Ben Sasse: GOP Must Persuade Voters It Has A Vision Beyond Donald Trump"
     excerpt: "The Republican from Nebraska speaks with NPR's Steve Inskeep about the impeachment of former President Donald Trump, the future of the GOP and working with the Biden administration."
     publishedDateTime: 2021-02-16T19:03:00Z
@@ -201,6 +201,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "mnr0k6S1IOT7h15qlBCcDKn0CZcNUhWaEX322PZwQaDVDcmbx2sMVvIZWtFW20but2xk0b7jSfjGErWp+/x8FXoxadd55EG7HaC70+X356nlkmniCdUjNwM81Xz43Y+oNIB4AyJPvYpwMDfWoQAtR/UV96kDJBMcLaCKkVaHB571DyxBxxwBfhJSioCk1wbaS9WkKW35dhT2c6rGyciFIV3hGGrAyiY+N0lJmtbwUgr1/qnQw4L1ZuDFFMIGuH5YPSdv9Dj2JPq0Wgji61bSTYKOiQEEUvaaGZ1u2puoKsSxZhNPMqOio9M0n/ePny0+edCB/VxR8Aikwo94OTP+vZHmlmsCZ29GZ1vs5Ptg+16korHr5Uo9y36RYgLsrFWVcy11vYMQI8cRaocfVCGpgnfqxzOm7RywQh68vMbgPvMomKNJpNfQERHbna3Wu0sr/18UJdi2PUyCUZ/2ez/4mNvq6bMAJ89j2XYv3qeQggkaQqHd+CoJju1VZWdhCWRmn7OrRDLe99JOCOqO7cm0cg==;A/ePXTx7m8Jz2L4v0lVaGQ=="
+secured: "XTIGCxNbqZcfnFciWSDK04IvurPoeqkt0SS6Os6SQth4PsEL/hGx7UkSoKDY38/+zouTFOhPxcf7/HdugzUdxJZx9NdJ7yV8iBGmUdNGOGwMOWKiZ1d3AFRbkkVgILXxAVldCwdB/pEw04yBKwMpZqjUKoFhNnK9f26i1CpQEc9CHujK6GojV8nOexTY+fB+C/zfthFo7i/iM6HJy5lLNy0b6aJsx6KW6EUsOxqw3LUMfrPJJ9o/elp0Xs0fYjuYH3wPzDCYJnddMhbjJKoSRenRKkb7DzdbQT2yCGW+2MmGRVI2MzDjmDfTZLMoGM6SNGCGt4cGqIyCRDbRd2DuQl6mPY7Sz4N6oR0x2tlnsAM=;sEEBskmzphERlHsNSu+6Tg=="
 ---
 

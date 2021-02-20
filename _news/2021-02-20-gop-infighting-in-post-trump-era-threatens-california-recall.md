@@ -1,28 +1,34 @@
 ---
 category: news
-title: "GOP Infighting in Post-Trump Era Threatens California Recall"
-excerpt: "Republican hopes of ousting Democratic Gov. Gavin Newsom in California could be threatened by bitter infighting within the state GOP."
-publishedDateTime: 2021-02-20T01:09:00Z
-originalUrl: "https://www.usnews.com/news/politics/articles/2021-02-19/republican-infighting-rattles-bid-to-oust-democrat-newsom"
-webUrl: "https://www.usnews.com/news/politics/articles/2021-02-19/republican-infighting-rattles-bid-to-oust-democrat-newsom"
-ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-19/republican-infighting-rattles-bid-to-oust-democrat-newsom?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-19/republican-infighting-rattles-bid-to-oust-democrat-newsom?context=amp"
+title: "GOP infighting in post-Trump era threatens California recall"
+excerpt: "Republican hopes of ousting Democratic Gov. Gavin Newsom in California could be threatened by bitter infighting within the state GOP"
+publishedDateTime: 2021-02-20T05:57:00Z
+originalUrl: "https://www.washingtonpost.com/national/gop-infighting-in-post-trump-era-threatens-california-recall/2021/02/19/9a689474-7316-11eb-8651-6d3091eac63f_story.html"
+webUrl: "https://www.washingtonpost.com/national/gop-infighting-in-post-trump-era-threatens-california-recall/2021/02/19/9a689474-7316-11eb-8651-6d3091eac63f_story.html"
+ampWebUrl: "https://www.washingtonpost.com/national/gop-infighting-in-post-trump-era-threatens-california-recall/2021/02/19/9a689474-7316-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/gop-infighting-in-post-trump-era-threatens-california-recall/2021/02/19/9a689474-7316-11eb-8651-6d3091eac63f_story.html?outputType=amp"
 type: article
-quality: 55
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
+    isCached: true
 
 related:
   - title: "GOP Sen. Richard Burr facing censure at home over vote to convict Trump"
@@ -121,6 +127,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "State GOP lawmakers propose flurry of voting restrictions to placate Trump supporters, spurring fears of a backlash"
+    excerpt: "The effort is dividing Republicans, some of whom are trying to head off the measures to prevent being labeled the party of voter suppression."
+    publishedDateTime: 2021-02-20T06:36:00Z
+    webUrl: "https://www.washingtonpost.com/politics/gop-voting-restrictions/2021/02/19/d1fab224-72ca-11eb-85fa-e0ccb3660358_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/gop-voting-restrictions/2021/02/19/d1fab224-72ca-11eb-85fa-e0ccb3660358_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/gop-voting-restrictions/2021/02/19/d1fab224-72ca-11eb-85fa-e0ccb3660358_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 103
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UTJS2GBMHUI6XHBBHTCQDUEYD4.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Sen. Ben Sasse: GOP Must Persuade Voters It Has A Vision Beyond Donald Trump"
     excerpt: "The Republican from Nebraska speaks with NPR's Steve Inskeep about the impeachment of former President Donald Trump, the future of the GOP and working with the Biden administration."
     publishedDateTime: 2021-02-16T19:03:00Z
@@ -179,6 +201,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "kYBq288MDzd8wtmwNdky9eMVnhzDkEvea2mydp/g7DkqlurOVQxMthnEdk/Z9tO41FgZvpy5XIaQwYUWncVvfRofhZ4s+HkfXfT7QWH6E6Nh0XGvDQJRRvflQFAsNDyDmnNrC69sVejxU5ekbFSUA0lNiHa5EWqV748wnC4uq21tG1I331wD9FWwhuCkvz36bGUhm/CAE03ffkkjtYveUF5thZbR973HBOPluFwJOSpQ4KhXlPPC45XQi99JTgPBCzYQizMAnJV9ooQpEhSXL6zT/rlY1HxzR5ERXUUZJKlYZXymjeNCn8HjrMuZe3qbcPq8vdyWsmIN0VONYo23ezd31BelcabN6ABVBu3EfRF3oConQE/gp/XwByWmS6jsj7FSuqoIJ9r1RQXwUfC+9aQ/7LA7D8Ai1BvHoFgelzbiG5u3T4SF4Ff6ZYTJYaGYeDKSvE1vN9+yr6P0kV8MM0olHzk+oa7ExKdbLiA1co5+OOQjXhwN7iYxxAStYWDYT+eIrNvq8zsjpZyzyrQDQg==;OH8Gba8Pudw0t86SxBxj7g=="
+secured: "ZYHx6aPD1lo/EKmdxUHZansnB/ACBEfyXqJfKoqQJ+bk1lYy2mB7k26ZS12GspAYTLqWDlgFJSb4NIiZLx6dVejSrkx7/ICfjy61CGWIJx3eVR2sl/v2gT2BO4HOunXK93Xepcw3CBus4mXesxlbG/x9Rv4sO3XTLR9PQ1zcHr/5eEekodhSJrI3BWvBHN77DvPhcn+7fv8wZBYUiPO3eeHNESbxR5PZ0Oh50v/kJcTlZZkUZ7IXnXbAA3HuyxWcnuWkbF8FxmRW02J3uBfDO0nV+dyqEharrzp8z8xwPvhOb/mYe5LWSnuzh8XKRe0hGdtrTM72s9uEJHJAVoD4e6j7I0jaDZaHsIML7N3RiV8=;fDdAFMCnMzW/cr9sHKhZxA=="
 ---
 

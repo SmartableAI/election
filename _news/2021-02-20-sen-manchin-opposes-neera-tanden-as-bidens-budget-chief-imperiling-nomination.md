@@ -1,36 +1,53 @@
 ---
 category: news
-title: "Biden administration says it intends to close Guantanamo prison"
-excerpt: "The Biden administration intends to close the Guantánamo Bay detention facility, which houses approximately 40 prisoners, by the end of their term.\n    \n"
-publishedDateTime: 2021-02-12T22:50:03Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mjw4ktxJBJE/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mjw4ktxJBJE/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/02/12/politics/biden-guantanamo-bay/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/12/politics/biden-guantanamo-bay/index.html"
+title: "Sen. Manchin opposes Neera Tanden as Biden's budget chief, imperiling nomination"
+excerpt: "The Democrat's opposition is a significant blow to her prospects of confirmation to head the Office of Management and Budget"
+publishedDateTime: 2021-02-20T06:23:00Z
+originalUrl: "https://www.nbcnews.com/politics/white-house/joe-manchin-comes-out-against-neera-tanden-biden-s-omb-n1258387"
+webUrl: "https://www.nbcnews.com/politics/white-house/joe-manchin-comes-out-against-neera-tanden-biden-s-omb-n1258387"
+ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1258387"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1258387"
 type: article
-quality: 175
-heat: 395
-published: true
+quality: 130
+heat: -1
+published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: NBC News
+  domain: nbcnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/190306104052-guantanamo-bay-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://media4.s-nbcnews.com/i/newscms/2021_07/3451367/210219-joe-manchin-ew-412p_28f75b929bc229001afc3e348fb12d4a.jpg"
+    width: 2500
+    height: 1667
     isCached: true
 
 related:
+  - title: "Biden administration says it intends to close Guantanamo prison"
+    excerpt: "The Biden administration intends to close the Guantánamo Bay detention facility, which houses approximately 40 prisoners, by the end of their term.\n    \n"
+    publishedDateTime: 2021-02-12T22:50:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mjw4ktxJBJE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/12/politics/biden-guantanamo-bay/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/12/politics/biden-guantanamo-bay/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190306104052-guantanamo-bay-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden team finds promises hard to make -- let alone keep"
     excerpt: "Speaking on television last week, Dr. Anthony Fauci predicted April would be \"open season\" for receiving the coronavirus vaccine, welcome news for a nation entering its second year under pandemic-forced lockdowns and ever-lingering fear of disease.\n    \n"
     publishedDateTime: 2021-02-19T14:47:36Z
@@ -191,23 +208,7 @@ related:
         width: 1050
         height: 549
         isCached: true
-  - title: "Sen. Manchin opposes Neera Tanden as Biden's budget chief, imperiling nomination"
-    excerpt: "The Democrat's opposition is a significant blow to her prospects of confirmation to head the Office of Management and Budget"
-    publishedDateTime: 2021-02-20T06:23:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/joe-manchin-comes-out-against-neera-tanden-biden-s-omb-n1258387"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1258387"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1258387"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 130
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2021_07/3451367/210219-joe-manchin-ew-412p_28f75b929bc229001afc3e348fb12d4a.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
 
-secured: "oJN0+KulzhgVxHliQkHvbzvODBcLAoj1i4TbpGh64mltq3x2VDyhCADvTipaFhIbtZbExjwBpLukuWPLi0oz84pN6D5cwSOUCDmAxcOLjECwLY6MENO2C+WyjmPSy9yPcj6ZHoIM/Tan55dE2Se+mKbCcOajLAJM7Wf+aD2K09BDhMYbB2Wy9iHb3bsWphDt+diF9SCy5/ogMXoO/DkfjfRJrljnr6LFYVfhYO8bVijsRSXQWNxoDdb9vUHibdOhMejOhDs5BuZZKN2hT+waTV16LVaxRPTgvub4apfOxXzW0zOVB+Hh8r7W8MxJgRPP2cSSIeK1yzhPqXE2bQ0E3e94KbjP6+lnBlOcBo+TJYk=;OMa05a7t3T8XgtdA6n01vQ=="
+secured: "zZg6jtVZSi3zxNht8HpmC4/wf67PBWuPrhh9BSkBUZvt0B78ZJQaYLuB0ZMhRtTaAim+5AqhkiH8IZGEmxGhFhKrVtXz5pOP59IjG2YcSteg3Ni9TFT7JAOtQJxdZhUqEaPJFKAJGlTcM5GznNt8scY5E2I3uSK8ijP7wUlJ45CDg6Jmuga+m1l8knCDkFYRHqBThczno8oa2VkmaY6xbESrW7vOx4qqHyQym6BaX80BTtsRfdQI6/Ba/Xhrqleo2u37Zs39Vl3nU6d1C1GDxxXzdA9IiyLIlKVMZhW0v7uG7fLCvkNWQv2ckpjGLsLe3XVdVH3ObhuO/8joCQZ4hya4TmBgyiUI55SBUY64Vtw=;IWY2yoD7AL3VH5FZMRmhBg=="
 ---
 

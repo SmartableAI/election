@@ -79,6 +79,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "GOP infighting in post-Trump era threatens California recall"
+    excerpt: "Republican hopes of ousting Democratic Gov. Gavin Newsom in California could be threatened by bitter infighting within the state GOP"
+    publishedDateTime: 2021-02-20T05:57:00Z
+    webUrl: "https://www.washingtonpost.com/national/gop-infighting-in-post-trump-era-threatens-california-recall/2021/02/19/9a689474-7316-11eb-8651-6d3091eac63f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/gop-infighting-in-post-trump-era-threatens-california-recall/2021/02/19/9a689474-7316-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/gop-infighting-in-post-trump-era-threatens-california-recall/2021/02/19/9a689474-7316-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Trump-McConnell clash threatens to settle into a cold war as GOP eyes midterms"
     excerpt: "Republicans said the veteran Senate leader is unlikely to carry on in a back-and-forth with the former president. However, it’s unclear how far Trump will pursue his vendetta."
     publishedDateTime: 2021-02-18T05:41:00Z
@@ -110,6 +126,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/02/13/USAT/23a2d96f-3584-498c-9691-06a03f4f38d8-AP21044789087213.jpg?auto=webp&crop=3193,1797,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "State GOP lawmakers propose flurry of voting restrictions to placate Trump supporters, spurring fears of a backlash"
+    excerpt: "The effort is dividing Republicans, some of whom are trying to head off the measures to prevent being labeled the party of voter suppression."
+    publishedDateTime: 2021-02-20T06:36:00Z
+    webUrl: "https://www.washingtonpost.com/politics/gop-voting-restrictions/2021/02/19/d1fab224-72ca-11eb-85fa-e0ccb3660358_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/gop-voting-restrictions/2021/02/19/d1fab224-72ca-11eb-85fa-e0ccb3660358_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/gop-voting-restrictions/2021/02/19/d1fab224-72ca-11eb-85fa-e0ccb3660358_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 103
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UTJS2GBMHUI6XHBBHTCQDUEYD4.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Sen. Ben Sasse: GOP Must Persuade Voters It Has A Vision Beyond Donald Trump"
     excerpt: "The Republican from Nebraska speaks with NPR's Steve Inskeep about the impeachment of former President Donald Trump, the future of the GOP and working with the Biden administration."
@@ -163,17 +195,6 @@ related:
     webUrl: "https://www.usnews.com/news/politics/articles/2021-02-16/trump-slams-mcconnell-as-gop-divide-deepens-post-impeachment"
     ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-16/trump-slams-mcconnell-as-gop-divide-deepens-post-impeachment?context=amp"
     cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-16/trump-slams-mcconnell-as-gop-divide-deepens-post-impeachment?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
-  - title: "GOP Infighting in Post-Trump Era Threatens California Recall"
-    excerpt: "Republican hopes of ousting Democratic Gov. Gavin Newsom in California could be threatened by bitter infighting within the state GOP."
-    publishedDateTime: 2021-02-20T01:09:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-02-19/republican-infighting-rattles-bid-to-oust-democrat-newsom"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-19/republican-infighting-rattles-bid-to-oust-democrat-newsom?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-19/republican-infighting-rattles-bid-to-oust-democrat-newsom?context=amp"
     type: article
     provider:
       name: U.S. News & World Report

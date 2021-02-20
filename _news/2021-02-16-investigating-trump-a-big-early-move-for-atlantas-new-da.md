@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/world-nation/story/2021-02-15/investigating-
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-02-15/investigating-trump-a-big-early-move-for-atlantas-new-da?_amp=true"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
       - url: "https://media.npr.org/assets/img/2021/02/17/ap_21048535426936_wide-afb44df801b20b7121060c26f5723828e441d155.jpg?s=1400"
         width: 1400
         height: 786
+        isCached: true
+  - title: "Melania Trump Spent Valentine’s Day With Donald Trump Despite Skipping Husband In Posts"
+    excerpt: "Melania Trump may not have posted a Valentine's Day tribute for husband Donald Trump, but the couple apparently celebrated the occasion together. On Sunday, Trump and Melania pose"
+    publishedDateTime: 2021-02-20T06:04:00Z
+    webUrl: "https://www.ibtimes.com/melania-trump-spent-valentines-day-donald-trump-despite-skipping-husband-posts-3148882"
+    ampWebUrl: "https://www.ibtimes.com/melania-trump-spent-valentines-day-donald-trump-despite-skipping-husband-posts-3148882?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trump-spent-valentines-day-donald-trump-despite-skipping-husband-posts-3148882?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 67
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/24/donald-trump-melania-trump.jpg"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "sbzEcOVVHJgyxN0vROmPSWLZkeCITIQayuA4+mUYR6lzJb4CCyqr8PWeXHdS+KWTpbdMiF4V2cVR28F5JjyLwAjpRl/TrDxN0GF1BW9UR14tiZWpBC1cIy2X1nCv/Id4/9s2RoFphs8xAe4rBf3769wqpsdGVBUm3QxErqyNF5zgFuzdYr4KArM8TAJUKr5NpX3KrlI7fdPJrGaMsAKH85jFOiMLDeh5FZh9uMJK+doXSR69pQ1DSsANw8bdLz5gbZagRTsr+9EkCtpidqef9a6Xt8BDsbRh3WHLBrTgeYHDHYHEz6/IomSxKp8Z8/EKEMVmxTfWQgK/D0aOuykONwkMnSg0fqYUepSZphh+YHI=;UoGPOic7NA6t64p9kFTcJA=="

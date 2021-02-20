@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-18-gop-senators-facing-reelection-in-2022-keep-mum-on-mcconnell-amid-divisive-fight-with-trump.md",
+      "title": "GOP senators facing reelection in 2022 keep mum on McConnell amid divisive fight with Trump",
+      "excerpt": "Republican senators are trying to stay out of the fray between former President Donald Trump and their leader, Sen. Mitch McConnell.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/brcx77tnGxk/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/brcx77tnGxk/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 940,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201230094039-split-donald-trump-mitch-mcconnell-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/18/politics/senate-republicans-2022-mcconnell-trump/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/18/politics/senate-republicans-2022-mcconnell-trump/index.html",
+      "publishedDateTime": "2021-02-18T14:20:29-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-18-members-of-maine-gop-state-committee-condemn-sen-susan-collins-vote-to-convict-trump.md",
       "title": "Members of Maine GOP state committee condemn Sen. Susan Collins' vote to convict Trump",
       "excerpt": "Members of the Maine Republican Party state committee are condemning \"in the strongest possible terms\" Republican Sen. Susan Collins' vote to convict former President Donald Trump in his impeachment trial this month -- another sign of the backlash against lawmakers who bucked Trump, but one that may",
@@ -1311,62 +1367,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-new-york-times-trump-pentagon-officials-delayed-promotions-of-female-generals-due-to-fear-over-trumps-reaction.md",
-      "title": "New York Times: Trump Pentagon officials delayed promotions of female generals due to fear over Trump's reaction",
-      "excerpt": "Promotions of two female generals were delayed by Pentagon officials until after the 2020 presidential election out of fear of \"turmoil\" from President Donald Trump's White House, The New York Times reported Wednesday.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wqnJmokEy3o/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wqnJmokEy3o/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 194,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210217123321-us-army-gen-laura-richardson-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/17/politics/pentagon-delayed-female-nominations/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/17/politics/pentagon-delayed-female-nominations/index.html",
-      "publishedDateTime": "2021-02-17T12:20:32-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],
