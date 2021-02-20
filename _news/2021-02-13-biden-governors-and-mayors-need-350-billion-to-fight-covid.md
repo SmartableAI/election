@@ -138,20 +138,20 @@ related:
         height: 545
         isCached: true
   - title: "Biden defends progress on COVID as weather delays 6M shots"
-    excerpt: "While acknowledging the weather is “slowing up the distribution,” Biden said at the Pfizer plant in Michigan that he believes “we’ll be approaching normalcy by the end of this year.” His speech melded a recitation of his administration’s accomplishments in its first month confronting the pandemic,"
-    publishedDateTime: 2021-02-19T22:26:00Z
-    webUrl: "https://www.washingtonpost.com/health/biden-defends-progress-on-covid-as-weather-delays-6m-shots/2021/02/19/2aaa6ec8-7311-11eb-8651-6d3091eac63f_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/health/biden-defends-progress-on-covid-as-weather-delays-6m-shots/2021/02/19/2aaa6ec8-7311-11eb-8651-6d3091eac63f_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/biden-defends-progress-on-covid-as-weather-delays-6m-shots/2021/02/19/2aaa6ec8-7311-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+    excerpt: "President Joe Biden toured a state-of-the art coronavirus vaccine plant Friday, intent on showcasing progress even as extreme winter weather across the U.S. hand"
+    publishedDateTime: 2021-02-20T05:16:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/biden-visit-mich-vaccine-plant-winter-throws-curve-75996916"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-visit-mich-vaccine-plant-winter-throws-curve-75996916"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-visit-mich-vaccine-plant-winter-throws-curve-75996916"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/Health/WireAP_85fdcbc43c574818bfaaba0d09e8c1b1_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Biden presses for $1.9 trillion COVID relief plan with governors, mayors"
     excerpt: "U.S. President Joe Biden pushed for the first major legislative achievement of his term on Friday, turning to a bipartisan group of local officials for help on his $1.9 trillion coronavirus relief plan."

@@ -62,6 +62,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden approves major disaster declaration for Texas"
+    excerpt: "President Joe Biden has approved a major disaster declaration for Texas, unlocking more federal resources to assist the state struggling to recover from deadly winter storms.\n    \n"
+    publishedDateTime: 2021-02-20T16:49:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2EQVSSX0kfk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/20/politics/biden-texas-disaster-declaration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/20/politics/biden-texas-disaster-declaration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210220105405-joe-biden-210219-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Netanyahu's wait for a call from Biden raises questions about US priorities"
     excerpt: "The White House insists President Joe Biden will \"soon\" speak with Israel's Prime Minister Benjamin Netanyahu, but the wait, which has now stretched beyond three weeks, is raising questions about whether there is a motive behind the delay.\n    \n"
     publishedDateTime: 2021-02-12T02:39:30Z
@@ -109,6 +125,20 @@ related:
       - url: "https://media2.s-nbcnews.com/i/newscms/2021_06/3449175/210210-ONE-TIME-USE-neera-tanden-ew-334p_df6952b110feaac5c80fbf3994c9ebfc.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Is Tanden toast? And why Biden is wary of touching reparations"
+    excerpt: "For Biden and his administration, that’s meant studiously avoiding the kinds of cultural issues that have tripped up some of his predecessors early in their terms. This week, we asked Press Secretary JEN PSAKI about Biden’s support for HR 40,"
+    publishedDateTime: 2021-02-20T15:36:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook/2021/02/20/is-tanden-toast-and-why-biden-is-wary-of-touching-reparations-491820"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/3a/09/3b9ac1e84dbfad35c8bbdf0d6232/210220-tanden-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "KWLufVqDEmMG7VppeBjvDbQFHYscKBRAHPgSGxcAO7Utb4jG9HtF2UyAmCbg8BFB09WxQ2Y0ukeXAQ6NUcNFHdoQfcuXr7U0/4cGyxr0gD6u6XhCjpFisyGAlv6mC/1KRUReKPLX2sk6NrUlUqraBnCE4awdJw0xnld/vIb/aP6ElWiUh3LEZ/EPlGIDy+UeDAgOh52VP0YkCPsP4eq4hBpyTQ4NsdaqQMicqPoOC9Re9TNqHqg5NwffvceOsJxcQRqWG0vmQBEW4J4VvD0ClSAjdTmsh50zRljhjFVONef2gEN7nWYrsXWDGi8cE3HLHOXyEAcxAeIzMvBO4y65OmX6nbeFV5pfp1x67zLZSTQ=;exNSf5dMMvvMrFbU8/xGXA=="

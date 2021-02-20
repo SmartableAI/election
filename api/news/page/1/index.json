@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-21-ella-emhoff-kamala-harris-stepdaughter-is-a-new-kind-of-style-icon.md",
+      "title": "Ella Emhoff, Kamala Harris’ stepdaughter, is a new kind of style icon",
+      "excerpt": "The young designer’s outfit at the inauguration shows she won’t be ‘hewing to any outdated notions of what a White House-adjacent young woman should dress like,’ according",
+      "sourceUrl": null,
+      "webUrl": "https://www.mercurynews.com/2021/02/20/ella-emhoff-kamala-harriss-stepdaughter-is-a-new-kind-of-style-icon/",
+      "originalUrl": "https://www.mercurynews.com/2021/02/20/ella-emhoff-kamala-harriss-stepdaughter-is-a-new-kind-of-style-icon/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mercurynews.com/wp-content/uploads/2021/02/Emhoff1.jpg?w=1024&h=771",
+          "width": 1024,
+          "height": 771,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mercurynews.com/2021/02/20/ella-emhoff-kamala-harriss-stepdaughter-is-a-new-kind-of-style-icon/amp/",
+      "cdnAmpWebUrl": "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/02/20/ella-emhoff-kamala-harriss-stepdaughter-is-a-new-kind-of-style-icon/amp/",
+      "publishedDateTime": "2021-02-20T08:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mercury News",
+        "domain": "mercurynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-02-20-us-admits-first-group-of-asylum-seekers-as-biden-rolls-back-remain-in-mexico-policy.md",
       "title": "U.S. admits first group of asylum-seekers as Biden rolls back Remain-in-Mexico policy",
       "excerpt": "As part of its efforts to wind down a Trump-era policy that kept tens of thousands of asylum-seekers outside U.S. territory, the Biden administration on Friday admitted the first group of migrants who had been previously required to wait in Mexico for their immigration court hearings.",
@@ -616,7 +659,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 255,
+      "heat": 275,
       "tags": null,
       "images": [
         {
@@ -832,7 +875,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 295,
+      "heat": 315,
       "tags": null,
       "images": [
         {
@@ -1301,63 +1344,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-trump-praising-rush-revives-his-stolen-election-claims-on-tv.md",
-      "title": "Trump, praising Rush, revives his ‘stolen election’ claims on TV",
-      "excerpt": "Donald Trump has taken to the airwaves to praise the late Rush Limbaugh and declare that he still believes the election was stolen.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/trump-praising-rush-revives-his-stolen-election-claims-on-tv",
-      "originalUrl": "https://www.foxnews.com/media/trump-praising-rush-revives-his-stolen-election-claims-on-tv",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/THUMB-trumps-425A.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-19T00:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

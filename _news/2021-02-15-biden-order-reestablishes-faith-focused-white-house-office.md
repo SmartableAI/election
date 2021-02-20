@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/biden-order-reestablishes-fa
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-order-reestablishes-faith-focused-white-house-office/2021/02/14/17fe6700-6ee0-11eb-8651-6d3091eac63f_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 865
+heat: 885
 published: true
 
 provider:
@@ -478,6 +478,22 @@ related:
       - url: "https://s.abcnews.com/images/GMA/heart-whitehouse-2-gty-rc-210212_1613138866944_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Biden declares major disaster in Texas as residents struggle in aftermath of severe winter storm"
+    excerpt: "The declaration will allocate federal funding to help create temporary housing, repair homes and cover uninsured property losses for individuals in 77 Texas counties."
+    publishedDateTime: 2021-02-20T16:39:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-major-disaster-declaration-texas-aftermath-severe-winter-storm/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-major-disaster-declaration-texas-aftermath-severe-winter-storm/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-major-disaster-declaration-texas-aftermath-severe-winter-storm/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 112
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/02/20/4b93c024-a9fd-4d25-a93d-8eaf1cd9c50d/thumbnail/1200x630/50a3b4649ee6472c910204255fb99bb8/ap21050827751388.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Biden administration pledges to expand vaccinations as winter storms cause delays – as it happened"
     excerpt: "CDC warns of ‘widespread delays’ in vaccine deliveries due to weather"

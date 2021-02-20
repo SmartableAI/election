@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Why Joe Biden went to Wisconsin -- and will be back"
+    excerpt: "President Joe Biden took his first big trip as president this week when he went to Wisconsin for a CNN town hall. The fact that Biden chose to go to Wisconsin shouldn't be lost on anyone. He will likely be going to the state a lot as president.\n    \n"
+    publishedDateTime: 2021-02-20T16:36:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2HnRKsXtM3c/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/20/politics/joe-biden-wisconsin-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/20/politics/joe-biden-wisconsin-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210219080429-01-joe-biden-0210-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Fact check: Biden makes at least four false statistical claims at CNN town hall"
     excerpt: "President Joe Biden took questions from Wisconsin residents and from Anderson Cooper at a CNN town hall event in Milwaukee on Tuesday night.\n    \n"
     publishedDateTime: 2021-02-17T21:10:19Z

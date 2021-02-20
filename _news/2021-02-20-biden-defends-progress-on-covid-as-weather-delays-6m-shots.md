@@ -1,22 +1,22 @@
 ---
 category: news
 title: "Biden defends progress on COVID as weather delays 6M shots"
-excerpt: "While acknowledging the weather is “slowing up the distribution,” Biden said at the Pfizer plant in Michigan that he believes “we’ll be approaching normalcy by the end of this year.” His speech melded a recitation of his administration’s accomplishments in its first month confronting the pandemic,"
-publishedDateTime: 2021-02-19T22:26:00Z
-originalUrl: "https://www.washingtonpost.com/health/biden-defends-progress-on-covid-as-weather-delays-6m-shots/2021/02/19/2aaa6ec8-7311-11eb-8651-6d3091eac63f_story.html"
-webUrl: "https://www.washingtonpost.com/health/biden-defends-progress-on-covid-as-weather-delays-6m-shots/2021/02/19/2aaa6ec8-7311-11eb-8651-6d3091eac63f_story.html"
-ampWebUrl: "https://www.washingtonpost.com/health/biden-defends-progress-on-covid-as-weather-delays-6m-shots/2021/02/19/2aaa6ec8-7311-11eb-8651-6d3091eac63f_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/biden-defends-progress-on-covid-as-weather-delays-6m-shots/2021/02/19/2aaa6ec8-7311-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+excerpt: "President Joe Biden toured a state-of-the art coronavirus vaccine plant Friday, intent on showcasing progress even as extreme winter weather across the U.S. hand"
+publishedDateTime: 2021-02-20T05:16:00Z
+originalUrl: "https://abcnews.go.com/Health/wireStory/biden-visit-mich-vaccine-plant-winter-throws-curve-75996916"
+webUrl: "https://abcnews.go.com/Health/wireStory/biden-visit-mich-vaccine-plant-winter-throws-curve-75996916"
+ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-visit-mich-vaccine-plant-winter-throws-curve-75996916"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-visit-mich-vaccine-plant-winter-throws-curve-75996916"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://s.abcnews.com/images/Health/WireAP_85fdcbc43c574818bfaaba0d09e8c1b1_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -228,6 +228,6 @@ related:
         height: 600
         isCached: true
 
-secured: "Tf2UVV5SOAQJ6AKnUrHApwrDdUZ7HVyzvh7r6NzLTPSz292BLImJ/iqq0vprtU3EBpVlljPcksxsVU48VC6o626MZm5IuHcnNux5QovsBj2tc21+QgBqMU8rD/XAh9M2hQXkeaM9C1lCkG2fvP5rXt4DoTnZjN8BQqA1lSPIX6XParYxVbzJPFlpbbiC+Xm/brgSqqWKVDhUWcjYGOi6Ehko5+ZIBULdI5/WrVyYdkcQRWmbk0i4/a/w9gMs7BagA9sK3ho3kT9/L2zT2WNUFxDVrCdoEBA4Kh/jNt9yFQwhPjpwe4WdbCfrwgL7JFdn1HsbTx+8lEwVSpdCAdBCydzxxzw/UesbUX+2ErdF1mg=;ucpl9fMWXmTTwum8Edz/zQ=="
+secured: "8uCbFb0vW6BlSZiF/HoHHjIydqzCEphy5jx+S5je3crVEsbMP4RrwY11XUhylOcDOA0jA7QMTTfyzHV1tE4zXNilgbFWxb3zkV7yEEQxbyUBl6vuMnAUXeCK6k5uCQHotSQ4ceephEA02mGHAeKdPp1z7O1nDgfglllfAlb34Am75D4cmdPLjQhHceZHzJVzhhM+y926YRI2p7DFVv/D9eN0a/9Adc/SRBVXuOn4moQfzVsGaoLyD5YhAUarvNMZXLAEjq/jRJ1zKTNychll+884k33FfHMjVNHG7SrZti7uKPA69IyR1npNg6tPcKpHHwwDclKJfliOjtHcT++7rCDCKihJk/kILExda2ExiWQ=;hEWLAB0zTFHf5qvNAoAifg=="
 ---
 

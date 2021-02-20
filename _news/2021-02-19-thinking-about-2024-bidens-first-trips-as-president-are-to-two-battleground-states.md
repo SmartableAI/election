@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden says he won't pull Tanden nomination after key Dem says he'll vote no"
+    excerpt: "President Biden on Friday said he will not pull the nomination of Neera Tanden to be head of the Office of Management and Budget (OMB) -- despite her nomination being dealt a significant blow after a key Democrat said he would vote against her."
+    publishedDateTime: 2021-02-20T15:25:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6-EZECX-acI/biden-tanden-no-vote-joe-manchin"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-tanden-no-vote-joe-manchin.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-tanden-no-vote-joe-manchin.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/eb63fb98-5f29-44e6-b48a-f441d3ad0305/bc256167-692f-4a1a-80bf-ce3df3abdd93/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden’s promise to open half the schools in 100 days: Here is how it's going"
     excerpt: "Progress has been made in the president’s first month in office, but a little less than 60 percent are still not going to school full-time."
     publishedDateTime: 2021-02-19T23:09:58Z

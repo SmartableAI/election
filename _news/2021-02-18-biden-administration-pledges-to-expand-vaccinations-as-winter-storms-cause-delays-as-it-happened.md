@@ -495,6 +495,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden declares major disaster in Texas as residents struggle in aftermath of severe winter storm"
+    excerpt: "The declaration will allocate federal funding to help create temporary housing, repair homes and cover uninsured property losses for individuals in 77 Texas counties."
+    publishedDateTime: 2021-02-20T16:39:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-major-disaster-declaration-texas-aftermath-severe-winter-storm/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-major-disaster-declaration-texas-aftermath-severe-winter-storm/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-major-disaster-declaration-texas-aftermath-severe-winter-storm/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 112
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/02/20/4b93c024-a9fd-4d25-a93d-8eaf1cd9c50d/thumbnail/1200x630/50a3b4649ee6472c910204255fb99bb8/ap21050827751388.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden aims to close Guantanamo Bay prison by the time he leaves office"
     excerpt: "The White House said on Friday that U.S. President Joe Biden aims to close the Guantanamo Bay prison by the time he leaves office, press secretary Jen Psaki told reporters in a daily briefing."
     publishedDateTime: 2021-02-12T19:27:00Z

@@ -493,6 +493,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden declares major disaster in Texas as residents struggle in aftermath of severe winter storm"
+    excerpt: "The declaration will allocate federal funding to help create temporary housing, repair homes and cover uninsured property losses for individuals in 77 Texas counties."
+    publishedDateTime: 2021-02-20T16:39:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-major-disaster-declaration-texas-aftermath-severe-winter-storm/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-major-disaster-declaration-texas-aftermath-severe-winter-storm/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-major-disaster-declaration-texas-aftermath-severe-winter-storm/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 112
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/02/20/4b93c024-a9fd-4d25-a93d-8eaf1cd9c50d/thumbnail/1200x630/50a3b4649ee6472c910204255fb99bb8/ap21050827751388.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden administration pledges to expand vaccinations as winter storms cause delays – as it happened"
     excerpt: "CDC warns of ‘widespread delays’ in vaccine deliveries due to weather"
     publishedDateTime: 2021-02-18T01:13:00Z

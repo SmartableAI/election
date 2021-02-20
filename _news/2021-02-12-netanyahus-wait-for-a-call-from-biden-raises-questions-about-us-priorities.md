@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden approves major disaster declaration for Texas"
+    excerpt: "President Joe Biden has approved a major disaster declaration for Texas, unlocking more federal resources to assist the state struggling to recover from deadly winter storms.\n    \n"
+    publishedDateTime: 2021-02-20T16:49:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2EQVSSX0kfk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/20/politics/biden-texas-disaster-declaration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/20/politics/biden-texas-disaster-declaration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210220105405-joe-biden-210219-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Joe Biden returns to Wisconsin, testing a new President's promise to unify and govern"
     excerpt: "Caroline Quinlan didn't vote for Joe Biden, but she's praying for his success and hoping he can deliver on his pledge to unite a deeply divided country.\n    \n"
     publishedDateTime: 2021-02-16T12:00:51Z
@@ -108,6 +124,20 @@ related:
       - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
         width: 1120
         height: 629
+        isCached: true
+  - title: "Is Tanden toast? And why Biden is wary of touching reparations"
+    excerpt: "For Biden and his administration, that’s meant studiously avoiding the kinds of cultural issues that have tripped up some of his predecessors early in their terms. This week, we asked Press Secretary JEN PSAKI about Biden’s support for HR 40,"
+    publishedDateTime: 2021-02-20T15:36:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook/2021/02/20/is-tanden-toast-and-why-biden-is-wary-of-touching-reparations-491820"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/3a/09/3b9ac1e84dbfad35c8bbdf0d6232/210220-tanden-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "BPF5DgXiR9vm02CytvZE9XamyPOyjnQ6gyp/+jKZiWp3wKw4ACxzZP0vF2+8+s9piyL/Fkeh1JtGsmCVVrQmjk9y8vOxRT5Sb8N2JLcYYeZTA2zGYxGYKNcZsC61ZZ6wzBSQzelcJIBgiHR8poCJnwstd0CRV33rwk37W2WHcX4umet0eMvjCxBNY4hFlmfjwKEB8+5d9uSatDrfd4CWYKAAAN70Ccg9Ks1NN3Vlxmjh2JRikxnWWi6pum7Pil376BNyZsPlw0lSPZKnsRR6hX/M20CxRJIzP9KjKk6Q+zRfjtrJL6c3eHGTY4gmuQs2H7mW796wynzi2yKwUYVMNfrBeKXZUoQs/HmV6l40BWU=;87yIetkqyUE0ZZBBImcjWA=="

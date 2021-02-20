@@ -2,6 +2,63 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-02-17-on-trump-michigan-republicans-lean-one-way-fealty-at-all-costs.md",
+      "title": "On Trump, Michigan Republicans Lean One Way: ‘Fealty at All Costs’",
+      "excerpt": "Even after his defeat, Donald Trump is causing fierce infighting among Republicans in a crucial battleground state. Loyalists are rewarded. Dissenters face punishment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/02/16/us/politics/michigan-republicans-trump.html",
+      "originalUrl": "https://www.nytimes.com/2021/02/16/us/politics/michigan-republicans-trump.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/02/12/us/politics/00michigan-gop1/00michigan-gop1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/02/16/us/politics/michigan-republicans-trump.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/16/us/politics/michigan-republicans-trump.amp.html",
+      "publishedDateTime": "2021-02-16T12:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-17-biden-heads-to-wisconsin-winter-storms-bill-gates-book-5-things-you-need-to-know-tuesday.md",
       "title": "Biden heads to Wisconsin, winter storms, Bill Gates book: 5 things you need to know Tuesday",
       "excerpt": "President Joe Biden travels to Wisconsin, another dose of severe weather is on the way and more news to start your Tuesday.",
@@ -1195,7 +1252,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/biden-order-reestablishes-faith-focused-white-house-office/2021/02/14/17fe6700-6ee0-11eb-8651-6d3091eac63f_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 865,
+      "heat": 885,
       "tags": null,
       "images": [
         {
@@ -1288,58 +1345,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-15-biden-calls-for-commonsense-gun-law-reforms-on-anniversary-of-parkland-shooting.md",
-      "title": "Biden calls for 'commonsense gun law reforms' on anniversary of Parkland shooting",
-      "excerpt": "President Biden called on Congress to pass \"commonsense gun law reforms\" on Sunday in a message marking the third anniversary of the shooting at Marjory Stoneman Douglas High School in Parkland, Fla.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/administration/538825-biden-calls-for-commonsense-gun-law-reforms-on-anniversary-of",
-      "originalUrl": "https://thehill.com/homenews/administration/538825-biden-calls-for-commonsense-gun-law-reforms-on-anniversary-of",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/bidenjoe_020521getty_stocks.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/administration/538825-biden-calls-for-commonsense-gun-law-reforms-on-anniversary-of?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/538825-biden-calls-for-commonsense-gun-law-reforms-on-anniversary-of?amp",
-      "publishedDateTime": "2021-02-14T10:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

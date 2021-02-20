@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/02/19/fact-check-minimu
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/02/19/fact-check-minimum-wage-immigration-china-joe-biden-orig-me.cnn"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Analysis: Why Joe Biden went to Wisconsin -- and will be back"
+    excerpt: "President Joe Biden took his first big trip as president this week when he went to Wisconsin for a CNN town hall. The fact that Biden chose to go to Wisconsin shouldn't be lost on anyone. He will likely be going to the state a lot as president.\n    \n"
+    publishedDateTime: 2021-02-20T16:36:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2HnRKsXtM3c/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/20/politics/joe-biden-wisconsin-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/20/politics/joe-biden-wisconsin-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210219080429-01-joe-biden-0210-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "How Biden's massive Covid relief bill was put on a glide path to passage"
     excerpt: "It's not supposed to look this easy.\n    \n"
     publishedDateTime: 2021-02-20T01:42:46Z

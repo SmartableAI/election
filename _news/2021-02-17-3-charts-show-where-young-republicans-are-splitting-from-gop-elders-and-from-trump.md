@@ -143,6 +143,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Trump impeachment vote becomes defining moment for GOP Sen. Richard Burr"
+    excerpt: "For Burr, it was an emphatic statement after years of careful commentary about Trump, much of it made as he investigated Trump’s ties to Russia."
+    publishedDateTime: 2021-02-20T16:18:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/vp-nw-richard-burr-impeachment-20210220-3zjm5afnifgdtagwb4yqyvgifi-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/vp-nw-richard-burr-impeachment-20210220-3zjm5afnifgdtagwb4yqyvgifi-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/vp-nw-richard-burr-impeachment-20210220-3zjm5afnifgdtagwb4yqyvgifi-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 124
+    images:
+      - url: "https://www.chicagotribune.com/resizer/2VyDZsqkPz55RoCvnel_AC0esV8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7T67G2KNZQDDZAUHH7WRCYJ6AU.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump lashes out after McConnell blames him for Capitol insurrection – live"
     excerpt: "Senate minority leader has said Trump is ‘practically and morally’ responsible for US Capitol attack"
     publishedDateTime: 2021-02-17T00:37:00Z
