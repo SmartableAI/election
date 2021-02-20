@@ -141,6 +141,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "LIVE UPDATES: Biden approves Texas disaster declaration as millions still on boil-water notices"
+    excerpt: "President Joe Biden announced Saturday that he had declared a major disaster in Texas and ordered federal assistance to aid in local and state recovery efforts as millions of residents suffer the effect of severe winter storms."
+    publishedDateTime: 2021-02-20T16:06:00Z
+    webUrl: "https://www.foxnews.com/us/live-updates-texas-storm-2-20-21"
+    ampWebUrl: "https://www.foxnews.com/us/live-updates-texas-storm-2-20-21.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/live-updates-texas-storm-2-20-21.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 123
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3e1b5aae-a16e-46ff-8e21-25a25dce0e06/af663b77-d99a-4130-b0f3-da1b951d3a6f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "Oz1zEGFXT+BUFuXV/RjKrpbsCgXj7In1XTW+3p8nijnlpyWR9eFO5wovAtlxemNpeRQl2dWDlteMK++AGHD3dUynI+iBowIT5SzKnpBy5AuKtxa6q5mxeJFgZIr+mCkQSaAugZp4yyOgapRd2P9Vk9ozarwQCB0kKUNIbklSPYwjsaXmfQOMYa1Z8v37K4znNs45kCI+ONGdrT9b8XrQKvIu6tpHO0e6Q9fWm4x0j4DXwCRNSogN9+CaDll3PnHPJKWvOFDaWcC0i/lG+V9G3Fe8e591mW3U0DcUDa7YeCBBg0rUAgkrvsGlUECV3HjHTRcCr8rIILxFK80kv71MLhUAdYVBVu3K2APPV5U3Efs=;FiPGhUk1MiTIvqNj29OzoA=="
 ---

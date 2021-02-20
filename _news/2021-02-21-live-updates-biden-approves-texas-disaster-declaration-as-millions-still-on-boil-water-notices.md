@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Former Texas sheriff: US ‘basically reopening the border’ to illegal immigrants with Biden agenda"
-excerpt: "The Biden administration's immigration policies amount to \"reopening the border\" to illegal aliens and creating the conditions for an illegal immigration spike, a retired Texas sheriff warned on \"Fox & Friends\" Tuesday."
-publishedDateTime: 2021-02-16T20:09:19Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VbKHGbDMdoc/biden-immigration-agenda-open-borders-texas-sheriff-harold-eavenson"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VbKHGbDMdoc/biden-immigration-agenda-open-borders-texas-sheriff-harold-eavenson"
-ampWebUrl: "https://www.foxnews.com/politics/biden-immigration-agenda-open-borders-texas-sheriff-harold-eavenson.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-immigration-agenda-open-borders-texas-sheriff-harold-eavenson.amp"
+title: "LIVE UPDATES: Biden approves Texas disaster declaration as millions still on boil-water notices"
+excerpt: "President Joe Biden announced Saturday that he had declared a major disaster in Texas and ordered federal assistance to aid in local and state recovery efforts as millions of residents suffer the effect of severe winter storms."
+publishedDateTime: 2021-02-20T16:06:00Z
+originalUrl: "https://www.foxnews.com/us/live-updates-texas-storm-2-20-21"
+webUrl: "https://www.foxnews.com/us/live-updates-texas-storm-2-20-21"
+ampWebUrl: "https://www.foxnews.com/us/live-updates-texas-storm-2-20-21.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/live-updates-texas-storm-2-20-21.amp"
 type: article
-quality: 162
+quality: 123
 heat: -1
 published: false
 
@@ -22,10 +22,11 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4f6ae5a3-36be-41fd-97b0-f9e68056de11/7d329f70-fa0c-4a43-adad-8b43060d8792/1280x720/match/image.jpg"
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3e1b5aae-a16e-46ff-8e21-25a25dce0e06/af663b77-d99a-4130-b0f3-da1b951d3a6f/1280x720/match/image.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -111,6 +112,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Former Texas sheriff: US ‘basically reopening the border’ to illegal immigrants with Biden agenda"
+    excerpt: "The Biden administration's immigration policies amount to \"reopening the border\" to illegal aliens and creating the conditions for an illegal immigration spike, a retired Texas sheriff warned on \"Fox & Friends\" Tuesday."
+    publishedDateTime: 2021-02-16T20:09:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VbKHGbDMdoc/biden-immigration-agenda-open-borders-texas-sheriff-harold-eavenson"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-immigration-agenda-open-borders-texas-sheriff-harold-eavenson.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-immigration-agenda-open-borders-texas-sheriff-harold-eavenson.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4f6ae5a3-36be-41fd-97b0-f9e68056de11/7d329f70-fa0c-4a43-adad-8b43060d8792/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden reiterates support for Texas in call with Gov. Abbott over winter storm crisis, White House says"
     excerpt: "President Biden spoke to Texas Gov. Greg Abbott Thursday about the ongoing winter storm crisis that had left millions without power for days."
     publishedDateTime: 2021-02-19T09:33:54Z
@@ -141,23 +158,7 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "LIVE UPDATES: Biden approves Texas disaster declaration as millions still on boil-water notices"
-    excerpt: "President Joe Biden announced Saturday that he had declared a major disaster in Texas and ordered federal assistance to aid in local and state recovery efforts as millions of residents suffer the effect of severe winter storms."
-    publishedDateTime: 2021-02-20T16:06:00Z
-    webUrl: "https://www.foxnews.com/us/live-updates-texas-storm-2-20-21"
-    ampWebUrl: "https://www.foxnews.com/us/live-updates-texas-storm-2-20-21.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/live-updates-texas-storm-2-20-21.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 123
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3e1b5aae-a16e-46ff-8e21-25a25dce0e06/af663b77-d99a-4130-b0f3-da1b951d3a6f/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
-secured: "dmlyxA5k2b6kP0XitiGNjDnNX666tJrHHK5ykizwqmlaRl9/tZb3WlIfKQcr7fc+eoMbssK1L5OLmnXAKfQtGFg9plM9wqu1JzItdRaBaLj0Bzyu91sdi3uhH6MGwW75FRUkD0wQuI+DQMQhTJCiY9CcVpavSQKvSK9I+64VPPXIS5BhTKktMRm/9JTmUIiHnnaxwqru1vu0q6/C9Crg19Wm/BXAnBpwHmAM36fmyyrhocOOc2O9TuWA2IyOPsDuBKPHdAGyYFHrr/n5/auwYFtRbKgGCZhA9XAxGsX7eKMui+Is4xnyr677gTZcJ+DmKc3McySayi83etIhaT1H1uwY1cb26C3JYe0sOpknH6Q=;9T7YfQ0Qav5qNo+xclwB9Q=="
+secured: "g0/FxquKG/mBlhZ9wUcKIIRPAvmpuF2CkzTFyYfsc5xYQWWAQEb5CeWJEqxy+0xD0U6GL7KELkIpe8fNkv5U8ihfC3RP9FPewmucmsqGR7ZrrQOawEiK//bZuhxm19a3OWqhp+8JEEqGSWXXJI8ZrJhuWRo9fqrDbK4vydsSrlXyhkc7epBjcZgqCnz7aK370UI0T1s08uXnzPnEFjaOf+Y6RkRoIaNgZSBbC7zR1pCWX8S4isNPsBlU6v0hQeExdOs3o1wbU8Grp6osCCxxdIUmAagzq2YquGV0BFcqzz4q1zNDp8HZ1V7dLHUTuOspktbAMCZP90eAz0DJ0U3ejG/Hvb6RhoN2jSpVV4Pc9/M=;oa/+bWJxgo7CPMF0OOSpyA=="
 ---
 

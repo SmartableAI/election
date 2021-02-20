@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-pauses-trump-pol
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-pauses-trump-policies-blinken-takes-diplomatic-helm-75531721"
 type: article
 quality: 150
-heat: 2450
+heat: 2470
 published: true
 
 provider:
@@ -447,6 +447,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210220&t=2&i=1552233248&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1I0QY"
         width: 731
         height: 545
+        isCached: true
+  - title: "Biden seeks to escape Trump's ghost"
+    excerpt: "When President Biden appeared at a town hall with CNN’s Anderson Cooper this week, he declared that he was “tired of talking about Donald Trump” not once but twice."
+    publishedDateTime: 2021-02-20T17:09:00Z
+    webUrl: "https://thehill.com/homenews/administration/539640-biden-seeks-to-escape-trumps-ghost"
+    ampWebUrl: "https://thehill.com/homenews/administration/539640-biden-seeks-to-escape-trumps-ghost?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/539640-biden-seeks-to-escape-trumps-ghost?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 140
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_trumpdonald_021921getty_split_ghost.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Biden administration drops Trump-era discrimination lawsuit against Yale"
     excerpt: "Lawsuit had claimed university discriminates against Asian American and white applicants"

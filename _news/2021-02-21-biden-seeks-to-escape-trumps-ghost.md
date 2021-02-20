@@ -1,22 +1,22 @@
 ---
 category: news
-title: "The Health 202: Biden's administration is starting to unravel dozens of Trump-era health policies"
-excerpt: "President Biden today will take his first steps to relax some of former president Donald Trump’s most controversial health policies. But the expected executive actions are just a start. Behind the scenes,"
-publishedDateTime: 2021-01-28T12:47:00Z
-originalUrl: "https://www.washingtonpost.com/politics/2021/01/28/health-202-biden-administration-is-starting-unravel-dozens-trump-era-health-policies/"
-webUrl: "https://www.washingtonpost.com/politics/2021/01/28/health-202-biden-administration-is-starting-unravel-dozens-trump-era-health-policies/"
-ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/28/health-202-biden-administration-is-starting-unravel-dozens-trump-era-health-policies/?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/28/health-202-biden-administration-is-starting-unravel-dozens-trump-era-health-policies/?outputType=amp"
+title: "Biden seeks to escape Trump's ghost"
+excerpt: "When President Biden appeared at a town hall with CNN’s Anderson Cooper this week, he declared that he was “tired of talking about Donald Trump” not once but twice."
+publishedDateTime: 2021-02-20T17:09:00Z
+originalUrl: "https://thehill.com/homenews/administration/539640-biden-seeks-to-escape-trumps-ghost"
+webUrl: "https://thehill.com/homenews/administration/539640-biden-seeks-to-escape-trumps-ghost"
+ampWebUrl: "https://thehill.com/homenews/administration/539640-biden-seeks-to-escape-trumps-ghost?amp"
+cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/539640-biden-seeks-to-escape-trumps-ghost?amp"
 type: article
-quality: 127
+quality: 140
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: The Hill
+  domain: thehill.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EH7AKGTAL4I6XILXO5S7FGUVEQ.jpg&w=1440"
-    width: 1440
-    height: 956
+  - url: "https://thehill.com/sites/default/files/bidenjoe_trumpdonald_021921getty_split_ghost.jpg"
+    width: 980
+    height: 551
     isCached: true
 
 related:
@@ -463,22 +463,6 @@ related:
         width: 731
         height: 545
         isCached: true
-  - title: "Biden seeks to escape Trump's ghost"
-    excerpt: "When President Biden appeared at a town hall with CNN’s Anderson Cooper this week, he declared that he was “tired of talking about Donald Trump” not once but twice."
-    publishedDateTime: 2021-02-20T17:09:00Z
-    webUrl: "https://thehill.com/homenews/administration/539640-biden-seeks-to-escape-trumps-ghost"
-    ampWebUrl: "https://thehill.com/homenews/administration/539640-biden-seeks-to-escape-trumps-ghost?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/539640-biden-seeks-to-escape-trumps-ghost?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 140
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_trumpdonald_021921getty_split_ghost.jpg"
-        width: 980
-        height: 551
-        isCached: true
   - title: "Biden administration drops Trump-era discrimination lawsuit against Yale"
     excerpt: "Lawsuit had claimed university discriminates against Asian American and white applicants"
     publishedDateTime: 2021-02-03T20:01:00Z
@@ -846,6 +830,22 @@ related:
       - url: "https://i.insider.com/600f800280e4540019816b32?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "The Health 202: Biden's administration is starting to unravel dozens of Trump-era health policies"
+    excerpt: "President Biden today will take his first steps to relax some of former president Donald Trump’s most controversial health policies. But the expected executive actions are just a start. Behind the scenes,"
+    publishedDateTime: 2021-01-28T12:47:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/01/28/health-202-biden-administration-is-starting-unravel-dozens-trump-era-health-policies/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/28/health-202-biden-administration-is-starting-unravel-dozens-trump-era-health-policies/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/28/health-202-biden-administration-is-starting-unravel-dozens-trump-era-health-policies/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 127
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EH7AKGTAL4I6XILXO5S7FGUVEQ.jpg&w=1440"
+        width: 1440
+        height: 956
         isCached: true
   - title: "Biden administration to pause deportations, curtail arrests"
     excerpt: "Acting Homeland Security chief orders immigration agencies to focus on national security, aggravated felons and recent border crossers"
@@ -1796,6 +1796,6 @@ related:
         height: 649
         isCached: true
 
-secured: "eQHusrZap0488c1pMCztAyQmjf9aI591sWM7fqs3nUdGFAJdYYvhhNCxWSe2Yxk6OYxoaDarxsLBput/+NS8T54McNcsMGrvcyDZhbKiyXzX5eUNCCK9C4Trsr0E8AkJTsALaThI+wUPI/jXvrS5x3DxL6+XsZ//WMrhwHWtvr3bwjSBxGLD5HTJt3BZwmWrCYC3iuiSpVeKna75zOX6kuLWWeaoeJzrd4ZGs51vBkKv1JuxjFStVettC5Wz5E9CzzSsus7Bp1Ji3UXNUN7U1/WnjTp36G0saT4vVXPXpfVB7yicSlrQxlFpQA7Qjom59yX/ps98Hw2E2IytJbdqdnUCwMLa2U+wfueTu0kgfAcXbj+gTzlLcuVzZPFOtfGJ5cxRDJwwzP7NLUT4/B+eEdvSkdF7Kjp1SAP2mIg3YuFbJetvmSToYOi0IHqZDjzF2Y9yfFb402r6w8n71kaqxh/JhIt+ExT9myyS9mE9M+fdtzJ8jaZH0OpEuxEwn2SyrebCwU2AZ/nXCjAti2fefg==;W+GTkvIhyRmlJl47m16+IA=="
+secured: "UK74KuvKRpx5Rlpoo0/U6TVb7kRXUB3tHg+LQ7pn0zhyZy9fAMgAony+XarP87WnWq7fyUkUWzyXHIOu85dnjd6CAT0pOe8EIBGjAslv6XdiRJbga8BVcH0IsSb9sfG8QK1EN4JyvxCOVi3saOvLPlUE8HlCEnhyzDONTFgrf69opASEseGaHa85novjorhyf+HLeG43L6Sh00BOjxIXog/1er/6JUBT0fhFyeDj6L3wyeaFO7xeoJ705bwYG+AuDaNfn0PHU9mD7c6VNnY7FRIL91cDmGtqQMni9K1fwfU2OlVM33VCi79LZlIv8GYxRp6F2zLAgRWLzuaLRH65vsK5tAGJjTxGp9zujtL9Tps=;RoVBHDikRkS+EH6pOAIm6w=="
 ---
 

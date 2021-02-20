@@ -3,8 +3,8 @@ category: news
 title: "Trump impeachment vote becomes defining moment for GOP Sen. Richard Burr"
 excerpt: "For Burr, it was an emphatic statement after years of careful commentary about Trump, much of it made as he investigated Trump’s ties to Russia."
 publishedDateTime: 2021-02-20T16:18:00Z
-originalUrl: "https://www.chicagotribune.com/nation-world/vp-nw-richard-burr-impeachment-20210220-3zjm5afnifgdtagwb4yqyvgifi-story.html"
-webUrl: "https://www.chicagotribune.com/nation-world/vp-nw-richard-burr-impeachment-20210220-3zjm5afnifgdtagwb4yqyvgifi-story.html"
+originalUrl: "https://www.chicagotribune.com/nation-world/vp-nw-richard-burr-impeachment-20210220-3zjm5afnifgdtagwb4yqyvgifi-story.html?outputType=amp"
+webUrl: "https://www.chicagotribune.com/nation-world/vp-nw-richard-burr-impeachment-20210220-3zjm5afnifgdtagwb4yqyvgifi-story.html?outputType=amp"
 ampWebUrl: "https://www.chicagotribune.com/nation-world/vp-nw-richard-burr-impeachment-20210220-3zjm5afnifgdtagwb4yqyvgifi-story.html?outputType=amp"
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/vp-nw-richard-burr-impeachment-20210220-3zjm5afnifgdtagwb4yqyvgifi-story.html?outputType=amp"
 type: article
@@ -430,6 +430,6 @@ related:
         height: 455
         isCached: true
 
-secured: "55Gs+OhR7aG/MesYjyv7se/W4JVw+Wr5bPt8W3NWX1XmDZbVd9gbg5v+42l4JdyCRn4GH7mVsjthBoomzTFmoJq8KGs479ZUtglvJALDRNUjzTFkBHk7FMP2vLE4lr86VY5a395ayRvzLWSmI5fpN4vm6osj9wSsrSMQiwsT1JOQWnC9os+YGxCUTjmgb/H/9vPziWTKSfxMX7sXYj7BRZ0/D7novvsOOevrf9KolHCsfXPR+KOx8NhnQ/+Dc7h+/B3zgye7IfRrckbkLCq210f0FQZ0i2vSQMcp5dPx7D9jIdGZ/ZibzJBa17WD4D8W5XgDnEp5dC28IN1f3KCXLCAiKvGBijUwlpImjGQ9uIQ=;FrmH53vizjEH9Rp0vW5E3A=="
+secured: "fcBt/Py0mJA+E629lzVczCIwlAu/e8+GRqetunR+mklwm1+PKJCHrJl1XP6AwIRW4IYbEoeH8sZoZKPHsAdfabmhbEoFZhUM43Xq9HrRU/Gh+obBaf5Xcy4h9R4hSPGqgMxX62wW2F8p+jdZAFV2MfBpl6jZgr01WfiPF4HjBsGx/d7bpooiPfSbu9zwekHu1femiIeYP4gNTXgjNVmU7VlxwE7wq/rW90ltfiufgxuWytAdGaaJDJ4EaxfQCus06cWV7eu1jlcP1f2zWkp9qV6YsEVo0bAWxVTbCzVSPqzcDj6yWaApYxcAFmCrXPexTGcyoyiXg6qNxLPmHWHS4qzq7luHgICEEN2ySYNwsRM=;jIKe52HwA72HqgX2f8D5aw=="
 ---
 
