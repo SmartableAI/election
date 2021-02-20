@@ -144,7 +144,7 @@ related:
   - title: "Trump impeachment vote becomes defining moment for GOP Sen. Richard Burr"
     excerpt: "For Burr, it was an emphatic statement after years of careful commentary about Trump, much of it made as he investigated Trump’s ties to Russia."
     publishedDateTime: 2021-02-20T16:18:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/vp-nw-richard-burr-impeachment-20210220-3zjm5afnifgdtagwb4yqyvgifi-story.html?outputType=amp"
+    webUrl: "https://www.chicagotribune.com/nation-world/vp-nw-richard-burr-impeachment-20210220-3zjm5afnifgdtagwb4yqyvgifi-story.html"
     ampWebUrl: "https://www.chicagotribune.com/nation-world/vp-nw-richard-burr-impeachment-20210220-3zjm5afnifgdtagwb4yqyvgifi-story.html?outputType=amp"
     cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/vp-nw-richard-burr-impeachment-20210220-3zjm5afnifgdtagwb4yqyvgifi-story.html?outputType=amp"
     type: article

@@ -271,6 +271,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden pays a visit to ailing former GOP Sen. Bob Dole"
+    excerpt: "President Joe Biden paid a visit Saturday to former Sen. Bob Dole, days after the World War II veteran and 1996 Republican presidential nominee announced he’d been diagnosed with stage 4 lung cancer"
+    publishedDateTime: 2021-02-20T22:50:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-pays-visit-ailing-gop-sen-bob-dole-76021778"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-pays-visit-ailing-gop-sen-bob-dole-76021778"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-pays-visit-ailing-gop-sen-bob-dole-76021778"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_2b2b75ab452c4275b33968eab740e198_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden plans to 'recalibrate' Saudi relations in shot at MbS - White House"
     excerpt: "President Joe Biden plans to shift U.S. relations with Saudi Arabia and will conduct diplomacy through Saudi King Salman bin Abdulaziz rather than his powerful son, Crown Prince Mohammed bin Salman, the White House said on Tuesday."
     publishedDateTime: 2021-02-16T19:52:00Z
@@ -353,10 +369,10 @@ related:
         isCached: true
   - title: "Biden plans Texas visit, pushes for speedy disaster funds in winter storm crisis"
     excerpt: "U.S. President Joe Biden said on Friday he will approve a disaster declaration for Texas, clearing the way for more aid in a crippling winter storm as he weighed a trip to survey the federal response."
-    publishedDateTime: 2021-02-20T00:00:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-weather-texas-biden-idUKKBN2AJ20A"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2AJ20A"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2AJ20A"
+    publishedDateTime: 2021-02-20T06:00:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-weather-texas-biden-idUSKBN2AJ20A"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AJ20A"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AJ20A"
     type: article
     provider:
       name: Reuters

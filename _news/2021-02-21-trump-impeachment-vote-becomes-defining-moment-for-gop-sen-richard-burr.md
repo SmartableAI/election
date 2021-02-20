@@ -3,8 +3,8 @@ category: news
 title: "Trump impeachment vote becomes defining moment for GOP Sen. Richard Burr"
 excerpt: "For Burr, it was an emphatic statement after years of careful commentary about Trump, much of it made as he investigated Trump’s ties to Russia."
 publishedDateTime: 2021-02-20T16:18:00Z
-originalUrl: "https://www.chicagotribune.com/nation-world/vp-nw-richard-burr-impeachment-20210220-3zjm5afnifgdtagwb4yqyvgifi-story.html?outputType=amp"
-webUrl: "https://www.chicagotribune.com/nation-world/vp-nw-richard-burr-impeachment-20210220-3zjm5afnifgdtagwb4yqyvgifi-story.html?outputType=amp"
+originalUrl: "https://www.chicagotribune.com/nation-world/vp-nw-richard-burr-impeachment-20210220-3zjm5afnifgdtagwb4yqyvgifi-story.html"
+webUrl: "https://www.chicagotribune.com/nation-world/vp-nw-richard-burr-impeachment-20210220-3zjm5afnifgdtagwb4yqyvgifi-story.html"
 ampWebUrl: "https://www.chicagotribune.com/nation-world/vp-nw-richard-burr-impeachment-20210220-3zjm5afnifgdtagwb4yqyvgifi-story.html?outputType=amp"
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/vp-nw-richard-burr-impeachment-20210220-3zjm5afnifgdtagwb4yqyvgifi-story.html?outputType=amp"
 type: article
@@ -430,6 +430,6 @@ related:
         height: 455
         isCached: true
 
-secured: "8d0A52inacWAPASjObkQdyJ8+2wq+FYUDiHXjeqRiBRXF5MibtBXHscXLrj8nb1gyPdolbxQIaRh3rMf6WvntTiki7fGQ6omRuj+rGizxUpwgOxhXK8cLi0BZQaPjvSwtVsUyBKJ6q2mfSvBFcIbB5eG45ZGIKg5JfzKdct7RXS+xy3aKb+o1D8mKAhGKAjmr3Uo5WDLHAS+KQYq7jGAWlWGVZpUqQcVAwoctVUogY6sYCIXfjlm+P0xQcBitcA51z+AyJWsQtMeMRHZ5wlmczY6re97wQz0XkRtz4OYBRHeWl/NWeUH95N4WdHE5ufdmBs3XQCE3SlGq3BS7SBt0Sts8MwzzXxD02ytGnMdr7retdMx1I2QMU9+KheDTFOZYYPxxzeIqU3AtFgZT7R2hk+LjEApMPuqf2QXIUw+ASesyXWGS6B43UD7Q+TUJ511otE7O2fxuc7+dn9oBTxDM0I/Ha9/EkWEN4CC0j6Hn0ewDGlxCjBQzV/c/4WKaC/ePgnZlwt2pJ1SkYO5L+SRbA==;S7GSJVAUTf3lTuDIjyB+IQ=="
+secured: "d+0kww/ysVoJ3MLknTlAiyTdK7Z2VrjjI8S/xAWEJtSclg9FJRov0+OhLB3u/3B1Z5RkDAO7k4xZ9AfzS5ZVGdcTgmdL771ZWY+mcBY73yWYJiIR/5BINizT2RhjmXK2Dv3FuSOnFueKNqoR7DtIsXhlxZGLn8mOlaiQuiSzY6O8MkwKGxZMR9QZJQQmCN63ILDX1MNPIitn8IziGsMhbxpzOKmjHqKf7Rk3SCtPxQhovOxze+AAL2sFXUDtMR+TnX5XRPhPSks/ygwOWzlEnqR5cOrt3k/wEMEhxTFzCfLmsTTb6JvG+9gin7hHNH8R2CLksrGWz8SOpIP0TsJicNfy5s8x57oQeFlYXd2Yj8o=;MPjFgUMvF9QPuDaWLGgSqg=="
 ---
 

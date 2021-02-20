@@ -2,11 +2,11 @@
 category: news
 title: "Biden plans Texas visit, pushes for speedy disaster funds in winter storm crisis"
 excerpt: "U.S. President Joe Biden said on Friday he will approve a disaster declaration for Texas, clearing the way for more aid in a crippling winter storm as he weighed a trip to survey the federal response."
-publishedDateTime: 2021-02-20T00:00:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-weather-texas-biden-idUKKBN2AJ20A"
-webUrl: "https://www.reuters.com/article/us-usa-weather-texas-biden-idUKKBN2AJ20A"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2AJ20A"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2AJ20A"
+publishedDateTime: 2021-02-20T06:00:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-weather-texas-biden-idUSKBN2AJ20A"
+webUrl: "https://www.reuters.com/article/us-usa-weather-texas-biden-idUSKBN2AJ20A"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AJ20A"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AJ20A"
 type: article
 quality: 120
 heat: -1
@@ -284,6 +284,22 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/Politics/WireAP_56afd2e25e8e4be99518b14e16d42b1b_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden pays a visit to ailing former GOP Sen. Bob Dole"
+    excerpt: "President Joe Biden paid a visit Saturday to former Sen. Bob Dole, days after the World War II veteran and 1996 Republican presidential nominee announced he’d been diagnosed with stage 4 lung cancer"
+    publishedDateTime: 2021-02-20T22:50:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-pays-visit-ailing-gop-sen-bob-dole-76021778"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-pays-visit-ailing-gop-sen-bob-dole-76021778"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-pays-visit-ailing-gop-sen-bob-dole-76021778"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_2b2b75ab452c4275b33968eab740e198_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
@@ -615,6 +631,6 @@ related:
         height: 600
         isCached: true
 
-secured: "MSo9T3hT4EcTHLXRiC2poX/P6ULqTzAbciZphEiThZddVl0T6olWZ9suEeF17z27V5lSXq+gL9PyXorbJVa7uwmq8eMA9xLOsO0hdKU1HTTpJmPD7qPJgrOvi8hgRdsZk8fj/t0gurdItUVPmZ3xpSHOrab+u0JbcJR65OeLyUZ7p92ERtgdZLhBOuzwXpiLOBTN8UxdKamecMI0GkfFFpQ15JgDE84e5zhRA+Aomp5wkyCyqHvJ8MP9Z3X3aggq65UfSYRNmmPqBkAmw9rIh/XKFpbmEZdoDNNVjLw9O12angetz6N/BKH8P4fqODwI3PzNQBEGdkpnkdGrRIZT65twA8Sktqa8ZTp+22Q36fQ=;FIrbOl9g+RvyY91Pe15Jxw=="
+secured: "r0xiAmvx3sDSSntI+M8ONXMf+bKyEQORb34oD7cwGIVM21tb4z763lyIr7k5qERbzI/mg9dMcqA8xT0Xge9skQUNXKbI82b9izny4UGbjhNLNhoAq6MnzZyEHJysTwAW79MR/YrmHzYw1gUtdrAl0j/owBOxUedoXJCku2O09mPQRYdRvD2JqOrqEGF+4EhH4gzLqGaxLloOcdPXnnYR9esu13LFwye4DBdKTu5pptDVC+SIuNiOu8483E9B4gDrJCcaeCus6e7aMqqv9W0VKynZQW4hzlTNK5xhm6LituhmLvCybc5RRmKSpcUS65HaiZvDetQmjMnotWuJ8lJDLlJpHvRYcGu3FTx9z/2CQCM=;XCs7Fr1hSPNztzu6ScJd3w=="
 ---
 

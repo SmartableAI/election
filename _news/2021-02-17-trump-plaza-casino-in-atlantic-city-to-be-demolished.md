@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/us/trump-plaza-casino-atlantic-city-demolish
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/trump-plaza-casino-atlantic-city-demolished.amp"
 type: article
 quality: 135
-heat: 155
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump to speak at CPAC conference in first public appearance post-White House"
+    excerpt: "Former President Trump will make his first major public appearance at the Conservative Political Action Conference (CPAC) conference later this month, Fox News has learned."
+    publishedDateTime: 2021-02-20T21:08:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7F0cLbFPpY4/trump-to-speak-at-cpac-conference-in-first-public-appearance-post-white-house"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-to-speak-at-cpac-conference-in-first-public-appearance-post-white-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-to-speak-at-cpac-conference-in-first-public-appearance-post-white-house.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Donald-Trump-CPAC-AP-e1607457728844.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Trump to speak at CPAC in first public appearance after leaving office"
     excerpt: "Former President Trump will be a keynote speaker at the Conservative Political Action Conference in Orlando, Fla., a spokesman for the organization confirmed to The Post on Saturday. Trump is"
     publishedDateTime: 2021-02-20T20:42:00Z

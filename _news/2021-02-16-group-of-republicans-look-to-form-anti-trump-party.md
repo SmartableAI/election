@@ -445,6 +445,38 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Donald Trump to address CPAC on future of Republican party"
+    excerpt: "Source says former president will speak on final day of annual conservative event"
+    publishedDateTime: 2021-02-20T21:20:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/feb/20/donald-trump-cpac-republican-party"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/20/donald-trump-cpac-republican-party"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/20/donald-trump-cpac-republican-party"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/62afecc6f79206ba4e06dad664682813bc1dd971/0_127_3002_1801/master/3002.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=58ff11339d1b6f032c98d0a16374dbc5"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Trump to speak at CPAC in first post-presidential appearance"
+    excerpt: "Donald Trump is expected to use his CPAC speech next weekend to talk about the future of the Republican Party and the conservative moment."
+    publishedDateTime: 2021-02-20T22:34:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-cpac-speech-20210220-6xabry2qbzaxzdudjr53izsswy-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-cpac-speech-20210220-6xabry2qbzaxzdudjr53izsswy-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-cpac-speech-20210220-6xabry2qbzaxzdudjr53izsswy-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 125
+    images:
+      - url: "https://www.chicagotribune.com/resizer/sNtzaT4hJoIgC-8J_5lg4r7S3NU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/DJSW5IYU6PZ377UWOPILWJE27I.aspx"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Pull of partisanship helps Trump escape impeachment conviction: ANALYSIS"
     excerpt: "While seven Republicans joined all 50 Democrats in voting for former President Donald Trump 's conviction, the Senate fell 10 votes short of conviction. Trump was spared the ultimate punishment Congress could wield by powerful and familiar forces he has long understood,"
     publishedDateTime: 2021-02-13T22:04:00Z

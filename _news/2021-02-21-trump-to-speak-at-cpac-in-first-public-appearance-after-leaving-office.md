@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump to speak at CPAC conference in first public appearance post-White House"
+    excerpt: "Former President Trump will make his first major public appearance at the Conservative Political Action Conference (CPAC) conference later this month, Fox News has learned."
+    publishedDateTime: 2021-02-20T21:08:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7F0cLbFPpY4/trump-to-speak-at-cpac-conference-in-first-public-appearance-post-white-house"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-to-speak-at-cpac-conference-in-first-public-appearance-post-white-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-to-speak-at-cpac-conference-in-first-public-appearance-post-white-house.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Donald-Trump-CPAC-AP-e1607457728844.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Trump Plaza casino in Atlantic City to be demolished"
     excerpt: "The long-vacant Trump Plaza casino in Atlantic City, N.J., once a symbol of the glitz and glamor of the high-rolling lifestyle, was slated to be reduced to a pile of rubble on Wednesday."
     publishedDateTime: 2021-02-17T14:11:00Z
