@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Manchin’s opposition threatens to sink Biden budget nominee"
+title: "Manchin's opposition threatens to sink Biden budget nominee"
 excerpt: "The nomination of Neera Tanden to lead the White House Office of Management and Budget was thrown in doubt Friday as Sen. Joe Manchin of West Virginia became the first Democratic lawmaker to oppose her confirmation."
-publishedDateTime: 2021-02-19T22:26:00Z
-originalUrl: "https://www.washingtonpost.com/politics/manchins-opposition-threatens-to-sink-biden-budget-nominee/2021/02/19/80447402-7300-11eb-8651-6d3091eac63f_story.html"
-webUrl: "https://www.washingtonpost.com/politics/manchins-opposition-threatens-to-sink-biden-budget-nominee/2021/02/19/80447402-7300-11eb-8651-6d3091eac63f_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/manchins-opposition-threatens-to-sink-biden-budget-nominee/2021/02/19/80447402-7300-11eb-8651-6d3091eac63f_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/manchins-opposition-threatens-to-sink-biden-budget-nominee/2021/02/19/80447402-7300-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+publishedDateTime: 2021-02-20T01:57:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/manchins-opposition-threatens-sink-biden-budget-nominee-76006740"
+webUrl: "https://abcnews.go.com/Politics/wireStory/manchins-opposition-threatens-sink-biden-budget-nominee-76006740"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/manchins-opposition-threatens-sink-biden-budget-nominee-76006740"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/manchins-opposition-threatens-sink-biden-budget-nominee-76006740"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://s.abcnews.com/images/Politics/WireAP_56afd2e25e8e4be99518b14e16d42b1b_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -287,6 +287,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Democratic U.S. senator opposes Biden budget pick, confirmation in doubt"
+    excerpt: "Democratic U.S. Senator Joe Manchin announced on Friday that he would oppose President Joe Biden's nomination of Neera Tanden to head the Office of Management and Budget, which could sink the nomination."
+    publishedDateTime: 2021-02-20T02:50:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-omb/democratic-u-s-senator-opposes-biden-budget-pick-confirmation-in-doubt-idUSKBN2AJ2I6?edition-redirect=in"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AJ2I6"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AJ2I6"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210219&t=2&i=1552212855&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1I1FU"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden says teachers and support staff should move up on vaccine priority list"
     excerpt: "President Biden said Tuesday night that teachers should move up in priority for getting vaccines, although he didn't say whether he thinks teachers should be vaccinated before returning to the classroom."
     publishedDateTime: 2021-02-17T02:50:00Z
@@ -334,6 +350,22 @@ related:
       - url: "https://s.abcnews.com/images/General/biden100-jen-psaki-solarwinds-04-ap-llr-210217_1613592456209_hpMain_16x9_1600.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Biden plans Texas visit, pushes for speedy disaster funds in winter storm crisis"
+    excerpt: "U.S. President Joe Biden said on Friday he will approve a disaster declaration for Texas, clearing the way for more aid in a crippling winter storm as he weighed a trip to survey the federal response."
+    publishedDateTime: 2021-02-20T02:29:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-weather-texas-biden-idUSKBN2AJ20A"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AJ20A"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AJ20A"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210220&t=2&i=1552227241&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1I15H"
+        width: 811
+        height: 545
         isCached: true
   - title: "Biden launches review of Guantanamo prison, aims to close it before leaving office"
     excerpt: "President Joe Biden's aides have launched a formal review of the U.S. military prison at Guantanamo Bay in Cuba, reviving the Obama-era goal of closing the controversial facility with the aim of doing so before he leaves office,"
@@ -551,6 +583,6 @@ related:
         height: 600
         isCached: true
 
-secured: "cbtIU798wZhAGD/1I+DrdiUe9GodGV4i5sTbVLqqf0bZIRIT2PBKJvmdrAib7eUCS1EMZXxSdLmPpuPWJqWFSdWa3AlQ7c+BF7DSWjULfdInHVEAz/MM5jmmPxYlk19akBhq/+mrh4/91pMrcheO0d285YaZYqXyLinwrRsqrKSXV39ca7JOG2XScuZwxJjBRhfZC4IY9jJ9bEdcycDKAi/IsmiAGJ9WUOEVOa2Eo47e6wPV4DF4o+RwHby/CHApfnIRBCaP8RQ6tKGKo+7UeCnc1omFKV188t+ro2lzfl04jqkFaB5gZvngkCVk1k7/CzNhMt62W/cqWFSCbPYYaD4e4zYUTdHZ+lnu6b2reYY=;zuS36tt0TNEH5Uqv4Bbs0A=="
+secured: "REyoWJq6F3M0OtNzbXoj/H88iTzPsAPbVpUVSjAQHMbcy2O98hmNLxYIQacWV/20zPF0vDpxZHwil8AePwQgs3rwvDqT2rbonm2pW61dHnPG4lYNLZa+JvvFgO1ua+eddl2qabHXkjmQqCPsonGvd7NI18N9jS2NA/lDw4nWtgcWL9s9akSGHGnYld32hxVLVyF2yUdzWLmHl620UOlo80HpHIHc8IfZs5A0iXPvy4NtUzknOu1v7Gg5BAfUJj1KmYjsMryL3VHkDXfSktcb701RPlws1OyXSqepfB+Fn+GYZwUEqrPiPjEGUKUizyuNqo4xpJSE7jBcV/fy0uFQfz4q0wwqXZkH928QqILpEl8=;DplNe5cywCzeF5k3ey7wCg=="
 ---
 

@@ -1,28 +1,34 @@
 ---
 category: news
 title: "Toomey, who once unified the GOP, now on the outs over Trump"
-excerpt: "Before he became the object of fury of Republicans for voting to convict Donald Trump during the former president’s second impeachment trial, U.S. Sen. Pat Toomey of Pennsylvania was once the insurgent from the right."
-publishedDateTime: 2021-02-19T22:51:00Z
-originalUrl: "https://www.businessinsider.com/toomey-who-once-unified-the-gop-now-on-the-outs-over-trump-2021-2"
-webUrl: "https://www.businessinsider.com/toomey-who-once-unified-the-gop-now-on-the-outs-over-trump-2021-2"
-ampWebUrl: "https://www.businessinsider.com/toomey-who-once-unified-the-gop-now-on-the-outs-over-trump-2021-2?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/toomey-who-once-unified-the-gop-now-on-the-outs-over-trump-2021-2?amp"
+excerpt: "Before he became the object of fury of Republicans for voting to convict Donald Trump during the former president’s second impeachment trial, U.S. Sen. Pat Toomey of Pennsylvania was once the insurgen"
+publishedDateTime: 2021-02-19T21:51:00Z
+originalUrl: "https://www.washingtonpost.com/national/toomey-who-once-unified-the-gop-now-on-the-outs-over-trump/2021/02/19/b39874a8-72d2-11eb-8651-6d3091eac63f_story.html"
+webUrl: "https://www.washingtonpost.com/national/toomey-who-once-unified-the-gop-now-on-the-outs-over-trump/2021/02/19/b39874a8-72d2-11eb-8651-6d3091eac63f_story.html"
+ampWebUrl: "https://www.washingtonpost.com/national/toomey-who-once-unified-the-gop-now-on-the-outs-over-trump/2021/02/19/b39874a8-72d2-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/toomey-who-once-unified-the-gop-now-on-the-outs-over-trump/2021/02/19/b39874a8-72d2-11eb-8651-6d3091eac63f_story.html?outputType=amp"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
+    isCached: true
 
 related:
   - title: "Trump triumphant – but senior Republicans still see battles ahead"
@@ -399,6 +405,6 @@ related:
         height: 455
         isCached: true
 
-secured: "NSejlVI33C25vJ076422kWlW6KhGXNgzC35EvIBUJEG5qTeV7JS60w0f8+vFxKouubLqEk6i4nd8j3bDgym14UQp+Uw8boQ2S7wxV6BLtsVImf2HHCXTkbkBNk+LNsQrp45RWmdo+WiqnbzBpbzFxOaYWWYywUSbIVkpbA7bvb+aOQM+xnz8fWgRJQAJY/tIFu7VQWYLLv1NXYP5S/7Jv4OiplP2hHxyIU69e2cEFmfUQ254O96JHcgSAxBdfHuD/caICzhXgyeKd91Jcdy4ZWrnPTbOigwGfpPqWon75pvF6U6VNL0LX8Xz+g7RSZhi7/yXmkFk3jVwWSq30b6rWTM06QoaJHwitppa3+fw924=;RIcIeKK/by7YnY69kSjavw=="
+secured: "U6AGmdP5tohP9PzP2BYhIq2QVWqqFglwDHzMU9acIoivR/MVzp5KrtYHBRjYQ6U6Szj3HjMwXT8Cx5KcuTgV+trQjqCDX4BgpJwQh7xzc3sPtVJoa0a7BTYe3LoKioYTn68SjUR8C/uwJf6fnmoMWRRRlkOdI9nERCzmhfGnuCtxf7w3CgWVBokim1Gzu7p2FvS5YtWjzsyoJSvGd/8q/WQbD8XbcSpmcUeYVFAOAl0g8VNyaKuRS3SMwLAdQmsYEYt5EL5MRFK0YN89IOfjGd+re2rlyTpbTAFHieMQn21q5OaiSLlgvnC777yGhsrJv5tuVXUxsoJotjZ6FoH/JFXbjxVw19IsQDBpoeKTykA=;vq6YDvOYvcMoGeaSezUzJw=="
 ---
 

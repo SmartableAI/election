@@ -1,28 +1,34 @@
 ---
 category: news
-title: "Two Dozen Asylum Seekers Enter U.S. as Biden Unwinds Trump Program"
-excerpt: "The United States will on Friday begin rolling back one of former President Donald Trump's strictest immigration policies, allowing in the first of thousands of asylum seekers who have been forced to wait in Mexico for their cases to be heard."
-publishedDateTime: 2021-02-19T23:07:00Z
-originalUrl: "https://www.usnews.com/news/top-news/articles/2021-02-19/us-begins-admitting-asylum-seekers-blocked-by-trump-with-thousands-more-waiting"
-webUrl: "https://www.usnews.com/news/top-news/articles/2021-02-19/us-begins-admitting-asylum-seekers-blocked-by-trump-with-thousands-more-waiting"
-ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-02-19/us-begins-admitting-asylum-seekers-blocked-by-trump-with-thousands-more-waiting?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-02-19/us-begins-admitting-asylum-seekers-blocked-by-trump-with-thousands-more-waiting?context=amp"
+title: "Two dozen asylum seekers enter U.S. as Biden unwinds Trump program"
+excerpt: "A group of 25 asylum seekers was allowed into the United States on Friday, advocates said, the start of an effort to unwind one of former President Donald Trump's most restrictive immigration policies,"
+publishedDateTime: 2021-02-20T02:19:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-immigration-asylum-idUSKBN2AJ118"
+webUrl: "https://www.reuters.com/article/us-usa-immigration-asylum-idUSKBN2AJ118"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AJ118"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AJ118"
 type: article
-quality: 70
+quality: 140
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210220&t=2&i=1552233248&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1I0QY"
+    width: 731
+    height: 545
+    isCached: true
 
 related:
   - title: "Biden pauses Trump policies as Blinken takes diplomatic helm"
@@ -1774,6 +1780,6 @@ related:
         height: 649
         isCached: true
 
-secured: "vJLmLogQPDoLrGf2BZwVtCGqTVLuTZPUmNMuG8WZBjdGYojdch5NEYMiDt4qHMj6BD+2KzAtJf0OXbiK4EXD3sapHlu00wkU/I/HQRQtDuNSIBlFaYlDHn1PrCe6z3+LdSltz4wrhSJ/d6tEPv1EHH0V+Oc8qOwVqbTCZrcG9kivpTRSb0m5PGTrvGOGCQ3CO+zpv4zulsihTlV/b4OG8huyRWEmb2fgZbSGDHGSBce0cBVowIGmmS/rjuTh2iuXiUdPeLONXhsxirJpJ3/68KLB/gaZVpEqnGEJX4meMcdVshXBhmXlHq7GlN2KPFpc2ypv2wcAr7caDCoP2yf9vKGqfwEoJRtSii2SHDa6s+vJXGww4qKRK5QZsxFB9LzD2b04DrliFDO32ROZQeoseAfz1zVI9o2aHZlmtItJ5CtdajR2zt7xq3CRJIdXgKH+mQmk/dDav0M0R6NR8dj5/JhGzzNrlQgdV32haBFsjXiJus2vMJqHjjVUpYNLEwCRW3zM65RtoWXk0F7TMkaT3Q==;FfAV+8gENxFD7KFQuZ79ow=="
+secured: "gpaTDVnI62jlDobC2v7nmE5n1weW9ITw+clgDmTJ+Fcu6JeZ7nYC0wgZM0SqCW81VOx/dkBhDTbTbaWWL439I7ggpn09zhUOTjcIi6pxV5qvMb5xi164+S7DsocZKu2x5vIIRTrish8doEkNJcXJkPpKYVCoNIM5t8wwOi2VyqUUD6maDHpjCf6Y1QLoBjki6ZVL12WByLK9KWui2KNm/C13Cg/ItCe4GnVyWRJVSggHGHrKv6Zo2qr9aKpKX5w5CIeYx8emMvGXhWWG/f/CEJOa39IXYD27lfw1f7Cwr5EBoO20Zg3Wj53iLmQYRQXWXzK5a05GxOcwD+qZ5dGk4IngrkqUyEu4l/DY1tKH9VU=;W/J20G0ij0Obr89rHtw/Ow=="
 ---
 

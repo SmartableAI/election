@@ -441,6 +441,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Two dozen asylum seekers enter U.S. as Biden unwinds Trump program"
+    excerpt: "A group of 25 asylum seekers was allowed into the United States on Friday, advocates said, the start of an effort to unwind one of former President Donald Trump's most restrictive immigration policies,"
+    publishedDateTime: 2021-02-20T02:19:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-immigration-asylum-idUSKBN2AJ118"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AJ118"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AJ118"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210220&t=2&i=1552233248&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1I0QY"
+        width: 731
+        height: 545
+        isCached: true
   - title: "Biden administration drops Trump-era discrimination lawsuit against Yale"
     excerpt: "Lawsuit had claimed university discriminates against Asian American and white applicants"
     publishedDateTime: 2021-02-03T20:01:00Z
@@ -1687,17 +1703,6 @@ related:
         width: 864
         height: 768
         isCached: true
-  - title: "Two Dozen Asylum Seekers Enter U.S. as Biden Unwinds Trump Program"
-    excerpt: "The United States will on Friday begin rolling back one of former President Donald Trump's strictest immigration policies, allowing in the first of thousands of asylum seekers who have been forced to wait in Mexico for their cases to be heard."
-    publishedDateTime: 2021-02-19T23:07:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-02-19/us-begins-admitting-asylum-seekers-blocked-by-trump-with-thousands-more-waiting"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-02-19/us-begins-admitting-asylum-seekers-blocked-by-trump-with-thousands-more-waiting?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-02-19/us-begins-admitting-asylum-seekers-blocked-by-trump-with-thousands-more-waiting?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 70
   - title: "Trump Makes Last-ditch Bid To Block Biden Win As Congress Goes Democratic"
     excerpt: "Donald Trump on Wednesday launched a furious last-minute bid on the streets of Washington to reverse his election defeat, as Joe Biden was set to be certified president with an added triumph of his Democratic Party on track to win full control of Congress."
     publishedDateTime: 2021-01-06T18:26:00Z

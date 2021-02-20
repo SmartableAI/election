@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "How Biden's massive Covid relief bill was put on a glide path to passage"
+    excerpt: "It's not supposed to look this easy.\n    \n"
+    publishedDateTime: 2021-02-20T01:42:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gsB4_WHoIrs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/19/politics/democrats-joe-biden-covid-relief-package/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/19/politics/democrats-joe-biden-covid-relief-package/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210203140143-01-biden-harris-senate-dems-0203-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Fact check: Biden makes at least four false statistical claims at CNN town hall"
     excerpt: "President Joe Biden took questions from Wisconsin residents and from Anderson Cooper at a CNN town hall event in Milwaukee on Tuesday night.\n    \n"
     publishedDateTime: 2021-02-17T21:10:19Z

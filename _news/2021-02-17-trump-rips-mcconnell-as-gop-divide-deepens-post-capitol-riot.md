@@ -73,22 +73,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "GOP infighting in post-Trump era threatens California recall"
-    excerpt: "Republican hopes of ousting Democratic Gov. Gavin Newsom in California could be threatened by bitter infighting within the state GOP"
-    publishedDateTime: 2021-02-19T16:16:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/republican-infighting-rattles-bid-oust-democrat-newsom-75988518"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/republican-infighting-rattles-bid-oust-democrat-newsom-75988518"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/republican-infighting-rattles-bid-oust-democrat-newsom-75988518"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_c675bfc3c964454fb6184036974f39ae_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Trump-McConnell clash threatens to settle into a cold war as GOP eyes midterms"
     excerpt: "Republicans said the veteran Senate leader is unlikely to carry on in a back-and-forth with the former president. However, it’s unclear how far Trump will pursue his vendetta."
     publishedDateTime: 2021-02-18T05:41:00Z
@@ -183,6 +167,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "GOP Infighting in Post-Trump Era Threatens California Recall"
+    excerpt: "Republican hopes of ousting Democratic Gov. Gavin Newsom in California could be threatened by bitter infighting within the state GOP."
+    publishedDateTime: 2021-02-20T01:09:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-02-19/republican-infighting-rattles-bid-to-oust-democrat-newsom"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-19/republican-infighting-rattles-bid-to-oust-democrat-newsom?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-19/republican-infighting-rattles-bid-to-oust-democrat-newsom?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "+p5QqMLEsot4TL+xkUTAU0QKOw8+evp07q0XBYA40zmu9n5nE6OLp9t/uZjDYgaYTB5OK5kLtWzRVIC7Fx/6kgprl4ngDNXpDBuNIfggqltAGsOibRloZqdHzFTgvd2eEUQPE2jXeJWROAeHp95n3uNBuJKMf1qPVOX9AWYPqftqztIJhCR1m0g+nWAC8IuhTJcmmY+sflWGATk8qJJLP4OzldUiCKiOyeP3ODNo6iYPy2yd/b8zPLteI33IoGWAm2Or/UkdzKjnQIA44nmVrGoD8kWh7WazZMp+JfQvc4BFX8V27y3NldUFg8G9HPoEvYpvGFzqs0rZZL90+zfedhCJjhmZKcXgX4hvnXItMS+jzaVwsr13fahSEnj960Nhn4sNzKyGo2oPLOeSfCLwJ4xgveHU943MlD7kI4z7nHo0khtQxW1qNllBjGOwDAbTUlUCwPIc1Z3ylyU3zHrG7/OEWIlCcM/1a7LgNXZ78998Q4D27N79S6Obk+D/mJIvzdfDvhvGviwftdyhRD3cAw==;rKbeQN9OwhxNh1iLQDjWMA=="
 ---

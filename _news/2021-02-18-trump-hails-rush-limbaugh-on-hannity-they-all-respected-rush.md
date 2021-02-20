@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/us/trump-hails-rush-limbaugh-on-hannity-they
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/trump-hails-rush-limbaugh-on-hannity-they-all-respected-rush.amp"
 type: article
 quality: 135
-heat: 175
+heat: 155
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump reveals story behind Rush Limbaugh's Presidential Medal of Freedom honor"
-    excerpt: "Former President Donald Trump joined \"Hannity\" on Wednesday to remember conservative radio host Rush Limbaugh, who passed away at age 70 after a long battle with lung cancer."
-    publishedDateTime: 2021-02-18T03:32:00Z
-    webUrl: "https://www.foxnews.com/media/trump-rush-limbaugh-medal-of-freedom-lung-cancer"
-    ampWebUrl: "https://www.foxnews.com/media/trump-rush-limbaugh-medal-of-freedom-lung-cancer.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/trump-rush-limbaugh-medal-of-freedom-lung-cancer.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 131
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/92214969-2ed8-4652-abbf-25abb5a4c35d/230c7f0f-55bc-4f80-84a5-1a6341629932/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Donald Trump mourns passing of Rush Limbaugh: ‘He is a legend, he loved this country so much'"
     excerpt: "Former President Donald Trump joined Fox News to remember conservative radio host Rush Limbaugh, who died at age 70 following a lung cancer battle."
     publishedDateTime: 2021-02-17T18:37:00Z

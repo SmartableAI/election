@@ -1,34 +1,28 @@
 ---
 category: news
-title: "GOP infighting in post-Trump era threatens California recall"
-excerpt: "Republican hopes of ousting Democratic Gov. Gavin Newsom in California could be threatened by bitter infighting within the state GOP"
-publishedDateTime: 2021-02-19T16:16:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/republican-infighting-rattles-bid-oust-democrat-newsom-75988518"
-webUrl: "https://abcnews.go.com/Politics/wireStory/republican-infighting-rattles-bid-oust-democrat-newsom-75988518"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/republican-infighting-rattles-bid-oust-democrat-newsom-75988518"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/republican-infighting-rattles-bid-oust-democrat-newsom-75988518"
+title: "GOP Infighting in Post-Trump Era Threatens California Recall"
+excerpt: "Republican hopes of ousting Democratic Gov. Gavin Newsom in California could be threatened by bitter infighting within the state GOP."
+publishedDateTime: 2021-02-20T01:09:00Z
+originalUrl: "https://www.usnews.com/news/politics/articles/2021-02-19/republican-infighting-rattles-bid-to-oust-democrat-newsom"
+webUrl: "https://www.usnews.com/news/politics/articles/2021-02-19/republican-infighting-rattles-bid-to-oust-democrat-newsom"
+ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-19/republican-infighting-rattles-bid-to-oust-democrat-newsom?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-19/republican-infighting-rattles-bid-to-oust-democrat-newsom?context=amp"
 type: article
-quality: 125
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_c675bfc3c964454fb6184036974f39ae_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "GOP Sen. Richard Burr facing censure at home over vote to convict Trump"
@@ -185,6 +179,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "uXhipf0U6drxHUGglNvHivZlRECgftXI24nif+IfXbfGrbUi997/Zdf05n8OE5SeoeMLvZNZHfpstrzWIy5/zFPt1X9S0fdf2S8Y9Qc6t7jhSBKcz9jfM00PxWZiPiQm8KbR1KZbN+qxAUcaPn75VH36eTWWt60/hxtXG8RB2Y10FfaFHUoeV0+r/R79sxaZYLCAYzHk9eXSgxsh9/jZs8COWIbzi1Y2fYE0Y0gRMCf5zKL416C6BW1N8I655HS6mPmQvg8N4E3VjiGvETIGEUtO3Usk3NzsFjfokXbDQESWwNsAg0hd3rhrYN12JYd7rb62JMFDi6Hb+MFqcZao9hu0B9z8/su9JkQuZu0eY8sF406lr8A5AkVnUClLmC4zwnmDOQWm4HBvdOhcNjnl7Et9YMiI4ktqLCGD8nDNF9W/g5qnemSzq5RZgAfjF0R08fJOBCoYC0IekdNnMm9SgR4YnEp5xN6iJyFLXhxN/fZsMIx94yfrKD8Vg0x28hmz+M1/AI5B2ZNLX80O+rRqEQ==;xlta4h9on8O0G9CYOwvnmQ=="
+secured: "kYBq288MDzd8wtmwNdky9eMVnhzDkEvea2mydp/g7DkqlurOVQxMthnEdk/Z9tO41FgZvpy5XIaQwYUWncVvfRofhZ4s+HkfXfT7QWH6E6Nh0XGvDQJRRvflQFAsNDyDmnNrC69sVejxU5ekbFSUA0lNiHa5EWqV748wnC4uq21tG1I331wD9FWwhuCkvz36bGUhm/CAE03ffkkjtYveUF5thZbR973HBOPluFwJOSpQ4KhXlPPC45XQi99JTgPBCzYQizMAnJV9ooQpEhSXL6zT/rlY1HxzR5ERXUUZJKlYZXymjeNCn8HjrMuZe3qbcPq8vdyWsmIN0VONYo23ezd31BelcabN6ABVBu3EfRF3oConQE/gp/XwByWmS6jsj7FSuqoIJ9r1RQXwUfC+9aQ/7LA7D8Ai1BvHoFgelzbiG5u3T4SF4Ff6ZYTJYaGYeDKSvE1vN9+yr6P0kV8MM0olHzk+oa7ExKdbLiA1co5+OOQjXhwN7iYxxAStYWDYT+eIrNvq8zsjpZyzyrQDQg==;OH8Gba8Pudw0t86SxBxj7g=="
 ---
 
