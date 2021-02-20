@@ -63,6 +63,22 @@ related:
         width: 793
         height: 545
         isCached: true
+  - title: "Extreme weather testing Biden's disaster management skills"
+    excerpt: "The extreme winter weather that left residents of Texas and other Southern states shivering through an unseasonal cold spell is testing President Joe Biden's disaster management skills"
+    publishedDateTime: 2021-02-20T07:51:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/extreme-weather-testing-bidens-disaster-management-skills-76013438"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/extreme-weather-testing-bidens-disaster-management-skills-76013438"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/extreme-weather-testing-bidens-disaster-management-skills-76013438"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_bd8d39b6c9574abaaeb3520020d053c3_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "UPDATE 1-Biden pushes for pandemic relief in first official trip as president"
     excerpt: "President Joe Biden vowed during a prime-time televised town hall on Tuesday to accelerate the country's vaccination program and said teachers should be moved closer to the front of the line for inoculations to allow more schools to reopen."
     publishedDateTime: 2021-02-17T02:56:00Z

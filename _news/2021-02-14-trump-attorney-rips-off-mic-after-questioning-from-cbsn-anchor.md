@@ -429,6 +429,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Inspector general reviews Trump relocation of Space Command"
+    excerpt: "The inspector general for the Department of Defense is investigating the Trump administration’s last-minute decision to relocate U.S. Space Command from Colorado to Alabama"
+    publishedDateTime: 2021-02-20T06:19:00Z
+    webUrl: "https://www.washingtonpost.com/politics/inspector-general-reviews-trump-relocation-of-space-command/2021/02/19/a78b464e-7319-11eb-8651-6d3091eac63f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/inspector-general-reviews-trump-relocation-of-space-command/2021/02/19/a78b464e-7319-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/inspector-general-reviews-trump-relocation-of-space-command/2021/02/19/a78b464e-7319-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Pull of partisanship helps Trump escape impeachment conviction: ANALYSIS"
     excerpt: "While seven Republicans joined all 50 Democrats in voting for former President Donald Trump 's conviction, the Senate fell 10 votes short of conviction. Trump was spared the ultimate punishment Congress could wield by powerful and familiar forces he has long understood,"
     publishedDateTime: 2021-02-13T22:04:00Z

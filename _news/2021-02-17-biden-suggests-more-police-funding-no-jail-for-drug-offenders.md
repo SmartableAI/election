@@ -47,6 +47,22 @@ related:
         width: 2500
         height: 1665
         isCached: true
+  - title: "Extreme weather testing Biden's disaster management skills"
+    excerpt: "The extreme winter weather that left residents of Texas and other Southern states shivering through an unseasonal cold spell is testing President Joe Biden's disaster management skills"
+    publishedDateTime: 2021-02-20T07:51:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/extreme-weather-testing-bidens-disaster-management-skills-76013438"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/extreme-weather-testing-bidens-disaster-management-skills-76013438"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/extreme-weather-testing-bidens-disaster-management-skills-76013438"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_bd8d39b6c9574abaaeb3520020d053c3_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Fact check: Biden approved emergency measures in response to Texas freeze"
     excerpt: "Social media users have been sharing content online that claims President Joe Biden took no action in response to the unusually low temperatures in Texas. While Biden has not publicly spoken about Texas as of February 18,"
     publishedDateTime: 2021-02-18T16:04:00Z

@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-20-trump-freeze-out-de-blasio-puts-former-presidents-nyc-rink-contracts-on-ice.md",
+      "title": "Trump freeze-out: De Blasio puts former president's NYC rink contracts on ice",
+      "excerpt": "The Trump Organization says its last day of operating Central Park's ice rinks will be Sunday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EnoPHbJmapY/trump-freeze-out-de-blasio-puts-former-presidents-nyc-rink-contracts-on-ice",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EnoPHbJmapY/trump-freeze-out-de-blasio-puts-former-presidents-nyc-rink-contracts-on-ice",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/640/320/Bill-de-Blasio-trump.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-freeze-out-de-blasio-puts-former-presidents-nyc-rink-contracts-on-ice.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-freeze-out-de-blasio-puts-former-presidents-nyc-rink-contracts-on-ice.amp",
+      "publishedDateTime": "2021-02-19T23:25:29-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-20-trump-wants-us-to-make-it-wild-six-more-oath-keepers-associates-charged-in-capitol-riots-conspiracy-case.md",
       "title": "Trump 'wants us to make it WILD': Six more Oath Keepers' associates charged in Capitol riots conspiracy case",
       "excerpt": "Six people, including two husband-and-wife pairs, were added to a federal conspiracy case Friday for alleged coordinate efforts in the Capitol attack.",
@@ -394,7 +450,7 @@
       "originalUrl": "https://abcnews.go.com/Entertainment/wireStory/trump-repeats-election-claims-interviews-unchallenged-76002370",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1460,
+      "heat": 1480,
       "tags": null,
       "images": [
         {
@@ -1296,62 +1352,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-scalise-rips-biden-school-reopening-goal-youre-afraid-of-standing-up-to-the-teachers-union.md",
-      "title": "Scalise rips Biden school-reopening goal: 'You're afraid of standing up to the teachers union'",
-      "excerpt": "Rep. Steve Scalise, R-La., said President Biden's goal to open the majority of K-8 schools by April 30 falls way short of what school children need, and the Republican Whip urged Biden to choose science over teacher unions.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/p_vSPVbXqeo/rep-scalise-rips-bidens-school-reopening-goal",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/p_vSPVbXqeo/rep-scalise-rips-bidens-school-reopening-goal",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Steve-Scalise-headshot.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/rep-scalise-rips-bidens-school-reopening-goal.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-scalise-rips-bidens-school-reopening-goal.amp",
-      "publishedDateTime": "2021-02-18T15:43:12-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

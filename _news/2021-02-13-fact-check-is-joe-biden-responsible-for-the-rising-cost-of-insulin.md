@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/fact-check-joe-biden-responsible-rising-cos
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fact-check-joe-biden-responsible-rising-cost-insulin-1569045?amp=1"
 type: article
 quality: 125
-heat: 305
+heat: 325
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210217&t=2&i=1551800910&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1G074"
         width: 793
         height: 545
+        isCached: true
+  - title: "Extreme weather testing Biden's disaster management skills"
+    excerpt: "The extreme winter weather that left residents of Texas and other Southern states shivering through an unseasonal cold spell is testing President Joe Biden's disaster management skills"
+    publishedDateTime: 2021-02-20T07:51:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/extreme-weather-testing-bidens-disaster-management-skills-76013438"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/extreme-weather-testing-bidens-disaster-management-skills-76013438"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/extreme-weather-testing-bidens-disaster-management-skills-76013438"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_bd8d39b6c9574abaaeb3520020d053c3_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Fact check: Biden approved emergency measures in response to Texas freeze"
     excerpt: "Social media users have been sharing content online that claims President Joe Biden took no action in response to the unusually low temperatures in Texas. While Biden has not publicly spoken about Texas as of February 18,"

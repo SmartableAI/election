@@ -431,6 +431,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Inspector general reviews Trump relocation of Space Command"
+    excerpt: "The inspector general for the Department of Defense is investigating the Trump administration’s last-minute decision to relocate U.S. Space Command from Colorado to Alabama"
+    publishedDateTime: 2021-02-20T06:19:00Z
+    webUrl: "https://www.washingtonpost.com/politics/inspector-general-reviews-trump-relocation-of-space-command/2021/02/19/a78b464e-7319-11eb-8651-6d3091eac63f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/inspector-general-reviews-trump-relocation-of-space-command/2021/02/19/a78b464e-7319-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/inspector-general-reviews-trump-relocation-of-space-command/2021/02/19/a78b464e-7319-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Trump's Indonesia partner to build movie studio after securing tax breaks"
     excerpt: "Indonesian tycoon Hary Tanoesoedibjo, a business partner of former U.S. president Donald Trump, launched on Monday construction on a movie studio as part of a tourism complex on Java island that is set to receive tax breaks."
     publishedDateTime: 2021-02-15T14:07:00Z

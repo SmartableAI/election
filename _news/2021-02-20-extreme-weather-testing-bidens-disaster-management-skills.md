@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Fact check: Joe Biden did not predict or manipulate the weather that caused the Texas freeze"
-excerpt: "A post circulating on Facebook claims that President Joe Biden “manipulated” and “controlled” the weather to cause the Texas deep freeze in mid-February 2021 that has left millions without power and at least 21 people dead."
-publishedDateTime: 2021-02-19T20:54:00Z
-originalUrl: "https://www.reuters.com/article/uk-factcheck-biden-not-control-weather-idUSKBN2AJ1VU"
-webUrl: "https://www.reuters.com/article/uk-factcheck-biden-not-control-weather-idUSKBN2AJ1VU"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AJ1VU"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AJ1VU"
+title: "Extreme weather testing Biden's disaster management skills"
+excerpt: "The extreme winter weather that left residents of Texas and other Southern states shivering through an unseasonal cold spell is testing President Joe Biden's disaster management skills"
+publishedDateTime: 2021-02-20T07:51:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/extreme-weather-testing-bidens-disaster-management-skills-76013438"
+webUrl: "https://abcnews.go.com/Politics/wireStory/extreme-weather-testing-bidens-disaster-management-skills-76013438"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/extreme-weather-testing-bidens-disaster-management-skills-76013438"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/extreme-weather-testing-bidens-disaster-management-skills-76013438"
 type: article
-quality: 114
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210219&t=2&i=1552173574&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1I12Z"
-    width: 818
-    height: 545
+  - url: "https://s.abcnews.com/images/Politics/WireAP_bd8d39b6c9574abaaeb3520020d053c3_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -62,22 +62,6 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210217&t=2&i=1551800910&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1G074"
         width: 793
         height: 545
-        isCached: true
-  - title: "Extreme weather testing Biden's disaster management skills"
-    excerpt: "The extreme winter weather that left residents of Texas and other Southern states shivering through an unseasonal cold spell is testing President Joe Biden's disaster management skills"
-    publishedDateTime: 2021-02-20T07:51:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/extreme-weather-testing-bidens-disaster-management-skills-76013438"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/extreme-weather-testing-bidens-disaster-management-skills-76013438"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/extreme-weather-testing-bidens-disaster-management-skills-76013438"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_bd8d39b6c9574abaaeb3520020d053c3_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Fact check: Biden approved emergency measures in response to Texas freeze"
     excerpt: "Social media users have been sharing content online that claims President Joe Biden took no action in response to the unusually low temperatures in Texas. While Biden has not publicly spoken about Texas as of February 18,"
@@ -159,6 +143,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Fact check: Joe Biden did not predict or manipulate the weather that caused the Texas freeze"
+    excerpt: "A post circulating on Facebook claims that President Joe Biden “manipulated” and “controlled” the weather to cause the Texas deep freeze in mid-February 2021 that has left millions without power and at least 21 people dead."
+    publishedDateTime: 2021-02-19T20:54:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-biden-not-control-weather-idUSKBN2AJ1VU"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AJ1VU"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AJ1VU"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 114
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210219&t=2&i=1552173574&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1I12Z"
+        width: 818
+        height: 545
+        isCached: true
   - title: "Biden heads to Wisconsin to rally support for virus relief"
     excerpt: "Leaving Donald Trump and his impeachment in the rearview mirror, Joe Biden is embarking on his first official trip as president to refocus Congress on coronavirus relief and to cement public support for his $1."
     publishedDateTime: 2021-02-17T00:32:00Z
@@ -185,6 +185,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "A/XyExCOLHAH8AHUiJIYefM14p4wd6rLFNbzARO/O1d4fWGZk0i/YLPbkdg3L1q9MDSEfN/xuASXdPC8KVyF91HhzUV5wR/8EBGl0zjKeUKeVfHg2UhwL3+pwOJmVNwLruJ1t3VB2JTymx8mA2PFzYl943/YiVCZvFcaTkyKFCTX/ePJOVzcjywRXzbubO7kW5sNSwtL4rXQDKSv+sUZDWC/XfRMY040G48YGIi11f+Mjd3KMlZHMb9l3xNun8b6nSEshBsBJsrYDiyvrV/jBtGeNSD3Ag4U8EzDzsNH+5lq7qDJP79RRKqpcAVSD6taOKeLOMvrfHxG2V4x2jkha03CGRIUUuo1qFp/6b6TEy0=;zgsh2iQK/zdQfOIFOfzvKA=="
+secured: "IDWivYGqcAW7ssMUrG6s9TUj8PAeOcJ99cFdXuDuNim6s7kHJCIkFA7FxdqHkva439y2Le0+nNdRUC2G7hJpbEin3ddAGHHs/cB8Wyu/3jgBFQyWixa6KE4sNXcRCgfEuFfbzOpz5nUIOhk35KJ6+klO4+3s5KjRzTyfJctLCKLbS5I1xhb4fx5C680ACkkPpdnhvmXTpz6qp3/cmndBt0PnCWM1CvH1vVnbJjuah4C+mNc+sFPiu9j6CF3XLTiBzXihkTWJzL2B/nLVd3o1QbDRDQIE3zdw+wes4JDs+RVtAADqmczdjHtCe5DIY3JPD+zj93YauMs4FVZ0lP6ag87LqqChOZQodst67jVohfI=;5RjsFUN0Sz2yLwS4fr3fbQ=="
 ---
 

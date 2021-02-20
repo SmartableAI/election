@@ -2,6 +2,63 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-02-03-she-was-stunned-by-bidens-inauguration-how-this-south-carolina-mom-escaped-qanon.md",
+      "title": "She was stunned by Biden's inauguration. How this South Carolina mom escaped QAnon",
+      "excerpt": "She was terrified that she would have to go into hiding with her daughter. Many QAnon believers have clear political motives, but Vanderbilt says she is a passive participant in politics. \"I've always been someone that you just tell me what to do and I do it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2021/02/03/tech/qanon-mom-former-believer/index.html",
+      "originalUrl": "https://www.cnn.com/2021/02/03/tech/qanon-mom-former-believer/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210202185142-former-qanon-believer-ashley-3-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/03/tech/qanon-mom-former-believer/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/03/tech/qanon-mom-former-believer/index.html",
+      "publishedDateTime": "2021-02-02T23:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-03-bidens-pay-their-respects-to-capitol-police-officer-brian-sicknick-as-officer-lies-in-honor-at-capitol.md",
       "title": "Bidens pay their respects to Capitol Police Officer Brian Sicknick as officer lies in honor at Capitol",
       "excerpt": "The body of the late US Capitol Police Officer Brian D. Sicknick arrived Tuesday night to lie in honor in the US Capitol Rotunda, less than four weeks since he died after responding to the violent riot that erupted in the building.\n    \n",
@@ -1285,62 +1342,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-ex-nfl-star-marcellus-wiley-calls-for-separate-transgender-category-in-school-sports-after-biden-order.md",
-      "title": "Ex-NFL star Marcellus Wiley calls for 'separate transgender category' in school sports after Biden order",
-      "excerpt": "Former NFL star and current Fox Sports 1 host Marcellus Wiley called last week for the creation of a \"separate transgender category\" for youth athletics.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/w31i18hHHNA/ex-nfl-star-marcellus-wiley-separate-transgender-category-school-sports-biden-order",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/w31i18hHHNA/ex-nfl-star-marcellus-wiley-separate-transgender-category-school-sports-biden-order",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b139c892-ec9b-4fd7-8495-2deb7c7cccd5/dd5dac3c-9679-4542-953a-304d19d0093d/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ex-nfl-star-marcellus-wiley-separate-transgender-category-school-sports-biden-order.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ex-nfl-star-marcellus-wiley-separate-transgender-category-school-sports-biden-order.amp",
-      "publishedDateTime": "2021-02-01T14:54:15-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

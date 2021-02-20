@@ -143,6 +143,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden draws sharp contrast with Trump in presidential debut on world stage"
+    excerpt: "U.S. President Joe Biden on Friday drew a sharp contrast with the foreign policy of his much-derided predecessor, Donald Trump, and urged democracies to work together to challenge abuses by autocratic states such as China and Russia."
+    publishedDateTime: 2021-02-20T00:26:00Z
+    webUrl: "https://www.reuters.com/article/uk-g7-meeting-biden-idUSKBN2AJ11I"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AJ11I"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AJ11I"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 138
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210220&t=2&i=1552228766&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1I0KA"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden says 'some minds' may be changed by video from Trump impeachment trial"
     excerpt: "President Biden on Thursday said he believed “some minds” may have been changed on whether to convict former President Trump after House impeachment managers presented harrowing video of the Jan. 6 Capitol attack."
     publishedDateTime: 2021-02-11T16:26:00Z
@@ -605,17 +621,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
-  - title: "Biden Draws Sharp Contrast With Trump in Presidential Debut on World Stage"
-    excerpt: "U.S. President Joe Biden on Friday drew a sharp contrast with the foreign policy of his much-derided predecessor, Donald Trump, and urged democracies to work together to challenge abuses by autocratic states such as China and Russia."
-    publishedDateTime: 2021-02-19T19:14:00Z
-    webUrl: "https://www.usnews.com/news/world/articles/2021-02-19/bidens-message-to-g7-munich-events-allies-should-work-together-on-china-challenge"
-    ampWebUrl: "https://www.usnews.com/news/world/articles/2021-02-19/bidens-message-to-g7-munich-events-allies-should-work-together-on-china-challenge?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2021-02-19/bidens-message-to-g7-munich-events-allies-should-work-together-on-china-challenge?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 68
   - title: "Biden Scraps Trump Plan to Weaken Environmental Rules to Build Renewables in California"
     excerpt: "The Biden administration on Wednesday said it would scrap a Trump-era proposal to weaken environmental protections for millions of acres of California desert to ease development of wind and solar energy projects."
     publishedDateTime: 2021-02-17T22:00:00Z

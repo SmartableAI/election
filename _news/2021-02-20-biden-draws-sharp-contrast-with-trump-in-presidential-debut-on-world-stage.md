@@ -1,28 +1,34 @@
 ---
 category: news
-title: "Biden Draws Sharp Contrast With Trump in Presidential Debut on World Stage"
+title: "Biden draws sharp contrast with Trump in presidential debut on world stage"
 excerpt: "U.S. President Joe Biden on Friday drew a sharp contrast with the foreign policy of his much-derided predecessor, Donald Trump, and urged democracies to work together to challenge abuses by autocratic states such as China and Russia."
-publishedDateTime: 2021-02-19T19:14:00Z
-originalUrl: "https://www.usnews.com/news/world/articles/2021-02-19/bidens-message-to-g7-munich-events-allies-should-work-together-on-china-challenge"
-webUrl: "https://www.usnews.com/news/world/articles/2021-02-19/bidens-message-to-g7-munich-events-allies-should-work-together-on-china-challenge"
-ampWebUrl: "https://www.usnews.com/news/world/articles/2021-02-19/bidens-message-to-g7-munich-events-allies-should-work-together-on-china-challenge?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2021-02-19/bidens-message-to-g7-munich-events-allies-should-work-together-on-china-challenge?context=amp"
+publishedDateTime: 2021-02-20T00:26:00Z
+originalUrl: "https://www.reuters.com/article/uk-g7-meeting-biden-idUSKBN2AJ11I"
+webUrl: "https://www.reuters.com/article/uk-g7-meeting-biden-idUSKBN2AJ11I"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AJ11I"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AJ11I"
 type: article
-quality: 68
+quality: 138
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210220&t=2&i=1552228766&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1I0KA"
+    width: 817
+    height: 545
+    isCached: true
 
 related:
   - title: "Kamala Harris said parts of the Trump administration's pandemic response left Biden 'starting from scratch'"
@@ -641,6 +647,6 @@ related:
         height: 400
         isCached: true
 
-secured: "lTuCv/xYzE2hdXq1sTN5m5Db6wfywYSu7zYkIdfVn53Slutv69X9eyuno0t9mj1/e9FLfFJ28n5Hu25bdsHjDieUhEGO82SfrfXIiZnC7NQnAK+qEAQ5ePn4MoRIMkB1OGWJ0Br89q9jGeAm8FVPB3k8pKVHGN7+WbI9DfMsyX175bcH2zxjHfbhoqbmOFtVH69Xag+jkmtHy+EQldU1YcS1ZNlrDCldF/ENzALcUbEps6Ycy0HMcHbVr+3b2RplxS3rpFurr8QLYthtI2wLYOBgk2CzWLkB6/AA2Tv4MOQx3lQIfH4q89Es99XWo943uQxELPfV40ZP8B8PiqXk4vKxdnj3AkWmX6A3tHxpu64Yt0P8qvFp5gY2aE3NNXffjWkVNJ+Rg53z9ZYZaoV2OgckZXwXyyGdrjZ4fNXozdo5sQAnI5qJaIRwipm9cozAtHmWzzPRwYfxoRFHC+/zIZaV2XqJekjicT3D0SkqIJfyzI1/nsgEA8DXgWVlk/e4bHhm1Iufte+S+E8PpuF6zQ==;8AQY5TDF7nTdLQuGVNkUKQ=="
+secured: "KAT038q5/NIucFLkhyVOuWKijfxg4wx8PvJy9JLpneQ5e37/3nOf6/5Wsrd1LcvXCHQ7BaujQ1a6EI/49lxgY+u8bAYuDto/3lY+AlohLFawNpSCbc2DEb08DJ6N44UyrH6623pa8yuGgkd6mKVxvruO3NfAz9L+B1WOp7XZHAn3z7AxJuJufd5nBZ+MTeFUQP/zOZ82cRj7j0bXHXVRa/ioUEPR7JpWL7M0/sFx+g1nFGvPuvatAQ09KXEy35FCgw3ZwlWY5K32QfO3qFfl3a24S38a63idWshS8OeIDxXLLYdFpYsRcfpOBu1Ag7rpOAB1OtFqgfdTLoKoEoejwFvt34El7HcCTHkb3s9wG4c=;ssklfgOAHnNCDHVvWyLiFQ=="
 ---
 

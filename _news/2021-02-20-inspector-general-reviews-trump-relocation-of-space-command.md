@@ -1,28 +1,34 @@
 ---
 category: news
-title: "2 Impeachment Trials, 2 Escape Hatches for Donald Trump"
-excerpt: "Donald Trump’s first impeachment trial centered on a phone call that Americans never heard with the leader of a country far away, Ukraine."
-publishedDateTime: 2021-02-14T05:41:00Z
-originalUrl: "https://www.usnews.com/news/politics/articles/2021-02-14/2-impeachment-trials-2-escape-hatches-for-donald-trump"
-webUrl: "https://www.usnews.com/news/politics/articles/2021-02-14/2-impeachment-trials-2-escape-hatches-for-donald-trump"
-ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-14/2-impeachment-trials-2-escape-hatches-for-donald-trump?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-14/2-impeachment-trials-2-escape-hatches-for-donald-trump?context=amp"
+title: "Inspector general reviews Trump relocation of Space Command"
+excerpt: "The inspector general for the Department of Defense is investigating the Trump administration’s last-minute decision to relocate U.S. Space Command from Colorado to Alabama"
+publishedDateTime: 2021-02-20T06:19:00Z
+originalUrl: "https://www.washingtonpost.com/politics/inspector-general-reviews-trump-relocation-of-space-command/2021/02/19/a78b464e-7319-11eb-8651-6d3091eac63f_story.html"
+webUrl: "https://www.washingtonpost.com/politics/inspector-general-reviews-trump-relocation-of-space-command/2021/02/19/a78b464e-7319-11eb-8651-6d3091eac63f_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/inspector-general-reviews-trump-relocation-of-space-command/2021/02/19/a78b464e-7319-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/inspector-general-reviews-trump-relocation-of-space-command/2021/02/19/a78b464e-7319-11eb-8651-6d3091eac63f_story.html?outputType=amp"
 type: article
-quality: 55
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
+    isCached: true
 
 related:
   - title: "Trump repeats election claims in interviews, is unchallenged"
@@ -415,22 +421,6 @@ related:
     webUrl: "https://www.washingtonpost.com/health/us-lets-in-asylum-seekers-stuck-in-mexico-ends-trump-policy/2021/02/19/76106eda-7271-11eb-8651-6d3091eac63f_story.html"
     ampWebUrl: "https://www.washingtonpost.com/health/us-lets-in-asylum-seekers-stuck-in-mexico-ends-trump-policy/2021/02/19/76106eda-7271-11eb-8651-6d3091eac63f_story.html?outputType=amp"
     cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/us-lets-in-asylum-seekers-stuck-in-mexico-ends-trump-policy/2021/02/19/76106eda-7271-11eb-8651-6d3091eac63f_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Inspector general reviews Trump relocation of Space Command"
-    excerpt: "The inspector general for the Department of Defense is investigating the Trump administration’s last-minute decision to relocate U.S. Space Command from Colorado to Alabama"
-    publishedDateTime: 2021-02-20T06:19:00Z
-    webUrl: "https://www.washingtonpost.com/politics/inspector-general-reviews-trump-relocation-of-space-command/2021/02/19/a78b464e-7319-11eb-8651-6d3091eac63f_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/inspector-general-reviews-trump-relocation-of-space-command/2021/02/19/a78b464e-7319-11eb-8651-6d3091eac63f_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/inspector-general-reviews-trump-relocation-of-space-command/2021/02/19/a78b464e-7319-11eb-8651-6d3091eac63f_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
@@ -1011,6 +1001,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "2 Impeachment Trials, 2 Escape Hatches for Donald Trump"
+    excerpt: "Donald Trump’s first impeachment trial centered on a phone call that Americans never heard with the leader of a country far away, Ukraine."
+    publishedDateTime: 2021-02-14T05:41:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-02-14/2-impeachment-trials-2-escape-hatches-for-donald-trump"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-14/2-impeachment-trials-2-escape-hatches-for-donald-trump?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-14/2-impeachment-trials-2-escape-hatches-for-donald-trump?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "The Latest: Senators to Consider Witnesses in Trump Trial"
     excerpt: "The Latest on former President Donald Trump's second Senate impeachment trial (all times local): Senators have voted to consider witnesses in the impeachment trial of former President Donald Trump. Closing arguments were expected Saturday with no witnesses called."
     publishedDateTime: 2021-02-13T16:35:00Z
@@ -1054,6 +1055,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "7h5pwJ5m+ZAdAJ04vlwXEAN2uo2HpVfKLtMWFi3Vq4Z9DpyNNKqsSCyyylM+FHh9JnLLP6P+EcCrBfQx6Fh0FqyRkUMfNsLAb0l/qxWH0+bXulMLIxvCdoouEG/gxOGqvGugAJAhEaC8vhQLQyzjKawH3xu3so0s+YPW/OjQJJ9PByssha4Hj/IR6OyS5gn2z7vFXFP8S+rAAXdmSDZKbKUgAanWutkp8/r60LzzOYs7HEq1CP1z/cL9QjuMyplGIinOqVblrIK1CzuO1kmybm9AY1+Iuj6wZ5XLsAWqDcMPfETWkTLFi5pat5sBm8kUcnjPdP2wrCYPG5MbgmqRgYz27HGFweBWEOYfIOc8pbgeCR2251t3EQZSTfqadtcMzmQDWgLhSHOuoawL+2e6EFNN19oUrPvZrntXeNNcyIYqfPr1G438lrunwTG6MN0ms3WgcbjXZprRL+h7q414vwDKlj7sA7KA2FST0yy/UubnUUQZGMxR2PNecLg082472/9biOMONshoohxNqVKduw==;1t0s7M/pSJ2ZXwQVSdOn4g=="
+secured: "oZHxcISIYcAXppPqIN18ajryttZW1YlOq+TGttkCZ4A4BK+v6RAGTzbUIX+T0hhe8bKKB3nLu4GmemYFRqrprjRmgPjDWoIqszC4K5ryhLVMU5KgM5O8/mG2nn9YliPCTuAkPioNN3xN9d8GYJSaiRuFE0Ip/Lv37I6LTpnYbOscOFnELOQJFymocYDxjNcAZS9coi3+XO+acUbLENd59WqliaswZQAfKdLRcW8dGGGSOTeatM1GfEl8P0WBrJskfRXY6DldeHg//mMwu1m4e0vwOi8kKX8kt6CLA3pJVpg7mfTpsPN+FSbW2i2U8i0F0UAMXtnQ7e6i1cIb/JQGrShWjtD3NuHZqaFNiXI6vdk=;jLZk5fD3jzA/APAWgA4i3A=="
 ---
 

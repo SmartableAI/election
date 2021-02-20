@@ -2,6 +2,58 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2021-01-16-key-witness-in-first-trump-impeachment-says-were-not-out-of-the-woods-yet-after-january-6-capitol-attack.md",
+      "title": "Key witness in first Trump impeachment says 'we're not out of the woods yet' after January 6 Capitol attack",
+      "excerpt": "\"Just because it didn't have a high likelihood of succeeding in a classic coup fashion doesn't mean it wasn't an attempt,\" Fiona Hill says.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/fiona-hill-us-capitol-attack-elements-of-civil-conflict-2021-1",
+      "originalUrl": "https://www.businessinsider.com/fiona-hill-us-capitol-attack-elements-of-civil-conflict-2021-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60021099e3d62500185fce50?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/fiona-hill-us-capitol-attack-elements-of-civil-conflict-2021-1?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fiona-hill-us-capitol-attack-elements-of-civil-conflict-2021-1?amp",
+      "publishedDateTime": "2021-01-16T07:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-16-biden-science-will-be-at-forefront-of-his-administration.md",
       "title": "Biden: Science will be at `forefront' of his administration",
       "excerpt": "President-elect Joe Biden says “science will always be at the forefront of my administration,” and he's elevating the post of science adviser to Cabinet level, a White House first",
@@ -1284,63 +1336,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-harris-and-emhoff-recall-first-date-it-felt-like-we-had-known-each-other-forever.md",
-      "title": "Harris and Emhoff recall first date: 'It felt like we had known each other forever'",
-      "excerpt": "Vice President-elect Kamala Harris and her husband Doug Emhoff recalled their first date in a rare joint interview with CNN's Abby Phillip, for a CNN special report airing Sunday on the barrier-breaking vice president and her historic career.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mDur_6LEgIg/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mDur_6LEgIg/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 199,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201110145840-harris-emhoff-0812-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/15/politics/kamala-harris-doug-emhoff-first-date-cnntv/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/15/politics/kamala-harris-doug-emhoff-first-date-cnntv/index.html",
-      "publishedDateTime": "2021-01-15T07:45:16-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Kamala Harris"
       ]
     }
   ],
