@@ -31,10 +31,10 @@ images:
 related:
   - title: "U.S. admits first group of asylum-seekers as Biden rolls back Remain-in-Mexico policy"
     excerpt: "As part of its efforts to wind down a Trump-era policy that kept tens of thousands of asylum-seekers outside U.S. territory, the Biden administration on Friday admitted the first group of migrants who had been previously required to wait in Mexico for their immigration court hearings."
-    publishedDateTime: 2021-02-20T02:16:00Z
-    webUrl: "https://www.cbsnews.com/news/remain-in-mexico-asylum-program-biden/?ftag=CNM-00-10aab4i"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/remain-in-mexico-asylum-program-biden/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/remain-in-mexico-asylum-program-biden/"
+    publishedDateTime: 2021-02-20T12:33:00Z
+    webUrl: "https://www.cbsnews.com/news/asylum-seekers-united-states-biden/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/asylum-seekers-united-states-biden/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/asylum-seekers-united-states-biden/"
     type: article
     provider:
       name: CBS News

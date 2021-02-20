@@ -415,6 +415,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Joe Manchin opposes Neera Tanden, endangering Biden's nominee to lead budget office"
+    excerpt: "The West Virginia senator cited Tanden's past tweets, which he said would have a \"toxic and detrimental impact\" on the relationship between the OMB and Congress."
+    publishedDateTime: 2021-02-20T12:29:00Z
+    webUrl: "https://www.cbsnews.com/news/neera-tanden-obm-nomination-joe-manchin-opposes/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/neera-tanden-obm-nomination-joe-manchin-opposes/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/neera-tanden-obm-nomination-joe-manchin-opposes/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 119
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/02/19/99b568e1-5fef-4f7d-894d-6e0a3e90856d/thumbnail/1200x630g2/d4f0c0e753b296bd5a184a8477313cb2/ap-21050785397642.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden will ask DOJ to review his authority to cancel student loan debt - White House"
     excerpt: "President Joe Biden will ask the Department of Justice to review his legal authority to cancel student loan debt, the White House said on Wednesday, adding the president does not favor $50,000 in student loan relief without limitation."
     publishedDateTime: 2021-02-18T00:20:00Z

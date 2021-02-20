@@ -3,8 +3,8 @@ category: news
 title: "President Biden and Kamala Harris Meet with Labor Leaders"
 excerpt: "President Joe Biden and Vice President Kamala Harris meet with a group of labor leaders to discuss the American Rescue Plan and to get input on the President's infrastructure plan at the White house in Washington,"
 publishedDateTime: 2021-02-18T00:50:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/346314840156eb433168da30c1dd98b2/President-Biden-and-Kamala-Harris-Meet-with-Labor-Leaders/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/346314840156eb433168da30c1dd98b2/President-Biden-and-Kamala-Harris-Meet-with-Labor-Leaders/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/0b2ba5ec6ea53ae96b71de6d31b0f783/President-Biden-and-Kamala-Harris-Meet-with-Labor-Leaders/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/0b2ba5ec6ea53ae96b71de6d31b0f783/President-Biden-and-Kamala-Harris-Meet-with-Labor-Leaders/"
 type: article
 quality: 70
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/346314840156eb433168da30c1dd98b2/BIDEN-LABOR-MEETING.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/0b2ba5ec6ea53ae96b71de6d31b0f783/BIDEN-LABOR-MEETING.jpg"
     width: 650
     height: 433
     isCached: true
@@ -1475,6 +1475,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "iyW9YymrQ5U8K3asgM0pmqzCOtZDdzm8G8uawjH75HnxL0RNwuzu2wJjNaoIBsgbg8DvNNSJ2I0WDJGBKUjmGjzpmKd8QD6EuUax/ILDs8ml90+0Mhfhs3efNP5ssJnROONI517rWYeLZj9BF03y6XGBt6ANzOktwgy+0ooiHAQGyxMDOaYKKdJEamYl5rsDC6/q1C7u9DWMg78N5+YjHJKWnHQVNc2v/TEbe+J/uP/I+ImKl0WpZev3AEUeT5ViKkRFGML4IoDmSFV3Kx47ay1X3A5WIjm4W/bm4+vwyOpzoAwiHhHFHqSACJQ2S9Erg2wrGKoYOnISYSaY4xnEu3Yn9rVVBTPAbn3qapaCu+Msw2LGw75JJlnGK8Ve7N4bNAy6PSk0i1yS8mEl7tsmE/2TbL0Tnb1NM7hKA/ULCs4WABNzpK+wLyISu6yNSpkikB2EOhZhWBfdwLE9RooW8q7gRn90GH3sh+bRRIogNnCCxyWPJhtvx2VdJsx5rC9/e47nJzC0Q7Fneh4eK4kZ+A==;KOIELEa/ozrvCO/Mpb0FHA=="
+secured: "TzjNrMwjKrac21Uy+FlESt+tlNOFlgJ8Dk567/UZqVKb59y8S9v4+kaCjjz0iOhi8dJWPABNHy8xr1wI4Dx2lMFLoLbR3fVn6T1YR2oRmTanLALsavWofSNOwfncKHu9IHkQT330vhe/mp13Hw7kBJKt92lG7SI2z2Zi58BvpY7+zRpTidFgTvjo41Ql9jjbjGOeyNWgU8DRVHLMbfTODI4Zv00zzER2dVXo+6jkKFqE6F6BF8hcTax4fNzfmNKk3X6y3LOK502WMoiiggl/fNK/3rVzsPzqcQQit6Wx/6Dg6iUuVqWKdBsj9AgFhHDZJlEhhb2AHfoKZCSlBzUC9d/G2JuqJNxQqIbLJjzabAs=;scqD9nmVYdHmi3/117lMKg=="
 ---
 

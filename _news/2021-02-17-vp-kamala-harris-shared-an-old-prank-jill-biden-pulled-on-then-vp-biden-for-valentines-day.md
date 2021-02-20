@@ -1079,14 +1079,14 @@ related:
   - title: "President Biden and Kamala Harris Meet with Labor Leaders"
     excerpt: "President Joe Biden and Vice President Kamala Harris meet with a group of labor leaders to discuss the American Rescue Plan and to get input on the President's infrastructure plan at the White house in Washington,"
     publishedDateTime: 2021-02-18T00:50:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/346314840156eb433168da30c1dd98b2/President-Biden-and-Kamala-Harris-Meet-with-Labor-Leaders/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/0b2ba5ec6ea53ae96b71de6d31b0f783/President-Biden-and-Kamala-Harris-Meet-with-Labor-Leaders/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 70
     images:
-      - url: "https://cdnph.upi.com/pv/upi/346314840156eb433168da30c1dd98b2/BIDEN-LABOR-MEETING.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/0b2ba5ec6ea53ae96b71de6d31b0f783/BIDEN-LABOR-MEETING.jpg"
         width: 650
         height: 433
         isCached: true

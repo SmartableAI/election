@@ -2,9 +2,9 @@
 category: news
 title: "Texas storm: Biden to declare major disaster to secure federal aid – as it happened"
 excerpt: "Biden says declaration could be signed this afternoon and would open up aid for immediate and long-term recovery efforts – follow all the latest news"
-publishedDateTime: 2021-02-20T00:23:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/feb/19/texas-storm-latest-news-today-power-outages-ted-cruz-cancun-trip-backlash?page=with:block-60300dd88f08bdbed283be9f"
-webUrl: "https://www.theguardian.com/us-news/live/2021/feb/19/texas-storm-latest-news-today-power-outages-ted-cruz-cancun-trip-backlash?page=with:block-60300dd88f08bdbed283be9f"
+publishedDateTime: 2021-02-20T01:23:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/feb/19/texas-storm-latest-news-today-power-outages-ted-cruz-cancun-trip-backlash?page=with:block-60305f038f08c3cb92a5ce17"
+webUrl: "https://www.theguardian.com/us-news/live/2021/feb/19/texas-storm-latest-news-today-power-outages-ted-cruz-cancun-trip-backlash?page=with:block-60305f038f08c3cb92a5ce17"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/19/texas-storm-latest-news-today-power-outages-ted-cruz-cancun-trip-backlash"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/19/texas-storm-latest-news-today-power-outages-ted-cruz-cancun-trip-backlash"
 type: article
@@ -126,6 +126,6 @@ related:
         height: 600
         isCached: true
 
-secured: "RsBNSEnwvjB3c0TiUjyeoqYPEman8+fC2pDQoOT1FPEnL8mZ460/xi/DRseoNyp5AscdSw9xugrUylY7Nunxdsh4LhIC1zSg3ZAGUlyGV+gta3/PY6FU8A2QJSXm/u9tumhqLGwmu5x07EjvqXT4qogN4yM8+xY0dL+xz32FsbDQT058w+HnsAp3X8O4aNa49caiG1JJSrUvlVS0HhayZISwM4rEqyaAqx0I4/5P3xiwOBEofH+cMK37cMKPkvluJRdEcfAgr3uMWNBx51BR/h6kq8ujPcrFDKPnHX7RrcoLN32BDc3xWNGsGVyqgHb9jUn4///qAL99hG6ZM3YMTFePLBxDx8ZBMfYjuUA457M=;9ARLCzPrgAKumwvwD4CPVA=="
+secured: "mx4MnBF1NYWqsLeWqEKoUM1w0/wCfZjX/KQmGvjr9IYSMcbyoQQ2LGdDc0DSdxvCm38m+nwOIiD4iKix8fflV8g0CenAav5J/XXT2+0cWXBiw9hyYkX9n8eaGw2bKw+KvS2+FixSWtylJvbsTm9yoysDp3Q4niw58Jrr5WwboXEQZGjIUPvyREc2zsQnVTDmWADW+gIyS3bBi5pKpEBk8vTTNpf9xMdD/Litnt8RpJGB6qwD9u9IeED6sPJh40o2Y8vKUI5nh493CWwJ1bzz0Q5Z9jYkawaT1qD1x4WiDMGyeibJsfaMvD581HAHB0Ue9EKr4c+FqXZyYsA1Wzd2ASwFtTfXGayXAYXvyfVnxug=;N4DAcRdmHdd56i3ZFUhoGw=="
 ---
 

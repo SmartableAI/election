@@ -2,11 +2,11 @@
 category: news
 title: "U.S. admits first group of asylum-seekers as Biden rolls back Remain-in-Mexico policy"
 excerpt: "As part of its efforts to wind down a Trump-era policy that kept tens of thousands of asylum-seekers outside U.S. territory, the Biden administration on Friday admitted the first group of migrants who had been previously required to wait in Mexico for their immigration court hearings."
-publishedDateTime: 2021-02-20T02:16:00Z
-originalUrl: "https://www.cbsnews.com/news/remain-in-mexico-asylum-program-biden/?ftag=CNM-00-10aab4i"
-webUrl: "https://www.cbsnews.com/news/remain-in-mexico-asylum-program-biden/?ftag=CNM-00-10aab4i"
-ampWebUrl: "https://www.cbsnews.com/amp/news/remain-in-mexico-asylum-program-biden/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/remain-in-mexico-asylum-program-biden/"
+publishedDateTime: 2021-02-20T12:33:00Z
+originalUrl: "https://www.cbsnews.com/news/asylum-seekers-united-states-biden/"
+webUrl: "https://www.cbsnews.com/news/asylum-seekers-united-states-biden/"
+ampWebUrl: "https://www.cbsnews.com/amp/news/asylum-seekers-united-states-biden/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/asylum-seekers-united-states-biden/"
 type: article
 quality: 118
 heat: 138
@@ -46,6 +46,6 @@ related:
         height: 1600
         isCached: true
 
-secured: "CDzav1oDfmkbCRQ0g/DzOX2eanmrLBERjVnKNWFLVRFrVk10yw1YDpb7tfMSQ5s1P1rotnWSNA4ij6iZuZbi66YmnpH47UYFs5MXvLgROq9PInxt5hUOmk81fbILbvWe3mSXp9kdTq6mpbazSHopRS2N7LeOiOmJLrfA9xMxTQOb0E3zGFSb9aJedKtP/7JTwUrGwA0+nj7gJBag1rIB+QP40dNJtJlK2L9sD9vlZgXWp6035ozovGUl0LLQZxKr33GVqkaRoInh6qvVEVo9SY1Z8WR9AHfnkkEByX8degznwCFuP/BHBfNw/Utc8RewdB6HjO7UkpoWDKHbbw0olxUw4XoU/i/0woyeObqeo74=;yc50c3zzi3pND0LDNHqYRA=="
+secured: "ziWzH2IdjVZebvk3on2TKn7d8Vqo5fd0hSmaMwg+iZpQMoCroljAtJFuVFJ2OFV7T7MulucBBlG9VgbLc6248aqy8gpFarW+zQGSxnNegUJNR3MEJfbp+nLa643WX1JCWc9o4JfQriqBWJ0msaoihS0Utvu4OqSOlq0xkHhn6jDvOgmPBSQAHvMtQH2m0Q3KSf0LP3rb7GLVqKoO/3F/oh39n1z300bPgfVAg4FK1x7kl6y+aeX5gtL2cy410cI703mZCSGb2dze8J/Jk9bWcnLHnBfQKlBn6EOsELyFNbwBZAFkc6edp2eMXnRnIc0w3wDc8nvkje4RzKlGac+6BxXRWmjdxCKwvbRJfVPwZWQ=;IIIXMyfOfrsS0t8H9kqVFQ=="
 ---
 

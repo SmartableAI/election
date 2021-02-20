@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Biden administration pledges to expand vaccinations as winter storms cause delays – as it happened"
-excerpt: "CDC warns of ‘widespread delays’ in vaccine deliveries due to weather"
-publishedDateTime: 2021-02-18T01:13:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/feb/17/biden-harris-coronavirus-teachers-vaccine-us-politics-live-latest?page=with:block-602d81068f08ad21ea5fe5af"
-webUrl: "https://www.theguardian.com/us-news/live/2021/feb/17/biden-harris-coronavirus-teachers-vaccine-us-politics-live-latest?page=with:block-602d81068f08ad21ea5fe5af"
-ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/17/biden-harris-coronavirus-teachers-vaccine-us-politics-live-latest"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/17/biden-harris-coronavirus-teachers-vaccine-us-politics-live-latest"
+title: "Joe Manchin opposes Neera Tanden, endangering Biden's nominee to lead budget office"
+excerpt: "The West Virginia senator cited Tanden's past tweets, which he said would have a \"toxic and detrimental impact\" on the relationship between the OMB and Congress."
+publishedDateTime: 2021-02-20T12:29:00Z
+originalUrl: "https://www.cbsnews.com/news/neera-tanden-obm-nomination-joe-manchin-opposes/"
+webUrl: "https://www.cbsnews.com/news/neera-tanden-obm-nomination-joe-manchin-opposes/"
+ampWebUrl: "https://www.cbsnews.com/amp/news/neera-tanden-obm-nomination-joe-manchin-opposes/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/neera-tanden-obm-nomination-joe-manchin-opposes/"
 type: article
-quality: 111
+quality: 119
 heat: -1
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
+  name: CBS News
+  domain: cbsnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://i.guim.co.uk/img/media/397e9c81d30a0858d4af27de891e6279de7dadc8/0_0_6720_4032/master/6720.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4a0ac585526f1b234ccafd9a8a69d93b"
-    width: 600
-    height: 360
+  - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/02/19/99b568e1-5fef-4f7d-894d-6e0a3e90856d/thumbnail/1200x630g2/d4f0c0e753b296bd5a184a8477313cb2/ap-21050785397642.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -415,22 +415,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Joe Manchin opposes Neera Tanden, endangering Biden's nominee to lead budget office"
-    excerpt: "The West Virginia senator cited Tanden's past tweets, which he said would have a \"toxic and detrimental impact\" on the relationship between the OMB and Congress."
-    publishedDateTime: 2021-02-20T12:29:00Z
-    webUrl: "https://www.cbsnews.com/news/neera-tanden-obm-nomination-joe-manchin-opposes/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/neera-tanden-obm-nomination-joe-manchin-opposes/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/neera-tanden-obm-nomination-joe-manchin-opposes/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 119
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/02/19/99b568e1-5fef-4f7d-894d-6e0a3e90856d/thumbnail/1200x630g2/d4f0c0e753b296bd5a184a8477313cb2/ap-21050785397642.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Biden will ask DOJ to review his authority to cancel student loan debt - White House"
     excerpt: "President Joe Biden will ask the Department of Justice to review his legal authority to cancel student loan debt, the White House said on Wednesday, adding the president does not favor $50,000 in student loan relief without limitation."
     publishedDateTime: 2021-02-18T00:20:00Z
@@ -494,6 +478,22 @@ related:
       - url: "https://s.abcnews.com/images/GMA/heart-whitehouse-2-gty-rc-210212_1613138866944_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Biden administration pledges to expand vaccinations as winter storms cause delays – as it happened"
+    excerpt: "CDC warns of ‘widespread delays’ in vaccine deliveries due to weather"
+    publishedDateTime: 2021-02-18T01:13:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/17/biden-harris-coronavirus-teachers-vaccine-us-politics-live-latest?page=with:block-602d81068f08ad21ea5fe5af"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/17/biden-harris-coronavirus-teachers-vaccine-us-politics-live-latest"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/17/biden-harris-coronavirus-teachers-vaccine-us-politics-live-latest"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 111
+    images:
+      - url: "https://i.guim.co.uk/img/media/397e9c81d30a0858d4af27de891e6279de7dadc8/0_0_6720_4032/master/6720.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4a0ac585526f1b234ccafd9a8a69d93b"
+        width: 600
+        height: 360
         isCached: true
   - title: "Biden aims to close Guantanamo Bay prison by the time he leaves office"
     excerpt: "The White House said on Friday that U.S. President Joe Biden aims to close the Guantanamo Bay prison by the time he leaves office, press secretary Jen Psaki told reporters in a daily briefing."
@@ -599,6 +599,6 @@ related:
         height: 600
         isCached: true
 
-secured: "0qq8YLePtC5CQ7uwRZT3NEPRhu5Ubn8QtnTigksp0AImKSPKlx27HhlLWmE6ILpEJNIeWBAr/5+nTu7fs/q4hIeh70dn8k4yU7mQZYP5vivxb4LjfJ9N7awOlT1iqJVXku//ImxiJUfu/szZFB8tQgmSUmg1Kt3Y5y5ue5lgoEmY6h7sbzTBzFq1suJpReiiibrYe1C5a4y61XO5VJGdZR12AtNGztiBtUS5Q7iKkwnBAg1qDDR/Mz5Q0vtQ29LmaTywam0jPuRqtXin5RMTk0sZ+fSqK1jEiMVErfkhJhyAtz9yHAQuoWW7KmAGYnZzVT5/6DleqlAWkw9TlbQMhNj/C1D1SVidQHKf7bu4Sws=;GudbzfBi34o1jj3j76oh2Q=="
+secured: "GrVdK3bB/w1ADJySkXikyeEwl14v4voNmjS6/Ylb9kV3NkP0Cm4pYMD+BLfwAhjXAn76UeqPdd8fTRlXl+8moCfj/8F2LYyXCd5If08k+q9+WyVgfS0Rg8hOWkY5jsKZ/Jeb1NjkhFbQZvh9bt5OX9PC9NfO659rPaOl4YnLOjtpENQ+d5Gg/tDOnX8sItjHudFF86mh4kOD6wxo7HYRZ47ELjKfLvOdpJV2CX9Ffas/hlaihccDgK4Sgnk0jEikbgad6faTqbsL2FCojrOx4NLlbrmrkBMe3vTPdmmxsnOJlrOmXTf6blXxAPunPKBmgiQTIdcadrLUZAl1TEi4bC9bS/E780z59n0Yrdk+7aI=;OLi/Q9Qkbg7R86Zv72uKoA=="
 ---
 
