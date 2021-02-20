@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Jill Biden is hitting the ground running -- in all directions"
+    excerpt: "As far as Jill Biden is concerned, there isn't necessarily going to be one \"first lady platform,\" or even two or three. A month into the job, and Biden has heaped a lot on her agenda, unsure at the moment exactly how it will unfold, only that it will \"naturally evolve,\" she has told her staff.\n    \n"
+    publishedDateTime: 2021-02-20T13:00:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XfWLX-Omfpw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/20/politics/jill-biden-first-lady-agenda/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/20/politics/jill-biden-first-lady-agenda/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210219152019-jill-biden-0129-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden says he's spoken with all of his predecessors 'with one exception'"
     excerpt: "President Joe Biden on Tuesday reflected on the \"sense of history\" he feels as a new resident of the White House and suggested he has spoken with his predecessors, but cited one notable exception.\n    \n"
     publishedDateTime: 2021-02-17T03:45:37Z
@@ -63,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Lawmakers call Biden's Yemen policy a 'historic shift' in US foreign relations"
+    excerpt: "When President Joe Biden announced the US will end support for Saudi Arabia's offensive operations in Yemen, Rep. Ro Khanna felt the decision was a vindication of a fight he's been engaged in for years.\n    \n"
+    publishedDateTime: 2021-02-20T05:00:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YNGWzGuc9kw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/20/politics/yemen-congress-biden-announcement/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/20/politics/yemen-congress-biden-announcement/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210205103714-biden-foreign-policy-speech-02-04-2021-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "White House now says Biden 'will not rest until every school is open five days a week' "
     excerpt: "White House press secretary Jen Psaki said Thursday that President Joe Biden's goal is to have schools open five days a week in-person, but stressed the administration would follow the guidance of science and medical experts on how to safely reopen.\n    \n"
     publishedDateTime: 2021-02-11T19:15:54Z
@@ -76,22 +108,6 @@ related:
     quality: 167
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210208120046-02-wh-briefing-0208-psaki-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Lawmakers call Biden's Yemen policy a 'historic shift' in US foreign relations"
-    excerpt: "When President Joe Biden announced the US will end support for Saudi Arabia's offensive operations in Yemen, Rep. Ro Khanna felt the decision was a vindication of a fight he's been engaged in for years."
-    publishedDateTime: 2021-02-20T05:00:00Z
-    webUrl: "https://www.cnn.com/2021/02/20/politics/yemen-congress-biden-announcement/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/20/politics/yemen-congress-biden-announcement/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/20/politics/yemen-congress-biden-announcement/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 131
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210205103714-biden-foreign-policy-speech-02-04-2021-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

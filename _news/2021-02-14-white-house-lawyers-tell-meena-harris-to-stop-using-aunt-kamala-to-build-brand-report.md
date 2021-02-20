@@ -128,6 +128,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Kamala Harris’s Jewelry Shines a Light on Designer Irene Neuwirth"
+    excerpt: "The Los Angeles jewelry designer is thriving after a year of pandemic belt-tightening and a boost from the vice president, a fan of her pearls and other pieces."
+    publishedDateTime: 2021-02-20T13:00:00Z
+    webUrl: "https://www.wsj.com/articles/kamala-harriss-jewelry-shines-a-light-on-designer-irene-neuwirth-11613826000"
+    ampWebUrl: "https://www.wsj.com/amp/articles/kamala-harriss-jewelry-shines-a-light-on-designer-irene-neuwirth-11613826000"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/kamala-harriss-jewelry-shines-a-light-on-designer-irene-neuwirth-11613826000"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-301561/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "MhfmTFK9YTf/1Yxm3fi0OY4hSFqZR5J3JaXYCD6ukuZ1+PRbIRr8BhPei3VznnOUhOUBdA3x1IXVe9x8TTAC7aHvk/78UT8LyeAjdxJeU3+I83xM1wWehPfTuUM9gve8CYmwhrJpn1cMIVyVQgBR/mXXKIkC1x0pTVz/3vaeou/Wr/COdr36yPUB33bJ6hpg8S/HVHIjDNjlZGoTu0bPh29kcqeqFWPnF3ix/KZeM1cf9ssBNsSrEpIEkrP48tm/OuGETmCh5xP2EQrlPg40ZRFEIrWiEBcZ8kk/bIBvu01R3+Ds4+YWRTHV+9qWhHKYLZUgg2iOIBU1zlvYToKwf19cIV76KEVPle0tiaJGLF1mNp32JY5vvO0BfX+Pg7vu0oT6nizRHioUn4yiibgyHkshv+c48nnlW6Sh0BBbxw0FYSaahMp97Z9o0vtpaic4SJIXah1RFEuBMFfDPLYpUtRWEomCkRRd2/fH/5rbSyUqN1vCja5MToXkdf6two2bQKflg710QGfm/j7etVHOsg==;pBYXWe0mDbDBDZUtG2PKrg=="
 ---

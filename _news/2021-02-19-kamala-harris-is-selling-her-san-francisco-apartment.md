@@ -112,6 +112,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Kamala Harris’s Jewelry Shines a Light on Designer Irene Neuwirth"
+    excerpt: "The Los Angeles jewelry designer is thriving after a year of pandemic belt-tightening and a boost from the vice president, a fan of her pearls and other pieces."
+    publishedDateTime: 2021-02-20T13:00:00Z
+    webUrl: "https://www.wsj.com/articles/kamala-harriss-jewelry-shines-a-light-on-designer-irene-neuwirth-11613826000"
+    ampWebUrl: "https://www.wsj.com/amp/articles/kamala-harriss-jewelry-shines-a-light-on-designer-irene-neuwirth-11613826000"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/kamala-harriss-jewelry-shines-a-light-on-designer-irene-neuwirth-11613826000"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-301561/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "White House lawyers tell Meena Harris to stop using aunt Kamala to build brand: report"
     excerpt: "Vice President Kamala Harris’ social-media-influencer niece has long used her aunt’s fame to boost her own personal brand — but now that Harris has entered the White House, aides have become increasingly concerned about the ethical implications of the promotional pattern,"
     publishedDateTime: 2021-02-14T12:27:00Z

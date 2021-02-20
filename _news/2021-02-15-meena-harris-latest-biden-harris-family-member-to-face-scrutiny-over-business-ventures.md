@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/meena-harris-latest-biden-harris-fa
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/meena-harris-latest-biden-harris-family-member-scrutiny-business-ventures.amp"
 type: article
 quality: 192
-heat: 312
+heat: 332
 published: true
 
 provider:
@@ -109,6 +109,22 @@ related:
     quality: 135
     images:
       - url: "https://images.wsj.net/im-301237/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Kamala Harris’s Jewelry Shines a Light on Designer Irene Neuwirth"
+    excerpt: "The Los Angeles jewelry designer is thriving after a year of pandemic belt-tightening and a boost from the vice president, a fan of her pearls and other pieces."
+    publishedDateTime: 2021-02-20T13:00:00Z
+    webUrl: "https://www.wsj.com/articles/kamala-harriss-jewelry-shines-a-light-on-designer-irene-neuwirth-11613826000"
+    ampWebUrl: "https://www.wsj.com/amp/articles/kamala-harriss-jewelry-shines-a-light-on-designer-irene-neuwirth-11613826000"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/kamala-harriss-jewelry-shines-a-light-on-designer-irene-neuwirth-11613826000"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-301561/social"
         width: 1280
         height: 640
         isCached: true

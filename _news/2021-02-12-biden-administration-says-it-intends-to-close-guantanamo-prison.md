@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/12/politics/biden-guantanamo-bay/ind
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/12/politics/biden-guantanamo-bay/index.html"
 type: article
 quality: 175
-heat: 395
+heat: 415
 published: true
 
 provider:
@@ -108,6 +108,22 @@ related:
     quality: 171
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/170222175840-state-department-building-sign-photo-illustration-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "A month into office, Biden seeks to reassure on the pandemic at home and abroad"
+    excerpt: "President Joe Biden pronounced to world leaders Friday that \"America is back,\" promising that he would position the country to take a prominent role in the global fight against the Covid-19 pandemic, hours before touring a vaccine manufacturing plant in Michigan, where he told Americans, \"We're going"
+    publishedDateTime: 2021-02-20T05:04:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sI47ekPe0os/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/20/politics/president-biden-coronavirus-pandemic/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/20/politics/president-biden-coronavirus-pandemic/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210219172618-biden-pfizer-coronavirus-vaccine-availability-timeline-bts-nr-vpx-00002730-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

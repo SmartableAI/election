@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Manhattan DA subpoenaes tax agency in criminal investigation of Trump: Reuters"
+    excerpt: "The Manhattan District Attorney’s Office recently subpoenaed a New York City property tax agency as it ramps up a criminal investigation into former President Trump's company for potential tax fraud,"
+    publishedDateTime: 2021-02-20T14:41:00Z
+    webUrl: "https://thehill.com/homenews/news/539711-manhattan-da-subpoenaes-tax-agency-in-criminal-investigation-of-trump-reuters"
+    ampWebUrl: "https://thehill.com/homenews/news/539711-manhattan-da-subpoenaes-tax-agency-in-criminal-investigation-of-trump-reuters?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/news/539711-manhattan-da-subpoenaes-tax-agency-in-criminal-investigation-of-trump-reuters?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 121
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_011221upi3_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "In Seconds, Atlantic City's Trump Plaza Hotel And Casino Is Reduced To Rubble"
     excerpt: "The Trump Plaza had stood along the boardwalk since 1984. The shell of the former president's failed business, which closed in 2014, came crumbling down Wednesday morning."
     publishedDateTime: 2021-02-18T02:37:00Z

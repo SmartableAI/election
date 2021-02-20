@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Lawmakers call Biden's Yemen policy a 'historic shift' in US foreign relations"
-excerpt: "When President Joe Biden announced the US will end support for Saudi Arabia's offensive operations in Yemen, Rep. Ro Khanna felt the decision was a vindication of a fight he's been engaged in for years."
-publishedDateTime: 2021-02-20T05:00:00Z
-originalUrl: "https://www.cnn.com/2021/02/20/politics/yemen-congress-biden-announcement/index.html"
-webUrl: "https://www.cnn.com/2021/02/20/politics/yemen-congress-biden-announcement/index.html"
+excerpt: "When President Joe Biden announced the US will end support for Saudi Arabia's offensive operations in Yemen, Rep. Ro Khanna felt the decision was a vindication of a fight he's been engaged in for years.\n    \n"
+publishedDateTime: 2021-02-20T05:00:50Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YNGWzGuc9kw/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YNGWzGuc9kw/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2021/02/20/politics/yemen-congress-biden-announcement/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/20/politics/yemen-congress-biden-announcement/index.html"
 type: article
-quality: 131
+quality: 171
 heat: -1
 published: false
 
@@ -22,7 +22,6 @@ provider:
 
 topics:
   - Election
-  - Joe Biden
   - Democratic Voice
 
 images:
@@ -45,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210216220131-15-biden-town-hall-0216-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Jill Biden is hitting the ground running -- in all directions"
+    excerpt: "As far as Jill Biden is concerned, there isn't necessarily going to be one \"first lady platform,\" or even two or three. A month into the job, and Biden has heaped a lot on her agenda, unsure at the moment exactly how it will unfold, only that it will \"naturally evolve,\" she has told her staff.\n    \n"
+    publishedDateTime: 2021-02-20T13:00:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XfWLX-Omfpw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/20/politics/jill-biden-first-lady-agenda/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/20/politics/jill-biden-first-lady-agenda/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210219152019-jill-biden-0129-restricted-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -97,6 +112,6 @@ related:
         height: 619
         isCached: true
 
-secured: "7qFRMiQHQ9C1kOKeO4LodPwIvYXs2ESPpSRqJVREhiW7+3GhYHq3zwdgMce5KUToMfDx/lIWXn7Hn5h5bo1Fr/bSe0Wsz1v7N+nmVL420IDX+GN+DXV22vpWtgTOCcW6syYC6FwA5g8MzRGdVoDjp2NUW1v6E1wQmzRYy3s6wloO0+wf5re+xy39IRI8mqsSMwmfOjrAuXM+tGx4rURPbjDaQccCnz1KRphVt41WSW+ShRCTkRtf6MN71GOUF/AK25FcGoaiSbqtcIvgaBGtigai/xGkALoIa4qKJkpu4/03baNU18sL66AI2R3AislEUXsBg5Q0ztXdV0iMGG1Y/7t7rtsBBC/VdsKbCjIbK8nmqL8EM6glljVXhn0t3o+yoX0yg2Zo+adbTf0MUx8yTX5/p6yR7+ZmQSmpD4TsEXlF89THAfZt/LuqokJcFfHu5ybmTBB68DEWko6HO0jUtVIwmdD+2eZNENFVOb3v4oK9DCTKBoxld+7cZl0hGJUJRaQ2OqztaJ+GsIG3cVsLIw==;ETVV+r2UfwUTZK02JpHHbQ=="
+secured: "7wO9BmIwjeMjIUhSDpNV0PP94dfmtoRHQnEvqZm6fsegBFEynXhB1PZ5p/VenETuHrwIzSqMMhuHC/VSL7SIG9DfS/rLsJC+jLsDZuUSxpPuBkAB9rWEYA53czlM4CRk3qj/NxZSgOENa7xkY53Gnuadwsxj89GfcTOkfNhS01EcLvHDqoza24IgorTZaMbXPso0BkAfI/S6j7UyPTnmCMGHYIXk1UfkXL3pKt3XOGIkdgper2O1cZUtxncvB3Z4NylReF5Cyh2JI1A9/dSjwwNc9etx9WW0DKSvRAejVflgspZP53U3EzTxh1saLFwo1rLybXEftNj5RnGaJERz8hvEXlGblF34lG1v4cFN6vs=;kWLhT4IhRK2M3uMSokfF0A=="
 ---
 
