@@ -1,24 +1,20 @@
 ---
 category: news
-title: "Trump Plaza Casino Demolished in Atlantic City"
-excerpt: "The new mayor of Atlantic City had made it a priority to destroy the vacant building, once owned by the former president."
-publishedDateTime: 2021-02-17T14:30:00Z
-originalUrl: "https://www.wsj.com/articles/trump-plaza-casino-demolished-in-atlantic-city-11613575836"
-webUrl: "https://www.wsj.com/articles/trump-plaza-casino-demolished-in-atlantic-city-11613575836"
-ampWebUrl: "https://www.wsj.com/amp/articles/trump-plaza-casino-demolished-in-atlantic-city-11613575836"
-cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-plaza-casino-demolished-in-atlantic-city-11613575836"
+title: "NYC tax agency subpoenaed in Trump criminal probe"
+excerpt: "The Manhattan District Attorney’s Office has subpoenaed a New York City property tax agency as part of a criminal investigation into Donald Trump’s company, the agency confirmed on Friday,"
+publishedDateTime: 2021-02-20T03:17:00Z
+originalUrl: "https://nypost.com/2021/02/19/nyc-tax-agency-subpoenaed-in-trump-criminal-probe/"
+webUrl: "https://nypost.com/2021/02/19/nyc-tax-agency-subpoenaed-in-trump-criminal-probe/"
+ampWebUrl: "https://nypost.com/2021/02/19/nyc-tax-agency-subpoenaed-in-trump-criminal-probe/amp/"
+cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/19/nyc-tax-agency-subpoenaed-in-trump-criminal-probe/amp/"
 type: article
 quality: 135
 heat: -1
 published: false
 
 provider:
-  name: Wall Street Journal
-  domain: wsj.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: New York Post
+  domain: nypost.com
 
 topics:
   - Election
@@ -26,9 +22,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://images.wsj.net/im-300215/social"
-    width: 1280
-    height: 640
+  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/Cy-Vance.jpg?quality=90&strip=all&w=1200"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -48,21 +44,21 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "NYC tax agency subpoenaed in Trump criminal probe"
-    excerpt: "The Manhattan District Attorney’s Office has subpoenaed a New York City property tax agency as part of a criminal investigation into Donald Trump’s company, the agency confirmed on Friday,"
-    publishedDateTime: 2021-02-20T03:17:00Z
-    webUrl: "https://nypost.com/2021/02/19/nyc-tax-agency-subpoenaed-in-trump-criminal-probe/"
-    ampWebUrl: "https://nypost.com/2021/02/19/nyc-tax-agency-subpoenaed-in-trump-criminal-probe/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/19/nyc-tax-agency-subpoenaed-in-trump-criminal-probe/amp/"
+  - title: "Trump Plaza Casino Demolished in Atlantic City"
+    excerpt: "The new mayor of Atlantic City had made it a priority to destroy the vacant building, once owned by the former president."
+    publishedDateTime: 2021-02-17T14:30:00Z
+    webUrl: "https://www.wsj.com/articles/trump-plaza-casino-demolished-in-atlantic-city-11613575836"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-plaza-casino-demolished-in-atlantic-city-11613575836"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-plaza-casino-demolished-in-atlantic-city-11613575836"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
+      name: Wall Street Journal
+      domain: wsj.com
     quality: 135
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/Cy-Vance.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://images.wsj.net/im-300215/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Trump War Room fires back at House Dem impeachment managers who used 'fight like hell' rhetoric in the past"
     excerpt: "The Trump War Room is firing back at the House Democrat Impeachment Managers who were making their case against former President Donald Trump during the opening arguments of impeachment trial."
@@ -81,6 +77,6 @@ related:
         height: 720
         isCached: true
 
-secured: "QDN1cAliBR/jhvtQpIG9tWddnUnXkbUI/FafdnSLMr6TKGaWUQRYwAwx+aHUeupl6q+v2Kc9320evCF7bhd4D7o2Tq6AXQ4KIZbuQnVLaTttYSkd902wBnOQGuabVumsjeXY4aAL6/dAspNr0MYuQZmzvoJyApBA0H+uNcV17dTNND8Nlpyl3hadUc+uu1ZL+Wwxse7H1D/5ic4TY2yonVHfIxqbVV7b6dTDytd1q1VQ24u7PzRcD/yOj/BU6fSx/RokHfmGGZfzQN1B7Ma0efdYqyzb+zeoZqTKH0B8phfTMLf5iZHhoeDqnSCeeZHsS7eOUpzkFwXmX16Zks8yB3MnOLvP0LDXhXz4jNHtgKgPcnclCbuKleLOTIJw0vgd+SHiKVBagwr77mMp6fDTzvgQiVSkSS91Q3sY3XKJtdXIVS4vjzlFy6GMNlpB8O2JSLmgfK0wNpJi5fmvHGO3l+X5KZd0+ZYnAZd2gJqk4wLNUsl22+ElXgjDpeIxpWk8521YdeAfkyG3aamVheB+vg==;5gz9aAscVfwrLQqljgHpJA=="
+secured: "MUwdBKpDCeb/IMGTWTsK1VtqBULUTDooHNRHcUa5Utoz+mkn9Ty3pM84Qgwth6exFmBATn9N8/LE5PNM88Y27+rtPO8qghC8+f0E556WKjzaEhsN26bURmJ8w4/F3PtpDXCdyc3SQPY9amYwFynRshod81XxcgyvQtxavnjFE/pAw+jPUAOOT0F0ZB5/c5rRTyjyHwvHvf7Q71JUVcXkRcaoY/bTeLY0enB3vj47wIRpzThjEtQ5/U31FTEIVxQi+B4eIztV8OnB//8XCba2qlEj6aDfTJv8ewhwHy+MV38I1sPYXb4rmovKnfsuN/GF44OhKIDqkQZIaBuNOWZmmNUvV1PCfJqCrKgcWB7HUqo=;EGURZRpbqt5VIobCFDTmkw=="
 ---
 

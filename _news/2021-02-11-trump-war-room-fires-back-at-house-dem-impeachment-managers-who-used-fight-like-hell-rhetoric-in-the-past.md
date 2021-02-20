@@ -64,6 +64,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "NYC tax agency subpoenaed in Trump criminal probe"
+    excerpt: "The Manhattan District Attorney’s Office has subpoenaed a New York City property tax agency as part of a criminal investigation into Donald Trump’s company, the agency confirmed on Friday,"
+    publishedDateTime: 2021-02-20T03:17:00Z
+    webUrl: "https://nypost.com/2021/02/19/nyc-tax-agency-subpoenaed-in-trump-criminal-probe/"
+    ampWebUrl: "https://nypost.com/2021/02/19/nyc-tax-agency-subpoenaed-in-trump-criminal-probe/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/19/nyc-tax-agency-subpoenaed-in-trump-criminal-probe/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/Cy-Vance.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "KkS4jbjt7W3fxxiTkZ8Czr8x6W8IxZ/gMtuwklbrY5oSf9Owl10sVH9/OBNrl5VJ4yZSlJZvMk1Mi+3QjsO3ha5S3SAu7Nv3iRQDlPDbdmcVhXIf7yCg8I5YdRKNwTJBjvmC8xp4Ag+KDjZZkcErY23iDzidEotdwrma47GunWnUOgqBunOxbvSDpAJe7AvJBDIgR5kK5S+2fU9BVylHX2OaoNAtwXx+V827F7S/Ao+56kWJ9MVslhSOdCdsxN3rjgtOdUrXo9TT/dmFEhXyrIHFEpS+uG5KxKDTUll5qS1XAwfQs6oGKJVafTeaBthTYfiByBPnC84E7/E/g5N6DWyYmEeQQBxUhw0jqD1UU/I=;TSxH1RY8qcPYntLsKp/Rag=="
 ---

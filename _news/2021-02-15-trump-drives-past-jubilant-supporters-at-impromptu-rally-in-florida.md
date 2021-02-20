@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-drives-past-jubilant-supporte
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-drives-past-jubilant-supporters-at-impromptu-rally-in-florida.amp"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://images.wsj.net/im-300215/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "NYC tax agency subpoenaed in Trump criminal probe"
+    excerpt: "The Manhattan District Attorney’s Office has subpoenaed a New York City property tax agency as part of a criminal investigation into Donald Trump’s company, the agency confirmed on Friday,"
+    publishedDateTime: 2021-02-20T03:17:00Z
+    webUrl: "https://nypost.com/2021/02/19/nyc-tax-agency-subpoenaed-in-trump-criminal-probe/"
+    ampWebUrl: "https://nypost.com/2021/02/19/nyc-tax-agency-subpoenaed-in-trump-criminal-probe/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/19/nyc-tax-agency-subpoenaed-in-trump-criminal-probe/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/Cy-Vance.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Trump War Room fires back at House Dem impeachment managers who used 'fight like hell' rhetoric in the past"
     excerpt: "The Trump War Room is firing back at the House Democrat Impeachment Managers who were making their case against former President Donald Trump during the opening arguments of impeachment trial."
