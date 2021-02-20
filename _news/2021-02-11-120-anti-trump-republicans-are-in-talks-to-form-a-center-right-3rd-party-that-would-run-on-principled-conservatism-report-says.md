@@ -385,6 +385,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 99
+  - title: "Lawmakers attribute some violence against Asian-Americans to white supremacy, Trump"
+    excerpt: "Members of the Congressional Asian Pacific American Caucus and House Speaker Nancy Pelosi (D-Calif.) spoke on Feb. 19. about the rise in anti-Asian violence and discrimination during the pandemic."
+    publishedDateTime: 2021-02-20T00:41:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/lawmakers-attribute-some-violence-against-asian-americans-to-white-supremacy-trump/2021/02/19/1e11070a-7bac-47b5-aac5-764c51d20559_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 99
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/02-19-2021/t_51c061ba0ea2402ba1ca2ab1ade9d557_name_Anti_Asian_violence_presser_v1_00_01_23_01_Still014.jpg&w=1080"
+        width: 1080
+        height: 608
+        isCached: true
   - title: "'I don't want to come back:' As Trump trial opens, Democrat recalls daughter's fear during riot"
     excerpt: "U.S. House lead impeachment manager Rep. Jamie Raskin (D-MD) becomes emotional as he discusses his and his family's experiences inside the U.S. Capitol building during the siege on Jan. 6 and his daug"
     publishedDateTime: 2021-02-11T00:25:00Z

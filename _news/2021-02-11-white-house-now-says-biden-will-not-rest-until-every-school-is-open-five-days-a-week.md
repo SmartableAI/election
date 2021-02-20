@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Lawmakers call Biden's Yemen policy a 'historic shift' in US foreign relations"
+    excerpt: "When President Joe Biden announced the US will end support for Saudi Arabia's offensive operations in Yemen, Rep. Ro Khanna felt the decision was a vindication of a fight he's been engaged in for years."
+    publishedDateTime: 2021-02-20T05:00:00Z
+    webUrl: "https://www.cnn.com/2021/02/20/politics/yemen-congress-biden-announcement/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/20/politics/yemen-congress-biden-announcement/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/20/politics/yemen-congress-biden-announcement/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 131
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210205103714-biden-foreign-policy-speech-02-04-2021-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "g6crmYeyMCRtG6qCnHY2vdbpMTQlLm03A3IqWvktoUUHeFuV1hKKH9/Jwr2+6AifgoGX2lZzCzV3ulNa7FK+0UiCRT9FmWfvmKL8bkrztHoOCWzgrsiAe1AmiYLvhHsOKYDGE4krQQqs1ztMVdV2R/mnxj3WCJ7N4rl9FNHc+W3kVq2eIPWcWb3jZpMYtNpLLWgI3lH5vy2vcQisbEgERNVwHgMvhkYUUYLOLCDxjc51079LuG0pff5nvcfU786vPOow/dmW7CfLDHYMD4SallAkUtRtY+GUD1OXnxwUoMRRGojyEFQXN0FHPyB+b3FAgWIWOdsR0Kfk7sd9oZ3hmtRzZ8cAtvMxeHqdsYAepoY=;FiIinlS1HFWUIF9wq0jzzg=="
 ---

@@ -31,8 +31,8 @@ images:
 related:
   - title: "Texas storm: Biden to declare major disaster to secure federal aid – live"
     excerpt: "Biden says declaration could be signed this afternoon and would open up aid for immediate and long-term recovery efforts – follow all the latest news"
-    publishedDateTime: 2021-02-20T00:17:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/19/texas-storm-latest-news-today-power-outages-ted-cruz-cancun-trip-backlash"
+    publishedDateTime: 2021-02-19T23:18:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/19/texas-storm-latest-news-today-power-outages-ted-cruz-cancun-trip-backlash?page=with:block-6030378e8f08c3cb92a5ccc8"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/19/texas-storm-latest-news-today-power-outages-ted-cruz-cancun-trip-backlash"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/19/texas-storm-latest-news-today-power-outages-ted-cruz-cancun-trip-backlash"
     type: article
@@ -58,6 +58,22 @@ related:
     quality: 123
     images:
       - url: "https://i.guim.co.uk/img/media/991a3bf3c58ddcf8119fd59c981d4115167e26ee/0_52_3000_1799/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=812dc92f6ce154b3a04bb6604a4f11fd"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Texas storm: Biden to declare major disaster to secure federal aid – as it happened"
+    excerpt: "Biden says declaration could be signed this afternoon and would open up aid for immediate and long-term recovery efforts – follow all the latest news"
+    publishedDateTime: 2021-02-20T00:23:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/19/texas-storm-latest-news-today-power-outages-ted-cruz-cancun-trip-backlash?page=with:block-60300dd88f08bdbed283be9f"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/19/texas-storm-latest-news-today-power-outages-ted-cruz-cancun-trip-backlash"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/19/texas-storm-latest-news-today-power-outages-ted-cruz-cancun-trip-backlash"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 119
+    images:
+      - url: "https://i.guim.co.uk/img/media/86372474d992a6216b8c4c86e110fb68dda8bcd3/0_0_3000_1801/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2e7e8d27534d07dd3ac81b47cc714f57"
         width: 600
         height: 360
         isCached: true

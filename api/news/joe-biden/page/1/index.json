@@ -2,15 +2,67 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-20-us-admits-first-group-of-asylum-seekers-as-biden-rolls-back-remain-in-mexico-policy.md",
+      "title": "U.S. admits first group of asylum-seekers as Biden rolls back Remain-in-Mexico policy",
+      "excerpt": "As part of its efforts to wind down a Trump-era policy that kept tens of thousands of asylum-seekers outside U.S. territory, the Biden administration on Friday admitted the first group of migrants who had been previously required to wait in Mexico for their immigration court hearings.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/remain-in-mexico-asylum-program-biden/?ftag=CNM-00-10aab4i",
+      "originalUrl": "https://www.cbsnews.com/news/remain-in-mexico-asylum-program-biden/?ftag=CNM-00-10aab4i",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/20/f3b8e40d-79c5-4918-a1bc-d715b17f6a23/thumbnail/1200x630/a99162a5d1bf159722d6b96ac72a25c9/gettyimages-1231266086.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/remain-in-mexico-asylum-program-biden/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/remain-in-mexico-asylum-program-biden/",
+      "publishedDateTime": "2021-02-19T18:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-02-20-texas-storm-biden-to-declare-major-disaster-to-secure-federal-aid-live.md",
       "title": "Texas storm: Biden to declare major disaster to secure federal aid – live",
       "excerpt": "Biden says declaration could be signed this afternoon and would open up aid for immediate and long-term recovery efforts – follow all the latest news",
       "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/feb/19/texas-storm-latest-news-today-power-outages-ted-cruz-cancun-trip-backlash",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/feb/19/texas-storm-latest-news-today-power-outages-ted-cruz-cancun-trip-backlash",
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/feb/19/texas-storm-latest-news-today-power-outages-ted-cruz-cancun-trip-backlash?page=with:block-6030378e8f08c3cb92a5ccc8",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/feb/19/texas-storm-latest-news-today-power-outages-ted-cruz-cancun-trip-backlash?page=with:block-6030378e8f08c3cb92a5ccc8",
       "featuredContent": null,
       "highlight": null,
-      "heat": 224,
+      "heat": 244,
       "tags": null,
       "images": [
         {
@@ -26,7 +78,7 @@
       "type": "article",
       "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/feb/19/texas-storm-latest-news-today-power-outages-ted-cruz-cancun-trip-backlash",
       "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/19/texas-storm-latest-news-today-power-outages-ted-cruz-cancun-trip-backlash",
-      "publishedDateTime": "2021-02-19T16:17:00-08:00",
+      "publishedDateTime": "2021-02-19T15:18:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Guardian",
@@ -1509,63 +1561,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-politico-playbook-pm-will-the-cbo-help-or-hurt-joe-biden.md",
-      "title": "POLITICO Playbook PM: Will the CBO help or hurt Joe Biden?",
-      "excerpt": "Gary Palmer … Lynda Blanchard THE POWER OF THE CBO — BARACK OBAMA grew so frustrated with the impact of Congressional Budget Office analyses of his health care plan in 2009 that he once banned his senior staffers from mentioning the CBO in meetings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/newsletters/playbook-pm/2021/02/08/will-the-cbo-help-or-hurt-joe-biden-491680",
-      "originalUrl": "https://www.politico.com/newsletters/playbook-pm/2021/02/08/will-the-cbo-help-or-hurt-joe-biden-491680",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/c4/d0/e419049d41c5b8e097e3d0f4bfc9/gettyimages-1301023935.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-08T10:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     }
   ],

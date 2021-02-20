@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/14/donald-trump-impeach
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/14/donald-trump-impeachment-republican-party-cornyn-hogan-graham-mcconnell"
 type: article
 quality: 125
-heat: 605
+heat: 625
 published: true
 
 provider:
@@ -369,6 +369,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 99
+  - title: "Lawmakers attribute some violence against Asian-Americans to white supremacy, Trump"
+    excerpt: "Members of the Congressional Asian Pacific American Caucus and House Speaker Nancy Pelosi (D-Calif.) spoke on Feb. 19. about the rise in anti-Asian violence and discrimination during the pandemic."
+    publishedDateTime: 2021-02-20T00:41:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/lawmakers-attribute-some-violence-against-asian-americans-to-white-supremacy-trump/2021/02/19/1e11070a-7bac-47b5-aac5-764c51d20559_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 99
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/02-19-2021/t_51c061ba0ea2402ba1ca2ab1ade9d557_name_Anti_Asian_violence_presser_v1_00_01_23_01_Still014.jpg&w=1080"
+        width: 1080
+        height: 608
+        isCached: true
   - title: "120 anti-Trump Republicans are in talks to form a center-right 3rd party that would run on 'principled conservatism,' report says"
     excerpt: "The group includes former elected officials and people who served in Republican administrations, including Trump's."
     publishedDateTime: 2021-02-11T13:16:00Z

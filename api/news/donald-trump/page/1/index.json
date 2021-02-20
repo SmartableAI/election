@@ -2,6 +2,120 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-20-cruz-and-cuomo-face-scandal-trump-cant-save-them.md",
+      "title": "Cruz and Cuomo Face Scandal. Trump Can’t Save Them.",
+      "excerpt": "Without Donald Trump dominating the political conversation, politicians’ audacious behavior isn’t so quickly subsumed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/02/20/us/politics/cruz-cuomo-scandal.html",
+      "originalUrl": "https://www.nytimes.com/2021/02/20/us/politics/cruz-cuomo-scandal.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/02/21/us/politics/20onpolitics/20onpolitics-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/02/20/us/politics/cruz-cuomo-scandal.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/20/us/politics/cruz-cuomo-scandal.amp.html",
+      "publishedDateTime": "2021-02-20T02:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-20-democrats-beat-trump-in-2020-now-theyre-asking-what-went-wrong.md",
+      "title": "Democrats Beat Trump in 2020. Now They’re Asking: What Went Wrong?",
+      "excerpt": "Disappointed by down-ballot losses, Democratic interest groups are joining forces to conduct an autopsy of the election results. Republicans do not yet seem willing to reckon with the G.O.P.’s major defeats.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/02/20/us/politics/democrats-beat-trump-in-2020-now-theyre-asking-what-went-wrong.html",
+      "originalUrl": "https://www.nytimes.com/2021/02/20/us/politics/democrats-beat-trump-in-2020-now-theyre-asking-what-went-wrong.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/02/21/us/politics/21election-autopsies-print1/00election-autopsies1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/02/20/us/politics/democrats-beat-trump-in-2020-now-theyre-asking-what-went-wrong.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/20/us/politics/democrats-beat-trump-in-2020-now-theyre-asking-what-went-wrong.amp.html",
+      "publishedDateTime": "2021-02-20T02:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-20-trump-wants-us-to-make-it-wild-six-more-oath-keepers-associates-charged-in-capitol-riots-conspiracy-case.md",
       "title": "Trump 'wants us to make it WILD': Six more Oath Keepers' associates charged in Capitol riots conspiracy case",
       "excerpt": "Six people, including two husband-and-wife pairs, were added to a federal conspiracy case Friday for alleged coordinate efforts in the Capitol attack.",
@@ -138,58 +252,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-the-us-starts-to-allow-asylum-seekers-stuck-in-mexico-to-enter-unravelling-trumps-remain-in-mexico-policy.md",
-      "title": "The U.S. Starts to Allow Asylum-Seekers Stuck in Mexico to Enter, Unravelling Trump's 'Remain in Mexico' Policy",
-      "excerpt": "People seeking asylum in the United States are being allowed into the country as they wait for courts to decide on their cases.",
-      "sourceUrl": null,
-      "webUrl": "https://time.com/5941079/asylum-seeks-mexico-enter-us/",
-      "originalUrl": "https://time.com/5941079/asylum-seeks-mexico-enter-us/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://api.time.com/wp-content/uploads/2021/02/asylum-seeks-mexico-enter-us.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-19T09:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Time",
-        "domain": "time.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/time.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1503,7 +1565,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/feb/14/donald-trump-impeachment-republican-party-cornyn-hogan-graham-mcconnell",
       "featuredContent": null,
       "highlight": null,
-      "heat": 605,
+      "heat": 625,
       "tags": null,
       "images": [
         {
@@ -1527,58 +1589,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-14-rep-marjorie-taylor-greene-accused-of-threatening-gop-colleague-with-warning-that-millions-of-trump-supporters-are-watching-her.md",
-      "title": "Rep. Marjorie Taylor Greene accused of threatening GOP colleague with warning that millions of Trump supporters 'are watching' her",
-      "excerpt": "\"The Trump loyal 75 million are watching\" Rep. Greene tweeted about Rep. Herrera Beutler after it emerged she had evidence damaging to Trump's defense.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/impeachment-rep-greene-accused-of-menacing-gop-colleague-in-tweet-2021-2",
-      "originalUrl": "https://www.businessinsider.com/impeachment-rep-greene-accused-of-menacing-gop-colleague-in-tweet-2021-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/602909702edd0f001a8d5ba4?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/impeachment-rep-greene-accused-of-menacing-gop-colleague-in-tweet-2021-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/impeachment-rep-greene-accused-of-menacing-gop-colleague-in-tweet-2021-2?amp",
-      "publishedDateTime": "2021-02-14T04:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

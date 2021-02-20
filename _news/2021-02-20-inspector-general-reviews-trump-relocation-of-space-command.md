@@ -1,22 +1,22 @@
 ---
 category: news
 title: "Inspector general reviews Trump relocation of Space Command"
-excerpt: "The inspector general for the Department of Defense is investigating the Trump administration’s last-minute decision to relocate U.S. Space Command from Colorado to Alabama"
-publishedDateTime: 2021-02-20T06:19:00Z
-originalUrl: "https://www.washingtonpost.com/politics/inspector-general-reviews-trump-relocation-of-space-command/2021/02/19/a78b464e-7319-11eb-8651-6d3091eac63f_story.html"
-webUrl: "https://www.washingtonpost.com/politics/inspector-general-reviews-trump-relocation-of-space-command/2021/02/19/a78b464e-7319-11eb-8651-6d3091eac63f_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/inspector-general-reviews-trump-relocation-of-space-command/2021/02/19/a78b464e-7319-11eb-8651-6d3091eac63f_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/inspector-general-reviews-trump-relocation-of-space-command/2021/02/19/a78b464e-7319-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+excerpt: "The inspector general for the Department of Defense is investigating the Trump administration's last-minute decision to relocate U.S. Space Command from Colorado to Alabama"
+publishedDateTime: 2021-02-20T03:19:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/inspector-general-reviews-trump-relocation-space-command-76009977"
+webUrl: "https://abcnews.go.com/Politics/wireStory/inspector-general-reviews-trump-relocation-space-command-76009977"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/inspector-general-reviews-trump-relocation-space-command-76009977"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/inspector-general-reviews-trump-relocation-space-command-76009977"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://s.abcnews.com/images/Politics/WireAP_299991ab1f434d1e9c0a178a3e927e33_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -1055,6 +1055,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "oZHxcISIYcAXppPqIN18ajryttZW1YlOq+TGttkCZ4A4BK+v6RAGTzbUIX+T0hhe8bKKB3nLu4GmemYFRqrprjRmgPjDWoIqszC4K5ryhLVMU5KgM5O8/mG2nn9YliPCTuAkPioNN3xN9d8GYJSaiRuFE0Ip/Lv37I6LTpnYbOscOFnELOQJFymocYDxjNcAZS9coi3+XO+acUbLENd59WqliaswZQAfKdLRcW8dGGGSOTeatM1GfEl8P0WBrJskfRXY6DldeHg//mMwu1m4e0vwOi8kKX8kt6CLA3pJVpg7mfTpsPN+FSbW2i2U8i0F0UAMXtnQ7e6i1cIb/JQGrShWjtD3NuHZqaFNiXI6vdk=;jLZk5fD3jzA/APAWgA4i3A=="
+secured: "llxLBJcM3B/0yVbPWSE/ppcl5DxbH8oA97DAv9Ya4DAG6hZazePsdb5WDrgLDvLjk6plXIZbjb22UeC4MT90qvq+b+FHaNjCdonw6FjjjqfRI+DVoQjp1pIxHLzSe+ghAG2fL3DZKs1KTVNJROIROAoyv/PvciLY0kw6I6QUP7B89Xa/UBTFbkb/0sPbt35rM3mULVD3s7mMazKdde0ED083Vawb5pzDqdbL/4is3oA4n/yLbcHavKn53SCjE0EUvUXW3CDLrl/o3QPcw4hbnRxSLCjG7C+Qdlno1jj8M/ca/8r6Dq0M8N5QP0nqPu6u1feOI+14sM/17HfRYOoL1N7lDHwW3GZTy0XqYo+opns=;x+K2Bku0nVtlFpx19bIu7Q=="
 ---
 

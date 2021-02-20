@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/17/politics/biden-life-white-house/i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/17/politics/biden-life-white-house/index.html"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 164
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210208202631-n-95-masks-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Lawmakers call Biden's Yemen policy a 'historic shift' in US foreign relations"
+    excerpt: "When President Joe Biden announced the US will end support for Saudi Arabia's offensive operations in Yemen, Rep. Ro Khanna felt the decision was a vindication of a fight he's been engaged in for years."
+    publishedDateTime: 2021-02-20T05:00:00Z
+    webUrl: "https://www.cnn.com/2021/02/20/politics/yemen-congress-biden-announcement/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/20/politics/yemen-congress-biden-announcement/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/20/politics/yemen-congress-biden-announcement/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 131
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210205103714-biden-foreign-policy-speech-02-04-2021-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
