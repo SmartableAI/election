@@ -127,6 +127,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump seeks return to spotlight with address to conservative meeting"
+    excerpt: "Former U.S. President Donald Trump will seek to return to the political spotlight in an address to a major meeting of conservatives, a source familiar with his plans said on Saturday, as the Republican plots his post-White House moves."
+    publishedDateTime: 2021-02-20T23:29:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-idUSKBN2AK0QQ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AK0QQ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AK0QQ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210221&t=2&i=1552296425&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1K00G"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump impeachment vote becomes defining moment for GOP Sen. Richard Burr"
     excerpt: "For Burr, it was an emphatic statement after years of careful commentary about Trump, much of it made as he investigated Trump’s ties to Russia."
     publishedDateTime: 2021-02-20T16:18:00Z

@@ -1,14 +1,14 @@
 ---
 category: news
-title: "LIVE UPDATES: Biden approves Texas disaster declaration as millions still on boil-water notices"
-excerpt: "President Joe Biden announced Saturday that he had declared a major disaster in Texas and ordered federal assistance to aid in local and state recovery efforts as millions of residents suffer the effect of severe winter storms."
-publishedDateTime: 2021-02-20T16:06:00Z
-originalUrl: "https://www.foxnews.com/us/live-updates-texas-storm-2-20-21"
-webUrl: "https://www.foxnews.com/us/live-updates-texas-storm-2-20-21"
-ampWebUrl: "https://www.foxnews.com/us/live-updates-texas-storm-2-20-21.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/live-updates-texas-storm-2-20-21.amp"
+title: "LIVE UPDATES: Biden visits Bob Dole following cancer announcement"
+excerpt: "Follow for the latest updates on the White House"
+publishedDateTime: 2021-02-21T08:48:11Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3WIgUNJldWI/live-updates-biden-white-house-2-21-21"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3WIgUNJldWI/live-updates-biden-white-house-2-21-21"
+ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-white-house-2-21-21.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-white-house-2-21-21.amp"
 type: article
-quality: 123
+quality: 175
 heat: -1
 published: false
 
@@ -22,11 +22,10 @@ provider:
 
 topics:
   - Election
-  - Joe Biden
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3e1b5aae-a16e-46ff-8e21-25a25dce0e06/af663b77-d99a-4130-b0f3-da1b951d3a6f/1280x720/match/image.jpg"
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/50e1c44e-b5bd-41eb-ae0e-38fcea1c4a6c/8458b68a-c474-4128-957f-7ac1f49fc8fe/1280x720/match/image.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -61,22 +60,6 @@ related:
     quality: 175
     images:
       - url: "https://media2.foxnews.com/BrightCove/694940094001/2019/05/10/694940094001_6035350367001_6035347836001-vs.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "LIVE UPDATES: Biden visits Bob Dole following cancer announcement"
-    excerpt: "Follow for the latest updates on the White House"
-    publishedDateTime: 2021-02-21T08:48:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3WIgUNJldWI/live-updates-biden-white-house-2-21-21"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-white-house-2-21-21.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-white-house-2-21-21.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/50e1c44e-b5bd-41eb-ae0e-38fcea1c4a6c/8458b68a-c474-4128-957f-7ac1f49fc8fe/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -190,7 +173,23 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "LIVE UPDATES: Biden approves Texas disaster declaration as millions still on boil-water notices"
+    excerpt: "President Joe Biden announced Saturday that he had declared a major disaster in Texas and ordered federal assistance to aid in local and state recovery efforts as millions of residents suffer the effect of severe winter storms."
+    publishedDateTime: 2021-02-20T16:06:00Z
+    webUrl: "https://www.foxnews.com/us/live-updates-texas-storm-2-20-21"
+    ampWebUrl: "https://www.foxnews.com/us/live-updates-texas-storm-2-20-21.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/live-updates-texas-storm-2-20-21.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 123
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3e1b5aae-a16e-46ff-8e21-25a25dce0e06/af663b77-d99a-4130-b0f3-da1b951d3a6f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
-secured: "8cO5l8WPPPQC5NPg3wA8N+YBDlklm/OKNZRidaTxSCzQFtPxur3PzHTV21GcbWBmSHhEyrtGwvpqIsdk5BK3zo1x6zH9WiOzEPThqeW0o16Yhe012B/gBdkJ8qq6W9OghOF5wyimTxSxYHc9NrtiGs7/KS80bu2B3YmbEALV2+cnK9o0ujvzT9rSo2CJIAuFqfurTqAgjoMs8sPXF+EsijKyP4S9IZMyG2PrublZJK1527pIVr0Im6/UmkTWoxT5GZsYXuAn+zto8TY+fdCKkyMW4/oV/8ZLe9Bj2TY3j7dc5C+LNCB5OWRE+IlxUeZG/JFtwBm+ByRTJc478x9uYd2vwqXR4VWBKPl2cjAwrqzCHJLnDzyXDpvcp1GA9oj4UaOp1/NLwARRLw0wBnG+KwrP9BmrB830wDIf8RK32AncE7VPrdtQCaxwISQDYNCDEhmgayAMuHg9/GAYcRUt+QnUgpe9VfpYxc5ndg9mec23RA/+PPfxWvqxSHHewG/As25Hmr2j1FxOUyYYpVChjQ==;AvEgCXgkobPzARdfx8VwBA=="
+secured: "KUqW/nUEI5TAVKH61UKYmgOBFOAwvCgFFROQMuH+/3+K3x0j1aG2Q8n4BdPuvJ8dNJp/rXfd3oqdsMz1pvfCBCrA7sImQX+fXgdV7o4FLxJvKvJ+RM8lFbtKrhNOwm/6pDl1MwtRk38GIqNbM3s6JwHzvLSG1X9vMjNeiOpZbsVaz4FW2BTwtEBM7GVrS1QKYnsczTDSKMX9OMBDuU4QNOFip40zh8/Kg00fEzGtLFs0GB8gSCJjqmyXybmX695YftO0/etG97tc6qv5W9NP4m6MWzGFEu7JJvu0NVXmKt37za85szNGDOSWYw7Bs0whHyf1EdLcr+yuCUGMeX3ktyDojt2hSWreR636NxD7qis=;ng1DaqQVRDPL84TEH+eNbg=="
 ---
 

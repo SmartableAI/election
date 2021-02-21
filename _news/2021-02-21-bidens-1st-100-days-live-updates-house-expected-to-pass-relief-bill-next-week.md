@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Biden plans Texas visit, pushes for speedy disaster funds in winter storm crisis"
-excerpt: "U.S. President Joe Biden said on Friday he will approve a disaster declaration for Texas, clearing the way for more aid in a crippling winter storm as he weighed a trip to survey the federal response."
-publishedDateTime: 2021-02-20T06:00:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-weather-texas-biden-idUSKBN2AJ20A"
-webUrl: "https://www.reuters.com/article/us-usa-weather-texas-biden-idUSKBN2AJ20A"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AJ20A"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AJ20A"
+title: "Biden's 1st 100 days live updates: House expected to pass relief bill next week"
+excerpt: "House Democrats release text on massive relief package This is Day 33 of the administration of President Joe Biden and Vice President Kamala Harris. Biden is making a surprise visit to meet with his longtime Senate colleague Bob Dole in Washington,"
+publishedDateTime: 2021-02-21T05:15:00Z
+originalUrl: "https://abcnews.go.com/Politics/live-updates/joe-biden-white-house-administration/?id=75890872"
+webUrl: "https://abcnews.go.com/Politics/live-updates/joe-biden-white-house-administration/?id=75890872"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/joe-biden-white-house-administration/?id=75890872"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/joe-biden-white-house-administration/?id=75890872"
 type: article
-quality: 120
+quality: 121
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210220&t=2&i=1552227241&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1I15H"
-    width: 811
-    height: 545
+  - url: "https://s.abcnews.com/images/Politics/sotu-05-gty-jc-190205_hpMain_16x9_1600.jpg"
+    width: 1600
+    height: 900
     isCached: true
 
 related:
@@ -383,22 +383,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Biden's 1st 100 days live updates: House expected to pass relief bill next week"
-    excerpt: "House Democrats release text on massive relief package This is Day 33 of the administration of President Joe Biden and Vice President Kamala Harris. Biden is making a surprise visit to meet with his longtime Senate colleague Bob Dole in Washington,"
-    publishedDateTime: 2021-02-21T05:15:00Z
-    webUrl: "https://abcnews.go.com/Politics/live-updates/joe-biden-white-house-administration/?id=75890872"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/joe-biden-white-house-administration/?id=75890872"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/joe-biden-white-house-administration/?id=75890872"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 121
-    images:
-      - url: "https://s.abcnews.com/images/Politics/sotu-05-gty-jc-190205_hpMain_16x9_1600.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Republican former Senator Bob Dole gets visit from Biden after cancer diagnosis"
     excerpt: "U.S. President Joe Biden visited former Senator Bob Dole on Saturday, the White House said, two days after the Kansas Republican announced that he had been diagnosed with advanced lung cancer."
     publishedDateTime: 2021-02-20T23:01:00Z
@@ -413,6 +397,22 @@ related:
     images:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210220&t=2&i=1552289863&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1J0H6"
         width: 817
+        height: 545
+        isCached: true
+  - title: "Biden plans Texas visit, pushes for speedy disaster funds in winter storm crisis"
+    excerpt: "U.S. President Joe Biden said on Friday he will approve a disaster declaration for Texas, clearing the way for more aid in a crippling winter storm as he weighed a trip to survey the federal response."
+    publishedDateTime: 2021-02-20T06:00:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-weather-texas-biden-idUSKBN2AJ20A"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AJ20A"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AJ20A"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210220&t=2&i=1552227241&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1I15H"
+        width: 811
         height: 545
         isCached: true
   - title: "Biden launches review of Guantanamo prison, aims to close it before leaving office"
@@ -677,6 +677,6 @@ related:
         height: 600
         isCached: true
 
-secured: "42cJqtLMt+vye8XlIznOQqDEtzbBCLcaI9AgjLmVx8snrFB68E/n9nHUTZgTVeUpd1hALHJpb3I7n+gU+KOtDjHkm1itDfXdsrHZMby0DCgdV6gzrKwJ7C8qSflzStuZJboxaKcPWh7qOGLyaIRPOl/gUlmqtGFmgP/OhXPLqKa3yHHmK01djKnhXGUX13Nv0OncBZUr2IwyuClKJfYTNkrV5PjX0DbFPsRv1dddkdVFGhoDIeC3W8q2MlSfONtjt/GHJxkRDsRpKld+vIXCjk1Oi2Huwk2k+RiewJOBBr7BnVuFPvL3SlbyErp/eVAJXjWGd+ZhBeZS4MYuQ4aYh+m4C1ZFACpj5RE6Fs4J/P4vIGG53ijAMLRaf+wHGTZVjpRErLBJxubZyJCcpSUwP/dOdZ1vsjjqNWIDTp/cpfJSwKClaW3usxS5MZEHLL1o2+XczBjmPQg+eECEBO5yyTdBUCzn/TXUNUYSKLe1pVKYeHN6vE7pNOChHGMWJsICv2y7gKHqioqdK7X+/cT3jw==;OMDGc2Ay8fhEcnf7UcoI3g=="
+secured: "mMoEIdTyW06InWGUOUV7dxXQjTQ/VxNjkmZCGkX2mh6to6MABSbEZFG+j2FzKSqPSMjw7ZXuaimcYcFTiONB/HwTMZEB+xlBj4CjdN5PvLIeHqQzxnjb28YCObzAM9tgKpOdKOobMIJgiSr2dMIo3u4zuSOtDPo+nsUR/bxRFKtiGmlObMuJaeNRy+JscLCQmDHQjnte+1GKlAGrmRpIJQNQZISoQgG988lQBVmykX7bEEkUPNWaQ5fCE1C21YuDrJUv/uwgf8rtD43y4h+KUL5hfX9i7WLI2vTAGjy9KSolkYrOyYN1/HWq/FzDqT5AjM4vAx4dMXl8mtgJ645di0YDAUeuErzYQsVohCBxbRk=;R0xA2kMT21Z4OpHLNK8l9g=="
 ---
 

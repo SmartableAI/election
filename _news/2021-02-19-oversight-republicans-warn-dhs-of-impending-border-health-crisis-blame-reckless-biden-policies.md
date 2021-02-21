@@ -61,6 +61,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "LIVE UPDATES: Biden visits Bob Dole following cancer announcement"
+    excerpt: "Follow for the latest updates on the White House"
+    publishedDateTime: 2021-02-21T08:48:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3WIgUNJldWI/live-updates-biden-white-house-2-21-21"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-white-house-2-21-21.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-white-house-2-21-21.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/50e1c44e-b5bd-41eb-ae0e-38fcea1c4a6c/8458b68a-c474-4128-957f-7ac1f49fc8fe/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden says he won't pull Tanden nomination after key Dem says he'll vote no"
     excerpt: "President Biden on Friday said he will not pull the nomination of Neera Tanden to be head of the Office of Management and Budget (OMB) -- despite her nomination being dealt a significant blow after a key Democrat said he would vote against her."
     publishedDateTime: 2021-02-20T15:25:19Z

@@ -143,6 +143,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Trump seeks return to spotlight with address to conservative meeting"
+    excerpt: "Former U.S. President Donald Trump will seek to return to the political spotlight in an address to a major meeting of conservatives, a source familiar with his plans said on Saturday, as the Republican plots his post-White House moves."
+    publishedDateTime: 2021-02-20T23:29:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-idUSKBN2AK0QQ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AK0QQ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AK0QQ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210221&t=2&i=1552296425&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1K00G"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump lashes out after McConnell blames him for Capitol insurrection – live"
     excerpt: "Senate minority leader has said Trump is ‘practically and morally’ responsible for US Capitol attack"
     publishedDateTime: 2021-02-17T00:37:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/14/donald-trump-impeach
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/14/donald-trump-impeachment-republican-party-cornyn-hogan-graham-mcconnell"
 type: article
 quality: 125
-heat: 645
+heat: 665
 published: true
 
 provider:
@@ -124,6 +124,22 @@ related:
     quality: 125
     images:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210218&t=2&i=1552057883&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1H1P9"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Trump seeks return to spotlight with address to conservative meeting"
+    excerpt: "Former U.S. President Donald Trump will seek to return to the political spotlight in an address to a major meeting of conservatives, a source familiar with his plans said on Saturday, as the Republican plots his post-White House moves."
+    publishedDateTime: 2021-02-20T23:29:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-idUSKBN2AK0QQ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AK0QQ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AK0QQ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210221&t=2&i=1552296425&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1K00G"
         width: 817
         height: 545
         isCached: true

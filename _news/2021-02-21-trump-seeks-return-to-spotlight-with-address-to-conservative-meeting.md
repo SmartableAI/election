@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Ivanka Trump tells Rubio she won't run for his Senate seat"
-excerpt: "Ivanka Trump will not be running for Florida Sen. Marco Rubio’s U.S. Senate seat in 2022 as she settles into life after Washington"
-publishedDateTime: 2021-02-18T19:27:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/ivanka-trump-tells-rubio-run-senate-seat-75976845"
-webUrl: "https://abcnews.go.com/Politics/wireStory/ivanka-trump-tells-rubio-run-senate-seat-75976845"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ivanka-trump-tells-rubio-run-senate-seat-75976845"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ivanka-trump-tells-rubio-run-senate-seat-75976845"
+title: "Trump seeks return to spotlight with address to conservative meeting"
+excerpt: "Former U.S. President Donald Trump will seek to return to the political spotlight in an address to a major meeting of conservatives, a source familiar with his plans said on Saturday, as the Republican plots his post-White House moves."
+publishedDateTime: 2021-02-20T23:29:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-trump-idUSKBN2AK0QQ"
+webUrl: "https://www.reuters.com/article/us-usa-trump-idUSKBN2AK0QQ"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AK0QQ"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AK0QQ"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_10e1889d7f5942b58ca37f3fa5e9c9f4_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210221&t=2&i=1552296425&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1K00G"
+    width: 817
+    height: 545
     isCached: true
 
 related:
@@ -111,6 +111,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Ivanka Trump tells Rubio she won't run for his Senate seat"
+    excerpt: "Ivanka Trump will not be running for Florida Sen. Marco Rubio’s U.S. Senate seat in 2022 as she settles into life after Washington"
+    publishedDateTime: 2021-02-18T19:27:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ivanka-trump-tells-rubio-run-senate-seat-75976845"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ivanka-trump-tells-rubio-run-senate-seat-75976845"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ivanka-trump-tells-rubio-run-senate-seat-75976845"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_10e1889d7f5942b58ca37f3fa5e9c9f4_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Pro-Trump women's group cannot paint mural on NYC streets, judge rules"
     excerpt: "A conservative women's group cannot paint its own mural on New York City streets even after Mayor Bill de Blasio allowed a yellow \"Black Lives Matter\" mural to be painted outside Trump Tower, a federal judge in Manhattan ruled on Thursday."
     publishedDateTime: 2021-02-19T02:08:00Z
@@ -124,22 +140,6 @@ related:
     quality: 125
     images:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210218&t=2&i=1552057883&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1H1P9"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Trump seeks return to spotlight with address to conservative meeting"
-    excerpt: "Former U.S. President Donald Trump will seek to return to the political spotlight in an address to a major meeting of conservatives, a source familiar with his plans said on Saturday, as the Republican plots his post-White House moves."
-    publishedDateTime: 2021-02-20T23:29:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-idUSKBN2AK0QQ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AK0QQ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AK0QQ"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210221&t=2&i=1552296425&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1K00G"
         width: 817
         height: 545
         isCached: true
@@ -446,6 +446,6 @@ related:
         height: 455
         isCached: true
 
-secured: "sf0IWHceJ5eu/bPB4F4r/YMktW32dIOP2RVVL1zYwOabbyQEyRiJijUXqEccDn02b56P19WfzP0sLZbJmAnTf3V0kEEYK9v2R57AKO9AjVHTs7WWEsEnzhVXL3Zt5QhwM47feuazASuPsqvOtRFStg/VktQEqCU9x1jOibYIfA6Lw9/ffQwfiODESS7ylgVhtXROY5iaSqBCBM1MBaKk6tdGWeC3v8hmcD2Ym5T1e0Zp1BOa7Qk0s5AWr3s7VbnQt0P2MJkSZpiJh7u76NN0oTIppfTPdJRrPXkNssRQg/5J3wRgPNVbgWkoCySYqb1uXMFN43venid8xImBEz1eNsnSbjxAO9ikupc/JRkhh+tGOwYOApVUvpEy6Cs+UPoQ7e+96cwM2lZy0j+R560N69Rem/kN0X02vx42RvuA3xRFz5V/Xiqc12L3A2N5PpLuenFFqypbKIU/R3DxA8vlFUd6YxGhxd1hz/QRPcPYY62LgHRv67t9CNpIZ6s2opC1ox9DIJCoLKNlskPAnX4gLw==;cQCRg4YXInG4UX0ZU7y5Kg=="
+secured: "Zfo8T7NJGCgWFE1w9vNlw5ZS5wbZztOAliOXVVjVQZD22WXYvFzTZHV3KkPzhyAq2BZn8Y9fEER0q8HaVDNS6Ah649blV4+yPU2pLB7ylzfzZyTJ1MVqrEA5v8iJ5zMMoUsmCKJXqhEJjC18J6TqeAxwKcwzY2X27XmZfVn4XaNhuT91hgi5r8Z0hfWlHACbvP8toTbkiR2/kgQuz1cYCIPIZsEqXfgV6NvqkcgHQr57xIRsvG7RNsOfxqJmISQ7kLyQh0hxaIO4PDz93nxLjkoLcVwTSksOk3OoIMpEvgtXF4dKl/DKw1QXM1k3hDwZRfrXDvmDX4Ue1uGITUWGDIhhMulL+ygF41apOiaaGJU=;mMEaqDrtmy0MBy+X0xnrRg=="
 ---
 
