@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/anthony-fauci-kamala-harris-startin
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/anthony-fauci-kamala-harris-starting-from-scratch-covid-vaccine-rollout.amp"
 type: article
 quality: 193
-heat: 233
+heat: 253
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Fauci backs Kamala Harris, says Trump White House left ‘vague’ COVID vaccine plan"
+    excerpt: "Dr. Anthony Fauci on Sunday said the Trump administration left a “vague” plan for coronavirus vaccine distribution — as he defended Vice President Kamala Harris’ claims"
+    publishedDateTime: 2021-02-21T20:33:00Z
+    webUrl: "https://nypost.com/2021/02/21/fauci-defends-vp-says-trump-left-vague-covid-vaccine-plan/"
+    ampWebUrl: "https://nypost.com/2021/02/21/fauci-defends-vp-says-trump-left-vague-covid-vaccine-plan/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/21/fauci-defends-vp-says-trump-left-vague-covid-vaccine-plan/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 145
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/Harris.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Kamala Harris On COVID Response: \"In Many Ways, We Are Starting From Scratch\""
     excerpt: "Vice President Kamala Harris discusses the current administration's approach to the COVID-19 crisis in an interview with Mike Allen on \"Axios\" on HBO: \"There was no national strategy or plan for vaccinations,"

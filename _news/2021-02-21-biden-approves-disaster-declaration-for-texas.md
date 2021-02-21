@@ -128,6 +128,38 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Schumer says he is working with Biden 'to find the extra votes' to confirm Neera Tanden"
+    excerpt: "Senate Majority Leader Chuck Schumer said Sunday he is working with President Joe Biden to gather the support needed to confirm Neera Tanden as director of the Office of Management and Budget.\n    \n"
+    publishedDateTime: 2021-02-21T20:23:18Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/efWmTfWdeyU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/21/politics/chuck-schumer-neera-tanden-omb/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/21/politics/chuck-schumer-neera-tanden-omb/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210221130145-neera-tanden-210209-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration says 2 million Covid vaccine doses have been delivered after winter storms delay shipments"
+    excerpt: "The Biden administration has partially caught up on its delayed vaccine shipments, having delivered about 2 million of the 6 million doses backlogged by the deadly winter storms in Texas and other states, administration officials said Sunday.\n    \n"
+    publishedDateTime: 2021-02-21T19:38:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JfGy-KnTCGg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/21/politics/covid-vaccine-doses-weather-delay/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/21/politics/covid-vaccine-doses-weather-delay/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 155
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210221142749-01-jen-psaki-0217-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden nominee Neera Tanden describes double standards she's faced as a woman of color"
     excerpt: "People's perceptions of leadership and who leaders are has not been, to this moment, an Asian American woman,\" Tanden told NBC Asian America."
     publishedDateTime: 2021-02-10T21:50:00Z

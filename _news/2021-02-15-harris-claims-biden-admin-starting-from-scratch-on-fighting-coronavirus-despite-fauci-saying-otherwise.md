@@ -48,6 +48,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Fauci backs Kamala Harris, says Trump White House left ‘vague’ COVID vaccine plan"
+    excerpt: "Dr. Anthony Fauci on Sunday said the Trump administration left a “vague” plan for coronavirus vaccine distribution — as he defended Vice President Kamala Harris’ claims"
+    publishedDateTime: 2021-02-21T20:33:00Z
+    webUrl: "https://nypost.com/2021/02/21/fauci-defends-vp-says-trump-left-vague-covid-vaccine-plan/"
+    ampWebUrl: "https://nypost.com/2021/02/21/fauci-defends-vp-says-trump-left-vague-covid-vaccine-plan/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/21/fauci-defends-vp-says-trump-left-vague-covid-vaccine-plan/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 145
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/Harris.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Kamala Harris On COVID Response: \"In Many Ways, We Are Starting From Scratch\""
     excerpt: "Vice President Kamala Harris discusses the current administration's approach to the COVID-19 crisis in an interview with Mike Allen on \"Axios\" on HBO: \"There was no national strategy or plan for vaccinations,"
     publishedDateTime: 2021-02-16T00:00:00Z

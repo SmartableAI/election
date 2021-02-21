@@ -989,6 +989,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "2 Central Park ice rinks to close after city severs ties with Trump Organization"
+    excerpt: "The Trump Organization is closing two ice skating rinks in Central Park after New York City Mayor Bill de Blasio severed their contract in the wake of the deadly Capitol riot. CBS New York's Carolyn Gusoff reports."
+    publishedDateTime: 2021-02-21T20:35:00Z
+    webUrl: "https://www.cbsnews.com/video/2-central-park-ice-rinks-to-close-after-city-severs-ties-with-trump-organization/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 100
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/21/6b4cc202-d426-42cd-a0dd-794f6c4ffd90/thumbnail/1200x630/1820bc36726ffee6c6f542600cecfbd0/0221-np-snowice-650824-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Senate acquits Trump for second time after week-long trial | Impeachment This Week"
     excerpt: "House managers argue former president Trump incited an insurrection in a dramatic and swift Senate impeachment trial. Come inside the proceedings with The Washington Post."
     publishedDateTime: 2021-02-14T14:53:00Z
@@ -1119,6 +1133,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "QCA/+fiVcIHOt9jSXIj+gzrA4xf27Iq5zp551E5kyhEqSDcMvNnyiqr8SRAVq3Vpsz6k3X16H0QzXFlmstlLnX8q4Xvlpw2mOdXIHCuIlw9oGQoQPoUUGbseNTIzr0sg/vRo/vDjulsnYgsvh0bjR30kQdtQ35+P4Kg7eiwY3n0+XHUnrDngOlI7wsMVhSaIARg7U2ia5aagIY54a1WqZ75QMkF00WrL9FeV2c4FhikUt/9LuOnHXLck4oSVl/64ZugvXiYe9gobKl5XVz9OHRGLn2kgrMg11t76epMphqX9eL4tBVANYIk42ackWrSLfrg61s+Vu3vIMTvLhQXs+zqaMjPqUOA0qynI0H4CwyA=;eA/rnKUQxzFqQVMQIWTOuQ=="
+secured: "yuVgD+0pnB6d7Lfrkrl0DiLev9YQu1C+z5zA9uHqnMYeoLpiBCGT0m5dUobHRjc5LTSwZi4EncYxr1MgAhcntFL35l09omvfWe4Z94WkVRax9WB2P4sfzO0V5txX7hp2IZg5rWYiGe1nGz2F2qoqQRFQmHEK49VaCkvuEpUfsFXsA+oXBCt/O07/aK0dgARIEPICpGoV4ve7kruYJxJmcGdh0laVOelRL8ZeYU8ZIsi10auLTyAUhCBBZzrO/uAbpqQe9y6MGibT10lKO7vHeIWiZaU/BVcabUg10GF14Q0lm9rrsEgl9iEf7QcuR6T7b41XJuNcpTmEkL03DoDWXENC/qVgLLbBiybf/pBGH0S3bYgnEDf/k7gQKrfYQ8quieyA/y/BxwaTrCnIaSGs+kimEyqV/q9xvYtTM50NsWsTkts9/rIIxs0E9s202Na/iWBM22wWT/eH5FBGYJ61P2iKpfSwy3kpjJhXbcmM9x0HO5yoW4dQyFKKvz3bk2c/smvw0ZuuMzIfukQUaHxj1A==;6rRK/sVe3sni7b7zegSckA=="
 ---
 

@@ -1003,6 +1003,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "2 Central Park ice rinks to close after city severs ties with Trump Organization"
+    excerpt: "The Trump Organization is closing two ice skating rinks in Central Park after New York City Mayor Bill de Blasio severed their contract in the wake of the deadly Capitol riot. CBS New York's Carolyn Gusoff reports."
+    publishedDateTime: 2021-02-21T20:35:00Z
+    webUrl: "https://www.cbsnews.com/video/2-central-park-ice-rinks-to-close-after-city-severs-ties-with-trump-organization/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 100
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/21/6b4cc202-d426-42cd-a0dd-794f6c4ffd90/thumbnail/1200x630/1820bc36726ffee6c6f542600cecfbd0/0221-np-snowice-650824-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump just beat his 2nd impeachment conviction, but a massive tsunami of legal peril still awaits"
     excerpt: "Trump impeachment trial No. 2 ended with acquittal. But federal, state, and local investigations continue into his presidency, campaign, business interests, and taxes."
     publishedDateTime: 2021-02-14T18:48:00Z

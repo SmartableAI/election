@@ -112,6 +112,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Republicans willing to break away from party to follow Trump, poll reveals"
+    excerpt: "Republicans by double-digit margins said they are willing to ditch their party to follow former President Donald Trump​ if he breaks out on his own, according to a new poll released Sunday."
+    publishedDateTime: 2021-02-21T19:04:00Z
+    webUrl: "https://nypost.com/2021/02/21/republicans-willing-to-break-from-party-to-follow-trump-poll/"
+    ampWebUrl: "https://nypost.com/2021/02/21/republicans-willing-to-break-from-party-to-follow-trump-poll/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/21/republicans-willing-to-break-from-party-to-follow-trump-poll/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 133
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/Media-Trump_s_Return.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "VDH/oEiqee2DSbuJsZEJ3thvvFunkgs8mU5Zp+JvKuJiJvssycxJeZXOB9LpiFuejjFb8kPgQtkB8bJdrWPlpr3lI1eUN8ASfL0ickTluf/D22RPIhxSVFODZKoeG8zXWanb/6Q7pYTr0ODnUXYxLoKbxsVyYpFL9GE3W79ztKj5Ds0asHtuKVWAldtyAO9dJQgAm5BDby5gR1eh6csHypJOLpcM6xxXwCM0yw39Y7y63SWn+LT8vOlHYPxSpXPmIymRLSn5rjsEeT8MmcxsBLDONe2lUHEJd1H7w86e79IN1oHx8NPEcGJQc0ZDFh9oy6uQzk+F2zrQOas0p41ZI9U7Kd68AUtqZdIrFiauJr7w/hpiUXo1nkSnHcPjSt7pKSU9OqRBW2qhOGfnqI5xZFCwLO9Xld+yj+Yw02K+vKxDkFtF3A/tFyAhgsxbNgJlh0X7aB3atmEIvvCIrdtyMgyd1St9LpNzAQu5TAa2tvFmfe6nMwzMr5FTJ/TP3CRHdQjxLg7hWeY/+O8j6TpILg==;Qrf76SDKe3s58WyMu4d0hw=="
 ---

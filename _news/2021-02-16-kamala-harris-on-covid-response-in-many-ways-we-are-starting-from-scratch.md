@@ -60,6 +60,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Fauci backs Kamala Harris, says Trump White House left ‘vague’ COVID vaccine plan"
+    excerpt: "Dr. Anthony Fauci on Sunday said the Trump administration left a “vague” plan for coronavirus vaccine distribution — as he defended Vice President Kamala Harris’ claims"
+    publishedDateTime: 2021-02-21T20:33:00Z
+    webUrl: "https://nypost.com/2021/02/21/fauci-defends-vp-says-trump-left-vague-covid-vaccine-plan/"
+    ampWebUrl: "https://nypost.com/2021/02/21/fauci-defends-vp-says-trump-left-vague-covid-vaccine-plan/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/21/fauci-defends-vp-says-trump-left-vague-covid-vaccine-plan/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 145
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/Harris.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "4W9AZXOBe2cnXVZqdvF1nqYf7Hj+pJWV48/EFWO7JTCf22iFuaI7tjiVtvP+aRy7q2uWqd9kBU8T4tIFBDNPcemUwtgVLLy3F68y9i8HUCn81zsRhOUxfdCWsz7pH1OBDOTRlgOznRypXCYJD8KmIBGZnwZr0P031Z1LS6fDRkE8EkcgQ6utqvYsOCZE8tAoIZguRoEBSmVMUELDI55/n+nTM/c0VmJqdYEgSsOlkQpB6JlXDGN8jWdY7RHd6u4kI/NflHBiyA6Ii5Tv4NCFB3q9rXk10k8TCI8JI0idtNAiQlQzNKiQKh9FpZ4W72Tngi7UYKQYuE5MgWBEbSX3V/N2JbJIQTA2Xbchor+fXLWLk6Z0fQ3FeYwcwMFMGUPd94abzxk9sv7fvrJKNIKgT8C5GP38RtKGWGOvrA8qYNJ5FliS280T+2UiPl5eFfOQIV5+Cu4YsFq7bBfe4o2I7cO/oCptzOhTKEtDgCMB6H4tj4/MzJco1iEuqNZumrso3dYJR0zGgAFYNxna/Yc3lQ==;Upw/vsH9dCRQcQlbQOvdmg=="
 ---

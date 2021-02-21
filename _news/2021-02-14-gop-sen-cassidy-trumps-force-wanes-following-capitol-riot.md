@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/gop-sen-cassidy-trumps-force-wanes-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-sen-cassidy-trumps-force-wanes-following-senate-impeachment-trial.amp"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://images.wsj.net/im-301109/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Republicans willing to break away from party to follow Trump, poll reveals"
+    excerpt: "Republicans by double-digit margins said they are willing to ditch their party to follow former President Donald Trump​ if he breaks out on his own, according to a new poll released Sunday."
+    publishedDateTime: 2021-02-21T19:04:00Z
+    webUrl: "https://nypost.com/2021/02/21/republicans-willing-to-break-from-party-to-follow-trump-poll/"
+    ampWebUrl: "https://nypost.com/2021/02/21/republicans-willing-to-break-from-party-to-follow-trump-poll/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/21/republicans-willing-to-break-from-party-to-follow-trump-poll/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 133
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/Media-Trump_s_Return.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Thune decries ‘cancel culture’ against Republicans who voted to convict Trump amid uncertain Senate GOP future"
     excerpt: "Sen. John Thune, a top ally to Senate Minority Leader Mitch McConnell, said that those aiming to punish senators who voted to convict former President Donald Trump at his impeachment trial are engaging in \"cancel culture."

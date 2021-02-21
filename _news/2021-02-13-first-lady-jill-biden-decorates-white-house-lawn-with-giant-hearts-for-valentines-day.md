@@ -287,6 +287,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden approves Texas disaster declaration after deadly freeze"
+    excerpt: "President Joe Biden approved a major disaster declaration for Texas on Saturday as the state struggles with the fallout from a winter storm that killed at least two dozen people and caused widespread blackouts and water shortages."
+    publishedDateTime: 2021-02-20T23:26:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-weather-texas-idUKKBN2AK0N2"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2AK0N2"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2AK0N2"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210221&t=2&i=1552295692&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1J0EC"
+        width: 816
+        height: 545
+        isCached: true
   - title: "Biden pays a visit to ailing former GOP Sen. Bob Dole"
     excerpt: "President Joe Biden paid a visit Saturday to former Sen. Bob Dole, days after the World War II veteran and 1996 Republican presidential nominee announced he’d been diagnosed with stage 4 lung cancer"
     publishedDateTime: 2021-02-20T22:50:00Z

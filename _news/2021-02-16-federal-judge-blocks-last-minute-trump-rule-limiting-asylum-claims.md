@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/16/politics/immigration-asylum-trump
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/16/politics/immigration-asylum-trump-rule/index.html"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/02/14/magazine/14mag-screenland/14mag-screenland-facebookJumbo-v2.jpg"
         width: 1050
         height: 549
+        isCached: true
+  - title: "Ice Skating Ends at Central Park After New York City Rift With Trump"
+    excerpt: "The skating season ended abruptly Sunday, a casualty of the decision to boot the former president’s business from operating the two ice rinks in the park."
+    publishedDateTime: 2021-02-21T19:49:00Z
+    webUrl: "https://www.nytimes.com/2021/02/21/nyregion/trump-skating-rink-central-park.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/21/nyregion/trump-skating-rink-central-park.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/21/nyregion/trump-skating-rink-central-park.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/21/multimedia/21trumprink2/merlin_182341011_8d7ddaf3-a381-44db-afe2-cbcb1bcd06c9-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "House Democrats and White House Split Over Lawsuit for Ex-Trump Aide’s Testimony"
     excerpt: "President Biden has inherited litigation over a subpoena to Donald F. McGahn II, President Donald J. Trump’s former lawyer, about the Russia investigation."
