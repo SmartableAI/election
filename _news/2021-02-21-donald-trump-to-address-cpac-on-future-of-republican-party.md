@@ -2,9 +2,9 @@
 category: news
 title: "Donald Trump to address CPAC on future of Republican party"
 excerpt: "Source says former president will speak on final day of annual conservative event"
-publishedDateTime: 2021-02-20T22:22:00Z
-originalUrl: "https://www.theguardian.com/us-news/2021/feb/20/donald-trump-cpac-republican-party?share=facebook"
-webUrl: "https://www.theguardian.com/us-news/2021/feb/20/donald-trump-cpac-republican-party?share=facebook"
+publishedDateTime: 2021-02-20T17:22:00Z
+originalUrl: "https://www.theguardian.com/us-news/2021/feb/20/donald-trump-cpac-republican-party"
+webUrl: "https://www.theguardian.com/us-news/2021/feb/20/donald-trump-cpac-republican-party"
 ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/20/donald-trump-cpac-republican-party"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/20/donald-trump-cpac-republican-party"
 type: article
@@ -462,6 +462,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/sNtzaT4hJoIgC-8J_5lg4r7S3NU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/DJSW5IYU6PZ377UWOPILWJE27I.aspx"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Trump to speak at CPAC in first post-White House appearance"
+    excerpt: "Donald Trump will be making his first post-presidential appearance at a conservative gathering in Florida next weekend"
+    publishedDateTime: 2021-02-21T01:33:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-to-speak-at-cpac-in-first-post-white-house-appearance/2021/02/20/cd3c8f26-73e4-11eb-8651-6d3091eac63f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-to-speak-at-cpac-in-first-post-white-house-appearance/2021/02/20/cd3c8f26-73e4-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-to-speak-at-cpac-in-first-post-white-house-appearance/2021/02/20/cd3c8f26-73e4-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Pull of partisanship helps Trump escape impeachment conviction: ANALYSIS"
     excerpt: "While seven Republicans joined all 50 Democrats in voting for former President Donald Trump 's conviction, the Senate fell 10 votes short of conviction. Trump was spared the ultimate punishment Congress could wield by powerful and familiar forces he has long understood,"
@@ -1087,6 +1103,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "/PH9O0BTJmJ2OlVXL0ZFO8RVu1Ibc8z1PR2wT4EX15oufc3VQDXW1X1d9LLf39HtiYXrl2PmyMvi8V8DcwsRPhFfewiAzOzLXspEGZyLzwNF39/0X/oEpcZSq5X+G+60rjBfoyS94L8BNmT/gWSMc7EKasPBPfWucIFN6Gsrx/GbGa4j70Y0Q2fl3juJ9n69eCqBnBLVM4O+w9xDnEca9mJ5ey8LLBe9fPe0LSIdJNu+m6ETXIJzl55OITmJh4tFlK1wGkBLXeju21IN1oekqIxIULFfkcyfq0D2NXFnRIwt5YQ5qNy32OerfMYqId1gWGUdNcqZggk20Aw9EFOgQjF/XkMEwPzzGbw2Clc6mQc=;y6ZPFyJs34aZg5hgkh7kqg=="
+secured: "Fe3cz50J1s5Fv2V+54ompyPUTHLcmUxlJutVTuzlESQ05GM8zPBoEnR/2UGVxBK2m13LnN8Hsrsw96K72D8aIpqJdlAyMTStWMYn/P4+nW/8TrkohxvEy3PKCk8XISXB02O8hlUxoZqNkfKQdNh6iukuqrIzkCckYsko9zhCIO93viM8WL3L0QdTza7XrO+/kyeC1FGbxCirD9Zb/kAXgWOfGNIlXLjQvwgGeVJhJmoGCbRz3BDvmvXseuKOlbcKSjcwrX3R3W8KzBwZYLN0QdZixLFbvZo2ZImY3VXARRgI/CdzOJyvZGu9+ybbygbcCDlXLPTgXjdonCEnISFfsrPrYvAS/KOYoMLAlG1nIC8=;H664riPvj/vpuY4Fcf0FTw=="
 ---
 

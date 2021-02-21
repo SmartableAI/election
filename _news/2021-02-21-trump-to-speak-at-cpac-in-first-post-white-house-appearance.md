@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Donald Trump versus Mitch McConnell: Tension could make 2022 election messy for Republicans"
-excerpt: "The divide between the former allies presents an uncomfortable possibility for Republicans and a delightful one for Democrats."
-publishedDateTime: 2021-02-18T14:10:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/2021/02/18/trump-mcconnell-tension-could-make-2022-election-messy-republicans/6797680002/?scrolla=5eb6d68b7fedc32c19ef33b4"
-webUrl: "https://www.usatoday.com/story/news/politics/2021/02/18/trump-mcconnell-tension-could-make-2022-election-messy-republicans/6797680002/?scrolla=5eb6d68b7fedc32c19ef33b4"
-ampWebUrl: "https://amp.usatoday.com/amp/6797680002"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6797680002"
+title: "Trump to speak at CPAC in first post-White House appearance"
+excerpt: "Donald Trump will be making his first post-presidential appearance at a conservative gathering in Florida next weekend"
+publishedDateTime: 2021-02-21T01:33:00Z
+originalUrl: "https://www.washingtonpost.com/politics/trump-to-speak-at-cpac-in-first-post-white-house-appearance/2021/02/20/cd3c8f26-73e4-11eb-8651-6d3091eac63f_story.html"
+webUrl: "https://www.washingtonpost.com/politics/trump-to-speak-at-cpac-in-first-post-white-house-appearance/2021/02/20/cd3c8f26-73e4-11eb-8651-6d3091eac63f_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/trump-to-speak-at-cpac-in-first-post-white-house-appearance/2021/02/20/cd3c8f26-73e4-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-to-speak-at-cpac-in-first-post-white-house-appearance/2021/02/20/cd3c8f26-73e4-11eb-8651-6d3091eac63f_story.html?outputType=amp"
 type: article
-quality: 130
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2021/01/06/USAT/34db0524-c125-4e4e-aeac-1070347db23a-AFP_AFP_1N660V.JPG?auto=webp&crop=3020,1699,x0,y151&format=pjpg&width=1200"
-    width: 1200
-    height: 675
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -46,6 +46,22 @@ related:
       - url: "https://s.abcnews.com/images/Entertainment/WireAP_797a515557004f9aae322fd80b74b431_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Donald Trump versus Mitch McConnell: Tension could make 2022 election messy for Republicans"
+    excerpt: "The divide between the former allies presents an uncomfortable possibility for Republicans and a delightful one for Democrats."
+    publishedDateTime: 2021-02-18T14:10:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/18/trump-mcconnell-tension-could-make-2022-election-messy-republicans/6797680002/?scrolla=5eb6d68b7fedc32c19ef33b4"
+    ampWebUrl: "https://amp.usatoday.com/amp/6797680002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6797680002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 130
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/06/USAT/34db0524-c125-4e4e-aeac-1070347db23a-AFP_AFP_1N660V.JPG?auto=webp&crop=3020,1699,x0,y151&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Donald Trump’s version of an insanity defense: His critics are insane"
     excerpt: "In the summer of 2015, two months after Donald Trump announced he was running for president, a blogger named Esther Goldberg read a Washington Post column by the conservative commentator George F. Will that accused Trump of being phony,"
@@ -462,22 +478,6 @@ related:
       - url: "https://www.chicagotribune.com/resizer/sNtzaT4hJoIgC-8J_5lg4r7S3NU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/DJSW5IYU6PZ377UWOPILWJE27I.aspx"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Trump to speak at CPAC in first post-White House appearance"
-    excerpt: "Donald Trump will be making his first post-presidential appearance at a conservative gathering in Florida next weekend"
-    publishedDateTime: 2021-02-21T01:33:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-to-speak-at-cpac-in-first-post-white-house-appearance/2021/02/20/cd3c8f26-73e4-11eb-8651-6d3091eac63f_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-to-speak-at-cpac-in-first-post-white-house-appearance/2021/02/20/cd3c8f26-73e4-11eb-8651-6d3091eac63f_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-to-speak-at-cpac-in-first-post-white-house-appearance/2021/02/20/cd3c8f26-73e4-11eb-8651-6d3091eac63f_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
         isCached: true
   - title: "Pull of partisanship helps Trump escape impeachment conviction: ANALYSIS"
     excerpt: "While seven Republicans joined all 50 Democrats in voting for former President Donald Trump 's conviction, the Senate fell 10 votes short of conviction. Trump was spared the ultimate punishment Congress could wield by powerful and familiar forces he has long understood,"
@@ -1103,6 +1103,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "x6qWfwHa1pwA66719QNsHoeZpP35oMbPu8BN+zLCgY9X4hCpBb8w1MapEgQRNgVCQs5g5EJMwbfWrPWhnqOcZYoZNYrX76rlYJdOdy04PECOqViFevcIsihmcHh4SL3thz3+BhJbeCNVwEK9bkJJiiFSWYtQS1dWxZbZFBFmxkFOoMcGaAOUaoTk1UFVU/vPOpl1Jo7N+/0Jfz7arHTKHbtambFSGDOE298rKHDFrSY5ys4Zm/dQXmh9P6kfsafHmIZ1noAc7yvqdGpoNVopEIJ4bGvurj04b8D1dwFVffMVWXFDOQjZoOQ2tYIJbP/4Sm9V/mByIpED1ERw709YdWUicos4z/yuX6cONd1P+PUljoysSAD7rGQ6szXkQ51yWlqMzPmEPUQaLWvdhdGDtByw5kC7baMwTo8yCpdCGOmZ1tnRIsUppHHadzMLsTj4oPJ3N58gQtTL2WQ7c3kWeqs4sM98XHsCI6CYtRACYaYCCl6gf+pCYPIY+CyQ3G+MQRu4z+4uBkZagmAQP7OFYA==;e1qD3Abn8psrqE+WCk+hqA=="
+secured: "8Q1dpQbKuWDtKFrvYexdluqKzvjL7sqDdo51BfPBp53pJGPX/Uybi5ugz1zvEyXxSnWeBM1wfGMBOpUVvdPXRxULX6/omdpe8Cb3htrIi1vK1/pGRBUrqChPUtA6EjryxYJ8QWGkHt5CGkaXLDvtmMwm4YKwKP+olfbY2ILSQIXhZXVgmfbXrJo9obWMMvm0+/JIOgedrRj8G5z/0TlE+lG869QG9Sin4oMNNGKJRmB/Vf0A4JZaLlquDhv2JcYfYgNsfe30DMrCDFPabS6DSnB/jjMMygAcXMwEIKJM91pNjUyyBNkCnllwdvcvXFrIxzgFUMOWQMkPCNN2H2n2N83qUe0pc3yO0ik9iZ0en/E=;pUzcaVUysWBJMRNYGnqQ6A=="
 ---
 

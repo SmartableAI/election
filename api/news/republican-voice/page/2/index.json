@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-16-gop-rep-adam-kinzinger-receives-letter-from-11-family-members-disowning-him-over-trump-opposition.md",
+      "title": "GOP Rep. Adam Kinzinger receives letter from 11 family members disowning him over Trump opposition",
+      "excerpt": "Rep. Adam Kinzinger, a six-term Republican congressman representing Illinois, received a hand-written letter from 11 family members disowning him over his opposition of former President Donald Trump, Fox News has confirmed.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4mNSAAX_7ZY/gop-rep-adam-kinzinger-letter-11-family-disowning-him-trump-opposition",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4mNSAAX_7ZY/gop-rep-adam-kinzinger-letter-11-family-disowning-him-trump-opposition",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/gop-rep-adam-kinzinger-letter-11-family-disowning-him-trump-opposition.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-rep-adam-kinzinger-letter-11-family-disowning-him-trump-opposition.amp",
+      "publishedDateTime": "2021-02-16T10:47:25-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-16-psaki-gun-control-a-priority-biden-not-afraid-of-standing-up-to-the-nra.md",
       "title": "Psaki: Gun control a 'priority,' Biden 'not afraid of standing up' to the NRA",
       "excerpt": "White House press secretary Jen Psaki on Tuesday said gun control is a \"priority\" for President Biden – and said he is \"not afraid of standing up\" to the National Rifle Association.",
@@ -1596,62 +1652,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/dem-plaskett-says-jan-6-rally-didnt-have-permit-until-trump-stepped-in.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dem-plaskett-says-jan-6-rally-didnt-have-permit-until-trump-stepped-in.amp",
       "publishedDateTime": "2021-02-10T13:54:59-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-meadows-accuses-house-impeachment-managers-of-conveniently-leaving-out-one-line-from-trumps-jan-6-speech.md",
-      "title": "Meadows accuses House impeachment managers of 'conveniently leaving out' one line from Trump's Jan. 6 speech",
-      "excerpt": "President Trump’s former chief of staff Mark Meadows accused House impeachment managers of “conveniently” leaving out a line from Trump’s pre-Capitol riot speech, where he told supporters to “peacefully and patriotically” make their voices heard. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yS_vxeeeQq0/meadows-accuses-house-impeachment-managers-of-conveniently-leaving-out-one-line-from-trumps-jan-6-speech",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yS_vxeeeQq0/meadows-accuses-house-impeachment-managers-of-conveniently-leaving-out-one-line-from-trumps-jan-6-speech",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/61a66219-cef7-41be-bf5a-2420fbb38051/157f42b9-2028-471b-81e5-255abc31ee16/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/meadows-accuses-house-impeachment-managers-of-conveniently-leaving-out-one-line-from-trumps-jan-6-speech.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/meadows-accuses-house-impeachment-managers-of-conveniently-leaving-out-one-line-from-trumps-jan-6-speech.amp",
-      "publishedDateTime": "2021-02-10T12:30:55-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

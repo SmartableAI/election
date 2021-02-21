@@ -2,6 +2,62 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-02-16-giuliani-no-longer-representing-trump-in-any-legal-matters-adviser-says.md",
+      "title": "Giuliani no longer representing Trump 'in any legal matters,' adviser says",
+      "excerpt": "Former President Donald Trump's longtime personal attorney, Rudy Giuliani, is \"not currently representing President Trump in any legal matters,\" senior Trump adviser Jason Miller told CNN on Tuesday.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QaBn1mAwvQA/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QaBn1mAwvQA/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201120165627-giuliani-trump-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/16/politics/rudy-giuliani-donald-trump/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/16/politics/rudy-giuliani-donald-trump/index.html",
+      "publishedDateTime": "2021-02-16T14:45:37-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-16-biden-to-press-for-covid-19-relief-package-during-cnns-wisconsin-town-hall.md",
       "title": "Biden to press for Covid-19 relief package during CNN's Wisconsin town hall",
       "excerpt": "President Joe Biden, no longer encumbered by his predecessor's impeachment trial and eager to seize the national spotlight, will bring the case for his massive coronavirus relief plan to the country on Tuesday when he participates in a CNN town hall at 9 p.m. ET in Milwaukee.\n    \n",
@@ -1152,7 +1208,7 @@
       "originalUrl": "https://www.businessinsider.com/kamala-harris-biden-starting-from-scratch-covid-19-after-trump-2021-2",
       "featuredContent": null,
       "highlight": null,
-      "heat": 947,
+      "heat": 967,
       "tags": null,
       "images": [
         {
@@ -1307,49 +1363,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-15-boris-johnson-calls-trump-impeachment-over-capitol-attack-kerfuffle.md",
-      "title": "Boris Johnson calls Trump impeachment over Capitol attack 'kerfuffle'",
-      "excerpt": "Prime minister touts Covid co-operation with Biden, who once called him a ‘clone of Donald Trump’",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/politics/2021/feb/14/boris-johnson-capitol-attack-trump-impeachment-kerfuffle-joe-biden-clone",
-      "originalUrl": "https://www.theguardian.com/politics/2021/feb/14/boris-johnson-capitol-attack-trump-impeachment-kerfuffle-joe-biden-clone",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/politics/2021/feb/14/boris-johnson-capitol-attack-trump-impeachment-kerfuffle-joe-biden-clone",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/politics/2021/feb/14/boris-johnson-capitol-attack-trump-impeachment-kerfuffle-joe-biden-clone",
-      "publishedDateTime": "2021-02-14T14:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

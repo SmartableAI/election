@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/kamala-harris-biden-starting-from-sc
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kamala-harris-biden-starting-from-scratch-covid-19-after-trump-2021-2?amp"
 type: article
 quality: 147
-heat: 947
+heat: 967
 published: true
 
 provider:
@@ -127,6 +127,22 @@ related:
       - url: "https://s.abcnews.com/images/US/WireAP_426b79cb9f1b4ae896d3011fed7cd871_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "The Ten Year War review: Obamacare, Trump and Biden's battles yet to come"
+    excerpt: "Jonathan Cohn’s study of the fight for healthcare coverage delivers depth, dish and much for Democrats to ponder"
+    publishedDateTime: 2021-02-21T05:02:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/feb/21/the-ten-year-war-review-obamacare-obama-trump-biden-affordable-care-act"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/21/the-ten-year-war-review-obamacare-obama-trump-biden-affordable-care-act"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/21/the-ten-year-war-review-obamacare-obama-trump-biden-affordable-care-act"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 139
+    images:
+      - url: "https://i.guim.co.uk/img/media/25cf33ed1a37d743a7a2c2ef10478564b3184253/174_194_2767_1660/master/2767.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4bf36bf4ee29d8704cc1b988a73ed835"
+        width: 600
+        height: 360
         isCached: true
   - title: "Biden, reflecting on Senate acquittal of Trump, says 'democracy is fragile'"
     excerpt: "U.S. President Joe Biden said on Saturday that the Senate's acquittal of former President Donald Trump for inciting an insurrection was a reminder that democracy was fragile, and every American had a duty to defend the truth."

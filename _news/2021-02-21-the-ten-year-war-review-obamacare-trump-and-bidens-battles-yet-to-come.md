@@ -1,14 +1,14 @@
 ---
 category: news
-title: "How Kamala Harris made wearing pearls cool"
-excerpt: "As the pearl’s standing increases alongside that of women, a progressive new generation is rediscovering Margaret Thatcher’s one-time trademark"
-publishedDateTime: 2021-02-12T16:14:00Z
-originalUrl: "https://www.theguardian.com/fashion/2021/feb/12/how-kamala-harris-made-wearing-pearls-cool"
-webUrl: "https://www.theguardian.com/fashion/2021/feb/12/how-kamala-harris-made-wearing-pearls-cool"
-ampWebUrl: "https://amp.theguardian.com/fashion/2021/feb/12/how-kamala-harris-made-wearing-pearls-cool"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/fashion/2021/feb/12/how-kamala-harris-made-wearing-pearls-cool"
+title: "The Ten Year War review: Obamacare, Trump and Biden's battles yet to come"
+excerpt: "Jonathan Cohn’s study of the fight for healthcare coverage delivers depth, dish and much for Democrats to ponder"
+publishedDateTime: 2021-02-21T05:02:00Z
+originalUrl: "https://www.theguardian.com/us-news/2021/feb/21/the-ten-year-war-review-obamacare-obama-trump-biden-affordable-care-act"
+webUrl: "https://www.theguardian.com/us-news/2021/feb/21/the-ten-year-war-review-obamacare-obama-trump-biden-affordable-care-act"
+ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/21/the-ten-year-war-review-obamacare-obama-trump-biden-affordable-care-act"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/21/the-ten-year-war-review-obamacare-obama-trump-biden-affordable-care-act"
 type: article
-quality: 125
+quality: 139
 heat: -1
 published: false
 
@@ -22,10 +22,10 @@ provider:
 
 topics:
   - Election
-  - Kamala Harris
+  - Donald Trump
 
 images:
-  - url: "https://i.guim.co.uk/img/media/bb11ce65ca7bc3d31c1deab990f87472f33d1531/0_0_5000_3000/master/5000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ad4e8d9e8da6990e75475493d8e4324c"
+  - url: "https://i.guim.co.uk/img/media/25cf33ed1a37d743a7a2c2ef10478564b3184253/174_194_2767_1660/master/2767.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4bf36bf4ee29d8704cc1b988a73ed835"
     width: 600
     height: 360
     isCached: true
@@ -142,22 +142,6 @@ related:
       - url: "https://s.abcnews.com/images/US/WireAP_426b79cb9f1b4ae896d3011fed7cd871_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "The Ten Year War review: Obamacare, Trump and Biden's battles yet to come"
-    excerpt: "Jonathan Cohn’s study of the fight for healthcare coverage delivers depth, dish and much for Democrats to ponder"
-    publishedDateTime: 2021-02-21T05:02:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/feb/21/the-ten-year-war-review-obamacare-obama-trump-biden-affordable-care-act"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/21/the-ten-year-war-review-obamacare-obama-trump-biden-affordable-care-act"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/21/the-ten-year-war-review-obamacare-obama-trump-biden-affordable-care-act"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 139
-    images:
-      - url: "https://i.guim.co.uk/img/media/25cf33ed1a37d743a7a2c2ef10478564b3184253/174_194_2767_1660/master/2767.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4bf36bf4ee29d8704cc1b988a73ed835"
-        width: 600
-        height: 360
         isCached: true
   - title: "Biden, reflecting on Senate acquittal of Trump, says 'democracy is fragile'"
     excerpt: "U.S. President Joe Biden said on Saturday that the Senate's acquittal of former President Donald Trump for inciting an insurrection was a reminder that democracy was fragile, and every American had a duty to defend the truth."
@@ -366,6 +350,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1733425/president-joe-biden.jpg"
         width: 2500
         height: 1665
+        isCached: true
+  - title: "How Kamala Harris made wearing pearls cool"
+    excerpt: "As the pearl’s standing increases alongside that of women, a progressive new generation is rediscovering Margaret Thatcher’s one-time trademark"
+    publishedDateTime: 2021-02-12T16:14:00Z
+    webUrl: "https://www.theguardian.com/fashion/2021/feb/12/how-kamala-harris-made-wearing-pearls-cool"
+    ampWebUrl: "https://amp.theguardian.com/fashion/2021/feb/12/how-kamala-harris-made-wearing-pearls-cool"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/fashion/2021/feb/12/how-kamala-harris-made-wearing-pearls-cool"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/bb11ce65ca7bc3d31c1deab990f87472f33d1531/0_0_5000_3000/master/5000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ad4e8d9e8da6990e75475493d8e4324c"
+        width: 600
+        height: 360
         isCached: true
   - title: "The Latest: Biden administration increasing vaccine supplies"
     excerpt: "President Joe Biden’s administration is increasing coronavirus vaccine supplies sent to states to 13.5 million doses per week"
@@ -663,6 +663,6 @@ related:
         height: 400
         isCached: true
 
-secured: "uVyKNADv9gkurcl8Jy1HZiZgk07SgU21PkOP5RHldJaIP8tZAnlBhxEUNiW8VrH57JyPFkWa384Pzutcgku13Vb5PWkK6CcV0P2Gtj1G8RZ2ow0GpZioio8zqUJwTPPYcCNvLKeZJigzjzHn1NUcDASeL/P8pn1ZWx/qZPw9AKNwlmc4s2bVGKSB//fLxaH1RKaHx6ncBFc9Lvl8PbD+H+2lTP5W3TKAXFKJQtLI1D5KpBx479gSN5ezY7PGcGW19YT7nrwQlCQfMup5biHML9jpB/56JZhhUfjoZGXOlp9ty7CoKVXO6fi42XRfwRXhtKsDlRGOFPSQJWOikCexGWLrdgc5CctGn7VY48vfo8RiXxiSC0/qYY4HLfpE/h+tg6HIGWefnkz2HkMNxH33VcedW3Zpz5a0ggJzZvJu6f89GfaSeFbIuXt6TtAScjAkvKU5cU0r7Z5t7TYp+8IM1B6YBl34f4D7JiQBrI/JdWgwEcTM85I+Uo861tGPgmXGt3si6kJhZ2fbynPDPGiIOg==;VGnOWpCaBrSr41EG8sx3UA=="
+secured: "u+vcFhWsmYLtSj9/H5uzOIiiuHYF1VO0AjxwAXHbAH58F11HA2fO9/+KLWZn/Ff7iD3KlNQAq8S0v445PeXDndNdf32fEpKYbOulC4JLZWym8k709aSgvx2lCwwyND/t+nfjPumnjXtHvEB1X7fborbbk3/ehrA43XJGbCfGlCRwRC+C5dOJDZ+5ENBSr8to+thPDDRPtNwSYzrGlY5DsaAbv1+IvFdOQm9zduVXq/RyvDCudTOHBOmXgnW1C/5k1e1Te6nlAl85yG0p2yF1eeS21fLPJxigifgn2ykagXsnTbTROWuoKC8L2Bp/X9bbbsWK0heyEIUOoIkHrz+wlRIcsK49VVkPdNaimG3aD14=;ujy+sZPVqCvH0jZRLebjVg=="
 ---
 

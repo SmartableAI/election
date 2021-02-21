@@ -143,6 +143,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "The Ten Year War review: Obamacare, Trump and Biden's battles yet to come"
+    excerpt: "Jonathan Cohn’s study of the fight for healthcare coverage delivers depth, dish and much for Democrats to ponder"
+    publishedDateTime: 2021-02-21T05:02:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/feb/21/the-ten-year-war-review-obamacare-obama-trump-biden-affordable-care-act"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/21/the-ten-year-war-review-obamacare-obama-trump-biden-affordable-care-act"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/21/the-ten-year-war-review-obamacare-obama-trump-biden-affordable-care-act"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 139
+    images:
+      - url: "https://i.guim.co.uk/img/media/25cf33ed1a37d743a7a2c2ef10478564b3184253/174_194_2767_1660/master/2767.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4bf36bf4ee29d8704cc1b988a73ed835"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Biden draws sharp contrast with Trump in presidential debut on world stage"
     excerpt: "U.S. President Joe Biden on Friday drew a sharp contrast with the foreign policy of his much-derided predecessor, Donald Trump, and urged democracies to work together to challenge abuses by autocratic states such as China and Russia."
     publishedDateTime: 2021-02-20T00:26:00Z

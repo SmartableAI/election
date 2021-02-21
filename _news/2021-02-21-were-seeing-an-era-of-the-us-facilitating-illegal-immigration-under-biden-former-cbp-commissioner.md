@@ -31,33 +31,17 @@ images:
     isCached: true
 
 related:
-  - title: "ACLU calls Biden guidance on ICE arrests, deportations 'disappointing step backward'"
-    excerpt: "The American Civil Liberties Union (ACLU) is criticizing the Biden administration’s new guidance for arrests and deportations under Immigration and Customs Enforcement (ICE) -- calling it a “disappointing step backward” and telling the new administration it expects “better.”"
-    publishedDateTime: 2021-02-20T20:48:51Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yxwD2nTBCB0/aclu-biden-era-ice-guidance-arrests"
-    ampWebUrl: "https://www.foxnews.com/politics/aclu-biden-era-ice-guidance-arrests.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aclu-biden-era-ice-guidance-arrests.amp"
+  - title: "Biden revival of immigration 'catch and release' won't work: former CBP chief"
+    excerpt: "By reviving the so-called \"catch and release\" approach of the past, the Biden administration is \"facilitating illegal immigration,\" a former head of Customs and Border Protection argued Saturday."
+    publishedDateTime: 2021-02-21T01:36:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rnq4rKqsh9s/biden-revival-of-immigration-catch-and-release-wont-work-former-cbp-chief"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-revival-of-immigration-catch-and-release-wont-work-former-cbp-chief.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-revival-of-immigration-catch-and-release-wont-work-former-cbp-chief.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 168
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1afb723c-6431-4ce5-bea8-c93398d5b403/6ac0fdd4-ffcc-4654-840f-4ac9bc82d527/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Mark Morgan blasts Biden's new guidelines on ICE arrests: 'Defies law and order, common sense'"
-    excerpt: "The Biden administration's immigration reform \"defies law and order and common sense,\" former acting DHS Secretary Mark Morgan said on Friday."
-    publishedDateTime: 2021-02-19T17:46:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Cg4x5MHCXCk/mark-morgan-joe-biden-ice-arrests-drop"
-    ampWebUrl: "https://www.foxnews.com/politics/mark-morgan-joe-biden-ice-arrests-drop.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mark-morgan-joe-biden-ice-arrests-drop.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 163
+    quality: 172
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
         width: 340
