@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/17/politics/joe-biden-benjamin-netan
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/17/politics/joe-biden-benjamin-netanyahu-israel-us-call/index.html"
 type: article
 quality: 175
-heat: 335
+heat: 355
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210220105405-joe-biden-210219-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Democrats turn to Biden's agenda after impeachment trial"
+    excerpt: "With impeachment in the rearview mirror, congressional Democrats are directing their full attention toward President Joe Biden's agenda as they return to Washington this week.\n    \n"
+    publishedDateTime: 2021-02-21T13:01:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/f2CvnMnyvGg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/21/politics/democrats-biden-agenda-stimulus-this-week/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/21/politics/democrats-biden-agenda-stimulus-this-week/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190603164013-u-s-capitol-building-0327-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

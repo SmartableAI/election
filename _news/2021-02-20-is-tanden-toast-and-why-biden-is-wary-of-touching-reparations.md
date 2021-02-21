@@ -78,6 +78,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Democrats turn to Biden's agenda after impeachment trial"
+    excerpt: "With impeachment in the rearview mirror, congressional Democrats are directing their full attention toward President Joe Biden's agenda as they return to Washington this week.\n    \n"
+    publishedDateTime: 2021-02-21T13:01:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/f2CvnMnyvGg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/21/politics/democrats-biden-agenda-stimulus-this-week/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/21/politics/democrats-biden-agenda-stimulus-this-week/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190603164013-u-s-capitol-building-0327-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Netanyahu's wait for a call from Biden raises questions about US priorities"
     excerpt: "The White House insists President Joe Biden will \"soon\" speak with Israel's Prime Minister Benjamin Netanyahu, but the wait, which has now stretched beyond three weeks, is raising questions about whether there is a motive behind the delay.\n    \n"
     publishedDateTime: 2021-02-12T02:39:30Z

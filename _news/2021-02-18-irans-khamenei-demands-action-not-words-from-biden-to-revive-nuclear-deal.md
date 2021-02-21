@@ -47,6 +47,22 @@ related:
         width: 858
         height: 545
         isCached: true
+  - title: "Houston mayor: Biden visit 'would not be a distraction'"
+    excerpt: "Houston Mayor Sylvester Turner (D) said Sunday he did not believe a visit to Texas by President Biden would be a “distraction” after winter storms devastated the state’s energy grid."
+    publishedDateTime: 2021-02-21T16:47:00Z
+    webUrl: "https://thehill.com/homenews/sunday-talk-shows/539776-houston-mayor-biden-visit-would-not-be-a-distraction"
+    ampWebUrl: "https://thehill.com/homenews/sunday-talk-shows/539776-houston-mayor-biden-visit-would-not-be-a-distraction?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/sunday-talk-shows/539776-houston-mayor-biden-visit-would-not-be-a-distraction?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/houstonice_021621getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Iran's Khamenei demands 'action, not words' from Biden to revive nuclear deal"
     excerpt: "Iran's Supreme Leader Ayatollah Ali Khamenei demanded \"action, not words\" from the United States if it wants to revive Tehran's 2015 nuclear deal with world powers, the latest challenge to new President Joe Biden to take the first step towards a thaw."
     publishedDateTime: 2021-02-17T12:08:00Z

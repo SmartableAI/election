@@ -543,6 +543,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Growing number of Republican donors aim to prise party from Trump influence"
+    excerpt: "Trump’s critics – and the donors backing them – are scrambling fast to try to prise control away from the pro-Trump majority"
+    publishedDateTime: 2021-02-21T12:00:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/feb/21/republican-donors-aim-move-party-away-trump-influence?share=facebook"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/21/republican-donors-aim-move-party-away-trump-influence"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/21/republican-donors-aim-move-party-away-trump-influence"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 123
+    images:
+      - url: "https://i.guim.co.uk/img/media/8239e0dcb922b1184131dbf73a4542d795aca07d/0_568_2212_1326/master/2212.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=fcedec767f08e7e6f8b1439f2bf05a6d"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Trump headed to swift acquittal after Democrats balk on impeachment witnesses"
     excerpt: "The decision in the end to forego testimony all but ensured Trump’s acquittal without a full accounting of his actions on Jan. 6, revealing his continuing grip on the GOP and well as Democratic ambivalence over extending the trial."
     publishedDateTime: 2021-02-13T20:41:00Z

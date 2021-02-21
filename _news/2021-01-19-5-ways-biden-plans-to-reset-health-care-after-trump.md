@@ -239,6 +239,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Biden's polling is steadier than Trump's"
+    excerpt: "Poll of the week: A Quinnipiac University poll finds that President Joe Biden's job approval rating stands at 52% to a disapproval rating of 38% among registered voters.\n    \n"
+    publishedDateTime: 2021-02-21T11:01:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wF9kTHkF6C8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/21/politics/biden-approval-poll-of-the-week/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/21/politics/biden-approval-poll-of-the-week/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200409020412-biden-trump-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden puts Trump's climate and environmental rollbacks in his crosshairs"
     excerpt: "Among incoming President Joe Biden's Day One priorities: Begin rolling back climate and environmental policies of the Trump administration, many of which were rollbacks of Obama-era or earlier rules.\n    \n"
     publishedDateTime: 2021-01-20T10:07:12Z
