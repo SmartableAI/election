@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/17/politics/joe-biden-benjamin-netan
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/17/politics/joe-biden-benjamin-netanyahu-israel-us-call/index.html"
 type: article
 quality: 175
-heat: 395
+heat: 415
 published: true
 
 provider:
@@ -202,6 +202,20 @@ related:
       - url: "https://static.politico.com/3a/09/3b9ac1e84dbfad35c8bbdf0d6232/210220-tanden-ap-773.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Schumer says he is working with Biden 'to find the extra votes' to confirm Neera Tanden"
+    excerpt: "Senate Majority Leader Chuck Schumer said Sunday he is working with President Joe Biden to gather the support needed to confirm Neera Tanden as director of the Office of Management and Budget."
+    publishedDateTime: 2021-02-21T20:23:00Z
+    webUrl: "https://www.cnn.com/2021/02/21/politics/chuck-schumer-neera-tanden-omb/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 107
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210221130145-neera-tanden-210209-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "xqBKzKTofQriAtRb5ZS8pIca5syuc1MRI3uG96LrQ7A3fmiIqMnC1/jHCyyfxN8gdEEQYPO0uM068M54U0b1FQ2xiBsmdJPIVTWCExGbM+3lzzIJGUCwYAXC4QUyFXnpnQR5BZE8WTSr2vaUjad/cjObM8leP80m4H7SyWDh9TP6ZyWsM3hgJWTaCRtdP6uu4yjgZMur5NjtLq4giFYXxyopxmyO3uaY0LqglcTLiwzxYgNIdTda10MLSTwY+rpLtqhyf3cjxIiRzQIXTgJ2E71Uu9SWEktTTD6x0qmKvmc2VNc/rQgVsmEO3B10TrcRwROrOE+epAP3AvbDLaqYIU2OLO98ethescGI3dSTURg=;IPTiEIWve7iK29jO0g7cOQ=="

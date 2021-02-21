@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Central Park ice skaters outraged at De Blasio for closing rinks to punish Trump"
-excerpt: "Skaters at Central Park’s two rinks are devastated that this weekend will be their last on the ice this season — and angry at Mayor de Blasio for closing the Trump-run rinks early to spite"
-publishedDateTime: 2021-02-21T00:38:00Z
-originalUrl: "https://nypost.com/2021/02/20/nyc-ice-skaters-fume-at-de-blasio-for-closing-rinks-to-punish-trump/"
-webUrl: "https://nypost.com/2021/02/20/nyc-ice-skaters-fume-at-de-blasio-for-closing-rinks-to-punish-trump/"
-ampWebUrl: "https://nypost.com/2021/02/20/nyc-ice-skaters-fume-at-de-blasio-for-closing-rinks-to-punish-trump/amp/"
-cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/20/nyc-ice-skaters-fume-at-de-blasio-for-closing-rinks-to-punish-trump/amp/"
+title: "Man waves ‘TRUMP 2024’ flag while skating on ice rink shuttered by de Blasio"
+excerpt: "A man was captured on camera defiantly waving a “TRUMP 2024” flag while skating on the Trump-run ice rink in Central Park Saturday — after Mayor Bill de Blasio announced he’d shutter the"
+publishedDateTime: 2021-02-21T22:37:00Z
+originalUrl: "https://nypost.com/2021/02/21/man-waves-trump-2024-flag-while-skating-on-nyc-ice-rink/"
+webUrl: "https://nypost.com/2021/02/21/man-waves-trump-2024-flag-while-skating-on-nyc-ice-rink/"
+ampWebUrl: "https://nypost.com/2021/02/21/man-waves-trump-2024-flag-while-skating-on-nyc-ice-rink/amp/"
+cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/21/man-waves-trump-2024-flag-while-skating-on-nyc-ice-rink/amp/"
 type: article
-quality: 130
+quality: 132
 heat: -1
 published: false
 
@@ -22,7 +22,7 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/wollman-rink-1.jpg?quality=90&strip=all&w=1200"
+  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/TrumpFlag.jpg?quality=90&strip=all&w=1200"
     width: 1200
     height: 800
     isCached: true
@@ -60,23 +60,23 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Man waves ‘TRUMP 2024’ flag while skating on ice rink shuttered by de Blasio"
-    excerpt: "A man was captured on camera defiantly waving a “TRUMP 2024” flag while skating on the Trump-run ice rink in Central Park Saturday — after Mayor Bill de Blasio announced he’d shutter the"
-    publishedDateTime: 2021-02-21T22:37:00Z
-    webUrl: "https://nypost.com/2021/02/21/man-waves-trump-2024-flag-while-skating-on-nyc-ice-rink/"
-    ampWebUrl: "https://nypost.com/2021/02/21/man-waves-trump-2024-flag-while-skating-on-nyc-ice-rink/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/21/man-waves-trump-2024-flag-while-skating-on-nyc-ice-rink/amp/"
+  - title: "Central Park ice skaters outraged at De Blasio for closing rinks to punish Trump"
+    excerpt: "Skaters at Central Park’s two rinks are devastated that this weekend will be their last on the ice this season — and angry at Mayor de Blasio for closing the Trump-run rinks early to spite"
+    publishedDateTime: 2021-02-21T00:38:00Z
+    webUrl: "https://nypost.com/2021/02/20/nyc-ice-skaters-fume-at-de-blasio-for-closing-rinks-to-punish-trump/"
+    ampWebUrl: "https://nypost.com/2021/02/20/nyc-ice-skaters-fume-at-de-blasio-for-closing-rinks-to-punish-trump/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/20/nyc-ice-skaters-fume-at-de-blasio-for-closing-rinks-to-punish-trump/amp/"
     type: article
     provider:
       name: New York Post
       domain: nypost.com
-    quality: 132
+    quality: 130
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/TrumpFlag.jpg?quality=90&strip=all&w=1200"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/wollman-rink-1.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true
 
-secured: "yBPZE5cRI6LZuvdoFhyLPnLiJKUrYAyQpAzhMulga5jJUg7WCQ0TgVHU0z9pdmPZTEeO8X6yYnAgwcAI1308aBIYbURmjw+rP43+sPXi/PL5/Ga4Cw7jI5e+RWo/yeUIxhLhZOaTzupWlj5u9KBr9BmO1aAQme6lnkl0zutVgSSzpkvvk9OmvkVDYbzL6bIXT3DvBUakByL2Exn8DXHvvlnvI6I6HH8J6EhsgJpYgDDmpb6Ovt6QrMqEKg4Bv6os/tqXdn+4JLTjP+/OXuDuTV61NUMLvGg6QtuygEAuKFL3FH4zKtZu/khvTnQYDh+oLynIXQ7XPUveaTWUf4ArQrsE9VXmfDlsXWIqO07ps2n2/6ZrwZlQ7nBZEAzMfjPMhyw0VBCbbGgK7odVJ5F0rDNCOqYSkd841IfGS53QXHBPT8nQN50jXw5YAGl73yxw7RfN33ehUJE2IT3czPaEQGIcgRtQd8APgAn4RVjWVQwAWHSpjPbbY5DM3Vvmpoy7w4Sc0VP25TuufY22OpMPgQ==;wHEA2FfUefkdczeRSYoWEA=="
+secured: "tF6dk65v1MQa7rGZSeJmSjQ9R16bEDHxSSCMaF581dwZx8JT1qSzwXDITHJdqPXUyKcVTgXE8CniEZoNyM/CMp8YXi7i0+b1N3oGLwyk5elaRV1MihlLMpD142hxy/IVxP5/8XFEEaXr/U7611asRXvaO74c5uQiG19TSc2qeYb7L07h67HG8OJKK9grx4Nig4ixeKFlcEk3jqneUnlKSVFbtIfC4KqNXj3cy+k5kgzmxIrOBDImqM5r7wdvI68D+PXYJ4ajBd2sP46xjK9M2xy8VaF7PlB42kWOgDr8v8U/UlK3o87Wmnxm5J9GHvecHQ06CzeBTHESYk9O4gg05nPc33pboCjlL8sv7tNm6Zk=;+/BLQ3XNzaQg79koQ8kx6Q=="
 ---
 

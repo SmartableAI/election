@@ -1,14 +1,12 @@
 ---
 category: news
-title: "Manchin says he'll vote against Biden OMB nominee Neera Tanden"
-excerpt: "Democratic Sen. Joe Manchin of West Virginia announced Friday he will vote against Neera Tanden, President Joe Biden's nominee for the director of the Office of Management and Budget, which will make it difficult for her to be confirmed given Republican resistance to her nomination.\n    \n"
-publishedDateTime: 2021-02-19T22:41:31Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/c_7lUk4Q8YU/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/c_7lUk4Q8YU/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/02/19/politics/joe-manchin-neera-tanden-confirmation-biden/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/19/politics/joe-manchin-neera-tanden-confirmation-biden/index.html"
+title: "Schumer says he is working with Biden 'to find the extra votes' to confirm Neera Tanden"
+excerpt: "Senate Majority Leader Chuck Schumer said Sunday he is working with President Joe Biden to gather the support needed to confirm Neera Tanden as director of the Office of Management and Budget."
+publishedDateTime: 2021-02-21T20:23:00Z
+originalUrl: "https://www.cnn.com/2021/02/21/politics/chuck-schumer-neera-tanden-omb/index.html"
+webUrl: "https://www.cnn.com/2021/02/21/politics/chuck-schumer-neera-tanden-omb/index.html"
 type: article
-quality: 175
+quality: 107
 heat: -1
 published: false
 
@@ -22,10 +20,11 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210126203100-joe-manchin-at-inauguration-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210221130145-neera-tanden-210209-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -44,6 +43,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210201133546-biden-netanyahu-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Manchin says he'll vote against Biden OMB nominee Neera Tanden"
+    excerpt: "Democratic Sen. Joe Manchin of West Virginia announced Friday he will vote against Neera Tanden, President Joe Biden's nominee for the director of the Office of Management and Budget, which will make it difficult for her to be confirmed given Republican resistance to her nomination.\n    \n"
+    publishedDateTime: 2021-02-19T22:41:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/c_7lUk4Q8YU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/19/politics/joe-manchin-neera-tanden-confirmation-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/19/politics/joe-manchin-neera-tanden-confirmation-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210126203100-joe-manchin-at-inauguration-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -203,21 +218,7 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "Schumer says he is working with Biden 'to find the extra votes' to confirm Neera Tanden"
-    excerpt: "Senate Majority Leader Chuck Schumer said Sunday he is working with President Joe Biden to gather the support needed to confirm Neera Tanden as director of the Office of Management and Budget."
-    publishedDateTime: 2021-02-21T20:23:00Z
-    webUrl: "https://www.cnn.com/2021/02/21/politics/chuck-schumer-neera-tanden-omb/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 107
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210221130145-neera-tanden-210209-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
 
-secured: "3NDV5q4P38zVWO3rMK/DKTC76tvku0LdPxYz+sT6p7/DZQ1/RD+QQYOjA5wk4cL6ndLY6UWuwsIosL0p2Ov/VD4y9B5QRA6nasCNiSawsCYDQk+unjH/38eU3R7OHyo+VW222FZ3uzkHASJO4eFruBGIBGbhtgsKXTi/j3jshUJGq6ghRJCQ5sgJHEXdxe4YwGzLHI035ZjQ1oVaKDPlcAXtKB47IDVD985HyDZ0z7or5zlgcao0BolDEYKVS3zXa5h5+ZcLgczdCKPNDJMI5aK7NLrqSRILSbxxNZ14xcVaolHYRrDtKzxfcHtjHNo6ZnIcGIJg3+NKk2sdLlK2r/wiJQX+Uu1gxPYW1KEO81s=;dCxn4CujAIh5R3keTbtAGw=="
+secured: "QXgofH1lfd++y2V+ie0NqEkF4LugskNzqWBL6fkZnSeqd45Z3gaTnwPzetzb2Mcghc44p2BKJSmlURzl/smOC0Y9n0nO7ditq555STrpNd6oOHNJIkib4I0MuNWhEFESVPWt92ChqfaYgCrySC7aUi3RTCFi6AztTrQcoU0fjWCvjhM6B5+LpALa+orzq8u1ya+1RlW6xp5NgWFDxdIU5bGPF2zztIJwjf6qmxHayV4YBHg/nAs8ON5o6SXavjgqurMo681wSO431+YBRqElfRYWf8hm+VobZytbJEvGF/Vr5aS/sWWsrLtOfoK2CfjtE1gKYsijMuYy+HI2Mj2wsCxSyWvBsPnsKfMAhZn2yhQ=;iC8FMt/eAFZHWWmY6xDbtA=="
 ---
 

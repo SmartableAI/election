@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/kamala-harris-biden-starting-from-sc
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kamala-harris-biden-starting-from-scratch-covid-19-after-trump-2021-2?amp"
 type: article
 quality: 147
-heat: 967
+heat: 1007
 published: true
 
 provider:
@@ -492,6 +492,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Democrats’ blend of progressives and moderates put Joe Biden in power, but the party is hardly united on an agenda"
+    excerpt: "The party’s ideological blend of moderates and progressives carried it to power, but elements of that coalition could block the most ambitious parts of President Biden’s agenda."
+    publishedDateTime: 2021-02-21T19:40:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-democrats-progressives-moderates-joe-biden-20210221-ykq2lzxdrncxbhhj5kpmgl3cfe-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-democrats-progressives-moderates-joe-biden-20210221-ykq2lzxdrncxbhhj5kpmgl3cfe-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-nyt-democrats-progressives-moderates-joe-biden-20210221-ykq2lzxdrncxbhhj5kpmgl3cfe-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 103
+    images:
+      - url: "https://www.chicagotribune.com/resizer/k7i5pUZDPPB1k0B3Z8JNvVmsFlc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KB7TPCVERBAHBNVHYYY5D4KW4M.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump's Twitter had the whole world on edge. Here's how the Biden White House plans to make @POTUS sane again."
     excerpt: "The Biden White House has a social media strategy that is clearly the anti-Trump. There also might be \"more to come\" on an official Instagram for Champ and Major, the president's dogs."
     publishedDateTime: 2021-02-19T04:11:00Z
@@ -583,6 +599,22 @@ related:
       - url: "https://i.insider.com/601abcf001504a00197fb5b7?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Kamala Harris top target for online haters"
+    excerpt: "Research shows that Kamala Harris may be the most targeted American politician on the internet, one who checks every box for the haters of the fever swamps: She’s a woman, she’s a person of color and she holds power."
+    publishedDateTime: 2021-02-21T22:12:00Z
+    webUrl: "https://www.detroitnews.com/story/news/politics/2021/02/21/harris-online-target-haters/115491676/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/115491676"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/115491676"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/05/PDTN/ec92e7b3-f812-4553-8368-2950788fecec-AP21036466547821.jpg?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200"
+        width: 1200
+        height: 676
         isCached: true
   - title: "Kamala Harris Disputes Dr. Fauci, Insists Biden Administration Is ‘Starting from Scratch’ on Coronavirus"
     excerpt: "Kamala Harris is the biggest liability of the Biden administration because she lies, obviously and clumsily, even when she doesn’t need to lie."

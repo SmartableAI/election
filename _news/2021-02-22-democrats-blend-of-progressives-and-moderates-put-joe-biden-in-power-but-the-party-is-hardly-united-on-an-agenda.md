@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Biden administration tells Supreme Court Obamacare is constitutional, should be saved"
-excerpt: "In letter to the court, government lawyers disavowed the view the Trump administration argued just months ago."
-publishedDateTime: 2021-02-11T04:20:00Z
-originalUrl: "https://www.washingtonpost.com/politics/courts_law/biden-supreme-court-obamacare/2021/02/10/21dbfcac-6be7-11eb-ba56-d7e2c8defa31_story.html"
-webUrl: "https://www.washingtonpost.com/politics/courts_law/biden-supreme-court-obamacare/2021/02/10/21dbfcac-6be7-11eb-ba56-d7e2c8defa31_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/biden-supreme-court-obamacare/2021/02/10/21dbfcac-6be7-11eb-ba56-d7e2c8defa31_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/biden-supreme-court-obamacare/2021/02/10/21dbfcac-6be7-11eb-ba56-d7e2c8defa31_story.html?outputType=amp"
+title: "Democrats’ blend of progressives and moderates put Joe Biden in power, but the party is hardly united on an agenda"
+excerpt: "The party’s ideological blend of moderates and progressives carried it to power, but elements of that coalition could block the most ambitious parts of President Biden’s agenda."
+publishedDateTime: 2021-02-21T19:40:00Z
+originalUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-democrats-progressives-moderates-joe-biden-20210221-ykq2lzxdrncxbhhj5kpmgl3cfe-story.html"
+webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-democrats-progressives-moderates-joe-biden-20210221-ykq2lzxdrncxbhhj5kpmgl3cfe-story.html"
+ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-democrats-progressives-moderates-joe-biden-20210221-ykq2lzxdrncxbhhj5kpmgl3cfe-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-nyt-democrats-progressives-moderates-joe-biden-20210221-ykq2lzxdrncxbhhj5kpmgl3cfe-story.html?outputType=amp"
 type: article
-quality: 118
+quality: 103
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Chicago Tribune
+  domain: chicagotribune.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GTKWHNTL6EI6XOSW27RMRXX2GE.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://www.chicagotribune.com/resizer/k7i5pUZDPPB1k0B3Z8JNvVmsFlc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KB7TPCVERBAHBNVHYYY5D4KW4M.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -475,6 +475,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden administration tells Supreme Court Obamacare is constitutional, should be saved"
+    excerpt: "In letter to the court, government lawyers disavowed the view the Trump administration argued just months ago."
+    publishedDateTime: 2021-02-11T04:20:00Z
+    webUrl: "https://www.washingtonpost.com/politics/courts_law/biden-supreme-court-obamacare/2021/02/10/21dbfcac-6be7-11eb-ba56-d7e2c8defa31_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/biden-supreme-court-obamacare/2021/02/10/21dbfcac-6be7-11eb-ba56-d7e2c8defa31_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/biden-supreme-court-obamacare/2021/02/10/21dbfcac-6be7-11eb-ba56-d7e2c8defa31_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 118
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GTKWHNTL6EI6XOSW27RMRXX2GE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Meena Harris has a personal brand. Some fear she’s profiting from her Aunt Kamala’s office"
     excerpt: "The White House and others fear scrutiny over the personal branding efforts of the vice president's niece, which have grown with Kamala Harris' career."
     publishedDateTime: 2021-02-11T12:00:00Z
@@ -490,22 +506,6 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/651769e/2147483647/strip/true/crop/4500x2939+0+48/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F85%2Fe9%2F1c5ad06c42b89c8d0cc826df1046%2Ftrump-impeachment-08666.jpg"
         width: 320
         height: 209
-        isCached: true
-  - title: "Democrats’ blend of progressives and moderates put Joe Biden in power, but the party is hardly united on an agenda"
-    excerpt: "The party’s ideological blend of moderates and progressives carried it to power, but elements of that coalition could block the most ambitious parts of President Biden’s agenda."
-    publishedDateTime: 2021-02-21T19:40:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-democrats-progressives-moderates-joe-biden-20210221-ykq2lzxdrncxbhhj5kpmgl3cfe-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-democrats-progressives-moderates-joe-biden-20210221-ykq2lzxdrncxbhhj5kpmgl3cfe-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-nyt-democrats-progressives-moderates-joe-biden-20210221-ykq2lzxdrncxbhhj5kpmgl3cfe-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 103
-    images:
-      - url: "https://www.chicagotribune.com/resizer/k7i5pUZDPPB1k0B3Z8JNvVmsFlc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KB7TPCVERBAHBNVHYYY5D4KW4M.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Trump's Twitter had the whole world on edge. Here's how the Biden White House plans to make @POTUS sane again."
     excerpt: "The Biden White House has a social media strategy that is clearly the anti-Trump. There also might be \"more to come\" on an official Instagram for Champ and Major, the president's dogs."
@@ -695,6 +695,6 @@ related:
         height: 400
         isCached: true
 
-secured: "aJKOXtt8NF3JDh4LqV1jlYRbGhwiJQ42NB0eT1ALnXn1DisCXBNSONiOgGiqjFKy9j/T1d2kgPPNtED5I2lemmMDz/E+uyzzFQS85OrFXgcuL7kkg3bIKrGvBKg9P3AQuzGh/6f1TbxvZsWBgP2exXSeQe6R7SVh/DFZYckBPtt6CC+k/zp1iwKYNLMnEi0a5CdYjy/yb/eB7VHC18LPjMbiDnHuh+xFH1TpkWnGWlGB4mHpJH7jjpLPiib2eLCLgm/Xr2eInKeWM1xtgFGQTOg5KsSGxFfvWpADv/xKimjnP8J0Vqi6d7f8ZxyM/dEUbvxKDUrNZP/d0YvgDPysQeio1qYvc9EgbREnOaXvfsm8wT4FrUMOTk1CmoAwHPS/P3OiOAAfoyxzVBYesFsrAYyHa9ZTxui3vR6HDchqDWbxXbsinOGDNl/Ox4HI2KCKVRKJuwomJIbpAQezh1vqV6vwf1I5QmuZUN6WFFEHlXSJG8SW9cXAw+CzjNsO1/ZaD0afH3JgpZV1G7KT3f+EHg==;eLe/eA+Q5djFFvB1sgkhgQ=="
+secured: "q2GYcUJU4duA+0Kbg2odIXwQxOjZxJNuQX9CBUDWr2ViNfTpfuGCcStu68rmpv04sMAb1AwtHUJMezC1viz/to+O5XHxojQssRwg4eukRVmClkf4iXSE41UhMcMQgyHDFomn6yhq9Hr2BVZLZLPSN4tPRtn4/O7WcnOSzV8nYWl8lrfdOhd7lEMCrPXFRBlvNvsqR+/wHUIsSNL2k2OH41w8vx0+v9P2zO/lCmwCv5xMH1Opb/NlkXqDhpw9veoRUnDX204hxELH0ev7JzidNF03uhztE3+Nl4x6m4Fpgu7uGRKi3V89meWfgl+CHllUxmighf81vY0RmPFLrOe8B4rZfC8T8NvF1lSqKhSDZ+U=;glCZWPJpq0H3x19THz4kOA=="
 ---
 

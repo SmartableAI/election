@@ -203,6 +203,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Schumer says he is working with Biden 'to find the extra votes' to confirm Neera Tanden"
+    excerpt: "Senate Majority Leader Chuck Schumer said Sunday he is working with President Joe Biden to gather the support needed to confirm Neera Tanden as director of the Office of Management and Budget."
+    publishedDateTime: 2021-02-21T20:23:00Z
+    webUrl: "https://www.cnn.com/2021/02/21/politics/chuck-schumer-neera-tanden-omb/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 107
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210221130145-neera-tanden-210209-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "rE+lmlsXCyoIB2PpECTphb4I2YWhRoWUM1nId4A5XhpXArG/FYCByaCKC0SExbnQEhU+eRP61bv23wNqNzXMboAjqamHwWrqlv1zKiO4D6Jly0LobQZ75Y05YT4C51s4e/5utu67PfuWJDNFuO8wcX/fDrZ+0Q+0dMsNw5bd9F3jag2PHr3Cq87WyaEGo4cmA2gsrxAuxTYSSgVCt+ji3bZ7toYLKE25SUvViIdxxtKwMo2RYuEqTS+J/hrZXuedpAVcYA9RuoF9UEMcdA2TLOrXs9zAy28z/QryauiMfVEhonwz7aiBgvXmXPbH+QzOA1ElvfGC8mVVT6FLDW+TPGJciPj0Yh4oX9jRmgQ+RvI=;d4V7yZad+mmtKvkrQspA4A=="
 ---

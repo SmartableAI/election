@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Biden administration tells Supreme Court Obamacare is constitutional, should be saved"
-excerpt: "In letter to the court, government lawyers disavowed the view the Trump administration argued just months ago."
-publishedDateTime: 2021-02-11T04:20:00Z
-originalUrl: "https://www.washingtonpost.com/politics/courts_law/biden-supreme-court-obamacare/2021/02/10/21dbfcac-6be7-11eb-ba56-d7e2c8defa31_story.html"
-webUrl: "https://www.washingtonpost.com/politics/courts_law/biden-supreme-court-obamacare/2021/02/10/21dbfcac-6be7-11eb-ba56-d7e2c8defa31_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/biden-supreme-court-obamacare/2021/02/10/21dbfcac-6be7-11eb-ba56-d7e2c8defa31_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/biden-supreme-court-obamacare/2021/02/10/21dbfcac-6be7-11eb-ba56-d7e2c8defa31_story.html?outputType=amp"
+title: "Kamala Harris top target for online haters"
+excerpt: "Research shows that Kamala Harris may be the most targeted American politician on the internet, one who checks every box for the haters of the fever swamps: She’s a woman, she’s a person of color and she holds power."
+publishedDateTime: 2021-02-21T22:12:00Z
+originalUrl: "https://www.detroitnews.com/story/news/politics/2021/02/21/harris-online-target-haters/115491676/"
+webUrl: "https://www.detroitnews.com/story/news/politics/2021/02/21/harris-online-target-haters/115491676/"
+ampWebUrl: "https://amp.detroitnews.com/amp/115491676"
+cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/115491676"
 type: article
-quality: 118
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Detroit News
+  domain: detroitnews.com
 
 topics:
   - Election
-  - Joe Biden
+  - Kamala Harris
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GTKWHNTL6EI6XOSW27RMRXX2GE.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://www.gannett-cdn.com/presto/2021/02/05/PDTN/ec92e7b3-f812-4553-8368-2950788fecec-AP21036466547821.jpg?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200"
+    width: 1200
+    height: 676
     isCached: true
 
 related:
@@ -475,6 +471,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden administration tells Supreme Court Obamacare is constitutional, should be saved"
+    excerpt: "In letter to the court, government lawyers disavowed the view the Trump administration argued just months ago."
+    publishedDateTime: 2021-02-11T04:20:00Z
+    webUrl: "https://www.washingtonpost.com/politics/courts_law/biden-supreme-court-obamacare/2021/02/10/21dbfcac-6be7-11eb-ba56-d7e2c8defa31_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/biden-supreme-court-obamacare/2021/02/10/21dbfcac-6be7-11eb-ba56-d7e2c8defa31_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/biden-supreme-court-obamacare/2021/02/10/21dbfcac-6be7-11eb-ba56-d7e2c8defa31_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 118
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GTKWHNTL6EI6XOSW27RMRXX2GE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Meena Harris has a personal brand. Some fear she’s profiting from her Aunt Kamala’s office"
     excerpt: "The White House and others fear scrutiny over the personal branding efforts of the vice president's niece, which have grown with Kamala Harris' career."
     publishedDateTime: 2021-02-11T12:00:00Z
@@ -599,22 +611,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Kamala Harris top target for online haters"
-    excerpt: "Research shows that Kamala Harris may be the most targeted American politician on the internet, one who checks every box for the haters of the fever swamps: She’s a woman, she’s a person of color and she holds power."
-    publishedDateTime: 2021-02-21T22:12:00Z
-    webUrl: "https://www.detroitnews.com/story/news/politics/2021/02/21/harris-online-target-haters/115491676/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/115491676"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/115491676"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 75
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/02/05/PDTN/ec92e7b3-f812-4553-8368-2950788fecec-AP21036466547821.jpg?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "Kamala Harris Disputes Dr. Fauci, Insists Biden Administration Is ‘Starting from Scratch’ on Coronavirus"
     excerpt: "Kamala Harris is the biggest liability of the Biden administration because she lies, obviously and clumsily, even when she doesn’t need to lie."
     publishedDateTime: 2021-02-16T15:08:00Z
@@ -695,6 +691,6 @@ related:
         height: 400
         isCached: true
 
-secured: "aJKOXtt8NF3JDh4LqV1jlYRbGhwiJQ42NB0eT1ALnXn1DisCXBNSONiOgGiqjFKy9j/T1d2kgPPNtED5I2lemmMDz/E+uyzzFQS85OrFXgcuL7kkg3bIKrGvBKg9P3AQuzGh/6f1TbxvZsWBgP2exXSeQe6R7SVh/DFZYckBPtt6CC+k/zp1iwKYNLMnEi0a5CdYjy/yb/eB7VHC18LPjMbiDnHuh+xFH1TpkWnGWlGB4mHpJH7jjpLPiib2eLCLgm/Xr2eInKeWM1xtgFGQTOg5KsSGxFfvWpADv/xKimjnP8J0Vqi6d7f8ZxyM/dEUbvxKDUrNZP/d0YvgDPysQeio1qYvc9EgbREnOaXvfsm8wT4FrUMOTk1CmoAwHPS/P3OiOAAfoyxzVBYesFsrAYyHa9ZTxui3vR6HDchqDWbxXbsinOGDNl/Ox4HI2KCKVRKJuwomJIbpAQezh1vqV6vwf1I5QmuZUN6WFFEHlXSJG8SW9cXAw+CzjNsO1/ZaD0afH3JgpZV1G7KT3f+EHg==;eLe/eA+Q5djFFvB1sgkhgQ=="
+secured: "Mnxl3EEv86+KzRHEzo9ZogznF7LyAKMgXJEYHXFZV5un8XSMzzc+m70rudGaK7IMta+xp7wJfgll47oOhDk7oFT+VBZe3gSyqs2T65+851GNOVjx/bgm0P7k8SiPTWjFP7F3RRWUlCaibzxd0n26vub3u4DgxHiyTs89ezODFW4W8AGPwf1Z2/nJUJDEfQK3qJS1seFg0idBWP9NrfBMmjHS8QDeuRMOczCdYMI3dGkFYL56kOIIuft7I0CRw11KkgX+XWaPbas5IIcOvl4FyURQbySNE0HDhZhaZ/9b1I8Jh7OwpFy4saldU4mlT+RiUq23n+rH5YNDw317xw0VBHsimQ6BveoGXIDeROOW95Y=;Nc0tDnk7a/+I9jfKdMqSqQ=="
 ---
 

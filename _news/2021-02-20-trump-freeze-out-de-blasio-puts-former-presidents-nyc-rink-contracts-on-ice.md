@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-freeze-out-de-blasio-puts-for
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-freeze-out-de-blasio-puts-former-presidents-nyc-rink-contracts-on-ice.amp"
 type: article
 quality: 172
-heat: 212
+heat: 232
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 132
     images:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/Lasker-rink-trump-1.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Man waves ‘TRUMP 2024’ flag while skating on ice rink shuttered by de Blasio"
+    excerpt: "A man was captured on camera defiantly waving a “TRUMP 2024” flag while skating on the Trump-run ice rink in Central Park Saturday — after Mayor Bill de Blasio announced he’d shutter the"
+    publishedDateTime: 2021-02-21T22:37:00Z
+    webUrl: "https://nypost.com/2021/02/21/man-waves-trump-2024-flag-while-skating-on-nyc-ice-rink/"
+    ampWebUrl: "https://nypost.com/2021/02/21/man-waves-trump-2024-flag-while-skating-on-nyc-ice-rink/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/21/man-waves-trump-2024-flag-while-skating-on-nyc-ice-rink/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 132
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/TrumpFlag.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true
