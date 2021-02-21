@@ -576,6 +576,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden admin. admits first group of migrants"
+    excerpt: "Watch \"Biden admin. admits first group of migrants\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-02-20T17:46:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210220233953-biden-admin-admits-first-group-of-migrants/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/02/20/story_09106316_1613864524.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Joe Biden to visit Milwaukee next week for his first official trip as president"
     excerpt: "President Joe Biden will visit Wisconsin next week for his first official trip as president beyond his home state of Delaware."
     publishedDateTime: 2021-02-09T16:16:00Z

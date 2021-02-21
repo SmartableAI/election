@@ -3,8 +3,8 @@ category: news
 title: "Trump impeachment vote becomes defining moment for GOP Sen. Richard Burr"
 excerpt: "For Burr, it was an emphatic statement after years of careful commentary about Trump, much of it made as he investigated Trump’s ties to Russia."
 publishedDateTime: 2021-02-20T16:18:00Z
-originalUrl: "https://www.chicagotribune.com/nation-world/vp-nw-richard-burr-impeachment-20210220-3zjm5afnifgdtagwb4yqyvgifi-story.html"
-webUrl: "https://www.chicagotribune.com/nation-world/vp-nw-richard-burr-impeachment-20210220-3zjm5afnifgdtagwb4yqyvgifi-story.html"
+originalUrl: "https://www.chicagotribune.com/nation-world/vp-nw-richard-burr-impeachment-20210220-3zjm5afnifgdtagwb4yqyvgifi-story.html?outputType=amp"
+webUrl: "https://www.chicagotribune.com/nation-world/vp-nw-richard-burr-impeachment-20210220-3zjm5afnifgdtagwb4yqyvgifi-story.html?outputType=amp"
 ampWebUrl: "https://www.chicagotribune.com/nation-world/vp-nw-richard-burr-impeachment-20210220-3zjm5afnifgdtagwb4yqyvgifi-story.html?outputType=amp"
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/vp-nw-richard-burr-impeachment-20210220-3zjm5afnifgdtagwb4yqyvgifi-story.html?outputType=amp"
 type: article
@@ -430,6 +430,6 @@ related:
         height: 455
         isCached: true
 
-secured: "d+0kww/ysVoJ3MLknTlAiyTdK7Z2VrjjI8S/xAWEJtSclg9FJRov0+OhLB3u/3B1Z5RkDAO7k4xZ9AfzS5ZVGdcTgmdL771ZWY+mcBY73yWYJiIR/5BINizT2RhjmXK2Dv3FuSOnFueKNqoR7DtIsXhlxZGLn8mOlaiQuiSzY6O8MkwKGxZMR9QZJQQmCN63ILDX1MNPIitn8IziGsMhbxpzOKmjHqKf7Rk3SCtPxQhovOxze+AAL2sFXUDtMR+TnX5XRPhPSks/ygwOWzlEnqR5cOrt3k/wEMEhxTFzCfLmsTTb6JvG+9gin7hHNH8R2CLksrGWz8SOpIP0TsJicNfy5s8x57oQeFlYXd2Yj8o=;MPjFgUMvF9QPuDaWLGgSqg=="
+secured: "7ABTVLGUoBgodeQR4YUsYVdNoWZLTwWGCbADQvuTR/aLGBAaDWFJvk2PhL0FJI/BjC+cIdxlRn8kYFxtxqLgsxebEmidYGwlkqtVkn6I4s4sxvU2IGfvT7lRwd6/HccDFYsArK0uLwCnZSpeFqIxJrcAcim4I2pOz5aTi9/IultITqVPxAqYbE3OJhEJM5xaLg1T601iO9Y20W2njlpmkROoH/Z+cYd5nWrDDrwdnNwpeNBIO3EmGYARN8zjjKObEMxHmhsdSGAUJeUOLearNo8BItpoTqvHWJnDCNOcGGX/OQicxXACtAAPI5XvSduUNA39bX0VRvkiFUNurLgvVKJ23RcfR4r0P1Sr6xgkv9E=;h2ShiiN7JuWqJd49jb4smw=="
 ---
 

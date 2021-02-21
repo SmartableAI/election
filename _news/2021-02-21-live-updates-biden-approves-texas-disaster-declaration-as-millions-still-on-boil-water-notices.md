@@ -48,6 +48,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden visits Bob Dole at his DC home after lung cancer revelation"
+    excerpt: "President Biden Saturday paid a personal visit to the home of his friend Bob Dole, who is battling lung cancer."
+    publishedDateTime: 2021-02-20T23:03:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ai4-c7tlwxA/biden-visits-bob-dole-97-at-his-dc-home-saturday"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-visits-bob-dole-97-at-his-dc-home-saturday.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-visits-bob-dole-97-at-his-dc-home-saturday.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2019/05/10/694940094001_6035350367001_6035347836001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden says he won't pull Tanden nomination after key Dem says he'll vote no"
     excerpt: "President Biden on Friday said he will not pull the nomination of Neera Tanden to be head of the Office of Management and Budget (OMB) -- despite her nomination being dealt a significant blow after a key Democrat said he would vote against her."
     publishedDateTime: 2021-02-20T15:25:19Z

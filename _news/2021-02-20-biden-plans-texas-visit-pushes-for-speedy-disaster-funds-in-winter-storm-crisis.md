@@ -566,6 +566,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden admin. admits first group of migrants"
+    excerpt: "Watch \"Biden admin. admits first group of migrants\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-02-20T17:46:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210220233953-biden-admin-admits-first-group-of-migrants/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/02/20/story_09106316_1613864524.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Senate panel clears Biden's nomination of Boston mayor for labor secretary"
     excerpt: "President Joe Biden's nomination of Boston Mayor Marty Walsh to serve as the next secretary of labor won approval from a Senate committee on Thursday, clearing the way for a vote by the full Senate."
     publishedDateTime: 2021-02-11T22:38:00Z
@@ -631,6 +645,6 @@ related:
         height: 600
         isCached: true
 
-secured: "r0xiAmvx3sDSSntI+M8ONXMf+bKyEQORb34oD7cwGIVM21tb4z763lyIr7k5qERbzI/mg9dMcqA8xT0Xge9skQUNXKbI82b9izny4UGbjhNLNhoAq6MnzZyEHJysTwAW79MR/YrmHzYw1gUtdrAl0j/owBOxUedoXJCku2O09mPQRYdRvD2JqOrqEGF+4EhH4gzLqGaxLloOcdPXnnYR9esu13LFwye4DBdKTu5pptDVC+SIuNiOu8483E9B4gDrJCcaeCus6e7aMqqv9W0VKynZQW4hzlTNK5xhm6LituhmLvCybc5RRmKSpcUS65HaiZvDetQmjMnotWuJ8lJDLlJpHvRYcGu3FTx9z/2CQCM=;XCs7Fr1hSPNztzu6ScJd3w=="
+secured: "42cJqtLMt+vye8XlIznOQqDEtzbBCLcaI9AgjLmVx8snrFB68E/n9nHUTZgTVeUpd1hALHJpb3I7n+gU+KOtDjHkm1itDfXdsrHZMby0DCgdV6gzrKwJ7C8qSflzStuZJboxaKcPWh7qOGLyaIRPOl/gUlmqtGFmgP/OhXPLqKa3yHHmK01djKnhXGUX13Nv0OncBZUr2IwyuClKJfYTNkrV5PjX0DbFPsRv1dddkdVFGhoDIeC3W8q2MlSfONtjt/GHJxkRDsRpKld+vIXCjk1Oi2Huwk2k+RiewJOBBr7BnVuFPvL3SlbyErp/eVAJXjWGd+ZhBeZS4MYuQ4aYh+m4C1ZFACpj5RE6Fs4J/P4vIGG53ijAMLRaf+wHGTZVjpRErLBJxubZyJCcpSUwP/dOdZ1vsjjqNWIDTp/cpfJSwKClaW3usxS5MZEHLL1o2+XczBjmPQg+eECEBO5yyTdBUCzn/TXUNUYSKLe1pVKYeHN6vE7pNOChHGMWJsICv2y7gKHqioqdK7X+/cT3jw==;OMDGc2Ay8fhEcnf7UcoI3g=="
 ---
 

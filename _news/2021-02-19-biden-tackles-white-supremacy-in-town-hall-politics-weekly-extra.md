@@ -566,6 +566,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Biden admin. admits first group of migrants"
+    excerpt: "Watch \"Biden admin. admits first group of migrants\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-02-20T17:46:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210220233953-biden-admin-admits-first-group-of-migrants/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/02/20/story_09106316_1613864524.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Senate panel clears Biden's nomination of Boston mayor for labor secretary"
     excerpt: "President Joe Biden's nomination of Boston Mayor Marty Walsh to serve as the next secretary of labor won approval from a Senate committee on Thursday, clearing the way for a vote by the full Senate."
     publishedDateTime: 2021-02-11T22:38:00Z

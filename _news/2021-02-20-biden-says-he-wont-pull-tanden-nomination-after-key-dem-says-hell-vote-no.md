@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden visits Bob Dole at his DC home after lung cancer revelation"
+    excerpt: "President Biden Saturday paid a personal visit to the home of his friend Bob Dole, who is battling lung cancer."
+    publishedDateTime: 2021-02-20T23:03:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ai4-c7tlwxA/biden-visits-bob-dole-97-at-his-dc-home-saturday"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-visits-bob-dole-97-at-his-dc-home-saturday.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-visits-bob-dole-97-at-his-dc-home-saturday.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2019/05/10/694940094001_6035350367001_6035347836001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden’s promise to open half the schools in 100 days: Here is how it's going"
     excerpt: "Progress has been made in the president’s first month in office, but a little less than 60 percent are still not going to school full-time."
     publishedDateTime: 2021-02-19T23:09:58Z

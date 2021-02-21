@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-freeze-out-de-blasio-puts-for
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-freeze-out-de-blasio-puts-former-presidents-nyc-rink-contracts-on-ice.amp"
 type: article
 quality: 172
-heat: 192
+heat: 212
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 132
     images:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/Lasker-rink-trump-1.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Central Park ice skaters outraged at De Blasio for closing rinks to punish Trump"
+    excerpt: "Skaters at Central Park’s two rinks are devastated that this weekend will be their last on the ice this season — and angry at Mayor de Blasio for closing the Trump-run rinks early to spite"
+    publishedDateTime: 2021-02-21T00:38:00Z
+    webUrl: "https://nypost.com/2021/02/20/nyc-ice-skaters-fume-at-de-blasio-for-closing-rinks-to-punish-trump/"
+    ampWebUrl: "https://nypost.com/2021/02/20/nyc-ice-skaters-fume-at-de-blasio-for-closing-rinks-to-punish-trump/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/20/nyc-ice-skaters-fume-at-de-blasio-for-closing-rinks-to-punish-trump/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 130
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/wollman-rink-1.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true

@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden’s promise to open half the schools in 100 days: Here is how it's going"
-excerpt: "Progress has been made in the president’s first month in office, but a little less than 60 percent are still not going to school full-time."
-publishedDateTime: 2021-02-19T23:09:58Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vrW_jmbM9uk/bidens-100-days-promise-how-many-schools-reopened"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vrW_jmbM9uk/bidens-100-days-promise-how-many-schools-reopened"
-ampWebUrl: "https://www.foxnews.com/politics/bidens-100-days-promise-how-many-schools-reopened.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-100-days-promise-how-many-schools-reopened.amp"
+title: "Biden visits Bob Dole at his DC home after lung cancer revelation"
+excerpt: "President Biden Saturday paid a personal visit to the home of his friend Bob Dole, who is battling lung cancer."
+publishedDateTime: 2021-02-20T23:03:21Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ai4-c7tlwxA/biden-visits-bob-dole-97-at-his-dc-home-saturday"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ai4-c7tlwxA/biden-visits-bob-dole-97-at-his-dc-home-saturday"
+ampWebUrl: "https://www.foxnews.com/politics/biden-visits-bob-dole-97-at-his-dc-home-saturday.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-visits-bob-dole-97-at-his-dc-home-saturday.amp"
 type: article
-quality: 172
+quality: 175
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/Biden3.jpg"
+  - url: "https://media2.foxnews.com/BrightCove/694940094001/2019/05/10/694940094001_6035350367001_6035347836001-vs.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -47,22 +47,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Biden visits Bob Dole at his DC home after lung cancer revelation"
-    excerpt: "President Biden Saturday paid a personal visit to the home of his friend Bob Dole, who is battling lung cancer."
-    publishedDateTime: 2021-02-20T23:03:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ai4-c7tlwxA/biden-visits-bob-dole-97-at-his-dc-home-saturday"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-visits-bob-dole-97-at-his-dc-home-saturday.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-visits-bob-dole-97-at-his-dc-home-saturday.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://media2.foxnews.com/BrightCove/694940094001/2019/05/10/694940094001_6035350367001_6035347836001-vs.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Biden says he won't pull Tanden nomination after key Dem says he'll vote no"
     excerpt: "President Biden on Friday said he will not pull the nomination of Neera Tanden to be head of the Office of Management and Budget (OMB) -- despite her nomination being dealt a significant blow after a key Democrat said he would vote against her."
     publishedDateTime: 2021-02-20T15:25:19Z
@@ -76,6 +60,22 @@ related:
     quality: 173
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/eb63fb98-5f29-44e6-b48a-f441d3ad0305/bc256167-692f-4a1a-80bf-ce3df3abdd93/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden’s promise to open half the schools in 100 days: Here is how it's going"
+    excerpt: "Progress has been made in the president’s first month in office, but a little less than 60 percent are still not going to school full-time."
+    publishedDateTime: 2021-02-19T23:09:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vrW_jmbM9uk/bidens-100-days-promise-how-many-schools-reopened"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-100-days-promise-how-many-schools-reopened.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-100-days-promise-how-many-schools-reopened.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/Biden3.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -174,6 +174,6 @@ related:
         height: 720
         isCached: true
 
-secured: "LC2V1q4fLP4+Tf/uD0unGJZZynFTTfqgd58f0kzf5aYeGye5QavO8hGcmTBrxVhOa4XrINXykYAgk8P/HOnFEbnw0CRwBkNKjapfiGTWPetwsW8zxlnZQsAXuK9QF6/I3j6rBTf/qJo+U9QETqy8s390ai2QZCulpKh/IyfEQTiUbW+3GUV9g/2Kn7ItxEETaRYakZEw07CdYXw6vS9j4SMCxxlmW1ED5XPVwsvw9jh51KKh5N/L78WfotM7bIhsWPzBWI8rFhNO+n1pyQux6yI8HEzK/JbPFT+jbIc4swlaNPoER136moQZNe0FCehMzf4+tiuCXMfRXyVL6cD3oz/vK0b8BGjwY54q8gxAAz0=;PzVwEx96X1X39m7BDd4bYw=="
+secured: "z/4mxRjeVB8oAzVuqGO5VfPDbaEbnC2w/A5diM1IC19w0jElo56wkl0ZOW239g1ZT9svZ2Sfd7XTZPKVYHnxScYYulaWCyJ/ZAzhcgC3uVw4d4KFc4zeV1vlQZfif53XspPmYf6HaA2QnxdvMkFWQNwbnV0uDFYmmfsyOHGX4lBytBBchdQtU8WJPfvj6blbiwKFUiG/DQ6N2ExPd9e5+PgMyYzPrjAn2KvAo1UfqdvgzUSK97iUtWMcv2bVlbpsQ4GjRIM15mmxCi4BR2WJtOfBLZi6LBW4tf/1xa8kIZBVY7HsWdGZu5PFTUa1q0fkd8Br78SNGNuLWjCMR2mpDAxCoiei5Dcj438mLHTUt/Y=;FkQwYdXbyDehi1tNPWlf1Q=="
 ---
 

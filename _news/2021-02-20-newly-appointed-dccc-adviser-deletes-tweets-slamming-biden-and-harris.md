@@ -1,30 +1,34 @@
 ---
 category: news
-title: "VP Kamala Harris makes herself belly laugh while swearing-in Senate replacement"
-excerpt: "WATCH: 'That was very weird' – Swearing in three new Democratic senators, Vice President Kamala Harris laughs after referring to herself in the third person as the resigned senator from ..."
-publishedDateTime: 2021-01-24T06:41:00Z
-originalUrl: "https://nypost.com/2021/01/23/vp-kamala-harris-laughs-while-swearing-in-senate-replacement/"
-webUrl: "https://nypost.com/2021/01/23/vp-kamala-harris-laughs-while-swearing-in-senate-replacement/"
-ampWebUrl: "https://nypost.com/2021/01/23/vp-kamala-harris-laughs-while-swearing-in-senate-replacement/amp/"
-cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/23/vp-kamala-harris-laughs-while-swearing-in-senate-replacement/amp/"
+title: "Newly appointed DCCC adviser deletes tweets slamming Biden and Harris"
+excerpt: "An ex-gang member now advising Congressional Democrats is getting right to work in his new job — deleting his old tweets slamming President Biden and VP Harris."
+publishedDateTime: 2021-02-20T23:26:25Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yEu40q6O4ig/newly-appointed-dccc-advisor-deletes-tweets-slamming-biden-and-harris"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yEu40q6O4ig/newly-appointed-dccc-advisor-deletes-tweets-slamming-biden-and-harris"
+ampWebUrl: "https://www.foxnews.com/politics/newly-appointed-dccc-advisor-deletes-tweets-slamming-biden-and-harris.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/newly-appointed-dccc-advisor-deletes-tweets-slamming-biden-and-harris.amp"
 type: article
-quality: 131
+quality: 200
 heat: -1
 published: false
 
 provider:
-  name: New York Post
-  domain: nypost.com
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Kamala Harris
   - Republican Voice
+  - Kamala Harris
 
 images:
-  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/05C8DB77-F525-40AD-AE32-F63931C9F094.jpeg?quality=90&strip=all&w=1200"
-    width: 1200
-    height: 800
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/50e1c44e-b5bd-41eb-ae0e-38fcea1c4a6c/8458b68a-c474-4128-957f-7ac1f49fc8fe/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -57,22 +61,6 @@ related:
     quality: 200
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ec8afdd6-cb78-46b9-8092-b13d4027cd82/e08a3fca-f5fc-4fbd-be75-497015133a56/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Newly appointed DCCC adviser deletes tweets slamming Biden and Harris"
-    excerpt: "An ex-gang member now advising Congressional Democrats is getting right to work in his new job — deleting his old tweets slamming President Biden and VP Harris."
-    publishedDateTime: 2021-02-20T23:26:25Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yEu40q6O4ig/newly-appointed-dccc-advisor-deletes-tweets-slamming-biden-and-harris"
-    ampWebUrl: "https://www.foxnews.com/politics/newly-appointed-dccc-advisor-deletes-tweets-slamming-biden-and-harris.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/newly-appointed-dccc-advisor-deletes-tweets-slamming-biden-and-harris.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 200
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/50e1c44e-b5bd-41eb-ae0e-38fcea1c4a6c/8458b68a-c474-4128-957f-7ac1f49fc8fe/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -332,6 +320,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "VP Kamala Harris makes herself belly laugh while swearing-in Senate replacement"
+    excerpt: "WATCH: 'That was very weird' – Swearing in three new Democratic senators, Vice President Kamala Harris laughs after referring to herself in the third person as the resigned senator from ..."
+    publishedDateTime: 2021-01-24T06:41:00Z
+    webUrl: "https://nypost.com/2021/01/23/vp-kamala-harris-laughs-while-swearing-in-senate-replacement/"
+    ampWebUrl: "https://nypost.com/2021/01/23/vp-kamala-harris-laughs-while-swearing-in-senate-replacement/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/23/vp-kamala-harris-laughs-while-swearing-in-senate-replacement/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 131
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/05C8DB77-F525-40AD-AE32-F63931C9F094.jpeg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Vogue offers digital Kamala Harris cover as a print copy after social media backlash"
     excerpt: "\"In celebration of this historic moment, we will be publishing a limited number of special edition #InaugurationDay issues,\" Vogue Magazine wrote in posts shared to Twitter, Facebook and Instagram. The digital cover shows America’s first Black-South Asian woman Vice President-elect wearing a powder blue suit from the Michael Kors Collection suit."
     publishedDateTime: 2021-01-21T00:23:00Z
@@ -443,6 +447,6 @@ related:
         height: 500
         isCached: true
 
-secured: "iBoELbjWZ5ifE7hoa7wNKaw+li7N/FJZjJzRw1Y3qTv3XdPtWHR0imDSGHkVwBj1FYU/0ry2l77sB+Z1Qj90H+TRzSC0M6ucJujQg6vp5Nxs8W/ejHOBVPGEQkmbk9G3O1NibCRjnkIF8B7GMH1qTwMGwqkHNgA3Esl0yRiNBE8cnhFvcUtzPVf7Q0ZX0lYIY42ZXGssrhVKK1UWp7BDW4hFWKX8uFW/o//ZdwJJgjpBQnd3Q387K6u0aPTdP2jQSpRaZ/3eT2MMmm7/ay/3uGOm0biNKm2NEGP29UZNiHC07tszeK7+3q0IzHtRBz4VuCEkMb2/RUFuiZxaiXS1eaEuCkqWcg8IV8CPKisPMQo=;SM6i9sbT02mx8vJ8ARqgwQ=="
+secured: "f6/CysOCriOgKUEymM3Nw1MCRto8G5cXYYTl41zSUOz/GL63+WFF58Oshf1ztzqj43ytHh1VJWjBOHhdPZoJvt9wettJCmgESZPywUMaBEYTMFi39Z9BwtT4dGH3WLSDPnJ9kqYMtEnkUUjVIPHHOdSgwENQgNnIYyJDOMCpn49yQbifxJhWUHFITqZzU/+eiUmUtXBDo77dKxR9hzdOXvz0VSAEBzFXDSXtwgaBartuhuS3Cq8BV5OiL89lnctL6F4+CMhZBEqHS7Zp5muMdWGmwZQXjvpTGj55xe+S70BIj65Tzg3lL1xnVIpXRUBqpVPyyLO61EPvtdWlE2y6RK49umTlLEePH5/DqkaOwag=;u7EZhoAshZ6CFVlhdoChJw=="
 ---
 

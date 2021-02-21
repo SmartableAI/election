@@ -64,6 +64,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Newly appointed DCCC adviser deletes tweets slamming Biden and Harris"
+    excerpt: "An ex-gang member now advising Congressional Democrats is getting right to work in his new job — deleting his old tweets slamming President Biden and VP Harris."
+    publishedDateTime: 2021-02-20T23:26:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yEu40q6O4ig/newly-appointed-dccc-advisor-deletes-tweets-slamming-biden-and-harris"
+    ampWebUrl: "https://www.foxnews.com/politics/newly-appointed-dccc-advisor-deletes-tweets-slamming-biden-and-harris.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/newly-appointed-dccc-advisor-deletes-tweets-slamming-biden-and-harris.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 200
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/50e1c44e-b5bd-41eb-ae0e-38fcea1c4a6c/8458b68a-c474-4128-957f-7ac1f49fc8fe/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden's 'humane' immigration plan gives green cards to TPS, DACA recipients, Harris says"
     excerpt: "Vice President-elect Kamala Harris Tuesday said the Biden administration will take a more \"humane\" approach to immigration when the president-elect takes office next week."
     publishedDateTime: 2021-01-13T11:07:07Z
