@@ -2,6 +2,62 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2021-01-08-education-secretary-betsy-devos-resigns-in-letter-criticizing-trumps-rhetoric-amid-riots.md",
+      "title": "Education Secretary Betsy DeVos resigns in letter criticizing Trump's rhetoric amid riots",
+      "excerpt": "Education Secretary Betsy DeVos resigned on Thursday, citing the riots that took place at the U.S. Capitol the prior day, Fox News has confirmed.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0NsuFvnb154/education-secretary-betsy-devos-resigns-riots",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0NsuFvnb154/education-secretary-betsy-devos-resigns-riots",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/74c1d84e-2483-4be3-82cf-0673113ddfaa/85592fcd-ce06-4ea8-94b7-e4ce7cca22e9/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/education-secretary-betsy-devos-resigns-riots.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/education-secretary-betsy-devos-resigns-riots.amp",
+      "publishedDateTime": "2021-01-07T18:34:07-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-08-trumps-education-secretary-betsy-devos-submits-resignation.md",
       "title": "Trump's Education Secretary Betsy DeVos submits resignation",
       "excerpt": "Education Secretary Betsy DeVos has submitted her resignation, making her the second Cabinet member to resign over President Donald Trump's response to the mob breaching the US Capitol on Wednesday, according to an official.\n    \n",

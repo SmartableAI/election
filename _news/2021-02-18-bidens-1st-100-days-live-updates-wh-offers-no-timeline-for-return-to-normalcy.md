@@ -367,6 +367,22 @@ related:
         width: 819
         height: 545
         isCached: true
+  - title: "Republican former Senator Bob Dole gets visit from Biden after cancer diagnosis"
+    excerpt: "U.S. President Joe Biden visited former Senator Bob Dole on Saturday, the White House said, two days after the Kansas Republican announced that he had been diagnosed with advanced lung cancer."
+    publishedDateTime: 2021-02-20T23:01:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-dole-idUSKBN2AK0R4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AK0R4"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AK0R4"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210220&t=2&i=1552289863&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1J0H6"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden plans Texas visit, pushes for speedy disaster funds in winter storm crisis"
     excerpt: "U.S. President Joe Biden said on Friday he will approve a disaster declaration for Texas, clearing the way for more aid in a crippling winter storm as he weighed a trip to survey the federal response."
     publishedDateTime: 2021-02-20T06:00:00Z

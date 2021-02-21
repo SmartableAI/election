@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden approves disaster declaration for Texas"
+    excerpt: "President Joe Biden approved a major disaster declaration for Texas as the state remained locked in the throes of a days-long freeze that has crippled power and water systems and affected millions of lives."
+    publishedDateTime: 2021-02-21T03:24:00Z
+    webUrl: "https://www.politico.com/news/2021/02/19/biden-declare-texas-major-disaster-470173"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/02/19/biden-declare-texas-major-disaster-470173"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/02/19/biden-declare-texas-major-disaster-470173"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/e9/ba/71da241a459fa6ed55a5766e75cc/20210220-joe-biden-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Biden nominee Neera Tanden describes double standards she's faced as a woman of color"
     excerpt: "People's perceptions of leadership and who leaders are has not been, to this moment, an Asian American woman,\" Tanden told NBC Asian America."
     publishedDateTime: 2021-02-10T21:50:00Z

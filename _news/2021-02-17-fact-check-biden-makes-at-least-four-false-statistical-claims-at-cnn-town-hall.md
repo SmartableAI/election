@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "President Biden declares major disaster for much of Texas following severe winter storm"
+    excerpt: "The move unlocks federal money for the state after a dayslong freeze resulted in deaths, power outages and boil water orders."
+    publishedDateTime: 2021-02-21T01:21:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/president-biden-declares-major-disaster-texas-following-severe-winter-storm-n1258442"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1258442"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1258442"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 127
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2021_07/3451523/210220-san-antonio-food-bank-al-1042_f3ff593acae6b54cd35d6e5e1c820d0f.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "BINbNNApXElbpus6vhOFEQXlfdQaIuB2PtO+uga+fLf9Q+3nIj5Vk5KPrFhxra7YYFCvRiLfeu3hA7gLeMGZIK74zxhEcg2VPyqpO9Orj8zQ1U+y5i2qFoRJPQ9J5XdpIhSHPfM0coJrDotE4qaSDpR8pKPx8pMH6JrLg7yJ8HiedUC/tzGqQDse2RRcgp2NMIj+zaLrI0CyXK6cPh+F4T1o0eYUKx5600DWSzAhB88rH5uOCcB9j3Ds+AQw5gHntqFZEcMokkWFqxJDLsalez0XBlSvqINICrLQldGJuR1WiHEO+vRqXHqSrxE3lpTMpqzOc7LVCK+tuxQmb3dP6HL7oMDmVjXGZEbZQNtGOiM=;sDdthHKwGX1Xg0Hb4fnA3Q=="
 ---

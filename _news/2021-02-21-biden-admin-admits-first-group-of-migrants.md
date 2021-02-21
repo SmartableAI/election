@@ -381,6 +381,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Republican former Senator Bob Dole gets visit from Biden after cancer diagnosis"
+    excerpt: "U.S. President Joe Biden visited former Senator Bob Dole on Saturday, the White House said, two days after the Kansas Republican announced that he had been diagnosed with advanced lung cancer."
+    publishedDateTime: 2021-02-20T23:01:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-dole-idUSKBN2AK0R4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AK0R4"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AK0R4"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210220&t=2&i=1552289863&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1J0H6"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden plans Texas visit, pushes for speedy disaster funds in winter storm crisis"
     excerpt: "U.S. President Joe Biden said on Friday he will approve a disaster declaration for Texas, clearing the way for more aid in a crippling winter storm as he weighed a trip to survey the federal response."
     publishedDateTime: 2021-02-20T06:00:00Z
@@ -645,6 +661,6 @@ related:
         height: 600
         isCached: true
 
-secured: "53KJGHxKEo0bAV98TOZq0egMhuI2YRv3Z5GhB4Q+5bhL7T9ZJe9f3eVaBOJ0RxaR1LAnNe39BHoCgNx/lTdVLlNNFSi8FuwQtt4actwXefnI2qzHm2mYy0sxEc6/Q9rgkYcsdUTwDkMGXWbdMHxOFJS2Wcvus0R9YtRJLJe9dbsY6Yci3ZAptqwZyk4LWrv4AqELg8m2o+eNeFUnfyHdqzacYrw3wgmek4Gl7ZCkGGDSnl9jYPgzOO8qCv3khpT6zgNTVVHILXoQy66imlyqC3Fx2AAlHrbgurjjpds1N4aiGkAVa847fzZQKBijwQ+iy+GgANyZ6QM/j3IF3PtnZkIOo8CZAgoSGMmNUrmlJlU=;0wbpmRY2895VhbO8YYATiQ=="
+secured: "Uv6bmQkZPad62GBHX2qjRlMKMh3CQhRSaWklCd4xJuk7LTtZZ36qdKMEPoi4LQCoa/FmYLs3EDKBBf2MEMN3tG6zYyHXsr6Kir5wMi0cVSfrL2aOCjCMP8u65Brr9OFQyfKollcSo7krTevYtu8qva0uHFqMHIviik3Hdy2F87q3ovq2jiULOXW2eLz5lzAjX3FcfBSf8iaJxC5K81h+MMSz5Ez8Y/MvasWreF8sm6PFYyVekJfdx5LhJ+m8T/2knajVVeFTC8jSyCH0W8dAh1oNW98aKQc10gwt6/9gHO/zS5QW8OMOExjIVfkVq/3qUb0XHbjZXibxMMTqIABMVq4rmcgiLJPumSXmd0xwD58668odxAHNdFcNd62M197d0WWYMg9x9juQQasqT0b75uCAIRTEtHkKufD8sSB05D+lERh5xGVcqfcrQXjLiq/EpPoELXMMaxh3UBYC7ZJDLEyu1P3oCLA5B7OQzhZzS3DuBmRy1eUqriBbtyhM0qsGYeyt8vsuEpmfBydIjtdl2Q==;lYRUf0P7lg5OlFyK3TyMog=="
 ---
 

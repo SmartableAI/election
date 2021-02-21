@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/02/19/fact-check-minimu
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/02/19/fact-check-minimum-wage-immigration-china-joe-biden-orig-me.cnn"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201114182513-01-daca-protests-file-june-2020-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "President Biden declares major disaster for much of Texas following severe winter storm"
+    excerpt: "The move unlocks federal money for the state after a dayslong freeze resulted in deaths, power outages and boil water orders."
+    publishedDateTime: 2021-02-21T01:21:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/president-biden-declares-major-disaster-texas-following-severe-winter-storm-n1258442"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1258442"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1258442"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 127
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2021_07/3451523/210220-san-antonio-food-bank-al-1042_f3ff593acae6b54cd35d6e5e1c820d0f.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "MzhDEXZ29EnaudA1iIjNdxOiCfzysqXep0feZk7yNYZeNE5ovkl1iukbJ5HZzIGN+hJPr3wxBlDqBH5gWbgjuti4JZ8MnfCMDJYXq+5ily8VockTAPBowwDB9WVzpCWF7wQXYzD9P+8xi8hmg8NYwfGeumhfTj+CCvroIZt9dXMjd5FrSLjSqJMpcv2FYfe+njmSUVnLeR9sjEWjAZ4O6d7kFsqbcUvzQj9xhRTd877teRaKe5I4MGWhT6XJqL9y0qTv28THueUbpv3Hjug42hwTHT2vaWXygOpFauz7r10FEBHYNUGCLCFvoeP6krSTHH0WlI7sXBQBr/O+lO6AhFupBNLgy+254sqz2qxf9Uo=;e5AwwVmHMb65Edlxas123A=="

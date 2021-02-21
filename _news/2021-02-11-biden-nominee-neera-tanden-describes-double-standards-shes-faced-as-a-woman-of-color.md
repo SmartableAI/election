@@ -112,6 +112,22 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Biden approves disaster declaration for Texas"
+    excerpt: "President Joe Biden approved a major disaster declaration for Texas as the state remained locked in the throes of a days-long freeze that has crippled power and water systems and affected millions of lives."
+    publishedDateTime: 2021-02-21T03:24:00Z
+    webUrl: "https://www.politico.com/news/2021/02/19/biden-declare-texas-major-disaster-470173"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/02/19/biden-declare-texas-major-disaster-470173"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/02/19/biden-declare-texas-major-disaster-470173"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/e9/ba/71da241a459fa6ed55a5766e75cc/20210220-joe-biden-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Biden's foreign foray masks an ocean of doubt"
     excerpt: "In successive virtual addresses today to the G-7 summit and, Biden announced that “America was back” — presumably to a collective sigh of relief from the foreign dignitaries in attendance that they weren’t being hectored by Donald Trump."
     publishedDateTime: 2021-02-20T00:00:00Z

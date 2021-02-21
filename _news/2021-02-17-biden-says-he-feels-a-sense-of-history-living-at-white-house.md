@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/17/politics/biden-life-white-house/i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/17/politics/biden-life-white-house/index.html"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210219152019-jill-biden-0129-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden visiting Bob Dole following cancer diagnosis"
+    excerpt: "President Joe Biden is visiting former Sen. Bob Dole Saturday afternoon after Dole announced earlier this week that he has been diagnosed with stage four lung cancer, according to the White House.\n    \n"
+    publishedDateTime: 2021-02-21T01:09:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EKsvwDq_I18/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/20/politics/bob-dole-lung-cancer/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/20/politics/bob-dole-lung-cancer/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210218081702-01b-bob-dole-lead-image-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

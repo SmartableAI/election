@@ -2,6 +2,63 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-15-saturday-night-live-spotlights-trumps-impeachment-victory.md",
+      "title": "'Saturday Night Live' spotlights Trump's impeachment victory",
+      "excerpt": "The show imagined Fox News' Tucker Carlson interviewing Republican leaders about the historic impeachment trial, which saw the most bipartisan support for impeachment conviction in history. \"There's a lot to cover tonight,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/us-news/snl-spotlights-trump-s-impeachment-victory-n1257910",
+      "originalUrl": "https://www.nbcnews.com/news/us-news/snl-spotlights-trump-s-impeachment-victory-n1257910",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2021_06/3450055/210213-snl-er-1145pm_de57f8718eb7290e1464a1412e60b008.png",
+          "width": 1919,
+          "height": 1069,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1257910",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1257910",
+      "publishedDateTime": "2021-02-14T15:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-15-boris-johnson-calls-trump-impeachment-over-capitol-attack-kerfuffle.md",
       "title": "Boris Johnson calls Trump impeachment over Capitol attack 'kerfuffle'",
       "excerpt": "Prime minister touts Covid co-operation with Biden, who once called him a ‘clone of Donald Trump’",
@@ -1533,63 +1590,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-donald-trump-jr-slams-super-bowl-2021-commercials-as-woketopia.md",
-      "title": "Donald Trump Jr. slams Super Bowl 2021 commercials as 'woketopia'",
-      "excerpt": "Donald Trump Jr. wasn’t impressed with the Super Bowl 2021 commercial lineup. The son of former president Donald Trump tuned into the big game between the Tampa Bay Buccaneers and the Kansas City Chiefs on Sunday but was rolling his eyes at the broadcast almost immediately at the typically sought after ad breaks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/entertainment/donald-trump-jr-slams-super-bowl-2021-commercials-woketopia",
-      "originalUrl": "https://www.foxnews.com/entertainment/donald-trump-jr-slams-super-bowl-2021-commercials-woketopia",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21020488199456.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/entertainment/donald-trump-jr-slams-super-bowl-2021-commercials-woketopia.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/donald-trump-jr-slams-super-bowl-2021-commercials-woketopia.amp",
-      "publishedDateTime": "2021-02-08T10:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

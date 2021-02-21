@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden visiting Bob Dole following cancer diagnosis"
+    excerpt: "President Joe Biden is visiting former Sen. Bob Dole Saturday afternoon after Dole announced earlier this week that he has been diagnosed with stage four lung cancer, according to the White House.\n    \n"
+    publishedDateTime: 2021-02-21T01:09:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EKsvwDq_I18/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/20/politics/bob-dole-lung-cancer/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/20/politics/bob-dole-lung-cancer/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210218081702-01b-bob-dole-lead-image-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden says he's spoken with all of his predecessors 'with one exception'"
     excerpt: "President Joe Biden on Tuesday reflected on the \"sense of history\" he feels as a new resident of the White House and suggested he has spoken with his predecessors, but cited one notable exception.\n    \n"
     publishedDateTime: 2021-02-17T03:45:37Z
