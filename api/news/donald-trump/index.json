@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-21-full-hurd-interview-trump-should-have-very-little-influence-on-gop.md",
+      "title": "Full Hurd Interview: Trump should have 'very little' influence on GOP",
+      "excerpt": "Former Rep. Will Hurd (R-Texas) talks about storm recover in Texas and the future of the Republican party, during an exclusive interview with Meet the Press.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/meet-the-press/video/full-hurd-interview-trump-should-have-very-little-influence-on-gop-101356101630",
+      "originalUrl": "https://www.nbcnews.com/meet-the-press/video/full-hurd-interview-trump-should-have-very-little-influence-on-gop-101356101630",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202102/1613918086750_mtp_full_hurd_210221_1920x1080.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo101356101630",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo101356101630",
+      "publishedDateTime": "2021-02-21T06:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-21-for-mexican-ambassador-who-survived-trump-washington-was-last-stop.md",
       "title": "For Mexican ambassador who survived Trump, Washington was last stop",
       "excerpt": "Martha Bárcena, the first woman to serve as Mexican ambassador to the United States, retired this month after a 42-year career.",
@@ -1129,6 +1186,63 @@
       ]
     },
     {
+      "path": "_news/2021-02-17-trump-plaza-casino-in-atlantic-city-to-be-demolished.md",
+      "title": "Trump Plaza casino in Atlantic City to be demolished",
+      "excerpt": "The long-vacant Trump Plaza casino in Atlantic City, N.J., once a symbol of the glitz and glamor of the high-rolling lifestyle, was slated to be reduced to a pile of rubble on Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/us/trump-plaza-casino-atlantic-city-demolished",
+      "originalUrl": "https://www.foxnews.com/us/trump-plaza-casino-atlantic-city-demolished",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/TrumpPlaza-crop.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/us/trump-plaza-casino-atlantic-city-demolished.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/trump-plaza-casino-atlantic-city-demolished.amp",
+      "publishedDateTime": "2021-02-17T06:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-17-trump-ex-campaign-manager-brad-parscale-meet-at-mar-a-lago-source.md",
       "title": "Trump, ex-campaign manager Brad Parscale, meet at Mar-a-Lago: Source",
       "excerpt": "Former President Donald Trump met Tuesday with former campaign manager Brad Parscale at his Mar-a-Lago resort in Palm Beach, Florida, a source familiar with the matter told Fox News.",
@@ -1499,111 +1613,6 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-16-investigating-trump-a-big-early-move-for-atlantas-new-da.md",
-      "title": "Investigating Trump a big early move for Atlanta’s new DA",
-      "excerpt": "A Georgia district attorney who took office barely a month ago is leading an investigation that could bring charges against former President Trump.",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/world-nation/story/2021-02-15/investigating-trump-a-big-early-move-for-atlantas-new-da",
-      "originalUrl": "https://www.latimes.com/world-nation/story/2021-02-15/investigating-trump-a-big-early-move-for-atlantas-new-da",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/7256e58/2147483647/strip/true/crop/4740x3096+0+75/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe4%2Fc6%2F15d8761a5d68b5bcf400b9a1668c%2F77cd140b3ef44640b8cad1fecac995aa",
-          "width": 320,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.latimes.com/world-nation/story/2021-02-15/investigating-trump-a-big-early-move-for-atlantas-new-da?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-02-15/investigating-trump-a-big-early-move-for-atlantas-new-da?_amp=true",
-      "publishedDateTime": "2021-02-15T10:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-15-kamala-harris-said-parts-of-the-trump-administrations-pandemic-response-left-biden-starting-from-scratch.md",
-      "title": "Kamala Harris said parts of the Trump administration's pandemic response left Biden 'starting from scratch'",
-      "excerpt": "Harris told \"Axios on HBO\" that the Trump administration left the country with no vaccine stockpile and no national strategy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/kamala-harris-biden-starting-from-scratch-covid-19-after-trump-2021-2",
-      "originalUrl": "https://www.businessinsider.com/kamala-harris-biden-starting-from-scratch-covid-19-after-trump-2021-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 967,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/602a48982edd0f001a8d5c4c?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/kamala-harris-biden-starting-from-scratch-covid-19-after-trump-2021-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kamala-harris-biden-starting-from-scratch-covid-19-after-trump-2021-2?amp",
-      "publishedDateTime": "2021-02-15T02:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
         "Donald Trump"
       ]
     }

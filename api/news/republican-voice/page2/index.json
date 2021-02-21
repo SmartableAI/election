@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-16-biden-cuomo-didnt-discuss-covid-nursing-home-scandal-psaki-says.md",
+      "title": "Biden, Cuomo didn’t discuss COVID nursing home scandal, Psaki says",
+      "excerpt": "It was the elephant in the Oval Office, but somehow, President Biden and Gov. Andrew Cuomo didn’t discuss his COVID-19 nursing home scandal when they met last week.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/srKMzc1VH-Y/biden-cuomo-didnt-discuss-covid-nursing-home-scandal-psaki-says",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/srKMzc1VH-Y/biden-cuomo-didnt-discuss-covid-nursing-home-scandal-psaki-says",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 295,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Oval2.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-cuomo-didnt-discuss-covid-nursing-home-scandal-psaki-says.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cuomo-didnt-discuss-covid-nursing-home-scandal-psaki-says.amp",
+      "publishedDateTime": "2021-02-16T13:37:34-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-16-gop-rep-adam-kinzinger-receives-letter-from-11-family-members-disowning-him-over-trump-opposition.md",
       "title": "GOP Rep. Adam Kinzinger receives letter from 11 family members disowning him over Trump opposition",
       "excerpt": "Rep. Adam Kinzinger, a six-term Republican congressman representing Illinois, received a hand-written letter from 11 family members disowning him over his opposition of former President Donald Trump, Fox News has confirmed.",
@@ -407,7 +463,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 255,
+      "heat": 275,
       "tags": null,
       "images": [
         {
@@ -1619,62 +1675,6 @@
       "topics": [
         "Election",
         "Mike Pence",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-del-plaskett-says-jan-6-rally-didnt-have-permit-to-march-to-the-capitol-until-trump-stepped-in.md",
-      "title": "Del. Plaskett says Jan. 6 rally didn't have permit to march to the Capitol until Trump stepped in",
-      "excerpt": "Del. Stacey Plaskett, D-Virgin Islands, claimed Wednesday that the “Save America” rally did not have a permit to march to the Capitol on Jan. 6 until President Trump stepped in. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3cLU5t4xw2Y/dem-plaskett-says-jan-6-rally-didnt-have-permit-until-trump-stepped-in",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3cLU5t4xw2Y/dem-plaskett-says-jan-6-rally-didnt-have-permit-until-trump-stepped-in",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 182,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/Stacey-Plaskett-Impeachment-Manager-AP.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/dem-plaskett-says-jan-6-rally-didnt-have-permit-until-trump-stepped-in.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dem-plaskett-says-jan-6-rally-didnt-have-permit-until-trump-stepped-in.amp",
-      "publishedDateTime": "2021-02-10T13:54:59-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

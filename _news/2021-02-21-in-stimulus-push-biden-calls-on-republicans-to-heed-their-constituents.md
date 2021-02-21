@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Jill Biden is hitting the ground running -- in all directions"
-excerpt: "As far as Jill Biden is concerned, there isn't necessarily going to be one \"first lady platform,\" or even two or three. A month into the job, and Biden has heaped a lot on her agenda, unsure at the moment exactly how it will unfold, only that it will \"naturally evolve,\" she has told her staff.\n    \n"
-publishedDateTime: 2021-02-20T13:00:51Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XfWLX-Omfpw/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XfWLX-Omfpw/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/02/20/politics/jill-biden-first-lady-agenda/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/20/politics/jill-biden-first-lady-agenda/index.html"
+title: "In stimulus push, Biden calls on Republicans to heed their constituents"
+excerpt: "As Joe Biden presses his case for Republicans to set partisanship aside and support his Covid-19 relief bill in Congress this week, the President reminded Americans of his own history working across the aisle with his visit Saturday evening to his ailing friend Bob Dole.\n    \n"
+publishedDateTime: 2021-02-21T05:45:25Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZrskAls1WZE/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZrskAls1WZE/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/02/21/politics/president-joe-biden-coronavirus-relief/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/21/politics/president-joe-biden-coronavirus-relief/index.html"
 type: article
 quality: 175
 heat: -1
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210219152019-jill-biden-0129-restricted-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210220182118-01-joe-biden-0219-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Jill Biden is hitting the ground running -- in all directions"
+    excerpt: "As far as Jill Biden is concerned, there isn't necessarily going to be one \"first lady platform,\" or even two or three. A month into the job, and Biden has heaped a lot on her agenda, unsure at the moment exactly how it will unfold, only that it will \"naturally evolve,\" she has told her staff.\n    \n"
+    publishedDateTime: 2021-02-20T13:00:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XfWLX-Omfpw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/20/politics/jill-biden-first-lady-agenda/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/20/politics/jill-biden-first-lady-agenda/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210219152019-jill-biden-0129-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden visiting Bob Dole following cancer diagnosis"
     excerpt: "President Joe Biden is visiting former Sen. Bob Dole Saturday afternoon after Dole announced earlier this week that he has been diagnosed with stage four lung cancer, according to the White House.\n    \n"
     publishedDateTime: 2021-02-21T01:09:19Z
@@ -60,22 +76,6 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210218081702-01b-bob-dole-lead-image-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "In stimulus push, Biden calls on Republicans to heed their constituents"
-    excerpt: "As Joe Biden presses his case for Republicans to set partisanship aside and support his Covid-19 relief bill in Congress this week, the President reminded Americans of his own history working across the aisle with his visit Saturday evening to his ailing friend Bob Dole.\n    \n"
-    publishedDateTime: 2021-02-21T05:45:25Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZrskAls1WZE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/21/politics/president-joe-biden-coronavirus-relief/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/21/politics/president-joe-biden-coronavirus-relief/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210220182118-01-joe-biden-0219-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -144,6 +144,6 @@ related:
         height: 619
         isCached: true
 
-secured: "XbXGw2eVzl/wAYTb1U4cPCGVtL2hdFBSnUQ6w7Oj7p7T+NuzBFkix9OckhXMx8Qy98ExsN6JHXqEhpsFW5GC0dTz41065vU5gLqKu1kbpWeOXyzeJUPbeBMi9DpWnWPQxoNfz/PTjSHZTDHUEEVmScYyVMMqYfY2Ym0OzO0adxoeAszp7qga16jL8YMpHrNLMEH6JBcis5TypBoy8ZmeQn9uG7ADQXFWGbRLRfmPHIlyjKCV1TXNA5Rpt3S47sKS8j60U7/TdYj65W2iaYKkhrFTmQMUHan4MwR0X3LnIvu4iKg0XJxnP/E1QZSAKKN77G4Go6vbO6g4lJnOmCFTqhshFys1BXTk0+A+ZeSX/6M=;kMjTBQWymkXwsVgy2K0NUw=="
+secured: "fPDmo4kmmJvxCEQZlPLJZGMOsnVJTlBkkNPpXYX0Zs/cXIWAqJLDyRa3v2cah2Llr5uUFdjXlQhGuUhlaUxbQ5fIXKe4CVr73OLUFmTD1CNQ8TguLyYFLINL+fqCNaIGqX7wblWwsvDi+2YYipfdUKMm9E5n7zMlDD6pXoy3kvE3cp9h60Og3EUJqoliTTX+sigsYsv2TBsT3yGFtKrW59SQh3wnppkKSpnef945TB+2HaCA/Wt+mP+MO5PYaURkCwaP/AuU5YINAiTHl9IdWZuqBUKDXsEPB7hN2PnLPvWvqbxtPjxTUi0XUI4Tfy4yhoP/JJvQ3+ANNC3IrURnoMuqQwK2fFxmwkiL3U+ySkI=;30yXLOXgg0xDweePPdV0Kg=="
 ---
 

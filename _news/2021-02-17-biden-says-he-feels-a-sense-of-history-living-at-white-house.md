@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/17/politics/biden-life-white-house/i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/17/politics/biden-life-white-house/index.html"
 type: article
 quality: 175
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210218081702-01b-bob-dole-lead-image-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "In stimulus push, Biden calls on Republicans to heed their constituents"
+    excerpt: "As Joe Biden presses his case for Republicans to set partisanship aside and support his Covid-19 relief bill in Congress this week, the President reminded Americans of his own history working across the aisle with his visit Saturday evening to his ailing friend Bob Dole.\n    \n"
+    publishedDateTime: 2021-02-21T05:45:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZrskAls1WZE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/21/politics/president-joe-biden-coronavirus-relief/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/21/politics/president-joe-biden-coronavirus-relief/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210220182118-01-joe-biden-0219-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

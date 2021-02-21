@@ -2,6 +2,118 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-19-america-is-back-biden-affirms-transatlantic-relationships.md",
+      "title": "'America is back': Biden affirms transatlantic relationships",
+      "excerpt": "Seeking a sharp break from the \"America First\" policies of his predecessor, President Joe Biden reaffirmed the US position of global leadership, the power of its alliances and the resilience of democracy in the United States and abroad.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gg7q5XJUHi8/biden-foreign-policy-transatlantic-partnerships-nr-vpx.cnn",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gg7q5XJUHi8/biden-foreign-policy-transatlantic-partnerships-nr-vpx.cnn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210219122934-01-biden-munich-security-conference-0219-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/world/2021/02/19/biden-foreign-policy-transatlantic-partnerships-nr-vpx.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/world/2021/02/19/biden-foreign-policy-transatlantic-partnerships-nr-vpx.cnn",
+      "publishedDateTime": "2021-02-19T10:14:47-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-biden-says-he-is-planning-on-visiting-texas-amid-weather-crisis.md",
+      "title": "Biden says he is planning on visiting Texas amid weather crisis",
+      "excerpt": "President Biden on Friday said he is planning to visit Texas as the state grapples with a weather crisis that has left hundreds of thousands of residents without power, prompting him to declare an emergency declaration.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CYVbyvXJ2KQ/biden-planning-on-visiting-texas-weather-crisis",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CYVbyvXJ2KQ/biden-planning-on-visiting-texas-weather-crisis",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 375,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-planning-on-visiting-texas-weather-crisis.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-planning-on-visiting-texas-weather-crisis.amp",
+      "publishedDateTime": "2021-02-19T09:51:42-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-20-trump-hotel-employees-say-they-had-to-pretend-to-support-the-president-inside-i-was-dying.md",
       "title": "Trump hotel employees say they had to pretend to support the president: 'Inside I was dying'",
       "excerpt": "For employees at the Trump International Hotel who weren't Donald Trump supporters, pretending to be one was an unwritten rule of the job.",
@@ -1248,115 +1360,6 @@
       "topics": [
         "Election",
         "Mike Pence",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-joe-biden-north-korea-review-will-consider-malicious-cyber-activity-as-hackers-charged.md",
-      "title": "Joe Biden North Korea Review Will Consider 'Malicious' Cyber Activity As Hackers Charged",
-      "excerpt": "Three North Korean hackers were charged Wednesday over a plot to steal $1.3 billion in crypto and traditional currencies from banks and individuals.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/joe-biden-north-korea-review-consider-malicious-cyber-activity-hackers-charged-1570188",
-      "originalUrl": "https://www.newsweek.com/joe-biden-north-korea-review-consider-malicious-cyber-activity-hackers-charged-1570188",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1738417/kim-il-sung-kim-jong-il.jpg",
-          "width": 2500,
-          "height": 1664,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/joe-biden-north-korea-review-consider-malicious-cyber-activity-hackers-charged-1570188?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-north-korea-review-consider-malicious-cyber-activity-hackers-charged-1570188?amp=1",
-      "publishedDateTime": "2021-02-18T06:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-bowe-bergdahl-targets-trump-mccain-comments-in-lawsuit-challenging-court-martial.md",
-      "title": "Bowe Bergdahl targets Trump, McCain comments in lawsuit challenging court-martial",
-      "excerpt": "Former U.S. Army Sgt. Robert \"Bowe\" Bergdahl, who was court-martialed in 2017 after being accused of abandoning his post in Afghanistan and endangering fellow service members, has filed a civil lawsuit in a bid to overturn his conviction.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/bowe-bergdahl-targets-trump-mccain-comments-in-lawsuit-challenging-court-martial",
-      "originalUrl": "https://www.foxnews.com/us/bowe-bergdahl-targets-trump-mccain-comments-in-lawsuit-challenging-court-martial",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/05/640/320/Bergdahl053119.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/bowe-bergdahl-targets-trump-mccain-comments-in-lawsuit-challenging-court-martial.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/bowe-bergdahl-targets-trump-mccain-comments-in-lawsuit-challenging-court-martial.amp",
-      "publishedDateTime": "2021-02-18T05:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     }

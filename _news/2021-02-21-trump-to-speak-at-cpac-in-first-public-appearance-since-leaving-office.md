@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Pence declined CPAC invitation: source"
+    excerpt: "Former Vice President Mike Pence has declined an invitation to attend this year's Conservative Political Action Conference, Fox News has learned."
+    publishedDateTime: 2021-02-21T14:08:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pxTq-u8QWBY/pence-declined-cpac-invitation-source"
+    ampWebUrl: "https://www.foxnews.com/politics/pence-declined-cpac-invitation-source.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-declined-cpac-invitation-source.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7e7fe47e-ed40-4bb7-97a7-8b2c3b23ff48/b5a6a527-121e-4e98-876f-f6204780c546/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump to speak at CPAC conference in first public appearance post-White House"
     excerpt: "Former President Trump will make his first major public appearance at the Conservative Political Action Conference (CPAC) conference later this month, Fox News has learned."
     publishedDateTime: 2021-02-20T21:08:12Z
@@ -45,22 +61,6 @@ related:
     quality: 172
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Donald-Trump-CPAC-AP-e1607457728844.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Trump Plaza casino in Atlantic City to be demolished"
-    excerpt: "The long-vacant Trump Plaza casino in Atlantic City, N.J., once a symbol of the glitz and glamor of the high-rolling lifestyle, was slated to be reduced to a pile of rubble on Wednesday."
-    publishedDateTime: 2021-02-17T14:11:00Z
-    webUrl: "https://www.foxnews.com/us/trump-plaza-casino-atlantic-city-demolished"
-    ampWebUrl: "https://www.foxnews.com/us/trump-plaza-casino-atlantic-city-demolished.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/trump-plaza-casino-atlantic-city-demolished.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/TrumpPlaza-crop.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true

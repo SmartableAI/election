@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Thune decries ‘cancel culture’ against Republicans who voted to convict Trump amid uncertain Senate GOP future"
-excerpt: "Sen. John Thune, a top ally to Senate Minority Leader Mitch McConnell, said that those aiming to punish senators who voted to convict former President Donald Trump at his impeachment trial are engaging in \"cancel culture."
-publishedDateTime: 2021-02-19T12:11:00Z
-originalUrl: "https://www.foxnews.com/politics/thune-decries-cancel-culture-against-republicans-who-voted-to-convict-trump-amid-uncertain-senate-gop-future"
-webUrl: "https://www.foxnews.com/politics/thune-decries-cancel-culture-against-republicans-who-voted-to-convict-trump-amid-uncertain-senate-gop-future"
-ampWebUrl: "https://www.foxnews.com/politics/thune-decries-cancel-culture-against-republicans-who-voted-to-convict-trump-amid-uncertain-senate-gop-future.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/thune-decries-cancel-culture-against-republicans-who-voted-to-convict-trump-amid-uncertain-senate-gop-future.amp"
+title: "Incitement Case Against Trump for Capitol Riot Would Present Challenges"
+excerpt: "Legal experts say a prosecution related to the Capitol riot could be an uphill battle."
+publishedDateTime: 2021-02-21T14:00:00Z
+originalUrl: "https://www.wsj.com/articles/incitement-case-against-trump-for-capitol-riot-would-present-challenges-11613916000"
+webUrl: "https://www.wsj.com/articles/incitement-case-against-trump-for-capitol-riot-would-present-challenges-11613916000"
+ampWebUrl: "https://www.wsj.com/amp/articles/incitement-case-against-trump-for-capitol-riot-would-present-challenges-11613916000"
+cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/incitement-case-against-trump-for-capitol-riot-would-present-challenges-11613916000"
 type: article
-quality: 115
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
+  name: Wall Street Journal
+  domain: wsj.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -26,9 +26,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20345602979352.jpg?ve=1&tl=1"
-    width: 640
-    height: 320
+  - url: "https://images.wsj.net/im-301109/social"
+    width: 1280
+    height: 640
     isCached: true
 
 related:
@@ -96,23 +96,23 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Incitement Case Against Trump for Capitol Riot Would Present Challenges"
-    excerpt: "Legal experts say a prosecution related to the Capitol riot could be an uphill battle."
-    publishedDateTime: 2021-02-21T14:00:00Z
-    webUrl: "https://www.wsj.com/articles/incitement-case-against-trump-for-capitol-riot-would-present-challenges-11613916000"
-    ampWebUrl: "https://www.wsj.com/amp/articles/incitement-case-against-trump-for-capitol-riot-would-present-challenges-11613916000"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/incitement-case-against-trump-for-capitol-riot-would-present-challenges-11613916000"
+  - title: "Thune decries ‘cancel culture’ against Republicans who voted to convict Trump amid uncertain Senate GOP future"
+    excerpt: "Sen. John Thune, a top ally to Senate Minority Leader Mitch McConnell, said that those aiming to punish senators who voted to convict former President Donald Trump at his impeachment trial are engaging in \"cancel culture."
+    publishedDateTime: 2021-02-19T12:11:00Z
+    webUrl: "https://www.foxnews.com/politics/thune-decries-cancel-culture-against-republicans-who-voted-to-convict-trump-amid-uncertain-senate-gop-future"
+    ampWebUrl: "https://www.foxnews.com/politics/thune-decries-cancel-culture-against-republicans-who-voted-to-convict-trump-amid-uncertain-senate-gop-future.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/thune-decries-cancel-culture-against-republicans-who-voted-to-convict-trump-amid-uncertain-senate-gop-future.amp"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
+      name: Fox News
+      domain: foxnews.com
+    quality: 115
     images:
-      - url: "https://images.wsj.net/im-301109/social"
-        width: 1280
-        height: 640
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20345602979352.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
-secured: "VDH/oEiqee2DSbuJsZEJ3thvvFunkgs8mU5Zp+JvKuJiJvssycxJeZXOB9LpiFuejjFb8kPgQtkB8bJdrWPlpr3lI1eUN8ASfL0ickTluf/D22RPIhxSVFODZKoeG8zXWanb/6Q7pYTr0ODnUXYxLoKbxsVyYpFL9GE3W79ztKj5Ds0asHtuKVWAldtyAO9dJQgAm5BDby5gR1eh6csHypJOLpcM6xxXwCM0yw39Y7y63SWn+LT8vOlHYPxSpXPmIymRLSn5rjsEeT8MmcxsBLDONe2lUHEJd1H7w86e79IN1oHx8NPEcGJQc0ZDFh9oy6uQzk+F2zrQOas0p41ZI9U7Kd68AUtqZdIrFiauJr7w/hpiUXo1nkSnHcPjSt7pKSU9OqRBW2qhOGfnqI5xZFCwLO9Xld+yj+Yw02K+vKxDkFtF3A/tFyAhgsxbNgJlh0X7aB3atmEIvvCIrdtyMgyd1St9LpNzAQu5TAa2tvFmfe6nMwzMr5FTJ/TP3CRHdQjxLg7hWeY/+O8j6TpILg==;Qrf76SDKe3s58WyMu4d0hw=="
+secured: "q0CecmTR0wGHE1K+ygRP4Xq5mYd5qNJfsp++xAsksoe9NYzlNdt2Rg9w14U9KSduVrZu/FLn7qGNrtrGKyv0G1Zxtf0Q6Z8n9/wD9BiyG3RjOlBybT/hxZgpaYfcWoCWUFHSv+1zhMvMgyLdR1DCqf4jahLAiixqJtoPVY0FFE6+YQHmB75e37mhXX801ceZ8j9Rjfk7HiPmHuIIAoAetpNLqPNyBKhRE8EFavo6zDrFBH4sGhqLDBPiKvzDdGUA00dakoW2jD0iIilDJtUbqxxRWJbRsEaYrMV/OLaq5DGZjFIzk5keIb9XQ2zgYNx8/rRGumzu/HWLTJtxmtHLLPFVlg7oUFgcc2B79F56vk8=;LJKm8jkX/ZumfGkIP1A5qQ=="
 ---
 

@@ -80,6 +80,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Incitement Case Against Trump for Capitol Riot Would Present Challenges"
+    excerpt: "Legal experts say a prosecution related to the Capitol riot could be an uphill battle."
+    publishedDateTime: 2021-02-21T14:00:00Z
+    webUrl: "https://www.wsj.com/articles/incitement-case-against-trump-for-capitol-riot-would-present-challenges-11613916000"
+    ampWebUrl: "https://www.wsj.com/amp/articles/incitement-case-against-trump-for-capitol-riot-would-present-challenges-11613916000"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/incitement-case-against-trump-for-capitol-riot-would-present-challenges-11613916000"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-301109/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Thune decries ‘cancel culture’ against Republicans who voted to convict Trump amid uncertain Senate GOP future"
     excerpt: "Sen. John Thune, a top ally to Senate Minority Leader Mitch McConnell, said that those aiming to punish senators who voted to convict former President Donald Trump at his impeachment trial are engaging in \"cancel culture."
     publishedDateTime: 2021-02-19T12:11:00Z

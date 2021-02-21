@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Trump to speak at CPAC conference in first public appearance post-White House"
-excerpt: "Former President Trump will make his first major public appearance at the Conservative Political Action Conference (CPAC) conference later this month, Fox News has learned."
-publishedDateTime: 2021-02-20T21:08:12Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7F0cLbFPpY4/trump-to-speak-at-cpac-conference-in-first-public-appearance-post-white-house"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7F0cLbFPpY4/trump-to-speak-at-cpac-conference-in-first-public-appearance-post-white-house"
-ampWebUrl: "https://www.foxnews.com/politics/trump-to-speak-at-cpac-conference-in-first-public-appearance-post-white-house.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-to-speak-at-cpac-conference-in-first-public-appearance-post-white-house.amp"
+title: "Pence declined CPAC invitation: source"
+excerpt: "Former Vice President Mike Pence has declined an invitation to attend this year's Conservative Political Action Conference, Fox News has learned."
+publishedDateTime: 2021-02-21T14:08:11Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pxTq-u8QWBY/pence-declined-cpac-invitation-source"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pxTq-u8QWBY/pence-declined-cpac-invitation-source"
+ampWebUrl: "https://www.foxnews.com/politics/pence-declined-cpac-invitation-source.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-declined-cpac-invitation-source.amp"
 type: article
-quality: 172
-heat: -1
-published: false
+quality: 185
+heat: 245
+published: true
 
 provider:
   name: Fox News
@@ -23,29 +23,30 @@ provider:
 topics:
   - Election
   - Republican Voice
+  - Mike Pence
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Donald-Trump-CPAC-AP-e1607457728844.jpg?ve=1&tl=1"
-    width: 640
-    height: 320
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7e7fe47e-ed40-4bb7-97a7-8b2c3b23ff48/b5a6a527-121e-4e98-876f-f6204780c546/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
-  - title: "Pence declined CPAC invitation: source"
-    excerpt: "Former Vice President Mike Pence has declined an invitation to attend this year's Conservative Political Action Conference, Fox News has learned."
-    publishedDateTime: 2021-02-21T14:08:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pxTq-u8QWBY/pence-declined-cpac-invitation-source"
-    ampWebUrl: "https://www.foxnews.com/politics/pence-declined-cpac-invitation-source.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-declined-cpac-invitation-source.amp"
+  - title: "Trump to speak at CPAC conference in first public appearance post-White House"
+    excerpt: "Former President Trump will make his first major public appearance at the Conservative Political Action Conference (CPAC) conference later this month, Fox News has learned."
+    publishedDateTime: 2021-02-20T21:08:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7F0cLbFPpY4/trump-to-speak-at-cpac-conference-in-first-public-appearance-post-white-house"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-to-speak-at-cpac-conference-in-first-public-appearance-post-white-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-to-speak-at-cpac-conference-in-first-public-appearance-post-white-house.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 185
+    quality: 172
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7e7fe47e-ed40-4bb7-97a7-8b2c3b23ff48/b5a6a527-121e-4e98-876f-f6204780c546/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Donald-Trump-CPAC-AP-e1607457728844.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Trump to speak at CPAC in first public appearance after leaving office"
     excerpt: "Former President Trump will be a keynote speaker at the Conservative Political Action Conference in Orlando, Fla., a spokesman for the organization confirmed to The Post on Saturday. Trump is"
@@ -80,6 +81,6 @@ related:
         height: 640
         isCached: true
 
-secured: "kpddf2E2mTocIUO/ihOchmIjFGJ1DsJZ1M7NGulx5fF1Md0NXM+6wCsuUvxJYza2tazr7wwLReOmw6we/VgJ+opbengibZUqZ45XRNXdGYmoeD+iAc2uE1pASm9kpIqricHC2nXaSxft9MYvKpDazgWpcBUSHGsWHdQKQE3jJB6+5Q2ApucdymCqKvXK5TAl7FZBt3eoViFLQMNxLFobNHJ/ECOtkXelXAnU4FHFPL0hY8B2kpIlkLh3M0GB8NpDi1YwPHL01NKdTG+iIAIVRyUU/9GuHeFEdTdhhQquuJcf0RI4sTmFDkYLSHCBIG+oSpRDO6l3nsnQvypBHdLVG6mAiaAvr0tmYWPQo3Ho+XY=;29j6awb+YfrCDo7TmNcydA=="
+secured: "UJFeCHxxTu9XqgF+jZdAz9Ixl6x1/44lPkzywM5Xuhtpfi5fgLFq+g0/ZoJupw+hEtvFpC2MXz6GGLtZtIPPrdIeQgvADdEvFDtau54T/ngwskCHSHlc0WZqaZIKaVIO6B/7Am6B2ABNUqXCEC191gNOxeucn4ASJy6liZF32CZtXoTv6VTny2kNVNf8LhZQEuKqMsVm5yC20Xf3OaYz7aZlxhk3Iz0WC4ne1Kw5ilenZnlShBfCezeQ79kaEyTm0f/3+4STFPLEZ3hq03gsEtmY3JFz1wLEc/xknluNzDdUk1XlAIF1Sewbx7urmYU7S9Q7mpFT77iz7nS55S/yFjos2zIfDjJSDwjXzdmLKTE=;ICPrsjk3g5hOu50S083WPA=="
 ---
 
