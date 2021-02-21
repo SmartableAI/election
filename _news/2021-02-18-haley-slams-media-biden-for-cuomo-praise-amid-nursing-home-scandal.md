@@ -127,6 +127,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Psaki dodges question of whether Biden still considers Cuomo 'the gold standard' for COVID-19 leadership"
+    excerpt: "White House press secretary Jen Psaki dodged a question on Sunday regarding whether President Biden still considers New York Gov. Andrew Cuomo “the gold standard” for leadership during the coronavirus pandemic."
+    publishedDateTime: 2021-02-21T17:26:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MyXfuRFS1to/psaki-dodges-question-of-whether-biden-still-considers-cuomo-the-gold-standard-for-covid-19-leadership"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-dodges-question-of-whether-biden-still-considers-cuomo-the-gold-standard-for-covid-19-leadership.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-dodges-question-of-whether-biden-still-considers-cuomo-the-gold-standard-for-covid-19-leadership.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "Tc1VNAOwBIFv8ew7bpZdT6zEa7TAaEid0lG7JWNVSBI6MdDi9J63yJyYn7grKAng3FnA8ySH2sjTQwpbiPoLuyinMT9MbNoYNluI/NFbuUlv6laGDdPV4JZpdUsG9gDh4atvqU4J12gIorO71OEV0uvLeQ3ODbUQ6++c/uGva8nOKm795+oRlzhXlz7+51EY/W/lMN33y+yIOm+mv2f1NlPCROY8Qf+s25w0OXNQ8nD8FVBgobXgxgBA1UrCylO26E4TCBySv935H8EVfR91dYLONKGmfrHw1WUrmjrB50JBo0WKHEt9a5SHXNWS3TEP+02JSsUa9GGiaPc/492fPg8Oq7SAxXrDkhEmtdClVgQ=;EOAsrYB1DayQbc4fAnvCuw=="
 ---

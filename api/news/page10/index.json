@@ -2,6 +2,58 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-02-07-how-donald-trumps-hand-holding-led-to-panicky-call-home-by-theresa-may.md",
+      "title": "How Donald Trump's hand-holding led to panicky call home by Theresa May",
+      "excerpt": "A remarkable BBC documentary reveals the startling reality of meeting the president",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/feb/07/how-donald-trumps-hand-holding-led-to-panicky-call-home-by-theresa-may?CMP=oth_b-aplnews_d-1",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/feb/07/how-donald-trumps-hand-holding-led-to-panicky-call-home-by-theresa-may?CMP=oth_b-aplnews_d-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 305,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/52c9efc5eb94b4ad66f48b556fdd3110f713e776/194_189_3962_2377/master/3962.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=61685925b23d35c19fcfba70c1e4b138",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/feb/07/how-donald-trumps-hand-holding-led-to-panicky-call-home-by-theresa-may",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/07/how-donald-trumps-hand-holding-led-to-panicky-call-home-by-theresa-may",
+      "publishedDateTime": "2021-02-07T03:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-07-ben-sasses-anti-trump-statements-draw-more-nebraska-backlash.md",
       "title": "Ben Sasse's anti-Trump statements draw more Nebraska backlash",
       "excerpt": "Republican U.S. Sen. Ben Sasse is facing more opposition in his home state of Nebraska for criticizing former President Trump.",
@@ -1299,62 +1351,6 @@
         "Election",
         "Republican Voice",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-biden-flying-to-delaware-despite-cdc-warnings-to-avoid-travel.md",
-      "title": "Biden flying to Delaware despite CDC warnings to avoid travel",
-      "excerpt": "President Biden is expected to travel to Delaware this weekend, in what will be his first out-of-town trip since taking office, despite warnings from the Centers of Disease Control and Prevention to avoid travel.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fJp4HyFWL-o/biden-flying-to-delaware-despite-cdc-warnings-to-avoid-travel",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fJp4HyFWL-o/biden-flying-to-delaware-despite-cdc-warnings-to-avoid-travel",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-flying-to-delaware-despite-cdc-warnings-to-avoid-travel.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-flying-to-delaware-despite-cdc-warnings-to-avoid-travel.amp",
-      "publishedDateTime": "2021-02-05T04:33:23-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

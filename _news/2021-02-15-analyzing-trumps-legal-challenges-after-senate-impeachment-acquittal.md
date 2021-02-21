@@ -160,6 +160,54 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "McConnell will vote to acquit Trump in second impeachment trial"
+    excerpt: "Senate Minority Leader Mitch McConnell has told his colleagues that he will vote to acquit former President Donald Trump of inciting the insurrection at the US Capitol last month, according to a source familiar with the conversations.\n    \n"
+    publishedDateTime: 2021-02-13T14:47:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Rw3HPocqnPw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/13/politics/mitch-mcconnell-acquit-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/mitch-mcconnell-acquit-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106121255-01-mcconnell-0106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Republicans acquitted Trump again, but this time is different"
+    excerpt: "Former President Donald Trump's second acquittal by the US Senate proved the enduring power he holds over the Republican Party, with the results Saturday setting the dangerous precedent that even an autocratic leader who violates his oath of office can escape punishment if he bullies enough senators"
+    publishedDateTime: 2021-02-14T05:21:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kmdl4bQX1R4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/14/politics/donald-trump-impeachment-republican-vote/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/14/politics/donald-trump-impeachment-republican-vote/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210211173412-104-trump-impeachment-centered-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Read McConnell's remarks on the Senate floor following Trump's acquittal"
+    excerpt: "Senate Minority Leader Mitch McConnell delivered remarks from the Senate floor on Saturday after a historic vote to acquit former President Donald Trump in his second impeachment trial.\n    \n"
+    publishedDateTime: 2021-02-13T22:50:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RnHEm4cCYNg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/13/politics/mcconnell-remarks-trump-acquittal/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/mcconnell-remarks-trump-acquittal/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210213165012-mitch-mcconnell-february-13-2021-02-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Fact check: Trump lawyers make multiple false claims in impeachment defense"
     excerpt: "Former President Donald Trump's lawyers mounted an aggressive defense Friday in Trump's second impeachment trial -- and made multiple false and misleading claims to bolster their case.\n    \n"
     publishedDateTime: 2021-02-13T03:03:51Z
@@ -240,6 +288,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump rips McConnell in lengthy statement after being acquitted in impeachment trial"
+    excerpt: "Former President Donald Trump went after Senate Minority Leader Mitch McConnell on Tuesday, calling him \"a dour, sullen, and unsmiling political hack\" in a broadside attack just days after the Kentucky Republican voted to acquit Trump in his second impeachment trial.\n    \n"
+    publishedDateTime: 2021-02-16T22:55:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/96Kw5LyuNZk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/16/politics/trump-mcconnell/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/16/politics/trump-mcconnell/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201230094039-split-donald-trump-mitch-mcconnell-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump's lawyers to offer a defense of the former President at impeachment trial Friday"
     excerpt: "Former President Donald Trump's legal team gets its turn at the Senate impeachment trial Friday, as Trump's lawyers prepare to argue that the trial of a former president is unconstitutional and Trump's speech on January 6 did not incite the rioters who attacked the US Capitol.\n    \n"
     publishedDateTime: 2021-02-12T10:04:37Z
@@ -285,22 +349,6 @@ related:
     quality: 165
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210211173414-106-trump-impeachment-play-button-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Graham says he spoke to Trump after his acquittal and the former President is 'excited' about 2022"
-    excerpt: "Republican Sen. Lindsey Graham said Sunday that he spoke to former President Donald Trump after his acquittal in his second impeachment trial and that Trump is \"excited\" about the midterms in 2022.\n    \n"
-    publishedDateTime: 2021-02-14T17:12:53Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Es7Wk43Bh2M/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/14/politics/lindsey-graham-trump-acquittal-2022/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/14/politics/lindsey-graham-trump-acquittal-2022/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 161
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210214103249-lindsey-graham-0213-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -368,6 +416,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Even after acquittal, GOP senators and Democratic managers hope rebuke of Trump has lasting impact"
+    excerpt: "In the moments after former President Donald Trump was acquitted by the Senate for a second time in a little more than a year, Senate Minority Leader Mitch McConnell rose to speak.\n    \n"
+    publishedDateTime: 2021-02-14T02:03:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KYmzNoWkfYI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/13/politics/trump-acquittal-gop-rebuke-lasting-impact/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/trump-acquittal-gop-rebuke-lasting-impact/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 156
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210213202046-trump-impeachment-vote-acquittal-day-5-wrap-trial-two-nobles-nr-vpx-00021619-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden declares the era of Trump-style ‘America First’ diplomacy over."
     excerpt: "America is back, the trans-Atlantic alliance is back,” Mr. Biden declared. Trying to expunge the last four years without ever once naming his predecessor, Donald J. Trump, Mr. Biden said “we are not looking backward."
     publishedDateTime: 2021-02-19T17:29:00Z
@@ -381,6 +445,22 @@ related:
     quality: 150
     images:
       - url: "https://static01.nyt.com/images/2021/02/19/world/19WORLD-LEADERS-biden2/19WORLD-LEADERS-biden2-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Native Americans ‘Left Out in the Cold’ Under Trump Press Biden for Action"
+    excerpt: "Having shown some political clout in the 2020 election, tribal communities are hopeful of more attention and money to address their long-running problems with poverty, health care and other issues."
+    publishedDateTime: 2021-02-18T15:19:00Z
+    webUrl: "https://www.nytimes.com/2021/02/18/us/politics/native-americans-biden.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/18/us/politics/native-americans-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/18/us/politics/native-americans-biden.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 148
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/18/us/politics/18dc-tribal1/18dc-tribal1-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true
@@ -735,6 +815,38 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2021_06/3449251/210210-takeaways-capitol-riot-ew-715p_1fe7f7a91d0c072dd5dadcc38b6edac2.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "'Damage' control: Key takeaways from Day Three of Trump's second impeachment trial"
+    excerpt: "Republican senators — and even one of Trump's attorneys — seemed to tune the proceedings out. Impeachment managers rested their case on the third day of Trump's trial. Trump's attorneys will offer his defense Friday."
+    publishedDateTime: 2021-02-11T23:41:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/damage-control-key-takeaways-day-three-trump-s-second-impeachment-n1257512"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1257512"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1257512"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 129
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_06/3449503/210211-ONE-TIME-USE-jamie-raskin-ew-514p_a69b0dba058be60afe7fd6d3dcc7d90b.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Trump acquitted in impeachment trial; 7 GOP Senators vote with Democrats to convict"
+    excerpt: "The Senate found Trump not guilty of inciting insurrection after a majority of Republicans voted against convicting the former president."
+    publishedDateTime: 2021-02-13T20:53:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-acquitted-impeachment-trial-7-gop-senators-vote-democrats-convict-n1257876"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1257876"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1257876"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 129
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2021_06/3449949/210213-donald-trump-mn-0930_4093ce77007823e07ce0f65f3196eb56.jpg"
+        width: 2502
+        height: 1668
         isCached: true
   - title: "'Constitutional cancel culture': Key takeaways from Day Four of Trump's impeachment trial"
     excerpt: "Key takeaways from Day Four of Trump's impeachment trial Former President Donald Trump's lawyers put up a pugnacious if brief defense presentation in his impeachment trial Friday, saying his rally speech before the Capitol riot was \"ordinary political rhetoric\" and blasting the proceedings as a \"sham\" fueled by Democrats' \"political hatred\" for the ex-president."

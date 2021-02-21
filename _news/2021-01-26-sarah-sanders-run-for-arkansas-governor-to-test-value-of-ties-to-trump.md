@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/sarah-huckabee-sanders-t
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/sarah-huckabee-sanders-trump-arkansas-governor-race/index.html"
 type: article
 quality: 174
-heat: 214
+heat: 194
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Sarah Sanders, ex-Trump press secretary, to run for Arkansas governor"
-    excerpt: "Former White House Press Secretary Sarah Huckabee Sanders is expected to announce a run for governor of Arkansas on Monday, according to two people familiar with her plans. Sanders has toyed with launching a campaign since leaving her post in 2019 and has been quietly planning for the bid over the last year."
-    publishedDateTime: 2021-01-26T07:02:00Z
-    webUrl: "https://www.nbcnews.com/politics/politics-news/sarah-huckabee-sanders-ex-trump-press-secretary-run-arkansas-governor-n1255490"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1255490"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1255490"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2019_15/2821351/190414-sarah-sanders-cs-1035a_ab999702ae428cc28624be635f770c8c.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "Sarah Huckabee Sanders Is Running for Office. Will Other Trump Allies Follow?"
     excerpt: "Donald Trump Jr. Over the past four years, Donald Trump Jr., 43, the president’s eldest son, has carved out a political lane for himself as a top surrogate and fund-raiser who can channel the ..."
     publishedDateTime: 2021-01-26T04:17:00Z

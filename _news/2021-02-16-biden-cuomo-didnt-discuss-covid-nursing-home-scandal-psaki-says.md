@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-cuomo-didnt-discuss-covid-nur
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cuomo-didnt-discuss-covid-nursing-home-scandal-psaki-says.amp"
 type: article
 quality: 175
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -124,6 +124,22 @@ related:
     quality: 158
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Psaki dodges question of whether Biden still considers Cuomo 'the gold standard' for COVID-19 leadership"
+    excerpt: "White House press secretary Jen Psaki dodged a question on Sunday regarding whether President Biden still considers New York Gov. Andrew Cuomo “the gold standard” for leadership during the coronavirus pandemic."
+    publishedDateTime: 2021-02-21T17:26:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MyXfuRFS1to/psaki-dodges-question-of-whether-biden-still-considers-cuomo-the-gold-standard-for-covid-19-leadership"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-dodges-question-of-whether-biden-still-considers-cuomo-the-gold-standard-for-covid-19-leadership.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-dodges-question-of-whether-biden-still-considers-cuomo-the-gold-standard-for-covid-19-leadership.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true

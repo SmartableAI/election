@@ -80,21 +80,21 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "The Supreme Court is still sitting on Trump's tax returns, and justices aren't saying why"
-    excerpt: "Lawsuits involving Donald Trump tore apart the Supreme Court while he was president, and the justices apparently remain riven by him.\n    \n"
-    publishedDateTime: 2021-02-18T11:40:15Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7C5vReI_alE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/18/politics/supreme-court-trump-taxes-vance/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/18/politics/supreme-court-trump-taxes-vance/index.html"
+  - title: "House Democrats and White House Split Over Lawsuit for Ex-Trump Aide’s Testimony"
+    excerpt: "President Biden has inherited litigation over a subpoena to Donald F. McGahn II, President Donald J. Trump’s former lawyer, about the Russia investigation."
+    publishedDateTime: 2021-02-18T22:35:00Z
+    webUrl: "https://www.nytimes.com/2021/02/18/us/politics/mcgahn-lawsuit-democrats.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/18/us/politics/mcgahn-lawsuit-democrats.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/18/us/politics/mcgahn-lawsuit-democrats.amp.html"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 166
+      name: New York Times
+      domain: nytimes.com
+    quality: 130
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190919130022-20190918-trump-tax-forms-generic-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://static01.nyt.com/images/2021/02/18/us/politics/18dc-mcgahn/18dc-mcgahn-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "Schiff ponders life beyond the House as focus shifts from Trump"
     excerpt: "Speaker Nancy Pelosi, an ally, has lent some muscle to Adam Schiff’s bid to become California's attorney general."

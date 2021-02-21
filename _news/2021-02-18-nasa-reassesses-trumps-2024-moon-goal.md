@@ -32,129 +32,289 @@ images:
     isCached: true
 
 related:
-  - title: "Key Republican breaks with Trump: 'We shouldn't have followed him'"
-    excerpt: "Former ambassador to the UN Nikki Haley weighed in on Trump's legacy during an interview with Politico, saying that he had \"fallen so far\" and was likely out of the picture for 2024 presidential candidates. Former special assistant to President George H.W. Bush and president of the Council on Foreign"
-    publishedDateTime: 2021-02-12T18:35:03Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sUGrERbuGhY/nikki-haley-trump-election-richard-haass-nr-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/02/12/nikki-haley-trump-election-richard-haass-nr-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/02/12/nikki-haley-trump-election-richard-haass-nr-vpx.cnn"
+  - title: "Arkansas GOP governor says he wouldn't support a Trump 2024 reelection bid"
+    excerpt: "The Republican governor of Arkansas, who had previously supported Donald Trump's reelection bid, said Sunday that he would not back the former President if he decided to run in 2024.\n    \n"
+    publishedDateTime: 2021-02-21T16:44:00Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qCtCCCPvzfE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/21/politics/asa-hutchinson-trump-reelection-2024-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/21/politics/asa-hutchinson-trump-reelection-2024-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 188
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210221100458-hutchinson-sotu-vpx-2-21-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "GOP senators facing reelection in 2022 keep mum on McConnell amid divisive fight with Trump"
+    excerpt: "Republican senators are trying to stay out of the fray between former President Donald Trump and their leader, Sen. Mitch McConnell.\n    \n"
+    publishedDateTime: 2021-02-18T22:20:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/brcx77tnGxk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/18/politics/senate-republicans-2022-mcconnell-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/18/politics/senate-republicans-2022-mcconnell-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 180
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201230094039-split-donald-trump-mitch-mcconnell-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Gov. governor: Trump's final chapter hasn't been written"
+    excerpt: "Republican Gov. Larry Hogan of Maryland tells CNN's Jake Tapper he thinks the final chapter of Donald Trump and where the Republican party goes hasn't been written yet.\n    \n"
+    publishedDateTime: 2021-02-14T15:46:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FtFySg0deX8/trump-gop-future-hogan-sotu-tapper-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/02/14/trump-gop-future-hogan-sotu-tapper-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/02/14/trump-gop-future-hogan-sotu-tapper-vpx.cnn"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/181009111215-18-nikki-haley-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210214100839-gov-hogan-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Nikki Haley criticizes Trump and says he has no future in the GOP"
-    excerpt: "Former US ambassador to the United Nations Nikki Haley directly criticized former President Donald Trump for his involvement stoking the US Capitol riot in a new interview, a notable condemnation from someone who is widely viewed as harboring presidential hopes in a party that is still in thrall to Trump.\n"
-    publishedDateTime: 2021-02-12T14:21:55Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RODB8-58pbI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/12/politics/nikki-haley-donald-trump-gop/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/12/politics/nikki-haley-donald-trump-gop/index.html"
+  - title: "Burr faces censure by North Carolina GOP for voting to convict Trump"
+    excerpt: "The North Carolina Republican Party will meet Monday to vote on whether to censure Sen. Richard Burr for his vote to convict former President Donald Trump during his second impeachment trial -- a move that would make him the latest GOP senator to be reprimanded by his state party for siding with Democrats"
+    publishedDateTime: 2021-02-15T12:35:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rljBjo1-TfU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/15/politics/richard-burr-north-carolina-gop-censure-impeachment/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/15/politics/richard-burr-north-carolina-gop-censure-impeachment/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210212083106-file-nikki-haley-2020-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200320161313-01-richard-burr-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Louisiana Republican Party censures Cassidy following vote to convict Trump "
-    excerpt: "The Louisiana Republican Party swiftly moved Saturday to censure GOP Sen. Bill Cassidy after he voted earlier in the day to convict former President Donald Trump in his second impeachment trial.\n    \n"
-    publishedDateTime: 2021-02-14T01:53:27Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zD6dOqGI-jM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/13/politics/bill-cassidy-louisiana-republican-party-censure/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/bill-cassidy-louisiana-republican-party-censure/index.html"
+  - title: "Burr censured by North Carolina GOP for voting to convict Trump"
+    excerpt: "The North Carolina Republican Party will meet Monday to vote on whether to censure Sen. Richard Burr for his vote to convict former President Donald Trump during his second impeachment trial -- a move that would make him the latest GOP senator to be reprimanded by his state party for siding with Democrats"
+    publishedDateTime: 2021-02-16T02:15:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rljBjo1-TfU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/15/politics/richard-burr-north-carolina-gop-censure-impeachment/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/15/politics/richard-burr-north-carolina-gop-censure-impeachment/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 172
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210213164219-02-gop-vote-cassidy-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200320161313-01-richard-burr-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "New York Times: House Republican shunned by family members over Trump criticism"
-    excerpt: "Eleven members of Republican Rep. Adam Kinzinger's family sent him a vitriolic letter accusing him of being a member of the \"devil's army\" in light of his criticism of then-President Donald Trump after the January 6 insurrection, The New York Times reported Monday.\n    \n"
-    publishedDateTime: 2021-02-16T04:56:25Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/g6RoeVFiZz4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/15/politics/kinzinger-impeachment-family-letter/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/15/politics/kinzinger-impeachment-family-letter/index.html"
+  - title: "Fallout from Trump's acquittal exposes deepening rift within GOP "
+    excerpt: "Donald Trump's acquittal in the Senate's impeachment trial -- and the backlash now facing Republicans who voted to convict him -- have exposed the deepening rift within the GOP over whether to continue to fully embrace the former President or seek to move past his divisive brand of politics.\n    \n"
+    publishedDateTime: 2021-02-16T00:26:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NR_sytNWH2E/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/15/politics/republican-party-trump-midterms/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/15/politics/republican-party-trump-midterms/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 171
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210112182127-rep-adam-kinzinger-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210213202046-trump-impeachment-vote-acquittal-day-5-wrap-trial-two-nobles-nr-vpx-00021619-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Of course Donald Trump's team didn't tell the truth about his Covid-19 illness"
-    excerpt: "Donald Trump was far sicker with Covid-19 than the White House physician or his top aides let on, even to the point where there were concerns that the then-President would have to be put on a ventilator to deal with the illness."
-    publishedDateTime: 2021-02-12T15:57:00Z
-    webUrl: "https://www.cnn.com/2021/02/12/politics/donald-trump-covid-19-sick-new-york-times/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/12/politics/donald-trump-covid-19-sick-new-york-times/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/12/politics/donald-trump-covid-19-sick-new-york-times/index.html"
+  - title: "House's No. 2 Republican drops by Mar-a-Lago amid GOP divide over Trump"
+    excerpt: "Rep. Steve Scalise, the No. 2 House Republican, privately met with former President Donald Trump in Florida earlier this week, the latest example of the splintering views among leading congressional Republicans on the role Trump plays in the party going forward.\n    \n"
+    publishedDateTime: 2021-02-18T14:32:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8g9C6wxwoU0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/18/politics/steve-scalise-donald-trump-mar-a-lago/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/18/politics/steve-scalise-donald-trump-mar-a-lago/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 131
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201216162007-trump-white-house-1005-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180228175126-rep-steve-scalise-trump-concealed-carry-bill-sot-00001829-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Democrats rest case with a warning: Republicans risk the republic if they acquit Trump"
-    excerpt: "Analysis: House Democratic prosecutors asked Senate Republicans to consider the precedent they would set by approving of Trump's conduct."
-    publishedDateTime: 2021-02-12T14:47:00Z
-    webUrl: "https://www.nbcnews.com/politics/politics-news/democrats-rest-case-warning-republicans-risk-republic-if-they-acquit-n1257579"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1257579"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1257579"
+  - title: "North Carolina emerges as battleground for post-Trump GOP"
+    excerpt: "Former North Carolina Gov. Pat McCrory dissected the state of the GOP on his radio show Thursday for over an hour without mentioning the name of its standard-bearer, former President Donald Trump.\n    \n"
+    publishedDateTime: 2021-02-19T12:01:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/27r3KPVXGGg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/19/politics/north-carolina-2022-senate-race-republicans-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/19/politics/north-carolina-2022-senate-race-republicans-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210218233842-trump-supporters-north-carolina-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: " Alleged Oath Keeper says she was protecting VIPs at Trump rally"
+    excerpt: "\n    \n"
+    publishedDateTime: 2021-02-21T18:18:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FndLs_qVQpE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/21/politics/oath-keepers-vip-security-capitol-riot/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/21/politics/oath-keepers-vip-security-capitol-riot/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210221090239-capitol-riots-210106-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "These GOP lawmakers are facing backlash from state parties for not backing Trump"
+    excerpt: "State Republican parties are taking action against former President Donald Trump.\n    \n"
+    publishedDateTime: 2021-02-15T16:14:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/elKhVCx4XWc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/15/politics/republicans-facing-censure-trump-impeachment/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/15/politics/republicans-facing-censure-trump-impeachment/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210215102959-sasse-burr-cassidy-rice-cheney-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "The Supreme Court is still sitting on Trump's tax returns, and justices aren't saying why"
+    excerpt: "Lawsuits involving Donald Trump tore apart the Supreme Court while he was president, and the justices apparently remain riven by him.\n    \n"
+    publishedDateTime: 2021-02-18T11:40:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7C5vReI_alE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/18/politics/supreme-court-trump-taxes-vance/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/18/politics/supreme-court-trump-taxes-vance/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190919130022-20190918-trump-tax-forms-generic-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Graham says he spoke to Trump after his acquittal and the former President is 'excited' about 2022"
+    excerpt: "Republican Sen. Lindsey Graham said Sunday that he spoke to former President Donald Trump after his acquittal in his second impeachment trial and that Trump is \"excited\" about the midterms in 2022.\n    \n"
+    publishedDateTime: 2021-02-14T17:12:53Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Es7Wk43Bh2M/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/14/politics/lindsey-graham-trump-acquittal-2022/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/14/politics/lindsey-graham-trump-acquittal-2022/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210214103249-lindsey-graham-0213-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Sarah Sanders, ex-Trump press secretary, to run for Arkansas governor"
+    excerpt: "Former White House Press Secretary Sarah Huckabee Sanders is expected to announce a run for governor of Arkansas on Monday, according to two people familiar with her plans. Sanders has toyed with launching a campaign since leaving her post in 2019 and has been quietly planning for the bid over the last year."
+    publishedDateTime: 2021-01-26T07:02:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/sarah-huckabee-sanders-ex-trump-press-secretary-run-arkansas-governor-n1255490"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1255490"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1255490"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 127
+    quality: 135
     images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2021_06/3449574/210211-jamie-raskin-bw-ac-909p_93b993d3a3f387227e4532af9dd90e0e.jpg"
+      - url: "https://media1.s-nbcnews.com/i/newscms/2019_15/2821351/190414-sarah-sanders-cs-1035a_ab999702ae428cc28624be635f770c8c.jpg"
         width: 2500
-        height: 1528
+        height: 1667
         isCached: true
-  - title: "POLITICO Playbook: Republicans can’t quit Trump"
-    excerpt: "While the rest of the country wants less DONALD TRUMP, Republicans just can’t quit him. Our flash POLITICO/Morning Consult poll conducted in the days following the Senate trial shows that despite the impeachment managers’ gripping presentation and video laying out Trump’s role in the Jan."
-    publishedDateTime: 2021-02-16T11:16:00Z
-    webUrl: "https://www.politico.com/newsletters/playbook/2021/02/16/republicans-cant-quit-trump-491756"
+  - title: "With acquittal, GOP sticks with Trump, wherever that leads"
+    excerpt: "On Saturday, 43 of 50 Republican senators voted to absolve former President Trump of responsibility for the deadly January 6th riot at the Capitol."
+    publishedDateTime: 2021-02-14T14:10:00Z
+    webUrl: "https://www.nbcnews.com/meet-the-press/video/with-acquittal-gop-sticks-with-trump-wherever-that-leads-101012549719"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo101012549719"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo101012549719"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202102/1613311501132_mtp_clip_a2_210214_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Senate acquits Trump in impeachment trial, but GOP split over future"
+    excerpt: "Lead House impeachment manager Rep. Jamie Raskin (D-Md.) and Senate Majority Whip Dick Durbin (D-Ill.) joined Chuck Todd for exclusive interviews following this week’s Senate impeachment trial of Donald Trump."
+    publishedDateTime: 2021-02-14T16:31:00Z
+    webUrl: "https://www.nbcnews.com/meet-the-press/video/senate-acquits-trump-in-impeachment-trial-but-gop-split-over-future-101015109795"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo101015109795"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo101015109795"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202102/mtp_clip_compressed_210214.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Trump's gone, but China, U.S. still at odds over WHO Covid report"
+    excerpt: "\"It's kind of disappointing that it's come to controversy already — the report is not even out,\" one of the members of the WHO-led team said."
+    publishedDateTime: 2021-02-18T06:47:00Z
+    webUrl: "https://www.nbcnews.com/news/world/trump-s-gone-china-u-s-still-odds-over-who-n1257968"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1257968"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1257968"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_07/3450200/210215-who-wuhan-mc-1348_11d6c16fb8a6fd3f955274e4c684419f.jpg"
+        width: 2500
+        height: 1663
+        isCached: true
+  - title: "Acquittal means Trump will loom large in upcoming election contests"
+    excerpt: "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter."
+    publishedDateTime: 2021-02-15T14:07:00Z
+    webUrl: "https://www.nbcnews.com/politics/meet-the-press/acquittal-means-trump-will-loom-large-upcoming-election-contests-n1257938"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
+    images:
+      - url: "https://media1.s-nbcnews.com/j/newscms/2021_07/3450196/210215-donald-trump-mc-12382_e59fc92ce31ccb96d8a2bcdab73f03a0.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "McConnell's next chapter: Guiding the post-Trump GOP"
+    excerpt: "The Kentuckian is the GOP's de facto leader for at least the next two years, as Trump remains exiled in Florida with no real public platform."
+    publishedDateTime: 2021-02-14T12:05:00Z
+    webUrl: "https://www.politico.com/news/2021/02/14/mcconnells-next-chapter-guiding-the-post-trump-gop-469014"
     type: article
     provider:
       name: Politico
       domain: politico.com
     quality: 115
     images:
-      - url: "https://static.politico.com/b8/40/58b869924d40ac85937f7550bd56/gettyimages-1302327045.jpg"
+      - url: "https://static.politico.com/ba/49/dfd390ea400cb7bd00c4ff761091/gettyimages-1230449215-1.jpg"
         width: 1160
         height: 773
-        isCached: true
-  - title: "Post-Impeachment Live Updates: Fallout Begins for Republicans Who Voted to Convict Trump"
-    excerpt: "Trump’s conviction in his impeachment trial has begun. In Louisiana, the state Republican Party’s executive committee voted unanimously on Saturday to censure Senator Bill Cassidy, who was just re-elected in November and was among those who voted to find Mr."
-    publishedDateTime: 2021-02-14T14:10:00Z
-    webUrl: "https://www.nytimes.com/live/2021/02/14/us/trump-impeachment/a-backlash-against-the-7-republicans-who-voted-to-convict-trump-has-begun"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 106
-    images:
-      - url: "https://static01.nyt.com/images/2021/02/14/us/politics/14impeachment-briefing-republican-backlash/14impeachment-briefing-republican-backlash-facebookJumbo.jpg"
-        width: 1050
-        height: 550
         isCached: true
 
 secured: "z5NdaxsViB/MMJ82sTmlkI3BnNMczX3D2jxbE3uzoN03J1EXJBeCDYVrBChD+82GUEAU8QXzM7VDQgPyJliJA+15e7KLzwm9jjMZh0FTCnDjGG9AisowbXvwJ42Kcj4y2AkxB17QZvy55XNYPmcGwbfMyXJng1NIOT41eySvKJTaNSqd+9OHkTe+CC5oWjWP8AyFGUoDFuGyuFFrzVEPeTywR33ek6efaJxGDHrFSXfXJYVylpt7uLJZZUJw0jszGZtPMrS7WSIc79+1zBxO2XvIVlQLDNTFzaReLGKrHajdd4TrFNMnL/wigeWKrKXxup4Qmf9ClXo8CxeYfw9tqFkZMVAr3NjzZvIn2eLV1WY=;PUGWhsgIY0kSA3eO/PaJeg=="

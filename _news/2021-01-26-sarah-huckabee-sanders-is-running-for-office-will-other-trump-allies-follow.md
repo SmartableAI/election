@@ -48,22 +48,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Sarah Sanders, ex-Trump press secretary, to run for Arkansas governor"
-    excerpt: "Former White House Press Secretary Sarah Huckabee Sanders is expected to announce a run for governor of Arkansas on Monday, according to two people familiar with her plans. Sanders has toyed with launching a campaign since leaving her post in 2019 and has been quietly planning for the bid over the last year."
-    publishedDateTime: 2021-01-26T07:02:00Z
-    webUrl: "https://www.nbcnews.com/politics/politics-news/sarah-huckabee-sanders-ex-trump-press-secretary-run-arkansas-governor-n1255490"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1255490"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1255490"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2019_15/2821351/190414-sarah-sanders-cs-1035a_ab999702ae428cc28624be635f770c8c.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
 
 secured: "/UUXRYM1tJ5fgixa5gLibICumsaKIGDF2TtAnCRV7WRujJU8R1An4866VhMWSAuTRxknW/TmdIyPlw938oZHP8yZmJotwK8iMfOy1ev2N8KnPiuDIpW+GOSpvOcopUbuldURlLrTtjZLGx5Agn9PeYD4wNIX4jQxnN+DfqzK8grz7x9izsH+13ZIarSUnYy0bTL23qho4U+pNxcqXnFnmP8lIwD1c19TdGmrs2FF4j9cW4k7LC7OsBDTx9naLl48ddCGXiv+bNwtn5P6p4PGeMxNKSphZwimrEuKEc3/EG1pR+KNwJgO7LJdPNbqnT16GsQLz7Updx9Q2Z1fWLZXmgHlorv5BlTraS2zIf233H0=;pvxPTR4T1jR1qJjyCpl8PQ=="
 ---

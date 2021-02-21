@@ -2,6 +2,166 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-19-biden-used-3-key-stats-to-make-a-point-except-they-werent-true.md",
+      "title": "Biden used 3 key stats to make a point. Except they weren't true",
+      "excerpt": "During President Joe Biden's CNN town hall, he made several false statistical claims. Here's what you need to know.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BXHccdyeTw0/fact-check-minimum-wage-immigration-china-joe-biden-orig-me.cnn",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BXHccdyeTw0/fact-check-minimum-wage-immigration-china-joe-biden-orig-me.cnn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 295,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210216230847-05-biden-town-hall-selects-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2021/02/19/fact-check-minimum-wage-immigration-china-joe-biden-orig-me.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/02/19/fact-check-minimum-wage-immigration-china-joe-biden-orig-me.cnn",
+      "publishedDateTime": "2021-02-19T11:49:30-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-20-trump-repeats-election-claims-in-interviews-is-unchallenged.md",
+      "title": "Trump repeats election claims in interviews, is unchallenged",
+      "excerpt": "Former President Donald Trump repeated false claims that the election was stolen from him 10 times during interviews this week on Fox News Channel, Newsmax and One America News Networks",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Entertainment/wireStory/trump-repeats-election-claims-interviews-unchallenged-76002370",
+      "originalUrl": "https://abcnews.go.com/Entertainment/wireStory/trump-repeats-election-claims-interviews-unchallenged-76002370",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1560,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Entertainment/WireAP_797a515557004f9aae322fd80b74b431_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Entertainment/wireStory/trump-repeats-election-claims-interviews-unchallenged-76002370",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/trump-repeats-election-claims-interviews-unchallenged-76002370",
+      "publishedDateTime": "2021-02-19T11:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-20-reince-priebus-former-chief-of-staff-to-donald-trump-mulling-run-for-wisconsin-governor-according-to-gop-strategist.md",
+      "title": "Reince Priebus, former chief of staff to Donald Trump, mulling run for Wisconsin governor, according to GOP strategist",
+      "excerpt": "Reince Priebus, a former White House chief of staff to Donald Trump, has called Republican donors and power brokers in Wisconsin to discuss a possible bid for governor.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/midwest/ct-aud-reince-priebus-wisconsin-governor-20210219-ai4c6wytbjejjmv4b45bzuvyta-story.html",
+      "originalUrl": "https://www.chicagotribune.com/midwest/ct-aud-reince-priebus-wisconsin-governor-20210219-ai4c6wytbjejjmv4b45bzuvyta-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/3RH0lVNQZpVMBio8n56dtId1QLA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/3LVREPFOC5HT4UQWO24KRZWNRA.aspx",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/midwest/ct-aud-reince-priebus-wisconsin-governor-20210219-ai4c6wytbjejjmv4b45bzuvyta-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/midwest/ct-aud-reince-priebus-wisconsin-governor-20210219-ai4c6wytbjejjmv4b45bzuvyta-story.html?outputType=amp",
+      "publishedDateTime": "2021-02-19T11:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-19-america-is-back-biden-affirms-transatlantic-relationships.md",
       "title": "'America is back': Biden affirms transatlantic relationships",
       "excerpt": "Seeking a sharp break from the \"America First\" policies of his predecessor, President Joe Biden reaffirmed the US position of global leadership, the power of its alliances and the resilience of democracy in the United States and abroad.\n    \n",
@@ -326,23 +486,23 @@
       ]
     },
     {
-      "path": "_news/2021-02-19-north-carolina-emerges-as-battleground-for-post-trump-gop.md",
-      "title": "North Carolina emerges as battleground for post-Trump GOP",
-      "excerpt": "Former North Carolina Gov. Pat McCrory dissected the state of the GOP on his radio show Thursday for over an hour without mentioning the name of its standard-bearer, former President Donald Trump.\n    \n",
+      "path": "_news/2021-02-19-south-carolina-heartbeat-ban-marks-next-era-of-abortion-battle-under-biden.md",
+      "title": "South Carolina heartbeat ban marks next era of abortion battle under Biden",
+      "excerpt": "South Carolina on Thursday became the first state in 2021 to enact a restrictive abortion law known as a \"heartbeat ban,\" an opening salvo underscoring a potentially perilous situation for President Joe Biden's administration as anti-abortion supporters look for a Supreme Court fight over reproductive",
       "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/27r3KPVXGGg/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/27r3KPVXGGg/index.html",
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WNG5K4QL7UU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WNG5K4QL7UU/index.html",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 215,
+      "heat": 193,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210218233842-trump-supporters-north-carolina-2020-super-tease.jpg",
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210217211554-02-biden-immigration-legislation-super-tease.jpg",
           "width": 1100,
           "height": 619,
           "title": null,
@@ -352,9 +512,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/19/politics/north-carolina-2022-senate-race-republicans-trump/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/19/politics/north-carolina-2022-senate-race-republicans-trump/index.html",
-      "publishedDateTime": "2021-02-19T04:01:37-08:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/19/politics/abortion-biden-south-carolina/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/19/politics/abortion-biden-south-carolina/index.html",
+      "publishedDateTime": "2021-02-19T03:01:16-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -756,62 +916,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-gop-senators-facing-reelection-in-2022-keep-mum-on-mcconnell-amid-divisive-fight-with-trump.md",
-      "title": "GOP senators facing reelection in 2022 keep mum on McConnell amid divisive fight with Trump",
-      "excerpt": "Republican senators are trying to stay out of the fray between former President Donald Trump and their leader, Sen. Mitch McConnell.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/brcx77tnGxk/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/brcx77tnGxk/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 940,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201230094039-split-donald-trump-mitch-mcconnell-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/18/politics/senate-republicans-2022-mcconnell-trump/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/18/politics/senate-republicans-2022-mcconnell-trump/index.html",
-      "publishedDateTime": "2021-02-18T14:20:29-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     },
     {
@@ -1247,119 +1351,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-beto-orourke-says-us-could-become-like-nazi-germany-in-10-years-despite-bidens-win.md",
-      "title": "Beto O'Rourke says U.S. could become like Nazi Germany in 10 years, despite Biden's win",
-      "excerpt": "Democratic politician Beto O'Rourke fretted Thursday on MSNBC that the United States could become Nazi Germany within 10 years, in spite of full Democratic control of the White House and Congress.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7XmFAeiQFiA/beto-orourke-us-nazi-germany-10-years-bidens-win",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7XmFAeiQFiA/beto-orourke-us-nazi-germany-10-years-bidens-win",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6868c53f-020a-448d-b028-4cfb1cec889b/15e23bff-0ea4-4ec4-82e8-1b6805ddc164/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/beto-orourke-us-nazi-germany-10-years-bidens-win.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/beto-orourke-us-nazi-germany-10-years-bidens-win.amp",
-      "publishedDateTime": "2021-02-18T08:36:52-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-mike-pence-on-rush-limbaughs-impact-america-lost-a-giant-today.md",
-      "title": "Mike Pence on Rush Limbaugh's impact: 'America lost a giant today'",
-      "excerpt": "Well, we're mournful because we lost a giant today, a great and unparalleled radio icon, of course, Rush Limbaugh. But we're also grateful for having heard his voice and wisdom for as long as we did.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/transcript/mike-pence-on-rush-limbaughs-impact-america-lost-a-giant-today",
-      "originalUrl": "https://www.foxnews.com/transcript/mike-pence-on-rush-limbaughs-impact-america-lost-a-giant-today",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7a29c2a4-7100-4203-8ca1-de0202648473/ea288b70-6978-4fe5-a888-523c7aab4ed9/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/transcript/mike-pence-on-rush-limbaughs-impact-america-lost-a-giant-today.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/mike-pence-on-rush-limbaughs-impact-america-lost-a-giant-today.amp",
-      "publishedDateTime": "2021-02-18T06:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
         "Republican Voice"
       ]
     }

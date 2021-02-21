@@ -32,53 +32,83 @@ images:
     isCached: true
 
 related:
-  - title: "Gov. governor: Trump's final chapter hasn't been written"
-    excerpt: "Republican Gov. Larry Hogan of Maryland tells CNN's Jake Tapper he thinks the final chapter of Donald Trump and where the Republican party goes hasn't been written yet.\n    \n"
-    publishedDateTime: 2021-02-14T15:46:28Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FtFySg0deX8/trump-gop-future-hogan-sotu-tapper-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/02/14/trump-gop-future-hogan-sotu-tapper-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/02/14/trump-gop-future-hogan-sotu-tapper-vpx.cnn"
+  - title: "McConnell blames Trump but voted not guilty anyway"
+    excerpt: "Senate Minority Leader Mitch McConnell has told his colleagues that he will vote to acquit former President Donald Trump of inciting the insurrection at the US Capitol last month, according to a source familiar with the conversations.\n    \n"
+    publishedDateTime: 2021-02-14T00:42:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Rw3HPocqnPw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/13/politics/mitch-mcconnell-acquit-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/mitch-mcconnell-acquit-trump/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210214100839-gov-hogan-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106121255-01-mcconnell-0106-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump's gone, but China, U.S. still at odds over WHO Covid report"
-    excerpt: "\"It's kind of disappointing that it's come to controversy already — the report is not even out,\" one of the members of the WHO-led team said."
-    publishedDateTime: 2021-02-18T06:47:00Z
-    webUrl: "https://www.nbcnews.com/news/world/trump-s-gone-china-u-s-still-odds-over-who-n1257968"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1257968"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1257968"
+  - title: "Trump to speak at CPAC in first public appearance since leaving White House"
+    excerpt: "Former President Donald Trump will speak at the Conservative Political Action Conference in Orlando, Florida, next Sunday, according to a source familiar with the matter.\n    \n"
+    publishedDateTime: 2021-02-20T22:11:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/of9FKdF296c/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/20/politics/trump-cpac-republican-party/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/20/politics/trump-cpac-republican-party/index.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
+      name: CNN
+      domain: cnn.com
+    quality: 173
     images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2021_07/3450200/210215-who-wuhan-mc-1348_11d6c16fb8a6fd3f955274e4c684419f.jpg"
-        width: 2500
-        height: 1663
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210211185115-donald-trump-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "House Democrats and White House Split Over Lawsuit for Ex-Trump Aide’s Testimony"
-    excerpt: "President Biden has inherited litigation over a subpoena to Donald F. McGahn II, President Donald J. Trump’s former lawyer, about the Russia investigation."
-    publishedDateTime: 2021-02-18T22:35:00Z
-    webUrl: "https://www.nytimes.com/2021/02/18/us/politics/mcgahn-lawsuit-democrats.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/18/us/politics/mcgahn-lawsuit-democrats.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/18/us/politics/mcgahn-lawsuit-democrats.amp.html"
+  - title: "Trump tells aides he thinks he'll be acquitted as he remains fixated on 'accountability' for GOP lawmakers who voted to impeach"
+    excerpt: "Former President Donald Trump has been reaching out to aides and advisers to discuss his upcoming Senate impeachment trial, sources familiar with the conversations said, with one of those sources saying Trump thinks there won't be enough Republican senators who'll vote to convict him.\n    \n"
+    publishedDateTime: 2021-02-08T22:44:00Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jGuLoMasK2k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/08/politics/trump-impeachment/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/08/politics/trump-impeachment/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 147
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210205160106-01-trumps-florida-0120-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "The Relationship Between McConnell and Trump Was Good for Both — Until It Wasn’t"
+    excerpt: "The unlikely alliance delivered results they both wanted but fell apart after the election once their political interests diverged."
+    publishedDateTime: 2021-02-19T23:06:00Z
+    webUrl: "https://www.nytimes.com/2021/02/19/us/trump-mcconnell-republicans.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/19/us/trump-mcconnell-republicans.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/19/us/trump-mcconnell-republicans.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
     quality: 130
     images:
-      - url: "https://static01.nyt.com/images/2021/02/18/us/politics/18dc-mcgahn/18dc-mcgahn-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2021/02/19/us/politics/19dc-hulse/19dc-hulse-facebookJumbo.jpg"
         width: 1050
-        height: 549
+        height: 550
+        isCached: true
+  - title: "Johnson: McConnell doesn't 'speak for the conference' on Trump's culpability for riot"
+    excerpt: "In remarks on the Senate floor, the minority leader called Trump \"practically and morally responsible\" for the riot."
+    publishedDateTime: 2021-02-16T19:02:00Z
+    webUrl: "https://www.politico.com/news/2021/02/16/johnson-attacks-mcconnell-trump-impeachment-469126"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 108
+    images:
+      - url: "https://static.politico.com/3e/f1/4f2909a140839abeb1e06d17f924/20210216-ron-johnson-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "uR4JoCOLZd6TC1u6VrLriQdk9KZmdm6bauRlIXZDIUd2TjHcfAss07yP1Xd0l6lo5xO0rbyympzTdLzbVGD2016seidbhbjVf3hgKpRXHrCd0nDPzWdfRhZ3MXbuhIMH2cyLeL9GW5IjxnC31MKAZ+AJpiyI56yzeGKiIPxybR9yu2TxOkKu84lpNYYSsXg8rKloHCQ1ROMc9s1l/YZqYrjxOEfzvFEptMRkHBIAPQ5zA3FtYHfPJQzM0QBTxKuDc29RuIwUsBm7MDhyMHiKWuPCIcNo5eMSPaYyS4MVAiQdXd4Ybl9oF970qVBc2rYOUA2+7+rw6UFQI6zqVMZND6MSiuMCFwQKW6wu6x9d4vHRL4TImQKg9DS+azE2MlqlBpuwUsXdDgmc2obe2bGmeupbPCokuLGS9rCTZ8/iO7wsjM8+F2jEvfPyryIAwV5FnQhc2jofYLqB41g9QiZe6MGP5Hv5Qx1WYNcI/eBqfbdFk+hv2EPuPtc/OipcDrWPiRL9BRgOlbwwkm0Ovl5gvg==;B0ZAviY4pZ6hGp2hp57p7Q=="

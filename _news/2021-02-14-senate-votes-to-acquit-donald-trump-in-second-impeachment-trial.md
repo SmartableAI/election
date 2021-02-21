@@ -541,8 +541,8 @@ related:
         isCached: true
   - title: "Growing number of Republican donors aim to prise party from Trump influence"
     excerpt: "Trump’s critics – and the donors backing them – are scrambling fast to try to prise control away from the pro-Trump majority"
-    publishedDateTime: 2021-02-21T12:00:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/feb/21/republican-donors-aim-move-party-away-trump-influence?share=facebook"
+    publishedDateTime: 2021-02-21T13:07:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/feb/21/republican-donors-aim-move-party-away-trump-influence"
     ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/21/republican-donors-aim-move-party-away-trump-influence"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/21/republican-donors-aim-move-party-away-trump-influence"
     type: article

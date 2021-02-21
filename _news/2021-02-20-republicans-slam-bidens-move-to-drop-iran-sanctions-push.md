@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/republicans-bidens-move-iran-sancti
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-bidens-move-iran-sanctions-push.amp"
 type: article
 quality: 175
-heat: 395
+heat: 415
 published: true
 
 provider:
@@ -124,6 +124,22 @@ related:
     quality: 162
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2d188969-ee03-4425-9b0f-38e2311976a3/879e3e97-56d8-4f7e-8ad7-534d8e030d84/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden’s ‘radical’ foreign policy agenda is giving Iran ‘out’ to become nuclear state: Rep. Turner"
+    excerpt: "President Biden’s “radical” foreign policy agenda is “turning upside down our Middle East policy” and giving Iran an “out” to become a nuclear state with a return to the Obama-era nuclear deal, U.S. Rep. Mike Turner said Sunday."
+    publishedDateTime: 2021-02-21T18:45:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2D2-t5Nia2E/biden-radical-foreign-policy-agenda-iran-nuclear-state-rep-mike-turner-ohio"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-radical-foreign-policy-agenda-iran-nuclear-state-rep-mike-turner-ohio.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-radical-foreign-policy-agenda-iran-nuclear-state-rep-mike-turner-ohio.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bcf30f46-0d20-4907-bc2d-97a69507940d/f0574146-5067-42b4-83af-44e2585d3c49/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

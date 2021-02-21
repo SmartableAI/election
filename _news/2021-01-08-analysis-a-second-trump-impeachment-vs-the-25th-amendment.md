@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/07/politics/what-matters-january-7/i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/what-matters-january-7/index.html"
 type: article
 quality: 175
-heat: 1035
+heat: 1075
 published: true
 
 provider:
@@ -236,6 +236,38 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210212194709-senate-floor-0212-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: Why most GOP senators are standing by Trump "
+    excerpt: "A lot of critics of former President Donald Trump want GOP senators to \"show some spine.\" They think the big reason they have stayed with Trump through impeachment is because they're scared of him.\n    \n"
+    publishedDateTime: 2021-02-13T22:34:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fmcp4i-YYQc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/13/politics/gop-senators-trump-impeachment/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/gop-senators-trump-impeachment/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210211174740-106-trump-impeachment-centered-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: Republicans acquitted Trump again, but this time is different"
+    excerpt: "Former President Donald Trump's second acquittal by the US Senate proved the enduring power he holds over the Republican Party, with the results Saturday setting the dangerous precedent that even an autocratic leader who violates his oath of office can escape punishment if he bullies enough senators"
+    publishedDateTime: 2021-02-15T19:11:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kmdl4bQX1R4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/14/politics/donald-trump-impeachment-republican-vote/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/14/politics/donald-trump-impeachment-republican-vote/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210211173412-104-trump-impeachment-centered-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -62,6 +62,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "McConnell's plan to deal with Trump: Ignore him"
+    excerpt: "Senate Minority Leader Mitch McConnell had an instant reaction when seeing the lengthy attack he endured from former President Donald Trump.\n    \n"
+    publishedDateTime: 2021-02-17T22:02:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/x6t1KTdznyo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/17/politics/mitch-mcconnell-donald-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/17/politics/mitch-mcconnell-donald-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201216121723-02-mcconnell-trump-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Louisiana Republican Party censures Cassidy following vote to convict Trump "
     excerpt: "The Louisiana Republican Party swiftly moved Saturday to censure GOP Sen. Bill Cassidy after he voted earlier in the day to convict former President Donald Trump in his second impeachment trial.\n    \n"
     publishedDateTime: 2021-02-14T01:53:27Z
@@ -94,21 +110,53 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "NASA reassesses Trump's 2024 moon goal"
-    excerpt: "It has been widely anticipated that the 2024 goal would be impossible to meet given that a new rocket, capsule, lunar lander, and other components still need to be developed and fully tested."
-    publishedDateTime: 2021-02-18T08:32:00Z
-    webUrl: "https://www.politico.com/news/2021/02/16/nasa-trump-2024-moon-landing-goal-469135"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/02/16/nasa-trump-2024-moon-landing-goal-469135"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/02/16/nasa-trump-2024-moon-landing-goal-469135"
+  - title: "Senior Republicans split over how to treat Trump: Pay homage at Mar-a-Lago or refuse to 'bend the knee'"
+    excerpt: "Senior Republicans are split over how to treat former President Donald Trump, with the No. 2 House Republican making a personal pilgrimage to visit him on the same day that the top Senate Republican vowed never to \"bend the knee\" in that way.\n    \n"
+    publishedDateTime: 2021-02-19T00:25:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RGWr8IUjOaU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/18/politics/republicans-scalise-mcconnell-bend-the-knee-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/18/politics/republicans-scalise-mcconnell-bend-the-knee-trump/index.html"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
+      name: CNN
+      domain: cnn.com
+    quality: 159
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210213165012-mitch-mcconnell-february-13-2021-02-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Senior Republicans are split over how to treat Trump: Pay homage at Mar-a-Lago or refuse to 'bend the knee'"
+    excerpt: "Senior Republicans are split over how to treat former President Donald Trump, with the No. 2 House Republican making a personal pilgrimage to visit him on the same day that the top Senate Republican vowed never to \"bend the knee\" in that way.\n    \n"
+    publishedDateTime: 2021-02-18T22:34:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RGWr8IUjOaU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/18/politics/republicans-scalise-mcconnell-bend-the-knee-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/18/politics/republicans-scalise-mcconnell-bend-the-knee-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 157
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210213165012-mitch-mcconnell-february-13-2021-02-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump conviction rests on Republicans' instinct for self-preservation"
+    excerpt: "Analysis: The Democrats' case asks GOP senators to think of their own interests, as well as the republic's. WASHINGTON — If Republican senators will not put the republic over their party, House impeachment trial managers suggested Wednesday,"
+    publishedDateTime: 2021-02-11T09:31:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/trump-conviction-rests-republicans-instinct-self-preservation-n1257385"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1257385"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1257385"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
     quality: 135
     images:
-      - url: "https://static.politico.com/d4/f4/59894d424c609506f8af3a8065fb/ap20121624457519-1.jpg"
-        width: 1160
-        height: 773
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_06/3449252/210210-analysis-donald-trump-ew-722p_555ca8916001a45874569043999b0715.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Of course Donald Trump's team didn't tell the truth about his Covid-19 illness"
     excerpt: "Donald Trump was far sicker with Covid-19 than the White House physician or his top aides let on, even to the point where there were concerns that the then-President would have to be put on a ventilator to deal with the illness."
@@ -141,6 +189,22 @@ related:
       - url: "https://media2.s-nbcnews.com/i/newscms/2021_06/3449574/210211-jamie-raskin-bw-ac-909p_93b993d3a3f387227e4532af9dd90e0e.jpg"
         width: 2500
         height: 1528
+        isCached: true
+  - title: "Remote students report anxiety & Trump wins fight for Republican soul: The Morning Rundown"
+    excerpt: "Moments after voting to acquit Donald Trump, Senate Minority Leader Mitch McConnell slammed the former president for a \"disgraceful dereliction of duty.\""
+    publishedDateTime: 2021-02-15T13:37:00Z
+    webUrl: "https://www.nbcnews.com/news/morning-briefing/remote-students-report-anxiety-trump-wins-fight-republican-soul-morning-n1257936"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1257936"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1257936"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 125
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_06/3450135/210214-mitch-mcconnell-jm-1703_c0bf19f41e894b1eea9af61d47b71d4a.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Post-Impeachment Live Updates: Fallout Begins for Republicans Who Voted to Convict Trump"
     excerpt: "Trump’s conviction in his impeachment trial has begun. In Louisiana, the state Republican Party’s executive committee voted unanimously on Saturday to censure Senator Bill Cassidy, who was just re-elected in November and was among those who voted to find Mr."
