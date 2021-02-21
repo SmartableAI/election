@@ -2,6 +2,63 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-01-30-ex-fbi-lawyer-spared-prison-for-altering-trump-russia-probe-email.md",
+      "title": "Ex-FBI lawyer spared prison for altering Trump-Russia probe email",
+      "excerpt": "The only person charged in the Justice Department's investigation into the origins of the probe President Donald Trump's 2016 campaign and its ties to Russia was spared prison time for altering an email used to support a surveillance application.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2021/01/29/fbi-lawyer-trump-russia-probe-email-463750",
+      "originalUrl": "https://www.politico.com/news/2021/01/29/fbi-lawyer-trump-russia-probe-email-463750",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/bd/0f/28877dd44a8cbfedb4c702f85b83/181005-fbi-getty-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-29T09:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-29-hawley-rips-bidens-40-executive-orders-radical-policies-an-attempt-to-govern-by-executive-fiat.md",
       "title": "Hawley rips Biden's 40 executive orders, 'radical policies': 'An attempt to govern by executive fiat'",
       "excerpt": "President Biden's 40 executive orders show that he is pursuing a \"far-left agenda\" that will kill American energy jobs, Sen. Josh Hawley, R-Mo., said on Friday.",
@@ -1291,62 +1348,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-texas-ag-paxton-on-court-win-against-bidens-100-day-deportation-freeze-no-ones-above-the-law.md",
-      "title": "Texas AG Paxton on court win against Biden's 100-day deportation freeze: 'No one's above the law'",
-      "excerpt": "Texas Attorney General Ken Paxton joined \"Fox News Primetime\" Wednesday to discuss a federal judge's decision to order a temporary hold on President Biden's 100-day deportation freeze.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/H2sVD7k7cFk/texas-ag-calls-biden-100-day-deportation-freeze-illegal-unconstitutional",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/H2sVD7k7cFk/texas-ag-calls-biden-100-day-deportation-freeze-illegal-unconstitutional",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/52334b32-16cb-4d2a-b31d-a7d4fdb3a6b1/68c321f8-4a31-4940-9404-549a71453d54/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/texas-ag-calls-biden-100-day-deportation-freeze-illegal-unconstitutional.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-ag-calls-biden-100-day-deportation-freeze-illegal-unconstitutional.amp",
-      "publishedDateTime": "2021-01-27T18:15:51-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

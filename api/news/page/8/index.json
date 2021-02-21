@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-02-11-the-latest-rioters-hunted-vp-at-capitol-hang-mike-pence.md",
+      "title": "The Latest: Rioters hunted VP at Capitol: 'Hang Mike Pence!'",
+      "excerpt": "The Latest on former President Donald Trump's second Senate impeachment trial (all times local): Rioters at the Capitol were targeting former Vice President Mike Pence, who refused to help his boss, former President Donald Trump,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehour.com/news/article/The-Latest-Prosecutors-trace-Trump-s-15939997.php",
+      "originalUrl": "https://www.thehour.com/news/article/The-Latest-Prosecutors-trace-Trump-s-15939997.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/16/44/16/20595586/3/375x250.jpg",
+          "width": 375,
+          "height": 210,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehour.com/news/amp/The-Latest-Prosecutors-trace-Trump-s-15939997.php",
+      "cdnAmpWebUrl": "https://www-thehour-com.cdn.ampproject.org/c/s/www.thehour.com/news/amp/The-Latest-Prosecutors-trace-Trump-s-15939997.php",
+      "publishedDateTime": "2021-02-10T08:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hour",
+        "domain": "thehour.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-02-10-biden-actions-against-oil-and-gas-industry-producing-chilling-effect-against-energy-workers-george-p-bush.md",
       "title": "Biden actions against oil and gas industry producing 'chilling effect' against energy workers: George P. Bush",
       "excerpt": "Texas Land Commissioner George P. Bush said Wednesday that President Biden's immediate moves against the oil and gas industry produced a \"chilling effect\" against energy workers around the country.",
@@ -1311,63 +1354,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-georgia-officials-review-trump-phone-call-as-scrutiny-intensifies.md",
-      "title": "Georgia Officials Review Trump Phone Call as Scrutiny Intensifies",
-      "excerpt": "The office of Georgia’s secretary of state, Brad Raffensperger, has initiated a fact-finding inquiry into Donald Trump’s January phone call to Mr. Raffensperger pressuring him to “find” votes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/02/08/us/politics/trump-georgia-election-investigation.html",
-      "originalUrl": "https://www.nytimes.com/2021/02/08/us/politics/trump-georgia-election-investigation.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/01/26/us/politics/00HFOTrump-Georgiainvestigate/00HFOTrump-Georgiainvestigate-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/02/08/us/politics/trump-georgia-election-investigation.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/08/us/politics/trump-georgia-election-investigation.amp.html",
-      "publishedDateTime": "2021-02-08T14:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Democratic Voice"
       ]
     }

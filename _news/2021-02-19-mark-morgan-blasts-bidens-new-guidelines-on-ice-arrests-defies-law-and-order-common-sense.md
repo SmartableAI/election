@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "‘We’re seeing an era of the U.S. facilitating illegal immigration’ under Biden: Former CBP commissioner"
+    excerpt: "The Biden administration reviving the “catch and release” policy indicates they are \"facilitating illegal immigration,\" former Customs and Border Protection Commissioner Mark Morgan argued on Saturday."
+    publishedDateTime: 2021-02-21T01:36:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zGHNY4vSBGk/were-seeing-an-era-of-the-u-s-facilitating-illegal-immigration-under-biden-former-cbp-commissioner"
+    ampWebUrl: "https://www.foxnews.com/politics/were-seeing-an-era-of-the-u-s-facilitating-illegal-immigration-under-biden-former-cbp-commissioner.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/were-seeing-an-era-of-the-u-s-facilitating-illegal-immigration-under-biden-former-cbp-commissioner.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "35zVd5Q/100L+Melgf/vceR/9uw9D7T5FL95T6ZxntFkbzwHDHf7Mtky4xNXmwgeIj4Qhmi+LFlJtNIlx5OhQZsG4BVjvlwwv4flGiaY1zj3nrj8BkclcyAUnG1z3s6TCYJ7zV85NHvlnBz0LNKtRRh7+H/F2QXXsoGwD4OX6X9CLQm74y1z+jBSe4b1QD0SgWAPDZZYH4YX/09+Tg1pJaJWb4iatLYuX20g3hKFO7W8SAlyPrSIWFxmOq9q0uh5FeGAy4GIDJfFChKfSPGcYJvBl67tNWFDxvZNjO+Q7TMs6dexF694gIWHQE8PU94DOvDLLtM0ezMoYdP+fuX6ACSPm5ODERT3IPD/TZ5kqwQ=;UV76kWPdnh0bBR6Xhji+5Q=="
 ---

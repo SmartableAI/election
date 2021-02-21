@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/aclu-biden-era-ice-guidance-arrests
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aclu-biden-era-ice-guidance-arrests.amp"
 type: article
 quality: 168
-heat: 188
+heat: 208
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       name: Fox News
       domain: foxnews.com
     quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "‘We’re seeing an era of the U.S. facilitating illegal immigration’ under Biden: Former CBP commissioner"
+    excerpt: "The Biden administration reviving the “catch and release” policy indicates they are \"facilitating illegal immigration,\" former Customs and Border Protection Commissioner Mark Morgan argued on Saturday."
+    publishedDateTime: 2021-02-21T01:36:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zGHNY4vSBGk/were-seeing-an-era-of-the-u-s-facilitating-illegal-immigration-under-biden-former-cbp-commissioner"
+    ampWebUrl: "https://www.foxnews.com/politics/were-seeing-an-era-of-the-u-s-facilitating-illegal-immigration-under-biden-former-cbp-commissioner.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/were-seeing-an-era-of-the-u-s-facilitating-illegal-immigration-under-biden-former-cbp-commissioner.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
         width: 340

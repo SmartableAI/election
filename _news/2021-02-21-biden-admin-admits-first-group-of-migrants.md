@@ -3,8 +3,8 @@ category: news
 title: "Biden admin. admits first group of migrants"
 excerpt: "Watch \"Biden admin. admits first group of migrants\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
 publishedDateTime: 2021-02-20T17:46:00Z
-originalUrl: "https://www.cbsnews.com/live/video/20210220233953-biden-admin-admits-first-group-of-migrants/"
-webUrl: "https://www.cbsnews.com/live/video/20210220233953-biden-admin-admits-first-group-of-migrants/"
+originalUrl: "https://www.cbsnews.com/live/video/20210220204315-biden-admin-admits-first-group-of-migrants/"
+webUrl: "https://www.cbsnews.com/live/video/20210220204315-biden-admin-admits-first-group-of-migrants/"
 type: article
 quality: 105
 heat: -1
@@ -23,7 +23,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://images-cbsn.cbsnews.com/prod/2021/02/20/story_09106316_1613864524.jpg"
+  - url: "https://images-cbsn.cbsnews.com/prod/2021/02/20/story_09106216_1613853904.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -645,6 +645,6 @@ related:
         height: 600
         isCached: true
 
-secured: "s/m7Dqpj8zwpQPTogNR0RaPvrEPGgXNbblUY8mrZfPU9JpJzE5ki8/ByjXWKl7CreTuyuHDVlE84nqSWjN0wDKzRH+EZ4ofMHSgsw7+N2nJ1IwVoXLmW21O+U2W0D5RMTMLwIhMpJ4YIvL9q4mX3xHgM5q7bkzNAJScMiAr6YVzd4wYXOwIWHphAWmqin8QvbIZyV+YzD8nDEQR3vbhNa2ncUb310pkQ1CPHm+jC/3Mw9vvovvLpheUmiWaMLOmT0AiE67UNCFh4TB/pH6KrrJcaIygiARo5I4Q8vdYM2HAxmHwDrR8o/pyEl4t9pzSAtNPBHRD01pDTvvwu6cFTBer1a0kFCGuaIDwVCKb/1rQ=;CQQVr4/tigbyDDCd2seBRg=="
+secured: "53KJGHxKEo0bAV98TOZq0egMhuI2YRv3Z5GhB4Q+5bhL7T9ZJe9f3eVaBOJ0RxaR1LAnNe39BHoCgNx/lTdVLlNNFSi8FuwQtt4actwXefnI2qzHm2mYy0sxEc6/Q9rgkYcsdUTwDkMGXWbdMHxOFJS2Wcvus0R9YtRJLJe9dbsY6Yci3ZAptqwZyk4LWrv4AqELg8m2o+eNeFUnfyHdqzacYrw3wgmek4Gl7ZCkGGDSnl9jYPgzOO8qCv3khpT6zgNTVVHILXoQy66imlyqC3Fx2AAlHrbgurjjpds1N4aiGkAVa847fzZQKBijwQ+iy+GgANyZ6QM/j3IF3PtnZkIOo8CZAgoSGMmNUrmlJlU=;0wbpmRY2895VhbO8YYATiQ=="
 ---
 

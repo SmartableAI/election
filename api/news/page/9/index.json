@@ -2,6 +2,63 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-02-09-georgia-officials-review-trump-phone-call-as-scrutiny-intensifies.md",
+      "title": "Georgia Officials Review Trump Phone Call as Scrutiny Intensifies",
+      "excerpt": "The office of Georgia’s secretary of state, Brad Raffensperger, has initiated a fact-finding inquiry into Donald Trump’s January phone call to Mr. Raffensperger pressuring him to “find” votes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/02/08/us/politics/trump-georgia-election-investigation.html",
+      "originalUrl": "https://www.nytimes.com/2021/02/08/us/politics/trump-georgia-election-investigation.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/01/26/us/politics/00HFOTrump-Georgiainvestigate/00HFOTrump-Georgiainvestigate-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/02/08/us/politics/trump-georgia-election-investigation.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/08/us/politics/trump-georgia-election-investigation.amp.html",
+      "publishedDateTime": "2021-02-08T14:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-09-white-house-expects-lawmakers-coronavirus-aid-mark-up-will-track-closely-to-bidens-plan.md",
       "title": "White House expects lawmakers' coronavirus aid \"mark up\" will track closely to Biden's plan",
       "excerpt": "The White House expects the House of Representatives to track closely to President Joe Biden's coronavirus relief plan as it marks up its latest round of legislation to blunt the effects of the COVID-19 pandemic,",
@@ -1308,58 +1365,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-02-06-mike-pence-is-starting-a-podcast-to-share-the-good-news-of-conservatism.md",
-      "title": "Mike Pence is starting a podcast 'to share the good news of conservatism'",
-      "excerpt": "The podcast marks just one of the latest ventures Pence is taking on after departing the Trump administration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/mike-pence-starting-a-podcast-conservatism-partnership-2021-2",
-      "originalUrl": "https://www.businessinsider.com/mike-pence-starting-a-podcast-conservatism-partnership-2021-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/601e98e7cca90200129b6d6b?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/mike-pence-starting-a-podcast-conservatism-partnership-2021-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mike-pence-starting-a-podcast-conservatism-partnership-2021-2?amp",
-      "publishedDateTime": "2021-02-06T07:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

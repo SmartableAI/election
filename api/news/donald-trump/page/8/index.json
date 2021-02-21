@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-01-10-gop-lawmakers-beg-biden-pelosi-not-to-impeach-trump-in-the-spirit-of-healing.md",
+      "title": "GOP Lawmakers Beg Biden, Pelosi Not to Impeach Trump in the 'Spirit of Healing'",
+      "excerpt": "\"A second impeachment, only days before President Trump will leave office, is as unnecessary as it is inflammatory,\" seven Republicans said in a letter to Biden.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/gop-lawmakers-beg-biden-pelosi-not-impeach-trump-spirit-healing-1560267",
+      "originalUrl": "https://www.newsweek.com/gop-lawmakers-beg-biden-pelosi-not-impeach-trump-spirit-healing-1560267",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 376,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1702346/ken-buck-donald-trump-rally.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/gop-lawmakers-beg-biden-pelosi-not-impeach-trump-spirit-healing-1560267?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/gop-lawmakers-beg-biden-pelosi-not-impeach-trump-spirit-healing-1560267?amp=1",
+      "publishedDateTime": "2021-01-09T18:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-10-former-goldman-sachs-ceo-lloyd-blankfein-slams-wall-street-traders-as-trump-enablers.md",
       "title": "Former Goldman Sachs CEO Lloyd Blankfein slams Wall Street traders as Trump enablers",
       "excerpt": "Lloyd Blankfein said Wall Street put up with Trump because of what he could deliver, which was mainly lower corporate taxes and fewer regulations.",

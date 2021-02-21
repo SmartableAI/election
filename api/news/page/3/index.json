@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-18-teachers-should-be-prioritized-for-coronavirus-vaccine-vp-kamala-harris.md",
+      "title": "Teachers should be prioritized for coronavirus vaccine: VP Kamala Harris",
+      "excerpt": "Today show host Savannah Guthrie talked to Vice President Kamala Harris about reopening schools and prioritizing teachers to get the coronavirus vaccine, in spite of the fact the CDC said is wasn't necessary.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/video/2021/02/17/teachers-should-be-prioritized-for-coronavirus-vaccine-vp-kamala-harris.html",
+      "originalUrl": "https://www.cnbc.com/video/2021/02/17/teachers-should-be-prioritized-for-coronavirus-vaccine-vp-kamala-harris.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106841889-16136076081613607604-14206248673-1080pnbcnews.jpg?v=1613607608",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-17T21:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-02-18-top-biden-economic-aide-deese-had-leading-role-at-blackrock-termed-the-largest-investor-in-deforestation.md",
       "title": "Top Biden economic aide Deese had leading role at BlackRock, termed the ‘largest investor in deforestation’",
       "excerpt": "President Biden’s top economic advisor Brian Deese has promised to give environmentalism a front-and-center focus in his agenda to spur job growth, but Deese’s record with BlackRock drew bitter outcries from environmentalists. ",
@@ -1315,63 +1367,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-16-fauci-defends-harris-starting-from-scratch-claim-now-knocks-trump-vaccine-rollout.md",
-      "title": "Fauci defends Harris 'starting from scratch' claim, now knocks Trump vaccine rollout",
-      "excerpt": "White House chief medical adviser Dr. Anthony Fauci reversed his previous rejection Tuesday of claims that the Biden administration was \"starting from scratch\" with the rollout of the coronavirus vaccine.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/57KtG5YlgyA/anthony-fauci-kamala-harris-starting-from-scratch-covid-vaccine-rollout",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/57KtG5YlgyA/anthony-fauci-kamala-harris-starting-from-scratch-covid-vaccine-rollout",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 233,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ad71656b-2875-49eb-84fa-d680c5cbc2f2/3169cfb5-6a85-407b-9d32-61d055c27ff9/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/anthony-fauci-kamala-harris-starting-from-scratch-covid-vaccine-rollout.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/anthony-fauci-kamala-harris-starting-from-scratch-covid-vaccine-rollout.amp",
-      "publishedDateTime": "2021-02-16T14:03:38-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
       ]
     }
   ],
