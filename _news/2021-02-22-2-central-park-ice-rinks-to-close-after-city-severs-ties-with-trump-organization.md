@@ -1003,6 +1003,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Supreme Court Won't Halt Trump Tax Record Turnover"
+    excerpt: "The decision is the apparent culmination of a lengthy legal battle that had already reached the high court once before."
+    publishedDateTime: 2021-02-22T14:44:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-02-22/supreme-court-won-t-halt-trump-tax-record-turnover"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 105
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ieS2tQJWOMws/v1/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Senate acquits Trump for second time after week-long trial | Impeachment This Week"
     excerpt: "House managers argue former president Trump incited an insurrection in a dramatic and swift Senate impeachment trial. Come inside the proceedings with The Washington Post."
     publishedDateTime: 2021-02-14T14:53:00Z

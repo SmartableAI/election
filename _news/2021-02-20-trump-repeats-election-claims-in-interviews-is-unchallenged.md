@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/trump-repeats-ele
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/trump-repeats-election-claims-interviews-unchallenged-76002370"
 type: article
 quality: 140
-heat: 1580
+heat: 1600
 published: true
 
 provider:
@@ -988,6 +988,20 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/19/939fdc15-b76d-48f5-93ee-d443aa1c7d3d/thumbnail/1200x630/86d4c708335368c59f9902348a1b01f6/cbsn-fusion-with-donald-trump-out-of-office-us-rejoins-paris-climate-accord-thumbnail-649487-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Supreme Court Won't Halt Trump Tax Record Turnover"
+    excerpt: "The decision is the apparent culmination of a lengthy legal battle that had already reached the high court once before."
+    publishedDateTime: 2021-02-22T14:44:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-02-22/supreme-court-won-t-halt-trump-tax-record-turnover"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 105
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ieS2tQJWOMws/v1/1200x800.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "2 Central Park ice rinks to close after city severs ties with Trump Organization"
     excerpt: "The Trump Organization is closing two ice skating rinks in Central Park after New York City Mayor Bill de Blasio severed their contract in the wake of the deadly Capitol riot. CBS New York's Carolyn Gusoff reports."

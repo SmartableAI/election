@@ -997,6 +997,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Supreme Court Won't Halt Trump Tax Record Turnover"
+    excerpt: "The decision is the apparent culmination of a lengthy legal battle that had already reached the high court once before."
+    publishedDateTime: 2021-02-22T14:44:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-02-22/supreme-court-won-t-halt-trump-tax-record-turnover"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 105
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ieS2tQJWOMws/v1/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "2 Central Park ice rinks to close after city severs ties with Trump Organization"
     excerpt: "The Trump Organization is closing two ice skating rinks in Central Park after New York City Mayor Bill de Blasio severed their contract in the wake of the deadly Capitol riot. CBS New York's Carolyn Gusoff reports."
     publishedDateTime: 2021-02-21T20:35:00Z

@@ -64,22 +64,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Manhattan district attorney subpoenas NYC property tax agency in Trump Organization probe "
-    excerpt: "The Manhattan District Attorney's Office has subpoenaed the New York City Tax Commission as part of a criminal investigation into former President Donald Trump's real estate company, according to a spokesperson for the New York City mayor.\n    \n"
-    publishedDateTime: 2021-02-20T20:25:15Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OO0SMrKKY_w/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/20/politics/new-york-trump-organization-probe/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/20/politics/new-york-trump-organization-probe/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 165
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210220132616-trump-tower-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "In Georgia, a New District Attorney Starts Circling Trump and His Allies"
     excerpt: "Fani Willis has opened a criminal investigation into efforts by the Trump camp to overturn the former president’s loss in Georgia. In an interview, Ms. Willis described a wide-ranging inquiry."
     publishedDateTime: 2021-02-13T10:00:00Z

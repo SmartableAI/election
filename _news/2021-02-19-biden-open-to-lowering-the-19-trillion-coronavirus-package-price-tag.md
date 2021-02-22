@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-open-to-lowering-the-1-9t-cor
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-open-to-lowering-the-1-9t-coronavirus-package-price-tag.amp"
 type: article
 quality: 174
-heat: 194
+heat: 214
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden $1.9T coronavirus stimulus package includes $1B for racial justice provisions for farmers"
+    excerpt: "The $1.9 trillion coronavirus stimulus package being pushed by President Biden puts more than $1 billion toward \"socially disadvantaged\" farmers and related groups — including an equity commission, agricultural training and other assistance to advance racial justice in farming."
+    publishedDateTime: 2021-02-22T13:14:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XiYgRWFp8sE/biden-coronavirus-stimulus-racial-justice-black-farmers"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-coronavirus-stimulus-racial-justice-black-farmers.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-coronavirus-stimulus-racial-justice-black-farmers.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21040536104907.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Politico panned for report Biden finding coronavirus containment 'out of his control'"
     excerpt: "Politico was criticized Friday after publishing an article suggesting that President Biden is finding out how much containing the coronavirus pandemic is \"out of his control\", with critics suggesting the publication was conveniently resetting expectations for someone who vowed to \"shut down\" the virus during his campaign."
     publishedDateTime: 2021-02-20T00:06:00Z

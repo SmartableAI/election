@@ -48,6 +48,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden $1.9T coronavirus stimulus package includes $1B for racial justice provisions for farmers"
+    excerpt: "The $1.9 trillion coronavirus stimulus package being pushed by President Biden puts more than $1 billion toward \"socially disadvantaged\" farmers and related groups — including an equity commission, agricultural training and other assistance to advance racial justice in farming."
+    publishedDateTime: 2021-02-22T13:14:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XiYgRWFp8sE/biden-coronavirus-stimulus-racial-justice-black-farmers"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-coronavirus-stimulus-racial-justice-black-farmers.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-coronavirus-stimulus-racial-justice-black-farmers.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21040536104907.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "3CPyPO6qsi+QePhDjjeRdphVHq2Su1CBFzgj/ywibSn0s7J5hRuFUTJDCRDyKurY4rkb6BugkXVY5uCw1fHd01svzPSz/DcK9+JOoRhHOVmVUgY2RUwHoko/xglEXX34ht3Qpaa2sGEQmGF+K1/OXnpFbea+Ljrw10MYo2TVTb5sfX+ZYoF+l5cbKMGdeifaGy5YMzlFpynCidwhDkxX9LxikFgn7a9xySOI4WUhxzizqZ8iH7o8YBiMr9Xq//9Dl59mAqrf1kRN/rHpFpfBaFj3uQm1AA4q1kXtaJL6LLA25vK0djk7kypeHYAyFLKN09pXpXOh9Dm/LSC62suFtUsBvMsXyWWLjPQxzNAs7d0MJ1adSz3hXhF14p6b3yapl1O7pqWS2F6DiznIwhBH2Sx1sXSenXm9wb2p6HPkDRlciwtBaXxseg5tkSB5MzfeQThIv/UdNj+ez9RZF4PgS+oPvoN6hRYfhdp+qzN7Am4tpeRzltZt/7ps1k32GmqaK5MFmNup6lEmcZA3l/6bHw==;JyXnyiqB0BxBBKnqWp4YlQ=="
 ---

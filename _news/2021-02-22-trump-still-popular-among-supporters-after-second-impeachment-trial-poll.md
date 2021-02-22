@@ -1,30 +1,33 @@
 ---
 category: news
-title: "NYC tax agency subpoenaed in Trump criminal probe"
-excerpt: "The Manhattan District Attorney’s Office has subpoenaed a New York City property tax agency as part of a criminal investigation into Donald Trump’s company, the agency confirmed on Friday,"
-publishedDateTime: 2021-02-20T03:17:00Z
-originalUrl: "https://nypost.com/2021/02/19/nyc-tax-agency-subpoenaed-in-trump-criminal-probe/"
-webUrl: "https://nypost.com/2021/02/19/nyc-tax-agency-subpoenaed-in-trump-criminal-probe/"
-ampWebUrl: "https://nypost.com/2021/02/19/nyc-tax-agency-subpoenaed-in-trump-criminal-probe/amp/"
-cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/19/nyc-tax-agency-subpoenaed-in-trump-criminal-probe/amp/"
+title: "Trump still popular among supporters after second impeachment trial: poll"
+excerpt: "A new poll shows former President Trump is still popular among his supporters even after the impeachment trial earlier this month, which led to his second acquittal."
+publishedDateTime: 2021-02-22T14:12:43Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qsETUmDW4Eo/trump-still-popular-supporters-second-impeachment-poll"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qsETUmDW4Eo/trump-still-popular-supporters-second-impeachment-poll"
+ampWebUrl: "https://www.foxnews.com/politics/trump-still-popular-supporters-second-impeachment-poll.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-still-popular-supporters-second-impeachment-poll.amp"
 type: article
-quality: 135
+quality: 174
 heat: -1
 published: false
 
 provider:
-  name: New York Post
-  domain: nypost.com
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/Cy-Vance.jpg?quality=90&strip=all&w=1200"
-    width: 1200
-    height: 800
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+    width: 340
+    height: 340
     isCached: true
 
 related:
@@ -44,22 +47,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Trump still popular among supporters after second impeachment trial: poll"
-    excerpt: "A new poll shows former President Trump is still popular among his supporters even after the impeachment trial earlier this month, which led to his second acquittal."
-    publishedDateTime: 2021-02-22T14:12:43Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qsETUmDW4Eo/trump-still-popular-supporters-second-impeachment-poll"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-still-popular-supporters-second-impeachment-poll.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-still-popular-supporters-second-impeachment-poll.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Trump Plaza Casino Demolished in Atlantic City"
     excerpt: "The new mayor of Atlantic City had made it a priority to destroy the vacant building, once owned by the former president."
     publishedDateTime: 2021-02-17T14:30:00Z
@@ -75,6 +62,22 @@ related:
       - url: "https://images.wsj.net/im-300215/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "NYC tax agency subpoenaed in Trump criminal probe"
+    excerpt: "The Manhattan District Attorney’s Office has subpoenaed a New York City property tax agency as part of a criminal investigation into Donald Trump’s company, the agency confirmed on Friday,"
+    publishedDateTime: 2021-02-20T03:17:00Z
+    webUrl: "https://nypost.com/2021/02/19/nyc-tax-agency-subpoenaed-in-trump-criminal-probe/"
+    ampWebUrl: "https://nypost.com/2021/02/19/nyc-tax-agency-subpoenaed-in-trump-criminal-probe/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/19/nyc-tax-agency-subpoenaed-in-trump-criminal-probe/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/Cy-Vance.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Trump War Room fires back at House Dem impeachment managers who used 'fight like hell' rhetoric in the past"
     excerpt: "The Trump War Room is firing back at the House Democrat Impeachment Managers who were making their case against former President Donald Trump during the opening arguments of impeachment trial."
@@ -93,6 +96,6 @@ related:
         height: 720
         isCached: true
 
-secured: "5dO7sXWGz5HzQb0ZyXh0OR5LomjYGOANVg0kWof8M1qIPUDclNPx1QJip90owdfQ/4NiwG+2SlnmaVWSgb7JevR8SAtYWY+7mviz//3ZfoYzK4pXUFNVUfl4y6uDcYsE0c3+mpuApl7qv6nQ5TpYgTUvWNKKN4TWFWJTr6g4N6c4sgIf+4v/G3Xxt+MhR6lPRD8X1RN9gWGNumio1wbsATRvNojjyrPudiruB1h8+0IVt+IibKdShoXwmtdDGD4skX/BkwaONp12igjMNfzYl0QRxbCV1rKbakBt+vtZMhCFXtcyRHabSNDokGrTn/8F4KqpbD4wYu6/xnZ/lxmDy9E8jAwJ+dxgCUB0lkpt8eMaQRhcfAPhn/9f2CGZyXz1CnpTnWK2Uulfu4RcQ5ht7i06ihwxYPtgjlEeebntDwwot1rP9kq4ZSilrL2BGguj2qfYWBmY/e5CNDejUNa/azX+Ze8Zhw/YO+aMpDlHH4eLvKnAFK/vyTUVRw1qFSSaG3bdquH0VGP68av3fjxkHQ==;08xFOSIjyL2Ky7ljJLiXbw=="
+secured: "oXD36kN652b7ANnCWkbzhlDJB+RzHenV2oC06XeIIgZ+Rxtho39CsHCLLnUkXnmD1D0oewL/aVQeSBEm/UkNjwxW9TskWkvpSRgHvIaMcrHdOlqpr5VFZcMbry0+mYTugXO+MvZlcPZXUgzYU9RnsLVtfGXiUdoQkJWdAWfZYan9bMf+mXlAe49GAS6mg4m9m/zgwhGxevrpAEMOSFOyr9Ivmc8OvVu0Fxz05V9Bxl9lNhDKFjoBqDtrR/qWNlGsEDhrLYGM67yIisw0lfrlJ9OxFWO7jGjB1b7KIwWW1FmqybfZeCe2M1OeEz9HxGyO+UXXJNu0jIH9CwlS1L04QZZU1xFlGiuznlNizjbsttE=;6hEAgFydXzDeh3zGH1fyRg=="
 ---
 

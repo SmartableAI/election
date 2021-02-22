@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/17/politics/pentagon-delayed-female-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/17/politics/pentagon-delayed-female-nominations/index.html"
 type: article
 quality: 154
-heat: 194
+heat: 174
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Parler, a Social Network That Attracted Trump Fans, Returns Online"
-    excerpt: "After being cut off by Amazon and other tech giants, Parler worked for weeks to find a way to get back on the internet."
-    publishedDateTime: 2021-02-15T19:29:00Z
-    webUrl: "https://www.nytimes.com/2021/02/15/technology/parler-back-online.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/15/technology/parler-back-online.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/15/technology/parler-back-online.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/02/15/business/15parler1/merlin_182226063_a7a3368d-45c0-4f5c-a7f9-7fc23bfc40d4-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "New York Assembly advances bill to rename Donald J. Trump State Park"
     excerpt: "Democratic legislators have been seeking to rename the park, located about eight miles east of Peekskill, since 2015."
     publishedDateTime: 2021-02-10T17:00:00Z

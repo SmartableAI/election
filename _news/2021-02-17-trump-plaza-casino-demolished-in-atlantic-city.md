@@ -48,6 +48,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump still popular among supporters after second impeachment trial: poll"
+    excerpt: "A new poll shows former President Trump is still popular among his supporters even after the impeachment trial earlier this month, which led to his second acquittal."
+    publishedDateTime: 2021-02-22T14:12:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qsETUmDW4Eo/trump-still-popular-supporters-second-impeachment-poll"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-still-popular-supporters-second-impeachment-poll.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-still-popular-supporters-second-impeachment-poll.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "NYC tax agency subpoenaed in Trump criminal probe"
     excerpt: "The Manhattan District Attorney’s Office has subpoenaed a New York City property tax agency as part of a criminal investigation into Donald Trump’s company, the agency confirmed on Friday,"
     publishedDateTime: 2021-02-20T03:17:00Z

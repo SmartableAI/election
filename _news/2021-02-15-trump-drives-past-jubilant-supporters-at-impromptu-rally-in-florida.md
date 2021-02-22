@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-drives-past-jubilant-supporte
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-drives-past-jubilant-supporters-at-impromptu-rally-in-florida.amp"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump still popular among supporters after second impeachment trial: poll"
+    excerpt: "A new poll shows former President Trump is still popular among his supporters even after the impeachment trial earlier this month, which led to his second acquittal."
+    publishedDateTime: 2021-02-22T14:12:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qsETUmDW4Eo/trump-still-popular-supporters-second-impeachment-poll"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-still-popular-supporters-second-impeachment-poll.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-still-popular-supporters-second-impeachment-poll.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump Plaza Casino Demolished in Atlantic City"
     excerpt: "The new mayor of Atlantic City had made it a priority to destroy the vacant building, once owned by the former president."
     publishedDateTime: 2021-02-17T14:30:00Z

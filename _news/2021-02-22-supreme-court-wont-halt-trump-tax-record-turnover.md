@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Donald Trump to address CPAC on future of Republican party"
-excerpt: "Source says former president will speak on final day of annual conservative event"
-publishedDateTime: 2021-02-20T17:22:00Z
-originalUrl: "https://www.theguardian.com/us-news/2021/feb/20/donald-trump-cpac-republican-party"
-webUrl: "https://www.theguardian.com/us-news/2021/feb/20/donald-trump-cpac-republican-party"
-ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/20/donald-trump-cpac-republican-party"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/20/donald-trump-cpac-republican-party"
+title: "Supreme Court Won't Halt Trump Tax Record Turnover"
+excerpt: "The decision is the apparent culmination of a lengthy legal battle that had already reached the high court once before."
+publishedDateTime: 2021-02-22T14:44:00Z
+originalUrl: "https://www.bloomberg.com/news/articles/2021-02-22/supreme-court-won-t-halt-trump-tax-record-turnover"
+webUrl: "https://www.bloomberg.com/news/articles/2021-02-22/supreme-court-won-t-halt-trump-tax-record-turnover"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
+  name: Bloomberg
+  domain: bloomberg.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/bloomberg.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://i.guim.co.uk/img/media/9e19cfacceec4fa02b79a285cbdd962496047d37/0_133_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=78d20e768208db19b71ee2951385e542"
-    width: 600
-    height: 360
+  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ieS2tQJWOMws/v1/1200x800.jpg"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -446,6 +444,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_299991ab1f434d1e9c0a178a3e927e33_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Donald Trump to address CPAC on future of Republican party"
+    excerpt: "Source says former president will speak on final day of annual conservative event"
+    publishedDateTime: 2021-02-20T17:22:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/feb/20/donald-trump-cpac-republican-party"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/20/donald-trump-cpac-republican-party"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/20/donald-trump-cpac-republican-party"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/9e19cfacceec4fa02b79a285cbdd962496047d37/0_133_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=78d20e768208db19b71ee2951385e542"
+        width: 600
+        height: 360
         isCached: true
   - title: "Trump to speak at CPAC in first post-presidential appearance"
     excerpt: "Donald Trump is expected to use his CPAC speech next weekend to talk about the future of the Republican Party and the conservative moment."
@@ -989,20 +1003,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Supreme Court Won't Halt Trump Tax Record Turnover"
-    excerpt: "The decision is the apparent culmination of a lengthy legal battle that had already reached the high court once before."
-    publishedDateTime: 2021-02-22T14:44:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-02-22/supreme-court-won-t-halt-trump-tax-record-turnover"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 105
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ieS2tQJWOMws/v1/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "2 Central Park ice rinks to close after city severs ties with Trump Organization"
     excerpt: "The Trump Organization is closing two ice skating rinks in Central Park after New York City Mayor Bill de Blasio severed their contract in the wake of the deadly Capitol riot. CBS New York's Carolyn Gusoff reports."
     publishedDateTime: 2021-02-21T20:35:00Z
@@ -1147,6 +1147,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "E0LUwrlMDkpzwPGjyPPpu760h3Z4/0iYbA8qAVV/HtwsfMgXi39hi0YASxq51kjNk/2nw41EgtXJfGtQlZmNhsbz2M0omHgOE0yAaviV5mgZfgSL6QbqFw+NK5o6+17kQmL2bsLxV6dyemGLKRVlNpN3QW752YRjNn30nLA25WcF9Qpq6J0Jw8PTj1rkv/eD1kcxLvcRRf0+IcGI1RbmLs7K5QCCA0njDDqqkvPdX40SAd/5rW8Bekv6buHm2sBj+QaZDTCfDGbs4wOYBk4rsMNV4SvDqAYSvDpOgpUkGaReHa1rKx6QXr0Ii+yzirpO3jgkxKMRAHrI+fsfONViH+eu5QdTarvKqrCjPo5vqdDRVLmn7GUZ+pB7skhtinyHdPyQj0KeByNBOjAUaDC3YfU+Ht3Ia3pi67kL8L5to7Oe41ham9R0Y5i6eWuGchsdwQIxrqpnFu27E86qvUPryLudNKkwzlYz+IPuTHAew7upB2q0/voFszaSQhhS9jJK8bHzmZXszmBY89RucYxIoQ==;LTN/Bx+MfXItPBSkDdEt9A=="
+secured: "B6N0DgfL5vOhOgPkFDVSqPF3AyJ5Nf/m2MqxVHVdFWQbzd7JNOEl9sn5H9XcS1YYqkixf9RmpXwiZ2y018Dsqq6jfcHG9HMS2KQEPzQBFSQibHqc80LJ3UF0PfZ/rszWr3Q3RaIHX8JA1WT47M7G+IOIHbEV20O3GDsJBTpfTXUyy2Ut/6tZ0QiHuTHNs7td0CQg6sFhw9X+SLDLY+Pse7PYKH4zdfJU+XPjWppSSDl1fJ9449HQmRsbefFvWO+ki4N6XiNzuz+6wpcVrOCeeHMsRchcxINe1D9+UGhESHEDzvXMay0j5yi84mfS4poFm1SWoAziDokxi3dc66i/QgS2Mqm0/2C4BFohmlVQj+c=;KfJt2PAxm6dK9hRq7hcH8A=="
 ---
 
