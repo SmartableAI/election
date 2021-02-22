@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "New York backtracks on de Blasio’s plan to close Trump-owned ice rinks"
+    excerpt: "The city is doing a full “180” on its plan to shutter Trump-operated ice skating rinks."
+    publishedDateTime: 2021-02-22T06:37:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Gwe07OOsb4M/new-york-backtracks-on-de-blasios-plan-to-close-trump-owned-ice-rinks"
+    ampWebUrl: "https://www.foxnews.com/politics/new-york-backtracks-on-de-blasios-plan-to-close-trump-owned-ice-rinks.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/new-york-backtracks-on-de-blasios-plan-to-close-trump-owned-ice-rinks.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/902ec378-d6b4-4473-b43c-a57e3f99d9da/02832883-8881-40ab-9872-b74b64a5c0e6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump freeze-out: De Blasio puts former president's NYC rink contracts on ice"
     excerpt: "The Trump Organization says its last day of operating Central Park's ice rinks will be Sunday."
     publishedDateTime: 2021-02-20T07:25:29Z
@@ -41,6 +57,22 @@ related:
     quality: 172
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/640/320/Bill-de-Blasio-trump.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump Plaza casino in Atlantic City to be demolished"
+    excerpt: "The long-vacant Trump Plaza casino in Atlantic City, N.J., once a symbol of the glitz and glamor of the high-rolling lifestyle, was slated to be reduced to a pile of rubble on Wednesday."
+    publishedDateTime: 2021-02-17T14:11:00Z
+    webUrl: "https://www.foxnews.com/us/trump-plaza-casino-atlantic-city-demolished"
+    ampWebUrl: "https://www.foxnews.com/us/trump-plaza-casino-atlantic-city-demolished.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/trump-plaza-casino-atlantic-city-demolished.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/TrumpPlaza-crop.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true

@@ -1300,63 +1300,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-17-trump-plaza-casino-in-atlantic-city-to-be-demolished.md",
-      "title": "Trump Plaza casino in Atlantic City to be demolished",
-      "excerpt": "The long-vacant Trump Plaza casino in Atlantic City, N.J., once a symbol of the glitz and glamor of the high-rolling lifestyle, was slated to be reduced to a pile of rubble on Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/trump-plaza-casino-atlantic-city-demolished",
-      "originalUrl": "https://www.foxnews.com/us/trump-plaza-casino-atlantic-city-demolished",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/TrumpPlaza-crop.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/trump-plaza-casino-atlantic-city-demolished.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/trump-plaza-casino-atlantic-city-demolished.amp",
-      "publishedDateTime": "2021-02-17T06:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-02-17-trump-ex-campaign-manager-brad-parscale-meet-at-mar-a-lago-source.md",
       "title": "Trump, ex-campaign manager Brad Parscale, meet at Mar-a-Lago: Source",
       "excerpt": "Former President Donald Trump met Tuesday with former campaign manager Brad Parscale at his Mar-a-Lago resort in Palm Beach, Florida, a source familiar with the matter told Fox News.",
@@ -1624,6 +1567,58 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-17-naacp-and-democratic-congressman-sue-trump-giuliani-over-capitol-assault.md",
+      "title": "NAACP and Democratic congressman sue Trump, Giuliani over Capitol assault",
+      "excerpt": "The lawsuit accuses Trump, Giuliani and two extremist groups of violating a federal Reconstruction-era law known as the Ku Klux Klan Act.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/naacp-sues-trump-giuliani-capitol-riot/",
+      "originalUrl": "https://www.cbsnews.com/news/naacp-sues-trump-giuliani-capitol-riot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 264,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/16/0543b3d7-c32a-4b6c-be77-cf5195d911cc/thumbnail/1200x630/e22992a93d9d17f355b7e72a7ada3a8d/gettyimages-1230465123.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/naacp-sues-trump-giuliani-capitol-riot/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/naacp-sues-trump-giuliani-capitol-riot/",
+      "publishedDateTime": "2021-02-16T08:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     }
   ],

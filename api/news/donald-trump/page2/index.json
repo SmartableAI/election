@@ -2,58 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-02-17-naacp-and-democratic-congressman-sue-trump-giuliani-over-capitol-assault.md",
-      "title": "NAACP and Democratic congressman sue Trump, Giuliani over Capitol assault",
-      "excerpt": "The lawsuit accuses Trump, Giuliani and two extremist groups of violating a federal Reconstruction-era law known as the Ku Klux Klan Act.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/naacp-sues-trump-giuliani-capitol-riot/",
-      "originalUrl": "https://www.cbsnews.com/news/naacp-sues-trump-giuliani-capitol-riot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 264,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/16/0543b3d7-c32a-4b6c-be77-cf5195d911cc/thumbnail/1200x630/e22992a93d9d17f355b7e72a7ada3a8d/gettyimages-1230465123.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/naacp-sues-trump-giuliani-capitol-riot/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/naacp-sues-trump-giuliani-capitol-riot/",
-      "publishedDateTime": "2021-02-16T08:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-02-16-gop-sen-richard-burr-facing-censure-at-home-over-vote-to-convict-trump.md",
       "title": "GOP Sen. Richard Burr facing censure at home over vote to convict Trump",
       "excerpt": "The North Carolina GOP is set to vote on a censure on retiring Sen. Richard Burr in an emergency meeting Monday.",
@@ -1581,6 +1529,63 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-09-georgia-officials-review-trump-phone-call-as-scrutiny-intensifies.md",
+      "title": "Georgia Officials Review Trump Phone Call as Scrutiny Intensifies",
+      "excerpt": "The office of Georgia’s secretary of state, Brad Raffensperger, has initiated a fact-finding inquiry into Donald Trump’s January phone call to Mr. Raffensperger pressuring him to “find” votes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/02/08/us/politics/trump-georgia-election-investigation.html",
+      "originalUrl": "https://www.nytimes.com/2021/02/08/us/politics/trump-georgia-election-investigation.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/01/26/us/politics/00HFOTrump-Georgiainvestigate/00HFOTrump-Georgiainvestigate-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/02/08/us/politics/trump-georgia-election-investigation.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/08/us/politics/trump-georgia-election-investigation.amp.html",
+      "publishedDateTime": "2021-02-08T14:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
       ]
     }
   ],

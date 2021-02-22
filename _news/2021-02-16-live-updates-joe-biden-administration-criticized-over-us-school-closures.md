@@ -127,6 +127,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "LIVE UPDATES: Joe Biden claimed he was once arrested at the US Capitol"
+    excerpt: "David Letterman asked Biden what it was like to walk into the U.S. Senate chamber after being elected at the age of 29"
+    publishedDateTime: 2021-02-22T05:02:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vU3VMjbal5o/live-updates-biden-2-22-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-2-22-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-2-22-2021.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8bc203f2-1541-4294-b786-a8dfe0bc8c95/a588e092-d81a-4368-8d43-49db590abf90/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Sen. Capito: Meeting with Biden, Senate Republicans on coronavirus relief was ‘productive’"
     excerpt: "Sen. Shelley Moore Capito said her two-hour meeting with President Biden and fellow Republican senators on coronavirus relief was “productive” and may lead to additional bipartisan discussions on other topics moving forward."
     publishedDateTime: 2021-02-02T16:03:10Z

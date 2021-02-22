@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-22-new-york-backtracks-on-de-blasios-plan-to-close-trump-owned-ice-rinks.md",
+      "title": "New York backtracks on de Blasio’s plan to close Trump-owned ice rinks",
+      "excerpt": "The city is doing a full “180” on its plan to shutter Trump-operated ice skating rinks.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Gwe07OOsb4M/new-york-backtracks-on-de-blasios-plan-to-close-trump-owned-ice-rinks",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Gwe07OOsb4M/new-york-backtracks-on-de-blasios-plan-to-close-trump-owned-ice-rinks",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 275,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/902ec378-d6b4-4473-b43c-a57e3f99d9da/02832883-8881-40ab-9872-b74b64a5c0e6/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/new-york-backtracks-on-de-blasios-plan-to-close-trump-owned-ice-rinks.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/new-york-backtracks-on-de-blasios-plan-to-close-trump-owned-ice-rinks.amp",
+      "publishedDateTime": "2021-02-21T22:37:48-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-22-biden-tells-town-hall-not-all-minorities-know-how-to-get-online.md",
       "title": "Biden tells town hall not all minorities 'know how to get online'",
       "excerpt": "But the arrival of the Chinese virus followed by the idiotic lockdown policies of Blue State Governors and then, of course, the defeats of Donald Trump led to a less free, less prosperous, less optimistic America and listening to Joe Biden speaking today in Michigan you couldn't help but think that Biden and Fauci are going to keep us under their thumbs for as long as possible.",
@@ -313,62 +369,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/republicans-bidens-move-iran-sanctions-push.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-bidens-move-iran-sanctions-push.amp",
       "publishedDateTime": "2021-02-20T11:13:58-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-trump-freeze-out-de-blasio-puts-former-presidents-nyc-rink-contracts-on-ice.md",
-      "title": "Trump freeze-out: De Blasio puts former president's NYC rink contracts on ice",
-      "excerpt": "The Trump Organization says its last day of operating Central Park's ice rinks will be Sunday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EnoPHbJmapY/trump-freeze-out-de-blasio-puts-former-presidents-nyc-rink-contracts-on-ice",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EnoPHbJmapY/trump-freeze-out-de-blasio-puts-former-presidents-nyc-rink-contracts-on-ice",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 232,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/640/320/Bill-de-Blasio-trump.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-freeze-out-de-blasio-puts-former-presidents-nyc-rink-contracts-on-ice.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-freeze-out-de-blasio-puts-former-presidents-nyc-rink-contracts-on-ice.amp",
-      "publishedDateTime": "2021-02-19T23:25:29-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1456,63 +1456,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-17-trump-plaza-casino-in-atlantic-city-to-be-demolished.md",
-      "title": "Trump Plaza casino in Atlantic City to be demolished",
-      "excerpt": "The long-vacant Trump Plaza casino in Atlantic City, N.J., once a symbol of the glitz and glamor of the high-rolling lifestyle, was slated to be reduced to a pile of rubble on Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/trump-plaza-casino-atlantic-city-demolished",
-      "originalUrl": "https://www.foxnews.com/us/trump-plaza-casino-atlantic-city-demolished",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/TrumpPlaza-crop.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/trump-plaza-casino-atlantic-city-demolished.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/trump-plaza-casino-atlantic-city-demolished.amp",
-      "publishedDateTime": "2021-02-17T06:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-02-17-kamala-harris-pressed-on-school-reopenings-says-teachers-should-be-a-priority-in-receiving-covid-vacccine.md",
       "title": "Kamala Harris pressed on school reopenings, says teachers 'should be a priority' in receiving COVID vacccine",
       "excerpt": "Vice President Kamala Harris said the Biden administration believes teachers \"should be a priority\" in receiving the coronavirus vaccine as parents and educators clash over whether it is safe for teachers to return to the classroom without inoculations against COVID-19.",
@@ -1679,6 +1622,62 @@
       "topics": [
         "Election",
         "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-17-biden-administration-urges-dhs-officials-to-stop-using-illegal-alien-in-favor-of-inclusive-language.md",
+      "title": "Biden administration urges DHS officials to stop using ‘illegal alien’ in favor of ‘inclusive’ language",
+      "excerpt": "The Biden administration is urging officials at the Department of Homeland Security to stop using phrases like “illegal alien” in favor of what it says are more “inclusive” terms -- part of a broader effort by the administration to change language use on immigration.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ujGB8wO0Qkg/biden-dhs-officials-illegal-alien-inclusive-language",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ujGB8wO0Qkg/biden-dhs-officials-illegal-alien-inclusive-language",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/445ed9ed-cd0c-41f3-83e6-58a88f7d11ba/8d88fc84-ae2d-47e0-a180-90c427f3db5e/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-dhs-officials-illegal-alien-inclusive-language.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-dhs-officials-illegal-alien-inclusive-language.amp",
+      "publishedDateTime": "2021-02-16T16:38:42-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
         "Republican Voice"
       ]
     }

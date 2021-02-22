@@ -2,62 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-02-10-nikki-haley-warns-illegal-immigration-hitting-crisis-levels-amid-biden-moves.md",
-      "title": "Nikki Haley warns illegal immigration hitting ‘crisis levels,’ amid Biden moves",
-      "excerpt": "Nikki Haley on Wednesday warned that illegal immigration is hitting “crisis levels” in the wake of a number of reversals of key Trump-era policies by President Joe Biden -- with the former U.N. ambassador arguing that the U.S. needs to take care of “Americans first.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ybEWnpLo3uA/haley-illegal-immigration-biden-policies",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ybEWnpLo3uA/haley-illegal-immigration-biden-policies",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 211,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/29ad43be-ef82-4891-814c-c63e8428c1be/341602a7-fa65-4e5f-aed0-8d066037eff0/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/haley-illegal-immigration-biden-policies.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/haley-illegal-immigration-biden-policies.amp",
-      "publishedDateTime": "2021-02-10T15:36:04-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-02-11-new-capitol-riot-footage-shows-cop-eugene-goodman-protect-pence-romney.md",
       "title": "New Capitol riot footage shows cop Eugene Goodman protect Pence, Romney",
       "excerpt": "Security footage broadcast for the first time Wednesday at former President Donald Trump’s impeachment trial shows how close Capitol rioters got to officials on Jan. 6 — with a sole police",
@@ -1651,6 +1595,62 @@
       "ampWebUrl": "https://www.foxnews.com/politics/hunter-biden-still-working-to-unwind-investment-in-chinese-firm.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-still-working-to-unwind-investment-in-chinese-firm.amp",
       "publishedDateTime": "2021-02-05T14:43:50-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-05-biden-administration-likely-going-back-to-good-old-days-of-iran-nuclear-deal-mcfarland.md",
+      "title": "Biden administration likely going back to 'good old days' of Iran nuclear deal: McFarland",
+      "excerpt": "The Biden administration is likely to look to go back to the \"good old days\" by renegotiating the Iran nuclear deal, former Deputy National Security Advisor K.T. McFarland told \"America Reports\" Friday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jQQbI3Imc10/biden-admin-going-back-good-old-days-iran-nuclear-deal-mcfarland-middle-east-foreign-policy",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jQQbI3Imc10/biden-admin-going-back-good-old-days-iran-nuclear-deal-mcfarland-middle-east-foreign-policy",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7e33682c-d50a-4b32-b84a-dcec55be4b1f/b06c3df5-fa23-40e9-b336-0ed9b3260221/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-admin-going-back-good-old-days-iran-nuclear-deal-mcfarland-middle-east-foreign-policy.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-going-back-good-old-days-iran-nuclear-deal-mcfarland-middle-east-foreign-policy.amp",
+      "publishedDateTime": "2021-02-05T13:35:08-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

@@ -1,12 +1,12 @@
 ---
 category: news
-title: "LIVE UPDATES: Biden revokes terrorist designation for Yemen’s Houthis"
-excerpt: "Follow below for the latest updates on the Biden administration."
-publishedDateTime: 2021-02-06T06:48:32Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FQPGvfnZCxA/live-updates-biden-white-house-2-6-21"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FQPGvfnZCxA/live-updates-biden-white-house-2-6-21"
-ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-white-house-2-6-21.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-white-house-2-6-21.amp"
+title: "LIVE UPDATES: Joe Biden claimed he was once arrested at the US Capitol"
+excerpt: "David Letterman asked Biden what it was like to walk into the U.S. Senate chamber after being elected at the age of 29"
+publishedDateTime: 2021-02-22T05:02:18Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vU3VMjbal5o/live-updates-biden-2-22-2021"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vU3VMjbal5o/live-updates-biden-2-22-2021"
+ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-2-22-2021.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-2-22-2021.amp"
 type: article
 quality: 175
 heat: -1
@@ -25,7 +25,7 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6391dac5-8ca5-4649-97af-93a3ff3bd2bc/ea819181-0cbd-4239-ad1b-cdb5661acc10/1280x720/match/image.jpg"
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8bc203f2-1541-4294-b786-a8dfe0bc8c95/a588e092-d81a-4368-8d43-49db590abf90/1280x720/match/image.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -95,6 +95,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "LIVE UPDATES: Biden revokes terrorist designation for Yemen’s Houthis"
+    excerpt: "Follow below for the latest updates on the Biden administration."
+    publishedDateTime: 2021-02-06T06:48:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FQPGvfnZCxA/live-updates-biden-white-house-2-6-21"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-white-house-2-6-21.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-white-house-2-6-21.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6391dac5-8ca5-4649-97af-93a3ff3bd2bc/ea819181-0cbd-4239-ad1b-cdb5661acc10/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Live Updates: Biden weighs in on reopening of US schools"
     excerpt: "President Joe Biden on Sunday said it was necessary for kids to return \"safely\" to school under certain guidelines."
     publishedDateTime: 2021-02-08T06:55:57Z
@@ -108,22 +124,6 @@ related:
     quality: 175
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d79ebf7a-c1b0-49b8-9273-69420a1b7c66/354b51f8-966f-483b-98b5-3cc604b947f8/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "LIVE UPDATES: Joe Biden claimed he was once arrested at the US Capitol"
-    excerpt: "David Letterman asked Biden what it was like to walk into the U.S. Senate chamber after being elected at the age of 29"
-    publishedDateTime: 2021-02-22T05:02:18Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vU3VMjbal5o/live-updates-biden-2-22-2021"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-2-22-2021.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-2-22-2021.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8bc203f2-1541-4294-b786-a8dfe0bc8c95/a588e092-d81a-4368-8d43-49db590abf90/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -302,6 +302,6 @@ related:
         height: 500
         isCached: true
 
-secured: "/ebv4MO/rmXHjNEhQFhTnqdlBz0t+ING04s9Ij2LQqT5KWrCGsMW9SDr+2mUVD1tMDokn0q4I2E3a/3FHiy+EtD8XTsCx7QInfAiavXdNkUugJMeMCP0IYRYx7I2pXDWorGkpQtHjH8g9SSPM7GryHFygBjYqaqrbBMqtV6yqXMRtJxOvjvu6l+Paq5bU4wZBW/beqaoW/XFU+nSlTYxtY0FHDcmsDtgtmbTzLLP3L0WcpTOSBzAPu2AAiVgECYvePWAelNgk7wCiRo5EnVFpmHTaDexzI6tFTYvTLDA7JnUXkLklak+qhbtYmxhW3nMfcV4jK+TTWlPj2QIIQhcEk7EqlxNWtUSHQrGtATe0aE=;XpfJIiPes8cBKJaukEX5qQ=="
+secured: "MWfEt4lqPGkqv2jUcfFC/9/59v1CM3svJo+H6TBkGScOLrVaQU8Mlh37sIfplwetG05p9c1LWuVPmVFo9RtJdJOc+HBxkmJS2hWzaxsPhwPmLU9bSOpZUVrIi46zyt3QFW5pdVnBoarVmFESpFCrWX46Xt0f0lCBMdODzxA5TJoYLeZ/7aLF0YyurMPtnBUbXP5cOUAOzodGUb8d4MF5QXBWeBsoc7+p9tY9fonKAiIc3P/H50vaJ6GV2KpryZ3ZlHNT8V55fLVyfq1ah4j+W4vLCZv6MlaXvycbL11EgZ2EdbvmB3go/t7kuFbxjPF68aBq9owvGQ4dCbiAGKT2D/rOXLZwumEtY2gJEOKZwUY=;Ao2jj5IwEHcbp5EntRvPxA=="
 ---
 
