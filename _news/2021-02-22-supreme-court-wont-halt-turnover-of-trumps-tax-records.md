@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/supreme-court-trump-tax-records.amp
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supreme-court-trump-tax-records.amp"
 type: article
 quality: 175
-heat: 215
+heat: 255
 published: true
 
 provider:
@@ -46,6 +46,38 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/293bed5e-ef2c-4f3b-a18d-a7c565bbef69/1133c664-0b35-4f1f-9163-666f52e5e1dd/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump: Supreme Court tax return decision a ‘continuation of the greatest political witch hunt’"
+    excerpt: "Former President Trump on Monday slammed the Supreme Court for declining to halt the turnover of his tax records to a New York prosecutor, calling it “a continuation of the greatest political Witch Hunt in the history of our Country.”"
+    publishedDateTime: 2021-02-22T20:01:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/53AsKTg2ffI/trump-reacts-to-supreme-court-tax-return-decision-claims-continuation-of-the-greatest-political-witch-hunt"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-reacts-to-supreme-court-tax-return-decision-claims-continuation-of-the-greatest-political-witch-hunt.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-reacts-to-supreme-court-tax-return-decision-claims-continuation-of-the-greatest-political-witch-hunt.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump blasts Supreme Court, Dems on tax return ruling: ‘It just never ends!’"
+    excerpt: "Former President Donald Trump lashed out at the Supreme Court on Monday after it declined to stop the release of his tax returns to the Manhattan district attorney."
+    publishedDateTime: 2021-02-22T19:53:00Z
+    webUrl: "https://nypost.com/2021/02/22/trump-blasts-supreme-court-dems-on-tax-return-ruling/"
+    ampWebUrl: "https://nypost.com/2021/02/22/trump-blasts-supreme-court-dems-on-tax-return-ruling/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/22/trump-blasts-supreme-court-dems-on-tax-return-ruling/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 132
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/trump-tax-returns-2.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Trump reveals story behind Rush Limbaugh's Presidential Medal of Freedom honor"
     excerpt: "Former President Donald Trump joined \"Hannity\" on Wednesday to remember conservative radio host Rush Limbaugh, who passed away at age 70 after a long battle with lung cancer."

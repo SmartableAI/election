@@ -1,10 +1,10 @@
 ---
 category: news
 title: "SCOTUS denies Trump bid to shield tax returns"
-excerpt: "Top News SCOTUS denies Trump bid to shield tax returns. Posted . Donald Trump suffered a major setback on Monday in his long quest to conceal details of his finances as the U.S. S"
+excerpt: "Politics SCOTUS denies Trump bid to shield tax returns. Posted . Donald Trump suffered a major setback on Monday in his long quest to conceal details of his finances as the U.S. S"
 publishedDateTime: 2021-02-22T18:35:00Z
-originalUrl: "https://www.reuters.com/video/watch/idOVE0QDN63"
-webUrl: "https://www.reuters.com/video/watch/idOVE0QDN63"
+originalUrl: "https://www.reuters.com/video/watch/scotus-denies-trump-bid-to-shield-tax-re-id726281126?chan=6g5ka85"
+webUrl: "https://www.reuters.com/video/watch/scotus-denies-trump-bid-to-shield-tax-re-id726281126?chan=6g5ka85"
 type: article
 quality: 105
 heat: -1
@@ -1161,6 +1161,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "xpZ5Vq2gqsuTZeMtNFjTZzIsJJ8dJ1yF0DMTO6AtB1hqStp5XGCn9lMWR9xdt5I3VS4vQBbWbm68PD2dJ5F5iOn20xriSyN2nKRh6O5HKO5xWXAcNyLilwXjQvMtFjUVamngOlQgcwZ/xW1cBTTWiadpZpRXw+tfOy9Ack0LumolHjOzt093yxXplOSrc3MuyWjeSPBewKywByOI9GTZF6fP8/pVFtgtsiFv/25HjQwfpnvfZUTYgdVgofjI3d2jsy+chzz8tUVGlLPGRHC/F71Fk4mm3tXyGF3FvT71rmuTHLsxTD66VHJ8rSH1gj1TTMXJrUBgZctdhqGHXousdvSeiFbufhQKxdS24pHWeuI=;BQ7l1xBBD4Bl0NJ1AR7Z+g=="
+secured: "I86AMvaKZ8PA8ZeosPjL6dgOL6TqHrH/Rn09FCSu4IbEKaS270SRITg68gSE2M9mLDCcAOAASKuHzEgubCdnljMH22/CMmoEbex7BzyOzHcqb5EZCM1O+RMpVQfLoEkeSpRW6eoHd/LMZa8dzbynIbhtdj+L+SpbRLXnlS+/4W4bYzBK0Ai/jgKhzy4f+GPWurlNY618rE/ggmbRQgfrlWBHS8rp9Foux+WeC23q7OVqul3ItCB0OpMOYtLCHG9xwJAmPL+EpYQ/aZ6nfpiw3sygBTe9s1ifQSS+FTxemf98MW0vrc9hb0Q4vDpcLNQk2bP8tkqossX1vDVP6F506KKJ6GJ2zQsf6/38VOJwWvc=;IsblZKNsgKAOYMaGqUf5PA=="
 ---
 

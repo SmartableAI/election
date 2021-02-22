@@ -303,6 +303,22 @@ related:
         width: 2500
         height: 1663
         isCached: true
+  - title: "Here’s What’s Next in the Trump Taxes Investigation"
+    excerpt: "A Supreme Court ruling has paved the way for prosecutors to begin combing through Mr. Trump’s financial records."
+    publishedDateTime: 2021-02-22T19:12:00Z
+    webUrl: "https://www.nytimes.com/2021/02/22/nyregion/trump-taxes-cyrus-vance.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/22/nyregion/trump-taxes-cyrus-vance.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/22/nyregion/trump-taxes-cyrus-vance.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/25/nyregion/00NYVANCE/merlin_182604267_e4d70416-6012-4559-80c3-9022be5518cd-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Acquittal means Trump will loom large in upcoming election contests"
     excerpt: "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter."
     publishedDateTime: 2021-02-15T14:07:00Z
@@ -329,6 +345,20 @@ related:
     images:
       - url: "https://static.politico.com/ba/49/dfd390ea400cb7bd00c4ff761091/gettyimages-1230449215-1.jpg"
         width: 1160
+        height: 773
+        isCached: true
+  - title: "Supreme Court to review Trump curbs on abortion clinics, immigration"
+    excerpt: "The court will take up the abortion \"gag rule\" and public charge policies, both of which Biden is expected to reverse."
+    publishedDateTime: 2021-02-22T19:00:00Z
+    webUrl: "https://www.politico.com/states/california/story/2021/02/22/supreme-court-to-review-trump-curbs-on-abortion-clinics-immigration-1364792"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/3b/1f/1eba0d724b349d5739e8f367bb91/abortion-rally-773-ap.jpg"
+        width: 1159
         height: 773
         isCached: true
 

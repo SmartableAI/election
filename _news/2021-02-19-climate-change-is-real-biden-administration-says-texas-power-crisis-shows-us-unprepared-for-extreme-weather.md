@@ -141,6 +141,17 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "White House is hopeful Biden can travel to Texas as soon as this week"
+    excerpt: "The White House said on Monday it was hopeful that President Joe Biden could travel to Texas as soon as this week to show his support after a deadly winter storm that caused widespread blackouts."
+    publishedDateTime: 2021-02-22T17:39:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-texas-storm/white-house-is-hopeful-biden-can-travel-to-texas-as-soon-as-this-week-idUSW1N2KF005"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2KF005"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2KF005"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "Biden dismisses a Democratic plan to wipe out $50,000 in federal student-loan debt"
     excerpt: "President Joe Biden supports $10,000 in loan forgiveness, far less than Sens. Elizabeth Warren and Chuck Schumer proposed earlier this year."
     publishedDateTime: 2021-02-17T10:41:00Z

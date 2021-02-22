@@ -139,6 +139,17 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "White House is hopeful Biden can travel to Texas as soon as this week"
+    excerpt: "The White House said on Monday it was hopeful that President Joe Biden could travel to Texas as soon as this week to show his support after a deadly winter storm that caused widespread blackouts."
+    publishedDateTime: 2021-02-22T17:39:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-texas-storm/white-house-is-hopeful-biden-can-travel-to-texas-as-soon-as-this-week-idUSW1N2KF005"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2KF005"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2KF005"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "'Climate change is real': Biden administration says Texas power crisis shows U.S. unprepared for extreme weather"
     excerpt: "President Joe Biden has approved federal emergency declarations for Texas, Oklahoma and is processing a request from Louisiana."
     publishedDateTime: 2021-02-19T00:55:00Z

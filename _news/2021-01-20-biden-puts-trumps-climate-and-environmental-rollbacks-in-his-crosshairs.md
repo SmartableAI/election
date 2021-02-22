@@ -271,6 +271,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration rolls back Trump-era citizenship civics test"
+    excerpt: "The Biden administration is rolling back the controversial Trump-era naturalization civics test, reverting to a prior version of the exam, according to a policy alert published Monday.\n    \n"
+    publishedDateTime: 2021-02-22T19:39:18Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8fTn9PhUfis/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/22/politics/biden-roll-back-trump-citizenship-test/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/22/politics/biden-roll-back-trump-citizenship-test/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201207182000-immigrant-citizenship-exam-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden says Trump should no longer receive classified intelligence briefings"
     excerpt: "President Joe Biden doesn't believe former President Donald Trump should receive classified intelligence briefings, as is tradition for past presidents, citing Trump's \"erratic behavior unrelated to the insurrection.\"\n    \n"
     publishedDateTime: 2021-02-06T00:30:41Z

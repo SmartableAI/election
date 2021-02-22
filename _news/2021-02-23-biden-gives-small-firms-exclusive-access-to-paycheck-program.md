@@ -125,6 +125,17 @@ related:
         width: 1200
         height: 678
         isCached: true
+  - title: "White House is hopeful Biden can travel to Texas as soon as this week"
+    excerpt: "The White House said on Monday it was hopeful that President Joe Biden could travel to Texas as soon as this week to show his support after a deadly winter storm that caused widespread blackouts."
+    publishedDateTime: 2021-02-22T17:39:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-texas-storm/white-house-is-hopeful-biden-can-travel-to-texas-as-soon-as-this-week-idUSW1N2KF005"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2KF005"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2KF005"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "'Climate change is real': Biden administration says Texas power crisis shows U.S. unprepared for extreme weather"
     excerpt: "President Joe Biden has approved federal emergency declarations for Texas, Oklahoma and is processing a request from Louisiana."
     publishedDateTime: 2021-02-19T00:55:00Z
@@ -156,6 +167,6 @@ related:
         height: 600
         isCached: true
 
-secured: "WoeHkBrEff0CSV4oTD6ZY5rwfPRrNMobQV6wiqht2tV2j/iwfj+FUx9x4d5lZCGlEGPEn8mFpXoxrlLUyiEGINkUE9Xo6H76F9TPxuwyvr1/wZqFhmD+ftUCH4WaGSFXWM8P+tJZQyBxZMIJsww9320J6juaIowOHyHSOTC4ykCY5RLKbZAbqwCz7l5THTTsh34WNoccYvN/C6fcVv5f1snhzC15wnw9FvXioAB7H+Nu0O6GGCt4Mrgm+z351XR34OOdR+losJc1ZnYKwp1DQnxyfOWzqHWqpdbcE9KIfyYmWrqRMZtxPBHcDrOOdhvtHlxg02C8986f5n+S/0PPv6tj+PGrJGN/KES7LeQNvvo=;/Yb0pqi0NkTzysxt4S+JWA=="
+secured: "qGPJCFOqtzBiq5KoR+gJl3OIFv1a8HQKfJ3uUmLwfSNHfP/mZhSXGuXetxItxaA8luiZLRO/sGq8qZU/TABCu0evCcf2dFWl+P+0zRSAboxpX+fqdyKZakl402jtMNXbjg3dD0bBJ7Zm4Da1iFdOEjeJn2/lzo5G9VhGQ0pDymRSbUfmnP/MBp7s0UmnUVIsaRNnMFqObgFsSq0oA9IcEbI501lwTTIew3eO4VVhBCONPO/Qdy27d11FMDRI7YvmM0c1TIk7bxdcf/eylJrqP5ASfjmj+PuxnoG0Cnt9dfytKJneG2Xgtsoki4Yshb7SmxTAfvusqQC8h+7KiAOQcqRTSdcXKM+wb5uD2TsZhdsSqzU2a90k308V4aDLmn4pV7hqxZnhv1bFOeBgbnA4lxUaCPlQwV+xMW9yrq/pXaiOI1awXnasn9tjO3fZpuX47uW6BYBIH72UHIob4u4zq2QEIm/NAIE2cwKYkQTuDj39MuUSM/Sl3IAw5n4fJmkPMpDmhUHQ9Kt9HK5IRHLfFg==;bC0AF5kUk0PG6jxpalYcCw=="
 ---
 

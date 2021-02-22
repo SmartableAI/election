@@ -2,25 +2,25 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-02-17-white-house-to-freeze-out-mohammed-bin-salman-saudi-prince-who-was-close-to-trump-white-house.md",
-      "title": "White House to freeze out Mohammed bin Salman, Saudi prince who was close to Trump White House",
-      "excerpt": "President Joe Biden is recalibrating U.S. diplomatic relations with Saudi Arabia, deploying a new approach that includes sidestepping Crown Prince Mohammed bin Salman, who had a close relationship with the Trump administration.",
+      "path": "_news/2021-02-17-kamala-harris-pressed-on-school-reopenings-says-teachers-should-be-a-priority-in-receiving-covid-vacccine.md",
+      "title": "Kamala Harris pressed on school reopenings, says teachers 'should be a priority' in receiving COVID vacccine",
+      "excerpt": "Vice President Kamala Harris said the Biden administration believes teachers \"should be a priority\" in receiving the coronavirus vaccine as parents and educators clash over whether it is safe for teachers to return to the classroom without inoculations against COVID-19.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/naxOnBoym0M/white-house-to-recalibrate-our-relationship-with-saudi-arabia-as-russia-strengthens-ties",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/naxOnBoym0M/white-house-to-recalibrate-our-relationship-with-saudi-arabia-as-russia-strengthens-ties",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7uVaVOHoVtc/kamala-harris-teachers-priority-coronavirus-vaccines",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7uVaVOHoVtc/kamala-harris-teachers-priority-coronavirus-vaccines",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 163,
+      "heat": 186,
       "tags": null,
       "images": [
         {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/12705019-b2cd-4cc2-8acd-3a31ff1520a0/4af5124e-0b28-456d-a628-83df78e1dc43/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -28,9 +28,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/white-house-to-recalibrate-our-relationship-with-saudi-arabia-as-russia-strengthens-ties.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-to-recalibrate-our-relationship-with-saudi-arabia-as-russia-strengthens-ties.amp",
-      "publishedDateTime": "2021-02-16T18:07:48-08:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-teachers-priority-coronavirus-vaccines.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-teachers-priority-coronavirus-vaccines.amp",
+      "publishedDateTime": "2021-02-17T06:08:31-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -54,7 +54,8 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
+        "Republican Voice",
+        "Kamala Harris"
       ]
     },
     {

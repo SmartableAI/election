@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/22/politics/supreme-court-trump-taxe
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/22/politics/supreme-court-trump-taxes-vance/index.html"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "What the Supreme Court ruling means for Manhattan DA's Trump criminal investigation "
+    excerpt: "After 17 months and two trips to the US Supreme Court, the Manhattan district attorney's criminal investigation into former President Donald Trump's business has received a significant boost with investigators now able to pour over Trump's tax returns and financial records.\n    \n"
+    publishedDateTime: 2021-02-22T20:16:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UdNZ51ZMpls/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/22/politics/supreme-court-manhattan-da-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/22/politics/supreme-court-manhattan-da-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210213202046-trump-impeachment-vote-acquittal-day-5-wrap-trial-two-nobles-nr-vpx-00021619-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Manhattan district attorney subpoenas NYC property tax agency in Trump Organization probe "
     excerpt: "The Manhattan District Attorney's Office has subpoenaed the New York City Tax Commission as part of a criminal investigation into former President Donald Trump's real estate company, according to a spokesperson for the New York City mayor.\n    \n"
     publishedDateTime: 2021-02-20T20:25:15Z

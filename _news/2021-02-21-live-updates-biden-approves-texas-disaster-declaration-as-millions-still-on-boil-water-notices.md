@@ -206,6 +206,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "House GOP tell Biden ‘far-left’ immigration agenda is creating border crisis: ‘gravely irresponsible’"
+    excerpt: "EXCLUSIVE: House Republicans are accusing President Biden of pursuing a \"far-left\" agenda on immigration -- an agenda they say is \"gravely irresponsible\" and is creating a new crisis at the border."
+    publishedDateTime: 2021-02-22T20:29:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/t1HVGocgP7I/house-republicans-biden-far-left-immigration"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 140
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/01dff8bb-e93f-43ba-85fe-81b4bc0ca280/867bb0d7-3ba1-45ec-afe5-a18e95e9180b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "8cO5l8WPPPQC5NPg3wA8N+YBDlklm/OKNZRidaTxSCzQFtPxur3PzHTV21GcbWBmSHhEyrtGwvpqIsdk5BK3zo1x6zH9WiOzEPThqeW0o16Yhe012B/gBdkJ8qq6W9OghOF5wyimTxSxYHc9NrtiGs7/KS80bu2B3YmbEALV2+cnK9o0ujvzT9rSo2CJIAuFqfurTqAgjoMs8sPXF+EsijKyP4S9IZMyG2PrublZJK1527pIVr0Im6/UmkTWoxT5GZsYXuAn+zto8TY+fdCKkyMW4/oV/8ZLe9Bj2TY3j7dc5C+LNCB5OWRE+IlxUeZG/JFtwBm+ByRTJc478x9uYd2vwqXR4VWBKPl2cjAwrqzCHJLnDzyXDpvcp1GA9oj4UaOp1/NLwARRLw0wBnG+KwrP9BmrB830wDIf8RK32AncE7VPrdtQCaxwISQDYNCDEhmgayAMuHg9/GAYcRUt+QnUgpe9VfpYxc5ndg9mec23RA/+PPfxWvqxSHHewG/As25Hmr2j1FxOUyYYpVChjQ==;AvEgCXgkobPzARdfx8VwBA=="
 ---

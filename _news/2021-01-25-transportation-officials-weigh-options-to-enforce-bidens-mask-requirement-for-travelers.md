@@ -271,6 +271,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration rolls back Trump-era citizenship civics test"
+    excerpt: "The Biden administration is rolling back the controversial Trump-era naturalization civics test, reverting to a prior version of the exam, according to a policy alert published Monday.\n    \n"
+    publishedDateTime: 2021-02-22T19:39:18Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8fTn9PhUfis/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/22/politics/biden-roll-back-trump-citizenship-test/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/22/politics/biden-roll-back-trump-citizenship-test/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201207182000-immigrant-citizenship-exam-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden puts Trump's climate and environmental rollbacks in his crosshairs"
     excerpt: "Among incoming President Joe Biden's Day One priorities: Begin rolling back climate and environmental policies of the Trump administration, many of which were rollbacks of Obama-era or earlier rules.\n    \n"
     publishedDateTime: 2021-01-20T10:07:12Z

@@ -189,6 +189,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "House GOP tell Biden ‘far-left’ immigration agenda is creating border crisis: ‘gravely irresponsible’"
+    excerpt: "EXCLUSIVE: House Republicans are accusing President Biden of pursuing a \"far-left\" agenda on immigration -- an agenda they say is \"gravely irresponsible\" and is creating a new crisis at the border."
+    publishedDateTime: 2021-02-22T20:29:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/t1HVGocgP7I/house-republicans-biden-far-left-immigration"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 140
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/01dff8bb-e93f-43ba-85fe-81b4bc0ca280/867bb0d7-3ba1-45ec-afe5-a18e95e9180b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "LIVE UPDATES: Biden approves Texas disaster declaration as millions still on boil-water notices"
     excerpt: "President Joe Biden announced Saturday that he had declared a major disaster in Texas and ordered federal assistance to aid in local and state recovery efforts as millions of residents suffer the effect of severe winter storms."
     publishedDateTime: 2021-02-20T16:06:00Z

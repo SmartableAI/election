@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden set to honor the half million US lives lost to coronavirus"
+    excerpt: "President Joe Biden is slated to deliver remarks participate in a candle-lighting ceremony Monday evening at the White House as the country approaches the grim milestone of 500,000 American lives lost to coronavirus.\n    \n"
+    publishedDateTime: 2021-02-22T20:56:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FUQhHT-lgwA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/22/politics/biden-coronavirus-ceremony-monday/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/22/politics/biden-coronavirus-ceremony-monday/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210119220812-biden-harris-filipovic-oped-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "How Biden's massive Covid relief bill was put on a glide path to passage"
     excerpt: "It's not supposed to look this easy.\n    \n"
     publishedDateTime: 2021-02-20T01:42:46Z

@@ -63,6 +63,20 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "'Reasonable' Republicans are just as extreme as Trump and Marjorie Taylor Greene"
+    excerpt: "Don't be fooled: in terms of policy, there's not much difference between the \"moderate\" GOP and people like Trump and Rep. Marjorie Taylor Greene."
+    publishedDateTime: 2021-02-22T19:18:00Z
+    webUrl: "https://www.businessinsider.com/gop-marjorie-taylor-greene-fringe-donald-trump-reasonable-republicans-congress-2021-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 100
+    images:
+      - url: "https://i.insider.com/603013df623bd30012bcc45b?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "uq0X4f7KJQttxv9X+uvGxKrvxMWBYJvicb29ubzlW2QHx2oTGhuSwu00kUSCpX22QsxdTEimpg9ohC/m+DwMHcLEfhUR2lUt4hLwtapdRdMB+q8HuXSaOKR+MaDgJIpMhZLffNIjGaNh1xYvwLI1Z9ebmvdpWilf2XqDtTD5uQBEzRne99iXRawrZttYnxpfj183FVLclR0E1/cWcTre6Snw+RLpcBTfsVZ/4Dy56VH9IR2IIo5ALWL2KrRtjCBaWHOyp/e1TYEEQV9o8BxFY6+LVWrA1tzJJX0u0x4jF9yxDoDSo98r1FyJT7O94/VxT8tSQzCOYOwsuqfshQIKdchEaRQRAroofgfYX6OXfNY=;dpe/natLiagG3ezTqcu73Q=="
 ---

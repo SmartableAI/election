@@ -1004,9 +1004,9 @@ related:
         height: 630
         isCached: true
   - title: "SCOTUS denies Trump bid to shield tax returns"
-    excerpt: "Top News SCOTUS denies Trump bid to shield tax returns. Posted . Donald Trump suffered a major setback on Monday in his long quest to conceal details of his finances as the U.S. S"
+    excerpt: "Politics SCOTUS denies Trump bid to shield tax returns. Posted . Donald Trump suffered a major setback on Monday in his long quest to conceal details of his finances as the U.S. S"
     publishedDateTime: 2021-02-22T18:35:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVE0QDN63"
+    webUrl: "https://www.reuters.com/video/watch/scotus-denies-trump-bid-to-shield-tax-re-id726281126?chan=6g5ka85"
     type: article
     provider:
       name: Reuters

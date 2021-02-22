@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-planning-on-visiting-texas-we
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-planning-on-visiting-texas-weather-crisis.amp"
 type: article
 quality: 175
-heat: 395
+heat: 415
 published: true
 
 provider:
@@ -186,6 +186,20 @@ related:
     quality: 142
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/29ad43be-ef82-4891-814c-c63e8428c1be/341602a7-fa65-4e5f-aed0-8d066037eff0/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "House GOP tell Biden ‘far-left’ immigration agenda is creating border crisis: ‘gravely irresponsible’"
+    excerpt: "EXCLUSIVE: House Republicans are accusing President Biden of pursuing a \"far-left\" agenda on immigration -- an agenda they say is \"gravely irresponsible\" and is creating a new crisis at the border."
+    publishedDateTime: 2021-02-22T20:29:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/t1HVGocgP7I/house-republicans-biden-far-left-immigration"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 140
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/01dff8bb-e93f-43ba-85fe-81b4bc0ca280/867bb0d7-3ba1-45ec-afe5-a18e95e9180b/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
