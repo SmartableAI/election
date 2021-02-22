@@ -29,12 +29,92 @@ images:
     isCached: true
 
 related:
-  - title: "Biden: Governors and mayors need $350 billion to fight COVID"
-    excerpt: "President Joe Biden has met with a bipartisan group of governors and mayors at the White House as part of his push to give financial relief from the coronavirus pandemic to state and local governments"
-    publishedDateTime: 2021-02-12T08:11:00Z
-    webUrl: "https://www.washingtonpost.com/business/democrats-pushing-bidens-covid-19-bill-through-house-panels/2021/02/11/021a9cf8-6ce0-11eb-a66e-e27046e9e898_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/business/democrats-pushing-bidens-covid-19-bill-through-house-panels/2021/02/11/021a9cf8-6ce0-11eb-a66e-e27046e9e898_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/democrats-pushing-bidens-covid-19-bill-through-house-panels/2021/02/11/021a9cf8-6ce0-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+  - title: "Biden to mark Covid death milestone with candle ceremony at White House – live updates"
+    excerpt: "President will address nation this evening on the American lives lost to the pandemic"
+    publishedDateTime: 2021-02-22T09:40:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates?page=with:block-603385838f088c613adceff6"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 127
+    images:
+      - url: "https://i.guim.co.uk/img/media/ecd26e64a62e2a874f9252d229d29e4dff42152c/0_0_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a3043c626a971a82677c75ca62086185"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Biden to meet Democratic lawmakers on COVID-19 aid: White House"
+    excerpt: "U.S. President Joe Biden will on Wednesday meet congressional Democrats preparing to advance his $1.9 trillion COVID-19 relief plan despite Republican pushback."
+    publishedDateTime: 2021-02-03T19:29:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-biden/biden-to-meet-democratic-lawmakers-on-covid-19-aid-white-house-idUSKBN2A31Z4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A31Z4"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A31Z4"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210203&t=2&i=1550212723&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1219E"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Biden to meet with Democratic lawmakers on COVID-19 aid: White House"
+    excerpt: "U.S. President Joe Biden will meet with fellow Democrats in Congress on Wednesday to discuss ongoing efforts to pass COVID-19 relief legislations, the White House said in a statement."
+    publishedDateTime: 2021-02-03T18:55:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-biden-idUSKBN2A31Z4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A31Z4"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A31Z4"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210203&t=2&i=1550196440&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH121LW"
+        width: 832
+        height: 545
+        isCached: true
+  - title: "Biden to meet House Democrats to push Covid relief plans – live updates"
+    excerpt: "President will meet leaders and committee chairs ahead of monthly jobs report release"
+    publishedDateTime: 2021-02-05T10:51:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/05/joe-biden-donald-trump-impeachment-covid-coronavirus-marjorie-taylor-greene-live-updates?page=with:block-601d17f68f08ab4f3b771e53"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/05/joe-biden-donald-trump-impeachment-covid-coronavirus-marjorie-taylor-greene-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/05/joe-biden-donald-trump-impeachment-covid-coronavirus-marjorie-taylor-greene-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/c8c38a259def9f99b805bdbec04b95e9b5731e2c/0_53_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=10eae5c70c9474a7d00623a441fbe2f3"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Activists fear Biden's commitment to higher minimum wage"
+    excerpt: "President Joe Biden campaigned on raising the national minimum wage to $15 per hour and attached a proposal doing just that to the $1.9 trillion coronavirus pandemic relief bill"
+    publishedDateTime: 2021-02-15T14:05:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/activists-fear-bidens-commitment-higher-minimum-wage-75906176"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/activists-fear-bidens-commitment-higher-minimum-wage-75906176"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/activists-fear-bidens-commitment-higher-minimum-wage-75906176"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_d81b3879bfd9430a9155b21ede88112c_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden faces questions about commitment to minimum wage hike"
+    excerpt: "President Joe Biden campaigned on raising the national minimum wage to $15 per hour and attached a proposal doing just that to the $1.9 trillion coronavirus pandemic relief bill"
+    publishedDateTime: 2021-02-15T13:37:00Z
+    webUrl: "https://www.washingtonpost.com/business/activists-fear-bidens-commitment-to-higher-minimum-wage/2021/02/15/ea27db0a-6f92-11eb-8651-6d3091eac63f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/business/activists-fear-bidens-commitment-to-higher-minimum-wage/2021/02/15/ea27db0a-6f92-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/activists-fear-bidens-commitment-to-higher-minimum-wage/2021/02/15/ea27db0a-6f92-11eb-8651-6d3091eac63f_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
@@ -45,69 +125,101 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Biden: Governors, mayors need $350 billion to fight COVID-19"
-    excerpt: "President Joe Biden has met with a bipartisan group of governors and mayors at the White House as part of his push to give financial relief from the coronavirus pandemic to state and local governments"
-    publishedDateTime: 2021-02-13T01:29:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/biden-governors-mayors-350-billion-fight-covid-75855930"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-governors-mayors-350-billion-fight-covid-75855930"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-governors-mayors-350-billion-fight-covid-75855930"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_74dcf88107d44ef7a13bec4135641fe7_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Biden to discuss pandemic, economy and China in Friday G7 meeting"
-    excerpt: "President Joe Biden will hold his first event with leaders from the Group of Seven nations in a virtual meeting on Friday to discuss the coronavirus pandemic, the world economy and dealing with China as a group,"
-    publishedDateTime: 2021-02-15T00:57:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-g7-idUSKBN2AE0T6"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AE0T6"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AE0T6"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210214&t=2&i=1551529725&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1D0OH"
-        width: 800
-        height: 545
-        isCached: true
-  - title: "Biden to hold virtual event with G7 leaders on Friday: White House"
-    excerpt: "President Joe Biden will hold his first event with leaders from the Group of Seven nations on Friday in a virtual meeting to discuss the coronavirus pandemic and the world economy, the White House said on Sunday."
-    publishedDateTime: 2021-02-15T04:02:00Z
-    webUrl: "https://www.reuters.com/article/worldNews/idUSKBN2AE0T6"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AE0T6"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AE0T6"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210214&t=2&i=1551529725&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1D0OH"
-        width: 800
-        height: 545
-        isCached: true
-  - title: "Biden heads out of D.C. for town hall and first major presidential trip"
-    excerpt: "President Biden took his message to Milwaukee, attempting to move past former president Donald Trump’s impeachment and sell his own agenda. But even as he tries a return to normalcy, Biden’s events are heavily restricted by the pandemic."
-    publishedDateTime: 2021-02-17T14:12:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-milwaukee-town-hall/2021/02/16/e9113236-7067-11eb-85fa-e0ccb3660358_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-milwaukee-town-hall/2021/02/16/e9113236-7067-11eb-85fa-e0ccb3660358_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-milwaukee-town-hall/2021/02/16/e9113236-7067-11eb-85fa-e0ccb3660358_story.html?outputType=amp"
+  - title: "On Parkland anniversary, Biden calls for tougher gun laws"
+    excerpt: "Sorrow is reverberating across the country Sunday as Americans joined a Florida community in remembering the 17 lives lost three years ago in the Parkland school shooting massacre"
+    publishedDateTime: 2021-02-15T08:25:00Z
+    webUrl: "https://www.washingtonpost.com/national/on-parkland-anniversary-biden-calls-for-tougher-gun-laws/2021/02/14/73d7f200-6f3d-11eb-8651-6d3091eac63f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/on-parkland-anniversary-biden-calls-for-tougher-gun-laws/2021/02/14/73d7f200-6f3d-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/on-parkland-anniversary-biden-calls-for-tougher-gun-laws/2021/02/14/73d7f200-6f3d-11eb-8651-6d3091eac63f_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FVFCOEDQVAI6XOFJXFDHKEHQ7Y.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Biden faces questions about commitment to minimum wage hike"
+    excerpt: "President Joe Biden campaigned on raising the national minimum wage to $15 per hour and attached a proposal doing just that to the $1.9 trillion coronavirus pandemic relief bill"
+    publishedDateTime: 2021-02-16T07:05:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/activists-fear-bidens-commitment-higher-minimum-wage-75903511"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/activists-fear-bidens-commitment-higher-minimum-wage-75903511"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/activists-fear-bidens-commitment-higher-minimum-wage-75903511"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_d81b3879bfd9430a9155b21ede88112c_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Netanyahu acknowledges differences with Biden, but confident he'll call"
+    excerpt: "Israeli Prime Minister Benjamin Netanyahu on Monday acknowledged differences with U.S. President Joe Biden over Iranian and Palestinian issues, but said they enjoy a \"very strong\" working relationship."
+    publishedDateTime: 2021-02-16T01:30:00Z
+    webUrl: "https://www.reuters.com/article/us-israel-usa/netanyahu-acknowledges-differences-with-biden-but-confident-hell-call-idUSKBN2AF1US"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AF1US"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AF1US"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210215&t=2&i=1551630976&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1E13E"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Biden describes life at the White House: 'A gilded cage'"
+    excerpt: "President Joe Biden says he’s still getting used to the trappings of the office four weeks into his presidency"
+    publishedDateTime: 2021-02-17T13:21:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-describes-life-white-house-gilded-cage-75938356"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-describes-life-white-house-gilded-cage-75938356"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-describes-life-white-house-gilded-cage-75938356"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_625e5d532d0b43f4a3d1921df7887f2b_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "White House says Biden believes Nord Stream 2 bad deal for Europe"
+    excerpt: "U.S. President Joe Biden the Nord Stream 2 pipeline is a bad deal for Europe and will make determine whether sanctions are in order to stop the project from Russia to Germany, White House spokeswoman Jen Psaki told reporters on Tuesday."
+    publishedDateTime: 2021-02-16T22:40:00Z
+    webUrl: "https://www.reuters.com/article/us-nordstream-usa-biden-idUSKBN2AG29A"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AG29A"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AG29A"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210216&t=2&i=1551744910&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1F1E2"
+        width: 806
+        height: 545
+        isCached: true
+  - title: "White House says Netanyahu call will be Biden's first to region"
+    excerpt: "White House press secretary Jen Psaki said Tuesday that President Biden will speak with Israeli Prime Minister Benjamin Netanyahu “soon” and that the phone call would be the new president’s first to a leader in the Middle East ."
+    publishedDateTime: 2021-02-16T18:39:00Z
+    webUrl: "https://thehill.com/policy/national-security/539018-white-house-says-netanyahu-call-will-be-bidens-first-to-region"
+    ampWebUrl: "https://thehill.com/policy/national-security/539018-white-house-says-netanyahu-call-will-be-bidens-first-to-region?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/national-security/539018-white-house-says-netanyahu-call-will-be-bidens-first-to-region?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/netanyahubenjamin_05252020getty.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Biden backs studying reparations as Congress considers bill"
     excerpt: "President Joe Biden's White House is giving its support to studying reparations for Black Americans, boosting Democratic lawmakers who are renewing efforts to create a commission on the issue amid the stark racial disparities highlighted by the COVID-19 pandemic."
@@ -124,6 +236,54 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_672fa3c86d684a248ccc43634309f88a_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Biden describes new life in the White House as being in a 'gilded cage'"
+    excerpt: "President Joe Biden, after one month of living in perhaps the most exclusive residence in the country, says staying in the White House is like being in a \"gilded cage.\" He discussed details of his new daily life inside the White House during a CNN town hall in Milwaukee,"
+    publishedDateTime: 2021-02-18T00:51:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-describes-life-white-house-gilded-cage/story?id=75949479"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-describes-life-white-house-gilded-cage/story?id=75949479"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-describes-life-white-house-gilded-cage/story?id=75949479"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/joe-jill-biden-white-house-gty-jc-210217_1613586297763_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "White House pushes back Biden trip to Michigan because of weather"
+    excerpt: "President Joe Biden will travel to Michigan on Friday to visit a Pfizer Inc plant, postponing the trip by a day because of inclement weather, a White House official said."
+    publishedDateTime: 2021-02-18T06:40:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-pfizer-idUSKBN2AI052"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AI052"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AI052"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210218&t=2&i=1551928057&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1H01Y"
+        width: 782
+        height: 545
+        isCached: true
+  - title: "Watch live: Biden speaks at Munich Security Conference"
+    excerpt: "President Biden is set to deliver remarks to the Munich Security Conference Friday morning.The president will address the importance of transatlantic alliances virtually from the East Room of the White House."
+    publishedDateTime: 2021-02-19T14:36:00Z
+    webUrl: "https://thehill.com/video/administration/539549-watch-live-biden-speaks-at-munich-security-conference"
+    ampWebUrl: "https://thehill.com/video/administration/539549-watch-live-biden-speaks-at-munich-security-conference?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/administration/539549-watch-live-biden-speaks-at-munich-security-conference?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/gettyimages-1231087245.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "At Biden's G7 debut, leaders look beyond COVID to trade and China"
     excerpt: "Group of Seven leaders, who control a little under half of the world's economy, on Friday sought to look beyond the COVID-19 pandemic towards rebuilding their battered economies with free trade and to countering China's \"non-market oriented\" policies."
@@ -157,76 +317,297 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Biden presses for $1.9 trillion COVID relief plan with governors, mayors"
-    excerpt: "U.S. President Joe Biden pushed for the first major legislative achievement of his term on Friday, turning to a bipartisan group of local officials for help on his $1.9 trillion coronavirus relief plan."
-    publishedDateTime: 2021-02-12T22:35:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-idINKBN2AC10D"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2AC10D"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2AC10D"
+  - title: "Extreme weather testing Biden's disaster management skills"
+    excerpt: "The extreme winter weather that left residents of Texas and other Southern states shivering through an unseasonal cold spell is testing President Joe Biden's disaster management skills"
+    publishedDateTime: 2021-02-20T07:51:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/extreme-weather-testing-bidens-disaster-management-skills-76013438"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/extreme-weather-testing-bidens-disaster-management-skills-76013438"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/extreme-weather-testing-bidens-disaster-management-skills-76013438"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 124
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210212&t=2&i=1551340103&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1B0Q3"
-        width: 811
-        height: 545
+      - url: "https://s.abcnews.com/images/Politics/WireAP_bd8d39b6c9574abaaeb3520020d053c3_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Biden memo for ICE officers points to fewer deportations and strict oversight"
-    excerpt: "U.S. Immigration and Customs Enforcement officers will need preapproval from a senior manager before trying to deport anyone who is not a recent border crosser, a national security threat or a criminal offender with an aggravated-felony conviction,"
-    publishedDateTime: 2021-02-19T03:25:00Z
-    webUrl: "https://www.washingtonpost.com/national/biden-memo-for-ice-officers-points-to-fewer-deportations/2021/02/18/1d6ca98e-71fd-11eb-a4eb-44012a612cf9_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national/biden-memo-for-ice-officers-points-to-fewer-deportations/2021/02/18/1d6ca98e-71fd-11eb-a4eb-44012a612cf9_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/biden-memo-for-ice-officers-points-to-fewer-deportations/2021/02/18/1d6ca98e-71fd-11eb-a4eb-44012a612cf9_story.html?outputType=amp"
+  - title: "Biden to mourn 500,000 dead while balancing grief and hope"
+    excerpt: "Confronting the grim milestone directly and publicly, Biden is trying to strike a balance between gravity and hope, while Donald Trump generally avoided constructs of collective grief for the deaths on his watch."
+    publishedDateTime: 2021-02-22T21:24:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/biden-mourn-500000-dead-balancing-grief-hope-76051346"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/biden-mourn-500000-dead-balancing-grief-hope-76051346"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/biden-mourn-500000-dead-balancing-grief-hope-76051346"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_6fc8752cd6474034b1b29bc1f52e06dd_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Centrist Democrats flex muscles, create headaches for Biden"
+    excerpt: "Moderate Democrats are demonstrating significant political clout in President Joe Biden’s Washington, thanks to a 50-50 split in the Senate that leaves little room for error on tough votes"
+    publishedDateTime: 2021-02-22T21:42:00Z
+    webUrl: "https://www.washingtonpost.com/politics/centrist-democrats-flex-muscles-create-headaches-for-biden/2021/02/22/db54c376-7556-11eb-9489-8f7dacd51e75_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/centrist-democrats-flex-muscles-create-headaches-for-biden/2021/02/22/db54c376-7556-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/centrist-democrats-flex-muscles-create-headaches-for-biden/2021/02/22/db54c376-7556-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Texas storm: Biden to declare major disaster to secure federal aid – live"
+    excerpt: "Biden says declaration could be signed this afternoon and would open up aid for immediate and long-term recovery efforts – follow all the latest news"
+    publishedDateTime: 2021-02-19T23:18:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/19/texas-storm-latest-news-today-power-outages-ted-cruz-cancun-trip-backlash?page=with:block-6030378e8f08c3cb92a5ccc8"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/19/texas-storm-latest-news-today-power-outages-ted-cruz-cancun-trip-backlash"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/19/texas-storm-latest-news-today-power-outages-ted-cruz-cancun-trip-backlash"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 124
+    images:
+      - url: "https://i.guim.co.uk/img/media/86372474d992a6216b8c4c86e110fb68dda8bcd3/0_0_3000_1801/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2e7e8d27534d07dd3ac81b47cc714f57"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "UPDATE 1-Biden pushes for pandemic relief in first official trip as president"
+    excerpt: "President Joe Biden vowed during a prime-time televised town hall on Tuesday to accelerate the country's vaccination program and said teachers should be moved closer to the front of the line for inoculations to allow more schools to reopen."
+    publishedDateTime: 2021-02-17T02:56:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden/update-1-biden-pushes-for-pandemic-relief-in-first-official-trip-as-president-idUSL1N2KM2OI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AG13B"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AG13B"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
     quality: 122
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JZA3FKDADAI6XL56TII2CJ6RIY.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210217&t=2&i=1551800579&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1G071"
+        width: 777
+        height: 545
         isCached: true
-  - title: "Biden: Governors and mayors need $350 billion to fight COVID"
-    excerpt: "President Joe Biden met with a bipartisan group of governors and mayors at the White House on Friday as part of his push to give financial relief from the coronavirus pandemic to state and local governments — a clear source of division with Republican lawmakers who view the spending as wasteful."
-    publishedDateTime: 2021-02-12T23:55:00Z
-    webUrl: "https://www.businessinsider.com/biden-governors-and-mayors-need-350-billion-to-fight-covid-2021-2"
-    ampWebUrl: "https://www.businessinsider.com/biden-governors-and-mayors-need-350-billion-to-fight-covid-2021-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-governors-and-mayors-need-350-billion-to-fight-covid-2021-2?amp"
+  - title: "Biden's 1st 100 days live updates: WH offers no timeline for return to normalcy"
+    excerpt: "Biden's trip to Kalamazoo, Michigan, has been rescheduled to Friday. The visit -- in addition to his Tuesday town hall in Milwaukee -- will give Biden an opportunity to make his case for COVID-19 relief to every day Americans since taking office."
+    publishedDateTime: 2021-02-18T07:58:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/joe-biden-white-house-administration/?id=75890872"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/joe-biden-white-house-administration/?id=75890872"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/joe-biden-white-house-administration/?id=75890872"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "Biden to press for $1.9 trillion COVID relief plan with governors, mayors"
-    excerpt: "U.S. President Joe Biden will meet with a bipartisan group of mayors and governors on Friday as he continues to push for approval of a $1.9 trillion coronavirus relief plan to bolster economic growth and help millions of unemployed workers."
-    publishedDateTime: 2021-02-12T23:54:00Z
-    webUrl: "https://www.businessinsider.com/biden-to-press-for-19-trillion-covid-relief-plan-with-governors-mayors-2021-2"
-    ampWebUrl: "https://www.businessinsider.com/biden-to-press-for-19-trillion-covid-relief-plan-with-governors-mayors-2021-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-to-press-for-19-trillion-covid-relief-plan-with-governors-mayors-2021-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 104
-  - title: "The Biden administration is building three new COVID-19 vaccination sites in Texas and two in New York to target socially vulnerable communities"
-    excerpt: "Five new COVID-19 vaccination sites will altogether be able to vaccinate 10,000 people in underserved communities in the US every day."
-    publishedDateTime: 2021-02-11T12:57:00Z
-    webUrl: "https://www.businessinsider.com/joe-biden-administration-five-new-vaccination-sites-new-york-texas-2021-2"
-    ampWebUrl: "https://www.businessinsider.com/joe-biden-administration-five-new-vaccination-sites-new-york-texas-2021-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-biden-administration-five-new-vaccination-sites-new-york-texas-2021-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 88
+      name: ABC
+      domain: abcnews.go.com
+    quality: 121
     images:
-      - url: "https://i.insider.com/6025170367d1e300113c5762?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://s.abcnews.com/images/General/biden100-jen-psaki-solarwinds-04-ap-llr-210217_1613592456209_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
         isCached: true
+  - title: "Biden's 1st 100 days live updates: House expected to pass relief bill next week"
+    excerpt: "House Democrats release text on massive relief package This is Day 33 of the administration of President Joe Biden and Vice President Kamala Harris. Biden is making a surprise visit to meet with his longtime Senate colleague Bob Dole in Washington,"
+    publishedDateTime: 2021-02-21T05:15:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/joe-biden-white-house-administration/?id=75890872"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/joe-biden-white-house-administration/?id=75890872"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/joe-biden-white-house-administration/?id=75890872"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 121
+    images:
+      - url: "https://s.abcnews.com/images/Politics/sotu-05-gty-jc-190205_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Biden's 1st 100 days live updates: House proceeding with COVID relief without GOP"
+    excerpt: "Wyo., is keeping her place in House GOP leadership after Republicans voted 145-61 to keep her in the No. 3 position, despite her vote to impeach former President Donald Trump last month.  Trump's most ardent supporters in the House waged a weeks-long campaign to oust Cheney from her post,"
+    publishedDateTime: 2021-02-04T01:57:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/biden-100-days-president-white-house/?id=75597849"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/biden-100-days-president-white-house/?id=75597849"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/biden-100-days-president-white-house/?id=75597849"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 120
+    images:
+      - url: "https://s.abcnews.com/images/Politics/us-capitol-dome-reut_hpMain_20210203-184644_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Garland confirmation hearing live updates: Biden's AG pick faces Senate questions"
+    excerpt: "Live updates of Judge Merrick Garland's confirmation hearing to be attorney general before the Senate Judiciary Committee."
+    publishedDateTime: 2021-02-22T15:17:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/joe-biden-kamala-harris-white-house-administration/?id=76030510"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/joe-biden-kamala-harris-white-house-administration/?id=76030510"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/joe-biden-kamala-harris-white-house-administration/?id=76030510"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 120
+    images:
+      - url: "https://s.abcnews.com/images/Politics/merrick-garland3-rt-ml-210222_1614006623101_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Biden's 1st 100 days live updates: 9/11-type commission to investigate insurrection"
+    excerpt: "U.S. Capitol. \"Now, as always, security is the order of the day: the security of our country, the security of our Capitol which is the temple of our democracy, and the security of our Members,\" she wrote in a letter to her Democratic colleagues."
+    publishedDateTime: 2021-02-16T00:34:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/joe-biden-white-house-administration/?id=75890872"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/joe-biden-white-house-administration/?id=75890872"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/joe-biden-white-house-administration/?id=75890872"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 119
+    images:
+      - url: "https://s.abcnews.com/images/Politics/nancy-pelosi-gty-jef-210215_1613426276790_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Biden will ask DOJ to review his authority to cancel student loan debt - White House"
+    excerpt: "President Joe Biden will ask the Department of Justice to review his legal authority to cancel student loan debt, the White House said on Wednesday, adding the president does not favor $50,000 in student loan relief without limitation."
+    publishedDateTime: 2021-02-18T00:20:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-doj-student-loan-idUSKBN2AH2KB"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AH2KB"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AH2KB"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 118
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210217&t=2&i=1551916537&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1G1JD"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Biden administration pledges to expand vaccinations as winter storms cause delays – live"
+    excerpt: "CDC warns of ‘widespread delays’ in vaccine deliveries due to weather"
+    publishedDateTime: 2021-02-18T00:36:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/17/biden-harris-coronavirus-teachers-vaccine-us-politics-live-latest?page=with:block-602d76908f08bdbed2839bbe"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/17/biden-harris-coronavirus-teachers-vaccine-us-politics-live-latest"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/17/biden-harris-coronavirus-teachers-vaccine-us-politics-live-latest"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 116
+    images:
+      - url: "https://i.guim.co.uk/img/media/397e9c81d30a0858d4af27de891e6279de7dadc8/0_0_6720_4032/master/6720.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4a0ac585526f1b234ccafd9a8a69d93b"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Biden administration pledges to expand vaccinations as winter storms cause delays – as it happened"
+    excerpt: "CDC warns of ‘widespread delays’ in vaccine deliveries due to weather"
+    publishedDateTime: 2021-02-18T01:13:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/17/biden-harris-coronavirus-teachers-vaccine-us-politics-live-latest?page=with:block-602d81068f08ad21ea5fe5af"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/17/biden-harris-coronavirus-teachers-vaccine-us-politics-live-latest"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/17/biden-harris-coronavirus-teachers-vaccine-us-politics-live-latest"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 111
+    images:
+      - url: "https://i.guim.co.uk/img/media/397e9c81d30a0858d4af27de891e6279de7dadc8/0_0_6720_4032/master/6720.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4a0ac585526f1b234ccafd9a8a69d93b"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Biden's 1st 100 days live updates: Biden using 1st trip as president to make case for COVID relief plan"
+    excerpt: "Biden is visiting Wisconsin on Tuesday and Michigan on Thursday. Coronavirus and the economy This is Day 28 of the administration of President Joe Biden and Vice President Kamala Harris. Biden traveled to Milwaukee Tuesday evening and is participating in a televised CNN town hall where he's answering questions from Americans."
+    publishedDateTime: 2021-02-17T02:44:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/joe-biden-white-house-administration/?id=75890872"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/joe-biden-white-house-administration/?id=75890872"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/joe-biden-white-house-administration/?id=75890872"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 109
+    images:
+      - url: "https://s.abcnews.com/images/Politics/biden-town-hall-milwaukee-ge_hpMain_20210216-213546_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Pres. Biden urging Congress for stricter gun ..."
+    excerpt: "Watch \"Pres. Biden urging Congress for stricter gun laws as Sunday marks 3 years since the deadly mass shooting in Parkland, Florida\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN,"
+    publishedDateTime: 2021-02-15T22:47:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210215234020-pres-biden-urging-congress-for-stricter-gun-laws-as-sunday-marks-3-years-since-the-deadly-mass-shooting-in-parkland-florida/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/2014/10/24/81f260db-0e27-4cf7-83ac-a190dca0b384/slatedvr600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Biden extends ban on home foreclosures"
+    excerpt: "Watch \"Biden extends ban on home foreclosures; White House says move will help over 10 million\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-02-17T12:17:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210217120807-biden-extends-ban-on-home-foreclosures-white-house-says-move-will-help-over-10-million/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/2014/10/24/81f260db-0e27-4cf7-83ac-a190dca0b384/slatedvr600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "At vaccine plant, Biden hopes for year end normalcy"
+    excerpt: "President Joe Biden toured a state-of-the-art coronavirus vaccine plant Friday and said while he can't predict when the crisis will end, he's optimistic the nation will approach 'normalcy' by the end of the year if Americans get their vaccines."
+    publishedDateTime: 2021-02-20T00:00:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/02/19/vaccine-plant-biden-hopes-year-end-normalcy/4516298001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/b6d1f09f-56ee-4cd0-aeef-f93d71dc0904_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Watch Live: Biden commemorates 500,000 U.S. lives lost to COVID-19"
+    excerpt: "With the U.S. crossing the threshold of 500,000 deaths from COVID-19, President Joe Biden is delivering brief remarks on \"the lives lost to COVID-19\" at 6 p.m. ET Monday at the White House. No other country has lost more lives to the yearlong pandemic than the U."
+    publishedDateTime: 2021-02-22T21:49:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-500000-covid-19-deaths-watch-live-stream-today-2021-02-22/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/02/22/171a99a9-7ead-48f8-b357-64a89f8152a6/thumbnail/1200x630g2/29cc55402f3bb8b13edd4ad9c11ed0dd/gettyimages-1231325995.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "White House is hopeful Biden can travel to Texas as soon as this week"
+    excerpt: "The White House said on Monday it was hopeful that President Joe Biden could travel to Texas as soon as this week to show his support after a deadly winter storm that caused widespread blackouts."
+    publishedDateTime: 2021-02-22T17:39:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-texas-storm/white-house-is-hopeful-biden-can-travel-to-texas-as-soon-as-this-week-idUSW1N2KF005"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2KF005"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2KF005"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
 
 secured: "SdfAScS9vvPJhg5+IEHpDcD4rkeBVuOhkDhjGae3Rqb9UUDz5evCgEDaIoEgY9JRqTaDFt5tNa4xo8Ddxx9WyAz9rCmjs+OGjekQ0PxH15LXO1ym/+TmnhJtvZag3olCpwKw9imrBpevIic1iCENAkJs63DKOEhNciPpu75sBTmJ6IqlGugkNU8n9x0myu93SgJ5Yak3Y/si6y1DaqMTldjI7SVhQpQIMm6lsMdj66OSiansBbuEZwC+9QP8Od3LOhkiNK3Va768bjylnreE3qkQCNY0LSE30FZ6C9gPtfDnw8mHHyNEQj6PlW8H3K+HTZyCm+5OCDTQm/QtJSlfq88N73MMRvHRKkiy771Kj6FaknxFuYmr+yoW3T/LL0LBH4dy6dye9XS0wQE7Cp9Pb9ow0jrcMUj7e9Hyr8fnLG3UnRYHAUfropMPWzYioPWvjhXKf1LYkVQvx39YB/n2GsoJK2R7SEwQ0PPUIOSIRC4yH/qKoBeNphlkssMzThDFlhuy2AGJXyE0pX68OEPS/g==;wqvkHE/djYgy1wvhGVkSFw=="
 ---

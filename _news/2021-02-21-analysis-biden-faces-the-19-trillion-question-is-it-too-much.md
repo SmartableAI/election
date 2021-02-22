@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/21/politics/biden-covid-relief-plan-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/21/politics/biden-covid-relief-plan-economists/index.html"
 type: article
 quality: 175
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "Economist: Biden's $1.9 trillion stimulus plan is not too large"
+    excerpt: "President Joe Biden has rejected criticism that his $1.9 trillion stimulus plan is too large. Economist Paul Krugman discusses with CNN's Richard Quest discuss whether Biden's plan will cause inflation as many critics fear."
+    publishedDateTime: 2021-02-22T21:14:00Z
+    webUrl: "https://www.cnn.com/videos/business/2021/02/22/biden-stimulus-plan-economist-paul-krugman-qmb.cnnbusiness"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2021/02/22/biden-stimulus-plan-economist-paul-krugman-qmb.cnnbusiness"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2021/02/22/biden-stimulus-plan-economist-paul-krugman-qmb.cnnbusiness"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200203184711-paul-krugman-amanpour-democratic-primary-economy-00012322-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "LKYthUzv0A7S8n/rUFLfbE7AtoUomJtQp+enCD1Z9Vb+atiMgMlb7HgusyN1L3+s3BRAqValTQdIyxqKXPevcsS8BQahAebVjIcK0bhKsaRZydlzYI3bccMyWuF/UHrvN8e0e0dYLHBXjtuddJ/Hi3uX6i1mGokpZm2L1nn66s5WrJcf9TrDJtymHqL4fOWnbKb7iVFjM1niroMTRbdANpQUUPQeNorOvbz1V7wYSFIjIqyz+tx2VovRFjI8bjLudMt+wL/Kv1BV7LZh1jg2DxA97mcAc2qhrauOkpqp7AtCKrQW2tAlKJkzkRFmV5N9E29Lag3qZsJyWGNHePgVsNFjCBrtZMhwC/G8PfwGlgI=;qCFe4+PMGSwanjcevdWv4Q=="
 ---

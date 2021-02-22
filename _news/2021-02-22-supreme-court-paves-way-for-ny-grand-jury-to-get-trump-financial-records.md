@@ -45,6 +45,20 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Supreme Court rejects Trump effort to block Manhattan prosecutors from getting tax records"
+    excerpt: "The Supreme Court ruled in July that the subpoena of the then-president's records was constitutional, but their release was held up by an appeal."
+    publishedDateTime: 2021-02-22T21:16:00Z
+    webUrl: "https://www.cbsnews.com/news/supreme-court-allows-release-of-trump-tax-returns/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 95
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/02/08/214bf190-6024-4d7a-a645-d3a47739c90f/thumbnail/1200x630/4dd1e53fb3aa5cc8469f58b7ceb151a3/gettyimages-1230553516.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Bill Gates Wants Trump Back On Facebook: It's 'A Shame'"
     excerpt: "Facebook had indefinitely suspended Trump's account after the former president used it to incite his supporters the day of the bloody Capitol insurrection."
     publishedDateTime: 2021-02-19T03:40:00Z

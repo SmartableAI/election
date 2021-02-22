@@ -47,38 +47,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Biden to meet Democratic lawmakers on COVID-19 aid: White House"
-    excerpt: "U.S. President Joe Biden will on Wednesday meet congressional Democrats preparing to advance his $1.9 trillion COVID-19 relief plan despite Republican pushback."
-    publishedDateTime: 2021-02-03T19:29:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-biden/biden-to-meet-democratic-lawmakers-on-covid-19-aid-white-house-idUSKBN2A31Z4"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A31Z4"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A31Z4"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210203&t=2&i=1550212723&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1219E"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Biden to meet with Democratic lawmakers on COVID-19 aid: White House"
-    excerpt: "U.S. President Joe Biden will meet with fellow Democrats in Congress on Wednesday to discuss ongoing efforts to pass COVID-19 relief legislations, the White House said in a statement."
-    publishedDateTime: 2021-02-03T18:55:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-biden-idUSKBN2A31Z4"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A31Z4"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A31Z4"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210203&t=2&i=1550196440&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH121LW"
-        width: 832
-        height: 545
-        isCached: true
   - title: "Biden wants fast COVID aid, but minimum wage hike in doubt"
     excerpt: "President Joe Biden has laid out his case for moving fast and without Republicans to pass $1.9 trillion in coronavirus relief, but he is conceding that a key element of his plan — hiking the minimum w"
     publishedDateTime: 2021-02-07T05:44:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/biden-100-days-pres
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/biden-100-days-president-white-house/?id=75460011"
 type: article
 quality: 120
-heat: 280
+heat: 220
 published: true
 
 provider:
@@ -31,38 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biden's 1st 100 days live updates: House proceeding with COVID relief without GOP"
-    excerpt: "Wyo., is keeping her place in House GOP leadership after Republicans voted 145-61 to keep her in the No. 3 position, despite her vote to impeach former President Donald Trump last month.  Trump's most ardent supporters in the House waged a weeks-long campaign to oust Cheney from her post,"
-    publishedDateTime: 2021-02-04T01:57:00Z
-    webUrl: "https://abcnews.go.com/Politics/live-updates/biden-100-days-president-white-house/?id=75597849"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/biden-100-days-president-white-house/?id=75597849"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/biden-100-days-president-white-house/?id=75597849"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 120
-    images:
-      - url: "https://s.abcnews.com/images/Politics/us-capitol-dome-reut_hpMain_20210203-184644_16x9_1600.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Garland confirmation hearing live updates: Biden's AG pick faces Senate questions"
-    excerpt: "Live updates of Judge Merrick Garland's confirmation hearing to be attorney general before the Senate Judiciary Committee."
-    publishedDateTime: 2021-02-22T15:17:00Z
-    webUrl: "https://abcnews.go.com/Politics/live-updates/joe-biden-kamala-harris-white-house-administration/?id=76030510"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/joe-biden-kamala-harris-white-house-administration/?id=76030510"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/joe-biden-kamala-harris-white-house-administration/?id=76030510"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 120
-    images:
-      - url: "https://s.abcnews.com/images/Politics/merrick-garland3-rt-ml-210222_1614006623101_hpMain_16x9_1600.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "FEMA would operate up to 100 federally run mass vaccination sites under Biden plan"
     excerpt: "A draft FEMA document envisions four different models for sites, with the largest capable of handling 6,000 doses a day."
     publishedDateTime: 2021-01-23T04:28:00Z
@@ -78,22 +46,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FAYNVVS3KMI6XKCJN6KCHJ277U.jpg&w=1440"
         width: 1440
         height: 1005
-        isCached: true
-  - title: "Biden's 1st 100 days live updates: 9/11-type commission to investigate insurrection"
-    excerpt: "U.S. Capitol. \"Now, as always, security is the order of the day: the security of our country, the security of our Capitol which is the temple of our democracy, and the security of our Members,\" she wrote in a letter to her Democratic colleagues."
-    publishedDateTime: 2021-02-16T00:34:00Z
-    webUrl: "https://abcnews.go.com/Politics/live-updates/joe-biden-white-house-administration/?id=75890872"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/joe-biden-white-house-administration/?id=75890872"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/joe-biden-white-house-administration/?id=75890872"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 119
-    images:
-      - url: "https://s.abcnews.com/images/Politics/nancy-pelosi-gty-jef-210215_1613426276790_hpMain_16x9_1600.jpg"
-        width: 1600
-        height: 900
         isCached: true
   - title: "Politics live updates: Biden to outline racial equity agenda; senators to be sworn in for impeachment trial"
     excerpt: "President Joe Biden is turning the spotlight on racial equity, one of the four “converging crises” he has said is facing the nation."

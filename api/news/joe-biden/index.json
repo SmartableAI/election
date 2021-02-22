@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-22-biden-to-mark-covid-death-milestone-with-candle-ceremony-at-white-house-live-updates.md",
+      "title": "Biden to mark Covid death milestone with candle ceremony at White House – live updates",
+      "excerpt": "President will address nation this evening on the American lives lost to the pandemic",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates?page=with:block-603385838f088c613adceff6",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates?page=with:block-603385838f088c613adceff6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 867,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/ecd26e64a62e2a874f9252d229d29e4dff42152c/0_0_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a3043c626a971a82677c75ca62086185",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates",
+      "publishedDateTime": "2021-02-22T01:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-22-biden-tells-town-hall-not-all-minorities-know-how-to-get-online.md",
       "title": "Biden tells town hall not all minorities 'know how to get online'",
       "excerpt": "But the arrival of the Chinese virus followed by the idiotic lockdown policies of Blue State Governors and then, of course, the defeats of Donald Trump led to a less free, less prosperous, less optimistic America and listening to Joe Biden speaking today in Michigan you couldn't help but think that Biden and Fauci are going to keep us under their thumbs for as long as possible.",
@@ -111,19 +164,19 @@
       ]
     },
     {
-      "path": "_news/2021-02-20-texas-storm-biden-to-declare-major-disaster-to-secure-federal-aid-live.md",
-      "title": "Texas storm: Biden to declare major disaster to secure federal aid – live",
-      "excerpt": "Biden says declaration could be signed this afternoon and would open up aid for immediate and long-term recovery efforts – follow all the latest news",
+      "path": "_news/2021-02-20-biden-to-declare-major-disaster-in-texas-as-millions-hit-by-water-shortages.md",
+      "title": "Biden to declare major disaster in Texas as millions hit by water shortages",
+      "excerpt": "President to travel to Texas ‘if I can do it without creating a burden for folks’ after winter storm disrupts water supplies following power outages",
       "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/feb/19/texas-storm-latest-news-today-power-outages-ted-cruz-cancun-trip-backlash?page=with:block-6030378e8f08c3cb92a5ccc8",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/feb/19/texas-storm-latest-news-today-power-outages-ted-cruz-cancun-trip-backlash?page=with:block-6030378e8f08c3cb92a5ccc8",
+      "webUrl": "https://www.theguardian.com/us-news/2021/feb/19/texas-safe-water-access-winter-storm",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/feb/19/texas-safe-water-access-winter-storm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 304,
+      "heat": 203,
       "tags": null,
       "images": [
         {
-          "url": "https://i.guim.co.uk/img/media/86372474d992a6216b8c4c86e110fb68dda8bcd3/0_0_3000_1801/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2e7e8d27534d07dd3ac81b47cc714f57",
+          "url": "https://i.guim.co.uk/img/media/991a3bf3c58ddcf8119fd59c981d4115167e26ee/0_52_3000_1799/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=812dc92f6ce154b3a04bb6604a4f11fd",
           "width": 600,
           "height": 360,
           "title": null,
@@ -133,9 +186,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/feb/19/texas-storm-latest-news-today-power-outages-ted-cruz-cancun-trip-backlash",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/19/texas-storm-latest-news-today-power-outages-ted-cruz-cancun-trip-backlash",
-      "publishedDateTime": "2021-02-19T15:18:00-08:00",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/feb/19/texas-safe-water-access-winter-storm",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/19/texas-safe-water-access-winter-storm",
+      "publishedDateTime": "2021-02-19T12:19:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Guardian",
@@ -527,6 +580,58 @@
       ]
     },
     {
+      "path": "_news/2021-02-16-biden-has-reopened-obamacare-enrollment-but-how-fast-you-need-to-act-depends-on-where-you-live.md",
+      "title": "Biden has reopened Obamacare enrollment, but how fast you need to act depends on where you live",
+      "excerpt": "Residents of one state don't know whether they can participate in a special enrollment period for federally subsidized health insurance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/02/15/bidens-special-health-insurance-enrollment-varies-state/6745781002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/02/15/bidens-special-health-insurance-enrollment-varies-state/6745781002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/-mm-/2f3822947b6a8f8aa6a183e96e64d71752a99d03/c=0-89-2998-1783/local/-/media/2016/09/22/USATODAY/USATODAY/636101585701576984-BLM-OBAMA-HEALTHCARE-58839458.JPG?auto=webp&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6745781002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6745781002",
+      "publishedDateTime": "2021-02-15T22:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-02-16-progressives-push-for-joe-bidens-1400-stimulus-checks-on-presidents-day-44-days.md",
       "title": "Progressives Push for Joe Biden's $1,400 Stimulus Checks on President's Day: '44 Days'",
       "excerpt": "Before taking office, Biden said that he wanted to act \"boldly and urgently\" to get the checks passed through Congress. But weeks have gone by since his inauguration and another stimulus bill has still not been passed.",
@@ -535,7 +640,7 @@
       "originalUrl": "https://www.newsweek.com/progressives-push-joe-bidens-1400-stimulus-checks-presidents-day-44-days-1569456",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -587,7 +692,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/biden-order-reestablishes-faith-focused-white-house-office/2021/02/14/17fe6700-6ee0-11eb-8651-6d3091eac63f_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1005,
+      "heat": 825,
       "tags": null,
       "images": [
         {
@@ -947,7 +1052,7 @@
       "originalUrl": "https://www.newsweek.com/fact-check-joe-biden-responsible-rising-cost-insulin-1569045",
       "featuredContent": null,
       "highlight": null,
-      "heat": 325,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -1165,7 +1270,7 @@
       "originalUrl": "https://www.washingtonpost.com/business/democrats-pushing-bidens-covid-19-bill-through-house-panels/2021/02/11/021a9cf8-6ce0-11eb-a66e-e27046e9e898_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 385,
+      "heat": 305,
       "tags": null,
       "images": [
         {
@@ -1378,7 +1483,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-biden-omb-wages-idUSKBN2AA24G",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 185,
       "tags": null,
       "images": [
         {
@@ -1454,110 +1559,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-radioactive-neera-tanden-bidens-pick-for-budget-chief-tries-to-win-over-critics-on-left-and-right.md",
-      "title": "'Radioactive'? Neera Tanden, Biden's pick for budget chief, tries to win over critics on left and right",
-      "excerpt": "Neera Tanden has waged war against the GOP on Twitter, setting up an awkward confrontation during her confirmation hearings as Biden's budget director",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/02/09/neera-tanden-office-management-budget-nominee-set-senate-grilling/4413702001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/02/09/neera-tanden-office-management-budget-nominee-set-senate-grilling/4413702001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/02/08/USAT/b3375d8e-4ef3-44c7-8bb9-6cb14aa1d030-GTY_1288892607.jpg?auto=webp&crop=3104,1746,x0,y158&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/4413702001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4413702001",
-      "publishedDateTime": "2021-02-09T14:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-huawei-founder-says-hopes-biden-administration-will-have-open-policy.md",
-      "title": "Huawei founder says hopes Biden administration will have 'open policy'",
-      "excerpt": "Huawei Technologies' founder Ren Zhengfei said on Tuesday it would be \"extremely difficult\" for the United States to end the sanctions that have crippled its phone business, but that he hoped the new U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-huawei-tech-idUSKBN2A90AY",
-      "originalUrl": "https://www.reuters.com/article/us-usa-huawei-tech-idUSKBN2A90AY",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 365,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210209&t=2&i=1550827940&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH18068",
-          "width": 801,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2A90AY",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A90AY",
-      "publishedDateTime": "2021-02-09T01:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

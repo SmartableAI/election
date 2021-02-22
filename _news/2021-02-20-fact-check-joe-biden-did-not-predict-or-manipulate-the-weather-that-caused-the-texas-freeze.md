@@ -63,22 +63,6 @@ related:
         width: 793
         height: 545
         isCached: true
-  - title: "Extreme weather testing Biden's disaster management skills"
-    excerpt: "The extreme winter weather that left residents of Texas and other Southern states shivering through an unseasonal cold spell is testing President Joe Biden's disaster management skills"
-    publishedDateTime: 2021-02-20T07:51:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/extreme-weather-testing-bidens-disaster-management-skills-76013438"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/extreme-weather-testing-bidens-disaster-management-skills-76013438"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/extreme-weather-testing-bidens-disaster-management-skills-76013438"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_bd8d39b6c9574abaaeb3520020d053c3_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Fact check: Biden approved emergency measures in response to Texas freeze"
     excerpt: "Social media users have been sharing content online that claims President Joe Biden took no action in response to the unusually low temperatures in Texas. While Biden has not publicly spoken about Texas as of February 18,"
     publishedDateTime: 2021-02-18T16:04:00Z
@@ -93,22 +77,6 @@ related:
     images:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210218&t=2&i=1552020884&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1H18D"
         width: 818
-        height: 545
-        isCached: true
-  - title: "UPDATE 1-Biden pushes for pandemic relief in first official trip as president"
-    excerpt: "President Joe Biden vowed during a prime-time televised town hall on Tuesday to accelerate the country's vaccination program and said teachers should be moved closer to the front of the line for inoculations to allow more schools to reopen."
-    publishedDateTime: 2021-02-17T02:56:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden/update-1-biden-pushes-for-pandemic-relief-in-first-official-trip-as-president-idUSL1N2KM2OI"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AG13B"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AG13B"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 122
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210217&t=2&i=1551800579&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1G071"
-        width: 777
         height: 545
         isCached: true
   - title: "The Daily 202: Biden builds back boring in town hall. That’s not a bad thing"
@@ -170,20 +138,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
-  - title: "At vaccine plant, Biden hopes for year end normalcy"
-    excerpt: "President Joe Biden toured a state-of-the-art coronavirus vaccine plant Friday and said while he can't predict when the crisis will end, he's optimistic the nation will approach 'normalcy' by the end of the year if Americans get their vaccines."
-    publishedDateTime: 2021-02-20T00:00:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/02/19/vaccine-plant-biden-hopes-year-end-normalcy/4516298001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/b6d1f09f-56ee-4cd0-aeef-f93d71dc0904_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "A/XyExCOLHAH8AHUiJIYefM14p4wd6rLFNbzARO/O1d4fWGZk0i/YLPbkdg3L1q9MDSEfN/xuASXdPC8KVyF91HhzUV5wR/8EBGl0zjKeUKeVfHg2UhwL3+pwOJmVNwLruJ1t3VB2JTymx8mA2PFzYl943/YiVCZvFcaTkyKFCTX/ePJOVzcjywRXzbubO7kW5sNSwtL4rXQDKSv+sUZDWC/XfRMY040G48YGIi11f+Mjd3KMlZHMb9l3xNun8b6nSEshBsBJsrYDiyvrV/jBtGeNSD3Ag4U8EzDzsNH+5lq7qDJP79RRKqpcAVSD6taOKeLOMvrfHxG2V4x2jkha03CGRIUUuo1qFp/6b6TEy0=;zgsh2iQK/zdQfOIFOfzvKA=="
 ---

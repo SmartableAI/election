@@ -29,142 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "Texas storm: Biden to declare major disaster to secure federal aid – live"
-    excerpt: "Biden says declaration could be signed this afternoon and would open up aid for immediate and long-term recovery efforts – follow all the latest news"
-    publishedDateTime: 2021-02-19T23:18:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/19/texas-storm-latest-news-today-power-outages-ted-cruz-cancun-trip-backlash?page=with:block-6030378e8f08c3cb92a5ccc8"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/19/texas-storm-latest-news-today-power-outages-ted-cruz-cancun-trip-backlash"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/19/texas-storm-latest-news-today-power-outages-ted-cruz-cancun-trip-backlash"
+  - title: "Progressives Push for Joe Biden's $1,400 Stimulus Checks on President's Day: '44 Days'"
+    excerpt: "Before taking office, Biden said that he wanted to act \"boldly and urgently\" to get the checks passed through Congress. But weeks have gone by since his inauguration and another stimulus bill has still not been passed."
+    publishedDateTime: 2021-02-16T02:46:00Z
+    webUrl: "https://www.newsweek.com/progressives-push-joe-bidens-1400-stimulus-checks-presidents-day-44-days-1569456"
+    ampWebUrl: "https://www.newsweek.com/progressives-push-joe-bidens-1400-stimulus-checks-presidents-day-44-days-1569456?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/progressives-push-joe-bidens-1400-stimulus-checks-presidents-day-44-days-1569456?amp=1"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 124
-    images:
-      - url: "https://i.guim.co.uk/img/media/86372474d992a6216b8c4c86e110fb68dda8bcd3/0_0_3000_1801/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2e7e8d27534d07dd3ac81b47cc714f57"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Biden to declare major disaster in Texas as millions hit by water shortages"
-    excerpt: "President to travel to Texas ‘if I can do it without creating a burden for folks’ after winter storm disrupts water supplies following power outages"
-    publishedDateTime: 2021-02-19T20:19:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/feb/19/texas-safe-water-access-winter-storm"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/19/texas-safe-water-access-winter-storm"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/19/texas-safe-water-access-winter-storm"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 123
-    images:
-      - url: "https://i.guim.co.uk/img/media/991a3bf3c58ddcf8119fd59c981d4115167e26ee/0_52_3000_1799/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=812dc92f6ce154b3a04bb6604a4f11fd"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Texas storm: Biden to declare major disaster to secure federal aid – as it happened"
-    excerpt: "Biden says declaration could be signed this afternoon and would open up aid for immediate and long-term recovery efforts – follow all the latest news"
-    publishedDateTime: 2021-02-20T01:23:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/19/texas-storm-latest-news-today-power-outages-ted-cruz-cancun-trip-backlash?page=with:block-60305f038f08c3cb92a5ce17"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/19/texas-storm-latest-news-today-power-outages-ted-cruz-cancun-trip-backlash"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/19/texas-storm-latest-news-today-power-outages-ted-cruz-cancun-trip-backlash"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 119
-    images:
-      - url: "https://i.guim.co.uk/img/media/86372474d992a6216b8c4c86e110fb68dda8bcd3/0_0_3000_1801/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2e7e8d27534d07dd3ac81b47cc714f57"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Biden to mark Covid death milestone with candle ceremony at White House – live updates"
-    excerpt: "President will address nation this evening on the American lives lost to the pandemic"
-    publishedDateTime: 2021-02-22T09:40:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates?page=with:block-603385838f088c613adceff6"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
+      name: Newsweek
+      domain: newsweek.com
     quality: 117
     images:
-      - url: "https://i.guim.co.uk/img/media/ecd26e64a62e2a874f9252d229d29e4dff42152c/0_0_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a3043c626a971a82677c75ca62086185"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "President Joe Biden planning trip to storm-ravaged Texas, but 'I don't want to be a burden'"
-    excerpt: "President Joe Biden said \"I don’t want to be a burden\" and will go next week when a presidential visit won't get in the way of Texas recovery."
-    publishedDateTime: 2021-02-19T22:41:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/19/president-joe-biden-planning-trip-storm-ravaged-texas-next-week/4508040001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4508040001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4508040001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 115
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/02/19/USAT/f188392a-9a26-456a-82d7-f1fb619253ab-AP_Biden.JPG?auto=webp&crop=5999,3374,x0,y189&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Biden has reopened Obamacare enrollment, but how fast you need to act depends on where you live"
-    excerpt: "Residents of one state don't know whether they can participate in a special enrollment period for federally subsidized health insurance."
-    publishedDateTime: 2021-02-16T06:12:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/15/bidens-special-health-insurance-enrollment-varies-state/6745781002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6745781002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6745781002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 113
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/2f3822947b6a8f8aa6a183e96e64d71752a99d03/c=0-89-2998-1783/local/-/media/2016/09/22/USATODAY/USATODAY/636101585701576984-BLM-OBAMA-HEALTHCARE-58839458.JPG?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 678
-        isCached: true
-  - title: "White House is hopeful Biden can travel to Texas as soon as this week"
-    excerpt: "The White House said on Monday it was hopeful that President Joe Biden could travel to Texas as soon as this week to show his support after a deadly winter storm that caused widespread blackouts."
-    publishedDateTime: 2021-02-22T17:39:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-texas-storm/white-house-is-hopeful-biden-can-travel-to-texas-as-soon-as-this-week-idUSW1N2KF005"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2KF005"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2KF005"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-  - title: "'Climate change is real': Biden administration says Texas power crisis shows U.S. unprepared for extreme weather"
-    excerpt: "President Joe Biden has approved federal emergency declarations for Texas, Oklahoma and is processing a request from Louisiana."
-    publishedDateTime: 2021-02-19T00:55:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/18/white-house-texas-outages-show-u-s-unprepared-climate-change/4493117001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4493117001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4493117001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 104
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/02/18/USAT/c2f51ce6-96e7-4bd4-bb82-6a1b9bc188e4-AP21047602785302.jpg?auto=webp&crop=3298,1856,x0,y115&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Biden dismisses a Democratic plan to wipe out $50,000 in federal student-loan debt"
-    excerpt: "President Joe Biden supports $10,000 in loan forgiveness, far less than Sens. Elizabeth Warren and Chuck Schumer proposed earlier this year."
-    publishedDateTime: 2021-02-17T10:41:00Z
-    webUrl: "https://www.businessinsider.com/biden-rejects-democratic-plan-student-loan-debt-2021-2"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 99
-    images:
-      - url: "https://i.insider.com/602c8abf2edd0f001a8d60be?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://d.newsweek.com/en/full/1735295/stimulus-checks-joe-biden-presidents-day-progressives.jpg"
+        width: 3000
+        height: 2100
         isCached: true
 
 secured: "qGPJCFOqtzBiq5KoR+gJl3OIFv1a8HQKfJ3uUmLwfSNHfP/mZhSXGuXetxItxaA8luiZLRO/sGq8qZU/TABCu0evCcf2dFWl+P+0zRSAboxpX+fqdyKZakl402jtMNXbjg3dD0bBJ7Zm4Da1iFdOEjeJn2/lzo5G9VhGQ0pDymRSbUfmnP/MBp7s0UmnUVIsaRNnMFqObgFsSq0oA9IcEbI501lwTTIew3eO4VVhBCONPO/Qdy27d11FMDRI7YvmM0c1TIk7bxdcf/eylJrqP5ASfjmj+PuxnoG0Cnt9dfytKJneG2Xgtsoki4Yshb7SmxTAfvusqQC8h+7KiAOQcqRTSdcXKM+wb5uD2TsZhdsSqzU2a90k308V4aDLmn4pV7hqxZnhv1bFOeBgbnA4lxUaCPlQwV+xMW9yrq/pXaiOI1awXnasn9tjO3fZpuX47uW6BYBIH72UHIob4u4zq2QEIm/NAIE2cwKYkQTuDj39MuUSM/Sl3IAw5n4fJmkPMpDmhUHQ9Kt9HK5IRHLfFg==;bC0AF5kUk0PG6jxpalYcCw=="

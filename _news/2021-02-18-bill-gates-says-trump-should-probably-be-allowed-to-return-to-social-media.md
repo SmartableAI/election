@@ -95,6 +95,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump: Supreme Court tax return decision a ‘continuation of the greatest political witch hunt’"
+    excerpt: "Former President Trump on Monday slammed the Supreme Court for declining to halt the turnover of his tax records to a New York prosecutor, calling it “a continuation of the greatest political Witch Hunt in the history of our Country."
+    publishedDateTime: 2021-02-22T20:05:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-reacts-to-supreme-court-tax-return-decision-claims-continuation-of-the-greatest-political-witch-hunt"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-reacts-to-supreme-court-tax-return-decision-claims-continuation-of-the-greatest-political-witch-hunt.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-reacts-to-supreme-court-tax-return-decision-claims-continuation-of-the-greatest-political-witch-hunt.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 123
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ae4c983b-8c4e-416f-ba98-56bc212031a0/40875f2f-d31c-4ef4-a372-16b5609e06f7/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "7gEc8IcTTOtsoXQ3Cey7SFWYVj87L9SZZnNKbuPYacSm7YV59VnPe/sD6voevzKf0KTGdrzDMQ4LMrXyzHDolXok0Lt/8qrYSzLbThpGtYti+PWzj+R/gOOjvygPBggDTFWOMuRGh/9C5AhUGzcJkRUEz/gkHCrOt505VmRX0MLZcsBke/pi3PvXxRC2wAjVORxtFcb1XuSF7jndu5luWPTXtfL8DijCVnZiYGAhkhk21RB/ZNGn8fb4922su1ArnQ5gvXlOZuowh6EXrTwy6Fr4AIywawaAMPupsxB+GNOh1l8O/R8R8xvOGcFNmIMKuVnmortB3D+dRxUUU7rBtDC30bDKSaWMtJWDo32Q1yQ=;8NSeJEOki+4G7fNq4UAAfA=="
 ---

@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-01-11-explainer-can-social-media-companies-really-kick-off-donald-trump-yes.md",
+      "title": "Explainer: Can social media companies really kick off Donald Trump? Yes",
+      "excerpt": "Conservatives are crying foul over the suspension of Donald Trump from social media, but the 1st Amendment doesn't apply to private platforms",
+      "sourceUrl": null,
+      "webUrl": "https://www.detroitnews.com/story/tech/2021/01/10/explainer-social-media-companies-ban-trump/6617801002/",
+      "originalUrl": "https://www.detroitnews.com/story/tech/2021/01/10/explainer-social-media-companies-ban-trump/6617801002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/01/10/PDTN/a7c8b4d1-1eae-4861-aebb-e20a957f6eb0-AP21009043612110.jpg?auto=webp&crop=2037,1146,x1349,y1095&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.detroitnews.com/amp/6617801002",
+      "cdnAmpWebUrl": "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/6617801002",
+      "publishedDateTime": "2021-01-10T14:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Detroit News",
+        "domain": "detroitnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-11-schwarzenegger-calls-president-trump-worst-president-ever.md",
       "title": "Schwarzenegger calls President Trump 'worst president ever'",
       "excerpt": "Former California Gov_ Arnold Schwarzenegger is calling President Donald Trump a failed leader who “will go down in history as the worst president ever.”",

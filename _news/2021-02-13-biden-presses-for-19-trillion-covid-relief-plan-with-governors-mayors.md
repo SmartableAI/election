@@ -111,54 +111,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Biden backs studying reparations as Congress considers bill"
-    excerpt: "President Joe Biden's White House is giving its support to studying reparations for Black Americans, boosting Democratic lawmakers who are renewing efforts to create a commission on the issue amid the stark racial disparities highlighted by the COVID-19 pandemic."
-    publishedDateTime: 2021-02-18T15:12:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-backs-studying-reparations-congress-considers-bill-75957256"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-backs-studying-reparations-congress-considers-bill-75957256"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-backs-studying-reparations-congress-considers-bill-75957256"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_672fa3c86d684a248ccc43634309f88a_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "At Biden's G7 debut, leaders look beyond COVID to trade and China"
-    excerpt: "Group of Seven leaders, who control a little under half of the world's economy, on Friday sought to look beyond the COVID-19 pandemic towards rebuilding their battered economies with free trade and to countering China's \"non-market oriented\" policies."
-    publishedDateTime: 2021-02-19T23:27:00Z
-    webUrl: "https://www.reuters.com/article/us-g7-meeting-idUSKBN2AJ0F5"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AJ0F5"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AJ0F5"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210219&t=2&i=1552169493&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1I11D"
-        width: 756
-        height: 545
-        isCached: true
-  - title: "Biden defends progress on COVID as weather delays 6M shots"
-    excerpt: "President Joe Biden toured a state-of-the art coronavirus vaccine plant Friday, intent on showcasing progress even as extreme winter weather across the U.S. hand"
-    publishedDateTime: 2021-02-20T05:16:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/biden-visit-mich-vaccine-plant-winter-throws-curve-75996916"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-visit-mich-vaccine-plant-winter-throws-curve-75996916"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-visit-mich-vaccine-plant-winter-throws-curve-75996916"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_85fdcbc43c574818bfaaba0d09e8c1b1_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Biden memo for ICE officers points to fewer deportations and strict oversight"
     excerpt: "U.S. Immigration and Customs Enforcement officers will need preapproval from a senior manager before trying to deport anyone who is not a recent border crosser, a national security threat or a criminal offender with an aggravated-felony conviction,"
     publishedDateTime: 2021-02-19T03:25:00Z
@@ -186,20 +138,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
-  - title: "Biden addresses COVID-19 relief bill, vaccines at Wisconsin town hall"
-    excerpt: "President Joe Biden focused on the coronavirus pandemic during a town hall in Wisconsin Tuesday night. He discussed ramping up vaccination efforts and why he's pushing for a $1.9 trillion relief bill."
-    publishedDateTime: 2021-02-17T15:27:00Z
-    webUrl: "https://www.cbsnews.com/video/president-biden-covid-19-relief-bill-vaccineswisconsin-town-hall/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/17/5ef4b908-1ca4-4535-b614-70178cbe126c/thumbnail/1200x630/674600dda4b03fc2f6f7f6c79b2195bb/cbsn-fusion-president-biden-addresses-covid-19-relief-bill-vaccines-at-wisconsin-town-hall-thumbnail-647793-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Biden to press for $1.9 trillion COVID relief plan with governors, mayors"
     excerpt: "U.S. President Joe Biden will meet with a bipartisan group of mayors and governors on Friday as he continues to push for approval of a $1.9 trillion coronavirus relief plan to bolster economic growth and help millions of unemployed workers."
     publishedDateTime: 2021-02-12T23:54:00Z

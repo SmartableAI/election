@@ -208,6 +208,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Justice Clarence Thomas reveals some sympathy for Trump's baseless fraud claims "
+    excerpt: "Supreme Court Justice Clarence Thomas on Monday claimed election fraud is a threat to America, revealing in a forceful dissent some support for former President Donald Trump and Republicans who have refused to accept the result of the 2020 election.\n    \n"
+    publishedDateTime: 2021-02-22T22:46:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zEDcZhyAdO0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/22/politics/clarence-thomas-trump-election-fraud/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/22/politics/clarence-thomas-trump-election-fraud/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210222122848-donald-trump-clarence-thomas-102620-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "The Supreme Court is still sitting on Trump's tax returns, and justices aren't saying why"
     excerpt: "Lawsuits involving Donald Trump tore apart the Supreme Court while he was president, and the justices apparently remain riven by him.\n    \n"
     publishedDateTime: 2021-02-18T11:40:15Z
@@ -363,6 +379,6 @@ related:
         height: 773
         isCached: true
 
-secured: "meZdHJvFGsy8woIj6MjxjPVVV2me4/YGnzkpJNCjoWkJMSjs93GRrXzxYSXGfCPMY1zKHAyCnUh4WazQA8m6PvcJSFJ1aC0cm91puQRAUferIAlsbfcmo7Gy25xvBvCfompDRGXJWnK18N/gi/wtuHwLHCcsTmMEtLgQ6i67V0QFHWwBlzcrPQPEGFWCxZ35pIjmzKdCY7euPXq0uoZKAkXk/AFOY16jFt4xdHyIomdb3FxmWgM/43zk+Kgv5WfVloAujpfz1VWGxfqUJucwnyWBjELEJoeDvXKdSx8Cp62a8OPfABOOFhec0oiTnkLjnzNg7+FCgEgiVEo//IzrzEUEt8MVxAdlQKh5ChmNo6o=;lCZOY5VyoF6CKejgZ3+hiA=="
+secured: "OgtcZmcV4vwldn941OnQxQMgmY1ZPeoSdJlYNeuMHOfNN+x/D0iKUSsvpElezxzcj15O0eU2SIXWMXS+7/CLZ+lkQcLhtgKerxOkt8Ku/n1cBMLEwFNxeGsPXvo5PoIISJNEYGuPSpZIPOaeKnChX1LW1iHDcjMa81xKml6Mv5n6/hFcOu2zatxTRMqapXyAmbpMmOtbbqNpKeKYmx4xI2uG6zQ67KaWRc2wFnbWhx3YM8C5BwfcN53H6Lh6ghfcGSF25ker68rdlZCGWmY4Uxd7UKP90IDtkjp4IXUgAvaClKTbiy0I6BO9WioPEuAG6FBmXJRS2P3zBj/AB+mpv5hKQxdZ4AtxhAR7I3YuaWyeBEtyjmGphfN7B2e+qej5vF44x+d6/8JIUMp8xhu8kwtsh6qBrQkA3Si5zbJe50bCkNxKQrKnSQyu8/o09GMeWtCuK+sqR/6ia7J32jI2kW4/lvDvvWeyjEWKfeM6WQel4TnfZ7LtLpoESK2fpyu+30NgT6FDHb0Sk1gb8GXkjw==;G2+NdKPDNCPk5unO83KoVg=="
 ---
 

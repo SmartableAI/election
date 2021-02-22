@@ -63,22 +63,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Netanyahu acknowledges differences with Biden, but confident he'll call"
-    excerpt: "Israeli Prime Minister Benjamin Netanyahu on Monday acknowledged differences with U.S. President Joe Biden over Iranian and Palestinian issues, but said they enjoy a \"very strong\" working relationship."
-    publishedDateTime: 2021-02-16T01:30:00Z
-    webUrl: "https://www.reuters.com/article/us-israel-usa/netanyahu-acknowledges-differences-with-biden-but-confident-hell-call-idUSKBN2AF1US"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AF1US"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AF1US"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210215&t=2&i=1551630976&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1E13E"
-        width: 817
-        height: 545
-        isCached: true
   - title: "After rocket attack, Biden faces first real test in Iran"
     excerpt: "Analysis: Fiery rhetoric of Trump era is gone, but flare-up in northern Iraq is a microcosm of tension to come"
     publishedDateTime: 2021-02-16T18:36:00Z
@@ -94,22 +78,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/0b615e4b0cd8ce4dad16685b60f9e2f230f4bedf/0_233_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c26e0484f413ac1c8065871643b5da35"
         width: 600
         height: 360
-        isCached: true
-  - title: "Biden describes life at the White House: 'A gilded cage'"
-    excerpt: "President Joe Biden says he’s still getting used to the trappings of the office four weeks into his presidency"
-    publishedDateTime: 2021-02-17T13:21:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-describes-life-white-house-gilded-cage-75938356"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-describes-life-white-house-gilded-cage-75938356"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-describes-life-white-house-gilded-cage-75938356"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_625e5d532d0b43f4a3d1921df7887f2b_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Biden extends pandemic help for homeowners, renters wait"
     excerpt: "President Joe Biden is extending a ban on housing foreclosures to June 30 to help homeowners struggling during the coronavirus pandemic"
@@ -191,22 +159,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Biden describes new life in the White House as being in a 'gilded cage'"
-    excerpt: "President Joe Biden, after one month of living in perhaps the most exclusive residence in the country, says staying in the White House is like being in a \"gilded cage.\" He discussed details of his new daily life inside the White House during a CNN town hall in Milwaukee,"
-    publishedDateTime: 2021-02-18T00:51:00Z
-    webUrl: "https://abcnews.go.com/Politics/biden-describes-life-white-house-gilded-cage/story?id=75949479"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-describes-life-white-house-gilded-cage/story?id=75949479"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-describes-life-white-house-gilded-cage/story?id=75949479"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/joe-jill-biden-white-house-gty-jc-210217_1613586297763_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Muddled promises on schools pose political problem for Biden"
     excerpt: "Republicans have seized on confusion surrounding President Joe Biden’s goal to reopen a majority of schools within his first 100 days, painting the president as beholden to teachers’ unions at the exp"
     publishedDateTime: 2021-02-18T06:11:00Z
@@ -222,22 +174,6 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
-        isCached: true
-  - title: "White House pushes back Biden trip to Michigan because of weather"
-    excerpt: "President Joe Biden will travel to Michigan on Friday to visit a Pfizer Inc plant, postponing the trip by a day because of inclement weather, a White House official said."
-    publishedDateTime: 2021-02-18T06:40:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-pfizer-idUSKBN2AI052"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AI052"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AI052"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210218&t=2&i=1551928057&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1H01Y"
-        width: 782
-        height: 545
         isCached: true
   - title: "US reverts to targeted immigration enforcement under Biden"
     excerpt: "Immigration enforcement in the U.S. would be more targeted under President Joe Biden than under his predecessor, with authorities directed to focus on people in the country illegally who pose a threat,"
@@ -367,38 +303,6 @@ related:
         width: 819
         height: 545
         isCached: true
-  - title: "Biden's 1st 100 days live updates: WH offers no timeline for return to normalcy"
-    excerpt: "Biden's trip to Kalamazoo, Michigan, has been rescheduled to Friday. The visit -- in addition to his Tuesday town hall in Milwaukee -- will give Biden an opportunity to make his case for COVID-19 relief to every day Americans since taking office."
-    publishedDateTime: 2021-02-18T07:58:00Z
-    webUrl: "https://abcnews.go.com/Politics/live-updates/joe-biden-white-house-administration/?id=75890872"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/joe-biden-white-house-administration/?id=75890872"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/joe-biden-white-house-administration/?id=75890872"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 121
-    images:
-      - url: "https://s.abcnews.com/images/General/biden100-jen-psaki-solarwinds-04-ap-llr-210217_1613592456209_hpMain_16x9_1600.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Biden's 1st 100 days live updates: House expected to pass relief bill next week"
-    excerpt: "House Democrats release text on massive relief package This is Day 33 of the administration of President Joe Biden and Vice President Kamala Harris. Biden is making a surprise visit to meet with his longtime Senate colleague Bob Dole in Washington,"
-    publishedDateTime: 2021-02-21T05:15:00Z
-    webUrl: "https://abcnews.go.com/Politics/live-updates/joe-biden-white-house-administration/?id=75890872"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/joe-biden-white-house-administration/?id=75890872"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/joe-biden-white-house-administration/?id=75890872"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 121
-    images:
-      - url: "https://s.abcnews.com/images/Politics/sotu-05-gty-jc-190205_hpMain_16x9_1600.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Republican former Senator Bob Dole gets visit from Biden after cancer diagnosis"
     excerpt: "U.S. President Joe Biden visited former Senator Bob Dole on Saturday, the White House said, two days after the Kansas Republican announced that he had been diagnosed with advanced lung cancer."
     publishedDateTime: 2021-02-20T23:01:00Z
@@ -495,22 +399,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Biden will ask DOJ to review his authority to cancel student loan debt - White House"
-    excerpt: "President Joe Biden will ask the Department of Justice to review his legal authority to cancel student loan debt, the White House said on Wednesday, adding the president does not favor $50,000 in student loan relief without limitation."
-    publishedDateTime: 2021-02-18T00:20:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-doj-student-loan-idUSKBN2AH2KB"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AH2KB"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AH2KB"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 118
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210217&t=2&i=1551916537&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1G1JD"
-        width: 817
-        height: 545
-        isCached: true
   - title: "First lady Jill Biden decorates White House lawn with giant hearts for Valentine's Day"
     excerpt: "First lady Jill Biden and President Joe Biden strolled the North Lawn to see the Valentine signs she put there to help boost spirits."
     publishedDateTime: 2021-02-12T17:56:00Z
@@ -526,22 +414,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/02/12/USAT/bd123f0c-9b6f-4da3-8d6e-74a989ac34f1-5bc25c16-21ae-42e4-88d9-7bb7431198d2_thumbnail.png?auto=webp&crop=849,478,x1,y0&format=pjpg&width=1200"
         width: 1200
         height: 676
-        isCached: true
-  - title: "Biden administration pledges to expand vaccinations as winter storms cause delays – live"
-    excerpt: "CDC warns of ‘widespread delays’ in vaccine deliveries due to weather"
-    publishedDateTime: 2021-02-18T00:36:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/17/biden-harris-coronavirus-teachers-vaccine-us-politics-live-latest?page=with:block-602d76908f08bdbed2839bbe"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/17/biden-harris-coronavirus-teachers-vaccine-us-politics-live-latest"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/17/biden-harris-coronavirus-teachers-vaccine-us-politics-live-latest"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 116
-    images:
-      - url: "https://i.guim.co.uk/img/media/397e9c81d30a0858d4af27de891e6279de7dadc8/0_0_6720_4032/master/6720.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4a0ac585526f1b234ccafd9a8a69d93b"
-        width: 600
-        height: 360
         isCached: true
   - title: "First lady Jill Biden surprises with giant cutout Valentine’s Day hearts on White House lawn"
     excerpt: "First lady Jill Biden surprised the country with a Valentine's Day message Friday. Biden unveiled at least half a dozen giant cutout hearts on the White House north lawn ahead of Valentine's Day this Sunday."
@@ -574,22 +446,6 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/02/20/4b93c024-a9fd-4d25-a93d-8eaf1cd9c50d/thumbnail/1200x630/50a3b4649ee6472c910204255fb99bb8/ap21050827751388.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Biden administration pledges to expand vaccinations as winter storms cause delays – as it happened"
-    excerpt: "CDC warns of ‘widespread delays’ in vaccine deliveries due to weather"
-    publishedDateTime: 2021-02-18T01:13:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/17/biden-harris-coronavirus-teachers-vaccine-us-politics-live-latest?page=with:block-602d81068f08ad21ea5fe5af"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/17/biden-harris-coronavirus-teachers-vaccine-us-politics-live-latest"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/17/biden-harris-coronavirus-teachers-vaccine-us-politics-live-latest"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 111
-    images:
-      - url: "https://i.guim.co.uk/img/media/397e9c81d30a0858d4af27de891e6279de7dadc8/0_0_6720_4032/master/6720.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4a0ac585526f1b234ccafd9a8a69d93b"
-        width: 600
-        height: 360
         isCached: true
   - title: "Biden aims to close Guantanamo Bay prison by the time he leaves office"
     excerpt: "The White House said on Friday that U.S. President Joe Biden aims to close the Guantanamo Bay prison by the time he leaves office, press secretary Jen Psaki told reporters in a daily briefing."

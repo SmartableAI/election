@@ -63,38 +63,6 @@ related:
         width: 793
         height: 545
         isCached: true
-  - title: "Extreme weather testing Biden's disaster management skills"
-    excerpt: "The extreme winter weather that left residents of Texas and other Southern states shivering through an unseasonal cold spell is testing President Joe Biden's disaster management skills"
-    publishedDateTime: 2021-02-20T07:51:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/extreme-weather-testing-bidens-disaster-management-skills-76013438"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/extreme-weather-testing-bidens-disaster-management-skills-76013438"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/extreme-weather-testing-bidens-disaster-management-skills-76013438"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_bd8d39b6c9574abaaeb3520020d053c3_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "UPDATE 1-Biden pushes for pandemic relief in first official trip as president"
-    excerpt: "President Joe Biden vowed during a prime-time televised town hall on Tuesday to accelerate the country's vaccination program and said teachers should be moved closer to the front of the line for inoculations to allow more schools to reopen."
-    publishedDateTime: 2021-02-17T02:56:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden/update-1-biden-pushes-for-pandemic-relief-in-first-official-trip-as-president-idUSL1N2KM2OI"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AG13B"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AG13B"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 122
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210217&t=2&i=1551800579&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1G071"
-        width: 777
-        height: 545
-        isCached: true
   - title: "The Daily 202: Biden builds back boring in town hall. That’s not a bad thing"
     excerpt: "An absence of incendiary tweets doesn’t make a young presidency boring when the administration is facing a once-in-a-lifetime pandemic, the resulting economic devastation, the climate crisis and a host of other problems."
     publishedDateTime: 2021-02-17T22:05:00Z
@@ -170,20 +138,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
-  - title: "At vaccine plant, Biden hopes for year end normalcy"
-    excerpt: "President Joe Biden toured a state-of-the-art coronavirus vaccine plant Friday and said while he can't predict when the crisis will end, he's optimistic the nation will approach 'normalcy' by the end of the year if Americans get their vaccines."
-    publishedDateTime: 2021-02-20T00:00:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/02/19/vaccine-plant-biden-hopes-year-end-normalcy/4516298001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/b6d1f09f-56ee-4cd0-aeef-f93d71dc0904_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "oSwJff3KrIpZlL8VmUScXcEcIS50kGfDU63QORMybJ9nvxqb9o8Dnq2sVzkGEYDyVR9r7IlweTK/23TP0yJtmKiQThmx43sheiz6eko6XD2OFiHJPgrYeNAmxOAk29CneRtW78SEKcTVlPvZU/d7Q1AZVkloVOn2xBJZMossrL1j7D+T7XWxOA9PD8WdI2BDjliEiQo0M2wvg5VGFYwJYZBrUH3fgGCiE83NPZRAEtDEO//4tIbey2tYs56YbMhSIM6rZo2CXYPCT6yqQ6ORNGdj8SYRvQnL7DJs/Hyj6FirdQIN3bQgg1ao8UecPZXXY2Blr1HLcfDMOl7IgeFLm93iUpVT9VrEze3SkXK55+teaoukGLnGnlODYAMw1vNTbeb41Me42S3lK/f33JZJM3FjAuPzFFBll7E8Ke0Q/Qa+yUbr61p9dh72jVPAcV5y9NMuC6iaECKNRXdx7p7EraI29tsg8mIBu38Ml0h6EMwhZLnnWp6uVIpJu1d3eC9hIO9D9R/oJpEMwAJPP18tRg==;8LfcBJ5DuHkH2IX4HiNzhg=="
 ---

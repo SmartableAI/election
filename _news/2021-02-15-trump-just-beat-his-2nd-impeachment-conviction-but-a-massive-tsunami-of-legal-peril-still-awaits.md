@@ -1017,6 +1017,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Analyst: NY is getting more than Trump tax returns"
+    excerpt: "The Supreme Court has declined to halt the turnover of former President Trump's tax records to a New York state prosecutor. Michael Graetz, of Columbia Law School, says officials will be getting eight years of Trump's taxes and other records (Feb."
+    publishedDateTime: 2021-02-22T22:05:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/02/22/analyst-ny-getting-more-than-trump-tax-returns/4548778001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/f09b42a7-7eb7-4f20-bfe7-a9707f3ca0a8_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "SCOTUS denies Trump bid to shield tax returns"
     excerpt: "Politics SCOTUS denies Trump bid to shield tax returns. Posted . Donald Trump suffered a major setback on Monday in his long quest to conceal details of his finances as the U.S. S"
     publishedDateTime: 2021-02-22T18:35:00Z
@@ -1030,6 +1044,20 @@ related:
       - url: "https://static.reuters.com/resources/r/?d=20210222&i=OVE0QDN63&r=OVE0QDN63&t=2"
         width: 960
         height: 540
+        isCached: true
+  - title: "Supreme Court Rejects Trump Bid to Keep Taxes From Prosecutor"
+    excerpt: "The U.S. Supreme Court rejected a bid by Donald Trump to keep eight years of his tax returns and other financial records out of the hands of a Manhattan prosecutor conducting a criminal investigation into the former president and his company,"
+    publishedDateTime: 2021-02-22T22:14:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-02-22/trump-rejected-as-supreme-court-lets-prosecutor-get-tax-records"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 105
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ieS2tQJWOMws/v1/1200x800.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "2 Central Park ice rinks to close after city severs ties with Trump Organization"
     excerpt: "The Trump Organization is closing two ice skating rinks in Central Park after New York City Mayor Bill de Blasio severed their contract in the wake of the deadly Capitol riot. CBS New York's Carolyn Gusoff reports."

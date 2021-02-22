@@ -105,22 +105,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Biden to meet House Democrats to push Covid relief plans – live updates"
-    excerpt: "President will meet leaders and committee chairs ahead of monthly jobs report release"
-    publishedDateTime: 2021-02-05T10:51:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/05/joe-biden-donald-trump-impeachment-covid-coronavirus-marjorie-taylor-greene-live-updates?page=with:block-601d17f68f08ab4f3b771e53"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/05/joe-biden-donald-trump-impeachment-covid-coronavirus-marjorie-taylor-greene-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/05/joe-biden-donald-trump-impeachment-covid-coronavirus-marjorie-taylor-greene-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/c8c38a259def9f99b805bdbec04b95e9b5731e2c/0_53_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=10eae5c70c9474a7d00623a441fbe2f3"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Watch live: Biden delivers remarks from State Department"
     excerpt: "President Joe Biden will deliver a public address on Thursday afternoon. The remarks will come after the president and Vice President Harris visit with the Secretary of State and State Department officials."
     publishedDateTime: 2021-02-04T16:35:00Z
@@ -168,22 +152,6 @@ related:
       - url: "https://thehill.com/sites/default/files/harriskamala_bidenjoe_02112021getty.jpg"
         width: 980
         height: 551
-        isCached: true
-  - title: "Watch live: Biden speaks at Munich Security Conference"
-    excerpt: "President Biden is set to deliver remarks to the Munich Security Conference Friday morning.The president will address the importance of transatlantic alliances virtually from the East Room of the White House."
-    publishedDateTime: 2021-02-19T14:36:00Z
-    webUrl: "https://thehill.com/video/administration/539549-watch-live-biden-speaks-at-munich-security-conference"
-    ampWebUrl: "https://thehill.com/video/administration/539549-watch-live-biden-speaks-at-munich-security-conference?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/administration/539549-watch-live-biden-speaks-at-munich-security-conference?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/gettyimages-1231087245.jpg"
-        width: 1024
-        height: 683
         isCached: true
   - title: "Biden seeks to speed delivery of coronavirus stimulus checks and food aid"
     excerpt: "U.S. President Joe Biden on Friday will sign orders to speed the issuance of pandemic stimulus checks to needy families and increase food aid for children who normally rely on school meals for nutrition."

@@ -63,70 +63,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Activists fear Biden's commitment to higher minimum wage"
-    excerpt: "President Joe Biden campaigned on raising the national minimum wage to $15 per hour and attached a proposal doing just that to the $1.9 trillion coronavirus pandemic relief bill"
-    publishedDateTime: 2021-02-15T14:05:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/activists-fear-bidens-commitment-higher-minimum-wage-75906176"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/activists-fear-bidens-commitment-higher-minimum-wage-75906176"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/activists-fear-bidens-commitment-higher-minimum-wage-75906176"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_d81b3879bfd9430a9155b21ede88112c_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Biden faces questions about commitment to minimum wage hike"
-    excerpt: "President Joe Biden campaigned on raising the national minimum wage to $15 per hour and attached a proposal doing just that to the $1.9 trillion coronavirus pandemic relief bill"
-    publishedDateTime: 2021-02-15T13:37:00Z
-    webUrl: "https://www.washingtonpost.com/business/activists-fear-bidens-commitment-to-higher-minimum-wage/2021/02/15/ea27db0a-6f92-11eb-8651-6d3091eac63f_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/business/activists-fear-bidens-commitment-to-higher-minimum-wage/2021/02/15/ea27db0a-6f92-11eb-8651-6d3091eac63f_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/activists-fear-bidens-commitment-to-higher-minimum-wage/2021/02/15/ea27db0a-6f92-11eb-8651-6d3091eac63f_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "On Parkland anniversary, Biden calls for tougher gun laws"
-    excerpt: "Sorrow is reverberating across the country Sunday as Americans joined a Florida community in remembering the 17 lives lost three years ago in the Parkland school shooting massacre"
-    publishedDateTime: 2021-02-15T08:25:00Z
-    webUrl: "https://www.washingtonpost.com/national/on-parkland-anniversary-biden-calls-for-tougher-gun-laws/2021/02/14/73d7f200-6f3d-11eb-8651-6d3091eac63f_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national/on-parkland-anniversary-biden-calls-for-tougher-gun-laws/2021/02/14/73d7f200-6f3d-11eb-8651-6d3091eac63f_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/on-parkland-anniversary-biden-calls-for-tougher-gun-laws/2021/02/14/73d7f200-6f3d-11eb-8651-6d3091eac63f_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Biden faces questions about commitment to minimum wage hike"
-    excerpt: "President Joe Biden campaigned on raising the national minimum wage to $15 per hour and attached a proposal doing just that to the $1.9 trillion coronavirus pandemic relief bill"
-    publishedDateTime: 2021-02-16T07:05:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/activists-fear-bidens-commitment-higher-minimum-wage-75903511"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/activists-fear-bidens-commitment-higher-minimum-wage-75903511"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/activists-fear-bidens-commitment-higher-minimum-wage-75903511"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_d81b3879bfd9430a9155b21ede88112c_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Biden pledges action on guns amid resistance"
     excerpt: "White House officials met last week with several gun violence prevention groups as they weigh how to move forward on an issue that has stymied Democrats for years."
     publishedDateTime: 2021-02-15T22:44:00Z
@@ -140,38 +76,6 @@ related:
     quality: 125
     images:
       - url: "https://thehill.com/sites/default/files/bidenjoe_getty100220.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "White House says Biden believes Nord Stream 2 bad deal for Europe"
-    excerpt: "U.S. President Joe Biden the Nord Stream 2 pipeline is a bad deal for Europe and will make determine whether sanctions are in order to stop the project from Russia to Germany, White House spokeswoman Jen Psaki told reporters on Tuesday."
-    publishedDateTime: 2021-02-16T22:40:00Z
-    webUrl: "https://www.reuters.com/article/us-nordstream-usa-biden-idUSKBN2AG29A"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AG29A"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AG29A"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210216&t=2&i=1551744910&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1F1E2"
-        width: 806
-        height: 545
-        isCached: true
-  - title: "White House says Netanyahu call will be Biden's first to region"
-    excerpt: "White House press secretary Jen Psaki said Tuesday that President Biden will speak with Israeli Prime Minister Benjamin Netanyahu “soon” and that the phone call would be the new president’s first to a leader in the Middle East ."
-    publishedDateTime: 2021-02-16T18:39:00Z
-    webUrl: "https://thehill.com/policy/national-security/539018-white-house-says-netanyahu-call-will-be-bidens-first-to-region"
-    ampWebUrl: "https://thehill.com/policy/national-security/539018-white-house-says-netanyahu-call-will-be-bidens-first-to-region?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/national-security/539018-white-house-says-netanyahu-call-will-be-bidens-first-to-region?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/netanyahubenjamin_05252020getty.jpg"
         width: 980
         height: 551
         isCached: true
@@ -190,36 +94,6 @@ related:
       - url: "https://s.abcnews.com/images/Politics/president-biden-ap-jef-210214_1613317059152_hpMain_16x9_1600.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Biden's 1st 100 days live updates: Biden using 1st trip as president to make case for COVID relief plan"
-    excerpt: "Biden is visiting Wisconsin on Tuesday and Michigan on Thursday. Coronavirus and the economy This is Day 28 of the administration of President Joe Biden and Vice President Kamala Harris. Biden traveled to Milwaukee Tuesday evening and is participating in a televised CNN town hall where he's answering questions from Americans."
-    publishedDateTime: 2021-02-17T02:44:00Z
-    webUrl: "https://abcnews.go.com/Politics/live-updates/joe-biden-white-house-administration/?id=75890872"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/joe-biden-white-house-administration/?id=75890872"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/joe-biden-white-house-administration/?id=75890872"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 109
-    images:
-      - url: "https://s.abcnews.com/images/Politics/biden-town-hall-milwaukee-ge_hpMain_20210216-213546_16x9_1600.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Pres. Biden urging Congress for stricter gun ..."
-    excerpt: "Watch \"Pres. Biden urging Congress for stricter gun laws as Sunday marks 3 years since the deadly mass shooting in Parkland, Florida\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN,"
-    publishedDateTime: 2021-02-15T22:47:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20210215234020-pres-biden-urging-congress-for-stricter-gun-laws-as-sunday-marks-3-years-since-the-deadly-mass-shooting-in-parkland-florida/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/2014/10/24/81f260db-0e27-4cf7-83ac-a190dca0b384/slatedvr600x337.jpg"
-        width: 600
-        height: 337
         isCached: true
 
 secured: "J2syNjxM2GtBVDO6sTNTxdoGB5ZSLC1C6gKCGF0SdDkaCzzaJj/cawhB4EDr4VfUGogBamXibxgqvEdto1O0QDpxBv7nPYn0zZyNu27Kj3NFVhU2FT3cZUwsYoKQnnrO01UM+NygbF+z/hA2Mji0cMc9+GwxBrrr6Io4lfsXwm7b23iipVRDl9/V1uO8vi8Z/bnnaYEWI7bvPFu4AlP3SF9Sl5MkIROedg+2kKRh+9fD3gO072FqUbKqKXzh6su9/g5q3ivif4SR2y779LnVhfgjhSllJKiPoQJFJ4f9e/PoEaWWkLDK6kHnRy7rUpX4+DuT/rPErFrizOeF23L68NTOb55UtWOyHdOdBgZTMRI=;yWKWw1W7eC0W7uLeax0zdA=="

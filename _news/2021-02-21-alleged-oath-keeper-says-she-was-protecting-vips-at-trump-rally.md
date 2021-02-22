@@ -191,6 +191,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Justice Clarence Thomas reveals some sympathy for Trump's baseless fraud claims "
+    excerpt: "Supreme Court Justice Clarence Thomas on Monday claimed election fraud is a threat to America, revealing in a forceful dissent some support for former President Donald Trump and Republicans who have refused to accept the result of the 2020 election.\n    \n"
+    publishedDateTime: 2021-02-22T22:46:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zEDcZhyAdO0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/22/politics/clarence-thomas-trump-election-fraud/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/22/politics/clarence-thomas-trump-election-fraud/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210222122848-donald-trump-clarence-thomas-102620-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "The Supreme Court is still sitting on Trump's tax returns, and justices aren't saying why"
     excerpt: "Lawsuits involving Donald Trump tore apart the Supreme Court while he was president, and the justices apparently remain riven by him.\n    \n"
     publishedDateTime: 2021-02-18T11:40:15Z
