@@ -79,6 +79,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to mark upcoming 500,000 US Covid-19 deaths with candle lighting ceremony"
+    excerpt: "With the US approaching 500,000 Covid-19 deaths, plans are underway for President Joe Biden to mark the moment this week.\n    \n"
+    publishedDateTime: 2021-02-22T09:59:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dYOI65LzzkU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/21/politics/coronavirus-memorial-biden-500000-deaths/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/21/politics/coronavirus-memorial-biden-500000-deaths/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210119175756-22-biden-inauguration-0119-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "GOP irked after last-ditch attempt fails to deter Biden push for quick passage of Covid relief plan "
+    excerpt: "It was Super Bowl Sunday -- and President Joe Biden was on the phone with Sen. Susan Collins.\n    \n"
+    publishedDateTime: 2021-02-22T11:01:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gLrhDrrTwT8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/22/politics/republicans-joe-biden-covid-relief/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/22/politics/republicans-joe-biden-covid-relief/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210204164947-21-week-in-photos-0205-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "White House relaunches Snapchat account with a Covid-focused message from Biden and Fauci"
     excerpt: "The White House is relaunching its official Snapchat account on Tuesday, featuring a message from President Joe Biden focused on Covid-19.\n    \n"
     publishedDateTime: 2021-02-16T23:17:13Z

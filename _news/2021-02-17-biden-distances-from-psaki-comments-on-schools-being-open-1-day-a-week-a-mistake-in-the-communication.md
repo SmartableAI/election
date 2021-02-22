@@ -79,6 +79,38 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Collins opposes Tanden for Biden budget director, in another blow to confirmation"
+    excerpt: "Sen. Susan Collins, R-Me., said Monday that she will not support President Biden's nominee to lead the Office of Management and Budget, Neera Tanden, dealing another blow to the odds of confirmation."
+    publishedDateTime: 2021-02-22T12:17:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RxZajsm5fQk/susan-collins-opposes-neera-tanden-biden-budget-director"
+    ampWebUrl: "https://www.foxnews.com/politics/susan-collins-opposes-neera-tanden-biden-budget-director.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/susan-collins-opposes-neera-tanden-biden-budget-director.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21041644409078.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Merrick Garland to be questioned on Cuomo, Hunter Biden and more at AG confirmation hearing"
+    excerpt: "Judge Merrick Garland, President Biden's pick to be the next attorney general of the United States, is likely to be grilled by Senate Republicans Monday on hot-button issues, including the Cuomo nursing home scandal, concerns about Hunter Biden and more. "
+    publishedDateTime: 2021-02-22T12:29:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gOYGTw5zcIA/biden-ag-pick-merrick-garland-cuomo-hunter-biden-hearing"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-ag-pick-merrick-garland-cuomo-hunter-biden-hearing.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-ag-pick-merrick-garland-cuomo-hunter-biden-hearing.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden COVID adviser can't explain why closed California isn't doing better than open Florida"
     excerpt: "White House COVID-19 adviser Andy Slavitt appeared stumped Wednesday when asked on MSNBC to explain California and Florida’s similar COVID-19 trends, despite having wildly different responses to the pandemic."
     publishedDateTime: 2021-02-18T01:03:56Z

@@ -3,8 +3,8 @@ category: news
 title: "Biden to mark Covid death milestone with candle ceremony at White House – live updates"
 excerpt: "President will address nation this evening on the American lives lost to the pandemic"
 publishedDateTime: 2021-02-22T09:40:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates?page=with:block-603389938f088c613adcf023"
-webUrl: "https://www.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates?page=with:block-603389938f088c613adcf023"
+originalUrl: "https://www.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates?page=with:block-603385838f088c613adceff6"
+webUrl: "https://www.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates?page=with:block-603385838f088c613adceff6"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates"
 type: article
@@ -25,7 +25,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://i.guim.co.uk/img/media/8382e37860c73a9bf987876f65263c90312fb46a/825_1197_3920_2352/master/3920.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6540c0fd6db360ce8820d1e150325a3b"
+  - url: "https://i.guim.co.uk/img/media/8a65096259a53868edaed1dc39c4ea261e1d039c/0_46_5471_3283/master/5471.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=b4de51756c44098da7f0399ded139923"
     width: 600
     height: 360
     isCached: true
@@ -142,6 +142,6 @@ related:
         height: 600
         isCached: true
 
-secured: "IBHkcobEbZw8oqmogwG4HAIqd75nIXFopg6HrVhOmLajqjZZc1LKFnaFgu0cWXlQZbWrFBnaX0Up9g41D0mtNnDXo7xvwYIasMEkwTlIqbsw2yIkqqaMGaO+5QcRuFAP831T6UN9kkxHbTCRkbxr6KJl/09Mkctq3A4bskV6Ew+HS1GeKsFABaoIUpA+MvAMg3soB2of7a8waNHaLRpfgxY6ApieIcvfZTZR9eYHFNthBf44CB9uT2LIW6kN1hk/A0Dzj1Rkn7pRfM/tJ1lT9SOY8iC7aC+vWfdwCACbGxcNA8XXL7vubFWqyqNDShBsKRCCpU0kyCtKcjRNHy3aY7+4MeCcmUDvY5TCIUFrXC4=;q/p22ofVi3b8g+8eX5sU4Q=="
+secured: "kgrM/2C1yGQq7TS9Mc8eL9oKGyEbdnqsxqH4Clz/dQKOZkogaRRIGWiudyAkYIgTlD7dHVK0HUC5ODypf2aUL29GjsBIatB876X2Yicp9W9+TrqOL9B+ctYf6BpP91/nqupmUfE20366hmuD4kplLiIKExwcHYXT7IriUH/BGmk0aHSXFW13V/OKrsddEiLJGQ437oTshyKvDAOasnHimwG3QyLkQiN4NnnsG7z8jbtFe1IMZqpLK7KPd7Q8/YeRLsKBuVHmaPnmKC+PKGFQzWi+BzY49MwAMBxrwWgOijCV3YQa+RBq6EZ+1LW52bPqVyy8pLP78qjkHv1v2QbalX1Pff3xQmbsCN7BfgI7MgA=;GTVEj0l6nrclZQcdsRUuDA=="
 ---
 

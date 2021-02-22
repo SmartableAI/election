@@ -1,32 +1,33 @@
 ---
 category: news
-title: "WARREN presses BIDEN for DEBT RELIEF — NEW GROUPS eligible for COVID SHOTS — BEACON HILL to probe VAX rollout"
-excerpt: "President Joe Biden is pretty blunt about where he stands on canceling $50,000 per borrower in student loan debt. “I will not make that happen,” Biden said during a CNN town hall earlier this week. But Sen."
-publishedDateTime: 2021-02-18T12:23:00Z
-originalUrl: "https://www.politico.com/newsletters/massachusetts-playbook/2021/02/18/warren-presses-biden-for-debt-relief-new-groups-eligible-for-covid-shots-beacon-hill-to-probe-vax-rollout-491796"
-webUrl: "https://www.politico.com/newsletters/massachusetts-playbook/2021/02/18/warren-presses-biden-for-debt-relief-new-groups-eligible-for-covid-shots-beacon-hill-to-probe-vax-rollout-491796"
+title: "Biden to mark upcoming 500,000 US Covid-19 deaths with candle lighting ceremony"
+excerpt: "With the US approaching 500,000 Covid-19 deaths, plans are underway for President Joe Biden to mark the moment this week.\n    \n"
+publishedDateTime: 2021-02-22T09:59:06Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dYOI65LzzkU/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dYOI65LzzkU/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/02/21/politics/coronavirus-memorial-biden-500000-deaths/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/21/politics/coronavirus-memorial-biden-500000-deaths/index.html"
 type: article
-quality: 96
+quality: 171
 heat: -1
 published: false
 
 provider:
-  name: Politico
-  domain: politico.com
+  name: CNN
+  domain: cnn.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-    width: 1120
-    height: 629
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210119175756-22-biden-inauguration-0119-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -75,22 +76,6 @@ related:
     quality: 171
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210216214118-11-biden-town-hall-0216-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden to mark upcoming 500,000 US Covid-19 deaths with candle lighting ceremony"
-    excerpt: "With the US approaching 500,000 Covid-19 deaths, plans are underway for President Joe Biden to mark the moment this week.\n    \n"
-    publishedDateTime: 2021-02-22T09:59:06Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dYOI65LzzkU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/21/politics/coronavirus-memorial-biden-500000-deaths/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/21/politics/coronavirus-memorial-biden-500000-deaths/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 171
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210119175756-22-biden-inauguration-0119-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -156,7 +141,21 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "WARREN presses BIDEN for DEBT RELIEF — NEW GROUPS eligible for COVID SHOTS — BEACON HILL to probe VAX rollout"
+    excerpt: "President Joe Biden is pretty blunt about where he stands on canceling $50,000 per borrower in student loan debt. “I will not make that happen,” Biden said during a CNN town hall earlier this week. But Sen."
+    publishedDateTime: 2021-02-18T12:23:00Z
+    webUrl: "https://www.politico.com/newsletters/massachusetts-playbook/2021/02/18/warren-presses-biden-for-debt-relief-new-groups-eligible-for-covid-shots-beacon-hill-to-probe-vax-rollout-491796"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 96
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
 
-secured: "b3wbhE/bToQUVUbt8ZVinZVoO35KSrX7TygAumfWFwuMAbBzoTmgbFi2ypA3vOpePA2YY+h1KsC/AAHMStw9pBqmZnwp6x51o4KtKSGbimv9FKkceXOzLrUkpiKDiWYEIWCJ9+iNuG6DJg0m3C24HtUCbWtg9xR8QxFHfisH3kUbG0BfGWgCYReZXH7Er4j0THb8nR+Z6iFY0LXyMwgTCikj6pXvgdPjZM/gt2PRauT+cXTBNbTwrbScUaqoJ7jkfNIGSlByu7lhJG210agOPuzk3nJfbRtmYROpX7TyaeKoIG6GPIQd0yNiLa/8iIEWznLCn6H4Z4Kbr0BXpF8hgPthoBKk3FgO5obSnjA8vlg=;KDqAb7Jo9O/0BsaE1z8+Xw=="
+secured: "1zhm8kDRdsuWNQ73dhcBi483Iki6HYialMAiNjNOgWibsJUjFL4UjjrTMCH3LBH1m6Oq5xsP1aE1tpds1QOsk0UojLGDQvC5ZncuHB7xGj3oJ7UcmQ8EUzwjy1ToHwgQ5AJBq1M6PkFm56oGR0zFQ6tiJeyXW58/yhxmERTjvZN5kmIOgoQrf29YbGRkUTrYiCrnqrlgym+eaa6zA9jzIPSjAvF+ZpKxBn1Cko5TywuQk9qDg5MMjnxDTdwZStMRaePTm85vkh4NWjX9LyM/F4Tb0rSv9lcjXzHEtCRIihlTv6GepzL3T0eZg2ePLcxDHkC9/J4A/bZxl4paNNuj6t316Hf9vOZVbyxs88XxnAw=;PSshIC8FZj1fB5u7LU7Q1Q=="
 ---
 

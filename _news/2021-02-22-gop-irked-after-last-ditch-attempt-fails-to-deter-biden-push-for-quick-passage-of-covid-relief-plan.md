@@ -1,32 +1,33 @@
 ---
 category: news
-title: "WARREN presses BIDEN for DEBT RELIEF — NEW GROUPS eligible for COVID SHOTS — BEACON HILL to probe VAX rollout"
-excerpt: "President Joe Biden is pretty blunt about where he stands on canceling $50,000 per borrower in student loan debt. “I will not make that happen,” Biden said during a CNN town hall earlier this week. But Sen."
-publishedDateTime: 2021-02-18T12:23:00Z
-originalUrl: "https://www.politico.com/newsletters/massachusetts-playbook/2021/02/18/warren-presses-biden-for-debt-relief-new-groups-eligible-for-covid-shots-beacon-hill-to-probe-vax-rollout-491796"
-webUrl: "https://www.politico.com/newsletters/massachusetts-playbook/2021/02/18/warren-presses-biden-for-debt-relief-new-groups-eligible-for-covid-shots-beacon-hill-to-probe-vax-rollout-491796"
+title: "GOP irked after last-ditch attempt fails to deter Biden push for quick passage of Covid relief plan "
+excerpt: "It was Super Bowl Sunday -- and President Joe Biden was on the phone with Sen. Susan Collins.\n    \n"
+publishedDateTime: 2021-02-22T11:01:14Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gLrhDrrTwT8/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gLrhDrrTwT8/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/02/22/politics/republicans-joe-biden-covid-relief/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/22/politics/republicans-joe-biden-covid-relief/index.html"
 type: article
-quality: 96
+quality: 160
 heat: -1
 published: false
 
 provider:
-  name: Politico
-  domain: politico.com
+  name: CNN
+  domain: cnn.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-    width: 1120
-    height: 629
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210204164947-21-week-in-photos-0205-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -110,22 +111,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "GOP irked after last-ditch attempt fails to deter Biden push for quick passage of Covid relief plan "
-    excerpt: "It was Super Bowl Sunday -- and President Joe Biden was on the phone with Sen. Susan Collins.\n    \n"
-    publishedDateTime: 2021-02-22T11:01:14Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gLrhDrrTwT8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/22/politics/republicans-joe-biden-covid-relief/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/22/politics/republicans-joe-biden-covid-relief/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 160
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210204164947-21-week-in-photos-0205-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "White House relaunches Snapchat account with a Covid-focused message from Biden and Fauci"
     excerpt: "The White House is relaunching its official Snapchat account on Tuesday, featuring a message from President Joe Biden focused on Covid-19.\n    \n"
     publishedDateTime: 2021-02-16T23:17:13Z
@@ -156,7 +141,21 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "WARREN presses BIDEN for DEBT RELIEF — NEW GROUPS eligible for COVID SHOTS — BEACON HILL to probe VAX rollout"
+    excerpt: "President Joe Biden is pretty blunt about where he stands on canceling $50,000 per borrower in student loan debt. “I will not make that happen,” Biden said during a CNN town hall earlier this week. But Sen."
+    publishedDateTime: 2021-02-18T12:23:00Z
+    webUrl: "https://www.politico.com/newsletters/massachusetts-playbook/2021/02/18/warren-presses-biden-for-debt-relief-new-groups-eligible-for-covid-shots-beacon-hill-to-probe-vax-rollout-491796"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 96
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
 
-secured: "b3wbhE/bToQUVUbt8ZVinZVoO35KSrX7TygAumfWFwuMAbBzoTmgbFi2ypA3vOpePA2YY+h1KsC/AAHMStw9pBqmZnwp6x51o4KtKSGbimv9FKkceXOzLrUkpiKDiWYEIWCJ9+iNuG6DJg0m3C24HtUCbWtg9xR8QxFHfisH3kUbG0BfGWgCYReZXH7Er4j0THb8nR+Z6iFY0LXyMwgTCikj6pXvgdPjZM/gt2PRauT+cXTBNbTwrbScUaqoJ7jkfNIGSlByu7lhJG210agOPuzk3nJfbRtmYROpX7TyaeKoIG6GPIQd0yNiLa/8iIEWznLCn6H4Z4Kbr0BXpF8hgPthoBKk3FgO5obSnjA8vlg=;KDqAb7Jo9O/0BsaE1z8+Xw=="
+secured: "8g0DpReD91k1cc6fCEwon6jAMfZ9J6Kx8owo7HHMejskWYow3/+K5XUd/1JSQUkz7g14J8KBCpXSXCdWbq14rwHyiQw28ajI0S1xJSFtUJGBC7oSeThAjBKT8Mv8CEH+0U5L0AOHGhX1SevvzzSvMO2i32SZ8MmrCX3b/NkUdU3PoIPo5HnCo4tC86O6m/s7RyFAMzR6wtsYdp0WELtxNlX8NnB79ne+dGgJe4MScu9aU15uHeGXqLaXVpKfWJastskRcia3TKxkxwUMh6lZaWSNhCBPAGVvJsI3naZDQFA0sEIGXPqZfs6+yJFlH5RtgejXHEbqs7kXRCTO/h8oHdblYQ1h/ABib4uAtXYwSR4=;wH4yCXaUiyqw0k/PemNFpw=="
 ---
 

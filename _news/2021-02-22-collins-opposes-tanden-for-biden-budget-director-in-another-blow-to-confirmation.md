@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Biden, Cuomo didn’t discuss COVID nursing home scandal, Psaki says"
-excerpt: "It was the elephant in the Oval Office, but somehow, President Biden and Gov. Andrew Cuomo didn’t discuss his COVID-19 nursing home scandal when they met last week."
-publishedDateTime: 2021-02-16T21:37:34Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/srKMzc1VH-Y/biden-cuomo-didnt-discuss-covid-nursing-home-scandal-psaki-says"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/srKMzc1VH-Y/biden-cuomo-didnt-discuss-covid-nursing-home-scandal-psaki-says"
-ampWebUrl: "https://www.foxnews.com/politics/biden-cuomo-didnt-discuss-covid-nursing-home-scandal-psaki-says.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cuomo-didnt-discuss-covid-nursing-home-scandal-psaki-says.amp"
+title: "Collins opposes Tanden for Biden budget director, in another blow to confirmation"
+excerpt: "Sen. Susan Collins, R-Me., said Monday that she will not support President Biden's nominee to lead the Office of Management and Budget, Neera Tanden, dealing another blow to the odds of confirmation."
+publishedDateTime: 2021-02-22T12:17:08Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RxZajsm5fQk/susan-collins-opposes-neera-tanden-biden-budget-director"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RxZajsm5fQk/susan-collins-opposes-neera-tanden-biden-budget-director"
+ampWebUrl: "https://www.foxnews.com/politics/susan-collins-opposes-neera-tanden-biden-budget-director.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/susan-collins-opposes-neera-tanden-biden-budget-director.amp"
 type: article
-quality: 175
-heat: 355
-published: true
+quality: 170
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -25,12 +25,28 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Oval2.jpg?ve=1&tl=1"
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21041644409078.jpg?ve=1&tl=1"
     width: 640
     height: 320
     isCached: true
 
 related:
+  - title: "Biden, Cuomo didn’t discuss COVID nursing home scandal, Psaki says"
+    excerpt: "It was the elephant in the Oval Office, but somehow, President Biden and Gov. Andrew Cuomo didn’t discuss his COVID-19 nursing home scandal when they met last week."
+    publishedDateTime: 2021-02-16T21:37:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/srKMzc1VH-Y/biden-cuomo-didnt-discuss-covid-nursing-home-scandal-psaki-says"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-cuomo-didnt-discuss-covid-nursing-home-scandal-psaki-says.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cuomo-didnt-discuss-covid-nursing-home-scandal-psaki-says.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Oval2.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Haley slams media, Biden for Cuomo praise amid nursing home scandal"
     excerpt: "Nikki Haley on Wednesday ripped into media outlets and President Biden for praising New York Gov. Andrew Cuomo’s handling of the pandemic response -- as the Democratic governor faces renewed scrutiny of his nursing home policies."
     publishedDateTime: 2021-02-18T03:23:46Z
@@ -62,22 +78,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Collins opposes Tanden for Biden budget director, in another blow to confirmation"
-    excerpt: "Sen. Susan Collins, R-Me., said Monday that she will not support President Biden's nominee to lead the Office of Management and Budget, Neera Tanden, dealing another blow to the odds of confirmation."
-    publishedDateTime: 2021-02-22T12:17:08Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RxZajsm5fQk/susan-collins-opposes-neera-tanden-biden-budget-director"
-    ampWebUrl: "https://www.foxnews.com/politics/susan-collins-opposes-neera-tanden-biden-budget-director.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/susan-collins-opposes-neera-tanden-biden-budget-director.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21041644409078.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
         isCached: true
   - title: "Merrick Garland to be questioned on Cuomo, Hunter Biden and more at AG confirmation hearing"
     excerpt: "Judge Merrick Garland, President Biden's pick to be the next attorney general of the United States, is likely to be grilled by Senate Republicans Monday on hot-button issues, including the Cuomo nursing home scandal, concerns about Hunter Biden and more. "
@@ -176,6 +176,6 @@ related:
         height: 340
         isCached: true
 
-secured: "xMtY+QarvSBaAQXe4/U+orpvSVZM80Wm6zb9GZTaZZOkm5EZAnCVn6HSZxukpH7WGODcDU0HFFLf5A951S1xkutUONuOavI7B66xjh6WwEvxs4ivzg8dvKQbH3ebMD785PEMhqectOQcowWujqk+XD1Gf/qa4ffSzZ4C12JPN1uxswo9IVGlwFJeb8ku/6TzfHRJmbGmd+c3nuqqisJ76I5jX+CpZ6ymEs8KEg9ttjHz68V5bAK5VPix3W+hgOhzNRwT0Efj5q1zOmN+AL5J+uLZU8GWz32OHclVgrGUSafFpQi3EG1T/b5D1aT45PiNBL45FG8GGnwy0AHeqg1cRHN2eK/jSjyaAqo1xvwn0Fw=;qZRNn5/NLqNK3+VTMLJgwA=="
+secured: "YZVqebS5P5yhRoIyi/NRZ0JD+wsu/NFvGRdPHlKTPtWrpDwD00TpaY/Z8kfj0/HBGAC9mImYYXTa5C3vPMlQdS1gTrAI6tvHPsVAzkzYtkmP+bALAXY5vB1UtiTyiIzcTba7VfoQTpziuWJ9UT0vrP533tvbtiR4Arg07y08rvFg271Q4Fe/gf65W2rlFbOxLywDuIWZSjVLTWY/0d2MktTQRC+7npe21s+6Os1ueneXNKVGggxTuZbahZeXzg3jrNBrpcgU/1mMHsydFFB7zUCS3vk7nxxPX+IsDCTelSe8PNi1C0kznGhLKUFmrvu/uvyHe6QlA1BknXS/nE1BQRFM5PdV4CrWIo89XppMAXw=;2uwrr1dcWpoGxlMKFgaRyA=="
 ---
 
