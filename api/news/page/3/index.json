@@ -2,6 +2,162 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-18-trump-mcconnell-spat-leads-rick-scott-senate-gop-reelection-chair-to-seek-unity.md",
+      "title": "Trump-McConnell spat leads Rick Scott, Senate GOP reelection chair, to seek unity",
+      "excerpt": "Amid a very vocal war of words between the most powerful GOP leader in Congress and the most popular and influential Republican politician among the party’s base, the chair of the reelection arm of the Senate GOP is calling for unity as Republicans aim to win back the chamber’s majority next year.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4qkQ8V032UE/trump-mcconnell-spat-rick-scott-seeks-unity",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4qkQ8V032UE/trump-mcconnell-spat-rick-scott-seeks-unity",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 645,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-mcconnell-spat-rick-scott-seeks-unity.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-mcconnell-spat-rick-scott-seeks-unity.amp",
+      "publishedDateTime": "2021-02-18T13:08:13-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-ivanka-trump-tells-sen-marco-rubio-she-will-not-run-for-his-senate-seat-in-2022.md",
+      "title": "Ivanka Trump tells Sen. Marco Rubio she will not run for his Senate seat in 2022",
+      "excerpt": "Ivanka Trump will not be running for Sen. Marco Rubio’s U.S. Senate seat in 2022.The ex-senior White House adviser spoke with Rubio several weeks ago.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-ivanka-trump-marco-rubio-senate-20210218-akuxftwwobh3lmhhgzymv6prpe-story.html",
+      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-ivanka-trump-marco-rubio-senate-20210218-akuxftwwobh3lmhhgzymv6prpe-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/t_d161UjJTSv1JSV136IImAvrtU=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/A3GTOAJ4C5SSVFF5ZTJXNQAYGU.aspx",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-ivanka-trump-marco-rubio-senate-20210218-akuxftwwobh3lmhhgzymv6prpe-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-ivanka-trump-marco-rubio-senate-20210218-akuxftwwobh3lmhhgzymv6prpe-story.html?outputType=amp",
+      "publishedDateTime": "2021-02-18T11:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-ucla-student-charged-over-capitol-riot-after-sitting-in-mike-pences-chair.md",
+      "title": "UCLA student charged over Capitol riot after sitting in Mike Pence’s chair",
+      "excerpt": "A white-nationalist Californian student filmed sitting in the Senate chair that then-Vice President Mike Pence had just fled during the Capitol riot has been charged, according to an FBI",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/02/18/ucla-student-christian-secor-charged-for-role-in-capitol-riot/",
+      "originalUrl": "https://nypost.com/2021/02/18/ucla-student-christian-secor-charged-for-role-in-capitol-riot/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/02/christian-secor.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/02/18/ucla-student-christian-secor-charged-for-role-in-capitol-riot/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/18/ucla-student-christian-secor-charged-for-role-in-capitol-riot/amp/",
+      "publishedDateTime": "2021-02-18T10:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-18-ivanka-trump-tells-marco-rubio-she-wont-challenge-him-for-florida-senate-seat.md",
       "title": "Ivanka Trump tells Marco Rubio she won't challenge him for Florida Senate seat",
       "excerpt": "Ivanka Trump has no plans as of late to run for the US Senate -- at least not in Florida.\n    \n",
@@ -1203,163 +1359,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-ucla-student-charged-in-capitol-riot-allegedly-sat-in-mike-pences-chair.md",
-      "title": "UCLA Student Charged in Capitol Riot; Allegedly Sat in Mike Pence's Chair",
-      "excerpt": "A UCLA student from Costa Mesa who founded a campus political organization is facing federal charges of participating in the insurrection at the U.S. Capitol on Jan. 6, officials said Wednesday. Christian Secor,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnewyork.com/news/national-international/ucla-student-costa-mesa-charged-in-capitol-riot/2896395/",
-      "originalUrl": "https://www.nbcnewyork.com/news/national-international/ucla-student-costa-mesa-charged-in-capitol-riot/2896395/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 214,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nbcnewyork.com/2021/02/usdoj-secor-capitol-riot.jpg?fit=962%2C541",
-          "width": 962,
-          "height": 541,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnewyork.com/news/national-international/ucla-student-costa-mesa-charged-in-capitol-riot/2896395/?amp",
-      "cdnAmpWebUrl": "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/ucla-student-costa-mesa-charged-in-capitol-riot/2896395/?amp",
-      "publishedDateTime": "2021-02-17T08:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC New York",
-        "domain": "nbcnewyork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-watch-trump-plaza-in-atlantic-city-is-demolished.md",
-      "title": "WATCH: Trump Plaza in Atlantic City is demolished",
-      "excerpt": "Videos show the moment former President Donald Trump's long-standing Trump Plaza in Atlantic City is destroyed in a controlled demolition. The casino and hotel were closed in 2014.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/video/watch-trump-plaza-in-atlantic-city-is-demolished-101146182002",
-      "originalUrl": "https://www.nbcnews.com/video/watch-trump-plaza-in-atlantic-city-is-demolished-101146182002",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202102/f_mo_trump_demolish_210217.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo101146182002",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo101146182002",
-      "publishedDateTime": "2021-02-17T07:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-kamala-harris-pressed-on-school-reopenings-says-teachers-should-be-a-priority-in-receiving-covid-vacccine.md",
-      "title": "Kamala Harris pressed on school reopenings, says teachers 'should be a priority' in receiving COVID vacccine",
-      "excerpt": "Vice President Kamala Harris said the Biden administration believes teachers \"should be a priority\" in receiving the coronavirus vaccine as parents and educators clash over whether it is safe for teachers to return to the classroom without inoculations against COVID-19.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7uVaVOHoVtc/kamala-harris-teachers-priority-coronavirus-vaccines",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7uVaVOHoVtc/kamala-harris-teachers-priority-coronavirus-vaccines",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-teachers-priority-coronavirus-vaccines.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-teachers-priority-coronavirus-vaccines.amp",
-      "publishedDateTime": "2021-02-17T06:08:31-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
       ]
     }
   ],

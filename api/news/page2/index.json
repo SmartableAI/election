@@ -2,6 +2,228 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-20-trump-ally-nunes-sees-cnn-ukraine-lawsuit-thrown-out-by-new-york-judge.md",
+      "title": "Trump ally Nunes sees CNN Ukraine lawsuit thrown out by New York judge",
+      "excerpt": "California congressman sought $435m in damages over story that linked him to hunt for Biden dirt in Ukraine",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/feb/20/trump-nunes-cnn-ukraine-lawsuit-thrown-out-new-york-judge",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/feb/20/trump-nunes-cnn-ukraine-lawsuit-thrown-out-new-york-judge",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/5826a3ca181e521f7c7a46b6fb2ad9bc3a2637e3/0_200_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6736946fdcf4d2a9d1a580bf04f472cb",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/feb/20/trump-nunes-cnn-ukraine-lawsuit-thrown-out-new-york-judge",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/20/trump-nunes-cnn-ukraine-lawsuit-thrown-out-new-york-judge",
+      "publishedDateTime": "2021-02-20T03:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-20-cruz-and-cuomo-face-scandal-trump-cant-save-them.md",
+      "title": "Cruz and Cuomo Face Scandal. Trump Can’t Save Them.",
+      "excerpt": "Without Donald Trump dominating the political conversation, politicians’ audacious behavior isn’t so quickly subsumed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/02/20/us/politics/cruz-cuomo-scandal.html",
+      "originalUrl": "https://www.nytimes.com/2021/02/20/us/politics/cruz-cuomo-scandal.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/02/21/us/politics/20onpolitics/20onpolitics-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/02/20/us/politics/cruz-cuomo-scandal.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/20/us/politics/cruz-cuomo-scandal.amp.html",
+      "publishedDateTime": "2021-02-20T02:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-20-democrats-beat-trump-in-2020-now-theyre-asking-what-went-wrong.md",
+      "title": "Democrats Beat Trump in 2020. Now They’re Asking: What Went Wrong?",
+      "excerpt": "Disappointed by down-ballot losses, Democratic interest groups are joining forces to conduct an autopsy of the election results. Republicans do not yet seem willing to reckon with the G.O.P.’s major defeats.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/02/20/us/politics/democrats-beat-trump-in-2020-now-theyre-asking-what-went-wrong.html",
+      "originalUrl": "https://www.nytimes.com/2021/02/20/us/politics/democrats-beat-trump-in-2020-now-theyre-asking-what-went-wrong.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/02/21/us/politics/21election-autopsies-print1/00election-autopsies1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/02/20/us/politics/democrats-beat-trump-in-2020-now-theyre-asking-what-went-wrong.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/20/us/politics/democrats-beat-trump-in-2020-now-theyre-asking-what-went-wrong.amp.html",
+      "publishedDateTime": "2021-02-20T02:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-20-gop-rep-lauren-boebert-calls-on-biden-to-lower-flags-in-honor-of-rush-limbaugh.md",
+      "title": "GOP Rep. Lauren Boebert calls on Biden to lower flags in honor of Rush Limbaugh",
+      "excerpt": "Rep. Lauren Boebert, R-Colo., called on President Biden on Friday night to order flags lowered to half-staff in honor the life of conservative radio legend Rush Limbaugh.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bUXL4ysyf_Y/boebert-flags-half-staff-limbaugh",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bUXL4ysyf_Y/boebert-flags-half-staff-limbaugh",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/63a7afd9-a51a-4f00-91e3-c8786f9cf099/9d76ec8a-b441-45c7-94ee-88ec24e0820e/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/boebert-flags-half-staff-limbaugh.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/boebert-flags-half-staff-limbaugh.amp",
+      "publishedDateTime": "2021-02-19T18:12:02-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-20-biden-remarks-on-chinas-uighurs-is-bigotry-masquerading-as-cultural-sensitivity-hr-mcmaster-says.md",
       "title": "Biden remarks on China's Uighurs is 'bigotry masquerading as cultural sensitivity',' H.R. McMaster says",
       "excerpt": "Former national security adviser H.R. McMaster accused President Biden of \"bigotry masquerading as cultural sensitivity,\" following a town hall event where the president addressed China’s human rights abuses.",
@@ -1136,218 +1358,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-trump-mcconnell-spat-leads-rick-scott-senate-gop-reelection-chair-to-seek-unity.md",
-      "title": "Trump-McConnell spat leads Rick Scott, Senate GOP reelection chair, to seek unity",
-      "excerpt": "Amid a very vocal war of words between the most powerful GOP leader in Congress and the most popular and influential Republican politician among the party’s base, the chair of the reelection arm of the Senate GOP is calling for unity as Republicans aim to win back the chamber’s majority next year.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4qkQ8V032UE/trump-mcconnell-spat-rick-scott-seeks-unity",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4qkQ8V032UE/trump-mcconnell-spat-rick-scott-seeks-unity",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 645,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-mcconnell-spat-rick-scott-seeks-unity.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-mcconnell-spat-rick-scott-seeks-unity.amp",
-      "publishedDateTime": "2021-02-18T13:08:13-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-bill-gates-says-trump-should-probably-be-allowed-to-return-to-social-media.md",
-      "title": "Bill Gates says Trump should 'probably' be allowed to return to social media",
-      "excerpt": "Microsoft co-founder Bill Gates said Thursday that social media companies should let President Trump back on their platforms, despite his \"corrosive\" election fraud claims. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/N5_MoNGs7yU/bill-gates-says-trump-should-probably-be-allowed-to-return-to-social-media",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/N5_MoNGs7yU/bill-gates-says-trump-should-probably-be-allowed-to-return-to-social-media",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/293bed5e-ef2c-4f3b-a18d-a7c565bbef69/1133c664-0b35-4f1f-9163-666f52e5e1dd/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/bill-gates-says-trump-should-probably-be-allowed-to-return-to-social-media.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bill-gates-says-trump-should-probably-be-allowed-to-return-to-social-media.amp",
-      "publishedDateTime": "2021-02-18T11:39:31-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-ivanka-trump-tells-sen-marco-rubio-she-will-not-run-for-his-senate-seat-in-2022.md",
-      "title": "Ivanka Trump tells Sen. Marco Rubio she will not run for his Senate seat in 2022",
-      "excerpt": "Ivanka Trump will not be running for Sen. Marco Rubio’s U.S. Senate seat in 2022.The ex-senior White House adviser spoke with Rubio several weeks ago.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-ivanka-trump-marco-rubio-senate-20210218-akuxftwwobh3lmhhgzymv6prpe-story.html",
-      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-ivanka-trump-marco-rubio-senate-20210218-akuxftwwobh3lmhhgzymv6prpe-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/t_d161UjJTSv1JSV136IImAvrtU=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/A3GTOAJ4C5SSVFF5ZTJXNQAYGU.aspx",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-ivanka-trump-marco-rubio-senate-20210218-akuxftwwobh3lmhhgzymv6prpe-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-ivanka-trump-marco-rubio-senate-20210218-akuxftwwobh3lmhhgzymv6prpe-story.html?outputType=amp",
-      "publishedDateTime": "2021-02-18T11:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-ucla-student-charged-over-capitol-riot-after-sitting-in-mike-pences-chair.md",
-      "title": "UCLA student charged over Capitol riot after sitting in Mike Pence’s chair",
-      "excerpt": "A white-nationalist Californian student filmed sitting in the Senate chair that then-Vice President Mike Pence had just fled during the Capitol riot has been charged, according to an FBI",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/02/18/ucla-student-christian-secor-charged-for-role-in-capitol-riot/",
-      "originalUrl": "https://nypost.com/2021/02/18/ucla-student-christian-secor-charged-for-role-in-capitol-riot/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/02/christian-secor.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/02/18/ucla-student-christian-secor-charged-for-role-in-capitol-riot/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/18/ucla-student-christian-secor-charged-for-role-in-capitol-riot/amp/",
-      "publishedDateTime": "2021-02-18T10:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Republican Voice"
       ]
     }
   ],

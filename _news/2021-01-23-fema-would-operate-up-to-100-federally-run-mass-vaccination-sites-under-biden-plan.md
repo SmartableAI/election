@@ -63,6 +63,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Garland confirmation hearing live updates: Biden's AG pick faces Senate questions"
+    excerpt: "Live updates of Judge Merrick Garland's confirmation hearing to be attorney general before the Senate Judiciary Committee."
+    publishedDateTime: 2021-02-22T15:17:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/joe-biden-kamala-harris-white-house-administration/?id=76030510"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/joe-biden-kamala-harris-white-house-administration/?id=76030510"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/joe-biden-kamala-harris-white-house-administration/?id=76030510"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 120
+    images:
+      - url: "https://s.abcnews.com/images/Politics/merrick-garland3-rt-ml-210222_1614006623101_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Biden's 1st 100 days live updates: 9/11-type commission to investigate insurrection"
     excerpt: "U.S. Capitol. \"Now, as always, security is the order of the day: the security of our country, the security of our Capitol which is the temple of our democracy, and the security of our Members,\" she wrote in a letter to her Democratic colleagues."
     publishedDateTime: 2021-02-16T00:34:00Z

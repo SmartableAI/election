@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/republicans-bidens-move-iran-sancti
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-bidens-move-iran-sanctions-push.amp"
 type: article
 quality: 175
-heat: 415
+heat: 435
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Rep. Biggs urges Biden to keep to timeline for US withdrawal from Afghanistan"
+    excerpt: "Rep. Andy Biggs, R-Ariz., on Monday urged President Biden to keep to the current timeline for withdrawal from Afghanistan, warning that any delay could lead to a \"slippery slope.\""
+    publishedDateTime: 2021-02-22T15:33:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oX-Ef91_nPs/biggs-biden-timeline-withdrawal-afghanistan"
+    ampWebUrl: "https://www.foxnews.com/politics/biggs-biden-timeline-withdrawal-afghanistan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biggs-biden-timeline-withdrawal-afghanistan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1a7b903e-cc4e-4409-881b-9423960d9b52/94fa5bc2-c641-45fa-bead-1029cfadffec/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Manchin to oppose Biden OMB pick Neera Tanden over controversial Twitter posts"
     excerpt: "West Virginia Democrat Sen. Joe Manchin said on Friday that he would oppose President Biden’s nominee to lead the Office of Management and Budget over her Twitter history."
     publishedDateTime: 2021-02-19T22:52:51Z

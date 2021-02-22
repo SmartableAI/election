@@ -47,6 +47,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Garland says he has not discussed the Hunter Biden case with the president"
+    excerpt: "Judge Merrick Garland on Monday said he has not discussed the federal investigation into Hunter Biden’s tax affairs with President Biden."
+    publishedDateTime: 2021-02-22T16:15:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/E_QcYkPWkWo/garland-says-he-has-not-discussed-the-hunter-biden-case-with-the-president"
+    ampWebUrl: "https://www.foxnews.com/politics/garland-says-he-has-not-discussed-the-hunter-biden-case-with-the-president.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/garland-says-he-has-not-discussed-the-hunter-biden-case-with-the-president.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden's positive poll numbers on combating COVID nosedive over school reopenings"
     excerpt: "Fifty-eight percent of Americans approve of the job President Biden’s doing handling the federal government’s response to the coronavirus pandemic. But the same survey from Quinnipiac University also shows that when it comes to the president’s handling of the reopening of schools amid the COVID crisis,"
     publishedDateTime: 2021-02-18T03:19:17Z

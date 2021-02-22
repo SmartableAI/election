@@ -159,6 +159,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Supreme Court takes up Trump regulation on abortion counseling"
+    excerpt: "The Supreme Court on Monday agreed to hear a challenge to a Trump administration rule barring federally funded health care providers in the Title X family planning program from referring patients for abortions.\n    \n"
+    publishedDateTime: 2021-02-22T15:46:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BFsabscF6Yk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/22/politics/supreme-court-trump-abortion-counseling/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/22/politics/supreme-court-trump-abortion-counseling/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200629102812-01-scotus-abortion-protest-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "These GOP lawmakers are facing backlash from state parties for not backing Trump"
     excerpt: "State Republican parties are taking action against former President Donald Trump.\n    \n"
     publishedDateTime: 2021-02-15T16:14:38Z

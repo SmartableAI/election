@@ -175,6 +175,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Supreme Court refuses to take up Stormy Daniels appeal in defamation case against Trump"
+    excerpt: "The Supreme Court on Monday declined to take up a defamation case that the adult movie actress known as Stormy Daniels filed against former President Donald Trump, leaving in place lower court rulings that went against her.\n    \n"
+    publishedDateTime: 2021-02-22T15:15:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7Tzzxp0NtQY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/22/politics/supreme-court-stormy-daniels/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/22/politics/supreme-court-stormy-daniels/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180416172249-02-stormy-daniels-04-16-2018-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "From building the wall to bringing back coal: Some of Trump's more notable broken promises"
     excerpt: "While Donald Trump's first campaign for president was all about change, his argument for re-election was based on the premise that he had delivered on his initial promises and would continue to do so. The campaign slogan \"Promises made, promises kept,\" became Trump's rallying cry.\n    \n"
     publishedDateTime: 2021-01-30T16:07:51Z

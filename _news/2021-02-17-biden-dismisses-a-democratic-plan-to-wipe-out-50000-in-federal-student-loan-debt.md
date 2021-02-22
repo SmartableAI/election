@@ -80,7 +80,7 @@ related:
   - title: "Biden to mark Covid death milestone with candle ceremony at White House – live updates"
     excerpt: "President will address nation this evening on the American lives lost to the pandemic"
     publishedDateTime: 2021-02-22T09:40:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates?page=with:block-603389938f088c613adcf023"
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates?page=with:block-603385838f088c613adceff6"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates"
     type: article
@@ -89,9 +89,9 @@ related:
       domain: theguardian.com
     quality: 117
     images:
-      - url: "https://i.guim.co.uk/img/media/c94bc3ce8b8e6da02323a2e4df87408b1e0c4f6c/0_0_4652_3158/master/4652.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=94e3acb44b2d416ec91202e239e3da4b"
+      - url: "https://i.guim.co.uk/img/media/ecd26e64a62e2a874f9252d229d29e4dff42152c/0_0_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a3043c626a971a82677c75ca62086185"
         width: 600
-        height: 408
+        height: 360
         isCached: true
   - title: "President Joe Biden planning trip to storm-ravaged Texas, but 'I don't want to be a burden'"
     excerpt: "President Joe Biden said \"I don’t want to be a burden\" and will go next week when a presidential visit won't get in the way of Texas recovery."
