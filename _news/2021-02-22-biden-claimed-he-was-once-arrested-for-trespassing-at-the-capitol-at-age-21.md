@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden reiterates support for Texas in call with Gov. Abbott over winter storm crisis, White House says"
-excerpt: "President Biden spoke to Texas Gov. Greg Abbott Thursday about the ongoing winter storm crisis that had left millions without power for days."
-publishedDateTime: 2021-02-19T09:33:54Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VrX0aoRNt6E/biden-reiterates-support-for-texas-in-call-with-gov-abbott-over-winter-storm-crisis-white-house-says"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VrX0aoRNt6E/biden-reiterates-support-for-texas-in-call-with-gov-abbott-over-winter-storm-crisis-white-house-says"
-ampWebUrl: "https://www.foxnews.com/politics/biden-reiterates-support-for-texas-in-call-with-gov-abbott-over-winter-storm-crisis-white-house-says.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-reiterates-support-for-texas-in-call-with-gov-abbott-over-winter-storm-crisis-white-house-says.amp"
+title: "Biden claimed he was once arrested for trespassing at the Capitol at age 21"
+excerpt: "In a 2007 appearance on David Letterman, then-Sen. Joe Biden, D-Del., claimed he was arrested at the U.S. Capitol when he was 21 years old."
+publishedDateTime: 2021-02-22T00:42:33Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OG96G8hsr-g/biden-claimed-arrested-trespassing-capitol-age-21"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OG96G8hsr-g/biden-claimed-arrested-trespassing-capitol-age-21"
+ampWebUrl: "https://www.foxnews.com/politics/biden-claimed-arrested-trespassing-capitol-age-21.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-claimed-arrested-trespassing-capitol-age-21.amp"
 type: article
-quality: 159
+quality: 173
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/11665ff5-341f-4d44-9ffc-514372608862/28df6f02-0427-4c6b-8612-78db21c2fd30/1280x720/match/image.jpg"
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/10041044-9c91-4ef2-8d97-07a05bc968b3/052e06a0-744b-41a0-b40b-96a0a3d353be/1280x720/match/image.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -95,22 +95,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden claimed he was once arrested for trespassing at the Capitol at age 21"
-    excerpt: "In a 2007 appearance on David Letterman, then-Sen. Joe Biden, D-Del., claimed he was arrested at the U.S. Capitol when he was 21 years old."
-    publishedDateTime: 2021-02-22T00:42:33Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OG96G8hsr-g/biden-claimed-arrested-trespassing-capitol-age-21"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-claimed-arrested-trespassing-capitol-age-21.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-claimed-arrested-trespassing-capitol-age-21.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/10041044-9c91-4ef2-8d97-07a05bc968b3/052e06a0-744b-41a0-b40b-96a0a3d353be/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Biden’s promise to open half the schools in 100 days: Here is how it's going"
     excerpt: "Progress has been made in the president’s first month in office, but a little less than 60 percent are still not going to school full-time."
     publishedDateTime: 2021-02-19T23:09:58Z
@@ -175,6 +159,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden reiterates support for Texas in call with Gov. Abbott over winter storm crisis, White House says"
+    excerpt: "President Biden spoke to Texas Gov. Greg Abbott Thursday about the ongoing winter storm crisis that had left millions without power for days."
+    publishedDateTime: 2021-02-19T09:33:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VrX0aoRNt6E/biden-reiterates-support-for-texas-in-call-with-gov-abbott-over-winter-storm-crisis-white-house-says"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-reiterates-support-for-texas-in-call-with-gov-abbott-over-winter-storm-crisis-white-house-says.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-reiterates-support-for-texas-in-call-with-gov-abbott-over-winter-storm-crisis-white-house-says.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/11665ff5-341f-4d44-9ffc-514372608862/28df6f02-0427-4c6b-8612-78db21c2fd30/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Oversight Republicans warn DHS of impending border health crisis, blame ‘reckless’ Biden policies"
     excerpt: "Republicans on the House Oversight Committee are sounding the alarm to the Biden administration about an impending health crisis at the southern border -- warning that \"reckless\" policies and rhetoric from President Biden are fueling it."
     publishedDateTime: 2021-02-19T15:01:21Z
@@ -206,6 +206,6 @@ related:
         height: 720
         isCached: true
 
-secured: "AtvYq5BdTQ0ifpZucpFX8MWuDA4OK0fGDu2O7JTU24f5U28E17dpnxMdcoed3XNf6Z3ksKML7J5GjdmUpYpW/U5fohNMiONJOJextpjRnMEfqA2XeS14dkfMlF+3mbA4aAAe2SqRcmvVQK7l3Vgv0DmYyQ+0jys6wKWYR2ld/1rfKoJhmodg+95+KHQXRvyx7W0SKWoHmzfO8yK+MIHhJ8YnzG71XYruGExjm+IzLcdQ2QUsdvdYqwbqs3HhrdEx3LB3JlWqQgBgbloyV2LcnRFgMynMth140L5lv4iYZPGa+Ql1TlxTornVvQuxhIFV1Za02NBEjLnsRmWSIHRH0nozaAQ5GF+JR2Wo1+GbYf0=;XFxWDJojHuo+cQqbyQM+Jg=="
+secured: "8Bgqgxr49fCSs1JuCxcWyp5EAOSg+LWGvdqDpShXMJ4toXsqnfgc/Ujdbgk3HGSUL784lkRPWgULOmPBYUcB0AgVPOJTZF0PS7wByxhmC6Bck4i/M1NxetfDkkny3enkE0riuJhf7ArElI8eohwrueWK9YfhJ6iEo8LyNrGpbEO9K5SpX+R+gODqyEdZU1GkxAkwV+mmi9DC4IQRgs83z2vzSwtUjnet33Mq5LUVzSU1Yygz2lrKBTHcrGYPl4nW+XuJiNGphY2shbOpFf0LZoF4MP/A/rXNpLcE1w08Wa2iwLRRZ9SiI0nX7mp7vkTwW0lWmWgVWYnJJ4OS5Bd4hfb+7qg4ARPh8PdPxTSwYKs=;OACVOjv5rwucJrVsU6Y7ng=="
 ---
 

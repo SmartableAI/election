@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/kamala-harris-biden-starting-from-sc
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kamala-harris-biden-starting-from-scratch-covid-19-after-trump-2021-2?amp"
 type: article
 quality: 147
-heat: 1007
+heat: 1027
 published: true
 
 provider:
@@ -415,6 +415,22 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/23/6d8b519f-1815-483b-b05e-b6fbdb633e55/thumbnail/1200x630/13cce356ed65724e248875025fa45339/gettyimages-987106496.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "What you need to know about Section 230, the controversial internet law Trump hated and Biden might reform"
+    excerpt: "Section 230 has been described as \"the most important law protecting internet speech\" and \"the 26 words that created the internet.\""
+    publishedDateTime: 2021-02-21T23:15:00Z
+    webUrl: "https://www.businessinsider.com/what-is-section-230-internet-law-communications-decency-act-explained-2020-5"
+    ampWebUrl: "https://www.businessinsider.com/what-is-section-230-internet-law-communications-decency-act-explained-2020-5?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/what-is-section-230-internet-law-communications-decency-act-explained-2020-5?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 122
+    images:
+      - url: "https://i.insider.com/6012c2ff1d2df20018b7147e?width=750&format=jpeg&auto=webp"
+        width: 750
+        height: 563
         isCached: true
   - title: "Boris Johnson calls Trump's impeachment a 'kerfuffle' and suggests Biden copied his Build Back Better slogan"
     excerpt: "Boris Johnson described impeachment proceedings against Trump as 'toings and froings' and a 'kerfuffle.'"

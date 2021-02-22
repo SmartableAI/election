@@ -95,6 +95,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden claimed he was once arrested for trespassing at the Capitol at age 21"
+    excerpt: "In a 2007 appearance on David Letterman, then-Sen. Joe Biden, D-Del., claimed he was arrested at the U.S. Capitol when he was 21 years old."
+    publishedDateTime: 2021-02-22T00:42:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OG96G8hsr-g/biden-claimed-arrested-trespassing-capitol-age-21"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-claimed-arrested-trespassing-capitol-age-21.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-claimed-arrested-trespassing-capitol-age-21.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/10041044-9c91-4ef2-8d97-07a05bc968b3/052e06a0-744b-41a0-b40b-96a0a3d353be/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Thinking about 2024? Biden’s first trips as president are to two battleground states"
     excerpt: "President Biden’s hitting the road again – getting out of Washington for the second time this week as he makes the case for his top priority in the early days of his administration – a $1.9 trillion COVID relief package."
     publishedDateTime: 2021-02-19T23:15:39Z

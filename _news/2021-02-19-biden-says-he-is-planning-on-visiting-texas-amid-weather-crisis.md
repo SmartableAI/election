@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-planning-on-visiting-texas-we
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-planning-on-visiting-texas-weather-crisis.amp"
 type: article
 quality: 175
-heat: 375
+heat: 395
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 173
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/eb63fb98-5f29-44e6-b48a-f441d3ad0305/bc256167-692f-4a1a-80bf-ce3df3abdd93/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden claimed he was once arrested for trespassing at the Capitol at age 21"
+    excerpt: "In a 2007 appearance on David Letterman, then-Sen. Joe Biden, D-Del., claimed he was arrested at the U.S. Capitol when he was 21 years old."
+    publishedDateTime: 2021-02-22T00:42:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OG96G8hsr-g/biden-claimed-arrested-trespassing-capitol-age-21"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-claimed-arrested-trespassing-capitol-age-21.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-claimed-arrested-trespassing-capitol-age-21.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/10041044-9c91-4ef2-8d97-07a05bc968b3/052e06a0-744b-41a0-b40b-96a0a3d353be/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
