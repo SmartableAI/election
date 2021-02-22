@@ -95,6 +95,22 @@ related:
         width: 858
         height: 545
         isCached: true
+  - title: "Family of Americans held in Iran urge Biden to make their release a priority"
+    excerpt: "The family of an Iranian-American jailed in Tehran and his father, who is unable to leave Iran, urged U.S. President Joe Biden on Monday to make their freedom a precondition of any deals between the United States and Iran."
+    publishedDateTime: 2021-02-22T17:12:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-iran-namazis/family-of-americans-held-in-iran-urge-biden-to-make-their-release-a-priority-idUSKBN2AM1WB?edition-redirect=uk"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AM1WB"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AM1WB"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210222&t=2&i=1552447443&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1L11J"
+        width: 776
+        height: 545
+        isCached: true
 
 secured: "Q5uWMVF+r0jOBwXbj03eUNuukPy0p61YfRgvTNkRHPM9TvCjYHxL6/VL2TLc15opLB/0rNF80p9EyHlPGdvMgL4tvknbjIXULVlNkROabcdZnpq2HPlZK+j7kd5XHPPrJ+R+UOTp8VU0XoVa9k2qzlFkcZu3IpNRZLhDfm4Dc2y5j0Cj/D2AzLbwNuQJoASJuEmayWtkbUgfegv7GML2vUvXIJRqUSyKg3zOezUeEh6j1vErArmYiOv94j/EWxkWG5rSQHVdqkoLGAnwyxeIONfkyk0cfpZGJWkyIWqSi/Kd5j3KCeBm9E0wHIvBpNtbR3OnYLLPLkVMZfPke6WAih5zKzs4gHeMYsIoXmMUdeOS9/yBPmapOl2I409mvEfvxDvOhW63lVxGwGWlcaoNViyAvszGryzOzusmQRgjgMsq/AltMSaywzYd5OS13B2zBo75NvKr2x9xpZDrHODRt9ZsgyOoEIxkHNat4UKXrbje6iM8HbvSmXJoLCit49sCPCF7f4N3/pM0Zt0i95kgpQ==;By3lEdVsTk5Q2fBtMJ2Iqw=="
 ---

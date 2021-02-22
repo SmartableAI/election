@@ -127,6 +127,20 @@ related:
         width: 1200
         height: 678
         isCached: true
+  - title: "Biden Gives Small Firms Exclusive Access to Paycheck Program"
+    excerpt: "President Joe Biden said his administration is seeking to help small businesses by giving them exclusive access to the Paycheck Protection Program for two weeks, and he called on lawmakers to pass his $1."
+    publishedDateTime: 2021-02-22T18:25:00Z
+    webUrl: "https://www.washingtonpost.com/business/on-small-business/biden-gives-small-firms-exclusive-access-to-paycheck-program/2021/02/22/8cd3f096-74fc-11eb-9489-8f7dacd51e75_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PPAL2PTU7QI6XFEJR562ZVI6OU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Biden dismisses a Democratic plan to wipe out $50,000 in federal student-loan debt"
     excerpt: "President Joe Biden supports $10,000 in loan forgiveness, far less than Sens. Elizabeth Warren and Chuck Schumer proposed earlier this year."
     publishedDateTime: 2021-02-17T10:41:00Z

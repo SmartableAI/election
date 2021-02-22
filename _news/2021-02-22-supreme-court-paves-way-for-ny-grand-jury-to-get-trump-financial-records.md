@@ -7,8 +7,8 @@ originalUrl: "https://www.npr.org/2021/02/22/970134628/supreme-court-paves-way-f
 webUrl: "https://www.npr.org/2021/02/22/970134628/supreme-court-paves-way-for-ny-grand-jury-to-get-trump-financial-records"
 type: article
 quality: 104
-heat: 104
-published: true
+heat: -1
+published: false
 
 provider:
   name: NPR
@@ -28,6 +28,40 @@ images:
     height: 787
     isCached: true
 
-secured: "BauIijoaQHr1Iwo4O/+rYkc2VQTmFC06rZfR9s1M7AejCUuKG1jkiYyW/zUvXZfa5y4eEiN+poXk0FIiWorR9Uz65jDC1sO9Y8h5veDdmM8g2bjti3k8wEBg8vcesW2ucOJQx4bSs6L5VWP9LptJ+5G9x9ymse3izFvfaikiAlJXHTPyNeE8d4AkIU91Vl3iDBVN+wosl2sJzhpEQteueLAIE9TjNdLJxkZ7qb+F3mzEsQofD1g8eT5fIfCLMHvPmTcKRAGkZohWkA/YRs/0M7VdAzHfRSGElE5wxDz9zf66WeJ18GqdVv/qEhNftZH2HpAPLvCrXW5XWLEcfzyFCemzxCeIH0zUXhKfToSahCU=;xJt6ptDnGcCsj7YN0YVqeA=="
+related:
+  - title: "The Hill's 12:30 Report - Presented by Facebook - Supreme Court's blow to Trump"
+    excerpt: "Donald Trump Donald Trump Former Florida officer arrested after live streaming from inside US Capitol during breach, FBI says Schumer says he's working to find votes to confirm Biden's OMB pick Pence declined invitation to attend CPAC: reports MORE\" height=\"326\" width=\"580\" class=\"media-element file-original-image\" data-delta=\"2\" typeof=\"foaf:Image\" src=\" /> To view past editions of The Hill's 12:30 Report,"
+    publishedDateTime: 2021-02-22T17:30:00Z
+    webUrl: "https://thehill.com/homenews/1230-report/539878-the-hills-1230-report-supreme-court-blow-to-trump-financial-records-to-be-handed-over-to-prosecutors-national-margarita-day-deals"
+    ampWebUrl: "https://thehill.com/homenews/1230-report/539878-the-hills-1230-report-supreme-court-blow-to-trump-financial-records-to-be-handed-over-to-prosecutors-national-margarita-day-deals?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/1230-report/539878-the-hills-1230-report-supreme-court-blow-to-trump-financial-records-to-be-handed-over-to-prosecutors-national-margarita-day-deals?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 121
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_7_1.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Bill Gates Wants Trump Back On Facebook: It's 'A Shame'"
+    excerpt: "Facebook had indefinitely suspended Trump's account after the former president used it to incite his supporters the day of the bloody Capitol insurrection."
+    publishedDateTime: 2021-02-19T03:40:00Z
+    webUrl: "https://www.ibtimes.com/bill-gates-wants-trump-back-facebook-its-shame-3148140"
+    ampWebUrl: "https://www.ibtimes.com/bill-gates-wants-trump-back-facebook-its-shame-3148140?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/bill-gates-wants-trump-back-facebook-its-shame-3148140?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/08/05/microsoft-founder-and-philanthropist-bill-gates-seen-here.jpg"
+        width: 1024
+        height: 681
+        isCached: true
+
+secured: "xg4GvgbQVQJSrbzbwrmJS8p566QXUCesvIxCkeK5wAE74h4JDu3EkyOV3p9+jLlFkZoKnuCI42wf3wNKwg3gcOxO82qn968gtcKUaMsYiXJZpbv2DLEPMdXywGnjY1eXSnJvZYPpUL0RzXTBhvdiE08141taZZUPX2cc+mRynbHKjkMDtQtiFbwiS7DE6xHzuzTfisltfvMBxKGv4aP5IOakubnvOev/+ghNBv0wJ5gG1wUVNvDWWlib/kl6SMqeDCSFSm0R/4Pl1ZVTLJeXFgKwnVqf4xaW9A0pi0XFeKaDMbrFBRKvAJqGkLSFH0Yi7kwzDxfIG2t5+9nns8t47MlPbTuZPrjz7PdASM8dXqI=;KtEzVGURUGPU3t1viVKPbA=="
 ---
 

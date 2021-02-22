@@ -127,6 +127,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "President Joe Biden raised more than $22 million to fund his White House transition "
+    excerpt: "President Joe Biden raised $22.1 million from private donors for his transition to the White House, more than three times the $6.5 million than Donald Trump collected for the same purposes four years ago, according to newly filed report.\n    \n"
+    publishedDateTime: 2021-02-22T18:32:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Z9iaWiBTuks/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/22/politics/biden-raising-money-white-house-transition/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/22/politics/biden-raising-money-white-house-transition/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210121163502-joe-biden-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Former Biden coronavirus advisers push White House to more widely recommend use of N95 masks"
     excerpt: "Several members of President Joe Biden's former coronavirus advisory board are urging his administration to more widely recommend and mandate the use of N95 masks, citing a \"pressing and urgent need for action\" driven by the threat of new coronavirus variants.\n    \n"
     publishedDateTime: 2021-02-17T12:48:29Z

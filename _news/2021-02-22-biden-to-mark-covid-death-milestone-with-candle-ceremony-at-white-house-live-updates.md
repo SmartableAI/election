@@ -111,6 +111,20 @@ related:
         width: 1200
         height: 678
         isCached: true
+  - title: "Biden Gives Small Firms Exclusive Access to Paycheck Program"
+    excerpt: "President Joe Biden said his administration is seeking to help small businesses by giving them exclusive access to the Paycheck Protection Program for two weeks, and he called on lawmakers to pass his $1."
+    publishedDateTime: 2021-02-22T18:25:00Z
+    webUrl: "https://www.washingtonpost.com/business/on-small-business/biden-gives-small-firms-exclusive-access-to-paycheck-program/2021/02/22/8cd3f096-74fc-11eb-9489-8f7dacd51e75_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PPAL2PTU7QI6XFEJR562ZVI6OU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "'Climate change is real': Biden administration says Texas power crisis shows U.S. unprepared for extreme weather"
     excerpt: "President Joe Biden has approved federal emergency declarations for Texas, Oklahoma and is processing a request from Louisiana."
     publishedDateTime: 2021-02-19T00:55:00Z
@@ -142,6 +156,6 @@ related:
         height: 600
         isCached: true
 
-secured: "mYlvR/SjyZ6XMQueNuP+GgFaj2zl7ITmrDAuYfZb28Nq6WVDvZ0+kWSAzLIygyPVtA/Dtx/yhrORxHzDsWaYPDjaIcKZiAJduUz3dq1+XYf/g8NqU49mZXU6i568ntg6Q+CNpWB9frTR7b/NY2HK7pdsJHdMoPAu8lnq7+NIsvZGOmBe9cnH6Gy0GsHNOMPJEUVCkgFf3ujTpokZnz3Rk2M7FgtKgx1XT6hh/6wt0FZBzbC89bvHOOCgLg1fTDhkAb/sWqSu/vscY/5la8agZq++BHIfawmTZcwXhKq9DjMz1jLJ/YSlBhQ9O9zH9JXg6Kz6qWfHKR101n/rD3YPJWEVA7Vix6QEz07xvn/N/VM=;GitTd2aQ4+JoQwoQx3+DnA=="
+secured: "HQWq0XqYSvF5/SlB6ELxVlGNDqDvaeU1XKQF1rvA5nrVQ1VJmjsyDPfETWbsD3ZxTjhGLiJiJheh3Bs01QYer2WqN0GXWcYzQM2sVbrQaz/KciVv61MCp0JndqM7gBOnsv/HBE99E6acNGkMg9P2QBYp6hi+8Wxa0DDBr23AypvTo3IVq9fwChBTyeq4zRaOp8/pDypxaPV8DBexYgugKJnpAYvSYVYY0UltzQsYPj88tOtBKbbIbWXpMEPSSPZIw4tYySlpbD0F6g25W8tludLwaPrFFP+xeGij0Aay0coOW9nfqQpdKs2wXJ1ADiLSlyrBxaaFJrkJsrBW6d2Ye5t0y4DWmAMm77LoK11g9WvLFPBm4IMF0PxOwaAJjLyGgAA0nJKPFdRlsDtYsJ6ICWiZLdBT/LQ0HoCAJv4iJLJERD19P04y8KbdJpsvmFigIQ6bHAxyoEwgBFJ8X+ktqQm/Pettgyi42KrnX6ilqwn3cuK27o5KCT7SxtSEOTUkti2MdJTt7YnpmrMS6hO8uw==;TAs0YPP41IsvYB3xmirWbA=="
 ---
 

@@ -143,6 +143,17 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Arkansas' GOP governor says he won't back a Trump 2024 bid"
+    excerpt: "Arkansas Gov. Asa Hutchinson said Sunday he will not back Donald Trump if the former president runs for the White House in 2024, saying “it’s time” to move on to different voices in the Republican Party."
+    publishedDateTime: 2021-02-22T18:54:00Z
+    webUrl: "https://www.businessinsider.com/arkansas-gop-governor-says-he-wont-back-a-trump-2024-bid-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/arkansas-gop-governor-says-he-wont-back-a-trump-2024-bid-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/arkansas-gop-governor-says-he-wont-back-a-trump-2024-bid-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Sen. Ben Sasse: GOP Must Persuade Voters It Has A Vision Beyond Donald Trump"
     excerpt: "The Republican from Nebraska speaks with NPR's Steve Inskeep about the impeachment of former President Donald Trump, the future of the GOP and working with the Biden administration."
     publishedDateTime: 2021-02-16T19:03:00Z

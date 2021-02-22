@@ -1003,6 +1003,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "SCOTUS denies Trump bid to shield tax returns"
+    excerpt: "Top News SCOTUS denies Trump bid to shield tax returns. Posted . Donald Trump suffered a major setback on Monday in his long quest to conceal details of his finances as the U.S. S"
+    publishedDateTime: 2021-02-22T18:35:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVE0QDN63"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210222&i=OVE0QDN63&r=OVE0QDN63&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "2 Central Park ice rinks to close after city severs ties with Trump Organization"
     excerpt: "The Trump Organization is closing two ice skating rinks in Central Park after New York City Mayor Bill de Blasio severed their contract in the wake of the deadly Capitol riot. CBS New York's Carolyn Gusoff reports."
     publishedDateTime: 2021-02-21T20:35:00Z

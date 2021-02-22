@@ -495,6 +495,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "President Joe Biden's coronavirus goals and timelines have shifted higher and lower"
+    excerpt: "Some of the Biden administration's timelines and goals for confronting the pandemic have shifted or can be confusing. Here's what you need to know."
+    publishedDateTime: 2021-02-22T05:09:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/19/bidens-coronavirus-goals-and-timelines-have-shifted-higher-and-lower/6788140002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6788140002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6788140002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/10/USAT/382b35cc-fb0a-45fe-baec-d9e4812f52bd-GilmanK12Budget_FEAT.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "First lady Jill Biden decorates White House lawn with giant hearts for Valentine's Day"
     excerpt: "First lady Jill Biden and President Joe Biden strolled the North Lawn to see the Valentine signs she put there to help boost spirits."
     publishedDateTime: 2021-02-12T17:56:00Z

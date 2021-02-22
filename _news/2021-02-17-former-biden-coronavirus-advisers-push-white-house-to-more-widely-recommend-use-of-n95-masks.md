@@ -127,6 +127,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "President Joe Biden raised more than $22 million to fund his White House transition "
+    excerpt: "President Joe Biden raised $22.1 million from private donors for his transition to the White House, more than three times the $6.5 million than Donald Trump collected for the same purposes four years ago, according to newly filed report.\n    \n"
+    publishedDateTime: 2021-02-22T18:32:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Z9iaWiBTuks/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/22/politics/biden-raising-money-white-house-transition/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/22/politics/biden-raising-money-white-house-transition/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210121163502-joe-biden-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "White House now says Biden 'will not rest until every school is open five days a week' "
     excerpt: "White House press secretary Jen Psaki said Thursday that President Joe Biden's goal is to have schools open five days a week in-person, but stressed the administration would follow the guidance of science and medical experts on how to safely reopen.\n    \n"
     publishedDateTime: 2021-02-11T19:15:54Z

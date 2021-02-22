@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/19/texas-storm-lat
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/19/texas-storm-latest-news-today-power-outages-ted-cruz-cancun-trip-backlash"
 type: article
 quality: 124
-heat: 264
+heat: 284
 published: true
 
 provider:
@@ -110,6 +110,20 @@ related:
       - url: "https://www.gannett-cdn.com/-mm-/2f3822947b6a8f8aa6a183e96e64d71752a99d03/c=0-89-2998-1783/local/-/media/2016/09/22/USATODAY/USATODAY/636101585701576984-BLM-OBAMA-HEALTHCARE-58839458.JPG?auto=webp&format=pjpg&width=1200"
         width: 1200
         height: 678
+        isCached: true
+  - title: "Biden Gives Small Firms Exclusive Access to Paycheck Program"
+    excerpt: "President Joe Biden said his administration is seeking to help small businesses by giving them exclusive access to the Paycheck Protection Program for two weeks, and he called on lawmakers to pass his $1."
+    publishedDateTime: 2021-02-22T18:25:00Z
+    webUrl: "https://www.washingtonpost.com/business/on-small-business/biden-gives-small-firms-exclusive-access-to-paycheck-program/2021/02/22/8cd3f096-74fc-11eb-9489-8f7dacd51e75_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PPAL2PTU7QI6XFEJR562ZVI6OU.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "'Climate change is real': Biden administration says Texas power crisis shows U.S. unprepared for extreme weather"
     excerpt: "President Joe Biden has approved federal emergency declarations for Texas, Oklahoma and is processing a request from Louisiana."

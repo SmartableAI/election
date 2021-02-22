@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/gop-sen-richard-burr-facing-cens
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/gop-sen-richard-burr-facing-censure-home-vote/story?id=75905127"
 type: article
 quality: 125
-heat: 345
+heat: 365
 published: true
 
 provider:
@@ -127,6 +127,17 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Arkansas' GOP governor says he won't back a Trump 2024 bid"
+    excerpt: "Arkansas Gov. Asa Hutchinson said Sunday he will not back Donald Trump if the former president runs for the White House in 2024, saying “it’s time” to move on to different voices in the Republican Party."
+    publishedDateTime: 2021-02-22T18:54:00Z
+    webUrl: "https://www.businessinsider.com/arkansas-gop-governor-says-he-wont-back-a-trump-2024-bid-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/arkansas-gop-governor-says-he-wont-back-a-trump-2024-bid-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/arkansas-gop-governor-says-he-wont-back-a-trump-2024-bid-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "State GOP lawmakers propose flurry of voting restrictions to placate Trump supporters, spurring fears of a backlash"
     excerpt: "The effort is dividing Republicans, some of whom are trying to head off the measures to prevent being labeled the party of voter suppression."
     publishedDateTime: 2021-02-20T06:36:00Z

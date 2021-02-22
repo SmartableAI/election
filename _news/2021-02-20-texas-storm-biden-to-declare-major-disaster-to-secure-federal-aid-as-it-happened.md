@@ -111,6 +111,20 @@ related:
         width: 1200
         height: 678
         isCached: true
+  - title: "Biden Gives Small Firms Exclusive Access to Paycheck Program"
+    excerpt: "President Joe Biden said his administration is seeking to help small businesses by giving them exclusive access to the Paycheck Protection Program for two weeks, and he called on lawmakers to pass his $1."
+    publishedDateTime: 2021-02-22T18:25:00Z
+    webUrl: "https://www.washingtonpost.com/business/on-small-business/biden-gives-small-firms-exclusive-access-to-paycheck-program/2021/02/22/8cd3f096-74fc-11eb-9489-8f7dacd51e75_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PPAL2PTU7QI6XFEJR562ZVI6OU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "'Climate change is real': Biden administration says Texas power crisis shows U.S. unprepared for extreme weather"
     excerpt: "President Joe Biden has approved federal emergency declarations for Texas, Oklahoma and is processing a request from Louisiana."
     publishedDateTime: 2021-02-19T00:55:00Z

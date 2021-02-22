@@ -1017,6 +1017,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "SCOTUS denies Trump bid to shield tax returns"
+    excerpt: "Top News SCOTUS denies Trump bid to shield tax returns. Posted . Donald Trump suffered a major setback on Monday in his long quest to conceal details of his finances as the U.S. S"
+    publishedDateTime: 2021-02-22T18:35:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVE0QDN63"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210222&i=OVE0QDN63&r=OVE0QDN63&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Senate acquits Trump for second time after week-long trial | Impeachment This Week"
     excerpt: "House managers argue former president Trump incited an insurrection in a dramatic and swift Senate impeachment trial. Come inside the proceedings with The Washington Post."
     publishedDateTime: 2021-02-14T14:53:00Z
