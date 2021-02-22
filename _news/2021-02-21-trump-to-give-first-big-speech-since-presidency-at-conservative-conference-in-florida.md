@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/trump-give-first-big-speech-since-presidenc
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-give-first-big-speech-since-presidency-conservative-conference-florida-1570785?amp=1"
 type: article
 quality: 118
-heat: 118
+heat: 138
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 2500
     height: 1667
     isCached: true
+
+related:
+  - title: "Live politics updates: Mike Pence declines invitation to speak at conservative CPAC conference"
+    excerpt: "Organizer Matt Schlapp said it was a \"mistake\" for Pence to avoid the conference because \"his conservative record is well respected.\""
+    publishedDateTime: 2021-02-22T02:07:00Z
+    webUrl: "https://www.cincinnati.com/story/news/politics/2021/02/21/live-politics-updates-joe-biden-texas-storm-ted-cruz-asa-hutchinson/4532683001/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/4532683001"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/4532683001"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 63
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/21/USAT/89c5b44f-c754-4634-bd60-8a80a4a53e75-XXX__JG_138559_CPAC_02_27_2020_jmg_40382.JPG?auto=webp&crop=2176,1224,x0,y318&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "wnXKshr45GjeqGua0PRxYR/VeMEwOFCjkN1VnOXNFvkMFUIPz7Lq+UhpKrB0D5nHeBIdnH2pNCm6HQ8eiBs7T7ipqtgJe7fZmXY8vWV1Bqlm/2RxhUya/K386Xw1jWyB/es6doU2Mcd6K8TXIHvcaa3z6AUGNBNh/zZpPXeQG1MvjgIF4Er/IqULDIL5y38czHJRfjrxgQ0okrTWAXZdhZtNiz8RLZ+EItLyRb7Dn6aZiUxnCErWZQJyxmLjkI/+hpbCO0/2mCCbyFAiD4VBIHqrZZVZ6vR6gflAXLarjulrbAv160d9oXeIqAhInEv1wnoE+/HM0Xb4UVEnKYYOb2FLNzgnrs6bwOmteQd/FC0=;C41CX7rgptkTKJsFZl/Odg=="
 ---
