@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Texas storm: Biden to declare major disaster to secure federal aid – live"
-excerpt: "Biden says declaration could be signed this afternoon and would open up aid for immediate and long-term recovery efforts – follow all the latest news"
-publishedDateTime: 2021-02-19T23:18:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/feb/19/texas-storm-latest-news-today-power-outages-ted-cruz-cancun-trip-backlash?page=with:block-6030378e8f08c3cb92a5ccc8"
-webUrl: "https://www.theguardian.com/us-news/live/2021/feb/19/texas-storm-latest-news-today-power-outages-ted-cruz-cancun-trip-backlash?page=with:block-6030378e8f08c3cb92a5ccc8"
-ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/19/texas-storm-latest-news-today-power-outages-ted-cruz-cancun-trip-backlash"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/19/texas-storm-latest-news-today-power-outages-ted-cruz-cancun-trip-backlash"
+title: "Biden to mark Covid death milestone with candle ceremony at White House – live updates"
+excerpt: "President will address nation this evening on the American lives lost to the pandemic"
+publishedDateTime: 2021-02-22T09:40:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates?page=with:block-603389938f088c613adcf023"
+webUrl: "https://www.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates?page=with:block-603389938f088c613adcf023"
+ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates"
 type: article
-quality: 124
-heat: 264
-published: true
+quality: 117
+heat: -1
+published: false
 
 provider:
   name: The Guardian
@@ -25,12 +25,28 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://i.guim.co.uk/img/media/86372474d992a6216b8c4c86e110fb68dda8bcd3/0_0_3000_1801/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2e7e8d27534d07dd3ac81b47cc714f57"
+  - url: "https://i.guim.co.uk/img/media/8382e37860c73a9bf987876f65263c90312fb46a/825_1197_3920_2352/master/3920.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6540c0fd6db360ce8820d1e150325a3b"
     width: 600
     height: 360
     isCached: true
 
 related:
+  - title: "Texas storm: Biden to declare major disaster to secure federal aid – live"
+    excerpt: "Biden says declaration could be signed this afternoon and would open up aid for immediate and long-term recovery efforts – follow all the latest news"
+    publishedDateTime: 2021-02-19T23:18:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/19/texas-storm-latest-news-today-power-outages-ted-cruz-cancun-trip-backlash?page=with:block-6030378e8f08c3cb92a5ccc8"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/19/texas-storm-latest-news-today-power-outages-ted-cruz-cancun-trip-backlash"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/19/texas-storm-latest-news-today-power-outages-ted-cruz-cancun-trip-backlash"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 124
+    images:
+      - url: "https://i.guim.co.uk/img/media/86372474d992a6216b8c4c86e110fb68dda8bcd3/0_0_3000_1801/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2e7e8d27534d07dd3ac81b47cc714f57"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Biden to declare major disaster in Texas as millions hit by water shortages"
     excerpt: "President to travel to Texas ‘if I can do it without creating a burden for folks’ after winter storm disrupts water supplies following power outages"
     publishedDateTime: 2021-02-19T20:19:00Z
@@ -60,22 +76,6 @@ related:
     quality: 119
     images:
       - url: "https://i.guim.co.uk/img/media/86372474d992a6216b8c4c86e110fb68dda8bcd3/0_0_3000_1801/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2e7e8d27534d07dd3ac81b47cc714f57"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Biden to mark Covid death milestone with candle ceremony at White House – live updates"
-    excerpt: "President will address nation this evening on the American lives lost to the pandemic"
-    publishedDateTime: 2021-02-22T09:40:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates?page=with:block-603389938f088c613adcf023"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 117
-    images:
-      - url: "https://i.guim.co.uk/img/media/8382e37860c73a9bf987876f65263c90312fb46a/825_1197_3920_2352/master/3920.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6540c0fd6db360ce8820d1e150325a3b"
         width: 600
         height: 360
         isCached: true
@@ -142,6 +142,6 @@ related:
         height: 600
         isCached: true
 
-secured: "LpFE/XzlJ/+Px9H7sYsM5dahveXMESFFmLw0YxqRCs3NJuv6gMFMs8TBFBxUCGzKY88MTZTdTvkqevf7+AdOlDjjAx/mY5zgTNJBdSVjYIKgDZc56b8fL+/DNQ2glByKJ+m/d9sN/FYtJcBrWvlmFUfGQUJYwGziTbpK3TXUcn1ZeNIaPqBDVd1VfGc0mh8lUpzuGsKL0UkU8M0MwNYOKogPB2u6K2l1rXMut3CZ0zPzITow6R40clMwDQ0bJr4tM8XhkNB5HxS7/qioK2pafhEsCae7kyTnPivm+tLD5MoxCEGdzOKuPQhg8jyusIvbw64hrpSAKFPCFEMgoYgcuSdYdZPMojCZE9x/Q7mq2Ac=;nKcppCkr56kKnyUZ0hGLFw=="
+secured: "IBHkcobEbZw8oqmogwG4HAIqd75nIXFopg6HrVhOmLajqjZZc1LKFnaFgu0cWXlQZbWrFBnaX0Up9g41D0mtNnDXo7xvwYIasMEkwTlIqbsw2yIkqqaMGaO+5QcRuFAP831T6UN9kkxHbTCRkbxr6KJl/09Mkctq3A4bskV6Ew+HS1GeKsFABaoIUpA+MvAMg3soB2of7a8waNHaLRpfgxY6ApieIcvfZTZR9eYHFNthBf44CB9uT2LIW6kN1hk/A0Dzj1Rkn7pRfM/tJ1lT9SOY8iC7aC+vWfdwCACbGxcNA8XXL7vubFWqyqNDShBsKRCCpU0kyCtKcjRNHy3aY7+4MeCcmUDvY5TCIUFrXC4=;q/p22ofVi3b8g+8eX5sU4Q=="
 ---
 

@@ -79,6 +79,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden to mark Covid death milestone with candle ceremony at White House – live updates"
+    excerpt: "President will address nation this evening on the American lives lost to the pandemic"
+    publishedDateTime: 2021-02-22T09:40:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates?page=with:block-603389938f088c613adcf023"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 117
+    images:
+      - url: "https://i.guim.co.uk/img/media/8382e37860c73a9bf987876f65263c90312fb46a/825_1197_3920_2352/master/3920.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6540c0fd6db360ce8820d1e150325a3b"
+        width: 600
+        height: 360
+        isCached: true
   - title: "President Joe Biden planning trip to storm-ravaged Texas, but 'I don't want to be a burden'"
     excerpt: "President Joe Biden said \"I don’t want to be a burden\" and will go next week when a presidential visit won't get in the way of Texas recovery."
     publishedDateTime: 2021-02-19T22:41:00Z
