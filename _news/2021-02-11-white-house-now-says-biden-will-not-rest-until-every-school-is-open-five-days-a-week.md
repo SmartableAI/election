@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Mounting confirmation battle sends warning sign to Biden"
+    excerpt: "Confirmation duels over Joe Biden's Cabinet picks have suddenly turned nasty, ringing alarm bells about the cliffhanger nature of a 50-50 Senate and bitter fights to come over the President's ambitious agenda.\n    \n"
+    publishedDateTime: 2021-02-23T12:24:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jRwUEhkDy4w/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/23/politics/joe-biden-confirmations-cabinet/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/23/politics/joe-biden-confirmations-cabinet/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210221130145-neera-tanden-210209-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden says he's spoken with all of his predecessors 'with one exception'"
     excerpt: "President Joe Biden on Tuesday reflected on the \"sense of history\" he feels as a new resident of the White House and suggested he has spoken with his predecessors, but cited one notable exception.\n    \n"
     publishedDateTime: 2021-02-17T03:45:37Z

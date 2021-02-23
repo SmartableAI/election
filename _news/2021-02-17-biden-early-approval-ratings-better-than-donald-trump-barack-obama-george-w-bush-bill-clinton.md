@@ -9,8 +9,8 @@ ampWebUrl: "https://www.ibtimes.com/biden-early-approval-ratings-better-donald-t
 cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/biden-early-approval-ratings-better-donald-trump-barack-obama-george-w-bush-bill-3146498?amp=1"
 type: article
 quality: 77
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: International Business Times
@@ -29,6 +29,40 @@ images:
     width: 1024
     height: 682
     isCached: true
+
+related:
+  - title: "Biden-Trudeau meeting: Canadians glad to get beyond Trump, but new administration brings new friction"
+    excerpt: "Relations between the leaders are likely to be more harmonious, but they differ on pipeline projects, Biden's \"Buy American\" policies and, possibly, vaccine cooperation."
+    publishedDateTime: 2021-02-23T11:00:00Z
+    webUrl: "https://www.washingtonpost.com/world/2021/02/23/canada-trudeau-biden-trump-faq/"
+    ampWebUrl: "https://www.washingtonpost.com/world/2021/02/23/canada-trudeau-biden-trump-faq/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/2021/02/23/canada-trudeau-biden-trump-faq/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3AKLUKDAAYI6XILXO5S7FGUVEQ.jpg&w=1440"
+        width: 1440
+        height: 962
+        isCached: true
+  - title: "Biden seeks to 'reinvigorate' US-Canada relations in first bilateral meeting with Trudeau"
+    excerpt: "The U.S.-Canada relationship was deeply strained during the Trump administration, with tensions spiking over trade and spilling over into personal insults."
+    publishedDateTime: 2021-02-23T10:12:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/23/joe-biden-seeks-reinvigorate-us-canada-relations/4546288001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4546288001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4546288001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/16/USAT/ff0ad41e-afaf-4be1-9214-3dd4620700f5-VPC_CANADA_US_TRAVEL_BAN_DESK_THUMB.00_00_03_00.Still001.jpg?auto=webp&crop=1911,1075,x8,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "KD7d6smBmLVKxf59cwu26bbrhT4BKoDXOr9uDxyG3kwEIn5fjRyEvKZG7tztoRk7pPHQUwpvqBfBfj7srblB15XsFXoD0ZI7XvtM3aiboaPB4Ew4RdKWCertPzeulGYP9YCTLPkXDOg97AlWfNQ3Px7CeTfH93IawWfv8UW7z2UwabwfxIIJHcFh7QdW7CA3hOSa21V6z9ptX6voWsvcSyBk2VWXmygE9X+f7hYtaC9HYTpjOP8K/1+7ehVAlCvB3baGLl/A2e36yMyrOSL8x/r50I5OFQ/fAo84CP54tNw3e8Zg5bjacqJibnsa192hbmXKnLEgd80tpPBB0S/NH87XO27S6FiOXzd79BfBO0o=;co13MrnJk0MD0VLosO0J0g=="
 ---

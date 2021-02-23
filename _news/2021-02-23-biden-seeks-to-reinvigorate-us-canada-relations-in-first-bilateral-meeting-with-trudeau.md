@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.usatoday.com/amp/4546288001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4546288001"
 type: article
 quality: 116
-heat: 116
-published: true
+heat: -1
+published: false
 
 provider:
   name: USA Today
@@ -30,6 +30,40 @@ images:
     height: 675
     isCached: true
 
-secured: "GtqlnYKR9NqMg7ooYosqRDb58e/vPWssYco3m0BbF0yqBMJV04ScK9RS5+n4KQnDGAD1Xh6Fbqx7nHCDDpJoRMf+CHRuWWQRrBIKWTvIimf2rtpxjy8kzky/7ke1ZYoDw+Iyi9Dz4EoCStxBMFrQY3itlfJCJ1lVfGBSMetQkmYBodLUpunVz78etyBsMmP9I3kCKglI6MecBNhyxyyE4EoAraHaHdQGNZXvro3gzbqZV+23qxBews2CEtd7hG4ViuL2zJydbdwCWw4jPXDRPr04GtJ0kr9vCFCEVMoiPqmOhPNCfr/SxB8cjCEv5X1vyY2oLfXqs+IurVdX5U2Anlk8c2ohSMRi2QU97XIdvC0=;7J8nh3xnw0VhBWyFFNWhyw=="
+related:
+  - title: "Biden-Trudeau meeting: Canadians glad to get beyond Trump, but new administration brings new friction"
+    excerpt: "Relations between the leaders are likely to be more harmonious, but they differ on pipeline projects, Biden's \"Buy American\" policies and, possibly, vaccine cooperation."
+    publishedDateTime: 2021-02-23T11:00:00Z
+    webUrl: "https://www.washingtonpost.com/world/2021/02/23/canada-trudeau-biden-trump-faq/"
+    ampWebUrl: "https://www.washingtonpost.com/world/2021/02/23/canada-trudeau-biden-trump-faq/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/2021/02/23/canada-trudeau-biden-trump-faq/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3AKLUKDAAYI6XILXO5S7FGUVEQ.jpg&w=1440"
+        width: 1440
+        height: 962
+        isCached: true
+  - title: "Biden Early Approval Ratings Better Than Donald Trump, Barack Obama, George W Bush, Bill Clinton?"
+    excerpt: "President Joe Biden's approval ratings are trending positive early in his term, with 57% approving of his job performance in an early February poll and 62% doing so in a poll taken Sunday and Monday."
+    publishedDateTime: 2021-02-16T20:48:00Z
+    webUrl: "https://www.ibtimes.com/biden-early-approval-ratings-better-donald-trump-barack-obama-george-w-bush-bill-3146498"
+    ampWebUrl: "https://www.ibtimes.com/biden-early-approval-ratings-better-donald-trump-barack-obama-george-w-bush-bill-3146498?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/biden-early-approval-ratings-better-donald-trump-barack-obama-george-w-bush-bill-3146498?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 77
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/13/former-president-donald-trumps-swift-impeachment-trial-will.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+
+secured: "a3hD86yhjw87W8hPQIItp4ZFSx4wRnCgG1lNSv2iGAp2+cfJIdjJbLAsEbsrJ0frTg+KHHfc1DBnctsYBPjpUKiLPu6sS3n3bl3SFTs+z1WniOMVSNhxKeBBpUR5Q8IcoVccY+W+kz2BEfpPlG0EgxCcYQSKUbqyMBmvvr3wM79nsG5+5Ci69tAIgGeY7cR3IF2DLZtyxGvQRf6B8Ufzu92cjnGPu9yuscee7hiv9nEENFIc1dXDW89RSi+ogsIPnXsGkNLlyP4q+U+fb0YHGW8REKcPURu628VcNgxFlYgdE6dmwdzz4cEgAjE8Ovl8oJ0d/618w2ATO1w4V+vYN4KH2jncvw8ilNUDbkpb3dU=;34Cx1Da6/3Qy2uUwRxpjig=="
 ---
 

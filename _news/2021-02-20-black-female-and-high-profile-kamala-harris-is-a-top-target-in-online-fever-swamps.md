@@ -1,24 +1,30 @@
 ---
 category: news
 title: "Black, female and high-profile, Kamala Harris is a top target in online fever swamps"
-excerpt: "Research shows that Kamala Harris may be the most targeted American politician on the internet, one who checks every box for the haters of the fever swamps: She's a woman, she's a person of color and she holds power."
-publishedDateTime: 2021-02-20T00:50:00Z
-originalUrl: "https://www.seattletimes.com/nation-world/nation-politics/black-female-and-high-profile-kamala-harris-is-a-top-target-in-online-fever-swamps/"
-webUrl: "https://www.seattletimes.com/nation-world/nation-politics/black-female-and-high-profile-kamala-harris-is-a-top-target-in-online-fever-swamps/"
-ampWebUrl: "https://www.seattletimes.com/nation-world/nation-politics/black-female-and-high-profile-kamala-harris-is-a-top-target-in-online-fever-swamps/?amp=1"
-cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation-politics/black-female-and-high-profile-kamala-harris-is-a-top-target-in-online-fever-swamps/?amp=1"
+excerpt: "The vice president's high profile, race and gender have made her a target of some of the worst internet smears. The problem is only getting worse."
+publishedDateTime: 2021-02-19T17:42:00Z
+originalUrl: "https://www.sandiegouniontribune.com/news/politics/story/2021-02-19/kamala-harris-is-the-top-target-of-online-harassment-as-fears-of-political-violence-grow"
+webUrl: "https://www.sandiegouniontribune.com/news/politics/story/2021-02-19/kamala-harris-is-the-top-target-of-online-harassment-as-fears-of-political-violence-grow"
+ampWebUrl: "https://www.sandiegouniontribune.com/news/politics/story/2021-02-19/kamala-harris-is-the-top-target-of-online-harassment-as-fears-of-political-violence-grow?_amp=true"
+cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/news/politics/story/2021-02-19/kamala-harris-is-the-top-target-of-online-harassment-as-fears-of-political-violence-grow?_amp=true"
 type: article
-quality: 48
+quality: 68
 heat: -1
 published: false
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: San Diego Union-Tribune
+  domain: sandiegouniontribune.com
 
 topics:
   - Election
   - Kamala Harris
+
+images:
+  - url: "https://ca-times.brightspotcdn.com/dims4/default/8cf30fa/2147483647/strip/true/crop/2785x1819+257+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa0%2F40%2F994364d548b08462c3fb66d7369e%2Fla-na-meena-harris02.JPG"
+    width: 320
+    height: 209
+    isCached: true
 
 related:
   - title: "Kamala Harris' late-in-life love story an example of changing trend"
@@ -147,6 +153,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Kamala Harris' stepdaughter steps onto the catwalk"
+    excerpt: "Fashion house Proenza Schouler shows off its fall collection in a show which features the modelling debut of U.S. Vice President Kamala Harris' stepdaughter, Ella Emhoff. (Feb. 18)"
+    publishedDateTime: 2021-02-18T17:23:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/02/18/kamala-harris-stepdaughter-steps-onto-catwalk/4490632001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/18/USAT/03ebffe9-40bc-4235-9784-132de753c87b-f8ca4ada-22db-4aa8-86df-f683448936bc_thumbnail.png?quality=10"
+        width: 852
+        height: 480
+        isCached: true
   - title: "GOP Senator Warns VP Kamala Harris Could Be Impeached If This Happens"
     excerpt: "A South Carolina Republican lawmaker accused Vice President Harris of inciting violence after she \"bailed out\" George Floyd rioters."
     publishedDateTime: 2021-02-15T03:12:00Z
@@ -239,20 +259,6 @@ related:
         width: 852
         height: 480
         isCached: true
-  - title: "Kamala Harris' stepdaughter steps onto the catwalk"
-    excerpt: "Fashion house Proenza Schouler shows off its fall collection in a show which features the modelling debut of U.S. Vice President Kamala Harris' stepdaughter, Ella Emhoff. (Feb. 18)"
-    publishedDateTime: 2021-02-18T17:28:00Z
-    webUrl: "https://www.azcentral.com/videos/news/nation/2021/02/18/kamala-harris-stepdaughter-steps-onto-catwalk/4490632001/"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 55
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/02/18/USAT/03ebffe9-40bc-4235-9784-132de753c87b-f8ca4ada-22db-4aa8-86df-f683448936bc_thumbnail.png?quality=10"
-        width: 852
-        height: 480
-        isCached: true
   - title: "Vice President Kamala Harris Sells Her San Francisco Condo for a Big Profit"
     excerpt: "The nation's newest vice president is unloading her San Francisco condo—and she's getting a very good price. Vice President Kamala Harris signed a deal to sell her 1,069-square-foot loft for $799,000,"
     publishedDateTime: 2021-02-19T22:47:00Z
@@ -282,6 +288,6 @@ related:
         height: 1365
         isCached: true
 
-secured: "lUCMXIpYahukXUr6cAjtON22CfycQ+tlOeFgaS2JvIziPx5NjgS0MuGDVjo3/f1qP9v7gnusyKce0Qd6ezG+ZZdEQD5u+corZ3xNtaZ3UZNg8DrubOrlcWQ1KN+BALuKMvh0zSE7w1D9k00b2DPq74Yyo83gtGxAq2DSjimOiGKqX7PxQcqPwIrenh0vnGTlcx23F7c3RVeFFyFv8R1NqQV7TFJm1WPojxRLy1X1J3zu9CfnKiMCmRjqb4d2bfLPovvc97INocFEVsTaYNyyi3xmtK5LqphFKCYhHCw79e0pAGs8qxv+eAXDR4FYp/rP0c58VQsNF7WEw/I8KT2SFhjUuyypFlGfuorIGD2nOPyPPbR7t068a7IQZlPZp7Y6pzfiFuhF8Hl24TRZ4jTG2Hhf5Vu6XMm+GEKywcBJ/Nl5PVLOO64lsBFdNvtlwu+iHjMfMzqWIdVjy/NBK8epP5Tecpz0IHvOSrl6QlQkDYkoPwct76s/hQ2iwYJSBMj6YwFTgWAaPg0Nxb3Nv3j9rg==;s7A7fvu6iloG39MbshwM3Q=="
+secured: "BBKunmKd1GcWpWYW3bU+ElSj6I/GAt9DnqvHlIMbjUtzojlV6IAjeFTSd9mi8hxOYzpXxLWZ/42w2u58hUx/NyTrT95jc97HtW7jfcI6ljK1RxlgdB9U2zx7b3IJ8Pe2hXVCFehRoiN8KcosGequwspdN813oNwYwxVTpeL9jKIAgkG4eNNwp9i4X1TGNN2GLA2y7NFKZgSTzqZOwAVu7cxVGPDpsRqSelXOLvxssR8sXdkVdx/lRiHlyX85+yvY0yLythHMJyBIB9UFkFl92EVIQcVCCS6En5Xul4FKBNlRyDykh6fappBOkpe2CQ1ODDUORHX6Jb607UtXXFYPeJXhnnYzXpd9zULMyT31y+4=;pHktBygMonhWKQGIVrS9qA=="
 ---
 

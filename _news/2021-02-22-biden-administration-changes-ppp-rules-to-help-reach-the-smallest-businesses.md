@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/22/politics/ppp-loans-biden-administ
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/22/politics/ppp-loans-biden-administration-small-businesses/index.html"
 type: article
 quality: 172
-heat: 192
+heat: 212
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden's pick to lead Health and Human Services goes before Senate committees"
+    excerpt: "President Joe Biden's choice for the nation's top health official will go before Senate committees on Tuesday and Wednesday, as Republicans attempt to torpedo the nomination.\n    \n"
+    publishedDateTime: 2021-02-23T12:25:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/84PHMzbJnGs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/23/politics/health-and-human-services-confirmation-xavier-becerra/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/23/politics/health-and-human-services-confirmation-xavier-becerra/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210219140325-xavier-becerra-nov-2019-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden announces changes in loan program aimed at aiding small and minority-owned businesses"
     excerpt: "Biden had previously criticized the loan program for having helped larger businesses with existing banking relationships while many smaller businesses struggled to get relief."
     publishedDateTime: 2021-02-22T18:49:00Z

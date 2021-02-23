@@ -2,17 +2,21 @@
 category: news
 title: "Kamala Harris' stepdaughter steps onto the catwalk"
 excerpt: "Fashion house Proenza Schouler shows off its fall collection in a show which features the modelling debut of U.S. Vice President Kamala Harris' stepdaughter, Ella Emhoff. (Feb. 18)"
-publishedDateTime: 2021-02-18T17:28:00Z
-originalUrl: "https://www.azcentral.com/videos/news/nation/2021/02/18/kamala-harris-stepdaughter-steps-onto-catwalk/4490632001/"
-webUrl: "https://www.azcentral.com/videos/news/nation/2021/02/18/kamala-harris-stepdaughter-steps-onto-catwalk/4490632001/"
+publishedDateTime: 2021-02-18T17:23:00Z
+originalUrl: "https://www.usatoday.com/videos/news/nation/2021/02/18/kamala-harris-stepdaughter-steps-onto-catwalk/4490632001/"
+webUrl: "https://www.usatoday.com/videos/news/nation/2021/02/18/kamala-harris-stepdaughter-steps-onto-catwalk/4490632001/"
 type: article
-quality: 55
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: The Arizona Republic
-  domain: azcentral.com
+  name: USA Today
+  domain: usatoday.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -215,6 +219,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Black, female and high-profile, Kamala Harris is a top target in online fever swamps"
+    excerpt: "The vice president's high profile, race and gender have made her a target of some of the worst internet smears. The problem is only getting worse."
+    publishedDateTime: 2021-02-19T17:42:00Z
+    webUrl: "https://www.sandiegouniontribune.com/news/politics/story/2021-02-19/kamala-harris-is-the-top-target-of-online-harassment-as-fears-of-political-violence-grow"
+    ampWebUrl: "https://www.sandiegouniontribune.com/news/politics/story/2021-02-19/kamala-harris-is-the-top-target-of-online-harassment-as-fears-of-political-violence-grow?_amp=true"
+    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/news/politics/story/2021-02-19/kamala-harris-is-the-top-target-of-online-harassment-as-fears-of-political-violence-grow?_amp=true"
+    type: article
+    provider:
+      name: San Diego Union-Tribune
+      domain: sandiegouniontribune.com
+    quality: 68
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/8cf30fa/2147483647/strip/true/crop/2785x1819+257+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa0%2F40%2F994364d548b08462c3fb66d7369e%2Fla-na-meena-harris02.JPG"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Vice President Kamala Harris delivers cookies to essential workers"
     excerpt: "U.S. Vice President Kamala Harris and her husband delivered two baskets of cookies to essential healthcare workers at the VA Medical Center in Washington on Saturday. (Feb. 13)"
     publishedDateTime: 2021-02-13T20:43:00Z
@@ -271,18 +291,7 @@ related:
         width: 2048
         height: 1365
         isCached: true
-  - title: "Black, female and high-profile, Kamala Harris is a top target in online fever swamps"
-    excerpt: "Research shows that Kamala Harris may be the most targeted American politician on the internet, one who checks every box for the haters of the fever swamps: She's a woman, she's a person of color and she holds power."
-    publishedDateTime: 2021-02-20T00:50:00Z
-    webUrl: "https://www.seattletimes.com/nation-world/nation-politics/black-female-and-high-profile-kamala-harris-is-a-top-target-in-online-fever-swamps/"
-    ampWebUrl: "https://www.seattletimes.com/nation-world/nation-politics/black-female-and-high-profile-kamala-harris-is-a-top-target-in-online-fever-swamps/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation-politics/black-female-and-high-profile-kamala-harris-is-a-top-target-in-online-fever-swamps/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 48
 
-secured: "n/a40PNn25nkM+1NNvm4n3p2Vn+RLdsVQfauVlrVs2sqEfpAeMyvFHp7Rc9yKBmfNhQAriRzloA0h8UzcK0dYWXdw4LURj95PeKiOgJAqTMnrtBphaR3k22GPuHNEyBFBJvsJOrnyscaFEDPo1IR8pQeTbqvZvDfvjfOjJb3Omy3kPOujqKFmYzQn648hPdyIgMfEDdsCytpPaoJGgql+0R+sNK0NazuGH8Qnc8FhiIjZlXfUN3W1UFIXS9QRjCr0tWESf1eL9AHP1fITU6W204N4B/P4SUYxz6X6mCLvW6gURmdwA5Kn2jKZDTWAj22K9KuNsS9pf8zESr0KqcsBWL96JuVNBfehRR2FB4aTPOm2vgGRysGx7//4IJKQrwRtKoAZo9jvH5P9ldo4mn4NCmFew14Qwsi36hhFaNMw4AS1YFAsCQyKDPLRNtbDfHpfex/NcKCt9NAs9wrruxPrAhYbvp3x915xBjmBNv3G1egjskF+4TdDXhc0tblxYi6iAi8PBF4daXmWXYa9HMU7g==;EibD/qURNHf1j6/JEfR0Zg=="
+secured: "T+F/kT7m0v1OFjjG2hYtTPWohCoy0JteAjviFSs1+HMPwY1OV6aFmNMAHGgVQ6SDvRZ9lKZiVhyWK6Wr1r9gdIoxTiFZo7Lxy3WKuP0R+uUqiXCwBe9jUJpdLVaoIUJ45rE9mGor+VG9wOgdG8V98rybAgemWAMv4ktEzzHyw51gWQ3UhyuQLdm8FqDDEESnXd9GIi7EmrKlo4fafp96zXf6JEkPW+QGIBUlGJA+cFF/6UdQQsAk13dPBNat0xrYszsBOFhl4RaqTuoMmBn+3WL2HG3UuarZ5ictQdVYnaO/5E1y9FNWu5HToysNOu4OpmtGkz6G8yMSzLeY5H9gqEvgQdGSYxHxtlGMkFA7Y34=;KF57j0jGW0LRIFaibbmWvA=="
 ---
 

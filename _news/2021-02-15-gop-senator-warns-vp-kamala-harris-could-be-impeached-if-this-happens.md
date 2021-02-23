@@ -157,6 +157,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Kamala Harris' stepdaughter steps onto the catwalk"
+    excerpt: "Fashion house Proenza Schouler shows off its fall collection in a show which features the modelling debut of U.S. Vice President Kamala Harris' stepdaughter, Ella Emhoff. (Feb. 18)"
+    publishedDateTime: 2021-02-18T17:23:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/02/18/kamala-harris-stepdaughter-steps-onto-catwalk/4490632001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/18/USAT/03ebffe9-40bc-4235-9784-132de753c87b-f8ca4ada-22db-4aa8-86df-f683448936bc_thumbnail.png?quality=10"
+        width: 852
+        height: 480
+        isCached: true
   - title: "Kamala Harris selling condo in San Francisco's SOMA neighborhood, report says"
     excerpt: "Vice President Kamala Harris is giving up her San Francisco home, according to a new report. Harris has sold the South of Market condominium that she bought in 2004, the year she became the San Francisco district attorney."
     publishedDateTime: 2021-02-19T09:41:00Z
@@ -205,6 +219,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Black, female and high-profile, Kamala Harris is a top target in online fever swamps"
+    excerpt: "The vice president's high profile, race and gender have made her a target of some of the worst internet smears. The problem is only getting worse."
+    publishedDateTime: 2021-02-19T17:42:00Z
+    webUrl: "https://www.sandiegouniontribune.com/news/politics/story/2021-02-19/kamala-harris-is-the-top-target-of-online-harassment-as-fears-of-political-violence-grow"
+    ampWebUrl: "https://www.sandiegouniontribune.com/news/politics/story/2021-02-19/kamala-harris-is-the-top-target-of-online-harassment-as-fears-of-political-violence-grow?_amp=true"
+    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/news/politics/story/2021-02-19/kamala-harris-is-the-top-target-of-online-harassment-as-fears-of-political-violence-grow?_amp=true"
+    type: article
+    provider:
+      name: San Diego Union-Tribune
+      domain: sandiegouniontribune.com
+    quality: 68
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/8cf30fa/2147483647/strip/true/crop/2785x1819+257+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa0%2F40%2F994364d548b08462c3fb66d7369e%2Fla-na-meena-harris02.JPG"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Vice President Kamala Harris delivers cookies to essential workers"
     excerpt: "U.S. Vice President Kamala Harris and her husband delivered two baskets of cookies to essential healthcare workers at the VA Medical Center in Washington on Saturday. (Feb. 13)"
     publishedDateTime: 2021-02-13T20:43:00Z
@@ -230,20 +260,6 @@ related:
     quality: 55
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/02/13/USAT/2eadfb94-3b07-45ae-8292-7ff16c6cb720-ae7b0c28-1b30-4fcd-a11d-3e683655cc83_thumbnail.png?quality=10"
-        width: 852
-        height: 480
-        isCached: true
-  - title: "Kamala Harris' stepdaughter steps onto the catwalk"
-    excerpt: "Fashion house Proenza Schouler shows off its fall collection in a show which features the modelling debut of U.S. Vice President Kamala Harris' stepdaughter, Ella Emhoff. (Feb. 18)"
-    publishedDateTime: 2021-02-18T17:28:00Z
-    webUrl: "https://www.azcentral.com/videos/news/nation/2021/02/18/kamala-harris-stepdaughter-steps-onto-catwalk/4490632001/"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 55
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/02/18/USAT/03ebffe9-40bc-4235-9784-132de753c87b-f8ca4ada-22db-4aa8-86df-f683448936bc_thumbnail.png?quality=10"
         width: 852
         height: 480
         isCached: true
@@ -275,17 +291,6 @@ related:
         width: 2048
         height: 1365
         isCached: true
-  - title: "Black, female and high-profile, Kamala Harris is a top target in online fever swamps"
-    excerpt: "Research shows that Kamala Harris may be the most targeted American politician on the internet, one who checks every box for the haters of the fever swamps: She's a woman, she's a person of color and she holds power."
-    publishedDateTime: 2021-02-20T00:50:00Z
-    webUrl: "https://www.seattletimes.com/nation-world/nation-politics/black-female-and-high-profile-kamala-harris-is-a-top-target-in-online-fever-swamps/"
-    ampWebUrl: "https://www.seattletimes.com/nation-world/nation-politics/black-female-and-high-profile-kamala-harris-is-a-top-target-in-online-fever-swamps/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation-politics/black-female-and-high-profile-kamala-harris-is-a-top-target-in-online-fever-swamps/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 48
 
 secured: "RVd25thZLy2JyFq6gI9rMMGB4EF56/L1za8c1CizqNf9E0Svl6Rej83mTkVzfURF3NDrptMLL0d6N5Dv/+IEUGORmVWOomoqbfEy2xoV+7rh+zu7kAq4st7MH03gefavaqLf0CBEMPpXqkP88ENqGbNhFFBxOcf7oSqCaXhfImoZt40V+TC1y9W+46qWQUnJMF/TINYsQvTANyhUIpqe9L6yGZuValkHcR+deS1MeuQUSQ1SyQufG0ASpR158iMwWOSAX+mIpmMXJEvJF1e+z/KOA9cm/wKl2qutVI/I2jgZVuqCUiTE1h/iLeQvu7JpOQ25v+SaBWCuQYRmj8VJhMj+87K/ke/pqqdHaEpZ+JddzigwnMAPF6YRStkxxI4bCSQ6nWyvnWOn0fATvFFy0dFyZlN2e/FeSnuJUYG7V1iqvz/dBfCvEGL+JeU06nFn1sD0+ZOewbUZzXB0XAC+Jer9r1u03TItOeFqn+DpDiG6oBCuOiNla9C7uewZDq+aleOatNYLovE0s/n+96RZsA==;ed5R+pfhUFw/kidkhQpL4g=="
 ---

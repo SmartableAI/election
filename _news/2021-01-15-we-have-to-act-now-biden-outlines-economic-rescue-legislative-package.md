@@ -79,6 +79,22 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "A look at Merrick Garland, Joe Biden’s nominee for attorney general"
+    excerpt: "Merrick Garland, President Joe Biden’s nominee for attorney general, appeared before the Senate Judiciary Committee for his confirmation hearing on Monday. Here are some key facts to know about Biden’s nominee to run the Justice Department: MOST RECENT LEGAL EXPERIENCE: 1997-Present: Judge on the United States Court of Appeals for the District of Columbia Circuit."
+    publishedDateTime: 2021-02-22T23:54:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-who-is-merrick-garland-20210222-23ysqqbupjdgpnizp6pzukdv7a-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-who-is-merrick-garland-20210222-23ysqqbupjdgpnizp6pzukdv7a-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-who-is-merrick-garland-20210222-23ysqqbupjdgpnizp6pzukdv7a-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 125
+    images:
+      - url: "https://www.chicagotribune.com/resizer/pgmyCxGCHham3HQMavNFCnRGVmM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/WIDFTAWVFZVCHFODXCIXZ4Q4M4.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Biden team prepares push for new COVID relief bill expected to cost trillions"
     excerpt: "Transition officials spoke with congressional staffers about Biden's priorities for a bill with a multi-trillion-dollar price tag."
     publishedDateTime: 2021-01-14T12:43:00Z
@@ -245,6 +261,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/2NAB5FK6RFAK3B53DG7COL2DXE.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Merrick Garland, Joe Biden haven't spoken about Hunter Biden investigation"
+    excerpt: "In his Senate confirmation hearing, nominee faced questions about how he would handle the federal investigation into the president's son."
+    publishedDateTime: 2021-02-22T17:01:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2021/02/22/merrick-garland-hunter-biden-investigation-havent-talked-president/4541418001/"
+    ampWebUrl: "https://amp.indystar.com/amp/4541418001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/4541418001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 73
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/0ec6814e-fab6-44d3-9aa7-fb3a9c7d77bd-VPC_HUNTER_BIDEN_LAPTOP_EXPLAINER_DESK_THUMB.00_00_05_05.Still001.jpg?auto=webp&crop=1911,1075,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "YsORtcj6q2F/oeMONsY2DRTbksdgoF8jUrRhHep40z68Ajm9iRLSCfZtZlqLadbAjC7qaOGJUKpPo/poTIm1Em+H4NEl8ubztA7TuOErsJIF1zyHhSsOiRDoFGjKKacLDVWb/n/fT/NFxtYc7vHwg/bMBbwdu2x9TosGwq93HwedoL3XWUhjgSveOeCBM320bN6Z4QY2xhJvmTaXJ+1P2X0auJIP08Igm2JT/4zZ1+5anKffwcFIR6p+Wqvi7TW+nr7+T+N3EmT+rgyPvL+dI6m6UYqSxYgq7t03ZjMdvzr8JVaF/f1fidmgCE6At6fIUsmQdDvsC6ONI5jpQ3QwnopLbI6KEJj7ZO+zhUhI9ug=;qD06E6Ma4AkAGac+8YReGQ=="
