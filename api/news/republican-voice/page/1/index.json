@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-23-trump-to-claim-he-is-presumptive-2024-nominee-leader-of-gop-in-cpac-speech-report.md",
+      "title": "Trump to claim he is ‘presumptive 2024 nominee,’ leader of GOP in CPAC speech: report",
+      "excerpt": "A longtime Trump adviser told Axios his CPAC speech will be a \"show of force,\" and said the message will be: \"I may not have Twitter or the Oval Office, but I'm still in charge.\" The source reportedly added that \"payback is his chief obsession.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zrMJj40Y9W4/trump-to-claim-he-is-presumptive-2024-nominee-leader-of-gop-in-cpac-speech-report",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zrMJj40Y9W4/trump-to-claim-he-is-presumptive-2024-nominee-leader-of-gop-in-cpac-speech-report",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/donald-trump-melania6.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-to-claim-he-is-presumptive-2024-nominee-leader-of-gop-in-cpac-speech-report.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-to-claim-he-is-presumptive-2024-nominee-leader-of-gop-in-cpac-speech-report.amp",
+      "publishedDateTime": "2021-02-22T17:14:26-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-23-biden-asks-high-court-to-drop-two-trump-era-medicaid-cases.md",
       "title": "Biden asks high court to drop two Trump-era Medicaid cases",
       "excerpt": "The Biden administration is asking the Supreme Court not to hear arguments in two cases on its March calendar about the Trump administration’s plan to remake Medicaid by requiring recipients to work.",
@@ -1596,63 +1652,6 @@
       "ampWebUrl": "https://www.foxnews.com/us/bowe-bergdahl-targets-trump-mccain-comments-in-lawsuit-challenging-court-martial.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/bowe-bergdahl-targets-trump-mccain-comments-in-lawsuit-challenging-court-martial.amp",
       "publishedDateTime": "2021-02-18T05:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-trump-hails-rush-limbaugh-on-hannity-they-all-respected-rush.md",
-      "title": "Trump hails Rush Limbaugh on 'Hannity': 'They all respected Rush'",
-      "excerpt": "They all respected Rush' Former President Donald Trump joined \" Hannity \" on Wednesday night to remember conservative radio host Rush Limbaugh, who died at age 70 after a long battle with lung cancer .",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/trump-hails-rush-limbaugh-on-hannity-they-all-respected-rush",
-      "originalUrl": "https://www.foxnews.com/us/trump-hails-rush-limbaugh-on-hannity-they-all-respected-rush",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/GettyImages-1189876914.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/trump-hails-rush-limbaugh-on-hannity-they-all-respected-rush.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/trump-hails-rush-limbaugh-on-hannity-they-all-respected-rush.amp",
-      "publishedDateTime": "2021-02-18T02:09:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

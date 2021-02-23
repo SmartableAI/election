@@ -623,6 +623,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Supreme court rejects Trump's request to keep tax returns from prosecutors – live"
+    excerpt: "Court rules it won’t prevent New York district attorney’s office from obtaining eight years of Trump’s financial documents from his accounting firm"
+    publishedDateTime: 2021-02-22T15:10:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
+    images:
+      - url: "https://i.guim.co.uk/img/media/6857911a6bb4c3291e82fb3183002181fc7d0fc5/0_269_5443_3266/master/5443.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=64f476420fa5563ee7ddd942157d6fea"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Marco Rubio Suggests Senate Could Try Hillary Clinton if Donald Trump is Convicted"
     excerpt: "Senator Marco Rubio (R-FL) has suggested that f Hillary Clinton could be impeached and put on trial in the Senate if former President Donald Trump is convi"
     publishedDateTime: 2021-02-13T12:22:00Z
@@ -1045,6 +1061,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Supreme Court denies Trump's bid to shield his tax returns"
+    excerpt: "The Supreme Court on Feb. 22 refused former president Donald Trump's last-chance efforts to shield his private financial records from a criminal investigation."
+    publishedDateTime: 2021-02-23T02:11:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/supreme-court-denies-trumps-bid-to-shield-his-tax-returns/2021/02/22/776e9b66-2555-40d7-8295-77dd07431951_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/02-23-2021/t_3de99225f6d2421abcfe2c2db260c5f3_name_trump_scaled.jpg&w=1080"
+        width: 1080
+        height: 608
+        isCached: true
   - title: "Supreme Court Rejects Trump Bid to Keep Taxes From Prosecutor"
     excerpt: "The U.S. Supreme Court rejected a bid by Donald Trump to keep eight years of his tax returns and other financial records out of the hands of a Manhattan prosecutor conducting a criminal investigation into the former president and his company,"
     publishedDateTime: 2021-02-22T22:14:00Z
@@ -1117,6 +1147,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Arkansas Gov. Says He Won’t Support Donald Trump If He Runs in 2024"
+    excerpt: "Arkansas Gov. Asa Hutchinson said Sunday he will not back Donald Trump if the former president runs for the White House in 2024, saying “it’s time” to move on to different voices in the Republican Party."
+    publishedDateTime: 2021-02-23T02:11:00Z
+    webUrl: "https://time.com/5941467/arkansas-asa-hutchinson-wont-support-trump-2024/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 85
   - title: "Senate votes to acquit Donald Trump in second impeachment trial"
     excerpt: "Enough senators have cast “not guilty” votes to acquit Donald Trump of inciting the Jan. 6 attack on the U.S. Capitol. The vote will give the former president an historic second acquittal in an. House Democrats,"
     publishedDateTime: 2021-02-13T19:56:00Z
@@ -1132,6 +1171,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/PZI32QIMWNHVBNRMW27OKGUDRM.jpg"
         width: 6000
         height: 4000
+        isCached: true
+  - title: "Donald Trump Is Extremely Mad Prosecutors Will See His Tax Returns"
+    excerpt: "Donald Trump’s yearslong quest to prevent the public, Congress, or law-enforcement officials from seeing his tax statements came to a resounding end with a unanimous Supreme Court ruling. He did not take the defeat in stride."
+    publishedDateTime: 2021-02-23T02:09:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/02/trump-tax-returns-court-ruling-vance-prosecutor-district-attorney.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/02/trump-tax-returns-court-ruling-vance-prosecutor-district-attorney.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/02/trump-tax-returns-court-ruling-vance-prosecutor-district-attorney.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/8f1/8f0/96cf7a78ef022c12b9dc57cf633efb4aa0-trump-2.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 632
         isCached: true
   - title: "Senate Acquits Trump With Seven Republicans Joining All 50 Democrats in Voting ‘Guilty’"
     excerpt: "Mitch McConnell spoke after the verdict to denounce Trump’s conduct while insisting his trial was unconstitutional."

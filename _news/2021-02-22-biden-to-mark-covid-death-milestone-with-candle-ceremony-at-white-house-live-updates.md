@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/22/joe-biden-coron
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates"
 type: article
 quality: 127
-heat: 887
+heat: 907
 published: true
 
 provider:
@@ -383,6 +383,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/6857911a6bb4c3291e82fb3183002181fc7d0fc5/0_269_5443_3266/master/5443.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=64f476420fa5563ee7ddd942157d6fea"
         width: 600
         height: 360
+        isCached: true
+  - title: "Biden calls for national moment of silence for 500,000 U.S. COVID-19 deaths"
+    excerpt: "President Joe Biden called on Americans to observe a moment of silence on Monday to commemorate the grim milestone of 500,000 U.S. deaths from COVID-19."
+    publishedDateTime: 2021-02-22T21:17:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-biden-idUSKBN2AM2EH"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AM2EH"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AM2EH"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210223&t=2&i=1552519951&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1M02K"
+        width: 823
+        height: 545
         isCached: true
   - title: "UPDATE 1-Biden pushes for pandemic relief in first official trip as president"
     excerpt: "President Joe Biden vowed during a prime-time televised town hall on Tuesday to accelerate the country's vaccination program and said teachers should be moved closer to the front of the line for inoculations to allow more schools to reopen."

@@ -2,6 +2,120 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-21-full-hurd-interview-trump-should-have-very-little-influence-on-gop.md",
+      "title": "Full Hurd Interview: Trump should have 'very little' influence on GOP",
+      "excerpt": "Former Rep. Will Hurd (R-Texas) talks about storm recover in Texas and the future of the Republican party, during an exclusive interview with Meet the Press.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/meet-the-press/video/full-hurd-interview-trump-should-have-very-little-influence-on-gop-101356101630",
+      "originalUrl": "https://www.nbcnews.com/meet-the-press/video/full-hurd-interview-trump-should-have-very-little-influence-on-gop-101356101630",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202102/1613918086750_mtp_full_hurd_210221_1920x1080.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo101356101630",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo101356101630",
+      "publishedDateTime": "2021-02-21T06:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-21-pence-declined-cpac-invitation-source.md",
+      "title": "Pence declined CPAC invitation: source",
+      "excerpt": "Former Vice President Mike Pence has declined an invitation to attend this year's Conservative Political Action Conference, Fox News has learned.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pxTq-u8QWBY/pence-declined-cpac-invitation-source",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pxTq-u8QWBY/pence-declined-cpac-invitation-source",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 245,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7e7fe47e-ed40-4bb7-97a7-8b2c3b23ff48/b5a6a527-121e-4e98-876f-f6204780c546/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-declined-cpac-invitation-source.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-declined-cpac-invitation-source.amp",
+      "publishedDateTime": "2021-02-21T06:08:11-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-02-21-analysis-biden-faces-the-19-trillion-question-is-it-too-much.md",
       "title": "Analysis: Biden faces the $1.9 trillion question: Is it too much?",
       "excerpt": "Is President Joe Biden's $1.9 trillion Covid relief package too big? Plenty of economists across the ideological spectrum think so.\n    \n",
@@ -231,7 +345,7 @@
       "originalUrl": "https://www.newsweek.com/trump-give-first-big-speech-since-presidency-conservative-conference-florida-1570785",
       "featuredContent": null,
       "highlight": null,
-      "heat": 138,
+      "heat": 158,
       "tags": null,
       "images": [
         {
@@ -1036,7 +1150,7 @@
       "originalUrl": "https://abcnews.go.com/Entertainment/wireStory/trump-repeats-election-claims-interviews-unchallenged-76002370",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1680,
+      "heat": 1760,
       "tags": null,
       "images": [
         {
@@ -1241,110 +1355,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-trump-hotel-employees-say-they-had-to-pretend-to-support-the-president-inside-i-was-dying.md",
-      "title": "Trump hotel employees say they had to pretend to support the president: 'Inside I was dying'",
-      "excerpt": "For employees at the Trump International Hotel who weren't Donald Trump supporters, pretending to be one was an unwritten rule of the job.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-hotel-employees-pretended-support-him-2021-2",
-      "originalUrl": "https://www.businessinsider.com/trump-hotel-employees-pretended-support-him-2021-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/602fe0d8a06a8e0018ce442e?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-hotel-employees-pretended-support-him-2021-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-hotel-employees-pretended-support-him-2021-2?amp",
-      "publishedDateTime": "2021-02-19T09:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-fact-check-did-donald-trump-jr-say-texas-governor-greg-abbott-is-a-democrat.md",
-      "title": "Fact Check: Did Donald Trump Jr. Say Texas Governor Greg Abbott is a Democrat?",
-      "excerpt": "The eldest son of former President Donald Trump was mocked for tweeting about \"Democrat Governor's incompetence\" while defending Ted Cruz.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/donald-trump-jr-greg-abbott-democrat-ted-cruz-1570574",
-      "originalUrl": "https://www.newsweek.com/donald-trump-jr-greg-abbott-democrat-ted-cruz-1570574",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1739162/donald-trump-jr.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/donald-trump-jr-greg-abbott-democrat-ted-cruz-1570574?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-jr-greg-abbott-democrat-ted-cruz-1570574?amp=1",
-      "publishedDateTime": "2021-02-19T08:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -383,6 +383,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden calls for national moment of silence for 500,000 U.S. COVID-19 deaths"
+    excerpt: "President Joe Biden called on Americans to observe a moment of silence on Monday to commemorate the grim milestone of 500,000 U.S. deaths from COVID-19."
+    publishedDateTime: 2021-02-22T21:17:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-biden-idUSKBN2AM2EH"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AM2EH"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AM2EH"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210223&t=2&i=1552519951&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1M02K"
+        width: 823
+        height: 545
+        isCached: true
   - title: "UPDATE 1-Biden pushes for pandemic relief in first official trip as president"
     excerpt: "President Joe Biden vowed during a prime-time televised town hall on Tuesday to accelerate the country's vaccination program and said teachers should be moved closer to the front of the line for inoculations to allow more schools to reopen."
     publishedDateTime: 2021-02-17T02:56:00Z
@@ -625,6 +641,6 @@ related:
       domain: reuters.com
     quality: 105
 
-secured: "tDTSZ5gJ4f/ZBBHb1iQsvoPWKkHVAjEZxQwSDZLuJtumLeyC3xLbzW7UYV0ycTi4GTnZ+nfUtU37iCNc3pFc7AUheC5LuKOTyOlLopMemWOlOXAWFip8DqcOmvgaos3Yc/z8OthXT1qrrf2xvtYkZumieY9m5g9eCrbz5Ot4Jv4ReRaHkJt633gr5cO/75hwMSa7UualKFOYdjZaSCrEnM2ejysRncePZ1zOCM3cC6VNoHd5R/ad79N6crSpy1QoA/HXxhOuLSOR0XlOVCC8hTV3nr9bXNgpcvU99xKVfy2Ya1//rgFVPNsq8Akt5CapbQ6y2YAU+zgBKr8ZbQiFcLBE+l48Fqfz4Nw1N7TW+YQ=;I7L1MTQTP5xqQoy5pRByjg=="
+secured: "FLkVPTH2uhGEis+shOLN6Z5HFFYhl1ngb/BlAoaUbWVCDISwTsfH35OsuigFocVaWJpzTBxZkDVDGTtoU/PC+qVKbwKwnwetnLCTBfi2TjLAGF6eiS0ZhNSv44TCHLvjuj1broqSblXxRiW6eXc6s/43ARzHlZFQviMs9h3G0zGe7nDDIC0FRa2RETkJGDkRdmZR3uhJw49Eel1o4eSP5/NH0PPcd+ktzOJU2dYUFlZ6FbAgVfKbo/BSJlr5nFbicfVF79zAOri+aHAqqbjX5ixboJJ771KpYvAAvDP4snR+58C0uqFWT0IhY0Wn0/TSLhREmKbkCTj3hv6vIDxZ7N0gcuwZCt4FfIjJsFRWX287XIEGAbzXz9QJXuY75sI0njwpbh2+IkC5EPPOJUI4fjVtwNm/n33ze8KEIfmQd7zy7ejBproXsY9GIwJoy2kNChLo9o6nV97gQF1rVgDzwQ2lXSHkqfNJZc+PXOlaaW/nSZZKMUEAgU4pFXIJSHiKcxeCQQdKvEsZmDCNEPQDQQ==;Nhtsrw3iJVOrZ1S9GHs8vQ=="
 ---
 

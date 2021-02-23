@@ -29,21 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "Progressives Push for Joe Biden's $1,400 Stimulus Checks on President's Day: '44 Days'"
-    excerpt: "Before taking office, Biden said that he wanted to act \"boldly and urgently\" to get the checks passed through Congress. But weeks have gone by since his inauguration and another stimulus bill has still not been passed."
-    publishedDateTime: 2021-02-16T02:46:00Z
-    webUrl: "https://www.newsweek.com/progressives-push-joe-bidens-1400-stimulus-checks-presidents-day-44-days-1569456"
-    ampWebUrl: "https://www.newsweek.com/progressives-push-joe-bidens-1400-stimulus-checks-presidents-day-44-days-1569456?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/progressives-push-joe-bidens-1400-stimulus-checks-presidents-day-44-days-1569456?amp=1"
+  - title: "Fact check: Posts falsely claim Biden gave China control of U.S. power grid"
+    excerpt: "No executive order signed by President Joe Biden gave China control of the U.S. power grid, and his order isn't linked to the Texas power outages."
+    publishedDateTime: 2021-02-23T02:26:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2021/02/22/fact-check-posts-falsely-claim-biden-gave-china-control-power-grid/4523427001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4523427001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4523427001"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 117
+      name: USA Today
+      domain: usatoday.com
+    quality: 123
     images:
-      - url: "https://d.newsweek.com/en/full/1735295/stimulus-checks-joe-biden-presidents-day-progressives.jpg"
-        width: 3000
-        height: 2100
+      - url: "https://www.gannett-cdn.com/presto/2021/02/19/USAT/603162ef-b26b-4e0b-a54c-c91b0da0868d-AP21050597735960.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "qGPJCFOqtzBiq5KoR+gJl3OIFv1a8HQKfJ3uUmLwfSNHfP/mZhSXGuXetxItxaA8luiZLRO/sGq8qZU/TABCu0evCcf2dFWl+P+0zRSAboxpX+fqdyKZakl402jtMNXbjg3dD0bBJ7Zm4Da1iFdOEjeJn2/lzo5G9VhGQ0pDymRSbUfmnP/MBp7s0UmnUVIsaRNnMFqObgFsSq0oA9IcEbI501lwTTIew3eO4VVhBCONPO/Qdy27d11FMDRI7YvmM0c1TIk7bxdcf/eylJrqP5ASfjmj+PuxnoG0Cnt9dfytKJneG2Xgtsoki4Yshb7SmxTAfvusqQC8h+7KiAOQcqRTSdcXKM+wb5uD2TsZhdsSqzU2a90k308V4aDLmn4pV7hqxZnhv1bFOeBgbnA4lxUaCPlQwV+xMW9yrq/pXaiOI1awXnasn9tjO3fZpuX47uW6BYBIH72UHIob4u4zq2QEIm/NAIE2cwKYkQTuDj39MuUSM/Sl3IAw5n4fJmkPMpDmhUHQ9Kt9HK5IRHLfFg==;bC0AF5kUk0PG6jxpalYcCw=="

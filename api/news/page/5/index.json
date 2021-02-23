@@ -2,6 +2,114 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-02-16-biden-cuomo-didnt-discuss-covid-nursing-home-scandal-psaki-says.md",
+      "title": "Biden, Cuomo didn’t discuss COVID nursing home scandal, Psaki says",
+      "excerpt": "It was the elephant in the Oval Office, but somehow, President Biden and Gov. Andrew Cuomo didn’t discuss his COVID-19 nursing home scandal when they met last week.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/srKMzc1VH-Y/biden-cuomo-didnt-discuss-covid-nursing-home-scandal-psaki-says",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/srKMzc1VH-Y/biden-cuomo-didnt-discuss-covid-nursing-home-scandal-psaki-says",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 335,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Oval2.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-cuomo-didnt-discuss-covid-nursing-home-scandal-psaki-says.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cuomo-didnt-discuss-covid-nursing-home-scandal-psaki-says.amp",
+      "publishedDateTime": "2021-02-16T13:37:34-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-17-biden-early-approval-ratings-better-than-donald-trump-barack-obama-george-w-bush-bill-clinton.md",
+      "title": "Biden Early Approval Ratings Better Than Donald Trump, Barack Obama, George W Bush, Bill Clinton?",
+      "excerpt": "President Joe Biden's approval ratings are trending positive early in his term, with 57% approving of his job performance in an early February poll and 62% doing so in a poll taken Sunday and Monday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/biden-early-approval-ratings-better-donald-trump-barack-obama-george-w-bush-bill-3146498",
+      "originalUrl": "https://www.ibtimes.com/biden-early-approval-ratings-better-donald-trump-barack-obama-george-w-bush-bill-3146498",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/13/former-president-donald-trumps-swift-impeachment-trial-will.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/biden-early-approval-ratings-better-donald-trump-barack-obama-george-w-bush-bill-3146498?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/biden-early-approval-ratings-better-donald-trump-barack-obama-george-w-bush-bill-3146498?amp=1",
+      "publishedDateTime": "2021-02-16T12:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-17-on-trump-michigan-republicans-lean-one-way-fealty-at-all-costs.md",
       "title": "On Trump, Michigan Republicans Lean One Way: ‘Fealty at All Costs’",
       "excerpt": "Even after his defeat, Donald Trump is causing fierce infighting among Republicans in a crucial battleground state. Loyalists are rewarded. Dissenters face punishment.",
@@ -710,7 +818,7 @@
       "originalUrl": "https://www.newsweek.com/progressives-push-joe-bidens-1400-stimulus-checks-presidents-day-44-days-1569456",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -1237,114 +1345,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-14-gop-sen-cassidy-trumps-force-wanes-following-capitol-riot.md",
-      "title": "GOP Sen. Cassidy: Trump’s 'force wanes' following Capitol riot",
-      "excerpt": "Sen. Bill Cassidy, R-La., one of seven Senate Republicans who voted to convict former President Trump in his second impeachment trial, said on Sunday that he believes Trump’s “force wanes,” arguing that the Republican Party wants “a leader who’s accountable and a leader who they can trust.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TAKo99kjvHg/gop-sen-cassidy-trumps-force-wanes-following-senate-impeachment-trial",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TAKo99kjvHg/gop-sen-cassidy-trumps-force-wanes-following-senate-impeachment-trial",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 295,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/gop-sen-cassidy-trumps-force-wanes-following-senate-impeachment-trial.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-sen-cassidy-trumps-force-wanes-following-senate-impeachment-trial.amp",
-      "publishedDateTime": "2021-02-14T13:42:57-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-15-biden-order-reestablishes-faith-focused-white-house-office.md",
-      "title": "Biden order reestablishes faith-focused White House office",
-      "excerpt": "President Joe Biden has signed an executive order relaunching a White House office aimed at fostering cooperation between the federal government and faith-based and secular community organizations",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/biden-order-reestablishes-faith-focused-white-house-office/2021/02/14/17fe6700-6ee0-11eb-8651-6d3091eac63f_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/biden-order-reestablishes-faith-focused-white-house-office/2021/02/14/17fe6700-6ee0-11eb-8651-6d3091eac63f_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 825,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/biden-order-reestablishes-faith-focused-white-house-office/2021/02/14/17fe6700-6ee0-11eb-8651-6d3091eac63f_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-order-reestablishes-faith-focused-white-house-office/2021/02/14/17fe6700-6ee0-11eb-8651-6d3091eac63f_story.html?outputType=amp",
-      "publishedDateTime": "2021-02-14T13:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

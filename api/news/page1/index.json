@@ -2,6 +2,114 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-23-fact-check-posts-falsely-claim-biden-gave-china-control-of-us-power-grid.md",
+      "title": "Fact check: Posts falsely claim Biden gave China control of U.S. power grid",
+      "excerpt": "No executive order signed by President Joe Biden gave China control of the U.S. power grid, and his order isn't linked to the Texas power outages.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/factcheck/2021/02/22/fact-check-posts-falsely-claim-biden-gave-china-control-power-grid/4523427001/",
+      "originalUrl": "https://www.usatoday.com/story/news/factcheck/2021/02/22/fact-check-posts-falsely-claim-biden-gave-china-control-power-grid/4523427001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/02/19/USAT/603162ef-b26b-4e0b-a54c-c91b0da0868d-AP21050597735960.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4523427001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4523427001",
+      "publishedDateTime": "2021-02-22T18:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-02-23-trump-to-claim-he-is-presumptive-2024-nominee-leader-of-gop-in-cpac-speech-report.md",
+      "title": "Trump to claim he is ‘presumptive 2024 nominee,’ leader of GOP in CPAC speech: report",
+      "excerpt": "A longtime Trump adviser told Axios his CPAC speech will be a \"show of force,\" and said the message will be: \"I may not have Twitter or the Oval Office, but I'm still in charge.\" The source reportedly added that \"payback is his chief obsession.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zrMJj40Y9W4/trump-to-claim-he-is-presumptive-2024-nominee-leader-of-gop-in-cpac-speech-report",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zrMJj40Y9W4/trump-to-claim-he-is-presumptive-2024-nominee-leader-of-gop-in-cpac-speech-report",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/donald-trump-melania6.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-to-claim-he-is-presumptive-2024-nominee-leader-of-gop-in-cpac-speech-report.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-to-claim-he-is-presumptive-2024-nominee-leader-of-gop-in-cpac-speech-report.amp",
+      "publishedDateTime": "2021-02-22T17:14:26-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-23-biden-asks-high-court-to-drop-two-trump-era-medicaid-cases.md",
       "title": "Biden asks high court to drop two Trump-era Medicaid cases",
       "excerpt": "The Biden administration is asking the Supreme Court not to hear arguments in two cases on its March calendar about the Trump administration’s plan to remake Medicaid by requiring recipients to work.",
@@ -948,7 +1056,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates?page=with:block-603385838f088c613adceff6",
       "featuredContent": null,
       "highlight": null,
-      "heat": 887,
+      "heat": 907,
       "tags": null,
       "images": [
         {
@@ -1272,120 +1380,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-21-full-hurd-interview-trump-should-have-very-little-influence-on-gop.md",
-      "title": "Full Hurd Interview: Trump should have 'very little' influence on GOP",
-      "excerpt": "Former Rep. Will Hurd (R-Texas) talks about storm recover in Texas and the future of the Republican party, during an exclusive interview with Meet the Press.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/meet-the-press/video/full-hurd-interview-trump-should-have-very-little-influence-on-gop-101356101630",
-      "originalUrl": "https://www.nbcnews.com/meet-the-press/video/full-hurd-interview-trump-should-have-very-little-influence-on-gop-101356101630",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202102/1613918086750_mtp_full_hurd_210221_1920x1080.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo101356101630",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo101356101630",
-      "publishedDateTime": "2021-02-21T06:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-21-pence-declined-cpac-invitation-source.md",
-      "title": "Pence declined CPAC invitation: source",
-      "excerpt": "Former Vice President Mike Pence has declined an invitation to attend this year's Conservative Political Action Conference, Fox News has learned.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pxTq-u8QWBY/pence-declined-cpac-invitation-source",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pxTq-u8QWBY/pence-declined-cpac-invitation-source",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 245,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7e7fe47e-ed40-4bb7-97a7-8b2c3b23ff48/b5a6a527-121e-4e98-876f-f6204780c546/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pence-declined-cpac-invitation-source.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-declined-cpac-invitation-source.amp",
-      "publishedDateTime": "2021-02-21T06:08:11-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
       ]
     }
   ],
