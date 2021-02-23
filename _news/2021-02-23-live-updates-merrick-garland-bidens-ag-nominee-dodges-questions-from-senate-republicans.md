@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/merrick-garland-live-updates-2-23-2
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/merrick-garland-live-updates-2-23-2021.amp"
 type: article
 quality: 165
-heat: 185
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,21 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "LIVE UPDATES: Joe Biden's education relief plan would see fraction go toward schools this year, CBO estimates"
-    excerpt: "The CBO estimates that the number would increase to $32 billion in 2022 and 2023, respectively."
-    publishedDateTime: 2021-02-17T05:06:55Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AdfzSDNhWqw/joe-biden-live-updates-2-17-2021"
-    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-live-updates-2-17-2021.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-live-updates-2-17-2021.amp"
+  - title: "Biden nominee Tom Vilsack confirmed as agriculture secretary"
+    excerpt: "President Biden’s Cabinet secured another key appointment Monday after the Senate voted to approve Tom Vilsack as the next agriculture secretary."
+    publishedDateTime: 2021-02-23T20:34:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dqsAvzMrQrg/biden-nominee-tom-vilsack-confirmed-agriculture-secretary"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-nominee-tom-vilsack-confirmed-agriculture-secretary.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nominee-tom-vilsack-confirmed-agriculture-secretary.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 156
+    quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/31b5266e-00b9-4c8a-a711-4d3bc3ec3a8a/8a4f160d-8e38-48f5-a218-58889c598c66/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9f57ab36-ea8b-456f-ab70-6835f363cab3/7f5905d3-cc41-4df7-99a6-9399aa75de21/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Conservatives call Biden pick for HHS Xavier Becerra an 'extremist,' oppose nomination"
+    excerpt: "More than 100 conservatives voiced opposition to President Biden’s nominee for secretary of the Department of Health and Human Services Xavier Becerra, calling him an “extremist” who would carry a liberal agenda if confirmed."
+    publishedDateTime: 2021-02-22T18:28:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/S88TxDO8cI8/conservatives-call-biden-pick-for-hhs-xavier-becerra-an-extremist-oppose-nomination"
+    ampWebUrl: "https://www.foxnews.com/politics/conservatives-call-biden-pick-for-hhs-xavier-becerra-an-extremist-oppose-nomination.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/conservatives-call-biden-pick-for-hhs-xavier-becerra-an-extremist-oppose-nomination.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Neera Tanden, Xavier Becerra under fire as Biden nominees fight to survive confirmation battles"
+    excerpt: "President Biden is standing behind a pair of Cabinet picks facing uphill battles —including Neera Tanden, his nominee to lead the Office of Management and Budget, and Xavier Becerra, his pick for secretary of the Department of Health and Human Services -- as a growing number of senators have vowed to"
+    publishedDateTime: 2021-02-23T13:49:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Cy_rqhBqCLE/neera-tanden-xavier-becerra-tough-confirmation-battles"
+    ampWebUrl: "https://www.foxnews.com/politics/neera-tanden-xavier-becerra-tough-confirmation-battles.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/neera-tanden-xavier-becerra-tough-confirmation-battles.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "xrJuO/lF83+nFSfB2IzmHCYlq+m9DbAcTECRA2j8GgehJK7RzyRvpQLcSlg1TJn0wXHguB+eyL5MqPSPXOCYn+zwxoR4j0OWaE+/SvdPiCbKxZXGNN59PhfXLRt/LNT0YoeaOEltbxy6Fimqgn1p2G0Y4lU+fMYq2+pF9GdB4/XtGQ9POA1W9oc6OTX+L5GeWQXL60+xy74j3aWpOmJNeUDjvXz1u9dDnHmPZa7cWdNpP509j+TgiQvNWO7Xu16ZE+ds1702PRuWE5vLm+auI0bGSOhhgQ/gDAPrMoK3CNVQ6tT2XgUbIEdez7IZGqMrmdJJTsRYFmDUcOwElNmcHcIO3ydvYtmzmu3XT3Y9Ovs=;OyESXZaIzpUMSV0lPCN98Q=="

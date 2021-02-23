@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Biden to revise small business PPP loans to reach smaller, minority firms"
-excerpt: "President Joe Biden on Monday launched changes to the U.S. coronavirus aid program for small businesses to try to reach smaller and minority-owned firms, sole proprietors and those with past criminal records left behind in previous rounds of aid."
-publishedDateTime: 2021-02-22T18:32:00Z
-originalUrl: "https://www.reuters.com/article/usa-biden-smallbusiness-idINKBN2AM0ZR"
-webUrl: "https://www.reuters.com/article/usa-biden-smallbusiness-idINKBN2AM0ZR"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2AM0ZR"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2AM0ZR"
+title: "Biden to visit storm-ravaged Texas Friday"
+excerpt: "President Joe Biden will visit Texas on Friday as the state begins its recovery from a devastating winter storm that caused serious damage to homes and businesses across the state and left many withou"
+publishedDateTime: 2021-02-23T17:51:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-visit-storm-ravaged-texas-friday-76068435"
+webUrl: "https://abcnews.go.com/Politics/wireStory/biden-visit-storm-ravaged-texas-friday-76068435"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-visit-storm-ravaged-texas-friday-76068435"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-visit-storm-ravaged-texas-friday-76068435"
 type: article
-quality: 124
-heat: -1
-published: false
+quality: 125
+heat: 305
+published: true
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,28 +25,12 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210222&t=2&i=1552462077&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1L175"
-    width: 817
-    height: 545
+  - url: "https://s.abcnews.com/images/Politics/WireAP_0b40b2ed85c2451cafb376c3c20fae9e_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
-  - title: "Biden to visit storm-ravaged Texas Friday"
-    excerpt: "President Joe Biden will visit Texas on Friday as the state begins its recovery from a devastating winter storm that caused serious damage to homes and businesses across the state and left many withou"
-    publishedDateTime: 2021-02-23T17:51:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-visit-storm-ravaged-texas-friday-76068435"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-visit-storm-ravaged-texas-friday-76068435"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-visit-storm-ravaged-texas-friday-76068435"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_0b40b2ed85c2451cafb376c3c20fae9e_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "UPDATE 1-Biden to travel to winter storm-battered Texas on Friday"
     excerpt: "U.S. President Joe Biden and first lady Jill Biden will travel to Texas on Friday to visit a state that has been hit hard by a winter storm, leading to mass power outages and a disruption of water supplies,"
     publishedDateTime: 2021-02-23T16:24:00Z
@@ -61,6 +45,22 @@ related:
     images:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210223&t=2&i=1552623143&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1M15F"
         width: 813
+        height: 545
+        isCached: true
+  - title: "Biden to revise small business PPP loans to reach smaller, minority firms"
+    excerpt: "President Joe Biden on Monday launched changes to the U.S. coronavirus aid program for small businesses to try to reach smaller and minority-owned firms, sole proprietors and those with past criminal records left behind in previous rounds of aid."
+    publishedDateTime: 2021-02-22T18:32:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-smallbusiness-idINKBN2AM0ZR"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2AM0ZR"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2AM0ZR"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210222&t=2&i=1552462077&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1L175"
+        width: 817
         height: 545
         isCached: true
   - title: "Biden to declare major disaster in Texas as millions hit by water shortages"
@@ -169,6 +169,6 @@ related:
         height: 675
         isCached: true
 
-secured: "H3swzN7DQLlEf+JiJmeMuMXeo1I/8Y3cWUziqKV7JL4xCepm/tivwHsmp8LjN7G0TB9BtMh9IACmAcX54Pq/uELviPGQoDWr5paQcE+TD7HsD4Y8I/TGlEu4GHG7l4tGBrcLzZaD8E1cZ1aqvHtLMYu+dIvLr/1Iv5G9Y8uejqMZQbeYu012SkTmQ3OcwobauDca3HgKgESpJ6mdkboi3cjdvc0nN6t379WtUiqoWbPrUDz86toopDm3t4cLAJT/iMd2VkQzRDl7BGxL3BESry9tjNF638G2BP2U9iqRX3VYF/nJubITCFLpccSJZ3qaCANl+kSXO4fPBbC+x0QL69zmzSAMcimskqI4sihbHIM=;vOj6yLhl0Sjk6iHU/WQexg=="
+secured: "n12ECyspcXkhAHI1x5a15Ue1T2Yxl1B14Qr4w9X1m/FhBTI8w5OspAzMCyQAndV0tlX+INAr8P7OmKvITrfiCijqMpaF+86YDIZKuHzZWqgDBnRnObTcEh83lgEu64fsg8f0ZDw4bsAeH8G/J6HxKLeL3LQPnQ4sjRbGQR0Gs0/UZybOXdvXQrToq1TqKHDrXU0qXIrxJKKICchgX29L8NLqDLzoen2YpAdQYQm0lW25vHp75J1UmGne95fn6Tg4KiIoOdIR7rAXPXH06qUhHA6sTIi+A8goaYyfAV867RlmGrxI48cki7QWj50xkXVCapyH8m7aRv6x7hXiT6syaG9lNy1xpAZvqlo2UDBzjWo=;XnxL3ypqaZgWEGD+AciGRQ=="
 ---
 

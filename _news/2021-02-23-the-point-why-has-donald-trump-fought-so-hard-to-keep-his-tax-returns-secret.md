@@ -1,14 +1,14 @@
 ---
 category: news
-title: "What the Supreme Court ruling means for Manhattan DA's Trump criminal investigation "
-excerpt: "After 17 months and two trips to the US Supreme Court, the Manhattan district attorney's criminal investigation into former President Donald Trump's business has received a significant boost with investigators now able to pour over Trump's tax returns and financial records.\n    \n"
-publishedDateTime: 2021-02-22T20:16:43Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UdNZ51ZMpls/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UdNZ51ZMpls/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/02/22/politics/supreme-court-manhattan-da-trump/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/22/politics/supreme-court-manhattan-da-trump/index.html"
+title: "The Point: Why has Donald Trump fought so hard to keep his tax returns secret?"
+excerpt: "The Supreme Court's rejection Monday of an attempt by Donald Trump to keep Manhattan District Attorney Cyrus Vance from seeing his tax returns (and other financial documents) was rightly cast as a major legal setback for the former President.\n    \n"
+publishedDateTime: 2021-02-23T15:42:19Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RJDWU7rk_60/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RJDWU7rk_60/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/02/23/politics/donald-trump-tax-returns-scotus/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/23/politics/donald-trump-tax-returns-scotus/index.html"
 type: article
-quality: 168
+quality: 171
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210213202046-trump-impeachment-vote-acquittal-day-5-wrap-trial-two-nobles-nr-vpx-00021619-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/170417184020-cnnmoney-trump-tax-returns-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -47,19 +47,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "The Point: Why has Donald Trump fought so hard to keep his tax returns secret?"
-    excerpt: "The Supreme Court's rejection Monday of an attempt by Donald Trump to keep Manhattan District Attorney Cyrus Vance from seeing his tax returns (and other financial documents) was rightly cast as a major legal setback for the former President.\n    \n"
-    publishedDateTime: 2021-02-23T15:42:19Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RJDWU7rk_60/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/23/politics/donald-trump-tax-returns-scotus/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/23/politics/donald-trump-tax-returns-scotus/index.html"
+  - title: "What the Supreme Court ruling means for Manhattan DA's Trump criminal investigation "
+    excerpt: "After 17 months and two trips to the US Supreme Court, the Manhattan district attorney's criminal investigation into former President Donald Trump's business has received a significant boost with investigators now able to pour over Trump's tax returns and financial records.\n    \n"
+    publishedDateTime: 2021-02-22T20:16:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UdNZ51ZMpls/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/22/politics/supreme-court-manhattan-da-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/22/politics/supreme-court-manhattan-da-trump/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 171
+    quality: 168
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170417184020-cnnmoney-trump-tax-returns-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210213202046-trump-impeachment-vote-acquittal-day-5-wrap-trial-two-nobles-nr-vpx-00021619-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -96,6 +96,6 @@ related:
         height: 550
         isCached: true
 
-secured: "IwzBKtjz1aJ9iPM3qCKyCKlb2UcecE+Z8ePeVjen0cpGVzdNSjG1m0LRzFKiEg5L3wkPzlw6Yfthua4nH7z4iObKou2FIZpKClP7I/JilMDZ4Hes4AH10tOJcdteDoKXE8CUKo0qPLhLPp3yVp3WSrDeprTk1L+HGe/mdcA0cEAhN7Hk7C7mwlomP6QtAOwrEGJuwjLkCNYiSwRT/CKSaxVB89Nhm6SuXFFLa9E80H6Gl0tHqCGcBII7Xk10ZymzfTvVZBkWMqk245IzsaWUIJyuMBXkr+OUKJMGphYaPdEdpzzr65GdNdH6q9Xwxf1VRraUHGFtHz8Jn2ZOvuk0RTP7iQ1YZDWwAJcAaaiZnk4=;dMwU20xexncRoOEO6aqa8w=="
+secured: "x2E82NsiqjFy2rjUJHTpGtWP+lbmdoLr0lzTB1pl8RzQPCBwD84m+YUxTETS2vC4sgdP9mr1Zr/jPj54chGIkh8MQj6kmkfYtkQOylm4hrzNYttMNwlsxvD1fPECW+RBOMQY5RbSl2jg/X904h1WsP3bX/4mF0Z2Y2ahDPLBu0djZkqKZPikdbVTAX9KDkHYLaaR6y3VSHkEHKgxIt2/EvhtmkpVr70MX2bPTnSOIDb5lhraghct3RWDsx5N5Fzb81hgO9gbReLda/WEKv+dDCW1+79xl70h01rrgQiJVHsRh9Cn8+Iv59NSiFm9v7SzP8ExcB8GSEgY6Wu0y1Pz4mFAjUR3tqv9gGqZqlNFwS8=;RhCX7K2xmn3pdyDg1qQp+A=="
 ---
 

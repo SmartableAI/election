@@ -1,22 +1,22 @@
 ---
 category: news
-title: "State AG calls on Biden to cancel up to $50K in student debt"
-excerpt: "Delaware’s Attorney General is part of a group pf attorney generals across the nation who are pushing for President Joe Biden to cancel up to $50,000 in federal student loan debt for all borrowers"
-publishedDateTime: 2021-02-23T13:49:00Z
-originalUrl: "https://www.washingtonpost.com/national/state-ag-calls-on-biden-to-cancel-up-to-50k-in-student-debt/2021/02/23/e986179c-75dd-11eb-9489-8f7dacd51e75_story.html"
-webUrl: "https://www.washingtonpost.com/national/state-ag-calls-on-biden-to-cancel-up-to-50k-in-student-debt/2021/02/23/e986179c-75dd-11eb-9489-8f7dacd51e75_story.html"
-ampWebUrl: "https://www.washingtonpost.com/national/state-ag-calls-on-biden-to-cancel-up-to-50k-in-student-debt/2021/02/23/e986179c-75dd-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/state-ag-calls-on-biden-to-cancel-up-to-50k-in-student-debt/2021/02/23/e986179c-75dd-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
+title: "World Food Prize laureates ask Biden to elevate hunger"
+excerpt: "A group of 24 scientists, economists, researchers and other past winners of the World Food Prize sent a letter to President Joe Biden asking him to focus on alleviating global hunger, poverty and maln"
+publishedDateTime: 2021-02-23T15:43:00Z
+originalUrl: "https://abcnews.go.com/US/wireStory/world-food-prize-laureates-biden-elevate-hunger-76064533"
+webUrl: "https://abcnews.go.com/US/wireStory/world-food-prize-laureates-biden-elevate-hunger-76064533"
+ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/world-food-prize-laureates-biden-elevate-hunger-76064533"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/world-food-prize-laureates-biden-elevate-hunger-76064533"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://s.abcnews.com/images/US/WireAP_201aea597791404d959a128f2b8b879a_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -383,21 +383,21 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "World Food Prize laureates ask Biden to elevate hunger"
-    excerpt: "A group of 24 scientists, economists, researchers and other past winners of the World Food Prize sent a letter to President Joe Biden asking him to focus on alleviating global hunger, poverty and maln"
-    publishedDateTime: 2021-02-23T15:43:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/world-food-prize-laureates-biden-elevate-hunger-76064533"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/world-food-prize-laureates-biden-elevate-hunger-76064533"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/world-food-prize-laureates-biden-elevate-hunger-76064533"
+  - title: "State AG calls on Biden to cancel up to $50K in student debt"
+    excerpt: "Delaware’s Attorney General is part of a group pf attorney generals across the nation who are pushing for President Joe Biden to cancel up to $50,000 in federal student loan debt for all borrowers"
+    publishedDateTime: 2021-02-23T13:49:00Z
+    webUrl: "https://www.washingtonpost.com/national/state-ag-calls-on-biden-to-cancel-up-to-50k-in-student-debt/2021/02/23/e986179c-75dd-11eb-9489-8f7dacd51e75_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/state-ag-calls-on-biden-to-cancel-up-to-50k-in-student-debt/2021/02/23/e986179c-75dd-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/state-ag-calls-on-biden-to-cancel-up-to-50k-in-student-debt/2021/02/23/e986179c-75dd-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/US/WireAP_201aea597791404d959a128f2b8b879a_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Biden to travel to Houston on Friday to survey winter storm recovery"
     excerpt: "President Joe Biden will travel to Houston on Friday after millions of Texans were left without power last week."
@@ -757,6 +757,6 @@ related:
         height: 630
         isCached: true
 
-secured: "i3Yb01tRDJHD9TqgPaOnye0c2CvtH2FHJMyWfw9kJWGqa/qfLn6uswPcmxKnMMGsNK5JJnRVG8S06w3ZKvyh8W9ErNumLPrlN+GNj1UFSlEL+l9B8yMMAYR6Ayr8OotzhC0MW4oKWBDgNWbd9ZpzQPaS7W9r0ajbFQFpJ+A5yr5ZcXXHRP33voJuhpxY0+LUqoj/PAGjj0CeYO9iqFt0NFMeyzqP+mYGstBMn24KWdImhPz31hvn8lpVTfMv4nlkx+0JCg42obma+tiLMrb/f7SEQhGz4KoJoYxIHK0ElnZGAhAYTPh0M+cMMERWfX/OIE5GRcnbpZxgm76tiGss0tj9A8Ho/IauwWYJT7xDpG4=;oSJ9roJRteGT8Sipv+XKQA=="
+secured: "cxGYpWfpHVeRKT4Jc+GqDVcyAKhsmpOOxFWgmv/9FvUNgz11nmRGJDuXhissZ8Zos/uVCHcJaIiJ0hsqFTu/1mRsQJob1SkYBh3szKoydZ7UiRT/uGNvO80FRDO9nyXlmLvv+w3kMyY9dZiOFxssFFmb6V5wCIxK/TZwFvxKtZvAULgJ/F7PMj8gjjO/PhFLoHdpoGfaaTk2wrVlykFdeCrtneN1foxICGm+fFf1uQ21vcWsjE6gtAAFT3NZ9gBgGij73NOEmyDiwbkt2aU/RjjyLLiouYts7qiCisHOExtr4Nx5mZcgRgmYE5yh3O4HfZlIKgm4axWj2YWmldycZYXsKjnHBypw6DsgPPQvygg=;Rc06UvPJQSKO2WqqgA0S9w=="
 ---
 

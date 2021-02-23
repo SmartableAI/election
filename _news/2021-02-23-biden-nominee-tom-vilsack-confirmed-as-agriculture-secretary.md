@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Conservatives call Biden pick for HHS Xavier Becerra an 'extremist,' oppose nomination"
-excerpt: "More than 100 conservatives voiced opposition to President Biden’s nominee for secretary of the Department of Health and Human Services Xavier Becerra, calling him an “extremist” who would carry a liberal agenda if confirmed."
-publishedDateTime: 2021-02-22T18:28:42Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/S88TxDO8cI8/conservatives-call-biden-pick-for-hhs-xavier-becerra-an-extremist-oppose-nomination"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/S88TxDO8cI8/conservatives-call-biden-pick-for-hhs-xavier-becerra-an-extremist-oppose-nomination"
-ampWebUrl: "https://www.foxnews.com/politics/conservatives-call-biden-pick-for-hhs-xavier-becerra-an-extremist-oppose-nomination.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/conservatives-call-biden-pick-for-hhs-xavier-becerra-an-extremist-oppose-nomination.amp"
+title: "Biden nominee Tom Vilsack confirmed as agriculture secretary"
+excerpt: "President Biden’s Cabinet secured another key appointment Monday after the Senate voted to approve Tom Vilsack as the next agriculture secretary."
+publishedDateTime: 2021-02-23T20:34:14Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dqsAvzMrQrg/biden-nominee-tom-vilsack-confirmed-agriculture-secretary"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dqsAvzMrQrg/biden-nominee-tom-vilsack-confirmed-agriculture-secretary"
+ampWebUrl: "https://www.foxnews.com/politics/biden-nominee-tom-vilsack-confirmed-agriculture-secretary.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nominee-tom-vilsack-confirmed-agriculture-secretary.amp"
 type: article
-quality: 167
-heat: -1
-published: false
+quality: 175
+heat: 235
+published: true
 
 provider:
   name: Fox News
@@ -25,27 +25,27 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9f57ab36-ea8b-456f-ab70-6835f363cab3/7f5905d3-cc41-4df7-99a6-9399aa75de21/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
-  - title: "Biden nominee Tom Vilsack confirmed as agriculture secretary"
-    excerpt: "President Biden’s Cabinet secured another key appointment Monday after the Senate voted to approve Tom Vilsack as the next agriculture secretary."
-    publishedDateTime: 2021-02-23T20:34:14Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dqsAvzMrQrg/biden-nominee-tom-vilsack-confirmed-agriculture-secretary"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-nominee-tom-vilsack-confirmed-agriculture-secretary.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nominee-tom-vilsack-confirmed-agriculture-secretary.amp"
+  - title: "Conservatives call Biden pick for HHS Xavier Becerra an 'extremist,' oppose nomination"
+    excerpt: "More than 100 conservatives voiced opposition to President Biden’s nominee for secretary of the Department of Health and Human Services Xavier Becerra, calling him an “extremist” who would carry a liberal agenda if confirmed."
+    publishedDateTime: 2021-02-22T18:28:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/S88TxDO8cI8/conservatives-call-biden-pick-for-hhs-xavier-becerra-an-extremist-oppose-nomination"
+    ampWebUrl: "https://www.foxnews.com/politics/conservatives-call-biden-pick-for-hhs-xavier-becerra-an-extremist-oppose-nomination.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/conservatives-call-biden-pick-for-hhs-xavier-becerra-an-extremist-oppose-nomination.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 167
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9f57ab36-ea8b-456f-ab70-6835f363cab3/7f5905d3-cc41-4df7-99a6-9399aa75de21/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "LIVE UPDATES: Merrick Garland, Biden's AG nominee dodges questions from Senate Republicans"
     excerpt: "Garland dodged questions about the Durham investigation into the Trump-Russia probe origins, transgender athletes in high school sports, and whether crossing the border illegally should be a criminal offense. "
@@ -80,6 +80,6 @@ related:
         height: 340
         isCached: true
 
-secured: "2CZasuEgjf1d/LTUvWw/Ok7F4JztppXd+aaP9SOpl5pghMYrx9B8FOmsyBnDrNwHiTafXjhW88OLXTt6V0RyyMKukXfVvRpv9sYJjS6/szB5YbnPjvS1U17hSb5yxrobiSk7EKv95ju+QfmeP2U/Ntwzcaidq0nh1hayXE481IGg/DBS4AcwoxDj2hlYXcYSrz+Wo59FTDqDw+fWlF1W760nAtfWBuejiclc38Pda6eu8r0cjr/yTHJwyRICCBGWYa99csGI3p2d1AupPhCIeMDYmk3DiQKF0/UrHBMdHoKX+/8qqttXwre0QY/n1VtOlP6MTJfMg8UsvcC6zY5GTeU9pPSF5lNWSIxvv2KZdf0=;/lRQI6MsEt5UeW215Hd8Lw=="
+secured: "qUF+05sc/FQkkQvuKaZD0J0xzALhUrHnXWv1WplzPHKqx4qSxUtwv3f8ymqAsZMi+WL+foNsbMXMXBMtyo/JbbgCJMCwR9kQUAd9b0SuEQeIk0jQa7qjPt0MAL9MxKu9QD5XfUtZpTU2Xxz5JI7iH4XDrjD3JYV99itAXpg4eD3RtDkyDt2w2mdLBik7wFjXg0vB74iautPLayuQsfvcheN3GXu7UAyVfEDHP4e8Bj2P45xndZoH8ZTSLUi1J3kcLYWwR49WJnY/Vgott136XVEBWxwxzf35Dgm2lGoU5uMhkXsb28s0vS2yO99YQ/ugZJod21C5C9cbCYaSzh8TaQmIRV/qfKq0bCvZgO9cIrI=;0wzwUZzNoQRb8VVF5DpU2Q=="
 ---
 

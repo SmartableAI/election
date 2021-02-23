@@ -44,6 +44,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "LIVE UPDATES: Joe Biden's education relief plan would see fraction go toward schools this year, CBO estimates"
+    excerpt: "The CBO estimates that the number would increase to $32 billion in 2022 and 2023, respectively."
+    publishedDateTime: 2021-02-17T05:06:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AdfzSDNhWqw/joe-biden-live-updates-2-17-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-live-updates-2-17-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-live-updates-2-17-2021.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/31b5266e-00b9-4c8a-a711-4d3bc3ec3a8a/8a4f160d-8e38-48f5-a218-58889c598c66/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Dems to introduce Biden-backed immigration bill, includes citizenship path for millions of illegal immigrants"
     excerpt: "Congressional Democrats on Thursday will unveil a sweeping immigration bill, backed by President Biden, that includes a path to citizenship for millions of illegal immigrants -- although the plan faces tough odds in the Senate."
     publishedDateTime: 2021-02-18T13:35:51Z

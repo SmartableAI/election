@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden to visit storm-ravaged Texas Friday"
+    excerpt: "President Joe Biden will visit Texas on Friday as the state begins its recovery from a devastating winter storm that caused serious damage to homes and businesses across the state and left many withou"
+    publishedDateTime: 2021-02-23T17:51:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-visit-storm-ravaged-texas-friday-76068435"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-visit-storm-ravaged-texas-friday-76068435"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-visit-storm-ravaged-texas-friday-76068435"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_0b40b2ed85c2451cafb376c3c20fae9e_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "UPDATE 1-Biden to travel to winter storm-battered Texas on Friday"
     excerpt: "U.S. President Joe Biden and first lady Jill Biden will travel to Texas on Friday to visit a state that has been hit hard by a winter storm, leading to mass power outages and a disruption of water supplies,"
     publishedDateTime: 2021-02-23T16:24:00Z
@@ -45,6 +61,22 @@ related:
     images:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210223&t=2&i=1552623143&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1M15F"
         width: 813
+        height: 545
+        isCached: true
+  - title: "Biden to revise small business PPP loans to reach smaller, minority firms"
+    excerpt: "President Joe Biden on Monday launched changes to the U.S. coronavirus aid program for small businesses to try to reach smaller and minority-owned firms, sole proprietors and those with past criminal records left behind in previous rounds of aid."
+    publishedDateTime: 2021-02-22T18:32:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-smallbusiness-idINKBN2AM0ZR"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2AM0ZR"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2AM0ZR"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210222&t=2&i=1552462077&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1L175"
+        width: 817
         height: 545
         isCached: true
   - title: "Biden to declare major disaster in Texas as millions hit by water shortages"
@@ -95,6 +127,31 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden Gives Small Firms Exclusive Access to Paycheck Program"
+    excerpt: "President Joe Biden said his administration is seeking to help small businesses by giving them exclusive access to the Paycheck Protection Program for two weeks, and he called on lawmakers to pass his $1."
+    publishedDateTime: 2021-02-22T18:25:00Z
+    webUrl: "https://www.washingtonpost.com/business/on-small-business/biden-gives-small-firms-exclusive-access-to-paycheck-program/2021/02/22/8cd3f096-74fc-11eb-9489-8f7dacd51e75_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PPAL2PTU7QI6XFEJR562ZVI6OU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Lawmakers plan to meet with Biden Wednesday on supply chain-source"
+    excerpt: "A bipartisan group of lawmakers plans to meet with U.S. President Joe Biden on Wednesday to discuss supply chain issues, including semiconductor chips, a congressional source said on Tuesday."
+    publishedDateTime: 2021-02-23T18:33:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-meeting-idUSW1N2HK04Q"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2HK04Q"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2HK04Q"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "'Climate change is real': Biden administration says Texas power crisis shows U.S. unprepared for extreme weather"
     excerpt: "President Joe Biden has approved federal emergency declarations for Texas, Oklahoma and is processing a request from Louisiana."
     publishedDateTime: 2021-02-19T00:55:00Z

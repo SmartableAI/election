@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The Point: Why has Donald Trump fought so hard to keep his tax returns secret?"
+    excerpt: "The Supreme Court's rejection Monday of an attempt by Donald Trump to keep Manhattan District Attorney Cyrus Vance from seeing his tax returns (and other financial documents) was rightly cast as a major legal setback for the former President.\n    \n"
+    publishedDateTime: 2021-02-23T15:42:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RJDWU7rk_60/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/23/politics/donald-trump-tax-returns-scotus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/23/politics/donald-trump-tax-returns-scotus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170417184020-cnnmoney-trump-tax-returns-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "What the Supreme Court ruling means for Manhattan DA's Trump criminal investigation "
     excerpt: "After 17 months and two trips to the US Supreme Court, the Manhattan district attorney's criminal investigation into former President Donald Trump's business has received a significant boost with investigators now able to pour over Trump's tax returns and financial records.\n    \n"
     publishedDateTime: 2021-02-22T20:16:43Z

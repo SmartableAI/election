@@ -397,6 +397,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "World Food Prize laureates ask Biden to elevate hunger"
+    excerpt: "A group of 24 scientists, economists, researchers and other past winners of the World Food Prize sent a letter to President Joe Biden asking him to focus on alleviating global hunger, poverty and maln"
+    publishedDateTime: 2021-02-23T15:43:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/world-food-prize-laureates-biden-elevate-hunger-76064533"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/world-food-prize-laureates-biden-elevate-hunger-76064533"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/world-food-prize-laureates-biden-elevate-hunger-76064533"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/WireAP_201aea597791404d959a128f2b8b879a_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden to travel to Houston on Friday to survey winter storm recovery"
     excerpt: "President Joe Biden will travel to Houston on Friday after millions of Texans were left without power last week."
     publishedDateTime: 2021-02-23T18:04:00Z

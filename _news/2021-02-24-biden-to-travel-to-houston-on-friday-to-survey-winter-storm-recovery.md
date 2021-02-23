@@ -399,6 +399,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "World Food Prize laureates ask Biden to elevate hunger"
+    excerpt: "A group of 24 scientists, economists, researchers and other past winners of the World Food Prize sent a letter to President Joe Biden asking him to focus on alleviating global hunger, poverty and maln"
+    publishedDateTime: 2021-02-23T15:43:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/world-food-prize-laureates-biden-elevate-hunger-76064533"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/world-food-prize-laureates-biden-elevate-hunger-76064533"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/world-food-prize-laureates-biden-elevate-hunger-76064533"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/WireAP_201aea597791404d959a128f2b8b879a_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Texas storm: Biden to declare major disaster to secure federal aid – live"
     excerpt: "Biden says declaration could be signed this afternoon and would open up aid for immediate and long-term recovery efforts – follow all the latest news"
     publishedDateTime: 2021-02-19T23:18:00Z
@@ -741,6 +757,6 @@ related:
         height: 630
         isCached: true
 
-secured: "rgFbsD7vxtLSWCSTmGz0B/JOW2UxsfIaeag0ZzJGLyX+kEuZRjhj/dLwQSwSkTV6MD9VVVBj7CV1fn74hPsdUW6rE7/k12w0MOLUmV0I1D+O1jzFuD17YWFBzd4JMq45BnoIDxV9jvEwCn/b0GlOkT/rbNLa5BGVrjKyypMsXI5wf0ZoBC1TmXuoAkHVJdRKIQrue2fwdVe4qcgs0QcnQAGlxhwKR89NAMNM1Lb4tzfzV9y2NdyXoTVjWOo3x+8W38W2lJ2+7mc3fFGmjcXjVLhgyoC+JdrWK1y9Y/6j3EyLXJ+BzomZalwMuoyoX/sHZ9L0Bn+Ux2DNvgO2gCsvspQNiM2H8FYdoOozUDkbTso=;XQFg8DhCNoG5eXJRiZ1HAA=="
+secured: "BuYxayt4zJtxE7ffLhEZMSlFpBB5l0cwuZrBxGk74b/pnmah+QzX9qeEBxUdvHDKlxFcY7deJtusH8fwKMRq3/AI6rmbYn/XsYiB+JRRkSkorAlVc80mkXu8+MXqfmtL1GvFP1Jp5i1mJ7PGkyHb8AxaObxTyIw5lHGP0AC4EvCg3oZUowjj9Q51g3wacZ4JOmRa6WgIH/gQQzF0B6UeUY94FBIB72t/nyMZNrlRCFiGrIMTnKE/Vlj0ftcEsNCeHkfmlELtcPXPRkCOlDsUEKQW+iqBsRa1+/D2pQX2Kl2RbokSahAEVOfPKA7tU09rwfJG7tG1eB42tXcckNEJwmze4CDlRV9DZq8ovC6iXi1i2UpP2B7rdAme60jYJPVjk7/TXYJqrLcW34Wrt3VlalrsO2yNBW3L95UYnifOJQ8YrqcDfP4tWbvKq8Rsg1I4du0qtRAxMcVx3MEHHmXbXLlCMD0LHxkoecQmSHnAHww8MZNaaD2Ws8Kw27XLNhxYMRdNA5Zz4tT4RB1+KXqr8Q==;ADrWbZGwLdG8BwU/0LXn2Q=="
 ---
 
