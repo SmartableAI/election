@@ -159,6 +159,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "LIVE UPDATES: Joe Biden pays tribute to lives lost during coronavirus pandemic"
+    excerpt: "Biden called the milestone \"truly grim\" and \"heartbreaking\" as he noted the pandemic has taken more American lives than WWI, WWII and the Vietnam War combined."
+    publishedDateTime: 2021-02-23T06:47:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dEMla_pteFQ/joe-biden-live-updates-2-23-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-live-updates-2-23-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-live-updates-2-23-2021.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d7ced93b-c81b-4394-8480-e81a931164a0/77057e73-6980-4956-8b97-6d92e03975c1/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "LIVE UPDATES: Press Secretary Jen Psaki briefs reporters ahead of Biden meeting with GOP senators"
     excerpt: "The White House COVID-19 Task Force is scheduled to brief reporters at 11 a.m. ET, ahead of a separate 12:30 p.m. briefing by press secretary Jen Psaki."
     publishedDateTime: 2021-02-01T13:30:21Z

@@ -495,6 +495,38 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Supreme court rejects Trump bid to block tax records from prosecutor"
+    excerpt: "Court’s order is a win for the Manhattan district attorney, Cyrus Vance Jr, who has been seeking Trump’s tax records since 2019"
+    publishedDateTime: 2021-02-22T20:05:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/feb/22/donald-trump-tax-records-supreme-court-new-york-prosecutor"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/22/donald-trump-tax-records-supreme-court-new-york-prosecutor"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/22/donald-trump-tax-records-supreme-court-new-york-prosecutor"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/29af7a6fc1d4a46851163e55bfeabdf89b81d589/0_365_5472_3283/master/5472.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=b672634fc3ecfffac615ad173e666434"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "What NY prosecutors could learn from Trump's tax records"
+    excerpt: "Manhattan's district attorney fought for a year and a half to get access to former President Donald Trump’s tax records"
+    publishedDateTime: 2021-02-23T06:13:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/ny-prosecutors-learn-trumps-tax-records-76058219"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ny-prosecutors-learn-trumps-tax-records-76058219"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ny-prosecutors-learn-trumps-tax-records-76058219"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/WireAP_6b667e32aed8483fa2f05bc435644913_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Pull of partisanship helps Trump escape impeachment conviction: ANALYSIS"
     excerpt: "While seven Republicans joined all 50 Democrats in voting for former President Donald Trump 's conviction, the Senate fell 10 votes short of conviction. Trump was spared the ultimate punishment Congress could wield by powerful and familiar forces he has long understood,"
     publishedDateTime: 2021-02-13T22:04:00Z
@@ -1274,6 +1306,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "6RqgHWOAZ2lj4RXpAR6E4WychNkeJ0z878SJuj2Pezocjlr7xeTgTR5UJnMA/rCKNCXVgin00P4K+SqpH2oiRUDV9CVaFD81fz/MaWvP7aiV+YR8p57vcDbJb4hjxIZUmF/tw3GiSY6eUQvXj9VmQTuHEEAM1Ejw27Zp6/tnQH5XxQ2xdLImEg0BYfy2Q549pnXkCZ1PtkBPPVTLRpvCV782NcSg5vezFnVqTrIJHQTeQ7qAzkImKeeZ6VWJLW3bdVv5uaMkeDuVKzpI+parlohgF+0QGAwAP1l6cekEFH9lC3Uxo6ScriQYcFkw6K2dj1FcFwjSpxZhGb2eKw4/vr3uUEj27eOpV2AShgTjJKM=;5eBEsisdOLla38sS1YYaYw=="
+secured: "zw+Y/GVn0GR4aXBmSRDSRuss1nSyQBhpwjR0aMCCYbdwt0Z/WXUYjBqPWeT4rO6uRrUD15AoXHso+riYpcB6cw6J3bwOMNteIkPewU50TvtiZfNqlvgdfPnmMBfU4P365oTgMSNYxatCV37FpLtjjPkL8b7rn9MLiUxMWtZfQUwWOSiVlKSVM7pZCuIXdmIfFqQA0H07sBhaBwCQJ8tZpJOpiYT004hBsFEFphzAMXhcRadWsMsOAqO675ADE0QnyKYVFyUOoLK70o1Q+KGtXhW+OiN8v7VFZxEJ7qoy/76kPtABJrDVD6UicJqJ8yvY9JLacBzKxVPwN0FT8HQqQ4C4Au/dVvGj1AmwLeAYcx8CCz6uc9qGBuwS+CTKesffaTwyx0ANairnAmRTXYZcW3PPT0AcjpKzhHSpSJDAUB+s7j2sE0n4r2TI/zPp1PXEn4GO2uM/6HW2ecgqoMA3w4qHWS+nwzqy9vBLuFi/bWFSNziCbGt91YSufzS7YjaKsaT+D22DZF4o1FG7dGL4Ig==;itsfI+xA7xuYHToxxfoODg=="
 ---
 

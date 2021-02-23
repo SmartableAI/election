@@ -400,6 +400,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Reporter asks State Dept. spokesman if Biden is taking credit for Trump-era policy"
+    excerpt: "State Department spokesman Ned Price clashed with a reporter during a press briefing at the White House on Monday. The tense exchange erupted as Price was boasting about the administration’s"
+    publishedDateTime: 2021-02-23T05:17:00Z
+    webUrl: "https://nypost.com/2021/02/23/state-dept-spokesman-clashes-with-reporter-after-touting-trump-era-policy/"
+    ampWebUrl: "https://nypost.com/2021/02/23/state-dept-spokesman-clashes-with-reporter-after-touting-trump-era-policy/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/23/state-dept-spokesman-clashes-with-reporter-after-touting-trump-era-policy/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 144
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/ned-price-1.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "High-profile ex-Trump aides eye political office in 2022"
     excerpt: "Former President Donald Trump is not on the ballot in next year’s elections, but some of his closest advisers and aides in the White House and on his 2020 reelection team are mulling bids of their own in what could be a test run of the clout of the Trump brand going forward."
     publishedDateTime: 2021-02-15T18:47:00Z

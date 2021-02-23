@@ -143,6 +143,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "LIVE UPDATES: Joe Biden pays tribute to lives lost during coronavirus pandemic"
+    excerpt: "Biden called the milestone \"truly grim\" and \"heartbreaking\" as he noted the pandemic has taken more American lives than WWI, WWII and the Vietnam War combined."
+    publishedDateTime: 2021-02-23T06:47:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dEMla_pteFQ/joe-biden-live-updates-2-23-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-live-updates-2-23-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-live-updates-2-23-2021.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d7ced93b-c81b-4394-8480-e81a931164a0/77057e73-6980-4956-8b97-6d92e03975c1/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Sen. Capito: Meeting with Biden, Senate Republicans on coronavirus relief was ‘productive’"
     excerpt: "Sen. Shelley Moore Capito said her two-hour meeting with President Biden and fellow Republican senators on coronavirus relief was “productive” and may lead to additional bipartisan discussions on other topics moving forward."
     publishedDateTime: 2021-02-02T16:03:10Z
