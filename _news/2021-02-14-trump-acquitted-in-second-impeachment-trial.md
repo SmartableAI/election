@@ -1315,6 +1315,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Emails Show Trump Backers Bashing Iowa AG Over Election Case"
+    excerpt: "A Republican lawmaker and a man later charged with participating in the Jan. 6 Capitol riot were among thousands of people who criticized Iowa’s attorney general for refusing to seek to overturn Donald Trump’s electoral defeat."
+    publishedDateTime: 2021-02-23T16:58:00Z
+    webUrl: "https://www.usnews.com/news/best-states/iowa/articles/2021-02-23/emails-show-trump-backers-bashing-iowa-ag-over-election-case"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 50
   - title: "With Republican Firewall, U.S. Senate Acquits Trump of Inciting Deadly Capitol Riot"
     excerpt: "Donald Trump's second impeachment trial could conclude on Saturday, leaving a divided U.S. Senate to decide whether the former president incited his supporters to attack the U.S. Capitol on Jan. 6 in a last-ditch effort to stay in power after his November election defeat."
     publishedDateTime: 2021-02-14T22:19:00Z

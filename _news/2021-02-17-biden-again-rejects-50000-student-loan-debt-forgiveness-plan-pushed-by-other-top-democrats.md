@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to travel to Houston on Friday in the wake of extreme weather and power outages"
+    excerpt: "President Joe Biden and first lady Jill Biden will travel to Houston on Friday as the state works to recover from major winter storms and power outages.\n    \n"
+    publishedDateTime: 2021-02-23T18:37:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/F4v-Wt-9Pbo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/23/politics/joe-biden-texas-houston-storm/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/23/politics/joe-biden-texas-houston-storm/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210223052228-texas-power-lines-021621-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Democrats and Biden prepare to unveil bill that would provide a pathway to citizenship for undocumented immigrants"
     excerpt: "The Biden administration, in concert with Hill Democrats, is preparing to unveil legislation this week that seeks to provide a pathway to citizenship to the 11 million undocumented immigrants living in the United States.\n    \n"
     publishedDateTime: 2021-02-16T22:40:14Z

@@ -48,6 +48,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Kristi Noem gets a Trump-hosted fundraiser at Mar-a-Lago"
+    excerpt: "As leading Republicans debate how closely to tie the party to former President Donald Trump, likely 2024 hopeful Kristi Noem has already picked a side. The South Dakota governor is greeting donors next week at Mar-a-Lago,"
+    publishedDateTime: 2021-02-23T17:56:00Z
+    webUrl: "https://www.politico.com/news/2021/02/23/kristi-noem-trump-fundraiser-471159"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/30/80/b6465b7347b1b05a4dff1a9706da/ap21040837673955.jpg"
+        width: 5616
+        height: 3742
+        isCached: true
 
 secured: "YsbGkAl1XN0tz9CkN4yxmxuiBKv8DyoEwiI6JqrLF2xy9iWS9hE4B6QNKEZ6/JVZBv0OJQJbYbyk1aE1QCw7iLkQl+qzf7/Qtl3nMjsvEWg18JMx/8QuyoKiRsXnbmxINoWtwbB0adIeJ0HzLkFH+eW4RDt/UmkpsSuHX6hDqwWMzhqssq/NN4b/yBnVqE+B21IfJ2QlFWbpmn/ddWLPDVQzfYLf640X0sYDJK/+lGdbzzom4VK2jjPuuEEuX88eZNUsfN0vo8PEsHwQD6qieL/2qh8ddQ/6t2ZAanLIW78QpDCfdkh96Yjqi9kW27poXVKX8ppaAWTyhglItxiXL/ExyEUmPandPmFxAhJ8+xg=;FRG0xgLP4LcTbyY6VG2lFA=="
 ---

@@ -365,6 +365,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "'It doesn't matter,' how Republicans felt about Trump, Scott says"
+    excerpt: "The two-page letter, first obtained by Fox News, is addressed to GOP voters, activists, leaders and donors. Scott, who is charged with winning back the Senate for Republicans in 2022, says in it that the GOP needs to put aside its internal squabbles and focus on beating Democrats,"
+    publishedDateTime: 2021-02-23T18:30:00Z
+    webUrl: "https://www.foxnews.com/politics/gop-civil-war-is-now-canceled-says-nrsc-chair-rick-scott-in-fiery-memo-asking-for-party-unity-ahead-of-2022"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 115
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2019/04/Rick-Scott-AP.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "3cWdLNJo0JvQFth/N2DvZawTk1EAsdE4U/6P49C77e/32jeZ0elarJOqHzyqtDHhwDpZJ8zRKZbLssVFCDw6ja1dt/xIGn/fEWB/A9NWukYoEsw3+KrGpBLYGeWKbhe28M1WjTnfttw3jqKjrJE1ClR1ACpho/Kw3VCby8WyXAQk1mrAXXniNv82ZOS0hF6ofK9y5G7BObOQWGc425gP11Afv8EvSkbpz+kYFMt3G1DuhVnpJq4J+LYd5dHwFLp6ssrI+iv8QodskyTkMI4bUdUHsTIkVTo0T8duJJa8dILqjDwvJxoAnPCVnuFqlbQy6/OPLJS6sEZdhylFGs1lYQGeUVOWXd/bkpmASYpZBJE=;K26LdypUNdRjoXqU7gVI0g=="
 ---

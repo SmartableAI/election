@@ -7,8 +7,8 @@ originalUrl: "https://www.businessinsider.com/biden-rejects-democratic-plan-stud
 webUrl: "https://www.businessinsider.com/biden-rejects-democratic-plan-student-loan-debt-2021-2"
 type: article
 quality: 99
-heat: -1
-published: false
+heat: 119
+published: true
 
 provider:
   name: Business Insider
@@ -29,70 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "Biden to declare major disaster in Texas as millions hit by water shortages"
-    excerpt: "President to travel to Texas ‘if I can do it without creating a burden for folks’ after winter storm disrupts water supplies following power outages"
-    publishedDateTime: 2021-02-19T20:19:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/feb/19/texas-safe-water-access-winter-storm"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/19/texas-safe-water-access-winter-storm"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/19/texas-safe-water-access-winter-storm"
+  - title: "In a Disorienting Return to Civility, Joe Biden’s DOJ Backs Up Betsy DeVos"
+    excerpt: "Joe Biden’s campaign message was all about restoring order to Washington, a return of professionalism to government and an embrace of D.C.’s norms."
+    publishedDateTime: 2021-02-13T04:46:00Z
+    webUrl: "https://time.com/5938872/in-a-disorienting-return-to-civility-joe-bidens-doj-backs-up-betsy-devos/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 123
-    images:
-      - url: "https://i.guim.co.uk/img/media/991a3bf3c58ddcf8119fd59c981d4115167e26ee/0_52_3000_1799/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=812dc92f6ce154b3a04bb6604a4f11fd"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Texas storm: Biden to declare major disaster to secure federal aid – as it happened"
-    excerpt: "Biden says declaration could be signed this afternoon and would open up aid for immediate and long-term recovery efforts – follow all the latest news"
-    publishedDateTime: 2021-02-20T01:23:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/19/texas-storm-latest-news-today-power-outages-ted-cruz-cancun-trip-backlash?page=with:block-60305f038f08c3cb92a5ce17"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/19/texas-storm-latest-news-today-power-outages-ted-cruz-cancun-trip-backlash"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/19/texas-storm-latest-news-today-power-outages-ted-cruz-cancun-trip-backlash"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 119
-    images:
-      - url: "https://i.guim.co.uk/img/media/86372474d992a6216b8c4c86e110fb68dda8bcd3/0_0_3000_1801/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2e7e8d27534d07dd3ac81b47cc714f57"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "President Joe Biden planning trip to storm-ravaged Texas, but 'I don't want to be a burden'"
-    excerpt: "President Joe Biden said \"I don’t want to be a burden\" and will go next week when a presidential visit won't get in the way of Texas recovery."
-    publishedDateTime: 2021-02-19T22:41:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/19/president-joe-biden-planning-trip-storm-ravaged-texas-next-week/4508040001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4508040001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4508040001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 115
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/02/19/USAT/f188392a-9a26-456a-82d7-f1fb619253ab-AP_Biden.JPG?auto=webp&crop=5999,3374,x0,y189&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "'Climate change is real': Biden administration says Texas power crisis shows U.S. unprepared for extreme weather"
-    excerpt: "President Joe Biden has approved federal emergency declarations for Texas, Oklahoma and is processing a request from Louisiana."
-    publishedDateTime: 2021-02-19T00:55:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/18/white-house-texas-outages-show-u-s-unprepared-climate-change/4493117001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4493117001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4493117001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 104
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/02/18/USAT/c2f51ce6-96e7-4bd4-bb82-6a1b9bc188e4-AP21047602785302.jpg?auto=webp&crop=3298,1856,x0,y115&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
+      name: Time
+      domain: time.com
+    quality: 83
 
 secured: "92Jmpzvs/oZAN2PKye26Xu4l1+4+pH2j4kYo1vQ7e1vf5bpo6Stw3gqwXgLoSPh8HLzUFvKi0orPEEgDyWvUq0rfdA2wH/aL3WwQPlG9G8HNvAQ6pgidOg9smEwy8Z3WX9eUFgp/VYR6qohlFs/wxS2vgH6sZM8kTX5BPuQDBhX5gSlDHQR4s/t9ls7i/TSlbasX09rRRM4mhnHpwQ8ddDsF8GSoJ/Axc8lSf+fqRANQSd3HADsPng0jJhAogc9zX6JlHdWqr1D1bYB8CAyalM031ixbFiC4kFrUcNEFs+7PRLdGu3m2k1+b/ZIuT5kLeHh3Gm7Bi4FfiI2HooWmTo/pMmGJk0r9xTwQ5zf4QyCyjtudFV2GygUpqXyAkdOF5IDP84SOSWsaLMz/79RqcVUT+zGYxJxgTUR+VTXCqLHx0B7wVFwFVaL7atp1tVSuji5kG5/dnIAkMCmQilXnV39WtJl3VstIScsHm5U3kCI6biadpslqWx7/vQDGssIFhfkijQRWUI7o7PdLoW8QEA==;xoTf7JwpbV5DycMWkc0zkQ=="
 ---

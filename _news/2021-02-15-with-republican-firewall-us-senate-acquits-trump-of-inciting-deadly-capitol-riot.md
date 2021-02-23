@@ -1325,6 +1325,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Emails Show Trump Backers Bashing Iowa AG Over Election Case"
+    excerpt: "A Republican lawmaker and a man later charged with participating in the Jan. 6 Capitol riot were among thousands of people who criticized Iowa’s attorney general for refusing to seek to overturn Donald Trump’s electoral defeat."
+    publishedDateTime: 2021-02-23T16:58:00Z
+    webUrl: "https://www.usnews.com/news/best-states/iowa/articles/2021-02-23/emails-show-trump-backers-bashing-iowa-ag-over-election-case"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 50
   - title: "Nevada Senators Vote to Convict Trump in Impeachment Trial"
     excerpt: "Former President Donald Trump’s second impeachment trial ended Saturday with an acquittal as both of Nevada’s two Democratic senators voted in a majority that fell short of the two-thirds needed for conviction."
     publishedDateTime: 2021-02-13T22:57:00Z

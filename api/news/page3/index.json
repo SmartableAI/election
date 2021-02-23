@@ -2,6 +2,115 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-20-trump-ally-nunes-sees-cnn-ukraine-lawsuit-thrown-out-by-new-york-judge.md",
+      "title": "Trump ally Nunes sees CNN Ukraine lawsuit thrown out by New York judge",
+      "excerpt": "California congressman sought $435m in damages over story that linked him to hunt for Biden dirt in Ukraine",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/feb/20/trump-nunes-cnn-ukraine-lawsuit-thrown-out-new-york-judge",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/feb/20/trump-nunes-cnn-ukraine-lawsuit-thrown-out-new-york-judge",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/5826a3ca181e521f7c7a46b6fb2ad9bc3a2637e3/0_200_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6736946fdcf4d2a9d1a580bf04f472cb",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/feb/20/trump-nunes-cnn-ukraine-lawsuit-thrown-out-new-york-judge",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/20/trump-nunes-cnn-ukraine-lawsuit-thrown-out-new-york-judge",
+      "publishedDateTime": "2021-02-20T03:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-20-democrats-beat-trump-in-2020-now-theyre-asking-what-went-wrong.md",
+      "title": "Democrats Beat Trump in 2020. Now They’re Asking: What Went Wrong?",
+      "excerpt": "Disappointed by down-ballot losses, Democratic interest groups are joining forces to conduct an autopsy of the election results. Republicans do not yet seem willing to reckon with the G.O.P.’s major defeats.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/02/20/us/politics/democrats-beat-trump-in-2020-now-theyre-asking-what-went-wrong.html",
+      "originalUrl": "https://www.nytimes.com/2021/02/20/us/politics/democrats-beat-trump-in-2020-now-theyre-asking-what-went-wrong.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/02/21/us/politics/21election-autopsies-print1/00election-autopsies1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/02/20/us/politics/democrats-beat-trump-in-2020-now-theyre-asking-what-went-wrong.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/20/us/politics/democrats-beat-trump-in-2020-now-theyre-asking-what-went-wrong.amp.html",
+      "publishedDateTime": "2021-02-20T02:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-20-gop-rep-lauren-boebert-calls-on-biden-to-lower-flags-in-honor-of-rush-limbaugh.md",
       "title": "GOP Rep. Lauren Boebert calls on Biden to lower flags in honor of Rush Limbaugh",
       "excerpt": "Rep. Lauren Boebert, R-Colo., called on President Biden on Friday night to order flags lowered to half-staff in honor the life of conservative radio legend Rush Limbaugh.",
@@ -126,7 +235,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 214,
+      "heat": 234,
       "tags": null,
       "images": [
         {
@@ -226,58 +335,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-20-biden-to-declare-major-disaster-in-texas-as-millions-hit-by-water-shortages.md",
-      "title": "Biden to declare major disaster in Texas as millions hit by water shortages",
-      "excerpt": "President to travel to Texas ‘if I can do it without creating a burden for folks’ after winter storm disrupts water supplies following power outages",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/feb/19/texas-safe-water-access-winter-storm",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/feb/19/texas-safe-water-access-winter-storm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 203,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/991a3bf3c58ddcf8119fd59c981d4115167e26ee/0_52_3000_1799/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=812dc92f6ce154b3a04bb6604a4f11fd",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/feb/19/texas-safe-water-access-winter-storm",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/19/texas-safe-water-access-winter-storm",
-      "publishedDateTime": "2021-02-19T12:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2021-02-19-biden-used-3-key-stats-to-make-a-point-except-they-werent-true.md",
       "title": "Biden used 3 key stats to make a point. Except they weren't true",
       "excerpt": "During President Joe Biden's CNN town hall, he made several false statistical claims. Here's what you need to know.\n    \n",
@@ -290,7 +347,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 315,
+      "heat": 335,
       "tags": null,
       "images": [
         {
@@ -342,7 +399,7 @@
       "originalUrl": "https://abcnews.go.com/Entertainment/wireStory/trump-repeats-election-claims-interviews-unchallenged-76002370",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1860,
+      "heat": 1880,
       "tags": null,
       "images": [
         {
@@ -366,58 +423,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-reince-priebus-former-chief-of-staff-to-donald-trump-mulling-run-for-wisconsin-governor-according-to-gop-strategist.md",
-      "title": "Reince Priebus, former chief of staff to Donald Trump, mulling run for Wisconsin governor, according to GOP strategist",
-      "excerpt": "Reince Priebus, a former White House chief of staff to Donald Trump, has called Republican donors and power brokers in Wisconsin to discuss a possible bid for governor.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/midwest/ct-aud-reince-priebus-wisconsin-governor-20210219-ai4c6wytbjejjmv4b45bzuvyta-story.html",
-      "originalUrl": "https://www.chicagotribune.com/midwest/ct-aud-reince-priebus-wisconsin-governor-20210219-ai4c6wytbjejjmv4b45bzuvyta-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/3RH0lVNQZpVMBio8n56dtId1QLA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/3LVREPFOC5HT4UQWO24KRZWNRA.aspx",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/midwest/ct-aud-reince-priebus-wisconsin-governor-20210219-ai4c6wytbjejjmv4b45bzuvyta-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/midwest/ct-aud-reince-priebus-wisconsin-governor-20210219-ai4c6wytbjejjmv4b45bzuvyta-story.html?outputType=amp",
-      "publishedDateTime": "2021-02-19T11:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -718,7 +723,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 187,
+      "heat": 207,
       "tags": null,
       "images": [
         {
@@ -815,58 +820,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-qanon-hardliners-are-doubling-down-on-theory-donald-trump-will-be-reinstated-on-march-4.md",
-      "title": "QAnon Hardliners Are Doubling Down on Theory Donald Trump Will Be Reinstated on March 4",
-      "excerpt": "There are fears of potential violence as QAnon supporters say Donald Trump will somehow be inaugurated on March 4.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/qanon-march4-trump-president-proud-boys-1570274",
-      "originalUrl": "https://www.newsweek.com/qanon-march4-trump-president-proud-boys-1570274",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1738534/qanon.jpg",
-          "width": 3000,
-          "height": 2001,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/qanon-march4-trump-president-proud-boys-1570274?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/qanon-march4-trump-president-proud-boys-1570274?amp=1",
-      "publishedDateTime": "2021-02-19T02:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -1211,7 +1164,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 605,
+      "heat": 625,
       "tags": null,
       "images": [
         {
@@ -1360,6 +1313,62 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-18-biden-white-houses-planned-200m-who-payment-slammed-by-republicans-their-credibility-has-been-tarnished.md",
+      "title": "Biden White House's planned $200M WHO payment slammed by Republicans: 'Their credibility has been tarnished'",
+      "excerpt": "Republicans hit the White House’s plan to shell out $200 million to the World Health Organization (WHO) by the end of the month, arguing the organization should first take steps to commit to greater transparency.  ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rm4CgY6c5zQ/republicans-slam-biden-white-house-who-payment",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rm4CgY6c5zQ/republicans-slam-biden-white-house-who-payment",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b509c58d-cd7c-4c3e-ad52-badc066167de/7a8a83b5-9b0c-4f02-973a-5c2dcebf170b/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/republicans-slam-biden-white-house-who-payment.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-slam-biden-white-house-who-payment.amp",
+      "publishedDateTime": "2021-02-18T11:16:20-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/22/joe-biden-coron
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates"
 type: article
 quality: 127
-heat: 1027
+heat: 1047
 published: true
 
 provider:
@@ -383,6 +383,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Biden to travel to Houston on Friday to survey winter storm recovery"
+    excerpt: "President Joe Biden will travel to Houston on Friday after millions of Texans were left without power last week."
+    publishedDateTime: 2021-02-23T18:04:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/23/president-joe-biden-travel-houston-following-texas-storm-crisis/4558197001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4558197001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4558197001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/05/NAAS/e032a8c3-5730-444c-93b7-0106d65be189-Brooks_column_2-8.jpg?auto=webp&crop=4513,2539,x0,y229&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Texas storm: Biden to declare major disaster to secure federal aid – live"
     excerpt: "Biden says declaration could be signed this afternoon and would open up aid for immediate and long-term recovery efforts – follow all the latest news"

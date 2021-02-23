@@ -64,6 +64,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Media running 'misinformation campaign' to support Biden's coronavirus response: Siegel"
+    excerpt: "Fox News medical contributor Dr. Marc Siegel ripped the media on Tuesday for running a \"misinformation campaign\" and holding President Joe Biden and Former President Donald Trump to different standard"
+    publishedDateTime: 2021-02-23T17:35:00Z
+    webUrl: "https://www.foxnews.com/media/siegel-misinformation-campaign-biden-trump-coronavirus-response"
+    ampWebUrl: "https://www.foxnews.com/media/siegel-misinformation-campaign-biden-trump-coronavirus-response.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/siegel-misinformation-campaign-biden-trump-coronavirus-response.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 127
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/695da98a-70c0-49e2-90b2-2a02274119b1/f381a748-d0a9-40b2-8d42-d34f00f7a9a6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "3CPyPO6qsi+QePhDjjeRdphVHq2Su1CBFzgj/ywibSn0s7J5hRuFUTJDCRDyKurY4rkb6BugkXVY5uCw1fHd01svzPSz/DcK9+JOoRhHOVmVUgY2RUwHoko/xglEXX34ht3Qpaa2sGEQmGF+K1/OXnpFbea+Ljrw10MYo2TVTb5sfX+ZYoF+l5cbKMGdeifaGy5YMzlFpynCidwhDkxX9LxikFgn7a9xySOI4WUhxzizqZ8iH7o8YBiMr9Xq//9Dl59mAqrf1kRN/rHpFpfBaFj3uQm1AA4q1kXtaJL6LLA25vK0djk7kypeHYAyFLKN09pXpXOh9Dm/LSC62suFtUsBvMsXyWWLjPQxzNAs7d0MJ1adSz3hXhF14p6b3yapl1O7pqWS2F6DiznIwhBH2Sx1sXSenXm9wb2p6HPkDRlciwtBaXxseg5tkSB5MzfeQThIv/UdNj+ez9RZF4PgS+oPvoN6hRYfhdp+qzN7Am4tpeRzltZt/7ps1k32GmqaK5MFmNup6lEmcZA3l/6bHw==;JyXnyiqB0BxBBKnqWp4YlQ=="
 ---

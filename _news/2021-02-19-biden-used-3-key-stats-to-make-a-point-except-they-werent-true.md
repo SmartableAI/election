@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/02/19/fact-check-minimu
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/02/19/fact-check-minimum-wage-immigration-china-joe-biden-orig-me.cnn"
 type: article
 quality: 175
-heat: 315
+heat: 335
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
     quality: 171
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210216213824-10-biden-town-hall-0216-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden to travel to Houston on Friday in the wake of extreme weather and power outages"
+    excerpt: "President Joe Biden and first lady Jill Biden will travel to Houston on Friday as the state works to recover from major winter storms and power outages.\n    \n"
+    publishedDateTime: 2021-02-23T18:37:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/F4v-Wt-9Pbo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/23/politics/joe-biden-texas-houston-storm/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/23/politics/joe-biden-texas-houston-storm/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210223052228-texas-power-lines-021621-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

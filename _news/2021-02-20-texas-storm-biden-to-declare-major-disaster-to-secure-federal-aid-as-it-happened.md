@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "UPDATE 1-Biden to travel to winter storm-battered Texas on Friday"
+    excerpt: "U.S. President Joe Biden and first lady Jill Biden will travel to Texas on Friday to visit a state that has been hit hard by a winter storm, leading to mass power outages and a disruption of water supplies,"
+    publishedDateTime: 2021-02-23T16:24:00Z
+    webUrl: "https://www.reuters.com/article/usa-weather-texas-biden-idINL1N2KT207"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINL1N2KT207"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINL1N2KT207"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210223&t=2&i=1552623143&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1M15F"
+        width: 813
+        height: 545
+        isCached: true
   - title: "Biden to declare major disaster in Texas as millions hit by water shortages"
     excerpt: "President to travel to Texas ‘if I can do it without creating a burden for folks’ after winter storm disrupts water supplies following power outages"
     publishedDateTime: 2021-02-19T20:19:00Z
@@ -46,6 +62,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/991a3bf3c58ddcf8119fd59c981d4115167e26ee/0_52_3000_1799/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=812dc92f6ce154b3a04bb6604a4f11fd"
         width: 600
         height: 360
+        isCached: true
+  - title: "Biden heads to Wisconsin, winter storms, Bill Gates book: 5 things you need to know Tuesday"
+    excerpt: "President Joe Biden travels to Wisconsin, another dose of severe weather is on the way and more news to start your Tuesday."
+    publishedDateTime: 2021-02-16T20:11:00Z
+    webUrl: "https://www.usatoday.com/story/news/2021/02/16/biden-wisconsin-bill-gates-australian-open-5-things-know-tuesday/6739364002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6739364002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6739364002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 115
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/16/USAT/2adc2519-40de-4844-be27-5755c7a8d7e5-AP_Winter_Weather_Missouri.jpg?auto=webp&crop=5329,2998,x0,y270&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "President Joe Biden planning trip to storm-ravaged Texas, but 'I don't want to be a burden'"
     excerpt: "President Joe Biden said \"I don’t want to be a burden\" and will go next week when a presidential visit won't get in the way of Texas recovery."
@@ -78,20 +110,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/02/18/USAT/c2f51ce6-96e7-4bd4-bb82-6a1b9bc188e4-AP21047602785302.jpg?auto=webp&crop=3298,1856,x0,y115&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Biden dismisses a Democratic plan to wipe out $50,000 in federal student-loan debt"
-    excerpt: "President Joe Biden supports $10,000 in loan forgiveness, far less than Sens. Elizabeth Warren and Chuck Schumer proposed earlier this year."
-    publishedDateTime: 2021-02-17T10:41:00Z
-    webUrl: "https://www.businessinsider.com/biden-rejects-democratic-plan-student-loan-debt-2021-2"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 99
-    images:
-      - url: "https://i.insider.com/602c8abf2edd0f001a8d60be?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
 
 secured: "mx4MnBF1NYWqsLeWqEKoUM1w0/wCfZjX/KQmGvjr9IYSMcbyoQQ2LGdDc0DSdxvCm38m+nwOIiD4iKix8fflV8g0CenAav5J/XXT2+0cWXBiw9hyYkX9n8eaGw2bKw+KvS2+FixSWtylJvbsTm9yoysDp3Q4niw58Jrr5WwboXEQZGjIUPvyREc2zsQnVTDmWADW+gIyS3bBi5pKpEBk8vTTNpf9xMdD/Litnt8RpJGB6qwD9u9IeED6sPJh40o2Y8vKUI5nh493CWwJ1bzz0Q5Z9jYkawaT1qD1x4WiDMGyeibJsfaMvD581HAHB0Ue9EKr4c+FqXZyYsA1Wzd2ASwFtTfXGayXAYXvyfVnxug=;N4DAcRdmHdd56i3ZFUhoGw=="

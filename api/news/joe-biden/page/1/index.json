@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-24-update-1-biden-to-travel-to-winter-storm-battered-texas-on-friday.md",
+      "title": "UPDATE 1-Biden to travel to winter storm-battered Texas on Friday",
+      "excerpt": "U.S. President Joe Biden and first lady Jill Biden will travel to Texas on Friday to visit a state that has been hit hard by a winter storm, leading to mass power outages and a disruption of water supplies,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/usa-weather-texas-biden-idINL1N2KT207",
+      "originalUrl": "https://www.reuters.com/article/usa-weather-texas-biden-idINL1N2KT207",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210223&t=2&i=1552623143&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1M15F",
+          "width": 813,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINL1N2KT207",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINL1N2KT207",
+      "publishedDateTime": "2021-02-23T08:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-02-23-fact-check-posts-falsely-claim-biden-gave-china-control-of-us-power-grid.md",
       "title": "Fact check: Posts falsely claim Biden gave China control of U.S. power grid",
       "excerpt": "No executive order signed by President Joe Biden gave China control of the U.S. power grid, and his order isn't linked to the Texas power outages.",
@@ -114,7 +166,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates?page=with:block-603385838f088c613adceff6",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1027,
+      "heat": 1047,
       "tags": null,
       "images": [
         {
@@ -248,58 +300,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-biden-to-declare-major-disaster-in-texas-as-millions-hit-by-water-shortages.md",
-      "title": "Biden to declare major disaster in Texas as millions hit by water shortages",
-      "excerpt": "President to travel to Texas ‘if I can do it without creating a burden for folks’ after winter storm disrupts water supplies following power outages",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/feb/19/texas-safe-water-access-winter-storm",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/feb/19/texas-safe-water-access-winter-storm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 203,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/991a3bf3c58ddcf8119fd59c981d4115167e26ee/0_52_3000_1799/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=812dc92f6ce154b3a04bb6604a4f11fd",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/feb/19/texas-safe-water-access-winter-storm",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/19/texas-safe-water-access-winter-storm",
-      "publishedDateTime": "2021-02-19T12:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -588,7 +588,7 @@
       "originalUrl": "https://www.reuters.com/article/us-iran-nuclear-usa/irans-khamenei-demands-action-from-biden-to-revive-nuclear-deal-idUSKBN2AH0UQ",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 245,
       "tags": null,
       "images": [
         {
@@ -632,21 +632,21 @@
       ]
     },
     {
-      "path": "_news/2021-02-17-biden-heads-to-wisconsin-winter-storms-bill-gates-book-5-things-you-need-to-know-tuesday.md",
-      "title": "Biden heads to Wisconsin, winter storms, Bill Gates book: 5 things you need to know Tuesday",
-      "excerpt": "President Joe Biden travels to Wisconsin, another dose of severe weather is on the way and more news to start your Tuesday.",
+      "path": "_news/2021-02-17-biden-dismisses-a-democratic-plan-to-wipe-out-50000-in-federal-student-loan-debt.md",
+      "title": "Biden dismisses a Democratic plan to wipe out $50,000 in federal student-loan debt",
+      "excerpt": "President Joe Biden supports $10,000 in loan forgiveness, far less than Sens. Elizabeth Warren and Chuck Schumer proposed earlier this year.",
       "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/2021/02/16/biden-wisconsin-bill-gates-australian-open-5-things-know-tuesday/6739364002/",
-      "originalUrl": "https://www.usatoday.com/story/news/2021/02/16/biden-wisconsin-bill-gates-australian-open-5-things-know-tuesday/6739364002/",
+      "webUrl": "https://www.businessinsider.com/biden-rejects-democratic-plan-student-loan-debt-2021-2",
+      "originalUrl": "https://www.businessinsider.com/biden-rejects-democratic-plan-student-loan-debt-2021-2",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 119,
       "tags": null,
       "images": [
         {
-          "url": "https://www.gannett-cdn.com/presto/2021/02/16/USAT/2adc2519-40de-4844-be27-5755c7a8d7e5-AP_Winter_Weather_Missouri.jpg?auto=webp&crop=5329,2998,x0,y270&format=pjpg&width=1200",
+          "url": "https://i.insider.com/602c8abf2edd0f001a8d60be?width=1200&format=jpeg",
           "width": 1200,
-          "height": 675,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -654,16 +654,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6739364002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6739364002",
-      "publishedDateTime": "2021-02-16T12:11:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-17T02:41:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1085,49 +1085,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-02-13-in-a-disorienting-return-to-civility-joe-bidens-doj-backs-up-betsy-devos.md",
-      "title": "In a Disorienting Return to Civility, Joe Biden’s DOJ Backs Up Betsy DeVos",
-      "excerpt": "Joe Biden’s campaign message was all about restoring order to Washington, a return of professionalism to government and an embrace of D.C.’s norms.",
-      "sourceUrl": null,
-      "webUrl": "https://time.com/5938872/in-a-disorienting-return-to-civility-joe-bidens-doj-backs-up-betsy-devos/",
-      "originalUrl": "https://time.com/5938872/in-a-disorienting-return-to-civility-joe-bidens-doj-backs-up-betsy-devos/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-12T20:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Time",
-        "domain": "time.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/time.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1576,6 +1533,58 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-biden-budget-nominee-absolutely-backs-us-minimum-wage-hike.md",
+      "title": "Biden budget nominee 'absolutely' backs U.S. minimum wage hike",
+      "excerpt": "Neera Tanden, Democratic President Joe Biden's nominee to head the U.S. Office of Management and Budget, told U.S. senators on Wednesday she would support raising the federal minimum wage, without giving a target for a higher rate.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-biden-omb-wages-idUSKBN2AA24G",
+      "originalUrl": "https://www.reuters.com/article/us-usa-biden-omb-wages-idUSKBN2AA24G",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210210&t=2&i=1551081094&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH191RR",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2AA24G",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AA24G",
+      "publishedDateTime": "2021-02-10T13:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     }
   ],

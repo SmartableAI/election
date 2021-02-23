@@ -1,28 +1,34 @@
 ---
 category: news
-title: "In Backing South Carolina GOP Chair, Trump Remains Active"
-excerpt: "South Carolina’s GOP chairman Drew McKissick tells The Associated Press that Donald Trump is backing him for a third term."
-publishedDateTime: 2021-02-23T11:13:00Z
-originalUrl: "https://www.usnews.com/news/politics/articles/2021-02-23/in-backing-south-carolina-gop-chair-trump-remains-active"
-webUrl: "https://www.usnews.com/news/politics/articles/2021-02-23/in-backing-south-carolina-gop-chair-trump-remains-active"
-ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-23/in-backing-south-carolina-gop-chair-trump-remains-active?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-23/in-backing-south-carolina-gop-chair-trump-remains-active?context=amp"
+title: "In backing South Carolina GOP chair, Trump remains active"
+excerpt: "South Carolina’s GOP chairman Drew McKissick tells The Associated Press that Donald Trump is backing him for a third term"
+publishedDateTime: 2021-02-23T11:06:00Z
+originalUrl: "https://www.washingtonpost.com/national/in-backing-south-carolina-gop-chair-trump-remains-active/2021/02/23/2b491a60-75c7-11eb-9489-8f7dacd51e75_story.html"
+webUrl: "https://www.washingtonpost.com/national/in-backing-south-carolina-gop-chair-trump-remains-active/2021/02/23/2b491a60-75c7-11eb-9489-8f7dacd51e75_story.html"
+ampWebUrl: "https://www.washingtonpost.com/national/in-backing-south-carolina-gop-chair-trump-remains-active/2021/02/23/2b491a60-75c7-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/in-backing-south-carolina-gop-chair-trump-remains-active/2021/02/23/2b491a60-75c7-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
 type: article
-quality: 55
-heat: -1
-published: false
+quality: 125
+heat: 225
+published: true
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
+    isCached: true
 
 related:
   - title: "QAnon Hardliners Are Doubling Down on Theory Donald Trump Will Be Reinstated on March 4"
@@ -41,7 +47,69 @@ related:
         width: 3000
         height: 2001
         isCached: true
+  - title: "Donald Trump Jr. uses a wall of guns as backdrop to launch video attack against teaching unions"
+    excerpt: "Donald Trump Jr. stood in front of a wall of guns while declaring teachers \"out of control\" in the clip shared on a Canadian video site."
+    publishedDateTime: 2021-02-22T15:16:00Z
+    webUrl: "https://www.businessinsider.com/donald-trump-jr-video-teachers-backdrop-of-guns-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/donald-trump-jr-video-teachers-backdrop-of-guns-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-jr-video-teachers-backdrop-of-guns-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 113
+    images:
+      - url: "https://i.insider.com/6033ba7e623bd30012bcc805?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump plans to use his CPAC speech as a 'show of force' to exert control over the GOP, report says"
+    excerpt: "Trump plans to use his first post-presidency public speech to show what power he still has over the Republican Party, Axios reported."
+    publishedDateTime: 2021-02-22T13:36:00Z
+    webUrl: "https://www.businessinsider.com/trump-cpac-speech-plans-show-of-force-over-gop-axios-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/trump-cpac-speech-plans-show-of-force-over-gop-axios-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-cpac-speech-plans-show-of-force-over-gop-axios-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
+    images:
+      - url: "https://i.insider.com/60339663bed5c50011a2bc53?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Reince Priebus, former chief of staff to Donald Trump, mulling run for Wisconsin governor, according to GOP strategist"
+    excerpt: "Reince Priebus, a former White House chief of staff to Donald Trump, has called Republican donors and power brokers in Wisconsin to discuss a possible bid for governor."
+    publishedDateTime: 2021-02-19T19:00:00Z
+    webUrl: "https://www.chicagotribune.com/midwest/ct-aud-reince-priebus-wisconsin-governor-20210219-ai4c6wytbjejjmv4b45bzuvyta-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/midwest/ct-aud-reince-priebus-wisconsin-governor-20210219-ai4c6wytbjejjmv4b45bzuvyta-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/midwest/ct-aud-reince-priebus-wisconsin-governor-20210219-ai4c6wytbjejjmv4b45bzuvyta-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 101
+    images:
+      - url: "https://www.chicagotribune.com/resizer/3RH0lVNQZpVMBio8n56dtId1QLA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/3LVREPFOC5HT4UQWO24KRZWNRA.aspx"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "The GOP's first 2024 cattle call is almost here. By the looks of the CPAC speaking roster, it's gearing up to be a very Trump-friendly affair."
+    excerpt: "This year's flagship conservative event is also notable for who is not showing up. Establishment GOP leaders like Mitch McConnell, Kevin McCarthy and Mike Pence are so far not listed as speakers."
+    publishedDateTime: 2021-02-17T10:02:00Z
+    webUrl: "https://www.businessinsider.com/cpac-2021-speakers-trump-pence-orlando-republican-conservative-2021-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+    images:
+      - url: "https://i.insider.com/602c67945847630018323658?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
-secured: "FTreFqB2I8O7zJOmlGWuqi+0KZHWnl0T5raoS5Xa6kuew0zkGug99uXtJWdVuYfeRvXW31Fpaxqagd7dIi+fSxzZpjS63U4G3mvscWVX4pBh4W1xS7u3NdjAfMQcC1sPnPzqbwyJKpYAYJ3o2/+IrfGbC7Oi8AqJh6dLsngKy/e/b/Tid9y+c7G/pDL4MBAuHT+W3dAT7VrXnATAYgvX6Nu6U6xKbpgca4cleSpbNkSQMAogLgaRuL1656LTN5lmWTE4Yp8KuSuaiTeRv1H37Ivl3Ll7tN2CC+oscTFOh03rjBslpdWRYmwz55AObEnJ8XsVIbUT+FcJyxxFGehQqL6HhtFbeDHRTdVEweQ0pygEUYzRjRJpe3GGcjJ+BCqx9HKj0vpUkwp5zmFtps9SpIpGZHhvjtMlIUcw93NUvhL3AkRad1xscce5lEKoKYv/MWE+xYA6ABB8+4h0hqHjC+j7Zpkcpz9fAte9shqkGROMnJItm2+bpTxIcabnVQED6j8LMRv3cq0riAOMgJBbcw==;NwL1bdiT1Txhwfs/aZjnLg=="
+secured: "/G1lAb3tTtgrDKeuK/96HKhV9/It/e/m9zq/EN4nVB4jYAW2yRuYlFQGBd1scOKfSKyaKo6H3nFqLOFn/Miqew5RGN5cAyIZBxSucpgpQ6j6GSt7XoVDx39HtPUSuHcK6xAGM5xp6xfOlDiCXVBHc4a66/q/Hc3/R9DMECyL73aPzMQ3y+E1efE/JVXQ/pYQuntBd+iEgN8fSJ8HtF29YWdxkMIT/UqhSeaWnwJe0c5TLeTch+zODg0GwFukV/YV6FwRC2mbTPSEciHTdzYRRb3kECG+093AjBloL090rOyv3FBOUj2O9g9ETah27U5uUVhVd49VgYIx8hy7JyFEi0Ju2yDgz1jqHk+x1qhi/L0=;Lh15zPN1tXO2umVHJZGpEw=="
 ---
 

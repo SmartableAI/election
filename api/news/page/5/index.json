@@ -2,63 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2021-02-17-kamala-harris-pressed-on-school-reopenings-says-teachers-should-be-a-priority-in-receiving-covid-vacccine.md",
-      "title": "Kamala Harris pressed on school reopenings, says teachers 'should be a priority' in receiving COVID vacccine",
-      "excerpt": "Vice President Kamala Harris said the Biden administration believes teachers \"should be a priority\" in receiving the coronavirus vaccine as parents and educators clash over whether it is safe for teachers to return to the classroom without inoculations against COVID-19.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7uVaVOHoVtc/kamala-harris-teachers-priority-coronavirus-vaccines",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7uVaVOHoVtc/kamala-harris-teachers-priority-coronavirus-vaccines",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-teachers-priority-coronavirus-vaccines.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-teachers-priority-coronavirus-vaccines.amp",
-      "publishedDateTime": "2021-02-17T06:08:31-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
       "path": "_news/2021-02-17-explainer-what-is-the-ku-klux-klan-act-cited-in-lawsuit-against-trump.md",
       "title": "Explainer: What is the Ku Klux Klan Act cited in lawsuit against Trump ",
       "excerpt": "The Democratic chairman of the House Homeland Security Committee has filed a lawsuit against former President Donald Trump that cites a little-known federal statute that was first passed after the Civil War.\n    \n",
@@ -112,6 +55,58 @@
       "topics": [
         "Election",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-17-biden-dismisses-a-democratic-plan-to-wipe-out-50000-in-federal-student-loan-debt.md",
+      "title": "Biden dismisses a Democratic plan to wipe out $50,000 in federal student-loan debt",
+      "excerpt": "President Joe Biden supports $10,000 in loan forgiveness, far less than Sens. Elizabeth Warren and Chuck Schumer proposed earlier this year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/biden-rejects-democratic-plan-student-loan-debt-2021-2",
+      "originalUrl": "https://www.businessinsider.com/biden-rejects-democratic-plan-student-loan-debt-2021-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/602c8abf2edd0f001a8d60be?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-17T02:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     },
     {
@@ -667,58 +662,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-biden-heads-to-wisconsin-winter-storms-bill-gates-book-5-things-you-need-to-know-tuesday.md",
-      "title": "Biden heads to Wisconsin, winter storms, Bill Gates book: 5 things you need to know Tuesday",
-      "excerpt": "President Joe Biden travels to Wisconsin, another dose of severe weather is on the way and more news to start your Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/2021/02/16/biden-wisconsin-bill-gates-australian-open-5-things-know-tuesday/6739364002/",
-      "originalUrl": "https://www.usatoday.com/story/news/2021/02/16/biden-wisconsin-bill-gates-australian-open-5-things-know-tuesday/6739364002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/02/16/USAT/2adc2519-40de-4844-be27-5755c7a8d7e5-AP_Winter_Weather_Missouri.jpg?auto=webp&crop=5329,2998,x0,y270&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6739364002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6739364002",
-      "publishedDateTime": "2021-02-16T12:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     },
     {
@@ -1362,6 +1305,62 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-02-15-trump-drives-past-jubilant-supporters-at-impromptu-rally-in-florida.md",
+      "title": "Trump drives past jubilant supporters at impromptu rally in Florida",
+      "excerpt": "Former President Trump marked President’s Day by waiving to a throng of supporters gathered near his south Florida residence.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NtN08aCAz_o/trump-drives-past-jubilant-supporters-at-impromptu-rally-in-florida",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NtN08aCAz_o/trump-drives-past-jubilant-supporters-at-impromptu-rally-in-florida",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-drives-past-jubilant-supporters-at-impromptu-rally-in-florida.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-drives-past-jubilant-supporters-at-impromptu-rally-in-florida.amp",
+      "publishedDateTime": "2021-02-15T14:24:49-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
       ]
     }
   ],

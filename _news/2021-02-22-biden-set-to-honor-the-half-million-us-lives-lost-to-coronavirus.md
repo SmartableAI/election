@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to travel to Houston on Friday in the wake of extreme weather and power outages"
+    excerpt: "President Joe Biden and first lady Jill Biden will travel to Houston on Friday as the state works to recover from major winter storms and power outages.\n    \n"
+    publishedDateTime: 2021-02-23T18:37:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/F4v-Wt-9Pbo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/23/politics/joe-biden-texas-houston-storm/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/23/politics/joe-biden-texas-houston-storm/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210223052228-texas-power-lines-021621-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden again rejects $50,000 student loan debt forgiveness plan pushed by other top Democrats"
     excerpt: "President Joe Biden made it clear during Tuesday night's CNN town hall that he disagrees with other members of his party who want to cancel $50,000 of student debt per borrower.\n    \n"
     publishedDateTime: 2021-02-17T05:04:58Z

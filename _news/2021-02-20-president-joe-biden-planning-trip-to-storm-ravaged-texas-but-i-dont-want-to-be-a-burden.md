@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "UPDATE 1-Biden to travel to winter storm-battered Texas on Friday"
+    excerpt: "U.S. President Joe Biden and first lady Jill Biden will travel to Texas on Friday to visit a state that has been hit hard by a winter storm, leading to mass power outages and a disruption of water supplies,"
+    publishedDateTime: 2021-02-23T16:24:00Z
+    webUrl: "https://www.reuters.com/article/usa-weather-texas-biden-idINL1N2KT207"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINL1N2KT207"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINL1N2KT207"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210223&t=2&i=1552623143&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1M15F"
+        width: 813
+        height: 545
+        isCached: true
   - title: "Biden to declare major disaster in Texas as millions hit by water shortages"
     excerpt: "President to travel to Texas ‘if I can do it without creating a burden for folks’ after winter storm disrupts water supplies following power outages"
     publishedDateTime: 2021-02-19T20:19:00Z
@@ -63,6 +79,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden heads to Wisconsin, winter storms, Bill Gates book: 5 things you need to know Tuesday"
+    excerpt: "President Joe Biden travels to Wisconsin, another dose of severe weather is on the way and more news to start your Tuesday."
+    publishedDateTime: 2021-02-16T20:11:00Z
+    webUrl: "https://www.usatoday.com/story/news/2021/02/16/biden-wisconsin-bill-gates-australian-open-5-things-know-tuesday/6739364002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6739364002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6739364002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 115
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/16/USAT/2adc2519-40de-4844-be27-5755c7a8d7e5-AP_Winter_Weather_Missouri.jpg?auto=webp&crop=5329,2998,x0,y270&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "'Climate change is real': Biden administration says Texas power crisis shows U.S. unprepared for extreme weather"
     excerpt: "President Joe Biden has approved federal emergency declarations for Texas, Oklahoma and is processing a request from Louisiana."
     publishedDateTime: 2021-02-19T00:55:00Z
@@ -78,20 +110,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/02/18/USAT/c2f51ce6-96e7-4bd4-bb82-6a1b9bc188e4-AP21047602785302.jpg?auto=webp&crop=3298,1856,x0,y115&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Biden dismisses a Democratic plan to wipe out $50,000 in federal student-loan debt"
-    excerpt: "President Joe Biden supports $10,000 in loan forgiveness, far less than Sens. Elizabeth Warren and Chuck Schumer proposed earlier this year."
-    publishedDateTime: 2021-02-17T10:41:00Z
-    webUrl: "https://www.businessinsider.com/biden-rejects-democratic-plan-student-loan-debt-2021-2"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 99
-    images:
-      - url: "https://i.insider.com/602c8abf2edd0f001a8d60be?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
 
 secured: "7ygjl5xeY81+JMfo2WoGnlz6HOJ1Mv/l9B0KAhIUrImXKTM4sRYjw4GLWZ3GrG0hQ52XuUQrJtQ7Ma7GsvhKN2Wfv2O6YoFkt0JH46sqzYnZty3Oz5phnujfRsNngxE/KJeBeLnI0JloVrjOHCAgHdWix3X3O2qte22WHm2QUUgTyJpostIr2G40pYPZc5RcebqgW9adJwsH4760SODvY+1aNnuuH3MH2RXKK6N01SZenNMJcutrjbzPi8BSky3hi2Qpq+oRGvrT9sWMJgBNwXoHtPkQvCAlpBVZCQ1EKHCttbVV1je+4mrBC93crVU7lXw218Vchs6bsXTfpPX3/z/Fg/ms8xZEr7wBA7ZvRceA/UaEpHYn2uNHyWEOrq5N1SOLP8u7jQkVYjz/qmlT480XbeAqe1Chfcyp69EeIgYx0Pg3Mabd8gHskOoWlcbv5+48rctihVge/D7xqPS1DT3R8WmgWAzCx2KS7AgPQgxyvlA3bEvoqvbkSZnYl2Kcaf7gaF2eNb2EuH+lWijyXw==;6BVHuqCeTUmzh6n/uk42ug=="
