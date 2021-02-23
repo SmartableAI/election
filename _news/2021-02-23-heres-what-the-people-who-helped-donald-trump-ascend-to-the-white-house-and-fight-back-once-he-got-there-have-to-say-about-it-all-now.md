@@ -1,28 +1,32 @@
 ---
 category: news
-title: "U.S. Conservative Radio Provocateur and Trump Ally Rush Limbaugh Dies"
-excerpt: "Provocative and polarizing U.S. talk radio luminary Rush Limbaugh, a leading voice on the American political right since the 1980s who boosted, and was honored by, former President Donald Trump, has died at age 70 after suffering from lung cancer,"
-publishedDateTime: 2021-02-18T02:25:00Z
-originalUrl: "https://www.usnews.com/news/top-news/articles/2021-02-17/us-conservative-radio-host-rush-limbaugh-has-died-fox-news"
-webUrl: "https://www.usnews.com/news/top-news/articles/2021-02-17/us-conservative-radio-host-rush-limbaugh-has-died-fox-news"
-ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-02-17/us-conservative-radio-host-rush-limbaugh-has-died-fox-news?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-02-17/us-conservative-radio-host-rush-limbaugh-has-died-fox-news?context=amp"
+title: "Here's what the people who helped Donald Trump ascend to the White House — and fight back once he got there — have to say about it all now"
+excerpt: "Joseph DePaolo, Mike Offit, and Forbes all sought to distance themselves from Trump, while Michael Cohen called him an \"out-of-control monster.\""
+publishedDateTime: 2021-02-23T09:02:00Z
+originalUrl: "https://www.businessinsider.com/what-the-people-who-enabled-trump-say-now-2021-2"
+webUrl: "https://www.businessinsider.com/what-the-people-who-enabled-trump-say-now-2021-2"
 type: article
-quality: 55
+quality: 71
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://i.insider.com/6030799a623bd30012bcc5ea?width=1200&format=jpeg"
+    width: 1200
+    height: 600
+    isCached: true
 
 related:
   - title: "Rush Limbaugh created the politics that Trump used to win the White House"
@@ -57,21 +61,18 @@ related:
         width: 1200
         height: 678
         isCached: true
-  - title: "Here's what the people who helped Donald Trump ascend to the White House — and fight back once he got there — have to say about it all now"
-    excerpt: "Joseph DePaolo, Mike Offit, and Forbes all sought to distance themselves from Trump, while Michael Cohen called him an \"out-of-control monster.\""
-    publishedDateTime: 2021-02-23T09:02:00Z
-    webUrl: "https://www.businessinsider.com/what-the-people-who-enabled-trump-say-now-2021-2"
+  - title: "U.S. Conservative Radio Provocateur and Trump Ally Rush Limbaugh Dies"
+    excerpt: "Provocative and polarizing U.S. talk radio luminary Rush Limbaugh, a leading voice on the American political right since the 1980s who boosted, and was honored by, former President Donald Trump, has died at age 70 after suffering from lung cancer,"
+    publishedDateTime: 2021-02-18T02:25:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-02-17/us-conservative-radio-host-rush-limbaugh-has-died-fox-news"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-02-17/us-conservative-radio-host-rush-limbaugh-has-died-fox-news?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-02-17/us-conservative-radio-host-rush-limbaugh-has-died-fox-news?context=amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 71
-    images:
-      - url: "https://i.insider.com/6030799a623bd30012bcc5ea?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
-secured: "4jjezVJqn0DoDiybWAxZhlY3pO3GcrXKDUwS7BiTzoGpnoxA9ejZyHKW8wtY8O3dyPDyxHqL7jVZ+4GcvAIcD6430tQUOG4uIkM5D2jRrC8fub+3n4MFjclAE/N8wlTdz+xWCuu8hdXEPj/W4ME7uECuboPHVXukEVJcGIsDbOaEsrkfFs7bC4HghXNGgB5VqKNBBlAUcE5nQcrWKJvhSLYGm8L8MUvtgsVFEwEd/WotllMzEW1Wzpb8Sb+rYEjjpyTSCNOwMMBhqsNXSxLCMwSzwadfOeUNp4h+ZTSntNHUmthNEWIl2De1VL79Cuaw2Uw85gBH4hV9YMREeVBJ0+rZDqqu04N3vOTKJDfScIIbYSzd+8nTWcB5qoOp207yRuJ97BfnoMqkAFgr551eo+K1Q3FdCD3ZtZcTf43OvjdxorM/yu/SCaPpGMm01j4A8MjCpQcjeVCiFHka4NVUQJiVzg3CbvayBVkqborc2hig9plxYpEhJ7A4pdbV+4KuJ4JOf63AUwEUeiALBPEQWw==;yos23Tw1XyGCV6tWfldIvQ=="
+secured: "zcyOm+4FhnGCau2+kxu5BT0AOstCOmpqA09smGKAb/t/za700JR8mg6fRqK67CWWV1/NRD9zd8cas6supkses5j+F2ahypB3gJE/Pj1+S//95SAU4GbDMjd72UhzJVMPF0drVdkXsSxdIS2E9hhi1bLlQyNTcqoIC+79irvgx5zk0ykc/ilhpHWDy0pBMaOgdCesHrt2l5nexTwSyYdaDEhb2HO+9+ObGJimu2DifSRf4blyOK/1uwFGIGutMSitoQPtCo0ZdglQZEjsajA6xydQ3/HY86HiwFZjqXXJCt1uq07Qx6bDK39YT3Xwa+Sg/+Ci6Cf1xL+kPS2H/94O0kqj3ODIgOFJJR2sJsuup/U=;SFB4P8jK9U7tKT0itIu0rw=="
 ---
 

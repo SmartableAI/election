@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "One Question for Manhattan D.A. Candidates: Will You Prosecute Trump?"
+    excerpt: "The investigation into Donald J. Trump has been the focus of enormous attention, but candidates have mostly avoided talking about the case."
+    publishedDateTime: 2021-02-23T10:05:00Z
+    webUrl: "https://www.nytimes.com/2021/02/23/nyregion/manhattan-district-attorney-trump-investigation.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/23/nyregion/manhattan-district-attorney-trump-investigation.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/23/nyregion/manhattan-district-attorney-trump-investigation.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/19/nyregion/00trumpda1/00trumpda1-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
 
 secured: "5c33siQshz4mukXEbxNUfEfH1bi8ud5bcfzYZ1yJd6gBqM2fknPAs7i+FITP0tzbnO97JKMZ31CdNtjyAHh0qgO1TuuONIz+staJ0ymratNfvzosI54Kxp+bvcLsdsvI/cAlJQ1OEFUdkEBlUaW8ai1v7zUBnBs2VqgqfRRL8bDOWsYcokGVfms5mzw7Vu4fLwJ8kWakczRhZjRcKKFIuf8LeaTtvqZThBrmvZb/MYxc22zUtw6o/NZjB/X82iyADs3OhAImhiUl36Zq7yxglL33FEwc+YIV6MaWb3AQPku90v1uUACRNopj2xE4HNAXPvdz8j61ZL2krS+6nzf13TX46Pp8SXj9sPQSvELfZpY=;dWdjy47fEbOahtWJUkIqSA=="
 ---

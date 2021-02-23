@@ -47,6 +47,20 @@ related:
         width: 1440
         height: 991
         isCached: true
+  - title: "Here's what the people who helped Donald Trump ascend to the White House — and fight back once he got there — have to say about it all now"
+    excerpt: "Joseph DePaolo, Mike Offit, and Forbes all sought to distance themselves from Trump, while Michael Cohen called him an \"out-of-control monster.\""
+    publishedDateTime: 2021-02-23T09:02:00Z
+    webUrl: "https://www.businessinsider.com/what-the-people-who-enabled-trump-say-now-2021-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 71
+    images:
+      - url: "https://i.insider.com/6030799a623bd30012bcc5ea?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "U.S. Conservative Radio Provocateur and Trump Ally Rush Limbaugh Dies"
     excerpt: "Provocative and polarizing U.S. talk radio luminary Rush Limbaugh, a leading voice on the American political right since the 1980s who boosted, and was honored by, former President Donald Trump, has died at age 70 after suffering from lung cancer,"
     publishedDateTime: 2021-02-18T02:25:00Z

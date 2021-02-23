@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2021/02/17/rush-limbaugh-cre
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/02/17/rush-limbaugh-created-politics-that-trump-used-win-white-house/?outputType=amp"
 type: article
 quality: 124
-heat: 164
+heat: 184
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://www.gannett-cdn.com/-mm-/f2f98dd2e1eb6d62b1e3711a8d1fd2dc0e79c882/c=0-0-2924-1652/local/-/media/2017/09/13/USATODAY/USATODAY/636409176515272786-B02-RUSH-LIMBAUGH-93562293.JPG?auto=webp&format=pjpg&width=1200"
         width: 1200
         height: 678
+        isCached: true
+  - title: "Here's what the people who helped Donald Trump ascend to the White House — and fight back once he got there — have to say about it all now"
+    excerpt: "Joseph DePaolo, Mike Offit, and Forbes all sought to distance themselves from Trump, while Michael Cohen called him an \"out-of-control monster.\""
+    publishedDateTime: 2021-02-23T09:02:00Z
+    webUrl: "https://www.businessinsider.com/what-the-people-who-enabled-trump-say-now-2021-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 71
+    images:
+      - url: "https://i.insider.com/6030799a623bd30012bcc5ea?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "U.S. Conservative Radio Provocateur and Trump Ally Rush Limbaugh Dies"
     excerpt: "Provocative and polarizing U.S. talk radio luminary Rush Limbaugh, a leading voice on the American political right since the 1980s who boosted, and was honored by, former President Donald Trump, has died at age 70 after suffering from lung cancer,"

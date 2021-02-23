@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Mitch McConnell Attacks COVID Stimulus Joe Biden Hoped Would Be Bipartisan"
-excerpt: "McConnell tweeted about the $1.9 trillion package in what could be seen as a blow to efforts to win bipartisan support. President Joe Biden had previously expressed a hope that Republicans would come on board."
-publishedDateTime: 2021-02-23T08:36:00Z
-originalUrl: "https://www.newsweek.com/mitch-mcconnell-attacks-covid-stimulus-joe-biden-hoped-would-bipartisan-1571208"
-webUrl: "https://www.newsweek.com/mitch-mcconnell-attacks-covid-stimulus-joe-biden-hoped-would-bipartisan-1571208"
-ampWebUrl: "https://www.newsweek.com/mitch-mcconnell-attacks-covid-stimulus-joe-biden-hoped-would-bipartisan-1571208?amp=1"
-cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mitch-mcconnell-attacks-covid-stimulus-joe-biden-hoped-would-bipartisan-1571208?amp=1"
+title: "Biden honors covid-19 victims amid staggering toll, signs of hope"
+excerpt: "As the U.S. death toll from the coronavirus hits 500,000, some trends hint at a better road ahead. But as the president holds a solemn memorial, the White House is wary of touting good news prematurely."
+publishedDateTime: 2021-02-23T03:43:00Z
+originalUrl: "https://www.washingtonpost.com/politics/biden-covid-deaths/2021/02/22/911952b0-7527-11eb-8115-9ad5e9c02117_story.html"
+webUrl: "https://www.washingtonpost.com/politics/biden-covid-deaths/2021/02/22/911952b0-7527-11eb-8115-9ad5e9c02117_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/biden-covid-deaths/2021/02/22/911952b0-7527-11eb-8115-9ad5e9c02117_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-covid-deaths/2021/02/22/911952b0-7527-11eb-8115-9ad5e9c02117_story.html?outputType=amp"
 type: article
-quality: 123
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Newsweek
-  domain: newsweek.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://d.newsweek.com/en/full/1740446/senate-minority-leader-mitch-mcconnell.jpg"
-    width: 1970
-    height: 1260
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VMJGYMTVNEI6XFEJR562ZVI6OU.jpg&w=1440"
+    width: 1440
+    height: 960
     isCached: true
 
 related:
@@ -351,22 +351,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Biden honors covid-19 victims amid staggering toll, signs of hope"
-    excerpt: "As the U.S. death toll from the coronavirus hits 500,000, some trends hint at a better road ahead. But as the president holds a solemn memorial, the White House is wary of touting good news prematurely."
-    publishedDateTime: 2021-02-23T03:43:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-covid-deaths/2021/02/22/911952b0-7527-11eb-8115-9ad5e9c02117_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-covid-deaths/2021/02/22/911952b0-7527-11eb-8115-9ad5e9c02117_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-covid-deaths/2021/02/22/911952b0-7527-11eb-8115-9ad5e9c02117_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VMJGYMTVNEI6XFEJR562ZVI6OU.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Joe Biden to hold memorial as US nears 500,000 Covid deaths"
     excerpt: "Where Donald Trump suggested the death toll might reach 60,000 now experts fear it could rival those lost to the 1918 flu pandemic"
     publishedDateTime: 2021-02-22T22:05:00Z
@@ -430,6 +414,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210223&t=2&i=1552519951&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1M02K"
         width: 823
         height: 545
+        isCached: true
+  - title: "Mitch McConnell Attacks COVID Stimulus Joe Biden Hoped Would Be Bipartisan"
+    excerpt: "McConnell tweeted about the $1.9 trillion package in what could be seen as a blow to efforts to win bipartisan support. President Joe Biden had previously expressed a hope that Republicans would come on board."
+    publishedDateTime: 2021-02-23T08:36:00Z
+    webUrl: "https://www.newsweek.com/mitch-mcconnell-attacks-covid-stimulus-joe-biden-hoped-would-bipartisan-1571208"
+    ampWebUrl: "https://www.newsweek.com/mitch-mcconnell-attacks-covid-stimulus-joe-biden-hoped-would-bipartisan-1571208?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mitch-mcconnell-attacks-covid-stimulus-joe-biden-hoped-would-bipartisan-1571208?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 123
+    images:
+      - url: "https://d.newsweek.com/en/full/1740446/senate-minority-leader-mitch-mcconnell.jpg"
+        width: 1970
+        height: 1260
         isCached: true
   - title: "UPDATE 1-Biden pushes for pandemic relief in first official trip as president"
     excerpt: "President Joe Biden vowed during a prime-time televised town hall on Tuesday to accelerate the country's vaccination program and said teachers should be moved closer to the front of the line for inoculations to allow more schools to reopen."
@@ -695,6 +695,6 @@ related:
       domain: reuters.com
     quality: 105
 
-secured: "xJeeT21j4vcG2GGML39YQxdpnnj2mhC1bpcY6j0+dogSe9NzlR2ffzRAhQUMEg+t2QwVaWWYtcPIIUcJRTpP8hghWBkvcdKF4ncGSIOkzppOxlaRAuMydJ+il9CcuFnnnhyU0J8TdMVrz80tiq3cHhMnyLi0xBN7pzk1YQO2Nbzc3slS+G9vZp144F8FQny07C2JPPNTrhgb4n7WIGG1ugaEcgzbR5AtVvRL9ISTMA2z1Bwu/xuLS5fZ76t20hHV1yb1t4/aMnHHwXeKBVUZAXXn+uiNCYO7KyhYM8dJiBbdFjaDeqLRkhpXRTLMN7uJoD+l7mpohpuBH6ZOV2sdxWt03rN7HLOnECOOBiP80JU=;Htnt236fcsHj2imeFK9AUw=="
+secured: "Ie+3yPl5qo3r3mOyVHUI4Vydjp1LS9yrSjE9+TxC7K0toHciXz6pXmjjuWK4FPXymbg30LVXbLEOHYkd/EW/pyRO0LHaQwFJUYAqUd6LU8GOaoHN+qXVnSWXhU/olaAkNF1HU9QiHZdVDBMePX7NYlYpr/J8zIW1JLiC/uJbdHFBCx/4FCzBFtI+6DZJqRiJ/BqBxR6hfV6gTBKxAJp/vKxAJxkX+vcrEHVKktn6NmMSpIQNi4dok4BS3TGzh2p0+3JAjOzEeAYzY/fFE7aEXgtD9JHFEes4Fwe+2KNrxTGvvSWdkwDCFRuXROLlV3kTy1y2aGu+hBzw+9Mb5w70vkc6Zsx0WzJuOFnTCx14h5A=;UGesxz4DvKyBfzcaY1qJSQ=="
 ---
 

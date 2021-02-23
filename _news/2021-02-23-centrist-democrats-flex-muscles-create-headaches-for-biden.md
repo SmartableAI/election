@@ -1,34 +1,28 @@
 ---
 category: news
 title: "Centrist Democrats flex muscles, create headaches for Biden"
-excerpt: "Moderate Democrats are demonstrating significant political clout in President Joe Biden’s Washington, thanks to a 50-50 split in the Senate that leaves little room for error on tough votes"
-publishedDateTime: 2021-02-22T21:42:00Z
-originalUrl: "https://www.washingtonpost.com/politics/centrist-democrats-flex-muscles-create-headaches-for-biden/2021/02/22/db54c376-7556-11eb-9489-8f7dacd51e75_story.html"
-webUrl: "https://www.washingtonpost.com/politics/centrist-democrats-flex-muscles-create-headaches-for-biden/2021/02/22/db54c376-7556-11eb-9489-8f7dacd51e75_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/centrist-democrats-flex-muscles-create-headaches-for-biden/2021/02/22/db54c376-7556-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/centrist-democrats-flex-muscles-create-headaches-for-biden/2021/02/22/db54c376-7556-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
+excerpt: "A moderate Democratic senator from West Virginia is suddenly one of the most powerful people in Washington."
+publishedDateTime: 2021-02-23T09:10:00Z
+originalUrl: "https://www.businessinsider.com/centrist-democrats-flex-muscles-create-headaches-for-biden-2021-2"
+webUrl: "https://www.businessinsider.com/centrist-democrats-flex-muscles-create-headaches-for-biden-2021-2"
+ampWebUrl: "https://www.businessinsider.com/centrist-democrats-flex-muscles-create-headaches-for-biden-2021-2?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/centrist-democrats-flex-muscles-create-headaches-for-biden-2021-2?amp"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
-    isCached: true
 
 related:
   - title: "Biden to mark Covid death milestone with candle ceremony at White House – live updates"
@@ -351,21 +345,21 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Biden to mourn 500,000 dead while balancing grief and hope"
-    excerpt: "Confronting the grim milestone directly and publicly, Biden is trying to strike a balance between gravity and hope, while Donald Trump generally avoided constructs of collective grief for the deaths on his watch."
-    publishedDateTime: 2021-02-22T21:24:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/biden-mourn-500000-dead-balancing-grief-hope-76051346"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/biden-mourn-500000-dead-balancing-grief-hope-76051346"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/biden-mourn-500000-dead-balancing-grief-hope-76051346"
+  - title: "Biden honors covid-19 victims amid staggering toll, signs of hope"
+    excerpt: "As the U.S. death toll from the coronavirus hits 500,000, some trends hint at a better road ahead. But as the president holds a solemn memorial, the White House is wary of touting good news prematurely."
+    publishedDateTime: 2021-02-23T03:43:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-covid-deaths/2021/02/22/911952b0-7527-11eb-8115-9ad5e9c02117_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-covid-deaths/2021/02/22/911952b0-7527-11eb-8115-9ad5e9c02117_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-covid-deaths/2021/02/22/911952b0-7527-11eb-8115-9ad5e9c02117_story.html?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_6fc8752cd6474034b1b29bc1f52e06dd_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VMJGYMTVNEI6XFEJR562ZVI6OU.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Joe Biden to hold memorial as US nears 500,000 Covid deaths"
     excerpt: "Where Donald Trump suggested the death toll might reach 60,000 now experts fear it could rival those lost to the 1918 flu pandemic"
@@ -663,6 +657,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden to mourn 500,000 dead while balancing grief and hope"
+    excerpt: "WASHINGTON (AP) —"
+    publishedDateTime: 2021-02-23T09:09:00Z
+    webUrl: "https://www.businessinsider.com/biden-to-mourn-500000-dead-while-balancing-grief-and-hope-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/biden-to-mourn-500000-dead-while-balancing-grief-and-hope-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-to-mourn-500000-dead-while-balancing-grief-and-hope-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Watch Live: Biden commemorates 500,000 U.S. lives lost to COVID-19"
     excerpt: "With the U.S. crossing the threshold of 500,000 deaths from COVID-19, President Joe Biden is delivering brief remarks on \"the lives lost to COVID-19\" at 6 p.m. ET Monday at the White House. No other country has lost more lives to the yearlong pandemic than the U."
     publishedDateTime: 2021-02-22T21:49:00Z
@@ -689,6 +694,6 @@ related:
       domain: reuters.com
     quality: 105
 
-secured: "BKsvckqXRfah2+PXI6DhzEHt6Ynrm7DQBPOC4bRKPwb3Pv8l9wTjWfOOLw2MUeDnCEQMbRpMdlpdxVyG/TwX3mr1EaEZgkLPVL5Aj4YiSxi133GEKqGhH1Vep0oE4ScnNsV6r/If7geQfwJqK4tW7pvaQXY7uKS1rKL21K4yMTtrm8ae55E6VN6UY/CG0mzLHRROPUgIZai9WjIPImdBt6gaeZ7RkxbAfLTEQDHUiA9YBkQiH2JmVd/eDw9tNBK99Y9Pq7PmxOTgHR1dEwLKhy6LDuC/VK4Yajgpubz8NyuB4CMz+B3RCxU/YMzDq/7lA7TVyA1eZ+bwAtdmkq5eCy0H0xOypJBT0jCrHyUsYUA=;XN8wVON7HUAY9RR+L+FUig=="
+secured: "Q+VAiqMlC40YakIMnH4B5IVs6hAgzkLb+s4Sopr84qLfNs1Ondg36+puDRWwYd6ocTALxrfKl/x7M+mfv6WMni76M1Fq+kuh1XoJCwDk76iJXxwTvDlRQNXAlhQ/ZGi1l7k7bH0gsGEfLqL3+YdPQpbO1Pld5EofRz+cV6zFZhEopOe4iNN9vx30jrJ5Zf//OBvl4DgDm+iHCfQ2B2cKq3QAsf8VmmvUFStMMxTwsQUpNvaxbrenHwICGsQeqyhvSZz97+fyVlylrmQykenEaA+J/nCr2nUtAEyBQSI9ufUlyELYHq3SpFS8jFUMiYlvSkEle3c0FTjfUKRczWOwM025Gy8ne1BSU+m6rcv1Ptw=;XlLNcUJGO/LN7hmDPF5AlQ=="
 ---
 
