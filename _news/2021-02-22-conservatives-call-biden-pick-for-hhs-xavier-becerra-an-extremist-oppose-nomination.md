@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/conservatives-call-biden-pick-for-h
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/conservatives-call-biden-pick-for-hhs-xavier-becerra-an-extremist-oppose-nomination.amp"
 type: article
 quality: 167
-heat: 207
+heat: 227
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 165
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Neera Tanden, Xavier Becerra under fire as Biden nominees fight to survive confirmation battles"
+    excerpt: "President Biden is standing behind a pair of Cabinet picks facing uphill battles —including Neera Tanden, his nominee to lead the Office of Management and Budget, and Xavier Becerra, his pick for secretary of the Department of Health and Human Services -- as a growing number of senators have vowed to"
+    publishedDateTime: 2021-02-23T13:49:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Cy_rqhBqCLE/neera-tanden-xavier-becerra-tough-confirmation-battles"
+    ampWebUrl: "https://www.foxnews.com/politics/neera-tanden-xavier-becerra-tough-confirmation-battles.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/neera-tanden-xavier-becerra-tough-confirmation-battles.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true

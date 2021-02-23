@@ -175,6 +175,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Capitol security officials face Senate grilling, Biden honors those lost to Covid"
+    excerpt: "A year after Ahmaud Arbery was fatally shot while jogging in Georgia, Black runners all over the country discuss the lasting trauma of his shooting."
+    publishedDateTime: 2021-02-23T13:40:00Z
+    webUrl: "https://www.nbcnews.com/news/morning-briefing/capitol-security-officials-face-senate-grilling-biden-honors-those-lost-n1258598"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1258598"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1258598"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2021_08/3451908/210222-biden-harris-moment-of-silence-ew-622p_661e5aaec65e33c79d24a4be50084fce.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "fPDmo4kmmJvxCEQZlPLJZGMOsnVJTlBkkNPpXYX0Zs/cXIWAqJLDyRa3v2cah2Llr5uUFdjXlQhGuUhlaUxbQ5fIXKe4CVr73OLUFmTD1CNQ8TguLyYFLINL+fqCNaIGqX7wblWwsvDi+2YYipfdUKMm9E5n7zMlDD6pXoy3kvE3cp9h60Og3EUJqoliTTX+sigsYsv2TBsT3yGFtKrW59SQh3wnppkKSpnef945TB+2HaCA/Wt+mP+MO5PYaURkCwaP/AuU5YINAiTHl9IdWZuqBUKDXsEPB7hN2PnLPvWvqbxtPjxTUi0XUI4Tfy4yhoP/JJvQ3+ANNC3IrURnoMuqQwK2fFxmwkiL3U+ySkI=;30yXLOXgg0xDweePPdV0Kg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/17/politics/biden-life-white-house/i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/17/politics/biden-life-white-house/index.html"
 type: article
 quality: 175
-heat: 355
+heat: 375
 published: true
 
 provider:
@@ -174,6 +174,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210208202631-n-95-masks-file-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Capitol security officials face Senate grilling, Biden honors those lost to Covid"
+    excerpt: "A year after Ahmaud Arbery was fatally shot while jogging in Georgia, Black runners all over the country discuss the lasting trauma of his shooting."
+    publishedDateTime: 2021-02-23T13:40:00Z
+    webUrl: "https://www.nbcnews.com/news/morning-briefing/capitol-security-officials-face-senate-grilling-biden-honors-those-lost-n1258598"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1258598"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1258598"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2021_08/3451908/210222-biden-harris-moment-of-silence-ew-622p_661e5aaec65e33c79d24a4be50084fce.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "UDsG3XygsEplwpbAqzOik4n0b/+LelymGq80+B6Ih0aBgELjwSth6Mz9euEQoGV4V1w355bwrxf4lOqebEByL52RJ4CC87sfShLpG/cVQsG71Inl7HzwwFVbPXTqFqnXVxGRhMFy5fLdKCzSy4H11QsekaTv5XQffIz5CEzLkvODYSphtF1kt2hLBOXVHviQ5mGsQD7tfd0jzkErNZIozNKudjYL2bDzKGGSJY0iU+EN9j6erCG/Jv9sjsX3wKQOlooFJP2DlNIQt0izqXSdK6rpIm5aRQnRM9ATkqZj/wgWXBQYNaEYACZ8teP8uOQBNUwfiJaPMUj09WvlFEXwnq1PsmkIfEmePe789fX5S98=;chP849zqxpXWNhqcCFCT8Q=="

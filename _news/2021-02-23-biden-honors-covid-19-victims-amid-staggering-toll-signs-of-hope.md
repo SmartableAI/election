@@ -367,6 +367,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "State AG calls on Biden to cancel up to $50K in student debt"
+    excerpt: "Delaware’s Attorney General is part of a group pf attorney generals across the nation who are pushing for President Joe Biden to cancel up to $50,000 in federal student loan debt for all borrowers"
+    publishedDateTime: 2021-02-23T13:49:00Z
+    webUrl: "https://www.washingtonpost.com/national/state-ag-calls-on-biden-to-cancel-up-to-50k-in-student-debt/2021/02/23/e986179c-75dd-11eb-9489-8f7dacd51e75_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/state-ag-calls-on-biden-to-cancel-up-to-50k-in-student-debt/2021/02/23/e986179c-75dd-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/state-ag-calls-on-biden-to-cancel-up-to-50k-in-student-debt/2021/02/23/e986179c-75dd-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Texas storm: Biden to declare major disaster to secure federal aid – live"
     excerpt: "Biden says declaration could be signed this afternoon and would open up aid for immediate and long-term recovery efforts – follow all the latest news"
     publishedDateTime: 2021-02-19T23:18:00Z
@@ -694,7 +710,21 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Biden holds moment of silence for 500,000 COVID-19 deaths, promises nation \"will know joy again\""
+    excerpt: "Before a moment of silence at the White House, President Joe Biden connected his personal losses to the more than half a million dead in the U.S. from COVID-19. Weijia Jiang reports how the current administration's response to the pandemic contrasts with its predecessor's."
+    publishedDateTime: 2021-02-23T13:07:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-holds-moment-of-silence-for-500000-covid-19-deaths-promises-nation-will-know-joy-again/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 92
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/23/2e083d0c-5f94-4b75-ad7a-4513d80ad908/thumbnail/1200x630/0998ab0c28636967434038511a943b23/cbsn-fusion-biden-holds-moment-of-silence-for-500000-covid-19-deaths-promises-nation-will-know-joy-again-thumbnail-651840-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
-secured: "Ie+3yPl5qo3r3mOyVHUI4Vydjp1LS9yrSjE9+TxC7K0toHciXz6pXmjjuWK4FPXymbg30LVXbLEOHYkd/EW/pyRO0LHaQwFJUYAqUd6LU8GOaoHN+qXVnSWXhU/olaAkNF1HU9QiHZdVDBMePX7NYlYpr/J8zIW1JLiC/uJbdHFBCx/4FCzBFtI+6DZJqRiJ/BqBxR6hfV6gTBKxAJp/vKxAJxkX+vcrEHVKktn6NmMSpIQNi4dok4BS3TGzh2p0+3JAjOzEeAYzY/fFE7aEXgtD9JHFEes4Fwe+2KNrxTGvvSWdkwDCFRuXROLlV3kTy1y2aGu+hBzw+9Mb5w70vkc6Zsx0WzJuOFnTCx14h5A=;UGesxz4DvKyBfzcaY1qJSQ=="
+secured: "OdwQoafyy+fnsBiXUbbZdyv+78q0XAD8MwBUMaGupdYHLcomDuUnQ6c1sbrC0wQONKyTe36h7nub6kwDjTN8Ff3bos7HcYm0Jj+7s3YKwocmvh+9wuSgjrSadiwHpO7T8YpIvm++Gy9deyifJOmlLFWPF25eqOxbsZ7z1rioFxU8nlQjreiiMDZ1X/xtQiLb0XZzkL5ykHdzpBKgKS3BQIFxG9XlrH3EPMlb1e8y+47OdtPJ2pr2J4QntoKC66YzhjBjxLCOQeWQivZlMYBViGP/GJ16FrorclYplkBjvXmRC+wGv6/ll0e0iQW5XMZBI5YxS0e1esr3+ykfkStYEvDXU9BHNk5nV03LCSCJdTMrJw0ULTWn8kWx4AXKh9mD6cj3y5cjv+o4ImzvRqJuc4ZtBPg/r/shAK6Xv8dCPysfVQoZyhgHx2KW00GrQ5D9hLGQkHoyobsrUTROJNuu2OkaFHExwGM+W1lQmf/H5rFzYpLA3ktlIYoABuOYqq5fuKDz6UVGUeFlfESw0cM5xA==;r9YmCf0sWkVUir8l5kCsXw=="
 ---
 

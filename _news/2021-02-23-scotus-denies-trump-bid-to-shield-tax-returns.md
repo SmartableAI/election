@@ -1095,6 +1095,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "'Donald Trump was linchpin behind Capitol riots'"
+    excerpt: "Although there were a growing number of extremist groups in the United States before former President Donald Trump came to office, the Capitol riots would not have happened without him and the claim the election was stolen,"
+    publishedDateTime: 2021-02-23T13:19:00Z
+    webUrl: "https://www.bbc.com/news/av/world-us-canada-56168050"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 105
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p097sx9r.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Supreme Court denies Trump's bid to shield financial records"
     excerpt: "Former President Trump suffered a major defeat at the Supreme Court after it rejected his bid to withhold his tax returns from the Manhattan district attorney, who is investigating the Trump Organization."
     publishedDateTime: 2021-02-23T00:35:00Z

@@ -2,13 +2,13 @@
 category: news
 title: "De Blasio admits NYC was too quick to close Trump-run ice rinks"
 excerpt: "Mayor Bill De Blasio admitted on Monday that New York City acted too briskly when it shuttered Trump-operated ice skating rinks — only to later change course."
-publishedDateTime: 2021-02-23T04:28:57Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RJbx29jR5EI/de-blasio-admits-nyc-was-too-quick-to-close-trump-run-ice-rinks"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RJbx29jR5EI/de-blasio-admits-nyc-was-too-quick-to-close-trump-run-ice-rinks"
+publishedDateTime: 2021-02-23T04:30:00Z
+originalUrl: "https://www.foxnews.com/politics/de-blasio-admits-nyc-was-too-quick-to-close-trump-run-ice-rinks"
+webUrl: "https://www.foxnews.com/politics/de-blasio-admits-nyc-was-too-quick-to-close-trump-run-ice-rinks"
 ampWebUrl: "https://www.foxnews.com/politics/de-blasio-admits-nyc-was-too-quick-to-close-trump-run-ice-rinks.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/de-blasio-admits-nyc-was-too-quick-to-close-trump-run-ice-rinks.amp"
 type: article
-quality: 175
+quality: 135
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
@@ -128,6 +129,6 @@ related:
         height: 800
         isCached: true
 
-secured: "mptnpHGpxtojXks5O4Y+yFNK4fpNGVRfLQ42pM3Ven+hi94g9fczvsBgAtJKfmaz28+N5C6iSVDBsPAH/yqtPGh6E6m61C9VqvDZsTPyyijl1EgJ5SJQxnS0wO+Ik36ikmOMeI4i01bwGo4wK5aLlOC7/4NCYwC8t+uPz8RO1FJh1xpvPf1hir+i39tSlhRfMa5YU4Y/r1PVn3rCR32Hpso12kOZu2xarD1/wFeB0oshW/y9kovJD3Rzx4FlwdV5vPKXn9uklnoSyIVeIOAlSTdmNOW9OjJpBl6wyC76Ocn6woNvXE+smH6LczKv10aXrMgSAbfn0bq2kFzuEtrKHohoPSOojiULKgeDbHnZXs0=;7siACw+mFAqQkRdPTGHPFg=="
+secured: "7XpWNr46mRFxfs5HNpKWuOarE9ynQ5BjNBCqN6BqBKSogGTz5r3blFM/A5l6QFPOA171JESwIaIJzvh+8/6nBd2gnx9md05U6h8zbFGkpE1u2lqFQN45w4vr5/WED1DoWizUbuSCXNx86IWmLSQ43SkOZrm2gRA0oapGpGgz0bbqFVTlK/rihiJMxB4I1b5APCuuOlQDY4vw5/Xk6OWsPzyN32YmwHO6tJGaBTP0c5tXPogHD8OqOHxIpr3BRIy+64IEHA0FSY1TYRYCeSoW3H8cqoCl8knRcWFRPIFbConsVzmaeIvXlVBM3p1X9RbNrIRo9uqBRt63vvJW6TG6gFX61c5x41zBbtEG4RK+Dr0=;zJySuw/EA2sBdxt0H97VYA=="
 ---
 

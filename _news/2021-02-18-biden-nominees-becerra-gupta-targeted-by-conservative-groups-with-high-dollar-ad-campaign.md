@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Neera Tanden, Xavier Becerra under fire as Biden nominees fight to survive confirmation battles"
+    excerpt: "President Biden is standing behind a pair of Cabinet picks facing uphill battles —including Neera Tanden, his nominee to lead the Office of Management and Budget, and Xavier Becerra, his pick for secretary of the Department of Health and Human Services -- as a growing number of senators have vowed to"
+    publishedDateTime: 2021-02-23T13:49:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Cy_rqhBqCLE/neera-tanden-xavier-becerra-tough-confirmation-battles"
+    ampWebUrl: "https://www.foxnews.com/politics/neera-tanden-xavier-becerra-tough-confirmation-battles.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/neera-tanden-xavier-becerra-tough-confirmation-battles.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "h/ljd4M+ROHBv41Ty3b3j0yev+BTh3AuxQlYXEfiTd4NuPzfHA4Z0QEAARMFKQEeTYTBJfDI6iSn+yVnGg7hIXsKK5Wgu9ljoZskyj0zzgpkouCnfhDG3vB+Aq71+tAhu4PwmiesrSLRRactQ7eXThKYK3O10JZJyXpybZFmJ/4wnLevOLXlV5LRcTA3wklAymSYPPCTv6nGa2YPUlGj+r1g5VJjyPci23VpGs7qO++zcTlzk5aoD9DD784z5UEi7EwiN1w8dj4EJ8VcDwzveWtkWd0M+HdtzouyS+p3v69o1aLfzxh8/dWhh1tfJ+sRsCEDAfbeqE15c64jLVMSG/9Mu2+7N32T9jLdqACM6/w=;+X27wQh4U/pYIszcvZbKLg=="
 ---

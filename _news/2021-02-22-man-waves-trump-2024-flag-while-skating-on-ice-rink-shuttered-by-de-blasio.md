@@ -44,22 +44,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "De Blasio admits NYC was too quick to close Trump-run ice rinks"
-    excerpt: "Mayor Bill De Blasio admitted on Monday that New York City acted too briskly when it shuttered Trump-operated ice skating rinks — only to later change course."
-    publishedDateTime: 2021-02-23T04:28:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RJbx29jR5EI/de-blasio-admits-nyc-was-too-quick-to-close-trump-run-ice-rinks"
-    ampWebUrl: "https://www.foxnews.com/politics/de-blasio-admits-nyc-was-too-quick-to-close-trump-run-ice-rinks.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/de-blasio-admits-nyc-was-too-quick-to-close-trump-run-ice-rinks.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c6c80283-5948-4ef7-a59f-0307ae70fdab/3a04bc22-426a-43bc-8909-147d6b835918/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Trump freeze-out: De Blasio puts former president's NYC rink contracts on ice"
     excerpt: "The Trump Organization says its last day of operating Central Park's ice rinks will be Sunday."
     publishedDateTime: 2021-02-20T07:25:29Z
@@ -91,6 +75,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/TrumpPlaza-crop.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "De Blasio admits NYC was too quick to close Trump-run ice rinks"
+    excerpt: "Mayor Bill De Blasio admitted on Monday that New York City acted too briskly when it shuttered Trump-operated ice skating rinks — only to later change course."
+    publishedDateTime: 2021-02-23T04:30:00Z
+    webUrl: "https://www.foxnews.com/politics/de-blasio-admits-nyc-was-too-quick-to-close-trump-run-ice-rinks"
+    ampWebUrl: "https://www.foxnews.com/politics/de-blasio-admits-nyc-was-too-quick-to-close-trump-run-ice-rinks.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/de-blasio-admits-nyc-was-too-quick-to-close-trump-run-ice-rinks.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c6c80283-5948-4ef7-a59f-0307ae70fdab/3a04bc22-426a-43bc-8909-147d6b835918/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "NYC shutting Central Park ice rinks to kids to freeze out Trump Organization"
     excerpt: "Skaters arriving at Central Park’s two ice rinks are in for a cold awakening next week — the rinks, which are both managed by the Trump Organization, are being shuttered by City Hall to punish the"

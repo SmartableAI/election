@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/22/trump-cpac-republica
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/22/trump-cpac-republican-presumptive-2024-nominee"
 type: article
 quality: 125
-heat: 125
+heat: 145
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 600
     height: 360
     isCached: true
+
+related:
+  - title: "Trump plans to use his CPAC speech as a 'show of force' to exert control over the GOP, report says"
+    excerpt: "Trump plans to use his first post-presidency public speech to show what power he still has over the Republican Party, Axios reported."
+    publishedDateTime: 2021-02-22T13:36:00Z
+    webUrl: "https://www.businessinsider.com/trump-cpac-speech-plans-show-of-force-over-gop-axios-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/trump-cpac-speech-plans-show-of-force-over-gop-axios-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-cpac-speech-plans-show-of-force-over-gop-axios-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
+    images:
+      - url: "https://i.insider.com/60339663bed5c50011a2bc53?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "kykpO6ciwqSbEoMJZd37cxs67m22EpAsLQwmgSCTh/Uv+rGhBgxtV/tHWdEhc3X557wpGGq4bfY7aLUuWgxDXeEkbkBmaUC/l29knmzKZh1jFYYHw2OBethukgvzmgnS8IG9IREVDRWrwUD41zmnhHDvKSLsfjeXTcpV68cYJNRSHVwcGgSZVLv/KwYEL4q5Ftj2Uc61joZzzg51470a1M6O3xdVWGMVLdtPt+/47VCfGlAkAonI/M1OfLOJIYWUS/nUOsil2QYSznwc07kuypxWdGQO5XhlA39pLCcY3EvMVieJUFS29BXtc20SAdNw7/hnJeA95C8ug8Idd10DTvVjP0+qtjDm/mXqGfMZHQeo4mBGAUevTPE6+YZhGOsmPB+SnNU4JNqEC8n8Bi/ljGQFnJglO1Krw4gx+pMNetzsQIMX+sFctNB3ovZMEOn5t43SVg71SLCj5x8et3bZzpm1KfPI9ChVNjqQzHbRRpXXmWmQ2LBn2Y03rpcY2+ray0n4ntNZLtcXPlUmVt0ARQ==;R0H/Ci3M6hFBTdqIhMMMrw=="
 ---

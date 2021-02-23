@@ -2,6 +2,92 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-02-03-dems-trump-aimed-loaded-cannon-of-supporters-at-capitol.md",
+      "title": "Dems: Trump aimed 'loaded cannon' of supporters at Capitol",
+      "excerpt": "Donald Trump endangered the lives of all members of Congress when he aimed a mob of supporters “like a loaded cannon” at the U.S. Capitol, House Democrats said Tuesday in making their most detailed case yet for why the former president should be convicted and permanently barred from office.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/dems-trump-aimed-loaded-cannon-of-supporters-at-capitol-2021-2",
+      "originalUrl": "https://www.businessinsider.com/dems-trump-aimed-loaded-cannon-of-supporters-at-capitol-2021-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/dems-trump-aimed-loaded-cannon-of-supporters-at-capitol-2021-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/dems-trump-aimed-loaded-cannon-of-supporters-at-capitol-2021-2?amp",
+      "publishedDateTime": "2021-02-02T12:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-03-trump-previews-impeachment-defense-it-wasnt-incitement-it-was-free-speech.md",
+      "title": "Trump Previews Impeachment Defense: It Wasn’t Incitement, It Was Free Speech",
+      "excerpt": "Donald Trump’s lawyers on Tuesday previewed their defense of the ex-president during next week’s impeachment trial, responding to pre-trial brief filed by House managers accusing him of a “grievous betrayal” of his oath of office for inciting last month’s attack on the Capitol.",
+      "sourceUrl": null,
+      "webUrl": "https://nymag.com/intelligencer/2021/02/trump-impeachment-violates-my-right-to-free-speech.html",
+      "originalUrl": "https://nymag.com/intelligencer/2021/02/trump-impeachment-violates-my-right-to-free-speech.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pyxis.nymag.com/v1/imgs/296/878/25434125e8951267e3143453e27a549073-trump-jan-6.1x.rsocial.w1200.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nymag.com/intelligencer/amp/2021/02/trump-impeachment-violates-my-right-to-free-speech.html",
+      "cdnAmpWebUrl": "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/02/trump-impeachment-violates-my-right-to-free-speech.html",
+      "publishedDateTime": "2021-02-02T10:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Magazine",
+        "domain": "nymag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-02-doj-asks-supreme-court-to-cancel-arguments-over-trump-border-wall-and-remain-in-mexico-policy.md",
       "title": "DOJ asks Supreme Court to cancel arguments over Trump border wall and 'remain in Mexico' policy",
       "excerpt": "The Justice Department asked the Supreme Court Monday to cancel courtroom arguments scheduled for later this month over two aspects of Donald Trump's immigration policy, a reflection of the new administration's reversal on both issues.",
@@ -1460,115 +1546,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-vindictive-and-harsh-trump-impeachment-trial-wont-bode-well-for-democrats-historian-jay-winik.md",
-      "title": "'Vindictive' and 'harsh' Trump impeachment trial won't bode well for Democrats: Historian Jay Winik",
-      "excerpt": "The push by congressional Democrats to convict former President Donald Trump of impeachable offenses feels \"vindictive,\" and \"harsh,\" historian Jay Winik told \"Special Report\" Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/historian-jay-winik-trump-impeachment-trial-senate-filibuster",
-      "originalUrl": "https://www.foxnews.com/media/historian-jay-winik-trump-impeachment-trial-senate-filibuster",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/32cb91af-d1ac-4bad-991f-9bd146d20dce/ebd3a650-da0d-4fe8-8a9c-923fec42f48b/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/historian-jay-winik-trump-impeachment-trial-senate-filibuster.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/historian-jay-winik-trump-impeachment-trial-senate-filibuster.amp",
-      "publishedDateTime": "2021-01-27T16:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-report-israeli-settler-population-surged-during-trump-era.md",
-      "title": "Report: Israeli settler population surged during Trump era",
-      "excerpt": "A pro-settler group says Israel’s West Bank settler population has grown at a far higher rate than the country as a whole over the last four years",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/world/middle_east/report-israeli-settler-population-surged-during-trump-era/2021/01/27/411f2bde-6089-11eb-a177-7765f29a9524_story.html",
-      "originalUrl": "https://www.washingtonpost.com/world/middle_east/report-israeli-settler-population-surged-during-trump-era/2021/01/27/411f2bde-6089-11eb-a177-7765f29a9524_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/world/middle_east/report-israeli-settler-population-surged-during-trump-era/2021/01/27/411f2bde-6089-11eb-a177-7765f29a9524_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/middle_east/report-israeli-settler-population-surged-during-trump-era/2021/01/27/411f2bde-6089-11eb-a177-7765f29a9524_story.html?outputType=amp",
-      "publishedDateTime": "2021-01-27T02:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
