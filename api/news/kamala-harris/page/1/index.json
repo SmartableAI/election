@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-02-23-photos-kamala-harris-selling-san-francisco-loft-for-799000.md",
-      "title": "Photos: Kamala Harris selling San Francisco loft for $799,000",
-      "excerpt": "Vice-President Kamala Harris is selling her SoMa loft in San Francisco for $799,000, reports the Wall Street Journal. Click here if viewing from a mobile device. Vice-President Kamala Harris is selling her SoMa loft in San Francisco.",
+      "path": "_news/2021-02-23-take-a-look-inside-vice-president-kamala-harriss-san-francisco-loft-it-just-sold-for-a-profit.md",
+      "title": "Take a look inside Vice President Kamala Harris’s San Francisco loft — it just sold for a profit",
+      "excerpt": "The nation's newest vice president is unloading her San Francisco condo — and she's getting a very good price.",
       "sourceUrl": null,
-      "webUrl": "https://www.mercurynews.com/2021/02/22/photos-vice-president-kamala-harris-selling-san-francisco-loft/",
-      "originalUrl": "https://www.mercurynews.com/2021/02/22/photos-vice-president-kamala-harris-selling-san-francisco-loft/",
+      "webUrl": "https://www.marketwatch.com/story/take-a-look-inside-vice-president-kamala-harris-san-francisco-condo-that-just-sold-for-a-profit-11614024358?mod=hp_minor_pos19",
+      "originalUrl": "https://www.marketwatch.com/story/take-a-look-inside-vice-president-kamala-harris-san-francisco-condo-that-just-sold-for-a-profit-11614024358?mod=hp_minor_pos19",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 172,
       "tags": null,
       "images": [
         {
-          "url": "https://www.mercurynews.com/wp-content/uploads/2021/02/kam3.jpg?w=700&h=434",
-          "width": 700,
-          "height": 434,
+          "url": "https://images.mktw.net/im-302496/social",
+          "width": 1280,
+          "height": 640,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.mercurynews.com/2021/02/22/photos-vice-president-kamala-harris-selling-san-francisco-loft/amp/",
-      "cdnAmpWebUrl": "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/02/22/photos-vice-president-kamala-harris-selling-san-francisco-loft/amp/",
-      "publishedDateTime": "2021-02-22T09:06:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-23T07:37:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Mercury News",
-        "domain": "mercurynews.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -53,7 +62,7 @@
       "originalUrl": "https://www.mercurynews.com/2021/02/20/ella-emhoff-kamala-harriss-stepdaughter-is-a-new-kind-of-style-icon/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 175,
+      "heat": 155,
       "tags": null,
       "images": [
         {
@@ -139,7 +148,7 @@
       "originalUrl": "https://www.cnbc.com/video/2021/02/17/teachers-should-be-prioritized-for-coronavirus-vaccine-vp-kamala-harris.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 184,
       "tags": null,
       "images": [
         {
@@ -419,7 +428,7 @@
       "originalUrl": "https://www.businessinsider.com/kamala-harris-biden-starting-from-scratch-covid-19-after-trump-2021-2",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1047,
+      "heat": 1067,
       "tags": null,
       "images": [
         {
@@ -633,7 +642,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/courts_law/capitol-police-officer-who-died-after-riot-to-lie-in-honor/2021/02/02/8f908fb8-65b8-11eb-bab8-707f8769d785_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2110,
+      "heat": 2130,
       "tags": null,
       "images": [
         {

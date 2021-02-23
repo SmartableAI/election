@@ -541,6 +541,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Food groups fight to save one Trump virus program"
+    excerpt: "Agricultural groups and anti-hunger organizations are pushing the Biden administration to continue a program launched by President Donald Trump that spent $6 billion to prevent farmers from plowing un"
+    publishedDateTime: 2021-02-23T16:22:00Z
+    webUrl: "https://www.washingtonpost.com/health/food-groups-fight-to-save-one-trump-virus-program/2021/02/23/53950868-75f3-11eb-9489-8f7dacd51e75_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/food-groups-fight-to-save-one-trump-virus-program/2021/02/23/53950868-75f3-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/food-groups-fight-to-save-one-trump-virus-program/2021/02/23/53950868-75f3-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Pull of partisanship helps Trump escape impeachment conviction: ANALYSIS"
     excerpt: "While seven Republicans joined all 50 Democrats in voting for former President Donald Trump 's conviction, the Senate fell 10 votes short of conviction. Trump was spared the ultimate punishment Congress could wield by powerful and familiar forces he has long understood,"
     publishedDateTime: 2021-02-13T22:04:00Z
@@ -1320,6 +1336,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "UYcJfcsWFXXV8xK9VkY4O1PjLaDj8gbzbmcARiThssEge8uTiMVTxonBWviAXHhz/I5f9pWo/1KJ6NoSPwuTEDNr7vaIomhnpSt2fCtah5eWrGavUuFD4J5gK6rkDiwT9cY4oG5RKwnUbHNXkJXhd/TBwvopFXqr3EgHUgEuh3m2/eHE+rt7TWgC77yItU+eesIEoJcdNJNNwb2/CaifZ6qC3PpBCPb+mhd8x7mQxz9x9sByKiRKpz3DWyeqblmBAeRFbgJQs3gPdwpB473dfGL3vPFRFiURCAwupxMdns9M9xP0O91cVCjI1fQVUGuR80w1wbt49KKqQK/640ngqTk2TYf7yegNjicALlj0tSA=;YuWFEr1ReVpBY3II0qLeDg=="
+secured: "rpcNfwBfrIIUfN6P4g6A1lUf0aDSBI1utbJGhMS35TbonlFbcl/yCgQlfOwuC2xAQnIbKk671frxYarVkkKvPul2yKRH6KoXywwLAAijxU+tZPVlxlUP9kV4PbNTBhyc+VM31X0vPyc8wloGCGncjYqAGIhBjtvRMpdj37EjoXHc1ioPiVeYKb5w/Dv2Uc96vFxn9Iua6TM0u7BRAJPoliTVDNCrd5N6p6NKvHwr574ivZXTGRu1Jo5qt4VxEczaL3HcptjuD/eZn19LLnadHAevF+gwe8AJPpffvYt8QryIILLpGf7CCRrVh6bDVvM+2ilJxXwwikBO0d9RdlQ+p5Qi8x+O/vw8smylAsX2qPY99SDOHUMlYhL7x+Z/V0g3Cy1flm6z5S3PeJXCWo0QYCM4Nk0NKiIWg2PU+X6hluQAy2vAHoLw7DyPs9Cd+rpHGYOkl5EWxzHTPNQdXT6gSOapYv8A6ZhjhFz7MlapNF67WxEVxplVm212kNVK0FrMDoWIqRArH8Lycv/NFH3F0A==;uBdNq3wsscAOeHf5Eg7tXg=="
 ---
 

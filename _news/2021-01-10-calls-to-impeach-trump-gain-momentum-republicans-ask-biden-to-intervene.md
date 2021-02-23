@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden DHS rolls back Trump-era citizenship test"
+    excerpt: "The Biden administration this week rolled back a Trump-era citizenship test and reinstated an earlier version that was administered in 2008 after concerns about the \"limited time for study and preparation of training materials and resources.\""
+    publishedDateTime: 2021-02-23T16:19:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EQJ9W7irFXw/biden-dhs-rolls-back-trump-era-citizenship-test"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-dhs-rolls-back-trump-era-citizenship-test.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-dhs-rolls-back-trump-era-citizenship-test.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden tells European allies ‘America is back,’ seeks to turn page on Trump era"
     excerpt: "President Biden on Friday hailed the importance of the alliance between the U.S. and Europe, while also taking a number of thinly-veiled shots at his predecessor."
     publishedDateTime: 2021-02-19T22:08:10Z

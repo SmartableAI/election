@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/trump-repeats-ele
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/trump-repeats-election-claims-interviews-unchallenged-76002370"
 type: article
 quality: 140
-heat: 1840
+heat: 1860
 published: true
 
 provider:
@@ -526,6 +526,22 @@ related:
       - url: "https://s.abcnews.com/images/US/WireAP_6b667e32aed8483fa2f05bc435644913_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Food groups fight to save one Trump virus program"
+    excerpt: "Agricultural groups and anti-hunger organizations are pushing the Biden administration to continue a program launched by President Donald Trump that spent $6 billion to prevent farmers from plowing un"
+    publishedDateTime: 2021-02-23T16:22:00Z
+    webUrl: "https://www.washingtonpost.com/health/food-groups-fight-to-save-one-trump-virus-program/2021/02/23/53950868-75f3-11eb-9489-8f7dacd51e75_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/food-groups-fight-to-save-one-trump-virus-program/2021/02/23/53950868-75f3-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/food-groups-fight-to-save-one-trump-virus-program/2021/02/23/53950868-75f3-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Pull of partisanship helps Trump escape impeachment conviction: ANALYSIS"
     excerpt: "While seven Republicans joined all 50 Democrats in voting for former President Donald Trump 's conviction, the Senate fell 10 votes short of conviction. Trump was spared the ultimate punishment Congress could wield by powerful and familiar forces he has long understood,"

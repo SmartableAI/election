@@ -543,6 +543,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Food groups fight to save one Trump virus program"
+    excerpt: "Agricultural groups and anti-hunger organizations are pushing the Biden administration to continue a program launched by President Donald Trump that spent $6 billion to prevent farmers from plowing un"
+    publishedDateTime: 2021-02-23T16:22:00Z
+    webUrl: "https://www.washingtonpost.com/health/food-groups-fight-to-save-one-trump-virus-program/2021/02/23/53950868-75f3-11eb-9489-8f7dacd51e75_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/food-groups-fight-to-save-one-trump-virus-program/2021/02/23/53950868-75f3-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/food-groups-fight-to-save-one-trump-virus-program/2021/02/23/53950868-75f3-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Trump's Indonesia partner to build movie studio after securing tax breaks"
     excerpt: "Indonesian tycoon Hary Tanoesoedibjo, a business partner of former U.S. president Donald Trump, launched on Monday construction on a movie studio as part of a tourism complex on Java island that is set to receive tax breaks."
     publishedDateTime: 2021-02-15T14:07:00Z

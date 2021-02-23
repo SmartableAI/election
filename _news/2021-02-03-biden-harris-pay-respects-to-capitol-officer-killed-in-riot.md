@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/capitol-police-of
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/capitol-police-officer-who-died-after-riot-to-lie-in-honor/2021/02/02/8f908fb8-65b8-11eb-bab8-707f8769d785_story.html?outputType=amp"
 type: article
 quality: 150
-heat: 2110
+heat: 2130
 published: true
 
 provider:
@@ -835,6 +835,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/454a93cc-5183-41ff-b075-2e1f1b699920/71aa6c24-6160-4e2d-b27d-5c9b12858e9a/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Joe Biden and Kamala Harris Hold Memorial to Mark Half a Million COVID-19 Deaths"
+    excerpt: "President Joe Biden, Vice President Kamala Harris and their spouses held a candlelight vigil for the more than half a million U.S. lives lost to COVID-19."
+    publishedDateTime: 2021-02-22T21:11:00Z
+    webUrl: "https://people.com/politics/joe-biden-kamala-harris-hold-memorial-to-mark-half-a-million-covid-19-deaths/"
+    ampWebUrl: "https://people.com/politics/joe-biden-kamala-harris-hold-memorial-to-mark-half-a-million-covid-19-deaths/?amp=true"
+    cdnAmpWebUrl: "https://people-com.cdn.ampproject.org/c/s/people.com/politics/joe-biden-kamala-harris-hold-memorial-to-mark-half-a-million-covid-19-deaths/?amp=true"
+    type: article
+    provider:
+      name: People
+      domain: people.com
+    quality: 85
+    images:
+      - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1500&h=750&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2021%2F02%2F22%2Fbiden-covid-memorial24.jpg"
+        width: 1500
+        height: 750
         isCached: true
   - title: "Joe Biden basing Kamala Harris relationship on Obama model | Raleigh News & Observer"
     excerpt: "President Joe Biden is applying the lessons he learned as vice president to the management of the White House. That includes giving Kamala Harris a seat at the table."

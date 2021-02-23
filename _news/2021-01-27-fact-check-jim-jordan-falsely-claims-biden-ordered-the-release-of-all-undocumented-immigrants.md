@@ -31,19 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Fact-checking 7 statistical claims from Biden's (quite factual) economic speech "
-    excerpt: "President Joe Biden recited a flurry of figures in a Friday speech in which he urged Congress to pass the $1.9 trillion pandemic relief package he calls the American Rescue Plan.\n    \n"
-    publishedDateTime: 2021-01-26T14:31:36Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wNw5Fwfuu0g/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/26/politics/fact-check-biden-economic-stats-pandemic-rescue-plan/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/fact-check-biden-economic-stats-pandemic-rescue-plan/index.html"
+  - title: "Fact check: Breaking down Biden's first month of claims "
+    excerpt: "President Joe Biden was more consistently factual in his first month in office than his predecessor ever was in office. But Biden was not perfect himself.\n    \n"
+    publishedDateTime: 2021-02-23T15:02:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JbRiqEClkxc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/23/politics/fact-check-biden-first-month-2021/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/23/politics/fact-check-biden-first-month-2021/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 170
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210122151617-03-biden-economy-0122-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210219122934-01-biden-munich-security-conference-0219-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

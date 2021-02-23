@@ -47,22 +47,6 @@ related:
         width: 1024
         height: 771
         isCached: true
-  - title: "Photos: Vice-President Kamala Harris selling San Francisco loft"
-    excerpt: "Vice-President Kamala Harris is selling her SoMa loft in San Francisco for $799,000, reports the Wall Street Journal. Click here if viewing from a mobile device. Vice-President Kamala Harris is selling her SoMa loft in San Francisco."
-    publishedDateTime: 2021-02-22T18:06:00Z
-    webUrl: "https://www.eastbaytimes.com/2021/02/22/photos-vice-president-kamala-harris-selling-san-francisco-loft/"
-    ampWebUrl: "https://www.eastbaytimes.com/2021/02/22/photos-vice-president-kamala-harris-selling-san-francisco-loft/amp/"
-    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2021/02/22/photos-vice-president-kamala-harris-selling-san-francisco-loft/amp/"
-    type: article
-    provider:
-      name: East Bay Times
-      domain: eastbaytimes.com
-    quality: 75
-    images:
-      - url: "https://www.eastbaytimes.com/wp-content/uploads/2021/02/kam3-1.jpg?w=700&h=434"
-        width: 700
-        height: 434
-        isCached: true
   - title: "What was Kamala Harris’ role in helping Minneapolis rioters? | Raleigh News & Observer"
     excerpt: "If you use this model, I don’t know how Kamala Harris doesn’t get impeached if the Republicans take over the House, because she actually bailed out rioters, and one of the rioters went back to the streets and broke somebody’s head open,"
     publishedDateTime: 2021-02-18T12:00:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/kamala-harris-biden-starting-from-sc
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kamala-harris-biden-starting-from-scratch-covid-19-after-trump-2021-2?amp"
 type: article
 quality: 147
-heat: 1047
+heat: 1067
 published: true
 
 provider:
@@ -702,6 +702,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
+  - title: "Who Is Maya Harris, Kamala's Sister? She's One of Kamala's Most Trusted Advisers"
+    excerpt: "In addition to being her younger sibling, Maya Harris is one of Kamala's most trusted advisers, and for good reason: she has an incredibly impressive résumé. The younger of the two Harris sisters is a lawyer,"
+    publishedDateTime: 2021-02-23T01:50:00Z
+    webUrl: "https://www.popsugar.com/celebrity/who-is-maya-harris-kamala-sister-48150273"
+    ampWebUrl: "https://www.popsugar.com/celebrity/who-is-maya-harris-kamala-sister-48150273/amp"
+    cdnAmpWebUrl: "https://www-popsugar-com.cdn.ampproject.org/c/s/www.popsugar.com/celebrity/who-is-maya-harris-kamala-sister-48150273/amp"
+    type: article
+    provider:
+      name: PopSugar
+      domain: popsugar.com
+    quality: 70
+    images:
+      - url: "https://media1.popsugar-assets.com/files/thumbor/k3rA3NM4mZ7znhby0_DBiyUsgpg/0x317:2165x1454/fit-in/1200x630/filters:format_auto-!!-:strip_icc-!!-/2021/02/05/224/n/44701584/c5bbacec601e19dc527844.54748930_.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden Scraps Trump Plan to Weaken Environmental Rules to Build Renewables in California"
     excerpt: "The Biden administration on Wednesday said it would scrap a Trump-era proposal to weaken environmental protections for millions of acres of California desert to ease development of wind and solar energy projects."
     publishedDateTime: 2021-02-17T22:00:00Z

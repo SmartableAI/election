@@ -831,6 +831,22 @@ related:
         width: 1024
         height: 691
         isCached: true
+  - title: "Joe Biden and Kamala Harris Hold Memorial to Mark Half a Million COVID-19 Deaths"
+    excerpt: "President Joe Biden, Vice President Kamala Harris and their spouses held a candlelight vigil for the more than half a million U.S. lives lost to COVID-19."
+    publishedDateTime: 2021-02-22T21:11:00Z
+    webUrl: "https://people.com/politics/joe-biden-kamala-harris-hold-memorial-to-mark-half-a-million-covid-19-deaths/"
+    ampWebUrl: "https://people.com/politics/joe-biden-kamala-harris-hold-memorial-to-mark-half-a-million-covid-19-deaths/?amp=true"
+    cdnAmpWebUrl: "https://people-com.cdn.ampproject.org/c/s/people.com/politics/joe-biden-kamala-harris-hold-memorial-to-mark-half-a-million-covid-19-deaths/?amp=true"
+    type: article
+    provider:
+      name: People
+      domain: people.com
+    quality: 85
+    images:
+      - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1500&h=750&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2021%2F02%2F22%2Fbiden-covid-memorial24.jpg"
+        width: 1500
+        height: 750
+        isCached: true
   - title: "Joe Biden basing Kamala Harris relationship on Obama model | Raleigh News & Observer"
     excerpt: "President Joe Biden is applying the lessons he learned as vice president to the management of the White House. That includes giving Kamala Harris a seat at the table."
     publishedDateTime: 2021-01-29T15:18:00Z
