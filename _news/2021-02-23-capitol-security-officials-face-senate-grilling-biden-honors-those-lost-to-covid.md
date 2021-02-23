@@ -192,6 +192,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact-checking the Biden administration's sliding scale on vaccines and school reopening goals"
+    excerpt: "A large part of the conversation on recovering from the coronavirus pandemic in the US has focused on the success of the vaccine rollout and how quickly schools can reopen for in-person learning. The Biden administration, however, has struggled with its messaging over the goals and timelines for each,"
+    publishedDateTime: 2021-02-23T22:06:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yLv5-rOQijQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/23/politics/joe-biden-school-reopening-vaccine-roll-out-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/23/politics/joe-biden-school-reopening-vaccine-roll-out-fact-check/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210219150027-02-biden-tours-pfizer-site-0219-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "zZzJ7iyRVl5AsJRdjJczsuCWcuODYLXmd1zBY+I2FZK+EZgkbJnCcran3pFq38BLeaQx6Pn8HMoACWYKsSp39+PaRxvDNUZzIoWwpy6t1pshp30EpBN3D0AedO2cnXxETDMQfoChRJaJPfXNT5aoYS8EDzvRUPMrpMtQePRQHGgA5p32jNkxY4/VwtAqXirjNQneK7Y/q0z+QZn+vhp9pI7V47NMv4ezXIb0VbcftI/c6BUkkl01WJ6nv7hNvDJHEZnq10j67ZsbYbrtqEAMi8VqoK7Q96ImJAx/+jXxOePC4V5Fpu2BHaxglqbLdWIGf6dOkBkPqPWF2TPNePrhuUACdOlKD6UUpg2J3CY0Du0+tCkVp6k04TjiYGNIksEN+UEGFyhwT6ANhRkNWuqFr1+SPtRPeZvB8Dy9Z/2lWUB/+IAH1cbqZpSoS/r/YtY0BzYlr70YpJ/cfqNr1fzciy40D/uGDkJqXEaKksiMEari2xyhkMpHIAdipZJJDtwW+oAbgdLik79C8ZFuR9nUZg==;AO06GqP24W44ISodZu0ZQQ=="
 ---

@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Trump wishes Tiger Woods a speedy recovery after LA crash"
-excerpt: ""
+excerpt: "Former President Trump is wishing golfing legend Tiger Woods well after he experienced a tragic car accident on Tuesday."
 publishedDateTime: 2021-02-23T20:44:06Z
 originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XuPgZsz6pXU/trump-wishes-tiger-woods-a-speedy-recovery-after-la-crash"
 webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XuPgZsz6pXU/trump-wishes-tiger-woods-a-speedy-recovery-after-la-crash"
@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-wishes-tiger-woods-a-speedy-r
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-wishes-tiger-woods-a-speedy-recovery-after-la-crash.amp"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Trump sends well-wishes for ‘true champion’ Tiger Woods after car crash"
+    excerpt: "Former President Donald Trump on Tuesday tweeted through an associate a get-well message for golfer Tiger Woods following a serious car accident in California. “Get well soon, Tiger. You are a"
+    publishedDateTime: 2021-02-23T21:16:00Z
+    webUrl: "https://nypost.com/2021/02/23/trump-sends-well-wishes-for-tiger-woods-after-car-crash/"
+    ampWebUrl: "https://nypost.com/2021/02/23/trump-sends-well-wishes-for-tiger-woods-after-car-crash/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/23/trump-sends-well-wishes-for-tiger-woods-after-car-crash/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/tiger-woods-donald-trump.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Trump vacuum puts local officials in media’s harsh glare"
     excerpt: "Without Trump dominating the news cycle, the media have turned their attention to scandals and controversies like those involving the governor of New York, the governor of California, and a senator fr"

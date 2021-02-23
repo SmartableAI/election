@@ -175,6 +175,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact-checking the Biden administration's sliding scale on vaccines and school reopening goals"
+    excerpt: "A large part of the conversation on recovering from the coronavirus pandemic in the US has focused on the success of the vaccine rollout and how quickly schools can reopen for in-person learning. The Biden administration, however, has struggled with its messaging over the goals and timelines for each,"
+    publishedDateTime: 2021-02-23T22:06:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yLv5-rOQijQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/23/politics/joe-biden-school-reopening-vaccine-roll-out-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/23/politics/joe-biden-school-reopening-vaccine-roll-out-fact-check/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210219150027-02-biden-tours-pfizer-site-0219-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Capitol security officials face Senate grilling, Biden honors those lost to Covid"
     excerpt: "A year after Ahmaud Arbery was fatally shot while jogging in Georgia, Black runners all over the country discuss the lasting trauma of his shooting."
     publishedDateTime: 2021-02-23T13:40:00Z

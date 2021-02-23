@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biden administration changes PPP rules to help reach the smallest businesses"
-    excerpt: "The Biden administration announced several changes Monday to the Paycheck Protection Program in an effort to reach minority-owned and very small businesses that may have previously missed out on accessing loans to help weather the coronavirus pandemic.\n    \n"
-    publishedDateTime: 2021-02-22T12:23:44Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EC5YHXJ3WG4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/22/politics/ppp-loans-biden-administration-small-businesses/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/22/politics/ppp-loans-biden-administration-small-businesses/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 172
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201126025400-01-los-angeles-restaurant-1123-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden's pick to lead Health and Human Services goes before Senate committees"
     excerpt: "President Joe Biden's choice for the nation's top health official will go before Senate committees on Tuesday and Wednesday, as Republicans attempt to torpedo the nomination.\n    \n"
     publishedDateTime: 2021-02-23T12:25:05Z
@@ -64,19 +48,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden administration prepares to impose sanctions on Russia over Navalny poisoning "
-    excerpt: "The Biden administration is preparing to impose sanctions on Russia in the coming weeks over the poisoning and jailing of Russia opposition leader Alexey Navalny, according to two administration officials familiar with the matter.\n    \n"
-    publishedDateTime: 2021-02-23T18:22:05Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TvKJJADikGg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/23/politics/biden-prepares-russia-sanctions/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/23/politics/biden-prepares-russia-sanctions/index.html"
+  - title: "Biden to pick Chiquita Brooks-LaSure to run Centers for Medicare and Medicaid Services, sources say"
+    excerpt: "President Joe Biden is expected to nominate Chiquita Brooks-LaSure to lead the Centers for Medicare and Medicaid Services, two sources familiar with the decision told CNN.\n    \n"
+    publishedDateTime: 2021-02-18T00:29:40Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GvOg0uYVY94/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/17/politics/chiquita-brooks-lasure-cms-pick/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/17/politics/chiquita-brooks-lasure-cms-pick/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 169
+    quality: 161
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210204183157-cnn-red-biden-navalny-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210217191845-chiquita-brooks-lasure-headshot-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

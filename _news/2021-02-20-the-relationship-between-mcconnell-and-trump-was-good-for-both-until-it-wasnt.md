@@ -176,6 +176,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Gucci is Staying in Trump Tower"
+    excerpt: "Tiffany and other luxury companies have stepped away from deals with the former president’s organization, but not Gucci."
+    publishedDateTime: 2021-02-23T22:29:00Z
+    webUrl: "https://www.nytimes.com/2021/02/23/fashion/trump-gucci.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/23/fashion/trump-gucci.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/23/fashion/trump-gucci.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/25/fashion/24GUCCITRUMP-trump-tower/24GUCCITRUMP-trump-tower-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
 
 secured: "QQtb+u+evjWTIssF4qatsIea/+h7VUdol4fLyj9V5uOUPRCB7Ri3hr5yt0tu8tqppxq9Mj0TjECOEjVA6sejIelhm8680EN+l+Dyom0jWjiEMHtgIWaqHKtSpzkV9CQm3nDpWorWVDWXWjD2khbzZDp2BLEtqMh1o4Y2yMvGJGWFzyctX4meo9mmFOWvj/dVXV6OsOnqjxMS2z/j1juUvDKCZ5hY1rzM4fAicDMI44EQds1FKl0edHfJJDBmTwcCGrONd+ba3b5WMWOOVF413UrFuvUjMYMDxt5llO2h7DTOv3BfBlHk31HgNGSbjLB4pvwyUt3C3+wQSVgqVqDO+8wafzQRQZy44zJmtVcOEXHA3L81mZSC984KbqDl5VBOfLxD1IHv7bQhsyolBcZs6+NRa9rvwdulRL8N+3X1n1i+EcBDJdsVes0OhtHlzKw+HTl2OQO0puLHYvjVDUOvOmaMsoc1ETMmQ3RBN8bt9J/yOVLfTJSTWsI94TRlqfsYhBEo1pSI96EDfF6IcPALHA==;PHOlj5XN/7U5L0ocxwk7OQ=="
 ---

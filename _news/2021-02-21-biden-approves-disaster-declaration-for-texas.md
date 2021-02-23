@@ -112,6 +112,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Republicans seize on Biden's domestic policy nominees as Tanden nomination in limbo"
+    excerpt: "The pressure is mounting for Democrats to remain united on nominees moving through the Senate, as Republicans signal a growing resistance to backing some of President Joe Biden's picks for key domestic policy posts.\n    \n"
+    publishedDateTime: 2021-02-23T21:48:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4AsiLTyZHNI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/23/politics/republican-reaction-biden-cabinet-nominees/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/23/politics/republican-reaction-biden-cabinet-nominees/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210213164214-05-gop-vote-romney-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Joe Biden returns to Wisconsin, testing a new President's promise to unify and govern"
     excerpt: "Caroline Quinlan didn't vote for Joe Biden, but she's praying for his success and hoping he can deliver on his pledge to unite a deeply divided country.\n    \n"
     publishedDateTime: 2021-02-16T12:00:51Z

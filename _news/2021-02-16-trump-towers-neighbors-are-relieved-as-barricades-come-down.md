@@ -160,6 +160,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Gucci is Staying in Trump Tower"
+    excerpt: "Tiffany and other luxury companies have stepped away from deals with the former president’s organization, but not Gucci."
+    publishedDateTime: 2021-02-23T22:29:00Z
+    webUrl: "https://www.nytimes.com/2021/02/23/fashion/trump-gucci.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/23/fashion/trump-gucci.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/23/fashion/trump-gucci.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/25/fashion/24GUCCITRUMP-trump-tower/24GUCCITRUMP-trump-tower-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "The Relationship Between McConnell and Trump Was Good for Both — Until It Wasn’t"
     excerpt: "The unlikely alliance delivered results they both wanted but fell apart after the election once their political interests diverged."
     publishedDateTime: 2021-02-19T23:06:00Z

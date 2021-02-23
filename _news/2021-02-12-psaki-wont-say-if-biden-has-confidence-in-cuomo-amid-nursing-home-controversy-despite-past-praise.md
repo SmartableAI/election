@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Republicans say Biden COVID package pays off teachers union ‘ransom note’"
+    excerpt: "Senate Republicans condemned President Biden’s latest COVID relief package as a partisan \"liberal wish list\" during Tuesday’s press conference, but school funding is receiving the most backlash. "
+    publishedDateTime: 2021-02-23T21:26:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ylfeu5d4rZY/gop-says-bidens-covid-package-is-a-payoff-to-the-teachers-union-ransom-note"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-says-bidens-covid-package-is-a-payoff-to-the-teachers-union-ransom-note.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-says-bidens-covid-package-is-a-payoff-to-the-teachers-union-ransom-note.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4e6ba441-6c4c-4109-a2bc-0b9e22da9c6f/99201b4f-f627-459a-a870-4444f62d790b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden's positive poll numbers on combating COVID nosedive over school reopenings"
     excerpt: "Fifty-eight percent of Americans approve of the job President Biden’s doing handling the federal government’s response to the coronavirus pandemic. But the same survey from Quinnipiac University also shows that when it comes to the president’s handling of the reopening of schools amid the COVID crisis,"
     publishedDateTime: 2021-02-18T03:19:17Z
