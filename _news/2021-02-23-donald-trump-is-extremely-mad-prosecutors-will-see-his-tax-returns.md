@@ -43,6 +43,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Supreme Court rejects Trump election challenge cases"
+    excerpt: "The Supreme Court has rejected a handful of cases related to the 2020 election, including disputes from Pennsylvania that had divided the justices just before the election"
+    publishedDateTime: 2021-02-23T04:09:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/high-court-formally-rejects-trump-election-challenge-cases-76045609"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/high-court-formally-rejects-trump-election-challenge-cases-76045609"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/high-court-formally-rejects-trump-election-challenge-cases-76045609"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_5eef2336894e47bbafa0831f4cca447f_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Donald Trump versus Mitch McConnell: Tension could make 2022 election messy for Republicans"
     excerpt: "The divide between the former allies presents an uncomfortable possibility for Republicans and a delightful one for Democrats."
     publishedDateTime: 2021-02-18T14:10:00Z
@@ -1254,6 +1270,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "euAC5Zqua1V0QCl2E1gJ/c2XEgcigHNGPFt+qrtSubYCwW52ODzkUKIZDhEga22zkUFhwZTtiSlYFhgshI3cFWpAuAoYnbV9XJf2xiC/20xHfJnmxX38QeUgV1oNsRuiHe00WebnY+9YzxZZFDyBw02U5kcQ1sYTPkQQqxbN8tjs0sVgMtzRZ6rxr2v++3ymgm3LBqm4u0sw8l48+HC8dLNHx8asBkNnLyUayO9XBe8hz57CtEv9q+RIi6H8VePNougMCzGfN8B+qh88qgKNoq5uPb4sndSNwnuXcLgzvb/62+hEh1HZSw5TsRr9qKk56WzKoXXX2uaI81jdkU820l89NgXZP6vpZjl0Ei3N84w=;zuls6TZ49PmrjFIC8jjowQ=="
+secured: "RFCzEwAx1is1wyLEUmx/bwjULofVjVxVjINZBzqCIMhllD/Dolb8Wv1cFRCGJLq1NP425YGP+2rKHHaWVbi9ltKDVMtT8CLCmb88FX0d64etX1sjKIWZ8/XDxMB/8UjzQV8FpX6YfI9+hYZFGWDERnaHe9VHN0CU3IYoYpsS0fkxhDT1HdY86e/bjljmYcN6mxvnmYiW33m/xczRdzifNHYdEOaMPQH4nbGiQJkQVSQipTN/AWS0ttuJvZoSZs0wBGC52Jd/axZaJUcKJvB31h0WYdKsbo/dtU22die/NxwgXYQ2N+C7s05C+PSk9VWnyo1uOqmDjLj7oMNbZRxDqkXTsOVBRSU0W52zaDYwaLAo3e8eDbLxckNDVMXUh2/AZACmfFHw38PKEEOUdg0r7B6LfBZFPs0O4vNaBGrGRqocC/yfPqn5pR/auc17oR5na+35pepyAWJk3VQXKmmbD0jxibxZycyPNaYdjGmfguNBRb+Dt/MMzk4DP797trFScKQ5TnllG2ENZQJ2SXGyOw==;K/AOAq6qtzG3A2pZ12hv0Q=="
 ---
 

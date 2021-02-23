@@ -271,22 +271,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Analysis: Republicans acquitted Trump again, but this time is different"
-    excerpt: "Former President Donald Trump's second acquittal by the US Senate proved the enduring power he holds over the Republican Party, with the results Saturday setting the dangerous precedent that even an autocratic leader who violates his oath of office can escape punishment if he bullies enough senators"
-    publishedDateTime: 2021-02-15T19:11:07Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kmdl4bQX1R4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/14/politics/donald-trump-impeachment-republican-vote/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/14/politics/donald-trump-impeachment-republican-vote/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210211173412-104-trump-impeachment-centered-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Read: House Democrats' draft of a new article of impeachment against Trump"
     excerpt: "House Democrats have circulated a draft of a new impeachment resolution against President Donald Trump with one article of impeachment, \"incitement of insurrection.\"\n    \n"
     publishedDateTime: 2021-01-08T20:37:32Z

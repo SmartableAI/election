@@ -29,17 +29,17 @@ images:
 related:
   - title: "Photos: Vice-President Kamala Harris selling San Francisco loft"
     excerpt: "Vice-President Kamala Harris is selling her SoMa loft in San Francisco for $799,000, reports the Wall Street Journal. Click here if viewing from a mobile device. Vice-President Kamala Harris is selling her SoMa loft in San Francisco."
-    publishedDateTime: 2021-02-22T18:08:00Z
-    webUrl: "https://www.mercurynews.com/2021/02/22/photos-vice-president-kamala-harris-selling-san-francisco-loft/"
-    ampWebUrl: "https://www.mercurynews.com/2021/02/22/photos-vice-president-kamala-harris-selling-san-francisco-loft/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/02/22/photos-vice-president-kamala-harris-selling-san-francisco-loft/amp/"
+    publishedDateTime: 2021-02-22T18:06:00Z
+    webUrl: "https://www.eastbaytimes.com/2021/02/22/photos-vice-president-kamala-harris-selling-san-francisco-loft/"
+    ampWebUrl: "https://www.eastbaytimes.com/2021/02/22/photos-vice-president-kamala-harris-selling-san-francisco-loft/amp/"
+    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2021/02/22/photos-vice-president-kamala-harris-selling-san-francisco-loft/amp/"
     type: article
     provider:
-      name: Mercury News
-      domain: mercurynews.com
+      name: East Bay Times
+      domain: eastbaytimes.com
     quality: 75
     images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2021/02/kam3.jpg?w=700&h=434"
+      - url: "https://www.eastbaytimes.com/wp-content/uploads/2021/02/kam3-1.jpg?w=700&h=434"
         width: 700
         height: 434
         isCached: true

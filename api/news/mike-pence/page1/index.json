@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-23-pence-and-trumps-relationship-is-amicable-source-says.md",
+      "title": "Pence and Trump's relationship is 'amicable,' source says",
+      "excerpt": "Former Vice President Mike Pence and former President Donald Trump have spoken twice since the inauguration last month, according to a knowledgeable source, who described the pair's relationship as \"amicable.\"\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t5M9omk1nYM/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t5M9omk1nYM/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 380,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210105215557-pence-trump-file-2019-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/22/politics/trump-pence-relationship/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/22/politics/trump-pence-relationship/index.html",
+      "publishedDateTime": "2021-02-22T19:56:29-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-02-21-pence-declined-cpac-invitation-source.md",
       "title": "Pence declined CPAC invitation: source",
       "excerpt": "Former Vice President Mike Pence has declined an invitation to attend this year's Conservative Political Action Conference, Fox News has learned.",
@@ -262,7 +319,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 1472,
+      "heat": 1412,
       "tags": null,
       "images": [
         {
@@ -1488,63 +1545,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-new-york-times-contributor-loses-think-tank-job-over-tweet-suggesting-biden-should-lynch-mike-pence.md",
-      "title": "New York Times contributor loses think tank job over tweet suggesting Biden should 'lynch Mike Pence'",
-      "excerpt": "A contributing opinion writer for The New York Times was fired from his think tank job Thursday over a tweet that jokingly suggested former Vice President Mike Pence be lynched in order to unify the country.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/will-wilkinson-lynch-mike-pence-niskanen-center-ny-times",
-      "originalUrl": "https://www.foxnews.com/media/will-wilkinson-lynch-mike-pence-niskanen-center-ny-times",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chamberlain-160.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/will-wilkinson-lynch-mike-pence-niskanen-center-ny-times.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/will-wilkinson-lynch-mike-pence-niskanen-center-ny-times.amp",
-      "publishedDateTime": "2021-01-21T16:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Republican Voice"
       ]
     }
   ],

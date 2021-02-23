@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Cruz opposes Xavier Becerra as 'absurd' Biden pick for HHS secretary: 'He's not a doctor'"
+    excerpt: "Attorney General nominee Merrick Garland repeatedly \"dodged\" questions from Republican senators during his confirmation hearing before the Senate Judiciary Committee, Sen. Ted Cruz, R-Texas, told \"Hannity\" Monday."
+    publishedDateTime: 2021-02-23T04:13:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ts_PjIFcvTM/cruz-opposes-biden-absurd-pick-for-hhs-xavier-becerra-hes-not-a-doctor"
+    ampWebUrl: "https://www.foxnews.com/politics/cruz-opposes-biden-absurd-pick-for-hhs-xavier-becerra-hes-not-a-doctor.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cruz-opposes-biden-absurd-pick-for-hhs-xavier-becerra-hes-not-a-doctor.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8bd54b59-efda-450f-ac9c-2f7f53926495/1d8ab2cb-01ff-40f7-9614-c89cbd108e6c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "h/ljd4M+ROHBv41Ty3b3j0yev+BTh3AuxQlYXEfiTd4NuPzfHA4Z0QEAARMFKQEeTYTBJfDI6iSn+yVnGg7hIXsKK5Wgu9ljoZskyj0zzgpkouCnfhDG3vB+Aq71+tAhu4PwmiesrSLRRactQ7eXThKYK3O10JZJyXpybZFmJ/4wnLevOLXlV5LRcTA3wklAymSYPPCTv6nGa2YPUlGj+r1g5VJjyPci23VpGs7qO++zcTlzk5aoD9DD784z5UEi7EwiN1w8dj4EJ8VcDwzveWtkWd0M+HdtzouyS+p3v69o1aLfzxh8/dWhh1tfJ+sRsCEDAfbeqE15c64jLVMSG/9Mu2+7N32T9jLdqACM6/w=;+X27wQh4U/pYIszcvZbKLg=="
 ---

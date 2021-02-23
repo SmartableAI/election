@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Supreme Court rejects Trump election challenge cases"
+    excerpt: "The Supreme Court has rejected a handful of cases related to the 2020 election, including disputes from Pennsylvania that had divided the justices just before the election"
+    publishedDateTime: 2021-02-23T04:09:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/high-court-formally-rejects-trump-election-challenge-cases-76045609"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/high-court-formally-rejects-trump-election-challenge-cases-76045609"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/high-court-formally-rejects-trump-election-challenge-cases-76045609"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_5eef2336894e47bbafa0831f4cca447f_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Donald Trump’s version of an insanity defense: His critics are insane"
     excerpt: "In the summer of 2015, two months after Donald Trump announced he was running for president, a blogger named Esther Goldberg read a Washington Post column by the conservative commentator George F. Will that accused Trump of being phony,"
     publishedDateTime: 2021-02-12T11:07:00Z

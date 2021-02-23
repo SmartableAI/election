@@ -332,7 +332,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates?page=with:block-603385838f088c613adceff6",
       "featuredContent": null,
       "highlight": null,
-      "heat": 907,
+      "heat": 927,
       "tags": null,
       "images": [
         {
@@ -808,63 +808,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-20-cruz-and-cuomo-face-scandal-trump-cant-save-them.md",
-      "title": "Cruz and Cuomo Face Scandal. Trump Can’t Save Them.",
-      "excerpt": "Without Donald Trump dominating the political conversation, politicians’ audacious behavior isn’t so quickly subsumed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/02/20/us/politics/cruz-cuomo-scandal.html",
-      "originalUrl": "https://www.nytimes.com/2021/02/20/us/politics/cruz-cuomo-scandal.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/02/21/us/politics/20onpolitics/20onpolitics-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/02/20/us/politics/cruz-cuomo-scandal.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/20/us/politics/cruz-cuomo-scandal.amp.html",
-      "publishedDateTime": "2021-02-20T02:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-02-20-democrats-beat-trump-in-2020-now-theyre-asking-what-went-wrong.md",
       "title": "Democrats Beat Trump in 2020. Now They’re Asking: What Went Wrong?",
       "excerpt": "Disappointed by down-ballot losses, Democratic interest groups are joining forces to conduct an autopsy of the election results. Republicans do not yet seem willing to reckon with the G.O.P.’s major defeats.",
@@ -930,7 +873,7 @@
       "originalUrl": "https://abcnews.go.com/Entertainment/wireStory/trump-repeats-election-claims-interviews-unchallenged-76002370",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1760,
+      "heat": 1780,
       "tags": null,
       "images": [
         {
@@ -1625,6 +1568,58 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-17-trump-calls-mcconnell-a-political-hack-as-gop-divide-deepens-post-impeachment.md",
+      "title": "Trump calls McConnell a ‘political hack’ as GOP divide deepens post-impeachment",
+      "excerpt": "Former President Donald Trump blistered Mitch McConnell as a “political hack,\" following McConnell’s speech calling Trump responsible Capitol riot.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-mcconnell-gop-divide-20210217-yttnnj67wreb3lraurreksn2jy-story.html",
+      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-mcconnell-gop-divide-20210217-yttnnj67wreb3lraurreksn2jy-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 361,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/5x5IAwrJKINXsdBlQ3wxPxkej6I=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/DLV5XFJ6IFHWHGX6UTLFBD2TL4.aspx",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-mcconnell-gop-divide-20210217-yttnnj67wreb3lraurreksn2jy-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-mcconnell-gop-divide-20210217-yttnnj67wreb3lraurreksn2jy-story.html?outputType=amp",
+      "publishedDateTime": "2021-02-16T16:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     }
   ],

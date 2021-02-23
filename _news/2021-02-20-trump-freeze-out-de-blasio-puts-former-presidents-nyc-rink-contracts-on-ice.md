@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "De Blasio admits NYC was too quick to close Trump-run ice rinks"
+    excerpt: "Mayor Bill De Blasio admitted on Monday that New York City acted too briskly when it shuttered Trump-operated ice skating rinks — only to later change course."
+    publishedDateTime: 2021-02-23T04:28:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RJbx29jR5EI/de-blasio-admits-nyc-was-too-quick-to-close-trump-run-ice-rinks"
+    ampWebUrl: "https://www.foxnews.com/politics/de-blasio-admits-nyc-was-too-quick-to-close-trump-run-ice-rinks.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/de-blasio-admits-nyc-was-too-quick-to-close-trump-run-ice-rinks.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c6c80283-5948-4ef7-a59f-0307ae70fdab/3a04bc22-426a-43bc-8909-147d6b835918/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump Plaza casino in Atlantic City to be demolished"
     excerpt: "The long-vacant Trump Plaza casino in Atlantic City, N.J., once a symbol of the glitz and glamor of the high-rolling lifestyle, was slated to be reduced to a pile of rubble on Wednesday."
     publishedDateTime: 2021-02-17T14:11:00Z

@@ -176,22 +176,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Supreme Court takes up Trump regulation on abortion counseling"
-    excerpt: "The Supreme Court on Monday agreed to hear a challenge to a Trump administration rule barring federally funded health care providers in the Title X family planning program from referring patients for abortions.\n    \n"
-    publishedDateTime: 2021-02-22T15:46:12Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BFsabscF6Yk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/22/politics/supreme-court-trump-abortion-counseling/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/22/politics/supreme-court-trump-abortion-counseling/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200629102812-01-scotus-abortion-protest-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "These GOP lawmakers are facing backlash from state parties for not backing Trump"
     excerpt: "State Republican parties are taking action against former President Donald Trump.\n    \n"
     publishedDateTime: 2021-02-15T16:14:38Z
@@ -253,6 +237,22 @@ related:
     quality: 161
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210214103249-lindsey-graham-0213-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Adam Kinzinger says he's glad family letter was released so Americans could see the real divides over Trump"
+    excerpt: "Republican Rep. Adam Kinzinger, who has made a name for himself within the party by speaking out against former President Donald Trump, said the country can learn from the rift his outspoken views have caused within his family.\n    \n"
+    publishedDateTime: 2021-02-23T03:52:55Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/u7zFBfO0FOw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/22/politics/adam-kinzinger-family-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/22/politics/adam-kinzinger-family-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 157
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210112182127-rep-adam-kinzinger-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -319,22 +319,6 @@ related:
       - url: "https://static.politico.com/d4/f4/59894d424c609506f8af3a8065fb/ap20121624457519-1.jpg"
         width: 1160
         height: 773
-        isCached: true
-  - title: "Here’s What’s Next in the Trump Taxes Investigation"
-    excerpt: "A Supreme Court ruling has paved the way for prosecutors to begin combing through Mr. Trump’s financial records."
-    publishedDateTime: 2021-02-22T19:12:00Z
-    webUrl: "https://www.nytimes.com/2021/02/22/nyregion/trump-taxes-cyrus-vance.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/22/nyregion/trump-taxes-cyrus-vance.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/22/nyregion/trump-taxes-cyrus-vance.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/01/25/nyregion/00NYVANCE/merlin_182604267_e4d70416-6012-4559-80c3-9022be5518cd-facebookJumbo.jpg"
-        width: 1050
-        height: 549
         isCached: true
   - title: "Supreme Court to review Trump curbs on abortion clinics, immigration"
     excerpt: "The court will take up the abortion \"gag rule\" and public charge policies, both of which Biden is expected to reverse."

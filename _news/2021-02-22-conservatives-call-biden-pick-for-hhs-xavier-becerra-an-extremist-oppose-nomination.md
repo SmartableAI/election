@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/conservatives-call-biden-pick-for-h
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/conservatives-call-biden-pick-for-hhs-xavier-becerra-an-extremist-oppose-nomination.amp"
 type: article
 quality: 167
-heat: 187
+heat: 207
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Cruz opposes Xavier Becerra as 'absurd' Biden pick for HHS secretary: 'He's not a doctor'"
+    excerpt: "Attorney General nominee Merrick Garland repeatedly \"dodged\" questions from Republican senators during his confirmation hearing before the Senate Judiciary Committee, Sen. Ted Cruz, R-Texas, told \"Hannity\" Monday."
+    publishedDateTime: 2021-02-23T04:13:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ts_PjIFcvTM/cruz-opposes-biden-absurd-pick-for-hhs-xavier-becerra-hes-not-a-doctor"
+    ampWebUrl: "https://www.foxnews.com/politics/cruz-opposes-biden-absurd-pick-for-hhs-xavier-becerra-hes-not-a-doctor.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cruz-opposes-biden-absurd-pick-for-hhs-xavier-becerra-hes-not-a-doctor.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8bd54b59-efda-450f-ac9c-2f7f53926495/1d8ab2cb-01ff-40f7-9614-c89cbd108e6c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden nominees Becerra, Gupta targeted by conservative groups with high-dollar ad campaign"
     excerpt: "A handful of conservative groups are aiming to block the confirmation of two of President Biden's most controversial nominees, using an ad campaign targeting lawmakers, their staff and their constituents. "
     publishedDateTime: 2021-02-18T18:23:50Z

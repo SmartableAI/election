@@ -45,6 +45,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Supreme Court rejects Trump election challenge cases"
+    excerpt: "The Supreme Court has rejected a handful of cases related to the 2020 election, including disputes from Pennsylvania that had divided the justices just before the election"
+    publishedDateTime: 2021-02-23T04:09:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/high-court-formally-rejects-trump-election-challenge-cases-76045609"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/high-court-formally-rejects-trump-election-challenge-cases-76045609"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/high-court-formally-rejects-trump-election-challenge-cases-76045609"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_5eef2336894e47bbafa0831f4cca447f_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Donald Trump versus Mitch McConnell: Tension could make 2022 election messy for Republicans"
     excerpt: "The divide between the former allies presents an uncomfortable possibility for Republicans and a delightful one for Democrats."
     publishedDateTime: 2021-02-18T14:10:00Z
@@ -1258,6 +1274,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "dDUho95zxdL/Xn1EZp4lreGQPAA0+EXoaAEfHQuazkKtrJYAA1biZ6jNemP71FnvWT0Df0SVqkkpj6XtBvnTqUaq6UxDlxQk0iijX86NXqVjX22YDTyFerZa7//KZiqOu/QkChrQmnaTRb1T26WRnVvCwKL8EMtL34wAOPoYJEguwhcpB2Bn4zrcDwpgP7nc0Wnb61fj06I2qsdG/PQ3LOIg6wbKTTpUaTdRtmj2/1q1gOE0D4VUCKirHMBz4N8hJxU8pdEfZ/QPVZhlUuUV3cmzzG+ppAb9Zx4Wc0mmZ6oeqqHWXpU7wnT+vqxqc+Yz9Sfh0wOO1oaVHGsLwtFBB7nBDsGmr02pPn6XIOXMAgI=;4RlZeFqrdFEWAMctfSZtyA=="
+secured: "E4t8iQ0QqR7fUiq8lynca8fqAeXVhEiT9wXScwtv06ouUcCvm362YrKIVywL2SzdexjxwHpXVwShC0u5giBFcTX4A6h/8+VGwoBJzh0OZs2BRsJvP7w7qM1kHDV2EJwIm7GF810m+GJe2U8X1FOiBrkL5/yM/nnCHXwvj6bAI2vHzaqF928THwkhEEtLrCI6Tr1Zqdx8djgxuU1icJwSO2E12CmgXNJfLr2tgsqBKOivmnRR91JsBivJLWihVDSIrI+LSsUpBVsEpypwFi0xtyy/HY9tnZuj+18K4cWted146C3CeVadgcGZDdPl3kS15CQWpMtLr5P0RkD+FRb4PuxlhW2nlNz2Xgun/idzsueumAuvKRFS4V+rCsBwN7HkD4eAEuIEVmTtlIu9GPP4Vo3UWIQyCWdj1laZwi9UnnOqg5JcLO1vcczzHtF1kj+NZ+3GKNipHK4yGPbnazwcXbIpZ7Mb0bDmSSe1OrUXkYaLVq4DQzxxSHreuXdrc9M7e3jONrPyf115EG1qFRjMpw==;zwobKUFzQ+8RWjPhHRyzWg=="
 ---
 

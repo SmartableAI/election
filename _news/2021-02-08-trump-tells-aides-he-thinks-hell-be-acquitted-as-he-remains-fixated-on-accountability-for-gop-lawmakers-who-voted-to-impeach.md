@@ -47,22 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump to speak at CPAC in first public appearance since leaving White House"
-    excerpt: "Former President Donald Trump will speak at the Conservative Political Action Conference in Orlando, Florida, next Sunday, according to a source familiar with the matter.\n    \n"
-    publishedDateTime: 2021-02-20T22:11:08Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/of9FKdF296c/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/20/politics/trump-cpac-republican-party/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/20/politics/trump-cpac-republican-party/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 173
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210211185115-donald-trump-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "READ: Democrat's lawsuit against Donald Trump over US Capitol attack"
     excerpt: "Former President Donald Trump and attorney Rudy Giuliani are being accused of conspiring with the far-right groups Proud Boys and Oath Keepers to incite the January 6 insurrection in a civil lawsuit filed Tuesday in federal court by the Democratic chairman of the House Homeland Security Committee and backed by the NAACP."
     publishedDateTime: 2021-02-16T15:26:00Z
@@ -78,22 +62,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201120165627-giuliani-trump-file-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "The Relationship Between McConnell and Trump Was Good for Both — Until It Wasn’t"
-    excerpt: "The unlikely alliance delivered results they both wanted but fell apart after the election once their political interests diverged."
-    publishedDateTime: 2021-02-19T23:06:00Z
-    webUrl: "https://www.nytimes.com/2021/02/19/us/trump-mcconnell-republicans.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/19/us/trump-mcconnell-republicans.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/19/us/trump-mcconnell-republicans.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 130
-    images:
-      - url: "https://static01.nyt.com/images/2021/02/19/us/politics/19dc-hulse/19dc-hulse-facebookJumbo.jpg"
-        width: 1050
-        height: 550
         isCached: true
   - title: "Johnson: McConnell doesn't 'speak for the conference' on Trump's culpability for riot"
     excerpt: "In remarks on the Senate floor, the minority leader called Trump \"practically and morally responsible\" for the riot."

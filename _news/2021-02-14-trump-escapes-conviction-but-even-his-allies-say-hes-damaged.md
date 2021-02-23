@@ -778,22 +778,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Trump admin a cautionary tale of nepotism for future generations"
-    excerpt: "Rachel Maddow highlights Donald Trump's tendency to hire people he knows or is related to for White House jobs, and the conflict that creates, particularly in the case of Ivanka Trump and Jared Kushner who continue in senior White House roles despite being unable to to earn a full security clearance."
-    publishedDateTime: 2021-02-15T09:32:00Z
-    webUrl: "https://www.nbcnews.com/video/trump-admin-a-cautionary-tale-of-nepotism-for-future-generations-1171297859780"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo44286533637"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo44286533637"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media1.s-nbcnews.com/i/MSNBC/Components/Video/201802/n_maddow_a2nepotism_180226_1920x1080.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Why Seven Republican Senators Voted to Convict Trump"
     excerpt: "The Republicans who broke with their party to find Donald J. Trump guilty were an eclectic group, bound by their shared lack of concern about retribution from the former president or his followers."
     publishedDateTime: 2021-02-14T23:57:00Z
@@ -807,22 +791,6 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2021/02/14/us/politics/14dc-defectors1/14dc-defectors1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Trump Tower’s Neighbors Are Relieved as Barricades Come Down"
-    excerpt: "Donald J. Trump’s presidency meant snarled traffic, blocked sidewalks and frequent protests outside his Manhattan home."
-    publishedDateTime: 2021-02-16T10:00:00Z
-    webUrl: "https://www.nytimes.com/2021/02/16/nyregion/trump-tower-traffic.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/16/nyregion/trump-tower-traffic.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/16/nyregion/trump-tower-traffic.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/02/15/nyregion/00nytrump-tower1/00nytrump-tower1-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true
@@ -873,22 +841,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200204220157-29-sotu-2020-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Donor to Trump Inauguration Sentenced to 12 Years in Federal Inquiry"
-    excerpt: "Imaad Zuberi, who donated heavily to Democrats before former President Donald J. Trump’s election, had pleaded guilty to charges related to a $900,000 donation to Mr. Trump’s inaugural committee."
-    publishedDateTime: 2021-02-19T18:50:00Z
-    webUrl: "https://www.nytimes.com/2021/02/19/us/politics/imaad-zuberi-sentence.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/19/us/politics/imaad-zuberi-sentence.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/19/us/politics/imaad-zuberi-sentence.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/02/19/world/19new-washingtong-briefing-Imaad-Zuberi-1/19new-washingtong-briefing-Imaad-Zuberi-1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
         isCached: true
   - title: "Impeachment Case Aims to Marshal Outrage of Capitol Attack Against Trump"
     excerpt: "Armed with lessons from the last impeachment trial of Donald J. Trump, prosecutors plan a shorter, video-heavy presentation to confront Republicans with the fury they felt around the Capitol riot."

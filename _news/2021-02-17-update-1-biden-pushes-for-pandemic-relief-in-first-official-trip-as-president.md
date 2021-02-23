@@ -367,6 +367,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Joe Biden to hold memorial as US nears 500,000 Covid deaths"
+    excerpt: "Where Donald Trump suggested the death toll might reach 60,000 now experts fear it could rival those lost to the 1918 flu pandemic"
+    publishedDateTime: 2021-02-22T22:05:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/feb/22/biden-covid-deaths-memorial"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/22/biden-covid-deaths-memorial"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/22/biden-covid-deaths-memorial"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/17579c6ae0580656167f791cc0ee2ccce491add0/0_188_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=225c145634d90fdd429b3d4468ec9146"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Texas storm: Biden to declare major disaster to secure federal aid – live"
     excerpt: "Biden says declaration could be signed this afternoon and would open up aid for immediate and long-term recovery efforts – follow all the latest news"
     publishedDateTime: 2021-02-19T23:18:00Z

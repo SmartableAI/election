@@ -2,26 +2,26 @@
 category: news
 title: "Photos: Vice-President Kamala Harris selling San Francisco loft"
 excerpt: "Vice-President Kamala Harris is selling her SoMa loft in San Francisco for $799,000, reports the Wall Street Journal. Click here if viewing from a mobile device. Vice-President Kamala Harris is selling her SoMa loft in San Francisco."
-publishedDateTime: 2021-02-22T18:08:00Z
-originalUrl: "https://www.mercurynews.com/2021/02/22/photos-vice-president-kamala-harris-selling-san-francisco-loft/"
-webUrl: "https://www.mercurynews.com/2021/02/22/photos-vice-president-kamala-harris-selling-san-francisco-loft/"
-ampWebUrl: "https://www.mercurynews.com/2021/02/22/photos-vice-president-kamala-harris-selling-san-francisco-loft/amp/"
-cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/02/22/photos-vice-president-kamala-harris-selling-san-francisco-loft/amp/"
+publishedDateTime: 2021-02-22T18:06:00Z
+originalUrl: "https://www.eastbaytimes.com/2021/02/22/photos-vice-president-kamala-harris-selling-san-francisco-loft/"
+webUrl: "https://www.eastbaytimes.com/2021/02/22/photos-vice-president-kamala-harris-selling-san-francisco-loft/"
+ampWebUrl: "https://www.eastbaytimes.com/2021/02/22/photos-vice-president-kamala-harris-selling-san-francisco-loft/amp/"
+cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2021/02/22/photos-vice-president-kamala-harris-selling-san-francisco-loft/amp/"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Mercury News
-  domain: mercurynews.com
+  name: East Bay Times
+  domain: eastbaytimes.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.mercurynews.com/wp-content/uploads/2021/02/kam3.jpg?w=700&h=434"
+  - url: "https://www.eastbaytimes.com/wp-content/uploads/2021/02/kam3-1.jpg?w=700&h=434"
     width: 700
     height: 434
     isCached: true
@@ -108,6 +108,6 @@ related:
         height: 336
         isCached: true
 
-secured: "bDp+ZtntPfnRL/DUxC8QIqOlM3ZDWag0olp+nRfQXADyDqFmrJYjU92NngROcq8nMgZGZ+L3mhwNMg88FbDj5iE9iR1jj0vwLZ3PF0PVwBJndht3I0WMwgsrhUec/GoUEmMYYgnTwQvvmxeS8DrX8JH/Meail0PVhv0npdT6e8yqX5jBixu+iJAS82YCrRnbB3JtV80h6BpBvsmEXbxbxM0pbGhUhGV4+OhcQH2D9+YPQSQQqzzMTkqjym7AIfLKv+9sjB93iHDXkd7kzLzU/YWdvRUjVfoKP+xqnKbUCFaNpOIjFdUtsrhRsVni+MBaDjetO7fKWSTatHx6PZgem3BuAWa01Ht1tJNYu+VellG6qH/h44tjOnmSQDDAV44fWAAAmAmZsF0KqQ9AV3W8uxUQyFUz9V1I75VojEgZc9H6qKbJxlqnE+cKtpA9rI8I1L919234JO7RrEAH6gjnbuDTTnNt3vsv1RFJ7cB59/MyLMR3ujF4t8nKJISS1CgF3cVIjDQs8CWn4pkxo/Wm7Q==;Ex4MCBnBgfF/aZPFlNd51g=="
+secured: "W6Qq/f+XgTHfg78OW3DQjQjRODsVodrUm3A7+N02lHrF+VbA3bK6iQHUgnhQa2BzImz3o7+/TSh8DNYmJRuFCg2bjzGEoBW7cR1a2g4KA9oAMwZcFqW8Y3jdWpaeMf6Sjo3agup8lUZ3/BDAh3u5fIjE9nLvWpyZ96+yVsONAtrH9uapl21Y3ane5+at2c3Q1AlJe14IelhdQtRFxPAs5kwja2oM5Ns2gOgy10w1u0Uxoopu2kGhES6MeSiKckjDR8S/Jot0da1dKxptZhWmGQSzgT/pkQnZSv+EfK5EhnU3zUNiwbgmWV2lkwvPpR1lJUWk0LIr9jciYZK9e0RCA5a6hKyDJl39U9S28vhV3Bw=;pJ6eLMEgHpRnw+/45XW/fw=="
 ---
 
