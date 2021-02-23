@@ -2,11 +2,13 @@
 category: news
 title: "Supreme Court to review Trump curbs on abortion clinics, immigration"
 excerpt: "The court will take up the abortion \"gag rule\" and public charge policies, both of which Biden is expected to reverse."
-publishedDateTime: 2021-02-22T19:00:00Z
-originalUrl: "https://www.politico.com/states/california/story/2021/02/22/supreme-court-to-review-trump-curbs-on-abortion-clinics-immigration-1364792"
-webUrl: "https://www.politico.com/states/california/story/2021/02/22/supreme-court-to-review-trump-curbs-on-abortion-clinics-immigration-1364792"
+publishedDateTime: 2021-02-23T00:18:00Z
+originalUrl: "https://www.politico.com/news/2021/02/22/supreme-court-trump-abortion-immigration-470832"
+webUrl: "https://www.politico.com/news/2021/02/22/supreme-court-trump-abortion-immigration-470832"
+ampWebUrl: "https://www.politico.com/amp/news/2021/02/22/supreme-court-trump-abortion-immigration-470832"
+cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/02/22/supreme-court-trump-abortion-immigration-470832"
 type: article
-quality: 115
+quality: 135
 heat: -1
 published: false
 
@@ -379,6 +381,6 @@ related:
         height: 773
         isCached: true
 
-secured: "1vJTJaKAA4st7d30GCy1L3MhlFEI6KcWgII6VpaKwCYDTNgQxwVuSLc/oPdOtqfLVDOhxm+JXKFiaRCMXELeBeOseY2kh47LNE+aRqtbqyV8BrzKV3cFlXl+YiU6SVtcS5dvgKWV038CNnnOhPqq6k5+TBeP22trtz7FsHCPeARfp3FdtMqeQXn8VDWWNxTV+BKs5fkZz2fqE9P0eCkPPD1ykFWQUxWaNlsw3xbsk7cVfIHrT91ThAt/u/ZZAtKCMMiDzpEjGUY0t0Wk7PCeQNE4cZ9k6jq5lyOysNbMmI5yJQm5Zm1M5x821hZCgQF+zD1+aN+Q3LDRYznRGGuLRs64M5wWuk+JJRUWMl314Dk=;L3HwgwkVOu3FjZibuWHOjQ=="
+secured: "N3pI5DG/v3cV4f4gJw60Tiw6eVPT2xiTlQ5YiXhMca8fecofkQomxElQA0wW3Jx9qZ6+7TgBbmAW0pb7p67luGF/v7FsUb5OSLA9FKVTKLQ682LI27Cf935uh81afhIwVtANFIRh0pu0eG9qZbX/93lGk1g0kKBBi6o2JXJHv1YlOMPJzISGGa3Ligd3HuU7CZU4AohpOUPj01rkIQw6PxYaGY3j4GLgJelh9cEKd3rzokB3j6VaZ5+uAkSn8zGsxGv9YqNiBFvj2AemithqhgSeaIgSYYVdQ+kVOsMQOeuFo7XKfqTqDKDSy8DKXK8cyaFM9VB1nK2rpQ+0X+OJ18DtsWF80jJ6bFztLw4tYRk=;vjEtMiiNFVF1TV1YGvLM3Q=="
 ---
 

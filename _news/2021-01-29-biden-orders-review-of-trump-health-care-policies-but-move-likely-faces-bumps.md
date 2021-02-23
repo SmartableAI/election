@@ -96,22 +96,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden to issue new immigration orders as part of push to roll back Trump-era policies"
-    excerpt: "President Biden on Tuesday will sign three executive orders on illegal and legal immigration -- as part of an aggressive push in the early days of his presidency to roll back many of his predecessor’s policies."
-    publishedDateTime: 2021-02-02T14:07:13Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6r006QvMSJg/biden-immigration-orders-trump-era-policies"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-immigration-orders-trump-era-policies.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-immigration-orders-trump-era-policies.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 183
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6423eb4b-2774-420f-84fe-d9dfac3316b6/5db3f176-689a-4bd2-99ce-1b4d762459d8/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Live Updates: Biden relaxes some immigration policies bolstered under the Trump administration"
     excerpt: "CBP said it began taking COVID-19 precautions back in March 2020, around the beginning of the pandemic."
     publishedDateTime: 2021-02-03T05:04:26Z
@@ -125,22 +109,6 @@ related:
     quality: 178
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/88d7f226-3bc5-4dd8-a9c0-7c26ed7a83bc/80764ff6-b759-4d35-baa8-f7a14e3bdd73/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Supreme Court cancels arguments over Trump-era immigration policies at Biden administration's request"
-    excerpt: "The Supreme Court on Wednesday agreed to a request by the Biden administration to remove two immigration-related cases from its upcoming calendar because they were no longer necessary due to policy changes by the new administration."
-    publishedDateTime: 2021-02-03T15:42:46Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Anwo0UQuhJA/supreme-court-trump-immigration-policies-biden"
-    ampWebUrl: "https://www.foxnews.com/politics/supreme-court-trump-immigration-policies-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supreme-court-trump-immigration-policies-biden.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cb6d4032-a134-4973-b53c-6a6612d09ffa/faea1385-1f73-4465-b5ed-6b5f5c4743ad/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -256,22 +224,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Biden will keep Trump letter private, White House says"
-    excerpt: "President Biden will keep the letter former President Donald Trump left for him in the Oval Office private, White House press secretary Jen Psaki said Friday. Biden also has no"
-    publishedDateTime: 2021-01-29T20:13:00Z
-    webUrl: "https://nypost.com/2021/01/29/biden-will-keep-trump-letter-private-white-house-says/"
-    ampWebUrl: "https://nypost.com/2021/01/29/biden-will-keep-trump-letter-private-white-house-says/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/29/biden-will-keep-trump-letter-private-white-house-says/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 150
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/biden-trump-letter-e1611950822303.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Biden Keeps Aluminum Tariffs on UAE, Reversing Trump Policy"
     excerpt: "The exemption to the UAE would have gone into effect Feb. 3, but Monday night President Biden blocked it."
     publishedDateTime: 2021-02-02T01:49:00Z
@@ -333,22 +285,6 @@ related:
     quality: 146
     images:
       - url: "https://images.wsj.net/im-295990/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Biden Plan to Order Review of Trump Health-Care Policies Likely to Face Speed Bumps"
-    excerpt: "President Biden is set to sign executive orders directing the government to re-examine Trump-era health-care policies, which could lead to the unraveling of initiatives like Medicaid work requirements and short-term health plans."
-    publishedDateTime: 2021-01-28T15:30:00Z
-    webUrl: "https://www.wsj.com/articles/biden-plan-to-order-review-of-trump-health-care-policies-likely-to-face-speed-bumps-11611829809?mod=hp_lead_pos6"
-    ampWebUrl: "https://www.wsj.com/amp/articles/biden-plan-to-order-review-of-trump-health-care-policies-likely-to-face-speed-bumps-11611829809"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-plan-to-order-review-of-trump-health-care-policies-likely-to-face-speed-bumps-11611829809"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 144
-    images:
-      - url: "https://images.wsj.net/im-291590/social"
         width: 1280
         height: 640
         isCached: true

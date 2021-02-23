@@ -383,6 +383,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Joe Biden addresses nation as US passes 500,000 coronavirus deaths – live"
+    excerpt: "I know what it’s like’"
+    publishedDateTime: 2021-02-22T22:12:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates?page=with:block-6034355a8f08614ccf103960"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 124
+    images:
+      - url: "https://i.guim.co.uk/img/media/6857911a6bb4c3291e82fb3183002181fc7d0fc5/0_269_5443_3266/master/5443.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=64f476420fa5563ee7ddd942157d6fea"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Biden's 1st 100 days live updates: WH offers no timeline for return to normalcy"
     excerpt: "Biden's trip to Kalamazoo, Michigan, has been rescheduled to Friday. The visit -- in addition to his Tuesday town hall in Milwaukee -- will give Biden an opportunity to make his case for COVID-19 relief to every day Americans since taking office."
     publishedDateTime: 2021-02-18T07:58:00Z

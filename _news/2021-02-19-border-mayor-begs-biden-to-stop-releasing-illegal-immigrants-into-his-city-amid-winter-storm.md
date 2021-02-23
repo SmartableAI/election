@@ -127,22 +127,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Thinking about 2024? Biden’s first trips as president are to two battleground states"
-    excerpt: "President Biden’s hitting the road again – getting out of Washington for the second time this week as he makes the case for his top priority in the early days of his administration – a $1.9 trillion COVID relief package."
-    publishedDateTime: 2021-02-19T23:15:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FPQiQhnae-M/already-thinking-about-2024-bidens-first-two-trips-as-president-are-to-two-crucial-battleground-states"
-    ampWebUrl: "https://www.foxnews.com/politics/already-thinking-about-2024-bidens-first-two-trips-as-president-are-to-two-crucial-battleground-states.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/already-thinking-about-2024-bidens-first-two-trips-as-president-are-to-two-crucial-battleground-states.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Former Texas sheriff: US ‘basically reopening the border’ to illegal immigrants with Biden agenda"
     excerpt: "The Biden administration's immigration policies amount to \"reopening the border\" to illegal aliens and creating the conditions for an illegal immigration spike, a retired Texas sheriff warned on \"Fox & Friends\" Tuesday."
     publishedDateTime: 2021-02-16T20:09:19Z

@@ -48,22 +48,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden says once he defeats COVID, cancer is next"
-    excerpt: "President Biden said Friday that ending cancer will be his next big scientific endeavor after overcoming the coronavirus pandemic. "
-    publishedDateTime: 2021-02-19T22:28:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BdI0wFSSHOM/curing-cancer-up-next-for-biden-after-defeating-coronavirus"
-    ampWebUrl: "https://www.foxnews.com/politics/curing-cancer-up-next-for-biden-after-defeating-coronavirus.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/curing-cancer-up-next-for-biden-after-defeating-coronavirus.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Biden-Michigan-AP.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Biden administration created new border crisis 'out of whole cloth' : Chad Wolf"
     excerpt: "The Biden administration is created a \"border crisis\" in Texas with their immigration policies, former Acting DHS Secretary Chad Wolf said on Friday."
     publishedDateTime: 2021-02-19T14:34:28Z

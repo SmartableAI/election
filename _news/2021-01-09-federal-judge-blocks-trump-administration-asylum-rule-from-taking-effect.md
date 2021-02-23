@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "In one morning, the Supreme Court looked to rid itself of the Trump era"
+    excerpt: "Donald Trump took a drubbing at the Supreme Court on Monday, as the justices in a flurry of orders dealt critical blows to his efforts to shield his tax records from a New York prosecutor and his oft-repeated false claims that there was widespread voter fraud during the last election.\n    \n"
+    publishedDateTime: 2021-02-23T00:49:40Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zWO8MaEjn7A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/22/politics/supreme-court-trump-election-taxes-stormy-daniels/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/22/politics/supreme-court-trump-election-taxes-stormy-daniels/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210209191515-donald-trump-juicio-politico-violencia-capitolio-presidente-eeuu-gobierno-senado-aristegui-mexico-roberto-izurieta-republicanos-democratas-00002909-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "DC attorney general weighs legal viability of charging Trump under local statute "
     excerpt: "Lawyers inside the Washington, DC attorney general's office are working to determine if it is legally viable to use district statutes to charge former President Donald Trump for his alleged role in the insurrection.\n    \n"
     publishedDateTime: 2021-02-12T20:40:33Z

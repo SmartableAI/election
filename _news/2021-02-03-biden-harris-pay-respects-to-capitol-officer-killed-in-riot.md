@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/capitol-police-of
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/capitol-police-officer-who-died-after-riot-to-lie-in-honor/2021/02/02/8f908fb8-65b8-11eb-bab8-707f8769d785_story.html?outputType=amp"
 type: article
 quality: 150
-heat: 2090
+heat: 2110
 published: true
 
 provider:
@@ -63,6 +63,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/47b0b5181453cc4d3e2d0a983c82b67fc2f8ea46/0_44_5814_3488/master/5814.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=93e2b331646d8aacc4e42d48cc2a33d7"
         width: 600
         height: 360
+        isCached: true
+  - title: "Biden's 1st 100 days live updates: Biden, Harris honor 500K who died of COVID-19"
+    excerpt: "Live updates of Judge Merrick Garland's confirmation hearing to be attorney general before the Senate Judiciary Committee."
+    publishedDateTime: 2021-02-23T00:02:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/joe-biden-kamala-harris-white-house-administration/?id=76030510"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/joe-biden-kamala-harris-white-house-administration/?id=76030510"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/joe-biden-kamala-harris-white-house-administration/?id=76030510"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 145
+    images:
+      - url: "https://s.abcnews.com/images/US/covid-milestone-03-gty-jc-2102222_1614035170471_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 899
         isCached: true
   - title: "Biden and Harris to meet Republican senators to push for Covid aid package – live updates"
     excerpt: "lawmakers have offered across the aisle agreement on a much-reduced economic package"

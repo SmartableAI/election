@@ -47,22 +47,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Calls to impeach Trump gain momentum, Republicans ask Biden to intervene"
-    excerpt: "Congressional calls for the impeachment of President Trump are gaining traction on both sides of the aisle, as lawmakers announced Saturday that impeachment would be introduced in the House Monday."
-    publishedDateTime: 2021-01-10T02:28:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vIg8l3_7HZY/calls-impeach-trump-momentum-biden-intervene"
-    ampWebUrl: "https://www.foxnews.com/politics/calls-impeach-trump-momentum-biden-intervene.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/calls-impeach-trump-momentum-biden-intervene.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 189
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c7703f1c-319b-4a2c-a02c-e47f026d164a/62286249-5c96-4c92-828a-d41b31614674/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "House committee meeting gets heated when Rep. Perlmutter asks Rep. Jordan if Biden won election"
     excerpt: "The tension was high Tuesday afternoon when the House Rules Committee met to debate a resolution calling for Vice President Mike Pence to convene the cabinet and invoke the 25th Amendment to remove President Trump from office before his term ends next week."
     publishedDateTime: 2021-01-12T19:41:19Z

@@ -47,22 +47,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Garland says he has not discussed the Hunter Biden case with the president"
-    excerpt: "Judge Merrick Garland on Monday said he has not discussed the federal investigation into Hunter Biden’s tax affairs with President Biden."
-    publishedDateTime: 2021-02-22T16:15:30Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/E_QcYkPWkWo/garland-says-he-has-not-discussed-the-hunter-biden-case-with-the-president"
-    ampWebUrl: "https://www.foxnews.com/politics/garland-says-he-has-not-discussed-the-hunter-biden-case-with-the-president.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/garland-says-he-has-not-discussed-the-hunter-biden-case-with-the-president.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Biden's positive poll numbers on combating COVID nosedive over school reopenings"
     excerpt: "Fifty-eight percent of Americans approve of the job President Biden’s doing handling the federal government’s response to the coronavirus pandemic. But the same survey from Quinnipiac University also shows that when it comes to the president’s handling of the reopening of schools amid the COVID crisis,"
     publishedDateTime: 2021-02-18T03:19:17Z
@@ -78,22 +62,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Collins opposes Tanden for Biden budget director, in another blow to confirmation"
-    excerpt: "Sen. Susan Collins, R-Me., said Monday that she will not support President Biden's nominee to lead the Office of Management and Budget, Neera Tanden, dealing another blow to the odds of confirmation."
-    publishedDateTime: 2021-02-22T12:17:08Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RxZajsm5fQk/susan-collins-opposes-neera-tanden-biden-budget-director"
-    ampWebUrl: "https://www.foxnews.com/politics/susan-collins-opposes-neera-tanden-biden-budget-director.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/susan-collins-opposes-neera-tanden-biden-budget-director.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21041644409078.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
         isCached: true
   - title: "Merrick Garland to be questioned on Cuomo, Hunter Biden and more at AG confirmation hearing"
     excerpt: "Judge Merrick Garland, President Biden's pick to be the next attorney general of the United States, is likely to be grilled by Senate Republicans Monday on hot-button issues, including the Cuomo nursing home scandal, concerns about Hunter Biden and more. "

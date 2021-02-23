@@ -63,22 +63,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "NC GOP expected to censure Sen. Burr over Trump impeachment vote"
-    excerpt: "The North Carolina GOP Central Committee is expected to censure Sen. Richard Burr, R-N.C., on Monday night over his impeachment vote — making him the latest Republican to face home state backlash after breaking with former President Donald Trump."
-    publishedDateTime: 2021-02-15T17:18:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-dSgHnncL3Y/nc-gop-censure-richard-burr-impeachment-trump"
-    ampWebUrl: "https://www.foxnews.com/politics/nc-gop-censure-richard-burr-impeachment-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nc-gop-censure-richard-burr-impeachment-trump.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/05/640/320/Richard-Burr-2.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Trump trashes Mitch McConnell in searing new statement"
     excerpt: "Former President Trump released a scathing statement Tuesday afternoon targeting Senate Minority leader Mitch McConnell. "
     publishedDateTime: 2021-02-16T22:06:45Z
@@ -222,22 +206,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c6e47dd9-961d-4e8f-aecb-65b9d3667835/0afb7e7e-f5e0-482d-a0d1-73f67d8bcd30/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Pro-Trump Candidates Launch Early Senate, Governor Bids"
-    excerpt: "Republican hopefuls are betting that former President Donald Trump’s enduring popularity with the GOP base can help propel them into office."
-    publishedDateTime: 2021-02-15T10:35:00Z
-    webUrl: "https://www.wsj.com/articles/pro-trump-candidates-launch-early-senate-governor-bids-11613385001"
-    ampWebUrl: "https://www.wsj.com/amp/articles/pro-trump-candidates-launch-early-senate-governor-bids-11613385001"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pro-trump-candidates-launch-early-senate-governor-bids-11613385001"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-299053/social"
-        width: 1280
-        height: 640
         isCached: true
   - title: "State GOP may censure Sen. Richard Burr over Trump vote"
     excerpt: "The North Carolina Republican Party is saying it will vote later Monday on whether to censure GOP Sen. Richard Burr for voting to convict former President Donald Trump at his Senate impeachment"

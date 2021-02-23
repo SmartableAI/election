@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/kamala-harris-biden-starting-from-sc
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kamala-harris-biden-starting-from-scratch-covid-19-after-trump-2021-2?amp"
 type: article
 quality: 147
-heat: 1027
+heat: 1047
 published: true
 
 provider:
@@ -319,6 +319,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JCLOPBTBAAI6XL56TII2CJ6RIY.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "From Trump to Hunter Biden, a lot hangs over Merrick Garland's Senate confirmation hearing"
+    excerpt: "Attorney general nominee Merrick Garland's confirmation hearing Monday could touch on whether Trump will be prosecuted. Also, Hunter Biden. And domestic terrorists. And"
+    publishedDateTime: 2021-02-23T00:16:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/21/attorney-general-hearing-merrick-garland-trump-too/6781444002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6781444002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6781444002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 130
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/07/PWIL/96e8a4bd-3ce7-47eb-9d88-bd48f12a07af-AP21007698149548.jpg?auto=webp&crop=5771,3247,x0,y577&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Drawing contrast with Trump, Biden promises U.S. allies a partnership that's not transactional"
     excerpt: "U.S. President Joe Biden on Friday drew a sharp contrast with the foreign policy of his much-derided predecessor, Donald Trump, vowing to end transactional diplomacy and promote democracy over autocracies."

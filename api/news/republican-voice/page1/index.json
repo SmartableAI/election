@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-23-biden-asks-high-court-to-drop-two-trump-era-medicaid-cases.md",
+      "title": "Biden asks high court to drop two Trump-era Medicaid cases",
+      "excerpt": "The Biden administration is asking the Supreme Court not to hear arguments in two cases on its March calendar about the Trump administration’s plan to remake Medicaid by requiring recipients to work.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ahVUFV-CKqk/biden-asks-high-court-to-drop-2-trump-era-medicaid-cases",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ahVUFV-CKqk/biden-asks-high-court-to-drop-2-trump-era-medicaid-cases",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 670,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/57f5b05c-257c-4354-b4ec-c0866da7df55/67ddcd06-3761-4012-843a-7a4daabe5365/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-asks-high-court-to-drop-2-trump-era-medicaid-cases.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-asks-high-court-to-drop-2-trump-era-medicaid-cases.amp",
+      "publishedDateTime": "2021-02-22T16:29:05-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-22-john-kerry-colluded-with-iran-to-undermine-trump-report-says.md",
       "title": "John Kerry 'colluded' with Iran to undermine Trump, report says",
       "excerpt": "Biden administration officials, including John Kerry and Robert Malley, had meetings with Iranian Foreign Minister Javad Zarif during the Trump administration that were orchestrated to undermine President Biden's predecessor, a new report claims.",
@@ -31,6 +87,62 @@
       "ampWebUrl": "https://www.foxnews.com/politics/john-kerry-iran-trump-biden-washington-times.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/john-kerry-iran-trump-biden-washington-times.amp",
       "publishedDateTime": "2021-02-22T12:09:48-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-22-trump-supreme-court-tax-return-decision-a-continuation-of-the-greatest-political-witch-hunt.md",
+      "title": "Trump: Supreme Court tax return decision a ‘continuation of the greatest political witch hunt’",
+      "excerpt": "Former President Trump on Monday slammed the Supreme Court for declining to halt the turnover of his tax records to a New York prosecutor, calling it “a continuation of the greatest political Witch Hunt in the history of our Country.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/53AsKTg2ffI/trump-reacts-to-supreme-court-tax-return-decision-claims-continuation-of-the-greatest-political-witch-hunt",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/53AsKTg2ffI/trump-reacts-to-supreme-court-tax-return-decision-claims-continuation-of-the-greatest-political-witch-hunt",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 223,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-reacts-to-supreme-court-tax-return-decision-claims-continuation-of-the-greatest-political-witch-hunt.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-reacts-to-supreme-court-tax-return-decision-claims-continuation-of-the-greatest-political-witch-hunt.amp",
+      "publishedDateTime": "2021-02-22T12:01:49-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -126,7 +238,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 175,
+      "heat": 195,
       "tags": null,
       "images": [
         {
@@ -283,25 +395,25 @@
       ]
     },
     {
-      "path": "_news/2021-02-22-supreme-court-wont-halt-turnover-of-trumps-tax-records.md",
-      "title": "Supreme Court won't halt turnover of Trump's tax records",
-      "excerpt": "In a significant defeat for former President Donald Trump, the Supreme Court on Monday declined to step in to halt the turnover of his tax records to a New York prosecutor.",
+      "path": "_news/2021-02-22-rep-biggs-urges-biden-to-keep-to-timeline-for-us-withdrawal-from-afghanistan.md",
+      "title": "Rep. Biggs urges Biden to keep to timeline for US withdrawal from Afghanistan",
+      "excerpt": "Rep. Andy Biggs, R-Ariz., on Monday urged President Biden to keep to the current timeline for withdrawal from Afghanistan, warning that any delay could lead to a \"slippery slope.\"",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/k9h0kCHyP8U/supreme-court-trump-tax-records",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/k9h0kCHyP8U/supreme-court-trump-tax-records",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oX-Ef91_nPs/biggs-biden-timeline-withdrawal-afghanistan",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oX-Ef91_nPs/biggs-biden-timeline-withdrawal-afghanistan",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 275,
+      "heat": 172,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21037154950134.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1a7b903e-cc4e-4409-881b-9423960d9b52/94fa5bc2-c641-45fa-bead-1029cfadffec/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -309,9 +421,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/supreme-court-trump-tax-records.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supreme-court-trump-tax-records.amp",
-      "publishedDateTime": "2021-02-22T07:01:37-08:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/biggs-biden-timeline-withdrawal-afghanistan.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biggs-biden-timeline-withdrawal-afghanistan.amp",
+      "publishedDateTime": "2021-02-22T07:33:53-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -577,7 +689,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 192,
+      "heat": 212,
       "tags": null,
       "images": [
         {
@@ -677,62 +789,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-20-republicans-slam-bidens-move-to-drop-iran-sanctions-push.md",
-      "title": "Republicans slam Biden's move to drop Iran sanctions push",
-      "excerpt": "Republicans are criticizing President Biden’s move to give up on a Trump-era push to reimpose United Nations sanctions on Iran, as the administration takes a warmer tone toward Tehran.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/q-59mCMXHkM/republicans-bidens-move-iran-sanctions-push",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/q-59mCMXHkM/republicans-bidens-move-iran-sanctions-push",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 435,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/73890ca3-5697-4aa9-af7c-57fc0b3d00aa/99dc6f9c-1665-4bbb-9566-91c08c604cd7/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/republicans-bidens-move-iran-sanctions-push.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-bidens-move-iran-sanctions-push.amp",
-      "publishedDateTime": "2021-02-20T11:13:58-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-02-20-gop-rep-lauren-boebert-calls-on-biden-to-lower-flags-in-honor-of-rush-limbaugh.md",
       "title": "GOP Rep. Lauren Boebert calls on Biden to lower flags in honor of Rush Limbaugh",
       "excerpt": "Rep. Lauren Boebert, R-Colo., called on President Biden on Friday night to order flags lowered to half-staff in honor the life of conservative radio legend Rush Limbaugh.",
@@ -745,7 +801,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 171,
+      "heat": 191,
       "tags": null,
       "images": [
         {
@@ -901,6 +957,62 @@
       ]
     },
     {
+      "path": "_news/2021-02-19-iran-learning-it-can-threaten-biden-to-get-its-way-on-nuclear-talks-ric-grenell.md",
+      "title": "Iran learning it can threaten Biden to get its way on nuclear talks: Ric Grenell",
+      "excerpt": "Iran has already shown it can pressure the Biden administration into granting concessions related to its nuclear weapons program, former Acting Director of National Intelligence Richard Grenell told \"Your World\" Friday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xE8-btjy02c/iran-learning-threaten-biden-way-nuclear-talks-grenell",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xE8-btjy02c/iran-learning-threaten-biden-way-nuclear-talks-grenell",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 190,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dd154628-c42a-42cb-829c-9a04557dc5a5/869775b1-e778-487c-a2ef-b385b0432f76/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/iran-learning-threaten-biden-way-nuclear-talks-grenell.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/iran-learning-threaten-biden-way-nuclear-talks-grenell.amp",
+      "publishedDateTime": "2021-02-19T14:58:54-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-19-biden-says-he-is-planning-on-visiting-texas-amid-weather-crisis.md",
       "title": "Biden says he is planning on visiting Texas amid weather crisis",
       "excerpt": "President Biden on Friday said he is planning to visit Texas as the state grapples with a weather crisis that has left hundreds of thousands of residents without power, prompting him to declare an emergency declaration.",
@@ -913,7 +1025,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 415,
+      "heat": 395,
       "tags": null,
       "images": [
         {
@@ -1082,7 +1194,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 645,
+      "heat": 605,
       "tags": null,
       "images": [
         {
@@ -1099,6 +1211,118 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-mcconnell-spat-rick-scott-seeks-unity.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-mcconnell-spat-rick-scott-seeks-unity.amp",
       "publishedDateTime": "2021-02-18T13:08:13-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-18-bill-gates-says-trump-should-probably-be-allowed-to-return-to-social-media.md",
+      "title": "Bill Gates says Trump should 'probably' be allowed to return to social media",
+      "excerpt": "Microsoft co-founder Bill Gates said Thursday that social media companies should let President Trump back on their platforms, despite his \"corrosive\" election fraud claims. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/N5_MoNGs7yU/bill-gates-says-trump-should-probably-be-allowed-to-return-to-social-media",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/N5_MoNGs7yU/bill-gates-says-trump-should-probably-be-allowed-to-return-to-social-media",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/293bed5e-ef2c-4f3b-a18d-a7c565bbef69/1133c664-0b35-4f1f-9163-666f52e5e1dd/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/bill-gates-says-trump-should-probably-be-allowed-to-return-to-social-media.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bill-gates-says-trump-should-probably-be-allowed-to-return-to-social-media.amp",
+      "publishedDateTime": "2021-02-18T11:39:31-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-18-biden-white-houses-planned-200m-who-payment-slammed-by-republicans-their-credibility-has-been-tarnished.md",
+      "title": "Biden White House's planned $200M WHO payment slammed by Republicans: 'Their credibility has been tarnished'",
+      "excerpt": "Republicans hit the White House’s plan to shell out $200 million to the World Health Organization (WHO) by the end of the month, arguing the organization should first take steps to commit to greater transparency.  ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rm4CgY6c5zQ/republicans-slam-biden-white-house-who-payment",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rm4CgY6c5zQ/republicans-slam-biden-white-house-who-payment",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b509c58d-cd7c-4c3e-ad52-badc066167de/7a8a83b5-9b0c-4f02-973a-5c2dcebf170b/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/republicans-slam-biden-white-house-who-payment.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-slam-biden-white-house-who-payment.amp",
+      "publishedDateTime": "2021-02-18T11:16:20-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1453,230 +1677,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-top-biden-economic-aide-deese-had-leading-role-at-blackrock-termed-the-largest-investor-in-deforestation.md",
-      "title": "Top Biden economic aide Deese had leading role at BlackRock, termed the ‘largest investor in deforestation’",
-      "excerpt": "President Biden’s top economic advisor Brian Deese has promised to give environmentalism a front-and-center focus in his agenda to spur job growth, but Deese’s record with BlackRock drew bitter outcries from environmentalists. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_O3TpkOUKXM/bidens-economic-advise-climate-crisis-blackrock-deforestation",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_O3TpkOUKXM/bidens-economic-advise-climate-crisis-blackrock-deforestation",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/42062da5-16e0-4037-a730-e3584328ccb1/18454cad-9594-4df4-929b-9de43f9366d1/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/bidens-economic-advise-climate-crisis-blackrock-deforestation.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-economic-advise-climate-crisis-blackrock-deforestation.amp",
-      "publishedDateTime": "2021-02-17T17:55:07-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-gop-sen-hagerty-presses-biden-on-remain-in-mexico-rollback-warns-it-will-endanger-communities.md",
-      "title": "GOP Sen. Hagerty presses Biden on ‘Remain in Mexico’ rollback, warns it will ‘endanger’ communities",
-      "excerpt": "EXCLUSIVE: Sen. Bill Hagerty, R-Tenn., on Wednesday wrote to President Biden over his administration’s rollback of the Migrant Protection Protocols (MPP), warning that it could lead to tens of thousands of migrants flowing into the country and endanger U.S. communities.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rweg1Gs0HbQ/hagerty-biden-remain-in-mexico-rollback",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rweg1Gs0HbQ/hagerty-biden-remain-in-mexico-rollback",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3c304f65-5ab7-4479-956c-7e98494b3a80/f388db24-0b09-46dd-9026-61c04741124e/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-17T17:37:23-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-biden-israeli-pm-netanyahu-have-warm-and-friendly-talk.md",
-      "title": "Biden, Israeli PM Netanyahu have 'warm and friendly' talk",
-      "excerpt": "President Biden spoke with Israeli Prime Minister Benjamin Netanyahu on Wednesday, Netanyahu’s office confirmed to Fox News.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bW57TVY8N6k/biden-netanyahu-warm-friendly-talk",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bW57TVY8N6k/biden-netanyahu-warm-friendly-talk",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.foxnews.com/BrightCove/694940094001/2020/01/29/694940094001_6127716685001_6127717881001-vs.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-netanyahu-warm-friendly-talk.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-netanyahu-warm-friendly-talk.amp",
-      "publishedDateTime": "2021-02-17T13:27:55-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-trump-impeachment-manager-says-shes-filled-with-glee-at-prospect-of-questioning-mccarthy-about-capitol-riot.md",
-      "title": "Trump impeachment manager says she's filled with 'glee' at prospect of questioning McCarthy about Capitol riot",
-      "excerpt": "Del. Stacey Plaskett said she is filled with \"glee\" at the prospect of questioning House Minority Leader Kevin McCarthy regarding a phone call between him and former President Donald Trump during the Capitol riot in January.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vuq7MKJnsmw/trump-impeachment-manager-says-shes-filled-with-glee-at-prospect-of-questioning-mccarthy-about-capitol-riot",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vuq7MKJnsmw/trump-impeachment-manager-says-shes-filled-with-glee-at-prospect-of-questioning-mccarthy-about-capitol-riot",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/Vandana-Rambaran.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-impeachment-manager-says-shes-filled-with-glee-at-prospect-of-questioning-mccarthy-about-capitol-riot.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-manager-says-shes-filled-with-glee-at-prospect-of-questioning-mccarthy-about-capitol-riot.amp",
-      "publishedDateTime": "2021-02-17T11:57:58-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

@@ -2,6 +2,334 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-01-26-schumer-suggests-biden-declare-climate-emergency.md",
+      "title": "Schumer suggests Biden declare 'climate emergency'",
+      "excerpt": "Senate Democratic Leader Chuck Schumer suggested Monday that President Biden consider declaring an emergency on climate change.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VgxiybkVqSk/schumer-suggests-biden-declare-climate-emergency",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VgxiybkVqSk/schumer-suggests-biden-declare-climate-emergency",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/e086b04b-AP20365586336985.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/schumer-suggests-biden-declare-climate-emergency.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schumer-suggests-biden-declare-climate-emergency.amp",
+      "publishedDateTime": "2021-01-26T09:57:34-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-haley-says-biden-rejoining-un-human-rights-council-would-fly-in-the-face-of-rights-push.md",
+      "title": "Haley says Biden rejoining UN Human Rights Council would 'fly in the face' of rights push",
+      "excerpt": "Former U.N. Ambassador Nikki Haley on Monday warned that a potential move by President Biden to rejoin the controversial U.N. Human Rights Council would \"fly in the face\" of the fight for human rights.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fHZoYfp-BYE/haley-biden-un-human-rights-council",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fHZoYfp-BYE/haley-biden-un-human-rights-council",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7f694961-f85e-4fd8-935e-79ea248f7cd1/b31dcb3e-4820-4026-926c-7c4036fa58c1/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/haley-biden-un-human-rights-council.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/haley-biden-un-human-rights-council.amp",
+      "publishedDateTime": "2021-01-26T08:51:55-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-biden-to-halt-new-oil-and-gas-leases-on-federal-lands-wednesday.md",
+      "title": "Biden to halt new oil and gas leases on federal lands Wednesday",
+      "excerpt": "President Joe Biden is set to order a moratorium on new oil and gas leases on federal lands on Wednesday, according to a person familiar with his plans.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zIIDu4EQBqQ/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zIIDu4EQBqQ/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 335,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210126135135-01-biden-0125-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/26/politics/biden-halt-new-oil-gas-leases/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/biden-halt-new-oil-gas-leases/index.html",
+      "publishedDateTime": "2021-01-26T08:36:26-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-oregon-republican-party-falsely-calls-us-capitol-riot-a-false-flag-meant-to-discredit-president-trump.md",
+      "title": "Oregon Republican Party falsely calls U.S. Capitol riot a ‘false flag’ meant to ‘discredit President Trump’",
+      "excerpt": "In a resolution from the Oregon GOP, the party falsely claims that the entire Capitol riot was a “false flag” staged to undermine President Donald Trump and silence his supporters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/nation/2021/01/26/oregon-republican-false-flag-capitol/",
+      "originalUrl": "https://www.washingtonpost.com/nation/2021/01/26/oregon-republican-false-flag-capitol/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WHSI4BGFHEI6VKBFQ4RAATSBKA.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/nation/2021/01/26/oregon-republican-false-flag-capitol/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2021/01/26/oregon-republican-false-flag-capitol/?outputType=amp",
+      "publishedDateTime": "2021-01-26T07:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-watch-live-biden-to-deliver-remarks-on-covid-19-response.md",
+      "title": "Watch Live: Biden to deliver remarks on COVID-19 response",
+      "excerpt": "Biden promised it will be \"this spring\" when any American who wants a COVID-19 vaccine will be able to get one.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/covid-19-biden-speech-watch-live-stream-today-2021-01-26/",
+      "originalUrl": "https://www.cbsnews.com/news/covid-19-biden-speech-watch-live-stream-today-2021-01-26/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 665,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/26/1c2d5e28-4740-448d-98b5-ac9222a755e8/thumbnail/1200x630/0b71298d7ef9696bca4127d1ca2abe07/gettyimages-1230789317.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/covid-19-biden-speech-watch-live-stream-today-2021-01-26/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/covid-19-biden-speech-watch-live-stream-today-2021-01-26/",
+      "publishedDateTime": "2021-01-26T06:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-fact-checking-7-statistical-claims-from-bidens-quite-factual-economic-speech.md",
+      "title": "Fact-checking 7 statistical claims from Biden's (quite factual) economic speech ",
+      "excerpt": "President Joe Biden recited a flurry of figures in a Friday speech in which he urged Congress to pass the $1.9 trillion pandemic relief package he calls the American Rescue Plan.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wNw5Fwfuu0g/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wNw5Fwfuu0g/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 190,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210122151617-03-biden-economy-0122-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/26/politics/fact-check-biden-economic-stats-pandemic-rescue-plan/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/fact-check-biden-economic-stats-pandemic-rescue-plan/index.html",
+      "publishedDateTime": "2021-01-26T06:31:36-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-26-bidens-white-house-victory-fueled-by-record-shattering-145m-in-dark-money-report-says.md",
       "title": "Biden's White House victory fueled by record-shattering $145M in 'dark money,' report says",
       "excerpt": "For years, Democrats have railed against anonymous campaign contributions as a uniquely corrupting political force — even as President Biden benefited from a record-shattering amount of \"dark money\" donations during the 2020 election. ",
@@ -1030,322 +1358,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-25-fauci-birx-were-right-to-stay-on-trump-coronavirus-task-force-former-surgeon-general-says.md",
-      "title": "Fauci, Birx were right to stay on Trump coronavirus task force, former surgeon general says",
-      "excerpt": "Former Surgeon General Dr. Jerome Adams defended Trump administration coronavirus task force members Dr. Anthony Fauci and Dr. Deborah Birx over criticism that they should have quit working for former President Donald Trump.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0gM8Vq2rbP0/fauci-birx-jerome-adams-trump-coronavirus",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0gM8Vq2rbP0/fauci-birx-jerome-adams-trump-coronavirus",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Jerome-Adams.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/fauci-birx-jerome-adams-trump-coronavirus.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fauci-birx-jerome-adams-trump-coronavirus.amp",
-      "publishedDateTime": "2021-01-25T06:52:16-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-25-1-in-5-americans-have-confidence-biden-can-unite-the-country-poll.md",
-      "title": "1 in 5 Americans have confidence Biden can unite the country: poll",
-      "excerpt": "Just one in five Americans have “a great deal of confidence” in President Biden’s ability to make good on his goal to unify the country, according to a new poll released Sunday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vFoIpaK4fws/1-in-5-americans-have-confidence-biden-can-unite-the-country-poll",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vFoIpaK4fws/1-in-5-americans-have-confidence-biden-can-unite-the-country-poll",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 535,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/20de377f-52eb-4d97-9de0-1949e9de080e/da946feb-d2c8-402f-9d32-9e153b1e2eca/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/1-in-5-americans-have-confidence-biden-can-unite-the-country-poll.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/1-in-5-americans-have-confidence-biden-can-unite-the-country-poll.amp",
-      "publishedDateTime": "2021-01-25T06:47:21-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-25-trump-lawyer-giuliani-faces-dominion-lawsuit-for-big-lie-election-fraud-claims.md",
-      "title": "Trump lawyer Giuliani faces Dominion lawsuit for 'big lie' election fraud claims",
-      "excerpt": "A U.S. voting machine company sued former President Donald Trump's lawyer Rudy Giuliani, accusing him of defamation in what it called his \"big lie\" campaign about widespread fraud in the presidential election,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-election-dominion/trump-lawyer-giuliani-faces-dominion-lawsuit-for-big-lie-election-fraud-claims-idUSKBN29U1CD",
-      "originalUrl": "https://www.reuters.com/article/us-usa-election-dominion/trump-lawyer-giuliani-faces-dominion-lawsuit-for-big-lie-election-fraud-claims-idUSKBN29U1CD",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 735,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210125&t=2&i=1548977774&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0O0SY",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29U1CD",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29U1CD",
-      "publishedDateTime": "2021-01-25T05:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-25-sarah-sanders-former-trump-press-secretary-running-for-arkansas-governor.md",
-      "title": "Sarah Sanders, former Trump press secretary, running for Arkansas governor",
-      "excerpt": "Sarah Sanders, Donald Trump’s former chief spokeswoman and one of his closest aides, is running for Arkansas governor, a senior campaign official told The Associated Press.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/nation-world/ct-nw-sarah-sanders-arkansas-governor-20210125-su7bqehy7famzpdai6nxzk2pba-story.html",
-      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-nw-sarah-sanders-arkansas-governor-20210125-su7bqehy7famzpdai6nxzk2pba-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 183,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/0JsbnzrsD48NyOvJ__X1lH1FNKQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/Q75DM32LIRBHLLUCEEZ6NJKLGI.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-nw-sarah-sanders-arkansas-governor-20210125-su7bqehy7famzpdai6nxzk2pba-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-sarah-sanders-arkansas-governor-20210125-su7bqehy7famzpdai6nxzk2pba-story.html?outputType=amp",
-      "publishedDateTime": "2021-01-25T03:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-25-abcs-matthew-dowd-compares-trump-gop-with-hitler-tojo-kkk-apartheid.md",
-      "title": "ABC's Matthew Dowd Compares Trump, GOP With Hitler, Tojo, KKK, Apartheid",
-      "excerpt": "ABC News contributor Matthew Dowd commented Sunday on ABC's \"This Week\" roundtable: MATTHEW DOWD: Well, to me, the impeachment -- we have to separate the parts of the impeachment vote. I mean, other countries have gone through this before,",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2021/01/24/abcs_matthew_dowd_compares_trump_and_gop_to_hitler_tojo_and_apartheid_south_africa.html",
-      "originalUrl": "https://www.realclearpolitics.com/video/2021/01/24/abcs_matthew_dowd_compares_trump_and_gop_to_hitler_tojo_and_apartheid_south_africa.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/44/440653.jpg",
-          "width": 500,
-          "height": 375,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-24T19:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-25-the-new-york-times-says-it-didnt-part-ways-with-editor-over-biden-chills-tweet.md",
-      "title": "The New York Times says it didn’t part ways with editor over Biden ‘chills’ tweet",
-      "excerpt": "After a firestorm of criticism, the paper sought to clear up “inaccurate information circulating on Twitter\" about freelancer Lauren Wolfe.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/media/2021/01/24/lauren-wolfe-new-york-times-biden-tweet/",
-      "originalUrl": "https://www.washingtonpost.com/media/2021/01/24/lauren-wolfe-new-york-times-biden-tweet/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AGXCMIEPWEI6VEZCUKPHL374SM.jpg&w=1440",
-          "width": 1440,
-          "height": 966,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/media/2021/01/24/lauren-wolfe-new-york-times-biden-tweet/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/media/2021/01/24/lauren-wolfe-new-york-times-biden-tweet/?outputType=amp",
-      "publishedDateTime": "2021-01-24T17:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

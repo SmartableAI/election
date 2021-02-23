@@ -80,6 +80,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden's 1st 100 days live updates: Biden, Harris honor 500K who died of COVID-19"
+    excerpt: "Live updates of Judge Merrick Garland's confirmation hearing to be attorney general before the Senate Judiciary Committee."
+    publishedDateTime: 2021-02-23T00:02:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/joe-biden-kamala-harris-white-house-administration/?id=76030510"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/joe-biden-kamala-harris-white-house-administration/?id=76030510"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/joe-biden-kamala-harris-white-house-administration/?id=76030510"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 145
+    images:
+      - url: "https://s.abcnews.com/images/US/covid-milestone-03-gty-jc-2102222_1614035170471_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 899
+        isCached: true
   - title: "Harris’ historic election celebrated in cracked glass portrait"
     excerpt: "Vice President Kamala Harris' barrier-breaking career has been memorialized in a portrait that depicts her face emerging from the cracks in a massive sheet of glass."
     publishedDateTime: 2021-02-09T16:23:00Z

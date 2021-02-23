@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-reacts-to-supreme-court-tax-r
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-reacts-to-supreme-court-tax-return-decision-claims-continuation-of-the-greatest-political-witch-hunt.amp"
 type: article
 quality: 163
-heat: -1
-published: false
+heat: 223
+published: true
 
 provider:
   name: Fox News
@@ -31,37 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Supreme Court won't halt turnover of Trump's tax records"
-    excerpt: "In a significant defeat for former President Donald Trump, the Supreme Court on Monday declined to step in to halt the turnover of his tax records to a New York prosecutor."
-    publishedDateTime: 2021-02-22T15:01:37Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/k9h0kCHyP8U/supreme-court-trump-tax-records"
-    ampWebUrl: "https://www.foxnews.com/politics/supreme-court-trump-tax-records.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supreme-court-trump-tax-records.amp"
+  - title: "Getting Trump Tax Returns Is Victory for Manhattan Prosecutors"
+    excerpt: "The U.S. Supreme Court removed a hurdle for the criminal probe when it rejected the former president’s efforts to block a subpoena for his financial records."
+    publishedDateTime: 2021-02-22T23:46:00Z
+    webUrl: "https://www.wsj.com/articles/getting-trump-tax-returns-is-victory-for-manhattan-prosecutors-11614037615"
+    ampWebUrl: "https://www.wsj.com/amp/articles/getting-trump-tax-returns-is-victory-for-manhattan-prosecutors-11614037615"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/getting-trump-tax-returns-is-victory-for-manhattan-prosecutors-11614037615"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21037154950134.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Bill Gates says Trump should 'probably' be allowed to return to social media"
-    excerpt: "Microsoft co-founder Bill Gates said Thursday that social media companies should let President Trump back on their platforms, despite his \"corrosive\" election fraud claims. "
-    publishedDateTime: 2021-02-18T19:39:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/N5_MoNGs7yU/bill-gates-says-trump-should-probably-be-allowed-to-return-to-social-media"
-    ampWebUrl: "https://www.foxnews.com/politics/bill-gates-says-trump-should-probably-be-allowed-to-return-to-social-media.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bill-gates-says-trump-should-probably-be-allowed-to-return-to-social-media.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/293bed5e-ef2c-4f3b-a18d-a7c565bbef69/1133c664-0b35-4f1f-9163-666f52e5e1dd/1280x720/match/image.jpg"
+      - url: "https://images.wsj.net/im-302694/social"
         width: 1280
-        height: 720
+        height: 640
         isCached: true
   - title: "Trump blasts Supreme Court, Dems on tax return ruling: ‘It just never ends!’"
     excerpt: "Former President Donald Trump lashed out at the Supreme Court on Monday after it declined to stop the release of his tax returns to the Manhattan district attorney."
@@ -78,22 +62,6 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/trump-tax-returns-2.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Trump reveals story behind Rush Limbaugh's Presidential Medal of Freedom honor"
-    excerpt: "Former President Donald Trump joined \"Hannity\" on Wednesday to remember conservative radio host Rush Limbaugh, who passed away at age 70 after a long battle with lung cancer."
-    publishedDateTime: 2021-02-18T03:32:00Z
-    webUrl: "https://www.foxnews.com/media/trump-rush-limbaugh-medal-of-freedom-lung-cancer"
-    ampWebUrl: "https://www.foxnews.com/media/trump-rush-limbaugh-medal-of-freedom-lung-cancer.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/trump-rush-limbaugh-medal-of-freedom-lung-cancer.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 131
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/92214969-2ed8-4652-abbf-25abb5a4c35d/230c7f0f-55bc-4f80-84a5-1a6341629932/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Trump: Supreme Court tax return decision a ‘continuation of the greatest political witch hunt’"
     excerpt: "Former President Trump on Monday slammed the Supreme Court for declining to halt the turnover of his tax records to a New York prosecutor, calling it “a continuation of the greatest political Witch Hunt in the history of our Country."

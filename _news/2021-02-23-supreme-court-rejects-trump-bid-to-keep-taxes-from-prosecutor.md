@@ -1045,6 +1045,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Supreme Court denies Trump's bid to shield financial records"
+    excerpt: "Former President Trump suffered a major defeat at the Supreme Court after it rejected his bid to withhold his tax returns from the Manhattan district attorney, who is investigating the Trump Organization."
+    publishedDateTime: 2021-02-23T00:35:00Z
+    webUrl: "https://www.cbsnews.com/video/supreme-court-denies-trumps-bid-to-shield-financial-records/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/02/23/bdd7457c-1ce5-45c5-9228-798064028510/thumbnail/1200x630/d9b812df8cf12177dc2a73522887f4ee/cbsn-fusion-supreme-court-denies-trumps-bid-to-shield-financial-records-thumbnail-651490-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "2 Central Park ice rinks to close after city severs ties with Trump Organization"
     excerpt: "The Trump Organization is closing two ice skating rinks in Central Park after New York City Mayor Bill de Blasio severed their contract in the wake of the deadly Capitol riot. CBS New York's Carolyn Gusoff reports."
     publishedDateTime: 2021-02-21T20:35:00Z

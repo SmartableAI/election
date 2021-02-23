@@ -2,6 +2,287 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-02-08-trump-will-have-a-place-in-history-for-capitol-riot-but-remains-most-popular-figure-in-gop-graham.md",
+      "title": "Trump will 'have a place in history' for Capitol riot but remains 'most popular figure' in GOP: Graham",
+      "excerpt": "Former President Donald Trump will \"have a place in history\" for his role leading up to the riot at the U.S. Capitol last month, but he stills remains the \"most popular figure\" in the Republican Party,",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/trump-impeachment-capitol-riot-most-popular-figure-gop-lindsey-graham",
+      "originalUrl": "https://www.foxnews.com/politics/trump-impeachment-capitol-riot-most-popular-figure-gop-lindsey-graham",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ce0ff8aa-4ebc-4f0a-b188-e29d6303380f/f2169d82-7384-44cf-93f0-ae8b40aab209/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-impeachment-capitol-riot-most-popular-figure-gop-lindsey-graham.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-capitol-riot-most-popular-figure-gop-lindsey-graham.amp",
+      "publishedDateTime": "2021-02-07T11:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-07-meadows-biden-administration-policies-prioritize-america-last.md",
+      "title": "Meadows: Biden administration policies prioritize 'America last'",
+      "excerpt": "President Biden’s record number of executive orders aren’t focused on putting America and the people first, former White House chief of staff Mark Meadows told \"Sunday Morning Futures.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JTRURJ54Qr8/meadows-biden-administration-policies-america-last",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JTRURJ54Qr8/meadows-biden-administration-policies-america-last",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 335,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Biden5.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/meadows-biden-administration-policies-america-last.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/meadows-biden-administration-policies-america-last.amp",
+      "publishedDateTime": "2021-02-07T10:56:17-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-07-rand-paul-kids-missing-school-is-disaster-says-biden-beholden-to-teachers-unions.md",
+      "title": "Rand Paul: Kids missing school is 'disaster,' says Biden 'beholden' to teachers unions",
+      "excerpt": "President Biden's hands-off approach to reopening schools amid the coronavirus pandemic is hurting America's children, Sen. Rand Paul, R-Ky., told \"Justice with Judge Jeanine\" Saturday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VMET7vSBSD4/rand-paul-kids-missing-school-biden-beholden-to-unions",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VMET7vSBSD4/rand-paul-kids-missing-school-biden-beholden-to-unions",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d6ff4554-cb7b-431a-a61b-7dc4f0df80ea/7bcb469e-db26-4dc7-b49d-f84eb9a67300/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/rand-paul-kids-missing-school-biden-beholden-to-unions.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rand-paul-kids-missing-school-biden-beholden-to-unions.amp",
+      "publishedDateTime": "2021-02-07T07:43:05-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-07-ben-sasses-anti-trump-statements-draw-more-nebraska-backlash.md",
+      "title": "Ben Sasse's anti-Trump statements draw more Nebraska backlash",
+      "excerpt": "Republican U.S. Sen. Ben Sasse is facing more opposition in his home state of Nebraska for criticizing former President Trump.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/t4yZLcp-xwE/ben-sasses-anti-trump-statements-draw-more-nebraska-backlash",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/t4yZLcp-xwE/ben-sasses-anti-trump-statements-draw-more-nebraska-backlash",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 315,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21036581973148.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ben-sasses-anti-trump-statements-draw-more-nebraska-backlash.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ben-sasses-anti-trump-statements-draw-more-nebraska-backlash.amp",
+      "publishedDateTime": "2021-02-07T01:35:28-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-06-ivanka-trumps-political-re-emergence-would-likely-center-on-criminal-justice-reform-work-report.md",
+      "title": "Ivanka Trump’s political re-emergence would likely center on criminal justice reform work: report",
+      "excerpt": "Ivanka Trump helped to secure pardons and commutations for over 140 in her father’s final days in office, and could champion criminal justice reform in a new foray into politics. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/X-u0thTVIaA/ivanka-trumps-likely-political-reemergence-would-center-on-criminal-justice-reform-work-report",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/X-u0thTVIaA/ivanka-trumps-likely-political-reemergence-would-center-on-criminal-justice-reform-work-report",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/Ivanka-resize-.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ivanka-trumps-likely-political-reemergence-would-center-on-criminal-justice-reform-work-report.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ivanka-trumps-likely-political-reemergence-would-center-on-criminal-justice-reform-work-report.amp",
+      "publishedDateTime": "2021-02-06T12:30:05-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-06-biden-says-no-need-for-trump-to-receive-intel-briefings-what-impact-does-he-have.md",
       "title": "Biden says 'no need' for Trump to receive intel briefings: 'What impact does he have?'",
       "excerpt": "President Biden said he didn’t think his predecessor should receive intelligence briefings, as is standard for former presidents. ",
@@ -913,7 +1194,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 273,
+      "heat": 293,
       "tags": null,
       "images": [
         {
@@ -1378,286 +1659,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/live-updates-biden-2-2-2021.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-2-2-2021.amp",
       "publishedDateTime": "2021-02-01T23:01:09-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-ex-nfl-star-marcellus-wiley-calls-for-separate-transgender-category-in-school-sports-after-biden-order.md",
-      "title": "Ex-NFL star Marcellus Wiley calls for 'separate transgender category' in school sports after Biden order",
-      "excerpt": "Former NFL star and current Fox Sports 1 host Marcellus Wiley called last week for the creation of a \"separate transgender category\" for youth athletics.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/w31i18hHHNA/ex-nfl-star-marcellus-wiley-separate-transgender-category-school-sports-biden-order",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/w31i18hHHNA/ex-nfl-star-marcellus-wiley-separate-transgender-category-school-sports-biden-order",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b139c892-ec9b-4fd7-8495-2deb7c7cccd5/dd5dac3c-9679-4542-953a-304d19d0093d/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ex-nfl-star-marcellus-wiley-separate-transgender-category-school-sports-biden-order.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ex-nfl-star-marcellus-wiley-separate-transgender-category-school-sports-biden-order.amp",
-      "publishedDateTime": "2021-02-01T14:54:15-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-biden-administration-cites-climate-change-as-a-racial-justice-issue.md",
-      "title": "Biden administration cites climate change as a 'racial justice issue'",
-      "excerpt": "Climate Adviser Gina McCarthy explained that challenges are exacerbated in communities that haven't been invested in.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YQjA3MJAeuI/biden-admin-calls-climate-change-is-a-racial-justice-issue",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YQjA3MJAeuI/biden-admin-calls-climate-change-is-a-racial-justice-issue",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 475,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2948c6c3-ebed-4fa1-b506-498478699919/13ae4fb4-3aad-4947-bbe5-bd6a698c6e05/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-admin-calls-climate-change-is-a-racial-justice-issue.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-calls-climate-change-is-a-racial-justice-issue.amp",
-      "publishedDateTime": "2021-02-01T13:57:16-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-howard-kurtz-media-will-use-impeachment-trial-to-convict-donald-trump-in-the-court-of-public-opinion.md",
-      "title": "Howard Kurtz: Media will use impeachment trial to ‘convict Donald Trump in the court of public opinion’",
-      "excerpt": "Fox News media analyst Howard Kurtz predicts Donald Trump’s second impeachment trial will be “grand political theater” that will dominate media coverage.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hLve9vSHhGs/media-impeachment-trial-convict-trump-court-public-opinion",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hLve9vSHhGs/media-impeachment-trial-convict-trump-court-public-opinion",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0f1e8796-e12a-466e-a05d-58f56f2aa13a/c3254a19-493a-479d-8670-59412f3c0ec0/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/media-impeachment-trial-convict-trump-court-public-opinion.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/media-impeachment-trial-convict-trump-court-public-opinion.amp",
-      "publishedDateTime": "2021-02-01T13:32:34-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-biden-state-dept-spokeswoman-called-police-largest-threat-to-us-national-security-report.md",
-      "title": "Biden State Dept. spokeswoman called police 'largest threat to US national security': Report",
-      "excerpt": "Jalina Porter, who has been named deputy spokesperson for the U.S. State Department under President Biden, wrote that U.S. cops posed the largest national security threat because of attacks against Blacks",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dssvYEvrBzo/biden-state-dept-spokesperson-police-threat-national-security",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dssvYEvrBzo/biden-state-dept-spokesperson-police-threat-national-security",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8ebc5208-5c81-492f-bc4f-96ffff1e916a/e8e1a45c-3221-44da-8aaf-2cc3be4c3bed/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-state-dept-spokesperson-police-threat-national-security.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-state-dept-spokesperson-police-threat-national-security.amp",
-      "publishedDateTime": "2021-02-01T13:11:12-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-ukraines-zelensky-offended-by-media-reporting-that-trump-put-pressure-on-him.md",
-      "title": "Ukraine's Zelensky 'offended' by media reporting that Trump 'put pressure' on him",
-      "excerpt": "Ukrainian President Volodymyr Zelensky signaled that he was more upset about the aftermath of his now-infamous July 2019 phone call with then-President Donald Trump than the actual call.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/o9PxwKhYSmE/ukraine-zelensky-offended-trump-phone-call-pressure",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/o9PxwKhYSmE/ukraine-zelensky-offended-trump-phone-call-pressure",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ede87b4e-f728-484a-952c-5a4f33ca640f/0d574659-3148-41cc-8dc9-c2b3e138a970/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ukraine-zelensky-offended-trump-phone-call-pressure.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ukraine-zelensky-offended-trump-phone-call-pressure.amp",
-      "publishedDateTime": "2021-02-01T11:49:24-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

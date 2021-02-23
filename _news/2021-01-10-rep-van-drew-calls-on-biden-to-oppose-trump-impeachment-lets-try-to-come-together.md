@@ -45,22 +45,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Calls to impeach Trump gain momentum, Republicans ask Biden to intervene"
-    excerpt: "Congressional calls for the impeachment of President Trump are gaining traction on both sides of the aisle, as lawmakers announced Saturday that impeachment would be introduced in the House Monday."
-    publishedDateTime: 2021-01-10T02:28:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vIg8l3_7HZY/calls-impeach-trump-momentum-biden-intervene"
-    ampWebUrl: "https://www.foxnews.com/politics/calls-impeach-trump-momentum-biden-intervene.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/calls-impeach-trump-momentum-biden-intervene.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 189
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c7703f1c-319b-4a2c-a02c-e47f026d164a/62286249-5c96-4c92-828a-d41b31614674/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Biden says Trump's 'not fit to serve' as president but punts on calls for impeachment"
     excerpt: "President-elect Biden on Friday charged that President Trump “isn’t fit to hold the job.” But the president-elect refused to say whether he supported the push by congressional Democrats and handful of Republicans to immediately remove Trump from office either by impeachment or through the use of the"
     publishedDateTime: 2021-01-08T22:17:50Z

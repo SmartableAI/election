@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/garland-doj-would-advance-bidens-gu
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/garland-doj-would-advance-bidens-gun-control-policies.amp"
 type: article
 quality: 175
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Manchin to oppose Biden OMB pick Neera Tanden over controversial Twitter posts"
+    excerpt: "West Virginia Democrat Sen. Joe Manchin said on Friday that he would oppose President Biden’s nominee to lead the Office of Management and Budget over her Twitter history."
+    publishedDateTime: 2021-02-19T22:52:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/I2naip0Be5E/manchin-oppose-neera-tanden"
+    ampWebUrl: "https://www.foxnews.com/politics/manchin-oppose-neera-tanden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/manchin-oppose-neera-tanden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d5e4207d-6c8d-49c6-908c-4cc998501216/cc487d03-bd7f-493d-b774-4c8a14a98aa7/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "B7BjjpHOyJWqPIzq2RnOMwCBLMN5KPAwN5UYxTZMeC2A619ysUw8+5slrjZuqZm1m+P5XnPKk/Qs3jQ4Dre37/AzxQY741e98yPFHWOTgh+6cIMcAS+gAUIP+ZUiUwfNQ/U3brZYd8qP5xkHzufqY7ABMx8N5YaNdCuZ3jheePzAG8qID5J5AozVP2iKapBvguWBNx24O+UR4Jrk3wlto55862Bl7uGbjj15Nbqo7xpZZtDVHxqDyhY45HaBHskdRv9xKdEILHkalk5fT1dn3J3eUeGc6afBeEY7dq4yJxnL1/IEOFwVaowXwY2VdUDKXcz0Hn8glakhIjb1/a3xp8q6ut20pmhr1ock6GY7RJI=;FBxs58Kq2N+QTKbKrLjUxA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/trump-repeats-ele
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/trump-repeats-election-claims-interviews-unchallenged-76002370"
 type: article
 quality: 140
-heat: 1660
+heat: 1680
 published: true
 
 provider:
@@ -1030,6 +1030,20 @@ related:
       - url: "https://static.reuters.com/resources/r/?d=20210222&i=OVE0QDN63&r=OVE0QDN63&t=2"
         width: 960
         height: 540
+        isCached: true
+  - title: "Supreme Court denies Trump's bid to shield financial records"
+    excerpt: "Former President Trump suffered a major defeat at the Supreme Court after it rejected his bid to withhold his tax returns from the Manhattan district attorney, who is investigating the Trump Organization."
+    publishedDateTime: 2021-02-23T00:35:00Z
+    webUrl: "https://www.cbsnews.com/video/supreme-court-denies-trumps-bid-to-shield-financial-records/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/02/23/bdd7457c-1ce5-45c5-9228-798064028510/thumbnail/1200x630/d9b812df8cf12177dc2a73522887f4ee/cbsn-fusion-supreme-court-denies-trumps-bid-to-shield-financial-records-thumbnail-651490-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Supreme Court Rejects Trump Bid to Keep Taxes From Prosecutor"
     excerpt: "The U.S. Supreme Court rejected a bid by Donald Trump to keep eight years of his tax returns and other financial records out of the hands of a Manhattan prosecutor conducting a criminal investigation into the former president and his company,"

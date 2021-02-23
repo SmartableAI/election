@@ -48,22 +48,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Biden tells European allies ‘America is back,’ seeks to turn page on Trump era"
-    excerpt: "President Biden on Friday hailed the importance of the alliance between the U.S. and Europe, while also taking a number of thinly-veiled shots at his predecessor."
-    publishedDateTime: 2021-02-19T22:08:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HHe3ihsg54s/biden-european-allies-america-is-back-trump-era"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-european-allies-america-is-back-trump-era.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-european-allies-america-is-back-trump-era.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 186
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fb3ea36b-8ddf-4bf9-962e-95ccdac9293a/db70fa60-ab05-4327-b026-dbd89869e341/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Biden sidesteps Trump impeachment trial questions: 'Let the Senate work that out’"
     excerpt: "President Biden sidestepped questions about former President Donald Trump's impeachment trial, which is set to begin Tuesday, saying it is up to the Senate to \"work that out.\""
     publishedDateTime: 2021-02-08T16:33:51Z
@@ -128,22 +112,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "US formally rejoins Paris climate accord as Biden seeks to reverse Trump energy policies"
-    excerpt: "Secretary of State Tony Blinken announced Friday that the United States formally rejoined the Paris climate agreement, arguing it will \"help us all avoid catastrophic planetary warming\" and \"build resilience\" around the world."
-    publishedDateTime: 2021-02-19T17:39:28Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Zrjomhb6AW4/us-formally-rejoins-paris-climate-accords-blinken-announces"
-    ampWebUrl: "https://www.foxnews.com/politics/us-formally-rejoins-paris-climate-accords-blinken-announces.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/us-formally-rejoins-paris-climate-accords-blinken-announces.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 181
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Trump WH sign-language interpreter says Biden administration 'canceled and humiliated' her"
     excerpt: "The White House sign-language interpreter who was outed as a supporter of former President Donald Trump said Sunday that she hasn’t been offered a return engagement since — and blasted critics who attacked her credibility and professionalism."
     publishedDateTime: 2021-02-08T13:28:34Z
@@ -189,22 +157,6 @@ related:
     quality: 180
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/071f1d37-4a3e-4737-9116-daa4093f0f0b/045aa0b1-e137-4f38-b83e-3887abc19c69/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "US begins admitting migrants from Mexico, as Biden administration winds down Trump-era policy"
-    excerpt: "The U.S. on Friday began admitting migrants waiting in Mexico for their immigration cases to be processed -- as the Biden administration moves to wind down the Trump-era Migrant Protection Protocols (MPP), a move critics say could fuel a new border crisis."
-    publishedDateTime: 2021-02-19T18:36:42Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8MmfV0ontqw/us-migrants-from-mexico-as-biden-trump-policy"
-    ampWebUrl: "https://www.foxnews.com/politics/us-migrants-from-mexico-as-biden-trump-policy.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/us-migrants-from-mexico-as-biden-trump-policy.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 179
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e575dda5-88ce-410a-89d1-2e633c078351/84aa2f82-8a71-4b1d-8d63-e3489546f015/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -335,70 +287,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Biden says he didn’t watch Trump Senate trial, monitored coverage"
-    excerpt: "President Biden on Thursday said he “didn’t watch any of the hearing live” but did monitor coverage of former President Donald Trump’s impeachment trial. House impeachment"
-    publishedDateTime: 2021-02-11T16:36:00Z
-    webUrl: "https://nypost.com/2021/02/11/biden-says-he-didnt-watch-trump-senate-trial-monitored-coverage/"
-    ampWebUrl: "https://nypost.com/2021/02/11/biden-says-he-didnt-watch-trump-senate-trial-monitored-coverage/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/11/biden-says-he-didnt-watch-trump-senate-trial-monitored-coverage/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 150
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/joe-biden-trump-senate.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Biden Agenda Faces GOP Seeking to Unify in Opposition After Trump Impeachment"
-    excerpt: "Democrats are turning to cabinet nominees and pandemic relief, but some Republicans are already signaling their opposition to the president’s plans."
-    publishedDateTime: 2021-02-15T19:08:00Z
-    webUrl: "https://www.wsj.com/articles/impeachment-over-biden-agenda-faces-congressional-gop-seeking-to-unify-in-opposition-11613336802"
-    ampWebUrl: "https://www.wsj.com/amp/articles/impeachment-over-biden-agenda-faces-congressional-gop-seeking-to-unify-in-opposition-11613336802"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/impeachment-over-biden-agenda-faces-congressional-gop-seeking-to-unify-in-opposition-11613336802"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 147
-    images:
-      - url: "https://images.wsj.net/im-299229/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Biden administration plans to reengage with UN rights council, reversing Trump"
-    excerpt: "The Biden administration is set to announce this week that it will reengage with the much-maligned U.N. Human Rights Council that former President Donald Trump withdrew from almost three years ago, U."
-    publishedDateTime: 2021-02-08T12:35:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-administration-to-rejoin-un-rights-council-in-reversal-of-trump-withdrawal"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-to-rejoin-un-rights-council-in-reversal-of-trump-withdrawal.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-to-rejoin-un-rights-council-in-reversal-of-trump-withdrawal.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 146
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/06033aca-08b3-48f8-b198-95163a765304/d8e75191-a19d-41d7-b41c-27e56d336a1b/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump slams Biden for comment on vaccine distribution, won’t rule out 2024 run"
-    excerpt: "Former President Trump blasted President Biden for claiming that he left the White House without a vaccine distribution plan — calling it a “very dumb statement,” late Wednesday"
-    publishedDateTime: 2021-02-18T12:31:00Z
-    webUrl: "https://nypost.com/2021/02/18/trump-slams-biden-wont-rule-out-2024-presidential-run/"
-    ampWebUrl: "https://nypost.com/2021/02/18/trump-slams-biden-wont-rule-out-2024-presidential-run/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/18/trump-slams-biden-wont-rule-out-2024-presidential-run/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 146
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/trump-running.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Psaki: Biden not weighing in on Trump impeachment trial because 'he's not a pundit’"
     excerpt: "White House Press Secretary Jen Psaki on Tuesday said President Biden is not weighing in on former President Donald Trump’s Senate impeachment trial because “he’s not a pundit,” while maintaining that he will not watch the proceedings."

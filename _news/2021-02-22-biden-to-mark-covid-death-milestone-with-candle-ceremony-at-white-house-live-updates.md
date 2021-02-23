@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/22/joe-biden-coron
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates"
 type: article
 quality: 127
-heat: 867
+heat: 887
 published: true
 
 provider:
@@ -365,6 +365,22 @@ related:
     quality: 124
     images:
       - url: "https://i.guim.co.uk/img/media/86372474d992a6216b8c4c86e110fb68dda8bcd3/0_0_3000_1801/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2e7e8d27534d07dd3ac81b47cc714f57"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Joe Biden addresses nation as US passes 500,000 coronavirus deaths – live"
+    excerpt: "I know what it’s like’"
+    publishedDateTime: 2021-02-22T22:12:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates?page=with:block-6034355a8f08614ccf103960"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 124
+    images:
+      - url: "https://i.guim.co.uk/img/media/6857911a6bb4c3291e82fb3183002181fc7d0fc5/0_269_5443_3266/master/5443.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=64f476420fa5563ee7ddd942157d6fea"
         width: 600
         height: 360
         isCached: true
