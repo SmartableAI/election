@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/bill-gates-says-trump-should-probab
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bill-gates-says-trump-should-probably-be-allowed-to-return-to-social-media.amp"
 type: article
 quality: 172
-heat: 172
+heat: 192
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Trump vacuum puts local officials in media’s harsh glare"
+    excerpt: "Without Trump dominating the news cycle, the media have turned their attention to scandals and controversies like those involving the governor of New York, the governor of California, and a senator fr"
+    publishedDateTime: 2021-02-23T08:14:00Z
+    webUrl: "https://www.foxnews.com/media/trump-vacuum-puts-local-officials-in-medias-harsh-glare"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 115
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/Cruz-Cuomo.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "7gEc8IcTTOtsoXQ3Cey7SFWYVj87L9SZZnNKbuPYacSm7YV59VnPe/sD6voevzKf0KTGdrzDMQ4LMrXyzHDolXok0Lt/8qrYSzLbThpGtYti+PWzj+R/gOOjvygPBggDTFWOMuRGh/9C5AhUGzcJkRUEz/gkHCrOt505VmRX0MLZcsBke/pi3PvXxRC2wAjVORxtFcb1XuSF7jndu5luWPTXtfL8DijCVnZiYGAhkhk21RB/ZNGn8fb4922su1ArnQ5gvXlOZuowh6EXrTwy6Fr4AIywawaAMPupsxB+GNOh1l8O/R8R8xvOGcFNmIMKuVnmortB3D+dRxUUU7rBtDC30bDKSaWMtJWDo32Q1yQ=;8NSeJEOki+4G7fNq4UAAfA=="
 ---

@@ -335,6 +335,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "A Biden edge in COVID-19 bill: Dems reluctant to wound him"
+    excerpt: "Democrats have a potent dynamic on their side as Congress preps for its first votes on the party’s $1.9 trillion COVID-19 relief bill"
+    publishedDateTime: 2021-02-23T08:28:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/big-factor-covid-votes-dems-sink-biden-goal-76037842"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/big-factor-covid-votes-dems-sink-biden-goal-76037842"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/big-factor-covid-votes-dems-sink-biden-goal-76037842"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_f1699c814f07454c8a9d8152d8fa9ac0_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden to mourn 500,000 dead while balancing grief and hope"
     excerpt: "Confronting the grim milestone directly and publicly, Biden is trying to strike a balance between gravity and hope, while Donald Trump generally avoided constructs of collective grief for the deaths on his watch."
     publishedDateTime: 2021-02-22T21:24:00Z
@@ -414,6 +430,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/6857911a6bb4c3291e82fb3183002181fc7d0fc5/0_269_5443_3266/master/5443.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=64f476420fa5563ee7ddd942157d6fea"
         width: 600
         height: 360
+        isCached: true
+  - title: "Mitch McConnell Attacks COVID Stimulus Joe Biden Hoped Would Be Bipartisan"
+    excerpt: "McConnell tweeted about the $1.9 trillion package in what could be seen as a blow to efforts to win bipartisan support. President Joe Biden had previously expressed a hope that Republicans would come on board."
+    publishedDateTime: 2021-02-23T08:36:00Z
+    webUrl: "https://www.newsweek.com/mitch-mcconnell-attacks-covid-stimulus-joe-biden-hoped-would-bipartisan-1571208"
+    ampWebUrl: "https://www.newsweek.com/mitch-mcconnell-attacks-covid-stimulus-joe-biden-hoped-would-bipartisan-1571208?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mitch-mcconnell-attacks-covid-stimulus-joe-biden-hoped-would-bipartisan-1571208?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 123
+    images:
+      - url: "https://d.newsweek.com/en/full/1740446/senate-minority-leader-mitch-mcconnell.jpg"
+        width: 1970
+        height: 1260
         isCached: true
   - title: "UPDATE 1-Biden pushes for pandemic relief in first official trip as president"
     excerpt: "President Joe Biden vowed during a prime-time televised town hall on Tuesday to accelerate the country's vaccination program and said teachers should be moved closer to the front of the line for inoculations to allow more schools to reopen."

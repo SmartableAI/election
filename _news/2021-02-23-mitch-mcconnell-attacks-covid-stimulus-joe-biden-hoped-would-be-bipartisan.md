@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Watch Live: Biden commemorates 500,000 U.S. lives lost to COVID-19"
-excerpt: "With the U.S. crossing the threshold of 500,000 deaths from COVID-19, President Joe Biden is delivering brief remarks on \"the lives lost to COVID-19\" at 6 p.m. ET Monday at the White House. No other country has lost more lives to the yearlong pandemic than the U."
-publishedDateTime: 2021-02-22T21:49:00Z
-originalUrl: "https://www.cbsnews.com/news/biden-500000-covid-19-deaths-watch-live-stream-today-2021-02-22/"
-webUrl: "https://www.cbsnews.com/news/biden-500000-covid-19-deaths-watch-live-stream-today-2021-02-22/"
+title: "Mitch McConnell Attacks COVID Stimulus Joe Biden Hoped Would Be Bipartisan"
+excerpt: "McConnell tweeted about the $1.9 trillion package in what could be seen as a blow to efforts to win bipartisan support. President Joe Biden had previously expressed a hope that Republicans would come on board."
+publishedDateTime: 2021-02-23T08:36:00Z
+originalUrl: "https://www.newsweek.com/mitch-mcconnell-attacks-covid-stimulus-joe-biden-hoped-would-bipartisan-1571208"
+webUrl: "https://www.newsweek.com/mitch-mcconnell-attacks-covid-stimulus-joe-biden-hoped-would-bipartisan-1571208"
+ampWebUrl: "https://www.newsweek.com/mitch-mcconnell-attacks-covid-stimulus-joe-biden-hoped-would-bipartisan-1571208?amp=1"
+cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mitch-mcconnell-attacks-covid-stimulus-joe-biden-hoped-would-bipartisan-1571208?amp=1"
 type: article
-quality: 105
+quality: 123
 heat: -1
 published: false
 
 provider:
-  name: CBS News
-  domain: cbsnews.com
+  name: Newsweek
+  domain: newsweek.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/02/22/171a99a9-7ead-48f8-b357-64a89f8152a6/thumbnail/1200x630g2/29cc55402f3bb8b13edd4ad9c11ed0dd/gettyimages-1231325995.jpg"
-    width: 1200
-    height: 630
+  - url: "https://d.newsweek.com/en/full/1740446/senate-minority-leader-mitch-mcconnell.jpg"
+    width: 1970
+    height: 1260
     isCached: true
 
 related:
@@ -445,22 +447,6 @@ related:
         width: 823
         height: 545
         isCached: true
-  - title: "Mitch McConnell Attacks COVID Stimulus Joe Biden Hoped Would Be Bipartisan"
-    excerpt: "McConnell tweeted about the $1.9 trillion package in what could be seen as a blow to efforts to win bipartisan support. President Joe Biden had previously expressed a hope that Republicans would come on board."
-    publishedDateTime: 2021-02-23T08:36:00Z
-    webUrl: "https://www.newsweek.com/mitch-mcconnell-attacks-covid-stimulus-joe-biden-hoped-would-bipartisan-1571208"
-    ampWebUrl: "https://www.newsweek.com/mitch-mcconnell-attacks-covid-stimulus-joe-biden-hoped-would-bipartisan-1571208?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mitch-mcconnell-attacks-covid-stimulus-joe-biden-hoped-would-bipartisan-1571208?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 123
-    images:
-      - url: "https://d.newsweek.com/en/full/1740446/senate-minority-leader-mitch-mcconnell.jpg"
-        width: 1970
-        height: 1260
-        isCached: true
   - title: "UPDATE 1-Biden pushes for pandemic relief in first official trip as president"
     excerpt: "President Joe Biden vowed during a prime-time televised town hall on Tuesday to accelerate the country's vaccination program and said teachers should be moved closer to the front of the line for inoculations to allow more schools to reopen."
     publishedDateTime: 2021-02-17T02:56:00Z
@@ -677,6 +663,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Watch Live: Biden commemorates 500,000 U.S. lives lost to COVID-19"
+    excerpt: "With the U.S. crossing the threshold of 500,000 deaths from COVID-19, President Joe Biden is delivering brief remarks on \"the lives lost to COVID-19\" at 6 p.m. ET Monday at the White House. No other country has lost more lives to the yearlong pandemic than the U."
+    publishedDateTime: 2021-02-22T21:49:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-500000-covid-19-deaths-watch-live-stream-today-2021-02-22/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/02/22/171a99a9-7ead-48f8-b357-64a89f8152a6/thumbnail/1200x630g2/29cc55402f3bb8b13edd4ad9c11ed0dd/gettyimages-1231325995.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "White House is hopeful Biden can travel to Texas as soon as this week"
     excerpt: "The White House said on Monday it was hopeful that President Joe Biden could travel to Texas as soon as this week to show his support after a deadly winter storm that caused widespread blackouts."
     publishedDateTime: 2021-02-22T17:39:00Z
@@ -689,6 +689,6 @@ related:
       domain: reuters.com
     quality: 105
 
-secured: "sRnuFwkA46ZXFAstFPnLcYBSc38YqU1O/+z630Il4mL9KN3aEV7biDXf+rT+zcZazjqty3biwX7nuEBAgsbubQKKOVbq4lo6hzEzxsy+IkuNr+NbAZy4J3RykqNxlPeojhkAG2M/8kGxnR+XWlWgVQG2aYKw4PjfMPHxPSooNp1fwyS00E2S8pFGvcDuDpGcRQcJ8tDXnNBZGjyEyC0NAPL4yJJHPk9DRlr1Fnq/hoVsTBmNm4JN2HGkaIRL3Y0vgF6ifLjsPBv1z6eETFT4FeUkClrdNx2yEzgJoKT3+kDlu0KwVurGKD7GViySKtchSxtM+9k1mS0NnmXdyj2AiFUg6hYePAEav/LWTC1C7hlEaKzlsNf9W5sEQ7c6jK9sJMkJnalzyYUQY/Ca1A/vEOat1UNFgEq0rv+TGAe7ICIdU9tRgbUI63ZZ4BMcu+3a/r3OroIclB6p3FfleDKmbCdv/E/xkLeZccEapejkI1zzx1WoUMmuzqAYlHjVlEaFHqP1i3jmnOvLXuaZOBR2/g==;sqUKbMKZIJbZ3AiHr32D0Q=="
+secured: "xJeeT21j4vcG2GGML39YQxdpnnj2mhC1bpcY6j0+dogSe9NzlR2ffzRAhQUMEg+t2QwVaWWYtcPIIUcJRTpP8hghWBkvcdKF4ncGSIOkzppOxlaRAuMydJ+il9CcuFnnnhyU0J8TdMVrz80tiq3cHhMnyLi0xBN7pzk1YQO2Nbzc3slS+G9vZp144F8FQny07C2JPPNTrhgb4n7WIGG1ugaEcgzbR5AtVvRL9ISTMA2z1Bwu/xuLS5fZ76t20hHV1yb1t4/aMnHHwXeKBVUZAXXn+uiNCYO7KyhYM8dJiBbdFjaDeqLRkhpXRTLMN7uJoD+l7mpohpuBH6ZOV2sdxWt03rN7HLOnECOOBiP80JU=;Htnt236fcsHj2imeFK9AUw=="
 ---
 

@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Watch Live: Biden commemorates 500,000 U.S. lives lost to COVID-19"
-excerpt: "With the U.S. crossing the threshold of 500,000 deaths from COVID-19, President Joe Biden is delivering brief remarks on \"the lives lost to COVID-19\" at 6 p.m. ET Monday at the White House. No other country has lost more lives to the yearlong pandemic than the U."
-publishedDateTime: 2021-02-22T21:49:00Z
-originalUrl: "https://www.cbsnews.com/news/biden-500000-covid-19-deaths-watch-live-stream-today-2021-02-22/"
-webUrl: "https://www.cbsnews.com/news/biden-500000-covid-19-deaths-watch-live-stream-today-2021-02-22/"
+title: "A Biden edge in COVID-19 bill: Dems reluctant to wound him"
+excerpt: "Democrats have a potent dynamic on their side as Congress preps for its first votes on the party’s $1.9 trillion COVID-19 relief bill"
+publishedDateTime: 2021-02-23T08:28:00Z
+originalUrl: "https://abcnews.go.com/Health/wireStory/big-factor-covid-votes-dems-sink-biden-goal-76037842"
+webUrl: "https://abcnews.go.com/Health/wireStory/big-factor-covid-votes-dems-sink-biden-goal-76037842"
+ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/big-factor-covid-votes-dems-sink-biden-goal-76037842"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/big-factor-covid-votes-dems-sink-biden-goal-76037842"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: CBS News
-  domain: cbsnews.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/02/22/171a99a9-7ead-48f8-b357-64a89f8152a6/thumbnail/1200x630g2/29cc55402f3bb8b13edd4ad9c11ed0dd/gettyimages-1231325995.jpg"
-    width: 1200
-    height: 630
+  - url: "https://s.abcnews.com/images/Health/WireAP_f1699c814f07454c8a9d8152d8fa9ac0_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -330,22 +332,6 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/Politics/WireAP_bd8d39b6c9574abaaeb3520020d053c3_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "A Biden edge in COVID-19 bill: Dems reluctant to wound him"
-    excerpt: "Democrats have a potent dynamic on their side as Congress preps for its first votes on the party’s $1.9 trillion COVID-19 relief bill"
-    publishedDateTime: 2021-02-23T08:28:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/big-factor-covid-votes-dems-sink-biden-goal-76037842"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/big-factor-covid-votes-dems-sink-biden-goal-76037842"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/big-factor-covid-votes-dems-sink-biden-goal-76037842"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_f1699c814f07454c8a9d8152d8fa9ac0_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
@@ -677,6 +663,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Watch Live: Biden commemorates 500,000 U.S. lives lost to COVID-19"
+    excerpt: "With the U.S. crossing the threshold of 500,000 deaths from COVID-19, President Joe Biden is delivering brief remarks on \"the lives lost to COVID-19\" at 6 p.m. ET Monday at the White House. No other country has lost more lives to the yearlong pandemic than the U."
+    publishedDateTime: 2021-02-22T21:49:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-500000-covid-19-deaths-watch-live-stream-today-2021-02-22/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/02/22/171a99a9-7ead-48f8-b357-64a89f8152a6/thumbnail/1200x630g2/29cc55402f3bb8b13edd4ad9c11ed0dd/gettyimages-1231325995.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "White House is hopeful Biden can travel to Texas as soon as this week"
     excerpt: "The White House said on Monday it was hopeful that President Joe Biden could travel to Texas as soon as this week to show his support after a deadly winter storm that caused widespread blackouts."
     publishedDateTime: 2021-02-22T17:39:00Z
@@ -689,6 +689,6 @@ related:
       domain: reuters.com
     quality: 105
 
-secured: "sRnuFwkA46ZXFAstFPnLcYBSc38YqU1O/+z630Il4mL9KN3aEV7biDXf+rT+zcZazjqty3biwX7nuEBAgsbubQKKOVbq4lo6hzEzxsy+IkuNr+NbAZy4J3RykqNxlPeojhkAG2M/8kGxnR+XWlWgVQG2aYKw4PjfMPHxPSooNp1fwyS00E2S8pFGvcDuDpGcRQcJ8tDXnNBZGjyEyC0NAPL4yJJHPk9DRlr1Fnq/hoVsTBmNm4JN2HGkaIRL3Y0vgF6ifLjsPBv1z6eETFT4FeUkClrdNx2yEzgJoKT3+kDlu0KwVurGKD7GViySKtchSxtM+9k1mS0NnmXdyj2AiFUg6hYePAEav/LWTC1C7hlEaKzlsNf9W5sEQ7c6jK9sJMkJnalzyYUQY/Ca1A/vEOat1UNFgEq0rv+TGAe7ICIdU9tRgbUI63ZZ4BMcu+3a/r3OroIclB6p3FfleDKmbCdv/E/xkLeZccEapejkI1zzx1WoUMmuzqAYlHjVlEaFHqP1i3jmnOvLXuaZOBR2/g==;sqUKbMKZIJbZ3AiHr32D0Q=="
+secured: "wBXv8YShT0Gdc0nqte+i9THmNWcYgz4L3vm435alxnXabs7txWS3g0ioI8KFpziN3v6irXL+qp2VlcIVVxmXWtEjzx367nImgHZEvkvUBovw9VdZhlNBk7DJO1d2tcuEySyVp/T3SUlSbt8KR+FbA/nF+eUzFHAQvrehwoLeJpaAAIf+AKFkloXiBUKFSQK5wja1mfefQOn8FW5FJzZTBZpc2lOdOQULaadmHpztx4XsLgtRYTruxItv0J+LW0svuctJ5IH6wZp68l6wndpNH2w3fFAPaXYIMZ0Kcp262nC2/5oFccnagqLBBHS33qc1OBMLsVpkqaTxbdHP2nn/RX1d/1igybwMCDqmW8a6mdg=;Ev8EOYPLnk0JFNmyE2hV5g=="
 ---
 
