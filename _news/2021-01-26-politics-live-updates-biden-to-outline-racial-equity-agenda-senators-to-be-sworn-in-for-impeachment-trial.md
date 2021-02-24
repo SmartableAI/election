@@ -47,6 +47,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Biden's 1st 100 days live updates: McConnell doubles down against relief proposal"
+    excerpt: "Live updates of Judge Merrick Garland's confirmation hearing to be attorney general before the Senate Judiciary Committee."
+    publishedDateTime: 2021-02-24T00:31:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/joe-biden-kamala-harris-white-house-administration/?id=76030510"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/joe-biden-kamala-harris-white-house-administration/?id=76030510"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/joe-biden-kamala-harris-white-house-administration/?id=76030510"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 120
+    images:
+      - url: "https://s.abcnews.com/images/Politics/mitch-mcconnell-rtr-jc-210223_1614113010604_hpMain_2_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "FEMA would operate up to 100 federally run mass vaccination sites under Biden plan"
     excerpt: "A draft FEMA document envisions four different models for sites, with the largest capable of handling 6,000 doses a day."
     publishedDateTime: 2021-01-23T04:28:00Z

@@ -1951,6 +1951,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Biden and Trudeau Renew the Ties Put to the Test by Trump"
+    excerpt: "The United States has no closer friend than Canada,” President Biden told Prime Minister Justin Trudeau in Mr. Biden’s first virtual meeting with a foreign leader."
+    publishedDateTime: 2021-02-24T01:22:00Z
+    webUrl: "https://www.nytimes.com/2021/02/23/us/politics/biden-trudeau-meeting.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/23/us/politics/biden-trudeau-meeting.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/23/us/politics/biden-trudeau-meeting.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/23/us/politics/23dc-prexy1/23dc-prexy1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trump Orders Lifting of Virus Travel Ban, but Biden Aides Vow to Block Move"
     excerpt: "The president’s proclamation, which would not take effect until Jan. 26, after Joe Biden assumes office, was part of a flurry of orders that Mr. Biden is likely to reverse."
     publishedDateTime: 2021-01-19T03:23:00Z

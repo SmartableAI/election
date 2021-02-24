@@ -2,6 +2,62 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-13-biden-administration-expresses-deep-concerns-about-whos-china-probe.md",
+      "title": "Biden administration expresses 'deep concerns' about WHO's China probe",
+      "excerpt": "The Biden administration on Saturday expressed \"deep concerns\" about the World Health Organization’s (WHO) probe into the Chinese handling of the coronavirus.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bEZ406eig2M/biden-deep-concerns-about-whos-china-probe",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bEZ406eig2M/biden-deep-concerns-about-whos-china-probe",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ba8a532b-33f6-4379-905d-cc188ca9df78/01a49ac8-2cdb-483f-ab27-773439ff2ea7/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-deep-concerns-about-whos-china-probe.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-deep-concerns-about-whos-china-probe.amp",
+      "publishedDateTime": "2021-02-13T09:58:55-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-13-biden-will-try-to-close-guantanamo-after-robust-review.md",
       "title": "Biden will try to close Guantanamo after ‘robust’ review",
       "excerpt": "President Joe Biden will seek to close the prison on the U.S. base at Guantanamo Bay following a review process, resuming a project begun under the Obama administration, the White House said Friday.",
@@ -1595,62 +1651,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/flashback-obama-defense-sec-biden-wrong-foreign-policy.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/flashback-obama-defense-sec-biden-wrong-foreign-policy.amp",
       "publishedDateTime": "2021-02-09T19:36:05-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-why-trump-lawyer-david-schoen-covered-his-head-with-every-sip-of-water.md",
-      "title": "Why Trump lawyer David Schoen covered his head with every sip of water",
-      "excerpt": "David Schoen unwittingly gave Twitter a lesson in orthodox Jewish customs during former President Donald Trump’s impeachment trial on Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nSFkGHOeAAc/why-trump-lawyer-david-schoen-covered-his-head-with-every-sip-of-water",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nSFkGHOeAAc/why-trump-lawyer-david-schoen-covered-his-head-with-every-sip-of-water",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/GettyImages-1231067321.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/why-trump-lawyer-david-schoen-covered-his-head-with-every-sip-of-water.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/why-trump-lawyer-david-schoen-covered-his-head-with-every-sip-of-water.amp",
-      "publishedDateTime": "2021-02-09T19:23:57-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

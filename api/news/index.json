@@ -2,6 +2,114 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-24-pence-announces-biden-as-winner-after-congress-finishes-electoral-vote-count.md",
+      "title": "Pence announces Biden as winner after Congress finishes electoral vote count",
+      "excerpt": "Vice President Mike Pence, in his capacity as the president of the Senate, announced President-elect Joe Biden as the winner of 2020 election after Congress finished counting the Electoral College votes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/video/pence-announces-biden-as-winner-after-congress-finishes-electoral-vote-count/",
+      "originalUrl": "https://www.cbsnews.com/video/pence-announces-biden-as-winner-after-congress-finishes-electoral-vote-count/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/07/96903ded-b1a9-4d84-a15f-ea2e517a2a36/thumbnail/1200x630/c99acd2afef2a814aa9ae8a306570843/cbsn-fusion-pence-announces-biden-as-winner-after-congress-finishes-electoral-vote-count-thumbnail-621736-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-23T18:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-02-24-aoc-tears-into-biden-admin-for-reopening-child-migrant-facility-this-is-not-okay.md",
+      "title": "AOC tears into Biden admin for reopening child migrant facility: 'This is not okay'",
+      "excerpt": "Rep. Alexandria Ocasio-Cortez, D-N.Y., had some strong words for President Biden's administration after news surfaced that it was reopening a child migrant detention facility in Texas.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/N131LIzMZO8/aoc-biden-child-migrant-facility",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/N131LIzMZO8/aoc-biden-child-migrant-facility",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8c344915-8c99-4be2-b518-e14a049426cb/58ebec30-01e6-4e46-b823-b9f83aae2b97/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/aoc-biden-child-migrant-facility.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-biden-child-migrant-facility.amp",
+      "publishedDateTime": "2021-02-23T17:40:23-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-24-biden-says-us-canada-doubled-down-on-efforts-to-fight-climate-change.md",
       "title": "Biden says US, Canada 'doubled down' on efforts to fight climate change",
       "excerpt": "President Biden hosted his first bilateral meeting with Canadian Prime Minister Justin Trudeau, where the pair pledged to strengthen their partnership and to address the COVID-19 pandemic, climate change and a middle-class economic recovery as a team.",
@@ -294,7 +402,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 235,
+      "heat": 275,
       "tags": null,
       "images": [
         {
@@ -567,7 +675,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-visit-storm-ravaged-texas-friday-76068435",
       "featuredContent": null,
       "highlight": null,
-      "heat": 305,
+      "heat": 325,
       "tags": null,
       "images": [
         {
@@ -1003,7 +1111,7 @@
       "originalUrl": "https://www.washingtonpost.com/national/in-backing-south-carolina-gop-chair-trump-remains-active/2021/02/23/2b491a60-75c7-11eb-9489-8f7dacd51e75_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 245,
       "tags": null,
       "images": [
         {
@@ -1055,7 +1163,7 @@
       "originalUrl": "https://www.washingtonpost.com/world/2021/02/23/canada-trudeau-biden-trump-faq/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 185,
       "tags": null,
       "images": [
         {
@@ -1223,7 +1331,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 400,
+      "heat": 420,
       "tags": null,
       "images": [
         {
@@ -1265,114 +1373,6 @@
         "Election",
         "Democratic Voice",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-fact-check-posts-falsely-claim-biden-gave-china-control-of-us-power-grid.md",
-      "title": "Fact check: Posts falsely claim Biden gave China control of U.S. power grid",
-      "excerpt": "No executive order signed by President Joe Biden gave China control of the U.S. power grid, and his order isn't linked to the Texas power outages.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/factcheck/2021/02/22/fact-check-posts-falsely-claim-biden-gave-china-control-power-grid/4523427001/",
-      "originalUrl": "https://www.usatoday.com/story/news/factcheck/2021/02/22/fact-check-posts-falsely-claim-biden-gave-china-control-power-grid/4523427001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/02/19/USAT/603162ef-b26b-4e0b-a54c-c91b0da0868d-AP21050597735960.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/4523427001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4523427001",
-      "publishedDateTime": "2021-02-22T18:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-trump-to-claim-he-is-presumptive-2024-nominee-leader-of-gop-in-cpac-speech-report.md",
-      "title": "Trump to claim he is ‘presumptive 2024 nominee,’ leader of GOP in CPAC speech: report",
-      "excerpt": "A longtime Trump adviser told Axios his CPAC speech will be a \"show of force,\" and said the message will be: \"I may not have Twitter or the Oval Office, but I'm still in charge.\" The source reportedly added that \"payback is his chief obsession.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zrMJj40Y9W4/trump-to-claim-he-is-presumptive-2024-nominee-leader-of-gop-in-cpac-speech-report",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zrMJj40Y9W4/trump-to-claim-he-is-presumptive-2024-nominee-leader-of-gop-in-cpac-speech-report",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/donald-trump-melania6.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-to-claim-he-is-presumptive-2024-nominee-leader-of-gop-in-cpac-speech-report.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-to-claim-he-is-presumptive-2024-nominee-leader-of-gop-in-cpac-speech-report.amp",
-      "publishedDateTime": "2021-02-22T17:14:26-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

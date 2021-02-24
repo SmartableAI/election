@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/national/in-backing-south-carolina-go
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/in-backing-south-carolina-gop-chair-trump-remains-active/2021/02/23/2b491a60-75c7-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "In backing South Carolina GOP chair, Trump remains active"
+    excerpt: "South Carolina’s GOP chairman Drew McKissick tells The Associated Press that Donald Trump is backing him for a third term"
+    publishedDateTime: 2021-02-24T02:20:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/backing-south-carolina-gop-chair-trump-remains-active-76059896"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/backing-south-carolina-gop-chair-trump-remains-active-76059896"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/backing-south-carolina-gop-chair-trump-remains-active-76059896"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_75282de617dd461fa98147b4ae80b735_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "QAnon Hardliners Are Doubling Down on Theory Donald Trump Will Be Reinstated on March 4"
     excerpt: "There are fears of potential violence as QAnon supporters say Donald Trump will somehow be inaugurated on March 4."
     publishedDateTime: 2021-02-19T10:21:00Z

@@ -47,6 +47,22 @@ related:
         width: 1440
         height: 962
         isCached: true
+  - title: "More policy, less pomp as Biden-Trudeau meet virtually"
+    excerpt: "President Joe Biden’s first bilateral meeting with Canada’s Justin Trudeau since taking office was high on policy, low on pomp and featured a very large swipe at Biden’s predecessor"
+    publishedDateTime: 2021-02-23T22:47:00Z
+    webUrl: "https://www.washingtonpost.com/world/national-security/more-policy-less-pomp-as-biden-trudeau-meet-virtually/2021/02/23/25294c3a-763b-11eb-9489-8f7dacd51e75_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/national-security/more-policy-less-pomp-as-biden-trudeau-meet-virtually/2021/02/23/25294c3a-763b-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/more-policy-less-pomp-as-biden-trudeau-meet-virtually/2021/02/23/25294c3a-763b-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Biden Early Approval Ratings Better Than Donald Trump, Barack Obama, George W Bush, Bill Clinton?"
     excerpt: "President Joe Biden's approval ratings are trending positive early in his term, with 57% approving of his job performance in an early February poll and 62% doing so in a poll taken Sunday and Monday."
     publishedDateTime: 2021-02-16T20:48:00Z

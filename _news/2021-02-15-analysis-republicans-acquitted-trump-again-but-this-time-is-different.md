@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Pence speaks highly of Trump in meeting and notes he'll soon launch a political group"
+    excerpt: "Former Vice President Mike Pence told a group of conservative lawmakers on Tuesday that he maintains a close personal friendship with former President Donald Trump, while noting that he plans to launch a political organization that will defend their administration's record over the past four years.\n"
+    publishedDateTime: 2021-02-24T01:43:42Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sFW2-ve45bs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/23/politics/trump-pence-congress/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/23/politics/trump-pence-congress/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 193
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210105143554-01-trump-pence-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Supreme Court takes up Trump regulation on abortion counseling"
     excerpt: "The Supreme Court on Monday agreed to hear a challenge to a Trump administration rule barring federally funded health care providers in the Title X family planning program from referring patients for abortions.\n    \n"
     publishedDateTime: 2021-02-22T15:46:12Z

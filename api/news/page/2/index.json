@@ -2,6 +2,114 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-23-fact-check-posts-falsely-claim-biden-gave-china-control-of-us-power-grid.md",
+      "title": "Fact check: Posts falsely claim Biden gave China control of U.S. power grid",
+      "excerpt": "No executive order signed by President Joe Biden gave China control of the U.S. power grid, and his order isn't linked to the Texas power outages.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/factcheck/2021/02/22/fact-check-posts-falsely-claim-biden-gave-china-control-power-grid/4523427001/",
+      "originalUrl": "https://www.usatoday.com/story/news/factcheck/2021/02/22/fact-check-posts-falsely-claim-biden-gave-china-control-power-grid/4523427001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/02/19/USAT/603162ef-b26b-4e0b-a54c-c91b0da0868d-AP21050597735960.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4523427001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4523427001",
+      "publishedDateTime": "2021-02-22T18:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-02-23-trump-to-claim-he-is-presumptive-2024-nominee-leader-of-gop-in-cpac-speech-report.md",
+      "title": "Trump to claim he is ‘presumptive 2024 nominee,’ leader of GOP in CPAC speech: report",
+      "excerpt": "A longtime Trump adviser told Axios his CPAC speech will be a \"show of force,\" and said the message will be: \"I may not have Twitter or the Oval Office, but I'm still in charge.\" The source reportedly added that \"payback is his chief obsession.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zrMJj40Y9W4/trump-to-claim-he-is-presumptive-2024-nominee-leader-of-gop-in-cpac-speech-report",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zrMJj40Y9W4/trump-to-claim-he-is-presumptive-2024-nominee-leader-of-gop-in-cpac-speech-report",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/donald-trump-melania6.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-to-claim-he-is-presumptive-2024-nominee-leader-of-gop-in-cpac-speech-report.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-to-claim-he-is-presumptive-2024-nominee-leader-of-gop-in-cpac-speech-report.amp",
+      "publishedDateTime": "2021-02-22T17:14:26-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-23-biden-asks-high-court-to-drop-two-trump-era-medicaid-cases.md",
       "title": "Biden asks high court to drop two Trump-era Medicaid cases",
       "excerpt": "The Biden administration is asking the Supreme Court not to hear arguments in two cases on its March calendar about the Trump administration’s plan to remake Medicaid by requiring recipients to work.",
@@ -1278,118 +1386,6 @@
         "Election",
         "Republican Voice",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-02-21-analysis-biden-faces-the-19-trillion-question-is-it-too-much.md",
-      "title": "Analysis: Biden faces the $1.9 trillion question: Is it too much?",
-      "excerpt": "Is President Joe Biden's $1.9 trillion Covid relief package too big? Plenty of economists across the ideological spectrum think so.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bhAEbZht8RI/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bhAEbZht8RI/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210219080429-01-joe-biden-0210-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/21/politics/biden-covid-relief-plan-economists/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/21/politics/biden-covid-relief-plan-economists/index.html",
-      "publishedDateTime": "2021-02-21T04:27:51-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-21-biden-revival-of-immigration-catch-and-release-wont-work-former-cbp-chief.md",
-      "title": "Biden revival of immigration 'catch and release' won't work: former CBP chief",
-      "excerpt": "By reviving the so-called \"catch and release\" approach of the past, the Biden administration is \"facilitating illegal immigration,\" a former head of Customs and Border Protection argued Saturday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rnq4rKqsh9s/biden-revival-of-immigration-catch-and-release-wont-work-former-cbp-chief",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rnq4rKqsh9s/biden-revival-of-immigration-catch-and-release-wont-work-former-cbp-chief",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 212,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-revival-of-immigration-catch-and-release-wont-work-former-cbp-chief.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-revival-of-immigration-catch-and-release-wont-work-former-cbp-chief.amp",
-      "publishedDateTime": "2021-02-20T17:36:24-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

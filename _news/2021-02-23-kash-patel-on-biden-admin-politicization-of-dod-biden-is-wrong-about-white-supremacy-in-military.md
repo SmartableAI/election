@@ -26,19 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "‘It is a scandal’: Former Secretary of Education blasts Biden administration over school closures"
-    excerpt: "Former Secretary of Education Dr. Bill Bennet said Monday \"it is a scandal\" for many major public schools in the U.S. to continue to be shut down under President Joe Biden’s administration."
-    publishedDateTime: 2021-02-15T21:32:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CSXpsGoqjgc/scandal-former-secretary-education-biden-administration-school-reopening-covid-remote-learning"
-    ampWebUrl: "https://www.foxnews.com/politics/scandal-former-secretary-education-biden-administration-school-reopening-covid-remote-learning.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/scandal-former-secretary-education-biden-administration-school-reopening-covid-remote-learning.amp"
+  - title: "AOC tears into Biden admin for reopening child migrant facility: 'This is not okay'"
+    excerpt: "Rep. Alexandria Ocasio-Cortez, D-N.Y., had some strong words for President Biden's administration after news surfaced that it was reopening a child migrant detention facility in Texas."
+    publishedDateTime: 2021-02-24T01:40:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/N131LIzMZO8/aoc-biden-child-migrant-facility"
+    ampWebUrl: "https://www.foxnews.com/politics/aoc-biden-child-migrant-facility.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-biden-child-migrant-facility.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 162
+    quality: 169
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2d188969-ee03-4425-9b0f-38e2311976a3/879e3e97-56d8-4f7e-8ad7-534d8e030d84/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8c344915-8c99-4be2-b518-e14a049426cb/58ebec30-01e6-4e46-b823-b9f83aae2b97/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

@@ -1310,6 +1310,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Pence speaks highly of Trump in meeting and plans to launch a political group"
+    excerpt: "Former Vice President Mike Pence told a group of conservative lawmakers on Tuesday that he maintains a close personal friendship with former President Donald Trump, while noting that he plans"
+    publishedDateTime: 2021-02-24T01:22:00Z
+    webUrl: "https://www.newspressnow.com/news/national_news/election2020/pence-speaks-highly-of-trump-in-meeting-and-plans-to-launch-a-political-group/article_0d361024-075e-5a6b-99f6-88bb69e81171.html"
+    type: article
+    provider:
+      name: News-Press NOW
+      domain: newspressnow.com
+    quality: 67
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/newspressnow.com/content/tncms/assets/v3/editorial/0/6c/06c66c07-d0c1-58f4-8aa0-0502b7915768/6035a91f577de.image.jpg?resize=1120%2C630"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "2 Impeachment Trials, 2 Escape Hatches for Donald Trump"
     excerpt: "Donald Trump’s first impeachment trial centered on a phone call that Americans never heard with the leader of a country far away, Ukraine."
     publishedDateTime: 2021-02-14T05:41:00Z

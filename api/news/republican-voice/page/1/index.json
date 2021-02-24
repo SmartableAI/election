@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-24-aoc-tears-into-biden-admin-for-reopening-child-migrant-facility-this-is-not-okay.md",
+      "title": "AOC tears into Biden admin for reopening child migrant facility: 'This is not okay'",
+      "excerpt": "Rep. Alexandria Ocasio-Cortez, D-N.Y., had some strong words for President Biden's administration after news surfaced that it was reopening a child migrant detention facility in Texas.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/N131LIzMZO8/aoc-biden-child-migrant-facility",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/N131LIzMZO8/aoc-biden-child-migrant-facility",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8c344915-8c99-4be2-b518-e14a049426cb/58ebec30-01e6-4e46-b823-b9f83aae2b97/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/aoc-biden-child-migrant-facility.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-biden-child-migrant-facility.amp",
+      "publishedDateTime": "2021-02-23T17:40:23-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-24-biden-says-us-canada-doubled-down-on-efforts-to-fight-climate-change.md",
       "title": "Biden says US, Canada 'doubled down' on efforts to fight climate change",
       "excerpt": "President Biden hosted his first bilateral meeting with Canadian Prime Minister Justin Trudeau, where the pair pledged to strengthen their partnership and to address the COVID-19 pandemic, climate change and a middle-class economic recovery as a team.",
@@ -238,7 +294,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 235,
+      "heat": 275,
       "tags": null,
       "images": [
         {
@@ -1625,63 +1681,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-trump-praising-rush-revives-his-stolen-election-claims-on-tv.md",
-      "title": "Trump, praising Rush, revives his ‘stolen election’ claims on TV",
-      "excerpt": "Donald Trump has taken to the airwaves to praise the late Rush Limbaugh and declare that he still believes the election was stolen.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/trump-praising-rush-revives-his-stolen-election-claims-on-tv",
-      "originalUrl": "https://www.foxnews.com/media/trump-praising-rush-revives-his-stolen-election-claims-on-tv",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/THUMB-trumps-425A.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-19T00:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     }

@@ -47,6 +47,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "In backing South Carolina GOP chair, Trump remains active"
+    excerpt: "South Carolina’s GOP chairman Drew McKissick tells The Associated Press that Donald Trump is backing him for a third term"
+    publishedDateTime: 2021-02-24T02:20:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/backing-south-carolina-gop-chair-trump-remains-active-76059896"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/backing-south-carolina-gop-chair-trump-remains-active-76059896"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/backing-south-carolina-gop-chair-trump-remains-active-76059896"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_75282de617dd461fa98147b4ae80b735_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Donald Trump Jr. uses a wall of guns as backdrop to launch video attack against teaching unions"
     excerpt: "Donald Trump Jr. stood in front of a wall of guns while declaring teachers \"out of control\" in the clip shared on a Canadian video site."
     publishedDateTime: 2021-02-22T15:16:00Z

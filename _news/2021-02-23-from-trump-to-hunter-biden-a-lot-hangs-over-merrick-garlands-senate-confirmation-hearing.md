@@ -8,7 +8,7 @@ webUrl: "https://www.usatoday.com/story/news/politics/2021/02/21/attorney-genera
 ampWebUrl: "https://amp.usatoday.com/amp/6781444002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6781444002"
 type: article
-quality: 130
+quality: 140
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Election
   - Donald Trump
+  - Joe Biden
 
 images:
   - url: "https://www.gannett-cdn.com/presto/2021/01/07/PWIL/96e8a4bd-3ce7-47eb-9d88-bd48f12a07af-AP21007698149548.jpg?auto=webp&crop=5771,3247,x0,y577&format=pjpg&width=1200"

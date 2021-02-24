@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-24-pence-announces-biden-as-winner-after-congress-finishes-electoral-vote-count.md",
+      "title": "Pence announces Biden as winner after Congress finishes electoral vote count",
+      "excerpt": "Vice President Mike Pence, in his capacity as the president of the Senate, announced President-elect Joe Biden as the winner of 2020 election after Congress finished counting the Electoral College votes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/video/pence-announces-biden-as-winner-after-congress-finishes-electoral-vote-count/",
+      "originalUrl": "https://www.cbsnews.com/video/pence-announces-biden-as-winner-after-congress-finishes-electoral-vote-count/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/07/96903ded-b1a9-4d84-a15f-ea2e517a2a36/thumbnail/1200x630/c99acd2afef2a814aa9ae8a306570843/cbsn-fusion-pence-announces-biden-as-winner-after-congress-finishes-electoral-vote-count-thumbnail-621736-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-23T18:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-02-23-pence-and-trumps-relationship-is-amicable-source-says.md",
       "title": "Pence and Trump's relationship is 'amicable,' source says",
       "excerpt": "Former Vice President Mike Pence and former President Donald Trump have spoken twice since the inauguration last month, according to a knowledgeable source, who described the pair's relationship as \"amicable.\"\n    \n",
@@ -14,7 +66,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 400,
+      "heat": 420,
       "tags": null,
       "images": [
         {
@@ -1491,49 +1543,6 @@
       "provider": {
         "name": "Washington Times",
         "domain": "washingtontimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-mike-pence-is-homeless.md",
-      "title": "Mike Pence Is Homeless",
-      "excerpt": "Pastor Crockett: I would like to welcome everyone to Lovejoy’s Church of Spirits and Blessings, which, as you all know, is a Pentecostal, Baptist, Catholic, atheist, Muslim, trap house for the lord.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theroot.com/mike-pence-is-homeless-1846141151",
-      "originalUrl": "https://www.theroot.com/mike-pence-is-homeless-1846141151",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/hxsg59rkropisnxmyqwa.jpg",
-          "width": 800,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theroot.com/mike-pence-is-homeless-1846141151/amp",
-      "cdnAmpWebUrl": "https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/mike-pence-is-homeless-1846141151/amp",
-      "publishedDateTime": "2021-01-27T03:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Root",
-        "domain": "theroot.com",
         "images": null,
         "publishers": null,
         "authors": null

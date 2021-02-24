@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Senate advances key nominees as Biden's Cabinet starts to take shape"
+    excerpt: "President Joe Biden's Cabinet rounded further into form Tuesday with the approval of two nominees and confirmation hearings on three more. The Senate approved former Agriculture Secretary Tom Vilsack to serve in the same position in Biden's Cabinet."
+    publishedDateTime: 2021-02-24T01:51:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/23/joe-biden-cabinet-taking-shape-senate-oks-thomas-greenfield-vilsack/4556541001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4556541001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4556541001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/23/USAT/7d61f808-12a0-46ae-813d-b7ba1de4cb8e-USP_News__Senate_hearing_on_the_Jan._6_attack_on_t.jpg?auto=webp&crop=4445,2501,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden to revise small business PPP loans to reach smaller, minority firms"
     excerpt: "President Joe Biden on Monday launched changes to the U.S. coronavirus aid program for small businesses to try to reach smaller and minority-owned firms, sole proprietors and those with past criminal records left behind in previous rounds of aid."
     publishedDateTime: 2021-02-22T18:32:00Z
